@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto por UNIMED BELO HORIZONTE COOPERATIVA DE TRABALHO MÉDICO.
+O apelo extremo, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - PLANO DE SAÚDE - NEGATIVA DE COBERTURA - FORNECIMENTO DE MEDICAMENTO PARA TRATAMENTO DE ESCLEROSE SISTÊMICIA - MICOFELANATO DE MOFETILA - POSSIBILIDADE - ESGOTAMENTO DOS MEIOS POSSÍVEIS DE TERAPIA - INDICAÇÃO DO PROFISSIONAL MÉDICO - RECUSA INDEVIDA - ATO ILÍCITO - CONFIGURAÇÃO - DANO MORAL - MONTANTE - PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE - ÔNUS DA SUCUMBÊNCIA MODIFICADOS - SENTENÇA REFORMADA EM PARTE.
+- Nos termos do Enunciado n.º 469, da Súmula de Jurisprudência Dominante do Superior Tribunal de Justiça, as contratações de planos de saúde estão submetidas às normas do Código de Defesa do Consumidor.
+- Evidenciada a necessidade de utilização, pelo autor, de medicação específica para tratamento de esclerose sistémica, depois de infrutíferas as alternativas disponíveis, mostra -se ilícita a negativa de cobertura, pela operadora do Plano de Saúde.
+- A indevida recusa, no caso, prolongou de maneira desnecessária o sofrimento do consumidor, gerando-lhe sentimento de ansiedade e angústia, caracterizando dano moral indenizável.
+- A reparação deve ser fixada segundo os princípios da razoabilidade e proporcionalidade, de acordo com as peculiaridades do caso, levando-se em conta a extensão do dano.
+- A verba honorária de sucumbência tem seu arbitramento, quando houver condenação, nos termos do artigo 85, §2. º, do CPC/15, levando em consideração a complexidade da causa, o conteúdo do trabalho jurídico apresentado e a maior ou menor atuação do profissional.
+(V. v) APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - PLANO DE SAÚDE - NEGATIVA DE COBERTURA - FORNECIMENTO DE MEDICAMENTO PARA TRATAMENTO DE ESCLEROSE SISTÊMICIA - DANO MORAL - REQUISITOS DO DEVER DE INDENIZAR - NÃO PREENCHIMENTO - SENTENÇA MANTIDA.
+- É possível afastar a presunção de dano moral na hipótese em que a recusa de cobertura de material e medicamento pela operadora de saúde decorre de expressa previsão contratual, não configurando a conduta ilícita capaz de ensejar o direito à indenização" (e-STJ fl. 440).
+No recurso especial, a recorrente aponta a violação dos artigos10, § 4º, 12 e 16, VI da Lei nº 9.656/98 e 54, §4º do Código de Defesa do Consumidor.
+Aduz que a listagem dos procedimentos contida na RN 465/ANS é taxativa. Alega, também, não ser obrigada a oferecer cobertura a tratamentos não previstos no Rol de Procedimentos e Eventos da ANS.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial. A irresignação não merece prosperar.
+Quando do julgamento dos EREsps nºs 1.886.929/SP e 1.889.704/SP (rel. Ministro Luis Felipe Salomão, DJe 3/8/2022), a Segunda Seção desta Corte Superior uniformizou o entendimento de ser o Rol da ANS, em regra, taxativo, podendo ser mitigado quando atendidos determinados critérios.
+Assim, foram adotados os seguintes parâmetros para a apreciação de casos concretos:
+"1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS".
+A respeito da cobertura do procedimento requerido (uso de micofenalato de mofetila para tratamento de esclerose sistêmica), o acórdão de e-STJ fls. 440/455 asseverou que:
+"Do que se extrai do relatório médico juntado aos autos (ordem 09), a autora sofre de esclerose sistémica, indicando a profissional que o assiste a falha de outras terapias, solicitando o uso do Micofelanato de Mofetila, medicamento que houve boa resposta, sendo aprovado pela ANVISA e fornecido pelo SUS, em casos de transplantados renal.
+Observa-se, ainda, que outros meios de tratamento foram tentados, sem sucesso, restando, à autora, aqui apelada, o indicado pela médica que a acompanha, que deixou consignado em seu relatório:
+Devido ao quadro cutâneo e pulmonar e com o histórico de uso prévio de ciclofosfamida e de intolerância à Azatioprina, associado às evidências do benefício do micofenolato de mofetila na esclerose sistêmica, em fevereiro de 2020 a paciente iniciou o tratamento com esta medicação. Essa medicação é aprovada pela Anvisa, é fornecida pelo SUS para transplantados renal.
+Caso a paciente não faça uso da medicação, a opção de retornar o uso da ciclofosfamida incorre em aumento do risco dos efeitos colaterais devido ao uso prolongado (infecções, neoplasia e disfunção medular - citopenias). Adicionalmente, o não tratamento incorre no risco de piora do acometimento e perda da função pulmonar, com risco de morte. O acometimento pulmonar na esclerose sistêmica é uma das principais manifestações associadas à mortalidade.
+Com o uso do micofenolato, houve estabilidade do quadro, com TC Tórax em 21/07/21, mostrando áreas de espessamento dos septos intra e interlobulares, associados a bronquioloectasias de tração observadas em tipografia subpleural, de forma mais proeminente nas regiões inferiores de ambos pulmões.
+Espiro 03/2021 - CVF 84% normal / VEF1 84% / DLCO 69%
+ECO 07/2021 - FE 60%, função sistólica preservada, PSAP 25 MMHG" (e-STJ fl. 444).
+Desse modo, havendo o reconhecimento pelo acórdão estadual de que o tratamento assistencial indicados está enquadrado nos critérios de superação da taxatividade, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Não cabe a este Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordiná rias, a quem compete amplo juízo de cognição da lide.
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (dez por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil.
+Publique-se.
+Intimem-se.
+EMENTA
