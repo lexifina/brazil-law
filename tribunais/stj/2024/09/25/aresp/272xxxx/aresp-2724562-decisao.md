@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CREFISA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTOS contra a decisão que inadmitiu o recurso especial com fundamento na Súmula n. 7 do STJ e negou seguimento ao recurso especial em razão dos Temas n. 24 a 27 do STJ (juros remuneratórios).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina em apelação nos autos de ação revisional de contrato de empréstimo bancário.
+O julgado foi assim ementado (fl. 309):
+REVISIONAL DE CONTRATOS DE EMPRÉSTIMO BANCÁRIO - POSSIBILIDADE DE READEQUAÇÃO DAS TAXAS DE JUROS REMUNERATÓRIOS ESTIPULADAS NO MÚTUO DIANTE DA DESVANTAGEM EXAGERADA E DA ONEROSIDADE EXCESSIVA A QUE FOI EXPOSTA A CONSUMIDORA - ENTENDIMENTO SUFRAGADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA - MITIGAÇÃO DO PACTA SUNT SERVANDA - REDUÇÃO DOS JUROS COMPENSATÓRIOS EM RAZÃO DA IDENTIFICADA ABUSIVIDADE - MUTUÁRIA QUE FAZ JUS À DEVOLUÇÃO DO QUE LHE FOI COBRADO INDEVIDAMENTE - VERBA SUCUMBENCIAL ARBITRADA EM PRIMEIRA INSTÂNCIA EM SINTONIA COM O COMANDO EMANADO DO DISPOSTONO §2º DO ARTIGO 85 DA LEI PROCESSUAL CIVIL - RECURSO DESPROVIDO
+Deve ser flexibilizado o mantra jurídico pacta sunt servanda para autorizar-se a revisão contratual de mútuo bancário, dês que a abusividade seja demonstrada (STJ - Agravo Interno no Recurso Especial nº 1.920.112/PR, Terceira Turma, unânime, relator Ministro Marco Aurélio Bellizze, j. em 21.2.2022). Se isso for constatado, os juros remuneratórios comportam redução para equivalerem à média de mercado (STJ - Agravo Interno no Agravo em Recurso Especial nº 1.823.166/RS, Quarta Turma, unânime, relator Ministro Marco Buzzi, j. em 21.2.2022).
+"A procedência dos pedidos formulados em ação revisional de contrato bancário possibilita tanto a compensação de créditos quanto a devolução da quantia paga indevidamente, em obediência ao princípio que veda o enriquecimento ilícito" (STJ - Agravo Interno no Recurso Especial nº 1.679.635/PR, Quarta Turma, unânime, relator Ministro Antonio Carlos Ferreira, j. em 10.8.2020).
+Descabe a mitigação da verba advocatícia sucumbencial originalmente fixada quando o montante revelar-se consentâneo ao trabalho desenvolvido pelo advogado que atuou no patrocínio da causa daquele que sagrou-se vencedor na pretensão deduzida em Juízo.
+Os embargos de declaração opostos foram rejeitados com aplicação da multa prevista no art. 1.026, § 2º, do CPC (fls. 416-417).
+Nas razões do recurso especial, a ora agravante aponta, além de dissídio jurisprudencial, violação dos arts. 421 do Código Civil e 1.026, § 2º, e 80, VII, do CPC.
+Sustenta que os contratos são plenamente válidos, tratando-se de atos jurídicos perfeitos, por isso constituem lei entre as partes, razão pela qual é descabida sua invalidação.
+Argumenta que o Tribunal de origem reconheceu a abusividade dos juros remuneratórios mediante simples cotejo com a taxa média de mercado publicada pelo Bacen, ausente análise individualizada das peculiaridades do caso concreto, contrariamente ao decidido no REsp n. 1.061.530/RS.
+Afirma que houve violação do art. 1.026, § 2º, do CPC, uma vez que o Tribunal de origem lhe aplicou multa por entender protelatórios os embargos de declaração, embora tivessem por objetivo prequestionar a matéria.
+Pleiteia a atribuição de efeito suspensivo ao recurso especial para que seja evitada a prática de atos executórios, ao argumento de que a pretensão recursal é plausível e de que a imediata produção de efeitos da decisão recorrida representa risco de prejuízo de difícil reparação.
+Requer o provimento do recurso e a inversão dos ônus de sucumbência caso a demanda seja provida.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Inicialmente, registre-se que, em relação à parte do recurso que teve seguimento obstado pelo art. 1.030, V, do CPC (juros remuneratórios), considerando as disposições do art. 1.030, I, b, c/c o § 2º, é importante esclarecer que o conhecimento do apelo extremo por esta Corte fica restrito à análise da matéria inadmitida pelo Tribunal de origem.
+Em conformidade com a jurisprudência do STJ, é possível o juízo de admissibilidade adentrar o mérito do recurso, porquanto o exame da admissibilidade pela alínea a, em razão dos pressupostos constitucionais, envolve o próprio mérito da controvérsia (REsp n. 1.664.818/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.760.002/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022; e AgRg no AREsp n. 2.032.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022).
+I - Da multa prevista no art. 1.026, § 2º, do CPC
+O Tribunal de origem aplicou multa à recorrente por considerar protelatórios e com o objetivo de revisão do julgado os embargos de declaração opostos.
+Contudo, verifica-se que os embargos de declaração opostos ao acórdão do Tribunal de origem em apelação têm o intento de prequestionamento. Assim, não está configurado o caráter protelatório do referido recurso.
+Aplica-se ao caso, portanto, a Súmula n. 98 do STJ, que dispõe que "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+Assim, no que se refere ao afastamento da aplicação da multa prevista no art. 1.026, § 2º, do CPC, o recurso merece prosperar.
+II - Do pedido de concessão de efeito suspensivo
+Segundo a jurisprudência do STJ, "havendo manifestação superveniente do órgão julgador sobre o tema, não subsiste o pedido de tutela provisória que pretendia conceder efeito suspensivo ao recurso já julgado" (AgInt no AREsp n. 2.298.991/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023).
+Dessa forma, o pedido de atribuição de efeito suspensivo ao recurso especial perdeu o objeto em razão do julgamento deste recurso.
+A propósito: AgInt no REsp n. 1.674.439/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023; EDcl no AgInt no TP n. 3.594/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/8/2022, DJe de 30/8/2022).
+III - Conclusã o
+Ante o exposto, indefiro o pedido de atribuição de efeito suspensivo ao recurso. No mérito, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, dar -lhe provimento a fim de afastar a multa aplicada no julgamento dos embargos de declaração (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
