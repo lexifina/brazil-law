@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS MANOEL DOS SANTOS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fls. 425/426):
+EMENTA: DIREITO CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL. POLICIAL MILITAR. REQUERIMENTO DE COMPENSAÇÃO DE VENCIMENTOS EM 33,33% POR SUPOSTO AUMENTO DA CARGA HORÁRIA. LEI COMPLEMENTAR Nº 169/2011. AUSÊNCIA DE COMPROVAÇÃO. RECURSO DESPROVIDO. DECISÃO UNÂNIME.
+1. Neste caso, pretende o apelante, policial militar, a condenação do Estado de Pernambuco a implantar em seus vencimentos o percentual de 33,33% sobre todas as parcelas da sua remuneração, inclusive gratificações, férias e décimo terceiro salário, dos últimos cinco anos, acrescidos de correção monetária e juros de mora, devido ao aumento de carga horária conferido pelo art. 5º da Lei Complementar Estadual nº. 169/2011.
+2. O Supremo Tribunal Federal reconheceu a existência de Repercussão Geral quanto ao Tema "aumento da carga horária de servidores públicos por meio de norma estadual, sem a devida contraprestação remuneratória" (Tema nº 514 do Supremo Tribunal Federal). Na oportunidade, restou consignado que a ampliação da jornada de trabalho, sem alteração da remuneração do servidor, consiste em violação da regra constitucional da irredutibilidade de vencimentos.
+3. No caso dos autos, a Lei Complementar Estadual nº 169/2011, que redefiniu a estrutura de remuneração dos Militares do Estado de Pernambuco, em seu art. 5º, dispõe que se aplicam a esses servidores as disposições contidas no art. 19, da Lei Complementar Estadual nº 155/2010 (que fixou a jornada de trabalho em 40 horas semanais para a polícia civil).
+4. Quanto aos policiais militares, em relação à jornada de trabalho anterior à Lei Complementar Estadual nº 169/2011, não existem provas de efetivo aumento após a aplicação da Lei Complementar 155/2010.
+5. O Suplemento Normativo -SUNOR-Nº G 1.0.00.023, de agosto de 2013, descreve a jornada de trabalho regular da PMPE, cuja regra é de 40 (quarenta) horas semanais.
+6. O art. 1º do SUNOR Nº G 1.0.00.0 021 de 11/06/2002, estabelece, somente para os militares afastados de suas funções, uma carga horária reduzida, não podendo, assim, ser aplicados a todos os integrantes da polícia militar estadual.
+7. Além disso, o Regime de dedicação integral dos militares está previsto no Estatuto da Polícia Militar, e a Lei Complementar Estadual nº 49/2003 especificou a jornada de trabalho dos policiais, civis e militares, em regime especial, em doze horas de atividade por trinta e seis de repouso, nos termos do art. 46, III.
+8. Não existe nos autos comprovação de efetivo aumento da jornada de trabalho dos policiais militares, sendo incabível, assim, a compensação salarial ora almejada.
+9. Outrossim, ainda que se entenda pela comprovação do aumento da carga horária para os policiais militares, o que acarretaria um aumento de 33,33%, não existiu decréscimo de vencimentos, posto que a Lei nº 169/2011 e seguintes realizaram aumentos maiores do que o percentual perseguido pelo militar.
+10. Como bem salientado pelo Estado de Pernambuco, a LCE nº 169/2011 promoveu uma profunda reestruturação na carreira dos militares, com a concessão de reajustes remuneratórios (incremento de vencimentos) parcelados entre os meses de julho de 2011, junho de 2012, junho 2013 e junho 2014.
+11. Cumpre notar que os aumentos promovidos pela LCE nº 169/2011 entre 2011 e 2014 foram superiores aos pretendidos pelo apelante, posto que somente a Lei nº 169/2011 já apontava incrementos salariais maiores que 33,33%.
+12. Com efeito, poder-se-ia dizer que o suposto aumento de carga horária foi absorvido pelos aumentos progressivos no sistema remuneratório dos policiais militares de Pernambuco.
+13. Precedentes desta 1ª Câmara de Direito Público: Apelação Cível nº 0072601- 06.2019.8.17.2001, Relator: Des. Erik de Sousa Dantas Simões, Data de Julgamento:
+23/05/2022; Apelação Cível nº 0070816-09.2019.8.17.2001, Relator: Des. Jorge Américo Pereira de Lira, Data de Julgamento: 07/08/2022.
+14. Recurso de Apelação desprovido, majorando-se a verba honorária para 11% (onze por cento) sobre o valor da causa, com a ressalva da suspensão da exigibilidade em razão da concessão da justiça gratuita (art. 98, §3º, CPC).
+15. Decisão unânime.
+Rejeitados os aclaratórios (e-STJ fls. 470/477).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 373, II, e 374, II, do CPC/2015, sustentando ser inequívoca a majoração de sua carga horária em decorrência de lei estadual, bem como haver confissão da parte adversa quanto ao ponto. Aduziu, ainda, existência de violação d o princípio da irredutibilidade de vencimentos.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Contraminuta às e-STJ fls. 618/622.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+De início, no pertinente ao princípio da irredutibilidade de vencimentos, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+No mais, o aresto hostilizado entendeu que " ..  não existe nos autos comprovação de efetivo aumento da jornada de trabalho dos policiais militares, sendo incabível, assim, a compensação salarial ora almejada" (e-STJ fl. 421).
+Assim, verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ademais, entendeu o Tribunal de Justiça que, " ..  ainda que se entenda pela comprovação do aumento da carga horária para os policiais militares, o que acarretaria um aumento de 33,33%, não existiu decréscimo de vencimentos, posto que a Lei nº 169/2011 e seguintes realizaram aumentos maiores do que o percentual perseguido pelo militar" (e-STJ fl. 422).
+Dessa forma, a revisão das razões de decidir do acórdão recorrido, nesse aspecto, encontra óbice na Súmula 280 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
