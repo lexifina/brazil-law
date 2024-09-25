@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 358):
+Apelação Cível. Compra e Venda de Imóvel. Rescisão contratual em razão da desistência do compromissário comprador. Sentença de parcial procedência. Insurgência da ré. Desacolhimento. Retenção de 25% sobre os valores pagos que bem se ajusta ao caso, dando azo à correta aplicação do art. 53 do CDC ao caso. Lei nº 13.786/2018 que apenas estabelece limites ou tetos qualitativos e quantitativos para cláusulas penais eventualmente previstas no contrato, em caso de resolução por fato imputável ao devedor. Controle judicial da cláusula penal abusiva que decorre de norma de ordem pública, objetivando a concretização do princípio da equidade e a imposição do paradigma da eticidade aos negócios jurídicos. Devolução da unidade imobiliária pelo consumidor com a perda de cinquenta por cento sobre o que se pagou que extrapola os limites do razoável e do desejado equilíbrio contratual neste caso. Disciplina da sucumbência inalterada. Recurso desprovido.
+Os embargos de declaração foram rejeitados (fls. 374/379).
+Nas razões do especial, aponta a recorrente violação do artigo 67-A, § 5º, da Lei nº 4.591/64, além do dissídio jurisprudencial.
+Argumenta, em síntese, que caso de resilição do contrato de promessa compra e venda de imóvel pelo promitente-adquirente seria devida a restituição de 50% do valor já pago.
+Ressalta que seria vedada a exceção ao cabimento da cláusula penal no montante referido, por se tratar de contrato celebrado após a vigência da Lei 13.786/18, com expressa previsão contratual a respeito.
+Contra-arrazoado (fls. 416/437), o recurso especial foi admitido na origem (fls. 438/439).
+Assim delimitada a controvérsia, passo a decidir.
+No caso, verifica-se que as instâncias ordinárias limitaram-se a afastar o percentual de retenção previsto na Lei 13.786/18, única e exclusivamente, por considerá -lo abusivo, ante a vulnerabilidade inerente do consumidor por quem devida a quantia, julgando mais adequado o percentual de 25%.
+A propósito, extraio da sentença confirmada integralmente pelo acórdão recorrido (fl. 280):
+Quanto ao percentual a ser restituído, diante da recente edição da Lei 13.786, de 27 de dezembro de 2018, fixando novos parâmetros para incorporação imobiliária, ainda que não se aplique integralmente a contratos firmados antes de sua vigência, forçoso levar em conta a vontade do legislador quanto a percentuais a serem restituídos e, sob tal ótica, revendo posicionamento anterior, passo a adotar posicionamento de que se mostra mais adequada a restituição de 75% dos valores pagos, arbitrando-se em 25% a retenção a título de despesas com o empreendimento em sentido amplo. Previsão contratual de modo diverso mostra-se abusiva e deve ser declarada nula. Em tais valores, inclui-se o sinal, porque, na prática, integraliza o pagamento.
+Como se vê, embora mencionada a abusividade da cláusula em questão, para concluir que não seria razoável a retenção de 50% (cinquenta por cento) dos valores pagos, o Tribunal de origem não detalha em que consistiria o abuso nem expõe circunstâncias a demonstrar, em concreto, em que consistiria a falta de razoabilidade (fl. 363).
+Ressalte-se que o contrato de compra e venda prevê expressamente que o bem objeto de compra e venda estaria submetido ao patrimônio de afetação, tendo sido celebrado após a vigência da Lei nº 13.786/2018, com expressa previsão do percentual de retenção a ser aplicado em caso de desistência - 50% sobre os valores pagos-, conforme extraio do contrato (fls. 36/43).
+Dessa forma, a orientação adotada pela Corte Local diverge da jurisprudência desta Corte Superior, segundo a qual, em contratos de incorporação celebrados na vigência da Lei 13.786/2018 desfeitos por culpa do comprador, o percentual de retenção dos valores pagos pode chegar a 50% (cinquenta por cento).
+Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. PATRIMÔNIO DE AFETAÇÃO. DESISTÊNCIA DO COMPRADOR. CONTRATO CELEBRADO APÓS A VIGÊNCIA DA LEI N.º 13.786/18. RETENÇÃO DE ATÉ 50% DOS VALORES PAGOS. PREVISÃO CONTRATUAL EXPRESSA. ABUSO NÃO CARACTERIZADO NO CASO CONCRETO.
+1. Em contratos oriundos de incorporação submetida ao regime de patrimônio de afetação, a retenção dos valores pagos pelo comprador desistente pode chegar a até 50%, segundo o art. 67-A, I, e § 5º, da Lei 13.786/2018.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.110.077/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL REQUERIDA PELOS ADQUIRENTES. PATRIMÔNIO DE AFETAÇÃO. RETENÇÃO DE 50% DOS VALORES PAGOS. CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. O STJ firmou entendimento de que, nos contratos oriundos de incorporação submetida ao regime de patrimônio de afetação, como no caso dos autos, a retenção dos valores pagos pode chegar a 50%, conforme estabelece o art. 67-A, I, e § 5º, da Lei 13.786/2018.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.055.691/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/6/2023, DJe de 13/6/2023.)
+Em face do exposto, dou provimento ao recurso especial para cassar o acórdão recorrido, determinando que o percentual de retenção aplicável seja de 50% sobre o valor já pago.
+Por conseguinte, julgo parcialmente procedente a demanda apenas para declarar rescindido o contrato entre as partes, mantida a condenação em honorários arbitrada na origem, de 10 % sobre o valor atualizado da causa, na proporção de 80% para a parte recorrente e 20% para a parte recorrida (artigos 85, § 2º, e 86 do CPC/15).
+Intimem-se.
+EMENTA
