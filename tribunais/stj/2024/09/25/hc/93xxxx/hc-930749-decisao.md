@@ -1,0 +1,21 @@
+DECISÃO
+JUAN AFONSO PIERGENTILE RUBERT alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n. 2188864-51.2024.8.26.0000).
+Nas razões da impetração, a defesa pleiteia a aplicação da causa de diminuição de pena pelo tráfico privilegiado, sob a tese de que os fundamentos usados pelo juízo de origem, para negar o benefício ao paciente, não se mostram idôneos. Consequentemente, pugna pela fixação de regime inicial menos gravoso e substituição da reprimenda por restritiva de direitos.
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 94-96).
+Decido.
+I. Indevida supressão de instância
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Inconformada, a defesa impetrou habeas corpus, que não foi conhecido pelo Tribunal de origem, pelos seguintes fundamentos (fls. 42-43, grifei):
+ ..  No entanto, o habeas corpus não é via processual adequada quando há recurso próprio para análise da matéria ventilada.
+Sendo estreitos os limites do habeas corpus, não pode ser utilizado como sucedâneo do recurso ordinário ou quando houver instrumento processual próprio para a impugnação de atos, sob pena de desvirtuamento de sua função constitucional, ressalvados os casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Na hipótese dos autos, tanto a condenação como a pena e sua forma de cumprimento foram devidamente justificadas na r. sentença.
+Assim, se o paciente pretende a mitigação da pena e do regime prisional, bem como a substituição do castigo corporal, por pena restritiva de direitos, a única medida judicial possível é a Revisão Criminal, não podendo o Habeas Corpus ser utilizado para tanto.
+Tampouco é o caso de conceder habeas corpus, de ofício, pois não se observa flagrante ilegalidade ou teratologia, na imposição da pena, a ser corrigida por meio do writ.
+Ao analisar o acórdão, verifico que a Corte estadual não apreciou o pedido de aplicação do tráfico privilegiado, diante do manejo inadequado do remédio constitucional, para apreciação de teses que deveriam ser apresentadas pela via recursal ordinária.
+É frequente a impetração de habeas corpus tanto em caráter substitutivo de todas as modalidades recursais, como, ainda, de forma contemporânea ao manejo do recurso cabível (apelação, agravo em execução, recurso em sentido estrito, recurso especial e mesmo a revisão criminal).
+Impõe assentar a compreensão de que a existência de um complexo sistema recursal, no processo penal brasileiro, permite à parte prejudicada por decisão judicial submeter ao órgão colegiado competente a revisão do ato jurisdicional, na forma e no prazo previstos em lei. Outrossim, eventual manejo de habeas corpus, ação constitucional, é medida excepcional que deve ser admitida apenas à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, o que não ocorre na espécie.
+Portanto, tratando-se de remédio constitucional que busca revisão da pena do paciente e considerando que tal tese não foi sequer apreciada pelas instâncias originárias, a sua análise fica obstada por esta Corte Superior, sob pena de atuar em indevida supressão de instância. A propósito: "O não enfrentamento de matéria pelas instâncias originárias impede sua análise pelo STJ, sob pena de supressão de instância" (AgRg no RHC n. 158.451/ES, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 27/5/2022; HC n. 732.686/GO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 27/6/2022; AgRg no HC n. 525.579/SP, 5ª T., Rel. Ministro. Joel Ilan Paciornik, DJe 3/12/2019).
+Uma vez mais destaco que não observo no presente caso, constrangimento ilegal que demande a atuação desta Corte de ofício. Portanto, não se pode conhecer do habeas corpus, uma vez que a argumentação alinhavada no writ não foi sequer tangenciada pelo Juízo a quo, sob pena de incidir-se em indevida supressão de instância.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
