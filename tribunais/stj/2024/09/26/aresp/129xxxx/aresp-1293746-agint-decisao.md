@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo DEPARTAMENTO NACIONAL DE PRODUÇÃO MINERAL - DNPM contra a decisão de minha relatoria de fls. 286/289.
+O recurso especial foi interposto, com fundamento no art. 105,  inciso III,  alínea a,  da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fl. 193):
+DIREITO ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. TAXA ANUAL POR HECTARE. PREÇO PÚBLICO. REGIME JURÍDICO DAS TAXAS DE OCUPAÇÃO. APLICAÇÃO ANALÓGICA. MULTA. PRESCRIÇÃO. DECADÊNCIA.
+1. A decisão agravada, acolhendo em parte a exceção de pré-executividade, pronunciou a decadência do direito de constituir de os créditos de Taxa Anual de Hectare -TAH vencidos em 31/7/2001, CDAs nos 20.0106076.2008, 20.016080.2008 e 20.016082.2008, subsistindo apenas parte dos créditos inscritos sob o nº 20.0106076.2008, vencidos em 31/7/2002 e 31/7/2003.
+2. Às TAHs, preço público, aplica-se por analogia o regime jurídico das taxas de ocupação. É quinquenal o prazo de prescrição para cobrança da TAH, com fluência a partir do vencimento, para as competências anteriores à Lei nº 9.821/99 (24/8/1999), aplicando-se a decadência somente para as posteriores. Precedentes.
+3. A cobrança da TAH é efetivada mediante boleto gerado pelo Departamento Nacional de Produção Mineral, o que faz consumar o lançamento. Assim, vencida a dívida, passa a correr apenas o prazo prescricional quinquenal para a cobrança, sendo esta a hipótese tratada nestes autos.
+4. Os créditos inscritos nas CDA"s ora executadas venceram em 31/07/2001, 3/07/2002 e 31/07/2003, contando-se daí o prazo prescricional quinquenal para cobrança, que findou, para o mais recente, em 31/07/2008. Dessa forma, os débitos já estavam prescritos quando da inscrição em dívida ativa, em 03/10/2008, impondo-se a extinção da execução de todos os créditos inscritos nas CDA"s executadas.
+5. Agravo de instrumento desprovido.
+Os embargos de declaração opostos foram rejeitados (fl. 212).
+Nas razões de seu recurso especial, a parte ora recorrente alega violação ao art. 535 do Código de Processo Civil (CPC) de 1973, apontando omissão no acórdão recorrido.
+Asseverou que houve ofensa ao art. 47 da Lei 9.636/1998 nas redações dadas pelas Leis 9.821/1999 e 10.852/2004, bem como ao art. 2º da Lei 10.852/2004, afirmando o que se segue (fl. 225):
+1. Os débitos venceram em julho de 2001, 2002 e 2003;
+2. Como a lei 10.852/2004 foi promulgada no curso do prazo decadencial, este foi ampliado para 10 (dez) anos;
+3. Os devedores foram notificados do lançamento em maio e novembro de 2007 e março de 2008;
+4. Obedecido o prazo decadencial, o DNPM ainda detinha 5 (cinco) anos de prazo prescricional;
+5. Logo, ao ajuizar a execução fiscal em 2008, não há que se falar em extinção de qualquer dos direitos relativos à cobrança.
+Ao final, requer que o recurso especial seja conhecido e provido para: (i) anular o acórdão por violação ao art. 535, II, do CPC/1973 ou (ii) para reformar o acórdão recorrido e dar prosseguimento à execução fiscal.
+A parte adversa apresentou contrarrazões (fls. 229/243).
+O recurso não foi admitido, razão por que foi apresentado agravo em recurso especial.
+Às fls. 286/289, conheci do agravo para conhecer parcialmente do recurso especial e, na parte conhecida, negar e ele provimento.
+Contra a decisão foi interposto o agravo interno ora examinado, no qual a parte recorrente aduz que: (i) houve omissão no acórdão recorrido, pois a parte ora agravante aponta diferença entre a data do vencimento das taxas e a data da notificação de lançamento do débito, afirmando que o termo final do prazo decadencial seria a data da notificação do lançamento, e não a data do vencimento, como considerado pelo Tribunal de origem; (ii) o prazo de prescrição quinquenal previsto no art. 1º do Decreto 20.910/1932 somente é aplicado até a vigência da Lei 9.636/1998, que consiste em legislação específica sobre as receitas patrimoniais da União.
+Não foi apresentada impugnação (fl. 308).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso especial.
+Nos termos do que foi decidido pelo Plenário do Superior Tribunal de Justiça (STJ), "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Na origem, trata-se de agravo de instrumento interposto por DEPARTAMENTO NACIONAL DE PRODUÇÃO MINERAL - DNPM contra a decisão que pronunciou a decadência do direito de constituir os créditos de Taxa Anual de Hectare -TAH.
+No que importa à controvérsia de que trata o recurso especial, confira-se o seguinte trecho do acórdão recorrido (fls. 190/192):
+Com efeito, o prazo de prescrição para cobrança da TAH é quinquenal, com fluência a partir do vencimento, para as competências anteriores à Lei nº 9.821/1999 (24/8/1999), e também quinquenal, mas fluindo a partir do lançamento por ela instituído, daí para a frente.
+Por outro lado, inexistindo na legislação anterior qualquer previsão de decadência, os créditos anteriores à Lei nº 9.821/1999 sujeitam-se ao prazo por ela instituído, a contar de sua edição.
+É que o prazo prescricional sempre existiu, com base no Decreto nº 20.910/1932. Já a decadência refere-se ao direito de a Fazenda Pública "lançar"" o crédito mas, antes da Lei nº 9.821/1999, sequer existia essa modalidade de constituição do crédito para taxas de ocupação. Se a Fazenda já tivesse o direito -dever de "lançar" o crédito de TAH, a instituição posterior de um prazo decadencial implicaria a sua contagem para fatos já ocorridos e far-se-ia somente a partir da nova lei. No caso, contudo, a Lei nº 9.821/1999, dando nova redação ao art. 47 da Lei nº 9.636/1998 instituiu não só o prazo decadencial, mas também o próprio "direito potestativo" de efetuar o lançamento.
+Assim, só existe decadência para o lançamento da TAH das competências posteriores a 24/8/1999. Antes dessa data, só há prescrição, com prazo quinquenal, tal como decidido pela Primeira Turma do STJ, em 21/10/2008, no REsp 847099, relatado pela Min. Denise Arruda, cuja orientação foi confirmada pela Primeira Seção do STJ em regime de recurso repetitivo (CPC, art. 543-C), em julgamentos relatados pelo Min. Luiz Fux, no REsp 1.133.696/PE, e também no REsp 200901311091.
+No caso concreto. os créditos já constituídos e inscritos nas CDA"s ora executadas venceram em 31/07/2001, 31/07/2002 e 31/07/2003, contando-se daí o prazo prescricional quinquenal para cobrança, que findou, para o mais recente, em 31/07/2008. Dessa forma, os débitos já estavam prescritos quando da inscrição em dívida ativa, em 03/10/2008, impondo-se a extinção da execução de todos os créditos inscritos nas CDA"s executadas.
+Ressalte-se que a cobrança da taxa em questão é efetivada mediante boleto gerado pelo Departamento Nacional de Produção Mineral6, após o que não há mais que se falar em decadência, vez que já efetuado o lançamento. Assim, vencida a dívida, passa a correr apenas o prazo prescricional quinquenal para a cobrança, sendo esta a hipótese tratada nestes autos.
+A parte recorrente opôs embargos de declaração a fim de provocar o TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO a se manifestar sobre o "fato de que as datas de vencimentos dos créditos em questão correspondem ao fato gerador da obrigação, não havendo que se confundir com a data do lançamento" (fl. 202). Entretanto, o Tribunal a quo rejeitou o recurso integrativo, sem apreciar o questionamento a ele feito, nestes termos (fls. 209/211):
+Na verdade, pretende o embargante modificar o julgamento, prequestionando a matéria, mas mesmo declaratórios desse jaez exigem os requisitos do art. 535 do CPC, inexistentes na hipótese.
+ ..
+A justiça ou injustiça das decisões judiciais prescindem de embargos de declaração com os mais variados pretextos, e legitimam a imediata interposição dos recursos cabíveis às instâncias superiores, pois foram concebidos para aprimorar a prestação jurisdicional e não podem contribuir, ao revés, para alongar o tempo do processo, onerando o já sobrecarregado oficio judicante.
+O juiz não está vinculado à classificação normativa das partes e todos os argumentos foram apreciados com clareza. A orientação jurisprudencial que se impõe é a seguinte:
+ ..
+O mero inconformismo da parte vencida, total ou parcialmente, sob qualquer título, deve ser manifestado em recurso próprio e na instância adequada para novamente considerar a pretensão.
+Verifico a existência de omissão no julgado, quanto a afirmação de que a data do vencimento do crédito é o fato gerador da obrigação, mas não o termo do prazo decadencial, configurado somente quando da notificação do lançamento.
+O acolhimento da pretensão recursal é devido ante a ocorrência de violação ao art. 535 do CPC/1973 .
+Os autos devem retornar à origem para que seja sanado o vício apontado nos embargos de declaração por meio de novo julgamento do recurso, com manifestação expressa a respeito da questão não apreciada.
+Ante o exposto, reconsidero a decisão de fls. 286/289 e dou provimento ao recurso especial para anular o acórdão proferido em embargos de declaração; determino a devolução dos autos ao Tribunal de origem para que seja proferido novo julgamento com o saneamento do vício apontado.
+Publique-se. Intimem-se.
+ EMENTA
