@@ -1,0 +1,77 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Procurador-Geral de Justiça do Estado de São Paulo, em face do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE - Município de Jundiaí - Lei Municipal 10.046, de 27 de outubro de 2023, que dispõe sobre a prática de esporte e atividades radicais ou de aventura - Afronta ao princípio federativo - Competência concorrente da União, Estados e Distrito Federal para legislar sobre desporto - Ausência de interesse local a possibilitar a competência municipal para suplementar lei federal ou estadual - Lei Municipal que exorbita norma geral federal aplicável ao setor, a saber, a Lei nº 9.615/98 - Município que não é competente para editar leis que colidam com o disposto em leis federais ou estaduais acerca da matéria - Ofensa aos arts. 24, IX, e 30, 1 e II, da Constituição Federal, e ao art. 144, da Constituição Estadual - Precedentes deste Órgão Especial - Precedentes do Supremo Tribunal Federal - Lei Municipal declarada inconstitucional - AÇÃO PROCEDENTE.”
+
+    Na minuta, sustenta-se violação dos arts. 1º, 18, 24, IX e XII, e 30, I e II, da Constituição da República. Alega-se, em síntese, que o acórdão recorrido acolheu alegação de ofensa ao art. 24, IX, do Texto Maior, entendendo que o município invadiu competência legislativa concorrente da União, dos Estados e do Distrito Federal para legislar sobre desporto, de modo que a legislação impugnada impõe ao particular obrigações que afrontam a legislação federal que disciplina a matéria (Lei 9.615/1998).
+
+    Informa-se, ainda, que a norma combatida não violou o princípio federativo, na medida em que foi editada no exercício da competência complementar do município, “[...] ao buscar garantir a prática dos esportes elencados em locais apropriados, devidamente autorizados pelas autoridades competentes, mediante utilização de equipamentos adequados, preservando os espaços públicos e naturais e garantindo-se a segurança individual e coletiva, disciplina, repisa-se, no âmbito de sua competência concorrente, sobre desporto e proteção da saúde (art. 24, IX e XII, Constituição Federal)”.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso comporta provimento.
+
+    Inicialmente, colho do acórdão recorrido os seguintes excertos que evidenciam os termos em que o Tribunal de origem solveu a questão:
+
+    “Por outro lado, a alegação de violação ao art. 24, IX, da Constituição Federal, no que tange à competência para legislar sobre desporto, comporta acolhida.
+
+    É que a Lei nº 10.046/23 do Município de Jundiaí padece de inconstitucionalidade por imiscuir-se em matéria de competência legislativa concorrente da União, dos Estados e do Distrito Federal, em ofensa ao Pacto Federativo estampado no artigo 1º, da Constituição Federal.
+
+    Frise-se que as disposições inscritas no artigo 24 da Carta da República são de observância compulsória pelos Municípios, em virtude do princípio da simetria, traduzido no artigo 144 da Constituição do Estado de São Paulo. Nesse sentido, quando tais normas são postas em confronto com a lei municipal em comento, constata-se que a edição desta última representa invasão da esfera de competência destinada, de forma concorrente, aos demais entes federativos.
+
+    Destaque-se que a lei em questão traz diversas obrigações a empresas e entidades promotoras de atividades de esporte e atividade radical e de aventura.
+
+    Dentre as obrigações impostas às mencionadas entidades, destaca-se a necessidade de contratação de seguro de vida e acidentes pessoais em favor dos praticantes de prática desportiva, bem como de disposição de atendimento médico emergencial de prontidão.
+
+    Outrossim, a lei traz sanções a serem impostas em face do particular, em caso de seu descumprimento, com imposição de advertência e, na reincidência, multa.
+
+    Nesse cenário, não se ignora que a Constituição Federal em seu art. 18 confere autonomia aos entes federativos, inclusive dos Municípios.
+
+    No tocante à competência legislativa, aos Municípios é atribuída a missão constitucional de legislar sobre assuntos de interesse local e de suplementar a legislação federal e estadual no que couber, nos termos do artigo 30, incisos I e II, da Magna Carta.
+
+    [...]
+
+    Todavia, no caso concreto, não se vislumbra preponderância do interesse do Município sobre o do Estado ou da União no que tange à disciplina legal do desporto radical ou de aventura.
+
+    Ademais, a Lei Municipal impõe, ao particular obrigações que afrontam a norma geral federal que disciplina o tema, motivo pelo qual é inaplicável a competência legislativa suplementar do município.
+
+    Nesse ponto, a Lei nº 9.116/98, válida em todo o território nacional, popularmente conhecida como “Lei Pelé”, que institui normas gerais sobre desporto, traz tão somente as seguintes disposições acerca da contratação de seguro de vida e de necessidade de atendimento médico de prontidão:
+
+    [...]
+
+    Portanto, verifica-se que as obrigações impostas pela Lei Municipal somente poderiam ser impostas para o desporto profissional, em competições ou em face de equipes de treinamento de atletas de modalidades olímpicas ou paralímpicas.
+
+    Incabível, nesse diapasão, que o Município crie ou amplie obrigações em matéria legislada pela União e atribuída pelo Poder Constituinte como de competência concorrente da União, do Estado e do Distrito Federal.
+
+    Por conseguinte, é cristalina a conclusão segundo a qual a Lei Municipal ao redor da qual gravita a controvérsia exorbita norma aplicável em âmbito federal a respeito da matéria.
+
+    Na hipótese, portanto, não é superada a exigência do inciso IX do artigo 24 da CF/88, para dar espaço à iniciativa de leis pelo ente federativo municipal, para legislar sobre matéria ligada ao desporto.”
+
+    Ao contrário do entendimento firmado no acórdão recorrido, não vislumbro inconstitucionalidade na Lei nº 10.046/2023, do Município de Jundiaí/SP, sendo legítimo o estabelecimento de regras e diretrizes pela municipalidade jundiaiense para regulamentar a prática de esportes radicais e de aventura, assim definidos na mesma Lei, por parte dos profissionais e das empresas e entidades que os promovem.
+
+    Em 2015, embora o caso concreto versasse sobre a competência dos Municípios para legislar sobre direito ambiental, este Pretório Excelso, valendo-se do conceito de Hely Lopes Meireles, definiu que o assunto de interesse local: “se caracteriza pela predominância e não pela exclusividade do interesse para o município, em relação ao do Estado e da União. Isso porque não há assunto municipal que não seja reflexamente de interesse estadual e nacional. A diferença é apenas de grau, não de substância” (RE 586.224, Relator Min. Luiz Fux, Tribunal Pleno, DJe 08.5.2015).
+
+    Assim sendo, constata-se que a decisão do Tribunal de origem não está alinhada à jurisprudência desta Suprema Corte, firme no sentido de que os municípios detêm competência para legislar sobre assuntos de interesse local, bem como suplementar a legislação federal e a estadual no que couber (artigo 30, I e II, da CF), desde que, tal como no caso dos autos, não contrarie a norma geral federal, razão pela qual se verifica a alegada violação dos dispositivos constitucionais indicados nas razões recursais. Nesse sentido:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE NO TRIBUNAL DE JUSTIÇA. LEI MUNICIPAL. DISCIPLINA USO DE BENS PÚBLICOS. HIPÓTESES DE DISPENSA DE LICITAÇÃO. USURPAÇÃO COMPETÊNCIA DA UNIÃO. ART. 22, XXVII, CRFB. DESPROVIMENTO DO AGRAVO REGIMENTAL. 1. É inconstitucional lei municipal que disciplina hipóteses de dispensa de licitação, por usurpação da competência legislativa da União para editar normas gerais de licitação, à luz do art. 22, inciso XXVII, da Constituição Federal. 2. Conforme a repartição constitucional de competências, cabe aos Municípios legislar sobre assuntos de interesse local, bem como suplementar a legislação federal e a estadual no que couber (art. 30, I e II), desde que não contrarie a norma geral federal. A lei federal 8.666/93 trata das hipóteses de dispensa de licitação. 3. Agravo regimental a que se nega provimento.” (ARE 1340483 AgR, Relator(a): EDSON FACHIN, Segunda Turma, DJe 23-02-2022)
+
+    “DIREITO CONSTITUCIONAL. FEDERALISMO E RESPEITO ÀS REGRAS DE DISTRIBUIÇÃO DE COMPETÊNCIA. LEI 16.897/2018 DO MUNICÍPIO DE SÃO PAULO. PREDOMINÂNCIA DO INTERESSE LOCAL (ART. 30, I, DA CF). COMPETÊNCIA LEGISLATIVA MUNICIPAL. PROIBIÇÃO RAZOÁVEL DE MANUSEIO, UTILIZAÇÃO, QUEIMA E SOLTURA DE FOGOS DE ESTAMPIDOS, ARTIFÍCIOS E ARTEFATOS PIROTÉCNICOS SOMENTE QUANDO PRODUZIREM EFEITOS SONOROS RUIDOSOS. PROTEÇÃO À SAÚDE E AO MEIO AMBIENTE. IMPACTOS GRAVES E NEGATIVOS ÀS PESSOAS COM TRANSTORNO DO ESPECTRO AUTISTA. DANOS IRREVERÍSVEIS ÀS DIVERSAS ESPÉCIES ANIMAIS. IMPROCEDÊNCIA. 1. O princípio geral que norteia a repartição de competência entre as entidades competentes do Estado Federal é o da predominância do interesse, competindo à União atuar em matérias e questões de interesse geral; aos Estados, em matérias e questões de interesse regional; aos Municípios, assuntos de interesse local e, ao Distrito Federal, tanto temas de interesse regional quanto local. 2. As competências municipais, dentro dessa ideia de predominância de interesse, foram enumeradas no art. 30 da Constituição Federal, o qual expressamente atribuiu aos Municípios a competência para legislar sobre assuntos de interesse local (art. 30, I) e para suplementar a legislação federal e a estadual no que couber (art. 30, II). A jurisprudência do SUPREMO TRIBUNAL FEDERAL já assentou que a disciplina do meio ambiente está abrangida no conceito de interesse local e que a proteção do meio ambiente e da saúde integram a competência legislativa suplementar dos Municípios. Precedentes. 3. A jurisprudência desta CORTE admite, em matéria de proteção da saúde e do meio ambiente, que os Estados e Municípios editem normas mais protetivas, com fundamento em suas peculiaridades regionais e na preponderância de seu interesse. A Lei Municipal 16.897/2018, ao proibir o uso de fogos de artifício de efeito sonoro ruidoso no Município de São Paulo, promoveu um padrão mais elevado de proteção à saúde e ao meio ambiente, tendo sido editada dentro de limites razoáveis do regular exercício de competência legislativa pelo ente municipal. 4. Comprovação técnico-científica dos impactos graves e negativos que fogos de estampido e de artifício com efeito sonoro ruidoso causam às pessoas com transtorno do espectro autista, em razão de hipersensibilidade auditiva. Objetivo de tutelar o bem-estar e a saúde da população de autistas residentes no Município de São Paulo. 5. Estudos demonstram a ocorrência de danos irreversíveis às diversas espécies animais. Existência de sólida base técnico-científica para a restrição ao uso desses produtos como medida de proteção ao meio ambiente. Princípio da prevenção. 6. Arguição de Preceito Fundamental julgada improcedente.” (ADPF 567, Relator(a): ALEXANDRE DE MORAES, Tribunal Pleno, DJe 29-03-2021)
+
+    “ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. DIREITO CONSTITUCIONAL. LEI 13.113/2001 E DECRETO 41.788/2002, QUE DISPÕE SOBRE A PROIBIÇÃO DO USO DE MATERIAIS, ELEMENTOS CONSTRUTIVOS E EQUIPAMENTOS DA CONSTRUÇÃO CIVIL CONSTITUÍDOS DE AMIANTO NO MUNICÍPIO DE SÃO PAULO. EXERCÍCIO LEGÍTIMO DA COMPETÊNCIA DOS MUNICÍPIOS PARA SUPLEMENTAREM A LEGISLAÇÃO FEDERAL. ARGUIÇÃO JULGADA IMPROCEDENTE. 1. Ante a declaração incidental de inconstitucionalidade do art. 2º da Lei 9.055/95, não invade a competência da União prevista nos arts. 24, V, VI e XII, da Constituição da República, a legislação municipal que, suplementando a lei federal, impõe regra restritiva de comercialização do amianto. 2. Trata-se de competência concorrente atribuída à União, aos Estados e Distrito Federal para legislar sobre produção, consumo, proteção do meio ambiente e proteção e defesa da saúde, tendo os Municípios competência para suplementar a legislação federal e estadual no que couber. 3. Espaço constitucional deferido ao sentido do federalismo cooperativo inaugurado pela Constituição Federal de 1988. É possível que Estados-membros, Distrito Federal e Municípios, no execício da competência que lhes são próprias, legislem com o fito de expungirem vácuos normativos para atender a interesses que lhe são peculiares, haja vista que à União cabe editar apenas normas gerais na espécie. 4. Arguição de Descumprimento de Preceito Fundamental julgada improcedente, com a declaração incidental da inconstitucionalidade do art. 2º da Lei 9.055/95.” (ADPF 109, Relator(a): EDSON FACHIN, Tribunal Pleno, DJe 01-02-2019)
+
+    “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO CONSTITUCIONAL, ADMINISTRATIVO E AMBIENTAL. RECURSO INTERPOSTO EM FACE DE ACÓRDÃO EM ADI ESTADUAL. LEI 6.212/2017 DO MUNICÍPIO DE ITAPETININGA/SP. PROIBIÇÃO DE SOLTURA DE FOGOS DE ARTIFÍCIO E ARTEFATOS PIROTÉCNICOS QUE PRODUZEM ESTAMPIDO. PROTEÇÃO DA SAÚDE E DO MEIO AMBIENTE. CONSTITUCIONALIDADE FORMAL. COMPETÊNCIA LEGISLATIVA CONCORRENTE. NORMA MAIS PROTETIVA. ATENDIMENTO AOS REQUISITOS PARA A COMPETÊNCIA SUPLETIVA DOS MUNICÍPIOS. CONSTITUCIONALIDADE MATERIAL. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. OBSERVÂNCIA. RECURSO EXTRAORDINÁRIO CONHECIDO E DESPROVIDO. 1. O Município é competente para legislar concorrentemente sobre meio ambiente, no limite de seu interesse local e desde que esse regramento seja harmônico com a disciplina estabelecida pelos demais entes federados, assim como detém competência legislativa suplementar quanto ao tema afeto à proteção à saúde (art. 24, VI e XII, da CRFB/88). 2. É constitucionalmente válida a opção legislativa municipal de proibir o uso de fogos de artifício de efeito sonoro ruidoso, ao promover um padrão mais elevado de proteção à saúde e ao meio ambiente, nos limites razoáveis do regular exercício de competência legislativa pelo ente estatal. Precedente: ADPF 567, Rel. Min. Alexandre de Moraes, Tribunal Pleno, julgado em 1º/3/2021, DJe de 29/3/2021. 3. Tese de repercussão geral: “É constitucional – formal e materialmente – lei municipal que proíbe a soltura de fogos de artifício e artefatos pirotécnicos produtores de estampidos”. 4. Recurso extraordinário conhecido e desprovido.” (RE 1210727, Relator(a): LUIZ FUX, Tribunal Pleno, REPERCUSSÃO GERAL - MÉRITO DJe 17-05-2023)
+
+    Por fim, considerando a possibilidade de a administração “suspender a prática de esportes e atividades radicais ou de aventura sempre que houver risco à segurança individual ou coletiva”, prevista no parágrafo único do art. 3º da Lei municipal nº 10.046/2023, tendo em vista a ausência de critério objetivo no diploma adversado quanto às hipóteses ou circunstâncias em que tal risco se fará presente, deve ser fixado que o risco, quando enunciado pela Administração, deve estar motivado com base nas exigências contidas na Lei.
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, dou provimento ao recurso extraordinário para reformar o acórdão recorrido, reconhecendo-se a constitucionalidade da Lei nº 10.046, de 27 de outubro de 2023, do Município de Jundiaí/SP.
+
+    Publique-se.
+
+    Brasília, 26 de setembro de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
