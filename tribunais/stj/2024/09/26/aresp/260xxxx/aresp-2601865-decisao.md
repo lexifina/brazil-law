@@ -1,0 +1,27 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça de Goiás, assim ementado:
+AGRAVO EM EXECUÇÃO PENAL. REGIME PRISIONAL FECHADO. PROGRESSÃO. DECISÃO DE INDEFERIMENTO. REQUISITO SUBJETIVO NÃO ATENDIDO. AUSÊNCIA DE ILEGALIDADE. A progressão do regime prisional do condenado reclama, além do requisito objetivo temporal, o subjetivo, a comprovação do bom comportamento carcerário, art. 112, § 1º, da Lei nº 7.210/84, não sendo comportável ao que comete falta grave, fato previsto como crime doloso, art. 52, da Lei de Execução Penal, ausente ilegalidade da decisão de indeferimento do benefício. AGRAVO EM EXECUÇÃO DESPROVIDO. (e-STJ fl. 502)
+A defesa aponta a violação dos arts. 112, §§ 1º e 7º, da LEP; e 315, IV, e 619, ambos do CPP. Sustenta que, tendo havido "um lapso temporal de mais de 02 (dois) anos entre a ocorrência da falta grave e a decisão que negou a progressão de regime, tem-se que houve flagrante violação ao previsto no artigo 112, § 7º, da Lei de Execução Penal, porquanto referido artigo dispõe que será readquirido o bom comportamento após 1 ano do cometimento da falta" (e-STJ fl. 534).
+Contrarrazões às e-STJ fls. 547/556.
+Manifestação do Ministério Público Federal às e-STJ fls. 593/595.
+É o relatório. Decido.
+A irresignação não prospera.
+Inicialmente, não há que se falar em violação dos arts. 315, IV, e 619 do CPP, isso porque a tese relacionada ao requisito subjetivo necessário para a progressão de regime foi analisada pelo Tribunal Estadual, embora de forma contrária ao interesse da parte.
+Aliás, como bem entendeu o TJGO (e-STJ fl. 505), esta Corte entende que é possível a consideração de faltas graves ocorridas há mais de 12 meses, para fins de análise do requisito subjetivo (ut, AgRg no AREsp n. 2.439.647/RN, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT -, Sexta Turma, DJe de 6/3/2024.)
+Ainda nessa linha:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. PRISÃO DOMICILIAR. MÃE DE MENOR DE 12 ANOS. INCABÍVEL. EXECUTADA QUE CUMPRE PENA NO REGIME FECHADO. REGISTRO DE FALTA GRAVE DISCIPLINAR EM SETEMBRO DE 2022. COMPORTAMENTO GLOBAL NA EXECUÇÃO PENAL. RECURSO IMPROVIDO.
+ ..
+3- No caso concreto, a par de cumprir pena no regime fechado, o quantitativo de infrações cometidas pela reeducanda, em datas não antigas, nos anos de 2020 e 2022, ainda que uma apenas tenha sido de natureza grave, quando somada às duas leves e às duas médias, indica um comportamento ainda repetitivo no mundo da indisciplina, que justifica o indeferimento do benefício da prisão domiciliar.  ..  (AgRg no HC n. 736.726/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022.)
+4- No caso concreto, a executada cometeu novo crime de tráfico de drogas, no dia 21/9/2022, quando já cumpria pena pelo delito do art. 33, § 4º, da Lei 11.343/2006, no regime aberto, motivo pelo qual o Juiz revogou o regime aberto, determinou sua regressão ao regime fechado e declarou a perda de 1/3 dos dias remidos.
+5- A prática de crime na constância do cumprimento da pena constitui falta grave (art. 52, da LEP), indicando um comportamento não compatível com a prisão domiciliar em prol dos cuidados do filho.
+6- A prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime. A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Rel. Min. FELIX FISCHER, julgado em 28/6/2016).
+7- Agravo regimental não provido. (AgRg no HC n. 852.860/SP, desta Relatoria, DJe de 29/9/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. APTIDÃO PARA VOLTAR À SOCIEDADE. DEMONSTRAÇÃO. PROVA. FALTA GRAVE EM 2022. TEMA REPETITIVO 1.161. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência deste Superior Tribunal de Justiça é a de que a gravidade do delito, a longa pena a cumprir e a impossibilidade da chamada progressão per saltum de regime prisional não são fundamentos idôneos para o indeferimento do livramento condicional.
+2. O afastamento das conclusões adotadas pelas instâncias de origem, quanto à necessidade de o apenado demonstrar aptidão para voltar à sociedade, enseja o inevitável reexame fático-probatório, inadmissível na via estreita do habeas corpus.
+3. Mas não é só. O agravante praticou falta grave, pois, beneficiado com a saída temporária, não retornou à unidade prisional na data previamente estabelecida - 3/1/2022.
+4. Assim, de acordo com o Tema Repetitivo n. 1.161, "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal".
+5. Agravo regimental a que se nega provimento. (AgRg no HC n. 848.978/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 21/12/2023.)
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, b , parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
