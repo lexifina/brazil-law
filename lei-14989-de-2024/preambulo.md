@@ -1,0 +1,2 @@
+Dispõe sobre medidas para o enfrentamento de emergência fitossanitária ou zoossanitária; autoriza o custeio de deslocamento de integrantes do Sistema Unificado de Atenção à Sanidade Agropecuária (Suasa) em operações da defesa agropecuária; e altera a Lei nº 8.745, de 9 de dezembro de 1993.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
