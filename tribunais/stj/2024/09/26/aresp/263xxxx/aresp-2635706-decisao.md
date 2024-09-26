@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por FRANCISCO HALISON FERREIRA DANTAS contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Norte assim ementado (e-STJ, fl. 554):
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO. APELAÇÃO. PRINCÍPIO DA ADSTRIÇÃO. ARTIGOS 141 E 492 DO CPC. DIREITO DISPONÍVEL. LIMITAÇÃO DO JULGADOR AO PEDIDO EXPRESSAMENTE ELABORADO NA EXORDIAL. IMPOSSIBILIDADE DE AMPLIAÇÃO DO PEDIDO INICIAL, DEPOIS DE ESTABILIZADA A DEMANDA. ARTIGO 329 DO CPC. APELO DESPROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 562-587), o recorrente apontou violação aos arts. 141, 322, 492 e 523 do CPC/2015; Tema Repetitivo 509/STJ, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que a execução do valor integral do veículo pela tabela FIPE é uma consequência lógica do pedido de declaração de validade do contrato para fins de cobertura do automóvel.
+Aduziu que em momento algum formulou pedido de recebimento de apenas R$ 30.000,00 (trinta mil reais) pela cobertura do veículo, mas que tal montante corresponderia a uma indenização acessória, decorrente dos danos materiais, ou seja, lucros cessantes, pela perda do bem roubado.
+Sem contrarrazões.
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 555-556, sem grifo no original):
+O provimento judicial está adstrito ao pedido e à causa de pedir, sob pena de nulidade por afronta ao princípio da adstrição. Os artigos 141 e 492 do CPC estabelecem:
+Art. 141. O juiz decidirá o mérito nos limites propostos pelas partes, sendo-lhe vedado conhecer de questões não suscitadas a cujo respeito a lei exige iniciativa da parte.
+ ..
+Art. 492. É vedado ao juiz proferir decisão de natureza diversa da pedida, bem como condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado.
+O veículo do apelante foi furtado, mas a seguradora negou a indenização prevista na apólice, ao argumento de que houve transferência da posse do bem, sem comunicação do fato à seguradora. Consequentemente, a empresa comunicou a rescisão do contrato, com o cancelamento do seguro.
+Diante disso, o recorrente ajuizou a presente ação e requereu a procedência do pleito para "declarar válido a apólice, contrato de seguro, e com isso reconhecer como coberto o veículo pela seguradora Requerida quando da época do roubo" e "condenar a Requerida ao pagamento da indenização estabelecida no contrato de seguro em tela no montante de R$ 30.000,00 (trinta mil reais) em decorrência do Roubo do veículo segurado, sendo tais valores devidamente corrigidos".
+A sentença exequenda julgou procedente o pedido para declarar válidos e plenamente vigentes à época do sinistro, a apólice e o contrato de seguro relativos ao veículo do apelante, e condenou a seguradora ao pagamento de R$ 30.000,00, a ser corrigido e acrescido de juros de mora.
+Os pedidos formulados na inicial foram de declaração de validade da apólice, então cancelada pela seguradora, e indenização de R$ 30.000,00, em decorrência do roubo do veículo segurado. Uma vez que o direito pleiteado pelo demandante é disponível, ainda que a apólice tenha previsto como limite de indenização por perda/roubo do veículo, o valor de referência do bem na tabela FIPE, se o autor pleiteou quantia menor, o juiz está limitado ao pedido expressamente elaborado na exordial.
+O recorrente sequer se insurgiu contra a sentença condenatória, pois não apresentou recurso. Somente depois do trânsito em julgado, e cumprida a obrigação imposta no decisum, é que pretendeu ampliar o pedido inicial, o que não é possível depois de estabilizada a demanda, nos termos do art. 329 do CPC.
+Por fim, reputo descabida a alegação de que os R$ 30.000,00 seriam referentes a lucros cessantes suportados pelo exequente. A apólice não prevê qualquer indenização dessa natureza. Nesse montante, somente há previsão de cobertura de danos materiais e corporais a terceiros, sem nenhuma pactuação quanto à indenização por lucros cessantes suportados pelo contratante.
+Com efeito, cabe ao Magistrado analisar as alegações formuladas pelas partes em confronto com as provas coligidas aos autos para que, então, possa formar sua convicção sobre a matéria controvertida de acordo com os limites do pedido.
+Especificamente quanto à extensão do pedido, deve-se destacar que a petição inicial reproduz o princípio dispositivo atuando como instrumento para a parte exercer seu direito de ação e, em razão disso, delimita a amplitude da matéria a ser enfrentada e o objeto da prestação jurisdicional.
+Por conseguinte, em homenagem aos princípios da congruência e da adstrição, a sentença estará vinculada ao pleito contido na exordial, cabendo ao Magistrado apenas a contextualização e a interpretação do pedido em conjunto com o interior teor da petição inicial a fim de se extrair a pretensão essencial.
+Assim, "conforme os arts. 141 e 492 do CPC/15, se o julgador agir fora dos limites definidos pelas partes e sem estar amparado em permissão legal que o autorize examinar questões de ofício, haverá violação do princípio da congruência ou adstrição. A decisão não pode dar mais que o requerido (ultra petita), conceder coisa diversa da pedida (extra petita) e nem deixar de se pronunciar sobre todo o pedido, decidindo aquém do pedido (citra petita)." (REsp n. 2.051.954/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/8/2024, DJe de 15/8/2024.)
+Na hipótese dos autos, observou-se o princípio da adstrição, porquanto respeitado o que foi pedido na exordial, a saber: "declaração de validade da apólice, então cancelada pela seguradora, e indenização de R$ 30.000,00, em decorrência do roubo do veículo segurado" (e-STJ, fl. 556).
+Ademais, a Corte local constatou a ausência de previsão na apólice para cobertura a título de lucros cessantes.
+Assim, rever os fundamentos que ensejaram a conclusão alcançada pelo Tribunal de origem implicaria na análise dos termos contratuais e no reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 deste Tribunal.
+Por outro lado, não é possível a ampliação do pedido formulado na inicial depois de estabilizada a demanda.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MODIFICAÇÃO DO PEDIDO OU CAUSA DE PEDIR DEPOIS DA CITAÇÃO DO EXECUTADO. INVIABILIDADE. ART. 329 DO CPC. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com o art. 329 do Código de Processo Civil, é defeso ao requerente, após a citação do réu, modificar o pedido ou a causa de pedir sem o consentimento requerido.
+2. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.184.025/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OBSERVÂNCIA AO PRINCÍPIO DA ADSTRIÇÃO. LUCROS CESSANTES. AUSÊNCIA DE PREVISÃO CONTRATUAL DE COBERTURA. CONCLUSÕES FUNDADAS NA APRECIAÇÃO DE FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. AMPLIAÇÃO DO PEDIDO INICIAL. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
