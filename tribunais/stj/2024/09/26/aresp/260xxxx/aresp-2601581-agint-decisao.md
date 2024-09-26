@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo interno interposto por SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL - SENAI contra decisão monocrática que deu provimento ao recurso especial da empresa agravada para reconhecer a ilegitimidade ativa do SESI para a ação de cobrança.
+A recorrente sustenta, em síntese, que possui legitimidade para fiscalizar, arrecadar e cobrar a contribuição adicional a ela destinada, mesmo após o advento da Lei 11.457/2007, que criou a Super Receita.
+É o relatório.
+A Primeira Seção deste Superior Tribunal de Justiça, em julgamento virtual encerrado em 13/08/2024, decidiu afetar à sistemática dos recursos repetitivos os EREsps n. 1.997.816/RJ e 1.793.915/RJ e o REsp n. 2.034.824/RJ, para que fosse definida a seguinte tese controvertida:
+"Decidir sobre a legitimidade ativa da entidade paraestatal para a constituição e cobrança da contribuição ao SENAI e respectivo adicional previsto no art. 6º, do Decreto-Lei n. 4.048/42, considerando a compatibilidade do art. 50, do Decreto n. 494/62, e do art. 10, do Decreto n. 60.466/67, com o art. 217, do CTN, o art. 146, III, "b", da CF/88, a Lei n. 11.457/2007 e legislação posterior". (Tema 1275)
+Encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma sobrestados no Tribunal de origem, até o final do julgamento qualificado, viabilizando, assim, o juízo de conformação, nos termos dos arts. 1.040 e 1.041 do CPC. Nesse sentido: REsp n. 2.128.835, Ministro Paulo Sérgio Domingues, DJe de 2/8/2024.
+Apenas após essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratif icação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o referido tema ou pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, torno sem efeito a decisão agravada e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, em observância aos artigos 1.039 a 1.041 do Código de Processo Civil, após a publicação dos acórdãos dos recursos representativos da controvérsia - Tema 1.275/STJ, realize o juízo de adequação.
+Publique-se.
+Intime-se.
+EMENTA
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. LEGITIMIDADE ATIVA PARA A CONSTITUIÇÃO E COBRANÇA DA CONTRIBUIÇÃ O AO SENAI E RESPECTIVO ADICIONAL PREVISTO NO ART. 6º, DO DECRETO-LEI N. 4.048/42. CONTROVÉRSIA AFETADA PARA JULGAMENTO SOB O RITO DOS REPETITIVOS. DETERMINAÇÃO DE DEVOLUÇÃO À ORIGEM ATÉ O JULGAMENTO DO TEMA 1275.
