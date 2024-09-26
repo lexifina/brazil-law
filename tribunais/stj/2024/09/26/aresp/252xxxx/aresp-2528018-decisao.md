@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial pelo qual o ESTADO DE MATO GROSSO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO assim ementado (fl. 889):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER  PROCESSO DEMORA ADMINISTRATIVO - CADASTRO AMBIENTAL RURAL - INJUSTIFICADA NA APRECIAÇÃO DO REQUERIMENTO - PORTARIA Nº 389/2015/SEMA/MT -DECURSO DO PRAZO LEGAL DA ADMINISTRAÇÃO PARA ANÁLISE DO PEDIDO - ALTERAÇÃO SUPERVENIENTE DA LEGISLAÇÃO - EM REGRA INEXISTE DIREITO ADQUIRIDO AO REGIME JURÍDICO FUNDADO EM LEI REVOGADA EM DECORRÊNCIA DE MERO PROTOCOLO DE REQUERIMENTO ADMINISTRATIVO - REQUERENTE NÃO PODE SER PREJUDICADO POR OMISSÃO E MOROSIDADE ADMINISTRATIVA NA APRECIAÇÃO DO REQUERIMENTO - ILEGALIDADE EVIDENCIADA - EXCLUSÃO DAS ASTREINTES, DE OFÍCIO - SUBSTITUIÇÃO DO MEIO COERCITIVO PELA POSSIBILIDADE DE BLOQUEIO ON LINE, SE FOR O CASO, ALÉM DE ENCAMINHAMENTO DOS AUTOS À AUTORIDADE POLICIAL PARA ABERTURA DE PROCESSO CRIMINAL POR DESCUMPRIMENTO DE DECISÃO JUDICIAL - RECURSO PARCIALMENTE PROVIDO.
+1. Em regra, não há que falar em direito adquirido ao regime jurídico fundado em lei revogada que se encontrava vigente na data do protocolo de requerimento administrativo ambiental, pois a eficácia do direito pleiteado depende da finalização do próprio trâmite burocrático.
+2. contudo, a hipótese dos autos apresenta especial particularidade, por ter sido reconhecida em outros autos a ofensa ao princípio da razoável duração do processo, bem como pelo fato de após o Requerente ter sido notificado a regularizar pendências no processo administrativo, a análise pela Administração ter ocorrido depois de mais de um ano da data do protocolo, ocasião em que entrou em vigência a legislação superveniente.
+3. O Requerente não pode ser prejudicado pela demora injustificada e desarrazoada da Administração em efetuar a análise de seu pedido, impondo-lhe o cumprimento de novas regras que passaram a ter vigência depois de um ano da data em que protocolou os documentos complementares exigidos pelo órgão ambiental.
+4. Como a Fazenda Pública compôs o litígio que culminou na fixação da multa, têm-se que este método se revelou prejudicial à própria coletividade, porquanto, deve ser afastado, de ofício; com a substituição da medida, para assegurar o cumprimento da obrigação, inclusive pela possibilidade de bloqueio on line de valores, se for o caso, como o encaminhamento dos autos à Autoridade Policial para abertura de processo criminal por descumprimento de decisão judicial.
+Os embargos de declaração opostos foram rejeitados (fls. 1.109/1.119).
+Nas razões de seu recurso especial, a parte ora agravante alega que houve violação ao art. 5º, LV e LXXVIII, da Constituição Federal, assim como aos arts. 2º, § 1º, e 6º, da Lei de Introdução às normas do Direito Brasileiro (LINDB), sustentando, em síntese, que (fl. 1.152):
+ ..  a lei em vigor terá efeito imediato e geral, respeitando o ato jurídico perfeito, o direito adquirido e a coisa julgada, o que não é o caso dos autos, tendo em vista que o licenciamento ambiental se encontra pendente de analise conclusiva.
+Vê-se, portanto, com a máxima vênia, que o Tribunal de origem violou os artigos2, §1º e 6º da Lei de Introdução às Normas do Direito Brasileiro.
+Requer que seja dado provimento ao recurso especial interposto.
+A parte adversa apresentou contrarrazões (fls. 1.163/1.190).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+Quanto à alegada afronta ao art. 5º, LV e LXXVIII, da Constituição Federal (CF), é incabível o recurso especial quanto ao ponto por se tratar de matéria a ser veiculada em recurso extraordinário, cuja apreciação é da competência do Supremo Tribunal Federal; o contrário implicaria usurpação de competência (art. 102, III, da CF).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INCORRÊNCIA. REINTERPRETAÇÃO DO ALCANCE DA TESE FIRMADA EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - Não compete a este Superior Tribunal a análise de suposta violação a dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.836.774/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/8/2020, DJe de 14/8/2020 - sem destaques no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017 - sem destaques no original.)
+Verifico que o art. 2º, § 1º, da LINDB não foi apreciado pelo Tribunal de origem, nem foi objeto dos embargos de declaração apresentados.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial porque não preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Ademais, embora a parte recorrente tenha indicado nas razões do recurso especial violação de dispositivos de lei federal, "é inviável o conhecimento do recurso especial por violação do art. 6º da LINDB, porque os princípios contidos na Lei de Introdução às Normas do Direito Brasileiro - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional (art. 5º, XXXVI, da CF/1988) " (AgInt no AREsp 2.357.440/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 27/11/2023, DJe de 1º/12/2023).
+Nesses termos:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. MATÉRIA CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. É pacífica a orientação do STJ no sentido de que os princípios contidos na Lei de Introdução ao Código Civil (LINDB) - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, não podem ser analisados em Recurso Especial, pois são institutos de natureza eminentemente constitucional.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.559.929/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. COISA JULGADA. LINDB. NATUREZA CONSTITUCIONAL. COMPETÊNCIA DO STF. LIVRE TRÂNSITO DOS RECURSOS EXCEPCIONAIS. RECURSO EXTRAORDINÁRIO INTERPOSTO NA ORIGEM E INADMITIDO. ART. 1.032 DO CPC/2015. INAPLICABILIDADE.
+ ..
+2. A alegação de contrariedade a princípios constitucionais reproduzidos na LINDB (coisa julgada, ato jurídico perfeito e direito adquirido) não autoriza o conhecimento do recurso especial, por serem matérias de competência estrita do Supremo Tribunal Federal.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.527.942/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Ainda que assim não fosse, da leitura do acórdão recorrido, constato que o mérito recursal foi decidido à luz da interpretação do Decreto 2.365/2010, nestes exatos termos (fls. 876/879):
+Como se sabe, em regra, não há que falar em direito adquirido ao regime jurídico fundado em lei revogada que se encontrava vigente na data do protocolo de requerimento administrativo ambiental, pois a eficácia do direito pleiteado depende da finalização do próprio trâmite burocrático.
+ ..
+Contudo, o caso dos autos apresenta especial particularidade, pois, além de reconhecida em outros autos (MS n.1117-30.2019.811.0082) a demora injustificada do Estado de Mato Grosso na análise e validação da inscrição do imóvel rural - Fazenda Arandú, localizada no Município de Juína (MT) - no CAR MT107846/2018, datada de 18 de julho de 2018, por não seguir aos prazos estipulados pela Portaria n. 389/2015 da SEMA/MT, observa-se que após o Apelante ter sido notificado para a regularização de pendências no processo administrativo em 25-6-2019, este apresentou novos documentos em 08-8-2019, cuja análise pela Administração Estadual ocorreu apenas em 18-09-2020, ou seja, após mais de um ano (ID n. 131097953 - p. 11).
+Ressalta-se que, na hipótese, restou incontroverso que o prazo estabelecido pela Portaria n. 389, de 06 de agosto de 2015 para a análise do requerimento pela Administração Estadual se esvaiu bem antes da entrada em vigor do Decreto nº 660, de 06 de outubro de 2020; pois se tivesse a SEMA/MT analisado o seu pedido dentro do prazo máximo de 6 (meses) a contar da data do protocolo da apresentação de novos documentos pelo Apelante (8-8-2019), ou seja, até 8-2-2020, a apreciação da pretensão teria ocorrido de acordo com a legislação vigente à época do protocolo.
+Sendo assim, não pode o Apelante ser prejudicado pela demora injustificada e desarrazoada da Administração em efetuar a análise de seu pedido, impondo-lhe o cumprimento de novas regras que passaram a ter vigência depois de um ano da data em que protocolou os documentos complementares exigidos pelo órgão ambiental.
+ ..
+Desse modo, entendo que, diante das peculiaridades do caso concreto, devem ser observadas as regras vigentes na época em que o pedido administrativo foi formulado, qual seja, o Decreto nº 2.365 de 09/02/2010.
+A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial.
+Desse modo, aplico à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário").
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
