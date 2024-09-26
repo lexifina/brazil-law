@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JUNIOR CESAR DOS SANTOS DOMINGOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, no julgamento da apelação criminal n. 1500147-46.2023.8.26.0583.
+Consta dos autos que, em primeira instância, o paciente foi absolvido pela prática do crime previsto no art. 35 da Lei n. 11.343/06 e condenado pela do delito capitulado no art. 33, caput, da Lei n. 11.343/06, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado (fls. 72-90).
+No presente writ, a impetrante sustenta que interposta apelação criminal pelo parquet, o Tribunal de origem condenou o denunciado pela suposta prática do crime de associação para a prática do tráfico ilícito de entorpecentes. Neste sentido, alega que não restou caracterizado o delito previsto no art. 35 da Lei n. 11.343/06, notadamente diante da ausência de estabilidade e permanência entre os agentes da prática delitiva.
+Alega, ainda, quanto ao crime de tráfico de drogas, que a pena-base deve ser fixada no mínimo legal, reconhecidas a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/06 e a atenuante da confissão espontânea, com o consequente substituição da pena privativa de liberdade por restritiva de direitos e fixação do regime prisional aberto.
+Requer, assim, a absolvição do paciente, quanto à prática do crime de associação para o tráfico ilícito de entorpecentes, e no que concerne ao tráfico de drogas, o redimensionamento da reprimenda do acusado e a alteração do regime prisional.
+O pedido liminar foi indeferido às fls. 107-108.
+Informações prestadas às fls. 114-132 e 133-134.
+O Ministério Público Federal, às fls. 178-186, manifestou-se pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração a absolvição do paciente, pelo crime de associação para o tráfico ilícito de entorpecentes. Subsidiariamente, pugna pelo redimensionamento da reprimenda do acusado e a alteração do regime prisional, em relação do delito de tráfico de drogas.
+Com efeito, ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência do Superior Tribunal de Justiça, prevista no artigo 105, I, "e", da Constituição Federal, restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+Na hipótese em apreço, o presente writ foi impetrado contra acórdão do Tribunal de origem já transitado em julgado (consulta ao sítio do Tribunal a quo). Diante dessa situação, não deve ser conhecido o presente habeas corpus, porquanto fora manejado como substitutivo de revisão criminal.
+Anoto que não há, no âmbito do Superior Tribunal de Justiça, julgamento de mérito passível de revisão criminal em relação a essa condenação.
+Nessa linha:
+" ..  como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido"
+ .. " (HC 288.978/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, Rel. para acórdão Min. Rogerio Schietti Cruz, DJe 21/5/2018).
+" ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ .. " (AgRg no HC n. 486.185/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 07/05/2019).
+" ..
+3. É inviável o conhecimento do mandamus ora em exame, pois restou manejado como substitutivo de revisão criminal. Note-se que, "como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido" (HC 288.978/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ acórdão Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/3/2018, DJe 21/5/2018).
+4. Nos termos do art. 105, inciso I, alínea "e", da Constituição da República, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+5. Com o advento do trânsito em julgado da sentença condenatória, após o exame dos sucessivos recursos defensivos, compete à defesa, caso entenda cabível e se o desejar, ajuizar revisão criminal no Tribunal de Justiça, com vistas à revisão do julgado.
+ .. " (AgRg no HC n. 751.787/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 20/4/2023).
+Cito, também, a orientação do Supremo Tribunal Federal: AgRg no HC n. 134.691/RJ, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 1º/8/2018; AgRg no HC n. 144.323/SP, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 30/8/2017; e HC n. 199.284/SP, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 16/8/2021.
+Demais a mais, "a jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC 690.070/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 25/10/2021).
+Mesmo que assim não fosse, o habeas corpus não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+A propósito do tema, trago à colação os seguintes julgados desta Quinta Turma: AgRg no AREsp 1364727/DF, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 22/11/2018 e (AgRg no AREsp 420.467/SP, Rel. Ministro Ribeiro Dantas, QUINTA TURMA, DJe 10/10/2018.
+Ademais, para a exasperação da pena-base quanto ao delito de tráfico de entorpecentes, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, conforme o disposto no artigo 42 da Lei 11.343/2006, tal como observado pela Corte de origem.
+Além disso, a configuração da reincidência e a condenação pelo delito de associação para o tráfico de drogas, impedem o reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, por ausência do cumprimento dos requisitos legais. Nesse sentido: (AgRg no AREsp n. 2.584.151/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024.)
+Por fim, o reconhecimento da atenuante da confissão espontânea nos moldes apresentados pela defe sa, demanda inegável revolvimento fático-probatório, não condizente com os estreitos lindes do respectivo átrio processual, ação constitucional de rito célere e de cognição sumária.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
