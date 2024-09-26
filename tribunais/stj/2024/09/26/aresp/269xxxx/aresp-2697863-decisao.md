@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por CLOVIS NOMA e ALUIZIO NOMA, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiram contra acórdão do Tribunal de Justiça de Minas Gerais assim ementado (e-STJ, fl. 5.265):
+AGRAVO DE INSTRUMENTO - "EMBARGOS DE TERCEIRO" -PRELIMINAR - AUDIÊNCIA DE JUSTIFICAÇÃO - NÃO OBRIGATORIEDADE - LIMINAR - REINTEGRAÇÃO DE POSSE -AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS DO ARTIGO 561 DO CÓDIGO DE PROCESSO CIVIL - DILAÇÃO PROBATÓRIA -INDISPENSABILIDADE.
+I - A designação da audiência de justificação é ato facultativo e discricionário do magistrado, não havendo, na legislação processual civil, obrigatoriedade quanto a sua realização. Dessa forma, caso o julgador conclua pela existência de elementos suficientes para análise do pedido de tutela provisória de urgência, a não designação da audiência de justificação não gera nulidade.
+II -Segundo dispõe o artigo 561 do Código de Processo Civil, o requerente, em ações possessórias, deve provar sua posse, a turbação ou o esbulho praticado pelo réu, a data em que se deu, e a continuação da posse, embora turbada.
+III -Não havendo a comprovação, ao menos em análise sumária, de referidos requisitos, a medida liminar pleiteada deve ser indeferida.
+IV -Necessário aguardar a instrução processual, com a produção das provas hábeis a comprovar o alegado na peça de ingresso, a fim de que se verifique a necessidade de alteração da situação de fato, de modo a possuir um juízo de valor sobre a reintegração de posse, demandando o caso, ampla dilação probatória.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 5.322-5.330).
+No recurso especial, os recorrentes apontaram, além de divergência jurisprudencial, violação dos arts. 562 caput, e 677 § 1º, do CPC.
+Esclareceram que se opuseram ao acórdão por estabelecer a dispensabilidade de audiência de justificação prévia, em ação de reintegração de posse - indeferimento de pronto da liminar possessória então reivindicada.
+Afirmaram ser equivocado o aresto ao apontar que não há obrigatoriedade da tal realização, arguindo a discricionariedade do juízo; porquanto as disposições das referidas normas são cogentes, impondo ao magistrado esse dever de proceder à audiência de justificação prévia, quando não houver elementos suficientes para o deferimento, quadro que se verificaria neste caderno processual. Requereram o provimento do recurso especial (e-STJ, fls. 5.336-5.350).
+Nas razões do agravo, os agravantes impugnam os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 5.464-5.479).
+Contraminuta apresentada (e-STJ, fls. 5.500-5.509).
+Brevemente relatado, decido.
+A segunda instância concluiu que, ao analisar o pedido formulado, o julgador asseverou ter elementos suficientes para decidir sobre o pedido liminar e, em razão disso, julgou desnecessária a realização de audiência de justificação prévia.
+Nesse cenário, considerando a finalidade de tal ato, argumentou-se não vislumbrar vício na atuação da primeira instância; bem como firmou o aresto já existirem elementos probatórios aptos a analisar e indeferir de plano o pedido liminar.
+Leia-se (e-STJ, fls. 5.268-5.279):
+Nulidade - dispensa da justificação prévia
+A audiência de justificação prévia é instrumento processual posto à disposição do Julgador, para os casos em que pairam dúvidas acerca dos fundamentos, sobretudo fáticos, que embasam o pedido de tutela provisória de urgência.
+Ou seja, essa audiência tem por finalidade oportunizar que o requerente da liminar possa produzir prova testemunhal que contribua para demonstração da probabilidade do seu direito, viabilizando-se o deferimento da medida pleiteada.
+Nesse ponto, cumpre esclarecer que, ainda que se trate de pedido de reintegração de posse provisória, não há obrigatoriedade quanto a sua realização.
+Veja o que o CPC prevê em seu art. 300, § 2º, e art. 562:
+ ..
+No caso em apreço, conforme consignado na r. decisão, ao analisar o pedido formulado pela agravada, o d. Julgador asseverou ter elementos suficientes para decidir sobre o pedido liminar e, em razão disso, julgou desnecessária a audiência de justificação.
+Dessa forma, especialmente ao se considerar a finalidade da audiência de justificação prévia, não se vislumbra qualquer vício nos atos praticados pelo juízo de origem.
+Em consonância com o exposto, já decidiu este egrégio Tribunal de Justiça:
+ ..
+Noticiam os autos que a parte agravante possui a pretensão liminar de ser reintegrada na posse do bem situado na Zona Rural do Município de Campo Novo dos Perecis -MT, o qual foi desmembrado da porção maior da denominada Fazenda Dois Irmãos II, Gleba Sucuruina, a qual passou a ser denominada Fazenda São Jorge, matrícula de nº. 16.622, bem como no imóvel situado na Zona Rural do Município de Campo Novo dos Parecis -MT, o qual também foi desmembrado da porção maiorda denominada Fazenda Dois Irmãos II, passando a ser denominada de Fazenda Conquista.
+Extrai-se do feito que os agravantes afirma que a turbação possessória iniciou-se em 26 de agosto de 2022, após o Juízo singular, nos autos do Cumprimento de Sentença nº 7945111-07.2007.8.13.0024, determinar a imissão do embargado ACADMINISTRAÇÃO E PARTICIPAÇÃO S/A na posse do imóvel Fazenda Bela Vista, Município de Campo Novo dos Perecis - MT, o qual, segundo os embargantes/agravantes, está localizado no mesmo local dos imóveis de suas propriedades, quais sejam, a Fazenda São Jorge e a Fazenda Conquista.
+Sustentam os recorrentes, em suma, que "no momento da imissão na posse -questionada por meio dos embargos de terceiro, havia uma relação contratual de arrendamento em vigência. Ou seja, os embargantes / agravantes detinham a posse do imóvel até então, e desde 2012, exerciam a posse indireta do imóvel, por meio do contrato de arrendamento.".
+No entanto, em minuciosa análise do conjunto probatório, cumpre registrar que a parte autora não comprovou o preenchimento dos requisitos necessários para a concessão liminar do pedido de reintegração de posse.
+Ademais disso, como consignado na decisão de primeiro grau, os documentos jungidos ao feito pelos ora agravantes não demonstram, de maneira satisfatória, a veracidade das alegações de que eram possuidores dos imóveis objetos da discussão, notadamente diante do fato de dataram de anos longínquos, referentes aos anos de 2000 até 2012. Conforme transcrição do decisium:
+Em que pese os documentos relativos às contas de luz e suposto contrato de arrendamento celebrado pelos recorrentes em datas recentes, tem-se que referidos elementos não são suficientemente aptos a corroborar suas alegações de modo a ensejar a concessão da tutela pretendida, principalmente considerando a complexidade da controvérsia em apreço.
+Diante de todo esse contexto, necessária uma maior elucidação fática, se mostrando temerária a concessão da pretensa antecipação de tutela neste momento processual, porque não houve demonstração clara e efetiva da probabilidade do direito sustentado pelos agravantes.
+Prudente que se aguarde a instrução processual, com a produção das provas hábeis a comprovar o alegado na peça de ingresso, para a correta solução da questão.
+Nesse quadro, não se destaca qualquer fato capaz de gerar/alterar a atual situação fática, sem a produção de provas, convicção plena a suportar um juízo de valor sobre a reintegração de posse, nem mesmo sobre a necessidade iminente dela, o que sem dúvidas remete o feito à instrução.
+Essas ponderações no sentido da desnecessidade da realização da audiência de justificação prévia foram extraídas da análise fático-probatória da demanda, atraindo a aplicação da súmula 7/STJ, verbete que incide sobre ambas as alíneas do permissivo constitucional. A parte não busca a mera qualificação jurídica desse quadro, mas sua reanálise, o que é vedado em recurso especial.
+As formalidades dos atos processuais não podem desvincular-se das finalidades para as quais são concebidos, isto é, os atos processuais não constituem fins em si mesmos, sendo eventual nulidade processual dependente da demonstração do efetivo prejuízo à parte impugnante; o que, á toda evidência, não ficou demonstrado nos autos.
+A título ilustrativo:
+RECURSO EM MANDADO DE SEGURANÇA. CONCESSÃO DE APOSENTADORIA. INDEFERIMENTO DA INICIAL. CERCEAMENTO DE DEFESA. NÃO DEMONSTRAÇÃO DO PREJUÍZO. ILEGITIMIDADE PASSIVA DA AUTORIDADE COATORA. TEORIA DA ENCAMPAÇÃO. INAPLICABILIDADE NO CASO CONCRETO.
+I - Quanto ao alegado cerceamento de defesa, a decretação da nulidade processual exige a comprovação de prejuízo concreto à parte que suscita o vício, pois não se declara nulidade por mera presunção (pas de nullité sans grief), o que não ocorreu na presente hipótese.
+II - Sobre a teoria da encampação, a jurisprudência desta Corte Superior é firme no sentido de que ela apenas se aplica ao mandado de segurança, quando preenchidos, cumulativamente, os seguintes requisitos: (a) existência de vínculo hierárquico entre a autoridade que prestou informações e a que ordenou a prática do ato impugnado;
+(b) manifestação a respeito do mérito, nas informações prestadas;
+(c) ausência de indevida modificação ampliativa de competência jurisdicional absoluta.
+III - Na hipótese, observa-se que a autoridade apontada como coatora nem sequer se manifestou, nem quanto à eventual (i)legitimidade ou, ainda, quanto ao mérito da demanda, uma vez que a inicial do mandamus foi indeferida, tendo sido denegada a segurança nos termos dos arts. 6º, § 5º, e 10, ambos da Lei n. 12.016/2009. Assim, na ausência de qualquer dos requisitos dispostos na Súmula n. 628/STJ, mostra-se inviável a aplicação da Teoria da Encampação. Desse modo, irretocável o julgado ora recorrido.
+IV - Recurso ordinário desprovido.
+(RMS n. 69.813/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. JULGADO. ALTERAÇÃO. IMPOSSIBILIDADE. ADMISSIBILIDADE. DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. ART. 932, INCISO III, DO CPC/2015. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. PEDIDO DE SUSPENSÃO. ATO PROCESSUAL. NULIDADE NÃO DECRETADA. PREJUÍZO. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art.
+932, inciso III, do CPC/2015).
+3. Na hipótese, não tendo as agravantes demonstrado prejuízo algum resultante do julgamento do feito, não há falar em nulidade do ato processual por falta de suspensão do feito.
+4. Nos termos da jurisprudência desta Corte, o princípio do pas de nullité sans grief exige, em regra, a demonstração de prejuízo concreto à parte que suscita o vício, podendo ser ela tanto a nulidade absoluta quanto a relativa, pois não se decreta nulidade processual por mera presunção.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.040.994/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/10/2022, DJe de 24/10/2022.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Deixo de majorar os honorários sucumbenciais de acordo com o decidido nos EDcl no AgInt no REsp 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017, haja vista que a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. REINTEGRAÇÃO DE POSSE. DESNECESSIDADE DE AUDIÊNCIA DE JUSTIFICAÇÃO PRÉVIA E ELEMENTOS APTOS À ANÁLISE E INDEFERIMENTO DA LIMINAR. SÚMULA 7/STJ. AUSÊNCIA DE PREJUÍZO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
