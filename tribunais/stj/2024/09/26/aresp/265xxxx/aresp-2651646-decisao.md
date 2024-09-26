@@ -1,0 +1,30 @@
+DECISÃO
+DIEGO DOS SANTOS SABINO agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará na Apelação n. 036809-62.2015.8.14.0045.
+Depreende-se dos autos que o réu foi condenado a 12 anos, 9 meses e 10 dias de reclusão, em regime fechado, mais 440 dias-multa, pela prática dos crimes previstos nos arts. 157, § 2º, I, então vigente, e 329 do CP.
+O Tribunal de origem deu parcial provimento à apelação defensiva, a fim de diminuir a pena para 11 anos, 4 meses e 13 dias de reclusão mais 228 dias-multa.
+Nas razões do especial, alegou a defesa a violação do arts. 1º e 59 do CP, ao argumento de que a culpabilidade foi considerada desfavorável, mediante fundamentação inidônea. Sustenta que a pena-base foi exasperada em patamar mais severo que 1/6, em descompasso com a jurisprudência do STJ sobre o tema.
+Aduz afronta ao art. 157, § 2º, I, do CP, uma vez que o mesmo fundamento (disparo de arma de fogo) foi utilizado para fundamentar a imposição de aumento de 1/2 na terceira fase e para sopesar negativamente as consequências do crime, o que configura bis in idem.
+Requereu fosse diminuída a pena.
+Não admitido o especial na origem e interposto o recurso de agravo, o Ministério Público Federal opinou pelo seu não provimento.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+O acórdão recorrido asseriu o seguinte:
+Ora, a culpabilidade do agente - que diz respeito à maior ou menor reprovabilidade da conduta, não se confundindo com a culpabilidade como elemento do crime, a qual é composta pela imputabilidade, potencial conhecimento da ilicitude do fato e exigibilidade de conduta diversa (Súmula 19/TJPA) -, in casu, houve fundamentação concreta, com dados externos ao tipo penal incriminador de roubo. Muito embora tenha o magistrado se valido do disparo de arma de fogo, o que tenho por afastar, constato que o mesmo analisou o fato do recorrente ter empreendido fuga em alta velocidade, pondo em risco a segurança de terceiros - mantenho-a valorada negativamente.
+ ..
+Logo, considerando o mínimo e o máximo legal para o crime em apreço (4 a 10 anos de reclusão e multa de 10 a 360 dias-multa), porque remanescentes as 3 (três) circunstâncias judiciais valoradas desfavoráveis ao apelante, entendo justa e proporcional a pena-base fixada em 6 (seis) anos e 6 (seis) meses de reclusão e pagamento de 131 (cento e trinta e um) dias-multa, sobre 1/30 (um trinta avos) do salário-mínimo vigente
+ ..
+Na terceira fase, em consequência da majorante concernente ao uso de arma de fogo (artigo 157, §2º, inciso I, do Código Penal - redação anterior à Lei de nº 13.654/2018) constatei que o magistrado aumentou a pena na fração máxima da época, em 1/2 (metade), afirmando: "Elevo a reprimenda em 1/2 (um terço), ou seja, 4 (quatro) anos e 76 (setenta e seis) dias-multa, considerando a presença da causa de aumento de pena, qual seja, emprego de arma de fogo, sendo que aqui foi analisada a periculosidade do uso da referida majorante no momento da conduta criminosa".
+No bojo da fundamentação afirmou:
+A majorante presente no inc. I, do art.157, §2º, do CPB, resta configurada em razão do fato do acusado ter se utilizado de arma de fogo para praticar o crime em questão, conforme pode se concluir do depoimento da testemunha Cleomagno, que afirmou que o acusado chegou a realizar 4 disparos contra a viatura da polícia, sendo que um disparo quase acertou a testemunha, tendo atravessado o para-brisa da viatura da polícia (02:37 min), devendo a pena ser aumentada até a metade (1/2), uma vez que o fato do agente ter usado uma arma e o mesmo ter efetuado quatro disparos contra a viatura da polícia militar, quase acertando os policiais, deve ser considerado como conduta de maior reprovabilidade, uma vez que poderia ter causado o evento morte. Da mesma forma, a testemunha Eurivaldo afirmou que o acusado efetuou 4 disparos quando estava tentando fugir da polícia, fato este que reafirma que o mesmo utilizou uma arma de fogo para tentar escapar da atuação dos policiais militares, sendo que dois projéteis acertaram a viatura de polícia, quase atingindo os policiais militares (01:12 min).
+Restou, portanto, devidamente fundamentado o aumento na fração máxima permitida em lei, razão a qual mantenho-o.
+(fls. 519-521, destaquei)
+Os arts. 5º, XLVI, da Constituição Federal, 59 e seguintes do CP e 387 do CPP estabelecem princípios e regras que regem a individualização e a quantificação da pena necessária para prevenir e reprimir o crime praticado. Dentro dessas balizas, o magistrado tem certa discricionariedade para avaliar as singularidades do caso concreto em relação à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, ao comportamento da vítima, aos motivos, bem como às circunstâncias e às consequências do delito.
+Quanto à primeira fase, a sentença valorou negativamente a culpabilidade com fundamento na alta velocidade empreendida pelo agente em via pública.
+Trata-se de fundamentação idônea para exasperar a pena-base, haja vista a maior exposição do bem jurídico tutelado a perigo. Tanto assim, que o próprio agente se acidentou durante a evasão.
+Nesse ponto, verifico que cada uma das três circunstâncias judiciais tidas como desfavoráveis acresceu 10 meses à pena-base, a evidenciar fração adequada diante dos elementos concretos dos autos e proporcional ao amplo intervalo entre os limites mínimo e máximo previstos em lei para o crime de roubo.
+Na terceira fase, também deve incidir o patamar máximo de acréscimo (1/2) previsto no art. 157, § 2º, I, do CP, então vigente, pois o agente disparou quatro vezes sua arma de fogo contra os policiais que o perseguiam, chegando a perfurar o parabrisa do veículo e quase acertar um deles.
+Como se observa, não há falar em bis in idem, uma vez que foram utilizados fundamentos diferentes para aumentar a sanção em cada fase dosimétrica.
+Assim, não há razões para reformar o acórdão atacado.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
