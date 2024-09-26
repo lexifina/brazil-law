@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ ALVES DA SILVA, com fundamento no art. 105, III, a e c, da Constituição Federal, visando a reforma do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 517):
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença de honorários sucumbenciais. Decisão agravada que rejeitou a impugnação ao cumprimento de sentença. Insurgência do executado. NULIDADE PROCESSUAL. Alegações acerca de nulidade processual por vício de intimação que não comportam conhecimento, porquanto já foram objeto de análise por esta Câmara nos autos do Agravo de Instrumento nº 2101756-18.2023.8.26.0000. PRESCRIÇÃO INTERCORRENTE. Inocorrência. Intercorrências de arquivamento e desarquivamento dos autos que não ultrapassaram o prazo prescricional quinquenal aplicável, nos termos Súmula 150 do STF. IMPENHORABILIDADE DE PROVENTOS DE APOSENTADORIA. Relativização da regra geral da impenhorabilidade quando preservado percentual capaz de dar guarida à dignidade do devedor. Precedente do STJ. Hipótese em que não demonstrada a imprescindibilidade da verba à subsistência do executado, porquanto os descontos tiveram início em fevereiro de 2020, ao passo que a impugnação foi apresentada apenas em julho de 2022, após ter sido intimado por carta. Ausente notícia de que os descontos continuam sendo realizados. LITIGÂNCIA DE MÁ-FÉ E ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. Pedido de condenação do agravado ao pagamento de multa, veiculado em contraminuta, afastado. Decisão preservada. NEGADO PROVIMENTO AO RECURSO, NA PARTE CONHECIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 722-726).
+Nas razões do recurso especial (e-STJ, fls. 525-555), o insurgente aponta, além de divergência jurisprudencial, violação ao art. 833, IV, do CPC.
+Sustenta, em resumo, que os proventos de aposentadoria são impenhoráveis e que a verba referente a honorários advocatícios sucumbenciais não se enquadra na exceção legal destinada à penhora para pagamento de prestação alimentícia.
+Contrarrazões às fls. 731-755 (e-STJ).
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 777-779), ascendendo os autos a esta Corte.
+Brevemente relatado, decido.
+Verifica-se que, nos presentes autos, existe debate sobre questão de direito que foi afetada pela Corte Especial do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação nos autos dos REsp n. 1.894.973/PR, REsp n. 2.071.335/GO, REsp n. 2.071.382/SE e REsp n. 2.071.259/SP, relator Ministro Raul Araújo, julgadas em 12/12/2023, DJe 20/12/2023, delimitaram o Tema 1.230 da seguinte forma: "alcance da exceção prevista no § 2º do art. 833 do CPC, em relação à regra da impenhorabilidade da verba de natureza salarial tratada no inciso IV do mesmo dispositivo, para efeito de pagamento de dívidas não alimentares, inclusive quando a renda do devedor for inferior a cinquenta (50) salários mínimos".
+Confira-se a respectiva ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PROPOSTA DE AFETAÇÃO.
+IMPENHORABILIDADE DE VERBA DE NATUREZA SALARIAL. RENDA DO DEVEDOR INFERIOR A 50 SALÁRIOS MÍNIMOS. DÍVIDA NÃO ALIMENTAR. INTERPRETAÇÃO DA REGRA CONTIDA NO ART. 833, IV e § 2º, DO CPC. CRITÉRIOS DE AFETAÇÃO PREENCHIDOS. RECURSO AFETADO AO REGIME DOS RECURSOS ESPECIAIS REPETITIVOS.
+1. Tema proposto para afetação ao rito dos recursos especiais repetitivos: Alcance da exceção prevista no § 2º do art. 833 do CPC, em relação à regra da impenhorabilidade da verba de natureza salarial tratada no inciso IV do mesmo dispositivo, para efeito de pagamento de dívidas não alimentares, inclusive quando a renda do devedor for inferior a cinquenta (50) salários mínimos.
+2. Recurso especial submetido ao regime dos recursos especiais repetitivos (afetação conjunta: REsp 1.894.973/PR, REsp 2.071.382/SE, REsp 2.071.335/GO e REsp 2.071.259/SP).
+(ProAfR no REsp n. 1.894.973/PR, relator Ministro Raul Araújo, Corte Especial, julgado em 12/12/2023, DJe de 20/12/2023.)
+Nesse contexto, em observância ao princípio da economia processual à própria finalidade do CPC/2015, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais
+em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de qu e, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.230/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DE VERBA DE NATUREZA SALARIAL. INTERPRETAÇÃO DA REGRA CONTIDA NO ART. 833, IV E § 2º, DO CPC. MATÉRIA AFETADA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.230 DO STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
