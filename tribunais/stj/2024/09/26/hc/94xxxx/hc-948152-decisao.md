@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus interposto por GABRIELA REIS DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE.
+Depreende-se dos autos que a paciente teve a prisão preventiva decretada pela suposta prática do crime de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão, não acatou o pedido de prisão domiciliar e denegou a ordem, em acórdão de fls. 13-36.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação da decisão que decretou a segregação cautelar.
+Pondera, ainda, que faz jus à substituição da prisão por domiciliar pois é mãe de criança menor de 12 anos de idade.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, substituição por prisão domiciliar.
+É o relatório. DECIDO.
+Conforme relatado, busca-se em síntese, a substituição da prisão preventiva por domiciliar, ao argumento de que a paciente faz jus ao benefício, tendo em vista ser mãe de criança menor de 12 anos de idade. A respeito do tema, colhe-se do acórdão recorrido:
+"É dizer, não restou demonstrado que a paciente é imprescindível aos cuidados do filho de 2 anos de idade, dada a informação de que o genitor colabora com valores semanais para prover o sustento do infante. Ademais, eventual concessão da prisão domiciliar à paciente exporia o infante ao local do crime. Isso porque a paciente já foi beneficiada em outra oportunidade com a prisão domiciliar, nos autos da ação penal nº 202086100346. No entanto, ainda assim, voltou a explorar o comércio de entorpecentes, inclusive no interior de uma residência, como foi o caso destes autos" (fls. 26-27).
+No presente caso, como bem destacado pela corte de origem, embora a paciente seja mãe de criança menor de 12 anos, verifica-se que mesmo após ter sido beneficiada com a prisão domiciliar, foi novamente presa em flagrante, situação excepcional passível de afastar nova concessão desse benefício, segundo alguns precedentes do STJ.
+Com efeito, "é pacífica a orientação desta Corte no sentido de que: " o  descumprimento da prisão domiciliar outrora deferida e a reiteração do agente na prática delitiva caracterizam situação excepcionalíssima hábil a permitir a denegação do novo pedido de prisão domiciliar e o afastamento do entendimento firmado pelo Supremo Tribunal Federal no Habeas Corpus coletivo n. 143.641/SP" (AgRg no RHC n. 155.049/PA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 4/11/2021).
+A propósito: AgRg no HC n. 902.214/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 23/5/2024; AgRg no HC n. 895.393/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16/4/2024; AgRg no HC n. 811.077/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 2/6/2023; AgRg no HC n. 764.651/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 19/9/2022; AgRg no HC n. 677.578/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 24/8/2021, DJe de 30/8/2021; AgRg no RHC n. 124.642/MS, relator Ministro Felix Fischer, Quinta Turma, DJe de 10/6/2020 e HC n. 498.374/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 1/7/2019.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intime-se.
+EMENTA
