@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de Agravo de Instrumento interposto diretamente no Superior Tribunal de Justiça, com fundamento no art. 1.015 e seguintes do CPC, contra decisão que inadmitiu o processamento de Recurso Especial.
+É o relatório.
+Decido.
+O recurso é manifestamente incabível.
+O Agravo de Instrumento destina-se, primordialmente, a atacar decisões interlocutórias proferidas por juízes de primeiro grau de jurisdição.
+Para atacar decisão que inadmite Apelo Especial, o recurso cabível é o Agravo previsto no art. 1.042 do Código de Processo Civil, que deve ser dirigido à Presidência do Tribunal de origem e processado nos próprios autos.
+A interposição equivocada de recurso quando há expressa disposição legal e inexiste dúvida objetiva constitui manifesto erro grosseiro.
+Portanto, é inaplicável ao caso o princípio da fungibilidade, que pressupõe dúvida objetiva a respeito do recurso a ser interposto, inexistência de erro grosseiro e observância do prazo do recurso correto, o que não ocorre na espécie. Nesse sentido: AgInt nos EDcl no REsp 1857915/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 4.5.2020.
+Quanto ao pleiteado efeito suspensivo, mostra-se evidente, ante a decisão proferida, a falta de requisito necessário à sua concessão, qual seja, a probabilidade de provimento do recurso, prevista no art. 995, parágrafo único, do CPC, o que impõe o indeferimento da pretensão.
+Ante o exposto, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se.
+Intimem-se.
+EMENTA
