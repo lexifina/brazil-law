@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO - FNDE, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fls. 673/676):
+ADMINISTRATIVO. CONTRATO DE FINANCIAMENTO ESTUDANTIL - FIES. TRANSFERÊNCIA DO CURSO DE FISIOTERAPIA PARA MEDICINA. CONTRATO CELEBRADO ANTES DA EDIÇÃO DA PORTARIA 535/2020 DO MEC. NOTA MÍNIMA NO ENEM. INAPLICABILIDADE.
+1. Hipótese em que se discute se o impetrante, aluno do curso Fisioterapia da FACULDADE INTEGRADA DE PATOS - UNIFIP, faz jus a que os réus efetivem sua transferência como beneficiário do FIES, para o curso de Medicina da mesma Faculdade, abstendo-se de aplicar as regras da Portaria 535/2020 do MEC;
+2. A Portaria 535/2020 do MEC, que alterou a Portaria MEC nº 209/2018, passou a exigir, com relação à transferência entre instituições de ensino, havendo ou não alteração do curso financiado pelo FIES, a nota de corte, permitindo-a apenas nos casos em que a média aritmética das notas obtidas pelo estudante no ENEM, utilizadas para sua admissão no FIES, seja igual ou superior à média aritmética do último estudante pré-selecionado para o curso de destino no processo seletivo mais recente do programa em que houver estudante pré-selecionado para o financiamento estudantil, estabelecendo, ainda, que somente poderá ser efetuada para curso de destino em que já houver estudantes pré-selecionados nos processos seletivos do FIES por meio da nota do ENEM;
+3. In casu, verifica-se que o contrato de FIES em questão foi firmado entre o impetrante e a Caixa Econômica Federal em 10/10/2018, data anterior à edição da Portaria 535 do MEC, que se deu em 12 de junho de 2020, não sendo possível a retroação dos seus efeitos;
+4. Destarte, é de ser reformada a sentença, para conceder a segurança e determinar que os impetrados se abstenham de aplicar as regras constantes na Portaria MEC n. 535/2020 e na Resolução nº 35 do Comitê Gestor do FIES ao contrato de financiamento estudantil do impetrante;
+5. Apelação provida.
+Os embargos de declaração opostos pelo particular foram providos sem efeitos infringentes e os embargos de declaração do FNDE foram desprovidos (fls. 720/723).
+Em suas razões recursais, a parte recorrente alega violação ao art. 1.022, caput, inciso II e parágrafo único, inciso II, bem como ao art. 489, § 1º, inciso IV, ambos do Código de Processo Civil (CPC), argumentando a nulidade do acórdão recorrido em razão da negativa de prestação jurisdicional.
+No mérito, o FNDE alega violação ao art. 3º, incisos I e II e § 1º, inciso II, da Lei 10.260/2001, compreendendo que não é o responsável legal para disponibilizar os aditamentos e repasses financeiros dos contratos do Fundo de Financiamento Estudantil (Fies) firmados a partir do 1º semestre de 2018, logo, afirma ser parte ilegítima para a causa.
+A parte adversa apresentou contrarrazões (fls. 818/829).
+O recurso foi admitido na origem (fl. 1.044).
+É o relatório.
+Cuida-se de recurso especial que versa sobre os seguintes pontos e pedidos:
+a) Preliminarmente, a nulidade do acórdão recorrido por negativa de prestação jurisdicional, em razão da ausência de enfrentamento do argumento relacionado à ilegitimidade passiva do FNDE; ou
+b) No mérito, argumenta a violação ao art. 3º, incisos I e II e § 1º, inciso II, da Lei 10.260/2001 e requer o acolhimento do entendimento da ilegitimidade passiva; ou
+c) A reforma do acórdão recorrido para julgar improcedente o pedido inicial, à luz do art. 3º da Lei 10.260/2001 e das disposições da Portaria MEC 535, de 12 de junho de 2020, e da Portaria MEC 209, de 7 de março de 2018.
+Verifico que inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+Apesar da negativa de provimento dos embargos de declaração do FNDE, a Corte regional asseverou que "a jurisprudência dos Tribunais se consolidou no sentido de que o FNDE é parte legítima para figurar na lide em que se discute regularização de contrato de financiamento estudantil, visto que é o agente mantenedor do programa, na condição de gestor patrimonial do FIES" (fl. 721).
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+O recurso não se deve conhecer quanto ao mérito, pois a alegação de ilegitimidade passiva para a causa está baseada diretamente nas disposições da Portaria MEC 535, de 12 de junho de 2020, e da Portaria MEC 209, de 7 de março de 2018.
+A afronta ao texto de lei federal é meramente reflexa, demandando a interpretação das portarias, ato que não se enquadra no conceito de lei federal.
+Nessa linha:
+ADMINISTRATIVO E PROCESSUAL CIVIL. FNDE. FINANCIAMENTO ESTUDANTIL - FIES. ESTUDANTE DE MEDICINA. PRORROGAÇÃO DO PRAZO DE CARÊNCIA. APROVAÇÃO EM RESIDÊNCIA MÉDICA. PRAZO PARA REQUERIMENTO. ART. 6º, § 2º, DA PORTARIA MEC 07/2013. VIOLAÇÃO REFLEXA AO TEXTO DE LEI FEDERAL. NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+1. Recurso especial no qual se defende a tese de que, iniciada a amortização do empréstimo estudantil, a parte autora não poderia mais pleitear a prorrogação da carência, por deixar de atender ao requisito previsto no art. 6º, § 2º, da Portaria Normativa MEC 07/2013.
+2. Assim, apesar de se invocar afronta ao texto de lei federal, a pretensão esbarra no exame de normativo que não se insere no conceito de lei federal a que se refere o art. 105, III, da CF, o que impede o conhecimento do recurso.
+3. Segundo jurisprudência desta Corte, "O recurso especial não constitui via adequada para a análise, sequer reflexa, de eventual ofensa a resoluções, portarias, instruções normativas ou regulamentos de pessoa jurídica, por não estarem tais atos normativos compreendidos na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da Constituição Federal de 1988" (AgInt no AgInt no AREsp n. 1.112.227/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/10/2018, DJe de 17/10/2018).
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.993.692/PB, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/8/2022, DJe de 18/8/2022 - sem destaque no original.)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, a ele nego provimento.
+Publique-se. Intimem-se.
+EMENTA
