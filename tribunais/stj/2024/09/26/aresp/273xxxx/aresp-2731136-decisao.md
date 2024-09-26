@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por ALEXANDRE GUIMARÃES REGUEIRO TABOADA contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 505):
+APELAÇÃO. AÇÃO MONITÓRIA. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE Sentença que extinguiu o processo, sem julgamento de mérito em relação ao fiador, por ilegitimidade de parte passiva. Inadmissibilidade. Fiador que assumiu a obrigação como devedor principal e solidário, com renúncia expressa ao benefício de ordem e demais prerrogativas inerentes ao tipo de garantia prestada. Renovação automática do contrato que não desobriga o fiador. Manifestação de vontade que não padece de vício. Inexistência de nulidade a ser reconhecida. Sentença reformada.
+PROCESSUAL CIVIL PROVA. Necessidade de dilação probatória, para permitir a juntada de novos documentos, bem como a realização de perícia contábil, a fim de apurar o montante de juros cobrado e a eventual abusividade de cláusulas contratuais.
+Recurso provido para afastar a preliminar de ilegitimidade de parte passiva, anulando-se a sentença para permitir a dilação probatória.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 677-680).
+Nas razões do recurso especial (e-STJ, fls. 686-709), o recorrente apontou violação aos arts. 489, §1º, III e IV, e 1.022, I e parágrafo único, II, do CPC/2015; e 107, 819, 827 e 828, I e II, do Código Civil.
+Preliminarmente, alegou negativa de prestação jurisdicional e deficiência na fundamentação do acórdão recorrido por obscuridade e omissão no acórdão recorrido quanto à relação existente entre a renúncia ao benefício de ordem e a renovação automática da fiança sem a anuência expressa do recorrente.
+Sustentou a impossibilidade de o fiador responder pela fiança, após a renovação automática de contrato de abertura de crédito, ante a ausência de seu consentimento expresso.
+Aduziu que a renúncia ao benefício de ordem prevista pelos arts. 827 e 828, I e II, do CC não enseja consentimento do fiador com a renovação automática da fiança.
+Foram apresentadas contrarrazões (e-STJ, fls. 732-737).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, no que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que as instâncias ordinárias expressamente enfrentaram todas as questões suscitadas pelo recorrente, de forma clara e fundamentada, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Confira-se o seguinte excerto do voto dos aclaratórios (e-STJ, fl. 679):
+O contrato celebrado pelas partes, no qual o embargante se responsabilizou como fiador, previa a sua renovação automática por sucessivos períodos de 90 dias.
+Não há comprovação de que o embargante tenha se exonerado após o vencimento original e o fato de ter se retirado da sociedade não o desobriga automaticamente, por isso responde solidariamente pela dívida da devedora principal, conforme o entendimento jurisprudencial mencionado no acórdão recorrido, inclusive do STJ.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA.
+(..)
+3. O órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para a sua decisão, de acordo com seu livre e fundamentado convencimento, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp n. 2.015.401/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 506-507, sem grifo no original):
+Incontroverso que o Banco do Brasil S/A celebrou contrato de abertura de crédito em conta corrente com a empresa Multirede Informática Ltda. de fls. 35/47, através do qual Alexandre Guimarães Regueiro Taboada se obrigou como fiador. O contrato foi celebrado em 22/05/2018 e tinha como vencimento final o dia 25/08/2018. O contrato foi renovado automaticamente, sem a anuência expressa do réu Alexandre, que por isso sustenta que houve exoneração da fiança, que não admite interpretação extensiva, nos termos do art. 819 do Código Civil.
+O recurso comporta provimento.
+No caso em análise, consta do instrumento contratual de fls. 35/47, em sua cláusula 11ª, que não havendo manifestação em contrário das partes, o prazo de vigência estipulado poderá ser prorrogado, automática e sucessivamente, por iguais períodos de 90 dias (fls. 39).
+E, ainda, da cláusula 27ª consta que "Assina(m), também, este Instrumento (..) na qualidade de fiador(es) e principal(ais) pagador(es), sendo esta fiança absoluta, irrevogável, irretratável e incondicional, não comportando qualquer tipo de exoneração, renunciando o(s) fiador(es) expressamente aos benefícios dos artigos 827, 830, 834, 835, 837 e 838, todos do Código Civil Brasileiro, solidariamente se responsabiliza(m) pelo cumprimento de todas as obrigações assumidas pelo(a) FINANCIADO(A) neste Instrumento, quer no primeiro período de vigência, quer nas prorrogações que se realizarem, conforme previsto na cláusula "RENOVAÇÃO DE CONTRATO" (fl. 45).
+Sobre os efeitos da fiança, dispõem os artigos 827 e 828, I e II, ambos do CC que:
+Art. 827. O fiador demandado pelo pagamento de dívida tem direito a exigir, até a contestação da lide, que sejam primeiro executados os bens do devedor. (..)
+Art. 828. Não aproveita este benefício ao fiador: I - se ele o renunciou expressamente; II - se se obrigou como principal pagador, ou devedor solidário. (g. n)
+Desse modo, verifica-se que o réu Alexandre, pessoa física, através do disposto na 27ª cláusula contratual, acima transcrita, obrigou- se como fiador e principal pagador do débito, tendo ainda renunciado expressamente ao benefício de ordem.
+Anota-se, ainda, que a manifestação de vontade do fiador não padece de vício, não havendo qualquer nulidade na renúncia ao benefício de ordem.
+Portanto, o contrato firmado entre as partes é plenamente válido, ressaltando-se que o fato de ser de adesão não enseja, automaticamente, sua nulidade, ou, então, a nulidade de suas cláusulas, o que afasta a pretensão do réu Alexandre de exclusão da responsabilidade solidária.
+Não está comprovado, ademais, que tenha o réu Alexandre se exonerado da garantia após o vencimento do prazo original. E o fato dele ter se retirado da sociedade também não o desobriga automaticamente da garantia.
+Quanto à responsabilidade do fiador, ora agravante, impende registrar que, a partir dos pressupostos analisados pelo acórdão recorrido, a questão foi resolvida com base nas cláusulas contratuais e nos elementos fáticos que permearam a demanda. Assim, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local implicaria na análise dos termos contratuais e no reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 deste Tribunal.
+Ilustrativamente:
+AGRAVO INTERNO. PROCESSO CIVIL E CIVIL. ART. 131 DO CPC/73. ÔNUS DA PROVA. SUPOSTO CERCEAMENTO DE DEFESA. NECESSIDADE DE REVISÃO DE FATOS E PROVAS. ENUNCIADO 7/STJ. ART. 827 DO CC. CONTRATO DE COMPRA E VENDA. RESPONSABILIDADE SOLIDÁRIA DO FIADOR. RENÚNCIA EXPRESSA AO BENEFÍCIO DE ORDEM. POSSIBILIDADE. ART. 828, II, DO CC. CONDIÇÃO. IMPLEMENTO. PORCENTAGEM DA RECEITA OPERACIONAL BRUTA. FORMA DE CUMPRIMENTO DA OBRIGAÇÃO. ARGUMENTO NÃO CONTRADITADO. ENUNCIADOS 283 E 284/STF. REEXAME DE DISPOSIÇÃO CONTRATUAL. SÚMULAS 5 E 7/STJ. REITERAÇÃO DOS ARGUMENTOS DO RECURSO ESPECIAL. ENUNCIADO 182/STJ, POR ANALOGIA. IDENTIDADE ENTRE OS CONTRATOS. SUFICIÊNCIA DO TÍTULO PARA EXECUÇÃO. REITERAÇÃO DA TESE SOBRE A NULIDADE COMO DEFEITO GERAL DO NEGÓCIO JURÍDICO. SÚMULA 182, POR ANALOGIA. DIVERGÊNCIA JURISPRUDENCIAL. ALTERAÇÃO DO OBJETO DA DIVERGÊNCIA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Rever as conclusões do acórdão recorrido, com o intuito de verificar eventual necessidade de provas, somente se processa mediante o reexame do conjunto probatório carreado aos autos, o que encontra óbice na Súmula nº 7/STJ.
+2. O benefício de ordem não se aplica ao fiador em caso de renúncia expressa ou tácita, caso prevista a responsabilidade solidária do garantidor, nos termos do art. 828, II, do CC.
+3. A ausência de impugnação dos fundamentos da decisão recorrida atrai, por analogia, a incidência da Súmula n. 182 do STJ.
+4. É inadmissível, no agravo interno, a adição de tese não exposta em recurso especial, por constituir indevida inovação recursal. Caso no qual não houve a prévia impugnação no recurso especial sobre o afastamento de sucumbência recíproca, matéria preclusa que não pode ser suscitada em agravo interno, por ser vedada a inovação recursal.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.708.606/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO VISLUMBRADA. RESPONSABILIDADE DO FIADOR. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
