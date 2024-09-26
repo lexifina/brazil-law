@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por HARMAN DO BRASIL INDÚSTRIA ELETRÔNICA E PARTICIPAÇÕES LTDA. e HARMAN DA AMAZÔNIA INDÚSTRIA ELETRÔNICA E PARTICIPAÇÕES LTDA., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiram contra acórdão do Tribunal de Justiça do Rio Grande do Sul assim ementado (e-STJ, fl. 810):
+APELAÇÕES CÍVEIS. REPRESENTAÇÃO COMERCIAL. AÇÃO DE COBRANÇA.
+I. NÃO HÁ FALAR EM RESOLUÇÃO DO CONTRATO DE REPRESENTAÇÃO COMERCIAL POR JUSTA CAUSA (ART. 35 DA LEI Nº 4.886/1965), DADO QUE NÃO FICOU PROVADA A AFIRMADA DESÍDIA DA AUTORA NO CUMPRIMENTO DE SUAS OBRIGAÇÕES E QUE INEXISTE ARGUIÇÃO (QUIÇÁ PROVA) DE OCORRÊNCIA DE QUALQUER OUTRA DAS HIPÓTESES DE JUSTA RESCISÃO.
+II. A AUTORA FAZ JUS ÀS INDENIZAÇÕES PREVISTAS NOS ARTS. 27, ALÍNEA "J", E 34, AMBOS DA LEI Nº 4.886/1965, UMA VEZ QUE A RESCISÃO CONTRATUAL SE DEU SEM JUSTA CAUSA, POR INICIATIVA DAS RÉS, DE FORMA UNILATERAL E SEM O DEVIDO AVISO-PRÉVIO.
+III. INEXISTEM COMISSÕES PENDENTES DE PAGAMENTO, POIS AS PROVAS ORAL E DOCUMENTAL DÃO CONTA DE QUE TODAS AS NEGOCIAÇÕES CONCLUÍDAS PELA DEMANDANTE ATÉ A RESCISÃO CONTRATUAL RESTARAM DEVIDAMENTE REMUNERADAS E NÃO HÁ INDÍCIOS DE QUE, APÓS O TÉRMINO DA AVENÇA, TENHA OCORRIDO A CONCLUSÃO DE OUTRAS NEGOCIAÇÕES.
+IV. A PROVA DOCUMENTAL EVIDENCIA QUE NÃO HOUVE A RETENÇÃO INDEVIDA DOS PAGAMENTOS À REPRESENTANTE COMERCIAL A TÍTULO DE DESCONTOS DE IMPOSTOS REFERENTES ÀS MERCADORIAS VENDIDAS (O QUE É VEDADO POR FORÇA DO ART. 32, § 4º, DA LEI Nº 4.886/1965), MAS APENAS CORRESPONDENTES À TRANSAÇÃO HAVIDA ENTRE A PRESTADORA E AS TOMADORAS DE SERVIÇOS (O QUE NÃO É VEDADO EM NOSSO ORDENAMENTO JURÍDICO).
+V. IMPROSPERA O PEDIDO RECURSAL DE MODIFICAÇÃO DO ÍNDICE DE CORREÇÃO MONETÁRIA, POIS O IGP-M É O ÍNDICE QUE MELHOR REFLETE A INFLAÇÃO E NÃO TRADUZ PREJUÍZO A QUALQUER DAS PARTES.
+VI. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA FIXADOS EM FAVOR DOS PATRONOS DAS REQUERIDAS EM 10% SOBRE O PROVEITO ECONÔMICO OBTIDO PELAS DEMANDADAS, EM ATENÇÃO AO DISPOSTO PELO ART. 85, §§ 2º, 6º E 6º-A, DO CPC. NEGARAM PROVIMENTO AO RECURSO DA AUTORA E DERAM PARCIAL PROVIMENTO AO RECURSO DAS RÉS. UNÂNIME.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 840-842).
+No recurso especial, as recorrentes apontaram, além de divergência jurisprudencial, violação dos arts. 489, § 1º, IV, e 1.022, I e II, parágrafo único, II, do CPC; e 35 da Lei nº 4.886/1965.
+Esclareceram que se opuseram ao acórdão por não reconhecer a justa causa para resolução do contrato de representação comercial.
+Defenderam a existência de omissão e carência de fundamentação no julgamento, embora opostos e apreciados os embargos de declaração.
+Arguiram que estariam provados os motivos para a possibilidade de finalização da avença, sem o cabimento de reparação em favor da representante.
+Destacaram que, tendo havido a introdução de novos produtos e investimentos pelas representadas/recorrentes, era legítimo esperar que a representante/recorrida movesse seus esforços para comercializar esses tais bens, sempre no intuito de obter o crescimento nas vendas na região que lhe foi confiada, o que reconhecidamente não aconteceu. Requereram o provimento do recurso especial (e-STJ, fls. 849-860).
+Nas razões do agravo, as agravantes impugnam os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 954-964-).
+Contraminuta não apresentada (e-STJ, fl. 968).
+Brevemente relatado, decido.
+Não há nenhuma omissão, contradição ou carência de fundamentação a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, parágrafo único, II, do CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A título ilustrativo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. MATÉRIA DE NATUREZA CONSTITUCIONAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+3. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+4. A Corte a quo analisou a controvérsia sob o aspecto exclusivamente constitucional, consistente no posicionamento pacificado pelo STF no julgamento do RE 729.107/DF (Tema 792).
+5. Vê-se, assim, que a análise de questão cujo deslinde reclama a apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, pois de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.031.487/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023.)
+Analisando o contexto fático-probatório e termos da avença, a segunda instância concluiu que não ficou suficientemente demonstrada a suposta desídia da autora no cumprimento de suas obrigações como representante comercial, de modo que tal alegação nem sequer ultrapassaria o mero campo da argumentação, logo asseverou o aresto que as insurgentes não teriam direito a indenizações
+Firmou o julgado que são devidas em favor da agravada as reparações dos arts. 27, j, e 34 Lei n. 4.886/1965, pois a finalização do negócio aconteceu de forma imotivada, sem aviso prévio e de forma unilateral pelas ora insurgentes.
+Leia-se (e-STJ, fls. 806-808):
+Tratando-se de contrato de representação comercial, mostra-se possível a rescisão unilateral por parte da empresa representada, desde que sejam demonstrados justos motivos (ou justa causa, como preferem alguns), nos termos do art. 35 da Lei nº 4.886/1965, que assim dispõe:
+ ..
+Precisamente quanto à desídia prevista na alínea "a" do dispositivo legal supramencionado, cumpre esclarecer que esta configura-se com a constatação de que as vendas na área de atuação do representante comercial caíram por falta de empenho deste e não por fatos estranhos à sua vontade (como planos econômicos, elevação do preço das mercadorias, concorrência, etc.).
+Mais ainda, para que se caracterize a desídia, entendem a doutrina e a jurisprudência que é necessário haver habitualidade, não bastando, portanto, a simples queda passageira das vendas.
+Na situação em apreço, do exame dos autos originários, extrai-se que não ficou suficientemente demonstrada a suposta desídia da autora no cumprimento de suas obrigações como representante comercial, de modo que tal alegação nem sequer ultrapassa o mero campo da argumentação. Gize-se que, por se tratar de fato impeditivo do direito da autora, o ônus probatório da afirmada desídia cabia às rés, nos termos do art. 373, II, do Código de Processo Civil.
+Nesse sentido e inexistindo arguição (quiçá prova) de ocorrência de qualquer outra das hipóteses previstas no supracitado art. 35 da Lei nº 4.886/1965, tem-se que não caracterizada a justa causa para rescisão do contrato de representação comercial sustentada.
+Quanto às indenizações pretendidas pela demandante, os arts. 27, alínea "j", e 34, ambos da Lei nº 4.886/1965, estabelecem:
+ ..
+Note-se que tais indenizações são devidas apenas nos casos de rescisão contratual imotivada, sem aviso prévio e de forma unilateral.
+No caso em tela, o que revela o conjunto probatório é que a rescisão do contrato ajustado entre as partes se deu por iniciativa das requeridas e de forma unilateral.
+Outrossim, não há prova de que as requeridas tenham concedido o aviso-prévio, com antecedência mínima de trinta dias, na forma legalmente prevista, tampouco de que tenham satisfeito importância igual a um terço (1/3) das comissões auferidas pela requerente, nos três meses anteriores.
+A partir de tais premissas, quanto ao ponto, é caso de manutenção da sentença hostilizada.
+ ..
+No tocante às comissões de venda, as notas fiscais, os relatórios de venda e os demais documentos acostados nos autos, somados ao depoimento pessoal do próprio representante legal da autora, dão conta de que todas as negociações concluídas pela demantante até a rescisão contratual (que se deu em maio de 2014, consoante evento 2, OUT2, páginas 83-85) restaram devidamente remuneradas. E não há indícios de que, após tal data, tenha ocorrido a conclusão de outras negociações.
+Registre-se que, por consistir em fato constitutivo de seu direito, cabia à autora demonstrar a prestação de serviços de representação comercial às rés após a resolução da avença, nos moldes do art. 373, I2, do Código de Processo Civil.
+Assim, em atenção ao disposto pelo art. 32, caput, da Lei nº 4.886/1965, não vinga o pedido de condenação ao pagamento de comissões impagas formulado pela requerente.
+Relativamente à base de cálculo das comissões, o art. 32, §4º, da Lei nº 4.886/1965 prescreve:
+ ..
+Na espécie, embora não se ignore a regra contida na cláusula 9ª das avenças firmadas pelas partes, o que se constata da robusta prova documental é que não houve a efetiva retenção indevida dos pagamentos à representante comercial a título de descontos de impostos referentes às mercadorias vendidas, mas apenas correspondentes à transação havida entre a prestadora e as tomadoras de serviços (o que não é vedado em nosso ordenamento jurídico).
+À vista disso, não comporta acolhimento as razões da apelação interposta pela autora que tratam da temática.
+Logo, é caso de aplicação das Súmulas 5 e 7/STJ, verbetes que incidem sobre ambas as alíneas do permissivo constitucional. As agravantes não buscam a mera qualificação jurídica desse quadro, mas sua reavaliação, o que é vedado a esta Corte Superior em recurso especial.
+Não foi apontado dispositivo legal que justificaria a revisão de consectários legais da condenação, portanto é hipótese do óbice sumular n. 283/STFF, em razão da evidente deficiência recursal sobre essa questão.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial, e, na extensão conhecida, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários em favor do advogado da parte ora recorrida em mais 2% (dois por cento) sobre o valor da condenação imposta em desfavor das ora insurgentes.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONTRATO DE REPRESENTAÇÃO COMERCIAL. OMISSÃO, CONTRADIÇÃO OU CARÊNCIA DE FUNDAMENTAÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE JUSTIFICADO. CONCLUSÃO NO SENTIDO DA FALTA DE JUSTO MOTIVO PARA A RESCISÃO DA AVENÇA E NÃO CABIMENTO DE INDENIZAÇÃO EM FAVOR DAS INSURGENTES. VIABILIDADE DE REPARAÇÃO EM BENEFÍCIO DA REPRESENTADA. SÚMULAS 5 E 7/STJ. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, E, NA EXTENSÃO CONHECIDA, NEGAR-LHE PROVIMENTO.
