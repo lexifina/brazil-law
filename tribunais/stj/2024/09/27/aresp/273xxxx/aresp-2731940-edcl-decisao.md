@@ -1,0 +1,38 @@
+DECISÃO
+Examina-se embargos de declaração opostos por PEREIRA RODRIGUES & ADVOGADOS ASSOCIADOS contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento, pelos seguintes fundamentos (e-STJ, fl. 1787-1792):
+i) ausência de violação dos arts. 489 e 1.022 do Código de Processo Civil;
+ii) incidência da Súmula 211/STJ;
+iii) aplicação da Súmula 7/STJ, visto que a revisão dos fundamentos do acórdão recorrido demandaria o reexame de matéria fático-probatória;
+iv) existência de fundamento não impugnado, o que fez incidir o óbice da Súmula 283/STF.
+A embargante alega, de início, que não obstante deferimento do pedido constante da Petição de fls. 187-188 (e-STJ), o Tribunal de origem não procedeu regularização de sua nova denominação social, qual seja, PEREIRA RODRIGUES & MONTAGNER ADVOGADOS ASSOCIADOS. Assim, requer a regularização de sua denominação social.
+Argumenta, ainda, que o TJSC não efetuou a inclusão do Banco do Brasil S.A. como parte interessada/recorrida. Postula o retorno do processo ao TJSC para que a Secretaria da Segunda Câmara de Direito Comercial proceda a inclusão da parte interessada/recorrida Banco do Brasil S.A., visando evitar ofensa ao princípio do contraditório e da ampla defesa.
+No mérito, alega erro material, omissão e contradição, na decisão proferida nesta Corte Superior, aduzindo que houve impugnação de forma específica dos fundamentos da decisão recorrida. Reitera que não obstante a oposição dos embargos de declaração, o Tribunal de estadual não enfrentou as questões suscitadas, em afronta ao art. 489, §1º, inciso IV a VI, do CPC.
+Insiste no argumento de que houve demonstração do dissídio jurisprudencial com julgados do STJ, inclusive com temas repetitivos.
+Assevera que não pretende o reexame de provas, mas tão somente a revaloração dos fatos, para reconhecer a violação dos arts. 22 e 23, da EAO (Le n.º 8.906/1994); art. 24, §1º da EAO (Lei nº 8.906/1994); art. 20, §4º E 21 do CPC; art. 489, §1, incisos IV, V e VI; art. 932, inciso V, alíneas "a" e "b" e 1.022, II e III e Parágrafo Único, I e II do CPC.
+É O BREVE RELATÓRIO.
+Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+Não há que se falar na existência de erro material, omissão ou contradição no acórdão recorrido. Isso porque, o TJSC ao enfrentar as matérias suscitadas pela parte embargante fundamentou o seguinte (e-STJ, fls. 358-359):
+" ..
+No caso, o recorrente alega que não pretendia a compensação dos honorários, mas a execução da sucumbência a que tem direito.
+Entretanto, os presentes aclaratórios não prosperam, pois os fundamentos jurídicos e o conjunto fático sobre os quais está fulcrado o acórdão recorrido não dão margem a quaisquer vícios. Eis o teor do acórdão, no ponto sob análise:
+O recorrente pleiteia a reforma da sentença que, por falta de interesse de agir, julgou extinto o feito, sem resolução de mérito, e pretende o levantamento do valor fixado a título de honorários advocatícios de sucumbência.
+Colhe-se dos autos a autorização para compensação da verba honorária em ambas as sentenças em que a apelante atuou (evento 1, OUT 8 e OUT 11 dos autos n. 5012985-89.2019.8.24.0038).
+Na espécie, embora esta Segunda Câmara Comercial tenha entendimento no sentido de não ser adequada a compensação dos honorários advocatícios, em razão da norma contida no art. 23 do Estatuto da OAB e no art. 373, II, do Código Civil, a decisão que a determinou transitou em julgado em 15-8-2019 (evento 266 dos autos n. 0021888-05.1999.8.24.0038).
+Assim, inviável a pretensão do recorrente de executar os valores, tendo em vista a ordem para sua compensação estar acobertada pelo instituto da coisa julgada.
+Com efeito, segundo se extrai de ambas as sentenças (autos 0021888 05.1999.8.24.0038 e 0075053-35.1997.8.24.0038), foi reconhecida a sucumbência recíproca, determinando-se que cada parte arcaria com os honorários de seus patronos, de sorte que não há valores a serem executados.
+A parte não se insurgiu quanto ao modo como foram fixados os honorários, de sorte que, de fato, a decisão transitou em julgado em 15-8-2019, como consignou-se no acórdão embargado. Ressalto que eventual desacerto contratual existente entre o embargante e a autora deve ser resolvido pelos meios próprios e não através de cumprimento de sentença, considerando que não há sucumbência a ser cobrada do adverso."
+Além disso, a decisão embargada aplicou o óbice da Súmula 211/STJ, devido a ausência de prequestionamento de dispositivos legais trazidos como violados em seu apelo especial. Decidiu, ainda, pela incidência da Súmula 283/STF em razão da existência de fundamento não impugnado do acórdão recorrido.
+No que diz respeito à alegada omissão do TJSC de proceder a regularização do nome da agravante, bem como de incluir o Banco do Brasil S.A. como parte interessada/recorrida, observa-se que tais pedidos ocorreram pela primeira vez nesta Corte Superior - apenas - nos presentes embargos de declaração, caracterizando verdadeira inovação recursal incompatível com os embargos de declaração e que, evidentemente, deverá ser debatida e examinada pelas vias processuais adequadas.
+Nesse sentido: AgInt no AREsp n. 2.048.003/RS, 3ª Turma, DJe de 11/5/2022; e AgInt no REsp n. 1.947.010/SP, 4ª Turma, DJe de 19/4/2022.
+Desse modo, do atento exame das razões desenvolvidas nos embargos de declaração, constata-se que a parte embargante não aponta a existência de qualquer omissão na decisão recorrida, limitando-se sustentar, genericamente, equívoco na decisão desta Corte Superior.
+Ademais, percebe-se que a parte embargante pretende o exame de mérito do recurso especial. No entanto, esse exame ficou prejudicado pela ausência de preenchimento dos pressupostos recursais.
+Assim, revela-se nítida a pretensão da parte embargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso.
+Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto erro de julgamento, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Assim, dissociado, o pleito, de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO DA DEMANDA SEM RESOLUÇÃO DO MÉRITO. LEVANTAMENTO DE VALORES. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. IMPOSSIBILIDADE. COISA JULGADA. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Tese deduzida somente em sede de embargos de declaração, sem que anteriormente tenha sido apresentada nas razões do recurso especial, configura verdadeira inovação recursal.
+3. Embargos de declaração no agravo em recurso especial rejeitados.
