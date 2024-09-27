@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por GILCIMAR JUSTIMIANO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 1522226-76.2021.8.26.003, assim ementado (fl. 159):
+Apelação Criminal. Furto simples. Sentença condenatória. Materialidade e autoria comprovadas. Réu confesso, que devolveu a "res". Devolução do bem realizada na mesma data do fato. Condenação mantida. Inaplicabilidade do princípio da insignificância. Pena-base fixada no mínimo legal. Incidência da atenuante da confissão espontânea (Súmula 231, do STJ). Agravante da calamidade pública afastada. Ausência de nexo causal. Cabível o reconhecimento da figura privilegiada, prevista no § 2º, do artigo 155, do Código Penal. Valor da "res" inferior a um salário mínimo e primariedade do acusado. Aplicação somente da pena de multa. Recurso parcialmente provido.
+Consta dos autos que o recorrente foi condenado, em primeiro grau, à pena de 06 (seis) meses de reclusão, em regime inicial aberto, além do pagamento de 05 (cinco) dias-multa, como incurso no artigo 155, caput, c/c artigo 61, inciso II, alínea "j", do Código Penal. A pena privativa de liberdade foi substituída por prestação de serviços à comunidade.
+Em segunda instância, o Tribunal de origem deu parcial provimento ao recurso defensivo a fim de reconhecer a figura privilegiada e aplicar somente a pena de multa, fixada em 10 (dez) dias-multa, no piso, preservada, no mais, a r. sentença recorrida (fls. 168-169).
+Os embargos de declaração opostos foram rejeitados (fls. 183/188).
+Nas razões do recurso especial, fundamentado no art. 105, III, alínea "a", da Constituição Federal, a parte alega violação dos arts. 155 do CP e 386, III, do CPP, sustentando que deveria ter sido aplicado o princípio da insignificância, com a consequente absolvição, por ausência de tipicidade material.
+Aponta violação do art. 619 do CPP ao argumento de que o acórdão teria sido omisso ao não explicar o motivo pelo qual a causa de diminuição de pena seria incompatível com o disposto no art. 155, § 2º, do CP.
+Subsidiariamente, defende ser o caso de aplicação da causa de diminuição da pena do arrependimento posterior em complemento à modalidade do furto privilegiado.
+Contrarrazões às fls. 212-216.
+O recurso especial foi admitido (fls. 219-220).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (fls. 23-245).
+É o relatório.
+DECIDO.
+O recurso deve ser provido.
+O Tribunal estadual rechaçou a aplicação do princípio da insignificância nos seguintes termos (fl. 164):
+Incabível a aplicação do princípio da insignificância, na medida em que somente se justificaria a incidência deste preceito como causa supralegal de atipicidade de maneira excepcional, à falta de previsão legal.
+Isto porque, para que se caracterize a insignificância, é necessária a reunião dos seguintes requisitos: mínima ofensividade da conduta do agente, inexistência de periculosidade social da ação, reduzido grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica provocada.
+Segundo esse instituto, firmado por questões de política criminal, para a incidência da norma penal incriminadora, não basta a simples adequação do fato ao tipo penal (tipicidade formal). Necessário, além disso, verificar-se a relevância da conduta e do resultado para o Direito Penal, em face da significância da lesão produzida ao bem jurídico tutelado pelo Estado (tipicidade material).
+No caso em apreço, o bem subtraído foi avaliado em R$ 251,10 (duzentos e cinquenta e um reais e dez centavos), mais de 10 % do valor do salário mínimo vigente à época dos fatos, sendo inapropriado falar-se em inexpressividade da lesão jurídica provocada.
+O Supremo Tribunal Federal, ao julgar o HC n. 84.412/SP, referiu-se aos critérios cumulativos para a aplicação do princípio da insignificância, quais sejam: (I) mínima ofensividade da conduta do agente, (II) ausência de periculosidade social da ação, (III) reduzidíssimo grau de reprovabilidade do comportamento e (IV) inexpressividade da lesão jurídica provocada.
+O tema tampouco é novo para esta Corte Superior, que há muito reconhece a possibilidade de incidência do princípio da insignificância no âmbito penal, desde que preenchidos os requisitos firmados para sua atração ao caso concreto.
+Conforme bem salientado pelo Min. Rogerio Schietti Cruz no RHC n. 126.272/MG,
+ p ara que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+Esta Sexta Turma já delimitou que
+ a  aplicabilidade do princípio da insignificância deve observar as peculiaridades do caso concreto, de forma a aferir o potencial grau de reprovabilidade da conduta e identificar a necessidade, ou não, da utilização do direito penal como resposta estatal (HC n. 486.854/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/10/2019, DJe de 18/11/2019).
+No caso sob análise, o bem subtraído foi avaliado em R$ 251,10 (duzentos e cinquenta e um reais e dez centavos).
+Em que pese o valor estar acima do parâmetro de 10% (dez por cento) do salário mínimo - usualmente utilizado pela jurisprudência para reconhecer a insignificância da conduta -, verifica-se que o bem foi recuperado, conforme consta no acórdão recorrido: a res furtiva foi devolvida à vítima intacta, horas após a subtração (fl. 168)
+Extrai-se, igualmente, que o recorrente é primário (fl. 167).
+Em hipóteses como a dos autos, este colegiado já decidiu pela incidência do postulado em questão:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO DUPLAMENTE QUALIFICADO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. PARTICULARIDADES DO CASO CONCRETO. BENS ALIMENTÍCIOS. EXCEPCIONALIDADE. PRECEDENTES DO STJ.
+I. Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade (AgRg no HC n. 593.056/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 04/05/2021, DJe de 14/05/2021).
+II. In casu, em que pese tratar-se de furto qualificado de bens de valor superior a 10% do salário mínimo vigente na data dos fatos, o acusado é tecnicamente primário e, diante da natureza dos bens furtados, alguns de natureza alimentícia, não há como afastar, nesta esfera, a conclusão do acórdão recorrido acerca da excepcionalidade da hipótese dos autos e da mínima ofensividade da conduta imputada.
+III. Destacou-se, ainda, na decisão ora agravada, que "trata-se de furto praticado mediante escalada e rompimento de obstáculo, de "R$ 15,00 em dinheiro, quatro fardos de cerveja das marcas Brahma e Skol e vinte e quatro tabletes de chocolates Sonho de Valsa, bens avaliados em R$ 266,28"" - cerca de 28% do salário mínimo vigente à época dos fatos -, possuindo o acusado condenação por tráfico de drogas, transitada em julgado somente no decorrer do presente processo", não havendo falar-se em ilegalidade, de acordo com a jurisprudência desta Corte, devido à excepcionalidade do caso em apreço. Precedentes.
+IV. Agravo regimental desprovido.
+(AgRg no REsp n. 2.013.352/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/5/2023, DJe de 10/5/2023).
+HABEAS CORPUS. FURTO QUALIFICADO PRIVILEGIADO. SUBTRAÇÃO DE EMBALAGENS DE COSMÉTICOS PREENCHIDAS COM ÁGUA. RÉU PRIMÁRIO. PRINCÍPIO DA INSIGINIFICÂNCIA. INCIDÊNCIA. ORDEM CONCEDIDA.
+1. Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+2. No caso em exame, foram furtadas oito embalagens de produtos cosméticos preenchidas com água, a denotar a ausência de valor econômico dos objetos. Ainda que se admitisse que os objetos tivessem um "valor estético para a dona do salão de cabelereiro", como asseverou a Corte de origem, os bens foram restituídos à vítima.
+3. Embora haja sido praticado o delito em sua forma qualificada, as demais circunstâncias do caso (primariedade do agente, inexpressividade patrimonial dos bens subtraídos e restituição dos objetos à ofendida) permitem a incidência excepcional do princípio da insignificância.
+4. Ordem concedida para absolver o paciente.
+(HC n. 891.480/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/5/2024, DJe de 23/5/2024).
+Na espécie, o que se verifica é a ausência de efetiva lesão ao bem jurídico tutelado pela norma penal, que revela mínima ofensividade na conduta, reduzido grau de reprovabilidade do comportamento e ausência de periculosidade social da ação.
+Logo, trata-se de hipótese de incidência do princípio da insignificância, de modo a impor o reconhecimento da atipicidade material da conduta.
+Ante o exposto, dou provimento ao recurso especial para reconhecer a atipicidade a conduta, com a consequente absolvição do recorrente.
+Publique-se e i ntimem-se.
+EMENTA
