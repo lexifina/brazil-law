@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Edevaldo de Jesus Santos - condenado por apropriação de coisa achada a 1 mês de detenção, em regime inicial aberto, substituída por prestação de serviços à comunidade -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 50/58 e 66/68), comporta pronto acolhimento.
+Com efeito, busca a impetração a s ubstituição da prestação de serviços à comunidade por outras das restritivas de direitos previstas no artigo 43 do Código Penal (fl. 6) - referente à condenação proferida na Ação Penal n. 0007877-55.2017.8.26.0564 (fls. 39/45 - da 1ª Vara Criminal da comarca de São Bernardo do Campo/SP), alterada em grau de apelação -, ao argumento de que o artigo 46, "caput", do Código Penal determina que "a prestação de serviços à comunidade ou a entidades públicas é aplicável às condenações superiores a seis meses de privação da liberdade" (fl. 5).
+Entretanto, não deveria ser processada a impetração, pois o acórdão hostilizado foi publicado em data recente, estando em curso o lapso para interposição de recursos, que impede o processamento do writ (AgRg no HC n. 873.533/ES, Ministro Teodoro Silva Santos, Sexta Turma, DJe 15/3/2024).
+Ocorre, porém, que foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a substituição da pena de detenção de 1 mês por prestação de serviços à comunidade é contrária à expressa previsão legal (art. 46, CP), devendo o juízo da execução penal fixar outra pena restritiva de direitos.
+Em razão disso, concedo liminarmente a ordem a fim de que a prestação de serviços à comunidade seja substituída por outra pena restritiva de direitos, a ser fixada pelo juízo da execução penal competente, referente à condenação proferida na Ação Penal n. 0007877-55.2017.8.26.0564, da 1ª Vara Criminal da comarca de São Bernardo do Campo/SP.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. APROPRIAÇÃO DE COISA ACHADA. WRIT IMPETRADO NO PRAZO RECURSAL NA CAUSA PRINCIPAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. PRESTAÇÃO DE SERVIÇOS À COMUNIDADE. PENA INFERIOR A 6 MESES. IMPOSSIBILIDADE. ART. 46, CP. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
