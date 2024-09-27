@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANTONIO CARLOS FLAMIA contra decisão monocrática que não conheceu do habeas corpus (e-STJ fls. 119/127).
+Segundo consta dos autos, o paciente foi preso cautelarmente no dia 11/6/2024 e denunciado pela suposta prática dos crimes de ameaça, porte irregular de arma de fogo de uso permitido e disparo de arma de fogo.
+Nas razões dos embargos, a defesa alega, em síntese, que a decisão teria indicado que houve ameaça às vítimas, fato que seria inexistente nos depoimentos, teria sido uma criação dos policias. Pontua o que seria omissão: "Com o devido respeito, não houve ameaça, como dito, a ameaça foi trazida pelo Policial Militar que diverge do depoimento da vítima, que em momento algum disse que foi ameaçada de morte pelo PACIENTE" (e-STJ fl. 134).
+Diante disso, pede sejam os embargos acolhidos para reconhecer a inexistência de ameaça e revogar a prisão e determinar a expedição do alvará de soltura em favor do embargante.
+É o relatório, decido.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados.
+Destaco o trecho do decreto prisional referente à ameaça proferida pelo embargante (e-STJ fl. 37):
+Di-lo na medida em que o Flagranteado supostamente praticou pluralidade de infrações penais, ao, em tese, manter sob sua guarda e efetuar disparo de arma de fogo em local habitado, próximo à residência de JESSICA APARECIDA DA COSTA e sua filha ANA JULIA DA COSTA ALVES, atualmente com 16 anos de idade. Ainda, segundo o registro audiovisual coligido ao mov. 1.15 e os relatos das aludidas solicitantes contidos no Boletim de Ocorrência, o Flagranteado prometeu causar mal injusto e grave (morte) a JESSICA APARECIDA DA COSTA, momentos antes de exibir a arma de fogo e de efetuar o disparo nas proximidades de sua residência. Além da gravidade concreta das condutas ora verificadas, o Flagranteado possui histórico delitivo, pois condenado pela prática de desacato, ameaça, vias de fato e embriaguez ao volante nas ações penais de nº 0001771- 28.2012.8.16.0048, 0001422-54.2014.8.16.0048 e 0000203- 98.2017.8.16.0048.
+No caso, o embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+De fato, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)" (EDcl no AgRg no REsp n. 1339703/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+Intimem-se.
+EMENTA
