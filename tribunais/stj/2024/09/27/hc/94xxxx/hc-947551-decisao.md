@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em benefício de FRANCISCO DAS CHAGAS FERRO SOUSA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS no julgamento da Apelação Criminal n. 0711513-31.2023.8.07.0006.
+Extrai-se dos autos que o paciente foi condenado à pena de 1 ano, 8 meses e 25 dias de reclusão, no regime inicial fechado, além do pagamento de 92 dias-multa, pela prática do crime tipificado no art. 155, caput, do Código Penal.
+O Tribunal de origem negou provimento à apelação interposta pela defesa, nos termos do acórdão que restou assim ementado (fl. 18):
+"APELAÇÃO CRIMINAL. FURTO. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REPROVABILIDADE DA CONDUTA. REGIME INICIAL DE CUMPRIMENTO DE PENA. FECHADO. MANUTENÇÃO. RÉU MULTIRREINCIDENTE E PORTADOR DE MAUS ATENCEDENTES. RECURSO CONHECIDO E NÃO PROVIDO. 1. Se a conduta do réu merece alto grau de reprovabilidade, uma vez que ficou comprovado nos autos que ele é multireincidente em crimes contra o patrimônio, fica afastada a possibilidade de aplicação do princípio da insignificância (HC 138697, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 16/05/2017, PROCESSO ELETRÔNICO D Je-113 DIVULG 29- 05-2017 PUBLIC 30- 05-2017)". 2. Se o réu ostenta outras 05 (cinco) condenações por tentativa de roubo majorado, roubo simples, dois furtos e atribuição de falsa identidade, bem como portador de maus antecedentes, correta a fixação de regime inicial fechado tendo em vista que as condenações anteriores não foram suficientes para conter seu ímpeto delituoso. (Acórdão 1790488, 07098620420228070004, Relator(a): JOSAPHA FRANCISCO DOS SANTOS, 2ª Turma Criminal, data de julgamento: 23/11/2023, publicado no DJE: 7/12/2023. Pág.: Sem Página Cadastrada.)". . 3. Recurso conhecido e não provido"
+No presente writ, sustenta a impetrante a atipicidade material da conduta, considerando o pequeno valor dos bens subtraídos. Aduz a possibilidade de aplicação da insignificância ao caso concreto, ainda que o paciente seja reincidente.
+Pondera que não justificada a imposição do modo prisional fechado.
+Requer, assim, a absolvição do paciente ou a fixação do regime aberto.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 333).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+Consoante entendimento da Suprema Corte, são requisitos para aplicação do princípio da insignificância: a mínima ofensividade da conduta, a ausência de periculosidade social na ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+No caso dos autos, as instâncias ordinárias, antes de afastar a alegação de furto famélico, concluíram que não houve reduzido grau de reprovabilidade do comportamento e nem ausência de periculosidade social na ação, pois se trata de agente multirreincidente, contumaz na prática de crimes contra o patrimônio.
+Nesse contexto, a conduta do agravante é incompatível com a aplicação do princípio da insignificância.
+Ademais, esta Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável, o que não ocorreu nos autos.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO SIMPLES. MATERIALIDADE E AUTORIA. DEMONSTRAÇÃO. ATIPICIDADE MATERIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REGIME PRISIONAL FECHADO. REINCIDÊNCIA. CIRCUNSTÂNCIAS DESFAVORÁVEIS. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas.
+2. No caso, malgrado o pequeno valor da res furtiva e, verifica-se contumácia delitiva do paciente, pois ostenta reincidência específica e maus antecedentes, o que demonstra desprezo sistemático pelo cumprimento do ordenamento jurídico. Nesse passo, de rigor a inviabilidade do reconhecimento da atipicidade material, por não restarem demonstradas as exigidas mínima ofensividade da conduta e ausência de periculosidade social da ação, haja vista a reiteração delitiva do paciente.
+3. Apesar do paciente ter sido condenado à pena inferior a 4 anos de reclusão, ele é reincidente e tem como desfavoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal, logo, correta seria a fixação de regime fechado para cumprimento de pena, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal e da Súmula 269/STJ, contudo, em razão do regra da non reformatio in pejus, deve ser mantido o regime semiaberto.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 925.164/DF, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/9/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REITERAÇÃO DELITIVA. LESÃO AO BEM JURÍDICO. AGRAVO REGIMENTAL DESPROVIDO.
+I - A jurisprudência assente desta Corte Superior é no sentido de que nos casos em que o agente possui comportamento habitualmente voltado à prática criminosa referida circunstância indica reprovabilidade da conduta suficiente ao afastamento da incidência do princípio da insignificância, razão pela qual não se sustenta o pedido de manutenção da r. sentença que rejeitou a denúncia por ausência de tipicidade material da conduta praticada.
+II - Na espécie, não obstante o valor seja de pequena monta, equivalente a menos de 10% (dez por cento) do salário mínimo vigente ao tempo dos fatos, o recorrente é reincidente na prática de crimes da mesma natureza, pois "consta em sua Certidão de Antecedentes (f. 57-65) sete condenações transitadas em julgado em datas anteriores ao delito em análise, seis por crimes de furto e um por crime de roubo, inclusive, segundo consta da aludida certidão, ele estava em cumprimento de pena " (fls. 207-208). Assim, não pode ser considerado como insignificante, sendo grave a lesão ao bem jurídico, o que impede a aplicação da bagatela.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.183.586/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/2/2023, DJe de 22/2/2023.)
+Noutro vértice, não há se falar em ilegalidade na imposição do regime fechado, uma vez que, não obstante o quantum da reprimenda aplicada, o réu é reincidente e a pena-base foi fixada acima do mínimo legal em razão valoração negativa de circunstâncias judiciais, o que justifica o modo prisional mais gravoso, nos termos do que dispõe o art. 33, §§ 2º e 3º, do Código Penal - CP.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. ATIPICIDADE MATERIAL DA CONDUTA. NÃO RECONHECIDA. CRIME PRATICADO COM ROMPIMENTO DE OBSTÁCULO EM PERÍODO NOTURNO. RÉU REINCIDENTE. REGIME INICIAL FECHADO. REINCIDÊNCIA E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. POSSIBILIDADE. RECURSO IMPROVIDO.
+1. O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada.
+Preenchidos todos esses requisitos, a aplicação desse princípio possui o condão de afastar a própria tipicidade penal, especificamente na sua vertente material.
+2. No presente caso, o agravante foi condenado pela prática do crime de furto qualificado pelo rompimento de obstáculo cometido em período noturno, e, além disso, "já foi cinco vezes condenado pelo mesmo crime e encontra-se em execução de pena" (e-STJ fl. 136), circunstâncias que impedem o reconhecimento do princípio da insignificância.
+3. Inviável o abrandamento do regime inicial, tendo em vista a reincidência e a consideração negativa das circunstâncias judiciais.
+4. Agravo regimental improvido.
+(AgRg no HC n. 918.551/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INVIÁVEL. MULTIRREINCIDÊNCIA EM CRIMES PATRIMONIAIS. REGIME INICIAL PRISIONAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. ILEGALIDADE FLAGRANTE NÃO CONFIGURADA.
+I - A jurisprudência do Superior Tribunal de Justiça é nos sentido de que não se conhece de habeas corpus substitutivo de recurso próprio. Precedentes.
+II - Havendo coação ilegal ou teratologia, admite-se a concessão da ordem de ofício.
+III - A reincidência e a habitualidade delitiva são obstáculos iniciais à tese da insignificância, ressalvada excepcional peculiaridade do caso penal. Precedentes.
+IV - Apesar de a pena privativa de liberdade do paciente ter sido fixada em 1 ano e 02 meses de reclusão, o regime inicial fechado foi devidamente estabelecido em virtude da múltipla reincidência, aliado à existência de circunstâncias judiciais desfavoráveis.
+Agravo regimental desprovido.
+(AgRg no HC n. 923.405/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 19/8/2024.)
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
