@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Leonardo da Costa Espindola - condenado por roubos circunstanciados tentado e consumado a 13 anos e 2 meses de reclusão, e a 30 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça do Rio de Janeiro (fls. 56/73), não comporta processamento.
+Com efeito, busca a impetração redimensionar a pena imposta - na condenação proferida na Ação Penal n. 0169772-60.2017.8.19.0001 (fls. 9/36 - da 29ª Vara Criminal da comarca do Rio de Janeiro) -, com alteração da fração de aumento de pena para 1/3, ao argumento de completa ausência de justificativa para que as causas especiais de aumento fossem aplicadas em patamar superior ao mínimo (fl. 5).
+Do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 25/10/2021 (fl. 871 do AREsp 1742565), o que afasta a competência desta Corte Superior para análise do pleito.
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a fundamentação utilizada pela Corte estadual - trata-se de crime cometido mediante concurso de cinco agentes e emprego ostensivo de arma de fogo. Ora, se o concurso de agentes agrava a conduta porque reduz a capacidade de resistência da vítima, sobretudo em se tratando de cinco elementos, o emprego de arma de fogo, ainda mais ostensivo, não pode ser considerado como um indiferente penal no cálculo da pena, porque, além de aniquilar por completo a capacidade de resistência da vítima, também contribui para colocar em risco concreto a sua incolumidade física (fl. 54) - está de acordo com o entendimento desta Corte Superior (AgRg na PET no REsp n. 2.104.363/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 15/8/2024).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
