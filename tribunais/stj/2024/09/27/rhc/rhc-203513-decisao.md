@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por PAULO ROBERTO XAVIER DE ARAUJO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO no julgamento do HC n. 0002406- 87.2024.8.17.9480.
+Extrai-se dos autos que o recorrente foi preso preventivamente por ter supostamente praticado os delitos tipificados no art. 121, § 2º, I e IV, e no art. 157, § 2º, II, e § 2º-A, I, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. ROUBO MAJORADO. MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA. GRAVIDADE CONCRETA E PERICULOSIDADE DO AGENTE, EVIDENCIADAS PELO MODUS OPERANDI. CRIME DOLOSO PUNIDO COM PENA MÁXIMA SUPERIOR A QUATRO ANOS. ART. 313, INCISO I, CÓDIGO PENAL. FUNDAMENTAÇÃO VÁLIDA À DECRETAÇÃO DA CUSTÓDIA PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. INCABÍVEL A SUBSTITUIÇÃO DA PRISÃO POR CAUTELARES DIVERSAS DE PRISÃO. PRISÃO DOMICILIAR. AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS NECESSÁRIOS. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. EXCESSO DE PRAZO. NÃO CONFIGURADO. PROCESSO COM TRAMITAÇÃO REGULAR E CONTÍNUA. COMPLEXIDADE DO FEITO. NULIDADE. RECONHECIMENTO FOTOGRÁFICO. ART. 312 DO CPP. NECESSIDADE DE MEROS INDÍCIOS DE AUTORIA. ILEGALIDADE NÃO RECONHECIDA. ORDEM DENEGADA. DECISÃO UNÂNIME.
+1. A decisão que manteve a segregação cautelar do paciente demonstrou a presença dos requisitos autorizadores previstos no artigo 312 do Código de Processo Penal, não sendo cabível a aplicação de medidas cautelares diversas da prisão. Ademais, a prisão preventiva está amparada pela hipótese do art. 313, inciso I, do CPP, por se tratar de crime doloso punido com pena privativa de liberdade máxima superior a quatro anos.
+2. As provas dos autos demonstram suficientemente indícios de autoria delitiva, apontando que o paciente foi o autor dos crimes de homicídio qualificado e roubo majorado, tendo sido contratado pelo corréu para executar a vítima e concretizar uma vingança.
+3. A jurisprudência do Supremo Tribunal Federal é no sentido de que a gravidade concreta e a periculosidade do agente, evidenciadas pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva. Além disso, a existência de outras ações penais em curso respalda a segregação cautelar.
+4. Os prazos processuais na instrução criminal não são peremptórios, podendo ser ampliados dentro de parâmetros de razoabilidade e diante das circunstâncias do caso concreto. (Súmula 84 do TJPE).
+5. O feito reveste-se de alta complexidade, envolvendo dois réus e a acusação de dois crimes (homicídio duplamente qualificado e roubo majorado). Porém, em um curto espaço temporal, já foram realizadas várias movimentações processuais e já há audiência designada para uma data próxima.
+6. Até o momento, não houve retardo na marcha processual, pois autoridade judicial, considerando as peculiaridades do caso, promoveu, dentro do possível, o regular andamento do feito.
+7. Segundo julgados recentes do STJ, eventual reconhecimento fotográfico e/ou pessoal efetuado em sede inquisitorial, quando não observado o disposto no art. 226 do CPP, não podem ser considerados provas aptas, por si sós, a gerar uma condenação sem o apoio do restante do conjunto probatório produzido na fase judicial, com a observância do contraditório e da ampla defesa. Isso não implica, todavia, que não possam ser considerados como indícios mínimos de autoria aptos a autorizar a prisão cautelar e a deflagração da persecução criminal.
+8. DENEGAÇÃO DA ORDEM. DECISÃO UNÂNIME" (fls. 429/430).
+No presente recurso, a defesa alega ausência dos requisitos previstos no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estaria suficientemente fundamentada, porquanto baseada na gravidade abstrata do delito.
+Ressalta que não teria sido justificada a negativa da aplicação de medidas alternativas ao cárcere, que entende ser suficientes no caso.
+Aduz que testemunhos de ouvir dizer não são suficientes a embasar eventual pronúncia, tampouco a prisão preventiva.
+Pondera que o recorrente encontra-se acautelado há mais de 99 dias, sem que tenha sequer sido apreciada a resposta à acusação.
+Sustenta que não foi observado o procedimento previsto no art. 226 do CPP, o que invalida o reconhecimento fotográfico realizado.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura, bem como o desentranhamento do reconhecimento fotográfico.
+A defesa manifesta interesse na realização de sustentação oral.
+A liminar foi indeferida às fls. 477/479. Informações prestadas às fls. 484/488 e 492/495. O Ministério Público Federal opinou pela prejudicialidade do recurso às fls. 497/498 .
+É o relatório.
+Decido.
+Inicialmente, quanto à alegação de ausência de fundamentação idônea para a manutenção da prisão preventiva, conforme informações encaminhadas pelo Juízo de origem (fls. 484/487), verifica-se que, em 16/8/2024, a custódia antecipada foi revogada. Assim, está prejudicado o recurso nesse ponto.
+Por fim, cumpre registrar que "eventual reconhecimento fotográfico e/ou pessoal efetuado em sede inquisitorial em descompasso com os ditames do art. 226 do CPP não podem ser considerados provas aptas, por si sós, a engendrar uma condenação sem o apoio do restante do conjunto probatório produzido na fase judicial, com a observância do contraditório e da ampla defesa. Isso não implica, todavia, que não possam ser considerados como indícios mínimos de autoria aptos a autorizar a prisão cautelar e a deflagração da persecução criminal" (AgRg no HC n. 913.963/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024).
+Ant e o exposto, nos termos do art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça , não conheço do presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
