@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus interposto por FRANCISCO RAQUEL contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (HC n. 0625629-45.2024.8.06.0000).
+Consta dos autos que o recorrente encontra-se preso preventivamente, pela suposta prática dos delitos previstos "nos art. 2º, § 2º, da Lei n. 12850/13, c/c o art. 33 e o art. 35, ambos da Lei n. 11.343/06" (e-STJ fl. 465).
+Impetrado habeas corpus no Tribunal de origem, a ordem foi denegada, com recomendação de celeridade, nos termos do acórdão de e-STJ fls. 463/474.
+Neste recurso, a defesa alega que há excesso de prazo na formação da culpa e que, "até o presente momento, não houve o relatório final do inquérito policial, ou, ao menos, pedido da autoridade policial para a dilatação do prazo investigatório, não existindo, portanto, denúncia em desfavor do recorrente" (e-STJ fl. 484).
+Repisa que "já se passaram 3 MESES E 24 DIAS desde a decretação da prisão preventiva do recorrente" (e-STJ fl. 486).
+Reitera que estaria " ..  configurado o excesso de prazo injustificado para a formação da culpa, mormente porque tal demora não pode mais ser atribuída à complexidade do assunto ou à atuação da defesa do requerente, mas apenas à própria deficiência estrutural do aparato judicial e estatal" (e-STJ fl. 488).
+Busca, inclusive liminarmente, o relaxamento da prisão preventiva em decorrência do excesso de prazo para oferecimento da denúncia, aplicando, se for o caso, medidas cautelares diversas da prisão.
+O pedido liminar foi indeferido.
+Ouvido, o Ministério Público Federal manifestou-se pelo desprovimento do presente inconformismo.
+É o relatório.
+Decido.
+Como vimos do relatório, sustenta a defesa que há excesso de prazo na segregação cautelar.
+Insta consignar que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Cumpre esclarecer que o ora recorrente está custodiado desde 12/4/2024, e a defesa alega que não há previsão para o encerramento da instrução criminal.
+Na origem, a ordem foi denegada, firmado o entendimento de que o excesso de prazo não estava configurado. Consignou o voto condutor do acórdão impugnado (e-STJ fls. 463/474):
+Como relatado, a insurgência recursal dá-se em face do excesso de prazo para a formação da culpa, eis que se encontra preso há mais de 2 meses e 1 semana, sem que a denúncia tenha sido oferecida. Pugna ao final, pela liberdade provisória do paciente, com a expedição do competente alvará de soltura. Subsidiariamente, requer a aplicação de medidas cautelares diversas da prisão. Prosseguindo, em relação a tese de excesso de prazo na formação da culpa discutida no presente writ, é imperioso ressaltar que, consoante pacífico entendimento jurisprudencial desta Corte de Justiça, a tese vergastada não deve ser analisada apenas considerando a soma aritmética dos prazos legalmente estabelecidos.
+Compulsando os fólios do processo de nº 0215440-70.2024.8.06.0001 e demais dependentes por meio do sistema SAJ-PG, verifica-se que o magistrado de origem não está se mantendo inerte ao caso, conforme se constata da marcha processual, da qual se extrai que:
+  Representação Por Prisão Preventiva c/c Busca E Apreensão Domiciliar c/c Quebra De Sigilo Telefônico, Telemático E De Informática c/c Bloqueio De Contas Bancárias, em 08/03/2024;
+  Parecer do Ministério Público pelo deferimento dos pedidos da Autoridade Policial, em 11/03/2024;  Prisão preventiva decretada, no processo nº 0215440-70.2024.8.06.0001, em 01/04/2024;
+  Paciente foi preso em 12/04/2024;
+  Despacho, em 20/04/2024, intimando a Autoridade Policial para que apresentasse relatório final.
+Pois bem, em análise à sequência dos atos processuais mencionados, apesar de uma maior elasticidade, não é possível inferir qualquer dado no sentido de que o Juízo esteja atuando com desídia quanto ao regular desenvolvimento da ação penal, especialmente considerando a complexidade do feito, além de envolver 9 (nove) acusados.
+Assim, não há que se falar em constrangimento ilegal por excesso de prazo para a formação da culpa, visto que o feito está seguindo seu fluxo normal, sendo devidamente impulsionado pelo juiz a quo, em atenção ao princípio da razoabilidade.
+Não havendo, portanto, indícios de desídia ou morosidade estatal que caracterize excesso de prazo para o oferecimento da denúncia e que justifique a concessão da ordem ao paciente.
+Outrossim, vislumbra-se a notória incidência da Súmula nº 15 desta Corte, cujo enunciado preceitua que: "Não há falar em ilegalidade da prisão por excesso de prazo quando a complexidade do crime apurado ou a pluralidade de réus justifica a mora na ultimação dos atos processuais".
+As informações complementares dão conta de que a denúncia foi oferecida em 13/5/2024 e recebida em 13/6/2024. Além disso, foi designada audiência de instrução para 13/11/2024.
+Desse modo, considerados os dados acima referidos, não há falar-se em excesso de prazo, pois o processo vem tendo regular andamento na origem. Ademais, o pequeno atraso para o seu término se deve, como consignado, à complexidade do feito, a que respondem 9 réus com representantes distintos, o que afasta, por ora, a ocorrência de excesso de prazo para a conclusão da instrução criminal.
+Nesse sentido:
+HABEAS CORPUS. ROUBO MAJORADO TENTADO E HOMICÍDIO QUALIFICADO TENTADO. (I) PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GRAVIDADE CONCRETA. MODUS OPERANDI. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. (II) EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PLURALIDADE DE RÉUS. EXPEDIÇÃO DE CARTAS PRECATÓRIAS. PRINCÍPIO DA RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. (III) CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. (IV) MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIENTES PARA RESGUARDAR A ORDEM PÚBLICA.
+ ..
+5. "A questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto" (HC-331.669/PR, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 10/3/2016, DJe 16/3/2016).
+6. Em não se verificando a alegada desídia da autoridade judiciária na condução da demanda, não há falar em constrangimento ilegal. Ao revés, nota-se que o Magistrado singular procura imprimir à ação penal andamento regular.
+ ..  (HC n. 369.976/MG, de minha relatoria, SEXTA TURMA, julgado em 6/12/2016, DJe 16/12/2016.)
+RECURSO ORDINÁRIO DE HABEAS CORPUS. ROUBO MAJORADO. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGAÇÃO DE INJUSTIFICADO EXCESSO DE PRAZO NA INSTRUÇÃO. NÃO OCORRÊNCIA. DILIGÊNCIAS ESPECÍFICAS. INSTRUÇÃO PRÓXIMA DE ENCERRAMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. RECURSO ORDINÁRIO DESPROVIDO.
+1. O constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto.
+2. No caso, o Tribunal de origem entendeu que o processo tramita dentro do princípio da razoabilidade, sem registro de qualquer atraso relevante atribuído ao Poder Judiciário que possa caracterizar constrangimento ilegal e justificar o relaxamento da prisão. O recorrente encontra-se preso desde 6/11/2016, com denúncia oferecida em 13/12/2016 e resposta à acusação apresentada em 28/7/2016, sendo que, a despeito da necessidade da expedição de cartas precatórias, os autos receberam marcha célere, com designação de audiência de instrução e julgamento para o dia 19/4/2017, somente não realizada devido à não apresentação do acusado pela Secretaria de Ressocialização. Não obstante, a instrução encontra-se na iminência de seu encerramento, com a audiência redesignada para o dia 17/8/2017.
+ ..  (RHC n. 82.958/PE, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.)
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
