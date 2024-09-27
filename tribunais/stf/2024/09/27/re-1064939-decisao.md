@@ -1,0 +1,27 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Procurador-geral do Distrito Federal, em face do acórdão do Tribunal de Justiça do Distrito Federal e Territórios assim ementado:
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI COMPLEMENTAR DISTRITAL 910/16. PRELIMINAR DE AUSÊNCIA DE INTERESSE PROCESSUAL. APOSENTADORIA. COMPETÊNCIA PRIVATIVA DO CHEFE DO PODER EXECUTIVO. VÍCIO DE INICIATIVA. OFENSA À LODF. I - É necessária, útil e adequada a pretensão de declaração de inconstitucionalidade de lei complementar de iniciativa parlamentar, por suposta violação a dispositivos da Lei Orgânica do Distrito Federal. Rejeitada a preliminar de ausência de interesse processual. II - A Lei Complementar Distrital 910/16, oriunda de projeto de lei de autoria de Deputado Distrital, ofende os arts. 41, 53, 71, § 1°, inc. 11, 82, § 4°, e 100, inc. VI, todos da LODF, pois não observada a competência privativa do Chefe do Poder Executivo para iniciar o processo legislativo referente à aposentadoria dos servidores públicos do Distrito Federal, o que caracteriza a inconstitucionalidade formal da norma impugnada, por vício de iniciativa. III - Julgado procedente o pedido para declarar a inconstitucionalidade formal da Lei Complementar Distrital 910/16.“
+
+    Na minuta, sustenta-se violação dos arts. 40, § 1º, II, 61, § 1º, II, 73, § 3º, e 75, caput, da Constituição da República. Afirma-se que “nada autoriza a interpretação de que existe competência privativa da Presidência da República ou dos Governadores dos Estados ou do Distrito Federal para apresentação de projetos de lei relativos à aposentadoria dos membros dos tribunais de contas”.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso comporta provimento.
+
+    Da análise dos autos, verifica-se que o entendimento acolhido no acórdão impugnado não está alinhado à jurisprudência desta Suprema Corte, no sentido de que “Não se submete a reserva de iniciativa a lei complementar nacional que, regulamentando a EC nº 88/2015, fixa em 75 (setenta e cinco) anos a idade de aposentadoria compulsória para todos os agentes públicos titulares de cargos efetivos ou vitalícios” (ADI 5430), razão pela qual merece provimento o apelo. Nesse sentido:
+
+    “Direito constitucional. Ação direta de inconstitucionalidade. Aposentadoria compulsória de magistrados. Lei de iniciativa parlamentar. Improcedência. 1. Ação direta de inconstitucionalidade ajuizada pela Associação dos Magistrados Brasileiros (AMB) e pela Associação Nacional dos Magistrados da Justiça do Trabalho (ANAMATRA), em face da Lei Complementar nº 152/2015, de iniciativa parlamentar, que elevou a idade da aposentadoria compulsória no serviço público para 75 (setenta e cinco) anos. 2. Alegação de inconstitucionalidade formal, ao argumento de que o projeto de lei só poderia ser deflagrado pelo Supremo Tribunal Federal, na linha do precedente firmado por esta Corte no julgamento da ADI 5.316-MC (Rel. Min. Luiz Fux). Subsidiariamente, cuidando a matéria de funcionalismo público em sentido amplo, defende-se que a iniciativa caberia à Presidência da República. 3. Superação do precedente apontado. Na ADI 5.490 (Relª. Minª. Cármen Lúcia), por unanimidade, esta Corte decidiu que não há, na hipótese, reserva de iniciativa para a deflagração do processo legislativo sobre aposentadoria compulsória por idade. Isso porque a lei complementar nacional se limita a regulamentar a EC nº 88/2015, da qual se extrai definição preexistente do corte etário para inatividade, e traz um regramento genérico necessário ao funcionamento do regime previdenciário próprio. 4. Não há previsão específica de reserva de iniciativa nas normas trazidas pela EC nº 88/2015, de modo que prevalece a regra geral constante do art. 61, caput, da CF/1988, que autoriza a propositura do projeto de lei complementar por qualquer membro do Congresso Nacional. 5. O regime previdenciário dos agentes públicos deve trazer regras uniformes entre as diferentes carreiras para permitir a previsibilidade e o equilíbrio das contas públicas. Nesse ponto, a magistratura se submete às normas gerais do art. 40 da CF/1988, nos termos do art. 93, VI, da CF/1988, com redação dada pela EC nº 20/1998. Não há, portanto, qualquer elemento que exija singularidade no tratamento da matéria. 6. A aposentadoria compulsória traduz a necessidade de renovação dos cargos públicos efetivos ou vitalícios, como imperativo republicano. Esse interesse está presente em igual grau e importância em todos os Poderes estatais, de modo que, à luz da isonomia, deve ser uniforme o tratamento da idade máxima para ida à inatividade. 7. Pedido improcedente, com a fixação da seguinte tese de julgamento: “Não se submete a reserva de iniciativa a lei complementar nacional que, regulamentando a EC nº 88/2015, fixa em 75 (setenta e cinco) anos a idade de aposentadoria compulsória para todos os agentes públicos titulares de cargos efetivos ou vitalícios”. (ADI 5430, Relator(a): Roberto Barroso, Tribunal Pleno, DJe 06-06-2023)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, dou provimento ao recurso extraordinário para, nos termos da ADI 5430, julgar improcedente o pedido formulado na inicial da ação direta de inconstitucionalidade.
+
+    Publique-se.
+
+    Brasília, 27 de setembro de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
