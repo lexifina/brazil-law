@@ -1,0 +1,14 @@
+DECISÃO
+Em análise, embargos de declaração opostos pelo SINDICATO DOS TRABALHADORES EM EDUCAÇÃO BÁSICA, contra decisão que negou provimento ao recurso ordinário.
+O embargante aduz a existência de omissão na decisão embargada, asseverando que "o Recurso em Mandado de Segurança visa a reforma do acórdão que denegou a ordem, com fundamento no RE 594.296/MG, recurso submetido ao rito dos recursos repetitivos, através do qual o Supremo Tribunal Federal fixou entendimento de que todo e qualquer ato administrativo, que traga consequências concretas à vida dos administrados, deve ser precedido de prévio procedimento administrativo, no qual seja garantida, em plenitude, a ampla defesa e o contraditório, sob pena de nulidade do ato administrativo em si" (fl. 583-584).
+Impugnação apresentada às fls. 594-601.
+É o relatório.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+Na decisão embargada constou manifestação expressa acerca dos motivos pelos quais foi desprovido o recurso, mencionando-se precedente jurisprudencial do STJ que, seguindo a tese fixada pelo Supremo Tribunal Federal no Tema 1.150, reconheceu a impossibilidade de reintegração ou manutenção do servidor público aposentado pelo RGPS no cargo em que se aposentou, por violação da regra do concurso público e à impossibilidade de acumulação de proventos e remuneração.
+Assim, não há vício formal no decisum, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
