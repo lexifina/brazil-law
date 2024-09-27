@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JULIANA XAVIER DA COSTA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE proferido no julgamento do HC n. 0810860- 92.2023.8.20.0000.
+Extrai-se dos autos que a recorrente foi denunciada por ter supostamente praticado o delito tipificado no art. 168, § 1º, III, c/c art. 71 do Código Penal (apropriação indébita em razão da profissão). Na oportunidade, o Ministério Público deixou de ofertar o acordo de não persecução penal (ANPP).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual concedeu parcialmente a ordem para determinar à autoridade coatora a remessa da ação penal ao Procurador-Geral de Justiça, com fulcro no art. 28-A, § 14, do Código de Processo Penal, nos termos do acórdão que restou assim ementado:
+"CONSTITUCIONAL E PROCESSUAL PENAL. HABEAS CORPUS. PACIENTE DENUNCIADA PELO CRIME DE APROPRIAÇÃO INDÉBITA EM RAZÃO DA PROFISSÃO (ART. 168, §1º, III, C/C ART. 71 (DUAS VEZES), AMBOS DO CP). PRETENSO TRANCAMENTO DA AÇÃO PENAL POR FALTA DE JUSTA. DESCABIMENTO. HIPÓTESE APLICÁVEL SOMENTE NOS CASOS DE ATIPICIDADE DA CONDUTA OU QUANDO NÃO HÁ INDÍCIOS DE AUTORIA E EXISTÊNCIA DE MATERIALIDADE DELITIVA. PRESENÇA DE LASTRO PROBATÓRIO MÍNIMO PARA SUPEDANEAR A DENÚNCIA. REQUISITOS DO ART. 41 DO CÓDIGODE PROCESSO PENAL ATENDIDOS. INEXISTÊNCIA DE QUALQUER CAUSA DE REJEIÇÃO DA DENÚNCIA PREVISTA NO ART. 395 DO CÓDIGO DE PROCESSO PENAL. PRETENSA REALIZAÇÃO DO ACORDO DE NÃO PERSECUÇÃO PENAL - ANPP, PREVISTO NO ARTIGO 28-A DO CÓDIGO DE PROCESSO PENAL. POSSIBILIDADE ATÉ O TRÂNSITO EM JULGADO DA SETENÇA. RETROATIVIDADE DA LEI PARA CRIMES COMETIDOS ANTES DA VIGÊNCIA DO PACOTE ANTICRIME (LEI 13.964/2019). OBSERVÂNCIA AO ART. 28-A § 14 DO CPP. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONHECIDA E CONCEDIDA PARCIALMENTE. DISSONÂNCIA COM O PARECER DA 6ª PROCURADORIA DE JUSTIÇA." (fls. 296/297).
+No presente recurso, a defesa sustenta a ausência de justa causa para oferecimento da denúncia, destacando a ausência de dolo da paciente.
+Argumenta que antes do oferecimento da denúncia houve repasse dos valores, gerando a atipicidade da conduta, entretanto, tal informação foi negligenciada pelo Juízo singular ao receber a inicial acusatória.
+Pondera que a paciente buscou a resolução e satisfação do crédito aos supostos credores.
+Destaca, ainda, que a OAB/RN instaurou processo ético disciplinar para apurar a conduta da paciente, entretanto, a classe entendeu pelo desprovimento da demanda.
+Pugna, assim, em liminar, que seja determinado o sobrestamento da Ação Penal n. 0106139-43.2020.8.20.0001, até o julgamento definitivo do presente recurso. No mérito, requer que seja trancada a ação penal.
+A liminar foi indeferida às fls. 347/349. Informações prestadas às fls. 353/387 e 391/402. O Ministério Público Federal opinou pelo desprovimento do recurso às fls. 406/412.
+É o relatório.
+Decido.
+Busca-se, no presente recurso, o trancamento da ação penal em relação ao delito previsto no art. 168, § 1º, III, do Código Penal.
+Inicialmente, cumpre registrar que o trancamento de ação penal pela inexistência de justa causa é medida cabível em situações excepcionais não identificadas no caso concreto. É que esta Corte Superior pacificou o entendimento segundo o qual, em razão da excepcionalidade do trancamento da ação penal, tal medida somente se verifica possível quando ficar demonstrado - de plano e sem necessidade de dilação probatória - a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade, o que não ocorre na hipótese.
+Após análise dos autos, verifica-se que a exordial acusatória (fls. 44/56) faz a devida qualificação da acusada, descreve de forma suficiente a conduta delituosa supostamente perpetrada pela recorrente, que, em tese, caracteriza o delito de apropriação indébita, individualizando a conduta da ré em conformidade com o art. 41 do Código de Processual Penal - CPP, de modo a permitir o exercício da ampla defesa.
+Nesse sentido, confiram-se os seguintes precedentes desta Corte Superior:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. APROPRIAÇÃO INDÉBITA. TRANCAMENTO DO PROCESSO. HIPÓTESES AUTORIZADORAS NÃO CONFIGURADAS. ACORDO ANTERIOR NA ESFERA CÍVEL. INDEPENDÊNCIA ENTRE AS INSTÂNCIAS. ALEGAÇÃO DE AUSÊNCIA DE DOLO. NECESSÁRIO REVOLVIMENTO FÁT ICO-PROBATÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não foram demonstradas, de plano, a falta de justa causa, a atipicidade da conduta, a extinção da punibilidade ou a inépcia formal da denúncia, motivo pelo qual não é cabível o encerramento prematuro do processo.
+2. A celebração de prévio acordo perante a esfera cível não vincula a apreciação dos fatos pela jurisdição penal e, assim, não constitui motivação idônea para o trancamento do processo-crime.
+3. "O afastamento do animus rem sibi habendi, elemento subjetivo do tipo, demanda revolvimento fático probatório incabível na via estreita do writ" (HC n. 488.055/PR, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 26/2/2019).
+4. Agravo regimental não provido.
+(AgRg no HC n. 881.836/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. APROPRIAÇÃO INDÉBITA. TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE INÉPCIA DA DENÚNCIA E FALTA DE JUSTA CAUSA PARA O EXERCÍCIO DA ATIVIDADE PERSECUTÓRIA. VÍCIOS NÃO CONSTATADOS. DENÚNCIA QUE ATENDE AOS REQUISITOS DO ART. 41 DO CPP. EXISTÊNCIA DE ELEMENTOS INDICATIVOS DE AUTORIA E DE MATERIALIDADE DO DELITO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O trancamento de ações penais ou inquéritos policiais pela via do habeas corpus somente é viável quando houver constatação, de plano, de inépcia da peça inaugural ou da atipicidade da conduta atribuída ao acusado ou, ainda, quando houver superveniência de causa extintiva da punibilidade ou ausência de elementos mínimos que demonstrem a autoria ou a materialidade do delito.
+2. Neste caso, não se constata, de plano, nenhum vício apto a ensejar o encerramento da ação penal. O Tribunal de origem destacou que os documentos que acompanham a denúncia fornecem indícios suficientes para autorizar o prosseguimento da persecução criminal.
+Alude aos depoimentos colhidos na fase policial indicativos da ocorrência do delito de receptação qualificada e esclarece que as alegações da defesa não podem ser examinadas na estreita via da ação mandamental.
+3. Por ora, não é possível acolher a versão acusatória nem defensiva, sobretudo na estreita via do habeas corpus, cujo escopo não permite o exame aprofundado de fatos e provas, mas limita-se à apreciação de matéria pré-constituída e que não depende de dilação probatória.
+4. Agravo regimental não provido.
+(AgRg no RHC n. 156.006/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2021, DJe de 16/12/2021.)
+Ademais, conforme jurisprudência desta Corte Superior de Justiça, a restituição do bem ou o ressarcimento do dano não excluem a tipicidade do crime de apropriação indébita.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 168, § 1º, III, DO CP. TRANCAMENTO. MEDIDA EXCEPCIONAL. INVIABILIDADE. REPARAÇÃO A POSTERIORI DO DANO. IRRELEVÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1 - De acordo com a jurisprudência do Superior Tribunal de Justiça, o trancamento da ação penal, por meio de habeas corpus ou recurso em habeas corpus, é medida de exceção, sendo cabível, tão somente, quando inequívoca a ausência de justa causa, v.g., a atipicidade do fato, o que não ocorre in casu.
+2 - Na linha dos precedentes desta Corte, "no crime de apropriação indébita, a restituição do bem ou o ressarcimento do dano não são hábeis a excluir a tipicidade do crime ou afastar a punibilidade do agente" (AgRg no AREsp n. 828.271/SC, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/4/2016, DJe 3/5/2016).
+3 - Agravo regimental a que se nega provimento.
+(AgInt no HC n. 477.498/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/2/2019, DJe de 12/3/2019.)
+Ante o exposto, com fundamento no art. 34, XX, c/c o art. 202 , c/c o art. 246, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
