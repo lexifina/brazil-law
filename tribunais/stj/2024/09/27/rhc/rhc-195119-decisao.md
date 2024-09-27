@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Tiago da Silva de Oliveira contra o acórdão proferido pela Segunda Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul que, nos autos do HC n. 5011259-57.2024.8.21.7000, denegou a ordem, mantendo o recorrente preso preventivamente pela suposta prática de homicídio (Ação Penal n. 5001681-90.2016.8.21.0003, 1ª Vara Criminal Especializada em Júri de Alvorada/RS).
+O recorrente alega, em síntese, que respondia à ação em liberdade, sendo descabida a imposição da prisão por ocasião da pronúncia.
+Sustenta que os antecedentes mencionados datam de mais de 8 anos, não constituindo fundamentação idônea para impor a prisão preventiva.
+Aduz, ainda, a existência de excesso de prazo na formação da culpa.
+Pede, em caráter liminar e no mérito, a revogação da prisão preventiva (fls. 111/118).
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Mario Luiz Bonsaglia, pelo não provimento do presente recurso.
+É o relatório.
+A prisão preventiva pode ser decretada desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+In casu, contudo, o recurso não comporta provimento.
+Busca a defesa a revogação da prisão preventiva decretada em desfavor do recorrente pela suposta prática do crime de homicídio.
+Na sentença de pronúncia, o Magistrado de piso disse o seguinte (fl. 45 - grifo nosso): Quanto ao acusado Tiago, embora tenha respondido o feito em liberdade, tenho por decretar sua prisão, em razão do acautelamento da ordem pública, visto que, posterior aos fatos apurados nestes autos, veio a praticar novos crimes, inclusive contra a vida, na esteira do apurado no feito nº 008/2.16.0014920-3, bem como envolvendo arma de fogo (autos nº008/2.16.0002969-0). Deixo, pois, de lhe conceder o direito de recorrer em liberdade, determinando a expedição do correspondente mandado de prisão.
+A jurisprudência desta Corte Superior é no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta (AgRg no RHC n. 175.703/ES, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 22/6/2023 - grifo nosso).
+Ademais, como bem pontuado na decisão de primeiro grau, autoriza a prisão preventiva a conclusão de que é devida a determinação de prisão cautelar em razão da reiteração delitiva, já que o paciente praticou novos crimes, inclusive contra a vida, na esteira do apurado no feito nº 008/2.16.0014920-3, bem como envolvendo arma de fogo (autos nº008/2.16.0002969-0) - (fl. 45 - grifo nosso), após os fatos objetos deste habeas corpus.
+Outra não foi a opinião do nobre parecerista, quando destacou, em seu parecer, que a constrição cautelar encontra-se devidamente fundamentada, considerando a gravidade da conduta e o concreto risco de reiteração delitiva (fl. 153).
+Dessa forma, estando o decreto prisional lastreado em elementos concretos colhidos dos próprios autos, não há como imputar nenhuma ilegalidade à custódia. E mais, concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva para garantia da ordem pública, não se afigura suficiente a fixação de medidas cautelares alternativas à prisão, até porque o recorrente já teve a liberdade anteriormente concedida e voltou a praticar crimes.
+Acerca do excesso de prazo, consta do acórdão impugnado que o constrangimento ilegal anunciado pela defesa, portanto, não está demonstrado. Ora, a instrução criminal já foi encerrada, sendo o paciente pronunciado na origem por crime contra a vida, em tese. Além disso, o recurso em sentido estrito interposto pela defesa foi remetido ao gabinete desta Relatora, com parecer ministerial em 16/10/23 (proc. 5018880-81.2023.8.21.0003, Evento 8), e será levado a julgamento o mais breve possível (fls. 96/97).
+Assim, não há falar em existência de excesso de prazo.
+Ante o exposto, à vista do parecer, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO. PRISÃO. FUNDAMENTAÇÃO IDÔNEA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. PARECER ACOLHIDO.
+Recurso improvido.
