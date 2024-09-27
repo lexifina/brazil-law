@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FAUSTO MIGUEL MARTELLO contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, de relatoria do Des. RUI CASCALDI, assim ementado:
+COISA COMUM - Ação de arbitramento de aluguel cumulada - Decisão que afastou a prescrição e fixou a citação como termo inicial da cobrança - Inconformismo manifestado pelo réu - Descabimento - Prescrição da pretensão deduzida em juízo que não se verifica - Caso dos autos em que os aluguéis são devidos a partir da citação, conforme decidido - Alegações recursais incapazes de infirmar a conclusão a que chegou o juízo originário - Decisão mantida - Recurso desprovido, prejudicado o agravo interno (e-STJ, fl. 239).
+Nas razões do recurso especial, interposto com base no art. 105, III, alíneas a e c, da CF, FAUSTO alegou, a par de divergência jurisprudencial, a violação dos arts. 1.022, II, do CPC, 206, § 3º, I, e 1.581 do CC, ao sustentar (1) omissão do acórdão recorrido acerca da permanência do estado de mancomunhão dos imóveis do casal; (2) a incidência do prazo prescricional trienal à hipótese, o qual se consumou entre a data da homologação da separação judicial por sentença e a data da propositura da ação de partilha de bens; e (3) subsidiariamente, que o termo inicial para o pagamento dos aluguéis é a data do trânsito em julgado da sentença proferida na ação de partilha de bens, tendo em vista que os imóveis continuam em estado de mancomunhão.
+Foi apresentada contraminuta (e-STJ, fls. 381/395).
+É o relatório.
+Decido.
+Para melhor exame das questões controvertidas, com fundamento no art. 34, XVI, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE ALUGUEL CUMULADA COM COBRANÇA DOS VALORES DEVIDOS. VIOLAÇÃO DO ART. 1.022 DO CPC. DEFINIÇÃO DO PRAZO PRESCRICIONAL INCIDENTE À HIPÓTESE E DO TERMO INICIAL DA SUA CONTAGEM. DETERMINAÇÃO DE CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL.
