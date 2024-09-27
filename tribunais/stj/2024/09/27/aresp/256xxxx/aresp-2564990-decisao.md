@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MAURICIO DAL AGNOL contra decisão desta relatoria, que conheceu do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negou-lhe provimento.
+Nas razões dos aclaratórios (e-STJ, fls. 997-1.001), aduz que houve omissão no acórdão recorrido, sustentando que é motivo de alteração do índice de juros de mora e correção monetária, na visão desta Corte, nos casos em tal título tenha sido proferido em momento anterior à vigência atual do Código Civil. Afirma que o decisum é contraditório e omisso, uma vez que proferida desconsiderando a edição da Lei n. 14.905 de 28 de junho de 2024.
+Os embargos de declaração tem como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, não se verifica qualquer omissão ou contradição no julgado.
+Como se observa dos fundamentos do decisum, o Tribunal de origem, ao julgar o agravo de instrumento, consignou o seguinte excerto no acórdão dos embargos de declaração (e-STJ, fls. 327-329):
+"Em relação ao requerimento de aplicação da taxa SELIC para atualização de valores,entendo que não merece provimento, porquanto a correção e os juros foram delimitados no título executivo, provenientes de decisão judicial transitada em julgado (Evento 1, OUT4 e Evento 1,OUT7), fazendo coisa julgada, senão vejamos:
+(..)
+Uma vez que há coisa julgada, descabe às partes rediscutirem a decisão, bem como os consectários legais nela impostos, ainda que a matéria invocada seja de ordem pública, passível deconhecimento a qualquer momento e grau de jurisdição. Isso porque o instituto da coisa julgada objetiva conferir segurança jurídica às partes, garantindo-lhes a imutabilidade do que foi decidido, evitando, em especial, a reformatio in pejus, vedada pelo ordenamento jurídico. Pela impossibilidade de alteração da matéria de ordem pública após formação da coisa julgada:
+(..)
+Dessa forma, a pretensão do agravante, de alteração do índice de correção, bem como dos juros de mora, não comporta acolhimento, devendo a decisão agravada ser integralmente mantida." (Sem grifo no original).
+Com efeito, não se infere ofensa aos referidos dispositivos legais, pois o v. acórdão recorrido está em consonância com a jurisprudência do eg. STJ, que firmou o entendimento de que não é possível, na fase de liquidação ou cumprimento de sentença, alterar o critério estabelecido no título exequendo, para a fixação dos juros de mora, sob pena de ofensa à coisa julgada. Nesse sentido, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. JUROS DE MORA. FIXAÇÃO EM PERCENTUAL DIVERSO DA LEGISLAÇÃO GERAL DE REGÊNCIA. MATÉRIA DEDUZIDA NA FASE DE CONHECIMENTO. SUBMISSÃO À COISA JULGADA. INVIABILIDADE DE SUSCITAR EM LIQUIDAÇÃO OU CUMPRIMENTO DE SENTENÇA. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte Superior entende que proceder à alteração dos índices de correção monetária estabelecidos no título judicial, na fase de cumprimento de sentença, configuraria violação à coisa julgada.
+Incidência da Súmula n. 83/STJ.
+2. Na hipótese, haja vista o título judicial consignar expressamente índices de correção monetária e de juros de mora, a sua substituição pela taxa Selic - na fase de cumprimento de sentença - viola a coisa julgada.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.478.947/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Ressalte -se, por oportuno, que a possibilidade de alteração, "para efeito de adequação à inteligência do artigo 406 da Lei 10.406/2002 (Código Civil - CC), só tem sido admitida nas hipóteses em que omisso o título exequendo sobre o tema ou nos casos em que tal título tenha sido proferido em momento anterior à vigência do atual CC" (AgInt no AREsp n. 2.173.347/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/9/2023, DJe de 28/9/2023).
+Dessa forma, as razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Ante o exposto, rejeito os embargos de declaração nos moldes consignados.
+Publique-se.
+EMENTA
