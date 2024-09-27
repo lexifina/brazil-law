@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EURIDES BRITO DA SILVA (e-STJ fls. 8932/8942) contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa parte, deu-lhe parcial provimento para reduzir a pena-base, redimensionando sua pena final para 6 anos e 8 meses de reclusão, no regime inicial semiaberto, mantidos os demais termos da condenação (e-STJ fls. 8900/8927).
+Alega a parte embargante, preliminarmente, a competência da Justiça Eleitoral para julgar a suposta compra de apoio político empreendida no contexto da Operação Caixa de Pandora.
+Aduz a omissão em relação à violação aos artigos 386, II, do CPP e 4º, parágrafo 16, III, da Lei 12.850/13, já que a condenação encontra-se lastreada unicamente nas palavras do colaborador premiado, bem como no tocante à redução da pena de multa.
+É o relatório. Decido.
+De início, não se pode falar na competência da Justiça eleitoral, uma vez que os crimes eleitorais são aquelas condutas praticadas durante o processo eleitoral, o que não é o caso dos autos, em que a acusada, na função de parlamentar distrital, recebeu suposta vantagem indevida em troca de apoio político (corrupção passiva) .
+Prosseguindo, no tocante à tese de que a condenação está lastreada unicamente nas palavras do colaborador premiado, ao contrário do que sustenta a parte recorrente, não há falar em omissão, uma vez que a decisão embargada apreciou as teses defensivas com base nos fundamentos de fato e de direito que entendeu relevantes e suficientes à compreensão e à solução da controvérsia, o que, na hipótese, revelou-se suficiente ao exercício do direito de defesa.
+No presente caso, esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao decidir que rever os fundamentos utilizados pela Corte de origem, para concluir pela absolvição da acusada, tendo em vista a ausência de prova concreta para a condenação, uma vez que o único elemento existente nos autos são as declarações prestadas pelo colaborador premiado, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Nesse contexto, tem-se que o fato de não ter sido acolhida a irresignação da parte, apresentando esta Corte fundamentação em sentido contrário, por certo não revela violação do art. 619 do Código de Processo Penal.
+Por fim, em relação à pena de multa, o recurso merece acolhida.
+É que, reduzida a reprimenda, a pena de multa deve ser diminuída proporcionalmente ao montante que fora subtraído. Assim, fixada a pena em 6 anos e 8 meses de reclusão , a pena de multa deve ser estabelecida em 288 dias-multa.
+Com essas considerações, acolho parcialmente os embargos de declaração apenas para fixar a pena de multa em 288 dias-multa, mantidos os demais termos da condenação.
+Intimem-se.
+EMENTA
