@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Joao Vitor Leonel - denunciado pelo delito de tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo que, no Habeas Corpus Criminal n. 2255431-64.2024.8.26.0000, manteve o processamento da Ação Penal n. 1501227-47.2024.8.26.0571 (em trâmite na 1º Vara Criminal da comarca de Tatuí/SP), por entender que não estava configurada nulidade decorrente da atuação da guarda municipal.
+Daí a presente impetração em que se alega a ilicitude da atuação dos guardas municipais por não possuírem atribuição de policiamento ostensivo.
+A defesa aduz, ainda, que foi apresentada fundamentação deficiente para justificar o decreto de prisão preventiva.
+Por fim, traz pedido nos seguintes termos (fl. 9):
+Diante do exposto, requer-se a Vossa Excelência, a concessão da medida liminar para sobrestar o processo até o julgamento final deste writ, bem como após, requer a concessão da ordem, reconhecendo-se a deficiente fundamentação adotada pelo magistrado singular, bem como a consequente nulidade do processo, haja vista a ilegalidade perpetrada pelos guardas municipais, da qual não se comprovou a relação clara e direta com os bens, serviços e instalações do Município.
+É o relatório.
+O presente pedido comporta acolhimento, de pronto.
+Da atenta análise do acordão verifica-se que o Tribunal local afastou a tese de nulidade pelos seguintes termos (fls. 121/127 - grifo nosso):
+Nesse contexto, não há como declarar a ilegalidade das provas produzidas, tendo em vista a atuação da Guarda Municipal.
+De fato, a função precípua destes agentes é a proteção do patrimônio do município. Entretanto, tal designação não impede seus membros de cessar eventual prática criminosa.
+Isto é, em razão do caráter permanente dos delitos, a natureza do crime autorizava os guardas municipais a agirem, eis que facultado a qualquer do povo prender quem quer que seja encontrado em flagrante delito, pela norma do artigo 301 do Código de Processo Penal.
+ ..
+Como se extrai dos autos, em apertada síntese, eis que já esmiuçada acima a ação dos Guardas Municipais receberam denúncia anônima acerca do comércio espúrio praticado pelo paciente e comparsa na pista de skate.
+No local, ao notar a presença deles, o paciente dispensou entorpecentes ao solo e, após revista pessoal, localizaram consigo e com o menor que o auxiliava, uma quantia e, com auxílio de cães farejadores, mais do mesmo entorpecente.
+Observa-se que não houve qualquer ação investigativa dos guardas que prenderam o paciente em flagrante delito, na medida em que eles foram alertados, via denúncia anônima, da ocorrência de tráfico na pista de skate na cidade.
+Desse modo, não houve violação ao texto constitucional e os direitos fundamentais do acusado foram amplamente preservados.
+Muito embora decisões recentes tenham declarado a nulidade de ação penal, na qual a guarda municipal tenha atuado na prisão de acusados, continua a preponderar a orientação de que não há qualquer ilegalidade.
+Tampouco há qualquer ilegalidade da prova obtida por meio da busca realizada por meio de revista pessoal no acusado, onde houve o encontro do numerário, e que culminou, ainda, com a apreensão dos entorpecentes escondidos no centro da praça.
+Desse modo, a abordagem que resultou na revista pessoal, na qual foram encontrados o numerário e o aparelho celular com o menor e o paciente, decorreu do fato de os agentes terem ido apurar denúncia anônima da prática de tráfico, ocasião em que houve demonstração de nervosismo por parte do paciente, pois de pronto jogou ao solo os entorpecentes que trazia consigo, atitude objetivamente suspeita e que justifica a revista pessoal sem mandado, nos termos dos artigos 240 § 2º e 244, ambos do Código de Processo Penal.
+Restou evidente que havia fundadas suspeitas e razões suficientes para que os guardas abordassem o paciente, diante de sua conduta, típica de quem exerce o comércio espúrio de entorpecentes.
+No caso em apreço não houve invasão de domicílio, apenas busca pessoal.
+A moldura fática apresentada pelas instâncias ordinárias se resume em: após denúncia anônima da ocorrência de tráfico, a guarda municipal se dirigiu ao local para apurar a denúncia, momento em que visualizou o suspeito jogando no chão os entorpecentes posteriormente apreendidos.
+Contudo, conforme julgado da Sexta Turma do Superior Tribunal de Justiça, não é das guardas municipais, mas, sim, das polícias, como regra, a competência para patrulhar supostos pontos de tráfico de drogas, realizar abordagens e revistas em indivíduos suspe itos da prática de tal crime ou ainda investigar denúncias anônimas relacionadas ao tráfico e outros delitos cuja prática não atinja de maneira clara, direta e imediata os bens, serviços e instalações municipais (REsp n. 1.977.119/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 3/8/2022 - grifo nosso).
+Assim, somente em situações absolutamente excepcionais a guarda pode realizar a abordagem de pessoas e a busca pessoal, quando a ação se mostrar diretamente relacionada à finalidade da corporação (AgRg no HC n. 771.705/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/10/2022).
+Confiram-se, ainda o AgRg no HC n. 781.821/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 3/7/2024; AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 26/6/2024; e AgRg no AREsp n. 2.562.311/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 23/5/2024, dentre outros.
+Tendo em vista, portanto, que a situação de flagrante delito só foi descoberta após a realização de diligências ostensivas típicas da atividade policial e completamente alheias às atribuições da guarda municipal, o reconhecimento da ilicitude das provas colhidas com base nessas medidas e todas as que delas derivaram é medida que se impõe.
+O Supremo Tribunal Federal, apesar de reconhecer em diversos julgados que as guardas municipais integram o Sistema Único de Segurança Pública e exercem atividade dessa natureza (vide RE n. 846.854/SP, Ministro Luiz Fux, Tribunal Pleno, DJe 7/2/2018 e ADC n. 38/DF, Ministro Alexandre de Moraes, Tribunal Pleno, DJe 18/5/2021), nunca as equiparou por completo aos órgãos policiais para todos os fins (HC n. 830.530/SP, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 4/10/2023 - grifo nosso).
+Assim, à vista do precedente supracitado, deve ser acolhido o pleito de decretação de nulidade da diligência realizada pelos guardas municipais, bem como de ilicitude da prova resultante (apreensão de drogas). Portanto, ausente a materialidade do delito, com fundamento no art. 654, § 2º, do Código de Processo Penal, deve o paciente ser absolvido.
+Prejudicado o pedido de reconhecimento de fundamentação deficiente a justificar a prisão preventiva.
+Ante o exposto, concedo liminarmente a ordem para reconhecer a nulidade da busca pessoal realizada pelos guardas municipais e, em consequência, absolver o paciente na Ação Penal n. 1501227-47.2024.8.26.0571, com fundamento no art. 386, II, do Código de Processo Penal.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO REALIZADA POR GUARDAS MUNICIPAIS. FUNÇÃO DELINEADA NO ART. 144, § 8º, DA CONSTITUIÇÃO FEDERAL. BUSCA PESSOAL. DILIGÊNCIAS OSTENSIVAS E INVESTIGATIVAS TÍPICAS DA ATIVIDADE POLICIAL. ILICITUDE DAS PROVAS OBTIDAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
