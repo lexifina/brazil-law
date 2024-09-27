@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de Jedson Missiel Caetano dos Santos, no qual se aponta como autoridade coatora o Tribunal de Justiça de Alagoas, que negou provimento ao Agravo em Execução n. 0501005-32.2024.8.02.0000, man tendo o indeferimento de transferência de presídio (PEC n. 9002458-02.2020.8.02.0001 - 16ª Vara Criminal da Capital /AL).
+Aqui, a defesa alega que o constrangimento ilegal é manifesto e constatável de plano, sem a necessidade de reexaminar fatos e provas, bastando a revaloração jurídica do quadro fático incontroverso delineado pelas instâncias ordinárias, tendo em vista que foi negado ao paciente o direito de convívio familiar e assistência material, com esteio em fundamentação inidônea, violando, assim, o disposto no art. 41 da LEP (fl. 7).
+Requer a concessão da ordem, deferindo-se a transferência do paciente para UMA UNIDADE PRISIONAL DA CAPITAL, DESTINADA A PRESOS NÃO FACCIONADOS, por ser uma unidade prisional mais próxima da sua família (fl. 14).
+É o relatório.
+O Tribunal a quo manteve o indeferimento da transferência afirmando que (fls. 81/82):
+ ..
+13. Entretanto, apesar de incumbir à mesma Administração adotar as medidas que privilegiem o convívio do apenado com sua família, não constitui direito subjetivo do segregado ser recolhido, obrigatoriamente, em estabelecimento prisional mais próximo de seu seio familiar, sendo prerrogativa da Administração e do Juízo da Execução avaliar necessidade e conveniência da transferência, sempre de maneira fundamentada. Destaque-se, sobre o tema, o entendimento do STJ:
+ ..
+14. Realizando o juízo de conveniência e oportunidade, o sistema prisional entendeu, resumidamente, que "(..) não recomenda uma transferência, neste momento, para outra unidade prisional, por motivos respaldados na segurança pública (..)"
+15. Atento à presunção de legitimidade dos atos administrativos, considero tal informação passível de ser tomada como verídica, sobretudo porque o autor não juntou qualquer elemento capaz de desqualificar o conteúdo da informação.
+ ..
+Pois bem, do excerto transcrito e do que consta dos autos, não se observa ausência de fundamentação, tendo as instâncias ordinárias consignado que a transferência foi indeferida pelo fato de o sistema prisional não ter recomendado a transferência por motivos de segurança pública, tendo sido destacado que o paciente é membro de organização criminosa (fl. 62).
+Com efeito, é pacífico nesta Corte o entendimento de que a deprecação da pena privativa de liberdade não constitui direito absoluto do executado, ainda que sob o fundamento da proximidade com a família. Cabe ao Juízo da Execução, portanto, analisar a viabilidade da transferência, fundada a decisão não somente nas conveniências pessoais do apenado, mas também nas da administração pública. Precedentes (HC n. 487.932/GO, Ministro Felix Fischer, Quinta Turma, DJe 19/3/2019).
+Ainda sobre o tema:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PEDIDO DE PERMANENCIA DO APENADO EM UNIDADE PRISIONAL PRÓXIMA À FAMÍLIA. CONVENIÊNCIA E DISCRICIONARIEDADE DA ADMINISTRAÇÃO PÚBLICA. DECISÃO FUNDAMENTADA. INDISPONIBILIDADE DE VAGA. SUPERLOTAÇÃO. DIREITO SUBJETIVO NÃO ABSOLUTO. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. RECURSO NÃO PROVIDO
+I - Assente que a defesa deve trazer alegações capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - O entendimento das instâncias ordinárias está de acordo com a jurisprudência desta eg. Corte Superior de Justiça, consolidada no sentido de que a transferência ou permanência do preso em estabelecimento prisional situado próximo ao local onde reside sua família não é direito absoluto do reeducando, nada obstante o que consta do art. 226 da Constituição Federal, facultando-se a transferência para local de residência do sentenciado ou de seus familiares tão somente se constatada a existência de vagas, mediante prévia autorização.
+III - O pedido de transferência do apenado poderá ser indeferido, por conveniência da administração da Justiça, desde que por decisão fundamentada. Observo, portanto, que o v. acórdão impugnado não se encontra desprovido de fundamentação, porquanto apresentou elementos idôneos, pois "se assentou na indisponibilidade de vagas e superlotação do sistema prisional, ausência de direito subjetivo do sentenciado e da responsabilidade do Juízo processante, motivos esses que justificam a não admissão do Agravante em estabelecimento prisional do Distrito Federal." (fl. 81) Agravo regimental desprovido.
+(AgRg no HC n. 598.008/DF, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 25/10/2022, DJe de 4/11/2022 )
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. TRANSFERÊNCIA DE ESTABELECIMENTO PRISIONAL. CONVENIÊNCIA DA ADMINISTRAÇÃO DA JUSTIÇA. AUSÊNCIA DE ILEGALIDADE. PRECEDENTES.
+Ordem denegada.
