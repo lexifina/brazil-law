@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Douglas Patrik Jung, no qual se aponta como órgão coator o Tribunal de Justiça de Goiás, que denegou a ordem no HC n. 5238968-23.2024.8.09.0144 (fls. 116/124), mantendo a prisão preventiva decretada pelo Juízo de Direito da comarca de Silvânia/GO, em razão da suposta prática do crime previsto no art. 155, § 4º, IV, do Código Penal (Processo n. 5195155-43.2024.8.09.0144 - fls. 68/72).
+A defesa alega, em síntese, a falta de fundamentação idônea no decreto prisional, bem como a ocorrência de excesso de prazo na formação da culpa.
+Aduz que (fls. 7/8):
+ ..  os crimes em que o Paciente responde, não tiveram trânsito em julgado, bem como, os crimes não possuem relação com o suposto fato que ensejou sua prisão, ainda os outros processos em aberto, foram supostamente cometidos no ano de 2018 e 2021, ou seja, 6/3 anos atrás, não havendo contemporaneidade, muito menos risco de reiteração delitiva.
+Outra questão que merece atenção é na finalização do Inquérito Policial, bem como na denúncia e recebimento da denúncia. A denúncia consta requerimento de diligência para a Delegacia, com a oitiva de um suposto corréu, e desde o dia 08/04 foi determinado o cumprimento da diligência, e até o presente momento, não houve retorno de cumprimento da oitiva do Corréu, o que causa prejuízo ao Paciente que continua segregado.
+Ainda, mesmo com determinação de realização de diligência, o Paciente foi intimado para apresentar resposta à acusação, mesmo antes de finalizar todas as diligencias requeridas, dessa forma atropelando todo o curso processual, apenas para "aparentar" um processo normal, o que não se vê neste caso.
+Logo, a defesa do Paciente requereu dilação do prazo para apresentação de sua 1º defesa, após o cumprimento da diligência, o juiz, em sua decisão requereu a oitiva do MP (sem delimitar prazo para manifestar), e após, concluso novamente para decisão final, e mais uma vez, o Paciente suporta a onerosidade segregado.
+Enquanto isso, o Paciente encontra-se recluso, tendo seu constrangimento ilegal mantido, apenas em prejuízo por demora e manobra do próprio sistema judiciário, ISSO SE DÁ HÁ 54 DIAS, sem noção de prazo para finalização.
+Assim, requer, no âmbito liminar e no mérito, a concessão da liberdade provisória, com ou sem a aplicação de medidas cautelares alternativas.
+Antes da análise do pedido liminar, solicitei informações ao Juízo de primeiro grau (fl. 233), que foram prestadas às fls. 240/242.
+Por meio de petição juntada às fls. 245/252, a defesa colaciona aos autos o interrogatório do corréu, requerendo a liberdade do Paciente Douglas, uma vez que no interrogatório, resta nítido que não houve dolo em praticar o crime em face do Paciente (fl. 245). Aduz, também, que, nas informações prestadas pela Vara Criminal de Silvânia-GO, consta que o Paciente teria "assumido" o suposto furto, ocorre que isso não é verídico, uma vez que o Paciente em momento de oitiva na delegacia, usou seu direito de ficar em silêncio (fl. 245).
+Liminar indeferida (fls. 253/256).
+Prestadas as informações (fls. 262/263), o Ministério Público Federal opinou pelo não conhecimento ou pela denegação do writ (fls. 269/271).
+É o relatório.
+As informações complementares prestadas pelo Juízo de Direito da Vara Criminal da comarca de Silvânia/GO dão conta de que sobreveio sentença penal condenatória em 12/9/2024, oportunidade em que determinou-se a revogação da prisão preventiva do paciente autorizando-o a aguardar o trânsito em julgado em estado de liberdade, como se encontra, após o cumprimento do alvará de soltura em 13/9/2024 (Ação Penal n. 5195155-43.2024.8.09.0144) - (fl. 282 - grifo no original), fato que esgota a pretensão contida na presente impetração, dada a superveniente alteração do cenário fático-processual.
+Consequentemente, perdeu o objeto o writ. Julgo-o, pois, prejudicado (arts. 659 do CPP e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. TESES DE INIDONEIDADE DE FUNDAMENTAÇÃO E EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. IMPOSIÇÃO DO REGIME INICIAL SEMIABERTO. FACULTADO O RECURSO EM LIBERDADE. RELEVANTE ALTERAÇÃO DO PANORAMA FÁ TICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
