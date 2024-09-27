@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+Trata-se de embargos de declaração em habeas corpus opostos por Jader Antonio Tavares de Araujo ao acórdão de minha relatoria (fls. 535/544), no qual a Sexta Turma, por unanimidade de votos, negou provimento ao agravo regimental em habeas corpus, nos termos da seguinte ementa (fl. 535):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CONDENAÇÃO EM SEDE DE APELAÇÃO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. CONFIGURAÇÃO DE MAUS ANTECEDENTES. ORDEM CONCEDIDA NA PRESENTE IMPETRAÇÃO. MERA DISCORDÂNCIA DO AGRAVANTE, NÃO COM O CONTEÚDO DO DECIDIDO, MAS, SIM, COM A DELIBERAÇÃO DO JULGADOR QUANTO À FORMA DE CUMPRIMENTO DO DECISUM. INADMISSIBILIDADE. AFASTAMENTO DA APLICAÇÃO DO PERCENTUAL DA INTERNACIONALIDADE. IMPOSSIBILIDADE. MOTIVAÇÃO VÁLIDA. DEMONSTRAÇÃO DA PARTICIPAÇÃO DO AGRAVANTE NA ESPECIFICIDADE DA MAJORANTE. PLEITO SUBSIDIÁRIO DE DOSIMETRIA PENAL. IMPEDITIVO LÓGICO PARA SUA ANÁLISE E CONCESSÃO, PORQUE CONDICIONADA À NECESSIDADE DE VERIFICAÇÃO, EM MOMENTO POSTERIOR, AO CUMPRIMENTO DA DECISÃO AGRAVADA.
+Agravo regimental improvido.
+Alega o embargante, em síntese: (i) omissão quanto à possibilidade de afastar os maus antecedentes; (ii) omissão quanto à ausência de fundamentação e proporcionalidade para aplicação da fração de aumento de pena em 1/3; e (iii) omissão quanto à ausência de fundamentação de fundamentação para aplicação da causa de aumento de pena pela "internacionalidade".
+Assinala, ademais, o reconhecimento da preliminar de nulidade e concessão da ordem de habeas corpus de ofício, pela incidência de causa de aumento de pena, matéria preclusa, aplicada de ofício pela autoridade coatora.
+Requer, assim, o conhecimento e o acolhimento dos presentes embargos para o saneamento das omissões apontadas.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS IMPROVIDO. CRIME DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CONDENAÇÃO EM SEDE APELAÇÃO. DOSIMETRIA. INEXISTÊNCIA DOS VÍCIOS PRECONIZADOS NO ART. 619 DO CPP. MANIFESTA IMPROCEDÊNCIA. PRETENSÃO DE REDISCUSSÃO DA. MATÉRIA. MERO INCONFORMISMO. RECONHECIMENTO DA PRELIMINAR DE NULIDADE. INOVAÇÃO RECURSAL. DESCABIMENTO.
+1. Não evidenciados vícios no julgado impugnado, não tem cabimento a oposição dos embargos de declaração para rediscussão da matéria já devidamente apreciada e decidida .
+2. Relativamente ao pleito de reconhecimento da preliminar nulidade, verifica-se o descabimento da hipótese por se tratar de "inovação" recursal.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+É cediço que os embargos declaratórios só podem ser utilizados quando, na decisão, houver obscuridade, contradição ou omissão a respeito de ponto sobre o qual devia se pronunciar o juiz ou tribunal, e não o fez, nos termos do que dispõe o art. 619 do Código de Processo Penal.
+Não há nenhuma omissão no acórdão impugnado, pois a matéria foi decidida com a devida e clara fundamentação, tendo concluído que: (i) no que concerne ao afastamento da configuração de maus antecedentes com o consequente redimensionamento da pena, em verdade, revela-se como uma "mera discordância" do agravante, não com o conteúdo do que restou decidido, já que lhe fora favorável o decisum, inclusive com a ordem concedida, mas, sim, com a forma em que este Julgador deliberou para se proceder o "respectivo cumprimento", o que se afigura despropositado e impróprio; (ii) houve motivação válida para a aplicação do percentual, pela "internacionalidade", haja vista que, bem delimitada a especificidade dessa majorante nos termos dos fatos apresentados no acórdão hostilizado (fl. 322 - grifo nosso); (iii) a pretensão referente ao pleito subsidiário de dosimetria penal se condiciona e depende, em primeiro lugar, do cumprimento do quanto decidido neste writ, afigurando-se, portanto, no presente momento processual, como um impeditivo lógico para sua análise e concessão.
+Em verdade, é nítida a intenção do embargante em utilizar o recurso como meio de modificar a conclusão do julgado, em razão de seu mero inconformismo com o que restou decidido nos autos, o que não se admite.
+No mais, relativamente ao reconhecimento da preliminar de nulidade, pela incidência de causa de aumento de pena (internacionalidade), dada a preclusão consumativa da matéria, trata-se, pois, de "inovação" de pedido deduzido somente neste momento recursal, o que se revela totalmente descabido na via eleita.
+Ante o exposto, rejeito os embargos de declaração.
