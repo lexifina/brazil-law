@@ -1,0 +1,11 @@
+DECISÃO
+T rata-se de pedido de extensão formulado pela defesa de PERY MARQUES DO ROSÁRIO, que objetiva alcançá-lo com a ordem concedida ao coinvestigado GHASSAN ALI NAHLE pela decisão de e-STJ fls. 303/307.
+Nesta oportunidade, sustenta-se que as situações fático-processuais do paciente original e do ora requerente são idênticas, devendo ser estendida a ordem.
+É o relatório. Decido.
+A concessão da ordem de habeas corpus ao paciente original, no que interessa ao pedido ora sob análise, decorreu da consideração de que o evidente interesse na localização do investigado, para o caso de vir a ser denunciado, não poderia servir, por si só, para justificar a gravosa medida de monitoração eletrônica, especialmente quando não houve registro de que tenha ensaiado se furtar do processo ou da aplicação da lei penal, tendo a medida sido imposta há mais de nove meses, e sem notícia de descumprimento de qualquer das diversas determinações do juízo.
+Também se registrou que a legitimidade da medida cautelar de monitoramento eletrônico depende de sua pertinência ao caso concreto, a ser articulada fundamentadamente pela decisão que a impuser, o que não se observa no caso dos autos, mencionando-se que os supostos crimes não envolvem violência ou grave ameaça, que o investigado é réu primário, sem maus antecedentes, e que ainda não há registro de conclusão do inquérito policial, configurando-se um longo período de graves restrições às liberdades do investigado, sem motivo atual.
+Nesses pontos, observo que a situação do paciente original equivale à do ora requerente, dado que ambos tiveram, em linhas gerais, primeiro a prisão preventiva, depois o relaxamento da prisão preventiva, bem como a imposição de medidas cautelares diversas da prisão e, finalmente, o indeferimento dos pedidos de revogação da medida de monitoramento eletrônico, todos nos mesmos moldes.
+Diante desse cotejo, efetivamente há motivos para a pleiteada extensão.
+Ante o exposto, estendo a decisão de e-STJ fls. 303/307, para que alcance o coinvestigado PERY MARQUES DO ROSÁRIO , relaxando a medida de monitoração eletrônica, mantidas as demais medidas cautelares que, a rigor, sequer foram objeto da impetração.
+Intimem-se.
+EMENTA
