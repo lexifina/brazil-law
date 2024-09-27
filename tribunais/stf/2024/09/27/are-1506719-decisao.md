@@ -1,0 +1,31 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Alagoas Previdência, em face do acórdão do Tribunal de Justiça do Estado de Alagoas assim ementado:
+
+    “APELAÇÃO CÍVEL. PEDIDO DE JUSTIÇA GRATUITA. DEFERIMENTO NA ORIGEM. AUSÊNCIA DE INTERESSE RECURSAL. DIREITO PREVIDENCIÁRIO. PENSÃO POR MORTE. PREVIDÊNCIA PÚBLICA. PENSÃO POR MORTE RECEBIDA APÓS A ALTERAÇÃO DO ART. 40, §4º, DA CONSTITUIÇÃO FEDERAL, EFETIVADA PELA EC N. 41/2003. BENEFICIÁRIO FALECIDO AINDA NA ATIVA. AUSÊNCIA DE DIREITO À PARIDADE VENCIMENTAL. CONCESSÃO DO BENEFÍCIO PREVIDENCIÁRIO, COM FULCRO NO PRINCÍPIO DA PARIDADE, A MAIS DE OITO ANOS. DECADÊNCIA DO DIREITO DE REVER O ATO ADMINISTRATIVO. ART. 54 DA LEI N. 9.784/99. RESTABELECIMENTO DO VALOR DA PENSÃO POR MORTE DEVIDA À DEMANDANTE, CONSERVANDO OS VALORES PERCEBIDOS ANTERIORMENTE À REDUÇÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. RECURSO CONHECIDO EM PARTE E PROVIDO .”
+
+    Na minuta sustenta-se violação do art. 37, XV, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos, verifica-se que a revisão das premissas adotadas pelo Tribunal de origem demandaria o revolvimento da moldura fática delineada, bem como a análise da legislação infraconstitucional aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279/STF: “para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TEMA 339 DA REPERCUSSÃO GERAL. PENSÃO POR MORTE. MILITAR. PARIDADE. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 279/STF. 1. Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. No julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da CF/1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente. 4. A solução da controvérsia depende da análise da legislação local que rege a pensão dos militares do Estado do Piauí (Código de Vencimento da Polícia Militar do Estado do Piauí), o que é incabível em recurso extraordinário, conforme consubstanciado na Súmula 280/STF: Por ofensa a direito local não cabe recurso extraordinário. 5. A argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário. 6. Agravo Interno a que se nega provimento.” (RE 1467946 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, DJe 06-03-2024)
+
+    “Direito administrativo. Agravo interno em recurso extraordinário com agravo. Pensão por morte. Servidor público militar estadual. Paridade. Decisão que aplica entendimento firmado em regime de repercussão geral. Recurso cabível. Agravo interno. Análise da legislação infraconstitucional pertinente. Reexame do conjunto fático-probatório dos autos. Súmula nº 279/STF. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário interposto para impugnar acórdão o qual manteve sentença de improcedência. 2. Nos termos do art. 1.030, § 2º, do CPC/2015, o agravo interno é recurso próprio à impugnação de decisão que aplica entendimento firmado em regime de repercussão geral. 3. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso e reexaminar o conjunto fático-probatório dos autos (Súmula nº 279/STF), procedimentos vedados neste momento processual. Precedente. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015.” (ARE 1448094 AgR, Relator(a): LUÍS ROBERTO BARROSO (Presidente), Tribunal Pleno, DJe 08-01-2024)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 27 de setembro de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
