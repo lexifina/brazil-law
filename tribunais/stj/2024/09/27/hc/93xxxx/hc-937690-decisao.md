@@ -1,0 +1,22 @@
+DECISÃO
+NATHAN MOURA DOS SANTOS BAIAO alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1512363-71.2022.8.26.0228.
+A defesa sustenta, em síntese, a nulidade da busca pessoal realizada no acusado, sob o argumento de que não foi precedida de fundada suspeita da posse de corpo de delito, razão pela qual pleiteia a absolvição do réu.
+Subsidiariamente, requer a aplicação da minorante do tráfico privilegiado e o abrandamento do regime prisional.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 129-133).
+Decido.
+Em consulta ao sistema informatizado do Tribunal de origem, verifico que a defesa opôs embargos de declaração - ainda pendentes de julgamento - a fim de impugnar o acórdão proferido na apelação.
+Assim, haja vista a falta de manifestação definitiva do Tribunal a quo e o não esgotamento da prestação jurisdicional pela segunda instância, entendo ser esta Corte Superior incompetente para apreciar e julgar a ca usa.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. AFRONTA AO CONTRADITÓRIO E À AMPLA DEFESA. INÉPCIA DA DENÚNCIA. ATIPICIDADE DA CONDUTA. AUSÊNCIA DE MOTIVAÇÃO DO ACÓRDÃO CONDENATÓRIO. PREMATURIDADE. EMBARGOS DE DECLARAÇÃO PENDENTES DE JULGAMENTO PERANTE A CORTE A QUO. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. Não cabe a análise das pretensões voltadas à alteração do mérito da demanda, em habeas corpus, quando pendente de julgamento os embargos de declaração opostos pelo paciente na origem, dada a natureza integrativa conferida ao recurso.
+3. Agravo regimental improvido.
+(AgRg no HC n. 484.200/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 5/4/2019)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. CRIME DE ROUBO. PENDÊNCIA DE JULGAMENTO DE EMBARGOS DE DECLARAÇÃO QUANDO IMPETRADO O WRIT. JULGAMENTO NÃO DEFINITIVO. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. WRIT NÃO CONHECIDO. AGRAVO DESPROVIDO.
+1. Há óbice processual à análise do habeas corpus quando impetrado na pendência de análise de embargos de declaração pelo Tribunal de origem, dada a ausência de esgotamento da instância ordinária.
+2. A possibilidade de concessão de habeas corpus, de ofício, não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 774.400/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., DJe 15/3/2024)
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
