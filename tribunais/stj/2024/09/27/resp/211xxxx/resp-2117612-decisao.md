@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, recurso especial interposto por ANTONIO PINHEIRO DE ARAUJO NETO contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+ADMINISTRATIVO. MILITAR. APELAÇÃO. VALORES RECEBIDOS POR FORÇA DE TUTELA ANTECIPADA. REFORMA DO JULGADO. DESCONTOS EM PROVENTOS A TÍTULO DE RESSARCIMENTO AO ERÁRIO. DESCABIMENTO DAS PARCELAS RECEBIDAS ENQUANTO PENDENTE DISCUSSÃO JUDICIAL. VERBA DE NATUREZA ALIMENTAR. PRESUMIDA BOA-FÉ. APELO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente sustenta a violação dos art. 884 do Código Civil, art. 46, caput, da Lei 8.112/1990 e art. 115 da Lei 8.213/1991.
+Defende que:
+ ..  no recurso aviado pela UNIÃO não existe qualquer pedido sobre a restituição do salário de 2º Sargento que fora concedido por liminar em sede de sentença em favor do recorrente, dessa forma, não há o que se falar sobre devolução de salário aos cofres da União (fl. 346).
+ ..  o STJ já pacificou o entendimento no qual o autor só estará compelido a devolver os proventos percebidos de boa-fé quando o caso tiver como objeto valores percebidos por erro administrativo, conforme restou consignado no Tema Repetitivo 1009 do STJ (fl. 348).
+Contrarrazões apresentadas às fls. 363-373.
+É o relatório.
+Passo a decidir.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente recurso, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Colenda 2ª Turma.
+O Superior Tribunal de Justiça já pacificou a compreensão de que, tendo o servidor recebido os referidos valores amparado por uma decisão judicial precária, não há como se admitir a existência de boa-fé, pois a Administração em momento nenhum gerou-lhe uma falsa expectativa de definitividade quanto ao direito pleiteado (EREsp 1.335.962/RS, Rel. Ministro ARNALDO ESTEVES LIMA, Primeira Seção, DJe 02.08.2013).
+Cumpre destacar que a irrepetibilidade dos valores despendidos pelo erário, por força de decisão precária, somente é possível nas hipóteses em que a liminar ou a antecipação de tutela é confirmada pela sentença e mantida em segunda instância, não obstante a revogação da medida nas instâncias especial ou extraordinária, o que não é o caso dos autos (AgInt no REsp n. 1.812.326/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/10/2020, DJe de 26/11/2020.)
+Assim, não pode o servidor alegar boa-fé para não devolver valores recebidos por meio de liminar, em razão da própria precariedade da medida concessiva e, por conseguinte, da impossibilidade de presumir a definitividade do pagamento (AgInt no AgInt no AREsp 1.609.657/MS, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 16.03.2021).
+Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. DEVOLUÇÃO DE VALORES RECEBIDOS EM RAZÃO DE DECISÃO PRECÁRIA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. ALEGAÇÃO DE EXCESSO. MATÉRIA NÃO DEBATIDA NA CORTE DE ORIGEM. INOVAÇÃO RECURSAL.
+I - Na origem, trata-se de mandado de segurança em que se pretende afastar a devolução de valores recebidos em razão de decisão judicial precária, posteriormente revogada. No Tribunal a quo, denegou-se a segurança.
+II - Não se trata, na hipótese dos autos, de recebimento de valores em razão de interpretação errônea de lei pela administração, caso em que seria indevida a devolução dos valores, segundo orientação firmada no julgamento do Tema Repetitivo n. 531/STJ: "Quando a Administração Pública interpreta erroneamente uma lei, resultando em pagamento indevido ao servidor, cria-se uma falsa expectativa de que os valores recebidos são legais e definitivos, impedindo, assim, que ocorra desconto dos mesmos, ante a boa-fé do servidor público" (1ª S., REsp. 1.244.182/PB, relator Ministro Benedito Gonçalves, DJe 19.10.2012.).
+III - No caso os valores foram recebidos em razão de decisão judicial precária, circunstância que, conforme entendimento pacífico desta Corte obriga a devolução. Nesse sentido: AgInt no AgInt no AREsp 1.609.657/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/3/2021, DJe 16/3/2021; AgInt no REsp 1.812.326/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/10/2020, DJe 26/11/2020.
+IV - A matéria relacionada ao excesso da cobrança não foi debatida na Corte de origem, configurando inovação recursal inviável de conhecimento nesta Corte, sob pena de supressão de instância.
+V - Agravo interno improvido (AgInt no RMS 56.628/CE, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 29.04.2021).
+PROCESSUAL CIVIL E ADMINISTRATIVO. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. TUTELA ANTECIPADA. REVOGAÇÃO PARCIAL. SENTENÇA CONFIRMADA. RESSARCIMENTO DE VALORES. POSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. A jurisprudência desta Corte de Justiça admite a possibilidade de restituição de valores recebidos da Administração Pública por força de liminar ou antecipação de tutela posteriormente revogadas, a fim de evitar o enriquecimento sem causa do beneficiário, sendo desnecessário o ajuizamento de ação autônoma para pleitear a devolução numerário.
+3. A irrepetibilidade dos valores despendidos pelo erário, por força de decisão precária, somente é possível nas hipóteses em que a liminar ou a antecipação de tutela é confirmada pela sentença e mantida em segunda instância, não obstante a revogação da medida nas instâncias especial ou extraordinária, o que não é o caso dos autos.
+4. Agravo interno desprovido (AgInt no REsp. 1.812.326/RS, Rel. Ministro GURGEL DE FARIA, Primeira Turma, DJe 26.11.2020).
+Portanto, deve ser desprovido o recurso especial, com fundamento na orientação contida na Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
