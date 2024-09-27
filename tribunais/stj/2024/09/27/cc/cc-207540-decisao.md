@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, suscitado por CONTAX S/A, atual denominação de LIQ CORP S.A, integrante do GRUPO ATMA - EM RECUPERAÇÃO JUDICIAL, em face do d. Juízo da 1ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo/SP e do d. Juízo da 77ª Vara do Trabalho de São Paulo/SP.
+Diz a inicial que a suscitante está submetida a processo de recuperação judicial em trâmite perante o d. Juízo da 1ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo/SP e que o d. Juízo do Trabalho promoveu a continuidade de execução trabalhista, liberando ao exequente os valores de depósitos recursais (nas fls. 98/100).
+Sustenta que a decisão suscitada usurpa a competência exclusiva do Juízo da Recuperação Judicial na disposição dos bens e ativos da Recuperanda, o que caracteriza conflito de competência.
+Requer, em sede de liminar, a suspensão da decisão do d. Juízo exequente suscitado e, no mérito, seja declarada a competência do d. Juízo da Recuperação Judicial.
+É o relatório.
+Passo a decidir.
+O conflito positivo de competência, ao menos em sede perfunctória, está caracterizado.
+Depreende-se, a partir do exame dos documentos que instruem os autos, que a suscitante está submetida a procedimento de recuperação judicial em trâmite perante o d. Juízo Cível, bem como que o d. Juízo do Trabalho determinou a continuidade de execução trabalhista, ordenando a liberação ao exequente dos depósitos recursais feitos pela recuperanda (na fl. 85).
+Desse modo, ao menos em sede perfunctória resta caracterizado o conflito positivo de competência.
+De acordo com a Lei 11.101/2005, estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos (art. 49), bem como que a aprovação do plano de recuperação judicial implica a novação automática de todas as antigas obrigações do devedor (art. 59), que, extintas, são substituídas por aquelas previstas no referido plano, sem prejuízo das garantias (REsp n. 1.655.705/SP). Isso leva à conclusão de que a submissão de um determinado crédito à recuperação judicial não depende de provimento judicial anterior ou contemporâneo ao pedido, bastando que se refira a obrigações contraídas anteriormente a ele.
+Assim, esta Corte tem decidido que o crédito derivado de atos praticados em período anterior ao pedido de recuperação judicial, concursal, portanto, deve se submeter à forma de satisfação preconizada perante o Juízo universal, a despeito de a decisão condenatória eventualmente ter sido proferida em momento posterior (AgInt no CC 152.900/SP).
+Nessa esteira, a jurisprudência do Superior Tribunal de Justiça considera ser da competência precípua do Juízo "singular" apenas a apreciação e julgamento das ações que versam sobre a apuração de créditos requeridos em face de empresas e empresários falidos ou em recuperação judicial, assim como que os valores apurados, ainda que relativos a anteriores depósitos recursais ou penhoras, deverão ser habilitados, conquanto de forma retardatária, no Juízo "universal" para posterior pagamento (AgInt nos EDcl no CC n. 165.079/SP).
+Com efeito, o crédito líquido concursal (art. 49 da Lei 11.101/2005) não habilitado em tempo deverá ser recebido na Recuperação Judicial na condição de habilitação retardatária, sendo da competência do respectivo Juízo estabelecer, em harmonia com o plano de soerguimento, a forma como será satisfeito. (CC 114.952/SP).
+Em vista do exposto, concedo a liminar requerida para determinar a suspensão da execução em evidência, no tocante à adoção de atos constritivos de bens e direitos exclusivos da suscitante, ficando vedado o levantamento de quaisquer valores.
+Designo o Juízo da 1ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo/SP para resolver, em caráter provisório, as medidas urgentes relativas à execução.
+Oficiem-se aos juízos suscitados, com urgência, comunicando e solicitando informações acerca do andamento dos processos mencionados.
+Após, ao Ministério Público Federal.
+Publique-se.
+EMENTA
