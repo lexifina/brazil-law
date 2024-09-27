@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  QUE  NÃO  ADMITIU  O  RECURSO  ESPECIAL.  AUSÊNCIA  DE  CAPÍTULOS  AUTÔNOMOS.  NECESSIDADE  DE  IMPUGNAÇÃO  INTEGRAL.  ENTENDIMENTO  FIRMADO  NO  EARESP  N.  701.404/SC.  DECISÃO  AGRAVADA . MANUTENÇÃO.
+I  -  A Corte Especial desse Tribunal Superior, no julgamento do EAREsp n. 701.404/SC, perfilhou o entendimento de que a decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Portanto, não há capítulos autônomos na decisão que inadmite o recurso especial, a qual, por isso, deve ser impugnada em sua integralidade.
+II - No caso, ao compulsar detidamente as razões do agravo em recurso especial, verifico que o agravante  deixou  de  infirmar as  razões  apresentadas  pelo Tribunal  de  origem  para  negar  trânsito  ao  recurso  especial,  pois olvidou-se, por completo,  de  aventar  irresignação  em face da aplicação da Súmula n. 7/STJ.
+III - Desse modo, consoante conclusão adotada na decisão agravada, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial, nos termos do art. 932, inciso III, do CPC, impede o conhecimento do agravo em recurso especial, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Agravo  regimental  desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RAIMUNDO ANTONIO SAMPAIO DA SILVA contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial (fls. 351-352).
+Informam  os  autos  que  o  agravante  foi  condenado à  pena  de  2  (dois)  meses de detenção,  em regime inicial aberto, em razão da prática do crime previsto no art. 210, caput, do CPM  (fls.  208-215 e 273-284).
+Na decisão agravada, constou que o agravante deixou de impugnar especificamente parte dos óbices adotados pelo Tribunal de origem para inadmitir o recurso especial, qual seja, a Súmula n. 7/STJ.
+Neste agravo regimental (fls. 357-369), o insurgente, além de reiterar as teses apresentadas no recurso especial, afirma que, ao contrário do que registrou a decisão impugnada, houve a adequada e suficiente impugnação de todos os óbices adotados pelo Tribunal de origem para negar trânsito ao recurso especial.
+Requer, portanto, a reconsideração da decisão agravada para que seja examinado e provido o recurso especial, ou, subsidiariamente, o encaminhamento dos autos ao Colegiado para a análise da matéria.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo regimental (fls. 384-385).
+Por manter a decisão, trago o feito à Turma para julgamento.
+É o relatório.
+EMENTA
+  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  QUE  NÃO  ADMITIU  O  RECURSO  ESPECIAL.  AUSÊNCIA  DE  CAPÍTULOS  AUTÔNOMOS.  NECESSIDADE  DE  IMPUGNAÇÃO  INTEGRAL.  ENTENDIMENTO  FIRMADO  NO  EARESP  N.  701.404/SC.  DECISÃO  AGRAVADA . MANUTENÇÃO.
+I  -  A Corte Especial desse Tribunal Superior, no julgamento do EAREsp n. 701.404/SC, perfilhou o entendimento de que a decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Portanto, não há capítulos autônomos na decisão que inadmite o recurso especial, a qual, por isso, deve ser impugnada em sua integralidade.
+II - No caso, ao compulsar detidamente as razões do agravo em recurso especial, verifico que o agravante  deixou  de  infirmar as  razões  apresentadas  pelo Tribunal  de  origem  para  negar  trânsito  ao  recurso  especial,  pois olvidou-se, por completo,  de  aventar  irresignação  em face da aplicação da Súmula n. 7/STJ.
+III - Desse modo, consoante conclusão adotada na decisão agravada, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial, nos termos do art. 932, inciso III, do CPC, impede o conhecimento do agravo em recurso especial, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Agravo  regimental  desprovido.
+VOTO
+O agravo regimental não reúne condições de prosperar.
+Isso porque o recurso que submete a matéria à análise do Colegiado deve trazer argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão impugnada por seus próprios fundamentos.
+Nesse compasso, não obstante o teor das razões suscitadas no recurso, não vislumbro elementos hábeis a alterar a decisão de fls. 351-352. Ao contrário, os argumentos ali externados merecem ser ratificados.
+No caso, o recurso especial foi inadmitido pelo Tribunal a quo em virtude da aplicação da Súmula n. 7/STJ, pois a análise das questões suscitadas implicaria revolvimento fático-probatório, e da ausência de comprovação adequada da divergência jurisprudencial suscitada (fls.  323-324).
+Nesse contexto, ao compulsar detidamente as razões do agravo em recurso especial, verifico que, no caso, o agravante  deixou  de  infirmar as  razões  apresentadas  pelo Tribunal  de  origem  para  negar  trânsito  ao  recurso  especial,  pois olvidou-se, por completo,  de  aventar  irresignação  em face da aplicação da Súmula n. 7/STJ.
+Sobre o tema, é oportuno registrar que a Corte Especial desse Tribunal Superior, no julgamento do EAREsp n. 701.404/SC, perfilhou o entendimento de que a decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Portanto, não há capítulos autônomos na decisão que inadmite o recurso especial, a qual, por isso, deve ser impugnada em sua integralidade.
+Destarte, cabe ao agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica de todos os óbices por ela apontados, obrigação da qual não se desincumbiu a Defesa, no caso, pois limitou-se a repisar as razões do recurso especial.
+Em idêntico sentido: AgRg no AREsp n. 2.181.617/SP, Quinta Turma, de minha relatoria, DJe de 3/7/2023; AgRg no AREsp n. 1.825.284/ES, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 21/10/2022.
+Desse modo, consoante conclusão adotada na decisão agravada, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial, nos termos do art. 932, inciso III, do CPC, impede o conhecimento do agravo em recurso especial, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no AREsp n. 1.682.769/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/06/2020; AgRg no AREsp n. 1.667.698/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 29/05/2020.
+Dessarte, o agravante não trouxe argumentos aptos a desconstituir a decisão monocrática, que, por tal razão, deve ser mantida.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
