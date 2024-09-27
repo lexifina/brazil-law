@@ -1,0 +1,38 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S.A. CREDITO FINANCIAMENTO E INVESTIMENTOS , contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/07/2024.
+Concluso ao gabinete em: 09/09/2024.
+Ação: revisional de contrato bancário proposta por EVANDIR DA SILVA, em face da agravante, em razão de excesso na cobrança de juros remuneratórios decorrente de contrato de empréstimo.
+Sentença: julgou parcialmente procedentes os pedidos para o fim de limitar os juros remuneratórios do contrato de empréstimo à taxa média de mercado à época da contratação, condenando a agravante à devolução dos valores cobrados em excesso.
+Acórdão: negou provimento ao recurso interposto pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE REVISÃO CONTRATUAL - PRELIMINAR - NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO - CERCEAMENTO DE DEFESA - INÉPCIA DA INICIAL - AFASTADAS - MÉRITO - POSSIBILIDADE DE REVISÃO - INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR - JUROS REMUNERATÓRIOS - LIMITAÇÃO À TAXA MÉDIA DE MERCADO - JUROS ESTIPULADOS EM PERCENTUAL EXCESSIVO - AFASTAMENTO DOS EFEITOS DA MORA - RECURSO DESPROVIDO.
+Estando a sentença suficientemente motivada e não havendo violação às garantias constitucionais, deve ser afastada a alegação de nulidade por ausência de fundamentação.
+Se as provas constantes dos autos são suficientes para formar o convencimento do magistrado, o julgamento do feito no estado em que se encontra não caracteriza cerceamento da defesa.
+Na esteira do entendimento do Superior Tribunal de Justiça, levando- se em consideração a situação jurídica específica do contrato, é de se admitir a revisão das cláusulas consideradas abusivas pelo Código de Defesa do Consumidor, não se revestindo o princípio do pacta sunt servanda de caráter absoluto.
+Não há falar em inépcia da peça vestibular quando verificado que os pedidos formulados foram claros e objetivos, de forma a permitir ao demandado o exercício do contraditório e da ampla defesa.
+Se os juros remuneratórios contratados forem excessivamente superiores à taxa média de mercado fixada pelo Banco Central do Brasil, deve ser admitida a revisão contratual. A cobrança de juros superiores ao dobro da taxa média de mercado é suficiente para caracterizar a abusividade.
+O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual descaracteriza a mora e afasta seus efeitos, nos termos da orientação firmada pela Corte Superior no R Esp n.º 1.061.530/RS.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 421 do Código Civil, 355, incisos I e II e art. 356, incisos I e II e 927 do Código de Processo Civil e 51, § 1º, do Código de Defesa do Consumidor, bem como divergência jurisprudencial. Insurge-se, em síntese, contra a limitação dos juros remuneratórios, sustentando ausência de abusividade da taxa pactuada e aduz o cerceamento de defesa, em razão da necessidade de realização da prova pericial contábil.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Conquanto se saiba que a jurisprudência do STJ entende que, o simples fato de os juros remuneratórios contratados serem superiores à taxa média de mercado, por si só, não configura abusividade, no caso dos autos, observa-se que o TJ/MS, após analisar o acervo probatório reunido nos autos, concluiu que:
+No caso em apreço, o autor alega ter firmado contrato de empréstimo com a instituição financeira. Referido contrato, identificado sob o n.º 06005005219905, foi juntado e é possível vislumbrar que a taxa de juros remuneratórios prevista é de 18,50% a. m. e 666,69% a. a. Ocorre que tais taxas estão muito além do dobro da média de mercado divulgada no site do Bacen. Observe-se que a taxa média mensal de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado para o período foi de 6,99% a. m. e 124,99% a. a. O que se depreende dos autos é que o contrato estipulou taxa de juros excessivamente onerosa ao consumidor, ultrapassando o dobro da média praticada pelo mercado e caracterizado a abusividade que autoriza a revisão judicial. Nesse contexto, impõe-se a manutenção da sentença que determinou a adequação dos juros remuneratórios à taxa média de mercado. (e-STJ, fl. 410)
+No tocante ao cerceamento de defesa, o Tribunal fundamentou que:
+No caso, considero não estar configurado cerceamento de defesa, pois a produção de prova pericial contábil requerida se apresenta desnecessárias ao esclarecimento dos fatos e julgamento do feito. Sendo assim, rejeito a preliminar. (e-STJ, fl. 404)
+Portanto, alterar o decidido no acórdão impugnado no tocante à desnecessidade da realização de perícia contábil, bem como à abusividade das taxas de juros remuneratórios, exige o reexame do contexto fático e probatório valorado pelas instâncias ordinárias, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência da similitude fática. Ressalte-se que é necessário que se aponte e explicite como os casos são semelhantes e qual é a proximidade fática e jurídica entre os julgados comparados, de forma consistente, o que não foi realizado na hipótese. Nesse sentido: AgInt no REsp n. 1.961.625/SP, Terceira Turma, DJe de 12/9/2022 e AgInt no AREsp n. 2.334.899/SP, Quarta Turma, DJe de 7/12/2023.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fls. 411) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. DISSÍDIO PREJUDICADO.
+1. Ação revisional de cláusulas contratuais.
+2. O exame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido.
