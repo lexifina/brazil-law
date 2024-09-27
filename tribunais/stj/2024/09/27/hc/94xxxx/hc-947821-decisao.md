@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de FRANCISCO DE ASSIS SOUSA OLIVEIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação n. 0084129-66.2019.8.19.0001, relator o Desembargador Fernando Antônio De Almeida).
+Depreende-se dos autos que o paciente foi condenado à pena de 13 anos de reclusão, em regime fechado, pela prática do crime previsto no art. 121, § 2º, inciso II, do Código Penal, sendo-lhe negado o direito de recorrer em liberdade.
+Interposto recurso de apelação, este encontra-se pendente de julgamento.
+Daí o presente writ, no qual argumenta a defesa estar configurado constrangimento ilegal pelo excesso de prazo para o julgamento da apelação e, por conseguinte, da prisão cautelar.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa.
+É o relatório.
+Decido.
+O impetrante não instruiu suficientemente os autos, pois n ele constam somente a petição inicial e alguns andamentos processuais da apelação, o que, a toda evidência, impede o exame completo da tese suscitada.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto à parte interessada.
+Nesse sentido, segue a jurisprudência desta Corte Superior:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC n. 48.939/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 23/4/2015.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC n. 54.626/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/3/2015.)
+De todo modo, sobre o tema, cumpre ressaltar que esta Corte tem reiterada jurisprudência de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória.
+Na presente hipótese, é possível extrair dos documentos acostados que o paciente foi condenado à pena total de 13 anos de reclusão e o recurso foi recebido na segunda instância, em 27/9/2023, estando com vista à Revisão desde 6/8/2024.
+Assim, não reconheço flagrante ilegalidade na hipótese, já que está dentro dos limites da razoabilidade, portanto, o prazo de 12 meses desde o aviamento do recurso de apelação até a presente data.
+Nesse sentido:
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+1. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesadas as particularidades da causa.
+2. Na espécie, não se constata o alegado constrangimento ilegal, pois o decurso de aproximadamente 8 meses desde o registro e autuação do recurso no Tribunal de origem (recebimento da irresignação pela segunda instância em 28/7/2016) sem o seu julgamento não extrapola os limites da razoabilidade e está justificado na complexidade do feito, pois só a sentença apelada conta com mais de 60 folhas, sendo que, consoante se extrai dos autos e do andamento processual constante do endereço eletrônico do Tribunal de Justiça do Mato Grosso do Sul, todos os 5 réus recorreram e o Ministério Público já ofertou, em 6/12/2016, parecer, indo os autos à conclusão nessa mesma data. Ademais, é cediço que eventual excesso de prazo no julgamento da apelação deve ser aferido confrontando a quantidade de pena imposta na sentença condenatória, a qual, no caso, foi de 12 anos e 8 meses de reclusão, pela prática dos crimes de tráfico de drogas e associação para o tráfico, o que reforça a conclusão de que não há, na hipótese, desídia a ser atribuída ao órgão jurisdicional.
+3. Ordem denegada. (HC n. 374.706/MS, de minha relatoria, SEXTA TURMA, julgado em 6/4/2017, DJe 20/4/2017.)
+HABEAS CORPUS. LATROCÍNIO. PACIENTE CONDENADO À PENA TOTAL DE 25 ANOS E 8 MESES DE RECLUSÃO. REGIME FECHADO. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO CRIMINAL. INOCORRÊNCIA. PRINCÍPIO DA RAZOABILIDADE. COMPLEXIDADE DO FEITO. DIVERSOS APELANTES. ORDEM DENEGADA.
+1. O excesso de prazo para o julgamento da apelação não pode ser medido apenas em razão do tempo decorrido para o julgamento do recurso, devendo ser apreciado, também, a partir do princípio da razoabilidade e da proporcionalidade, tendo em vista a complexidade da causa em julgamento.
+2. Eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória (HC n. 234.713/CE, Relator Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 12/6/2012, DJe 28/6/2012).
+3. Considerando que a pena total a que foi condenado o paciente é de 25 anos e 8 meses de reclusão, bem como a complexidade da causa, que conta com 4 (quatro) réus, alguns foragidos, com defensores diversos, inexiste flagrante excesso de prazo no julgamento dos recursos, pois não demonstrado que, em razão da demora no julgamento das apelações, o paciente encontra-se impedido de usufruir de benefícios relativos à execução da pena, que já foi iniciada, tendo sido expedida a competente guia de execução provisória.
+4. Ordem denegada. (HC n. 389.662/MG, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/5/2017, DJe 22/5/2017.)
+Ante todo o exposto, denego a ordem.
+Publique-se. Intimem-se.
+ EMENTA
