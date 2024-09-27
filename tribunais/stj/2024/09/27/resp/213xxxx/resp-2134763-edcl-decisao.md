@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Betty Silva de Andrade, contra a decisão de fls. 120/124 que conheceu parcialmente do recurso especial interposto pelo INSS, e nesta parte, deu-lhe provimento, ao fundamento de que a jurisprudência desta Corte é firme no sentido de não deterem os sucessores a legitimidade para pleitear, em nome próprio, parcelas relativas à aposentadoria que não foram recebidas em vida pelo segurado falecido, situação que se diferencia nos casos em que se requer a revisão do benefício já reconhecido, ao tempo anterior ao óbito do segurado, ou quando já em curso ação proposta pelo titular do benefício.
+A parte embargante alega que "no caso concreto, a presente ação de revisão de benefício previdenciário foi originalmente ajuizada em 03/12/2015 pelo instituidor do benefício, Sr. Barbosa Pinto de Andrade, que veio a falecer no decorrer da ação, e, 09/2018, oportunidade em que a viúva pensionista, BETTY SILVA DE AN-DRADE, foi habilitada nos autos" (fl.133)
+Nesse passo afirma que "o caso concreto está nos termos do entendimento Desta Corte, consoante fundamentação da própria Decisão Monocrática ora embargada, restando caracterizada a contrariedade da r. Decisão, eis que, ao final, acolhe o Recurso interposto pelo INSS" (fl. 133). Aduz também o embargante que "o direito de revisão foi garantido ao instituidor, autor original da ação, sendo, portanto, incorporado ao seu patrimônio, razão pela qual faz jus a pensionista aos valores atrasados, incluindo as parcelas da sua pensão por morte, eis que derivada do benefício originário e tendo em vista ter sido habilitada no decorrer da presente ação" (fl133).
+Ao final, "requer sejam acolhidos os presentes Embargos de Declaração, a fim de que seja sanada a contradição apontada, e com efeitos infringentes, seja determinado que seja mantida a decisão do Agravo, eis que em consonância com o entendimento Desta Corte" (fl. 134).
+Devidamente intimada, a parte embargada não impugnou, conforme certidão de fl. 143.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+Consoante o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou, ainda, para correção de erro material.
+Na situação em análise, de fato, a decisão embargada não levou em consideração que o óbito do instituidor da pensão, ocorreu quando já em curso ação proposta pelo titular do benefício.
+Assim, com razão a parte embargante ao apontar contradição na decisão ora questionada, o que justifica o acolhimento do presente recurso integrativo.
+ANTE O EXPOSTO, acolho os presentes aclaratórios para tornar sem efeito a decisão às fls. 120/124.
+Publicada a presente decisão, voltem-me conclusos os autos, para novo exame do apelo nobre interposto pelo INSS.
+Publique-se.
+EMENTA
