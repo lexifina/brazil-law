@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CANEL CENTRAL AGRÍCOLA NOVA ERA LTDA. contra a decisão, constante às e-STJ fls. 723/730, em que dei provimento ao recurso especial do ESTADO DO PIAUÍ para "cassar o acórdão recorrido e determinar o retorno dos autos à Corte de origem, para que reaprecie a apelação, observada a diretriz jurisprudencial de que a dispensa dos honorários advocatícios referentes à ação anulatória de crédito tributário em face de adesão a programa de recuperação fiscal depende de disposição específica contida na lei estadual de regência do benefício".
+Nas suas razões (e-STJ fls. 734/743), a parte embargante alega que a decisão ora impugnada incorreu em omissão, pois deixou de observar que as instâncias ordinárias já examinaram a legislação local de regência do benefício fiscal para concluírem que os honorários advocatícios pagos por ocasião da adesão ao parcelamento também se referem à presente ação anulatória.
+O ente público embargado apresentou impugnação (e-STJ fls. 753/755).
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material, vícios esses inexistentes na espécie.
+Isso porque na decisão embargada fui claro ao assentar que "a dispensa do pagamento da verba honorária relativa a presente ação anulatória depende da verificação acerca da existência de disposição específica na lei local de regência do parcelamento", cabendo ao Tribunal de origem essa verificação.
+Saliento que, diversamente do afirmado pela embargante, a fundamentação contida no acórdão recorrido (transcrita na decisão agora embargada) não aponta para a existência de disposição específica na legislação do parcelamento disciplinando que os honorários advocatícios pagos quando da adesão englobariam ações conexas que discutem o crédito tributário.
+Em verdade, o TJPI afastou a condenação em verba honorária na ação anulatória em face de sua desistência ter sido motivada por adesão a programa de parcelamento, de modo que o arbitramento da verba ensejaria bis in idem, pois "os honorários advocatícios também incidem administrativamente sobre o mesmo débito".
+Acresço que, diversamente da sentença, o acórdão da apelação não decidiu com base no direito local referente ao parcelamento, mas com amparo na interpretação dos arts. 85, § 1º, e 90 do CPC/2015 e do precedente vinculante que julgou o Tema 400 do STJ, sendo que essa fundamentação foi exaustivamente analisada e afastada pela decisão ora embargada.
+Constata-se, assim, que a insurgência da embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, sendo de caráter meramente infringente e, por isso, de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Entretanto, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
