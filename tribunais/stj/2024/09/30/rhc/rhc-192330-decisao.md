@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por CARLOS ALBERTO ROMCY ISRAEL contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Consta dos autos que o recorrente teve prisão preventiva decretada pela suposta prática das condutas descritas nos arts. 121, § 2º, I e IV, e 121, § 2º, IV, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 170-180.
+No presente recurso, o recorrente sustenta fazer jus à prisão domiciliar ante seu quadro de saúde e por ser alvo de ameaças de facção criminal, não sendo impeditivo da medida alternativa o fato de estar foragido para preservar sua vida e saúde.
+Pedido de liminar indeferido às fls. 216-217.
+Informações prestadas às fls. 223-238 e 239-242.
+O Ministério Público Federal em parecer, às fls. 246-251, manifestou em parecer que restou assim ementado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. DUPLO HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. PRETENSÃO À PRISÃO DOMICILIAR. DOENÇA DE CROHN. DEBILIDADE DE SAÚDE E IMPOSSIBILIDADE DE TRATAMENTO NA UNIDADE PRISIONAL NÃO COMPROVADAS. REVERSÃO DAS INSTÂNCIAS ORDINÁRIAS QUE DEMANDARIA EXAME APROFUNDADO DOS AUTOS. DOENÇA PREEXISTENTE AOS CRIMES IMPUTADOS. RECORRENTE FORAGIDO. NÃO PROVIMENTO".
+É o relatório. DECIDO.
+No caso, a prisão preventiva do Recorrente ampara-se na gravidade concreta da conduta, com duas vítimas fatais, na "extensa ficha de anotações criminais anteriores" e na condição de foragido, que perdura há mais de 1 ano e 6 meses, e não é contestada pela defesa, que busca, aqui, a substituição da custódia por prisão domiciliar, prevista no art. 318 do CPP.
+No que se refere ao pedido de substituição da prisão preventiva pela domiciliar, o Tribunal de origem assim se pronunciou:
+"apesar da documentação acostada ao writ (fls. 28/137), inexiste comprovação do risco do estado de saúde do paciente se agravar, além de que o impetrante não teria demonstrado a ineficiência das unidades prisionais do Estado do Ceará para a continuidade do tratamento do paciente. (..) A concessão da prisão domiciliar ê admitida, excepcionalmente, quando o paciente ostentar, comprovadamente, a necessidade de tratamento especial de saúde, que não possa ser suprido pela unidade prisional, o que não restou comprovado. Portanto, restaram insatisfeitos, na hipótese, os requisitos do artigo 318, II, do CPP". (fls. 177-179).
+In casu, as instâncias ordinárias concluíram não haver comprovação satisfatória dos requisitos necessários para o deferimento da prisão domiciliar. A documentação juntada não indica a necessidade do recorrente ser atendida de forma especial em sua residência. Ao contrário, a documentação acostada aponta que vem recebendo tratamento adequado no estabelecimento prisional.
+Com efeito, é firme a jurisprudência deste Tribunal Superior no sentido de que o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, depende da comprovação inequívoca de o réu esteja extremamente debilitado, por motivo de grave doença aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra, o que não ocorreu nos autos.
+Ilustrativamente:
+"O Tribunal de origem destacou que não há nos autos documentos que atestem a gravidade da doença do paciente alegada pela defesa ou mesmo que comprovem omissão de tratamento da unidade penitenciária. Dessa forma, não há se falar em substituição da custódia cautelar pela prisão domiciliar, haja vista que o entendimento desta Quinta Turma é no sentido de que, à luz do disposto no art. 318, inciso II, do CPP, o acusado tem que comprovar o grave estado de saúde em que se encontra e a incompatibilidade entre o tratamento de saúde e a segregação cautelar, que não é o caso dos autos"(AgRg no HC n. 823.342/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 27/10/2023.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
