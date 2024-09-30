@@ -1,0 +1,103 @@
+RECLAMAÇÃO. CONSTITUCIONAL. IMPROBIDADE ADMINISTRATIVA. ALEGAÇÃO DE AFRONTA À DECISÃO PROFERIDA POR ESTA CORTE NO INQUÉRITO 3.753. OCORRÊNCIA. ACÓRDÃO PARADIGMA QUE, AO EXAMINAR A MESMA CONDUTA ANALISADA NA AÇÃO DE IMPROBIDADE, AFASTA A EXISTÊNCIA DO DOLO. ELEMENTO ESSENCIAL À CONFIGURAÇÃO DO ATO DE IMPROBIDADE ADMINISTRATIVA NÃO VERIFICADO NO CASO CONCRETO. RECLAMAÇÃO QUE SE JULGA PROCEDENTE.
+
+    Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Espólio de Marco Antônio Tebaldi contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, nos autos do Agravo de Instrumento nº 5067194-83.2023.8.24.0000 (Ação Civil Pública nº 0022489-02.2012.8.24.0023), sob fundamento de ofensa à decisão proferida pela Primeira Turma desta Corte no julgamento do Inquérito 3.753.
+
+    Narra o reclamante tratar-se, na origem, de ação civil pública para apurar suposto ato de improbidade administrativa de Marco Antônio Tebaldi que, na condição de Secretário de Educação do Estado de Santa Catarina, teria firmado o Termo de Contrato nº 005/2012, cujo objeto era a licença de uso do Software Urânia junto à empresa Geha Comércio de Sistemas de Informática Ltda., para organização de horários e de grade escolar da rede pública daquele Estado. Relata ter havido, à época, inexigibilidade de licitação para a mencionada contratação. Aduz ter o Ministério Público proposto a referida ação civil pública a fim de averiguar o procedimento efetuado, uma vez que não teria sido demonstrada a inadequação de outros softwares às necessidades escolares que justificassem a aludida inexigibilidade.
+
+    Findo o inquérito civil, o Procurador-Geral de Justiça do Estado de Santa Catarina encaminhou ao Procurador-Geral da República notícia crime acompanhada da inicial da ação civil pública por ato de improbidade administrativa. Na ocasião, Marco Antônio Tebaldi gozava de foro por prerrogativa de função uma vez que ocupava o cargo de Deputado Federal. Instaurado o inquérito para investigar o crime disposto no art. 89 da Lei 8.666/1993, a denúncia foi rejeitada pela Primeira Turma desta Corte, em razão da ausência de justa causa para deflagração da ação penal porquanto não teria havido comprovação de dolo.
+
+    Argumenta o reclamante que, no exame do Inquérito 3.753, houve o reconhecimento de que Marco Antônio Tebaldi não praticou o crime imputado, razão pela qual, não poderia ter sido determinada a indisponibilidade de bens nos autos da ação civil pública proposta pelo ora beneficiário. Sustenta ainda ter sido “reconhecida a inequívoca ausência de participação do reclamante nos fatos narrados por esta Suprema Corte, de modo que o entendimento vincula o juízo da esfera administrativa, conforme preceitua o art. 935 do Código Civil” (doc. 1, p. 6).
+
+    Aduz, nesse sentido, que a indisponibilidade dos bens do acusado, hoje já falecido, perdura por 12 anos, em evidente afronta aos princípios da razoável duração do processo e do direito de defesa.
+
+    Alega que a presente reclamação objetiva impugnar tão somente o acórdão que manteve a indisponibilidade dos bens e que foi proferido após a promulgação da Lei nº 14.230/2021, cujas alterações permitiram nova reflexão e o cotejo dos fatos que ensejaram a ação originária.
+
+    Requer, liminarmente, a suspensão dos efeitos da confirmação da ordem de indisponibilidade de bens do reclamante e o sobrestamento da Ação Civil Pública nº 0022489-02.2012.8.24.0023 até a decisão final desta reclamação. No mérito, pugna pela procedência da ação, para cassar a decisão impugnada a fim de que seja determinado o arquivamento da referida ACP com o consequente levantamento da indisponibilidade dos bens do reclamante.
+
+    Devidamente citado, o Ministério Público do Estado de Santa Catarina apresentou contestação, alegando, em síntese, a ocorrência de trânsito em julgado do acórdão reclamado, o que impediria o conhecimento da reclamação pelo óbice da Súmula 734 do STF. No mérito, sustenta que, no julgamento do Inquérito 3.753, não houve afastamento do elemento subjetivo doloso, mas apenas a ausência de descrição específica do dolo na exordial acusatória. Argumenta, ademais, que, na Rcl 44.282, ajuizada pela mesma parte em face de acórdão proferido nos autos do AI nº 4027356-45.2018.8.24.0900, acessório da mesma ação civil pública aqui retratada, o Min. Dias Toffoli negou seguimento à reclamação, reafirmando a jurisprudência da Corte acerca da independência relativa das esferas penal, civil e administrativa. Afirma, por fim, ser inviável o exame da pretensão do reclamante quanto à inexistência de improbidade administrativa, uma vez que demanda revolvimento de fatos e provas que sequer foram objeto do acórdão reclamado ou mesmo do acórdão paradigma (doc. 56).
+
+    A Procuradoria-Geral da República manifestou-se pela improcedência da reclamação, em parecer assim ementado (doc. 61):
+
+    “Processo civil. Reclamação. Alegação de que TJ local, ao desprover agravo de instrumento contra manutenção do curso de ACP/indisponibilidade de bens, teria inobservado o quanto decidido pelo e. STF no INQ 3753, em que rejeitada denúncia pelos mesmos fatos objeto da ACP.
+
+    1. O requisito do inc. I do § 5º do art. 988 do CPC foi atendido na espécie, pois a indisponibilidade de bens e a ACP em si ainda não haviam feito coisa julgada na origem quando do ajuizamento desta reclamatória.
+
+    2. Este e. STF, quando do julgamento do INQ 3753, não se limitou a registrar que a denúncia não descreveu o dolo do agente, tendo considerado que as provas então disponíveis não sustentavam qualquer participação pessoal do acusado na conduta e que não resolviam satisfatoriamente a controvérsia quanto ao preço. Contudo, mesmo essas considerações para além da questão da não descrição do dolo na denúncia, não são óbice intransponível ao prosseguimento da ACP.
+
+    3. A denúncia foi rejeitada por este e. STF ao teor do inc. III do art. 395 do CPP, o que não é causa automática de aplicação dos §§ 3o e 4o do art. 21 da Lei 8.429/92, na redação conferida pela Lei 14.230/21.
+
+    4. Pela possibilidade de terem sido feitas outras provas na ACP, da narrativa lá feita ser diversa da feita no INQ correlato, não há base a que, na presente sede processual, a ACP seja obstada ao fundamento da rejeição da denúncia. Pela possibilidade de prova ser ainda feita na ACP, esta reclamatória demanda dilação probatória incompatível com a presente via.
+
+    5. Ainda que o agente público tenha vindo a óbito, isto não põe fim à ACP, que prossegue nos termos do art. 8o da LIA, sendo que a nova redação do art. 8º e do 8º -A da LIA pela Lei 14.230/21 em nada modifica essa compreensão.
+
+    6. Pela improcedência da reclamação”.
+
+    É o relatório. DECIDO.
+
+    Ab initio, pontuo que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal.
+
+    Nada obstante já encontrasse previsão na legislação anterior, a reclamação adquiriu especial relevo no atual Código de Processo Civil, enquanto meio assecuratório da observância da jurisprudência vinculante dos Tribunais Superiores e no afã da criação de um sistema de precedentes no processo civil brasileiro. Nesse sentido, o Código passou a prever, além das hipóteses diretamente depreendidas do texto constitucional (art. 988, I, II e III), o cabimento da reclamação para a garantia da “observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência” (artigo 988, IV).
+
+    Embora tenha sistematizado a disciplina jurídica da reclamação e ampliado em alguma medida seu âmbito de aplicação, o novo diploma processual não alterou a natureza eminentemente excepcional do instituto. Deveras, a excepcionalidade no manejo da reclamação é depreendida a todo tempo da redação do novo CPC, seja pela vedação de sua utilização como sucedâneo de ação rescisória (art. 988, §5º, I), seja pela exigência de prévio esgotamento das instâncias ordinárias, no caso de reclamação fundada na inobservância de tese fixada em recurso extraordinário com repercussão geral reconhecida (art. 988, §5º, II).
+
+    A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a manter a logicidade do sistema recursal previsto no CPC e evitar o desvirtuamento do objetivo precípuo do Código, de racionalização e diminuição da litigiosidade em massa pela criação do microssistema de julgamento de casos repetitivos. Afirma-se, destarte, por exemplo, (i) a inviabilidade da reclamação para o revolvimento de fatos e provas adjacentes aos processos de origem, (ii) a necessidade de existência de estrita aderência entre a decisão reclamada e o conteúdo do paradigma invocado e (iii) a necessidade de demonstração de teratologia na aplicação de tese firmada sob a sistemática da repercussão geral. Neste sentido, os seguintes precedentes da Primeira Turma da Corte:
+
+    “Agravo regimental em reclamação. Alegação de violação do entendimento firmado na ADPF nº 828/DF-MC. Reclamação que objetiva o reexame de decisão fundamentada no conjunto fático-probatório dos autos. Sucedâneo recursal. Impossibilidade. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, da CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, da CF/88). 2. A reclamação não pode ser utilizada como sucedâneo de recurso ou de ações judiciais em geral, tampouco para reanálise de fatos e provas. Precedentes. 3. Agravo regimental não provido.” (Rcl 50.238-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 24/5/2022 - grifei).
+
+    “DIREITO CONSTITUCIONAL E DIREITO TRABALHISTA. AGRAVO INTERNO EM RECLAMAÇÃO. COMPETÊNCIA. CAUSA INSTAURADA ENTRE O PODER PÚBLICO E SERVIDOR. VÍNCULO CELETISTA. LEI FEDERAL Nº 11.350/2006. AGENTE COMUNITÁRIO DE SAÚDE E AGENTE DE COMBATE ÀS ENDEMIAS. ALEGADA AFRONTA À ADI 3.395. AUSÊNCIA DE ESTRITA ADERÊNCIA. 1. Agravo interno em reclamação ajuizado em face de decisão que afirmou a competência da Justiça do Trabalho, sob o fundamento de inexistir lei local inserindo os agentes comunitários de saúde no regime estatutário, na forma do art. 8º da Lei nº 11.350/2006. Alegação de violação à ADI 3.395. 2. A decisão da ADI 3.395 refere-se a causas envolvendo o Poder Público e seus servidores públicos, vinculados por relação estatutária ou de caráter jurídico-administrativo. Desse modo, não há relação de estrita aderência entre o ato reclamado e o paradigma invocado, requisito indispensável à propositura da reclamação. 3. Agravo interno a que se nega provimento.” (Rcl 54.159-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 15/9/2022 - grifei).
+
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SUPOSTA AFRONTA AO TEMA 932 DA REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUBSTITUTIVO DE RECURSOS DE NATUREZA ORDINÁRIA OU EXTRAORDINÁRIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O Tribunal reclamado decidiu em consonância com as diretrizes fixadas pelo Tema 932, pois assentou que em se tratando de embarcações que operam em alto mar, não pode ser considerada como imprevisível, dado o fato de que faz parte, da prática da navegação, a rotina de manter contato com a Capitania dos Portos, que desempenha a função de manter as embarcações avisadas a respeito dos fenômenos climáticos em curso. Nesse sentido, se a embarcação estava realmente equipada com instrumentos de salvamento, estes deveriam ter sido acionados, não havendo prova nos autos nesse sentido. Logo, caracterizado o risco da atividade a ensejar a responsabilização objetiva da reclamada, a esta incumbe responder pela reparação dos danos havidos. 2. Desse modo, cotejando a decisão reclamada com o paradigma de confronto apontado, e respeitado o âmbito cognitivo deste instrumental, não se constata teratologia no ato judicial que se alega afrontar o precedente deste TRIBUNAL. 3. Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013). 4. Recurso de agravo a que se nega provimento.” (Rcl 54.142-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 23/8/2022 - grifei).
+
+    Pontuo desde logo, estar satisfeito in casu o requisito de cabimento da reclamação disposto no art. 988, §5º, I, do CPC, haja vista ter o reclamante ajuizado a demanda em 15/5/2024, ao passo que a Ação Civil Pública nº 0022489-02.2012.8.24.0023 ao qual o acórdão reclamado está vinculado ainda tramita no Tribunal de origem, conforme verificado em consulta aos autos no sítio do Tribunal competente.
+
+    Fixadas as premissas, verifico que a presente reclamação tem como fundamento principal a alegação de ofensa à decisão proferida no Inquérito 3.753.
+
+    Com efeito, ao examinar o Inq. 3.753, de minha relatoria, a Primeira Turma desta Corte rejeitou a denúncia ofertada pela Procuradoria-Geral da República por entender ausente o elemento subjetivo doloso, e consectariamente, a justa causa para ação penal. Eis a ementa do julgado, in verbis:
+
+    “PROCESSO PENAL. INQUÉRITO. ENVOLVIMENTO DE PARLAMENTAR FEDERAL. CRIME DE DISPENSA IRREGULAR DE LICITAÇÃO (ART. 89 DA LEI Nº 8.666/93). AUDIÇÃO PRÉVIA DO ADMINISTRADOR À PROCURADORIA JURÍDICA, QUE ASSENTOU A INEXIGIBILIDADE DA LICITAÇÃO. AUSÊNCIA DO ELEMENTO SUBJETIVO DOLO. ART. 395, INCISO III, DO CPP. INEXISTÊNCIA DE JUSTA CAUSA PARA A AÇÃO PENAL. REJEIÇÃO DA DENÚNCIA.
+
+    1. O crime do art. 89 da Lei nº 8.666/93 (‘Dispensar ou inexigir licitação fora das hipóteses previstas em lei, ou deixar de observar as formalidades pertinentes à dispensa ou à inexigibilidade’) reclama o dolo, consubstanciado na vontade livre e consciente de praticar o ilícito penal, que não se faz presente quando o acusado atua com fulcro em parecer da Procuradoria Jurídica no sentido da inexigibilidade da licitação.
+
+    2. A denúncia ostenta como premissa para seu recebimento a conjugação dos artigos 41 e 395 do CPP, porquanto deve conter os requisitos do artigo 41 do CPP e não incidir em nenhuma das hipóteses do art. 395 do mesmo diploma legal. Precedentes: INQ 1990/RO, rel. Min. Cármen Lúcia, Pleno, DJ de 21/2/2011; Inq 3016/SP, rel. Min. Ellen Gracie, Pleno, DJ de 16/2/2011; Inq 2677/BA, rel. Min. Ayres Britto, Pleno, DJ de 21/10/2010; Inq 2646/RN, rel. Min. Ayres Britto, Pleno, DJ de 6/5/010.
+
+    3. (a) In casu, narra a denúncia que o investigado, na qualidade de Secretário Estadual de Educação, teria homologado procedimento de inexigibilidade de licitação, para aquisição de licenças do software Urânia, elaborado exclusivamente pela empresa GEHA, sendo certo que a Procuradoria Jurídica emitiu parecer assentando a inexigibilidade de licitação, o que evidencia a ausência do elemento subjetivo do tipo no caso sub judice, máxime diante da inexistência de qualquer menção ou indício de conluio na elaboração do parecer;
+
+    (b) A ausência de justa causa para o recebimento da denúncia se impõe, tanto mais porque, para a escolha do software, não houve qualquer participação pessoal do Acusado, cabendo às instâncias técnicas envolvidas (Diretoria de Tecnologia e Informação, Diretoria de Governança Eletrônica, Diretoria de Gestão de Pessoas, diretorias das escolas que receberiam o software), em procedimento policêntrico de tomada de decisão, no qual se concluiu que o produto adquirido era o único que atenderia ao objetivo de programação de horários em toda a rede de ensino;
+
+    (c) Ao acusado coube, unicamente, a homologação do procedimento de inexigibilidade, afastada, nos autos, sua intervenção pessoal a favor ou em prejuízo de determinada concorrente, máxime porque, segundo testemunha ouvida nos autos, o então Secretário sequer conhecia os administradores da empresa contratada;
+
+    (d) A controvérsia quanto ao preço não foi satisfatoriamente resolvida pelo laudo pericial que serviu de amparo à denúncia, tendo em vista a nítida diferença entre objetos e produtos alvos da comparação, sem olvidar que o próprio laudo concluiu, quanto ao software adquirido pela Secretaria de Educação, quanto segue: ‘restou evidente que, em termos computacionais somente neste teste específico, o software Urânia possui um algoritmo cujo poder de resolução do ‘Timetabling Problem’ foi superior ao software Zathura nos cenários de teste apresentados’.
+
+    4. Denúncia rejeitada, por falta de justa causa – art. 395, III, do Código de Processo Penal.” (Inq. 3.753/DF, Rel. Min. Luiz Fux, Primeira Turma, DJe de 30/5/2017 - grifei).
+
+    Entendo que razão assiste à parte reclamante no presente caso concreto. Isso porque, no exame do inquérito invocado como paradigma, a Primeira Turma desta Suprema Corte afastou inequivocamente o elemento subjetivo doloso na conduta praticada pelo então Secretário de Educação do Estado de Santa Catarina, de forma que não seria viável a condenação do agente pela mesma conduta analisada sob o enfoque do ato de improbidade administrativa, ato este que, igualmente, exige a comprovação de dolo.
+
+    Insta relevar que não se desconhece a jurisprudência consolidada do Supremo Tribunal Federal acerca da independência relativa entre as esferas criminal, cível e administrativa. Pontuo, entretanto, que, no caso sub examine, a conduta a ser examinada na esfera administrativa acerca da homologação de procedimento de inexigibilidade de licitação para aquisição de licenças do software Urânia é exatamente a mesma sobre a qual se debruçou a Primeira Turma, nos autos do Inq. 3.753, cuja conclusão inequívoca afastou o dolo do reclamante.
+
+    Nesse contexto, a título elucidativo, transcrevo excerto do voto por mim proferido nos autos do referido inquérito, ao qual fui acompanhado pela maioria dos meus pares:
+
+    “Deveras, um executivo, sem formação jurídica, que confia no parecer da consultoria no sentido da inexigibilidade da licitação e tão-somente homologa o procedimento, no meu modo de ver, efetivamente, não pretende cometer um ilícito. Ele pode ter até cometido um erro de inépcia, mas a própria Lei de Improbidade Administrativa não se aplica ao administrador inepto, aplica-se ao administrador desonesto, que tem o interesse de causar o ilícito.
+
+    [...]
+
+    Além destes testemunhos, que afastam a participação pessoal do acusado na seleção do software adquirido pela Secretaria de Educação, o Laudo Pericial elaborado pelo INC (fls. 863/880) não foi conclusivo quanto à discrepância de preços alegada na inicial.
+
+    [...]
+
+    A jurisprudência do Supremo Tribunal Federal vem cristalizando a concepção de que, para o recebimento da denúncia por crimes licitatórios, é necessário demonstrar o dolo do Administrador de fraudar a lei, ou seja, a consciência de que a dispensa ou inexigibilidade, naquela situação, era proibida, e concomitantemente a vontade livre e consciente de causar o enriquecimento ilícito do contratado, com dano para o erário”. (Inq. 3.753, Rel. Min. Luiz Fux, Primeira Turma, DJe de 30/5/2017 - grifei).
+
+    Com efeito, in casu, a instauração de inquérito civil para investigar ato de improbidade administrativa, sobre o qual já houve decisão afastando o dolo na conduta de dispensa irregular de licitação, permitiria, por via transversa, novo exame de questão já decidida por esta Suprema Corte.
+
+    Some-se a esses fundamentos não se mostrar razoável o bloqueio de bens do espólio reclamante para se aguardar a conclusão de ação civil pública ajuizada no ano de 2012 acerca de fatos sobre os quais já houve percuciente exame jurisdicional.
+
+    Ex positis, JULGO PROCEDENTE A RECLAMAÇÃO, com fundamento nos artigos 992 do CPC e 161 do RISTF, a fim de determinar o arquivamento da Ação Civil Pública nº 0022489-02.2012.8.24.0023, em curso perante o Tribunal de Justiça do Estado de Santa Catarina, com o consequente levantamento da indisponibilidade dos bens do reclamante.
+
+    Publique-se.
+
+    Brasília, 30 de setembro de 2024.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
