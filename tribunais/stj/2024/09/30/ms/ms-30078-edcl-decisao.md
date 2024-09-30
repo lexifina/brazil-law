@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Douglas Policarpo contra decisão que indeferiu a petição inicial do mandado de segurança, por incompetência do STJ, nos termos da seguinte ementa (fls. 70):
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ATO IMPUGNADO DE AUTORIA DE AUTORIDADE QUE NÃO FIGURA NO ROL TAXATIVO DO ARTIGO 105, I, "B" DA CF. MANIFESTA INCOMPETÊNCIA DO STJ PARA PROCESSAR E JULGAR A IMPETRAÇÃO. REQUERIMENTO INDEFERIDO DESDE LOGO.
+Em suas razões, alega omissão quanto ao conteúdo dos documentos de fls. 17 à 36, relativos à decisão do Ministro que confiscou o recurso ordinário em mandado de segurança.
+Aponta, também, contradição no decisum, na medida em que houve transmutação da autoridade coatora, pois, embora haja menção que o mandamus foi impetrado em face do Ministro Corregedor Geral, decide em relação ao Presidente da Turma Nacional de Uniformização.
+Com impugnação às fls. 87/89.
+É o relatório.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Com efeito, nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, não se evidencia a ocorrência de nenhum dos vícios previstos no dispositivo em questão, sobretudo porque a decisão embargada assentou, de forma clara e fundamentada, que o ato impugnado provém de autoridade diversa das arroladas no art. 105, I, b, da CF, qual seja, o Presidente da Turma Nacional de Uniformização (fls. 27, 30, 34 e 36), revelando-se, portanto, a manifesta incompetência desta Corte para o julgamento da ação mandamental.
+Na oportunidade, assentou que cabe à própria Turma Nacional de Uniformização a competência para apreciar mandado de segurança contra ato de seus membros, conforme dispõe o artigo 6º, inciso II, do seu Regimento Interno: "Compete à Turma Nacional de Uniformização processar e julgar mandados de segurança contra atos de seus membros".
+Nesse sentido colacionou diversos julgados, dentre os quais: AgInt nos EDcl nos EDcl no MS n. 29.830/DF, rel. Min. Ricardo Villas Bôas Cueva, Corte Especial, DJe de 20/8/2024; AgInt no MS n. 29.939/DF, rel. Min. Gurgel de Faria, Primeira Seção, DJe de 6/6/2024; AgInt no MS n. 29.940/SP, rel. Min. Herman Benjamin, Primeira Seção, DJe de 6/5/2024; AgInt nos EDcl no MS n. 28.549/DF, rel. Min. Regina Helena Costa, Primeira Seção, DJe de 18/11/2022; AgInt no MS n. 26.288/DF, rel. Min. Francisco Falcão, Primeira Seção, DJe de 18/12/2020.
+Por fim, registra-se que não se vislumbra contradição no decisum embargado, na medida em que, embora o impetrante tenha indicado o Ministro do STJ como autoridade coatora, o ato atacado, como dito, é oriundo da TNU, perante a qual o Ministro atua como Presidente, o que afasta a competência do STJ.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido, não sendo possível avançar, como pretende a embargante, no mérito da controvérsia.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
