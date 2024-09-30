@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 422e):
+EMENTA - RECURSO DE APELAÇÃO - FORNECIMENTO DE PROCEDIMENTO CIRÚRGICO - PROCEDÊNCIA DO PEDIDO - CONDENAÇÃO DO MUNICÍPIO - FORMA DE ARBITRAMENTO DOS HONORÁRIOS SUCUMBENCIAIS ALTERADA.
+Por se tratar de demanda objetivando o direito indisponível à saúde, a hipótese se enquadra em causa de valor inestimável, sendo possível o critério de equidade na fixação da verba honorária.
+Recurso conhecido e provido.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente sustenta ofensa ao artigos 6º-A, 85, §§ 2º, 4º, inciso III, e 927, inciso III, do CPC/2015 e dissídio jurisprudencial, sob o argumento de que a fixação dos honorários deve seguir os critérios percentuais estabelecidos no artigo 85 do CPC/2015, apontando incorreção do critério adotado pelo Tribunal local.
+Com contrarrazões.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso especial versa sobre a possibilidade, ou não, de fixação dos honorários advocatícios por equidade em ação na qual pleiteia-se fornecimento de de serviços de saúde, em que o bem jurídico tutelado seria a vida, de valor inestimável.
+Sobre o ponto, faz-se mister consignar que a Corte Especial do STJ, em hipótese análoga à dos autos, entendeu que a fixação da verba honorária com base no art. 85, §8º, do CPC/2015 estaria restrita às "causas em que não se vislumbra benefício patrimonial imediato, como, por exemplo, as de estado e de direito de família" (AgInt nos EDcl nos EREsp 1.866.671/RS, Rel. Min. Luis Felipe Salomão, Corte Especial, DJe de 27.9.2022).
+Assim, verifica-se que a matéria de fundo debatida nos autos, quanto à possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do CPC/2015), foi afetada pelo Supremo Tribunal Federal ao rito da repercussão geral (RE 1.412.069 - Tema 1255).
+A propósito, confira-se:
+Recurso extraordinário em que se discute, à luz dos artigos 2º, 3º, I e IV, 5º, caput, XXXIV e XXXV, 37, caput, e 66, § 1º, da Constituição Federal, a interpretação conferida pelo Superior Tribunal de Justiça ao art. 85, §§ 2º, 3º e 8º, do Código de Processo Civil, em julgamento de recurso especial repetitivo, no sentido de não ser permitida a fixação de honorários advocatícios por apreciação equitativa nas hipóteses de os valores da condenação, da causa ou o proveito econômico da demanda serem elevados, mas tão somente quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo (Tema 1.076/STJ).
+Desse modo, encontrando-se o tema afetado à sistemática da repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Nesse sentido: REsp 1.486.671/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2014; AgRg no REsp 1.467.551/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 9/9/2014.
+Ante o exposto, julgo prejudicado o exame do presente recurso no presente momento processual e determino a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido pelo Supremo Tribunal Federal (Tema 1.255/STF), em observância aos artigos 1.039, 1.040, I e II, e 1.041 do CPC/2015: a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação exarada pelo STF; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. RESTITUIÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM, COM FULCRO NO ART. 1030, III, DO CPC/2015, PARA QUE FIQUE SOBRESTADO ATÉ O JULGAMENTO DEFINITIVO DA MATÉRIA SUBMETIDA À REPERCUSSÃO GERAL (TEMA 1255/STF). DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
