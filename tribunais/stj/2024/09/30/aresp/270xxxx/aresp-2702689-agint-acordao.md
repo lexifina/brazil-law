@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. AÇÃO DE REINTEGRAÇÃO DE POSSE. REQUISITOS PARA A CONCESSÃO DA PROTEÇÃO POSSESSÓRIA PLEITEADA. NÃO CONFIGURADOS. ESBULHO AFASTADO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. NÃO CABIMENTO. AGRAVO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+2. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por GERSON GOMES DA SILVA contra decisão monocrática desta relatoria que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar provimento, assim ementada (e-STJ, fl. 436):
+AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. AÇÃO DE REINTEGRAÇÃO DE POSSE. REQUISITOS PARA A CONCESSÃO DA PROTEÇÃO POSSESSÓRIA PLEITEADA. NÃO CONFIGURADOS. ESBULHO AFASTADO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+O agravante, em suas razões (e-STJ, fls. 445-450), sustenta a existência de omissão no acórdão recorrido, pois não se manifestou de forma "expressa sobre a indicação de justo título de ocupação da área por parte dos agravados, o que leva à conclusão de que aqueles ocuparam o imóvel de forma clandestina, sem qualquer título que legitimasse o ingresso na área descrita na inicial" (e-STJ, fl. 447).
+Alega a inaplicabilidade da Súmula 7/STJ, porque todas as premissas já estão devidamente delimitadas no acórdão de origem, não havendo falar em reanálise de fatos ou provas, mas tão somente avaliar se a aplicação da legislação.
+Defende que "o agravados não comprovaram que trabalharam no imóvel ou realizaram benfeitorias ou constituíram o animus domini sobre a coisa, dando o fim social de que se reveste o direito real da propriedade" (e-STJ, fl. 448).
+Busca, assim, a reconsideração da decisão agravada ou o julgamento deste recurso pelo colegiado.
+Foi apresentada impugnação (e-STJ, fls. 454-458), pleiteando a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. AÇÃO DE REINTEGRAÇÃO DE POSSE. REQUISITOS PARA A CONCESSÃO DA PROTEÇÃO POSSESSÓRIA PLEITEADA. NÃO CONFIGURADOS. ESBULHO AFASTADO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. NÃO CABIMENTO. AGRAVO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+2. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+4. Agravo interno desprovido.
+VOTO
+Os argumentos do agravante não são aptos a ilidir os fundamentos da decisão recorrida, a qual, por isso, merece ser mantida.
+No que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o Tribunal estadual resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Destaque-se, nesse sentido, o seguinte excerto (e-STJ, fls. 605-606 - sem destaque no original):
+Entretanto, as provas produzidas nos autos não se revelam suficientes para demonstrar que o apelante de fato exerceu a posse do referido imóvel.
+(..)
+Na presente hipótese, as alegações produzidas pelo apelante são frágeis, pois ficou constatado, após a instrução processual, que o autor abandonou o imóvel e manteve-se silente por muitos anos, fora que os documentos trazidos aos autos são antigos.
+Por sua vez, os apelados comprovaram que trabalharam no imóvel, realizaram benfeitorias, constituíram o sobre a coisa, dando o fim social de animus domini que se reveste o direito real da propriedade.
+Insta consignar que, se houve posse do apelante, não ficou prova do quando esta ocorreu, bem como a data do esbulho, visto que os apelados comprovaram que há mais de 10 anos ocupam e trabalham na área.
+Se eventualmente o apelante exerceu um dia a posse sobre o imóvel objeto da ação, a prova testemunhal evidencia que ela foi abandonada.(..)O recorrente sequer comprovou as ditas benfeitorias realizadas no imóvel. Logo, sua declaração em juízo comprova que a parte autora não exerce há muito posse de fato sobre o objeto demandado.
+A respeito da figura do possuidor, a conceituação adotada pelo Código Civil o considera como sendo aquele que exerce um dos poderes imanentes à propriedade.
+(..)
+Dessa forma, observa-se que não prospera a tese tecida pelo apelante, ante a falta de prova do exercício da posse, a ponto de vindicar sua proteção em juízo.
+Assim, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Na espécie, ficou claro que não há nos autos prova que leve à posse do bem pelo agravante; muito pelo contrário, as provas convergem para a demonstração do exercício da posse direta do imóvel pelos requeridos desde o ano de 2005/2006, tendo constituído nele constituído sua residência e construído obras.
+Desse modo, tendo o Tribunal local motivado sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu ser cabível à hipótese, inexiste omissão apenas pelo fato de ter o julgado decidido em sentido contrário à pretensão da parte.
+Com efeito, constata-se que a questão foi decidida mediante acurada análise do acervo probatório dos autos. Logo, suplantar a cognição das instâncias ordinárias acerca dos requisitos para o reconhecimento da reintegração de posse demandaria o reexame dos fatos e das provas dos autos, o que não se admite nesta via especial, em face do óbice da Súmula 7/STJ.
+A propósito (sem destaque no original):
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃODE POSSE. CONFIGURAÇÃO DE ESBULHO POSSESSÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. PRETENSÃO DE REEXAME DE PROVAS.
+1. O Tribunal de origem reformou a sentença e reconheceu o esbulho possessório a partir do momento em que se pôde perceber a clandestinidade da detenção do terreno pelo apelado. No recurso especial, a parte recorrente alega que o acórdão teria violado o art. 927, incisos I, II e III, do CPC/1973.
+2. O Tribunal de origem, ao dar provimento à apelação, não analisou a controvérsia à luz do art. 927, incisos I, II e III, do CPC/1973, mas sim com fundamento em elementos probatórios apresentados nos autos que demonstraram a ocorrência de esbulho possessório. Súmula n. 211/STJ.
+3. Afastar as conclusões do Tribunal de origem, a fim de manter a improcedência do pedido, afastando o reconhecimento do esbulho possessório, demanda o reexame das provas dos autos, o que encontra impedimento no teor da Súmula 7/STJ.
+4. Descabida a majoração de honorários efetivada na decisão singular, pois a verba já havia sido fixada no patamar máximo pela origem.
+Agravo interno provido em parte apenas para afastar a majoração de honorários.
+(AgInt no REsp n. 2.011.284/AM, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+3. Consoante asseverado pelo Tribunal de origem, o magistrado pode proceder à correção do valor da causa, como o fez, todavia, a impugnação pela parte deveria ter ocorrido no momento oportuno, de modo que se operou a preclusão quanto à matéria. Incidência da Súmula 83/STJ.
+4. No caso, para acolher a tese recursal no sentido de se afastar o esbulho reconhecido pelo Tribunal de origem, seria imprescindível a incursão no conjunto fático e probatório dos autos, providência que atrai a Súmula 7 do STJ.
+5. Agravo interno provido para reconsiderar a decisão de fls. 869-871, e-STJ. Agravo em recurso especial conhecido para, de plano, não conhecer do apelo extremo.
+(AgInt no AREsp n. 2.281.877/RO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+Por fim, não merece ser acolhido o pedido, formulado pela parte agravada, de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não ocorre na hipótese ora examinada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
