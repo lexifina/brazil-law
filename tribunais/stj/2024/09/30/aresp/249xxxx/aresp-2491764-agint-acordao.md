@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INVOCAÇÃO GENÉRICA. ATO INFRALEGAL. ANÁLISE. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. DANOS MORAIS. INDENIZAÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. A alegação genérica de ofensa do art. 489, §1º, IV, do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação, por analogia, da Súmula 284 do STF.
+2. O recurso especial constitui via inadequada para a análise de eventual ofensa a resoluções, portarias ou instruções normativas, por não estarem esses atos normativos inseridos no conceito de lei federal, nos termos do art. 105, III, "a", da Constituição Federal.
+3. Não se conhece de recurso especial cuja controvérsia não foi objeto de prequestionamento, circunstância que atrai a incidência dos enunciados das Súmulas 282 e 356 do STF.
+4. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "a pretensão de simples reexame de prova não enseja recurso especial."
+5. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, entendeu pela improcedência da demanda indenizatória.
+6. Agravo interno desprovido.
+RELATÓRIO
+Trat a-se de agravo interno interposto por WALDECIR GUIDOTTI e GELSON APARECIDO GUIDOTTI que desafia decisão de minha lavra, proferida às e-STJ fls. 903/905, que conheceu do agravo para não conhecer do recurso especial, com base nos seguintes fundamentos: (I) impossibilidade de análise de ato infralegal na via especial; e (II) incidência das Súmulas 282 do STF e 284/STF e da Súmula 7 do STJ.
+No presente agravo interno, os agravantes sustentam que não se trata de reexame de fatos e provas, bem como que o feito está prequestionado.
+Ao fina, defendem que permanece a violação do art. 489, § 1º, IV, do CPC/2015.
+Requerem, assim, a reconsideração da decisão impugnada ou a sua submissão ao Órgão colegiado.
+Impugnação às e-STJ fls. 952/954.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INVOCAÇÃO GENÉRICA. ATO INFRALEGAL. ANÁLISE. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. DANOS MORAIS. INDENIZAÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. A alegação genérica de ofensa do art. 489, §1º, IV, do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação, por analogia, da Súmula 284 do STF.
+2. O recurso especial constitui via inadequada para a análise de eventual ofensa a resoluções, portarias ou instruções normativas, por não estarem esses atos normativos inseridos no conceito de lei federal, nos termos do art. 105, III, "a", da Constituição Federal.
+3. Não se conhece de recurso especial cuja controvérsia não foi objeto de prequestionamento, circunstância que atrai a incidência dos enunciados das Súmulas 282 e 356 do STF.
+4. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "a pretensão de simples reexame de prova não enseja recurso especial."
+5. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, entendeu pela improcedência da demanda indenizatória.
+6. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Como assinalado na decisão agravada, no recurso especial obstaculizado, os recorrentes apontam violação:
+a) do art. 489, §1º, IV, do CPC/2015, por negativa de prestação jurisdicional;
+b) do art. 373, II, do CPC/2015, considerando que a União não se desincumbiu do ônus da prova do fato modificativo do direito dos recorrentes, uma vez que não colecionou aos autos prova científica de que a doença vegetal (cancro cítrico) causava nocividade à cultura das plantas e à saúde humana;
+c) do Decreto n. 24.114/1934 e da Lei n. 3.780-A/1960, no que concerne à existência do dever de indenizar da União pelos danos causados aos agricultores;
+d) do art. 149 do Decreto n. 5.741/2006, ante a atuação desigual da União perante os produtores rurais; e
+e) do art. 187 do Código Civil, da Portaria n. 291/1997, da Instrução Normativa n. 20/2006 do Ministério da Agricultura, dos arts. 20, 21, 29 e 39, § 3º, do Decreto n. 24.114/1934, do art. 28-A, §2º, X, da Lei n. 9.712/1998, no que concerne à existência de omissão pela União considerando que não foi realizada nenhuma ação política no sentido de dar conhecimento e orientação aos produtores rurais, acerca da nocividade da bactéria.
+Contudo, na forma da jurisprudência do STJ, "o apelo nobre não constitui via adequada para análise de ofensa a resoluções, portarias ou instruções normativas, por não estarem esses atos normativos compreendidos na expressão "lei federal", constante da alínea "a" do inciso III do art. 105 da Constituição Federal" (STJ, REsp 1.613.147/RS, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe de 13/09/2016).
+Assim, incabível a análise da ofensa da Portaria n. 291/1997 e da Instrução Normativa n. 20/2006 do Ministério da Agricultura.
+Além disso, forçoso convir que incide a Súmula 284 do STF quando a parte recorrente limita-se a sustentar violação do art. 489, §1º, IV, do CPC/2015, de forma genérica, sem especificar em que consistiria a real ausência de pronunciamento e qual seria a relevância da tese suscitada apta a promover a alteração do julgado (EDcl na Rcl 28.431/DF, Rel. Ministro FRANCISCO FALCÃO, Primeira Seção, julgado em 09/08/2017, DJe 16/08/2017).
+No caso, o Tribunal a quo decidiu integralmente a controvérsia nos seguintes termos (e-STJ fl. 665):
+Senhores Desembargadores, peço vênia para divergir do relator, ante a consolidada jurisprudência desta Corte no sentido de que, em casos como o presente, o regular exercício de poder de polícia, sem notícia e demonstração de conduta abusiva dos agentes públicos envolvidos, não gera dever de indenização por parte do Estado:
+ ..
+O caso, assim, é de reversão da sentença, inclusive no tocante aos honorários advocatícios.
+Ante o exposto, divirjo para dar provimento ao apelo da União e à remessa oficial, julgando improcedente o pedido inicial.
+Como se vê, os dispositivos apontados como violados não foram alvo de debate no julgado impugnado, nem citados nos embargos de declaração na origem, o que denota a falta do indispensável prequestionamento e faz incidir, por analogia, o óbice da Súmula 282 do STF (AgInt no AREsp 905.798/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 09/08/2016, DJe 19/08/2016, e AgRg no REsp 1.408.130/AL, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, julgado em 04/08/2015, DJe 14/08/2015).
+Além disso, discordar do aresto recorrido, em que ficou consignada a improcedência da demanda indenizatória, envolve necessário revolvimento do quadro fático-probatório dos autos, o que é vedado na via do especial pelo óbice da Súmula 7 desta Corte.
+Ilustrativamente:
+PROCESSUAL CIVIL. DANO MATERIAL. INTERDIÇÃO DE ÁREA DE PLANTIO. CONTAMINAÇÃO POR CANCRO CÍTRICO. ERRADICAÇÃO DA PLANTAÇÃO PELA ADMINISTRAÇÃO PÚBLICA. DEVER LEGAL. EXERCÍCIO DO PODER DE POLÍCIA. AUSÊNCIA DE EXCESSO. DEVER DE INDENIZAR. NÃO CONFIGURADO. AUSÊNCIA DE PREQUESTIONAMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. ANÁLISE DE DECRETO. INVIABILIDADE NA VIA ELEITA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ.
+I - Trata-se de ação de indenização pela erradicação de plantas cítricas, promovida pela Administração Pública na propriedade dos autores, sob o fundamento de que estavam contaminadas com a doença Cancro Cítrico, bem como a interdição da propriedade e a determinação de suspensão das atividades, o que configurou evento danoso.
+II - O Juízo de primeira instância julgou parcialmente procedente o pedido, para condenar as rés ao pagamento de indenização pela erradicação de 2.788 plantas cítricas no valor a ser apurado na fase de liquidação. O Tribunal a quo deu parcial provimento aos recursos de apelação interpostos pelas rés, para afastar o dever de indenizar, ausente excesso no exercício do poder de polícia pela Administração Pública.
+III - Na hipótese, verifica-se que o apontado art. 2º, I e II, da Lei n. 8.171/1991 não foi objeto de deliberação no acórdão recorrido, nem mesmo invocado pelos recorrentes na oposição dos embargos de declaração.
+IV - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+V - Ademais, ainda que se pudesse argumentar acerca do prequestionamento implícito, a parte recorrente não demonstrou de que forma teria sido violado o apontado dispositivo, tecendo a parte recorrente, considerações sobre sua pretensão indenizatória sem, contudo, lograr demonstrar concretamente de que forma teria havido a violação da lei federal.
+VI - Registra-se que a via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+VII - Ademais, não obstante ter a parte recorrente apontado a ofensa a dispositivo de lei federal, as razões recursais se sustentaram em normas infralegais (Decreto n. 24.114/1934, Decreto n. 51.207/1961). Essas normas desbordam, contudo, do conceito de tratado ou lei federal para fins do art. 105, III, a, da Constituição Federal. A propósito: AgInt no REsp 1.471.645/CE, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 25/9/2019.
+VIII - Por fim, a Corte a quo analisou as alegações da parte levando em consideração os fatos e provas, especialmente quando se refere ao fato de que o cancro cítrico não tinha remédio e que a única solução era a destruição das plantas contaminadas, sendo evidente que as plantas estavam contaminadas e que a erradicação da doença passava, necessariamente, pela destruição das plantas doentes.
+IX - Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+X - Agravo interno improvido. (AgInt no AREsp n. 1.948.575/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/3/2022, DJe de 31/3/2022.) (Grifos acrescidos).
+ADMINISTRATIVO. AGRAVO INTERNO. RESPONSABILIDADE CIVIL DO ESTADO. ERRADICAÇÃO DE LAVOURAS DE LARANJAS POR CONTAMINAÇÃO DE CANCRO CÍTRICO. PODER DE POLÍCIA. EXCESSO OU ABUSO DE PODER. REEXAME DO ACERVO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A alteração das conclusões adotadas pela Corte de origem, no sentido de que "Invisível qualquer excesso ou abuso de poder de polícia zoofitossanitário por parte dos servidores da Secretaria de Agricultura do Estado de São Paulo, que agiam em nome da União e na defesa do interesse público", demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada na via especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento. (AgInt no AREsp n. 874.743/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/11/2017, DJe de 21/11/2017.).
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+A nte o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
