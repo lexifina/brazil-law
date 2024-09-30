@@ -1,0 +1,50 @@
+DECISÃO
+Examina-se recurso especial interposto por BRASILSEG COMPANHIA DE SEGUROS, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/SC.
+Recurso especial interposto em: 25/4/2024.
+Concluso ao gabinete em: 24/6/2024.
+Ação: de cobrança de indenização securitária, ajuizada por ELIZABETH PANFIL e OUTROS em face da recorrente, na qualidade de beneficiários do seguro de vida deixado por JOÃO PANFIL.
+Sentença: julgou parcialmente procedentes os pedidos iniciais para: i) condenar a ré ao pagamento de indenização securitária aos autores, no valor de R$ 8.883,80 (oito mil, oitocentos e oitenta e três reais e oitenta centavos), acrescido de correção monetária pelo INPC desde 01/10/1997 (data da última atualização informada nos autos), e juros de mora de 1% (um por cento) ao mês, a partir da citação (01/09/2017); e ii) condenar a ré a pagar aos autores Elizabeth, Mauro e Luci, beneficiários da proposta n. 24181174, a correção monetária devida sobre os capitais segurados já indenizados (R$11.102,46 e R$5.500,00), que deverá ser calculada desde 01/03/2013 (última renovação da apólice) e acrescida de juros de mora de 1% (um por cento) ao mês, a partir da citação.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Acórdão: negou provimento ao recurso de apelação interposto pela recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SEGURO DE VIDA. PARCIAL PROCEDÊNCIA NA ORIGEM. 1. APELO DA SEGURADORA RÉ. 1.1. TENCIONADO O AFASTAMENTO DA CONDENAÇÃO AO PAGAMENTO DA INDENIZAÇÃO SECURITÁRIA. INVIABILIDADE. APÓLICES VIGENTES QUE PREVEEM COBERTURA PARA O EVENTO MORTE NATURAL. CÔNJUGE/PAI DOS ACIONANTES FALECIDO EM DECORRÊNCIA DE PNEUMONIA E TROMBOSE VENOSA PROFUNDA. 1.2. ALEGADO NÃO CABIMENTO DE CORREÇÃO MONETÁRIA SOBRE O IMPORTE DO CAPITAL SEGURADO. TESE REFUTADA. BENEFICIÁRIOS QUE RECEBERAM QUANTIAS AQUÉM DO DEVIDO. 2. SENTENÇA MANTIDA. 3 . HONORÁRIOS SUCUMBENCIAIS RECURSAIS DEVIDOS. INTELIGÊNCIA DO ART. 85, §§ 1º E 11 DO CÓDIGO DE PROCESSO CIVIL. 4. RECURSO CONHECIDO E DESPROVIDO.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta violação aos arts. 757, 760 e 884 do CC; 371, 373, I, 374, III, 1.022, I, e 1.025 do CPC; 72, §1º, da Circular SUSEP 302/05; 33, §1º, da Circular SUSEP 256/04; 1º, § 2º, da Lei 6.899/81; e da Súmulas 98 e 632/STJ, bem como dissídio jurisprudencial.
+Além da negativa de prestação jurisdicional, sustenta, em síntese, que não pode "ser condenada ao pagamento de cobertura por morte natural que sequer fora contratada no seguro da proposta nº 24371704"; o qual alega que "só começou a viger em 11/05/2016, sem alterar ou substituir qualquer outra proposta anterior"; que "não houve qualquer alteração unilateral do seguro" (e-STJ fl. 476), bem como afirma que "pela proposta n. 24181174, os recorridos foram corretamente indenizados já que a referida proposta possuía cobertura para morte natural" (e-STJ fl. 486).
+Alega que "pela proposta nº 24181174 não há de se cogitar em atualização monetária, eis que a seguradora pagou o valor correto" (e-STJ fl. 486).
+Pleiteia, ainda, "que a correção monetária da condenação seja considerada desde o ajuizamento da demanda, ou a data da última contratação dos seguros", ou, subsidiariamente, "que seja considerado como termo inicial da correção monetária a data do sinistro" (e-STJ fl. 492).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal
+A parte recorrente aponta suposta violação aos arts. 72, §1º, da Circular SUSEP 302/05 e 33, §1º, da Circular SUSEP 256/04; e às Súmulas 98 e 632, ambas do STJ.
+Entretanto, a interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+Nesse sentido: EDcl no REsp 1.726.563/SP, Segunda Seção, DJe 27/9/2019; REsp 1.979.120/SP, 3ª Turma, DJe 13/5/2022; AgInt no REsp 1.232.631/RJ, 4ª Turma, DJe 24/6/2022; AgInt no REsp 1.878.129/RS, 4ª Turma, DJe 8/4/2022.
+Logo, quanto ao ponto, o recurso não merece ser admitido.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt no REsp 1.726.592/MT, 3ª Turma, DJe de 31/8/2020; e AgInt no AREsp 1.518.178/MG, 4ª Turma, DJe de 16/3/2020.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, no que se refere às apólices vigentes e coberturas contratadas, bem como acerca da atualização dos valores indenizatórios, de modo que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da oposição dos embargos de declaração, não decidiu acerca dos arts. 1º, § 2º, da Lei 6.899/81; 757, 760 e 884 do CC; e 371, 373, I, e 374, III, do CPC, indicados como violados, restando ausente o devido prequestionamento, o que atrai a aplicação da Súmula 211/STJ.
+Ressalta-se que, no tocante à existência de prequestionamento ficto, nos termos do art. 1025 do CPC, a jurisprudência desta Corte Superior de Justiça firmou entendimento no sentido de que o reconhecimento do prequestionamento pressupões a alegação de ofensa ao art. 1022 do CPC e o reconhecimento de sua violação.
+Na exegese literal do dispositivo, considerar-se-á prequestionado o dispositivo se reconhecida a omissão do Tribunal de origem na análise do referido artigo, o que não ocorreu na hipótese dos autos, em que afastada a ocorrência de negativa de prestação jurisdicional.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Além disso, alterar as conclusões do Tribunal de origem, no que se refere às apólices vigentes e coberturas contratadas, bem como acerca da atualização dos valores indenizatórios, tal como pretendido pela parte recorrente, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência.
+Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Além disso, a ausência de prequestionamento do tema que se supõe divergente, qual seja, a alegada violação aos arts. 1º, § 2º, da Lei 6.899/81; 757, 760 e 884 do CC; e 371, 373, I, e 374, III, do CPC, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no REsp 909.113/RS, 3ª Turma, DJe 2/5/2011 e AgRg no Ag 781.322/RS, 4ª Turma, DJe 24/11/2008.
+Ademais, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821.337/SP, Terceira Turma, DJe de 13/3/2017 e AgInt no AREsp 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em 3% (três por cento) os honorários fixados anteriormente, devidos pela parte recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. VIOLAÇÃO DE SÚMULA, DE DISPOSITIVO CONSTITUCIONAL OU DE QUALQUER ATO NORMATIVO QUE NÃO SE ENQUADRE NO CONCEITO DE LEI FEDERAL. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. PREJUDICADO.
+1. Ação de cobrança de indenização securitária.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+3. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+8. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido.
+9. Recurso especial parcialmente conhecido e, nessa parte, não provido.
