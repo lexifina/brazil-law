@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de NATALY EDUARDA DE JESUS SILVA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, tendo em vista o julgado no Agravo em Execução Penal n. 1.0000.24.146638-2/001.
+Consta dos autos que o Juízo da execução penal concedeu excepcionalmente à paciente o benefício da prisão domiciliar para o cumprimento de pena no regime semiaberto, tendo em vista a inadequação do presídio da comarca para o recolhimento de apenados no regime intermediário.
+O Ministério Público interpôs agravo em execução penal, que foi provido para revogar o benefício da prisão domiciliar.
+No presente habeas corpus, o impetrante alega ser possível o cumprimento da pena da paciente "em regime semiaberto harmonizado, consistente no recolhimento domiciliar com monitoramento eletrônico, além da possibilidade de trabalho externo" (fl. 6).
+Defende "a manutenção da prisão domiciliar anteriormente deferida, pelas razões consagradas em primeira instância, somado ao fato de ainda existir disponibilidade de vaga de emprego para a Reeducanda na Comarca de seu domicílio" (fl. 7).
+Requer, liminarmente e no mérito, a concessão da ordem para que a paciente cumpra a pena no regime semiaberto em prisão domiciliar, com monitoramento eletrônico e trabalho externo.
+Indeferido o pedido de liminar e prestadas as informações pela Corte de origem, o Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+A Corte de origem deu provimento ao agravo em execução penal do Ministério Público para revogar o benefício da prisão domiciliar concedido à paciente durante o cumprimento de pena no regime semiaberto. Confira-se a fundamentação (fls. 29-32):
+A sentenciada cumpre pena de 05 (cinco) anos e 10 (dez) meses de reclusão no regime semiaberto, incurso pela incidência comportamental do art. 33, "caput", da Lei de Drogas (ordem nº. 07).
+De pronto, registro que não há previsão legal para a concessão da prisão domiciliar em regime semiaberto, uma vez que a benesse pleiteada se restringe aos sentenciados que cumprem pena no regime aberto, conforme dispõe o art. 117 da Lei de Execuções Penais:
+Art. 117. Somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de:
+I - condenado maior de 70 (setenta) anos;
+II - condenado acometido de doença grave;
+III - condenada com filho menor ou deficiente físico ou mental;
+IV - condenada gestante
+Destaca-se que a falta de vagas no sistema prisional é de todos conhecida, sendo de domínio público a carência de recursos financeiros do Poder Executivo para fazer frente á enorme demanda de vagas, a qual, em razão do aumento da criminalidade, tem-se multiplicado exponencialmente.
+Nesse contexto é que também se insere a falta de vagas nos regimes aberto e semiaberto, cuja limitação quantitativa impede que o atendimento da demanda respectiva. Tais circunstancias fáticas deram ensejo ã edição da Súmula Vinculante 56, cuja dicção aponta que: "A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nesta hipótese, os parâmetros fixados no Recurso Extraordinário (RE) 641320)".
+Contudo, a ausência de estabelecimento penal adequado para o cumprimento da pena não autoriza, por si só, a concessão do excepcional recolhimento domiciliar, isso porque o próprio STF, no bojo do citado recurso extraordinário, manifestou:
+os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificação como adequados a tais regimes. São aceitáveis estabelecimentos que não se qualifiquem como "colônia agrícola, industrial" (regime semiaberto) ou "casa de albergado ou estabelecimento adequado" (regime aberto). No entanto, não deverá haver alojamento conjunto de presos dos regimes semiaberto e aberto com presos do regime fechado.
+Nesse cenário, não obstante a Súmula Vinculante n.º 56 do STF, a segregação da sentenciada das demais reeducandas que se encontram cumprindo pena em regime fechado, mostra-se suficiente para o cumprimento da reprimenda em regime semiaberto.
+A propósito, já decidiu este e. Tribunal de Justiça:
+ ..
+Outrossim, observa-se que, apesar da decisão ter sido pautada na Súmula Vinculante n.º 56, a mesma não foi cumprida, eis que o referido precedente de observância obrigatória determina: "havendo déficit de vagas, deverão ser determinados: (i) a saída antecipada de sentenciado no regime com falta de vagas; (ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; (iii) o cumprimento de penas restritivas de direito e/ou estudo ao sentenciado que progride ao regime aberto. Até que sejam estruturadas as medidas alternativas propostas, poderá ser deferida a prisão domiciliar ao sentenciado".
+Dessa forma, têm-se que os parâmetros fixados na súmula não foram observados, uma vez que o magistrado de origem, "a priori", não cuidou de deferir a saída antecipada aos sentenciados que estavam próximos de progredir de regime - o que não é o caso da agravada.
+Assim, entendo que permitir à reeducanda que cumpra a sua pena em regime semiaberto domiciliar, fere o princípio da legalidade, bem como a isonomia entre as demais apenadas em regime similar, devido ao principio da individualização da pena.
+A respeito da impossibilidade e inviabilidade da concessão automática da prisão domiciliar excepcional com fulcro na S. V. n.º 56, tem-se o Tema 933, do STJ, que assim dispõe:
+A inexistência de estabelecimento penal adequado ao regime prisional determinado para o cumprimento da pena não autoriza a concessão imediata do benefício da prisão domiciliar, porquanto, nos termos da Súmula Vinculante nº 56, é imprescindível que a adoção de tal medida seja precedida das providências estabelecidas no julgamento do RE nº 641.320/RS, quais sejam:
+(i) saída antecipada de outro sentenciado no regime com falta de vagas, abrindo-se, assim, vagas para os reeducandos que acabaram de progredir;
+(ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; e
+(iii) cumprimento de penas restritivas de direitos e/ou estudo aos sentenciados em regime aberto. - Destaque.
+Portanto, tendo em vista que o caso dos autos não se amolda ao disposto no art. 117 da Lei de Execução Penal, bem como nas estreitas hipóteses para concessão de prisão domiciliar humanitária, mostra-se necessária a reforma da decisão ora agravada.
+Da leitura do acórdão impugnado, verifico que o Tribunal estadual decidiu em consonância com a orientação da jurisprudência desta Corte Superior, observando a tese do Tema n. 993 do STJ, fixada no julgamento do REsp n. 1.710.674, sob o rito dos recursos repetitivos.
+Destaca- se que, no exame do caso concreto em cotejo com a tese fixada no tema repetitivo, o julgado consignou "que o magistrado de origem, "a priori", não cuidou de deferir a saída antecipada aos sentenciados que estavam próximos de progredir de regime - o que não é o caso da agravada" (fl. 31).
+Nesse contexto, não constato a existência de constrangimento ilegal apto a autorizar a concessão da ordem de habeas corpus.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENADO DO REGIME SEMIABERTO. INEXISTÊNCIA DE VAGAS. PEDIDO DE PRISÃO DOMICILIAR. OBSERVÂNCIA DO RE N. 641.320/RS. DETERMINAÇÃO DE SAÍDA ANTECIPADA DE OUTRO SENTENCIADO NO REGIME COM FALTA DE VAGAS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acórdão estadual, ao determinar que, antes da concessão da prisão domiciliar, o Juiz da VEC organize a saída antecipada de outro sentenciado no regime com falta de vagas, está conforme a Súmula Vinculante n. 56 e a jurisprudência desta Corte, pois a Terceira Seção, no julgamento do Tema Repetitivo n. 993, fixou a tese de que o benefício não pode ser deferido como primeira opção, de forma automática, mas deve ser precedido pelas outras providências estabelecidas no julgamento do RE n. 641.320/RS.
+2. Agravo regimental não provido.
+(AgRg no HC n. 888.895/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1º/7/2024, DJe de 3/7/2024.)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. REGIME SEMIABERTO. SAÍDA ANTECIPADA. PRISÃO DOMICILIAR. ALEGADA AUSÊNCIA DE VAGAS EM LOCAL ADEQUADO. NECESSIDADE DE OBSERVÂNCIA DAS ORIENTAÇÕES DA SÚMULA VINCULANTE N. 56/STF, DO RE N. 641.320/STF E DO RE N. 1.710.674/STJ. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo de recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+II - A mesma Terceira Seção, no julgamento do REsp n. 1.710.674/MG, no rito dos recursos repetitivos (Tema 993), Relator o insigne Ministro Reynaldo Soares da Fonseca, assentou a tese de que "A inexistência de estabelecimento penal adequado ao regime prisional determinado para o cumprimento da pena não autoriza a concessão imediata do benefício da prisão domiciliar, porquanto, nos termos da Súmula Vinculante nº 56, é imprescindível que a adoção de tal medida seja precedida das providências estabelecidas no julgamento do RE nº 641.320/RS, quais sejam: (i) saída antecipada de outro sentenciado no regime com falta de vagas, abrindo-se, assim, vagas para os reeducandos que acabaram de progredir; ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; e (iii) cumprimento de penas restritivas de direitos e/ou estudo aos sentenciados em regime aberto."
+III - Verifica-se, no caso, que não foi atendida a orientação da Súmula Vinculante n. 56/STF e dos parâmetros fixados, pelo col.
+Supremo Tribunal Federal, no RE n. 641.320, e por este Superior Tribunal de Justiça, no REsp n. 1.710.674/MG.
+Habeas corpus não conhecido.
+(HC n. 603.982/RS, relator Ministro Felix Fischer, Quinta Turma, julgado em 13/10/2020, DJe de 20/10/2020.)
+Ante o exposto, denego o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
