@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ROBSON ROBERTO DOS SANTOS e EDMAR PESSUTI MARTILIANO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que os pacientes foram condenados, em primeira instância, às pena de 6 anos e 8 meses de reclusão, em regime fechado, mais pagamento de 16 dias-multa, pela prática do delito capitulado no art. 157, § 2º, II, do Código Penal (fls. 14-20).
+Inconformados, a defesa e o Ministério Público interpuseram apelações perante o Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo e proveu o recurso ministerial para majorar as penas dos pacientes, respectivamente, para 7 anos, 9 meses e 10 dias de reclusão, mais 18 dias-multa, e 7 anos e 6 meses de reclusão, mais 17 dias-multa, consoante voto condutor do acórdão de fls. 21-26.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, uma vez que não houve fundamentação idônea em relação à fração utilizada para agravar a pena na segunda fase da dosimetria, devendo a agravante da reincidência, mesmo que específica, ser compensada com a atenuante da confissão.
+Destaca, para isto, o julgamento do HC nº 426.673, ocasião em que o C. Superior Tribunal de Justiça entendeu pela possibilidade de compensação entre a agravante da reincidência e a atenuante da confissão espontânea, ainda em se tratando de multirreincidência específica. (fl. 7).
+Requer, assim, a concessão da ordem para que seja promovida a compensação integral entre a confissão e a reincidência.
+O pedido liminar foi indeferido às fls. 29-30.
+Informações prestadas às fls. 37-38 e 43-44.
+O Ministério Público Federal, às fls. 61-63, pelo não conhecimento do writ, mas pela concessão da ordem, nos termos deste parecer.
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração a compensação integral entre a atenuante da confissão e a agravante da reincidência especifica.
+A Terceira Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 738.224/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2023, DJe de 12/12/2023.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DAS DROGAS ISOLADAMENTE. ELEMENTOS INSUFICIENTES PARA DENOTAR A HABITUALIDADE DELITIVA DA AGENTE. INCIDÊNCIA NA FRAÇÃO MÁXIMA (2/3). REGIME ABERTO. ADEQUADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC n. 857.913/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+No tocante ao tema, a Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo n. 1.341.370/MT, fixou a tese de ser possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência. Ademais, no julgamento do Habeas Corpus n. 365.963/SP, a Terceira Seção deste Superior Tribunal de Justiça uniformizou o entendimento das Turmas que a compõe no sentido de possibilitar a compensação da atenuante da confissão espontânea com a agravante da reincidência, irradiando seus efeitos para ambas as espécies (genérica e específica), ressalvados os casos de multirreincidência. A propósito:
+" ..
+4. Recurso especial desprovido. Acolhida a readequação da Tese n. 585/STJ, nos seguintes termos: É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade. (REsp n. 1.931.145/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 22/6/2022, DJe de 24/6/2022.)
+Verificada a inconsistência no ponto, a concessão da ordem é medida que se impõe com o redimensionamento das penas:
+Fixada a pena-base acima do mínimo legal em 5 anos de reclusão e compensadas integralmente as agravantes da reincidência específica (Robson) e genérica (Edmar) com as atenuantes da confissão espontânea, ficam as reprimendas definitivamente estabelecidas para ambos os pacientes em 6 anos e 8 meses de reclusão, mais o pagamento de 17 dias-multa, ante o aumento de 1/3 por força da majorante do concurso de pessoas na terceira fase da dosimetria.
+O regime fechado permanecerá, em razão da presença de circunstância judicial desfavorável e da reincidência, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal.
+Ante o exposto, não conheço do habeas corpus. contudo, concedo a ordem, de ofício, para redimensionar as reprimendas dos pacientes, nos termos acima delineados, para 6 anos e 8 meses de reclusão, em regime fechado, mais pagamento de 17 dias-multa, mantido os demais termos da condenação.
+Publique-se. Intimem-se.
+EMENTA
