@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por CERÂMICA ARUAN LTDA. em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE REINTEGRAÇÃO DE POSSE E TUTELA DE URGÊNCIA. SENTENÇA PARCIALMENTE PROCEDENTE PARA OS PEDIDOS DO AUTOR E IMPROCEDENTE PARA OS PEDIDOS RECONVENCIONAIS. IRRESIGNAÇÃO DO AUTOR QUE PUGNA PELA MANUTENÇÃO DAS CLÁUSULAS LIVREMENTE ESTABELECIDAS NO CONTRATO. SENTENÇA PARCIALMENTE REFORMADA PARA AUMENTAR A RETENÇÃO DO AUTOR PARA 50% EM RAZÃO DOS PREJUÍZOS SOFRIDOS. IRRESIGNAÇÃO DOS REQUERIDOS QUE ALEGAM NULIDADE DA SENTENÇA. NO MÉRITO, SUSTENTAM QUE HOUVE ADIMPLEMENTO SUBSTANCIAL E NULIDADES DE CLÁUSULAS. PUGNAM PELO RECONHECIMENTO DE PARCIAL PROCEDÊNCIA DOS PEDIDOS RECONVENCIONAIS, ALTERAÇÃO DO ÔNUS DA SUCUMBÊNCIA ESTABELECIDO E EFEITO SUSPENSIVO PARA IMPEDIR A REINTEGRAÇÃO DE POSSE ATÉ A DECISÃO FINAL. SENTENÇA PARCIALMENTE REFORMADA. RECONHECIMENTO DE PARCIAL PROCEDÊNCIA DA RECONVENÇÃO. RECURSOS PARCIALMENTE PROVIDOS.
+Nas razões de recurso especial, alega a parte agravante violação dos arts. 6º da Lei de Introdução às Normas do Direito Brasileiro, 421 e 927 do Código Civil.
+Assim posta a questão, verifico que o recurso especial não dispensa o reexame de prova. A agravante afirma não terem sido observadas as cláusulas do contrato, que previa o perdimento total das parcelas pagas pela compradora inadimplente. A respeito da matéria, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ, fl. 2463):
+Quanto à inadimplência, não há, de fato, controvérsia nos autos, havendo, inclusive, confissão dos requeridos. A razão do pedido de reforma parcial da r. sentença pelo autor está baseada na desconsideração pelo juiz de origem daquilo que foi previsto contratualmente.
+Alega o autor que a cláusula que prevê o perdimento do saldo pago encontra respaldo inclusive em precedentes do STJ. Assevera que não é o caso de restituir os 75% dos valores pagos, não só porque previsto em contrato a cláusula 6.3.2, mas também porque o descumprimento contratual gerou outros prejuízos. O mesmo ocorre em relação à multa pela retenção indevida, que foi alterada pelo juízo em desconsideração de cláusulas contratuais expressas.
+Da análise da alegação do autor e da r. sentença, verifico que está correta a r. sentença quanto à impossibilidade de perdimento total à luz do quanto previsto artigo 413 do Código Civil.
+(..)
+Nesse sentido, merece reforma a r. sentença, não para determinar o perdimento total dos valores pagos como requer o autor, mas para condená-lo a devolver somente 50% dos valores efetivamente recebidos, não 75% como constou na r. sentença.
+Nesse contexto, tem-se que houve o reconhecimento da inadimplência e a determinação de que fosse paga a respectiva indenização, porém era o caso de aplicação do que disposto no art. 413 do Código Civil:
+A penalidade deve ser reduzida equitativamente pelo juiz se a obrigação principal tiver sido cumprida em parte, ou se o montante da penalidade for manifestamente excessivo, tendo-se em vista a natureza e a finalidade do negócio.
+Não há como afastar essas conclusões em recurso especial, consoante dispõem as Súmulas 5 e 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
