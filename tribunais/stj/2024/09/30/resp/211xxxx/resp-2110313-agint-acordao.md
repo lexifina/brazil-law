@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DO AGRAVANTE.
+1. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir a Súmula 7 do STJ.
+2. O acórdão recorrido está em consonância com a jurisprudência desta Corte Superior. Incidência da Súmula 83 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno, interposto por MARCOS WILSON SPYER REZENDE, contra decisão monocrática, de lavra deste signatário, acostada às fls. 550/553, e-STJ, que negou provimento ao recurso especial.
+O apelo nobre desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 396, e-STJ):
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. CREDOR QUIROGRAFÁRIO. PRETENSÃO DE RECEBIMENTO PRIORITÁRIO EM RAZÃO DA IDADE E DOENÇA GRAVE. ART. 1048, I, DO CPC. APLICABILIDADE AOS PROCEDIMENTOS JUDICIAIS, NÃO PODENDO SER ESTENDIDO AOS CRÉDITOS SUBMETIDOS À RECUPERAÇÃO JUDICIAL. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial (fls. 415/422, e-STJ), o recorrente aponta ofensa aos artigos 1.048, I do CPC/15; e 71 da Lei n.º 10.741/03 (Estatuto do Idoso).
+Sustenta, em síntese, ter direito ao pagamento prioritário do crédito, no valor de R$ 1.178.185,65, habilitado na recuperação judicial do Grupo Odebrecht (Processo n. 1057756-77.2019.8.26.0100), em razão de sua idade e por ser portador de doença grave e incurável (neoplasia maligna).
+Contrarrazões às fls. 435/448 (e-STJ).
+Após a decisão de admissão do recurso especial (fls. 48/418, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Por decisão monocrática (fls. 550/553, e-STJ), foi desprovido o reclamo, sob o fundamento de incidência das Súmulas 7 e 83 do STJ, mantendo-se, por consequência, a higidez do acórdão estadual recorrido.
+Na presente oportunidade, o agravante, em suas razões de fls. 558/564, e-STJ, repisando as alegações de mérito do apelo nobre, pretende ver afastada a incidência dos óbices aplicados (Súmulas 7 e 83/STJ) na decisão ora agravada.
+Impugnação às fls. 571/580, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DO AGRAVANTE.
+1. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir a Súmula 7 do STJ.
+2. O acórdão recorrido está em consonância com a jurisprudência desta Corte Superior. Incidência da Súmula 83 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida.
+1. Na espécie, a Corte de origem, embora tenha consignado, incialmente, que a prioridade, referida no dispositivo legal apontado como violado (1.048, I do CPC/2015), seja de tramitação e não de satisfação do direito, na sequência analisou a hipótese dos autos para concluir que não restou demonstrado o estado de saúde grave a justificar a preferência de pagamento.
+Convém colacionar os seguintes trechos do acórdão recorrido (fls. 398/399, e-STJ):
+Em que pese a irresignação do credor, o recurso não deve ser provido.
+Isso porque, conforme já mencionado quando do indeferimento da liminar recursal, "a previsão do art. 1048, I, do CPC, que dispõe sobre a prioridade de tramitação, em qualquer juízo ou tribunal, dos procedimentos judiciais envolvendo pessoa com idade igual ou superior a 60 anos ou portadora de doença grave, isso não implica em preferência de recebimento e, por conseguinte, exceção ao princípio da pars conditio creditorum. A respeito: A.I. n. 2226663-46.2015.8.26.0000 (rel. Des. Pereira Calças, j. 24/2/2016) e o A.I. n. 2005905-88.2019.8.26.0000 (rel. Des. Azuma Nishi, j. 08/5/2019). Referido artigo deve ser aplicado à tramitação do feito, não à satisfação do direito, assim, poderia o agravante exigir que eventual incidente processual (impugnação de crédito, por exemplo) tramitasse com mais celeridade que os demais, mas não pretender alterar a natureza do seu crédito com base em eventual urgência decorrente de sua idade ou condição de saúde."
+Além disso, o crédito do agravante, embora decorra de um vínculo empregatício, não possui natureza salarial, pois sua função não é remunerar o funcionário pelos serviços prestados. Conforme analisado nos autos do Agravo de Instrumento nº 2073867-94.2020.8.26.0000, interposto pelo ora agravante, a stock option é oferecida a executivos a fim de incentivar sua permanência na empresa. Todavia, o fato de existir um vínculo empregatício entre as partes não implica na automática classificação do crédito como trabalhista, razão pela qual o mesmo foi incluído na Classe III.
+Por fim, ainda que se admitisse a aplicação do referido dispositivo legal, não se pode deixar de mencionar que o agravante apresentou um laudo médico, datado de 2011, e dois atestados médicos (2015 e 2017), desacompanhados de outros documentos (exames ou atestados) que pudessem comprovar o atual estágio da doença, ressaltando que a neoplasia maligna da próstata foi diagnostica em 2006. Dessa forma, não restou demonstrada o grave estado de saúde.
+Com efeito, sob pena de ampliar o efeito devolutivo e caracterizar este Superior Tribunal de Justiça como terceira instância ordinária, distanciando-se, por consequência, da atribuição constitucional extraordinária estabelecida, é vedado, nos termos do Enunciado n. 7 da Súmula deste STJ, e por quaisquer das alíneas do permissivo constitucional, o exame de pretensões que, para o seu acolhimento, reclamem o revolvimento dos elementos fáticos e probatórios dos autos.
+Assim, diante das razões do recurso especial e da fundamentação do acórdão recorrido, rever o entendimento do Tribunal de origem demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ.
+2. Ademais, cabe observar, a Segunda Turma desta Corte Superior, ao analisar o direito de prioridade para o recebimento de precatório, sobre o artigo 71 da Lei 10.471/2003 (Estatuto do Idoso), asseverou que tal dispositivo "assegura apenas "a prioridade na tramitação dos processos e procedimentos e na execução dos atos e diligências judiciais em que figure como parte ou interveniente pessoa com idade igual ou superior a 60 (sessenta) anos", não dispondo sobre a prioridade no pagamento de precatórios de natureza alimentar, ou não, de que sejam titulares idosos" (RMS n. 65.747/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 16/3/2021, DJe de 8/4/2021).
+No ponto, esta Corte já havia destacado que a previsão legal para pagamento de créditos humanitários de precatório estaria no artigo 100, § 2º, da CF/88, o qual "delimita dois requisitos para o pagamento preferencial nele previsto, quais sejam: (a) ser o débito de natureza alimentícia; e (b) ser o titular do crédito maior de 60 (sessenta) anos de idade, na data de expedição do precatório, ou portador de doença grave" (AgRg no RMS n. 41.510/RO, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 15/10/2015, DJe de 29/10/2015.)
+Portanto, ainda que superado o óbice da Súmula 7/STJ, não se poderia com base nos artigos tidos por violados (arts. 71 do Estado do Idoso e 1.048, I do CPC/2015), concluir, conforme pretende o agravante, pela existência do direito à preferência de recebimento do crédito, porquanto, nos termos da jurisprudência do STJ sobre o pagamento de precatórios, precedentes da 1ª Seção aplicados por analogia, não se pode extrair do comando legal dos dispositivos já referidos tal interpretação, e, desse modo, há incidência da Súmula 83/STJ, a obstar o provimento do apelo.
+Logo, verifica-se, no caso, que a decisão singular deve ser mantida com amparo nos fundamentos e nos precedentes acima alinhavados.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
