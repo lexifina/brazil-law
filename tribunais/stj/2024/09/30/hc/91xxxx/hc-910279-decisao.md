@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EWERTON THIBES DE BARROS no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul no julgamento da Revisão Criminal n. 1404112-80.2024.8.12.0000, cujo acórdão ficou assim ementado (e-STJ fl. 594):
+EMENTA - REVISÃO CRIMINAL - TRÁFICO DE DROGAS - CONDENAÇÃO OPERADA NOS AUTOS Nº 0000548-80.2018.8.12.0035 - PELA PELA APLICAÇÃO DAS CAUSAS ESPECIAIS DE DIMINUIÇÃO DE PENA PREVISTAS NO ART. 33, 4º, E ART. 41, AMBOS DA LEI Nº 11.343/06 - PRELIMINAR ARGUIDA PELA D. PROCURADORIA-GERAL DE JUSTIÇA PELO NÃO CONHECIMENTO DO PEDIDO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO - REJEITADA - AÇÃO INTEGRALMENTE CONHECIDA - AINDA QUE AFASTADAS O PARTE DO FUNDAMENTO QUE FOI UTILIZADO PARA A NÃO APLICAÇÃO DA MINORANTE REFERENTE AO TRÁFICO PRIVILEGIADO, OS DEMAIS FUNDAMENTOS JUSTIFICAM A NÃO CONCESSÃO DA BENESSE - APLICAÇÃO MINORANTE PREVISTA NO ART. 41 DA LEI DE DROGAS ACOLHIDA - REVISÃO CRIMINAL JULGADA PARCIALMENTE PROCEDENTE. Quanto a não aplicação da minorante referente do tráfico privilegiado, ainda que subtraídos os fundamentos referente à existência da utilização da figura do "batedor" e da quantidade de droga, remanescem suficientes e idôneos os demais fundamentos para a não aplicação da almejada minorante, de modo que, sob qualquer, não há falar na concessão da benesse prevista no art. 33, § 4º, da Lei nº 11.343/06. Verificando-se que o ora requerente delatou um dos coautores do crime, tendo em vista que, na oportunidade em que seu celular tocou, ele confirmou se tratar do corréu "batedor" e passou todas as informações necessárias para sua captura, necessário aplicar a minorante prevista no art. 41 da Lei nº 11.343/06.
+Neste writ, a defesa requer, em suma, "seja distribuído e autuado o presente writ, para, no mérito, deferir a ordem de Habeas Corpus ex officio, concedendo ao paciente o direito de na terceira fase da dosimetria penal, seja reconhecido o tráfico privilegiado, aplicando a causa de diminuição de pena no patamar máximo de 2/3, conforme previsão do art. 33, parágrafo 4º da lei 11.343/06" (e-STJ fl. 11).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+Do presente writ não se pode conhecer.
+Destaque-se que o pedido constante destes autos - reconhecimento da minorante do tráfico privilegiado - constitui mera reiteração do pedido formulado no HC n. 902.901/MS. Isso, porque há identidade de partes e de causa de pedir, impugnando ambos o mesmo acórdão da Revisão Criminal n. 1404112-80.2024.8.12.0000 , o que constitui óbice ao conhecimento do presente habeas corpus.
+Assim, o proceder da defesa caracteriza mera reiteração de pedido, providência essa incabível, sendo inviável a dupla apreciação da matéria.
+No mesmo sentido:
+RECURSO EM HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. ART. 282 DO CPP. HOMICÍDIO QUALIFICADO. PROVIDÊNCIA DE BLOQUEIO DO ACESSO À LINHA TELEFÔNICA CONSTITUI CONSEQUÊNCIA LÓGICA DA MEDIDA CAUTELAR REAL DE BUSCA E APREENSÃO DO APARELHO TELEFÔNICO CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+1. Caso o recurso veicule mera reiteração de matéria que já fora formulada em insurgência anterior, resta prejudicado o recurso em face da ausência do interesse de agir (AgRg no AgRg no AREsp n. 1.997.466/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/2/2022.)
+2. A providência de bloqueio do acesso à linha telefônica constitui consequência lógica da medida cautelar real de busca e apreensão do aparelho telefônico, consoante a jurisprudência deste Superior Tribunal.
+3. Recurso em habeas corpus improvido.
+(RHC n. 157.270/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/2/2023, DJe de 13/2/2023.)
+Ante o exposto, não conheço d o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
