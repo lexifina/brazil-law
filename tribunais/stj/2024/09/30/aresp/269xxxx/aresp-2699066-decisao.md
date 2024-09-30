@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CARLOS ALBERTO AGUIAR GOMES DE MENDONCA MOTA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO INTERNO - AGRAVO DE INSTRUMENTO QUE NÃO FOI CONHECIDO EM VIRTUDE DE SER INADMISSÍVEL - AGRAVO DE INSTRUMENTO INTERPOSTO DA DECISÃO DE PRIMEIRO GRAU QUE INDEFERIU A REALIZAÇÃO DE PROVA PERICIAL NOS AUTOS DOS EMBARGOS À EXECUÇÃO - DECISÃO QUE NÃO CONSTA DO ROL DO ART. 1.015 DO ATUAL CPC - NÃO DEMONSTRADA A URGÊNCIA DA MEDIDA PLEITEADA - INAPLICABILIDADE DA TAXATIVIDADE MITIGADA - PRECEDENTES DO STJ E DO TJSP - RECURSO DESPROVIDO (fl. 411).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 139, caput e I, e 369 do CPC, no que concerne à configuração do cerceamento de defesa em razão do indeferimento da produção de prova pericial pleiteada, com o fito de buscar a verdade real, tra zendo a seguinte argumentação:
+Inicialmente, é de se destacar que houve violação ao disposto nos artigos 139, caput e inciso I, e 369, ambos do Código de Processo Civil, na medida em que o v. acórdão não reconheceu a ocorrência do cerceamento de defesa do Recorrente pelo juízo de piso, ocasionado em razão do indeferimento da produção de prova pericial pleiteada pelo Recorrente.
+ ..
+No presente caso, verifica-se a urgência da hipótese posto que, a não realização da prova pericial solicitada pelo Recorrente lhe acarretará grave prejuízo, tendo em vista as práticas ilegais cometidas pela Instituição Financeira, em flagrante excesso de execução, decorrente de (i) correção monetária e juros moratórios indevidamente inseridos no cálculo elaborado, à medida em que deixou de considerar o quanto disposto no artigo 397 do Código Civil; (ii) cobrança de juros acima do limite legal previsto no artigo 406, do Código Civil, máxime em razão da proibição de fundos de investimentos cobrarem juros e encargos adstritos ao Sistema Financeiro Nacional; (iii) bem ainda, em razão da atualização e incidência de valores em descompassado com o termo final previsto no art. 9º, II da Lei 11.101/2005.
+Desse modo, não soa minimamente razoável que a r. decisão agravada que rejeitou o pedido de produção de prova pericial apresentado pelo Recorrente, deverá ser suscitada apenas em preliminar de apelação, nos termos do §1º do artigo 1.009, do Código de Processo Civil.
+Em outras palavras, significa dizer que, sendo o D. Juízo a quo o destinatário final das provas, deveria então ter oportunizado à parte a produção das provas pleiteadas com o fito de buscar a verdade real, no sentido de comprovar o evidente excesso de execução incorrido. (fls. 388/391).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 283/STF, porquanto a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, conforme se verifica, litteris:
+2.1. A nova disposição do CPC, mais precisamente, o art. 1.015, prevê rol taxativo de decisões interlocutórias que podem ser atacadas via agravo de instrumento, não se incluindo nessa lista a decisão recorrida, que indeferiu a realização de prova pericial nos autos dos embargos à execução (fl. 372 dos autos do agravo de instrumento).
+2.2. Por outro lado, o Colendo Superior Tribunal de Justiça, ao julgar, em 5.12.2018 (DJe de 19.12.2018), os Recursos Especiais nºs 1.696.396-MT e 1.704.520-MT, de relatoria da Ministra NANCY ANDRIGHI, sob o rito dos recursos repetitivos, fixou tese no sentido de que:
+ ..
+Disso se infere que é possível a interposição de agravo de instrumento em hipóteses não previstas expressamente no rol do art. 1.015 do CPC, desde que observado o critério de urgência resultante da ineficácia do julgamento do tema em eventual apelo.
+Contudo, na espécie, não ficou demonstrada a urgência reclamada pelo recurso repetitivo.
+A questão objeto do agravo em análise poderá ser abordada em razões ou contrarrazões de apelação, conforme o caso, não se verificando urgência a possibilitar a recorribilidade imediata.
+Vale dizer, a inadmissibilidade do agravo não importa em preclusão sobre a matéria, podendo ela ser eventualmente invocada em sede de apelação, nos termos do § 1º do art. 1.009 do atual CPC.
+ ..
+2.3. De qualquer maneira, sendo o juiz o destinatário da prova, apenas a ele cumpre aferir sobre a necessidade ou não de sua realização, assim como indeferir aquelas que considerar inúteis ao deslinde da causa (art. 370, parágrafo único, do atual CPC).
+2.4. De rigor, pois, o não conhecimento do ventilado agravo de instrumento, com esteio no art. 932, inciso III, do atual CPC (fl. 383 dos autos do agravo de instrumento).
+3. Nessas condições, nego provimento ao agravo interno contraposto, mantendo a decisão impugnada (fls. 380/383 dos autos do agravo de instrumento) (fls. 411/413, grifo meu).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de19.12.2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp 1.157.074/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 5.8.2020; AgInt no REsp 1.389.204/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 3.8.2020; AgInt no REsp 1.842.047/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 26.6.2020; e AgRg nos EAREsp 447.251/SP, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 20.5.2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
