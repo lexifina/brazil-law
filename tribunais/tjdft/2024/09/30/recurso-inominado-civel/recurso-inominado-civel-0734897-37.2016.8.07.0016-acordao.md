@@ -1,0 +1,51 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Terceira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0734897-37.2016.8.07.0016RECORRENTE(S)DISTRITO FEDERALRECORRIDO(S)CARLOS ANTONIO DOS SANTOSRelatoraJuiza MARGARETH CRISTINA BECKER
+ Acórdão Nº1929204
+
+EMENTA
+
+JUIZADO ESPECIAL DA FAZENDA PÚBLICA. RECURSO INOMINADO. TRIBUTÁRIO. TEMA Nº 986 DO STJ. CONSUMO DE ENERGIA ELÉTRICA. BASE DE CÁLCULO DO ICMS. INCLUSÃO DAS TARIFAS DE USO DO SISTEMA DE TRANSMISSÃO (TUST) E DE USO DO SISTEMA DE DISTRIBUIÇÃO (TUSD). POSSIBILIDADE. RECURSO CONHECIDO.  PROVIDO.
+
+1. Acórdão lavrado de acordo os artigos 2º e 46 da Lei nº 9.099/95, e artigo 60, §§ 1º e 2º, do Regimento Interno das Turmas Recursais dos Juizados Especiais do TJDFT. Presentes os pressupostos específicos, conheço do recurso.
+
+2. Trata-se de recurso inominado interposto pelo DISTRITO FEDERAL em face da sentença que julgou procedente o pedido inicial para condenar o DISTRITO FEDERAL a “proceder ao recolhimento do ICMS sem incluir em sua base de cálculo a Taxa de Uso do Sistema de Transmissão de Energia Elétrica – TUST e a Taxa de Uso do Sistema de Distribuição de Energia Elétrica – TUSD. Condeno, ainda, o DISTRITO FEDERAL a pagar à parte autora o valor nominal de R$ 226,64 (duzentos e vinte e seis reais e sessenta e quatro centavos), a título de repetição de indébito tributário, com juros de mora de 1% a.m, aplicados por capitalização simples a partir do trânsito em julgado (Súmula 188 do STJ) e correção monetária, utilizando o Índice de correção previsto no art. 2º da Lei Complementar nº 435/01, que é o INPC, a partir do recolhimento indevido (Súmula 162 do STJ), ocorrido no vencimento de cada fatura.”.
+
+3. O Distrito Federal pugna, preliminarmente, pelo sobrestamento do feito, ante a repercussão geral reconhecida no RE nº 593.824. No mérito, defende a legalidade da inclusão de todos os custos agregados ao fornecimento de energia elétrica (TUSD, TUST, perdas do sistema elétrico e encargos setoriais) na base de cálculo do ICMS, tendo em vista que o valor da operação final decorre da soma de todos os elementos que compõem o preço, nos termos do art. 34, § 9º do ADCT e art. 9º, § 1º, II, da LC nº 87/1996. Requer a improcedência dos pedidos formulados na inicial.
+
+4. Contrarrazões apresentadas (ID 2879085), pugnando pela manutenção da sentença.
+
+5. Suspensão processual. O acórdão mencionado pelo recorrente, exarado no RE nº 593.824, transitou em julgado em 26/02/2021 e versa sobre tema diverso, alheio à presente demanda. No caso, em cumprimento à determinação do STJ, no EREsp nº 1.163.020, o presente processo foi suspenso e, por força do trânsito em julgado do acórdão, ocorrido em 24/06/2024 e que fixou a tese representada no Tema nº 986, o curso processual foi retomado para o efetivo julgamento do recurso.
+
+6. O Superior Tribunal de Justiça, no julgamento do Tema nº 986, firmou a seguinte tese: “A Tarifa de Uso do Sistema de Transmissão (TUST) e/ou a Tarifa de Uso de Distribuição (TUSD), quando lançada na fatura de energia elétrica, como encargo a ser suportado diretamente pelo consumidor final (seja ele livre ou cativo), integra, para os fins do art. 13, § 1º, II, 'a', da LC 87/1996, a base de cálculo do ICMS”. E os efeitos do julgamento foram assim modulados: “1. Considerando que até o julgamento do REsp 1.163.020/RS - que promoveu mudança na jurisprudência da Primeira Turma - a orientação das Turmas que compõem a Seção de Direito Público do STJ era, s.m.j., toda favorável ao contribuinte do ICMS nas operações de energia elétrica, proponho, com base no art. 927, § 3º, do CPC, a modulação dos efeitos, a incidir exclusivamente em favor dos consumidores que, até 27.3.2017 - data de publicação do acórdão proferido julgamento do REsp 1.163.020/RS -, hajam sido beneficiados por decisões que tenham deferido a antecipação de tutela, desde que elas (as decisões provisórias) se encontrem ainda vigentes, para, independente de depósito judicial, autorizar o recolhimento do ICMS sem a inclusão da TUST/TUSD na base de cálculo. Note-se que mesmo estes contribuintes submetem-se ao pagamento do ICMS, observando na base de cálculo a inclusão da TUST e TUSD, a partir da publicação do presente acórdão - aplicável, quanto aos contribuintes com decisões favoráveis transitadas em julgado, o disposto adiante, ao final. 2. A modulação aqui proposta, portanto, não beneficia contribuintes nas seguintes condições: a) sem ajuizamento de demanda judicial; b) com ajuizamento de demanda judicial, mas na qual inexista Tutela de Urgência ou de Evidência (ou cuja tutela outrora concedida não mais se encontre vigente, por ter sido cassada ou reformada); c) com ajuizamento de demanda judicial, na qual a Tutela de Urgência ou Evidência tenha sido condicionada à realização de depósito judicial; e d) com ajuizamento de demanda judicial, na qual a Tutela de Urgência ou Evidência tenha sido concedida após 27.3.2017. 3. Em relação às demandas transitadas em julgado com decisão favorável ao contribuinte, eventual modificação está sujeita à análise individual (caso a caso), mediante utilização, quando possível, da via processual adequada”.
+
+6. Na hipótese, o autor/recorrido ajuizou a presente demanda em 14/11/2016 e não formulou pedido de tutela de urgência, enquanto a sentença julgou procedentes os pedidos formulados na inicial e foi proferida em 28/06/2017, data posterior à estabelecida para a manutenção das decisões favoráveis aos contribuintes, segundo a modulação dos efeitos do julgamento do REsp. 1.163.020/RS.
+
+7. Destarte, impõe-se a aplicação do Tema nº 986, do STJ, para julgar improcedentes os pedidos formulados pelo autor/recorrido, porquanto é legítima a cobrança do ICMS sobre a base de cálculo que incluiu as tarifas de uso do sistema de transmissão (TUST) e de uso do sistema de distribuição (TUSD).
+
+8. RECURSO CONHECIDO. PROVIDO para julgar improcedentes os pedidos formulados na inicial.
+
+9. Sem custas, ante a isenção legal do Distrito Federal. Sem honorários advocatícios, ante a ausência de recorrente integralmente vencido, nos termos do art. 55 da Lei nº 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Terceira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, MARGARETH CRISTINA BECKER - Relatora, EDI MARIA COUTINHO BIZZI - 1º Vogal e MARCO ANTONIO DO AMARAL - 2º Vogal, sob a Presidência do Senhor Juiz MARCO ANTONIO DO AMARAL, em proferir a seguinte decisão: CONHECIDO. PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 04 de Outubro de 2024
+
+Juíza MARGARETH CRISTINA BECKERRelatora
+
+RELATÓRIO
+
+Dispensado o relatório. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+A Senhora Juíza MARGARETH CRISTINA BECKER - RelatoraDispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+A Senhora Juíza EDI MARIA COUTINHO BIZZI - 1º Vogal Com o relatorO Senhor Juiz MARCO ANTONIO DO AMARAL - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO. UNÂNIME.
