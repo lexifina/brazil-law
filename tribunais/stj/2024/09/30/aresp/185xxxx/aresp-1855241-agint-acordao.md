@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ART.  932,  III , DO CPC/2015; E SÚMULA 182 DO STJ.  DECISÃO  MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1.  Diante  da  ausência  de  impugnação  específica dos  fundamentos  da  decisão  agrava da,  deve  ser  mantida  a  decisão  que  deixou  de  conhecer  do  agravo  em  recurso  especial,  com  fundamento  no  art.  932,  III,  do  CPC/2015; e na Súmula 182 do STJ.
+2.  Agravo  interno  desprovido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por  MUNICÍPIO DE SÃO PAULO  contra  a  decisão  que  não  conheceu  do  agravo  em  recurso  especial,  em razão da aplicação do disposto no  art.  932,  III,  do  CPC/2015; e na Súmula 182 do STJ.
+Argumenta  a  parte agravante,  em  síntese,  que:
+ ..  o recurso especial preenche todos os requisitos, verificando-se a violação aos dispositivos de lei já mencionados. A questão a ser apreciada é unicamente de DIREITO, e se refere a erro material da Contadoria ao considerar o valor incorreto da indenização para calcular o saldo devedor, eis que a indenização inicialmente fixada de R$ 5.346.600,00 - setembro/95, foi posteriormente reduzida para R$ 3.742.620,00 - setembro/95, sendo este o valor correto a ser utilizado como parâmetro, eis que decorre do título executivo com trânsito em julgado (fl. 465).
+Afirma que:
+ ..  uma vez que se considere o valor correto da indenização, de R$ R$ 3.742.620,00 - setembro/95, tem-se que os juros moratórios deverão ser excluídos dos cálculos da liquidação, posto que integralmente quitada a indenização, tendo em vista o depósito complementar de fl. 688 dos autos originais, no valor de R$6.295.731,69 - 15/02/00, efetuado antes mesmo do trânsito em julgada da sentença, não havendo que se falar, pois, em mora do poder expropriante (fl. 465).
+Pugna pela reconsideração da decisão agravada.
+Conforme certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ART.  932,  III , DO CPC/2015; E SÚMULA 182 DO STJ.  DECISÃO  MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1.  Diante  da  ausência  de  impugnação  específica dos  fundamentos  da  decisão  agrava da,  deve  ser  mantida  a  decisão  que  deixou  de  conhecer  do  agravo  em  recurso  especial,  com  fundamento  no  art.  932,  III,  do  CPC/2015; e na Súmula 182 do STJ.
+2.  Agravo  interno  desprovido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+A despeito do esforço argumentativo da parte recorrente, verifico que não logrou demonstrar o desacerto da decisão agravada, cujos fundamentos, então, devem ser mantidos.
+Cinge-se a controvérsia posta neste recurso à  análise  do  acerto  da  decisão  que  deixou  de  conhecer  do  agravo  em  recurso  especial,  em  razão  da  incidência  da  Súmula  182 do STJ ("É inviável o agravo do art. 545 que deixa de atacar especificamente os fundamentos da decisão agravada").
+Nesse passo, destaco que a dialeticidade recursal é um princípio fundamental da validade dos recursos, a partir do qual entende-se que o agravante deve atacar os argumentos da decisão, e não somente manifestar a vontade de recorrer ou aduzir razões genéricas. Segundo esse princípio, portanto, não se conhece de agravo em recurso especial que não impugne especificamente a argumentação exposta na decisão de admissibilidade do recurso especial.
+Com efeito, assim dispõe o art. 932, III, do CPC/2015:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Reavaliando a decisão agravada, de fato, não  houve  a  impugnação  específica  do  fundamento  relativo  à  incidência  da Súmula  7 do STJ,  uma  vez  que  a  parte  agravante  limitou-se  a  refutar  a  aplicação  do referido  óbice  com  argumentação  genérica, reiterando as razões já expostas no apelo especial, razão pela qual o agravo em recurso especial não poderia ser conhecido.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça firmou o entendimento de ser possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema ou se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, do CPC/2015).
+2. Quando o recurso especial não é admitido com fundamento nas súmulas nº 211/STJ e 284/STF, a impugnação deve indicar com precisão argumentos jurídicos suficientes e específicos pelos quais se permita concluir presentes o prequestionamento da legislação infraconstitucional indicada no apelo especial - o que não ocorreu no presente caso.
+3. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o entendimento jurisprudencial cristalizado na redação da Súmula nº 182/STJ.
+4. Agravo interno não provido (AgInt no AREsp n. 2.324.320/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/6/2023, DJe de 21/6/2023).
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. HONORÁRIOS SUCUMBENCIAIS. JUSTIÇA GRATUITA. REGRA. OBSERVÂNCIA.
+1. De acordo com o disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Nos termos do art. 98, § 3º, do CPC2015, o pagamento dos honorários fixados permanecerá suspenso enquanto perdurar a situação de hipossuficiência que ensejou a concessão da gratuidade de justiça, de modo que não há falar em prejuízo à subsistência.
+3. Agravo interno desprovido (AgInt no AREsp n. 2.257.838/RO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/5/2023, DJe de 19/5/2023).
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL DE QUE NÃO SE CONHECEU. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESRESPEITO À SÚMULA 182 DO STJ. PEDIDO DE SUSPENSÃO DO FEITO EM RAZÃO DA AFETAÇÃO DE RECURSO REPRESENTATIVO DE CONTROVÉRSIA (TEMA 1.033). IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de Agravo Interno interposto contra decisão da Presidência do STJ que não conheceu do Agravo em Recurso Especial por incidência do art. 932, III do CPC/2015 e do art. 253 do RISJT, além do Enunciado 182 da Súmula do STJ.
+2. O agravante requer suspensão do julgamento com retorno à origem, em vista da afetação do Tema 1033/STJ. No mérito, afirma genericamente que ocorreu a devida impugnação dos fundamentos da decisão que deixou de admitir o Recurso Especial.
+3. Aqui se trata de óbice ao conhecimento do Agravo em Recurso Especial, de modo que nem sequer se cogita de conhecimento do apelo nobre, com vistas à aplicação de posterior precedente vinculante. Desse modo, não há margem para a suspensão pretendida (AgInt no AREsp 2146317 / PE; Quarta Turma; Rela. Maria Isabel Gallotti; DJe 18.11.2022).
+4. O Recurso Especial interposto faz menção a julgados de 2013 e de 2015, posteriores, portanto, ao entendimento mais recente colacionado pela decisão recorrida pela via do Agravo. Esta por seu turno, deveria ter sido atacada mediante demonstração, por meio de precedentes atuais, de que a jurisprudência do STJ não estaria no mesmo sentido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes em tópico (por meio de distinguishing). Tal não ocorreu na hipótese, impedindo-se o conhecimento do Agravo em Recurso Especial (AgInt no AREsp 2190005 / RJ; Rel. Min. Herman Benjamin; Segunda Turma; DJe 26.6.2023; AgInt no AREsp 2136649/SP; Rel. Min. Francisco Falcão; Segunda Turma; DJe 13.12.2022).
+5. Agravo Interno não provido (AgInt no AREsp n. 2.311.780/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/9/2023, DJe de 21/9/2023).
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ACÓRDÃO PARADIGMA DO MESMO ÓRGÃO JULGADOR. INVIABILIDADE. SÚMULA 353 DO STF. ACÓRDÃO PARADIGMA INDICADO ANTERIORMENTE NAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 598 DO STF. MERA REITERAÇÃO DAS RAZÕES DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. FUNDAMENTAÇÃO DEFICIENTE. IMPOSIÇÃO DE MULTA. ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO CONHECIDO.
+1. Aplicabilidade do novo Código de Processo Civil, devendo ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A mera reiteração das razões recursais sem a impugnação específica de todos os fundamentos da decisão agravada inviabiliza o exame do recurso. 3. A oposição de embargos de divergência fundado em acórdão paradigma da mesma turma que proferiu a decisão embargada somente é admitida quando houver a alteração de mais da metade dos seus membros (art. 1.043, § 3º, do NCPC), o que não ocorreu. A mera reiteração das razões recursais configura argumento deficiente que não se presta a atacar os fundamentos da decisão agravada.
+Incidência da Súmula nº 182 do STJ.
+4. O agravo interno não impugnou as razões da decisão agravada, pois não refutou, de forma fundamentada, a preclusão do dissídio jurisprudencial viabiliz ador dos embargos de divergência.
+Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+ ..
+(AgInt nos EAREsp n. 1.157.501/SP, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 20/8/2019, DJe de 22/8/2019).
+Isso posto, nego provimento ao recurso.
