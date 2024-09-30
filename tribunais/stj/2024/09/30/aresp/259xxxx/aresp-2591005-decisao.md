@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado (fl. 5.250):
+APELAÇÃO CÍVEL - INDENIZAÇÃO - EX-SÍNDICO - Responsabilidade pelo despedimento de funcionário de forma ilegal, reconhecida na Justiça do Trabalho - Dever de indenizar o condomínio - Rejeição das preliminares e nulidade da ação - Prescrição rejeitada - Valor corretamente imposto - Apelo improvido.
+Cuida-se, na origem, de ação de indenização ajuizada pela parte ora recorrida em desfavor da recorrente. A pretensão autoral foi julgada procedente.
+A sentença foi mantida pela Corte estadual no julgamento da apelação. Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial (fls. 5.284/5.310), a parte agravante indica contrariedade aos arts. 489, II, § 1º, II, 966, VII, e 1.022, II, do Código de Processo Civil.
+Aponta omissão no acórdão, quanto à: análise da admissão de fato inexistente; efeitos da revelia no processo trabalhista; cerceamento de defesa por negativa de produção probatória; ausência de contraditório; julgamento citra petita; formação da coisa julgada superveniente em processo conexo, regular constituição do condomínio.
+Contrarrazões apresentadas (fls. 5.284/5.310).
+O recurso especial não foi admitido na origem, ensejando a interposição do presente agravo.
+Assim delimitada a controvérsia, passo a decidir.
+Não merece prosperar o recurso da parte agravante.
+Inicialmente, no que diz respeito à alegação de deficiência na prestação jurisdicional, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Não é omissa nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia. Além disso, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento.
+O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. No caso, o Tribunal de origem, ao analisar o cerne da controvérsia, afastou as omissões apontadas e concluiu pela responsabilidade da parte agravante em indenizar o condomínio, sob a seguinte fundamentação (fls. 5.250/5.254):
+Ao relatório anterior, é acrescentado que a ação movida pelo Complexo Hospitalar Alvorada foi julgada procedente nos seguintes termos:
+"Ante o exposto, JULGO PROCEDENTE o pedido, nos termos do art. 487, I do CPC, para condenar a requerida ao pagamento de indenização por dano material no valor de R$ 60.923,28, corrigido desde o desembolso (16.08.2017) pela tabela do TJ SP e acrescido de juros de mora de 1% ao mês desde a citação."
+Não se contentando com esta decisão, apela Euza Maria Barbosa da Silva de Faria afirmando, em resumo: a) nulidade da sentença, por estar fundamentada em prova intempestiva, b) cerceamento ao direito de defesa, c) cerceamento ao direito de produzir provas e fundamentação em prova ilícita, d) ofensa ao princípio da isonomia. No mérito, argumenta que a culpa do ocorrido é exclusiva do autor. Pede também o reconhecimento da prescrição.
+ ..  De pronto, deve ser ressaltado que o fato não é controvertido. O que se discute é a responsabilidade ou não da requerida no acontecido.
+Imperioso ressaltar, de forma prefacial, que eventual vício na destituição da apelante somente pode ser analisado em ação própria e não nesta, pois, como acima afirmado, o caráter desta é indenização.
+ ..  É de ser observada, de outro modo, tal como já decidido nesta Câmara, a possibilidade do julgamento antecipado, estando presentes os requisitos legais, especialmente a desnecessidade de produção de provas.
+ ..  No caso, não havia a menor necessidade de produção de provas, pois as partes tinham efetuado-as e o fato, ressalto mais uma vez, era incontroverso.
+ ..  Não há fundamentação tanto em prova ilícita como em prova que deveria estar presente quando do ajuizamento da ação.
+Deveras, a parte pode juntar documentos ou qualquer outro meio de prova, desde que a parte adversa tenha acesso a ela e possa se manifestar.
+É o que ocorreu no caso presente em que a apelante teve conhecimento e pôde contrapor argumentos à sua validade.
+Também deve ser considerada lícita prova, pois cuida-se de reprodução de conversa havida entre presentes.
+ ..  A perícia pretendida não encontra fundamento lógico para o seu deferimento, pois em nada alteraria o que consta da gravação.
+Não ocorreu cerceamento ao direito de defesa eis que a apelante teve total acesso às provas e pode contrapô-las e manifestar-se sobre as mesmas. No mérito,o apelo não ostenta condições de ser acolhido.
+A responsabilidade da síndica somente deve ser reconhecida caso ela proceda de forma desleixada nos interesses do condomínio. Age com culpa grave.
+Não se pode olvidar a alusão efetuada na sentença: "O acórdão do TRT da 2ª região confirmou a sentença e teceu os seguintes comentários (fls. 1886):
+Restou incontroverso que a reclamante foi coagida a pedir demissão e que passou a ser alvo de ameaças e humilhações a partir do momento em que ficou grávida".
+Estabelecida a causa do despedimento e também sua ilegalidade, resta à causadora do ocorrido indenizar o condomínio.
+Como observado pelo Magistrado, apesar do grande volume de peças a questão posta é bastante simples, uma vez que já houve a admissão da ilegalidade da ação.
+Com relação à petição de fls. 3.693 e seguintes, deve ser observado que ela não afeta o exposto. Deveras, como acima ficou estipulado, a questão nesta ação resume-se a existência ou não de responsabilidade por parte da ex sindica.
+Quanto a esta circunstância, a única que importa para a decisão, não há fato novo.
+Em suma, as preliminares não vingam e, no mérito, deve a apelante responder pela indenização fixada na r. sentença. (destacou-se)
+Ao decidir os embargos de declaração, assim se manifestou a Corte local (fls. 5.280/5.281):
+A decisão impugnada estabeleceu que a sentença apresentou correta solução ao caso, não havendo vícios a serem sanados. Assim, negou provimento ao recurso de apelação.
+Nota-se que a recorrente insiste nas mesmas fundamentações de seu recurso de apelação, contudo, o julgado enfrentou esses pontos concluindo que, a despeito da revelia no processo trabalhista, as provas produzidas naquele feito e a este emprestadas foram suficientes para comprovar a conduta ilícita da ré.
+Ademais, constou expressamente que a prova não seria irregular, sendo respeitados a ampla defesa e o contraditório. Mais que isso: o que se vê é que a embargante busca anular a prova apenas por ser uma cópia, insistindo na realização de perícia. No entanto, em nenhuma linha sequer impugna seu conteúdo, isto é, não aponta o que teria sido adulterado a justificar a análise por um especialista, o que basta para manutenção de sua validade.
+Outrossim, destaca-se que todos os documentos juntados foram devidamente analisados, não sendo margeado o termo de rescisão, mas apenas considerado insuficiente para afastar o direito do condomínio autor.
+Da mesma forma, entendeu-se que a questão relacionada à denominação do condomínio deveria ser travada em ação própria. Cumpre consignar que o trânsito em julgado de ação diversa, que discute eventual irregularidade na constituição do condomínio, em nada altera a conclusão desta demanda. É de se dizer, entendeu-se pela legitimidade do condomínio para ajuizamento da ação, não havendo pleito em nome próprio de direito alheio, o que bastou para afastar a alegação de violação ao princípio da isonomia.
+Em suma, houve ponderação em torno da controvérsia e concluiu-se que a ré deveria ser responsabilizada, diante de sua conduta para com a funcionária. (destacou-se)
+Não se verifica, portanto, a omissão apontada.
+Consoante a iterativa jurisprudência do STJ, "O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade da produção de provas, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional  ..  Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado" (AgInt no AREsp n. 2.050.458/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 28/11/2022, DJe de 30/11/2022).
+Como se vê do excerto transcrito, o Tribunal de origem afastou os vícios apontados pela agravante, ao fundamento de que o magistrado sentenciante procedeu ao julgamento antecipado da lide com fundamento na existência de acervo probatório suficiente ao esclarecimento dos fatos, em observância aos princípios da ampla defesa e do contraditório.
+Concluiu a Corte local pela responsabilidade da agravante em indenizar a parte agravada, tendo em vista que por sua causa, conforme reconhecido em processo trabalhista, a ex-funcionária do condomínio foi coagida a pedir emissão e passou a ser alvo de ameaças e humilhações a partir de sua gravidez.
+Em tal moldura fática, a reapreciação de matéria no âmbito do recurso especial, de modo a infirmar os pressupostos adotados na Corte Local -, acerca da ausência dos vícios indicados e do dever indenizatório - encontra óbice na Súmula 7 do Superior Tribunal de Justiça. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. INDEFERIMENTO DE PROVA PERICIAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. CULPA DO CONDUTOR DO VEÍCULO DEMONSTRADA. PROPRIETÁRIO DO VEÍCULO. RESPONSABILIDADE RECONHECIDA. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. DANOS MATERIAIS. SÚMULA 7/STJ. DANOS MORAIS. VALOR RAZOÁVEL. VÍTIMA EM ESTADO VEGETATIVO. PENSÃO VITALÍCIA DEVIDA. CONSTITUIÇÃO DE CAPITAL. NECESSIDADE. JUROS DE MORA. TERMO INICIAL. SÚMULA 54/STJ. AGRAVO DESPROVIDO.
+ ..  4. A reforma do julgado quanto à comprovação dos danos materiais e ao cabimento de pensão vitalícia, demandaria o reexame do contexto fático-probatório, providência inviável no recurso especial, a teor da Súmula 7 do STJ.
+ ..  8. Agravo interno desprovido.
+(AgInt no AREsp n. 1.321.098/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. DANOS MORAIS. CERCEAMENTO DE DEFESA. NÃO VERIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. POSTAGEM EM REDE SOCIAL. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. SÚMULAS N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+2. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado.
+3. Rever a convicção formada pelo tribunal de origem acerca da prescindibilidade de produção da prova testemunhal requerida demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+ ..  6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.158.654/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. SÚMULA 7/STJ. OFENSA A RESOLUÇÕES. IMPOSSIBILIDADE. INADIMPLEMENTO CONTRATUAL. REEXAME. IMPOSSIBILIDADE. SÚMULA 5 E 7 DO STJ. RESCISÃO CONTRATUAL. SOCIEDADE EM CONTA DE PARTICIPAÇÃO. INVESTIMENTO FINANCEIRO. RELAÇÃO DE CONSUMO. INCIDÊNCIA DA LEGISLAÇÃO CONSUMERISTA. POSSIBILIDADE. INVESTIDOR OCASIONAL. COMPETÊNCIA DO FORO DO DOMICÍLIO DO CONSUMIDOR.
+ ..  2 - O propósito recursal consiste em dizer se: a) estaria configurado cerceamento de defesa; b) a competência para analisar processo de rescisão de contrato de sociedade em conta de participação seria de vara especializada; c) o foro competente para o julgamento da demanda, em não sendo acolhida a alegação de incompetência absoluta, seria aquele da sede da pessoa jurídica; d) haveria possibilidade de aplicação do Código de Defesa do Consumidor em hipótese de rescisão de contrato de sociedade em conta de participação; e e) caberia a devolução dos valores investidos ante o elevado risco do investimento.
+3- Encontrando-se delimitado o contexto fático-probatório no acórdão recorrido, evidenciando a desnecessidade e inutilidade da prova, rejeita-se a preliminar de cerceamento de defesa, pois rever a conclusão do Tribunal a quo no sentido de que era cabível o julgamento antecipado da lide encontra óbice no enunciado da Súmula 7 do STJ.
+ ..  10- Recurso especial conhecido em parte e, nessa extensão, não provido.
+(REsp n. 1.943.845/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/3/2022, DJe de 31/3/2022)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do artigo 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
