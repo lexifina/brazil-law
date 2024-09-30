@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCAS MULLER DE SOUZA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Amazonas.
+Neste writ, o impetrante pleiteia o trancamento da ação penal, assim como o relaxamento da prisão preventiva imposta ao ora paciente.
+É o relatório.
+De início, constata-se que o pedido de trancamento da ação penal não foi debatido pelo Tribunal de origem no julgamento do writ originário, o que impede o seu conhecimento por esta Corte, sob pena de incorrer em indevida supressão de instância.
+Sobre o tema:
+"Sob pena de incorrer em indevida supressão de instância, o Superior Tribunal de Justiça não pode conhecer teses que sequer foram debatidas pela Corte de origem." (AgRg no HC 807.880/SP, Relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/6/2023, DJe de 29/6/2023).
+"No tocante à alegada ausência de contemporaneidade entre os fatos e o decreto de custódia preventiva, observa-se que o Tribunal de origem não analisou o pleito, no julgamento do writ originário. Dessa forma, sua apreciação direta por esta Corte Superior fica obstada, sob pena de se incorrer em indevida supressão de instância." (AgRg no HC 800.656/PR, da minha relatoria, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023).
+"O Tribunal de origem não apreciou a alegação de nulidade da primeira decisão de autorização de captação ambiental por não ter declinado prazo determinado, bem como a alegação de que o Ministério Público teria dado nova capitulação sobre os mesmos fatos; ficando impossibilitada esta Corte Superior de apreciar os temas, sobrepujando a competência da Corte regional, sob pena de indevida supressão de instância." (AgRg no RHC 118.631/MG, Relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+"No que concerne à alegação acerca da ocorrência de excesso de prazo para a formação da culpa, "o exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC 725.396/SP, Quinta Turma, Rel. Ministro João Otávio de Noronha, DJe 06/04/2022-grifei)." (AgRg no HC 794.072/RS, Relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/5/2023, DJe de 25/5/2023).
+"Na hipótese dos autos, a irresignação da defesa não foi debatida na instância ordinária. Essa circunstância impede o pronunciamento desta Corte a respeito, sob pena de indevida supressão de instância." (AgRg no HC 696.456/SC, Relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/12/2021, DJe 10/12/2021).
+Quanto ao pedido de relaxamento da prisão preventiva, é manifesta a superveniente ausência de interesse de agir que atingiu esta impetração, pois, consoante informações prestadas às fls. 111-114 (e-STJ), verifica-se que, em 19/9/2024, a prisão preventiva imposta ao ora paciente foi relaxada, com a consequente expedição de alvará de soltura.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intime-se.
+EMENTA
