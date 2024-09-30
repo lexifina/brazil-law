@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. SEGURO. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. NULIDADE DA SENTENÇA POR FALTA DE PRODUÇÃO DE PROVAS. IMPROCEDÊNCIA. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem entendeu, com base no conjunto probatório dos autos, que improcedentes as alegações da recorrente, ora agravante, de vedação à decisão surpresa e de falta de oportunidade de entrega de documentos, a ensejar a nulidade da sentença, ao assentar, que, quando instada a especificar as provas que pretendia produzir, requereu o julgamento antecipado da lide.
+2. Logo, rever tal entendimento, a ensejar novo juízo acerca de fatos e provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, Incide, pois, no caso, a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. A necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por TOKIO MARINE SEGURADORA S.A. contra decisão monocrática por mim proferida, por meio da qual conheci do agravo para não conhecer do recurso especial da ora agravante, em razão da incidência da Súmula n. 7/STJ, por demandar análise de provas a pretensão da ora agravante de revisão do entendimento da Corte de origem de que improcedentes as alegações da recorrente, ora agravante, de vedação à decisão surpresa e de falta de oportunidade de entrega de documentos, a ensejar a nulidade da sentença, ao assentar, que, quando instada a especificar as provas que pretendia produzir, requereu o julgamento antecipado da lide (fls. 548-551).
+Acolhidos os embargos de declaração em parte, sem efeitos infringentes, somente para correção de erro material (fls. 567-570).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 365):
+SEGURO. Ação de cobrança. Indenização securitária. Sinistro em transporte de cargas. Prescrição de parte da pretensão. Tentativas de negociação, após a recusa oficial, que não interrompem o prazo prescricional. Sinistros e direito à indenização suficientemente comprovados. Sentença mantida, inclusive por seus próprios fundamentos, nos termos do artigo 252, do RITJ. RECURSOS NÃO PROVIDOS.
+Rejeitados os embargos de declaração opostos pela ora recorrente (fls. 430-434 e 447-451).
+No presente agravo interno, sustenta a agravante, em síntese, que "desconsiderou que o requerimento de julgamento antecipado por qualquer das partes não guarda relação de causa e efeito com ofenda à proibição da decisão surpresa (CPC, arts. 9º e 10), tampouco com a inversão da regra do ônus da prova (CPC, art. 373, I), de modo que a irrelevância do conjunto probatório dos autos para a aplicação de dispositivos processuais cogentes afasta a aplicação da Súmula nº 7/STJ ao caso" (fl. 576).
+Alega, ainda, que improcedente a incidência da Súmula n. 7 do STJ, no caso, porquanto não há necessidade de reanálise de prova, uma vez que as questões são estritamente de direito e, conforme alegado, não guardam relação de causa e efeito com requerimento de julgamento antecipado da lide.
+Sustenta que foi demonstrada a divergência jurisprudencial suscitada.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Não foram apresentadas contrarrazões ao agravo (fl. 607).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. SEGURO. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. NULIDADE DA SENTENÇA POR FALTA DE PRODUÇÃO DE PROVAS. IMPROCEDÊNCIA. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem entendeu, com base no conjunto probatório dos autos, que improcedentes as alegações da recorrente, ora agravante, de vedação à decisão surpresa e de falta de oportunidade de entrega de documentos, a ensejar a nulidade da sentença, ao assentar, que, quando instada a especificar as provas que pretendia produzir, requereu o julgamento antecipado da lide.
+2. Logo, rever tal entendimento, a ensejar novo juízo acerca de fatos e provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, Incide, pois, no caso, a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. A necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+No caso dos autos, a agravante insurge-se contra o entendimento do Tribunal de origem de que são improcedentes as alegações da recorrente, ora agravante, de vedação à decisão surpresa e de falta de oportunidade para entrega de documentos, o que ensejaria a nulidade da sentença, ao assentar que, quando instada a especificar as provas que pretendia produzir, requereu o julgamento antecipado da lide.
+Conforme relatado, o agravo em recurso especial foi conhecido para que não se conhecesse do recurso especial, em razão da incidência da Súmula n. 7/STJ, visto que a pretensão da ora agravante demandaria a análise de provas.
+O presente recurso não merece prosperar.
+Com efeito, conforme assentado na decisão agravada, a Corte de origem, com base no conjunto probatório dos autos, entendeu como improcedentes as alegações da recorrente, ora agravante, de vedação à decisão surpresa e de falta de oportunidade para entrega de documentos, o que ensejaria a nulidade da sentença, ao assentar que, quando instada a especificar as provas que pretendia produzir, requereu o julgamento antecipado da lide. Confira-se o seguinte excerto do acórdão recorrido (fl. 368):
+No mais, não há dúvidas quanto à relação jurídica entre as partes e a ocorrência dos sinistros, estando suficiente comprovado, nos termos da decisão recorrida, o direito da autora à indenização securitária. Anota-se que a seguradora, apesar de alegar nulidade da sentença por vedação à decisão surpresa e ausência de entrega de documentos essências à regulação dos sinistros pela autora, quando instada a especificaras provas que pretendia produzir, requereu o julgamento antecipado.
+Assim, rever tal entendimento, a eventualmente ensejar novo juízo acerca dos fatos e das provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, mutatis mutandis, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+2. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção das provas tidas por desnecessárias pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que considerar necessária à formação de seu convencimento. Precedentes. (AgInt no AREsp n. 2.202.801/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/10/2023, DJe de 3/11/2023).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). Para modificar o acórdão impugnado quanto à suficiência das provas apresentadas e à inexistência de cerceamento de defesa, demandaria o reexame do conjunto fático-probatório, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.127.709/MA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Outrossim, conforme também assentado na decisão agravada, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei, assim a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ALEGADA IMPENHORABILIDADE DO BEM DE FAMÍLIA. TESE REJEITADA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. MULTA DO ART. 1.021. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência do óbice da Súmula n. 283 do Supremo Tribunal Federal à hipótese.
+2. Não apontado o dispositivo legal tido por violado, incide o enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+3. A alteração da orientação firmada no aresto impugnado só seria possível mediante o revolvimento do acervo fático-probatório do respectivo processo, providência vedada nesta instância extraordinária em decorrência do disposto na Súmula 7 do Superior Tribunal de Justiça.
+4. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015 quando não comprovada a manifesta inadmissibilidade ou improcedência do pedido.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.335.203/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
