@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15), interposto por UNIMED DE SANTOS COOPERATIVA DE TRABALHO MÉDICO, contra decisão que negou seguimento ao recurso especial.
+O apelo nobre, fundamentado na alínea "a" do permissivo constitucional, visa reformar o acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 367, e-STJ):
+Apelação Cível  Plano de Saúde - Sentença de parcial procedência  apelo da autora e da ré - Apelo da ré - Negativa de cobertura de pagamento dos honorários dos profissionais que realizaram cirurgia de osteoplastia na autora, sob o argumento de ausência de previsão contratual  Abusividade da negativa  Autora portadora de anormalidade dentofacial funcional, com indicação de cirurgia para tratamento da deformidade - Necessidade do procedimento devidamente comprovada pelo profissional de saúde  Expressa previsão contratual que contempla o custeio do tratamento, além de constar no rol de procedimentos obrigatórios da ANS  Abusividade da Negativa - As obrigações assumidas pelos que atuam no ramo da saúde, voltam-se a garantir o direito fundamental à vida, cuja negativa afeta a própria natureza do ajuste firmado entre as partes - Precedentes deste Egrégio Tribunal de Justiça de
+São Paulo - Apelo da autora - Danos morais  Configuração  Conduta abusiva da ré que ensejou no dever de indenizar  Fixação em R$ 10.000,00, em observância aos princípios da razoabilidade e proporcionalidade  Precedentes desta Colenda 9a Câmara de Direito Privado - Condenação da ré ao pagamento das custas e despesas processuais, e honorários advocatícios fixados em 15% sobre o valor da condenação- Sentença reformada  Recurso da autora provido  Desprovido o recurso da ré.
+Nas razões do especial (fls. 379-395, e-STJ), a agravante aponta violação dos arts. 186, 188, I, 927 e 944 do CC. Sustenta, em síntese, que não houve prática de ato ilícito que enseje indenização por danos morais.
+Sem contrarrazões (certidão às fls. 401, e-STJ).
+Em juízo de admissibilidade (fl. 402-403, e-STJ), negou-se seguimento ao recurso, dando ensejo na interposição do agravo previsto no artigo 1.042, CPC/15 (fls. 406-416, e-STJ), no qual a insurgente pretende a reforma da decisão impugnada.
+Sem contraminuta (certidão às fls. 420, e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Da leitura do acórdão recorrido, nota-se que o Tribunal local, à luz dos elementos de prova que instruem os autos, consignou ser ilícita a negativa de cobertura, na medida em que havia expressa previsão contratual que determinava o custeio do tratamento. Veja-se (fl. 372, e-STJ):
+Pois bem, restou suficientemente demonstrado nos autos a necessidade de realização de cirurgia para tratamento da deformidade acometida pela autora, e, contrariamente ao que argumentou a ré, há previsão expressa de cobertura para realização do referido procedimento, notadamente, na cláusula 18, inciso IX do contrato particular de prestação de serviços médicos celebrado entre as partes18, pontos estes que foram devidamente observados pelo magistrado "a quo", conforme se extrai do trecho da fundamentação da r. sentença abaixo transcrita.
+Na sequência, consignou que o ato ilícito em comento gerou efetivo abalo a direitos da personalidade, a ensejar a fixação de compensação por danos morais (fl. 374, e-STJ):
+Com efeito, não há como se ignorar que a autora passou por situação que foge da esfera do mero aborrecimento, pois, quando procurou a ré para que esta autorizasse o custeio do tratamento que lhe foi indicado, teve seu pedido indevidamente negado causando espera e frustação num momento de dor e de sorte a causar violação da dignidade da pessoa humana.
+Nesse contexto, entende-se que o acolhimento da pretensão recursal demandaria a revisão da premissa acima disposta. Para tanto, todavia, é imprescindível o revolvimento de matéria probatória, providência vedada na presente instância recursal, nos termos das Súmulas 5 e 7 do STJ. Precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. PLANO DE SAÚDE. CÂNCER. TRATAMENTO. COBERTURA. RECUSA. DANOS MORAIS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.
+INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.1. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+2. O usuário faz jus à indenização por danos morais se o descumprimento contratual, pela operadora de saúde, resultar em negativa indevida de cobertura e, dessa recusa, decorrer agravamento de sua dor, abalo psicológico ou prejuízos à sua saúde debilitada.
+Precedentes.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3.1. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que a parte agravada foi exposta, ante a recusa de custeio do tratamento de saúde, ultrapassou o mero dissabor.
+Alterar esse entendimento demandaria o reexame de provas, inviável em recurso especial.4. Agravo interno que se nega provimento.
+(AgInt no AREsp n. 2.560.690/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+2. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários advocatícios arbitrados na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
+EMENTA
