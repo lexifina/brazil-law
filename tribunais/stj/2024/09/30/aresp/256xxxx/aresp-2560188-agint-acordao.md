@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARGUIÇÃO GENÉRICA. FUNDAMENTO DO ACÓRDÃO RECORRIDO. FALTA DE IMPUGNAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A alegação genérica de ofensa ao art. 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia, atrai a aplicação da Súmula 284 do STF.
+2. Conforme entendimento sedimentado na Súmula 283 do STF, não se conhece de recurso especial quando inexistente impugnação específica a fundamento autônomo consignado no acórdão recorrido.
+3. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando o conteúdo dos preceitos legais tidos por violados não é examinado na origem, mesmo após a oposição de embargos de declaração.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ESCRITÓRIO TÉCNICO CONTÁBIL SÃO BENEDITO LTDA. contra decisão em que conheci do agravo para não conhecer do recurso especial, por deficiência de fundamentação (Súmula 284 do STF), por falta de impugnação de fundamento do acórdão recorrido (Súmula 283 do STF) e por ausência de prequestionamento (Súmula 211 do STJ).
+No  agravo  interno  (e-STJ  fls.  119/125) ,  o  agravante defende que "Houve  ..  a indicação específica e precisa do vício existente no acórdão recorrido, não havendo que se falar em deficiência na fundamentação do recurso especial, o que afasta a pretendida aplicação da Súmula 284 STF" (e-STJ fl. 120). Sustenta, ainda, que "O fundamento de que não houve ofensa ao direito de defesa do executado foi devidamente impugnado no recurso especial" (e-STJ fl. 121). Por fim, alega que "A falta de constituição do crédito tributário, que foi alegada pela Recorrente, ora Agravante, foi devidamente abordada no acórdão recorrido" (e-STJ fl. 122).
+Não houve impugnação.
+É  o  relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARGUIÇÃO GENÉRICA. FUNDAMENTO DO ACÓRDÃO RECORRIDO. FALTA DE IMPUGNAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A alegação genérica de ofensa ao art. 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia, atrai a aplicação da Súmula 284 do STF.
+2. Conforme entendimento sedimentado na Súmula 283 do STF, não se conhece de recurso especial quando inexistente impugnação específica a fundamento autônomo consignado no acórdão recorrido.
+3. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando o conteúdo dos preceitos legais tidos por violados não é examinado na origem, mesmo após a oposição de embargos de declaração.
+4. Agravo interno desprovido.
+VOTO
+No  caso  dos  autos,  o  recurso  especial  foi  interposto  contra  acórdão  assim  ementado  (e-STJ fl. 28):
+AGRAVO DE INSTRUMENTO - Execução fiscal - ISS dos exercícios de 2014 a 2018 - Exceção de pré-executividade parcialmente acolhida. 1) Afastada a alegação de nulidade das CDAs - Inexistência de defeitos nos títulos executivos a inviabilizar a execução - Atendimento aos pressupostos legais insculpidos nos artigos 202 do CTN e 2º, § 5º, da Lei nº 6.830/80 - Presunção de liquidez e certeza não ilidida. 2) Condenação da excipiente ao pagamento de honorários advocatícios sucumbenciais - Descabimento- Decisão que acolheu parcialmente a exceção de pré-executividade - Prosseguimento da execução - Honorários devidos apenas pela Municipalidade - Precedentes do STJ - Decisão parcialmente reformada - Recurso parcialmente provido.
+Eis os  fundamentos  do  voto  condutor  do  acórdão  recorrido  (e-STJ fls. 29/33):
+Inicialmente, não há que se falar em nulidade das CDAs, na medida em que os títulos executivos atendem aos pressupostos legais insculpidos nos artigos 202 do CTN e 2º, § 5º, da Lei nº 6.830/80, mostrando-se aptos a conduzir a execução fiscal.
+Mesmo que assim não fosse, modernamente, não mais se adere à ritualística formal em detrimento da substância do ato, pois, colidindo esses dois fatores, o segundo deve prevalecer sobre o primeiro.
+Em outros dizeres, a substância dos atos se sobrepõe em relação a eventuais defeitos formais, porquanto, dentro de uma interpretação que leve em conta a efetividade do processo e o princípio da instrumentalidade dos atos, não tem mais espaço o formalismo exacerbado, que em nada contribui para a aplicação da justiça.
+Nesse sentido se tem inclinado a jurisprudência ao iluminar as regras processuais com uma interpretação que leva em consideração o caráter instrumental e teleológico, afastando-se da exegese literal para se aproximar da "tese de que os requisitos formais que a lei impõe à Certidão de Dívida Ativa têm a finalidade precípua de identificar a exigência tributária e proporcionar meio ao executado de defender-se contra ela," conforme se pode observar de julgados do STF, colacionados por Humberto Theodoro Júnior (Lei de Execução Fiscal. 13ªed. São Paulo: Saraiva, 2016, p. 52).
+O Ministro Castro Meira, no julgamento do AgRg no Ag1153617/SC, aplicou expressamente o princípio da instrumentalidade dos atos quando decidiu que "a existência de vícios formais na Certidão de Dívida Ativa apenas leva a sua nulidade se causar prejuízo ao exercício do direito de ampla defesa", sendo certo que não se deve exigir que se cumpram com rigor as formalidades sem que esteja devidamente demonstrado o prejuízo havido com a preterição da forma (Segunda Turma; AgRg no Ag nº 1.153.617/SC; Rel. Ministro Castro Meira; j. 25/08/2009; DJE: 14/09/2009).
+Dentro desse contexto e analisando o caso presente, verifica-se que a maneira como as CDAs foram elaboradas não comprometeu as suas essências nem inviabilizou o exercício do direito de defesa da executada.
+Isto porque os títulos indicam adequadamente o tributo cobrado bem como a sua origem, os exercícios dos lançamentos, as datas de vencimento e de inscrição, os valores dos débitos e dos consectários da mora, assim como os fundamentos legais das cobranças e dos seus respectivos encargos (fls. 02/06 dos autos originários).
+Com isso, inexistindo argumento contundente apto a desbancar a legitimidade das CDAs, prevalece a certeza e liquidez dos títulos, nos termos dos artigos 3º da Lei nº 6.830/80 e 204 do CTN.
+No recurso especial, o recorrente sustentou violação do art. 1.022, II, do CPC/2015, alegando omissão do acórdão recorrido quanto ao exame de argumento relacionado à ausência de constituição do crédito e com relação à manifestação expressa a respeito de dispositivos legais para fins de prequestionamento. Além disso, apontou ofensa aos arts. 142; 145; 202, III; 203; 204, parágrafo único, todos do CTN, bem como ao art. 2º, § 5º, III, e ao art. 3º, parágrafo único, da LEF, defendendo, em síntese, a nulidade da certidão de dívida ativa (CDA), por falta de seus requisitos legais e por ausência da constituição do crédito tributário.
+Pois  bem.
+A  decisão  recorrida  deve  ser  mantida  por  seus  próprios  fundamentos.
+No que diz respeito à alegada violação do art 1.022 do CPC/2015, o recorrente afirma basicamente que o acórdão recorrido incorreu em omissão quanto à análise de argumentação relativa à constituição do crédito e quanto a dispositivos legais para fins de prequestionamento.
+Logo, vê-se que o recorrente deduz alegação genérica a respeito das supostas omissões.
+E sta Corte de Justiça tem decidido, reiteradamente, que a alegação de vício de integração deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado e da relevância ao deslinde da controvérsia.
+A inobservância dessa exigência impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes AgInt no AREsp 1245152/PE, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 08/10/2018, REsp 1627076/SP, relator Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 14/08/2018, AgInt no AREsp 1134984/MG, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 06/03/2018 e AgInt no REsp 1720264/MG, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 21/09/2018.
+Com relação aos demais dispositivos apontados como violados -arts. 142; 145; 202, III; 203; 204, parágrafo único, todos do CTN, bem como ao art. 2º, § 5º, III, e ao art. 3º, parágrafo único, da LEF -, verifica-se que o acórdão recorrido entendeu que não houve comprometimento do direito de defesa do executado.
+Contudo, o recorrente não impugnou esse fundamento.
+Como se sabe, a falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles."
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+No que diz respeito à tese relacionada à constituição do crédito, ressente-se o recurso especial do devido prequestionamento, já que sobre tais normas (e a respectiva tese) não houve emissão de juízo pelo acórdão recorrido, a despeito da oposição de embargos declaratórios, fazendo incidir o óbice constante na Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PARA O FUNDO DE INVESTIMENTO SOCIAL - FINSOCIAL. ALÍQUOTA SUPERIOR A 0,5%. TÍTULO EXECUTIVO JUDICIAL. ACÓRDÃO RECORRIDO PELA NECESSIDADE DE LIQUIDAÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula 211 do STJ).
+4. Conforme orientação jurisprudencial deste Tribunal Superior, "os DARF"s acostados aos presentes autos não possuem qualquer informação acerca do faturamento do contribuinte, conquanto estampem o valor recolhido. Assim, não obstante provarem os documentos de arrecadação fiscal o pagamento do Finsocial, não logram comprovar se esse recolhimento foi superior à alíquota de 0,5%" (AgRg no REsp n. 720.182/GO, relator Ministro Luiz Fux, Primeira Turma, julgado em 8/11/2005, DJ de 19/12/2005).
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.057.558/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+Por fim, o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise, razão pela qual deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015.
+Ante  o  exposto,  NEGO  PROVIMENTO  ao  agravo  interno.
+É  como  voto.
