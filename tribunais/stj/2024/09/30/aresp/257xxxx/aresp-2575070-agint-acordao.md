@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  LAUDO  PERICIAL.  IMPUGNAÇÃO.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  DISSÍDIO.  PREJUDICADO.
+1.  Na  hipótese,  rever  a  conclusão  do  aresto  impugnado  no  que  concerne  à  alegação  de  erro  na  elaboração  do  laudo  pericial  demandaria  o  reexame  fático-probatório  dos  autos,  a  atrair  o  óbice  da  Súmula  nº  7/STJ.
+2.  A  aplicação  da  Súmula  nº  7/STJ  em  relação  ao  recurso  especial  interposto  pela  alínea  "a"  do  permissivo  constitucional  prejudica  a  análise  da  mesma  matéria  indicada  no  dissídio  jurisprudencial.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  JAIME  BASSO  e  MARIA  INÊS  ANZILIERO  BASSO  contra  a  decisão  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  devido  à  incidência  da  Súmula  nº  7/STJ  e  não  demonstrado  o  dissenso  jurisprudencial  (e-STJ  fls.  354/359).
+Em  suas  razões,  os  agravante  s  sustentam  a  inaplicabilidade  do  óbice  invocado,  haja  vista  a  prescindibilidade  do  reexame  da  matéria  fática  e  da  necessidade  da  correta  aplicação  do  direito  ao  caso  concreto.
+Afirma  a  existência  de  erro  no  laudo  pericial,  decorrente  da  impossibilidade  de  realizar  o  cálculo  dos  valores  devidos,  pois  o  banco  agravado  não  apresentou  os  extratos  de  pagamento  que  demonstram  a  quitação  dos  contratos  discutidos.
+Defende  a  aplicabilidade  do  art.  396  do  Código  de  Processo  Civil,  tendo  em  vista  a  sua  hipossuficiência  para  apresentar  os  extratos  necessários  à  realização  dos  cálculos.
+Aduz  que  a  manutenção  do  laudo  pericial  homologado  pelo  aresto  combatido  lhe  trará  prejuízos  irreparáveis  e  ensejará  o  enriquecimento  sem  causa  do  banco  agravado.
+Assevera  inexistir  o  impedimento  da  Súmula  nº  284/STF,  visto  que  a  violação  do  artigo  de  lei  federal  foi  amplamente  demonstrada.
+Por  fim,  alega  que  o  tribunal  de  origem  deu  interpretação  divergente  ao  mesmo  dispositivo  legal  e  contrária  ao  entendimento  do  Superior  Tribunal  de  Justiça.
+Impugnação  às  e-STJ  fls.  379/391.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  LAUDO  PERICIAL.  IMPUGNAÇÃO.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  DISSÍDIO.  PREJUDICADO.
+1.  Na  hipótese,  rever  a  conclusão  do  aresto  impugnado  no  que  concerne  à  alegação  de  erro  na  elaboração  do  laudo  pericial  demandaria  o  reexame  fático-probatório  dos  autos,  a  atrair  o  óbice  da  Súmula  nº  7/STJ.
+2.  A  aplicação  da  Súmula  nº  7/STJ  em  relação  ao  recurso  especial  interposto  pela  alínea  "a"  do  permissivo  constitucional  prejudica  a  análise  da  mesma  matéria  indicada  no  dissídio  jurisprudencial.
+3.  Agravo  interno  não  provido.
+VOTO
+A  insurgência  não  merece  prosperar.
+De  início,  importa  consignar  que,  pelas  razões  do  agravo  interno,  nem  sequer  é  possível  saber  qual  é  a  tese  esposada  no  recurso  especial,  à  míngua  de  indicação  clara  e  objetiva  de  qual  dispositivo  legal  teria  sido  maculado  pelo  aresto  recorrido.
+Conforme  consignado  na  decisão  ora  atacada,
+"(..)  a  parte  recorrente  alega  violação  e  interpretação  divergente  do  art.  477,  §  2º,  do  CPC,  no  que  concerne  à  ocorrência  de  cerceamento  de  defesa,  haja  vista  a  imprescindibilidade  de  esclarecimentos  pelo  perito  quando  levantada  a  controvérsia  pelo  assistente  técnico  das  partes"  (e-STJ  fl.  355).
+O  recurso  especial  não  foi  conhecido  ante  o  óbice  da  Súmula  nº  7/STJ,  pois  a  análise  dos  argumentos  esposados  pelos  recorrentes,  em  confronto  com  os  fundamentos  adotados  pelo  tribunal  estadual,  exigiria  a  incursão  no  acervo  fático-probatório  dos  autos,  procedimento  inviável  nesta  instância  especial.
+Com  efeito,  o  acórdão  recorrido  solucionou  a  lide  nos  seguintes  termos:
+"(..)
+Na  sequência,  o  suplicante  requereu  a  abertura  da  fase  de  liquidação  (p.  1038;  0368920-62.2008.8.12.0001),  a  qual  foi  admitida  por  arbitramento,  designando  a  empresa  "AP  Contabilidade  &  Perícia",  para  o  labor  e  apresentação  de  documentos  indicados  pelo  credor  (p.  1164-1165;  0368920-62.2008.8.12.0001).
+A  firma  responsável  do  trabalho  técnico  apresentou  laudo,  o  qual  foi  devidamente  impugnado  pelas  partes,  no  que  o  primeiro  acabou  por  prestar  esclarecimentos,  concluindo  o  seguinte  (p.  1214-1234;  1239-1244;  1277-1293;1297-1304;  0368920-62.2008.8.12.0001):  "(..)No  que  tange  aos  argumentos  trazidos  pelo  requerente  às  fls.1277/1293,  este  apenas  solicita  que  este  perito,  requeira  ao  juízo,  a  intimação  da  parte  requerida  para  que  disponibilize  os  demonstrativos  de  pagamento.
+Assim,  conforme  já  informado  no  laudo  pericial,  por  meio  dos  extratos  bancários  não  há  como  identificar  com  precisão  os  pagamentos  realizados  com  os  contratos  formalizados,  pois  não  há  número  de  identificação  nestes.
+Embora  este  Douto  Juízo  já  tenha  intimado  a  apresentar  os  mencionados  comprovantes,  a  decisão  não  foi  atendida,  sendo  assim,  caso  a  instituição  financeira  os  disponibilize,  este  Perito  fica  a  disposição  para  realizar  a  complementação  necessária.
+Por  estas  razões,  RATIFICA-SE  os  cálculos  apresentados  em  fls.1214/1234  dos  autos,  atualizados  para  28/02/2021,  nos  quais  apontou-  se  que  a  parte  requerente  teria  um  crédito  correspondente  a  R$260.196,16  (duzentos  e  sessenta  mil,  cento  e  noventa  e  seis  reais  e  dezesseis  centavos).
+Esta  empresa  espera  ter  correspondido  à  confiança  depositada,  ficando  à  disposição  para  prestar  quaisquer  outros  esclarecimentos  necessários.(..)  "Em  vista  das  descrições  acima,  bem  como  do  teor  da  decisão  atacada,  é  possível  constatar  que,  diversamente  da  aparente  alegação  do  suplicante  de  que  não  teria  sido  analisado  pelo  Juízo  singular  a  sua  impugnação  à  perícia,  houve  sim,  exame,  tanto  que  aquela  foi  rejeitada,  homologando-se  cálculo.
+Ademais,  como  recorrido  não  promoveu  a  juntada  dos  extratos,  oportunizou-se  ao  recorrente  a  elaboração  de  seus  cálculos  (p.  1035;0368920-62.2008.8.12.0001),  nos  seguintes  termos:  "Diante  da  inércia  da  parte  executada,  apesar  de  devidamente  intimada,  a  parte  exequente  deverá  elaborar  seus  cálculos  nos  termos  art.  524,  §  5º  do  CPC  1  ,  em  30  (trinta)  dias."  Neste  passo,  como  se  observa  do  laudo,  os  expedientes  colacionados  ao  longo  do  feito  foram  suficientes  para  a  respectiva  elaboração.
+Logo,  não  se  justifica  o  pedido  de  intimação  da  empresa  técnica  para  esclarecimento  concernente  à  contrariedade  mais  recente  ao  seu  trabalho  e  nem  o  requerimento  subsidiário  de  reconhecimento  de  equívoco  neste"  (e-STJ  fls.  356/357).
+Nesse  cenário,  verifica-se  que  rever  o  entendimento  firmado  pelas  instâncias  ordinárias,  a  fim  de  reconhecer  a  existência  de  erro  no  laudo  pericial,  demandaria  o  reexame  dos  fatos  e  das  provas  dos  autos,  tal  como  afirmado  pela  decisão  ora  agravada.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  CIVIL  E  PROCESSUAL  CIVIL.  NOVA  PROVA  PERICIAL.  SÚMULA  7  DO  STJ.  UTILIZAÇÃO  DO  IMÓVEL  POR  FILHOS  COMUNS.  PEQUESTIONAMENTO.  AUSÊNCIA.  EX-CÔNJUGE.  IMÓVEL  COMUM.  OCUPAÇÃO  EXCLUSIVA.  ALUGUEL.  ARBITRAMENTO.  POSSIBILIDADE.  PARTILHA.  DESNECESSIDADE.  JULGAMENTO  ULTRA  PETITA.  AUSÊNCIA.
+1.  Derruir  a  conclusão  do  Tribunal  a  quo  no  sentido  de  que  o  laudo  pericial  se  encontra  devidamente  fundamentado,  revelando-se  hábil  a  amparar  a  convicção  do  julgador  e  a  afastar  a  necessidade  de  nova  perícia,  demandaria  o  reexame  de  fatos  e  provas  o  que  é  vedado  pelo  enunciado  da  Súmula  7  do  STJ.
+(..)
+5.  Agravo  interno  não  provido"  (AgInt  no  REsp  2.048.364/SP,  Rel.  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  julgado  em  17/4/2023,  DJe  de  19/4/2023  -  grifou-se).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  COMINATÓRIA.  DIREITO  DE  VIZINHANÇA.  VIOLAÇÃO  AO  ART.  5º  DA  CF.  IMPOSSIBILIDADE  DE  ANÁLISE  DE  OFENSA  A  DISPOSITIVO  CONSTITUCIONAL.  CERCEAMENTO  DE  DEFESA.  NÃO  OCORRÊNCIA.  REEXAME  DE  FATOS  E  PROVAS.  IMPOSSIBILIDADE.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Não  é  cabível  recurso  especial  por  ofensa  a  norma  constitucional,  pois  se  trata  de  competência  do  col.  Supremo  Tribunal  Federal.
+2.  Na  hipótese,  o  Tribunal  de  origem  concluiu  pela  ausência  de  cerceamento  de  defesa  e  entendeu  desnecessária  a  realização  de  nova  prova  pericial,  porque  o  laudo  pericial  realizado  em  produção  antecipada  de  provas  se  mostrou  suficiente  para  o  deslinde  do  feito,  ficando  demonstrada  a  responsabilidade  dos  réus  pelos  danos  ocorridos  no  imóvel  do  autor.  A  alteração  de  tal  entendimento  demandaria  o  reexame  do  contexto  fático-probatório  dos  autos,  o  que  é  defeso  na  via  estreita  do  recurso  especial,  a  teor  do  disposto  na  Súmula  7  do  STJ.
+3.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  1.794.327/SP,  Rel.  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  7/6/2021,  DJe  de  1º/7/2021  -  grifou-se).
+Não  se  olvide  que
+"(..)  o  magistrado  é  o  destinatário  das  provas,  cabendo-lhe  apreciar  a  necessidade  da  produção  de  provas,  sendo  soberano  para  formar  seu  convencimento  e  decidir  fundamentadamente,  em  atenção  ao  princípio  da  persuasão  racional"  (AgInt  no  AREsp  n.  2.050.458/SP,  Relator  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  28/11/2022,  DJe  de  30/11/2022).
+Além  disso,  conforme  iterativa  jurisprudência  desta  Corte,  a  necessidade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+A  propósito:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  INDENIZAÇÃO  POR  DANOS  MORAIS  E  MATERIAIS.  RESPONSABILIDADE  PELO  FATO  DO  PRODUTO  E  DO  SERVIÇO.  RESCISÃO  CONTRATUAL.  REVISÃO.  PRETENSÃO  DE  REEXAME  DA  CAUSA.  REEXAME  DE  PROVAS.  IMPOSSIBILIDADE.  SÚMULA  N.  7  DO  STJ.  DEFEITO  DE  SEGURANÇA.  PRAZO  PRESCRICIONAL.  QUINQUENAL.  QUANTUM  INDENIZATÓRIO.  ENRIQUECIMENTO  ILÍCITO.  PRETENSÃO  DE  REEXAME  DA  CAUSA.  REEXAME  DE  PROVAS.  IMPOSSIBILIDADE.  SÚMULA  N.  7  DO  STJ.  AUSÊNCIA  DE  VIOLAÇÃO  DO  ART.  1.022  DO  NCPC.  DISSÍDIO  JURISPRUDENCIAL  NÃO  CONFIGURADO.  AGRAVO  INTERNO  NÃO  PROVIDO.
+(..)
+6.  A  jurisprudência  desta  Corte  firmou  o  entendimento  de  que  não  é  possível  o  conhecimento  do  apelo  nobre  interposto  pela  divergência,  na  hipótese  em  que  o  dissídio  é  apoiado  em  fatos,  e  não  na  interpretação  da  lei.  Isso  porque  a  Súmula  n.  7  do  STJ  também  se  aplica  aos  recursos  especiais  interpostos  pela  alínea  c  do  permissivo  constitucional.
+7.  Agravo  interno  não  provido"  (AgInt  no  AREsp  2.389.675/BA,  Rel.  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  2/9/2024,  DJe  de  4/9/2024).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  FORNECIMENTO  DE  MEDICAMENTO.  RECUSA  INDEVIDA.  DANOS  MORAIS.  CARACTERIZAÇÃO.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  N.  7  DO  STJ.  QUANTUM  INDENIZATÓRIO.  PROPORCIONALIDADE.  REVISÃO.  SÚMULA  N.  7  DO  STJ.  DISSÍDIO  JURISPRUDENCIAL.  ANÁLISE  PREJUDICADA.  AGRAVO  INTERNO  DESPROVIDO.
+(..)
+3.  A  incidência  de  óbices  sumulares  quanto  à  interposição  pela  alínea  a  do  permissivo  constitucional  impede  o  conhecimento  do  recurso  especial  pela  divergência  jurisprudencial  sobre  a  mesma  questão.
+4.  Agravo  interno  desprovido"  (AgInt  no  AREsp  2.536.053/SP,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  2/9/2024,  DJe  de  4/9/2024).
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
