@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interno, interposto por CLARO S.A., contra a decisão monocrática de fls. 1170-1177, e-STJ, da lavra deste signatário que negou provimento ao recurso especial da ora agravante.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 82-83, e-STJ):
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. REDUÇÃO DE ASTREINTES VENCIDAS QUE SÓ É POSSÍVEL QUANDO HOUVER VÍCIO DE LEGALIDADE NO ARBITRAMENTO, MAS NÃO PARA A REVISÃO DE SUA FORÇA INDUTIVA, CONFORME ART. 537, §1º DO NOVO CÓDIGO DE PROCESSO. INVIABILIDADE DE, APÓS A MULTA ATINGIR PATAMAR EXORBITANTE E, PORTANTO, FRACASSAR EM SEU PAPEL COERCITIVO, RECONHECER QUE ERA RAZOÁVEL VALOR UNITÁRIO AINDA MAIS BAIXO. SE SOMENTE O CONTROLE DE JURIDICIDADE PODE SER REALIZADO, O PARÂMETRO TEMPORAL DE RAZOABILIDADE DEVE SE PROJETAR AO TEMPO EM QUE FOI IMPOSTA A MEDIDA. JURISPRUDÊNCIA UNÂNIME DO COL. STJ. PRECEITO COMINATÓRIO ACOMODADO EM R$ 300,00 (TREZENTOS REAIS) DIÁRIOS NO CASO CONCRETO, PARA O RESTABELECIMENTO, NO PRAZO DE TRÊS DIAS, DE 74 (SETENTA E QUATRO) LINHAS TELEFÔNICAS. PROPORCIONALIDADE BEM OBSERVADA. NECESSIDADE, CONTUDO, DE LIMITAR O PERÍODO DE DESCUMPRIMENTO ATÉ A DATA DA SENTENÇA QUE DECRETOU A RESCISÃO DO CONTRATO ENTRE AS PARTES, DIANTE DA INSUBSISTÊNCIA DA LIMINAR QUE DETERMINAVA A PRESTAÇÃO DO SERVIÇO. INCOMPOSSIBILIDADE LÓGICA ENTRE AS DECISÕES. REVOGAÇÃO TÁCITA DA TUTELA PROVISÓRIA PELA SENTENÇA DEFINITIVA. SUBTRAÇÃO DOS DIAS EM QUE, CONFESSADAMENTE, FUNCIONARAM AS LINHAS. NO MAIS, O QUANTUM SÓ PODE SOFRER A INCIDÊNCIA DE CORREÇÃO MONETÁRIA, MERA RECOMPOSIÇÃO DAS PERDAS INFLACIONÁRIAS. JUROS QUE TÊM O MESMO FATO GERADOR DA MULTA (A MORA) E, PORTANTO, NÃO DEVEM SER COMPUTADOS, SOB PENA DE BIS IN IDEM. PRECEDENTES DESTE EG. TJRJ. PROVIMENTO PARCIAL DOS AGRAVOS.
+Os embargos de declaração foram rejeitados (fls. 218-223 e 270-275, e-STJ).
+Nas razões de recurso especial (fls. 291-313, e-STJ), alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: i) artigos 236, 507, 508, 536, 537, § 1º do CPC/15, aduzindo a ilegalidade da pretensão de recebimento dos valores a título de astreintes, pois não houve a confirmação da tutela; e ii) artigo 461 do CPC/73, postulando a redução do valor fixado a título de astreintes, pois distante dos princípios da razoabilidade e proporcionalidade.
+Foram apresentadas contrarrazões (fls. 676-705, e-STJ)
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre (fls. 630-636, e-STJ).
+Inconformada, interpôs o agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 706-747, e-STJ.
+Em decisão monocrática (fls. 1170-1177, e-STJ), negou-se provimento ao agravo em recurso especial, pela falta de prequestionamento, bem como pela incidência do óbice da Súmula 7/STJ.
+Daí o presente agravo interno (fls. 1208-1236, e-STJ).
+Também foi apresentado agravo interno às fls. 1266-1286, e-STJ.
+É o relatório.
+Decide-se.
+1. Com efeito, com o acolhimento dos embargos de declaração opostos por VIRTUAL INFORMÁTICA E TECNOLOGIA LTDA, a fim de retornar os autos à origem e analisar a ofensa ao artigo 1022 do CPC, torna-se prejudicada a análise do presente agravo interno, tendo em vista que o julgamento do recurso especial da ora embargante encontra-se prejudicado.
+1.1. Com efeito, o provimento parcial do recurso especial interposto pelos ora agravados, com o acolhimento da tese de violação do artigo 1022 do CPC/15, e a determinação de rejulgamento dos embargos de declaração, torna prejudicada a análise do recurso especial.
+A determinação de reapreciação, pela instância ordinária, dos embargos de declaração da parte adversa, poderá importar na alteração/integração do supracitado acórdão, o que torna prejudicado o exame do recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL PREJUDICAD O PELO PROVIMENTO DE OUTRO RECURSO ESPECIAL ONDE FOI APONTADA VIOLAÇÃO DO ART. 535 DO CPC. 1. Ocasião em que o provimento do recurso especial da parte adversa por violação ao art. 535, do CPC, prejudica o conhecimento do outro recurso especial interposto no mesmo processo, já que determina o retorno dos autos ao Tribunal de origem para completar o julgamento. 2. Agravo regimental não provido. (AgRg no REsp 963.245/PB, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21.05.2009, DJe 04.06.2009)
+Assim, tem-se como prejudicada a análise do recurso especial de fls. 706-747, tornando-se nula a decisão proferida à fls. 1170-1177 (e-STJ).
+Consoante se observa a ora agravante também interpôs agravo interno às fls. 1208-1236 e, em face do princípio da unirrecorribilidade recursal, não conheço do agravo interno.
+2. Do exposto, julgo prejudicado o recurso especial de CLARO S.A, tornando sem efeitos a decisão de fls. 1170-1177, e, por conseguinte, a análise do presente agravo interno. Não conheço do agravo interno de fls. 1.208-1.236, e-STJ.
+Publique-se.
+Intimem-se.
+EMENTA
