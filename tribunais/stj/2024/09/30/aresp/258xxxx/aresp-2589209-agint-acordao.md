@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. CONTRATO DE PLANO DE SAÚDE. INTERNAÇÃO DOMICILIAR. "HOME CARE". RECUSA INDEVIDA.
+1. Ação de obrigação de fazer, na qual requer o custeio de tratamento home care.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. De acordo com a jurisprudência desta Corte, reputa-se abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar. Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por HAPVIDA ASSISTENCIA MEDICA S.A., contra decisão que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Ação: de obrigação de fazer cumulada com compensação por danos morais, ajuizada por TEREZINHA FRAGOSO DE FARIAS, em face da agravante, na qual requer o custeio de tratamento home care.
+Sentença: julgou procedente os pedidos para declarar nula a cláusula do contrato que prevê a exclusão de cobertura do serviço de internamento em regime domiciliar (home care) - compelindo a seguradora ré a cobrir as despesas com implantação do tratamento pleiteado, conforme prescrição médica -, bem como a compensar o dano moral, fixando seu valor em R$ 10.000,00 (dez mil reais).
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+PROCESSO CIVIL. APELAÇÃO CÍVEL. PLANO DE SAÚDE. HOME CARE. SÚMULA nº 07 DO TJPE. NEGATIVA INDEVIDA. DANO MORAL CONFIGURADO. VALOR DE R$ 10.000,00 MANTIDO. RECURSO NÃO PROVIDO. DECISÃO UNÂNIME.- Paciente de 83 anos e acometida de osteoporose grave (CID M81.0),apresentando fraturas ósseas, além de quadro de demência com dificuldades de locomoção, com risco aumentado de mais fraturas óssea se necessitando de cadeira de rodas e de ajuda de terceiros. Prescrição médica de fisioterapia motora e terapia ocupacional, com tratamento domiciliar.- Laudo médico que recomendou o tratamento da autora pelo sistema home care, não cabendo ao plano estabelecer a limitação do atendimento (Súmula 07 do TJPE: "É abusiva a exclusão contratual de assistência médico domiciliar (home care)"). - Reconhecido que o contrato abarca o tratamento da doença, encontra-se eivada de ilegalidade a negativa de cobertura da terapia correlata, pois não pode ser, de forma alguma, dissociada de todo o tratamento, notadamente em decorrência dos princípios e regramentos consagrados na lei consumerista (art. 6º, IV; 47; 51, IV, § 1º, II, do CDC), cabendo ao médico assistente indicar a melhor terapia ao paciente, e não ao plano de saúde de forma unilateral.- Dano moral configurado. Recusa indevida à cobertura pleiteada que ocasionou danos morais a parte autora. Paciente que ficou à espera da autorização administrativa da seguradora para utilizar a terapia pleiteada, piorando seu quadro clínico.- Valor de R$ 10.000,00 (dez mil reais) que é adequado as peculiaridades do caso fático em análise, encontrando-se dentro dos parâmetros estabelecidos por esse órgão julgador, restando presentes os pressupostos da responsabilidade civil, tanto em sua nuance reparadora quanto em seu efeito pedagógico.- Recurso não provido. Decisão unânime.
+Recurso Especial: alega violação dos arts. 10, 12, 16, 17-A, da Lei 9.656/98, 4º, I e III, da Lei nº 9.961/2000, e 10, § 13, da Lei 14.454/2022, bem como dissídio jurisprudencial. Sustenta a taxatividade do rol da ANS, razão pela qual não é obrigado a custear o tratamento home care. Aduz a possibilidade de mitigação da taxatividade apenas em situações específicas, as quais não se encontram presentes na hipótese.
+Parecer do MPF: da lavra do I. Subprocurador-Geral Sady d"Assumpção Torres Filho, opina pelo desprovimento do presente agravo.
+Decisão unipessoal: conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento em razão da incidência das Súmulas 282 do STF e 568 do STJ.
+Agravo interno: nas razões do presente recurso aduz a parte agravante que a jurisprudência do STJ é favorável à operadora do plano de saúde. Sustenta que houve o prequestionamento implícito da matéria.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. CONTRATO DE PLANO DE SAÚDE. INTERNAÇÃO DOMICILIAR. "HOME CARE". RECUSA INDEVIDA.
+1. Ação de obrigação de fazer, na qual requer o custeio de tratamento home care.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. De acordo com a jurisprudência desta Corte, reputa-se abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar. Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por HAPVIDA ASSISTENCIA MEDICA S.A., contra decisão que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, em razão da incidência das Súmulas 282 do STF e 568 do STJ.
+- Da ausência de prequestionamento
+A falta de prequestionamento é condição suficiente para obstar o processamento do recurso especial e exigência indispensável para o seu cabimento. Insatisfeito, este não supera o âmbito de sua admissibilidade, atraindo a incidência das Súmulas 282 do STF ou 211 do STJ.
+Dito isso, da reanálise minuciosa dos autos, realmente, observa-se que a aplicação do óbice da Súmula 282 do STF decorre da não deliberação pelo acórdão recorrido acerca dos arts. 12, 16 e 17-A, da Lei 9.656/98, 4º, I e III, da Lei nº 9.961/2000, e 10, § 13, da Lei 14.454/2022, não tendo a parte agravante interposto o recurso de embargos de declaração.
+A propósito, convém salientar que a incumbência constitucional deste Superior Tribunal de Justiça, ao julgar o recurso especial, é muito mais ampla do que o exame do direito alegado pelas partes, em revisão do decidido pelas Cortes locais. Cabe ao STJ, precipuamente, a uniformização da interpretação da Lei Federal, daí porque é indispensável que tenha havido o prévio debate acerca dos artigos legais pelos Tribunais de origem.
+Portanto, a decisão deve ser mantida ante a aplicação do óbice da Súmula 282 do STF.
+- Da Súmula 568 do STJ
+Nas razões do agravo interno, o agravante defende que a jurisprudência do STJ é favorável à agravante e colaciona o seguinte julgado monocrático: AgInt no AREsp 1752206, Ministro Luís Felipe Salomão, DJe 25/05/2021.
+No entanto, a decisão agravada consignou que o decidido pelo Tribunal local está de acordo com a jurisprudência do Superior Tribunal de Justiça no sentido de que o serviço de home care é uma extensão do tratamento hospitalar contratualmente previsto, não podendo ser limitado pela operadora do plano de saúde e, em caso de dúvida, a interpretação das cláusulas dos contratos de adesão deve ser feita de forma mais favorável ao consumidor (REsp n. 1.378.707/RJ, Terceira Turma, DJe 15/6/2015). Ademais, ressaltou que esta Corte Superior de Justiça entende que a internação domiciliar, quando substitui a hospitalar, deve ser coberta pela operadora do plano de saúde independentemente da discussão sobre a natureza do rol da ANS.
+Para isso trouxe ainda os seguintes precedentes: AgInt no REsp n. 1.994.152/SP, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022; AgInt no REsp n. 2.051.686/MG, Terceira Turma, DJe de 14/6/2023; AgInt no AREsp n. 2.475.207/DF, Terceira Turma, DJe de 26/6/2024; AgInt no REsp n. 2.134.960/PE, Terceira Turma, DJe de 19/6/ 2024; e AgInt no REsp n. 2.109.833/PE, Quarta Turma, DJe de 14/6/2024.
+Destaca -se que a aplicação da Súmula 568/STJ somente é devidamente impugnada quando a parte agravante demonstra, de forma fundamentada, que o entendimento esposado na decisão agravada não se aplica à hipótese em concreto ou, ainda, que é ultrapassado, o que se dá mediante a colação de arestos mais recentes do que aqueles mencionados na decisão hostilizada. Isso, contudo, não ocorreu na espécie.
+Assim, deve ser mantida a aplicação da Súmula 568/STJ.
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
