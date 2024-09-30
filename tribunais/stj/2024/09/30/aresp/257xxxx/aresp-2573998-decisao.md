@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"RECLAMAÇÃO CONTRA ACÓRDÃO DA TURMA RECURSAL - ARESTO QUE DEU PARCIAL PROVIMENTO AO RECURSO INOMINADO -REDUÇÃO DO QUANTUM A TÍTULO DE DANOS MORAIS - ALEGADA CONTRARIEDADE COM JULGADOS DESTA CORTE ESTADUAL - IRRELEVÂNCIA - HIPÓTESE QUE NÃO DESAFIA A RECLAMAÇÃO - AUSÊNCIA DE "JURISPRUDÊNCIA CONSOLIDADA DO STJ" ACERCA DA MATÉRIA EM DEBATE - AÇÃO COLETIVA SENTENCIADA - AUSÊNCIA DE VINCULAÇÃO - INAPLICABILIDADE DOS TEMAS 60 DO STJ E 589 DO STF - AÇÃO IMPROCEDENTE.
+Inexistindo qualquer divergência do aresto reclamado com jurisprudência consolidada do STJ acerca da questão em debate - qual seja, a legitimidade da cobrança de eventual diferença entre o valor da semestralidade cobrada pela IES e aquele financiado pelo FIES, ainda que o financiamento do Curso de Bacharelado em Medicina seja de 100%, bem como a inexistência de dano moral indenizável decorrente da cobrança, imperioso o reconhecimento da improcedência da reclamação.
+Nem mesmo a divergência do acórdão reclamado com alguns julgados deste Tribunal sobre as matérias aqui discutidas, inclusive envolvendo danos morais, não desafia o manejo de reclamação.
+Se o entendimento acerca da questão não é unânime neste Tribunal, tal circunstância por si só já afasta o argumento da reclamante de preservar a competência e as decisões deste Tribunal.
+Se a ação civil pública (nº 1005518-09.2016.8.11.0002) - em que se pretende discutir questões análogas às dos autos foi sentenciada, descabe falar-se na suspensão de que tratam os Temas 60 do STJ e 589 do STF"
+Opostos embargos de declaração, foram rejeitados.
+A recorrente aponta, além de divergência jurisprudencial, violação aos arts. 489, § 1º, inciso IV, e 1.022 do Código de Processo Civil, sustentando negativa de prestação jurisdicional, tendo em vista que a reclamação apresentada na origem abordou duas teses - (i) legitimidade da cobrança de eventual diferença entre o valor da semestralidade cobrada pela IES e aquele financiado pelo FIES e (ii) a não configuração de dano moral pela mera cobrança da diferença apurada - e o Tribunal de origem teria decidido em relação apenas à primeira.
+C  ontrarrazões às fls. 2.027/2.045 e-STJ.
+Juízo de admissibilidade proferido às fls. 2.046/2.055 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+No que tange à alegada violação ao art. 1.022, inciso II, do Código de Processo Civil, sob o fundamento de que houve omissão do acórdão recorrido, vejo que não prospera o recurso, pois não vejo deficiência de fundamentação alguma no acórdão recorrido quanto às matérias postas pelas partes agravantes.
+Com efeito, ao contrário do que alegado pela parte agravante o Tribunal de origem manifestou-se acerca da questão referente aos danos morais. Vejamos:
+"Assim, inexistindo qualquer divergência do aresto reclamado e qualquer jurisprudência consolidada do STJ acerca da questão em debate - qual seja, a legitimidade da cobrança de eventual diferença entre o valor da semestralidade cobrada pela IES e aquele financiado pelo FIES, ainda que o financiamento do Curso de Bacharelado em Medicina seja de 100%, além de reconhecerem a inexistência de dano moral indenizável decorrente da cobrança, imperioso o reconhecimento da improcedência da reclamação.
+Nem mesmo a divergência do acórdão reclamado com alguns julgados deste Tribunal sobre as matérias aqui discutidas, inclusive envolvendo danos morais, não desafia o manejo de reclamação.
+Aliás, frise-se que o entendimento acerca da questão não é unânime neste Tribunal, circunstância que por si só já afasta o argumento da reclamante de preservar a competência e as decisões deste Tribunal"
+Verifica-se, portanto, que o acórdão abordou as questões apresentadas pelas partes de forma suficiente a formar e demonstrar seu convencimento, de modo que não houve violação alguma ao dispositivo dos arts. 489 e 1.022, II, do CPC.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
