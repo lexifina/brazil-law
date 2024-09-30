@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSE PAULO DOS SANTOS FREIRE, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO na Apelação Criminal n. 0124417-22.2020.8.19.0001.
+Consta dos autos que o paciente foi condenado pelos crimes previstos no art. 33 c/c art. 40, inciso IV, e art. 35 c/c art. 40, incisos IV, todos da Lei n. 11.343/06, à pena de 09 (nove) anos, 11 (onze) meses e 07 (sete) dias de reclusão, em regime inicial fechado.
+Neste writ, a Defesa sustenta que a condenação pelo crime de associação para o tráfico de drogas foi indevida, pois não há provas suficientes que demonstrem a estabilidade e permanência necessárias para caracterizar o crime do art. 35 da Lei de Drogas.
+Alega que o simples fato de o paciente estar na companhia de outra pessoa no momento da abordagem policial não é suficiente para configurar o vínculo associativo estável exigido pela jurisprudência dos Tribunais Superiores.
+Além disso, afirma que o depoimento dos policiais, que alegaram que o paciente mencionou que a outra pessoa seria o "gerente do morro", não comprova a associação para o tráfico, sendo necessário que se demonstre um ânimo associativo duradouro.
+Requer, liminarmente e no mérito, a concessão da ordem para reconhecer a atipicidade da conduta do paciente em relação ao delito previsto no art. 35 da Lei nº 11.343/06, absolvendo-o dessa acusação, com a consequente revisão da pena imposta.
+Liminar indeferida (e-STJ fls. 453/454).
+O Ministério Públi co Federal manifestou-se pela extinção do processo sem resolução do mérito ou, alternativamente, pela denegação da ordem (e-STJ fls. 474/478).
+É  o  relatório.
+DECIDO.
+Conforme informações prestadas pelo Tribunal de origem, constato  que  o  presente  habeas  corpus  foi  impetrado  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  do Rio de Janeiro  transitado  em  julgado em 04/08/2021 (e-STJ fl. 461).
+Após três anos do trânsito em julgado da condenação,  a defesa impetrou este habeas corpus, o que diante  dessa  situação,  não  deve  ser  conhecido ,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte.
+De  fato,  nos  termos  do  art.  105,  inciso  I,  alínea  "e",  da  Constituição  da  República,  compete  ao  Superior  Tribunal  de  Justiça,  originariamente,  as  revisões  criminais  e  as  ações  rescisórias  de  seus  julgados.  Sobre  a  questão,  cito  os  seguintes  precedentes  das  Turmas  que  compõem  a  Terceira  Seção  desta  Corte:
+PENAL.  AGRAVO  REGIMENTAL  EM  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS  E  ASSOCIAÇÃO  PARA  O  MESMO  FIM.  NÃO  CONHECIMENTO  DO  WRIT  SUBSTITUTIVO  DE  REVISÃO  CRIMINAL.  SUPRESSÃO  DE  INSTÂNCIA.  IMPOSSIBILIDADE  DE  ANÁLISE  DA  MATÉRIA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  O  Superior  Tribunal  de  Justiça,  em  diversas  ocasiões,  já  assentou  a  impossibilidade  de  impetração  de  habeas  corpus  em  substituição  à  revisão  criminal,  quando  já  transitada  em  julgado  a  condenação  do  réu,  compreendendo  " n ão  deve  ser  conhecido  o  writ  que  se  volta  contra  acórdão  condenatório  já  transitado  em  julgado,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte"  (HC  n.  730.555/SC,  relator  Ministro  Olindo  Menezes,  Desembargador  Convocado  do  TRF  1ª  Região,  Sexta  Turma,  julgado  em  9/8/2022,  DJe  de  15/8/2022).  Na  hipótese  dos  autos,  a  condenação  do  agravante  transitou  em  julgado  de  há  muito,  com  baixa  definitiva  ao  Juízo  de  origem,  tendo  o  acórdão  sido  proferido  em  março  de  2013.
+ ..
+4.  Agravo  regimental  desprovido.  (AgRg  no  HC  n.  846.952/RJ,  relator  Ministro  ANTONIO  SALDANHA  PALHEIRO,  Sexta  Turma,  julgado  em  27/11/2023,  DJe  de  30/11/2023).
+No tocante ao vínculo associativo necessário para a caracterização do crime do art. 35, da Lei n. 11.343/06, observa-se que o Tribunal de Justiça do Estado do Rio de Janeiro destacou que a quantidade de droga e de munição apreendida, além dos carregadores, comprovam a prática da associação de maneira estável e duradoura, restando evidente o vínculo associativo entre o réu e seu comparsa Lucas (e-STJ fl. 23).
+Nesse sentido, quanto ao pedido de absolvição do crime de associação para o tráfico de drogas, é cediço que a ação constitucional do habeas corpus, de cognição sumária e cognição célere, não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas reconhecidas pelas instâncias ordinárias, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+Nessa esteira:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO AO TRÁFICO. PEDIDO DE ABSOLVIÇÃO. ESTABILIDADE E PERMANÊNCIA COMPROVADA ENTRE OS AGENTES. NÃO CABIMENTO. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA DA LEI DE DROGAS. INVIABILIDADE. REGIME SEMIABERTO. ORDEM CONCEDIDA NESTA PARTE. AGRAVO NÃO PROVIDO.
+1. Se a instância antecedente, em decisão motivada, conclui que a adesão de vontade dos agentes não se tratou de um fato isolado, mas sim de um prévio e estável acordo para o reiterado comércio ilícito de drogas, a alteração desse entendimento - a fim de acolher o pedido absolutório - é inadmissível na via eleita, uma vez que exige o reexame do conteúdo fático probatório.
+2. A condenação pelo delito de associação para o tráfico de drogas obsta a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, conforme reiterada jurisprudência desta Corte.
+3. A análise favorável das circunstâncias judiciais e a primariedade do réu lhe garantem o modo semiaberto para o cumprimento da pena de reclusiva de 8 anos, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal.
+4. Agravo regimental não provido.
+(AgRg no HC n. 901.817/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. NÃO CABIMENTO NA VIA ELEITA. PENA-BASE. QUANTIDADE DE DROGA. AUMENTO PROPORCIONAL. MINORANTE DO TRÁFICO PRIVILEGIADO. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. RECURSO NÃO PROVIDO.
+1. A pretendida absolvição pelos delitos de tráfico de drogas e de associação demandaria o revolvimento do conteúdo fático-probatório dos autos, providência inviável na via estrita do writ.
+2. Não há desproporcionalidade no aumento da pena básica em 1/2 - pelos delitos de tráfico de drogas e associação ao tráfico -, tendo como fundamento a quantidade e a natureza da droga apreendida (576kg de cocaína).
+3. Segundo entendimento firme desta Corte, a condenação pelo crime de associação para o tráfico, ao exigir a permanência e estabilidade dos agentes na prática criminosa, por óbvio, inviabiliza a aplicação do redutor previsto no art. 33, § 4º, da Lei Antidrogas.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 892.312/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+Pelo  exposto,  não conheço do habeas corpus.
+Publique-se  e  intimem-se.
+ EMENTA
