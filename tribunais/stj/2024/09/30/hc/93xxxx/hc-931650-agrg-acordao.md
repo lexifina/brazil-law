@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. DOSIMETRIA. REGIME PRISIONAL FECHADO. MOTIVAÇÃO CONCRETA DECLINADA. AGRAVO DESPROVIDO.
+1. Nos termos do reconhecido na decisão ora agravada, é necessário apresentar motivação concreta para a fixação de regime mais gravoso do que o indicado pela quantidade de pena estabelecida ao réu, conforme se depreende das Súmulas 440 do STJ e 718 e 719 do STF.
+2. Embora tenha sido estabelecida pena definitiva inferior a 8 anos de reclusão, a gravidade concreta da conduta justifica a mantença do regime prisional fechado, considerando a alta reprovabilidade do crime, praticado no interior de prédio residencial, com emprego ostensivo de arma de fogo com numeração suprimida.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WANDERSON DA SILVA PEREIRA contra a decisão que não conheceu da impetração (e-STJ, fls. 36-37).
+Em razões, a defesa reitera a ocorrência de constrangimento ilegal, uma vez que não há fundamentação idônea para fixação de regime inicial de cumprimento da pena mais gravoso do que o cabível em razão da pena imposta, considerando o disposto no art. 33, § 2º, do CP.
+Requer, assim, o provimento do agravo a fim de conceder a ordem, para que seja estabelecido o regime prisional s emiaberto.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. DOSIMETRIA. REGIME PRISIONAL FECHADO. MOTIVAÇÃO CONCRETA DECLINADA. AGRAVO DESPROVIDO.
+1. Nos termos do reconhecido na decisão ora agravada, é necessário apresentar motivação concreta para a fixação de regime mais gravoso do que o indicado pela quantidade de pena estabelecida ao réu, conforme se depreende das Súmulas 440 do STJ e 718 e 719 do STF.
+2. Embora tenha sido estabelecida pena definitiva inferior a 8 anos de reclusão, a gravidade concreta da conduta justifica a mantença do regime prisional fechado, considerando a alta reprovabilidade do crime, praticado no interior de prédio residencial, com emprego ostensivo de arma de fogo com numeração suprimida.
+3. Agravo regimental desprovido.
+VOTO
+Razão não assiste ao agravante.
+Isso porque, nos termos do reconhecido na decisão ora agravada, é necessário apresentar motivação concreta para a fixação de regime mais gravoso do que o indicado pela quantidade de pena estabelecida ao réu, conforme se depreende das Súmulas 440 do STJ e 718 e 719 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. REGIME INICIAL DE CUMPRIMENTO DE PENA FIXADO COM BASE NA GRAVIDADE CONCRETA DO CRIME. AUSÊNCIA DE ILEGALIDADE. RECURSO NÃO PROVIDO.1. O regime prisional deve observar os preceitos constantes nos arts. 33 e 59, do Código Penal, bem como os enunciados 440 da Súmula do Superior Tribunal de Justiça e 718 e 719 do Supremo Tribunal Federal.2. A gravidade em concreto do delito é fundamento para a fixação de regime inicial mais gravoso. Precedentes.3. Agravo regimental não provido.(AgRg no HC n. 759.926/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024.);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. REGIME INICIAL FECHADO. CIRCUNSTÂNCIA JUDICIAL VALORADA NEGATIVAMENTE. MAIOR REPROVABILIDADE DA CONDUTA. QUANTIDADE DE DROGA. FUNDAMENTAÇÃO IDÔNEA.1. De acordo com o entendimento firmado nesta Corte, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito, nos termos da Súmula n. 440 deste Tribunal e 718 e 719 do STF.2. No entanto, in casu, a fixação do regime mais gravoso se deu em consonância com o entendimento firmado por esta Corte Superior, pois, apesar de fixada a pena em patamar inferior a 4 anos (3 anos e 9 meses de reclusão), é admissível recrudescimento do regime prisional, tendo em vista a maior reprovabilidade da conduta praticada - abastecimento de drogas em bairro vulnerável de pequena cidade, além da quantidade de droga apreendida e da fixação da pena-base acima do mínimo legal, nos termos dos arts. 33, § 2º, c, e 44 do CP, c/c o art. 42 da Lei n. 11.343/2006. Precedentes.3. Agravo regimental improvido.(AgRg no HC n. 813.937/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+No caso, a Corte de origem, ao manter o regime prisional fechado, reconheceu:
+"Quanto ao pedido de abrandamento do regime, o julgado não comporta reforma, pois o v. Acórdão encontra suficiente fundamentação para fixação do regime inicial mais rigoroso, sopesando o quantum da pena com a alta reprovabilidade do crime, praticado no interior de prédio residencial, com emprego ostensivo de arma de fogo com numeração suprimida, o que denota ousadia e periculosidade do agente. Não apenas, considerou-se também o comando do art. 33, § 3º, do Código Penal, que displina que "a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código", sendo certo que foi reconhecida uma circunstância judicial desfavorável, o que reforça a adequação e necessidade da manutenção do regime inicial fechado" (e-STJ. fl. 14).
+Com efeito, embora tenha sido estabelecida pena definitiva inferior a 8 anos de reclusão, a gravidade concreta da conduta justifica a mantença do regime prisional fechado, considerando a alta reprovabilidade do crime, praticado no interior de prédio residencial, com emprego ostensivo de arma de fogo com numeração suprimida.
+Ante o exposto, nego provimento ao agravo regimental .
+É o voto.
