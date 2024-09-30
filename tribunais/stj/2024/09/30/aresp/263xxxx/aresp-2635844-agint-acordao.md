@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no art. 932, inciso III, do Código de Processo Civil de 2015.
+2. No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação do óbice, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório e da interpretação de cláusula contratual.
+3. Quando o recurso especial não é admitido com fundamento na Súmula nº 83/STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte, o que não ocorreu no caso.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  NOVA ROMA LOTEADORA E INCORPORADORA S/S LTDA. contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  não  conheceu  do  agravo  em  recurso  especial  em  virtude  da  falta  de  impugnação  específica  dos  fundamentos  da  decisão  atacada  (e-STJ fls.  330/331).
+Em  suas  razões  (e-STJ fls.  334/358),  a  agravante  alega  que  impugnou de maneira pormenorizada os fundamentos da decisão que não admitiu o apelo nobre.
+No ponto, aduz que
+"(..) é evidente que a parte Recorrente apresentou, em tópico específico, fundamentação rechaçando especificamente todo o conjunto da decisão denegatório do Recurso Especial conforme fundamento aduzido pelo(a) Exmo(a). Sr(a). Dr(a). Ministro(a)Presidente deste Colendo Superior Tribunal de Justiça, que equivocadamente não conheceu do Agravo em Recurso Especial interposto" (e-STJ fl. 353).
+Salienta que o acolhimento do presente recurso terá o condão de afastar a majoração dos ônus sucumbenciais.
+Ao final, requer a reforma da decisão atacada.
+Sem impugnação (e-STJ fl. 363).
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no art. 932, inciso III, do Código de Processo Civil de 2015.
+2. No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação do óbice, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório e da interpretação de cláusula contratual.
+3. Quando o recurso especial não é admitido com fundamento na Súmula nº 83/STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte, o que não ocorreu no caso.
+4. Agravo interno não provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+O  art.  932,  inciso  III,  do  Código  de  Processo  Civil  impõe  ao  relator  não  conhecer  do  recurso  "(..)  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida".
+No  caso,  a  decisão  atacada  não  conheceu  do  agravo  em  recurso  especial  porque  o  agravante  deixou  de  refutar especificamente  os  óbices  da s Súmulas  nº s 5, 7 e 83/STJ.
+Cumpre destacar que a impugnação da decisão atacada deve ser clara e suficiente para demonstrar o equívoco em sua negativa, o que não ocorreu na espécie, visto que a agravante se limitou a repisar as razões do apelo nobre.
+Esse é, inclusive, o entendimento pacífico desta Corte Superior, formulado no sentido de que é dever do agravante atacar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não bastando para tanto a impugnação genérica, parcial ou a reiteração das razões do recurso anterior.
+Convém  ressaltar  que,  no  tocante  às  Súmula  s  nºs 5 e  7/STJ,  não  basta  a  parte  sustentar  genericamente  a  não  aplicação  dos  óbices,  sem  explicitar,  à  luz  do  contexto  fático  delineado  no  acórdão  e  da  tese  recursal  trazida  no  recurso  especial,  de  que  maneira  a  análise  não  dependeria  do  reexame  fático-probatório e da interpretação de cláusula contratual.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CPC. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. IMPOSSIBILIDADE. DISPOSITIVO CONSTITUCIONAL.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação do óbice, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório e da interpretação de cláusula contratual.
+3. Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para o fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+4. Agravo interno não provido (AgInt no AREsp nº 2.497.076/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/06/2024, DATA:26/06/2024 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+2. Para afastar o fundamento, da decisão agravada, de incidência dos óbices das Súmulas n. 5/STJ e n. 7/STJ não basta apenas deduzir alegação genérica de inaplicabilidade dos referidos óbices ou que a tese defensiva não demanda reexame de provas ou nova interpretação de cláusulas contratuais. Para tanto, o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório ou de cláusulas contratuais, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou. Precedentes.
+(..)
+4. Agravo interno não provido, com aplicação de multa" (AgInt no AREsp 2.092.341/MS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022-grifou-se).
+Registra-se que, quando o recurso especial não é admitido com fundamento na Súmula nº 83/STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte, o que não ocorreu no caso.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Entre outros fundamentos, o Tribunal de origem inadmitiu o recurso especial por compreender que o acórdão recorrido está em conformidade com a orientação jurisprudencial desta Corte Superior de que as mercadorias dadas em bonificação integram a base de cálculo do ICMS/ST.
+2. Inadmitido o recurso especial com base na Súmula 83 do STJ, caberia ao agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+4. Hipótese em que, para combater a aplicação do aludido óbice, a parte agravante limitou-se a afirmar que o seu caso não cuida de mercadorias dadas em bonificação, mas de descontos incondicionais, o que ensejaria uma situação jurídica diferente 5. Caso em que essa suposta distinção, todavia, não é reconhecida pela firme posição pretoriana deste Sodalício, que, para fins de interpretação dos arts. 8º e 13 da LC n. 87/1996, tratam essas figuras da mesma maneira, visto que "a bonificação é uma modalidade de desconto que consiste na entrega de uma maior quantidade de produto vendido em vez de conceder uma redução do valor da venda" (REsp 923.012/MG, relator Ministro Luiz Fux, Primeira Seção, julgado em 09/06/2010, DJe de 24/06/2010). No mesmo sentido: EREsp 715.255/MG, rel. Ministra ELIANA CALMON, Primeira Seção, DJe 23/02/2011; AgRg nos EREsp 953.219/RJ, rel. Ministro Arnaldo Esteves Lima, Primeira Seção, julgado em 11/06/2014, DJe de 20/06/2014.
+6. Agravo interno desprovido" (AgInt nos EDcl no AREsp n. 2.225.294/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023- grifou-se).
+As razões do agravo não são suficientes para reformar a decisão atacada, que merece ser mantida por seus próprios fundamentos.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
