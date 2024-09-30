@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao agravo interno, nos termos do voto da Sra. Ministra Nancy Andrighi.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF.
+1. Ação indenizatória, em fase de liquidação.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Agravo interno no agravo em recuso especial não provido.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Examina-se pedido de reconsideração recebido como agravo interno pela decisão de fls. 263 (e-STJ) interposto por VIA SUL PESADOS LTDA, contra decisão unipessoal que conheceu do agravo para não conhecer do recurso especial que interpusera.
+Ação: indenizatória, em fase de liquidação, ajuizada por ROMÁRIO DE OLIVEIRA - ESPÓLIO, em face da agravante.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. FASE DE LIQUIDAÇÃO DE SENTENÇA. ALEGAÇÃO DE NULIDADE PROCESSUAL. ARGUIÇÃO QUE REPRESENTA ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. DECISÃO MANTIDA. MULTA APLICADA. RECURSO NÃO PROVIDO
+Decisão monocrática: conheceu do agravo para não conhecer do recurso especial, devido à incidência das Súmulas 283 e 284/STF, da Súmula 7/STJ e da ausência de demonstração da divergência jurisprudencial.
+Razões do recurso: Nas razões do presente recurso a agravante argumenta que, quanto à fundamentação acerca da ilegitimidade ativa, teria demostrado que os dispositivos violados seriam os arts. 17 e 18, do CPC e transcreve os respectivos trechos do recurso especial.
+Aduz ainda que, para a análise da multa por ato atentatório à dignidade da justiça, não haveria a necessidade de reanálise de fatos e provas, bem como que teria realizado o devido cotejo analítico.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF.
+1. Ação indenizatória, em fase de liquidação.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Agravo interno no agravo em recuso especial não provido.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo para não conhecer do recurso especial, devido à incidência das Súmulas 283 e 284/STF, da Súmula 7/STJ e da ausência de demonstração da divergência jurisprudencial.
+Veja-se o que constou na decisão (e-STJ fls. 250/253):
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que quanto à alegação de ilegitimidade ativa do agravado e nulidade, o agravante deixa de indicar especificamente qual dispositivo legal teria sido violado pelo acórdão recorrido, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da existência de fundamento não impugnado
+Ademais, a agravante não impugnou os fundamentos utilizados pelo TJ/PR de que o conceito de firma individual e sequer o erro de distribuição justificariam a conclusão acerca da ilegitimidade e nulidade (e-STJ, fls. 82/83). Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão pelo afastamento das alegações ilegitimidade e nulidade, bem como pela prática de ato atentatório à dignidade da justiça pelo agravante, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ademais, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+1. Da fundamentação deficiente (Súmula 284/STF)
+Nas razões do recurso especial a agravante defende que haveria ilegitimidade ativa do agravado, assevera a distinção entre a personalidade jurídica da firma individual e da pessoa natural que a instituiu, a impossibilidade da agravada pleitear em nome próprio direito alheio, bem como que, mesmo que a demanda tenha transitado em julgado, a hipótese seria nulidade absoluta que não seria acobertada pela coisa julgada, podendo ser arguida a qualquer tempo e grau de jurisdição. Assim, faz referência a diversos dispositivos legais, sem indicar, de forma específica, quais teriam sido violados pelo acórdão do Tribunal de origem (e-STJ, fls. 147/148).
+A via estreita do recurso especial, exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, não sendo permitida apenas a indicação genérica de ofensa a lei federal.
+Na hipótese, de fato, quanto ao ponto, a agravante não aduz violação específica a qualquer dispositivo infraconstitucional, o que revela a deficiência de fundamentação suficiente a atrair a incidência da Súmula 284/STF.
+Nesse sentido, "a falta de expressa indicação e de demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF" (AgInt no REsp n. 1.884.295/DF, 3ª Turma, DJe de 12/6/2024). Confira-se ainda: AgInt no REsp n. 1.918.879/MG, 4ª Turma, DJe de 24/3/2022.
+2. Da Súmula 283/STF
+Conforme consignado nos fundamentos da decisão agravada, a agravante não impugnou devidamente todos os fundamentos que sustentam o acórdão recorrido.
+De fato, em suas razões de recurso especial, não refutou o fundamento utilizado pelo Tribunal de origem de que o conceito de firma individual e sequer o erro de distribuição justificariam a conclusão acerca da ilegitimidade e nulidade (e-STJ, fls. 82/83), nos seguintes termos:
+A agravante parece trabalhar com esta ideia: o senhor Romário aparece na inicial como pessoa física; no entanto, o cartório distribuidor registrou como demandante a firma individual: Romário de Oliveira EI, o que, segundo as razões de recurso, implicaria a ilegitimidade para a causa e nulidade processual, nulidade que alcançaria a fase de conhecimento do processo.
+A descompromissada arguição de nulidade não considera:
+i) primeiro, a coisa julgada: a questão da legitimidade para a causa para a fase de conhecimento não pode ser alegada em fase de liquidação ou de cumprimento de sentença; o momento adequado era a contestação;
+ii) segundo, a firma individual não possui personalidade jurídica, salvo a EIRELI, modalidade de empresa individual que não adotada pelo senhor Romário; logo, mesmo que o procurador da parte contrária, por hipótese durante todo iter, peticionasse em nome de Romário de Oliveira EI o conceito de firma individual não permitiria a conclusão a que a agravante chegou: a da ilegitimidade para a causa porque, de qualquer maneira, seria a pessoa física do senhor Romário atuando (e sequer o erro na distribuição justificaria a despropositada conclusão da parte; importa no processo não a formalidade, mas a substância; independentemente do equívoco, que pode ser classificado como irregularidade processual, não como anulabilidade e muito menos nulidade, que figurou como parte foi o senhor Romário, agora sucedido na relação processual por seu espólio); e ainda: somente em duas petições o advogado do senhor Romário empregou-se o termo firma individual, em todas as demais empregou, para indicar quem peticionava, o nome do senhor Romário.
+Assim, incidente o óbice da Súmula 283/STF.
+3. Da Súmula 7/STJ
+Alterar as conclusões adotadas pelo Tribunal de origem, acerca do afastamento das alegações ilegitimidade e nulidade, bem como da prática de ato atentatório à dignidade da justiça pelo agravante, de fato, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Cumpre ressaltar o que restou consignado pelo Tribunal de origem quanto às questões:
+A agravante parece trabalhar com esta ideia: o senhor Romário aparece na inicial como pessoa física; no entanto, o cartório distribuidor registrou como demandante a firma individual: Romário de Oliveira EI, o que, segundo as razões de recurso, implicaria a ilegitimidade para a causa e nulidade processual, nulidade que alcançaria a fase de conhecimento do processo.
+A descompromissada arguição de nulidade não considera:
+i) primeiro, a coisa julgada: a questão da legitimidade para a causa para a fase de conhecimento não pode ser alegada em fase de liquidação ou de cumprimento de sentença; o momento adequado era a contestação;
+ii) segundo, a firma individual não possui personalidade jurídica, salvo a EIRELI, modalidade de empresa individual que não adotada pelo senhor Romário; logo, mesmo que o procurador da parte contrária, por hipótese durante todo iter, peticionasse em nome de Romário de Oliveira EI o conceito de firma individual não permitiria a conclusão a que a agravante chegou: a da ilegitimidade para a causa porque, de qualquer maneira, seria a pessoa física do senhor Romário atuando (e sequer o erro na distribuição justificaria a despropositada conclusão da parte; importa no processo não a formalidade, mas a substância; independentemente do equívoco, que pode ser classificado como irregularidade processual, não como anulabilidade e muito menos nulidade, que figurou como parte foi o senhor Romário, agora sucedido na relação processual por seu espólio); e ainda: somente em duas petições o advogado do senhor Romário empregou-se o termo firma individual, em todas as demais empregou, para indicar quem peticionava, o nome do senhor Romário.
+Por fim, não se consegue compreender a atitude da agravante diante da completa incongruência da defesa senão dizendo que ela age de má-fé e que com essa conduta pratica o ato atentatório à dignidade da justiça do artigo 774, II, do Código de Processo Civil, sujeitando-se, pois, à imposição da multa do parágrafo único do mesmo artigo. Por mais que a parte possa deduzir irrestritamente defesas e por mais que a norma jurídica admita diversos sentidos, todos possíveis, há um limite, o da razoabilidade, que possui como standard o profissional, juiz ou advogado, razoável, racional, prudente e consciente dos seus deveres; o que extrapolar a isso cairá no campo da conduta contrária à boa-fé processual, e como tal deve ser punida, ainda mais em um processo que dura anos sem solução. Há defesas que devem ser pensadas e repensadas pela parte e que uma vez confrontadas, por exemplo, com princípios processuais de todos conhecidos, como o da instrumentalidade das formas, ou com conceitos como o de irregularidade processual, não devem ser opostas, e se e quando opostas tais defesas somente podem ser concebidas ou como um completo despreparo do advogado, o que não é o caso, ou como um ato que tem como propósito apenas o retardamento do processo, o acumulo de atos processuais desnecessários. (e-STJ, fls. 82/83)
+Frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que incursão nesta seara implicaria ofensa à referida Súmula.
+4. Da divergência jurisprudencial
+Nota-se que o recurso especial, fundamentado na alínea "c" do permissivo constitucional, apenas traz jurisprudência que o recorrente entende divergir do acórdão recorrido, sem, contudo, demonstrar a existência de similitude fática ou ainda, realizar o necessário cotejo analítico.
+Dessa forma, a falta da similitude fática e do cotejo analítico, requisitos indispensáveis à demonstração da divergência, inviabilizam a análise do dissídio.
+Ademais, deve ser mantida o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula 7/STJ também se aplica aos recursos especiais interpostos pela alínea "c", do permissivo constitucional. Nesse sentido: AgInt nos EDcl no AREsp 1041244/RJ, 4ª Turma, DJe de 22/11/2019; AgInt no AREsp n. 821.337/SP, 3ª Turma, DJe de 13/03/2017; e AgInt no AREsp n. 964.391/SP, 3ª Turma, DJe de 21/11/2016.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
