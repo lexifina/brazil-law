@@ -1,0 +1,39 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por JULIAO FRANCISCO BAERE DE FARIA e MARIA DO CÉU OLIVEIRA DE CARVALHO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 25/04/2024.
+Concluso ao gabinete em: 24/09/2024.
+Ação: de inventário dos bens deixados por JULIA BERTA BAERE DE FARIA, genitora do primeiro agravante e da agravada.
+Decisão interlocutória: indeferiu pedido de levantamento de valores antes da homologação do esboço de partilha.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo ora agravante, nos termos da seguinte ementa (e-STJ, fl. 77):
+"AGRAVO DE INSTRUMENTO. DIREITO SUCESSÓRIO. INVENTÁRIO. DECISÃO QUE INDEFERIU PEDIDO DE ADIANTAMENTO DE QUINHÃO HEREDITÁRIO. INVENTÁRIO QUE TRAMITA DESDE 2001. ARTIGO 1.791 DO CÓDIGO CIVIL. EMBORA A MORTE ACARRETE A IMEDIATA TRANSFERÊNCIA DO PATRIMÓNIO AOS SUCESSORES, ESTABELECE-SE UM ESTADO DE INDIVISIBILIDADE E DE CONDOMÍNIO ATÉ QUE SE PROCEDA À PARTILHA. INVENTÁRIO ENVIADO AO PARTIDOR JUDICIAL PARA ELABORAÇÃO DO ESBOÇO DE PARTILHA. O LEVANTAMENTO DE VALORES PELOS HERDEIROS ANTECIPADAMENTE DEVE OCORRER SOMENTE NAS HIPÓTESES DE SITUAÇÃO DE EXCEPCIONAL NECESSIDADE. NO CASO EM TELA NÃO SE VISLUMBRA MOTIVO RELEVANTE QUE COMPROVE A NECESSIDADE DE LEVANTAMENTO PREMATURO DOS VALORES.
+Recurso conhecido e não provido."
+Embargos de declaração: opostos pela parte ora agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 4º, 6º, 8º, 489, §1º, IV, e 1.022, II, do CPC; e 1.784 do CC, sustentando, em síntese, que: (i) o processo de inventário tramita desde 2001, tendo o agravante requerido o levantamento de 4/6 (quatro sextos) dos valores depositados judicialmente, correspondente ao seu quinhão hereditário, o que foi indeferido; (ii) está com 91 (noventa e um) anos; (iii) a Corte de origem teria sido omissa em relação ao argumento de que todos os impostos já foram devidamente recolhidos e não houve oposição da Procuradoria do Estado do Rio de Janeiro; (iv) os valores que pugnou pelo levantamento são oriundos de pagamento realizado por locatário de um dos bens do acervo, após o falecimento da inventariada; (v) não há justa causa para indeferir o levantamento dos valores.
+Parecer do MPF: da lavra do I. Subprocurador-Geral Antonio Carlos Martins Soares, opina pelo desprovimento do agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da razões pelas quais entendeu não ser possível, neste momento processual, o levantamento do quinhão hereditário requerido, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas
+O TJ/RJ ao analisar o recurso interposto pela parte agravante, concluiu o seguinte (e-STJ fls. 78/79):
+"Compulsando os autos principais (0023497-07.2001.8.19.0001), verifica- se que o inventário dos bens deixados por Julia Bertha Baere de Faria, distribuído em março de 2001, possui três herdeiros: Julião Francisco Baere de Faria, Bertha Maria Baere de Faria Campos e Julia Berta Baere de Faria. Apesar de tramitar há muitos anos, o feito foi remetido ao partidor para elaboração do esboço de partilha, e, após manifestação das partes, a partilha será lançada nos autos para julgamento, conforme dispõem os artigos 651 e seguintes do CPC.
+Nos termos do disposto no § 1º do artigo 1.791 do Código Civil, até a partilha, o direito dos coerdeiros, quanto à propriedade e a posse da herança será indivisível, sendo certo que o adiantamento de quinhão hereditário é medida excepcional dentro do processamento do inventário e da partilha, admissível somente nas hipóteses de justa causa comprovada, bem como na inexistência de prejuízos aos herdeiros e à Fazenda Pública.
+Na hipótese em tela, não há prejuízo à Fazenda Pública, visto que quitados os tributos, mas os demais herdeiros se opõem ao levantamento dos valores pretendidos pelo agravante, embora se encontrem todos em idade avançada, mas não se vislumbra qualquer motivo relevante que demonstre a necessidade de prematuro levantamento dos valores pertencentes ao Espólio, ou seja, não há comprovação da justa causa, não há situação excepcional capaz de relativizar a regra da universalidade da herança até que sobrevenha a partilha, razão pela qual deve ser mantida a decisão agravada." (grifou-se)
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que "não se vislumbra qualquer motivo relevante que demonstre a necessidade de prematuro levantamento dos valores pertencentes ao Espólio, ou seja, não há comprovação da justa causa, não há situação excepcional capaz de relativizar a regra da universalidade da herança até que sobrevenha a partilha" (e-STJ fl. 79), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no artigo 932, III e IV, "a", do CPC/2015, bem como na Súmula n. 568/STJ, CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INVENTÁRIO. VIOLAÇÃO DO ART. 489 DO CPC. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ.
+1. Ação de inventário.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que não se vislumbra qualquer motivo relevante que demonstre a necessidade de prematuro levantamento dos valores pertencentes ao espólio, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
