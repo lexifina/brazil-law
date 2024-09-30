@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CORPUS CHRISTI. DATA NÃO RECONHECIDA COMO FERIADO NACIONAL. INTERRUPÇÃO DO EXPEDIENTE NA CORTE DE ORIGEM. NÃO COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. INTEMPESTIVIDADE.
+1. O feriado de Corpus Christi é considerado local, e não nacional. Por isso, é de rigor a comprovação de suspensão do expediente forense no Tribunal de origem.
+2. De acordo com a redação original do art. 1.003, § 6º, do CPC, vigente à época em que foi praticado o ato processual em testilha, o recorrente deveria comprovar "a ocorrência de feriado local no ato de interposição do recurso", razão pela qual, em regra, não era possível essa demonstração em momento posterior à interposição do recurso, em virtude da preclusão consumativa.
+3. Em 2/10/2019, a Corte Especial do Superior Tribunal de Justiça, ao apreciar o REsp n. 1.813.684/SP, ratificou o entendimento segundo o qual o recorrente deveria comprovar a ocorrência de feriado local no ato de interposição do recurso. Na mesma oportunidade, contudo, o colegiado modulou os efeitos da decisão, "de modo que seja aplicada, tão somente, aos recursos interpostos após a publicação do acórdão respectivo" (que ocorreu em 18/11/2019).
+4. Posteriormente, em 3/2/2020, no julgamento de questão de ordem suscitada no âmbito do mencionado REsp n. 1.813.684/SP, a Corte Especial estabeleceu que a modulação de efeitos e a possibilidade de comprovação posterior da existência de feriado local não se aplicariam a todos os feriados, mas apenas à segunda-feira de carnaval. Tal entendimento foi reafirmado por aquele colegiado, no julgamento do AREsp n. 1.481.810/SP.
+5. Na espécie, a parte agravante não colacionou aos autos, por ocasião da interposição do recurso especial, documento comprobatório da inexistência de expediente na Corte estadual.
+6. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Ivete da Mota Carvalho Colin e outro desafiando a decisão de fls. 1.301/1.302, por meio da qual a Presidência desta Corte não conheceu do agravo em recurso especial, nos seguintes termos:
+ ..
+Mediante análise do recurso de IVETE DA MOTA CARVALHO COLIN e OUTRO, a parte recorrente foi intimada do acórdão recorrido em 26/05/2023, sendo o recurso especial interposto somente em 19/06/2023.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+ ..
+Os agravantes sustentam, em síntese, que "interpuseram seu recurso no exato último dia prazo (19/06/2023). Conforme PORTARIA STJ/GP N. 1 DE 02 DE JANEIRO DE 2023 (publicada pelo próprio STJ), bem como PORTARIA ME Nº 11.090, DE 27 DE DEZEMBRO DE 2022, não houve expediente junto ao STJ, pois tratou-se do dia de Corpus Christi, e portanto, a teor do art. 216 do CPC, não houve contagem de prazo neste dia" (fls. 1.309/1.310).
+Apesar de devidamente intimado, o Ministério Público do Estado de São Paulo não apresentou impugnação (conforme certidão de fl. 1.319).
+A seu turno, o Ministério Público Federal, em parecer de lavra da Subprocuradora-Geral da República Denise Vinci Tulio, opinou pelo não provimento do agravo interno (fls. 1.333/1.336).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CORPUS CHRISTI. DATA NÃO RECONHECIDA COMO FERIADO NACIONAL. INTERRUPÇÃO DO EXPEDIENTE NA CORTE DE ORIGEM. NÃO COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. INTEMPESTIVIDADE.
+1. O feriado de Corpus Christi é considerado local, e não nacional. Por isso, é de rigor a comprovação de suspensão do expediente forense no Tribunal de origem.
+2. De acordo com a redação original do art. 1.003, § 6º, do CPC, vigente à época em que foi praticado o ato processual em testilha, o recorrente deveria comprovar "a ocorrência de feriado local no ato de interposição do recurso", razão pela qual, em regra, não era possível essa demonstração em momento posterior à interposição do recurso, em virtude da preclusão consumativa.
+3. Em 2/10/2019, a Corte Especial do Superior Tribunal de Justiça, ao apreciar o REsp n. 1.813.684/SP, ratificou o entendimento segundo o qual o recorrente deveria comprovar a ocorrência de feriado local no ato de interposição do recurso. Na mesma oportunidade, contudo, o colegiado modulou os efeitos da decisão, "de modo que seja aplicada, tão somente, aos recursos interpostos após a publicação do acórdão respectivo" (que ocorreu em 18/11/2019).
+4. Posteriormente, em 3/2/2020, no julgamento de questão de ordem suscitada no âmbito do mencionado REsp n. 1.813.684/SP, a Corte Especial estabeleceu que a modulação de efeitos e a possibilidade de comprovação posterior da existência de feriado local não se aplicariam a todos os feriados, mas apenas à segunda-feira de carnaval. Tal entendimento foi reafirmado por aquele colegiado, no julgamento do AREsp n. 1.481.810/SP.
+5. Na espécie, a parte agravante não colacionou aos autos, por ocasião da interposição do recurso especial, documento comprobatório da inexistência de expediente na Corte estadual.
+6. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): De acordo com a redação original do art. 1.003, § 6º, do CPC, vigente à época em que foi praticado o ato processual em testilha, a parte recorrente deveria comprovar "a ocorrência de feriado local no ato de interposição do recurso", razão pela qual, em regra, não era possível essa demonstração em momento posterior à interposição do apelo, em virtude da preclusão consumativa.
+Pois bem, em 2/10/2019, a Corte Especial do Superior Tribunal de Justiça, ao apreciar o REsp n. 1.813.684/SP, ratificou o entendimento segundo o qual a parte insurgente deveria comprovar a ocorrência de feriado local no ato de interposição do recurso. Na mesma oportunidade, contudo, o colegiado modulou os efeitos da decisão, "de modo que seja aplicada, tão somente, aos recursos interpostos após a publicação do acórdão respectivo" (que ocorreu em 18/11/2019).
+Posteriormente, em 3/2/2020, no julgamento de questão de ordem suscitada no âmbito do mencionado REsp n. 1.813.684/SP, a Corte Especial estabeleceu que a modulação de efeitos e a possibilidade de comprovação posterior da existência de feriado local não se aplicariam a todos os feriados, mas apenas à segunda-feira de carnaval. Esse entendimento foi reafirmado por aquele colegiado no julgamento do AREsp n. 1.481.810/SP.
+Convém assentar, por outro lado, que o feriado de Corpus Christi é considerado local, e não nacional (nesse sentido: AgInt no AREsp n. 1.657.676/PE, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 16/10/2020; AgInt no AREsp n. 1.600.923/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/5/2020).
+Ora, como, na espécie, a parte agrava nte não colacionou aos autos, por ocasião da interposição do recurso especial, documento idôneo comprobatório da inexistência de expediente no Tribunal de origem, é de rigor a manutenção do decisum agravado.
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
