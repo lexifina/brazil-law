@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de revisão criminal ajuizada por JOSENILTON JOSE DA SILVA e JOSINALDO JOSE DA SILVA com o objetivo de desconstituir a condenação pelo art. 12, § 1º, inciso II, da Lei n. 6.368/1976, c/c. o art. 29 do Código Penal, c/c. os arts. 14 e 18, inciso III, ambos da Lei n. 6.368/1976.
+A petição foi indeferida liminarmente pela Vice-Presidência desta Corte (fls. 428-430).
+O agravo regimental do requerente foi provido, em acórdão assim ementado (fl. 475):
+AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. ALTERAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. CABIMENTO DE AÇÃO REVISIONAL CONTRA DECISÃO SINGULAR. POSSIBILIDADE. APLICAÇÃO DO NOVO ENTENDIMENTO AOS RECURSOS PENDENTES DE ANÁLISE, AINDA, QUE INTERPOSTOS ANTES DA ALTERAÇÃO JURISPRUDENCIAL. AGRAVO REGIMENTAL PROVIDO.
+I - Nos termos do art. 239 do RISTJ, "À Corte Especial caberá a revisão de decisões criminais que tiver proferido, e à Seção, das decisões suas e das Turmas". Muito embora a interpretação literal não indique a possibilidade da ação revisional contra decisão singular, recentemente, essa Terceira Seção acolheu entendimento diverso para concluir pelo cabimento da ação revisional que visa desconstituir decisão monocraticamente proferida.
+II - Esta eg. Corte Super ior já decidiu que a alteração de entendimento jurisprudencial é aplicado ao recurso pendente de análise, ainda que interposto antes da mudança de posicionamento pretoriano. Precedentes. Agravo regimental provido, para determinar o processamento da ação revisional.
+Em parecer, o Ministério Público Federal opinou pelo não conhecimento da revisão criminal, porquanto a pretensão visa à mera reapreciação das teses discutidas no processo originário (fls. 494-502).
+É o relatório. DECIDO.
+Compulsando os autos, verifico que os requerentes ajuizaram a presente revisão criminal com fundamento no art. 621, incisos I e III, do Código de Processo Penal, a saber:
+Art. 621. A revisão dos processos findos será admitida:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+(..)
+III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena.
+Em relação ao art. 621, inciso I, do Código de Processo Penal, a defesa sustenta que a condenação dos requerentes violou o art. 386, incisos IV, V e VII, do mesmo diploma legal, porquanto o Ministério Público não se desincumbiu do ônus de demonstrar a procedência da tese acusatória. Ademais, a defesa reitera que os requerentes não participaram dos fatos, pois, naquela época, "estavam trabalhando em uma roça de arroz e feijão, e também para a prefeitura de Goiatins/TO, erguendo postes de pau nas ruas da cidade" e "não tiveram nenhuma participação nos delitos em tela, inclusive demonstrando que não estavam no local dos fatos, até porque foram presos em suas residências na cidade onde moravam" (fls. 56 e 57).
+Nada obstante, a decisão que apreciou o Recurso Especial n. 1.843.055 / TO foi clara ao afirmar que "ficou provado nos autos que, de fato os acusados não eram proprietários, mas trabalhavam na Fazenda Pão de Vaca" (fl. 935 daqueles autos), com alusão a trechos da sentença e do acórdão condenatórios nesse mesmo sentido.
+Em face disso, entendo que o pedido revisional visa à mera reapreciação do conjunto probatório, o que é incompatível com a via eleita, consoante precedentes desta Corte:
+(..) Todavia, sob a alegação de que o acórdão rescindendo teria violado o teor do art. 30 do CP, o requerente, na realidade, utiliza-se, indevidamente, da revisão criminal como se fosse segunda apelação, apta a rever fatos e provas, o que não é admitido pelo art. 621 do Código de Processo Penal - CPP. Precedentes. (..)" (AgRg na RvCr n. 6.106/DF, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 5/9/2024)
+(..) A jurisprudência desta Corte é assente no sentido de que "A revisão criminal não pode ser utilizada para que a parte, a qualquer tempo, busque novamente rediscutir questões de mérito, por mera irresignação quanto ao provimento jurisdicional obtido. O que se almeja, no presente caso, é a reapreciação indevida do conjunto probatório, que já foi amplamente analisado pelo Tribunal a quo" (AgRg na RvCr 4.730/CE, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, DJe 14/9/2020)." (AgRg na RvCr n. 6.231/SP, Terceira Seção, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/9/2024)
+Em relação ao art. 621, inciso III, do Código de Processo Penal, também não vislumbro a indicação clara e objetiva de novas provas ou de novas circunstâncias que possam interferir no decreto condenatório ou nas penas aplicadas.
+Diante do exposto, não conheço da revisão criminal.
+Publique-se. Intimem-s e.
+EMENTA
+REVISÃO CRIMINAL. AUSÊNCIA DAS HIPÓTESES DO ART. 621, CPP. AÇÃO COMO NOVA APELAÇÃO. IMPOSSIBILIDADE. PRECEDENTES. REVISÃO CRIMINAL NÃO CONHECIDA.
