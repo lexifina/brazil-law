@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por José Renato Vicente de Amorim Filho de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art.105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado (fls. 196/197):
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL. POLICIAL MILITAR. PEDIDO DE COMPENSAÇÃO POR SUPOSTO AUMENTO DA CARGA HORÁRIA. AUSÊNCIA DE COMPROVAÇÃO. APELO DESPROVIDO. DECISÃO UNÂNIME.
+1. Apelação interposta em face da sentença que julgou improcedentes os pedidos formulados na inicial, que pretendia a condenação do Estado de Pernambuco a pagar ao Autor, Policial Militar de Pernambuco, a majoração de 33,33% sobre o total das vantagens, acerca do aumento da carga horária de 30 para 40 horas semanais, mais os valores vencidos, respeitada a prescrição quinquenal.
+2. Após analisar a prova acostada aos autos, verifica-se o acerto da bem lançada sentença do juízo de origem, que tudo detalhou sobre o ponto controvertido e os fundamentos jurídicos aplicáveis à espécie, o que dispensa mais comentários.
+3. Com efeito, o ponto fundamental é que a parte apelante não colacionou aos autos prova da existência de legislação anterior que fixava a sua jornada de trabalho em seis (6) horas diárias e trinta (30) semanais.
+4. Da mesma forma, depois de conferir as fichas financeiras acostadas aos autos pela parte apelante, de logo, constata-se que nas mesmas não se vê qualquer registro de aumento de carga horária e irredutibilidade de vencimentos.
+5. Na realidade, a parte apelante não se desincumbiu de provar os fatos alegados de que "a carga horária dos policiais e bombeiros militares era de 06 (seis) horas diárias ou de 30 (trinta) horas semanais", a teor do que dispõe o art. 373, inciso I, do CPC. Precedentes.
+6. Ademais, observa-se que, na verdade, o art. 5º, da Lei Complementar nº 169/2011, buscou padronizar o horário de expediente dos servidores públicos civis incumbidos do exercício da atividade administrativa no âmbito das organizações militares. Tal legislação não se refere aos agentes de segurança pública, policiais e bombeiros militares.
+7. Apelo desprovimento. Custas pela parte apelante e honorários recursais majorados para 12%, suspensos os pagamentos em razão da gratuidade da justiça concedida.
+8. Decisão unânime.
+No recurso inadmitido, sustenta a parte agravante violação aos seguintes dispositivos legais:
+a) arts. 7º, VI, 37 XV, e 142, §§ 1º e 3º, VIII, da Constituição Federal, que tratam sobre a irredutibilidade de vencimentos;
+b) art. 341 do CPC, que trata da impugnação específica dos fatos;
+c) arts. 884 e 885 do Código Civil, que vedam o enriquecimento ilícito.
+Nessa linha de ideias, afirma que "está demonstrado nos autos que o aumento da carga horária, sem a devida contraprestação, implica em redução do valor da hora de trabalho, ferindo, portanto, o Princípio da Irredutibilidade de Vencimentos e dando margem ao enriquecimento ilícito do Estado" (fl. 217).
+Já nas razões do agravo, aduz que os pressupostos de admissibilidade do apelo especial encontram-se presentes, reprisando a argumentação ali expendida.
+Contraminuta às fls. 268/687.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Como cediço, " s egundo entendimento da Corte Especial, a falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso" (EDcl no AgInt nos EDcl no AREsp n. 2.047.180/DF, relator Ministro AFRÂNIO VILELA, SEGUNDA TURMA, DJe de 22/8/2024).
+Assim sendo, uma vez que a recorrente demonstrou (fl. 304) que na página de acompanhamento processual do Tribunal de origem constava a informação de que o prazo para interposição do recurso especial terminaria em 5/7/2023, há que se considerar como tempestivo o recurso interposto em 29/6/2023 (fl. 209), em homenagem ao principio da boa-fé processual.
+Destarte, em juízo de retratação, torno sem efeito a decisão de fls. 302/309.
+Nada obstante, por fundamentos diversos, o apelo nobre não pode ser conhecido.
+Inicialmente, não se presta o recurso especial ao exame de suposta ofensa a dispositivos constitucionais, por se tratar de matéria reservada ao exame do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+Por sua vez, rever as conclusões contidas no acórdão recorrido concernente a suficiência ou insuficiência das provas contidas nos autos esbarra no óbice da Súmula 7/STJ. Nesse sentido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ATIVIDADE ESPECIAL. MOTORISTA. IMPOSSIBILIDADE DE ENQUADRAMENTO. INSUFICIÊNCIA DAS PROVAS PARA RECONHECIMENTO DA ESPECIALIDADE. SÚMULA 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A comprovação da especialidade da atividade laboral, antes da edição da Lei n. 9.032/1995, encontrava-se disciplinada pelos Decretos 53.831/1964 e 83.080/1979, que elencavam as categorias profissionais sujeitas a condições nocivas de trabalho por presunção legal.
+III - In casu, o Tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou não ser possível o mero enquadramento profissional, uma vez que a profissão do autor não está elencada nos Decretos regulamentares, não se desincumbido o autor de trazer provas da exposição a agente nocivo.
+IV - Rever tal entendimento, demandaria necessário revolvimento de matéria fática, inviável, em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no AREsp n. 2.508.671/SP, relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 30/8/2024.) - Grifos nossos
+Lado outro, na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp n. 1.890.753/MA, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 6/5/2021).
+In casu, a Corte estadual não emitiu nenhum juízo de valor a respeito dos arts. 884 e 885 do Código Civil, restando ausente seu necessário prequestionamento, o que esbarra no óbice da Súmula 7/STJ.
+Acrescente-se, ademais, que a tese de afronta aos arts. 884 e 885 do Código Civil tem por premissa uma situação fática - aumento da jornada de trabalho do recorrente - que não foi reconhecida pela Corte de origem, hipótese que também atrai a incidência da referida Súmula 7/STJ.
+Por fim, a teor do Enunciado Administrativo n. 7 do Superior Tribunal de Justiça, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários recursais, na forma do art. 85, § 11, do novo CPC".
+Logo, considerando-se que o acórdão recorrido foi prolatado já na vigência do CPC/2015 e, outrossim, tendo em vista o não acolhimento da pretensão recursal da parte ora recorrente, é cabível a condenação desta em honorários advocatícios recursais, na forma do art. 85, § 11, do CPC/2015.
+ANTE O EXPOSTO, em juízo de retratação, torno sem efeito a decisão de fls. 302/309, a fim de conhecer do agravo para não conhecer do recurso especial. Condeno a parte recorrente ao pagamento de honorários advocatícios recursais arbitrados, nos termos do art. 85, § 11, do CPC, em 20% sobre a verba honorária fixada nas instâncias ordinárias, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Prejudicado o agravo interno de fls. 3 02/309.
+Publique-se.
+EMENTA
