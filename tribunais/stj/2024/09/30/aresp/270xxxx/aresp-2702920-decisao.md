@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ANTONIO CARLOS DOS SANTOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim resumido:
+APELAÇÃO CÍVEL. USUCAPIÃO ORDINÁRIA E EXTRAORDINÁRIA E ESPECIAL URBANA. REQUISITOS. AUSÊNCIA DE COMPROVAÇÃO. QUALQUER QUE SEJA A ESPÉCIE DE USUCAPIÃO ALEGADA, A COMPROVAÇÃO DO EXERCÍCIO DA POSSE SOBRE A COISA SERÁ SEMPRE OBRIGATÓRIA, SENDO CONDIÇÃO INDISPENSÁVEL À AQUISIÇÃO DA PROPRIEDADE. ISSO PORQUE A USUCAPIÃO É EFEITO DA POSSE, INSTRUMENTO DE CONVERSÃO DA SITUAÇÃO FÁTICA DO POSSUIDOR EM DIREITO DE PROPRIEDADE OU EM OUTRO DIREITO REAL.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 1.238 e 1.240, no que concerne à comprovação de que os recorrentes preenchem os requisitos para o reconhecimento da usucapião extraordinária ou da usucapião especial urbana, trazendo a seguinte argumentação:
+Quer seja pelo tempo do Caput - 15 anos, a contar de 1995; quer seja pelo disposto no Parágrafo único - 10 anos, a contar de 1999 - data do documento pretérito já com uso da numeração do imóvel; é inafastável que os Recorrentes comprovam e fazem jus ao reconhecimento da usucapião sobre o imóvel que exercem a posse como moradia familiar.
+As testemunhas afirmaram que conhecem os Recorrentes há 16 anos, há 20 anos, e que eles SEMPRE residiram na mesma casa e NUNCA mudaram de casa. O lapso temporal está mais que comprovado. É necessário que seja devidamente VALORADA a prova para fazer prevalecer o direito previsto e assegurado pelo art. 1.238 do CC.
+ ..
+Os Recorrentes comprovaram que a área por eles possuída com fins de MORADIA há mais de 29 anos, está perfeitamente individualizada, e com metragem inconteste de 225 m 2 (ID Num. 61397596 - Pág. 1), dando adequada função social a terra, sendo a declaração de usucapião a regularização de uma situação fática que constitui forma originária de aquisição da propriedade.
+ ..
+Deste modo, plenamente comprovados o preenchimento dos requisitos da USUCAPIÃO ESPECIAL URBANA.
+Seja sob a égide do disposto no art. 1.238 ou 1.240 ambos do CC, não há como se afastar a reforma da r. decisão para o fim de acolher o pedido dos Recorrente e declarar-se a Usucapião, em quaisquer de suas modalidades, em seu favor (fls. 397/402).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No caso dos autos, como exposto na sentença, os apelantes moram na mesma rua desde o ano de 1995, contudo, não no mesmo imóvel. De acordo com as provas, os apelantes inicialmente moravam na residência localizada no lote 19 e, atualmente, moram no lote 25, de propriedade dos apelados. É o que se depreende das fichas escolares dos filhos dos anos de 2004 a 2013, que constam que o endereço de sua residência é o do lote 19. A partir do ano de 2013 aparecem documentos de comprovantes de residência indicando o endereço do lote 25, imóvel discutido nos autos.
+Os depoimentos testemunhais  ..  não souberam individualizar o imóvel, como tampouco afirmaram que os apelantes possuíam o bem como se donos fossem.
+Assim, a pretensão de usucapião extraordinária não merece guarida.
+A respeito da usucapião especial urbana, de igual sorte não merece respaldo.
+Os requisitos previstos para a aquisição por meio de usucapião especial urbana previstos no art. 183 da Constituição Federal e art. 1.240 do Código Civil, são: possuir como sua área urbana de até 250m , por cinco anos, ininterruptamente e sem oposição, utilizando-a para sua moradia ou de sua família, adquirir-lhe-á o domínio, desde que não seja proprietário de outro imóvel urbano ou rural.
+No caso dos autos, o imóvel ultrapassa o limite de 250m , consoante escritura pública de compra e venda e certidão de inteiro teor, uma vez que possui uma área de 1.250m .
+E como exposto na sentença, "a alegação de que os requeridos ocupam apenas "parte ideal" de 225m  (duzentos e vinte e cinco metros quadrados) além de se mostrar inverídica, conforme fotografias de ID. 62397979, juntadas por estes, que demonstram claramente a utilização de grande parte da área do imóvel, em nada altera a impossibilidade de concessão da usucapião especial urbana neste caso concreto." ID 20315304 (fls. 374/376).
+Tal o contexto, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
