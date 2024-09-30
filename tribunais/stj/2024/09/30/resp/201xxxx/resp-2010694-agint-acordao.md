@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. URGÊNCIA CONFIGURADA. RAZÕES DE DECIDIR. NÃO IMPUGNAÇÃO. SÚMULAS N. 283 E 284 DO STF . DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DANOS MORAIS. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido suficientes, por si sós, para a manutenção do decidido acarreta a incidência das Súmulas n. 283 e 284 do STF.
+2. A incidência de óbices sumulares quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+3. A admissibilidade do recurso especial fundado na alínea c do permissivo constitucional depende do preenchimento dos requisitos essenciais para comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+4. Os acórdãos confrontados não são aptos para demonstrar o dissídio jurisprudencial quando não há semelhança entre suas bases fáticas.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por PREMIUM SAÚDE S.A. contra julgado da Presidência que, com amparo no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheceu do recurso especial em razão da aplicação da Súmula n. 284 do STF.
+Nas razões do presente recurso, a agravante sustenta que o recurso especial deve ser conhecido pois atendeu aos requisitos de admissibilidade.
+Pondera que, nas razões do recurso especial, apresentou argumentos que permitem a compreensão da controvérsia, não sendo imprescindível a indicação das alíneas do permissivo constitucional.
+Requer, assim, seja a decisão reconsiderada ou o agravo interno julgado pelo colegiado para que o recurso especial seja provido.
+Contrarrazões apresentadas às fls. 518-523, em que se requer o desprovimento do recurso.
+O Ministério Público Federal manifestou-se pela manutenção da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. URGÊNCIA CONFIGURADA. RAZÕES DE DECIDIR. NÃO IMPUGNAÇÃO. SÚMULAS N. 283 E 284 DO STF . DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DANOS MORAIS. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido suficientes, por si sós, para a manutenção do decidido acarreta a incidência das Súmulas n. 283 e 284 do STF.
+2. A incidência de óbices sumulares quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+3. A admissibilidade do recurso especial fundado na alínea c do permissivo constitucional depende do preenchimento dos requisitos essenciais para comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+4. Os acórdãos confrontados não são aptos para demonstrar o dissídio jurisprudencial quando não há semelhança entre suas bases fáticas.
+5. Agravo interno desprovido.
+VOTO
+Razão assiste à parte agravante quanto à inaplicabilidade da Súmula n. 284 do STF por ausência de indicação do permissivo constitucional, pois, apesar da falta de indicação da alínea em que se fundava o apelo, é perfeitamente compreensível que ele se baseava na alegação de ofensa a dispositivos legais indicados que entendeu serem violados e na divergência jurisprudencial, de modo que a decisão da Presidência do STJ (fls. 499-500) deve ser reconsiderada.
+Procedo, pois, a novo exame do recurso especial.
+Em nova análise, contudo, a irresignação do apelo nobre não reúne condições de prosperar.
+O recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, em apelação, nos autos de ação civil pública.
+O julgado foi assim ementado (fl. 417):
+AÇÃO CIVIL PÚBLICA - PLANO DE SAÚDE - CÓDIGO DE DEFESA DO CONSUMIDOR - APLICABILIDADE -FORNECIMENTO DE MEDICAMENTO PARA TRATAMENTO DE ENFERMIDADE - NEGATIVA INDEVIDA - ROL DA ANS EXEMPLIFICATIVO - DANOS MORAIS CONFIGURADOS -FIXAÇÃO EM VALOR RAZOÁVEL. I -Conforme enunciado da Súmula n. 608 do Superior Tribunal de Justiça, "aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão". II -Apesar de a assistência à saúde ser livre à iniciativa privada, a liberdade econômica não pode ser exercida de forma absoluta, encontrando limitações na boa-fé objetiva, na função social do contrato e na própria defesa ao consumidor. III - Nos termos do art. 51, IV, do CDC, são nulas de pleno direito as cláusulas contratuais relativas ao fornecimento de serviços que estabeleçam obrigações que coloquem o consumidor em desvantagem exagerada ou que sejam incompatíveis com a boa-fé ou a equidade. IV - É abusiva a cláusula restritiva de direito que exclui da cobertura do plano a realização de procedimento médico essencial à verificação do melhor tratamento da enfermidade do consumidor, mormente quando indicado por médico especialista. V - O fato de o tratamento indicado ao segurado não constar do rol da ANS não representa óbice à cobertura, na medida em que o referido rol é meramente exemplificativo. VI - A negativa indevida de tratamento de doença, cuja cobertura não é expressamente excluída do contrato, é causa inequívoca de dano moral, certo que gera aflição, angústia e sofrimento, além de representar afronta ao direito à vida e à dignidade da pessoa humana. VII - A indenização deve ser fixada conforme critérios de razoabilidade e proporcionalidade, com observância das peculiaridades do caso e sempre visando o alcance dos objetivos do instituto, de modo a compensar a vítima pelo dano sofrido, punir o agente pela conduta adotada e inibir a adoção de novos ilícitos.
+Nas razões do recurso especial, a parte recorrente apontou violação do art. 4º, II, III, V, XXIII e XXXVI, da Lei n. 9.961/2000.
+Afirmou que o plano de saúde não possui obrigatoriedade de cobertura do tratamento com o medicamento Rituximabe, prescrito para beneficiário diagnosticado com Púrpura Trombocitopência Trombótica (PTT), visto que, ainda que o medicamento conste do rol da ANS, não se amolda às Diretrizes de Utilização n. 65.
+Pondera que o tratamento com Rituximabe é indicado para portador de Púrpura Trombocitopência Trombótica de forma off label, sendo considerado tratamento experimental.
+Sustenta que o rol da ANS não pode ser considerado exemplificativo, pois a jurisprudência desta Corte consolidou o entendimento de que o referido rol seria taxativo.
+Defende também que a prescrição médica não pode se sobrepor ao contrato que limita a cobertura de tratamentos excluídos do rol da ANS, conforme jurisprudência do STJ.
+Alega ocorrência divergência jurisprudencial em relação à aplicação do dano moral. Defende que a negativa de cobertura da operadora, ainda que considerada indevida, não teria acarretado dano moral indenizável.
+Requer o provimento do recurso especial.
+A Corte a quo considerou abusiva a negativa de cobertura de tratamento com o medicamento Rituximabe para o beneficiário acometido de Púrpura Trombocitopência Trombótica.
+Para fundamentar, ressaltou que a liberdade econômica deve ser exercida com respeito às limitações previstas na boa-fé objetiva, na função social do contrato e na defesa do consumidor, para que possa ser assegurada a existência digna. Pontuou que não é possível a negativa de tratamento necessário para a doença coberta pelo plano e que, no caso, o tratamento teria sido indicado, em caráter de urgência, para combate de doença coberta pelo plano, conforme relatório médico, sendo irrelevante o rol da ANS por ser exemplificativo. Segue trecho do acórdão (fls. 422-428, destaquei):
+Apesar de a assistência à saúde ser livre à iniciativa privada, a liberdade econômica não pode ser exercida de forma absoluta, encontrando limitações na boa-fé objetiva, na função social do contrato e na própria defesa ao consumidor, a fim de que seja atingida a finalidade precípua deste tipo de contrato, a de assegurar uma existência digna.
+A jurisprudência do colendo Superior Tribunal de Justiça encontra-se consolidada no sentido de que o plano de saúde pode estabelecer cláusulas restritivas de direitos, sendo contudo abusiva a negativa de cobertura de medicamento/procedimento necessário ao tratamento da doença coberta pelo plano.
+ ..
+Contudo, não havendo questionamento acerca da existência de cobertura para a patologia que acomete Samuel Teymeny Mendes (púrpura trombocitopênica trombótica) e, diante da indicação médica do tratamento em caráter de urgência deve ser mantida a sentença que julgou procedente o pedido inicial.
+Consoante as informações constantes do relatório médico acostado, ordem 03:
+ ..
+Tem-se que as repercussões negativas inerentes à ausência do uso do medicamento restaram evidenciadas, considerando o risco de evolução da doença, atestado por profissional competente.
+A recusa no fornecimento do medicamento prescrito por profissional capacitado, dentro do tratamento indicado, não se sustenta  ..
+Entendo que a negativa de cobertura foi indevida.
+Dessa forma, o Tribunal a quo concluiu pela abusividade na negativa de cobertura do tratamento considerando a existência de cobertura para a doença, a prescrição médica em caráter de urgência - demonstrado através de relatório médico as repercussões negativas inerentes à ausência do uso do medicamento, inclusive o risco de agravamento da doença - e ser o rol da ANS exemplificativo.
+Nas razões do recurso especial, a parte restringiu-se a defender que o medicamento Rituximabe, apesar de constar do rol da ANS, que é taxativo, o tratamento e diagnóstico do recorrido não se amoldam às Diretrizes de Utilização n. 65, sendo o tratamento de caráter experimental, e que a prescrição médica não se sobrepõe ao contrato celebrado. Em momento algum rebateu o fundamento do acórdão recorrido referente ao caráter de urgência do tratamento prescrito, inclusive com o indicado risco de agravamento da doença, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL . AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. URGÊNCIA. FUNDAMENTO NÃO REBATIDO. SÚMULAS N. 283 E 284 DO STF. DANOS MORAIS CONFIGURADOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido suficientes, por si sós, para a manutenção do decidido acarreta a incidência da Súmulas n. 283 e 284 do STF.
+2. A recusa indevida de cobertura pela operadora de plano de saúde, nos casos de urgência ou emergência, enseja reparação a título de dano moral, em razão do agravamento ou aflição psicológica do beneficiário, ante a situação vulnerável em que se encontra (AgInt no REsp n. 2.025.038/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023).
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão.
+Agravo interno improvido. (AgInt no AREsp n. 2.295.168/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+No tocante ao dissídio em relação ao rol da ANS e a prescrição médica não se sobrepor ao contrato, ressalto que a incidência das Súmulas n. 283 e 284 do STF quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 2.460.314/SE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 10/6/2024, DJe de 14/6/2024 e AgInt no REsp n. 2.083.077/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/9/2023, DJe de 13/9/2023.
+Quanto à alegada divergência jurisprudencial em relação ao dano moral indenizável, para a sua análise é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, o que não ocorreu no caso.
+No acórdão proferido pela Corte de origem, entendeu-se que era caso de dano moral indenizável, pois a recusa de cobertura do medicamento em caráter de urgência agravou a situação de aflição já vivenciada pela parte que estava sujeita ao agravamento da doença (fl. 428):
+ ..  agravou a situação de aflição psicológica e de angústia no espírito do paciente, que se encontrava com condição de dor e abalo emocional e ainda sujeita ao agravamento de seu estado de saúde.
+No recurso especial, entretanto, a parte agravante, a título de divergência pretoriana, colaciona julgado (REsp 1800758/SP) que afasta o dano moral in re ipsa, por ter sido a recusa de cobertura caracterizada como mero inadimplemento contratual.
+Nesse contexto, não há semelhança entre as bases fáticas dos acórdãos confrontados, razão pela qual não são aptos para demonstrar o dissídio jurisprudencial.
+Ante o exposto, nego provimento ao agravo interno .
+É o voto.
