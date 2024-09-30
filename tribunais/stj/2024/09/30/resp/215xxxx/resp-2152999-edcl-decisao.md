@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSELITA SOUZA SOARES contra decisão de minha lavra, em que determinei a devolução dos autos ao Tribunal de origem para observância das disposições do art. 1.040 do CPC/2015.
+O embargante sustenta, em síntese, que concorda com o pedido formulado pela parte adversa no especial de aplicação da TR para a correção do FGTS. Pleiteia que seja homologada "a renúncia a qualquer outro índice com anuência expressa à TR, julgando prejudicado o recurso especial interposto pelo embargado em razão de inexistência de lide".
+Impugnação às e-STJ fls. 414/415.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+In casu, não ocorreu nenhum dos vícios supracitados.
+Esclarece-se que o ato judicial que determina o sobrestamento do feito e a devolução dos autos à origem, a fim de que lá seja exercido o competente juízo de retratação ou conformação após o julgamento de questão objeto da ADI 5.090/DF pelo STF, não possui conteúdo decisório, razão pela qual é irrecorrível. Além disso, nesses casos, revela-se a primazia do viés constitucional do tema em debate.
+É digno de registro que, em razão das regras previstas nos arts. 1.036 a 1.041 do CPC/2015, impõe-se a devolução dos autos ao Tribunal de origem, a fim de que o exame do apelo nobre ocorra após exercido o juízo de conformação, não somente por medida de economia processual mas, sobretudo, para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça.
+Ademais, em 12/06/2024, o STF, julgou a referida ADI e, "por maioria e nos termos do voto médio do Ministro Flávio Dino, Redator para o acórdão, julgou parcialmente procedente o pedido formulado na ação direta, com atribuição de efeitos ex nunc, a contar da publicação da ata de julgamento, estabelecendo o seguinte entendimento: a) remuneração das contas vinculadas na forma legal (TR  3% a.a.  distribuição dos resultados auferidos) em valor que garanta, no mínimo, o índice oficial de inflação (IPCA) em todos os exercícios; e b) nos anos em que a remuneração das contas vinculadas ao FGTS não alcançar o IPCA, caberá ao Conselho Curador do Fundo (art. 3º da Lei nº 8.036/1990) determinar a forma de compensação".
+Assim, "proferido julgamento em sede de controle concentrado de constitucionalidade, que possui efeito vinculante e eficácia erga omnes, n os termos dos arts. 102, § 2º, da Constituição Federal e 927, I, do CPC/2015, de rigor sua observância, a fim de manter a coerência e segurança do ordenamento jurídico". (EDcl no AgInt no REsp n. 2.020.769/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+Por fim, advirto a recorrente de que a oposição de embargos de declaração manifestamente protelatórios pode ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Com essas considerações, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
