@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado pelo ESTADO DE RONDÔNIA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim resumido:
+Apelação. Ação ordinária. Direito administrativo. Auto de infração. Multa ambiental. Processo administrativo. Licença de operação. Renovação. Prazo mínimo. Descumprimento. Razoabilidade. Auto de infração. Anulação.
+1. O licenciamento ambiental é ato vinculado da Administração Pública, desde que atendidos os requisitos legais para a sua concessão ou renovação.
+2. Tendo sido formulado o pedido para renovação da licença de operação antes do vencimento e em tempo razoável, ainda que fora do prazo previsto na legislação, não subsiste o auto de infração que impôs multa pela ausência da referida licença, notadamente se não comprovado que a morosidade na análise do pleito decorre do não atendimento da empresa interessada na apresentação de documentos solicitados ou da realização de diligências determinadas.
+3. Negado provimento ao recurso.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 14, §§ 3º e 4º. Da Lei Complementar n. 140/2011, no que concerne à necessidade de observância do prazo mínimo estabelecido em lei para a concessão e renovação de licença ambiental, trazendo a seguinte argumentação:
+No presente recurso especial, discute-se apenas a consequência jurídica da não observância pelo particular do prazo previsto em Lei Complementar Federal para o pedido de renovação de licença ambiental anteriormente concedida. Ou seja, se haverá ou não a prorrogação automática do consentimento estatal para a utilização de recursos ambientais e se, nesse caso, é legítima eventual autuação por infração ambiental decorrente da inexistência de licenciamento ambiental. (fls. 326).
+Desta feita, o referido acórdão, com a devida vênia, deve ser integralmente reformado, reconhecendo-se a validade do Auto de Infração nº 000338, do Processo Administrativo nº 1801/0084/2008, uma vez que viola frontalmente os §§ 3ºe 4º do artigo 14 da LC nº 140/2011, conforme será abaixo explicitado.
+Inicialmente, extrai-se dos autos que a recorrida foi autuada por fazer funcionar atividade de fabricação de bebidas sem licença do órgão ambiental competente, e deixar de cumprir a Notificação nº 4644/2016/COLMAM/SEDAM, de 06 de janeiro de 2017 (fl. 9), após devidamente notificada pela autoridade ambiental, sendo arbitrada multa de R$ 11.000,00 (onze mil reais), com fulcro nos artigo 66 e 80 do Decreto Federal nº 6.514/2008, que assim dispõem:
+ ..
+Assim, fixadas as premissas fáticas, inexistem dúvidas de que, em sentido contrário ao da eminente Câmara do TJRO, o pedido de renovação de licença ambiental formulado sem observar o prazo mínimo de 120 dias do vencimento da licença ambiental incide no descumprimento do dever legal, de sorte que não há de falar em prorrogação automática. Por consequência, é correta a autuação da parte recorrida pela prática de infração ambiental consistente em fazer funcionar empreendimento sem o respectivo licenciamento.
+Conforme já mencionado, o próprio TJRO admite que o pedido da parte foi efetuado 97 dias antes do vencimento, a descumprir o prazo mínimo de 120 dias previsto em lei federal (ID 21668645 - p. 8).
+Dessarte, dá-se ênfase à redação da Lei Complementar n. 140/2011, a qual reforça o dever de cumprimento do prazo mínimo estabelecido, objetivando administrar o volume de solicitações recebidas para renovação de licenças ambientais, ora analisadas pelo órgão competente. (fls. 327).
+É o relatório.
+Decido.
+Quanto à controvérsia, não é cabível o Recurso Especial porque interposto contra acórdão com fundamento em norma infralegal, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal.
+Nesse sentido: "Apesar de a recorrente ter indicado violação de dispositivos infraconstitucionais, a argumentação do decisum está embasada na análise e interpretação da Resolução 414/2010 da ANEEL, norma de caráter infralegal cuja violação não pode ser aferida por meio de recurso especial". (AgInt no AREsp n. 1.621.833/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 16.6.2021).
+Confiram-se ainda os seguintes precedentes: REsp n. 1.517.837/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 10.5.2021; AgInt no REsp .. 1.859.807/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.6.2020; AgInt no AREsp n. 1.673.561/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 25.3.2021; AgInt no AREsp n. 1.701.020/DF, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 27.11.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
