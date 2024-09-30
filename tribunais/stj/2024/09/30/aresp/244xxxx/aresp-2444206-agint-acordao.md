@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUÍZO HÍBRIDO DE ADMISSIBILIDADE. ANÁLISE RESTRITA À QUESTÃO INADMITIDA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC INEXISTENTE. INCONFORMISMO.
+1. Houve juízo híbrido de admissibilidade que tanto inadmitiu como negou seguimento ao recurso especial, cabendo ao STJ apenas a análise da questão inadmitida, porquanto de competência da Corte de origem a análise de (in)conformidade do acórdão recorrido com entendimento firmado no paradigma em recurso repetitivo. Precedentes.
+2. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de ori gem efetivamente enfrentou a omissão suscitada, qual seja, o alegado direito ao índice de correção do percentual de 39,67% para o mês de fevereiro de 1994, tese rechaça por entender que a pretensão ia de encontro ao Tema n. 941/STJ, somado ao fato de que não preencheu os requisitos para a extensão da revisão ao seu benefício.
+3. O inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. Precedentes.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por DARIO XAVIER INSAURRIAGA contra decisão monocrática de minha relatoria que conheceu em parte do agravo em recurso especial e negou provimento ao apelo nobre nos termos da seguinte ementa (fls. 969-973):
+PROCESSUAL CIVIL. DECISÃO HÍBRIDA. REITERAÇÃO DE TEMA A QUE FOI NEGADO SEGUIMENTO. INVIABILIDADE DE ANÁLISE. COMPETÊNCIA DO TRIBUNAL DE ORIGEM. MATÉRIA RESIDUAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC INEXISTENTE. AGRAVO CONHECIDO EM PARTE. RECURSO ESPECIAL IMPROVIDO.
+Seguiu-se com a oposição de aclaratórios, os quais foram rejeitados. A ementa do decisum (fls. 992-996):
+PROCESSUAL CIVIL. ERRO MATERIAL INEXISTENTE. JUÍZO DE INADMISSIBILIDADE HÍBRIDO. AGRAVO NOS PRÓPRIOS AUTOS CONTRA TEMA QUALIFICADO. DESCABIMENTO. MENÇÃO A OUTROS ÓBICES. IRRELEVÂNCIA. PRECEDENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 713):
+APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. ELETROCEEE. REAJUSTE. IRSM DE 39,67%. INCLUSÃO DO ÍNDICE DE REAJUSTES PARAAPURAÇÃO DO SALÁRIO-REAL-DE-CONTRIBUIÇÃO. DESCABIMENTO. APESAR DE EXISTIR NORMA REGULAMENTAR PREVENDO QUE OREAJUSTE OCORRERÁ NA MESMA PROPORÇÃO DOS REAJUSTESADOTADOS PELA PREVIDÊNCIA OFICIAL, A ENTIDADE DEPREVIDÊNCIA PRIVADA NÃO ESTÁ OBRIGATORIAMENTE ATRELADAAOS ÍNDICES QUANDO ESSES PUDEREM CAUSAR DESEQUILÍBRIOATUARIAL À MANUTENÇÃO DO FUNDO DE PREVIDÊNCIACOMPLEMENTAR. O SUPERIOR TRIBUNAL DE JUSTIÇA, NOJULGAMENTO DO RESP N. 1.564.070-MG, JULGADO PELO RITO DOSRECURSOS REPETITIVOS - TEMA 941, FIRMOU TESE NO SENTIDO DE QUE: "NOS PLANOS DE BENEFÍCIOS DE PREVIDÊNCIA COMPLEMENTAR ADMINISTRADOS POR ENTIDADE FECHADA, APREVISÃO REGULAMENTAR DE REAJUSTE, COM BASE NOS MESMOS ÍNDICES ADOTADOS PELO REGIME GERAL DE PREVIDÊNCIA SOCIAL,NÃO INCLUI A PARTE CORRESPONDENTE A AUMENTOS REAIS". CASO CONCRETO ONDE, EM QUE PESE TENHA HAVIDO PERÍCIA ATUARIAL, NÃO HÁ DEMONSTRAÇÃO DE QUE OS ÍNDICES APLICADOS PELA FUNDAÇÃO NÃO FORAM SUFICIENTES PARA APLACAR A PERDA INFLACIONÁRIA. CASO CONCRETO ONDE O AUTOR SEQUER PREENCHEU OS REQUISITOS PARA A REVISÃO DE APOSENTADORIA PREVISTOS NA LEI 10.999/04 JUNTO AO INSS. APELO NÃO PROVIDO.
+Rejeitados os embargos de declaração opostos na origem (fls. 756-763).
+Nas razões do recurso interno, o agravante reitera a alegação de afronta aos arts. 489 e 1.022 do CPC, insistindo que o Tribunal não enfrentou sua alegação de inaplicabilidade do Tema n. 941/STJ, visto que sua questão recursal seria diversa e relacionada ao reajuste a menor do benefício.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 1.012-1.028).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUÍZO HÍBRIDO DE ADMISSIBILIDADE. ANÁLISE RESTRITA À QUESTÃO INADMITIDA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC INEXISTENTE. INCONFORMISMO.
+1. Houve juízo híbrido de admissibilidade que tanto inadmitiu como negou seguimento ao recurso especial, cabendo ao STJ apenas a análise da questão inadmitida, porquanto de competência da Corte de origem a análise de (in)conformidade do acórdão recorrido com entendimento firmado no paradigma em recurso repetitivo. Precedentes.
+2. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de ori gem efetivamente enfrentou a omissão suscitada, qual seja, o alegado direito ao índice de correção do percentual de 39,67% para o mês de fevereiro de 1994, tese rechaça por entender que a pretensão ia de encontro ao Tema n. 941/STJ, somado ao fato de que não preencheu os requisitos para a extensão da revisão ao seu benefício.
+3. O inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. Precedentes.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nada a prover.
+Conforme destacado na decisão agravada, houve juízo híbrido de admissibilidade que tanto inadmitiu como negou seguimento ao recurso especial, de modo que cabe ao STJ apenas a análise da questão inadmitida, porquanto de competência da Corte de origem a análise de (in)conformidade do acórdão recorrido com o entendimento firmado no paradigma em recurso repetitivo.
+Nesse sentido, cito:
+II - É cabível a interposição simultânea, de agravo interno para impugnar a aplicação da sistemática dos recursos repetitivos, a ser julgado pelo órgão colegiado do Tribunal de origem (art. 1.030, § 2º, c/c art. 1.021 do CPC); e do agravo, previsto no art. 1.042 (mesmo Códex), relativamente às demais questões, o que importa exceção ao princípio da unirrecorribilidade e, por consequência, não aplicação da fungibilidade recursal.
+(AgInt no AgInt no AgInt no REsp n. 1.907.400/PR, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 24/8/2022.)
+A parte inadmitida toca a alegação de ausência de prestação jurisdicional.
+Contudo, inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, o alegado direito ao índice de correção do percentual de 39,67% para o mês de fevereiro de 1994.
+E, a propósito do contexto recursal, destacou a origem que a pretensão ia de encontro ao Tema n. 941/STJ, somado ao fato de que não preencheu os requisitos para a extensão da revisão ao seu benefício. Vejamos:
+Diferentemente do que ocorre na previdência pública, a Previdência Privada utiliza o regime financeiro de capitalização obrigatório para os benefícios, situação que torna indispensável a constituição de reservas que garantam o benefício contratado.
+ ..
+Da análise dos autos, onde inclusive foi produzida prova pericial, não há qualquer demonstração de que a Fundação não tenha corrigido o salário real de contribuição do período discutido de forma correspondente à perda inflacionária.
+Embora o autor defenda a inaplicabilidade do Tema 941 do STJ, tenho que dentro deste contexto de discussão cabe aqui a ressaltar o entendimento posto pelo Superior Tribunal de Justiça, no julgamento do Resp n. 1.564.070-MG, conforme ementa que segue:
+ ..
+Por fim, cabe destacar a particularidade existente no caso, tendo em vista que o autor foi aposentado antes do marco temporal apontado na Lei nº 10.999/04, que autorizou "a revisão dos benefícios previdenciários concedidos com data de início posterior a fevereiro de 1994", no caso sua aposentadoria pelo INSS foi deferida a contar de outubro de 1993, conforme se vê do documento de concessão abaixo:
+ ..
+Ademais, o art. 2º da referida lei previu que teriam direito ao reajustamento o segurado ou dependentes, beneficiários do RGPS que firmassem o Termo de Acordo a que alude o Anexo I da lei até 31 de outubro do ano de 2005, sobre o qual não há notícia de que tenha sido levado a efeito. Conforme se vê do disposto no referido dispositivo:
+ ..
+Conforme se vê, a Lei estabeleceu requisitos para a revisão dos benefícios, os quais não foram preenchidos pelo autor, não havendo qualquer demonstração nos autos de que seu benefício pela previdência pública tenha sido revisado nos moldes da referida lei. Assim, não há como impor à requerida que revise o benefício do autor com base em percentual que a lei estabeleceu para revisão dos benefícios do INSS, sem que o autor sequer tenha sido beneficiado pela revisão junto à previdência pública.
+O fato de o benefício complementar ter sido deferido após fevereiro de 1994 não altera a situação, pois, não há como impor à Fundação a utilização do percentual exclusivamente com base no critério temporal, quando o Lei que instituiu a revisão do benefício do INSS previa dois critérios (momento da aposentadoria  termo de acordo) que não foram preenchidos pelo autor.
+Assim, por qualquer ótica que se analise a questão, a manutenção da improcedência dos pedidos é medida impositiva.
+Observa-se, assim, que as questões recursais foram efetivamente enfrentadas pelo Tribunal de origem, sendo que não se pode ter como omissa ou carente de fundamentação uma decisão tão somente porque suas alegações não foram acolhidas.
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional. A propósito, "Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, relatora Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008" (AgInt nos EDcl no AREsp n. 1.991.299/PI, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/9/2022).
+No mesmo sentido, cito:
+1.1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que a Corte de origem se manifestou de forma fundamentada sobre todas as questões que entendeu necessárias para o deslinde da controvérsia. O simples inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+(AgInt no AREsp n. 1.774.319/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2022.)
+2. A jurisprudência desta Corte é firme no sentido de que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida" (EDcl no AgRg no AREsp 859.232/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 31/5/2016). Nesse mesmo sentido: EDcl no AgInt no CC 178.307/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 10/12/2021.
+(EDcl no AgInt no AREsp n. 1.732.953/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/2/2022.)
+Observa-se que não houve omissão no julgado, sendo pertinente destacar que o acerto ou desacerto do entend imento de origem transcende a análise do mérito, ao qual foi negado seguimento, não havendo espaço para tal debate nesta instância.
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante capaz de infirmar os fundamentos da decisão ora agravada.
+Dessarte, não havendo nada a retificar ou esclarecer na decisão agravada, ela deve ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
