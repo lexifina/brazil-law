@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CELG DISTRIBUICAO S.A. - CELG D à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FALHA NA REDE ELÉTRICA. DANIFICAÇÃO DE EQUIPAMENTOS. RESPONSABILIDADE OBJETIVA. DANO MATERIAL CONFIGURADO. NEXO CAUSAL DEMONSTRADO. RELATÓRIOS PRODIST NÃO APRESENTADOS. DANO MORAL E DESVIO PRODUTIVO AFASTADO. SENTENÇA REFORMADA (fl. 349).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 373, I, do CPC, no que concerne à ausência de comprovação, pela parte autora, de "que o dano adveio de interrupções/quedas reiteradas na rede de energia elétrica cuja manutenção seja de responsabilidade da concessionária requerida", trazendo a seguinte argumentação:
+No presente caso, era necessário que a autora/recorrida tivesse comprovado o nexo causai entre a conduta da Equatorial Goiás Distribuição de Energia S.A e o dano alegado. Ou seja, para condenar a empresa fornecedora de energia elétrica era necessário demonstrar que o dano adveio de interrupções/quedas reiteradas na rede de energia elétrica cuja manutenção seja de responsabilidade da concessionária requerida (rede externa).
+No entanto, a autora não produziu nenhuma prova nesse sentido.
+Salienta-se que a autora/recorrida não trouxe aos autos que a oscilação de energia se deu na rede elétrica externa (de responsabilidade da concessionária Equatorial Goiás Distribuição de Energia S.A); ou se da rede elétrica interna (de responsabilidade da autora).
+ ..
+No presente caso, repisa-se que a autora/recorrida não fez nenhuma prova suficiente do alegado.
+Por essa razão, o acórdão recorrido ao entender que o direito pretendido estava suficicntcmcntc comprovado, acabou por ferir a regra do ônus probatório, ou seja, violou o art. 373,1, do CPC, ao impor condenação a concessionária de energia elétrica sem antes apurar que a interrupção de energia se deu em decorrência de defeitos na rede interna do autor (fls. 558/562).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Pois bem. Inexistindo dúvidas acerca do direito do particular ao ressarcimento, necessária a comprovação do dano, da ação ou omissão, bem como do nexo causai entre o prejuízo e a conduta praticada pela concessionária do serviço público, levando-se em consideração a natureza jurídica da responsabilidade civil da ré/apelada, que é, sem dúvida, objetiva.
+Isto porque a responsabilidade civil da Administração Pública está insculpida no artigo 37, §6º da CF, segundo o qual as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que os seus agentes, nessa qualidade, causarem a terceiros.
+ ..
+Na espécie, por ser a ENEL DISTRIBUIÇÃO S/A uma concessionária de serviços públicos, responde objetivamente pelos atos de seus agentes, cumprindo-lhe o dever de indenizar os danos daí decorrentes, independentemente da demonstração de culpa.
+ ..
+Esclarecida a natureza da responsabilidade da concessionária ré (objetiva), importa averiguar a existência ou não, no plano fático, dos requisitos configuradores de sua responsabilidade civil.
+Compulsando os autos, observa-se que o apelante colacionou com a peça exordial diversos documentos, tais como laudo de vistoria da própria ENEL, atestando dano na fonte da geladeira, relatório de vistoria da seguradora confirmando danos elétricos na fiação da residência (ao que parece, o recorrente não obteve a indenização do seguro porque a apólice referia-se a dano decorrente de incêndio); espelho de atendimento no PROCON; notas fiscais de compra de itens de reparação elétrica e pedido de reposição do bem danificado (geladeira).
+Lado outro, a concessionária/apelada, não apresentou nenhum fato desconstitutivo do direito do apelante, nos moldes do art. 373, II, do CPC, apresentando apenas Laudo de Análise de Medição, no que toca ao período de 13/07/2018 a 20/07/2018, e Relatório de Interrupções na rede, referente aos meses de dezembro/janeiro e fevereiro de 2018, portanto, de períodos desconexos com o fato alegado, já que a pane na residência ocorreu em 16/03/2018. Aliás, frise-se, os documentos apresentados não atestam distúrbios, mas também não comprovam a qualidade do serviço de fornecimento de energia elétrica.
+Em sendo assim, resta comprovado o nexo de causalidade entre os danos e a atividade exercida pela recorrida, desincumbindo-se a parte autora/apelante do ônus probatório que lhe incumbia, nos termos do art. 373, I, do CPC.
+ ..
+Ademais, como o autor/apelante também apresentou requerimento administrativo de ressarcimento perante a própria Concessionária, cabia a esta, nos termos do Procedimento de Distribuição - PRODIST, apresentar cinco relatórios atestando ou não ocorrências de irregularidade no fornecimento de energia elétrica, do que novamente não se desincumbiu.
+ ..
+Por todo o cenário fático dos autos, a meu ver, deve a apelada ressarcir, além da queima da geladeira, os gastos com material adquirido pelo apelante, decorrente do sinistro, no importe total de R$ 3.118,08 (três mil, cento e dezoito reais e oito centavos), discriminados nas notas fiscais vistas no evento 01, arquivo 10 (tomadas, fios, disjuntores, lâmpadas, soquetes, chave teste, parafuso, brocas e interruptores) (fls. 351/356).
+Assim, incide a Súmula n. 7 do STJ ("A pr etensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
