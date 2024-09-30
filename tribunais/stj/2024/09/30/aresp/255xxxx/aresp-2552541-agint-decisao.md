@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interno interposto por BANCO DO ESTADO DO RIO GRANDE DO SUL S.A. contra decisão da Presidência desta Corte que não conheceu do recurso especial (e-STJ, fls. 469-471).
+Consta nos autos que a agravante interpôs recurso especial contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fl. 180):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO DE CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL (RMC) C/C INDENIZATÓRIA.
+SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS. INSURGÊNCIA DA PARTE AUTORA.
+ALEGADA ILEGALIDADE DO EMPRÉSTIMO VIA CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL (RMC). INEXISTÊNCIA DE PROVAS DE QUE O CARTÃO FOI ENVIADO OU UTILIZADO. ABUSIVIDADE CONFIGURADA. PRETENSÃO DE CONTRATAR EMPRÉSTIMO CONSIGNADO COMPROVADA. CRÉDITO DISPONIBILIZADO. RETORNO AO "STATUS QUO ANTE". REPETIÇÃO SIMPLES DO INDÉBITO.
+DANO MORAL. ATO ILÍCITO CONFIGURADO. DESCONTOS REALIZADOS NO BENEFÍCIO PREVIDENCIÁRIO DA PARTE AUTORA QUE COLOCA EM RISCO A SUA SUBSISTÊNCIA.
+VERBA INDENIZATÓRIA. PROPORCIONALIDADE E RAZOABILIDADE. VALOR DE R$ 10.000,00 (DEZ MIL REAIS) QUE SE MOSTRA RAZOÁVEL AO CASO CONCRETO.
+OBSERVÂNCIA DOS PARÂMETROS DESTA CÂMARA.
+ÔNUS SUCUMBENCIAL. READEQUAÇÃO. PARTE QUE DECAIU DE PARTE MÍNIMA DA PRETENSÃO. NECESSÁRIA CONDENAÇÃO DO RÉU AO PAGAMENTO DA INTEGRALIDADE DAS CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 15% SOBRE O VALOR DA CONDENAÇÃO. CABIMENTO CONFORME ARTIGO 85, § 2º, DO CPC. HONORÁRIOS RECURSAIS. DESCABIMENTO NO PRESENTE CASO.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+No recurso especial, o recorrente alegou a violação e divergência de interpretação do art. 6º, § 5º, da Lei n. 10.820/2015.
+Sustentou que, "no presente caso, não há dúvidas acerca do que foi contratado pelas partes, de modo que, acatar a alegação do Recorrido de que não houve a contratação ou de que apenas autorizou o empréstimo consignado e não a forma como foi feito a concessão de crédito, iria contra os princípios da boa-fé objetiva, eis que possibilitaria a parte de furtar-se do pagamento do crédito que lhe foi regularmente concedido pela instituição Recorrente" (e-STJ, fls. 222-223).
+Sem contrarrazões (e-STJ, fl. 258).
+O Tribunal local não admitiu o processamento do recurso especial (e-STJ, fls. 261-262).
+Nesta Corte, a Presidência não conheceu do recurso por verificar que "há indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, ou quais dispositivos legais da lei citada genericamente seriam objeto de dissídio interpretativo" (e-STJ, fl. 307).
+No agravo interno (e-STJ, fl. 312-315), a parte alega não incidir o óbice da Súmula 284/STF e requer o conhecimento do recurso especial.
+Não foi apresentada impugnação, conforme certificado às fls. 320-321 (e-STJ).
+Brevemente relatado, decido.
+Com fundamento no art. 259, § 6º, do RISTJ, afasto o óbice reconhecido pela Presidência desta Corte e passo à nova análise do recurso especial.
+A Corte local constatou a ausência de elementos a comprovar a contratação do cartão de crédito consignado, com os seguintes fundamentos (e-STJ, fls. 182-185; sem grifos no original):
+A sentença julgou improcedentes os pedidos formulados na presente ação declaratória c/c indenizatória, por entender o Magistrado a quo que o contrato de cartão de crédito com reserva de margem consignável (RMC) é válido, nos termos contratados.
+A parte autora/apelante sustenta, em síntese, a ilegalidade do contrato de cartão de crédito com reserva de margem consignável (RMC). Alega que nunca solicitou empréstimo por meio de cartão de crédito e sim empréstimo consignado.
+Inicialmente, cumpre destacar que as operações de empréstimos consignado e de cartão de crédito com reserva de margem consignável encontram-se amparadas na Lei 10.820/03 que assim dispõe:
+ ..
+Desse modo, verifica-se que ambas as modalidades são regulamentadas, contudo, possuem algumas distinções, conforme muito bem explicado pelo eminente Desembargador Robson Luz Varella, nos autos da Apelação Cível n. 0301157-67.2017.8.24.0042, vale citar:
+ ..
+Assim, muitas vezes o consumidor procura um empréstimo consignado com parcelas taxas e juros mais baixos e, induzido a erro, acaba contratando um cartão de crédito sem saber.
+Com efeito, "é sabido que tal prática abusiva e ilegal difundiu-se, atingindo parcela significativa de aposentados e pensionistas, tendo como consequência o ajuizamento de diversas ações visando tutelar o direito dos consumidores coletivamente considerados a fim de reconhecer a nulidade dessa modalidade de desconto realizado a título de Reserva de Margem Consignável (RMC) (Apelação n. 5013544-95.2020.8.24.0075/SC, rel. Des. ROBSON LUZ VARELLA, j. em 25-1-2022).
+Dito isso, da análise dos autos verifica-se que, em que pese o apelante ter firmado termo de adesão ao cartão de crédito e autorizado o desconto em folha de pagamento (evento 9, CONTR5), as faturas demonstram que não houve a utilização e o desbloqueio do cartão de crédito. Destaque-se, também, que as rubricas lançadas nas faturas como "saque", "saque complementar" e/ou "telesaque" não comprovam de forma concreta o uso do cartão de crédito - diga- se: o uso do cartão magnético em si - pela parte autora. Com efeito, não há nenhuma indicação segura do uso físico do cartão de crédito como ocorre nos casos em que se identifica a existência de lançamentos de compras nas faturas correspondentes. Além disso, não restou comprovado nos autos que o cartão e as faturas tenham sido efetivamente enviadas para o endereço do apelante, ônus que incumbia ao réu, nos termos do artigo 373, inciso II, do Código de Processo Civil.
+Resta claro, portanto, que o autor/apelante tinha a intenção de contratar um empréstimo consignado e não o serviço de cartão de crédito com reserva de margem consignável. Não bastasse, a amortização mensal oriunda do desconto no benefício previdenciário é mínima, o que configura prática abusiva, uma vez que se o consumidor deixar de adimplir o restante do valor devido, acabam por incidir juros sobre a totalidade do valor ainda pendente, o que onera o contrato praticamente na mesma proporção do pagamento realizado mês a mês.
+Outrossim, o termo de adesão não demonstra de forma clara os serviços contratados e a forma de pagamento, o que configura violação aos princípios da informação e da transparência, pois impõe ao consumidor obrigação que ele desconhece em afronta aos artigos 6º e 39 do Código de Defesa do Consumidor.
+Dessa forma, é evidente que os descontos dos valores relativos ao cartão de crédito consignado no benefício previdenciário do apelante caracterizam prática considerada abusiva pelo Código de Defesa do Consumidor e representam ilícito passível de indenização (arts. 186 e 927, do Código Civil), isso porque tais descontos apresentam risco concreto de diminuir a capacidade financeira do consumidor.
+Em casos semelhantes, esta Corte de Justiça já se manifestou no seguinte sentido:
+ ..
+Além disso, cumpre destacar que, mesmo quando se verifica que a margem de novos empréstimos consignados estava esgotada por ocasião da contratação, não há como deixar de reconhecer a ilicitude praticada pela instituição financeira, pois tal situação não implica, por si só, o reconhecimento de que a parte autora tinha ciência inequívoca da contratação de um cartão de crédito com reserva de margem consignável. Nesse sentido colhe-se de decisão desta 2ª Câmara de Direito Comercial:
+ ..
+A conclusão do Tribunal de origem aponta não foram prestadas as informações necessárias a respeito do tipo de contrato que seria realizado entre as partes. Dessa forma, foi reconhecida a irregularidade na cobrança da dívida.
+A revisão de tais premissas pressupõe o reexame das provas produzidas no processo e interpretação das cláusulas contratuais, o que é inadmissível na via eleita, nos termos dos enunciados n. 5 e 7 da Súmula desta Corte Superior.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA E INDENIZATÓRIA. CONTRATAÇÃO DE EMPRÉSTIMO CONSIGNADO VIA CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL (RMC). VÍCIO DE CONSENTIMENTO CONSTATADO. SÚMULAS N. 5 E 7/STJ.
+1. O Tribunal de origem, através da análise dos fatos e provas acostados aos autos, especialmente do contrato de cartão de crédito consignado e dos extratos referentes ao serviço, entendeu que houve desvirtuação na contratação do empréstimo por meio de cartão de crédito com reserva de margem consignável.
+2. Rever o entendimento firmado no acórdão recorrido a respeito do vício de consentimento demandaria interpretação de cláusula contratual e reexame de provas, providências vedadas nos termos das Súmulas 5 e 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.405.232/SC, Relator Ministro Humberto Martins, Terceira Turma, julgado em 11/12/2023, DJe de 18/12/2023.)
+Registre-se que a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e o aresto paradigma, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo para, em juízo de reconsideração, não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte adversa em 2% sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DESTA CORTE. NOVA ANÁLISE. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C NULIDADE CONTRATUAL E RESTITUIÇÃO E INDENIZAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO CONSIGNADO E EMPRÉSTIMO CONSIGNADO. TERMO DE ADESÃO. AUSÊNCIA DE INFORMAÇÕES CLARAS E PRECISAS. VIOLAÇÃO AO DEVER DE INFORMAÇÃO CONSTATADO. COBRANÇA INDEVIDA. REVISÃO. SÚMULAS N. 5 E 7/STJ. DISSÍDIO PREJUDICADO DIANTE DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA, EM JUÍZO DE RECONSIDERAÇÃO, NÃO CONHECER DO RECURSO ESPECIAL.
