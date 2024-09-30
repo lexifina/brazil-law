@@ -1,0 +1,21 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Jose Wilson Santos de Franca - condenado por roubo circunstanciado a 10 anos de reclusão, e a 45 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de Pernambuco (fls. 10/18), comporta parcial acolhimento.
+Com efeito, busca a impetração redimensionar a pena imposta - na condenação proferida na Ação Penal n. 0016786-10.2019.8.17.0001 (fls. 106/109 - da 14ª Vara Criminal da comarca do Recife/PE) -, com:
+a) o afastamento da negativação do vetor culpabilidade - sustentando que o emprego de grave ameaças através de arma de fogo é circunstância inerente ao próprio crime de roubo majorado, posto que constitui uma de suas elementares típicas e fato configurador da majorante já apreciada na terceira fase da dosimetria, não devendo, por isso, ser utilizada como motivação para exasperação da pena-base, sob pena de bis in idem (fl. 6);
+b) a utilização da fração de 1/6 para exasperação da pena-base, por circunstância judicial negativada - arguindo ser este o quantum que melhor atende aos critérios da Razoabilidade e Proporcionalidade, ainda mais quando ausentes justificativas concretas para adoção de patamar superior, como ocorreu no caso em apreço (fl. 6); e
+c) a utilização da fração de 1/6 pela aplicação da atenuante da confissão - infirmando que foi utilizada condenação pretérita do paciente para inibir a redução da pena-intermediária na fração de 1/6, condenação esta que, contudo, não foi reconhecida pelo Juízo de origem (fl. 7).
+Sem pedido liminar.
+Inicialmente, registre que não deveria ser processada a impetração, pois o acórdão hostilizado foi publicado em data recente, estando em curso o lapso para interposição de recursos, o que impede o processamento do writ (AgRg no HC n. 873.533/ES, Ministro Teodoro Silva Santos, Sexta Turma, DJe 15/3/2024).
+Ademais, não foi demonstrado constrangimento ilegal na negativação do vetor culpabilidade, em razão da posição de liderança do agente - culpabilidade resta configurada em razão de o acusado ter liderado toda a empreitada criminosa, sendo o responsável por apontar a arma e submeter a vítima (fl. 13) -, pois em consonância com o entendimento desta Corte Superior (AgRg no HC n. 916.099/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 15/8/2024).
+Entretanto, tem-se que demonstrado constrangimento ilegal nas frações utilizadas para exasperação da pena, na primeira fase, e para atenuar em razão da confissão, na fase intermediária. Confira-se:
+a) a pena-base foi exasperada em 3/4, o que equivale a 1/4 por cada vetor negativado, sem fundamentação para modulação de fração (AgRg no AREsp n. 2.654.780/MA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 3/9/2024); e
+b) a atenuante de confissão foi aplicada na fração de 1/9, também sem motivação específica para utilização de fração diversa de 1/6.
+Necessário, então, redimensionar a pena imposta ao paciente: na primeira fase, mantida a negativação dos vetores culpabilidade, antecedentes criminais e circunstâncias do crime, na fração de 1/6 por cada, fixa-se a pena-base em 6 anos de reclusão e 15 dias-multa. Na segunda fase, aplica-se a atenuante da confissão em 1/6, passando a reprimenda para 5 anos de reclusão e 12 dias-multa. Na terceira fase, mantida a causa de aumento de pena emprego de arma de fogo, em 2/3 (fl. 15), e ausentes outras causas de aumento ou diminuição, tem-se a pena definitiva em 8 anos e 4 meses de reclusão, e 20 dias-multa.
+Finalmente, considerando a pena corporal imposta, não há ilegalidade na fixação do regime inicial fechado.
+Em razão disso, concedo liminarmente a ordem impetrada, em parte, para redimensionar a pena imposta ao paciente para 8 anos e 4 meses de reclusão, e 20 dias-multa, referente à condenação proferida na Ação Penal n. 0016786-10.2019.8.17.0001, da 14ª Vara Criminal da comarca de Recife/PE.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. PRIMEIRA FASE. CULPABILIDADE. POSIÇÃO DE LIDERANÇA. POSSIBILIDADE. MODULAÇÃO DA FRAÇÃO DE EXASPERAÇÃO DE PENA-BASE E DE ATENUANTE DA CONFISSÃO. AUSÊNCIA DE FUNDAMENTAÇÃO ESPECÍFICA. PENA REDIMENSIONADA. CONSTRANGIMENTO PARCIAL EVIDENCIADO.
+Ordem liminarmente concedida, em parte, nos termos do dispositivo.
