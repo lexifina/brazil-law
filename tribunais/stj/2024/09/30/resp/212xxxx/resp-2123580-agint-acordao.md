@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno do ESTADO DE MINAS GERAIS contra decisão de minha lavra em que, com fundamento na ausência de vício de integração, na impossibilidade de se discutir a má aplicação de tese firmada em repercussão geral pelo STF e na compatibilidade do acórdão com a jurisprudência dos tribunais superiores, conheci em parte do recurso especial e neguei-lhe provimento.
+O agravante alega, em síntese, que o vício de integração decorre da omissão do acórdão do TJMG em não apreciar as alegações formuladas em momento oportuno, especialmente no que concerne à ausência de indicação dos precedentes do STJ utilizados como razão de decidir pelo acórdão, bem como quanto à alegada má aplicação da regra interpretativa do art. 111 do CTN ante a expressa previsão na legislação local impeditiva da pretensão do particular.
+Aduz, ainda, a existência de contradição ao não se aplicar o dispositivo de legislação local por fundamento constitucional e afirmar que não se trata de reconhecimento de inconstitucionalidade do dispositivo.
+Anoto não existir no agravo interno nenhuma impugnação da decisão monocrática na parte que discute o mérito da controvérsia trazida pelo recurso especial (extensão da imunidade tributária subjetiva às operações de importação de mercadoria por entidades de assistência social para utilização em seu ativo imobilizado), questionando-se exclusivamente a negativa de provimento quanto à ausência de vício de integração.
+Contrarrazões apresentadas.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+VOTO
+Os argumentos ora ventilados não convencem.
+Como assinalado na decisão agravada, o apelo nobre se origina de ação ordinária anulatória de débito de ICMS lançado pelo ESTADO na operação de importação de equipamento médico-hospitalar destinado à consecução dos objetivos estatutários da ASSOCIAÇÃO MÁRIO PENNA (entidade de assistência sem fins lucrativos).
+No primeiro grau de jurisdição, a ação foi julgada improcedente ao argumento de que não há nos autos provas do cumprimento dos requisitos do art. 14 do CTN para o gozo da imunidade tributária e de que, não sendo a autora contribuinte do imposto estadual, mas sim os comerciantes que o venderam, não seria a operação de importação abrangida pela imunidade.
+O Tribunal mineiro deu provimento à apelação para julgar procedente a ação anulatória.
+Consignou ser a autora conhecida entidade assistencial e que, com fundamento em orientação firmada no STF, a imunidade prevista no art. 150, inciso VI, alínea "c", da Constituição Federal abrange o Imposto sobre Circulação de Mercadorias e Serviços incidente sobre a importação de mercadorias por entidades de assistência social, enquanto contribuinte de direito, relacionadas às finalidades essenciais destas.
+Concluiu que, "diante da existência da estreita correlação do equipamento com as atividades fim da apelante, a imunidade tributária deverá lhe ser assegurada, o que impõe a reforma da sentença" (e-STJ fl. 452).
+Opostos embargos de declaração, foram eles rejeitados.
+O ESTADO alegou, no que interessa ao presente agravo interno, violação dos arts. 489 e 1.022 do CPC/2015.
+Sustentou, em síntese, a existência de vício de integração por ausência de apreciação no acórdão recorrido dos seguintes temas suscitados na origem: (i) a imunidade constitucional não incidir sobre a circulação de mercadorias; (ii) a interpretação literal das imunidades tributárias; (iii) a aplicação incorreta do Tema 342 de repercussão geral do STF, que, em nenhum momento, estende a imunidade ao ICMS; (iv) o prejuízo aos empresários nacionais ao se conferir imunidade a importados enquanto similares sejam produzidos no país; (v) a violação da cláusula de reserva de plenário ao se afastar norma estadual cogente, a saber, o item 32 do Anexo I do RICMS.
+Como afirmei quando da decisão monocrática ora impugnada, o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia.
+Como relatado, a Corte mineira deu ao caso concreto aplicação à orientação firmada no STF segundo a qual a imunidade prevista no art. 150, inciso VI, alínea "c", da Constituição Federal abrange o Imposto sobre Circulação de Mercadorias e Serviços incidente sobre a importação de mercadorias por entidades de assistência social, enquanto contribuinte de direito, e relacionadas às finalidades essenciais destas.
+No que concerne à tese relativa à violação de reserva de plenário em razão da ausência de aplicação do item 32 do Anexo I do RICMS, verifico que a discussão é impertinente nos autos.
+Com efeito, consta nas razões do recurso especial que o referido dispositivo da legislação estadual trata de restrição a gozo de imunidade do ICMS em operações que versam sobre mercadoria importada quando há similar nacional.
+No entanto, a discussão acerca da existência de similar nacional seria pertinente à solução da controvérsia se, e apenas se, a imunidade tivesse natureza objetiva e não subjetiva, como na espécie, que decorre da natureza assistencial da entidade.
+Ademais, o tema da extensão da imunidade tributária das entidades assistências às operações de importação de bens destinadas à sua atividade essencial recebeu apreciação pelo Supremo Tribunal Federal no julgamento do RE 608.872 pelo Tribunal Pleno, sendo a orientação do Pretório Excelso utilizada como razões de decidir do precedente arrolado no acórdão recorrido como indicativo da jurisprudência pacífica do Supremo.
+Com efeito, a Suprema Corte decidiu, no julgamento do tema 342 do STF, que a imunidade tributária subjetiva das entidades assistenciais só abrange as operações de transmissão de mercadoria para fins de incidência do ICMS quando a entidade figura na posição de contribuinte de direito, hipótese que se observa na importação de mercadorias pela entidade assistencial.
+Essa circunstância afasta a necessidade de discussão acerca da violação da clausula de reserva de plenário no acórdão do Tribunal de origem, bem como a alegação formulada pela recorrente de que o acórdão teria sido omisso quanto à tese fixada em julgamento pelo STF com repercussão geral admitida.
+Quanto ao mais, a discussão acerca do suposto prejuízo aos empresários nacionais no reconhecimento da imunidade tem natureza política e não jurídica, não interferindo na solução judicial da controvérsia.
+Por fim, em atenção à alegação formulada no agravo interno de que há contradição no acórdão ao deixar de aplicar o art. 32 do RICMS com fundamento constitucional e não reconhecer esta ação como reconhecimento de inconstitucionalidade sem a observância da cláusula de reserva de plenário, anoto que inexiste na hipótese declaração de inconstitucionalidade ou negativa de vigência do dispositivo da legislação estadual, mas sim interpretação sistemática do ordenamento, fundada na orientação firmada pelo órgão pleno do Pretório Excelso.
+O Tribunal a quo promoveu mera subsunção do fato à norma legal e reconheceu que a hipótese discutida nos autos não se encontra abarcada pelo dispositivo de direito local que o ESTADO pretende aplicar, determinando a correta incidência do regramento legal às circunstâncias descritas.
+Dessa forma, inexiste vício de integração no acórdão a ensejar violação do art. 1.022 do CPC/2015.
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+Por fim, embora não merecedor de acolhimento, o agravo int erno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
