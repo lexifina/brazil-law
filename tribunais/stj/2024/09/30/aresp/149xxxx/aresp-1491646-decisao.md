@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO JULGADA IMPROCEDENTE. MULTA PREVISTA NO ART. 3º, § 6º, DO DECRETO-LEI 911/69. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. A redação do art. 3º, § 6º do Dec. Lei 911/69 é clara e taxativa, ao determinar a aplicação da multa no importe de 50% do valor financiado somente quando a sentença proferida na ação de busca e apreensão julgar improcedente o pedido. Viável o arbitramento de honorários advocatícios para pronto pagamento em percentual compatível com o valor a ser executado em cumprimento de sentença. Recursos improvidos.
+Decisão unânime.
+A parte agravante sustenta que o acórdão estadual é omisso; a base de cálculo para a liquidação da sentença - ou seja, para a incidência da multa do art. 3º, § 6º, do Decreto-L ei 911/1969, deve corresponder aos bens que, de fato, foram alienados no procedimento decorrente da busca e apreensão, e não a todos os bens apreendidos injustamente. Afirma que haverá enriquecimento ilícito do recorrido, caso seja mantido o critério estabelecido no acórdão.
+Quanto à alegada violação aos arts. 489, § 1º, IV, e 1.022, I, II, do Código de Processo Civil, sem razão o recorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+No que se refere à base de cálculo da multa executada, a Corte de origem entendeu que, com base na sentença transitada em julgado, e na ação rescisória, "a multa é fixada com base no valor financiado originalmente, conforme disposto no § 6º do art. 3º do Decreto -Lei nº 911/1969" (fl. 2074 e-STJ).
+Outrossim, respondendo à pretensão de excluir desse valor os bens entregues ao Banco Sudameris (outro credor fiduciário), a Corte de origem fez incidir a regra do art. 811, III, do CPC, fazendo referência à jurisprudência do STJ, segundo a qual "julgada improcedente a ação de busca e apreensão na qual foi pedida e concedida liminar para apreensão  ..  responde o autor da medida pelos prejuízos causados à parte".
+Com efeito, a parte agravante não logrou infirmar a aplicação desse dispositivo legal ao caso, olvidando, também, impugnar a incidência da jurisprudência do STJ na espécie, circunstância que atrai a incidência da Súmula 283/STF.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
