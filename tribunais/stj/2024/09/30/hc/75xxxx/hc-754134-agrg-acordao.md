@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. ART. 171, § 5º, DO CÓDIGO PENAL. RETROATIVIDADE. DECADÊNCIA. AUSÊNCIA DE ILEGALIDADE. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. Na espécie, o entendimento da Corte de origem foi exarado em alinhamento ao posicionamento da Terceira Seção do Superior Tribunal de Justiça de que, em crimes de estelionato, a necessidade de representação da vítima, trazida ao mundo jurídico com a entrada em vigor da Lei n. 13.964/2019, não alcança processos cuja denúncia tenha sido oferecida antes da vigência da referida norma.
+2. Ainda que o Plenário do Supremo Tribunal Federal tenha decidido pela retroatividade do disposto no art. 171, § 5º, do Código Penal, desde que antes do trânsito em julgado da condenação, "também destacou que a retroatividade da norma deve ser aplicada apenas àqueles casos em que não haja demonstração inequívoca do interesse da vítima na persecução penal. Precedente: HC n. 208.817 AgRg, relatora Ministra Cármen Lúcia, Tribunal Pleno, julgado em 13/4/2023, DJe 2/5/2023" (AgRg no HC n. 828.412/PR, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024), o que não é o caso dos autos, em que a vítima compareceu à delegacia e registrou boletim de ocorrência para a devida apuração dos fatos, satisfazendo a condição de procedibilidade em questão.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por ALCIMAR ALVES DE FARIA contra a decisão de e-STJ fls. 5406/5408, em que deneguei a ordem na qual sustentou a defesa a existência de constrangimento ilegal pelo não reconhecimento da decadência da persecução penal com base no disposto no § 5º do art. 171 do Código Penal.
+Neste recurso, sustenta a defesa que deve ser aplicado o recente entendimento do Supremo Tribunal Federal sobre o tema no sentido da retroatividade da necessidade de representação da vítima nas acusações em andamento por estelionato, desde que antes do trânsito em julgado.
+Requer, ao final, a reconsideração da decisão agravada ou o provimento do recurso.
+É, em síntese, o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. ART. 171, § 5º, DO CÓDIGO PENAL. RETROATIVIDADE. DECADÊNCIA. AUSÊNCIA DE ILEGALIDADE. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. Na espécie, o entendimento da Corte de origem foi exarado em alinhamento ao posicionamento da Terceira Seção do Superior Tribunal de Justiça de que, em crimes de estelionato, a necessidade de representação da vítima, trazida ao mundo jurídico com a entrada em vigor da Lei n. 13.964/2019, não alcança processos cuja denúncia tenha sido oferecida antes da vigência da referida norma.
+2. Ainda que o Plenário do Supremo Tribunal Federal tenha decidido pela retroatividade do disposto no art. 171, § 5º, do Código Penal, desde que antes do trânsito em julgado da condenação, "também destacou que a retroatividade da norma deve ser aplicada apenas àqueles casos em que não haja demonstração inequívoca do interesse da vítima na persecução penal. Precedente: HC n. 208.817 AgRg, relatora Ministra Cármen Lúcia, Tribunal Pleno, julgado em 13/4/2023, DJe 2/5/2023" (AgRg no HC n. 828.412/PR, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024), o que não é o caso dos autos, em que a vítima compareceu à delegacia e registrou boletim de ocorrência para a devida apuração dos fatos, satisfazendo a condição de procedibilidade em questão.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O agravo não prospera.
+Como destaquei na decisão agravada, a Corte de origem consignou que "a denúncia foi oferecida em 28/8/2019 e recebida em 5/9/2019, datas anteriores à alteração legislativa em debate (publicada em 24/12/2019), razão pela qual a exigência de manifestação formal das vítimas pela continuidade da ação penal se mostra dispensada" (e-STJ fl. 115), e que " o  entendimento da Corte de origem está em consonância com a jurisprudência da Terceira Seção do Superior Tribunal de Justiça, firmada no sentido de que, em crime de estelionato, a necessidade de representação da vítima, trazida ao mundo jurídico com a entrada em vigor da Lei n. 13.964/2019, não alcança o processo cuja denúncia tenha sido oferecida antes da vigência da mencionada norma, tal como ocorre na hipótese dos autos" (AgRg no AREsp n. 2.271.098/SE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/5/2023, DJe de 5/6/2023).
+Colacionei, no mesmo sentido, o seguinte julgado:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. APLICAÇÃO RETROATIVA DO ART. 171, § 5º, DO CÓDIGO PENAL (LEI N. 13.964/2019). IMPOSSIBILIDADE. OFERECIMENTO DA DENÚNCIA ANTES DA ALTERAÇÃO LEGISLATIVA. POSICIONAMENTO DA TERCEIRA SEÇÃO. REPRESENTAÇÃO DA VÍTIMA. FORMALIDADE DESNECESSÁRIA. SUFICIÊNCIA DA COMUNICAÇÃO DOS FATOS À AUTORIDADE POLICIAL. AGRAVO DESPROVIDO.
+1. "A Terceira Seção deste Superior Tribunal, no julgamento do HC n. 610.201/SP (DJe 8/4/2021), pacificou o entendimento de que a norma que instituiu a condição de procedibilidade, no delito previsto no art. 171 do Código Penal, não retroage para atingir os casos em que já houve o oferecimento da denúncia" (AgRg no REsp n. 2.074.116/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+2. A jurisprudência do Superior Tribunal de Justiça entende pela prescindibilidade de formalidade na representação da vítima para a persecução penal de ações penais públicas condicionadas à representação. Assim, o fato de a vítima ter levado o conhecimento do fato à autoridade policial é suficiente para a persecução penal.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 860.589/GO, de minha relatoria, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Ainda que assim não fosse, não seria o caso de acolhimento do presente recurso.
+Com efeito, embora o Plenário do Supremo Tribunal Federal tenha decidido pela retroatividade do disposto no art. 171, § 5º, do Código Penal, desde que antes do trânsito em julgado da condenação, "também destacou que a retroatividade da norma deve ser aplicada apenas àqueles casos em que não haja demonstração inequívoca do interesse da vítima na persecução penal. Precedente: HC n. 208.817 AgRg, relatora Ministra Cármen Lúcia, Tribunal Pleno, julgado em 13/4/2023, DJe 2/5/2023" (AgRg no HC n. 828.412/PR, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024 ), o que não é o caso dos autos, em que a vítima compareceu à delegacia e registrou boletim de ocorrência para devida apuração dos fatos, satisfazendo a condição de procedibilidade em questão.
+Não há que se falar, portanto, em decadência.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
