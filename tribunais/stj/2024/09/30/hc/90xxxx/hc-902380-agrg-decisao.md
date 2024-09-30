@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por WASHINGTON LEANDRO SILVA e WILSON LEANDRO SILVA contra decisão na qual não conheci do habeas corpus, por ser substitutivo de revisão criminal, mas concedi a ordem de ofício, para, afastando as consequências do crime e reconhecendo a atenuante da confissão, reduzir as reprimendas de WASHINGTON para 4 anos e 8 meses de reclusão e de WILSON para 3 anos, 9 meses e 10 dias de reclusão, em razão da prática do crime de homicídio tentado, mantido para ambos o regime inicial fechado (e-STJ fls. 1.065/1.069).
+Em suas razões, alega a defesa dos agravantes que, "no presente caso, a vítima suportou sequelas próprias de uma tentativa de homicídio e a consumação ficou distante de ser atingida no percurso do iter criminis, sendo de rigor a diminuição no patamar médio (1/2)" (e-STJ fl. 1.077) e que, em relação ao agravante Wilson, deve ser estabelecido o regime aberto ou semiaberto, por ser primário e não haver justificativa idônea para o recrudescimento do regime.
+Assim, "requer o agravante seja reconsiderada a r. decisão monocrática de fls. 1.065/1.069, ou provido o presente Agravo Regimental e, consequentemente, concedida a ordem em sua integralidade com o redimensionamento da pena e adequação do regime" (e-STJ fl. 1.082).
+É o relatório.
+Decido.
+Assiste razão ao agravante apenas quanto à ocorrência de flagrante ilegalidade na fixação do regime inicial relativamente ao agravante WILSON LEANDRO SILVA. Vejamos.
+De fato, embora a instância ordinária tenha trazido fundamentos idôneos para recrudescer o regime, já que apresentada gravidade concreta substanciada no fato de que, "embora seja ele primário, como bem pontuou a magistrada de piso, "as circunstâncias desfavoráveis e a personalidade violenta, como acima referido, reiterando, novamente, que se trata de crime praticado com brutalidade contra Evair, que não tinha qualquer relacionamento com WILSON, o qual estava excessivamente embriagado e sob efeito de drogas, de rigor a fixação de regime mais gravoso, pois o regime intermediário não seria suficiente no presente caso"" (e-STJ fls. 1.002/1.003), considerando o quantum de pena imposto para esse réu, inferior a 4 anos, o regime imediatamente mais gravoso é o semiaberto para resgate inicial da reprimenda imposta.
+Mantido, no mais, o acórdão impetrado.
+Ante o exposto, dou parcial provimento ao agravo regimental, apenas para estabelecer o regime semiaberto para resgate inicial da reprimenda imposta ao agravante WILSON LEANDRO SILVA.
+Publique-se. Intimem-se.
+EMENTA
