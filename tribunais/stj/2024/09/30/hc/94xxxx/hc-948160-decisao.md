@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ALEXANDRO RENATO DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0004935-68.2024.8.26.0026).
+Depreende-se dos autos que o paciente teve homologada falta de natureza grave, em razão da prática de novo crime durante o livramento condicional, ensejando a revogação do benefício, o retorno ao regime fechado e a perda de 1/3 dos dias remidos.
+Interposto agravo em execução na origem, o Tribunal a quo negou provimento ao recurso, conforme aresto acostado às e-STJ fls. 11/15, sem ementa.
+Daí o presente writ, no qual alega a defesa que "a prática de crime durante o livramento condicional, reconhecido em sentença condenatória transitada em julgado, enseja gravosas consequências ao apenado. Todavia, por falta de amparo legal e por constituir bis in idem, a elas não se somam as consequências da prática de falta grave, tal como a perda dos dias remidos" (e-STJ fl. 6).
+Diante disso, requer, liminarmente e no mérito, a concessão da ordem para afastar o reconhecimento da falta grave e restabelecer os dias remidos.
+É o relatório.
+Decido.
+No caso dos autos, o Juízo da Vara de Execuções Penais da Comarca de Bauru/SP, em razão de o paciente ter cometido novo crime durante o período de prova, revogou o livramento condicional, fixou o regime fechado para cumprimento da pena restante e reconheceu a prática de falta disciplinar grave cometida pelo ora paciente.
+O Tribunal de origem negou provimento ao recurso, consignando que (e-STJ fls. 13/14):
+O sentenciado foi beneficiado com o livramento condicional em 01/07/2022. No curso do benefício, foi preso em 31/03/2023, pela prática de novo delito, pelo qual já foi condenado definitivamente.
+Em que pesem às alegações defensivas, é viável o reconhecimento da prática de falta grave praticada durante o período de prova do livramento condicional.
+Com efeito, a execução de penas instaurada prossegue até o cumprimento ou extinção das reprimendas impostas, sendo o livramento condicional apenas uma fase ou estágio do procedimento a ser cumprido pelo sentenciado.
+Dessa forma, praticado crime doloso durante o período de prova, a revogação do livramento é consequência legal, configurando-se, sem prejuízo, falta disciplinar de natureza grave, nos termos do artigo 52 da Lei de Execução Penal.
+Não se trata de bis in idem, mas de conduta com consequências múltiplas previstas em lei, não se facultando ao magistrado o afastamento de qualquer delas ou a opção por apenas uma.
+Nessas circunstâncias, verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que, de acordo com a jurisprudência do Superior Tribunal de Justiça, "a prática de fato definido como crime durante o livramento condicional tem consequências próprias previstas no Código Penal e na Lei de Execuções Penais, as quais não se confundem com os consectários legais da falta grave praticada por aquele que está inserto no sistema progressivo de cumprimento de pena" (REsp n. 1.101.461/RS, relatora a Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 19/2/2013).
+Neste sentido, confiram-se, ainda, os seguintes precedentes:
+HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. DESVIRTUAMENTO. EXECUÇÃO. LIVRAMENTO CONDICIONAL. PRÁTICA DE NOVO CRIME NO PERÍODO DE PROVA. CONDENAÇÃO. UNIFICAÇÃO DAS PENAS. REINCIDÊNCIA. REGIME FECHADO. MANIFESTO CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do(a) paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+2. A prática de crime no curso do período de prova do livramento condicional não tem o condão de gerar os efeitos próprios da prática de falta grave, no caso, a perda de até 1/3 dos dias remidos, mas tão somente, após a efetiva revogação, a perda do tempo cumprido em livramento condicional e a impossibilidade de nova concessão do benefício no tocante à mesma pena.
+3. Configura coação ilegal a imposição da perda de 1/3 dos dias remidos em decorrência da prática de novo crime durante o período do livramento condicional.
+4. Na unificação das penas, a determinação do regime carcerário regula-se pela soma da pena imposta pelo novo delito com o remanescente da reprimenda em execução, nos termos dos artigos 111 e 118, II, ambos da Lei de Execução Penal.
+5. Não obstante o somatório do remanescente da pena com a nova condenação imposta ao paciente tenha resultado em reprimenda inferior a 8 anos, mostra-se devida a fixação do regime fechado com base na reincidência do apenado.
+6. Ordem não conhecida. Habeas corpus concedido, de ofício, apenas para afastar a perda dos dias remidos decretada em desfavor do paciente.
+(HC 271.907/SP, relator o Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/4/2014, grifei.)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. INDULTO. DECRETO PRESIDENCIAL N. 7.873/12. APENADO QUE, APÓS O DEFERIMENTO DO LIVRAMENTO CONDICIONAL E DURANTE O PERÍODO DE PROVA, COMETEU NOVO DELITO. CONDUTA NÃO PREVISTA COMO FALTA GRAVE NA LEI DE EXECUÇÃO PENAL. CONSTRANGIMENTO ILEGAL CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O Decreto Presidencial n. 7.873/2012 exige, como único requisito subjetivo, o não cometimento de falta grave, exaustivamente definida na Lei de Execução Penal (arts. 50 e 52 da LEP).
+3."A prática de fato definido como crime durante o livramento condicional tem consequências próprias previstas no Código Penal e na Lei de Execuções Penais, as quais não se confundem com os consectários legais da falta grave praticada por aquele que está inserto no sistema progressivo de cumprimento de pena" (REsp. 1.101.461/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 19/2/2013). No mesmo sentido: AgRg no REsp 1537149/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 10/02/2016.
+4. Habeas corpus não conhecido. Ordem concedida de ofício a fim de restabelecer a decisão do Juízo das execuções penais, que, com fundamento no Decreto n. 7.873/2012, concedeu o indulto ao paciente.
+(HC 299.072/RJ, relator o Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/9/2016, grifei.)
+AGRAVO INTERNO NO RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. RECONHECIMENTO DE FALTA GRAVE DURANTE O PERÍODO DE PROVA. INVIABILIDADE. REGRAMENTO PRÓPRIO. PRECEDENTES DESTA CORTE.
+1. Esta Corte posiciona-se no sentido de que a prática de fato definido como crime durante o livramento condicional tem regras próprias previstas nos arts. 83 a 90 do Código Penal e 131 a 146 da Lei de Execução Penal, não se confundido, portanto, com os consectários legais decorrentes da falta grave praticada durante o cumprimento da pena, não sendo possível a aplicação dos consectários legais da falta grave sem a instauração do procedimento adequado.
+Precedentes.
+2. Não há falar-se em ilegalidade no afastamento da falta grave decorrente da prática de novo delito no curso do livramento condicional, determinando-se apenas a revogação do benefício em apreço, com a desconsideração do tempo no qual o apenado esteve liberado, instaurando-se, ainda, o procedimento administrativo disciplinar respectivo.
+3. Agravo interno desprovido.
+(AgInt no RHC n. 141.748/PA, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 20/9/2022, DJe de 23/9/2022, grifei.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. NOVO DELITO PRATICADO DURANTE O PERÍODO DE PROVA. FALTA GRAVE. NÃO RECONHECIMENTO.
+1. De acordo com a jurisprudência desta Corte Superior de Justiça, "a prática de fato definido como crime durante o livramento condicional tem consequências próprias previstas no Código Penal e na Lei de Execuções Penais, as quais não se confundem com os consectários legais da falta grave praticada por aquele que está inserto no sistema progressivo de cumprimento de pena" (REsp n. 1.101.461/RS, relatora a Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe de 19/2/2013).
+2. Agravo regimental desprovido.
+(AgRg no HC n. 700.729/MG, de minha relatoria, Sexta Turma, julgado em 22/3/2022, DJe de 25/3/2022, grifei .)
+Dessa forma, deve ser afastada a possibilidade de reconhecimento da falta grave.
+Ante o exposto, concedo a ordem apenas para afastar o reconhecimento de falta grave, bem como seus consectários legais.
+Publique-se. Intimem-se.
+EMENTA
