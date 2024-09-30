@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado (fl. 136):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MULTA POR LITIGÂNCIA DE MÁ-FÉ E INDENIZAÇÃO. PRECLUSÃO.
+1. A condenação da parte agravante ao pagamento de multa por litigância de má-fé e em indenização à parte contrária encontra-se decidida por decisão transitada em julgado, não sendo admissível reabrir a discussão na fase executiva.
+2. No caso concreto, a parte executada não logrou êxito em demonstrar que houve a quitação do valor cobrado pela exequente, devendo ser mantida a decisão que rejeitou a sua impugnação ao cumprimento de sentença.
+Cuida-se, na origem, de agravo de instrumento manifestado pela parte ora recorrente contra decisão que rejeitou a impugnação ao cumprimento de sentença movido pela parte recorrida. O recurso não foi acolhido.
+Os embargos de declaração opostos ao acórdão foram rejeitados.
+Nas razões do recurso especial (fls. 184/204), a parte recorrente aponta contrariedade ao art. 485, IV, do CPC/2015; aos arts. 1.196 e 1.210 do Código Civil; e ao art. 3º do Código de Defesa do Consumidor.
+Afirma que estão ausentes os pressupostos processuais válidos para o andamento do feito executivo. Sustenta que a parte recorrida não possui interesse em agir, pois a multa cobrada já foi objeto de quitação por meio de acordo.
+Ressalta que a CEF "pretende que o recorrente arque com o pagamento da indenização decorrente do valor de condenação por litigância de má-fé. Contudo, tal pedido é completamente esvaziado, haja vista que o acordo extrajudicial realizado prevê, expressamente a desistência e renúncia de todas as ações judiciais existentes, para fins de integral quitação recíproca, extinção, baixa e arquivamento dos autos".
+Aduz que, "mesmo com a quitação integral recíproca para nada mais cobrarem entre si, a CEF distribuiu procedimento de cumprimento de sentença para escutir os valores relacionados à suposta litigância de má-fé, agredindo, assim, a íntegra do termo de composição extrajudicial firmado". Afirma ser "incontroverso que as partes celebraram acordo nos autos do processo originário, mediante escritura pública para este fim, envolvendo os valores que seriam executados em momento futuro, inclusive neste cumprimento de sentença".
+Argumenta que "o acordo firmado entre as partes foi feito por meio de escritura pública específica para esta finalidade. Para a efetivação do referido ato, estavam presentes os advogados de ambas as partes. O documento foi lido e conferido por todos os envolvidos, de modo que apenas por essa informação, já restaria afastada qualquer condenação em penalidade por litigância maldosa". Assim, defende a extinção do cumprimento de sentença, por nulidade do seu próprio objeto, qual seja, a multa executada.
+Alega ser "inquestionável que o recorrente adquiriu o imóvel para uso próprio, e, nessa condição, configurou-se a relação consumerista para o caso em análise".
+Sem contrarrazões (fl. 215).
+O recurso especial não foi admitido na origem, ensejando a interposição do presente agravo.
+Assim delimitada a controvérsia, passo a decidir.
+No caso em questão, o Tribunal de origem manteve a decisão que considerou exigível o pagamento da multa por litigância de má-fé e de indenização, conforme sentença que transitou em julgado. Foi consignado ainda no acórdão que não foi demonstrada a quitação da multa e da indenização fixados no título executivo.
+Confira-se a fundamentação exarada no acórdão (fls. 140/141):
+Cinge-se a controvérsia acerca da exigibilidade do pagamento da multa por litigância de má-fé e da indenização, nos termos da sentença transitada em julgado (evento 256, SENT1).
+Preliminarmente, cabe desprover o recurso quanto à alegação de nulidade da condenação ao pagamento de multa por litigância de má-fé e de indenização da CEF.
+Com efeito, os ora agravantes já haviam recorrido destas condenações, por meio da Apelação Cível n. 5085386-13.2014.4.04.7100, que resultou desprovida no âmbito desta Turma.
+Em respeito à coisa julgada, inviável a reabertura da discussão, de modo que deve ser mantida a decisão recorrida no ponto.
+Quanto à exigibilidade do débito exequendo, as agravantes sustentam que houve acordo firmado entre as partes, nos termos da escritura pública de compra e venda (evento 330, ESCRITURA 2), que daria quitação integral das dívidas relativas ao imóvel.
+Trata-se de escritura de compra e venda, firmada em 11/11/2020 no 5º Tabelionato de Notas de Porto Alegre, pela CEF (vendedora) e por Édison Freitas de Siqueira e sua esposa Miriam (compradores), tendo como objeto o imóvel matriculado sob nº 33.937, às fls. 01 do Livro nº 2 - Registro Geral de Imóveis de Xangri-lá/RS. Importa para esta discussão o seguinte trecho do Parágrafo Primeiro e Parágrafo Terceiro da Cláusula Primeira (evento 330, ESCRITURA2, p. 5):
+ ..  Assim, os agravantes (compradores) declararam a existência de diversas ações judiciais, entre as quais a que originou o presente cumprimento de sentença (50853861320144047100), consignando-se pendente de discussão a caracterização da má-fé. Declararam, ainda, desistir e renunciar a todas as ações por eles movidas, que tenham por objeto o imóvel, "para fins de integral quitação recíproca, extinção, baixa e arquivamento dos autos, obrigando-se a peticionar nos processos ainda existentes".
+No contexto, entendo que o documento não conduz à conclusão de que houve a quitação da multa e da indenização fixados no título executivo. Ao contrário, os agravantes declararam expressamente renunciar às ações por eles movidas - o que inclui a renúncia à pretensão de afastar a condenação em multa por litigância por má-fé e indenização à CEF que, naquele momento, ainda estava pendente, conforme consta expressamente do texto.
+Dessa forma, fica mantida a decisão agravada.
+Em tal moldura fática delineada na origem, modificar tal conclusão - para aferir o acerto ou desacerto do acórdão recorrido no que diz respeito à formação da coisa julgada ou à ausência de quitação integral do valor cobrado no título executivo - demandaria o reexame de cláusulas contratuais e dos demais elementos probatórios dos autos, providência incabível em recurso especial, a teor das Súmulas 5 e 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. IMPOSSIBILIDADE DE ANÁLISE DE MATÉRIA CONSTITUCIONAL POR MEIO DE RECURSO ESPECIAL. 2. FALTA DE FUNDAMENTAÇÃO NÃO EVIDENCIADA. 3. COISA JULGADA. INEXISTÊNCIA. NULIDADE DO TÍTULO EXECUTIVO. OCORRÊNCIA. LITIGÂNCIA DE MÁ-FÉ CONFIGURADA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. 4. MULTA DO ART. 1.021 DO CPC/2015. NÃO CABIMENTO. 5. AGRAVO INTERNO DESPROVIDO.
+ ..  3. A alteração da orientação firmada no aresto impugnado, acerca da inexistência de coisa julgada, da nulidade do título executivo e da ocorrência de litigância de má-fé, só seria possível mediante o revolvimento do acervo fático-probatório do respectivo processo e do reexame das cláusulas contratuais, providências vedadas nesta instância extraordinária em decorrência do disposto nas Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+4. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa dos arts. 1.021, § 4º, e do CPC/2015, devendo ser analisado caso a caso.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.239.805/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 10/5/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias que, com amparo nos elementos de prova constantes dos autos e pela análise das cláusulas contratuais, concluiu pela ausência de ofensa à coisa julgada, interpretando o título executivo judicial. Incidência das Súmulas 5 e 7 do STJ.
+2. "Na liquidação por cálculos do credor, descabe transferir do exequente para o executado o ônus do pagamento de honorários devidos ao perito que elabora a memória de cálculos" (Tema/Repetitivo 671/STJ).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.982.028/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA DE OUTORGA DE ESCRITURA PÚBLICA. RECUSA INJUSTIFICADA. QUITAÇÃO INTEGRAL DO PREÇO CONSIGNADA EM JUÍZO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A convicção a que chegou o Tribunal de origem, quanto às questões relacionadas à quitação do imóvel e à obrigação de outorga da escritura pública decorreu da análise das circunstâncias fáticas e dos termos contratuais peculiares à causa.
+2. Firmada a conclusão do acórdão recorrido, acerca da responsabilidade dos vendedores pela outorga da escritura pública de compra e venda, ante a quitação integral do preço, com base nos elementos informativos do processo, o desate da controvérsia inevitavelmente esbarra nos óbices das Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt nos EDcl nos EDcl nos EDcl no AREsp n. 289.579/MG, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 21/6/2018, DJe de 28/6/2018).
+Em face do exposto, nego provimento ao agravo.
+Deixo de majorar a verba referente aos honorários recursais, posto que a sucumbência foi fixada no patamar máximo legal pela Corte de origem.
+Intimem-se.
+EMENTA
