@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO REVISIONAL. CUMPRIMENTO DE SENTENÇA. DEPÓSITO DO VALOR INCONTROVERSO SOB O FUNDAMENTO DE QUE O PERITO APENAS PRESTARÁ ESCLARECIMENTOS. DETERMINAÇÃO POSTERIOR DE REFAZIMENTO DOS CÁLCULOS. DISPENSA DO DEPÓSITO. NECESSIDADE. POSSIBILIDADE DE ALTERAÇÃO DO VALOR DEVIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Diante da possibilidade de ser apurado valores diferentes com o refazimento da perícia contábil, temerária a manutenção da decisão que determinou o depósito de R$ 6.909.672,97 pela instituição financeira , ainda mais no caso dos autos em que foi afastada à necessidade de prestação de caução no julgamento dos embargos de declaração.
+2. Tendo em vista a determinação de refazimento da perícia em momento posterior, necessária a dispensa do depósito, sob pena de causar (ainda mais) tumulto processual caso seja alterado o valor devido.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por TB SUL INDÚSTRIA E COMÉRCIO DE REVESTIMENTOS S/A (TB SUL), contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO REVISIONAL. CUMPRIMENTO DE SENTENÇA. 1. VIOLAÇÃO DOS ARTS. 1.022 E 1.025 DO CPC. OMISSÃO NÃO CARACTERIZADA. 2. CUMPRIMENTO DE SENTENÇA (ART. 523, DO CPC). PEDIDO DE LIQUIDAÇÃO POR ARBITRAMENTO (ART. 509, I, DO CPC). AFASTAMENTO PELO TRIBUNAL ESTADUAL. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. 3. DEPÓSITO DO VALOR INCONTROVERSO SOB O FUNDAMENTO DE QUE O PERITO APENAS PRESTARÁ ESCLARECIMENTOS. DETERMINAÇÃO POSTERIOR DE REFAZIMENTO DOS CÁLCULOS. DISPENSA DO DEPÓSITO. NECESSIDADE. POSSIBILIDADE DE ALTERAÇÃO DO VALOR DEVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, PARCIALMENTE PROVIDO. (e-STJ, fls. 465/471).
+Nas razões do presente inconformismo, defendeu que (1) o valor de R$ 6.909.672,97 foi indicado pela própria instituição financeira, portanto, incontroverso; (2) o refazimento da perícia não influirá no valor incontroverso, ao contrário, resultará em valores mais expressivos.
+Foi apresentada contraminuta (e-STJ, fls. 512/515).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO REVISIONAL. CUMPRIMENTO DE SENTENÇA. DEPÓSITO DO VALOR INCONTROVERSO SOB O FUNDAMENTO DE QUE O PERITO APENAS PRESTARÁ ESCLARECIMENTOS. DETERMINAÇÃO POSTERIOR DE REFAZIMENTO DOS CÁLCULOS. DISPENSA DO DEPÓSITO. NECESSIDADE. POSSIBILIDADE DE ALTERAÇÃO DO VALOR DEVIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Diante da possibilidade de ser apurado valores diferentes com o refazimento da perícia contábil, temerária a manutenção da decisão que determinou o depósito de R$ 6.909.672,97 pela instituição financeira , ainda mais no caso dos autos em que foi afastada à necessidade de prestação de caução no julgamento dos embargos de declaração.
+2. Tendo em vista a determinação de refazimento da perícia em momento posterior, necessária a dispensa do depósito, sob pena de causar (ainda mais) tumulto processual caso seja alterado o valor devido.
+3. Agravo interno não provido.
+VOTO
+Do depósito do valor incontroverso
+Como emana dos autos, TB SUL INDÚSTRIA E COMÉRCIO DE REVESTIMENTOS S/A (TB SUL), antiga Itagrês Revestimentos Cerâmicos, ingressou em 16.12.2002 com ação revisional contra BANCO DO BRASIL, impugnando os encargos cobrados na conta corrente nº 0201-1, agência 0201-1.
+A ação foi julgada improcedente em primeiro grau e reformada em 11.05.2006 pelo Tribunal de Santa Catarina para julgar parcialmente procedentes os pedidos.
+Iniciada a fase de cumprimento de sentença, diante da divergência entre as partes, os autos foram remetidos ao Contador Judicial e, posteriormente, foram designadas diversas perícias para apuração do valor devido.
+O laudo pericial apresentado em 14.10.2020 concluiu que o valor devido à empresa era de R$ 56.015.064,17 e honorários advocatícios de R$ 109.798,18, distribuídos em 50% para cada parte.
+O banco apresentou impugnação ao laudo, indicando o montante de R$ 6.909.672,97, além dos honorários advocatícios de R$ 89.431,80, enquanto o credor afirmou ser devido o valor de R$ 156.540.692,40, já incluídos os honorários advocatícios.
+Determinado o depósito do valor dito incontroverso (R$ 6.909.672,97), o banco interpôs o presente agravo de instrumento alegando que o procedimento correto era de liquidação por arbitramento, previsto no art. 509, I, do CPC, e não de cumprimento de sentença, previsto no art. 523 do CPC.
+Além disso, o BANCO DO BRASIL impugnou a determinação de depósito da exorbitante quantia de R$ 6.909.672,97, por entender que o título executivo judicial não goza de liquidez, até porque o levantamento dos valores depende de caução idônea e suficiente.
+O Tribunal de Santa Catarina fundamentou a manutenção do depósito por entender que falta apenas os esclarecimentos do perito, que não efetuará novos cálculos, conforme trecho que ora se transcreve:
+A propósito, importa dizer que falta apenas a resposta do perito aos esclarecimentos, de modo que o expert não efetuará novo cálculo, mas apenas responderá às indagações das partes, adequanto o montante encontrado caso verifique alguma insubsistência. (e-STJ, fls. 245).
+Entretanto, posteriormente fora interposto agravo em recurso especial nº 2.557.470/SC, também de Minha Relatoria, em que ambas as partes impugnaram o acórdão estadual prolatado nos autos do agravo de instrumento nº 5051283-02.2021.8.24.0000/SC, que determinou o refazimento da perícia contábil.
+Considerando que ambos os recursos interpostos no AResp nº 2.557.470/SC não foram providos, com manutenção deste último acórdão por esta Corte Superior, por óbvio que o fundamento utilizado neste recurso de que o perito não efetuará novos cálculos não mais subsiste diante da nova realidade fática.
+Diante da possibilidade de ser apurado valores diferentes com o refazimento da perícia contábil, temerária a manutenção da decisão que determinou o depósito de R$ 6.909.672,97 pela instituição financeira , ainda mais no caso dos autos em que foi afastada à necessidade de prestação de caução no julgamento dos embargos de declaração (e-STJ, fls. 306).
+Tendo em vista a determinação de refazimento da perícia em momento posterior, necessária a dispensa do depósito, sob pena de causar (ainda mais) tumulto processual caso seja alterado o valor devido.
+Portanto, ao contrário do que entende (ou quer entender) TB SUL, não há como afirmar que, com a nova perícia, o valor devido não sofrerá redução, mas sim aumento, caindo por terra a afirmação de que o valor é incontroverso, pois evidente que poderá sofrer alteração (para mais ou para menos) após a realização da prova.
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
