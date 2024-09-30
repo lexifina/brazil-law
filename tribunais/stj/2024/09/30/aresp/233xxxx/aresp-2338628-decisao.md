@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência das Súmulas n. 7 e 83 do STJ, e negou seguimento quanto à tese relativa ao Tema 554/STF.
+O apelo nobre obstado, interposto com fundamento no art. 105, inciso III, alínea "a", da CF, enfrenta acórdão prolatado pelo TRF/4ª Região, assim ementado (fls. 327-328):
+TRIBUTÁRIO E PROCESSUAL. AÇÃO ORDINÁRIA. IMPUGNAÇÃO ADMINISTRATIVA. AUSÊNCIA DE INTERESSE DE AGIR. AGRAVO RETIDO. NÃO CONHECIMENTO. CONTRIBUIÇÃO DESTINADA AO SAT/RAT. LEI Nº 10.666/03. CONSTITUCIONALIDADE. DECRETO Nº 3.048/1999, COM A REDAÇÃO DADA PELO DECRETO N.º 6.957/09, E RESOLUÇÕES NºS 1.308 E 1.309/09 DO CNPS. FAP. LEGALIDADE. FAP. LEGALIDADE.
+1. Não conhecido o agravo retido da impetrante, uma vez que não reiterado pedido de apreciação, conforme estabelece o art. 523, § 1º, do CPC
+2. O recurso cabível em face da aplicação do Nexo Técnico Epidemiológico (NTEP) para a caracterização da natureza acidentária do benefício é dotado de efeito suspensivo, de acordo com o § 2º do art. 21-A da Lei 8.213/91, sendo desnecessária qualquer providência judicial para essa concessão. Caracterizado o interesse de agir.
+3. A estipulação da metodologia FAP e o reenquadramento da alíquota, por meio do Decreto nº 6.957/2009 e resoluções, não violou o princípio da legalidade, uma vez que não desbordou dos limites da lei.
+Embargos de declaração acolhidos apenas para fins de prequestionamento (fls. 378-382).
+Em suas razões, a parte recorrente alega violação dos arts. 535, II, do CPC/73 (1.022, inciso II, do CPC/15), 3º e 97 do CTN, e 22, II, da Lei n. 8.212/91, sob os seguintes argumentos: (a) apesar da interposição dos embargos de declaração, o acórdão impugnado não analisou os artigos tidos por violados, aduzindo a desnecessidade de pronunciamento sobre cada alegação; (b) ilegalidade da determinação de fator agravante de tributo para fins de punição de empresas que apresentam altos índices de frequência, gravidade e custo (3º do CTN); (c) ofensa ao princípio da legalidade (97 do CTN); (d) a inexistência de relação jurídica tributária entre a Recorrente e a União Federal que obrigue ao recolhimento do RAT Ajustado, em face da aplicação do Fator Acidentário de Prevenção, por total inconstitucionalidade e ilegalidade do art. 10 da Lei 10.666/03, determinando que retorne a exigibilidade da contribuição nos moldes do art. 22, II, da Lei n. 8.212/91 anteriores a aplicabilidade do indigitado dispositivo ora atacado.
+Contrarrazões (fls. 528-534).
+É o relatório. Decido.
+Registra-se, inicialmente, que foi negado seguimento ao recurso nobre por incidência do Tema 554/STF, havendo, inclusive, a interposição de agravo interno na origem quanto ao tema, motivo pelo qual a análise será restrita as matérias remanescentes.
+De pronto, inexiste a alegada violação do art. 535, II, do CPC/73 (1.022 do CPC/2015". Isso porque, a parte recorrente não apresentou expressamente os motivos pelos quais entende ter havido ofensa ao referido artigo, deixando de indicar os temas que considera não apreciados pelo Tribunal de origem.
+Com efeito, não basta a alegação genérica de que o acórdão foi omisso quanto às questões suscitadas nos embargos declaratórios, sem indicação específica do ponto omisso e de sua relevância à solução da demanda. Assim, esta Corte não pode verificar a suposta nulidade, pois patente a deficiência na fundamentação do apelo especial, visto que as razões recursais não indicam, como teria ocorrido a alegada violação do artigo 1.022 do CPC. Incidindo, no ponto, a Súmula n. 284 do Supremo Tribunal Federal.
+No que respeita à alegada de violação dos arts. 3º e 97 do CTN, tendo em vista que estão relacionados ao Tema 554/STF, não serão analisados, porquanto a matéria teve seu seguimento negado, nos termos do art. 1.030, I, do CPC/2015.
+Ainda que assim não fosse, não deve ser admitido o apelo especial, quanto aos referidos artigos, por força da Súmula 211 do STJ, haja vista que a Corte de origem não apreciou a controvérsia sob o viés do citado dispositivo, apesar da oposição de embargos de declaração, não servindo de fundamento à conclusão adotada pelo Tribunal local. Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, nos termos do enunciado 211 da Súmula desta Corte (Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo)..
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. EMBARGOS À EXECUÇÃO FISCAL. COMPENSAÇÃO. MATÉRIA DE DEFESA. INVIABILIDADE. REEXAME DE PROVAS. NÃO CABIMENTO. JUROS DE MORA. INCIDÊNCIA SOBRE MULTA PUNITIVA. CABIMENTO.
+1. Inexiste violação dos arts. 489, § 1º, III e IV, 494, II, e 1.022, I e II, do CPC/2015, não se vislumbrando nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos legais tidos por violados não são examinados na origem, mesmo após opostos embargos de declaração.
+ ..
+(AgInt no AREsp n. 1.731.729/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 14/12/2023; grifei.)
+Com efeito, para que se tenha por atendido esse requisito, não basta que a Corte a quo dê por prequestionados os dispositivos, é indispensável também a emissão de juízo de valor sobre as matérias.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+ ..
+2. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+2.1 A jurisprudência desta Corte não considera suficiente, para fins de configuração do prequestionamento, que a matéria tenha sido suscitada pelas partes ou apenas citada no acórdão como "considerada ou dada por prequestionada", mas sim que a respeito tenha havido efetivo debate no aresto recorrido.
+ ..
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.335.188/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023; sem grifo no original.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 535, II, DO CPC/73 (1.022 DO CPC/15). ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
