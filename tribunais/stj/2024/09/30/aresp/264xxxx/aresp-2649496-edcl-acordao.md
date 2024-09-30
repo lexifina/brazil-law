@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JUAREZ BRAZ DA SILVA e outra ao acórdão da Terceira Turma desta Corte assim ementado (e-STJ, fl. 766):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEVER DA PARTE DE, AO INGRESSAR COM O AGRAVO DO ART. 1.042 DO CPC/2015, IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. EXIGÊNCIA CUJO DESCUMPRIMENTO ACARRETA O NÃO CONHECIMENTO DO AGRAVO. RATIFICAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRETENDIDA MAJORAÇÃO DOS HONORÁRIOS RECURSAIS, QUE JÁ HAVIAM SIDO AUMENTADOS PELA DECISÃO AGRAVADA. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo devem infirmar todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Correto o entendimento da Presidência do Superior Tribunal de Justiça de não conhecer do agravo em recurso especial, tendo em vista que realmente não houve efetiva impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+3. A jurisprudência do Superior Tribunal de Justiça não admite nova majoração de honorários de sucumbência por ocasião do julgamento de agravo interno quando tal verba já tiver sido aumentada pela decisão agravada, tendo em vista que a interposição do mencionado recurso não inaugura nova instância.
+4. Agravo interno desprovido.
+Em suas razões, os embargantes apontam vícios na decisão embargada.
+Para tanto, sustentam omissão e contradição na medida em que o óbice da Súmula 282/STF, teria sido atacada na razões recursais de fls. 718-721 (e-STJ).
+Impugnação apresentada às fls. 782-803 (e-STJ), na qual a parte embargada pede a condenação dos embargantes ao pagamento de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os declaratórios a modificar o julgado.
+Dito isso, não merece acolhimento o apontado vício na decisão embargada.
+Isso porque, conforme consignado na decisão de fls. 708-709 (e-STJ), o agravo em recurso especial interposto pela parte ora embargante não foi conhecido, uma vez que da leitura das razões de agravo (e-STJ, fls. 667-684), constatou-se que a parte insurgente não procedeu à impugnação específica de todos os fundamentos adotados pela Corte estadual para inadmitir o apelo especial, uma vez que deixou de infirmar o óbice da Súmula 282 do STF, conforme indicado na decisão de fls. 662-664 (e-STJ).
+Incontestável, portanto, que não houve impugnação específica da decisão ora agravada, circunstância que impede o conhecimento do agravo, conforme o disposto pelo art. 932, III, do CPC/2015.
+Além disso, a afirmação de que teriam infirmado a incidência do óbice sumular às fls. 718-721 (e-STJ), não merece acolhimento, isso porque, a impugnação tardia dos fundamentos da decisão que não admitiu recurso especial (somente no agravo interno), além de caracterizar inovação recursal, não tem o condão de afastar a aplicação do verbete sumular 182/STJ, tendo em vista a ocorrência de preclusão consumativa.
+A propósito:
+PROCESSUAL CIVIL. NA ORIGEM TRATA-SE DE AGRAVO DE INSTRUMENTO. IMPROBIDADE ADMINISTRATIVA. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE IMPENHORABILIDADE DO BEM IMÓVEL UTILIZADO PARA FINS PROFISSIONAIS. IRRETROATIVIDADE DAS NORMAS MAIS BENÉFICAS DA LEI N. 14.230/2021.. NESTA CORTE NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. DECISÃO MANTIDA. AGRAVO INTERNO IMPROVIDO.
+I - Na origem, trata-se de agravo de instrumento em face da decisão que rejeitou a exceção de impenhorabilidade e não conheceu da exceção de retroatividade de normas mais benéficas no cumprimento de sentença na ação de improbidade administrativa. No tribunal a quo, negou-se provimento ao recurso. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial, considerando: Súmula 7/STJ.
+II - Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem.
+Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos. São insuficientes, pela sua generalidade, para impugnar os fundamentos específicos da decisão que negou seguimento ao recurso especial na origem. Cabia à parte, em conformidade com a jurisprudência, trazer argumentos que confrontassem os fundamentos de negativa de seguimento ao recurso especial, e não fundamentos genéricos e sem nenhuma vinculação dialética com a matéria tratada nos autos.
+IV - Conforme a jurisprudência, a impugnação tardia dos fundamentos da decisão que negou seguimento ao recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar imprópria inovação recursal, não afasta o vício do agravo em recurso especial, ante a preclusão consumativa. Precedentes: AgInt no AREsp 888.241/ES, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/4/2017, DJe 19/4/2017; AgInt no AREsp 1.036.445/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/4/2017, DJe 17/4/2017; AgInt no AREsp 1.006.712/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 9/3/2017, DJe 16/3/2017.
+V - Agravo interno improvido. (AgInt no AREsp n. 2.626.851/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024 - sem grifo no original)
+Desse modo, ao analisar a questão aduzida no recurso especial, decidiu-se por aplicar, em relação ao tema o entendimento jurisprudencial desta Corte, além do óbice sumular de forma clara e fundamentada, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material, com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Por conseguinte, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo da parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+No que diz respeito ao pleito trazido na impugnação aos declaratórios de aplicação da multa do art. 1.026, § 2º, do CPC/2015, constata-se que não está configurado, por ora, o manifesto intuito protelatório capaz de ensejar a aplicação da sanção.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
