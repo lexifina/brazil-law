@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo ESTADO DE PERNAMBUCO contra decisão da então Ministra Presidente do STJ, proferida às e-STJ fls. 314/315, que conheceu do agravo para não conhecer do recurso especial.
+Pleiteia a parte agravante a reconsideração ou a reforma da decisão atacada, com a baixa dos autos à origem para aguardar julgamento do Tema 1.308 do STF.
+Passo a decidir.
+O STF decidiu afetar à sistemática da repercussão geral o ARE 1.487.739/PE, em que discutida, "à luz dos artigos 2º; 5º; 37, II; IX; X; 206; V; VIII; e parágrafo único, da Constituição Federal se o piso nacional do magistério se aplica apenas aos profissionais da educação escolar pública com cargos efetivos, ou se também incide sobre as contratações temporárias." - Tema 1.308.
+Nesse caso, encontrando-se o tema afetado à sistemática da repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Confiram-se as seguintes decisões monocráticas no mesmo viés: AgInt nos EDcl no Ag 1.432.709/ES, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 18/12/2018; REsp 1.770.141/RJ, rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 18/10/2018.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 314/315 e, DETERMINO A DEVOLUÇÃO DOS AUTOS ao tribunal de origem, com a respectiva baixa, para que após a publicação do acórdão referente ao ARE 1.487.739/PE (Tema 1.308) pelo Supremo Tribunal Federal , em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Publique-se. Intimem-se.
+EMENTA
