@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDENTE DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. PRINCÍPIO DA UNIR RECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO DESPROVIDO.
+1. Em caso de interposição de dois recursos pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser conhecido, haja vista a ocorrência da preclusão consumativa e do princípio da unicidade recursal, que vedam a interposição simultânea de mais de um recurso contra a mesma decisão judicial
+2. Conforme a jurisprudência deste Superior Tribunal de Justiça, "a oposição de embargos de declaração e, antes do julgamento de tais aclaratórios, a subsequente interposição de recurso especial, pela mesma parte e contra idêntico acórdão, enseja a aplicação do princípio da unirrecorribilidade e da preclusão consumativa, impedindo o conhecimento do especial" (AgInt no REsp 1.797.696/AL, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/9/2019, Dje de 2/10/2019).
+3. Agravo interno desprovido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno interposto por GRAN PETRO DISTRIBUIDORA DE COMBUSTÍVEIS LTDA. contra a decisão de não conhecimento do agravo em recurso especial, posteriormente integrada no julgamento dos embargos de declaração.
+Sustenta a agravante, em síntese, que "ao revés do fundamentado, a Embargante tomou ciência do Acórdão, de fls. 390/410 dos autos originários, na data de 29/03/2022, consoante a certidão de fl. 411, e opôs Embargos de Declaração contra ele em 06/04/2022" (fl. 607).
+Aponta que "o segundo Acórdão, de fls.485/502, rejeitou os Embargos de Declaração e, sobre a referida decisão colegiada, a Embargante opôs um segundo aclaratórios, de fls. 506/507, em 24/06/2022" (fl. 607); e que depois foi interposto o recurso especial, em 8/ 7/2022, inexistindo qualquer ilegalidade que pudesse atrair os efeitos da preclusão consumativa do ato recursal.
+Por fim, a parte requer o provimento do agravo interno, visando ao juízo positivo de admissibilidade do recurso especial.
+Não foi apresentada impugnação ao agravo interno.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDENTE DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. PRINCÍPIO DA UNIR RECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO DESPROVIDO.
+1. Em caso de interposição de dois recursos pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser conhecido, haja vista a ocorrência da preclusão consumativa e do princípio da unicidade recursal, que vedam a interposição simultânea de mais de um recurso contra a mesma decisão judicial
+2. Conforme a jurisprudência deste Superior Tribunal de Justiça, "a oposição de embargos de declaração e, antes do julgamento de tais aclaratórios, a subsequente interposição de recurso especial, pela mesma parte e contra idêntico acórdão, enseja a aplicação do princípio da unirrecorribilidade e da preclusão consumativa, impedindo o conhecimento do especial" (AgInt no REsp 1.797.696/AL, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/9/2019, Dje de 2/10/2019).
+3. Agravo interno desprovido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois não foram apresentados argumentos hábeis para alterar os fundamentos da decisão ora agravada, tornando incólume o entendimento nela firmado.
+O recurso especial interposto por GRAN PETRO DISTRIBUIDORA DE COMBUSTÍVEIS LTDA. não foi conhecido, conforme decisão de fls. 572-573, por ter sido reconhecida a preclusão consumativa, nos seguintes termos:
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de GRAN PETRO DISTRIBUIDORA DE COMBUSTÍVEIS LTDA, constata-se que, contra uma mesma decisão, a parte recorrente apresentou embargos de declaração; e, posteriormente, recurso especial.
+Dessa forma, impõe-se o não conhecimento do segundo recurso, no caso, do recurso especial, tendo em vista a preclusão consumativa, bem como o princípio da unicidade recursal. Nesse sentido, EDcl no AgInt no AREsp 1832666/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 31/03/2022; EDcl no AgInt no REsp 1905229/PR, relator Ministro Gurgel de Faria, Primeira Turma, Dje de 22/03/2022 (fl. 572).
+Ao revés do alegado, a análise detida dos autos revela que a recorrente apresentou embargos de declaração às fls. 494-495, em 24/6/2022, e o recurso especial às fls. 402-437, em 8/7/2022, contra o mesmo acórdão de fls. 473-490, antes do julgamento destes embargos de declaração (fls. 509-514).
+Assim, considerando que houve interposição de dois recursos pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser conhecido, haja vista a ocorrência da preclusão consumativa e do princípio da unicidade recursal, que vedam a interposição simultânea de mais de um recurso contra a mesma decisão judicial.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DOIS RECURSOS CONTRA A MESMA DECISÃO. PRINCÍPIO DA UNICIDADE RECURSAL. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA N. 182/STJ.1. A interposição de mais de um recurso pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser submetido à análise, em face da preclusão consumativa e do princípio da unicidade recursal, que proíbe a interposição simultânea de mais de um recurso contra a mesma decisão judicial. (AgInt no REsp n. 1.820.624/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020).
+2. É inviável o conhecimento do agravo regimental que não impugna, especificamente, todos os fundamentos da decisão agravada. Agravos não conhecidos (AgInt no RE nos EDcl nos EREsp 1768552/PE, relator Ministro Humberto Martins, Corte Especial, Dje de 03/05/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO E RECURSO ESPECIAL DA MESMA PARTE CONTRA O MESMO JULGADO. PRINCÍPIO DA UNIRRECORRIBILIDADE E PRECLUSÃO CONSUMATIVA.
+1. A oposição de embargos de declaração e, antes do julgamento de tais aclaratórios, a subsequente interposição de recurso especial, pela mesma parte e contra idêntico acórdão, enseja a aplicação do princípio a unirrecorribilidade e da preclusão consumativa, impedindo o conhecimento do especial. Jurisprudência.
+2. Agravo interno a que se nega provimento (AgInt no REsp n. 1.797.696/AL, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/9/2019, DJe de 3/10/2019).
+Isso posto, nego provimento ao recurso.
