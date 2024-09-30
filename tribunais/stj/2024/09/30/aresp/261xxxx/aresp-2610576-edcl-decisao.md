@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 496):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+As embargantes alegam que há omissão no julgado, pois "(..) não enfrenta os argumentos capazes de reverter a inadmissibilidade do REsp (art. 1.022, inciso II c/c art. 189, §1º, inciso IV do CPC), e parte de pressuposto equivocado de que a Agravante não teria enfrentado o único fundamento pelo qual o RESp foi inadmitido pela decisão denegatória proferida pelo TRF4, caracterizando o erro material da decisão." (fls. 501-502). Afirmam que enfrentaram direta e extensivamente o único fundamento pelo qual o TRF4 inadmitiu o recurso especial, qual seja, a Súmula 83/STJ, apontando que "(..), o óbice estampado na Súmula 83/STJ restou amplamente superado, na medida em que as razões de decidir do Tema 1.008/STJ não podem ser automaticamente impostos no caso da presente demanda para a resolução da controvérsia." (fl. 504).
+Sem impugnação.
+É o relatório. Decido.
+Inicialmente, registra-se que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Nos presentes embargos, a parte embargante alega que há omissão e erro material no julgado porque enfrentou direta e extensivamente o único fundamento pelo qual o TRF4 inadmitiu o recurso especial, qual tenha sido, a incidência da Súmula 83/STJ.
+Ocorre que razão não lhe assiste.
+Com efeito, conforme o entendimento desta Corte Superior, verifica-se omissão no julgado quando o julgador deixa de analisar tese relevante ao deslinde da controvérsia ou de explicitar de forma adequada e fundamentada as razões do seu convencimento. Outrossim, a jurisprudência do STJ é firme no sentido de que o erro material é aquele equívoco singelo, verificável de plano, que diz respeito a aspecto fático mencionado na decisão em desacordo com a realidade dos autos, não se confundindo com a mera discordância da parte com os fundamentos da decisão recorrida.
+No caso dos autos, a decisão de não admissão do recurso especial foi motivada na incidência da Súmula 83/STJ, não tendo as então agravantes - ora embargantes - impugnado especificamente a referida fundamentação, acarretando assim o não conhecimento do agravo.
+E de fato não o fizeram. Veja-se que quanto ao enunciado em discussão (Súmula 83/STJ), para que seja considerado combatido a contento, é preciso que a parte desenvolva uma argumentação que demonstre sua inaplicabilidade e, concomitantemente, colacione julgados do STJ - atuais - em sentido contrário ao do aresto recorrido, é dizer, no mesmo sentido da tese defendida no recurso especial cuja ascensão é buscada. Na espécie, conquanto as recorrentes tenham mencionado o óbice, não demonstraram sua inaplicabilidade nem colacionaram os necessários precedentes.
+Assim, evidencio não ter ocorrido insuficiência de fundamentação, falta de clareza ou erro material a ensejar integração ou esclarecimento do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS AUTORIZADORES DO ART. 1022 DO CPC/2015. EMBARGOS REJEITADOS.
