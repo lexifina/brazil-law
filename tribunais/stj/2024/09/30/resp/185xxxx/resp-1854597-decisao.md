@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por SANTO ANTONIO ENERGIA S.A, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA assim ementado (fls. 1.280/1.281):
+Produção antecipada de provas. Interesse processual. Justificativa. Demonstrada. Prescrição. Interrupção. Não ocorrência.
+É possível a produção antecipada de provas, se demonstradas a pertinência e necessidade da medida, seja pelo fundado receio de tornar-se impossível na pendência da ação, por ser possível viabilizar a autocomposição ou, como no presente caso, como medida preparatória para justificar ou evitar o ajuizamento de ação.
+Por se tratar de um procedimento de meio, sem o propósito de resolver a questão, a produção antecipada de provas não conduz a interrupção da prescrição, a qual será analisada quando realizada o controle de admissibilidade em eventual ação de conhecimento.
+Os embargos de declaração opostos foram acolhidos nestes termos (fl. 1.364 ):
+Embargos de declaração. Erro material. Sanado. Omissão. Contradição e Obscuridade. Ausência. Revisão do julgado. Impossibilidade.
+Sendo constatada divergência entre o dispositivo do acórdão e o resultado da decisão constante na súmula de julgamento, há de se reconhecer o erro material, sem implicação de alteração no teor do julgado.
+A ausência de omissão, obscuridade ou contradição interna no julgado impossibilita o acolhimento do recurso de integração, que não tem a finalidade de rediscussão da matéria.
+Em suas razões recursais, a parte recorrente alega violação ao art. 381, III, do Código de Processo Civil (CPC), argumentando que "não restou preenchido o requisito reclamado no inciso III do art. 381 do CPC" (fl. 1.381), e que, por esse motivo, o acórdão recorrido não deveria ter reformado a sentença.
+Ao final, requer que o recurso especial seja provido, "com vistas a reformar o v. acórdão recorrido e dar por ausente o interesse e a necessidade do provimento judicial intentado na origem (produção antecipada de provas), devolvendo os plenos efeitos da sentença de primeiro grau" (fl. 1.384).
+A parte adversa apresentou contrarrazões (fls. 1.710/1.730).
+O recurso foi admitido na origem (fl. 1.734).
+É o relatório.
+Na origem, trata-se de ação com pedido de produção antecipada de prova proposta por IPIRANGA PRODUTOS DE PETRÓLEO S.A. e que foi extinta por sentença em virtude da falta de interesse processual. A sentença foi parcialmente reformada pelo acórdão recorrido, para permitir a produção antecipada de provas, com os seguintes fundamentos (fls. 1.275/1.276):
+Assim, a meu ver, a pretensão da apelante encontra pertinência, na norma contida no inciso III do art. 381, do CPC1, por admitir a antecipação da prova como forma de a parte obter prévio conhecimento dos fatos. O objetivo é obter um lastro probatório mínimo, em que as partes poderão avaliar suas chances de êxito em futura demanda (judicial ou arbitral). Disso decorre que a antecipação da prova poderá conduziras partes a eventualmente não proporem demanda alguma.
+A petição inicial deverá expor o motivo que justifique a antecipação da prova e indicar precisamente os fatos que se pretende provar, na forma determinada pelo art. 382, do CPC2. Isso será fundamental para se demonstrar que a antecipação da prova será útil (interesse) ao requerente (legitimidade), competindo ao magistrado ater-se à pretensão do requerente para evitar o manejo abusivo da medida, de maneira especulativa, sem objetivo certo ou declarado, com vistas a "pescar" qualquer prova para, eventualmente, subsidiar acusação futura.
+Consta da inicial que a apelante explora uma base de armazenamento e distribuição de combustíveis às margens do Rio Madeira, na Estrada do Belmont, em Porto Velho/RO e com a entrada em operação das UHE Santo Antonio e Jirau em março/2012 e setembro/2013, respectivamente, iniciaram, SEGUNDO ALEGAÇÕES, diversos problemas de alagamentos e inundações relacionados ao aumento no nível do rio e aceleramento do processo de erosão das margens, acarretando prejuízos advindos da instabilidade progressiva do terreno, abalos nos taludes de sustentação, considerando a expressiva aceleração do fluxo do rio (fatos e acontecimentos que, foram amplamente divulgados e, por essa razão, genericamente, de conhecimento público).
+Há relatos de ter a apelante realizado obras emergenciais em sua base, objetivando evitar vazamento de combustíveis e preservar a segurança dos equipamentos, dos trabalhadores e de terceiros.
+Ficou demonstrado que a pretensão da apelante objetiva dimensionar quais foram os exatos impactos sofridos em razão do funcionamento das usinas e quais possíveis medidas de manutenção de segurança podem ser praticadas, além de análise técnica, com estudo hidrológico e geotécnico do Rio Madeira.
+É possível a percepção de que o meio judicial eleito, busca a construção de um processo com enfoque para a pacificação social, uma vez que com a realização de prévia perícia judicial, na forma delimitada na inicial, poderá (1) apurar os termos de operação das UHE Santo Antonio e Jirau, (2) apurar a relação entre as alterações hidrológicas e os danos suportados pela apelante em sua base de distribuição, (3) as alterações nos níveis do Rio Madeira e, (4) a erosão do solo fluvial e as operações.
+Assim, ad cautelam, a pretensão da apelante se justifica, se considerar que a prova pretendida possibilita o conhecimento prévio sobre a viabilidade de propositura de eventual ação judicial ou a prática de outras medidas, inclusive, conciliatórias.
+O Tribunal de origem reconheceu que havia interesse processual na produção antecipada de prova, nos moldes como requerido pela parte autora da presente ação.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SIMPLES REITERAÇÃO DAS ALEGAÇÕES VEICULADAS NO RECURSO ANTERIOR. CERCEAMENTO DE DEFESA. NÃO-OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA.
+I - In casu, rever o entendimento do Tribunal de origem que consignou não estar configurado cerceamento de defesa, demandaria necessário revolvimento de matéria fática, o que é inviável em matéria de Recurso Especial, à luz do óbice contido na Súmula n. 07/STJ.
+II - O Agravante não apresenta argumentos capazes de desconstituir a decisão agravada, reiterando apenas as alegações veiculadas no recurso anterior.
+III - Agravo regimental improvido.
+(AgRg no AREsp n. 662.902/GO, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/6/2015, DJe de 17/6/2015.)
+PROCESSUAL CIVIL. AÇÃO CAUTELAR DE PRODUÇÃO ANTECIPADA DE PROVAS. OFENSA AO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+ ..
+3. A verificação da existência ou não do preenchimento dos requisitos para antecipação da produção de prova requer o revolvimento do conjunto fático-probatório dos autos, o que é inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+ ..
+6. Agravo Regimental não provido.
+(AgRg no AREsp n. 662.176/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/4/2015, DJe de 1/7/2015.)
+Ante o exposto, não conheço do recurso especial de SANTO ANTONIO ENERGIA S.A.
+Publique-se. Intimem-se.
+ EMENTA
