@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. FALTA DE INDICAÇÃO DE VÍCIOS. AUSÊNCIA DE REQUISITO FORMAL. MERA IRRESIGNAÇÃO. NÃO CABIMENTO. EMBARGOS NÃO CONHECIDOS, COM APLICAÇÃO DE MULTA.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. A jurisprudência desta Corte Superior assenta que "não se pode conhecer dos embargos de declaração que se limitaram a externar irresignação com o que foi decidido, sem fazer referência a nenhum dos vícios enumerados no art. 1.022 do NCPC quanto ao teor do acórdão embargado, descumprindo os requisitos previstos no art. 1.023 do mesmo diploma legal" (EDcl no AgInt no CC 168.959/MT, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 3/5/2022, DJe 5/5/2022).
+3. Embargos de declaração não conhecidos, com aplicação de multa.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por CRISTINA BOGAZ BONZEGNO DE SOUSA ao acórdão proferido pela Terceira Turma do Superior Tribunal de Justiça, nos termos da seguinte ementa (e-STJ, fl. 252):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. FALTA DE INDICAÇÃO DE VÍCIOS. AUSÊNCIA DE REQUISITO FORMAL. MERA IRRESIGNAÇÃO. NÃO CABIMENTO. MULTA PREVISTA NO ART. 1.026, § 2º, DO CPC/2015. INAPLICABILIDADE. EMBARGOS NÃO CONHECIDOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. A jurisprudência desta Corte Superior assenta que "não se pode conhecer dos embargos de declaração que se limitaram a externar irresignação com o que foi decidido, sem fazer referência a nenhum dos vícios enumerados no art. 1.022 do NCPC quanto ao teor do acórdão embargado, descumprindo os requisitos previstos no art. 1.023 do mesmo diploma legal" (EDcl no AgInt no CC 168.959/MT, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 3/5/2022, DJe 5/5/2022).
+3. É descabida a pretensão da parte embargada de aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, na hipótese, porquanto inexistente o caráter protelatório apontado.
+4. Embargos de declaração não conhecidos.
+Em suas razões (e-STJ, fls. 260-266), a embargante afirma que a decisão recorrida é infra petita, por não ter analisado o pedido constante nos embargos de declaração anteriormente opostos, além de respisar as razões do recurso especial, buscando, assim, que sejam acolhidos os aclaratórios.
+Impugnação apresentada, oportunidade em que a parte embargada pede a condenação da parte embargante ao pagamento da multa prevista no art. 1.026, § 2º, do CPC (e-STJ, fls. 273-275).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. FALTA DE INDICAÇÃO DE VÍCIOS. AUSÊNCIA DE REQUISITO FORMAL. MERA IRRESIGNAÇÃO. NÃO CABIMENTO. EMBARGOS NÃO CONHECIDOS, COM APLICAÇÃO DE MULTA.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. A jurisprudência desta Corte Superior assenta que "não se pode conhecer dos embargos de declaração que se limitaram a externar irresignação com o que foi decidido, sem fazer referência a nenhum dos vícios enumerados no art. 1.022 do NCPC quanto ao teor do acórdão embargado, descumprindo os requisitos previstos no art. 1.023 do mesmo diploma legal" (EDcl no AgInt no CC 168.959/MT, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 3/5/2022, DJe 5/5/2022).
+3. Embargos de declaração não conhecidos, com aplicação de multa.
+VOTO
+Com efeito, os embargos de declaração possuem índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+No caso em análise, o agravo em recurso especial interposto pela ora embargante, não foi conhecido em virtude da ausência de impugnação à decisão de admissibilidade proferida pela Predisência do Tribunal de Justiça local. Em seguida, foi negado provimento ao agravo interno por ela apresentado, mantendo-se a decisão recorrida. Opostos os primeiros embargos de declaração, a recorrente apenas repisou as razões do recurso especial, sem se insurgir efetivamente sobre a decisão proferida pela Terceira Turma desta Corte.
+Nestes ambargos de declação, embora a parte afirme a existência de omissão, deixou de apontar efetivamente em que consistiu o vício no acórdão proferido por esta Turma, pois, novamente, apenas trouxe fundamentação sobre o mérito objeto da sua pretensão recursal, o qual sequer foi analisado nesta instância, em razão do não conhecimento do agravo em recurso especial.
+Assim, carecendo de requisito formal - indicação de vício elencado no art. 1.022 do CPC/2015 - inviável o conhecimento dos embargos de declaração, por descumprimento do previsto no art. 1.023 do mesmo código.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. FALTA DE INDICAÇÃO DOS VÍCIOS DO ART. 1.022 DO NCPC QUANTO AOS FUNDAMENTOS DO ACÓRDÃO EMBARGADO. AUSÊNCIA DE REQUISITO FORMAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Aplicabilidade do novo Código de Processo Civil, devendo ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se pode conhecer dos embargos de declaração que se limitaram a externar irresignação com o que foi decidido, sem fazer referência a nenhum dos vícios enumerados no art. 1.022 do NCPC quanto ao teor do acórdão embargado, descumprindo os requisitos previstos no art. 1.023 do mesmo diploma legal.
+3. Embargos de declaração não conhecidos.
+(EDcl no AgInt no CC 168.959/MT, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 3/5/2022, DJe 5/5/2022.)
+Registre-se o manifesto propósito protelatório da embargante, ao pretender modificar matéria já exaustivamente analisada por esta Corte Superior, a acarretar a imposição de multa, conforme prevê o art. 1.026, § 2º, do CPC/2015.
+Diante dessas considerações, não conheço d os embargos de declaração e aplico multa no percentual de 1% sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC/2015.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 3º, do CPC/2015.
+É como voto.
