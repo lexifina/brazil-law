@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões pub licadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno, interposto pela CONCESSIONÁRIA REVIVER S.A., contra a decisão de fls. 1.921/1.922, de minha lavra, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+Inconformada, sustenta a parte agravante que, "foi mencionado que a matéria tratada é exclusivamente de direito, não demandando, portanto, reanálise de provas. Isso se deve ao fato de que a Agravante se fundamentou nas próprias alegações do Município Agravado, ao afirmar explicitamente que o endereço correto do Cemitério São Francisco Xavier é o indicado no Edital de Licitação. Em outras palavras, o que foi alegado pela Agravante foi devidamente reconhecido pela própria parte agravada. Ademais, a Agravante demonstrou a ilegalidade dos atos administrativos, inclusive com a confissão do próprio Agravado, fato esse que não foi devidamente considerado na decisão proferida. Em resumo, a Agravante argumentou objetivamente que há negativa de vigência do artigo 391 e interpretação inexata do artigo 373, inciso I, do Código de Processo Civil. Ou seja, o objeto do Agravo em Recurso Especial é justamente a decisão agravada, demonstrando que é prescindível o reexame dos fatos por se tratar de evidente negativa de vigência de norma jurídica. Nesse sentido, importa ressaltar que a Súmula nº 7 do STJ veda, no Recurso Especial, o reexame de provas, e não o reexame da decisão compelida por omissão, sob pena de violação da ampla defesa, do contraditório e do devido processo legal. Logo, na petição de Agravo em Recurso Especial, houve clara impugnação ao argumento suscitado na decisão monocrática, porquanto impugnados todos seus fundamentos, inclusive sobre negativa de prestação jurisdicional, decerto que a decisão é silente a respeito da declaração/confissão exposta pelo Município Agravado. Portanto,(i) houve impugnação de todos os fundamentos da decisão que não admitiu o Recurso Especial; (ii) houve errônea aplicação da Súmula 7 do STJ; e (iii) sobressai a relevância da matéria debatida no presente caso concreto, notadamente por se tratar de omissão acerca de confissão judicial" (fls. 1.931/1.932).
+Requer, por fim, "que o Agravo Interno seja conhecido e provido, para que, assim, o Agravo em Recurso Especial seja provido, oportunizando a apreciação do Recurso Especial por esta Colenda Turma do STJ" (fl. 1.932).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões pub licadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Destaco, inicialmente, que o recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+A decisão ora agravada não conheceu do agravo em recurso especial, ao fundamento de que, "além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade. No caso dos autos, o recurso especial restou inadmitido por não configurada negativa de prestação jurisdicional e pela incidência da Súmula 7/STJ. Ocorre que a parte agravante não impugnou, especificamente, referidos fundamentos, circunstância que impede o conhecimento do agravo" (fl. 1.921).
+Ocorre que, também no agravo interno, a parte agravante não impugnou o fundamento da decisão ora agravada.
+Com efeito, limitou-se a tecer alegações vagas a respeito da incidência da Súmula 7/STJ, mas sem mencionar, sequer, o problema da negativa de prestação jurisdicional, um dos fundamentos da inadmissão do recurso especial não impugnados no agravo em recurso especial.
+Nesse panorama, impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Em face do exposto, não conheço do agravo interno.
+É como voto.
