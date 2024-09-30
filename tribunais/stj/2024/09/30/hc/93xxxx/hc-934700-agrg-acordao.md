@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS IMPETRADO CONTRA DECISÃO LIMINAR DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 691 DO STF. RECEPTAÇÃO. PRISÃO PREVENTIVA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+3. Verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular. Com efeito, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado. Entendo, portanto, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WELLINGTON FREITAS SILVA contra decisão da Presidência desta Corte, a qual indeferiu liminarmente o habeas corpus com fundamento no enunciado n. 691 da Súmula do Supremo Tribunal Federal (e-STJ fls. 46/47).
+Segundo consta dos autos, o agravante foi preso em flagrante, prisão posteriormente convertida em preventiva, em razão da suposta prática do delito capitulado no art. 180 do Código Penal (e-STJ fl.41/43 ).
+Nas razões do presente agravo, a defesa reitera a ocorrência de constrangimento ilegal, uma vez que a segregação processual do paciente, com predicados pessoais favoráveis, encontra-se despida de fundamentação idônea, porquanto amparada na mera gravidade abstrata do delito, não estando presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP.
+Alega, ainda, que deixou de ser observado o princípio da proporcionalidade das medidas cautelares, tendo em vista que, em caso de eventual condenação, o paciente será submetido a regime inicial de cumprimento da pena mais brando do que o fechado, pelo fato de ostentar condições pessoais favoráveis, além do delito ter sido cometido na forma tentada.
+Por fim, sustenta que revelam-se adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CPP.
+Diante disso, pede a reconsideração da decisão agravada ou que o recurso seja julgado pelo colegiado para conceder a ordem de habeas corpus em favor da paciente (e-STJ fl. 3/7).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS IMPETRADO CONTRA DECISÃO LIMINAR DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 691 DO STF. RECEPTAÇÃO. PRISÃO PREVENTIVA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+3. Verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular. Com efeito, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado. Entendo, portanto, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+4. Agravo regimental improvido.
+VOTO
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+A Corte de origem, ao indeferir a liminar, alegou (e-STJ fl. 31/33):
+ ..
+A par dessas considerações, vislumbro, à luz do caso concreto, que a precária instrução do presente Habeas Corpus não só subtraiu do Impetrante, por completo, o interesse de agir, na modalidade interesse-adequação, como também, de forma reflexa, ocasionou o risco de indevida supressão de instância, fator que também impede o conhecimento deste remédio constitucional.
+Explico.
+Inicialmente, sobrepujo que o Habeas Corpus se destaca por ser uma ação de rito abreviado e de cognição sumária, devendo ser instruído, no momento da sua impetração, com as peças necessárias à compreensão da controvérsia; capazes de comprovar, de plano, a existência de ilegalidade, em tese, praticada pela Autoridade dita Coatora.
+Contudo, analisando os autos, constato que o presente feito carece de instrução adequada, na medida em que, no ato da impetração do Habeas Corpus, a Impetrante deixou de comprovar a prévia submissão das teses jurídicas ao crivo da Autoridade dita Coatora, o que enseja o risco de supressão de instância.
+(..)
+Nesse contexto, em que inexiste nos autos documentação apta a possibilitar a integral análise do writ por esta Julgadora, o indeferimento liminar da presente ordem de Habeas Corpus é medida que se impõe.
+ ..
+Verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular. Com efeito, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado. Entendo, portanto, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. WRIT INDEFERIDO LIMINARMENTE. SÚMULA 691 DO STF. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. NULIDADE DAS PROVAS COLHIDAS NO INQUÉRITO POLICIAL. CONFISSÃO MEDIANTE TORTURA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. NÃO CABIMENTO. EXCESSO DE PRAZO PARA O OFERECIMENTO DA DENÚNCIA. ANÁLISE CIRCUNSTANCIAL DO PROCESSO. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Apresentada fundamentação concreta para a decisão de preventiva, evidenciada na gravidade concreta do crime, cometido mediante grave ameaça à pessoa, com o uso de arma de fogo e ainda em concurso de agentes, tendo como vítima uma mulher, ou seja, pessoa mais vulnerável, bem como na reincidência dos agravantes Andrey e Wilker, que estavam em cumprimento de pena e na tentativa de fuga de todos os agravantes no momento da abordagem policial, não há que se falar em ilegalidade.
+2. Mostra-se inviável o pedido de análise da suposta nulidade da confissão policial, pois evidente a necessidade de reexame do material fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+3. A apreciação do tema relativo ao excesso de prazo para o oferecimento da denúncia demanda análise circunstancial dos autos, incabível em sede de apreciação de pedido de liminar.
+4. Inexistindo ilegalidade para justificar a mitigação do enunciado da Súmula 691 do STF, o writ deve ser indeferido liminarmente.
+5. Agravo regimental improvido. (AgRg no HC n. 658.153/ES, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 18/5/2021, DJe de 21/5/2021).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERAÇÃO DA SÚMULA N. 691 DO STF. IMPOSSIBILIDADE. ROUBO MAJORADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..  2. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+3. O Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos n o art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar o modus operandi empregado na empreitada criminosa, consistente no roubo de agência bancária em horário de movimento, de onde foram subtraídos R$ 800.000,00, em comparsaria de quatro agentes, sendo um deles, inclusive, funcionário do respectivo banco.
+4. Dadas as apontadas circunstâncias do fato e as condições pessoais do acusado, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas.
+5. Agravo regimental não provido. (AgRg no HC n. 732.623/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 3/5/2022)
+Ante o exposto, nego provimento ao agravo regimental
+É como voto.
