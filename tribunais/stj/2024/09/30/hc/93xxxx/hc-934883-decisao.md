@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de WALLACE GOMES DE SOUZA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Extrai-se dos autos que o paciente foi condenado à pena de 3 anos e 6 meses de reclusão, em regime fechado, além do pagamento de 17 dias-multa, como incurso no art. 155, § 4º, IV, do Código Penal.
+A defesa interpôs recurso de apelação perante o Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão que recebeu a seguinte ementa:
+"PENAL. PROCESSO PENAL. CRIME DE FURTO QUALIFICADO. AUTORIA E MATERIALIDADE COMPROVADAS. INSIGNIFICÂNCIA. AFASTADA. REITERAÇÃO DELITIVA. OFENSIVIDADE DA CONDUTA. DOSIMETRIA. ADEQUAÇÃO E PROPORCIONALIDADE. REGIME FECHADO. RÉU REINCIDENTE. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. SENTENÇA MANTIDA.
+1. Demonstrado que o réu é contumaz na prática de delitiva, inviável o reconhecimento da atipicidade material da conduta pela aplicação do princípio da insignificância, tendo em vista o não preenchimento do requisito do reduzidíssimo grau de reprovabilidade do comportamento.
+2. Considerando a ausência de critério legal, a jurisprudência tem mantido a pena fixada com a devida fundamentação, entendendo como norteadora a fração de 1/8 (um oitavo) sobre o intervalo entre os limites mínimo e máximo abstratamente cominados no tipo legal, para aumento da pena-base em razão da análise desfavorável de cada uma das circunstâncias judiciais do art. 59 do CP.
+3. Cominada pena inferior a 4 (quatro) anos ao réu reincidente, portador de maus antecedentes e com avaliação desfavorável da conduta social, mostra-se adequada a fixação do regime inicial fechado, nos termos do artigo 33, §2º, alínea c, e § 3º, do Código Penal.
+4. Recurso conhecido e desprovido." (e-STJ, fls. 429-448)
+Neste writ, a defesa alega, em síntese, que deve ser reconhecida a insignificância penal no caso concreto, considerando o reduzido valor do furto, que é bem inferior ao parâmetro de 10% do salário mínimo usualmente aceito para aplicação do princípio da bagatela.
+Requer a concessão da ordem a fim de que o paciente seja absolvido nos termos do artigo 386, inciso III, do Código de Processo Penal.
+O Ministério Público Federal opina pelo não conhecimento do writ ou denegação da ordem (e-STJ, fls. 465-471 ).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem assim considerou quanto ao princípio da insignificância:
+"Conforme assentado pela jurisprudência da Suprema Corte, a aplicação do referido princípio depende dos seguintes vetores cumulativos: a) a mínima ofensividade da conduta do agente, b) a ausência de periculosidade social da ação, c) o reduzido grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada.
+Ainda que se considere que os itens furtados totalizaram apenas R$ 45,00 (quarenta e cinco reais) conforme laudo de avaliação (ID 58854690), o réu possui diversas incidências criminais, inclusive por outros crimes patrimoniais (FAP ID 58854751).
+Trata-se de réu que possui contumácia na prática delitiva, afastando o vetor do reduzido grau de reprovabilidade de seu comportamento.
+Para fins de aplicação do princípio da insignificância, não basta avaliar somente o valor do bem, mas também a lesão jurídica e a periculosidade do agente, especialmente para perquirir se trata-se ou não de criminoso habitual.
+ ..
+Ademais, como bem ressaltado na sentença (ID 58854753):
+"(..) as barras de alumínio subtraídas integravam a estrutura de sustentação de uma parada de ônibus, a qual atende à coletividade desta Região Administrativa e restou danificada em razão da subtração perpetrada.
+Há que se considerar, ainda, que, embora o valor das barras de alumínio subtraídas seja diminuto, o prejuízo patrimonial experimentado com a prática delitiva não se restringe ao seu valor econômico, uma vez que o reparo da parada de ônibus, que teve inclusive vidros quebrados, como consignado no laudo de exame de local mencionado, incontestavelmente importou em gastos adicionais."
+Desta forma, ausente vetor estabelecido pelo STF, não é possível afastar a tipicidade material da conduta do apelante, conforme pleiteado pela Defesa." (e-STJ, fls. 433-435)
+Com efeito, o "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.  ..  Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público." (STF, HC n. 84.412-0/SP, relator Ministro Celso de Mello, DJU 19/11/2004.)
+A jurisprudência desta Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordináriasentenderem ser tal medida recomendável diante das circunstâncias concretas. A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DELITO DE FURTO PRATICADO NO MESMO DIA EM QUE O AGRAVANTE FOI BENEFICIADO COM A LIBERDADE MEDIANTE MONITORAMENTO ELETRÔNICO. PRISÃO PREVENTIVA. MULTIRREINCIDÊNCIA EM DELITOS PATRIMONIAIS. CONTUMÁCIA. INAPLICABILIDADE DO PRINCIPÍCIO DA INSIGNIFICÂNCIA. PRECEDENTES. AGRAVO DESPROVIDO.
+1. O agravante é multirreincidente específico em delitos patrimoniais, tendo praticado o furto em questão na data em que obteve a liberdade com monitoramento eletrônico em outro processo, circunstâncias que demonstram sua contumácia delitiva, impedindo, assim, a aplicação do princípio da insignificância e a substituição da prisão preventiva por medidas cautelares do art. 319 do Código de Processo Penal - CPP.
+2. Agravo regimental desprovido." (AgRg no HC n. 925.508/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. FURTO. TRANCAMENTO DO EXERCÍCIO DA AÇÃO PENAL. INSIGNIFICÂNCIA NÃO VERIFICADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O trancamento do exercício da ação penal é medida excepcional e, no caso, não está demonstrada, de plano, a atipicidade material do furto com base no princípio da insignificância, diante da contumácia delitiva do réu, que responde a outros seis processos criminais, pela prática de idêntico delito.
+2. Agravo regimental não provido." (AgRg no RHC n. 179.378/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INVIÁVEL. MULTIRREINCIDÊNCIA EM CRIMES PATRIMONIAIS. REGIME INICIAL PRISIONAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. ILEGALIDADE FLAGRANTE NÃO CONFIGURADA.
+I - A jurisprudência do Superior Tribunal de Justiça é nos sentido de que não se conhece de habeas corpus substitutivo de recurso próprio. Precedentes.
+II - Havendo coação ilegal ou teratologia, admite-se a concessão da ordem de ofício.
+III - A reincidência e a habitualidade delitiva são obstáculos iniciais à tese da insignificância, ressalvada excepcional peculiaridade do caso penal. Precedentes.
+IV - Apesar de a pena privativa de liberdade do paciente ter sido fixada em 1 ano e 02 meses de reclusão, o regime inicial fechado foi devidamente estabelecido em virtude da múltipla reincidência, aliado à existência de circunstâncias judiciais desfavoráveis.
+Agravo regimental desprovido." (AgRg no HC n. 923.405/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/8/2024, DJe de 19/8/2024.)
+In casu, malgrado o pequeno valor da res furtivae, verifica-se contumácia delitiva do paciente, pois ostenta "diversas incidências criminais, inclusive por outros crimes patrimoniais", o que demonstra desprezo sistemático pelo cumprimento do ordenamento jurídico.
+Nesse passo, de rigor a inviabilidade do reconhecimento da atipicidade material, por não restarem demonstradas as exigidas mínima ofensividade da conduta e ausência de periculosidade social da ação, haja vista a reiteração delitiva do paciente.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intime-se.
+EMENTA
