@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fls. 675/676):
+APELAÇÃO - Ação de Cobrança c/c Reparação de Danos - Pretensão de ressarcimento de valores despendidos com empréstimos, despesas referente ao imóvel locado pela empresa-ré, além de quantias constritas em demandas trabalhistas propostas contra a empresa-ré - Sentença de parcial procedência - Apelam as rés, impugnando o valor dado à causa, bem como a sucumbência recíproca, além de ilegitimidade passiva da ré Fátima - Preliminar de ilegitimidade passiva afastada - Valor dado à causa que deve obedecer ao estatuído no art. 292, incisos V e VI do CPC - Sucumbência - Partes que decaíram de parte do a pedido - Condenação ao pagamento de honorários advocatícios de 10% sobre o valor da condenação ao patrono da parte contrária - Aplicação do art. 85, § 14 e 86 ambos do CPC - Recursos parcialmentes providos.
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões do recurso especial (fls. 828/846), a parte recorrente aponta violação aos arts. 14, 489, § 1º, I a VI, e 1.022, II, parágrafo único, II, do atual Código de Processo Civil; e aos arts. 258 e 261, parágrafo único, do CPC/1973.
+Alega que o Tribunal de origem, mesmo provocado por embargos de declaração, não explicou "o porque de entender que o novo CPC se aplicava à situações processuais já consolidadas, fazendo uma afirmação, apenas, mas não demonstrando porque esta afirmação era juridicamente verdadeira. Com efeito, se a ação foi proposta e contestada sob a égide do CPC de 1973 e não houve impugnação ao valor da causa, a situação se consolidou, sendo impossível a reabertura da discussão".
+Sustenta que "a decisão proferida, ao aplicar os arts. 292, V e VI, do CPC, para alterar o valor da causa, olvidou que o processo foi distribuído em 2010412007, quando ainda não vigorava o CPC, lei que data de 16/03/2015 e que entrou em vigor um ano após sua publicação (art. 1.045) e que, ainda que aplicada a teoria do isolamento do ato processual, deveriam ser respeitadas as situações já consolidadas".
+Defende que não foi observada a teoria do isolamento do ato processual. Argumenta que a fixação do valor da causa possuía tratamento normativo diverso sob a égide do diploma processual anterior, o qual estabelecia que sua impugnação deveria se dar por incidente apartado, sendo presumido aceito o valor indicado na inicial, caso não impugnado.
+Acrescenta que, "ao tempo da propositura, era corrente o entendimento jurisprudencial de que o pedido de dano moral era genérico, a ser fixado pelo juiz e não era necessário que se integrasse ao valor da causa, situação que só ocorreu após a vigência do art. 292, V, do CPC".
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Sem razão a parte agravante.
+Cuida-se, na origem, de ação de cobrança, cumulada com reparação de danos morais, proposta contra a empresa A FIORELLINI CONFECÇÕES LTDA e FÁTIMA APARECIDA ROSA ACCETTURI, ora agravadas.
+A ação foi proposta em 11 de abril de 2007.
+Indeferida a petição inicial (e-STJ, fl. 245), seguiu-se apelação, julgada por acórdão do TJSP, que transitou em julgado em 12.09.2012 (e-STJ, fl. 296), determinando-se o prosseguimento regular da demanda.
+As primeiras tentativas de localização da empresa agravada foram infrutíferas, tendo a citação apenas sido realizada em 01.12.2016 (e-STJ, fl. 398), quando já estava em vigor o Código de Processo Civil de 2015.
+A empresa agravada contestou o feito em 23.02.2017, suscitando expressamente a incorreção do valor da causa, por ofensa aos critérios estabelecidos pelo art. 292, VI, do CPC (e-STJ, fl. 424).
+Observe-se, portanto, que, quando foi efetivada a citação e apresentada a contestação, com impugnação do valor da causa, já estava em operação o CPC/2015, que entrou em vigor em 18 de março de 2016.
+Segundo o entendimento do Superior Tribunal de Justiça, como, de fato, argumenta o agravante, o "Direito Processual Civil orienta-se pela regra do isolamento dos atos processuais, segundo o qual a lei nova é aplicada aos atos pendentes, mas não aos já praticados, nos termos do art. 1.211 do CPC ( princípio do tempus regit actum)" (REsp n. 1.002.366/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 1/4/2014, DJe de 24/4/2014.)
+Ocorre que, no caso em análise, não há que se falar em aplicação de referida teoria, pois o ato que o agravante pretende ver isolado foi, na verdade, praticado sob a vigência do CPC/2015, cujo art. 292, VI, estabelece que:
+Art. 292. O valor da causa constará da petição inicial ou da reconvenção e será:
+(..)
+VI - na ação em que há cumulação de pedidos, a quantia correspondente à soma dos valores de todos eles;
+Tanto assim que a contestação apresentada pela empresa agravada faz referência explícita a referido dispositivo, cuja disciplina atual deixou de prever a impugnação ao valor da causa por incidente em apartado.
+Desse modo, a conclusão do acórdão recorrido não destoa da jurisprudência do Superior Tribunal de Justiça já referida, tendo em vista que, quando realizada a impugnação ao valor da causa, já estava em vigor o CPC/2015.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO NÃO CONHECIDO, POR DESERÇÃO. PREPARO. AUSÊNCIA. NECESSIDADE DE COMPROVAÇÃO DO PREPARO, NO ATO DA INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. SÚMULA 187/STJ. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+II. Na forma da jurisprudência, "tanto o CPC/1973 (art. 1.211) quanto o CPC/2015 (art. 1.046, "caput") adotaram, com fundamento no princípio geral do "tempus regit actum", a chamada "teoria do isolamento dos atos processuais" como critério de orientação de direito intertemporal, de maneira que nada obstante a lei processual nova incida sobre os feitos ainda em curso, não poderá retroagir para alcançar os atos processuais praticados sob a égide do regime anterior, mas apenas sobre aqueles que daí em diante advierem. Nesse sentido, a definição sobre qual regime jurídico será aplicado depende do momento em que o respectivo ato processual é praticado" (STJ, AgInt no REsp 1.611.681/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 27/10/2016).
+(..)
+(AgInt no AREsp n. 2.272.535/PB, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+Assim, tampouco há que se falar em omissão do Tribunal local, que apreciou adequadamente a matéria no julgamento dos embargos de declaração, ao afirmar que "não há que se invocar a aplicação de lei processual anterior, isso porque as disposições da lei processual de 2015 entraram em vigor em 18 de março de 2016, e ao entrar em vigor suas disposições se aplicam, desde logo, aos processos pendentes, nos termos do artigo 1046 do estatuto processual, desse modo deve-se aplicar o novo estatuto porquanto anterior a prolação da sentença" (e-STJ, fl. 780).
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
