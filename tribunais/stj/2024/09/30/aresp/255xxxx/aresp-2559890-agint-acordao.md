@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/09/2024 a 30/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. VÍCIO DE OMISSÃO. NÃO OCORRÊNCIA.
+1. Inexiste violação dos arts. 489 e 1.022 do CPC/2015, quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+2. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por MUNICÍPIO DO SALVADOR contra decisão, assim ementada (fl. 920/922):
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Defende que, no caso, houve violação aos arts. 489, §1º, IV e 1022, II e parágrafo único, II do CPC/15, pois " o Tribunal local foi, sim, omisso em enfrentar questões relevantes para a solução do caso", em especial "no que toca a alegação de que o art. 94 e 95 da Lei Complementar Municipal n. 01/1991 veda o pagamento de adicional de insalubridade a agentes públicos não expostos a agentes nocivos", "sobre a alegação de distinguishing ao precedente firmado pelo Supremo Tribunal Federal, quando do julgamento do RE n.º 594.296", pois "não há em que se falar em anulação ou cancelamento definitivo do pagamento, mas sim em suspensão - como medida cautelar - considerando o risco de grave dano ao patrimônio público", e com relação a alegação de "impossibilidade de cobrança de valores retroativos em sede de mandado de segurança" e "no que toca à impossibilidade de cobrança de valores retroativos em sede de mandado de segurança" (e-STJ, fls. 931/932)".
+Impugnação apresentada às fls. 937/940.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. VÍCIO DE OMISSÃO. NÃO OCORRÊNCIA.
+1. Inexiste violação dos arts. 489 e 1.022 do CPC/2015, quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Quanto à alegada violação dos arts. 489, § 1º, IV, e 1022 do CPC/2015, tem-se que o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, como a nulidade do ato de suspensão abrupto de pagamento de adicional sem o regular processo administrativo prévio, a prescindibilidade de perícia e a observância dos limites do mandado de segurança impetrado na origem (e-STJ, fls. 447/455), in verbis:
+"Registre-se que o acórdão ora embargado foi expresso ao consignar que a entidade impetrante demonstrou que, para diversos servidores lotados na referida Secretaria Municipal, a Administração pública procedeu com a suspensão do pagamento do adicional, sem o regular processo administrativo prévio, sem garantir a observância do contraditório e da ampla defesa, exsurgindo, por consectário, a ilegalidade.
+A alegação da necessidade de perícia técnica prévia à concessão do adicional de insalubridade refoge, por completo, da situação apreciada nos autos que, conforme mencionado, vergastava a suspensão do pagamento e não o mero indeferimento inicial da concessão.
+O direito à insalubridade desses servidores foi, efetivamente, reconhecido pela Municipalidade em momento anterior, uma vez que efetuou o pagamento por muitos anos. Assim, o que se analisou na demanda em tela foi a conduta administrativa de, sem a observância dos preceitos constitucionais, subtrair o direito anteriormente implantado. E, com esse cenário, foi determinado o imediato restabelecimento.
+A tentativa de defender, nesses aclaratórios, a imprescindibilidade de condicionar o restabelecimento do pagamento à realização de prévia perícia técnica individualizada se trata de clara tentativa de rediscussão da temática, incabível nessa via recursal.
+(..)
+Com o efeito, foi determinado restabelecimento do pagamento do adicional de insalubridade, que teve sua suspensão efetivada em outubro de 2021, sem a observância do devido processo administrativo e direitos a ele inerentes e, com essas premissas, se encontram os limites postos.
+A eventual existência de outros atos administrativos supervenientes e individualizados não foram - e nem poderiam ser - objeto de apreciação da demanda submetida ao crivo dessa Corte, uma vez que exorbitam do escopo e limites da lide. Não se trata de omissão, mas de limitação da controvérsia ao cenário dos autos.
+Reitere-se que, conforme mencionado, a contradição hábil a ensejar o acolhimento dos aclaratórios é aquela que se encontra presente entre os fundamentos utilizados e a conclusão, ou seja, no âmbito interno do julgado, não sendo o meio recursal adequado para apreciar a alegada existência de contradição entre o posicionamento exarado nestes autos e as teses defensivas do recorrente ou o entendimento de certa jurisprudência.
+Demais, cumpre registrar ainda que o Magistrado não se encontra obrigado a se manifestar sobre todos os argumentos suscitados pelas partes, quando apontado os fundamentos suficientes para alicerçar seu posicionamento."
+Da mesma forma, afasta-se a alegada afronta ao artigo 489, § 1º, IV do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Ainda nessa esteira, frise-se que a jurisprudência deste Superior Tribunal é firme no sentido de que: "Não resta configurada nulidade processual quando o Tribunal julga integralmente a lide e soluciona a controvérsia em conformidade com o que lhe foi apresentado".
+Por tudo, resta claro que houve a devida manifestação do Tribunal de origem quanto à alegada omissão, apenas não se adotando as razões do recorrente, o que não configura violação aos dispositivos invocados. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDORES PÚBLICOS ESTADUAIS. ADICIONAL POR TEMPO DE SERVIÇO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA, TOMADO SOB A ÉGIDE DO CPC/1973. IMPOSSIBILIDADE. DIVERGÊNCIA ENTRE DECISÃO DE ÓRGÃO FRACIONÁRIO E DECISÃO DE ÓRGÃO ESPECIAL EM ASSUNÇÃO DE COMPETÊNCIA ACERCA DE DIREITO LOCAL. INCIDÊNCIA DAS SÚMULAS 13 DO STJ E 280 DO STF. PRECEDENTES DO STJ.
+ ..  2. Inexiste violação dos arts. 489 e 1.022 do CPC/2015, quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+ ..  5. Agravo interno não provido.
+(AgInt no REsp n. 1.961.463/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 19/4/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
