@@ -1,0 +1,21 @@
+DECISÃO
+JOÃO CARLOS DE PAULA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no Agravo em Execução n. 8000639-42.2024.8.24.0018.
+A defesa pretende, em síntese, a concessão da saída temporária ao paciente, independentemente da realização de exame criminológico.
+O Ministério Público Federal opinou pela concessão da ordem (fls. 103-107).
+Decido.
+O Juízo de primeiro grau assim indeferiu o benefício da saída temporária (fl. 14, destaquei):
+Compulsando os autos, verifica-se que o apenado foi condenado, pela prática de crime(s) previstos nos artigos 217, 213, 214,129, 136 todos do Código Penal, dentre outros crimes, conforme denúncias dos movimentos 1.2 a 1.4 e 1.704 a 1.706.
+Como se sabe, a concessão de saída temporária, diferentemente da simples progressão para o regime semiaberto, proporciona o contato direto do reeducando com o meio externo, sendo, inclusive, objetivo do instituto, proporcionar a gradual retomada do contato do preso com a sua família e com as atividades que promovam sua integração social. Dessa forma, tendo em vista que o deferimento do benefício pleiteado acarretaria o direto contato do apenado com o meio social, exsurge a necessidade de o reeducando demonstrar que se encontra apto à respeitar as normas de convivência social.
+Assim, diante da conduta apresentada no réu em sua vida delitiva, visualizo, no caso, necessidade de ele ser submetido ao exame criminológico para que se possa atestar o seu estado psicológico e social.
+Se quando da aferição do requisito subjetivo necessário à concessão da progressão do regime prisional foi suficiente a verificação do comportamento atual informado pela Casa Penal, os parâmetros para aferição do preenchimento das condições necessárias ao contato direto com a sociedade, no caso concreto, reclamam maior prudência e recomendam que a reinserção social, mesmo que por um curto período, só ocorra após minuciosa análise do resultado da perícia interdisciplinar.
+Logo, para avaliar tal situação, notadamente em um juízo presuntivo de que o liberado não voltará a delinquir, verifico que se mostra necessária a elaboração do exame criminológico.
+A Corte de origem manteve a decisão do Juízo das execuções e na oportunidade destacou (fl. 56):
+Assim, veja-se que a decisão não é desarrazoada, sendo totalmente essencial a realização do exame criminológico, principalmente nesse momento da execução, para constatar se o apenado está efetivamente apto para retornar de forma sadia e pacífica ao convívio social, sem perigo de reiteração, principalmente em crimes dessa natureza, conjuntura que implica em maior segurança para a sociedade e para ele mesmo.
+A respeito da matéria suscitada, esta Corte Superior possui o entendimento de que "com as alterações trazidas pela Lei n. 10.792/2003, o exame criminológico deixa de ser requisito obrigatório para a progressão de regime, podendo, todavia, ser determinado de maneira fundamentada pelo Juízo da execução penal, de acordo com as peculiaridades do caso" (HC n. 122.486/MT, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/4/2011, grifei).
+Vale dizer, embora não mais se exija, de plano, a realização de exame criminológico, o Juízo da execução penal ou mesmo o Tribunal de Justiça estadual podem, de forma devidamente fundamentada e diante das peculiaridades do caso concreto, determinar a realização do referido exame para a formação do seu convencimento acerca do implemento do requisito subjetivo.
+Nesse sentido, foi editada a Súmula n. 439 do STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Dessa forma, o que se verifica é que foi determinada a elaboração de laudo pericial sem a devida fundamentação, com fulcro apenas em considerações abstratas acerca dos delitos cometidos pelo reeducando, a impor-lhe patente constrangimento ilegal, sem a demonstração de prática de falta grave recente.
+À vista do exposto, concedo a ordem, para determinar que o Juízo das Execuções reaprecie o pedido de saída temporária, com base em fatos ocorridos no curso da execução penal, afastada a exigência do exame criminológico.
+Comunique-se o inteiro teor dessa decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
