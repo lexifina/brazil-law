@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CARLOS ROBERTO DA SILVA com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em julgamento do Agravo de Execução Penal n. 0024950-20.2023.8.26.0050.
+Consta dos autos que o Juízo da execução indeferiu o pedido de extinção da punibilidade da pena de multa do ora recorrente, independente do seu pagamento (fl. 131).
+Recurso de agravo em execução interposto pela defesa foi desprovido (fl. 143).
+Em sede de recurso especial (fls. 152/164), a defesa apontou violação ao art. 927, III, do CPC, porque o TJ desobedeceu a atual postura pacificada pelo STJ no Tema n. 931. Ressaltou que o recorrente é hipossuficiente econômico.
+Requer seja julgada extinta a punibilidade do recorrente.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 168/173).
+Admitido o recurso no TJ (fls. 176/177), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do recurso especial (fls. 187/192).
+É o relatório.
+Decido.
+Sobre a controvérsia, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO manteve a negativa de extinção da pena de multa do recorrente nos seguintes termos do voto do relator:
+"(..) Sabe-se, ademais, que, em revisão à tese firmada no sobredito Tema nº 931 do Superior Tribunal de Justiça, assentou-se que: "Na hipótese de condenação concomitante a pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade".
+E tal deliberação, de cunho vinculante, versa sobre a possibilidade de extinção da punibilidade de sentenciados que, além de já terem cumprido a pena privativa de liberdade concomitantemente imposta, comprovadamente não tenham condições de adimplir a sanção pecuniária. No presente caso, não se verifica absoluta comprovação de impossibilidade de efetuar o pagamento da sanção pecuniária por parte do sentenciado, ainda que parceladamente, não se mostrando recomendável, destarte, a extinção de sua punibilidade por suposta hipossuficiência econômica.
+(..)
+No particular, aliás, cumpre assentar que o fato de o recorrente ser defendido pela Defensoria Pública, por si só, não faz presunção absoluta de sua hipossuficiência, sendo necessário repise-se que se comprove, inequivocamente, a sua incapacidade financeira, o que não se vislumbra in casu.
+A fixação do valor unitário dos dias-multa no patamar de piso também não reflete inequívoca incapacidade econômica, notadamente porque, se o magistrado não tem discricionariedade para reduzir a quantidade de dias-multa estabelecida no preceito secundário de cada tipo penal, ainda que comprovada eventual hipossuficiência econômica, o raciocínio inverso não pode ser invocado para ensejar a extinção da punibilidade independentemente do pagamento da multa penal.
+Além do mais, é direito do Ministério Público reforce-se titular para promover a ação de cobrança de multa no âmbito penal, tentar desconstituir a presunção de sua hipossuficiência e, v. g., pleitear a penhora de valores possivelmente existentes em suas contas bancárias." (fls. 138/142).
+Extrai-se dos trechos acima que a Corte de origem não desconsiderou o Tema n. 931 do STJ, firmado no sentido de que o inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária, mas sim ponderou não ter sido comprovada a impossibilidade do recorrente efetuar o pagamento da sanção pecuniária.
+De fato, "a demonstração da incapacidade econômica de pagamento da multa criminal, como requisito para a extinção da punibilidade, deve ser comprovada, exigindo instrução específica. Não pode ser presumida, sob pena de se transformar uma prova acessível à defesa em prova tipicamente diabólica para a sociedade, numa inadmissível inversão do ônus probatório" (AgRg no REsp n. 2.092.368/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023 ).
+Ausente a comprovação da hipossuficiência econômica, segundo a análise fático-probatória realizad a pela Corte local, é inviável a extinção da punibilidade.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
