@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOÃO VITOR DOS SANTOS BRANDÃO contra acórdão assim ementado:
+EMENTA: AGRAVO EM EXECUÇÃO PENAL - RECURSO DEFENSIVO - CONCESSÃO DE INDULTO PELO DECRETO PRESIDENCIAL N.º 11.302/22 - IMPOSSIBILIDADE - INTERPRETAÇÃO SISTEMÁTICA - AUSÊNCIA DOS REQUISITOS OBJETIVOS - RECURSO DESPROVIDO.
+- É possível inferir, a partir de uma interpretação sistemática do Decreto Presidencial de nº. 11.302/22, que o referido indulto visou beneficiar aqueles que sofrem de severas enfermidades e os agentes públicos que compõem o Sistema Único de Segurança Pública.
+- Considerando que o apenado não fez prova de que está acometido das enfermidades elencadas no Decreto e que nem integra o Sistema Único de Segurança Pública, não há que se falar em concessão do indulto.
+- Ademais, no caso concreto, o sentenciado não cumpriu a integralidade das penas relativas aos crimes impeditivos.
+Consta dos autos que o paciente, condenado pelos crimes de furto, receptação e porte ilegal de arma de fogo, pleiteou a concessão de indulto natalino com base no Decreto Presidencial nº 11.302/2022, pedido que restou indeferido pelas instâncias ordinárias.
+A defesa alega, em síntese, a ocorrência de constrangimento ilegal em razão da indevida interpretação do Decreto Presidencial nº 11.302/2022 pelas instâncias ordinárias, que impuseram requisitos subjetivos não exigidos, como a necessidade de o paciente ser acometido por enfermidades graves ou ocupar cargo no Sistema Único de Segurança Pública. Argumenta que o decreto prevê a concessão de indulto a condenados por crimes cuja pena máxima não ultrapasse cinco anos, sem a exigência de cumulatividade de condições subjetivas.
+Ao final, requer a concessão da ordem para que seja reconhecido o direito do paciente ao indulto natalino, nos termos do Decreto Presidencial nº 11.302/2022.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+A presente impetração visa corrigir ilegalidade decorrente da interpretação inadequada do Tribunal de Justiça de Minas Gerais acerca da aplicação do Decreto Presidencial nº 11.302/2022, ao indeferir o pedido de indulto sob a justificativa de que o paciente não preencheu requisitos subjetivos, como estar acometido por enfermidades graves ou integrar o Sistema Único de Segurança Pública.
+Contudo, o mencionado decreto, em seu art. 5º, dispõe que "será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos", sem estabelecer a necessidade de cumulatividade de condições subjetivas, exceto em casos expressamente previstos em outros artigos. A jurisprudência deste Superior Tribunal de Justiça reforça que a interpretação dos decretos de indulto deve ser restritiva, vedando-se a imposição de requisitos não previstos.
+A propósito:
+HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO (DECRETO PRESIDENCIAL N. 11.302/2022). INTERPRETAÇÃO RESTRITIVA. ARTS. 1º E 2º, DO REFERIDO DECRETO. DESTINATÁRIOS DO BENEFÍCIO. CUMULATIVIDADE NÃO PREVISTA. HIPÓTESES AUTÔNOMAS. RESTRIÇÃO INDEVIDA. POSSIBILIDADE DE INDULTO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+2. Não há elementos textuais de referência, expressos ou implícitos, condicionando a concessão do benefício ao condenados por pena máxima em abstrato inferior a cinco anos (art. 5º do Decreto n. 11.302/2022) ao preenchimento de qualquer condição subjetiva prévia.
+3. Ordem concedida. Liminar confirmada.
+(HC n. 906.580/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2024, DJe de 20/5/2024.)
+Assim, ao exigir o cumprimento cumulativo de condições para a concessão do indulto, o Tribunal de origem ampliou indevidamente o alcance do decreto, em violação ao princípio da legalidade estrita. Superada essa premissa, faz-se necessária a devolução dos autos para que o Tribunal analise os requisitos previstos no decreto, em especial os previstos no art. 5º do citado diploma normativo.
+Pelo exposto, não conheço do habeas corpus substitutivo, mas concedo a ordem de ofício para determinar a devolução dos autos ao Tribunal de Justiça de Minas Gerais, a fim de que, afastada a exigência de requisitos subjetivos cumulativos, sejam analisados os demais elementos necessários à concessão do indulto, conforme as disposições do Decreto Presidencial nº 11.302/2022, notadamente seu art. 5º.
+Ciência ao MPF.
+Publique-se. Intimem-se.
+ EMENTA
