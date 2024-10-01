@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor ROBSON DOS SANTOS PEREIRA, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Recurso em Sentido Estrito n. 0002657-41.2016.8.26.0102).
+Consta dos autos que, em 28/1/2024, o paciente foi condenado, pela prática do crime tipificado no art. 171, caput, c/c o art. 61, II, ambos do Código Penal, à pena de 1 ano, 2 meses e 12 dias de reclusão, em regime inicial semiaberto, além do pagamento de 12 dias-multa, sendo-lhe concedido o direito de recorrer em liberdade (e-STJ fls. 18/22).
+Interposto recurso de apelação, o qual não foi recebido ante a manifesta intempestividade (e-STJ fls. 42/43).
+Contra a decisão que não recebeu o recurso apelatório, a defesa interpôs recurso em sentido estrito, que foi desprovido pela Corte local, em sessão de julgamento realizada no dia 27/8/2024, sob a seguinte ementa (e-STJ fl. 8):
+Recurso Em Sentido Estrito. Decisão que não recebeu recurso de apelação interposto fora do prazo legal. Intempestividade recursal configurada. Apelação interposta após ultrapassado o prazo legal de 5 dias. Decisão mantida. Recurso desprovido.
+No presente habeas corpus, a impetrante aduz, em síntese, que a pretensão punitiva estatal encontra-se fulminada pela prescrição, na modalidade retroativa, haja vista o transcurso de mais de 4 anos entre o recebimento da denúncia e a publicação da sentença.
+Segundo a inicial, embora a matéria não tenha sido submetida ao crivo da Corte local, a prescrição deveria ter sido decretada, de ofício, por se tratar de matéria de ordem pública.
+Ao final (e-STJ fl. 6):
+1. Diante de todo exposto, requer o conhecimento e provimento do presente mandamus com a CONCESSÃO DA LIMINAR, ante a existência de fumus boni iuris e periculum in mora;
+2. Desta forma, julgar PROCEDENTE A EXTINÇÃO DA PUNIBILIDADE pela prescrição da pretensão punitiva, nos termos do artigo 107, inciso IV, c.
+c. o artigo 109, inciso V, artigo 110, "caput", e § 1º, artigo 114, e artigo 119, todos do Código Penal;
+3. Em último caso e por amor ao direito, se Vossa Excelência não entender desta forma, REQUER a aplicação de medida cautelar diversa ao paciente, a substituição da pena privativa de liberdade por restritiva de direitos ou concessão da suspensão condicional da pena, impondo-se as medidas constantes nos incisos I, IV e V do artigo 319 do CPP, tendo em vista que o réu à data dos fatos era primário, sendo suficiente e adequada as referidas medidas ao presente caso;
+4. Seja oficializada a autoridade coatora para prestar as informações de praxe, com posterior remessa dos autos à Procuradoria-Geral de Justiça com o regular prosseguimento do feito;
+O pedido liminar foi indeferido (e-STJ fls. 51/53).
+As informações foram devidamente prestadas (e-STJ fls. 58/65).
+O Ministério Público Federal opinou pela concessão da ordem, em parecer assim ementado (e-STJ fl. 69):
+HABEAS CORPUS. ESTELIONATO. OCORRÊNCIA DA PRESCRIÇÃO RETROATIVA DA PRETENSÃO PUNITIVA ESTATAL. PARECER PELA CONCESSÃO DA ORDEM.
+É o relatório. Decido.
+O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+Nesse sentido, confiram-se os seguintes julgados, exemplificativos dessa nova orientação das Cortes Superiores do País: HC n. 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe de 27/5/2015, e STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 3/12/2013, DJe de 28/2/2014.
+Mais recentemente: STF, HC n. 147.210-AgR, Relator Ministro EDSON FACHIN, DJe de 20/2/2020; HC n. 180.365-AgR, Relatora Ministra ROSA WEBER, DJe de 27/3/2020; HC n. 170.180-AgR, Relatora Ministra CARMEM LÚCIA, DJe de 3/6/2020; HC n. 169.174-AgR, Relatora Ministra ROSA WEBER, DJe de 11/11/2019; HC n. 172.308-AgR, Relator Ministro LUIZ FUX, DJe de 17/9/2019; HC n. 174.184-AgRg, Relator Ministro LUIZ FUX, DJe de 25/10/2019. STJ: HC n. 563.063-SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 10/6/2020; HC n. 323.409/RJ, Relator p/ acórdão Ministro FELIX FISCHER, Terceira Seção, julgado em 28/2/2018, DJe de 8/3/2018; e HC n. 381.248/MG, Relator p/ acórdão Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 22/2/2018, DJe de 3/4/2018.
+Assim, de início, incabível o presente habeas corpus substitutivo de recurso. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Conforme relatado, busca-se, na presente impetração, a extinção da punibilidade do paciente, em virtude da prescrição da pretensão punitiva estatal, na modalidade retroativa.
+Como é de conhecimento, a extinção da punibilidade em razão da prescrição da pretensão punitiva constitui matéria de ordem pública, que pode ser conhecida de ofício, em qualquer grau de jurisdição, nos termos do art. 61 do Código de Processo Penal
+No caso, verifico que o paciente foi condenado, pelo crime de estelionato (171, caput, c/c o art. 61, II, ambos do Código Penal), à pena de 1 ano, 2 meses e 12 dias de reclusão, em regime inicial semiaberto, além do pagamento de 12 dias-multa, sendo de 4 anos o prazo prescricional para o referido delito, nos termos do art. 109, inciso V, do Código Penal.
+Conforme as informações prestadas pelo Juízo de primeiro grau (e-STJ fls. 58/63), recebida a denúncia em 25/11/2019 e publicada a sentença em cartório em 28/1/2024, estando ausentes causas suspensivas ou interruptivas da prescrição nesse intervalo.
+Nesse viés, conforme apontado pelo Ministério Público Federal (e-STJ fls. 69/70):
+Temos que o habeas corpus deve ser concedido.
+Inicialmente, cabe lembrar que esse Superior Tribunal de Justiça não admite habeas corpus substitutivo de revisão criminal, salvo quando há ilegalidade manifesta, hipótese em que se concede a ordem de ofício.
+É o caso.
+IA defesa tem razão quando alega prescrição retroativa da pretensão punitiva estatal para o delito de estelionato (171, caput, c/c o art. 61, II, ambos do Código Penal).
+Com efeito, a pena imposta ao paciente por esse delito foi de 1 ano, 2 meses e 12 dias de reclusão, em regime inicial semiaberto, além do pagamento de 12 dias-multa, sendo-lhe concedido o direito de recorrer em liberdade. Por essa razão, e conforme o art. 109, inciso V, do CP, a prescrição deveria ocorrer em 4 (quatro) anos.
+Como se sabe, a prescrição retroativa da pretensão punitiva tem por referência a pena em concreto, sendo aferida, nos termos do art. 110 do CP, após o trânsito em julgado da sentença condenatória. Além disso, conforme o §1º do mesmo artigo, a prescrição não pode em nenhuma hipótese ter por termo inicial data anterior à da denúncia ou queixa.
+No particular, como transcorreu o prazo de aproximadamente 4 anos e 2 meses entre a data do recebimento da denúncia, em 25/11/2019 (e-STJ, fl. 58) e a prolação da sentença, em 28/1/2024 (e-STJ, fl. 60), é forçoso convir que ocorreu a prescrição retroativa.
+Por tais razões, deve ser declarada a prescrição da pretensão punitiva em relação ao crime do art. 171, caput, c/c o art. 61, II, ambos do Código Penal,, nos termos dos arts. 109, V, 110 e 115 do CP.
+É justo, pois, conceder a ordem. - negritei.
+Tem-se, portanto, manifesto o implemento do prazo prescricional de 4 anos, entre a data do recebimento da denúncia e a data da publicação da sentença, razão pela qual deve ser reconhecida a extinção da punibilidade do paciente, no bojo da Ação Penal n. 0002657-41.2016.8.26.0102, em relação ao crime descrito no art. 171 do Código Penal.
+A propósito:
+PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. CORRUPÇÃO PASSIVA. OMISSÃO. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. CLARA. COERENTE. REEXAME DA CAUSA. IMPOSSIBILIDADE. PRESCRIÇÃO RETROATIVA. LAPSO TEMPORAL SUPERIOR A 04 (QUATRO) ANOS ENTRE A DATA DE RECEBIMENTO DA DENÚNCIA E A DATA DE PUBLICAÇÃO DA SENTENÇA CONDENATÓRIA. OCORRÊNCIA.
+I - São cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada.
+II - Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação da decisão embargada.
+III - Na hipótese em exame, verifica-se que, a conta de suposta omissão, o que pretende o embargante é a rediscussão da matéria, já devidamente analisada, situação que não se coaduna com a estreita via dos aclaratórios.
+IV - Em relação ao pleito de reconhecimento prescrição da pretensão punitiva para o crime de estelionato, tenho que assiste razão ao ora embargante, porquanto, tendo transcorrido lapso superior a 04 (quatro) anos (Art. 109, V, do CP) entre a data do recebimento da denúncia 07/07/2011 (fl. 393) e a publicação da sentença 19/04/2017 (fl. 1.546), forçoso reconhecer a extinção da punibilidade de Valdecy de Souza Silva pela prescrição da pretensão punitiva, em sua forma retroativa, tão somente para o crime de estelionato.
+Embargos de declaração rejeitados, declarada extinta a punibilidade em relação ao delito previsto no artigo 171, caput e §3º, do Código Penal, em face do advento da prescrição da pretensão punitiva na modalidade retroativa, na forma do artigo 109, inciso V, c/c o artigo 107, inciso IV, ambos do Código Penal.
+(EDcl no AgRg no AREsp n. 2.150.881/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024.) - negritei.
+Ante o exposto, não conheço do mandamus. Porém, concedo a ordem, de ofício, para declarar extinta a punibilidade do paciente, com relação à Ação Penal n. 0002657-41.2016.8.26.0102.
+Comunique-se, com urgência, às instâncias ordinárias.
+Intimem-se.
+EMENTA
