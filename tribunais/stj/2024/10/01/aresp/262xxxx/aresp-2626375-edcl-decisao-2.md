@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALEXANDRE AYOUB E OUTROS à decisão de fls. 237/242 (e-STJ) que conheceu em parte do recurso especial da parte adversa para, nessa extensão, dar-lhe provimento para afastar a multa aplicada com base no art. 1.026, § 2º, do CPC.
+Nas razões dos embargos (fls. 252/259, e-STJ), os recorrentes alegam que a decisão é contraditória, tendo em vista que afastou a multa do art 1.026, § 2º, do CPC, sob a assertiva de que "a parte recorrente não pretendeu procrastinar ou distorcer fatos, objetivando os embargos declaratórios opostos ao acórdão recorrido prequestionar teses para a interposição do recurso especial" (e-STJ fl. 255).
+Salientam que não houve reconhecimento de negativa de prestação jurisdicional (art. 1022 do CPC) e que foi aplicada a Súmula nº 211/STJ por ausência de prequestionamento. No entanto, a multa foi afastada.
+Afirma que há precedentes nesta Corte, no sentido de que o afastamento da multa implica o reexame das provas dos autos, o que atrai o óbice da Súmula nº 7/STJ.
+Ao final, requerem o acolhimento dos embargos com efeitos infringentes.
+Devidamente intimada, a parte embargada ofereceu impugnação (fls. e-STJ fls. 262/267).
+É o relatório.
+DECIDO.
+A inconformidade não merece acolhida.
+Consoante o disposto no art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração somente são cabíveis para (a) esclarecer obscuridade ou eliminar contradição, (b) suprir omissão de ponto ou questão acerca da qual deveria se pronunciar o juiz, de ofício ou a requerimento, incluindo-se as condutas descritas no art. 489, § 1º, do CPC/2015, que configurariam a carência de fundamentação válida e (c) corrigir o erro material.
+Na hipótese, os embargantes alegam haver contradição porque, embora não tenha sido reconhecida a violação do art. 1.022 do CPC e aplicada a Súmula nº 211/STJ, por falta de prequestionamento das matérias insertas nos dispositivos tidos como violados no apelo especial, a decisão embargada afastou a multa aplicada com base no art. 1.026, § 2º, do CPC.
+Com efeito, a decisão atacada não apresenta contradição, haja vista que o afastamento da multa está fundamentado na ausência de pretensão procrastinatória por parte da parte ora embargada.
+Na hipótese, de fato, a assertiva de violação do art. 1.022 foi afastada porque o tribunal de origem se manifestou sobre a atualização do crédito exequendo, tendo asseverado que a matéria estava preclusa, daí porque, além de não ter sido demonstrada a negativa de prestação jurisdicional, entendeu-se que aplicação da Súmula nº 211/STJ, no que diz respeito aos arts. 389, 394, 395 e 884 do Código Civil.
+Registre-se que, conquanto os ora embargados tenham interposto os embargos na origem, objetivando o prequestionamento das matérias dos referidos dispositivos, o tribunal de origem fundamentou o acórdão com o direito que entendeu aplicável à espécie, não havendo necessidade de se manifestar acerca de tais questões. Isso, contudo, não autoriza a aplicação da multa do art. 1.026, § 2º, do CPC, porque os embargos não tiveram o propósito de retardar o feito e sim, de extrair do tribunal de origem juízo de valor acerca de tais as matérias.
+Saliente-se que a contradição que autoriza o acolhimento dos embargos de declaração somente se revela quando, no contexto da decisão embargada, há proposições inconciliáveis entre si, dificultando-lhe a compreensão, o que não ocorre na hipótese.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. CONFLITO POSITIVO. JUÍZO TRABALHISTA E JUÍZO ARBITRAL. CONTRATO DE FRANQUIA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA OU NÃO. RELAÇÃO DE PREJUDICIALIDADE. PROCEDIMENTO ARBITRAL. SUSPENSÃO. NECESSIDADE. ART. 313, V, DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. A contradição que autoriza o acolhimento dos embargos de declaração somente se revela quando, no contexto do julgado, há proposições inconciliáveis entre si, dificultando-lhe a compreensão.
+3. Embargos de declaração rejeitados.(EDcl no CC n. 184.495/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 14/12/2022, DJe de 19/12/2022- grifou-se.)
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CONTRADIÇÃO. INEXISTÊNCIA. REITERAÇÃO DOS FUNDAMENTOS JÁ EXAMINADOS NO ARESTO EMBARGADO. REDISCUSSÃO DA LIDE. IMPOSSIBILIDADE, ANTE OS LIMITES IMPOSTOS PELO ART. 535, INCS. I E II, DO CPC. REJEIÇÃO.
+1. Os embargos de declaração não se apresentam viáveis ao rejulgamento da matéria posta nos autos, porquanto suas finalidades se limitam a permitir a complementação da decisão, quando constatado quadro de omissão a respeito de ponto fundamental da lide, ou o esclarecimento de contradição entre as proposições constitutivas do julgado, bem assim de obscuridade verificada ao longo das razões desenvolvidas pelo Juízo.
+2. Tem-se, desse modo, que a rediscussão de matérias já examinadas e decididas transborda os rígidos limites de cabimento dos aclaratórios, os quais se encontram previstos no art. 535, incs. I e II, do CPC.
+3. Registre-se, ainda, que: "A contradição que rende ensejo à oposição de embargos de declaração é a interna ao julgado, caracterizada por proposições inconciliáveis entre si, que dificultam ou impedem a sua compreensão." (EDcl no AgRg no REsp n.º 571.895/SP, Rel. Min. HAMILTON CARVALHIDO, DJ 25/10/2004).
+4. Embargos de declaração rejeitados" (EDcl no REsp 1.138.970/PE, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 6/9/2011, DJe 22/2/2012- grifou-se).
+Dessa maneira, não tendo sido demonstrados quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade ou eliminar a contradição, mas, sim, reformar o julgado por via inadequada.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA SECURITÁRIA.OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS.VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS.ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULA Nº 5 DO STJ.REJULGAMENTO DA CAUSA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+5. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir as Súmulas nºs 5 e 7, ambas do STJ.
+6. Agravo interno não provido" (AgInt no AREsp nº 2.026.003/MS, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 8/8/2022, DJe 10/8/2022).
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de indenização por danos materiais cumulada com pedidos de obrigação de fazer e compensação por danos morais.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados." (EDcl no AgInt no AREsp 1.524.835/SE, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 17/2/2020, DJe 19/2/2020).
+Ante o exposto, rejeito os embargos de declaração.
+Registra-se que a reiteração de recurso com objetivo claramente protelatório estará sujeita à multa prevista no art. 1.026, § 2º, do CPC.
+Publique-se.
+Intime-se.
+EMENTA
