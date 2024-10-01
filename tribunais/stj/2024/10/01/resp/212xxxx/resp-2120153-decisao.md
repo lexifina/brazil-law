@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 281):
+AGRAVO DE INSTRUMENTO. "AÇÃO COLETIVA PREVIDENCIÁRIA". CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO.
+CONTRARRAZÕES. SUSCITADA INOVAÇÃO RECURSAL E PRECLUSÃO DAMATÉRIA. NÃO ACOLHIMENTO. MATÉRIAS EXPRESSAMENTE DEBATIDASNA DECISÃO RECORRIDA. PRETENSÃO DE NÃO CONHECIMENTO DORECURSO QUANTO À ALEGAÇÃO DE IMPOSSIBILIDADE DEAPROVEITAMENTO DO PROCESSO DE QUE NÃO FORAM PARTES. INEXISTÊNCIA DE JUSTIFICATIVA PARA O NÃO CONHECIMENTO DORECURSO.
+AGRAVO. AFASTAMENTO, EM PRIMEIRO GRAU, DA TESE DEPRESCRIÇÃO PARA O INÍCIO DA FASE EXECUTIVA. MANUTENÇÃO DADECISÃO. TRÂNSITO EM JULGADO DO TÍTULO EXECUTIVO NA VIGÊNCIADO ATUAL CPC. INAPLICABILIDADE DA MODULAÇÃO PREVISTA NOJULGAMENTO DO TEMA 880/STJ. DEFERIMENTO DO PEDIDO CONJUNTODE SUSPENSÃO DO CUMPRIMENTO DE SENTENÇA PARA TENTATIVA DEACORDO. CAUSA SUSPENSIVA DO PRAZO PRESCRICIONAL. LEI 13.140/2015. INCENTIVO ÀS SOLUÇÕES CONSENSUAIS - SISTEMÁTICA DALEGISLAÇÃO VIGENTE. DECISÃO ACERTADA. DESCABIMENTO DEARBITRAMENTO DE CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ. IMPOSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS RECURSAIS. RECURSOCONHECIDO E NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls.343/352).
+Nas razões de seu recurso, a parte recorrente afirma a ocorrência de violação aos arts. 197 a 199 do Código Civil (CC); 489, §1º , 1.022, I, II e III do Código de Processo Civil (CPC); bem como ao Tema Repetitivo 880.
+Afirma que o Tribunal de origem foi omisso em relação à matéria discutida e que:
+(1)  ..  não há instauração de procedimento judicial ou extrajudicial de mediação e nem abertura do procedimento administrativo previsto nos arts. 32, 33 e 34 da Lei nº 13.140/2015, o que impede aplicar a lei especial para suspender o prazo prescricional (fl. 361);
+(2)  ..  evidente a violação ao conteúdo normativo dos art. 197 a 199 do Código Civil que trazem o rol taxativo das causas de suspensão da prescrição e a impossibilidade de aplicação da lei de mediação (Lei n.º 13.140/2015) e sim atendimento às teses jurídicas firmadas no julgamento dos Temas 877/STJ e 880/STJ (fl. 363).
+Requer (fl. 363):
+ que  seja admitido e conhecido o presente recurso especial, já que preenchidos todos os pressupostos processuais exigidos à sua prévia admissão e conhecimento. Requer a anulação do julgado ou sua reforma, com o reconhecimento da prescrição da pretensão de pagar, diante das teses jurídicas firmadas no julgamento dos Temas 877/STJ e 880/STJ, declarando-se a impossibilidade de aplicação da lei de mediação (Lei n.º 13.140/2015) e atendimento ao conteúdo normativo dos art. 197 a 199 do Código Civil
+A parte adversa apresentou contrarrazões (fls. 382/444).
+O recurso foi admitido na origem (fls. 479/482).
+É o relatório.
+Verifico que inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+O Tribunal de origem, ao analisar a controvérsia, afirmou que (fls. 286/291 - destaquei):
+Entende o recorrente Estado do Paraná, que o prazo prescricional quinquenal, previsto no art. 1º, do Decreto 20.910/1932, teria se consumado. Isso porque, o trânsito em julgado da fase de conhecimento da ação coletiva nº 0003203-59.2008.8.16.0004 ocorreu em 08.04.2016, enquanto o cumprimento de sentença foi iniciado somente em 14.04.2021, portanto, em intervalo superior a 5 (cinco) anos, encontrando-se a pretensão executória, assim, fulminada pela prescrição.
+ ..
+A segunda premissa a ser estabelecida é que o prazo prescricional para reclamar direito contra a Fazenda Pública, como no caso dos autos, é de 05 (cinco) anos, conforme dispõe o art. 1º do Decreto-Lei nº 20.910/1932 e, ainda, de acordo com a Súmula 150 do STF: "Prescreve a execução no mesmo prazo de prescrição da ação".
+Assim sendo, na hipótese em tela, verifica-se que a Ação Coletiva transitou em julgado em 08.04.2016, sendo que a petição de cumprimento de sentença foi protocolizada pelos agravados em 14.04.2021.
+Nesta perspectiva, vislumbra-se que entre o trânsito em julgado da ação e o pedido de cumprimento transcorreu mais de cinco anos.
+Por outro lado, apesar de ter sido formulado o requerimento da apresentação das fichas financeiras no cumprimento de sentença coletivo, proposto pelo Sindicato (nº 008041- 64.2016.8.16.0004), porquanto o trânsito em julgado da sentença exequenda tenha ocorrido já na vigência do atual Código de Processo Civil, tal requerimento não suspende o fluxo do prazo prescricional.
+ ..
+Consigne-se que o trânsito em julgado da sentença ocorreu em 08.04.2016, sob a vigência do atual CPC (que passou a vigorar em 18.03.2016), ou seja, o caso não se ajusta aos parâmetros da modulação da tese fixada no precedente. Portanto, o início do prazo prescricional deu-se, efetivamente, com a data do trânsito em julgado.
+Entretanto, algumas particularidades do caso merecem ser observadas.
+Não se deve desconsiderar que no cumprimento de sentença iniciado pelo Sindicato (nº 0008041-64.2016.8.16.0004), no qual houve o requerimento das fichas financeiras, as partes tentaram acordo, o que resultou na suspensão do feito por 60 dias em 06.10.2020 e, depois, de ofício, foi determinada a suspensão por mais 90 dias, em 05.03.2021 (mov. 86 e 279 dos autos 0008041-64.2016.8.16.0004).
+Verifica-se, assim, que o processo esteve suspenso, inicialmente, por convenção das partes, conforme previsão do art. 313, inc. II, do CPC (mov. 84 e 85 dos autos mencionados), e após, por determinação judicial.
+Em que pese, de fato, a suspensão do processo não esteja elencada no rol taxativo de causas suspensivas da prescrição, previstas no Código Civil de 2002 (lei geral), deve ser observado no caso concreto o princípio da especialidade.
+ ..
+Além do que bem destacou o magistrado a quo, é certo que o atual CPC incentiva a busca por decisões consensuais, ao passo que, não entender suspensa a fluência do prazo prescricional durante os períodos em que as partes requereram a suspensão para buscar uma solução consensual, estaria indo ao revés da própria sistemática processual.
+No caso em concreto, em 06.10.2020 o Estado do Paraná nos autos 0008041- 64.2016.8.16.000 (mov. 84.1) expressamente peticionou ao Juiz da 2ª Vara da Fazenda Pública para "requerer a suspensão do processo, o que está consensado com a parte adversa. Esta peticionará concordando com o presente pedido" (destaques originais).
+Através da decisão de mov. 86.1 (autos 0008041-64.2016.8.16.000), o pedido restou deferido: "1. Defiro o prazo de 60 (sessenta) de suspensão do feito para tratativas acordo entre as partes, sem prejuízo de manifestação em momento anterior".
+Em momento posterior, o mesmo Magistrado determinou, de ofício, a renovação da suspensão, pelo prazo de 90 dias, para o prosseguimento das tratativas de acordo. (mov. 279.1 - autos 0008041-64.2016.8.16.000)
+Isso significa que, ao manifestar em juízo que havia espaço para a autocomposição, o agravante fez a admissibilidade a que se refere o § 1º do art. 34 da Lei 13.140/2015 e, portanto, a partir de então, a prescrição esteve suspensa.
+Vale dizer, o Estado requereu a suspensão do processo, e, portanto, entender que diante de tal contexto, o prazo teria decorrido, seria beneficiar a Fazenda Pública que assume comportamento contraditório, com afronta direta aos princípios de cooperação processual, boa-fé objetiva, dentre outros.
+ ..
+Logo, considerando o período de suspensão (150 dias), o prazo prescricional quinquenal que se findaria em 07.04.2021, na verdade, teria seu termo último em 04.09.2021. Portanto, tendo em conta que o cumprimento de sentença foi protocolizado em 14.04.2021, não estaria fulminado pela prescrição.
+Corrobora tal entendimento o fato de não ter havido inércia da parte credora.
+Como bem destacou o magistrado de origem:
+"No caso em tela não há como não considerar os prazos de suspensão, postulados pelas próprias partes que tentaram uma composição amigável para resolução e que, por motivos alheios, o acordo não se concretizou.
+Considerar "friamente" a data de cinco anos corridos é penalizar injustamente o substituído, que aguardou a realização de possível acordo e veja-se que a suspensão foi primordial considerando a quantidade de substituídos envolvidos".
+Dessa forma, entende-se que não ocorreu a prescrição.
+Isto posto, o voto é no sentido de conhecer do recurso de agravo de instrumento interposto pelo Estado do Paraná para negar-lhe provimento, uma vez que não se consumou a propalada prescrição do pleito executório, revogando-se o efeito suspensivo outrora concedido.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+A Corte estadual, ao analisar os presentes autos, asseverou que (fl. 291 - destaquei):
+Logo, considerando o período de suspensão (150 dias), o prazo prescricional quinquenal que se findaria em 07.04.2021, na verdade, teria seu termo último em 04.09.2021. Portanto, tendo em conta que o cumprimento de sentença foi protocolizado em 14.04.2021, não estaria fulminado pela prescrição.
+Contudo, a tese da parte recorrente é de não ocorrência de prescrição haja vista que:
+(1)  ..  não há instauração de procedimento judicial ou extrajudicial de mediação e nem abertura do procedimento administrativo previsto nos arts. 32, 33 e 34 da Lei nº 13.140/2015, o que impede aplicar a lei especial para suspender o prazo prescricional (fl. 361);
+(2)  ..  inexistindo causa de suspensão do prazo prescricional, necessária a aplicação das teses jurídicas firmadas no julgamento dos Temas 877/STJ e 880/STJ e confirmação da prescrição executiva no presente caso, na medida em que o trânsito em julgado da sentença coletiva de conhecimento se deu em 08/04/2016 e o cumprimento individual foi proposto em 14/04/2021, quando já transcorrido integralmente o prazo de 5 anos, conforme bem explicitado no voto vencido (fl. 362).
+Entendimento diverso do que consta do acórdão recorrido, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito as seguintes decisões monocráticas proferidas em casos idênticos: REsp 2.122.634, Ministro Mauro Campbell Marques, DJe 18/4/2014; REsp 2.136.285, Ministro Herman Benjamin, DJe 2/5/2024; REsp 2.139.194, Ministra Regina Helena Costa, DJe 13/5/2024; REsp 2.150.316, Ministro Sérgio Kukina, DJe 19/6/2024.
+Ante o exposto, conheço parcialmente do recurso especial e nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
