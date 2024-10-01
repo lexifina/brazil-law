@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, agravo de decisão que inadmitiu recurso especial interposto por M DE OLIVEIRA ADVOGADOS & ASSOCIADOS, contra acórdão proferido pelo TJDFT, assim ementado (fl. 294):
+AGRAVO INTERNO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. REQUISIÇÃO DE PEQUENO VALOR. AUMENTO DO LIMITE PELA LEI DISTRITAL Nº 6.618, DE 8-JUNHO-2020. INAPLICABILIDADE ÀS EXECUÇÕES ORIUNDAS DE SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO ANTES DA VIGÊNCIA DA NOVA NORMA (TEMA 792/STF). AGRAVO INTERNO DESPROVIDO.
+1. O Supremo Tribunal Federal firmou a tese de que "Lei disciplinadora da submissão de crédito ao sistema de execução via precatório possui natureza material e processual, sendo inaplicável a situação jurídica constituída em data que a anteceda" (RE 729.107/DF, TEMA 792/STF). 2. Quanto ao marco temporal para enquadramento do crédito como obrigação de pequeno valor, esclareceu o voto condutor do RE 729.107/DF (provido, à unanimidade) que deve ser o trânsito em julgado da sentença, com a formação do título executivo judicial.
+3. A ação coletiva em questão transitou em julgado muito antes da entrada em vigor da Lei Distrital 6.618, de 8-junho-2020, que elevou de 10 (dez) para 20 (vinte) salários-mínimos o teto para expedição de RPV no âmbito do Distrito Federal, e a execução individual também foi proposta em período anterior, tornando-se inaplicável ao caso a nova disciplina. 4. Agravo interno desprovido (fl. 294)
+Os embargos declaratórios opostos ao referido acórdão foram rejeitados.
+Nas razões do recurso especial inadmitido, aponta violação do art. 1.022 do CPC, por ser omisso o acórdão, além de ofensa aos arts. 6º da LINDB e 14 do CPC, ao argumento de que "as Leis são criadas para que, em regra, sejam aplicadas imediatamente, a partir da data de sua criação, nos processos em curso, contudo, não podem retroagir de modo a modificar as decisões consolidadas. In casu, (..) deve ser aplicada a Lei nº 6.618/2020 em vigor, visto que o processo ainda está em curso e sequer houve decisão anterior que versasse sobre a mesma matéria, incidindo, na espécie, o afrontado art. 14 do CPC" (fl. 387).
+É o relatório.
+Quanto à apontada violação ao art. 1.022 do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal a quo dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls . 305-306):
+Com efeito, não se trata, o presente caso, de ação em curso, mas de execução, em que já constituído o título executivo.
+Verifica-se que a ação coletiva transitou em julgado muito antes da entrada em vigor da Lei Distrital 6.618, de 8-junho-2020, e mesmo a execução individual foi proposta em período anterior.
+A presente execução (ou cumprimento de sentença) teve início em 04-julho- 2017 (ID 10888600). Destarte, ainda que se considere como marco fixador da norma aplicável a data da propositura da execução, não seria aplicável a Lei Distrital n. 6.618/2020. A propósito, confira-se o precedente do colendo Superior Tribunal de Justiça, que, embora tenha se amparado no entendimento da Suprema Corte, fixou como teto aquele vigente ao tempo da propositura da execução:
+(..).
+Dessa maneira, aplicando-se à hipótese a tese cogente firmada pela Suprema Corte, impõem-se o afastamento da disciplina da nova norma, mantendo-se a incidência da Lei Distrital 3.624/2005, que definiu, em seu artigo 1º, "caput", o valor máximo das obrigações de pequeno valor a serem pagas pelo Distrito Federal e pela sua Administração Pública Direta e Indireta em 10 (dez) salários-mínimos.
+Como se vê, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, inexistindo omissão a ser sanada.
+Quanto ao mais, o Tribunal de origem decidiu a matéria controvertida mediante análise de legislação local, qual seja, as Leis Distritais 3.624/2005 e 6.618/2020.
+Com efeito, o exame da pretensão recursal perpassa necessariamente pela análise de direito local, o que faz incidir, por analogia, o óbice constante da Súmula 280 do Supremo Tribunal Federal ("por ofensa a direito local não cabe recurso extraordinário").
+Nesse sentido:
+PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. REQUISIÇÃO DE PEQUENO VALOR. OFENSA AO ART. 1.022 DO CPC/2015. PRINCÍPIOS PREVISTOS NO ART. 6º DA LINDB. DIREITO ADQUIRIDO. NATUREZA CONSTITUCIONAL. JULGAMENTO AFETO AO SUPREMO TRIBUNAL FEDERAL. ANÁLISE DE LEI LOCAL. SÚMULA N. 280/ STF. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+(..).
+IV - Ademais, verifica-se que a questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais, in casu, a Lei distrital n. 6.618/20. Logo, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário.
+" Nesse sentido: AgInt no AREsp 1.304.409/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020; AgInt no REsp 1.184.981/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/6/2020, DJe 30/6/2020; EDcl no AgInt no AREsp 1.506.044/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/8/2020, DJe 9/9/2020.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.109.382/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2023, DJe de 24/3/2023, grifos acrescidos).
+Isso posto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento
+Publique-se. Intime-se.
+EMENTA
