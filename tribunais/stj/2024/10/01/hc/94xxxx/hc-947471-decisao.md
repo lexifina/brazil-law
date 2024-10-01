@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DOUGLAS ELIAS DA COSTA, contra decisão monocrática do Desembargador José Everaldo Silva, nos autos do processo n. 5005460-97.2024.8.24.0000/SC, no âmbito da Operação Travessia, em curso no Tribunal de Justiça do Estado de Santa Catarina, que manteve a prisão preventiva do paciente (fls. 16-22).
+Os impetrantes sustentam, em síntese, que não subsistiriam os motivos que deram causa à segregação cautelar (fls. 03-15).
+É o relatório. DECIDO.
+Como se sabe, em regra, não cabe habeas corpus contra decisão monocrática de relator, em razão da indispensabilidade do esgotamento, no Tribunal a quo, das vias recursais. A regra tem por objetivo evitar a supressão de instância e o conhecimento de matérias que, em tese, não estariam, no tempo e no modo, na esfera de competência do Tribunal para o qual se destinou a indevida impetração. O exaurimento da instância antecedente é, pois, pressuposto de competência.
+Nesse sentido:
+" ..  Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado."
+(HC n. 725.534/SP, Terceira Seção, Rel. Min. Ribeiro Dantas, DJe de 1/6/2022)
+O Supremo Tribunal Federal consolidou o entendimento no enunciado de súmula n. 691, amplamente aplicado, por analogia, pelo Superior Tribunal de Justiça, in verbis: "(n)ão compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar".
+Ao longo dos anos, contudo, o Supremo Tribunal Federal e o Superior Tribunal de Justiça construíram hipóteses que excepcionam a regra prevista naquela súmula, de modo a admitir o conhecimento precoce do habeas corpus na instância superior. Em resumo, a excepcionalidade é admitida quando a decisão impugnada se mostrar teratológica, flagrantemente ilegal, abusiva ou, ainda, manifestamente contrária à jurisprudência da Corte (STF, HC n. 143.476/RJ, Segunda Turma. Rel. Orig. Min. Gilmar Mendes, Red. p/ o ac. Min. Ricardo Lewandowski, julgado em 6/6/2017).
+No caso dos autos, não verifico a existência de elementos suficientes que indiquem a presença de uma das exceções que demandam a superação do entendimento consolidado a fim de se conceder a ordem de ofício.
+Ante o exposto, indefiro liminarmente o habeas c orpus, nos termos do artigo 210, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intime-se.
+EMENTA
