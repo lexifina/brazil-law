@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por ROGERIO PEREIRA DE ARAÚJO - EMPRESA DE PEQUENO PORTE e OUTROS contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+"AGRAVO INTERNO - DESPROVIMENTO MONOCRÁTICO DE RECURSO DE AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO TRIBUNAL DE JUSTIÇA - Se as razões recursais nada de novo acrescentam, o agravo interno deve ser desprovido diante do intuito de rediscussão dos fatos e fundamentos."
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões de recurso especial, a parte agravante alegou violação dos arts. 1.022 do CPC/2015; 47, 49, § 2º, 50 e 59, § 2º, da Lei 11.101/2005, defendendo, além de negativa de prestação jurisdicional, a validade da supressão das garantias prestadas pelos coobrigados em benefício da recuperanda, nos termos previstos pelo plano de recuperação judicial aprovado. Aduziu a soberania da assembleia geral de credores para a aludida supressão da garantia, nos termos do plano homologado, fator impediente do prosseguimento da execução contra os coobrigados.
+Contrarrazões apresentadas às fls. 354-359 (e-STJ).
+É o relatório. Decido.
+De início, é indevido conjecturar acerca de deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição na decisão apenas por ter sido proferida em desconformidade com os interesses da parte. No mesmo sentido: AgInt no AREsp 1621374/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2020, DJe25/06/2020; AgInt no AREsp 1595385/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020; AgInt no AgInt no AREsp 1598925/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em11/05/2020, DJe 25/05/2020; AgInt nos EDcl no REsp 1812571/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe16/03/2020; AgInt no AREsp 1534532/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe 15/06/2020; AgInt nos EDcl no AREsp 1374195/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/05/2020, DJe 25/05/2020.
+Quanto à questão principal, o recurso especial não prospera.
+Conforme o atual entendimento da Segunda Seção desta Corte, firmado em 12/5/2021, por ocasião do julgamento do REsp 1.794.209/SP, a supressão das garantias, reais e fidejussórias, expressamente prevista no plano de recuperação judicial e aprovada em assembleia-geral de credores, é ineficaz em relação aos credores da mesma classe que não tenham concordado expressamente com a referida disposição.
+A propósito a ementa do precedente:
+"RECURSO ESPECIAL. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. PLANO DE RECUPERAÇÃO. NOVAÇÃO. EXTENSÃO. COOBRIGADOS. IMPOSSIBILIDADE. GARANTIAS. SUPRESSÃO OU SUBSTITUIÇÃO. CONSENTIMENTO. CREDOR TITULAR. NECESSIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se a cláusula do plano de recuperação judicial que prevê a supressão das garantias reais e fidejussórias pode atingir os credores que não manifestaram sua expressa concordância com a aprovação do plano.
+3. A cláusula que estende a novação aos coobrigados é legítima e oponível apenas aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não sendo eficaz em relação aos credores ausentes da assembleia geral, aos que abstiveram-se de votar ou se posicionaram contra tal disposição.
+4. A anuência do titular da garantia real é indispensável na hipótese em que o plano de recuperação judicial prevê a sua supressão ou substituição.
+5. Recurso especial interposto Tonon Bionergia S.A., Tonon Holding S.A. e Tonon Luxemborg S.A. não provido. Agravo em recurso especial interposto por CCB BRASIL - China Construction Bank (Brasil) Banco Múltiplo não conhecido."
+(REsp n. 1.794.209/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 12/5/2021, DJe de 29/6/2021.)
+No mesmo sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO - INSURGÊNCIA DA AGRAVANTE.
+1. A Segunda Seção do STJ firmou entendimento no sentido de que a cláusula do plano de recuperação judicial que prevê a supressão de garantias somente é eficaz em relação aos credores que com ela anuíram.
+1.1 A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005.
+2. Agravo interno desprovido."
+(AgInt no REsp n. 2.010.442/CE, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/3/2023, DJe de 23/3/2023)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CLÁUSULA DE SUPRESSÃO DE GARANTIAS. INEFICÁCIA EM RELAÇÃO AOS CREDORES QUE NÃO ANUÍRAM. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Nos termos do recente entendimento firmado pela eg. Segunda Seção, no julgamento do REsp 1.794.209/SP (Rel. Min. Ricardo Villas Bôas Cueva), "a cláusula que estende a novação aos coobrigados é legítima e oponível apenas aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não sendo eficaz em relação aos credores ausentes da assembleia geral, aos que abstiveram-se de votar ou se posicionaram contra tal disposição".
+2. Estando a decisão de acordo com a jurisprudência do STJ, o recurso especial encontra óbice na Súmula 83/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.109.923/GO, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/3/2023, DJe de 17/3/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. NOVAÇÃO. EXTENSÃO AOS COOBRIGADOS. CLÁUSULA QUE ESTABELECE SUPRESSÃO DAS GARANTIAS CAMBIAIS, REAIS OU FIDEJUSSÓRIAS. APLICAÇÃO SOMENTE AOS CREDORES QUE EXPRESSAMENTE DERAM ANUÊNCIA. QUESTÃO PACIFICADA PELA SEGUNDA SEÇÃO DESTA CORTE SUPERIOR. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. A Segunda Seção do Superior Tribunal de Justiça firmou entendimento no sentido de que a cláusula do plano de recuperação judicial que prevê a supressão de garantias somente é eficaz em relação aos credores que com ela anuíram.
+2. A recuperação judicial do devedor principal não impede o prosseguimento das execuções, nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei 11.101/2005. Precedentes.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.138.943/GO, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 13/3/2023)
+No caso dos autos, o Tribunal de origem concluiu pela ineficácia, em relação aos credores beneficiários não anuentes, de cláusula de plano de recuperação judicial que previu a supressão das garantias prestadas.
+Desse modo, constata-se a conformidade do acórdão recorrido com o atual entendimento desta Corte, motivo pelo qual é inviável o provimento do recurso especial, nos termos da Súmula 83/STJ.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
