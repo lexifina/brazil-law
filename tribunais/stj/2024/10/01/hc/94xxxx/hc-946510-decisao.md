@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em benefício de CARLOS ALBERTO ANDRADE DA SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento da Revisão Criminal n. 0038190-66.2022.8.26.0000.
+Extrai-se dos autos que o paciente foi condenado às penas de 7 anos de reclusão, no regime fechado, e ao pagamento de 700 dias-multa, em virtude da prática do delito tipificado no art. 33 da Lei n. 11.343/06 (tráfico de drogas).
+Após o trânsito em julgado do decreto condenatório, a defesa ajuizou revisão, a qual foi indeferida, por aresto assim ementado:
+"Revisão Criminal. Tráfico de drogas. Ação revisional que não encontra respaldo em nenhuma das hipóteses do artigo 621 do CPP. Prova segura. Materialidade e autoria comprovadas. Desclassificação para a conduta prevista no art. 28 da Lei de Drogas. Impossibilidade. Condenação mantida. Pena e regime adequadamente fixados. Pedido revisional indeferido." (fl. 26).
+No presente writ, a defesa busca a desclassificação do delito para porte de droga para uso próprio e a redução da pena-base ao mínimo legal, ao argumento de ser pouca a quantidade de droga apreendida com o paciente.
+O Ministério Público Federal elaborou parecer que recebeu o seguinte sumário:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. EXCESSOS NA FIXAÇÃO DA PENA-BASE. BIS IN IDEM. PARECER PELA CONCESSÃO PARCIAL DA ORDEM." (fl. 439).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção.
+De início, registra-se que para se desconstituir a conclusão do acórdão atacado acerca da autoria e materialidade do delito imputado ao paciente, com intuito de desclassificar o crime a ele imputado, mostra-se necessário o reexame de todo o conjunto fático-probatório, procedimento este incompatível com ação constitucional de rito célere e de cognição sumária da via eleita.
+Nesse mesmo sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS. PLEITO DE DESCLASSIFICAÇÃO. QUANTIDADE DE DROGAS. CASO CONCRETO DE APREENSÃO CONJUNTA DE PETRECHOS UTILIZADOS PARA O FRACIONAMENTO E EMBALO DA DROGA PARA COMERCIALIZAÇÃO. NO MAIS, REVOLVIMENTO DE FATOS E PROVAS INVIÁVEL. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição ou a desclassificação de condutas imputadas, em virtude da necessidade de amplo revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+III - De toda forma, o Tribunal de origem considerou, para a condenação do agravante, não apenas a quantidade da droga, mas também a apreensão de petrechos utilizados para o fracionamento e embalo da droga, situação que difere dos demais precedentes.
+IV - Assim, é inviável a análise isolada da quantidade de droga apreendida, pois dissociada das demais circunstâncias do caso concreto.
+Agravo regimental desprovido.
+(AgRg no HC n. 839.138/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. POSSIBILIDADE PARA O CRIME DE ASSOCIAÇÃO. AUSÊNCIA DE FUNDAMENTOS CONCRETOS PARA A CONDENAÇÃO. MERA DEMONSTRAÇÃO DO CONCURSO DE AGENTES. INSUFICIÊNCIA DE PROVAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus não se presta a apreciação de alegações que buscam a absolvição ou desclassificação do crime do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+2. As instâncias ordinárias ofertaram fundamentos concretos para a condenação pelo crime de tráfico de drogas, notadamente se considerada a prévia investigação policial, a qual redundou no flagrante, a forma de acondicionamento das drogas apreendidas, o que os vincula à conduta de guardar e ter em depósito entorpecentes para o comércio espúrio.
+3. Já no que tange ao crime de associação para o tráfico, não obstante a Corte de origem tenha concluído haver prova do conluio, os fundamentos utilizados são idôneos apenas ao reconhecimento do concurso de agentes, mas não de associação para o tráfico, uma vez que as provas elencadas não indicam organização, estabilidade e permanência, com divisão de tarefas, voltadas para a traficância, sendo imperiosa a absolvição por insuficiência de provas.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 854.113/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+De outra parte, registra-se que " ..  é indispensável atentar para o que disciplina o art. 42 da Lei n. 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente" (AgRg no AREsp n. 2.559.294/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024).
+Contudo, no caso dos autos, a natureza e a quantidade das drogas apreendidas (2,29 g de crack, 16,37g de cocaína e 33,10g de maconha) não evidenciam maior reprovabilidade do delito a justificar qualquer incremento na pena-base. Assim, a reprimenda aplicada ao paciente deve ser diminuída, com a exclusão do percentual relativo ao art. 42 da Lei n. 11.343/06.
+Sobre o tema, confiram-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 3 G DE COCAÍNA, 14,5 G DE COCAÍNA, 7 G DE COCAÍNA, 20 PINOS DE COCAÍNA E 5 PINOS DE COCAÍNA. DOSIMETRIA. ALEGAÇÃO DE NÃO SER CABÍVEL A CAUSA DE DIMINUIÇÃO, EM FACE DE PROCEDIMENTOS INFRACIONAIS. DECISÃO MANTIDA. PRIMARIEDADE. RÉU SEM ANTECEDENTES. PENA-BASE NO PISO MÍNIMO. POUCA QUANTIDADE DE DROGAS.
+1. A existência de procedimentos infracionais por tráfico de drogas e por ter sido abordado duas vezes no mesmo dia, sendo preso, após ser apontado em denúncias anônimas, não leva à conclusão de que o paciente se dedique a atividade criminosa, até porque a presente quantidade de drogas não é excessiva, o paciente é primário e sem antecedentes e a pena-base foi fixada no piso mínimo.
+2. Agravo regimental improvido.
+(AgRg no HC n. 671.690/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/9/2021, DJe de 27/9/2021.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. JULGAMENTO LIMINAR DA IMPETRAÇÃO, SEM A PRÉVIA OITIVA DO REPRESENTANTE DO MINISTÉRIO PÚBLICO FEDERAL. POSSIBILIDADE. ORDEM CONCEDIDA, DE OFÍCIO. ART. 654, § 2.º, DO CPP. TRÁFICO DE DROGAS. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE DO MATERIAL ENTORPECENTE APREENDIDO QUE NÃO DESBORDA DO ORDINÁRIO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. REPRIMENDA REDUZIDA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+- Em se tratando de crime de tráfico de drogas, como no caso, o juiz deve considerar, com preponderância sobre o previsto no artigo 59, do Código Penal, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42, da Lei n. 11.343/2006. - Na hipótese, " n a primeira fase, a pena-base foi fixada acima do mínimo legal, na fração de 1/6, em razão da enorme quantidade de maconha apreendida" (fl. 19).
+Porém, ao contrário do que afirmado na origem, a quantidade de droga encontrada, embora não seja insignificante, também não desborda do ordinário das apreensões em flagrantes de tráfico - 536,9 gramas de maconha (e-STJ fl. 61) -, não autorizando o incremento punitivo, na primeira fase da dosimetria. Dessarte, correta a concessão da ordem, de ofício, para retornar a pena-base do agravado ao mínimo legal.
+- Agravo regimental desprovido.
+(AgRg no HC 684.082/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/8/2021.)
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. FIXAÇÃO DE REGIME FECHADO. IMPOSSIBILIDADE. PENA-BASE NO MÍNIMO LEGAL. FUNDAMENTAÇÃO ABSTRATA. SUBSTITUIÇÃO DA PENA CORPORAL. POSSIBILIDADE.
+1. Fixada a pena-base no mínimo legal e a pena definitiva em 1 ano, 11 meses e 10 dias para o delito de tráfico de drogas em razão da apreensão de 58g (cinquenta e oito gramas) de maconha, não cabe a fixação de regime inicial fechado em razão de considerações genéricas como ser o único regime que "se mostra suficiente à repressão e prevenção de tão grave delito, que tantas mazelas sociais têm proporcionado, tratando-se de crime que fomenta outras espécies de ilícitos penais e provoca a degradação do indivíduo e da família, tudo em troca de um único escopo, o lucro do traficante".
+2. Ordem concedida para, confirmada a liminar e acolhido o parecer ministerial, fixar o regime inicial aberto e substituir a pena corporal por restritivas de direitos.
+(HC 598.978/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 22/09/2020.)
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus. Todavia, concedo a ordem, de ofício, com a redução da pena do paciente para 5 anos e 10 meses de reclusão, e 583 d ias-multa, mantidos os demais termos do acórdão atacado.
+Publique-se.
+Intimem-se.
+EMENTA
