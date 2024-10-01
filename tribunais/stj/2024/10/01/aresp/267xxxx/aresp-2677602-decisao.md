@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por TONIN BALA EMPREENDIMENTOS IMOBILIÁRIOS LTDA. contra a decisão de fls. 676-678 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás assim ementado (fls. 583-584, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CLÁUSULAS CONTRATUAIS C/C REPARAÇÃO DE DANOS. LOTEAMENTO. INOVAÇÃO RECURSAL. OCORRÊNCIA. CERCEAMENTO DE DEFESA AFASTADO. PRECLUSÃO DA PROVA. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. APLICAÇÃO DE IGP-M. TAXA DE JUROS DE 6,0% AO ANO. NÃO ABUSIVIDADE. ATRASO NA CONCLUSÃO DE OBRA DE INFRAESTRUTURA. INADIMPLEMENTO CONTRATUAL. ATO ILÍCITO CONFIGURADO. DEVER DE INDENIZAR. DANOS MORAIS.
+1. Está configurada a inovação recursal em relação à alegação de ausência de cláusula compromissória, uma vez que referida tese não foi levada ao crivo do juiz de primeiro grau, tampouco apreciada na sentença recorrida. Assim, não cabe a este Tribunal analisar tal pretensão, sob pena de supressão de instância.
+2. Não há se falar em cerceamento de defesa em razão da necessidade de produção de prova técnica pericial para a demonstração da onerosidade excessiva, em razão da ocorrência de preclusão do direito à prova, uma vez que, quando intimada para especificar as que pretendia produzir, a parte autora quedou-se inerte, não requerendo a produção de nenhuma prova.
+3. A negociação estabelecida entre vendedor e comprador, no contrato de promessa de compra e venda de imóvel, constitui relação de consumo, pois as partes se encaixam nos conceitos de consumidor e fornecedor estatuídos nos arts. 2º e 3º do Código de Defesa do Consumidor.
+4. O Índice Geral de Preços do Mercado (IGPM) é adequado a recompor a desvalorização da moeda, enquanto os juros remuneratórios não superiores a 12% (doze por cento) ao ano correspondem à devida contraprestação pelo capital financiado para a aquisição do imóvel, sendo pacificamente admitidos pela jurisprudência pátria nos contratos de compromisso de compra e venda de imóvel, inclusive cumuladamente.
+5. O inadimplemento contratual imotivado, referente ao atraso na conclusão das obras de infraestrutura do empreendimento, caracteriza ato ilícito indenizável apto a gerar a correspondente indenização pelos danos morais causados ao consumidor.
+6. Considerando as particularidades do caso em apreço, bem como os parâmetros utilizados por esta Corte, o valor de R$ 10.000,00 (dez mil reais) mostra-se adequado para compensar o dano moral sofrido, sendo proporcional e razoável.
+APELO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO EM PARTE.
+Os embargos de declaração opostos foram desacolhidos (fls. 622-630, e-STJ).
+Nas razões do recurso especial (fls. 634-645, e-STJ), além de dissídio jurisprudencial, a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 186 e 927 do Código Civil de 2002.
+Sustentou, em síntese, ser indevida sua condenação ao pagamento de indenização por danos morais, tendo em vista que sua conduta não passou de mero descumprimento contratual.
+Em juízo de admissibilidade (fls. 676-678, e-STJ), a corte de origem negou o processamento do recurso ante a aplicação da Súmula 282/STF, por falta de prequestionamento dos artigos de lei tidos por violados..
+Irresignada (fls. 683-692, e-STJ), aduz a agravante que o reclamo merece trânsito, refutando o retrocitado óbice de admissibilidade.
+Contraminuta às fls. 698-699 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na hipótese ora em análise, o Tribunal de origem, ao dirimir a controvérsia, assim consignou (fls. 573-582, e-STJ, grifos no original):
+A princípio, importante asseverar que considerando a relação jurídica firmada entre os litigantes, induvidosa a aplicação do Código de Defesa do Consumidor:
+(..)
+Desse modo, descabe falar em força obrigatória do contrato se há, nele, obrigações ilícitas e abusivas para a parte hipossuficiente da relação negocial, tornando-se possível a revisão contratual.
+Ressalva-se, entretanto, que a simples aplicação do CDC aos contratos não garante a procedência do pedido revisional, apenas autoriza a sua revisão em caso de flagrante abusividade.
+Assim, resta superado qualquer questionamento a respeito da possibilidade de que, com base no Código de Defesa do Consumidor, sejam revistas as cláusulas contratuais tidas como abusivas no pacto objeto do litígio.
+(..)
+Em relação ao mérito da causa propriamente dito, é cediço que a utilização do Índice Geral de Preços-Mercado, como índice de correção do saldo devedor do contrato de financiamento, não é ilegal, principalmente porque foi livremente pactuado pelas partes.
+(..)
+Ademais, importante frisar que as partes ajustaram a aplicação do IGP-M mais a taxa de 6,0% (seis por cento) ao ano, como disposto na cláusula 2ª do contrato, não sendo estes abusivos.
+(..)
+Repare que se mostra adequada e possível a mitigação do princípio do pacta sunt servanda, especialmente quando aplicado o Código de Defesa do Consumidor à relação jurídica pactuada, ocorre que, mesmo com a mitigação deste princípio, não há na hipótese da presente lide nenhuma violação ao princípio em tela.
+Portanto, diante da legalidade da utilização do índice IGP-M, taxa de juros aplicados no contrato de compra e venda e a ausência de vícios contratuais, sem a violação do art. 6º, V, do Código de Defesa do Consumidor, não há que se falar em revisão de cláusulas contratuais.
+Diante da manutenção das cláusulas contratuais, resta prejudicado o pedido de repetição de indébito.
+Lado outro, em relação ao dano moral, tenho que merece reparos a sentença, porquanto devidamente configurado.
+Na hipótese, ressai do contrato entabulado entre as partes que o loteador/vendedor implementaria as obras de infraestrutura (demarcação de lotes, rede de energia elétrica e iluminação pública, rede de abastecimento de água, rede de captação de águas pluviais e pavimentação asfáltica com meio-fio), no prazo máximo de 24 (vinte e quatro) meses, contados da assinatura do contrato.
+Não obstante, decorrido o referido prazo, bem como aquele previsto na Lei Municipal n. 1.223/2008 para a conclusão das obras de infraestrutura, o fornecimento de água ainda não havia sido implementado, em clara disparidade com a publicidade veiculada pela empresa requerida.
+Por certo, restou devidamente demonstrado nos autos, por meio do Auto de Inspeção Judicial lavrado em 09/12/2019 (evento 5), que o loteamento não conta com distribuição de água tratada.
+Nesse ponto, impende salientar que a atribuição do atraso na conclusão da implementação da infraestrutura no loteamento à companhia de água (SANEAGO) não possui o condão de afastar a responsabilidade do vendedor.
+Com efeito, consoante o art. 2º, §§ 4º e 5º, da Lei n. 6.766/79, que disciplina o parcelamento do solo urbano, é dever da incorporadora entregar as unidades imobiliárias com infraestrutura mínima, de forma que eventual descumprimento de convênio realizado entre o loteador e a SANEAGO, quanto ao fornecimento de água tratada, não pode ser oposto ao consumidor como excludente de responsabilidade por fato de terceiro.
+(..)
+Logo, não merece respaldo a tese de ausência de ato ilícito, pois restou devidamente demonstrado que as obras de infraestrutura do loteamento não foram completamente realizadas ou finalizadas dentro do prazo estabelecido contratualmente, consoante obrigação assumida na avença e leis que regem o loteamento.
+Corroborando o entendimento ora fixado, oportuno citar precedente firmado por esta Corte de Justiça no Incidente de Resolução de Demandas Repetitivas n. 5520939.03.2018.8.09.0000, por meio do qual foi definida a seguinte tese, in verbis:
+(..)
+A respeito da prática de ato ilícito e dever indenizar, consigno que a responsabilidade pelos danos causados ao consumidor caracteriza-se pela comprovação do evento danoso, conduta do agente e nexo de causalidade (responsabilidade objetiva, nos moldes do art. 14 do CPC), premissas verificadas no caso em comento, inexistindo elementos probatórios sobre eventuais excludentes. Entendo que a situação vivenciada pela parte requerente ultrapassa o mero dissabor, na medida em que a inadimplência contratual se refere à infraestrutura básica do empreendimento adquirido, imprescindível para lhe garantir moradia digna e cômoda.
+Desse modo, caracterizado está o dano moral sofrido pela parte autora, razão pela qual passo a apreciar o quantum debeatur.
+(..)
+Nesse cenário, interessa frisar que a compensação pela lesão sofrida mede-se exatamente pela extensão do dano, devendo o julgador fazê-lo atento ao princípio da razoabilidade, de modo a considerar a repercussão econômica, a capacidade financeira do lesado e do agente, o grau de dolo ou culpa deste último e, por fim, a dor experimentada pela vítima.
+(..)
+Forte nessas diretrizes jurídicas, ao cotejar a condição econômica da empresa e dos autores, a conduta que redundou no ilícito, o bem jurídico atingido, bem como o sofrimento vivenciado em função da longa espera para o recebimento das obras de infraestrutura do loteamento, entendo que a indenização deve ser fixada no montante de R$ 5.000,00 (cinco mil reais).
+Dessa forma, a revisão das conclusões do acórdão recorrido - acerca de estarem preenchidos os rrequisitos para condenação da recorrente ao pagamento da indenização por danos morais -, demandaria, necessariamente , a incursão no acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+Nesse sentido, fica igualmente prejudicada a análise do dissídio jurisprudencial apontado, em razão da aplicação da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões divergentes ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS CONTRATUAIS C/C REPARAÇÃO DE DANOS JULGADA PARCIALMENTE PROCEDENTE. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
