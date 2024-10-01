@@ -1,0 +1,19 @@
+DECISÃO
+EDSON MENEZES, acusado por furto e furto qualificado, alega ser vítima de constrangimento ilegal em razão de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem impetrada naquela Corte, na qual pretendia a defesa a revogação da preventiva, objetivo este reiterado nesta oportunidade.
+Não houve pedido de liminar e não foram prestadas informações. Encaminhados os autos ao Ministério Público Federal, este se manifestou pelo não conhecimento do habeas corpus ou, caso conhecido, por sua denegação, notadamente porque a decisão constritiva encontra-se devidamente fundamentada (fls. 112-117).
+Decido.
+Em que pesem os argumentos externados pela defesa, penso que o habeas corpus não tem procedência, na linha dos argumentos externados pelo Tribunal de origem, os quais são ratificados pelo Ministério Público Federal.
+Deveras, conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela.
+No caso, extrai-se da decisão que decretou a prisão preventiva a seguinte passagem (fl. 60, destaquei):
+ ..
+Nessa ordem de ideias, verifica-se que o autuado praticou dois crimes idênticos em menos de 24 horas, fato que demonstra a sua periculosidade e evidencia que a sua liberdade coloca em risco a ordem pública. Ademais, afirmou possuir antecedentes criminais na cidade paulista de Limeira - SP.
+Assim sendo, a personalidade do autuado, as circunstâncias do crime, bem como a reiteração da prática criminosa denotam que a liberdade dele ameaça a ordem pública e autorizam a decretação da prisão preventiva, com fundamento no artigo 312, caput, do Código de Processo Penal, restando absolutamente insuficientes as medidas cautelares diversas da prisão.
+O acórdão impugnado, no particular, ressaltou: " ..  sendo o acusado contumaz na vida criminosa, há fortes indícios de que, se solto, poderá voltar a delinquir, sendo necessário mantê-lo segregado para resguardar a segurança e a ordem públicas" (fl. 18, grifei).
+Como se observa, não há como deixar de considerar que a decisão do Magistrado de primeiro grau, chancelada pelo Tribunal de origem, indicou, além das circunstâncias nas quais foi cometido o delito (dois crimes idênticos em menos de 24 horas), que o paciente ostenta diversos antecedentes criminais.
+Tal circunstância, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar, a fim de evitar a reiteração delitiva, sobretudo se levado em consideração que os fatos objeto de apuração no caso. No particular, destacou o Ministério Público Federal (fl. 114):
+ ..
+É que a aludida medida foi efetuada por meio de decisão proferida com fundamentação idônea, lastreada nas circunstâncias fáticas do caso concreto, pela suposta prática dos crimes de furto simples e furto majorado, tipificados no art. 155, caput, c/c art. 155, §1º, ambos do Código Penal, com o intuito de resguardar a ordem pública, em razão do elevado risco de reiteração delitiva, em virtude dos maus antecedentes do paciente.
+Na mesma direção da decisão impugnada, é firme a jurisprudência deste Superior Tribunal, de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, relator Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Diante do exposto, com fundamento nos arts. 34, XX, do RISTJ, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
