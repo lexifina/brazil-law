@@ -1,0 +1,42 @@
+DECISÃO
+ADRIANO DOS SANTOS CUNHA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado do Piaí no HC n. 0762819-17.2024.8.18.0000.
+A defesa busca a revogação da prisão preventiva do paciente, ainda que com a imposição de cautelares alternativas, ao argumento, em síntese, de que não estariam presentes os requisitos necessários para a imposição da medida extrema. Alega que o acusado não haveria descumprido medida protetiva deferida em favor de sua ex-companheira, pois esta se deslocou à residência daquele, forçando a aproximação.
+Decido.
+I. Vedada supressão de instância
+De acordo com o explicitado na Constituição Federal (art. 105, I,  c ), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos:  Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+Nesse sentido, permanece inalterado o entendimento dos Tribunais Superiores:
+ ..
+1. Não cabe ao SUPREMO TRIBUNAL FEDERAL conhecer de Habeas Corpus impetrado contra decisão proferida por relator que indefere o pedido de liminar em Habeas Corpus requerido a tribunal superior, sob pena de indevida supressão de instância (Súmula 691 do STF).
+2. Inexistência de teratologia ou caso excepcional que caracterizem flagrante constrangimento ilegal.
+3. Agravo regimental a que se nega provimento.
+(HC n. 179.896 AgR, Relator(a): Min. Alexandre de Moraes, 1ª T., julgado em 27/3/2020, PROCESSO ELETRÔNICO DJe-081 DIVULG. 1º/4/2020, PUBLIC. 2/4/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONSTITUCIONAL. INDEFERIMENTO DE MEDIDA LIMINAR NO SUPERIOR TRIBUNAL DE JUSTIÇA: SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. INEXISTÊNCIA DE TERATOLOGIA OU FLAGRANTE ILEGALIDADE NA ESPÉCIE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (HC n. 182.390 AgR, Relator(a): Min. Cármen Lúcia, 2ª T., julgado em 20/4/2020, PROCESSO ELETRÔNICO DJe-099 DIVULG. 23/4/2020, PUBLIC. 24/4/2020)
+ ..
+1. Esta Corte Superior firmou entendimento no sentido de não ser cabível habeas corpus contra decisão que indefere liminar, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade, a teor do disposto no enunciado da Súmula 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. No caso, não há falar em flagrante ilegalidade capaz de superar o óbice da Súmula 691/STF, porquanto o agravo em recurso especial mostrou-se indubitavelmente intempestivo, o que sequer é questionado pelo agravante, logo, não se verifica direito inconteste de devolução do prazo recursal.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 561.091/RJ, Rel. Ministro Ribeiro Dantas, 5ª T., julgado em 13/4/2020, DJe 16/4/2020)
+ ..
+2. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF. Referido entendimento aplica-se na hipótese em que o writ de origem é conhecido como substitutivo de revisão criminal. Precedentes.
+3. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n.º 691 da Suprema Corte, pois a fundamentação adotada pelas instâncias ordinárias para fixar o regime inicial semiaberto está em harmonia com a jurisprudência da Suprema Corte e desta Corte Superior no sentido de que não há constrangimento ilegal na fixação de regime mais gravoso de cumprimento de pena caso a pena-base tenha sido fixada acima do mínimo legal por conta do reconhecimento de circunstâncias judiciais desfavoráveis dada a interpretação conjunta dos arts. 59 e 33, §§ 2º e 3.º, ambos do Código Penal. De fato, a imposição do regime prisional não está condicionada somente ao quantum da pena. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 548.761/PE, Rel. Ministra Laurita Vaz, 6ª T., julgado em 17/12/2019, DJe 4/2/2020)
+II. Ato apontado como coator
+Verifico que, na espécie, o Juiz de primeiro grau converteu a prisão em flagrante do paciente em preventiva, após este haver descumprido medida protetiva anteriormente imposta em favor de sua ex-companheira, para garantia da ordem pública, bem como da integridade física e psicológica da vítima, "considerando seu histórico de violência e desobediência às medidas protetivas" (fl. 34).
+O Magistrado de origem esclareceu, ainda, que o acautelado " possui um histórico de violência e crimes que reforçam a necessidade de sua prisão preventiva", além de ser "penalmente reincidente, pois já foi condenado por porte ilegal de arma de fogo em 2019,  ..  e responde a outras ações penais, incluindo o processo  .. , onde é acusado por difamação, injúria e ameaça contra a mesma vítima" (ambos à fl. 34).
+Impetrado habeas corpus perante o Tribunal estadual, a liminar foi indeferida, sob os seguintes fundamentos (fls. 42-45):
+Constata-se, portanto, que a prisão preventiva do Paciente foi decretada para garantir a ordem pública e para assegurar a aplicação da lei penal, uma vez que teria se aproximado da vítima, em descumprimento às medidas protetivas de urgência anteriormente fixadas. Ora, no caso dos autos, constata-se, em análise inicial, que a decisão encontra amparo no ordenamento jurídico, uma vez que o Paciente tinha conhecimento das medidas protetivas deferidas em favor da vítima e, ainda assim, aproximou-se dela. Ainda, o Paciente responde a outras ações penais, incluindo o processo nº 0860056-53.2023.8.18.0140, onde é acusado por difamação, injúria e ameaça contra a mesma vítima, Mauricélia Alves de Sousa. Este fundamento afigura-se suficiente para a decretação da medida constritiva, não se constatando, numa cognição sumária, a procedência do argumento defensivo.
+ ..
+O Impetrante ainda defende que as medidas cautelares alternativas são suficientes para resguardar a ordem pública no caso concreto. É importante ressaltar que o Superior Tribunal de Justiça sedimentou o entendimento de que a imprescindibilidade da preventiva decretada torna clarividente a insuficiência das medidas cautelares alternativas.
+ ..
+Portanto, este argumento é insuficiente para subsidiar a soltura do Paciente, neste momento.
+ ..
+Por conseguinte, em face do caso concreto que aqui se cuida, não resta suficientemente demonstrado, num primeiro momento, o elemento da impetração que indica a notória existência do constrangimento ilegal, nem mesmo a probabilidade do dano irreparável, pressupostos essenciais à concessão da liminar vindicada.
+Apesar de sensível aos argumentos da defesa, o direito deduzido na impetração não se reveste de plausibilidade jurídica. A determinação do Juiz de primeiro grau está amparada na jurisprudência desta Corte Superior, de que " a  prisão preventiva do Recorrente está devidamente fundamentada, haja vista que a jurisprudência considera idônea a decretação da custódia cautelar fundada no descumprimento de medidas protetivas, de acordo com o previsto no art. 313, inciso III, do Código de Processo Penal" (RHC n. 102.643/MG, relatora Ministra Laurita Vaz, 6ª T., DJe 4/2/2019).
+Não identifico, portanto, manifesta ilegalidade que permita inaugurar a competência constitucional deste Tribunal Superior. Ressalto, todavia, que a análise feita nesta oportunidade não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada da Corte estadual.
+III. Dispositivo
+À vista do exposto, indefiro liminarmente este habeas corpus, com fulcro na Súmula n. 691 do STF e no art. 210 do RISTJ.
+Publique-se e intimem-se.
+EMENTA
