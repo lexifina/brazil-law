@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por AUGUSTO GOMES FERREIRA, EDIVALDO MARTINS DE OLIVEIRA, MARIA JOSE CENI, CLEMENCIA PEREIRA RAFAEL, LUIZ APARECIDO CARLOS, ELIZEU MOLINA, PEDRO DE JESUS EMERENCIANO, GERALDO MELEGARI, TEREZINHA MAFRA contra da decisão que, em prévio juízo de admissibilidade, inadmitiu o recurso especial.
+O apelo nobre interposto com fundamento na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado (fl. 1.037):
+APELAÇÃO CÍVEL E AGRAVO RETIDO. AÇÃO DE REPONSABILIDADE OBRIGACIONAL SECURITÁRIA. FINANCIAMENTO HABITACIONAL. - AGRAVO RETIDO. APÓLICES DO RAMO 61/65. APÓLICES DE MERCADO. AUSÊNCIA DE, INTERESSE DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. -ILEGITIMIDADE PASSIVA DA BRADESCO SEGUROS S/A. SEGURADORA VINCULADA AO CONTRATO DIVERSA DA REQUERIDA. NÃO APLICAÇÃO AO CASO DA FIGURA DA SUBSTITUIÇÃO PROCESSUAL. DEMANDA EXTINTA SEM APRECIAÇÃO DO MÉRITO. DEMAIS QUESTÕES PREJUDICADAS. -SUCUMBÊNCIA DOS AUTORES. AGRAVO RETIDO CONHECIDO E PARCIALMENTE PROVIDO. - APELAÇÃO PREJUDICADA.
+- A competência para o julgamento das demandas em que se busca o recebimento de indenização por danos ao imóvel objeto de contrato de seguro adjeto a contrato de financiamento imobiliário com apólice privada é a Justiça Estadual.
+- No financiamento habitacional com recursos privados a legitimidade passiva para responder por eventual indenização é da segurada vinculada ao contrato.
+Rejeitados os embargos de declaração (fls. 1.325-1.328).
+Nas razões de recurso especial (fls. 1097/1111, e-STJ), o agravante aponta, além de dissídio jurisprudencial, ofensa aos artigos 17, 18 e 338 do CPC, sustentando a legitimidade passiva da ora recorrida, considerando a existência de um pool de seguradoras responsáveis pelo contrato ora discutido.
+Contrarrazões às fls. 1.351-1.370.
+Em juízo de admissibilidade, o recurso especial foi inadmitido (fls. 1.372-1.376), dando ensejo à interposição do presente agravo.
+Contraminuta apresentada às fls. 1.395-1.425.
+É, no essencial, o relatório.
+A pretensão não merece acolhimento.
+O agravante se insurge contra o reconhecimento da ilegitimidade passiva da empresa ora agravada. Sustenta a existência de um pool de seguradoras responsáveis pelo contrato ora discutido.
+Na hipótese, contudo, observa-se que a Corte de origem concluiu pela ilegitimidade passiva da Bradesco Seguros (fl. 1087, e-STJ):
+Trata-se de demanda em que os autores postulam indenização por danos nos imóveis financiados com base no contrato de seguro habitacional. As apólices de seguro vinculadas aos contratos de financiamento dos autores são privadas ou, mais especificamente, são apólices de mercado SH-AM do ramo 61/65 e a Cohapar informou nos autos que a seguradora vinculada é a Excelsior (fls. 21/23-TJ).
+Quando os contratos de financiamento foram firmados a seguradora que operava com a Cohapar era a Sasse. A Caixa Econômica Federal confirmou que as apólices de seguro são do ramo privado e que não possui interesse de integrar a lide (fls. 30/31-T1). Resta determinar se a única seguradora legitimada para responder pela pretensão dos autores é a Seguradora Excelsior ou se a Bradesco Seguros pode ser demandada por força das figuras do co- seguro, da retrocessão e do mutualismo entre as seguradoras.
+Nos seguros referentes à apólice de mercado, onde os contratos habitacionais são efetivados por agentes financeiros que utilizam recursos não vinculados ao Sistema Financeiro de Habitação, não há um revezamento de seguradoras, sendo a contratação do seguro confiada a uma companhia específica, escolhida pelo agente financeiro através de procedimento licitatório. Nesses casos a seguradora se obriga, exclusivamente, em relação a cada contrato. Como visto, no caso em apreço a seguradora vinculada aos contratos de financiamento não é a Bradesco Seguros S/A.
+Como a apelada não foi contratada como seguradora do contrato de financiamento dos imóveis, não é parte legítima para responder a ação de obrigação securitária.
+Nesse contexto, o acolhimento da pretensão recursal exigiria o reexame de provas e a interpretação das cláusulas do contrato firmado entre as partes, providências que esbarram nos óbices das Súmulas n. 5 e 7 do STJ.
+A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. SEGURADORA. ILEGITIMIDADE. REANÁLISE DE CONTRATO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7, AMBAS DO STJ. DECISÃO MANTIDA. NÃO PROVIMENTO.
+1. No caso, o Tribunal paranaense manteve a sentença de extinção do feito, sem resolução de mérito, em virtude da ilegitimidade passiva da seguradora ré, observando que a apólice securitária referente ao imóvel da autora é privada e não há formação de "pool" de seguradoras, sendo parte legítima passiva para a ação de responsabilidade obrigacional securitária apenas a seguradora especificamente responsável pelo contrato de mútuo.
+2. A reanálise do entendimento acerca da legitimidade passiva da TRADITIO COMPANHIA DE SEGUROS, fundamentado na apólice e na prova dos autos, esbarra no óbice das Súmulas n. 5 e 7, ambas do STJ.
+3. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.549.453/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/8/2024, DJe de 28/8/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DOS AUTORES.
+1. O acolhimento do inconformismo recursal, no sentido de verificar se a seguradora agravada fazia parte do "pool" de seguradora responsável pela cobertura securitária dos imóveis financiados pela COHAPAR, demandaria a desconstituição das conclusões estabelecidas pela Corte de origem, o que não é possível sem a análise das cláusulas contratuais e do conjunto fático e probatório dos autos, atraindo os óbices das Súmulas 5 e 7/STJ.
+2. Para alterar as conclusões contidas no decisum e acolher o inconformismo recursal no sentido de verificar a apontada legitimidade passiva ad causam da seguradora agravada, seria imprescindível a interpretação de cláusulas do contrato celebrado entre as partes e a incursão no conjunto fático e probatório dos autos, providências que atraem os óbices estabelecidos pelas Súmulas 5 e 7 do STJ.
+3. A incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.709.791/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/10/2020, DJe de 19/11/2020.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial
+Deixo de majorar os honorários advocatícios, tendo em vista que o recurso especial foi interposto contra sentença publicada na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. SEGURO HABITACIONAL. SEGURADORA. ILEGITIMIDADE. REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
