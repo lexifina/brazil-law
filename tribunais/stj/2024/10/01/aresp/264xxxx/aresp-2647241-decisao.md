@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por BWB PRIME CLUBE DE FERIAS S.A., com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de Sergipe, assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C DEVOLUÇÃO DE QUANTIAS PAGAS E TUTELA DE URGÊNCIA -CONTRATO DE TIME-SHARING -DESFAZIMENTO DO CONTRATO POR INICIATIVA DA CONSUMIDORA -APLICABILIDADE DO CÓDIGO DE DEFESADO CONSUMIDOR -ABUSIVIDADE DE CLAÚSULAS CONTRATUAIS - CLÁUSULA QUE PREVÊ RETENÇÃO ABUSIVADOS VALORES PAGOS PELA CONTRATANTE- RESCISÃO DO PACTO E DEVOLUÇÃO DOSVALORES PAGOS -RECURSO CONHECIDO E NÃO PROVIDO." ( fls. 289-290).
+Nas razões do recurso especial, a recorrente alega violação aos arts. 421, 421 A, 884 e 886 do CC e divergência jurisprudencial, sustentando, em síntese, a impossibilidade de devolução de 100% dos valores pagos pelas recorridas, visto que o desfazimento do negócio decorreu por iniciativa das agravadas.
+É o relatório.
+Decido.
+Não colhe o recurso.
+Na hipótese, a Corte estadual concluiu pela impossibilidade de retenção de valores por parte da insurgente, em razão de que, embora o desfazimento do negócio decorreu de iniciativa da parte recorrida, foi a agravante que deu causa ao referido encerramento, conforme se depreende do seguinte excerto do aresto recorrido:
+"E mesmo após um período de pagamento extensivo, a apelada não poderia se beneficiar do imóvel sobre o contrato em questão, não podendo utilizar do referido bem.
+No caso em tela, nota-se que cabe a rescisão contratual, com a restituição integral das parcelas pagas, como bem analisado pelo Juízo singular.
+Quanto à discussão a respeito da incidência da Súmula 543 do STJ, não merece prosperar, haja vista que quem deu causa, conforme a matéria fática foi a própria apelante, portanto, cabível a restituição integral das quantias pagas. Logo, justifica a manutenção da sentença também neste sentido." (fl.294)
+Quanto ao tema, esta Corte Superior firmou entendimento de que em caso de rescisão de contrato de promessa de compra e venda de imóvel por culpa exclusiva do promitente-vendedor, como concluiu a Corte de origem, deve haver a restituição imediata e integral das parcelas pagas. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA DE INDENIZAÇÃO. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. RESPONSABILIDADE DA CONSTRUTORA COMPROVADA. RESCISÃO CONTRATUAL. POSSIBILIDADE. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ. REDUÇÃO DA CLÁUSULA PENAL. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO NÃO PROVIDO.
+1. A Corte de origem concluiu que as questões relativas à regularidade do loteamento são de integral responsabilidade do vendedor, que, ao iniciar o empreendimento com a intenção de venda e obtenção de lucro, deveria ter-se resguardado da efetiva regularidade da área para então disponibilizar a venda. Não houve, assim, caso fortuito ou força maior.
+2. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Em se tratando de resolução de contrato de compra e venda de imóvel por culpa exclusiva do promitente-vendedor, é devida a imediata e integral restituição das parcelas pagas pelo promitente-comprador (Súmula 543/STJ), não havendo falar na aplicação da teoria do adimplemento substancial. Precedentes.
+4. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitado em embargos de declaração para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1635882/PR, de minha Relatoria, QUARTA TURMA, julgado em 24/08/2020, DJe 15/09/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. RESCISÃO. CULPA EXCLUSIVA DO PROMITENTE VENDEDOR. RESTITUIÇÃO INTEGRAL DAS PARCELAS PAGAS. SÚMULA 543 DO STJ. VERIFICAÇÃO DE CULPA. APLICAÇÃO DAS SÚMULAS 5 E 7/STJ. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. PRECEDENTES.
+1. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. A jurisprudência desta Corte orienta que, em caso de rescisão de contrato de compra e venda de imóvel por culpa da promitente vendedora, os juros de mora sobre o valor a ser restituído incidem a partir da citação.
+4. Agravo interno parcialmente provido.
+(AgInt no AREsp 1597320/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/06/2020, DJe 17/06/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE PELO ATRASO DA ENTREGA DO IMÓVEL. CASO FORTUITO OU FORÇA MAIOR. AUSÊNCIA. RESTITUIÇÃO INTEGRAL DAS PARCELAS PAGAS. TERMO INICIAL DOS JUROS DE MORA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83 DO STJ. MATÉRIA QUE DEMANDA REEXAME DE FATOS, PROVAS E CLÁUSULA CONTRATUAL. SUMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido está em consonância com a Jurisprudência desta Corte Superior, que possui firme o entendimento no sentido de que deve ocorrer a restituição integral dos valores pagos pelo promitente comprador, em caso de resolução de contrato de promessa de compra e venda de imóvel, por culpa exclusiva do promitente vendedor. Precedentes.
+2. A Corte Estadual fixou a data da citação como o termo inicial dos juros de mora incidente sobre o valor a ser restituído, e o momento dos respectivos desembolsos como termo inicial da correção monetária das parcelas pagas, alinhando-se ao entendimento desta Corte Superior. Incidência da Súmula 83 do STJ.
+3. As conclusões do acórdão recorrido no tocante à culpa exclusiva da recorrente pela rescisão contratual, ausência de caso fortuito ou força maior, e pagamento da multa estipulada no contrato, não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame do conjunto fático - probatório dos autos, e análise de cláusulas contratuais, o que é vedado em razão dos óbices das Súmulas 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1590626/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, DJe 17/03/2020)
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. SÚMULA N. 284/STF. REAVALIAÇÃO DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. ATRASO NA ENTREGA DA OBRA. RESCISÃO POR CULPA DA VENDEDORA. DECISÃO MANTIDA.
+(..)
+6. Em caso de rescisão de contrato de promessa de compra e venda de imóvel por culpa exclusiva do promitente-vendedor, deve haver a restituição imediata e integral das parcelas pagas. Precedentes.
+7. Embargos de declaração recebidos como agravo interno a que se nega provimento.
+(AgInt no AREsp 1.669.868/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/10/2020, DJe de 26/10/2020)
+Assim, no ponto, incide o óbice processual sedimentado no verbete da Súmula 83 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 12% sobre o valor atualizado da condenação para 13% sobre o respectivo valor.
+Publique-se.
+EMENTA
