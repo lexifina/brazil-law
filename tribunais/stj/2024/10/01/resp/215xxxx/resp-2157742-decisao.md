@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se recurso especial interposto por FABIANO ALOISIO GRILO DA SILVA, fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Recurso especial interposto em: 09/03/2024.
+Concluso ao gabinete em: 22/07/2024.
+Ação: revisional de contrato bancário, ajuizada pelo recorrente, em desfavor de AYMORE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.
+Sentença: julgou parcialmente procedentes os pedidos, a fim de determinar a revisão do contrato objeto dos autos para: i) limitar os juros remuneratórios à taxa média de mercado, para o mês da contratação, permitida a capitalização; e ii) condenar a recorrida a compensar o débito com o crédito da parte autora e, remanescendo saldo credor em favor desta, a restituir tais valores, na forma simples.
+Decisão monocrática: negou provimento à apelação interposta pela recorrida e deu parcial provimento à apelação interposta pela recorrente, a fim de vedar a capitalização diária dos juros, descaracterizar a mora do devedor e afastar a cobrança do seguro.
+Acórdão: deu parcial provimento ao agravo interno interposto pela recorrida, a fim de restabelecer a capitalização de juros na forma pactuada, nos termos da seguinte ementa:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL . ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL DE CONTRATO.
+JUROS REMUNERATÓRIOS. TRATANDO-SE DE RELAÇÃO DE CONSUMO, PARA LIMITAÇÃO/REVISÃO DA TAXA DOS JUROS REMUNERATÓRIOS CONTRATADA, HÁ QUE SE OBSERVAR SE EXISTE DESVANTAGEM EXAGERADA PARA O CONSUMIDOR, CONSIDERANDO-SE DIVERSOS FATORES APONTADOS PELA JURISPRUDÊNCIA, COM SIGNIFICATIVA DISCREPÂNCIA ENTRE A TAXA ESTABELECIDA NO CONTRATO E A TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN PARA O PERÍODO DA CONTRATAÇÃO (RESP N. 2.009.614/SC, RESP N. 1.061.530/RS).
+CAPITALIZAÇÃO DE JUROS. POSSIBILIDADE DE INCIDÊNCIA DE CAPITALIZAÇÃO DE JUROS EM PERIODICIDADE INFERIOR À ANUAL APÓS A EDIÇÃO DA MEDIDA PROVISÓRIA N. 2.170-36/2001 (ART. 5º), PRESENTE INCLUSIVE O RE N. 592.377/RS, COM REPERCUSSÃO GERAL RECONHECIDA. EM SEDE DE JULGAMENTO DE INCIDENTE REPETITIVO (RESP 973.827/RS).
+DA MORA CONTRATUAL. SUA DESCARACTERIZAÇÃO DEPENDE DO RECONHECIMENTO DE ABUSIVIDADE EM ENCARGO(S) PREVISTO(S) PARA O PERÍODO DA NORMALIDADE CONTRATUAL (JUROS REMUNERATÓRIOS E CAPITALIZAÇÃO DE JUROS).
+DO SEGURO. NOS CONTRATOS BANCÁRIOS EM GERAL, O CONSUMIDOR NÃO PODE SER COMPELIDO A CONTRATAR SEGURO COM A INSTITUIÇÃO FINANCEIRA OU COM SEGURADORA POR ELA INDICADA (RESP N. 1.639.259/SP E RESP N. 1.639.320/SP).
+COMPENSAÇÃO E/OU REPETIÇÃO SIMPLES. CABÍVEL CASO VERIFICADA A COBRANÇA DE VALORES INDEVIDOS.
+DA TUTELA PROVISÓRIA. A CONCESSÃO DA TUTELA PROVISÓRIA ESTÁ CONDICIONADA, CUMULATIVAMENTE: A) À EXISTÊNCIA DE AÇÃO FUNDADA EM QUESTIONAMENTO INTEGRAL OU PARCIAL DO DÉBITO; B) À DEMONSTRAÇÃO DA COBRANÇA INDEVIDA, COM FUNDAMENTO NA APARÊNCIA DO BOM DIREITO E NA JURISPRUDÊNCIA CONSOLIDADA DO STF OU DO STJ; C) AO DEPÓSITO DO VALOR INCONTROVERSO DAS PARCELAS OU À PRESTAÇÃO DE CAUÇÃO IDÔNEA.
+AGRAVO INTERNO PARCIALMENTE PROVIDO (e-STJ fls. 290-291).
+Recurso especial: com base em dissídio jurisprudencial, sustenta que é vedada a capitalização diária de juros ante a ausência de previsão contratual, pugnando, via de consequência, pela descaracterização de sua mora.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da capitalização de juros (Súmula 568/STJ)
+A jurisprudência do STJ é no sentido de que a cobrança de juros capitalizados nos contratos de mútuo é permitida quando houver expressa pactuação.
+Especificamente em relação aos juros capitalizados com periodicidade inferior a um ano, está em pleno vigor o entendimento de que: i) é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada (Tema 246/STJ); e ii) a capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada (Tema 247/STJ). Nesse sentido: (REsp 973.827/RS, 2ª Seção, DJe 24/09/2012).
+No que se refere à capitalização diária de juros e indicação da respectiva taxa, a Segunda Seção desta Corte Superior (REsp 1.826.463/SC, DJe de 29/10/2020) entendeu ser abusiva a cláusula contratual genérica de capitalização diária, sem informação acerca da taxa diária de juros remuneratórios, por dificultar a compreensão do consumidor acerca do alcance da capitalização diária, o que configura descumprimento do dever de informação, nos termos da seguinte ementa:
+RECURSO ESPECIAL. DIREITO CIVIL, PROCESSUAL CIVIL E DO CONSUMIDOR. (EN. 3/STJ). CÉDULA DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO DIÁRIA DE JUROS REMUNERATÓRIOS. TAXA DIÁRIA NÃO INFORMADA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO. ABUSIVIDADE.
+1. Controvérsia acerca do cumprimento de dever de informação na hipótese em que pactuada capitalização diária de juros em contrato bancário.
+2. Necessidade de fornecimento, pela instituição financeira, de informações claras ao consumidor acerca da periodicidade da capitalização dos juros adotada no contrato, e das respectivas taxas.
+3. Insuficiência da informação acerca das taxas efetivas mensal e anual, na hipótese em que pactuada capitalização diária, sendo imprescindível, também, informação acerca da taxa diária de juros, a fim de se garantir ao consumidor a possibilidade de controle "a priori" do alcance dos encargos do contrato. Julgado específico da Terceira Turma.
+4. Na espécie, abusividade parcial da cláusula contratual na parte em que, apesar de pactuar as taxas efetivas anual e mensal, que ficam mantidas, conforme decidido pelo acórdão recorrido, não dispôs acerca da taxa diária.5. RECURSO ESPECIAL DESPROVIDO, COM MAJORAÇÃO DE HONORÁRIOS (REsp 1.826.463/SC, 2ª Seção, DJe 29/10/2020).
+Também nesse sentido, cita-se o REsp 1.568.290/RS (3ª Turma, DJe de 02/02/2016), no qual restou consignado que, diante da ausência de informação da taxa diária de juros, apenas das taxas mensal e anual, descabida a incidência da capitalização diária, mas apenas da mensal.
+Destaque-se ainda: AgInt no AgInt no AREsp 1.872.355/SC, 3ª Turma, DJe de 25/11/2021; e AgInt no REsp 1.689.156/PR, 4ª Turma, DJe de 03/08/2021.
+Na hipótese sob julgamento, o Tribunal de origem entendeu que seria possível a capitalização de juros na forma contratada, tendo em vista que estaria comprovada que a taxa de juros anual superaria o duodécuplo da mensal (e-STJ fl. 293).
+Desse modo, encontrando-se o entendimento do Tribunal de origem em dissonância com a jurisprudência deste Tribunal, aplica-se a Súmula 568/STJ no particular.
+Por fim, ressalte-se que não há interesse recursal do recorrente quanto ao pleito de descaracterização da mora, uma vez que a mesma foi expressamente descaracterizada quando da revisão da taxa de juros remuneratórios (e-STJ fl. 227).
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para determinar o retorno dos autos ao Tribunal de origem para que proceda novo julgamento ao agravo interno interposto, na esteira do devido processo legal, à luz da jurisprudência do STJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CAPITALIZAÇÃO DE JUROS. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação revisional de contrato bancário.
+2. É abusiva a cláusula contratual genérica de capitalização diária, sem informação acerca da taxa diária de juros remuneratórios, por dificultar a compreensão do consumidor acerca do alcance da capitalização diária, o que configura descumprimento do dever de informação. Precedentes.
+3. Recurso especial conhecido e provido.
