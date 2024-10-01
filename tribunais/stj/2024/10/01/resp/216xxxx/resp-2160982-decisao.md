@@ -1,0 +1,23 @@
+DECISÃO
+JOSUE MAGNO DE SOUSA  interpõe  recurso  especial,  fundado  no  art.  105,  III,  "a",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  de Justiça do Estado do Pará  na  Apelação  Criminal  n.  0000733-67.2017.8.14.0401.
+O  recorrente  foi condenado, em segunda instância, pela prática do crime previsto no art. 180, §§ 1º e 2º, do Código Penal, à sanção de 3 anos de reclusão mais 10 dias-multa, em regime inicial aberto.
+A defesa aponta violação dos arts. 155 e 386, VII, do Código de Processo Penal. Pleiteia o restabelecimento da sentença absolutória, por insuficiência da prova da condenação. Defende que "a prática do delito não restou cabalmente comprovada, com precisão e segurança" (fl. 247). Subsidiariamente, defende a possibilidade de fixação da pena-base abaixo do mínimo legal em decorrência da atenuante da confissão espontânea.
+O  Ministério  Público  Federal , em parecer do Subprocurador-Geral da República Celso de Albuquerque Silva, às fls. 281-284,  opinou  pelo  não conhecimento do recurso especial.
+Decido.
+I. Inadmissibilidade do REsp
+O Tribunal de origem apresentou a seguinte fundamentação quanto à autoria e à materialidade delitivas (fls. 232-233):
+ ..
+Em que pese o entendimento do magistrado, no crime de receptação, o dolo do agente é evidenciado pelas circunstâncias em que se deu o flagrante, a apreensão do bem e dentre outros, pela ausência de documentos comprobatórios da aquisição lícita do bem.
+In casu, o acusado foi claro ao admitir que foi procurado em sua residência por um indivíduo chamado "Léo" ou "Gabriel", o qual fez a oferta de uma motocicleta para que vendesse no valor de R$ 600,00, e que ele teria lucro de R$ 200,00, ou seja, o Sr. Josué tinha total conhecimento de que a motocicleta era de origem ilícita, inclusive confessou saber se tratar de produto ilícito, bem como ainda mencionou ser contumaz na efetuação de transações com veículos de origem ilícita para vendê-los.
+A própria vítima em sede policial, afirmou que viu o acusado usando sua motocicleta e que após ser detido o reconheceu como pessoa que estava pilotando sua moto. Do mesmo modo, corroborando tais informações, a testemunha de acusação policial militar, declarou que foi informada do delito e que ao diligenciarem, o acusado percebeu sua aproximação e tentou se evadir, mas detido, confessou os fatos.
+Assim sendo, os elementos de prova constantes dos autos são categóricos em evidenciar a autoria delitiva do acusado na empreitada criminosa, crimes de receptação, sendo que tais informações obtidas em sede policial foram corroboradas em juízo pela testemunha da acusação, policial militar, que participou das diligências que prenderam o acusado, em que narrou os fatos, não deixando dúvida acerca da prática criminosa.
+No que o fato da testemunha ter mencionado em juízo que foi informado por terceira pessoa e não pela vítima, não possui força probante para excluir a autoria e materialidade do delito que restaram comprovadas pelo conjunto probatório, inclusive a própria testemunha descreveu os fatos em que ratifica os demais elementos constantes dos autos, que uníssonos, evidenciam a autoria do acusado.
+Ademais, o depoimento testemunhal do policial que flagrou o fato e atuou na prisão do acusado, especialmente quando prestado em juízo, sob a garantia do contraditório, reveste-se de eficácia probatória suficiente para eventual condenação, dada a fé pública e a presunção de veracidade que gozam, restando claro que houve configuração do crime de receptação dolosa, não havendo como prosperar a manutenção da sentença absolutória na tese de absolvição por insuficiência probatória.
+Assim sendo, diante do acervo probatório, reformo a decisão absolutória para que o ora apelado JOSUÉ MAGNO DE SOUSA seja condenado nos termos do art. 180, § 1º e § 2º do Código Penal Brasileiro.
+A pretensão absolutória - baseada em alegada insuficiência da prova - implica necessário reexame de fatos e provas, não permitido, em recurso especial, conforme disposição da Súmula n. 7 do STJ, máxime porque o fato determinante na caracterização do ilícito imputado foi o flagrante do indivíduo na posse do veículo objeto de roubo, e não eventual divergência sobre quem comunicou o fato aos policiais.
+No tocante ao pedido alternativo, em que pese minha compressão em sentido contrário, a orientação permanece sintetizada na Súmula n. 231 do STJ e em recurso representativo de controvérsia. Trata-se, inclusive, de matéria decidida mediante a sistemática da Repercussão Geral pelo Supremo Tribunal Federal.
+Assim, a insurgência , nesse ponto, é inviável pelo disposto na Súmula n. 83 do STJ.
+II. Dispositivo
+À  vista  do  exposto,  não  conheço  do  recurso  especial.
+Publique-se  e  intimem-se.
+EMENTA
