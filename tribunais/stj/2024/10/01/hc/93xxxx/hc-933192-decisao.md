@@ -1,0 +1,16 @@
+DECISÃO
+RODRIGO DA SILVA PAULINO alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+Busca a declaração de indulto com fundamento no Decreto n. 7.873/2012.
+O MPF opinou pela denegação da ordem.
+Decido.
+O paciente foi condenado a 5 anos e 4 meses de reclusão e teve as penas comutadas, em 1/4, com fundamento no Decreto Presidencial n. 7.648/2011, o que resultou no remanescente de 4 anos, 4 meses e 12 dias de pena a cumprir.
+No ano seguinte, agora com fundamento no art. 1º, I e art. 4º, do Decreto Presidencial n. 7.873/2012, a defesa requereu o indulto das penas referente ao processo já favorecido com a comutação.
+Segundo o acórdão recorrido, "não há se falar em indulto pleno logo após a redução da pena pela comutação, pois a base de cálculo para o indulto é a pena originalmente estabelecida na sentença condenatória, não se admitindo o cálculo sobre a pena restante de comutação" (fl. 66).
+O entendimento está alinhado à jurisprudência desta Corte, pois, "para a concessão de indulto, é de se considerar a pena originalmente imposta ao apenado, não sendo computada a pena remanescente em decorrência de comutações anteriores, inexistindo, inclusive, previsão no decreto de que tal instituto deveria ser considerado no cálculo" AgRg no HC n. 572.802/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 2/6/2020, DJe de 8/6/2020).
+Prevalece a compreensão de que penas perdoadas não integram o cálculo para novos benefícios. Confira-se: "CÔMPUTO DO PERÍODO DA PENA REMANESCENTE PARA NOVOS BENEFÍCIOS. IMPOSSIBILIDADE. ENTENDIMENTO JURISPRUDENCIAL DESTA CORTE" (AgRg no HC n. 682.527/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/11/2023, DJe de 29/11/2023.)
+Com efeito, "Para a concessão de indulto, é de se considerar a pena originalmente imposta ao apenado, não sendo considerada, portanto, a pena remanescente em decorrência de comutações anteriores" (AgRg no HC n. 429.125/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 19/4/2018, DJe de 11/5/2018).
+As "frações comutadas da reprimenda do paciente não podem ser levadas em conta no cálculo, porquanto não constituem pena cumprida, mas tão-só sanção perdoada. Deve, desse modo, ser considerada a pena originalmente imposta no édito condenatório para aferir o preenchimento, ou não, do requisito temporal objetivo" (HC n. 362.016/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 25/10/2016, DJe de 7/11/2016).
+A defesa argumenta que, ainda que considerada a pena original, o paciente teria preenchido o requisito temporal para o indulto. Assim, apesar de não ser possível refazer os cálculos da pena neste âmbito superior, a ordem deve ser concedida para que o Juiz da VEC reexamine o pedido de indulto, adotando como base de cálculo a pena originalmente imposta na sentença, sem computar a sanção perdoada para aferição do requisito objetivo.
+À vista do exposto, concedo a ordem de habeas corpus para que o Juiz da Vara de Execuções Penais reexamine o pedido de indulto previsto no Decreto n. 7.873/2012, considerando, para análise do requisito objetivo, as condenações originalmente impostas ao acusado até 26/12/2012 e o período de pena efetivamente cumprido pelo condenado, sem computar nesse cálculo as frações perdoadas por comutações ou indultos anteriores.
+Publique-se e intimem-se.
+EMENTA
