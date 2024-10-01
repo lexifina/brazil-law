@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por Globo Distribuidora de Papelaria Ltda., desafiando decisão da Presidente da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial com base nos seguintes fundamentos (I) não houve ofensa aos arts. 489 e 1.022 do CPC; (II) "os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido" (fl. 95); (III) "rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Col. Superior Tribunal de Justiça (fl. 96).
+A parte agravante sustenta, em síntese, que: (I) "o acórdão foi omisso acerca da valoração da consequência das provas cuja análise detalhada se requereu, posto que as provas pré- constituídas são cristalinas no sentido que que a Agravante não foi intimada da decisão do procedimento administrativo-fiscal. Os principais pontos a serem revalorados pelo STJ, incontroversos, foram levados aos embargos de declaração para fins de prequestionamento e, ainda assim, restou omisso o acórdão que decidiu a causa" (fl. 102); (II) "A mera revaloração das provas e fatos pelo STJ, que não exige o reexame das provas, posto que incontroverso que a fazenda não apresentou prova da intimação eletrônica, e que a única intimação nos autos foi enviada para endereço errado, não atrai a aplicação da súmula 7. Ou seja, tratando-se de fatos já delineados nos autos, incontroversos, não há que se argumentar a aplicação da súmula 7, pois tratamos aqui de mera revaloração da prova" (fl. 104).
+Contraminuta às fls. 110/112.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foram impugnados todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, não houve combate específico ao alicerce de inadmissão de que "os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido" (fl. 95).
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
