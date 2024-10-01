@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por BANCO ITAUCARD S.A., em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado nas alíneas "a" e "c", do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado (fl. 268, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. FINANCIAMENTO DE VEÍCULO. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES AS PRETENSÕES AUTORAIS.
+01- Exclusão do capítulo da Sentença que afastou a cobrança dos valores exigidos a título de tarifa de abertura de crédito e de emissão de carnê, uma vez não houve qualquer previsão das aludidas rubricas no contrato firmado entre as partes.
+02-Cobrança de seguro de proteção financeira: a referida questão foi objeto do REsp 1639259/SP, submetido à sistemática dos recursos repetitivos (Tema nº 972), que fixou a tese de que "Nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada" e efetivando, no caso concreto, sua aplicação mediante a declaração da ocorrência de venda casada no que tange ao seguro de proteção financeira. Reconhecimento da abusividade do seguro que o autor foi compelido a contratar com a instituição financeira ou com seguradora por ela indicada, mas condicionando a restituição do valor correspondente, na forma simples, à comprovação, por parte do autor, da contratação de seguro para o veículo durante todo o período de vigência do contrato, conforme exigência contida no contrato.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO UNÂNIME.
+Os embargos declaratórios foram parcialmente acolhidos para condenar exclusivamente a parte recorrida ao pagamento dos honorários advocatícios, com lastro no artigo 86, parágrafo único, do CPC/2015. (fls. 386-390, e-STJ).
+Nas razões do recurso especial (fls. 275-288, e-STJ), a parte insurgente apontou, além de dissídio jurisprudencial, violação aos seguintes artigos: a) 1022, II, do CPC, alegando omissão do tribunal de origem quanto à apreciação de matéria essencial ao deslinde do feito; b) 39, I, do CDC e 927, III do CPC, sustentando a legalidade da cobrança do seguro de proteção financeira em contrato com livre opção de escolha pela contratação ou não da seguradora.
+Sem contrarrazões.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 434-437, e-STJ), dando ensejo na interposição do presente agravo (fls. 440-465, e-STJ), visando destrancar aquela insurgência.
+Não houve contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, a parte insurgente alega violação ao artigo 1022, II, do CPC, alegando omissão do tribunal de origem quanto à apreciação de matéria essencial ao deslinde do feito.
+Sustenta, em síntese, que "o Tribunal deixou de se pronunciar acerca dos fundamentos que levaram à conclusão da existência de venda casada in casu, na medida em que não houve apreciação/manifestação a respeito das provas acostadas aos autos, capazes de demonstrar a facultatividade da contratação" (fl. 279, e-STJ).
+Acerca da controvérsia, o Tribunal local assim decidiu (fl. 272, e-STJ):
+Regularidade da cobrança do seguro de proteção financeira
+14. No que tange ao seguro - que o Juiz de primeiro grau afastou por entender que a cobrança seria abusiva -, o apelante informa que fez a contratação em termo de adesão próprio e que por isso não restaria dúvida quanto à vontade da parte autora/apelada contratar o seguro.
+15. De se ver que a referida questão foi objeto do REsp 1639259/SP, submetido à sistemática dos recursos repetitivos (Tema nº 972), fixando a tese de que "Nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada" e efetivando, no caso concreto, sua aplicação mediante a declaração da ocorrência de venda casada no que tange ao seguro de proteção financeira.
+16. Em que pese não seja possível obrigar o consumidor a contratar seguro da própria instituição financeira ou de seguradora que a ela seja vinculada, isso não quer dizer que o autor, ora apelante, encontra-se desobrigado de contratar seguro, uma vez que a Cláusula 13, item "a":
+ ..
+17. Desta forma, entendo que o reconhecimento da abusividade do seguro deve ser mantida, acolhendo parcialmente o recurso apenas para condicionar a restituição do valor correspondente ao seguro, na forma simples, à comprovação, por parte do autor, da contratação de seguro para o veículo durante todo o período de vigência do contrato.
+A partir da leitura do acórdão recorrido, verifica-se que o Tribunal de piso concluiu pela abusividade da contratação, haja vista que a parte insurgente não estaria desobrigada a contratar o seguro oferecido pela parte recorrente.
+Não se vislumbra a alegada omissão, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, embora não tenha acolhido as pretensões da parte insurgente.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. NAVIO BAHAMAS. DANOS À ATIVIDADE PESQUEIRA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA PARA APURAÇÃO DAS RESPONSABILIDADES. MARCO DE INTERRUPÇÃO DA PRESCRIÇÃO DA PRETENSÃO DA AÇÃO INDIVIDUAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+ ..
+(AgInt no AREsp n. 1.832.549/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)  grifou-se
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL ADEQUADA. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO PRÉVIA. CONDIÇÃO DE PROCEDIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+(AgInt no AREsp n. 1.455.461/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)  grifou-se
+Como se vê, não se vislumbra omissão, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos.
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Inexiste, portanto, violação ao artigo 1.022 do CPC, visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Em seguida, a parte alega violação aos artigos 39, I, do CDC e 927, III do CPC, sustentando a legalidade da cobrança do seguro de proteção financeira em contrato com livre opção de escolha pela contratação ou não da seguradora.
+Com efeito, a jurisprudência desta Corte, firmada sob a sistemática dos recursos repetitivos, orienta que "o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada" (REsp 1639320/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 12/12/2018, DJe 17/12/2018).
+No presente caso, a Corte de origem concluiu pela abusividade da contratação, haja vista que a parte insurgente não estaria desobrigada a contratar o seguro oferecido pela parte recorrente (fl. 272, e-STJ).
+Logo, rever a conclusão quanto à alegada imposição da contratação demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, bem como a interpretação de cláusulas contratuais, o que é viável na via especial, ante o óbice das Súmulas 5 e 7 do STJ.
+Destaca-se o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE REVISÃO DE CONTRATO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1. Esta Corte Superior fixou em sede de recurso especial repetitivo (tema 958) o entendimento no sentido de que "2.3. Validade da tarifa de avaliação do bem dado em garantia, bem como da cláusula que prevê o ressarcimento de despesa com o registro do contrato, ressalvadas a: 2.3.1. abusividade da cobrança por serviço não efetivamente prestado; e a 2.3.2. possibilidade de controle da onerosidade excessiva, em cada caso concreto" (REsp n. 1.578.553/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 28/11/2018, DJe de 6/12/2018.) 1.1. Na hipótese, a Corte de origem concluiu pela legalidade da cobrança da tarifa de registro de contrato e avaliação de bem, consignando que os valores não se mostram exagerados e há comprovação da prestação do serviço. Alterar tais conclusões demandaria o reexame de provas dos autos, providência vedada pelo óbice da Súmula 7 do STJ. Precedentes.
+2. No que se refere ao seguro proteção financeira, a jurisprudência desta Corte, firmada sob a sistemática dos recursos repetitivos, orienta que "o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada" (REsp 1639320/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 12/12/2018, DJe 17/12/2018).
+2.1. No caso, a Corte de origem entendeu que não há comprovação de que a agravante foi obrigada a contratar. Rever tal conclusão quanto à alegada imposição da contratação demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, bem como a interpretação de cláusulas contratuais, o que é viável na via especial, ante o óbice das Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.095.900/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. AÇÃO REVISIONAL. SEGURO DE PROTEÇÃO FINANCEIRA. PRECEDENTE REPRESENTATIVO DA CONTROVÉRSIA. TEMA N. 972 DO STJ. ILEGALIDADE NÃO VERIFIDADA NA ORIGEM. SÚMULAS N. 5, 7 E 83 DO STJ. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte, firmada sob a sistemática dos recursos repetitivos, orienta que "o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada" (REsp 1639320/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 12/12/2018, DJe 17/12/2018).
+2. No caso, ficou consignado no acórdão que a parte autora da ação revisional não foi compelida a contratar o seguro nem demonstrou a suposta venda casada.
+3. O desfecho atribuído ao processo na origem não destoa das premissas fixadas no precedente representativo da controvérsia (Súmula n. 83/STJ), impondo-se reafirmar que o acolhimento da insurgência demandaria reexame de matéria fática e interpretação do contrato estabelecido entre as partes, procedimento inviável em recurso especial (Súmulas n. 5 e 7 do STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.899.817/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022.)
+Incide, na hipótese, a Súmula 7/STJ.
+3 . Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se
+EMENTA
