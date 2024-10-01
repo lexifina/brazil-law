@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FLAVIO HENRIQUE PEDROSO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, nos autos da Apelação Criminal nº 1503043-35.2021.8.26.0453.
+Consta dos autos que o paciente foi condenado às penas de 01 (um) mês e 10 (dez) dias de detenção, como incurso no arts. 147 do Código Penal e 03 (três) anos, 02 (dois) meses e 03 (três) dias de reclusão, como incurso no art. 1º, I, a, § 4º, III, da Lei n. 9.455/1997, fixado o regime inicial semiaberto para cumprimento da reprimenda.
+A impetrante sustenta a ocorrência de constrangimento ilegal ante a ausência de provas a ensejar a condenação do paciente.
+Defende a necessidade de desclassificação do crime de tortura para lesão corporal leve, bem como de afastamento da causa de aumento de pena pela privação de liberdade, tendo em vista que, segundo o depoimento da vítima, não houve o crime de sequestro.
+Argumenta que o regime prisional mais gravoso estaria lastreado na gravidade abstrata do delito, violando as Súmulas n. 718 e 719 do Supremo Tribunal Federal.
+Requer, liminarmente, seja concedido o direito de aguardar em liberdade o julgamento definitivo deste writ. No mérito, pugna pela concessão da ordem para ratificar a liminar e determinar o redimensionamento da pena, fixando-se o regime aberto para cumprimento da pena.
+Liminar indeferida (fls. 345/347).
+Informações prestadas (fls. 353/544).
+Parecer do MPF pelo não conhecimento do writ (fls. 548/551).
+É o relatório.
+DECIDO.
+O acórdão da apelação criminal impugnada assim fundamentou (fls. 76/81 - grifamos):
+ ..
+A materialidade dos delitos está delineada pelo boletim de ocorrência (fls. 06/09); pela ficha de atendimento (fl. 12); pelo laudo pericial realizado na residência do corréu Nazireu (fls. 289/295); pelo laudo pericial do vídeo (fls. 537/546); pelo laudo pericial realizado no pedaço de madeira (fls. 735/740), bem como pela prova oral trazida aos autos.
+A autoria está igualmente comprovada.
+Efetivamente, exame acurado da prova oral coligida aos autos permite concluir, com segurança, que os acusados conduziram a vítima, no veículo do corréu Flávio, até a residência de Nariseu, com o objetivo de repreendê-lo pelo furto anteriormente ocorrido. No local, proferiam várias ameaças e agressões ao ofendido, causando-lhe evidente sofrimento físico e mental, elementos próprios do crime de tortura. Descabido, pois, o acolhimento dos pleitos para desclassificação da conduta para lesão corporal.
+Aliás, a gravação de parte da ação pelo corréu William (link de fl. 13), põe uma pá de cal nas versões apresentadas pelos acusados no sentido de que apenas deram "uns tapas" no ofendido, sendo possível visualizar o contrário, inclusive ouvir ameaças do tipo "nóis vai matar você" (sic).
+A vítima, na fase policial, narrou com detalhes como foi abordado pelos acusados Flávio, Narizeu Alexandre, Rafael, Leonardo e William, que ocupavam um veículo VW/Gol, no qual o ordenaram que entrasse. Indicou que, no trajeto, tomou ciência de que estava sendo sequestrado e foi acusado de ter entrado na casa do Alexandre e de ter furtado dali um aparelho celular. Apontou que tomaram seu aparelho celular e o levaram, contra sua vontade, para os fundos de uma residência. Disse que ali começaram as agressões e ameaças, sendo que lhe disseram "olha aí o que você fez, confessa de uma vez, pois do contrário você vai morrer aqui mesmo" e que seriam os "disciplinas" da cidade.
+Apontou que todos o torturaram e o agrediram fisicamente com bastante violência, por aproximadamente 20 ou 30 minutos, menos o William que estava fazendo a filmagem das agressões com o celular dele. Ao final, mandaram que saísse correndo do local e que nunca mais pusesse os pés naquela vila ou então seria morto. Após o ocorrido, o mesmo VW/Gol em que havia sido levado para ser julgado, passou por várias vezes defronte à casa de sua mãe, onde reside. Não buscou ajuda policial ou médica por receio.
+Destaco que a modificação do depoimento da vítima em Juízo é irrelevante pois, claramente, assim procedeu por temer por sua vida e por sua integridade física. Aliás, o ofendido sequer procurou ajuda médica ou policial e tão-somente relatou o ocorrido após ser indagada pelos agentes de segurança pública que souberam dos fatos por terceiros. Sem dúvida, as ameaças foram de tal monta que levaram o ofendido a calar-se, não tendo sequer relatado o ocorrido a sua companheira a testemunha Nataly Horrana Dias Alencar.
+Evidente, aliás, que o mesmo receio levou as testemunhas Aparecido e Thaís a prestarem declarações com menor teor acusatório em Juízo. Mas as declarações das testemunhas em sede policial também corroboram amplamente a narrativa do ofendido.
+Nesse sentido, a testemunha Thais Regina de Araújo Damaceno, vizinha do corréu Narizeu, relatou que viu o vídeo que registrou as agressões ao ofendido e que ele "aparenta ter sido gravado nos fundos da casa de Nazireu". Daniel Antonio Alves Carminate também teve acesso ao vídeo e relatou que "soube, por terceiros, que as agressões ocorreram em razão de Diego ter furtado a residência de Nazireu".
+A testemunha Luana de Souza Cardoso, irmã da vítima, indicou que William e Flávio foram à sua casa no veículo VW/Gol, buscando pelo ofendido, tendo ela indicado que ele estaria na oficina. Apontou que, depois, ficou sabendo que o ofendido foi acusado de ter furtado um celular e, por isso, William, Flávio e os demais rapazes, bateram muito em Diego, com pedaços de madeira.
+A testemunha Aparecido Donizete Vicente confirmou que, na data dos fatos, estava na oficina e viu o acusado Rafael chamando a vítima "para conversar, do lado fora do estabelecimento. Em seguida, disse que iriam levá-lo para dar uma volta".
+A testemunha Evandro Aparecido Mesquita também relatou ter visto o vídeo e reconhecido os réus como os agressores. Também consignou que o ofendido "alegou que não teria ido ao médico por medo e que a vítima tem histórico de furtos".
+A testemunha Marcelo Bariotto Evangelista também registrou ter visto o vídeo, além de registrar que a vítima Diego afirmou que foi posto a força em veículo, devido a um furto de aparelho celular e de uma caixa de som do acusado Nazireu. Narrou, ainda, que a vítima estava claramente angustiada.
+E as declarações em sede policial foram reforçadas em juízo pelo testemunho do policial civil Paulo Renato Silva Oliveira, que confirmou que receberam denúncias e vídeos de um tribunal do crime que teria ocorrido na cidade e que a vítima atestou, na delegacia de polícia, os fatos descritos na denúncia.
+Diante desse contexto, a versão acusatória se encontra plenamente demonstrada, restando isoladas as exculpatórias doa acusados, que buscaram atenuar suas participações ativas no sequestro e tortura do ofendido.
+Impensável cogitar-se que a vítima aceitou, por livre e espontânea vontade, entrar no veículo onde estavam os 05 (cinco) acusados e acompanhá-los até a residência de um deles, simplesmente para "conversar".
+Ora, é manifesto que o ofendido foi pressionado a entrar no veículo e, mesmo, a permanecer no local onde fora ameaçado e surrado pelos acusados. Definitivamente, a observação das imagens da ação delitiva afasta a alegação no sentido de que o réu poderia ter-se evadido do local se assim quisesse.
+Oportuno ressaltar, ainda, que o ânimo exaltado, a ira, a explosão emocional, entre outros descontroles, não afastam a tipificação do delito de ameaça, visto que basta anunciar à vítima a prática de mal injusto e grave para sua configuração. Tampouco podem justificar as agressões físicas perpetradas pelos acusados em desfavor da vítima.
+Tem-se, portanto, que o conjunto probatório dos autos é seguro e firme, mostrando-se apto e suficiente a fundamentar o édito condenatório.
+Saliento que as imagens trazidas aos autos não deixam dúvidas de que Rafael, Leonardo, Nazireu, Flávio e William agiram previamente ajustados e, cada um anuiu à conduta do outro para ameaçar e torturar Diego.
+ ..
+Portanto, inconteste a responsabilidade criminal dos recorrentes, visto que ameaçaram e torturaram a vítima, sendo inafastável sua condenação pela prática dos crimes previstos no artigo 147, do Código Penal e no artigo 1º, inciso I, alínea "a", §4º, inciso III da Lei nº 9.455/97.
+A dosimetria tampouco merece reparos.
+Na primeira fase, foram considerados os maus antecedentes dos réus FLÁVIO (fls. 637/644), WILLIAM (fls. 648/650) e RAFAEL (fls. 651/658) e, assim, as penas-base foram fixadas acima do mínimo legal, partindo de 01 (um) mês e 05 (cinco) dias de detenção para o delito do artigo 147, do Código Penal e de 02 (dois) anos e 04 (quatro) meses de reclusão para o delito do art. 1º, inciso I, alínea "a" da Lei nº 9.455/97
+ ..
+Na segunda fase, diante da reincidência de FLÁVIO, WILLIAM e RAFAEL, as reprimendas foram acrescidas de 1/6, perfazendo 01 (um) mês e 10 (dez) dias de detenção para o delito do artigo 147, do Código Penal e 02 (dois) anos e 08 (oito) meses e 20 (vinte) dias de reclusão para o delito do artigo 1º, inciso I, alínea "a" da Lei nº 9.455/97.
+ ..
+Na derradeira etapa, bem aplicada a causa de aumento do crime de tortura pela privação de liberdade (§4º, inciso III da Lei nº 9.455/97), justificando-se a fração de 1/6, em razão do reduzido período da privação.
+As reprimendas, assim, alcançam 01 (um) mês e 10 (dez) dias de detenção para o delito do art. 147, do Código Penal e 03 (três) anos, 02 (dois) meses e 03 (três) dias de reclusão para o delito do artigo 1º, inciso I, alínea "a" da Lei nº 9.455/97, para os corréus FLÁVIO, WILLIAM e RAFAEL; e 01 (um) mês e 05 (cinco) dias de detenção para o delito do artigo 147, do Código Penal e 02 (dois) anos e 04 (quatro) meses de reclusão para o delito do artigo 1º, inciso I, alínea "a" da Lei nº 9.455/97, para os corréus NAZIREU e LEONARDO.
+Diante dos maus antecedentes e reincidência dos réus FLÁVIO, WILLIAM e RAFAEL, bem anotado o regime inicial semiaberto, nos termos do artigo 33, §2º, alínea "b", do Código Penal.
+ ..
+Inviável a substituição das penas privativas de liberdade por restritivas de direitos, em razão dos crimes terem sido cometidos com violência e grave ameaça.
+ ..
+É pacífico o entendimento desta Corte Superior de ser inviável em sede de habeas corpus a apreciação de alegações que buscam a absolvição ou desclassificação de crime, devido a necessidade de revolvimento do acervo fático-probatório.
+Colaciono (grifamos):
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E PORTE ILEGAL DE ARMA DE FOGO. PLEITO DE ABSOLVIÇÃO. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. DOSIMETRIA. PENA-BASE. MAJORAÇÃO PELO ART. 42 DA LEI N. 11.343/2006. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus não se presta à apreciação de alegações que buscam a absolvição ou desclassificação de crime, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+ ..
+(AgRg no HC n. 908.851/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO DE ENERGIA ELÉTRICA. DESCLASSIFICIAÇÃO PARA ESTELIONATO. IMPROPRIEDADE DA VIA ELEITA. FRAUDE UTILIZADA PARA BURLAR A VIGILÂNCIA A VÍTIMA. AGRAVO DESPROVIDO.
+1. O habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória. A modificação do julgado, a fim de acolher a tese da defesa e desclassificar o delito para estelionato, exigiria revolvimento do conjunto fático-probatório dos autos, incabível na via eleita.
+ ..
+(AgRg no HC n. 917.080/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+O regime prisional semiaberto foi mantido pelo Tribunal de origem considerando os maus antecedentes e reincidência do paciente. Portanto, em compasso com a jurisprudência do STJ.
+Confira (grifamos) :
+EMENTA AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO TENTADO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. REGIME INICIAL DE CUMPRIMENTO DE PENA. SEMIBERTO. PENA INFERIOR A 4 ANOS DE RECLUSÃO. RÉU REINCIDENTE. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. POSSIBILIDADE. RECURSO NÃO PROVIDO. DECISÃO MANTIDA.
+ ..
+3. Embora a pena aplicada se situe, na hipótese, em patamar inferior a 4 anos de reclusão, é cabível a imposição de regime mais gravoso, ante a reincidência do agente, bem como a existência de circunstância judicial desfavorável (maus antecedentes), mostrando-se viável a fixação do modo semiaberto, nos termos do art. 33, §§ 2º e 3º, do CP. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 2.070.136/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+EMENTA EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EFEITOS INFRINGENTES. RECEBIMENTO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. EMBRIAGUEZ AO VOLANTE E RESISTÊNCIA. REGIME PRISIONAL MAIS GRAVOSO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. INVIABILIDADE. MAUS ANTECEDENTES E
+REINCIDÊNCIA. AGRAVO DESPROVIDO.1. Embargos declaratórios com nítidos intuitos infringentes devem ser recebidos como agravo regimental, em observância ao princípio da fungibilidade recursal.
+2. Consoante a jurisprudência desta Corte Superior, é possível a fixação do regime inicial mais gravoso em virtude dos maus antecedentes e da reincidência em crime doloso.
+3. A despeito de a pena ter sido fixada em 1 ano, 5 meses e 2 dias de detenção, correta a imposição do regime prisional mais gravoso - semiaberto - , em razão dos maus antecedentes e da reincidência, nos termos dos arts. 33 e 59 do Código Penal, sendo também descabida a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44 do Código Penal.4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no HC n. 896.777/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 6/8/2024, DJe de 8/8/2024.)
+Examinados os autos, verifico a inexistência de ilegalidade no aresto, que se encontra em consonância com o entendimento desta Corte Superior.
+Ante o exposto, conheço parcialmente e, na parte conhecida, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
