@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul assim ementado:
+" APELAÇÃO - AÇÃO REVISIONAL - CONTRATO DE EMPRÉSTIMO DE CRÉDITO PESSOAL - AUSÊNCIA DE JUNTADA DE CONTRATO PELA INSTITUIÇÃO BANCÁRIA - ADEQUAÇÃO DOS JUROS À TAXA MÉDIA DO BANCO CENTRAL - SENTENÇA DENTRO DOS LIMITES DA LEI APLICÁVEL AO CASO. RECURSO IMPROVIDO. I) De acordo com o entendimento jurisprudencial, a taxa média de mercado divulgada pelo Banco Central deve servir como parâmetro, e não como teto máximo, para verificação de abusividade dos juros remuneratórios. - Não havendo contrato nos autos, deve ser aplicada a taxa média do banco central para verificar os índices de juros. II) Recurso improvido."
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte agravante alegou violação dos arts. 421 do CC; e 927 do CPC/2015; e 51, § 1º, do CDC, defendendo a impossibilidade de revisão contratual tão somente pela taxa média do Banco Central, inexistindo abusividade no caso dos autos, em conformidade com as circunstâncias envolvidas na espécie.
+É o relatório. Decido.
+Nos termos da Súmula 530/STJ, "nos contratos bancários, na impossibilidade de comprovar a taxa de juros efetivamente contratada - por ausência de pactuação ou pela falta de juntada do instrumento aos autos -, aplica-se a taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor" (SEGUNDA SEÇÃO, julgado em 13/05/2015, DJe 18/05/2015).
+No caso dos autos, o Tribunal de origem confirmou a necessidade de aplicação da taxa média de juros aplicada para contratações da mesma espécie, com fundamento na Súmula 530/STJ, ante a ausência de juntada do contrato aos autos, tornando inviável o exame das peculiaridades envolvidas no negócio (e-STJ, fls. 403-404):
+"Note-se que no caso em concreto o banco sequer trouxe aos autos o contrato objeto da lide, fls. 216, veja-se:
+(..)
+Portanto, não havendo contrato para fins de análise das taxas efetivamente contratadas, em observância à Súmula 530 do STJ, e também por se tratar de relação de consumo (onde as cláusulas devem ser interpretadas em favor do consumidor), inarredável a limitação taxa média de mercado para fins de cobrança, como o fez o juiz "a quo", não havendo respaldo legal quanto ao pedido de fixação no dobro ou triplo do valor da taxa média."
+Entretanto, como visto, o aludido motivo não foi impugnado nas razões de recurso especial, que se limitaram a defender a impossibilidade de aplicação da taxa média de mercado sem a consideração das circunstâncias da contratação, motivo pelo qual é inviável o conhecimento da pretensão recursal, nos termos da Súmula 283/STF.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos pela parte recorrente de R$ 3.500,00 (três mil e quinhentos reais) para R$ 3.850,00 (três mil, oitocentos e cinquenta reais).
+Publique-se.
+EMENTA
