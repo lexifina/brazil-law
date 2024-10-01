@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+"Agravo de instrumento. Liquidação de sentença. Decisão homologatória de laudo pericial. Alegação de omissão.
+Ocorrência. Fundamentação insuficiente. Decisão cassada." (fl. 89)
+O recorrente aponta ofensa aos arts. 489, §1º, IV, 1.022, II, 223, 1.000, §1º e 291 do CPC/15.
+Alega, em síntese, (a) o Tribunal de origem deixou de enfrentar os seguintes argumentos (i) inexistência de valores controvertidos na liquidação de sentença; (ii) prática de ato incompatível com a vontade de recorrer; e (iii) preclusão, pois os recorridos não impugnaram a sentença que extinguiu o cumprimento de sentença e (b) ao levantar o valor integral da condenação sem impugná-lo, os recorridos concordaram com o valor fixado na liquidação.
+Contrarrazões às fls. 219/227.
+É o relatório.
+Em acórdão suficientemente fundamentado, o eg. TJDFT apontou que
+"A atitude dos credores de dar continuidade ao processo originário não é incompatível com a vontade de recorrer, pois se ativeram a dar impulso ao feito executivo, ao mesmo tempo em que mantiveram a discussão acerca da quantificação da dívida." (fl. 92)
+Por fim, deu provimento ao agravo de instrumento para cassar a decisão que extinguiu a execução, em razão da deficiência da fundamentação, nestes termos:
+"(..) provejo o agravo de instrumento para cassar a decisão objurgada, determinando que outra seja proferida em seu lugar, com resposta aos itens enumerados neste voto como omitidos." (fl. 97)
+Quanto à questão de fundo, a alegação de que os exequentes concordaram com o valor depositado pelo banco em juízo está dissociada da realidade dos autos. Conforme se lê no acórdão recorrido, os exequentes, no momento próprio, insurgiram-se contra a conclusão do perito, a respeito do valor do crédito, bem como interpuseram o agravo de instrumento em face da decisão de 1º grau que homologara o laudo contábil.
+Não se observa, portanto, a prática, pelos exequentes, de ato incompatível com a vontade de recorrer, nem a aceitação - ainda que tácita - da decisão de 2º grau, razão por que deve ser mantido o acórdão de 2º grau. Nesse sentido:
+PROCESSO CIVIL. EXECUÇÃO. RENÚNCIA AO DIREITO DE CRÉDITO. EXTINÇÃO DO PROCESSO. IMPOSSIBILIDADE DE PRESUNÇÃO. IMPRESCINDIBILIDADE DE RENÚNCIA INEQUÍVOCA AO DIREITO MATERIAL.
+1. Embargos de divergência que gravitam em torno da possibilidade de extinção do crédito por força de renúncia tácita inferida de omissão da prática de ato após intimação do credor.
+2. A renúncia ao direito é o ato unilateral com que o autor dispõe do direito subjetivo material que afirmara ter, importando a extinção da própria relação de direito material que dava causa à execução forçada, consubstanciando instituto bem mais amplo que a desistência da ação, que opera tão-somente a extinção do processo sem resolução do mérito, permanecendo íntegro o direito material, que poderá ser objeto de nova ação a posteriori.
+3. A doutrina acerca da renúncia ao direito em que se funda a ação assenta, in verbis: "A parte pode renunciar à ação, figura que recebe o nome de "desistência", ou renunciar ao "próprio direito material", objeto mediato do pedido. Nessa hipótese, a manifestação não é meramente formal, senão atinge a própria pretensão, abdicando a parte do direito que lhe pertence para não mais reclamá-lo. Opera-se, assim, a extinção com julgamento de mérito porque a parte que renuncia despoja-se de seu direito material e a eficácia da coisa julgada material é plena, sendo defeso discutir novamente em juízo acerca daquela pretensão. Em face dessa relevante diferença, cumpre ao juiz verificar com exatidão e de forma inequívoca a real intenção da parte, abrindo nova oportunidade processual, se necessário, para os devidos esclarecimentos do alcance desse ato de disponibilidade processual."
+(Curso de Direito Processual Civil. Rio de Janeiro, Forense, 2001, p. 420/421)
+3. Sob esse enfoque, a renúncia há de ser inequívoca, não se admitindo sua presunção, por isso que, in casu, a inércia da recorrente em manifestar-se acerca do valor já levantado, após intimação judicial, não é fundamento para extrair-se a presunção de que houve renúncia a eventual crédito, o que poderá ser requerido a posteriori. (Precedentes: REsp 986.296/RJ, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 27/05/2008, DJe 23/06/2008; REsp 544.522/DF, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 17/04/2008, DJe 09/05/2008; REsp 535061/PR, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, julgado em 02/02/2006, DJ 20/02/2006; REsp 43.911/SP, Rel. Ministro DEMÓCRITO REINALDO, PRIMEIRA TURMA, julgado em 25/05/1994, DJ 20/06/1994; REsp 21.662/SP, Rel. Min. HUMBERTO GOMES DE BARROS, DJU de 16.11.1992).
+4. Em consonância com doutrina abalizada, in verbis:
+ Satisfeito o direito do credor, porque cumprida a prestação pela qual o devedor é executado, ou renunciando o credor ao seu crédito, obviamente, tendo ali a ação de execução atingido o seu objetivo e aqui perdido a sua finalidade, extinguem-se a ação e o respectivo processo.
+Poderá a renúncia efetivar-se por termos nos autos ou por instrumento público ou particular, tendo nesse caso que ser levada a conhecimento do juiz, acompanhada de instrumento que a comprove.
+(Moacyr Amaral Santos, in Primeiras Linhas de Direito Processual Civil, Saraiva, 3º vol. 18ª ed, págs. 475/476).
+5. Embargos de divergência providos.
+(EREsp n. 356.915/RS, relator Ministro Luiz Fux, Primeira Seção, julgado em 22/4/2009, DJe de 11/5/2009.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
