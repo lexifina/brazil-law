@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS), com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fl. 276):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ART. 29-C DA LEI 8.213/91. INCIDÊNCIA. PREENCHIMENTO DOS REQUISITOS LEGAIS PARA A CONCESSÃO. DIB. REQUERIMENTO ADMINISTRATIVO. APELAÇÃO PROVIDA.
+1. Apelação interposta pelo Particular em face da sentença que julgou parcialmente procedente os pedidos formulados na inicial, para condenar o INSS a conceder aposentadoria por tempo de contribuição em favor da parte autora, a partir da data do requerimento administrativo (16/12/2020), e ao pagamento das parcelas devidas, acrescidas de correção monetária pelo INPC e com a incidência de juros de mora, de acordo com a caderneta de poupança, desde a citação até 08/12/2021, e a partir de então atualizado e remunerado exclusivamente pela taxa Selic, nos termos do art. 3º da EC nº 113/21, em valor a ser apurado em liquidação de sentença, tendo sido antecipados os efeitos da tutela, para implantação do benefício, no prazo de 15 (quinze) dias a partir da intimação da sentença. Condeno o INSS em honorários advocatícios no percentual de 10% (dez por cento) do valor da condenação.
+2. O Autor requer a reforma da sentença, na parte que não considerou o período de contribuinte individual. Aduz que as decisões que fundamentaram a sentença são no sentindo de concessão de Aposentadoria por Idade, e não de Aposentadoria por Tempo de Contribuição, não havendo impedimento ao cômputo do tempo de contribuinte individual pago com atraso, porque não se trata de carência, mas de contagem do tempo de contribuição. Afirma que a regra restritiva do art. 27, da Lei nº 8.213/91, se refere somente ao cômputo da contribuição em atraso para carência!
+3. A concessão de aposentadoria por tempo de contribuição é garantida ao segurado que comprove possuir trinta e cinco anos de contribuição, se homem, e trinta anos de contribuição, se mulher, nos termos do disposto no art. 201, parágrafo 7º, inc. I, da Constituição Federal de 1988, com a redação dada pela Emenda Constitucional nº 20/98.
+4. Importa destacar que o art. 27, inciso II, da Lei nº 8.213 /1991, somente veda a contagem das contribuições recolhidas a destempo somente para efeito de carência.
+5. O Autor demonstrou que verteu as contribuições previdenciárias na qualidade de contribuinte individual, por meio das guias de recolhimento pagas, consoante se infere dos documentos de Ids. 4058106.23414920 a 4058106.23414958).
+6. Computados os períodos já reconhecidos como especiais convertidos em comum ao período comum (na condição de contribuinte individual), o Autor faz jus à aposentadoria por tempo de contribuição, sem a aplicação do fator previdenciário, a partir da data do requerimento administrativo (16/12/2020), na forma do art. 29-C da Lei n. 8.213/91, pois somando-se a idade (58 anos) e o tempo de contribuição (mais de 39 anos) até a DER, atinge 97 pontos. Apelação provida.
+Os embargos de declaração opostos foram rejeitados (fls. 308/310).
+Em suas razões recursais (fls. 322/337), a parte recorrente aponta violação dos arts. 1.022, II, do Código de Processo Civil (CPC), 22, II, da Lei 8.212/1991 e 11, V, h, 14, I, parágrafo único, 57, caput, §§ 3º, 4º, 5º, 6º e 7º, e 58, caput, §§ 1º e 2º, da Lei 8.213/1991.
+Defende, em síntese, que:
+(a) houve negativa de prestação jurisdicional;
+(b) deve ser afastado "o reconhecimento da especialidade do trabalho exercido na condição de contribuinte individual não cooperado, no período posterior a edição da Lei 9.032/95" (fl. 336 ).
+A parte adversa não apresentou contrarrazões (fl. 344).
+O recurso foi admitido na origem (fl. 345).
+É o relatório.
+No que importa à controvérsia de que trata o recurso especial, confira-se o seguinte trecho do acórdão recorrido (fl. 275):
+A concessão de aposentadoria por tempo de contribuição é garantida ao segurado que comprove possuir trinta e cinco anos de contribuição, se homem, e trinta anos de contribuição, se mulher, nos termos do disposto no art. 201, § 7º, inc. I, da Constituição Federal de 1988, com a redação dada pela Emenda Constitucional nº 20/98, "in verbis":
+"Art. 201. A previdência social será organizada sob a forma de regime geral, de caráter contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio financeiro e atuarial, e atenderá, nos termos da lei, a: (Redação dada pela Emenda Constitucional nº 20, de 1998)
+(..)
+§ 7º É assegurada aposentadoria no regime geral de previdência social, os termos da lei, obedecidas as seguintes condições: (Redação dada pela Emenda Constitucional nº 20, de 1998)
+I - trinta e cinco anos de contribuição, se homem, e trinta anos de contribuição, se mulher;(Incluído dada pela Emenda Constitucional nº 20, de 1998)
+II - sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher, reduzido em cinco anos o limite para os trabalhadores rurais de ambos os sexos e para os que exerçam suas atividades em regime de economia familiar, nestes incluídos o produtor rural, o garimpeiro e o pescador artesanal. (Incluído dada pela Emenda Constitucional nº 20, de 1998)
+(..)."
+Importa destacar que o art. 27, inciso II, da Lei nº 8.213 /1991, somente veda a contagem das contribuições recolhidas a destempo somente para efeito de carência.
+In casu, o Demandante demonstrou que verteu as contribuições previdenciárias na qualidade de contribuinte individual, por meio das guias de recolhimento pagas, consoante se infere dos CNIS de Ids. 4058000.10815807 e 4058000.10815808.
+Portanto, computados os períodos já reconhecidos como especiais convertidos em comum ao período comum (na condição de contribuinte individual), o Autor faz jus à aposentadoria por tempo de contribuição, sem a aplicação do fator previdenciário, a partir da data do requerimento administrativo (16/12/2020), na forma do art. 29-C da Lei n. 8.213/91, pois somando-se a idade (58 anos) e o tempo de contribuição (mais de 39 anos), até a DER, atinge 97 pontos.
+Esforçado nessas razões, dou provimento à Apelação.
+A parte recorrente opôs embargos de declaração a fim de provocar a Corte de origem a se manifestar sobre à impossibilidade "do cômputo do tempo de serviço especial, na condição de contribuinte individual, após a edição da Lei 9.032/95" (fl. 296). Entretanto, o Tribunal a quo rejeitou o recurso integrativo, sem apreciar o questionamento a ele feito, nestes termos (fl. 308):
+Mesmo para fins de prequestionamento, os Embargos de Declaração não dispensam a presença dos requisitos de admissibilidade a que alude o artigo 1.022, do CPC, quais sejam: a omissão, a obscuridade, contradição ou erro material.
+Não houve qualquer omissão, obscuridade, contradição ou mesmo erro material no acórdão combatido.
+É que o aresto vergastado foi claro em seus fundamentos, tendo se pronunciado sobre todos os pontos que foram colocados em discussão.
+Entendeu a c. Terceira Turma que o Autor faz jus à aposentadoria por tempo de contribuição na data do requerimento administrativo, na forma do art. 29-C da Lei n. 8.213/91, pois somando-se a idade (58 anos) e o tempo de contribuição (mais de 39 anos), até a DER, atinge 97 pontos.
+Ficou consignado que: "Importa destacar que o art. 27, inciso II, da Lei nº 8.213 /1991, somente veda a contagem das contribuições recolhidas a destempo somente para efeito de carência."
+O Acórdão embargado trouxe, expressamente, que: "In casu, o Demandante demonstrou que verteu as contribuições previdenciárias na qualidade de contribuinte individual, por meio das guias de recolhimento pagas, consoante se infere dos CNIS de Ids. 4058000.10815807 e 4058000.10815808."
+Na realidade, a parte embargante, inconformada com a decisão desta e. Terceira Turma, pretende a alteração do julgado, tentando forçar o reexame de questão sobre o qual já houve manifestação judicial.
+Em toda sua explanação, ela afirma a existência de falhas no julgado, demonstrando seu inconformismo com a decisão atacada, o que se mostra incabível em sede de Embargos, dada a sua natureza declaratória.
+Esclareça-se, por oportuno, que mesmo para fins de prequestionamento, não são admissíveis Embargos de Declaração com o notório propósito de rediscutir questões efetivamente apreciadas no acórdão recorrido.
+Portanto, as insurgências do Embargante não encontram guarida.
+Verifico a existência de omissão no julgado, uma vez que não foi efetivamente apreciada pela Corte de origem a tese levantada nos embargos de declaração opostos.
+O acolhimento da pretensão recursal é devido ante a ocorrência de violação ao art. 1.022 do Código de Processo Civil.
+Os autos devem retornar à origem para que seja sanado o vício apontado nos embargos de declaração por meio de novo julgamento do recurso, com manifestação expressa a respeito da questão não apreciada.
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão proferido em embargos de declaração; determino a devolução dos autos ao Tribunal de origem para que seja proferido novo julgamento com o saneamento do vício apontado.
+Publique-se. Intimem-se.
+EMENTA
