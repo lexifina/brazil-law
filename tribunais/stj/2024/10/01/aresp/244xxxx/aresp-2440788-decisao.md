@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL SA em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+"EMENTA: Agravo de instrumento. Ação de execução. Cumprimento de sentença. Laudo pericial. Impugnação genérica e desprovida de provas robustas. Homologação.
+Não verificadas irregularidades no cálculo do perito contábil, auxiliar do juízo de origem e equidistante das partes. Constatando-se que os cálculos estão de acordo com os parâmetros delineados na coisa julgada formada, sendo o desabono do agravante genérico e desprovido de provas robustas, outra não haveria de ser a medida adotada senão a homologação do laudo pericial, conforme realizado no juízo singular.
+Agravo de instrumento conhecido e desprovido." (e-STJ fls. 50)
+Nas razões do recurso especial, a recorrente alega violação aos arts. 494, I, 503, caput, 505 e 529, § 4º, do CPC, sustentando, em síntese que o Contador do Juízo adotou metodologia de atualização diferente da metodologia SAC, conforme expresso no título executivo, o que gera evidente violação da coisa julgada.
+É o relatório. Decido.
+No que se refere à tese de violação da coisa julgada, por ter o Contador do Juízo adotado metodologia de atualização diferente da metodologia SAC, conforme expresso no título executivo, a Corte de origem assim decidiu:
+"Apesar das arguições dispendidas pelo agravante, a fim de afastar os cálculos apresentados pelo perito contábil nomeado pelo juízo, não resta comprovada nenhuma irregularidade nestes, sendo claro que, ao contrário do que quer fazer entender o recorrente, os referidos cálculos estão devidamente alicerçados na decisão definitiva de mérito (movimentação 3-pg. 570/576 PDF - processo originário).
+O perito contábil recalculou todo o valor devido, utilizando a aplicação de juros remuneratórios, sem a devida correção, IGPM acrescido de 0,5% de juros ao mês, em período de normalidade, e IGPM acrescido de 2,5% de juros ao mês em período de inadimplência.
+Verifica-se que, ao responder os questionamentos acerca dos cálculos apresentados, o perito judicial informou ser impraticável o sistema SAC, pois a operação encontra-se vencida (mov. 58-processo originário). Esclareceu que o sistema de recálculo foi semelhante ao Sistema SAC, conforme sugerido na sentença.
+Por óbvio, reforça-se, o cálculo apresentado pelo perito contábil nomeado pelo juízo está de acordo com o parâmetro delimitado pela coisa julgada formada, não tendo o recorrente apresentado documentos ou justificativas suficientes para embasar a alegada inadequação dos cálculos, razão pela qual deve ser rejeitada a impugnação apresentada.
+Como se sabe, os cálculos elaborados por perito contábil judicial são dotados de credibilidade e de presunção de veracidade juris tantum, de modo que, para sua refutação, necessária a apresentação de provas robustas, o que, frisa-se, não se observa na espécie." (e-STJ fls. 55)
+Contudo, tal fundamento - inexequibilidade do título pelo método SAC - , autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Neste sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA DAS RAZÕES DO ACÓRDÃO ESTADUAL. INCIDÊNCIA DO VERBETE Nº 283/STF.EXECUÇÃO. CÉDULA RURAL. ARGUIÇÃO DE EXCESSO DE COBRANÇA. ANÁLISE. SÚMULAS 5 E 7/STJ.
+1. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplica-se, por analogia, o óbice da Súmula nº 283, do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 687.997/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/11/2018, DJe 13/11/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE COLETIVO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO ATACADOS. SÚMULA 283/STF. RESCISÃO UNILATERAL. BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Não obstante o plano de saúde coletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência e/ou incolumidade física, como no caso em apreço, no qual a segurada diagnosticada com câncer se encontra em tratamento oncológico.
+3. Agravo interno não provido.
+(AgInt no AREsp 1298878/SP, relator Ministro Raul Araújo, QUARTA TURMA, julgado em 23/10/2018, DJe 31/10/2018)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
