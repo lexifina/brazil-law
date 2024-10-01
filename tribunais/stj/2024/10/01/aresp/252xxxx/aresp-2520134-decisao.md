@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por TRATENGE ENGENHARIA LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - INSTRUMENTO DE CONFISSÃO DE DÍVIDA - TITULO EXECUTIVO EXTRAJUDICIAL - REQUISITOS PREENCHIDOS - PAGAMENTO PARCIAL DA DÍVIDA - RECONHECIMENTO - HIGIDEZ DA EXECUÇÃO. - O inc. III do art. 784 do Código de Processo Civil exige, para que o documento particular seja considerado título executivo, a assinatura do devedor, bem como a firma de duas testemunhas. - Estando o instrumento de confissão de dívida em questão formalizado com as respectivas assinaturas legalmente exigidas, o preenchimento destes requisitos já é suficiente para instruir o feito executivo. - O pagamento parcial do débito não se mostra capaz de afastar a liquidez do contrato, o qual traz em seu bojo o valor total da dívida, impondo, apenas, a necessidade de recálculo do débito" (e-STJ fl. 229).
+No recurso especial, a recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 5º, II e LV, da Constituição Federal e arts. 369 e 370 do CPC por nulidade da sentença e do acordão por cerceamento de defesa, assim como alega a necessidade da produção de prova pericial; e
+(ii) arts. 783, 796 e 803, I, do CPC por inexistência de prova capaz de instruir a execução.
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+De início, observe-se que compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+No que se refere à produção de prova pericial e à inexistência de prova capaz de instruir a execução, as conclusões do tribunal de origem decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode aferir da leitura dos fundamentos do julgado atacado, ora colacionados na parte que interessa:
+"Desse modo, tendo em vista que o título se baseia em instrumento de confissão de dívida cujo pagamento parcial inclusive já ocorreu, entendo, assim como o magistrado, mostrar-se desnecessária na hipótese a realização de prova pericial, cujo indeferimento não constituiu cerceamento de defesa.
+(..)
+É bem verdade que o inc. III do art. 784 do Código de Processo Civil exige, para que o documento particular seja considerado título executivo, a assinatura do devedor, bem como a firma de duas testemunhas. E, na hipótese, além de estar o instrumento de confissão de dívida em questão formalizado com as respectivas assinaturas legalmente exigidas (ordem de nº5), o que, por si só, já é suficiente para instruir o feito executivo, houve o pagamento parcial da dívida pelo embargante, fato este que leva à conclusão inexorável de que a dívida representada pelo contrato é certa e exigível.
+Mas a mais, não há se falar em nulidade da execução, em razão da alegada iliquidez do título executivo, por não terem sido abatidos do valor cobrado os pagamentos já realizados, eis que o pagamento parcial do débito não se mostra capaz de afastar a liquidez do contrato, o qual traz em seu bojo o valor total da dívida, impondo, apenas, a necessidade de recálculo do débito. " (e-STJ fls. 231/232).
+Nesse contexto, não há como afastar a incidência da Súmula nº 7/STJ, visto que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita.
+Por fim, quanto à divergência jurisprudencial, o recurso não merece conhecimento, pois, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie. Não basta a simples transcrição de ementas e de parte dos votos sem que seja realizado o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Ademais, conforme iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor atualizado da execução, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil.
+Publique-se.
+Intimem-se.
+EMENTA
