@@ -1,0 +1,92 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000300-45.2024.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TELEFONICA BRASIL S.A.
+RECORRIDO: ADALINE BARBOSA FRANCISCO RICARTE
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5000300-45.2024.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TELEFONICA BRASIL S.A.
+RECORRIDO: ADALINE BARBOSA FRANCISCO RICARTE
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Conheço do recurso, eis que se encontram preenchidos os requisitos de admissibilidade, recebendo-o, apenas, em seu efeito devolutivo, eis que ausentes quaisquer das hipóteses que justifiquem a concessão do efeito suspensivo previsto no art. 43 da lei nº 9.099/95.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. RESPONSABILIDADE OBJETIVA. FALHA NA PRESTAÇÃO DE SERVIÇO. CONFIGURADA. DOCUMENTOS UNILATERAIS E FRÁGEIS. DANO MORAL. SENTENÇA MANTIDA. (1). TESE AUTORAL.
+
+ALEGOU, A PARTE AUTORA, EM SÍNTESE, QUE É CLIENTE DA REQUERIDA, TENDO UM CONTRATO DE PRESTAÇÃO DE TELEFONIA MÓVEL REFERENTE A UM PLANO NO VALOR DE R$59,90 (CINQUENTA E NOVE REAIS E NOVENTA CENTAVOS). ADUZIU QUE, NO DIA 11 DE OUTUBRO DE 2023, DEPOIS DAS 14 HORAS DA TARDE, O SERVIÇO FICOU INOPERANTE, FICANDO A AUTORA IMPEDIDA DE REALIZAR CHAMADAS. POR ESTE MOTIVO, DECLAROU QUE POR VÁRIAS VEZES SE DIRIGIU ATÉ A LOJA DA REQUERIDA PARA TENTAR ENTENDER O QUE ESTAVA ACONTECENDO. ASSIM, APÓS ALGUMAS TENTATIVAS PARA SOLUCIONAR O PROBLEMA, A AUTORA RECEBEU UMA MENSAGEM DE UM FUNCIONÁRIO DA REQUERIDA, FUNCIONÁRIO ESTE QUE ATENDEU A REQUERENTE EM TODAS AS OCASIÕES EM QUE A AUTORA SE DIRIGIU ATÉ O ESTABELECIMENTO DA EMPRESA RÉ BUSCANDO RESPOSTAS. DESSE MODO, O ATENDENTE INFORMOU QUE O NÚMERO DA AUTORA ESTAVA REGULAR NO SISTEMA DA VIVO, PORÉM, CONSTAVA O PLANO COMO SENDO PRÉ PAGO E, CASO ELA QUISESSE COLOCAR OUTRO PLANO, DEVERIA PROCURÁ-LOS NOVAMENTE, BEM COMO INFORMOU QUE O SUPORTE TÉCNICO NÃO CONSEGUIRIA COLOCAR O MESMO PLANO QUE O NÚMERO JÁ POSSUÍA. DIANTE DOS FATOS NARRADOS, A PARTE AUTORA ALEGA QUE NÃO VIU OUTRA ALTERNATIVA A NÃO SER BUSCAR O JUDICIÁRIO PARA SOLUCIONAR O LITÍGIO, TENDO EM VISTA QUE NÃO OBTEVE ÊXITO DE FORMA ADMINISTRATIVA.
+(2). ANTÍTESE.
+EM SEDE DE
+
+CONTESTAÇÃO A TELEFÔNICA BRASIL S.A AFIRMOU, PRELIMINARMENTE, A INÉPCIA DA INICIAL. NO MÉRITO DISPÔS QUE NÃO HOUVE FALHA NA PRESTAÇÃO DE SERVIÇOS, AUSÊNCIA DE DANO MORAL, ALÉM DO PEDIDO CONTRAPOSTO.
+(3). DISPOSITIVO DA SENTENÇA.
+“
+Dessa forma,
+JULGO PROCEDENTE EM PARTE
+os pedidos iniciais, resolvendo o processo com resolução de mérito, nos termos do art. 487, I, do Código de Processo Civil, para
+RATIFICAR
+a decisão de ID n° 36427665 e
+CONDENAR
+a requerida, ao pagamento de indenização por danos morais, no importe de R$ 6.000,00 (seis mil reais), corrigido monetariamente desde a data do arbitramento pelo índice da Corregedoria local (CGJES), e com juros de mora de 1% ao mês a partir da citação.
+”.
+
+(4). RECURSO DA PARTE RÉ.
+EM SÍNTESE, REQUEREU O PROVIMENTO DO RECURSO E A REFORMA DA SENTENÇA, COM A IMPROCEDÊNCIA DOS PEDIDOS AUTORAIS.
+(5). CONTRARRAZÕES DO RECORRIDO.
+REQUER, EM SUMA, SEJA NEGADO PROVIMENTO AO RECURSO INTERPOSTO PELO RECORRENTE.
+(6). DO MÉRITO.
+NO MÉRITO, DESTACO QUE SE APLICAM À PRESENTE DEMANDA AS DISPOSIÇÕES ESTABELECIDAS PELO CÓDIGO DE DEFESA DO CONSUMIDOR, PORQUANTO AS PARTES SE ENQUADRAM PERFEITAMENTE NOS CONCEITOS EXARADOS PELOS ARTS. 2º E 3º DO REFERIDO DIPLOMA. TRATANDO-SE DE RELAÇÃO DE CONSUMO, IMPENDE DESTACAR QUE TODOS INTEGRANTES DA CADEIA DE FORNECIMENTO DE SERVIÇOS RESPONDEM PELOS VÍCIOS PORVENTURA PRESENTES DE FORMA OBJETIVA.
+OUTROSSIM,
+DE ACORDO COM O CÓDIGO DE DEFESA DO CONSUMIDOR, O FORNECEDOR DE PRODUTOS OU SERVIÇOS POSSUI RESPONSABILIDADE OBJETIVA (ARTS. 12 E 14), OU SEJA, DEVE RESPONDER POR PREJUÍZOS CAUSADOS A TERCEIROS INDEPENDENTEMENTE DA EXISTÊNCIA DE CULPA. ASSIM, EM CASO DE REPARAÇÃO DE DANO, CABE AO CONSUMIDOR DEMONSTRAR O DEFEITO DO PRODUTO OU SERVIÇO, O PREJUÍZO SOFRIDO E O NEXO DE CAUSALIDADE ENTRE ELES. POIS BEM. APÓS ANÁLISE DA DOCUMENTAÇÃO ACOSTADA NOS AUTOS, ENTENDO QUE NÃO ASSISTE RAZÃO AO RECORRENTE. EM PRIMEIRO LUGAR, DEVE-SE ESCLARECER QUE
+A CONTROVÉRSIA DIZ RESPEITO À IRRESIGNAÇÃO AUTORAL SOBRE FALHA NA PRESTAÇÃO DE INFORMAÇÕES E DE SERVIÇO. OBSERVA-SE QUE A RECORRIDA BUSCOU SOLUCIONAR A CONTROVÉRSIA ADMINISTRATIVAMENTE (ID 36229914 E ID 36229917) E HAVIA SIDO INFORMADO À AUTORA A REGULARIDADE DA REFERIDA LINHA (ID 36229921), BEM COMO O COMPROVANTE DE INEXISTÊNCIA DE DÉBITO RELACIONADO À LINHA DA PARTE AUTORA (ID 36229925). NO ENTANTO, A RECORRENTE ADUZ QUE A PARTE AUTORA NÃO ARCOU COM A CONTRAPRESTAÇÃO PECUNIÁRIA CORRESPONDENTE ÀS FATURAS EMITIDAS PELA PRESTAÇÃO DOS SERVIÇOS, GERANDO O DÉBITO DE R$ 114,39 (CENTO E QUATORZE REAIS E TRINTA E NOVE REAIS). POIS BEM. EM PRIMEIRO LUGAR, É IMPORTANTE ESCLARECER QUE, AS PROVAS JUNTADAS PELA RECORRENTE NÃO SÃO HÁBEIS PARA DESCONSTITUIR A ARGUMENTAÇÃO AUTORAL, TENDO EM VISTA QUE FORAM PRODUZIDAS UNILATERALMENTE, CONSIDERANDO QUE AS INFORMAÇÃO NELAS CONTIDAS SÃO INCOMPATÍVEIS COM OS DEMAIS DOCUMENTOS APRESENTADOS PELA PARTE AUTORA. NESSE SENTIDO,
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS - TELAS SISTÊMICAS - FATURAS MENSAIS - DOCUMENTOS UNILATERAIS E FRÁGEIS A DEMONSTRAR A LEGITIMIDADE DA CONTRATAÇÃO - APONTAMENTO INDEVIDO - DANO MORAL CONFIGURADO. Em se tratando de ação fundada na negativa de contratação, é ônus do réu demonstrar a legitimidade do débito, a teor do disposto no art. 373, II, do CPC.
+A juntada de cópias de telas sistêmicas e faturas mensais, produzidas unilateralmente, sem qualquer outro elemento de prova, não é suficiente para sustentar o alegado pela defesa, ainda mais quando as informações nelas contidas são incompatíveis com os demais documentos apresentados pela parte autora nos autos.
+Demonstrada a fraude na contratação, sendo indevida a inscrição do nome da parte nos órgãos de proteção ao crédito, caracterizado o dano moral, presumido em casos deste jaez. V.v: A insurgência contra os fundamentos da sentença com motivação suficiente repele preliminar de não conhecimento do recurso por ofensa ao princípio da dialeticidade (art. 1.010, II, do CPC). 2. O interesse processual surge da necessidade da parte obter através do processo proteção ao seu interesse substancial, pois a Constituição Federal consagra a garantia de que a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito. 3.
+Em regra, capturas de telas do sistema interno, por si só, não são hábeis para comprovar a contratação de serviços pelo consumidor. No entanto, comprovado nos autos a utilização dos serviços de telefonia e o pagamento de outras faturas pelo consumidor, os pedidos de declaração de inexigibilidade de dívida e de indenização por danos morais devem ser julgados improcedentes
+. 4. Comprovada a relação jurídica contratual entre as partes e demonstrado o inadimplemento do consumidor, não há como declarar a inexistência da dívida que culminou com a negativação restritiva de crédito. 5. A jurisprudência do Superior Tribunal de Justiça é firme "no sentido de que a mera utilização de instrumento processual não configura litigância de má-fé" (STJ, EDcl no AgInt no TP 473/SP).
+(TJMG - Apelação Cível 1.0000.23.104927-1/001, Relator(a): Des.(a) José Flávio de Almeida , Relator(a) para o acórdão: Des.(a) José Augusto Lourenço dos Santos , 12ª CÂMARA CÍVEL, julgamento em 29/09/2023, publicação da súmula em 03/10/2023). OUTROSSIM, NO QUE TANGE ÀS COBRANÇAS DISCUTIDAS NOS AUTOS, ENTENDO QUE SÃO INDEVIDAS, HAJA VISTA QUE O PREPOSTO DA RECORRENTE INFORMOU À PARTE AUTORA QUE SEU NÚMERO ESTAVA REGULAR, INEXISTINDO DÉBITOS EM ABERTO. ALÉM DISSO, O CANCELAMENTO DO PLANO OCORREU SEM QUE HOUVESSE ANUÊNCIA DA RECORRIDA. ASSIM, ENTENDO QUE HOUVE FALHA NA PRESTAÇÃO DE SERVIÇOS PELA RECORRENTE E, POR ESSA RAZÃO, A SENTENÇA DEVE SER MANTIDA NESSE ASPECTO. NOTADAMENTE, NÃO HÁ SE FALAR EM MERO DISSABOR, VISLUMBRANDO-SE, PORTANTO, AFRONTA À PERSONALIDADE, PRESCINDINDO DE COMPROVAÇÃO DE PREJUÍZO, JÁ QUE DECORRENTE DO PRÓPRIO ATO ILÍCITO. OS FATOS DEMONSTRAM A INSENSIBILIDADE E O DESRESPEITO DA RECORRENTE COM O CONSUMIDOR, GERANDO SENTIMENTOS DE CONSTRANGIMENTO, IMPOTÊNCIA E ANGÚSTIA. DECERTO, EMBORA NÃO SEJA POSSÍVEL AO JUIZ ADENTRAR NO ÍNTIMO DO OFENDIDO A FIM DE INVESTIGAR AS REPERCUSSÕES PSÍQUICAS QUE O FATO ILÍCITO POSSA LHE TER CAUSADO, É POSSÍVEL DEDUZIR DAS CIRCUNSTÂNCIAS EXTERNAS A OCORRÊNCIA DO DANO IMATERIAL, E ISTO COM VISTAS ÀS REGRAS DE EXPERIÊNCIA COMUM. DE ACORDO COM O
+ENUNCIADO Nº 32
+DAS TURMAS RECURSAIS, A REVISÃO DOS VALORES DO DANO MORAL EM SEDE DE RECURSO INOMINADO ESTARÁ AUTORIZADA QUANDO CONSTATADO QUE O MONTANTE FIXADO EM SENTENÇA É EXORBITANTE OU IRRISÓRIO.
+ASSIM SENDO, ENTENDO QUE O VALOR DA INDENIZAÇÃO DEVE SER MANTIDO, A TÍTULO DE INDENIZAÇÃO POR DANO MORAL, TENDO EM VISTA MOSTRAR-SE COMPATÍVEL COM AS CIRCUNSTÂNCIAS DO CASO, ATENDENDO AOS PRINCÍPIOS DA RAZOABILIDADE. DIANTE DESSAS CONSIDERAÇÕES, ENTENDO QUE A SENTENÇA DE PISO DEVE SER MANTIDA.
+(7).
+RECURSO CONHECIDO E IMPROVIDO
+. SENTENÇA DE PISO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95. (8).
+POR FORÇA DA SUCUMBÊNCIA RECURSAL, CUSTAS PROCESSUAIS DEVIDAS, ASSIM COMO OS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 20% SOBRE A CONDENAÇÃO.
+
+ISABELA GONÇALVES ADRIANO
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator
+Dr. FELIPE LEITÃO GOMES
+– Nos termos da Resolução TJES nº 12/2020, HOMOLOGO a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
