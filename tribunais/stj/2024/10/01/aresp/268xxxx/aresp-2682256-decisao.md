@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por ASUN COMERCIO DE GENEROS ALIMENTÍCIOS LTDA. contra decisão de inadmissibilidade de recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+MANDADO DE SEGURANÇA. ALÍQUOTAS DA CONTRIBUIÇÃO AO PIS E DA COFINS SOBRE RECEITAS FINANCEIRAS. DECRETO Nº 11.322, DE 30-12-2022. DECRETO Nº 11.374, DE 01-01-2023. INEXISTÊNCIA DE MAJORAÇÃO DE CARGA TRIBUTÁRIA. PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL. NÃO APLICAÇÃO. O Decreto nº 11.374/2023 não pode ser equiparado a instituição ou aumento de tributo e, por isso, não viola os princípios da segurança jurídica e da não surpresa, na medida em que o contribuinte já experimentava, desde 2015, a incidência das alíquotas de 0,65% e 4%. Entendimento em consonância com a decisão liminar proferida na Ação Declaratória de Constitucionalidade 84/DF.
+Os embargos declaratórios opostos pela agravante foram rejeitados.
+Em suas razões, a agravante aponta violação dos arts. 489, § 1º, V e VI, 926, 927, 985, I e II e 1.039 do CPC/2015, bem como dissídio jurisprudencial.
+Alega a necessidade de uniformização da jurisprudência e de manutenção de sua estabilidade, integridade e coerência. Afirma que não há de se falar em precedente vinculante e argumenta que "ao deixar de apreciar o mérito da controvérsia sob a justificativa de que a decisão liminar proferida na ADC nº 84 pelo Supremo Tribunal Federal possui caráter vinculante, o TRF4 violou os artigos 926, 927, 489, § 1º, V e VI, 985, I e II e 1.039, todos do Código de Processo Civil" (e-STJ fl. 220).
+Diz, ainda, que ao violar tais dispositivos infraconstitucionais, o acórdão acaba por confirmar a violação ao princípio da anterioridade nonagesimal e reforça que é indiscutível que a revogação da redução das alíquotas representa grave violação às garantias dos contribuintes na medida em que trouxe surpresa a estes, que contavam com uma redução na carga tributária arcada para o ano de 2023.
+Sem apresentação de contrarrazões.
+A decisão regional inadmitiu o recurso especial uma vez que o acórdão impugnado possui como fundamento matéria eminentemente constitucional, fundamento com o qual não concorda a parte agravante.
+Sem apresentação de contraminuta.
+O Ministério Público Federal deixou de apresentar parecer pela ausência de hipótese interventiva (e-STJ fls. 308/313).
+Passo a decidir.
+O recurso especial origina-se de mandado de segurança em que se objetiva o direito de inexigibilidade da majoração das alíquotas do PIS e da COFINS incidentes sobre as receitas financeiras promovida pelo Decreto nº 11.374/2023 antes de decorrido o prazo de 90 (noventa) dias de sua publicação.
+Em primeiro grau de jurisdição, o Juízo da 14ª Vara Federal de Porto Alegre/RS denegou a segurança pleiteada.
+Irresignada, a agravante interpôs recurso de apelação, que foi negado provimento pelo Tribunal Regional. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 168/170):
+Conforme relatado, controverte-se neste feito acerca da necessidade de observância do princípio da anterioridade nonagesimal quanto às disposições do Decreto nº 11.374/23, editado em 02/01/2023, que revogou o Decreto nº 11.322/22, editado em 30/12/2022, que havia anteriormente minorado as alíquotas de PIS e COFINS sobre as receitas financeiras.
+Pois bem, oportuno observar a cronologia dos fatos, senão vejamos:
+Nos termos do Decreto nº 8.426/15, as alíquotas do PIS e da COFINS sobre as receitas financeiras foram majoradas para 0,65% e 4%, respectivamente. O Decreto nº 11.322/2022 foi editado em 30/12/2022, e por meio dele foram reduzidas as alíquotas de PIS/COFINS sobre receitas financeiras nos seguintes termos:  ..
+Apesar de ter sido editado em 30/12/2022, havia previsão expressa de que sua eficácia dar-se-ia a partir de 1º de janeiro de 2023, conforme artigo 2º.
+Nessa mesma data, de início dos efeitos dessa redução (01/01/2023), sobreveio então o Decreto nº 11.374/2023, que entrou em vigor na data da publicação (art. 4º), revogando imediatamente as disposições do diploma anterior e mantendo, por conseguinte, as alíquotas de PIS/COFINS sobre as receitas financeiras, mantendo-se, portanto, o percentual das alíquotas anteriormente vigentes desde 2015, fixadas pelo Decreto nº 8.426/2015.
+Disso tudo se conclui que o Decreto nº 11.322/2022 jamais chegou a produzir efeitos. E, se o decreto que reduziu as alíquotas não produziu efeitos, não produziu quaisquer consequências, de modo que a superveniência do Decreto nº 11.374/23, que manteve as alíquotas que vigiam desde 2015, não se sujeita à anterioridade nonagesimal.
+A respeito do princípio da anterioridade, recorde-se os seguintes ensinamentos:  ..
+A revogação operada pelo Decreto nº 11.374/23 não importou em majoração do tributo de fato, pois, uma vez revogada a norma que operou a redução das alíquotas das contribuições sobre as receitas financeiras, na mesma data em que produziriam seus efeitos, foram restabelecidas as alíquotas já então vigentes desde a edição do Decreto nº 8.426/15: 0,65% (PIS) e 4% (COFINS).
+Tais observações afastam por completo a pretendida aplicação do princípio da anterioridade, porquanto, se sua razão de existir é justamente a não surpresa, a previsibilidade de majoração do tributo, a justa expectativa de estabilidade, não há qualquer motivo para que o decreto revogador submeta-se à anterioridade, pois não se operou de fato a redução operada pelo decreto revogado.
+O Decreto nº 11.374/2023 manteve a situação anterior antes mesmo que a potencial redução das alíquotas efetivamente se aplicasse. Em suma, as alíquotas permaneceram as mesmas.
+Nesse sentido, ademais, a recente decisão proferida pelo relator nos autos da Ação Declaratória de Constitucionalidade 84/DF, com deferimento da medida cautelar nos seguintes termos:  ..
+Tenho por prequestionados os seguintes dispositivos: arts. 1º, 5º, inciso I, XXXVI, art. 37, caput e §6º, e 150, inciso I e, por fim, art. 195, §6º, todos da Constituição Federal, bem como os arts. 927 e art. 489, §1.º, V e VI; art. 985, I e II; art. 1.039, todos do Código de Processo Civil, e art. 27, §2º, da Lei nº 10.865.
+Ante o exposto, voto por negar provimento à apelação.
+Pois bem.
+O recurso não merece ser conhecido.
+Observa-se que a instância ordinária não emitiu juízo de valor expresso sobre o disposto nos arts. 489, § 1º, V e VI, 926, 927, 985, I e II e 1.039 do CPC/2015, ao tempo em que o dispositivo não foi objeto da preliminar de negativa de prestação jurisdicional - o que poderia, em tese, amparar eventual violação do art. 1.022 do CPC.
+Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Por fim, cabe destacar que "o não conhecimento do especial pelo conduto da alínea a do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano" (AgInt no REsp 1.601.154/PR, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 27/02/2018, DJe 06/04/2018).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de seguran ça.
+Publique-se. Intimem-se.
+EMENTA
