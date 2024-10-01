@@ -1,0 +1,47 @@
+DECISÃO
+TATIANE QUEIROZ LIMA interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500107-92.2022.8.26.0294).
+Consta dos autos que a ré foi condenada à pena de 7 anos e 6 meses de reclusão, em regime fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa aponta a negativa de vigência do art. 33, § 4º, da Lei n. 11.343/2006, por considerar que não há comprovação nos autos de que a recorrente integra organização criminosa.
+Sustenta a violação do art. 40, V, da referida lei, diante do aumento que considerou desproporcional, dada a distância percorrida pela ré, no transporte da droga.
+Defende a violação do art. 33 do CP, por ter sido fixado o regime inicial mais gravoso, sem fundamentação concreta.
+Requer, assim, o provimento do recurso, para redução da reprimenda estabelecida e readequação do regime imposto.
+O Tribunal de origem decidiu pela admissibilidade parcial do recurso (fls. 807-808).
+O Ministério Público Federal manifestou-se pelo não provimento do recurso especial (fls. 818-823).
+Decido.
+I. Admissibilidade
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito das controvérsias.
+II. Violação do art. 33, § 4º, da Lei n. 11.343/2006
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida" (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso em análise, as instâncias originárias negaram a aplicação da redutora, sob os seguintes fundamentos (fls. 724-725):
+Lado outro, não há falar na aplicação da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei nº 11.343/06.
+Isso porque, como se sabe, a mens legis ao instituir a redução do § 4º do artigo 33 da Lei nº 11.343/06 foi beneficiar o criminoso ocasional, o pequeno traficante que agiu de modo excepcional, não sendo este o caso dos autos, pois, como bem ressaltou a d. Magistrada, "ficou demonstrada a participação dos réus em organização criminosa, que se caracteriza pela divisão de trabalho, sendo-lhes atribuída a função de transporte dos entorpecentes." (sic) Obedecendo ao mesmo raciocínio acima explicitado, a pena pecuniária ficou estabelecida em 750 (setecentos e cinquenta) dias-multa, no mínimo legal, para cada um dos apelantes.
+Conforme se vê, o Tribunal de origem negou o reconhecimento do tráfico privilegiado à recorrente, sob o argumento de que se poderia presumir, em razão da divisão de tarefas e do transporte do entorpecente, seu envolvimento com a organização criminosa.
+Entretanto, considero que a fundamentação exarada não é suficiente para justificar o afastamento do benefício, uma vez que não há comprovação de que a ré se dedicasse a atividades ilícitas de forma estável ou habitual.
+Em verdade, o acórdão retrata situação corriqueira no cenário dos crimes de tráfico ilícito de entorpecentes, em que um indivíduo é cooptado por organização criminosa para realizar o transporte de vultosa quantidade de droga, na condição de "mula", em troca de grande soma em dinheiro. Por sua primariedade, levanta menos suspeitas das autoridades policiais e alarga as chances de êxito do transporte, o que justifica a entrega de entorpecentes de expressivo valor agregado a pessoa alheia às atividades da organização criminosa. O caso em análise se amolda perfeitamente a essa dinâmica, visto que a recorrente fora contratada para praticar atividade eventual e determinada, sem caracterizar o vínculo ou a habitualidade com a atividade ilícita.
+Consequentemente, à ausência de fundamento suficiente o bastante para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve ser aplicado o referido benefício.
+No que tange ao quantum de redução de pena, faço lembrar que tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, sobretudo o disposto no art. 42 da Lei de Drogas.
+Observo, ainda, que, "Embora a condição de "mula" não autorize, por si só, o afastamento do tráfico privilegiado, trata-se de circunstância que justifica a aplicação da minorante em patamar diverso da fração máxima" (AgRg no AgRg no AREsp n. 2.278.940/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 13/6/2023, grifei).
+No mesmo sentido:
+5. A jurisprudência desta Corte, acompanhando o atual posicionamento do STF, entende que a simples atuação do agente como "mula", por si só, não induz que integre organização criminosa, sendo imprescindível, para tanto, prova inequívoca do seu envolvimento, estável e permanente, com o grupo criminoso, a autorizar a redução da pena em sua totalidade.
+6. Embora o desempenho dessa função não seja suficiente para denotar que o réu faça parte de organização criminosa, tal fato constitui circunstância concreta para ser valorada na definição do índice de redução pelo tráfico privilegiado, uma vez que se reveste de maior gravidade.
+(AgRg no REsp n. 2.033.937/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 20/3/2023, destaquei)
+Esta relatoria ao julgar o HC n. 914.484/SP, impetrado em benefício do corréu Renan Mendes, concedeu a ordem para aplicar a minorante no patamar de 1/4, pelos seguintes fundamentos (fl. 758):
+Na hipótese em exame, entendo que a redução de 1/4 é a mais adequada ao caso, porque, apesar de o réu se tratar de verdadeira "mula" no transporte dos entorpecentes e haver desempenhado papel importante na cadeia delitiva de distribuição das drogas no território nacional, a empreitada criminosa no caso concreto dos autos - transporte da droga por rodovia no porta-malas de veículo automotor - não demonstrou sofisticação e complexidade suficientes para ensejar a aplicação da fração mínima de redução.
+Cumpre mencionar, ainda, que naquele julgamento também realizei a adequação da fração utilizada em razão da causa de aumento de pena prevista no art. 40, V, da Lei n. 11343/2006, para 1/6.
+Assim em atenção ao art. 580 do CPP, tendo em vista que a situação fático-processual da requerente é idêntica à do corréu, promovo a extensão dos efeitos daquela decisão.
+Apenas ad cautelam, friso que, especificamente no caso dos autos, a conclusão pela possibilidade de aplicação da referida minorante e redução da reprimenda fixada não demanda o revolvimento de matéria fático-probatória, procedimento, de fato, vedado pela Súmula n. 7 do STJ.
+III. Nova dosimetria
+Em razão da modificação efetivada anteriormente, deve ser realizada a nova dosimetria da pena.
+Na primeira fase, o juízo sentenciante fixou a pena-base em 6 anos de reclusão, mais 600 dias-multa, em razão das circunstâncias do art. 42 da Lei n. 11.343/2006.
+Na segunda etapa, ausentes agravantes e atenuantes de pena.
+Na terceira fase, aplico a majorante do art. 40, V, da Lei n. 11.343/2006, na proporção de 1/6.
+No entanto, em virtude da minorante descrita no art. 33, § 4º, da Lei n. 11.343/2006, reduzo a sanção em 1/4, o que resulta em 5 anos e 3 meses de reclusão, mais 530 dias-multa.
+Como consectário da redução efetivada na pena da ré, deve-se proceder ao ajuste no regime inicial do seu cumprimento.
+Se, por um lado, a recorrente foi condenada a reprimenda inferior a 8 anos de reclusão, era tecnicamente primária ao tempo do delito e foi beneficiada com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, por outro, teve a pena-base estabelecida acima do mínimo legal e foi detida com grande quantidade de drogas. Assim, entendo que deve ser fixado o regime inicial semiaberto, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006.
+Por fim, a desfavorabilidade das circunstâncias mencionadas acima evidencia que a substituição da pena não se mostra medida socialmente recomendável, nos termos do art. 44, III, do Código Penal.
+IV. Dispositivo
+À vista do exposto, dou provimento ao recurso especial para aplicar a minorante do art. 33, § 4º, da Lei n. 11.343/2006, na proporção de 1/4; consequentemente, reduzir a pena privativa de liberdade imposta para 5 anos e 3 meses de reclusão, mais 530 dias-multa, em regime semiaberto.
+Comunique-se, com urgência, o inteiro teor deste decisum às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
