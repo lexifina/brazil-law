@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por SIDNEY PEREIRA DA SILVA contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 5002372-79.2023.4.03.9999, assim ementado (fl. 360):
+PROCESSUAL. VALOR DA CONDENAÇÃO INFERIOR A 1000 SALÁRIOS MÍNIMOS. REMESSA NECESSÁRIA NÃO CONHECIDA. PRELIMINAR REJEITADA. PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. DEFICIÊNCIA. HIPOSSUFICIÊNCIA ECONÔMICA NÃO CARACTERIZADA. REQUISITO NÃO PREENCHIDO. RESTABELECIMENTO INDEVIDO. APELAÇÃO DO INSS PROVIDA NO MÉRITO.
+1. A sentença foi proferida já na vigência do novo Código de Processo Civil - Lei 13.105/2015 -, razão pela qual se deve observar o disposto no art. 496, §3º, I. No caso dos autos, não obstante a sentença seja ilíquida, é certo que o valor da condenação não supera 1.000 salários mínimos, sendo incabível, portanto, a remessa necessária.
+2. O benefício assistencial de prestação continuada ou amparo social encontra assento no art. 203, V, da Constituição Federal, tendo por objetivo primordial a garantia de renda à pessoa deficiente e ao idoso com idade igual ou superior a 65 (sessenta e cinco anos) em estado de carência dos recursos indispensáveis à satisfação de suas necessidades elementares, bem assim de condições de tê-las providas pela família.
+3. Segundo a Lei 13.146/2015 (Estatuto da Pessoa com Deficiência) "para efeito de concessão do benefício de prestação continuada, considera-se pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na ". De acordo com a referida lei, sociedade em igualdade de condições com as demais pessoas entende-se por longo prazo o impedimento cujos efeitos perduram pelo prazo mínimo de 02 (dois) anos.
+4. Consoante perícia médica produzida é possível concluir que o estado clínico da parte autora implica a existência de impedimento de longo prazo, o qual, em interação com uma ou mais barreiras, poderia obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas, devendo, assim, ser considerado pessoa com deficiência para os efeitos legais.
+5. O estudo social produzido indica que, embora a economia doméstica não seja de fartura, a renda auferida mostra-se adequada ao suprimento das necessidades essenciais do núcleo familiar.
+6. O direito ao benefício assistencial de prestação continuada está atrelado à situação de sensível carência material enfrentada pelo postulante, não bastando para a sua concessão a alegação de meras dificuldades financeiras, sob pena de desnaturar o objetivo almejado pelo constituinte, isto é, dar amparo ao deficiente e ao idoso inseridos em contextos de manifesta privação de recursos, e banalizar a utilização do instituto, sobrecarregando, desse modo, o orçamento da Seguridade Social.
+7. Os honorários advocatícios ora fixados em 10% sobre o valor da causa, assim como os honorários do perito e da assistente social, ficam a cargo da parte autora, observada a condição de beneficiário da assistência judiciária gratuita, se o caso (Lei 1.060/50 e Lei 13.105/15).
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, preenchimento dos requisitos para fins de restabelecimento de benefício assistencial (condição de hipossuficiência), de que maneira não seria necessária a incursão ao campo fático-probatório. Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial.
+(AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E PREVIDENCIÁRIO . INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
