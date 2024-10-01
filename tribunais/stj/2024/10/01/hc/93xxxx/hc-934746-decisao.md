@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ENGRI JÚNIOR DE ALMEIDA MAIA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS no julgamento da Revisão Criminal n. 5194891-70.2024.8.09.0000.
+Extrai-se dos autos que o paciente foi condenado à pena de 10 anos de reclusão, no regime inicial fechado, além do pagamento de 510 dias-multa, pela prática dos crimes tipificados nos arts. 33 da Lei n. 11.343/06 e 16 da Lei n. 10.826/03.
+O Tribunal de origem deu parcial provimento à apelação interposta pelo paciente, para reconhecer a extinção da punibilidade em relação ao crime do art. 16 da Lei n. 10.826/03 e reduzir a pena ao patamar de 6 anos de reclusão, além de 500 dias-multa, mantidos os demais termos da sentença. Confira-se a ementa do julgado:
+"APELAÇÃO CRIMINAL. POSSE DE ARMA DE FOGO. DESCRIMINALIZAÇÃO TEMPORÁRIA. EXTINÇÃO DA PUNIBILIDADE. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDUTAS DE "VENDER" E "TER EM DEPÓSITO". AUTORIA E MATERIALIDADE COMPROVADAS. CONDENAÇÃO MANTIDA. PENA. AJUSTAMENTO.
+É de rigor a decretação da extinção da punibilidade do réu, relativamente à conduta de "possuir" arma de fogo, tanto de uso permitido quanto de uso restrito, praticada sob a égide da Lei 10.826/03, ante a abolitio criminis temporalis (Lei nº 11.706/08).
+Imerece prosperar o pleito absolutório ou desclassificatório para o crime de uso quando demonstrada, de forma satisfatória, pela confissão do réu, corroborada pelos demais elementos probatórios produzidos no juízo de instrução, a prática do delito capitulado no art. 33, caput, da Lei 11.343/06. Constatado excessivo rigor na fixação da pena-base, impõe-se reduzí-la para que ajustada a seu sentido teleológico.
+RECURSO CONHECIDO E PROVIDO. SENTENÇA PARCIALMENTE REFORMADA." (fl. 39).
+A defesa ajuizou pedido de revisão criminal, que foi indeferido pelo Tribunal de origem, mas concedida a ordem, de ofício, para reduzir a pena do paciente para 5 anos de reclusão, em regime inicial semiaberto, além do pagamento de 500 dias-multa, em acórdão assim ementado:
+REVISÃO CRIMINAL. TRÁFICO DE DROGAS. REDIMENSIONAMENTO DA PENA. POSSIBILIDADE. PRECEDENTES DO E. STJ E DESTE E. TJGO. DE OFÍCIO,CIRCUNSTÂNCIAS JUDICIAIS REVISTAS. MOTIVOS, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME ERRONEAMENTE DESVALORADOS. CAUSA DE DIMINUIÇÃO DE PENA NÃO RECONHECIDA. "TRÁFICO PROFISSIONAL" CONFESSADO. REGIME DE PENA ALTERADO.
+1. Considerando ser possível propositura de ação revisional com o fim exclusivo de revisitar a dosimetria da pena, conforme precedentes desta Corte Goiana e do E. STJ, revela-se possível redimensionar a pena do requerente, quando equivocadamente dosada.
+2. A ausência de motivo ou o motivo injustificável, ao ver do julgador, não revela concretamente motivação criminosa que tenha extrapolado o ordinário.
+3. A vetorial das circunstâncias do crime não pode ser exasperada com a finalidade de se coibir a perniciosidade do tráfico de drogas, sob pena de bis in idem e representar a própria essência do crime.
+4. Tendo por base apenas juízo prognóstico acerca de resultados possíveis que supostamente foram evitados pela prisão em flagrante do Requerente, inviável o aumento da pena.
+5. Confessado pelo próprio Requerente o seu "tráfico profissional", demonstrando que se dedicava de forma contumaz ao crime, descabida a aplicação da causa de diminuição de pena pelo tráfico "privilegiado".
+6. Sendo a pena redimensionada igual a cinco anos de reclusão, o regime semiaberto impõe-se.
+REVISÃO CRIMINAL IMPROCEDENTE. DE OFÍCIO, PENA-BASEREVISTA." (fl. 50).
+No presente writ, a defesa sustenta que o paciente preenche todos os requisitos necessários para a concessão da causa de redução de pena, prevista no art. 33, § 4º, da Lei n. 11.343/06, pois é primário, de bons antecedentes, não se dedica a atividades criminosas e tampouco integra organização criminosa.
+Do mesmo modo, alega que a decisão que afastou a incidência da referida minorante não está devidamente fundamentada em critérios objetivos, pois aduziu de forma genérica que o paciente se dedicava a atividades criminosas pelo simples fato de ter confessado a traficância, o que considera constrangimento ilegal, pois a confissão deve ser utilizada em benefício do réu e não o contrário.
+Requer, em liminar e no mérito, a concessão da ordem para que seja aplicada o redutor da pena referente ao tráfico privilegiado em seu patamar máximo.
+A liminar foi indeferida por decisão de fls. 60/62.
+O Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem, em parecer de fls. 69/73.
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção.
+Consta do voto condutor do julgado atacado:
+"Sendo assim, confessado pelo próprio Requerente o seu "tráfico profissional", demonstrando que se dedicava de forma contumaz ao crime, inviável a aplicação da causa de diminuição de pena em apreço." (fl. 57).
+Assim, constata-se que o Tribunal de origem negou a aplicação da causa especial de diminuição de pena do § 4º, do art. 33, da Lei n. 11.343/2006, considerando que o paciente se dedicava a atividades criminosas, notadamente em razão da sua confissão, de modo que ele não preencheria os requisitos para a diminuição da pena. A modificação dessa conclusão demanda o revolvimento de matéria fática, o que é vedado em habeas corpus. Nesse sentido, os seguintes julgados :
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA EVIDENCIADA. DETRAÇÃO PENAL. TEMA NÃO DEBATIDO NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO NÃO PROVIDO.
+1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas poderão ter a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades delituosas ou integrarem organização criminosa.
+2. No caso, o Tribunal de origem afastou o redutor por entender que as circunstâncias do delito e as provas colhidas em juízo denotam a habitualidade delitiva do paciente no tráfico de drogas, pois, além dos cerca de 138 kg de maconha, foram apreendidas anotações relativas ao comércio espúrio junto aos entorpecentes.. Logo, a modificação desse entendimento, a fim de fazer incidir a minorante da Lei de Drogas, enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+3. O tema relativo à alteração do regime prisional pela detração penal, nos termos do art. 387, § 2º, do Código de Processo Penal, não foi debatido na Corte de origem, o que impede sua análise diretamente por este Tribunal Superior.
+4. Agravo regimental não provido.
+(AgRg no HC n. 902.562/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DO REDUTOR DO § 4º DO ART. 33 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. PACIENTE QUE NÃO SE TRATA DE TRAFICANTE EVENTUAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O redutor da pena inserto no § 4º do art. 33 da Lei de Drogas foi afastado em decorrência dos elementos fáticos apurados na instrução processual, que demostraram que o agente dedicava-se à atividade criminosa a partir de circunstâncias concretas evidenciadas nos autos além da quantidade de droga apreendida. No ponto, destacou-se que foram apreendidos os entorpecentes e os petrechos, parte dos quais apresentavam resquícios de cocaína e maconha, além de dinheiro, bem como das fotografias de drogas e das mensagens encontradas no aparelho celular do agravante, com pedidos de compra de entorpecente por terceiros, indicando que não o fazia pela primeira vez. A modificação desse entendimento demandaria o exame aprofundado de provas, o que é vedado na estreita via do habeas corpus.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 877.618/SP, de minha relatoria, Quinta Turma, julgado em 18/3/2024, DJe de 20/3/2024.)
+Dessa forma, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
