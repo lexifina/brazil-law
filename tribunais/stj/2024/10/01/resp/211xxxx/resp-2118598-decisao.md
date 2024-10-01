@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por CARNE FORTE RESTAURANTE LTDA., com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO (fls . 216/219 ).
+Em suas razões razões recursais (fls. 265/279), a parte recorrente aponta a violação dos arts. 1.022, II, do Código de Processo Civil (CPC); art. 111, do Código Tributário Nacional (CTN); arts. 21, § único, I, da Lei 11.771/08 e 4º, da Lei 14.148/2021.
+Defende que "a matéria controversa possui relevância, na medida em que o objeto do recurso é o seu direito líquido e certo de usufruir do Programa Emergencial de Retomada do Setor de Eventos (Perse), que estabeleceu a redução a 0% das alíquotas da Contribuição ao PIS, Cofins, CSLL e IRPJ, em razão dos efeitos nefastos e devastadores da pandemia de Covid- 19 na economia nacional"(fl. 269).
+Sustenta a ilegalidade da Portaria ME 7.163/2021, com o seguinte argumento (fl. 275):
+"Estar ou não estar cadastrada no CADASTUR não infirma e nem invalida as atividades inerentes ao turismo desenvolvidas pela recorrente, que se enquadra como prestadora de serviços turísticos, nos termos do artigo 21, §único, I, da Lei n. º 11.771/08, de modo que exigir tal cadastro, repita-se, facultativo, na data da publicação da referida lei, viola o dispositivo legal ora em comento e justifica a apresentação deste recurso especial"
+A parte adversa apresentou contrarrazões (fls. 325/338 ) e sobreveio juízo positivo de admissibilidade na origem (fl. 344).
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.283), e foi assim delimitada:
+"Definir: 1) se é necessário (ou não) que o contribuinte esteja previamente inscrito no CADASTUR, conforme previsto na Lei 11.771/2008, para que possa usufruir dos benefícios previstos no Programa Emergencial de Retomada do Setor de Eventos (PERSE), instituído pela Lei 14.148/2021; 2) se o contribuinte optante pelo SIMPLES Nacional pode (ou não) beneficiar-se da alíquota zero relativa ao PIS/COFINS, à CSLL e ao IRPJ, prevista no PERSE, considerando a vedação legal inserta no art. 24, § 1º, da LC 123/2006."
+(REsps 2.216.428/RJ, 2.126.436/RJ, 2.130.054/CE, 2.138.576/PE, 2.144.064/PE e 2.144.088/CE, relatora Ministra Maria Thereza de Assis Moura).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
