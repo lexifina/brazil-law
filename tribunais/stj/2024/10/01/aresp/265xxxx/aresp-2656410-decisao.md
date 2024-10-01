@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por RESIDENCIAL SPAZIO SAN GIACOMO contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"CONDOMÍNIO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DANOS CAUSADOS EM RAZÃO DO RETORNO DA ÁGUA PLUVIAL PELO RALO EXISTENTE NA VARANDA DO APARTAMENTO DA AUTORA. ALEGAÇÕES DE VÍCIO POR CERCEAMENTO DE DEFESA E DE DECISÃO EXTRA PETITA. INOCORRÊNCIA. PROVA PERICIAL QUE CONSTATOU QUE O PROBLEMA DECORRE DE VÍCIO CONSTRUTIVO EM ÁREA COMUM DO EDIFÍCIO. RESPONSABILIDADE DO CONDOMÍNIO CARACTERIZADA. PROCEDÊNCIA DA AÇÃO. RECURSO PROVIDO. 1. Não existe base para cogitar de vício por cerceamento de defesa em razão da não realização da audiência de instrução, na medida em que, a providência, diante do laudo pericial produzido em juízo por profissional habilitado, não produziria nenhum resultado útil para o deslinde da causa. 2. Também não se vislumbra fundamento para se reconhecer que houve julgamento extra petita. A sentença analisou exatamente os pedidos formulados pela autora em sua petição inicial, observando-se que o reconhecimento da responsabilidade exclusiva da construtora pelos vícios que ocasionaram os danos reclamados serviu apenas de fundamento para, no entender do magistrado, afastar a responsabilidade do condomínio. 3. Considerando que a prova pericial constatou que o retorno de águas de chuvas pelo ralo do imóvel da autora não foi causado por qualquer problema no ramal, mas pelo subdimensionamento da prumada de águas pluviais, localizada na área comum do edifício, é do condomínio a responsabilidade de resolver o problema e reparar os danos materiais e morais dele decorrentes, ainda que se trate de vício construtivo, hipótese em que fica ressalvado o direito de regresso em face da construtora" (e-STJ fl. 324).
+No recurso especial, o recorrente alega violação do artigo 618 do Código Civil, haja vista que vícios construtivos são de responsabilidade da construtora.
+Afirma que, no caso concreto, a perícia concluiu que a causa do evento danoso foi um erro de cálculo estrutural no projeto executado pela construtora, e não falha de manutenção por parte do condomínio.
+Assevera que, sendo certo que o condomínio não deixou de cumprir as suas obrigações legais e convencionais, não pode ser responsabilizado pelo dano descrito.
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Na origem, trata-se de ação de obrigação de fazer cumulada com indenização por danos materiais e morais decorrente de defeito apresentado pelo imóvel de propriedade da ora recorrida, consistente no retorno da água da chuva pelo ralo da varanda do apartamento.
+A tes e esposada pelo recorrente foi afastada pelo tribunal de origem sob os seguintes fundamentos:
+"Cabe aqui observar que, nos termos do artigo 1.331 do Código Civil, "pode haver, em edificações, partes que são propriedade exclusiva, e partes que são propriedade comum dos condôminos", sendo que o § 2º determina que "o solo, a estrutura do prédio, o telhado, a rede geral de distribuição de água, esgoto, gás e eletricidade, a calefação e refrigeração centrais, e as demais partes comuns, inclusive o acesso ao logradouro público, são utilizados em comum pelos condôminos, não podendo ser alienados separadamente, ou divididos".
+Já o artigo 1.348, inciso V, é claro ao determinar que compete ao síndico "diligenciar a conservação e a guarda das partes comuns e zelar pela prestação dos serviços que interessem aos possuidores".
+Diante disso, é possível se concluir que a manutenção da rede horizontal de encanamento dos condomínios (canos ramais) que liga a coluna à unidade condominial é de responsabilidade de cada proprietário que faz uso individual da tubulação.
+No entanto, a rede vertical (prumadas ou coluna central) pertence à área comum do edifício, de modo que quaisquer danos ou vazamentos oriundos dessa rede são de responsabilidade do condomínio.
+(..)
+Diante disso, com a devida vênia do entendimento do ilustre juiz sentenciante, o fato de que os problemas teriam sido ocasionados por vícios construtivos em área comum do edifício não retira do condomínio a responsabilidade de solucioná-los, e tampouco de ressarcir a condômina por eventuais prejuízos dele decorrentes, mas apenas lhe garante eventual direito de regresso em face da construtora" (e-STJ fls. 327/329).
+Tais fundamentos, entretanto, não foram objeto de impugnação pela parte recorrente, atraindo a incidência, por analogia, da Súmula nº 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Confiram-se:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANOS MORAIS. RESCISÃO DO CONTRATO DE PLANO DE SAÚDE. ENVIO DA NOTIFICAÇÃO. NÃO COMPROVAÇÃO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n.º 283 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido."
+(AgInt no AREsp 2.157.654/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023 - grifou-se).
+Ademais, rever o entendimento firmado pelas instâncias ordinárias demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
