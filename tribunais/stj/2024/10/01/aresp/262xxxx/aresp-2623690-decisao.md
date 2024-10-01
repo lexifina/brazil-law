@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo interposto por SOCIEDADE DE TELEVISÃO MANAUARA LTDA contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE CUMPRIMENTO DE PRECEITO LEGAL COM PEDIDO DE LIMINAR C/C PERDAS E DANOS. ECAD. COBRANÇA DE DIREITOS AUTORAIS. EMISSORA DE RÁDIO. USO DE MATERIAL PROTEGIDO SEM PRÉVIA AUTORIZAÇÃO. CONTROVÉRSIAS QUANTO À CONVERSÃO MONETÁRIA E JUROS DE MORA. SÚMULA 43/STJ E 54/STJ. SENTENÇA MODIFICADA EM PARTE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. O Superior Tribunal de Justiça (STJ), como bem pontuou o juízo de piso, já assentou entendimento sobre o tema e, nesse contexto, reconhece legitimidade do ECAD para estabelecer critérios e valores relativos à cobrança dos direitos do autor;
+2. Não é necessário que seja feita a identificação das musicas e dos respectivos autores para que ocorra a ação de cobrança proposta pelo ECAD;
+3. A utilização da súmula 362/STJ para o cálculo da correção monetária, em caso de dano material, é errônea, devendo ser aplicada a súmula 43/STJ.
+4. Recurso conhecido e parcialmente provido."
+Os embargos de declaração opostos foram rejeitados, com aplicação de multa.
+Em suas razões de recurso especial, a parte agravante alegou violação dos arts. 18, 240, 373, I, 489, § 1º, IV, e 1.022 CPC/2015; e 1º, § 2 º, da Lei 6.899/1981, defendendo, além de negativa de prestação jurisdicional, a ilegitimidade do ECAD para propor a demanda, sem prova da filiação dos representados; a inexistência de provas sobre a forma de cálculo dos valores cobrados pelos direitos autorais; e a incidência, sobre o débito devido, de correção a partir do ajuizamento da ação e de juros moratórios a partir da citação.
+Contrarrazões apresentadas às fls. 634-639 (e-STJ).
+É o relatório. Decido.
+De início, é indevido conjecturar acerca de deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição na decisão apenas por ter sido proferida em desconformidade com os interesses da parte. No mesmo sentido: AgInt no AREsp 1621374/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2020, DJe25/06/2020; AgInt no AREsp 1595385/MT, Rel. Ministro LUIS FELIPE SALOMÃO,QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020; AgInt no AgInt no AREsp 1598925/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em11/05/2020, DJe 25/05/2020; AgInt nos EDcl no REsp 1812571/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe16/03/2020; AgInt no AREsp 1534532/SP, Rel. Ministro ANTONIO CARLOSFERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe 15/06/2020; AgInt nos EDcl no AREsp 1374195/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/05/2020, DJe 25/05/2020.
+Quanto à questão da inexistência de provas sobre a forma de cálculo dos valores cobrados pelos direitos autorais, do recurso especial não se pode conhecer, por ausência de prequestionamento, óbice da Súmula 282/STF, porquanto não houve decisão sobre o tópico, o qual também não foi objeto dos embargos de declaração opostos.
+No que tange à legitimidade ativa, "conforme pacífica jurisprudência deste Tribunal a legitimidade ativa do ECAD para propositura de ação de cobrança independe de prova de filiação ou autorização dos autores nacionais ou estrangeiros. Precedentes. Súmula 83/STJ" (AgRg no AgRg no Ag 709.873/RJ, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 18/9/2008, DJe de 8/10/2008).
+No mesmo sentido:
+"RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO COMINATÓRIA C/C COM PERDAS E DANOS. DIREITOS AUTORAIS. OBRAS MUSICAIS. TRANSMISSÃO EM SALAS DE CINEMA. LEGITIMIDADE DO ECAD. VIOLAÇÃO À COISA JULGADA. AUSÊNCIA. ALTERAÇÃO DO CONTEXTO FÁTICO-JURÍDICO. NOVO PEDIDO. POSSIBILIDADE. RECURSO ESPECIAL PARCIALMENTE PROVIDO. RESTABELECIMENTO DA SENTENÇA DE PARCIAL PROCEDÊNCIA.
+(..)
+5. "Conforme pacífica jurisprudência deste Tribunal a legitimidade ativa do ECAD para propositura de ação de cobrança independe de prova de filiação ou autorização dos autores nacionais ou estrangeiros. Precedentes. Súmula 83/STJ" (AgRg no AgRg no Ag 709.873/RJ, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 18/9/2008, DJe de 8/10/2008).
+6. Recurso especial parcialmente provido, para restabelecer a sentença de parcial procedência da demanda."
+(REsp n. 1.799.345/SC, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/2/2024, DJe de 8/4/2024.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO DEMANDADO.
+(..)
+3. Na hipótese, o Tribunal de origem concluiu que o ECAD possui legitimidade ativa para ajuizar ação em defesa dos autores de obras musicais, independentemente de prova de filiação ou autorização dos titulares, do fato de que foi o próprio compositor que apresentou o seu trabalho, ou do recebimento de lucro pelo promotor do evento, bem como consignou competir ao referido órgão fixar os critérios relativos ao montante devido a título de direitos autorais, sendo válidos o Regulamento de Arrecadação Consolidado e a Tabela de Preços por ele instituídos. Dessa forma, além de o aresto recorrido encontrar apoio na orientação jurisprudencial firmada por esta Colenda Corte sobre a matéria, o que atrai a incidência do óbice contido na Súmula 83/STJ, para infirmar as conclusões a que chegou o Tribunal de origem, demandaria, necessariamente, o reexame das provas carreadas aos autos, o que é vedado nesta instância extraordinária, a teor da Súmula 7/STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 1.702.142/GO, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 7/12/2020, DJe de 16/12/2020.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. ECAD. LEGITIMIDADE ATIVA. 2. DISPONIBILIZAÇÃO DE TV A CABO POR ESTABELECIMENTO HOTELEIRO. DIREITOS AUTORAIS. CABIMENTO. CONTRAPRESTAÇÃO QUE NÃO SE CONFUNDE COM AQUELA PAGA PELA EMPRESA DE TV. BIS IN IDEM AFASTADO. PROCEDÊNCIA DA AÇÃO. 3. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte Superior sedimentou o entendimento de que o ECAD possui legitimidade para ajuizar a demanda de cobrança de direitos autorais, sendo prescindível a prova da filiação ou autorização dos titulares do direito. Precedentes.
+(..)"
+(AgInt no REsp n. 1.731.503/RS, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 1/10/2018, DJe de 5/10/2018.)
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DIREITOS AUTORAIS. ECAD. LEGITIMIDADE. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. OFENSA AO ART. 538, PARÁGRAFO ÚNICO. INCIDÊNCIA DA S.7/STJ.
+(..)
+4. Tem o ECAD legitimidade ativa para promover ação em defesa dos direitos de autores de obras musicais, independentemente de prova de filiação ou autorização dos titulares.
+5. É pacífico o entendimento desta Corte quanto à legitimidade do ECAD para fixar critérios relativos ao montante devido a título de direitos autorais.
+6. Agravo regimental a que se nega provimento."
+(AgRg no AREsp n. 61.148/MA, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/6/2015, DJe de 25/6/2015.)
+Por fim, quanto à atualização do débito relativo à cobrança de direitos autorais, trata-se de responsabilidade civil extracontratual, motivo pelo qual os "os juros de mora e a correção monetária deverão incidir desde a data em que cometida a infração ao direito autoral, quando passou a ser devido o respectivo pagamento" (REsp n. 1.873.611/SP, relator Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 24/3/2021, DJe de 20/4/2021.)
+No mesmo sentido:
+"RECURSO ESPECIAL. DIREITOS AUTORAIS. ECAD. DISPONIBILIZAÇÃO DE RÁDIO E DE TELEVISÃO EM QUARTOS DE MOTEL. TRANSMISSÃO DE OBRAS AUTORAIS. LEGITIMIDADE ATIVA DO ECAD. LEGITIMAÇÃO EXTRAORDINÁRIA DECORRENTE DE LEI. DESNECESSIDADE DE COMPROVAR A FILIAÇÃO. SÚMULA 83/STJ. EXCEÇÃO DE USO PRIVADO NÃO APLICÁVEL. USO DE OBRAS AUTORAIS EM ATIVIDADE EMPRESÁRIA. FINALIDADE LUCRATIVA. MOTEL. LOCAL DE FREQUÊNCIA COLETIVA PARA FINS DE COBRANÇA DE DIREITOS AUTORAIS. MODIFICAÇÃO NÃO OPERADA PELA LEI GERAL DO TURISMO. AUSÊNCIA DE "BIS IN IDEM". PAGAMENTO PELA EMISSORA. FUNDAMENTO DISTINTO. NOVA MODALIDADE DE USO DE OBRAS AUTORAIS. JUROS DE MORA. RESPONSABILIDADE EXTRACONTRATUAL. SÚMULA 54/STJ.
+1. A legitimidade extraordinária do ECAD para a cobrança de direitos autorais decorre diretamente do art. 99, § 2º, da Lei n. 9.610/98, sendo desnecessária a comprovação da filiação, consoante entendimento pacífico deste STJ. Aplicação da Súmula 83/STJ.
+(..)
+6. Tratando-se de responsabilidade extracontratual, os juros de mora devem incidir desde a data de utilização das obras autorais sem prévia autorização, nos termos da Súmula 54/STJ.
+7. RECURSO ESPECIAL DESPROVIDO."
+(REsp n. 1.858.874/SP, relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 25/8/2020, DJe de 28/8/2020.)
+"RECURSO ESPECIAL. DIREITO AUTORAL. EMPRESAS DE RADIODIFUSÃO. PROGRAMAÇÃO NACIONAL. RETRANSMISSÃO PELAS EMISSORAS AFILIADAS. NOVA E DISTINTA EXECUÇÃO DA OBRA. FATO GERADOR DE DIREITO AUTORAL. JUROS DE MORA. SÚMULA 54/STJ.
+1. A retransmissão de programação de emissora de televisão principal e autônoma, por emissoras de televisão afiliadas, constitui fato gerador de direitos autorais.
+2. Em matéria autoral, cada transmissão operada pelas empresas de radiodifusão revela-se uma nova e distinta execução da obra, com utilização econômica distinta e divorciada daquela realizada pela emissora geradora e para cada transmissão há de preceder autorização do autor e respectivo pagamento dos direitos autorais.
+3. O pagamento dos direitos de autor, nos casos de transmissão e retransmissão por empresas de radiodifusão, pode ser realizado (I) pelas emissoras principais - apenas pela transmissão realizada por suas emissoras próprias; (II) pelas emissoras principais - pela transmissão realizada por suas emissoras próprias e por suas afiliadas; e, (III) pelas emissoras afiliadas - pela transmissão do conteúdo nacional, quando não realizado pela principal, e pela programação regional produzida.
+4. A jurisprudência do STJ é no sentido de que os juros de mora, nas hipóteses de violação a direitos autorais, devem remontar à data em que cometida a infração ao direito, nos termos do enunciado n. 54 da Súmula/STJ.
+5. Recurso especial provido."
+(REsp n. 1.393.385/PR, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/11/2016, DJe de 8/2/2017.)
+"RECURSO ESPECIAL E AGRAVO EM RECURSO ESPECIAL. DIREITOS AUTORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ECAD. NÃO PAGAMENTO. MOTEL. TV POR ASSINATURA. TUTELA INIBITÓRIA. SUSPENSÃO DA EXECUÇÃO DE OBRAS MUSICAIS. ART. 105 DA LEI 9.610/98. CABIMENTO. JUROS DE MORA. MARCO INICIAL. SÚMULA 54/STJ.
+1. Ação ajuizada em 18/9/2014. Recurso especial interposto em 26/11/2018. Conclusão ao Gabinete em 4/6/2019.
+2. O propósito recursal, além de verificar a ocorrência de negativa de prestação jurisdicional, é analisar (i) o cabimento de medida destinada à suspensão da execução de obras musicais enquanto perdurar a inadimplência de valores devidos a título de direitos autorais; e (ii) o termo inicial de fluência dos juros moratórios.
+3. Devidamente analisadas e discutidas as questões de mérito, e suficientemente fundamentado o acórdão recorrido, não há como reconhecer a ocorrência de negativa de prestação jurisdicional.
+4. A tutela inibitória destinada a impedir a violação de direitos autorais constitui medida expressamente prevista no art. 105 da Lei 9.610/98, não se confundindo com a pretensão de cobrança dos valores devidos e não pagos a esse título. A primeira sanciona a violação da norma, impedindo a continuação ou a repetição do ilícito; a segunda sanciona o dano ou o não cumprimento do dever de pagamento.
+Doutrina. Precedentes específicos.
+5. A jurisprudência do STJ firmou-se no sentido de que os juros de mora, nas hipóteses de violação a direitos autorais, devem remontar à data em que cometida a infração ao direito, sendo certo que o infrator está em mora, em regra, desde o momento em que se utiliza das obras sem a devida autorização. Precedente específico. RECURSO ESPECIAL PROVIDO.
+AGRAVO EM RECURSO ESPECIAL PREJUDICADO."
+(REsp n. 1.816.165/RS, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/6/2019, DJe de 21/6/2019.)
+No caso dos autos, o Tribunal de origem reconheceu a legitimidade ativa do Ecad para a ação, independentemente de prova de filiação ou autorização dos filiados, e determinou a incidência de juros e correção monetária a partir do cometimento da infração, nos termos das Súmulas 43 e 54 do STJ..
+Desse modo, constatada a conformidade do acórdão recorrido com a jurisprudência desta Corte, é inviável o provimento do recurso especial, nos termos da Súmula 83/STJ.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos pela parte recorrente de 10% para 11% sobre o valor atualizado da condenação.
+Publique-se.
+EMENTA
