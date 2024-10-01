@@ -1,0 +1,39 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por JTECNELETRICA DA AMAZONIA LTDA contra decisão que inadmitiu recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, objetivando a reforma do acórdão assim ementado:
+PROCESSO CIVIL - AGRAVO DE INSTRUMENTO - AÇÃO MONITÓRIA - EXECUÇÃO DE TÍTULO JUDICIAL - NOVO INSTRUMENTO DE PROCURAÇÃO - REVOGAÇÃO TÁCITA - MARCO INICIAL DOS REAJUSTES DA EXECUÇÃO - VALOR DA PETIÇÃO INICIAL - NOVA SISTEMÁTICA DE JUROS E CORREÇÃO MONETÁRIA - INVALIDADE DE ACORDO JUDICIAL E DE PENHORA EFETIVADA NO ROSTO DOS AUTOS - AUSÊNCIA DE PROVA - PRECLUSÃO - RECURSO CONHECIDO E IMPROVIDO.
+1. A procuração juntada aos autos, sem ressalva expressa quanto à permanência dos mandatos outorgados anteriormente, acarreta a revogação tácita destes.
+2. Inexiste preclusão pro iudicato para que o juiz estabeleça o critério mais adequado para a atualização do cálculo de crédito em execução. Com efeito, o eventual desacerto quanto ao termo inicial de atualização do débito em momento processual antecedente não se mostra eficaz para a perseverança do erro nas contas pósteras. Entendimento contrário, configuraria ominosa supressão do poder-dever do magistrado de bem conduzir a execução sopesando não apenas o interesse do credor(art.612, CPC), mas também do devedor (art.620, CPC), resguardando assim a boa-fé ao impedir o abuso de direito na satisfação do crédito.
+3. O Supremo Tribunal Federal, através do julgamento da ADI nº 4357 e da ADI nº 4425, declarou a inconstitucionalidade da expressão "índice oficial de remuneração básica da caderneta de poupança", constante no § 12 do artigo 100 da Constituição Federal. Por conseguinte, com a declaração de inconstitucionalidade do § 12 do artigo 100 da CF, o STF também declarou a inconstitucionalidade parcial, por arrastamento, do artigo 5º da Lei nº 11.960/09, que deu a redação atual ao artigo 1º- F da Lei nº 9.494/97.
+4. Nas condenações impostas à Fazenda Pública de natureza não tributária, os juros moratórios devem ser calculados com base no índice oficial de remuneração básica e juros aplicados à caderneta de poupança, nos termos da regra do art. 1º-F da Lei 9.494/97, com redação da Lei 11.960/09. Já a correção monetária, por força da declaração de inconstitucionalidade parcial do art.5º da Lei 11.960/09, deve observar índices que reflitam a inflação acumulada do período, a ela não se aplicando os índices de remuneração básica da caderneta de poupança.
+5. Considerada a circunstância de que o relator da ADI no Supremo, Min. Ayres Brito, não especificou qual deveria ser o índice de correção monetária adotado, este deverá ser o INPC, na medida em que foi este o índice determinado no decisório objurgado, devendo ter como termo inicial o ajuizamento da ação, na forma do artigo 1º da Lei 6.899/81.
+6. Na presente execução deve ser aplicada a taxa de juros de 0,5% ao mês até a entrada em vigor do CC/2002, bem como a taxa Selic entre o início da vigência do CC/2002 e a Lei 11.960/2009, momento em que os juros de mora deverão ser aplicados em conformidade com o percentual aplicado às cadernetas de poupança.
+7. O momento oportuno para se discutir a higidez das penhoras efetivadas no rosto dos autos seria perante o Juízo que as determinou, e não perante aquele que processa o feito onde as constrições foram efetivadas, encontrando-se, assim, precluso o direito do Recorrente de rediscutir neste momento a adequação de tais créditos.
+8. Recurso conhecido e improvido.
+Os embargos de declaração foram rejeitados.
+Nas razões do Recurso Especial, a parte recorrente sustenta violação dos arts. 458, II e 535, I e II, do CPC/1973, pois, mesmo com a oposição dos embargos de declaração, não foram sanadas as omissões quanto às teses de preclusão, de coisa julgada e de necessidade de se limitar a penhora aos bens do devedor.
+Inadmitido o recurso na origem, foi interposto o presente agravo.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo.
+É o relatório.
+Passo a decidir.
+Na origem, foi interposto agravo de instrumento contra decisão proferida nos autos de ação monitória.
+Quanto à apontada violação aos arts. 458, II, 535, I e II, do CPC/1973, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando o seguinte:
+Marco inicial dos reajustes do valor da execução
+O Recorrente assevera ser indevida a decisão agravada que estabeleceu como marco inicial de reajuste do crédito exequendo o valor da petição inicial da ação monitória (R$ 2.542.132,17), numerário constituído como título executivo.
+ ..
+Tal argumento não comporta endosso, tendo em vista inexistir preclusão pro iudicato para que o juiz estabeleça o critério mais adequado para a atualização do cálculo de crédito em execução.
+Com efeito, o eventual desacerto quanto ao termo inicial de atualização do débito em momento processual antecedente não se mostra eficaz para a perseverança do erro nas contas pósteras. Entendimento contrário, configuraria ominosa supressão do poder-dever do magistrado de bem conduzir a execução sopesando não apenas o interesse o interesse do credor (art. 612, CPC), mas também do devedor (art. 620, CPC), resguardando assim a boa-fé ao impedir o abuso de direito na satisfação do crédito.
+ ..
+Invalidade da transação apontada pelo Juízo e das penhoras de terceiros.
+Por fim, alega o Agravante que o acordo mencionado pelo Juízo de Origem na decisão combatida seria inválido, tendo em vista que em nenhum momento responsabilizou-se por débitos de terceiros.
+Assere ainda que as penhoras de Maria Lyra e José Bezerra, realizadas no rosto dos autos, devem ser desconstituídas, pois, com relação àquela, o processo teria sido extinto no juízo de origem, nos termos da sentença que ordenou a baixa do gravame. Com relação a este aventa que tal constrição é oriunda de notas promissórias com vencimento em que a cedente (Neldan) não tinha mais crédito na ação monitória.
+Levando em consideração os estreitos limites de cognição do presente reclamo, concluo que os argumentos apresentados pelo Recorrente não merecem prosperar, pois apesar de ter afirmado a existência de irregularidades formais na tratativa susomencionada, não apresentou, ao menos, cópia do acordo apontado, circunstância que inviabiliza a verossimilhança de suas alegações.
+ ..
+Dito isso, cumpre assinalar que o momento oportuno para se discutir a higidez das penhoras efetivadas seria perante o Juízo que as determinou e não perante aquele que processa o feito onde as constrições foram efetivadas, encontrando-se, assim, precluso o direito do Recorrente de rediscutir neste momento a adequação de tais créditos (fls. 180-188).
+No julgamento dos embargos de declaração, ficou consignado que "negou provimento ao recurso ao entendimento de que inexiste preclusão pro iudicato para que o juiz estabeleça o critério mais adequado para a atualização do cálculo de crédito em execução".
+Como se vê, a negativa de prestação jurisdicional não restou configurada. O mero inconformismo da parte com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 458 do CPC/1973, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador. Assim, inexiste violação aos arts. 458, II, e 535, I e II, do CPC/1973.
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Intimem-se.
+ EMENTA
