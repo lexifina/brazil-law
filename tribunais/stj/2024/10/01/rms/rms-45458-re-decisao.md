@@ -1,0 +1,16 @@
+DECISÃO
+1. Trata-se de recurso extraordinário (fls. 705-719) interposto contra acórdão que manteve a decisão de deferimento de sequestro de verbas públicas do Estado de São Paulo para fins de pagamento de precatório, sob o entendimento de que as disposições da Emenda Constitucional 62/2009 não poderiam ser aplicadas ao precatório em apreço, considerando que o Supremo Tribunal Federal, no julgamento das ADIs 4.357/DF e 4.425/DF, declarou a inconstitucionalidade do regime especial de pagamento previsto no art. 97 do ADCT (introduzido pela EC 62/2009).
+Às fls. 732-733, o recurso foi sobrestado em razão do reconhecimento, pelo Supremo Tribunal Federal, da repercussão geral acerca da matéria no Tema n. 519 do STF.
+Com a finalização do julgamento da controvérsia relativa ao referido tema de repercussão geral, foram os autos encaminhados ao órgão prolator do acórdão recorrido para eventual juízo de retratação, nos termos do art. 1.040, II, do CPC (fls. 735-737).
+O órgão julgador, por meio do acórdão de fls. 753-756, exerceu o juízo de retratação, em julgado assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PRECATÓRIO INADIMPLIDO. SEQUESTRO DE VERBAS PÚBLICAS DEFERIDO. SUPERVENIÊNCIA DA EC 62/2009. APLICAÇÃO IMEDIATA DA NOVA SISTEMÁTICA A TODOS OS PROCEDIMENTOS EM CURSO. INCONSTITUCIONALIDADE DECLARADA PELO SUPREMO TRIBUNAL FEDERAL. SUPERVENIÊNCIA DE MODULAÇÃO DOS EFEITOS. TEMA 519/STF. JUÍZO DE RETRATAÇÃO EXECIDO.
+1. Discute-se a legalidade de sequestro de verbas públicas para pagamento de precatório e a eficácia dessa constrição após a vigência da EC 62/2009, regime ao qual o Estado de São Paulo aderiu.
+2. O Supremo Tribunal Federal, ao julgar o Tema 519 sob a sistemática da Repercussão Geral, RE 659.172/SP, firmou a tese de que "O regime especial de precatórios trazido pela Emenda Constitucional nº 62/2009 aplica-se aos precatórios expedidos anteriormente a sua promulgação, observados a declaração de inconstitucionalidade parcial quando do julgamento da ADI nº 4.425 e os efeitos prospectivos do julgado."
+3. In casu, observa-se que a posição adotada pelo STJ não se harmoniza com a orientação consolidada pelo STF, razão pela qual se justifica, em juízo de retratação, a modificação do julgado para equiparar-se com o decidido pela Suprema Corte.
+4. Nesse diapasão, consoante o art. 1.040, II, do Código de Processo Civil, de rigor a reforma do acórdão recorrido para realinhá-lo à compreensão do STF, ao julgar Tema 519 sob a sistemática da Repercussão Geral (RE 659.172/SP).
+5. Recurso Ordinário provido para, em juízo de retratação, conceder a segurança pleiteada, determinando-se a aplicação ao caso dos autos a EC 62/2009, nos termos determinados pelo STF.
+É o relatório.
+2. Conforme se verifica dos autos, com o exercício do juízo de retratação, o entendimento do órgão recorrido encontra-se em consonância com o entendimento do Supremo Tribunal Federal em sede de repercussão geral.
+3. Ante o exposto, tendo em vista que a parte recorrente alcançou seu objetivo e não versando o recurso outras questões, fica prejudicado o recurso extraordinário de fls. 705-719 , em razão da perda superveniente de objeto.
+Publique. Intimem-se.
+ EMENTA
