@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+RELATÓRIO
+Trata-se de embargos de declaração opostos por FABIANNA RAMPAZZO MACHADO SANTOS contra acórdão que negou provimento ao agravo regimental interposto contrariamente à decisão que não conheceu do habeas corpus.
+Em seu arrazoado, a embargante reitera a argumentação de nulidade absoluta do acórdão impugnado, alegando erro na contagem dos votos, e pugna pelo acolhimento dos embargos a fim de suprir a omissão, contradição e obscuridade apontadas.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE DO ACÓRDÃO IMPUGNADO. MERA REITERAÇÃO DE PEDIDOS ANTERIORES. NÃO CONHECIMENTO. AUSÊNCIA DE VÍCIOS. INCONFORMISMO DA PARTE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Hipótese em que o habeas corpus não mereceu conhecimento por configurar mera reiteração de pedidos manifestados em impetrações anteriores.
+3. Não é possível o conhecimento da impetração que constitui mera reiteração de pedidos formulados anteriormente e já devidamente apreciados.
+4. À míngua de qualquer vício no acórdão, verifica-se que a embargante busca, com a oposição destes embargos declaratórios, tão somente um novo reexame da causa. Entretanto, não é possível dar efeitos infringentes aos aclaratórios sem a demonstração de eventual vício ou teratologia.
+5. Embargos rejeitados.
+VOTO
+Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+Conforme consignado pelo Ministério Público Federal, em seu parecer, o habeas corpus não mereceu conhecimento por configurar mera reiteração de pedidos manifestados em impetrações anteriores. Confira-se:
+(..) 2. Impõe-se o não conhecimento do presente writ, por ser mera reiteração de impetrações anteriores perante esse Superior Tribunal de Justiça.
+2.1 Quanto à tese de nulidade do acórdão por suposto erro na contagem de votos, a questão já foi suscitada em habeas corpus anteriores (HC-748686). Destaque-se, nesse sentido, que a argumentação deduzida às fls. 7/8 dos presentes autos reproduz literalmente as razões fls. 11/12 do HC-748686, tendo decidido Vossa Excelência, na ocasião, que "o presente habeas corpus constitui mera reiteração dos pedidos formulados no HC 708.985/RJ - o qual não foi conhecido -, de minha relatoria, isso porque há identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão (Apelação Criminal n. 0001553-90.2012.4.02.5102), o que constitui óbice ao seu conhecimento" (fls. 156).
+2.2 Já em relação à tese de nulidade da prova emprestada, ao argumento de que "nenhum dos depoimentos colhidos em sede administrativa e sede policial não foram em momento algum alvo de contraditório da defesa" e de que "tanto o Órgão Acusador, quanto o Juiz Natural, das provas emprestadas do PAD, eivado de vícios e livre do contraditório judicial e da ampla defesa, bem como dos depoimentos obtidos em sede policial, para acusar e para formar seu livre convencimento motivado, respectivamente, fundamentando a sentença condenatória justamente nessas provas emprestadas" (fls. 9), a matéria já havia sido objeto de insurgência no recurso especial, inadmitido, não tendo a defesa logrado êxito no exame do agravo em recurso especial, a despeito dos inúmeros recursos aviados nos autos EARESP-2101478/RJ: (i) agravo regimental, (ii) embargos de declaração, (iii) embargos de divergência, embargos de declaração, agravo regimental, embargos de declaração, recurso extraordinário, embargos de declaração e agravo regimental.
+E, como sabido, "A jurisprudência mansa e pacífica do Superior Tribunal de Justiça tem reafirmado o entendimento de ser descabido o pedido de concessão de habeas corpus de ofício, como sucedâneo recursal ou como expediente para superar vícios do recurso inadmitido, mormente porque tal iniciativa parte do próprio órgão julgador, quando verificada a existência de ilegalidade flagrante ao direito de locomoção." (EDcl no AgRg no EAREsp 1807393/SP, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, julgado em 24/11/2021, DJe 30/11/2021).
+No mesmo sentido: É inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice(s) reconhecido(s) na admissibilidade do recurso interposto (Precedentes) (EDcl no AgRg nos EREsp 1488618/RS, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, DJe 27/10/2015). (AgRg no AREsp 1913835/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 07/12/2021, DJe 10/12/2021)
+2.3 Não bastasse, as duas teses, juntas, já haviam sido reapresentadas nos autos do HC-831780, também não conhecido porque "constitui mera reiteração de pedidos já formulados pela defesa perante esta Corte Superior em procedimentos conexos, especialmente no HC 708.985/RJ e no HC 7486.86/RJ". Contra a decisão monocrática, seguiram-se agravo regimental, embargos de declaração e recurso ordinário constitucional.
+Constata-se, portanto, que a defesa abusa do direito de recorrer, manejando sucessivos habeas corpus e recursos para obter pronunciamento judicial diverso a respeito de matéria anteriormente apresentada. (e-STJ, fls. 77-79)
+Não é possível o conhecimento da impetração que constitui mera reiteração de pedidos formulados anteriormente e já devidamente apreciados.
+Assim à míngua de qualquer vício no acórdão, verifica-se que a embargante busca, com a oposição destes embargos declaratórios, tão somente um novo reexame da causa. Entretanto, não é possível dar efeitos infringentes aos aclaratórios sem a demonstração de eventual vício ou teratologia.
+Diante do exposto, rejeito os embargos de declaração.
+É como voto.
