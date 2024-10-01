@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por GENIVALDO PEREIRA DA SILVA em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal Regional Federal da 1ª Região, assim ementado:
+"CIVIL. RESPONSABILIDADE CIVIL. PROGRAMA MINHA CASA MINHA VIDA. FUNDO DE ARRENDAMENTO RESIDENCIAL - FAR. VÍCIOS DE CONSTRUÇÃO. DANOS MORAIS E MATERIAIS. REALIZAÇÃO DE PERÍCIA JUDICIAL. DANOS MATERIAIS. OCORRÊNCIA. DANOS MORAIS. NÃO CONFIGURAÇÃO. SENTENÇA MANTIDA.
+1. "A jurisprudência do Superior Tribunal de Justiça é de que "o dano moral, na ocorrência de vícios de construção, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação de direito da personalidade dos proprietários do imóvel" (AgInt no AREsp 1.288.145/DF, Ministro Ricardo Villas BôasCueva, 3T, DJe 16/11/2018). Igualmente: AgInt nos EDcl no AREsp 1.693.983/SC, Ministro Raul Araújo, 4T, DJe 14/12/2020; AgInt no REsp 1.717.691/SP, Ministro Marco Buzzi, 4T, DJe 30/05/2018; AgInt no AREsp 1.459.749/GO, Ministra Maria Isabel Gallotti, 4T, DJe 06/12/2019." (AC n. 1008818- 15.2021.4.01.3300, Relator Desembargador Federal João Batista Moreira, 6ª Turma, PJe 18/10/2021). No mesmo sentido: AC 1026063-73.2020.4.01.3300, Relator Desembargador Federal Carlos Augusto Pires Brandão, Quinta Turma, PJe 30.03.2022.
+2. Não sendo presumível a ocorrência de danos morais à parte autora em decorrência de vícios de construção em seu imóvel, é incabível na espécie a condenação da CAIXA à indenização pretendida, uma vez que a parte demandante se limitou a demonstrar a ocorrência de pequenos vícios construtivos em seu imóvel, sem a configuração de significativa e excepcional violação de seu direito da personalidade.
+3. Apelação da parte autora a que se nega provimento.
+4. Mantida a sucumbência recíproca, cada parte arcará com os honorários advocatícios em favor do procurador da parte contrária, nos termos fixados na sentença, majorando, ainda, a verba honorária devida pela parte autora de 10% (dez por cento) para 12% (doze por cento) sobre o valor da condenação, nos termos do art. 85, §11, do CPC. A exigibilidade dos honorários advocatícios a serem pagos à parte ré pela parte autora, todavia, ficará suspensa em razão do deferimento dos benefícios da gratuidade de justiça (art. 98, §3º, do CPC)." (fl. 324)
+O recorrente diz que o Tribunal de origem, ao manter a improcedência do pedido de indenização por dano moral, não registrou qualquer referência às circunstâncias do presente caso, ofendendo, assim, o disposto no art. 489, § 1º, III e V, do CPC/15.
+Alega, também, a ocorrência de dissídio jurisprudencial, acerca da caracterização do dano moral.
+Contrarrazões às fls. 394/397.
+É o relatório.
+O eg. TRF da 1ª Região julgou improcedente o pedido indenizatório, nestes termos:
+"Dessa forma, não há se falar em condenação da CAIXA ao pagamento de danos morais, uma vez que a alegação da parte autora está limitada à ocorrência de pequenos vícios construtivos em seu imóvel, sem demonstração da significativa e excepcional violação de seu direito da personalidade. Logo, não procede a fundamentação de que os danos morais são presumidos, pois não ficou demonstrada nos autos situação excepcional para tanto. Dentro desse contexto, a sentença de primeiro grau não merece censura." (fl. 315)
+Nesse contexto, competia à parte dizer quais elementos dos autos, comprovando a ocorrência dos danos, teriam sido ignorados pelo Tribunal de origem, sem o que não é possível reconhecer a negativa de prestação jurisdicional.
+A alegação genérica de omissão, portanto, atrai o óbice da Súmula n. 284/STF.
+A respeito da configuração dos danos, não compete ao STJ rever os documentos dos autos para apurar se o autor, além dos dissabores típicos do contexto (vícios na construção do imóvel), teria experimentado abalo moral ou psíquico relevante.
+Incide o óbice da Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
