@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de WENDEL NICOLAU NUNES contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, proferido nos autos de n. 1.0000.24.340146-0/000 e assim ementado (e-STJ fl. 1.070):
+HABEAS CORPUS - TORTURA E SEQUESTRO - AUSÊNCIA DE CONTEMPORANEIDADE - NÃO VERIFICAÇÃO - DECRETAÇÃO DA PRISÃO PREVENTIVA - REVOGAÇÃO - PRESENÇA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR - GARANTIA DA ORDEM PÚBLICA - DECISÃO FUNDAMENTADA - PENA MÁXIMA COMINADA SUPERIOR A QUATRO ANOS - CUSTÓDIA CAUTELAR LEGALMENTE AUTORIZADA - CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO - APLICAÇÃO DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - NÃO CABIMENTO. - Considerando a complexidade do caso, não há que se falar em violação do Princípio da Contemporaneidade. - Presentes os pressupostos e requisitos constantes nos artigos 312 e 313 do Código de Processo Penal não há que se falar em revogação da prisão preventiva, uma vez que está se revela indispensável para garantia da ordem pública. - Também a pena máxima cominada ao crime em questão autoriza a custódia cautelar. - As medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, não se mostram suficientes e adequadas à prevenção e repressão dos delitos imputados à paciente, mormente quando presentes outras circunstâncias autorizadoras da cautela.
+Na presente oportunidade, a defesa afirma a ilegitimidade da prisão preventiva, argumentando a inidoneidade da fundamentação atinente aos riscos à ordem pública e sustentando que a distância entre o cumprimento da prisão temporária e o decreto de prisão preventiva, sem notícia de nova afronta à ordem pública durante esse período em liberdade, evidencia a falta de periculum libertatis.
+Em liminar e no m érito, pede que a custódia seja relaxada.
+É o relatório. Decido.
+Noto que os pedidos ora sob exame já foram objeto do RHC n. 203.412/MG.
+Assim, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o pedido.
+Intimem-se.
+EMENTA
