@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual JANIÊRE MORENO PINTO se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE assim ementado (fls. 228/230):
+Administrativo, Previdenciário e Processual civil - Ação ordinária - Sentença de improcedência Apelação cível da parte autora - Preliminar nas contrarrazões Inobservância do Princípio da Dialeticidade - Não acolhimento - Mérito - Pretensão de revisão de aposentadoria - Alegações autorais de que vantagens recebidas quando ainda na ativa que não teriam sido englobadas no benefício previdenciário e de que tais vantagens estariam com o valor estagnado - Teses contraditórias - Fichas financeiras que confirmam o pagamento das vantagens após a aposentadoria - Não indicação de quais reajustes concedidos aos ativos não lhe foram repassados  Ônus da prova que competia à parte autora  Impossibilidade de o Poder Judiciário conceder reajuste a servidor público  Sentença mantida.
+I  Ao contrário do que sustenta a parte Recorrida, as razões do apelo impugnam especificamente os termos da sentença, não havendo que se falar em inobservância ao Princípio da Dialeticidade, razão pela qual deve ser rejeitada a preliminar;
+II  De forma contraditória, a parte autora alega, primeiramente, que não lhe vem sendo pagas, após a sua aposentadoria, as vantagens que lhe eram devidas quando ainda estava na ativa e, posteriormente, dá a entender que recebe sim tais vantagens, mas que seus valores estão há muito estagnados;
+III  Do exame dos autos, nota-se que as vantagens pagas à parte demandante quando ainda era servidora estadual da ativa continuam lhe sendo pagas após a sua aposentadoria;
+IV  Por outro lado, a parte autora sequer apontais quais foram os reajustes supostamente concedidos aos servidores ativos que não foram repassados aos seus proventos, deixando de fazer prova de suas alegações, ônus que o art. 373, inciso I, do Código de Processo Civil lhe impunha;
+V  Por outro lado, não cabe ao Poder Judiciário conceder reajuste a servidores públicos;
+VI  Em atenção ao art. 85, §11, do CPC, levando em conta o não provimento do recurso, é de se majorar os honorários advocatícios sucumbenciais de 10% (dez por cento) para 13% (treze por cento) do valor atualizado da causa;
+VII  Recurso conhecido e desprovido. Honorários advocatícios sucumbenciais majorados de 10% (dez por cento) para 13% (treze por cento) do valor atualizado da causa.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte agravante sustenta, além de dissídio jurisprudencial, a violação do art. 489 do Código de Processo Civil (CPC) , alegando que "embora o Colendo Tribunal de Justiça de Sergipe entenda que das fichas financeiras da Recorrente se depreende que não há qualquer valor pago a menor, a leitura do acórdão ora recorrido demonstra claramente que não houve fundamentação quanto ao pedido subsidiário da demanda, qual seja o de revisão da aposentadoria da Autora para que seja considerada a base de cálculo a média das contribuições ordinárias sobre a qual incidiu a contribuição previdenciária da Recorrente" (fl. 249).
+Requer "seja declarado nulo o r. acórdão recorrido, haja vista a violação aos artigos 489 do Código de Processo Civil e 93, inciso IX, da Constituição Federal, ante patente negativa de prestação jurisdicional havida in casu" (fl. 256).
+A parte adversa apresentou contrarrazões (fls. 276/288).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Verifico que o art. 489 do CPC não foi apreciado pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial, porque não preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do CPC, o que não foi feito no caso dos autos.
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica. Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça, naquilo que interessa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+ ..
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020 - sem destaques no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3,17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+ ..
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018 - sem destaques no original.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
