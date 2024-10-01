@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por LOCAMERICA RENT A CAR S.A., em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado na alínea "a" e "c", do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fls. 40-41, e-STJ):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. RENOVAÇÃO DE PESQUISA NO SISTEMA SISBAJUD. LAPSO DE TEMPO. RAZOABILIDADE. REALIZAÇÃO DE CONSULTA AO SISTEMA SNIPER. INAPLICABILIDADE. OFÍCIO AO MINISTÉRIO DO TRABALHO E INSS. APLICABILIDADE.
+1. O SISBAJUD é uma ferramenta posta à disposição judicial e seu foco é diminuir os prazos de tramitação dos processos, elastecer a efetividade das decisões judiciais e aperfeiçoar a prestação jurisdicional.
+2. A utilização dos sistemas informatizados não está condicionada ao esgotamento de diligências. Precedentes do STJ.
+3. Os pedidos de reiteração e realização das diligências, realizadas nos sistemas colocados à disposição do Poder Judiciário devem ser analisados, caso a caso, à luz do princípio da razoabilidade.
+4. O Sistema SNIPER, conquanto permita buscas em sistemas eleitorais, de registros, tais como ANAC, Tribunal Marítimo, etc., e ainda a sanções administrativas junto ao Governo Federal (CGU), e a dados junto ao CNJ, estas informações, para fins de localização de bens e valores dos executados/devedores, tem se revelado de baixíssima eficácia, o que inviabiliza a sua ampla aplicação, com dispêndio de recursos e força de trabalho para obtenção de resultados pífios. Até que se demonstre que a aplicação do sistema aprimora o processo executivo, indo além do que já contemplam os sistemas convencionais e já utilizados no caso concreto, de rigor indeferir a diligência.
+5. A jurisprudência tem admitido a relativização da impenhorabilidade da verba de natureza alimentar, prevista no art. 833, IV, do CPC, desde que preservada a dignidade do devedor e de sua família. Precedentes do STJ e desta Corte.
+6. Diante da possibilidade de mitigação da impenhorabilidade salarial, é razoável a medida requerida (ofício ao INSS e ao Ministério do Trabalho) que objetiva obter informações a respeito de possível vínculo empregatício do devedor.
+7. Agravo de instrumento conhecido e provido parcialmente.
+Os embargos declaratórios opostos foram rejeitados (fls. 72-85, e-STJ).
+Nas razões do recurso especial (fls. 88-103, e-STJ), a parte insurgente apontou, além de dissídio jurisprudencial, violação aos artigos 4º, 8º, 139, IV, 771, parágrafo único e 797, do CPC, ao argumento da necessidade de deferimento da utilização do sistema SNIPER para a localização de bens penhoráveis da parte recorrida.
+Não houve contrarrazões.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 132-133, e-STJ), dando ensejo na interposição do presente agravo (fls. 136-147, e-STJ), visando destrancar aquela insurgência.
+Não houve contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Cinge-se a controvérsia acerca da alegada vulneração aos artigos 4º, 8º, 139, IV, 771, parágrafo único e 797, do CPC, ao argumento da necessidade de deferimento da utilização do sistema SNIPER para a localização de bens penhoráveis da parte recorrida.
+A parte insurgente sustenta, em síntese, que "o sistema SNIPER é sim eficaz para a localização de bens, valores e vínculos em nome dos sujeitos que figuram como executados, realidade que, por conseguinte, traz maiores chances de uma resolução célere e efetiva da lide que há anos se desenrola perante o Poder Judiciário" (fl. 96, e-STJ).
+Acerca da controvérsia, o Tribunal local assim decidiu (fls. 46-47, e-STJ):
+O sistema SNIPER (Sistema Nacional de Investigação Patrimonial e Recuperação de Ativos) foi recentemente lançado pelo CNJ, como uma solução tecnológica "desenvolvida pelo Programa Justiça 4.0 que agiliza e facilita a investigação patrimonial para servidores, servidoras, magistrados e magistradas de todos os tribunais brasileiros integrados à Plataforma Digital do Poder Judiciário (PDPJ)" (https://www.cnj.jus.br/tecnologia-da-informacao-e-comunicacao/justica-4-0/sniper/).
+Muito embora viesse admitindo amplamente a utilização desta ferramenta de pesquisa, pude observar que, na prática, não tendo sido frutífera para fins de localização de bens e valores dos executados/devedores, o que, por outro lado, tem sido alcançado pelas pesquisas aos sistemas convencionais, tais como SISBAJUD, RENAJUD e INFOJUD.
+Pertinente ressaltar que, conquanto o SNIPER permita buscas em sistemas eleitorais, de registros, tais como ANAC, Tribunal Marítimo, etc., e ainda a sanções administrativas junto ao Governo Federal (CGU), e a dados junto ao CNJ, estas informações, para fins de localização de bens e valores dos executados, é de baixíssima eficácia, o que inviabiliza a sua ampla aplicação, como tem ocorrido em milhares de processos nesta Corte.
+O que se verifica neste momento é que a consulta a este sistema tem implicado apenas em dispêndio de recursos materiais e de força de trabalho, obtendo por outro lado resultados pífios, inclusive, desconhecido deste Magistrado algum resultado positivo que se tenha obtido através do SNIPER.
+Desse modo, depois de maior reflexão sobre a matéria, refluo do entendimento até então esposado, para afastar a aplicação do SNIPER ao caso concreto, em que já realizadas pesquisas pelos sistemas convencionais, e até de maior efetividade para localizações de bens dos executados/devedores.
+Ilustrativo do entendimento supra, colaciono recente Aresto desta Corte:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA.
+LOCALIZAÇÃO DE BENS DO DEVEDOR. SISTEMA SNIPER. AUSÊNCIA DEUTILIDADE ANTE AS DILIGÊNCIAS JÁ REALIZADAS. 1. O processo de execução tem por escopo principal assegurar o cumprimento da obrigação constante do título extrajudicial, em prazo razoável e de forma a atender a expectativa e o interesse do credor. 2. Sem que a parte agravante esclareça em que medida a consulta ao sistema SNIPER possibilitará a localização de bens que não o foram por meio das ferramentas anteriormente utilizadas, não se vislumbra a utilidade da realização da pesquisa. 3. Recurso conhecido e não provido.
+(Acórdão 1761133, 07187668820238070000, Relator: SONÍRIA ROCHA CAMPOS D"ASSUNÇÃO, 6ª Turma Cível, data de julgamento: 20/9/2023,publicado no DJE: 11/10/2023. Pág.: Sem Página Cadastrada.)"
+Nesse panorama, conclui-se que, ao menos até que se demonstre que a aplicação do sistema SNIPER aprimora o processo executivo, indo além do que já contemplam os sistemas convencionais e já utilizados no caso concreto, de rigor indeferir a diligência.
+Sobre o tema acima, o órgão julgador, amparado nas peculiaridades do caso concreto e nas provas acostadas aos autos, concluiu que em vista de todos os esforços já empreendidos pelo recorrente a fim de localização de bens dos executados, a pesquisa no Sistema Nacional de Investigação Patrimonial e Recuperação de Ativos - SNIPER não se mostraria exitosa, sendo de rigor indeferir a diligência, até que se demonstre que sua aplicação aprimoraria o processo executivo.
+Para alterar tais conclusões, na forma como posta nas razões do apelo extremo, seria necessário o revolvimento de aspectos fáticos e provas dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. BLOQUEIO DE VALORES. PROCEDÊNCIA. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. INOVAÇÃO RECURSAL EM AGRAVO INTERNO. INADMISSÍVEL.
+1. Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem entendeu, com base no conjunto probatório dos autos, pela procedência dos bloqueios SISBAJUD no caso dos autos.
+2. Logo, rever tal entendimento, ao ensejar novo juízo acerca de fatos e provas, conforme pretendido, implicaria o reexame de matéria de fato. Incide, pois, no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. Alegação apresentada apenas no agravo interno constitui inovação recursal, insuscetível de apreciação, considerando a preclusão consumativa. Agravo interno improvido.
+(AgInt no AREsp n. 2.322.406/SP, relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA. BACENJUD. VALOR IRRISÓRIO. DESBLOQUEIO. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. "A jurisprudência desta Corte Superior firmou a compreensão de que não é válido o desbloqueio do valor penhorado pelo Sistema BacenJud, em razão da só inexpressividade frente ao total da dívida" (AgInt no REsp n. 1.959.668/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMa, julgado em 14/12/2021, DJe de 1/2/2022).
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu pela possibilidade de constrição dos valores indicados. Entender de modo contrário demandaria nova análise dos demais elementos fáticos dos autos, inviável em recurso especial, ante o óbice da referida súmula.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.255.131/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023)
+Ainda, no mesmo sentido, estão os seguintes julgados: AREsp n. 2.626.468, Ministro Moura Ribeiro, DJe de 22/08/2024; AREsp n. 2.576.369, Ministra Maria Thereza de Assis Moura, DJe de 09/05/2024; REsp n. 2.100.383, Ministro Marco Aurélio Bellizze, DJe de 06/10/2023.
+Desta forma, para alterar o entendimento do Tribunal local, na forma como posta, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme previsto na Súmula 7/STJ.
+Registra-se, por fim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do inciso III do art. 105 da Constituição Federal. Prec edentes: AgInt no REsp 1765794/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/10/2020, DJe 12/11/2020; AgInt no REsp 1886167/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/10/2020, DJe 22/10/2020; AgInt no AREsp 1609466/ SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/09/2020, DJe 23/09/2020.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
