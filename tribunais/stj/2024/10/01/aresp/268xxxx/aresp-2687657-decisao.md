@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por MARIA EUNICE DE OLIVEIRA, fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+"DUPLA APELAÇÃO CÍVEL. AÇÃO DE NULIDADE DE CONTRATO BANCÁRIO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANO MORAL. CONTRATO DE EMPRÉSTIMO BANCÁRIO NÃO SOLICITADO PELA PARTE AUTORA. DISPONIBILIZAÇÃO DO VALOR EM CONTA BANCÁRIA DE TITULARIDADE DA CONSUMIDORA. ASSINATURA VIRTUAL NÃO COMPROVADA. IMPUGNAÇÃO A ASSINATURA SELFIE. DEVER DA INSTITUIÇÃO BANCÁRIA NA REALIZAÇÃO DE PERÍCIA HÁBIL A CONSTATAR AUTENTICIDADE. TEMA 1.061 STJ. NULIDADE DO CONTRATO. RETORNO AO STATUS QUO ANTE. RESTITUIÇÃO - TEMA 929 STJ. DANO MORAL NÃO CONFIGURADO.
+1. Tratando-se na espécie de contratação de Empréstimo consignado na modalidade digital, com validação de assinatura através de reconhecimento facial via de "selfie", e sendo a mesma impugnada pela contratante, cumpre à instituição financeira demonstrar a regularidade do pacto, realizando perícia apta a tal comprovação, conforme previsão do Tema 1.061 do STJ.
+2. Constatada a irregularidade da contratação discutida, devem as partes retornar ao status quo ante, restando devolvida a quantia disponibilizada a título de empréstimo, não contratado, e a restituição de quantias indevidamente descontadas do benefício da autora.
+3. A restituição em dobro somente é cabível nas cobranças realizadas após a publicação do acórdão referente ao Tema 929/STJ, ou, antes disto, se comprovada a má-fé, o que não ocorreu no caso, devendo até a publicação do referido acórdão (DJe 30/3/2021) a restituição deve ocorrer na forma simples e, depois, em dobro, com a respectiva compensação.
+4. Não sendo demonstrando nos autos que os valores descontados no contracheque da contratante comprometem sua subsistência, incabível indenização por dano moral.
+PRIMEIRA APELAÇÃO CÍVEL PREJUDICADA. SEGUNDA APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA." (Fls. 504-505).
+Nas razões do apelo nobre, a parte recorrente aponta violação aos arts. 6º e 62, VI, do Código de Defesa do Consumidor, sustentando, em síntese, que é cabível a condenação do banco a título de danos morais, em razão dos descontos realizados, oriundos de contratação fraudulenta.
+Contrarrazões às fls. 659-665.
+É o relatório. Passo a decidir.
+A respeito dos danos morais, o eg. TJ-GO, concluiu que não houve comprovação da lesão extrapatrimonial no caso concreto, não se tratando a hipótese de dano moral in re ipsa. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual:
+"Na situação em apreço, não vislumbro a ocorrência de dano moral indenizável.
+A hipótese tratada não caracteriza dano moral in re ipsa, sendo imprescindível a demonstração de consequências fáticas que gere dor, angústia ou sofrimento anormais, isto é, acima do que pode ser tolerado na vida em sociedade. Deve, portanto, repercutir negativamente na esfera de dignidade do consumidor, o que não está evidenciado na situação vertente.
+No caso concreto, consta que o valor descontado mensalmente de seu contracheque a título de reserva de margem consignável compreende pouco mais de 10% de sua renda mensal, o que não é suficiente para comprometer a sua subsistência. Ao menos não ficou comprovado esse comprometimento.
+(..)
+Nesse contexto, embora censurável a conduta do banco apelante, não há demonstração de abalo adicional suficiente a ensejar a procedência do pleito reparatório, devendo o segundo apelo ser provido nessa parte, com a reforma parcial da sentença e o afastamento da condenação por danos morais." (Fls. 499-500).
+Sobre o tema, esta Corte de Justiça interpreta que o abalo moral decorrente da atitude lesiva da instituição financeira não é presumido, o que se afirma a partir da prova constante do processo, levando-se em conta as circunstâncias fáticas e específicas. Nesse sentido:
+"AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMPRÉSTIMO FRAUDULENTO. DECLARAÇÃO DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA. A AGRAVANTE TEVE O VALOR CREDITADO EM CONTA BANCÁRIA, TODAVIA, NÃO PROCEDEU À DEVOLUÇÃO AO AJUIZAR A AÇÃO. MERO ABORRECIMENTO. DANO MORAL. NÃO CONFIGURADO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7 DO STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. "(..) a fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes" (AgInt no AREsp n. 2.157.547/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 12.12.2022, DJe de 14.12.2022), o que não ocorreu na espécie.
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.117.699/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 2/9/2024, DJe de 4/9/2024.)
+Nesse contexto, estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+Além disso, a modificação de tal entendimento - para concluir pela existência de dano moral - considerando as circunstâncias do caso concreto, demandaria o revolvimento de suporte fático-probatório dos autos, inviável em sede de recurso especial, a teor da Súmula n. 7/STJ. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO. DANO MORAL NÃO CONFIGURADO. PARTICULARIDADES DA CAUSA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DISSÍDIO PREJUDICADO. ALEGADA VIOLAÇÃO AOS ARTS. 976 E 978 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que a fraude bancária, ensejadora da contratação de empréstimo, não pode ser considerada, por si só, suficiente para a caracterização do dano moral, sendo necessária a existência de circunstâncias agravantes que possam configurar a lesão extrapatrimonial.
+2. No caso, infirmar as convicções alcançadas pelo Tribunal de origem (acerca da ausência de elementos para a configuração da violação aos direitos da personalidade da recorrente, a ensejar a indenização por danos morais) exige o reexame de matéria fático-probatória dos autos, o que é vedado, no âmbito do recurso especial, conforme a Súmula 7 do Superior Tribunal de Justiça.
+3. O não conhecimento do recurso especial pela alínea a do permissivo constitucional, diante da incidência da Súmula 7/STJ, prejudica o exame do dissídio jurisprudencial.
+4. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, o que não ocorreu na presente hipótese (Súmulas n. 282 e 356/STF).
+5. Agravo interno desprovido."
+(AgInt no AREsp n. 2.544.150/MA, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/5/2024, DJe de 15/5/2024)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO CONFIGURADA. EMPRÉSTIMO CONSIGNADO. FRAUDE POR TERCEIRO. DANO MORAL PRESUMIDO. NÃO OCORRÊNCIA. NECESSIDADE DE PROVA DE ABALO ANÍMICO. REEXAME DE PROVAS. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES. REJEITADOS.
+1. A Corte de origem, com base na análise do lastro probatório colacionado aos autos, compreendeu que os descontos indevidos realizados na conta do consumidor não lhe causaram abalo moral que ultrapassasse o mero aborrecimento. A modificação do referido posicionamento demandaria o reexame de fatos e provas, o que é vedado pelo óbice disposto na Súmula 7/STJ.
+2. Embargos de declaração acolhidos, sem efeitos infringentes."
+(EDcl no AgInt no AREsp n. 2.134.022/SC, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/12/2022, DJe de 14/12/2022)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
