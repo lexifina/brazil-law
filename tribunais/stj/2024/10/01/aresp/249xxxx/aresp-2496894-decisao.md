@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial pelo qual o ESTADO DE SANTA CATARINA se insurgira contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+A questão debatida nos autos teve sua repercussão geral reconhecida pelo Supremo Tribunal Federal (STF) nos autos do Recurso Extraordinário 1.317.982/ES, sessão do Plenário eletrônico de 23/9/2021, e foi assim delimitada:
+"Validade dos juros moratórios aplicáveis nas condenações da Fazenda Pública, em virtude da tese firmada no RE 870.947 (Tema 810), na execução de título judicial que tenha fixado expressamente índice diverso", encontra-se com repercussão geral reconhecida pelo Supremo Tribunal Federal" (Tema 1.170).
+Confira-se a ementa do julgado:
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. EMBARGOS A EXECUÇÃO. JUROS MORATÓRIOS INCIDENTES SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ARTIGO 1º-F DA LEI 9.494/1997. COM A REDAÇÃO DADA PELA LEI 11.960/2009. RE 870.947. TEMA 810 DA REPERCUSSÃO GERAL. GARANTIA DA COISA JULGADA. JUÍZO NEGATIVO DE RETRATAÇÃO NA ORIGEM. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. RELEVÂNCIA DA QUESTÃO CONSTITUCIONAL. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL. (RE 1.317.982 RG, Relator MINISTRO PRESIDENTE, Tribunal Pleno, julgado em 23/9/2021, DJe de 27/10/2021.)
+Dessa forma, por medida de economia processual e para evitar decisões divergentes entre o Supremo Tribunal Federal e o Superior Tribunal de Justiça, os recursos de temas similares em curso neste Tribunal devem aguardar na Corte de origem a solução do recurso extraordinário afetado, viabilizando, assim, o juízo de conformação nos termos dos arts. 1.039 e 1.040 do Código de Processo Civil (CPC).
+Somente após tal providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Tribunal superior para a análise das questões jurídicas nele suscitadas e que não ficarem prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão do recurso representativo da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimem-se.
+ EMENTA
