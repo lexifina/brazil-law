@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de JULIO CESAR DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Paciente foi condenado pela suposta prática da conduta prevista no art. 157, 2º, VII, do Código Penal, à pena de 7 (sete) anos, 1 (um) mês e 10 (dez) dias de reclusão, em regime fechado; negado o direito de recorrer em liberdade.
+No presente writ, a Defesa alega, em linhas gerais, a existência de constrangimento ilegal consubstanciado no encarceramento provisório mantido em desfavor do Paciente.
+Sustenta a ocorrência de excesso de prazo para o julgamento da apelação.
+Aduz que "O fato é que com o narrado acima, o Paciente encontra-se recluso por 81 (oitenta e um) dias, sem resposta do julgamento, e pelo que tudo indica, ainda tardará a iniciar" (fl. 6).
+Requer o relaxamento da prisão do Paciente.
+A liminar foi indeferida, às fls. 337-338.
+Informações prestadas, às fls. 343-353 e 357-359. O Ministério Público Federal em parecer, às fls. 360-364, opinou pela denegação da ordem:
+"HABEAS CORPUS SUBSTITUTIVO. ROUBO MAJORADO PELO REPOUSO NOTURNO E MEDIANTE ROMPIMENTO DE OBSTÁCULO. ALEGAÇÃO DE EXCESSO DE PRAZO DA PRISÃO PREVENTIVA. CONDENAÇÃO COM MANUTENÇÃO DA PRISÃO PREVENTIVA. PENA DE 7 ANOS, 1 MÊS E 10 DIAS DE RECLUSÃO, EM REGIME INICIAL FECHADO PERMANECEU PRESO DURANTE TODA A INSTRUÇÃO CRIMINAL E GRAVE RISCO À ORDEM PÚBLICA. PACIENTE QUE TAMBÉM RESPONDE PELO CRIME DE ROUBO QUALIFICADO PELO EMPREGO DE ARMA BRANCA. PERICULOSIDADE DO AGENTE. PELO NÃO CONHECIMENTO DO WRIT OU PELA DENEGAÇÃO DA ORDEM" (fl. 360).
+É o relatório. DECIDO.
+Pretende  o  Paciente,  em  síntese,  o  reconhecimento  de  constrangimento  ilegal  consubstanciado  no  excesso  de  prazo  para  o  julgamento  da  apelação.
+Inicialmente,  deve  se  ressaltar  que  os  prazos  processuais  não  têm  as  características  de  fatalidade  e  de  improrrogabilidade,  fazendo-se  imprescindível  raciocinar  com  o  juízo  de  razoabilidade  para  definir  o  excesso  de  prazo.
+Na  hipótese,  não  se  verifica  a  existência  de  demora  exacerbada  a  configurar  o  constrangimento  ilegal  suscitado,  levando  em  consideração  a  gravidade  concreta  da  conduta ,  tendo  sido  aplicada  ao  Paciente reprimenda de  7 (sete) anos, 1 (um) mês e 10 (dez) dias de reclusão, pela suposta prática do delito de roubo majorado;  não  apresentando  qualquer  irregularidade  capaz  de  justificar  o  relaxamento  da  prisão  cautelar  sob  o  fundamento  de  excesso  de  prazo.
+No  ponto,  cumpre  registrar  que,  de  acordo  com  a  jurisprudência  desta  Corte,  o  excesso  de  prazo  para  o  julgamento  da  apelação  deve  levar  em  consideração  o  quantum  da  pena  aplicada  pela  sentença  condenatória:
+"2.  Esta  Corte  tem  reiterada  jurisprudência  no  sentido  de  que  a  análise  do  excesso  de  prazo  para  o  julgamento  da  apelação  deve  levar  em  consideração  o  quantum  de  pena  aplicada  na  sentença  condenatória.(Precedentes.)3.  Na  presente  hipótese,  o  paciente  foi  condenado  a  uma  pena  total  de  13  anos,  4  meses  e  15  dias.  Está  dentro  dos  limites  da  razoabilidade,  portanto,  o  prazo  de  15  meses  desde  o  aviamento  do  recurso  de  apelação  até  a  presente  data,  mormente  se  considerado  que  o  feito  encontra-se  concluso  para  julgamento"  (HC  n.  465.753/PR,  Sexta  Turma,  Rel.  Min.  Antonio  Saldanha  Palheiro,  DJe  de  08/03/2019,  grifei).
+No mais, não restou demonstrado que, em razão de eventual demora para a apreciação do recurso de apelação, o Paciente se encontra impedido de usufruir de benefícios relativos à execução da pena:
+"Não há demonstração de que, em razão de eventual demora para a apreciação da apelação, os agravantes se encontrem impedidos de usufruir de benefícios relativos à execução da pena" (AgRg no RHC n. 148.614/SP, Sexta Turma, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 18/2/2022).
+"não verifico flagrante excesso de prazo para o julgamento do recurso, pois não demonstrado que, em razão de eventual demora para a apreciação da apelação, o paciente se encontra impedido de usufruir de benefícios relativos à execução da pena, que já foi iniciada, tendo sido expedida a competente guia de execução provisória" (HC 414.264/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/12/2017).
+Diante  de  tais  considerações,  portanto,  não  se  vislumbra  a  existência  de  qualquer  flagrante  ilegalid ade  passível  de  ser  sanada  pela  concessão  da  ordem.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
