@@ -1,0 +1,60 @@
+DECISÃO
+MAXWELL BARRETO SANTOS ALMEIDA e GLEIDSON RICARDO RODRIGUES DE JESUS SANTANA alegam sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe no HC n. 202400329801.
+A defesa relata que os pacientes são pais de filhos menores que dependem deles para subsistir.
+Entende não haver elementos seguros nos autos a apontarem a autoria do delito e que não há fundamentos que justifiquem a manutenção da constrição dos réus.
+Aponta, ainda, excesso de prazo na constrição cautelar, haja vista os insurgentes estarem presos há mais de 1 ano e 10 meses, não ter havido produção de prova em relação à autoria e não haver previsão para o encerramento da primeira fase do procedimento escalonado do Júri.
+Requer a revogação da prisão preventiva ou a sua substituição por medidas menos gravosas.
+A liminar foi indeferida e as informações foram prestadas.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem.
+Decido.
+Segundo os autos, os pacientes estão presos preventivamente, pela suposta prática do crime previsto no art. 121, § 2º, I e IV, c/c o art. 14, II, do CP.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que assim denegou a ordem (fls. 81-92):
+ ..
+Postas essas considerações destaco que, em consulta ao Sistema de Controle Processual deste Egrégio Tribunal de Justiça, constata-se a regularidade do feito, pois, embora envolva apenas dois réus, trata-se de um processo complexo, houve a necessidade de realização de diversas diligências, tais como confecção de laudos periciais, expedição de ofícios, oitiva de inúmeras testemunhas, além da formulação de pedidos pela defesa dos denunciados (impetração de habeas corpus, pedido de liberdade provisória, etc.).
+No presente caso, em razão da suposta prática da tentativa do crime de homicídio qualificado (art. 121, §2º, incisos I e IV c/c art. 14, inciso II, ambos do Código Penal), observo, no processo tombado sob o nº 202220500570, que após representação formulada pela autoridade policial, da qual o Ministério Público se manifestou favorável, a autoridade apontada como coatora decretou a prisão preventiva dos pacientes, no dia 12.09.2022.
+Os mandados de prisão expedidos em desfavor dos pacientes foram cumpridos em 15.09.2022, com a audiência de custódia realizada no dia 16.09.2022.
+Logo em seguida, na Ação penal de nº 202220500638, com o oferecimento da peça acusatória (28.09.2022), essa foi recebida pelo Juiz de Origem em 03.10.2022, e sendo determinada a citação dos denunciados, esses apresentaram defesa prévia em 24.11.2022.
+Laudo pericial de balística nº 202 2 .1. 2594 foi acostado aos autos de origem em 07.03.2023.
+Realizada a audiência de instrução e julgamento no dia 14.03.2023, e diante da necessidade da oitiva de duas testemunhas, ausentes injustificadamente, o juiz de origem deferindo o pedido formulado pelo Ministério Público, designou a continuação do ato instrutório para o dia 11.07.2023, com a condução coercitiva das testemunhas ausentes, redesignada para o dia 29.08.2023, ante a ausência do Ministério Público.
+Juntada do Laudo Pericial do Local de constatação de vestígios de nº 2022.1.1043 - SSP/COGERP/IC em 03.04.2023.
+No dia aprazado para a realização da assentada, em razão da ausência injustificada da testemunha Diego, e da insistência em sua oitiva pelo Ministério Público, o juiz de primeiro grau designou a sua continuação para o dia 05.12.2023. Na data em questão, procedendo-se à oitiva das testemunhas Diego e Reginaldo, bem como ao interrogatório dos pacientes, foi encerrada a instrução, concedendo-se prazo às partes para o requerimento de diligências.
+Nesse sentido, o Ministério Público requereu Laudo Pericial de Lesões Corporais) e das imagens de segurança e exame de identificação facial forense.
+Tendo em vista o não comparecimento da suposta vítima no IML para fins de confecção do respectivo laudo, deferindo o pedido formulado pelo Ministério Público, a dita autoridade coatora determinou a elaboração do laudo de lesões corporais levando em conta o exame de corpo de delito indireto, o qual foi juntado ao processo de origem em 18.06.2024.
+Assim, atualmente, o processo se encontra aguardando a juntada do laudo pericial para o oferecimento das alegações finais pelas partes.
+Neste diapasão, não há como vislumbrar o excesso injustificado de prazo ora aduzido neste Remédio Constitucional, ao menos nesse momento, porque como se depreende dos informes apresentados pela impetração e dos elementos colhidos nos autos, a causa apresenta nuances determinantes de superação da ordinária temporalidade para a realização dos atos processuais respectivos.
+ ..
+Ademais, a instrução criminal se encontra encerrada, sendo imperiosa a aplicação do entendimento sumular do Superior Tribunal de Justiça sobre o assunto:
+"Súmula 52, STJ. Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo." Diante de tal cenário, entendo que o feito tramita regularmente, pelo que desmerece guarida o argumento de excesso prazal.
+Prosseguindo, quanto à insurgência trazida na impetração, concernentes a inexistência dos requisitos aptos a justificar a manutenção da prisão e a ausência de fundamentação da decisão que decretou, constato, de plano, óbice legal à apreciação por esta Corte de Justiça.
+É que, ao consultar o Sistema de Controle Processual deste Tribunal, verifico que tais argumentos já foram objeto de apreciação por esta Corte nos Habeas Corpus nº 202300319763 e de nº 202400301319, os quais foram julgados nos dias 06.06.2023 e 09.02.2024, nos termos das ementas abaixo:
+ ..
+Destaco que o impetrante não apresentou fatos ou fundamentos novos quanto à situação enfrentada naqueles Habeas Corpus, por esta razão, é que se impõe o não conhecimento do writ, posto que operada a coisa julgada a esse respeito.
+Portanto, em relação a estes pontos, não conheço do Habeas Corpus.
+Em relação ao argumento de que os pacientes são réus primários, com residência fixa e profissão definida, ressalto que a simples presença de condições subjetivas favoráveis não é suficiente para permitir a concessão da ordem liberatória, em especial quando demonstrados os requisitos para a decretação da preventiva, como no caso em tela. Sendo esse o entendimento do STJ:
+ ..
+No que tange ao princípio da homogeneidade e da presunção de inocência, vale destacar que tais princípios não são incompatíveis com a prisão processual, uma vez que esta não deriva do reconhecimento de culpabilidade, mas sim de outros requisitos que devem ser valorados, tais como a periculosidade do agente ou a garantia da ordem pública, requisitos estes que, como já explicitado acima, se encontraram presentes no momento de decretação da prisão do paciente.
+Prematuro o exame acerca de violação ao princípio da homogeneidade pois a penalidade a ser futuramente aplicada, se condenada a paciente, não poderá ser antevista para concessão da ordem do habeas corpus.
+Portanto, impossível neste momento fazer ilações sobre a perspectiva de pena in concreto, uma vez que a fixação desta, assim como do regime prisional decorre da ponderação dos elementos de prova a serem produzidos na instrução criminal. Além do mais, esta é uma questão que dependerá da análise completa das circunstâncias judiciais previstas no art. 59 do Código Penal, no momento de prolação da Sentença, sendo, portanto, inviável a concessão de Habeas Corpus por presunção.
+ ..
+Outrossim, a imposição de medidas cautelares exige a demonstração da necessidade e adequação da providência, que deve se fundar ainda na proporcionalidade em sentido estrito.
+ ..
+Dito isto, embora a Lei 12.403/11 tenha trazido a prisão preventiva como última hipótese, observando os autos verifico que as medidas cautelares descritas no art. 319 do Código de Processo Penal se afiguram, pelo menos neste instante, insuficientes e inadequadas para garantir a investigação e a instrução criminal, bem como para a garantia da ordem pública, tornando-se necessária a manutenção da prisão preventiva.
+Vê-se que a aplicação de quaisquer das medidas cautelares diversas da prisão preventiva não se revela adequada ante a forma de atuação do paciente, do que se extrai evidente ameaça social.
+De início, cabe ressaltar que o Tribunal a quo não conheceu do writ quanto ao pedido de revogação da prisão preventiva, porque o pleito havia sido objeto de recente análise por aquele colegiado. Como a defesa não juntou a estes autos o acórdão que teria tratado do assunto, não há como se conhecer da questão neste momento.
+Também, verifico que a alegação de que os réus são imprescindíveis aos cuidados dos filhos menores não foi discutida no acórdão recorrido, o que impede o conhecimento da questão, a fim de não se incorrer em indevida supressão de instância.
+Dito isso, cumpre ressaltar que os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Quanto ao tema, é "uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação" (AgRg no HC n. 711.679/SP, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, 6ª T., DJe 11/3/2022).
+Nessa esteira, esta Corte Superior tem entendido que " o  prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. Ministro Felix Fischer, 5ª T., DJe 17/9/2015).
+Na espécie, não constato desídia do Juízo natural da causa na condução do processo, a ensejar a intervenção desta Corte Superior.
+A despeito de os acusados estarem presos desde 15/9/2022, o feito tem sido conduzido dentro de prazo razoável, máxime se considerada, conforme ressaltado pelo Tribunal de origem, a "necessidade de realização de diversas diligências, tais como confecção de laudos periciais, expedição de ofícios, oitiva de inúmeras testemunhas, além da formulação de pedidos pela defesa dos denunciados (impetração de habeas corpus, pedido de liberdade provisória, etc.)" (fl. 81).
+Além disso, em pesquisa no sistema eletrônico da Corte local, constatou-se que o laudo pericial faltante foi acostado ao feito e o Magistrado de primeiro grau já determinou a intimação das partes para oferecimento das alegações finais, o que atrai a incidência da Súmula n. 52 do STJ ao caso.
+Nesse sentido:
+ ..
+6. Quanto ao alegado excesso de prazo na formação da culpa, de acordo com informações colhidas no endereço eletrônico do Tribunal de origem, verifica-se que, em 09/08/2023, houve o encerramento da instrução, porquanto o feito está na fase de alegações finais. Desse modo, fica superada a alegação de constrangimento ilegal por excesso de prazo, nos termos da Súmula n. 52 do Superior Tribunal de Justiça: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+ ..
+(AgRg no HC n. 778.355/PE, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Assim, o prazo de segregação cautelar não se mostra desproporcional, principalmente por se tratar de feito submetido ao rito especial do Tribunal do Júri.
+Nesse contexto, não constato, por ora, ofensa aos princípios da razoabilidade e da proporcionalidade a fim de malferir o caráter de provisoriedade da prisão, porquanto razoável o lapso temporal decorrido, o que afasta a suposta alegação de incúria na prestação jurisdicional.
+À vista do exposto, conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
