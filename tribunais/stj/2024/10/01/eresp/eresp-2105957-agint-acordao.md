@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 25/09/2024 a 01/10/2024, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto da Sra. Ministra Maria Thereza de Assis Moura.
+Os Srs. Ministros Francisco Falcão, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC. SÚMULA 182/STJ APLICADA, POR ANALOGIA. HONORÁRIOS ADVOCATÍCIOS MAJORADOS. ART. 85, § 11, DO CPC. QUANTUM INCIDENTE SOBRE PERCENTUAL ANTERIORMENTE FIXADO. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 27, § 1º, DO DECRETO-LEI 3.365/41. AGRAVO INTERNO CONHECIDO EM PARTE E NEGADO PROVIMENTO.
+01. "Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ". (AgInt no AREsp n. 2.067.588/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/8/2024)
+02. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024)
+03. Em relação à majoração dos honorários determinada na decisão impugnada, não há falar em violação ao disposto no art. 27, § 1º, do Decreto-Lei 3.365/41, pois o percentual de 15% incide sobre o valor anteriormente arbitrado, que obedeceu aos parâmetros ditados pelo referido artigo.
+04. Agravo interno parcialmente conhe cido e negado provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto por VALEC - ENGENHARIA, CONSTRUÇÕES E FERROVIAS S.A., contra decisão proferida pela Presidência do STJ, que indeferiu liminarmente os embargos de divergência em razão da incidência da Súmula 315/STJ (fls. 848/849).
+Na sua petição de agravo, a agravante afirma que "Embora o Acórdão tenha, ao final, negado provimento ao agravo interno, e, antes, não conhecido do recurso especial, houve a discussão dos fundamentos, até o caso permite uma apreciação" (fl. 854).
+Defende que "Ninguém está discutindo que a Embargante não ofertou um valor superior ao fixado na Sentença/Acórdão. É fato incontroverso. A controvérsia é apenas sobre os honorários e despesas, porque na origem não houve aplicação do arts. 19 da LC n. 76/93; 85 e 82, § 2º, do CPC; e 30 do Decreto-Lei n. 3.365/41" (fl. 854).
+Questiona a majoração dos honorários determinada na decisão impugnada, alegando que "Essa majoração de honorários não respeita teto previsto para as desapropriações, violando precedentes vinculantes do STF e do STJ" (fl. 855).
+Requer, o provimento do agravo interno, para condenar o embargado em honorários de sucumbência e ao reembolso das despesas, além da revogação/reforma da majoração de honorários.
+Contrarrazões apresentadas às fls. 874/875 .
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC. SÚMULA 182/STJ APLICADA, POR ANALOGIA. HONORÁRIOS ADVOCATÍCIOS MAJORADOS. ART. 85, § 11, DO CPC. QUANTUM INCIDENTE SOBRE PERCENTUAL ANTERIORMENTE FIXADO. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 27, § 1º, DO DECRETO-LEI 3.365/41. AGRAVO INTERNO CONHECIDO EM PARTE E NEGADO PROVIMENTO.
+01. "Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ". (AgInt no AREsp n. 2.067.588/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/8/2024)
+02. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024)
+03. Em relação à majoração dos honorários determinada na decisão impugnada, não há falar em violação ao disposto no art. 27, § 1º, do Decreto-Lei 3.365/41, pois o percentual de 15% incide sobre o valor anteriormente arbitrado, que obedeceu aos parâmetros ditados pelo referido artigo.
+04. Agravo interno parcialmente conhe cido e negado provimento.
+VOTO
+O recurso deve ser parcialmente conhecido.
+No que tange à alegação de violação ao disposto nos arts. 19 da Lei Complementar 76/93 e 85 do CPC, o artigo 932, inciso III, do Código de Processo Civil assevera que "incumbe ao relator (..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida". Idêntica redação consta no artigo 255, §4º, inciso I, do Regimento Interno do STJ. Ambos os dispositivos nasceram por inspiração no enunciado 182 da Súmula do STJ, que reza:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+O regramento supra mencionado é utilizado para o julgamento unipessoal dos processos no STJ, que não tenham obedecido o princípio da dialeticidade.
+Para o agravo interno, o Código de Processo Civil trouxe a previsão contida no artigo 1.021, § 1º, segundo a qual, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada". No mesmo sentido é a dicção do artigo 259, § 2º, do Regimento Interno do STJ.
+Na hipótese em análise, a decisão monocrática de fls. 848/849, fundou-se na incidência do enunciado 315 da Súmula do STJ, diante da impossibilidade de apreciação de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial.
+Todavia, em sede de agravo interno, a recorrente não impugnou suficientemente o fundamento da decisão monocrática, tendo se limitado a aventar que, embora não tenha conhecido do recurso especial "houve a discussão dos fundamentos" (fl. 854).
+A respeito do tema, saliente-se que, "em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ." (AgInt no AREsp n. 2.067.588/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/8/2024)
+De fato, "o princípio da dialeticidade impõe à defesa o ônus de demonstrar o desacerto da decisão agravada. Nos termos da jurisprudência desta Corte Superior, em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos". (AgRg no HC n. 783.172/SP, rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe de 15/2/2023)
+Desse modo, "verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO MANDO DE SEGURANÇA. RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL QUANDO DA INTERPOSIÇÃO DO RECURSO. COVID-19.
+(..)
+3. Em observância ao disposto no art. 1.021, § 1º, do CPC, que reforça o entendimento já consolidado na Súmula n. 182 do STJ, não se conhece de agravo interno que não impugna os fundamentos de decisão agravada.
+4. Agravo interno não conhecido.
+(AgInt nos EDcl no MS n. 28.813/DF, rel. Min. João Otávio de Noronha, Corte Especial, DJe de 16/8/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO.
+1. O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Cuida-se de agravo contra decisão da Presidência desta Corte que inferiu liminarmente os embargos de divergente ao fundamento de que "não se admite a interposição de embargos de divergência na hipótese de não ter sido apreciado o mérito do recurso especial, atraindo, por analogia, o teor da Súmula n. 315/STJ".
+3. À luz do do disposto na Súmula 182/STJ e nos artigos 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ o recorrente impugnará especificadamente os fundamentos da decisão agravada, sob pena de não conhecimento. Precedentes.
+4. Agravo interno não conhecido.
+(AgInt nos EAREsp n. 1.738.515/RJ, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 30/11/2021, DJe de 2/12/2021.)
+Por fim, em relação à majoração dos honorários determinada na decisão impugnada, não há falar em violação ao disposto no art. 27, § 1º, do Decreto-Lei 3.365/41, pois o percentual de 15% incide sobre o valor anteriormente arbitrado, que obedeceu aos parâmetros ditados pelo referido artigo.
+Ante o exposto, conheço em parte do agravo interno e nego-lhe provimento.
+É como voto.
