@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por ANA PAULA MARTINELLI, no recurso especial do INSTITUTO NACIONAL DO SEGURO SOCIAL, o qual foi provido (fls. 353-356).
+Em embargos de declaração, sustenta o embargante que "o benefício sequer foi reimplantado, não havendo absolutamente nada a ser devolvido pela parte Recorrida" (fl. 361).
+Intimada a se manifestar (fl. 376), a autarquia permaneceu inerte (fl. 382).
+É o relatório. Decido.
+Assiste razão à parte embargante, pelo que torno sem efeito o dispositivo da decisão de fls. 353-356 e faço integrá-la com efeitos modificativos.
+Mesmo tendo o Superior Tribunal de Justiça, sob a sistemática dos recursos especiais repetitivos (Tema 692/STJ), firmado entendimento no sentido de que "A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago", ao que se tem dos autos, o recurso especial não comporta conhecimento, por ausência de interesse recursal.
+Com efeito, pelo que se observa da decisão de fls. 35-37, foi concedido efeito suspensivo à tutela de urgência, sendo esta cassada pelo acórdão de fls. 47-53, e rejeitados os embargos de declaração opostos pela autarquia (fls. 92-97). Assim, conforme sustentado pela parte embargante, "o benefício sequer foi reimplantado, não havendo absolutamente nada a ser devolvido pela parte Recorrida" (fl. 361), uma vez que a tutela provisória não chegou sequer a ser efetivada. O que a segurada recebeu foi decorrente de sentença transitada em julgado, in verbis (fl. 49):
+No caso em apreço, o INSS foi condenado a conceder à autora o benefício de auxílio-doença, por meio de sentença transitada em julgado em 13.06.2017. Em cumprimento à ordem judicial, a autarquia previdenciária noticiou a implantação do referido benefício, com data de cessação em 01.05.2017 ("alta-programada").
+Dessarte, não há objeto a ser tutelado por meio do recurso interposto, não merecendo, assim, ser conhecido o recurso especial da autarquia, atraindo ainda o teor da Súmula n. 284 do STF, uma vez que o recorrente não logrou êxito em fundamentar adequadamente seu recurso.
+Ante o exposto, acolho os embargos de declaração com efeitos modificativos para tornar sem efeito o dispositivo da decisão de fls. 353-356, bem como para integrá-la e, com fundamento no art. 255, § 4º, I, do RISTJ, não conhecer do recurso especial do INSTITUTO NACIONAL DO SEGURO SOCIAL.
+Publique-se. Intimem-se.
+EMENTA
