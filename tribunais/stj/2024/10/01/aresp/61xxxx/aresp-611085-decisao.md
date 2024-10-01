@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial. O apelo nobre obstado enfrenta acórdão, assim ementado:
+PROCESSO CIVIL. AGRAVO EM DECISÃO MONOCRÁTICA DO RELATOR. APELAÇÃO CÍVIL. VÍCIOS DE CONSTRUÇÃO. IMÓVEIS FINANCIADOS COM RECURSOS DO SISTEMA FINANCEIRO DA HABITAÇÃO. COBERTURA SECURITÁRIA. LEGITIMIDADE. COMPETÊNCIA. APÓLICE PÚBLICA. RAMO 66. CONTRATO EXTINTO PELA LIQUIDAÇÃO. DECISÃO MANTIDA.
+1. Reconhecida a legitimidade passiva da CEF nos feitos em que o contrato pertence à Apólice Pública (Ramo 66) garantida pelo FESA/FCVS. Descabida a remessa dos autos para a Justiça Estadual. Precedentes da Corte.
+2. Tendo havido a liquidação do contrato de mútuo habitacional (contrato principal) e a extinção do contrato de seguro a ele vinculado (contrato acessório), inexiste, a partir daí, pretensão à cobertura securitária decorrente da apólice habitacional adjeta.
+3. Decisão mantida.
+No recurso especial, o recorrente alega violação do artigo 50 do CPC/73, argumentando que a Caixa Econômica Federal não deveria ingressar no feito como litisconsorte passivo, uma vez que não demonstrou efetivo interesse jurídico. Além disso, sustenta que, caso admitida a participação da Caixa, esta deveria ocorrer como assistente simples, devendo receber o processo no estado em que se encontra, sem deslocamento de competência para a Justiça Federal.
+Além disso, sustenta que a quitação do financiamento não impede o direito de pleitear indenização por vícios de construção. Alega que os danos possuem natureza progressiva, manifestando-se durante a vigência do financiamento.
+Por fim, quanto a esse ponto, suscita a existência de divergência jurisprudencial.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Passo a decidir.
+Consigne-se que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Inicialmente, há de se registrar que a Corte Especial deste STJ, no julgamento do CC n. 148.188/DF (DJe 16/10/2023), firmou orientação de que compete a Primeira Seção o julgamento dos processos em que possa haver comprometimento dos recursos do Fundo de Compensação das Variações Salariais - FCVS, como é o caso dos autos.
+Em relação ao interesse da CEF e respectiva competência para processar e julgar a causa, evidencia-se que houve negativa de seguimento do recurso em razão da conformidade do acórdão com a orientação firmada pelo Supremo Tribunal Federal (Tema 1.011/STF) (fl. 1.752), sendo descabida, portanto, nova discussão do tema.
+No que diz respeito à matéria remanescente, relativa à tese de que a quitação contratual de mútuo não afasta a cobertura securitária prevista pela apólice adjeta ao contrato de financiamento, o recorrente não individualizou qual dispositivo de lei federal ou tratado foi violado. De fato, as razões do recurso especial são deficientes, pois o recorrente se limita a expor alegações genéricas, sem indicar qual dispositivo foi contrariado pelo acórdão recorrido. Essa situação, evidenciada nos autos, impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284 do STF.
+Outrossim, a jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente, configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com fundamento no artigo 105, III, "c", da Constituição Federal. Incidência da Súmula 284/STF.
+Nesse sentido: AgInt no AREsp 2.154.276/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 14/3/2024; AgInt no REsp 1.957.278/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe 20/9/2023; AgInt no REsp 2.042.531/SC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/9/2023; AgInt no AREsp 2.194.861/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe 11/5/2023.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial .
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
