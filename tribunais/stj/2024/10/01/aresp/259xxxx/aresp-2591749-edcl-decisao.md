@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Edgar Rafael Safdie à decisão monocrática de fls. 82-85 (e-STJ), na qual esta relatoria conheceu do seu agravo para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+Em suas razões recursais (e-STJ, fls. 88-91), sustenta a existência de erro de premissa na decisão embargada. Alega que não se insurgiu contra a extinção do feito, mas, sim, contra a inclusão das custas na dívida ativa.
+Impugnação às fls. 95-96 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo apenas cabíveis nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO CIVIL POR DANOS MATERIAIS, MORAIS C/C LUCROS CESSANTES. CONTRATO DE CESSÃO DE DIREITOS DE USO DE ÁREA IMÓVEL. OMISSÃO. OBSCURIDADE. INEXISTÊNCIA. ERRO MATERIAL. CORREÇÃO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Existência de erro material que deve ser sanado, para restabelecer a decisão agravada, que acrescentou 10% (dez por cento) à verba previamente arbitrada nas instâncias precedentes, perfazendo 11% (onze por cento) sobre o valor da condenação.
+3. Embargos de declaração rejeitados, sanado erro material.
+(EDcl no AgInt no AREsp 1.424.868/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 30/08/2021, DJe 02/09/2021).
+Na hipótese dos autos, o insurgente alega a existência de erro de premissa no julgado, porquanto não teria se insurgido contra a extinção do feito, mas, sim, contra a inclusão das custas na dívida ativa.
+Ora, na decisão embargada apenas se confirmou a conclusão do Tribunal estadual sobre o descabimento do agravo de instrumento contra a decisão que põe fim ao processo.
+Veja-se às fls. 83-84 (e-STJ):
+Da acurada análise da decisão recorrida, verifica-se que o Tribunal de origem concluiu pelo descabimento do agravo de instrumento contra a decisão que, extinguindo os embargos à execução por deserção, determinaram a inclusão das custas na dívida ativa.
+Veja-se às fls. 31-32 (e-STJ):
+Alega o agravante que discute apenas parte da decisão de primeiro grau, qual seja, a inscrição de seu nome na dívida ativa, contudo, ainda que seu interesse seja abordar apenas parte da decisão, não se pode admitir a interposição de agravo de instrumento, uma vez que, como já exposto, trata- se de pronunciamento judicial de caráter terminativo, desafiando o recurso de apelação, pouco importando sobre quais aspectos a parte pretende discutir. Em verdade, é um erro grosseiro do advogado, haja vista não ser o caso de sentença parcial de mérito ou unicamente uma decisão interlocutória, se colocou fim ao processo, o recurso cabível é apelação.  ..  Deve ser mantida, por tais razões, a r. decisão recorrida.
+A jurisprudência desta Corte é no sentido do descabimento do agravo de instrumento contra a decisão que põe fim à demanda.
+Nesse sentido:
+DIREITO CIVIL E PROCESSO CIVIL. RECUPERAÇÃO JUDICIAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HABILITAÇÃO RETARDATÁRIA. HOMOLOGAÇÃO DO QUADRO GERAL DE CREDORES. EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO. RECURSO CABÍVEL. APELAÇÃO. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO. 1. "O princípio da fungibilidade recursal somente se aplica quando preenchidos os seguintes requisitos: a) dúvida objetiva quanto ao recurso a ser interposto, b) inexistência de erro grosseiro e c) observância do prazo do recurso cabível" (AgInt no AR Esp 1.479.391/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/11/2019, D Je de 27/11/2019). 2. Nos termos da jurisprudência desta Corte, a interposição de agravo de instrumento contra decisão que põe fim ao processo configura erro grosseiro, não admitindo a aplicação do princípio da fungibilidade recursal. Precedentes. 3. Na hipótese, o recorrente requereu habilitação retardatária de crédito após a homologação do quadro geral de credores, sendo o pedido extinto, sem julgamento do mérito, por ausência de interesse de agir, diante da necessidade de propositura de ação autônoma, na forma do art. 10, § 6º, da Lei 11.101/2005, de modo que é a apelação, e não o agravo de instrumento, o recurso cabível no caso concreto. 4. Agravo interno a que se nega provimento. (AgInt no AR Esp n. 1.971.003/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/9/2023, D Je de 22/9/2023.)
+Assim, a decisão recorrida refletiu o entendimento desta Corte, razão pela qual não merece reforma.
+Dessa forma, inexistente o alegado erro de premissa, pois independentemente de qual parte da decisão se recorre, o recurso cabível seria a apelação, tendo em vista que a decisão atacada pôs fim à demanda.
+Diante do exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO DE PREMISSA INEXISTENTE. PRETENSÃO INFRINGENTE. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
