@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por RAIMUNDO NONATO DE AZEVEDO (RAIMUNDO), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, de relatoria do Des. JOÃO BAPTISTA GALHARDO JÚNIOR, assim ementado:
+Apelação Cível. Cobrança de despesas de infraestrutura de condomínio. Cerceamento de Defesa. Inocorrência. Desnecessidade de dilação probatória. Preliminar afastada. Nulidade por ausência de fundamentação. Não verificação. Demonstração clara das razões de do convencimento do juiz. Cobrança. Despesas de implantação de obras de infraestrutura. Legitimidade ativa verificada. Autora que foi responsável pelo pagamento das referidas despesas, cujo reembolso é ora pleiteado. Prescrição. Inocorrência. Observância do art. 205, § 5º, I, do Código Civil. Requerido que assumiu expressamente a obrigação de efetuar o pagamento proporcional das despesas referentes à implantação das obras de infraestrutura, após todos os proprietários se organizarem para divisão dos custos. Cobrança legítima, devidamente autorizada em assembleia da associação de moradores do loteamento. Situação que difere da tese adotada pelo STJ no julgamento do Tema 882. Sentença reformada. Recurso do autor provido e do requerido desprovido. (e-STJ, fls. 815).
+Os embargos de declaração opostos por RAIMUNDO (e-STJ, fls. 994/1004) foram rejeitados (e-STJ, fls. 1005/1007).
+Nas razões do presente recurso, RAIMUNDO alegou, a par de divergência jurisprudencial, a violação aos arts. 489, § 1º, IV e VI, 927, III, e 1.022, I, do CPC; e 206, § 3º, IV, do CC.
+Sustentou, em síntese, (1) omissão do acórdão recorrido acerca da ilegitimidade da associação de proprietários para o ajuizamento da demanda; (2) a incidência do prazo prescricional trienal à hipótese; e (3) a ilegalidade da cobrança de taxas para obras de infraestrutura, que deveriam ser impostas ao loteador, e não à consumidora adquirente do imóvel, que nunca foi associada da parte autora; e, (4) aduziu, por fim, estar em dissonância com a jurisprudência do STJ e do STF - temas 882 e 492, respectivamente (e-STJ, fls. 824/844).
+Foram apresentadas contrarrazões (fl. 1278/1302).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Da violação aos arts. 489, § 1º, IV e VI, e 1.022, I, do CPC
+Sobre a questão preliminar, relacionada à ilegitimidade ativa da associação de proprietários para o ajuizamento da ação de cobrança ora em discussão, o TJSP assim se pronunciou:
+De plano, rejeito a preliminar de ilegitimidade ativa. A associação foi criada justamente para representar o loteamento e possibilitar a cobrança das obrigações assumidas por meio de contrato e, por ter sido responsável pelo pagamento das despesas referentes às obras realizadas no loteamento, é parte legítima para buscar o ressarcimento.
+No mais, afasto a preliminar de cerceamento de defesa suscitada.
+Sendo o Juiz, o destinatário das provas, à luz dos artigos 355, inciso I e 370, ambos do Código de Processo Civil, cabe a ele analisar a necessidade, ou não, de sua realização. Ainda, tratando-se de matéria primordialmente de direito e havendo elementos suficientes para a formação de convicção do julgador, dispensável a dilação probatória, ainda que haja pedido expresso para tanto. Outrossim a preliminar de nulidade por ausência de fundamentação, não pode ser acolhida.
+Frisa-se que o Magistrado não está obrigado a rebater ponto por ponto a argumentação deduzida, bastando para que atenda ao princípio contido no art. 93, IX, da CF, a demonstração clara das razões de seu convencimento, tal qual ocorreu na hipótese vertente. (e-STJ, fl. 817/818).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa aos arts. 489, § 1º, IV e VI, e 1.022, I, do CPC, o que busca RAIMUNDO é apenas manifestar o seu inconformismo com o resultado do julgamento, que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados nos referidos dispositivos da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF.
+LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp nº 1.500.162/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 25/11/2019, DJe de 29/11/2019 - sem destaque no original.)
+Não se verifica, assim, a apontada contrariedade à lei processual.
+(2) Do prazo prescricional
+Em relação ao tema, asseverou o órgão julgador local que:
+No que diz respeito à prescrição, deverá ser observado o prazo quinquenal, previsto no art. 206, § 5º, I, do Código Civil, já que previsto o dever de pagamento das despesas de implantação das obras de infraestrutura pelo requerido em instrumento particular.
+ ..
+Diante disso, tendo sido o requerido notificado na presente ação distribuída em 21 de agosto de 2019, não foi atingida pela prescrição a pretensão de cobrança das parcelas vencidas a partir de abril de 2015 (fls. 07) e não pagas pelo requerido. (e-STJ, fls. 818/819).
+Desse modo, para ultrapassar a convicção firmada no aresto combatido, seria necessário o reexame dos elementos fáticos da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ.
+(3) Da legalidade da cobrança das taxas e (4) Do dissídio jurisprudencial
+Quanto ao tema, o insurgente alegou que as taxas condominiais deveriam ser impostas ao loteador, e não à consumidora adquirente do imóvel, que nunca foi associada da parte autora.
+A Corte bandeirante, por sua vez, asseverou que:
+Pela leitura do instrumento contratual de fls. 49/51, observa- se que, nos termos do art. 4º, que as despesas referentes à implantação das obras de infraestrutura "ficam a cargo dos proprietários de lotes, que se organizarão de forma a dividir o valor das despesas das infraestruturas e necessárias a cada lote" (fl. 50), assumindo o requerido expressamente a obrigação de arcar com o pagamento proporcional das obras de infraestrutura quando da regularização do loteamento (art. 5º, parte final).
+Assim, é certo ser legítima a cobrança em questão, devidamente autorizada em assembleias da associação dos proprietários de chácaras das Estâncias Três Lagos I, Três Lagos II, Do Lago e Monte Alegre, constituída em 11 de janeiro de 2015 (fls. 21 e seguintes) para consecução dos objetivos de interesse de todos os moradores. (e-STJ, fls. 819).
+Observa-se, das razões acima, que a hipótese vertente não se enquadra ao que foi discutido no Tema nº 882 do STJ: "As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram".
+Também sob esse aspecto, alterar o que foi decidido no acórdão impugnado exigiria a interpretação das referidas disposições contratuais, assim como a reincursão no acervo fático-probatório dos autos, o que é vedado nesta sede excepcional, ante os óbices das Súmulas nºs. 5 e 7 desta Corte.
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor da ASSOCIAÇÃO, limitados a 20%, nos termos do art. 85, § 11, do NCPC, observando-se, no que couber, a gratuidade deferida na origem.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DESPESAS COM OBRAS DE IMPLANTAÇÃO DE INFRAESTRUTURA EM LOTEAMENTO. (1) VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. (2) PRAZO PRESCRICIONAL E LEGALIDADE DA COBRANÇA . INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DAS SÚMULAS NºS. 5 E 7 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
