@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial pelo qual a CTEEP - COMPANHIA DE TRANSMISSAO DE ENERGIA ELETRICA PAULISTA se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 1.163):
+Apelação - Pedido de complementação de pensão formulado por pensionista de ex-empregado público aposentado da CESP - Legitimidade passiva tanto da CESP como da CTEEP - Falecimento do instituidor da pensão em data posterior à entrada em vigor da EC nº 103/2019 - Concessão da complementação não vedada pelo art. 37, § 15 da CF - Direito adquirido que fica preservado - Recurso provido.
+Os embargos de declaração opostos foram rejeitados (fls. 1.214/1.222).
+Em suas razões recursais, a parte ora agravante afirma haver, além do dissídio jurisprudencial, violação dos arts. 186, 265, 927 e 945 do Código Civil e dos arts. 926 e 927, II e IV, do Código de Processo Civil (CPC), porque (fl. 1.337/1.343):
+ ..  não há qualquer dispositivo legal e, tampouco, menção nos instrumentos relativos ao plano de previdência complementar quanto à responsabilização da CTEEP pelo pagamento do benefício dos Autores, de modo que não pode ser responsabilizada por ato ilícito praticado por outrem e ser condenada a conceder o benefício de complementação de pensão, tampouco de pagar as parcelas vencidas, razão pela qual é juridicamente impossível que persista a presente demanda contra esta Recorrente.
+Outrossim, o v. acórdão contraria a jurisprudência uníssona sobre a matéria, já que é entendimento pacificado do Egrégio Tribunal de Justiça de São Paulo no sentido de reconhecer a ilegitimidade passiva da CTEEP nas demandas que envolvem o benefício e complementação de aposentadoria e pensão advindos da Lei Estadual nº 4.819/58, bem como a Súmula 340 do C. STJ veda a concessão do benefício pretendido pela Autora, violando, assim os artigos 926, 927, inciso III e IV, do Código de Processo Civil.
+ ..  a jurisprudência uníssona do E. TJSP é no sentido de declarar a ilegitimidade passiva da CTEEP em demandas que envolvam os benefícios da Lei 4.819/58.
+ ..  a Súmula 340 do STJ sedimentou o entendimento de que "a lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado".
+ ..  o marido da Autora, beneficiário originário da complementação de aposentadoria instituída pela Lei nº 4.819/58, faleceu após o início da vigência da Emenda Constitucional nº 103/2019, que entrou em vigor no dia 13/11/2019.
+ ..
+Sendo assim, ao entender pela existência de direito adquirido a Autora, mesmo em sentido contrário a redação constitucional vigente na data do óbito do instituidor da pensão, o acórdão recorrido ignorou a incidência da Súmula 340 do deste Colendo Superior Tribunal de Justiça, incorrendo em violação, também, do artigo 927, inciso IV do Código de Processo Civil.
+A parte adversa apresentou contrarrazões (fls. 1.386/1.421).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+Quanto à alegada violação dos arts. 186, 265, 927 e 945 do Código Civil, a Corte de origem firmou a seguinte compreensão (fls. 1.164):
+Inicialmente, sabe-se que a Fundação CESP é gestora da verba previdenciária e sua atuação está prevista em instrumento particular de contrato de prestação de serviços, tendo-se obrigado, perante a CTEEP, a realizar o processamento da folha de pagamentos mensais.
+O mesmo contrato indica que a CTEEP assumiu a obrigação mensal de disponibilizar os recursos totais necessários à realização dos pagamentos, em conta corrente de sua titularidade. Assim, há entre as duas instituições relação de direito material.
+Portanto, tanto a CESP como a CTEEP são partes legítimas para figurar no polo passivo da demanda, pois responsáveis pela complementação, seja dos vencimentos dos empregados em atividade, no caso da CTEEP, seja pelos proventos de benefícios suplementares, concretizado pela CESP.
+Correto, portanto, o reconhecimento da legitimidade passiva das rés.
+Ao apreciar os embargos de declaração opostos pela parte ora recorrente, a Corte de origem concluiu o seguinte (fls. 1.217/1.218):
+Respeitado entendimento diverso, não encontra guarida a tese de ilegitimidade passiva arguida pelas requeridas Fundação CESP e CTEEP.
+A Fundação CESP é gestora da verba previdenciária e sua atuação está prevista em instrumento particular de contrato de prestação de serviços, tendo-se obrigado, perante a CTEEP, a realizar o processamento da folha de pagamentos mensais.
+O mesmo contrato indica que a CTEEP assumiu a obrigação mensal de disponibilizar os recursos totais necessários à realização dos pagamentos, em conta corrente de sua titularidade.
+Assim, há entre as duas instituições relação de direito material. Portanto, tanto a Fundação CESP como a CTEEP são partes legítimas para figurar no polo passivo da demanda, pois responsáveis pela complementação, seja dos vencimentos dos empregados em atividade, no caso da CTEEP, seja pelos proventos de benefícios suplementares, concretizado pela CESP.
+Ao menos em relação à autora, portanto, têm elas legitimidade para participar desta ação. Nada impede que, se condenadas possam disputar, posteriormente, responsabilidade exclusiva de uma ou outra. Mas em relação ao cidadão, ao segurado ou beneficiado, não podem as complexas relações que o Estado cria ser motivo para afastar o direito perseguido.
+Diz a CTEEP que sua função, até 2004, era de solicitar o repasse das verbas para a FESP e informar à FUNCESP. Agora deixa de participar da sistemática de pagamentos.
+A modificação nas relações entre um dos partícipes de uma relação jurídica e terceiro não podem atingir o outro integrante dessa relação jurídica.
+Assim fosse possível, fácil seria a burla a qualquer contrato, pois bastava ao devedor aliar-se a terceiro, sem patrimônio, e a ele transferir sua obrigação.
+Se participava, antes, da sistemática de pagamentos à autora, deve continuar participando. Se participava sem responsabilidade, é preciso analisar melhor essa situação, pois cria-se empresa grande para nada fazer  Seria gasto, retirado das contribuições sociais, sem nenhuma função senão reduzir o volume do numerário necessário ao pagamento das pensões. Seria criação de cargos e funções com ônus que beiram a improbidade. A defesa dessa requerida, portanto, ganhando insistência, precisa ser melhor investigada pelo Ministério Público. Correto, portanto, o reconhecimento da legitimidade passiva das rés. (sem destaque no original)
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos e a reinterpretação de cláusula contratual, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incidem no presente caso as Súmulas 5 e 7 do Superior Tribunal de Justiça (STJ) segundo as quais, respectivamente, "a simples interpretação de cláusula contratual não enseja recurso especial" e "a pretensão de simples reexame de prova não enseja recurso especial".
+Quanto à alegada violação dos arts. 926 e 927, II e IV, do CPC e ao mérito do direito controverso, o Tribunal de origem acolheu a pretensão autoral fundamentado na interpretação dos arts 1º e 7º da Emenda Constitucional 103/2019 e na previsão constitucional do direito adquirido (fls. 1.166/1.170).
+Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal (STF), prevista no art. 102 da Constituição Federal.
+Por fim, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+ ..
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020 - sem destaques no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3,17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+ ..
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018 - sem destaques no original.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+ EMENTA
