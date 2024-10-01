@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GIOVANI RIBEIRO DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, que denegou o Habeas Corpus n. 1414726-47.2024.8.12.0000.
+Consta dos autos que o paciente foi preso preventivamente pela prática dos delitos previstos no art. 33, caput, da Lei n. 11.343/2006, e art. 14, caput, da Lei n. 10.826/2003, ante a apreensão de 53,3 kg de maconha, além de arma de fogo e munições (fl. 44 - Autos n. 0000370-30.2024.8.12.0033, em curso na Vara Única da comarca de Eldorado/MS).
+Aponta a defesa constrangimento ilegal na segregação cautelar do paciente diante da falta de requisitos e da ausência de fundamentação.
+Requer, inclusive liminarmente, a concessão da ordem para revogar a prisão preventiva do paciente, com aplicação de medidas cautelares alternativas.
+É o relatório.
+Para a decretação de custódia cautelar, a lei processual penal exige a reunião dos seguintes requisitos: fumus comissi delicti e o periculum in libertatis (art. 312 do CPP).
+No caso, contravindo os argumentos dispostos neste writ, o Juízo de primeiro grau decretou a custódia cautelar com seguintes argumentos (fl. 48 - grifo nosso):
+ ..
+Com efeito, consta do presente caderno que, em tese, a equipe da PRF realizava fiscalização de rotina na rodovia BR 163, KM 33, quando realizaram a abordagem do veículo Ford/KA Flez, cor preta e placas IPI 2B13, conduzido pelo autuado. Em entrevista, o autuado apresentou nervosismo e versões desconexas aduzindo que estaria vindo de Mundo Novo, quando na verdade estaria indo em direção aquela localidade, ainda afirmou que teria recebido R$ 1.000,00 reais para levar o veículo até Guaíra/PR. Diante da suspeita, realizaram vistoria minuciosa no veículo logrando êxito em localizar e apreender no fundo falso do carpete 53,3kg de "maconha", 1 revolver calibre .22, nº de série 725241, marca Arcus Co./Bulgária e 50 unidades de munição cal. .22, marca Alliant Techsystems/EUA.
+A conduta noticiada nos autos é concretamente grave, levando em conta a quantidade de droga apreendida, que consubstancia carga de elevado valor, além da arma e munições, evidenciando a periculosidade do autuado.
+ ..
+Com efeito, observa-se que a custódia cautelar foi devidamente fundamentada pelas instâncias ordinárias, com base em elementos concretos que demonstram a gravidade concreta do delito. Foi apreendida relevante quantidade de droga - 53,3 kg de maconha (fl. 48) -, que seria transportada para outro estado da Federação, além de arma de fogo e munições. Esses fatores evidenciam o risco ao meio social e a necessidade da prisão preventiva para assegurar a ordem pública.
+Ora, a quantidade, a variedade ou a natureza da substância entorpecente apreendida podem servir de fundamento para a decretação da prisão preventiva (HC n. 547.239/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/12/2019 - grifo nosso).
+A propósito, cito os seguintes julgados: AgRg no RHC n. 193.464/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 22/8/2024; e AgRg no HC n. 923.995/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/8/2024.
+Ademais, o Superior Tribunal de Justiça já decidiu que não há ilegalidade na manutenção da prisão preventiva quando demonstrada, com base em fatores concretos, a sua imprescindibilidade para garantir a ordem e a saúde públicas, dada a gravidade da conduta incriminada, evidenciada pelas circunstâncias em que se deu a prisão em flagrante do réu (RHC n. 113.892/MS, Ministro Jorge Mussi, Quinta Turma, DJe 20/8/2019).
+Por fim, é entendimento desta Corte Superior de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada; e, como dito em linhas anteriores, é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO INTERESTADUAL DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO EM ELEMENTOS CONCRETOS. QUANTIDADE RELEVANTE DE DROGA APREENDIDA (53,3 KG DE MACONHA). CONSTRANGIMENTO ILEGAL INEXISTENTE.
+Writ indeferido liminarmente.
