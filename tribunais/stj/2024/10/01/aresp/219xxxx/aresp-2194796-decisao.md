@@ -1,0 +1,35 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por Rosimere de Lima Henequim, com fundamento na incidência  das Súmula s  7 e 83 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois "a matéria apresentada no recurso é de índole estritamente processual, na medida em que não foram observados os dispositivos legais prequestionados, com evidente negativa de prestação jurisdicional".
+Aduz, ainda, que "não há identidade entre o caso concreto e a jurisprudência deste STJ a amparar o não recebimento do Recurso Especial, ou seja, o Tribunal de origem, com todo o respeito, não demonstrou que a tese do recurso diverge do entendimento e da orientação consolidada do STJ a incidir a Súmula 83".
+É o relatório.
+Passo a decidir.
+O acórdão recorrido restou assim ementado:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. HONORÁRIOS. BASE DE CÁLCULO. SENTENÇA DE PARCIAL PROCEDÊNCIA.
+1. Quando o acórdão promove substancial alteração na sentença de parcial procedência, inclusive permitindo a entrega do benefício previdenciário, os honorários são devidos sobre o valor das parcelas vencidas até a data do acórdão e não da sentença. 2. Interpretação sistemática da Súmula nº 111 do Superior Tribunal de Justiça e da Súmula nº 76 deste TRF. Precedente.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com fulcro no art. 105, III, "a", da Constituição Federal, a parte recorrente aponta, além de violação aos arts. 489 e 1.022 do CPC/2015 por negativa de prestação jurisdicional, violação aos arts. 85 e 86 do CPC/2015, ao fundamento de que os honorários advocatícios sucumbenciais devem incidir sobre as prestações vencidas até a data da decisão que concedeu o benefício ao segurado, no caso, o acórdão, bem como a ocorrência de sucumbência mínima no julgamento do cumprimento de sentença.
+A irresignação não merece acolhida.
+Preliminarmente, quanto à apontada violação ao art. 1.022, II, do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta. No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, de modo que não ficou configurada a negativa de prestação jurisdicional. O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Quanto ao mais, jurisprudência desta Corte é clara ao afirmar que os honorários advocatícios incidem apenas sobre as prestações vencidas, devendo ser consideradas todas aquelas ocorridas até a data da prolação da decisão que reconheceu o direito do segurado, consoante o disposto na Súmula 111/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCESSÃO DE BENEFÍCIO. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. JUROS DE MORA. SÚMULA 204/STJ. HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DA SÚMULA 111/STJ. ACÓRDÃO RECORRIDO ALINHADO COM A ORIENTAÇÃO DO STJ.
+1. Cuida-se, na origem, de Ação com vistas à concessão de benefício previdenciário de aposentadoria por tempo de serviço/contribuição.
+2. Em se tratando de débitos relativos a benefícios previdenciários, os juros de mora incidem a partir da citação válida (Súmula 204 do STJ).
+3. O entendimento da Corte Regional está alinhado à jurisprudência do STJ sobre o tema, segundo a qual a verba honorária deve ser fixada sobre as parcelas vencidas até a prolação da decisão concessiva do benefício, em consonância com o disposto na Súmula 111/STJ, que não foi revogada pelas disposições do CPC/2015.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.474.494/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/6/2024, DJe de 28/6/2024.)
+No caso dos autos, porém, não se mostra viável a fixação dos honorários advocatícios considerando as prestações vencidas até a data do acórdão pois o provimento favorável à parte ora recorrente ocorreu já na sentença, que considerou procedente em parte o pedido autoral.
+Nesse sentido:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA PROLATADA NA VIGÊNCIA DO CPC/2015 E CONCESSIVA DE REVISÃO DE BENEFICIO. TERMO FINAL. PRIMEIRO JULGAMENTO PROCEDENTE. SÚMULA 111 DO STJ. APLICAÇÃO.
+1. O Superior Tribunal de Justiça, analisando os parâmetros intertemporais que norteiam o regime jurídico observado no momento da fixação dos honorários de sucumbência, firmou a orientação de que a lei aplicável é aquela vigente na data da sentença/decisão em que arbitrada tal verba.
+2. Hipótese em que a sentença data de 2020, portanto a controvérsia sobre a verba honorária advocatícia, no Tribunal de origem, foi corretamente examinada à luz do Código de Processo Civil de 2015 (CPC/2015).
+3. O CPC vigente não inovou em relação aos critérios para a fixação da verba honorária sucumbencial estabelecidos no § 2º do art. 85.
+4. A própria natureza da tutela previdenciária (dirigida a suprir os segurados, ou seus dependentes, em caso de idade avançada, doença e morte, ou os assistidos da Previdência Social, em situação de vulnerabilidade), aliada ao princípio da efetividade, evidencia a necessidade de adoção de instrumentos que assegurem a duração razoável do processo, de modo que permanece inalterado o escopo da Súmula 111 do STJ, evitando possível conflito de interesses entre o patrono e seu representado.
+5. A respeito da base de cálculo da verba honorária em causas previdenciárias, a orientação jurisprudencial do Superior Tribunal de Justiça, reafirmada pela Primeira Seção no julgamento do Tema 1.105 do STJ, é a de que continua aplicável o conteúdo da Súmula 111 desta Corte, no sentido de que o termo final deve ser fixado na data do julgamento favorável à concessão do benefício pleiteado.
+6. In casu, o provimento favorável ao segurado ocorreu na sentença, que considerou procedente em parte o pedido autoral para determinar a revisão pretendida na aposentadoria por tempo de contribuição do autor, sendo irrelevante, para a apuração da verba honorária, a melhora na prestação jurisdicional em segunda instância.
+7. Agravo interno desprovido" (STJ, AgInt nos EDcl no REsp 2.068.805/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 7/5/2024).
+Por fim, "o STJ tem entendimento pacífico de que a aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em Recurso Especial, tendo em vista a circunstância obsta tiva decorrente do disposto na Súmula 7/STJ" (AgInt no AREsp 2.125.184/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/2/2023, DJe de 23/2/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Intimem-se.
+ EMENTA
