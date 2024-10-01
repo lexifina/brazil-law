@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 25/09/2024 a 01/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. FALTA DE COTEJO ANALÍTICO ENTRE OS ARESTOS CONFRONTADOS. QUESTÃO SUSCITADA QUE NÃO FOI ENFRENTADA PELA TURMA JULGADORA DIANTE DE DIVERSOS ÓBICES PROCESSUAIS. AUSÊNCIA DE SIMILITUDE FÁTICA COM SOLUÇÕES JURÍDICAS DIVERSAS. EMBARGOS INDEFERIDOS LIMINARMENTE. VÍCIOS DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. MERO INCONFORMISMO DO EMBARGANTE COM O RESULTADO DO JULGAMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Renato Tristão Machado ao acórdão de fls. 2465-2470 (e-STJ), assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. FALTA DE COTEJO ANALÍTICO ENTRE OS ARESTOS CONFRONTADOS. QUESTÃO SUSCITADA QUE NÃO FOI ENFRENTADA PELA TURMA JULGADORA NO DECISUM EMBARGADO DIANTE DE DIVERSOS ÓBICES PROCESSUAIS. AUSÊNCIA DE SIMILITUDE FÁTICA COM SOLUÇÕES JURÍDICAS DIVERSAS. EMBARGOS INDEFERIDOS LIMINARMENTE. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da pacífica jurisprudência do Superior Tribunal de Justiça, a "admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista no RISTJ, com a demonstração das circunstâncias fáticas e processuais que assemelham os casos confrontados, bem como a adoção de soluções diversas aos litígios" (AgInt nos EREsp n. 1.799.346/SP, Corte Especial, Relator o Ministro Luis Felipe Salomão, DJe de 31/8/2021).
+2. Na hipótese, o embargante não realizou o devido cotejo analítico entre os acórdãos embargado e paradigmas, a fim de demonstrar a similitude fática dos arestos com adoção de soluções jurídicas distintas, pois se limitou a transcrever alguns pequenos trechos dos acórdãos incapazes de evidenciar o dissídio.
+3. Além disso, constata-se que não há nenhuma similitude fática com soluções jurídicas diversas entre os acórdãos confrontados, visto que a Quarta Turma do STJ, ao julgar o acórdão embargado, não adentrou no exame de mérito da questão litigiosa apontada pelo ora embargante, pois não conheceu do recurso especial em razão dos óbices das Súmulas 7/STJ, 211/STJ e 284/STF.
+4. Agravo interno desprovido.
+O embargante alega que o referido acórdão foi omisso, pois "não foi observada a discordância do julgamento virtual, tendo havido requerimento de preferência, por ser o recorrente idoso e com mais de 82 anos, bem como julgamento presencial, com direito a sustentação oral, diante da relevância da matéria" (e-STJ, fls. 2475-2476).
+Aponta, ainda, a existência de 3 omissões no acórdão embargado, argumentando, em síntese, pela necessidade de se analisar os embargos de divergência, ao argumento de que foi realizado o cotejo analítico dos arestos confrontados.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. FALTA DE COTEJO ANALÍTICO ENTRE OS ARESTOS CONFRONTADOS. QUESTÃO SUSCITADA QUE NÃO FOI ENFRENTADA PELA TURMA JULGADORA DIANTE DE DIVERSOS ÓBICES PROCESSUAIS. AUSÊNCIA DE SIMILITUDE FÁTICA COM SOLUÇÕES JURÍDICAS DIVERSAS. EMBARGOS INDEFERIDOS LIMINARMENTE. VÍCIOS DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. MERO INCONFORMISMO DO EMBARGANTE COM O RESULTADO DO JULGAMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+De início, não era caso de deferimento do pedido de realização de julgamento presencial.
+A uma, porque o recorrente poderia realizar sustentação oral, na forma do art. 184-B do Regimento Interno do Superior Tribunal de Justiça, o que, todavia, não foi feito.
+E, a duas, porque, ao contrário do que afirmou o embargante, não há "relevância da matéria" a justificar a retirada do julgamento virtual, pois os embargos de divergência nem sequer tiveram o juízo positivo de admissibilidade, em razão dos óbices processuais aplicados na decisão agravada.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO PEDIDO DE RETIRADA DE PAUTA NO RECURSO ESPECIAL. SUSTENTAÇÃO ORAL. JULGAMENTO VIRTUAL. NULIDADE. NÃO OCORRÊNCIA.
+1. O pedido de retirada de pauta de julgamento virtual foi indeferido por esta relatoria, uma vez que cabe à parte interessada proceder na conformidade do art. 184-B do Regimento Interno do Superior Tribunal de Justiça, encaminhando sua sustentação oral para o julgamento virtual em até 48 horas antes de iniciado o julgamento em ambiente virtual.
+2. O direito ao exercício da sustentação oral foi garantido e viabilizado na modalidade de julgamento virtual, com início do prazo para encaminhamento da sustentação oral após a publicação da inclusão em pauta de julgamento e término 48 horas antes do início da sessão.
+3. "A jurisprudência desta corte firmou-se no sentido que não há, no ordenamento jurídico vigente, o direito de exigir que o julgamento ocorra por meio de sessão presencial. Portanto, o fato de o julgamento ter sido realizado de forma virtual, mesmo com a oposição expressa e tempestiva da parte, não é, por si só, causa de nulidade ou cerceamento de defesa. Ademais, mesmo nas hipóteses em que cabe sustentação oral, se o seu exercício for garantido e viabilizado na modalidade de julgamento virtual, não haverá qualquer prejuízo ou nulidade, ainda que a parte se oponha a essa forma de julgamento, porquanto o direito de sustentar oralmente as suas razões não significa o de, necessariamente, o fazer de forma presencial" (AgRg no HC n. 832.679/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+4. Agravo regimental desprovido.
+(AgRg no RtPaut no REsp 2.125.449/SP, Relator o Ministro Antônio Saldanha Palheiro, DJe de 29/8/2024 - sem grifo no original)
+Em relação às demais omissões apontadas, verifica-se que, na verdade, tais supostos vícios configuram mero inconformismo do embargante com o resultado do julgamento.
+É que não há qualquer omissão no acórdão embargado, em que a Segunda Seção do STJ manteve o indeferimento liminar dos embargos de divergência nos seguintes termos:
+Nos termos da pacífica jurisprudência do Superior Tribunal de Justiça, a "admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista no RISTJ, com a demonstração das circunstâncias fáticas e processuais que assemelham os casos confrontados, bem como a adoção de soluções diversas aos litígios" (AgInt nos EREsp n. 1.799.346/SP, Corte Especial, Relator o Ministro Luis Felipe Salomão, DJe de 31/8/2021).
+Na mesma linha de cognição:
+(..)
+Na hipótese, conforme consignado na decisão agravada, o embargante não realizou o devido cotejo analítico entre os acórdãos embargado e paradigmas, a fim de demonstrar a similitude fática dos arestos com adoção de soluções jurídicas distintas, pois se limitou a transcrever alguns pequenos trechos dos acórdãos incapazes de evidenciar o dissídio.
+Tal o quadro delineado, na linha da jurisprudência desta Corte acima destacada, não se revela possível processar os embargos de divergência.
+Ainda que fosse superado esse óbice processual, constata-se que não há nenhuma similitude fática com soluções jurídicas diversas entre os acórdãos confrontados.
+É que a Quarta Turma do STJ, ao julgar o acórdão embargado, não adentrou no exame de mérito da questão litigiosa apontada pelo ora embargante, pois não conheceu do recurso especial em razão dos óbices das Súmulas 211/STJ, 7/STJ e 284/STF.
+Consignou-se, ainda, que "se mostra desarrazoado o intento do recorrente de se valer de "prova emprestada" acostada aos autos após o julgamento de embargos de declaração opostos à apelação, ou seja, quando já há muito tempo se encontrava encerrada a instrução processual. De forma que não havia porquê a Corte Estadual se manifestar sobre o laudo em questão, dada a impertinência da forma em que foi produzida, com nítida ausência de sua subsunção ao contraditório, e a total extemporaneidade em que foi trazida à lume, apenas na fase recursal" (e-STJ, fl. 1899).
+Essas circunstâncias fáticas destoam completamente dos acórdãos apontados como paradigmas, o que impede o conhecimento dos embargos de divergência.
+A propósito, "os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial" (AgInt nos EAREsp n. 1.423.657/PE, Relatora a Ministra Nancy Andrighi, DJe de 9/12/2021).
+Logo, inexistindo qualquer semelhança na base fática com soluções jurídicas distintas entre os arestos confrontados, deve ser mantida a decisão agravada que indeferiu liminarmente os embargos de divergência.
+Não há, portanto, nenhum dos vícios do art. 1.022 do Código de Processo Civil de 2015 a ensejar o acolhimento dos aclaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
