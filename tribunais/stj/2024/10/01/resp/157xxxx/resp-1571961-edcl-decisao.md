@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos contra decisão que conheceu em parte do recurso e, nessa parte, negou-lhe provimento, assim ementada (fl. 1866):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EMPRÉSTIMO COMPULSÓRIO. ELETROBRÁS. ART. 4º, §9º, DA LEI 4156/1962. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. CONVERSÃO EM AÇÕES. JUROS COMPENSATÓRIOS. DATA FIM. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+O recorrente aponta, em síntese, contradição no decisum embargado, argumentando que (fls. 1883/1884):
+3. Observa-se que, ao negar provimento ao Recurso Especial da Embargante, a decisão embargada teve como fundamento a premissa de que a decisão proferida pelo Tribunal a quo, quando do julgamento da Apelação interposta pela contraparte, teria aplicado o entendimento firmado por ocasião do julgamento do precedente firmado, em sede de Recurso Repetitivo (E Dcl nos E Dv nos EAR Esp 790288/PR), o qual estabeleceu como limite de incidência dos juros remuneratórios a data da Assembleia-Geral Extraordinária que converteu os créditos em ações.
+4. Ocorre que a conclusão adotada pela Corte de origem não definiu o termo final de incidência dos juros remuneratórios - ferindo, portanto, à adequada interpretação das normas infraconstitucionais, à jurisprudência e aos precedentes desta Corte. Basta verificar o teor do acórdão prolatado pelo TRF da 4ª Região em sede de Apelação:
+ ..
+6. Sabe-se que a delimitação quanto ao termo final da incidência dos juros remuneratórios à data da AGE é o entendimento pacífico da Primeira Seção do Superior Tribunal de Justiça, decorrente da decisão dos Recursos Especiais nº 1.003.955 e 1.028.592, em 12/08/2009.
+Sem impugnação.
+É o relatório. Decido.
+Inicialmente, registro que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+De fato, analisando a decisão embargada, nota-se que que assiste razão à parte embargante, visto que no acórdão do Tribunal de origem não houve delimitação quanto ao termo final de incidência dos juros remunetários.
+A propósito, confira-se o seguinte excerto do voto condutor (fl. 1231):
+Assim, são devidas tais diferenças a título de juros compensatórios relativos ao período compreendido entre o dia 1º de janeiro de 2005 e o dia 30 de junho de 2005, na forma do § 2º do artigo 2º do Decreto-Lei n.º 1512/76, incidentes sobre as verbas atinentes ao empréstimo compulsório sobre o consumo de energia elétrica.
+Tais valores serão atualizados monetariamente consoante os critérios aplicáveis aos débitos judiciais no âmbito da Justiça Federal, assim como os juros moratórios incidentes, apuração a ser levada a efeito quando da liquidação do julgado.
+No pertinente ao tema, a Primeira Seção, no julgamento dos EDcl nos EDv nos EAREsp 790.288/PR, assentou o entendimento no sentido de que os juros remuneratórios, como previstos no art. 2º e § 2º do Decreto-Lei n. 1.512/76, não podem acompanhar a restituição do empréstimo compulsório para além da data da respectiva Assembléia Geral Extraordinária autorizadora da conversão dos créditos em ações do capital social da Eletrobrás.
+Confira-se a ementa desse julgado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. JUROS REMUNERATÓRIOS. ART. 1.022 DO CPC. ERROS DE PREMISSA ENSEJADORES DE ERRO MATERIAL. ACOLHIMENTO DO RECURSO INTEGRATIVO DA ELETROBRAS. OUTORGA DE EXCEPCIONAL EFEITO MODIFICATIVO
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. Constata-se, no acórdão ora embargado, a existência de relevantes erros de premissa, caracterizadores, por sua vez, de erro material capaz de viabilizar o acolhimento do recurso aclaratório da Eletrobras, inclusive com excepcional efeito infringente, em ordem a afastar, no caso concreto, a incidência dos juros remuneratórios previstos no art. 2º do DL n. 1.512/1976 para além da data da correspondente Assembleia Geral, no caso, a 143ª AGE, ocorrida em 30/06/2005.
+3. Tem-se, então, que o acórdão da Segunda Turma desta Corte, impugnado pelos embargos de divergência da parte credora, já refletia, de modo correto, o posicionamento antes firmado pelo STJ sob o rito repetitivo (REsp"s 1.003955 e 1.028.592, Rel. Ministra Eliana Calmon, Primeira Seção, j. em 12/08/2009, pub. no DJe 27/11/2009).
+4. Embargos de declaração da Eletrobras acolhidos, com excepcional efeito modificativo, em ordem a negar provimento aos embargos de divergência manejados por Decoradora Roma Ltda.
+(EDcl nos EDv nos EAREsp 790.288/PR, Rel. Ministro GURGEL DE FARIA, Rel. p/ Acórdão Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 10/11/2021, DJe 14/12/2021)
+Nesse contexto, estando o acórdão recorrido em dissonância com o entendimento firmado pela Primeira Seção, é de ser provido o pleito da recorrente.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para dar parcial provimento ao recurso especial da Eletrobras, nos termos da fundamentação, de forma que os juros remuneratórios incidam até a data da correspondente AGE.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMPRÉSTIMO COMPULSÓRIO. SOBRE O CONSUMO DE ENERGIA ELÉTRICA. RESTITUIÇÃO. JUROS REMUNERATÓRIOS. TERMO FINAL. DATA DA ASSEMBLÉIA GERAL EXTRAORDINÁRIA AUTORIZADORA DA CONVERSÃO DOS CRÉDITOS AÇÕES. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGESTES. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
