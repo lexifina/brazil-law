@@ -1,0 +1,15 @@
+DECISÃO
+HENRIQUE ZANCANADO interpõe recurso especial contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, na Apelação Criminal n. 5028637-07.2022.8.24.0018.
+Consta dos autos que o recorrente foi condenado à pena de 4 anos, 10 meses e 10 dias de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões deste recurso especial, pede a incidência da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 na fração máxima de 2/3.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso e, caso conhecido, pelo seu não provimento.
+Decido.
+O Tribunal de origem manteve a fixação da fração da redutora na fração de 1/6, nos seguintes termos (fl. 387, grifei):
+No caso, cumpre registrar que o Togado de origem não utilizou a quantidade e a natureza das drogas apreendidas como motivo de exasperação da pena-base na forma do art. 42 da Lei 11.343/2006, de maneira que tais vetores são plenamente válidos para denotar a dedicação criminosa como óbice para concessão da benesse, sem que se possa falar em bis in idem .
+Assim, diante da apreensão em poder do apelante de 13,5 kg de maconha, número capaz de produzir milhares de unidades de consumo, e 97 comprimidos da droga ecstasy, no qual era comercializada em venda direta, a usuários que se deslocavam até o imóvel, já se mostra extremamente benéfica a fração de 1/6.
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não sededique às atividades criminosas nem integre organização criminosa". Assim, observa-se que o dispositivo legal traz apenas os requisitos necessários para a aplicação da minorante nele prevista; deixa, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, tendo em vista que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+Veja-se, portanto, que o Tribunal a quo fundamentou concretamente a aplicação do privilégio previsto no § 4º do art. 33 da Lei de Drogas na fração de 1/6, salientando, para tanto, a apreensão de "13,5 kg de maconha, número capaz de produzir milhares de unidades de consumo, e 97 comprimidos da droga ecstasy, no qual era comercializada em venda direta, a usuários que se deslocavam até o imóvel" (fl. 387, grifei). Entendo, portanto, que a redução mínima é, de fato, a mais adequada ao caso.
+À vista do exposto, nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
