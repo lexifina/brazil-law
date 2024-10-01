@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 402):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA DE IMPROBIDADE ADMINISTRATIVA. DECISÃO AGRAVADA QUE RECONHECEU A OCORRÊNCIA DA PRESCRIÇÃO INTERCORRENTE. APLICAÇÃO RETROATIVA DA LEI 14.230/2021. REPERCUSSÃO GERAL (ARE 843.989). ADOÇÃO DA ORIENTAÇÃO JURISPRUDENCIAL CONSOLIDADA PELO SUPREMO TRIBUNAL FEDERAL. REFORMA DA DECISÃO AGRAVADA. PROVIMENTO DO AGRAVO.
+1. Agravo de instrumento interposto pelo Ministério Público Federal em face de decisão com que o Juízo da 5.ª Vara Federal do Estado do Rio Grande do Norte, nos autos da Ação Civil Pública por Ato de Improbidade Administrativa n.º 0804843-57.2016.4.05.8400, acolheu a alegação de que operada a prescrição intercorrente, em razão do decurso do prazo previsto no art. 23, § 5º, da Lei de Improbidade Administrativa, com a redação dada pela Lei 14.230/2021, mantendo, todavia, a pretensão de ressarcimento do dano causado ao erário.
+2. O Supremo Tribunal Federal, ao apreciar o ARE 843.989, em julgamento submetido à sistemática de repercussão geral, fixou que a norma benéfica da Lei 14.230/2021 é, em regra, irretroativa, excetuando as hipóteses de atos culposos de improbidade, praticados na vigência do texto anterior da lei e sem condenação transitada em julgado.
+3 . Tendo o Supremo Tribunal Federal definido que o novo regime prescricional previsto na Lei 14.230/2021 é irretroativo, aplicando-se os novos marcos temporais somente a partir da publicação da lei, impõe-se a reforma da decisão proferida no primeiro grau de jurisdição, não sendo possível cogitar da ocorrência da prescrição no caso concreto.
+4. Agravo de instrumento provido.
+Embargos de declaração rejeitados
+O recorrente alega violação dos artigos 489, §1º, I a IV, e 1.022, I e II, parágrafo único, II, todos do CPC/2015, ao argumento de que "o acórdão foi omisso em apreciar a efetiva ocorrência da prescrição com base na lei anterior, antes das alterações promovidas pela Lei nº 14.230/2021" (fl. 465).
+Com contrarrazões.
+Juízo positivo de admissibilidade (fl. 487).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A pretensão merece prosperar.
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração ao argumento de que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito do reconhecimento da prescrição da conduta imputada, com fundamento, não na nova Lei nº 14.230/2021, mas na redação original da Lei 8.429/1992.
+Vejamos (fl. 422):
+"O que se verificou no Acórdão Embargado foi a ocorrência de omissão, uma vez que a prescrição efetivamente ocorrida nos autos - com fulcro na redação antiga da Lei nº 8.429/92 - deixou de ser apreciada, após a verificação da não incidência do novo regime prescritivo trazido pela Lei nº 14.230/2021 aos processo s em curso"
+Cumpre ressaltar que foi requerida pela defesa do réu a análise da questão prescricional desde a defesa preliminar, às fls. 111-115.
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa aos artigos 489, §1º, I a IV, e 1.022, I e II, Parágrafo Único, II, todos do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.921.251/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe 15/12/2023; AgInt no REsp 2.012.744/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 18/10/2023; AgInt nos EDcl no REsp 2.024.125/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 30/8/2023; AgInt no REsp 2.020.066/RN, relator Ministro Gurgel de Faria, Primeira Turma, DJe 19/5/2023.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem se manifeste a respeito da prescrição, ou não, da conduta imputada, com fundamento, não na nova Lei nº 14.230/2021, mas na redação original da Lei 8.429/1992.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPRO BIDADE ADMINISTRATIVA. VIOLAÇÃO DOS ARTIGOS 489, §1º, I A IV, E 1.022, I E II, PARÁGRAFO ÚNICO, II, TODOS DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
