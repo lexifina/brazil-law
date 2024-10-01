@@ -1,0 +1,51 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno, mantendo a decisão que conheceu do agravo para conhecer em parte do recurso especial e, na extensão, negar-lhe provimento.
+O acórdão recorrido recebeu a seguinte ementa (fls. 1.417 e 1.418):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ARTS. 489 E 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA.
+JULGADO FUNDAMENTADO. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. APLICAÇÃO DA SÚMULA N.º 211 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA N.º 284 DO STF, POR ANALOGIA. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. DANOS CONFIGURADOS. PROCEDIMENTO MÉDICO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, na medida em que o Tribunal de Justiça de São Paulo decidiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+2. As matérias pertinentes aos arts. 357, § 8º, 369, 378, 385 e 442, todos do NCPC, não foram objeto de debate prévio nas instâncias de origem, a despeito da oposição de embargos de declaração. Ausente, portanto, o devido prequestionamento nos termos da Súmula n.º 211 do STJ.
+3. A alegada afronta à lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n.º 284 do STF.
+4. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n.º 284 do STF.
+5. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+6. Agravo interno não provido.
+Os embargos de declaração opostos na sequência foram rejeitados.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, LIV e LV, e 93, IX, da CF.
+Nesse sentido, argumenta ter havido ofensa ao princípio do dever de motivação da decisão judicial em razão da ausência de enfrentamento de questões relevantes apontadas pela defesa.
+A parte embargante sustenta que os embargos de declaração foram opostos com o objetivo de prequestionamento, visando atender à exigência de que o Egrégio Tribunal a quo se manifeste expressamente sobre a questão constitucional, condição prévia necessária para a interposição do recurso extraordinário.
+Ademais, a imposição de multa pela interposição dos embargos, segundo a parte, caracteriza violação ao princípio da ampla defesa, uma vez que impede o exercício legítimo de um recurso destinado a suprir eventual omissão ou contradição no julgado, essencial à plena análise da matéria constitucional em instância superior.
+Requer, ao final, a admissão do recurso, bem como a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do julgado recorrido, conforme é possível inferir do seguinte trecho do acórdão (fls. 1.491-1.492):
+ ..  todas as matérias ventiladas foram apreciadas, mas de forma contrária aos interesses da parte, o que não enseja o apontado vício da omissão.
+Em suma, a pretensão desborda da previsão do art. 1.022 do NCPC.
+Outrossim, a alegada contrariedade dos arts. 5º, LIV e LV, e 93, IX, da CF é tese natimorta.
+Nesse ponto, a jurisprudência deste Tribunal Superior expõe que não cabe a apreciação de suposta ofensa a matéria constitucional, ainda que para fins de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+ ..
+Assim, verificado o caráter protelatório dos presentes embargos de declaração na medida em que se constatou a não ocorrência de falta de fundamentação ou de negativa de prestação jurisdicional e a incidência das Súmulas n.ºs 284 do STF, 7 e 211 do STJ, condeno ESPÓLIO e outros ao pagamento da multa de 2% sobre o valor atualizado da causa em favor da embargada ANA TERESA LEITE NEPOMUCENO., nos termos do art. 1.026, § 2º, do NCPC.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o Supremo Tribunal Federal já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não conhecer do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. No mais, segundo decidido pelo STF em repercussão geral (Tema n. 197), "não alcança estatura constitucional a questão relativa à aplicação de multa em julgamento de embargos de declaração tidos por protelatórios, que se restringe ao plano processual" (AI n. 752.633/SP, relator Ministro Cézar Peluso, Plenário Virtual, DJe de 18/12/2009).
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ELEITORAL. INEXISTÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL. VIOLAÇÃO DOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO, DA AMPLA DEFESA, DO DEVIDO PROCESSO LEGAL E DA PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). AUSÊNCIA DE OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL (TEMA 339). INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. APLICAÇÃO DE MULTA EM EMBARGOS DE DECLARAÇÃO TIDOS POR PROTELATÓRIOS (TEMA 197). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+IV - A aplicação de multa pela oposição de embargos de declaração julgados protelatórios, por se tratar de matéria infraconstitucional, é matéria destituída de repercussão geral.
+V - Agravo regimental, a que se nega provimento.
+(ARE n. 1.387.215-AgR, relator Ministro Ricardo Lewandowski, Segunda Turma, julgado em 29/8/2022, DJe de 1º/9/2022.)
+Dessa forma, tendo a alegada violação constitucional ocorrido em decorrência da aplicação de multa processual pela interposição de recurso inadmissível ou protelatório, como no caso dos autos, não há repercussão geral.
+5 . Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. MULTA EM RAZÃO DE RECURSO PROTELATÓRIO. MATÉRIA DE NATUREZA PROCESSUAL. TEMA N. 197 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
