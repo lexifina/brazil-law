@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por BRADESCO SAÚDE S.A. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Pernambuco assim ementado:
+"APELAÇÃO. PLANO DE SAÚDE. TRATAMENTO PSIQUIÁTRICO. INTERNAÇÃO. COPARTICIPAÇÃO. AUSÊNCIA DE PREVISÃO EXPRESSA E CLARA. ABUSIVIDADE. FUNDAMENTAÇÃO PER RELATIONEM. CABIMENTO. PRECEDENTES. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+1. É entendimento do Superior Tribunal de Justiça que "nos contratos de plano de saúde não é abusiva a cláusula de coparticipação expressamente ajustada e informada ao consumidor, à razão máxima de 50% (cinquenta por cento) do valor das despesas, nos casos de internação superior a 30 (trinta) dias por ano, decorrente de transtornos psiquiátricos, preservada a manutenção do equilíbrio financeiro" (STJ-2ª Seção, R Esp 1.755.866/SP, Rel. Min. Marco Buzzi, julgado em 9/12/2020, D Je de 16/12/2020 - Tema repetitivo 1.032 do STJ).
+2. Conforme entendimento sedimentado pelo colendo Superior Tribunal de Justiça, é permitida a cobrança de coparticipação nos contratos de plano de saúde, desde que referido encargo esteja previsto no contrato de forma expressa e clara, bem como que o percentual da coparticipação no custeio das despesas com tratamento médico não seja desarrazoado a ponto de restringir o direito do usuário ao tratamento previsto no contrato de plano de saúde pactuado.
+3. As cláusulas das condições gerais da apólice do contrato de saúde da Apelada não previam nenhuma estipulação de percentual a ser pago pela paciente a título de coparticipação.
+4. Para que seja aplicada a coparticipação, necessário a presença da cláusula e percentuais expressos no contrato, o que não restou claro nos autos.
+5. Segundo entendimento jurisprudencial adotado pelo Superior Tribunal de Justiça "é admitido ao Tribunal de origem, no julgamento da apelação, utilizar, como razões de decidir, os fundamentos delineados na sentença (fundamentação per relationem), medida que não implica em negativa de prestação jurisdicional, não gerando nulidade do acórdão, seja por inexistência de omissão seja por não caracterizar deficiência na fundamentação".
+6. Sentença mantida. Recurso improvido" (fls. 935/936 e-STJ).
+No recurso especial, o recorrente alega violação do art. 16, VIII, da Lei nº 9.656/1998, defendendo "a possibilidade de se cobrar do segurado a sua participação nas despesas de sua internação, quando ultrapassados os 30 dias, tudo previsto em contrato e corroborado pelo próprio segurado" (fl. 971 e-STJ).
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No caso concreto, verifica-se que a parte recorrente foi intimada do acórdão atacado em 28/02/2024 (fl. 976 e-STJ), sendo o recurso especial interposto em 21/03/2024, encontrando-se, portanto, intempestivo (ausente comprovação hábil do feriado local ocorrido no dia 06.03.2024 - Data Magna de Pernambuco).
+De fato, a jurisprudência desta Corte firmou-se no sentido de que, nos termos do § 6º do art. 1.003 do Código de Processo Civil, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada no ato da interposição do recurso, por meio de documento idôneo.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. AUSÊNCIA DE COMPROVAÇÃO DA EXISTÊNCIA DE FERIADO LOCAL NO ATO DE INTERPOSIÇÃO DO RECURSO POR DOCUMENTO IDÔNEO. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO."
+(AgInt no AREsp 2.261.436/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO ANTE A SUA INTEMPESTIVIDADE. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. É intempestivo o recurso interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/15.
+2. Conforme jurisprudência desta Corte, cabe à parte comprovar, no ato da interposição do recurso, a ocorrência de suspensão dos prazos processuais em decorrência de feriados, recesso forense e ponto facultativo locais, entre outros motivos, por documento idôneo, a fim de demonstrar a tempestividade recursal.
+3. Na hipótese, a parte deixou de comprovar, no ato da interposição do recurso, a suspensão do prazo recursal pela ocorrência de ponto facultativo local. Logo, de rigor o reconhecimento da intempestividade do agravo em recurso especial. Precedentes.
+4. Agravo interno desprovido." (AgInt no AREsp 2.280.633/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/6/2023, DJe de 14/6/2023)
+Ainda é importante destacar que o Dia do Servidor Público (28 de outubro), o dia 1º de novembro, a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a Sexta-feira da Paixão e também o dia de Corpus Christi não são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. APELO NOBRE. AFASTAMENTO DA SÚMULA Nº 579/STJ. INTEMPESTIVIDADE. AGRAVO. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. SEGUNDA-FEIRA. CARNAVAL. RESP Nº 1.813.684/SP. MODULAÇÃO DE EFEITOS. EXPEDIENTE. RECESSOS LOCAIS. SUSPENSÕES. NÃO ABRANGÊNCIA.
+1. O Superior Tribunal de Justiça cancelou a Súmula nº 418, firmando o entendimento de que não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior (Súmula nº 579/STJ).
+Intempestividade do especial afastada.
+2. A Corte Especial do Superior Tribunal de Justiça, quando do julgamento do REsp nº 1.813.684/SP e da Questão de Ordem que lhe seguiu, reafirmou o entendimento de que o feriado local deve ser comprovado no ato da interposição do recurso correspondente, devendo ser observada, exclusivamente acerca do feriado da segunda-feira de carnaval, a modulação dos efeitos dessa decisão, nos termos do art. 927, § 3º, do CPC, a fim de que a interpretação consolidada acerca do tema seja aplicada somente após a publicação do acórdão respectivo, ocorrida, na hipótese vertente, em 18/11/2019.
+3. O Dia do Servidor Público (28 de outubro), o dia 1º de novembro, a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a Sexta-feira da Paixão e também o dia de Corpus Christi não são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem.
+4. Agravo interno parcialmente provido." (AgInt no AREsp n. 2.404.305/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 4/3/2024, DJe de 7/3/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. AUSÊNCIA DE RECOLHIMENTO DO PREPARO. SÚMULA 187/STJ. INTEMPESTIVIDADE DO RECURSO ESPECIAL. FERIADO LOCAL. DIAS QUE ANTECEDEM A SEXTA-FEIRA DA PAIXÃO. NECESSIDADE DE COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. AGRAVO INTERNO DESPROVIDO.
+1. "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos" (Súmula n. 187 do STJ).
+2. Nos termos do art. 219, c/c o art. 1.003, § 5º, ambos do Código de Processo Civil de 2015, é intempestivo o recurso interposto com fundamento na respectiva lei adjetiva após escoado o prazo de 15 (quinze) dias úteis.
+3. Conforme já decidido por esta Corte Superior, "o dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem" (AgInt no REsp 1.715.972/MA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/05/2018, DJe 18/05/2018).
+4. Agravo interno desprovido." (AgInt no AREsp n. 2.426.881/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024)
+Nesse contexto, não tendo sido demonstrada a tempestividade do recurso no momento de sua interposição, e tendo deixado a parte de comprovar eventual suspensão do expediente forense no âmbito da Corte local, não há como se afastar a intempestividade do recurso.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
