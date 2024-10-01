@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 296):
+TRIBUTÁRIO. EMBARGOS DE TERCEIRO. APELAÇÃO CIVIL. FRAUDEÀ EXECUÇÃO FISCAL. LC 118/2005. FRAUDE À EXECUÇÃO. NÃO-CONFIGURAÇÃO. BEM ADQUIRIDO DIRETAMENTE DA CONSTRUTORA. ATIVO CIRCULANTE. JULGAMENTO REALIZADO NA FORMA PREVISTA NO ARTIGO 942 DO CPC.
+Em se tratando de imóvel do ativo circulante da empresa executada, atuante no ramo da construção civil, não há se cogitar em alienação em fraude à execução.
+Os embargos de declaração opostos foram desprovidos (fls. 326/330).
+A parte recorrente alega violação ao art. 1.022 do Código de Processo Civil (CPC) ao afirmar que o Tribunal de origem foi omisso quanto à determinação contida no art. 185 do Código Tributário Nacional (CTN) pois, no caso concreto, a alienação do imóvel pelo sujeito passivo ocorreu após o ajuizamento da execução fiscal, o que geraria presunção absoluta de fraude à execução.
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 347/364).
+O recurso foi admitido na origem (fls. 367/368).
+É o relatório.
+Ao solucionar a controvérsia, o Tribunal de origem negou provimento ao recurso de apelação da União ao concluir, nos termos do voto divergente, pela inexistência de fraude à execução. Nessa oportunidade a maioria do colegiado entendeu que, embora a alienação dos imóveis tivesse ocorrido em momento posterior às inscrições em dívida ativa, o bem não fazia parte do ativo da contribuinte devedora, mas sim de mercadoria pronta para venda.
+O relator, vencido, propôs dar provimento à apelação, reconhecendo haver fraude à execução fiscal na aquisição do bem, com os seguintes fundamentos:
+Em relação à fraude à execução fiscal, prevista no art. 185 do Código Tributário Nacional (seja na redação atual, seja na pretérita), o Superior Tribunal de Justiça (STJ), no julgamento do Recurso Especial nº 1.141.990, rel. Min. Luiz Fux, DJe de 19-11-2010, submetido ao regime do art. 543-Cdo Código de Processo Civil (Lei nº 5.869, de 1973), assentou que possui presunção absoluta. Nesse contexto, torna-se impertinente discorrer sobre a boa-fé da adquirente, ou sobre a obtenção de certidões negativas em nome dos alienantes.
+No caso, é incontroverso que a parte autora adquiriu o imóvel de matrícula n. 22.568 em julho de 1995 (eventos 1 e 9), data na qual a vendedora (Centro Norte Construções Empreendimentos Ltda.) já havia sido citada na Execução Fiscal n. 5002613-71.2015.4.04.7003 (citação em junho de 1988, cf. evento 2, INIC1, fl. 09, da execução). Desse modo, está presente o pressuposto fático que caracteriza a fraude à execução fiscal (art. 185 do CTN, em sua redação original), a qual possui presunção absoluta, consoante exposto.
+Ainda, contrariamente ao indicado pelo magistrado de origem, a circunstância de o bem alienado pertencer ao ativo circulante da devedora não excepciona o entendimento acima exposto, uma vez que o art. 185 do Cód. Trib. Nac., em seu parágrafo único, afasta a presunção absoluta de fraude apenas quando o devedor, ao tempo da alienação, reservar bens ou rendas suficientes ao total pagamento da dívida. Nesse contexto, não cabe ao Poder Judiciário legislar de maneira indireta, criando nova hipótese que fragilize garantia e privilégio legalmente imposto ao crédito tributário (fls. 282/283, sem destaques no original).
+Assim, considerando que a questão controvertida foi analisada no voto vencido, configurado está o prequestionamento, com base no art. 941, § 3º, do CPC, de modo que não há falar em violação ao art. 1.022 do mesmo normativo legal .
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
