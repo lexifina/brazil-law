@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 25/09/2024 a 01/10/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Daniela Teixeira e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. REVISÃO CRIMINAL. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE JULGAMENTO DE MÉRITO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182, STJ. INCIDÊNCIA.
+I - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade. Incidência da Súmula n. 182 do STJ. Precedentes.
+II - No caso dos autos, o agravante não enfrentou adequadamente a tese que levou ao não recebimento do pedido de revisão criminal. Isso porque se limitou a afirmar, de forma genérica, a competência do Superior Tribunal de Justiça sem, contudo, abordar o fato de que não houve julgamento de mérito do recurso especial que pretende revisar.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental, interposto por MICHELLAN RODRIGUES TABOSA, contra decisão monocrática que não recebeu o pedido de revisão criminal em razão da incompetência do Superior Tribunal de Justiça.
+Em suas razões, o recorrente sustenta a possibilidade de ajuizamento perante o Superior Tribunal de Justiça e, assim, pede o provimento do agravo regimental para que a revisão seja processada e julgada (fls. 3.800-3.804).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. REVISÃO CRIMINAL. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE JULGAMENTO DE MÉRITO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182, STJ. INCIDÊNCIA.
+I - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade. Incidência da Súmula n. 182 do STJ. Precedentes.
+II - No caso dos autos, o agravante não enfrentou adequadamente a tese que levou ao não recebimento do pedido de revisão criminal. Isso porque se limitou a afirmar, de forma genérica, a competência do Superior Tribunal de Justiça sem, contudo, abordar o fato de que não houve julgamento de mérito do recurso especial que pretende revisar.
+Agravo regimental não conhecido.
+VOTO
+Compulsando os autos, identifico que o agravante não enfrentou adequadamente a tese que levou ao não recebimento do pedido de revisão criminal. Isso porque se limitou a afirmar, de forma genérica, a competência do Superior Tribunal de Justiça sem, contudo, abordar o fato de que, no caso, não houve julgamento de mérito do recurso especial que pretende revisar.
+A Terceira Seção consolidou entendimento no sentido de que o Superior Tribunal de Justiça tem competência para o pedido revisional, apenas, nas hipóteses em que a questão tiver sido apreciada, no mérito, por este Tribunal em sede de recurso especial. Precedentes: AgRg na RvCr n. 5.822/SP, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 23/11/2022, DJe de 2/12/2022; AgRg na RvCr n. 4.623/AC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 14/4/2021, DJe de 16/4/2021; RvCr n. 6.144, Ministro Reynaldo Soares da Fonseca, DJe de 25/04/2024.
+No caso dos autos, como dito, não houve julgamento de mérito pelo Superior Tribunal de Justiça porque o recurso especial, objeto da revisão, interposto com fundamento no art. 105, inciso III, da Constituição, não foi conhecido, conforme se depreende do acórdão impugnado de fls. 64-71.
+A literalidade do art. 621 do Código de Processo Penal indica a impossibilidade de propositura de ação revisional com o objetivo de desconstituir decisão proferida em habeas corpus, em razão da absoluta incompatibilidade do meio com a finalidade pretendida. A revisão criminal é meio de impugnação destinada a rever decisões condenatórias transitadas em julgado nas hipóteses previstas em lei. E, na lição de Guilherme de Souza Nucci, revisão criminal "(é) uma ação penal de natureza constitutiva e sui generis, de competência originária dos tribunais, destinada a rever, como regra, decisão condenatória, com trânsito em julgado, quando ocorreu erro judiciário (..). Trata-se de autêntica ação rescisória na esfera criminal (..)".
+Verifico, pois, que a defesa não deduziu argumentos específicos e pormenorizados para afastar o fundamento da decisão que não recebeu o pedido de revisão criminal, de modo que se mostra inviável a análise do agravo regimental por ausência da necessária dialeticidade recursal e incidência da Súmula n. 182, STJ.
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
