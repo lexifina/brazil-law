@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo JULIA GOMES DA SILVA BONAITE contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu recurso especial, apresentado na Apelação Cível n. 5016161-76.2021.4.03.6100, cujo acórdão possui a seguinte ementa (fl. 624):
+ADMINISTRATIVO. AÇÃO ORDINÁRIA. CONCURSO PÚBLICO. COTAS RACIAIS. AUTODECLARAÇÃO. PREVISÃO NO EDITAL DE POSTERIOR HETEROIDENTIFICAÇÃO BASEADO NO FENÓTIPO. LEGALIDADE. APELAÇÃO IMPROVIDA.
+- Preliminar de nulidade por cerceamento de defesa afastada: o Juízo, a quo no uso de seu poder-dever de condução do processo, entendeu por bem a desnecessidade de realização de prova testemunhal. Ademais, conforme motivado pela decisão de indeferimento, proferida pela MM. Juíza a quo (ID 254894942) a questão foi decidida no âmbito da legalidade e da vinculação ao edital, não tendo relevância, no caso concreto, a realização da referida prova.
+- Na hipótese, a apelante pleiteia reserva de uma das vagas destinadas a candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário-mínimo, para o curso de medicina da Universidade Federal de São Paulo-UNIFESP.
+- É pacífico na jurisprudência desta E. Corte e dos Tribunais Superiores que a atuação do Poder Judiciário em certames seletivos e concursos públicos deve se restringir ao controle da legalidade e da observância das regras contidas no respectivo edital. Não cabe ao Judiciário, na hipótese, substituir-se à Administração nos critérios de seleção.
+- No presente caso, os itens 3.6.1 ao 3.6.2.4, do Edital nº 459/2020 do referido concurso público determinou, como critério, além da autodeclaração, a avaliação de banca de heteroidentificação.
+- Houve procedimento administrativo para verificação da veracidade da autodeclaração de se tratar de candidato preto ou pardo, consistente em avaliação por Comissão de Avaliação, conforme o item 3.6.2 e seguintes do edital. Ou seja, havia previsão editalícia para a verificação.
+- Assim, não se vislumbra ilegalidade no indeferimento da condição de candidato pardo.
+- Por fim, quanto à renda familiar per capita abaixo do teto legal, verifica-se que é requisito cumulativo com a necessidade de comprovação de candidato pardo.
+- Preliminar rejeitada. Apelação improvida.
+Irresignada, a agravante interpôs Recurso Especial, com fundamento no art. 105, inciso III, alínea a e c, da Constituição da República, alegando violação dos arts. 1.022, incisos I e II, do Código de Processo Civil; arts. 2º e 50, incisos III e V, da Lei n. 9.784/1999; arts. 1º e 3º, da Lei n. 12.711/2012.
+Aduz a recorrente que (fl. 679):
+O v. acórdão ora guerreado possui vícios que poderiam ter sido sanados pelo e. Tribunal a quo por meio do julgamento de embargos de declaração, oportuna e tempestivamente opostos. Em seus declaratórios, a Recorrente demonstrou uma primeira omissão observável no v. acórdão referente ao julgamento do critério de renda. Ficou demonstrado nos votos vencidos que a decisão administrativa foi inovadora em sede recursal, sem que a Recorrente pudesse exercer o seu direito ao contraditório e ampla defesa.
+O voto vencedor, contudo, não adentra na seara da ilegalidade da decisão administrativa, a qual, repisasse, não deu à Recorrente a oportunidade de exercer o contraditório e ampla defesa. Ao contrário, limitou-se a reproduzir um trecho da r. sentença, de forma literal, e afirmou que este critério é cumulativo ao critério fenotípico.
+Deixou, portanto, o v. acórdão de analisar o real argumento, a real razão de pedir, da Recorrente em sua inicial e em seu recurso de apelação, a de que não teve a oportunidade, na seara administrativa, de exercer plenamente suas garantias processuais.
+Quanto ao critério fenotípico, também foi omisso o v. acórdão, sempre sendo considerado o voto vencedor, já que faz crer que a mera existência de previsão de banca de heteroidentificação no Edital seria suficiente para, mesmo sem qualquer fundamentação, negar a validade da autodeclaração do candidato.
+Ou seja, argumenta que o judiciário não poderia ingressar na própria esfera da fundamentação para verificar a legalidade e constitucionalidade da decisão administrativa. Neste caso, também não ingressou no mérito dos pedidos da Recorrente, que demonstrou a ilegalidade na decisão por carência de fundamentação e motivação na decisão administrativa, considerando-a como válida apenas por haver previsão editalícia da referida banca de heteroidentificação.
+O apelo foi inadmitido pelo Vice Presidente do Tribunal Regional Federal da 3º Região (fls. 725-726).
+A recorrente interpôs então Agravo em Recurso Especial (fls. 727-740).
+É o relatório. Decido.
+Após uma atenta leitura dos autos, verifico que tem razão a parte agravante, no tocante à impugnação específica aos fundamentos da decisão de inadmissibilidade, motivo pelo qual conheço do agravo e, em razão do que consta no acórdão recorrido e nas razões do recurso especial, entendo que deve ser o agravo autuado como recurso especial, segundo previsto no art. 253, inciso I, alínea d, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, RECONSIDERO a decisão agravada e CONHEÇO do agravo para DETERMINAR a sua autuação como recurso especial.
+Façam-se as anotações necessárias.
+Após, dê-se vista dos autos ao Ministério Público Federal, para o parecer.
+Publique-se. Intime m-se.
+EMENTA
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. COTAS RACIAIS. AUTODECLARAÇÃO. PREVISÃO NO EDITAL DE POSTERIOR HETEROIDENTIFICAÇÃO BASEADO NO FENÓTIPO. AUTUAÇÃO COMO RECURSO ESPECIAL. DECISÃO RECONSIDERADA PARA CONHECER DO AGRAVO E DETERMINAR A SUA AUTUAÇÃO COMO RECURSO ESPECIAL.
