@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interno interposto por 2RT TRANSPORTES LTDA. contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial em virtude da ausência de impugnação específica dos fundamentos da decisão agravada (e-STJ fls. 346/348).
+Em suas razões (e-STJ fls. 352/356), a agravante sustenta que a decisão monocrática atacada não pode prosperar, já que refutou especificamente todos os fundamentos da decisão de admissibilidade.
+Impugnação às e-STJ fls. 360/379.
+É o relatório.
+DECIDO.
+Assiste razão à recorrente.
+Depreende-se dos autos que, nas razões do agravo em recurso especial (e-STJ fls. 316/320), refutou-se especificamente o fundamento da decisão recorrida.
+Assim, considerando-se a manifestação da parte agravante, faz-se imperiosa a reconsideração da decisão, passando-se, pois, a novo exame do recurso.
+O apelo nobre, fundamentado no art. 105, III, alínea "a", da Constituição Federal, a recorrente insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"EMBARGOS À EXECUÇÃO SEGURO SENTENÇA DE IMPROCEDÊNCIA - APELAÇÃO DA EMBARGANTE - Cerceamento de defesa Não ocorrência Os documentos acostados aos autos são suficientes para o deslinde da causa, de maneira que o julgamento antecipado, sem a produção de prova pericial, não implica qualquer lesão ao contraditório e à ampla defesa Sentença mantida.
+- Alegação de ausência de título executivo Não acolhimento - Propostas dos seguros acompanhada das respectivas apólices e dos resumos das faturas de transporte, contendo os demonstrativos dos prêmios, consubstanciando título executivo líquido e exigível - Possibilidade de cobrança dos prêmios de seguro por meio de execução por título extrajudicial, nos exatos termos dos arts. 27 do Decreto-lei 73/66 e 5º do Decreto 61.589/67.
+- Alegação de ocorrência de prescrição Não acolhimento - Entre a data dos vencimentos das notas fiscais fatura e a propositura da ação de execução não decorreu o lapso de tempo de um ano.
+- Alegação de excesso de execução Não acolhimento - A embargada coligiu ao feito as averbações e notas fiscais fatura dos prêmios objeto de execução, demonstrando os valores devidos e exigidos, que não foram contrariados especificamente pela embargante.
+Recurso não provido" (e-STJ fl. 260).
+Os embargos de declaração foram rejeitados às e-STJ fls. 274/276.
+No recurso especial (e-STJ fls. 278/282), a recorrente aponta ofensa aos artigos 206, §1º, II, a e b, do Código Civil e 487, II, do Código de Processo Civil.
+Defende, em síntese, que os títulos foram cobrados fora do lapso temporal, ocasionando a prescrição.
+Além disso, alega que "restou demonstrado que a recorrente necessitava da inquirição de provas, a qual não foi oportunizada para as partes, mesmo que requeridas por elas" (e-STJ fl. 281).
+Contrarrazões às e-STJ fls. 288/303.
+O recurso especial foi inadmitido dando ensejo à interposição do presente agravo.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso não merece prosperar.
+No que se refere à ofensa aos artigos 206, §1º, II, a e b, do Código Civil e 487, II, do Código de Processo Civil, verifica-se que a matéria versada no dispositivo apontado como violado no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e, apesar de opostos embargos declaratórios, nada foi decidido acerca da matéria.
+A despeito disso, não foi alegada a violação do art. 1.022 do Código de Processo Civil, com a finalidade de sanar omissão porventura existente.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+A propósito:
+"(..) A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto apenas na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial, o que não é o caso dos autos" (AgInt no AREsp n. 1.834.881/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+E ainda que assim não fosse, no que tange ao cerceamento de defesa, as conclusões do tribunal de origem decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+Não há que se falar em cerceamento de defesa, pois os documentos acostados aos autos são suficientes para o deslinde da controvérsia e o julgamento antecipado, sem a produção de prova testemunhal, não implicou qualquer lesão ao contraditório e à ampla defesa.
+Além disso, mostrando-se suficientes os elementos trazidos aos autos pelas partes para embasar o convencimento do magistrado, com possibilidade de solução do litígio, nada impede que o juiz julgue o feito no estado em que se encontra.
+Tal como assentado em primeiro grau, é legítima a cobrança de prêmios de seguro por meio de execução por título extrajudicial, o que encontra expresso fundamento no artigo 27 do Decreto-lei 73/66 e no artigo 5º do Decreto 61.589/67" (e-STJ fls. 261/262 - grifou-se).
+Vale destacar que, no sistema da persuasão racional, adotado pelo artigo 371 do CPC, o magistrado é livre para analisar as provas dos autos, formando com base nelas a sua convicção, desde que aponte de forma fundamentada os elementos de seu convencimento.
+Logo, não é possível compelir o julgador a acolher determinada prova, em detrimento de outras, se, pelo exame do arcabouço fático-probatório, ele estiver convencido da verdade dos fatos, como ocorreu no caso em apreço.
+A propósito:
+"PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DE FAMÍLIA. ALIMENTOS. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. VIOLAÇÃO DO ART. 371 DO CPC. PERSUASÃO RACIONAL FUNDAMENTADA. ANÁLISE DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE DE COMPENSAÇÃO DO EXCESSO PAGO COM PRESTAÇÕES VINCENDAS. PRECEDENTES. SÚMULA N. 83/STJ.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação do art. 1.022 do CPC.
+2. No sistema da persuasão racional adotado pelo art. 371 do CPC, o magistrado é livre para analisar as provas dos autos, formando com base nelas a sua convicção, desde que aponte de forma fundamentada os elementos de seu convencimento.
+3. Para elidir as conclusões do acórdão recorrido, exige revolvimento e alteração das premissas fático-probatórias estabelecidas pelo Tribunal a quo, o que é vedado em recurso especial nos termos da Súmula n. 7 do STJ.
+4. O acórdão recorrido encontra-se no mesmo sentido da jurisprudência pacífica desta Corte, no sentido de que: "os efeitos da sentença proferida em ação de revisão de alimentos - seja em caso de redução, majoração ou exoneração - retroagem à data da citação (Lei 5.478/1968, art. 13, § 2º), ressalvada a irrepetibilidade dos valores adimplidos e a impossibilidade de compensação do excesso pago com prestações vincendas" (EREsp n. 1.181.119/RJ, relator Ministro Luis Felipe Salomão, relatora para acórdão Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 27/11/2013, DJe de 20/6/2014). Súmula n. 83/STJ. Precedentes. AgInt no REsp n. 2.081.034/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/11/2023, DJe de 16/11/2023; AgInt no AREsp n. 2.325.850/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023.
+Agravo interno improvido." (AgInt no AREsp n. 2.394.433/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/6/2024, DJe de 19/6/2024 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO NO RECUSO ESPECIAL. EXECUÇÃO E EMBARGOS EXTINTOS COM FIXAÇÃO DE HONORÁRIOS DE ADVOGADO. CUMPRIMENTO DE SENTENÇA PROVISÓRIO COM INVERSÃO DE POLOS. RETOMADA, ENTRETANTO, DA EXECUÇÃO ORIGINAL DO TÍTULO EXTRAJUDICIAL. EXTINÇÃO DA EXECUÇÃO PROVISÓRIA NOS TERMOS DO ART. 485, IV E VI, DO NCPC, INCLUSIVE COM ARBITRAMENTO DE HONORÁRIOS DE ADVOGADO. INTERPOSIÇÃO DE AGRAVO INTRUMENTO AO TRIBUNAL PELA EX-EXEQUENTE EM VEZ DA APELAÇÃO. NÃO CONHECIMENTO. (1) VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. TRIBUNAL QUE APRECIA INTEGRALMENTE A CONTROVÉRSIA APLICANDO O DIREITO CORRESPONDENTE, AINDA QUE COM O RESULTADO DIVERSO DO PRETENDIDO PELA PARTE. (2) VIOLAÇÃO DOS ARTS. 203, §§ 1º e 2º, E 1.015, § 1º, DO NCPC. ACÓRDÃO QUE VÊ CERTEZA DA EXTINÇÃO DO INCIDENTE EXECUTIVO PROVISÓRIO E ERRO CRASSO NA INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO EM VEZ DE APELAÇÃO. SÚMULA N.º 7 DO STJ PARA INFIRMAR PREMISSAS. (3) ART. 1.015, § 1º, DO NCPC. PRINCÍPIO DA TAXATIVIDADE MITIGADA PARA ALTERAR A PRÓPRIA ESPÉCIE RECURSAL (DE APELAÇÃO PARA AGRAVO). SÚMULA N.º 284 DO STF, POR ANALOGIA. AGRAVO CONHECIDO, PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Quando o Tribunal aponta, de maneira fundamentada, os elementos de seu convencimento, nada mais faz do que exercer a prerrogativa do livre convencimento motivado, no sistema da persuasão racional contido no art. 371 do NCPC.
+2. Demanda novo escrutínio de provas e fatos infirmar a conclusão a que chegou a Corte estadual sobre a absoluta intenção do juízo originário de extinguir execução provisória de honorários de advogado que perdeu seu objeto.
+3. A taxatividade mitigada a que se refere o Tema n.º 998 do STJ, visa a sanear o hiato recursal trazido pelo rol numerus clausus de hipóteses agraváveis do art. 1.015, do NCPC, e não para transpor o uso do agravo de instrumento para onde caiba outra espécie recursal, situação em que melhor se enquadraria a tese da fungibilidade recursal.
+4. Se o conteúdo jurídico do dispositivo legal dito violado é dissociado da tese recursal, não há como conhecer do recurso especial pela alegada violação (Súmula n.º 284 do STF).
+5. Agravo interno não provido." (AgInt no AREsp n. 2.405.633/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024 - grifou-se)
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da causa, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
+EMENTA
