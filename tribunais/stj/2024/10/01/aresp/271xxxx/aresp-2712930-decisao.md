@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MARCONI HOLANDA MENDES à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. JUSTIÇA GRATUITA. PESSOA FÍSICA. HIPOSSUFICIÊNCIA FINANCEIRA. NECESSIDADE DE COMPROVAÇÃO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 99, § 2º e 3º, do CPC, art. 5º, LXXIV da CF e do princípio da segurança jurídica, no que concerne à necessidade de concessão do benefício da gratuidade de justiça, pois a recorrente comprovou que não tem condições de arcar com as custas recursais, trazendo a seguinte argumentação:
+5. Observe Exas. que a Constituição é clara ao dispor que o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos e no presente caso "data máxima vênia" o ora Recorrente comprovou sua hipossuficiência.
+6. Foi exatamente o que aconteceu Exa., pois a recorrente trouxe argumentos suficientes para o deferimento da justiça gratuita, porém não foi aceito pelo Ilmo. Relator.
+ ..
+8. Cumpre destacar Exas. que o recolhimento de custas de preparo importa em vultoso valor, valor este do qual o Recorrente não dispõe, pois além de ter sofrido doença grave que o limita laborativamente, tem que se valer de recursos vários para a pretensão de um direito legalmente garantido.
+9. Há de se observar que somente na Seção de Direito Público o recorrente possui 68 recursos visando garantir a verba honorária, imagine ter que recolher o preparo de todos esses recursos, obviamente os de menores valores foram recolhidos, todavia os de grande monta, o recorrente comprovou estar impossibilitado do recolhimento (fl. 546).
+16. Observe também Exas. que a Recorrente trouxe além de declaração de hipossuficiência e a declaração de imposto de renda, uma lista de ações que sofre no estado de São Paulo, o que demonstra cabalmente que não tem condições de arcar com as custas do recurso de Apelação interposto (fl. 549).
+É o relatório.
+Decido.
+Quanto à controvérsia, é incabível o Recurso Especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe de 16.6.2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º.10.2019; EDcl no REsp 1.656.322/SC, Rel. Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13.12.2019.
+Ademais, não é cabível a interposição de Recurso Especial fundado na ofensa a princípios, tendo em vista que não se enquadram no conceito de lei federal.
+Nesse sentido: "O art. 105, III, "a", da CF, ao dispor acerca da interposição de recurso especial, menciona a ocorrência de violação à lei federal, expressão que não inclui os princípios". (AgInt no AREsp n. 826.592/RS, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 13.6.2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.304.346/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 8.4/2019; AgRg no REsp 1.135.067/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 9.11.2015.
+No mais, o Tribunal a quo se manifestou nos seguintes termos:
+No caso dos autos, a r. decisão monocrática agravada foi proferida nos seguintes termos:
+" ..
+Ocorre que a parte-apelante, qualificada como advogado da empresa executada, apesar de expressamente intimada a tanto, não apresentou qualquer elemento apto a esclarecer sua atual situação financeira. Assim, do quanto trazido à apreciação, não restou demonstrado que ela não tenha condições de arcar com as despesas processuais. Ressalte-se que, apesar da delicada condição de saúde da parte-apelante em razão de 02 AV Cs (conforme relatório médico constante do ID 283101409) e da necessidade de reabilitação neurológica, ela não apresentou documentos comprobatórios das despesas decorrentes do mencionado problema de saúde (as quais alega serem altas), e tampouco comprovou sua renda (ou a respectiva ausência) decorrente do exercício do mister profissional.
+Ante o exposto, indefiro o pedido de concessão dos benefícios de Justiça Gratuita. Intime-se a parte-apelante para que providencie o recolhimento das custas pertinentes, sob pena de deserção. (..)".
+Enfim: no agravo interno interposto, o recorrente não demonstrou o desacerto da r. decisão monocrática proferida, cujos fundamentos estão escorados em textos normativos validamente positivados e em jurisprudência pertinente, devidamente relacionados ao caso concreto sub judice (fls. 523-524).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
