@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, agravo interposto por ELISA CONTI COSTA e ALBERTO RAFAEL COSTA em objeção a decisão vista às fls. 881-886, por meio da qual o recurso especial interposto pelos agravantes foi inadmitido.
+Os recorrentes sustentam, em síntese, que o Tribunal de origem não fundamentou o acórdão fazendo a distinção do caso com o entendimento atual deste Superior Tribunal de Justiça, nem observou a natureza do negócio, razão pela qual houve violação aos arts. 489 e 1.022 do CPC/2015. Afirmam que não pretendem a reapreciação da matéria fática, mas tão somente a correta aplicação do disposto no art. 205 do Código Civil, uma vez que a pretensão autoral está adstrita à responsabilidade civil por descumprimento contratual, a qual é aplicável o prazo prescricional decenal. Pede o provimento do agravo e do recurso especial.
+Contraminuta às fls. 915-919.
+É o relatório.
+Passo a decidir.
+Ao que se verifica, o Tribunal de Justiça de Santa Catarina inadmitiu o recurso especial interposto pelos ora agravantes em razão da ausência de violação aos arts. 489 e 1.022 do CPC/2015 e do óbice da Súmula 7/STJ.
+A despeito dos argumentos dos recorrentes, verifico que o recurso especial realmente não reúne condições de admissibilidade.
+Sobre a alegada violação aos artigos 1.022 e 489 do CPC/15, decidiu com acerto a Corte de origem ao consignar que se encontram presentes e formalmente correntes o relatório, a fundamentação e a conclusão da decisão guerreada, estando abordados no acórdão do recurso principal, e naquele que rejeitou os embargos de declaração, as matérias relevantes para o deslinde da controvérsia, notadamente o argumento do recorrente de que seria aplicável ao caso o prazo prescricional decenal, em razão da natureza da relação.
+Assim consignou o aresto recorrido quando do julgamento dos embargos de declaração, aliás:
+No caso em concreto, Elisa Conti Costa e Alberto Rafael Costa suscitaram a omissão no acórdão de fls. 709/725, mais precisamente em relação à natureza que envolveu os litigantes e, por conseguinte, na aplicação do prazo prescricional.
+Defenderam que o desenho da ação justifica, na verdade, a aplicação do art. 205, do Código Civil, segundo o qual, "A prescrição ocorre em dez anos, quando a lei não lhe haja fixado prazo menor."
+Para tanto, os embargantes disseram que a pretensão autoral está ligada à responsabilidade civil por descumprimento contratual.
+O argumento, por si só, indica oposição àquele dedicado em sede de apelação dos insurgentes, confira-se: "Forçoso concluir, destarte, a inaplicabilidade no caso em tela dos prazos prescricionais previstos no Código Civil ou em leis extravagantes de Direito Privado, sendo regido por lei especial, mais precisamente pelo art. 1º-C da Lei 9.494, de 10 de setembro de 1997  .. " (fls. 626/627).
+A tese, melhor dizendo, veio desde o protocolo da inicial (fls. 06) e da apresentação de réplica pelos autores (fls. 601).
+Ou seja, a parte almeja revisar a matéria debatida no julgado em análise, se valendo de alegação diversa daquela anteriormente asseverada, no assunto voltado à prescrição.
+Não bastasse, a fim de evitar qualquer questionamento, registra-se que o acórdão não pecou no vício apontado pelos embargantes, ao findar a ação pelos efeitos prescricionais.
+O compulsar dos autos denota que esta Terceira Câmara de Direito Público, quando do julgamento das apelações cíveis, próprias desta ação de reparação de danos materiais, reconheceu a configuração da prescrição, na linha do art. 206, § 3º, inc. IV, do Código Civil.
+No ponto, a decisão colegiada afirmou que a tutela jurisdicional aqui perseguida se resumia à vedação do enriquecimento ilícito de um dos componentes do contrato de prestação de serviços. Igualmente mencionou que os autores, agora embargantes, almejavam o ressarcimento do desequilíbrio econômico-financeiro originado da relação contratual.
+A partir disso, que creditou na aplicação do prazo trienal no que toca à prescrição, ao afastar a aplicação do período geral desta espécie, que seriam os invocados 10 (dez) anos e, ainda o período especial de 5 (cinco) anos, para as ações que envolvem a Fazenda Pública.
+Ou seja, como a causa de pedir trouxe vontade de evitar o enriquecimento sem causa da concessionária de serviço público, frente ao contrato que se embasou a demanda, houve aplicação do prazo disposto no art. 206, §3º, inc. IV, do Código Civil.
+Conforme a jurisprudência deste Superior Tribunal de Justiça, não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015) e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte (AgInt no AREsp 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+A pretensão da parte recorrente relativa à aplicabilidade do prazo prescricional decenal encontra, outrossim, óbice na Súmula n. 7/STJ. Isso porque o órgão julgador, soberano na análise do conjunto fático-probatório dos autos, concluiu expressamente que a causa de pedir exterioriza ressarcimento de enriquecimento sem causa, razão pela qual deve ser aplicado o prazo prescricional trienal e não o decenal.
+Para rever essa conclusão, seria imprescindível o reexame de todo o acervo fático e probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+É que a verificação da natureza da relação havida entre as partes, a fim de aferir o acerto do enquadramento dos autos na situação descrita no art. 205, §3º, do CC/2002, ensejaria o reexame do acervo probatório, não bastando a reanálise da delimitação feita no acórdão.
+Mais uma vez, a jurisprudência deste Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023).
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
