@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. LEGITIMIDADE PASSIVA. COOBRIGADA. TÍTULO EXECUTIVO EXIGÍVEL. VENCIMENTO ANTECIPADO. -Verifica-se a pertinência da executada para figurar no polo passivo da demanda quando esta figura como coobrigada na cédula rural pignoratícia e hipotecária. -Havendo previsão expressa na cédula rural pignoratícia e hipotecária no sentido de que a falta de pagamento ou descumprimento de quaisquer obrigações assumidas ensejará o vencimento antecipado da dívida, não há que se falar em inexigibilidade do título, devendo prosseguir a demanda executiva"
+Opostos embargos de declaração, foram rejeitados.
+A recorrente aponta, além de divergência jurisprudencial, violação aos arts. 113, caput, § 1º, incisos III, IV e V, 265 e 1.647, incisos I e III, do Código Civil, sustentando sua ilegitimidade para figurar no polo passivo da execução, uma vez que, ao contrário do que exposto no acórdão recorrido, figura no título executado apenas como interveniente, na condição de anuente, em razão de outorga uxória concedida para possibilitar que o imóvel dos cônjuges pudesse ser dado em garantia.
+C  ontrarrazões às fls. 581/604 e-STJ.
+Juízo de admissibilidade proferido às fls. 621/622 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Na análise do acervo probatório dos autos, o Tribunal de origem foi expresso ao consignar que a agravante figura na Cédula Rural Pignoratícia e Hipotecária como coobrigada, contrapondo a alegação de que a assinatura teria ocorrido apenas em razão de outorga uxória.
+Assim, a pretensão de alteração da conclusão adotada no acórdão recorrido esbarra nos óbices da Súmula 5 e 7, ambas do STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. EXECUÇÃO DE TÍTULO EX TRAJUDICIAL. VALIDADE DA CITAÇÃO. LEGITIMIDADE. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INTERESSE E LEGITIMIDADE. ATENDIMENTO DOS PRESSUPOSTOS PARA A EXECUÇÃO. REEXAME. IMPOSSIBILIDADE. SÚMULAS N. 7 E 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE
+1. Inexiste negativa de prestação jurisdicional quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. A falta de expressa indicação e de demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+3. Sendo deferido o pedido de desconsideração, o interesse recursal do devedor originário é excepcional, evidenciado no propósito de defesa do seu próprio patrimônio, inexistindo, por outro lado, interesse na defesa direta da esfera de direitos daqueles que foram alcançados pela desconsideração.
+Precedentes.
+4. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do instrumento contratual e do acervo fático-probatório dos autos atrai a incidência das Súmulas n. 5 e 7 do STJ.
+5. A multa prevista no art. 1.021, § 4º, do CPC não decorre do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência do recurso para autorizar sua imposição.
+6. Agravo interno desprovido" (AgInt no AREsp n. 1.797.377/SP, relator Ministro João Otávio de Noronha, QUARTA TURMA, DJe de 4/9/2024.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA EMBARGANTE.
+1. Não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação, inexistindo na espécie qualquer violação ao disposto no art. 489 do CPC/15.
+2. Esta Corte Superior tem entendimento no sentido de que a verificação da necessidade da produção de quaisquer provas, é faculdade adstrita ao juiz, de acordo com o princípio do livre convencimento motivado, e que a análise acerca do deferimento ou não de produção de provas enseja o revolvimento do conteúdo fático-probatório dos autos. Súmulas 7 e 83/STJ.
+3. Para alterar a conclusão da Corte local acerca da legitimidade passiva seria necessário promover o reexame do acervo fático-probatórios dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+4. Para acolher a pretensão recursal no sentido de que houve novação, e não mera renegociação, seria necessário promover o reexame do acervo fático-probatórios dos autos e interpretar as cláusulas contratuais, providências vedadas, a teor dos óbices das Súmulas 5 e 7 do STJ.
+5. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte de origem (Súmula 283 do STF).
+6. Alterar a conclusão da Corte no sentido de que não houve quitação, nem tampouco excesso de execução, demandaria o revolvimento do arcabouço fático-probatório dos autos e a interpretação das cláusulas contratuais, providências obstadas pelos enunciados 5 e 7 do STJ.
+7. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. Precedentes.
+8. Agravo interno desprovido" (AgInt no AREsp n. 2.008.272/SP, relator Ministro Marco Buzzi, QUARTA TURMA, DJe de 1/6/2023.)
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
