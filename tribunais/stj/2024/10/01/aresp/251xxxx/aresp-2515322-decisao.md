@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por REFINARIA DE PETROLEOS DE MANGUINHOS S.A. - EM RECUPERACAO JUDICIAL contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, dirigido contra acórdão prolatado em agravo de instrumento.
+Consta dos autos que a agravante interpôs agravo de instrumento contra decisão que determinou o prosseguimento da execução fiscal mesmo a executada estando em recuperação judicial. O Tribunal de origem negou provimento ao recurso, em acórdão com o seguinte resumo de ementa (fl. 565):
+AGRAVO DE INSTRUMENTO - Execução Fiscal - Executada em recuperação judicial - Suspensão do trâmite dos autos ante determinação do C. STJ - Posterior desafetação da matéria, devido às alterações promovidas na Lei 11.101/2005, por meio da Lei 14.112/2020, afastando a determinação de suspensão nacional dos processos pendentes sobre o tema - Regular prosseguimento do feito - Possibilidade - R. decisão mantida.
+Recurso improvido.
+No apelo nobre, a recorrente alega violação aos seguintes dispositivos:
+a) arts. 6º, §7º-B e 47, da Lei n. 11.101/2005, e 67 e 69, IV, §2º, IV, do CPC/2015, visto que o processo deveria ser remetido ao juízo universal por se tratar de atos de constrição que podem comprometer a manutenção das atividades da empresa sob recuperação judicial; e
+b) arts. 14 do CPC/2015 e 6º da LINDB, por inaplicabilidade das novas regras da Lei de Recuperação Judicial, porquanto seu plano de recuperação se encontra em curso.
+É o relatório.
+Decido.
+O presente agravo comporta conhecimento, embora o apelo nobre não deva ser conhecido.
+A Corte de origem analisou a controvérsia com base nos seguintes fundamentos:
+Depreende-se dos autos que o trâmite da execução fiscal foi suspenso, até o julgamento do Tema 987 pelo C. STJ.
+Contudo, o C. STJ desafetou a matéria, devido às alterações promovidas na Lei 11.101/2005, por meio da Lei 14.112/2020, afastando a determinação de suspensão nacional dos processos pendentes sobre o tema.
+(..)
+Assim, em observância ao decidido pelo C. STJ, é de rigor o regular prosseguimento da execução fiscal, tal qual decretado pelo Juízo de origem.
+(..)
+Ou seja, uma vez reconhecida a competência do Juízo da execução para atos de constrição, é facultado ao Juízo da recuperação a substituição do bem, se essencial à manutenção da atividade empresarial.
+A desafetação promovida pelo C. STJ evidencia que as alterações promovidas pela 14.112/20 possuem aplicabilidade imediata, tendo a inclusão do art. 7º-B na Lei 11.101/05 dirimido a dúvida acerca da possibilidade de constrição de bens pelo juízo da execução.
+Verifica-se que o Tribunal de origem decidiu a questão da competência para o prosseguimento da execução em relação ao juízo da recuperação judicial em conformidade com a jurisprudência desta Corte, incidindo, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Neste sentido:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. FALÊNCIA. EXECUÇÃO FISCAL. TRAMITAÇÃO. POSSIBILIDADE. AUSÊNCIA DE SUSPENSÃO. POSSIBILIDADEDE CITAÇÃO E PENHORA NO JUÍZO DA EXECUÇÃO FISCAL. NECESSÁRIO CONTROLE DOS ATOS DE CONSTRIÇÃO PELO JUÍZO DA RECUPERAÇÃO. AGRAVO NÃO PROVIDO.
+1. Os atos de execução dos créditos individuais e fiscais promovidos contra empresas falidas ou em recuperação judicial, tanto sob a égide do Decreto-Lei n. 7.661/45 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal. Inteligência do art. 76 da Lei n. 11.101/2005.
+2. Tal entendimento estende-se às hipóteses em que a penhora seja anterior à decretação da falência ou ao deferimento da recuperação judicial. Ainda que o crédito exequendo tenha sido constituído depois do deferimento do pedido de recuperação judicial (crédito extraconcursal), a jurisprudência desta Corte é pacífica no sentido de que, também nesse caso, o controle dos atos de constrição patrimonial deve prosseguir no Juízo da recuperação. Precedentes.
+3. O deferimento da recuperação judicial não possui o condão de sobrestar a execução fiscal, todavia, conquanto o prosseguimento da execução fiscal e eventuais embargos, na forma do art. 6º, § 7º-B, da Lei 11.101/2005, com redação dada pela Lei 14.112, de 2020,deva se dar perante o juízo federal competente - ao qual caberão todos os atos processuais, inclusive a ordem de citação e penhora -, o controle sobre atos constritivos contra o patrimônio da recuperanda é de competência do Juízo da recuperação judicial, tendo em vista o princípio basilar da preservação da empresa.
+4. Em outros termos, o Juízo da execução fiscal poderá determinar a constrição bens e valores da recuperanda, todavia, o controle de tais atos é incumbência exclusiva do Juízo da recuperação, o qual poderá substituí-los, mantê-los ou, até mesmo torná-los sem efeito, tudo buscando o soerguimento da empresa, haja vista a sua elevada função social.
+5. Agravo interno não provido (AgInt no CC 177.164/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 31/08/2021, DJe 09/09/2021.) (..)"
+(CC 183.850, Rel. Min. ANTONIO CARLOS FERREIRA, DJe de 03/02/2022).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 47, 49, § 3º, PARTE FINAL, 59 E 61 DA LEI 11.101/2005. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. EXECUÇÃO FISCAL. POSSIBILIDADE DE PROSSEGUIMENTO DO FEITO EXECUTIVO, COM REALIZAÇÃO DE PENHORA, EM FACE DE EMPRESA EM RECUPERAÇÃO JUDICIAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A ATUAL JURISPRUDÊNCIA DO STJ. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+(..)
+VI. Na forma da atual jurisprudência do STJ, a partir da alteração legislativa promovida pela Lei14.112/2020, que acrescentou o § 7º-B ao art. 6º da Lei de Recuperação de Empresas e Falência - Lei 11.101/2005, "deferido o processamento da recuperação judicial, permanece a competência do juízo de execução fiscal perante o qual o feito executivo deve prosseguir, cabendo ao juízo da recuperação verificar a viabilidade da constrição efetuada em execução fiscal e determinar a substituição dos atos de constrição que recaiam sobre bens essenciais à manutenção da atividade empresarial até o encerramento da recuperação, valendo-se, para tanto, da cooperação jurisdicional.
+Logo, com a entrada em vigor da Lei14.112/2020, houve modificação do procedimento adotado em relação às empresas recuperandas, pontuando expressamente a possibilidade de continuidade do feito executivo e de constrição de bens" (..) (AgInt no REsp n. 2.008.013/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/11/2022, DJe de 1/12/2022.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TRIBUTÁRIO. EMPRESA EM RECUPERAÇÃO JUDICIAL. AGRAVO DE INSTR UMENTO. COMPETÊNCIA DO JUÍZO PARA CONSTRIÇÃO DE BENS. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
