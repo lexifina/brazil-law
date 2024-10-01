@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto pelo HOSPITAL MARIA AUXILIADORA S.A., contra decisão que negou seguimento a recurso especial, fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 06/06 /2024.
+Concluso ao Gabinete em: 23/09/2024.
+Ação: de indenização por danos materiais e compensação por danos morais com Pedido de Tutela de Urgência, ajuizada por SUENIA ARRUDA DINIZ CARVALHO e JOSÉ RIBAMAR DE CARVALHO JUNIOR em desfavor do HOSPITAL MARIA AUXILIADORA S.A.
+Sentença: julgou parcialmente procedentes os pedidos iniciais para condenar o requerido a restituir à autora os danos materiais e morais suportados.
+Acórdão: deu parcial provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. CONSUMIDOR. GRATUIDADE DE JUSTIÇA. IMPUGNAÇÃO. PESSOA NATURAL. DECLARAÇÃO FIRMADA. PRESUNÇÃO DE VERACIDADE. AUSÊNCIA DE PROVA DA SUFICIÊNCIA FINANCEIRA. REJEIÇÃO. HOSPITAL PARTICULAR. FALHA NA PRESTAÇÃO DE SERVIÇO MÉDICO. OCORRÊNCIA. DANO MATERIAL. DANO MORAL. CONFIGURAÇÃO. VALOR RAZOÁVEL E PROPORCIONAL.
+1. Embora a presunção de veracidade da alegação de hipossuficiência deduzida exclusivamente por pessoa natural não seja absoluta, admitindo prova em contrário, a suficiência financeira deve ser provada por quem alega o fato. A parte não se desincumbiu de provar que a situação econômico-financeira do beneficiário lhe permite arcar com as despesas processuais sem comprometimento de sua subsistência.
+2. Presente a falha na prestação de serviço do hospital, sobretudo porque a equipe médica deixou de adotar em tempo hábil os meios necessários para o restabelecimento da saúde da paciente, impõe-se o ressarcimento da quantia desembolsada a título de dano material, com o decote do valor excessivo.
+3. Atingido o direito da personalidade diretamente, o dano moral (puro ou direto) estará vinculado à própria existência do fato ( ), cujos resultados são presumidos, ao in re ipsa contrário de quando é atingido o direito da personalidade mediante lesão a bens de natureza patrimonial (dano moral impuro ou indireto).
+4. Na hipótese, é inegável que o agravamento considerável do estado de saúde da paciente atinge a personalidade jurídica da autora, que se encontrava em situação de fragilidade emocional em virtude da internação. Assim, sem olvidar as finalidades compensatória, punitiva ao ofensor, pedagógica e preventiva da condenação, bem assim às circunstâncias da causa, inclusive a capacidade das partes, afigura-se adequado o valor fixado na sentença.
+5. Apelação conhecida e provida em parte." (e-STJ, fls. 1.593/1.594)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: Alegou ofensa aos arts. 14, § 3º, II, do CDC; 373, 489, §1º, III, IV, e V, 3º, §1º, e 1.022, I, II, parágrafo único, I e II, do CPC; 186, 187 e 927, do CC, sustentando: i) omissão e negativa de prestação jurisdicional; ii) que deve ser afastada a responsabilidade civil do agravante, por culpa exclusiva do agravado, julgando-se improcedente a ação indenizatória proposta; iii) alternativamente, no caso de reconhecimento de culpa concorrente, que seja reduzido o montante arbitrado a título de danos morais e materiais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ofensa ao art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art.1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de16/02/2018.
+No particular, a agravante alega omissão do julgado, por alegada falta de apreciação de trechos do laudo pericial que indicariam a ocorrência de culpa concorrente por parte da paciente.
+Contudo, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca das questões suscitadas, conforme se verifica do trecho a seguir transcrito:
+"A decisão colegiada discorreu sobre toda a dinâmica dos fatos e, adiante, reportou-se ao laudo pericial, tendo transcrito a conclusão do perito, no sentido de que "o atendimento prestado no Hospital Maria Auxiliadora, não atendeu às diretrizes e protocolos, caracterizando falha na prestação dos serviços médico e hospitalares, existindo . nexo causal com o resultado atinente às complicações médicas" O Colegiado frisou que, ainda que anotado como queixa de reação alérgica ao contraste no prontuário para o atendimento do dia 18/11/2020, não resta crível o argumento do hospital embargante de que não havia justificativa para investigação do quadro cardíaco, uma vez que a documentação colacionada revela a inegável falha no atendimento, conforme bem pontuado pelo . expert Por conseguinte, inarredável o desfecho alcançado no acórdão de que o embargante deve responder pelo evento danoso, porquanto restou configurada a falha no atendimento médico prestado na unidade hospitalar, caracterizado pela desídia em adotar os meios necessários em tempo hábil para o restabelecimento da saúde da paciente, que, diante do quadro clínico apresentado no primeiro atendimento, necessitava de internação imediata, o que reflete o nexo causal. Nisso, nenhuma omissão, contradição ou premissa equivocada, tampouco afronta a dispositivos legais. " (e-STJ, fl. 1.661)
+Neste passo, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Ademais, devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+Com efeito, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam.
+Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, §1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, DJe de 21/6/2016).No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe de 19/12/2019 e AgInt no AREsp 1.480.314/RJ, QUARTA TURMA, DJe de 19/12/2019.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não
+há que se falar em violação dos arts. 489 e 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame fático e probatório e da interpretação de cláusulas contratuais
+Quanto ao mérito, conforme se extrai do trecho acima transcrito, a Corte de origem concluiu pela falha na prestação dos serviços prestados pelo agravante, e pela sua responsabilidade em reparar os danos suportados pela autora.
+Alterar a conclusão adotada, demandaria o reexame fático probatório dos autos, o que é inadmitido, nesta via especial, ante a incidência da Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC para CONHECER EM PARTE o recurso especial e NEGAR-LHE PROVIMENTO.
+Nos termos do art. 85, §11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% (dez por cento) sobre o valor atualizado da causa (e-STJ, fl. 1.509) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OUOBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de indenização por danos materiais e compensação por danos morais com Pedido de Tutela de Urgência.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas é inadmitido em recurso especial, ante o óbice da Súmula 7 desta Corte.
+4. Agravo conhecido. Recurso especial conhecido em parte e não provido.
