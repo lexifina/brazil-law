@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por OSVALDO SOARES FALCAO, com fundamento na incidência  da Súmula  83 do STJ e pela ausência de violação do art. 1.022 do CPC/2015.
+Em suas razões recursais, a parte agravante sustenta que a Súmula 83 do STJ não se aplica ao caso, uma vez que conforme jurisprudência desta Corte, o provimento que determina a baixa e arquivamento da execução, como a hipótese dos autos, tem natureza de sentença, pois põe termo ao processo e, portanto, deve ser atacada por apelação.
+Assevera, ainda, que houve violação ao art. 1.022, do CPC/2015, por negativa de prestação jurisdicional, pois o Tribunal de origem não enfrentou a tese em relação à natureza jurídica de sentença da decisão proferida pelo juízo de primeiro grau (fl. 441).
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+De início, quanto à apontada violação aos arts. 489 e 1.022, II, do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta. No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, de modo que não ficou configurada a negativa de prestação jurisdicional. O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+No mérito, quanto à apontada violação ao art. 203, §1º, do CPC/2015, o recurso também não merece prosperar.
+De acordo com a jurisprudência desta Corte, "no sistema do vigente Código de Processo Civil, a apelação é o recurso cabível contra a decisão que acolhe a impugnação ao cumprimento de sentença para extingui-lo. Entende ainda que a decisão que julga improcedente a impugnação, dando, assim, prosseguimento à fase executiva, não tem natureza jurídica de sentença definitiva, desafiando, por isso, agravo de instrumento" (AgInt no REsp n. 2.039.913/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/6/2023, DJe de 22/6/2023).
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. INOCORRÊNCIA. ARTS. 5º, 188, 277 E 724, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 282/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. DECISÃO QUE ACOLHE PARCIALMENTE A IMPUGNAÇÃO OU LHE NEGUE PROVIMENTO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. ERRO GROSSEIRO. ACÓRDÃO EM CONSONÂNCIA COM ENTENDIMENTO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AUSÊNCIA DE COTEJO ANALÍTICO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+V - O tribunal de origem adotou entendimento consolidado nesta Corte segundo o qual, na vigência do CPC/2015, o recurso cabível da decisão que acolhe impugnação ao cumprimento de sentença e extingue a execução é a apelação. As decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva em andamento, têm natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso adequado ao seu enfrentamento, configurando erro grosseiro a interposição de apelação, o que inviabiliza a aplicação do princípio da fungibilidade recursal VI - Prejudicada a análise da alegada divergência jurisprudencial, quando não ultrapassado óbice sumular aplicado por ocasião do exame do recurso especial pela alínea a do permissivo constitucional.
+ ..
+IX - Agravo Interno desprovido.
+(AgInt no REsp n. 2.005.460/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 19/9/2022, DJe de 23/9/2022.)
+No caso dos autos, o tribunal de origem consignou que houve a rejeição à impugnação ao cumprimento de sentença, sem extinção da execução, motivo pelo qual o recurso cabível seria o agravo de instrumento.
+Confira-se (fl. 362):
+Verifica-se que foi interposto recurso de apelação contra decisão que rejeitou impugnação à execução com determinação de expedição de requisição de pequeno valor - RPV, sem a extinção do processo respectivo. Com efeito, diante de decisão interlocutória que aprecia impugnação de cumprimento de sentença sem extinção da execução, o recurso cabível é o agravo de instrumento, não sendo aplicável ao caso o princípio da fungibilidade recursal, razão pela qual o recurso de apelação não deve ser conhecido, conforme disposto no art. 203, §§ 1º e 2º e art. 1.015, do CPC/2015, verbis
+(..)
+Dessa forma, pelo fato do acó rdão recorrido estar de acordo com a jurisprudência desta Corte, incide, no caso, o óbice da Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Isso posto, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
