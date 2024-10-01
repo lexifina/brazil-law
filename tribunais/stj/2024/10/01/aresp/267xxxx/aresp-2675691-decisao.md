@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO RIO DE JANEIRO e OUTRO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que inadmitiu recurso especial dirigido contra o acórdão prolatado nos autos do Agravo de I nstrumento n. 0013623-92.2024.8.19.0000, assim ementado (fls. 20-21):
+AGRAVO DE INSTRUMENTO. AÇÃO DE REVISÃO DE VERBA PREVIDENCIÁRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO QUE AFASTOU A INCIDÊNCIA DA PRESCRIÇÃO QUINQUENAL NO QUE TANGE AOS ÍNDICES DE REAJUSTE. TEMA JULGADO PELA SEÇÃO CÍVEL DESTE EG. TJRJ NO IRDR Nº 0026631- 20.2016.8.19.0000.
+1. A prescrição diz respeito tão somente ao pagamento da diferença, não ao reajuste, inexistindo, no IRDR nº 0026631-20.2016.8.19.000, qualquer menção à prescrição quinquenal no item "(i)", que determina a revisão do benefício, mas apenas no "(ii)", que impõe o pagamento de prestações vencidas.
+2. Inteligência do Enunciado nº 85 da Súmula do STJ - "Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação".
+3. Julgados desta Eg. Corte Estadual em casos análogos.
+4. Recurso conhecido e desprovido.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, a parte agravante alega ofensa: (a) ao art. 1º do Decreto n. 20.910/1932, ao fundamento de que não faz sentido que a aplicação de índices de reajuste retroaja até antes do início do quinquênio anterior ao ajuizamento da demanda, de modo que "deve-se respeitar a regra da prescrição quinquenal estabelecida pelo art. 1º do Decreto n. 20.910/32, que, como defendido anteriormente, inclui tanto as parcelas vencidas quanto os índices de reajuste aprovados antes dos cinco anos anteriores ao ajuizamento da demanda" (fl. 39); (b) ao art. 985, I, do CPC/2015, na medida em que no julgamento do IRDR n. 0026631-20.2016.8.19.0000, fixou-se tese no sentido de que o reajuste da gratificação de regência de classe deve ser realizado com base nos índices gerais aplicados aos vencimentos dos professores públicos estaduais e observada a prescrição quinquenal, de sorte que "tal disposição não foi levada em consideração pelo acórdão recorrido" (fl. 40).
+Foram apresentadas contrarrazões (fls. 46-54).
+O recurso especial não foi admitido (fls. 56-58).
+O agravo em recurso especial foi interposto às fls. 67-70.
+Contraminuta às fls. 74-88.
+É o relatório.
+Decido.
+Diante da suficiente impugnação dos fundamentos da decisão de inadmissibilidade, conheço do agravo e passo ao exame do apelo nobre, o qual, contudo, não merece conhecimento.
+No caso o Tribunal de origem negou provimento ao agravo de instrumento manejado pela parte agravante, com base nos seguintes fundamentos (fls. 23-26; sem grifos no original):
+ ..  a prescrição quinquenal a qual se refere o IRDR nº 0026631-20.2016.8.19.0000, julgado pela Seção Cível deste Eg. Tribunal "não atinge o fundo de direito, portanto, ela não limita a revisão da vantagem aos cinco anos anteriores ao ajuizamento da ação, limitando apenas o pagamento das diferenças ao prazo prescricional quinquenal".
+Nos termos do dispositivo do Acórdão que julgou o IRDR, citado pelo próprio Recorrente, verifica-se que a prescrição diz respeito tão somente ao pagamento, não ao reajuste, não havendo qualquer menção à prescrição quinquenal no item "(i)", que determina a revisão do benefício, mas apenas no "(ii)", que impõe o pagamento de prestações vencidas, conforme se depreende da leitura do referido trecho:
+ ..
+Ainda, de acordo com a Súmula n. 85 do STJ, "nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação".
+ ..
+Desta forma, não merece ser acolhida a argumentação aduzida pelos Agravantes, devendo ser preservada a decisão recorrida, vez que em consonância tanto com a legislação vigente quanto com a jurisprudência a respeito da matéria.
+Neste panorama, observa-se que as razões do recurso especial estão dissociadas do acórdão recorrido e não impugnam os seus fundamentos, o que caracteriza a falta de delimitação da contrové rsia, atraindo a incidência da Súmula n. 284 do STF. Nesse sentido: AREsp n. 2.595.568/RJ, relator Ministro Teodoro Silva Santos, DJe de 01/07/2024; AgInt no AREsp n. 2.299.240/RN, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023; AgInt no AREsp n. 2.174.200/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/4/2023, DJe de 26/4/2023.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. REVISÃO DE VERBA PREVIDENCIÁRIA. GRATIFICAÇÃO DE REGÊNCIA DE CLASSE. TRIBUNAL DE ORIGEM ENTENDE QUE A TESE FIRMADA EM IRDR SOBRE A PRESCRIÇÃO DIZ RESPEITO TÃO SOMENTE AO PAGAMENTO DAS DIFERENÇAS E NÃO AO REAJUSTE. ALEGADA OFENSA AOS ARTS. 1º DO DECRETO N. 20.910/1932 E 985, I, DO CPC/2015. RAZÕES RECURSAIS DISSOCI ADAS DO ACÓRDÃO RECORRIDO QUE NÃO IMPUGNAM SEUS FUNDAMENTOS. INCIDÊNCIA DA SÚMULA N. 284 DO STF. PRECEDENTES. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
