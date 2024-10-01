@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por JAYME ROGERIO VELHO VIEIRA, em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 783, e-STJ):
+APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO DE COBRANÇA SECURITÁRIA. SEGURO PARA INVALIDEZ PARCIAL E PERMANENTE. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO. PRELIMINAR DE NULIDADE DA SENTENÇA. INOCORRÊNCIA. DECISÃO QUE OBSERVOU OS REQUISITOS LEGAIS. ALEGAÇÃO DE INOBSERVÂNCIA DA JURISPRUDÊNCIA. SENTENÇA QUE DISTINGUIU O CASO DA APLICAÇÃO DE ENUNCIADO SUMULAR E DEIXOU DE OBSERVAR JULGADO APONTADO NAS RAZÕES RECURSAIS QUE NÃO É VINCULANTE, MAS MERAMENTE PERSUASIVO. SENTENÇA DEVIDAMENTE MOTIVADA. MÉRITO. OCORRÊNCIA DO SINISTRO ANTERIORMENTE A CONTRATAÇÃO DO SEGURO. PROVA DOCUMENTAL E PERICIAL QUE INFIRMA A TESE AUTORAL. AUSÊNCIA DO DEVER DE COBERTURA. SINISTRO QUE NÃO INTEGRA O RISCO SEGURADO PELO CONTRATO. SENTENÇA QUE MERECE MANUTENÇÃO. PRETENSÃO DE MODIFICAÇÃO DA ALÍQUOTA E BASE DE CÁLCULO DOS HONORÁRIOS PREJUDICADA. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos declaratórios opostos foram rejeitados (fls. 813-816, e-STJ).
+Nas razões do recurso especial (fls. 822-836, e-STJ), a parte insurgente apontou violação aos seguintes artigos: a) 489, § 1º, VI e 1022, II, do CPC, ao argumento da existência de omissão acerca da da não aplicação do precedente invocado; b) 47 do CDC, alegando o cabimento da indenização securitária em decorrência de infecção pós cirúrgica que causou invalidez permanente.
+Contrarrazões às fls. 851-865, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 866-867, e-STJ), dando ensejo na interposição do presente agravo (fls. 870-878, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 882-890, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Inicialmente, pontua-se que, consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Salienta-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que, em sua decisão, discorra sobre todas as questões fundamentais para a correta solução da controvérsia.
+No caso em tela, verifica-se que o Tribunal de origem, de modo expresso e fundamentado, consignou que "do exame do teor do referido recurso especial, em que pese tenha seu mérito apreciado pelo STJ, é certo que tal julgamento não ostenta natureza obrigatória, mas, persuasiva, por não ter sido submetido a uma das hipóteses do art. 927 do CPC". Concluiu, ainda, que o estado de incapacidade do insurgente decorre de evento anterior à contratação securitária, de modo que não é cabível a indenização (fl. 784, STJ).
+Nota-se, portanto, que as alegações vertidas pela insurgente não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação ao acolhimento da tese jurídica defendida pela parte adversa.
+Assim, não há se falar em violação aos artigos 1022 e 489 do CPC/2015, uma vez que a Corte local, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE ACORDO JUDICIAL INADIMPLIDO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 20, §§ 3º E 4º, DO CPC/1973. CRITÉRIO DE EQUIDADE. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+2. Em seguida, alega vulneração ao artigo 47 do CDC, alegando o cabimento da indenização securitária em decorrência de infecção pós cirúrgica que teria causado invalidez permanente.
+Sustenta, em síntese, que "em se tratando de contrato de adesão e havendo ambiguidade ou dúvida na interpretação de cláusula contratual, deveria ter sido adotada interpretação mais favorável ao consumidor, no caso o segurado, conforme arguido no recurso de apelação Isto é, no caso em comento, conforme sustentado, inexistiu previsão contratual relativa à eventual excludente de cobertura em caso de desenvolvimento de infecção pós-cirúrgica em membro lesionado preteritamente como ocorreu com o autor" (fl. 831, e-STJ).
+Acerca da controvérsia, o Tribunal local assim decidiu (fls. 785-786, e-STJ):
+A questão devolvida à esta corte, por meio do presente recurso, se restringe a saber se, a incapacidade da parte ora apelante decorre de evento ocorrido antes ou depois da contratação do seguro e se faria jus a indenização prevista na cobertura securitária, no valor histórico de R$ 514.228,44.
+Segundo a versão do apelante, originalmente, teria lesionado seu ombro direito em 10/08/2015, mas, após devido tratamento, não teve sua capacidade laborativa afetada. Posteriormente, narrou que realizou novo procedimento cirúrgico no ombro, em 29/01/2018, do qual decorreu processo infeccioso que levou ao seu estado atual de incapacidade.
+A seguradora, por sua vez, defende que o estado de incapacidade da parte apelante perdura desde o ano de 2015, conforme teria descrito na solicitação administrativa do seguro. Sendo assim, como a contratação securitária ocorreu apenas em 2017, tal incapacidade não seria coberta pelo contrato.
+Com razão a seguradora.
+Depreende-se dos autos que, em 10/08/2015 o apelante sofreu uma queda enquanto cavalgava, quando lesionou seu ombro direito. Com isso, segundo aduz, teria realizado diversos tratamentos, com a finalidade de recuperar a plena capacidade e mobilidade do membro afetado pela queda.
+No entanto, embora tenha o apelante defendido que houve a completa recuperação do membro lesionado e que o fundamento do pedido securitário seja o quadro infecioso decorrente de procedimento cirúrgico, após o detido exame das provas produzidas, verifica-se que ao estado de incapacidade perdura desde o primeiro acidente.
+ ..
+A prova pericial ainda indica, por um lado, que: "houveram complicações infecciosas e necessidade de intervenções cirúrgicas no ano de 2017 e 2018". Por outro, concluiu que: "as sequelas em ombro direito guardam nexo causal com a fratura sofrida em 2015" (mov. 139.1, fl. 22, conclusões).
+Aliás, em consulta ao sistema Projudi, verifica-se que em outra ocasião o ora apelante havia demandado contra outra empresa seguradora, pretendendo o recebimento de prêmio por incapacidade, consoante se infere dos autos n. º0019441-79.2019.8.16.0001. Naquela oportunidade, após ampla dilação probatória, reconheceu o juízo em sentença que:
+"Veja-se que o prontuário médico trazido pelo autor (mov. 1.13) assenta que o acidente se deu em meados de agosto de 2015, sendo oportuno relatar que eventuais desdobramentos deste fato gerador não podem ser considerados isoladamente como acidentes pessoais para fins de seguro.
+Vale dizer: o fato de o requerente ter sido submetido a cirurgia de retirada da prótese em 2018 por conta do acidente em 2015 é um mero desdobramento do infortúnio, não um acontecimento que gere o dever de indenização" (mov. 124.1).
+Diante das provas produzidas, é certo que o estado de incapacidade do ora apelante perdura desde 2015,de modo que, apesar da realização de posteriores tratamentos, não houve a recuperação do membro afetado.
+Sendo assim, como os períodos de coberturas dos seguros se iniciaram em 05/06/2017 e 26/07/2017(mov. 27.4, fl. 11), é legítima a recusa do pagamento, nos termos do art. 757 do CC e da súmula 609 do STJ, tendo em vista que o sinistro não integrava o risco segurado pelo contrato.
+Sobre o tema acima, o órgão julgador, amparado nas peculiaridades do caso concreto e nas provas acostadas aos autos, concluiu que o evento causador da invalidez da parte insurgente é anterior à contratação, razão pela qual não é cabível a indenização pretendida.
+Para alterar tais conclusões, na forma como posta nas razões do apelo extremo, seria necessário o revolvimento de aspectos fáticos e provas dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.SEGURO DE VIDA E DE INVALIDEZ. INCAPACIDADE ANTERIOR À CONTRATAÇÃO DO SEGURO. INEXISTÊNCIA DE AFRONTA AO ART. 535 DO CPC. OMISSÃO NÃO VERIFICADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem examinou as provas dos autos, concluindo que a prova documental acostada demonstra que a invalidez do recorrente é anterior à contratação do seguro. Alterar esse entendimento é inviável em recurso especial.4. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 491.010/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/11/2014, DJe 01/12/2014)
+No mesmo sentido, os seguintes julgados: AREsp n. 1.110.736, Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), DJe de 22/11/2017; AREsp n. 664.720, Ministro Raul Araújo, DJe de 01/02/2017.
+Desta forma, para alterar o entendimento do Tribunal local, na forma como posta, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme previsto na Súmula 7/STJ.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
