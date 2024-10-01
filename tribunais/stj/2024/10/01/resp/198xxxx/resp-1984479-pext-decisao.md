@@ -1,0 +1,20 @@
+DECISÃO
+Por meio da Petição n. 00856833/2024 (fls. 1.335/1.337), Gisele da Silva Vicente Firmino aponta a identidade da situação fático-processual, requerendo seja reconhecido o pedido de extensão na forma do Art. 580 do CPP entre a requerente e os r ecorrentes do presente Recurso Especial que absolveu os recorrentes, com fundamento no art. 386, inciso II, do Código de Processo Penal, em observância ao princípio da isonomia (fl. 1.336).
+É o relatório.
+Com efeito, comprovada que a situação fático-processual da requerente Gisele da Silva Vicente Firmino é idêntica aos dos recorrentes, notadamente no sentido da ausência de justa causa para o ingresso dos policiais no domicílio, impõe-se, com suporte no art. 580 do Código de Processo Penal, a extensão dos efeitos da decisão de fls. 1.320/1.328.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA E REGIME INICIAL. MINORANTE DO TRÁFICO PRIVILEGIADO (ART. 33, § 4º, DA LEI N. 11.343/2006). FUNDAMENTAÇÃO UTILIZADA PARA AFASTAR O PRIVILÉGIO BASEADA EM ILAÇÕES VAGAS. INCIDÊNCIA DA MINORANTE RECONHECIDA. IMPOSIÇÃO DE REGIME INICIAL FECHADO COM BASE NA LEI DOS CRIMES HEDIONDOS. IMPOSSIBILIDADE. DECLARAÇÃO DE INCONSTITUCIONALIDADE DA IMPOSIÇÃO AUTOMÁTICA DO ART. 2º, § 1º, DA LEI N. 8.072/1990. EXISTÊNCIA DE CORRÉU EM SITUAÇÃO FÁTICO-PROCESSUAL IDÊNTICA (ART. 580 DO CPP). EXTENSÃO DOS EFEITOS. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. MANUTENÇÃO DA DECISÃO IMPUGNADA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática em que, diante da flagrante coação ilegal à liberdade de locomoção, concedeu liminarmente a ordem para aplicar a minorante do tráfico privilegiado e regime mais brando de cumprimento de pena.
+2. Nos termos da jurisprudência desta Corte, a quantidade e/ou a natureza da droga podem justificar a não aplicação da minorante prevista no art. 4º do art. 33 da Lei 11.343/2006, quando evidenciada a dedicação à atividade criminosa (AgRg no REsp n. 1924209/MG, Ministro Félix Fischer, Quinta Turma, DJe 26/4/2021).
+3. No caso, conforme consignado na decisão combatida, a Corte a quo, ao afastar a minorante, deixou de apontar argumento suficiente a indicar que os agentes pertenciam à organização criminosa ou mesmo que demonstrassem a sua dedicação habitual à traficância, inclusive afirmando que a quantidade de droga encontrada não era exagerada.
+4. Agravo regimental improvido.
+(AgRg no HC n. 668.599/SP, de minha relatoria, Sexta Turma, DJe 18/6/2021 - grifo nosso).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FRAUDE EM LICITAÇÃO. PENA REDUZIDA A 2 ANOS DE DETENÇÃO, PELA DECISÃO AGRAVADA, SEM RECURSO DO MPF. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. CONDUTA DELITIVA PRATICADA EM 2007. RECEBIMENTO DA DENÚNCIA EM 2013, QUANDO JÁ CONSUMADO O PRAZO PRESCRICIONAL DE 4 ANOS. AGRAVO REGIMENTAL PROVIDO, PARA DECLARAR EXTINTA A PUNIBILIDADE DO AGRAVANTE, PELA PRESCRIÇÃO. EXTENSÃO DOS EFEITOS AO CORRÉU NA MESMA SITUAÇÃO.
+1. O MPF tomou ciência da decisão agravada, que reduziu a pena do réu a 2 anos de detenção e 10 dias-multa, em 17/5/2021 (e-STJ, fls. 3.032-3.035), não tendo interposto qualquer recurso. Por isso, uma vez ocorrido o trânsito em julgado para a acusação, o prazo prescricional passa a ser regido pela pena aplicada em concreto, a qual prescreve em 4 anos, nos termos dos arts. 109, V, e 110, § 1º, do CP.
+2. A conduta delitiva foi praticada em 26/1/2007 (e-STJ, fl. 28), de modo que não se aplica ao caso a alteração introduzida pela Lei 12.234/2010.
+3. O recebimento da denúncia somente ocorreu em 20/9/2013 (e-STJ, fls. 71-76), quando já consumado o prazo prescricional de 4 anos.
+4. Agravo regimental provido, para declarar extinta a punibilidade de JOSÉ GILSON LEITE PINTO. Extensão de efeitos ao corréu REINALDO DE ARAÚJO FALCÃO, com espeque no art. 580 do CPP.
+(AgRg no REsp n. 1834390/RN, Ministro Ribeiro Dantas, Quinta Turma, DJe 11/6/2021 - grifo nosso).
+Ante o exposto, defiro o pedido de extensão de efeitos para absolver a requerente diante do reconhecimento da nulidade das provas obtidas na busca ilícita.
+Publique-se.
+EMENTA
