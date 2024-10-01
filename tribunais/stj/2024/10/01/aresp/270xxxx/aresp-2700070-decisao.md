@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ADEMAR MARTINI e OUTROS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO. PROPRIEDADE INDUSTRIAL E INTELECTUAL. REPETIÇÃO DE INDÉBITO. ROYALTIES. INVERTER OS ÔNUS DA PROVA E ORDENAR A EXIBIÇÃO DE DOCUMENTOS RETROATIVOS. DESCABIMENTO DA MEDIDA. PRODUTOR RURAL NÃO PODE SER CONSIDERADO DESTINATÁRIO FINAL NO CASO EM TELA. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. APLICABILIDADE DO ART. 373, I. DO CPC. DEFERIMENTO DO PEDIDO DE SUSPENSÃO DO FEITO NO PRIMEIRO GRAU. DESCABIMENTO DA INTERPOSICÃO DO AGRAVO DE INSTRUMENTO CONTRA A DECISÃO. INTELIGÊNCIA DO ART. 1.015 DO CÓDIGO DE PROCESSO CIVIL. QUESTÃO QUE NÃO COMPORTA INTERPRETAÇÃO ANALÓGICA OU MITIGADA (TEMA 988). AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz violação ao art. 373, § 1º do CPC, no que concerne à necessidade de redistribuição do encargo probatório, tendo em vista a dificuldade dos recorrentes em cumprir tal encargo e a menor onerosidade da realização da prova pelo recorrido, trazendo a seguinte argumentação:
+Postulado pela parte Recorrente a mútua instrução probatória, com fundamento no citado art. 373, §1º do CPC, buscando equalizar a persecução processual, para que o Recorrido demonstre nos autos o quantum dos valores recebidos, em consonância a jurisprudência sobre a matéria, em decisões já corroboradas pelo STJ:
+ ..
+Tal previsão processual amolda-se perfeitamente ao presente caso, verificando-se menos oneroso a realização da prova pelo Recorrido, na medida que basta consulta aos seus registros contábeis para discriminação dos valores recebidos pelos Recorridos.
+ ..
+Na medida que o Recorrido assumiu o risco de atuar no mercado contrário à legislação, em franca violação a disposições da Lei da Propriedade Industrial, passou a assumir responsabilidade sobre a correção das cobranças realizadas.
+Por outro lado, a lei trouxe à baila formas de equalização da relação processual, verificando-se incidente na presente relação descrita, na medida que o Recorrido é empresa de porte multinacional, bastando mera consulta a seus registros.
+Ao contrário, a parte é composta por pessoas físicas, que laboram a terra, os quais já demonstraram nos autos o direito violado, havendo necessárias diligências junto a locais de entrega, muitos destes já inexistentes, com mudanças de proprietário ou mesmo deslocados para outras áreas.
+A legislação processual coaduna para que a extensão do dano seja dirimida por ambas partes, em vistas do dever de cooperação, esculpido no §1º do art. 373 do CPC, vez que o direito em si encontra-se pleno.
+Há, neste sentido, clara demonstração do desequilíbrio jurídico, o qual se busca equiparação, com a aplicação correta do código processual civil e a devida adequação constitucional, permitindo-se a obtenção da justeza. (fls. 212).
+Torna-se evidente a perfeita incidência do art. 373, §1º do CPC, ao presente feito. Na medida que a relação processual mostra-se desequilibrada, a lei permite a obtenção da igualdade jurídica para fins de busca da perfeita justiça.
+Permite-se, desta forma, a correta aplicação da legislação processual civil e constitucional, equalizando-se a relação processual e admitindo a efetiva instrução probatória nos exatos termos da lei.
+Pondo termo às considerações aduzidas em defesa dos direitos dos Recorrentes e invocando os Doutos complementos do Colendo Superior Tribunal de Justiça, para fins de reforma da decisão publicada, requer a procedência do pedido para aplicação da previsão contida no §1º do art. 373, do CPC, no presente feito, garantindo-se a correta aplicação da legislação processual, bem como da justiça, mantendo-se a ass istência judiciária gratuita conferida aos recorrentes (fls. 206-213).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
