@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial da FAZENDA DO ESTADO DE SÃO PAULO no qual se insurgira contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+Apelação e remessa necessária. Tributário. Anulatória de auto de infração e imposição de multa. Erro de lançamento fiscal. Existência de saldo credor de ICMS superior aos apurados. Perícia contábil que confirmou as alegações. Honorários: valor fixado de acordo com o Tema 1076 do STJ. Sentença de procedência mantida por seus próprios fundamentos. Recurso desprovido (fl. 1.440).
+Foram interpostos dois embargos de declaração contra o mesmo acórdão, que foram rejeitados.
+Em suas razões recursais, o Estado agravante sustenta que houve duplicidade de embargos de declaração em razão de duplicidade de intimação, motivo pelo qual não houve manifesto caráter protelatório, devendo ser afastada a multa prevista no art. 1.026, § 2º do CPC.
+No juízo de admissibilidade, o Tribunal de origem consignou que rever a posição da turma julgadora importaria em ofensa à Súmula 7/STJ.
+É o relatório.
+A irresignação não merece prosperar.
+Quanto à tese de violação do art. 1.026, § 2º, do CPC, o Tribunal de origem entendeu por aplicar a multa de 1% por caráter protelatório, tendo em vista ter havido oposição de segundos embargos declaratórios, apresentados contra o mesmo acórdão, com o mesmo pedido de redução dos honorários advocatícios a que foi condenada a Fazenda Estadual.
+No entanto, o entendimento do STJ é o de que a mera rejeição dos embargos declaratórios não é suficiente para a aplicação da multa prevista no art. 1.026, § 2º, do CPC, que se justifica quando é observada a intenção de retardar injustificadamente o andamento normal do processo, em prejuízo da parte contrária e do Poder Judiciário. É necessária a configuração da manifesta improcedência do recurso a autorizar sua aplicação, o que não ocorreu no presente caso. A propósito, confiram-se os seguintes julgados desta Corte Superior, naquilo que interessa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. DECISÃO INTERLOCUTÓRIA QUE DEFERE PRODUÇÃO DE PROVA PERICIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. MULTA DO ART. 1.026, § 2º, DO CPC/2015. NÃO CABIMENTO. SÚMULA 98/STJ. NATUREZA JURÍDICA DA LISTA DO ART. 1.015 DO CPC/2015. MITIGAÇÃO DA TAXATIVIDADE DO ROL DO ART. 1.015 DO CPC/2015. TEMA 988/STJ. RESP 1.696.396/MT E RESP 1.704.520/MT. MODULAÇÃO DOS EFEITOS DA DECISÃO. APLICAÇÃO DA TESE PARA AS DECISÕES INTERLOCUTÓRIAS PROFERIDAS APÓS A PUBLICAÇÃO DO ACÓRDÃO PARADIGMA. DECISÃO INTERLOCUTÓRIA PROLATADA EM MOMENTO ANTERIOR. NÃO INCIDÊNCIA DA TESE. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+ ..
+V. Nos termos da Súmula 98/STJ, "embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório". Assim, a simples oposição dos Embargos de Declaração pela parte agravante, por si só, não justifica a imposição da multa prevista no art. 1.026, § 2º, do CPC, motivo pelo qual o Recurso Especial merece ser provido, no ponto. ..
+VIII. Agravo interno parcialmente provido, para conhecer do Recurso Especial e dar-lhe parcial provimento, apenas para afastar a condenação da parte agravante ao pagamento da multa, prevista no art. 1.026, § 3º, do CPC/2015.
+(AgInt no REsp n. 1.686.924/MG, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 15/3/2021, DJe de 19/3/2021.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PRESCRIÇÃO. OCORRÊNCIA. NÃO APLICAÇÃO DO ENTENDIMENTO CONSOLIDADO NO JULGAMENTO DE RECURSO REPRESENTATIVO DA CONTROVÉRSIA. RESP 1.336.026/PE. TEMA 880. MODULAÇÃO DOS EFEITOS. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO. OMISSÕES E CONTRADIÇÃO. INEXISTÊNCIA.
+ ..
+IV - Em regra, descabe a imposição da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015 em razão do mero improvimento dos Embargos de Declaração, sendo necessária a configuração da manifesta improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Embargos de declaração rejeitados.
+(EDcl no AgRg no AgRg no REsp n. 1.301.935/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/11/2019, DJe de 29/11/2019.)
+Concluo, assim, que os embargos de declaração opostos não se revestiram de caráter protelatório, sendo o caso de afastar a multa aplicada na origem.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para excluir a multa do art. 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
