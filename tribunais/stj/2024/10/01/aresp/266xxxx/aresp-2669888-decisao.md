@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pela FAZENDA NACIONAL impugnando decisão que inadmitiu recurso especial, interposto contra acórdão, assim ementado (fl. 536):
+AGRAVOS INTERNOS. TRIBUTÁRIO. EXCLUSÃO DO ICMS-ST DA BASE DE CÁLCULO DO PIS/COFINS DEVIDO PELO SUBSTITUÍDO. ICMS FATURADO. INTELECÇÃO DA DECISÃO PROFERIDA PELO STF NO RE 574.706. EXCLUSÃO DA BASE DE CÁLCULO DO PIS/COFINS DEVIDO POR OUTREM (TRIBUTAÇÃO MONOFÁSICA EM ETAPA ANTERIOR DA CADEIA PRODUTIVA). AUSÊNCIA DE LEGITIMIDADE PROCESSUAL. RECURSOS IMPROVIDOS.
+A agravante pugna pela observância do reexame de matéria repetitiva pela origem, em razão da afetação da matéria no /tema Repetitivo 1.125/STJ.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Confere-se que a matéria de fundo debatida nos autos diz respeito ao Tema Repetitivo n. 1.125STJ, em que se trata da possibilidade de exclusão do valor correspondente ao ICMS-ST da base de cálculo da contribuição ao PIS e à COFINS devidas pelo contribuinte substituído.
+Com efeito, pela sistemática do julgamento dos recursos repetitivos disposta nos arts. 1.036 a 1.041 do CPC/2015, reconhecida a repercussão geral pelo Supremo Tribunal Federal, ou afetado o recurso especial para julgamento como repetitivo pelo Superior Tribunal de Justiça, o processo ficará suspenso até o julgamento do tema, quando então o tribunal a quo exercerá o juízo de conformidade entre o acórdão por ele proferido e a tese firmada pelo STF ou STJ.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial poderá ser encaminhado para esta Corte Superior, para análise de questões eventualmente remanescentes.
+Ante o exposto, julgo prejudicado o recurso especial da ora recorrente neste momento processual, e determino a devolução dos autos ao Tribunal de origem, nos termos do art. 256-L, II, do RISTJ, para que seja realizado o juízo de adequação quanto ao Tema n. 1.237/STJ, e em observância aos arts. 1.030 e 1.040 do CPC: a) negue seguimento ao recurso especial se o acórdão recorrido estiver em conformidade com o entendimento do STJ; b) encaminhe os autos ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do STJ.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ICMS-ST. PIS. COFINS. TEMA REPETITIVO 1.125/STJ. JUÍZO DE CONFORMIDADE. DEVOLUÇÃO DOS AUTOS À ORIGEM. RECURSO ESPECIAL PREJUDICADO.
