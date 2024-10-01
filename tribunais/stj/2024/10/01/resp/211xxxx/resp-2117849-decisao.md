@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se recurso especial interposto por FRANCISCO DE PAULA TEIXEIRA, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/MG.
+Recurso especial interposto em: 31/08/2023.
+Concluso ao gabinete em: 09/02/2024.
+Ação: de cobrança, ajuizada por COOPERATIVA DE CRÉDITO DO ALTO PARANAÍBA E REGIÃO LTDA.
+Sentença: julgou procedente o pedido inicial para condenar o recorrente ao pagamento de R$2.713,77, já atualizado até 08/12/2021, corrigido monetariamente pelos índices da Corregedoria Geral de Justiça do Estado de Minas Gerais, desde a data de vencimento, acrescidos de juros de 1% ao mês a partir citação. No tocante à sucumbência, condenou o recorrente ao pagamento das custas processuais e honorários advocatícios fixados em 10% do valor da condenação, suspendendo a exigibilidade pois concedida a gratuidade judiciária (fls. 100-103, e-STJ).
+Acórdão: negou provimento ao recurso de apelação interposto pelo recorrido, nos termos da seguinte ementa:
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - PRELIMINAR - EFEITO SUSPENSIVO À APELAÇÃO - ÍNDICE DE CORREÇÃO APLICÁVEL SOBRE O VALOR DEVIDO - TAXA SELIC - IMPOSSIBILIDADE. - Em atenção ao art. 375-A do Regimento Interno deste Tribunal de Justiça, o requerimento de efeito suspensivo deve ser formulado mediante petição simples dirigida ao tribunal, no período compreendido entre a interposição da Apelação e sua distribuição; e ao relator, caso já distribuída a Apelação, instruída com os documentos aptos a demonstrar o preenchimento dos requisitos dispostos no § 4º do art. 1.012 do Código de Processo Civil. - A taxa de correção em vigor para o cálculo dos juros moratórios previstos no art. 406, do Código Civil, é de 1% (um por cento) ao mês, nos termos do que dispõe o art. 161, §1º, do Código Tributário Nacional, não havendo que se falar em aplicação da taxa SELIC (fls. 178-185, e-STJ).
+Recurso especial: violação ao art. 406 do CC, bem como dissídio jurisprudencial (fls. 189-206, e-STJ).
+Juízo prévio de admissibilidade: o TJ/MG admitiu o recurso, assinalando que a orientação mais recente do Superior Tribunal de Justiça coaduna-se às razões de inconformismo e, ainda, que foram cumprido os requisitos legais exigidos (fls. 218-220, e-STJ).
+RELATADO O PROCESSO, DECIDE-SE.
+- Dos juros moratórios
+A Corte Especial, no recente julgamento do REsp 1.795.982/SP, em 21/8/2024, reafirmou a jurisprudência do STJ, consolidada no sentido de que a taxa de juros moratórios a que se refere o art. 406 do Código Civil é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC. Nesse sentido, a propósito: EREsp 727.842/SP, Corte Especial, DJe 20/11/2008 e REsp 1.111.117/PR, Corte Especial, DJe 2/9/2010.
+Inclusive, as duas Turmas que compõem a Seção de Direito Privado convergem acerca da aplicação da taxa SELIC às condenações posteriores à entrada em vigor no CC/02, que não pode ser cumulada com a aplicação de outros índices de atualização monetária, confira-se: AgInt nos EDcl no REsp 2.133.359/RS, 3ª Turma, DJe de 28/8/2024; AgInt no REsp 2.070.287/SP, 3ª Turma, DJe de 15/5/2024; AgInt no AREsp 2.009.253/RS, 4ª Turma, DJe de 2/5/2024; REsp 2.117.094/SP, 3ª Turma, DJe de 11/3/2024; e AgInt no AREsp 1.491.298/ES, 4ª Turma, DJe de 11/3/2024; EDcl no AgInt nos EDcl nos EDcl no REsp 1.645.236/RJ, 4ª Turma, DJe de 28/9/2023.
+Logo, encontrando-se o entendimento da Corte de origem em divergência com a jurisprudência deste Tribunal, o recurso deve ser provido, com fundamento na Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, apenas para determinar a utilização da taxa do Sistema Especial de Liquidação e Custódia - SELIC como referencial dos juros moratórios, vedada a cumulação com outros índices de atualização monetária, mantendo-se os ônus sucumbenciais fixados.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. JUROS DE MORA. ART. 406 DO CC. TAXA SELIC. SÚMULA 568/STJ.
+1. Ação de cobrança.
+2. A Corte Especial, recentemente, reafirmou a jurisprudência do STJ, consolidada no sentido de que a taxa de juros moratórios a que se refere o art. 406 do Código Civil é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, que não pode ser cumulada com a aplicação de outros índices de atualização monetária. Precedentes.
+3. Recurso especial conhecido e provido.
