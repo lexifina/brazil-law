@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ELIAS DE SOUZA SANTOS, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná (HC n. 0056537-58.2024.8.16.0000).
+Consta dos autos que o paciente foi preso em flagrante no dia 03/05/2024, durante o cumprimento de mandado de busca e apreensão, pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico (arts. 33 e 35 da Lei n. 11.343/2006). A prisão em flagrante foi convertida em preventiva.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Neste writ, a Defesa sustenta a ilegalidade da prisão preventiva, alegando ausência de fundamentação idônea nas decisões que decretaram e mantiveram a custódia cautelar.
+Aduz que o paciente é primário, possui bons antecedentes, residência fixa, trabalho lícito e é pai de uma criança que está no espectro autista.
+Requer, em liminar e no mérito, a revogação da prisão preventiva do acusado, ainda que mediante a aplicação de medidas cautelares diversas.
+O pedido liminar foi indeferido às fls. 77-79.
+As informações foram prestadas à fls. 84-86.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus e pela concessão da ordem de ofício (fls. 88-91).
+É o relatório.
+DECIDO.
+No caso, o Juízo de primeiro grau decretou a prisão preventiva do ora paciente, conforme a fundamentação a seguir (fls. 27-32; grifamos):
+3.2. De outra parte, os elementos constantes nos autos não permitem a extensão do benefício ao flagranteado Elias.
+Em relação a este flagranteado estão presentes os requisitos da medida preventiva, na medida em que, em sede de interrogatório perante a autoridade policial (mov. 1.13) informou ser usuário de drogas ilícitas e a própria natureza do delito atenta conta a ordem pública e a paz social. Ainda, a abordagem policial que logrou êxito em encontrar a droga, decorreu de um mandado de busca e apreensão justificado pelas reiteradas informações de que ambos comercializavam droga naquela residência, com união de esforços e distribuição ordenada de tarefas. Ou seja, há outros indícios da efetiva prática do ilícito penal de forma rotineira e reiterada.
+ ..
+Tal como no paradigma utilizado, ressalta-se que o flagranteado foi autuado em flagrante após investigação preliminar da autoridade policial competente, na forma acima declinada, em cumprimento do mandado de busca e apreensão expedido nos autos de cautelar inominada criminal nº 0000939-06.2024.8.16.0167, onde encontraram-se os seguintes ilícitos: a) oito cartões bancários diversos, sendo um do banco inter em nome de Sheila Nascimento, um cartão pag seguro uol em nome de Sheila F. Nascimento, um cartão banco pan em nome de Nicollas, um cartão Sicredi em nome de Elias, três cartões da CEF em nome de Elias e um cartão mercado pago sem titular identificado; b) R$ 510,00 (quinhentos e dez reais) em notas de valores diversos; c) aproximadamente 3,7g de substância com aspecto de crack e aproximadamente 6,5g de cocaína.
+Assim, embora nesta fase procedimental ainda não seja possível aferir-se a culpabilidade do agente, o que se dará após a devida instrução criminal com segurança de ampla defesa e contraditório pleno, para este estágio, estão presentes indícios suficientes de autoria e materialidade que, pelas condições presentes, conforme acima declinado, recomendam o aprisionamento cautelar do agente.
+3.2.1. Assim, pois, acolhendo a manifestação do órgão ministerial, com esteio no disposto no art. 302, IV, c/c 312, ambos, do CPP, homologo o auto de prisão em flagrante e decreto a prisão preventiva de ELIAS DE SOUZA SANTOS, devidamente qualificado nos autos.
+O Tribunal de origem, por sua vez, consignou o seguinte (fls. 14-20; grifamos):
+Extrai-se dos autos que o paciente e sua esposa, Sheila Francielle do Nascimento também investigada nos autos de origem, foram presos em flagrante no dia por suposta 03/05/2024 prática dos crimes de tráfico e associação para o tráfico de drogas, previstos nos artigos 33 e 35 da Lei nº 11.343/2006. O ora paciente teve sua prisão em flagrante convertida em preventiva e Sheila obteve o benefício da prisão domiciliar (mov. 28.1 - autos 0000950-35.2024.8.16.0167).
+Segundo consta, o paciente foi preso em flagrante em razão de cumprimento de mandado de busca e apreensão, autorizado pelo Juízo nos autos de medida cautelar nº 0000939-06.2024.8.16.0167, tendo em vista representação da Autoridade Policial. A diligência teve como alvo o endereço do ora paciente (Rua Junzo Naguai 840, Guairaçá/PR), em que sua esposa, Sheila Francielle do Nascimento, seria suspeita de estar envolvida no recebimento e repasse de entorpecentes para "biqueiras". Na oportunidade, os policiais lograram êxito em localizar 3,7 gramas de crack e 6,5 gramas de cocaína, além de R$510,00 em notas diversas e 08 cartões bancários em nome dos flagrados.
+ ..
+Afigura-se imprescindível, assim, que os requisitos autorizadores elencados no artigo 312 do Código de Processo Penal sejam demonstrados com base em elementos concretos.
+ ..
+O paciente, ouvido perante a autoridade policial, alegou se tratar de usuário de drogas e que sua esposa não é usuária (mov. 1.13). Por sua vez, a esposa, também presa em flagrante, afirmou não ter conhecimento a respeito da droga apreendida (mov. 1.16).
+ ..
+Assim, o contexto está a indicar a comercialização de drogas pelo paciente, o que evidencia o risco gerado pela sua colocação em liberdade, não sendo, portanto, suficiente qualquer medida cautelar diversa para impedir a reiteração delitiva, até mesmo porque, embora a impetrante afirme que o paciente possui ocupação lícita, tal condição não o impede de exercer, também, o comércio de entorpecentes, com habitualidade, o que evidencia o risco de reiteração delitiva.
+Portanto, ao contrário do alegado pela impetrante, não se verifica o constrangimento ilegal do paciente, pois a decisão proferida pelo juízo de origem está devidamente fundamentada e justificada por elementos concretos que revelam a presença dos pressupostos autorizadores da segregação cautelar.
+E, cumpre ressaltar que condições pessoais favoráveis não possuem o condão de, por si sós, conduzi-lo à liberdade se os fundamentos da prisão preventiva são válidos e demonstram a necessidade de sua manutenção.
+Como se vê, a decretação da medida cautelar extrema foi, em princípio, suficientemente fundamentada pelas instâncias ordinárias em virtude da especial gravidade dos fatos. No entanto, considerando a quantidade não exacerbada de droga apreendida - 3,7 gramas de crack e 6,5 gramas de cocaína - e a primariedade do réu, mostra-se possível, segundo a orientação da Sexta Turma deste Tribunal, a substituição da custódia por medidas cautelares diversas.
+Exemplificativamente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA TAL FIM. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS. POSSIBILIDADE. CAUTELAR EXTREMA DESPROPORCIONAL.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, embora não se possa falar que o decreto prisional é desprovido de motivação, pois invoca a quantidade e a forma de acondicionamento das drogas, a primariedade do acusado e a quantidade não exacerbada de entorpecentes apreendidos não se mostra excessiva, circunstâncias que justificam, tão somente, a imposição de medidas cautelares alternativas, revelando-se a prisão, in casu, medida desproporcional.
+3. Agravo regimental improvido.
+(AgRg no HC n. 879.961/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DESPROPORCIONALIDADE. POSSIBILIDADE DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. AGRAVO IMPROVIDO.
+1. Tratando-se de réu tecnicamente primário, não sendo relevante a quantidade de entorpecente apreendido, em se considerando que o crime de tráfico de drogas não envolve violência ou grave ameaça à pessoa, tem-se por suficiente a substituição da custódia por medidas cautelares diversas.
+3. Agravo regimental improvido.
+(AgRg no HC n. 821.552/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; grifamos).
+Ante o exposto, concedo a ordem de habeas corpus para substituir a prisão preventiva do paciente, se por algum outro motivo não estiver preso, pelas medidas cautelares descritas nos incisos I (comparecimento periódico em Juízo, no prazo e nas condições fixadas pelo Juiz, para informar e justificar atividades) e IV (proibição de se ausentar da Comarca quando a permanência for conveniente ou necessária para a investigação ou instrução) do art. 319 do Código de Processo Penal.
+Ficará a cargo do Juízo de primeira instância especificar as condições e fiscalizar o cumprimento das medidas impostas, o qual poderá acrescer outras cautelares necessárias, desde que de vidamente justificadas.
+Alerte-se ao paciente que a prisão preventiva poderá novamente ser decretada em caso de descumprimento das referidas medidas (art. 282, § 4º, c/c o art. 316, do Código de Processo Penal) ou de superveniência de fatos novos.
+Comunique-se ao Tribunal de origem e ao Juízo de primeiro grau.
+Publique-se e intimem-se.
+EMENTA
