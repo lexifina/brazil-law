@@ -1,0 +1,41 @@
+DECISÃO
+ANDERSON NICOLETTI DA SILVA alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná na Apelação n. 0020068-25.2011.8.16.0014.
+A defesa pretende a declaração de nulidade do acórdão de apelação, diante do cerceamento do direito à ampla defesa e ao contraditório, uma vez que não foi viabilizada a sua sustentação oral. Assevera que "nunca foi intimado do procedimento para retirada do processo da sessão virtual nem de como proceder à sustentação oral nessa hipótese" (fl. 8).
+Depois de prestadas as informações solicitadas, o Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+Nos termos do art. 563 do CPP, nenhum ato será declaro nulo, se da nulidade não resultar prejuízo.
+No caso, a defesa afirma que teve ciência prévia e inequívoca da data designada para a sessão virtual de julgamento da apelação (publicada no DJe de 8/10/2020), a ser realizada em 9/11/2020. Todavia, questiona a ausência de intimação sobre "orientações complementares" para o requerimento de sustentação oral.
+Consta dos autos, também, que a própria defesa reconhece, quando do seu requerimento junto ao TJPR (em 4/11/2020), que o prazo para cadastramento e solicitação para realizar a sustentação oral havia expirado (fl. 25).
+O Desembargador relator indeferiu o pedido, nos seguintes termos (fl. 39):
+Após pautado o recurso no plenário virtual, vem o nobre causídico representante requerer a sustentação oral;
+3. Nos termos das normativos expedidas e orientações fornecidas por esta Corte, o ".. pedido de retirada do processo da pauta do plenário virtual e de inclusão em uma sessão por videoconferência deve ser realizado em até cinco dias úteis antes do início da sessão virtual (Art. 70-B, II e III, do Regimento Interno do TJPR.
+A inscrição para a realização de sustentação oral ou para acompanhamento deve ser feita no sistema PRORIDI, em firmulário próprio, sendo insuficiente o pedido realizado por petição, conforme o artigo 4 0 , I, da Instrução Normativa 5/2020.
+Sistema PROJUDI > MENU > Sessões 2º Grau > Cadastro Sustentação Oral Sistema PROJUDI > MENU > Sessões 2º Grau > Cadastro Interesse"
+4. Outrossim, deve-se atentar que estando o recurso inserido na pauta de julgamento por videoconferência, ".. a inscrição deve ser realizada em até 24 horas antes do início da sessão, conforme estabelece o art. 4º, I, da Instrução Normativa 5/2020 e art. 221, § 3", do Regimento Interno, ambos desta Corte.
+A inscrição para a realização de sustentação oral ou para acompanhamento deve ser frita no sistema PROJUDI, em formulário próprio, sendo insuficiente o pedido realizado por petição, conforme o artigo 4º, I, da Instrução Normativa 5/2020.
+Em seguida, a Corte estadual refutou a nulidade arguída nos embargos de declaração opostos pela defesa, que foram rejeitados, pelos seguintes fundamentos (fl. 46, grifei):
+Acerca da insurgência a respeito do pedido de sustentação oral, bem aclarou o douto Procurador de Justiça em seu parecer:
+(..) pontue-se que, conquanto realmente a solicitação para sustentação oral em sessão de julgamento não tenha sido apreciada tempestivamente, vê-se que o nobre causídico não fora suficientemente diligente.
+Explica-se. Em 06/10/2020 o Patrono do Embargante foi devidamente intimado acerca da inclusão dos autos para julgamento agendado em 09/11/2020, ou seja, mais de um mês de antecedência; sendo que o Defensor juntou petição solicitando a regularização do cadastro no sistema somente em 04/11/2020.
+Ademais, conforme esclarecido pelo Exmo. Desembargador Relator -após a realização do julgamento: "A inscrição para a realização de sustentação oral ou para acompanhamento deve ser feita no sistema PROJUDI, em formulário próprio, sendo insuficiente o pedido realizado por petição, conforme o artigo 4", I, da Instrução Normativa 5/2020 bem como salientou que, em se tratando de julgamento por videoconferência "(..) a inscrição deve ser realizada em até 24 horas antes do inicio da sessão, conforme estabelece o art. 4", I, da Instrução Normativa 5/2020 e art. 221, § 33.1). do Regimento Interno, ambos desta Corte. (..)" (mov.
+Deste modo, vê-se que era plenamente possível a atuação do causídico no ato solene, bastasse a correta informação e execução acerca do procedimento, não havendo que se falar em omissão do julgado. (grifos no original)
+De início, cumpre consignar que "é possível a cada Tribunal, no exercício de sua competência, delimitar os casos nos quais não será admitida a sustentação oral" (RHC n. 162.846/PR, Rel. Ministro Jesuíno Rissato, 5ª T., DJe 3/5/2022).
+Pela análise criteriosa das informações contidas nos autos, a defesa não fez a inscrição para sustentação nos moldes definidos pelo regimento interno do TJPR, razão pela qual o munus defensivo não foi realizado.
+A observância das disposições normativas estabelecidas pelas instâncias de origem, quanto aos procedimentos administrativos internos, é ônus atribuível apenas à defesa, não havendo que se falar no reconhecimento de nulidade do acórdão da apelação por sua desídia, uma vez que lhe foi oportunizado o direito de participação no julgamento, com inequívoca ciência da data de sua realização.
+Nesse sentido:
+ ..  3. Apesar da prévia intimação da defesa para a sessão de julgamento virtual e da detalhada orientação acerca do procedimento para efetivar a sustentação oral, o advogado não fez a inscrição nos moldes previamente definidos e, além disso, formulou pedido de adiamento da sessão extemporaneamente, dias depois de tomar conhecimento da sua condição de saúde e quando já iniciado o julgamento. Não há falar em nulidade quando a conduta questionada é atribuível exclusivamente à defesa. Precedentes.
+4. Agravo regimental improvido.
+(AgRg no HC n. 719.280/PR, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 21/3/2022, grifei)
+ ..  1. No caso, além de não ter havido debate pelo colegiado de origem acerca da eventual nulidade aqui aduzida, o que atrai a preclusão por ausência de arguição na primeira oportunidade, constata-se, das informações prestadas, que, a despeito da prévia intimação da defesa para a sessão de julgamento virtual e da detalhada orientação acerca do procedimento para efetivar a sustentação oral, a defesa não fez a inscrição nos moldes definidos, razão por que a sustentação oral não foi realizada - exclusivamente por conduta atribuível à defesa -, assim, não se pode falar em nulidade, já que, ciente da necessidade de inscrição prévia para a sustentação oral, a defesa não realizou o procedimento. Precedente.
+ ..
+5. Recurso ordinário desprovido.
+(RHC n. 148.872/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 22/10/2021, destaquei)
+Logo, não constato a ocorrência da nulidade suscitada.
+No mesmo sentir foi o parecer do Ministério Público Federal. Confira-se (fls. 3.514-3.515, grifei):
+Compete ao advogado buscar o conhecimento dessas normas procedimentais, a fim de atuar de acordo com elas, não cabendo, em caso de desconhecimento ou desatendimento dessas normas, alegar cerceamento de defesa.
+No caso, observa-se da petição de fl. 25/26 e-STJ, que o próprio advogado, ora impetrante, reconhece que no momento em que peticionava solicitando a sustentação oral o prazo para cadastramento do pedido já havia expirado.
+Ademais, observa-se que segundo o Regimento Interno vigente à época do julgamento da Apelação n.º 0020068-25.2011.8.16.0014, era necessário, primeiramente, requerer a retirada do processo da pauta do plenário virtual e sua inclusão em sessão por videoconferência no prazo de até cinco dias úteis antes do início da sessão virtual (art. 70-B, II e III), o que não foi feito, e, após, inscrever-se para a realização da sustentação oral, através de formulário específico disponibilizado pelo sistema PROJUDI (art. 4º, I, da Instrução Normativa n.º 5/20 - TJPR).
+E como restou consignado no parecer do Ministério Público, citado no acórdão dos embargos de declaração, a intimação da inclusão do feito para julgamento em sessão virtual ocorreu em 06/10/20, "ou seja, mais de um mês de antecedência; sendo que o Defensor juntou petição solicitando a regularização do cadastro no sistema somente em 04/11/2020", revelando que "não fora suficientemente diligente".
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
