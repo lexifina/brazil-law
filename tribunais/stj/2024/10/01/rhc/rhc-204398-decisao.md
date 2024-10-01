@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por DOUGLAS ADENALDO CESAR contra acórdão do Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n. 2191795-27.2024.8.26.0000).
+Consta da impetração que o recorrente foi definitivamente condenado como incurso no art. 158, § 1º, c/c o art. 14, inciso II, do Código Penal, à pena de 5 anos e 3 meses de reclusão. Irresignada, a defesa impetrou prévio writ, o qual não foi conhecido, nos termos da seguinte ementa (e-STJ fl. 44):
+HABEAS CORPUS - PROCESSO DE CONHECIMENTO TRANSITADO EM JULGADO - Pleito de concessão de liberdade provisória pela prática do suposto cometimento do delito previsto no artigo 14 do Estatuto do Desarmamento - Autos originários que processaram o cometimento do delito previsto no artigo 158, §1º, do Estatuto Repressor - Narrativa fática que não corresponde com a realidade do feito de conhecimento - ORDEM NÃO CONHECIDA.
+No presente recurso, a defesa aduz, em síntese, que o paciente preenche os requisitos do art. 77 do Código Penal, fazendo jus, portanto, ao sursis da pena.
+O Ministério Público Federal se manifestou, às e-STJ fls. 73-74, pelo não conhecimetnod o recurso, nos seguintes termos:
+Recurso em habeas corpus. Extorsão majorada. Suspensão condicional da pena (sursis). Tema não analisado na origem. Conhecimento que implicaria em supressão de instância. Pena, ademais, superior a 5 anos de reclusão. Inaplicabilidade de referido benefício que somente alcança condenações cuja pena não supera a 2 anos de reclusão. Ausência de constrangimento ilegal. PARECER PELO NÃO CONHECIMENTO DO RECURSO ORDINÁRIO.
+É o relatório. Decido.
+A alegação defensiva não foi previamente submetida ao crivo do Tribunal de origem, motivo pelo qual não é possível conhecer do writ, sob pena de indevida supressão de instância. Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC n. 609.741/MG, Relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/9/2020, DJe 29/9/2020).
+No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES. AUSÊNCIA DE FUNDAMENTAÇÃO PARA O RECEBIMENTO DA DENÚNCIA. PROLAÇÃO DE SENTENÇA CONDENATÓRIA QUE PREJUDICA A APRECIAÇÃO DO TEMA. AUSÊNCIA DE APRECIAÇÃO DAS TESES DEFENSIVAS PELA SENTENÇA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO . ENUNCIADO N. 52, DA SÚMULA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As alegadas nulidades decorrentes da sentença condenatória não foram examinadas pelo Tribunal de origem, de modo que inviável a análise inaugural por esta Corte, sob pena de indevida supressão de instância. Outrossim, prolatada a sentença condenatória, fica obstada a análise de eventuais nulidades decorrentes do recebimento da denúncia.
+2. No que se refere ao alegado excesso de prazo para o encerramento da instrução, incide o Enunciado n. 52, da Súmula do STJ, que afirma que "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Nesse contexto, prolatada a sentença condenatória, inviável o reconhecimento do excesso de prazo.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 837.966/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Pelo exposto, não conheço do recurso.
+Publique-se.
+EMENTA
