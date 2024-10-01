@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO OBJETIVO ALCANÇADO. FALTA GRAVE REABILITADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.970.217/MG, sob o rito do recurso especial repetitivo, Rel. para o acórdão Min. Ribeiro Dantas, finalizado em 1º/6/2023 (Tema n. 1.161), fixou a tese de que, "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal".
+2. A gravidade abstrata dos crimes praticados pelo apenado e a longa pena a cumprir não são fundamentos idôneos para afastar o benefício de livramento condicional. De igual forma, faltas graves muito antigas não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação contemporânea do efetivo cumprimento da pena pelo condenado.
+3. Não foi mencionada circunstância pessoal negativa do apenado ou comportamento desabonador durante a execução da pena, a justificar alguma dúvida quanto ao requisito subjetivo do livramento condicional.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO DO RIO GRANDE DO NORTE agrava de decisão na qual neguei provimento ao recurso especial, a fim de preservar o livramento condicional ao apenado.
+Neste regimental, o Parquet reitera que o apenado não preenche os requisitos necessários ao livramento condicional.
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja cassado o benefício prisional.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO OBJETIVO ALCANÇADO. FALTA GRAVE REABILITADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.970.217/MG, sob o rito do recurso especial repetitivo, Rel. para o acórdão Min. Ribeiro Dantas, finalizado em 1º/6/2023 (Tema n. 1.161), fixou a tese de que, "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal".
+2. A gravidade abstrata dos crimes praticados pelo apenado e a longa pena a cumprir não são fundamentos idôneos para afastar o benefício de livramento condicional. De igual forma, faltas graves muito antigas não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação contemporânea do efetivo cumprimento da pena pelo condenado.
+3. Não foi mencionada circunstância pessoal negativa do apenado ou comportamento desabonador durante a execução da pena, a justificar alguma dúvida quanto ao requisito subjetivo do livramento condicional.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+Conforme consignado na decisão impugnada, a Corte de origem deferiu o benefício em comento com base nos termos seguintes (fl. 30, destaquei):
+10. Na hipótese, malgrado satisfeito o requisito objetivo, o juízo executório obstou a concessão com baldrame em 02 (duas) fugas no adimplemento da pena, a redundar numa suposta carência de comportamento satisfatório:
+" ..  em evento 1.1-fl.94 consta informação dando conta da condição de foragido do apenado desde 14/02/2012, o que ensejou a decisão de regressão cautelar de regime proferida à fl. 98 - evento 1.1, vindo a ser preso em flagrante em 28/09/2012, conforme certidão à fl. 104 - evento 1.1. Já à fl. 156- evento 1.1 consta decisão pela progressão de regime para o semiaberto, sendo proferida nova decisão pela regressão de regime para o fechado em razão da condição de foragido do apenado, mais uma vez, desde 07/10/2014(evento 1.1 fl. 169), vindo a ser recapturado somente em 01/04/2017 (evento 11.1).
+11. Todavia, o paradigma suso é inservível, por si só, a alijar o pleito, seja pelo cumprimento do lapso temporal (inocorrência de anotação negativa nos últimos 12 meses), seja por já ter sido punido pelas faltas graves (última fuga em outubro de 2014, com recaptura abril 2017).
+12. Daí, impositiva a anuência do benefício, maiormente porque já exauridas e reabilitadas as transgressões há muito praticadas (mais de 05 anos), como já decidiu o STJ em caso bastante similar:
+A Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.970.217/MG, sob o rito do recurso especial repetitivo, Rel. para o acórdão Min. Ribeiro Dantas, finalizado em 1º/6/2023 (Tema n. 1.161), fixou a tese de que, "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal".
+Com efeito, a preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  ..  e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenado o paciente, bem como a longa pena a cumprir, sem maiores detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação do efetivo cumprimento da pena pelo condenado. Tampouco servem as ponderações feitas sobre as percepções do apenado, especialmente porque não baseadas em elementos concretos sobre seu comportamento, considerado bom.
+Confira-se:
+ ..
+3. A gravidade dos delitos pelos quais o paciente foi condenado (roubo), bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal. Precedentes.
+4. Esta Corte Superior tem se manifestado no sentido de que faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Por aplicação da mesma ratio decidendi, também não devem ser consideradas como motivo bastante para o indeferimento do livramento condicional.
+5. Por fim, a jurisprudência deste Superior Tribunal de Justiça consolidou entendimento no sentido de que não há obrigatoriedade de o(a) apenado(a) passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções novamente analise o pedido de livramento condicional, afastada a fundamentação anteriormente adotada.
+(HC n. 508.784/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/8/2019, destaquei).
+De igual forma, faltas graves muito antigas não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação contemporânea do cumprimento da pena.
+Assim, a infração disciplinar de natureza grave cometida pelo apenado há mais de 5 anos não macula, de per si, o preenchimento do requisito de ordem subjetiva.
+Consoante o entendimento do Superior Tribunal de Justiça,
+ ..
+3. A jurisprudência deste Superior Tribunal de Justiça tem se manifestado no sentido de que a gravidade do delito, as faltas graves antigas, a longa pena a cumprir e a impossibilidade da chamada progressão per saltum de regime prisional não constituem fundamentos idôneos para o indeferimento do benefício do livramento condicional.
+4. O Superior Tribunal de Justiça possui entendimento de que não há obrigatoriedade de o sentenciado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de tal previsão no art. 83 do Código Penal.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar as decisões das instâncias ordinárias e determinar que o Juiz da execução aprecie o pleito do benefício do livramento condicional, nos estritos termos da lei.
+(HC n. 384.838/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 7/4/2017, grifei).
+Assim, reafirmo que não foi mencionada ci rcunstância pessoal negativa do apenado ou algum comportamento desabonador durante a execução da pena, a justificar alguma dúvida quanto ao requisito subjetivo do livramento condicional. Dessa forma, entendo que a benesse foi indeferida pelo Juízo da execução sem a devida fundamentação concreta, a impor ao apenado patente constrangimento ilegal.
+À vista do exposto, nego provimento ao agravo regimental.
