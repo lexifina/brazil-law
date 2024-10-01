@@ -1,0 +1,97 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5013199-12.2023.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: CENTRO DE ESTUDOS DOS BENEFICIOS DOS APOSENTADOS E PENSIONISTAS
+RECORRIDO: VERA LUCIA BRUNELLI DE ALBUQUERQUE
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5013199-12.2023.8.08.0030
+Recorrente: CENTRO DE ESTUDOS DOS BENEFÍCIOS DOS APOSENTADOS E PENSIONISTAS
+Recorrida: VERA LÚCIA BRUNELLI DE ALBUQUERQUE
+Relator: DR. FELIPE LEITÃO GOMES
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. DIREITO DO CONSUMIDOR. (1). TESE AUTORAL.
+TRATA-SE DE AÇÃO AJUIZADA POR VERA LÚCIA BRUNELLI DE ALBUQUERQUE EM FACE DE CENTRO DE ESTUDOS DOS BENEFÍCIOS DOS APOSENTADOS E PENSIONISTAS, ATRAVÉS DA QUAL A AUTORA ALEGA QUE OBSERVOU DESCONTOS INDEVIDOS EM SEU BENEFÍCIO PREVIDENCIÁRIO, DESCONTOS ESTES, DENOMINADOS COMO “273 – CONTRIB. CEBAP”, ARGUMENTANDO QUE NÃO CONTRATOU OS SERVIÇOS DA REQUERIDA, RAZÃO PELA QUAL POSTULA A DECLARAÇÃO DE NULIDADE DO REFERIDO NEGÓCIO JURÍDICO, A RESTITUIÇÃO EM DOBRO DOS VALORES DESCONTADOS E REPARAÇÃO MORAL.
+(2). ANTÍTESE.
+CONTESTAÇÃO APRESENTADA PELA REQUERIDA COM PRELIMINARES DE REQUERIMENTO DE CONCESSÃO E IMPUGNAÇÃO À JUSTIÇA GRATUITA, REQUERENDO A IMPROCEDÊNCIA DA DEMANDA.
+(3). DISPOSITIVO DA SENTENÇA.
+“Ante o exposto,
+JULGO PARCIALMENTE PROCEDENTES
+os pedidos deduzidos na inicial, pelo que:
+DETERMINO
+que sejam cessados os descontos denominados como “273 – CONTRIB. CEBAP” impondo-se a ré a obrigação de cancelar o contrato, objeto da lide e se abster de realizar cobranças e lançamentos no benefício previdenciário da autora, no prazo de até 05 (cinco) dias corridos, sob pena de multa de R$ 1.000,00 (hum mil reais) por desconto realizado, sem prejuízo da restituição em dobro do valor descontado;
+CONDENO
+a requerida, a pagar, para a parte autora, a importância de R$ 10.000,00 (dez mil reais) a título de indenização por danos morais, valor que deverá ser acrescido de juros legais e correção monetária, a partir do arbitramento, aplicando-se a taxa SELIC.
+CONDENO
+a requerida, a restituir, em favor da autora, em dobro, qualquer valor descontado indevidamente relacionado ao contrato, objeto da lide, devendo a parte autora juntar aos autos comprovantes de todos os descontos efetuados, sendo que tais valores deverão ser
+acrescidos de juros legais e correção monetária, a partir de cada desconto, aplicando-se taxa SELIC
+”.
+(4). RECURSO DA PARTE RÉ.
+EM SÍNTESE, REITERA PROPOSTA DE ACORDO. PUGNA PELA IMPROCEDÊNCIA DO PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. SUBSIDIARIAMENTE, ROGA PELA MINORAÇÃO DO
+QUANTUM
+ARBITRADO. AO FINAL, PEDE O PROVIMENTO DO RECURSO INTERPOSTO.
+(5). CONTRARRAZÕES DA PARTE AUTORA.
+ALMEJA A MANUTENÇÃO DO ATO SENTENCIAL OBJURGADO.
+(5). DO MÉRITO.
+EM SUMA, A AÇÃO SE SUSTENTA NA ALEGAÇÃO AUTORAL DE QUE NÃO CONTRATOU OS SERVIÇOS DA ASSOCIAÇÃO E NESSE SENTIDO CABERIA À REQUERIDA COMPROVAR NOS AUTOS A REGULARIDADE DA RELAÇÃO JURÍDICA POR MEIO DE CONTRATO ASSINADO, DOCUMENTOS PESSOAIS DA PARTE AUTORA, GRAVAÇÃO DE LIGAÇÃO DA CONTRATAÇÃO, CONFIRMAÇÃO POSTERIOR POR SMS OU ATÉ PROVA DE UTILIZAÇÃO DOS SERVIÇOS DA ASSOCIAÇÃO, MAS NADA DISSO VEIO AOS AUTOS. DIANTE DE TAIS FATOS, ENTENDO RESTAR COMPROVADA A FRAUDE E COMO CONSEQUÊNCIA A FALHA NA PRESTAÇÃO DE SERVIÇOS PELA REQUERIDA, QUE NÃO TOMOU MEDIDAS PERTINENTES, QUANTO À PATENTE FRAUDE A QUE FOI SUBMETIDA A PARTE AUTORA, ANTE A EXISTÊNCIA DESCONTOS NUNCA SOLICITADO PELA REQUERENTE. NESSE CONTEXTO, A REQUERENTE FORMULA PEDIDO DE RESTITUIÇÃO EM DOBRO DOS VALORES INDEVIDAMENTE DESCONTADOS DE SUA CONTA, CONFORME PREVÊ O ARTIGO 42 DO CDC. CONSIDERANDO A INEXISTÊNCIA DE CONTRATO QUE FUNDAMENTE OS DESCONTOS, CONSTATO QUE HOUVE PATENTE CONDUTA CONTRÁRIA À BOA FÉ POR PARTE DA REQUERIDA A ENSEJAR A RESTITUIÇÃO EM DOBRO. TOCANTEMENTE AOS DANOS MORAIS ESTES RESTARAM CONFIGURADOS PELA ABUSIVIDADE DA CONDUTA DA RÉ, ABSOLUTAMENTE DESRESPEITOSA COM A CONSUMIDORA, ASSUMINDO DE FORMA IMPOSITIVA SUA POSIÇÃO DE SUPERIORIDADE NA RELAÇÃO DE CONSUMO, E COM ISTO CAUSANDO UMA SÉRIE DE ABORRECIMENTOS, GERADORES DE CONSTANTE ANGÚSTIA E APREENSÃO, TUDO ISSO SOMADO A SENSAÇÃO DE ENGODO E LUDIBRIO. CONTUDO, NO QUE TANGE AO
+QUANTUM
+DEVIDO
+
+FIXADO PELO JUÍZO
+A QUO
+(R$ 10.000,00), TENHO QUE MERECE REFORMA. ASSIM, CONSIDERANDO TODO O TRANSTORNO SUPORTADO PELA RECORRIDA, A CONDIÇÃO ECONÔMICA DAS PARTES, A GRAVIDADE DA CULPA E A EXTENSÃO DO DANO, SÃO FATORES QUE JUNTOS SÃO SUFICIENTES PARA REDUZIR A CONDENAÇÃO PARA O IMPORTE DE R$ 5.000,00 (CINCO MIL REAIS). POR FIM, QUANTO À PROPOSTA DE ACORDO REITERADA PELA PARTE RÉ NAS RAZÕES RECURSAIS, COM VISTAS SOMENTE AO PAGAMENTO EM DOBRO DOS VALORES DESCONTADOS JUNTO AO INSS, NÃO PODE SER IMPOSTA À AUTORA, DADA A RECUSA DESTA MANIFESTADA EM SEDE DE RÉPLICA (ID. 8603565 - PÁG. 7).
+(6).
+DIANTE DO EXPOSTO,
+CONHEÇO
+DO RECURSO INOMINADO INTERPOSTO.
+
+E, NO MÉRITO
+DOU-LHE PARCIAL PROVIMENTO
+REFORMANDO A SENTENÇA DO JUÍZO
+A QUO
+, EXCLUSIVAMENTE PARA MINORAR O
+QUANTUM
+A TÍTULO DE DANOS MORAIS PARA R$ 5.000,00 (CINCO MIL REAIS). SEM CONDENAÇÃO EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
