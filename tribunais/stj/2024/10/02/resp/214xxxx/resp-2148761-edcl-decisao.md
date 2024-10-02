@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOAO PAULO PINTO BORELA contra decisão de minha lavra em que conheci do recurso especial do embargante e dei a ele provimento para reconhecer o direito à cumulação da verba honorária deferida pela atuação de defensor dativo com os honorários de sucumbência e determinar o retorno dos autos ao Tribunal de origem a fim de fixar a verba honorária sucumbencial como entender de direito.
+O embargante suscita a existência de omissão na decisão por deixar esta de indicar o critério de fixação dos honorários de sucumbência, aduzindo que as cortes estaduais tem deixado de aplicar os critérios objetivos do art. 85 do CPC/2015.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observo não haver vício de integração a ser sanado.
+Como consignado na decisão embargada, o Tribunal goiano, apesar de ter dado provimento ao agravo de instrumento para fixar honorários de sucumbência em desfavor do exequente na proporção do proveito econômico, deu efeitos infringentes aos embargos para esclarecer que a Administração teria disposto acerca do valor de tal verba no caso de defensores dativos como única forma de remuneração, não cumulativa, daqueles advogados nomeados pelo Juízo, sendo inaplicável a cumulação com os honorários do art. 85 do CPC/2015.
+Na ocasião do julgamento monocrático do recurso especial, anotei que o acórdão recorrido destoa da orientação jurisprudencial desta Corte Superior, segundo a qual os honorários pagos ao defensor dativo assemelham-se aos contratuais, não se confundindo com aqueles devidos em razão da sucumbência em demandas judicias e que, por essa razão, deveria ser reconhecido o direito à cumulação da verba honorária deferida pela atuação de defensor dativo com os honorários de sucumbência, devendo o Tribunal goiano fixar a verba honorária sucumbencial como entender de direito.
+Anoto que cabe as instâncias ordinárias a fixação segundo os critérios que entenderem aplicáveis entre aqueles previstos na legislação e de acordo com os elementos fáticos autorizadores a serem apreciados na origem.
+Ademais, observo que a Corte goiana, quando proferido o acórdão original do julgamento do agravo de instrumento, deu indicação de entender aplicável ao caso concreto os critérios objetivos previstos na norma, ao consignar que os honorários deverão ser fixados nos termos do artigo 85, §§ 3º, 4º e 5º, do CPC/2015 (e-STJ fl. 75).
+Ponderado isso, constato que definição dos critérios para a fixação de honorários de sucumbência é competência das instâncias ordinárias, sendo inviável o exame do tema no âmbito restrito dos embargos de declaração.
+Sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declara ção.
+Publique-se. Intimem-se.
+EMENTA
