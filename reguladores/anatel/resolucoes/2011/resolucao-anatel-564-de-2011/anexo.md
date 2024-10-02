@@ -1,8 +1,0 @@
-ANEXO
-ALTERAÇÃO NO REGULAMENTO DO SERVIÇO MÓVEL PESSOAL - SMP
-Art. 1º No art. 19 do Regulamento do Serviço Móvel Pessoal - SMP, aprovado pela Resolução nº 477, de 7 de agosto de 2007, e alterado pelas Resoluções nº 491, de 12 de fevereiro de 2008, e nº 509, de 14 de agosto de 2008, ficam inseridos os §§ 3º, 4º e 5º nos termos da redação abaixo, renumerando-se o atual § 3º para § 6º, cuja redação passa a vigorar nos termos da redação abaixo:
-"Art. 19. (...)
-§ 3º A prestadora deve, após solicitação dos responsáveis pelos serviços públicos de emergência, encaminhar, respeitadas as limitações tecnológicas, as mensagens de texto de seus Usuários destinadas ao respectivo serviço público de emergência.
-§ 4º Os aspectos técnicos e operacionais relacionados ao envio das mensagens a que se refere o parágrafo anterior serão propostos e revistos periodicamente por Grupo de Trabalho, sob a coordenação da Agência, com participação dos prestadores de SMP e dos responsáveis pelos serviços públicos de emergência que manifestarem interesse, cabendo à Anatel aprovar tais aspectos por meio de ato do Superintendente de Serviços Privados.
-§ 5º Entre os aspectos técnicos e operacionais a que se refere o parágrafo anterior, poderão constar, entre outros, prazos para implementação, topologia de rede, formas de conexão, requisitos mínimos de qualidade da entrega destas mensagens, parâmetros de localização da Estação Móvel do Usuário remetente da respectiva mensagem e granularidade dos locais de entrega destas mensagens, definidos em conjunto com o responsável pelo serviço público de emergência.
-§ 6º Não será devido qualquer tipo de remuneração às prestadoras envolvidas nas chamadas ou nas mensagens destinadas aos serviços públicos de emergência."
