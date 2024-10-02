@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por SALVADOR VIEIRA FLORES contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul , assim ementado (fl. 580, e-STJ):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. CONTRATO DE MÚTUO. FUNDAÇÃO CORSAN. ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR. PRESCRIÇÃO AFASTADA. CARÊNCIA DE AÇÃO NÃO CONFIGURADA. JUROS REMUNERATÓRIOS. LIMITAÇÃO EM 12% AO ANO. TAXA DE ADMINISTRAÇÃO. COMPENSAÇÃO E REPETIÇÃO DE VALORES. SENTENÇA PARCIALMENTE MODIFICADA.
+Prescrição. Aplica-se o prazo decenal às demandas revisionais de empréstimo que envolvam direito pessoal. Ademais, a existência de cadeia negocial exige que o termo inicial do prazo seja a data de vencimento do contrato ou da última parcela. Prescrição não operada em relação aos contratos nºs 0043631-1/2008 e 0042643-1/2008.
+Julgamento imediato da matéria, autorizado pelo disposto no art. 1.013, §4º, do CPC.
+Carência de interesse recursal e capitalização. Em que pese os contratos celebrados entre as partes não possuam cláusula referente à capitalização de juros, o autor sustenta sua realização de forma irregular, havendo interesse processual quanto ao pedido. Outrossim, evidenciada a capitalização mensal pelos demonstrativos analíticos de empréstimo, cabível seu afastamento.
+Juros remuneratórios. Tratando-se a apelada de entidade fechada de previdência privada complementar, o contrato de empréstimo consignado firmado entre as partes não deve ser interpretado como negócio bancário, mas sim como mútuo entre particulares. Assim, necessária a fixação da taxa de juros conforme a Lei de Usura, que limita a cobrança ao percentual de 1% ao mês ou de 12% ao ano.
+Taxa de administração. A taxa de administração deve incidir sobre o valor efetivamente solicitado quando houver previsão contratual. Caso concreto em que a ausência de indicação do valor solicitado não impede a cobrança da taxa, porquanto resta evidenciado que o valor concedido é aquele almejado pela parte.Compensação e repetição de valores. É possível a compensação e/ou repetição simples do indébito quando reconhecida a abusividade nas cobranças, se verificado pagamento a maior, que deverá ser realizada mediante a incidência de correção monetária pelo IGP-M, a contar da data do desembolso de cada parcela, e acréscimo de juros de mora de 1% ao mês, a partir da citação.
+APELO DO RÉU DESPROVIDO. APELO DO AUTOR PROVIDO PARCIALMENTE. UNÂNIME."
+Os embargos de declaração opostos foram rejeitados (e-STJ fls.258)
+Proferido julgamento em juízo de retratação, na forma do art. 1.030 do CPC, o acórdão recorrido foi mantido, nos seguintes termos:
+"JUÍZO DE RETRATAÇÃO. APELAÇÃO CÍVEL. AÇÃO REVISIONAL. HONORÁRIOS SUCUMBENCIAIS. TEMA 1076 DO STJ.
+Uma vez que a ação revisional tem cunho declaratório, não havendo proveito econômico na mesma, sequer condenação em valor, e não sendo alto o valor da causa, é indispensável a fixação da verba honorária por equidade, nos termos do entendimento consolidado do STJ, por meio do Tema 1076.
+Ainda que se pudesse arbitrar honorários em percentual sobre o valor da causa, no caso dos autos, eles alcançariam montante inferior ao fixado no acórdão recorrido, causando prejuízos ao procurador da parte.
+Manutenção dos honorários por equidade ante à situação concreta.
+EM JUÍZO DE RETRATAÇÃO, O ACÓRDÃO RECORRIDO FOI MANTIDO. UNÂNIME." (e-STJ fl. 273)
+Nas razões do recurso especial, o agravante alega violação dos artigos 85, §§ 2º e 8º, 141, 492 e 1.013 do Código de Processo Civil, sustentando, em síntese, que na fixação dos honorários advocatícios deveria ser observado o critério do proveito econômico e que a decisão recorrida é extra/ultra petita, incorrendo em reformatio in pejus, visto que alterou a base de cálculo dos honorários advocatícios fixados em favor da parte autora, reduzindo a verba honorária, sem que houvesse recurso em tal sentido. Invocou dissídio jurisprudencial.
+É o relatório. Decido.
+Em julgamento conjunto, nesta data, foi dado provimento ao recurso especial interposto por FUNDACAO CORSAN DOS FUNCIONARIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO CORSAN para determinar que a Corte de origem realize novo julgamento, computando-se o prazo prescricional a partir da assinatura de cada contrato.
+Diante do exposto, julgo prejudicado o presente agravo em recurso especial, por perda de objeto.
+Publique-se.
+EMENTA
