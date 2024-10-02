@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto por Di Domênico Comércio, Indústria, Exportação e Importação Ltda. em face do v. acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (TJPR), assim ementado:
+"APELAÇÃO CÍVEL - CUMPRIMENTO DE SENTENÇA - EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS - EXECUTADO BENEFICIÁRIO DE JUSTIÇA GRATUITA - SENTENÇA QUE ACOLHEU IMPUGNAÇÃO E JULGOU EXTINTO O PROCESSO - COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. PRESUNÇÃO IURIS TANTUM. ART. 99, §§ 2º E 3º, DO CPC/2015. JUSTIÇA GRATUITA CONCEDIDA. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. OCORRÊNCIA. INSUFICIÊNCIA DO CONJUNTO PROBATÓRIO ACOSTADO AOS AUTOS PARA PRESTAÇÃO JURISDICIONAL. NECESSIDADE DE DILAÇÃO PROBATÓRIA.
+SENTENÇA CASSADA. RETORNO DOS AUTOS AO PRIMEIRO GRAU A FIM DE PROMOVER A DEVIDO INSTRUÇÃO DO FEITO. APELAÇÃO CÍVEL CONHECIDA E PROVIDA." (fl. 602)
+A recorrente aponta ofensa aos arts. 1.022, II, 17, Art. 330, I e III e Art. 485, VI do CPC/15.
+Destaca que "houve omissão no acórdão combatido quanto ao tema apontado como omisso, notadamente a manifestação do TJPR quanto à ausência de comprovação de juntada das declarações do imposto de renda, em especial no que se refere à ausência de comprovação de que realmente não há, na base de dados da Receita Federal, a regular entrega das declarações de imposto de renda dos últimos dois anos." (fl. 686).
+Indica a ilegitimidade de Emídio Caetano Rodrigues Júnior para executar os honorários sucumbenciais, pois ele havia, no processo anterior, renunciado ao mandato sem reserva de poderes, deixando, assim, de ser procurador da Itamarati Indústria de Compensados Ltda.
+Alega ausência das condições da ação, visto que os honorários sucumbenciais estão com a exigibilidade suspensa, devido ao benefício da justiça gratuita concedido à recorrente .
+Também alega que o pedido de exibição de documentos deveria ter sido objeto de ação autônoma.
+Contrarrazões às fls. 711/723.
+É o relatório.
+Em acórdão suficientemente fundamentado, o eg. TJRS deferiu ao exequente o benefício da gratuidade da justiça, anotando que o Tribunal só poderia indeferir o respectivo pedido, se os autos trouxessem elementos suficientes para desacreditar a autodeclaração de hipossuficiência, formulada por pessoa física - cenário não verificado, no caso.
+Não se observa, portanto, qualquer omissão do Tribunal de origem, mas tão só decisão contrária à pretendida pela parte.
+Com efeito não é demais anotar os termos da jurisprudência desta Corte Superior, no sentido de que "os embargos declaratórios não se prestam para forçar o ingresso na instância extraordinária se não houver omissão a ser suprida no acórdão nem fica o juiz obrigado a responder a todas as alegações das partes quando já encontrou motivo suficiente para fundar a decisão (AgRg no Ag n. 372.041/SC, Ministro Hamilton Carvalhido, Sexta Turma, DJ 4/2/2002), de forma que não há falar em negativa de prestação jurisdicional apenas porque o Tribunal local não acatou a pretensão deduzida pela parte" (AgRg no REsp n. 1.220.895/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 10/9/2013).
+O Tribunal de origem se recusou a debater a existência das condições da ação, na espécie, uma vez que o tema não foi objeto de discussão em 1º grau, nem foi alvo do recurso de apelação, de modo que a incursão pretendida configuraria supressão de instância.
+No entanto, a parte possui razão, ao apontar que referido tema - legitimidade ativa do exequente - constitui matéria de ordem pública, cognoscível inclusive de ofício, em qualquer grau de jurisdição.
+Logo, tratando-se de matéria de ordem pública, cujo conhecimento até prescindiria de alegação das partes, o eg. TJPR estava autorizado a apreciá-la, mesmo que provocada apenas em sede de embargos de declaração. Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. ERRO MATERIAL. OCORRÊNCIA. IRREGULARIDADE NO DISPOSITIVO. INEXISTENTE. DEFEITO NO RECURSO ESPECIAL. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. INSUBSISTÊNCIA DAS ALEGAÇÕES.
+1. Constando do relatório da decisão agravada argumentação que não pertence aos autos, há de ser reconhecido o erro material e corrigido. Correção, contudo, que não altera o resultado do julgado.
+2. Decidido o mérito do recurso especial, depreende-se terem sido observados todos os requisitos de admissibilidade, uma vez que a sua análise, necessariamente, precede o exame meritório.
+3. Não analisada matéria de ordem pública ao argumento de que o exame implicaria supressão de instância e, tendo em vista, que referidas matérias podem ser alegadas a qualquer tempo e grau de jurisdição, injustificável a negativa de prestação jurisdicional e configurada omissão a embasar o provimento do recurso especial para reconhecimento de violação ao artigo 535 do Código de Processo Civil.
+4. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO, APENAS PARA RECONHECER ERRO MATERIAL, SEM QUALQUER ALTERAÇÃO NA CONCLUSÃO DO JULGADO.
+(AgRg no Ag n. 1.259.164/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23/8/2011, DJe de 31/8/2011.)
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao eg. TJPR para que, segundo sua livre convicção, verifique se o exequente, Emídio Caetano Rodrigues Júnior, possui legitimidade para iniciar o cumprimento de sentença.
+Publique-se.
+EMENTA
