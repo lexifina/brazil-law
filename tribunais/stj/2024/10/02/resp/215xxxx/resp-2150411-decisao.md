@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial, interposto por SOUTEX INDÚSTRIA TÊXTIL LTDA, fundado no art. 105, III, "a", da Constituição, em face do v. acórdão proferido pelo eg. Tribunal de Justiça de Santa Catarina (TJSC), assim ementado:
+"AGRAVO DE INSTRUMENTO E EMBARGOS DE DECLARAÇÃO. INDEFERIMENTO DE PENHORA DE QUOTAS SOCIAIS. RECLAMO DO BANCO EXEQUENTE.
+I - AGRAVO DE INSTRUMENTO POSTULADA CONSTRIÇÃO DE COTAS SOCIAIS DE EMPRESAS DE TITULARIDADE DOS EXECUTADOS INDEFERIDA, EM RAZÃO DE QUE, PRIMEIRAMENTE, DEVERIA HAVER A PENHORA DOS LUCROS ADVINDOS DA SOCIEDADE. LÓGICA CONTRÁRIA. PARTE EXECUTADA É A QUEM INCUMBE INDICAR OUTROS MEIOS MAIS EFICAZES E MENOS ONEROSOS, SOB PENA DE INCIDÊNCIA DOS ATOS EXECUTIVOS, A TEOR DO ART. 805, PARÁGRAFO ÚNICO, DO CPC. CONSTRIÇÃO LASTREADA NO ART. 835, IX, DO CPC. ATO INCONFUNDÍVEL COM A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA, POIS ATINGE O DOMÍNIO DA PESSOA JURÍDICA E NÃO OS SEUS BENS. MERCADORIAS PENHORADAS QUE PODERIAM TER SIDO VENDIDAS, TAMBÉM, POR INICIATIVA PARTICULAR DO DEVEDOR, SOB CHANCELA DO JUÍZO. MÍNGUA DE QUALQUER ATITUDE COM ESSE DESÍGNIO. SOLUÇÃO EFETIVA PARA A DÍVIDA EXEQUENDA NÃO OSTENTADA. DECISÃO DE PRIMEIRO GRAU REFORMADA, PARA DETERMINAR A PENHORA DAS COTAS SOCIAIS DOS EXECUTADOS NAS EMPRESAS LISTADAS."
+A recorrente aponta ofensa aos arts. 223, §5º do art. 1.003, art. 805 e art. 835 do Código de Processo Civil (CPC).
+Alega, em síntese, (a) o agravo de instrumento interposto pelo Banco do Brasil foi intempestivo; o prazo para recurso começou em 09/11/2023 e terminou em 30/11/2023, mas o Banco interpôs o recurso apenas em 01/12/2023; (b) deserção do agravo de instrumento, pois não recolhido o preparo na forma do art. 1.017, § 1º, do CPC/15; (c) o Tribunal violou o art. 805 do CPC ao permitir a penhora de quotas sociais antes de esgotar os meios menos gravosos, como a alienação de bens já penhorados e (d) a penhora de cotas sociais é excepcional, só admitida se esgotados meios menos gravosos de execução.
+Contrarrazões às fls. 208/221.
+É o relatório.
+Acerca das preliminares, constou do acórdão de 2º grau:
+"(..) a parte agravada alega a intempestividade e a deserção do presente reclamo. Entretanto, o prazo registrado no evento 246 de primeiro grau não computou o feriado do dia 15-11-2023, motivo pelo qual o reclamo é tempestivo, assim como o agravante pagou o preparo em dobro (processo 0014421- 81.2013.8.24.0038/SC, evento 272, CUSTAS1 e evento 280, CUSTAS1), o que atende ao art. 1.007, §4º, do CPC. Logo, a insurgência permite conhecimento." (fl. 124)
+Contudo, eventual reforma do acórdão demandaria novo exame das provas dos autos, a fim de verificar (i) se o banco teria observado o prazo para a interposição do recurso, considerando a ocorrência de feriado no meio do interstício e (ii) se o banco teria efetuado o pagamento do valor do preparo, na forma prevista em lei.
+Incide, portanto, o óbice da Súmula n. 7/STJ.
+Acerca da penhora das cotas sociais, o Tribunal de origem definiu que, decretada a medida, é dever dos executados indicar outros meios menos gravosos de satisfação da dívida, nestes termos:
+"No mérito, a constrição de cotas sociais de titularidade dos executados Olívio Valdir Soares e Eliana Maria Soares foi indeferida, em razão de que primeiramente deveria haver a penhora dos lucros advindos da sociedade. Contudo, a lógica é contrária; é a parte executada a quem incumbe indicar outros meios mais eficazes e menos onerosos, sob pena de incidência dos atos executivos, a teor do art. 805, parágrafo único, do CPC.
+Portanto, é cabível a penhora das quotas postulada, porque tem lastro no art. 835, IX, do CPC, e não se confunde, como alega a parte agravada, com a desconsideração da personalidade jurídica da empresa, pois atinge o domínio da pessoa jurídica e não os seus bens. Seguem precedentes análogos inclusive desta relatoria:
+(..)
+No que se refere às mercadorias penhoradas (processo 0014421-81.2013.8.24.0038/SC, evento 136, AUTOPENHORA221 e evento 136, AUTOPENHORA222), poderiam ter sido vendidas também por iniciativa particular do devedor, sob chancela do juízo, mas não houve qualquer atitude com esse desígnio.
+A conclusão é o provimento do agravo de instrumento, pois não foi ostentada solução efetiva para a dívida exequenda, o que recomenda a constrição pleiteada."
+É certo que, havendo outros meios menos gravosos de satisfação da dívida, o juiz deve se abster de penhorar as cotas sociais dos executados, na forma do art. 805 do CPC/15.
+Contudo, não compete a esta Corte verificar se os bens indicados à penhora, pelos executados, são idôneos para a garantia do juízo - análise estritamente fática, de competência das instâncias ordinárias, na forma da Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ACÓRDÃO RECORRIDO. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. PEDIDO DE SUBSTITUIÇÃO DOS BENS NOMEADOS À PENHORA. ANÁLISE SOBERANA DA IDONEIDADE DOS BENS PELAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7/STJ. ALEGAÇÃO DE VIOLAÇÃO AO ART. 655 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES.
+1. Nos termos da Súmula 283 do Pretório Excelso, aplicável por analogia ao recurso especial, "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. As instâncias ordinárias são soberanas para decidir a respeito da idoneidade ou não dos bens oferecidos à penhora pelo executado e a reversão do juízo de valor a que chegaram levaria a um novo exame do acervo fático-probatório dos autos, providência que encontra óbice no enunciado nº 7 da Súmula do Superior Tribunal de Justiça.
+3. Não há como se considerar que a matéria se encontra prequestionada tão somente em razão de o c. Tribunal de origem ter afirmado que os dispositivos legais foram prequestionados, já que, a despeito de tal afirmação, a questão não foi apreciada no v. acórdão guerreado.
+4. Agravo interno a que se nega provimento.
+(AgRg no Ag n. 1.379.862/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/5/2011, DJe de 21/6/2011.)
+Não sendo, então, possível ingressar no mérito da controvérsia, fica mantido o acórdão de 2º grau.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
