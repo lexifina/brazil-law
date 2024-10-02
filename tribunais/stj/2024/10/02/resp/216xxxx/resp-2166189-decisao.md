@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 632):
+APELAÇÃO - PLANO DE SAÚDE - OBRIGAÇÃO DE FAZER - NEGATIVA DE CUSTEIO DE PROTONTERAPIA - TÉCNICA QUIMIOTERÁPICA NÃO PREVISTA NO ROL DE PROCEDIMENTOS E EVENTOS OBRIGATÓRIOS EDITADA PELA AGÊNCIA NACIONAL DE SAÚDE - SENTENÇA DE PROCEDÊNCIA CONFIRMADA POR ESTA CORTE - RECURSO ESPECIAL PROVIDO PELA SEGUNDA SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA DETERMINANDO QUE SEJA REAVALIADO O PREENCHIMENTO DOS REQUISITOS QUE AUTORIZAM A MITIGAÇÃO DA TAXATIVIDADE DO ROL - TÉCNICA QUE NA ÉPOCA AINDA NÃO ERA PRATICADA EM TERRITÓRIO NACIONAL - EXCEPCIONALIDADE QUE NÃO SE APLICA AO CASO - SENTENÇA REFORMADA - ACÓRDÃO RETIFICADO - RECURSO DA RÉ PROVIDO
+Os embargos de declaração foram rejeitados (e-STJ fls. 661/666).
+Nas razões apresentadas (e-STJ fls. 675/709), a recorrente aponta dissídio jurisprudencial e ofensa:
+(i) ao art. 1.022, II, do CPC/2015, afirmando haver negativa de prestação jurisdicional, pois a Corte local teia ignorado os argumentos de mitigação da taxatividade do rol da ANS, incluindo a recomendação técnica de órgãos de renome internacional e a comprovação da eficácia da terapêutica à luz da medicina baseada em evidências. Acrescenta existir omissão no exame da "oposição ao julgamento virtual e da inexistência de intimação do retorno dos autos, para que as partes pudessem acompanhar esse novo julgamento" (e-STJ fl. 683),
+(ii) aos arts. 8º, 9º e 67 do CPC/2015, ante a falta de intimação das partes sobre o retorno dos autos, após o julgamento do Recurso Especial n. 1.982.854/SP por esta relatoria, que determinou a aplicação do entendimento da Segunda Seção do STJ a respeito da mitigação do rol da ANS, nulidade que teria impedido o requerimento de julgamento presencial da apelação, e
+(iii) aos arts. 10, §§ 12 e 13, I e II, 12, II, e 35-F da Lei n. 9.656/1998 e 6º, 39, 46, 47 e 51 do CDC e 422 e 424 do CC/2002, pois estariam presentes os requisitos de mitigação da taxatividade do rol da ANS, a fim de condenar a parte recorrida ao custeio da protonterapia no Hospital de Boston, proceder necessário ao tratamento oncológico.
+Foram apresentadas contrarrazões (e-STJ fls. 979/999)
+O recurso foi admitido na origem (e-STJ fls. 1.006/1.007).
+É o relatório.
+Decido.
+Não assiste razão à parte recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu a matéria controvertida, não incorrendo em omissão, contradição ou obscuridade.
+A Justiça local deixou claros os motivos pelos quais recusou o custeio do tratamento oncológico no exterior (e-STJ fls. 635/636).
+Ademais, em sede de aclaratórios, rejeitou fundamentadamente a nulidade de intimação suscitada pela parte recorrente (e-STJ fl. 665).
+Ressalte-se que o fato de o julgamento ser contrário aos interesses da parte recorrente não configura nenhum dos vícios do art. 458 do CPC/1973 (atual art. 489 do CPC/2015), tampouco é o caso cabimento dos aclaratórios.
+A fim de sustentar a nulidade por falta de intimação da baixa dos autos desta Corte Superior, antes do julgamento virtual da apelação, a parte indicou contrariedade aos arts. 8º, 9º e 67 do CPC/2015.
+Ocorre que tais dispositivos legais não possuem o alcance normativo pretendido, porque nada dispõe a respeito dos vícios de intimação, tampouco do procedimento de julgamento da apelação.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A Corte local não se manifestou quanto aos arts. 12, II, e 35-F da Lei n. 9.656/1998 e 6º, 39, 46, 47 e 51 do CDC e 422 e 424 do CC/2002 sob o enfoque pretendido pela parte recorrente. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tais dispositivos carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+A Segunda Seção do STJ firmou entendimento de que o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgados em 8/6/2022, DJe de 3/8/2022). Sem embargo, o órgão colegiado admitiu a excepcional possibilidade de cobertura do procedimento - indicado pelo médico ou odontólogo assistente mas não previsto no rol da agência reguladora -, inexistindo substituto terapêutico listado, desde que:
+(i) não tenha sido indeferida expressamente pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar,
+(ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências,
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros, e
+(iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+A Corte de origem, soberana na análise do conjunto fático-probatório dos autos, assentou que estavam ausentes os requisitos de mitigação do rol da ANS (e-STJ fls. 635/636).
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
