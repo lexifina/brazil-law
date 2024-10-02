@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ELTON JOHN CAMPOS MACHADO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO - TJRJ proferido no julgamento do HC n. 0044561-70.2024.8.19.0000.
+Extrai-se dos autos que o paciente foi condenado, em primeiro grau, como incurso nas sanções do art. 16, parágrafo único, IV, da Lei n. 10.826/03, à pena de 3 anos de reclusão e 10 dias-multa, em regime aberto, substituída a pena privativa de liberdade por duas penas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária.
+Irresignada, a defesa impetrou habeas corpus originário, o qual não foi conhecido pelo TJRJ em acórdão acostado às fls. 32/37, assim ementado:
+"HABEAS CORPUS. SENTENÇA CONDENATÓRIA. PACIENTE CONDENADO A PENA DE 03 ANOS DE RECLUSÃO E 10 DIAS-MULTA, EM REGIME ABERTO, POR VIOLAÇÃO A NORMA DO ARTIGOS 16, PAR. ÚNICO, INC. IV, DA LEI Nº 10.826/06, SUBSTITUÍDA A PPL, POR 2 PRD. SUSTENTA O IMPETRANTE QUE O ARGUMENTO DE QUE FOI FRANQUEADA A ENTRADA NO IMÓVEL DO ACUSADO É DESCABIDO, TENDO SIDO REALIZADA A BUSCA DOMICILIAR NO IMÓVEL DO PACIENTE, SEM MANDADO JUDICIAL. ASSIM, PRETENDE A DEFESA SEJA DECLARADA A NULIDADE DA BUSCA DOMICILIAR, ABSOLVENDO O PACIENTE. O decisum desafia a interposição de recurso adequado. Sentença que poderá ser submetida ao segundo grau de jurisdição, mediante recurso de apelação. Imperiosa a necessidade de racionalização do emprego do habeas corpus, em prestígio ao âmbito de cognição da garantia constitucional e, em louvor à lógica do sistema recursal. Inadequação da via eleita por violação ao sistema recursal. Pedido não conhecido. Por fim, registre-se que, foi interposto recurso de apelação. Recurso não conhecido."
+No presente recurso, a defesa sustenta que a prova que embasou a condenação do recorrente é ilícita, uma vez que obtida por meio de invasão de domicilio. Afirma que não haviam fundadas razões para a ação dos policiais militares.
+Aduz que "o consentimento de ingresso na residência em clima de medo e pressão, não pode ser considerada livre e espontânea, a menos que tivesse sido documentada em vídeo".
+Requer, assim, em liminar e no mérito, o provimento do recurso em habeas corpus para reconhecer a nulidade do flagrante em razão da violação de domicilio.
+É o relatório.
+Decido.
+Cumpre ressaltar que foi formulado pedido idêntico em benefício do ora recorrente no HC n. 942.836/RJ, o qual foi indeferido liminarmente. Na presente data, em julgamento do agravo regimental interposto pela defesa, reconsiderei a decisão para determinar que o Tribunal de Justiça do Estado do Rio de Janeiro aprecie, como entender de direito, o mérito do HC n. 0044561-70.2024.8.19.0000.
+Dessa forma, tendo o pres ente recurso ordinário em habeas corpus a mesma parte e questionando matéria arguida no referido writ, o qual diz respeito à mesma ação penal de origem e impugna, inclusive, o mesmo julgado, resta configurada inadmissível reiteração de pedidos, o que impede o conhecimento das alegações. De mais a mais, patente se mostra a perda de objeto do presente recurso ordinário em habeas corpus.
+Ante o exposto, com fulcro no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se.
+Intimem-se.
+EMENTA
