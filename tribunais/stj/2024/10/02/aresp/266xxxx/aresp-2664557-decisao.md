@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por AGUIAR DE VASCONCELOS & CIA LTDA. contra decisão que inadmitiu recurso especial (e-STJ, fls. 119-120) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ, fl. 54):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. ALUGUÉIS DEVIDOS. ABATIMENTO DE IMPOSTO DE RENDA E DE TAXA DE ADMINISTRAÇÃO. COISA JULGADA.
+I - A r. sentença exequenda expressamente condenou a ora agravante-executada ao pagamento dos aluguéis devidos pelo locatário do imóvel no período de maio de 2017 a janeiro de 2018, e não do valor líquido do aluguel, portanto o eventual abatimento do imposto de renda e da taxa de administração nos cálculos apresentados pelas exequentes representaria violação à coisa julgada. Mantida a r. decisão quanto à inexistência de excesso de execução nesse ponto.
+II - Agravo de instrumento desprovido.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 77):
+EMBARGOS DE DECLARAÇÃO. VÍCIOS. ART. 1.022 DO CPC.
+I - O acórdão não contém nenhum dos vícios previstos no art. 1.022 do CPC, e os embargos de declaração não se prestam para o reexame de matéria julgada.
+II - Embargos de declaração desprovidos.
+Nas razões do recurso especial, a recorrente alegou, com base na alínea a do permissivo constitucional, violação aos arts. 489, § 3º, e 1.022, II, do CPC/2015.
+Apontou omissão no julgado recorrido à necessidade de calcular o valor dos alugueis com base na interpretação conjunta do relatório, dos fundamentos e do dispositivo.
+Sustentou ser indevido o cálculo dos alugueis considerando apenas a parte dispositiva do julgado.
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 119-120).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 122-128).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No recurso especial, a primeira tese defendida pela recorrente refere-se à existência de omissão no acórdão impugnado.
+A respeito do tema, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, por isso, natureza infringente.
+Nesse sentido, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte (REsp 1.873.918/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 02/03/2021, DJe 04/03/2021).
+Desse modo, tendo o Tribunal originário motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte estadual omitiu-se apenas pelo fato de ter o aresto impugnado decidido em sentido contrário à pretensão da parte.
+Analisando os autos, observa-se que o aresto recorrido apresenta suficiente fundamentação quando reconhece as incongruências dos parâmetros utilizados no cálculo dos alugueis.
+A propósito, confira-se trecho do acórdão prolatado no julgamento dos embargos de declaração (e-STJ, fl. 79):
+7. Com relação à condenação da embargante-agravante ao pagamento de aluguéis devidos pelo locatário, embora na fundamentação da r. sentença exequenda conste referência ao valor do aluguel líquido, não se verifica a alegada omissão, pois o acórdão foi expresso ao fundamentar:
+"11. A controvérsia do presente recurso, portanto, refere-se à condenação constante da alínea "c" do dispositivo da r. sentença, se seria ao pagamento do valor líquido do aluguel inadimplido, ou do seu valor bruto, sem abatimento do IR e da taxa de administração, e a partir daí aferir se há o excesso de execução alegado pela agravante-executada.
+12. Conforme alegado pela agravante-executada, de fato na fundamentação da r. sentença ficou consignado que " ..  a ré deverá arcar com o valor do aluguel líquido inadimplido no período de maio de 2017 a janeiro de 2018, cujo valor deverá ser obtido em liquidação de sentença por simples cálculos aritméticos" (id. 151428638, pág. 7, dos autos originários, grifo nosso).
+13. No entanto, o dispositivo da r. sentença é expresso ao condenar a ora agravante-executada "ao pagamento dos aluguéis devidos pelo locatário do imóvel no período de maio de 2017 a janeiro de 2018  .. " (id. 151428638, pág. 9, dos autos originários, grifo nosso).
+14. Assim, em que pese a alegação da agravante-executada acerca do abatimento dos valores relativos ao IR e à taxa de administração, constata-se que a exclusão de tais quantias representaria violação à coisa julgada, pois o valor do aluguel líquido não corresponde aos aluguéis devidos pelo locatário do imóvel.
+15. Ressalte-se que o parâmetro da condenação imposta pela r. sentença exequenda, qual seja, aluguéis devidos pelo locatário do imóvel, não foi objeto de insurgência na apelação interposta pela ora agravante-executada, conforme o relatório constante do Acórdão nº 1157474 (id. 151428639 dos autos originários).
+16. Em conclusão, não configurado o alegado excesso de execução quanto aos aluguéis devidos pela agravante-executada, deve ser mantida a r. decisão agravada." (id. 51674568, págs. 6/7).
+8. Acrescente-se que a obrigação de recolher o imposto de renda é da locadora do imóvel e que a taxa de administração é indevida no período da condenação - maio de 2017 a janeiro de 2018 - ante a reconhecida ausência de prestação de serviços por parte da embargante-agravante, o que corrobora a conclusão de que são devidos os aluguéis em seus valores brutos.
+9. O acórdão, em suma, não contém o vício apontado nem contraria o art. 489, § 1º, inc. VI, do CPC, que versa sobre jurisprudência ou precedente de natureza vinculante, à qual não se enquadra o julgado colacionado pela embargante-agravante. O acolhimento dos embargos está adstrito à existência de obscuridade, contradição, omissão ou erro material, não verificada nos autos.
+Portanto, inexiste ofensa ao art. 1.022 do CPC/2015.
+No mais, do excerto acima transcrito, depreende-se que o Tribunal de origem entendeu que a parte recorrente não impugnou, na apelação, os parâmetros mencionados na sentença para o cálculo dos alugueis.
+Todavia, analisando os argumentos expostos nas razões do recurso especial, constata-se que a recorrente deixou de impugnar todos os fundamentos mencionados pelo acórdão recorrido, situação que impede o prosseguimento do recurso especial.
+Nos termos do enunciado da Súmula 283/STF, aplicado por analogia ao recurso especial, é "inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. ALUGUÉIS DEVIDOS. PARÂMETROS EQUIVOCADOS. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
