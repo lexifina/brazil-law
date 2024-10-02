@@ -1,0 +1,72 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5009303-09.2023.8.08.0014
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ANA GOMES NUNES
+RECORRIDO: BANCO PAN S.A.
+RELATOR(A):
+ANA FLAVIA MELO VELLO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTO
+
+Relatora
+: Dra. Ana Flávia Melo Vello
+
+Relatório dispensado (Enunciado 92 do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA
+. JUIZADO ESPECIAL CÍVEL. EMBARGOS DE DECLARAÇÃO EM FACE DE DECISÃO COLEGIADA QUE CONHECEU E JULGOU IMPROCEDENTE O RECURSO INOMINADO OUTRORA INTERPOSTO. ALEGAÇÃO DE OMISSÃO. RECONHECIMENTO DO BENEFÍCIO DA AJG. EMBARGOS CONHECIDOS E PROVIDOS.
+
+1. Trata-se de embargos de declaração contra acórdão desta Turma Recursal, que julgou improcedente o Recurso Inominado outrora interposto pela parte embargante, mantendo a sentença de piso.
+
+2. Alega a parte embarg
+ante que houve
+omissão na decisão colegiada ao lhe condenar em verbas sucumbenciais, por não ter se manifestado acerca do pleito de justiça gratuita.
+
+3.
+Em análise aos autos, torna-se evidente que a parte embargante possui razão, levando-se em consideração a devida comprovação acerca de sua hipossuficiência, fazendo jus a parte recorrente ao deferimento do benefício e a reforma da condenação em sucumbência.
+
+4.
+EMBARGOS DE DECLARAÇÃO CONHECIDOS E PROVIDOS PARA REFORMAR O ACÓRDÃO DE ID. 8839809 PARA DEFERIR O BENEFÍCIO DA JUSTIÇA GRATUITA À PARTE AUTORA E ALTERAR O TEXTO PARA:
+
+ONDE CONSTA:
+7.
+
+Por força da sucumbência recursal (art. 55, 2ª parte, da Lei dos Juizados Especiais), Condenação da parte recorrente ao pagamento de custas e honorários no importe de 20% sobre o valor atualizado da condenação, ou, não havendo, sobre o valor da causa.
+
+PASSE A CONSTAR
+: 7.
+
+Por força da sucumbência recursal (art. 55, 2ª parte, da Lei dos Juizados Especiais),
+Condena-se
+a parte recorrente/requerente no pagamento das custas e honorários advocatícios, que fixo na quantia de R$500,00 (quinhentos reais), suspensa, todavia em razão do benefício da AJG. .
+
+5.
+
+Sem custas processuais e honorários advocatícios sucumbenciais no que se refere aos embargos de declaração.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
