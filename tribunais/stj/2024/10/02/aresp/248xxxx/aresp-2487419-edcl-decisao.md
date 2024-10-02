@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ALEXANDRE SCHALCH MENDES contra decisão monocrática desta Relatoria que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, alega o embargante, de início, que é obscuro o posicionamento no sentido de que o STJ não poderia apreciar matéria constitucional, nem para fins de pré-questionamento, pois o recurso especial não trata exclusivamente de matéria constitucional, mas toca nesses pontos apenas para demonstrar que as violações dos dispositivos do CPC afetam diretamente a ampla defesa e o contraditório, bem como o devido processo legal, também garantidos na Carta Magna.
+Afirma que é obscuro o posicionamento do julgado embargado também no sentido de que o Tribunal a quo não haveria se manifestado sobre os conteúdos normativos dos dispositivos violados, pois o E. TJSP se manifestou sim sobre os dispositivos de Lei Federal na decisão que inadmitiu o recurso especial.
+Afirma que, ao contrário do que constou na decisão embargada, a vulneração do art. 1.022 do CPC foi, sim, alegada no recurso especial.
+Intimado, o embargado não apresentou impugnação (e-STJ fl. 368/369)
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Ademais, "A obscuridade que vicia o julgado é aquela que dificulta a sua compreensão, diante da falta de clareza de seus termos, o que não ocorre na hipótese, tendo sido minuciosamente analisadas, com linguagem simples e direta, todas as argumentações trazidas nos anteriores aclaratórios e agora reiteradas." (EDcl nos EDcl no REsp n. 2.071.143/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/3/2024, DJe de 18/3/2024.)
+No caso dos autos, alega o embargante, em síntese, que o recurso especial não trata exclusivamente de matéria constitucional, que o E. TJSP se manifestou sim sobre os dispositivos de Lei Federal impugnados na decisão que inadmitiu o recurso especial e que a vulneração do art. 1.022 do CPC foi, sim, alegada no recurso especial.
+Sobre a possibilidade de apreciação, pelo STJ, de matéria constitucional, assim constou na decisão recorrida:
+"De início, cumpre destacar que não se admite apreciação, nesta instância excepcional, de matéria constitucional, ainda que seja a título de prequestionamento objetivando a interposição de recurso extraordinário. Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. AFRONTA À RESOLUÇÃO. INCABÍVEL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282 DO STF. PREVIDÊNCIA PRIVADA. REAJUSTE CONCEDIDO AOS EMPREGADOS EM ATIVIDADE. NÃO ESTENSÍVEIS AOS APOSENTADOS.
+1. É incabível a pretensão de que esta Corte de Justiça delibere sobre a suposta violação de dispositivos constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+2. O recurso especial não é via adequada para análise de ofensa a portarias, circulares, resoluções, instruções normativas, regulamentos, decretos, avisos e outras disposições administrativas, por não se enquadrarem no conceito de lei federal.
+3. A ausência de enfrentamento pelo tribunal de origem da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF.
+4. É inviável estender aos benefícios de participantes de plano de previdência privada aposentados os mesmos reajustes estabelecidos por acordos coletivos de trabalho para os empregados em atividade.
+(AgInt no REsp n. 1.879.924/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 10/6/2024, DJe de 12/6/2024.)"
+Em relação à tese de que o E. TJSP se manifestou, sim, sobre os dispositivos de Lei Federal e de que a vulneração do art. 1.022 do CPC foi alegada no recurso especial, constou na decisão embargada:
+"Quanto aos demais dispositivos, verifica-se que seus conteúdos normativos não foram apreciados pelo Tribunal a quo, ainda que a parte ora recorrente tenha oposto embargos de declaração a fim de sanar eventual irregularidade.
+Ressalte-se que esta eg. Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração.
+Caberia à recorrente, na hipótese, alegar violação ao art. 1.022 do Código de Processo Civil, providência, todavia, da qual não se desincumbiu. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO EXTREMO. INSURGÊNCIA DA AUTORA.
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+1.1. In casu, deixou a recorrente de apontar, nas razões do apelo extremo, a violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+1.2. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese.
+2. Para alterar as conclusões do órgão julgador no tocante à configuração dos elementos ensejadores do dever de indenizar e dos danos morais pleiteados, na forma como posta, seria necessário o reexame do contexto fático e probatório dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1598669/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/04/2020, DJe 27/04/2020)" (e-STJ fls.352/354 )
+Como visto, a decisão embargada tratou expressamente das questões apontadas pelo embargante, ainda que em sentido contrário ao defendido pela parte.
+De ver-se, portanto, que os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
