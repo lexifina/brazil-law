@@ -1,0 +1,66 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5015826-08.2022.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MARGARETE SILVA DOS SANTOS
+RECORRIDO: MUNICIPIO DE VILA VELHA e outros
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Embargos de Declaração no Processo de n° 5015826-08.2022.8.08.0035
+
+Embargante:
+MARGARETE SILVA DOS SANTOS
+
+Embargados:
+MUNICIPIO DE VILA VELHA e INSTITUTO DE PREVIDENCIA SOCIAL DOS SERVIDORES PUBLICOS DO MUNICIPIO DE VILA VELHA (ES)- IPVV
+
+V O T O
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Dispensado o relatório, na forma do art. 38 e 46, da Lei nº 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: EMBARGOS DE DECLARAÇÃO EM RECURSO INOMINADO. SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS AUTORAIS.
+
+RECURSO INOMINADO INTERPOSTO PELA PARTE AUTORA, O QUAL FOI CONHECIDO, MAS NÃO PROVIDO, MANTENDO-SE A SENTENÇA PROFERIDA.
+
+OPOSTOS EMBARGOS DE DECLARAÇÃO, EM QUE A EMBARGANTE ARGUMENTA QUE HOUVE UM ERRO NA INTERPRETAÇÃO DA LEI MUNICIPAL Nº 5.203/2011, ESPECIFICAMENTE NO ART. 32, INCISO IV, QUE TRATA DO AVANÇO DE REFERÊNCIAS POR PROGRESSÃO. SUPOSTA CONFUSÃO ENTRE "PROGRESSÃO" E "PROMOÇÃO" QUE, SEGUNDO O RECORRENTE, RESULTARIA EM ERRO NA DECISÃO DE PRIMEIRA INSTÂNCIA QUE FOI MANTIDA PELO ACÓRDÃO EMBARGADO.
+
+OS EMBARGOS DE DECLARAÇÃO TÊM COMO OBJETIVO SANAR OMISSÕES, CONTRADIÇÕES, OU OBSCURIDADES E CORRIGIR ERROS MATERIAIS EM DECISÕES JUDICIAIS, CONFORME O ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL.
+
+AO ANALISAR O ACÓRDÃO PROFERIDO PELA TURMA RECURSAL, VERIFICA-SE QUE NÃO HÁ OMISSÃO E CONTRADIÇÃO A SER SUPRIDA. PARA TANTO, SEGUE ANÁLISE DOS VÍCIOS APONTADOS.
+
+OMISSÃO: NÃO PROCEDE A ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO, VISTO QUE TODOS OS PONTOS RELEVANTES TRAZIDOS PELOS EMBARGANTES FORAM ABORDADOS E DISCUTIDOS, ESPECIALMENTE NO QUE TANGE À INTERPRETAÇÃO DO ART. 32, IV, DA LEI MUNICIPAL Nº 5.203/2011.
+
+CONTRADIÇÃO: A SENTENÇA E O ACÓRDÃO SÃO CONSISTENTES EM INTERPRETAR QUE O TERMO "PROGRESSÃO" UTILIZADO NO ART. 32, IV, DE FATO REFERE-SE AO AVANÇO POR NÍVEL, LOGO, A PROMOÇÃO, NÃO HAVENDO EVIDÊNCIAS DE CONTRADIÇÃO NA DECISÃO.
+
+OBSCURIDADE: A INTERPRETAÇÃO DO DISPOSITIVO LEGAL FOI CLARA E FUNDAMENTADA, CONFORME O ACÓRDÃO, NÃO HAVENDO ELEMENTOS QUE INDIQUEM OBSCURIDADE.
+
+PELO EXPOSTO, CONHEÇO OS EMBARGOS DECLARATÓRIOS OPOSTOS, MAS NEGO PROVIMENTO, MANTENDO INCÓLUME A DECISÃO ATACADA. SEM CUSTAS E HONORÁRIOS.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
