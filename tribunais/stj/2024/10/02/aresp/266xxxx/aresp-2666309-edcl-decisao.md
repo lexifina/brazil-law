@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ADRIÃO RIBEIRO NETO à decisão de fls. 3796/3797, que não conheceu do recurso.
+Sustenta a parte embargante:
+A análise do recurso especial interposto, mais especificamente à fls. 3645, revela que houve efetiva indicação do dispositivo constitucional autorizador do recurso especial no tópico "DO CABIMENTO" COM MANIFESTO ERRO DE DIGITAÇÃO (O EMBARGANTE DIGITOU art. 104, III, "a" da CF, QUANDO NA VERDADE QUERIA DIGITAR art. 105, III, "a" da CF), conforme se verifica na imagem que segue abaixo (fl. 3803).
+ ..
+Da forma como foi apresentado o dispositivo legal, fica claramente perceptível a presença de verdadeiro erro material de digitação, uma vez que o embargante digitou equivocadamente a tecla "4" no lugar da tecla "5" (são teclas vizinhas), indicando equivocadamente o art. 104, III, "a" , ao invés de digitar art. 105, III, "a" da CF, que segue abaixo transcrito:
+ ..
+Além disso, tem-se que não existe na Constituição Federal o art. 104, III, "a" da CF, sendo certo que tal disposição constitucional possui apenas dois incisos, o que comprova de forma definitiva a ocorrência de simples erro material de digitação, restando claro o intuito do embargante de indicar como fundamento a alínea "a" do inciso III do art. 105 da Constituição Federal, vizinho ao equivocadamente indicado e único aplicável à hipótese dos autos (fls. 3803/3804).
+ ..
+NO CASO CONCRETO, CONSTATA-SE QUE HOUVE EXPRESSA E EFETIVA INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL QUE EMBASA O APELO, DE MODO A CARACTERIZAR A PRESENÇA DE MERO ERRO MATERIAL E NÃO DE DEFICIÊNCIA DE FUNDAMENTAÇÃO NA PEÇA RECURSAL (fl. 3808).
+ ..
+O não conhecimento do recurso especial interposto em decorrência de singelo erro material afronta os normativos e princípios processuais indicados, bem como os princípios do devido processo legal, da razoabilidade e da proporcionalidade, capitulados nos arts. 5º inciso LIV e 37 da CF, aos quais o exercício da atividade jurisdicional se encontra adstrita.
+No que toca ao presente recurso, a r. interlocutória incide em contradição e erro aptos a desafiar correção por embargos de declaração, na medida em que colide claramente com o teor da Súmula nº 284 do STF, na qual se fundamenta, já que o verbete estabelece de forma expressa que o recurso extraordinário é inadmissível apenas e tão somente "quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia", situação que claramente não se verifica neste autos (fl. 3809).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada, incide o óbice da Súmula n. 284/STF, porquanto a parte embargante, em sua petição recursal, indicou erroneamente o permissivo constitucional autorizador do Recurso Especial.
+A formalização adequada das impugnações recursais de natureza extraordinária exige que seja indicado seu permissivo constitucional autorizador. Portanto, deve constar expressamente, seja na petição de interposição, seja em qualquer parte das razões do recurso, que ele está fundamentado no art. 105, inciso III, da Constituição Federal, e quais são as alíneas desse permissivo constitucional que servem de base para a sua interposição.
+Ainda, ao contrário do que alega a parte embargante, da análise dos autos, não se denota das razões recursais a demonstração inequívoca da hipótese de seu cabimento, razão pela qual não há qualquer vício a ser superado nestes aclaratórios, sendo certo que incide, conforme já fundamentado, o óbice da Súmula n. 284/STF, na medida em que houve a indicação equivocada do permissivo constitucional autorizador do Recurso Especial.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há qualquer irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, Rejeito os Embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatór ios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
