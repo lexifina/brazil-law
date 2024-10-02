@@ -1,0 +1,11 @@
+DECISÃO
+Agrava-se da inadmissão de recurso especial interposto por ASDRUBAL ROCHA SARAIVA para impugnar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Ao exame do recurso especial interposto, observo que não se pode conhecer da alegação de violação ao art. 1.030, IV e V, do CPC, por ausência de prequestionamento, tendo em vista que o acórdão recorrido não conferiu solução à controvérsia por meio do exame de tais dispositivos, e a parte tampouco suscitou eventual omissão no acórdão por meio da oposição de embargos declaratórios. Aplica-se, no ponto, o óbice da Súmula 282/STF.
+Tampouco cabe conhecer do recurso especial quanto à alegada violação a dispositivos constitucionais, uma vez que a violação à Constituição Federal dá ensejo, em tese, ao recurso extraordinário, não podendo o STJ usurpar a competência do Supremo Tribunal Federal.
+Não cabe conhecer do recurso especial, além disso, quanto aos demais dispositivos legais mencionados no agravo, haja vista que a leitura atenta do recurso especial evidencia que tais dispositivos foram citados apenas de passagem no arrazoado, não tendo o recorrente apontado, com a necessária clareza, que tais dispositivos constituiriam o objeto central do recurso especial em sua interposição por "a".
+O apontamento claro e inequívoco do dispositivo legal havido como violado pelo acórdão recorrido constitui requisito formal imprescindível para o conhecimento do recurso especial, sem o que não é dado ao STJ compreender a controvérsia (Súmula 284/STF).
+Por fim, quanto ao alegado dissídio jurisprudencial (interposição por "c"), evidencia-se uma vez mais a incognoscibilidade do recurso especial, pela inexistência de qualquer esforço do recorrente em realizar o cotejo analítico entre o acórdão recorrido e o paradigma de confrontação e, além disso, também pela não indicação do dispositivo legal que teria sido, em tese, interpretado de maneira divergente por tribunais diversos. Incide, no ponto, o óbice da Súmula 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na forma do art. 85, § 11, do CPC, aumento em 10% (dez por cento) os honorários sucumbenciais previamente fixados.
+Publique-se. Intimem-se.
+EMENTA
