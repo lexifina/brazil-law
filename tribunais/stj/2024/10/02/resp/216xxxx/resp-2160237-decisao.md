@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSS com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (fl. 30):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ASTREINTES. REDIMENSIONAMENTO. CONTAGEM DA MORA. DIAS CORRIDOS. VALOR DIÁRIO. REDUÇÃO.
+1. O prazo para cumprimento administrativo de decisão não deve ser contado em dias úteis, como os prazos judiciais, mas, sim, em dias corridos, por se tratar de dilação dedicada ao exercício de direito material.
+3. Reduzido, de ofício, o valor da multa diária para R$ 100,00, em conformidade com o parâmetro adotado por esta Corte em casos semelhantes.
+Embargos de declaração rejeitados.
+A recorrente alega violação dos arts. 219 e 1022, inc. II, do CPC/2015.
+Sustenta, preliminarmente, a ocorrência de negativa de prestação jurisdicional e, no mérito, aduz que "o atraso no cumprimento de determinação judicial foi computado em dias corridos" e defende que o prazo deveria ser em dias úteis (fl.55).
+Com contrarrazões (fls.63-68).
+Juízo positivo de admissibilidade à fl. 71.
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Assiste razão ao recorrente.
+Com efeito, o entendimento do Tribunal "a quo" destoa da orientação adotada pelo Superior Tribunal de Justiça firmada no sentido de que o prazo para cumprimento das astreintes deve ser computado em dias úteis, por se tratar de prazo processual.
+No mesmo sentido, em casos análogos aos dos autos:
+PROCESSO CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÕES DE FAZER. SUPERVENIENTE CUMPRIMENTO DO TÍTULO. INTERESSE RECURSAL QUANTO ÀS PARCELAS VENCIDAS. TERMO FINAL DAS ASTREINTES. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 537, § 4º, DO CPC. CÔMPUTO DO PRAZO. DIAS ÚTEIS. APLICAÇÃO DA REGRA CONTIDA NO ART. 219 DO CPC. RECURSO CONHECIDO, EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. O cumprimento posterior da obrigação de fazer não interfere na exigibilidade da multa cominatória vencida, na linha do que dispõe o art. 537, § 1º, do CPC, que confere autorização legal para a modificação do valor, periodicidade, ou ainda, para a extinção da multa vincenda. Logo, as parcelas vencidas são insuscetíveis de alteração pelo magistrado, razão pela qual persiste o interesse recursal na presente insurgência.
+2. Não se conhece do recurso especial quando a matéria impugnada no apelo não foi objeto de debate pelo acórdão recorrido e a parte interessada deixa de opor embargos de declaração para o suprimento dos vícios de fundamentação do julgado. No caso, não é possível examinar a suscitada afronta ao art. 537, § 4º, do CPC, haja vista a ausência de prequestionamento. Incidência das Súmulas 282/STF e 356/STF.
+3. O Superior Tribunal de Justiça, ao examinar a natureza do prazo fixado para o cumprimento das obrigações de pagar quantia certa, concluiu que "a intimação para o cumprimento de sentença, independentemente de quem seja o destinatário, tem como finalidade a prática de um ato processual, pois, além de estar previsto na própria legislação processual (CPC), também traz consequências para o processo, caso não seja adimplido o débito no prazo legal, tais como a incidência de multa, fixação de honorários advocatícios, possibilidade de penhora de bens e valores, início do prazo para impugnação ao cumprimento de sentença, dentre outras. E, sendo um ato processual, o respectivo prazo, por decorrência lógica, terá a mesma natureza jurídica, o que faz incidir a norma do art. 219 do CPC/2015, que determina a contagem em dias úteis" (REsp 1.708.348/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/6/2019, DJe 1º/8/2019).
+4. A mesma ratio contida no precedente indicado acima deve ser aplicada ao presente caso, que diz respeito ao momento a partir do qual se considera que houve o descumprimento das obrigações de fazer constantes do título judicial. Ainda que a prestação de fazer seja ato a ser praticado pela parte, não se pode desconsiderar a natureza processual do prazo judicial fixado para o cumprimento da sentença, o que atrai a incidência da regra contida no art. 219 do CPC.
+5. Tratando-se de instrumento de coerção para a efetividade da tutela jurisdicional, a incidência da multa prevista no art. 536, § 1º, e 537 do CPC é consectário lógico do descumprimento da ordem judicial, não se confundindo com a postulação de direito material apresentada em juízo. Por isso, o cômputo do prazo estipulado em dias para a prática das prestações de fazer não destoa do regime legal previsto para os demais prazos processuais, devendo-se considerar os dias úteis.
+6. Recurso especial conhecido em parte e, nessa extensão, improvido (REsp 1.778.885/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 21/6/2021- grifo nosso).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, atraindo a incidência da Súmula 211 do STJ.
+2. A jurisprudência dessa Corte Superior é no sentido de que o prazo para cumprimento da obrigação de fazer é contado em dias úteis. Precedentes.
+3. Agravo interno desprovido (AgInt no AREsp n. 1.998.372/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022).
+Ante o exposto, dou provimento ao recurso especial para determinar que o cômputo do prazo da multa diária se dê em dias úteis.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ASTREINTES . PRAZO PARA CUMPRIMENTO. OBRIGAÇÃO. NATUREZA PROCESSUAL. CONTAGEM EM DIAS ÚTEIS. ART. 219 DO CPC/2015. RECURSO ESPECIAL PROVIDO.
