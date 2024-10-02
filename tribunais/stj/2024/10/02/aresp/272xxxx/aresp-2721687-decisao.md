@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JORGE LUIS SOUSA MENDES à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+PROCESSO CIVIL. APELAÇÕES CÍVEIS. EMPRÉSTIMO CONSIGNADO. SENTENÇA DE PROCEDÊNCIA. DEMONSTRAÇÃO DA IRREGULARIDADE DO CONTRATO. NÃO DESINCUMBÊNCIA DO ÔNUS PROBATÓRIO PELO BANCO. EXISTÊNCIA DE FALHA NA PRESTAÇÃO DOS SERVIÇOS. PROCEDÊNCIA MANTIDA. MAJORAÇÃO DA INDENIZAÇÃO POR DANOS MORAIS. NÃO CABIMENTO. VALOR PROPORCIONAL E RAZOÁVEL. DANOS MATERIAIS. COMPENSAÇÃO COM O VALOR RECEBIDO. IMPOSSIBILIDADE. PECULIARIDADE DO CASO CONCRETO. PRIMEIRO APELO CONHECIDO E PARCIALMENTE PROVIDO. SEGUNDO APELO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz violação ao art. 944 do CC, no que concerne à necessidade de majoração da indenização arbitrada à título de danos morais, tendo em vista que fixado em valor ínfimo, desproporcional e desarrazoado, trazendo a seguinte argumentação:
+23. Vale ressaltar que, no caso em debate, a Corte de origem não atendeu aos princípios da razoabilidade e da proporcionalidade, logo, estando clara a violação do art. 944 do CC ao ser mantido o ínfimo quantum indenizatório em R$ 3.000,00 (três mil reais).
+24. A jurisprudência desta Corte é dominante com relação quantum indenizatório, inclusive envolvendo casos similares, em arbitrar valores superiores para compensar os danos morais sofridos pelo ofendido. É sabido também que a revisão do quantum fixado a título de danos extrapatrimoniais, em sede especial, somente é possível quando o valor é ínfimo ou exorbitante, sendo neste caso, sem sombra de dúvida, data vênia, o valor de R$ 3.000,00 (três mil reais) manifestamente irrisório.
+ ..
+25. O v. Acórdão do TJMA, ora combatido, violou o conteúdo normativo do art. 944 do CC, haja vista que ao deixar de majorar o valor da indenização.
+26. Ademais, desconsiderou, por completo, a correta avaliação da extensão e integralidade do dano suportado pelo recorrente, bem como inobservou a proporcionalidade e razoabilidade diante do grave ato ilícito praticado pelo recorrido, ficando sem dar uma significativa resposta ao ofensor e, consequentemente, servir de desestimulo as rotineiras lesões perpetradas contra os consumidores.
+ ..
+b) ao enfrentar o mérito do apelo especial, acolhê-lo por contrariedade e negativa do art. 944 Do Código Civil decorrente da decisão colegiada prolatada no Acórdão de Id 34625758, fls. 406/411 (julgamento da Apelação Cível), para, assim, dar provimento ao presente recurso para reformar o acórdão no sentido de majorar o ínfimo quantum indenizatório arbitrado em R$ 3.000,00 (três mil reais) para um valor justo e de acordo os princípios da proporcionalidade e da razoabilidade conforme inteligência do dispositivo legal violado, por ser medida da mais lídima, salutar e correta aplicação do Direito e da Justiça (fls. 488-493).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Por consequência, o arbitramento da cifra indenizatória extrapatrimonial no valor de R$ 3.000,00 (três mil reais) apresenta-se suficiente para reparar o sofrimento suportado pela parte apelante, sendo, ao menos neste caso, proporcional e razoável, não merecendo reparo (fl. 412).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 8.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 27.8.2020; AgInt no AREsp 1.533.714/RN, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 28.8.2020; e AgInt no AREsp 1.533.913/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 31.8.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
