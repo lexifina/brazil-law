@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial manifestado por COMPANHIA DE SEGUROS PREVIDÊNCIA DO SUL (PREVISUL), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Paraná assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO DE ACIDENTES PESSOAIS COLETIVO. GARANTIA PARA INVALIDEZ PERMANENTE TOTAL OU PARCIAL POR ACIDENTE. SENTENÇA DE PARCIAL PROCEDÊNCIA. CONDENAÇÃO AO PAGAMENTO PROPORCIONAL AO GRAU DA INVALIDEZ. INSURGÊNCIA DO SEGURADO. PRETENSÃO DE RECEBIMENTO DO SEGURO NO VALOR INTEGRAL DA APÓLICE. CABIMENTO. RELAÇÃO SUJEITA AO CÓDIGO DE DEFESA DO CONSUMIDOR. AUSÊNCIA DE PROVAS DE CONHECIMENTO DOSEGURADO ÀS CONDIÇÕES DO SEGURO. PROPOSTA, APÓLICE, CERTIFICADO DE SEGURO E CONDIÇÕES GERAIS QUE NÃO VIERAM ASSINADOS PELO AUTOR. NÃO CONHECIMENTO DA LIMITAÇÃO DA INDENIZAÇÃO EM CASO DE INVALIDEZ PERMANENTE PARCIAL E DA UTILIZAÇÃO DA TABELA DA SUSEP. DEVER DE INFORMAÇÃO NÃO CUMPRIDO PELA SEGURADORA. IMPOSSIBILIDADE DE TRANSFERÊNCIA DA RESPONSABILIDADE À ESTIPULANTE. INTERPRETAÇÃO MAIS FAVORÁVEL AO SEGURADO. DIREITO À INDENIZAÇÃO NO VALOR INTEGRAL DA APÓLICE. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO (e-STJ, fl. 299).
+Os embargos de declaração opostos por PREVISUL foram rejeitados (e-STJ, fls. 342/350).
+Nas razões do presente recurso, PREVISUL alegou a violação dos arts. 489, II, IV, 757 e 1.022, II e III, todos do CPC; 3º, § 2º, 6º, III, 14, 30, 46 e 47, todos do CDC, ao sustentar que (1) houve omissão quanto a alegação de que MATEUS era representado por seu empregador, sendo desnecessário que PREVISUL avisasse-o de forma individual; (2) deveriam ser observados os limites de cobertura aos riscos predeterminados no contrato; (3) a aplicação do CDC não poderia acarretar a condenação ao pagamento de coberturas não contratadas; (4) no seguro de vida em grupo, a obrigação de informação da seguradora se dá via estipulante, e não individualmente para cada integrante do grupo segurado; e (5) em acórdão paradigma, o STJ entendeu que, constando o termo "até" no Certificado de Seguro, fica atendido o dever de informação, suficiente a justificar o pagamento da indenização conforme percentual de invalidez parcial (e-STJ, fls. 355/372).
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Dever de informação da seguradora
+A jurisprudência majoritária desta Corte Superior consagrou o entendimento de que o dever de prestar informação prévia ao segurado a respeito das cláusulas limitativas/restritivas nos contratos de seguro de vida em grupo é somente do estipulante e não da seguradora.
+A propósito, veja-se o precedente:
+RECURSO ESPECIAL REPETITIVO. CIVIL. SEGURO DE VIDA EM GRUPO E ACIDENTES PESSOAIS. CLÁUSULAS RESTRITIVAS. DEVER DE INFORMAÇÃO. EXCLUSIVIDADE. ESTIPULANTE. GARANTIA SECURITÁRIA. INVALIDEZ PERMANENTE TOTAL OU PARCIAL POR ACIDENTE (IPA). INDENIZAÇÃO SECURITÁRIA. INCAPACIDADE PARCIAL DEFINITIVA. VALOR DA INDENIZAÇÃO. PROPORCIONALIDADE. GRAU DE INVALIDEZ. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A controvérsia dos autos reside em definir se cabe à seguradora e/ou ao estipulante o dever de prestar informação prévia ao proponente (segurado) a respeito das cláusulas limitativas e restritivas dos contratos de seguro de vida em grupo.
+3. Teses para os fins do art. 1.040 do CPC/2015: (i) na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre, e (ii) não se incluem, no âmbito da matéria afetada, as causas originadas de estipulação imprópria e de falsos estipulantes, visto que as apólices coletivas nessas figuras devem ser consideradas apólices individuais, no que tange ao relacionamento dos segurados com a sociedade seguradora.
+4. Recurso especial não provido.
+(REsp n. 1.874.788/SC, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 2/3/2023, DJe de 10/3/2023 - sem destaque no original)
+Portanto, merece reforma o acórdão impugnado no ponto.
+Fica prejudicada a análise das demais violações apontadas.
+Nessas condições, DOU PROVIMENTO ao recurso especial, para determinar o retorno dos autos ao TJPR a fim de que prossiga no julgamento das razões da apelação à luz do entendimento de que incumbe exclusivamente à estipulante o dever de informar previamente ao segurado quanto ao teor das cláusulas restritivas da apólice.
+Inaplicável ao caso a majoração de honorários.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL E PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. CONTRATO DE SEGURO EM GRUPO. DEVER DE INFORMAÇÃO QUANTO ÀS CONDIÇÕES DA APÓLICE QUE DEVEM SER OBSERVADAS PELA ESTIPULANTE. ENTENDIMENTO MAJORITÁRIO DESTA CORTE. RETORNO DOS AUTOS AO TJPR PARA QUE PROSSIGA NO EXAME DAS RAZÕES DA APELAÇÃO. RECURSO ESPECIAL PROVIDO.
