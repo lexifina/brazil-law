@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por OSMAR CARDOSO DE OLIVEIRA - CALCADOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO INTERNO. JUSTIÇA GRATUITA. PESSOA JURÍDICA. PREPARO RECURSAL. 1- DECISÃO MONOCRÁTICA QUE INDEFERIU OS BENEFÍCIOS DA JUSTIÇA GRATUITA E DETERMINOU O RECOLHIMENTO DO PREPARO RECURSAL EM RAZÃO DE INTERPOSIÇÃO DE RECURSO DE APELAÇÃO. 2- GRATUIDADE PROCESSUAL QUE FOI NEGADA EM RAZÃO DE NÃO FICAR DEMONSTRADA A HIPOSSUFICIÊNCIA FINANCEIRA DA EMPRESA INTERESSADA DIANTE DA DOCUMENTAÇÃO ACOSTADA AOS AUTOS QUE DEMONSTRA A REALIZAÇÃO DE PROPOSTA PARA PAGAMENTO DE DÍVIDA. 3- DILAÇÃO PROBATÓRIA PREVISTA NO ARTIGO 99. § 2O DO CPC INAPLICÁVEL NO CASO CONCRETO PORQUE O INDEFERIMENTO DA GRATUIDADE PROCESSUAL DEU-SE EM RAZÃO DE APRECIAÇÃO DE DOCUMENTOS ACOSTADOS ANTERIORMENTE PELA PRÓPRIA EMPRESA. DECISÃO MONOCRÁTICA MANTIDA. RECURSO DE AGRAVO INTERNO NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 98 e 99 do CPC, no que concerne à necessidade de deferimento da benesse da gratuidade de justiça à parte recorrente, eis que, consoante circunstâncias relatadas no recurso, não possui condições de arcar com as despesas decorrentes do processo, trazendo a seguinte argumentação:
+É de se defender que, como integralmente exposto na defesa deste presente processo, a situação se deu exatamente pelo endividamento por motivos que não deram causa.
+De fato como se viu durante o processamento do mesmo ainda de veio a notória pandemia da COVID- 19 a qual terminou por deixarem frangalhos maior parte do comércio físico e presencial em nosso país.
+Aliás, por meses e meses a Agravante esteve de portas fechadas, como é incontroverso.
+Vide que o processo originário procedente exatamente pela impossibilidade de quitação de dívida pretérita de alugueres e acessórios.
+ ..
+Por isso que se entende e se busca demonstrar que a gratuidade judiciária pleiteada em sede de recurso, de fato se confunde com a matéria da própria apelação.
+Durante todo o processamento, a parte aqui recorrente, apresentou os elementos que demonstraram que durante imensos períodos nos quais houve restrição de suas atividades empresariais em função da pandemia do coronavírus em 2019, simplesmente não teve condições de faturar o mínimo capaz de arcar com funcionários tributos e despesas de locação e condomínio.
+ ..
+A pandemia não pode ser um passaporte para a gratuidade judiciária, mais o mínimo que o Estado tem de dívida com aqueles que abriram mão de seu faturamento em prol de um bem comum que o poder público fez exigir de todos os lojistas, é minimizar as exigências que faz no tocante à cobrança de custas e preparos para que possam manejar os recursos cabíveis e terem os seus direitos apreciados pelo poder judiciário (fls. 649-651).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+De fato, a agravante não demonstrou sua hipossuficiência financeira capaz de autorizar a concessão dos benefícios da justiça gratuita.
+Aliás, a argumentação aduzida pela ora recorrente em sede de recurso de apelação de que faz jus à "gratuidade judiciária no processamento do presente ante ao vultuoso valor da causa e o momento delicado que passa o comércio como um todo em todo o país e, mais especificamente, o comercio em Shopping Center" é deveras genérica, desprovida de fundamentação e inapta a autorizar a concessão da benesse pretendida.
+O conjunto fático-probatório dos autos, notadamente a documentação acostada a fls. 438/442 que demonstra uma proposta de pagamento de dívida feita pela ora agravante, não permite concluir que a empresa recorrente, ainda que enfrente dificuldades financeiras, esteja impedida de recolher o preparo recursal. De outra parte, não há falar em dilação de prazo para apresentação de documentos nesta fase processual. Esse, inclusive, é o entendimento adotado por este TRIBUNAL em re cente apreciação de caso análogo: (fls. 638-639).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
