@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus, sem pedido de liminar, impetrado em favor de JONATHAN BEJARANO, JOVANNY SANTANA, GLORIA YELITZA BEJARANO e ANA LORENA PITA CARDENAS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, no julgamento Apelação Criminal n. 0285250-82.2018.8.19.0001.
+Consta dos autos que os pacientes foram denunciados pela prática do crime previsto no art. 155, § 4º, IV, do Código Penal. A denúncia foi recebida em 18/12/2018. Concluída a instrução criminal em 26/08/2022, a pretensão punitiva estatal foi julgada improcedente para absolver os pacientes, ante a atipicidade material da conduta, com fulcro no artigo 386, III, do Código de Processo Penal (e-STJ fls. 15/17).
+Irresignado, o Ministério Público interpôs recurso de apelação, requerendo a condenação dos pacientes. Por unanimidade de votos, em 18/06/2024, o Tribunal de origem deu provimento ao apelo, para condenar os pacientes pela prática do crime previsto no artigo 155, § 4º, IV, do Código Penal, a cumprir a pena de 02 (dois) anos de reclusão, em regime inicialmente aberto, substituída a pena privativa de liberdade por duas restritivas de direitos.
+Neste writ, a Defesa sustenta a ocorrência da prescrição da pretensão punitiva, em relação a todos os pacientes, pois transcorridos mais de 04 (quatro) anos entre a data do recebimento da denúncia (18/12/2018) e o acórdão condenatório (18/06/2024), nos termos do art. 109, V, do Código Penal.
+Requer a concessão da ordem para declarar a extinção da punibilidade do fato pela ocorrência da prescrição da pretensão punitiva.
+Manifestação do Ministério Público Federal pela concessão da ordem (e-STJ fls. 47/49).
+É o relatório.
+DECIDO.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/06/2020, DJe de 25/08/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/03/2020, DJe de 02/04/2020, e AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/02/2020 - pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, por ser a prescrição punitiva estatal matéria de ordem pública, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No caso dos autos, os pacientes foram denunciados pela prática do crime previsto no art. 155, § 4º, IV, do Código Penal.
+A denúncia foi recebida em 18/12/2018 (e-STJ fls. 13/14).
+Concluída a instrução criminal, em 23/09/2022, a pretensão punitiva estatal foi julgada improcedente para absolver os pacientes, ante a atipicidade material da conduta, com fulcro no artigo 386, III, do Código de Processo Penal (e-STJ fls. 15/17).
+Em 18/06/2024, o Tribunal de origem deu provimento ao apelo para condenar os pacientes pela prática do crime previsto no artigo 155, § 4º, IV, do Código Penal, a cumprir a pena de 02 (dois) anos de reclusão, em regime inicialmente aberto, substituída a pena privativa de liberdade por duas restritivas de direitos (e-STJ fls. 18/30).
+Como não houve recurso do Ministério Público, passa-se a contar a prescrição a partir da pena fixada pelo Tribunal (CP, art. 110, § 1º), o que resulta em prazo prescricional de 04 (quatro) anos (CP, art. 109, V).
+Constata-se a fluência do prazo prescricional de 04 (quatro) anos entre as datas do recebimento da denúncia e da publicação do acórdão condenatório (05 anos e 06 meses), o que resulta na ocorrência da prescrição da pretensão punitiva estatal, na modalidade retroativa.
+Ante o exposto, não conheço do habeas corpus, no entanto, concedo a ordem, de ofício, para reconhecer a extinção da sua punibilidade decorrente da prescrição da pretensão punitiva estatal, na modalidade retroativa, nos termos dos arts. 109, V, e 117, I, do CP.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal de origem quanto ao Juízo de primeiro grau.
+Publique-se e intimem-se.
+EMENTA
