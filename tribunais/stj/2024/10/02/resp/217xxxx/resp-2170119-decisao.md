@@ -1,0 +1,51 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por LOURDES LORENZINI BRAIDO E OUTROS, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 378e):
+APELAÇÃO CÍVEL EMBARGOS À EXECUÇÃO FISCAL EMISSÃO DE NOTAS FISCAIS CONSIGNANDO DECLARAÇÃO FALSA QUANTO AO DESTINATÁRIO DAS MERCADORIAS Conjunto probatório que demonstra a ocorrência das infrações - Ausência de provas da regularidade das operações Presunção de legitimidade e veracidade do ato administrativo não ilidida Auto de Infração mantido - MULTA PUNITIVA Multa em valor superior a 100% do tributo devido que deve ser reduzida, ante seu caráter confiscatório - Precedentes do C. Supremo Tribunal Federal - Sentença parcialmente reformada - Recurso parcialmente provido.
+Opostos embargos de declaração, foram não providos (fl. 402e).
+Prolatados novos aclaratórios, foram rejeitados (fl. 417e).
+Com amparo no art. 105, III, a, da Constituição da República aponta-se ofensa a dispositivos legais, alegando, em síntese, que "ao contrário do que constou do v. Acórdão, não há que se falar que a Recorrente não teria trazido aos autos quaisquer provas que demonstrem a efetiva ocorrência das operações tal como descritas nas Notas Fiscais. Isso porque a venda dos Bois é fato incontroverso cuja informação foi mencionada no próprio Auto de Infração" (fl. 458e).
+Com contrarrazões, o recurso foi inadmitido, tendo sido interposto Agravo, posteriormente convertido em Recurso Especial.
+Feito breve relato, decido.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+- Da violação ao art. 136 do CTN
+Em relação ao dispositivo mencionado, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, limitando-se a parte recorrente em apontá-la de forma vaga, o que impede o conhecimento do recurso especial.
+Desse modo, em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, a orientação contida na Súmula 284 do Colendo Supremo Tribunal Federal, segundo a qual: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AÇÃO DE COBRANÇA. DÉBITO DE TERCEIRO. OBRIGAÇÃO DE NATUREZA PESSOAL. RESPONSABILIDADE DO CONSUMIDOR QUE EFETIVAMENTE UTILIZOU O SERVIÇO.
+1. O recurso especial não pode ser conhecido no tocante à alegada ofensa à Resolução ANEEL 456/00. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Hipótese em que incide a Súmula 284/STF, por deficiência na fundamentação.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 401.883/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/02/2014, DJe 18/02/2014).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO COMPROVAÇÃO DE QUE FOI INTERPOSTO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+3. No que tange à apontada violação do art. 292 do Código de Processo Civil, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 441.462/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/02/2014, DJe 07/03/2014).
+- Da comprovação das operações
+O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou que não tendo a embargante se desincumbindo do ônus a ela imposto de demonstrar, de forma suficiente, a regularidade das operações fiscais em questão, merece ser mantida a autuação ora impugnada, nos seguintes termos (fls. 385/386e):
+No caso concreto, está demonstrado que à época das operações mercantis a empresa adquirente ostentava situação regular perante o Fisco. As operações foram realizadas em janeiro de 2003 (fl. 42) e o documento de fl. 57 demonstra que apenas em agosto de 2006 é que foi publicada a cassação da inscrição estadual da empresa destinatária das mercadorias, com efeitos a partir de 03.02.2002.
+É certo que a posterior cassação da inscrição estadual da empresa adquirente feita pelo Fisco transfere ao contribuinte que com ela contratou a obrigação de demonstrar a regularidade das transações e que agiu de boa-fé, especialmente considerando que, no caso dos autos, a fiscalização concluiu pela simulação do estabelecimento da empresa adquirente.
+Caso seja demonstrado que as transações efetivamente ocorreram e que o contribuinte agiu de boa-fé, ele não deve ser penalizado.
+Contudo, no caso dos autos, é forçosa a conclusão de que essa prova não foi suficientemente realizada pela embargante.
+Isso porque a embargante não trouxe aos autos quaisquer provas que demonstrem a efetiva ocorrência das operações tal como descritas nas Notas Fiscais, não tendo sido demonstrado o pagamento pela aquisição das mercadorias.
+Não bastasse isso, consta das próprias Notas Fiscais autuadas (fls. 48/50) que o gado bovino seria abatido na "Frigol Comercial Ltda.", isto é, em estabelecimento distinto daquele que figurou como o adquirente das mercadorias ("Frigorífico São Matheus Ltda.").
+Assim, não tendo a embargante se desincumbindo do ônus a ela imposto de demonstrar, de forma suficiente, a regularidade das operações fiscais em questão, merece ser mantida a autuação ora impugnada.
+Os atos administrativos gozam de presunção de legalidade, legitimidade e veracidade, de forma que somente devem ser anulados quando ilidida tal presunção.
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal de que as transações efetivamente ocorreram e o contribuinte agiu de boa-fé, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+- Dos honorários recursais
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixaç ão em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18.05.2017), embora tal elemento possa influir na sua quantificação.
+Assim, nos termos do art. 85, §§ 3º e 11, de rigor a majoração em 2% (dois por cento) do percentual dos honorários anteriormente fixado, observados os percentuais mínimos/máximos de acordo com o montante a ser apurado em liquidação.
+- Do dispositivo
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial, majorados os honorários nos termos expostos.
+Publique-se e intimem-se.
+EMENTA
