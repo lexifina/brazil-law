@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de habeas corpus, substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de MATHEUS VINICIUS FONSECA MORAIS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ proferido no julgamento do HC n. 0007596-77.2024.8.16.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante, em 31/1/2024, convertida em prisão preventiva, pela suposta prática do crime disposto no art. 16, caput, da Lei n. 10.826/03 (porte ilegal de arma de fogo de uso restrito).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PLEITO PELA REVOGAÇÃO DA PRISÃO PREVENTIVA. ARGUMENTO DE DECISÃO GENÉRICA E DESPROVIDA DE FUNDAMENTO IDÔNEO. NÃO ACOLHIMENTO. PRESENÇA DO FUMUS EXISTÊNCIA DE INDÍCIOS SUFICIENTES DE COMMISSI DELICTI. AUTORIA E PROVA DA MATERIALIDADE. PERICULUM LIBERTATIS DEMONSTRADO. PRISÃO PREVENTIVA JUSTIFICADA PARA GARANTIADA ORDEM PÚBLICA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. PRECEDENTES. PEDIDO DE APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. PRESENÇA DOS REQUISITOS PARA MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. INEXISTÊNCIA DECONSTRANGIMENTO ILEGAL. ARGUIÇÃO DE NULIDADE DA DECISÃOQUE AUTORIZOU A QUEBRA DE SIGILO TELEFÔNICO, POR AUSÊNCIADE FUNDAMENTAÇÃO. INOCORRÊNCIA. FUNDAMENTAÇÃO SUFICIENTE PARA DEMONSTRAR A IMPRESCINDIBILIDADE DAMEDIDA. OBSERVÂNCIA DO PREVISTO NO ART. 93, IX, E ART. 5º, XII, AMBOS DA CONSTITUIÇÃO FEDERAL, E DO ART. 1º, PARÁGRAFO ÚNICO, DA LEI Nº 9.296/96. ILEGALIDADE NÃO EVIDENCIADA. ORDEM CONHECIDA E DENEGADA" (fl. 21).
+No presente writ, a defesa aponta ausência dos requisitos autorizadores da prisão preventiva previstos no art. 312 do Código de Processo Penal - CPP, de modo que a imposição da custódia cautelar não estaria suficientemente justificada e pautada exclusivamente na gravidade abstrata do delito.
+Argumenta que o paciente conta com condições pessoais favoráveis.
+Pondera pela suficiência da aplicação das medidas cautelares diversas da prisão (art. 319 do CPP).
+Aduz que, caso seja condenado, o paciente cumprirá pena em regime diverso do fechado, o que torna desproporcional a aplicação da medida extrema.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva do paciente, ainda que mediante a aplicação de medidas cautelares diversas da prisão.
+O pedido liminar foi indeferido (fls. 58/60), as informações foram prestadas (fls. 65/67), e o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem (fls. 70/75).
+É o relatório.
+Decido.
+Em consulta à página eletrônica do Tribunal de origem, constata-se que, em 24/7/2024, nos autos da Ação Penal n. 0000164-11.2024.8.16.0128, foi proferida sentença condenando o paciente às penas de 4 anos e 1 mês de reclusão e 8 meses de detenção, em regime inicial fechado , pela prática dos delitos previstos no art. 309 do Código de Trânsito Brasileiro, art. 329 do CP, e art. 16 da Lei n. 10.826/03, sendo negado o recurso em liberdade, mantendo-se a prisão preventiva.
+Assim, a notícia da superveniência de sentença condenatória durante a tramitação do presente writ implica na perda do objeto da irresignação.
+A despeito de posicionamento anterior desta Quinta Turma do Superior Tribunal de Justiça, a Corte tem evoluído a orientação para entender que o advento de sentença condenatória resulta na prejudicialidade do writ que pretende a revogação da segregação, por constituir novo título a justificar a manutenção da custódia processual do paciente, cujos fundamentos devem ser impugnados por via própria, caso assim entenda a defesa. Em corroboração, cito precedentes desta Corte Superior:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. PROCESSUAL PENAL. INSURGÊNCIA CONTRA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO ATO COATOR QUE DESAFIA IMPUGNAÇÃO PRÓPRIA. AGRAVO NÃO PROVIDO.
+1. A superveniência de um novo título judicial, decisão exarada pelo Juízo de primeiro grau, em consonância com o que determina o § 1º do art. 387 do Código de Processo Penal, com a redação que lhe foi dada pela Lei n. 12.736/2012, prejudica a impetração voltada à impugnação do decreto prisional original.
+2. No caso, o surgimento de novo título judicial a amparar prisão preventiva do agravante - a saber: a sentença condenatória - prejudica a análise do objeto da presente impetração, que se insurgia contra a ordem de custódia cautelar original.
+3. Agravo regimental não provido.
+(AgRg no AgRg no HC n. 890.403/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. DECISÃO MONOCRÁTICA. TRÁFICO DE DROGAS. ILICITUDE DAS PROVAS E DA PRISÃO EM FLAGRANTE POR SUPOSTA INVASÃO DE DOMICÍLIO. PESQUISA NO SITE DA CORTE DE ORIGEM. SUPERVINIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. PERDA DO OBJETO. PREJUDICIALIDADE. APELAÇÃO PENDENTE DE JULGAMENTO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+No caso, em consulta à página eletrônica do Tribunal de Justiça do Estado do Mato Grosso do Sul, verificou-se que já foi proferida sentença condenatória na presente ação penal, circunstância que revela a perda do objeto do mandamus em apreço. Precedentes.
+Agravo regimental não conhecido.
+(AgRg no HC n. 798.863/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS JULGADO PREJUDICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUPERVENIENTE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. PERDA DO OBJETO. PRECEDENTES.
+1. Sobrevindo decisão condenatória, o pedido em que se busca a revogação da prisão preventiva anteriormente decretada ou a substituição por outras medidas cautelares está prejudicado, pois, consoante iterativa jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença condenatória recorrível constitui novo título a justificar a custódia cautelar, devendo os seus fundamentos ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, vedada a supressão de instância.
+2. Agravo regimental improvido.
+(AgRg no RHC n. 158.359/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022.)
+Pelo exposto, com fundamento art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
