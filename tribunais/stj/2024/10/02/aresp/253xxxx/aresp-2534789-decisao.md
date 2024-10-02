@@ -1,0 +1,33 @@
+DECISÃO
+T rata-se de agravo nos próprios autos interposto contra decisão que inad mitiu o recurso especial devido à deserção (e-STJ fls. 457/458).
+Nas razões deste agravo (e-STJ fls. 461/472), a parte sustenta que:
+(i) "o comprovante acostado aos autos de fls. 423, foi emitido pelo Banco Bradesco após a guia ter sido paga em caixa eletrônico da Instituição Bancária citada. Não é lógico e correto prejudicar os agravantes em razão da forma pela qual o Banco imprime seus comprovantes de pagamento. De fato, faltaram os últimos dígitos do código de barras, no entanto, os agravantes ao procurarem o Banco Bradesco na época do despacho de fls. 453, foram informados que o Sistema do Banco era o mesmo para todos os clientes e que todos os comprovantes emitidos pelos caixas eletrônicos usavam o mesmo padrão, não tendo como serem alterados" (e-STJ fls. 463/464);
+(ii) "porém, respeitosamente e em nome da boa-fé processual, os agravantes, extremamente preocupados com a insistência do Juízo de 2º grau em desconfiar da veracidade do comprovante apresentado, procuraram pelo departamento jurídico do Banco Bradesco em 25/09/2023, o qual de maneira célere, conseguiu o comprovante com o código de barras completo emitido pela instituição bancária e que juntam aos autos juntamente com o presente agravo" (e-STJ fl. 464).
+Contraminuta apresentada às fls. 477/506 (e-STJ).
+É o relatório.
+Decido.
+O Tribunal de origem inadmitiu o recurso especial com base nos seguintes fundamentos (e-STJ fl. 457):
+Apresentado o recurso sob a égide do CPC atual, foram os recorrentes intimados a regularizar o preparo, uma vez que o código de barras do comprovante de pagamento estava incompleto, nos termos do art. 1.007, §4º  .. . No entanto, limitaram-se a peticionar nos autos, (fls. 455/456, afirmando estar o comprovante com o código de barras completo, porém como se pode observar no comprovante de fls. 423, faltam os 14 últimos números do código de barras, forçoso reconhecer a deserção, nos termos do art. 1.007 do CPC.
+Conforme despacho à fl. 453 (e-STJ), após a interposição do recurso especial (e-STJ fls. 398/423), a Corte local determinou a intimação da parte para regularização do recolhimento do preparo, "com a juntada do comprovante de pagamento que contenha o código de barras completo e igual ao da guia de recolhimento, uma vez que o documento apresentado se encontra incompleto, nos termos do artigo 1.007, § 7º, do CPC. Na impossibilidade, recolha o valor devido, em dobro, no prazo de 5 (cinco) dias, sob pena de deserção (§ 4º do mesmo dispositivo legal)".
+Na petição de fls. 455/456 (e-STJ), a parte não comprovou a regularidade do pagamento, tampouco promoveu o recolhimento do preparo em dobro, alegando tão somente que, "pelo expresso no documento de fls. 453, tais informações se encontram devidamente apresentadas" (e-STJ fl. 457).
+Dessa forma, o entendimento adotado pelo Tribunal a quo encontra-se em consonância com a orientação deste Tribunal Superior, porquanto ""é firme a jurisprudência desta Corte no sentido de que a divergência entre o número do código de barras da guia de recolhimento e o comprovante bancário demonstra irregularidade no preparo do recurso especial, tornando-o, portanto, deserto" (AgInt no AREsp n. 2.498.044/BA, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024)" (AgInt no AREsp n. 2.524.509/RJ, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/6/2024, DJe de 26/6/2024). Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE ALIMENTOS - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO ANTE O ÓBICE DA SÚMULA 187/STJ. INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. O entendimento sedimentado nesta Corte Superior aponta a necessidade de juntada das guias de recolhimento e dos comprovantes de pagamento, para fins de prova da realização do preparo, no ato de interposição do recurso especial, sob pena de deserção, atraindo a aplicação da Súmula 187/STJ.
+1.1. Intimada a recolher em dobro as custas recursais, a parte não juntou documento hábil a provar a complementação do preparo, que era devido em dobro, nos termos do art. 1.007, § 4º, do CPC/2015.
+1.2. "Documento sem a sequência numérica do código de barras ou com o código de barras ilegível não é apto para comprovar o pagamento das custas devidas ao STJ, tendo em vista a impossibilidade de comparação com os dados constantes da guia de recolhimento apresentada." (AgInt no AREsp n. 2.380.168/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/11/2023, DJe de 16/11/2023).
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.491.418/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/6/2024, DJe de 6/6/2024.)
+Além disso, a jurisprudência do STJ compreende que "é deserto o recurso dirigido a esta Corte se a parte não comprova, adequada e tempestivamente, o recolhimento do preparo recursal, a despeito de haver sido regularmente intimada  .. . A juntada posterior de comprovante de pagamento de custas não é capaz de superar a deserção em razão da preclusão consumativa" (AgInt nos EREsp n. 1.848.579/CE, Relator Ministro Benedito Gonçalves, Corte Especial, julgado em 27/9/2022, DJe de 3/10/2022).
+No mesmo sentido:
+AGRAVO INTERNO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DO PREPARO NO ATO DA INTERPOSIÇÃO. INTIMAÇÃO DA PARTE PARA EFETUAR A REGULARIZAÇÃO. PRAZO NÃO CUMPRIDO. DESERÇÃO CARACTERIZADA.
+1. A ausência do número de código de barras no comprovante de pagamento bancário caracteriza irregularidade no preparo do recurso especial, tornando-se, portanto, deserto.
+2. Ainda que se considerasse a possibilidade da regularização do preparo em momento posterior à interposição do recurso a ele inerente, o recorrente somente o fez após o prazo estabelecido no art. 1.007, § 4º, do CPC. É incabível, assim, a regularização, em razão da preclusão consumativa.
+3. Considera-se deserto o recurso quando a parte, mesmo após intimada a regularizar o preparo, não o faz devidamente. Incidência da Súmula n.º 187 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl nos EREsp n. 1.563.122/RS, Relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 24/10/2023, DJe de 30/10/2023.)
+Havendo posicionamento dominante sobre o tema, aplica-se a Súmula n. 83/STJ.
+Por conseguinte, não há como afastar a deserção verificada.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Deixo de majorar os honorários advocatícios, na forma do art. 85, § 11, do CPC/2015, pois fixados no máximo legal nas instâncias originárias, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
