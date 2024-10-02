@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, suscitado por CONTAX S/A, atual denominação de LIQ CORP S.A, integrante do GRUPO ATMA - EM RECUPERAÇÃO JUDICIAL, em face do d. Juízo da 1ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo/SP e do eg. Tribunal Regional do Trabalho da 4ª Região.
+Diz a inicial que a suscitante está submetida a processo de recuperação judicial em trâmite perante o d. Juízo Cível e que o eg. Tribunal do Trabalho promoveu a continuidade de execução trabalhista, determinando a liberação ao exequente de depósitos recursais feitos pela recuperanda (na fl. 21/26).
+Sustenta que a decisão suscitada usurpa a competência exclusiva do Juízo da Recuperação Judicial na disposição dos bens e ativos da Recuperanda, o que caracteriza conflito de competência.
+Requer, em sede de liminar, a suspensão da decisão do d. Juízo exequente suscitado e, no mérito, seja declarada a competência do d. Juízo da Recuperação Judicial.
+A liminar foi parcialmente deferida.
+As informações foram apresentadas.
+O Ministério Público Federal opina pela declaração da competência do Juízo da Recuperação Judicial.
+É o relatório.
+Passo a decidir.
+O conflito positivo de competência está caracterizado.
+Com efeito, de acordo com a Lei 11.101/2005, estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos (art. 49), bem como que a aprovação do plano de recuperação judicial implica novação automática de todas as antigas obrigações do devedor (art. 59) que, extintas, são substituídas por aquelas previstas no indigitado plano, sem prejuízo das garantias (REsp n. 1.655.705/SP), o que conduz à conclusão de que a submissão de um determinado crédito à Recuperação Judicial não depende de provimento judicial anterior ou contemporâneo ao pedido, bastando que se refira a obrigações contraídas anteriormente a ele.
+Assim, esta Corte tem decidido que o crédito derivado de atos praticados em período anterior ao pedido de recuperação judicial, concursal, portanto, deve se submeter à forma de satisfação preconizada perante o Juízo universal, a despeito de a decisão condenatória eventualmente ter sido proferida em momento posterior (AgInt no CC 152.900/SP).
+Nessa esteira, a jurisprudência do Superior Tribunal de Justiça considera ser da competência precípua do Juízo "singular" apenas a apreciação e julgamento das ações versando sobre a apuração de créditos requeridos em face de empresas falidas ou em recuperação judicial, mas que os valores apurados, ainda que relativos a anteriores depósitos recursais ou penhoras, deverão ser habilitados, conquanto de forma retardatária, no Juízo "universal" para posterior pagamento (AgInt nos EDcl no CC n. 165.079/SP).
+Com efeito, o crédito líquido concursal (art. 49 da Lei 11.101/2005) não habilitado em tempo deverá ser recebido na Recuperação Judicial na condição de habilitação retardatária, sendo da competência do respectivo Juízo estabelecer, em harmonia com o plano de soerguimento, a forma como será satisfeito. (CC 114.952/SP).
+Logo, embora se reconheça que a) penhoras, depósitos recursais e decretos de indisponibilidade de bens feitas nas fases liminares da ação de conhecimento tenham caráter predominantemente acautelador, só eventualmente afetando a consecução do plano de recuperação judicial; é entendimento uníssono que, b) tornado o crédito trabalhista líquido e certo, c) deve o respectivo Juízo se resumir a expedir certidão de habilitação do débito na recuperação judicial, revogando os atos constritivos, e não dar perenidade a tais atos que, nessa fase processual, pós certificação do direito, caso dos autos, representa típica prática de execução, atividade de exclusiva competência do Juízo recuperacional.
+Ante o exposto, conheço do conflito e declaro competente o Juízo da 1ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo/SP.
+Publique-se.
+EMENTA
