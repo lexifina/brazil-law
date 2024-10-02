@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interno interposto por MICHELE VIEIRA SCARABELI LIDOVINO contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial, em face da incidência das Súmulas 282 e 356 do STF (e-STJ fls. 381/383).
+Sustenta a parte recorrente, em suma, que o requisito do prequestionamento foi atendido quando houve a oposição de embargos de declaração, visando fosse sanada omissão "no sentido de que o pedido de dano moral que foi rejeitado considerou cobrança indevida, quando na verdade, em inicial, foi esclarecida a falha na prestação dos serviços." (e-STJ fl. 392).
+Assim, pleiteia a anulação do aresto recorrido por violação do art. 489, §1º, incisos III e IV, do Código de Processo Civil.
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma .
+Decorrido o prazo legal, o agravado não apresentou impugnação.
+Passo a decidir.
+A agravante tem razão, pelo que exerço o juízo de retratação e passo à reanálise da insurgência.
+Trata-se de agravo interposto por MICHELE VIEIRA SCARABELI LIDOVINO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 273):
+RECURSO - APELAÇÃO CÍVEL - PRESTAÇÃO DE SERVIÇOS - TELEFONIA - AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO DE DANOS MORAIS E MATERIAIS. AUTORA OBJETIVANDO A OBRIGAÇÃO DE FAZER PARA QUE A REQUERIDA RESTABELEÇA SUA LINHA TELEFÔNICA E AINDA A DEU DA INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INDENIZAÇÃO POR DANOS MATERIAIS. IMPOSSIBILIDADE. AUSÊNCIA DE COMPROVAÇÃO DE DANO NO PRESENTE CASO. REQUERENTE NÃO DEMONSTROU O EFETIVO CANCELAMENTO DA LINHA TELEFÔNICA, PORTANTO, DEVIDA A CONTRAPRESTAÇÃO PELO USO. DANO MORAL. DANO MORAL NÃO CONFIGURADO. NO CASO, OS FATOS NARRADOS NÃO ALCANÇAM A CATEGORIA DE DANO MORAL A SER INDENIZADO. MEROS TRANSTORNOS, NO PRESENTE CASO. QUE NÃO ULTRAPASSARAM DISSABORES DO COTIDIANO. INDENIZAÇÃO INDEVIDA. PROCEDÊNCIA PARCIAL NA ORIGEM SENTENÇA MANTIDA. RECURSO DE APELAÇÃO DA REQUERENTE NÃO PROVIDO, MAJ ORADA A VERBA HONORÁRIA DEVIDA AO PATRONO DA REQUERIDA, COM OBSERVAÇÃO, LASTREADO NO ARTIGO S5, PARÁGRAFO 11, DO CÓDIGO DE PROCESSO CIVIL.
+Embargos de declaração rejeitados (e-STJ fls. 281/284).
+No recurso especial obstaculizado, a parte recorrente apontou violação do art.. 489, § 1º, III e IV, do CPC/2015, aduzindo, em suma, a nulidade do julgado por ausência de fundamentação e por negativa de prestação jurisdicional, por ter o Tribunal de origem julgado a controvérsia relativa à indenização por dano moral com base em cobrança indevida da fatura do serviço de telefonia quando, na inicial, postulou aquela condenação por falha na prestação do serviço (e-STJ fls. 287/296).
+Sem contrarrazões (e-STJ fl. 300).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+A pretensão não merece prosperar.
+Em relação à alegada ofensa do art. 489 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+No caso, o Tribunal a quo manifestou-se no acórdão integrativo sobre a omissão na apreciação do pedido de condenação por danos morais pela falha na prestação de serviço essencial (telefonia), ao assinalar, ainda que de modo sucinto, que não havia direito à "indenização por danos morais de qualquer ordem, posto que não evidenciados nos autos." (e-STJ fl. 283).
+Esta Corte Superior entende que não há ofensa ao s arts. 489 e 1.022 do CPC/2015 quando a Corte de origem, embora de forma sucinta, manifesta-se de forma clara e fundamentada sobre a matéria posta em debate para o deslinde da controvérsia.
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. OBRIGAÇÃO DE FAZER E DANOS MORAIS. COMPANHIA DE ENRGIA ELÉTRICA. ALEGAÇÃO DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. REJEIÇÃO. ILEGITIMIDADE PASSIVA. AUSÊNCIA DE PREQUESTIONAMENTO. REDUÇÃO DO VALOR FIXADO A TÍTULO DE DANOS MORAIS. ÓBICE DA SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Inexiste vício formal ou carência de fundamentação no acórdão que decide integralmente a lide, apontando expressamente as razões de decidir, ainda que de forma sucinta. A decisão contrária ao interesse da parte não consubstancia error in procedendo que justifique o acolhimento da alegação de afronta aos arts. 489 e 1.022 do CPC/2015.
+(..)
+4. Recurso desprovido.
+(AgInt no AREsp 2.208.548/RJ, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 17/6/2024, DJe de 21/6/2024.).
+ADMINISTRATIVO. PROCESS UAL CIVIL. AGRAVO INTERNO NO RESURSO ESPECIAL. RESPONSABILIDADE CIVIL. POLUIÇÃO AMBIENTAL. OMISSÃO DO ACÓRDÃO ESTADUAL AFASTADA. OPERAÇÃO IRREGULAR DA ESTAÇÃO DE TRATAMENTO DE ESGOTO. DEVER DE INDENIZAR. NEXO CAUSAL. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Não se vislumbra, na hipótese, que o v. acórdão recorrido padeça de qualquer dos vícios descritos nos arts. 489, § 1º, e 1.022, II, do CPC. Com efeito, o órgão julgador apreciou, com coerência, clareza e devida fundamentação, as teses suscitadas pelo jurisdicionado. A propósito, observa-se que o Colegiado a quo se manifestou expressamente acerca dos temas necessários à integral solução da lide; não é legítimo confundir a fundamentação deficiente com a sucinta, porém suficiente, mormente quando contrária aos interesses da parte.
+(..).
+3. Agravo interno não provido.
+(AgInt no REsp 1.996.866/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/8/2022, DJe de 18/8/2022.).
+Conferir, ainda: AgInt no AREsp 2.008.272/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023, e AgInt no AgInt no AREsp 1.647.183/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/4/2021, DJe de 28/4/2021.
+Ante o exposto, RECONSIDERO a decisão agravada e, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
