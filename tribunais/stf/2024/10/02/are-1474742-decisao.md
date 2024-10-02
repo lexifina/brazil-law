@@ -1,0 +1,95 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Superior Eleitoral, ementado nos seguintes termos:
+
+    “ELEIÇÕES 2022. RECURSO INOMINADO. REPRESENTAÇÃO. PROPAGANDA ELEITORAL IRREGULAR. INTERNET. DESINFORMAÇÃO. FATOS MANIFESTAMENTE INVERÍDICOS. REMOÇÃO DAS PUBLICAÇÕES. APLICAÇÃO DA MULTA PREVISTA NO ART. 57-D DA LEI 9.504/1997. POSSIBILIDADE. ART. 16 DA CONSTITUIÇÃO FEDERAL. NÃO INCIDÊNCIA. MULTA. VALOR. PROPORCIONALIDADE. DESPROVIMENTO. 1. O art. 57-D da Lei 9.504/1997 não restringe, de forma expressa, qualquer interpretação no sentido de limitar sua incidência aos casos de anonimato, de forma que é possível ajustar a exegese à sua finalidade de preservar a higidez das informações divulgadas na propaganda eleitoral, ou seja, alcançando a tutela de manifestações abusivas por meio da internet – incluindo-se a disseminação de fake news tendentes a vulnerar a honra de candidato adversário – que, longe de se inserirem na livre manifestação de pensamento, constituem evidente transgressão à normalidade do processo eleitoral. Precedentes. 2. A equivocada indicação, na petição inicial, do dispositivo legal aplicável não impede que o Órgão Julgador, observando os limites da narrativa fática, proceda à sua adequada capitulação jurídica, na linha da orientação jurisprudencial do TRIBUNAL SUPERIOR ELEITORAL, no sentido de que “os limites do pedido são demarcados pela ratio petendi substancial, vale dizer, segundo os fatos imputados à parte passiva, e não pela errônea capitulação legal que deles se faça” (Ag 3.066, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 17/5/2002). 3. O entendimento veiculado na decisão monocrática se mostra passível de aplicação imediata, não se submetendo ao princípio da anualidade, previsto no art. 16 da Constituição Federal, tendo em vista a circunstância de que a interpretação conferida pelo ato decisório recorrido não implica mudança de compreensão a respeito do caráter lícito ou ilícito da conduta, mas, sim, somente quanto à extensão da sanção aplicada, o que não apresenta repercussão no processo eleitoral e nem interfere na igualdade de condições dos candidatos. 4. Tratando-se de conduta já considerada ilícita pelo ordenamento jurídico, os autores do comportamento ilegal não dispõem de legítima expectativa de não sofrer as sanções legalmente previstas, revelando-se inviável a invocação do princípio da segurança jurídica com a finalidade indevida de se eximirem das respectivas penas. 5. O Plenário do TRIBUNAL SUPERIOR ELEITORAL, no julgamento do Recurso na Representação 0601754-50, Rel. Min. ALEXANDRE DE MORAES, analisando a matéria controvertida, estabeleceu diretriz interpretativa a ser adotada para as Eleições 2022, inexistindo decisões colegiadas desta CORTE que, no âmbito do mesmo pleito eleitoral, veiculem conclusão em sentido diverso. 6. Descabe a aplicação dos princípios da razoabilidade e da proporcionalidade para diminuir o valor da penalidade aplicada, uma vez que o critério utilizado para a sua fixação foi o substancial alcance do conteúdo veiculado, o que potencializou sobremaneira o efeito nocivo da propagação da fake news. 7. Recurso Inominado desprovido” (eDOC 61 – ID: 7cb5c365, p. 21-22)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, IV e IX; 16; e 220, do texto constitucional.
+
+    Nas razões recursais, alega-se que o vídeo divulgado com críticas ao Partido dos Trabalhadores menciona posicionamentos assumidos publicamente pela legenda e alguns de seus integrantes (eDOC 76 – ID: c313aa26, p. 17).
+
+    Sustenta-se que o conteúdo do vídeo impugnado demonstra, portanto, simples crítica protegida pela garantia constitucional da liberdade de manifestação e pensamento (eDOC 76 – ID: c313aa26, p. 17).
+
+    Argumenta-se a necessidade de se preservar a liberdade de expressão que garante ao eleitor um espaço de debate público apto para o exercício pleno de escolha de seu candidato, pressuposto para o bom funcionamento da democracia, que apenas se desenvolve em um ambiente de total visibilidade e possibilidade de exposição crítica das mais variadas opiniões sobre os governantes (eDOC 76 – ID: c313aa26, p. 22).
+
+    Aduz-se, ainda, que não será toda e qualquer crítica que terá o condão de configurar conteúdo ilícito apto a ensejar a atuação da Justiça Eleitoral, sob risco de restar vulnerada a liberdade de expressão, que admite ampla emissão de opiniões e comentários, visando à democratização dos debates no ambiente eleitoral (eDOC 76 – ID: c313aa26, p. 24).
+
+    Por fim, alega-se a ocorrência de viragem jurisprudencial e, consequentemente, a ofensa ao tema 564 da repercussão geral.
+
+    Argumenta-se que o entendimento ora guerreado representou uma repentina quebra do princípio da confiança porque desconsiderou que (a) a multa prevista no art. 57-D da Lei das Eleições “é restrita à hipótese em que a propaganda for divulgada por pessoa não identificada, ou seja, “não sendo anônima a postagem de vídeo em página da rede social Facebook (na qual se veiculou vídeo em tese ofensivo a candidato), descabe sancionar o agravante com base no referido dispositivo” [...] e que (b) “ultimado o período de propaganda eleitoral, a competência para a remoção de conteúdos da internet passa a ser da Justiça Comum, deixando as ordens judiciais proferidas por este Tribunal de produzir efeitos, nos termos do § 6º do art. 33 da Res.-TSE 23.551 (eDOC 76 – ID: c313aa26, p. 28).
+
+    É o relatório.
+
+    Decido.
+
+    A irresignação não merece prosperar.
+
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (art. 57-D da Lei nº 9.504/1997) e o conjunto probatório constante dos autos, consignou que os vídeos veiculados pelo candidato à Presidência da República, Jair Messias Bolsonaro, e por Roberto de Souza Rocha consistiam em inverdades sobre práticas e opiniões políticas do Partido dos Trabalhados e do também candidato Luís Inácio Lula da Silva, de maneira a reconhecer a disseminação de “fake news” e, consequentemente, a necessidade de se aplicar as sanções correspondentes
+
+    Ato contínuo, consignou que a multa prevista no art. 57-D da Lei nº 9.504/1997 é perfeitamente aplicável à hipótese, tendo em vista o evidente caráter abusivo das condutas e a necessidade de assegurar a lisura do pleito eleitoral.
+
+    Por fim, registrou que o caráter ilícito das condutas narradas nos autos sempre foram reconhecidas pelo Tribunal Superior Eleitoral, não havendo, portanto, ofensa à previsibilidade e à segurança jurídica no que se refere às regras para as eleições de 2022.
+
+    Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+
+    “No caso, a notícia veiculada pelo Candidato Jair Messias Bolsonaro e por Roberto de Souza Rocha se descola da realidade, por meio de inverdades, ao afirmar que o candidato Luis Inácio Lula da Silva, assim como o Partido dos Trabalhadores, seriam favoráveis à implantação de banheiro unissex nas escolas, bem como do aborto e da liberação das drogas.
+
+    Trata-se da veiculação de informação inverídica tendente a desinformar a população acerca de temas sensíveis à população, que exigem ampla discussão, e sobre a qual, pretende conquistar o eleitorado contrário a matérias tão polêmicas, em evidente prejuízo de seu adversário, inclusive com a checagem realizada demonstrando a falsidade das informações.
+
+    Desse modo, extrai-se dos elementos contidos nos autos que a propaganda ora analisada evidencia a divulgação de fato sabidamente inverídico, que não pode ser tolerada por esta CORTE, notadamente por se tratar de notícia falsa divulgada durante o 2º turno da eleição presidencial.
+
+    Assim, reafirmada a conclusão quanto à ilicitude do conteúdo impugnado, passa-se a aferir a viabilidade jurídica da imposição de multa e de remoção definitiva.
+
+    Na hipótese, o vídeo impugnado foi publicado na rede social em 16/10/2022, ou seja, no período eleitoral concernente ao segundo turno das Eleições para o cargo de Presidente da República. Além disso, a imagem de idêntico conteúdo foi postada no dia 13 igualmente, portanto, no momento crítico da campanha em curso. Por essa razão, não se revela viável a incidência, tal como requerido pela autora da Representação, do artigo 36 da Lei 9.504/97, uma vez que o dispositivo concerne à tutela de propaganda eleitoral antecipada, não possuindo pertinência temática com o caso concreto.
+
+    Porém, nada obstante a ausência de enquadramento no dispositivo indicado na petição inicial, mostra-se plenamente viável ao TRIBUNAL SUPERIOR ELEITORAL proceder à adequada qualificação jurídica dos fatos, uma vez que, conforme a orientação jurisprudencial desta CORTE, "os limites do pedido são demarcados pela ratio petendi substancial, vale dizer, segundo os fatos imputados à parte passiva, e não pela errônea capitulação legal que deles se faça" (Ag. 3.066, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 17/5/2002).
+
+    Desse modo, por se tratar de abuso na liberdade de expressão ocorrido por meio de propaganda veiculada pela internet, melhor se ajusta ao caso o art. 57-D da Lei 9.504/1997 (...)
+
+    Não se ignora que, ao interpretar o dispositivo, a jurisprudência desta CORTE, para eleições anteriores, firmou o entendimento no sentido de que a multa nele prevista é restrita à hipótese em que a propaganda é divulgada por pessoa não identificada, ou seja, “não sendo anônima a postagem de vídeo em página da rede social Facebook (na qual se veiculou vídeo em tese ofensivo a candidato), descabe sancionar o agravante com base no referido dispositivo” (AgR-REspe 76-38, Rel. Min. JORGE MUSSI, DJe de 2/4/2018). No mesmo sentido: Rp. 0601697-71, Rel. Min. SÉRGIO BANHOS, DJe de 10/11/2020; AREspe 0600604-22, Rel. Min. MAURO CAMPBELL MARQUES, DJe de 9/9/2022; AgR-REspe 0600603-37, Rel. Min. BENEDITO GONÇALVES, DJe 4/4/2022.
+
+    Nada obstante, tendo em vista o grave contexto de propagação reiterada de desinformação, com inegável impacto na legitimidade das eleições, deve-se proceder à reinterpretação do dispositivo, de forma a melhor ajustar-se à finalidade da JUSTIÇA ELEITORAL, especialmente deste TRIBUNAL SUPERIOR ELEITORAL, no combate às fake news na propaganda eleitoral.
+
+    Realmente, a partir da leitura do dispositivo, não se mostra viável depreender que o ilícito se restringe à hipótese de anonimato, tornando insuscetíveis de punição outros abusos na livre manifestação de pensamento.
+
+    O teor da norma, na verdade, embora especialmente relacionado a atos ocorridos por meio da internet, apresenta teor extremamente semelhante ao disposto no art. 5º, IV, da Constituição Federal – “É livre a manifestação do pensamento, sendo vedado o anonimato” --, o qual, como se sabe, não consagra a liberdade de expressão como direito absoluto e nem limita os excessos às hipóteses de anonimato, razão pela qual abusos no exercício desse direito fundamental não se mostram imunes à sanções impostas pelo ordenamento jurídico.
+
+    (...)
+
+    Assim, não é possível conferir ao art. 57-D a interpretação segundo a qual, tão somente pelo fato de haverem sido publicadas na internet, os autores pelos excessos na liberdade expressão ocorridos na propaganda eleitoral, ressalvados os casos de anonimato, não se sujeitam à sanção pecuniária, uma vez que se trata de compreensão restritiva destituída de respaldo expresso no enunciado normativo e que conflita, como visto, com a interpretação conferida à livre manifestação de pensamento.
+
+    Além disso, tal diferenciação quanto à possibilidade de impor sanção pecuniária não encontra justificativa concreta, pois a disseminação de fake news, ainda que realizada por responsável identificado, produz os mesmos efeitos nocivos à legitimidade das Eleições, considerando-se a higidez das informações acessíveis ao eleitor, do que àquela propagada por usuário apócrifo, razão pela qual a ratio da norma proibitiva em questão não pode se restringir aos casos de anonimato.
+
+    No mais, essa interpretação, que viabiliza a imposição de multa aos responsáveis pela propagação de desinformação na internet, revela-se mais consentânea com a crescente preocupação desta JUSTIÇA ESPECIALIZADA no combate à desinformação, de modo que, além da remoção do conteúdo, a imposição de multa constitui mecanismo importante para evitar tal prática, tendo em vista seu caráter repreensivo aos autores que, até então, não se acham alcançadas pela punição.
+
+    (...)
+
+    Assim, considerando-se que o texto legal do art. 57-D da Lei 9.504/1997 não estabelece, de forma expressa, qualquer restrição no sentido de limitar sua incidência aos casos de anonimato, impõe-se ajustar a interpretação do dispositivo à sua finalidade de preservar a higidez das informações divulgadas na propaganda eleitoral, ou seja, alcançando a tutela de manifestações abusivas por meio da internet – incluindo-se a disseminação de fake news tendentes a vulnerar a honra de candidato adversário - que, longe de se inserirem na livre manifestação de pensamento, constituem evidente transgressão à normalidade do processo eleitoral.
+
+    (...)
+
+    No caso, impõe-se enfatizar não haver qualquer controvérsia a respeito do caráter ilícito da conduta relacionada à divulgação de fatos inverídicos na propaganda eleitoral, cuja prática já encontrava vedação expressa no art. 9º-A da Res.-TSE 23.610/2019, dispositivo que, inclusive, permitia ao juízo eleitoral “determinar a imediata cessação do ilícito”. Com a superveniência da Res.-TSE 23.714/2022, a ilicitude de tal comportamento foi reafirmada, mantendo-se, no ato normativo, a vedação à “divulgação ou compartilhamento de fatos sabidamente inverídicos ou gravemente descontextualizados que atinjam a integridade do processo eleitoral”. Isso significa, portanto, que a interpretação sobre a matéria veiculada na decisão recorrida não implica mudança de entendimento a respeito do caráter lícito ou ilícito da conduta, mas, sim, somente no que concerne à extensão da sanção aplicável, o que não apresenta repercussão no processo eleitoral e nem interfere na igualdade de condições dos candidatos, circunstância apta a afastar o entendimento firmado pelo SUPREMO TRIBUNAL FEDERAL no julgamento do RE 637.485, Rel. Min. GILMAR MENDES, Pleno, DJe de 1º/8/2012.
+
+    Realmente, tratando-se de conduta já considerada ilícita pelo ordenamento jurídico, os autores do ilícito não dispõem de legítima expectativa de não sofrer as sanções legalmente previstas, revelando-se inviável a invocação do princípio da segurança jurídica com a finalidade indevida de se eximirem das penas cominadas.
+
+    Além disso, é certo que o Plenário do TRIBUNAL SUPERIOR ELEITORAL, ao analisar a controvérsia pela primeira vez, estabeleceu diretriz interpretativa a ser adotada para as Eleições 2022, de modo que não há decisões colegiadas desta CORTE que, no âmbito do mesmo pleito eleitoral, veiculem conclusões conflitantes sobre a matéria.” (eDOC 61 – ID: 7cb5c365, p. 6-15)
+
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, a fim de interpretar o dispositivo legal utilizada como fundamento para o sancionamento do recorrente e sua incidência sobre a hipótese narrada nos autos, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, notadamente quanto à aferição dos excessos na divulgação das informações, a falsidade destas e a necessidade da reprimenda judicial, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+
+    Confiram-se, a propósito, os seguintes precedentes:
+
+    “Agravo interno. Recurso extraordinário com agravo. Direito eleitoral. Propaganda eleitoral. Impulsionamento de conteúdo negativo. Multa. Reexame de fatos e provas. Súmula nº 279/STF. Ofensa reflexa à Constituição Federal. Matéria infraconstitucional. Não provimento. 1. In casu, consignou-se, no acórdão da Corte Eleitoral, que, “por expressa opção do legislador, o impulsionamento de conteúdo na Internet somente é admitido para o fim de promover ou beneficiar candidatas e candidatos ou suas agremiações (art. 57-C, § 3º, da Lei nº 9.504/1997), sem a possibilidade, portanto, de amplificação de alcance em propaganda crítica ou negativa contra adversários”. Não houve, portanto, segundo assentado no decisum, veiculação de publicidade para impulsionar determinada candidatura, e sim para prejudicar adversários, conteúdo incompatível com o impulsionamento no ambiente virtual. 2. Para se concluir de forma diversa ' pela não ocorrência do impulsionamento de publicidade eleitoral negativa e das demais irregularidades ', seria necessário revisitar o caderno probatório dos autos, providência vedada, nos termos da Súmula nº 279/STF. 3. Por outro lado, a solução jurídica dada pelo TSE foi calcada em legislação infraconstitucional, o que inviabiliza o trânsito do apelo nobre, o qual não se presta para o exame de ofensas indiretas ou reflexas ao texto constitucional. 4. Por fim, inexiste a arguida ofensa à segurança e à confiança legítima (art. 16 da Constituição Federal), haja vista a ausência de brusca viragem jurisprudencial, porquanto foi reconhecida a natureza eleitoral do conteúdo veiculado pelos agravantes, bem como o impulsionamento de propaganda negativa em descompasso com a legislação de regência, prática que não se confunde com a divulgação de matérias jornalísticas, as quais estariam cobertas pela liberdade de expressão. 5. Agravo regimental não provido” (ARE 1448234 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 09.11.2023 – grifo nosso)
+
+    “DIREITO ELEITORAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. REPRESENTAÇÃO POR CONDUTA VEDADA AOS AGENTES PÚBLICOS EM CAMPANHA. PROPAGANDA ELEITORAL IRREGULAR. PROPORCIONALIDADE NA APLICAÇÃO DE MULTA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO. NÃO CARACTERIZAÇÃO. PRECEDENTES. 1. O acórdão do Tribunal de origem está devidamente fundamentado, embora em sentido contrário aos interesses da parte agravante, circunstância que não configura violação ao art. 93, IX, da CF/88. 2. Hipótese em que a resolução da controvérsia demandaria o reexame do conjunto fático-probatório dos autos (Súmula 279/STF) e da norma infraconstitucional pertinente, procedimentos inviáveis nesta fase recursal. Precedentes. 3. Agravo regimental a que se nega provimento” (ARE 888378 AgR-terceiro, Rel. Min. Roberto Barroso, Primeira Turma, DJe 25.08.2016 – grifo nosso)
+
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+
+    Publique-se.
+
+    Brasília, 2 de outubro de 2024.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
