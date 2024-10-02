@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE SÃO PAULO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. Multa ambiental inscrita na dívida ativa. O índice de juros de mora deve estar em consonância com a taxa Selic, mesmo que se trate de débito não tributário. Incidência dos artigos 29 e 30 da Lei Federal nº 10.522/2002. Nesse sentido vem se consolidando a jurisprudência das Câmaras de Direito Público deste Egrégio Tribunal de Justiça. NEGO PROVIMENTO AO AGRAVO.
+A parte recorrente alega, em síntese (fls. 58/68):
+Aponta-se como violados o art. 406 do Código Civil, art. 39, § 4º da LF nº 4.320/64 c. c e art. 161, § 1º do CTN, art. 2º do DL nº 1.736/79 e 29 e 30 da Lei 10.522/02  ..  tratando-se de débito originário de autuação da CETESB, diferentemente do que constou no acórdão recorrido, a correção monetária e os juros são estipulados pela Lei Federal 6899/81 e Decretos-lei 1.735 e 1.736/79, que deu nova redação ao art. 39 da Lei Federal 4.320/64, e não pela SELIC. Logo, para estes débitos, a correção é feita pela UFESP e os juros são aplicados na proporção de 1% ao mês. No caso do auto de infração que deu origem à CDA executada, a multa foi aplicada em 5.001, UFESP. A atualização do valor é feita dividindo o principal pelo valor da UFESP à época e multiplicando pelo valor da UFESP atual. Quanto aos juros, são aplicáveis 1% ao mês a partir do vencimento.
+Com contrarrazões das partes recorridas, o recurso foi admitido.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 47/53):
+Trata-se de agravo de instrumento interposto pelo Estado de São Paulo contra decisão de fls. 119/123 (dos autos de origem) proferida nos autos da execução fiscal nº 1501554-14.2021.8.26.0533 que move em face de Usina Açucareira Furlan S/A. Na origem a executada opôs exceção de pré- executividade questionando a abusividade dos juros de mora acima da SELIC e o caráter confiscatório da multa, tendo o magistrado decidido pela limitação dos juros de mora à SELIC, determinando o recálculo da CDA em questão.
+ ..
+A controvérsia discutida na exceção de pré- executividade encontra-se no cálculo dos juros sobre a multa ambiental, bem como na fixação de honorários advocatícios. Verifica-se, outrossim, que às fls. 02/03 daqueles autos, na Certidão de Dívida Ativa, constam devidos juros de mora de 1% ao mês, calculados com base no artigo 2º do Decreto-Lei 1.736/79 c/c artigo 39 da Lei nº. 4.320/64 e Decreto-Lei nº. 1.735/79. Embora os parâmetros descritos na certidão da dívida ativa tenham sido aceitos pelas Câmaras Ambientais deste Egrégio Tribunal de Justiça em época pretérita, não se pode negar que o entendimento deve ser revisto ante o disposto nos artigos 29 e 30 da Lei Federal nº 10.522/2002.
+O Decreto-Lei nº 1.736/79, em seu artigo 2º, tinha a seguinte redação:
+ ..
+A Lei Federal nº 10.522/2002, por sua vez, passou a disciplinar a forma de incidência de juros de mora dos débitos de qualquer natureza para com a Fazenda Nacional. Esse é o entendimento que se extrai dos artigos 29 e 30 de mencionada lei:
+ ..
+Assim, não há razão para negar aplicação à Lei Federal nº 10.522/2002, quanto à forma de juros, já que é lei mais recente que disciplinou a matéria, causando a derrogação da legislação anterior.
+ ..
+Portanto, o entendimento posto na Arguição de Inconstitucionalidade nº 0170909-61.2012.8.26.0000 é aplicável, ainda que não se trate de débito tributário, posto que se estende também aos débitos administrativos, por isonomia.
+Quanto à ADI 442/SP, definiu que os Estados não podem estabelecer critérios de atualização superiores aos critérios federais para débitos tributários, questão que também se estende para disciplinar os débitos não tributários, posto que compartilham do mesmo comando constitucional e mesma lógica jurídica. Logo, incide o entendimento no presente caso.
+Em relação à decisão do Ag. Reg. na Reclamação nº 43009/SP, a Segunda Turma do STF, por sessão virtual de 05 a 12 de fevereiro de 2021, por unanimidade, negou provimento ao agravo regimental, por inexistir "correlação entre as teses jurídicas estabelecidas em sede abstrata pelo Supremo Tribunal Federal no julgamento do processo parâmetro de controle e as teses discutidas na decisão reclamada". Portanto, inexiste a mencionada decisão a amparar o pleito do agravante.
+Pois bem.
+O cotejo do art. 2º do Decreto-Lei n. 1.736/1979 com os arts. 29 e 30 da Lei n. 10.522/2002 basta à conclusão do acórdão recorrido, segundo a qual houve derrogação da norma anterior, tendo em vista a adoção da taxa Selic para a correção dos débitos para a Fazenda Nacional.
+Nesse contexto, ganha relevância a inexistência de recurso extraordinário quanto à fundamento relacionado à ADI 442/SP, uma vez que "é inadmissível recurso especial, quando o acordão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" (Súmula 126 do STJ).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CORREÇÃO DE CRÉDITO NÃO TRIBUTÁRIO. TAXA SELIC. FUNDAMENTO CONSTITUCIONAL NÃO IMPUGNADO. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
