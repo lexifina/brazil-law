@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus, sem pedido de liminar, em favor de JOAO PAULO DE OLIVEIRA SOUZA, impetrado contra acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1503292-62.2020.8.26.0536).
+Consta dos autos que o paciente foi condenado às penas de 06 (seis) anos e 08 (oito) meses de reclusão, em regime inicial fechado, e pagamento de 666 (seiscentos e sessenta e seis) dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+A impetrante sustenta a ocorrência de constrangimento ilegal, porquanto não haveria fundamentação idônea para justificar a atribuição do regime inicial fechado.
+Requer a concessão da ordem para que seja aplicado o regime inicial semiaberto para o cumprimento da reprimenda.
+Foram prestadas informações às fls. 72/75.
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 78/80).
+É o relatório.
+DECIDO.
+De acordo com as informações prestadas pelo Juízo de primeiro grau (fls. 72/75) e o parecer ministerial (fls. 78/80), verifico que o presente habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, já transitado em julgado. Diante dessa situação, não deve ser conhecido o presente writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Com efeito, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, "as revisões criminais e as ações rescisórias de seus julgados" (STJ, AgRg no HC 573.735/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/04/2021, DJe 30/04/2021; AgRg no HC 610.106/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021; HC 512.674/CE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, decisão monocrática, DJe 30/05/2019; HC 482.877/SP, Rel. Ministro JORGE MUSSI, decisão monocrática, DJe 29/03/2019; HC 675.658/PR, Ministro RIBEIRO DANTAS, decisão monocrática, DJe 04/08/2021; HC 677.684/SP, Ministro ANTONIO SALDANHA PALHEIRO, decisão monocrática, 02/08/2021, v.g.).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, isso porque, de acordo com o entendimento consolidado do Superior Tribunal de Justiça, incabível a fixação de regime mais brando, pois inexiste constrangimento ilegal a ser sanado, eis que o paciente detém circunstâncias judiciais desfavoráveis e é reincidente, sendo aplicável, destarte, o regime fechado, nos termos do art. 33, parágrafos 3º e 2º, alínea b, do Código Penal (HC n. 758.154/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/10/2022, DJe de 21/10/2022).
+Outrossim,  a  quantidade e a natureza dos entorpecentes  ..  foram utilizadas como fundamentos a ensejar a aplicação do regime fechado, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "a", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006 (AgRg nos EDcl no HC n. 807.698/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+Ante o exposto, não conheço do pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
