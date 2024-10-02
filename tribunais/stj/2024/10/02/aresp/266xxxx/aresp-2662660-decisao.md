@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LEI EMPREENDIMENTOS IMOBILIÁRIOS LTDA contra decisão exarada pela il. Terceira Vice-Presidência do eg. Tribunal de Justiça do Estado do Rio de Janeiro (TJ-RJ), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo nas alíneas "a" e "c" do permissivo constitucional, em face de v. acórdão assim ementado (fls. 463):
+"APELAÇÃO. AÇÃO DE RESILIÇÃO UNILATERAL DECONTRATO. COMPRA E VENDA DE IMÓVEL. DESISTÊNCIA DO NEGÓCIO PELA COMPRADORA. PEDIDO DE RESTITUIÇÃO DE 80% DOS VALORES PAGOS. IPTU E TAXA CONDOMINIAL. DEVOLUÇÃO A PARTIR DO REQUERIMENTO ADMINISTRATIVO. SENTENÇA DE PROCEDÊNCIA. MANUTENÇÃO.
+Resilição unilateral de contrato de promessa de compra e venda de imóvel celebrado com a ré.
+Comunicação da desistência do negócio no ano de 2016, com pedido de restituição de 80% dos valores pagos, mas não atendido pela demandada. Restituição dos gastos com IPTU e taxa associativa a partir do pedido administrativo de desfazimento do negócio. Sentença de procedência dos pedidos, do que apela a ré. Relação de consumo, diante dos claros conceitos e objetivos dos arts. 2º e 3º do Código de Defesa do Consumidor.
+Desistência do negócio, ainda que por inadimplência, que constitui direito do consumidor. Entendimento consolidado no STJ quanto ao percentual a ser retido pelo promitente vendedor, que pode flutuar entre o mínimo de 10% e máximo de 25%. Sentença acolhendo a retenção de20% dos valores pagos, pelas perdas decorrentes do desfazimento do negócio. Súmula nº 543, do STJ: imediata restituição das parcelas pagas pelo promitente comprador e não de forma parcelada. Direito da autora ao ressarcimento daquilo que pagou relativo ao IPTU e condomínio após o pedido administrativo de desfazimento do contrato.
+Recurso desprovido. Condenação da recorrente em honorários recursais (art. 85, §11, do CPC)."
+No apelo nobre (fls. 479-492), LEI EMPREENDIMENTOS IMOBILIÁRIOS LTDA indica, além de divergência jurisprudencial, ofensa aos arts. 122, 421 e 422 do Código Civil. Nas razões recursais, afirma que "(..) o tribunal a quo, ao "revisar" cláusula cuja disposição não é contraria à lei, ordem pública ou bons costumes, acabou por violar o disposto no art. 122 do CC, bem como os princípios da liberdade econômica, previsto no art. 421 do CC, e boa-fé, este estampado no art.422 do CC" (fls. 486).
+Aduz, também, que "(..) não houve manifestação de discordância de nenhum dos termos e condições do contrato por parte da recorrida no momento da assinatura do contrato, ainda, caso houvesse identificado alguma ilegalidade no contrato após a assinatura, este poderia ter requerido a revisão judicial do contrato, o que não fez. Outrossim, verifica-se que a não observância da cláusula viola os princípios da Pacta Sunt Servanda, da obrigatoriedade, da boa-fé objetiva e da função social que regem todos os contratos, ainda que sejam de adesão sob à égide de normas consumeristas" (fls. 487).
+Assevera, ainda, que "(..)  c onsiderando a ausência de inadimplemento por parte da recorrente, a determinação do marco temporal da rescisão deve observar o trânsito em julgado da sentença, a data da sua prolação, ou, no máximo, a data da citação, quando houve a constituição em mora das recorrentes quanto aos fatos deduzidos no processo. Assim, os valores que a parte recorrida eventualmente tenha deixado de adimplir a título de IPTU e condomínio/taxas associativas até a data em que declarada a rescisão serão de sua inteira responsabilidade" (fls. 489).
+Intimada, MONICA MANGER GRIPP apresentou contrarrazões (fls. 568-572), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 574-577), motivando o agravo em recurso especial (fls. 585-592) em testilha.
+Também foi oferecida contraminuta (fls. 596-602), pelo desprovimento do agravo.
+É o relatório. Passo a decidir.
+No caso, sobre os temas debatido, oportuna a transcrição do seguinte trecho do v. acórdão estadual (fls. 465-467):
+"Pretende a parte autora  ora agravada  a resilição unilateral do contrato de promessa de compra e venda de imóvel celebrado com a ré, sendo comunicada a desistência do negócio no ano de 2016, com pedido de restituição de 80% dos valores pagos, mas não atendido, pelo que busca a autora, assim, também a restituição dos gastos com IPTU e taxa associativa a partir do pedido administrativo de desfazimento do negócio.
+Sentença de procedência dos pedidos, do que apela a ré.
+Trata-se, evidentemente, de relação de consumo, diante dos claros conceitos e objetivos dos arts. 2º e 3º do Código de Defesa do Consumidor.
+E a desistência do negócio, ainda que por inadimplência, é direito do consumidor. Contudo, não há falarem restituição de todos os valores pagos, já que não evidenciado nos autos o descumprimento do contrato por parte da ré, e por conta dos elevados custos para a concretização do empreendimento.
+Nesse passo, o STJ firmou entendimento de que o percentual a ser retido pelo promitente vendedor pode flutuar entre o mínimo de 10% e máximo de 25%, conforme as circunstâncias de cada caso concreto.
+(..)
+No caso dos autos as partes concordaram com a retenção de 20% dos valores pagos, sendo que a recorrente entende que a restituição de 80% dos valores recebidos deve ser efetuada parceladamente.
+Contudo, na forma da Súmula nº 543, do STJ, na hipótese de resolução do contrato a restituição dos valores pagos deve ocorrer imediatamente, distinguindo-se, apenas, os casos em que ocorrerá integralmente, ou como no caso dos autos, em que se dará parcialmente, considerada a desistência do negócio pelo promitente comprador.
+(..)
+E no que se refere às taxas associativa e tributos relativos ao imóvel, conforme bem destacado pela d. sentença, "a Sra. Mônica de Moura tem direito de ser ressarcida do que pagou após o pedido administrativo de desfazimento do contrato (o que se deu em março de 2016 -vide fls. 59 e ss.). Ora, não pode a Lei Empreendimento ser beneficiada pela conduta abusiva de negar prontamente a rescisão do negócio, jogando no colo da autora as taxas e vencidos a partir de então. Está jungida a cumprir os deveres anexos à boa-fé, dentre eles, o dever de mitigar o prejuízo ("duty to mitigate the loss")." (g. n.)
+Nesse cenário, a pretensão de alterar o entendimento ora transcrito, considerando as circunstâncias do caso concreto, demandaria reinterpretação de cláusulas contratuais e revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos das Súmulas n. 5 e n. 7, ambas do eg. STJ.
+Finalmente, registre-se que a incidência das referidas Súmulas também obsta o apelo nobre pela alínea "c" do permissivo constitucional, ante a inexistência de similitude fático-jurídica. Nesse mesmo sentido, destacam-se:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. INEXISTÊNCIA DOS ABALOS PSÍQUICOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. SUCUMBÊNCIA MÍNIMA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+(..)
+6. "A incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa" (AgInt no AREsp n. 1.232.064/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/12/2018, DJe 7/12/2018), essa é a situação evidenciada no caso.
+7. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no REsp 1882165/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2021, DJe 03/03/2021 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RESCISÃO DE CONTRATO. INADIMPLEMENTO DAS OBRIGAÇÕES. APLICAÇÃO DE MULTA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA. (..). DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA E DE COTEJO ANALÍTICO.
+(..)
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+(..)
+4. O recurso especial não pode ser conhecido com fundamento na alínea "c" do inciso III do artigo 105 da Constituição Federal, porquanto o óbice das Súmulas n. 5 e 7 desta Corte impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas. Precedentes.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 667.970/SP, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 18/2/2020, DJe de 26/2/2020 - g. n.)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. TEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. NOVA ANÁLISE. OFENSA AOS ARTS. 11, 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. LEGITIMIDADE. BANCO ADQUIRENTE DA CARTEIRA DE CRÉDITO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. A incidência das Súmulas n. 5 e 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+4. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 2.316.677/MA, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
