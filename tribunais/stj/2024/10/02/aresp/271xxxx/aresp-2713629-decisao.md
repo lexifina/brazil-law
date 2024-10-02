@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por FAVO S A EMPREENDIMENTOS E PARTICIPACOES e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim resumido:
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO EM AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA. AUSÊNCIA DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. PRELIMINAR DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO AFASTADA. PROMESSA DE COMPRA E VENDA DE BEM IMÓVEL. RELAÇÃO DE CONSUMO. RESPONSABILIDADE SOLIDÁRIA DAS VENDEDORAS. ART. 18, CDC. INOPONIBILIDADE DAS RESPONSABILIDADES DO CONTRATO DE CONSÓRCIO ESTABELECIDO ENTRE AS VENDEDORES AOS COMPRADORES.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz violação ao art. 114 do CC, no que concerne à nulidade da sentença, tendo em vista a existência de um litisconsórcio passivo necessário, trazendo a seguinte argumentação:
+O acórdão deixou claro, em evidente error, que afastou a necessidade de inclusão no polo passivo da co-vendedora - Brisa Empreendimentos Imobiliários, mesmo sendo integrante do contrato de compra e venda.
+Por regra geral, o litisconsórcio é uma faculdade das partes, o que se altera apenas em duas circunstâncias: quando, em razão da relação jurídica, o litisconsórcio for unitário, ou quando a lei determinar sua necessariedade (DINAMARCO, Cândido Rangel. Instituições de Direito Processual Civil. Vol. II, 6ª edição, revista e atualizada, 2009, p. 360).
+No caso concreto, a Recorrente pediu a citação do BRISA como litisconsorte necessário, i.e., para compor a lide, posto que estão na mesma relação jurídica processual estabelecida em relação aos autores da ação, assim fazendo por força do contrato de compra e venda.
+Dessa feita, a ausência de algum dos litisconsortes resulta na falta de legitimidade dos que estiverem presentes e na extinção do processo sem resolução de mérito. Vejamos o que dispõe o artigo 114 do CPC
+ ..
+Todos presentes na cadeia de transmissão devem figurar no polo passivo da demanda, existindo o litisconsórcio passivo necessário. A falta de citação de litisconsorte passivo necessário é vício de natureza grave, que faz da sentença ato inexistente. Trata-se, portanto, de nulidade absoluta, só sanável após declarada a nulidade e citada a parte prejudicada.
+Somente a citação válida assegura a garantia do contraditório e da ampla defesa, e quando não realizada em face da parte que deve ser citada, configura-se como o vício mais grave no sistema processual civil brasileiro, consoante entendimento da jurisprudência do STJ. A propósito, leia-se o precedente encabeçado pela ementa abaixo (grifou-se):
+ ..
+Se a ausência de citação não se convalesce nem com a coisa julgada (preclusão máxima), dada a desfiguração e inexistência da sentença, podendo o vício transrescisório ser alegado até mesmo por petição simples, de logo se afasta eventual alegação de preclusão consumativa, enquanto não sanado o vício mediante citação válida da parte para compor o polo passivo do feito principal.
+Por todos os argumentos acima citados, urge, portanto, a declaração de nulidade da sentença e do acórdão recorrido, em razão da existência de litisconsórcio passivo necessário (fls. 489-492).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Ocorre que a vendedora Brisa não se opôs ao cumprimento da obrigação, eis que a escritura pública juntada aos autos (fls. 46/52) consta a assinatura de seus representantes legais.
+Diante disso, a questão cinge-se à obrigação a ser cumprida tão somente pela FAVO S/A Empreendimentos e Participações e pela Construtora Colmeia S/A, razão pela qual afasto a preliminar de litisconsórcio passivo necessário (fl. 473).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 19.11.2019; AgInt no AREsp n. 1.637.445/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp n. 1.647.046/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.8.2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte Recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
