@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICIPIO DE MIRANGABA contra decisão do Tribunal de Justiça do Estado da Bahia, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 252):
+APELAÇÃO. DIREITO ADMINISTRATIVO. MUNICÍPIO DE MIRANGABA. SERVIDOR PÚBLICO. GUARDA MUNICIPAL. ADICIONAL DE PERICULOSIDADE. ART. 7º, INCISO XXIII DA CONSTITUIÇÃO FEDERAL. PREVISÃO GENÉRICA EM LEI MUNICIPAL. AUSÊNCIA DE REGULAMENTAÇÃO. INÉRCIA DO PODER PÚBLICO. APLICAÇÃO SUPLETIVA DE REGULAMENTAÇÃO FEDERAL. NR-16, ANEXO 3. DIREITO AO ADICIONAL. SENTENÇA MANTIDA. APELO CONHECIDO E IMPROVIDO.
+Rejeitados os aclaratórios (e-STJ fls. 297/304).
+No especial obstaculizado, a parte recorrente, além de divergência jurisprudencial, apontou violação dos arts. 8º e 373, I, do CPC/2015, sustentando a impossibilidade de pagamento de adicional de periculosidade por ausência de lei municipal específica, bem como que a parte autora não se desincumbira de seu ônus probatório.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+De início, no pertinente às alegações concernentes ao princípio da legalidade, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+No que toca ao art. 8º do CPC/2015, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF: "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Quanto mais, a apreciação do inconformismo, da forma como posto nas razões do apelo obstado, em que alegado que a parte autoria não teria comprovado os fatos constitutivos do direito pleiteado, demandaria incursão no substrato fático-probatório constante nos autos, providência inviável no âmbito do recurso especial, ante o óbice estampado na já citada Súmula 7 do STJ.
+Por fim, "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes." (AgInt nos EDcl no REsp 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023.).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
