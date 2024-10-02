@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de agravo interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra decisão que não admitiu o recurso especial, apresentado em face de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 545):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. EMPRÉSTIMO PESSOAL. TOGADO DE ORIGEM QUE JULGA PROCEDENTES OS PEDIDOS INAUGURAIS. INCONFORMISMO DA FINANCEIRA.
+PRELIMINAR DE CERCEAMENTO DE DEFESA POR CONTA DO JULGAMENTO ANTECIPADO DA LIDE. PROVAS NECESSÁRIAS À FORMAÇÃO DO CONVENCIMENTO DO ESTADO-JUIZ QUE SE ENCONTRAM CARREADAS AO FEITO. DESNECESSIDADE DE DILAÇÃO PROBATÓRIA. POSSIBILIDADE DE JULGAMENTO DO PROCESSO NO ESTADO EM QUE SE ENCONTRAVA. INTELIGÊNCIA DO ART. 355, INCISO I, DO CÓDIGO FUX. PROEMIAL REPELIDA.
+PRETENDIDA EXPEDIÇÃO DE OFÍCIO AO NÚCLEO DE MONITORAMENTO DO PERFIL DE DEMANDAS (NUMOPEDE), À ORDEM DOS ADVOGADOS DO BRASIL (OAB), DELEGACIA DE POLÍCIA LOCAL, BEM COMO INTIMAÇÃO PESSOAL DA AUTORA, PARA QUE SEJA APURADA EVENTUAL PRÁTICA DE INFRAÇÃO DISCIPLINAR OU CONDUTA TÍPICA. NÃO ACOLHIMENTO. DOCUMENTOS QUE INSTRUEM OS AUTOS QUE NÃO INDICAM NENHUMA IRREGULARIDADE. POSSIBILIDADE, CASO ENTENDA EXISTIREM INDÍCIOS DA PRÁTICA DE INFRAÇÃO ÉTICA OU CONDUTA TÍPICA, DA PRÓPRIA PARTE ACIONAR OS ÓRGÃOS COMPETENTES SEM NECESSIDADE DE INTERVENÇÃO DO ESTADO-JUIZ.
+VENTILADA PRESCRIÇÃO DA PRETENSÃO REVISIONAL. DESACOLHIMENTO. AÇÃO DE NATUREZA PESSOAL. INCIDÊNCIA DO ART. 205 DO CÓDIGO CIVIL DE 2002. DIREITO DE AÇÃO COM LAPSO TEMPORAL DECENAL. PRETENSÃO DE REVISAR O CONTRATO QUE NÃO SE ENCONTRA FULMINADA PELA PRESCRIÇÃO. PREFACIAL RECHAÇADA.
+JUROS REMUNERATÓRIOS. ADMISSÃO DO RECURSO ESPECIAL N. 1.061.530/RS, DE QUE TRATA A MULTIPLICIDADE DE RECURSOS COM FUNDAMENTO IDÊNTICO À QUESTÃO DE DIREITO, COMO REPRESENTATIVO DA CONTROVÉRSIA. JULGAMENTO, SOB A RELATORIA DA MINISTRA NANCY ANDRIGHI, QUE ESTIPULOU: (1) A AUSÊNCIA DE ABUSIVIDADE NA ESTIPULAÇÃO DE JUROS REMUNERATÓRIOS SUPERIORES A 12% AO ANO; (2) A POSSIBILIDADE DE REVISÃO DAS TAXAS DE JUROS REMUNERATÓRIOS QUANDO CARACTERIZADA A RELAÇÃO DE CONSUMO E A ABUSIVIDADE RESTAR CABALMENTE DEMONSTRADA, ANTE AS PECULIARIDADES DO JULGAMENTO EM CONCRETO. AUSÊNCIA, ADEMAIS, DE QUALQUER EXPLICAÇÃO E/OU JUSTIFICATIVA PLAUSÍVEIS PARA QUE A TAXA DE JUROS REMUNERATÓRIOS SE AFASTASSE DA MÉDIA DE MERCADO. ÔNUS QUE ERA DA INSTITUIÇÃO FINANCEIRA. HIPÓTESE VERTENTE EM QUE OS PERCENTUAIS PREVISTOS NA AVENÇA SUPLANTAM ABSURDAMENTE A TAXA MÉDIA PRATICADA EM MERCADO.
+ABUSIVIDADE PATENTEADA. LIMITAÇÃO DOS JUROS COMPENSATÓRIOS AO TETO VEICULADO PELO BANCO CENTRAL. PEDIDO SUBSIDIÁRIO DE LIMITAÇÃO A VALOR NÃO INFERIOR UMA VEZ E MEIA DA MÉDIA DE MERCADO INVIÁVEL. COLEGIADO QUE ADOTA O PARÂMETRO DE REDUÇÃO À MÉDIA DE MERCADO DIVULGADA PELO BACEN QUANDO HOUVER CARACTERIZAÇÃO DE POTESTATIVIDADE. SENTENÇA INDENE NESSA SEARA.
+RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados às fls. 573/576.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa aos arts. 421 do Código Civil, 355, I e II, 356, I e II, e 1.026, §2º, do Código de Processo Civil.
+Sustenta, em síntese, que: a) houve cerceamento ao direito de defesa; e b) a índole abusiva da taxa de juros não pode ser aferida pela mera comparação com a média do Banco Central, devendo ser mantida a taxa contratada; c) deve ser afastada a multa aplicada, pois os embargos de declaração não foram opostos com caráter protelatório.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+O Tribunal de origem, analisando as circunstâncias do caso, assim dirimiu a controvérsia (fls. 540/541):
+Os documentos carreados no processo constituem provas su cientes à formação do convencimento do Estado-Juiz, uma vez que o debate travado entre as Partes, na presente ação revisional, cinge-se ao exame da existência ou não de ilegalidades de disposições contratuais, para o qual se dispensa a realização de perícia.
+(..)
+Deve-se observar que o destinatário das provas é o Togado que irá julgar a causa, incumbindo a ele indeferir aquelas que entender ser impertinentes.
+Nesse norte, os arts. 370 e 371, ambos do Pergaminho Fux, são hialinos ao gizar:
+Art. 370. Caberá ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias ao julgamento do mérito.
+Art. 371. O juiz apreciará a prova constante dos autos, independentemente do sujeito que a tiver promovido, e indicará na decisão as razões da formação de seu convencimento.
+Também, quanto ao julgamento antecipado, o mencionado Diploma é incisivo ao insculpir que:
+Art. 355. O juiz julgará antecipadamente o pedido, proferindo sentença com resolução de mérito, quando:
+I - não houver necessidade de produção de outras provas; (..) E se tanto não bastasse, deve-se gizar que a realização de qualquer outra diligência a  m de produção de prova, além de desnecessária, ainda contribuiria para a demora da entrega da solução jurídica, em violação à norma fundamental prevista no art. 4º do CPC/15, in verbis : "As partes têm o direito de obter em prazo razoável a solução integral do mérito, incluída a atividade satisfativa".
+Arredo a aventada nulidade.
+Sendo assim, a pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ. A propósito:
+Quanto à índole abusiva da taxa de juros, o Tribunal de origem, analisando o caso, assim se manifestou (fls. 542/543):
+Da atenta leitura do excerto suso transcrito se extrai que o Superior Tribunal de Justiça não impede a revisão das taxas de juros remuneratórios contratadas, mas apenas alerta que tal só poderá ocorrer em relações de consumo e desde que a abusividade fique cabalmente demonstrada ante as nuances do caso concreto.
+A análise quanto à existência de abusividade continua sendo possível e, para que aconteça, mostra-se necessária a utilização de algum parâmetro objetivo, de modo a assegurar até mesmo a segurança jurídica.
+A observância à taxa média de mercado veiculada pelo Banco Central é imperativa, vez que revestida da objetividade, transparência e confiança exigíveis.
+Caso o percentual estipulado no negócio particular seja inferior à taxa média praticada em mercado, deverá permanecer, por ser mais benéfica ao consumidor. Já na hipótese de suplantar o teto publicado pelo Banco Central, deverão ser observadas as peculiaridades do caso concreto para se definir acerca da existência de abusividade.
+Destaco que em atenção ao entendimento da Corte Superior (REsp 2009614/SC), tem-se que "deve-se observar os seguintes requisitos para a revisão das taxas de juros remuneratórios: a) a caracterização de relação de consumo; b) a presença de abusividade capaz de colocar o consumidor em desvantagem exagerada; e c) a demonstração cabal, com menção expressa às peculiaridades da hipótese concreta, da abusividade veri cada, levando-se em consideração, entre outros fatores, a situação da economia na época da contratação, o custo da captação dos recursos, o risco envolvido na operação, o relacionamento mantido com o banco e as garantias ofertadas".
+(..)
+Logo, por terem as Partes estipulado esse encargo em percentuais que suplantam em muito a taxa média, agrante a ocorrência de abusividade, por colocar o Hipossuficiente em desvantagem exagerada, na forma do art. 51, § 1º, do Pergaminho Consumerista.
+Além disso, ainda restou constatado pela Corte Superior a necessidade de "demonstração cabal, com menção expressa às peculiaridades da hipótese concreta, da abusividade verificada, levando-se em consideração, entre outros fatores, a situação da economia na época da contratação, o custo da captação dos recursos, o risco envolvido na operação, o relacionamento mantido com o banco e as garantias ofertadas".
+Já quanto aos mencionados requisitos, destaco que o ônus probatório acerca de tal situação era exclusivamente da alçada da Casa Bancária, porquanto tem acesso a informações sobre a negociação, cabendo à Ré, portanto, positivar que as peculiaridades da relação de consumo, o que não ocorreu no presente caso.
+Reitero que no caso concreto, a Instituição Financeira nem sequer verteu qualquer explicação e muito menos justificativa para que a taxa de juros remuneratórios se afastasse da média de mercado e o ônus probatório acerca de tal situação era exclusivamente de sua alçada, pois tem acesso a todas as avenças que celebrou, cujas situações pessoais das partes devedoras divirjam daquela ostentada pelo Requerente.
+Reafirmo a abusividade é gritante!
+Destarte, a sentença deve permanecer irreprochável no ponto, quedando-se igualmente inviável o pedido subsidiário de limitação a valor não inferior uma vez e meia da média de mercado, tendo em vista que este Colegiado adota o parâmetro de redução à média de mercado divulgada pelo Bacen quando houver caracterização de potestatividade.
+Portanto, na espécie, a instância julgadora a quo concluiu criteriosamente pelo caráter abusivo dos juros remuneratórios pactuados, considerando que excederam, de forma considerável, a taxa média de mercado. Nesse contexto, observa-se que a controvérsia foi decidida em conformidade com a jurisprudência desta Corte de Justiça. A propósito:
+"DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE CARTÃO DE CRÉDITO. FUNDAMENTAÇÃO. AUSENTE. SÚMULA 284/STF. JUROS REMUNERATÓRIOS. ABUSIVIDADE. TAXA MÉDIA DE MERCADO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação revisional de contrato de cartão de crédito.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Os juros remuneratórios incidem à taxa média de mercado em operações da espécie, apurados pelo Banco Central do Brasil, quando verificada pelo Tribunal de origem a abusividade do percentual contratado ou a ausência de contratação expressa.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Agravo interno não provido." (AgInt no REsp n. 1.914.387/RS, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 16/8/2021, DJe de 19/8/2021)
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. EMBARGOS DE DECLARAÇÃO.
+OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+JUROS REMUNARATÓRIOS. TAXA MÉDIA. REFERENCIAL.
+HONORÁRIOS ADVOCATÍCIOS. NASCEDOURO DO DIREITO. DATA DA SENTENÇA. SÚMULA 568/STJ 1. Ação declaratória de inexigibilidade de débito.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A jurisprudência do STJ é no sentido de que a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras.
+Precedentes.
+5. A jurisprudência do STJ é no sentido de que a sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015. Assim, se o capítulo acessório da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973, serão aplicadas essas regras até o trânsito em julgado.
+Precedente da Corte Especial.
+6. Recurso especial conhecido e não provido." (AgInt no REsp n.
+1.977.593/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 20/6/2022, DJe de 22/6/2022)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE CRÉDITO PESSOAL.
+JUROS REMUNERATÓRIOS. ABUSIVIDADE. CONFIGURADA.
+HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação revisional de contrato de crédito pessoal cumulada com repetição de indébito e compensação por danos morais.
+2. A taxa de juros remuneratórios, verificada sua abusividade, deve ser limitada à taxa média de mercado, divulgada pelo Banco Central do Brasil.
+Temas repetitivos 24 a 27.
+3. Agravo interno no agravo em recurso especial não provido." (AgInt no AREsp n. 2.167.236/RS, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023)
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. BANCÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. VENDA CASADA. SEGURO. DESCABIMENTO. SÚMULA 83/STJ. JUROS REMUNERATÓRIOS. ÍNDOLE ABUSIVA. SÚMULA 382/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicam-se, por analogia, as Súmulas 282 e 356 do STF.
+2. A jurisprudência do STJ, firmada sob a sistemática dos recursos repetitivos, orienta que "o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada" (REsp 1.639.320/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 12/12/2018, DJe de 17/12/2018).
+3. "A jurisprudência desta Corte decidiu que o fato de as taxas de juros excederem o limite de 12% ao ano não configura abusividade, devendo, para seu reconhecimento, ser comprovada sua discrepância em relação à taxa média de mercado divulgada pelo BACEN" (AgInt no AREsp 1.473.053/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/11/2019, DJe de 19/11/2019).
+4. No presente caso, o Tribunal de origem concluiu que os juros remuneratórios superam em muito a média do percentual apurado para a época, de modo que a cobrança foi reputada como abusiva no caso concreto.
+5. Agravo interno desprovido." (AgInt no REsp n. 2.018.402/RS, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 13/2/2023, DJe de 28/2/2023)
+Verifica-se, portanto, que o acórdão recorrido está em consonância com o entendimento jurisprudencial desta Corte Superior. Logo, a manutenção do referido acórdão, no ponto objeto do recurso, é medida que se impõe, mormente ante a incidência da Súmula 83/STJ, pelas alíneas "a" e "c" do permissivo constitucional.
+Deve-se, contudo, acolher-se o pedido da parte para o afastamento da multa do art. 1.026, § 2º, do CPC/2015. Consoante se observa nos embargos de declaração às fls. 554/559, a irresignação apresentada em 2º grau teve o nítido objetivo de prequestionar as teses que foram objeto do apelo especial, de modo que não pode ser considerada protelatória, na forma do Enunciado n. 98 da Jurisprudência do STJ.
+Diante do exposto, conheço do agravo para dar parcial provimento ao recurso especial, para afastar a condenação da parte ao pagamento da multa do art. 1.026, § 2º, do CPC/2015
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios de R$ 2.200,00 (dois mil e duzentos reais) para R$ 2.420,00 (dois mil quatrocentos e vinte reais).
+Publique-se.
+EMENTA
