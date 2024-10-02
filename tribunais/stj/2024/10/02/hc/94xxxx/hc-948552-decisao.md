@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCAS ALESSANDRO FIGUEIREDO contra acórdão assim ementado:
+Apelação Criminal Roubo majorado Recursos defensivos visando à absolvição por insuficiência Inviabilidade Materialidade e autoria do delito de roubo comprovada Quadro probatório suficiente para manutenção da condenação Validade dos depoimentos das vítimas e Agentes da Lei, aliando-se as demais provas coligidas Recurso ministerial visando o aumento da pena-base dos réus e a fixação do regime inicial fechados aos réus Lucas e Giovanni Acolhimento parcial Reprimendas bem dosadas Fixação de regime inicial fechado para o cumprimento das penas do acusados Lucas e Giovanni, diante das circunstâncias do caso concreto Recursos defensivos não providos, e recurso ministerial parcialmente provido, para fixar o regime inicial fechado aos acusados Lucas Alessandro Figueiredo e Giovanni Bergantini Lima.
+O paciente foi condenado às penas de 06 anos, 02 meses e 20 dias de reclusão, em regime inicial semiaberto, e ao pagamento de 15 dias-multa, pela prática de roubo majorado, previsto no art. 157, § 2º, II, do Código Penal.
+O Tribunal de origem deu provimento ao apelo do Ministério Público para fixar o regime inicial fechado para cumprimento da reprimenda.
+A defesa alega, em síntese, ilegalidade na fixação do regime inicial fechado para início do cumprimento da pena do paciente, violando o disposto no art. 33 do Código Penal e em desacordo com as Súmulas nº 440/STJ e 718 e 719 do STF.
+Ao final, requer a concessão da ordem para fixar o regime inicial de cumprimento de pena semiaberto.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+O Tribunal local assim fundamentou a fixação do regime inicial fechado (e-STJ fls. 16-17):
+Por fim, assiste razão ao reclamo do Órgão Ministerial com relação ao regime prisional fixado na r. sentença aos apelantes Lucas e Giovanni.
+Indubitavelmente, o regime a ser adotado deve ser o inicial fechado, pois referido regime é o mais adequado ao agente que comete crime de roubo, especialmente considerando as circunstâncias do caso concreto e porque trata de infração que desassossega a sociedade, colocando-a em verdadeiro pânico, de maneira que criminoso desta natureza, que não hesita em ameaçar e colocar em risco a vida dos cidadãos honestos e trabalhadores, deve ser tratado com todo o rigor da lei.
+Ademais, tal regime se revela o mais consentâneo ao atendimento das finalidades da pena, quais sejam, prevenção e repressão dos delitos.
+Nota-se que o regime fechado foi fixado apenas com base na gravidade abstrata do delito perpetrado pelo paciente, não existindo na fundamentação qualquer elemento ou motivo concreto que permita concluir ser necessária a fixação do regime mais gravoso, em ofensa, portanto, as súmulas 440 desta Corte de Justiça, bem como as súmulas 718 e 719 do Supremo Tribunal Federal que dispõem:
+Súmula 440 - Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Súmula 718 - A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada
+Súmula 719 - A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Nesse sentido, a jurisprudência desta Corte:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. HABEAS CORPUS. ORDEM PARCIALMENTE CONCEDIDA DE OFÍCIO. REGIME INICIAL SEMIABERTO. POSSIBILIDADE. PENA-BASE NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. RÉU PRIMÁRIO. QUANTUM DE PENA INFERIOR A OITO ANOS (SÚMULAS 718 E 719, AMBAS DO STF E 440 DO STJ).
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - A ausência de impugnação aos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+III - In casu, parte agravante deixou de infirmar, de maneira adequada e suficiente, o óbice da Súmula 7/STJ.
+IV - Não obstante, verifico que Tribunal de origem manteve o regime inicial fechado com base em considerações vagas e genéricas relativas à gravidade abstrata do crime, em clara violação aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, configurando-se, assim, o constrangimento ilegal, a ser reparado de ofício. Nesse compasso, considerando a primariedade do agravante, a fixação da pena-base no mínimo legal e o quantum de pena estabelecido, forçoso concluir que faz jus ao regime semiaberto para início de cumprimento de pena, ex vi do art. 33, parágrafo 2º, alínea b, e § 3º, do Estatuto Penal.
+Agravo regimental desprovido. Ordem parcialmente concedida, de ofício, apenas para fixar o regime semiaberto para início de cumprimento da pena, mantidos os demais termos da condenação.
+(AgRg no AREsp n. 2.076.311/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/6/2024, DJe de 7/6/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DELITO DE ROUBO MAJORADO PELO CONCURSO DE AGENTES E USO DE ARMA DE FOGO. REGIME INICIAL PARA O CUMPRIMENTO DA PENA. GRAVIDADE ABSTRATA DO CRIME. INCIDÊNCIA DA SÚMULA N. 440 DO STJ. FIXAÇÃO DO REGIME SEMIABERTO. JURISPRUDÊNCIA DO STJ. DECISÃO MANTIDA.
+1. "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravida abstrata do delito" (Súmula n. 440 do STJ).
+2. A gravidade do delito de roubo circunstanciado em razão do concurso de pessoas e/ou do emprego de arma de fogo não constitui motivação suficiente, por si só, para justificar a imposição de regime prisional mais gravoso, na medida em que tais circunstâncias são comuns à espécie.
+3. Mantém-se a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 693.553/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022.)
+Pelo exposto, não conheço do habeas corpus substitutivo, mas concedo a ordem de ofício e fixo o regime semiaberto como inicial ao cumprimento da pena
+Publique-se. Intimem-se.
+ EMENTA
