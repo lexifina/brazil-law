@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, agravo em recurso especial de decisão que inadmitiu recurso especial interposto pela AGÊNCIA GOIANA DE DEFESA AGROPECUÁRIA, contra o acórdão proferido pelo TJGO, assim ementado, por seu caput:
+MANDADO DE SEGURANÇA. REAJUSTE DE SUBSÍDIOS DE SERVIDORES PÚBLICOS ESTADUAIS. FISCAIS ESTADUAIS AGROPECUÁRIOS. LEGITIMIDADE DO SECRETÁRIA DE ADMINISTRAÇÃO DO ESTADO DE GOIÁS. DECADÊNCIA NÃO CONFIGURADA. INÉPCIA DA INICIAL NÃO CONFIGURADA. PRESCRIÇÃO DO FUNDO DO DIREITO NÃO CONFIGURADA. OMISSÃO ACOIMADA DE ILEGAL CONFIGURADA. ARTIGO 1º DA LEI Nº 18.562/2014. IRREDUTIBILIDADE DE VENCIMENTOS PREVISTA NOS ARTIGOS 92, XVII E 95, II, DA CONSTITUIÇÃO ESTADUAL DE GOIÁS, E 37, XV, DA CONSTITUIÇÃO DA REPÚBLICA (fl. 256).
+Nas razões do recurso especial inadmitido, a recorrente aponta violação do art. 1º do Decreto 20.910/1932, afirmando que "nos autos do mandamus, o impetrante buscou a aplicação do art. 1º, incisos I e II, da Lei n. 18.562/2014 (publicada no dia 30/06/2014), sob o fundamento de que teria direito ao implemento dos reajustes de 15% (quinze por cento) e 8% (oito por cento)" (fls. 279). Ocorre que, com a entrada em vigor da Lei n. 19.740/2017 (que alterou o regramento anterior e delimitou a concessão dos benefícios concedidos), surgiu, em tese, a pretensão para que os administrados interessados aforassem suas ações contra o Estado, iniciando-se, a partir daí, a contagem do prazo prescricional e 5 anos previsto no art. 1º do Decreto 20.910/1932.
+É o relatório.
+Passo a decidir.
+No caso, o TJGO reconheceu a existênc ia de ato omissivo da administração em promover os reajustes garantidos pela legislação estadual e, ainda, tratar-se de relação jurídica de trato sucessivo, pelos seguintes fundamentos:
+Noutro ponto, tem-se que sem respaldo a alegação de decadência suscitada pela Agência Goiana de Defesa Agropecuária - AGRODEFESA. Isso porque, de fato, a conduta atribuída às autoridades coatora se caracteriza como um ato omissivo continuado, de trato sucessivo, que se renova periodicamente cada vez que os reajustes vencimentais deixam de ser efetivados. E durante a inércia da autoridade impetrada, não corre o prazo decadencial previsto no art. 23 da Lei n. 12.016/2009.
+ ..
+Assim, considerando que a conduta da Administração Pública permanece omissa, tendo em vista que não houve expressa negativa do direito reclamado, o prazo decadencial não está correndo, de modo que não há se falar em decadência do direito de impetração do mandado de segurança no presente caso (fl. 259).
+Com efeito, da forma como definida a questão pelo T ribunal de origem, imprescindível seria a análise da lei local, qual seja, a Lei Estadual 18.562/2018, para o deslinde da controvérsia, providência vedada em sede de recurso especial.
+Assim, o exame da pretensão recursal perpassa necessariamente pela análise de direito local, o que faz incidir, por analogia, o óbice constante da Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO MUNICIPAL. MAGISTÉRIO. REENQUADRAMENTO. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. FALTA DE PREQUESTIONAMENTO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Verifica-se que o Tribunal de origem não emitiu juízo sobre a matéria relativa ao artigo 1º do Decreto-Lei 20.910/1932. É inadmissível Recurso Especial quanto a questão inapreciada pelo Tribunal de origem, a despeito da oposição de Embargos Declaratórios. Incidência da Súmula 211/STJ.
+2. O exame da controvérsia demanda análise das Leis Municipais 7.399/1994, 7.997/2000 e 8.188/2003, tal como enfrentada pelas instâncias ordinárias, pretensão insuscetível de ser apreciada em Recurso Especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+3. Recurso Especial não conhecido (REsp n. 1.660.479/GO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/5/2017, DJe de 19/6/2017).
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
