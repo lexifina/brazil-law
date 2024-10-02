@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por MARCOS ALVES DE OLIVEIRA à decisão de fls. 1056/1057, que não conheceu do recurso.
+Sustenta a parte embargante:
+A decisão embargada não conheceu do recurso especial interposto por MARCOS ALVES DE OLIVEIRA com base na Súmula 284/STF, sob o fundamento de que não houve a devida indicação do permissivo constitucional que autorizaria a interposição do recurso. Contudo, a decisão deixou de apreciar a questão central suscitada no recurso especial e no respectivo agravo, qual seja, a violação dos artigos 128 e 460 do Código de Processo Civil, por ocorrência de julgamento ultra petita, já que a decisão recorrida teria concedido reintegração de posse sobre lote diverso daquele indicado na petição inicial. Trata-se de questão que não demanda reexame de provas, mas apenas uma correta interpretação jurídica dos fatos já incontroversos no processo, o que foi devidamente apontado no recurso especial.
+ ..
+Com todo o respeito, a aplicação da Súmula 284/STF, na hipótese dos autos, revela-se inadequada, visto que não houve qualquer deficiência na fundamentação do recurso especial.
+A súmula em questão se aplica nos casos em que a fundamentação do recurso é tão deficiente que impede a exata compreensão da controvérsia, o que claramente não é o caso aqui. O agravante demonstrou, de forma clara e específica, que o recurso especial se fundamentava na alínea "a" do inciso III do artigo 105 da Constituição Federal, devido à violação direta e literal de normas infraconstitucional. (fl. 1064).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada, incide o óbice da Súmula n. 284/STF, uma vez que a parte embargante, em sua petição recursal, não indicou o permissivo constitucional autorizador do Recurso Especial.
+Em outras palavras, para que haja a admissão do Recurso Especial, conforme disposto no art. 1.029, II, do CPC/2015, a petição deve conter a "demonstração do cabimento do recurso interposto", devendo evidenciar de forma explícita e específica que seu recurso está fundamentado no art. 105, inciso III, da Constituição Federal, e quais são as alíneas desse permissivo constitucional que servem de base para a sua interposição.
+Neste ponto, impende salientar que a parte ora embargante, na petição do Recurso Especial, não menciona, de forma expressa e precisa, qual o permissivo constitucional que autorizaria sua interposição.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há qualquer irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
