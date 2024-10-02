@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial, interposto por SEARA ALIMENTOS LTDA, com amparo na alínea "a", do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Estado do Mato Grosso do Sul assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE SEGURO DE VIDA EM GRUPO - EXTINÇÃO DO PROCESSO POR AUSÊNCIA DE INTERESSE PROCESSUAL - DESNECESSIDADE DE REQUERIMENTO NA VIA ADMINISTRATIVA ANTES DO INGRESSO NA VIA JUDICIAL - SENTENÇA ANULADA - RECURSO PROVIDO. Não se exige prévio requerimento administrativo para o ajuizamento de ação de cobrança de seguro de vida em grupo. Precedentes.
+Embargos de declaração rejeitados (fls. 292/295, e-STJ).
+Nas razões do recurso especial (fls. 300/315, e-STJ), a recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 17 e 485, IV, do CPC e 771 do Código Civil. Sustenta, em síntese, que o processo deve ser extinto sem a resolução do mérito, pois a inexistência de prévia comunicação do sinistro à seguradora, a fim de viabilizar o pagamento extrajudicial da indenização, obsta o regular exercício do direito de ação.
+Contrarrazões às fls. 329/335, e-STJ.
+Após decisão de admissão do recurso especial (fls. 339/344 , e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. O STJ já firmou o entendimento de que o requerimento administrativo prévio constitui requisito essencial para aferir a existência de interesse de agir na ação de cobrança do seguro, o qual se reputa presente independentemente de sua comprovação, nos casos em que a seguradora comparece em juízo, opondo-se ao mérito da pretensão condenatória. Excepciona-se tal contexto na hipótese em que a seguradora invoque a ausência de prévia solicitação administrativa, situação em que caberá a extinção do processo sem resolução do mérito, por ausência de interesse processual.
+No mesmo sentido:
+AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. SEGURO DE VIDA. INTERESSE PROCESSUAL. NÃO CONFIGURAÇÃO. AUSÊNCIA DE PRÉVIA COMUNICAÇÃO DO SINISTRO À SEGURADORA. INEXISTÊNCIA DE LESÃO OU AMEAÇA DE LESÃO A DIREITO.
+1. Ação de cobrança de indenização securitária ajuizada em 01/12/2021, da qual foi extraído o presente recurso especial interposto em 10/04/2022 e concluso ao gabinete em 09/02/2023.
+2. O propósito recursal consiste em definir se, para a configuração do interesse jurídico na propositura de ação de cobrança de indenização securitária, é necessário prévio requerimento administrativo.
+3. O interesse de agir é condição da ação caracterizada pelo binômio necessidade-adequação e decorre da necessidade de obter, por meio do processo, a proteção de interesse substancial. Pressupõe, então, a alegação de lesão desse interesse.
+4. O art. 771 do CC/02 exige que o segurado comunique o sinistro à seguradora, logo que o saiba, sob pena de perder o direito à indenização. Embora a finalidade precípua dessa norma seja evitar o agravamento das consequências geradas pelo sinistro, o aviso de sinistro representa a formalização do pedido de pagamento da indenização securitária. Antes disso, a seguradora não está obrigada a pagar, simplesmente porque não tem ciência do evento. Portanto, não realizada a comunicação acerca do sinistro, não há lesão a direito ou interesse do segurado.
+5. Excepcionalmente, a ausência de requerimento administrativo prévio não obstará o prosseguimento do processo. Se já tiver se operado a citação da seguradora, eventual oposição desta ao pedido de indenização deixa clara a sua resistência frente à pretensão do segurado, evidenciando a presença do interesse de agir. Porém, nem sempre a resposta da seguradora implicará impugnação ao pedido de pagamento. É possível por exemplo, que ela invoque a ausência de prévia solicitação administrativa, hipótese em que caberá a extinção do processo sem resolução do mérito, por ausência de interesse processual.
+6. Recurso especial não provido.
+(REsp n. 2.050.513/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/4/2023, DJe de 27/4/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. SEGURO DE VIDA. INTERESSE DE AGIR. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+2. Apenas a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto (art. 1.025 do CPC), desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC.
+3. Constitui requisito essencial para aferir a existência de interesse de agir na ação de cobrança de seguro o requerimento administrativo prévio, o qual se reputa presente, independentemente de comprovação, nos casos em que a seguradora, em juízo, opõe-se ao mérito da pretensão condenatória. Excepciona-se tal contexto na hipótese em que a seguradora invoque a ausência de prévia solicitação administrativa, situação em que caberá a extinção do processo sem resolução do mérito, por ausência de interesse processual.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.079.068/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+No caso em apreço, o Tribunal de origem reformou a decisão de piso que extinguiu a ação com base na ausência de interesse processual.
+Confira-se (fl. 277, e-STJ):
+No caso dos autos, em que pese não se tratar de seguro DPVAT, mas sim de seguro de vida em grupo, adoto o mesmo entendimento de que não é necessário o prévio requerimento administrativo para o ajuizamento da ação.
+Assim, impõe-se a reforma do acórdão recorrido para reconhecer a ausência de interesse de agir do requerente.
+2. Ante o exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, dou provimento ao recurso especial interposto por SEARA ALIMENTOS LTDA, a fim de restabelecer a sentença de fls. 303/307 (e-STJ) .
+Publique-se. Intimem-se.
+EMENTA
