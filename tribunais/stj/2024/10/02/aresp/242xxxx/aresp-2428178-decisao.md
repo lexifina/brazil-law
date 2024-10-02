@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial pelo qual MARISE SANT ANNA CARVALHO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado (fl. 81):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA EM FACE DA FAZENDA PÚBLICA. SUPERVENIÊNCIA DE LEI NOVA QUE ALTEROU OS LIMITES PARA PAGAMENTO POR MEIO DEREQUISIÇÃO DE PEQUENO VALOR - RPV APÓS O TRÂNSITO EM JULGADO DA SENTENÇA. IRRETROATIVIDADE DA LEI DE NATUREZA MATERIAL E PROCESSUAL. PRECEDENTEVINCULANTE DO SUPREMO TRIBUNAL FEDERAL FIRMADO EM SEDE DE REPERCUSSÃOGERAL. TEMA 792. RECURSO CONHECIDO E DESPROVIDO.
+1. Lei disciplinadora da submissão de crédito ao sistema de execução via precatório possui natureza material e processual, sendo inaplicável a situação jurídica constituída em data que a anteceda (Tema 792, STF).
+2. Deflagrada a fase de cumprimento de sentença, a lei superveniente que altere os limites para pagamento por meio de requisição de pequeno valor - RPV, não alcança o cumprimento sentença transitada em julgado.
+3. Incabível o pedido de conversão do pagamento em precatório para requisição de pequeno valor.
+4. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 152/162).
+Nas razões de seu recurso especial, a parte ora agravante alega violação do art. 1.022 do Código de Processo Civil (CPC), porque a Corte regional olvidou apreciar "os pontos trazidos nos embargos de declaração, adotando-se, assim, posicionamento expresso sobre os temas, especialmente sobre a alegação de afronta aos arts. 6º da LINDB e 14º do CPC" (fl. 174).
+Afirma também haver violação do art. 6º da Lei de Introduções às Normas do Direito Brasileiro (LINDB), e do art. 14 do CPC, porque (fls. 175/180):
+" ..  houve má aplicação do precedente RE n. 729.107/DF - TEMA 792 - à hipótese vertente, porquanto a questão tratada nos autos é diversa da matéria que embasou a tese lá fixada. Isto porque o tema em foco decorreu da possibilidade de aplicação imediata da Lei Distrital 3.624/2005, que reduziu, de 40 para 10 salários mínimos, o teto para expedição de requisição de pequeno valor. Com efeito, ao julgar o tema, a Suprema Corte considerou ser inaplicável a redução do teto para a expedição da RPV às execuções judiciais em curso contra a Fazenda Pública"
+" ..  ressalvada a proteção das situações já constituídas, a Lei deve ser aplicada de forma imediata no presente caso, a não ser assim, violado está o instituto retromencionado".
+A parte adversa apresentou contrarrazões (fls. 471/483).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+Verifico que inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A Corte de origem, ao apreciar a controvérsia, adotou a seguinte fundamentação (fl. 88):
+Em que pese a decisão agravada esteja fundamentada em eventual inconstitucionalidade da Lei 6.618/20, a solução da controvérsia prescinde de sua declaração ante os contornos do caso concreto.
+De acordo com a melhor doutrina e jurisprudência, sendo prescindível a discussão da constitucionalidade da lei para a solução do litígio, deve-se prestigiar sua validade e eficácia sem prejuízo da resolução do conflito.
+Na espécie, o pedido de cumprimento de sentença em face à Fazenda Pública foi protocolado no dia 23/10/2019, enquanto vigia a Lei 3.624/2005, a qual fixava o teto de dez salários mínimos para pagamento por meio de requisições de pequeno valor.
+A superveniência de lei que majorou o teto e no curso do processo não tem incidência ao caso concreto, posto tratar-se de lei de efeito material e processual, portanto sem possibilidade de alcançar situação jurídica passada e consolidada.
+Ao decidir acerca da possibilidade de aplicação de lei nova e que alterou o limite para pagamento por meio da requisição de pequeno valor às execuções em curso, o Supremo Tribunal Federal firmou entendimento nesse sentido:
+EXECUÇÃO - FAZENDA - LEI - APLICAÇÃO NO TEMPO. Lei disciplinadora da submissão de crédito ao sistema de execução via precatório possui natureza material e processual, sendo inaplicável a situação jurídica constituída em data que a anteceda. (RE 729107, Relator(a): MARCO AURÉLIO, Tribunal Pleno, julgado em08/06/2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-228 DIBULG 14-09-2020 PUBLIC 15/09/2020)
+Cuida-se de precedente vinculante, firmado em sede de repercussão geral, cuja observância é obrigatória. Sua observância pelas demais instâncias objetiva manter a coesão, higidez e estabilidade da jurisprudência, de modo a assegurar a previsibilidade das decisões judiciais e segurança jurídica.
+Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Quanto à questão de fundo, embora a parte recorrente tenha indicado nas razões do recurso especial violação de dispositivos de lei federal, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+O Tribunal de origem afastou a pretensão autoral com amparo no julgamento do Recurso Extraordinário 729.107/DF, onde se apreciou o Tema 792 da repercussão geral.
+Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal (STF), prevista no art. 102 da Constituição Federal.
+O exame do alcance e dos limites de tese jurídica fixada pelo STF demanda a interpretação de preceitos e dispositivos constitucionais, providência essa de competência exclusiva da Suprema Corte.
+Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. BASE DE CÁLCULO. PIS E COFINS. NÃO INCIDÊNCIA. FORMA DE CÁLCULO. ICMS DESTACADO NAS NOTAS FISCAIS VERSUS ICMS A RECOLHER NA COMPETÊNCIA. ACÓRDÃO RECORRIDO FUNDADO EM PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. O Tribunal de origem apenas interpretou o precedente do Supremo Tribunal Federal em repercussão geral para aplicá-lo ao caso concreto, razão pela qual não cabe ao Superior Tribunal de Justiça dirimir a controvérsia em sede de Recurso Especial no pertinente à interpretação constitucional do referido RE 574.706 RG/PR, sob pena de usurpação da competência do Supremo Tribunal Federal prevista no art. 102 da Constituição Federal.
+3. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+(AgInt no AREsp n. 1.578.077/SP, Ministro Manoel Erhardt - Desembargador Convocado do TRF da 5ª Região, Primeira Turma, julgado em 19/4/2021, DJe de 29/4/2021 - sem destaque no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017 - sem destaque no original.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar a ele provimento.
+Publique-se. Intimem-se.
+ EMENTA
