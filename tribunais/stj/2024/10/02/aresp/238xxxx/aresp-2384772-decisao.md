@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por VIVER INCORPORADORA E CONSTRUTORA S.A. e OUTRO em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO. Ação de indenização em fase de cumprimento de sentença. Insurgência da agravante contra decisão que extinguiu em parte a execução e determinou o prosseguimento da execução de honorários sucumbenciais. Agravante que se encontra em recuperação judicial. Pleito de extinção total da execução. Impossibilidade. A Lei nº 11.101/05, em seu art. 6º, § 4º, fala em "suspensão" e não "extinção" de todas as ações e execuções que correm contra o devedor. Valor da execução pendente de homologação. Assim, não há o que se falar em reconhecer excesso de execução, constando na decisão a determinação de apresentação de novos cálculos, momento em que a executada poderá impugna-los, se o caso. Recurso a que se nega provimento.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões recursais, a parte recorrente aponta violação dos arts. 49 e 59 da Lei 11.101/2005. Sustenta, em síntese, que "considerando que o efeito de submissão do crédito executado à recuperação judicial não é a data do trânsito em julgado, mas a do FATO QUE GEROU A RESPONSABILIDADE da qual resultou o crédito em execução, é incontestável ser obrigatório a habilitação deste crédito no juízo da recuperação judicial" (fl. 90).
+Afirma que, "em razão da novação prevista na Lei de Recuperação Judicial, o crédito do Exequente necessariamente deve ser pago segundo as condições do Plano aprovado, não sendo possível que o pagamento se dê nas condições originárias" (fl. 93)
+É o relatório. Decido.
+Verifica-se que o conteúdo normativo dos arts. 49 e 59 da Lei 11.101/2005 não foi examinado pelo eg. Tribunal de origem, apesar da oposição de embargos de declaração na eg. Instância a quo.
+Como sabido, o prequestionamento é requisito de admissibilidade do apelo especial, uma vez que compete ao eg. STJ julgar, em sede de recurso especial, conforme dicção do art. 105, III, da Carta Magna, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Com efeito, é de rigor a oposição de embargos de declaração e, se mesmo após o respectivo julgamento, o eg. Tribunal a quo permanecer omisso quanto às matérias que se pretendia prequestionar, é dever do recorrente, no apelo nobre, apontar violação ao art. 1.022 do CPC/2015, o que não ocorreu no caso em exame. Nesse panorama, o recurso especial, no ponto, esbarra no óbice da Súmula 211/STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
