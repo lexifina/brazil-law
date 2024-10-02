@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial manejado por Regia Cristina de Almeida Marrocos com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 45):
+Agravo de instrumento. Cumprimento individual da sentença coletiva exarada no Proc. 32.159/97 (Sindireta - benefício alimentação). Obrigação limitada ao período especificado no título executivo, a ser interpretado conforme o CPC 489 § 3o. Fidelidade à coisa julgada.
+Opostos embargos declaratórios, foram rejeitados (fls. 77/85).
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 502, 503 e 1.022, II, do CPC e 884 do Código Civil. Sustenta, em síntese, negativa de prestação jurisdicional e que "a Turma não se atentou sobre o fato de que a sentença estabelecida na Ação Ordinária nº 32.159/97, a qual foi confirmada pelas decisões posteriores proferidas pelo tribunal, assegurou aos substituídos processuais representados pelo SINDIRETA/DF o direito ao recebimento de auxílio alimentação das prestações em atraso desde janeiro/1996 (data da supressão do pagamento) até o dia em que efetivamente foi restabelecido o benefício  ..  Portanto, dúvidas não restam quanto ao período conquistado na ação de conhecimento, qual seja, janeiro de 1996 até a data em que efetivamente foi restabelecido o pagamento e não até a data da impetração do Mandado de Segurança nº 7.253/97, mormente porque não houve reforma da sentença de primeiro grau pelo Tribunal, no particular. Qualquer entendimento contrário, como o exarado no acórdão recorrido, implica em nítida violação aos arts. 502 e 503, ambos do CPC, verbis:  ..  deve ser sanado o erro acima apontado, para que o agravo de instrumento seja julgado em consonância com a coisa julgada estabelecida no título exequendo, o qual, vale repetir, assegurou o recebimento das parcelas do benefício alimentação compreendidas entre janeiro de 1996 a abril de 2002  ..  " (fls. 92/94).
+Contrarrazões às fls. 110/119.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mais, colhe-se do acórdão o seguinte trecho, verbis (fls. 47/48):
+O título judicial (sentença coletiva Proc. 32.159/97 - benefício alimentação - ac.730.893, de minha relatoria), destacou que:
+"(..). Portanto, é devido o benefício alimentação desde a data em que foi suprimido até a da impetração do mandado de segurança nº 7.253/97, como, aliás, delimitou a sentença no capítulo sobre o interesse processual:
+"O objeto e o interesse, todavia, perduram, pois ainda persiste o interesse na condenação ao pagamento das parcelas não abarcadas pelo writ, quais sejam, entre a interrupção do pagamento e a data da impetração."(..)."
+Portanto, é inadmissível a inclusão de período não contemplado no título judicial, acobertado pela coisa julgada. O fato de a delimitação não ter constado do dispositivo do voto condutor do acórdão, mas tão-só da fundamentação, não justifica que seja ignorada, por ser inequívoca a natureza decisória co m que o tema foi tratado, merecendo interpretação conforme o CPC 489, § 3º.
+Nesse sentido, atente-se para os seguintes precedentes da Corte, dentre outros:
+ ..
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, conheço em parte do recurso e, na parte conhecida, nego-lhe provimento.
+Publique-se.
+EMENTA
