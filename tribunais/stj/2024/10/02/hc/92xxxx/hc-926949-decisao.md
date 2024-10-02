@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de Bruno Rocha de Moraes Henrique  condenado como incurso no crime de furto qualificado  , em que se aponta como órgão coator o Tribunal de Justiça do Rio de Janeiro (Apelação Criminal n. 0290327-33.2022.8.19.0001), comporta acolhimento.
+Com efeito, busca a impetração o restabelecimento da absolvição do paciente, proferida pelo Juízo de Direito da 1ª Vara Criminal da comarca de Jacarepaguá/RJ, ao argumento de atipicidade material da conduta, em razão da incidência do princípio da insignificância, tendo em vista que ao Paciente foi imputada a conduta de subtrair coisas alheias móveis que, no total, expressam monetariamente o valor de R$ 1,00 (um real) - fl. 9, de modo que, analisado isso conjuntamente com a condição econômica do sujeito passivo, e pelo reduzido valor que a res furtiva representa nota-se que a lesão ao bem jurídico tutelado foi ínfima, somando-se ainda à íntegra restituição dos bens móveis furtados (fls. 9/10).
+É entendimento doutrinário e jurisprudencial que, para a aplicação do princípio da insignificância, mostra-se necessária a presença dos pressupostos objetivos, consistentes em: a) mínima ofensividade da conduta; b) inexistência de periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento; e d) inexpressividade da lesão jurídica provocada. A jurisprudência do Superior Tribunal tem se sedimentado no sentido de afastar a aplicabilidade do postulado quando se tratar de habitualidade criminosa, em especial, em crimes patrimoniais (AgRg no AREsp n. 2.532.305/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/9/2024).
+No caso, evidenciado se tratar de réu primário e o fato de a res furtiva nem sequer ter sido devidamente avaliada, tendo em vista o valor irrisório para a vítima, bem como ausente qualquer circunstância que denote a maior ofensividade da conduta, viável, portanto, a aplicação do princípio da insignificância.
+Em face do exposto, concedo a ordem impetrada para absolver o paciente na Ação Penal n. 0290327-33.2022.8.19.0001.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO QUALIFICADO. PRETENSÃO DE ABSOLVIÇÃO. ATIPICIDADE MATERIAL DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. RES FURTIVA QUE NEM SEQUER FOI AVALIADA. EVIDENTE VALOR IRRISÓRIO PARA A VÍTIMA. INEXISTÊNCIA DE CIRCUNSTÂNCIA QUE DENOTE A MAIOR OFENSIVIDADE DA CONDUTA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
