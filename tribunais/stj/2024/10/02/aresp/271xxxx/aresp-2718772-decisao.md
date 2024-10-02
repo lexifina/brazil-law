@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por LEITE DE MORAES EMPREENDIMENTOS IMOBILIARIOS LTDA. contra decisão que não admitiu seu recurso especial, este por sua vez, manejado, com fundamento no art. 105, inciso III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 1.048):
+RESCISÃO CONTRATUAL - SENTENÇA DE PARCIAL PROCEDÊNCIA, CONDENANDO A RÉ A RESTITUIR À REQUERENTE 80% DOS VALORES PAGOS - INSURGÊNCIA DE AMBAS AS PARTES - NULIDADE DA R. SENTENÇA - RESPONSABILIDADE SOBRE QUEM DERA CAUSA À RESCISÃO DO CONTRATO - FATOS AINDA CONTROVERSOS E QUE DEMANDAM MAIORES ESCLARECIMENTOS TÉCNICOS - NULIDADE DA R. SENTENÇA, DETERMINANDO-SE O RETORNO DOS AUTOS À PRIMEIRA INSTÂNCIA, PARA REALIZAÇÃO DAS PROVAS TÉCNICAS NECESSÁRIAS PARA O DESLINDE DO FEITO, AFERINDO-SE, DE FATO, SE HOUVE DESCUMPRIMENTO NA ENTREGA DAS BENFEITORIAS PROMETIDAS E PROPAGANDA ENGANOSA - SENTENÇA ANULADA.
+Nas razões do recurso especial, a agravante alegou violação ao art. 355, I, do Código de Processo Civil.
+Sustentou, em síntese, a ocorrência de cerceamento de defesa com o julgamento antecipado do feito, sem que lhe fosse oportunizada a produção da prova oral e a diligência por oficial de justiça, provas estas imprescindíveis ao desate da controvérsia dos autos.
+Contrarrazões às fls. 1.080-1.084 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou a insurgente à interposição de agravo.
+Brevemente relatado, decido.
+A Corte estadual, ao julgar a apelação, assim consignou (e-STJ, fls. 1.050-1.052):
+Em que pese o entendimento do juízo a quo, faz-se de rigor reconhecer a nulidade da r. sentença, tendo em vista que o MM. Juízo deixou de analisar a principal questão que versa a presente ação, qual seja, a responsabilidade sobre quem dera causa à rescisão do contrato.
+De plano, verifica-se que os fatos ainda são controversos e demandam maiores esclarecimentos técnicos no caso concreto, não sendo possível determinar com precisão, ao menos por ora, quem deu causa à rescisão do contrato pactuado entre as partes.
+Nestes termos, ambas as partes se acusam reciprocamente, acerca da culpa pela rescisão contratual, aduzindo a autora que pela ocorrência de propaganda enganosa, ao passo que a ré alega pela desistência do negócio por parte da compradora. Todavia, o magistrado a quo se eximiu de analisar a presente controvérsia, o que não pode ser admitido.
+Deste modo, os elementos constantes nos autos não se mostram suficientes a permitir o julgamento antecipado da lide, devendo ser realizada a prova pericial em questão.
+Neste sentido, há extensa jurisprudência deste Egrégio Tribunal de Justiça, em casos análogos ao presente, pela imprescindibilidade da realização de prova pericial:
+(..)
+Portanto, uma vez que o feito fora sentenciado de forma precipitada, entendo ser de rigor a nulidade da r. sentença, determinando-se o retorno dos autos à primeira instância para reabertura da fase instrutória, com a realização das provas técnicas necessárias para o deslinde do feito, aferindo-se, de fato, se houve descumprimento na entrega das benfeitorias prometidas e, por consequência, a propaganda enganosa suscitada pela parte autora.
+Diante dos fundamentos do acórdão recorrido, verifica-se que o argumento recursal de ocorrência de cerceamento de defesa está dissociado do que foi decidido pelo Tribunal estadual, no sentido de determinar o retorno dos autos à primeira instância para reabertura da fase instrutória, ante a necessidade de produção de prova quanto à culpa pela rescisão contratual.
+Com efeito, nos termos da jurisprudência desta Corte Superior, não se conhece do recurso especial cujas razões se encontram dissociadas daquilo que foi decidido no acórdão, incidindo, por analogia, o enunciado da Súmula n. 284/STF.
+Ilustrativamente (sem grifos no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONFIGURAÇÃO. AUSÊNCIA. JULGAMENTO EXTRA PETITA. AUSÊNCIA. TRANSAÇÃO E MORATÓRIA. RESPONSABILIDADE DOS FIADORES. EXTINÇÃO. HONORÁRIOS ADVOCATÍCIOS. FUNDAMENTOS. RAZÕES DISSOCIADAS. SÚMULA Nº 284/STF. PROVEITO ECONÔMICO. VALOR DA EXECUÇÃO. EQUIVALÊNCIA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O órgão julgador não afrontou os limites objetivos da pretensão inicial, tampouco concedeu providência jurisdicional diversa do que foi arrolado como causa de pedir e pedido, tendo sido respeitado o princípio da congruência.
+3. O entendimento do Superior Tribunal de Justiça é firme no sentido de que os pedidos formulados pelas partes devem ser analisados a partir de uma interpretação lógico-sistemática, não podendo o magistrado se esquivar da análise ampla e detida da relação jurídica posta em exame.
+4. A transação e a moratória têm o efeito de exonerar os fiadores que não anuíram com o contrato, nos termos dos arts. 838, I, e 844, § 1º, do Código Civil.
+5. Estando as razões do recurso dissociadas do que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+6. No caso, rever a conclusão do tribunal de origem de que o proveito econômico corresponde ao valor da execução demandaria a análise de fatos e de provas dos autos, providência inviável devido ao óbice da Súmula nº 7/STJ.
+7. Agravo interno não provido. (AgInt no AR Esp n. 2.218.181/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA "SAISINE". POSSE DOS HERDEIROS. AUSÊNCIA DE INTERESSE PROCESSUAL. RAZÕES DISSOCIADAS. SÚMULA 284/STF. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. SÚMULA 7/STJ.
+1. O art. 1.784 do Código Civil, consubstancia o princípio da "saisine" e preconiza que "Aberta a sucessão, a herança transmite-se, desde logo, aos herdeiros legítimos e testamentários". Por sua vez, o art. 1.206 do Código Civil determina que "A posse transmite- se aos herdeiros ou legatários do possuidor com os mesmos caracteres".
+2. Aplicável o óbice da Súmula n. 284/STF, uma vez que as razões delineadas no especial estão dissociadas dos fundamentos do acórdão recorrido, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos.
+3. Desconstituir a conclusão do acórdão acerca da inexistência de cerceamento de defesa, na forma pretendida, demandaria o reexame do acervo fático dos autos, procedimento que, em sede de especial, encontraria óbice na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AR Esp n. 2.210.910/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. SENTENÇA ANULADA. RETORNO DOS AUTOS À PRIMEIRA INSTÂNCIA PARA REABERTURA DA FASE INSTRUTÓRIA. RAZÕES DISSOCIADAS. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
