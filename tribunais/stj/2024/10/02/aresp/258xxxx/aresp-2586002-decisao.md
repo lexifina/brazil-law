@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de agravo de TAYLER MALLONE ALVES FERREIRA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal - CF, contra acórdão proferido no julgamento da Apelação Criminal n. 1.0000.23.007762-0/001.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), às penas de 6 anos de reclusão e 3 meses de reclusão, em regime inicial fechado, e 625 dias-multa, à razão mínima (fls. 172/174).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 254). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - ART. 33, CAPUT, DA LEI 11.343/06 - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA DELITIVA COMPROVADAS - DESCLASSIFICAÇÃO PARA O ART. 28 DA LEI 11.343/06 - INVIABILIDADE - ATOS DE TRAFICÂNCIA - APLICAÇÃO DA MINORANTE PREVISTA NO §4º DO ART. 33 DA LEI 11.343/06 - IMPRATICABILIDADE - REQUISITOS LEGAIS NÃO PREENCHIDOS - REDUÇÃO DA PENA DE MULTA FIXADA - NÃO ACOLHIDO - CONCESSÃO DOS BENEFÍCIOS DA ASSISTÊNCIA JUDICIÁRIA GRATUITA - MATÉRIA ATINENTE AO JUÍZO DA EXECUÇÃO - SENTENÇA MANTIDA.
+- Havendo prova da autoria e materialidade do delito de tráfico ilícito de entorpecentes, deve ser mantida a condenação do réu como incurso nas sanções dos artigos 33, caput, da Lei de Tóxicos, sendo inviável o pretendido pleito absolutório.
+-Não procede o pleito de desclassificação da conduta tipificada no artigo 33, caput, da Lei de Tóxicos para aquela prevista no artigo 28 da mesma Lei, se a prova dos autos demonstra que o réu praticava o tráfico de drogas e não era mero usuário.
+-Para que se aplique a causa de diminuição prevista no art. 33, § 4º da Lei 11.343/06, faz-se mister a presença cumulativa dos requisitos legais, requisitos estes que não se encontram presentes no caso dos autos.
+-O tipo penal infringido tem como pressuposto a cumulatividade da reprimenda corporal com a pena de multa, isto é, torna-se obrigatória sua aplicação independentemente da situação econômica do réu. Tendo sido fixada a pena de multa de forma proporcional à pena privativa de liberdade, não há qualquer reparo a ser efetuado nesse tocante.
+-O pedido de concessão dos benefícios da assistência judiciária gratuita deve ser relegado para o Juízo da Execução Penal, que detém maior abrangência para analisar a real situação econômica do réu" (fl. 235).
+Em recurso especial (fls. 267/273), a defesa apontou violação e interpretação divergente do art. 28 da Lei n. 11.343/2006, ao fundamento de que o Tribunal de Justiça - TJ teria mantido a condenação pela prática do delito de tráfico de drogas, a despeito de não ter havido comprovação da destinação mercantil da droga apreendida e o acusado ter confessado o uso de droga.
+Requereu a desclassificação da conduta de tráfico de drogas para consumo pessoal.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS (fls. 277/281).
+O recurso especial foi inadmitido no TJ em razão da incidência do óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ e da não comprovação da divergência jurisprudencial, mediante o devido cotejo analítico (fls. 285/287).
+Em agravo em recurso especial, a defesa alegou que a pretensão recursal não demandaria revolvimento fático-probatório, mas tão somente revaloração de fatos incontroversos nos autos e que teria colacionado entendimentos de Tribunais Superiores que, em casos semelhantes, decidiram de maneira diversa (fls. 294/297).
+Contraminuta do Ministério Público (fls. 301/303).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do agravo em recurso especial (fls. 316/319).
+É o relatório.
+Decido.
+O agravo em recurso especial não merece ser conhecido.
+Na espécie, verifica-se que a defesa deixou de impugnar de forma efetiva os fundamentos da decisão de inadmissibilidade da origem consistentes na Súmula n. 7 e na falta de comprovação da divergência jurisprudencial.
+No que se refere ao óbice da Súmula n. 7 do STJ, a defesa cingiu-se a afirmar que a pretensão recursal de desclassificação da conduta delitiva não exigiria revolvimento fático-probatório, mas tão somente revaloração de fatos incontroversos já delineados nos autos.
+Contudo, a mera afirmação em sentido contrário ao teor do enunciado sumular aplicado não é capaz de demonstrar à sua inaplicabilidade no caso concreto.
+Com efeito, é firme o entendimento desta Corte no sentido de que " s ão insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/3/2023).
+Quanto à não comprovação da divergência jurisprudencial, a defesa limitou-se a aduzir que teria colacionado entendimentos de Tribunais Superiores que, em casos semelhantes, decidiram de maneira diversa.
+Do mesmo modo, a mera afirmação em sentido contrário ao fundamento utilizado não é capaz de demonstrar o desacerto do fundamento.
+Com efeito, no ponto, a decisão agravada consignou:
+"Cabe anotar, ainda, quanto ao pretendido dissídio jurisprudencial, que o recorrente não demonstrou as circunstâncias que identificam ou assemelham o acórdão recorrido e os arestos paradigmas, não cumprindo as exigências regimentais e legais para a demonstração da divergência:
+(..)A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita a indicação do dispositivo legal cuja interpretação se alega divergente, bem como a comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ).(..)(AgInt no AR Esp 1953297/RS, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe 24/06/2022).
+Pelo exposto, inadmito o recurso com fundamento no artigo 1.030, inciso V, do Código de Processo Civil" (fls. 286/287).
+Assim sendo, cabia a parte, no agravo em recurso especial, ter demonstrado que, no recurso especial, tinha realizado o necessário confronto analítico entre os julgados, nos termos dos arts. 1.029, § 1º, do CPC, e 255, § 1º, do RISTJ, com a devida demonstração da similitude fática entre eles e da aplicação de distinta solução jurídica.
+Tudo considerado, constata-se que a manifestação recursal não impugnou específica, concreta e pormenorizada os fundamentos da decisão agravada, de maneira que o recurso apresentado é incapaz de demonstrar o equívoco da decisão contra a qual se insurge, mantendo-a incólume.
+Dessarte, aplicável, por analogia, a Súmula n. 182 do STJ, que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Igualmente, o art. 932, III, do Código de Processo Civil - CPC e o art. 253, parágrafo único, I, do Regimento Interno desta Corte dispõem que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito, os seguintes precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA N. 182/STJ. ÓBICES DAS SÚMULAS N. 7 E 83/STJ E 282/STJ NÃO INFIRMADOS PELO AGRAVANTE. DECISÃO MANTIDA.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos do art. 932, III, do CPC/2015; art. 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ, aplicável por analogia.
+2. Para impugnar a incidência da Súmula n. 83 desta Corte, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ.
+3. Para se afastar a aplicação da Súmula n. 7 do STJ, inviável a mera afirmação de sua não incidência na espécie, devendo o recorrente apresentar argumentação suficiente demonstrando que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não se faz necessário reexame de fatos e provas da causa.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.231.715/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/4/2023, DJe de 14/4/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ.
+AGRAVO INTERNO DESPROVIDO.
+1. A decisão ora recorrida não conheceu do agravo em decorrência da não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem, especificamente em relação à Súmula 83/STJ e à divergência não comprovada. Por conta disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver examinado por esta Corte Superior seu recurso especial inadmitido, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de admissão daquele recurso sob pena de vê-los mantidos.
+3. As razões demonstrativas do desacerto da decisão agravada devem ser veiculadas na oportunidade de interposição do agravo em recurso especial, pois, convém frisar, não é admitida a impugnação a destempo, a fim de inovar a justificativa para admissão do recurso excepcional, devido à preclusão consumativa.
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial, embora autônomos, impede o conhecimento do respectivo agravo consoante preceituam os arts.253, I, do RISTJ e 932, III, do CPC/2015 e a Súmula 182 do STJ, aplicável por analogia.
+5. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial; correta, portanto, a incidência na espécie do enunciado da Súmula 182 do STJ.
+6. Inadmitido o recurso especial com base na incidência da Súmula 83 do STJ, deve a parte recorrente apresentar acórdãos deste Tribunal contemporâneos ou supervenientes sobre a matéria, procedendo ao cotejo entre eles a fim de demonstrar que a orientação desta Corte é diversa da do Tribunal a quo ou que não se encontra pacificada.
+Pode ainda, se fosse o caso, demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2.272.690/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/3/2023, DJe de 4/4/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONCUSSÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do RISTJ, exige demonstração e comprovação com a transcrição dos trechos dos arestos que configurem o dissídio. É insuficiente a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 1.102.307/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/10/2018, DJe de 31/10/2018.)
+Desse modo, o presente agravo em recurso especial não ultrapassa o juízo de admissibilidade.
+Ante o exposto, com base nos arts. 932, III, do Código de Processo Civil - CPC e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
