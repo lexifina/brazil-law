@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO para impugnar acórdão do TJSP assim ementado:
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. OCORRENCIA. O redirecionamento da execução fiscal aos sócios deve ocorrer no prazo de cinco anos contados da citação da pessoa jurídica ou do despacho que ordenar a sua citação, a depender do momento da prática, do ato processual, ou seja, se foram realizados antes ou depois das mudanças ocorridas no art. 174, inc. I, do CTN, pela Lei Complementar n." 118/05. Citação dos sócios não ocorrida entre a citação da empresa  comparecimento espontâneo (11. 03.2004) e a prolação da sentença (04.02.2015). Decurso superior a cinco anos. Impossibilidade de se eternizar e tornar imprescritível a dívida tributária. Sentença de primeiro grau mantida. Recurso provido.
+O ESTADO, em seu recurso especial, alega violação do art. 174 do CTN, aduzindo não haver inércia imputável ao ente público na demora da citação que possa importar em prescrição do crédito tributário.
+O recurso especial foi admitido na origem.
+Passo a decidir.
+O apelo nobre se origina de execução fiscal sentenciada em primeiro grau após o reconhecimento da prescrição do direito ao redirecionamento da execução fiscal aos sócios de sociedade empresarial dissolvida irregularmente no curso da ação executiva.
+O Juiz de primeiro grau reconheceu o decurso do prazo de cinco anos contados da data do conhecimento da dissolução irregular da sociedade empresária, certificada por oficial de justiça no cumprimento de mandado de penhora expedido após a citação da sociedade, e o pedido de redirecionamento da execução na forma do art. 135 do CTN.
+O Tribunal bandeirante negou provimento à apelação do ESTADO e manteve a conclusão alcançada na sentença. Afirmou ter se verificado o decurso do prazo de cinco anos entre a data do conhecimento da dissolução irregular (2005) e a data em que requisitado o redirecionamento pelo exequente (2015). Consignou, ademais, ser incompatível com o exercício da justiça a perpetuação de ações judiciais.
+Sem embargos de declaração.
+Pois bem.
+O conhecimento do recurso especial esbarra no óbice das Súmulas 282, 283 e 284 do STF.
+Inicialmente, como relatado, a sentença foi proferida pela prescrição do direito ao redirecionamento da execução fiscal, pelo decurso de prazo superior a cinco anos entre a data do conhecimento da dissolução irregular da sociedade (ocorrida após a sua citação em juízo) e a data em que requerida a responsabilização dos sócios na forma do art. 135, III do CTN, conclusão mantida no bojo do acórdão que negou provimento à apelação.
+O recorrente suscita, no entanto, controvérsia não relacionada com o entendimento exarado, defendendo a ausência de inércia imputável ao exequente na demora da citação para pleitear o afastamento do reconhecimento da prescrição do art. 174, I do CTN.
+O presente recurso especial não atacou todos os fundamentos autônomos e suficientes empregados pelo acórdão recorrido para decidir. Incide no ponto o óbice das Súmulas 283 e 284 do STF.
+Ademais, carece o recurso especial do devido prequestionamento, já que sobre a tese suscitada nas razões recursais (ausência de inércia do exequente na citação do executado) não houve emissão de juízo pelo acórdão recorrido, mesmo sob o viés pretendido pelo ESTADO em seu recurso especial, o que faz incidir no caso o óbice constante na Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Para o caso de haver, nos autos, prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
