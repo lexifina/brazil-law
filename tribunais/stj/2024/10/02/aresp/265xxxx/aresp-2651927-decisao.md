@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por SÃO FRANCISCO SISTEMAS DE SAÚDE SOCIEDADE EMPRESÁRIA LTDA e HAPVIDA ASSISTÊNCIA MÉDICA LTDA  E OUTRA . em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"PLANO DE SAÚDE - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO QUE AUTORIZOU O BLOQUEIO DOS ATIVOS FINANCEIROS DA REQUERIDA A FIM DE CUSTEAR OS MEDICAMENTOS NECESSÁRIOS AO TRATAMENTO DA AUTORA - RESISTÊNCIA DA OPERADORA EM CUMPRIR A TUTELA DE URGÊNCIA CONCEDIDA - RISCO DE VIDA DA AUTORA ACOMETIDA COM CÂNCER DE OVÁRIO ESTÁGIO IV - POSSIBILIDADE DE O JUIZ ADOTAR MEDIDAS ADEQUADAS À EFETIVAÇÃO DA TUTELA PARA ASSEGURAR O DIREITO DA AUTORA (CPC, ARTS. 297, 301 E 537, § 1º) - PRECEDENTES ENVOLVENDO A MESMA OPERADORA - DECISÃO MANTIDA - LITIGÂNCIA DE MÁ-FÉ CARACTERIZADA - INTUITO MANIFESTAMENTE PROTELATÓRIO E OPOSIÇÃO INJUSTIFICADA AO ANDAMENTO DO PROCESSO (CPC, ART. 80, INCISOS IV E VII E ART. 81) - CONDENAÇÃO DA RECORRENTE AO PAGAMENTO DE MULTA DE 4% DO VALOR ATUALIZADO DA CAUSA - AGRAVO DESPROVIDO, COM OBSERVAÇÃO" (fl. 169)
+A recorrente aponta ofensa ao art. 520, IV, do CPC/15.
+Diz que o levantamento de valores, no cumprimento provisório de sentença, depende da prestação de caução pelo exequente.
+Requer a revogação da ordem de bloqueio de valores, tendo em vista que fere o princípio da menor onerosidade ao devedor.
+Contrarrazões às fls. 199/205.
+É o relatório.
+O Tribunal de Justiça de São Paulo confirmou a legitimidade da decisão de primeira instância. Com base nos artigos 297, 301 e 537 do CPC, entendeu que o bloqueio de ativos financeiros é medida cabível, diante da recalcitrância da operadora em cumprir a ordem judicial, que visava assegurar a saúde da autora, diagnosticada com doença grave. Para a Corte, portanto, a resistência da operadora em fornecer os medicamentos justifica a aplicação de medidas coercitivas para efetivar a tutela de urgência. Cita-se do aresto:
+"Compulsando os autos principais, resta evidente, de um lado, a necessidade de efetivação da medida liminar em virtude da grave doença enfrentada pela autora, e, de outro, a recalcitrância da ré em cumprir com a determinação judicial de fornecimento dos medicamentos.
+"Por isso, nada impede que o juiz determine medidas adequadas à efetivação da tutela provisória a fim de assegurar o direito da autora, nos termos dispostos pelos artigos 297, 301 e 537, § 1º, todos do CPC.
+"Também não assiste razão ao pleito alternativo de prestação de caução, na medida em que há possibilidade de supressão de tratamento médico e risco de vida da agravada, demonstrando situação de necessidade." (fl. 171)
+Acerca da necessidade da caução, em razão do óbice da Súmula n. 7/STJ, não compete a esta Corte verificar se a exequente está ou não em situação de necessidade, na forma da previsão do art. 521, II, do CPC/15.
+Não se conhece do recurso especial, nessa parte, portanto.
+Quanto à alegação de que a ordem de penhora viola o princípio da menor onerosidade ao devedor, era dever da parte ao menos indicar alternativa viável, para garantir o cumprimento da tutela provisória de urgência - dever não cumprido, na espécie.
+A alegação genérica de que determinado ato jurisdicional viola o princípio da menor onerosidade ao devedor, sem indicar alternativa menos onerosa, atrai o óbice da Súmula n. 284/STF. Nesse sentido: "Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que, de forma genérica, alega violação de dispositivo legal, sem apresentar os motivos pelos quais o acórdão recorrido não teria observado tal norma." (AgInt no AREsp n. 2.542.223/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/8/2024, DJe de 30/8/2024.).
+Ante o exposto, conheço do agravo para negar conhecimento ao recurso especial.
+Publique-se.
+EMENTA
