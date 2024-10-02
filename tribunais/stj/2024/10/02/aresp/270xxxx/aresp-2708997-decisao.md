@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Agravo apresentado por UTB UNIAO TRANSPORTE BRASILIA LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+AGRAVO DE INSTRUMENTO. CONHECIMENTO PARCIAL. PRECLUSÃO E PERDA SUPERVENIENTE DE PEDIDOS. ACIDENTE. PACIENTE. RESTRIÇÃO DE LOCOMOÇÃO E NECESSIDADES BÁSICAS. ACOMPANHANTE. PESSOA DE LIVRE ESCOLHA. COMPANHEIRA. AFASTAMENTO DO TRABALHO. PAGAMENTO DE CUSTOS E DESPESAS. DEVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 927, 949 e 950 do CC. Sustenta que o pagamento de pensão da companheira do recorrido é indevido, pois não há qualquer prescrição médica ou comprovação nos autos que o recorrido tenha suportado custos com cuidador, trazendo a seguinte argumentação:
+Claramente observa-se que a r. Decisão determinou que a obrigação da ré, ora recorrente, em relação a despesas de acompanhante, somente dar-se-á, quando necessário acompanhamento profissional, o que não é o caso do embargante.
+O Douto Juízo a quo, nos termos da Decisão agravada, ressaltou que a r. Decisão possui o caráter de custear tratamento profissional ao embargante. Veja-se:
+ ..
+Não há, assim, qualquer obrigação da empresa embargada ao pagamento mensal a companheira do recorrido.
+Ainda que assim não o fosse, não há qualquer prescrição médica ou comprovação nos autos que o recorrido tenha suportado custos com cuidador, logo, não há qualquer plausibilidade no pagamento de valores nesse sentido.
+Nos próprios áudios acostados ao processo originário, o recorrido afirma que não possuía qualquer acompanhante no hospital, logo, qualquer cobrança nesse sentido é indevida.
+Pontua-se que nos autos originários fora realizada perícia médica, onde constatou-se que não há necessidade de acompanhamento ao recorrido.
+Em resposta aos quesitos, conforme ID nº 192140915 - Pág. 6, o expert deixou bem claro que o recorrido é independente, sendo capaz de desempenhar sozinho as atividades relacionadas ao seu cuidado pessoal, como higiene e alimentação, sem precisar de auxílio de um cuidador profissional da área da saúde.
+Evidentemente, cai por terra todo pleito do recorrido, ao pagamento de pensionamento a sua companheira.
+Ainda que assim não o fosse, é evidente que a companheira do recorrido não comprovou qualquer vínculo laboral, mesmo devidamente intimada para apresentação dos contratos esporádicos de prestação de serviço, que não foram apresentados.
+Ora, se a companheira do recorrido prestava serviços em momento anterior, mediante contrato, como alegadamente informou, deveria ter trazidos aos autos, o que não fora realizado.
+A recorrente impugnou a declaração juntada ao ID nº 156368421 dos autos originários, pois não comprova nenhum tipo de habitualidade da prestação de serviço da companheira do recorrido, pois como observa-se, trata-se de declaração em que alega a esporadicidade dos contratos realizados pela companheira do embargante.
+Ademais, não se sabe quantos dias ou em quais momentos a companheira do recorrido iria ou deixaria de assumir os contratos, o que torna totalmente inviável qualquer obrigação de custeio, por parte desta embargada.
+Por todo o apresentado, verifica-se claramente que não há plausibilidade nas alegações suscitadas pelo embargante, devendo, assim, ser devidamente improvido os embargos de declaração opostos (fls. 306/314).
+É o relatório.
+Decido.
+Quanto à controvérsia, não é cabível o Recurso Especial porque interposto contra acórdão com fundamento em norma infralegal (Portaria n.º 1.820/2009 e Portaria de Consolidação n.º 1/2017, ambas do Ministério da Saúde), ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal.
+Nesse sentido: "Apesar de a recorrente ter indicado violação de dispositivos infraconstitucionais, a argumentação do decisum está embasada na análise e interpretação da Resolução 414/2010 da ANEEL, norma de caráter infralegal cuja violação não pode ser aferida por meio de recurso especial". (AgInt no AREsp n. 1.621.833/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 16.6.2021).
+Confiram-se ainda os seguintes precedentes: REsp n. 1.517.837/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 10.5.2021; AgInt no REsp .. 1.859.807/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.6.2020; AgInt no AREsp n. 1.673.561/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 25.3.2021; AgInt no AREsp n. 1.701.020/DF, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 27.11.2020.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+Fixadas tais premissas, extrai-se dos autos que o autor, vítima do acidente em questão, demonstrou que sua companheira, VANESSA FERREIRA SANTANA, compareceu a diversas consultas e exames, na , conforme diversos atestados de qualidade de acompanhante do paciente comparecimento, inclusive com necessidade de afastamento de suas atividades laborais (Id 148398859 / 148409229 / 152213026, p.5 - origem).
+Comprovou, também, mediante relatórios médicos, a necessidade de acompanhante em em razão de restrição total de tempo integral (Id 149317998, p.1 / locomoção e auxílio às necessidades básicas 154319947, p.3 - origem), a demonstrar o comprometimento de sua autonomia.
+Evidencia-se, ainda, que a companheira, anteriormente ao acidente, recebia rendimentos por produção, no valor médio mensal de 600,00, em razão de trabalho em associação de catadores, deixando de receber tais recursos, conforme declaração emitida pela Associação (Id 156368421 - origem), em nítido prejuízo à renda familiar.
+Nesse quadro, vislumbra-se razoável, ante as peculiaridades do caso, que a ré-agravada arque com as despesas e gastos decorrentes do acompanhamento exercido pela companheira às necessidades do paciente autor (fl. 155).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
