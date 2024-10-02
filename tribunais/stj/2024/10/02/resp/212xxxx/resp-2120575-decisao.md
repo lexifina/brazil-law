@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por LAUDELINA CASARIN SIMÃO e OUTROS, fundamentado nas alíneas "a" e "c" do permissivo constitucional, apresentado em face do acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 24):
+AGRAVO DE INSTRUMENTO - AÇÃO CIVIL PÚBLICA - EXPURGOS INFLACIONÁRIOS - PLANO VERÃO - Atualização do débito até efetivo pagamento e disponibilização - Aplicação imediata do Tema nº 677 do STJ - Não cabimento - Caso em que o acórdão referente à tese firmada no Tema nº 677, do STJ foi contrastado por embargos declaratórios, ensejando-se manifestação do embargado, de acordo com a regra de processamento prevista no § 2º, do art. 1.023, do CPC, para eventual possibilidade infringente, estando ainda aludidos embargos pendentes de análise - Aplicação do acórdão paradigma relativo ao Tema 677 que demanda a conclusão do julgamento dos embargos declaratórios interpostos contra a decisão proferida no REsp nº 1820963/SP .
+AGRAVO DE INSTRUMENTO- EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - CUMPRIMENTO DE SENTENÇA - HONORÁRIOS ADVOCATÍCIOS - Impugnação do executado acolhida - Decisão que arbitrou verba honorária de 10% sobre o valor do excesso - Manutenção da condenação honorária que se impõe.
+Agravo desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 35-37).
+Em suas razões recursais (e-STJ, fls. 39-61), a parte recorrente aponta violação dos arts. 503, I, 904, 926, 927, caput e III, 1.039 e 1.040, III, do Código de Processo Civil de 2015; bem como dissídio jurisprudencial.
+Sustenta, em síntese, que "a Corte Especial deste órgão fracionário, em julgamento inédito no país, revisou a tese fixada no REsp 1.348.640/RS, no julgamento do REsp 1.820.963/SP, dando nova redação ao Tema 677/STJ", contudo, o "Tribunal Estadual Paulista não quer aplicar, trazendo condicionantes da necessidade de trânsito em julgado, com ilações surreais que garantia do juízo tem característica de pagamento".
+Devidamente intimada, a parte agravada não apresentou contrarrazões, conforme certidão de fl. 147.
+O recurso especial foi admitido na origem e os autos subiram a esta Corte de Justiça.
+É o relatório.
+Decido.
+No presente caso, a Corte de origem entendeu que não seria possível aplicar a tese prevista no Tema 667/STJ, em razão da pendência de julgamento de embargos declaratórios interpostos contra a decisão proferida no REsp nº 1.820.963/SP, como se depreende do seguinte trecho do acórdão (e-STJ, fl. 25):
+"Todavia, nenhum dos paradigmas apontados enfrentou a situação aqui ocorrente, qual seja, acórdão contrastado por embargos declaratórios com caráter infringente, tanto que no seu processamento aplicou-se a regra do § 2º, do art. 1.023, do Código de Processo Civil, possibilitando manifestação do embargado, como se pode verificar no Portal do Superior Tribunal de Justiça, na partição de consulta processual, movimentação referente ao REsp nº 1820963/SP (Ministério Público Federal intimado eletronicamente da(o) Vista Ao Embargado Para Impugnação Dos Edcl em 22/02/2023(300104); e outras aberturas de vista de embargos declaratórios ordenadas aos 08/02/2023,aos 07/02/2023, aos 27/01/2023 e aos 26/02/2023).
+Sendo assim, não se afigura idêntica hipótese para aplicação de idêntica solução ao caso presente, como desejado pelos recorrentes, e, nesse contexto, não é possível pleitear-se a aplicação de comandos eventualmente contidos no específico acórdão enquanto não houver o julgamento dos embargos declaratórios interpostos contra a decisão proferida no REsp nº 1820963/SP." (Sem grifo no original).
+Ocorre que, o entendimento desta Corte Superior é no sentido de que, para a aplicação da orientação firmada em caso repetitivo, não é necessário aguardar o trânsito em julgado do acórdão correspondente. Corroboram esse entendimento:
+"PROCESSO CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. JUROS DE MORA. TERMO INICIAL. TEMA REPETITIVO (TEMA 685/STJ). TRÂNSITO EM JULGADO. PRESCINDIBILIDADE. EMBARGOS DE DECLARAÇÃO. PROPÓSITO DE PREQUESTIONAMENTO. MULTA. AFASTAMENTO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Nos termos do Tema 685/STJ, "Os juros de mora incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública, quando esta se fundar em responsabilidade contratual, sem que haja configuração da mora em momento anterior" (REsp 1.361.800/SP, Relator para acórdão Ministro SIDNEI BENETI, CORTE ESPECIAL, julgado em 21/5/2014, DJe de 14/10/2014).
+2. Para aplicação da orientação firmada em caso repetitivo, não é necessário aguardar o trânsito em julgado do acórdão correspondente.
+Precedentes.
+3. A oposição de embargos de declaração, com nítido fim de prequestionamento, não possui caráter protelatório, não ensejando a aplicação da multa prevista no art. 538, parágrafo único, do CPC de 1973, nos termos da Súmula 98/STJ.
+4. Agravo interno a que se dá parcial provimento, a fim de afastar a multa aplicada com fundamento no art. 538, parágrafo único, do CPC/73."
+(AgInt no REsp n. 1.667.497/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 26/2/2024, DJe de 29/2/2024 - sem grifo no original).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO INDIVIDUAL. JUROS DE MORA. TERMO INICIAL. DEMANDA COLETIVA. CITAÇÃO. TÍTULO JUDICIAL. COISA JULGADA. REEXAME. SÚMULA Nº 7/STJ. DECISÃO AGRAVADA. FUNDAMENTOS DEPENDENTES OU FUNDAMENTO ÚNICO. ART. 1.021, § 1º, DO CPC. SÚMULA Nº 182/STJ.
+1. A ausência de impugnação de fundamentos autônomos não acarreta o não conhecimento do recurso, mas tão somente a preclusão do tema, o que não se aplica na hipótese de decisão com fundamento único ou com capítulos que dependam um do outro. Precedente da Corte Especial.
+2. No caso em apreço, incide o disposto no artigo 1.021, § 1º, do Código de Processo Civil e no entendimento jurisprudencial do Superior Tribunal de Justiça, reproduzido na redação da Súmula nº 182/STJ.
+3. Nos termos da tese jurídica firmada no julgamento dos REsps 1.370.899/SP e 1.361.800/SP, os juros de mora incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública quando esta se fundar em responsabilidade contratual, sem que haja configuração da mora em momento anterior .
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de considerar prescindível o trânsito em julgado do acórdão submetido ao rito do art. 543-C do CPC para fins de aplicar o entendimento nele firmado no julgamento de outros recursos em trâmite nesta Corte.
+5. Agravo conhecido em parte e, nessa parte, não provido."
+(AgInt no REsp n. 2.023.118/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 28/8/2023, DJe de 31/8/2023 - sem grifo no original).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO ECONÔMICO. PLANO VERÃO (JANEIRO DE 1989). POUPANÇA. LIQUIDAÇÃO INDIVIDUAL. JUROS DE MORA. TERMO INICIAL. TEMA REPETITIVO.
+1. Os juros de mora devem ser contados desde a citação para a demanda coletiva (ação civil pública). Precedentes.
+2. Para aplicação da orientação firmada em caso repetitivo, não é necessário aguardar o trânsito em julgado do acórdão correspondente. Precedentes.
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 1.747.227/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 28/8/2023, DJe de 31/8/2023 - sem grifo no original).
+Assim, não há que se falar em afastamento da tese repetitiva ou suspensão de sua aplicação, tendo em vista que não é necessário aguardar o trânsito em julgado do acórdão correspondente.
+Diante do exposto, dou provimento ao recurso especial e determino o retorno dos autos à Corte de origem, com o fim de corretamente aplicar o entendimento firmado no julgamento do Tema Repetitivo 677/STJ.
+Publique-se.
+EMENTA
