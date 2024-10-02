@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+Habeas corpus. Notícia de falta grave durante o cumprimento de pena em regime semiaberto. Sustação do regime. Poder geral de cautela do juízo. Constrangimento ilegal não configurado. Ordem denegada.
+O paciente cumpre pena no âmbito dos autos de Execução Criminal nº 0009577- 19.2021.8.26.0502.
+A defesa alega, em síntese, que: (i) o paciente foi surpreendido com um invólucro de maconha após retorno do trabalho externo, o que levou à sustação cautelar do regime semiaberto; (ii) o fato imputado, porte de droga para consumo pessoal, foi descriminalizado pelo Supremo Tribunal Federal no julgamento do Recurso Extraordinário nº 635.659, não configurando crime doloso; (iii) a decisão judicial que manteve a regressão de regime viola a razoabilidade, uma vez que o paciente deveria responder por falta leve ou média, sem justificar a regressão para regime mais severo.
+Ao final, requer a concessão de liminar para suspender a sustação do regime semiaberto e restabelecer o regime intermediário até a apuração da falta leve ou média. No mérito, solicita a cassação definitiva da decisão que sustou o regime semiaberto, mantendo o paciente em regime mais brando. Caso contrário, pede que seja concedida a ordem de habeas corpus de ofício.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Importante destacar que, da forma bem pontuada na origem, a sustação cautelar integra o poder geral de cautela do magistrado executor da reprimenda corporal. Além disso, eventual ausência de tipicidade criminal da conduta não implica reflexos imediatos na apuração de falta grave no âmbito do processo administrativo de execução da pena, que possui contornos próprios regidos pela Lei nº 7.210/1984 (art. 50).
+Sobre o tema, cito precedente de relatoria da Ministra Laurita Vaz:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DESCUMPRIMENTO DAS CONDIÇÕES DA PRISÃO DOMICILIAR. SUSTAÇÃO CAUTELAR DO BENEFÍCIO. POSSIBILIDADE. DECISÃO DEVIDAMENTE FUNDAMENTADA. REVISÃO DO JULGADO. VIA IMPRÓPRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A jurisprudência desta Corte é firme no sentido de ser possível a regressão cautelar, inclusive ao regime prisional mais gravoso, diante da prática de infração disciplinar no curso do resgate da reprimenda, sendo desnecessária até mesmo a realização de audiência de justificação para oitiva do apenado, exigência que se torna imprescindível somente para a regressão definitiva" (RHC 81.352/MA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 18/04/2017, DJe 28/04/2017; sem grifos no original.)
+2. Devidamente fundamentada a decisão que sustou a prisão domiciliar, apoiada no descumprimento das condições antes estabelecidas, o habeas corpus não é a via adequada para a análise das alegações do Apenado, de forma que a matéria probatória será melhor examinada pelo Magistrado de primeiro grau, após a oitiva do Agravante.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 743.857/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/6/2022, DJe de 13/6/2022.)
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
