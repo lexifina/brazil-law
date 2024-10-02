@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por FILOMENO SILVA DE JESUS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO cuja ementa guarda os seguintes termos (fls. 265/266):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROVAS PERICIAIS. CULPA CONCORRENTE CARACTERIZADA. APELO DESPROVIDO.
+Os embargos de declaração opostos pelo recorrente recorrido foram acolhidos com efeitos infringentes (fls. 298):
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. ALEGAÇÃO DE OMISSÃO E PREMISSA FÁTICA EQUIVOCADA. LAUDO EXPEDIDO PELA DEFESA É INCONCLUSIVO QUANTO À RESPONSABILIDADE DA RECORRENTE. PERITO OFICIAL SOMENTE LANÇOU UM JUÍZO DE PROBABILIDADE ENTRES OS DANOS NO IMÓVEL E A CONSTRUÇÃO DO EMPREENDIMENTO. AUSÊNCIA DE COMPROVAÇÃO DO NEXO DE CAUSALIDADE ENTRE O EVENTO DANOSO E A CONDUTA COMISSIVA OU OMISSIVA DO AGENTE. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+No recurso especial, alega divergência de interpretação do art. 1.022, do CPC entre o aresto recorrido e os precedentes desta Corte, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Foram oferecidas contrarrazões ao recurso especial (fls. 337/348).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 354/356), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 371/385).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, de forma clara e devidamente fundamentada, expressamente se manifestou acerca dos pontos alegados como omisso. É o que se extrai do seguinte trecho do acórdão recorrido (fls. 301 e 304):
+ ..  ao melhor analisar os autos, melhor verifico que o parecer oficial indica que a obra "pode ter contribuído para acelerar a destruição da residência" e na ocasião do julgamento da apelação compreendia que a citada afirmação possuía conteúdo absoluto, dando como inconteste o nexo de causalidade entre a construção do empreendimento imobiliário já mencionado.
+Entretanto, ao novamente revolver o material probatório identifico que o perito oficial somente lançou um juízo de probabilidade entres os danos no imóvel e a construção do empreendimento, sugerindo a possibilidade, mas não a certeza, de ter ocorrido a aceleração da destruição da residência, haja vista a utilização do vocábulo "pode".
+Com efeito, para a caracterização da responsabilidade civil, antes de tudo, há de existir e estar comprovado o nexo de causalidade entre o evento danoso e a conduta comissiva ou omissiva do agente e afastada qualquer das causas excludentes do nexo causal.
+ ..
+Nesse sentir, para se responsabilizar o Embargante foi levado em consideração alguns depoimentos de informantes e laudo anterior da Defesa Civil, que apesar de cunho oficial, não deixaram extreme de dúvidas quanto a culpa pelo evento danoso.
+Ao se levar em consideração que o laudo oficial indica que a construção do condomínio "pode ter contribuído para acelerar a destruição do imóvel", como também que o imóvel danificado foi construído sem atender as normas técnica e em um barraco sem proteção adequada para proteção das águas pluviais, ao melhor analisar o feito, verifico que a causa adequada para o infortúnio foi a construção do imóvel em área de risco e fora dos padrões de segurança, não havendo elemento probatório concreto que torne, extreme de dúvidas, ter a construção do condomínio contribuído para o evento danos.
+Ainda, levo em consideração que a referida edificação, conforme narrativa nos autos, era antiga e, seguramente, não estava isenta das intempéries do tempo, o que aliado a identificação que a construção não atendia as normas de segurança, entendo por não satisfeito os pressupostos da responsabilidade civil para atrelar o Embargante ao evento danoso (nexo causal).
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição. A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO C/C INDENIZATÓRIA POR DANOS MORAIS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. CUMULAÇÃO PRÓPRIA E SIMPLES DE PEDIDOS. CUMULAÇÃO DE AÇÕES DISTINTAS. FIXAÇÃO DE BASES DE CÁLCULO DISTINTAS PARA CADA PRETENSÃO AUTÔNOMA. POSSIBILIDADE.
+1. Ação de declaração de inexistência de débito c/c indenizatória por danos morais, da qual foi extraído o presente recurso especial, interposto em 3/2/2023 e concluso ao gabinete em 4/8/2023.
+2. O propósito recursal é decidir se os honorários advocatícios sucumbenciais podem ser fixados sobre bases de cálculos distintas na hipótese de cumulação própria e simples de pedidos.
+3. Não há ofensa aos arts. 489 e 1.022 do CPC, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+Precedentes.
+4. Em se tratando de cumulação própria e simples de pedidos, há, na realidade, a cumulação de ações distintas, de modo que a fixação dos honorários sucumbenciais deve observar a base de cálculo aplicável a cada pretensão autônoma, não sendo possível definir uma como principal em detrimento da outra.
+5. Assim, havendo cumulação própria e simples de pedidos, os honorários devem ser fixados entre 10 a 20% sobre as respectivas bases de cálculo aplicáveis a cada pretensão autônoma, observando, individualmente, a ordem de preferência do art. 85, § 2º, do CPC.
+6. Hipótese em que o acórdão recorrido considerou o proveito econômico obtido referente ao pedido declaratório e o valor da condenação referente ao pedido indenizatório, decidindo, assim, que "deve ser considerada a dívida que foi declarada inexigível (R$ 159.752,48), corrigida desde a inicial, e a condenação agora fixada (R$ 10.000,00), corrigida desde a sentença, para servir como base de cálculo da verba honorária, mantida em 13%" (e-STJ fl. 761).
+7. Recurso especial conhecido e não provido.
+(REsp n. 2.088.636/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/3/2024, DJe de 7/3/2024.)
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+Ante o exposto, conheço do agravo e NEGO provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ALEGAÇÃO DE DANOS ESTRUTURAIS EM IMÓVEL EM RAZÃO DE CONSTRUÇÃO REALIZADA PELO AGRAVADO. VIOLAÇÃO AO ART. 1022 DO CPC. INEXISTÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
