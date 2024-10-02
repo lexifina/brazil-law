@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por BANCO SAFRA S.A contra v. acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÕES CÍVEIS. "AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C INDENIZAÇÃO POR DANO MORAL E REPETIÇÃO DE INDÉBITO, COM PEDIDO DE TUTELA DE URGÊCNIA". SENTENÇA DE PROCEDÊNCIA.
+RECURSO DE APELAÇÃO I (DO REQUERIDO). 1. INTITUIÇÃO FINANCEIRA QUE APRESENTOU CONTRATO ASSINADO EM NOME DO AUTOR, CUJA AUTENTICIDADE FOI EXPRESSAMENTE IMPUGNADA POR ELE. FALSIFICAÇÃO DE ASSINATURA CONSTATADA EM PERÍCIA GRAFOTÉCNICA. 2. INDENIZAÇÃO POR DANOS MORAIS. DESCONSTOS PROMOVIDOS NO BENEFÍCIO PREVIDENCIÁRIO DO AUTOR, QUE É APOSENTADO, BENEFICIÁRIO DA GRATUIDADE JUDICIÁRIA E AUFERE PARCOS RENDIMENTOS. GRAVE FALHA NA PRESTAÇÃO DOS SERVIÇOS DO REQUERIDO. SITUAÇÃO QUE ULTRAPASSOU A ESFERA DO MERO DISSABOR. DEVER DE INDENIZAR MANTIDO. 3. PLEITO DE MINORAÇÃO DO "QUANTUM" INDENIZATÓRIO. IMPOSSIBILIDADE. PEDIDO SUBSIDIÁRIO DE COMPENSAÇÃO DE VALORES. POSSIBILIDADE. RECURSO DE APELAÇÃO I CONHECIDO E PARCIALMENTE PROVIDO.
+RECURSO DE APELAÇÃO II (DO AUTOR). DESCONTO SOBRE BENEFÍCIO PREVIDÊNCIÁRIO. DANO MORAL CONFIGURADO.
+DESCONTOS QUE CAUSARAM DIMINUIÇÃO NO JÁ BAIXO PODER AQUISITIVO DO AUTOR, IDOSO E PENSIONISTA. "QUANTUM" INDENIZATÓRIO MAJORADO DE ACORDO COM AS PECULIARIEDADES DO CASO E OS PARÂMETROS ADOTADOS POR ESTA CORTE (R$7.000,00). RECURSO DE APELAÇÃO II CONHECIDO E PARCIALMENTE PROVIDO." (e-STJ, fls.368/369)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 399/404)
+Nas razões do recurso especial, o agravante alega violação do art. 42, parágrafo único, do CDC, sustentando, em síntese, que deve haver a efetiva má-fé da instituição financeira para configurar a repetição de indébito em dobro.
+Aduz, que "não houve qualquer má-fé do recorrente porque as cobranças foram todas efetuadas conforme previsão contratual, motivo por que não se pode cogitar na prática de qualquer conduta que atraia o instituto em comento. O recorrente promoveu a cobrança do crédito corretamente nos estritos e exatos termos contratuais como explicado e é absolutamente descabido considerar isto um ato de má-fé." (e-STJ, fls. 417/418)
+É o relatório. Decido.
+O Tribunal de origem, entendeu que não pode apreciar a questão da repetição em dobro uma vez que a instituição financeira não se insurgiu em relação a referida tese quando da interposição da apelação, consignando, in verbis:
+"A bem da verdade, a requerida sequer se insurgiu, aquando da interposição do Apelo, a respeito da devolução dos valores de forma dobrada pela ora embargante, conforme o decidido na r. Sentença, pelo que a questão não foi reapreciada pelo Colegiado.
+Não pode agora, pois, a requerida, acoimar o Acórdão de omisso por não haver se manifestado acerca da modulação dos efeitos no que respeita à repetição do indébito de forma dobrada - com ou sem comprovação da efetiva má-fé da instituição financeira -, tão somente após a data da publicação do Acórdão paradigma, no EAREsp n.º 676.608/RS, eis que sequer suscitada a questão da repetição em dobro nesta esfera recursal." (e-STJ, fl. 400, grifo no original)
+Ocorre que a parte recorrente - nas razões do recurso especial - não rebateu de forma específica e suficiente referida fundamentação, o que atrai, na hipótese, a incidência, por analogia das Súmulas nº 283 e 284 do Supremo Tribunal Federal. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E
+PROCESSUAL CIVIL. SÚMULA Nº 7/STJ E NºS 283 E 284/STF. DEFICIÊNCIA NA COMPROVAÇÃO DA DIVERGÊNCIA.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja o não conhecimento do recurso, incidindo, por analogia, o enunciado das Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula º 7 do Superior Tribunal de Justiça.
+3.A divergência jurisprudencial, nos ermos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não restou evidenciado na espécie.
+4. Agravo regimental não provido." (AgRg no AREsp 293.137/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, , julgado em 21/10/2014, DJe 29/10/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se
+EMENTA
