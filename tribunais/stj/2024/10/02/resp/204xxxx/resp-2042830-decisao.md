@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por MAURICIO DAL AGNOL, com fundamento no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO. MANDATO. CUMPRIMENTO DE SENTENÇA. AÇÃO DE COBRANÇA. CASO CONCRETO. MATÉRIA DE FATO. APLICAÇÃO DA TAXA SELIC. IMPOSSIBILIDADE. MATÉRIA PRECLUSA. AFRONTA À SEGURANÇA JURÍDICA. PRECEDENTES JURISPRUDENCIAIS. MANUTENÇÃO DA DECISÃO RECORRIDA. AGRAVO DE INSTRUMENTO DESPROVIDO."
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões recursais, a parte recorrente alega violação aos arts. 406 do CC/2002; 322, §1º, 505, I e II, 489, § 1º, II, III e IV, e 1.022, II, parágrafo único, I e II, do CPC/2015; 13 da Lei 9.065/1995; 84, I e § 8º da Lei 8.981/1995; 39, § 4º, da Lei 9.250/1995; 61, § 3º, da Lei 9.430/1996; 30 da Lei 10.522/2002; 24, § 1º, da Lei 8.906/1994; 2º do Decreto-Lei 4.657/1942; 111 do CTN; e 9º da Lei 1.060/1950. Defende, além de negativa de prestação jurisdicional, a aplicação da Taxa Selic para o cálculo dos juros de mora e correção monetária, sem a cumulação com qualquer outro índice, sem que tal circunstância configure violação à coisa julgada.
+Aduz a inexistência de previsão legal para a extensão do benefício da gratuidade de justiça na fase de conhecimento à fase de execução, ante a derrogação do art. 9º, da Lei 1.060/1950 pelo art. 99, § 5º, do CPC/2015.
+Contrarrazões apresentadas às fls. 828-831 (e-STJ).
+É o relatório. Decido.
+De início, é indevido conjecturar acerca de deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição na decisão apenas por ter sido proferida em desconformidade com os interesses da parte. No mesmo sentido: AgInt no AREsp 1621374/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2020, DJe25/06/2020; AgInt no AREsp 1595385/MT, Rel. Ministro LUIS FELIPE SALOMÃO,QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020; AgInt no AgInt no AREsp 1598925/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em11/05/2020, DJe 25/05/2020; AgInt nos EDcl no REsp 1812571/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe16/03/2020; AgInt no AREsp 1534532/SP, Rel. Ministro ANTONIO CARLOSFERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe 15/06/2020; AgInt nos EDcl no AREsp 1374195/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/05/2020, DJe 25/05/2020.
+Conforme entendimento desta Corte Superior, "é desnecessária a reiteração do pedido de assistência judiciária gratuita na instância especial, porquanto, uma vez concedido, o benefício da gratuidade da justiça prevalecerá em todas as instâncias e para todos os atos do processo, nos termos do art. 9º da Lei 1.060/50" (EDcl no AgInt no AREsp n. 1.776.740/DF, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/6/2021, DJe de 29/6/2021). No mesmo sentido: AgInt no AREsp n. 1.678.237/SC, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/11/2021, DJe de 26/11/2021.
+E ao contrário do sustentado pela parte recorrente, não houve derrogação do referido dispositivo legal pelo Código de Processo Civil de 2015, que, como visto, permanece sendo aplicado por esta Corte.
+Desse modo, constatada a conformidade do acórdão recorrido com a jurisprudência desta Corte, é inviável o provimento do recurso especial no tópico, nos termos da Súmula 83/STJ.
+Além disso, na fase de liquidação ou de cumprimento de sentença, não é possível alterar o critério estabelecido no título exequendo para a correção monetária e juros de mora, sob pena de ofensa à coisa julgada.
+Nesse sentido, confiram-se:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. CUMPRIMENTO DE SENTENÇA APÓS A ENTRADA EM VIGOR DO CC/2002. PRETENSÃO DE APLICAÇÃO DA TAXA SELIC. INVIABILIDADE. AFRONTA À COISA JULGADA. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. NÃO PROVIMENTO DO APELO NOBRE. RECONHECIMENTO. AGRAVO INTERNO PARCIALMENTE PROVIDO APENAS PARA MODIFICAR O DISPOSITIVO DE RECURSO NÃO CONHECIDO PARA NÃO PROVIDO, SEM ALTERAÇÕES DAS CONCLUSÕES ADOTADAS NA DECISÃO MONOCRÁTICA.
+1. Não é possível a modificação, na fase de liquidação ou cumprimento de sentença, dos juros de mora e da correção monetária estabelecidos no título exequendo, sob pena de ofensa à coisa julgada.
+2. O reconhecimento da coisa julgada no tocante aos juros de mora e correção monetária acarreta o não provimento do recurso.
+3. Agravo interno parcialmente provido, apenas para correção do dispositivo."
+(AgInt no AREsp n. 2.243.081/RS, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/8/2023, DJe de 23/8/2023).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. JUROS REMUNERATÓRIOS. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NÃO CONHECER DO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada. Novo exame do feito.
+2. A Corte de origem concluiu que houve coisa julgada, e nesse contexto não seria possível discutir a possibilidade de aplicação da taxa SELIC ao caso.
+3. Com efeito, esta Corte Superior entende que proceder à alteração dos índices de correção monetária estabelecidos no título judicial, na fase de cumprimento de sentença, configuraria violação à coisa julgada. Incidência da Súmula 83/STJ.
+4. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial."
+(AgInt no AREsp n. 2.268.975/RS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/5/2023, DJe de 25/5/2023).
+"AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA PROFERIDA APÓS A ENTRADA EM VIGOR DO CÓDIGO CIVIL DE 2002. ALTERAÇÃO NAS TAXAS DE JUROS DE MORA OU CORREÇÃO MONETÁRIA. OFENSA A COISA JULGADA. SÚMULA 568 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+2. A jurisprudência desta Corte Superior dispõe no sentido de não ser possível, na fase de liquidação ou cumprimento de sentença, alterar o critério estabelecido, no título exequendo, para a fixação dos juros de mora, sob pena de ofensa à coisa julgada. Súmula 568 do STJ.
+Precedentes.
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 1.960.296/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13.3.2023, DJe de 16.3.2023).
+Cumpre destacar que a Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento do REsp 1.795.982/SP, encerrado em 21/8/2024, acórdão pendente de publicação, Relator p/o acórdão Min. RAUL ARAÚJO, reafirmou o entendimento de que, nos termos do art. 406 do CC, na redação anterior à Lei 14.905/2024, "é a Selic a taxa de juros de mora aplicável às dívidas de natureza civil, por ser esta a taxa "em vigor para a atualização monetária e a mora no pagamento de impostos devidos à Fazenda Nacional"", em conformidade com interpretação já conferida pelo EREsp n. 727.842/SP, Relator Ministro TEORI ALBINO ZAVASCKI, CORTE ESPECIAL, julgado em 8/9/2008, DJe de 20/11/2008, e pelos julgamentos dos Temas 99 e 176 dos Recursos Repetit ivos.
+Esse posicionamento foi referendado pela recente alteração efetuada pela Lei 14.905/2024, que incluiu o § 1º ao art. 406 do CC, declarando expressamente:
+"Art. 406. Quando não forem convencionados, ou quando o forem sem taxa estipulada, ou quando provierem de determinação da lei, os juros serão fixados de acordo com a taxa legal.
+§ 1º A taxa legal corresponderá à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), deduzido o índice de atualização monetária de que trata o parágrafo único do art. 389 deste Código."
+Além disso, diferentemente do caso julgado na fixação da tese do Tema 176 dos Recursos Repetitivos, quando formado o título executivo, já estava em vigor o art. 406 do CC/2002, com a interpretação já conferida nos julgamentos do EREsp n. 727.842/SP, Relator Ministro TEORI ALBINO ZAVASCKI, CORTE ESPECIAL, julgado em 8/9/2008, DJe de 20/11/2008, e do Tema 99 dos Recursos Repetitivos.
+E não se trata de simples modificação do percentual aplicável, mas de alteração do índice aplicado, de modo que caberia à parte embargante obter a revisão, o que não ocorreu.
+Essas circunstâncias, aliás, também foram previstas no julgamento do Tema 176 dos Recursos Repetitivos, tendo sido reconhecida como hipótese de violação à coisa julgada:
+"VOTO
+O EXMO. SR. MINISTRO CASTRO MEIRA (Relator):
+(..)
+Ademais, o pagamento de juros moratórios é obrigação de trato sucessivo, que se renova mês a mês, devendo incidir a taxa prevista na lei vigente à época de seu vencimento, a menos que o título exequendo seja posterior ao novo regramento e estabeleça índice diverso. É o que se observa dos seguintes precedentes"
+No caso dos autos, o Tribunal de origem apontou constar do título exequendo a previsão de juros de mora de 1% ao mês e correção monetária pelo IGP-M, considerando, por isso, impossível a aplicação da Selic, sob pena de ofensa à coisa julgada.
+Desse modo, constatada a conformidade do acórdão recorrido com a jurisprudência desta Corte, é inviável o provimento do recurso especial no tópico, nos termos da Súmula 83/STJ.
+Diante do exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
