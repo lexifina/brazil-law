@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se o agravo em recurso especial interposto por PROJETO IMOBILIARIO E 23 SPE LTDA. (primeiro agravante), contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de consignação em pagamento, cumulada com rescisão contratual e restituição de valores pagos, ajuizada por JULIANA CAROLINE BIM e RODNEI DA SILVA GASPAR JUNIOR, em face de PROJETO IMOBILIARIO E 23 SPE LTDA.
+Acórdão: não conheceu do apelo dos autores e conferiu parcial provimento ao apelo da ré, nos termos da seguinte ementa:
+COMPROMISSO DE COMPRA E VENDA. BEM IMÓVEL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESTITUIÇÃO DE QUANTIAS PAGAS. Sentença de parcial procedência. Apelo da ré. Autores que desistiram da aquisição do imóvel diante da dificuldade com o financiamento junto à Caixa Econômica Federal. Financiamento junto ao agente financeiro de responsabilidade dos compradores, conforme previsão contratual. Retenção da comissão de corretagem. Possibilidade. Matéria pacificada em julgamento de recurso especial repetitivo (1.599.511/SP). Contrato que previu expressamente a comissão de corretagem. Cláusula válida. Rescisão do contrato. Contrato firmado na vigência da Lei do Distrato nº 13.786/18 (09.11.2019). Aplicação das Súmulas 1 e 2 do TJSP. Devolução das parcelas pagas. Pretensão da ré de retenção de 50% do valor do preço do imóvel que representa perda de grande parte das quantias desembolsadas pelos autores. Princípios da equidade e da boa-fé que regem as relações de consumo, bem como o do equilíbrio contratual. Aplicação dos artigos 51 e 53 do Código de Defesa do Consumidor. Devolução de 80% dos valores pagos, excluído o montante pago a título de comissão de corretagem. Juros de mora. Desistência dos autores. Incidência a partir do trânsito em julgado da decisão. Questão objeto de decisão sob o regime de recurso repetitivo no REsp 1.740.911, de relatoria da Ministra Isabel Gallotti. Retensão devida. Recurso adesivo interposto na mesma peça das contrarrazões. Não conhecimento. Irregularidade formal. Sentença parcialmente reformada.
+RECURSO PARCIALMENTE PROVIDO DA RÉ E NÃO CONHECIDO O RECURSO DOS AUTORES.
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) ausência de violação do art. 1.022 do CPC;
+ii) não foi demonstrada a violação dos dispositivos arrolados; e
+iii) ausência de comprovação do dissídio jurisprudencial.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante:
+i) reitera a violação de dispositivos legais; e
+ii) assevera que acórdão recorrido está em desacordo com a jurisprudência do STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice:
+i) ausência de comprovação do dissídio jurisprudencial.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AR Esp 2.292.265/SP, 3ª Turma, D Je de 18/8/2023, e AgInt no AR Esp 2.335.547/SP, 4ª Turma, D Je de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial interposto por PROJETO IMOBILIARIO E 23 SPE LTDA., com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ fl. 433) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
