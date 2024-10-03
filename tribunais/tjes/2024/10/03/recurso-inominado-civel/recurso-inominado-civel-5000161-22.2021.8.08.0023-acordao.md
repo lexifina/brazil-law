@@ -1,0 +1,47 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+TURMA RECURSAL - 2ª TURMA
+
+PROCESSO Nº 5000161-22.2021.8.08.0023
+
+RECURSO INOMINADO CÍVEL (460)
+
+RECORRENTE: SONIA MARIA ROMANELLI
+
+RECORRIDO: MUNICIPIO DE ICONHA
+
+RELATOR(A):
+ANA FLAVIA MELO VELLO
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+Voto servindo como ementa.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
