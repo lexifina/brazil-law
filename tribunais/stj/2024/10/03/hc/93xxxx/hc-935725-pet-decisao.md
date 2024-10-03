@@ -1,0 +1,9 @@
+DECISÃO
+Os impetrantes juntaram aos autos petição incidental, com a respectiva documentação, em que apontam descumprimento, na origem, da decisão de fls. 477-497 em razão da absoluta impossibilidade de realização da intervenção cirúrgica com o paciente submetido à prisão preventiva, ainda que, eventualmente, em complexo médico legal. Pedem, assim, reanálise do pedido liminar para conferir maior extensão à ordem concedida e autorizar a realização do procedimento médico em regime domiciliar, inicialmente, por noventa e cinco dias, conforme necessidade clínica. Requerem, ainda, subsidiariamente, salvo-conduto para a mesma finalidade (fls. 601-656).
+A documentação trazida aos autos retrata quadro de inviabilidade de cumprimento da decisão de fls. 477-497 ante a inexistência de estrutura do sistema para materializar a ordem da forma como foi concedida (documentação de fls. 500 e ss.). Consta, ainda, necessidade médica de intervenção cirúrgica com relativa urgência e com cronograma detalhado pelo médico responsável à fl. 64.
+Assim, por razões estritamente humanitárias e com a finalidade de garantia do direito constitucional da saúde do paciente, concedo parcialmente a ordem para autorizar que o procedimento médico, os respectivos exames e os cuidados pós-operatórios sejam realizados em regime de prisão domiciliar, incialmente, pelo prazo indicado de noventa e cinco dias ou em tempo menor caso tenha alta médica.
+Após o esgotamento do prazo d e noventa e cinco dias, deve o juízo competente examinar a necessidade e adequação do reestabelecimento da prisão preventiva ou da manutenção do regime domiciliar.
+Determino, por fim, a retificação na autuação do processo para que conste como proveniente do estado do Paraná: HC 935725/PR, e não HC 935725/RS.
+Ante o exposto, apreciado o pedido de forma exauriente, julgo extinto o processo com resolução do mérito.
+Publique-se. Intimem-se.
+EMENTA
