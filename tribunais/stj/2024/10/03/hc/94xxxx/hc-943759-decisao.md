@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de habeas corpus, sem pedido de liminar, em favor de JOAO MARCOS SOLIDARIO, impetrado contra acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Embargos de Declaração na Apelação Criminal n. 5002304-31.2023.8.24.0067).
+Consta dos autos que o paciente foi condenado às penas de 02 (dois) anos e 09 (nove) meses de reclusão, em regime inicial semiaberto, e 13 (treze) dias-multa, pela prática do delito previsto no art. 155, § 4º, II, do Código Penal.
+A impetrante sustenta a ocorrência de constrangimento ilegal, porquanto seria
+plenamente possível valer-se dos embargos de declaração para suprir uma omissão indireta, quando o ato judicial deixar de se pronunciar sobre questão que, a despeito de não ter sido suscitada pela parte interessada, poderia (poder-dever) ter sido resolvida de ofício pelo julgador (fl. 3).
+Aduz que deverá incidir a atenuante da confissão, mesmo que se trate de confissão qualificada (fl. 3).
+Alega, ainda, ser ilegal negar a substituição da pena exclusivamente com fundamento na reincidência genérica (condenações anteriores por receptação e ameaça) do paciente (fl. 3).
+Requer a concessão da ordem para (fl. 11):
+1) anular o acórdão citra petita para determinar ao TJSC que prolate outra decisão, desta vez enfrentando as teses de cabimento da atenuante da confissão e de substituição da pena;
+2) subsidiariamente, reduzir a pena imposta ao PACIENTE na segunda fase da dosimetria pela incidência da atenuante da confissão espontânea (CP, art. 65, III, d);
+3) subsidiariamente, substituir a pena de reclusão por uma restritiva de direitos e multa (ou, subsidiariamente, por duas restritivas de direitos), na forma do art. 44, §3.º, do Código Penal).
+Subsidiariamente, caso não seja conhecido o habeas corpus, seja a ordem concedida de ofício, diante da manifesta ilegalidade (CPP, arts. 647-A e 654, § 2.º).
+Foram prestadas informações às fls. 401/404 e 405/461.
+O Ministério Público Federal opinou pela concessão parcial do habeas corpus, para que a atenuante da confissão seja parcialmente compensada com a multirreincidência. (fls. 463/466).
+É o relatório.
+DECIDO.
+De acordo com as informações prestadas pelo Juízo de primeiro grau (fls. 401/404) e pelo Tribunal de origem (fls. 405/407), verifico que o presente habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, já transitado em julgado. Diante dessa situação, não deve ser conhecido o presente writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Com efeito, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, "as revisões criminais e as ações rescisórias de seus julgados" (STJ, AgRg no HC 573.735/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/04/2021, DJe 30/04/2021; AgRg no HC 610.106/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021; HC 512.674/CE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, decisão monocrática, DJe 30/05/2019; HC 482.877/SP, Rel. Ministro JORGE MUSSI, decisão monocrática, DJe 29/03/2019; HC 675.658/PR, Ministro RIBEIRO DANTAS, decisão monocrática, DJe 04/08/2021; HC 677.684/SP, Ministro ANTONIO SALDANHA PALHEIRO, decisão monocrática, 02/08/2021, v.g.).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, isso porque,  e mbora o Agravante alegue que a matéria fora ventilada em embargos de declaração opostos contra o acórdão do julgamento da apelação, a oportunidade para suscitá-la estava preclusa. Consiste em inovação recursal a pretensão de análise de controvérsia deduzida somente nos embargos de declaração ou em agravo regimental (AgRg no HC n. 521.849/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 4/8/2020, DJe de 19/8/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. PLEITO PARA QUE O TRIBUNAL DE ORIGEM CONHEÇA DOS EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM. ANPP. INDULTO. TEMAS NÃO SUSCITADOS NAS RAZÕES DA APELAÇÃO. INOVAÇÃO RECURSAL EM EMBARGOS DE DECLARAÇÃO. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. PARECER MINISTERIAL ACOLHIDO.
+1. Não há ilegalidade a ser corrigida de ofício por esta Corte Superior nem mesmo a determinação do retorno dos autos ao Tribunal estadual para a análise dos embargos de declaração, dada a inexistência de vício a ser sanado nos aclaratórios lá opostos, haja vista que os temas relativos ao acordo de não persecução penal e ao indulto não foram suscitados nas razões da apelação, de modo que o Tribunal a quo não estaria obrigado a analisar os referidos assuntos, por tratar-se de inovação recursal. Precedentes.
+2. Consoante destacado pelo Parquet Federal, é pacífico o entendimento desta Corte no sentido de que " a  alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (REsp n. 1.439.866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 6/5/2014) - (AgRg no AREsp n. 2.338.357/MG, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/3/2024, DJe 13/3/2024).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 835.751/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/9/2024, DJe de 12/9/2024, grifamos)
+Ante o exposto, não conheço do pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
