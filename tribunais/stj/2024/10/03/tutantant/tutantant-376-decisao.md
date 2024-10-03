@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de pedido de tutela cautelar antecedente apresentado pelo ESPÓLIO DE EDGARD SOARES VIEIRA FILHO e MARIA ASSUMPTA FRANCO VIEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado São Paulo assim ementado (fl. 388):
+AGRAVO DE INSTRUMENTO AÇÃO ANULATÓRIA ARREMATAÇÃO DE BEM IMÓVEL BEM DE FAMÍLIA NULIDADE DA INTIMAÇÃO DA PENHORA I Agravante que ajuizou ação anulatória, visando, em síntese, declarar a nulidade dos atos expropriatórios, em especial, a arrematação do imóvel. Embargos de terceiro em que os agravantes se manifestaram, em tese, não podendo alegar desconhecimento da penhora e consequente nulidade. Ação julgada procedente em parte reconhecendo a penhora somente de 50% do imóvel, pois a outra metade pertence à Maria Assumpta Franco Vieira (coagravante); II Matéria abarcada pela coisa julgada que não pode mais ser objeto de discussão, exceto se tivesse sido ajuizada ação rescisória, no prazo legal, o que não ocorreu; III Litigância de má-fé configurada dado excesso de ações e recursos no intuito de discutir as mesmas materiais. Multa arbitrada em 5% do valor da causa.
+Os requerentes informam que a situação excepcional de teratologia do acórdão recorrido autoriza a atuação antecedente do STJ, de modo a proporcionar a segurança jurídica em relação ao bem da vida discutido nos autos.
+Defendem a nulidade da arrematação do bem diante da falta de julgamento da impugnação à penhora, bem como da circunstância de ser bem de família.
+Sustentam "a necessidade de suspensão do efeito suspensivo pelo STJ contra a decisão atacada é a única saída no caso, em que por sinal estão a iminência de serem despejados a qualquer momento", ressaltando que a requerente é meeira, cadeirante e tem 90 anos de idade.
+É o relatório. Decido.
+De acordo com o que prevê o art. 300 do CPC, "a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo".
+Já a concessão de efeito suspensivo a recurso especial previsto no art. 1.029, § 5º, do CPC pressupõe a existência de juízo positivo de admissibilidade pelo presidente do tribunal de origem, a viabilidade do recurso especial, a plausibilidade jurídica do direito invocado e a configuração do periculum in mora.
+No caso, da leitura do recurso especial, verifica-se que, diante da ausência de indicação de quais dispositivos de lei teriam sido violados e também da falta de impugnação do acórdão no que se refere aos efeitos da coisa julgada, não ficou demonstrada a plausibilidade de provimento do apelo extremo.
+Ante o exposto, não conheço do pedido .
+Publique-se. Intimem-se.
+EMENTA
