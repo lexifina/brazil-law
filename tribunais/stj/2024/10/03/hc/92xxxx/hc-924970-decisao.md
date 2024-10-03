@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VITOR DA SILVA CLEMENTINO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo proferido no Recurso em Sentido Estrito n. 0005695-76.2024.8.26.0071.
+Consta nos autos que o paciente foi preso em flagrante delito no dia 29/10/2023, em virtude da apreensão de 55 (cinquenta e cinco) porções de crack, pesando 11,8g.
+Na audiência de custódia, o Juízo de primeiro grau concedeu liberdade provisória ao indiciado, mediante a imposição de medidas cautelares diversas da prisão.
+Após descumprimento das medida impostas, o Ministério Público requereu a revogação das medidas cautelares e a decretação da prisão preventiva.
+O Juízo a quo não acolheu o pleito ministerial, indeferindo o requerimento de revogação das medidas cautelares anteriormente concedidas.
+Inconformado, o Ministério Público interpôs recurso em sentido estrito, ao qual o Tribunal de origem deu provimento a fim de decretar a prisão preventiva do acusado.
+Neste writ, a impetrante alega que não se encontram presentes os requisitos autorizadores da prisão preventiva e que o decreto prisional não apresenta fundamentação idônea.
+Sustenta que, em caso de eventual condenação, fará jus à incidência da causa especial de diminuição de pena prevista no § 4.º do art. 33 da Lei de Drogas.
+Requer, em liminar e no mérito, a expedição de contramandado de prisão em favor do paciente.
+O pedido liminar foi indeferido (fls. 33-35).
+As informações foram prestadas (fls. 43-58 e 63-76).
+O Ministério Público Federal manifestou-se às fls. 78-85, opinando pelo não conhecimento do writ, mas pela concessão parcial da ordem, de ofício, para que seja substituída a prisão preventiva por medidas cautelares alternativas.
+É o relatório.
+DECIDO.
+A Corte local, ao apreciar requisição do Ministério Público, decretou a prisão preventiva do paciente sob os seguintes fundamentos (fls. 17-22; grifamos):
+ ..
+Em audiência de custódia (fls. 74/78), foi concedida a liberdade provisória ao recorrido Vítor, fixadas as seguintes medidas cautelares diversas da prisão:
+a) Comparecimento mensal em juízo, a fim de justificar suas atividades;
+b) Proibição de se ausentar da Comarca, sem prévia autorização judicial;
+c) Recolhimento domiciliar no período noturno (das 22 às 6 horas);
+d) Submeter-se a programa de tratamento para dependência química.
+Porém, conforme certificado nos autos, o recorrido Vítor não foi localizado para notificação e citação (fl. 128), também não compareceu em cartório para cumprimento da condição imposta (fls. 143).
+ ..
+O recurso ministerial é de ser provido.
+Há nos autos indícios suficientes de que tenha o recorrido praticado o crime que lhe está sendo imputado, pelo qual foi preso em flagrante delito.
+Ademais, a natureza e quantidade da droga apreendida, 55 porções de "crack", justifica, por si só, a segregação do recorrido da sociedade, pelo excessivo mal que pode causar à saúde pública, atingindo um número incontável de pessoas, podendo levar os usuários da droga traficada até a morte, o que bem revela a frieza, indiferença e, consequentemente, periculosidade do recorrido, de modo a justificar a manutenção de sua custódia, para garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal.
+ ..
+Ressalte-se que, embora o recorrido seja tecnicamente primário, responde a outros processos criminais, tendo sido preso em flagrante delito aos 17/06/2022, sendo-lhe concedida a liberdade provisória; foi preso em flagrante delito aos 04/10/2022, sendo- lhe concedida a liberdade provisória; foi preso em flagrante delito aos 25/04/2023 e condenado aos 15/08/2023, sendo-lhe deferido o recurso em liberdade, quando veio a ser preso nestes autos aos 29/10/2023, demonstrando possuir conduta antissocial, de modo a justificar a manutenção de sua custódia, nos termos do art. 312 do Código de Processo Penal.
+ ..
+Pelos mesmos motivos, inadmissível a substituição da prisão preventiva por uma das medidas cautelares previstas no art. 319 do Código de Processo Penal, já que o recorrido não demonstrou disposição alguma de cumpri-las.
+Desta forma, DOU PROVIMENTO ao recurso ministerial, para decretar a prisão preventiva do recorrido Vítor da Silva Clementino, expedindo-se mandado de prisão contra ele.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelo Tribunal a quo, na medida em que a prisão preventiva do paciente foi decretada após constatar o descumprimento de medidas cautelares anteriormente impostas em decisão que lhe concedera liberdade provisória, bem como diante do fundado risco de reiteração delitiva, o que justifica a constrição para garantia da ordem pública. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DESCUMPRIMENTO DE MEDIDAS CAUTELARES. PRISÃO PREVENTIVA. LEGALIDADE. CITAÇÃO EDITALÍCIA. ESGOTAMENTO DE TODOS OS MEIOS PARA CITAÇÃO PESSOAL. INOVAÇÃO DE MATÉRIA. IMPOSSIBILIDADE.
+1. A alegação defensiva de que houve sucessivos erros na localização do agravante e de que não foram esgotados todos os meios para citação pessoal, não foi objeto de análise pelo acórdão recorrido, constituindo mera inovação recursal, inadmissível em agravo regimental.
+2. Ainda que assim não fosse a nulidade da citação por edital, sob o argumento de que haveria sido determinada sem o esgotamento de todas as tentativas de localização do acusado, implicaria revolver o contexto fático-probatório, procedimento vedado na via do writ.
+3. Antes do trânsito em julgado da condenação, a prisão somente é cabível quando demonstrado o periculum libertatis, sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+4. No caso, beneficiado com a liberdade provisória e com a imposição de medidas cautelares de não se ausentar da comarca por mais de 10 dias sem o consentimento do Judiciário, manter o endereço atualizado e recolhimento domiciliar noturno, sob pena de revogação, não foi o agravante localizado para fins de citação, sendo-lhe decretada a prisão preventiva.
+5. O descumprimento de medidas protetivas impostas, autoriza a medida constritiva, conforme inteligência do art. 282, § 4º, c/c o art. 312, parágrafo único, c/c o art. 313, inciso III, todos do Código de Processo Penal.
+6. Agravo regimental a que se nega provimento. (AgRg no HC n. 907.101/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/6/2024, DJe de 14/6/2024; grifamos).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME DE MOEDA FALSA. CONCESSÃO DE PRISÃO DOMICILIAR. INOVAÇÃO RECURSAL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. DESCUMPRIMENTO DE MEDIDA CAUTELAR ALTERNATIVA. AGRAVANTE QUE DEIXOU DE COMPARECER EM JUÍZO. CITAÇÃO POR EDITAL. NECESSIDADE DE ASSEGURAR A APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. DESPROPORCIONALIDADE. ANÁLISE INVIÁVEL. AGRAVO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+1. O pedido de concessão de prisão domiciliar à agravante, nos termos previstos no art. 318-A, do Código de Processo Penal - CPP, não foi arguido na petição inicial, o que impede que o agravo seja conhecido nesse ponto, em razão da inovação recursal. Trata-se, ademais, de matéria não apreciada pela Corte de origem, o que afasta a competência do Superior Tribunal de Justiça - STJ para análise da matéria, sob pena de incorrer em indevida supressão de instância.
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+3. In casu, verifica-se que a custódia cautelar foi adequadamente motivada pelas instâncias ordinárias, tendo em vista as circunstâncias do caso concreto, no qual a agravante, após ter sido beneficiada com a liberdade provisória pelo juízo de origem, descumpriu as medidas cautelares impostas, pois deixou de comparecer em juízo, o que deu causa à sua citação por edital e suspensão do curso do processo e do prazo prescricional, o que evidencia a necessidade da prisão a fim de se assegurar a aplicação da lei penal.
+4. A jurisprudência desta Corte Superior sedimentou-se no sentido de que o descumprimento de medida cautelar imposta como condição para a liberdade provisória, demonstra, por si só, a adequação da prisão preventiva para conveniência da instrução criminal.
+5. É entendimento do Superior Tribunal de Justiça - STJ que as condições favoráveis da agravante, por si só, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+6. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para manutenção da ordem pública, principalmente quando um dos fundamentos da custódia diz respeito ao descumprimento de medida anteriormente imposta.
+7. Não é possível afirmar que a medida excepcional se mostra desproporcional em relação à eventual condenação que a agravante venha sofrer no fim do processo, porquanto, em habeas corpus e no respectivo recurso ordinário é inviável concluir a quantidade de pena que poderá ser imposta, tampouco se iniciará o resgate da reprimenda em regime diverso do fechado.
+8. Agravo regimental parcialmente conhecido e, nesta extensão, desprovido. (AgRg no RHC n. 189.368/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024; grifamos).
+Também não deve ser acolhida a tese referente ao princípio da homogeneidade, pois:
+em relação à alegação de desproporcionalidade da prisão em cotejo à futura pena a ser aplicada, trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade). A confirmação (ou não) da tipicidade da conduta do agente e da sua culpabilidade depende de ampla dilação probatória, com observância aos princípios do contraditório e da ampla defesa, o que não se coaduna com a finalidade do presente instrumento constitucional (AgRg no HC n. 880.538/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/4/2024, DJe de 2/5/2024).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
