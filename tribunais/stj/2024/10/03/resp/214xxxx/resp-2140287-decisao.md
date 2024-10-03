@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso especial interposto por TAURUS ARMAS S.A., fundamentado na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 26/07/2023.
+Concluso ao gabinete em: 30/04/2024.
+Ação: de obrigação de fazer cumulada com danos morais ajuizada por TAURUS ARMAS S.A. em desfavor de RADIO E TELEVISAO BANDEIRANTES S.A. e JOSE LUIZ DATENA.
+Sentença: julgou improcedente o pedido autoral.
+Acórdão: negou provimento à apelação interposta por TAURUS ARMAS S.A., nos termos da seguinte ementa:
+Apelação - Ação de Obrigação de Fazer c.c. Danos Morais - Sentença de improcedência - Descabimento da insurgência - Art. 3º, da Lei nº 13.188/2015 - A nota enviada pela Apelante à Rede Bandeirantes, que tinha finalidade meramente explicativa sobre a sua posição acerca o ocorrido e que, inclusive, foi divulgada "ao vivo" na reportagem, não cumpre a mesma função do envio de um aviso de recebimento com AR pedindo a retificação daquilo que fora alegado pela rede de televisão - Danos não comprovados - Prova pericial criminal - Laudo pericial criminal que não foi conclusivo sobre a eventual causada falha da arma - Danos morais não configurados - Não há obrigação de reparação e nem de retratação - Sentença mantida - Recurso improvido. (e-STJ fl. 345)
+Embargos de declaração: opostos por TAURUS ARMAS S.A., foram rejeitados (e-STJ fl. 394).
+Recurso especial: sustenta negativa de prestação jurisdicional e violação dos arts. 489 e 1022 do CPC. Alega negativa de vigência dos arts. 12, 17, 186, 187 e 927 do CC por veiculação de matéria jornalística, versando sobre suposta falha de arma de sua fabricação e nexo com óbito de policial em atividade. Refere que a reportagem ocasionou dano à honra objetiva da empresa, pois sua imagem construída perante o público foi "prejudicada pelo conteúdo falso e ofensivo divulgado". Entende que o dano reputacional sofrido dispensa prova adicional "por serem evidentes, podendo ser presumidos" levando em consideração seu porte empresarial, sua visibilidade perante o público e "o grande alcance das divulgações". Considera equivocada a premissa adotada na origem, no sentido de exigir comprovação de prejuízo com queda de vendas após a notícia jornalística, pois a premissa seria aplicável apenas a pleito indenizatório por danos materiais. Requer procedência do pedido de condenação dos recorridos ao pagamento de indenização por danos morais no valor de R$ 250.000,00 (duzentos e cinquenta mil reais).
+Juízo prévio de admissibilidade: o TJ/SP inadmitiu o recurso especial interposto por TAURUS ARMAS S.A. (e-STJ fls. 416-418), ensejando a interposição de agravo em recurso especial (e-STJ fls. 421-440), que foi provido e reautuado como recurso especial, para melhor exame da matéria (e-STJ fl. 465).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1022 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+Nesse sentido, já entendeu esta Corte não haver ofensa ao art. 489 do CPC, quando o Tribunal de Origem examina "de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no REsp 1.956.582/RJ, 3ª Turma, DJe 9/12/2021). No mesmo sentido: REsp 1.996.298/TO, 3ª Turma, DJe 1º/9/2022; e AgInt no AREsp 1.954.373/RJ, 4ª Turma, DJe 7/10/2022.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, motivada e expressamente, acerca da inocorrência de dano moral, ao pontuar que "não há qualquer elemento nos autos que possa comprovar que os comentários tecidos pelo co-Apelado teriam gerado quaisquer danos ao nome comercial da Apelante ou a diminuição da venda de suas armas" (e-STJ fl. 349).
+Ao apreciar os embargos de declaração, a Corte de Origem registrou que "o laudo pericial elaborado pelo perito criminal..não conclui em nenhum momento que não houve falha da arma produzida pela Apelante na operação policial que resultou na morte do policial", de modo que "não é possível então concluir que as alegações apresentadas pelos Embargados sejam inverídicas, motivo pelo qual não há como determinar a retirada do conteúdo baseado na justificativa de que as alegações não transmitem as verdades dos fatos, nem condená-los ao pagamento de indenização por danos morais" (e-STJ fl. 395).
+Assim, os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação dos arts. 489 e 1022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à ocorrência de dano moral, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$5.000,00 (e-STJ fl. 349) para R$6.000,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1021, § 4º, e 1026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer cumulada com danos morais.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1022 do CPC.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Recurso especial parcialmente conhecido, e nessa extensão, não provido.
