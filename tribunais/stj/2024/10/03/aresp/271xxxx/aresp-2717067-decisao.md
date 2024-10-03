@@ -1,0 +1,23 @@
+DECISÃO
+Na origem, trata-se de ação de rito comum previdenciário ajuizada pela ora Agravante contra o INSS, pleiteando concessão de aposentadoria por tempo de contribuição. Na sentença, julgou-se parcialmente procedente o pedido, para reconhecer para reconhecer o labor campesino de 22/03/1976 a 31/12/1978 e 01/01/1988 a 31/12/1989. No Tribunal a quo, a sentença foi parcialmente reformada, para reconhecer o trabalho rural nos intervalos de 22/03/1974 a 21/03/1976 e 01/01/1979 a 31/12/1987. O valor da causa foi fixado em R$ 50.000,00 (Cinquenta mil reais).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE RURAL. INÍCIO DE PROVA MATERIAL. PROVA TESTEMUNHAL IDÔNEA. RECONHECIMENTO PARCIAL. CARÊNCIA NÃO PREENCHIDA. APELAÇÃO DA PARTE AUTORA PARCIALMENTE PROVIDA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Observe-se que a prova oral não informou até quando a autora trabalhou na lavoura. Sabe-se apenas que o Sr. Astor permaneceu no sítio até 1989 e que a autora abriu uma padaria em 1999. E o último documento que indica o trabalho rural da demandante é a averbação de doação de imóvel rural ao seu cônjuge (com ressalva de usufruto vitalício) em 11/08/1989.
+ ..
+Desta forma, a prova documental é reforçada e ampliada pela prova oral constituída nos autos, sendo possível reconhecer o trabalho campesino durante o período de 22/03/1974 a 31/12/1989.
+No ponto, enfatiza-se que o referido interregno não pode ser computado para fins de carência, consoante fundamentado acima. Logo, inviável a concessão da aposentadoria por tempo de contribuição à parte autora, vez que não implementou a carência exigida pelo art. 142 da Lei nº 8.213/91 até a data do requerimento administrativo, conforme planilha anexa.
+Esclareça-se que, em consonância com as disposições do art. 29, § 5º, e art. 55, inc. II, ambos da Lei 8.213/1991 e os incisos III e IX do art. 60 do Decreto 3.048/1999, somente possível a utilização do intervalo em que o segurado esteve recebendo auxílio-doença para cômputo de tempo de contribuição caso esteja intercalado por períodos de atividade.
+No caso, não houve período de contribuição após o gozo de auxílio-doença de 18/05/2017 a 03/07/2017, de sorte que o interstício não deve ser computado.
+ ..
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (art. 494, 507 e 1.022, III, do CPC/2015), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
