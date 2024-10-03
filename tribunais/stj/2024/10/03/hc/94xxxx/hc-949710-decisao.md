@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em benefí cio de BRUNO HERNANDES DOS SANTOS, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Narram os autos que o Juízo da 3ª Vara Criminal da comarca de Sorocaba condenou o paciente por incurso no art. 180, §§ 1º e 2º, do Código Penal, à pena de 5 anos e 3 meses de reclusão, em regime inicial fechado, mais 16 dias-multa (Processo n. 1505746-45.2019.8.26.0602). Contra essa decisão a defesa interpôs apelação, que não foi conhecida em razão da intempestividade.
+Após o trânsito em julgado da condenação, houve o ajuizamento do HC n. 2232209-67.2024.8.26.0000 no Tribunal de origem. A Nona Câmara de Direito Criminal indeferiu liminarmente a impetração, nos termos desta ementa (fl. 16):
+Habeas Corpus. Paciente condenado por receptação qualificada. Impetração que busca a absolvição ou, quando não, a redução da pena. Inadequação da via eleita. Édito condenatório que transitou em julgado. Writ que não se presta ao exame aprofundado de provas, nem à desconstituição da coisa julgada. Precedentes da Suprema Corte. Ademais, a Col. 9ª Câmara Criminal, ao não conhecer do apelo defensivo, manteve irretocável a r. sentença reclamada, de modo que esta Corte não tem competência para, em sede de Habeas Corpus, rever o mérito de sua própria decisão. Writ indeferido liminarmente.
+A alegação trazida na inicial deste writ é de que é caso de absolvição, pois a ação do paciente não pode ser considerada infração penal, tendo em vista que em nenhum momento ficou comprovado que o paciente tinha previa ciência da origem do bem (fl. 4); e de que, superada essa tese, deve a pena base ser fixada no mínimo legal, sendo que o valor não diferencia da maioria dos casos de receptação principalmente que os aparelhos celulares foram devolvidos (fl. 4), e, também na segunda fase da dosimetria, face à presença da agravante da reincidência a pena foi aumentada em 1/2, devendo no caso o aumento deveria ter sido de 1/6 (fl. 4).
+É o relatório.
+Este writ não tem cabimento.
+Ora, a Corte local não debateu as questões suscitadas neste writ; nem era o caso, uma vez que o habeas corpus foi manejado na origem como substitutivo de revisão criminal e, além disso, inevidente qualquer constrangimento ilegal, porquanto a pretensão de absolvição esbarra na necessidade de ampla incursão em matéria fático-probatória, o que não se admite na via estreita; e, no que se refere à dosimetria, foram apresentados elementos concretos e idôneos tanto para a exasperação da pena-base (prejuízo sofrido pela vítima) quanto para a adoção de fração superior a 1/6 na segunda fase (multirreincidência).
+Ora, a ilegalidade passível de justificar a impetração do writ substitutivo deve ser manifesta, de indubitável constatação, o que, na espécie, não ocorre.
+Tal o contexto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME DO ART. 180, §§ 1º E 2º, DO CÓDIGO PENAL. CONDENAÇÃO DEFINITIVA. PRÉVIO WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. ABSOLVIÇÃO OU REFORMA DA DOSIMETRIA. QUESTÕES NÃO DEBATIDAS PELA CORTE A QUO. INEVIDÊNCIA DE ILEGALIDADE.
+Petição inicial indeferida liminarmente.
