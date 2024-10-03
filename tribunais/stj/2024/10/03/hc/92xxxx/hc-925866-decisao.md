@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCELO LUIZ DOS SANTOS RODRIGUES no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2142161-62.2024.8.26.0000).
+Consta que o paciente foi preso em flagrante, no dia 27/02/2024, com posterior conversão da custódia em preventiva (fls. 54-55), em razão da suposta prática do ilícito tipificado no art. 297, caput, c/c o art. 71, ambos do Código Penal, pelo qual foi denunciado (fls. 59-63), pois, em tese, em concurso com corréu, por diversas vezes, falsificavam, no todo ou em parte, documento público, ou alteraram documento público verdadeiro (fl. 59).
+A Defesa, pugnando pelo relaxamento da prisão preventiva, impetrou habeas corpus na Corte de origem, que denegou a ordem às fls. 97-108.
+Neste writ, a parte impetrante sustenta, em suma, que: (i) o réu não cometeu os crimes que lhe são imputados; (ii) não estão presentes na hipótese os requisitos legais ensejadores da prisão preventiva; (iii) a imposição de medidas cautelares alternativas é suficiente à preservação da ordem pública; (iv) o segregado possui as condições pessoais favoráveis; (v) a adoção da medida extrema é desproporcional; (vi) ocorre excesso de prazo para a formação da culpa; e (vii) por receio de represália, MARCELO, na audiência de custódia, não informou que o policial roubou 30 mil reais que estava dentro de sua residência e que procurou sua esposa para ter relação, confessando que seu marido está preso porque ele não quis pagar 100 mil para nós (fl. 13).
+Requer, assim, em medida e no mérito, a revogação da prisão preventiva ou, subsidiariamente, a sua substituição por cautelares alternativas.
+O pedido liminar foi indeferido às fls. 131-134.
+A Defesa protocolou 03 (três) pedidos de reconsideração da decisão liminar (fls. 137-139; 144-146; 165-172), tendo sido todos indeferidos (fls. 147; 174; e 181-185).
+O Ministério Público Federal opinou pelo não conhecimento do writ mas, caso conhecido, pela denegação da ordem às fls. 209-216.
+É o relatório.
+DECIDO.
+De início, pontuo que não é possível conhecer das teses (ii), (iii) e (iv), todas relacionadas à legitimidade da prisão preventiva, pois tal tema já foi objeto do HC 910.155/SP, do qual também sou relator e que, após percuciente análise, deneguei a ordem de habeas corpus.
+Cuida-se, portanto, de mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos as mesmas matérias. Friso que não podem ser processados nesta Corte, concomitantemente, dois habeas corpus (ou recursos ordinários que lhes fazem as vezes) em que se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir, motivo pelo qual concluo pela inadmissibilidade desta impetração.
+A propósito:
+AGRAVO  REGIMENTAL  NO  RECURSO  EM  HABEAS  CORPUS.  MATÉRIA  JÁ  SUSCITADA  EM  HABEAS  CORPUS  IMPETRADO  ANTERIORMENTE.  MERA  REITERAÇÃO  DE  PEDIDO.  AGRAVO  NÃO  PROVIDO.
+1.  A  simples  leitura  da  decisão  combatida  deixa  claro  que  este  recurso  foi  interposto  em  favor  do  mesmo  paciente  do  HC  n.  746.321/SC,  questiona  o  mesmo  acórdão  proferido  pelo  Tribunal  de  origem  e  apresenta  pedido  idêntico  -  revogação  da  prisão  preventiva  por  ser  incompatível  com  o  regime  fixado  na  sentença  para  início  do  cumprimento  da  pena  (semiaberto).
+2.  A  análise  do  decisum  proferido  naqueles  autos  evidencia  que,  ao  contrário  do  afirmado  neste  agravo,  houve  exame  do  mérito  lá  suscitado,  tanto  que  foi  denegada  a  ordem.
+3.  Agravo  não  provido  (AgRg  no  RHC  166.833/SC,  relator  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  julgado  em  16/8/2022,  DJe  de  23/8/2022).
+Quanto à alegação de que a custódia cautelar do paciente seria desproporcional, reproduzo o que o Tribunal a quo consignou a respeito (fl. 106; grifamos):
+É ainda descabido e prematuro qualquer exercício de previsão da futura dosagem das penas, da eventual concessão de benesses ou da escolha do regime inicial de cumprimento em futura condenação, cujo prognóstico, aliás, não passaria de mera suposição, e adotar-se alguma conclusão a respeito ensejaria verdadeira supressão de instância (AgReg no HC nº 577.334/SP, rel. Min. Reynaldo Soares Fonseca, DJe 15.6.2020; HC n. 507.051/PE, rel. Min. Rogerio Schietti Cruz, DJe 28.10.2019). Daí não se poder argumentar, notadamente na via estreita do writ, com alguma desproporcionalidade da custódia.
+Vê-se que tal fundamentação é idônea na medida em que encontra respaldo na jurisprudência desta Corte
+Não há como prever, na presente fase processual, a quantidade de pena que eventualmente poderá ser aplicada, caso o Réu seja condenado, menos ainda se iniciará o cumprimento da reprimenda em regime diverso do fechado, de modo que não se torna possível avaliar a arguida desproporção da prisão cautelar imposta. (AgRg no HC 658.720/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 27/04/2021, DJe 05/05/2021; grifamos).
+Logo, essa tese não merece prosperar.
+Por fim, sob pena de incorrer em indevida supressão de instância, não podem ser conhecidas as alegações (vi) e (vii) -respectivamente: eventual excesso de prazo para a formação da culpa e suposto roubo e extorsão praticado contra o paciente por um dos policiais que o prendeu em flagrante -, pois a Corte estadual não emitiu qualquer juízo de valor sobre essas matérias.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+(..)
+(AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos).
+Apenas para fins de registro, a Juíza de primeiro grau, ao prestar esclarecimentos, registrou que a audiência de instrução e julgamento estava prevista para ocorrer em 31/07/2024. No entanto, em consulta ao site do Tribunal de Justiça do Estado de São Paulo, pude constatar na Ação Penal em comento (n. 1500515-19.2024.8.26.0616) que a mencionada audiência não ocorreu mas já houve redesignação d e nova data para a sua realização, qual seja: 19/10/2024.
+Nesse cenário, não parece haver ofensa ao princípio da razoabilidade na formação da culpa, mormente se considerado o tempo concreto de prisão preventiva frente à pena abstrata dos delitos pelos quais o recorrente foi denunciado - no caso: diversos crimes de falsificação de documentos públicos.
+Ante o exposto, conheço parcialmente da impetração e, nessa extensão, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
