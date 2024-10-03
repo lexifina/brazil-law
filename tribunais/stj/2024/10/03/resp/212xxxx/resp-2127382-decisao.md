@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIR O contra acórdão do Tribunal de Justiça do Rio de Janeiro que deu provimento parcial à apelação da defesa.
+O recorrido foi condenado como incurso nas sanções do crime do art. 121, §2º, incisos I e IV, do Código Penal, à pena de 24 (vinte e quatro) anos de reclusão (fls.1107-1113).
+O Tribunal concedeu parcial provimento ao recurso da defesa, para fixar a pena definitiva em quinze anos de reclusão (fls.1193- 1201).
+O Ministério Público interpôs recurso especial, com fundamento na artigo 105, inciso III, alínea "a", da Constituição Federal, sustentando violação aos artigos 59, 61 e 121, §2º, inciso IV, do Código Penal, a fim de que sejam reconhecidas as consequências negativas do delito, consubstanciadas no fato de ter a vítima um filho menor autista, e a possibilidade de valorar a qualificadora excedente do crime de homicídio na segunda fase da dosimetria da pena, como procedeu o juízo monocrático. Requereu, assim, o restabelecimento integral da sentença (fls. 1212-1249).
+O Ministério Público Federal manifestou-se pelo conhecimento e provimento do recurso especial (1307-1311).
+É o relatório. DECIDO.
+A controvérsia dos autos cinge-se ao cálculo da dosimetria da pena, a fim de definir se o fato de a vítima deixar órfão um filho menor autista autoriza a exasperação da pena-base por ser desfavorável a consequência do crime e se, na hipótese de múltiplas qualificadoras, uma delas pode ser empregada na segunda fase do cálculo da pena.
+As razões do recurso especial trazem que o fato de a vítima deixar órfã uma criança autista extrapola as consequências do tipo penal do homicídio, de forma que deve ser considerado na primeira fase de dosimetria da pena, conforme o art. 59 do Código Penal.
+O Ministério Público também se insurge contra o afastamento das demais qualificadoras do crime. Defende que, reconhecidas múltiplas qualificadoras, aquelas que não foram utilizadas para enquadrar o tipo qualificado, poderão ser consideradas na dosimetria da pena.
+O Tribunal de origem decotou a circunstância judicial relativa às consequências do crime. Concluiu que tal circunstância não integrou o respectivo dolo, tratando-se de aspecto incidental, de modo que fixou a pena base em 15 anos de reclusão. Afastou, ainda, a agravante de emboscada, por não incidir nessa etapa do cálculo da pena.
+Ao assim proceder, o Tribunal de origem agiu em discordância com o entendimento do Superior Tribunal de Justiça, firme no sentido de que " o  fato de a prática delitiva tornar órfã a filha da vítima, de tenra idade (03 anos), por extrapolar as consequências intrínsecas do crime de homicídio, é justificativa idônea para a exasperação da pena-base" (AgRg no HC n. 832.420/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/10/2023, DJe de 25/10/2023). No mesmo sentido: AgRg no AREsp n. 2.239.473/PA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/6/2023, DJe de 28/6/2023.
+Ademais, quanto à duplicidade de qualificadoras, a jurisprudência dessa Corte Superior admite o emprego de uma para qualificar o crime e de outra para agravar a pena, caso prevista no artigo 61, inciso II, do Código Penal. A propósito:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. AFASTAMENTO DAS CIRCUNSTÂNCIAS JUDICIAIS REFERENTES À CONDUTA SOCIAL E AOS MOTIVOS DO CRIME. IMPOSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+VI - Vale enfatizar, ainda, que "no delito de homicídio, havendo pluralidade de qualificadoras, uma delas indicará o tipo qualificado, enquanto as demais poderão indicar uma circunstância agravante, desde que prevista no artigo 61 do Código Penal, ou, residualmente, majorar a pena-base, como circunstância judicial" (AgRg no REsp n. 1.695.310/PA, Sexta Turma, Rel.ª Min.ª Maria Thereza de Assis Moura, DJe de 21/11/2017, grifei). Desta feita, não há se falar em ausência de motivação idônea a justificar o desvalor da referida vetorial.
+Agravo regimental desprovido.
+(AgRg no HC n. 820.703/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/9/2023, DJe de 27/9/2023.)
+Dessa forma, o acórdão recorrido encontra-se em descompasso com a jurisprudência consolidada do Superior Tribunal de Justiça.
+Ainda que providas as razões apresentadas pelo recurso especial, não restabeleço o cálculo da sentença de primeiro grau, como pretende o recorrente. Isso porque, o acórdão recorrido reformulou a dosimetria da pena com esteio em outros fundamentos, não contestados no presente recurso.
+Feitas essas considerações, passo ao redimensionamento da reprimenda.
+Na primeira fase, valo rada a pena pelas consequências do crime e pelos maus- antecedentes, fixo a pena-base em 16 (dezesseis) anos de reclusão.
+Na segunda fase, aplico a agravante do artigo 61, inciso II, "c", do Código Penal, estabelecendo a pena intermediária em 18 (dezoito) anos e 8 (oito) meses de reclusão.
+Ausentes causas de aumento ou de diminuição de pena, fixo, definitivamente, a pena em 18 (dezoito) anos e 8 (oito) meses de reclusão, mantido o regime inicial fechado.
+Diante do exposto, nos termos do art. 255, § 4º, inciso III, do RISTJ, dou parcial provimento ao recurso especial para fixar a pena do recorrente em 18 (dezoito) anos e 8 (oito) meses de reclusão, mantidos os demais termos da decisão recorrida.
+Publique-se. Intime-se
+EMENTA
+PENAL. PROCESSO PENAL. RECURSO ESPECIAL. HOMICÍDIO DUPLAMENTE QUALIFICADO. TORPEZA DA MOTIVAÇÃO E EMBOSCADA. DOSIMETRIA DA PENA. PENA BASE. VÍTIMA DEIXOU ÓRFÃ. PLURALIDADE DE QUALIFICADORAS. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
