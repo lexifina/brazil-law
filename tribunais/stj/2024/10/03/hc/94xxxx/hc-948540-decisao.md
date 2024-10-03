@@ -1,0 +1,15 @@
+DECISÃO
+VICENTE DE PAULA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (Apelação Criminal n. 1.0000.23.253115-2/001).
+Consta dos autos que o paciente foi condenado pela prática dos crimes de tráfico de drogas e de porte ilegal de arma de fogo de uso permitido.
+A defesa aduz, como tese principal, que a condenação do réu foi lastreada em provas ilícitas, obtidas por meio de invasão de domicílio, motivo pelo qual requer a concessão da ordem, para que ele seja absolvido. Subsidiariamente, pleiteia a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Antes da apreciação da medida de urgência, foram solicitadas informações à autoridade apontada como coatora, as quais foram prestadas às fls. 836-875.
+Decido.
+No caso, a defesa se insurge contra acórdão proferido no julgamento da apelação criminal, pelo Tribunal de Justiça do Estado de Minas Gerais, que deu parcial provimento ao recurso, para absolver o réu em relação ao delito de associação para o tráfico de drogas e, no mais, ratificou a sentença condenatória.
+No entanto, em consulta processual realizada na página eletrônica do TJMG, verifico que, contra o acórdão da apelação, a defesa também interpôs recurso especial, ainda pendente do juízo de admissibilidade pelo Tribunal de origem.
+No dia 24/9/2024, com o recurso especial ainda em trâmite, impetrou-se o presente habeas corpus, por meio do qual, aliás, a defesa alega as mesmas matérias das que foram aventadas no apelo especial. Diante de tal cenário, constata-se a impossibilidade de conhecimento deste mandamus, por violação do princípio da unirrecorribilidade.
+Com efeito, em diversas ocasiões, este Superior Tribunal reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal. A crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte Superior, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Ilustrativamente: "não bastasse o entendimento pacificamente adotado por esta Corte Superior, no sentido da inviabilidade de uso do remédio constitucional em substituição a recurso previsto em lei, na hipótese em exame o habeas corpus fora impetrado em paralelo ao recurso especial interposto contra o acórdão proferido pela instância ordinária, em evidente violação ao princípio da unirrecorribilidade" (AgRg no HC n. 863.824/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024).
+Na mesma direção: "não se admite a tramitação simultânea de recursos (ou ações autônomas de impugnação) e de habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade" (AgRg no HC n. 826.186/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/8/2023).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
