@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado por Rio Paraná Energia S.A., contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 456):
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA AMBIENTAL. DIREITO PROCESSUAL. TEMPESTIVIDADE. LITISCONSORTE. OBRIGAÇÃO AMBIENTAL DE NATUREZA . SUCESSÃO PROCESSUAL. PROPER REM IMPOSSIBILIDADE. RECURSO PROVIDO QUANTO AO PEDIDO SUBSIDIÁRIO.
+1. Alegação de intempestividade afastada.
+2. Nos termos do entendimento consolidado perante o c. Superior Tribunal de Justiça, "os deveres associados às Áreas de Preservação Permanente têm natureza de obrigação propter rem, ou seja, aderem ao título de domínio ou posse, podendo ser imputada tanto ao proprietário quanto ao possuidor, independentemente de quem tenha sido o causador da degradação ambiental" (AgInt no AR Esp. 1.031.389/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, D Je 27.3.2018; R Esp. 1.622.512/RJ, Rel. Min. HERMAN BENJAMIN, D Je 11.10.2016).
+3. A agravante, como atual concessionária da UHE Ilha Solteira, deve permanecer no polo passivo.
+4. Quanto à agravada CESP, considerando o pedido formulado na origem de sua condenação, dentre outros, "ao pagamento de indenização quantificada em perícia ou por arbitramento deste Juízo Federal, correspondente aos danos ambientais que, no curso do processo, mostrarem-se técnica e absolutamente irrecuperáveis nas áreas de preservação permanente irregularmente utilizadas pelos réus, acrescidas de juros e correção monetária, a ser recolhida ao Fundo a que se refere o artigo 13 da Lei n. 7.347/85 (Ação Civil Pública)", sua permanência no feito é medida que se impõe.
+5. As condições da ação, pela teoria da asserção, são aferidas no momento da primeira análise da admissibilidade inicial do processo. 6. Precedentes desta e. Turma: AI - 5015562-12.2018.4.03.0000, Desembargador Federal NELTON AGNALDO MORAES DOS SANTOS, Intimação via sistema DATA: 16/07/2021.
+6. Agravo de instrumento provido quanto ao pedido subsidiário para manter a ré CESP no polo passivo da ação civil pública.
+Opostos embargos declaratórios, foram rejeitados (fls. 566/572).
+Foram ofertadas contrarrazões às fls. 645/659.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo conhecimento do agravo para desprover o apelo nobre (fls. 827/843).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Colhe-se dos autos que o presente recurso especial foi tirado de agravo de instrumento interposto contra decisão de Juiz Singular que, nos autos da ação civil pública n. 0001858-27.2008.4.03.6124, incluiu a Rio Paraná S.A e excluiu a Companhia Energética de São Paulo - CESP do polo passivo da demanda.
+Ora, em consulta ao sítio eletrônico do Tribunal a quo, verifica-se que, em 1/8/2024, foi proferida sentença, tendo o magistrado de piso julgado improcedentes os pedidos da ação civil pública movida pelo Ministério Público Federal.
+Nesse panorama, nos termos da jurisprudência desta Corte Superior, torna-se prejudicada, pela perda de objeto, a análise do recurso especial interposto contra acórdão que examina agravo de instrumento quando se verificar a prolação de sentença na ação principal, haja vista que a cognição é exauriente.
+É a jurisprudência deste Sodalício:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO ORIGINADO DE AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DE OBJETO DO RECURSO. PREJUDICIALIDADE. PROVIMENTO NEGADO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, fica prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que havia julgado agravo de instrumento, quando sobrevém sentença de mérito, cuja cognição é exauriente.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.817.468/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. ASSOCIAÇÃO DOS MUNICÍPIOS MINERADORES. NEGATIVA DE INTERVENÇÃO COMO ASSISTENTE SIMPLES. DECISÃO INTERLOCUTÓRIA ANTERIOR À VIGÊNCIA DA LEI 14.341/2022. SENTENÇA NEGANDO O PEDIDO. ACÓRDÃO A QUO RATIFICANDO O DECISUM. PERDA DO OBJETO DO RECURSO. NORMA DE NATUREZA PROCESSUAL. APLICAÇÃO IMEDIATA, CONTUDO IRRETROATIVA. IMPUGNAÇÃO A DISPOSITIVO LEGAL DIVERSO.
+1. Trata-se, na origem, de Agravo de Instrumento interposto de decisão do Juízo da Vara Única da Comarca de Mangaratiba que, em Ação de Obrigação de Fazer, indeferiu o requerimento da Associação dos Municípios Mineradores de Minas Gerais - AMIG para ingressar nos presentes autos como assistente simples da ré, "por entender que as associações de municípios não possuem legitimidade para representá-los judicialmente, sob pena de renúncia aos privilégios materiais e processuais que possui, tal como intimação pessoal."
+2. As recorrentes, após instigadas por este relator (fl. 723, e-STJ), informaram que os pedidos formulados na demanda originária foram julgados improcedentes, por sentença, pelo juízo de primeira instância.
+3. Conforme interativa jurisprudência do STJ, a superveniência de sentença, proferida no processo, causa a perda de "objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento".
+4. Em obiter dictum, releva consignar que, como muito bem salientado pelas recorrentes, a norma insculpida na Lei 14.341/2022, que modificou o art. 75, III, do CPC, possui natureza eminentemente processual; portanto, ela se aplica imediatamente, não de modo retroativo. Ademais, o pedido exarado no Recurso Especial não se refere à infringência a esse dispositivo legal - desse , modo, tal violação, caso existisse, não poderia ter sido objeto deste Recurso.
+5. Além disso, o que se discutia na época, diga-se de passagem - antes da publicação da referida norma, era a possibilidade de intervenção das agravantes sob a modalidade de assistência simples, o que não era admitido. Precedente: AgInt no AgInt na PET no AREsp 991.209/RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 15/3/2019.
+6. Agravo Interno com perda do objeto.
+(AgInt no AREsp n. 2.348.845/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/10/2023, DJe de 18/12/2023.)
+ANTE O EXPOSTO, julgo prejudicado o agravo em recurso especial, tendo em vista a perda superveniente do seu objeto.
+Publique-se.
+ EMENTA
