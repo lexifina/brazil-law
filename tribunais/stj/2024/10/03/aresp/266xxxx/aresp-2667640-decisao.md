@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interposto por NILTOMAR FELIPPE DA SILVA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL. PRELIMINAR REJEITADA. AÇÃO DECLARATÓRIA C. C. INDENIZATÓRIA. COBRANÇA INDEVIDA. NÃO OCORRÊNCIA. CONTRATO EXISTENTE. DEVER DE INDENIZAR NÃO CONFIGURADO. IMPROCEDÊNCIA. RECURSO NÃO PROVIDO.
+1 - Não há que se falar em cerceamento de defesa se a prova pretendida for desnecessária para o julgamento do mérito.
+2 - Se o conjunto probatório demonstra que a parte autora celebrou contrato de empréstimo consignado com o réu, as respectivas cobranças constituem simples exercício regular de direito, não havendo que se falar em ato ilícito, tampouco em dever de indenizar" (e-STJ fl. 359).
+No recurso especial, o recorrente alega violação dos artigos artigos 355, 357 e 373 do Código de Processo Civil, haja vista o indeferimento da prova pericial documentoscópica requerida, a fim de delimitar a ( in)existência de anuência das partes ao negócio discutido.
+Sustenta, ainda, desconformidade com a Instrução Normativa INSS/PRES nº 28 e com a Lei nº 14.063/2020.
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Trata-se, na origem, de ação declaratória e indenizatória fundada em descontos havidos no benefício previdenciário do recorrente, lastreados em contratos alegadamente desconhecidos.
+Por oportuno, extrai-se do julgado combatido:
+"O autor suscitou a preliminar em referência, ao argumento de que "é imprescindível a realização de prova pericial para delimitar a existência, ou não, da cobrança de encargos abusivos na relação contratual em espécie" e que "deve ser acolhida a presente preliminar de nulidade da sentença, por cerceamento de defesa, cassando-se a sentença vergastada e determinando o retorno dos autos ao juízo de primeiro grau, a fim de que se produza prova pericial contábil".
+Todavia, sem razão.
+A instrução probatória condiciona-se não só à possibilidade jurídica da prova, como também ao interesse e relevância da sua produção, cabendo ao Juiz indeferir aquelas que se mostrem inúteis.
+(..)
+No caso, a prova pericial contábil postulada na apelação é absolutamente desnecessária para o julgamento do mérito, porque, ao contrário do veiculado, a questão controvertida não versa sobre "cobrança de encargos abusivos na relação contratual", mas, sim, sobre a (in)existência de vínculo contratual entre as partes.
+De mais a mais, vale dizer que a preliminar foi suscitada por meio de razões visivelmente padronizadas e genéricas, não havendo nenhuma consideração sequer que, em tese, pudesse justificar a realização da perícia contábil.
+Acrescente-se a isso que o autor, ora apelante, foi intimado para especificar provas na origem e deixou o prazo transcorrer in albis" (e-STJ fls. 361/362).
+Nesse cenário, a deficiência na fundamentação recursal ficou evidenciada, visto que as razões do recurso estão dissociadas do decidido no acórdão recorrido, não tendo havido impugnação dos fundamentos efetivamente adotados para a solução da controvérsia, o que atrai a incidência, por analogia, das Súmulas nºs 283 e 284/STF.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE EM ÔNIBUS COLETIVO. LEGITIMIDADE PASSIVA DO CONSÓRCIO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO STF. RELAÇÃO DE CONSUMO. RESPONSABILIDADE SOLIDÁRIA ENTRE AS CONSORCIADAS. ART. 28, § 3º, DO CDC. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+2. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do STF.
+(..)
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 1.982.129/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/5/2023, DJe de 7/6/2023 - grifou-se).
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANOS MORAIS. RESCISÃO DO CONTRATO DE PLANO DE SAÚDE. ENVIO DA NOTIFICAÇÃO. NÃO COMPROVAÇÃO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n.º 283 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido" (AgInt no AREsp 2.157.654/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023 - grifou-se).
+Ademais, as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"No caso, a parte autora apelante questionou as cobranças realizadas em seu benefício previdenciário, à alegação de que nunca teria contratado nenhum empréstimo com o réu, mormente os tombados sob os números 337767481, 405360353, 306896372, 313313795, 327883751.
+Todavia, com a contestação, o Banco apelado juntou os mencionados contratos e outros mais, todos digitalmente assinados pela parte autora, com o envio de selfies diferentes, uma para cada instrumento, além de documentos de identificação, o que comprova a relação jurídica havida entre as partes.
+Além disso, o réu apelado também juntou os respectivos comprovantes de transferência à conta corrente do autor (fls. 109/110- PDF), o qual, ao final, acabou concordando com o recebimento, tanto que expressamente concordou com eventual compensação do débito (fl. 257).
+De se registrar que, embora tenha negado a relação jurídica na petição inicial, a parte autora, ora apelante, não impugnou a assinatura digital aposta no referido contrato, nem desconstituiu o depósito e o levantamento do produto do mútuo, ônus que lhe incumbia, a teor do art. 373, I, do CPC" (e-STJ fls. 363/364).
+Assim sendo, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+A propósito:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE. INEXIGIBILIDADE DE DESCONTO EM FOLHA DE PAGAMENTO CUMULADA COM REPETIÇÃO DO INDÉBITO E DANOS MORAIS. REGULARIDADE NA CONTRATAÇÃO. INEXISTÊNCIA DE PROVA DE FALSIFICAÇÃO DE ASSINATURA. REEXAME DE FATOS E PROVAS. IMPOSSIBLIDADE. SÚMULA N. 7/STJ.
+1. O Superior Tribunal de Justiça no julgamento do Tema n. 1061 firmou a seguinte tese: "na hipótese em que o consumidor/autor impugnar a autenticidade da assinatura constante em contrato bancário juntado ao processo pela instituição financeira, caberá a esta o ônus de provar a sua autenticidade (CPC, arts. 6º, 368 e 429, II).".
+2. Havendo impugnação da autenticidade da assinatura constante de contrato bancário por parte do consumidor, caberá à instituição financeira o ônus de provar sua autenticidade, mediante perícia grafotécnica ou outro meio de prova.
+3. Hipótese em que o acórdão recorrido está em consonância com o Tema 1061 do STJ tendo em vista que a instituição financeira, através de outros meios de prova, comprovou a relação contratual firmada entre as partes.
+4. Rever as conclusões a que chegou o Tribunal de origem acerca da legitimidade dos descontos, ante a comprovação da contratação regular e a similaridade das assinaturas, demandaria o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7 do STJ.
+Agravo interno improvido." (AgInt no REsp n. 2.114.745/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C PEDIDO DE REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO POR DANO MORAL. IMPUGNAÇÃO DA AUTENTICIDADE DA ASSINATURA DO CONTRATO. TEMA N. 1.061 DO STJ. ÔNUS DE PROVAR DA INSTITUIÇÃO FINANCEIRA. SÚMULA N. 83 DO STJ. PERÍCIA GRAFOTÉCNICA OU OUTRO MEIO DE PROVA. CERCEAMENTO DE DEFESA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Tema n. 1061 do STJ: "na hipótese em que o consumidor/autor impugnar a autenticidade da assinatura constante em contrato bancário juntado ao processo pela instituição financeira, caberá a esta o ônus de provar a sua autenticidade" (REsp n. 1.846.649/MA, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 24/11/2021, DJe de 9/12/2021).
+2. Por ser o juiz o destinatário das provas, a ele incumbe a valoração do conjunto probatório constante dos autos, podendo formar sua convicção com base em quaisquer elementos ou fatos apresentados, desde que o faça de forma fundamentada. Precedentes.
+3. O Tribunal de origem, nos moldes da jurisprudência desta Corte, reconheceu que a instituição financeira se desincumbira do ônus respectivo, comprovando a existência da relação jurídica válida por meios de prova diversos da perícia, além do proveito econômico obtido pela consumidora, sem indícios de fraude. Incidência da Súmula n. 83 do STJ.
+4. Rever a convicção formada pelo Tribunal de origem acerca da legitimidade dos descontos, ante a comprovação da contratação regular e a similaridade das assinaturas, aptas a afastar a necessidade da realização da perícia e o alegado cerceamento de defesa, demandaria análise dos instrumentos contratuais e a incursão no acervo fático-probatório. Incidência das Súmulas n. 5 e 7 do STJ.
+5. A incidência das Súmulas n. 5 e 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+6. Agravo interno desprovido." (AgInt no REsp n. 2.115.395/MT, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 22/4/2024, DJe de 24/4/2024)
+Por fim, oportuno consignar que é inviável a análise de violação de portarias, circulares, resoluções, instruções normativas, regulamentos, decretos, avisos e outras disposições administrativas por não estarem inseridas no conceito de lei federal previsto no art. 105, II, "a", da Constituição Federal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 18% (dezoito por cento) sobre o valor atualizado da causa, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
