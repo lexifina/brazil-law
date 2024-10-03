@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de WALLISSON DE ANDRADE VALERIO TOME, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Verifica-se dos autos que o paciente foi preso preventivamente pela suposta prática dos crimes tipificados no art. 121, § 2º, incisos I e IV, c/c art. 14, inciso II, do Código Penal, por três vezes.
+Inconformada, a defesa impetrou habeas corpus no Tribunal de origem, alegando ausência de fundamentação idônea para a decretação da prisão preventiva e a não realização de audiência de custódia.
+A ordem foi parcialmente concedida pela Corte de Justiça apenas para determinar a realização de audiência de custódia no prazo de 24 horas, mantendo, no entanto, a prisão cautelar do paciente para garantia da ordem pública, e cassando a liminar anteriormente deferida, conforme acórdão de fls. 502/510.
+Daí a impetração do presente habeas corpus, no qual a defesa reitera os mesmos argumentos: a) ilegitimidade da prisão pela não realização de audiência de custódia; b) inexistência de fundamentos para a manutenção da prisão cautelar; c) nulidade insanável e prejuízo presumido e d) ausência de indícios de autoria
+Requer a revogação da prisão preventiva, ainda que substituída por medidas cautelares previstas no art. 319 do CPP.
+A liminar foi indeferida às fls. 513/514.
+As informações foram prestadas às fls. 520/538 e 539/649.
+O Ministério Público Federal, em parecer às fls. 653/659, manifestou-se pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+Busca-se, no presente writ, a revogação da prisão preventiva imposta ao paciente.
+Preliminarmente, cabe esclarecer que, em consulta ao site do Tribunal de origem, constatou-se que, na Ação Penal n. 0016960-46.2022.8.13.0382, objeto deste feito, sobreveio sentença de pronúncia, a qual transitou em julgado em 23/02/2024, mantendo a segregação cautelar do recorrente. Diante disso, resta superada a alegação de nulidade por ausência de audiência de custódia, devido à superveniência de novo título judicial apto a justificar a segregação.
+Constatou-se, ainda, que a sentença de pronúncia não trouxe novos fundamentos ao decreto prisional, tendo o juízo reiterado os motivos anteriormente expostos, conforme trecho do julgado:
+"No caso, os motivos que ensejaram a segregação cautelar de WALLISSON e MATHEUS, exaustivamente expostos ao longo da instrução, permanecem inalterados, razão pela qual nego-lhes o direito de recorrer em liberdade e mantenho sua prisão preventiva, para os fins exigidos no art. 316, parágrafo único, do CPP."
+É entendimento do Superior Tribunal de Justiça que a manutenção da custódia cautelar em sentença superveniente não torna prejudicado o habeas corpus, quando não agregados novos fundamentos ao decreto prisional primitivo. Precedentes: (AgRg no RHC 18/9290/RS, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJ 16/09/2024, DJe 18/09/2024).
+Diante desse cenário, passo à análise da irresignação.
+No caso, observa-se que a decisão que decretou a prisão cautelar está devidamente fundamentada em elementos concretos extraídos dos autos, que demonstram a necessidade da prisão para garantia da ordem pública, especialmente pelo modus operandi da conduta, caracterizado por frieza e violência, denotando completo desprezo pela vida humana.
+Verifica-se dos autos que o paciente, em conjunto com um comparsa, teria efetuado mais de 20 disparos de arma de fogo contra três indivíduos, surpreendendo as vítimas enquanto jogavam cartas na garagem de uma residência. Os ofendidos só não foram a óbito porque conseguiram fugir para dentro da casa, sendo que uma delas ficou gravemente ferida. Indica-se ainda que, à época dos fatos, o paciente já possuía mandado de prisão em aberto por outro crime.
+Sobre o tema, o Supremo Tribunal Federal possui entendimento consolidado de que "é idônea a prisão cautelar fundada na garantia da ordem pública quando revelada a periculosidade social do agente pela gravidade concreta da conduta." (HC n. 219.565 AgR, Rel. Min. Nunes Marques, Segunda Turma, julgado em 14/11/2022, DJe 23/11/2022).
+Nesse sentido, o Supe rior Tribunal de Justiça também considera que "a gravidade concreta da conduta, evidenciada pelo elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na ação criminosa, é fundamento idôneo para a prisão preventiva, com o intuito de preservar a ordem pública." (AgRg no HC n. 687.840/MS, Rel. Min. LAURITA VAZ, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+Quanto à alegação de ausência de indícios de autoria, cabe pontuar que a via do habeas corpus não se presta ao exame de provas, pois este tipo de análise demanda reavaliação probatória, própria de instâncias ordinárias. Para o juízo cautelar, basta a verossimilhança das alegações, sem exigir o mesmo grau de certeza necessário para a condenação.
+Nesse sentido: (AgRg no HC 655.675/SP, Rel. Min. Felix Fischer, Quinta Turma, DJe 04/06/2021), (AgRg no HC n. 675.938/BA, Rel. Min. Jesuíno Rissato (Des. Convocado do TJDFT), Quinta Turma, julgado em 28/09/2021, DJe 08/10/2021), entre outros.
+Assim, não merece acolhida a tese de ausência de indícios de autoria.
+Por fim, havendo elementos concretos que justificam a prisão cautelar, não se mostra aplicável a substituição por medidas alternativas, pois insuficientes para garantir a ordem pública. Nesse sentido: (RHC 81.745/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 01/06/2017, DJe 09/06/2017), entre outros precedentes.
+Assim, concluo que a prisão processual está adequadamente fundamentada na necessidade de resguardar a ordem pública, não se evidenciando ilegalidade flagrante que justifique a sua revogação.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
