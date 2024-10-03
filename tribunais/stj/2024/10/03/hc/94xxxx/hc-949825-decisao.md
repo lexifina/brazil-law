@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARISSON CONCEIÇÃO DE SOUZA apontando como autoridade coatora o Tribunal de Justiça do Estado do Amazonas (HC n. 4003203-74.2024.8.04.0000).
+Consta dos autos que o paciente foi condenado como incurso nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/06, à pena de 20 anos de reclusão, em regime fechado, e 1599 dias-multa. Irresignada, a defesa impetrou prévio writ, o qual foi julgado nos termos da seguinte ementa (e-STJ fls. 21):
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PACIENTE CONDENADO A 20 (VINTE) ANOS DE RECLUSÃO, NO REGIME FECHADO. IMPETRANTE EM SEDE PRELIMINAR ALEGA NULIDADES. AUSÊNCIA DE INTIMAÇÃO DA DEFESA POR EDITAL PARA CONSTIT UIR NOVO ADVOGADO. JULGAMENTO BASEADO APENAS NAS PROVAS PRODUZIDAS EM SEDE POLICIAL. MÉRITO. ABSOLVIÇÃO OU, SUBSIDIARIAMENTE, A CORREÇÃO DA DOSIMETRIA DA PENA. INADMISSIBILIDADE DA UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO RECURSAL. SENTENÇA PENAL CONDENATÓRIA TRANSITADA EM JULGADO. COISA JULGADA MATERIAL. ORDEM NÃO CONHECIDA.
+- Tendo em vista que os autos originários já se encontram com sentença penal transitada em julgado, o objeto do presente writ é tão somente a reapreciação da matéria, o que é inviável por tratar-se de clara afronta à lógica do sistema recursal;
+- Consoante entendimento das Cortes Superiores, não é admitida a utilização da ação constitucional de habeas corpus como sucedâneo do meio processual adequado. Precedentes;
+- É defeso realizar, por meio de Habeas Corpus, a análise do mérito processual, assim como qualquer aprofundamento do conjunto de provas, tendo em vista ser incompatível com seus estreitos limites.
+- ORDEM NÃO CONHECIDA.
+No presente mandamus, a defesa aduz, em síntese, que possível o ajuizamento de habeas corpus após o trânsito em julgado da sentença condenatória quando não há revisão criminal ajuizada, hipótese dos autos.
+Afirma que existem flagrantes ilegalidades que influenciaram no julgamento da ação penal na origem, quais sejam ausência de intimação da defesa constituída nos autos, a ausência de intimação por edital oportunizando ao réu o seu interrogatório, o julgamento ter sido baseado única e exclusivamente nas provas produzidas em sede policial, e ao final a flagrante ilegalidade na dosimetria da pena  ..  (e-STJ fls. 7).
+Requer, liminarmente, o recolhimento do mandado de prisão expedido em face do paciente, até o julgamento do mérito do presente feito. No mérito (e-STJ fls. 19/20):
+b) Sendo concedida a ordem e conhecido o habeas corpus, requer que sejam analisadas as questões preliminares e de mérito suscitadas no presente writ, as quais evidenciam as flagrantes ilegalidades no que diz respeito a nulidade da sentença ter sido baseada unicamente nos elementos produzidos sede policial, bem como no fato da NÃO ocorrência de citação o paciente na ação penal (inclusive por edital) para que pudesse constituir novo patrono, evidenciando o cerceamento de defesa.
+c) No mérito, caso não seja acatada a preliminar, requer a ABSOLVIÇÃO do paciente em virtude da insuficiência probatória de elementos capazes de condenar, aos delitos que foram imputados.
+d) Caso Vossa Excelência não entenda pela nulidade da sentença ou absolvição do paciente, REQUER QUE SEJA REVISTA A DOSIMETRIA DA PENA, devido as flagrante ilegalidade na fixação das penas base, conforme as razões do writ.
+É o relatório. Decido.
+A pretensão da defesa não merece prosperar.
+As alegações defensivas não foram previamente decididas pelo Tribunal de origem. Portanto, não houve manifestação da Corte local sobre os temas veiculados no presente mandamus, motivo pelo qual não é possível conhecer do writ, sob pena de indevida supressão de instância.
+Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/9/2020, DJe 29/9/2020).
+No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES. AUSÊNCIA DE FUNDAMENTAÇÃO PARA O RECEBIMENTO DA DENÚNCIA. PROLAÇÃO DE SENTENÇA CONDENATÓRIA QUE PREJUDICA A APRECIAÇÃO DO TEMA. AUSÊNCIA DE APRECIAÇÃO DAS TESES DEFENSIVAS PELA SENTENÇA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO . ENUNCIADO N. 52, DA SÚMULA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As alegadas nulidades decorrentes da sentença condenatória não foram examinadas pelo Tribunal de origem, de modo que inviável a análise inaugural por esta Corte, sob pena de indevida supressão de instância. Outrossim, prolatada a sentença condenatória, fica obstada a análise de eventuais nulidades decorrentes do recebimento da denúncia.
+2. No que se refere ao alegado excesso de prazo para o encerramento da instrução, incide o Enunciado n. 52, da Súmula do STJ, que afirma que "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Nesse contexto, prolatada a sentença condenatória, inviável o reconhecimento do excesso de prazo.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 837.966/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Pelo exposto, indefiro liminarmente o mandamus.
+Publique-se.
+EMENTA
