@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por CHUKWUDI CHRISTIAN CHUKWU contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que inadmitiu recurso especial.
+O recorrente foi condenado como incurso nas sanções do 33, caput, §4º, c/c art. 40, inciso I, da Lei n. 11.343/2006, à pena de 5 (cinco) anos, 4 (quatro) meses e 5 (cinco) dias de reclusão e 534 (quinhentos e trinta e quatro dias-multa) (fls. 317-321).
+O Tribunal deu parcial provimento ao apelo defensivo, para redimensionar a pena definitiva para 4 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão, além de revogar, de ofício, a prisão preventiva, impondo medidas cautelares diversas (fls. 488-500).
+A Defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegando a violação ao artigo 33, §4º, da Lei n. 11.343/06 e ao artigo 381, III do Código de Processo Penal (fls. 542-548).
+O recurso foi inadmitido na origem com fundamento na Súmula n. 7, STJ (fls. 561-566).
+Nas razões do agravo em recurso especial, o agravante sustenta a desnecessidade de reexame da matéria fática (fls. 570-574).
+O Ministério Público Federal, por sua vez, opinou pelo desprovimento do recurso (fls. 656-663).
+Pedido incidental da Defesa de liberação do passaporte do recorrente (fls. 626-630), devolvido à origem (fls. 664-665) e decidido em fls. 673-696.
+É o relatório. DECIDO.
+Inicialmente, verifico que foi resolvido o pedido incidental da Defesa, razão pela qual passo a análise do recurso especial, conforme fls. 664-665.
+A Defesa insurge-se contra a fração aplicada pela causa de diminuição de pena, prevista no art. 33, §4º, da Lei n. 11.343/06, ao recorrente. Sustenta que as instâncias de origem aplicaram a redução no patamar mínimo com base em fundamentação genérica.
+Ao julgar a apelação, assim aduziu o acórdão (fls. 494-495):
+"Quanto ao pleito pela aplicação da causa de diminuição do artigo 33, §4.º da norma já mencionada em sua fração máxima, não merece prosperar.
+Na sentença, o benefício do artigo 33, §4.º, da Lei de Drogas foi aplicado na fração de 1/6 (um sexto) fundamentada nos seguintes termos:
+ ..  Incide na espécie a causa de diminuição de pena prevista no art. 33, § 4.º da Lei " 11.343/06, isso porque não há prova de que o réu integre organização criminosa nem se dedica a atividades criminosas.
+As viagens apontadas na certidão de movimentos migratórios não podem ser presumidas criminosas por força da garantia constitucional do Estado de Inocência.
+Na linha da jurisprudência do TRF3, a pena deve ser diminuída no mínimo, ou seja, 1/6, pois apesar de não integrar a organização criminosa, participou dela de forma relevante (Ap. - APELAÇÃO CRIMINAL - 76118 0006594-88.2017.4.03.6119, DESEMBARGADOR FEDERAL FAUSTO DE SANCTIS, TRF3 - DÉCIMA PRIMEIRA TURMA, e-DJF3 Judicial 1 DATA:15/02/2019)."
+Vejamos. Os requisitos desse benefício são os seguintes:
+ ..
+No caso em tela, o réu é primário e não ostenta maus antecedentes, tampouco há comprovação de que se dedique às atividades delituosas ou que integre organização criminosa, de forma que faz jus à benesse do §4.º, do artigo 33 da Lei de Drogas.
+O dispositivo em comento prevê a existência de uma margem de diminuição legal de pena variável entre 1/6 (um sexto) e 2/3 (dois terços), que o juízo pode aplicar com base no princípio do livre convencimento, consoante a valoração das circunstâncias, alegações e provas apresentadas. Como é cediço, o legislador ao instituir o referido benefício legal teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida.
+No presente caso, ainda que a atuação no mero transporte de entorpecente, enquanto "mula", não seja suficiente para caracterizar integração em organização criminosa, tal conduta denota desvalor incompatível com a redutora na fração máxima, visto que o réu assentiu em tomar parte em uma empreitada criminosa estruturada (aporte financeiro, v. g. acondicionamento do entorpecente, contatos com intermediários) por organização criminosa, como só ocorre em delitos desse porte.
+Acrescente-se que a jurisprudência do Superior Tribunal de Justiça é no sentido de que o conhecimento pelo agente de estar a serviço do crime organizado para o tráfico transnacional de entorpecentes constitui fundamento concreto e idôneo a ser valorado para fins de estabelecimento da incidência da causa de diminuição de pena do artigo 33, §4.º, da Lei nº. 11.343/06, no mínimo legal, ante a gravidade da conduta perpetrada (STJ, HC n. 387.077, Rel. Min. Ribeiro Dantas, j. 06.04.17). Desta feita, não cabe a aplicação da minorante em tela em sua fração máxima, pelo que mantenho a redução como aplicada na origem, na razão de 1/6 (um sexto)."
+Inicialmente, registro que a dosimetria se insere no âmbito de discricionariedade motivada do magistrado, somente podendo ser modificada, em sede de recurso especial, em caso de flagrante ilegalidade ou desproporcionalidade da pena.
+Verifico que o agravante foi condenado após ser apreendido em flagrante delito, na iminência de embarcar, no Aeroporto de Guarulhos-SP, com destino à Lagos, Nigéria, transportando 829g (oitocentos e vinte e nove gramas) de cocaína (fl. 490). O Tribunal de origem fundamentou a manutenção do percentual mínimo de redução da pena pelo tráfico privilegiado, baseado nas circunstâncias do transporte internacional de entorpecentes, sendo o agravante parte de grande empreitada criminosa estruturada.
+O acórdão está devidamente fundamentado em circunstâncias do caso concreto e em consonância com o entendimento desta Corte. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. IMPOSSIBILIDADE. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. "MULA". ORGANIZAÇÃO CRIMINOSA. INTEGRAÇÃO NÃO COMPROVADA. REDUÇÃO DA PENA. ART. 33, § 4º, DA LEI 11.343/06. CABIMENTO. MENOR FRAÇÃO. HABEAS CORPUS DE OFÍCIO. CONCESSÃO.
+ ..
+3. A atuação do agente como "mula", por si só, não induz que integre organização criminosa, sendo imprescindível, para tanto, prova inequívoca do seu envolvimento, estável e permanente, com o grupo criminoso.
+4. A ciência do agente de estar a serviço de grupo criminoso voltado ao tráfico internacional de drogas é circunstância apta a justificar a menor redução da pena, na fração de 1/6, pela aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006.
+5. Agravo regimental não conhecido. Ordem de habeas corpus concedida de ofício para fazer incidir a causa de redução da pena prevista no art. 33, § 4º, da Lei de Drogas, na sua menor diminuição.
+(AgRg no AREsp n. 1.476.835/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/10/2021, DJe de 13/10/2021.)
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. DOSIMETRIA. 2.660,9 G DE COCAÍNA. PENA-BASE NO MÍNIMO LEGAL. PLEITO DE APLICAÇÃO DO REDUTOR NO PATAMAR MÁXIMO. ART. 33, § 4º, DA LEI N. 11.343/06. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA DO ACÓRDÃO RECORRIDO. MODULAÇÃO DA FRAÇÃO. PRECEDENTES. DECISÃO MANTIDA.
+Ao contrário do que alega a defesa, houve fundamentação concreta e idônea, na medida em que o acórdão objurgado fundamentou "no presente caso, ainda que a atuação no mero transporte de entorpecente não seja suficiente para caracterizar integração e m organização criminosa, tal conduta denota desvalor incompatível com a redutora na fração máxima, visto que a ré assentiu em tomar parte em uma empreitada criminosa estruturada (aporte financeiro e acondicionamento do entorpecente, etc) por organização criminosa, como ocorre em delitos desse porte." (fl. 478), em consonância com o atual entendimento deste Superior Tribunal de Justiça.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.273.471/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024.)
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso "b", do RISTJ, conheço do agravo e nego provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PLEITO DE APLICAÇÃO DO REDUTOR NO PATAMAR MÁXIMO. ART. 33, § 4º, DA LEI N. 11.343/06. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. AGRAVO EM RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
