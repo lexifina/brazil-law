@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por UNIMED PORTO ALEGRE - COOPERATIVA MÉDICA LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÕES CÍVEIS. SEGUROS. PLANO DE SAÚDE. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. TRANSTORNO DO ESPECTRO AUTISTA. TRATAMENTOS MULTIDISCIPLINARES. RN 539/2022. OBRIGATORIEDADE DE COBERTURA PARA QUALQUER MÉTODO OU TÉCNICA INDICADO PELO MÉDICO ASSISTENTE PARA PACIENTES ENQUADRADOS NA CID F84. COPARTICIPAÇÃO EM PERCENTUAL. AUSÊNCIA DE PREVISÃO CONTRATUAL EM RELAÇÃO Ã PARTE DOS TRATAMENTOS. ABUSIVIDADE. MANUTENÇÃO DA REDUÇÃO DO PERCENTUAL PREVISTO PARA AS DEMAIS TERAPIAS. HONORÁRIOS RECURSAIS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz violação ao art. 16, VIII, da Lei n. 9.656/1998, no que concerne à legalidade da cobrança de coparticipação no contrato de plano de saúde, trazendo a seguinte argumentação:
+Como demonstrado no curso do processo, há no contrato vigente entre as partes previsão de cobrança de coparticipação.
+Assim, de pronto, verifica-se a inexistência de qualquer falha no dever de informação, esse constante no inciso III do artigo 6º do CDC, sendo, portanto, caso de análise da legalidade da cobrança da coparticipação a partir do que consta no contrato firmado entre as partes.
+No entanto, o Tribunal de Origem afirmou que não seria possível a cobrança de coparticipação da parte recorrida, o que, todavia, não corresponde à completa aplicação da Lei 9.656/98 como instrumento que permite a cobrança em questão.
+Não é demais sublinhar que, conforme determinado pelo inciso VIII do artigo 16 da Lei 9.656/98, o percentual de coparticipação está previsto de forma clara para as despesas médicas assistenciais, de modo que, quando utilizado o serviço, faz-se possível a cobrança de parte do custo:
+ ..
+Nesse sentido, se foi reconhecido na decisão a existência de uma cláusula dispondo quanto à coparticipação, e se tal cláusula prevê, de forma clara, os tratamentos que seriam objeto de coparticipação, o percentual que seria cobrado do beneficiário, e o tipo de despesa sobre a qual seria cobrada a coparticipação, não há falar em ilegalidade da cobrança em sua integralidade.
+ ..
+Ou seja, a coparticipação contratada não pode ser afastada, posto que a reserva, pelo legislador federal, do mecanismo regulatório da coparticipação veio no sentido de resguardar a segurança contratual, inclusive pela manutenção de um devido equilíbrio financeiro do contrato.
+Ora, se o beneficiário se vale dos serviços prestados de forma recorrente, como o faz para a fisioterapia, corolário é que arque com a contraprestação a título de coparticipação, a qual, se não for adimplida, gerará onerosidade em demasia unilateral ao plano de saúde, que não se valerá de importante instrumento regulatório (fls. 383-384).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+A despeito da existência da cláusula supracitada, percebe-se que não há previsão clara e expressa acerca de coparticipação para a fonoaudiologia e a musicoterapia, razão pela qual deve ser afastada a cobrança de coparticipação referente a estes tratamentos.
+No que tange aos demais tratamentos prescritos pelo médico assistente (terapia ocupacional e psicológica), o contrato fixa o percentual de 66% a título de coparticipação. Todavia, o percentual estabelecido traduz um financiamento quase que integral pelo beneficiário do plano, indo além do que pode ser considerado aceitável a fim de que seja mantido o equilíbrio contratual, sem implicar em severa restrição aos serviços, nos moldes das decisões acima delineadas.
+Aludido percentual acaba por deturpar o objetivo maior do contrato de plano de saúde, que é a garantia da assistência médico-hospitalar que se fizer necessária ao longo da contratação.
+Assim, inaceitável o percentual fixado no contrato, ainda mais em caso em que o tratamento se prolonga no tempo, ante a evidente quebra do equilíbrio contratual, ultrapassando os limites da razoabilidade, por onerar, de forma demasiada, justamente a parte hipossuficiente da relação de consumo, sendo manifesta, portanto, a abusividade da cláusula que fixa coparticipação no patamar de 66% do valor dos atendimentos psicoterápicos prestados.
+Entendo, contudo, que foi acertada a sentença ao limitar o percentual de coparticipação em 40%, correspondente ao menor percentual previsto na referida cláusula contratual, o qual não configura fator restritivo de acesso, bem como garante o equilíbrio contratual (fl. 363).
+Aplicável, portanto, a Súmula n. 5 do STJ ("A simples interpretação de cláusula contratual não enseja recurso especial"), tendo em vista que a pretensão recursal demanda reexame de cláusulas contratuais.
+Nesse sentido: "E mesmo se superado tal obstáculo, constata-se que a controvérsia foi dirimida pelo Tribunal a quo com base na análise e interpretação de cláusulas contratuais, fato esse que impede o exame da questão por esta Corte, em face da vedação prevista na Súmula n. 5/STJ". (AgInt no AREsp 1.298.442/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 14.12.2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.639.849/ES, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.8.2020; AgInt no REsp 1.662.100/AL, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17.8.2020; e AgInt no REsp 1.848.711/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 14.8.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
