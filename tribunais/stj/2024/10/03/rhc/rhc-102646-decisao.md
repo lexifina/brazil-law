@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por JEFERSON CORREA SANTOS contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (RHC n. 0640146-70.2018.8.13.0000).
+Consta dos autos que o recorrente foi preso em flagrante, no dia 3/2/2018, pela prática do delito referido no art. 157, § 2º, I e II, do Código Penal.
+O Magistrado de piso concedeu-lhe liberdade provisória em 4/2/2018. Contudo, em razão do descumprimento de compromissos impostos, em 30/4/2018, o Juízo de origem revogou o benefício, determinando a prisão preventiva (e-STJ fls. 24/36, 177 e 257/258).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos da seguinte ementa (e-STJ fl. 306):
+HABEAS CORPUS - ROUBO MAJORADO - PRISÃO PREVENTIVA DECRETADA - DESCUMPRIMENTO DE MEDIDAS CAUTELARES - DECISÃO A QUO FUNDAMENTADA - PRESENÇA DOS REQUISITOS AUTORIZADORES DA MEDIDA EXCEPCIONAL PREVISTOS NOS ARTS. 312 E 313, I, AMBOS DO CÓDIGO DE PROCESSO PENAL - PROVA DA EXISTÊNCIA DO CRIME E INDÍCIOS SUFICIENTES DE AUTORIA - NECESSIDADE DE GARANTIA DA APLICAÇÃO DA LEI PENAL - PENA MÁXIMA COMINADA SUPERIOR A QUATRO ANOS - MEDIDAS CAUTELARES - IMPOSSIBILIDADE - CONDIÇÕES PESSOAIS DO PACIENTE - IRRELEVÂNCIA - EXPECTATIVA DE PENA MAIS BRANDA - IMPOSSIBILIDADE DE ANÁLISE. - Não há que se falar em constrangimento ilegal se a decisão que converteu a prisão em flagrante delito do paciente em custódia preventiva encontra-se devidamente fundamentada na garantia da aplicação da lei penal, mormente em face do descumprimento das medidas cautelares anteriormente impostas. - Presentes os requisitos previstos no art. 312 do Código de Processo Penal, é possível a manutenção da prisão cautelar quando se tratar de crime punido com pena máxima superior a quatro anos de reclusão, conforme ocorre no caso em análise (art. 313, I, do Código de Processo Penal). - As medidas cautelares diversas da prisão não se mostram suficientes e adequadas à prevenção e repressão do delito imputado ao paciente, mormente quando presentes outras circunstâncias autorizadoras da cautela. - As condições favoráveis do paciente não são suficientes para lhe garantir a liberdade provisória, mormente quando presentes outras circunstâncias autorizadoras da cautela. - A definição quanto ao regime inicial do cumprimento de pena ou pena substitutiva depende de uma análise criteriosa das circunstancias judiciais previstas no art. 59, do Código Penal, bem como da existência de agravantes/atenuantes e minorantes/majorantes, o que somente poderá ser realizada pelo juiz da causa, sendo necessário um profundo exame probatório, o que não se pode admitir em sede de Habeas Corpus.
+Nas razões do presente recurso ordinário, a defesa sustenta ausência de fundamentação concreta para a custódia cautelar. Afirma, também, a necessidade de análise individual de cada medida cautelar, o que não teria ocorrido no decreto preventivo.
+Por fim, acentua as condições pessoais favoráveis do réu, além de apontar tratar-se de conduta afiançável.
+Diante disso, pleiteia, em liminar, que o acusado aguarde em liberdade o julgamento final deste recurso.
+No mérito, requer a revogação da prisão preventiva, substituindo a custódia por medidas cautelares diversas, a fim de permitir que ele permaneça solto até o trânsito em julgado de eventual condenação (e-STJ fls. 319/333).
+Liminar indeferida às e-STJ fls. 343/346.
+Após as informações, o Ministério Público Federal manifestou-se pelo não provimento do recurso (e-STJ fl. 371/276).
+É o relatório.
+Decido.
+O presente recurso está prejudicado.
+Isso, porque, em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que já houve o trânsito em julgado, com baixa definitiva em 12/3/2020, o que torna prejudicado o pleito defensivo, que se voltava contra a custódia cautelar.
+Assim, patente que o presente recurso está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
