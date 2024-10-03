@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por RAIMUNDO JOSÉ DOS REIS FILHO contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 6ª REGIÃO.
+Depreende-se dos autos que o recorrente cumpre pena de 06 (seis) anos de reclusão e 72 (setenta e dois) dias-multa pela prática do crime de denunciação caluniosa (fl. 48).
+O recorrente alega, em síntese, a ocorrência de tortura e desobediência por parte do juiz de direito, afirmando que até o presente momento não foram tomadas quaisquer providências pelas autoridades competentes.
+Destaca que as decisões do STJ, STF e Conselho Nacional de Justiça junto ao caso não foram cumpridas.
+Sustenta que os atos praticados pelas instâncias de origem causam violação dos seus direitos e garantias, bem como cerceamento de defesa.
+Requer, ao fim, a apreciação das supostas "torturas, constrangimentos e abusos" sofridos e a expedição de diversos ofícios aos órgãos competentes para apurar o alegado neste recurso.
+É o relatório. DECIDO.
+Inicialmente, mister frisar que, segundo disposição do art. 105, II, "a", da Constituição da República, o Superior Tribunal de Justiça é competente para julgar, em recurso ordinário, os habeas corpus decididos em única ou última instância por Tribunal sujeito à sua jurisdição, quando a decisão for denegatória.
+Vale dizer, falece competência a este Superior Tribunal de Justiça, a teor do art. 105, II, "a", da Constituição Federal, para julgar recurso ordinário em habeas corpus interposto contra acórdão que julgou extinto o processo sem julgamento de mérito por incompetência.
+Da leitura dos aut os, verifica-se que o Tribunal de Justiça não analisou o mérito da controvérsia, pois sequer conheceu do writ na origem.
+Assim, ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, ao menos no acórdão ora impugnado, incabível a análise do presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+O Superior Tribunal de Justiça entende que:
+"como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: Ag Rg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Mister frisar que inexiste flagrante ilegalidade a ser reconhecida de ofício porquanto as razões deste recurso são similares às expostas no RHC 186.343, no qual foi ressaltado que as instâncias de origem já adotaram providências para apuração das alegações do recorrente. Confiram-se os seguintes fundamentos, os quais adoto como razões de decidir:
+Além disso, colhe-se dos embargos de declaração opostos pela defesa perante o Tribunal de origem que (fl. 157):
+Ademais, entre os diversos meios impugnativos manejados pelo Embargante, já determinei que fossem oficiados os órgãos competentes para apurar o alegado na peça inaugural. Ademais, ressalto que, caso o i. patrono não tenha o devido conhecimento a respeito do assunto, não cabe este e. Tribunal de Justiça acionar diretamente a Corte Interamericana de Direitos Humanos, existindo, pois, procedimento específico a ser respeitado. Por fim, a OAB constitui órgão de classe e, caso do interesse do embargado, ele próprio deverá acionar a entidade.
+Ademais, conforme parecer do Ministério Público Federal, houve o julgamento do Habeas Corpus nº 1.0000.22.159158-9/000 na origem, em 28/06/2023, analisando o mérito do writ, eis a ementa do julgado (fl. 305):
+"HABEAS CORPUS - CUMPRIMENTO DE PENA - ALEGAÇÃO DE ABUSO DE AUTORIDADE E PRÁTICA DE TORTURA - PEDIDO DE APURAÇÃO E RESPONSABILIZAÇÃO DOS AGENTES RESPONSÁVEIS - PROVIDÊNCIAS ADOTADAS PELA AUTORIDADE IMPETRADA E PELO MINISTÉIRO PÚBLICO DO ESTADO DE MINAS GERAIS - CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO - ORDEM DENEGADA. - Considerando que a autoridade impetrada e o Ministério Público do Estado de Minas Gerais se desincumbiram de apurar o relatado, não se vislumbra constrangimento ilegal a ser sanado em sede de Habeas Corpus".
+Portanto, infere-se que foram tomadas as providências requeridas neste recurso pelo Tribunal a quo, não vislumbrando-se constrangimento ilegal a ser sanado por esta Corte.
+Ante o exposto, não conheço do presente recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
