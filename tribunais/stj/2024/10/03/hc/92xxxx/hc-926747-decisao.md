@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de Constancio de Morais Sousa  condenado como incurso no crime de furto simples  , em que se aponta como órgão coator o Tribunal de Justiça do Distrito Federal e dos Territórios (Apelação Criminal n. 0702770-82.2021.8.07.0012), comporta acolhimento.
+Com efeito, busca a impetração a absolvição do paciente, ao argumento de atipicidade material da conduta, em razão da incidência do princípio da insignificância, tendo em vista que a subtração de uma bermuda jeans - avaliada em R$ 79,99 (setenta e nove reais e noventa e nove centavos)  reveste-se de reduzidíssimo grau de reprovabilidade da conduta a configurar a situação excepcional que permite o reconhecimento da atipicidade material, mesmo diante de o impetrante/paciente ter respondido, em 2019, uma ação penal por crime de furto (fl. 7).
+É entendimento doutrinário e jurisprudencial que, para a aplicação do princípio da insignificância, mostra-se necessária a presença dos pressupostos objetivos, consistentes em: a) mínima ofensividade da conduta; b) inexistência de periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento; e d) inexpressividade da lesão jurídica provocada. A jurisprudência do Superior Tribunal tem se sedimentado no sentido de afastar a aplicabilidade do postulado quando se tratar de habitualidade criminosa, em especial, em crimes patrimoniais (AgRg no AREsp n. 2.532.305/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/9/2024).
+No caso, evidenciado se tratar de réu primário e a res furtiva no valor de R$ 79,99, inferior, portanto, a 10% do salário mínimo vigente à época dos fatos, que se deram em (18/5/2021), bem como ausente qualquer circunstância que denote a maior ofensividade da conduta, viável, portanto, a aplicação do princípio da insignificância.
+Em face do exposto, concedo a ordem impetrada para absolver o paciente na Ação Penal n. 0702770-82.2021.8.07.0012, da Vara Criminal e do Tribunal do Júri de São Sebastião/DF.
+Comunique-se com urgência.
+Intime-se o Ministério Público distrital.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO SIMPLES. PRETENSÃO DE ABSOLVIÇÃO. ATIPICIDADE MATERIAL DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. RES FURTIVA INFERIOR A 10% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. INEXISTÊNCIA DE CIRCUNSTÂNCIA QUE DENOTE A MAIOR OFENSIVIDADE DA CONDUTA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
