@@ -1,0 +1,18 @@
+DECISÃO
+Em razão do manifesto erro material na decisão de fls. 568-569, torno-a sem efeito e julgo prejudicado o agravo interno de fls. 574-597.
+Passo ao julgamento do agravo em recurso especial.
+Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial, no qual s e alega violação dos arts. 77, 502, 506, 507, 508, 536, 537 e 841 do Código de Processo Civil. O acórdão recorrido está retratado na seguinte ementa (fl. 496):
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença. Obrigação de entrega de coisa. Decisão que declarou a inexigibilidade de débitos e determinou a devolução dos cheques, sob pena de multa diária. Notícia do extravio de uma das cártulas. Obrigação de impossível cumprimento. Astreintes que não consubstanciam medida adequada à circunstância. Extinção da multa, ressalvada a responsabilidade da empresa executada por eventuais consequências advindas de sua negligência confessa. Recurso provido, com observação.
+Sustenta a parte agravante que o título judicial decorrente da sentença de mérito determinou o termo inicial para a devolução dos cheques, e tal decisão transitou em julgado em 23/2/2022, sem nenhuma manifestação da agravada para cumprir o que lhe fora determinado.
+Assevera que, apesar da desnecessária informação do acórdão de que o cumprimento da sentença foi requerido mais de 3 (três) meses após o trânsito em julgado, esclarece a agravante que os autos ainda não haviam retornado à instância de origem.
+Ressalta que era obrigação da agravada devolver os cheques em 15 dias após o trânsito em julgado da sentença. Não era a agravante que devia apressar-se para iniciar o cumprimento de sentença e reaver os cheques.
+Esclarece que apenas em 1/9/2022 a agravada peticionou informando que o cheque nº 5881 estava no Cartório de Protestos de Santos e que seria necessário expedir ofício para promover a retirada do cheque.
+Assim posta a questão, passo a decidir.
+Sobre a existência do dano moral indenizável, o Tribunal de origem, ao apreciar o feito, entendeu às fl. 502 - grifei:
+No caso dos autos, houve cumprimento da obrigação de restituição do cheque nº 005881. Quanto à cártula nº 005880, informou o executado que houve um extravio, lavrou, ainda que tardiamente, boletim de ocorrência a fim de salvaguardar direitos e colocou-se à disposição para reparar qualquer transtorno à parte exequente. Observa-se, conforme preceito legal mencionado, que a aplicação da multa é matéria que pode ser revista ou excluída a qualquer tempo. Não há elementos para se concluir que o extravio tenha ocorrido muito depois do trânsito em julgado, a justificar o cômputo da penalidade pelo interregno de tempo decorrido a contar daquela data. O cumprimento da sentença, a propósito, foi requerido mais de 3 (três) meses após o trânsito em julgado.
+Assim, comporta reforma a decisão para excluir a multa, não obstante ressalve-se a responsabilidade do ora agravante, que permanece responsável pelo extravio do título e por eventuais consequências que advierem de sua negligência em desfavor da exequente, a exemplo do retorno indevido à circulação ou de sua cobrança irregular por terceiros.
+Com efeito, observo que rever tais conclusões da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
