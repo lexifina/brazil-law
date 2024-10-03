@@ -1,0 +1,104 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5002307-58.2022.8.08.0069
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: SUELY BATISTA CORREA
+RECORRIDO: DEPARTAMENTO DE EDIFICACOES E DE RODOVIAS DO ESTADO DO ESPIRITO SANTO - DER-ES e outros (2)
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nº
+5002307-58.2022.8.08.0069
+
+Recorrente: ESTADO DO ESPÍRITO SANTO E
+DEPARTAMENTO DE EDIFICACOES E DE RODOVIAS DO ESTADO DO ESPIRITO SANTO – DER-ES
+
+Recorrido: SUELY BATISTA CORREA, MUNICIPIO DE MARATAIZES
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL DA FAZENDA PÚBLICA. RECURSO INOMINADO.
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO EM RODOVIA ESTADUAL. CONDUTORA QUE DESVIOU DE AMONTOADO DE TERRA NA VIA E COLIDIU CONTRA CONTENÇÃO DE FERRO CAÍDA NA RODOVIA. LOCAL DE POUCA VISIBILIDADE E SEM SINALIZAÇÃO DE TRECHO EM OBRAS. SENTENÇA QUE RECONHECEU A ILEGITIMIDADE PASSIVA DO MUNICÍPIO DE MARATAÍZES, POR SE TRATAR DE CIRCUNSCRIÇÃO DO MUNICÍPIO DE ITAPEMIRIM/ES; CONDENOU O DER/ES E, SUBSIDIARIAMENTE, O ESTADO AO PAGAMENTO DE R$ 2.592,59 A TÍTULO DE DANOS MATERIAIS E R$ 5.000,00 A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS.
+
+RECURSO DO ESTADO DO ESPÍRITO SANTO QUE VISA, PRELIMINARMENTE, O RECONHECIMENTO DA INCOMPETÊNCIA TERRITORIAL DO JUÍZO
+A QUO
+, POR SE TRATAR O LOCAL DE FATO DE MUNICÍPIO DIVERSO (ITAPEMIRIM/ES) DA COMARCA DO AJUIZAMENTO DA DEMANDA (MARATAÍZES/ES).
+PRELIMINAR REJEITADA. COMPETÊNCIA QUE SE DETERMINA NO MOMENTO DO
+REGISTRO DA DEMANDA
+, NA FORMA DO ART. 43, DO CPC. LOCAL DO FATO QUE SE DESCORTINOU SER DIVERSO DA COMARCA DE ORIGEM APÓS A INSTRUÇÃO PROBATÓRIA.
+COMPETÊNCIA EM RAZÃO DO LOCAL QUE POSSUI NATUREZA RELATIVA
+PASSÍVEL DE PRORROGAÇÃO.
+
+AUSÊNCIA DE HIPÓTESE DE NULIDADE PROCESSUAL EM RAZÃO DE INCOMPETÊNCIA TERRITORIAL E DE INEXISTÊNCIA DE PREJUÍZO AO RECORRENTE QUE POSSUI
+EXTENSÃO
+ESTADUAL (ART. 282, § 1º, CPC).
+
+PRELIMINAR DE LITISCONSÓRCIO PASSIVO NECESSÁRIO COM O MUNICÍPIO DE ITAPEMIRIM E PRELIMINAR DE ILEGITIMIDADE PASSIVA DO ESTADO E DO DER/
+ES
+QUE NÃO PROSPERA
+M
+. OS ARGUMENTOS DE RESPONSABILIDADE PELA REALIZAÇÃO DA OBRA SÃO
+RELATIVOS AO
+MÉRITO.
+
+A RESPONSABILIDADE TRANSFERIDA AO MUNICÍPIO PARA A REALIZAÇÃO DA OBRA EM TRECHO DE RODOVIA ESTADUAL NÃO ELIDE A RESPONSABILIDADE DOS ENTES ESTADUAIS. CONFORME DISPOSTO EM SENTENÇA
+A QUO
+, HAVIA AINDA RESPONSABILIDADE DO DER/ES PELA FISCALIZAÇÃO DOS SERVIÇOS DE PAVIMENTAÇÃO DA RODOVIA, SENDO A RESPONSABILIDADE DO ESTADO SUBSIDIÁRIA PELOS DANOS CAUSADOS POR SUAS AUTARQUIAS.
+SEGUE TRECHO DA SENTENÇA OBJURGADA:
+“
+Sendo assim, não restam dúvidas de que a conduta omissiva do Requerido é passível de indenização, que ao deixar de fiscalizar adequadamente a via pública, notamente quando em realização de obra de impacto no local. contribuiu para que a parte autora se acidentasse, ao colidir com a contenção ferro que estava caída na via.
+Durante a audiência de instrução e julgamento a testemunha ALCIDES afirmou que teria socorrido a parte autora e confirmou que de fato havia o amontoado de barro na pista, bem como o veículo da demandante estava sobre a contenção de ferro. Logo, o dever de indenizar do Requerido decorre da responsabilidade civil objetiva, a teor do que dispõe o artigo 37, parágrafo 6º da Constituição Federal, respondendo pelos danos decorrentes da ausência de sinalização/isolamento da via
+”.
+
+AUSENTE HIPÓTESE DE LITISCONSÓRCIO PASSIVO NECESSÁRIO COM O MUNICÍPIO, HAJA VISTA QUE
+OS DANOS CAUSADOS NA EXECUÇÃO DA OBRA PODERÃO SER APURADOS DE FORMA AUTÔNOMA E ACIONADO O ENTE MUNICIPAL EM AÇÃO DE REGRESSO, SE FOR O CASO.
+
+INEXISTENTE COMPROVAÇÃO DE CULPA CONCORRENTE POR PARTE DA CONDUTORA. OBSTÁCULOS QUE SE ENCONTRAVAM NA RODOVIA, EM LOCAL DE POUCA VISIBILIDADE E NÃO SINALIZADO ADEQUADAMENTE.
+O
+CONJUNTO PROBATÓRIO ACOSTADO AOS AUTOS É SUFICIENTE PARA DEMONSTRAR FALHA/OMISSÃO ESTATAL NA PRESTAÇÃO DO SERVIÇO
+.
+DANOS MATERIAIS E MORAIS DEMONSTRADOS. ATUALIZAÇÃO DA CONDENAÇÃO
+NA FORMA DA EMENDA CONSTITUCIONAL Nº 113/2021 COM TERMO INICIAL DO EVENTO DANOSO (SÚMULA 54, STJ).
+
+RECURSO CONHECIDO E IMPROVIDO.
+SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF
+1
+. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LEI 9.099/95), CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE
+2
+0% SOBRE “O VALOR DE CONDENAÇÃO OU, NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA” (ART. 55, 2ª PARTE, DA LEI 9.099/95).
+
+É como voto.
+
+1
+ENUNCIADO 11: A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9099/95, SEM A NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA.
+
+Tema n.º 451 das Teses de Repercussão Geral: “Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
