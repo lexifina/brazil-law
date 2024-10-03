@@ -1,0 +1,14 @@
+DECISÃO
+Vistos.
+A COOPERATIVA AGROINDUSTRIAL ALFA apresenta petição (fls. 1178/1180e) requerendo a suspensão de todos os processos da Agravante que versem sobre o creditamento de ICMS sobre a energia elétrica usada no beneficiamento de grãos e tramitam no âmbito deste Egrégio Superior Tribunal de Justiça, com base na afetação da controvérsia em Incidente de Resolução de Demandas Repetitivas, Tema nº 32, no Tribunal de Justiça de Santa Catarina.
+Feito breve relato, decido.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+A suspensão perante esta Corte somente é cabível após o julgamento da Proposta de Afetação de Tese Repetitiva perante às Seções, não sendo aplicável, no âmbito desta Corte, eventual suspensão determinada em Incidente de Resolução de Demandas Repetitivas instaurado na origem, consoante art. 982 do Código de Processo Civil (AgInt no REsp 1.909.126/DF, de minha relatoria, PRIMEIRA TURMA, DJe de 22.06.2021).
+É firme o entendimento no âmbito desta Corte, no sentido de que a afetação de controvérsia pelo Tribunal de origem, ao rito do IRDR, não implica o sobrestamento dos processos em curso no STJ, mas apenas aqueles em trâmite nos Tribunais de origem (STJ, AgInt no REsp 2.019.640/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2022). (AgInt no REsp n. 2.074.937/GO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 30/10/2023, DJe de 6/11/2023.)
+Posto isso, com fundamento no art. 932 , IV, do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, JULGO IMPROCEDENTE O PEDIDO.
+Publique-se. Intime-se.
+EMENTA
