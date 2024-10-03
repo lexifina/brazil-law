@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DURLICOUROS IND E COM DE COUROS, EXP E IMPORTACAO LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+RECURSO DE APELAÇÃO CÍVEL - EMBARGOS À EXECUCÃO - PROCEDENCIA - CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA DE CONTRATAÇÃO DE ENERGIA ELÉTRICA NO "MERCADO LIVRE" - PRELIMINAR DE NÀO CONHECIMENTO DO RECURSO POR VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE - REJEIÇÃO - CONTRATO ASSINADO PELAS PARTES NA PRESENÇA DE DUAS TESTEMUNHAS - TÍTULO EXECUTIVO EXTRAJUDICIAL - ART. 784, III. DO CPC/15 - CONTRATO POR PRAZODETERMINADO - RESCISÃO ANTECIPADA DO CONTRATO - INFRAÇÃO POR DESCUMPRIMENTO DO CONTRATO - APLICAÇÃO DA MULTA - HONORÁRIOS SUCUMBENCIAIS - REDUÇÃO - IMPOSSIBILIDADE - HONORÁRIOS FIXADOS NO MÍNIMO LEGAL - SENTENÇA REFORMADA - RECURSO PROVIDO.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação e divergência jurisprudencial em relação ao art. 413 do CC, no que concerne à excessividade do valor da multa rescisória cobrada pela parte recorrida, razão pela qual o montante deve ser reduzido nos termos do dispositivo apontado, trazendo a seguinte argumentação:
+Deveras, a decisão recorrida foi de encontro à jurisprudência consagrada pelos tribunais pátrios e, inclusive, por aquela própria corte de justiça. Isso, porque a multa ora debatida é manifestamente excessiva, devendo, por força de previsão legal e conforme o entendimento jurisprudencial, ser reduzida de ofício.
+ ..
+Ora, o valor de multa rescisória cobrado pela Recorrida, que é de R$ 448.542,05 (quatrocentos e quarenta e oito mil, quinhentos e quarenta e dois reais e cinco centavos), representa 66,7% (sessenta e seis vírgula sete por cento) da quantia auferida por ela durante mais de três anos de vigência contratual, o que, por certo, não se revela razoável.
+ ..
+Porém, ainda que tal questão tenha sido trazido à baila tanto na primeira quanto na segunda instância, tal matéria sequer foi apreciada pelos Magistrados competentes, em evidente inobservância à regra processual. Ocorre que a análise da abusividade (ou não) da multa é questão que pode e deve ser conhecida de ofício, conforme entendimento pacífico deste Superior Tribunal de Justiça
+ ..
+Portanto, nota-se aqui o primeiro motivo pelo qual a decisão recorrida deve ser reformada, qual seja, a evidente contrariedade a lei federal.
+Entretanto, há, também, divergência à jurisprudência do próprio Tribunal de Justiça mato-grossense, que em casos similares, determinou a redução da penalidade contratual.
+ ..
+Assim, resta demonstrar o entendimento adotado pelo mesmo Tribunal em situações análogos, devidamente reveladas a seguir, em que efetivamente procedeu à redução da multa contratual em observância ao que determina o Código Civil
+ ..
+Diante de tal contexto, de modo algum poderia o TJMT manter a multa contratual em seu valor literalmente previsto, uma vez que mais de 3/5 da vigência contratual foram devidamente observados pela Recorrente, sendo abusiva a cobrança da penalidade em sua íntegra, como possibilitou o Tribunal recorrido.
+Sendo assim, posto que a decisão objurgada contrariou lei federal e, no mais, feriu o maciço entendimento jurisprudencial, inclusive, do Tribunal a quo, é que se requer que seja dado provimento ao presente recurso, ao efeito de, reformando a decisão recorrida, ser reduzida a multa contratual cobrada pela Recorrida (fls. 510/521).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 211/STJ, porquanto a questão não foi examinada pela Corte de origem, a despeito da oposição de Embargos de Declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, Rel. Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19.10.2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, Rel. Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29.8.2005; AgInt no AREsp n. 1.264.021/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º.3.2019; AgInt no AREsp n. 953.171/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 23.8.2022; AgInt no AREsp n. 1.506.939/MS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26.8.2022; AgRg no AREsp 1.647.409/SC, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º.7.2020; AgRg no REsp n. 1.850.296/PR, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 18.12.2020; AgRg no REsp n. 2.004.417/MT, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16.8.2022.
+Ademais, pela alínea "c" do permissivo constitucional, incide a Súmula n. 13/STJ, tendo em vista que "a divergência entre julgados do mesmo tribunal não enseja recurso especial".
+Nesse sentido: "Acórdãos paradigmas provenientes do mesmo Tribunal prolator da decisão recorrida não se prestam a demonstrar a divergência ensejadora do recurso especial, nos termos do enunciado n. 13 da Súmula do STJ". (AgInt no REsp 1.854.024/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 12.6.2020.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.635.570/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 24.4.2020; AgInt nos EDcl no REsp 1.790.947/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 19.11.2019; AgInt no AgInt no AREsp 1.161.709/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 23.5.2018; e EREsp 147.339/SP, Rel. Ministro Fernando Gonçalves, Corte Especial, DJ de 29.8.2005.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
