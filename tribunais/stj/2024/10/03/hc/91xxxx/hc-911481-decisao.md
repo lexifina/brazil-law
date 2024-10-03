@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela DEFENSORIA PÚBLICA DE SÃO PAULO em favor de LUAN OLIVEIRA DE SOUZA contra acórdão da 4ª Câmara Criminal do Tribunal de Justiça daquele estado, no Recurso em Sentido Estrito n. 0006975-77.2023.8.26.0278, assim ementado:
+RECURSO EM SENTIDO ESTRITO  Concessão de liberdade provisória  Recurso do Ministério Público  Presença Presença dos requisitos do artigo 312, do Código de Processo Penal  Materialidade demonstrada  Indícios suficientes de autoria  Necessidade da custódia cautelar para garantia da ordem pública  Impossibilidade de aplicação de quaisquer das medidas cautelares previstas no artigo 319, do Código de Processo Penal  Recurso provido. (e-STJ, fl. 273)
+Em seu arrazoado, a Defensoria alega que a revogação da prisão preventiva do paciente foi a solução mais acertada, diante do evidente excesso de prazo, uma vez que, com remessa dos autos a uma das Varas Criminais de Itaquecetuba-SP pelo Juízo da 2ª Vara de São Vicente-SP em razão do reconhecimento da incompetência territorial, toda a instrução terá de ser refeita. Ressalta, por oportuno, que a nulidade processual aqui sustentada poderá ser reconhecida em momento próprio.
+Requer, liminarmente e no mérito, seja reconhecido o direito do paciente de aguardar em liberdade o trâmite que envolve a persecução penal em apreço.
+O pedido liminar foi indeferido (e-STJ, fl. 291).
+Informações prestadas (e-STJ, fls. 305-330 e 341-405).
+O Ministério Público opinou pela denegação da ordem (e-STJ, fls. 407-411).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Em que pese todo o exposto na impetração, observa-se que a pretensão da defesa cinge-se à concessão de liberdade provisória do paciente, por excesso de prazo.
+Conforme registrado no acórdão impugnado:
+O d. Magistrado recebeu o aditamento da denúncia e determinou a renovação da citação do réu, bem como a intimação para apresentação de nova defesa escrita em relação ao aditamento. Na oportunidade, convalidou os atos decisórios e a instrução processual levadas a cabo na Comarca de São Vicente, à exceção do interrogatório do réu e, também, concedeu a liberdade provisória ao acusado, em razão de excesso de prazo. (e-STJ, fl. 275)
+Em que pese a conclusão do magistrado singular, o Tribunal de Justiça deu provimento ao recurso ministerial para decretar nova prisão preventiva do paciente, considerando que as condutas a ele imputadas são gravíssimas e hediondas. Além disso, a Corte estadual esclareceu que não haveria necessidade de proceder à nova instrução, uma vez que o juiz determinou tão somente novo interrogatório do recorrido, em audiência designada para o dia 25/9/2024.
+Em consulta à página oficial do Tribunal de Justiça de São Paulo, na internet, observa-se que na referida audiência a pretensão punitiva estatal foi julgada procedente em parte para condenar o paciente como incurso nas sanções do art. 157, § 2º, incisos II e V, e § 2º-A, inciso I, do Código Penal, às penas de 09 anos e 2 meses de reclusão, além de 21 dias multa. E t endo em vista que respondeu foragido da justiça, o Juízo da 2ª Vara Criminal de Itaquecetuba-SP indeferiu o recurso em liberdade.
+Dentro desse contexto, verifica-se que a presente impetração perdeu o seu objeto. Além de o encerramento da instrução e a condição de foragido do acusado afastarem a alegação de excesso de prazo, há novo título a respaldar a custódia cautelar, cuja fundamentação se ampara justamente nesse condição de foragido da justiça, fundamentação suficiente para respaldar a prisão para assegurar a aplicação da lei penal.
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
