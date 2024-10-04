@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MINISTERIO PÚBLICO DO ESTADO DE MATO GROSSO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+APELAÇÃO CÍVEL - AÇÀO CIVIL PÚBLICA - DESMATAMENTO - ÁREA DE PRESERVAÇÃO PERMANENTE E FLORESTA NATIVA - DANO AO MEIO AMBIENTE CONFIGURADO - FISCALIZAÇÃO PELO IBAMA - AUTO DE INFRAÇÃO - PRESUNÇÃO DE LEGITIMIDADE E VERACIDADE - OBRIGAÇÃO PROPTER REM - RESPONSABILIDADE OBJETIVA - DEVER DE RECUPERAÇÃO DA ÁREA DEGRADADA - DANO MORAL COLETIVO - NÀO CONFIGURADO - AUSÊNCIA DE COMPROVAÇÃO DE QUE O FATO TRANSGRESSOR SEJA DE RAZOÁVEL SIGNIFICÂNCIA E GRAVIDADE PARA A COLETIVIDADE - RECURSO PARCIALMENTE PROVIDO. RECURSO PARCIALMENTE PROVIDO (fl. 284).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 4º, VII e 14, § 1º, da Lei n. 6.938/81, no que concerne à possibilidade de condenação por dano moral coletivo, por ser aferível de forma presumida, sob o fundamento de que "o dano moral coletivo decorre diretamente da ofensa ao direito ao meio ambiente ecologicamente equilibrado e da simples violação do bem jurídico tutelado, dispensando a demonstração de prejuízos concretos e aspectos de ordem subjetiva"(fl. 320). Aduz a seguinte argumentação:
+A matéria controvertida neste recurso se refere exclusivamente à possibilidade de condenação por dano moral coletivo ambiental em razão da sua aferição presumida.
+Inicialmente, o recorrido foi condenado a pagar R$ 60.000,00 (sessenta mil reais) pelo dano moral ambiental, decorrente do desmatamento de 131 hectares de floresta nativa, objeto de especial preservação, sem licença ou autorização do órgão ambiental competente.
+ ..
+Opondo-se à conclusão adotada no acórdão, tem-se que o dano moral coletivo decorre diretamente da ofensa ao direito ao meio ambiente ecologicamente equilibrado e da simples violação do bem jurídico tutelado, dispensando a demonstração de prejuízos concretos e aspectos de ordem subjetiva.
+Com efeito, o meio ambiente constitui direito fundamental coletivo qualificado como de Terceira Dimensão e de natureza transindividual por excelência, cujo exercício está condicionado à existência de um grupo determinado ou não de pessoas, sendo que sua concretização beneficia a todos e sua violação igualmente afeta a totalidade do tecido social.
+ ..
+Logo, ocorrendo o dano que, na controvérsia, foi proveniente do desmatamento de 131 hectares de floresta nativa, objeto de especial preservação, ressai, automaticamente, o dever de repará-lo integralmente, incluindo-se nesse conceito a condenação por danos morais e coletivos, conforme jurisprudência ainda mais atual dessa eg. Corte Superior, in verbis:
+ ..
+Com efeito, a exclusão da condenação ao pagamento de indenização por dano moral difuso equivale a esvaziar sua função pedagógica de dissuadir aqueles que praticam danos ambientais insuscetíveis de recomposição in natura e prevenir para que outros não se sintam encorajados a praticar o ilícito.
+Assim, para além da recuperação do prejuízo ambiental provocado - no caso, desmatamento de 131ha de floresta nativa de especial preservação -, impõe-se avaliar a repercussão do prejuízo em sentido amplo e abrangente do dano moral coletivo como consequência inerente à sua aferição presumida e à função punitiva pedagógica da sanção.
+Ante o exposto, requer a admissão e provimento do presente especial para, no ponto impugnado, reformar o v. acórdão por ofensa aos artigos 4º, inciso VII, e 14, §1º, da Lei nº 6.938/81, restabelecendo-se a decisão que condenou o recorrido ao pagamento de indenização por dano moral coletivo (fls. 319- 324).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
