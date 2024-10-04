@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA ROSANA DA SILVA e OUTROS contra decisão que não admitiu seu recurso especial, o qual fora interposto, com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Alagoas que, em ação de indenização por danos morais, ficou assim ementado:
+AGRAVO DE INSTRUMENTO. PERDA SUPERVENIENTE DO OBJETO EM RELAÇÃO A ALGUNS RECORRENTES. EXTINÇÃO DO FEITO PELO JUÍZO DE PRIMEIRO GRAU. ILEGITIMIDADE ATIVA. NÃO FAZ PARTE DO NÚCLEO FAMILIAR BENEFICIADO NO PROGRAMA DE COMPENSAÇÃO FINANCEIRA. REJEITADA. MATÉRIA PERTINENTE AO MÉRITO DA DEMANDA. AVENÇA FIRMADA POR ALGUNS RECORRENTES PERANTE À JUSTIÇA FEDERAL. EFEITO TRANSLATIVO. EXTINÇÃO DO FEITO EM RELAÇÃO AOS MESMOS. SOBRESTAMENTO DO PROCESSO ORIGINÁRIO. NECESSIDADE. ACORDO FIRMADO EM AÇÃO CIVIL PÚBLICA QUE ESTABELECE CRONOGRAMA PRIMANDO PELA PRIORIZAÇÃO DE MORADORES EM SITUAÇÃO DE MAIOR RISCO. NECESSIDADE DE OBSERVAÇÃO DO CALENDÁRIO. AGRAVANTES QUE JÁ SE ENCONTRAM NO PROGRAMA DE COMPENSAÇÃO FINANCEIRA. SUSPENSÃO DA AÇÃO INDIVIDUAL EM RAZÃO DA AÇÃO COLETIVA ATINENTE À MACRO-LIDE GERADORA DE PROCESSOS MULTITUDINÁRIOS. TEMA 675 DO STF. ENTENDIMENTO DA SEÇÃO ESPECIALIZADA CÍVEL DO TRIBUNAL DE JUSTIÇA DE ALAGOAS. PROSSEGUIMENTO DO FEITO COM RELAÇÃO AOS RECORRENTES QUE NÃO SE ENCONTRAM ALBERGADOS PELO ACORDO DA JUSTIÇA FEDERAL. RECURSO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, PROVIDO.
+Nas razões do recurso especial de fls. 158/166, alegam os agravantes que o acórdão recorrido violou os arts. 81 e 104 do Código de Defesa do Consumidor e o art. 337, §§ 1º a 3º, do Código de Processo Civil.
+Sustentam não ser possível o sobrestamento da demanda em razão da existência de ação civil pública.
+Defendem a não ocorrência de litispendência entre ações coletivas e individuais.
+Apontam, ainda, que o sobrestamento da ação individual em razão de ajuizamento de ação coletiva somente deve ocorrer a critério exclusivo do autor da ação individual.
+Contrarrazões às fls. 191/199.
+Assim delimitada a controvérsia, passo a decidir.
+De plano, ressalto que a preclusão consumativa impede o exame do recurso especial de fls. 167/186.
+Como consolidado na jurisprudência deste Superior Tribunal de Justiça, a interposição de dois recursos pela mesma parte contra o mesmo ato judicial inviabiliza a análise do que tenha sido interposto por último, por força do princípio da unirrecorribilidade e da preclusão consumativa. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. INTERPOSIÇÃO DE DOIS AGRAVOS INTERNOS PELA MESMA PARTE CONTRA A MESMA DECISÃO. PRECLUSÃO CONSUMATIVA. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão monocrática, publicada na vigência do CPC/2015, que denegou a segurança postulada pelo impetrante, ora agravante.
+II. É assente na jurisprudência do STJ o entendimento de que a interposição de dois ou mais recursos pela mesma parte e contra a mesma decisão impede o conhecimento daqueles que foram apresentados após o primeiro apelo, haja vista a preclusão consumativa e o princípio da unirrecorribilidade recursal.
+III. Isso porque, "no sistema recursal brasileiro, vigora o cânone da unicidade ou unirrecorribilidade recursal, segundo o qual, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último. Precedentes" (STJ, AgInt nos EAg 1.213.737/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 26/08/2016).
+IV. Agravo interno não conhecido.
+(AgInt no MS n. 23.474/DF, relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 2/9/2024, DJe de 5/9/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS. APLICAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DA ANÁLISE DO ÚLTIMO RECURSO. AGRAVO INTERNO DESPROVIDO.
+1. A interposição de dois recursos pela mesma parte contra o mesmo ato judicial inviabiliza a análise do protocolizado por último, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+2. Agravo interno desprovido.
+(AgInt nos EAREsp n. 1.873.994/RS, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 20/8/2024, DJe de 23/8/2024.)
+No mais, registro que, neste caso, o Tribunal de Alagoas (i) julgou prejudicado o agravo de instrumento com relação aos agravantes Maria Rosana da Silva, Maria Rosileide Ferreira de Lima, Maria Rozinete da Conceição Santos, Maria Salete dos Santos, Mariana Cristina d a Conceição Santos Ramos, Marileide Alves Gomes, Marinaldo da Silva e Marinalva de Lima Costa, em razão de decisão interlocutória do processo originário que julgou a ação extinta, sem resolução de mérito, em face desses; e (ii) na parte conhecida, deu provimento ao recurso, com relação à Marigleide dos Santos, para determinar o prosseguimento da ação originária.
+O recurso dirigido a esta Corte, contudo, requer "seja dado prosseguimento do feito visto que o sobrestamento do processo não pode permanecer prejudicando os Recorrentes e que a própria União já afirmou seu desinteresse nos feitos individuais".
+Constatando-se que as razões do recurso especial de fls. 158/166 estão desassociadas dos fundamentos do acórdão recorrido, tem incidência o óbice da Súmula 284/STF, por analogia.
+Em face do exposto, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
