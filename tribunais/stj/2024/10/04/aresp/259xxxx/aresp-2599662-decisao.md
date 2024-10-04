@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo de LUIS FERNANDO PEREIRA SILVA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal - CF, contra acórdão proferido no julgamento da Apelação Criminal n. 1501924-37.2018.8.26.0132.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 155, caput, do Código Penal - CP (furto), às penas de 1 ano, 4 meses e 10 dias de reclusão, em regime inicial semiaberto, e 12 dias-multa, à razão mínima (fl. 342).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 416). O acórdão ficou assim ementado:
+"FURTO - Condenação mantida - Autoria e materialidade devidamente comprovadas. Penas criteriosamente fixadas. Recurso não provido" (fl. 409).
+Em recurso especial (fls. 422/427), a defesa apontou interpretação divergente entre o TJSP e Tribunal de Justiça de Rio Grande do Sul - TJRS sobre o art. 33, §§ 2º e 3º, do CP no que se refere à possibilidade de imposição de regime aberto ao condenado reincidente.
+Afirmou que o acórdão recorrido teria entendido que "ante as circunstâncias judiciais desfavoráveis e reincidência do réu, correta a fixação de regime inicial semiaberto, em observância ao princípio da individualização das penas". Já o acórdão paradigma teria entendido que " m elhor sorte teria o recorrente no que tange ao regime inicial de cumprimento da pena, por aplicação do disposto no artigo 33, parágrafo 2º, alínea "c", do Código Penal. No entanto, na mesma linha sustentada pelo Ilustre Magistrado de primeiro grau, a Câmara entendeu que não se justifica fixar o regime inicial semi-aberto para o cumprimento de uma pena de seis meses, o que recomenda seja feita exceção ao caso concreto. E, com efeito, a quantidade de pena resultante não justifica o regime mais gravoso. Em hipóteses assemelhadas, o Superior Tribunal de Justiça também considerou adequado excepcionar a norma" (Apelação - TJRS n. 70013457031). Sustentou que o acórdão paradigma teria compreendido que, a despeito da reincidência, o regime aberto é admitido excepcionalmente, sobretudo se a quantidade da pena imposta é reduzida.
+Requereu a prevalência do entendimento adotado pelo acórdão paradigma, fixando-se o regime inicial aberto ao recorrente reincidente.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 437/440).
+O recurso especial foi inadmitido no TJ pela ausência de comprovação da divergência jurisprudencial, mediante o devido cotejo analítico (fls. 443/444).
+Em agravo em recurso especial, a defesa impugnou o referido fundamento (fls. 447/452)
+Contraminuta do Ministério Público (fls. 455/459).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do agravo em recurso especial (fls. 474/476).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+O recurso especial não supera o juízo de admissibilidade.
+Verifica-se ser inviável o conhecimento do recurso especial com fundamento na alínea "c" do permissivo constitucional, uma vez que o recorrente não procedeu ao necessário confronto analítico entre os julgados, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil - CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, limitando-se a transcrever trechos do acórdão, contrariamente à determinação contida no § 2º do art. 255 do RISTJ.
+Destarte, o recurso especial não deve ser conhecido, pois não foi feito o cotejo analítico entre os julgados, com a devida demonstração da similitude fática entre eles e da aplicação de distinta solução jurídica. Não se considera comprovado o dissídio jurisprudencial com mera transcrição de ementa ou trecho esparso do acórdão paradigma, que não permite a constatação da alegada semelhança entre os julgados.
+Nesse sentido, citam-se precedentes:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CONDENAÇÃO PELO TRIBUNAL A QUO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. PELITO DE ABSOLVIÇÃO. SÚMULA 7/STJ. TRÁFICO PRIVILEGIADO INCOMPATÍVEL COM A CONDENAÇÃO POR ASSOCIAÇÃO AO TRÁFICO. SÚMULA 83/STJ. AUSÊNCIA DO NECESSÁRIO COTEJO ANALÍTICO ENTRE OS ACÓRDÃOS APONTADOS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+10. Por fim, não obstante a interposição do recurso especial fundado em dissídio jurisprudencial, o recorrente não realizou o cotejo analítico entre os acórdãos confrontados, limitando-se a transcrever trecho do acórdão recorrido e a ementa do acórdão tido como paradigma. Como é cediço na jurisprudência desta Corte Superior, não se pode conhecer de recurso especial fundado na alínea "c" do permissivo constitucional quando a parte recorrente não realiza o necessário cotejo analítico entre os acórdãos confrontados, a fim de evidenciar a similitude fática e a adoção de teses divergentes, sendo insuficiente a mera transcrição de ementa. Requisitos previstos no art. 255, §1º, do Regimento Interno do Superior Tribunal de Justiça e do art. 1.029, § 1º, do CPC. Divergência jurisprudencial não demonstrada.
+11. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.458.142/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 383 DO CPP. MUTATIO LIBELLI. NÃO OCORRÊNCIA. CASO DE EMENDATIO LIBELLI. DENÚNCIA QUE DESCREVE MOLDURA FÁTICA COMPATÍVEL COM O DELITO DO ART. 313-A DO CP. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. Conforme disposição dos arts. 1.029, § 1º, do CPC, e 255, § 1º, do RISTJ, quando o recurso interposto estiver fundado em dissídio pretoriano, deve a parte colacionar aos autos cópia dos acórdãos em que se fundamenta a divergência, bem como realizar o devido cotejo analítico, demonstrando de forma clara e objetiva suposta incompatibilidade de entendimentos e similitude fática entre as demandas, o que não ocorreu na hipótese.
+6. No caso dos autos, a parte limitou-se a indicar julgado desta Corte Superior relacionado a outra ação penal decorrente da mesma operação deflagrada para investigar fraudes na concessão de benefícios previdenciários sem, no entanto, realizar o devido cotejo analítico para demonstrar a similitude fática entre os julgados e a adoção de teses divergentes.
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 1.441.689/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022.)
+Ante o exposto, com fundamento no art. 932, III, do Código de Processo Civil, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
