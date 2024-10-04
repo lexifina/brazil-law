@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ADILSON FRANCO DE LIMA MADEIRAS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos que o paciente teve um veículo apreendido nos autos de inquérito policial a que responde (caminhão VW 24.280, placas UMU-4A42/SP). Manejado o pedido de restituição do bem, este foi indeferido pelo Juiz de primeiro grau, com a nomeação de Adilson Franco de Lima como fiel depositário.
+Interposta apelação pelo Ministério Público, o recurso foi provido, nos termos da seguinte ementa (fl. 27):
+Apelação criminal. Tráfico de drogas (artigo 33, "caput", da Lei Federal n. 11.343, de 23.08.2006). Decisão com determinação de nomeação como fiel depositário de veículo usado para o transporte da droga apreendida. Insurgência ministerial. Pretensão de reforma da decisão em relação à nomeação para fiel depositário. Acolhimento. Veículo apreendido em inquérito policial que apura a prática do crime de tráfico de drogas, mediante a utilização do bem. Transporte de vultuosa quantidade de drogas. Inviabilidade da restituição e da nomeação como depositário fiel. Inteligência do artigo 118 do Código de Processo Penal. Possibilidade de confisco, conforme prevê o artigo 243, parágrafo único, do Código de Processo Penal. Destinação do veículo a ser decidida por ocasião da sentença. Disposição expressa no artigo 63 da Lei n. 11.343/2006. Recurso conhecido e provido.
+A defesa sustenta a ocorrência de constrangimento ilegal na constrição do veículo, pois o inquérito foi concluído há quase 3 (três) meses, e os embargos de declaração opostos contra a decisão ainda não foram julgados.
+Alega que o veículo encontra-se apreendido há mais de 200 dias e a perícia não menciona nenhum fato de interesse da investigação em apreço.
+Requer, liminarmente, seja o paciente nomeado como depositário fiel do bem. No mérito, pleiteia que seja determinada a restituição do veículo apreendido, com a confirmação da nomeação do paciente como depositário.
+É o relatório.
+Como cediço, a previsão constitucional do habeas corpus se dá nas hipóteses em que "alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder", nos termos do art. 5º, LXVIII, da Constituição Federal.
+Assim, é nítido o descabimento da impetração de habeas corpus em casos como o dos autos, pois o pleito versa diretamente sobre a restituição de bens em si, sendo o objeto da defesa a própria restituição, hipótese essa não albergada pelo writ.
+Nesse sentido, confiram-se (grifo acrescido):
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO DE RESTITUIÇÃO DE BENS APREENDIDOS EM BUSCA E APREENSÃO. PROTEÇÃO PATRIMONICAL DA AGRAVANTE/PACIENTE. AUSÊNCIA DE AMEAÇA À LIBERDADE DE LOCOMOÇÃO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO REMÉDIO CONSTITUCIONAL DO HABEAS CORPUS. ALEGADO EXCESSO DE PRAZO NA TRAMITAÇÃO DO INQUÉRITO POLICIAL E QUEBRA DA CADEIA DE CUSTÓDIA. MATÉRIAS NÃO DEBATIDAS NA CORTE DE ORIGEM. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O Código de Processo Penal dispõe no art. 647, que: "dar se-á habeas corpus sempre que alguém sofrer ou se achar na iminência de sofrer violência ou coação ilegal na sua liberdade de ir e vir, salvo nos casos de punição disciplinar". Sendo assim, o habeas corpus é o remédio constitucional voltado ao combate de constrangimento ilegal específico, de ato ou decisão que afete, potencial ou efetivamente, direito líquido e certo do cidadão, com reflexo direto em sua liberdade de locomoção.
+2. Inexistindo constrangimento direto e concreto ao direito de ir e vir do paciente, incabível a utilização do habeas corpus para finalidades outras que não seja a restrição ou ameaça ilegal ao direito de locomoção. No caso, a defesa se insurge em desfavor da constrição de bens. (AgRg no HC n. 804.435/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+3. Ademais, a Corte de origem não tratou do alegado excesso de prazo na tramitação do inquérito policial e da quebra de custódia da prova, o que impede este Superior Tribunal de Justiça de examinar o tema, sob pena de indevida supressão de instância.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 936.115/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO QUE VERSA SOBRE RESTITUIÇÃO DE BENS, AINDA QUE INDIRETAMENTE. IMPOSSIBILIDADE DE MANEJO DO WRIT. AGRAVO DESPROVIDO.
+1. Esta Corte tem entendimento firmado no sentido de que, "quanto ao pedido de restituição de bens apreendidos, o exame da questão refoge do alcance do habeas corpus, cujo escopo é a proteção do direito de locomoção diante de ameaça ou lesão decorrente de ato ilegal ou praticado com abuso de poder, sendo incabível sua impetração visando direito de natureza diversa da liberdade ambulatorial".
+2. Agravo regimental desprovido.
+(AgRg no HC n. 910.975/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
