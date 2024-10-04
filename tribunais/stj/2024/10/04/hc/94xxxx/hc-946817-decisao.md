@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu o pedido liminar em habeas corpus apresentado na origem.
+Imputa-se ao paciente a prática do crime de lavagem de dinheiro (art. 1º da Lei 9.613/98).
+A defesa alega, em síntese: a) que o paciente teve sua prisão preventiva decretada de maneira genérica e sem audiência de custódia; b) que a prisão se deu em virtude da não localização do paciente para ser intimado, sendo que a defesa já havia atualizado seu endereço; c) a ausência dos pressupostos para a manutenção da prisão preventiva, e a possibilidade de aplicação de medidas cautelares diversas da prisão; d) que o paciente é primário, de bons antecedentes e residência fixa; e) que se enquadraria em situação idêntica a da corré, razão pela qual deveria ser estendida ao paciente a liberdade provisória.
+Ao final, requer a concessão da ordem para trancar a ação penal, ou que seja revogada a prisão preventiva, ainda que mediante imposição de medidas cautelares alternativas.
+É o relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, de forma suficiente a superar o óbice do referido enunciado sumular.
+No que tange à prisão preventiva, assim entendeu o Tribunal de origem (e-STJ fls. 23-26):
+ ..  entendo pertinente transcrever trecho da decisão que decretou a prisão preventiva do paciente, ocasião em que foi destacado que, além da gravidade concreta da conduta, evidenciando a necessidade de garantia da ordem pública, também foi destacada a necessidade de se assegurar a aplicação da lei penal, tendo em vista que o paciente não foi localizado para ser citado.
+ ..
+Ainda quanto à gravidade concreta da conduta, é pertinente consignar que o paciente teria recebido transferências via pix das vítimas, que foram abordadas dentro de um estacionamento de um shopping, e mantidas reféns durante o trajeto até local ermo, sob constantes ameaças com simulacro de arma de fogo, sendo relevante anotar que, das cinco vítimas, duas eram crianças e uma era idosa. Veja-se, no ponto, trecho da denúncia:
+ ..
+É de se destacar que o paciente também figura como réu em ação penal semelhante à presente (a respeito da qual se discute eventual conexão), em que foi empregado modus operandi análogo, em que o paciente recebeu transferências via pix de valores de vítimas de crimes de roubo e de extorsão, evidenciando, ainda, o risco de reiteração delitiva.
+Ademais, o paciente também não foi encontrado para fins de citação, de modo que a prisão preventiva também se dá como garantia da aplicação da lei penal.
+Justamente em decorrência do acima exposto, não se pode acolher a alegação de que o paciente ostenta condições pessoais favoráveis e, por isso, deveria responder ao processo em liberdade, uma vez que foi demonstrado nos autos a gravidade concreta da conduta, o risco de reiteração delitiva e o risco à instrução processual, atestando a necessidade de se resguardar a ordem pública e a aplicação da lei penal.
+Como se vê do trecho destacado, o Desembargador relator indeferiu a liminar à conclusão de que a manutenção da custódia cautelar do paciente está justificada no modus operandi do delito, que no contexto geral da ação envolveu restrição de liberdade e ameaça às vítimas, além do histórico criminal do paciente em crimes da mesma natureza, o que denotaria risco concreto de reiteração delitiva.
+Não se constata, então, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
