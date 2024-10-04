@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Daniela Teixeira, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. REITERAÇÃO DO MÉRITO. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182, STJ. PRECEDENTES.
+I - Conforme dispõe o art. 258 c/c o art. 21-E, § 2º, do RISTJ, o agravo regimental se destina a desafiar decisões monocráticas proferidas em matéria penal, motivo pelo qual caberia à parte recorrente impugnar os fundamentos que levaram ao desprovimento do recurso especial.
+II - Depreende-se das razões recursais que o agravante se limitou a reiterar as alegações de mérito deduzidas no recurso anterior, acerca do mérito da causa, sem apresentar argumentos suficientes para infirmar a decisão recorrida.
+III - Verificada ofensa ao princípio da dialeticidade, por repetição de argumentação anterior, aplico a Súmula n. 182, STJ. Precedentes.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MESSIAS AMARANTE DE ANDRADE contra decisão que conheceu do recurso especial para negar-lhe provimento.
+O agravante foi condenado pelo artigo 334, caput, do CP, à pena de 01(um) ano de reclusão, em regime aberto.
+A Defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, sustentando contrariedade ao artigo 65 do Código Penal (fls. 834-851).
+Em decisão monocrática, o recurso especial foi conhecido e desprovido, pela incidência da Súmula n. 231, STJ (fls. 889-891).
+Nas razões deste agravo regimental, o recorrente reitera as alegações do recurso anterior (fls. 896-900).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. REITERAÇÃO DO MÉRITO. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182, STJ. PRECEDENTES.
+I - Conforme dispõe o art. 258 c/c o art. 21-E, § 2º, do RISTJ, o agravo regimental se destina a desafiar decisões monocráticas proferidas em matéria penal, motivo pelo qual caberia à parte recorrente impugnar os fundamentos que levaram ao desprovimento do recurso especial.
+II - Depreende-se das razões recursais que o agravante se limitou a reiterar as alegações de mérito deduzidas no recurso anterior, acerca do mérito da causa, sem apresentar argumentos suficientes para infirmar a decisão recorrida.
+III - Verificada ofensa ao princípio da dialeticidade, por repetição de argumentação anterior, aplico a Súmula n. 182, STJ. Precedentes.
+Agravo regimental não conhecido.
+VOTO
+Conforme dispõe o art. 258 c/c o art. 21-E, § 2º, do RISTJ, o agravo regimental se destina a desafiar decisões monocráticas proferidas em matéria penal, motivo pelo qual caberia à parte recorrente impugnar os fundamentos que levaram ao não provimento do recurso especial.
+Entretanto, verifico das razões que o agravante se limitou a reiterar as alegações deduzidas no recurso anterior sem apresentar argumentos suficientes para infirmar a decisão recorrida.
+A argumentação reitera o mérito recursal, sobre a superação da Súmula n. 231, STJ, com o alegado overruling do entendimento. A questão foi devidamente enfrentada pela decisão monocrática, limitando-se a parte a trazer os mesmos argumentos já rebatidos anteriormente.
+Ademais, acrescento que a Terceira Sessão, na data de 14/08/2024, conforme fls. 1254 do RESP n. 1.869.764/MS, rejeitou a proposta de cancelamento da Súmula n. 231, do STJ, mantendo entendimento consolidado até o presente momento. A propósito:
+"DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. PROPOSTA DE REVISÃO DO ENUNCIADO DA SÚMULA 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA. CIRCUNSTÂNCIA ATENUANTE E IMPOSSIBILIDADE DE REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. PRECEDENTE VINCULANTE EM REPERCUSSÃO GERAL. TEMA 158. ESTABILIDADE, INTEGRIDADE E COERÊNCIA DO SISTEMA DE UNIFORMIZAÇÃO DE PRECEDENTES. POSSIBILIDADE DE SUPERAÇÃO RESTRITA AO SUPREMO TRIBUNAL FEDERAL. PRINCÍPIOS DA RESERVA LEGAL, DA INDIVIDUALIZAÇÃO DA PENA E DA PROPORCIONALIDADE. INDISPONIBILIDADE JUDICIAL DOS LIMITES MÍNIMO E MÁXIMO DA PENA. VALIDADE DA SÚMULA 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA ANTE A METODOLOGIA DE INDIVIDUALIZAÇÃO DA PENA INSTITUÍDA PELO CÓDIGO PENAL. INSTITUTOS DA JUSTIÇA PENAL NEGOCIADA. REQUISITOS ESPECÍFICOS. RECURSOS ESPECIAIS DESPROVIDOS.
+I - Os Recursos Especiais n.º 1.869.764-MS, n.º 2.052.085-TO e n.º 2.057.181-SE foram afetados à Terceira Seção do Superior Tribunal de Justiça para reavaliação do enunciado da Súmula n.º 231 do STJ, que estabelece a impossibilidade de que a incidência de circunstância atenuante reduza a pena abaixo do mínimo legal. O relator propôs a superação do entendimento consolidado (overruling), com modulação de efeitos para evitar a modificação de decisões já transitadas em julgado.
+II - Existem duas questões em discussão: (i) ante a existência do tema 158 da repercussão geral, avaliar se é possível a superação do entendimento enunciado pela Súmula n.º 231, STJ, pela Terceira Seção do Superior Tribunal de Justiça; e (ii) examinar a (im)possibilidade de incidência de atenuante induzir pena abaixo do mínimo legal.
+III - O precedente firmado pelo Supremo Tribunal Federal no Tema 158 da repercussão geral (RE n.º 597.270) estabelece, com eficácia vinculante, que a incidência de circunstância atenuante genérica não pode reduzir a pena abaixo do mínimo legal, em respeito aos princípios constitucionais da reserva legal, da proporcionalidade e da individualização da pena.
+IV - A função de uniformização jurisprudencial atribuída ao Superior Tribunal de Justiça não autoriza a revisão de tese fixada em repercussão geral pelo Supremo Tribunal Federal, dado o caráter vinculante desses precedentes, em atenção à estabilidade, à integridade e à coerência do sistema de uniformização de precedentes.
+V - Não se extrai da atuação do Supremo Tribunal Federal nenhum indicativo de que a Corte esteja inclinada a rever o Tema 158, o que impossibilita a aplicação do instituto do anticipatory overruling pela Terceira Seção do Superior Tribunal de Justiça.
+VI - No plano judicial, a discricionariedade do magistrado deve respeitar os limites mínimos e máximos estabelecidos em lei, em conformidade com o princípio da reserva legal, que veda a modificação dos parâmetros previstos pelo legislador.
+VII - O método trifásico de dosimetria da pena adotado pelo Código Penal (art. 68, CP) limita a discricionariedade judicial na segunda fase e impõe o respeito ao mínimo e máximo legal, de modo que as circunstâncias atenuantes não podem resultar em penas abaixo do mínimo abstratamente cominado pelo tipo penal.
+VIII - A fixação de penas fora dos limites legais implicaria violação ao princípio da legalidade e usurpação da competência legislativa, o que comprometeria a separação de poderes e criaria um sistema de penas indeterminadas, incompatível com a segurança jurídica.
+IX - O surgimento de institutos de justiça penal negociada, como a colaboração premiada e o acordo de não persecução penal, não justifica a revisão do entendimento da Súmula n.º 231, STJ, pois esses instrumentos possuem requisitos próprios e são aplicados em contextos específicos que não alteram a regra geral estabelecida para a dosimetria da pena.
+Recursos especiais desprovidos.
+Teses de julgamento: 1. A incidência de circunstância atenuante não pode reduzir a pena abaixo do mínimo legal, conforme o entendimento vinculante do Supremo Tribunal Federal no Tema 158 da repercussão geral. 2. O Superior Tribunal de Justiça não possui competência para revisar precedentes vinculantes fixados pelo Supremo Tribunal Federal. 3. A circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal" (REsp n. 1.869.764/MS, Rel. Min. Rogerio Schietti Cruz, Rel. para acórdão Min. Messod Azulay Neto, Terceira Seção, DJe de 18/9/2024).
+Por fim, registro que a mera repetição da argumentação já analisada em decisão monocrática importa em violação do princípio da dialeticidade e na incidência do óbice da Súmula n. 182, STJ, conforme precedentes desta Corte:
+" ..  2. "No agravo interno são insuficientes ao cumprimento do dever de dialeticidade recursal a mera repetição de argumentos apresentados em recursos anteriores, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada." (AgInt no RMS 67.300/BA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 24.3.2022) 3. Agravo Interno não conhecido" (AgInt no RMS n. 70.986/MG, Segunda Turma, Rel. Min. Herman Benjamin, DJe de 30/6/2023).
+Ante o exposto, não conheço o agravo regimental.
+É como voto.
