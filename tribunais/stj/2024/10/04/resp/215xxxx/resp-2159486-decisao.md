@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial interposto por RONALDO SEBASTIÃO FERREIRA, com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, em que o patrono informa o falecimento da parte autora da ação, juntando a certidão de óbito à fl. 403.
+Compulsados os autos, verifica-se que a presente demanda versa sobre a tutela de urgência, para determinar que o requerido conceda tratamento home care e equipe multiprofissional.
+Nas instâncias ordinárias, foi julgado parcialmente procedente o pedido autoral para condenar o plano de saúde/réu na obrigação de fazer consistente em fornecer ao autor tratamento médico requerido com co-participação do autor.
+Inconformado, o requerente interpôs recurso especial, admitido na origem (fls. 361-373).
+Nesse contexto, observa-se que: " o  pleito relativo ao fornecimento do tratamento de saúde domiciliar direcionado a plano de saúde constitui direito personalíssimo do beneficiário, não se admitindo, assim, a sucessão processual pelo falecimento do doente no curso da demanda." (REsp 1475871/RS, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 3/3/2015, DJe 13/3/2015) No mesmo sentido: " d ada a natureza personalíssima do direito postulado nestes autos, o noticiado óbito da parte autora constitui motivo para a extinção do processo, dada a evidente perda de seu objeto, nos exatos termos do art. 485, inciso IX, do CPC/2015, devendo ser resguardado, pelo princípio da causalidade, o direito do patrono da demandante aos honorários advocatícios arbitrados pelas instâncias ordinárias" (REsp n. 1.959.193-CE, relator Ministro Marco Aurélio Bellizze, DJe 2/2/2022).
+Ante o exposto, considerando o falecimento do autor em ação intransmissível, julgo extinto o processo sem resolução do mérito, nos termos do art. 485, inciso IX, do CPC, mantidos os honorários de sucumbência já fixados na decisão de origem.
+Uma vez que na data da decisão de fls. 405-408 o autor já era falecido, torno sem efeito a referida decisão.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. PLANO DE SAÚDE. FORNECIMENTO DE TRATAMENTO DOMICILIAR. FALECIMENTO DO AUTOR. NATUREZA PERSONALÍSSIMA DO DIREITO POSTULADO. EXTINTO O PROCESSO SEM RESOLUÇÃO DO MÉRITO, NOS TERMOS DO ART. 485, INCISO IX, DO CPC.
