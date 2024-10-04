@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Claudinei Ferreira Santos - condenado por homicídio qualificado a 22 anos de reclusão -, atacando-se o acórdão proferido pelo Tribunal de Justiça de Minas Gerais (fls. 21/26 - Revisão Criminal n. 1.0000.24.221417-9/000), não comporta processamento.
+Com efeito, busca a impetração redimensionar a pena imposta - na condenação proferida na Ação Penal n. 0115586-73.2023.8.13.0024 (fls. 35/39 - da 1ª Vara Criminal da comarca de Nova Iguaçu/RJ) -, afastando as qualificadoras de meio cruel e recurso que dificultou a defesa da vítima, ao argumento de nulidade da pronúncia: ausência de fundamentação idônea na classificação das qualificadoras implica em nulidade absoluta, prevista pelo art. 564, IV, do CPP, que não alcança a preclusão. Por ser a decisão de pronúncia quem estabelece os limites de atuação das partes, se eivada de vícios, ante a ausência de fundamentação idônea, evidenciada fica sua nulidade (fl. 19).
+Sem pedido liminar.
+Entretanto, do atento exame dos autos observo que a via eleita foi indevidamente utilizada como substitutivo de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito (AgRg no HC n. 935.428/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe 26/9/2024).
+Ainda que assim não fosse, o decote de qualificadora (na forma do art. 593, III, d, do CPP) do julgamento proferido pelo Conselho de Sentença, pautado no sistema da íntima convicção, somente se afigura possível quando "manifestamente" contrário às provas dos autos. Assim, quando houver duas versões (em sessão plenária) a respeito dos fatos controvertidos, ambas fincadas no conjunto probatório coligido ao caderno processual, tem-se por imperativa a manutenção do decisum popular, sob pena de ultraje à indelével soberania (constitucional) dos veredictos (AgRg no AREsp n. 2.576.839/MA, Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, julgado em 9/9/2024, DJe 11/9/2024).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NULIDADE DA PRONÚNCIA. PREJUDICIALIDADE. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA PELO TRIBUNAL DO JÚRI. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
