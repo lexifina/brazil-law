@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+PROCESSO PENAL. HABEAS CORPUS. ROUBO QUALIFICADO. LIBERDADE PROVISÓRIA COM APLICAÇÃO DE MEDIDAS CAUTELARES. PEDIDO DE REVOGAÇÃO DO MONITORAMENTO ELETRÔNICO. EXCESSO DE PRAZO. VIOLAÇÃO. ANALISE DE PROVAS. INVIABILIDADE. ORDEM DENEGADA. DECISÃO UNÂNIME. As alegações do paciente para justificar a revogação das medidas cautelares demandam a produção de provas e não podem ser analisadas pela estreita via do habeas corpus. As circunstâncias do fato e a violação do monitoramento eletrônico são fatores que indicam a necessidade de manutenção da cautelar, até manifestação da autoridade impetrada. Ordem denegada. Decisão unânime.
+Imputa-se ao paciente a prática do crime de roubo majorado (art. 157, §2º, inc. II, e §2º-A, inc. I, do CP) por ter, utilizando-se de um veículo, se aproximado, juntamente com o corréu, da vítima, anunciado o assalto com uma arma de fogo e subtraído o aparelho celular (e-STJ fl. 55).
+A defesa alega, em síntese, que o paciente está sofrendo constrangimento ilegal, pois está submetido à medida cautelar de monitoramento eletrônico por tempo excessivamente longo.
+Ao final, requer a concessão da ordem para que seja revogada a medida cautelar de monitoramento eletrônico.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, vislumbro flagrante ilegalidade capaz de fundamentar a concessão da ordem de ofício.
+Em que pese as medidas cautelares diversas da prisão preventiva não impliquem em total privação da liberdade, fato é que implicam em diminuição da liberdade do indivíduo, razão pela qual precisam respeitar as exigências da necessidade e adequação com base em motivos contemporâneos (art. 282 c.c art. 315, §1º, ambos do CPP).
+No caso, foi concedida a liberdade provisória ao paciente no dia 11/02/2023, um dia após os fatos, com a imposição, dentre outras, da medida cautelar de monitoramento eletrônico. Passados aproximadamente 1 ano e 8 meses, não se indicou a adequação para a manutenção desta medida, principalmente tendo em vista que ela tem o condão de proteger a instrução processual e a aplicação da lei penal, porém ambas estão resguardadas por outras medidas cautelares (nomeadamente, obrigatoriedade de comparecer em juízo bimestralmente e proibição de se ausentar da comarca por mais de 8 dias sem prévia autorização).
+A razão utilizada pela decisão de primeira instância e do acórdão impugnado para a manutenção da medida cautelar em questão foi o fato de que constatou-se suposta violação da medida, uma vez que o paciente teria deixado a bateria acabar. Porém, somente essa violação operacional da medida não é capaz de demonstrar que há periculum libertatis para a instrução processual ou para a aplicação da lei penal capaz de justificar medida mais grave de restrição da liberdade como é o monitoramento eletrônico.
+Pelo exposto, não conheço do habeas corpus substitutivo, mas concedo a ordem de ofício para revogar somente a medida cautelar de monitoramento eletrônico do paciente.
+Comunique-se, com urgência, o teor desta decisão para o Tribunal e o juízo de origem.
+Após, c iência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
