@@ -1,0 +1,192 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Conselho da Magistratura
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0008007-68.2007.8.07.0000EMBARGANTE(S)DISTRITO FEDERALEMBARGADO(S)SINDICATO DOS SERV.PUBLICOS CIVIS DA ADM.DIR AUT.FUND. E TCDFRelatorDesembargador WALDIR LEÔNCIO JÚNIOR
+ Acórdão Nº1928086
+
+EMENTA
+
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO CONFIGURAÇÃO. ACLARATÓRIOS NÃO PROVIDOS.
+
+I – A inexistência de omissão no v. acórdão embargado enseja a rejeição dos aclaratórios.
+
+II – Embargos de declaração não providos.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) Conselho da Magistratura do Tribunal de Justiça do Distrito Federal e dos Territórios, WALDIR LEÔNCIO JÚNIOR - Relator, ROBERVAL CASEMIRO BELINATI - 1º Vogal, ANGELO PASSARELI - 2º Vogal e MARIO-ZAM BELMIRO - 3º Vogal, sob a Presidência do Senhor Desembargador WALDIR LEÔNCIO JÚNIOR, em proferir a seguinte decisão: Negar provimento. Unânime, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 04 de Outubro de 2024
+
+Desembargador WALDIR LEÔNCIO JÚNIORPresidente e Relator
+
+RELATÓRIO
+
+DISTRITO FEDERAL opõe Embargos de Declaração contra o v. acórdão proferido por este Conselho da Magistratura que restou assim ementado:
+
+AGRAVO INTERNO. RECURSOS ESPECIAL E EXTRAORDINÁRIO. DECISÃO DESTE TRIBUNAL EM SINTONIA COM PARADIGMAS DAS CORTES SUPERIORES (TEMA 905/STJ E TEMA1.170/STF). ARTIGO 1.040, INCISO I, CPC. RECURSO NÃO PROVIDO.
+
+I – O acórdão recorrido coincide com a orientação firmada pelo Superior Tribunal de Justiça no REsp 1.495.146/MG (Tema 905/STJ) e no RE 1.317.982/ES (Tema 1.170/STF), no sentido de que a alteração do parâmetro de atualização monetária delineado no título executivo judicial transitado em julgado, com a finalidade de adequação ao definido pela Corte Suprema no precedente vinculante do Tema 810, não enseja lesão à coisa julgada.
+
+II – Agravo interno não provido.
+
+Aponta a ocorrência de omissão no decisum impugnado, consubstanciada no fato de o caso concreto não se enquadrar ao definido no Tema 1.170 do ementário de repercussão geral, porquanto o paradigma se limitou a tratar da possibilidade de alteração do índice dos juros de mora, nada decidindo acerca da correção monetária.
+
+Afirma que o acórdão objurgado também permaneceu silente sobre os princípios do venire contra factum proprium e da demanda, suscitados no agravo interno.
+
+Ao final, pugna pelo acolhimento do presente recurso a fim de que seja sanada a omissão indicada, dando-se provimento ao agravo interno.
+
+Contrarrazões de ID 63684272.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador WALDIR LEÔNCIO JÚNIOR - Relator
+
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+A finalidade dos embargos de declaração é possibilitar a correção, a integração e a complementação das decisões judiciais que eventualmente se mostrem obscuras, contraditórias ou omissas, consoante dispõe o artigo 1.022 do Código de Processo Civil.
+
+No caso dos autos, ao contrário do que afirma a parte embargante, a decisão do Conselho da Magistratura não padece de qualquer dos aludidos vícios. Senão vejamos.
+
+De início, registre-se que a decisão impugnada por meio de agravo interno fundou-se na negativa de seguimento dos recursos especial e extraordinário, tendo em vista a coincidência entre o acórdão recorrido e as orientações firmadas no REsp 1.495.146/MG (Tema 905) e no RE 1.317.982/ES (Tema 1.170).
+
+Em seguida, o acórdão combatido, ora desafiado por embargos declaratórios, confirmou a decisão de negativa de seguimento, com base na correta aplicação dos mencionados precedentes (ID 62524451).
+
+Na oportunidade, o órgão julgador consignou que:
+
+No caso concreto, o tema que ensejou o sobrestamento dos recursos especial e extraordinário diz respeito à possibilidade de alteração do índice de atualização monetária arbitrado no título judicial executado, tendo em vista o decidido no RE 870.947/SE- Tema 810 (RE 1.317.982/ES – Tema 1.170).
+
+A parte ora recorrente interpôs agravo interno contra a decisão do relator que, monocraticamente determinou a aplicação do IPCA-E como índice de correção monetária, conforme entendimento sufragado pelo STF no RE 870.947-SE (Tema 810).
+
+O Conselho Especial negou provimento ao agravo, em acórdão que restou ementado nos seguintes termos (ID 30539997):
+
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO DO DF. EXECUÇÃO AJUIZADA PELO SINDIRETA/DF. BENEFÍCIO ALIMENTAÇÃO. ÍNDICE DE CORREÇÃO MONETÁRIA: IPCA-E. TEMA 810/STF (RE 870.947/SE). RECURSO CONHECIDO E DESPROVIDO.
+
+1. O Supremo Tribunal Federal firmou a seguinte tese para o Tema 810: “1) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico-tributária, aos quais devem ser aplicados os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito tributário, em respeito ao princípio constitucional da isonomia (CRFB, art. 5º, caput); quanto às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09; e 2) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina” (sem destaque no original).
+
+2. Deve incidir a correção monetária, segundo o IPCA-E, no período posterior a 30/6/2009, no cálculo dos valores devidos a título de benefício alimentação. Inteligência da tese firmada pelo STF para o Tema 810.
+
+3. Recurso conhecido e desprovido.
+
+Na sequência, houve a interposição de recursos constitucionais, nos quais o agravante não só concordou expressamente com a identidade entre a controvérsia que viria a ser decidida no processo e aquela a ser dirimida no representativo do Tema 1.170, como pugnou pelo sobrestamento dos apelos. No mais, amparado nos artigos 502, 503, 507 e 508, todos do Código de Processo Civil e 5º, inciso XXXVI, da Constituição Federal, alegou que o órgão julgador, ao modificar o índice de correção monetária, reconhecendo a inconstitucionalidade da TR e determinando a incidência do IPCA-e, somente após a expedição dos precatórios, ofendeu a coisa julgada.
+
+Passo seguinte, em juízo de prelibação, o especial restou admitido, e o extraordinário sobrestado (Tema 1170), situação primeira em que o STJ (ID 39815902) determinou o retorno dos autos à Corte de origem, para que aguardasse o julgamento de mérito do referido paradigma.
+
+Passo seguinte, sobrestados os recursos excepcionais, tal como pretendido, o ora agravante não se valeu de nenhuma das vias adequadas para questioná-lo, mantendo-se silente, do que se pode depreender que o atual inconformismo se deu em virtude do desfecho que lhe foi desfavorável.
+
+Prosseguindo, julgado o precedente, negou-se seguimento aos recursos especial e extraordinário, em decisão cujo teor segue abaixo:
+
+O tema que ensejou o sobrestamento dos recursos especial e extraordinário diz respeito à possibilidade de alteração do índice de atualização monetária arbitrado no título judicial executado, tendo em vista o decidido no RE 870.947 (Tema 810).
+
+De início, importante mencionar que o Supremo Tribunal Federal afetou o RE 1.317.982 (Tema 1.170) com a finalidade de uniformizar a controvérsia acerca da “validade dos juros moratórios aplicáveis nas condenações da Fazenda Pública, em virtude da tese firmada no RE 870.947 (Tema 810), na execução de título judicial que tenha fixado expressamente índice diverso”.
+
+Passo seguinte, a Corte Suprema exarou inúmeras decisões, nas quais assinalou que, embora o julgado mencione somente os juros de mora, a ratio decidendi que culminou na tese inclui a discussão acerca da possibilidade de desconstituição de comando judicial transitado em julgado em que se tenha expressamente estabelecido critério de correção monetária dissonante do Tema 810.
+
+Já no âmbito do Superior Tribunal de Justiça, através de reiteradas decisões proferidas pela Ministra Presidente MARIA THEREZA DE ASSIS MOURA, foi determinado o retorno dos autos à origem para que, não obstante a orientação firmada no REsp 1.495.146 (Tema 905), os apelos especiais permanecessem sobrestados até a publicação do acórdão paradigma do Tema 1.170/STF, a fim de evitar provimentos jurisdicionais dissonantes entre o STJ e o STF, e de modo a privilegiar os princípios da economia processual, da celeridade, da duração razoável do processo, da isonomia, e da efetividade. Nesse sentido: REsp 2.030.999/DF, REsp 2.030.688/DF, AREsp 2.231.670/SP, REsp 2.035.844/DF.
+
+No acórdão do Tema 905, da lista de repetitivos do STJ, com relação à coisa julgada, decidiu-se que:
+
+(...) 4. Preservação da coisa julgada.
+
+Não obstante os índices estabelecidos para atualização monetária e compensação da mora, de acordo com a natureza da condenação imposta à Fazenda Pública, cumpre ressalvar eventual coisa julgada que tenha determinado a aplicação de índices diversos, cuja constitucionalidade/legalidade há de ser aferida no caso concreto (REsp n. 1.495.146/MG, relator Ministro Mauro Campbell Marques, DJe de 2/3/2018).
+
+Em última análise, em 8/1/2024, o STF consolidou a orientação no sentido de que a modificação do parâmetro de atualização monetária com a finalidade de adequação ao definido no Tema 810 não importa em lesão à coisa julgada. Confira-se a ementa do RE 1.317.982:
+
+RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. TEMA N. 1.170. CONSTITUCIONAL E PROCESSUAL CIVIL. CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. RELAÇÃO JURÍDICA NÃO TRIBUTÁRIA. TÍTULO EXECUTIVO. TRÂNSITO EM JULGADO. JUROS DE MORA. PARÂMETROS. ALTERAÇÃO. POSSIBILIDADE. ART. 1º-F DA LEI N. 9.494/1997, COM A REDAÇÃO DADA PELA DE N. 11.960/2009. OBSERVÂNCIA IMEDIATA. CONSTITUCIONALIDADE. RE 870.947. TEMA N. 810 DA REPERCUSSÃO GERAL. AUSÊNCIA DE OFENSA À COISA JULGADA. 1. A Lei n. 11.960, de 29 de junho de 2009, alterou a de n. 9.494, de 10 de setembro de 1997, e deu nova redação ao art. 1º-F, o qual passou a prever que, nas condenações impostas à Fazenda Pública, para fins de atualização monetária, remuneração do capital e compensação da mora, incidirão, de uma só vez, até o efetivo pagamento, os índices oficiais de remuneração básica e de juros aplicados à caderneta de poupança. 2. A respeito das condenações oriundas de relação jurídica não tributária, o Supremo Tribunal Federal, ao apreciar o RE 870.947 (Tema n. 810/RG), ministro Luiz Fux, declarou a constitucionalidade do art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009, concernente à fixação de juros moratórios segundo o índice de remuneração da caderneta de poupança. 3. O trânsito em julgado de sentença que tenha fixado percentual de juros moratórios não impede a observância de alteração legislativa futura, como no caso, em que se requer a aplicação da Lei n. 11.960/2009. 4. Inexiste ofensa à coisa julgada, uma vez não desconstituído o título judicial exequendo, mas apenas aplicada legislação superveniente cujos efeitos imediatos alcançam situações jurídicas pendentes, em consonância com o princípio tempus regit actum. 5. Recurso extraordinário provido, para reformar o acórdão recorrido, a fim de que seja aplicado o índice de juros moratórios estabelecido pelo art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009. 6. Proposta de tese: “É aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado.” (Rel. Ministro NUNES MARQUES, DJe 8/1/2024).
+
+Válido transcrever trecho do voto condutor do precedente:
+
+(...) Por fim, colho da jurisprudência recente do Supremo várias decisões a determinarem a aplicação da tese firmada no Tema n. 810/RG, mesmo nos feitos em que já se tenha operado a coisa julgada, em relação aos juros ou à atualização monetária (RE 1.331.940, ministro Dias Toffoli, DJe de 5 de agosto de 2021; ARE 1.317.431, ministra Cármen Lúcia, DJe de 29 de junho de 2021; RE 1.314.414, ministro Alexandre de Moraes, DJe de 26 de março de 2021; ARE 1.318.458, ministro Edson Fachin, DJe de 1º de julho de 2021; RE 1.219.741, ministro Luís Roberto Barroso, DJe de 2 de julho de 2020; ARE 1.315.257, ministro Ricardo Lewandowski, DJe de 28 de abril de 2021; e ARE 1.311.556 AgR, da minha relatoria, DJe de 10 de agosto de 2021). (g.n.).
+
+In casu, o acórdão recorrido concluiu que (ID 30539997):
+
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO DO DF. EXECUÇÃO AJUIZADA PELO SINDIRETA/DF. BENEFÍCIO ALIMENTAÇÃO. ÍNDICE DE CORREÇÃO MONETÁRIA: IPCA-E. TEMA 810/STF (RE 870.947/SE). RECURSO CONHECIDO E DESPROVIDO.
+
+1. O Supremo Tribunal Federal firmou a seguinte tese para o Tema 810: “1) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico-tributária, aos quais devem ser aplicados os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito tributário, em respeito ao princípio constitucional da isonomia (CRFB, art. 5º, caput); quanto às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09; e 2) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina” (sem destaque no original).
+
+2. Deve incidir a correção monetária, segundo o IPCA-E, no período posterior a 30/6/2009, no cálculo dos valores devidos a título de benefício alimentação. Inteligência da tese firmada pelo STF para o Tema 810.
+
+3. Recurso conhecido e desprovido.
+
+Da ementa transcrita, verifica-se que a decisão combatida está em conformidade com as orientações emanadas das Cortes Superiores nos Temas 905 do STJ e 1.170 do STF, sob o rito dos precedentes.
+
+Assim, nos termos do artigo 1.040, inciso I, do Código de Processo Civil, NEGO SEGUIMENTO aos recursos especial e extraordinário.
+
+Publique-se.
+
+Constata-se, uma vez mais, que o acórdão impugnado, em sintonia com o entendimento firmado pelos Tribunais Superiores, concluiu que a modificação do parâmetro de atualização monetária delineado no título executivo judicial transitado em julgado, com a finalidade de adequação ao definido pela Corte Suprema no precedente vinculante do Tema 810, não enseja lesão à coisa julgada.
+
+Importante acrescentar que a Corte Suprema atribuiu eficácia retroativa à decisão de mérito proferida no RE 870.947 (Tema 810), sendo considerado nulo o índice de correção monetária declarado inconstitucional (TR) desde a data da edição da lei pela qual estabelecido (Lei 11.960/2009) (RE 1.453.550/PR, Relatora Ministra CÁRMEN LÚCIA, DJe 16/4/2024, Rcl65.969/SC, Relator Ministro GILMAR MENDES, DJe de 8/4/2024).
+
+Ainda neste contexto:
+
+DIREITO ADMINISTRATIVO. EXECUÇÃO DE SENTENÇA. CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. JUÍZO DE RETRATAÇÃO EXERCIDO NA ORIGEM. ADEQUAÇÃO AO TEMA Nº 810. AUSÊNCIA DE VIOLAÇÃO DA COISA JULGADA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. TEMAS Nº 1170 E 733. AUSÊNCIA DE IDENTIDADE. INAPLICABILIDADE. AGRAVO NÃO PROVIDO. 1. O entendimento da Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no Supremo Tribunal Federal, no sentido de que “prolongar a incidência da TR como critério de correção monetária para o período entre 2009 e 2015 é incongruente com o assentado pela Corte no julgamento de mérito do RE 870.947 e das ADIs 4357 e 4425, pois virtualmente esvazia o efeito prático desses pronunciamentos para um universo expressivo de destinatários da norma” (Tema nº 810). 2. O exercício do juízo de retratação pela Corte de origem para adequação à tese firmada no julgamento do Tema nº 810 da repercussão geral não importa violação do princípio da coisa julgada. Precedentes. 3. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 4. A teor do art. 85, § 11, do CPC/2015, o “tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento”. 5. Agravo interno conhecido e não provido.
+
+(ARE 1372596 AgR, Relatora ROSA WEBER, DJe 14/6/2022).
+
+Ademais, o Supremo Tribunal Federal, em recente decisão, manifestou-se no sentido de que:
+
+Há de se anotar que a garantia da coisa julgada não protege a norma declarada inconstitucional por este Supremo Tribunal nas Ações Diretas de Inconstitucionalidade ns. 4.357 e 4.425 e no Recurso Extraordinário n. 870.947.
+
+Essa foi a decisão no julgamento dos Embargos de Declaração no Recurso Extraordinário n. 870.947 (Tema 810), Redator para o acórdão o Ministro Alexandre de Moraes. Então, reconheceu-se que “as razões de segurança jurídica e interesse social que se pretende prestigiar pela modulação de efeitos, na espécie, são inteiramente relacionadas ao interesse fiscal das Fazendas Públicas devedoras, o que não é suficiente para atribuir efeitos a uma norma inconstitucional” (DJe 3.2.2020).
+
+(...)
+
+Essa orientação jurisprudencial foi reafirmada pelo Ministro Nunes Marques, Relator do Recurso Extraordinário n. 1.317.982, Tema 1.170 da repercussão geral
+
+(...)
+
+6. A referida orientação jurisprudencial é aplicável aos processos em fase de execução e aos precatórios expedidos.
+
+O Supremo Tribunal Federal assentou que “o tema 810 de Repercussão Geral, bem como a questão de ordem, julgada na ADI 4425, em conjunto com o tema 905 de recursos repetitivos fixado pelo Superior Tribunal de Justiça demonstram os diversos momentos e índices a serem aplicados para atualização, remuneração do capital e cálculo da mora nos débitos decorrentes de precatórios” (ADI n. 7.064, Relator o Ministro Luiz Fux, Plenário, DJe 19.12.2023), sendo certo que nessas situações afasta-se a coisa julgada para aplicar a jurisprudência deste Tribunal (RE 1458348 AgR, Relator(a): CÁRMEN LÚCIA, Primeira Turma, DJe 20-05-2024) (g.n.).
+
+Com efeito, se a Corte Suprema afirma a incidência do entendimento em debate tanto para os processos em fase de execução como para os precatórios expedidos, e o faz sem qualquer ressalva à eventual preclusão da matéria, é porque a força vinculante da orientação advinda da Corte Constitucional deve ser observada nos processos em que se discute a possibilidade de alteração do índice de correção monetária, como na espécie.
+
+ Acertada, portanto, a decisão agravada ao negar seguimento aos apelos excepcionais, tendo em vista o enquadramento da questão debatida nos nobres recursos àquelas descritas nos representativos da controvérsia (artigo 1.030, inciso I, alínea “a”, do Código de Processo Civil).
+
+Da leitura dos trechos destacados, constata-se que a parte embargante se limita a reiterar os argumentos já devidamente enfrentados por este Conselho da Magistratura, revelando-se nítida sua pretensão em provocar a rediscussão da causa nestes embargos de declaração, os quais não se caracterizam como meio processual adequado para reforma do decisum, salvo em situações excepcionais, em que se permite a atribuição de efeitos infringentes, o que, todavia, não se vislumbra na hipótese vertente.
+
+Não há, portanto, omissão a ser sanada, tampouco qualquer outro vício que dê respaldo à pretensão recursal, de modo que todos os pontos necessários ao deslinde da controvérsia foram apreciados.
+
+Cumpre consignar que a decisão combatida encontra-se em perfeita sintonia com o entendimento das Cortes Superiores, conforme se verifica da decisão e do julgado abaixo transcritos:
+
+4. Transcrevo, para melhor compreensão da controvérsia, os fundamentos do acórdão recorrido: “Ademais, a correção monetária e os juros moratórios podem ser revistos a qualquer tempo e grau de jurisdição, não se operando a preclusão por se tratar de matéria de ordem pública. Há muito foi isso definido pelas cortes de sobreposição. Nesse sentido: (...) Também, não prevalece a coisa julgada que se assenta em norma declarada inconstitucional pelo Supremo Tribunal Federal quando de ordem pública a questão subjacente, a exemplo do que aqui se vê. Nesse sentido, aliás, o mencionado item 4 do Tema nº 905, do STJ: “(...) Não obstante os índices estabelecidos para atualização monetária e compensação da mora, de acordo com a natureza da condenação imposta à Fazenda Pública, cumpre ressalvar eventual coisa julgada que tenha determinado a aplicação de índices diversos, cuja constitucionalidade/legalidade há de ser aferida no caso concreto.” (g.m.) A par disso, no julgamento do Recurso Extraordinário n° 730.462/SP, Tema n° 733 (f. 40/3 destes), o STF apreciou matéria relativa à eficácia temporal de sentença transitada em julgado fundada em norma supervenientemente declarada inconstitucional pela Corte Suprema, em controle concentrado, assentando: E, por evidente, nessa ressalva incluem-se juros e correção monetária relação jurídica de trato continuando, por incidirem até o efetivo pagamento , pelo que de rigor a adequação de seus índices à legislação superveniente, ausente ofensa à coisa julgada. (...) Dessarte, não há que se falar em violação à coisa julgada, preclusão ou, ainda, em afronta ao Tema nº 733, do STF, e ao item 4 do Tema nº 905, do STJ. 3. Nego provimento ao recurso.”(e-doc. 16; grifos no original). 5. O Plenário desta Corte, no julgamento do Recurso Extraordinário nº 1.317.982/ES (Tema RG nº 1.170), já teve a oportunidade de se manifestar sobre a aplicação do Tema RG nº 810 e a suscitada ofensa à coisa julgada. A ementa do paradigma está assim redigida: “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. TEMA N. 1.170. CONSTITUCIONAL E PROCESSUAL CIVIL. CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. RELAÇÃO JURÍDICA NÃO TRIBUTÁRIA. TÍTULO EXECUTIVO. TRÂNSITO EM JULGADO. JUROS DE MORA. PARÂMETROS. ALTERAÇÃO. POSSIBILIDADE. ART. 1º-F DA LEI N. 9.494/1997, COM A REDAÇÃO DADA PELA DE N. 11.960/2009. OBSERVÂNCIA IMEDIATA. CONSTITUCIONALIDADE. RE 870.947. TEMA N. 810 DA REPERCUSSÃO GERAL. AUSÊNCIA DE OFENSA À COISA JULGADA. 1. A Lei n. 11.960, de 29 de junho de 2009, alterou a de n. 9.494, de 10 de setembro de 1997, e deu nova redação ao art. 1ºF, o qual passou a prever que, nas condenações impostas à Fazenda Pública, para fins de atualização monetária, remuneração do capital e compensação da mora, incidirão, de uma só vez, até o efetivo pagamento, os índices oficiais de remuneração básica e de juros aplicados à caderneta de poupança. 2. A respeito das condenações oriundas de relação jurídica não tributária, o Supremo Tribunal Federal, ao apreciar o RE 870.947 (Tema n. 810/RG), ministro Luiz Fux, declarou a constitucionalidade do art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009, concernente à fixação de juros moratórios segundo o índice de remuneração da caderneta de poupança. 3. O trânsito em julgado de sentença que tenha fixado percentual de juros moratórios não impede a observância de alteração legislativa futura, como no caso, em que se requer a aplicação da Lei n. 11.960/2009. 4. Inexiste ofensa à coisa julgada, uma vez não desconstituído o título judicial exequendo, mas apenas aplicada legislação superveniente cujos efeitos imediatos alcançam situações jurídicas pendentes, em consonância com o princípio tempus regit actum. 5. Recurso extraordinário provido, para reformar o acórdão recorrido, a fim de que seja aplicado o índice de juros moratórios estabelecido pelo art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009. 6. Proposta de tese: “É aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado.” (RE nº 1.317.982/ES, Tema RG nº 1.170, Rel. Min. Nunes Marques, Tribunal Pleno, j. 12/12/2023, p. 08/01/2024; grifos nossos). 6. Tem-se que, apesar de a matéria alusiva à correção monetária decidida no Tema RG nº 810 não ter constado da ementa nem da tese firmada no Tema RG nº 1.170, ela foi ventilada no voto condutor do julgamento, cuja ratio decidendi se aplica ao caso sob exame. Confira-se: “(...) Ao examinar o RE 870.947 (Tema n. 810/RG), Relator o ministro Luiz Fux, esta Corte assentou a constitucionalidade do art. 1º-F da Lei n. 9.494/1997, na redação conferida pela de n. 11.960/2009, especificamente quanto à fixação de juros moratórios em condenações oriundas de relação jurídica não tributária. É dizer: considerou válida a imposição dos juros moratórios segundo o índice de remuneração da caderneta de poupança nas relações não tributárias. Assim, a incidência do art. 1º-F da Lei n. 9.494/1997 deve dar-se de forma imediata, abrangendo processos em andamento, incluídos os em fase de execução. Ora, os juros, nos termos do art. 322, § 1º, do Código de Processo Civil, são consectários legais da obrigação a ser cumprida. Em virtude da natureza processual, devem ser regulados ante a observância da legislação vigente à época da incidência, o que decorre do princípio da aplicação geral e imediata das leis (Lei de Introdução às Normas do Direito Brasileiro, art. 6º). Por serem os juros moratórios efeitos continuados do ato, a pretensão de recebimento acaba por renovar-se todo mês. Logo, ausente ofensa à coisa julgada, porquanto não há desconstituição do título judicial exequendo, mas apenas aplicação de normas supervenientes cujos efeitos imediatos alcançam situações jurídicas pendentes, tudo de acordo com o princípio tempus regit actum. Tal entendimento é agasalhado pelo Código de Processo Civil, conforme se extrai da leitura do art. 505, I, in verbis: Art. 505. Nenhum juiz decidirá novamente as questões já decididas relativas à mesma lide, salvo: I – se, tratando-se de relação jurídica de trato continuado, sobreveio modificação no estado de fato ou de direito, caso em que poderá a parte pedir a revisão do que foi estatuído na sentença; O Colégio Nacional de Procuradores-Gerais dos Estados e do Distrito Federal, na manifestação apresentada, salientou: Trata-se aqui, de SUCESSÃO LEGISLATIVA, (Temas 435/STF e 491/STJ) em que a COISA JULGADA NÃO É ÓBICE PARA APLICAÇÃO DA LEI NOVA, pois a eficácia preclusiva está adstrita ao estado de direito contemporâneo à decisão judicial (art. 493 e 505, I, do CPC; art. 462 e 471, I, do CPC/73). A SUPERVENIÊNCIA DE LEI APÓS A DECISÃO JUDICIAL tem incidência imediata, com efeito prospectivo, alcançando as situações jurídicas pendentes, e não atinge período anterior à sua vigência (princípio tempus regit actum). Nesse sentido também é a orientação do Supremo. Por ocasião do julgamento do AI 842.063 (Tema n. 435/RG), a Corte concluiu pela aplicação imediata dos juros, na forma disciplinada no art. 1º-F da Lei n. 9.494/1997, alterado pela Medida Provisória n. 2.180-35/2001, independentemente da data de formalização dos processos. Já no exame da ACO 683 AgR-ED, Relator o ministro Edson Fachin, o Plenário decidiu que, em sede de liquidação de sentença ou de cumprimento de sentença, deve ser efetuada a atualização monetária nos termos da interpretação dada pelo Tema n. 810/RG ao art. 1º-F, desde a data de edição da Lei n. 11.960/2009. Ainda a esse respeito, cito trecho da decisão da Segunda Turma formalizada no MS 32.435, Relator o ministro Celso de Mello, Redator do acórdão o ministro Teori Zavascki: (…) A força vinculativa das sentenças sobre relações jurídicas de trato continuado atua rebus sic stantibus: sua eficácia permanece enquanto se mantiverem inalterados os pressupostos fáticos e jurídicos adotados para o juízo de certeza estabelecido pelo provimento sentencial. A superveniente alteração de qualquer desses pressupostos determina a imediata cessação da eficácia executiva do julgado, independentemente de ação rescisória ou, salvo em estritas hipóteses previstas em lei, de ação revisional. Por fim, colho da jurisprudência recente do Supremo várias decisões a determinarem a aplicação da tese firmada no Tema n. 810/RG, mesmo nos feitos em que já se tenha operado a coisa julgada, em relação aos juros ou à atualização monetária (RE 1.331.940, ministro Dias Toffoli, DJe de 5 de agosto de 2021; ARE 1.317.431, ministra Cármen Lúcia, DJe de 29 de junho de 2021; RE 1.314.414, ministro Alexandre de Moraes, DJe de 26 de março de 2021; ARE 1.318.458, ministro Edson Fachin, DJe de 1º de julho de 2021; RE 1.219.741, ministro Luís Roberto Barroso, DJe de 2 de julho de 2020; ARE 1.315.257, ministro Ricardo Lewandowski, DJe de 28 de abril de 2021; e ARE 1.311.556 AgR, da minha relatoria, DJe de 10 de agosto de 2021). Dessa forma, o trânsito em julgado de sentença que tenha fixado determinado percentual de juros moratórios não impede posterior modificação, como no presente caso, em que se requer a aplicação da Lei n. 11.960/2009, objeto da tese firmada no âmbito do RE 870.947 – Tema n. 810 da repercussão geral.” (grifos nossos). 7. Conforme acima destacado, a orientação do Supremo Tribunal, antes mesmo do julgamento do Tema RG nº 1.170, já havia se firmado no sentido de não haver ofensa à coisa julgada na aplicação da tese fixada no Tema RG nº 810 aos processos em que o título executivo judicial já tenha transitado em julgado. Nessa linha, são as ementas de precedentes de ambas as Turmas desta Corte: “DIREITO ADMINISTRATIVO. EXECUÇÃO DE SENTENÇA. CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. JUÍZO DE RETRATAÇÃO EXERCIDO NA ORIGEM. ADEQUAÇÃO AO TEMA Nº 810. AUSÊNCIA DE VIOLAÇÃO DA COISA JULGADA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. TEMAS Nº 1170 E 733. AUSÊNCIA DE IDENTIDADE. INAPLICABILIDADE. AGRAVO NÃO PROVIDO. 1. O entendimento da Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no Supremo Tribunal Federal, no sentido de que ‘prolongar a incidência da TR como critério de correção monetária para o período entre 2009 e 2015 é incongruente com o assentado pela Corte no julgamento de mérito do RE 870.947 e das ADIs 4357 e 4425, pois virtualmente esvazia o efeito prático desses pronunciamentos para um universo expressivo de destinatários da norma’ (Tema nº 810). 2. O exercício do juízo de retratação pela Corte de origem para adequação à tese firmada no julgamento do Tema nº 810 da repercussão geral não importa violação do princípio da coisa julgada. Precedentes. 3. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 4. A teor do art. 85, § 11, do CPC/2015, o ‘tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’. 5. Agravo interno conhecido e não provido.” (ARE nº 1.372.596-AgR/SP, Rel. Min. Rosa Weber, Primeira Turma, j. 30/05/2022, p. 14/06/2022; grifos nossos). “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 11.08.2021. CONDENAÇÃO DA FAZENDA PÚBLICA. RELAÇÃO JURÍDICA NÃO-TRIBUTÁRIA. ATUALIZAÇÃO MONETÁRIA. IMPOSSIBILIDADE DE APLICAÇÃO DO ÍNDICE OFICIAL DE REMUNERAÇÃO DA CADERNETA DE POUPANÇA. TAXA REFERENCIAL (TR). TEMA 810 DA REPERCUSSÃO GERAL. APLICABILIDADE. PRECEDENTES. NÃO INCIDÊNCIA DO TEMA 733 DA RG. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. No caso, o Tribunal a quo determinou a aplicação do IPCA-E como índice para atualização monetária da condenação, conforme orientação traçada por esta Suprema Corte ao apreciar o RE 870.974-RG, referente ao Tema 810 da sistemática da repercussão geral. 2. Não incidência do Tema 733 da Repercussão Geral. 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC.” (ARE nº 1.312.852-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma, j. 25/10/2021, p. 12/11/2021; grifos nossos). 8. Desse modo, o Colegiado a quo, ao concluir pela ausência de ofensa à coisa julgada no tocante à adequação da correção monetária, decidiu em harmonia com a jurisprudência do Supremo Tribunal. (ARE 1.485.003, Relator Min, ANDRÉ MENDONÇA, DJe de 15/8/2024) (g.n.).
+
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. JUROS DE MORA. CORREÇÃO MONETÁRIA. MATÉRIAS DE ORDEM PÚBLICA. NATUREZA PROCESSUAL. APLICAÇÃO IMEDIATA AOS PROCESSOS EM CURSO. COISA JULGADA. NÃO VIOLAÇÃO. VIOLAÇÃO DO ART. 1.022. AUSÊNCIA.
+
+1. Constata-se que não se configurou ofensa ao art. e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia. Não há vícios de omissão ou contradição, pois a Corte de origem apreciou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+
+1. A jurisprudência do Superior Tribunal de Justiça firme no sentido de que os juros de mora e a correção monetária são encargos acessórios da obrigação principal, possuindo caráter eminentemente processual e devem ser incluídos na conta de liquidação, ainda que já homologado o cálculo anterior, inexistindo preclusão ou ofensa à coisa julgada em consequência dessa inclusão. Assim, as alterações do art. 1º-F da Lei 9.494/1997, introduzidas pela Medida Provisória 2.180-35/2001 e pela Lei 11.960/2009, têm aplicação imediata a todas as demandas judiciais em trâmite, com base no princípio tempus regit actum. Precedentes.
+
+2. É firme o entendimento nesta Corte de que "a aplicação de juros e correção monetária pode ser alegada na instância ordinária a qualquer tempo, podendo, inclusive, ser conhecida de ofício. A decisão nesse sentido não caracteriza julgamento extra petita, tampouco conduz à interpretação de ocorrência de preclusão consumativa, porquanto tais institutos são meros consectários legais da condenação" (AgInt no REsp 1.353.317/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 9.8.2017).
+
+3. A Primeira Seção dedo STJ, no julgamento do REsp 1.495.146/MG, reexaminou a questão relativa à aplicação do art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, após a decisão do Supremo Tribunal Federal no RE 870.947/SE, submetido ao regime de Repercussão Geral, publicada em 20.11.2017. A Corte Maior estabeleceu que o mencionado dispositivo legal, com o propósito de correção monetária, não é aplicável às condenações judiciais impostas à Fazenda Pública, independentemente de sua natureza; a respeito dos juros de mora, definiu a possibilidade de incidência na mesma hipótese, excepcionadas apenas as condenações oriundas de natureza jurídico-tributária. Em vista disso, no Superior Tribunal de Justiça, consolidou-se o entendimento de que as condenações judiciais referentes a servidores e a empregados públicos se sujeitam aos seguintes encargos: (a) até julho/2001 - juros de mora:
+
+1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009 - juros de mora: 0,5% ao mês; correção monetária: IPCA-E; e (c) a partir de julho/2009 - juros de mora:
+
+remuneração oficial da caderneta de poupança; correção monetária:
+
+IPCA-E. Registre-se que o STF, no julgamento de Embargos de Declaração no Recurso Extraordinário 870.947/SE, rejeitou a possibilidade de modulação dos efeitos do julgado.
+
+4. Agravo Interno não provido.
+
+(AgInt no REsp n. 2.073.159/DF, Rel. Min. HERMAN BENJAMIN, DJe de 18/12/2023).
+
+No mesmo sentido, confiram-se: RE 1.485.146, Relator Min. FLÁVIO DINO, DJe de 15/8/2024; RE 1.506.240, Relator Min. LUIZ FUX, DJe de 13/8/2024.
+
+No mais, “são manifestamente incabíveis os embargos, quando exprimem apenas o inconformismo da parte embargante com o resultado do julgamento, ao buscar rediscutir matéria julgada, sem demonstrar a presença de quaisquer dos vícios previstos na legislação processual” (MS 35506 ED, Relator CRISTIANO ZANIN, DJe 17/10/2023).
+
+Por fim, cumpre advertir que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá configurar o caráter manifestamente protelatório, ensejando a aplicação da multa prevista no § 2º do artigo 1.026 do CPC.
+
+Diante do exposto, NEGO PROVIMENTO aos embargos de declaração.
+
+É O VOTO.
+
+O Senhor Desembargador ROBERVAL CASEMIRO BELINATI - 1º Vogal Com o relatorO Senhor Desembargador ANGELO PASSARELI - 2º Vogal Com o relatorO Senhor Desembargador MARIO-ZAM BELMIRO - 3º Vogal Com o relator
+
+DECISÃO
+
+Negar provimento. Unânime
