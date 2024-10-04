@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO DE 15 DIAS CORRIDOS. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO ÂMBITO DO TRIBUNAL DE ORIGEM. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É intempestivo o recurso especial interposto após o prazo de 15 dias corridos, nos termos do art. 994, inciso VI, c/c os arts. 1.003, § 5º e 1.029, todos do CPC, bem como do art. 798, do CPP.
+2. No processo penal, iniciado o prazo recursal, seu curso não se interrompe ou se suspende em decorrência de feriado ou suspensão de expediente forense, exceto se coincidir com o termo final, hipótese em que será prorrogado para o primeiro dia útil seguinte.
+3. É firme a jurisprudência desta Corte Superior no sentido de que a juntada de documento apto a comprovar a ocorrência, no âmbito do Tribunal local, de fatos aptos a ensejar a prorrogação dos prazos processuais - como feriados locais, suspensão do expediente forense ou indisponibilidade do sistema de peticionamento eletrônico - deve se dar no momento da interposição do recurso, para fins de aferição da respectiva tempestividade, consoante disposto no art. 1.003, § 6º, do CPC/2015.
+4. No caso concreto, o termo inicial do prazo recursal deu-se em 14.12.2023 e o final 8.1.2024 (primeiro dia útil depois do recesso forense), contudo, a petição do recurso especial somente foi protocolada em 1º.2.2024.
+5. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão monocrática de e-STJ fls. 312/314, de minha relatoria, em que não conheci do recurso pela intempestividade do recurso especial.
+A defesa alega que foi demonstrado de "forma clara e inequívoca que a suspensão dos prazos recursais ocorreu em razão de vários feriados e suspensões de prazos que se deram em 20 de dezembro a 20 de janeiro..(e-STJ fl. 320). Ressalta que a documentação anexa ao agravo de recurso especial demonstra, inequivocamente, a suspensão dos prazos recursais. Subsidiariamente, pede que a adaptação da condenação, devendo ser instituído na rotina do réu, o tratamento domiciliar adequado.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO DE 15 DIAS CORRIDOS. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO ÂMBITO DO TRIBUNAL DE ORIGEM. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É intempestivo o recurso especial interposto após o prazo de 15 dias corridos, nos termos do art. 994, inciso VI, c/c os arts. 1.003, § 5º e 1.029, todos do CPC, bem como do art. 798, do CPP.
+2. No processo penal, iniciado o prazo recursal, seu curso não se interrompe ou se suspende em decorrência de feriado ou suspensão de expediente forense, exceto se coincidir com o termo final, hipótese em que será prorrogado para o primeiro dia útil seguinte.
+3. É firme a jurisprudência desta Corte Superior no sentido de que a juntada de documento apto a comprovar a ocorrência, no âmbito do Tribunal local, de fatos aptos a ensejar a prorrogação dos prazos processuais - como feriados locais, suspensão do expediente forense ou indisponibilidade do sistema de peticionamento eletrônico - deve se dar no momento da interposição do recurso, para fins de aferição da respectiva tempestividade, consoante disposto no art. 1.003, § 6º, do CPC/2015.
+4. No caso concreto, o termo inicial do prazo recursal deu-se em 14.12.2023 e o final 8.1.2024 (primeiro dia útil depois do recesso forense), contudo, a petição do recurso especial somente foi protocolada em 1º.2.2024.
+5. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+É firme a jurisprudência desta Corte Superior no sentido de que a juntada de documento apto a comprovar a ocorrência, no âmbito do Tribunal local, de fatos aptos a ensejar a prorrogação dos prazos processuais - como feriados locais, suspensão do expediente forense ou indisponibilidade do sistema de peticionamento eletrônico - deve se dar no momento da interposição do recurso, para fins de aferição da respectiva tempestividade, consoante disposto no art. 1.003, § 6º, do CPC/2015 (ut, AgRg no AREsp n. 2.589.742/SP, desta Relatoria, DJe de 13/8/2024.)
+Ainda nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. AUSENCIA DE COMPROVAÇÃO DE FERIADO LOCAL NO MOMENTO DA INTERPOSIÇÃO DO RECURSO.
+1. É intempestivo recurso interposto fora do prazo de 15 dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil 2. Nos termos da jurisprudência desta Corte, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso.
+3. A certidão de tempestividade do Tribunal de origem é documento idôneo apto a comprovar a ocorrência de feriado local ou a suspensão do expediente forense, contudo deve ser colacionado aos autos no momento da interposição do recurso especial, para fins de aferição da tempestividade do recurso, a teor do que dispõe o artigo 1.003, § 6º, do CPC.
+Agravo interno improvido. (AgInt no AREsp n. 2.467.126/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 8/4/2024, DJe de 12/4/2024.)
+No presente caso, a defesa não juntou no momento da interposição do recurso especial, documento idôneo para comprovar a suspensão dos prazos.
+De toda forma, registre-se que a Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento dos Embargos de Divergência 998.128/MG, firmou o entendimento de que, à luz dos princípios da adequação, da razoabilidade e da proporcionalidade, em se tratando de delito punível com reclusão, é facultado ao magistrado a escolha do tratamento mais adequado ao inimputável, nos termos do art. 97 do Código Penal, não devendo ser considerada a natureza da pena privativa de liberdade aplicável, mas sim a periculosidade do agente.
+Exatamente como no presente caso, em que ficou anotado no acórdão estadual às e-STJ fls. 209/210 que "a solução dada em primeiro grau é a que melhor se adequa ao acentuado grau de periculosidade do agente e à concreta gravidade da infração penal cometida, especialmente em razão da proeminente violência empregada e peculiaridade da lesão suportada pela vítima ("fratura de mão esquerda em consolidação" - fls. 35/36), quadro inconciliável com tratamento ambulatorial claramente inócuo e incapaz de atingir os objetivos da medida de segurança voltados ao tratamento e à proteção da sociedade (com escopos preventivo e curativo), evitando-se novos malfeitos por pessoa que, à esmo ou gratuitamente, volta-se contra pessoas aleatórias vistas em "seu caminho", comportamento a denotar real riscos de convivência com seus semelhantes."
+Em reforço, destaca-se que há na sentença de e-STJ fls. 161/165 a informação de que o recorrente agredira a vítima outras duas vezes, no anos de 2014 e 2015.
+Rever o posicionamento adotado pelas instâncias ordinárias, acerca da gravidade concreta do caso, demandaria, de forma inequívoca, o reexame do acervo fático-probatório dos autos, o que é inviável na via do recurso especial. Incidência da Súmula n. 7 do STJ. A propósito: AgRg no HC n. 635.865/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25/2/2022.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
