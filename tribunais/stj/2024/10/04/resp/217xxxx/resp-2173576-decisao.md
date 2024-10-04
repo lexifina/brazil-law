@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso especial interposto por GEOVA MANOEL DA SILVA com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS em julgamento da Apelação Criminal n. 700568-41.2020.8.02.0034.
+Consta dos autos que o recorrente foi condenado pela prática delitiva constante do art. 33 da Lei n. 11.343/2006, fixando-se a reprimenda privativa de liberdade em 05 anos de reclusão a ser cumprida em regime semiaberto, e a pena de multa em 500 dias-multa (fl. 261).
+Recurso de apelação interposto pela defesa foi parcialmente provido para redimensionar a pena para 04 anos e 02 meses de reclusão e a pena de multa para 483 dias-multa (fl. 267).
+Embargos de declaração opostos pela defesa foram rejeitados (fl. 299).
+Em sede de recurso especial (fls. 275/280), a defesa apontou violação aos arts. 619 do CPP e 1.022, II, do novo CPC, pois o TJ foi omisso, especialmente no tocante à escolha do índice mínimo de redução (tráfico privilegiado) sem nenhuma motivação. Aduziu que violou também o art. 33, § 4º, da Lei n. 11.343/2006 pelas mesmas razões, sustentando que o recorrente faz jus à redução máxima (2/3) porque todas as circunstâncias judiciais foram reconhecidas como neutras ou favoráveis e a natureza e quantidade da droga, igualmente, foi considerada neutra pelo magistrado de primeiro grau.
+Requer a aplicação do índice máximo de redução de pena pelo tráfico privilegiado.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS (fls. 314/316).
+Admitido o recurso no TJ (fls. 339/341), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do recurso especial (fls. 355/360).
+É o relatório.
+Decido.
+De fato, após ter sido reconhecida a figura do tráfico privilegiado em favor do recorrente, este opôs embargos declaratórios para ver esclarecida a fração aplicada sob este enfoque, considerando que as circunstâncias judiciais foram reconhecidas como neutras ou favoráveis e a natureza e a quantidade da droga também.
+Sobre essa questão, o TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS manteve-se silente, aduzindo que o recorrente pretendia rediscutir o julgado e que não haveriam vícios a serem sanados.
+Destarte, merece reproche o aresto hostilizado, sob a ótica de violação ao art. 619 do CPP, para que o Tribunal de Justiça analise novamente a medida integrativa a fim de sanar a referida omissão. No sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OCORRÊNCIA DE OMISSÃO. EXECUÇÃO. POSSÍVEL INTERRUPÇÃO DA PRESCRIÇÃO. EXECUÇÃO COLETIVA. DEVOLUÇÃO DA MATÉRIA AO TRIBUNAL DE ORIGEM. OFENSA AO ART. 535 DO CÓDIGO DE PROCESSO CIVIL. NECESSIDADE DE NOVA APRECIAÇÃO DA MEDIDA INTEGRATIVA. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. A matéria que se pugna por análise não foi solvida pela Corte originária, ocorre que foi levantada nos embargos de declaração opostos naquele Tribunal, que restaram rejeitados. Nas razões do recurso especial, os ora embargantes alegaram violação ao art. 535, II, do Código de Processo Civil - CPC, a fim de que tal desiderato pudesse ser devolvido para apreciação da Corte a quo. Desse modo e em razão do acórdão não apresentar dados suficientes para a contagem do prazo prescricional, os autos devem retornar à origem, para que, sob tal perspectiva, seja reexaminada a ocorrência de prescrição, prosseguindo, se for o caso, no julgamento da execução.
+Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao recurso especial e cassar o acórdão proferido pelo Tribunal Regional Federal da 4ª Região em sede de embargos de declaração, determinando nova apreciação da medida integrativa.
+(EDcl no AgRg no REsp n. 1.160.561/PR, relator Ministro Ericson Maranho (Desembargador Convocado do Tj/sp), Sexta Turma, julgado em 2/6/2015, DJe de 11/6/2015.)
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para cassar o acórdão proferido pelo Tribunal de Justiça em sede de embargos de declaração, determinando nova apreciação da medida integrativa.
+Publique-se. Intimem-se.
+EMENTA
