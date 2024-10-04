@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo de LUCIANO EDUARDO DE RESENDE contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJMG que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento da Apelação Criminal n. 1.0625.16.007038-31001.
+Consta dos autos que o agravante foi condenado pela prática dos delitos tipificados no art. 38, caput, da Lei n. 9.605/1998 (destruir ou danificar floresta considerada de preservação permanente, mesmo que em formação, ou utilizá-la com infringência das normas de proteção) e no art. 50, I, da Lei n. 6.766/1979 (dar início, de qualquer modo, ou efetuar loteamento ou desmembramento do solo para fins urbanos, sem autorização do órgão público competente, ou em desacordo com as disposições desta Lei ou das normas pertinentes do Distrito Federal, Estados e Municípios), na forma do art. 69 do Código Penal - CP, às penas de 2 anos de detenção e 3 anos de reclusão, em regime inicial semiaberto (fls. 251/255).
+Recurso de apelação interposto pela defesa foi provido para acolher a preliminar de cerceamento de defesa, a fim de declarar a nulidade do processo a partir do recebimento da denúncia, com fulcro no art. 564, inciso IV, do Código de Processo Penal - CPP, e determinar que o réu seja intimado a apresentar resposta à acusação (fl. 366). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL - PRELIMINAR APRESENTADA EM CONTRARRAZÕES - INTEMPESTIVIDADE DAS RAZÕES RECURSAIS - MERA IRREGULARIDADE - PRELIMINAR REJEITADA. PRELIMINAR DEFENSIVA - RESPOSTA À ACUSAÇÃO NÃO APRESENTADA - PEÇA INDISPENSÁVEL À VALIDADE DO PROCESSO - CERCEAMENTO DE DEFESA CARACTERIZADO - NULIDADE RECONHECIDA - RECURSO PROVIDO. REJEITAR A PRELIMINAR MINISTERIAL APRESENTADA EM CONTRARRAZOES E ACOLHER A PRELIMINAR DEFENSIVA DE CERCEAMENTO DE DEFESA. 1. Interposto o recurso tempestivamente, a apresentação extemporânea das razões constitui mera irregularidade. 2. O prosseguimento do feito, sem a apresentação da resposta à acusação, peça indispensável à validade do processo, configura patente afronta aos princípios constitucionais do devido processo legal, da ampla defesa e do contraditório" (fl. 360).
+Embargos de declaração opostos pela defesa foram acolhidos para declarar extinta a punibilidade do agravante em relação ao delito tipificado no art. 38, caput, da Lei n. 9.605/1998 (destruir ou danificar floresta considerada de preservação permanente, mesmo que em formação, ou utilizá-la com infringência das normas de proteção) (fl. 388). O acórdão ficou assim resumido:
+"EMBARGOS DE DECLARAÇÃO CRIMINAL - PRESCRIÇÃO - OCORRÊNCIA - EMBARGOS DE DECLARAÇÃO ACOLHIDOS. Constatado que entre a data do recebimento da denúncia e o presente julgamento transcorreu prazo superior ao lapso prescricional determinado pela pena aplicada, deve ser declarada extinta a punibilidade do réu" (fl. 386).
+Em recurso especial (fls. 397/411), a defesa apontou violação ao art. 28-A do CPP, ao fundamento de que não teria sido oportunizada a manifestação do Ministério Público a respeito da possibilidade de Acordo de Não Persecução Penal - ANPP ao acusado. Articulou que o recorrente faria jus ao benefício (primariedade e sem antecedentes criminais) e a Lei n. 13.964/2019 teria entrado em vigor antes da prolação da sentença.
+Requereu a devolução dos autos à origem para oferta do ANPP ao acusado; em caso de não conhecimento do recurso especial, a concessão da ordem de Habeas Corpus de ofício; subsidiariamente, a suspensão do feito até julgamento definitivo do Tema n. 1098 do Superior Tribunal de Justiça - STJ.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAI S (fls. 421/425).
+O recurso especial foi inadmitido no TJ em razão dos óbices das Súmulas n. 283 e 284, ambas do Supremo Tribunal Federal - STF (fls. 428/429).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 476/483)
+Contraminuta do Ministério Público (fl. 487/490).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo conhecimento do agravo para não conhecer do recurso especial (fls. 521/522).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+O recurso especial não supera o juízo de admissibilidade.
+Quanto à alegada violação ao art. 28-A do CPP, verifica-se que, nas razões do recurso especial, a parte não apresentou argumentos para refutar o fundamento do Tribunal a quo consistente em "considerando a nulidade do processo desde o recebimento da inicial acusatória, ficam prejudicadas as demais teses suscitadas pela defesa. Saliente-se que as demais alegações de nulidade consistentes na ausência de oferecimento de acordo de não persecução penal e de suspensão condicional do processo poderão ser suscitadas na resposta a acusação e devidamente analisadas pelo magistrado primevo" (fl. 366).
+Assim, o recurso especial não merece conhecimento quanto ao ponto, pois o recorrente não atacou fundamento autônomo capaz de manter o acórdão recorrido.
+Incidente, na espécie, o óbice da Súmula n. 283 do Supremo Tribunal Federal - STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, citam-se precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO. DOSIMETRIA. QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. SÚMULA N. 283/STF. PRIVILÉGIO DO ART. 155, § 2º, DO CÓDIGO PENAL. RECONHECIMENTO NA FRAÇÃO DE 1/3. VALOR DOS BENS SUBTRAÍDOS. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Tendo consignado a instância ordinária que as vítimas relataram que as grades de proteção da bateria do automóvel foram rompidas para a prática do crime, e não tendo sido tal fundamento autônomo e suficiente para a configuração da referida qualificadora devidamente impugnado nas razões do apelo nobre, incidiu ao caso o óbice da Súmula n. 283 do STF.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 2.013.183/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 222 DO CPP. CARTA PRECATÓRIA. NÃO SUSPENSÃO DA INSTRUÇÃO CRIMINAL. RESPEITO AO ART. 400 DO CPP. INTERROGATÓRIO COMO ÚLTIMO ATO INSTRUTÓRIO. NULIDADE QUE SE SUJEITA À DEMONSTRAÇÃO DE PREJUÍZO. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. No presente caso, a Corte de origem consignou que sequer houve argumentação de prejuízo efetivo para a instrução. Mesmo que o réu tenha sido interrogado antes do regresso da precatória, prejuízo algum há, pois, como se disse, a carta é para inquirição do policial responsável pela prisão, não de testemunha presencial (e-STJ fls. 564). Ocorre que a parte deixou de atacar o referido fundamento, autônomo e suficiente para manter o julgado, incidindo a Súmula 283 do STF.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.168.397/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/10/2022, DJe de 24/10/2022.)
+No tocante ao pleito de habeas corpus de ofício, salienta-se que, com lastro na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do CPP, esta Corte Superior entende que a concessão da ordem de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência. Todavia, não se vislumbra essa conjuntura na hipótese.
+Com igual conclusão, citam-se precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE DO ART. 33, §4º DA LEI N. 11.343/2006. APLICAÇÃO NA FRAÇÃO MÍNIMA DE 1/6. QUANTIDADE DE ENTORPECENTE APREENDIDO. FUNDAMENTO IDÔNEO PARA MODULAÇÃO. PEDIDO DE PRISÃO DOMICILIAR. INOVAÇÃO RECURSAL. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. Não é viável o pleito para concessão de habeas corpus de ofício. Afinal, a concessão da ordem parte da iniciativa do próprio órgão julgador, quando este detecta ilegalidade flagrante - o que não se vê no caso dos autos -, nos termos do art. 654, § 2º, do CPP.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.466.078/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁF ICO ILÍCITO DE DROGAS. PARECER MINISTERIAL. CARÁTER OPINATIVO. MANIFESTAÇÃO EXPRESSA. DESNECESSIDADE. HABEAS CORPUS DE OFÍCIO. NÃO CONCESSÃO. FUNDAMENTAÇÃO EXAURIENTE. DESNECESSIDADE. SUPOSTA VIOLAÇÃO AO ART. 33, § 4.º, DA LEI N. 11.343/06. TESE DEFENSIVA DE NÃO COMPROVAÇÃO DOS MAUS ANTECEDENTES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF E 356/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Se não houve a concessão de habeas corpus de ofício é porque não se detectou, de plano, a existência de ilegalidade que autorizasse a atuação na forma do art. 654, § 2.º, do Código de Processo Penal. Não é necessário ao Julgador justificar os motivos pelos quais não concedeu ordem de ofício, tendo em vista que essa medida advém de sua atuação própria e não em resposta à postulação das partes.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.217.224/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/9/2023, DJe de 25/9/2023.)
+Ante o exposto, com fundamento no art. 932, III, do Código de Processo Civil, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
