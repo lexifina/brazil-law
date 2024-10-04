@@ -11,3 +11,4 @@ IX - investimento na rede física do SUS, incluindo a execução de obras de rec
 X - remuneração do pessoal ativo da área de saúde em atividade nas ações de que trata este artigo, incluindo os encargos sociais;
 XI - ações de apoio administrativo realizadas pelas instituições públicas do SUS e imprescindíveis à execução das ações e serviços públicos de saúde; e
 XII - gestão do sistema público de saúde e operação de unidades prestadoras de serviços públicos de saúde.
+XIII - custeio e investimento em hospitais universitários federais, inclusive por meio de entidade pública responsável por sua administração, desde que as despesas sejam aprovadas pelo Ministério da Saúde e estejam de acordo com as diretrizes das demais determinações previstas nesta Lei Complementar.
