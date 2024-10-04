@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por NÍDIA CEPELLOS DE SAMPAIO E OUTRO contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 1º/4/2024.
+Concluso ao gabinete em: 1º/7/2024.
+Ação: Cobrança ajuizada pelos agravantes em face de Marisa Cepellos Monticelli.
+Sentença: julgou improcedentes os pedidos iniciais.
+Acórdão: negou provimento à apelação interposta pelos agravantes, conforme ementa a seguir (fl. 2.130):
+APELAÇÃO AÇÃO DE COBRANÇA DESERÇÃO INSUFICIÊNCIA DO PREPARO RECURSAL Inocorrência Recorrentes que recolheram regularmente o preparo recursal na data da distribuição, pelo valor atualizado da causa Preliminar repelida NULIDADE DA SENTENÇA PREJUDICIAL EXTERNA Hipótese em que os recorrentes alegam que a sentença não poderia ter sido proferida quando pendente julgamento em segundo grau de ação de dissolução de sociedade Pedido inicial que se limita à questão da responsabilização da apelada no tocante ao pagamento de despesas da empresa MBC, na proporção de suas cotas sociais (1/3), inexistindo qualquer questão relacionada com a alegada prejudicialidade Não há que se falar em prejudicialidade externa em razão de recurso pendente, no qual a matéria extrapola o pedido dessa demanda, e também não preenchidos os requisitos legais do art. 313 do CPC Preliminar rejeitada MÉRITO Hipótese em que os recorrentes pretendem a responsabilização da apelada pelo pagamento de despesas e impostos, referentes à cota de 1/3 da apela da inerentes aos lotes de terrenos do Jardim Guaporé Existência de sentença judicial em ação de dissolução parcial de sociedade com a retirada da apelada do quadro societário a partir de 19/02/2012 Mesmo que se considere o lapso temporal de 2 anos após a retirada da apelada do quadro social da empresa demandada, isso não atinge mais a responsabilidade da apelada, pois ultrapassado em muito o lapso temporal, já que pelo relato dos próprios autores apelantes, a apelada efetuou pagamento das despesas até outubro de 2018, deixando de fazê-lo a partir de novembro de 2018 Sentença de acerto mantida HONORÁRIOS RECURSAIS Majoração (CPC, art. 85, § 11) Percentual de 15% majorado para 20% Recurso que se nega provimento.
+Dispositivo: negaram provimento ao recurso, majorando-se a verba honorária recursal.
+Embargos de Declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 313, V, e 603, ambos do CPC; 113, 422, 884, 997, VII, 1.001, 1.004 e 1.007, todos do CC. Sustentam o reconhecimento de prejudicialidade externa em relação à ação de dissolução da sociedade empresária e, por conseguinte, a suspensão deste processo.
+Além disso, afirmam que "O afastamento injustificado da responsabilidade da parte recorrida em relação às despesas sociais revela-se, indubitavelmente, como um desvio do propósito legal, ensejando a imposição da obrigação de restituição dos valores indevidamente auferidos" (fl. 2.167).
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+O TJ/SP, ao analisar o recurso interposto pelos agravantes, concluiu o seguinte (e-STJ fls. 2.135-2.138):
+Compulsando os autos, observa-se que o pedido inicial limita-se à questão da responsabilização da apelada no tocante ao pagamento de despesas da empresa MBC, na proporção de suas cotas sociais (1/3), inexistindo qualquer questão relacionada com a alegada prejudicialidade.
+Nem mesmo quando apresentada a réplica (fl. 1.742-1.750) a questão foi suscitada, ou ainda, após a r. sentença, onde poderia ter sido questionado em embargos de declaração, o que não ocorreu.
+Nesse passo, não há que se falar em prejudicialidade externa em razão de recurso pendente, onde a matéria que se discute extrapola o pedido dessa ação e, como se observa, não estão preenchidos os requisitos legais previsto no art. 313 do Código de Processo Civil, mesmo porque essa ação não depende do julgamento da outra demanda relacionada a dissolução parcial de sociedade com apuração de haveres.
+Observa-se que a sentença singular proferida nos autos da dissolução de sociedade (nº 0017722-70.2012.8.26.0602) fixou como data do termo final da responsabilidade da apelada Marisa Capellos Monticelli, 19 de fevereiro de 2012. Assim, ainda que essa data possa ser alterada em eventual acolhimento do recurso de apelação pendente de julgamento neste Tribunal de Justiça, isso não inviabiliza o julgamento dessa ação, porque, caso a data seja alterada, levar-se-á em conta na apuração dos haveres a data definitiva fixada pelo colegiado, em nada prejudicando os apelantes.
+Destarte, rejeita-se a preliminar de nulidade da sentença em razão da alegada prejudicialidade externa.
+ .. .
+Como observado inicialmente pelo i. Julgador, pela ótica da exordial, a princípio, os recorrentes aparentam estar com razão quanto aos pagamentos de despesas relativa aos lotes, na proporção das cotas socias de cada sócio.
+Entretanto, como emerge das provas produzidas sob o crivo do contraditório e da ampla defesa, a apelada conseguiu se desvencilhar do ônus probatório dos fatos impeditivos, modificativos e extintivos do direito dos apelantes (CPC, art. 373, II), na medida em que fora julgada em primeiro grau, a dissolução parcial da sociedade, com a retirada da apelada do quadro societário, a partir de 19 de fevereiro de 2012, conforme consta da r. sentença proferida nos autos de dissolução e liquidação de sociedade, nº 0017722-70.2012.8.26.0602, da E. 4ª Vara Cível de Sorocaba (SP),  .. .
+ .. .
+Nessa r. sentença houve decisão de procedência do pedido subsidiário de dissolução, com a retirada da apelada do quadro societário e determinação de pagamento de haveres em valor nominal de R$ 9.930.373,46, a ser atualizado.
+Ainda que os recorrentes afirmem que a apelada não efetuou pagamentos a partir de novembro de 2018, não se pode desconsiderar que há uma sentença judicial reconhecendo a retirada da apelada, Marisa Cepellos Monticell, do quadro social da empresa MBC Empreendimentos Imobiliários Ltda., desde 19 de fevereiro de 2012.
+Mesmo que se considere o lapso temporal de dois anos após a retirada da apelada do quadro social da empresa demandada, isso não atinge a apelada, pois ultrapassado em muito o lapso temporal. Do relato dos autores apelantes, sabe-se que a apelada efetuou pagamento das despesas até outubro de 2018, deixando de fazê-lo a partir de novembro de 2018.
+Nesse compasso, não há como se imputar qualquer responsabilidade à apelada pelo pagamento de eventuais obrigações de despesas de IPTU e conservação dos bens imóveis e rotina administrativa.
+Observa-se que embora os apelantes aleguem que a empresa não possui receitas, não presta serviços, não pratica atos comerciais, não possui empregados, não emite notas fiscais, tendo sido constituída apenas para ser proprietária dos lotes indicados, a tese não convence, diante da continuidade da atividade, possuindo ainda, capital social integralizado.
+Diante desse quadro probatório, não há como se imputar qualquer responsabilidade à apelada pelo pagamento das despesas requeridas, tal como delimitado pela r. sentença singular, que deve ser mantida, em razão do seu acerto.
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de Cobrança.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
