@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus impetrado por JOSÉ VICTOR FELIX SABINO apontando como autoridade coatora o Juízo da 2ª Vara Mista da Comarca de Piancó, do Tribunal de Justiça da Paraíba.
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 4 meses de reclusão, a ser cumprida inicialmente em regime fechado, pelo crime de roubo majorado, tipificado no artigo 157, § 2º, inciso II, do Código Penal, em razão do concurso de pessoas.
+A defesa sustenta, em síntese, a insuficiência de provas quanto à autoria atribuída ao paciente, destacando a irregularidade do reconhecimento realizado pela vítima, em desconformidade com o artigo 226 do Código de Processo Penal, o que compromete a validade do ato. Alega que tal prova não pode embasar uma condenação nos moldes em que foi realizada. Ressalta que o corréu isentou o paciente de qualquer participação nos fatos, reforçando a tese de negativa de autoria. Destaca que condenação, portanto, violaria o princípio do in dubio pro reo. Defende, ainda, a desproporcionalidade da fixação do regime fechado, dado que o paciente é primário e possui bons antecedentes, sendo cabível o regime semiaberto.
+Ao final, requer a concessão da ordem para a absolvição do paciente, com fundamento na insuficiência de provas quanto à autoria, nos termos do artigo 386, inciso VII, do Código de Processo Penal. Subsidiariamente, caso não seja acolhido o pedido de absolvição, requer a readequação do regime de cumprimento de pena para o semiaberto e a substituição da pena privativa de liberdade por restritivas de direitos, conforme previsto no artigo 44 do Código Penal.
+É o relatório.
+Decido.
+Nos termos do artigo 105, inciso I, alínea "c", da Constituição Federal, não se admite a impetração de habeas corpus diretamente perante o Superior Tribunal de Justiça contra ato emanado de juízo de primeira instância. A competência desta Corte Superior para o conhecimento de habeas corpus limita-se a decisões proferidas por tribunais ou autoridades equivalentes, não abrangendo, portanto, atos de magistrados de primeiro grau.
+Eventual insurgência contra decisão de juízo de primeira instância deve ser dirigida ao Tribunal competente, seja por meio de recurso próprio ou de habeas corpus impetrado em instância ordinária.
+Diante do exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
