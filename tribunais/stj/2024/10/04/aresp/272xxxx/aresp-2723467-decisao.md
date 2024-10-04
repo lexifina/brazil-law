@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ESTADO DA PARAÍBA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+PROCESSUAL CIVIL E TRIBUTÁRIO - APELAÇÃO CÍVEL - ICMS - DIFERENCIAL DE ALÍQUOTA - AUTO DE INFLAÇÃO - PENALIDADE - INSURGÊNCIA - EMPRESA OPTANTE PELO SIMPLES NACIONAL - AQUISIÇÃO DE MÁQUINA DE EQUIPAMENTO PARA USO INTERNO - CONSUMIDORA FINAL - CONTRIBUINTE DO TRIBUTO - NÃO QUALIFICAÇÃO - DESCONSTITUIÇÃO DE ALEGAÇÃO NÃO OCORRIDA PELA FAZENDA ESTADUAL - REFORMA DA SENTENÇA - PROVIMENTO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 927, III, do CPC, no que concerne à nulidade do acórdão recorrido, porquanto deixou de aplicar entendimento firmado em julgamento de demandas repetitivas encampado no Tema n. 517 do STF, que declarou a constitucionalidade da imposição tributária do DIFAL de ICMS à empresa optante pelo Simples Nacional, independentemente da sua posição na cadeia negocial, trazendo a seguinte argumentação:
+Inicialmente, cumpre destacar que o acórdão recorrido deixou de observar entendimento firmado em julgamento de demandas repetitivas, conforme determinado no art. 927, inciso III do CPC.
+É dizer: o r. acórdão não observa a tese firmada no Tema 517 do STF, que declarou a constitucionalidade da imposição tributária do DIFAL de ICMS à empresa optante pelo Simples Nacional, entendimento este aplicável ao caso sob julgamento.
+Nesse sentido, a simples leitura do acórdão id. 20049365 permite verificar a negativa da decisão recorrida no que se refere à aplicação/observância do entendi- mento firmado no Tema 517 do STF:
+ ..
+O argumento de que a embargada é consumidora final e que a contribuinte seria a empresa remetente do produto, invocado na decisão recorrida como razão de decidir, não afasta a incidência do disposto no referido Tema 517, tendo em vista que a tese nele firmada é no sentido de que o contribuinte do SIMPLES está sujeito ao recolhimento do DIFAL-ICMS independentemente de sua posição na cadeia negocial:
+ ..
+É exatamente nesse ponto que reside o erro de julgamento ensejador da reforma ora pretendida, tendo em vista que (i) o caso concreto se amolda à hipótese prevista no tema 517 (Cobrança DIFAL-ICMS do optante do SIMPLES); e (ii) a decisão contraria o referido precedente vinculante, em inegável violação do disposto no art. 927, III do CPC (fls. 331-332).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+No caso dos autos, compreende-se que a empresa apelante alegou que a motivação da ação fiscal foi a compra de uma máquina enchedora, constante da NF nº 202130, havendo indevida cobrança de diferencial de alíquota para ela.
+Desse modo, caberia ao ente público recorrente demonstrar que o produto objeto da autuação fiscal não fazia parte de ativo fixo da empresa litigante, de modo que esta pudesse ser considerada contribuinte de ICMS, e não consumidora final, para pagar a diferença de alíquota.
+Quando o produto é utilizado em cadeia de produção da empresa, esta se qualifica como contribuinte de ICMS, pagando a diferença entre alíquotas interestaduais de produto adquirido em outro ente da federação.
+Entretanto, na hipótese de consumidora final, é a empresa remetente do produto que se qualifica como contribuinte pelo imposto, pela alíquota interna (art. 155, VII, B, da CF), descabendo o pagamento de diferença de alíquota pela empresa destinatária, consumidora final, que não se qualifica como contribuinte (fl. 278).
+Da análise dos autos, percebe-se que há fundamento constitucional autônomo no acórdão recorrido e não houve interposição do devido recurso ao Supremo Tribunal Federal.
+Aplicável, portanto, o óbice da Súmula n. 126/STJ, uma vez que é imprescindível a interposição de recurso extraordinário quando o acórdão recorrido possui, além de fundamento infraconstitucional, fundamento de natureza constitucional suficiente por si só para a manutenção do julgado.
+Nesse sentido: " ..  firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário. A existência de fundamento constitucional autônomo não atacado por meio de Recurso Extraordinário enseja aplicação do óbice contido na Súmula 126/STJ". (AgInt no AREsp 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020.)
+Confiram-se ainda os seguintes precedentes: REsp 1.684.690/SP, Rel. Ministro Herman Benjamin, Primeira Seção, DJe de 16/4/2019; AgRg no REsp 1.850.902/MT, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 29/6/2020; REsp 1.644.269/RS, Rel. Ministro Og Fernandes, Segunda Turma, Dje de 7/8/2020; AgRg no REsp 1.855.895/SC, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; AgInt no AREsp 1.567.236/SC, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 4/6/2020; AgInt no AREsp 1.627.369/PE, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
