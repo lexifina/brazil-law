@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos à decisão monocrática que conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento.
+A parte embargante alega omissão "quanto ao argumento de existência de dissídio jurisprudencial sobre a previsão do Aviso de Miranda no ordenamento jurídico pátrio e sobre a obrigatoriedade de sua observância" (e-STJ fl. 698).
+Impugnação apresentada.
+É o relatório. Decido.
+Acerca da confissão extrajudicial, o Tribunal de Justiça assim decidiu (e-STJ fls. 434-436):
+Ora, não há nenhuma regra no Ordenamento Jurídico pátrio e nem mesmo no dispositivo constitucional invocado pela defesa, que impeça que o preso em flagrante, no calor de sua prisão, acabe por "confessar" a prática delitiva ao policial, bem como que o destinatário da confissão informe sobre tal fato, por possuir relevância jurídico-probatória.
+O dever do Estado a que se refere a defesa - de informar ao preso seus direitos, entre eles o de permanecer calado - conforme previsto no artigo 5º, inciso LXIII, CF/88, não recai, necessariamente, sobre o momento em que a prisão é materialmente realizada, mas sobre o momento em que ela é formalmente reconhecida como válida, isto é, no momento de sua ratificação pela autoridade policial, à luz do artigo 306, § 2º, do CPP.
+Mesmo porque, no momento em que o acusado é preso, é natural que os policiais lhe perguntem sobre a autoria do delito, até mesmo para evitar uma prisão arbitrária e para permitir diligências complementares que podem ser propiciadas a partir das informações fornecidas pelo próprio suspeito, quando este deseja de alguma forma colaborar com a apuração dos fatos.
+E, ainda que a questão não pudesse ser solucionada dessa forma, constata-se que o acusado, mesmo após ser cientificado de seu direito de permanecer calado, na delegacia, o acusado confessou o delito, de forma que a confissão informal alegada pela defesa acabou sendo formalizada pelo próprio réu, em seu depoimento perante a autoridade policial.
+De mais a mais, nesse sentido, este eg. TJMG já considerou válida a chamada confissão informal, inclusive como elemento de prova para uma condenação, quando em consonância com as demais provas coligidas aos autos:  ..
+Dessa forma, não há que se falar em ilicitude da prova consistente na confissão informal do acusado aos policiais no momento de sua prisão em flagrante.
+Como se observa, além de não estar provado o argumento defensivo, consignou-se que o agente foi cientificado de seus direitos e garantias constitucionais na delegacia (e-STJ fl. 15) e, mesmo assim, optou por confessar o delito, após ser preso em flagrante e reconhecido pela vítima, ou seja, a suposta nulidade nem sequer causou prejuízo à defesa.
+Ademais, o entendimento do acórdão reflete a jurisprudência desta Corte Superior no sentido de que "a legislação processual penal não exige que os policiais, no momento da abordagem, cientifiquem o abordado quanto ao seu direito em permanecer em silêncio (Aviso de Miranda), uma vez que tal prática somente é exigida nos interrogatórios policial e judicial (AgRg no HC n. 809.283/GO, DE MINHA RELATORIA, Quinta Turma, julgado em 22/5/2023, DJe de 24/5/2023)" (AgRg no HC n. 936.949/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/8/2024, DJe de 3/9/2024).
+Por fim, a questão subsequente, que diz respeito à suficiência probatória para o decreto condenatório, constou da decisão embargada, sendo defeso a rediscussão do decidido nos embargos de declaração.
+Ante o exposto, acolho os embargos para sanar omissão, sem efeitos infringentes.
+Publique-se. Intimem-se.
+EMENTA
