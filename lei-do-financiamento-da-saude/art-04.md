@@ -9,3 +9,4 @@ VII - preservação e correção do meio ambiente, realizadas pelos órgãos de 
 VIII - ações de assistência social;
 IX - obras de infraestrutura, ainda que realizadas para beneficiar direta ou indiretamente a rede de saúde; e
 X - ações e serviços públicos de saúde custeados com recursos distintos dos especificados na base de cálculo definida nesta Lei Complementar ou vinculados a fundos específicos distintos daqueles da saúde.
+XI - remuneração de pessoal ativo e inativo dos hospitais universitários federais ou de entidade pública responsável por sua administração.
