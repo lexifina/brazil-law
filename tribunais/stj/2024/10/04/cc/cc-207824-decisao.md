@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o Juízo da Vara do Trabalho de Guarabira/PB (suscitante) e o Juízo de Direito da Vara Única de Alagoinha/PB (suscitado), nos autos de ação ajuizada por Maria Jose Barbosa da Silva contra o Sindicato Nacional Dos Aposentados, Pensionistas e Idosos da Força Sindical (SINDNAPI) , com o objetivo de ver declarada inexistência vínculo contratual e, por via de consequência, repetição do indébito e reparação por danos, sob alegação de descontos sem prévia autorização no seu benefício previdenciário.
+O Juízo de Direito estadual declinou da sua competência por entender que "O Plenário do STF decidiu no julgamento do Conflito de Competência nº 7.221 que, após a promulgação da Emenda Constitucional nº 45/04, compete à Justiça Laboral processar e julgar as ações em que se questionam a cobrança de contribuição sindical, ressalvados os processos que já estavam em trâmite na Justiça Comum e que já tivesse sido prolatada sentença de mérito" (e-STJ, fl. 24).
+O Juízo trabalhista também declarou sua incompetência, suscitando conflito sob os seguintes fundamentos (e-STJ, fl. 115):
+Curvando-se este Juízo ao entendimento jurisprudencial dominante no Superior Tribunal de Justiça a respeito da falta de competência desta Justiça do Trabalho para decidir questões atinentes à cessação e devolução de descontos ilícitos e danos morais pleiteados por terceiros alheios a uma relação de trabalho, decide-se declarar a incompetência desta Justiça do Trabalho para conhecer e dirimir o litígio.
+O Ministério Público Federal se manifestou pelo prosseguimento do feito, sem opinião meritória (e-STJ, fls. 130-132).
+Brevemente relatado, decido.
+A controvérsia diz respeito à competência para exame e julgamento de ação decorrente de desconto em benefício previdenciário da parte autora, para contribuição em favor da requerida, sem a devida autorização.
+A petição inicial demonstra que os pedidos decorrem de supostos descontos em desconformidade com o Código Civil e Código de Defesa do Consumidor, inexistindo controvérsia sobre relação trabalhista (STJ, fls. 6-11).
+Considerando que a competência para o julgamento da demanda define-se pelo pedido e causa de pedir, impõe-se reconhecer a natureza eminentemente civil da controvérsia estabelecida no conflito, pois não se identifica debate sobre matéria trabalhista o u sindical, o que evidencia a competência da Justiça Comum para o processamento e julgamento da demanda
+Ante o exposto, conheço do conflito para declarar competente do Juízo de Direito da Vara Única de Alagoinha/PB (suscitado).
+Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. DANOS DECORRENTES DE DESCONTO INDEVIDO DE CONTRIBUIÇÃO ASSOCIATIVA EM BENEFÍCIO PREVIDENCIÁRIO. MATÉRIA EMINENTEMENTE CIVIL. COMPETÊNCIA DA JUSTIÇA COMUM. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITADO.
