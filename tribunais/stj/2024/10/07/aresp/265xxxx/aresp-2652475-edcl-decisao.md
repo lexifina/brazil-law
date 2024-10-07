@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por MARIO LUCIO ZAGO JUNIOR à decisão de fls. 529/530, que não conheceu do recurso.
+Sustenta a parte embargante:
+1.1. Guardada a devida venia, na decisão proferida pela i. Ministra Relatora que não conheceu o recurso interposto em virtude de suposta ausência de comprovação do pagamento do preparo, houve omissão em relação ao fato de que o ora embargante realizou efetivamente o pagamento do preparo em momento oportuno, ou seja, no prazo.
+ ..
+1.3. Diante disso, o agravante, regularmente, realizou o pagamento da guia de custas referente ao preparo recursal e, muito embora o comprovante inicialmente acostado aos autos às fls. 481 não se apresentasse por completo, ainda assim havia comprovação de seu pagamento a tempo e, ainda, em segunda oportunidade houve a sua juntada por completo.
+1.4. Assim, muito embora tenha havido falha na ausência do código de barras, houve o recolhimento do preparo e, quando intimado, houve a comprovação de que o embargante recolheu, em momento correto, o valor total devido.
+1.5. Ademais, o documento acostado às fls. 481 possui claramente o ID da transação, qual seja, 6236ACD294838007808A9CCD72A2FBFD1D2C511D, tendo isso em vista, não se pode afirmar pela impossibilidade de comprovação do pagamento.
+1.6. Diante disso, o comprovante de fls. 523/525 somente reforça a ocorrência do pagamento em momento oportuno e, consequentemente, a desnecessidade de pagamento em dobro contido no art. 1.007, §4º, do CPC.
+1.7. Desta feita, forçoso concluir que houve o recolhimento do preparo em momento oportuno e o seu não conhecimento afronta diretamente o princípio do acesso à justiça contido no art. 5º, XXXV, da Constituição Federal.
+ ..
+1.11. Isto posto, entende-se pela omissão no julgamento, tendo em vista que possibilitada a conferência do pagamento do preparo e, quando intimado, o embargante demonstrou que realizou, de fato, o pagamento antes de sua interposição, portanto, plenamente válido o preparo.
+1.12. Motivo pelo qual não pode ser penalizado por excesso de formalismo, o qual a lei não prevê e, sobretudo, quando cumprido em momento oportuno requisito processual para o conhecimento do recurso (fls. 533/539).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, conforme já consignado na decisão ora embargada, que a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+Observe-se que o documento de fl. 481 não se trata de efetivo comprovante de pagamento, apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não há como verificar se diz respeito à guia de recolhimento relativa a este processo (fl. 480), pois não consta o respectivo código de barras.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22.6.2020; e AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23.6.2020.Ademais, esta Corte consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial e, portanto, sua deserção".(AgInt no AREsp 1449432/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12.5.2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo no comprovante de pagamento, viabilizando-se a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Assim, conclui-se que a comprovação do recolhimento das custas só é possível com a juntada concomitante da guia de recolhimento corretamente preenchida e do comprovante de pagamento válido, em que conste a sequência numérica do código de barras.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, porquanto se limitou a apresentar às fls. 523/525 o comprovante de pagamento referente à guia anteriormente apresentada, sem, contudo, realizar o recolhimento em dobro, nos termos do art. 1.007, § 4º do CPC.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizaria m a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
