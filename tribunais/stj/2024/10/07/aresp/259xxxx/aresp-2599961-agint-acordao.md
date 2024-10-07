@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA LEGALIDADE DO REDIRECIONAMENTO DA EXECUÇÃO FISCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+3. Agravo  interno  desprovido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por REGINA MARIA CALLUF contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial,  para conhecer em parte o recurso especial e negar-lhe provimento.
+Argumenta  a  parte agravante,  em  síntese,  que: (a) "a matéria em exame NÃO foi enfrentada pelo Tribunal de origem, o que motivou a interposição dos Embargos de Declaração, pois independentemente de se pronunciar em sentido favorável ou desfavorável à pretensão da agravante, fato é que a decisão recorrida não está fundamentada" (fl. 257); (b) "a análise objetivada situação concreta versada nos autos (o que não se confunde com reexame de fatos e provas), qual seja, a ilegalidade do redirecionamento da execução fiscal, é o que efetivamente motiva o Recurso Especial em questão, por meio do qual se busca a correta aplicação das normas de lei federal violadas" (fl. 258).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Não houve impugnação da parte agravada.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA LEGALIDADE DO REDIRECIONAMENTO DA EXECUÇÃO FISCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+3. Agravo  interno  desprovido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Quanto à alegada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC/2015, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, especialmente quanto à não localização das devedoras no endereço fiscal, porquanto não há omissão, contradição, obscuridade ou erro material.
+A propósito, conforme jurisprudência:
+Não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016  (AgInt no AREsp 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+Melhor sorte não socorre à recorrente quanto à alegação de ilegalidade no redirecionamento da execução fiscal. Isso porque o Tribunal de origem, após análise dos elementos fáticos que compõe os autos, entendeu expressamente que:
+ ..  os documentos juntados aos autos, em especial a certidão do oficial de justiça, em que constata a não localização das devedoras no endereço fiscal, demonstram que as empresas executadas não estão desenvolvendo suas atividades empresariais no domicílio fiscal (fl. 93-94).
+Dessa forma, não há reparo a ser feito. Conforme assentado previamente na decisão combatida, a alteração da conclusão do Tribunal a quo ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. REDIRECIONAMENTO. POSSIBILIDADE. INDÍCIOS DE DISSOLUÇÃO IRREGULAR. CERTIDÃO DE OFICIAL DE JUSTIÇA ATESTANDO QUE A EMPRESA NÃO FUNCIONA NOS ENDEREÇOS CONSTANTES NA JUNTA COMERCIAL. SÚMULA N. 435/STJ. CONCLUSÃO DO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. A dissolução irregular da pessoa jurídica devedora constatada por meio de certidão do oficial de justiça em que atestado o encerramento das atividades no endereço informado é causa suficiente para o redirecionamento da execução fiscal em desfavor do sócio-gerente. Inteligência da Súmula n. 435 do STJ (AgInt no AREsp n. 1.832.978/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/9/2022, DJe de 3/10/2022).
+2. Não é possível reformar acórdão que entendeu haver presunção de dissolução irregular da sociedade, em razão de a empresa não funcionar no endereço constante na Junta Comercial. Nesse ponto, modificar a presunção de dissolução irregular demandaria o reexame de matéria fático-probatória, o que não e permitido, por óbice da Súmula n. 7 do STJ.
+Agravo interno improvido (AgInt no AREsp n. 2.101.929/RJ, relator Ministro Humberto Martins, Segunda Turma, julgado em 17/4/2023, DJe de 19/4/2023).
+Isso posto, nego provimento ao recurso.
