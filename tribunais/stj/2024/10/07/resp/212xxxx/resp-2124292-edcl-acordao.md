@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do art. 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão recorrida.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende a parte embargante.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por SINDIRETA/DF contra acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça, que negou provimento ao agravo interno no recurso especial, consoante a seguinte ementa (fls. 649-650):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. COMPENSAÇÃO DE REAJUSTES. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. ANÁLISE DE DIREITO LOCAL. SÚMULA 280/STF.
+1. A parte recorrente sustenta que os arts. 489 e 1.022, II, do CPC foram violados, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado, apenas suscitando que alguns dispositivos legais não teriam sido apreciados. Assim, é inviável o conhecimento do Recurso Especial, nesse ponto, ante o óbice da Súmula 284/STF.
+2. A Corte distrital decidiu: "a ausência de compensação, conforme pretendido, implicaria a concessão de duplicidade de recomposição, resultando em bis in idem. Dessa forma, a pretensão do agravante e de seus substituídos ao pagamento das diferenças salariais havidas pelo Plano Collor deve ser precedida da dedução dos reajustes concedidos com a finalidade de restabelecer os vencimentos dos servidores. Podem ser citadas diversas normas que, assim como os reajustes salariais decorrentes da Lei 38/89, também tiveram por objeto recompor a remuneração dos servidores proporcionalmente à inflação apurada no período, finalidade também visada pelas leis que concederam reajustes salariais na sequência. Cita-se, por exemplo, o Decreto nº 12.947/90, que assegurara a todos os servidores do DF, inclusive autarquias, reajuste de 81%; a Lei Distrital nº 159, de 16 de agosto de 1991, que reajustara em 20% os salários dos servidores do DF, incluindo suas autarquias; Lei nº 197, de 4 de dezembro de 1991, que concedera aumento de 30% sobre os vencimentos dos servidores; Lei nº 256, de 24 de abril de 1992, a qual concedera reajustes de 30%, a partir de 1º de abril de 1992; 55%, a partir de 1º de maio de 1992; 80%, a partir de 1º de junho de 1992; Lei nº 306, de 09 de setembro de 1992, que concedera reajuste de 20%, além de outros diplomas legislativos. Assim, não se afigura razoável se admitir a incorporação às remunerações dos servidor es de reajustes, com o mesmo fato gerador, porquanto os reajustes concedidos posteriormente compensaram as perdas provocadas pela inflação passada. Ora, consubstancia verdadeiro truismo que a finalidade precípua dos reajustes concedidos às categorias profissionais é compensar as perdas decorrentes da inflação. Dessa forma, considerando que os percentuais de inflação verificados durante a vigência da Lei 38/89 foram absorvidos pelos reajustes posteriores, é perfeitamente admissível a compensação, sob pena de se configurar evidente bis in idem, na medida em que o Poder Público se veria obrigado a pagar retroativamente aos autores todas as perdas salariais decorrentes do Plano Collor, as quais já foram recompostas e abarcadas por leis posteriores.. Assim, as referidas leis instituidoras de reajustes salariais tiveram por finalidade justamente compensar perdas decorrentes de planos econômicos, não sendo razoável se admitir o desvirtuamento do instituto, gerando acréscimo patrimonial que extrapole a simples recomposição" (fls. 378-404).
+3. A revisão de tal conclusão demanda reexame de fatos e provas, o que é inadmissível na via especial, ante o óbice da Súmula 7/STJ. Afasta-se, assim, a ideia de simples revaloração jurídica.
+4. A lide em questão remete à análise de direito local, o que torna incabível a via recursal especial para rediscussão da matéria ante a incidência, por analogia, da Súmula 280/STF.
+5. Agravo Interno não provido.
+Alega a embargante que "observa-se omissão no v. acórdão, pois o decisum recorrido trouxe na sua literalidade os mesmos fundamentos contidos na r. decisão agravada, demonstrando que não foram apreciadas as razões apresentadas pelo embargante no seu recurso de agravo interno" (fl. 667).
+Requer o reconhecimento da pecha, com a consequente reforma do acórdão embargado "no sentido de dar provimento ao agravo interno em ordem a conhecer e prover integralmente o aludido especial" (fl. 671).
+Impugnação da parte embargada às fls. 680-684.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do art. 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão recorrida.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende a parte embargante.
+3. Embargos de declaração rejeitados.
+VOTO
+A pretensão recursal não comporta acolhimento.
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do art. 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+No caso, observa-se que foram analisadas fundamentadamente as questões submetidas a esta Corte, com o exame dos pontos essenciais ao deslinde da controvérsia, de modo que o acórdão embargado não incorreu em quaisquer dos vícios acima mencionados. Confiram-se estes exce rtos (fls. 653-658):
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+A parte recorrente sustenta que os arts. 489 e 1.022, II, do CPC foram violados, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado, apenas suscitando que alguns dispositivos legais não teriam sido apreciados. Assim, é inviável o conhecimento do Recurso Especial, nesse ponto, ante o óbice da Súmula 284/STF. A propósito:
+(..)
+Ao dirimir a controvérsia, o Colegiado originário se manifestou nestes termos (fls. 378-404, e-STJ):
+(..)
+Com efeito, a revisão de tal conclusão demanda reexame de fatos e provas, o que é inadmissível na via especial, ante o óbice da Súmula 7/STJ. Afasta-se, assim, a ideia de simples revaloração jurídica.
+Sobre o tema:
+(..)
+Por fim, a lide em questão remete à análise de direito local, o que torna incabível a via recursal especial para rediscussão da matéria ante a incidência, por analogia, da Súmula 280/STF.
+Com igual entendimento:
+(..)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes, não há prover o Agravo que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
+O recurso aclaratório possui finalidade integrativa e não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme se pretende. Nesse sentido: EDcl no AgInt no AgInt no AREsp n. 1.545.376/SP, rel. Min. Afrânio Vilela, Segunda Turma, DJe de 15/8/2024; EDcl nos EDcl no AgInt no AREsp n. 2.338.340/SE, rel. Min. Teodoro Silva Santos, Segunda Turma, DJe de 23/4/2024 e EDcl no AgInt nos EDcl no AREsp n. 2.436.416/MS, rel. Min. Sérgio Kukina, Primeira Turma, DJe de 15/8/2024.
+Do mesmo modo, é reiterado o entendimento desta Corte Superior de que o julgador não está obrigado a responder um a um todos os argumentos trazidos pelas partes, visando à defesa das teses que apresentaram, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. Nessa linha: AgInt no REsp n. 2.082.059/RS, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 7/3/2024; EDcl no AgInt no AREsp n. 1.891.964/TO, rel. Min. Herman Benjamin, Segunda Turma, DJe de 25/4/2022.
+Por fim, advirto a parte de que a reiteração injustificada dos embargos de declaração, versando sobre o mesmo assunto, acarretará a consideração de que o recurso é manifestamente protelatório, ensejando a imposição da multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
