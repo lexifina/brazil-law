@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. FUNDAMENTOS DA PRISÃO PREVENTIVA.GRANDE QUANTIDADE DE DROGA. RISCO DE REITERAÇÃO DELITIVA.INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - A análise da decisão que decretou a prisão preventiva e da sentença condenatória permitem a conclusão de que a prisão cautelar imposta ao agravante encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da grande quantidade de droga apreendida:554,0 g de haxixe, 885 g de skunk e pelo fato da contumácia delitiva do agravante que inclusive estava com mandado de prisão em aberto.
+III - Conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+IV - Esta Corte Superior de Justiça possui entendimento no sentido de que a manutenção da segregação cautelar, quando da prolação da sentença condenatória, não precisa de fundamentação exauriente, desde que o acusado tenha permanecido preso no curso do processo e a anterior decisão esteja fundamentada, o que ocorreu no caso. (Precedente).
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão, às fls.79-81, a qual deneguei o habeas corpus interposto por ERICK EVANDRO MIRANDA.
+Depreende-se dos autos que o agravante foi sentenciado à pena de cinco anos e dez meses de reclusão, em regime inicial fechado, como incurso no crime de tráfico de drogas, sendo negado o direito de recorrer em liberdade.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do agravante pelos mesmos fundamentos, denegando a ordem em acórdão de fls. 15-19.
+Nas razões do recurso, o agravante alega ausência de fundamentação idônea acerca do direito de recorrer em liberdade.
+Requer, ao final, a reconsideração da decisão objurgada, ou, em caso de entendimento diverso, a submissão ao colegiado.
+Por manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. FUNDAMENTOS DA PRISÃO PREVENTIVA.GRANDE QUANTIDADE DE DROGA. RISCO DE REITERAÇÃO DELITIVA.INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - A análise da decisão que decretou a prisão preventiva e da sentença condenatória permitem a conclusão de que a prisão cautelar imposta ao agravante encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da grande quantidade de droga apreendida:554,0 g de haxixe, 885 g de skunk e pelo fato da contumácia delitiva do agravante que inclusive estava com mandado de prisão em aberto.
+III - Conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+IV - Esta Corte Superior de Justiça possui entendimento no sentido de que a manutenção da segregação cautelar, quando da prolação da sentença condenatória, não precisa de fundamentação exauriente, desde que o acusado tenha permanecido preso no curso do processo e a anterior decisão esteja fundamentada, o que ocorreu no caso. (Precedente).
+Agravo regimental desprovido.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+No mérito, entretanto o recurso não merece subsistir.
+Pois bem. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+Nesse compasso, não obstante o teor das razões suscitadas no presente recurso, não vislumbro elementos hábeis a alterar a decisão. Ao contrário, os argumentos ali externados merecem ser ratificados pelo Colegiado, senão vejamos.
+A análise da decisão que decretou a prisão preventiva e da sentença condenatória permitem a conclusão de que a prisão cautelar imposta ao agravante encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da grande quantidade de droga apreendida:554,0 g de haxixe, 885 g de skunk e pelo fato da contumácia delitiva do agravante que inclusive estava com mandado de prisão em aberto-fl.30.
+No ponto, impende destacar que:
+"Sobre o tema, esta Corte Superior possui entendimento no sentido de que "são fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 725.170/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 5/4/2022, DJe de 11/4/2022" (AgRg no HC n. 806.211/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023).
+Nesse mesmo sentido:
+"Na hipótese, a prisão preventiva foi decretada com fundamento nas circunstâncias da prática delitiva e gravidade concreta do crime imputado, evidenciada pela expressiva quantidade de droga transportada na lataria do veículo do Agravante, de modo a justificar, nos termos da jurisprudência desta Corte Superior de Justiça, a segregação cautelar para garantia da ordem" (AgRg no HC n. 799.998/MS, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 29/3/2023).
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Ademais, esta Corte Superior de Justiça possui entendimento no sentido de que a manutenção da segregação cautelar, quando da prolação da sentença condenatória, não precisa de fundamentação exauriente, desde que o acusado tenha permanecido preso no curso do processo e a anterior decisão esteja fundamentada, o que ocorreu no caso.
+A propósito:
+"Esta Corte Superior de Justiça possui entendimento no sentido de que a manutenção da segregação cautelar, quando da sentença condenatória, não requer fundamentação exaustiva, desde que o acusado tenha permanecido preso no curso do processo e a anterior decisão esteja fundamentada" (AgRg no HC n. 914.811/PR, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 12/8/2024.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Destarte, neste agravo regimental, não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios e jurídicos fundamentos.
+Nesse sentido:
+"É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos" (AgRg no AREsp n. 2.173.224/RN, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 30/6/2023) .
+Ante o exposto, por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, nego provimento ao agravo regimental.
+É o voto.
