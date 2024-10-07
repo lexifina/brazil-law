@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por Construtora Sultepa S.A. - Em Recuperação Judicial, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 1.029):
+AGRAVO INTERNO. APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. PRELIMINAR DE CERCEAMENTO DE DEFESA. DESCUMPRIMENTO DA LICENÇA DE OPERAÇÃO Nº 2333/2012-DL INCONTROVERSO. PROVA TESTEMUNHAL. PRESCINDIBILIDADE - ART. 370, DO CPC. REJEIÇÃO. MÉRITO. INFRAÇÃO AMBIENTAL. GARANTIA DO CONTRADITÓRIO E DA AMPLA DEFESA NA VIA ADMINISTRATIVA. INOBSERVÂNCIA DAS CONDICIONANTES DA L. O. NULIDADE DO PROCESSO ADMINISTRATIVO E DO AUTO DE INFRAÇÃO NÃO EVIDENCIADA. MULTA. PROPORCIONALIDADE E RAZOABILIDADE.
+I - O poder fiscalizatório e sancionador da FEPAM, e a legitimidade para a lavratura do auto de infração, com vistas à responsabilização da empresa autuada por infração à legislação ambiental, com base nos arts. 23, VI, da Constituição da República; 250, 251 e 252 da Constituição Estadual; art. 70, da Lei Federal nº 9.605/1998; 17, da L. C nº 140/11; 1º e 2º, da Lei Estadual nº 9.077/90; e jurisprudência deste TJRS. De igual forma, evidenciada a garantia do contraditório e da ampla defesa na via administrativa. Do mesmo modo, não demonstrada a nulidade do Processo Administrativo nº 13586-05.67/13-2, haja vista incontroversa a adoção de medidas diversas às previstas nas condicionantes nºs 1.5, 1.9, 2.2 e 2.7, da L. O nº 2333/2012-DL, por parte da empresa demandante, a revelar a responsabilidade por infração à legislação ambiental. Ainda, não configurada a desproporcionalidade ou falta de razoabilidade na multa aplicada, com base no art. 3º, I e II, do Decreto Federal nº 6.514/2008, e nos critérios da Portaria nº 065/2008, da FEPAM. Jurisprudência deste Tribunal de Justiça.
+PREFACIAL REJEITADA.
+AGRAVO INTERNO DESPROVIDO
+Opostos embargos de declaração, foram rejeitados (fls. 1.052/1.067).
+Nas razões do apelo especial, aponta o recorrente, violação aos arts:
+(I) 489, §1º, IV e 1.022, do CPC, ao argumento de que houve omissão no julgado;
+(II) 369, 370 e 373, I, do CPC, sustentando que há cerceamento de seu direito de defesa, tendo em vista o indeferimento de produção de prova testemunhal requerida;
+(III) 72, §3º, da Lei n. 9.605/98 e 14, §1º, da Lei n. 9.638/81, ao fundamento da necessidade de aplicação da tese de que "a verificação da responsabilidade administrativa ambiental é regida pela teoria da culpabilidade, sendo necessária a demonstração dos elementos da culpa, ato ilícito, o dano e o nexo causal", circunstância que alega não ter ocorrido no caso concreto.
+Contrarrazões às fls. 1.095/1.108.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelos arts. 489 e 1.022 do CPC, pois a parte insurgente, nas razões dos embargos de declaração e do recurso especial, alega que ".. não se vislumbra no julgado apreciação sobre a falta de exame da responsabilidade subjetiva da empresa para aplicação da penalidade administrativa." (fl. 1.041), bem como "Cuidando-se de responsabilidade civil ambiental administrativa, é dever da administração pública, no exercício da função sancionadora, aferir os requisitos para responsabilização, cujo mandamento é extraído do art. 72, § 3º, da Lei 9.605/98 e art. 14, § 1º, da Lei 9.638/81."
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios, em franca violação aos arts. 489 e 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+A propósito:
+RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. AÇÃO ORDINÁRIA. CONTRATOS. RETENÇÃO DE VALORES PELA ADMINISTRAÇÃO PÚBLICA. IRREGULARIDADE TRABALHISTA. ORDEM JUDICIAL PRÉVIA DE BLOQUEIO E PENHORA. OMISSÃO DO ACÓRDÃO RECORRIDO. VIOLAÇÃO DOS ART. 489 E 1.022 DO CPC/2015. ANULAÇÃO DO ACÓRDÃO E DEVOLUÇÃO PARA ANÁLISE DAS QUESTÕES SUSCITADAS. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Sendo constatado que o acórdão recorrido deixou de manifestar sobre matéria relevante para a resolução da controvérsia, que foi devidamente alegada pela parte, persistindo a omissão ao rejeitar embargos declaratórios, é impositivo reconhecer a violação aos arts.
+489 e 1.022, do Código de Processo Civil de 2015, porquanto a análise da matéria poderia, em tese, modificar o resultado do julgamento.
+2. Recurso Especial conhecido e provido, a fim de anular o acórdão e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos Embargos de Declaração.
+(REsp n. 2.013.590/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. MATÉRIA PRELIMINAR. VIOLAÇÃO. OCORRÊNCIA. QUESTÕES DE MÉRITO. PREJUDICIALIDADE. INOVAÇÃO RECURSAL. EXAME. INVIABILIDADE.
+1. Há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, a despeito da oposição de aclaratórios, não se manifesta sobre questão relevante ao deslinde da controvérsia, sendo de rigor o retorno dos autos à origem para sanar o vício de integração, notadamente quando relacionado a matéria fático-probatória.
+2. O acolhimento da preliminar de nulidade do acórdão, por negativa de prestação jurisdicional, prejudica a análise das questões de mérito suscitadas pelas partes, tendo em conta que será renovado o julgamento dos embargos de declaração.
+3. É inviável a análise de alegações voltadas à desconstituição do julgado que não foram suscitadas nas razões do recurso especial, por se tratar de indevida inovação recursal.
+4. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 1.995.199/PB, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas.
+Publique-se.
+EMENTA
