@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE TÍTULO COLETIVO CONTRA A FAZENDA.
+I. ALEGAÇÃO DE PRESCRIÇÃO DA EXECUÇÃO INDIVIDUAL, EM FEITO COM PECULIARIDADES, PORQUE HOUVE DEFERIMENTO PELO ESTADO JUIZ DE DOIS PEDIDOS CONJUNTOS DE SUSPENSÃO DO CUMPRIMENTO DE SENTENÇA, PARA TENTATIVA DE ACORDO. CAUSA SUSPENSIVA DO PRAZO PRESCRICIONAL. POSSIBILIDADE. APLICAÇÃO DA LEI ESPECIAL N. 13.140/2015 (LEI DA MEDIAÇÃO), QUE PREVALECE SOBRE A GERAL. INCENTIVO ÀS SOLUÇÕES CONSENSUAIS. NECESSÁRIO RESPEITO AOS PRINCÍPIOS DA PROTEÇÃO DA CONFIANÇA LEGÍTIMA E DA BOA-FÉ OBJETIVA.
+II. IMPOSSIBILIDADE DE REVISÃO DAS ESPECIFICIDADES DAS SUSPENSÕES DO PRAZO PRESCRICIONAL, SEM REVOLVER FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ.
+III. CUMPRIMENTO DE SENTENÇA COM TRÂNSITO EM JULGADO EM 08/04/2016. CPC/2015. NÃO ATRAÇÃO DA MODULAÇÃO DA TESE DO TEMA 880/STJ.
+IV. RAZÕES DE AGRAVO QUE NÃO TRAZEM ARGUMENTOS SUFICIENTES À IMPUGNAÇÃO DA APLICAÇÃO DA SÚMULA 7/STJ. RAZÕES RECURSAIS DISSOCIADAS DO QUANTO DECIDIDO PELO TRIBUNAL DE ORIGEM: DEFICIÊNCIA NA FUNDAMENTAÇÃO QUE ATRAI OS ÓBICES DAS SÚMULA 283 E 284/ STF.
+V. AGRAVO DESPROVIDO.
+RELATÓRIO
+Cuida-se de Agravo Interno interposto da decisão monocrática de fls. 290-293, que possui como dispositivo:
+Ante a deficiência na motivação e a ausência de impugnação a fundamento autônomo, aplicam-se na espécie, por analogia, as Súmulas 284 e 283 do STF. (..)
+Além disso, evidencia-se que a análise da ocorrência de prescrição possui peculiaridades, que foram devidamente apreciadas pela instância originária, e não pode ser realizada nesta via ante o óbice da Súmula 7/STJ.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+A decisão agravada foi posta em recurso especial que impugna o seguinte acórdão:
+CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA PROFERIDA CONTRA A FAZENDA PÚBLICA. DECISÃO QUE REJEITA A PREJUDICIAL DE PRESCRIÇÃO ARGUIDA PELO ENTE PÚBLICO. CASO EM QUE, NA AÇÃO PRINCIPAL, O ESTADO DO PARANÁ NOTICIOU A EXISTÊNCIA DE TRATATIVAS DE ACORDO COM O SINDICATO RELATIVAMENTE À OBRIGAÇÃO DE PAGAR QUANTIA CERTA AOS SERVIDORES SUBSTITUÍDOS. CAUSA SUSPENSIVA DO PRAZO PRESCRICIONAL. ART. 34 DA LEI Nº 13.140/2015. IRRELEVÂNCIA DO FATO DE TER SIDO EFETIVAMENTE INSTAURADO O PROCEDIMENTO ADMINISTRATIVO PARA NEGOCIAÇÃO E CONFECÇÃO DO ACORDO. PRINCÍPIOS DA PROTEÇÃO DA CONFIANÇA LEGÍTIMA, BOA-FÉ OBJETIVA E COOPERAÇÃO. INTERPRETAÇÃO QUE MELHOR SE COADUNA COM A REGRA LEGAL QUE ESTABELECE O ESTÍMULO À SOLUÇÃO CONSENSUAL DOS CONFLITOS. DECISÃO CORRETA. O PEDIDO EXPRESSO DE SUSPENSÃO DO PROCESSO DEDUZIDO POR ENTE OU ENTIDADE PÚBLICA PARA TRATATIVAS DE ACORDO SUSPENDE O PRAZO PRESCRICIONAL, A PARTIR DO DESPACHO QUE O DEFERE, CONFORME PREVISTO NO ART. 34 DA LEI Nº 13.140/2015. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os Embargos de Declaração opostos a tal decisum foram rejeitados (fls. 187-190).
+No Especial, aponta a parte recorrente violação dos artigos 523, 524 e 534, do Código de Processo Civil e 197 a 199 do Código Civil. Articula ainda com o Tema 880/STJ.
+Nas razões do Agravo Interno (fls. 300-307), além de reprisar os argumentos já trazidos no Especial, a parte impugna os óbices das Súmulas 7/STJ e 283 e 284 do STF.
+Contrarrazões às fls. 311-325.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE TÍTULO COLETIVO CONTRA A FAZENDA.
+I. ALEGAÇÃO DE PRESCRIÇÃO DA EXECUÇÃO INDIVIDUAL, EM FEITO COM PECULIARIDADES, PORQUE HOUVE DEFERIMENTO PELO ESTADO JUIZ DE DOIS PEDIDOS CONJUNTOS DE SUSPENSÃO DO CUMPRIMENTO DE SENTENÇA, PARA TENTATIVA DE ACORDO. CAUSA SUSPENSIVA DO PRAZO PRESCRICIONAL. POSSIBILIDADE. APLICAÇÃO DA LEI ESPECIAL N. 13.140/2015 (LEI DA MEDIAÇÃO), QUE PREVALECE SOBRE A GERAL. INCENTIVO ÀS SOLUÇÕES CONSENSUAIS. NECESSÁRIO RESPEITO AOS PRINCÍPIOS DA PROTEÇÃO DA CONFIANÇA LEGÍTIMA E DA BOA-FÉ OBJETIVA.
+II. IMPOSSIBILIDADE DE REVISÃO DAS ESPECIFICIDADES DAS SUSPENSÕES DO PRAZO PRESCRICIONAL, SEM REVOLVER FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ.
+III. CUMPRIMENTO DE SENTENÇA COM TRÂNSITO EM JULGADO EM 08/04/2016. CPC/2015. NÃO ATRAÇÃO DA MODULAÇÃO DA TESE DO TEMA 880/STJ.
+IV. RAZÕES DE AGRAVO QUE NÃO TRAZEM ARGUMENTOS SUFICIENTES À IMPUGNAÇÃO DA APLICAÇÃO DA SÚMULA 7/STJ. RAZÕES RECURSAIS DISSOCIADAS DO QUANTO DECIDIDO PELO TRIBUNAL DE ORIGEM: DEFICIÊNCIA NA FUNDAMENTAÇÃO QUE ATRAI OS ÓBICES DAS SÚMULA 283 E 284/ STF.
+V. AGRAVO DESPROVIDO.
+VOTO
+Não obstante os argumentos expendidos, o inconformismo do agravante não merece guarida.
+Sobre a questão do cômputo do prazo prescricional, o tribunal de origem apontou que as suspensões do processo, para o fim específico de que as partes buscassem solução consensual para o pagamento da dívida, terminaram por encaminhar o processo judicial para uma espécie de mediação, situação que se constitui em causa suspensiva da prescrição. Frisou, ainda, a inaplicabilidade do Tema n. 880/STJ ao caso, nos seguintes termos (fls. 128/140 - grifei):
+Não pairam dúvidas de que a data correta do trânsito em julgado da Ação Coletiva 1560 /2008 (0003203-59.2008.8.16.0004) ocorreu em 08/04/2016, conforme já analisado nos referidos autos (seq. 858).
+Contudo, o caso exige maior reflexão dadas as peculiaridades.
+Houve ajuizamento de cumprimento da obrigação de fazer (autos nº 0008041-64.2016.8.16.0004) em 08/11/2016, tendo o executado cumprido com a entrega da documentação (CD com as fichas financeiras) em 14/05/2019, em seq. 53 dos mencionados autos. As partes estavam em tratativas de acordo, momento em que fora determinada a suspensão do feito por 60 (sessenta) dias em 06/10/2020, seq. 86, com renovação da suspensão por mais 90 (noventa dias) em 05/03/2021, seq. 279, dos mencionados autos.
+Considerando que o acordo não logrou êxito, o feito retomou seu prosseguimento em 30/11/2021, seq. 1620 dos mencionados autos de obrigação de fazer, em que centenas de execuções individuais foram propostas pelos substituídos, para recebimento dos valores.
+Desta narrativa, observa-se que entre a data do trânsito em julgado (08/04/2016) e a data da 1ª suspensão (06/10/2020) se passaram 4 anos e 6 meses.
+O feito permaneceu suspenso, tendo sido renovada a suspensão em 05/03/2021 e somente tendo retomado o prosseguimento em 30/11/2021.
+Assim, chega-se à conclusão de que o prazo prescricional foi retomado a partir de 30/11/2021 tendo ainda 6 meses para que os substituídos possam ajuizar o cumprimento individual, findando em 30/05/2022.
+No caso em tela não há como não considerar os prazos de suspensão, postulados pelas próprias partes que tentaram uma composição amigável para resolução e que, por motivos alheios, o acordo não se concretizou.
+Ademais, prescrição pressupõe inércia da parte exequente, o que não ocorreu no caso em comento, já que o período de suspensão se deu justamente para acerto dos pagamentos devidos pelo executado.
+Saliente-se, outrossim, que não se está frente à questão debatida no Tema 880 pelo Superior Tribunal de Justiça, porque o tema se refere a questões atinentes ao Código de Processo Civil de 1973 e o caso em comento não se insere nessa discussão, já que o trânsito em julgado se deu na vigência do Código de Processo Civil atual.
+Nesse sentido, considerando as peculiaridades do caso, o pedido de suspensão do feito pelo próprio executado e as suspensões deferidas pelo juízo, afasto a alegação de prescrição.
+Anoto que, apesar de o pedido realizado pelo ente coletivo ter sido inicialmente de exibição das fichas financeiras, em 08/11/2016, o que interessa para o exame deste recurso é o panorama processual existente ao tempo da suspensão do feito para as tratativas de acordo, o que ocorreu em 06/10/2020 (mov. 84.1 dos autos 0008041-64.2016.8.16.0004).
+E, embora a suspensão do processo não esteja no rol de causas suspensivas da prescrição elencados no CC, o agravante ignora o disposto na Lei nº 13.140/2015, cujo art. 34, a meu juízo, aplica-se ao caso:
+Art. 34. A instauração de procedimento administrativo para a resolução consensual de conflito no âmbito da administração pública suspende a prescrição.
+Ressalto que o fato de as tratativas de acordo terem sido iniciadas na via judicial - e não em procedimento administrativo - em nada afasta a incidência desse dispositivo, uma vez que a negociação evidentemente obriga o ente público a instaurar procedimento administrativo que culminará, se positivo, na confecção dos termos do acordo e assinatura pela autoridade pública responsável.
+No particular, entendo ser absolutamente irrelevante o fato de o agravante ter efetivamente instaurado (ou não) o procedimento administrativo, já que a própria manifestação na esfera judicial serve como marco temporal suspensivo da prescrição, por sinalizar ao juízo, estremes de dúvidas, a tentativa de solução consensual da controvérsia.
+Pensar de maneira diversa, ou seja, deixar de aplicar a causa legal suspensiva por ausência de instauração do procedimento próprio, implicaria não apenas beneficiar o ente público por sua própria torpeza, como também violentar os princípios da proteção da confiança legítima, da boa-fé e da cooperação processuais.
+Entretanto, a parte recorrente deixou de impugnar fundamentos suficientes do acórdão recorrido (destaques supra), alegando, tão somente, que "o ajuizamento da execução coletiva da obrigação de fazer não repercute na fluência do prazo prescricional da execução da obrigação de pagar". Não houve demonstração de causas suspensivas ou interruptivas do lapso prescricional e não se conseguiu afirmar a inexistência de instauração de procedimento de mediação, este último capaz de suspender a prescrição.
+Desse modo, verifica-se que as razões recursais apresentadas se encontram dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal, as quais dispõem, respectivamente:
+"É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e
+"É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Por fim, rever a conclusão alcançada pela origem, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ. Com igual compreensão: REsp n. 2.128.412, Min. Sérgio Kukina, DJe de 20/03/2024; REsp n. 2.127.859, Min. Regina Helena Costa, DJe de 15/03/2024, e REsp n. 2.123.401, Min. Afrânio Vilela, DJe de 19/03/2024. Deste último precedente, trago este excerto:
+"Ademais, a alteração da conclusão do Tribunal a quo, primordialmente no que tange às especificidades relativas à suspensão do prazo prescricional, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ."
+Pelo exposto, nego provimento ao Agravo Interno.
+É como voto.
