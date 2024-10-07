@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A ausência de impugnação específica aos fundamentos da decisão de inadmissão do recurso especial impõe o não conhecimento do agravo. Observância dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016).
+3. Agravo interno desprovido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno, interposto pela META PARTICIPAÇÕES LTDA e META PARTICIPAÇÕES EIRELI, contra a decisão de fls. 269/270, de minha lavra, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+Inconformada, sustenta a parte agravante, em resumo, que, "nos termos do agravo endereçado a esta E. Corte, a Agravante impugnou pormenorizadamente a incidência da súmula 7/STJ" (fls. 288/289). Assevera que o entendimento do STJ é de que "a mera revaloração dos critérios jurídicos utilizados pelo Tribunal de origem na apreciação dos fatos incontroversos não é obstada pela Súmula 7/STJ" (fl. 289), na linha dos precedentes que aponta.
+Requer, por fim, "seja conhecido e provido, a fim de que seja reformada a decisão proferida que negou conhecimento ao Agravo em Recurso Especial, o qual pugna pela reforma da decisão exarada pelo Presidente do Tribunal de Justiça do Estado do Maranhão, que inadmitiu o Recurso Especial. Pede a Agravante, por sua vez, que provido o presente agravo interno, seja o agravo em recurso especial conhecido e provido, a fim de que a decisão que inadmitiu o recurso especial seja reformada, alcançando o recurso a E. Corte deste Superior Tribunal de Justiça. Na hipótese de a decisão agravada não ser reconsiderada, pede a Agravante, então, que este recurso seja levado ao julgamento do órgão colegiado competente, com a finalidade de que ele possa ser conhecido e provido para reformar, in totum, a decisão agravada e para que seja conhecido e provido o recurso especial interposto pela ora Agravante" (fls. 297/298).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A ausência de impugnação específica aos fundamentos da decisão de inadmissão do recurso especial impõe o não conhecimento do agravo. Observância dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016).
+3. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Destaco, inicialmente, que o recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+A decisão ora agravada não conheceu do agravo em recurso especial, ao fundamento de que, "além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade. No caso dos autos, o recurso especial restou inadmitido por não configurada violação ao art. 489, III, do CPC/2015 e pela incidência da Súmula 7/STJ. Ocorre que a parte agravante não impugnou, especificamente, a incidência da Súmula 7/STJ, o que acarreta o não conhecimento do agravo" (fl. 269).
+A decisão não merece reforma, pois em relação ao óbice da Súmula 7/STJ, é necessário que a parte desenvolva uma argumentação que demonstre a desnecessidade de revolvimento do conjunto fático-probatório dos autos, seja porque a questão é meramente de interpretação jurídica e aí deve comprovar tal circunstância, não apenas alega-la, seja porque os fatos e provas necessários à adequada solução da controvérsia já tenham sido devidamente delineados no julgado recorrido e aí deve transcrever os trechos do julgado em que constem tais fatos e provas e conectá-los à violação legal apontada, comprovando, assim, que não é preciso para a solução do caso rever, nesta Corte Superior, aquele conjunto.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
