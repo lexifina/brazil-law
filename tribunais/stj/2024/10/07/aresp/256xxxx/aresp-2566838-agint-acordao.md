@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO. RECONVENÇÃO. ALEGAÇÃO DE ÍNDOLE ABUSIVA DO CONTRATO DE COMPRA E VENDA DE COMBUSTÍVEIS. RAZÕES DO APELO INCOMPREENSÍVEIS (SÚMULA 284/STF). CLÁUSULA DE AQUISIÇÃO MÍNIMA DE PRODUTOS. LEGITIMIDADE. REEXAME. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. No caso, o Tribunal de origem julgou lícita a cláusula do contrato que obrigava o contratante a adquirir quantidades mínimas de combustível em determinado período, bem como rejeitou a alegação dos réus, de que teriam descumprido referida cláusula em razão de fatos alheios à sua vontade. A reforma desse entendimento demandaria o reexame das cláusulas do contrato e das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+2. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto em face de decisão desta relatoria, que conheceu do agravo para negar provimento ao recurso especial.
+Os agravantes sustentam, em síntese: (a) o contrato de adesão deve ser interpretado em favor do aderente; (b) "os Agravantes não simplesmente paralisaram as suas atividades de forma a descumprir e prejudicar o contrato, mas porque realmente ficou sem condições na manutenção do contrato, com a retirada do crédito (prazo para pagamento) pela Agravada e com a autorização de dois novos postos na região, de mesma bandeira, praticando a venda de combustíveis com valores manifestamente inferiores aos de mercado e até inferior ao preço de custo" (fl. 909); (c) "a tese de supressio há de prevalecer, com acolhimento da reconvenção apresentada pelos Agravantes, pois era inerente a revisão das cláusulas para reduzir o volume mínimo mensal e total dos produtos entregues ao longo da contratação" (fl. 910); (d) "não se aplica a Súmula 284 do STF no presente caso, pois a controvérsia foi devidamente fundamentada, possibilitando a compreensão do objeto definido no Recurso Especial, não se tratando de vício que impede o conhecimento e mérito das questões debatidas nos autos" (fl. 912); e (e) inaplicabilidade das Súmulas 5 e 7/STJ.
+Requerem, ao final, a reconsideração da decisão agravada ou sua reforma pelo Órgão Colegiado competente (fls. 904/916).
+A parte agravada foi intimada, mas não apresentou impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO. RECONVENÇÃO. ALEGAÇÃO DE ÍNDOLE ABUSIVA DO CONTRATO DE COMPRA E VENDA DE COMBUSTÍVEIS. RAZÕES DO APELO INCOMPREENSÍVEIS (SÚMULA 284/STF). CLÁUSULA DE AQUISIÇÃO MÍNIMA DE PRODUTOS. LEGITIMIDADE. REEXAME. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. No caso, o Tribunal de origem julgou lícita a cláusula do contrato que obrigava o contratante a adquirir quantidades mínimas de combustível em determinado período, bem como rejeitou a alegação dos réus, de que teriam descumprido referida cláusula em razão de fatos alheios à sua vontade. A reforma desse entendimento demandaria o reexame das cláusulas do contrato e das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+2. Agravo interno improvido.
+VOTO
+A decisão agravada não merece reparos.
+Nas razões do recurso especial, os recorrentes sustentaram, em síntese, que o contrato de compra e venda de combustíveis, celebrado entre as partes, possui cláusulas abusivas.
+Contudo, as razões do recurso não ficaram suficientemente claras. No decorrer da peça recursal, a parte faz referência à necessidade de se interpretar o contrato em favor do aderente, atribui a culpa pela extinção do vínculo à contratada, diz que ficou sujeita a obrigação desproporcional e abusiva, invoca a teoria da supressio, justifica a necessidade de aquisição a menor de produtos (em contrariedade à quantidade mínima prevista), alude à índole abusiva da multa contratual e da cláusula sobre cotas mínimas de aquisição de combustíveis, questiona a cláusula sobre a exclusividade da aquisição, suscita violação à boa-fé objetiva, o abuso do poder econômico, alega a exceção do contrato não cumprido, mas, ao final, requer apenas que:
+"sejam analisadas pontualmente as cláusulas leoninas e potestativas e que, sem dúvidas, oneraram em demasiado os recorrentes e que conduziu a uma inadimplência forçada" (fl. 831)
+Fica claro, portanto, que a parte recorrente discorre sobre muitas teses de recurso, sem vinculá-las especificamente à alegação de ofensa a lei federal (art. 105, III, "a", da Constituição), sem dialogar adequadamente com os fundamentos do acórdão recorrido e sem apontar, no capítulo próprio da petição, os pedidos correspondentes às teses suscitadas.
+Todos esses ví cios, em conjunto, impedem a compreensão do objeto do recurso especial e atraem o óbice da Súmula 284/STF.
+Ademais, deve-se consignar que, em razão dos óbices das Súmulas 5 e 7/STJ, não compete a esta Corte verificar se, no presente caso, as cláusulas de exclusividade e de cota mínima de aquisição foram abusivas, nem se a verdadeira culpada pela extinção do vínculo teria sido a empresa contratada.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
