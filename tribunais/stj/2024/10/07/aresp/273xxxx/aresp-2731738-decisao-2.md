@@ -1,0 +1,19 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por R046 RIO DE JANEIRO EMPREENDIMENTOS E PARTICIPACOES S.A, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de resolução de contrato de promessa de compra e venda de imóvel movida por ISABEL DE AVILA PAES DA SILVA e RAFAEL DA MATTA NAVARRO contra R046 RIO DE JANEIRO EMPREENDIMENTOS E PARTICIPACOES S.A.
+Acórdão: deu parcial provimento à apelação de AGER INCORPORACOES IMOBILIARIAS S.A. e negou provimento ao recurso de R046 RIO DE JANEIRO EMPREENDIMENTOS E PARTICIPACOES S.A, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. DIREITO IMOBILIÁRIO. RELAÇÃO DE CONSUMO. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL C/C INDENIZATÓRIA POR DANOS MORAIS. ATRASO NA ENTREGA DO IMÓVEL. DISTRATO. DEVOLUÇÃO DE VALORES ACRESCIDOS DE MULTA CONTRATUAL E CORREÇÕES. SENTENÇA DE PARCIAL PROCEDÊNCIA DOS PEDIDOS. RECURSO DAS RÉS. CINGE-SE A CONTROVÉRSIA SOBRE A POSSIBILIDADE, OU NÃO, DA DEVOLUÇÃO INTEGRAL DOS VALORES PAGOS PELA PARTE AUTORA, POR FORÇA DO DISTRATO DE PROMESSA DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA CELEBRADO ENTRE AS PARTES EM RAZÃO DO ATRASO NA ENTREGA DA UNIDADE IMOBILIÁRIA. PRELIMINAR DA ILEGITIMIDADE PASSIVA FORMULADA PELA RÉ - AGER - QUE SE ACOLHE. A SEGUNDA SEÇÃO DO E. SUPERIOR TRIBUNAL DE JUSTIÇA, NO JULGAMENTO DO RESP REPETITIVO N. 1.300.418/SC, RELATOR LUIS FELIPE SALOMÃO, EM 13/11/2013, DJE 10/12/2013, PACIFICOU O ENTENDIMENTO DE QUE DEVE OCORRER A IMEDIATA RESTITUIÇÃO PELA PROMITENTE VENDEDORA DAS PARCELAS PAGAS PELO PROMITENTE COMPRADOR - INTEGRALMENTE, EM CASO DE CULPA EXCLUSIVA DA INCORPORADORA/CONSTRUTORA, OU, PARCIALMENTE, CASO TENHA SIDO O COMPRADOR QUEM DEU CAUSA AO DESFAZIMENTO. PARTE AUTORA QUE OPTOU PELO DISTRATO EM RAZÃO DA MORA DA INCORPORADORA RÉ. DEVOLUÇÃO INTEGRAL DOS VALORES, ACRESCIDOS DE MULTA CONTRATUAL E CORREÇÕES. PRECEDENTES JURISPRUDENCIAIS. REFORMA PARCIAL DA SENTENÇA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO". (e-STJ fls. 699)
+Decisão de admissibilidade do TJ/RJ: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i. incidência da Súmula 5 do STJ (interpretação da relação negocial entre as partes) e
+ii. incidência da Súmula 7 do STJ (papel que se exauriu na reunião de interesses de adquirente e vendedora).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante sustenta que os pressupostos fáticos estão consignados no acórdão recorrido no sentido de que a parte agravada AGER INCORPORAÇÕES IMOBILIÁRIA gerenciava o empreendimento.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i. incidência da Súmula 5 do STJ (interpretação da relação negocial entre as partes) e
+ii. incidência da Súmula 7 do STJ (papel que se exauriu na reunião de interesses de adquirente e vendedora).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa (e-STJ fls. 709) para 11%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
