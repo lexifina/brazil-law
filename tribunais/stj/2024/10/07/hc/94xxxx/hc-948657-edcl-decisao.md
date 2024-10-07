@@ -1,0 +1,13 @@
+DECISÃO
+DIEGO SALOMÃO DA SILVA opõe embargos de declaração contra a decisão de fls., em que, ao denegar a ordem, chancelou o acórdão proferido pela Corte local.
+A defesa alega que houve omissão, "uma vez que deixou de apreciar questão essencial suscitada na impetração, notadamente no tocante ao ato ilegal praticado pelo juízo de origem ao considerar a eficácia da medida cautelar de monitoração eletrônica".
+Decido.
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+Noto que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+No mais, a decisão ora embargada salientou que a quantidade de droga apreendida (75,4 Kg de maconha) - considerando-se o entendimento deste Superior Tribunal de Justiça, de que "a quantidade e a diversidade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva" (AgRg no RHC n. 178.504/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/6/2023, DJe de 16/6/2023), evidenciam que "as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais". Logo, carece de interesse discutir-se fundamento utilizado pelo Juiz de Direito sobre a impossibilidade de aplicar-se determinada medida prevista no art. 319 do CPP.
+Na verdade, a pretensão esboçada pelo embargante é ver reexaminado o caso, o que é inviável pela via escolhida. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
