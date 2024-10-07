@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC. SÚMULA 182/STJ, APLICADA POR ANALOGIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015" (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024).
+2. Agravo interno não conhecido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por UTIL - UNIÃO TRANSPORTE INTERESTADUAL DE LUXO LTDA contra decisão de não conhecimento do recurso especial, assim fundamentada (fls. 1.213-1.218):
+Inicialmente, no que tange à mencionada ofensa ao art. 1.022, II e parágrafo único, c/c o art. 489, § 1º, IV, do CPC/2015, verifico que a parte insurgente não logrou êxito em indicar objetivamente quais seriam os vícios presentes no acórdão impugnado, com a especificação do erro, da obscuridade, da contradição ou da omissão supostamente ocorridos, bem como em demonstrar a sua relevância para a solução da lide, a fim de que estes pudessem ser reconhecidos por esta Corte como aptos a ensejar a nulidade do julgado.
+A mera citação dos dispositivos legais invocados, a referência genérica aos aclaratórios ou a simples indicação dos vícios sem justificar sua importância para o deslinde do conflito não suprem a falha recursal. Tal circunstância atrai a incidência, por analogia, da Súmula 284/STF: "Inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa esteira:
+(..)
+A aduzida nulidade do processo administrativo por ausência de individualização das sanções não foi analisada pelo Colegiado originário à luz dos arts. 78-D e 78-F da Lei 10.233/2001, e, embora tenham sido opostos Embargos Declaratórios para provocar a manifestação do órgão julgador, sobre eles não foi emitido juízo de valor. Falta, portanto, prequestionamento, requisito para acesso às instâncias excepcionais, ainda que se trate de questão de ordem pública. Incide na hipótese a Súmula 211/STJ.
+Com efeito, para que se configure o prequestionamento, não basta que a parte recorrente devolva a matéria controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais apontados e as teses a eles vinculadas, interpretando-se a sua aplicação ou não ao caso concreto, ainda que sem a citação dos artigos tidos como confrontados. Nesse sentido: AgInt no AREsp 1.717.642/MA, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 2.12.2020; REsp 1.608.617/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe 4.4.2019; AgInt no REsp 1.878.642/PB, Rel. Ministro Og Fernandes, Segunda Turma, DJe 18.12.2020; AgInt no AREsp 1.572.062/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 27.2.2020; e AgInt no AREsp 898.115/RN, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 26.2.2018.
+Nesse contexto, pelo simples cotejo das razões recursais com os fundamentos do aresto recorrido, percebe-se que alegações relacionadas aos artigos tidos por contrariados não foram apreciadas na origem.
+Ademais, esta Corte Superior pacificou o entendimento de que não é suficiente
+opor Embargos de Declaração para a configurar o prequestionamento ficto admitido no art. 1.025 do CPC/2015. É imprescindível que a parte alegue, no Recurso Especial, a infringência ao art. 1.022 do mesmo diploma legal, de modo que o STJ esteja autorizado a examinar a eventual ocorrência de omissão no julgado e, caso constate a sua existência, venha a deliberar sobre a possibilidade de julgamento imediato do tema, conforme facultado pelo legislador.
+A propósito:
+(..)
+Quanto ao tópico referente à duplicidade de normas administrativas para sancionar o mesmo fato, observa-se que não há indicação clara dos artigos de lei federal pretensamente malferidos, cuja citação de passagem não é o bastante para caracterizar a contrariedade à legislação. Logo, o inconformismo novamente se apresenta deficiente quanto à argumentação e torna a atrair o óbice da Súmula 284/STF.
+Veja-se o precedente:
+(..)
+Por fim, não há como se confirmar a presumida nulidade da CDA e do processo administrativo fiscal, de maneira a possibilitar a reforma do decisum combatido, sem se rever as provas dos autos. Nos termos da jurisprudência consolidada neste Tribunal Superior, "para verificar se a Certidão da Dívida Ativa - CDA preenche ou não os requisitos essenciais à sua validade, torna-se necessária a incursão no conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ" (AgInt no AREsp 917.381/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14.9.2016).
+Confiram-se:
+(..)
+Por tudo isso, não conheço do Recurso Especial.
+A agravante afirma que "não há fatos a serem reexaminados, uma vez que os fatos se encontram incontroversos, e nem pretende a Agravante dar nova interpretação das ocorrências concretas da lide. Na verdade, trata-se, o presente recurso, de matéria unicamente de direito" (fl. 1.228).
+Sustenta que é evidente a violação aos artigos 489 e 1.022, ambos do Código de Processo Civil, já que a Corte local não se manifestou em relação às omissões apontadas nas razões dos embargos de declaração lá opostos.
+Requer a reconsideração da decisão monocrática ou a sua reforma para que seja dado provimento ao recurso especial.
+As contrarrazões não foram apresentadas (fl. 1.240).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC. SÚMULA 182/STJ, APLICADA POR ANALOGIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015" (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024).
+2. Agravo interno não conhecido.
+VOTO
+O agravo interno não comporta conhecimento.
+O art. 932, inciso III, do CPC assevera que "incumbe ao relator (..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida". Idêntica redação consta do art. 255, §4º, I, do RISTJ. Ambos os dispositivos nasceram por inspiraçã o no enunciado 182 da Súmula do STJ, que reza:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+O regramento supra mencionado é utilizado para o julgamento unipessoal dos processos que, no âmbito desta Corte, não tenham obedecido o princípio da dialeticidade.
+Para o agravo interno, o Código de Processo Civil trouxe a previsão contida no art. 1.021, § 1º, segundo o qual "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada". No mesmo sentido é a dicção do art. 259, § 2º, do RISTJ.
+Na hipótese vertente, a decisão monocrática de fls. 1.213-1.218 fundou-se na incidência dos enunciados 7 e 211 da Súmula do STJ e do enunciado 284 da Súmula do STF.
+No presente agravo interno, a recorrente não impugnou adequadamente qualquer dos fundamentos da decisão recorrida, tendo se limitado a alegar genericamente a não incidência do enunciado n. 7 da Súmula do STJ. Confira-se (fls. 1.227-1.230):
+5. É importante, inicialmente, esclarecer que não é aplicável ao caso em tela o Verbete de Súmula nº 7 deste E. STJ, eis que o recurso interposto não possui o intento de efetivar o resolvimento de matéria fático-probatória. Como se observará adiante, busca-se estritamente estabelecer a melhor aplicação do direito.
+6. É sabido que, a esta Corte, descabe resolver o acervo probatório já delineado e pormenorizado no Tribunal de Origem (Súmula nº 7 do STJ). Porém, in casu, não há fatos a serem reexaminados, uma vez que os fatos se encontram incontroversos, e nem pretende a Agravante dar nova interpretação das ocorrências concretas da lide. Na verdade, trata-se, o presente recurso, de matéria unicamente de direito.
+7. Salienta-se que, embora a Agravante não pretenda o reexame fático-probatório neste Recurso Especial, é preciso admitir a possibilidade de realizar a nova valoração das provas contidas nos autos, distinguindo reexame de revaloração das provas. Como se sabe, a revaloração da prova "constitui em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias, prática francamente aceita em sede de recurso especial."
+8. O que se busca, aqui, é o reconhecimento das violações aos dispositivos federais regentes, sendo certo que, para tanto, não se revela necessária a revisão da matéria fática.
+9. Assim, constata-se que não se trata de "simples reexame de provas", como anuncia a Súmula em destaque, e sim a hipótese de "revaloração da prova". Nesse contexto, destacamos os ensinamentos de José Miguel Garcia Medina, vejamos:
+(..)
+10. Conclui-se, portanto, que o presente recurso não encontra óbice na Súmula nº 7 deste E. STJ, uma vez que sua apreciação não demanda revolvimento da matéria fático-probatória dos autos, tratando-se de matéria unicamente de direito objeto do recurso especial, logo, faz-se forçoso reconhecer a plena admissibilidade do Recurso Especial ora interposto pela Agravante
+Registre-se, que, em relação ao enunciado n. 7 da Súmula do STJ, é necessário que, além da contextualização do caso concreto, o recurso contenha as razões pelas quais se entende ser possível o conhecimento da pretensão sem a necessidade de se examinar os fatos e as provas dos autos, o que não ocorreu no caso.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. O Tribunal de origem inadmitiu o recurso especial por entender que, pela alínea "a" do permissivo constitucional, a aferição de afronta ao art. 966, VII, do CPC esbarraria no óbice da Súmula n. 7/STJ, a questão do "in dubio pro misero" não teria sido prequestionada (incidência das Súmulas n. 282/STF e 356/STF) e porque o acordão estaria em consonância com o entendimento do STJ, a atrair a aplicação da Súmula n. 83/STJ.
+2. Pela alínea "c", a inadmissão consignou que o princípio do "in dúbio pro misero" não teria sido prequestionado e que não fora apontado artigo de lei federal, o que faz incidir os preceitos das Súmulas n. 282/STF, 356/STF e 384/STF. Acresceu que os preceitos da Súmula n. 7/STJ inviabilizariam a análise da divergência e que, por fim, o recorrente não demonstrou a divergência nos moldes legais e regimentais, o que faz incidir novamente os preceitos da Súmula n. 284/STF.
+3. No caso dos autos, não houve adequada impugnação de inaplicabilidade da Súmula n. 7/STJ, limitando-se a agravante em tecer alegação genérica de não incidência da súmula. Nas razões recursais, "o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida essas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas" (AgRg no AREsp n. 2.060.997/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2022).
+4. A alegação de inaplicabilidade da Súmula n. 83/STJ aos recursos interpostos pela alínea "a" do permissivo constitucional não é suficiente para cumprir com o dever de impugnação dos fundamentos de inadmissibilidade do recurso especial, pois, em tais hipóteses, o entendimento desta Corte é no sentido de que cabe ao recorrente indicar julgados contemporâneos ou supervenientes ao precedente utilizado na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada, o que não aconteceu no presente caso.
+5. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 1.508.906/SC, relator Ministro Humberto Martins, Segunda Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Assim, "verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015" (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024). No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO MANDO DE SEGURANÇA. RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL QUANDO DA INTERPOSIÇÃO DO RECURSO. COVID-19.
+(..)
+3. Em observância ao disposto no art. 1.021, § 1º, do CPC, que reforça o entendimento já consolidado na Súmula n. 182 do STJ, não se conhece de agravo interno que não impugna os fundamentos de decisão agravada.
+4. Agravo interno não conhecido.
+(AgInt nos EDcl no MS n. 28.813/DF, rel. Min. João Otávio de Noronha, Corte Especial, DJe de 16/8/2024)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
