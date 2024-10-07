@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 512):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+A agravante alega que demonstrou no recurso especial, de forma objetiva, os dispositivos violados. Afirma que inúmeros são os julgados pelo STF, sobre a aplicação do Tema 810, que não configura reexame de prova, mas sim, a correta aplicação de tese firmada.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+No caso, a decisão agravada não conheceu do recurso especial porque incide, à hipótese, a Súmula 282/STF. Confira-se (fl. 512):
+No que diz respeito a alegada violação dos artigos189 do CC, 525, § 15º, 927, III e 982 do CPC/2015 e a tese a eles vinculadas, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que não foram opostos embargos de declaração na origem com o intuito de sanar eventual vício relativo à aplicação dos aludidos dispositivos legais.
+Ocorre que a agravante não impugnou, especificamente, a aplicação do referido óbice sumular ao caso concreto, razão pela qual impõe-se a incidência da Súmula 182/STJ, verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgRg nos EAREsp 1.870.554/SP, relator Ministro Humberto Martins, Corte Especial, DJe 14/3/2023; AgInt no AREsp 2.215.294/PA, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 8/3/2023; AgInt no AREsp 2.158.581/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2022; AgInt no AgInt no REsp 1.914.726/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 12/12/2022; AgRg nos EAREsp 2.007.922/PR, relator Ministro Og Fernandes, Corte Especial, DJe 29/9/2022; AgInt no TP 3.879/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 2/6/2022; AgInt no AREsp 1.949.877/PE, relator Ministro Gurgel de Faria, Primeira Turma, DJe 12/4/2022.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
