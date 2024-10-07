@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por Adalberto Pereira Passos e Maria Darci Fonseca Pereira contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fl. 469):
+APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. ACORDO FIRMADO EM AÇÃO POSSESSÓRIA. ÔNUS RELATIVO AO DESMEMBRAMENTO E REGISTRO DO IMÓVEL. INTERPRETAÇÃO RESTRITIVA. OBRIGAÇÃO CONJUNTA E SIMULTÂNEA COMINADA AOS DOIS TRANSIGENTES. MOROSIDADE NO CUMPRIMENTO DA AVENÇA INIMPUTÁVEL AO TRANSIGENTE. - A interpretação do acordo é restritiva, devendo a disposição de direitos recair apenas sobre o conteúdo expressamente declarado. - Deve prevalecer a compreensão de que a obrigação de arcar com as expensas do custeio dos atos de desmembramento e registro do imóvel é conjunta e simultânea aos transigentes quando, do cotejo analítico do acordo, vislumbrar-se que uma das cláusulas assim dispõe e outra é silente à questão. - Acordado, ainda, que o cumprimento da avença poderia ser prorrogado por delonga que não fosse imputável ao transigente que se comprometeu a formalizar o desmembramento de área litigiosa, não há como lhe impor censura pela morosidade oriunda do Poder Público.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 512-517).
+Nas razões do recurso especial (e-STJ, fls. 521-539), os recorrentes apontaram violação aos arts.485, IV e VI, 924, I, e 1.022 e parágrafo único, II, do CPC/2015; e 476 do CC.
+Sustentaram, em síntese, negativa de prestação jurisdicional por omissão, e que a recorrida se comprometeu a providenciar o desmembramento e registro da área de 338,50.20 ha em nome dos recorrentes, no prazo de 90 (noventa) dias (obrigação unilateral).
+Sem contrarrazões.
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, no que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que as instâncias ordinárias expressamente enfrentaram todas as questões suscitadas pelos recorrentes, de forma clara e fundamentada, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA.
+(..)
+3. O órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para a sua decisão, de acordo com seu livre e fundamentado convencimento, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp n. 2.015.401/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls.472-475):
+Quando do ajuizamento da ação foi formulado o pedido:
+"I) A intimação da executada, na pessoa de seu Diretor- Sócio, Sr. Heraldo Lima de Ornellas Filho, nos termos do art. 513, § 4º, do CPC, para, no prazo de 15 dias, cumprir o acordado, sob pena de multa diária, fixada por esse honrado Magistrado (art. 536, § 1º e 537, caput, ambos do CPC)."
+No bojo daquela ação foi celebrado o acordo que encontra-se disciplinada no artigo 840, do Código Civil de 2002, inserido no livro relativo ao direito das obrigações, preceituando-se que:
+"Art. 840: É lícito aos interessados prevenirem ou terminarem o litígio mediante concessões mútuas".
+O artigo 841, do Código Civil, por sua vez, estabelece que "só quanto a direitos patrimoniais de caráter privado se permite a transação."
+( )
+Do acordo vergastado, vislumbra-se que a cláusula quarta assim dispõe:
+"CLÁUSULA QUARTA: As custas e demais despesas processuais serão pagas proporcionalmente pelas partes transigentes, arcando cada uma com os honorários dos respectivos advogados, dividindo-se também proporcionalmente as despesas cartorárias e fiscais eventualmente exigíveis." (doc. de ordem nº 4, fl. 2)
+Com vistas a esse fato, bem andou o magistrado ao assentar que:
+"a demora para desmembramento junto ao INCRA não poderá ser imputada à executada, uma vez que não está no seu campo de vontade, dependendo do rompimento da burocracia estatal. Sabe-se que a formalização deste ato administrativo é imprescindível para a averbação da área no Cartório de Registro de Imóveis.
+Quanto ao cumprimento da primeira obrigação (desmembramento), observo que a executada informou o cumprimento no id nº1191979919 - Petição, sendo confirmado pela resposta do CRI no ofício de id nº2559496441 - Outros documentos.
+Adiante, constato que a cláusula quarta é dispositivo complementar e integrativo, necessária para compreensão da manifestação de vontade enunciada no item 3.7 da cláusula terceira do termo de acordo." Em relação à suposta obrigação da executada de arcar com exclusividade com os atos de registro da área de 338.50,20ha, o acordo assim dispôs na cláusula 3.3 arguido pelos recorrentes:
+"3.3) Referida área com 338,50.20 há encontra-se devidamente registrada em nome da transigente FENÍCIA SOFAZENDAS INTERMEDIAÇÕES VENDAS LTDA conforme georreferenciamento de que originou a nova MATRÍCULA M-4636, Lº 2R, fl. 108 do Registro de Imóveis de São Gonçalo do Abaeté, comprometendo-se a mesma a providenciar o desmembramento e registro da referida gleba em favor dos também transigentes ADALBERTO PEREIRA PASSOS e S/M."
+Da leitura da supramencionada cláusula não se verifica que a executada se onerou em arcar com as custas para o desmembramento e registro do imóvel frente ao Cartório competente, mormente a cláusula tenha pontuado de forma vaga que a executada estaria "comprometendo- se a mesma a providenciar o desmembramento e registro da referida gleba em favor dos também transigentes".
+Nada obstante, não tendo a cláusula delimitado especificamente que a ré arcaria com os ônus de transferência em questão, filio-me a compreensão de que por se tratar de concessão, bem como de ato de disposição das partes, a transação alcança apenas o exato conteúdo declarado, não se admitindo interpretações ampliativas, que estendam a concessão realizada a outras situações, distintas da declaração manifestada.
+Pela sua natureza, a interpretação do acordo deve ser sempre restritiva, sendo que o ato dispositivo alcança apenas o que estiver expressamente declarado.
+Nesse sentido, dispõe o artigo 843, do Código Civil de 2002:
+"Art. 843. A transação interpreta-se restritivamente, e por ela não se transmitem, apenas se declaram ou reconhecem direitos."
+Nesse contexto, a r. sentença é irretocável quando assenta que:
+"Em cotejo analítico entre as duas cláusulas contratuais acima transcritas, resulta evidente que o acordo, objeto do presente cumprimento de sentença, de forma alguma impôs à transigente/executada FENÍCIA SOFAZENDAS a obrigação de arcar com exclusividade e às suas expensas o oneroso custeio dos atos de registro da área de 338.50,20ha destacada da M. 4636, sendo certo que a despesa para a formalização do instrumento de transmissão do domínio constitui obrigação conjunta e simultânea cominada igualmente aos dois Transigentes, que comprometeram-se a "dividir proporcionalmente as despesas cartorárias e fiscais".
+Obiter dictum, não há como olvidar-se que a cláusula quarta supramencionada da avença determinou obrigações conjuntas às partes, o que acabou por englobar as despesas cartorárias e fiscais relativas ao ato de desmembramento necessário para o registro da gleba em nome dos exequentes.
+No tocante à obrigação conjunta de custeio do desmembramento necessário para o registro da área de 338.50,20 ha, impende registrar que, a partir dos pressupostos analisados pelo acórdão recorrido, a questão foi resolvida com base nas cláusulas contratuais e nos elementos fáticos que permearam a demanda. Assim, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local implicaria na análise dos termos contratuais e no reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 deste Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CUSTEIO DOS ATOS DE DESMEMBRAMENTO. OBRIGAÇÃO CONJUNTA. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
