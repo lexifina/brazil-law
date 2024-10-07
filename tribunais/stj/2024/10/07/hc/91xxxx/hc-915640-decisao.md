@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Cleide Aparecida do Espirito Santo, condenada pela prática dos crimes previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, à pena de 9 anos e 4 meses de reclusão, em regime inicial fechado, e 1.399 dias-multa (Processo n. 0003015-12.2014.8.08.0026, da 1ª Vara da comarca de Itapemirim/ES).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESPÍRITO SANTO (Apelação Criminal n. 0003015-12.2014.8.08.0026, fls. 117/161, e Embargos de Declaração na Apelação Criminal n. 0003015-12.2014.8.08.0026, fls. 179/187).
+Alega-se, em suma, nulidade da sessão de julgamento do recurso de apelação criminal, por inobservância das regras do regimento interno ante o julgamento com menos de 48 horas da publicação da pauta.
+Requer-se, liminarmente e no mérito, a concessão da ordem para sustar os efeitos do acórdão condenatório.
+Indeferida a liminar (fls. 456/457) e prestadas as informações (fls. 467/469), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 884/889).
+Às fls. 892/893, postula-se a reconsideração da decisão liminar, para fins de suspender até decisão de mérito a ordem prisional imposta contra a paciente, cujo mandado ainda não foi expedido, porém já determinado na origem, uma vez que o risco está iminente e estando a matéria de direito a nosso ver clara o suficiente para a simples probabilidade do direito (fl. 893).
+É o relatório.
+De plano, verifico que a presente impetração foi ajuizada após o trânsito em julgado da condenação, sendo, pois, substitutiva de pedido revisional e, portanto, incabível.
+Com efeito, nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+Sobre a questão, cito os seguintes precedentes: AgRg no HC n. 853.777/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 29/2/2024; e AgRg no HC n. 847.051/SP, Ministra Laurita Vaz, Sexta Turma, DJe de 5/10/2023.
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, tendo o Tribunal de origem ressaltado que não há concreta demonstração de prejuízo na hipótese, considerando que as teses constantes do recurso de apelação apresentado foram completamente enfrentadas no acórdão embargado e, inclusive, os pedidos de fixação da pena-base no mínimo legal para os delitos de tráfico e associação para o tráfico foram atendidos (fl. 183).
+No mesmo sentido, o parecer do Ministério Público, o qual pontuou que, a desrespeito da observância do prazo mínimo de antecedência para inclusão do feito em pauta, verifica-se que o advogado de defesa não suscitou oportunamente a nulidade, nem tão pouco demonstrou o interesse em realizar a sustentação oral, de modo a possibilitar ao relator o adiamento do processo. Ademais, não restou demonstrado eventual prejuízo à ampla defesa do réu, impossível o reconhecimento da nulidade apontada, diante da aplicação da máxima pas de nulitté sans grief (fl. 888 - grifo nosso).
+Portanto, caberia à defesa a demonstração do prejuízo concreto sofrido pelo paciente, uma vez que se extrai do ordenamento, a regra geral segundo a qual, as nulidades devem ser apontadas tão logo se tome conhecimento delas, ou no momento legalmente previsto, sob pena de preclusão, tal como dispõe o art. 572 e incisos, do CPP (REsp n. 1.933.759/PR, Ministro Messod Azulay Neto, Terceira Seção, DJe 25/9/2023).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADE POR CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PREJUÍZO NÃO DEMONSTRADO. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Ordem denegada.
