@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos pelo ESTADO DE MATO GROSSO DO SUL contra acórdão da Segunda Turma deste STJ, assim ementado:
+AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. TRIBUTÁRIO. COMPENSAÇÃO DE CRÉDITO TRIBUTÁRIO. VIA ADMINISTRATIVA. POSSIBILIDADE. MANUTENÇÃO DA DECISÃO QUE CONCEDEU A SEGURANÇA. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.1. A jurisprudência deste STJ é pacífica ao afirmar que o mandado de segurança é via adequada para declarar o direito à compensação de tributos, de forma que, concedida a ordem, o pedido deve ser requerido na esfera administrativa.2. Deve ser negado provimento ao agravo interno quando não apresentados pela parte agravante, argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.3. Agravo interno conhecido e não provido (fl. 334).
+A parte embargante sustenta, em síntese, que o acórdão foi omisso quanto às ponderações apresentadas no agravo interno acerca da "intenção de substituir a ação de repetição de indébito por demanda mandamental" (fl. 345) e acerca da incidência das Súmulas 269 e 271 do STF ao caso.
+A embargada, devidamente intimada, apresentou impugnação às fls. 353-356.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos de admissibilidade.
+O art. 1.022 do Código de Processo Civil dispõe:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição, corrigir erro material e/ou suprir omissão.
+A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes, deduzido na minuta ou na contraminuta do recurso. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Os efeitos dos embargos declaratórios são limitados, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado o alegado vício de omissão, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Com efeito, no acórdão embargado foram expostos de forma clara os motivos pelos quais o agravo interno deveria ser improvido, constando, expressamente, que:
+Na origem, a TIM CELULAR S.A impetrou mandado de segurança visando, em síntese, fosse determinada a exclusão, da base de cálculo do ICMS dos valores pagos a título de demanda reservada de potência de energia elétrica, com consequente restituição dos valores pagos indevidamente, mediante compensação.
+A 3ª Seção Cível do Tribunal de Justiça do Mato Grosso do Sul, à unanimidade, concedeu parcialmente a segurança, para declarar inexigibilidade da cobrança de ICMS sobre o valor da demanda reservada de potência nas contas de energia elétrica e determinar que a autoridade coatora se abstivesse de lançar nas futuras contas o ICMS sobre a referida parcela, negando, todavia, a compensação ou restituição.
+Interposto o recurso ordinário em mandado de segurança pela TIM CELULAR S.
+A, foi proferida a decisão ora recorrida, nos seguintes termos: A jurisprudência desta Corte Superior firmou-se no sentido de se admitir a declaração do direito à compensação na via mandamental (Súmula 213/STJ).
+Além disso, não deve a compensação ficar limitada às guias juntadas pelo autor, não inibindo a administração de fiscalizar o encontro de contas a ser realizado posteriormente. (..)Repita-se: reconhecida a condição de credor tributário, a comprovação do indébito e efetiva compensação deverão ser pleiteadas no âmbito administrativo, respeitado o prazo prescricional quinquenal, tendo em vista que o mandado de segurança foi impetrado após a vigência da LC 118/2005.
+Ante o exposto, dou provimento em parte ao recurso ordinário em mandado de segurança para declarar o direito à compensação no período anterior à impetração do writ, observada a prescrição quinquenal e a homologação pela autoridade competente.
+Ao exame da situação posta em debate nesse agravo interno, verifica-se que a irresignação da parte agravante não merece acolhimento, notadamente por se considerar que os argumentos levantados pela parte não são capazes de alterar o entendimento proferido na decisão monocrática.
+Com efeito, a jurisprudência deste STJ, é pacífica ao afirmar que "o mandado de segurança constitui instrumento adequado à declaração do direito à compensação do indébito recolhido em período anterior à impetração, observado o prazo prescricional de 5 (cinco) anos contados retroativamente a partir da data do ajuizamento da ação mandamental" (AgInt no REsp n. 1.778.268/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 2/4/2019).
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Não é despiciendo ponderar, ainda, que a inicial do mandado de segurança pugna pela restituição integral dos valores indevidamente recolhidos, seja via pagamento em espécie ou mediante compensação.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
