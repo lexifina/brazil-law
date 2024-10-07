@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ANELISE MARCHINI MARQUES, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 18/01/2024.
+Concluso ao gabinete em: 08/07/2024.
+Ação: embargos à execução, opostos por ANELISE MARCHINI MARQUES, em face de FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS NÃO - PADRONIZADOS ALTERNATIVE ASSETS I.
+Sentença: julgou improcedentes os embargos à execução e condenou a agravante ao pagamento das custas e dos honorários, que foram arbitrados em 10% do valor da ação.
+Acórdão: negou provimento à Apelação interposta pela agravante, nos termos da seguinte ementa:
+"Apelação Cível. Embargos à execução. Cédula de Crédito Bancário. Sentença de improcedência. Recurso da parte embargante.
+1. Cerceamento de defesa. Não ocorrência. Conjunto probatório suficiente para o deslinde da causa. Adequado julgamento antecipado (art. 355, inc. I, do CPC).
+2. Execução. Devedora principal em recuperação judicial. Prosseguimento da execução em face da devedora solidária, nos termos em que a obrigação foi por ela assumida. Cabimento. Obrigação autônoma e independente. Inteligência dos arts. 6º, II, e 49, § 1º, ambos da Lei nº 11.101/2015; da Súmula 581 do STJ; e da decisão proferida em recurso repetitivo no REsp nº 1.333.349/SP.
+3. Cédula de Crédito Bancário. Inexequibilidade do título. Inocorrência. As cédulas de crédito bancário executadas instrumentalizaram empréstimos destinados a capital de giro, cujos valores foram integralmente transferidos à devedora principal, do que resulta a liquidez, certeza e exigibilidade dos títulos. Não há qualquer evidência de celebração de contratos de abertura de crédito, e tal prova era de fácil produção, pois bastaria à apelante juntar extrato de sua conta bancária vinculada para demonstrar a liberação paulatina do numerário, mas deste ônus não se desincumbiu.
+4. Juros remuneratórios. Inaplicabilidade da limitação de juros prevista na Lei da Usura às instituições financeiras. Convenção de taxa de juros dentro da legalidade. Índices que não destoam daqueles aplicados por outras instituições financeiras durante o período.
+4.1. Juros remuneratórios. Admissibilidade da utilização da taxa DI, calculada e divulgada pela CETIP, na fixação dos juros remuneratórios. Correta interpretação da Súmula 176, dada pelo C. STJ, no julgamento do REsp nº 1.781.959-SC. Inexistência de qualquer óbice na composição dos juros remuneratórios com taxas pós-fixada e pré-fixada, desde que o índice final não revele patente abusividade quando comparado às taxas médias de mercado. Abusividade ou onerosidade excessiva não comprovada no caso concreto.
+4.2. Admissibilidade da composição de juros, conforme Medida Provisória nº 2.170/2001; Súmula 382, do STJ, e Súmula 596 do STF.
+5. Encargos de inadimplência. Legalidade da incidência, para o período de anormalidade, da cobrança dos juros remuneratórios contratuais (para manter a base econômica do negócio); de juros moratórios de até 12% ao ano e não capitalizados, nos termos da Súmula 379 do STJ (para indenizar a demora no cumprimento da obrigação); da multa contratual de 2% (para sancionar o inadimplemento), de acordo com a jurisprudência do E. STJ (por todos, REsp nº 1.058.114-RS). Sendo lícita a fixação de tais encargos em relações consumeristas, com muito mais razão não há se alegar ilegitimidade na estipulação em relações de insumo.
+6. Sentença mantida. Recurso desprovido." (e-STJ fl. 801/802)
+Recurso especial: alega violação dos arts. 369, CC, 66, I, 1.029, § 5º, CPC, sustentando que: i) identifica-se, no caso concreto, a perfeita coexistência dos pressupostos à realização da compensação, em razão da Cláusula 6.8 do Plano de Recuperação Judicial homologado, tal qual foi realizada, por meio de decisão judicial; e, ii) a Corte local, aos suscitar dúvida em relação à invocada compensação, a toda evidência, impõe a impossibilidade de a compensação ser realizada tal qual prescrita na norma civil, de forma independente, autônoma; e, iii) existe sim óbice quanto ao prosseguimento da execução em face da recorrente, à medida que o crédito objeto de cobrança encontra-se extinto, face à compensação realizada, que não se trata de compensação invocada, mas de compensação legítima, exercida nos exatos termos em que conferido pelo direito que lhe ampara; e, iv) o juiz designado no processo relativo à Recuperação Judicial analisou e homologou o planejamento hábil a liquidar a Cédula de Crédito Bancário pleiteada pelo recorrido, daí vê-se que o D. Magistrado da presente ação não poderia se declarar competente, haja vista que o objeto aqui examinado já foi alvo de decisão e lá está vinculado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 369, CC, 66, I, 1.029, § 5º, CPC, indicados como violados, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AÇÃO DE EMBARGOS À EXECUÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+1. Ação de embargos à execução.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. Agravo conhecido. Recurso especial não conhecido.
