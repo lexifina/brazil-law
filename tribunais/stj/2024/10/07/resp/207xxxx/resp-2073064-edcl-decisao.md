@@ -1,0 +1,18 @@
+DECISÃO
+PAULO GUILHERME DOS SANTOS ANACLETO opõe embargos declaratórios contra a decisão de fls. 1.031-1.036, por meio da qual dei parcial provimento ao recurso especial, para reconhecer o privilégio no tráfico e fixar o regime semiaberto ao início de cumprimento da sanção reclusiva.
+Nas razões dos aclaratórios, o embargante sustenta omissão no julgado impugnado, que não teria se pronunciado sobre a possibilidade de detração penal.
+Requer, assim, o acolhimento dos embargos de declaração, com efeitos infringentes, para que seja fixado o regime aberto.
+Decido.
+Não obstante os esforços perpetrados pelo ora embargante, não constato os vícios apontados na decisão embargada.
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+Na hipótese em exame, noto que a possibilidade de reconhecimento da detração penal não foi aduzida nas razões do recurso especial, constituindo vedada inovação recursal .
+Confiram-se os seguintes precedentes:
+ ..
+1. O agravo regimental destina-se a combater a decisão agravada, e, portanto, deve se concentrar em tentar infirmar os fundamentos que lhe guarnecem. Fora disso, qualquer outra alegação não merece ser levada em consideração. 2. Não apresentados argumentos capazes de infirmar os fundamentos da decisão agravada, não merece acolhida a súplica. 3. Há de ser negado seguimento a habeas corpus que é mera reiteração de outro já julgado, tendo sido dirimida a questão controvertida, relativa a competência. 4. Eventual irregularidade na prisão cautelar (preventiva ou flagrante), fica prejudicada com superveniência da sentença condenatória, novo título, onde mantido o encarceramento. 5. Agravo regimental a que se nega provimento." (AgRg no HC 137.545/PR, 6.ª Turma, Rel.ª Min.ª MARIA THEREZA DE ASSIS MOURA, DJe de 25/03/2011; sem grifo no original.)
+ ..  1. O prequestionamento dos dispositivos legais supostamente violados apresenta-se como requisito essencial para a admissibilidade do recurso especial. 2. A pretensão recursal de novo julgamento, sob a tese de que a condenação foi manifestamente contrária à prova dos autos, não é possível em sede de recurso especial, consoante o verbete sumular n.º 07 desta Corte de Justiça. 3. A tese da prevalência dos direitos fundamentais do Réu é inovação recursal, já que a matéria não foi debatida na decisão ora recorrida. 4. Agravo regimental desprovido." (AgR g no Ag 1.092.039/GO, 5.ª Turma, Rel. Min. LAURITA VAZ, DJe de 15/06/2009; sem grifo no original.
+Diante de tais considerações, não existem os vícios descritos no art. 619 do CPP no aresto combatido. Noto que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável no ponto em que postulava o abrandamento de regime. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
