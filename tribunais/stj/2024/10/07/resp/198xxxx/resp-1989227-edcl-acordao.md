@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LIGAÇÃO DE ENERGIA ELÉTRICA EM RESIDÊNCIA LOCALIZADA EM ÁREA DE PRESERVAÇÃO PERMANENTE. RECURSO ESPECIAL PROVIDO. OMISSÃO QUANTO À INVERSÃO DO ÔNUS DE SUCUMBÊNCIA. EMBARGOS ACOLHIDOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Reconhecida a omissão, o julgado deve ser integrado para supri-la.
+3. Embargos de declaração acolhidos para determinar a inversão do ônus de sucumbência.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por CELESC DISTRIBUIÇÃO S.A. contra acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça, que deu provimento ao recurso especial.
+Eis a ementa do aresto (fl. 501/502):
+ADMINISTRATIVO E PROCESSUAL CIVIL. INEXISTÊNCIA DE OMISSÃO. ART. 1.022, II, DO CPC. OBRIGAÇÃO DE FAZER. LIGAÇÃO DE ENERGIA ELÉTRICA EM RESIDÊNCIA LOCALIZADA EM ÁREA DE PRESERVAÇÃO PERMANENTE  APP. OFENSA À COISA JULGADA. RECURSO ESPECIAL PROVIDO.
+1. O TJSC assentou que tramitou pela 6º Vara Federal de Florianópolis Ação Civil Pública cuja sentença transitou em julgado, determinando à CELESC distribuição S/A que "não promovesse novas ligações à rede de energia elétrica em áreas de proteção ambiental, sob pena de multa, decisão esta com efeito erga omnes." Entretanto a Corte estadual, divergindo do decisum supramencionado, entendeu que a omissão da empresa em estabelecer a prestação do serviço é ilegal, porquanto o imóvel estaria localizado em "área consolidada, inclusive com outras ligações à rede de energia elétrica na região, com clara mitigação fática da proteção ambiental na localidade." O MPE/SC recorreu da decisão.
+2. Não se configurou a ofensa aos arts. 489 e 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Verifica-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Constata-se a infringência aos arts. 502 e 503, na medida em que houve ofensa à coisa julgada.
+4. O STJ consolidou o entendimento de que é "induvidosa a prescrição do legislador, no que se refere à posição intangível e ao caráter non aedificandi da Área de Preservação Permanente - APP, nela interditando ocupação ou construção, com pouquíssimas exceções (casos de utilidade pública e interesse social), submetidas a licenciamento" (AgInt no REsp 1.572.257/PR, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 17.5.2019). Veja-se: REsp 1.394.025/MS, Rel. Min. Eliana Calmon, Segunda Turma, DJe 18.10.2013; REsp 1.362.456/MS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 28.6.2013. O caso sub judice não se enquadra nas hipóteses em que se permite a permanência de moradia em Área de Preservação Permanente, tendo o Tribunal da Cidadania decidido repetidamente que "constatada a existência de edificações em área de preservação permanente, a demolição de todas aquelas que estejam em tal situação é medida que se impõe". Dessa forma, não incide a Teoria do Fato Consumado. Nesse norte: AgInt no REsp 1.572.257/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 17/5/2019; AgInt no REsp 1.419.098/MS, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 21/05/2018, AgRg nos EDcl no AREsp 611.701/RS, Rel. Ministro Olindo Menezes, Des. convocado do TRF 1ª Região, Primeira Turma, DJe 11/12/2015.
+5. O STJ não admite, em tema de Direito Ambiental, a incidência da teoria do fato consumado (Súmula 613). Confira-se a posição do Supremo Tribunal Federal: "A teoria do fato consumado não pode ser invocada para conceder direito inexistente sob a alegação de consolidação da situação fática pelo decurso do tempo. Esse é o entendimento consolidado por ambas as turmas desta Suprema Corte. Precedentes: RE 275.159, Rel. Min. Ellen Gracie, Segunda Turma, DJ 11/10/2001; RMS 23.593-DF, Rel. Min. Moreira Alves, Primeira Turma, DJ de 2/2/01; e RMS 23.544-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ de 21.6.2002" (RE 609.748/RJ AgR, Rel. Min. Luiz Fux, Primeira Turma, j. em 23/8/2011).
+6. Recurso Especial provido.
+Alega a embargante às fls. 513/514 que "o acórdão embargado restou omisso quanto aos ônus sucumbenciais e sua inversão".
+Assevera que "com o provimento do Recurso Especial para reformar as decisões anteriores, e declarar a impossibilidade de fornecimento de energia elétrica ao imóvel da Autora, o qual está situado em Área de Preservação Permanente, julgando-se, por consequência, improcedentes dos pedidos, impunha-se a inversão dos ônus sucumbenciais".
+Requer, ao final, o conhecimento e acolhimento dos embargos de declaração, a fim de que sejam sanados os vícios existentes no acórdão.
+O Ministério Público do Estado de Santa Catarina apresentou contrarrazões às fls. 522/523 e EVANIR MARIA PEREIRA BRASIL deixou o prazo para manifestação correr in albis (fl. 527).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LIGAÇÃO DE ENERGIA ELÉTRICA EM RESIDÊNCIA LOCALIZADA EM ÁREA DE PRESERVAÇÃO PERMANENTE. RECURSO ESPECIAL PROVIDO. OMISSÃO QUANTO À INVERSÃO DO ÔNUS DE SUCUMBÊNCIA. EMBARGOS ACOLHIDOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Reconhecida a omissão, o julgado deve ser integrado para supri-la.
+3. Embargos de declaração acolhidos para determinar a inversão do ônus de sucumbência.
+VOTO
+A irresignação merece prosperar.
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do art. 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+No caso, o recurso especial foi provido para "declarar a impossibilidade de fornecimento de energia elétrica a terreno situado em Área de Preservação Permanente" (fl. 508).
+Com efeito, "a jurisprudência do STJ é firme no sentido de que o provimento do recurso especial enseja a inversão dos ônus da sucumbência, não sendo hipótese de majoração de honorários advocatícios". (AgInt no REsp n. 1.965.119/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 8/8/2022, DJe de 10/8/2022).
+Registre-se, por fim, que a inversão do ônus sucumbenciais implica no pagamento dos honorários advocatícios e das custas e despesas processuais pela parte vencida.
+Ante o exposto, acolho os embargos de declaração para inverter o ônus da sucumbência.
+É como voto.
