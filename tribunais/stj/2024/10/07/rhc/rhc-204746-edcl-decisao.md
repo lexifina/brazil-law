@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SEBASTIÃO ELIENIO FERREIRA contra decisão monocrática que não conheceu do recurso em habeas corpus (e-STJ fl. 122/124).
+Segundo consta dos autos, foi decretada a prisão temporária do recorrente em razão de uma investigação relacionada ao um crime de homicídio ocorrido no dia 26/3/2024.
+Nas razões do pedido, a defesa alega que "a decisão embargada foi omissa, uma vez que não foi analisada a fundamentação apresentada pelo embargante, no sentido de não possuir a cópia da decisão que decretou a prisão temporária do recorrente, haja vista os autos tramitarem de forma SIGILOSA" (e-STJ fl. 131).
+Assim, "estando o recorrente impossibilitado de apresentar o decreto prisional, bem como tendo juntado os demais documentos necessários e hábeis a comprovar o alegado em recurso, imperiosa a reforma da decisão a fim de ser suprimida a omissão e dado prosseguimento o Recurso Ordinário Constitucional" (e-STJ fl. 132).
+Diante disso, pede seja sanada a alegada omissão e conhecer do recurso em habeas corpus.
+É o relatório, decido.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados.
+Efetivamente o recurso foi deficitariamente instruído, pois a defesa sequer juntou cópia do decreto de prisão temporária, documento que tinha acesso, como consta do acórdão impugnado (e-STJ fl. 90):
+Embora o processo tramite de forma sigilosa, a defesa tem a Assim, assiste razão o eminente Magistrado acoimado coator que, em informações prestadas, pontuou que: "O paciente teve sua prisão temporária decretada, nos termos da decisão de págs. 63, em decorrência de representação da Autoridade Policial, págs. 01/07, com manifestação favorável do Ministério Público nas págs. 60/62. Ainda em fase de cumprimento do mandado, o impetrante peticionou nos autos, com procuração outorgada pelo paciente, e requereu sua habilitação, que foi indeferida, págs. 80 e 82, porque sigiloso o procedimento cautelar de prisão temporária e pendente de procedimentos. A presente medida cautelar encontra-se aguardando o cumprimento do mandado de prisão temporária."
+Portanto, em momento algum, houve negativa de acesso a decisões proferidas na cautelar, tampouco, na decisão que decretou a prisão temporária do paciente.
+Com efeito, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado". (AgRg no HC n. 772.017/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+No caso, o embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+De fato, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1339703/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+Intimem-se.
+EMENTA
