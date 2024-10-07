@@ -1,0 +1,15 @@
+DECISÃO
+ALEX NUNES BARBOZA postula a extensão dos efeitos da decisão em que concedi a ordem para "reconhecer a ilicitude das provas obtidas a partir do ingresso no domicílio do paciente e, por conseguinte, absolver o acusado, com fundamento no art. 386, II, do CPP, da condenação a ele imposta no Processo n. 1528188-07.2018.8.26.0451" (fl. 274).
+A defesa sustenta a similitude da situação fática e processual e pleiteia a aplicação do art. 580 do Código de Processo Penal (fls. 284-287). Aduz que "as buscas em ambas as residências tiveram como motivo a mesma denúncia anônima, e a genitora do ora requerente, tal como a do paciente, também negou ter autorizado as buscas ao ser ouvida sob o crivo do contraditório" (fl. 284).
+À fl. 339, o Ministério Público Federal manifestou-se pelo deferimento do pedido.
+Decido.
+Consoante o art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros.
+Como destacado na decisão anteriormente proferida, as circunstâncias que ensejaram o ingresso na residência do paciente Gustavo Henrique Lopes Luiz foram a existência de denúncia anônima e o suposto consentimento de sua mãe com a entrada dos policiais na casa.
+Na hipótese, como bem asseverou a Subprocuradora-Geral da República Julieta E. Fajardo Cavalcanti de Albuquerque, "verifica-se a existência e situação fático-processual objetivamente idêntica do requerente com a decisão proferida nos autos do processo em epígrafe, uma vez que foram condenados por crimes no contexto da mesma empreitada delituosa" (fl. 339).
+De fato, a diligência no domicílio do ora requerente também foi motivado pela existência de denúncias anônimas, e o Tribunal a quo mencionou, para validar o ingresso dos policiais, o suposto consentimento da mãe do acusado - que não foi comprovado, na forma delimitada pela jurisprudência desta Corte Superior.
+Logo, identifico similitude fática a justificar o acolhimento do pedido de extensão, uma vez que a descoberta a posteriori de uma situação de flagrante decorreu de ingresso ilícito na moradia do acusado, em violação da norma constitucional que consagra direito fundamental à inviolabilidade do domicílio, o que torna imprestável, no caso concreto, a prova ilicitamente obtida e, por conseguinte, todos os atos dela decorrentes e o próprio processo penal - relativo ao delito descrito no art. 33, caput, da Lei n. 11.343/2006 -, porque apoiado exclusivamente nessa diligência policial.
+À vista do exposto, defiro o pedido de extensão para reconhecer a ilicitude das provas obtidas a partir do ingresso no domicílio do requerente e, por conseguinte, absolvê-lo, com fundamento no art. 386, II, do CPP, da condenação a ele imposta no Processo n. 1528188-07.2018.8.26.0451.
+Determino a imediata expedição de alvará de soltura em favor do acusado, caso não esteja preso por outro motivo.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
