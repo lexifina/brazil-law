@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. NEXO CAUSAL, DANOS MORAIS E ESTÉTICOS CONFIGURADOS. QUANTUM INDENIZATÓRIO. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO. NÃO CABIMENTO. SÚMULA N. 7/STJ. 3. JUROS. TERMO INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. 4. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência vigente nesta Corte Superior, a prova constitui elemento de formação da convicção do magistrado acerca dos fatos, tendo como destinatário o juiz, o qual possui a prerrogativa de livremente apreciá-la através de motivada decisão.
+2. Modificar as conclusões do Tribunal local, acerca da prescindibilidade de produção de outras provas, da comprovação do nexo causal e do quantum indenizatório, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3. A indicação de dispositivos sem que esses tenham sido debatidos pelo Tribunal de origem obsta o conhecimento do recurso especial pela ausência de prequestionamento.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Mirian Yoshimura de Sena Soares contra decisão desta relatoria assim ementada (e-STJ, fl. 587):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 3. NEXO CAUSAL, DANOS MORAIS E ESTÉTICOS CONFIGURADOS. QUANTUM INDENIZATÓRIO. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO. NÃO CABIMENTO. SÚMULA N. 7/STJ. 4. JUROS. TERMO INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. 5. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões (e-STJ, fls. 595-601), a insurgente reitera as alegações de que os juros moratórios devem ser computados desde a citação e falta de prova da culpa da dentista para o surgimento do dever de indenizar.
+Não foi apresentada impugnação.
+É o relatório
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. NEXO CAUSAL, DANOS MORAIS E ESTÉTICOS CONFIGURADOS. QUANTUM INDENIZATÓRIO. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO. NÃO CABIMENTO. SÚMULA N. 7/STJ. 3. JUROS. TERMO INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. 4. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência vigente nesta Corte Superior, a prova constitui elemento de formação da convicção do magistrado acerca dos fatos, tendo como destinatário o juiz, o qual possui a prerrogativa de livremente apreciá-la através de motivada decisão.
+2. Modificar as conclusões do Tribunal local, acerca da prescindibilidade de produção de outras provas, da comprovação do nexo causal e do quantum indenizatório, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3. A indicação de dispositivos sem que esses tenham sido debatidos pelo Tribunal de origem obsta o conhecimento do recurso especial pela ausência de prequestionamento.
+4. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela parte insurgente não são capazes de modificar as conclusões da deliberação unipessoal.
+No que concerne ao cerceamento de defesa, o ordenamento jurídico brasileiro adota o princípio do livre convencimento motivado, que possibilita ao juiz a apreciação livre das provas colacionadas aos autos. Ou seja, o julgador não está adstrito à prova que a parte entende lhe seja mais favorável, mas pode formar a sua convicção a partir de outros elementos ou fatos constantes dos autos.
+A propósito:
+PROCESSO CIVIL. AGRAVO REGIMENTAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. PROVA PERICIAL. NÃO INTERPOSIÇÃO DE RECURSO. PRECLUSÃO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INVERSÃO DA PROVA. VEROSSIMILHANÇA DA PRÁTICA DE AGIOTAGEM.
+(..)
+3. O magistrado, com base no livre convencimento motivado, pode indeferir a produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, hipótese em que não se verifica a ocorrência de cerceamento de defesa. Precedentes.
+4. A inversão do ônus da prova autorizada pelos arts. 1º e 3º da MP n.º 2.172-32, que trata da nulidade dos atos de usura pecuniária, impõe acurada análise da ocorrência de requisito legal para seu deferimento: demonstração da verossimilhança da prática de agiotagem. Precedentes.
+5. Agravo regimental não provido. (AgRg no REsp 1196519/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/06/2015, DJe 04/08/2015)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. MAGISTRADO COMO DESTINATÁRIO DAS PROVAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. LIVRE CONVENCIMENTO MOTIVADO.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O nosso sistema processual civil é orientado pelo princípio do livre convencimento motivado, cabendo ao julgador determinar as provas que entender necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias.
+3. Agravo regimental não provido. (AgRg no AREsp 281.230/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/08/2015, DJe 17/08/2015)
+Ademais, o princípio da persuasão racional ou da livre convicção motivada do juiz consigna caber ao magistrado apreciar livremente a prova, atendendo aos fatos e circunstâncias constantes dos autos, conferindo, fundamentadamente, a cada um desses elementos a sua devida valoração.
+No caso em estudo, o Tribunal estadual concluiu pela prescindibilidade da produção de outras provas documentais além daquelas constantes dos autos, de modo que o acolhimento das teses veiculadas nas razões do recurso especial não prescindiria do reexame de circunstâncias fático-probatórias da causa, o que não se admite no âmbito do recurso especial, dado o óbice da Súmula n. 7/STJ.
+Quanto ao mérito, ao analisar a situação dos autos, o Tribunal de Justiça concluiu estar configurada a culpa da ora recorrente pelos danos causados ao fundamento de que "dem onstrada a responsabilidade pelo ocorrido, pela negligência dos réus ao deixarem de esgotar as medidas de cautela, estando perfeitamente delineado o nexo de causalidade entre a conduta dos profissionais e os danos sofridos pela autora" (e-STJ, fl. 463).
+Consignou, ainda, que, "na espécie, os danos morais relacionam-se à dor e aflição psicológica impingida á autora, decorrente da fratura da mandíbula, parestesia permanente e necessidade de nova cirurgia de redução da mandíbula, com colocação de placas e parafusos" (e-STJ, fl. 464).
+Com efeito, infirmar o entendimento alcançado pelo acórdão recorrido com base nos elementos de convicção juntados aos autos, tal como busca o insurgente, esbarraria no enunciado n. 7 da Súmula desta Corte.
+Em relação ao quantum indenizatório, verifica-se que as quantias fixadas pelo Tribunal de origem (R$ 10.000,00 - dez mil reais e R$ 5.000,00 - cinco mil reais) não se afiguram exorbitantes, tendo sido observados os postulados da proporcionalidade e da razoabilidade de acordo com as particularidades do caso vertente, o que torna inviável o recurso especial, nos termos do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Por fim, constata-se que o art. 405 do Código Civil, suscitado no recurso especial como violado, não foi objeto de debate pelo aresto recorrido, tampouco apontada omissão quanto ao ponto nas razões do recurso especial, o que torna inviável a apreciação da matéria ante a falta do indispensável prequestionamento, incidindo a Súmula 211/STJ.
+Dessa forma, como o presente agravo interno não suscitou nenhuma tese capaz de modificar o conteúdo do julgado impugnado, deve-se manter inalterada a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
