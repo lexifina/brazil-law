@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. BENEFICIÁRIO DO CRÉDITO. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. MANDADO DE SEGURANÇA. RESTITUIÇÃO ADMINISTRATIVA. VEDAÇÃO. REGIME CONSTITUCIONAL DE PRECATÓRIOS. TEMA 1.262/STF.
+1. A alteração das premissas adotadas pela Corte de origem quanto ao real beneficiário do crédito no caso concreto, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Tema 1.262/STF: "Não se mostra admissível a restituição administrativa do indébito reconhecido na via judicial, sendo indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da Constituição Federal."
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Comércio de Produtos Alimentícios Costa Alto da Ponte Ltda. e Ivan Lobo Costa desafiando decisão de fls. 339/341, que negou provimento ao seu agravo, sob os seguintes fundamentos: (I) ausência de ofensa aos arts. 489 e 1.022 do CPC; (II) solução da questão da legitimidade pelo Tribunal a quo à luz do acervo fático probatório dos autos (Súmula 7/STJ); e (III) conformidade com o Tema 1.262/STF quanto à impossibilidade de restituição administrativa.
+A parte agravante, em suas razões, sustenta que: (I) "não cabe falar em necessidade de reanálise de fatos e de provas, mas apenas em tão somente verificar questão de direito, ou seja, a matéria relativa à possibilidade de restituição do tributo ao sócio da empresa" (fl. 349); (II) e "a contribuinte tem o direito à restituição do indébito tributário na esfera administrativa" (fl. 358).
+Aberta vista à parte agravada, decorreu in albis o prazo para apresentação de impugnação (fl. 368).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. BENEFICIÁRIO DO CRÉDITO. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. MANDADO DE SEGURANÇA. RESTITUIÇÃO ADMINISTRATIVA. VEDAÇÃO. REGIME CONSTITUCIONAL DE PRECATÓRIOS. TEMA 1.262/STF.
+1. A alteração das premissas adotadas pela Corte de origem quanto ao real beneficiário do crédito no caso concreto, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Tema 1.262/STF: "Não se mostra admissível a restituição administrativa do indébito reconhecido na via judicial, sendo indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da Constituição Federal."
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Anote-se, de início, que a parte ora agravante deixou de refutar a inexistência de ofensa aos arts. 489 e 1.022 do CPC , motivo pelo qual tal ponto não será abordado na presente decisão.
+No mais, a irresignação não merece acolhimento, tendo em conta que a parte recorrente não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pelo decisório recorrido, que ora submeto ao colegiado para serem confirmados:
+Trata-se de agravo manejado por Comércio de Produtos Alimentícios Costa Alto da Ponte Ltda. e Ivan Lobo Costa, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 108):
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. PROCESSUAL CIVIL. ICMS. EXCLUSÃO PIS E COFINS. MANDADO DE SEGURANÇA. POSSIBILIDADE DE RESTITUIÇÃO DOS VALORES ADMINISTRATIVAMENTE. IMPOSSIBILIDADE DO RECONHECIMENTO DO PEDIDO. NÃO DEMONSTRADA A LEGITIMIDADE DO DESTINATÁRIO.
+1. No que atine à compensação/restituição autorizada, em que pese, com efeito, o mandado de segurança não se constituir na via adequada para a repetição de indébito, o C. STJ já assentou a possibilidade do reconhecimento à compensação/restituição no âmbito administrativo, nos termos da Súmula 213, verbis: "O mandado de segurança constitui ação adequada para a declaração do direito à compensação tributária."
+2. Nesse exato sentido, esta C. Turma julgadora, na AC 5003121-69.2018.4.03.6120, Relatora Desembargadora Federal MÔNICA NOBRE, j. 10/07/2019, intimação via sistema na mesma data.
+3. Assim, em tese, as impetrantes têm direito à compensação/restituição- nesse andar o C. Superior Tribunal de Justiça, no REsp 1.642.350/SP, Relator Ministro HERMAN BENJAMIN, Segunda Turma, j. 16/03/2017, DJe 24/04/2017.
+4. No entanto, no caso dos autos, como bem apontado pelo magistrado singular a restituição almejada foi feita no nome do sócio da empresa e não da real beneficiária do crédito, sem a devida juntada de documentação que legitime a transferência dos valores.
+5. Dessa forma, em que pese o pedido quanto à restituição seja possível, o certo que o pleito das recorrentes encontra-se óbice quanto ao destinatário dos valores, razão pela qual entendo que correta a decisão agravada.
+6. Agravo de instrumento a que se nega provimento.
+Opostos embargos declaratórios, foram acolhidos "parcialmente tão somente para aclarar a alegação quanto ao enriquecimento ilícito da União Federal, sem modificação do resultado" (fl. 182).
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 489, § 1º, IV, VI, e 1.022, II, do CPC; 165 do CTN; 73 e 74 da Lei nº 9.430/96 e à Súmula 461/STJ. Sustenta que: (I) a despeito dos embargos de declaração, o Tribunal de origem remanesceu omisso acerca das questões neles suscitadas; (II) "havendo encerramento das atividades, terão legitimidade para pleitear a restituição os sócios que detêm o direito ao crédito" (fl. 220); e (III) o contribuinte possui "o direito à restituição administrativa também do indébito reconhecido por decisão judicial" (fl. 222).
+Às fls. 311/313, proferi decisão determinando o retorno dos autos à Corte Regional para que lá fosse realizado juízo de adequação ao Tema 1.262/STF.
+Foi então que a Vice Presidência do Tribunal determinou a restituição dos autos ao STJ, por entender que o tema objeto da repercussão geral é diferente da hipótese dos autos (fls. 323/325).
+Vieram os autos conclusos.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+Adiante, a respeito da legitimidade do sócio, o Tribunal Regional assim se manifestou (fl. 118):
+Ocorre que, no caso dos autos, como bem apontado pelo magistrado singular e asseverado pela União Federal, em sua contraminuta, a restituição almejada tem como destinatário o sócio da empresa e não a real beneficiária do crédito, sem que tenham sido colacionados documentos que legitimem a concessão dos valores.
+Dessa forma, em que pese o pedido quanto à restituição seja possível, o certo que o pleito das recorrentes encontra-se óbice quanto ao destinatário dos valores, razão pela qual entendo que correta a decisão agravada.
+Assim, a alteração das premissas adotadas pela Corte de origem quanto ao real beneficiário do crédito no caso concreto, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Por fim, inviável o pleito de restituição pela via mandamental, considerando o que decidido pelo STF no Tema 1.262/STF: "Não se mostra admissível a restituição administrativa do indébito reconhecido na via judicial, sendo indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da Constituição Federal."
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+Conforme antes consignado, a respeito da alegada legitimidade do sócio, confira-se a fundamentação trazida pelo aresto recorrido (fl. 118):
+Ocorre que, no caso dos autos, como bem apontado pelo magistrado singular e asseverado pela União Federal, em sua contraminuta, a restituição almejada tem como destinatário o sócio da empresa e não a real beneficiária do crédito, sem que tenham sido colacionados documentos que legitimem a concessão dos valores.
+Dessa forma, em que pese o pedido quanto à restituição seja possível, o certo que o pleito das recorrentes encontra-se óbice quanto ao destinatário dos valores, razão pela qual entendo que correta a decisão agravada.
+Assim, inarredável a incidência da Súmula 7/STJ ao caso, pois a revisão das premissas adotadas pelas instâncias ordinárias, quanto ao real beneficiário do crédito, com alicerce em análise das provas colhidas nos autos, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial.
+Adiante, o STF, ao julgar o RE 1.420.691-RG pelo rito da repercussão geral, chancelou tese coincidente com a adotada pelo Tribunal de origem, de que " n ão se mostra admissível a restituição administrativa do indébito reconhecido na via judicial, sendo indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da Constituição Federal".
+Confira-se, a propósito, a ementa de referido julgado:
+Recurso extraordinário. Representativo da controvérsia. Direito constitucional e tributário. Restituição administrativa do indébito reconhecido na via judicial. Inadmissibilidade. Observância do regime constitucional de precatórios (CF, art. 100). Questão constitucional. Potencial multiplicador da controvérsia. Repercussão geral reconhecida com reafirmação de jurisprudência. Decisão recorrida em dissonância com a jurisprudência do Supremo Tribunal Federal. Recurso extraordinário provido.
+1. Firme a jurisprudência deste Supremo Tribunal Federal no sentido de que os pagamentos devidos pela Fazenda Pública em decorrência de pronunciamentos jurisdicionais devem ser realizados por meio da expedição de precatório ou de requisição de pequeno valor, conforme o valor da condenação, consoante previsto no art. 100 da Constituição da República
+2. Recurso extraordinário provido.
+3. Fixada a seguinte tese: Não se mostra admissível a restituição administrativa do indébito reconhecido na via judicial, sendo indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da Constituição Federal.
+(RE 1.420.691 RG, Relator(a): Ministra Presidente, Tribunal Pleno, julgado em 21/8/2023, processo eletrônico repercussão geral - mérito, DJe-188 DIVULG 25/8/2023 PUBLIC 28/8/2023.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
