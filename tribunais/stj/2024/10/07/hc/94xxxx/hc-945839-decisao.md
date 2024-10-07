@@ -1,0 +1,24 @@
+DECISÃO
+ALEXANDRE BECKER BUSS JUNIOR, paciente neste habeas corpus, alega sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 5007759-55.2020.8.24.0075.
+Depreende-se dos autos que o paciente foi condenado à pena de 2 anos e 6 meses de reclusão, no regime inicial aberto, mais multa, pela prática do crime previsto no art. 33, caput e § 4º, da Lei n. 11.343/2006.
+Nas razões deste writ, busca a defesa seja aplicada a minorante prevista no § 4º do art. 33 da Lei de Drogas no patamar máximo.
+Instado a se manifestar, o Ministério Público opinou pela denegação da ordem.
+Decido.
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Observa-se, assim, que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nele previsto, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal e, especialmente, o disposto no art. 42 da Lei de Drogas. A propósito, confira-se o seguinte julgado: AgRg no REsp n. 1.429.866/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/6/2015.
+No caso, o Tribunal de origem salientou o seguinte ao preservar a pena do réu (fl. 49):
+Convém destacar que é certo que os elementos de prova constantes nos autos indicam que o apelante não faz jus à incidência da referida causa de diminuição no patamar máximo, tendo sido, inclusive, bastante beneficiado pelo reconhecimento da benesse.
+Nesse caminho, considerando as circunstâncias do caso concreto, que envolveu a apreensão de 10,2g (dez gramas e dois decigramas) de cocaína, e que o apelante realizava, há certo tempo, a venda do estupefaciente por meio de tele-entrega, preserva-se a aplicação do quantum de redução da pena no montante de 1/2 (um meio).
+Veja-se, portanto, que as instâncias ordinárias fundamentaram concretamente a aplicação do privilégio previsto no § 4º do art. 33 da Lei de Drogas na fração de 1/2, salientando, para tanto, condições entre as estabelecidas no art. 42 da Lei de Drogas, quais sejam, natureza e quantidade da droga apreendida.
+Embora tal argumento constitua, de fato, elemento concreto e idôneo a justificar a eleição da fração do redutor, considero que o montante de substâncias encontrado com o acusado (10,2 g de cocaína) não foi excessivamente elevado a ponto de, isoladamente, evidenciar a acentuada reprovabilidade da conduta do réu. Entendo, assim, ser desproporcional sopesar, no caso ora analisado, apenas essa circunstância para justificar a incidência da minorante no patamar médio.
+Ainda, a circunstância de o tráfico haver sido cometido na modalidade "tele-entrega" não revela maior periculosidade ao crime.
+Ademais, saliento que, no contexto da prisão, não foram apreendidos apetrechos destinados ao preparo e comércio da droga, balança de precisão, rádio transmissor ou anotações relativos ao comércio ilícito habitual.
+Assim, identifico a contrariedade ao § 4º do art. 33 da Lei n. 11.343/2006 e fixo a fração de diminuição de pena no patamar de 2/3. Ressalto que estou fixando a fração máxima, porque, a despeito da natureza da droga apreendida, sua quantidade não pode ser considerada expressiva.
+II. Nova dosimetria
+Procedendo-se, pois, à nova dosimetria da pena, verifico que a reprimenda-base ficou estabelecida no mínimo legal, ou seja, em 5 anos de reclusão e pagamento de 500 dias-multa. Na segunda fase, a atenuante não pode conduzir a pena aquém do mínimo. Na terceira etapa, reduzo a reprimenda em 2/3, em decorrência da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, tornando a pena do acusado definitivamente estabelecida em 1 ano e 8 meses reclusão e pagamento de 166 dias-multa.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, a fim de aplicar em 2/3 a causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 e, por conseguinte, reduzir a reprimenda do paciente para 1 ano e 8 meses reclusão e pagamento de 166 dias -multa; mantidos os demais termos da sentença condenatória.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
