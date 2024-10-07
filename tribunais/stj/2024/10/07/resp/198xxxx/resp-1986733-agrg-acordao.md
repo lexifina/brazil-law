@@ -1,0 +1,120 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. DIREITO PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO CONSUMADO E TENTADO. PRONÚNCIA MANTIDA. ALEGADA ILICITUDE DE CONFISSÃO INFORMAL. EXAME DE CORPO DE DELITO REALIZADO POR PERITO NÃO OFICIAL. INEXISTÊNCIA DE NULIDADE. INVERSÃO NA ORDEM DE OITIVA DE TESTEMUNHAS E INTERROGATÓRIO DO ACUSADO. PRECLUSÃO E AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. INDÍCIOS DE AUTORIA E MATERIALIDADE SUFICIENTES. APLICAÇÃO DAS SÚMULAS 7/STJ, 283/STF E 568/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Rodolfo de Oliveira Monteiro contra decisão que negou provimento ao recurso especial, mantendo a pronúncia pelos crimes de homicídio qualificado, consumado e tentado, conforme arts. 121, § 2º, I, IV e VI, e § 2º-A, I, e art. 121, IV, c/c o art. 14, II, e art. 70, todos do Código Penal, com incidência da Lei n. 8.072/1990.
+II. QUESTÃO EM DISCUSSÃO
+2. Há cinco questões em discussão: (i) a validade da confissão informal gravada fora do ambiente formal de interrogatório; (ii) a nulidade do exame de corpo de delito realizado por perito não oficial; (iii) a nulidade pela inversão na ordem de oitiva de testemunhas e interrogatório dos acusados; (iv) a exclusão das qualificadoras do motivo torpe e do recurso que impossibilitou a defesa da vítima; (v) a pronúncia com base em indícios de autoria e materialidade.
+III. RAZÕES DE DECIDIR
+3. A confissão informal do acusado não configura ilicitude, uma vez que não se trata de ato formal de interrogatório e não houve comprovação de violação dos direitos do acusado.
+4. O exame de corpo de delito realizado por perito não oficial em município com recursos limitados é válido, conforme entendimento jurisprudencial e em consonância com o art. 159 do CPP.
+5. A alegada nulidade pela inversão da ordem de oitiva das testemunhas e interrogatório não procede, em razão da preclusão e da ausência de demonstração de prejuízo concreto à defesa, conforme previsto nos arts. 563 e 572 do CPP.
+6. A exclusão das qualificadoras não é cabível nesta fase processual, devendo as mesmas ser analisadas pelo Tribunal do Júri, considerando a existência de substrato probatório mínimo.
+7. A pretensão de reversão da decisão sobre a pronúncia demandaria reexame de provas, o que é vedado pela Súmula 7/STJ.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental desprovido.
+Tese de julgamento:
+1. A gravação de confissão informal do acusado fora de ato formal de interrogatório é válida se não houver violação dos direitos do acusado.
+2. O exame de corpo de delito realizado por perito não oficial é admissível em razão da falta de peritos oficiais, especialmente em localidades com escassez de recursos.
+3. A nulidade pela inversão na ordem de oitiva das testemunhas e interrogatório dos acusados está sujeita à preclusão e depende da demonstração de prejuízo efetivo à defesa.
+4. As qualificadoras do motivo torpe e do recurso que impossibilitou a defesa da vítima devem ser analisadas pelo Tribunal do Júri, salvo ausência de substrato probatório mínimo.
+5. A pronúncia baseada em indícios de autoria e materialidade não pode ser revertida em recurso especial sem reexame de provas, conforme Súmula 7/STJ.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Rodolfo de Oliveira Monteiro contra decisão assim resumida (fls. 2.273):
+RECURSO ESPECIAL. HOMICÍDIOS QUALIFICADOS, CONSUMADO E TENTADO. PRONÚNCIA CONFIRMADA EM SEGUNDO GRAU. INÉPCIA DA DENÚNCIA POR FALTA DE JUSTA CAUSA. PRECLUSÃO. ACÓRDÃO NO MESMO SENTIDO DO STJ. TRIBUNAL AFIRMA COM BASE NO LASTRO PROBATÓRIO DOS AUTOS A PROVA DA MATERIALIDADE E OS INDÍCIOS DE AUTORIA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. EXAME DE CORPO DE DELITO DA VÍTIMA. POSSIBILIDADE DE JUNTADA POSTERIOR. PRECEDENTES. LAUDO PERICIAL FEITO NO CORRÉU. ASSINATURA DE APENAS UM PERITO MÉDICO NÃO OFICIAL. POSSIBILIDADE. LIMITAÇÃO ORÇAMENTÁRIA E LOGISTICA.
+FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. IRREGULARIDADE PROCEDIMENTAL NÃO GERA NULIDADE. ACÓRDÃO RECORRIDO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+PRECEDENTES.
+Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+O agravante insiste nas alegações postas no recurso especial, notadamente acerca da ilicitude do vídeo de confissão informal do acusado em inquérito policial; da nulidade do exame de corpo de delito do réu; da nulidade por inversão na ordem de oitiva das testemunhas e do interrogatório dos acusados; da exclusão das qualificadoras do motivo torpe e do recurso que impossibilitou a defesa da vítima e da impronúncia do acusado.
+Diz que, sem a necessidade de se realizar um revolvimento fático, que a autoridade policial realizou ilegalmente uma confissão em ambiente diverso da delegacia de polícia, sem advertir o recorrente de seu direito ao silencio, em condições claras de violações aos direitos do acusado (fl. 2.300).
+Aduz não incidir a Súmula 283/STF, no tocante à nulidade do exame de corpo de delito do acusado, por considerar que os argumentos levantados pelo TJ/PA foram todos combatidos, sobretudo porque restou provado nos autos a arbitrariedade da PC/PA para levar o acusado ao IML para realizar exame residuográfico e não para o corpo de delito.  Ademais,  sob o ponto de vista da revalorização das provas, questiona-se o peso da prova avaliada em desfavor do réu que não obedeceu a lei processual penal por mera arbitrariedade da autoridade policial, o réu deve se submeter a flexibilização do art. 159, §1º do Código de Processo Penal (fl. 2.303).
+Argumenta, em relação à inversão na ordem de oitiva das testemunhas e do interrogatório dos acusados, que não há o que se falar em torpeza da defesa, quando a lei através do art. 400 do CPP, estabelece que o réu é o último a ser ouvido. Isto se dá pelo direito do acusado de contrapor e complementar qualquer testemunho, inclusive o da defesa - trata-se da efetividade da plenitude de defesa estabelecida em pela CF (fl. 2.304).
+Além disso, a superação da súmula 283 do STF é cabível no caso em discussão, porque, conforme amplamente demonstrado, a defesa tem manifestado seu inconformismo sobre a matéria em todos os momentos oportunos, quais sejam, em audiência de instrução e julgamento (antes da inversão da ordem processual do art. 400 do CPP) - (fls. 2.304/2.305).
+No tocante à exclusão das qualificadoras, insiste na alegação de que se busca a revaloração das provas e não o revolvimento fático, sustentando, ainda, que não há testemunhas oculares do crime; não se pode utilizar provas ilícitas em desfavor do acusado (confissão informal); não há elementos concreto que indiquem que o agravante participou de eventual crime e as qualificadoras atribuídas em desfavor do réu não encontram guarida em nenhuma prova, agindo assim, a acusação por mera presunção (fl. 2.309).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. DIREITO PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO CONSUMADO E TENTADO. PRONÚNCIA MANTIDA. ALEGADA ILICITUDE DE CONFISSÃO INFORMAL. EXAME DE CORPO DE DELITO REALIZADO POR PERITO NÃO OFICIAL. INEXISTÊNCIA DE NULIDADE. INVERSÃO NA ORDEM DE OITIVA DE TESTEMUNHAS E INTERROGATÓRIO DO ACUSADO. PRECLUSÃO E AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. INDÍCIOS DE AUTORIA E MATERIALIDADE SUFICIENTES. APLICAÇÃO DAS SÚMULAS 7/STJ, 283/STF E 568/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Rodolfo de Oliveira Monteiro contra decisão que negou provimento ao recurso especial, mantendo a pronúncia pelos crimes de homicídio qualificado, consumado e tentado, conforme arts. 121, § 2º, I, IV e VI, e § 2º-A, I, e art. 121, IV, c/c o art. 14, II, e art. 70, todos do Código Penal, com incidência da Lei n. 8.072/1990.
+II. QUESTÃO EM DISCUSSÃO
+2. Há cinco questões em discussão: (i) a validade da confissão informal gravada fora do ambiente formal de interrogatório; (ii) a nulidade do exame de corpo de delito realizado por perito não oficial; (iii) a nulidade pela inversão na ordem de oitiva de testemunhas e interrogatório dos acusados; (iv) a exclusão das qualificadoras do motivo torpe e do recurso que impossibilitou a defesa da vítima; (v) a pronúncia com base em indícios de autoria e materialidade.
+III. RAZÕES DE DECIDIR
+3. A confissão informal do acusado não configura ilicitude, uma vez que não se trata de ato formal de interrogatório e não houve comprovação de violação dos direitos do acusado.
+4. O exame de corpo de delito realizado por perito não oficial em município com recursos limitados é válido, conforme entendimento jurisprudencial e em consonância com o art. 159 do CPP.
+5. A alegada nulidade pela inversão da ordem de oitiva das testemunhas e interrogatório não procede, em razão da preclusão e da ausência de demonstração de prejuízo concreto à defesa, conforme previsto nos arts. 563 e 572 do CPP.
+6. A exclusão das qualificadoras não é cabível nesta fase processual, devendo as mesmas ser analisadas pelo Tribunal do Júri, considerando a existência de substrato probatório mínimo.
+7. A pretensão de reversão da decisão sobre a pronúncia demandaria reexame de provas, o que é vedado pela Súmula 7/STJ.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental desprovido.
+Tese de julgamento:
+1. A gravação de confissão informal do acusado fora de ato formal de interrogatório é válida se não houver violação dos direitos do acusado.
+2. O exame de corpo de delito realizado por perito não oficial é admissível em razão da falta de peritos oficiais, especialmente em localidades com escassez de recursos.
+3. A nulidade pela inversão na ordem de oitiva das testemunhas e interrogatório dos acusados está sujeita à preclusão e depende da demonstração de prejuízo efetivo à defesa.
+4. As qualificadoras do motivo torpe e do recurso que impossibilitou a defesa da vítima devem ser analisadas pelo Tribunal do Júri, salvo ausência de substrato probatório mínimo.
+5. A pronúncia baseada em indícios de autoria e materialidade não pode ser revertida em recurso especial sem reexame de provas, conforme Súmula 7/STJ.
+VOTO
+A insurgência não merece acolhida.
+Com efeito, de acordo com o afirmado anteriormente, consta dos autos que o Juízo da Vara Criminal de Santa Izabel do Pará/PA pronunciou os acusados Diego Sá Guimarães da Silva e Rodolfo de Oliveira Monteiro pelos crimes do art. 121, § 2º, I, IV e VI, e § 2º-A, I, do Código Penal, em relação à vítima Kalícia, e do art. 121, IV, c/c o art. 14, II, do Código Penal, quanto à vítima Jeferson c/c o art. 70, também do Código Penal, nos contornos da Lei n. 8.072/1990.
+Narra a inicial acusatória que o denunciado DIEGO SÁ GUIMARÃES DA SILVA agiu por motivação torpe, já que não aceitava o término da relação amorosa com Kalícia Drienne dos Santos Almeida, e com recurso que impossibilitou a sua defesa, uma vez que a atacou e disparou com arma de fogo, por diversas vezes, enquanto a vítima seguia como condutora do veículo de marca Fiat Uno, desarmada e surpreendida com a ação criminosa que não esperava (fl. 30 - grifo nosso).
+Consta, ainda, que o denunciado RODOLFO DE OLIVEIRA MONTEIRO agiu por motivação torpe, sob o comando do denunciado DIEGO DE SÁ, haja vista que agiu mediante pagamento da quantia de R$ 1.200,00 (um mil e duzentos reais) para a execução do crime, e com recurso que impossibilitou a defesa da vítima, uma vez que a atacou e disparou com arma de fogo, por diversas vezes, enquanto a vítima seguia como condutora do veículo de marca Fiat Uno, desarmada e surpreendida com a ação criminosa que não esperava (fl. 30).
+Apurou-se que DIEGO SÁ GUIMARÃES DA SILVA e a Kalícia Drienne dos Santos Almeida foram casados durante há aproximadamente 01 (um) ano, e estavam separados de fato há aproximadamente 03 (três) meses, no entanto não haviam ainda se divorciado. A ofendida Kalícia separou-se de DIEGO alegando que ele era mentiroso e agressivo (fl. 32).
+Tal o contexto, a decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seus fundamentos, motivo pelo qual os trago ao Colegiado para serem confirmados.
+A Corte de Justiça paraense afastou a aventada ilegalidade da gravação de confissão do recorrente afirmando peremptoriamente, com base nos elementos fáticos dos autos, que não se tratava de interrogatório nem mesmo de ato formal, inexistindo qualquer relevância para a ação penal, destacando, ainda, o que se segue (fl. 1.919 - grifo nosso):
+1 - Da ilicitude da gravação de confissão do acusado e seu desentranhamento dos autos em caso de pronúncia.
+Nota-se que novamente a defesa busca rediscutir a matéria já apreciada pelo magistrado a quo, a qual concordo plenamente e passo a reproduzir para fazer para desta decisão:
+"A questão levantada pela Defesa já foi analisada pelo juízo a quo e, conforme já declinado acima, a gravação não é ilícita, pois, além de não se confundir com o interrogatório do acusado perante a autoridade policial, inexiste qualquer comprovação de ofensa a regras de direito material."
+Nesse sentido destaco trecho da sentença de pronúncia:
+"(..) A Defesa deixou de mencionar e comprovar no que especificamente se constituíram as supostas violações a regras de Direito, fazendo, apenas, referência a diversos dispositivos da Constituição Federal, do Código de Processo Penal e de Acordos/Tratados/Pactos internacionais.
+Ademais, além de inexistir qualquer transgressão de regras de direito material ou processual, eventual inobservância de procedimentos realizados durante o Inquérito Policial não desnatura o seu caráter informativo a lastrear a ação penal.
+Por fim, a não realização da audiência de custódia no prazo legal encontra-se plenamente justificada, já que o acusado foi preso em outro Pais, tendo que ser recambiado para o Estado do Pará (..)".
+Preliminar deve permanecer rejeitada.
+Dessa forma, a inversão do que ficou decidido, como pretende o agravante, demanda o reexame do acervo fático-probatório constante dos autos, providência que contraria a Súmula 7/STJ.
+No mais, o acórdão mantém a higidez do exame de corpo de delito do corréu, assinado apenas por um médico não oficial, destacando, além da impossibilidade material dos municípios interioranos com escassez de recursos, o que se segue (fl. 2.264 - grifo nosso):
+ Não  há nulidade no exame de corpo de delito do acusado, pois realizado por médico, nomeado pela autoridade policial, dado, também, a inexistência de peritos oficiais em cidades menores do interior do Pará e a limitação de recursos financeiros e humanos da Polícia para encaminhamento de presos a cidades que contam com IML.
+Nos termos do art. 159 do CPP, a nomeação do perito recairá, preferencialmente, em pessoas legalmente habilitadas; todavia, nada impede que, na ausência desses profissionais, a nomeação recaia sobre pessoas sem preparo técnico específico para confecção do laudo pericial diante da simplicidade do exame, como, de fato, se verificou no caso em tela. (e-STJ Fl. 1843)
+Ademais, como bem anotado no parecer ministerial, cujas razões adoto como fundamento para decidir, a defesa questiona a validade da perícia unicamente em virtude de irregularidade procedimental (laudo assinado por apenas um perito não oficial), sem qualquer insurgência quanto ao conteúdo do documento, sendo certo que as agressões foram também atestadas por outros meios de prova, inclusive pela prova oral (fl. 2.265 - grifo nosso).
+Tal o contexto, a par da falta de impugnação do referido fundamento, suficiente, por si só, para manter o acórdão no ponto, trazendo a lume o óbice da Súmula 283/STF, o entendimento adotado vai ao encontro da jurisprudência do Superior Tribunal de Justiça de que, mesmo quando o art. 159 do CPP, com a redação dada pela Lei 8.862/94, exigia que o laudo fosse assinado por dois peritos oficiais, não gerava nulidade o fato de serem os esclarecimentos ao laudo pericial assinados por um único perito oficial" (APn 593/MT,  .. , Corte Especial, DJe 07/02/2013) - (AgInt no REsp n. 1.378.862/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1/8/2016 - grifo nosso).
+Dessa forma, estando o acórdão recorrido em conformidade com a jurisprudência do Superior Tribunal de Justiça, incide à espécie a Súmula 568/STJ.
+No que diz com a inversão da oitiva das testemunhas e o interrogatório do recorrente, a Corte de Justiça paraense afastou a existência da aventada nulidade afirmando que as referidas testemunhas foram arroladas pela própria defesa, o que poderia configurar um benefício obtido em razão da própria torpeza, inexistindo boa-fé processual na medida pretendida.
+Ademais, consoante afirmado, restou claro no acórdão que a defesa não se manifestou no primeiro momento que teve oportunidade de abordar a controvérsia, motivo pelo qual se aplicou a máxima de que "o Direito não socorre os que dormem" porquanto houve a preclusão de tais alegações, bem como o brocardo francês pas de nullité sana grief vastamente utilizado pelo Superior Tribunal de Justiça para afirmar que na sistemática processual contemporânea não há nulidade se não houve prejuízo (fl. 1.833 - grifo nosso).
+Entretanto, tal fundamento não foi objeto de impugnação nas razões do especial, trazendo à lume o óbice da Súmula 283/STF.
+Outrossim, tenho que o entendimento esposado pela Corte estadual vai ao encontro da jurisprudência consolidada do Superior Tribunal de Justiça no sentido da não configuração de nulidade pela inversão da ouvida de testemunhas de acusação e de defesa, quando a inquirição for feita por meio de carta precatória, cuja expedição não suspende a instrução criminal (HC 461.002/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/10/2018, DJe 31/10/2018) - (AgRg no REsp n. 1.804.071/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 10/2/2020 - grifo nosso).
+Em reforço:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. DIREITO PROCESSUAL PENAL. TEMA 1.114. INVERSÃO DA ORDEM NO INTERROGATÓRIO DO RÉU. ART. 400 DO CPP. NULIDADE QUE SE SUJEITA À PRECLUSÃO TEMPORAL. ART. 571, INCISO II E ART. 572, AMBOS DO CPP E À DEMONSTRAÇÃO DE PREJUÍZO À DEFESA - ART. 563 DO CPP. RECURSO PARCIALMENTE CONHECIDO E NESTA PARTE DES PROVIDO.
+I - Em que pese haver entendimento nesta corte Superior admitindo o interrogatório quando pendente de cumprimento carta precatória expedida para oitiva de testemunhas e da vítima, a jurisprudência majoritária nas Cortes superiores vem evoluindo e se sedimentando no sentido de que há nulidade ocasionada pela inversão da ordem prevista no art. 400 do CPP, no entanto, a alegação está sujeita à preclusão e à demonstração do efetivo prejuízo.
+ ..
+V - Sob outro enfoque, ao réu incumbe arguir a nulidade na própria audiência ou no primeiro momento oportuno, salvo situação extraordinária em que deverá argumentar a excepcionalidade no primeiro momento em que tiver conhecimento da inversão da ordem em questão. Cabe também à defesa a demonstração do prejuízo concreto sofrido pelo réu, uma vez que se extrai do ordenamento, a regra geral segundo a qual, as nulidades devem ser apontadas tão logo se tome conhecimento delas, ou no momento legalmente previsto, sob pena de preclusão, conforme dispõe o art. 572 e incisos, do CPP.
+ ..
+IX - Tese jurídica: O interrogatório do réu é o último ato da instrução criminal. A inversão da ordem prevista no art. 400 do CPP tangencia somente à oitiva das testemunhas e não ao interrogatório.
+O eventual reconhecimento da nulidade se sujeita à preclusão, na forma do art. 571, I e II, do CPP, e à demonstração do prejuízo para o réu.
+Recurso especial parcialmente conhecido e, nesta extensão, desprovido.
+(REsp n. 1.946.472/PR, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 13/9/2023, DJe de 25/9/2023.)
+No mais, o Tribunal de Justiça paraense afirmou, com base no lastro fático-probatório dos autos, estar comprovada a materialidade delitiva e haver indícios de autoria suficientes para a pronúncia, inclusive quanto à caracterização das qualificadoras imputadas, como se observa dos seguintes excertos (fls. 1.845/1.846 - grifo nosso):
+ ..
+A materialidade é indiscutível, estando comprovada pelo Laudo de Necropsia Médico-Legal de fls. 267/268, no Laudo n. 2018.01.01.2825-TRA, pendente de juntada aos autos, e, por fim, no depoimento da vítima Jefferson Pereira Reis.
+No que tange aos indícios de autoria, é conveniente destacar, que para que haja a Pronúncia, esta não precisa estar provada.
+Bastando apenas a apresentação de evidências que demonstrem a suposta autoria, para submeter o caso ao juízo do Conselho de Sentença.
+Os indícios de autoria estão amplamente demonstrados nos seguintes documentos:
+1.Do auto de apresentação e apreensão do veículo supostamente utilizado no crime que estava na posse do réu JEFFERSON PEREIRA REIS - fls. 33/34 e 36 (IPL);
+2. Da mídia das gravações das câmeras de segurança - fls. 48 (IPL);
+3. Do laudo de análise técnica de imagens concluindo que veículo apreendido com o réu JEFFERSON PEREIRA REIS é o mesmo captado pelas gravações das câmeras de segurança - fls.50/60 (IPL);
+4. Do contrato de locação do veículo apreendido com o réu JEFFERSON PEREIRA REIS, firmado entre a empresa Telecar Rent a Car e o réu DIEGO SÁ - fls. 74/77 (IPL);
+5. Do relatório do GPS do veículo apreendido entre os dias 13/09/2018 e 18/09/2018 - fls. 90/349 (IPL);
+ ..
+7. Da troca de mensagens entre a vítima KALÍCIA e o réu DIEGO SÁ - fls 552/555 e 564/571;
+8.Do relato das testemunhas indicando relação conturbada entre a vítima KALÍCIA e o réu DIEGO, inclusive com perseguições e ameaças.
+Na hipótese de remanescer qualquer dúvida a respeito, a matéria tem que ser submetida ao Tribunal do Júri, em vista de preponderar, nesta fase processual, o princípio in dubio pro societate.
+Nota-se que o juízo a quo proferiu a sentença de forma escorreita quanto aos indícios de autoria e materialidade dos crimes de homicídio qualificado e tentativa de homicídio qualificado praticados supostamente pelos recorrentes.
+Consoante já exposto, as qualificadoras, enquanto circunstâncias constitutivas do tipo penal e por refletirem diretamente no desvalor da conduta imputada, devem ser submetidas, como regra, a julgamento pelo Tribunal do Júri.
+Apenas excepcionalmente, quando ausente substrato probatório mínimo a ampará-las, é que se afigura possível sua exclusão já nesta fase processual.
+Portanto, em se tratando de procedimento do Tribunal do Júri, a competência outorgada pela Constituição Federal ao Conselho de Sentença impõe uma restrição à cognição do juiz togado, que, observado o estabelecido pelo artigo 413 do Código de Processo Penal, deve estar limitada ao convencimento da materialidade do fato e à verificação da existência de indícios suficientes de autoria ou participação. Deste modo, os elementos carreados aos autos não autorizam o decote das qualificadoras, as quais deverão ser analisadas pelo Tribunal do júri.
+Dessa forma, a pretendida inversão do que ficou decidido também demanda o reexame do acervo fático-probatório constante dos autos, providência que contraria a Súmula 7/STJ.
+Nesse sentido:
+ ..
+4. A pretensão de impronúncia ou de desclassificação da conduta para o crime de homicídio privilegiado ou de lesões corporais, tal como pleiteada nas razões recursais, demanda, como ressaltado no decisum reprochado, nova incursão no acervo, tarefa obstada pela Súmula 7/STJ (AgRg no AREsp n. 1.651.852/MG, Ministro Felix Fischer, Quinta Turma, DJe 19/5/2020).
+ ..
+(EDcl no AgInt no REsp n. 1.838.360/RS, de minha relatoria, Sexta Turma, DJe 9/9/2020).
+Ante o exposto, nego provimento ao agravo regimental.
