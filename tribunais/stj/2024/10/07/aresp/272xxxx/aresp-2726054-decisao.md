@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual ANA MARIA DA SILVA LOPES, TELMO RICARDO SCHORR E OUTROS insurgiram-se, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fl. 125):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PÚBLICA. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PAGAMENTO MEDIANTE EXPEDIÇÃO DE PRECATÓRIO . OPOSIÇÃO DE EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. INTELIGÊNCIA DO ART. 85, § 7º, DO CPC C/C O ART. 1º-D DA LEI N. 9.494/1997. BASE DE CÁLCULO. PARCELA CONTROVERTIDA.
+Hipótese dos autos em que a parte exequente moveu execução de sentença, cujo crédito comportava pagamento mediante expedição de precatório, a qual fora embargada pela Fazenda Pública.
+À luz do entendimento assente do Superior Tribunal de Justiça, apresentada impugnação ao cumprimento de sentença contra a Fazenda Pública, da qual resulte a expedição de precatório, serão devidos honorários advocatícios, nos termos do art. 85, §7º, do CPC c/c o art. 1º-D da Lei n. 9.494/1997.
+Com efeito, na linha do entendimento preconizado pelo STJ, imperiosa a fixação dos honorários de sucumbência para a execução de sentença, contudo deverão incidir com base no valor controvertido da execução.
+AGRAVO DE INSTRUMENTO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 163/165).
+Em suas razões recursais, a parte recorrente sustenta violação dos arts. 85, § 7º e 1.022, II, do CPC/2015. Alega, para tanto: (a) a negativa de prestação jurisdicional; e (b) que a base de cálculo dos honorários advocatícios deve ser o valor total executado e não o valor controvertido.
+A parte adversa apresentou contrarrazões às fls. 302/309.
+É o relatório.
+Inexiste a alegada violação do art. 1.022, II, do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+No mais, o entendimento do Tribunal a quo está em consonância com a jurisprudência desta Corte que determina a condenação da Fazenda Pública ao pagamento de honorários advocatícios sucumbenciais quando a Fazenda impugna a pretensão executória. Esses honorários devem ser determinados, contudo, não com base no valor total da execução, e sim a partir do valor controvertido da execução.
+Cito precedentes:
+PROCESSUAL CIVIL. ALEGAÇÃO GENÉRICA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA Nº 284/STF. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇÃO DE PRECATÓRIO. ART. 85, § 7º, DO CPC. HONORÁRIOS. ACÓRDÃO EM HARMONIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. SÚMULA Nº 83/STJ. AGRAVO INTERNO CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. No que tange à alegada violação ao art. 1.022 do CPC/2015, verifica-se que as razões de recorrer são genéricas, na medida em que limitam-se a afirmar que o acórdão a quo foi omisso quando a avaliação dos embargos de declaração, sem contudo delimitar como a tese omitida é fundamental à conclusão do julgado e, se examinada, como levaria à sua anulação ou reforma. Incidência da Súm. n. 284/STF.
+2. O direito de honorários em fase de execução quando a Fazenda Pública apresenta irresignação em processos sujeitos a precatório não foi negado aos agravantes. Contudo, nos termos da jurisprudência do STJ, a base de cálculo deve ser apenas o valor controvertido na execução.
+3. Agravo interno não provido. (AgInt no REsp n. 2.025.606/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇÃO DE PRECATÓRIO. IMPUGNAÇÃO OFERTADA PELO DEVEDOR. ARTIGO 85, § 7º, DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. EXCLUSÃO DA PARCELA INCONTROVERSA DO CRÉDITO. PRECEDENTES.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. É cabível a condenação em honorários advocatícios no cumprimento de sentença contra a Fazenda Pública cujo pagamento ocorrerá através do regime de precatório, na hipótese de apresentação de impugnação pelo devedor, em observância ao artigo 85, § 7º, do CPC/2015, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito. Precedentes.
+3. Agravo interno não provido. (AgInt nos EDcl nos EDcl no REsp n. 2.008.018/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/5/2023, DJe de 31/5/2023.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimações necessárias.
+EMENTA
