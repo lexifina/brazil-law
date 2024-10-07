@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual ALGAR MIDIA S.A se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fl. 152):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AÇÃO ANULATORIA. FUNDAMENTO: DECADÊNCIA. IMPROCEDÊNCIA. APELAÇÃO. PEDIDO FUNDADO NA PRESCRIÇÃO. INOVAÇÃO. CAUSA DE PEDIR. NÃO CABIMENTO.
+1. A apelante intentou a ação anulatória sob o fundamento - causa de pedir - da decadência, cujo pedido foi julgado improcedente em razão de ter havido autolançamento do tributo pela declaração.
+2. Na apelação busca modificar sua causa de pedir para anular o crédito pela prescrição, hipótese não admitida pelo processo civil brasileiro, porque viola a garantia do contraditório e da ampla defesa. Preclusão da matéria.
+3. Embora matéria de ordem pública, nesta ação não se pode mais inovar na lide estabilizada e julgada em primeira instância.
+4. Apelação da autora improvida.
+Os embargos de declaração opostos foram rejeitados (fls. 171/174).
+Nas razões de seu recurso especial, a parte recorrente alega, além de divergência jurisprudencial, violação aos arts. 219, § 5º, 313 do Código de Processo Civil de 1973 (CPC/1973) , 193 do Código Civil, 156, V e 174 do Código Tributário Nacional (CTN).
+Sustenta que a prescrição, por ser matéria de ordem pública, pode ser alegada em qualquer tempo e grau de jurisdição, sem que isso implique cerceamento de defesa da parte adversa, violação aos limites da lide ou preclusão.
+A parte adversa apresentou contrarrazões (fls. 234/239).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+O Tribunal de origem negou provimento ao recurso de apelação da parte ora recorrente, fundamentando que a alegação de prescrição somente nessa fase recursal estaria preclusa e violaria vedação legalmente expressa, bem como o princípio do duplo grau de jurisdição. A propósito, cito trechos do acórdão recorrido:
+A autora pleiteou, na inicial, a anulação de lançamento tributário referente ao FINSOCIAL no ano de 1991, sob o argumento de que os créditos que lhe são exigidos foram atingidos pela decadência.
+Na sentença foi julgado improcedente o pedido, tendo em vista não ter se configurado o instituto da decadência.
+Em suas razões, a recorrente sustenta que embora, não tenha a autora alegado a prescrição, num primeiro momento, assiste ainda à mesma o direito de o fazer, em grau de apelação.
+A delimitação objetiva da ação se faz de acordo com o pedido formulado no ato de sua propositura.
+Na hipótese, fica patente a apresentação de questão nova em sede recursal. Na apelação, a autora busca modificar sua causa de pedir para anular o crédito pela prescrição, hipótese não admitida pelo processo civil brasileiro, porque viola a garantia do contraditório e da ampla defesa.
+Cabe observar, também a ocorrência de preclusão da matéria.
+Assim, ao suscitar, nas razões de apelo, questão não agitada e diversa daquela submetida ao crivo da primeira instância, a autora inova intempestivamente a causa de pedir, tornando inviável o conhecimento de sua apelação, em razão da existência de vedação legal expressa (art. 264 do CPC), além de importar violação ao princípio do duplo grau de jurisdição (art. 515 do CPC).
+No caso, a juíza sentenciante prestou a jurisdição nos exatos limites em que postulado na petição inicial, manifestando-se quanto à alegação de decadência.
+Portanto, o Tribunal não pode reformar o julgado para dar provimento a novo pedido veiculado somente na apelação, suprimindo a instância a quo, de modo a ultrapassar os estritos limites da lide, sob pena de violação à garantia constitucional do contraditório e da ampla defesa, na medida em que se deferiria tutela contra a qual a Fazenda Nacional não teve oportunidade de se defender no momento oportuno (art. 5º, inc. LV, da CF/88) (fls. 147/148) .
+A conclusão adotada pelo Tribunal de origem está em desacordo com a jurisprudência do Superior Tribunal de Justiça, que possui entendimento de que as matérias de ordem pública podem ser conhecidas a qualquer tempo e grau de jurisdição. Nesse sentido, cito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. PRESCRIÇÃO E DECADÊNCIA. MATÉRIAS DE ORDEM PÚBLICA. RECONHECIMENTO A QUALQUER TEMPO. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL PROVIDO.
+I - O acórdão recorrido está em confronto com o entendimento desta Corte, no sentido de que matérias de ordem pública, tais como prescrição e decadência, nas instâncias ordinárias, podem ser reconhecidas a qualquer tempo, não estando sujeitas à preclusão.
+II - Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+III - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Regimental improvido.
+(AgRg no REsp n. 1.287.754/MS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 15/12/2015, DJe de 2/2/2016.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. PIS E COFINS. BASE DE CÁLCULO. ICMS. EXCLUSÃO. STF. REPERCUSSÃO GERAL. JUÍZO DE RETRATAÇÃO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. PRESCRIÇÃO. QUESTÃO ANTERIORMENTE DECIDIDA. PRECLUSÃO.
+1. O acórdão recorrido decidiu a controvérsia sob o fundamento de que "juízo de retratação está restrito à tese firmada pelo Supremo Tribunal Federal no RE nº 574.706/PR (Tema 69)". Todavia, nas razões recursais, a parte recorrente se limita a afirmar que "o juízo de retratação não impede o conhecimento de ofício da aplicação da prescrição quinquenal, uma vez que a egrégia Corte Regional estava a reformar um julgado seu, estando, portanto, o processo ainda na esfera da instância ordinária, sendo proferido novo acórdão, agora em harmonia ao precedente qualificado da instância extraordinária".
+2. A fundamentação utilizada pela Corte a quo para firmar seu convencimento não foi inteiramente atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 283 e 284 do STF, ante a ausência de impugnação de fundamento autônomo e a deficiência na motivação.
+3. O entendimento do Tribunal de origem está em consonância com a orientação do STJ de que as matérias de ordem pública, tais como prescrição e decadência, podem ser apreciadas a qualquer tempo nas instâncias ordinárias. Todavia, existindo decisão anterior, opera-se a preclusão consumativa se não houver impugnação no momento processual oportuno. Precedentes: AgInt no REsp 1.584.287/DF, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 21/05/2018; EDcl no AgInt no REsp 1.594.074/PR, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 26/6/2019.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 2.101.852/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/6/2024, DJe de 24/6/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CÉDULA DE CRÉDITO RURAL. PLANO COLLOR E PLANO VERÃO. PRESCRIÇÃO. TERMO INICIAL. TRIBUNAL ESTADUAL QUE CONTRARIOU A JURISPRUDÊNCIA DO STJ. TEMA N.º 919. DATA DO EFETIVO PAGAMENTO. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA APRECIAÇÃO DA PRESCRIÇÃO COM BASE NO TERMO INICIAL CORRETO. AGRAVO INTERNO NÃO PROVIDO.
+1. A Segunda Seção, sob o rito do art. 543-C do CPC/73, firmou a orientação no sentido de que o termo inicial da prescrição da pretensão de repetição de indébito de contrato de cédula de crédito rural é a data da efetiva lesão, ou seja, do pagamento.
+2. Em suas razões recursais, o recorrente defendeu que não se poderia conhecer de matéria relativa ao prazo prescricional, pois foi trazida apenas em embargos de declaração, configurando inovação recursal.
+3. A jurisprudência do STJ é no sentido de que (..) a prescrição é matéria de ordem pública e, portanto, pode ser suscitada a qualquer tempo nas instâncias ordinárias, ainda que alegada em embargos de declaração, não estando sujeita a preclusão (AgInt nos EDcl no REsp 1.965.396/RS, Relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022).
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5 . Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.313.414/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/11/2023, DJe de 16/11/2023.)
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para afastar a preclusão da alegação de prescrição e determinar o retorno dos autos ao Tribunal de origem para que a matéria seja apreciada.
+Publique-se. Intimem-se.
+EMENTA
