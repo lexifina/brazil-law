@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. VALOR DA CONDENAÇÃO. PECULIARIDADE DO CASO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SUMULA 7/STJ. AGRAVO DESPROVIDO.
+1. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos e a análise das cláusulas contratuais pactuadas entre as partes, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por PEDRO SANTIN e MARIA EDINA XAVIER SANTIN contra decisão monocrática desta relatoria que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar provimento, assim ementada (e-STJ, fl. 494):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. VALOR DA CONDENAÇÃO. PECULIARIDADE DO CASO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SUMULA 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR PROVIMENTO.
+Os agravantes, em suas razões (e-STJ, fls. 527-534), sustentam que ao "pleitearem a majoração do valor dos honorários fundamentaram tal necessidade na clara existência de valor irrisório; o que, leva a superação da Súmula 7/STJ, bem como na possibilidade de fixação dos honorários sobre as duas outras bases legais, isto é, sobre o proveito econômico ou, ao menos, sobre o valor atualizado da causa, pois, no caso concreto remuneram digna e adequadamente o profissional da advocacia em detrimento da fixação sobre o valor da condenação" (e-STJ, fl. 531).
+Alegam a inaplicabilidade da Súmula 7/STJ, porque todas as premissas já estão devidamente delimitadas no acórdão de origem, não havendo falar em reanálise de fatos ou provas, mas tão somente avaliar se a aplicação da legislação.
+Buscam, assim, a reconsideração da decisão agravada ou o julgamento deste recurso pelo colegiado.
+Foi apresentada impugnação (e-STJ, fls. 539-542).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. VALOR DA CONDENAÇÃO. PECULIARIDADE DO CASO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SUMULA 7/STJ. AGRAVO DESPROVIDO.
+1. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos e a análise das cláusulas contratuais pactuadas entre as partes, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+2. Agravo interno desprovido.
+VOTO
+Os argumentos dos agravantes não são aptos a ilidir os fundamentos da decisão recorrida, a qual, por isso, merece ser mantida.
+A Segunda Seção desta Corte Superior, no julgamento do Recurso Especial n. 1.746.072/PR, decidiu que o § 2º do art. 85 do Código de Processo Civil de 2015 constitui a regra geral, de aplicação obrigatória, no sentido de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou do valor atualizado da causa.
+Leia-se, a propósito, o seguinte trecho do acórdão recorrido (e-STJ, fls. 390-391 - sem destaque no original):
+Insurgem-se os requerentes, ora apelantes, tão somente quanto aos critérios adotados para fixação dos honorários advocatícios, afirmando que o arbitramento da verba sucumbencial não levou em consideração a declaração de nulidade das medidas expropriatórias, devendo ser atribuído o percentual sobre o proveito econômico (R$ 811.520,44), ou valor da causa (R$ 500.000,00).
+Inobstante os argumentos, a insurgência recursal não prospera. Isso porque, no caso sob análise, como bem destacado pelo julgador de primeiro grau ao julgar os embargos de declaração interpostos em relação aos honorários advocatícios (mov.65.1), o deferimento da pretensão inicial somente enseja no retorno das partes ao status quo ante, isto é, a propriedade retorna à titularidade dos autores, mantendo-se a alienação fiduciária sobre o imóvel e prevalecendo o debito em aberto com a administradora do consórcio, sendo possível a realização de nova consolidação de propriedade e designação de leilão após o regular procedimento para constituição em mora, mormente porque o acolhimento da pretensão só se deu em virtude da indicação de débitos irregulares na notificação enviada pela credora, e não pela inexistência da dívida, posto que os autores estavam, de fato, inadimplentes.
+Ainda, de acordo com os critérios fixados pelo Superior Tribunal de Justiça no julgamento do Tema nº 1.076 , a estipulação dos honorários advocatícios, nos termos do §2º do art. 85, do CPC, deve ser realizada em percentual sobre o valor da condenação ou do proveito econômico obtido, e apenas no caso em que não seja possível mensurá-los é que recairá sobre o valor atualizado da causa."(mov. 32.1 - autos de Apelação Cível).
+Por conseguinte, é assente a necessidade de manter-se a decisão monocrática proferida, uma vez que as provas colacionadas nos autos já tiveram seu juízo de valor aferido pelo Tribunal a quo, no qual ficaram fundamentadas as razões que levaram à condenação em questão.
+Ademais, o entendimento do Superior Tribunal de Justiça é de que, em geral, o reexame dos critérios para a fixação dos honorários advocatícios só é possível por meio da emissão de novo juízo sobre as provas dos autos, sobretudo para aferir circunstâncias como "grau de zelo do profissional", nível de complexidade da causa e outros elementos de ordem fática, o que permite incidir a Súmula 7/STJ.
+A esse respeito (sem destaque no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. INSCRIÇÃO INDEVIDA. CARÊNCIA DE FUNDAMENTAÇÃO NÃO CARACTERIZADA. DANO MORAL. PEDIDO DE MAJORAÇÃO DO QUANTUM FIXADO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. APLICAÇÃO DA SÚMULA 284/STF. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL QUE TENHA SOFRIDO INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284 DO STF. PLEITO DE MAJORAÇÃO DO VALOR FIXADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SUMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+(..)
+4. Em sede de recurso especial, não é possível rever os critérios adotados pelo julgador na fixação dos honorários advocatícios, por importar no reexame de matéria fático-probatória. A incidência da Súmula 7/STJ somente pode ser afastada quando o valor fixado for exorbitante ou irrisório, o que não ocorre no caso dos autos.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1316077/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/02/2019, DJe 26/02/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE REPARAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE VIOLAÇÃO A SÚMULA. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 518/STJ. CASAMENTO. RELACIONAMENTO ABUSIVO. DANO MORAL CONSTATADO PELO TRIBUNAL DE ORIGEM. REVISÃO DE VERBA INDENIZATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. INEXISTÊNCIA DE VALORES EXORBITANTES. REVISÃO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+(..)
+4. A remansosa jurisprudência desta eg. Corte é no sentido de que a pretensão de revisar os valores fixados a título de honorários advocatícios sucumbenciais esbarra no óbice da Súmula 7/STJ, a qual é afastada somente nas hipóteses de exorbitância ou índole irrisória do quantum arbitrado, o que não é a hipótese dos autos.
+5. Agravo interno desprovido.
+(AgInt no REsp 1.739.132/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/10/2018, DJe 26/10/2018)
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
