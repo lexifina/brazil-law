@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DECADÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. AUSÊNCIA DE COMBATE A FUNDAMENTO AUTÔNOMO DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO SÚMULAS N. 283 E 284/STF.
+I  -  A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II  -  Considera-se deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+III  -  Agravo  Interno  improvido.
+RELATÓRIO
+Trata-se  de  Agravo  Interno  interposto  por  QUALIVIDA FARMACIA E CONVENIENCIA LTDA  contra  a  decisão  monocrática  de  minha  lavra  que  conheceu  em parte  do  Recurso  Especial  e lhe negou provimento,  fundamentada  na: i. incidência, por analogia, das Súmulas ns. 283 e 284, do Supremo Tribunal Federal; e ii. inexistência de ofensa aos arts. 489 e 1.022 do CPC/2015.
+Sustenta  a  Agravante,  em  síntese,  o  seguinte  (fls.  404/409e):
+Pela leitura dar. decisão, note-se que a i. Relatora desta Corte Superior entendeu por não conhecer, em parte, do Agravo em Recurso Especial por entender que "a tese da Recorrente de que matéria de ordem pública não demanda dilação probatória não está embasada em dispositivo de lei federal violado.
+Em consonância com o entendimento desta Corte, nos casos em que não apontado o dispositivo de lei federal violado, ou a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284, do Colendo Supremo Tribunal Federal".
+Contudo, a Agravante entende que não merece prosperar a r. decisão agravada, tendo em vista que as razões expostas no Recurso Especial foram devidamente expostas e fundamentadas, principalmente com base na jurisprudência desta C. Corte Superior e na legislação infraconstitucional.
+( )
+No entanto, com a devida vênia, basta uma simples leitura do v. acórdão que analisou os declaratórios para se concluir que este não se manifestou quanto à obscuridade apontada pela Agravante, em clara ofensa ao artigo 489, §1º e 1.022 do CPC/2015. Explica-se.
+( )
+Nessa linha, quando da oposição dos embargos de declaração, a Agravante demonstrou que a decadência é matéria de ordem pública, bastando simples análise dos documentos acostados no corpo da Exceção de Pré-Executividade para se comprovar a tese da Agravante.
+Ocorre que, a Egrégia Câmara do Tribunal a quo, no momento da análise dos embargos de declaração, não se manifestou sobre a alegada obscuridade. Desse modo, não analisou controversamente os pontos apontados pela Agravante.
+( )
+Ou seja, não há que se falar que, no presente caso, "tal fundamentação não foi refutada, repercutindo na inadmissibilidade do recurso" a ensejar a incidência das Súmulas 283e 284 do C. STF.
+Por  fim,  requer  o  provimento  do  recurso,  a  fim  de  que  seja  reformada  a  decisão  impugnada  e  determinado  o  processamento  do  Recurso  Especial  ou,  alternativamente,  sua  submissão  ao  pronunciamento  do  colegiado.
+Impugnação às fls. 417/418e.
+É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DECADÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. AUSÊNCIA DE COMBATE A FUNDAMENTO AUTÔNOMO DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO SÚMULAS N. 283 E 284/STF.
+I  -  A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II  -  Considera-se deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+III  -  Agravo  Interno  improvido.
+VOTO
+-  DA  OMISSÃO, SUPOSTA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015
+A Agravante sustenta a tese de omissão no julgado, porquanto o Tribunal de origem deixou de apreciar a alegação de obscuridade no que diz respeito à decadência e sua natureza de matéria de ordem pública que prescinde de dilação probatória.
+A Corte de origem assim consignou sobre a matéria (fls. 94/96e):
+In casu, a questão aventada no recurso para que seja declarado extinto o crédito tributário pela decadência (art. 156, V c/c art. 150, §4º, ambos do CTN) ou, subsidiariamente, seja reconhecida a suposta nulidade da CDA objeto da execução fiscal, pela ausência de liquidez e certeza, extinguindo-se integralmente a Execução Fiscal, demandam a análise do acervo fático, cuja prova apresentada não é pré-constituída nem suficiente.
+Vejamos.
+Com efeito, o Agravante alega decadência do direito do Agravado, uma vez que os fatos geradores ocorreram no período de 01/2006 a 10/2006(fls. 05/12), enquanto a ciência do Processo Administrativo Fiscal E-04-000.153.086/2012teria ocorrido apenas em 28/12/2011, tendo assim passados mais de 5 anos contados dos fatos geradores.
+Sendo assim, teria decaído o direito do fisco em proceder ao lançamento, por homologação, do ICMS referente aos fatos geradores consubstanciados no Auto de Infração nº 03.371698-6, com fulcro no art. 150, §4º, do CTN., in verbis:
+Art. 150. O lançamento por homologação, que ocorre quanto aos tributos cuja legislação atribua ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade administrativa, opera-se pelo ato em que a referida autoridade, tomando conhecimento da atividade assim exercida pelo obrigado, expressamente a homologa.
+(..)
+§ 4º Se a lei não fixar prazo a homologação, será ele de cinco anos, a contar da ocorrência do fato gerador; expirado esse prazo sem que a Fazenda Pública se tenha pronunciado, considera-se homologado o lançamento e definitivamente extinto o crédito, salvo se comprovada a ocorrência de dolo, fraude ou simulação.
+Contudo, após detida análise dos autos, vislumbra-se que não há como se verificar a data da instauração dos Processo Administrativo Fiscal ou da própria intimação do Agravante sobre a mesma, uma vez que não foram sequer juntados os autos do Processo Administrativo ou do Auto de Infração, de modo que a verificação da ocorrência da decadência demanda dilação probatória.
+Ademais, também não há comprovação do fato alegado pelo Agravante, de que teria diversas vezes recolhido o tributo do ICMS nos períodos aos quais se refere o título executivo, atraindo a aplicabilidade do art. 150, §4º do CTN, de modo que a apuração da decadência depende da análise do processo administrativo.
+Ainda, impende ressaltar que o Agravante argumenta que a CDA seria nula, tendo em vista que não há indicação dos valores e dos produtos que foram tributados por meio do Auto de Infração originário, bem como da multa aplicada supostamente equivocada, o que também não restaram demonstradas.
+Como se vê nos autos principais, o Agravante não juntou os autos do Processo Administrativo ao processo principal, referente ao Auto de Infração nº 03.371698-6,a fim de embasar sua alegação, o que permitiria verificar os motivos e fundamentos normativos que embasaram a lavratura da respectiva CDA por "saída de mercadorias tributadas sem emissão de documento fiscal (Lei nº 3525/00c/cart. 3º,I, e art. 47, I, da Lei nº 2657/96c/cart. 60, I, "b", da Lei nº 2657/96, com redação da Lei nº 6357/12).
+Dessa forma, observa-se que o Agravante opôs Exceção de Pré-Executividade sem juntar os respectivos elementos de prova necessários, não havendo provas suficientes para atestar a nulidade da CDA lavrada.
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+E depreende-se da leitura do acórdão integrativo que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v.g. Corte Especial, EDcl no AgRg nos EREsp 1431157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 11041181/SP, Rel. Min. Napoleão Nunes, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1334203/PR, Rel. Min. Assusete Magalhães, DJe de 24.06.2016).
+- DA DECADÊNCIA
+A decisão agravada aplicou os óbices processuais presentes nas Súmulas ns. 283 e 284, do Supremo Tribunal Federal, sob dois fundamentos: i. não se apontou o dispositivo violado na tese de que a matéria de ordem pública não demanda dilação probatória; e ii. razões dissociadas.
+Da leitura dos autos, observo ser o caso de manutenção do decisum em seus próprios termos.
+A Agravante arguiu a decadência e pela aplicação de lei mais benéfica.
+A Corte de origem, por sua vez, assentou a inadequação da via eleita - exceção de pré-executividade -, tendo em vista que o questionamento trazido pela ora Recorrente demanda dilação probatória, o que não se permite, na via escolhida.
+Desse modo, verifica-se que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, aponta a Agravante que indicou o art. 150 como dispositivo violado, assim como afirma ter impugnado todos os fundamentos do acórdão recorrido.
+Eis o teor do dispositivo:
+Art. 150. O lançamento por homologação, que ocorre quanto aos tributos cuja legislação atribua ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade administrativa, opera-se pelo ato em que a referida autoridade, tomando conhecimento da atividade assim exercida pelo obrigado, expressamente a homologa.
+(..)
+§ 4º Se a lei não fixar prazo a homologação, será ele de cinco anos, a contar da ocorrência do fato gerador; expirado esse prazo sem que a Fazenda Pública se tenha pronunciado, considera-se homologado o lançamento e definitivamente extinto o crédito, salvo se comprovada a ocorrência de dolo, fraude ou simulação.
+De fato, a tese da Agravante de que matéria de ordem pública não demanda dilação probatória não está embasada em dispositivo de lei federal violado.
+Em consonância com o entendimento desta Corte, nos casos em que não apontado o dispositivo de lei federal violado, ou a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284, do Colendo Supremo Tribunal Federal, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+-  DA  MULTA
+  No  que  se  refere  à  aplicação  do  art.  1.021,  §  4º,  do  CPC/2015,  a  orientação  desta  Corte  é  no  sentido  de  que  o  mero  inconformismo  com  a  decisão  agravada  não  enseja  a  imposição  da  multa,  não  se  tratando  de  simples  decorrência  lógica  do  não  provimento  do  recurso  em  votação  unânime,  sendo  necessária  a  configuração  da  manifesta  inadmissibilidade  ou  improcedência  do  recurso.  Nessa  linha:  Corte  Especial,  AgInt  nos  EAREsp  n.  1.043.437/SP,  Rel.  Ministro  Jorge  Mussi,  j.  13.10.2021;  e  1ª  S.,  AgInt  nos  EREsp  n.  1.311.383/RS,  Rel.  Ministra  Assusete  Magalhães,  j.  14.09.2016.
+Apesar  do  improvimento  do  recurso,  não  restou  configurada  a  manifesta  inadmissibilidade,  razão  pela  qual  afasto  a  apontada  multa.
+Posto  isso,  CONHEÇO  PARCIALMENTE  do  Agravo  Interno  e  lhe  NEGO  PROVIMENTO.
