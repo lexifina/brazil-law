@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INADIMPLEMENTO. CULPA CONCORRENTE. VERIFICAÇÃO. IMPOSSSBILIDADE. SÚMULAS N. 5 E 7 DO STJ. INDENIZAÇÃO. DANOS MORAIS. QUANTUM INDENIZATÓRIO. ALTERAÇÃO. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste negativa de prestação jurisdicional quando a Corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do instrumento contratual e do acervo fático-probatório dos autos atrai a incidência das Súmulas n. 5 e 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FERNANDA TORTORETTE ALVES e NILSON GOUVEIA LAZARO contra a decisão de fls. 719-723, que negou provimento a agravo em recurso especial.
+Os agravantes reiteram as razões do recurso especial, alegando violação dos seguintes artigos: a) 489, § 1º, IV, 1.022, II, do CPC, por não terem sido adequadamente enfrentados os argumentos deduzidos no processo a respeito da ausência de prejuízo ou de potencial risco ao locador em decorrência da falta de transferência de contas de consumo relativos a período posterior e a impossibilidade de compensação com valores relativos à indenização; b) 22, I, da Lei n. 8.245/1991, diante da impossibilidade de reconhecimento da culpa concorrente do locatário pelo término da locação, critério que conduziu à redução dos danos morais, seja majorado o valor da indenização.
+Sustenta ainda não ser aplicável à espécie o óbice da Súmula n. 7 do STJ, uma vez que busca apenas a adequada valoração jurídica da matéria.
+Requer seja reconsiderada a decisão agravada ou seja o agravo submetido ao colegiado.
+Contrarrazões pelo não conhecimento ou pelo desprovimento do recurso (fls. 742-745).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INADIMPLEMENTO. CULPA CONCORRENTE. VERIFICAÇÃO. IMPOSSSBILIDADE. SÚMULAS N. 5 E 7 DO STJ. INDENIZAÇÃO. DANOS MORAIS. QUANTUM INDENIZATÓRIO. ALTERAÇÃO. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste negativa de prestação jurisdicional quando a Corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do instrumento contratual e do acervo fático-probatório dos autos atrai a incidência das Súmulas n. 5 e 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O recurso não reúne condições de prosperar.
+Trata-se, na origem, de ação de conhecimento com pretensão de rescisão antecipada de contrato de locação e de reparação de danos.
+Em sentença, foi declarada a resolução do contrato por culpa do locador, determinada a restituição do saldo de caução locatícia, além do pagamento de multa contratual e de indenização por danos morais (fls. 560-574).
+Interposta apelação, o Tribunal a quo deu parcial provimento ao recurso para reconhecer a culpa concorrente, afastar o pagamento da multa contratual e reduzir o valor da indenização por danos morais (fls. 619-628).
+Sobreveio recurso especial em que a parte ora agravante defende a ocorrência de negativa de prestação jurisdicional; a impossibilidade de reconhecimento da culpa concorrente do locatário; e a necessidade de majoração do valor da indenização por danos morais.
+I - Negativa de prestação jurisdicional
+Afasta-se a alegada ofensa aos 489, § 1º, IV, 1.022, II, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+As questões alegadas envolvendo a definição sobre a responsabilidade pela resolução contratual foram suficientemente analisadas pelo Tribunal de origem, além de ter sido justificada, fundamentadamente, a posição adotada, pela caracterização da concorrência de culpa entre as partes (fls. 621-628).
+Quanto ao argumento de que não foi apreciado o argumento de ausência de prejuízo ou de potencial risco ao locador em decorrência da falta de transferência de contas de consumo relativos a período posterior e a impossibilidade de compensação com valores relativos à indenização, conforme consignado na decisão monocrática agravada, o Tribunal de origem concluiu que a questão não foi impugnada, inviabilizando a devolução da sua apreciação em grau recursal (fl. 648).
+Se, todavia, a conclusão ou os fundamentos adotados não foram corretos na opinião da recorrente, não quer dizer que não existam ou que configurem qualquer outro vício. Afinal, não se pode confundir falta de motivação com fundamentação contrária aos interesses da parte (AgRg no Ag 56.745/SP, relator Ministro Cesar Asfor Rocha, DJ de 12/12/1994).
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Violação do art. 22, I, da Lei n. 8.245/1991
+Na hipótese dos autos, ao tratar os temas da do inadimplemento contratual, da responsabilidade das partes, da configuração de ofensa moral e dos critérios para a sua quantificação, assim se manifestou o acórdão recorrido (fls. 623-628, destaquei):
+Pois bem, como é cediço, o locador é obrigado a entregar ao locatário o imóvel alugado em estado de servir ao uso a que se destina e responder pelos vícios ou defeitos anteriores à locação (artigo 22, I, da Lei nº 8245/91).  ..
+Como se vê, são inúmeros os defeitos que, somados, tornam o imóvel impróprio para moradia familiar. Por se tratar de construção antiga, a manutenção deve ser realizada pelo proprietário de forma mais efetiva e amiúde. Por outro lado, não há quaisquer elementos que indiquem que os locatários foram cientificados de todos esses problemas e que aceitaram o imóvel, em tais condições.
+Veja-se que o perito judicial declarou que os problemas não são de fácil detecção, tratando-se, muitas vezes, de vícios intermitentes (fls. 417).
+Ao locar um imóvel, o locatário não prevê, tampouco deseja, ser obrigado a realizar reparos constantes no imóvel, o qual, antes da locação, não vinha sendo conservado adequadamente. Vale dizer, a manutenção adequada e paulatina pelo proprietário evitaria o surgimento de tantos defeitos.
+Pois bem, se por um lado a falta de adequada manutenção do imóvel tornando-o inadequado para a locação, confere culpa ao locador, por outro lado, não se pode desconsiderar que os locatários também violaram os termos contratuais.
+Dentre as obrigações não cumpridas, tem-se que os autores deixaram de transferir para seu nome as contas de consumo, obrigação que lhes competia assim que tiveram a posse direta do bem, nos termos da cláusula sexta, parágrafo único (fls. 28). Registre-se que os locatários residira no imóvel por mais de um ano.
+A omissão dos locatários causou danos ao locador, que recebeu cobranças em mais de uma oportunidade, sofrendo risco de ter seu nome negativado, em razão do inadimplemento (fls. 40 e 194/195). Tal conduta poderia, inclusive, fundamentar a rescisão do contrato, a pedido do locador (cláusula décima segunda, parágrafo primeiro, fls. 30).
+Ademais, conquanto a insatisfação dos locatários seja compreensível, dados os inúmeros percalços que sofreram, a interrupção voluntária do pagamento dos aluguéis vai ao encontro do princípio da boa-fé contratual.
+Ao decidirem rescindir a avença, deveriam os autores comunicar o desfazimento do contrato ao locador, efetuando os pagamentos que lhes competiam até a entrega das chaves; não poderiam ter interrompido o pagamento dos aluguéis e informar ao locador a intenção de rescindir o negócio após receberem notificação de cobrança, como fizeram (fls. 186/193). Também não poderia ter inadimplido despesas de consumo.
+Diante de tais circunstâncias, entendo que ambas as partes descumpriram obrigações contratuais e contribuíram para a rescisão do contrato.
+A culpa concorrente, no caso concreto, dispensa os contratantes do pagamento das respectivas multas, seja por infração contratual, seja por rescisão antecipada.  ..
+Quanto aos danos morais, conforme alegado pelo locador, o mero inadimplemento contratual, em regra, não viola direitos de personalidade, de sorte que não comporta reparação extrapatrimonial.
+Nada obstante, excepcionalmente, o descumprimento de obrigações voluntariamente assumidas pode atingir não somente o resultado almejado pelos contratantes ou sua esfera patrimonial, podendo também causar impactos nos direitos de personalidade das partes, a exemplo da credibilidade, honra, saúde física e emocional, privacidade etc.
+Vale dizer, há casos em que o descumprimento contratual acaba por resvalar em outros direitos dos contratantes, inicialmente não abrangidos pelo negócio, mas que são violados pela conduta do devedor.
+Justamente este o caso dos autos.
+Os elementos probatórios comprovam que os locatários foram obrigados a realizar inúmeros reparos no imóvel.
+Residiram no imóvel por mais de um ano e suportavam vazamentos na sala quando chovia (fls. 69/71, 102 e 105). Em outras ocasiões, sofreram com a ausência do pressurizador e com a falta de água quente (fls. 48, 53 e 59).
+Tais situações certamente causaram grande desconforto e dissabores extraordinários, prejudicando o descanso e bem-estar dos locatários, que não desfrutavam da tranquilidade esperada em sua própria residência.
+Sob este enfoque, andou bem o Magistrado de primeiro grau ao reconhecer a lesão a direitos extrapatrimoniais os locatários.
+No entanto, a indenização fixada comporta revisão.
+Isso porque a indenização por danos morais deve expressar uma quantificação adequada e justa, evitando-se tanto o exagero, quanto o aviltamento de indenização.
+Isto é, a indenização deve ser dimensionada de modo que repare os danos causados à vítima, sem acarretar seu enriquecimento sem causa. Outrossim, deve acarretar impacto suficiente no causador do dano, sendo capaz de dissuadi-lo de reiterar a conduta ilícita.
+No caso concreto, os danos não foram causados de forma deliberada, tratando-se de consequências da omissão culposa do demandado.
+Os danos, embora existentes, não eram extensos, já que os autores continuaram residindo no local por 1 ano.
+Em sendo assim, entendo por reduzir a indenização, sendo o quantum reparatório arbitrado em R$ 3.000,00, valor que deve ser dividido igualmente entre os demandantes.
+Em suma, é caso de se acolher parcialmente a insurreição do réu para o fim de se reconhecer a culpa concorrente de ambos os contratantes, os quais ficam eximidos do pagamento das multas, bem como para minorar a indenização por danos morais.
+Conforme consignado na decisão monocrática agravada, sendo manifesto o caráter fático-probatório das premissas que orientaram o acórdão recorrido a reconhecer o inadimplemento contratual recíproco e a concorrência de culpa entre as partes, para adotar conclusões diversas, de forma a acolher, consequentemente, as teses defendidas pelo agravante, seria imprescindível a análise do instrumento contratual e o reexame dos elementos fático-probatórios dos autos, providência inviável em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+Nesse sentido: AgInt no REsp n. 2.078.848/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgInt no AREsp n. 2.372.536/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024; AgInt no AREsp n. 2.281.338/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/11/2023, DJe de 24/11/2023.
+Com relação ao valor da indenização, a jurisprudência desta Corte estabelece que a revisão do quantum arbitrado para a indenização é inviável em sede de recurso especial, somente sendo possível superar tal impedimento nos casos de valor irrisório ou exorbitante (AgInt no AREsp n. 1.801.059/RJ, de minha relatoria, Quarta Turma, julgado em 24/6/2024, DJe de 27/6/2024; AgInt no AREsp n. 2.177.240/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023).
+Desse modo, ausente qualquer excepcionalidade, o exame acerca da caracterização dos danos e do quantum fixado a título de indenização moral - incluindo a pretendida revisão do critério de proporcionalidade adotado pelo Tribunal de origem ao fixar a indenização pelo dano moral, diante das circunstâncias que caracterizaram o inadimplemento contratual recíproco e a concorrência de culpa entre as partes - demandaria reexame dos elementos dos autos, incidindo também nesse ponto o óbice da Súmula n. 7 do STJ.
+Nesse sentido: AgInt no AREsp n. 2.410.416/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024; AgInt no AREsp n. 2.520.023/MG, de minha relatoria , Quarta Turma, julgado em 24/6/2024, DJe de 27/6/2024; AgInt no AREsp n. 2.525.850/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/6/2024, DJe de 20/6/2024.
+Portanto, a decisão agravada merece ser mantida .
+III - Conclusão
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
