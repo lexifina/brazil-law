@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S/A contra decisão proferida às fls. 1393-1396, na qual o agravo foi conhecido para conhecer parcialmente do recurso especial, somente quanto à afronta ao art. 1.022 do CPC, e, nessa parte, negar-lhe provimento.
+Em suas razões, a embargante afirma que há omissão na decisão embargada no que se refere à apontada violação ao art. 1.022, caput, II, e parágrafo único, inciso II, e art. 489, § 1º, inciso IV, ambos do Código de Processo Civil.
+Para tanto, assinala que a omissão contamina o processo desde a sentença, na qual não se considerou que a ANEEL "havia instaurado, em 2020, a Tomada de Subsídios nº 005/2020, a fim de examinar o tratamento uniforme, a nível nacional, a ser dado pelas distribuidoras de energia elétrica aos créditos fiscais decorrentes de processos judiciais que tratavam sobre a exclusão do ICMS da base de cálculo do PIS/COFINS" (fl. 1404).
+Defende que há contradição no julgado com relação à impossibilidade de alegação de violação à Consulta Pública n.º 11/2023, já que não configura hipótese de cabimento do recurso especial.
+Argumenta que "o cerne dos argumentos sustentados pela Eletropaulo é de que, no que tange à devolução dos valores incluídos nas faturas a título de ICMS na base de cálculo de PIS/COFINS, a conduta das distribuidoras foi regulamentada pela Lei Federal nº 9.427/1996 e pela Lei Federal nº 14.385/2022, de modo que o Poder Judiciário não pode - unilateralmente - se sobrepor ao que foi determinado pela legislação de regência" (fl. 1408). Arremata, alegando que, diante desse cenário, seria necessário apenas o exame da legislação federal e não de qualquer conteúdo probatório.
+Aponta, ainda, omissão quanto à aplicação do enunciado n.º 211 da Súmula do STJ, uma vez que foi apontada violação ao art. 1.022 do CPC.
+Requer o acolhimento dos embargos para que sejam sanados os vícios apontados.
+Foi apresentada impugnação às fls. 1420-1423.
+É o relatório.
+A insurgência não comporta acolhimento.
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+Na espécie, da leitura da decisão embargada verifica-se que a suposta ofensa ao art. 1.022 do CPC/2015 foi afastada pelo relator por entender que "o Colegiado originário julgou integralmente a lide e solucionou a controvérsia" (fl. 1394).
+Com efeito, conforme assentado na decisão monocrática, inexiste a alegada omissão, visto que a Corte de origem julgou integralmente a lide e solucionou o caso, de maneira clara e fundamentada, em conformidade com o que lhe foi apresentado, não podendo o acórdão ser considerado nulo tão somente porque contrário aos interesses da parte.
+Ao examinar os aclaratórios, o órgão julgador em segundo grau salientou, in verbis (fl. 1189):
+O acórdão negou provimento ao apelo da embargada para reformar a sentença. Ao contrário do que a embargante sustenta, não comprovou documentalmente a suposta restituição mediante processo tarifário. A contestação não veio acompanhada de prova. Mesmo quanto instada a produzi-la, postulou o julgamento antecipado. Inexiste omissão.
+É notório, no STJ, que o juiz não fica obrigado a se manifestar sobre todas as alegações das partes, nem a se ater aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos quando já encontrou motivo suficiente para fundamentar a decisão, como ocorreu no presente caso.
+Desde a origem a ação foi julgada improcedente devido à ausência de provas, obrigação legal que a parte autora não cumpriu. Portanto, é desnecessário reavaliar documentos novos, exarados por agências reguladoras ou concessionárias de serviços públicos quando as instâncias de origem, soberanas na análise das provas, já concluíram que o requisito probatório não foi atendido.
+Importa destacar que qualquer tentativa de reverter essa conclusão, defendendo teses que busquem alterar esse entendimento, incorre em ofensa ao enunciado n.º 7 da Súmula do STJ.
+Além disso, o relator observou que a parte deixou de impugnar fundamento autônomo e suficiente para manter o acórdão recorrido, além de apresentar fundamentação deficiente atraindo a aplicação dos enunciados n.º 283 e 284 da Súmula do Supremo Tribunal Federal. Nesse contexto, não há contradição no julgado, estando evidenciado na decisão embargada que as razões do recurso especial deixaram de refutar a preclusão consumativa quanto à juntada de documento, apresentado tardiamente do Judiciário.
+Por fim, a jurisprudência desta Corte já se firmou no sentido de que "não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a sol ução da controvérsia outros argumentos utilizados pelo colegiado" (AgInt no AREsp n. 2.536.934/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/8/2024, DJe de 21/8/2024).
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE COLETIVO. MENSALIDADES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REAJUSTE. SINISTRALIDADE. ABUSIVIDADE. RECONHECIMENTO. REVISÃO. SÚMULAS NºS 5 E 7/STJ. RAZÕES DISSOCIADAS. SÚMULA Nº 284/STF. ARTIGOS 141, 373, II, 466, 473, 492, 926 E 927 DO CPC E 421 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ.
+1. Tratam os autos da abusividade do reajuste da mensalidade aplicado pelo plano de saúde com base na sinistralidade.
+2. Não viola o art. 1.022 do Código de Processo Civil nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+3. Na hipótese, acolher a tese pleiteada pela parte agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. As razões do recurso especial estão dissociadas dos fundamentos do acórdão recorrido, o que também atrai a incidência da Súmula nº 284/STF.
+5. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+6. Não há incompatibilidade entre a inexistência de ofensa ao artigo 1.022 do CPC e a ausência de prequestionamento quanto às teses invocadas pela recorrente, mas não debatidas pelo tribunal local, quando suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado.
+7. Nos termos do artigo 1.025 do CPC, se a alegada violação não foi discutida na origem e não foi verificada nesta Corte a existência de erro, omissão, contradição ou obscuridade, não há falar em prequestionamento da matéria.
+8. Agravo interno não provido.
+(AgInt no REsp n. 2.046.834/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024, grifei).
+Nesse panorama, a oposição dos Embargos Declaratórios revela-se, na verdade, uma simples manifestação de inconformismo da parte embargante diante de decisão desfavorável, o que não viabiliza o referido Recurso.
+A esse respeito, colaciono os seguintes precedentes do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC/2015, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no AgInt no AgInt no AREsp n. 1.545.376/SP, rel. Min. Afrânio Vilela, Segunda Turma, DJe de 15/8/2024)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA. MERO INCONFORMISMO. OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A parte embargante discorda da conclusão alcançada no acórdão embargado que, com sólida fundamentação, rejeitou os embargos declaratórios anteriormente opostos. No caso, existe mero inconformismo da parte com o resultado do julgamento proferido, que lhe foi desfavorável, o que não viabiliza o cabimento de embargos de declaração, nos termos do art. 1.022, inciso II, do CPC/2015.
+2. É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no AREsp n. 2.338.340/SE, rel. Min. Teodoro Silva Santos, Segunda Turma, DJe de 23/4/2024)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material no decisum embargado.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios no julgado embargado, traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp n. 2.436.416/MS, rel. Min. Sérgio Kukina, Primeira Turma, DJe de 15/8/2024).
+Outrossim, como já mencionado, o julgador não está obrigado a responder um a um todos os argumentos trazidos pelas partes, visando à defesa da teoria que apresentaram, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 DO CPC. AUSÊNCIA DE OMISSÕES. REAJUSTE DE 3,17%. INCIDÊNCIA SOBRE AS QUANTIAS DECORRENTES DE QUINTOS/DÉCIMOS INCORPORADOS ANTERIORMENTE A DEZEMBRO DE 1994. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Verifica-se não ter ocorrido ofensa ao artigo 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional. Ademais, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão.
+(..)
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.082.059/RS, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 7/3/2024)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA. EMBARGOS REJEITADOS.
+(..)
+3. O órgão julgador não está obrigado a enfrentar todos os argumentos, quando por outros motivos apresente razões satisfatórias para solucionar a lide.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.891.964/TO, rel. Min. Herman Benjamin, Segunda Turma, DJe de 25/4/2022)
+Por fim, impende advertir a parte de que a reiteração injustificada dos embargos de declaração, versando sobre o mesmo assunto, acarretará a consideração de recurso manifestamente protelatório, ensejando a imposição do pagamento da multa prevista no artigo 1.026, § 2º, do Código de Processo Civil.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
