@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. EXECUÇÃO FISCAL. PRETENSÃO RECURSAL DE QUESTIONAR A LEGITIMIDADE PASSIVA. CONCLUSÃO DA CORTE DE ORIGEM PELA INADEQUAÇÃO DA VIA ESCOLHIDA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284 DO STF. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - Nas razões recursais, a Recorrente sustenta a ilegitimidade passiva. A Corte de origem, por sua vez, concluiu que a via da exceção de pré-executividade é inadequada. É deficiente o recurso quando os argumentos da Recorrente são incapazes de impugnar a fundamentação que sustenta o acórdão recorrido.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra a decisão, mediante a qual o recurso especial foi conhecido em parte e não provido.
+Sustenta a Agravante, em síntese: ter demonstrado a ofensa à norma federal, a existência de nulidades relevantes no julgado da Corte de origem e a desnecessidade de revolvimento de matéria fática para a solução da controvérsia.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 818e).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. EXECUÇÃO FISCAL. PRETENSÃO RECURSAL DE QUESTIONAR A LEGITIMIDADE PASSIVA. CONCLUSÃO DA CORTE DE ORIGEM PELA INADEQUAÇÃO DA VIA ESCOLHIDA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284 DO STF. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - Nas razões recursais, a Recorrente sustenta a ilegitimidade passiva. A Corte de origem, por sua vez, concluiu que a via da exceção de pré-executividade é inadequada. É deficiente o recurso quando os argumentos da Recorrente são incapazes de impugnar a fundamentação que sustenta o acórdão recorrido.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+VOTO
+A Decisão Agravada merece ser mantida por seus próprios fundamentos.
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas em seu art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Esposando tal entendimento, o precedente da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+3. No caso, entendeu-se pela ocorrência de litispendência entre o presente mandamus e a ação ordinária n. 0027812-80.2013.4.01.3400, com base em jurisprudência desta Corte Superior acerca da possibilidade de litispendência entre Mandado de Segurança e Ação Ordinária, na ocasião em que as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas.
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+(EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI - DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO -, PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+Revela-se pertinente transcrever o seguinte trecho do acórdão prolatado pelo Colegiado a quo (fls. 538/540e):
+3. Da Responsabilidade Tributária
+A exceção de pré-executividade consiste em uma medida judicial cabível na execução para se discutir matéria que deva ser conhecida de ofício ou que não demande dilação probatória.
+Seu fundamento encontra-se no art. 5º, XXXIV, "a", da Constituição Federal de 1988 , que prevê o direito de petição.
+À luz do verbete da Súmula 393 do Superior Tribunal de Justiça "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+Portanto, são dois os requisitos fundamentais para o cabimento da exceção de pré-executividade: 1) a matéria ser de ordem pública, e, consequentemente, ser cognoscivel de ofício pelo juiz; 2) a existência de prova pré- constituída.
+ ..
+Insurge-se a agravante em face de decisão que não reconhece a ausência de responsabilidade tributária da recorrente, em razão da matéria comportar dilação probatória.
+A agravante alega que não apresenta legitimidade passiva na presente execução fiscal, diante de suposta incorporação pela empresa CANABRAVA BIOENERGIA S/A.
+Com efeito, a agravante recorre nos autos da execução fiscal que adquiriu o complexo produtivo da executada originária - USINA SANTA CRUZ S/A com denominação posteriormente alterada para a COMPANHIAAGRÍCOLA NORTE FLUMINENSE - CANF, com todo os mobiliários e equipamentos. Nesse sentido, os documentos acostados no evento 39, DOC4,demonstram a alienação.
+Em razão da recorrente não mais ter prosseguindo em sua atividade empresarial após a alienação do complexo produtivo para a empresa CANABRAVA BIOENERGIA S/A , defende a tese de que a sua responsabilidade tributária deve ser afastada, na forma do art. 133. I, do CTN.
+Em suma, entende que houve incorporação do complexo produtivo localizado na cidade de Campos pela empresa CANABRABA BIONERGIA S/A, e, por consequência esta é a responsável tributária.
+No entanto, conforme bem ressaltado pela União em sua contrarrazões, a exceção de pré-executividade não se mostra adequada para análise da matéria, pois a questão não se mostra evidente, clara e com provas inequívocas para afastar a responsabilidade tributária da agravante.
+Ressalta-se, inclusive, que a alienação do complexo produtivo da USINA SANTA CRUZ S/A à empresa CANABRABA BIONERGIA S/A foi judicializada e resultou no reconhecimento da ineficácia do ato perante os credores, diante da violação dos arts. 60 e 142 da Lei nº 11.101/05, tendo gerado apenas o reconhecimento da responsabilidade da adquirente em relação aos créditos relacionados às atividades desenvolvidas na unidade isolada de Campos de Goytacazes, sem afastar a responsabilidade da ora agravante. Corrobora tal entendimento, o voto proferido em sede de embargos de declaração pela 1ª Câmara Reservada de Direito Empresarial do TJSP, - evento 39, DOC9, cujo trecho transcrevo a seguir:
+"Neste passo, a ineficácia relativa da alienação é para que a sucessão em face da adquirente da UPI se limite aos créditos que tenham se originado das atividades desenvolvidas na unidade produtiva isolada de Campos de Goytacazes, objeto da alienação entre a recuperanda e a ora embargante Canabrava, a exemplo de créditos de fornecedores, trabalhistas e fiscais decorrentes das atividades da UPI. Do mesmo modo que descabida a invalidade do negócio, a ineficácia absoluta traria ônus desarrazoado à adquirente, que poderia ser demandada por todos os débitos da recuperanda, sendo a solução supre descrita a que melhor se apresenta ao caso concreto."
+ ..
+Dessa forma, merece ser mantida a decisão agravada que não conheceu da exceção de pré-executividade, em razão da necessidade de dilação probatória quanto à ausência de responsabilidade tributária da agravante.
+E depreende-se da leitura do acórdão que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v.g. Corte Especial, EDcl no AgRg nos EREsp 1431157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 11041181/SP, Rel. Min. Napoleão Nunes, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1334203/PR, Rel. Min. Assusete Magalhães, DJe de 24.06.2016).
+No mais, a Corte de origem concluiu que a via escolhida pela ora Recorrente é inadequada, tendo em vista que o deslinde da controvérsia exige dilação probatória.
+A Recorrente, por sua vez, sustenta a ilegitimidade para figurar no polo passivo da execução fiscal.
+Desse modo, verifica-se que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. SÚMULAS 283 E 284 DO STF. APLICAÇÃO.
+1. É pacífica a jurisprudência desta Corte no sentido de que as Súmulas 283 e 284 do STF prestigiam o princípio da dialeticidade, por isso não se limitam ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido.
+2. Na espécie, os fundamentos do acórdão da origem não foram devidamente infirmados no recurso ordinário.
+3. Agravo interno não provido.
+(AgInt no RMS n. 65.394/AC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/5/2022, DJe de 25/5/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. MILITARES. PENSIONISTAS. AUXÍLIO-MORADIA. AÇÃO INDIVIDUAL. SUSPENSÃO. IMPROCEDÊNCIA DO PEDIDO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, se as razões recursais apresentadas pelo recorrente estão dissociadas dos fundamentos do acórdão recorrido, não é possível conhecer do recurso especial, por aplicação dos óbices das Súmulas n. 283 e 284, ambas do STF.
+ ..
+VIII - Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.931.517/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/10/2022, DJe de 5/10/2022.);
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. OCORRÊNCIA DE OMISSÃO. PRESCRIÇÃO. REDIRECIONAMENTO.
+1. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+2. Embargos de declaração acolhidos sem efeitos infringentes.
+(EDcl no AgInt nos EDcl no AREsp n. 1.875.980/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/6/2022, DJe de 22/6/2022.)
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno.
