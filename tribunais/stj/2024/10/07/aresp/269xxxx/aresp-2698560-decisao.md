@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CAIXA DE PREVIDENCIA DOS FUNCIONARIOS DO BANCO DO BRASIL - PREVI à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. DECISÃO AGRAVADA QUE JULGOU LIQUIDADA A SENTENÇA, HOMOLOGANDO O VALOR APONTADO PELO EXPERT, O QUAL CALCULADO SEM INCIDÊNCIA DE MULTA CONTRATUAL DE 2% NEM JUROS DE MORA DE 1% AO MÊS. IRRESIGNAÇÃO DO EXEQUENTE, ORA AGRAVANTE.
+1. Pedido inicial do autor para condenação do réu ao "pagamento do saldo devedor do empréstimo contraído junto à entidade autora, no montante de R$10.585,06 (dez mil quinhentos e oitenta e cinco reais e seis centavos), atualizado até 13/10/2008, conforme planilha anexa, a ser corrigido monetariamente até a data do efetivo pagamento".
+2. Pedido que não contemplou a inclusão de encargos contratuais, tão pouco tais verbas fizeram parte do cálculo da planilha apresentada pelo autor.
+3. Sentença que estabeleceu a incidência de juros e correção monetária a partir de cada vencimento não adimplido pelo devedor.
+4. Não houve recurso de apelação, tendo a sentença transitado em julgado na forma como prolatada.
+5. Sentença que julgou a lide nos limites do pedido formulado pelo próprio autor, e, no mesmo sentido, os cálculos foram realizados pelo Expert seguindo o estabelecido no julgado.
+6. Conforme bem observado pelo Perito, em seus esclarecimentos, "na fase de execução, o próprio autor apresentou mais uma vez o valor devido pelo réu (fls. 415/425) sem considerar a multa e os juros de mora".
+7. Portanto, é de se concluir que o montante exequendo deve ser calculado sem a incidência dos encargos contratuais, conforme pedido inicial do autor e, ainda, na forma estabelecida em sentença, estando, pois, correto o valor de R$ 63.877,32, homologado pelo Juízo de origem, não merecendo reparo a sentença de liquidação de sentença.
+RECURSO AO QUAL SE NEGA PROVIMENTO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 422 do CC, no que concerne à nulidade da liquidação de sentença, tendo em vista que o cálculo não cumpriu os requisitos contratuais e legais atinentes à incidência de juros, correção monetária e multa, no cálculo do valor a ser executado, trazendo a seguinte argumentação:
+Em breve leitura ao Acórdão de Agravo de Instrumento, verifica-se que o Ilustríssimo Desembargador entendeu pelo seu desprovimento, considerando que o montante executado deve ser mantido sem a incidência dos encargos contratuais, observando o comando judicial. Ademais, pontua que o valor homologado pelo Juízo a quo, este de R$ 63.877,32 (Sessenta e três mil oitocentos e setenta e sete reais e trinta e dois centavos), não merece reparos na decisão de Liquidação de Sentença.
+Todavia, o referido julgado carece de reforma.
+Isto porque, na forma da Cláusula Décima das Cláusulas Gerais do Contrato de Abertura de Crédito de Empréstimo Simples, incidem sobre o valor inadimplido correção monetária, juros de mora no percentual de 1% (um por cento) ao mês, a contar da data do inadimplemento e multa de 2% (Dois por cento), calculada e exigível na data de seu pagamento, sobre o valor total que constar em atraso. Vejamos na sequência:
+ ..
+Em que pese as cláusulas contratuais delineadas no tópico anterior, o juízo a quo homologou o laudo que não levou em consideração em seus cálculos os juros de mora, no percentual de 1% (um por cento) ao mês, a contar da data do inadimplemento e a multa de 2% (dois por cento).
+Com a devida vênia, temos a decisão proferida deve ser reformada, para que a atualização seja feitas nos moldes contratuais, uma vez que o contrato não pode ser afastado ou modificado sem que se tenha o devido processo legal.
+Vislumbra-se que o decisum constitui manifesta intenção de alterar a essência dos contratos lícitos, perfeitos e acabados, ao qual aderiu o Recorrido e sequer logrou êxito em apontar qualquer vício que o inquinasse. Isto porque a sentença não resolveu o contrato de Empréstimo Simples firmado entre as partes, mas apenas lhe atribuiu força de título executivo judicial.
+Neste diapasão, plenamente válidas suas cláusulas, que deverão ser aqui adotadas de modo a apurar o valor dos juros moratórios e da Cláusula Penal Moratória.
+Oportunamente, antevê-se relevância em destacar que os juros de mora se encontram devidamente abraçados pelo Título Executivo Judicial. Vejamos, abaixo:
+ ..
+Neste ponto, frisa-se que a sentença transitada em julgado não afastou a adoção dos juros moratórios, ao contrário, ratificou sua incidência: "com a incidência de juros e correção monetária, ambos a contar de cada vencimento não adimplido."
+É sempre benéfico lembrar que o contrato, instituto jurídico surgido no direito romano, num clima de formalismo e de inspiração religiosa, é um ato jurídico bilateral, que visa criar, modificar ou extinguir obrigações.
+Nessa esteira, é importante resgatar que não ocorrendo uma das hipóteses de nulidade ou anulabilidade previstas no Código Civil pátrio, os contratos devem ser cumpridos rigorosamente, merecendo as argumentações em sentido contrário, como a aplicação da cláusula rebus sic stantibus 3 e a nova teoria da onerosidade excessiva, serem sopesadas com cautela, sob pena de se colocar "em cheque" um dos instrumentos mais eficazes e estruturadores da economia mundial.
+ ..
+Ressalta-se que, quando da contratação, o Recorrido, no exercício de seu interesse particular, anuiu às cláusulas inseridas nos negócios firmados. Considerar pelo afastamento no disposto no contrato, fere a boa-fé contratual disposta no artigo 422 do Código Civil, o que é vedado pelo ordenamento jurídico pátrio (fls. 68/72).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Com efeito, o pedido da parte autora não contemplou a inclusão dos referidos encargos contratuais, tão pouco tais verbas fizeram parte do cálculo da planilha apresentada pelo autor (indexador 05, fls. 07/13).
+Frise-se, portanto, que o pedido autoral, conforme visto, não incluiu encargos de multa e juros remuneratórios.
+Nessa toada, e, diga-se, corretamente, foi proferida a sentença, que estabeleceu a incidência de juros e correção monetária a partir de cada vencimento não adimplido pelo devedor.
+Ressalte-se que não houve recurso de apelação, tendo a sentença transitado em julgado na forma como prolatada.
+Saliente-se, ainda, como bem observado pelo Perito em seus esclarecimentos (indexador 538, fl. 540), que "na fase de execução, o próprio autor apresentou mais uma vez o valor devido pelo réu (fls. 415/425) sem considerar a multa e os juros de mora".
+Assim, não merece amparo o argumento do agravante de que "a sentença não resolveu o contrato de empréstimo firmado pelas partes, mas apenas lhe atribuiu força de título executivo judicial, de forma que deve incidir os encargos ali previstos", porquanto, como visto, a sentença julgou a lide nos limites do pedido formulado pelo próprio autor, e, no mesmo sentido, os cálculos foram realizados pelo Expert seguindo o estabelecido no julgado.
+Portanto, é de se concluir que o montante exequendo deve ser calculado sem a incidência dos encargos contratuais, conforme pedido inicial do autor e, ainda, na forma estabelecida em sentença, estando, pois, correto o valor de R$ 63.877,32, homologado pelo Juízo de origem, não merecendo reparo a sentença de liquidação de sentença (fls. 46/47, grifos meus)
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 19.11.2019; AgInt no AREsp n. 1.637.445/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp n. 1.647.046/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.8.2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
