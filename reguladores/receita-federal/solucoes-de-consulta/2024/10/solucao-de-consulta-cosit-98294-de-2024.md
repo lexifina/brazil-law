@@ -1,0 +1,8 @@
+Solução de Consulta Cosit nº 98294, de 30 de agosto de 2024
+Assunto: Classificação de Mercadorias
+Mercadoria: Não se configura em sortido acondicionado para venda a retalho, nos termos da RGI 3 b), o conjunto de artigos variados, para atividades práticas de alunos em disciplinas relacionadas a microcontroladores e microprocessadores, instrumentação eletrônica, sistemas embarcados e lógica programável, apresentado em maleta de plástico com alça, contendo: 1 Display LCD tela 16 X 2 caracteres com conector PIN, 2 programadores para PIC PICKIT3, 1 motor de passo 5 V com placa de acionamento, 1 carregador USB com cabo de força, 1 sensor de temperatura e umidade relativa, 1 sensor de presença HC-SR501 PIR, 1 Módulo FPGA Altera Cyclone IV EP4CE com SDRAM ATA008 256M, 1 cabo USB de alta velocidade blaster, 1 cabo USB para FPGA, 4 placas de aprendizado microcontrolador PIC 16F877A, 2 Tiristor SCR BT151-800R, 2 TRIAC BT136-600D, 4 circuitos integrados SC3525A, 4 diodos MUR160, 4 indutores 100UH 1A, 4 MOSFET canal N IRF740, 2 MOSFET canal P IRF930, 1 dissipador de alumínio 7W para TO220 20X15 perfurado com parafuso, bucha, porca e folha de mica e 1 cabo USB.
+Cada componente segue o seu próprio regime de classificação.
+Dispositivos Legais: RGI 1 e RGI 3 b) da NCM/SH, constante da TEC, aprovada pela Resolução Gecex nº 272, de 2021 e da Tipi, aprovada pelo Decreto nº 11.158, de 2022, subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 2.169, de 2023, e as suas alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.294-2024.pdf]
+DANIELLE CARVALHO DE LACERDA
+Presidente da 3ª Turma do Ceclam
