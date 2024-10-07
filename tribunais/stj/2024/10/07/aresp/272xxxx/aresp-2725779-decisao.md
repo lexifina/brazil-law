@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/07/2024.
+Concluso ao gabinete em: 27/09/2024.
+Ação: de obrigação de fazer com pedido de tutela de urgência e compensação por danos morais ajuizada por RAFAEL COLADETTI TEIXEIRA VARGAS em face da agravante, visando a cobertura de internação em clínica especializada, no tratamento de transtornos mentais e comportamentais devido ao uso de drogas e outras substâncias psicoativas.
+Sentença: julgou parcialmente procedente a demanda para determinar a cobertura do tratamento prescrito, custeando o tratamento na clínica eleita pelo paciente, conforme a tabela praticada pelo plano de saúde.
+Acórdão: negou provimento ao recurso da agravante, nos termos da seguinte ementa:
+APELAÇÃO. PLANO DE SAÚDE. REEMBOLSO. Insurgência quanto à determinação de reembolso das despesas de internação em clínica particular. Não acolhimento. Clínica de atendimento a dependente químico não integrante da rede credenciada. Cláusula com limite de reembolso que não ostenta abusividade, nos termos artigo 12, inciso VI, da Lei 9.656/1998. Inexistência de desvantagem ao consumidor. Existência de estabelecimentos na rede credenciada da apelada aptos a acolher o paciente. Insuficiência da rede credenciada da ré que não foi comprovada. Precedentes da Câmara. Manutenção da sentença. RECURSO DESPROVIDO.
+Recurso especial: alega violação dos arts. 8 e 16 da Lei 9656/98, 421 do CC e 51, IV e §1º, II e e 54, §4º do CDC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta a não obrigatoriedade de cobertura de tratamento em local não credenciado, nos termos das cláusulas contratuais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Reembolso de despesas médico-hospitalares. Da orientação consolidada pelo Superior Tribunal de Justiça
+A 2ª Seção do STJ, por ocasião do julgamento do EAREsp 1.459.849/ES, DJe 17/12/2020, consolidou o entendimento de que o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento, e limitado ao valor da tabela do plano de saúde contratado.
+Verifica-se que, no caso dos autos, a fundamentação a respeito da determinação do reembolso das despesas realizadas fora da rede credenciada, não contaram com a análise das excepcionalidades previstas no art. 12, VI, da Lei 9.656/98, quais sejam, emergência ou urgência do procedimento, e ausência de rede credenciada apta a realizar o procedimento. Inviável, portanto, a manutenção do reembolso sem o exame dos requisitos.
+Logo, estando o acórdão recorrido em desacordo com a jurisprudência do STJ, de rigor sua reforma.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para determinar o retorno dos autos à origem para que o tribunal julgue a lide, aplicando o entendimento pacificado do STJ quanto ao cabimento de reembolso de despesas realizadas fora da rede credenciada do plano de saúde.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PLANO DE SAÚDE. INTERNAÇÃO PSIQUIÁTRICA. REEMBOLSO. URGÊNCIA, EMERGÊNCIA, INEXISTÊNCIA OU INSUFICIÂNCIA DE REDE CREDENCIADA APTA. ANÁLISE INDISPENSÁVEL DOS REQUISITOS.
+1. Ação de obrigação de fazer c/c danos morais.
+2. A Segunda Seção firmou entendimento de que o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento, limitado ao valor da tabela do plano de saúde contratado (EAREsp 1.459.849/PR, DJe de 17/12/2020).
+3. Agravo conhecido. Recurso especial conhecido e provido.
