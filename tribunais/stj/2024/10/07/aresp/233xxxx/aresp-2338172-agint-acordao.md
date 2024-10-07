@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. RAV. AUSÊNCIA DE AVALIAÇÃO INDIVIDUAL. VIOLAÇÃO AO ART. 1.022 DO CPC. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO PRETORIANO. ANÁLISE PREJUDICADA.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Precedentes.
+2. A fundamentação deficiente do especial não permite, por consequência e per saltum, ingressar no exame da alegada afronta à matéria normativa de fundo (arts. 502, 503, 1.008 e 1.025 do CPC), porquanto remanesce ausente o indispensável prequestionamento.
+3. O não conhecimento do apelo raro pelo conduto da alínea a do permissivo constitucional inviabiliza, por conseguinte, a análise do apontado dissídio pretoriano.
+4. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Sonia Maria dos Santos Ellena e outro desafiando decisão que negou provimento ao agravo em recurso especial, sob os seguintes fundamentos: (I) é deficiente a fundamentação do apelo nobre em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, pelo que incide o óbice da Súmula 284 do STF; (II) a fundamentação deficiente do apelo, no que tange à negativa de prestação jurisdicional declaratória, não permite, por consequência e per saltum, ingressar no exame da tese veiculada no recurso raro no tocante à ofensa aos arts. 502, 503, 1.008 e 1.025 do CPC, porquanto remanesce ausente o indispensável prequestionamento (Súmula 211/STJ); e (III) inviabilidade de apreciação do dissídio pretoriano em virtude dos impedimentos aplicados à insurgência recursal pela alínea a do permissivo constitucional.
+A parte agravante, em suas razões, sustenta, em resumo: (i) "a análise e demonstração realizada é tão somente a seguinte: o título exequendo determina a condenação da União quanto as verbas pagas a menor e não apenas declara o pagamento a menor. Certo que a prestação jurisdicional restaria deficiente caso se apenas estivesse declarando o pagamento a menor. Com isso, tem-se claramente a ofensa dos dispositivos apontados, não havendo qualquer óbice na referida súmula 284" (fl. 233); e (ii) "também não há ofensa quanto art. 541, paragrafo único, CPC. Inclusive, desde já, se verifica o desacerto da aplicação de tal artigo que, no Código de Processo Civil, trata de consignação em pagamento, matéria totalmente diversa da presente.  ..  Também não prospera o não conhecimento do recurso pela inobservância do art.255 do RISTJ. Veja do Recurso Especial interposto que foi especificamente cada dispositivo de lei violado, não incorrendo em inobservância do art. 255 do Regimento Interno do Superior Tribunal de Justiça. Deste modo, não prospera o não conhecimento do RESP por inobservância do art.255 do RISTJ" (fls. 233/246).
+No mais, reitera as razões do apelo especial.
+Transcorreu in albis o prazo para impugnação (fl. 254).
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. RAV. AUSÊNCIA DE AVALIAÇÃO INDIVIDUAL. VIOLAÇÃO AO ART. 1.022 DO CPC. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO PRETORIANO. ANÁLISE PREJUDICADA.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Precedentes.
+2. A fundamentação deficiente do especial não permite, por consequência e per saltum, ingressar no exame da alegada afronta à matéria normativa de fundo (arts. 502, 503, 1.008 e 1.025 do CPC), porquanto remanesce ausente o indispensável prequestionamento.
+3. O não conhecimento do apelo raro pelo conduto da alínea a do permissivo constitucional inviabiliza, por conseguinte, a análise do apontado dissídio pretoriano.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento.
+Ao compulsar novamente os autos, verifica-se que, de fato, mostra-se deficiente a fundamentação do recurso especial no ponto em que apontada ofensa ao art. 1.022 do CPC, que se fez de forma genérica, sem a demonstração exata dos aspectos pelos quais o acórdão se fez omisso, contraditório ou obscuro (fls. 222/224).
+Assim, é escorreita a decisão agravada ao fazer incidir, na hipótese, o óbice da Súmula 284 do STF.
+Importante registrar que a singela afirmação de que o Tribunal de origem se omitiu em apreciar determinados artigos de lei não é capaz de individualizar a omissão no aresto recorrido nem de tornar clara sua relevância para a solução da controvérsia apresentada nos autos.
+A propósito, confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. PROGRAMA ESPECIAL DE REGULARIZAÇÃO TRIBUTÁRIA (PERT). LEI 13.496/2017. PARCELAMENTO. POSSIBILIDADE DE OPÇÃO, PELO CONTRIBUINTE, DE REGULARIZAÇÃO PARCIAL DA DÍVIDA. REJEIÇÃO, PELO TRIBUNAL DE ORIGEM, QUE, COM BASE NA ANÁLISE DAS PROVAS, CONCLUIU PELA IMPOSSIBILIDADE DE FAZER A DISTINÇÃO DOS DÉBITOS EXISTENTES. REVISÃO. SÚMULA 7/STJ. TRÂNSITO EM JULGADO DA SENTENÇA. INOCORRÊNCIA, DIANTE DA INTERPOSIÇÃO DE RECURSO PELA FAZENDA NACIONAL. FUNDAMENTO INATACADO. SÚMULA 283/STF. ALÍNEA "C". NÃO DEMONSTRAÇÃO DO DISSÍDIO.
+1. Em relação à tese de violação dos arts. 489 e 1.022 do CPC, a parte recorrente, no capítulo específico que contém o arrazoado pertinente (fls. 2567- 2569, e-STJ), se limitou a afirmar que o acórdão do Tribunal de origem "omitiu-se ao não enfrentar os fundamentos legais (artigos 356, 502, 507, 523 e § 1º do artigo 1.013 do CPC)". O recorrente não descreveu, contudo, a relevância da análise de tais dispositivos para o julgamento do feito. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+ ..
+9. Recurso Especial não conhecido.
+(REsp n. 1.825.179/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 17/12/2019, DJe de 25/5/2020.)
+De outra senda, conforme já registrado no decisum alvejado, o Tribunal a quo não se pronunciou sobre os arts. 502, 503, 1.008 e 1.025 do CPC. Ocorre que a fundamentação deficiente do apelo, no tocante à negativa de prestação jurisdicional declaratória, não permite, por consequência e per saltum, ingressar no exame das questões trazidas no recurso especial, porquanto remanesce ausente o indispensável prequestionamento (Súmula 211/STJ).
+Convém assinalar, por pertinente, que esta Corte Superior entende que, para que reste atendido o requisito do prequestionamento, não basta a menção de dispositivo de lei tido por violado nas razões dos recursos (apelação e/ou embargos de declaração), mas que o Tribunal de origem tenha efetivamente decidido o tema controvertido.
+Nesse sentido:
+PROCESSUAL CIVIL. ART. 222 DO RIR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NÃO ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC. IMPOSTO DE RENDA. OMISSÃO DE RECEITA. MULTA. APURAÇÃO DA TRIBUTAÇÃO. PRETENDIDA APLICAÇÃO. ART. 530 DO RIR. OPÇÃO PELO PAGAMENTO DO IRPJ SOBRE BASE DE CÁLCULO ESTIMADA. REEXAME. SÚMULA 7/STJ.
+1. Descumprido o indispensável exame do artigo 222 do Regulamento do Imposto de Renda - RIR pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Incidência da Súmula 211/STJ.
+2. Esta Corte não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes, mas sim que a respeito tenha havido debate no acórdão recorrido.
+ ..  Agravo regimental improvido.
+(AgRg no AREsp n. 495.539/SC, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 27/5/2014, DJe de 2/6/2014.)
+AGRAVO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. TRIBUTÁRIO. ICMS. VIOLAÇÃO DO ART. 485, INC. V DO CPC. INAPLICABILIDADE DA SÚMULA 343/STF SE A DECISÃO RESCINDENDA FOR CONTRÁRIA À INTERPRETAÇÃO CONSTITUCIONAL DO STF. AUSÊNCIA DE PREQUESTIONAMENTO A DESPEITO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. SÚMULA 211/STJ. AGRAVO REGIMENTAL DO ESTADO DO PARANÁ A QUE SE NEGA PROVIMENTO.
+ ..
+2. Merece relevo anotar que, para a configuração do prequestionamento, não basta que o dispositivo legal tido por violado seja suscitado pela parte interessada, impondo-se, também, que tenha sido objeto de debate pelo Órgão Colegiado competente. Incide, à espécie, o enunciado 211 da Súmula do Superior Tribunal de Justiça, segundo o qual é inadmissível Recurso Especial quanto à questão que, a despeito da oposição de Embargos de Declaração, não foi apreciada pelo Tribunal a quo.
+3. Agravo Regimental do ESTADO DO PARANÁ a que se nega provimento.
+(AgRg no AREsp n. 490.560/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 15/5/2014, DJe de 26/5/2014.)
+Por fim, o não conhecimento do apelo raro pelo conduto da alínea a do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano.
+Confiram-se a esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. OCORRÊNCIA DE DANO MORAL. SÚMULA 7/STJ. REVISÃO DO VALOR DA INDENIZAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não deve ser afastada a incidência da Súmula 7/STJ na hipótese em apreço. O Tribunal de origem, soberano na análise do conjunto fático probatório dos autos, concluiu que "a prisão indevida do consumidor, em razão de imputação de furto de energia elétrica não cometido por este, constitui ato ilícito e legitima o prejudicado a buscar reparação pelo dano moral suportado" e que o valor arbitrado à título de danos morais é adequado para os parâmetros do caso. Assim sendo, a reversão do entendimento exposto no acórdão, como pretende o recorrente, exige o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+2. Frise-se que o Superior Tribunal de Justiça só pode rever o quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando irrisórios ou exorbitantes, o que não ocorreu na espécie.
+3. Ressalte-se, por fim, que o mesmo óbice imposto à admissão do Recurso Especial pela alínea "a" do permissivo constitucional obsta a análise recursal pela alínea "c", restando o dissídio jurisprudencial prejudicado.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.665.976/MS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/11/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO DA PRESIDÊNCIA DO STJ. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VULNERADOS. SÚMULA 211/STJ. ALEGAÇÕES DISSOCIADAS. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS 284 E 283 DO STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Inadmissível o recurso especial referente à tese de ofensa ao art. 85, §§ 1º e 8º, do Código de Processo Civil de 2015, a despeito da oposição de embargos declaratórios, o qual não foi objeto de análise, nem sequer implicitamente pela Corte de origem. Incidência do óbice da Súmula 211 do STJ.
+2. A apresentação de razões dissociadas e a falta de impugnação específica à fundamentação adotada no acórdão, capaz por si só de manter o resultado do julgado, inviabilizam o conhecimento do recurso. Incidem à hipótese as Súmulas 284 e 283 do STF.
+3. O mesmo óbice imposto à admissão do recurso especial pela alínea a do art.
+105, III, da CF - aplicação das Súmulas 211 do STJ e 283 e 284 do STF - obsta a análise recursal pela alínea c, ficando o exame do dissídio jurisprudencial prejudicado.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.658.980/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 16/9/2020.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
