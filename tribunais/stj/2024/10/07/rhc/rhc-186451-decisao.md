@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por FELIPE ALEXSANDER MORAES FERRAO, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem originária, em acórdão assim ementado (e-STJ, fl. 304):
+"HABEAS CORPUS - MATÉRIA AFETA À EXECUÇÃO - INADEQUAÇÃO DA VIA ELEITA - AUSÊNCIA DE MANIFESTO CONSTRANGIMENTO ILEGAL - IMPETRAÇÃO NÃO CONHECIDA. Não se vislumbrando, no caso concreto, qualquer constrangimento ilegal imposto à paciente, e não sendo o Habeas Corpus a via correta para a discussão de questões atinentes à execução penal, não deve a impetração ser conhecida."
+Consta dos autos a expedição de guia de execução definitiva para o cumprimento de pena de 4 anos de reclusão e de 7 meses de detenção, no regime inicial semiaberto, por infração aos arts. 250, §1º, II, "a", do Código Penal e 163, parágrafo único, inciso I, todos do CP. No dia 27/10/2022, o recorrente assinou termo de compromisso das condições para o regime semiaberto (fl. 115). No dia 26 de junho de 2023, foi determinada a regressão cautelar de regime para o fechado, diante da fuga do recorrente (fls. 283/284). No dia 21 de julho de 2023, foi indeferido o pedido de indulto (fls. 285/289).
+Neste recurso, alega constrangimento ilegal sofrido pelo paciente em decorrência do indeferimento do pedido de substituição da pena corporal por medida de segurança, devido ao transtorno mental suportado pelo recorrente.
+Aduz que "a manutenção da pena privativa de liberdade encontrava-se eivada de ilegalidade, ante a determinação legal da imposição de medidas de segurança de acordo com o grau de transtorno mental, a ser definido por junta médica com a realização da competente perícia psiquiátrica" (e-STJ, fl. 322).
+Requer seja cassado o mandado de prisão expedido em desfavor do recorrente, bem como proceda à imediata avaliação psiquiátrica para o correto cumprimento da pena.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opina pelo não conhecimento do recurso em habeas corpus.
+É o relatório.
+Decido.
+O Tribunal de origem não conheceu da impetração originária pelos seguintes fundamentos (e-STJ, fl. 309):
+"Igualmente inviável, ao menos por esta estreita via, a análise do pedido de conversão da pena privativa de liberdade em medida de segurança.
+Nesse sentido, o Receituário constante do documento de ordem n. 13 atesta, ao mesmo tempo, que o sentenciado apresenta "quadro de déficit cognitivo leve a moderado", certificando, ao mesmo tempo, que o paciente não tem "condições de cumprir regime semiaberto".
+Ora, nesse sentido, a classificação de déficit cognitivo do paciente não é no grau mais gravoso (que poderia ser retardo mental grave ou profundo, segundo o CID-10, F72 e 73, respectivamente), restando contraditória a afirmação de que a limitação, no seu grau moderado, já seria capaz de impedir o cumprimento da pena privativa de liberdade.
+Nesse sentido, a concessão da prisão domiciliar, nos termos do art. 117, inciso II, da LEP, exige comprovação de que o condenado seja "acometido de doença grave", a qual não restou comprovada nesta ocasião, e tampouco que o paciente faz jus à concessão da Medida de Segurança."
+Da leitura dos excertos transcritos, verifica-se que as instâncias originárias indeferiram a medida de segurança ao recorrente haja vista que o próprio médico atestou não se tratar de doença grave, bem como porque não demonstrado a total incapacidade do estabelecimento prisional de lhe assegurar os eventuais cuidados que sejam necessários.
+Assim, a revisão desse entendimento, no sentido da concessão da medida de segurança demandaria reexame probatório, providência inviável em sede de habeas corpus.
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO DOMICILIAR. DOENÇA GRAVE. NÃO COMPROVAÇÃO DE INCAPACIDADE DE RECEBER TRATAMENTO NO ESTABELECIMENTO PRISIONAL. REVOLVIMENTO DE PROVAS. VIA IMPRÓPRIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada pelos próprios fundamentos.
+II - A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que, embora o art. 117 da Lei de Execução Penal estabeleça como requisito para a concessão de prisão domiciliar o cumprimento da pena no regime prisional aberto, é possível a extensão do benefício aos condenados recolhidos no regime fechado ou semiaberto, em casos excepcionais.
+III - No caso dos autos, não ficou comprovado que a sentenciada não pode receber o atendimento médico adequado no local em que estiver recolhida.
+IV - A revisão de tal entendimento demanda necessariamente o reexame do contexto fático-probatório, inviável em sede de habeas corpus.
+Agravo regimental desprovido."
+(AgRg no HC n. 914.491/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 19/8/2024, DJe de 27/8/2024.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR HUMANITÁRIA. GRAVE ESTADO DE SAÚDE E INEXISTÊNCIA DE TRATAMENTO ADEQUADO NA UNIDADE PRISIONAL. AUSÊNCIA DE COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante orientação desta Corte Superior, em regra, a concessão de prisão domiciliar só é admitida em favor de preso inserido no regime aberto, nos termos do art. 117 da Lei de Execução Penal - LEP.
+2. Contudo, quando ficar comprovado que o recluso é acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não pode ser prestado no ambiente prisional, admite-se, de forma excepcional, a colocação em prisão domiciliar de presos dos regimes fechado ou semiaberto.
+3. Na hipótese dos autos, as instâncias ordinárias destacaram que o paciente está tendo o tratamento adequado no estabelecimento prisional. Para afastar essa conclusão, é necessário o revolvimento do conjunto fático-probatório, providência incompatível com a estreita via do habeas corpus.
+4. Agravo regimental desprovido."
+(AgRg no HC n. 801.974/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. MODUS OPERANDI. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva, nos termos do art. 312 do CPP, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do acusado.
+2. No caso examinado, a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, diante da gravidade concreta da conduta delituosa, pois o crime de roubo teria sido praticado mediante o uso de arma de fogo e em concurso de agentes, sem contar o fato de que houve, por aproximadamente uma hora, fuga em alta velocidade. Essas circunstâncias justificam a prisão cautelar, consoante pacífico entendimento desta Corte no sentido de que não há constrangimento ilegal quando a segregação preventiva é decretada em razão do modus operandi com que o delito fora praticado.
+3. É inviável a aplicação de medidas cautelares diversas da prisão, porquanto a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do agravante.
+4. O fato de o agravante ter condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte.
+5. O inciso II do artigo 318 do CPP permite ao juiz substituir a prisão preventiva pela domiciliar quando o agente estiver "extremamente debilitado por motivo de doença grave". Além disso, nos termos do parágrafo único desse dispositivo, para "a substituição, o juiz exigirá prova idônea dos requisitos estabelecidos neste artigo".
+6. In casu, embora a defesa afirme que o agravante seria portador de doença grave e, inclusive, correria risco de morte, as instâncias ordinárias concluíram, fundamentadamente, pela ausência de comprovação da extrema debilidade, por motivo de doença grave.
+7. A verificação acerca do estado de saúde do agravante demandaria detido e profundo revolvimento fático-probatório, o que é inviável na via estreita do habeas corpus.
+8. Conquanto seja notória a gravidade da ampla disseminação do novo coronavírus no Brasil, não houve comprovação de que, dentro do estabelecimento prisional, o agravante, ainda que enquadrado em grupo de risco da covid-19, deixará de ter atendimento e proteção adequados.
+9. Agravo regimental não provido."
+(AgRg no HC n. 759.670/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/12/2022, DJe de 21/12/2022.)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
