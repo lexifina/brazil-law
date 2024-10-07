@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. 1. ATIPICIDADE DO CRIME DE LAVAGEM DE DINHEIRO. INDEVIDA INOVAÇÃO RECURSAL. 2. EXTINÇÃO DA PUNIBILIDADE DOS CRIMES ANTECEDENTES. ALTERAÇÃO LEGISLATIVA POSTERIOR. IRRELEVÂNCIA. 3. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Os temas trazidos pela defesa revelam indevida inovação recursal, porquanto não foram abordados na petição do recurso especial, estando, portanto, preclusos. Ademais, não há prévia manifestação do Tribunal de origem, o que denota igualmente ausência de prequestionamento.
+2. Ainda que assim não fosse, a alegação defensiva não merece prosperar, uma vez que, mesmo antes da alteração legislativa trazida pela Lei n. 12.683/2012, era irrelevante a punição das condutas antecedentes.
+- De fato, a redação originária do art. 2º, § 1º, da Lei 9.613/1998 disciplinava que os fatos seriam puníveis ainda que desconhecido ou isento de pena o autor do crime antecedente. A inserção da expressão "ou extinta a punibilidade da infração penal antecedente" apenas tornou explícita compreensão já constante da norma. A propósito: HC 207.936/MG, relator Ministro Jorge Mussi, Quinta Turma, julgado em 27/3/2012, DJe de 12/4/2012.
+- Como é de conhecimento, a extinção da punibilidade não torna o fato atípico nem elimina a antijuridicidade ou a culpabilidade, mas tão somente a pena e seus efeitos. Nesse contexto, em observância ao conceito analítico de crime, tem-se que a extinção a punibilidade do crime antecedente não o descaracteriza como crime, motivo pelo qual permanece apto a configurar o crime antecedente para fins do crime de lavagem.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RILDO RAMALHO PINTO contra decisão monocrática, da minha lavra, que acolheu em parte os embargos de declaração, para reconhecer a prescrição da pretensão punitiva estatal e julgar extinta a punibilidade do paciente com relação aos crimes de fraude à licitação e de peculato.
+O agravante afirma, em síntese, que a manutenção da condenação pelo crime de lavagem de dinheiro revela ilegalidade superveniente, porquanto a possibilidade de condenação, mesmo com a extinção da punibilidade dos crimes antecedentes, somente passou a constar da Lei em 2012, por meio de alteração trazida pela Lei n. 12.683/2012. Afirma, no mais, que é atípica a prática de lavagem de dinheiro oriunda de organização criminosa, antes da Lei n. 12.850/2013.
+Pugna, assim, pelo provimento do agravo regimental.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. 1. ATIPICIDADE DO CRIME DE LAVAGEM DE DINHEIRO. INDEVIDA INOVAÇÃO RECURSAL. 2. EXTINÇÃO DA PUNIBILIDADE DOS CRIMES ANTECEDENTES. ALTERAÇÃO LEGISLATIVA POSTERIOR. IRRELEVÂNCIA. 3. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Os temas trazidos pela defesa revelam indevida inovação recursal, porquanto não foram abordados na petição do recurso especial, estando, portanto, preclusos. Ademais, não há prévia manifestação do Tribunal de origem, o que denota igualmente ausência de prequestionamento.
+2. Ainda que assim não fosse, a alegação defensiva não merece prosperar, uma vez que, mesmo antes da alteração legislativa trazida pela Lei n. 12.683/2012, era irrelevante a punição das condutas antecedentes.
+- De fato, a redação originária do art. 2º, § 1º, da Lei 9.613/1998 disciplinava que os fatos seriam puníveis ainda que desconhecido ou isento de pena o autor do crime antecedente. A inserção da expressão "ou extinta a punibilidade da infração penal antecedente" apenas tornou explícita compreensão já constante da norma. A propósito: HC 207.936/MG, relator Ministro Jorge Mussi, Quinta Turma, julgado em 27/3/2012, DJe de 12/4/2012.
+- Como é de conhecimento, a extinção da punibilidade não torna o fato atípico nem elimina a antijuridicidade ou a culpabilidade, mas tão somente a pena e seus efeitos. Nesse contexto, em observância ao conceito analítico de crime, tem-se que a extinção a punibilidade do crime antecedente não o descaracteriza como crime, motivo pelo qual permanece apto a configurar o crime antecedente para fins do crime de lavagem.
+3. Agravo regimental não conhecido.
+VOTO
+Não é possível conhecer do presente agravo regimental.
+Com efeito, os temas trazidos pela defesa revelam indevida inovação recursal, porquanto não foram abordados na petição do recurso especial, estando, portanto, preclusos. Ademais, não há prévia manifestação do Tribunal de origem, o que denota igualmente ausência de prequestionamento.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. DOSIMETRIA. ANTECEDENTES. DIREITO AO ESQUECIMENTO. INOVAÇÃO RECURSAL. PREQUESTIONAMENTO INEXISTENTE. MAUS ANTECEDENTES. PERÍODO DEPURADOR. NÃO APLICÁVEL. FRAÇÃO DE AUMENTO. PROPORCIONAL. DETRAÇÃO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. É incabível a inovação recursal em sede de agravo regimental, vedada pela preclusão consumativa.
+2. A instância anterior não apreciou a tese de incidência da teoria do esquecimento aos antecedentes penais, inviabilizando a análise nesta oportunidade, ante a falta do devido prequestionamento.
+3. A individualização da pena é uma atividade na qual o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada.
+4. É firme a jurisprudência desta Corte Superior no sentido de que "não existe critério matemático obrigatório para a fixação da pena-base. Pode o magistrado, consoante a sua discricionariedade motivada, aplicar a sanção básica necessária e suficiente à repressão e prevenção do delito, pois as infinitas variações do comportamento humano não se submetem, invariavelmente, a uma fração exata na primeira fase da dosimetria" (AgRg no HC 563.715/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/9/2020, DJe 21/9/2020).
+5. Considerando a presença de sete condenações anteriores, utilizadas para a valoração dos antecedentes penais, não se mostra desproporcional a elevação da pena-base em 1/2 (metade).
+6. Irrelevante a detração do período de prisão cautelar, nos termos do art. 387, § 2º, do CPP, considerando que o regime prisional mais gravoso foi estabelecido e m virtude dos antecedentes do agravante.
+7. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no AREsp n. 2.481.141/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/3/2024, DJe de 5/4/2024.)
+Ainda que assim não fosse, a alegação defensiva não merece prosperar, uma vez que, mesmo antes da alteração legislativa trazida pela Lei n. 12.683/2012, era irrelevante a punição das condutas antecedentes. De fato, a redação originária do art. 2º, inciso II, da Lei n. 9.613/1998, dispunha que o processo e julgamento por crimes de lavagem independia do processo e julgamento dos crimes antecedentes.
+Da mesma forma, a redação originária do art. 2º, § 1º, da referida Lei disciplinava que os fatos seriam puníveis ainda que desconhecido ou isento de pena o autor do crime antecedente. A inserção da expressão "ou extinta a punibilidade da infração penal antecedente" apenas tornou explícita compreensão já constante da norma.
+A propósito:
+Aliás, se própria Lei 9.613/1998 permite a punição dos fatos nela previstos ainda que desconhecido ou isento de pena o autor do crime antecedente, é evidente que a extinção da punibilidade pela prescrição de um dos coautores dos delitos acessórios ao de lavagem não tem o condão de inviabilizar a persecução penal no tocante a este último ilícito penal. (HC n. 207.936/MG, relator Ministro Jorge Mussi, Quinta Turma, julgado em 27/3/2012, DJe de 12/4/2012.)
+Como é de conhecimento, a extinção da punibilidade não torna o fato atípico nem elimina a antijuridicidade ou a culpabilidade, mas tão somente a pena e seus efeitos. Nesse contexto, em observância ao conceito analítico de crime, tem-se que a extinção a punibilidade do crime antecedente não o descaracteriza como crime, motivo pelo qual permanece apto a configurar o crime antecedente para fins do crime de lavagem.
+Pelo exposto, não conheço do agravo regimental.
+É como voto.
