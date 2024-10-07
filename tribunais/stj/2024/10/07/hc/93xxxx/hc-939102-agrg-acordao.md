@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. INQUÉRITO POLICIAL. TRANCAMENTO. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. PRESENÇA DE JUSTA CAUSA. EXCESSO DE PRAZO. INVESTIGADA QUE SE ENCONTRA EM LIBERDADE. DETERMINAÇÃO DO JUÍZO DE PRIMEIRO GRAU PARA QUE SE CONFIRA CELERIDADE À CONCLUSÃO DO INQUÉRITO. EXCESSO DE PRAZO AFASTADO. WRIT INDEFERIDO LIMINARMENTE. FUNDAMENTOS DA DECISÃO NÃO ATACADOS. NÃO CONHECIMENTO DO AGRAVO.
+1 . Inviável o conhecimento do agravo regimental que não ataca especificamente os fundamentos da decisão agravada, limitando-se a reiterar os termos da inicial do habeas corpus. Incidência da Súmula n. 182/STJ.
+2. Agravo regimental do qual não se conhece.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por LUCIANA MARIA DE SOUZA SANTOS contra a decisão de e-STJ fls. 290/293, por meio da qual indeferi liminarmente o presente writ.
+No caso concreto, tem-se que a agravante é investigada em inquérito policial instaurado em 28/12/2021 para apurar suposto crime de adulteração de sinal identificador de veículo automotor, em tese cometido em 29/5/2019.
+A defesa, em primeiro grau, impetrou habeas corpus pugnando pelo trancamento do inquérito policial por excesso de prazo, sendo a ordem denegada (e-STJ fls. 251/254).
+Irresignada, a defesa interpôs recurso em sentido estrito, tendo o Tribunal de origem negado provimento ao recurso em acórdão, cuja ementa foi assim definida (e-STJ fls. 278):
+RECURSO EM SENTIDO ESTRITO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. TRANCAMENTO DO INQUÉRITO POLICIAL POR EXCESSO DE PRAZO. AUSÊNCIA DE AMPARO LEGAL. PROSSEGUIMENTO REGULAR DO INQUÉRITO POLICIAL. 1. O trancamento do inquérito policial se caracteriza como medida excepcional, cabível quando comprovadas, de forma inequívoca, a falta de justa causa (ausência de indícios de autoria ou prova da materialidade), a atipicidade da conduta ou a existência manifesta de causa de extinção da punibilidade, o que não se verifica no presente caso.
+Neste writ, a defesa sustentou constrangimento ilegal sofrido pela ora agravante em vista do excesso de prazo para a conclusão do inquérito policial.
+Aduziu, em síntese, que "já são mais de 5 anos em que a Recorrente e o seu esposo estão sendo investigados sem que nenhum elemento de autoria e materialidade tenham sido colhidos para a formação de culpa" (e-STJ fl. 7); que a complexidade do caso não justificaria a demora para a conclusão do inquérito, ainda que se trate de inquérito policial de investigado solto cujo prazo é impróprio (e-STJ fl. 10); que a necessidade de requerimento de diligências a outros estados da federação também não justifica a morosidade do feito (e-STJ fls. 10/17); e que não haveria justa causa para continuidade das investigações, pela ausência de comprovação da adulteração de sinal, bem como pela existência de laudos e vistorias que comprovariam que "o veículo foi batido/acidentado, de modo que as "irregularidades" apresentadas nos laudos, como a não originalidade da estrutura do painel frontal, a não originalidade de algumas peças, bem como a identificação de retoques de pintura em diversas partes do automóvel, se dão pelo fato de o veículo ter sido batido e, necessariamente, ter passado por um processo de reforma e reconstrução da parte danificada, descartando a alegação de que as alterações feitas no veículo foram feitas de má-fé e /ou com finalidade ilícita" (e-STJ fls. 18/19).
+Alegou, ainda, que a vistoria "feita por empresa idônea não constatou nenhuma fraude no chassi ou em outra peça fundamental do veículo, foi contatado que o veículo é oriundo de leilão apenas"; que o laudo técnico pericial realizado pela polícia civil não foi conclusivo no sentido de apontar a ocorrência de adulteração, limitando-se a afirmar que, no local do chassi, havia teor de acabamento diverso do original adesivo plástico; e que "a perícia foi omissa no sentido de esclarecer se a numeração do Chassi bate com a numeração do motor" (e-STJ fl. 19).
+Requereu, ao final, a concessão da ordem para trancar o inquérito por excesso de prazo, restituindo-se o veículo apreendido.
+Às e-STJ fls. 290/293, indeferi liminarmente o habeas corpus.
+Nesta oportunidade, a defesa reitera as razões contidas na inicial e pugna pelo provimento do recurso a fim de trancar o inquérito na origem e determinar a restituição do veículo apreendido.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. INQUÉRITO POLICIAL. TRANCAMENTO. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. PRESENÇA DE JUSTA CAUSA. EXCESSO DE PRAZO. INVESTIGADA QUE SE ENCONTRA EM LIBERDADE. DETERMINAÇÃO DO JUÍZO DE PRIMEIRO GRAU PARA QUE SE CONFIRA CELERIDADE À CONCLUSÃO DO INQUÉRITO. EXCESSO DE PRAZO AFASTADO. WRIT INDEFERIDO LIMINARMENTE. FUNDAMENTOS DA DECISÃO NÃO ATACADOS. NÃO CONHECIMENTO DO AGRAVO.
+1 . Inviável o conhecimento do agravo regimental que não ataca especificamente os fundamentos da decisão agravada, limitando-se a reiterar os termos da inicial do habeas corpus. Incidência da Súmula n. 182/STJ.
+2. Agravo regimental do qual não se conhece.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O presente recurso não comporta conhecimento.
+Colaciono, inicialmente, os fundamentos da decisão aqui agravada (e-STJ fls. 290/293):
+O writ não merece conhecimento.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+No caso, o acórdão impugnado foi prolatado em 7/8/2024, sendo este writ impetrado ainda na fluência do prazo para interposição de recurso especial, que é o meio processual cabível para deduzir as teses aqui levantadas pela defesa, não se podendo olvidar que o pronunciamento imediato desta Corte acerca da controvérsia seria precoce, além de implicar subversão do sistema recursal e da essência desta ação constitucional
+Nesse sentido, cito o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES DA SEXTA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPERVENIENTE TRÂNSITO EM JULGADO DA CONDENAÇÃO QUE AGREGA ÓBICE À COGNIÇÃO DO PEDIDO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PLEITO ABSOLUTÓRIO INVIÁVEL NA VIA ELEITA. RECONHECIMENTO FOTOGRÁFICO. ALEGADA NÃ O OBSERVÂNCIA DO ART. 226 DO CÓDIGO DE PROCESSO PENAL. SUPRESSÃO DE INSTÂNCIA. REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231 DESTA CORTE. SOBRESTAMENTO DO FEITO. NÃO CABIMENTO. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. Nem o trânsito em julgado da causa principal em data posterior à impetração do writ sana o vício de conhecimento do habeas corpus. A formação da coisa julgada, que torna a condenação originária definitiva, agrega, ainda, outro óbice à cognição do pedido, pois, consoante pacífica jurisprudência desta Corte " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado" (STJ, AgRg no HC n. 751.156/SP, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 09/08/2022, DJe 18/08/2022).
+7. Agravo regimental desprovido.
+(AgRg no HC n. 828.216/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023, grifei.)
+Além disso, não há ilegalidade flagrante apta a ser sanada nesta via, ainda que mediante a concessão de habeas corpus de ofício.
+Com efeito, malgrado o alongamento do prazo do inquérito na origem, não se pode olvidar que a paciente encontra-se solta; que o próprio inquérito policial fora instaurado apenas em 28/12/2021; e que, consoante constou da decisão de primeira instância, "a perícia realizada no veículo apreendido sob a posse da paciente teria constatado indícios de adulteração sobre a indicação do chassi do automóvel, sem que tenha sido possível constatar a numeração original" (e-STJ fl. 253), o que demonstra a existência de justa causa para a instauração do inquérito e justifica a realização de diligências complementares para a devida apuração do suposto ilícito.
+Ademais, o próprio juízo de primeiro grau recomendou à autoridade policial que diligenciasse visando dar tramitação prioritária ao inquérito policial, de modo que, ao menos por ora, fica afastada a alegação de constrangimento ilegal por excesso de prazo (e-STJ fl. 254).
+No mais, o Tribunal local nem sequer apreciou o pleito de restituição do veículo, circunstância que também obsta a análise do writ por esta Corte Superior, sob pena de indevida supressão de instância.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+Como visto, ficou assente na decisão agravada a impossibilidade de conhecimento do habeas corpus, seja porque substitutivo de recurso especial, seja porque ausente flagrante ilegalidade apta a ser sanada pela concessão da ordem de habeas corpus, ainda que de ofício.
+Destacou-se, ainda, que o próprio juízo de primeiro grau recomendou à autoridade policial que diligenciasse visando dar tramitação prioritária ao inquérito policial, de modo que, ao menos por ora, ficou afastada a alegação de constrangimento ilegal por excesso de prazo.
+Neste recurso, no entanto, a defesa nem sequer se desincumbiu do ônus de atacar tais fundamentos, limitando-se a reiterar os termos da inicial.
+Portanto, aplica-se ao caso, por analogia, o teor da Súmula n. 182/STJ.
+Ilustrativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO N. 11.302/2022. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a. Portanto, sendo o feito apresentado em mesa, não há previsão para intimação da parte para sustentação oral.
+2. Nos termos da jurisprudência deste Superior Tribunal, "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula n. 182/STJ).
+3. No presente caso, a parte não se insurge contra os termos da decisão proferida por este relator, o que atrai a incidência da Súmula n. 182 do STJ.
+4. Agravo regimental não conhecido.
+(AgRg no HC n. 886.037/MG, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT , Sexta Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
