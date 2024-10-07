@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se recurso especial interposto por EDUARDO AUGUSTO BORGES MACHADO, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/MG.
+Recurso especial interposto em: 01/08/2023.
+Concluso ao gabinete em: 01/07/2024.
+Ação: monitória, ajuizada por FUNDAÇÃO MINEIRA DE EDUCAÇÃO em face de EDUARDO AUGUSTO BORGES MACHADO (fls. 1-6, e-STJ).
+Sentença: julgou procedente o pedido para constituir o título executivo judicial e condenar o recorrente ao pagamento da quantia de R$7.230,78, corrigida monetariamente pelo índice da Tabela do e. TJMG, a contar da propositura da ação, bem como juros de mora de 1% ao mês, estes a contar da citação. No tocante aos ônus de sucumbência, condenou o recorrente ao pagamento das custas processuais e honorários advocatícios, arbitrados em 10% (dez por cento) do valor atualizado da condenação (fls; 363-367, e-STJ).
+Acórdão: negou provimento ao recurso de apelação interposto pelo recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - RELAÇÃO JURÍDICA COMPROVADA - CONTRATO DE SERVIÇOS EDUCACIONAIS - INADIMPLÊNCIA - CONSTITUIÇÃO DO CRÉDIT - LITIGÂNCIA DE MÁ FÉ - INOCORRÊNCIA. Para o ajuizamento da ação monitória prevista no art. 700 CPC, exige-se somente a apresentação de "prova escrita" sem eficácia de título executivo. O contrato de prestação de serviços educacionais, mesmo não assinado pelo réu, é prova suficiente da relação jurídica e do débito apontado, mormente quando analisado em conjunto com a ficha financeira e histórico escolar. Não há que se falar em condenação por dano moral hipotético. Para configuração da litigância de má-fé, com a consequente aplicação dos artigos 80 e 81 do CPC, é imprescin dível que se prove que o dolo processual. Recurso não provido. (fls. 451-458, e-STJ)
+Recurso especial: aponta violação ao art.406 do CC, bem como dissídio jurisprudencial (fls. 461-472, e-STJ). Contrarrazões ofertadas (fls. 497-501, e-STJ).
+Juízo prévio de admissibilidade: o TJ/MG admitiu o recurso especial, assinalando estarem cumpridos os requisitos de admissibilidade (fls. 505-506, e-STJ).
+RELATADO O PROCESSO, DECIDE-SE.
+- Dos juros moratórios
+A Corte Especial, no recente julgamento do REsp 1.795.982/SP, em 21/8/2024, reafirmou a jurisprudência do STJ, consolidada no sentido de que a taxa de juros moratórios a que se refere o art. 406 do Código Civil é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC. Nesse sentido, a propósito: EREsp 727.842/SP, Corte Especial, DJe 20/11/2008 e REsp 1.111.117/PR, Corte Especial, DJe 2/9/2010.
+Inclusive, as duas Turmas que compõem a Seção de Direito Privado convergem acerca da aplicação da taxa SELIC às condenações posteriores à entrada em vigor no CC/02, que não pode ser cumulada com a aplicação de outros índices de atualização monetária, confira-se: AgInt nos EDcl no REsp 2.133.359/RS, 3ª Turma, DJe de 28/8/2024; AgInt no REsp 2.070.287/SP, 3ª Turma, DJe de 15/5/2024; AgInt no AREsp 2.009.253/RS, 4ª Turma, DJe de 2/5/2024; REsp 2.117.094/SP, 3ª Turma, DJe de 11/3/2024; e AgInt no AREsp 1.491.298/ES, 4ª Turma, DJe de 11/3/2024; EDcl no AgInt nos EDcl nos EDcl no REsp 1.645.236/RJ, 4ª Turma, DJe de 28/9/2023.
+Logo, encontrando-se o entendimento da Corte de origem em divergência com a jurisprudência deste Tribunal, o recurso deve ser provido, com fundamento na Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, apenas para determinar a utilização da taxa do Sistema Especial de Liquidação e Custódia - SELIC como referencial dos juros moratórios, vedada a cumulação com outros índices de atualização monetária, mantendo-se os ônus sucumbenciais fixados pelas instâncias ordinárias.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO MONITÓRIA. JUROS DE MORA. ART. 406 DO CC. TAXA SELIC. SÚMULA 568/STJ.
+1. Ação monitória.
+2. A Corte Especial, recentemente, reafirmou a jurisprudência do STJ, consolidada no sentido de que a taxa de juros moratórios a que se refere o art. 406 do Código Civil é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, que não pode ser cumulada com a aplicação de outros índices de atualização monetária. Precedentes.
+3. Recurso especial conhecido e provido.
