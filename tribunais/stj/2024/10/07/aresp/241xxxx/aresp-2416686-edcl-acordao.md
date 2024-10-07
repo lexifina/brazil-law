@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O desprovimento do agravo regimental foi fundamentado de modo suficiente, confirmando a decisão de não conhecimento do agravo em recurso especial em razão da incidência do óbice da Súmula n. 182 do STJ.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por SILVIO BARBOSA DA FRANCA contra acórdão assim ementado (fl. 1.275):
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão agravada atrai a incidência do enunciado da Súmula n. 182 desta Corte Superior.
+2. Agravo regimental desprovido.
+A parte embargante afirma a ocorrência de vício no julgado, articulando o seguinte (fl. 1.292):
+Diante do exposto, percebe-se que, diferentemente do quanto aduzido pelo d. prolator da decisão embargada, o Agravo Regimental interposto cumpriu a saciedade dos requisitos de admissibilidade, combatendo todos os pontos trazidos pela decisão vergastada.
+Assim, cumpridas TODAS as formalidades objetivas necessárias ao prosseguimento do Agravo em Recurso Especial, não há razão para a sua inadmissão.
+Requer o acolhimento dos aclaratórios para sanar os defeitos apontados, com a correspondente repercussão jurídica.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O desprovimento do agravo regimental foi fundamentado de modo suficiente, confirmando a decisão de não conhecimento do agravo em recurso especial em razão da incidência do óbice da Súmula n. 182 do STJ.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão.
+4. Embargos de declaração rejeitados.
+VOTO
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado no acórdão embargado, o embargante não impugnou, de modo devido, os fundamentos da decisão de agravo em recurso especial, o que atrai a incidência do óbice da Súmula n. 182 do STJ.
+Observa-se, a propósito, o que constou no voto condutor do acórdão recorrido (fl. 1.277):
+A defesa do agravante repisa os argumentos anteriormente apresentados no recurso, no sentido que "o Recurso cumpriu a saciedade dos requisitos de admissibilidade, de modo a ser conhecido por essa Excelsa Corte. Demais disso, não caberia ao Tribunal de Justiça, quando do juízo de admissibilidade, como o fez, analisar se houve ou não a contrariedade aos supra aludidos dispositivos legais e se a decisão está ou não em conformidade com a jurisprudência, mas sim a plausibilidade da alegação da violação do dispositivo de Lei, o que, de fato, beira a evidência."
+Em relação ao pedido, o agravante não trouxe nenhum argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+Portanto, inexistindo vício a ser dissipado, a pretensão do recurso é de rediscussão dos fundamentos do acórdão, propósito inviável para o recurso em apreço, nada havendo que se possa acolher.
+Registro, em atenção ao princípio da cooperação, que a apresentação de novos aclaratórios que venham a ser considerados protelatórios poderá resultar no não conhecimento da insurgência, com o exaurimento da jurisdição desta Corte Superior e baixa imediata dos autos.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
