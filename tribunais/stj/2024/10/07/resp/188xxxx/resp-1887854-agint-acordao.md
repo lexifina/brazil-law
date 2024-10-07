@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VIOLAÇÃO. CONFIGURADA. NÃO PROVIMENTO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+2. Hipótese em que o acórdão não analisou todas as questões necessárias para o adequado deslinde da controvérsia. Ofensa ao art. 1.022 do CPC.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ROSENI NOGUEIRA DA MOTA contra decisão que negou pr ovimento ao agravo em recurso especial.
+Nas razões do agravo, sustenta que "todas as questões referentes a cláusula sétima e décima segunda do contrato de prestação de serviços jurídicos, referenciadas na decisão agravada, que dispõe sobre os honorários de sucumbência como forma, exclusiva, de remuneração da contratada, ora agravante, foram expressamente enfrentadas pelo Tribunal de origem (TJBA), quando do julgamento dos Embargos de Declaração, inclusive com transcrição da cláusula sétima".
+Afirma que "é pacífico o entendimento jurisprudencial, inclusive precedentes desta Corte, no sentido de que o magistrado não está obrigado a rebater, um a um, todos os argumentos trazidos pelas partes, quando já tenha encontrado motivo suficiente para fundamentar sua decisão, nem se obriga a ater-se aos fundamentos indicados por elas e tampouco a responder um a um todos os seus argumentos".
+Sustenta que "os contratos firmados entre as partes, os quais preveem sucumbência, não previu a remuneração pelos serviços prestados, em caso de revogação dos mandatos no curso do processo, daí porque imprescindível o arbitramento judicial, a fim de apurar o trabalho realizado pelo causídico no período que defendeu os interesses do cliente, afinal, este foi quem tomou a iniciativa de destituir o advogado, sem motivo, impedindo assim que o advogado fosse remunerado pelo seu trabalho ao final do processo, nos termos do contrato, revogado sem justo motivo, quebrando assim o principio da boa fé contratual, devendo portanto, arcar com o ônus de pagar pelo trabalho até então realizado".
+Defende que "essa Corte é firme no entendimento de que, em caso de rescisão, unilateral e imotivada do contrato ad exitum antes do término do processo, cabível o arbitramento judicial, para fins de apurar e mensurar o trabalho realizado".
+Ao final, requer-se a retratação da decisão ou o provimento do recurso pelo órgão colegiado.
+Impugnação ao agravo apresentada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VIOLAÇÃO. CONFIGURADA. NÃO PROVIMENTO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+2. Hipótese em que o acórdão não analisou todas as questões necessárias para o adequado deslinde da controvérsia. Ofensa ao art. 1.022 do CPC.
+2. Agravo interno a que se nega provimento.
+VOTO
+Apesar dos argumentos expendidos, o agravo não merece prosperar, ante a ausência de argumentos hábeis a alterar os fundamentos da decisão agravada.
+A agravante combate a decisão agravada argumentando, em síntese, que todas as questões necessárias para o deslinde da causa teriam sido examinadas pela Corte local, não havendo que se falar em omissão, e sustenta que, de acordo com o entendimento do STJ, em caso de rescisão unilateral imotivada do mandato, quando pactuada remuneração por êxito, é cabível arbitramento judicial, o que seria a hipótese dos autos.
+Não prosperam os argumentos.
+Como se demonstrou, embora as partes já tenham litigado perante esta Corte, disso resultando recurso especial que foi provido para que o Tribunal local reexaminasse as alegações de omissão, verifico que, após o novo julgamento dos embargos, a questão principal permaneceu sem adequada análise.
+Novo julgamento, embora tenha feito referência expressa à cláusula sétima do instrumento contratual, reconhecendo que ela estabeleceria um modelo de remuneração, a Corte local, nessa nova manifestação, apenas reiterou seu entendimento anterior, sob fundamento de que: "Entretanto, como já consignado, a parte embargante não logrou êxito em comprovar que tenha efetuado o pagamento dos honorários contratuais no referido período em que a advogada laborou, ônus que lhe incumbia, nos termos do artigo 373, II, do CPC/15" (e-STJ, fl. 22100).
+Ocorre que o argumento não enfrenta as robustas razões suscitadas pelo agravado em seu recurso especial.
+O recorrente argumentou que as partes teriam convencionado que a advogada seria remunerada apenas pelos honorários de sucumbência dos processos em que esta lograsse êxito, remuneração que, na hipótese de resilição contratual - também convencionada, sem sanção, pelas partes -, deveria ser calculada analogicamente, conforme os parâmetros que a cláusula sétima previa para remunerar a advogada na hipótese de sua substituição durante a tramitação dos processos, consoante o disposto nas cláusulas 7ª e 12ª do contrato.
+Os argumentos são relevantes e a parte insistentemente fez alusão específica às páginas nas quais constariam as folhas do instrumento do contrato onde o Tribunal poderia analisar as referidas cláusulas contratuais, como destaco das seguintes passagens do seu recurso especial (e-STJ, fls. 22191/22192):
+Novamente se mostra imprescindível reproduzir as razões delineadas no recurso horizontal de fis. 20.281/20.290:
+"10. Insta salientar que os contratos assinados com a Autora estabeleceram, também, a sua remuneração para o caso de rescisão unilateral pelo Banco. Destaca-se o teor da cláusula respectiva, que foi reproduzida em todos os contratos assinados, sobre a qual REQUER pronunciamento (fls. 46, 55, 68, 80, 94 dos autos):
+Cláusula décima-segunda  Poderá o CONTRATANTE, a seu critério, sem justa causa, independentemente de aviso elou interpelação, denunciar o presente contrato, aplicando-se, quanto à remuneração, o disposto no Parágrafo Primeiro da Cláusula Sétima. Sendo denunciante o (a) CONTRATADO (A), este não fará jus a honorários.
+11. Por sua vez o parágrafo primeiro da cláusula sétima acima mencionada, estabeleceu fórmula para proporcionalizar os honorários devidos, de acordo com a fase do processo. Transcreva-se:
+Parágrafo Primeiro  Nas ações ajuizadas pelo serviço jurídico do CONTRATANTE, ou por outro advogado ou sociedade de advogados anteriormente contratados, que tiver o patrocínio substabelecido para o (a) CONTRATADO (A), os honorários previstos no "caput" desta cláusula serão rateados na forma abaixo, deduzidos eventuais adiantamentos, parcelas devidas por patrocínios anteriores, e pagos quando efetivamente seja diretamente ao devedor, recebidos, ou do levantamento em juízo.
+A  1/5 (um quinto) para o advogado ou sociedade de advogados substituídos e 4/5 (quatro quintos) para o (a) CONTRATADO (A), se ainda não efetuada a penhora;
+B  2/5 (dois quintos) para o advogado ou sociedade de advogados substituídos e 3/5 (três quintos) para o (a) CONTRATADO (A), se já efetuada a penhora mas não impugnados os embargos;
+C  1/2 (um meio) para o advogado ou sociedade de advogados substituídos e 1/2 (um meio) para o (a) CONTRATADO (A), se já impugnados os embargos e não exarada a sentença respectiva;
+D  3/5 (três quintos) para o advogado ou sociedade de advogados substituídos e 2/5 (dois quintos) para o (a) CONTRATADO (A), se já exarada a sentença dos embargos e não interposto ou respondido recurso, ou nos casos em que não embargada a execução e ainda não realizada a alienação judicial;
+E  4/5 (quatro quintos) para o advogado ou sociedade de advogados substituídos e 1/5 (um quinto) para o (a) CONTRATADO (A), se interposto ou respondido recurso; e
+F  Relativamente a outras ações, quando nessas houver verba honorária específica, observá-se-á o seguinte:
+F.1.  1/3 (um terço) para o advogado ou sociedade de advogados substituídos e 2/3 (dois terços) para o (a) CONTRATADO (A), se ainda não sentenciado o feito;
+F.2.  1 / 2 (um meio) para o advogado ou sociedade de advogados substituídos e 1/2 (um meio) para o (a) CONTRATADO (A), se já exarada a sentença; e
+F.3.  2/3 (dois terços) para o advogado ou sociedade de advogados substituídos e 1/3 (um terço) para o (a) CONTRATADO (A), se interposto ou respondido o recurso.
+(..)
+Os trechos acima mencionados parecem deixar claro, em caso de rescisão do contrato, aplica-se, "quanto à remuneração, o disposto no Parágrafo Primeiro da Cláusula Sétima" (fl. 22323), sendo que esta cláusula, combinada com aquela outra, aparentemente disciplinam um esquema remuneratório cuja possibilidade de aplicação ao caso em momento nenhum foi examinada pela Corte local.
+Não há como ignorar, portanto, que houve omissão, em que pese a parte agravante entenda que todas as questões teriam sido dirimidas.
+Saliento, ainda, que a controvérsia jurídica sob exame não diz respeito à mera possibilidade de arbitramento judicial de honorários advocatícios contratuais, ainda que pactuados sob êxito, caso haja rompimento antecipado do contrato.
+Trata, na verdade, de saber se seria admissível o arbitramento judicial de honorários no caso em que as partes estipularam em contrato válido a) que a advogada seria remunerada sob êxito, exclusivamente com os honorários de sucumbência, conforme o desfecho de cada litígio b) e que seria lícita, sem sanção, a resilição do contrato durante a tramitação dos processos, tal como ocorreu no caso, desde que mantida a forma de remuneração convencionada.
+Destaco a tese da agravante de que o acórdão que teria dirimido todas as questões está eivado do erro de premissa a respeito da questão jurídica sob exame.
+Verifico, assim, que os argumentos trazidos pela parte em seu agravo interno não infirmam os fundamentos da decisão agravada, que fica mantida.
+Com efeito, como foi demonstrado, apesar da indicação específica das páginas do contrato e das cláusulas que respaldariam a legalidade de seu comportamento, os argumentos da recorrida não foram apreciados pelo Tribunal local, mesmo após o retorno dos autos, com o objetivo de que tal questão fosse analisada.
+Tal como afirmado na decisão agravada, o deslinde da controvérsia depende do enfrentamento específico dessa questão pela Corte local, o que não foi devidamente realizado, razão pela qual o recurso especial do agravado foi provido para que o Tribunal local aprecie as páginas dos documentos indicados pelo recorrente (fls. 46, 55, 68, 80, 94 dos autos) e responda expressa e fundamentadamente se as cláusulas sétima e décima segunda do contrato citado pelo recorrente se aplicam ou não, conforme o pacto, para disciplinar a remuneração dos honorários advocatícios nas ações patrocinadas pela recorrida, transcrevendo na decisão as referidas cláusulas.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
