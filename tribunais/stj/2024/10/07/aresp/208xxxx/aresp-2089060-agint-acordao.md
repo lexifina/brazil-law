@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. INCOMPETÊNCIA. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF. APURAÇÃO DO VALOR DA CAUSA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ACÓRDÃO QUE DECIDIU COM BASE EM LEI LOCAL. IMPOSSIBILIDADE DE EXAME. SÚMULA 280 DO STF. PROVIMENTO NEGADO.
+1. É inadmissível o recurso especial que apresente razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284 do Supremo Tribunal Federal (STF), por analogia.
+2. O Tribunal de origem afastou a competência do Juizado Especial da Fazenda Pública sob a alegação de que o valor atribuído à causa não representava o proveito econômico pretendido, o qual seria apurado na fase de liquidação. Entendimento diverso implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) no presente caso.
+3. A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial porque não foi preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+4. Na hipótese de a reforma do acórdão recorrido demandar a interpretação de normas locais, o recurso especial é inviável. Aplicação, por analogia, da Súmula 280 do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo INSTITUTO DE ADMINISTRAÇÃO PENITENCIÁRIA contra a decisão da Presidência do Superior Tribunal de Justiça de fls. 401/405.
+Nas razões recursais, a parte agravante afirma que o recurso especial está devidamente fundamentado na ofensa ao art. 2º da Lei 12.153/2009 e ao art. 6º da Lei de Introdução às normas do Direito Brasileiro (LINDB), não sendo caso de aplicação dos óbices das Súmulas 284, 280, 282 e 356, todas do STF.
+No que se refere ao art. 2º da Lei 12.153/2009, defende que, "mesmo que não houvesse a clara indicação numérica do dispositivo, isso não impediria o conhecimento da matéria, por ser dispensável o prequestionamento numérico, bastando, para tanto, que o recurso verse sobre questão jurídica sobre a qual o Tribunal de origem tenha se pronunciado" (fl. 410).
+Argumenta que "não há dúvidas de que, se tratando de aplicação da lei no tempo, toda a discussão acerca do dano e sua extensão orbita em torno do artigo 6º, §1º da LINBD (impossibilidade de reajuste para servidores que ingressaram após a edição da Lei Estadual), ainda que tais dispositivos de lei federal não tenham sido expressamente citados no correspondente julgado" (fl. 411).
+Requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 418/425).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. INCOMPETÊNCIA. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF. APURAÇÃO DO VALOR DA CAUSA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ACÓRDÃO QUE DECIDIU COM BASE EM LEI LOCAL. IMPOSSIBILIDADE DE EXAME. SÚMULA 280 DO STF. PROVIMENTO NEGADO.
+1. É inadmissível o recurso especial que apresente razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284 do Supremo Tribunal Federal (STF), por analogia.
+2. O Tribunal de origem afastou a competência do Juizado Especial da Fazenda Pública sob a alegação de que o valor atribuído à causa não representava o proveito econômico pretendido, o qual seria apurado na fase de liquidação. Entendimento diverso implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) no presente caso.
+3. A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial porque não foi preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+4. Na hipótese de a reforma do acórdão recorrido demandar a interpretação de normas locais, o recurso especial é inviável. Aplicação, por analogia, da Súmula 280 do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento.
+VOTO
+O recurso especial tem como uma de suas características a fundamentação vinculada, sendo imprescindível que em suas razões sejam apontados os dispositivos de lei que teriam sido violados pelo acórdão recorrido, com a indicação, de forma clara e direta, da interpretação que se entende deva ser dada à norma, não bastando a mera citação dos dispositivos de lei.
+Neste caso, no que tange à alegação de violação do art. 2º da Lei 12.153/2009, a parte recorrente não fez sua indicação acompanhada de argumentação específica sobre o modo como foi violado, assim, há deficiência de fundamentação, razão pela qual incide no ponto a Súmula 284/STF e dessa parte do recurso não é possível conhecer.
+Ademais, no que se refere à competência do Juizado Especial da Fazenda Pública, o Tribunal de origem afastou-a sob a alegação de que o valor atribuído à causa não representava o proveito econômico pretendido, o qual seria apurado na fase de liquidação. Eis pertinente trecho do voto condutor do aresto (fl. 252):
+Suscita o apelante Estado do Amapá a incompetência absoluta do juízo a quo para apreciar e julgar a demanda, uma vez que, nos termos da Lei 12.153/09, é do Juizado Especial da Fazenda Pública a competência para apreciar e julgar a demanda.
+Razão não lhe assiste, isto porque é fácil perceber que o montante atribuído à causa de R$ 35.964,47 (trinta e cinco mil novecentos e sessenta e quatro reais e quarenta e sete centavos) não representa fielmente o proveito econômico pretendido pelos autores/apelados, e que o valor da condenação pode ultrapassar o teto do juizado especial da fazenda pública, vez que se trata de sentença ilíquida, conforme depreende-se claramente da leitura da parte dispositiva da sentença.
+Assim, de fato, não há elementos para se aferir se a causa está inserida no limite legal de 60 (sessenta) salários mínimos para a fixação da competência dos Juizados Especiais da Fazenda Pública (art. 2 2 da Lei nº 12.1543/2009), sob pena de afronta aos artigos 38, parágrafo único e 52 da Lei nº 9.099/95, que estabelecem que as sentenças condenatórias não possam ser ilíquidas nos Juizados Especiais.
+Nesse passo, considerando que a apuração do montante eventualmente devido aos apelados demandará a instauração de fase de liquidação, o que é incompatível com o rito dos Juizados Especiais, rejeito a preliminar.
+Entendimento diverso, conforme pretendido, com o propósito de apurar se o valor da causa ultrapassaria ou não os 60 salários mínimos, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+PROCESSO CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EXONERAÇÃO DECORRENTE DE ATO DE APOSENTADORIA. COMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA PELO VALOR DA CAUSA. RECURSO ESPECIAL. CONTROVÉRSIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. RECURSO INADMITIDO.
+I - Na origem, trata-se de ação contra o Município de Paiçandu objetivando sua reintegração ao cargo de zeladora, além do pagamento de indenização por danos morais e lucros cessantes. Na sentença, os pedidos foram julgados improcedentes. No Tribunal a quo, negou-se provimento ao recurso.
+II - Reconsidero a decisão agravada, porquanto assiste razão à parte no que afirma a existência de equívoco quanto ao objeto específico destes autos. A questão controvertida no recurso especial diz respeito à delimitação da competência do Juizado Especial da Fazenda Pública para o caso. Observa-se, quanto ao ponto, que o Tribunal a quo analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Nos casos de interposição do recurso, alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+IV - Agravo interno provido para conhecer do agravo e não conhecer do recurso especial.
+(AgInt no AREsp n. 1.988.769/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/6/2022, DJe de 15/6/2022.)
+Outrossim, verifico que o art. 6º da LINDB não foi apreciado pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial porque não foi preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Como se não bastasse, da leitura do acórdão recorrido, constato que o mérito recursal foi decidido à luz da interpretação da Lei e stadual 817/2004.
+A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial.
+Desse modo, aplico à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário").
+Confira-se:
+PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. FUNDAMENTO CONSTITUCIONAL. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE.
+ ..
+3. A análise das teses apresentadas depende do exame de legislação local, o que não é viável no âmbito do recurso especial, nos termos da Súmula 280 do STJ (Leis Complementares Municipais n. 01/2012 e 02/2000).
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.092.887/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
