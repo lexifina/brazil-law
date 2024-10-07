@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir q uestões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos declaratórios opostos por PONTA GROSSA ADMINISTRADORA DE SHOPPING CENTERS LTDA contra acórdão desta colenda Quarta Turma, assim ementado:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE FORNECIMENTO DE GÁS LIQUEFEITO DE PETRÓLEO- GLP. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. INSUMO DE PRODUÇÃO. AUSÊNCIA DE RELAÇÃO DE CONSUMO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489, § 1º, IV, e 1.022 do CPC/2015, na medida em que a eg. Corte de origem fundamentou consistentemente o acórdão recorrido e as questões de mérito foram devidamente analisadas e discutidas de modo a esgotar a prestação jurisdicional, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. Nos termos da jurisprudência desta Corte, "o Código de Defesa do Consumidor não se aplica no caso em que o produto ou serviço é contratado para implementação de atividade econômica, já que não estaria configurado o destinatário final da relação de consumo (teoria finalista ou subjetiva). Contudo, tem admitido o abrandamento da regra quando ficar demonstrada a condição de hipossuficiência técnica, jurídica ou econômica da pessoa jurídica, autorizando, excepcionalmente, a aplicação das normas do CDC (teoria finalista mitigada)" (AgInt no AREsp 2.189.393/AL, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 21/3/2023).
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento." (e-STJ, fl. 749)
+Em suas razões, a embargante pretende a concessão de efeitos modificativos, aduzindo ter havido omissão no acórdão embargado quanto aos seguintes pontos: 1) vulnerabilidade técnica da embargante, que é essencial para a eventual aplicação da teoria finalista mitigada, conforme jurisprudência consolidada desta Corte; 2) impacto da ação coletiva sobre a presente demanda; 3) inaplicabilidade da Súmula 7 do STJ.
+Requer o provimento dos embargos de declaração, com efeitos infringentes.
+Devidamente intimada, a parte embargada se manifestou às fls. 769/774 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir q uestões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não prospera.
+As razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Conforme relatado, a embargante pretende a concessão de efeitos modificativos, aduzindo ter havido omissão no acórdão embargado quanto aos seguintes pontos: 1) vulnerabilidade técnica da embargante, que é essencial para a eventual aplicação da teoria finalista mitigada, conforme jurisprudência consolidada desta Corte; 2) impacto da ação coletiva sobre a presente demanda; 3) inaplicabilidade da Súmula 7 do STJ.
+Quanto à vulnerabilidade técnica da embargante, que é essencial para a eventual aplicação da teoria finalista mitigada, conforme jurisprudência consolidada desta Corte, a tese fora consistentemente julgada e assim constou no acórdão embargado:
+"No que se refere à tese de que a relação firmada entre as partes é de consumo, consignou o acórdão recorrido:
+(..)
+Mesmo assim a jurisprudência mitigou a aplicação desta teoria finalista para permitir a incidência do Código de Defesa do Consumidor nas hipóteses em que a parte, embora não seja tecnicamente a destinatária final do produto ou serviço, se apresenta em situação de vulnerabilidade.
+A partir daí a aplicação do Código de Defesa do Consumidor reclama a verificação da vulnerabilidade da apelante.
+No presente caso, constata-se que a recorrente se limitou a afirmar a aplicabilidade do Código de Defesa do Consumidor em razão da falta de conhecimento técnico específico quanto ao objeto de consumo (gás).
+Contudo, o fato da fornecedora de gás ora apelada possuir o domínio técnico sobre o produto, não afasta, tampouco reduz a capacidade da apelante de negociar os termos do contrato de fornecimento de gás.
+Quando da elaboração do contrato não se discutiu a composição e técnicas de extração do gás liquefeito de petróleo-GLP, matéria sobre a qual a ora apelante, independentemente de seu grande porte na qualidade de shopping center, possivelmente seria vulnerável perante a fornecedora de gás ora apelada, mas sim se discutiu, essencialmente, o fornecimento do referido gás, a quantidade, o meio, o preço, os termos da prestação de assistência técnica, rescisão e multa.
+Não há qualquer demonstração de que a apelante estaria impossibilitada de demonstrar a ilegalidade ou abusividade dos termos do que foi contratado.
+(..)
+Do excerto transcrito, constata-se que o egrégio Tribunal a quo, após o exame acurado dos autos, das provas, dos documentos, da natureza da avença e da interpretação dos termos das cláusulas contratuais, concluiu que a pessoa jurídica utiliza do objeto contratual para fomento de sua atividade e, ainda, não se evidencia a sua vulnerabilidade apta a mitigar a teoria finalista, portanto inaplicável o Código de Defesa do Consumidor à espécie.
+A modificação da conclusão do Tribunal de origem sobre a ausência de vulnerabilidade da pessoa jurídica contratante, para se aplicar a teoria finalista mitigada, demandaria o revolvimento do suporte fático-probatório dos autos e das cláusulas contratuais, o que é inadmissível em sede de recurso especial, por vedação das Súmulas 5 e 7 do STJ." (e-STJ, fls. 755/756)
+Quanto à insurgência referente à tese de prejudicialidade em relação à Ação Coletiva de Consumo, o acórdão embargado decidiu expressamente a matéria nos seguintes termos:
+"No que se refere à tese de prejudicialidade em relação à Ação Coletiva de Consumo, a Corte de origem assim decidiu:
+"O primeiro ponto da insurgência da apelante diz respeito à aventada necessidade de suspensão do feito, em virtude da existência de relação de prejudicialidade com a Ação Coletiva de Consumo sob nº 0030533- 25.2017.8.16.0019, em trâmite perante a 3ª Vara Cível de Curitiba.
+Contudo, independentemente de se reconhecer ou não a caracterização de relação de consumo entre as partes, o julgamento do mérito do presente feito não depende da resolução de questão prejudicial externa, de modo que inaplicável ao caso em tela o disposto no artigo 313, inciso V, "a", do Código de Processo Civil.
+As matérias que ora são objeto de controvérsia são aptas de julgamento, de modo que não há que se falar em necessidade de suspensão do feito até julgamento final da referida ação coletiva, e tampouco em nulidade da sentença." (e-STJ, fl. 540)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria a interpretação das cláusulas contratuais e o revolvimento de suporte fático- probatório dos autos, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ." (e-STJ, fl. 753)
+Com efeito, foi negado provimento ao agravo interno, com base no entendimento de que a modificação de tais premissas lançadas no v. acórdão recorrido, quanto à ausência de vulnerabilidade técnica da embargante e ao impacto da ação coletiva sobre a presente lide, demandaria a interpretação das cláusulas contratuais e o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+Nesse contexto, não existe omissão, contradição, obscuridade ou erro material a ser sanado na espécie.
+É firme a jurisprudência do Superior Tribunal de Justiça acerca da inadmissibilidade dos embargos de declaração quando opostos fora das exíguas hipóteses legais de seu cabimento, notadamente nas hipóteses de mero descontentamento da parte com o resultado do julgamento, por não se configurar negativa de prestação jurisdicional.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022).
+É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide. Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DOCUMENTO QUE JÁ ENCONTRAVA NOS AUTOS. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. ANÁLISE DE OFENSA A MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. "É vedado à parte recorrente, em sede de embargos de declaração e agravo regimental, suscitar matéria que não foi suscitada anteriormente, em virtude da ocorrência da preclusão consumativa" (AgRg no RE nos EDcl no AgRg no AREsp n. 744.187/DF, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 21/11/2018, DJe de 28/11/2018).
+2. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+3. Com efeito, "não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgInt nos EREsp 1.544.786/RS, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020).
+4. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp n. 2.407.679/CE, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/4/2024, DJe de 2/5/2024)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO VIRTUAL. RETIRADA DE PAUTA . SUSPENSÃO DO PROCESSO. PARTE RECORRENTE. DOENÇA . PEDIDO IMPROCEDENTE. AUSÊNCIA. PREJUÍZO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS.
+1. Inexiste o direito de suspensão do processo e retirada de pauta do agravo interno em razão de doença da parte recorrente, tendo em vista ser representada no processo por seu advogado, inexistindo prejuízo.
+2. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir o erro material, mas, sim, reformar o julgado por via inadequada.
+3. Embargos de declaração rejeitados."
+(EDcl no AgInt no AgInt no AREsp n. 1.603.181/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/4/2024, DJe de 2/5/2024)
+"PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados."
+(EDcl no REsp n. 1.928.910/RS, Relator Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 19/12/2023, DJe de 5/2/2024)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. INDÍCE DE CORREÇÃO MONETÁRIA. VIOLAÇÃO DA COISA JULGADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. IMPOSSIBILIDADE DE EXAME MERITÓRIO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, entendeu que a Corte de origem, amparado no conjunto fático-probatório dos autos, assentou que os cálculos ficaram adstritos ao que ficou assentado no título executivo. A revisão do acórdão recorrido para verificar eventual inobservância da coisa julgada demanda o reexame das provas dos autos, o que encontra óbice na Súmula n. 7/STJ.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+4. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal, ainda que para fins de prequestionamento.
+Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp n. 1.921.816/DF, Relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado 18/12/2023, DJe de 20/12/2023)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO. IRRESIGNAÇÃO RECURSAL DA PARTE RÉ.
+1. Aclaratórios opostos por parte que não figura na autuação deste processo, não possuindo legitimidade recursal. Precedentes.
+2. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. A insurgência não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+3. Embargos de declaração não conhecidos."
+(EDcl no AgInt na PET no AREsp n. 1.922.382/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/12/2023, DJe de 15/12/2023)
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. ERRO MATERIAL. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Segundo a jurisprudência do STJ, o erro material passível de ser corrigido de ofício e retificável a qualquer tempo é aquele derivado de inexatidão perceptível à primeira vista - primo ictu oculi -, cuja correção não altera o conteúdo da decisão. Precedentes.
+3. Embargos de declaração rejeitados."
+(EDcl nos EDcl no AgInt no AREsp n. 1.817.565/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/11/2023, DJe de 30/11/2023)
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. CARÁTER PROTELATÓRIO. MULTA. APLICAÇÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. A reiteração de argumentos, nos segundos embargos de declaração, já repelidos no acórdão anteriormente proferido, por meio de fundamentos claros e coerentes, destoa dos deveres de lealdade e cooperação que norteiam o processo, a ensejar a imposição da multa prevista no art. 1.026, § 2º, do CPC de 2015.
+3. Embargos de declaração rejeitados, com aplicação de multa."
+(EDcl nos EDcl no AgInt nos EAREsp n. 1.621.423/PR, Relator Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 10/10/2023, DJe de 18/10/2023)
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
