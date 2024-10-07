@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE LEILÃO EXTRAJUDICIAL DE IMÓVEL. ALEGAÇÃO DE VÍCIOS NO LEILÃO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULA 211/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 211 do Superior Tribunal de Justiça.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno, interposto por ADRIANA VIANA DA SILVA, contra decisão da Presidência desta Corte que não conheceu de seu agravo em recurso especial, por ausência de impugnação do fundamento da decisão recorrida, considerando que:
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de prequestionamento.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento." (e-STJ, fl. 322)
+A agravante sustenta que apresentou a devida impugnação da decisão que não admitiu o recurso especial.
+Impugnação da parte agravada (fls. 664/679).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE LEILÃO EXTRAJUDICIAL DE IMÓVEL. ALEGAÇÃO DE VÍCIOS NO LEILÃO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULA 211/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 211 do Superior Tribunal de Justiça.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+VOTO
+À vista das razões apresentadas no agravo interno, reconsidero a decisão da Presidência desta Corte, tendo em vista a devida impugnação, na petição de agravo, da decisão que não admitiu o recurso especial.
+Passa-se, assim, a novo exame do agravo em recurso especial.
+Trata-se de agravo de ADRIANA VIANA DA SILVA contra decisão que não admitiu recurso especial interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE LEILÃO EXTRAJUDICIAL DE IMÓVEL. ALEGAÇÃO DE VÍCIOS NO LEILÃO. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO DA PARTE AUTORA.
+1. Trata-se de ação anulatória de consolidação de propriedade cumulada com anulação de leilões extrajudiciais (datados de 17/01/2022 e 24/01/2022) com pedido de tutela de urgência, na qual a autora aduz, em síntese, ter entrado em contato com a parte apelada para renegociar a dívida, não obtendo êxito. Afirma que não foi intimada da execução extrajudicial e que houve vício no segundo leilão em virtude da inobservância do artigo 27, § 1º da Lei nº. 9.514/97.
+2. Parte autora que, em suas razões recursais, limitou-se a reprisar os fatos e argumentos deduzidos na inicial, deixando de impugnar, especificamente, os fundamentos da sentença, não fazendo qualquer menção aos fatos expressamente consignados pelo Juízo a quo. Aduz, ainda, em manifesta inovação recursal, a inobservância de aspectos constitucionais da ampla defesa e do contraditório e a inconstitucionalidade do Decreto-Lei 70- 66, alegações que não foram inseridas na sua peça exordial, nos termos do artigo 322 e seguintes do CPC.
+3. Verifica-se como indene de dúvidas a violação ao princípio da dialeticidade, o qual preconiza que, em matéria recursal, deverá o recorrente não só discorrer o porquê pretende o reexame da decisão, como, e por óbvio, alinhar seu questionamento ao que foi efetivamente decidido no julgado combatido. A inobservância de tal princípio impõe o não conhecimento do recurso. Precedentes jurisprudenciais.
+4. Autora que, ao fundamentar seu recurso, incorre em manifesta inovação recursal, o que é vedado, eis que a modificação da causa de pedir e do pedido não se mostra possível após estabilizada a demanda, por implicar em violação dos princípios do contraditório e da ampla defesa, o que implica, também, no não conhecimento do recurso. Precedentes jurisprudenciais.
+5. NÃO CONHECIMENTO DO RECURSO." (e-STJ, fls. 474/475)
+Embargos de declaração rejeitados (e-STJ, fls. 534/539).
+Nas razões do recurso especial, a parte agravante alega violação do art. 27, § 2º-A, da Lei 9.514/1997, e divergência jurisprudencial, sustentando, em síntese, que deve ser reconhecida a nulidade do procedimento realizado pela recorrida, uma vez que não houve a intimação pessoal do devedor acerca do local, dia e hora da realização do leilão extrajudicial, sob pena de invalidade da arrematação.
+As contrarrazões ao recurso especial foram apresentadas às fls. 568-588.
+O recurso fora inadmitido na origem, por isso a interposição de agravo em recurso especial. Os autos ascenderam a esta Corte.
+Ao analisar o recurso, a Presidência do Superior Tribunal de Justiça não conheceu do agravo em recurso especial, em razão da ausência de observância do Princípio da dialeticidade. A parte sucumbente interpõe o presente agravo interno.
+Apesar de preliminarmente esta Relatoria entender por plausíveis as argumentações e dar provimento ao agravo interno, para a reconsideração da decisão agravada e conhecimento do agravo em recurso especial, na acurada análise do processo, constata-se que, não obstante o conhecimento do agravo, o recurso especial não tem como prosperar.
+Quanto à alegada violação do art. 27, § 2º-A, da Lei 9.514/1997, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado, efetivamente, pelo Tribunal a quo, ainda que a parte ora recorrente tenha oposto embargos de declaração a fim de sanar eventual irregularidade.
+Ressalte-se que esta eg. Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração. Caberia à recorrente, na hipótese, alegar violação ao art. 1.022 do Código de Processo Civil, providência, todavia, da qual não se desincumbiu. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça.
+Nesse sentido:
+"PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELO NOBRE. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. PEDIDO INDENIZATÓRIO. VIOLAÇÃO DO DISPOSTO NO ART. 1.022 DO NCPC. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO QUE ABORDOU TODOS OS TEMAS NECESSÁRIOS AO DESLINDE DA CONTROVÉRSIA. OFENSA A COISA JULGADA. AUSÊNCIA DE PREQUESTIONAMENTO E DE OFENSA, NESTE PONTO, AO ART. 1.022 DO NCPC. INCIDÊNCIA DA SÚMULA N.º 211 DO STJ. INEXISTÊNCIA DE ATO ILÍCITO E AFASTAMENTO DOS DANOS MORAIS. FALTA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N.º 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO. (..)
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e a falta de alegação de violação do art. 1.022 do NCPC, quanto ao ponto, evidenciam a falta de prequestionamento (Súmula n.º 211 do STJ), mesmo tendo sido opostos embargos de declaração na origem. (..)
+4. Agravo interno não provido."
+(AgInt no AREsp n. 2.160.731/RJ, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 6/3/2023, DJe 9/3/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO INDENIZATÓRIA. AFRONTA AOS ARTS. 3º, § 2º, E 4º DO CDC. FALTA DE PREQUESTIONAMENTO. ADMISSÃO DE PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE AFRONTA AO ART. 1.022 DO NCPC. CIRURGIA PLÁSTICA. RESPONSABILIDADE OBJETIVA. OBRIGAÇÃO DE RESULTADO. EXCLUDENTES. AUSÊNCIA. DEVER DE INDENIZAR. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL. (..)
+2. Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 4/4/2017, DJe de 10/4/2017). (..)
+4. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para negar provimento ao recurso especial."
+(AgInt no AREsp n. 1.988.403/RJ, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/2/2023, DJe de 24/2/2023)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MONOCRÁTICA DA PRESIDÊNCIA DO STJ. TESE DO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. DANO MORAL. EXISTÊNCIA E REDUÇÃO DO VALOR. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ. (..)
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.087.753/RJ, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/2/2023, DJe 22/2/2023)
+Diante do exposto, dou provimento ao agravo interno, para reconsiderar a decisão agravada e, em novo julgamento, conhecer do agravo para não conhecer do recurso especial.
+É como voto.
