@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual ESTADO DO RIO DE JANEIRO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fls. 475/476):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL OBJETIVA FULCRADA ART. 37, §6º, DA CONSTITUIÇÃO FEDERAL. PRISÃO ILEGAL. EXTINÇÃO DA PUNIBILIDADE RECONHECIDA PELO JUÍZO DA EXECUÇÃO PENAL. MANDADO DE PRISÃO EXPEDIDO PELO PODER JUDICIÁRIO DO RIO GRANDE DO SUL NÃO RECOLHIDO E ENSEJADOR DA PRIVAÇÃO DA LIBERDADE DO DEMANDANTE. SENTENÇA DE PROCEDÊNCIA DO PEDIDO INDENIZATÓRIO POR DANOS MORAIS, NO VALOR DE R$ 80.000,00. RECURSO DO RÉU. Mandado de prisão não recolhido, apesar de processo criminal findo, por extinção da punibilidade, no ano de 2007. Nexo de causalidade demonstrado entre o fato e a falha na prestação dos serviços do réu. Responsabilidade civil do Estado. Inteligência do artigo 37, §6º, da CRFB/88. Prisão indevida do autor por mais de 60 dias. Evidente erro do poder público que privou a liberdade do autor quando não mais subsistiam os fundamentos para o cumprimento da prisão, restando caracterizado o dano moral. Valor indenizatório que se reduz à cifra de R$ 25.000,00 (vinte e cinco mil reais) por revelar-se equilibrado, proporcional e razoável, além de estar em consonância com os montantes fixados nesta Corte em casos similares. Recurso conhecido e parcialmente provido, nos termos do voto da Desembargadora Relatora.
+Os embargos de declaração opostos foram rejeitados (fls. 502/505).
+Nas razões de seu recurso especial, a parte ora agravante alega violação ao art. 1.022, II, do Código de Processo Civil (CPC), ao argumento de que houve omissão da Corte de origem sobre pontos essenciais ao deslinde da controvérsia, em especial acerca do argumento de que o pleito indenizatório não poderia ser acolhido tendo em vista a pendência do mandado de prisão, o qual deveria ser recolhido apenas pelo Tribunal de Justiça do Estado do Rio Grande do Sul, autoridade que o expediu.
+A parte ora agravada não apresentou as contrarrazões (fl. 521).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Verifico que inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+Em exame dos autos, constato pronunciamento exaustivo a respeito do cerne da questão por parte do acórdão recorrido, destacando-se os seguintes trechos, sem prejuízo dos demais (fls. 479/481):
+Ao contrário do que sustenta o réu, não há que se perquirir a existência de elementos subjetivos como culpa, por isso que o caso atrai a aplicação da responsabilidade civil objetiva do Estado (art. 37, §6º, CRFB), diante de um erro objetivo, substancial e inescusável dos agentes estatais ao efetuarem a prisão do autor, em 05/03/2009, com base em mandado de prisão que há mais de dois anos deveria ter sido recolhido em razão da extinção da pena.
+
+Ademais, consoante bem ponderado pelo Parquet na primeira instância, a falha do Estado restou configurada ao deixar de realizar seu devido serviço, efetuando prisão com lastro em mandado que não deveria estar circulando (Índice 353):
+
+Conclui-se, portanto, que não havia razão jurídica para a restrição da liberdade do requerente, a qual só foi executada em razão da ausência do devido recolhimento do mandado prisional no momento devido.
+Em embargos de declaração, por sua vez, o Tribunal de origem assim se manifestou (fl. 505) :
+Vale ressaltar, que a análise da responsabilidade do Estado do Rio Grande do Sul na qualidade de deprecante, não afasta do embargante, ad cautelam, o dever apurar a regularidade das ordens judiciais a serem cumpridas.
+Nesse cenário, percebe-se que o presente recurso se limita apenas a extravasar seu inconformismo com o teor do julgamento do apelo interposto, propósito esse que não se coaduna com a via declaratória, restrita às hipóteses de integração do julgado.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
