@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fls. 169/229):
+1) DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. PRESENÇA DOS REQUISITOS PARA A DECRETAÇÃO DA MEDIDA LIMINAR DE INDISPONIBILIDADE DE BENS. PERIGO NA DEMORA.
+a) A indisponibilidade de bens é medida de cautela que visa assegurar a indenização aos cofres públicos, sendo necessária, para respaldá-la, a existência de fortes indícios de responsabilidade na prática de ato de improbidade que cause dano ao Erário.
+b) Com relação ao "periculum in mora", entende o Superior Tribunal de Justiça que, em casos de indisponibilidade patrimonial por imputação de conduta ímproba lesiva ao erário, tal requisito é implícito ao comando normativo do artigo 7º, da Lei nº 8.429/92 (AgRg no Ag 1423420/BA. Rel. Min. BENEDITO GONÇALVES. 1ª Turma. DJe 28.10.2011).
+c) No caso, existem indícios(lastro probatório mínimo) deque os Servidores mencionados na inicial, embora ocupantes de cargos públicos na Assembleia Legislativa do Paraná, exerciam funções, durante o horário normal de expediente, na sede do DIRETÓRIO DO PARTIDO POPULARSOCIALISTA, caracterizando, em tese, improbidade administrativa e gerando, a princípio, prejuízo ao erário (fumaça do bom direito).
+d) Com a imputação de suposto dano concreto ao erário, é cabível a indisponibilidade de bens dos Agravantes.
+e) Nessas condições, estão presentes os requisitos para a decretação da indisponibilidade dos bens dos Agravantes, limitados aos valores de R$ 381.806,41 para CESAR AUGUSTO CAROLLO SILVESTRI FILHO e R$ 215.864,08 para MARCELO RANGEL CRUZ DE OLIVEIRA, que são razoáveis e proporcionais.
+2) DIREITO PROCESSUAL CIVIL. MINISTÉRIO PÚBLICO -AUTOR E MINISTÉRIO PÚBLICO - CUSTOS LEG/S. DESNECESSIDADE DE INTERVENÇÃO CONJUNTA. RACIONALIZAÇÃO DA INTERVENÇÃO DO MINISTÉRIO PÚBLICO E RAZOÁVEL DURAÇÃO DO PROCESSO. INCONSTITUCIONALIDADE. NÃO OCORRÊNCIA.
+a) Se o Ministério Público é Autor da Ação Civil Pública de improbidade, é desnecessária sua intervenção como fiscal da ordem jurídica (custos legis). Precedentes do STJ.
+b) Tal conclusão advém da necessidade de racionalização dos atos processuais, evitando movimentações e retardamentos desnecessários, o que também vem ao encontro da Recomendação nº 34/2016 do CNMP.
+c) Resulta, ainda, desnecessário outro parecer, agora em segundo grau porque, além de desequilibrar o tratamento isonômico devido às Partes, a manifestação já ocorreu por ato do Promotor de Justiça que atua no processo em primeira instância,
+d) Ainda, a participação do Ministério Público na sessão de julgamento é garantida por meio de sua intimação da pauta de julgamento -idêntica à endereçada aos Desembargadores- além do envio da pauta completa às respectivas assessorias, para as providências necessárias.
+e) Inexiste, portanto, negativa de vigência a qualquer dos dispositivos legais indicados, muito menos alija-se o Ministério Público de qualquer de suas prerrogativas (nos termos da legais) sendo certo, porém, que ao figurar como Parte, não faz jus a privilégios como o aqui reclamado pela Instituição.
+3) AGRAVO DE INSTRUMENTO A QUE SE NEGA PROVIMENTO.
+Os embargos de declaração opostos foram rejeitados (fls. 269/286).
+A parte recorrente alega, em síntese: a violação aos arts. 180, caput, e 183, § 1º, do Código de Processo Civil (CPC) e 41, III e IV, da Lei 8.625/1993, sustentando a o direito à intimação pessoal do Ministério Público em segunda instância mesmo quando atue como autor da ação; a ofensa ao art. 7º, parágrafo único, da Lei de Improbidade, tendo em vista o direito à inclusão do valor da multa civil no quantum a ser indisponibilizado cautelarmente em ação por improbidade administrativa.
+Requer a anulação das decisões hostilizadas ou a reforma do acórdão para que o valor da multa civil seja incluído no montante dos valores bloqueados.
+A parte adversa apresentou contrarrazões (fls. 316/323).
+O recurso foi admitido na origem (fls. 328/332).
+É o relatório.
+Na origem, o Ministério Público do Estado do Paraná ajuizou ação por improbidade administrativa contra o DIRETÓRIO REGIONAL DO PARTIDO POPULAR SOCIALISTA DO PARANÁ, RUBENS BUENO, CESAR SILVESTRI FILHO, JOÃO DOUGLAS FABRÍCIO e MARCELO RANGEL CRUZ DE OLIVEIRA, em que se sustenta que os réus teriam se utilizado de servidores públicos da Assembleia Legislativa do Paraná para a prestação de serviços ao diretório estadual da agremiação partidária.
+O pedido de indisponibilidade de bens foi deferido parcialmente e contra esta decisão foram interpostos 3 agravos de instrumento que foram julgados pelo mesmo acórdão, copiado para cara um dos processos (AI 1622799-9; AI 1666826-9 e AI 1636845-5).
+Três recursos especiais foram interpostos, sendo que um deles foi julgado pelo Ministro Napoleão Nunes Maia Filho (REsp 1.845.097/PR - distribuído em 29/10/2019, cuja decisão foi publicada em 5/12/2019), outro pelo Ministro Gurgel de Faria (REsp 1.845.304/PR - distribuído em 29/10/2019, cuja decisão foi publicada em 15/4/2020) e o terceiro é o presente recurso.
+Provido o recurso especial 1.845.304/PR pelo Ministro Gurgel de Faria, o acórdão foi reformado e a decisão de primeiro grau alterada para "autorizar que a medida de indisponibilidade alcance o patrimônio do recorrido, pelo valor total do dano que se quer ressarcido, com o acréscimo do valor necessário ao pagamento de eventual multa civil, até ulterior aferição da quota de responsabilidade individual, momento em que poderá ser readequada a constrição assecuratória, ressalvadas as verbas de caráter salarial."
+A decisão transitou em julgado em 16/3/2020, o que remete à perda de objeto deste recurso .
+Ante o exposto, julgo prejudicado o presente recurso especial.
+Publique-se. Intimem-se.
+EMENTA
