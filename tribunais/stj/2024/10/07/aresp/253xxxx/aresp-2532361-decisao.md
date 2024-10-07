@@ -1,0 +1,11 @@
+DECISÃO
+JOÃO FABRICIO BENTO MOREIRA agrava da decisão que não admitiu o seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500136-17.2023.8.26.0583).
+O Tribunal a quo obstou o prosseguimento do recurso especial pelos seguintes fundamentos: a) deficiência na fundamentação do recurso (Súmula n. 284 do STF); b) ausência de prequestionamento (Súmulas ns. 211 do STJ e 282 do STF) em relação à apontada ofensa ao art. 67 do CP; c) necessidade de reexame de provas (Súmula n. 7 do STJ).
+Todavia, embora haja aberto um tópico específico intitulado "Da não incidência das Súmulas 282 e 356 do STF" (fl. 664), o agravante, nas razões do agravo em recurso especial, não impugnou concretamente a apontada ausência de prequestionamento da matéria. Vale dizer, a defesa, em nenhum momento, demonstrou, de maneira objetiva e concreta, que a apontada violação do art. 67 do CP teria sido tratada pelo acórdão recorrido.
+Assim, não há como o recurso ser conhecido, em razão do enunciado na Súmula n. 182 do STJ, in verbis:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Saliento, por oportuno, que, consoante o entendimento da Corte Especial do STJ, a decisão que inadmite o recurso especial não pode ser impugnada parcialmente (EAREsp n. 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe 30/11/2018).
+Segundo o entendimento que prevaleceu (do Ministro Salomão), não há diversos capítulos no decisum que inadmitiu o recurso especial, que é formado por um único dispositivo, qual seja, o da inadmissão do recurso: "A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva e não a fundamentação como um elemento autônomo em si mesmo". O ministro sustentou, categoricamente, que "a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade", sob pena de incidência do enunciado na Súmula n. 182 do STJ.
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
