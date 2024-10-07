@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ contra decisão do respectivo Tribunal de Justiça, que não admitiu o recurso especial, manejado com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão assim ementado:
+"PROCESSO PENAL - HABEAS CORPUS - LIMINAR - POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO E TRÁFICO DE DROGAS - EXTENSÃO DO BENEFÍCIO - POSSIBILIDADE - IMPRESCINDIBILIDADE DA CUSTÓDIA CAUTELAR NÃO DEMONSTRADA - QUANTIDADE DE ENTORPECENTES APREENDIDOS - CONDIÇÕES PESSOAIS FAVORÁVEIS - IMPRESCINDIBILIDADE DA CUSTÓDIA CAUTELAR NÃO DEMONSTRADA - LIMINAR CONFIRMADA.
+1. Conforme apontado na decisão liminar, os fundamentos adotados para a concessão da liberdade provisória ao corréu se assemelham à situação fática do paciente, pois teria adotado o mesmo modus operandi imputado àquele e é possuidor de condições pessoais favoráveis, tais como a primariedade, bons antecedentes e residência fixa. Torna-se, pois, cabível a aplicação de medidas cautelares diversas da prisão;
+2. Ordem concedida em definitivo, à unanimidade, mediante a imposição de medidas cautelares (art. 319 do CPP)." (e-STJ, fl. 191).
+O recorrente aponta ofensa aos arts. 312, 313, 315 e 580 do Código de Processo Penal, alegando, em síntese, que, no caso em apreço, a segregação cautelar do recorrido revela-se justificada, pois, na linha da orientação firmada neste Superior Tribunal de Justiça, a gravidade concreta da conduta, evidenciada pela quantidade e pela variedade de drogas, denota a periculosidade do agente.
+Afirma que essa circunstância sinaliza a necessidade da prisão cautelar como forma de assegurar a ordem pública.
+Requer, assim, seja afastada a decisão que concedeu a ordem de habeas corpus ao recorrido, visto que o decreto de prisão preventiva encontra-se suficientemente fundamentado (e-STJ, fls. 207-220).
+Não foram apresentadas as contrarrazões (e-STJ, fl. 226).
+O recurso foi inadmitido sob o fundamento de que a alteração do julgado encontra óbice na Súmula 7/STJ (e-STJ, fls. 228-231). Daí este agravo (e-STJ, fls. 235-247).
+O Ministério Público Federal opinou pelo conhecimento e provimento do agravo para conhecer e prover o recurso especial (e-STJ, fls. 264-266).
+É o relatório.
+Decido.
+A decretação da prisão preventiva exige a demonstração, embasada em elementos concretos, da presença dos requisitos do art. 312 do Código de Processo Penal.
+Ao apreciar a questão, a Corte de origem substituiu a prisão preventiva do recorrido por medidas cautelares previstas no art. 319 do Código de Processo Penal, tecendo para tanto os seguintes fundamentos:
+"Conforme relatado, pugna o impetrante, em síntese, pela extensão de benefício concedido em sede de habeas corpus impetrado em favor de corréu.
+Como é cediço, o Habeas Corpus é ação de natureza constitucional, de rito célere e insuscetível de dilação probatória, que visa garantir a liberdade de locomoção do indivíduo, impondo-se, nos termos do art. 5º, inciso LXVIII, da Constituição Federal, a concessão da ordem "sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder", garantia prevista também no art. 647 do CPP.
+Na hipótese, o pedido de liminar foi deferido por este Relator, sob os seguintes fundamentos (Id 11267735):
+( )
+No caso em análise, observo que os fundamentos adotados para conceder a liberdade provisória ao corréu Cleones de Oliveira são semelhantes à situação fática do paciente. Na ocasião, levou- se em consideração (i) a pequena quantidade de droga apreendida e (ii) as condições pessoais favoráveis:
+Na hipótese, embora o crime em questão permita a decretação da prisão preventiva (tráfico de drogas - art. 313, I, do CPP) e seja justificável a aplicação de uma medida cautelar para impedir a continuação das supostas atividades criminosas, entendo, sob a ótica dos princípios da proporcionalidade e adequação, que a imposição da custódia mostra-se desproporcional.
+Segundo os autos da investigação, a custódia derivou-se de mandado de busca e apreensão cumprido na residência do paciente. Na ocasião, os agentes responsáveis pela custódia lograram apreender "01 arma artesanal com coldre de couro, 01 pistola de CO2, 04 invólucros contendo material vegetal semelhante a entorpecente do tipo maconha, 01 recipiente contendo esferas metálicas, aparelhos celulares, 01 dixavador e quantia de R$ 218,00, documentos pessoais".
+As circunstâncias delineadas no decisum, por óbvio, merecem inegável reprovação. Todavia, quando sopesados o conteúdo da apreensão com as condições pessoais favoráveis ao paciente, não se evidencia elevado grau de perigo gerado pelo estado de liberdade a ponto de autorizar a medida extrema. Confira-se, aliás, a jurisprudência das Cortes Estaduais:
+( )
+Noutras palavras, entendo que a aplicação de medidas cautelares menos severas é plenamente viável para alcançar os mesmos objetivos visados pela prisão preventiva, que incluem: (i) garantir a ordem social na comunidade em que o paciente vive e, mais especificamente, (ii) prevenir possíveis reincidências nas condutas delituosas.
+Portanto, ainda que existam indícios suficientes de autoria e prova da materialidade, é possível impor medidas alternativas, ao considerarmos (i) a submissão do paciente ao processo criminal e (ii) suas condições pessoais favoráveis, tais como a primariedade, bons antecedentes, residência fixa e ocupação lícita.
+É dizer, o modus operandi atribuído ao paciente identifica-se com o mesmo imputado ao corréu, cuja atividade consistiu em trazer consigo entorpecentes. Além disso, tem-se o fato de que ele é primário e dispõe de bons antecedentes e residência fixa, fatores determinantes para a concessão da benesse.
+Nesse sentido, colaciono a jurisprudência dos Tribunais Superiores:
+(..)
+Desse modo, como há concurso de agentes e o fundamento da decisão paramétrica não tem, efetivamente, caráter exclusivamente pessoal a obstar o aproveitamento do decisum emitido no mencionado pedido mandamental, impõe-se a concessão do benefício ao paciente, em obediência ao art. 580 do Código de Processo Penal.
+Posto isso, concedo a medida liminar pleiteada com o fim de revogar a prisão imposta ao paciente Wanderson Ferreira da Silva, sob o compromisso de comparecer a todos os atos processuais, determinando para tanto a expedição do competente Alvará de Soltura e seu devido cadastro no Banco Nacional de Mandados de Prisão, salvo se por outro motivo estiver presa ou existir mandado de prisão pendente de cumprimento.
+Imponho-lhe, entretanto, as medidas cautelares previstas no art. 319, I, II, IV e V, c/c o art. 282, todos do CPP, a saber: I) comparecimento quinzenal em juízo para informar e justificar suas atividades; II) proibição de acesso ou frequência a bares, festejos públicos ou particulares e similares, uma vez que relacionados às circunstâncias comuns ao tráfico de drogas; IV) proibição de ausentar-se da Comarca sem a prévia comunicação ao juízo; e V) recolhimento domiciliar a partir das 20 h até as 06 h, inclusive nos dias de folga.
+( )
+Conforme apontado na decisão liminar, os fundamentos adotados por este Relator para a concessão da liberdade provisória ao corréu se assemelham à situação fática do paciente, pois ele teria adotado o mesmo modus operandi imputado àquele e é possuidor de condições pessoais favoráveis, tais como a primariedade, bons antecedentes e residência fixa. Torna-se, pois, cabível a aplicação de medidas cautelares diversas da prisão (art. 319 do CPP).
+Assim, considerando a participação de múltiplos agentes e que os fundamentos da decisão original não possuem um caráter exclusivamente pessoal que impeça a aplicação da decisão emitida no pedido mandamental citado, é necessário confirmar a liminar concedida ao paciente, em obediência ao art. 580 do Código de Processo Penal.
+Destaca-se, por relevante, que decisões semelhantes já foram proferidas tanto pelo Superior Tribunal de Justiça quanto pelo Supremo Tribunal Federal: STF - HC 110835 SP; Relator: Min. CELSO DE MELLO DE SA. GENI SILVEIRA SCHUSTER, Julgamento: 24/04/2012, Segunda Turma; PExt no HC 514.625/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/11/2019, DJe 28/11/2019).
+Sublinhe-se, por fim, que permanecem inalterados os motivos ensejadores da concessão da medida antecipatória.
+Posto isso, conheço do presente Habeas Corpus, para confirmar a liminar pelos seus próprios fundamentos, concedendo-se em definitivo a ordem impetrada, em dissonância com o parecer do Ministério Público Superior.
+É como voto." (e-STJ, fls. 192-195, com destaques).
+Conforme se verifica, o Tribunal a quo, soberano na análise do material fático e probatório carreado aos autos, concluiu que, de acordo com os princípios da proporcionalidade e adequação, a imposição da custódia mostra-se desproporcional, notadamente quando sopesados o conteúdo da apreensão com as condições pessoais favoráveis do paciente. Nesse contexto destacou não estar evidenciado o elevado grau de periculosidade, apto a justificar a prisão preventiva, sendo suficiente a imposição de medidas cautelares diversas .
+Desse modo, a alteração do julgado, tal como propugnado pelo Ministério Público, demandaria necessariamente o reexame do acervo fático-probatório dos autos, providência inviável em sede de recurso especial, haja vista o óbice da Súmula 7/STJ.
+Nesse sentido:
+" ..
+Tendo a eg. Corte estadual entendido que não se encontram presentes os requisitos previstos no art. 312 do Código de Processo Penal e, ainda, que a situação fático-processual dos corréus revela-se idêntica, a ensejar a extensão do benefício da liberdade provisória, a alteração de tal conclusão enseja nova incursão no acervo fático-probatório dos autos, providência inviável pela estreita via do recurso especial a teor do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Agravo regimental desprovido."
+(AgRg no AREsp 665.329/BA, Min. Rel. FELIX FISCHER,QUINTA TURMA, DJe 19/09/2016);
+" ..
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar se estão presentes os requisitos para que se decrete, mantenha ou que se revogue a constrição cautelar do acusado. Incidência da Súmula 7 deste Tribunal.
+2. Agravo regimental a que se nega provimento."
+(AgRg no REsp n. 1.406.878/PB, Min. Rel. MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 4/8/2014).
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
