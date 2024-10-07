@@ -1,0 +1,25 @@
+DECISÃO
+Na origem, trata-se de ação anulatória relativa a cobrança de IPTU sobre leito ferroviário. Na sentença, julgou-se procedente o pedido para reconhecer a imunidade tributária e desconstituir os lançamentos efetuados. No Tribunal a quo, a sentença foi reformada para julgar improcedente o pedido. O valor da causa foi fixado em R$ 3.652.947,28 (três milhões, seiscentos e cinquenta e dois mil, novecentos e quarenta e sete reais e vinte e oito centavos).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO contra acórdão com o seguinte resumo de ementa:
+Apelação. Constitucional. Tributário. Ação Anulatória. IPTU. Transporte Ferroviário de Carga. Município de Barra Mansa. Imunidade tributária. Artigo 150, inciso VI, alínea "a" da Constituição Federal. Sentença que julgou procedente o pleito autoral para declarar os leitos ferroviários do território do Município de Barra Mansa imunes ao IPTU e, por conseguinte, desconstituir o lançamento de IPTU sobre tal parcela territorial. Recurso do Município.
+Temas nºs 385 e 437 do Supremo Tribunal Federal. Autora apelada que exerce a posse dos bens, mesmo que não de forma plena, não se tratando de mera detenção.
+Imunidade do artigo 150, inciso VI, alínea "a" da Constituição Federal que não se aplica à parte autora, pessoa jurídica privada que busca o lucro com sua atividade empresarial. Jurisprudência do Supremo Tribunal Federal. Pleito autoral que deve ser julgado improcedente. Inversão da sucumbência. Provimento da Apelação.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Primeiramente, afasta-se a alegação de ilegitimidade passiva sob o fundamento de inexistência de animus domini. O fato de exercer a posse precária sobre bens de propriedade da União em razão do contrato de concessão não impede a cobrança do tributo.
+A apelada exerce, embora não de forma plena, a posse sobre os bens, e o Código Tributário Municipal não exige que a posse seja plena para que incida a cobrança do IPTU.
+A recorrida não é mera detentora dos bens objeto do contrato de concessão, podendo exercer, inclusive, ações possessórias, caso seja necessário.
+Tanto é assim que os temas 385 e 437 fixados pela Suprema Corte tratam justamente da posse precária exercida por pessoas jurídicas sobre bens públicos.
+Quanto à alegação de imunidade recíproca entre a União e o Município apelante, que abarcaria a relação jurídica entre a apelada e o Município recorrente, esta também não merece acolhimento.
+O fato de exercer serviço público de transporte de carga não é razão para afastar o tributo municipal.
+A apelada exerce atividade empresarial no ramo de transportes, objetivando o lucro e, conforme relatado em suas contrarrazões, possui parte de seu capital negociado em bolsa de valores.
+ ..
+Vê-se, portanto, que a Suprema Corte afastou a imunidade tributária de sociedade de economia mista atuante no ramo de saneamento básico, não fazendo sentido concedê-la à recorrida, sociedade anônima com capital totalmente privado, que atua no ramo de transporte ferroviário de carga.
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, observa-se que a questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em lei local. Logo, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário." Nesse sentido: AgInt no AREsp 1.304.409/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020; AgInt no REsp 1.184.981/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/6/2020, DJe 30/6/2020; EDcl no AgInt no AREsp 1.506.044/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/8/2020, DJe 9/9/2020.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
