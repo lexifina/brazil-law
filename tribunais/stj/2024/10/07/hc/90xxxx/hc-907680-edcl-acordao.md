@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/10/2024 a 07/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. VÍCIO. INEXISTÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O desprovimento do agravo regimental foi fundamentado, de modo suficiente, na validade do reconhecimento pessoal do agravante, que, apesar de realizado por meio de fotografia, observou os critérios estabelecidos pelo art. 226 do Código de Processo Penal, tendo sido precedido de sua descrição física pelas vítimas e concluído com a apresentação de álbum fotográfico com imagens de outras pessoas com características parecidas.
+3. Consoante a jurisprudência do Superior Tribunal de Justiça, "a contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como ilogicidade ou incoerência existente entre os fundamentos e o dispositivo do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com tese, lei ou precedente tido pelo Embargante como correto" (EDcl no AgRg no HC n. 827.911/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/9/2023, DJe de 25/9/2023).
+4. As razões de decidir expostas no acórdão embargado se mostram congruentes e harmônicas, não existindo contradição interna a permitir o acolhimento do recurso integrativo.
+5. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão.
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por TIAGO JOSÉ DA SILVA contra acórdão assim ementado (fl. 169):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. NULIDADE DO RECONHECIMENTO FOTOGRÁFICO EXTRAJUDICIAL. NÃO OCORRÊNCIA. PROVA VÁLIDA. ILEGALIDADE NÃO VERIFICADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Conforme a jurisprudência desta Corte Superior, o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa.
+2. No caso, o reconhecimento pessoal realizado pelas vítimas observou os critérios estabelecidos no art. 226 do Código de Processo Penal, tendo, primeiramente, sido realizada a descrição física do agravante, seguida da apresentação de álbum de fotos com outras pessoas, com parecidas características, a fim de que o procedimento fosse concluído, não havendo, portanto, que falar em nulidade, na medida em que o ato foi devidamente ratificado em juízo.
+3. Agravo regimental desprovido.
+A parte embargante sustenta a existência de contradição no julgado, porquanto, ao afirmar a legalidade de seu reconhecimento pessoal no feito de origem, não teria considerado a informação registrada na sentença de que não teria havido a descrição minuciosa de suas características pelas vítimas antes de procederem ao reconhecimento fotográfico em âmbito policial.
+Requer o acolhimento dos aclaratórios para sanar os defeitos apontados, com a correspondente repercussão jurídica.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. VÍCIO. INEXISTÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O desprovimento do agravo regimental foi fundamentado, de modo suficiente, na validade do reconhecimento pessoal do agravante, que, apesar de realizado por meio de fotografia, observou os critérios estabelecidos pelo art. 226 do Código de Processo Penal, tendo sido precedido de sua descrição física pelas vítimas e concluído com a apresentação de álbum fotográfico com imagens de outras pessoas com características parecidas.
+3. Consoante a jurisprudência do Superior Tribunal de Justiça, "a contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como ilogicidade ou incoerência existente entre os fundamentos e o dispositivo do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com tese, lei ou precedente tido pelo Embargante como correto" (EDcl no AgRg no HC n. 827.911/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/9/2023, DJe de 25/9/2023).
+4. As razões de decidir expostas no acórdão embargado se mostram congruentes e harmônicas, não existindo contradição interna a permitir o acolhimento do recurso integrativo.
+5. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão.
+6. Embargos de declaração rejeitados.
+VOTO
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado no acórdão embargado, o reconhecimento pessoal do embargante, ainda que realizado por meio de fotografia, observou os critérios estabelecidos pelo art. 226 do Código de Processo Penal, tendo sido precedido de sua descrição física pelas vítimas e concluído com a apresentação de álbum fotográfico com imagens de outras pessoas com características parecidas.
+Afirmou-se, ainda, que o procedimento de identificação de autoria foi ratificado durante a instrução criminal em juízo.
+Observa-se, a propósito, o que constou no voto condutor do acórdão recorrido (fl. 178 - destaque acrescido):
+A despeito das alegações defensivas, a decisão deve ser mantida por seus próprios e jurídicos fundamentos, ainda que não se desconheça a complexidade e a relevância da questão tratada nestes autos.
+Constou no acórdão recorrido que, "embora o reconhecimento realizado em sede extrajudicial tenha sido realizado por meio de fotografia, foram elencadas fotos de outras pessoas, com parecidas características, a fim de que o procedimento fosse concluído. Nada obstante, em juízo, como adiante se observará quando do exame do mérito, as vítimas foram claras em novament e reafirmar o reconhecimento em juízo, esclarecendo as características de cada qual".
+No caso, o reconhecimento pessoal realizado pelas vítimas observou os critérios estabelecidos no art. 226 do Código de Processo Penal, tendo, primeiramente, sido realizada a descrição física do agravante, seguida da apresentação de álbum de fotos com outras pessoas, com parecidas características, a fim de que o procedimento fosse concluído, não havendo, portanto, que falar em nulidade, na medida em que o ato foi devidamente ratificado em juízo.
+Portanto, inexistindo vício a ser dissipado, a pretensão do recurso é de rediscussão dos fundamentos do acórdão, propósito inviável para o recurso em apreço, nada havendo que se possa acolher.
+Ademais, cabe registrar que "a contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como ilogicidade ou incoerência existente entre os fundamentos e o dispositivo do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com tese, lei ou precedente tido pelo Embargante como correto" (EDcl no AgRg no HC n. 827.911/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/9/2023, DJe de 25/9/2023).
+As razões de decidir expostas no acórdão embargado se mostram congruentes e harmônicas, não existindo contradição interna a permitir o acolhimento do recurso integrativo.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
