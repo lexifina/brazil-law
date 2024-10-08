@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, recurso especial interposto por ANTONINHO NOBRE contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+DIREITO PROCESSUAL CIVIL. APELAÇÕES. REMESSA OFICIAL. EMBARGOS À EXECUÇÃO DE SENTENÇA. PRESCRIÇÃO. SÚMULA 15O/STF. INTERRUPÇÃO PELO INÍCIO DA EXECUÇÃO. ARQUIVAMENTO POR INÉRCIA DA EXEQUENTE. RETOMADA DA EXECUÇÃO. APLICAÇÃO DO ARTIGO 9º DO DECRETO Nº 20.910/32. SUCUMBÊNCIA.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente aponta violação aos arts. 128 e 219, § 5º, do CPC/1973 e 194 do CC/2002. Sustenta que à época do transito em julgado da decisão exequente, bem como da apresentação dos embargos à execução, era vedado o reconhecimento de ofício da prescrição. Além disso, a responsabilidade pela demora na citação, nos termos do art. 730 do CPC, deve ser atribuída ao Poder Judiciário.
+Contrarrazões apresentadas às fls. 146-155, postulando o não conhecimento do recurso ante os óbices das Súmulas 282 e 356 do STF e 7 e 13 do STJ.
+Remetidos os autos à origem para o exercício do juízo de adequação aos Temas Repetitivos nº 566/571, o processo retornou a esta Corte por ser inaplicável o precedente invocado.
+É o relatório.
+Passo a decidir.
+Inicialmente, o Enunciado Administrativo 2/2016 desta Corte determina:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+Para melhor elucidação da controvérsia, transcrevo parte do acórdão recorrido:
+Senhores Desembargadores, em prejudicial ao exame do mérito, cabe apreciar a questão da prescrição que, nos termos do § 5º do artigo 219 do Código de Processo Civil, deve ser decretada de ofício.
+Com efeito, a prescrição decretável de ofício foi instituída, primeiramente, no âmbito da execução fiscal, através da Lei nº 11.051/01, que incluiu o § 4º no artigo 40, da Lei nº 6.830/80, sendo a orientação expandida para a execução de sentença, com o advento da Lei nº 11.280/06, que alterou a redação do § 5º do artigo 219 do Código de Processo Civil, com a previsão, agora, de que "O juiz pronunciará, de ofício, a prescrição".
+Conforme decidido pelo Superior Tribunal de Justiça, "Por ser matéria de ordem pública, a prescrição há de ser decretada de imediato, mesmo que não tenha sido debatida nas instâncias ordinárias. ln casu, tem-se direito superveniente que não se prende a direito substancial, devendo-se aplicar, imediatamente, a nova lei processual. " (RESP n2 855.525, Rei. Min. JOSÉ DELGADO, DJU de 18.12.06; e RESP ng 814.696, Rei. Min TEORI ZAVASCKI, DJU de 10.04.06).
+Firme em tal interpretação, consolidada pela Corte Superior, cabe reconhecer, na espécie, a consumação da prescrição da ação executiva, nos termos que se seguem.
+ ..
+Na espécie, o trânsito em julgado da condenação ocorreu em 06.12.93 (f. 95, apenso), ao passo que a propositura da execução (requerimento de citação da FAZENDA NACIONAL, para os fins do artigo 730 do CPC) ocorreu em 25.09.03 (f. 15314, apenso), com citação consumada em 07.11.03 (f. 157, apenso), fora do prazo qüinqüenal.
+Certo que, em 14.03.94 (apenso, f. 97 v) houve a publicação do despacho para a exequente cumprir o acórdão transitado em julgado, porém, diante da inércia do credor, os autos foram arquivados duas vezes. Em 13.12.96 (apenso, f. 113/6) a exequente apresentou memória discriminada de cálculo, mas sem promover o início da execução, sobrevindo mais dois arquivamentos dos autos.
+O último pedido de ocorreu em 15. 10.02 (apenso, f. 150), e o pedido de citação, com novo cálculo, ocorreu em apenas em 25.09.03, ou seja, em ambos os casos depois de dois e meio contados da última interrupção, em 13.12.96, consumando a prescrição, nos termos do artigo 9º do Decreto n2 20.910/32. Tal regra tem aplicação, no caso, em virtude da interrupção anterior ter ocorrido no mesmo processo, ou seja, no de execução, diferentemente do que ocorre quando se tem interrupção apenas no processo de conhecimento, que não se transmite para o de execução, dada a autonomia de um em face do outro.
+Se não se considerasse a interrupção em 13.12.96, a prescrição seria ainda mais evidente, pois o início da execução estaria vinculado ao pedido de citação em 25.09.03, ou seja, depois de decorridos muito mais do que cinco anos do trânsito em julgado, ocorrido em 06.12.93.
+Em face da sucumbência integral da exeqüente-embargada, cumpre a esta arcar com a verba honorária, que se fixa, no caso concreto, em 10% sobre o valor atualizado da causa.
+No que diz respeito à possibilidade de reconhecimento de ofício da prescrição, o entendimento adotado na origem encontra-se em conformidade com a jurisprudência desta Corte, segundo a qual, "com o advento da Lei n. 11.280, de 16.2.2006, com vigência a partir de 17.5.2006, que acrescentou o § 5º ao art. 219 do CPC, o juiz poderá decretar de ofício a prescrição. Tratando-se de norma de natureza processual, a sua aplicação é imediata, inclusive nos processos em curso" (AgRg no REsp n. 1.400.044/RN, relator Ministro Humberto Martins, Segunda Turma, julgado em 5/12/2013, DJe de 16/12/2013).
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PRESCRIÇÃO. MATÉRIA DE ORDEM PÚBLICA. DECLARAÇÃO EX OFFICIO. AUSÊNCIA DE ABORDAGEM NA AÇÃO DE CONHECIMENTO. EMBARGOS A EXECUÇÃO. NÃO CABIMENTO. PRECEDENTES. REVISÃO DE BENEFÍCIO. PRESCRIÇÃO QUINQUENAL. RECURSO ESPECIAL NÃO PROVIDO.
+1. Com o advento da Lei 11.280, de 16.2.2006, com vigência a partir de 17.5.2006, que acrescentou o § 5º ao art. 219 do CPC, o juiz poderá decretar de ofício a prescrição. Tratando-se de norma de natureza processual, a sua aplicação é imediata, inclusive nos processos em curso.
+2. Após o trânsito em julgado da ação de conhecimento, eventual ausência de manifestação sobre matéria de ordem pública somente pode ser arguida pela via da Ação Rescisória, porquanto inviável seu questionamento na fase executiva por meio de Embargos à Execução.
+3. Tratando-se de revisão de benefício previdenciário, a prescrição incidente é quinquenal, alcançando os cinco anos anteriores à propositura da ação revisional.
+4. Recurso Especial não provido (REsp n. 1.681.184/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/9/2017, DJe de 9/10/2017).
+Quanto à responsabilidade pela demora na citação, a alteração das conclusões adotadas pelo Tribunal de origem, no sentido de que houve inércia por parte do credor, ensejaria a revisão do acervo fático-probatório dos autos, providência vedada nesta via recursal, ante o óbice da Súmula 7/STJ.
+Isso posto, não conheço do recurso especial.
+Intimem-se.
+EMENTA
