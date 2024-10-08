@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, embargos de declaração opostos por IRMANDADE DA SANTA CASA DE MISERICORDIA DE SAO PAULO contra decisão que não conheceu do agravo para negar provimento ao recurso especial pela ausência de ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do CPC e pela a incidência da Súmula 7/STJ.
+As partes embargantes alegam, em síntese, a existência de omissão na decisão recorrida, uma vez que não houve análise do do dissídio jurisprudencia e da ofensa aos arts. 393 e 405 do Código Civil, que tratam, respectivamente, do caso fortuito e força maior para fins de exonerar a responsabilidade da embargante e do termo inicial dos juros de mora.
+Impugnação da parte embargada pela rejeição rejeição dos embargos.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, no que se refere à suposta omissão na análise das excludentes de responsabilidade, a decisão embargada consignou expressamente que, "para alterar as conclusões do órgão julgador, no que tange à comprovação do nexo causal entre o procedimento cirúrgico e o dano sofrido, seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ".
+Sinale-se que o mesmo óbice impede o conhecimento do apontado dissídio jurisprudencial. Nesse sentido, "o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, restando prejudicada a análise do dissídio jurisprudencial" (AgInt no AREsp 1.372.011/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 30/8/2019).
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Por outro lado, assiste razão à embargante quanto à omissão na análise da alegada ofensa ao art. 405 do Código Civil.
+No ponto, contudo, o acórdão recorrido encontra-se em conformidade com o entendimento jurisprudencial desta Corte. Isso porque "a jurisprudência do STJ firmou-se no sentido de que os juros de mora, na responsabilidade extracontratual, incidem desde o evento danoso (Súmula n. 54 do STJ), seja o dano de natureza material ou moral" (AgInt nos EREsp 1.946.950/PA, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 28/6/2024).
+Isso posto, acolho parcialmente os embargos de declaração para sanar a omissão indicada sem efeitos infringentes.
+Intimem-se.
+ EMENTA
