@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FAUZER ANDRIGO MENDONÇA SIMÕES RANGEL (e-STJ fls. 1064/1070), contra decisão monocrática, da minha lavra, que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (e-STJ fls. 1022/1039).
+Nos presentes aclaratórios (e-STJ fls. 1064/1070), alega o embargante, em suma, a necessidade de chamamento do feito à ordem, sob o argumento de que o primeiro recurso especial apresentado pela defesa, após o julgamento da apelação pelo Tribunal de origem, não teria sido acostado aos autos, o que teria acarretado a apreciação incompleta das matérias contra as quais se insurge a defesa, constituindo violação aos arts. 5º, inciso LV, e 93, inciso IX, ambos da Constituição Federal.
+Pondera que "a omissão na análise integral das razões recursais apresentadas pela defesa também representa uma afronta ao princípio da legalidade estrita, que norteia o processo penal" (e-STJ fl. 1067).
+Assevera que "a não apreciação do primeiro recurso especial interposto pela defesa, devidamente protocolado e tempestivamente apresentado, constitui uma omissão que deve ser prontamente sanada por meio dos presentes embargos e declaração (e-STJ fl. 1047).
+Pugna, ao final, pelo conhecimento e acolhimento dos aclaratórios, para sanar a omissão apontada, "com a consequente inclusão nos autos do primeiro recurso especial interposto  .. , bem como a devida análise de todas as razões recursais apresentadas pela defesa" (e-STJ fl. 1069).
+É o relatório. Decido.
+Da análise do s autos, verifico que o recorrente apresentou 2 (dois) recursos desafiando a decisão monocrática da minha lavra, que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (e-STJ fls. 1022/1039), sendo o primeiro os embargos de declaração de e-STJ fls. 1043/1050, em 29/7/2024, e, posteriormente, em 24/8/2024, os aclaratórios de e-STJ fls. 1064/1070.
+Como é cediço, no caso de interposição de 2 (dois) recursos pela mesma parte e contra o mesmo decisum, apenas o primeiro - na hipótese dos autos, os embargos de declaração de e-STJ fls. 1043/1050 - poderá ser conhecido, em face da preclusão consumativa e do princípio da unicidade recursal, que veda a interposição simultânea de mais de um recurso contra a mesma decisão judicial, ressalvada a interposição de recursos especial e extraordinário.
+No mesmo sentido, os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APRESENTAÇÃO DE EMBARGOS DE DECLARAÇÃO E RECURSO ESPECIAL CONTRA O MESMO ACÓRDÃO. CONHECIMENTO APENAS DO PRIMEIRO. OCORRÊNCIA DE PRECLUSÃO CONSUMATIVA. OFENSA AO PRINCÍPIO DA UNICIDADE RECURSAL OU UNIRRECORRIBILIDADE. HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. JURISPRUDÊNCIA DO STJ.
+1. Na hipótese de interposição de dois recursos contra a mesma decisão, pela mesma parte, apenas o primeiro pode ser conhecido, tendo em vista a ocorrência da preclusão consumativa e ofensa ao princípio da unicidade recursal ou unirrecorribilidade, que veda a interposição simultânea de mais de um recurso contra a mesma decisão judicial.
+ ..
+3. Agravo regimental improvido. (AgRg no AREsp n. 2.290.201/SP, Rel. Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), SEXTA TURMA, julgado em 20/2/2024, DJe 23/2/2024).
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E PRECLUSÃO CONSUMATIVA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. A interposição de dois recursos pela mesma parte contra a mesma decisão inviabiliza o exame daquele que tenha sido protocolizado após o primeiro, em razão da ocorrência de preclusão consumativa e ante a aplicação do princípio da unirrecorribilidade das decisões.
+2. Embargos de declaração não conhecidos. (EDcl nos EDcl no AgRg no AREsp n. 2.342.530/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 11/12/2023, DJe 19/12/2023).
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA TUTELA PROVISÓRIA NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO SIMULTÂNEA DE DOIS EMBARGOS DE DECLARAÇÃO CONTRA O MESMO ATO JUDICIAL E PELO MESMO EMBARGANTE. PRIN CÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. REITERAÇÃO DE RECURSO ANTERIOR. CARÁTER PROTELATÓRIO DA IRRESIGNAÇÃO.
+1. A interposição de dois recursos pela mesma parte contra a mesma decisão impede o conhecimento do segundo, em razão da preclusão consumativa e do princípio da unirrecorribilidade das decisões.
+ ..
+5. Embargos de declaração de e-STJ fls. 937/948 e 953/961 não conhecidos, com determinação de baixa imediata do feito, independentemente da interposição de novos recursos pelo ora embargante. (EDcl nos EDcl no AgRg na TutPrv no AREsp n. 1.705.616/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 28/11/2023, DJe 1/12/2023).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE RECURSOS CONTRA O MESMO ACÓRDÃO. NÃO CABIMENTO. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE. INTERPOSIÇÃO APÓS O PRAZO DE 5 DIAS CORRIDOS. ARTS. 39 DA LEI 8.038/1990 E 798 DO CPP. RECURSO INTEMPESTIVO. AGRAVO NÃO CONHECIDO.
+1. É manifestamente incabível o segundo recurso interposto pelas mesmas partes, contra a mesma decisão, em razão da preclusão consumativa e do princípio da unirrecorribilidade (ARE no RE nos EDcl no AgRg no REsp 1791589/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 12/05/2020, DJe 15/05/2020).
+ ..
+4. Agravo regimental não conhecido. (AgRg no AREsp n. 2.408.805/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/10/2023, DJe 30/10/2023).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO. UNIRRECORRIBILIDADE. TRIBUNAL DO JÚRI. CLEMÊNCIA. ANULAÇÃO. POSSIBILIDADE. DECISÃO CONTRÁRIA À PROVA DOS AUTOS. PRECEDENTE DA TERCEIRA SEÇÃO. AGRAVO IMPROVIDO.
+1. Interpostos dois recursos pela mesma parte contra a mesma decisão, não se conhece daquele apresentado em segundo lugar, por força dos princípios da unirrecorribilidade e da preclusão consumativa.
+ ..
+3. Agravo regimental de fls. 1.001/1.009 improvido e agravo de fls. 1.010/1.018 não conhecido. (AgRg no REsp 1834604/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 4/2/2020, DJe 10/2/2020).
+Desse modo, na espécie, os embargos de declaração protocolizados às e-STJ fls. 1064/1070 se revelam manifestamente inadmissíveis, em razão da prévia interposição de outro recurso pela mesma parte, contra a mesma decisão.
+Ante o exposto, não conheço dos embargos de declaração de e-STJ fls. 1064/1070.
+Intimem-se.
+EMENTA
