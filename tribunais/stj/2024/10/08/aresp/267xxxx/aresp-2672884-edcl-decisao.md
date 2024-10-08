@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ARTHUR VIRGILIO DO CARMO RIBEIRO NETO à decisão de fls. 357/358, que não conheceu do recurso.
+Sustenta a parte embargante:
+Após a interposição de Agravo em Recurso Especial pelo EMBARGANTE ARTHUR VIRGÍLIO, foi proferido r. despacho (fls. 357/358) pela Exma. Presidência deste C. Tribunal não conhecendo do recurso visto que "o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso".
+Ocorre que, como se observa no recurso interposto (fls. 306/330), foi feito um requerimento pelo reconhecimento da não necessidade de recolhimento de custas em razão de expressa dispensa legal, nos termos do artigo 23-B da Lei nº 8.429/92.
+Tal pedido, no entanto, que levaria ao prosseguimento do recurso independentemente do pagamento das custas neste momento processual, não foi analisado por V. Exa., caracterizando omissão a ser sanada nos termos do art. 1.022, inciso II do Código de Processo Civil.
+A título de demonstração e para rememorar os funda- mentos que, entende-se, devem levar ao diferimento do pagamento das custas, reproduz-se abaixo o trecho do recurso que tratou da referida controvérsia:
+ ..
+Isto posto, considerando a evidente omissão da r. decisão embargada, que deixou de considerar o quanto apontado pelo EMBARGANTE (ou seja, a indicação de que não há recolhimento de custas em razão da vigência do artigo 23-B da Lei nº 8.429/92), de rigor que sejam acolhidos os presentes aclaratórios para analisar as alegações e os pedidos realizados, deferindo-os (fls. 364/366).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, conforme já consignado na decisão ora embargada, que agora se repete, no ato da interposição, o recurso especial não foi devidamente preparado, uma vez que não foi recolhida a importância devida a título de custas, de acordo com a legislação local.
+Nos termos da jurisprudência desta Corte, "a parte recorrente deve comprovar, no momento da interposição do recurso especial, o recolhimento das custas e do porte de remessa e retorno devidos à União, bem como dos valores locais, estipulados pelo Tribunal de origem". (AgInt no REsp 1660202/SP, Rel. Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, DJe de 27.2.2018.)
+Portanto, as "custas locais são devidas ao Tribunal de origem e pagas por meio da respectiva guia estadual". (AgInt nos EDcl no AREsp 1120489/PE, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 1.8.2018.)
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, conforme consignado na decisão de fls. 264/266.
+Registre-se que é responsabilidade da parte observar o correto procedimento para instrução de recursos perante os tribunais, incluindo o recolhimento do preparo de acordo com a legislação pertinente.
+Ademais, veja que no art. 23-B da Lei de Improbidade (Lei n.º 8.429/92) realmente há previsão para que não haja adiantamento de custas naquele tipo de ação, assim como também, na Lei da Ação Civil Pública, em seu art. 18 (Lei 7347/85).
+Ressalte-se que "Segundo jurisprudência consolidada desta Corte, a Lei da Ação Popular (Lei 4.717/65), a Lei da Ação Civil Pública (Lei 7.347/85) e a Lei de Improbidade Administrativa (Lei 8.429/92) formam o denominado microssistema legal de proteção aos interesses ou direitos coletivos, por isso "a supressão de lacunas legais deve ser, a priori, buscada dentro do próprio microssistema"." (REsp 1.447.774/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 27.8.2018).
+Assim, como a jurisprudência desta Corte já se manifestou no sentido de que apenas o autor da ação possui a prerrogativa prevista no art. 18 da Lei n. 7.347/85, não se estendendo tal benefício ao réu da demanda (AgInt no AREsp n. 1.465.539/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19.8.2019), aplica-se por analogia esse mesmo entendimento à Ação de Improbidade, ou seja, o art. 23-B da Lei n.º 8.429/92 só beneficia o autor da demanda. Nesse sentido, o AgInt no AREsp n. 2.272.535/PB, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 29.5.2023, DJe de 1/6/2023.
+Ainda, obser ve que a parte embargante pretende o exame de mérito do Recurso Especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Assim, não há que se cogitar da ocorrência de omissão, uma vez que o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.
+3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe de 11.3.2021).
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
