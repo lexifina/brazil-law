@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em favor de ELISMAR NEIVA DA SILVA, impetrado contra o acórdão do Tribunal de Justiça do Estado de Goiás proferido na Revisão Criminal n. 5466819-34.2023.8.09.0000.
+Consta nos autos que o paciente foi condenado à pena de 15 (quinze) anos de reclusão, em regime inicial fechado, como incurso no art. 121, § 2º, inciso III, do Código Penal.
+A Defesa ajuizou revisão criminal, tendo sido julgado improcedente o pedido revisional pela Corte de origem.
+Neste writ, o impetrante alega que foi ínfimo o quantum de redução da pena do paciente pelo reconhecimento da atenuante da confissão espontânea.
+Requer, em liminar e no mérito, que seja reduzida a sanção do paciente na fração de 1/6 (um sexto), pelo reconhecimento da confissão espontânea.
+O pedido liminar foi indeferido às fls. 42-43.
+Informações prestadas (fls. 48-58 e 60-63).
+O Ministério Público Federal opinou às fls. 64-68, pelo não conhecimento do writ.
+É o relatório.
+DECIDO.
+No que diz respeito à dosimetria da pena, o Juiz sentenciante assim consignou (fl. 29; grifamos):
+Considerando a culpabilidade, tenho que o réu é imputável, tinha conhecimento da ilicitude do ato e era-lhe exigível, no momento, conduta diversa da que praticou; considerando os antecedentes, há notícia nos autos de que são péssimos, sendo até reincidente (eventos nº 122 e 124); considerando a conduta social, tenho-a como anormal; considerando a personalidade do agente, verifico que há forte propensão ao crime; considerando os motivos, estes revelam-se desprovidos de razão; considerando as circunstâncias, entendo que estas são desfavoráveis ao réu, uma vez que o crime foi cometido na Unidade Prisional desta Comarca, onde ele cumpria pena; considerando as consequências do crime, tenho-as como relevantes e danosas, vez que uma vida humana foi ceifada; considerando o comportamento da vítima, tenho que esta contribuiu para o evento, ao provocar o réu e possuir mau comportamento dentro do cárcere.
+Assim, fixo a pena base em 16 (dezesseis) anos de reclusão. Diminuo em 1 (um) ano, diante da confissão espontânea do réu, resultando em 15 (QUINZE) ANOS DE RECLUSÃO, QUE TORNO DEFINITIVA, ante a ausência de outras atenuantes e agravantes, bem como de causas gerais ou especiais de diminuição ou aumento de pena.
+Como se vê, não houve fundamentação idônea para justificar a escolha da fração de diminuição da pena pela atenuante de confissão em patamar inferior a 1/6 (um sexto), o que destoa da jurisprudência desta Corte Superior no sentido de que a redução da reprimenda em razão da incidência de circunst ância atenuante deve respeitar, em regra, a fração de 1/6 (um sexto), salvo situações excepcionais, devidamente justificadas (AgRg no HC n. 677.051/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 08/02/2022, DJe de 15/02/2022).
+A propósito, ainda :
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. HOMICÍDIO CULPOSO NO TRÂNSITO. ERRO MATERIAL NA CONSIDERAÇÃO DA MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL. CORREÇÃO. AMPLIAÇÃO DA FRAÇÃO DE REDUÇÃO, DECORRENTE DA ATENUANTE DA CONFISSÃO ESPONTÂNEA, APLICADA PELAS INSTÂNCIAS ORDINÁRIAS, EM PATAMAR INFERIOR A 1/6. CARÊNCIA DE FUNDAMENTO VÁLIDO. DESPROPORCIONALIDADE FLAGRANTE. MANUTENÇÃO QUE SE IMPÕE.
+1. As instâncias ordinárias, na avaliação da pena intermediária, fundamentaram o seguinte: considerando que o acusado confessou a prática do delito, incide a atenuante de confissão (art. 65, inciso III, alínea "d", do Código Penal), motivo pelo qual reduzo a pena em DOIS MESES, fixando-a definitiva em DOIS ANOS E DOIS MESES DE DETENÇÃO, na ausência de outras causas modificadoras incidentes na hipótese.  ..  Na segunda etapa, presente a atenuante da confissão espontânea, foi a pena reduzida em 02 meses, não se cogitando redução maior, considerando a extremamente módica fixação da pena-base, que, em muito, já favoreceu o acusado, alcançando a pena 02 anos e 02 meses de detenção, tornada definitiva na ausência de outras causas modificadoras (fls. 374 e 472).
+2. A s instâncias ordinárias não apresentaram fundamentos que justificassem a utilização de fração aquém de 1/6, o que vai de encontro à jurisprudência do Superior Tribunal de Justiça.
+3. De acordo com a jurisprudência do Superior Tribunal de Justiça, "deve ser adotada a fração paradigma de 1/6 (um sexto) para aumento ou diminuição da pena pela incidência das agravantes ou atenuantes genéricas, ante a ausência de critérios para a definição do patamar pelo legislador ordinário, devendo o aumento superior ou a redução inferior à fração paradigma estar devidamente fundamentado" (AgRg no HC 370.184/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/05/2017, DJe 22/05/2017).  ..  Entretanto, a redução levada a efeito pelo reconhecimento da citada atenuante foi realizada em patamar inferior a 1/6 (um sexto), sem que, para tanto, tenha sido declinada fundamentação concreta e específica (AgRg no AREsp n. 1.833.969/TO, Ministra Laurita Vaz, Sexta Turma, DJe 28/5/2021).
+4. Agravo regimental improvido
+(AgRg no REsp n. 2.096.772/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/12/2023, DJe de 14/12/2023, grifamos).
+De rigor, portanto, o redimensionamento da pena a fim de que o desconto relativo à atenuante da confissão seja no patamar de 1/6 (um sexto).
+Fixadas essas premissas, passo a redimensionar a pena do paciente.
+Na primeira fase, mantenho a pena-base fixada pelas instâncias ordinárias em 16 (dezesseis) anos de reclusão.
+Na segunda etapa, presente a atenuante da confissão, deve-se adotar o patamar de diminuição de 1/6 (um sexto). Dessa forma, a sanção intermediária resta fixada em 13 (treze) anos e 04 (quatro) meses de reclusão.
+Na terceira fase, não incidem causas de aumento ou de diminuição, de forma que ficam definitivamente fixadas as reprimendas do réu em 13 (treze) anos e 04 (quatro) meses de reclusão, mantido o regime fechado.
+Ante o exposto, concedo a ordem de habeas corpus para redimensionar a pena imposta ao paciente, conforme esta decisão, mantidos os demais termos do édito condenatório.
+Publique-se e i ntimem-se.
+EMENTA
