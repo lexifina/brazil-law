@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA SUBSTITUÍDA POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão negou vergastada por seus próprios fundamentos.
+II - No caso, da leitura da motivação da decisão que decretou a segregação cautelar não há mínimos elementos concretos indicativos de efetivo e concreto periculum libertatis a justificar in casu de modo formal e devidamente fundamentado sua segregação social antecipada pois não indica a gravidade concreta que extrapole as elementares do tipo penal infringido e não apresenta evidência de efetiva reiteração de condutas delituosas pelo agravado. Ressalte-se que o agravado é primário, com bons antecedentes; sem se olvidar que a quantidade de entorpecente apreendido- 336,04g de maconha (fl. 23)- não se revela de grande monta, bem como que se trata de crime cometido sem violência, o que demonstra carência de motivação concreta para a prisao preventiva.Com efeito, a prisão não se mostra necessária, em juízo de proporcionalidade, para embasar a segregação cautelar. Em hipóteses como a destes autos, esta Corte Superior tem entendido pela possibilidade de substituição da prisão preventiva por medidas diversas do encarceramento.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão, às fls.154-158, interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, a qual concedi o habeas corpus para substituir a prisão preventiva imposta ao Paciente por medidas cautelares diversas previstas no art. 319 do CPP, a serem estabelecidas pelo Juízo a quo.
+Depreende-se dos autos que o agravado se encontrava preso preventivamente pela suposta prática do delito de tráfico de drogas.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem, em acórdão de fls. 19-25 em razão da quantidade de entorpecente apreendido - 336,04g de maconha- fl.23.
+Nas razões do recurso, o agravante alega em síntese que a manutenção da custódia preventiva do agravado se revela proporcional, adequada e razoável para a garantia da ordem pública em razão da gravidade concreta da conduta praticada: apreensão de significativa quantidade de maconha e a apreensão de balança de precisão, que revelam a insuficiência da aplicação de medidas cautelares diversas da prisão.
+Requer, ao final, a reconsideração da decisão objurgada, ou, em caso de entendimento diverso, a submissão ao colegiado.
+Por manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA SUBSTITUÍDA POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão negou vergastada por seus próprios fundamentos.
+II - No caso, da leitura da motivação da decisão que decretou a segregação cautelar não há mínimos elementos concretos indicativos de efetivo e concreto periculum libertatis a justificar in casu de modo formal e devidamente fundamentado sua segregação social antecipada pois não indica a gravidade concreta que extrapole as elementares do tipo penal infringido e não apresenta evidência de efetiva reiteração de condutas delituosas pelo agravado. Ressalte-se que o agravado é primário, com bons antecedentes; sem se olvidar que a quantidade de entorpecente apreendido- 336,04g de maconha (fl. 23)- não se revela de grande monta, bem como que se trata de crime cometido sem violência, o que demonstra carência de motivação concreta para a prisao preventiva.Com efeito, a prisão não se mostra necessária, em juízo de proporcionalidade, para embasar a segregação cautelar. Em hipóteses como a destes autos, esta Corte Superior tem entendido pela possibilidade de substituição da prisão preventiva por medidas diversas do encarceramento.
+Agravo regimental desprovido.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+No mérito, entretanto o recurso não merece subsistir.
+Pois bem. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+Nesse compasso, não obstante o teor das razões suscitadas no presente recurso, não vislumbro elementos hábeis a alterar a decisão. Ao contrário, os argumentos ali externados merecem ser ratificados pelo Colegiado.
+No caso, da leitura da motivação da decisão que decretou a segregação cautelar não há mínimos elementos concretos indicativos de efetivo e concreto periculum libertatis a justificar in casu de modo formal e devidamente fundamentado sua segregação social antecipada pois não indica a gravidade concreta que extrapole as elementares do tipo penal infringido e não apresenta evidência de efetiva reiteração de condutas delituosas pelo agravado.
+Ressalte-se que o agravado é primário, com bons antecedentes; sem se olvidar que a quantidade de entorpecente apreendido- 336,04g de maconha (fl. 23)- não se revela de grande monta, bem como que se trata de crime cometido sem violência, o que demonstra carência de motivação concreta para a prisao preventiva.
+Com efeito, a prisão não se mostra necessária, em juízo de proporcionalidade, para embasar a segregação cautelar. Em hipóteses como a destes autos, esta Corte Superior tem entendido pela possibilidade de substituição da prisão preventiva por medidas diversas do encarceramento.
+Destarte, neste agravo regimental, não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios e jurídicos fundamentos.
+Nesse sentido:
+"É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos" (AgRg no AREsp n. 2.173.224/RN, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 30/6/2023).
+Ante o exposto, por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, nego provimento ao agravo regimental.
+É o voto.
