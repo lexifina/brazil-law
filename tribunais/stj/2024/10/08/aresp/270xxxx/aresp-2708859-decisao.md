@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COLEGIO INTEGRADO SAO FRANCISCO S/S LTDA (COLEGIO) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, da relatoria do Des. ERNANI DESCO FILHO, assim ementado:
+APELAÇÕES RECÍPROCAS. Ação declaratória de rescisão cumulada com cobrança de valores. Contrato firmado entre instituições de ensino para prestação de serviços. Autora que sustenta o inadimplemento dos requeridos. R. sentença de procedência quanto à rescisão do pacto e condenação de restituição de parcela adiantada. EMPRESA RÉ/APELANTE QUE SUCEDEU A PRIMEVA CONTRATADA. Mesmo sócio das duas pessoas jurídicas que denota a continuidade da atividade econômica. Legitimidade passiva corretamente reconhecida em Primeiro Grau. SUCESSÃO EMPRESARIAL INÓCUA PARA AFASTAR A RESPONSABILIDADE CIVIL. Assunção das obrigações da pessoa jurídica incorporada. Inteligência do art. 1.146 do Código Civil. RECURSO DO COLÉGIO INTEGRADO SÃO FRANCISO DESPROVIDO. Irresignação de Lorenti Educação Tecnológica e Comércio Ltda. JUROS MORATÓRIOS que devem ser fixados de acordo com o art. 322, § 1º, do Código de Processo Civil. OBRIGAÇÃO ILÍQUIDA. Necessidade de propositura de ação para rescisão e apuração do quantum debeatur. Incidência dos arts. 405 e 406 do Código Civil c/c o art. 161, § 1º, do Código Tributário Nacional. Juros moratórios de um por cento ao mês que incidem a partir da citação. CORREÇÃO MONETÁRIA contada do ajuizamento. Impossibilidade de considerar a notificação extrajudicial como vencimento da obrigação ilíquida ou "evento danoso" mencionado na Súmula 43 da Corte Cidadã. RECURSO DA LORENTI EDUCAÇÃO PARCIALMENTE PROVIDO (e-STJ, fl. 235).
+Os embargos de declaração opostos por COLEGIO foram rejeitados (e-STJ, fls. 253/261).
+Irresignado, COLEGIO manejou recurso especial com base no art. 105, III, alínea a, da CF, apontando violação ao art. 1.022, II, do CPC, ao sustentar omissão do acórdão recorrido sobre a não prestação do serviço e enriquecimento ilícito.
+Não foi apresentada contraminuta (e-STJ, fl. 274).
+É o relatório.
+Decido.
+O recurso não merece ser provido.
+Da alegação de negativa da prestação jurisdicional
+Nas razões do recurso especial, COLEGIO alegou omissão no acórdão recorrido sobre a não prestação do serviço e enriquecimento ilícito.
+Contudo, sem razão.
+Em relação ao tema, o TJSP, ao julgar os embargos de declaração opostos por COLEGIO, concluiu que a questão relativa a ausência de prestação de serviço e, portanto, enriquecimento sem causa, não poderia ser conhecida por não ter sido objeto da contestação, tratando-se de inovação recursal e afronta ao princípio da eventualidade. Confira-se:
+Em sua contestação de fls. 71/76, a empresa embargante aduziu sua ilegitimidade passiva, pois não teria participado das tratativas referentes ao contrato juntado na petição inicial.
+Após a prolação da r. sentença, com a menção ao fato incontroverso de que a rescisão ocorreu por culpa dos requeridos (fls. 133), o colégio embargante decidiu inovar radicalmente em sua argumentação nas razões de apelação em inegável afronta ao disposto no art. 336 do Código de Processo Civil.
+ ..
+Registrado o silêncio sobre a matéria na contestação, consta nas razões recursais (fls. 163/169) que não houve a prestação de serviços (exceção de contrato não cumprido) e tese de enriquecimento ilícito. Porém, referidos temas não foram objeto de impugnação específica na aludida contestação e ocorreu a reiteração nesta oportunidade, via embargos de declaração.
+Incognoscível tal pleito pela indevida inovação recursal e afronta ao princípio da eventualidade ou da concentração. Não se pode ignorar que o suplicante permaneceu silente, na peça contestatória, acerca de suposta ausência de prestação de serviços. Não há qualquer menção acerca de referido fato que, como visto, foi considerado incontroverso na r. sentença.
+Após a prolação do v. decisum de mérito, o colégio recorrente alterou substancialmente a tese defensiva e passou a argumentar que a exclusão decorreu de quitação da fatura de forma parcial. Inadmissível que esta Colenda Câmara acolha a irresignação, por caracterizar risco de supressão de instância, afrontar o instituto da preclusão e fragilizar a ampla defesa e o contraditório pois não houve possibilidade de debate do tema em Primeiro Grau (e-STJ, fls. 256/258).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa ao art. 1.022 do CPC, o que buscam COLEGIO é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/11/2019, DJe 29/11/2019 - sem destaque no original).
+Não se verifica, portanto, a apontada negativa da prestação jurisdicional.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por oportuno, previno que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE DESFAZIMENTO CONTRATUAL CUMULADA COM COBRANÇA DE VALORES. AUSÊNCIA DE PRESTAÇÃO DE SERVIÇO E ENRIQUCIMENTO SEM CAUSA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
