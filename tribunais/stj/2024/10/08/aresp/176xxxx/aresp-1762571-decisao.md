@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por REPRETEC TRADING EIRELI-ME contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"AGRAVO DE INSTRUMENTO E AGRAVO INTERNO. EXECUÇÃO POR QUANTIA CERTA. LETRAS DE CÂMBIO. DECISÃO QUE RECONHECEU A POSSIBILIDADE DE PROSSEGUIMENTO DA EXECUÇÃO E DETERMINOU A CITAÇÃO DE TERCEIROS PARA EFETUAREM O PAGAMENTO DO VALOR EXEQUENDO. RECURSO DA EXECUTADA. ALEGAÇÃO DE IMPOSSIBILIDADE DO INGRESSO DE TERCEIROS NA EXECUÇÃO ANTES DO TRÂNSITO EM JULGADO DO INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AGRAVANTE QUE NÃO POSSUI LEGITIMIDADE PARA A DEFESA DE DIREITO ALHEIO EM NOME PRÓPRIO. ARTIGO 18, "CAPUT", DO CÓDIGO DE PROCESSO CIVIL DE 2015. ALÉM DO MAIS, DECISÃO JUDICIAL QUE NÃO TEVE O CONDÃO DE AFETAR A ESFERA JURÍDICA DA AGRAVANTE. AUSÊNCIA DE INTERESSE RECURSAL. PRESSUPOSTOS INTRÍNSECOS DE ADMISSIBILIDADE NÃO PREENCHIDOS. AINDA ASSIM, POSSIBILIDADE DE ENFRENTAMENTO DO MÉRITO RECURSAL, NO CASO CONCRETO, DIANTE DA APLICAÇÃO DO PRINCÍPIO DA PRIMAZIA DO JULGAMENTO DE MÉRITO. ARTIGOS 4º E 488, AMBOS DO CÓDIGO DE PROCESSO CIVIL DE 2015. SUSPENSÃO PREVISTA NO ARTIGO 134, § 3º, DO CÓDIGO DE PROCESSO CIVIL DE 2015 QUE SUBSISTE SOMENTE ATÉ A RESOLUÇÃO DO INCIDENTE. ARTIGO 136 DO CÓDIGO DE PROCESSO CIVIL DE 2015. INCIDENTE PROMOVIDO PELA AGRAVADA QUE JÁ FOI SOLUCIONADO NO PRIMEIRO GRAU, EM DECISÃO MANTIDA PELA CÂMARA EM SEDE DE JULGAMENTO DE AGRAVO DE INSTRUMENTO. AUSÊNCIA DE NOTÍCIA A RESPEITO DA ATRIBUIÇÃO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL INTERPOSTO NO INCIDENTE. PROSSEGUIMENTO DA EXECUÇÃO, COM A FORMAÇÃO DE LITISCONSÓRCIO PASSIVO, QUE SE IMPÕE. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO DESPROVIDO, FICANDO PREJUDICADO O AGRAVO INTERNO" (e-STJ fl. 186).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos arts. 5º, LV, da Constituição Federal, 18 e 134, § 3º , do Código de Processo Civil.
+Defende sua legitimidade e interesse em interpor o agravo de instrumento, bem como a necessidade de suspensão da execução até o término definitivo do incidente de desconsideração da personalidade jurídica.
+Por fim, requer a concessão de efeito suspensivo ao recurso.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Inicialmente, observe-se que compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual revela-se inviável invocar, nesta seara, a violação de dispositivos constitucionais pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+Sobre a ilegitimidade e ausência de interesse da agravante, o acórdão recorrido assim decidiu:
+"(..)
+A agravante é parte na execução, o que lhe confere legitimidade para recorrer das decisões judiciais nela proferidas. Por outro lado, não dispõe de legitimidade para discutir a questão referente ao ingresso de terceiros no feito antes do trânsito em julgado do incidente de desconsideração da personalidade jurídica, até porque não lhe é dado reivindicar direito alheio como se próprio fosse, conforme a regra consagrada no artigo 18 do Código de Processo Civil de 2015.
+O interesse recursal da agravante tampouco ficou evidenciado, uma vez que a ordem judicial não lhe foi direcionada (a decisão combatida limitou-se a determinar a citação de terceiros para pagarem a dívida exequenda, sob pena de conversão do arresto efetivado sobre seus bens nos autos do incidente de desconsideração da personalidade jurídica em penhora). Dito de outro modo e agora de maneira enfática: o pronunciamento judicial não afetou a esfera jurídica da agravante (inexiste prejuízo ou gravame), não se divisando qualquer utilidade a ser obtida por meio da via recursal. Muito pelo contrário: a reforma da decisão lhe colocaria em situação mais desvantajosa, pois, em se obstando o ingresso de terceiros na lide, eventuais atos de constrição praticados na execução voltar-se - iam, unicamente, contra o patrimônio da agravante (recorde-se que a suspensão prevista no artigo 134, §3º, do Código de Processo Civil de 2015 é imprópria, não atingindo o devedor originário, em relação ao qual o curso da execução não fica paralisado: agravo de instrumento n. 4028330-66.2018.8.24.0000, de Brusque, Sexta Câmara de Direito Civil, relator o desembargador André Luiz Dacol, j. em 5.11.2019)" (e-STJ fl. 192).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Com relação à suspensão da execução até o término definitivo do incidente de desconsideração da personalidade jurídica, o julgado local assim decidiu:
+"(..)
+No caso em tela, o incidente de desconsideração da personalidade jurídica promovido pela agravada (autos n. 0305366-43.2016.8.24.0033/01) foi resolvido por decisão proferida em 28.2.2018, cujos termos foram mantidos pela Câmara (agravo de instrumento n. 4015334-36.2018.8.24.0000). Logo, porque o incidente já foi solucionado, a suspensão do curso da execução não se justifica mais.
+Não se ignora que fora interposto recurso especial contra a decisão proferida pela Câmara naquele incidente. Mas, a singela interposição de recurso especial, por si só, não suspende a eficácia do acórdão impugnado (artigo 995, "caput", do Código de Processo Civil de 2015). Além do mais, apesar de ter sido formulado pedido de efeito suspensivo nas razões recursais, conforme faculta o artigo 1.029, § 5º, do Código de Processo Civil de 2015, o recurso especial não foi admitido pela 3a vice-presidência deste Tribunal de Justiça. E, a despeito da subsequente interposição de agravo em recurso especial, tal recurso ainda não foi julgado, estando pendente de apreciação pelo Superior Tribunal de Justiça até o presente momento, conforme revela a consulta ao portal eletrônico daquela Corte. Com efeito, uma vez que o incidente foi resolvido e que não se tem notícia da atribuição de efeito suspensivo ao recurso especial, inexiste óbice ao prosseguimento regular do curso da execução, com a formação do litisconsórcio passivo" (e-STJ fls. 194/195).
+Tais fundamentos, entretanto, não foram objeto de impugnação pela parte recorrente, atraindo a incidência da Súmula nº 283/STF, por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"CIVIL E RESPONSABILIDADE CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS N. 282 E 356/STF. DISPOSITIVOS VIOLADOS. CONTEÚDO NORMATIVO. INSUFICIÊNCIA. SÚMULA N. 284/STF. SUBSISTÊNCIA DE FUNDAMENTO INATACADO. SÚMULA N. 283/STF. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N.7/STJ. RECURSO DESPROVIDO.
+(..)
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+5. Recurso especial não conhecido."
+(REsp 1.740.077/CE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 14/5/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZADA. CONTRATO DE FRANQUIA. EXIBIÇÃO DE DOCUMENTOS. REQUERIMENTO ADMINISTRATIVO PRÉVIO E IDÔNEO. NECESSIDADE. EXCEÇÃO. DOCUMENTO COMUM ÀS PARTES. SÚMULA Nº 83/STJ. DISTINGUISHING REALIZADO. NECESSIDADE DO DOCUMENTO. SÚMULA Nº 7/STJ. FUNDAMENTOS. NÃO IMPUGNADOS. SUFICIÊNCIA. SÚMULA Nº 283/STF.
+(..)
+4. A ausência de impugnação de fundamento suficiente para manter o acórdão recorrido incólume atrai o óbice da Súmula nº 283/STF.
+5. Agravo interno não provido."
+(AgInt no AREsp 1.976.621/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 3/11/2023)
+Registre-se, outrossim, que, consoante iterativa jurisprudência desta Corte, a incidência de óbices sumulares impedem a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AO ART. 489 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO. SÚMULA N. 283/STF. ANÁLISE DE DISSÍDIO PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de prequestionamento da matéria suscitada no recurso especial, embora opostos os embargos de declaração, obsta o seu conhecimento, nos termos da Súmula n. 211/STJ.
+2. A ausência de impugnação, no recurso especial, de fundamento autônomo e suficiente para manutenção do acórdão recorrido atrai, por analogia, o óbice da Súmula 283/STF.
+3. Consoante entendimento firmado neste Superior Tribunal, os mesmos óbices impostos à admissão do recurso especial pela alínea a do permissivo constitucional impedem a análise pela alínea c, prejudicando o exame do dissenso jurisprudencial.
+4. Agravo interno desprovido."
+(AgInt no AREsp 2.540.477/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 15/8/2024 - grifou-se)
+O pedido de concessão de efeito suspensivo ao recurso fica prejudicado pelo presente julgamento.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
