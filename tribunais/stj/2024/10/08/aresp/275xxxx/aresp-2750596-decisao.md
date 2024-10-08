@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por PROJETO IMOBILIÁRIO RLC 02 LTDA. e OUTRA contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 51):
+AGRAVO DE INSTRUMENTO. AÇÃO DE REPARAÇÃO POR DANOS EM FASE DE EXECUÇÃO. ALEGAÇÃO DAS AGRAVANTES DE QUE NÃO PRATICARAM ATO QUE PUDESSE CARACTERIZAR A INTENÇÃO DE ATENTAR À DIGNIDADE DA JUSTIÇA. AGRAVO INSUBSISTENTE. AGRAVANTES QUE, NA CONDIÇÃO DE EXECUTADAS, INDICARAM BEM IMÓVEL À PENHORA, E QUE, INSTADAS A APRESENTAREM A RESPECTIVA MATRÍCULA IMOBILIÁRIA, NÃO O FIZERAM, COMO TAMBÉM NÃO HAVIAM INDIVIDUALIZADO O BEM, A BEM DEMONSTRAR A AUSÊNCIA DE SERIEDADE NA INDICAÇÃO DO BEM, O QUE CARACTERIZA O DOLO PROCESSUAL E, EM CONSEQUÊNCIA, ATO QUE REVELA O OBJETIVO DE AS AGRAVANTES ATENTAREM À DIGNIDADE DA JUSTIÇA, BUSCANDO POR MEIO ILEGÍTIMO DIFICULTAR A EFETIVIDADE DA EXECUÇÃO. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO DESPROVIDO. SEM A FIXAÇÃO DE ENCARGOS DE SUCUMBÊNCIA.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 60-69), os recorrentes apontaram violação ao art. 774, IV, do CPC/2015.
+Defenderam a inexistência de ato atentatório à dignidade da justiça, devendo ser afastada a multa imposta pelo magistrado de primeiro grau.
+Foram apresentadas contrarrazões (e-STJ, fls. 457-463).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O Tribunal de origem, ao manter a multa pela prática de ato atentatório à dignidade da justiça, consignou o seguinte (e-STJ, fls. 52-53, sem grifo no original):
+Conquanto o CPC/2015 tenha abandonado a figura do "processo ético", que no CPC/1973 contava com toda uma estrutura legal que conferia eficaz proteção, isso não significa dizer que no novel Código não permaneçam algumas figuras que buscam impedir que a parte se utilize de estratagemas ilícitos ou ilegítimos, como fizeram as agravantes ao indicarem bem à penhora, deixando de apresentar a matrícula imobiliária depois que o juízo de origem as instou a isso, tudo como forma ilegítima de dificultar a efetividade da execução.
+A ausência da individuação do bem imóvel e da apresentação da matrícula bem evidencia a ausência de seriedade na indicação do bem à penhora, a demonstrar que o objetivo das agravantes era tão somente o de dificultar a efetividade da tutela executiva, causando prejuízos à esfera jurídica do credor, que vem no tempo inutilmente despendido um grande fator para esse prejuízo.
+Agiu com inteiro acerto o juízo de origem, pois, ao reconhecer que as agravantes agiram com dolo processual e que essa conduta no processo configura ato atentatório à dignidade da justiça, aplicando-lhes a multa prevista no CPC/2015.
+Destarte, reverter a conclusão da Corte local para acolher a demanda recursal, quanto à inexistência de ato atentatório à dignidade da justiça, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS. APLICAÇÃO DE MULTA PROCESSUAL POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
