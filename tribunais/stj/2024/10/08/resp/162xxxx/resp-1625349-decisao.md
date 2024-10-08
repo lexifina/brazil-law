@@ -1,0 +1,19 @@
+DECISÃO
+Em análise, recurso especial interposto por MARCO ANTONIO ABREU FLORENTINO, contra o acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. CELETISTA. TEMPO ESPECIAL. RECONHECIMENTO. DECISÃO DO STF. REPERCUSSÃO GERAL. ARE 703550/PR. ART. 543 - B , § 3º, DO CPC. ADEQUAÇÃO.
+1. Julgamento proferido para fins de adequação ao entendimento firmado pelo Col. STF, no ARE nº 703550/PR, em sede de Repercussão Geral.
+2. O Col. STF adotou o entendimento de não ser possível a conversão de tempo de serviço especial prestado na atividade de magistério em tempo de serviço comum, após a Emenda Constitucional 18/81, publicada em 09 de julho de 1981.
+3. Na hipótese do período pretendido (de 01.03.1980 a 16.12.1983), o Autor faz jus apenas à conversão do tempo de serviço anterior à EC 18/81, ou seja, de 01.03.1980 a 08/07/1981, uma vez que a atividade de professor encontra-se elencada no código 2.1.4 do Anexo do Decreto n. 53.831/64, como atividade penosa.
+4. Acórdão que deve ser ajustado, nos termos do art. 543-B, § 3º, do CPC, para afastar o reconhecimento do período de 09.07.1981 a 16.12.1983, como especial, permanecendo a Apelação e a Remessa Necessária providas, em parte, esta em maior extensão (fl. 514).
+No recurso especial, o recorrente aponta negativa de vigência ao art. 535 do CPC/73, pois "o acórdão foi omisso no tocante ao debate de apontada contradição referente à periculosidade/insalubridade da atividade. A contradição é a seguinte: se o EPI tem a capacidade de neutralizar a periculosidade e/ou insalubridade da atividade desenvolvida, conforme sustentado no respeitável acórdão, que sentido existe no pagamento ao empregado do adicional de periculosidade/insalubridade " (fl. 445).
+Alega divergência jurisprudencial em relação ao argumento de que, "tal qual restou assentado no precedente do Supremo Tribunal Federal (ARE nº 664335/SC), no qual se analisou hipótese de exposição do trabalhador a ruído acima dos limites legais de tolerância, quando se trata de agentes agressores biológicos (vírus, bactérias, vibriões etc.) "a declaração do empregador, no âmbito do Perfil Profissiográfico Previdenciário (PPP), da eficácia do EPI, não descaracteriza o tempo de serviço especial para aposentadoria"" (fl . 445).
+Requer, ao final, o provimento do recurso.
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação ao art. 535, II, do CPC/73, o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+No que diz respeito ao mérito, cabe ressaltar que a admissibilidade do recurso especial, tanto pela alínea a, quanto pela alínea c do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF.
+No caso, nas razões do recurso especial, a parte recorrente deixou de indicar precisamente os dispositivos de lei federal que teriam sido violados, caracterizando, assim, deficiência na fundamentação recursal, o que impede a análise da controvérsia.
+Nesse sentido: "O recurso excepcional possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão" (AgInt no AREsp n. 2.372.506/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/10/2023, DJe de 26/10/2023).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Intimem-se.
+EMENTA
