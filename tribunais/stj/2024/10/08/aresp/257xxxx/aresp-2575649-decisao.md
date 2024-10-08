@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE MINAS GERAIS contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. EMPRESA DE PEQUENO PORTE. INTEGRANTE DO SIMPLES NACIONAL. CREDITAMENTO DE VALORES PAGOS ATÉ DEZEMBRO DE 2014 A TÍTULO DE ICMS ST REFERENTES ÀS AQUISIÇÕES DE MERCADORIAS RELACIONADAS NO ITEM 43 DA PARTE 2 DO ANEXO XV DO RICMS/02 UTILIZADAS NO PREPARO DE SANDUÍCHES E ALIMENTOS. POSSIBILIDADE. DEFERIMENTO DO PEDIDO. CONFIRMAÇÃO DA SENTENÇA.
+Opostos embargos de declaração, foram rejeitados; mas, por força de provimento de recurso especial, foram rejulgados para sanar omissão.
+A parte recorrente alega violação do art. 13, § 1º, inc. XIII, "a", e do art. 23 da Lei Complementar n. 123/2006 e do art. 166 do Código Tributário Nacional - CTN.
+Com contrarrazões da parte recorrida, o recurso não foi admitido porque encontraria óbice nas Súmulas 280, 282 e 283 do STF, o que deu ensejo à interposição do Agravo em Recurso Especial, no qual se defende o preenchimento dos requisitos necessários à admissão do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Preenchidos os requisitos de admissibilidade, o agravo deve ser conhecido; porém, revela-se correta a decisão de inadmissão, pois não houve mesmo o prequestionamento do art. 166 do Código Tributário Nacional -CTN, uma vez que o acórdão se limitou ao tema do acesso ao judiciário; ao tempo em que está vinculada à legislação estadual a fundamentação adotada pelo órgão julgador a quo para afirmar a possibilidade de a parte autora ter direito a crédito de ICMS. Portanto, as Súmulas 280 e 282 do STF são mesmo óbices ao conhecimento do recurso.
+A propósito, vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 213/221):
+A controvérsia existente nos autos cinge-se em analisar se a parte autora faz jus ao creditamento/compensação de ICMS-ST pago em período anterior a 2014 e referente aos produtos relacionados no item 43 da Parte 2 do Anexo XV do RICMS/02.
+No âmbito da inicial, a requerente aduziu que por estar inserida no Simples Nacional, até dezembro de 2014, pagou e não obteve creditamento de ICMS referente às aquisições de mercadorias relacionadas no item 43 da Parte 2 do Anexo XV do RICMS/02, utilizadas no preparo de sanduíches e alimentos.
+Nota-se que o réu, no contexto de sua peça de defesa e nas razões recursais afirmou que:
+A possibilidade de restituição nestes casos sempre foi admitida por esta Secretaria de Fazenda de forma pacífica e rotineira, tendo sido inclusive objeto de resposta a diversas consultas de contribuintes, como por exemplo as de nº 324/2014, 107/20141.
+É importante observar que a legislação pertinente a esta situação foi alterada de forma a evitar que os referidos contribuintes arcassem com o custo do recolhimento do imposto a título de substituição tributária, o qual seria passível de restituição posteriormente.
+Dessa forma, é certo que o próprio apelante confirmou que, com relação aos tributos pagos até 2014, é possível ao contribuinte obter a devolução do montante na esfera administrativa, sendo certo, inclusive, que após essa data, foi realizada uma modificação na Lei para corrigir o equívoco e evitar os pedidos de restituição posteriores. Portanto, feitas tais considerações, entendo que a sentença deve ser confirmada pelos seus próprios fundamentos
+ ..
+Logo, coaduno com os termos da fundamentação transcrita, mormente considerando que o próprio réu, como demonstrado, afirma que o pleito da parte autora é reconhecido pela autoridade tributante na esfera administrativa. O Estado deverá arcar com as custas e honorários recursais que serão fixados na liquidação de sentença, nos termos do art. 85, § 4º, ll e §11, do CPC.
+E, por ocasião do rejulgamento dos embargos de declaração, o órgão julgador acresceu (fls. 362/369):
+Pois bem, passo à reanálise da questão relativa ao interesse de agir do autor, visto que mostrou-se omissa, conforme julgamento do Recurso Especial.
+Entendo que o interesse de agir autor/embargado está presente, ao menos, por dois motivos. A uma, porque, em matéria tributária, o requerimento administrativo não é condição para o acesso ao Poder Judiciário.
+O excerto invocado pelo Estado de Minas Gerais (RE 63.1240), relaciona-se com questões previdenciárias, muito específicas, nas quais é necessário prévio acionamento no órgão previdenciário para a obtenção de benefícios.
+O art. 5º, XXXV, da Constituição Federal, é expresso ao erigir garantia ao cidadão que a lei não excluirá a apreciação pelo Poder Judiciário de lesão ou ameaça a direito, de modo que a previsão de requerimento administrativo existente no art. 10, §1º, da Lei Complementar nº 87/96, não constitui exigência oponível pela Fazenda Pública ao contribuinte sob pena de extinção da ação.
+A duas, porque, a pretexto de autorizar a compensação, o Estado de Minas Gerais criou mais obstáculos que facilidades, conforme se vê do formulário anexado nos autos da apelação ( edoc.8), onde pode-se notar que a situação fática aqui tratada sequer está contemplada.
+A três, porque o Estado de Minas Gerais impugnou e continua impugnando a pretensão, opondo questões meritórias à pretensão da parte, sendo inevitável concluir pela reunião dos requisitos de necessidade e utilidade do provimento jurisdicional buscado.
+Assim, é possível concluir que o Estado de Minas Gerais não acata o pedido de restituição da forma como o quer o autor, de modo que a falta de requerimento extrajudicial não impede a discussão que ora se trava junto ao Poder Judiciário. Rejeito a alegação de falta de interesse de agir, data venia.
+Fundado nestas considerações, acolho parcialmente os embargos de declaração para sanar a omissão apontada, contudo, sem produzir efeitos infringentes.
+No contexto, portanto, correta a decisão de inadmissão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial; e majoro em 1% a verba honorária de sucumbência arbitrada nas instâncias ordinárias, respeitados os limites e os critérios previstos nos §§ 2º, 3º e 11 do art. 85 do CPC/2015.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ICMS. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
