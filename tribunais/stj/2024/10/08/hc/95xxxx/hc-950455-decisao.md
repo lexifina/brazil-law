@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Antonio Carlos Landim contra o ato coator proferido pela Terceira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que, nos autos do Agravo em Execução n. 0008055-89.2024.8.26.0521, deu provimento à insurgência ministerial, determinando o retorno do paciente ao regime semiaberto e a realização do exame criminológico (Execução n. 0015702-91.2022.8.26.0041 - 0008341-86.2023.8.26.0041, DEECRIM 10ª RAJ - Sorocaba/SP).
+A defesa alega, em síntese, que paciente adimpliu os requisitos para progressão ao regime aberto, pleito esse deferido pelo Juízo da execução.
+Sustenta que o Tribunal local determinou a realização do exame criminológico com base em fundamentação genérica, calcada na gravidade abstrata do delito, na longa pena a cumprir e na obrigatoriedade do exame com fulcro na nova redação do § 1º do art. 112 da LEP, conferida pela Lei n. 14.483/2024 (fl. 5).
+Afirma que o paciente possui bom comportamento e que a fundamentação utilizada foi genérica, atraindo a incidência da Súmula 439/STJ.
+Pede, em caráter liminar e no mérito, o restabelecimento da decisão de primeiro grau (fls. 3/9).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a viabilidade do presente writ.
+O Tribunal local proveu a insurgência ministerial aos seguintes termos (fls. 20/21):
+Dessa forma, não há falar-se em inconstitucionalidade da lei, sendo a exigência do exame criminológico plenamente justificável e imprescindível para garantir uma análise mais aprofundada e precisa do requisito subjetivo, necessário para a progressão de regime.
+Aliás, a simples apresentação de um atestado de bom comportamento carcerário não é suficiente para assegurar o preenchimento do requisito subjetivo. Sendo assim, o exame é um instrumento adicional que permite ao magistrado maior segurança para decidir, eis que oferece melhor aferição nos casos em que existam reais dúvidas acerca da condição do executado, especialmente no caso concreto em que o agravado vem reincidindo há décadas.
+Portanto, somente com o acostamento do exame criminológico satisfatório serão sanadas as reais e concretas dúvidas acerca do preenchimento ou não do requisito subjetivo pelo agravado para progressão ao regime aberto.
+Preservado o entendimento do douto magistrado, é prudente e razoável uma avaliação mais detida do mérito subjetivo do agravado, em razão das dúvidas acerca da precocidade da benesse, sopesando-se a viabilidade da concessão do regime aberto em conjunto com os demais elementos.
+Dentro dessa ótica, patente que a submissão do agravado ao exame criminológico é imprescindível, a par de obrigatória após a alteração legislativa citada.
+A Sexta Turma desta Corte, no RHC n. 200.670/GO, de minha relatoria, DJe de 23/8/2024, decidiu que a exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14.843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+Ademais, esta Corte possui entendimento sumulado de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+É assente na jurisprudência do Superior Tribunal de Justiça que não há constrangimento ilegal na exigência de exame criminológico, mesmo após a edição da Lei n. 10.792/2003, desde que fundamentada a decisão na gravidade concreta do delito ou em dados concretos da própria execução (AgRg no HC n. 302.033/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014). Na mesma linha, HC n. 523.840/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/10/2019; e AgRg no HC n. 562.274/SP, Ministro Felix Fischer, Quinta Turma, DJe 28/5/2020.
+No entanto, nem a gravidade abstrata dos crimes cometidos, nem a longa pena a cumprir ou ainda a reincidência, são fatores que indicam a necessidade da perícia, é o que se depreende da leitura destes precedentes, por exemplo: HC n. 620.368/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2020; AgRg no HC n. 702.817/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/11/2021; e HC n. 436.653/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/3/2018.
+É nítida a existência de ilegalidade na espécie, a ponto de justificar a concessão da ordem, pois não foram indicados elementos concretos da execução para impor a realização de exame criminológico.
+Ante o exposto, concedo liminarmente a ordem a fim de cassar o acórdão, restabelecendo, por consequência, a decisão do Juízo da execução.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. IMPOSIÇÃO DE EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DOS CRIMES PELOS QUAIS O APENADO CUMPRE PENA E LONGA PENA A ADIMPLIR. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
