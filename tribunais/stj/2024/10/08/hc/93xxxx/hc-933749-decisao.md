@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSUE COSTA SA, impugnando-se o acórdão proferido pelo Tribunal de Justiça do Maranhão que denegou a ordem no HC n. 0813671-67.2024.8.10.0000 (fls. 35/40) e manteve a prisão preventiva decretada pelo Juízo de Direito da 2ª Vara da comarca de Rosário/MA, em razão da suposta prática dos crimes de associação criminosa, falsificação de documentos públicos, falsidade ideológica e uso de documento falso (Processo n. 0801285-48.2024.8.10.0115 - fls. 29/33).
+Daí a presente impetração, em que se alega, essencialmente, a inexistência de fundamentação idônea no decreto prisional, uma vez que se baseia apenas na gravidade abstrata do crime.
+Aduz-se que o paciente é primário e o crime foi cometido sem violência ou grave ameaça à pessoa, sendo cabível a aplicação das medidas cautelares diversas da prisão.
+Sustenta-se que não estão presentes os requisitos previstos no art. 312 do Código de Processo Penal.
+Requer-se a revogação do decreto prisional, com ou sem aplicação de medidas cautelares alternativas.
+Indeferida a liminar (fls. 76/79) e solicitadas informações, essas foram prestadas pelas Instâncias de origem (fls. 84/87 e 96/304).
+O Ministério Público Federal, em seu parecer (fls. 96/103), opinou pelo não conhecimento do writ.
+É o relatório.
+In casu, não verifiquei constrangimento ilegal apto a ensejar a concessão da ordem.
+Observo que as Instâncias de origem bem fundamentaram a necessidade da prisão cautelar diante da gravidade dos crimes atribuídos ao paciente, que possui diversas procurações públicas outorgadas em seu nome, que segundo informações obtidas do respectivo cartório teriam sido outorgadas mediante uso de documento falso, sendo que, por ocasião do flagrante de outros corréus, o acusado fugiu da polícia no momento em que tentava praticar uma nova fraude (tornar-se representante, de forma ilegal, de aposentados, para fins de obtenção de empréstimos), sendo que seu nome apareceu em todas as procurações juntadas pela autoridade policial (fl. 30 - grifo nosso).
+Conforme consta dos autos, a periculosidade do agente é evidenciada diante da formação de uma associação criminosa com o fim de produzir documentos falsificados, especialmente de idosos (público hipervulnerável), para então elaborar procurações públicas e realizar o saque de benefícios previdenciários.
+Além disso, das informações prestadas pelo Juiz de piso (fl. 89 - grifo nosso) e da folha de antecedentes criminais acostada aos autos, verifica-se que, apesar de o réu ser primário, há indícios da sua habitualidade delitiva (a certidão de antecedentes criminais registra ao menos 10 (dez) ocorrências, dentre Ações Penais e TCO"s - ID 124675351).
+Com efeito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública. Ademais, é motivação legítima à preservação da custódia cautelar a preocupação com o risco que a liberdade do Investigado pode proporcionar à aplicação da lei penal (AgRg no HC n. 814.462/BA, Ministra Laurita Vaz, Sexta Turma, julgado em 3/10/2023, DJe 10/10/2023).
+No mesmo sentido: AgRg no RHC n. 165.907/RS, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/11/2022, DJe 1º/12/2022).
+Dessa forma, não se verifica qualquer ilegalidade na decisão que decretou a prisão preventiva do paciente, uma vez que resta necessária a custódia cautelar para a garantia da ordem pública e para evitar a reiteração delitiva.
+E como bem salientado pelo acórdão recorrido, considerando a necessidade concreta da manutenção da custódia cautelar do ora paciente para a preservação da ordem pública, torna-se inviável a aplicação das medidas cautelares diversas da prisão previstas na Lei n. 12.403/2011, pois estas se mostram insuficientes e inadequadas para a prevenção e repressão dos crimes pelos quais o paciente foi preso, conforme o art. 282, § 6º, do Código de Processo Penal (fl. 38).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA, FALSIFICAÇÃO DE DOCUMENTOS PÚBLICOS, FALSIDADE IDEOLÓGICA E USO DE DOCUMENTO FALSO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. REITERAÇÃO DELITIVA. FUGA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
