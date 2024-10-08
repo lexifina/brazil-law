@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interno interposto por ALDO MÁRIO DE FREITAS LOPES (ALDO), contra decisão da Presidência do STJ, que não conheceu do agravo em recurso especial, em virtude da ausência de impugnação à falta de cotejo analítico e de similitude fática.
+Nas razões do presente inconformismo, defendeu que impugnou os fundamentos da decisão de inadmissibilidade (e-STJ, fls. 374/378).
+Foi apresentada contraminuta (e-STJ, fls. 381/389).
+É o relatório.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 369/370 e passo a novo exame do agravo em recurso especial interposto às e-STJ, fls. 302/310.
+Do agravo em recurso especial
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, ALDO alegou a violação dos arts. 489, §1º, V, 1.022, II, do NCPC, ao sustentar que (1) o acórdão recorrido foi omisso quanto à orientação firmada no Tema nº 677 do STJ; (2) o acórdão vergastado foi contraditório quanto à ocorrência de penhora ou depósito voluntário; (3) o STJ definiu em recurso repetitivo que a penhora de ativos financeiros não implica imediata entrega do dinheiro ao credor; (4) não houve quitação da dívida; e (5) não foi impugnado o cumprimento de sentença (e-STJ, fls. 133/144).
+(1) e (2) Da omissão e da contradição
+O Tribunal estadual entendeu que não seria aplicável o Tema nº 677 do STJ, na medida em que houve o levantamento da quantia e reconhecido o excesso de execução, em decisão transitada em julgado. Confira-se:
+Afirma o embargante que a dívida em execução não se encontra quitada, pois o depósito coercitivo serviu apenas para oportunizar os embargos executórios, mas não a sua quitação.
+Pois bem. Muito embora tenha havido a penhora da quantia discutida nos autos (fl. 350), o executado, voluntariamente depositou na conta judicial o valor de R$ R$ 253.764,60 em 03/02/2004, conforme se verifica às fls. 355, sendo que o exequente mediante caução, levantou a referida quantia em 12/02/2004 (fls.405).
+Foram opostos embargos do devedor (001.04.102256-5), parcialmente acolhidos, definindo que o valor da dívida era de 199.203,89, até o dia da liberação do alvará ao embargado, reconhecendo excesso de execução no valor de R$ 54.560,71.
+O exequente/embargado, apelou da referida sentença, sendo que este E. Tribunal de Justiça por unanimidade, negou provimento ao recurso, conforme acórdão (fl.735/739), sendo que o referido acórdão transitou em julgado em 02/07/2020 (fl.760). Colha-se:
+ ..
+Ressalta-se que não se ignora a tese fixada pelo STJ - Tema 677 ".. que o depósito judicial em garantia do Juízo - seja efetuado por iniciativa do devedor, seja decorrente de penhora de ativos financeiros - não implica em imediata entrega do dinheiro ao credor, tampouco enseja quitação, não se opera a cessação da mora do devedor. Consequentemente, contra ele continuarão a correr os encargos previstos no título executivo, até que haja efetiva liberação em favor do credor."
+Contudo, no presente caso, houve levantamento dos valores depositados na conta judicial, havendo ainda, posterior reconhecimento de excesso de execução, por decisão transitada em julgado, situação distinta daquela aplicada pelo tema 677 do STJ.
+Logo, havendo reconhecimento de excesso a execução com trânsito em julgado, e tendo o exequente efetuado o levantamento dos valores corrigidos, imediatamente após o deposito na conta judicial, não há que se falar em prosseguimento do cumprimento de sentença quanto aos juros de mora, mormente, quando a quantia levantada, foi reconhecidamente superior ao crédito perseguido (e-STJ, fls. 128/129).
+Ademais, não houve contradição, visto que no julgamento dos embargos de declaração o Tribunal estadual esclareceu que, embora tenha havido a penhora da quantia à e-STJ, fl. 350, o executado depositou voluntariamente na conta judicial o montante de R$ 253.764,60 (duzentos e cinquenta e três mil, setecentos e sessenta e quatro reais e sessenta centavos) à e-STJ, fl. 355.
+De todo modo, a despeito da natureza do depósito, se voluntário, se coercitivo, o fato é que a Corte estadual ponderou que o levantamento da quantia e o reconhecimento do excesso de execução, em decisão transitada em julgado, evidenciava o distinguishing entre o precedente firmado em recurso repetitivo e o caso concreto.
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA COLETIVA PROMOVIDA PELO IDEC EM NOME DE POUPADORES ESPECÍFICOS E DETERMINADOS. REPRESENTAÇÃO PROCESSUAL. INCIDÊNCIA DA REGRA DO PROCESSO CIVIL TRADICIONAL. NECESSIDADE DE RECOLHIMENTO PRÉVIO DAS CUSTAS JUDICIAIS DO PROCESSO DE LIQUIDAÇÃO DE SENTENÇA. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. No presente caso, não se evidencia a existência da omissão e da contradição apontadas, porquanto decididas, clara e devidamente fundamentadas, as questões submetidas a julgamento pela parte embargante, sobretudo no que diz respeito à necessidade de recolhimento das custas judiciais na fase de liquidação de sentença intentada pelo Idec, na condição de representante processual, em nome de beneficiários específicos de determinados, equiparando-se, portanto, à liquidação individual de sentença coletiva, a qual se sujeita à regra geral disposta na lei processual acerca da responsabilidade pelo pagamento das despesas processuais.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.637.366/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 22/02/2022, DJe 03/03/2022)
+Afasta-se, portanto, a alegada violação.
+De outro turno, rever as conclusões quanto ao excesso de execução, à quitação da dívida e ao trânsito em julgado da decisão que a reconheceu demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+Por fim, como explicitado no acórdão vergastado, o levantamento da quantia depositada e o reconhecimento do excesso de execução inviabilizam a aplicação do Tema nº 677 do STJ, ante a evidente falta de similitude fática.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. RECONSIDERAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. OMISSÃO. AUSÊNCIA. COISA JULGADA. LEVANTAMENTO E EXCESSO DE EXECUÇÃO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
