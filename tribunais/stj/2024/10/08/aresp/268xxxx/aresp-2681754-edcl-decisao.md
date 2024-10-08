@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por EDMILTON CESAR GIACCHETO e EDSON DE JESUS GIACCHETO à decisão de fls. 116/117, que não conheceu do recurso.
+Sustenta a parte embargante:
+Nesse cenário, saliente-se que no momento de interposição do referido recurso foi amplamente demonstrado o preenchimento de todos os seus requisitos de admissibilidade, inclusive o recolhimento das custas recursais.
+O Recurso Especial interposto pelo embargante foi inadmitido na qual foi interposto Agravo em Recurso Especial, para que Vosso Desembargador analisasse o referido recurso.
+No entanto, foi proferido despacho para que o embargante recolhesse as custas do Recurso Especial, haja vista que não restou comprovado sua hipossuficiência e ante a ausência de deferimento nos autos principais, conforme vemos no trecho abaixo:
+ ..
+Após, o embargante providenciou o recolhimento das custas em dobro, conforme observa-se nos autos.
+No entanto, para a surpresa do ora Embargante, sem qualquer informação quanto a qualquer correção necessária nos autos, esse M. Juízo proferiu decisão monocrática determinando a inadmissibilidade do Recurso Especial outrora interposto, tendo em vista sua deserção por erro do número de processos preenchido na guia, sem qualquer oportunização da parte Recorrente, ora embargante, em sanar qualquer vício.
+Sendo assim, é evidente que, apesar do brilhantismo habitual, o Douto Julgador ao proferir a citada decisão monocrática acabou recaindo em erro de fato, haja vista que não oportunizou a parte para correção do número da guia recolhida.
+Desse modo, vem a ora Peticionante opor os presentes Embargos de Declaração a fim de ver sanado o referido vício, alterando o proveito jurisdicional para determinar retomada do curso do Recurso Especial outrora interposto.
+Nesse cenário, cabe destacar que o vício no preparo se deu apenas em decorrência de um erro material no preenchimento da guia de recolhimento das custas recursais, ocasionado, exclusivamente, pela confusão do número do processo originário.
+Doutro modo, caberia a intimação do Agravante para regularização do recolhimento, nos termos do artigo 511, §2º, do CPC, abaixo:
+ ..
+Imprescindível destacar, ainda, que o equívoco incorrido não traz reais prejuízos a este Egrégio Tribunal, tendo em vista que o valor relativo às custas processuais foram inequivocadamente recolhidos.
+Não sobejam dúvidas, Douto Julgador, que estamos diante de um erro material passível correção, não podendo o ora Embargante ser prejudicado com a decretação de inadmissibilidade do Recurso Especial por ela interposto, apenas pelo fato de um erro material apenas (fls. 122/126).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada que o Recurso Especial não foi instruído com a guia de custas e respectivo comprovante de pagamento, tampouco houve a comprovação, no momento da interposição, de que a parte litiga sob os efeitos da gratuidade de justiça.
+A mera alegação da parte, na petição recursal, de que é beneficiária da assistência judiciária gratuita não é suficiente para o afastamento da deserção, isto é, deve haver a comprovação dessa condição no ato da interposição do recurso, ou quando da intimação para regularização do vício. Nesse sentido: AgInt no AREsp 1545172/SP, Rel. Ministra Isabel Gallotti, Quarta Turma, DJe de 5.6.2020.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, porquanto, no que diz respeito ao novo recolhimento, a parte apresentou guia com a indicação errônea do "Número do Processo que Consta no Acórdão Recorrido".
+Registre-se que a Resolução de Custas desta Corte Superior prevê que no momento do preenchimento da GRU Cobrança, deverão ser indicadas obrigatoriamente as informações exigidas no formulário eletrônico disponível no sítio do Tribunal (http://www.stj.jus.br).
+Veja-se que o número constante no acórdão recorrido (2098885-15.2023.8.26.0000 - agravo de instrumento, fl. 39) é diferente do número que a parte preencheu na guia (1000055-03.2006.8.26.0430 - fl. 108). Este Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo - consistente na indicação errônea do processo na origem, caracteriza a sua deserção.
+Dessa forma, o recurso encontra-se deserto, pois "o entendimento do Superior Tribunal de Justiça firmou-se no sentido de considerar deserto o recurso especial interposto com o comprovante do preparo, mas sem o correto preenchimento das guias de recolhimento, inclusive, quanto à indicação do número do processo na origem". (AgInt no REsp 1877218/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 06.04.2021.)
+E, ainda, cumpre consignar que intimada a parte nos termos do art. 1.007, §§ 2º, 4º ou 7º, do CPC, não há previsão para que uma nova intimação seja realizada. Logo se a parte foi intimada nesta Corte e não providenciou a devida regularização, não há como dar nova oportunidade de sanar o óbice. Correta, portanto, a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Quanto ao pleito de tutela provisória, a admissibilidade da concessão de efeito suspensivo a Recurso Especial está intrinsecamente vinculada à possibilidade do seu êxito. No caso, considerando a rejeição destes Embargos Declaratórios, permanecendo o não conhecimento recurso, julgo prejudicada a concessão do efeito suspensivo.
+Publique-se.
+Intimem-se.
+ EMENTA
