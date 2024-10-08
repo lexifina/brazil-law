@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 54):
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. CRÉDITO SUJEITO A PAGAMENTO POR RPV. HONORÁRIOS ADVOCATÍCIOS DE EXECUÇÃO. FIXAÇÃO. CABIMENTO.
+Conforme jurisprudência consolidada pelo Superior Tribunal de Justiça, três situações distintas podem surgir acerca da fixação de honorários em execução movidas contra a Fazenda Pública, quais sejam: a) são devidos honorários advocatícios nas execuções contra a Fazenda Pública ajuizadas antes da publicação da MP nº 2.180/35; b) não são devidos honorários para as execuções contra a Fazenda Pública não embargadas e ajuizadas após a publicação da referida MP, nos casos em que o pagamento venha a ser efetuado por meio de precatório, ou seja, em que o valor da condenação seja superior ao equivalente a 60 salários mínimos; c) são devidos honorários nas execuções, inclusive não embargadas, cujo pagamento se efetue por RPV (valor até o equivalente a 60 salários mínimos) e que não tenha havido o cumprimento espontâneo da obrigação.
+Em se tratando de crédito cujo pagamento se sujeita a expedição de RPV (e não de precatório), a fixação de honorários independe de ter ou não havido impugnação. Precedentes desta Corte.
+Cabível a fixação de honorários advocatícios no âmbito de cumprimento de sentença tendo por objeto a cobrança de honorários de sucumbência arbitrados no processo de conhecimento por se tratarem da fases distintas. Precedentes desta Corte e do Superior Tribunal de Justiça.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1.022, II, do CPC/2015 ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, aduz ofensa aos artigos 85, § 7º, 523, caput e § 1º, 534, § 2º, 535, § 3º, II, e 1.036 do CPC/2015 sustentando, em suma, que não havendo mora da Fazenda Pública antes de 60 (sessenta) dias para pagamento de Requisições de Pequeno Valor (RPV), não há causalidade para arbitramento de honorários advocatícios no cumprimento de sentença.
+Com contrarrazões.
+Admitido às fls. 157-158, o recurso especial aportou nesta Corte Superior, oportunidade em que esta relatoria determinou a sua devolução ao Tribunal de origem para aguardar o julgamento do Tema 1.190/STJ.
+Os autos retornaram, então, ao órgão julgador que, considerando inexistir hipótese para retratação, manteve o acórdão anterior, assim manifestando-se (fl. 195):
+ADMINISTRATIVO. JUÍZO DE RETRATAÇÃO. TEMA 1190 DO STJ. CUMPRIMENTO DE SENTENÇA. CRÉDITO SUJEITO A PAGAMENTO POR RVP. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. MODULAÇÃO DOS EFEITOS.
+1. O Superior Tribunal de Justiça, no julgamento do Tema 1.190 (REsp 2.029.636), fixou a seguinte tese: Na ausência de impugnação à pretensão executória, não são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, ainda que o crédito esteja submetido a pagamento por meio de Requisição de Pequeno Valor - RPV.
+2. Foram modulados os efeitos definidos no representativo da controvérsia, no sentido de que a tese seja aplicada apenas aos cumprimentos de sentença iniciados após a publicação do acórdão, em 01/07/2024.
+3. Tratando-se de ação ajuizada anteriormente à publicação do acórdão, é inaplicável a eficácia vinculante da tese firmada no julgamento do Tema 1.190, de acordo com a modulação dos efeitos do julgado.
+Em novo juízo de admissibilidade, o Tribunal de origem determinou a remessa dos autos a esta Corte para apreciação das questões remanescentes.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A insurgência recursal não merece prosperar.
+Com efeito, não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+No mais, verifica-se que o Tribunal de origem concluiu pelo cabimento dos honorários advocatícios no cumprimento de sentença contra a Fazenda Pública, quando o valor do débito está sujeito a RPV, nos seguintes termos (fl. 59):
+ ..
+No caso dos autos, o valor dos honorários de sucumbência se sujeita a pagamento por RPV. Portanto, o cabimento da fixação de honorários na hipótese independe de ter ou não havido impugnação.
+ ..
+Referido entendimento encontra-se em conformidade com a jurisprudência desta Corte Superior que, ao julgar os Recursos Especiais 2.031.118/SP, 2.029.675/SP e 2.029.636/SP, mediante o rito dos recursos repetitivos, fixou a seguinte tese: "Na ausência de impugnação à pretensão executória, não são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, ainda que o crédito esteja submetido a pagamento por meio de Requisição de Pequeno Valor - RPV" (Tema 1.190).
+Ressalte-se que, face a modulação dos efeitos da mencionada tese, a mesma aplica-se apenas aos cumprimentos de sentença iniciados após a publicação do acórdão.
+Nesse contexto, considerando que o cumprimento de sentença é anterior a 01/07/2024, deve ser mantido o acórdão recorrido que entendeu pelo cabimento da verba honorária de sucumbência na execução de sentença contra a Fazenda Pública sujeita à expedição de RPV, ainda que não embargada.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão nego-lhe provimento. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. CUMPRIMENTO DE SENTENÇA. CRÉDITO SUJEITO A PAGAMENTO POR RPV. IMPUGNAÇÃO NÃO APRESENTADA. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
