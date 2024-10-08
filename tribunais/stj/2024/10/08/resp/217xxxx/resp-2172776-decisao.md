@@ -1,0 +1,17 @@
+DECISÃO
+Em análise, recurso especial interposto por INSTITUTO DE ASSISTENCIA A SAUDE DOS SERVIDORES PUBLICOS DO RIO GRANDE DO SUL contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. PREVIDÊNCIA PÚBLICA. IPE-SAÚDE. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. POSSIBILIDADE. ARTIGO 85, §8º-A, DO CPC. INCIDÊNCIA NO CASO CONCRETO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+- Nas causas referentes à saúde em que vencida a Fazenda Pública, o Superior Tribunal de Justiça admite o arbitramento dos honorários advocatícios por equidade, com fundamento no art. 85, §8º, do CPC, uma vez que nestas ações, em que se busca preservar, ao  m e ao cabo, a vida, não é possível mensurar o proveito econômico obtido pela parte demandante. Ademais, a tese assentada no julgamento do Tema 1076 pelo e. STJ permite a fixação da verba honorária por equidade, conforme ressalvado no item ii da tese: ii) apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+- Na hipótese dos autos, considerada a prolação da sentença posteriormente ao advento da Lei 14.365/2022, bem como as peculiaridades do caso concreto, impõe-se a majoração da verba honorária com fundamento no §8º-A do artigo 85 do CPC e à luz da Tabela de Honorários da OAB/RS.
+AGRAVO INTERNO DESPROVIDO.
+Nas razões recursais, o recorrente sustenta, além do dissídio jurisprudencial, violação ao art. 85, §§ 2º e 8º, do CPC, alegando a necessidade da redução dos honorários advocatícios, ressaltando que a tabela de honorários da OAB não é vinculante.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+No caso, o Tribunal de origem fixou os honorários de sucumbência por equidade, em razão do valor inestimável da causa, arbitrando seu valor em R$ 8.441,84 (oito mil, quatrocentos e quarenta e um reais e oitenta e quatro centavos), considerando a Tabela de Honorários da OAB/RS vigente no ano de 2023.
+Não se desconhece o entendimento desta Corte, "no sentido de que, na fixação de honorários por equidade, o magistrado deve observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil, não necessariamente adotá-los" (AgInt no AREsp 2.524.416/SP, relator Ministro Humberto Martins, Terceira Turma, DJe de 27/6/2024).
+Ocorre que a pretensão da parte recorrente relativa à alteração dos honorários fixados com base na equidade encontra óbice na Súmula 7/STJ. Isso porque, para alterar as conclusões do órgão julgador seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido, "o Tribunal Superior atua na sua revisão somente quando o valor for irrisório ou exorbitante, o que não se configura na presente hipótese. Assim, o reexame das razões de fato que conduziram o TJSC a tais conclusões significa usurpação da competência das instâncias ordinárias. Ademais, aplicar posicionamento distinto do proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado na via especial ante a incidência da Súmula 7/STJ" (AgInt no REsp 2.121.414/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 17/6/2024).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Intimem-se.
+ EMENTA
