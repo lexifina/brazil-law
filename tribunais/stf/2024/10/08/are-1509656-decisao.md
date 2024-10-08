@@ -1,0 +1,37 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Deusdete Fagundes de Brito, em face do acórdão do Tribunal de Justiça do Estado da Bahia assim ementado:
+
+    “PRESCRIÇÃO VIRTUAL -- TESE SEM ACEITAÇÃO NA JURISPRUDÊNCIA E SEM PREVISÃO NO ORDENAMENTO JURÍDICO PÁTRIO – PROVIMENTO DO RECURSO INTERPOSTO PELA ACUSAÇÃO. I – O réu foi denunciado pela prática dos crimes previstos nos arts. 89 e 90 da Lei 8.666/90 e incisos II e XIV, do art. 1º, do Decreto Lei 201/67. Com base em relatórios fornecidos pelo Tribunal de Contas do Município, o Parquet asseverou que o réu, na condição de Prefeito da cidade de Igaporã-BA, “deixou de realizar procedimentos licitatórios exigíveis, e/ou os fez na modalidade inadequada, beneficiando deliberadamente a terceiros, em prejuízo do erário municipal”. II – Todavia, o I. Julgador de origem reconheceu a extinção da punibilidade do Recorrido em relação a todos os crimes com base na tese de prescrição em perspectiva. III- Irresignado com a decisão, o Ministério Público pugna pela nulidade da sentença, alegando que é destituída de fundamento e afronta entendimento pacificado na jurisprudência. Nesse sentido, pleiteia o afastamento do “reconhecimento da prescrição da pretensão punitiva referente ao delito previsto no art. 1ª, inciso II, do Decreto Lei 201/67”. IV - Nesse cenário, a irresignação ministerial merece prosperar, uma vez que a ideia de prescrição virtual não foi encampada pelo ordenamento pátrio e tampouco goza de prestígio na jurisprudência dos tribunais superiores, conforme entendimento explanado na súmula 438 do STJ e em precedentes exarados pelo STF. Acerca do tema, é importante observar que o raciocínio exposto nos acórdãos citados no bojo do presente feito não decorre de precedentes comuns exarados pelas Cortes Superiores, pois trata-se de posicionamento delineado em uma Súmula do STJ e endossado pelo STF com reconhecimento de repercussão geral. Logo, a posição firmada no presente veredito colegiado está respaldada pela jurisprudência dos Tribunais Superiores e deve ser respeitada, sobretudo, diante da lógica do atual regime de precedentes a que estamos submetidos, de modo que a uniformização das decisões judiciais deve ser prestigiada como forma de consolidar o princípio da segurança jurídica. V – Sendo assim, julga-se pelo provimento do recurso acusatório, declarando-se a nulidade da sentença combatida e determinando-se o prosseguimento do feito no primeiro grau com relação aos fatos associados ao crime tipificado no art. 1º, inciso II do Decreto-Lei nº 201/1967.”
+
+    Na minuta sustenta-se violação dos arts. 5º, LXXVIII, e 93, IX, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Inicialmente, a matéria constitucional versada nos arts. 5º, LXXVIII e 93, IX, da Lei Maior não foi analisada pelas instâncias ordinárias, tampouco mencionada nos embargos de declaração opostos para satisfazer o requisito do prequestionamento. Aplicável, na hipótese, o entendimento jurisprudencial vertido nas Súmulas 282 e 356/STF: “é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão suscitada” e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”. Nesse sentido, o AI 743.256-AgR/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.3.2012 e o AI 827.894-AgR/RJ, Rel. Min. Marco Aurélio, 1ª Turma, DJe 07.11.2011, cuja ementa transcrevo:
+
+    “RECURSO EXTRAORDINÁRIO – PREQUESTIONAMENTO – CONFIGURAÇÃO – RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou tese explícita a respeito do fato jurígeno veiculado nas razões recursais, inviabilizado fica o entendimento sobre a violência ao preceito evocado pelo recorrente. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé.”
+
+    Ademais, não se visualiza a alegada violação do art. 93, IX, da Carta da República. Tal dispositivo exige que sejam fundamentadas, ainda que sucintamente, todas as decisões dos órgãos do Poder Judiciário, sem determinar, contudo, o exame pormenorizado de todas as alegações das partes, nem a correção dos fundamentos da decisão. No presente caso, o órgão julgador enfrentou as causas de pedir veiculadas, bem como motivou adequadamente sua decisão e solucionou a controvérsia aplicando o direito que entendeu pertinente na hipótese. Nesse sentido:
+
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes, Plenário Virtual, DJe 13.8.2010).
+
+    Noutro giro, verifica-se que o entendimento acolhido no acórdão impugnado está alinhado à jurisprudência desta Suprema Corte, no sentido da inadmissibilidade da extinção da punibilidade em virtude de prescrição da pretensão punitiva em perspectiva (Tema 239), razão pela qual não se verifica a alegada violação dos dispositivos constitucionais indicados nas razões recursais. Nesse sentido:
+
+    “AÇÃO PENAL. Extinção da punibilidade. Prescrição da pretensão punitiva “em perspectiva, projetada ou antecipada”. Ausência de previsão legal. Inadmissibilidade. Jurisprudência reafirmada. Repercussão geral reconhecida. Recurso extraordinário provido. Aplicação do art. 543-B, § 3º, do CPC. É inadmissível a extinção da punibilidade em virtude de prescrição da pretensão punitiva com base em previsão da pena que hipoteticamente seria aplicada, independentemente da existência ou sorte do processo criminal.” (RE 602527 QO-RG, Rel. Min. Cezar Peluso, Pleno, DJe 18.12.2009).
+
+    Ademais, a revisão das premissas adotadas pelo Tribunal de origem demandaria o exame da moldura fática delineada, o que torna oblíqua e reflexa eventual ofensa, a inviabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279/STF: “para simples reexame de prova não cabe recurso extraordinário”.
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 8 de outubro de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
