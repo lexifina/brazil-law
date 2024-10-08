@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 262):
+PREVIDENCIÁRIO. APELAÇÃO. PENSÃO POR MORTE DO GENITOR. TERMO INICIAL DOS ATRASADOS.
+1. A sentença manteve o ato administrativo que retroagiu a pensão por morte do genitor do autor apenas à data do requerimento administrativo. 2. A expressão pensionista menor, de que trata o art. 79 da Lei 8.213/1991, identifica uma situação que só desaparece aos dezoito anos de idade, nos termos do art. 5º do CC/2002. Precedentes do STJ.
+3. Apelação provida
+Opostos embargos de declaração, foram rejeitados (fl. 295)
+A ponta o recorrente violação aos arts. 1022, II, do CPC e 74 , I e II, da Lei n. 8.213/1991, sustentando, além de negativa de prestação jurisdicional, a "Impossibilidade de fixação do termo inicial da pensão por morte na data do óbito, para o menor relativamente incapaz, quando o requerimento administrativo foi formulado fora do prazo legal, contado a partir da data do implemento da idade de 16 anos" (fl. 304).
+Aduz que, " O acórdão recorrido reconheceu o direito da parte autora ao recebimento da pensão por morte desde a data do óbito do segurado, não obstante o requerimento administrativo tenha sido realizado mais de 30 dias após a parte autora completar 16 anos de idade" (fl. 305).
+Afirma que. "No caso em apreço, conforme registrado no acórdão recorrido, a parte autora contava com 04 anos e 04 meses de idade na data do óbito, tendo sido requerido o benefício em 03/02/2022, quando tinha 18 anos de idade e ainda não tinha completado 21 anos de idade" (fl. 306).
+Alega que, "como o requerimento administrativo foi realizado após a parte autora ter completado 16 anos, a data do início do benefício deve ser fixada de acordo com o art. 74, II da Lei nº 8.213/91, ou seja, na data do requerimento administrativo, não lhe favorecendo o disposto no art. 198 do Código Civil" (fl. 306).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 311/315.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação não comporta acolhida.
+De início, verifica-se não ter ocorrido ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência deste Superior Tribunal, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional (AgInt no AREsp 1678312/PR, Rel. Ministro Raul Araújo, , DJe 13/4/2021)
+Quanto ao mérito, o entendimento proferido pelo Tribunal de origem, se encontra alinhado à jurisprudência deste Superior Tribunal que considera irrelevante a prescrição do art. 74, I, da Lei n. 8.213/1991, fixando a DIB da pensão por morte na data do óbito do instituidor, em caso de o beneficiário ser incapaz.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PENSÃO POR MORTE. TERMO INICIAL DO BENEFÍCIO. REQUERIMENTO FORMULADO APÓS O PRAZO DE TRINTA DIAS PREVISTO NO ART. 74, I, DA LEI 8.213/91. IRRELEVÂNCIA. NÃO CORRE PRESCRIÇÃO CONTRA MENOR PARA FINS DE CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. PARCELAS PRETÉRITAS RETROATIVAS À DATA DO ÓBITO. PRECEDENTES DO E. STJ. RECURSO PROVIDO.
+1. O recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts.198 do CC/2002; 74, I, 79 e 103, parágrafo único, da Lei 8.213/1991. Sustenta que "A questão cinge-se à possibilidade de a parte autora, menor de idade, receber os diferenças da pensão por morte, compreendida entre a datado óbito e a data da implantação administrativa, considerando ter requerido a concessão do benefício após o prazo de trinta dias".
+2. O acórdão recorrido está em sintonia com o atual entendimento do Superior Tribunal de Justiça quando afirma que a DIB coincide com o óbito do segurado, não correndo a prescrição contra o absolutamente incapaz, no caso o menor de 16 anos, e que, com o implemento dos 21 anos, tornam-se automaticamente prescritas apenas as parcelas não reclamadas há mais de cinco anos, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". Precedentes: REsp 1.405.909/AL, Rel. Min. Sérgio Kukina, Rel. p/Acórdão Min. Ari Pargendler, Primeira Turma, DJe 9.9.2014; AgRg no AREsp 269.887/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 21.3.2014; REsp 1.354.689/PB, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11.3.2014; REsp 1.513.977/CE, Rel. Min. Herman Benjamin, Segunda Turma, DJe 5.8.2015.
+3. Recurso Especial não conhecido.
+(REsp n. 1.797.573/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/5/2019, DJe de 19/6/2019.)
+PREVIDÊNCIA SOCIAL. PENSIONISTA MENOR. INÍCIO DO BENEFÍCIO.
+A expressão "pensionista menor", de que trata o art. 79 da Lei nº 8.213, de 1990, identifica uma situação que só desaparece aos dezoito anos de idade, nos termos do art. 5º do Código Civil. Recurso especial provido para que o benefício seja pago a contar do óbito do instituidor.
+(REsp n. 1.405.909/AL, relator Ministro Sérgio Kukina, relator para acórdão Ministro Ari Pargendler, Primeira Turma, DJe de 9/9/2014.)
+Assim, por estar o acórdão recorrido em harmonia com o entendimento firmado neste Superior Tribunal, forçoso sua manutenção.
+ANTE O EXPOSTO, conheço parcialmente do recurso especial, e nesta parte, nego-lhe provimento,
+Publique-se.
+EMENTA
