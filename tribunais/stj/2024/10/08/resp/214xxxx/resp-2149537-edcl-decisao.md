@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática.
+Proferida decisão no recurso, a parte embargante opõe embargos de declaração apontando vícios na decisão embargada, conforme se percebe dos seguintes trechos da petição:
+3. Contudo, com a devida vênia, entendem as Embargantes que há uma obscuridade no decisum. Isso, porque, ao afastar o prejuízo na não atribuição do efeito suspensivo ao presente Recurso, o Exmo. Min. Relator referiu que os depósitos poderiam ser realizados em momento posterior. Ocorre, Excelência, que, acaso se mantenha a determinação de levantamento dos depósitos e eles, eventualmente, venham a ser realizados em momento posterior, certo é que serão efetuados a destempo, ou seja, após a data de vencimento das respectivas competências, de modo que incidirão os encargos moratórios (multa e juros) sobre o valor originalmente depositado.
+4. Nesse sentido, resta nítido o prej uízo às ora Embargantes na não atribuição de efeito suspensivo ao Recurso Especial por elas interposto. Além disso, cumpre destacar que prejuízo algum advirá ao Estado Recorrido, à medida que, com a atribuição de efeito suspensivo a esta irresignação - que, frisa-se, não se confunde com o mérito da exação discutido na ação originária, pois versa apenas sobre a possibilidade de suspensão da sua exigibilidade - o valor depositado continuará à disposição do ente tributante.
+ ..
+7. No que tange ao julgamento do Recurso Especial por decisão monocrática, vale referir que (i) ainda há possibilidade de interposição de recurso a fim de submeter o feito ao Colegiado, bem como que (ii) a posição defendida pelas ora Embargantes está embasada em expressa previsão legal (art. 151, II do CTN) e em tese repetitiva firmada por esta Corte (Tema 271). Ou seja, é, inclusive, prudente a atribuição de efeito suspensivo ao presente Recurso, dada a possibilidade de reforma da decisão monocrática proferida.
+Ante o exposto, requerem as Embargantes sejam recebidos os presentes Embargos de Declaração nos termos do art. 1.026, § 1º do CPC e acolhidos para o fim específico de sanar a obscuridade ora apontada, com o esclarecimento acerca da suposta ausência de prejuízo na não atribuição de efeito suspensivo ao Recurso Especial interposto pelas ora Embargantes.
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+As alegações da parte embargante foram analisadas na decisão embargada.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe dos seguintes trechos da decisão:
+De acordo com o art. 995, parágrafo único, do Código de Processo Civil de 2015, em caso de recurso que em regra não é dotado de efeito suspensivo, a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave ou de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Por sua vez, o art. 1.029, § 5º, inciso I, do CPC/2015, estabelece que o pedido de concessão de efeito suspensivo a recurso especial poderá ser formulado por requerimento dirigido ao Tribunal Superior respectivo, no período compreendido entre a interposição do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo.
+Como se pode notar, para a excepcional concessão do efeito suspensivo, há se exigir a presença cumulada dos dois requisitos legais, quais sejam, a possibilidade de risco de dano grave ou de difícil ou impossível reparação e a probabilidade de provimento do recurso.
+Verifica-se, prima facie, que não se apresenta, na hipótese em questão, a conjugação dos requisitos necessários à concessão da tutela de urgência, não sendo demonstrado como a decisão a ser suspensa poderia impactar na efetividade do processo vinculado ou em seu prejuízo, haja vista que na hipótese de provimento, os depósitos poderiam ser realizados em momento posterior.
+Além disso, o apelo nobre já foi julgado por decisão monocrática, o que revela que o pedido não cumpre com o requisito de probabilidade de provimento do recurso.
+Ante o exposto, com fundamento no art. 288, §2º, do RISTJ, indefiro liminarmente o pedido.
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017.)
+Cumpre ressaltar que os embargos de declaração não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
