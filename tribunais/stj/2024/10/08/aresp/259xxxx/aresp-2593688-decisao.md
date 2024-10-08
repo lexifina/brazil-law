@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interposto por MARIA APARECIDA DE MORAES GARCIA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 308):
+Agravo Interno  Arguição de suspeição  Desembargador da 2" Câmara de Direito Privado do Tribunal de Justiça  Não cabimento da arguição  Inexistência de fato concreto hábil a macular a imparcialidade do agravado  Agravo não provido.
+Sem embargos de declaração.
+No recurso especial, alega a parte recorrente, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas no art. 145 do CPC, sob a alegação de que "quando o excepto resolve difamar os advogados da excipiente, ora recorrente, em decisão proferida no período de suspensão dos prazos processuais, à míngua de prévia apuração das acusações feitas pela parte contrária, revela, sem nenhuma dúvida, o seu interesse em julgar a causa em favor desta (art. 145, IV, CPC)" (fl. 345).
+A agravante assevera que "A própria elasticidade ou vagueza do referido inciso mostra, à evidência, que as hipóteses de suspeição do juiz não são taxativas, competindo ao órgão responsável pelo julgamento do respectivo incidente, avaliar, com objetividade, se as increpações do excepto revelam ou não interesse antijurídico em julgar o processo em favor de uma das partes" (fl. 361).
+Foram oferecidas contrarrazões ao recurso especial (fls. 373-376).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 389-390), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fls. 402-406).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O acórdão recorrido afirmou que não haveria prova da parcialidade do julgador capaz de configurar a suspeição. Confira-se (fls. 309-311):
+Conforme a decisão agravada, é incabível a arguição fundada em meras suposições de fatos que ocasionariam a suspeição do arguido, sem demonstração das hipóteses do art. 145 do Código de Processo Civil.
+Com efeito, em suas informações o reconheceu a suspeição, reiterando sua manifestação anterior. agravado não Por sua vez, decisões contrárias ao interesse da parte não são suficientes para caracterizar suspeição.
+Nesse sentido, constou na decisão agravada:
+"A arguição de suspeição envolve a verificação de eventual ausência de capacidade subjetiva do magistrado para, em caso positivo, afastá-lo da relação jurídico-processual. As hipóteses de suspeição estão previstas no art. 145 do Código de Processo Civil, sem prejuízo da possibilidade do seu reconhecimento por motivo de foro íntimo: (..)
+No caso, por não estarem configuradas as situações previstas no referido dispositivo legal, impõe-se a conclusão de que o incidente foi utilizado somente para exteriorizar o inconformismo da arguente em relação a decisão contrária às suas pretensões, visando afastar o relator do julgamento definitivo do recurso.
+Importar anotar, nesse ponto, que ao se manifestar neste incidente (fl. 214/219) o Excelentíssimo Desembargador esclareceu que não tem " .. qualquer tipo de relação com as partes do processo, tendo proferido decisões com base unicamente no direito que emergiu nova relação estabelecida entre as partes, todas devidamente prolatadas em conjunto e por unanimidade pela C. Turma Julgadora desta 2a Câmara de Direito Privado" (fl. 215/216)
+Informou, ainda, que a fundamentação da decisão em que fundada a arguição de suspeição não importa em antecipação do julgamento de mérito, a ser feito de forma colegiada (fl. 216).
+A natureza puramente jurisdicional das decisões prolatadas decorre, ademais, das informações prestadas por Sua Excelência, conforme a seguir se verifica: "Com efeito, manifesto-se no sentido de que é verdadeiramente absurda e despropositada a pretensão deduzida pela excipiente, deduzida em razão do mero inconformismo com as decisões judiciais proferidas por este excepto nos inúmeros e reiterados recursos interpostos por ela, com o objetivo de manter-se na posse do imóvel, valendo registrar que a pretensão á usucapião fora afastada pela C. 2 a Câmara de Direito Privado" (fl. 214/215). E as decisões de natureza jurisdicional são impugnáveis por meio de recurso, não importando, porém, em suspeição do magistrado. Oportuno considerar que o afastamento de magistrado da condução de processo judicial é medida drástica que, também por isso, exige a demonstração do efetivo.
+Com efeito, rever as conclusões quanto à inexistência de elementos concretos aptos a incutir dúvida razoável acerca da imparcialidade do julgador demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ, fundamento cabível ao recurso especial com base em ambas as alíneas do permissivo constitucional. A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EXCEÇÃO DE SUSPEIÇÃO - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS AGRAVANTES.
+1. Não se constata a alegada violação ao artigo 1.022, do NCPC, porquanto todos os argumentos expostos pela parte, na petição dos embargos de declaração, foram apreciados, com fundamentação clara, coerente e suficiente.
+2. De acordo com a orientação firmada neste Superior Tribunal de Justiça, o rol do artigo 135 do CPC/1973 é taxativo. E, portanto, imprescindível "ao provimento da exceção de suspeição a presença de uma das situações dele constantes" (AgRg no Ag 1422408/AM, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/02/2013, DJe 21/02/2013).
+3. Outrossim, "conforme posição sólida do STJ, o juiz não está vinculado às conclusões do laudo pericial, em razão do princípio da livre convicção, se as regras de experiência e os demais elementos de prova permitirem juízo em sentido contrário à opinião do perito" (AgInt no AREsp 1118062/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/11/2017, DJe 22/11/2017).
+4. Na hipótese, o Tribunal de origem, ao rejeitar a exceção de suspeição, concluiu, com base nos elementos fáticos dos autos, que inexiste qualquer fato concreto capaz de macular a imparcialidade da perita, ficando a alegação somente no campo da retórica, de modo que para alterar esse entendimento seria necessário o reexame de fatos e provas, o que é vedado em recurso especial. Incidência dos enunciados das Súmulas 7 e 83 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.272.115/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 18/5/2020, DJe de 25/5/2020.)  grifou-se
+Ainda que se pudesse admitir referida circunstância, seria preciso provar que, nos termos do art. 145, IV, do CPC, o excepto estava pessoalmente interessado no julgamento em favor da parte contrária, o que não ocorreu.
+A Jurisprudência desta Corte assinala que as hipóteses de suspeição do magistrado previstas no art. 145 do CPC são taxativas, devendo ser interpretadas restritivamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXCEÇÃO DE SUSPEIÇÃO DO JUIZ. FAVORECIMENTO DE UMA DAS PARTES NÃO COMPROVADO. INTERESSE PESSOAL DO MAGISTRADO NO JULGAMENTO DA CAUSA NÃO EVIDENCIADO.
+1. A Jurisprudência desta Corte orienta que as hipóteses de suspeição do magistrado previstas no art. 145 do CPC (art. 135 do CPC/73) são taxativas, devendo ser interpretadas restritivamente.
+2. Na hipótese, a decisão judicial que deferiu o levantamento da penhora sem prévia oitiva do devedor, muito embora possa, em tese, caracterizar ofensa ao rito processual não trouxe, segundo consignado pelo acórdão estadual, nenhum prejuízo efetivo para a parte.
+3. Demais disso não ficou demonstrado que o juiz da causa tivesse interesse pessoal no julgamento da causa.
+4. Impossível nesses termos, acolher a exceção de suspeição com fundamento apenas na mencionada decisão interlocutória, contrária aos interesses da parte.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.866.229/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ARGUIÇÃO DE SUSPEIÇÃO. DESEMBARGADOR DO TJSP. ACÓRDÃO QUE ENTENDE PELA AUSÊNCIA DE FATO CONCRETO A ENSEJAR A SUSPEIÇÃO. REVISÃO . SÚMULA N. 7. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
