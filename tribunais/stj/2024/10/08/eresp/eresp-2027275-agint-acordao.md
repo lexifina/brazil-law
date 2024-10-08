@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 02/10/2024 a 08/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. PROVA PERICIAL INDISPENSÁVEL. NÃO REALIZAÇÃO. CERCEAMENTO DE DEFESA. ACÓRDÃO EMBARGADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA Nº 168/STJ. REJULGAMENTO DO APELO ESPECIAL. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. Acórdão objeto dos embargos de divergência em harmonia com a jurisprudência desta Corte no sentido de que o julgamento antecipado da lide sem apreciação de prova pericial indispensável ao deslinde da controvérsia implica em cerceamento de defesa. Incidência da súmula nº 168/STJ.
+2. Os embargos de divergência têm por finalidade uniformizar a jurisprudência do Tribunal, não servindo para rejulgar o apelo especial a fim de corrigir suposto equívoco.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por KAIROS CONSTRUTORA LTDA. contra decisão da lavra do Min. Herman Benjamin que indeferiu os embargos de divergência liminarmente.
+Sustenta a agravante não ter incidência o verbete nº 168/STJ, uma vez que a decisão recorrida teria utilizado premissa equivocada no exame do recurso, qual seja, a de que houve o julgamento antecipado da lide sem análise de prova pericial indispensável, quando, na verdade, a hipótese seria de desnecessidade de produção de outras provas.
+Sublinha que "o magistrado da origem não julgou a demanda procedente com base na ausência de provas, mas sim tendo formado convencimento pela suficiência de comprovação do direito do autor, o que por si afasta o prejuízo do indeferimento da prova pericial".
+Alega, também, que o recurso especial não deveria ter sido conhecido diante do óbice contido na súmula nº 7 desta Corte.
+Repisa os argumentos relativos à existência do dissídio jurisprudencial, enfatizando que "de um lado, a Primeira Turma entende que o indeferimento de produção de prova, mesmo que prescindível ao desenrolar da lide, acarretaria em cerceamento de defesa, ainda que o Tribunal a quo houvesse confirmado a negativa de produção probatória. De outro lado, tem-se a Segunda e Terceira Turmas com entendimento de que não há cercamento de defesa no indeferimento de produção de provas e no julgamento antecipado da lide, uma vez que se trata do livre convencimento do Juiz".
+Requer, ao final, o provimento do recurso.
+Contrarrazões às fls. 1101/1112, pugnando pelo não conhecimento do agravo interno ou pelo seu desprovimento.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. PROVA PERICIAL INDISPENSÁVEL. NÃO REALIZAÇÃO. CERCEAMENTO DE DEFESA. ACÓRDÃO EMBARGADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA Nº 168/STJ. REJULGAMENTO DO APELO ESPECIAL. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. Acórdão objeto dos embargos de divergência em harmonia com a jurisprudência desta Corte no sentido de que o julgamento antecipado da lide sem apreciação de prova pericial indispensável ao deslinde da controvérsia implica em cerceamento de defesa. Incidência da súmula nº 168/STJ.
+2. Os embargos de divergência têm por finalidade uniformizar a jurisprudência do Tribunal, não servindo para rejulgar o apelo especial a fim de corrigir suposto equívoco.
+3. Agravo interno não provido.
+VOTO
+O inconformismo não merece acolhimento, uma vez que a parte agravante não traz argumentos aptos a desconstituir o decisum.
+Com efeito, asseverou o provimento agravado que o entendimento firmado no acórdão objeto dos embargos de divergência está em harmonia com a jurisprudência desta Corte no sentido de que o julgamento antecipado da lide sem apreciação de prova pericial indispensável ao deslinde da controvérsia implica em cerceamento de defesa. Foram citados os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CREDITAMENTO DE ICMS. GLOSA. EXAME DO DIREITO. ÂMBITO JUDICIAL. POSSIBILIDADE. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. EXISTÊNCIA.
+1. "No sistema jurídico brasileiro, a coisa julgada administrativa em desfavor do particular não o impede de socorrer-se do Poder Judiciário, dada a garantia constitucional referente à inafastabilidade de Jurisdição" (AgInt no REsp 1459326/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 06/04/2017, DJe 16/05/2017).
+2. A glosa de créditos de ICMS levada a efeito pelo fisco em razão de vício formal (in casu, relativo ao formato das informações prestadas por meio magnético) não impede a alegação e a comprovação pelo contribuinte de regularidade desse creditamento no âmbito judicial.
+3. Hipótese em que, com o julgamento antecipado da lide, foi negado à empresa contribuinte o direito à produção de prova pericial do direito vindicado, estando caracterizada a nulidade processual por cerceamento de defesa.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.839.355/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 22/10/2021.)
+RECURSOS ESPECIAIS. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. ADMINISTRAÇÃO E GESTÃO DE FUNDO DE INVESTIMENTO. MAXIDESVALORIZAÇÃO DO REAL. MUDANÇA DA POLÍTICA CAMBIAL. MÁ GESTÃO DO FUNDO. REQUERIMENTO DE PRODUÇÃO PROBATÓRIA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA.
+1. Ação de indenização por danos materiais e morais em que se alega que as expressivas perdas decorreram de má gestão dos fundos de investimentos derivativos vinculados ao dólar, além de omissão de informações aos investidores dos riscos assumidos.
+2. Requerimento dos réus para produção de prova oral e pericial, bem como expedição de ofício ao Banco Central, para comprovação de suas alegações acerca da ciência dos investidores a respeito dos riscos assumidos e dos lucros que obtiveram nos meses anteriores, precisamente em decorrência do tipo de aplicação de risco, e para a demonstração da composição da carteira de investimentos e o enquadramento dos ativos.
+3. Esta Corte já firmou posicionamento no sentido de que configura cerceamento de defesa a decisão que, a despeito de pedido de produção probatória, julga de forma antecipada o pedido improcedente com fundamento na ausência de provas.
+4. Acolhimento da preliminar de cerceamento de defesa, para anular a sentença e determinar o retorno dos autos à origem a fim de que sejam produzidas as provas requeridas pelos réus.
+constitui flagrante cerceamento de defesa, por isso a nulidade do ato decisório deverá ser decretada
+5. Recursos especiais parcialmente providos.
+(REsp n. 1.119.445/RJ, relator Ministro Antonio Carlos Ferreira, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 25/11/2019.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. JULGAMENTO ANTECIPADO DA LIDE, SEM A NECESSÁRIA PROVA PERICIAL. CERCEAMENTO DE DEFESA CONFIGURADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Este e. Superior Tribunal de Justiça tem entendimento pacificado no sentido de que o julgamento antecipado da lide, com a inobservância da dilação probatória imprescindível para o deslinde da demanda, caracteriza cerceamento de defesa, hipótese presente na situação dos autos, diante de suas especificidades. Precedentes.
+3. Agravo não provido.
+(AgInt no REsp n. 2.027.275/AM, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 1/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. PRELIMINAR DE CERCEAMENTO DE DEFESA ACOLHIDA. MATÉRIA DE ORDEM PÚBLICA. RECURSO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 535 do CPC/1973. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Evidenciada a necessidade da produção de provas requeridas pela autora, a tempo oportuno, constitui cerceamento de defesa o julgamento antecipado da lide, com infração aos princípios constitucionais do contraditório, ampla defesa e devido processo legal. A violação a tais princípios constitui matéria de ordem pública e pode ser conhecida de ofício pelo órgão julgador.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 936.285/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 15/6/2018.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA ALTERAR A DECISÃO AGRAVADA. ANATOCISMO. NECESSIDADE DE AFERIÇÃO EM CADA CASO CONCRETO. PROVA PERICIAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA OCORRIDO
+1. A agravante não trouxe argumento novo capaz de infirmar os fundamentos que alicerçaram a decisão agravada, razão que enseja a negativa do provimento ao agravo regimental.
+2. Cerceamento de defesa configurado. In casu, as instâncias ordinárias impossibilitaram a comprovação de eventual prática de anatocismo, bem como a comprovação acerca do cumprimento do contrato por parte da recorrida, de forma que o processo deve retornar oportunizando a produção da prova requerida.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.159.667/SP, relator Ministro Vasco Della Giustina (Desembargador Convocado do TJ/RS), Terceira Turma, DJe de 18/4/2011.
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE ERRO MATERIAL, OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO.
+1. Nos termos do artigo 1.022 do NCPC, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição, corrigir erro material e/ou suprir omissão de ponto sobre o qual deveria ter se pronunciado o julgador, aí incluídas as condutas descritas no § 1º do artigo 489 do novel codex, caracterizadoras de carência de fundamentação válida. Nada obstante, não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo.
+2. Somente no julgamento de recursos interpostos contra decisões publicadas a partir de 18.3.2016 será possível a fixação/majoração de honorários advocatícios, na forma do artigo 85, § 11, do Código de Processo Civil (CPC).3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.007.402/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1/8/2017.)
+Nesse cenário, concluiu-se pela incidência do verbete nº 168/STJ, verbis: "Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+De fato, o acórdão embargado proferido pela Primeira Turma desta Corte acentuou que as peculiaridades da causa exigem a produção de perícia técnica, daí porque o julgamento antecipado da lide sem a realização da prova requerida implicou em cerceamento de defesa. Por oportuno, veja-se o seguinte trecho:
+Não se desconhece que a jurisprudência no âmbito desta Corte de Justiça é firme no sentido de que cabe aos magistrados das instâncias ordinárias, que são os destinatários finais das provas, decidirem acerca da realização das mesmas, podendo indeferir aquelas que considerarem protelatórias, desnecessárias ou impertinentes, desde que de maneira fundamentada.
+Porém, no caso específico dos autos, não há como se negar que a situação de a prova pericial ter sido indeferida na sentença, que desde logo já julgou o mérito da demanda de forma antecipada e deveras genérica e desfavorável à Ciama, sem a necessária perícia por ela insistentemente requerida, prejudicou diretamente a Ciama no exercício do seu direito à produção de prova, impedindo-a de comprovar as suas alegações trazidas em contestação e desconstituir o direito do autor, assim como de esclarecer questões importantes para o deslinde da controvérsia, que acabaram não sendo abordadas.
+Ademais, também não se pode desconsiderar que a presente demanda envolve matéria técnica e complexa, relacionada a obras civis e sanitárias de vultosa quantia pública (mais de R$ 50 milhões de reais), cuja condenação, por certo, é capaz de ensejar prejuízos à atividade da empresa estatal e risco para a continuidade dos seus serviços públicos, de suma importância ao desenvolvimento socioeconômico, tecnológico e sustentável do Estado do Amazonas.
+Partindo desse contexto peculiar, é possível constatar que a dilação probatória por meio da perícia técnica mostra-se não só prudente, como necessária, para que se possa elucidar, com segurança, todas essas questões fáticas essenciais à solução da presente controvérsia, relacionadas à extensão do (des)cumprimento contratual das partes.
+Tal constatação implica na conclusão de que o julgamento antecipado da presente lide, sem a produção pericial pela qual a Ciama protestou oportuna e adequadamente, especialmente por ser o único meio de prova capaz de comprovar o direito alegado, acarretou cerceamento de defesa, infringindo os princípios constitucionais do contraditório, ampla defesa e devido processo legal.
+Assim, tem-se que o aresto impugnado não destoa da jurisprudência deste Superior Tribunal de Justiça.
+Na verdade, a pretexto de dissídio jurisprudencial, pretende a parte ora agravante rever o julgamento do apelo especial, inclusive sob a alegação de que teria incidência o óbice sumular nº 7/STJ, o que não se admite na via uniformizadora.
+Consoante asseverado, "o intuito da parte recorrente é corrigir suposto erro no julgamento turmário. Ou seja, a parte insurgente pretende, em verdade, que estes Embargos sirvam como recurso de correção de um suposto equívoco havido no julgado embargado. Ocorre que, ainda que tal equívoco tenha existido, a função dos Embargos de Divergência não é essa, consoante jurisprudência do STJ".
+Nesse contexto, era mesmo de rigor o indeferimento liminar dos embargos de divergência.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
