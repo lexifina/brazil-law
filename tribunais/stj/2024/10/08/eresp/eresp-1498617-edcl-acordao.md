@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 02/10/2024 a 08/10/2024, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREMISSA EQUIVOCADA. ERRO DE FATO. OMISSÃO VERIFICADA. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE CONDENAÇÃO ANTERIOR. IMPOSSIBILIDADE.
+1. Excepcionalmente o STJ admite o cabimento de embargos de declaração com efeitos modificativos para a correção de premissa equivocada sobre a qual tenha se fundado a decisão embargada. Precedentes.
+2. Honorários advocatícios arbitrados em sentença que posteriormente foi reformada pelo Tribunal de origem para afastar a condenação.
+3. A jurisprudência do STJ é firme no sentido de que não incide a regra do art. 85, § 11, do CPC, que trata da majoração dos honorários advocatícios, quando o recurso é interposto contra julgado que não fixou previamente honorários advocatícios, tal como ocorre na hipótese. Precedentes.
+4. Embargos de declaração acolhidos para afastar a condenação da parte ora embargante ao pagamento de honorários advocatícios.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Itaú Unibanco S.A. e Outros ao acórdão da Corte Especial, assim ementado (fls. 1.300/1.301):
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CONSUMIDOR. REPETIÇÃO DE INDÉBITO EM DOBRO (ART. 42, PARÁGRAFO ÚNICO, DO CDC). ANÁLISE DA MÁ-FÉ DO FORNECEDOR. SUPERVENIÊNCIA DE DECISÃO QUE MOTIVOU SUSPENSÃO DO PROCESSO. DISSÍDIO DEMONSTRADO. NÃO APLICAÇÃO DA SÚMULA 168/STJ. TESE FIRMADA PELA CORTE ESPECIAL. MODULAÇÃO DOS EFEITOS.
+1. Divergência verificada para saber se a restituição, em dobro, do valor indevidamente cobrado, depende ou não da existência de dolo ou culpa, nos termos do art. 42, parágrafo único, do CDC.
+2. Matéria controvertida que já foi decidida pela Corte Especial no julgamento do EREsp n. 1.413.542/RS.
+3. Tese estabelecida em sentido contrário ao firmado no acórdão embargado. Não aplicação da Súmula 168/STJ.
+4. Necessidade de aferir se o caso se insere nas hipóteses cumulativas da modulação dos efeitos, quais sejam: a) cobrança não decorrente de prestação de serviço público e; b) cobrança indevida ser feita após 30/3/2021 (data da publicação do acórdão).
+5. Na espécie, trata-se de ação civil pública contra instituições financeiras em que se pretende a suspensão da cobrança da taxa de emissão de boleto. Natureza privada da relação objeto da lide.
+6. Decisão do órgão fracionário que afastou a ilegalidade da cobrança dos contratos celebrados até 30/4/2008 e reputou ilegais eventual cobrança após a mencionada data, devendo haver devolução de modo simples.
+7. Considerando tratar-se de demanda coletiva, em que não há fato individualizado discutido na lide, é necessário alinhar a situação dos autos à tese decidida no EREsp n. 1.413.542/RS.
+8. Repetições de indébito relativas às cobranças praticadas após 30/4/2008 e até 30/3/2021 deverão ser realizadas de modo simples. Por outro lado, se a cobrança da taxa de emissão de boleto for efetuada em momento posterior a 30/3/2021, a devolução será em dobro.
+9. Embargos de divergência conhecidos e providos parcialmente.
+A parte embargante (fls. 1.315/1.320) alega que o acórdão foi omisso, pois se orientou a partir de um erro material.
+Sustenta que o v. acórdão afirmou somente "terem sido anteriormente fixados" honorários advocatícios, mas deixou de considerar que os honorários advocatícios foram fixados pela r. sentença, mas foram afastados pelo v. acórdão da apelação (e-STJ Fls. 509/527) 2 - contra o qual a DEFENSORIA PÚBLICA DO ESTADO DO MATO GROSSO, ora Embargada, não interpôs recurso (fl. 1.317).
+Assevera que há premissa equivocada ao assentar que houve honorários anteriormente fixados, uma vez que esses foram afastados.
+Assim, pugna que sejam atribuídos efeitos infringentes aos aclaratórios, para que não seja realizada majoração dos honorários advocatícios sucumbenciais, haja vista que foram afastados na instância recursal ordinária (fato também reconhecido nesta instância especial).
+A parte embargada não se manifestou, conforme certidão de fl. 1.334.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREMISSA EQUIVOCADA. ERRO DE FATO. OMISSÃO VERIFICADA. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE CONDENAÇÃO ANTERIOR. IMPOSSIBILIDADE.
+1. Excepcionalmente o STJ admite o cabimento de embargos de declaração com efeitos modificativos para a correção de premissa equivocada sobre a qual tenha se fundado a decisão embargada. Precedentes.
+2. Honorários advocatícios arbitrados em sentença que posteriormente foi reformada pelo Tribunal de origem para afastar a condenação.
+3. A jurisprudência do STJ é firme no sentido de que não incide a regra do art. 85, § 11, do CPC, que trata da majoração dos honorários advocatícios, quando o recurso é interposto contra julgado que não fixou previamente honorários advocatícios, tal como ocorre na hipótese. Precedentes.
+4. Embargos de declaração acolhidos para afastar a condenação da parte ora embargante ao pagamento de honorários advocatícios.
+VOTO
+Admito os embargos de declaração, uma vez que a decisão recorrida, incidindo em erro de fato por basear-se em premissa equivocada, incorreu em omissão.
+Não se olvida que os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 535, I e II, do CPC. Contudo, excepcionalmente, esta Corte admite o cabimento de embargos de declaração com efeitos modificativos para a correção de premissa equivocada sobre a qual tenha se fundado a decisão embargada. Ilustrativamente: EDcl no AgInt no REsp n. 1.797.700/DF, Ministro João Otávio de Noronha, Quarta Turma, DJe 14/9/2023; EDcl no AgInt no REsp n. 1.765.132/MS, Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 19/3/2021; e EDcl no AgInt no REsp n. 1.538.847/SC, Ministro Sérgio Kukina, Primeira Turma, DJe 4/9/2020.
+No acórdão recorrido foi determinado, na parte final do dispositivo, que: considerando terem sido anteriormente fixados, majoro os honorários recursais em desfavor das embargadas para o valor de R$ 15.000,00 (quinze mil reais), nos termos do art. 85, § 11, do Código de Processo Civil (fl. 1.316).
+Contudo, consoante realçado pela parte embargante, as decisões que fixavam ou majoravam os honorários foram reformadas.
+A sentença (fls. 303/313), julgou procedentes os pedidos e condenou a parte embargante em honorários advocatícios no valor de R$ 20.000,00 (vinte mil reais). No entanto, o TJMT deu parcial provimento à apelação para, em reforma parcial da sentença, excluir a condenação ao pagamento das custas processuais e dos honorários advocatícios, mantendo-a nos demais aspectos (fl. 527).
+Na sequência, ao julgar o recurso especial de forma monocrática, o Ministro Marco Aurélio Bellizze assim se pronunciou acerca das verbas sucumbenciais (fl. 862):
+E em relação aos ônus sucumbenciais, observando as disposições dos arts. 17 e 18 da Lei n. 7.347/1985, mantenho a condenação das instituições financeiras ao pagamento das custas judiciais e dos honorários sucumbenciais, porém estes deverão ser reduzidos para R$ 10.000,00 (dez mil reais).
+Contra esta decisão foram opostos embargos de declaração que, no ponto específico da sucumbência, foram acolhidos nos seguintes termos (fl. 903 - grifo nosso):
+Por outro lado, no tocante à obscuridade referente aos ônus sucumbenciais, com razão os embargantes, porquanto conforme se verifica do acórdão a quo (e-STJ, fls. 495-528), a apelação foi parcialmente provida para excluir a condenação ao pagamento de custas processuais e honorários advocatícios, enquanto a decisão embargada condenou as instituições financeiras às custas processuais e aos honorários advocatícios, estes fixados em R$ 10.000,00 (dez mil reais).
+Dessa forma, como só houve impugnação do acórdão recorrido pelas instituições financeiras, torna-se impositiva a manutenção do aresto a quo acerca dos ônus sucumbenciais, sob pena de acarretar em reformatio in pejus.
+Ante o exposto, acolho, em parte, os embargos de declaração para afastar a condenação dos embargantes ao pagamento das custas processuais e honorários advocatícios, conforme estabelecido pelo Tribunal de origem.
+Como se observa, houve o reconhecimento de que não caberia a majoração dos honorários, tendo em vista que os mesmos haviam sido extirpados da condenação pelo Tribunal de origem.
+Cumpre destacar que a Defensoria Pública da União (ora embargada), tanto no agravo regimental (fls. 867/872) quanto nos embargos de divergência (fls. 935/958), não se insurgiu com relação à condenação aos honorários advocatícios.
+Desse modo, o acórdão ora embargado, partindo da equivocada premissa de que haveriam condenações anteriores a honorários, deixou de analisar o fato de que essas não mais se encontravam hígidas. Assim, não existindo condenação, não há falar em sua majoração, nos termos do art. 85, § 11, do CPC.
+A jurisprudência do STJ é firme no sentido de que não incide a regra do art. 85, § 11, do CPC, que trata da majoração dos honorários advocatícios, quando o recurso é interposto contra julgado que não fixou previamente honorários advocatícios, tal como ocorre na hipótese (AgInt nos EDcl no AREsp n. 2.196.691/RJ, Ministra Nancy Andrighi, Terceira Turma, DJe 30/8/2023). Em igual sentido: AgInt no AREsp n. 1.341.886/SP, Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 30/5/2019; e EDcl no REsp n. 1.731.612/RS, Ministro Herman Benjamin, Segunda Turma, DJe 23/4/2019.
+Ante o exposto, acolho os embargos de declaração para, conferindo-lhes efeitos infringentes, afastar a condenação da parte ora embargante ao pagamento de honorários advocatícios.
