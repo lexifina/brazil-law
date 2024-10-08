@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus, impetrado em benefício de Marcos Andre Malheiros da Silva - condenado pela prática de homicídio qualificado -, em que se aponta como autoridade coatora o Tribunal de Justiça de Mato Grosso do Sul (HC n. 1414545-46), não comporta processamento.
+Com efeito, argumenta-se que fora impetrado, no Tribunal a quo, habeas corpus substitutivo de revisão criminal e, em que pese a ampla demonstração da ocorrência de confissão, por parte do paciente, sendo necessária o reconhecimento da atenuante, a autoridade coatora não conheceu do pleito, havendo negativa jurisdicional, merecendo reparo por meio da presente Ordem. Nesse sentido, possível e necessária a concessão do pleito, de ofício, para reconhecer a aplicação da atenuante ou, cautelarmente, determinar o conhecimento por parte da autoridade coatora (fl. 6).
+Ocorre que não há ilegalidade a ser sanada. Com efeito, o entendimento do Tribunal a quo se encontra em consonância com a jurisprudência desta Corte, já que o writ foi foi indevidamente utilizado como forma de revisar novamente a condenação imposta pelo Magistrado de primeiro grau, mantida pelo Tribunal a quo, já transitada em julgado. Ademais, escorreito também o acórdão ora impugnado, ao asseverar que não foram apresentadas provas pré-constituídas do alegado, mormente porque, na hipótese, examinar se o conteúdo das declarações do paciente evidencia a confissão do crime demandaria dilação probatória. Sendo assim, escorreita a decisão do Tribunal a quo ao não conhecer do habeas corpus lá impetrado.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. WRIT NÃO CONHECIDO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE ILEGALIDADE. NÃO CABIMENTO QUE SE IMPÕE. REVISÃO DA PENA JÁ IMPOSTA E MANTIDA PELA CORTE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPROPRIEDADE DA VIA ELEITA.
+Inicial indeferida liminarmente.
