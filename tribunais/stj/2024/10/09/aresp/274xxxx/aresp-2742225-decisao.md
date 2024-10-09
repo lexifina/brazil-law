@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por MAGNUS BEZERRA DA SILVA, contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE que inadmitiu recurso especial apresentado contra acórdão proferido na Revisão Criminal n. 0800593-27.2024.8.20.0000, assim ementado (fl. 87):
+PENAL E PROCESSUAL PENAL. REVISÃO CRIMINAL. ART. 621, I E III DO CPP. CONDENAÇÃO PELO CRIME PREVISTO NO ART. 121 DO CÓDIGO PENAL. HOMICÍDIO. PRELIMINAR: NÃO ADMISSIBILIDADE DA REVISÃO CRIMINAL.
+ENTENDIMENTO FIRMADO NO RESP 2008089-RN E NO AGR. NO HC 500.460-SC PELO STJ. REVISIONAL INCABÍVEL PARA REDISCUTIR CIRCUNSTÂNCIAS JUDICIAIS ANALISADAS E DECIDIDAS NO PROCESSO ORIGINÁRIO. IMPOSSIBILIDADE DE APLICAR ENTENDIMENTO JURISPRUDENCIAL POSTERIOR À COISA JULGADA. ACOLHIMENTO.
+Consta dos autos que o agravante teve por julgada improcedente, pelo Tribunal local, a ação revisional fundamentada no art. 621, inciso I, do CPP, formulada para desconstituição do originário acórdão condenatório, onde restou condenado definitivamente, desde 13/02/2019, à pena de 15 (quinze) anos de reclusão, como incurso nas sanções do art. 121, § 2º, inciso IV, do Código Penal.
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, a Defesa aponta negativa de vigência do art. 621, inciso I, do CPP, associada à redação do art. 59, caput, do CP.
+Para tanto, sustenta que o
+STJ admite o conhecimento da revisão criminal para exame da dosimetria da pena, nos termos do art. 621, I, do CPP, em duas hipóteses: a primeira, quando forem descobertas novas provas que demonstrem eventual equívoco do juízo sentenciante; e a segunda, na hipótese de ocorrência de flagrante ilegalidade, como ocorre no caso em exame (fl. 130).
+Aduz, ainda, que a flagrante ilegalidade pode ser extraída da leitura da sentença objeto da revisão criminal, ou seja, independem da descoberta de novas provas ou de reexame das provas produzidas, além de tratarem de matéria de ordem pública (fl. 136).
+Contrarrazões apresentadas às fls. 141-147.
+O Tribunal a quo inadmitiu o apelo especial por incidência da Súmula 7/STJ, fundamento contra o qual se insurge a parte agravante (fls. 161-165).
+Parecer do Ministério Público Federal pelo desprovimento do recurso (fls. 190-192).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+O Tribunal estadual, ao julgar improcedente a revisão criminal proposta pelo revisionando, consignou (fls. 88, grifamos):
+Preliminar: não admissão da ação revisional
+Conforme recente julgamento do R Esp nº 2008089/RN pelo Plenário do STJ, a revisão criminal não se presta para fins de reavaliar circunstâncias judiciais já analisadas e decididas no processo originário, quando da fixação da pena. Vejamos:
+ ..  De fato, "O STJ também firmou entendimento no sentido de que, " e m relação à dosimetria da pena, a revisão criminal tem cabimento restrito, apenas admitida quando, após a sentença, forem descobertas novas provas que demonstrem eventual equívoco do juízo sentenciante, ou na ocorrência de flagrante ilegalidade. Destarte, a revisão não pode ser utilizada como se apelação (ou recurso especial) fosse, para rediscutir, minuciosamente e à luz dos mesmos elementos probatórios, as circunstâncias que já foram valoradas no processo originário" (AgRg no R Esp n. 1.805.996/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 29/3/2021, grifei).  ..  Diante do exposto, considerando que o acórdão recorrido está em desconformidade com a jurisprudência desta Corte Superior de Justiça acerca do tema  .. .
+O STJ somente admite a revisão criminal para fins de dosimetria da pena quando há novas provas de eventual equívoco do juiz sentenciante ou flagrante ilegalidade, não sendo possível para rediscutir minuciosamente e com base nas mesmas provas as circunstâncias judiciais valoradas no processo originário.
+A pretensão revisional relativa a rediscutir a valoração de vetor judicial desfavorável (conduta social), fundamentada na alteração de entendimento jurisprudencial pelo STJ, não se presta para tanto, não servindo de argumento para a ação de revisão criminal.
+Ao julgar o AgRg no HC 500.460/SC, a Corte Superior decidiu que "a mudança de posicionamento jurisprudencial posterior ao trânsito em julgado da decisão condenatória não serve de base para o ajuizamento de revisão criminal, sob pena de serem violados os princípios da coisa julgada e da segurança jurídica".
+Esta Corte assim também decidiu:
+(..)
+Ante o exposto, voto por acolher a preliminar de não admissibilidade da pretensão revisional.
+Com efeito, o Tribunal de origem, ao afirmar que a pretensão revisional relativa a rediscutir a valoração de vetor judicial desfavorável (conduta social), fundamentada na alteração de entendimento jurisprudencial pelo STJ, não serve de argumento para a ação de revisão criminal não destoou do entendimento firmado no STJ, pois, consoante inteligência (por analogia) da Súmula n. 343/STF, não se admite o manejo de ação revisional, fundamentada em ventilada ofensa a literal disposição de lei, quando a decisão rescindenda tiver se baseado em texto legal objeto de nova e superada interpretação jurisprudencial, ainda que mais favorável ao apenado, por imperiosa necessidade de preservação à segurança jurídica.
+Nessa linha intelectiva, a Terceira Seção deste Tribunal Superior tem ecoado que,
+revela-se inadmissível o conhecimento de revisão criminal fundada no art. 621, I, do Código de Processo Penal, se o pleito revisional busca, na realidade, a aplicação de novo entendimento jurisprudencial sobre a matéria objeto de controvérsia,  ..  a não ser em hipóteses excepcionalíssimas, nas quais a superveniente alteração jurisprudencial corresponda a um novo entendimento pacífico e relevante (AgRg na RvCr n. 6.060/MG, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 24/4/2024, DJe de 30/4/2024, grifamos).
+Assim, depreende-se que eventual
+mudança de entendimento jurisprudencial não autoriza o ajuizamento de revisão criminal, ressalvadas hipóteses excepcionalíssimas de entendimento pacífico e relevante, o que não se vislumbra na espécie (AgRg no AREsp n. 2.471.424/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/2/2024, DJe de 1/3/2024, grifamos).
+Em arremate, imperioso ressalvar que não se presta a revisão criminal - ação constitucional autônoma de impugnação e contornos específicos - como sucedâneo de uma segunda apelação criminal, por força da preclusão pro judicato subjacente (encampada nos arts. 502, 505, caput, 507 e 508, todos do CPC, c/c o art. 3º do CPP) e, notadamente, imperiosa concretude à cláusula pétrea da segurança jurídica.
+A propósito, a Terceira Seção desta Corte já assentou:
+A revisão criminal não pode ser utilizada para que a parte, a qualquer tempo, busque novamente rediscutir questões de mérito, por mera irresignação quanto ao provimento jurisdicional obtido (AgRg na RvCr n. 5.565/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Terceira Seção, julgado em 23/11/2022, DJe de 29/11/2022, grifamos).
+Incide, portanto, nos pontos em voga, a Súmula 568/STJ, segundo a qual: O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
