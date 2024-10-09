@@ -1,5 +1,5 @@
 Art. 3º A pena de multa será aplicada na ocorrência das infrações e nos limites seguintes:
-I - exercer atividade relativa à indústria do petróleo, à indústria de biocombustíveis, ao abastecimento nacional de combustíveis, ao Sistema Nacional de Estoques de Combustíveis e ao Plano Anual de Estoques Estratégicos de Combustíveis, sem prévio registro ou autorização exigidos na legislação aplicável:
+I - exercer atividade relativa à indústria do petróleo, dos combustíveis sintéticos, dos biocombustíveis e da captura e da estocagem geológica de dióxido de carbono, ao abastecimento nacional de combustíveis, ao Sistema Nacional de Estoques de Combustíveis e ao Plano Anual de Estoques Estratégicos de Combustíveis, sem prévio registro ou autorização exigidos na legislação aplicável:
 Multa - de R$ 50.000,00 (cinqüenta mil reais) a R$ 200.000,00 (duzentos mil reais);
 II - importar, exportar ou comercializar petróleo, gás natural, seus derivados e biocombustíveis em quantidade ou especificação diversa da autorizada, bem como dar ao produto destinação não permitida ou diversa da autorizada, na forma prevista na legislação aplicável:
 Multa - de R$ 20.000,00 (vinte mil reais) a R$ 5.000.000,00 (cinco milhões de reais);
@@ -9,11 +9,11 @@ IV - deixar de registrar ou escriturar livros e outros documentos de acordo com 
 Multa - de R$ 5.000,00 (cinco mil reais) a R$ 10.000,00 (dez mil reais);
 V - prestar declarações ou informações inverídicas, falsificar, adulterar, inutilizar, simular ou alterar registros e escrituração de livros e outros documentos exigidos na legislação aplicável:
 Multa - de R$ 20.000,00 (vinte mil reais) a R$ 1.000.000,00 (um milhão de reais);
-VI - não apresentar, na forma e no prazo estabelecidos na legislação aplicável ou, na sua ausência, no prazo de 48 (quarenta e oito) horas, os documentos comprobatórios de produção, importação, exportação, refino, beneficiamento, tratamento, processamento, transporte, transferência, armazenagem, estocagem, distribuição, revenda, destinação e comercialização de petróleo, gás natural, seus derivados e biocombustíveis:
+VI - não apresentar, na forma e no prazo estabelecidos na legislação aplicável ou, na sua ausência, no prazo de 48 (quarenta e oito) horas, os documentos comprobatórios da captura e da estocagem geológica de dióxido de carbono e os documentos de produção, importação, exportação, refino, beneficiamento, tratamento, processamento, transporte, transferência, armazenagem, estocagem, distribuição, revenda, destinação e comercialização de petróleo, de gás natural, de seus derivados, de combustíveis sintéticos e de biocombustíveis:
 Multa - de R$ 20.000,00 (vinte mil reais) a R$ 1.000.000,00 (um milhão de reais);
 VII - prestar declarações ou informações inverídicas, falsificar, adulterar, inutilizar, simular ou alterar registros e escrituração de livros e outros documentos exigidos na legislação aplicável, para o fim de receber indevidamente valores a título de benefício fiscal ou tributário, subsídio, ressarcimento de frete, despesas de transferência, estocagem e comercialização:
 Multa - de R$ 500.000,00 (quinhentos mil reais) a R$ 5.000.000,00 (cinco milhões de reais);
-VIII - deixar de atender às normas de segurança previstas para o comércio ou estocagem de combustíveis, colocando em perigo direto e iminente a vida, a integridade física ou a saúde, o patrimônio público ou privado, a ordem pública ou o regular abastecimento nacional de combustíveis:
+VIII - deixar de atender às normas de segurança previstas para o comércio ou a estocagem de combustíveis e para a captura e a estocagem geológica de dióxido de carbono, colocando em perigo direto e iminente a vida, a integridade física ou a saúde, o patrimônio público ou privado, a ordem pública ou o regular abastecimento nacional de combustíveis:
 Multa - de R$ 20.000,00 (vinte mil reais) a R$ 1.000.000,00 (um milhão de reais);
 IX - construir ou operar instalações e equipamentos necessários ao exercício das atividades abrangidas por esta Lei em desacordo com a legislação aplicável:
 Multa - de R$ 5.000,00 (cinco mil reais) a R$ 2.000.000,00 (dois milhões de reais);
@@ -33,7 +33,7 @@ XVI - deixar de cumprir Notificação para apresentação de documentos ou atend
 Multa - de R$ 5.000,00 (cinco mil reais) a R$ 100.000,00 (cem mil reais);
 XVII - deixar de comprovar orientação ou entrega de manuais, documentos, formulários e equipamentos necessários na forma da legislação vigente:
 Multa - de R$ 10.000,00 (dez mil reais) a R$ 500.000,00 (quinhentos mil reais);
-XVIII - não dispor de equipamentos necessários à verificação da qualidade, quantidade estocada e comercializada dos produtos derivados de petróleo, do gás natural e seus derivados, e dos biocombustíveis:
+XVIII - não dispor de equipamentos necessários à verificação da qualidade e da quantidade estocada e comercializada dos produtos derivados de petróleo, do gás natural e dos seus derivados, dos combustíveis sintéticos e dos biocombustíveis;
 Multa - de R$ 5.000,00 (cinco mil reais) a R$ 50.000,00 (cinqüenta mil reais).
 XIX - não enviar, na forma e no prazo estabelecidos na legislação aplicável, as informações mensais sobre suas atividades:
 Multa - de R$ 20.000,00 (vinte mil reais) a R$ 1.000.000,00 (um milhão de reais).
