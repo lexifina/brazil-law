@@ -1,0 +1,23 @@
+DECISÃO
+Na origem, trata-se de ação de cobrança, pelo rito ordinário, em face de Município Vila Velha/ES. Na sentença, julgou-se parcialmente procedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 286.135,97.
+O recurso espec ial, fundamentado no art. 105, III, a, da Constituição Federal foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA - DIREITO PROCESSUAL CIVIL - SUCUMBÊNCIA PARCIAL - DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS - VALOR DA CAUSA - DIALETICIDADE - RECURSO CONHECIDO E IMPROVIDO. REMESSA NECESSÁRIA IMPROCEDENTE. I - O Autor/Apelante sucumbiu" da metade dos pedidos encartados na inicial, sendo de rigor portanto a distribuição dos ônus sucumbenciais de igual maneira, a teor do Art. 86 do CPC. II - Não merece acolhida a pretensão de modificação do valor da causa em sede de apelo, após a prolação de sentença, sem que tal questão tenha sido suscitada na origem. A uma, o pleito carece de dialeticidade e esbarra na vedação à inovação recursal; a duas, trata-se de comportamento contraditório, já que o valor da causa foi dado pelo próprio Recorrente, na inicial. III - Recurso conhecido e improvido. Remessa necessária improcedente.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Como se vê, a r. sentença objurgada é iliquida e cuidou apenas de: (i) julgar improcedente o pedido de juros e correção monetária de valores pretensamente em atraso; e (ii) julgar procedente o pedido dos reajustes previstos no contrato firmado com a Administração. Nesse sentido, penso que não merece acolhida o esforço argumentativo do Recorrente, que busca demonstrar que o proveito econômico obtido por meio da procedência de um de seus pedidos é duas vezes maior do que aquele que seria obtido como pedido em que sucumbiu.
+ ..
+Como se vê, de forma cristalina, o Autor/Apelante sucumbiu da metade dos pedidos encartados na inicial, sendo de rigor portanto a distribuição dos ônus sucumbenciais de igual maneira, a teor do Art. 86 do CPC:
+ ..
+Não merece reforma, portanto, a r. sentença neste ponto., Tampouco merece acolhida a pretensão de modificação do valor da  ausa em sede de apelo, após a prolação de sentença, sem que tal questão tenha sido suscitada na origem.
+ ..
+A uma, o pleito carece de dialeticidade e esbarra na vedação à inovação recursal; a duas, trata-se de comportamento contraditório, já que o valor da causa foi dado pelo próprio Recorrente, na inicial.
+ ..
+Conforme assentou o d. Magistrado a guo, a despeito de previsão expressa no contrato (cláusula sétima, item 7.1) , restou incontroverso que os reajustes relativos às avenças nº 161/15 e 192/14 não foram pagos, em que pese cumpridos os requisitos para tanto (requerimentos de fls. 65/68, 257/260 e 284/312).
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (arts. 85, § 4º, II, e 86, do CPC/2015) de esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
