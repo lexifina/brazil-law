@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de DIOGO DE SOUZA MOREIRA BRANDI e JOSLAN ROMERO COSTA em que se aponta como ato coator a decisão monocrática de Desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que indeferiu o pedido de liminar formulado no HC n. 1.0000.24.434144-2/000.
+Consta dos autos a prisão em flagrante dos pacientes, posteriormente convertida em custódia preventiva, decorrente de suposta prática do delito capitulado no art. 155, § 4º, IV, do Código Penal.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto a segregação processual dos pacientes, com predicados pessoais favoráveis, encontra-se despida de fundamentação idônea, já que baseada em decisão genérica, e não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP.
+Aduz não haver indícios suficientes de autoria e materialidade da prática delitiva, pois os pertences encontrados com os pacientes se encontravam na beira da estrada, e não dentro do baú do caminhão saqueado, para que se configure a suposta prática do delito de furto.
+Afirma que se revelam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do aludido diploma legal, mesmo porque, em caso de eventual condenação, os pacientes serão submetidos a regime inicial de cumprimento da pena mais brando do que o fechado.
+Requer, assim, liminarmente e no mérito, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É o relatório.
+Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16.11.2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 27.9.2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que a prisão tem por base elementos concretos que indicam o risco de reiteração delitiva pelos pacientes em razão de seus antecedentes criminais e foi decretada com base na seguinte motivação, adotada na origem (fls. 35-36):
+ ..  Analisando detidamente os autos, vislumbro a existência da materialidade do crime de furto qualificado, bem como fortes indícios de autoria dos autuados. Com efeito, a vítima narrou que se envolveu em um acidente automobilístico e teve a carga do seu caminhão saqueada. Asseverou que reconheceu os diversos pacotes encontrados no veículo dos autuados como sendo parte da carga que lhe foi subtraída. Mencionou que durante o crime, indivíduos ameaçaram-no para não filmar a ação dos meliantes. Na mesma esteira, os policiais rodoviários federais inquiridos disseram que após tomarem conhecimento do furto de carga, lograram interceptar o veículo ocupado pelos autuados na Rodovia, oportunidade em que encontraram a carga subtraída no interior do furgão. Já os autuados, por ocasião de seus interrogatórios extrajudiciais, disseram que pegaram os pacotes dentro de uma sacola, pois populares disseram que era lixo. Diante dos elementos constantes nos autos, neste juízo prévio, existem fortes indícios de que os autuados praticaram o crime de furto qualificado, em concurso de pessoa, consoante se extrai das declarações da vítima e do relato dos policiais, sendo, com isso, necessário seus encarceramentos cautelares para garantia da ordem pública. Cabe ressaltar que as certidões de antecedentes criminais dos autuados Joslan e Diogo revelam a reincidência e os maus antecedentes de ambos na prática de crimes graves, fatores que evidenciam a alta probabilidade de reiteração delitiva e objetivamente demonstram o perigo gerado pelo estado de liberdade dos imputados.  ..  Finalmente, pelos mesmos argumentos delineados em linhas anteriores, vislumbro que a aplicação de medidas cautelares diversas da prisão, in casu, seriam insuficientes, ante a periculosidade dos autuados Joslan e Diogo e a alta probabilidade de reiteração delitiva, consubstanciada por seus antecedentes criminais e pelas circunstâncias em que os fatos se deram.  ..
+Ademais, segundo alguns julgados do STJ, apresenta-se inviável a análise da ofensa ao princípio da homogeneidade em Habeas Corpus dada a impossibilidade de se antever a pena e o regime inicial de cumprimento a serem fixados na sentença condenatória.
+Quanto ao mais, em especial no que tange à análise da suficiência dos indícios de autoria e da materialidade, trata-se de matéria sensível e que demanda maior reflexão, sendo prudente, portanto, aguardar o julgamento definitivo do Habeas Corpus impetrado no Tribunal a quo antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
