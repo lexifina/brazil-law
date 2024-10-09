@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes.
+EMENTA
+PENAL  E  PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO AGRAVO EM RECURSO ESPECIAL.  FURTO QUALIFICADO.  DOSIMETRIA. PENA-BASE. NEGATIVAÇÃO  DE  CIRCUNSTÂNCIA  JUDICIAL  DO  ART.  59  DO  CÓDIGO  PENAL  . FUNDAMENTAÇÃO  IDÔNEA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  Na  esteira  da  orientação  jurisprudencial  desta  Corte Superior,  por  se  tratar  de  questão  afeta  a  certa  discricionariedade  do  magistrado,  a  dosimetria  da  pena  é  passível  de  revisão  nesta  instância  extraordinária  apenas  em  hipóteses  excepcionais,  quando  ficar  evidenciada  flagrante  ilegalidade,  constatada  de  plano,  sem  a  necessidade  de  reexame  do  acervo  fático-probatório  dos  autos.
+2.  É  garantida, assim, a liberdade do  julgador  para  a  fixação  da  pena-base,  desde que dentro  do  seu  livre  convencimento  motivado  e  de  acordo  com  as  peculiaridades  do  caso  concreto,  o  que  se  verifica  na  espécie,  uma  vez  que  apresentado  pelas instâncias ordinárias  elemento  que  demonstra  que  a  conduta  perpetrada  desborda  do  tipo  penal em questão  e  revela  maior  desvalor  ,  justificando-se  escorreitamente  a  negativação  da  culpabilidade .
+3.  Agravo  regimental  desprovido,  mantida  a  decisão  agravada  por  seus  próprios  fundamentos.
+RELATÓRIO
+O  EXMO.  SR.  MINISTRO  ANTONIO  SALDANHA  PALHEIRO  (Relator):
+Trata-se  de  agravo  regimental  interposto  por  FRANCISCO  FERREIRA  DOS  SANTOS  JUNIOR  contra  decisão  monocrática  de  minha  lavra  (e-STJ  fls.  304/306).
+Consta  dos  autos  que  o  ora  agravante,  após  parcial  provimento  da  apelação  defensiva,  foi  condenado  à  pena  de  4  anos  e  1  mês  de  reclusão  pela  prática  do  crime  previsto  no  art.  157,  §  4º,  inciso  II,  do  Código  Penal,  cometido  em  24/11/2022.
+Na  decisão  agravada,  conheci  do  agravo  para  negar  provimento  ao  recurso  especial,  por  não  observar  ilegalidade  na  fundamentação  apresentada  pelas  instâncias  de  origem  para  a  negativação  do  vetor  da  culpabilidade,  tendo  em  vista  que  o  ora  agravante  cometeu  o  delito  de  furto  contra  seu  próprio  vizinho,  demonstrando  maior  reprovabilidade  da  conduta.
+Nas  razões  do  presente  agravo,  a  defesa  reprisa  os  argumentos  relativos  à  inadequação  do  referido  fundamento  para  sustentar  o  desabono  à  culpabilidade.
+Requer  a  reconsideração  da  decisão  ou  o  julgamento  do  recurso  pela  Sexta  Turma.
+É  o  relatório.
+EMENTA
+PENAL  E  PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO AGRAVO EM RECURSO ESPECIAL.  FURTO QUALIFICADO.  DOSIMETRIA. PENA-BASE. NEGATIVAÇÃO  DE  CIRCUNSTÂNCIA  JUDICIAL  DO  ART.  59  DO  CÓDIGO  PENAL  . FUNDAMENTAÇÃO  IDÔNEA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  Na  esteira  da  orientação  jurisprudencial  desta  Corte Superior,  por  se  tratar  de  questão  afeta  a  certa  discricionariedade  do  magistrado,  a  dosimetria  da  pena  é  passível  de  revisão  nesta  instância  extraordinária  apenas  em  hipóteses  excepcionais,  quando  ficar  evidenciada  flagrante  ilegalidade,  constatada  de  plano,  sem  a  necessidade  de  reexame  do  acervo  fático-probatório  dos  autos.
+2.  É  garantida, assim, a liberdade do  julgador  para  a  fixação  da  pena-base,  desde que dentro  do  seu  livre  convencimento  motivado  e  de  acordo  com  as  peculiaridades  do  caso  concreto,  o  que  se  verifica  na  espécie,  uma  vez  que  apresentado  pelas instâncias ordinárias  elemento  que  demonstra  que  a  conduta  perpetrada  desborda  do  tipo  penal em questão  e  revela  maior  desvalor  ,  justificando-se  escorreitamente  a  negativação  da  culpabilidade .
+3.  Agravo  regimental  desprovido,  mantida  a  decisão  agravada  por  seus  próprios  fundamentos.
+VOTO
+O  EXMO.  SR.  MINISTRO  ANTONIO  SALDANHA  PALHEIRO  (Relator):
+Não obstante as  razões  da  combativa  defesa,  o  recurso  não  apresenta  argumento  capaz  de  desconstituir  os  fundamentos  que  embasaram  a  decisão  ora  impugnada,  que  deve  ser  integralmente  mantida,  in  verbis  (e-STJ  fls.  305/306):
+De  início,  cumpre  ressaltar  que,  na  esteira  da  orientação  jurisprudencial  desta  Corte,  por  se  tratar  de  questão  afeta  a  certa  discricionariedade  do  magistrado,  a  dosimetria  da  pena  é  passível  de  revisão,  nesta  instância  extraordinária,  apenas  em  hipóteses  excepcionais,  quando  ficar  evidenciada  flagrante  ilega lidade,  constatada  de  plano,  sem  a  necessidade  de  reexame  do  acervo  fático-probatório  dos  autos.
+No  caso  dos  autos,  não  verifico  nenhuma  ilegalidade  na  negativação  da  culpabilidade  do  réu,  uma  vez  que  as  instâncias  de  origem  fundamentaram  tal  desabono  de  forma  escorreita,  pois  calcadas  na  consideração  de  que  a  prática  do  crime  em  desfavor  de  um  vizinho  demonstra,  efetivamente,  tratar-se  de  delito  de  maior  reprovabilidade,  haja  vista  o  maior  desvalor  da  conduta  e  desrespeito  ao  bem  juridicamente  tutelado.
+Por  corroborar  o  entendimento  ora  adotado,  cito  o  parecer  ministerial:
+O  agravante,  nas  razões  do  recurso  especial,  alegou  que  o  acórdão  recorrido  violou  o  art.  59  do  Código  Penal,  ao  manter  a  valoração  negativa  da  culpabilidade,  com  base  em  fundamento  inidôneo,  qual  seja,  o  fato  de  a  vítima  ser  vizinha  do  agravante.
+A  este  respeito,  colhe-se  do  acórdão  recorrido  o  seguinte  (fls.  207/208):
+No  presente  caso,  na  primeira  fase  da  pena  do  acusado/recorrente,  na  análise  das  circunstâncias  judiciais,  o  Juiz  valorou  negativamente  a  culpabilidade,  conduta  social  e  circunstância  do  crime,  fixando  a  pena-base  em  04  anos  e  03  meses  de  reclusão.
+Com  relação  à  culpabilidade,  o  Juiz  utilizou  os  seguintes  fundamentos:
+"Desse  modo,  analisando  o  presente  caso  posto  em  cena,  verifico  que  a  circunstância  judicial  da  culpabilidade  deve  ser  valorada  negativamente  em  desfavor  do  acusado,  tendo  em  vista  que  o  réu  cometeu  o  crime  em  face  de  seu  vizinho,  denotando  total  desapego  ao  convívio  social,  fato  a  ser  sopesado."
+(..)
+Assim,  entende-se  que  deve  ser  considerada  desfavorável  a  culpabilidade  do  apelante,  pois,  no  caso,  extrapolou  os  limites  próprios  do  tipo  penal  cometido,  já  que  o  acusado  furtou  imóvel  de  seu  vizinho,  o  que  merece  maior  reprovabilidade.  Com  efeito,  a  relação  de  cofinantes  funda-se  nos  princípios  de  boa  e  pacífica  convivência,  de  respeito  e,  sempre  que  possível,  de  diálogo  e  cooperação.  Pela  desconsideração  dessas  obrigações,  o  furto  praticado  em  face  de  morador  limítrofe  merece  maior  reprovabilidade.
+A  jurisprudência  desta  Corte  Superior  de  Justiça  é  no  sentido  de  que  a  pena-base  não  pode  ser  fixada  acima  do  mínimo  legal  com  fundamento  em  elementos  constitutivos  do  crime  ou  com  base  em  referências  vagas,  genéricas,  desprovidas  de  fundamentação  objetiva  para  justificar  a  sua  exasperação.  Precedentes:  HC  272.126/MG,  Rel.  Ministro  RIBEIRO  DANTAS,  Quinta  Turma,  julgado  em  8/3/2016,  DJe  17/3/2016;  REsp  1383921/RN,  Rel.  Ministra  MARIA  THEREZA  DE  ASSIS  MOURA,  Sexta  Turma,  julgado  em  16/6/2015,  DJe  25/6/2015;  HC  297.450/RS,  Rel.  Ministro  JORGE  MUSSI,  Quinta  Turma,  julgado  em  21/10/2014,  DJe  29/10/2014.
+No  que  toca  à  culpabilidade,  para  fins  de  individualização  da  pena,  tal  vetorial  deve  ser  compreendida  como  o  juízo  de  reprovabilidade  da  conduta,  ou  seja,  o  menor  ou  maior  grau  de  censura  do  comportamento  do  réu.
+Na  espécie,  as  instâncias  de  origem  apreciaram  concretamente  a  intensidade  da  reprovação  penal,  minudenciando  a  maior  reprovabilidade  da  conduta  praticada,  evidenciada  pelo  fato  de  o  agravante  ter  cometido  o  furto  contra  seu  vizinho.
+Este  fundamento  é  idôneo  para  valoração  negativa  da  culpabilidade  do  réu.  Trata-se  de  crime  contra  o  patrimônio,  o  qual,  cometido  contra  vizinho,  extrapola  os  elementos  inerentes  ao  tipo  por  evidenciar  maior  situação  de  insegurança  no  ambiente  de  moradia.
+
+Ante  o  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
+Ministro  ANTONIO  SALDANHA  PALHEIRO
+Relator
