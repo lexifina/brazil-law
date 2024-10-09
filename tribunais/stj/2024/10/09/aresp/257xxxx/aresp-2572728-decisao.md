@@ -1,0 +1,94 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO PEREIRA DE CARVALHO, contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu recurso especial apresentado contra acórdão proferido na Apelação Criminal n. 5000417-97.2021.4.04.7107/RS.
+Consta dos autos que a parte agravante foi condenada, em primeiro grau, à pena de 03 (três) anos de reclusão, em regime inicial aberto, pela prática do crime previsto no art. 334-A, § 1º, I e IV, do Código Penal, c/c o art. 3º do Decreto-Lei n. 399/1968. A pena corporal foi substituída por duas penas restritivas de direito, consistentes em: (i) prestação de serviços à comunidade ou a entidades públicas e (ii) prestação pecuniária, no valor de 10 (dez) salários mínimos.
+Em segunda instância, o Tribunal de origem negou provimento à apelação interposta pela Defesa, em acórdão assim ementado (fl. 346):
+PENAL. PROCESSO PENAL. CONTRABANDO DE CIGARROS (ART. 334-A, § 1º, INCISOS I E IV, DO CP, C/C O ART. 3º DO DECRETO-LEI Nº 399/68). MÉRITO. MATERIALIDADE, AUTORIA E DOLO DEMONSTRADOS. CONDENAÇÃO MANTIDA. DOSIMETRIA. PENA-BASE. VETORIAL CIRCUNSTÂNCIAS. QUANTITATIVO DE CIGARROS. QUANTUM DE EXASPERAÇÃO.
+1. Devidamente comprovadas a materialidade e a autoria delitivas, bem assim o dolo do agente, sendo o fato típico, antijurídico e culpável e considerando a inexistência de causas excludentes, deve ser mantida a condenação pelo crime previsto no art. 334-A, § 1º, incisos I e IV, do CP, c/c o art. 3º do Decreto-lei nº 399/68.
+2. Conforme entendimento consolidado por ambas as turmas criminais deste Tribunal, autoriza-se o incremento de 1 (um) mês à pena-base, sob a vetorial circunstâncias, para cada 30 mil maços de cigarros apreendidos, limitado o acréscimo a 12 (doze) meses. Precedentes.
+Nas razões do recurso especial, a parte alega violação dos artigos 44, III, 45, §1º, 59 e 68 do Código Penal e artigos 381, III, 387, II e III, e 564, V, do Código de Processo Penal.
+Para tanto, sustenta que teria sido desproporcional o aumento da pena-base, tendo em vista que apenas uma circunstância judicial foi considerada desfavorável, devendo ser redimensionada a reprimenda com a utilização da fração de 1/6 (um sexto).
+Aduz que deve ser reduzido o valor da prestação pecuniária fixada em substituição à pena privativa de liberdade, no valor de 10 (dez) salários-mínimos, pois desproporcional à situação dos autos, não tendo sido levada em consideração a capacidade econômica do réu.
+Contrarrazões apresentadas às fls. 374-381.
+O Tribunal a quo inadmitiu o apelo especial por incidência das Súmulas 7 e 83/STJ, fundamentos contra os quais se insurge a parte agravante (fls. 395-415).
+Parecer do Ministério Público Federal pelo não conhecimento do recurso (fls. 433-437).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Em relação ao cálculo da pena, sabe-se que não há, na legislação penal brasileira, critério matemático para a fixação da pena na primeira fase da dosimetria. Esse, inclusive, é o entendimento desta Corte superior.
+A propósito:
+Não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal. Ao contrário, é garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto (AgRg no HC n. 869.676/MT, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 11/4/2024).
+Assim, ao contrário do afirmado pela defesa em suas razões recursais, não há falar em critério matemático impositivo estabelecido pela jurisprudência do Superior Tribunal de Justiça,
+mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada) (AgRg no HC n. 603.620/MS, Ministro Sebastião Reis Júnior, Sexta Turma, DJe 9/10/2020).
+Nesse sentido: AgRg no AREsp n. 1.218.352/MG, Ministro Jorge Mussi, Quinta Turma, DJe 5/12/2018; e AgRg no AREsp n. 1.195.931/SE, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/11/2018.
+Desse modo, compreende-se que
+o magistrado não está obrigado a seguir um critério matemático rígido, de modo que não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias (AgRg no AgRg no AREsp n. 2.466.029/SC, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024, grifamos).
+Na hipótese dos autos, ao analisar a matéria, o Tribunal de Justiça expressamente consignou o seguinte (fl. 343):
+Na primeira fase da dosimetria, a pena-base foi exasperada em 1 (um) ano pela negativação da vetorial circunstâncias, em razão da elevada quantidade de cigarros apreendida.
+A defesa postula a redução do quantum de exasperação, por entendê-lo desproporcional. Ocorre, porém, que conforme entendimento consolidado por ambas as turmas criminais deste Tribunal, autoriza-se o incremento de 1 (um) mês à pena-base, sob a vetorial circunstâncias, para cada 30 mil maços de cigarros apreendidos, limitado o acréscimo a 12 (doze) meses. Nesse sentido:
+(..)
+Isso posto, mantenho a pena-base tal qual fixada na sentença, a saber, 3 (três) anos de reclusão.
+Assim, verifica-se que houve indicação de fundamentação concreta - a quantidade de cigarros apreendidos - 395.000 trezentos e noventa e cinco mil) maços de cigarros de procedência estrangeira - fl. 336 - para a eleição do quantum de exasperação para a circunstância judicial valorada negativamente, de modo que não se constata ilegalidade manifesta apta a ensejar a atuação excepcional desta Corte Superior quanto ao tema em questão.
+Com a mesma conclusão:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. PENA-BASE. QUANTIDADE DE MAÇOS APREENDIDOS. INCREMENTO. POSSIBILIDADE. QUANTUM FIXADO. LIVRE CONVENCIMENTO MOTIVADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A grande quantidade de cigarros contrabandeados pelo réu (462.500 maços) justifica o incremento da pena-base em 2/3, inexistindo direito do subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 sobre a pena- base, 1/8 do intervalo supracitado ou mesmo outro valor (AgRg no REsp n. 1.966.870/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/3/2022, DJe de 18/3/2022).
+2. Agravo regimental improvido.
+(AgRg no AREsp n. 2.696.009/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/9/2024, DJe de 1/10/2024.)
+PENAL. PROVESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. ELEVADA QUANTIDADE DE MAÇOS DE CIGARROS APREENDIDA. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL E IDÔNEA PARA O AUMENTO DA PENA-BASE. AUSÊNCIA DE NOVOS ELEMENTOS DE IMPUGNAÇÃO DA DECISÃO. PRECEDENTES. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão recorrida por seus próprios fundamentos.
+II - Há fundamentação idônea e concreta para a fixação da pena base acima do mínimo legal, observados como foram os critérios e realizada de maneira razoável e proporcional. Definitivamente não há violação a dispositivo de lei ou interpretação da jurisprudência desta Corte a legitimar a interferência nas conclusões alcançadas nas instâncias ordinárias.
+III - É oportuno registrar que a jurisprudência desta Corte se firmou no sentido de que a quantidade de maços de cigarros apreendidas é fundamento idôneo para o aumento da pena-base, por indicar maior reprovabilidade da conduta. Precedente.
+IV - Em sendo assim, por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, de vez que neste agravo regimental não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, esta deve ser mantida por seus próprios e jurídicos fundamentos..
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.978.205/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/8/2024, DJe de 12/8/2024.)
+Em relação à redução do valor fixado a título de prestação pecuniária substitutiva, é firme a jurisprudência desta Corte Superior no sentido de que a
+pena substitutiva não perde seu caráter sancionatório e deve ser adequada e suficiente a atingir a finalidade reparadora da reprimenda. A sua escolha não se submete à conveniência do sentenciado, embora deva ser observada a capacidade/razoabilidade de ser cumprida (AgRg no AREsp 1237666/GO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/5/2019, DJe 6/6/2019).
+Nessa linha, este Superior Tribunal consolidou o entendimento de que, nos termos do § 1º do artigo 45 do Código Penal, a finalidade da prestação pecuniária é reparar o dano causado pela infração penal, motivo pelo qual não precisa guardar correspondência ou ser proporcional à pena privativa de liberdade irrogada ao acusado (AgRg no REsp 1.707.982/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/4/2018, DJe 27/4/2018).
+No caso concreto, o Tribunal de origem, na apreciação do apelo defensivo, manteve a pena substitutiva de prestação pecuniária no patamar estipulado pelo Juízo sentenciante, com a seguinte fundamentação (fls. 344-345, grifamos):
+A defesa do apelante postula a redução do valor fixado a título de prestação pecuniária.
+Para a definição do valor da prestação pecuniária, devem ser levadas em conta as vetoriais do artigo 59 do Código Penal, a extensão do dano ocasionado pelo delito, a situação financeira do agente e a necessária correspondência com a pena substituída.
+No caso, trata-se de crime praticado por particular contra a Administração em geral, consubstanciado no transporte de cigarros de origem estrangeira, mercadoria sujeita a proibição relativa de importação.
+Em relação à condição financeira do réu, este informou em juízo que trabalha com comercialização de madeira e aufere renda mensal aproximada de R$ 3.000,00 (evento 85, VIDEO2).
+Destaco ainda que a Receita Federal avaliou em R$ 1.975.000,00 a carga irregular e em R$ 1.283.750,00 o valor dos tributos que seriam devidos no caso de regular importação das mercadorias (II  IPI) (IPL, evento 124, NOT_CRIME2, p. 8).
+Cumpre acrescentar que o réu pagou fiança no valor de R$ 30.000,00 (trinta mil reais) em 17/02/2020, treze dias após o fato (IPL, evento 75, GUIAS_DE_CUSTAS5).
+A avaliação de todos esses elementos não autoriza a redução do valor da prestação pecuniária.
+Outrossim, saliento que, segundo entendimento doutrinário e jurisprudencial, a prestação de serviços à comunidade é a modalidade que melhor atinge as finalidades da substituição, porquanto afasta o condenado da prisão e exige dele um esforço em favor de entidade que atua em benefício do interesse público.
+Assim, tem eficácia preventiva geral, pois evidencia publicamente o cumprimento da pena, reduzindo a sensação de impunidade, além de ser executada de maneira socialmente útil. Ainda, tem eficácia preventiva especial e retributiva, pois seu efetivo cumprimento reduz os índices de reincidência.
+Já a prestação pecuniária é considerada adequada por penalizar o sentenciado ao atingir seu patrimônio. E, mais, trata-se de um meio compatível para restabelecer o equilíbrio jurídico e social perturbado pela infração, uma vez que proporciona um auxílio à comunidade.
+Ressalto, ainda, que, comprovada a impossibilidade do pagamento integral, poderá haver o parcelamento em sede de execução penal.
+Do exame do excerto acima transcrito, é possível verificar que as instâncias originárias consideraram, na fixação da prestação pecuniária, as peculiaridades do caso concreto, qual seja, o valor pago a título de fiança (R$ 30.000,00), pontuando, ainda, a capacidade econômica do recorrente.
+Assim, entendo que a conjugação dos fatores apontados pelo Tribunal de origem se revela suficiente para justificar o valor fixado a título de prestação pecuniária.
+Para desconstituir as conclusões alcançadas pelas instâncias ordinárias, com fundamento em exame do conjunto fático-probatório carreado aos autos, para o fim de reduzir o valor fixado, com base na alegada incapacidade econômica do recorrente, seria necessário o revolvimento do conjunto probatório, providência vedada na via eleita, ante o disposto na Súmula n. 7/STJ.
+No mesmo sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO INTERNACIONAL DE DROGAS, TRÁFICO TRANSNACIONAL DE ARMAS E CONTRABANDO DE CIGARROS. VIOLAÇÃO DO ART. 45, § 1º, DO CP. PEDIDO DE REDUÇÃO DA PENA DE PRESTAÇÃO PECUNIÁRIA. ALTERAÇÃO. DESCABIMENTO. FIXAÇÃO NOS TERMOS DA LEI. CONDIÇÕES FINANCEIRAS. ANÁLISE DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ.
+(..)
+2. Rever a situação econômico-financeira do agravante, de modo a alterar o entendimento adotado na instância ordinária, demandaria, novamente, reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial (AgInt no AREsp n. 1.044.643/ES, Ministro Sebastião Reis Junior, Sexta Turma, DJe 21/5/2018).
+3. Fixada fundamentadamente pelo Tribunal de origem a prestação pecuniária, levando em conta as peculiaridades do caso e a renda mensal declarada pelo réu, o acolhimento do pleito de revisão da proporcionalidade da prestação pecuniária demandaria imprescindível reexame de matéria fático-probatória, inviável em recurso especial, ante o óbice da Súmula 7/STJ (AgRg nos EDcl no AREsp n. 1.686.679/PR, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/8/2020).
+4. Agravo regimental desprovido. (AgRg no REsp n. 1.862.237/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/3/2023, DJe 10/3/2023).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESTAÇÃO PECUNIÁRIA. VALOR. FUNDAMENTAÇÃO CONCRETA. DESCONSTITUIÇÃO DAS PREMISSAS FÁTICAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na espécie, as instâncias de origem levaram em consideração não apenas a condição financeira do acusado, mas também o valor pago a título de fiança, bem como a extensão do delito. Tais fatores, conjugados, são suficientes para justificar o valor fixado a título de pena restritiva de direitos.
+2. Para desconstituir as premissas fáticas firmadas pelas instâncias de origem, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado nesta via especial ante a Súmula n. 7 do STJ.
+3. Agravo regimental não provido. (AgRg no REsp n. 1.898.528/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/8/2022, DJe de 23/8/2022.)
+RECURSO ESPECIAL. DIREITO PENAL. ART. 313-A DO CÓDIGO PENAL. DOSIMETRIA. CIRCUNSTÂNCIAS DO CRIME. ACRÉSCIMO DA PENA-BASE CONCRETAMENTE MOTIVADO. INEXISTÊNCIA DE CRITÉRIO PURAMENTE MATEMÁTICO. REDUÇÃO DO VALOR DA PRESTAÇÃO PECUNIÁRIA. NECESSIDADE DE REVOLVIMENTO DO QUADRO FÁTICO-PROBATÓRIO. ÓBICE DA SUMULA N. 7 DO STJ. FINALIDADE DA PRESTAÇÃO PECUNIÁRIA. REPARAÇÃO DO DANO. DESNECESSIDADE DE CORRESPONDÊNCIA COM O MONTANTE DA PENA PRIVATIVA DE LIBERDADE. RECURSO DESPROVIDO.
+(..)
+4. O exame da pretensão de redução do valor da prestação pecuniária demanda revolvimento do quadro fático-probatório, não admitido na via do recurso especial, em razão do óbice da Súmula n. 7 do STJ.
+5. A finalidade da prestação pecuniária (art. 43, I, do Código Penal) é auxiliar na reparação do dano, sendo desnecessária correspondência ou proporcionalidade entre seu valor e o montante da pena privativa de liberdade substituída.
+6. Recurso especial desprovido.
+(REsp n. 1.945.656/PR, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/9/2021, DJe de 20/9/2021.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. ABSOLVIÇÃO. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE COMPROVADAS. SÚMULA N. 7/STJ. AFASTAMENTO DA SUSPENSÃO DA HABILITAÇÃO PARA DIRIGIR VEÍCULO AUTOMOTOR. SOBRESTAMENTO DO FEITO. RE N. 607.107/MG. TEMA 486. JULGADO CONSTITUCIONAL. MANUTENÇÃO DAS PENAS RESTRITIVAS DE DIREITOS. PLEITO DE REDUÇÃO DA SANÇÃO PECUNIÁRIA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO CORRETA. SÚMULA N. 7/STJ.
+(..).
+5. Inviável a redução pecuniária pretendida pela defesa. As instâncias ordinárias fixaram multa no valor de 10 salários mínimos com base na capacidade econômica do acusado. Desconstituir a conclusão alcançada, demandaria, necessariamente, um aprofundado revolvimento do conjunto probatório, providência vedada em sede de recurso especial. Incidência da Súmula n. 7/STJ.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 1.677.731/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/8/2020, DJe de 24/8/2020.)
+Ademais, cumpre ressaltar que admite-se a utilização da fiança prestada nos autos para o pagamento da prestação pecuniária, descontados os demais encargos a que se refere o art. 336, do CPP (custas, indenização do dano e multa).
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. AFASTAMENTO. EXECUÇÃO PENAL. FIANÇA. PAGAMENTO DE CUSTAS PROCESSUAIS. PREVISÃO LEGAL. POSSIBILIDADE.
+ ..
+2. Admite-se a utilização do valor prestado a título de fiança para pagamento da prestação pecuniária, descontados os demais encargos previstos no art. 336 do CPP. Precedente. Há, portanto, uma ordem de preferência a ser seguida: as custas processuais, a indenização do dano, a prestação pecuniária e a multa. Precedentes.
+3. Agravo regimental provido para conhecer do agravo em recurso especial, mas negar-lhe provimento. (AgRg no AREsp n. 1.860.042/DF, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), SEXTA TURMA, julgado em 15/2/2022, DJe 21/2/2022).
+PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. FIANÇA. PAGAMENTO DE CUSTAS PROCESSUAIS. PREVISÃO LEGAL. ART. 336 DO CPP. POSSIBILIDADE. RECURSO IMPROVIDO.
+1. À luz do art. 336 do Código de Processo Penal, o valor pago a título de fiança será utilizado para o pagamento das custas processuais, indenização do dano, prestação pecuniária e multa.
+2. Admite-se a utilização do valor prestado a título de fiança para pagamento da prestação pecuniária, descontados os encargos previstos no art. 336 do CPP. Precedente.
+3. Recurso especial improvido. (REsp 1744771/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/10/2018, DJe 16/10/2018).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
