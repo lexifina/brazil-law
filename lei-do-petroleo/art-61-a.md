@@ -1,0 +1,1 @@
+Art. 61-A. Fica a Petrobras autorizada a incluir no seu objeto social as atividades vinculadas à energia, bem como as atividades relacionadas à movimentação e à estocagem de dióxido de carbono, à transição energética e à economia de baixo carbono.
