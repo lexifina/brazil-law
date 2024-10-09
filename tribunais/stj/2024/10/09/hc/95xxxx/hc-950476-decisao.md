@@ -1,0 +1,13 @@
+DECISÃO
+Por meio deste writ, pleiteia-se, inclusive em caráter liminar, a concessão da ordem de habeas corpus a fim de que seja concedido o acordo de não persecução penal a Atahanderson de Andrade Mesquita na Ação Penal n. 000062-44.2020.8.17.0340, da Vara Única da comarca de Brejo da Madre de Deus/PE.
+O impetrante insurge-se contra o ato da Desembargadora Relatora no Agravo Interno no Habeas Corpus n. 0002077-75.2024.8.17.9480 que, singularmente, não conheceu do recurso em tramitação no Tribunal de Justiça do Pernambuco.
+Sucede, no entanto, que é inviável a dupla supressão de instância para tratar, diretamente no Superior Tribunal de Justiça, de tema que nem sequer foi objeto de decisão do Juízo de primeiro grau.
+Observa-se dos documentos que instruem os presentes autos que o Promotor de Justiça manifestou não ter interesse na manutenção do acordo de não persecução penal anteriormente proposto, em razão da irretroatividade da norma (fl. 48/49). E, embora seja hipótese legalmente prevista no Código de Processo Penal, ao que tudo indica, a defesa não formulou, em primeiro grau, pedido de remessa dos autos ao Procurador-Geral de Justiça do Estado do Pernambuco.
+De mais a mais, a recente decisão do Supremo Tribunal Federal sobre a matéria reforça a necessidade de que a questão seja resolvida em primeiro grau, pois foi estabelecido no julgamento do HC n. 185.193/DF que, nos processos penais em andamento na data da publicação da ata do julgamento, realizado em 18/9/2023, o Ministério Público, por iniciativa própria, a pedido da defesa ou do magistrado da causa, deverá se manifestar sobre o cabimento do acordo na primeira oportunidade em que atuar nos autos.
+Afora isso, vale lembrar também que não tem cabimento o ajuizamento aqui de writ contra decisão monocrática proferida por Desembargador Relator da impetração feita na Corte estadual, como na espécie.
+Por fim, o habeas corpus não pode ser utilizado como panaceia universal destinada à cura de todos os males processuais a pretexto de ser garantia constitucional, ainda mais em hipóteses como a dos autos em que não se questiona ofensa direta ao direito de ir e vir do paciente.
+Diante do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO CULPOSO NA CONDUÇÃO DE VEÍCULO AUTOMOTOR. RETROATIVIDADE DO ACORDO DE NÃO PERSECUÇÃO PENAL. AUSÊNCIA DE PRONUNCIAMENTO COLEGIADO NA INSTÂNCIA ANTECEDENTE. INVIABILIDADE DE ANÁLISE DA MATÉRIA PELO STJ. DUPLA SUPRESSÃO DE INSTÂNCIA. QUESTIONAMENTO QUE NÃO ENVOLVE OFENSA DIRETA AO DIREITO DE IR E VIR DO PACIENTE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
