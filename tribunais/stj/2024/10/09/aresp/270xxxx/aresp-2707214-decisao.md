@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de Agravo apresentado por EMBRACON ADMINISTRADORA DE CONSORCIO LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO ANULATÓRIA DE EXECUÇÃO EXTRAJUDICIAL - TUTELA PROVISÓRIA DE URGÊNCIA  REQUISITOS ESTABELECIDOS PELO ARTIGO 300 DO NOVO CÓDIGO DE PROCESSO CIVIL - EVENTUAL IRREGULARIDADE NA NOTIFICAÇÃO EXTRAJUDICIAL QUE LEVARIA À NULIDADE DO PROCEDIMENTO PRESCRITO NA LEI MENCIONADA  PERIGO DE DANO - NECESSIDADE DE QUE SEJAM OBTIDOS MAIORES ELEMENTOS ACERCA DA CONTROVÉRSIA  DECISÃO QUE PODERÁ SER REVISTA APÓS CONTRADITÓRIO.
+AGRAVO DE INSTRUMENTO NÃO PROVIDO (fl. 192).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 26 e 30 da Lei n. 9.514/1997; e 300 do CPC, no que concerne ao afastamento da liminar para a suspensão de procedimento expropriatório de imóvel, trazendo a seguinte argumentação:
+Concernente ao pedido liminar para que seja determinada a suspensão do procedimento expropriatório do imóvel objeto do contrato firmado entre as partes, note-se Excelência, que não há como prosperar, por obstar o exercício regular de direito da Recorrente.
+Como dito, o bem imóvel é garantia do contrato em demanda, assim, em caso de inadimplemento das obrigações, como ocorreu, imperioso que a Recorrente, na qualidade de credora, tome as providências legais pertinentes para assegurar seu direito, medidas que poderão inclusive, culminar na alienação extrajudicial bem.
+Cumpre dizer que o deferimento de tal medida implica em CERCEAMENTO DO DIREITO da Recorrente, que fica impedido de reaver o seu crédito, afrontando, desta forma, dispositivo expresso da Constituição Federal.
+ ..
+Como restou demonstrado, o procedimento expropriatório ocorreu nos estritos termos previstos na Lei 9.514/97, tendo sido a propriedade do imóvel objeto da garantia do contrato firmado entre as partes consolidada ao patrimônio do Credor, assim, eventual prejuízo, deverá ser resolvido em perdas e danos, não sendo lícito obstar o prosseguimento do procedimento expropriatório.
+ ..
+Concernente ao mérito da demanda para suspender os efeitos do procedimento expropriatório do imóvel dado em garantia, note-se Excelência, que não há como prosperar, por obstar o exercício regular de direito da Recorrente, haja vista que esta respeitou o procedimento extrajudicial previsto na Lei nº 9.514/97.
+O bem imóvel é garantia do contrato em demanda, assim, em caso de inadimplemento das obrigações, imperioso que a Recorrente, na qualidade de credora, tome as providências legais pertinentes para assegurar seu direito e tomar medidas que poderão inclusive, culminar na alienação extrajudicial bem.
+Como previsto em Lei, referida notificação foi enviada ao Cartório de Registro de Imóveis competente, ao qual tomou todas as providências para a notificação do Recorrido.
+ ..
+Quanto à alegada falsidade na assinatura aposta na notificação enviada, juntada às fls. a mesma é expressamente impugnada pela Administradora Recorrente, pois diferente do que se afirma na inicial, as assinaturas apostas nos documentos de fls. 89 e 101, são muito semelhantes à assinatura constante do contrato firmado:
+ ..
+Assim, segundo disposição do artigo 26 da lei 9.514/97, ante a inadimplência do Recorrido, este foi intimado para purgar a mora no prazo de 15 dias, no entanto, deixou transcorrer in albis o referido prazo.
+Decorrido o prazo sem a purgação da mora, segundo disposição do § 7º do artigo 26, da Lei 9514/97, a propriedade do imóvel sub judice foi consolidada ao patrimônio da Recorrente, e nenhuma irregularidade há nesse procedimento.
+ ..
+Assim, resta devidamente demonstrada a lisura com que todo o procedimento expropriatório foi realizado, inexistindo qualquer razão para que o mesmo seja anulado, restando claro que o Recorrido não purgou a mora ou exerceu seu direito de preferência por absoluta falta de interesse.
+ ..
+A Recorrente agiu com total transparência e boa fé, e, em nenhum momento ocorreu qualquer mudança que caracterize a prestação como imprevisível ou abusiva onerosidade, tendo sido o contrato firmado de forma a prestigiar o princípio da autonomia da vontade, onde a liberdade de contratação deve nortear as relações jurídicas privadas (fls. 214/224).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide, por analogia, a Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de Recurso Especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão a qualquer momento pela instância a quo.
+Nesse sentido: "É sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas mediante cognição sumária e avaliação de verossimilhança. Logo, por não representarem pronunciamento definitivo a respeito do direito reclamado na demanda, são medidas suscetíveis de modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza instável de decisão desse jaez, o STF sumulou entendimento segundo o qual "não cabe recurso extraordinário contra acórdão que defere medida liminar" (Súmula 735/STF). O juízo de valor precário, emitido na concessão de medida liminar, não tem o condão de ensejar a violação da legislação federal, o que implica o não cabimento do Recurso Especial, nos termos da referida Súmula 735/STF"". (AgInt no AREsp 1.598.838/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 21.8.2020.)
+Confira-se ainda o seguinte precedente: AgInt no AREsp 1.571.882/BA, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º.7.2020; AgInt no REsp 1.830.644/RO, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26.6.2020; AREsp 1.610.726/SP, Rel. Ministro H erman Benjamin, Segunda Turma, DJe de 26.6.2020; AgInt no AREsp 1.621.446/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27.4.2020; AgInt no AREsp 1.571.937/PA, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 13.4.2020.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+Os agravados alegam vício do procedimento extrajudicial, pois não foram regularmente constituídos em mora, assim não foram cientificados das datas dos leilões.
+Na hipótese dos autos, eventual irregularidade na notificação extrajudicial dos agravados levaria à nulidade do procedimento prescrito na lei mencionada, justificando a discussão da validade do procedimento extrajudicial.
+Por outro lado, há a possibilidade concreta de alienação do imóvel a terceiro de boa-fé, fato suficiente a evidenciar o perigo de dano.
+Por óbvio, em nada seria útil provimento favorável à anulação do procedimento extrajudicial ao final do curso processual, se o bem imóvel dado como garantia de pagamento já estivesse em mãos de terceiro de boa-fé, porque alienado judicialmente ou extrajudicialmente.
+Observo que a suspensão da realização do leilão foi determinada até ulterior deliberação.
+No caso concreto, já houve apresentação de contestação, ocasião em que, com mais elementos, será eventualmente possível ao MM. Juízo a quo a revisão da presente decisão (fls. 193/194).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
