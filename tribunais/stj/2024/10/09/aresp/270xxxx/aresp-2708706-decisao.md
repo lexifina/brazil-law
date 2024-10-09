@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por FABIO TADEU BERNARDO DE OLIVEIRA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICLA.L  MULTA - EXCLUSÃO - CITAÇÃO PARA SATISFAZER OBRIGAÇÃO DE FAZER COM FIXAÇÃO DE MULTA DIÁRIA DE RS 500,00 - INSURGÊNCIA DO EXECUTADO, ORA AGRAVANTE, PARA AFASTAR A MULTA IMPOSTA E, CONSEQUENTEMENTE, REVOGAR A PENALIDADE - DESCABIMENTO - POSSÍVEL, NA EXECUÇÃO DE OBRIGAÇÃO DE FAZER FUNDADA EM TÍTULO EXTRAJUDICIAL, A COMINAÇÃO DE MULTA POR ATRASO NO CUMPRIMENTO (CPC, ART. 814) - OBJETIVO DA MULTA DIÁRIA QUE NÃO É COMPELIR A PARTE A PAGAR O SEU VALOR, MAS OBRIGÁ-LA AO CUMPRIMENTO DA PRESTAÇÃO DE UMA OBRIGAÇÃO DE FAZER CONSTANTE DE UM TÍTULO EXECUTIVO EXTRAJUDICIAL - DECISÃO MANTIDA. NEGA-SE PROVIMENTO AO RECURSO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 537, § 1º, II, do CPC; e 884 do CC, no que concerne à indevida manutenção da imposição de astreinte, porquanto que houve justo motivo para descumprimento da obrigação de fazer consistente na alteração do contrato social da empresa, trazendo a seguinte argumentação:
+A decisão de segundo grau, que manteve na integra a decisão liminar de primeiro grau referente a aplicação de multa diária (astreinte), deixou de observar a estrita legalidade exigida para este tipo de contrato, violando assim a literalidade da lei.
+Conforme demonstrado alhures, o nobre Relator reconheceu que a manutenção da astreinte é devida, pois caberia unicamente ao recorrente cumprir com a alteração do contrato social referente a sua saída da sociedade, porém, esta não é a melhor interpretação da situação em discussão no presente caso.
+Como já de ciência nos autos, a recorrida vem arruinando patrimônio da sociedade objeto da lide, tanto que sem qualquer autorização do recorrente vendeu vários veículos da frota, e ainda transferiu quantias em dinheiro do caixa da empresa para terceiros.
+ ..
+Ora Excelência, ficou claro nos autos que houve justo motivo para descumprimento da obrigação de fazer a alteração do Contrato Social da empresa, diante de todos os fatos narrados, que por deveras é grave. Inclusive há pendência financeira por parte da recorrida para com o recorrente.
+A partir dos dispositivos acima transcritos, não se admite, com a devida vênia, que a astreinte seja mantida nos casos em que restou demonstrada justa causa para o descumprimento (fls. 451-452).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Com efeito, e como constou da r. decisão de fls. 391/394, o próprio agravante confessou em suas razões recursais (CPC, art. 389) que:
+a) exerceu seu direito de retirada da sociedade FLEX, com o propósito de se resguardar para os efeitos temporais do artigo 1029, do Código Civil e, assim, notificou sua retirada à agravada, que não se opôs (fls. 11/12); e b) a própria agravada não permaneceu inerte à alteração do contrato social, pois interpelou o agravante após ele próprio ter se recusado a formalizar a alteração do contrato social, conforme notificação datada de 02/08/2022 (fls. 39/40 dos autos principais).
+Nesse sentido, não havia qualquer impedimento legal, contratual ou consensual para o agravante cumprir tal obrigação de fazer objeto do feito executivo, qual seja, a regularização e formalização de sua retirada do quadro societário da empresa FLEX.
+ ..
+Na hipótese dos autos, a multa diária foi fixada em R$ 500,00, estando dentro dos limites de razoabilidade e proporcionalidade, seja porque a providência a ser tomada pelo agravante é de baixa complexidade (simples assinatura da alteração do contrato social que formaliza sua retirada), seja porque evita o enriquecimento sem causa da parte adversa (fls. 442-443).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
