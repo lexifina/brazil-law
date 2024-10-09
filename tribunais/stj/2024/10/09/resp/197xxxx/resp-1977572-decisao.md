@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Banco Rabobank International Brasil S/A contra acórdão do Tribunal de Justiça do Estado de Mato Grosso que, em ação de recuperação judicial, manteve decisão de primeiro grau que havia considerado intempestiva a impugnação retardatária de crédito, apenas afastando a multa do art. 1.026, § 2º, do Código de Processo Civil.
+Alega o recorrente, preliminarmente, violação aos arts. 11, 489, § 1º, IV, e 1.022, parágrafo único, II, do CPC/2015, pois o acórdão recorrido teria se baseado "em premissas equivocadas e que violam de forma latente ao que determina a legislação federal" (fl. 376), incluindo a aplicação das alterações legislativa introduzidas na Lei n. 14.112/2020 aos processos em curso.
+Suscita violação aos arts. 5º e 7º da Lei n. 14.112/2020, aos arts. 7º, 8º, 10, §§ 5º, 7º, 8º e 9º, da Lei n. 11.101/2005, sob o fundamento de que seria possível o ajuizamento de impugnação de crédito a qualquer tempo.
+Aduz contrariedade e negativa de vigência ao art. 7º da Lei n. 11.101/2005, bem como ao art. 278 do CPC/2015, por entender que o seu pedido de impugnação de crédito foi tempestivo, em face da nulidade do edital de citação dos credores - matéria que não estaria preclusa, ao contrário do que entendeu o Tribunal de origem.
+Subsidiariamente, defende o recebimento da petição como habilitação retardatária em relação ao primeiro edital, pelo teor do art. 10, § 5º, da Lei n. 11.101/2005.
+Por fim, sustenta divergência jurisprudencial em relação à aplicação da Lei n. 14.112/2020.
+Contrarrazões apresentadas.
+Em razão do encerramento da recuperação judicial na origem, o recorrente foi intimado para se manifestar no interesse do julgamento do recurso (fl. 516). Manifestação apresentada, na sequência, ratificando o interesse.
+Assim delimitada a controvérsia, passo a decidir.
+De início, ressalto que não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos que entendeu pertinentes. Se a decisão, no entanto, não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado.
+A pretensão do recorrente, a bem da verdade, caracteriza mero inconformismo com o resultado do acórdão, que concluiu, de forma clara e fundamentada, em seu desfavor.
+Quanto à intempestividade da impugnação de crédito, observo que o acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, segundo a qual é intempestiva a impugnação de crédito apresentada fora do prazo de 10 dias previsto no caput do art. 8º da Lei 11.101/2005, não sendo possível recebê-la como impugnação retardatária, considerando o caráter peremptório específico do prazo expressamente estipulado pela lei de regência.
+A saber:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. INTEMPESTIVIDADE. RECEBIMENTO COMO IMPUGNAÇÃO RETARDATÁRIA. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Segundo entendimento jurisprudencial desta Corte, é intempestiva a impugnação de crédito apresentada fora do prazo de 10 (dez) dias previsto no caput do art. 8º da Lei n. 11.101/2005, não sendo possível recebê-la como impugnação retardatária, considerando o caráter peremptório específico do prazo expressamente estipulado pela lei de regência.
+2. Agravo interno a que se nega provimento
+(AgInt no REsp n. 1.822.979/AC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. INTEMPESTIVIDADE. PRAZO. INOBSERVÂNCIA. PRECLUSÃO. SÚMULA Nº 83/STJ. FUNDAMENTO NÃO ATACADO. SÚMULAS NºS 283 E 284/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça consolidou jurisprudência no sentido de que é intempestiva a impugnação de crédito apresentada fora do prazo de 10 (dez) dias previsto no caput do art. 8º da Lei nº 11.101/2005, não sendo possível recebê-la como impugnação retardatária, nos moldes em que é facultada a habilitação do credor.
+Súmula nº 83/STJ.
+3. A ausência de impugnação de fundamento suficiente para manter incólume o acórdão recorrido atrai o óbice das Súmulas nºs 283 e 284/STF.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.822.364/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/11/2022, DJe de 9/12/2022.)
+Dessa forma, incide o óbice da Súmula 83 do STJ, aplicável tanto para a hipótese da alínea "c" do art. 105, III, da Constituição Federal, como para a alínea "a" do mesmo dispositivo, não havendo também que se falar em recebimento da petição como habilitação retardatária.
+Cumpre esclarecer que, diferentemente do que afirma o recorrente, o art. 10, § 7º, da Lei n. 11.101/2005 - incluído pela Lei n. 14.112/2020 - não previu a hipótese de impugnação retardatária, mas apenas a possibilidade de impugnação, tida como "retardatária", uma vez que vinculadas às habilitações retardatárias definidas no caput do artigo. Confira-se:
+Art. 10. Não observado o prazo estipulado no art. 7º, § 1º, desta Lei, as habilitações de crédito serão recebidas como retardatárias.
+ ..  § 5º As habilitações de crédito retardatárias, se apresentadas antes da homologação do quadro-geral de credores, serão recebidas como impugnação e processadas na forma dos arts. 13 a 15 desta Lei.
+ ..  § 7º O quadro-geral de credores será formado com o julgamento das impugnações tempestivas e com as habilitações e as impugnações retardatárias decididas até o momento da sua formação.
+No que diz respeito à alegação de nulidade da citação, o TJMT considerou que a matéria estaria preclusa, conforme trecho abaixo (fl. 315):
+No tocante à alegação de tempestividade da impugnação de crédito porque nulo o ato a partir do qual computa-se o respectivo prazo, merece rejeição, porquanto, sua arguição resta preclusa, primeiro, porque, quando suscitou a discussão na própria recuperação judicial, o Banco/agravante pediu chamamento do feito à ordem não para que fosse anulado o ato, mas apenas para que o Juízo determinasse "que a administradora judicial efetivamente analise a divergência de crédito que lhe foi tempestivamente submetida, retificando o crédito do Rabobank e fazendo publicar novo edital", sob fundamento de que precisava "saber os motivos da rejeição da sua divergência pelo Administrador Judicial para a apresentação de eventual impugnação" (cf. Id. 40878956 - pág. 1/3 dos autos recuperacionais).
+Depois, a decisão indeferitória desse pedido, vinculada ao Id. nº 45043476 - pág. 4/6 do processo recuperacional, já foi objeto de insurgência recursal pelo Banco/agravante (RAI nº 1024566-18.2020.8.11.0000), quando então ele novamente pediu apenas fosse "determinada a imediata intimação da Administradora Judicial para que analise a divergência de crédito apresentada tempestivamente", e não decretação de nulidade (cf. Id. nº 67596474 - pág. 31 dos autos daquele recurso).
+Ademais, essa suposta necessidade de "saber os motivos da rejeição da sua divergência pelo Administrador Judicial para a apresentação de eventual impugnação" serviria apenas para melhor focalização do questionamento em Juízo, sem, porém, modificar o termo inicial do prazo para adoção dessa providência, tanto assim é que, em nenhum momento, o Banco/agravante arguiu nulidade de sua intimação.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 deste Superior Tribunal de Justiça.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
