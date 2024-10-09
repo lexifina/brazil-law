@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RAFAEL DEUS AJUDE contra decisão que inadmitiu o recurso especial em razão da inviabilidade de análise de ofensa a dispositivos de regimento, da incidência da Súmula n. 284 do STF e da não demonstração do dissídio jurisprudencial.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça de São Paulo (Apelação Cível n. 1055264-37.2022.8.26.0576) assim ementado (fl. 286):
+APELAÇÃO CÍVEL. RESCISÃO DO CONTRATO DE COMPRA E VENDA. Resolução contratual por desistência do adquirente. Recurso da ré. Contrato celebrado na vigência da Lei nº 13.786/2018. Devolução das partes ao estado anterior. Culpa exclusiva do adquirente. Cláusula penal de 10% sobre o valor do contrato. Abusividade. Retenção de 25% do valor pago que se mostra adequado e proporcional. Valor da corretagem não expresso no contrato, devendo ser afastado. Possiblidade de desconto dos débitos tributários e condominiais. Recurso do autor. Retenção sobre o valor pago. Percentual adequado. Taxa de fruição afastada. Ausência de edificação. Devolução em parcela única. Correção monetária a partir da citação. Juros legais desde o trânsito em julgado. Distribuição equânime do ônus de sucumbência. Princípio da causalidade e da sucumbência. Alteração dos honorários sucumbenciais fixados equitativamente. Sentença reformada em parte. Recurso da ré desprovido. Recurso do autor parcialmente provido.
+Os embargos de declaração opostos foram rejeitados (fls. 385-389).
+Nas razões do recurso especial, a parte recorrente aponta violação da Súmula n. 43 do STJ e dissídio jurisprudencial.
+Alega que a correção monetária deve ser fixada a partir de cada desembolso.
+Colaciona julgado do Superior Tribunal de Justiça visando demonstrar divergência jurisprudencial acerca do termo o quo de incidência da correção monetária da parcelas a serem restituídas pela rescisão da compra e venda.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas (fls. 393-400).
+É o relatório. Decido.
+Incialmente, observo que é inviável em sede de recurso especial a análise de ofensa à enunciado de súmula (Súmula n. 518 do STJ).
+No mais, a alegação de violação de normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, parágrafos e incisos e das alíneas impede o conhecimento do recurso especial por deficiência de fundamentação.
+No caso, o recorrente deixou de indicar sobre qual dispositivo de lei infraconstitucional recairia a alegada divergência jurisprudencial.
+Registre-se que "o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão" (AgInt no AREsp n. 2.120.664/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/9/2022, DJe de 21/9/2022, destaquei).
+Desse modo, a ausência de expressa indicação e de demonstração da apontada divergência jurisprudencial inviabiliza o conhecimento do recurso, aplicando-se a Súmula n. 284 do STF, assim expressa:
+É inadmissível o recurso extraordinário, quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia.
+A propósito, confira-se precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. AUSÊNCIA DE INDICAÇÃO PARTICULARIZADA DOS DISPOSITIVOS DE LEI FEDERAL SUPOSTAMENTE CONTRARIADOS. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. HONORÁRIOS. SÚMULA 111/STJ. JURISPRUDÊNCIA REAFIRMADA NO JULGAMENTO DO TEMA REPETITIVO N. 1.105/STJ.
+1. Na hipótese dos autos, nota-se que não houve indicação clara e precisa dos artigos de lei supostamente violados pela Corte de origem. Com efeito, a falta de indicação ou de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do STF. Precedentes.
+2. Consoante firme jurisprudência desta Corte Superior de Justiça, a interposição de recurso especial tanto pela alínea a quanto pela alínea c não dispensa a indicação direta e específica do dispositivo de lei federal ao qual o Tribunal a quo teria dado interpretação divergente daquela firmada por outros tribunais e exige a comprovação do devido cotejo analítico (1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ). Situação que atrai o óbice da Súmula 284 do STF.
+3. Esta Corte Superior de Justiça, no julgamento do Tema n. 1.105, firmou a tese no sentido de que "Continua eficaz e aplicável o conteúdo da Súmula 111/STJ (modificado em 2006), mesmo após a vigência do CPC/2015, no que tange à fixação de honorários advocatícios". (REsp n. 1.883.715/SP, rel. Ministro Sérgio Kukina, Primeira Seção, DJe de 27/3/2023).
+4. Agravo interno não provido. (AgInt no AREsp n. 2.585.626/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/9/2024, DJe de 11/9/2024, destaquei.)
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor eventualmente arbitrado na origem, os honorários advocatícios em favor da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
