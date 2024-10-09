@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por IRMANDADE DE SANTO ANTONIO DO CURVELO à decisão de fl. 1403, que não conheceu do recurso.
+Sustenta a parte embargante:
+3. A DD. Relatora entendeu que o recurso foi interposto fora do prazo legal de 15 dias úteis, conforme trecho da decisão abaixo transcrito:
+ ..
+4. No entanto, conforme certidões anexas, o prazo do embargante foi iniciado com a intimado do Acórdão recorrido em 16/10/23, e o Recurso Especial foi protocolado em 09/11/23, dentro do prazo legal, considerando os seguintes feriados:
+ ..
+5. Essas informações foram mencionadas no Recurso Especial (n.º 1172 no STJ), no tópico "Da Tempestividade" (conforme abaixo colacionado), e o sistema PJe/JPe do Tribunal a quo aceitou o recurso, sem qualquer registro de intempestividade. Inclusive, a inadmissão do recurso teve por fundamento a aplicação da Súmula 07 do STJ e não por intempestividade.
+ ..
+6. Assim, refazendo as contas dos prazos, incluindo os feriados mencionados acima, temos que se a parte foi intimada no dia 16/11/23, o prazo iniciou-se no primeiro dia útil em 17/11/23. Contado os 15 dias úteis para interposição do recurso e descontando os 03 dias não úteis: 01, 02 e 03 de novembro/23, temos que o prazo final se deu em 09/11/23, portanto tempestivo o recurso.
+ ..
+8. Nos termos do art. 1.022 do CPC, cabem embargos de declaração quando a decisão judicial for omissa, obscura ou contraditória. No presente caso, a decisão proferida por Vossa Excelência, com a devida vênia, desconsiderou a contagem de prazo do Sistema PJe e os dias não úteis apontados, configurando a hipótese legal para a oposição dos presentes embargos, conforme demostrado abaixo, em verde:
+ ..
+10. Ademais, o artigo Art. 1.003, § 6º do CPC, recentemente alterado pela Lei 14.939/2024, estabelece que, na ausência de comprovação de feriado local, que não foi o caso, o Tribunal deve determinar a correção do vício formal ou desconsiderá-lo caso a informação já conste do processo eletrônico, como ocorre no presente caso.
+ ..
+11. Por conseguinte, os embargos têm como objetivo adequar a decisão à realidade fática da contagem dos prazos, incluindo os feriados (dias não úteis) e/ou para que a parte os comprove nos termos do artigo 1.003, § 6º, do CPC, já que a matéria processual obedece a máxima "tempu regit actum" (fls. 1406/1410).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No código atual, o prazo para a interposição de Agravo e de Recurso Especial é de 15 dias úteis, nos termos do art. 219, caput, c/c os arts. 994, VI e VIII, 1.003, § 5º, 1.029 e 1.042, caput, todos do CPC.
+Quanto à questão da comprovação de feriado, nos termos do que permite a nova redação do art. 1.003, § 6º, do CPC (dada pela Lei n. 14.939/2024), cumpre registrar que em observância ao princípio do tempus regit actum, o entendimento só será aplicado quando a data de intimação do decisum recorrido tenha ocorrido a partir do dia 31.7.2024 (Mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+Na hipótese, como essa intimação ocorreu ainda na vigência da redação anterior do artigo, a comprovação deveria ter sido feita no ato da interposição do recurso.
+A propósito, confira-se este precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. 1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo". 4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido. (AgInt no AREsp n. 957.821/MS, relatora para o acórdão Ministra Nancy Andrighi, Corte Especial, DJe de 19.12.2017.)
+É certo que o feriado nacional de 2.11.2023 não precisa ser comprovado . Porém, os dias 1.11.2023 e 3.11.2023 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso.
+No mais, o STJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. Nesse sentido, AgInt nos EDcl no AREsp 1553768/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27.4.2020; e AgInt nos EDcl no AREsp 1379051/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 3.10.2019.
+Registre-se ainda que a Corte Especial, por maioria, acolheu a questão de ordem para reconhecer que a tese firmada por ocasião do julgamento do REsp 1.813.684/SP é restrita aos recursos interpostos até 17/11/2019 e alcança apenas o feriado de segunda-feira de carnaval, ou seja, não se aplica aos demais feriados, inclusive aos feriados locais. (QO no REsp 1813684/SP, Rel. Ministra Nancy Andrighi, Corte Especial, DJe de 28.2.2020.) Assim, só a segunda-feira de carnaval até 2019 poderia ser comprovada posteriormente, excluindo-se qualquer outro feriado, como no caso dos autos.
+Ainda, veja que o juízo de admissibilidade do Recurso Especial é bifásico, ou seja, a decisão de admissibilidade proferida pelo Tribunal local ou ainda a certidão expedida por servidor na instância de origem não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, sendo o STJ competente para nova análise dos pressupostos recursais.
+Nesse sentido: AgInt no AREsp n. 2.459.649/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 3.5.2024; AgInt no AREsp n. 2.250.245/CE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 18.8.2023; AgInt no AREsp n. 2.050.156/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 11.4.2024; e, AgInt no AREsp 1686946/MA, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18.12.2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
