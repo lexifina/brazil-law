@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CLÁUDIO DE CASTRO FARIAS, com fundamento no art. 1.022 do Código de Processo Civil, à decisão (e-STJ fls. 1.001/1.005) que deu provimento ao recurso especial da ora embargada a fim de julgar improcedentes os pedidos formulados na petição inicial.
+Em  suas  razões,  o embargante  aponta  a  existência  de  omissões,  afirmando que o reconhecimento do direito de permanecer no plano de saúde decorreu do edital de privatização da empresa empregadora e que esse fundamento autônomo foi inatacado nas razões do recurso especial, o que gera a incidência da Súmula nº 283/STF.
+Postula  o  acolhimento  dos  presentes  aclaratórios  para  sanar  as  omissões  apontadas  e,  por  consequência,  modificar  a decisão embargada.
+É  o  relatório
+DECIDO.
+A  irresignação  não  merece  prosperar.
+De  acordo  com  o  disposto  no  artigo  1.022  do  Código  de  Processo  Civil  ,  os  embargos  de  declaração  somente  são  cabíveis  para  (a)  esclarecer  obscuridade  ou  eliminar  contradição,  (b)  suprimir  omissão  de  ponto  ou  questão  a  respeito  da  qual  deveria  se  pronunciar  o  juiz,  de  ofício  ou  a  requerimento,  incluindo-se  as  condutas  descritas  no  art.  489,  §  1º,  do  CPC  que  configurariam  a  carência  de  fundamentação  válida  e  (c)  corrigir  o  erro  material.
+Em verdade, da simples leitura das razões dos aclaratórios, percebe-se o nítido propósito de obter o reexame de questões à luz das teses invocadas, na busca de decisão infringente, pretensão manifestamente incabível em embargos de declaração, cujos limites estão previstos em lei.
+Ressalte-se que esta Corte em julgamento análogo ao presente caso entendeu que a controvérsia acerca do edital de privatização não se mostra relevante na demanda contra a BRADESCO SAUDE S.A., atual operadora do plano de saúde coletivo da COMPANHIA SIDERÚRGICA NACIONAL - CSN, pois essa operadora de plano de saúde não aderiu ao referido edital, não estando obrigada por suas cláusulas e que a demanda contra a CSN o pedido de manutenção no plano de saúde é inviável de ser atendido in natura, pois a ex-empregadora não mais administra o hospital por meio do qual prestava assistência à saúde de seus empregados, ex-empregados e dependentes, na modalidade autogestão.
+Eis a ementa do referido julgado:
+"AGRAVO INTERNO. RECURSOS ESPECIAIS. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/2015). PLANO DE SAÚDE. MODALIDADE DE AUTOGESTÃO. CONTRIBUIÇÃO CUSTEADA INTEGRALMENTE PELA EX-EMPREGADORA. DIREITO DE MANUTENÇÃO. INEXISTÊNCIA. TEMA 989/STJ. CLÁUSULA DE MANUTENÇÃO DE BENEFÍCIOS SOCIAIS PREVISTA NO EDITAL DE PRIVATIZAÇÃO DA EX-EMPREAGADORA (CSN). AUSÊNCIA DE OBRIGATORIEDADE CONTRA A NOVA OPERADORA DA MODALIDADE COLETIVO EMPRESARIAL. RESTABELECIMENTO DAS MESMAS CONDIÇÕES DO PLANO ANTIGO. DESCABIMNETO. APLICAÇÃO DO TEMA 1034/STJ.
+1. A controvérsia diz respeito ao direito de uma ex-empregada de ser mantida em plano de saúde coletivo nas mesmas condições anteriormente vigentes, na hipótese em que houve extinção do plano de autogestão e contratação de novo plano, na modalidade coletivo empresarial, tendo sido deduzido pedido de restabelecimento do plano antigo com base em cláusula do edital de privatização da ex-empregadora.
+2. Nos termos da tese firmada no Tema 989/STJ: "Nos planos de saúde coletivos custeados exclusivamente pelo empregador não há direito de permanência do ex-empregado aposentado ou demitido sem justa causa como beneficiário, salvo disposição contrária expressa prevista em contrato ou em acordo/convenção coletiva de trabalho, não caracterizando contribuição o pagamento apenas de coparticipação, tampouco se enquadrando como salário indireto".
+3. Caso concreto em que o plano era não contributário, não havendo falar, portanto, em direito de manutenção com base na Lei 9.696/1998.
+4. Ausência de força obrigatória, perante a nova operadora, da cláusula de manutenção de benefícios sociais, pois a operadora não aderiu a essa cláusula.
+5. Ausência de amparo legal para a pretensão de restabelecimento das mesmas condições do plano antigo. Aplicação da tese firmada no Tema 1034/STJ.
+6. AGRAVO INTERNO DESPROVIDO".
+(AgInt nos EDcl no REsp n. 1.699.872/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Quanto pretensão de que fosse aplicado o óbice da Súmula nº 283/STF, observa-se que o fundamento do edital de privatização foi expressamente atacado, como se verifica à e-STJ fls. 764/765 das razões do recurso especia l.
+Logo,  a  afirmação  do  embargante  de  que  o  julgado  atacado  padece  de  omissão  traduz,  em  verdade,  a  pretensão  de  que  esta  Corte  Superior  promova  apreciação  da  matéria,  emprestando  aos  aclaratórios  opostos  efeitos  infringentes.
+Ressalta-se  que  a  motivação  contrária  ao  interesse  da  parte  ou  mesmo  omissa  em  relação  aos  pontos  considerados  irrelevantes  pelo  julgador  não  autoriza  o  acolhimento  dos  declaratórios.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração com a advertência de que, havendo reiteração de embargos protelatórios, a multa prevista no art. 1.026 do Código de Processo Civil será aplicada.
+Publique-se.
+Intimem-se.
+EMENTA
