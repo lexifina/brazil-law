@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de recurso especial interposto pela Fazenda Nacional com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 658):
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DO EMPREGADOR.
+Primeiros quinze dias de afastamento por doença, abono de férias, aviso prévio indenizado, salário-maternidade, salário-paternidade, licença-adotante, licença doença familiar, adicional de aprimoramento de servidores, horas extras e adicional, adicional noturno, de periculosidade, de insalubridade, férias usufruídas, descanso semanal remunerado, intervalo intrajornada não fruído, feriados, sentença extra petita, ilegitimidade passiva de terceiros, vale transporte pago em pecúnia, auxílio-alimentação, faltas abonadas por atestados médicos, gratificação natalina, intervalo de repouso e alimentação, ausências permitidas ao trabalho, auxílio-creche, funções gratificadas e de direção e chefia, gratificação adicional por tempo de serviço, SAT-RAT, terceiros, interesse de agir. SELIC conforme o § 4º do art. 89 da L 8.212/1991.
+Opostos embargos declaratórios por ambas as partes recorrida e recorrente, foram estes acolhidos em parte, com efeitos modificativos (fls. 734/740). Novos aclaratórios foram opostos pela municipalidade, os quais foram rejeitados (fls. 784/786).
+Nas razões de recurso especial (fls. 799/811), a Fazenda Nacional aponta violação aos arts. 1.022, II, do CPC, 111 do CTN, e 150, §6º, da CF. Sustenta, em resumo, que: (i) apesar da oposição de embargos de declaração, o Tribunal de origem manteve-se omisso quanto a questões relevantes ao deslinde da controvérsia; e (ii) incide contribuição previdenciária, SAT/RAT e terceiros sobre os valores pagos aos empregados a título de ausência permitida ao trabalho e auxílio-creche.
+Foram interpostos recursos extraordinários por ambas as partes (fls. 749/757 e 812/823).
+Recurso especial interposto por Município de Arvoredo às fls. 799/811.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que, na data de hoje, considerando o recurso especial interposto por Município de Arvoredo no bojo dos presentes autos, proferi decisão em que determinei o retorno dos autos à instância ordinária, a fim de que conclua o juízo de conformação com o Tema 1.152/STJ, nos termos dos arts. 1.030 e 1.040 do CPC.
+Nesse contexto, tendo em vista a impossibilidade de cisão do julgamento, bem como a própria devolução do feito à origem, é o caso de se ter por prejudicado o exame da presente irresignação no momento.
+ANTE O EXPOSTO, julgo prejudicado o exame do recurso especial interposto pela Fazenda Nacional no presente momento processual, tendo em vista o retorno dos autos à Corte de origem, para que seja oportunamente realizado o juízo de conformação ou manutenção do acórdão local frente ao quanto decidido por este Superior Tribunal de Justiça sobre o Tema 1.252, na forma da fundamentação.
+Publique-se.
+EMENTA
