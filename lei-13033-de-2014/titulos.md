@@ -1,0 +1,1 @@
+Parágrafo único. Realizados os testes previstos no caput deste artigo, é o Conselho Nacional de Política Energética - CNPE autorizado a elevar a mistura obrigatória de biodiesel ao óleo diesel em até 15% (quinze por cento), em volume, em todo o território nacional.
