@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado por Maria Ines Lima Estorari contra decisão da Vice-Presidência do Tribunal Regional Federal da 1ª Região que não admitiu o recurso especial com base nos seguintes fundamentos: (I) não cabe analisar em apelo especial violação à norma constitucional; e (II) incidência das Súmulas 284/STF e 211/STJ.
+A parte agravante sustenta, em resumo, que: (i) "  ..  o recurso especial não foi interposto com o objetivo de aferir a violação as EC"s 69/2009 e 79/2014, mas sim aferir violação a legislação infraconstituciona, no caso, o Decreto n. 20.910/32." (fls. 373/374); e (ii) a não incidência da Súmula 211/STJ, porquanto "a decisão agravada é bem clara em analisar a respeito da prescrição, justamente em razão do prequestionamento ocorrido, se assim não fosse, o acórdão a ser combatico não teria mencionado sobre a tese discutida nos autos, qual seja, a suspensão do prazo prescrional em razão do requerimento administrativo (termo de opção) referente ao pagamento de diferenças remuneratórias decorrentes da transposição para quadro em extinção da Administração Federal de servidor público do ex- Território de Rondônia." (fl. 374).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial. No caso, a parte agravante deixou de rebater, de modo específico, a apontada aplicação da Súmula 284/STF.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+Diante do exposto, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
+EMENTA
