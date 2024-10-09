@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Pablo Rodrigues Robert, em que se aponta como autoridade coatora a Oitava Câmara Criminal do Tribunal de Justiça do Rio de Janeiro, que denegou o Habeas Corpus criminal n. 0802944-44.2024.8.19.0050, mantendo a prisão preventiva imposta ao paciente pelo Juízo de Direito da 2ª Vara da comarca de Santo Antônio de Pádua/RJ, pela suposta prática dos crimes do art. 33, caput, da Lei n. 11.343/2006, e art. 147, caput, na forma do art. 69, ambos do Código Penal.
+Neste writ, a defesa sustenta que não há em concreto a necessidade da garantia da ordem pública, bem como não restaram configurados os requisitos do art. 312 do Código de Processo Penal (fl. 9).
+Requer, assim, a concessão liminar da ordem, para revogar a prisão preventiva, com a expedição do respectivo alvará de soltura.
+É o relatório.
+Infere-se do decreto prisional (fls. 36/38):
+ ..
+No caso em apreço, entendo necessária a prisão preventiva do custodiado para garantia da ordem pública. Ademais embora o indiciado seja tecnicamente primário, ostenta diversas passagens pela prática de atos infracionais análogos a tráfico (FAC no id. 137754995), o que demonstra que se dedica às atividades criminosas, fazendo do tráfico seu meio de vida. Tal fato é fundamento idôneo para a decretação da prisão preventiva, conforme reiterado entendimento do Superior Tribunal de Justiça
+ ..
+Note-se que o custodiado teria até mesmo ameaçado de morte os policiais militares responsáveis por sua detenção em flagrante, indicando a gravidade em concreto de sua conduta. Portanto, a periculosidade social do custodiado, evidenciada pelo risco de reiteração delitiva, demonstra a necessidade de se acautelar o meio social, que não pode ser velado, neste momento, por nenhuma outra medida cautelar diversa da prisão, nada impedindo, por motivo óbvio, que o Juízo Natural faça nova análise da questão em destaque.
+A corroborar os fundamentos abordados pelo Magistrado de piso, extrai-se do acórdão impugnado (fl. 26):
+O fumus comissi delicti está presente, pois há indícios suficientes de materialidade e autoria dos delitos, decorrentes dos elementos concretos trazidos aos autos principais, como o Registro de Ocorrência e as declarações das testemunhas proferidas em sede policial.
+No ponto, os questionamentos feitos pelos impetrantes relacionados à certeza da autoria em relação aos crimes, necessita de análise aprofundada da matéria de fundo, próprios ao mérito de uma eventual ação penal, tornando-se inviável sua apreciação por meio desta via estreita.
+O perigo gerado pelo estado de liberdade do imputado (art. 312 do CPP, sob a nova redação dada pela Lei 13.964/2019) está fundado primordialmente na garantia da ordem pública.
+É certo que a gravidade em abstrato do crime não pode servir como fundamento para o decreto da medida extrema.
+Contudo, o magistrado pode se valer da narrativa em concreto dos fatos imputados para concluir sobre o risco que a liberdade do agente poderia acarretar, o que ocorreu na hipótese em tela.
+Com efeito, a autoridade justificou na motivação que ".. embora o indiciado seja tecnicamente primário, ostenta diversas passagens pela prática de atos infracionais análogos a tráfico (FAC no id. 137754995), o que demonstra que se dedica às atividades criminosas, fazendo do tráfico seu meio de vida. Tal fato é fundamento idôneo para a decretação da prisão preventiva, conforme reiterado entendimento do Superior Tribunal de Justiça".
+Pois bem, nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020 - grifo nosso).
+In casu, a segregação cautelar do paciente encontra-se devidamente justificada na garantia da ordem pública, diante da gravidade concreta da conduta delituosa e periculosidade social do custodiado, evidenciadas nas ameaças perpetradas contra os policiais - ameaçando-os de morte - por sua detenção em flagrante, indicando a gravidade em concreto de sua conduta, fundamentos hábeis a manutenção da medida.
+No mesmo sentido, confiram-se os seguintes precedentes: AgRg no HC n. 865.528/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/12/2023; e AgRg no RHC n. 171.320/MT, Ministra Laurita Vaz, Sexta Turma, DJe 19/12/2022.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E AMEAÇA . PRISÃO PREVENTIVA. GARANTIA DE ORDEM PÚBLICA. PERICULOSIDADE SOCIAL DO PACIENTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Petição inicial indeferida liminarmente.
