@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por RENAULT DO BRASIL S/A contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 26/03/2024.
+Concluso ao gabinete em: 29/07/2024.
+Ação: de responsabilidade civil pelo fato do produto c/c obrigação de fazer c/c indenização por danos morais.
+Sentença: julgou procedentes os pedidos autorais.
+Acórdão: do TJ/RJ deu parcial provimento ao recurso da requerida, ora agravante, RENAULT DO BRASIL S/A, e negou provimento ao apelo interposto por LEAUTO PARIS LTDA, tão somente para determinar que cabe ao autor custear os ônus do veículo decorrente do período em que exerceu a propriedade do bem, excluído eventual multa administrativa por defeito nas luzes de freio, conforme a ementa a seguir (e-STJ fls. 569/591):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO OBRIGACIONAL E INDENIZATÓRIA. RELAÇÃO DE CONSUMO. VÍCIO OCULTO DO PRODUTO. SENTENÇA DE PROCEDÊNCIA QUE DETERMINOU O REEMBOLSO INTEGRAL PELO VALOR PAGO E CONDENOU AS RÉS AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO VALOR DE R$ 10.000,00. RECURSO DA RÉS PUGNANDO PELA IMPROCEDÊNCIA DOS PEDIDOS AUTORAIS OU A REDUÇÃO DO QUANTUM INDENIZATÓRIO. SENTENÇA ESCORREITA. PARTE AUTORA QUE ADQUIRIU VEÍCULO DA MARCA RENAULT 0KM. FALHA NAS LUZES DE FREIO, AS QUAIS FUNCIONAVAM DE MANEIRA INTERMITENTE. LAUDO PERICIAL QUE O VÍCIO DE FABRICAÇÃO NO VEÍCULO, O QUE INCLUSIVE PODIA CAUSAR COLISÃO TRASEIRA NO CARRO DO AUTOR. VÍCIO OCULTO QUE RESTOU DEMONSTRADO. ART. 26, §3º, DO CDC. RESPONSABILIDADE DAS FORNECEDORES QUE PERDURA, MESMO APÓS O PRAZO DE GARANTIA CONTRATUAL. STJ - RESP: 1787287. RÉS QUE NÃO APRESENTARAM ELEMENTOS DE CONVICÇÃO ACERCA DE ALGUM FATO IMPEDITIVO DO DIREITO DA PARTE AUTORA, ÔNUS QUE LHE CABIA (TANTO À VISTA DA NORMA DO ART. 14 DO CDC, COMO NA FORMA DO ART. 373, II, DO CPC/15). FALHA NA PRESTAÇÃO DE SERVIÇO. DANO MORAL CONFIGURADO. VERBA COMPENSATÓRIA QUE ATENDE PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. DEVER DE ARCAR COM OS ÔNUS DA PROPRIEDADE DO VEÍCULO QUE NÃO PODE SER REPASSADO ÀS RÉS, SENDO CERTO QUE É INERENTE À PROPRIEDADE PELO AUTOR DURANTE OS ANOS QUE PERMANECEU COM VEÍCULO. PRIMEIRO RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO, SEGUNDO RECURSO AO QUAL SE REJEITA.
+Embargos de Declaração: interpostos pela agravante foram rejeitados.
+Recurso especial: alega violação dos arts. 884 e 944 do Código Civil e art. 18, §1º, II do CDC. Afirma que a condenação não tem caráter indenizatório, uma vez que apenas determinou o retorno das partes ao estado anterior. Sustenta que a devolução determinada é desproporcional e desarrazoada. Alega ser descabida a incidência de juros moratórios sobre o valor a ser restituído em decorrência do desfazimento do negócio, tendo vista a ausência de previsão legal para tanto.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à quantia a ser restituída à parte autora, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fl. 591 ) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE CIVIL PELO FATO DO PRODUTO C/C OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de responsabilidade civil pelo fato do produto c/c obrigação de fazer c/c indenização por danos morais.
+2. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Agravo conhecido. Recurso especial não conhecido.
