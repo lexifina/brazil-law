@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL com fundamento no art. 105, III, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO , assim ementado, in verbis:
+PROCESSUAL CIVIL. ART. 1.040, INC. II, DO CPC. JUÍZO DE RETRATAÇÃO NEGATIVO. RESP 1.401.560/MT. PET N. 12.482/DF. PREVIDENCIÁRIO. TUTELA ANTECIPADA. REVOGAÇÃO. DEVOLUÇÃO DE VALORES. VERBA DE NATUREZA ALIMENTAR. BOA-FÉ DO SEGURADO. POSICIONAMENTO DO STF. ACÓRDÃO MANTIDO.
+1. Reexame da matéria conforme previsto no artigo 1.040, inc. II, do CPC.
+2. O Superior Tribunal de Justiça, em sede de Recurso Repetitivo de Controvérsia, entendeu que a reforma de decisão que antecipa a tutela obriga o autor a devolver os benefícios previdenciários recebidos por força dela.
+3. Aplicação do entendimento firmado pelo Supremo Tribunal Federal no sentido de que o benefício previdenciário recebido pelo segurado, em decorrência de decisão judicial, não está sujeito à repetição de indébito, em razão de seu caráter alimentar. Precedentes jurisprudenciais. 4. Juízo de retratação negativo. Acórdão mantido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o INSS alega que o acórdão recorrido viola os 927, artigos III, 296, 297, parágrafo único, 300, § 3º, 302, incisos I e II, e 520, incisos I e II, bem como 948 e 949 do atual Código de Processo Civil, artigo 3º da Lei de Introdução ao Código Civil, artigo 115, inciso II e § 1º, da Lei nº 8.213/91, artigo 154 do Decreto 3.048/99, e artigos 876, 884 e 885 do Código Civil.
+Argumenta que o acórdão recorrido não observa a tese firmada pelo Superior Tribunal de Justiça no julgamento do Tema n. 692 dos recursos repetitivos no sentido de que a reforma da decisão que antecipa os efeitos da tutela obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos.
+O Ministério Público ofereceu parecer pelo provimento do recurso especial (fl. 412):
+RECURSO ESPECIAL. AÇÃO PREVIDENCIÁRIA. DEVOLUÇÃO DE VALORES PERCEBIDOS EM ANTECIPAÇÃO DE TUTELA REVOGADA. IMPOSSIBILIDADE. TEMA N. 692/STJ. MODULAÇÃO DE EFEITOS PARA AFASTAR A APLICAÇÃO RETROATIVA DA TESE. IMPOSSIBILIDADE. JURISPRUDÊNCIA DOMINANTE DO STJ CONSOLIDADA NO TEMA N. 692/STJ E REAFIRMADA NA PET N. 12.482/DF. ACÓRDÃO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+Parecer pelo provimento do recurso especial.
+É o relatório. Decido.
+O Supremo Tribunal Federal, no julgamento do Tema n. 799 de repercussão geral, firmou a tese de que a questão acerca da devolução de valores recebidos em virtude de concessão de antecipação de tutela posteriormente revogada tem natureza infraconstitucional e a ela atribuem-se os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE 584.608, Relatora a Ministra Ellen Gracie, DJe 13/3/2009.
+Tratando-se de questão de natureza infraconstitucional, a competência para seu balizamento recai sobre esta Corte, que no julgamento do Tema n. 692 dos recursos repetitivos, firmou, após proposta de revisão, a seguinte tese:
+A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago.
+Este deve ser, portanto, o contexto jurídico normativo de análise dos casos submetidos à apreciação dos Tribunais de instância ordinária.
+Amparo-me, outrossim, no percuciente parecer ministerial:
+13. Em 24.5.2022, ao apreciar proposta de revisão da tese firmada no Tema 692/STJ (Pet n. 12.482/DF), a Primeira Seção dessa Corte Superior concluiu por reafirmá-la, mas com acréscimo de redação, in verbis:
+"A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago".2
+14. No referido julgamento, restou expressamente consignada a inviabilidade de modulação dos efeitos do julgado, uma vez que não houve alteração, mas sim reafirmação da jurisprudência dominante do STJ.
+15. Assim, o acórdão recorrido, ao afastar a aplicação do Tema 692/STJ aos casos pretéritos, está em dissonância com o entendimento desse e. STJ, consolidado sob o rito dos recursos repetitivos (Tema 692/STJ) e reafirmado na Pet n. 12.482/DF.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar a observância da tese definida no Tema n. 692/STJ, no sentido de que a reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago.
+Publique-se. Intimem-se.
+EMENTA
