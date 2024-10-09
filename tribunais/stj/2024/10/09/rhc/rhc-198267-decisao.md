@@ -1,0 +1,25 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por Rodrigo Bizot Martins - preso preventivamente e denunciado como incurso nos crimes de tráfico de drogas e associação para o mesmo fim - contra o acórdão do Tribunal de Justiça de Minas Gerais (Habeas Corpus n. 1.0000.24.189763-6/000), não comporta provimento.
+Busca o recorrente a revogação da prisão cautelar imposta a ele pelo Juízo de Direito da Vara Única da comarca de Mutum/MG (Processo n. 0002881-48.2023.8.13.0440), aos argumentos de ausência de fundamentação da custódia e excesso de prazo na instrução criminal, pois:
+a) o paciente não pode ser responsabilizado pela suposta complexidade do feito e pela incapacidade da Comarca em dar celeridade ao feito e fazer valer uma duração razoável do processo (fl. 410); e
+b) ausência dos requisitos da prisão preventiva, pois o paciente não oferece risco à garantia da ordem pública, nunca pretendeu burlar a instrução processual, tampouco frustrar a aplicação da Lei penal (fl. 406).
+Evidenciado que a alegação de coação ilegal por excesso de prazo não foi debatida pelo Tribunal, não há como acolher a pretensão, por indevida supressão de instância.
+Em relação à alegação de ausência de fundamentação da custódia, observo que a decisão do Juízo de primeiro grau se encontra devidamente fundamentada. Confiram-se os principais trechos do decreto de prisão (fls. 351/352 - grifo nosso):
+ ..
+Ao que se colhe, a organização, composta por, ao menos, por 30 (trinta) pessoas, tinha acesso a grande quantidade e variedade de entorpecentes, além do que contava com a participação de motoristas de aplicativos e caminhoneiros, os quais faziam o transporte das drogas de cidades maiores e, quiçá, até de outros estados da federação para este interior de Minas Gerais.
+Extrai-se, ainda, que a organização composta pelos ora acusados controlava o narcotráfico nas cidades de Mutum/MG, Lajinha/MG, Chalé/MG, Conceição de Ipanema/MG e Ipanema/MG, havendo notícias, inclusive, de que um indivíduo foi morto por ter se negado a revender drogas para a ORCRIM liderada por LUCAS e DIONATHAN.
+Ademais, a organização, em tese, tinha acesso a armas e munições, bem como adquiria veículos produtos de crime.
+Além disso, movimentava quantias vultosas, destacando-se, neste ponto, que o acusado LUCAS MENEZES DA CRUZ foi preso na cidade de Betim/MG com R$147.500,00 (cento e quarenta e sete mil e quinhentos reais) em espécie.
+Cuidando-se, portanto, de atividade ilícita desenvolvida em plena área urbana, caracterizada está a forte violação à ordem pública, com risco de reiteração da ação, caso os acusados permaneçam em liberdade.
+Outrossim, dada a notória movimentação financeira inerente ao tráfico de drogas, a liberdade para aqueles envolvidos na venda de drogas deve ser avaliada com muito cuidado, sob pena de nova violação à ordem social.
+ ..
+Da análise dos trechos transcritos observa-se que o decreto preventivo evidenciou a gravidade concreta do delito perpetrado pelo recorrente que, supostamente, atua no comércio de entorpecentes, integrando associação criminosa.
+Nesse contexto, observa-se que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois o Juízo de primeiro grau fez referências às circunstâncias fáticas justificadoras, destacando a gravidade em concreto do delito.
+Com efeito, não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos delituosos e da periculosidade do agente (RHC n. 109.657/MG, Ministra Laurita Vaz, Sexta Turma, DJe 3/9/2019).
+No mais, o Supremo Tribunal Federal já se manifestou no sentido de que a custódia cautelar visando à garantia da ordem pública legitima-se quando evidenciada a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa. Precedentes: HC 110.902, Primeira Turma, de que fui Relator, DJe de 3.5.13; HC 118.228, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJ de 19.11.13; HC 117.746, Primeira Turma, de que fui Relator, DJ de 21.10.13; RHC 116.946, Primeira Turma, Relator o Ministro Dias Toffoli, DJ de 4.10.13 (RHC n. 122.182/SP, Ministro Luiz Fux, Primeira Turma, DJe 15/9/2014).
+Assim, tratando-se de associação criminosa que possui constante atuação, para que se interrompa ou diminua seu desempenho, faz-se necessária a ordem de prisão.
+Em face do exposto, nego provimento ao recurso ordinário.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM (OPERAÇÃO SICÁRIO). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. SUPOSTO INTEGRANTE DE ASSOCIAÇÃO CRIMINOSA ALTAMENTE ARTICULADA PARA A DISSEMINAÇÃO DE ENTORPECENTES EM VÁRIAS REGIÕES DO ESTADO. ACESSO A ARMAS E MUNIÇÕES. AQUISIÇÃO DE VEÍCULOS PRODUTO DE CRIME. MOVIMENTAÇÃO DE ALTA QUANTIA EM DINHEIRO. PERICULOSIDADE CONCRETA EVIDENCIADA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. EXCESSO DE PRAZO. FALTA DE DEBATE DO TEMA PELO TRIBUNAL. CONHECIMENTO. IMPOSSIBILIDADE.
+Recurso improvido.
