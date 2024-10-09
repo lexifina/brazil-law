@@ -1,0 +1,15 @@
+DECISÃO
+DURVALINO AMADIO MARTIM alega sofrer coação ilegal diante de ato coator não especificado.
+A defesa informa que o acusado foi preso preventivamente, em 22/8/2023, e foi condenado pelo crime de incêndio. Houve interposição de apelação, não provida. Em seguida, a defesa apresentou embargos infringentes. Segundo a impetrante, a Procuradoria-Geral do Estado se manifestou a favor da declaração de nulidade do processo. Assim, afirma que "a decisão que condenou o paciente é nula, e certamente a liberdade do paciente será decretada" (fl. 7) pelo Tribunal de Justiça.
+Adicionalmente, a postulante explica que, apesar de o paciente ter sido condenado por outro crime de incêndio "nos autos 0001074-60.2023.8.16.0132, a sentença determinou a possibilidade de recurso em liberdade" e "o recurso especial está tramitando". O réu está preso somente "em razão da medida cautelar objeto desse pedido de liberdade" (fl. 9).
+Mais adiante, a impetrante argumenta que o réu "está preso em razão do descumprimento da medida protetiva, imposto por este juízo ante a condenação deste nos Autos n. 0001074-60.2023.8.16.0132, no qual se encontra solto" (fl. 11).
+Diante dessa situação, pleiteia o direito do réu, de aguardar em liberdade decisão sobre os embargos infringentes. Pede a revogação da prisão preventiva ou a sua substituição por cautelares do art. 319 do CPP.
+Decido.
+As razões de pedir não apresentam de maneira clara e objetiva o direito que se busca e o respectivo fundamento jurídico. Além disso, o habeas corpus está deficientemente instruído, pois não acompanha a cópia da sentença que manteve a prisão preventiva do réu, tampouco o acórdão proferido pelo Tribunal de Justiça com a prévia análise dos fundamentos da manutenção da medida e do direito do réu de recorrer em liberdade.
+É "ônus do impetrante  de  instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, r elator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023).
+O vício impede a constatação da inauguração da competência prevista no artigo 105 da Constituição Federal.
+Saliento que não cabe ao Superior Tribunal de Justiça antecipar o juízo de mérito dos embargos infringentes interpostos na origem. Ademais, para a solicitação de habeas corpus neste âmbito superior, é imprescindível que eventual direito de recorrer em liberdade haja sido previamente denegado por um Tribunal de Justiça ou Tribunal Regional Federal.
+Deveras, "o exame de matéria não decidida pelo Tribunal de Justiça "enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC n. 753.181/SP, rel. Rel. Ministro João Otávio de Noronha, 5ª T., DJe de 30/9/2022).
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
