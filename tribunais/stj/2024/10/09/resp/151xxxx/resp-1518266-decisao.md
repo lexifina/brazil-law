@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Recurso em Sentido Estrito n. 0434085-83.2013.8.21.7000).
+Consta dos autos que o recorrido foi pronunciado pela suposta prática do crime previsto no art. 121, § 2º, I e IV, do Código Penal.
+Irresignada, recorreu a defesa, tendo o Tribunal de origem dado provimento ao recurso para despronunciar o ora recorrido, em acórdão cuja ementa foi assim definida (e-STJ fl. 424):
+RECURSO EM SENTIDO ESTRITO. HOMICÍDIO. PRONÚNCIA. INDÍCIOS INSUFICIENTES DE AUTORIA.
+As provas produzidas sob contraditório judicial são frágeis a embasar o juízo de admissibilidade da acusação, para o que, conforme dispõe o artigo 413 do CPP, é necessário a comprovação da existência do crime e a presença de indícios suficientes de autoria. Hipótese acusatória amparada em meros boatos de populares. Tese defensiva corroborada pela única testemunha presencial do fato. Decisão de pronúncia reformada.
+Os embargos de declaração opostos pelo Ministério Público foram rejeitados em acórdão assim ementado (e-STJ fls. 451/455):
+EMBARGOS DE DECLARAÇÃO. HOMICÍDIO. OMISSÃO. INOCORRÊNCIA.
+O embargante, a pretexto de suposta omissão, pretende, em sede de embargos de declaração, rediscutir, novamente, a matéria probatória, a qual já foi apreciada. Os embargos de declaração não se prestam a esse fim. Utilizá-los com o fito de nova discussão sobre o arcabouço probatório seria desvirtuar sua função, esculpida no art. 619 do CPP. Destarte, não havendo omissão, ambiguidade, obscuridade ou contradição a serem sanadas, rejeita-se os embargos de declaração.
+EMBARGOS REJEITADOS
+Daí o presente recurso especial, no qual apontou o Parquet ofensa aos arts. 121, § 2º, I e IV, do Código Penal; 74, § 1º, 155, 413, caput, 414, e 619, do Código de Processo Penal.
+Sustentou, em síntese, que a pronúncia é mero juízo de admissibilidade da peça acusatória, e assim, não pode o magistrado "desprezar ou amesquinhar os elementos de convicção colhidos na seara policial, pois o artigo 155 do Código de Processo Penal tem incidência mitigada nos processos de competência do Tribunal do Júri, sobretudo em razão de a instrução sequer ter sido encerrada, havendo possibilidade de ampla produção probatória em Plenário" (e-STJ fl. 469).
+Aduziu, outrossim, a violação ao disposto no art. 619 do Código de Processo Penal, na medida em que o ora recorrente levou ao Tribunal de origem, mediante embargos de declaração, questões relevantes quanto à possibilidade de mitigação do disposto no art. 155 do Código de Processo Penal, notadamente a existência de prova não repetível apta a justificar a decisão de pronúncia (e-STJ fls. 475/478).
+Requereu, ao final, o provimento do recurso para restabelecimento da pronúncia ou, subsidiariamente, a anulação do acórdão que julgou os embargos de declaração para que outro fosse proferido com o enfrentamento das questões suscitadas.
+Contrarrazões às e-STJ fls. 483/490.
+Admitido o recurso (e-STJ fls. 493/498, manifestou-se o Ministério Público Federal pelo parcial provimento do apelo nobre (e-STJ fls. 464/468).
+É o relatório. Decido.
+Acerca da controvérsia, " e ste Superior Tribunal de Justiça possui entendimento de que a decisão de pronúncia não pode se fundamentar exclusivamente em elementos colhidos durante o inquérito policial, nos termos do art. 155 do CPP e nem em testemunho indireto ou por "ouvir dizer" (hearsay testimony)" (AgRg no HC n. 857.109/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024).
+Lado outro, "excepcionalmente, reconhece-se o testemunho indireto, prestado em Juízo, por policiais que acompanharam as investigações, principalmente os depoimentos, testemunhos e interrogatórios da fase extrajudicial, nas hipóteses de provas não repetíveis, tais como a morte superveniente da vítima ou testemunha, ou, ainda, quando verificado concretamente o temor em comparecer em Juízo" (AgRg no HC n. 676.342/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/8/2024, DJe de 28/8/2024).
+Nesse contexto, é preciso ressaltar, conforme alegou o recorrente, a existência de prova não repetível, consistente em depoimento do pai da vítima "que foi ouvido somente na fase policial porque falecido, e que declinou ter presenciado o fato, imputando com firmeza a autoria ao recorrido" (e-STJ fls. 473/474).
+No entanto, conquanto essencial ao deslinde da controvérsia, a Corte a quo assim consignou por ocasião do julgamento dos embargos de declaração (e-STJ fl. 454):
+Os embargos de declaração não se prestam a esse fim. Utilizá-los com o fito de nova discussão sobre o arcabouço probatório seria desvirtuar sua função, esculpida no art. 619 do CPP.
+Os depoimentos aos quais se refere o Ministério Público não foram apreciados porque foram colhidos somente em fase policial, não sendo proporcionado o contraditório, pois conforme disposto no artigo 155 do Código de Processo Penal, não é possível fundamentar uma decisão com base somente nos elementos colhidos na investigação.
+Ainda, importante ressaltar que os únicos depoimentos existentes da fase judicial que apontam o acusado como autor do fato são de testemunhas que não estavam presentes no momento do cometimento do crime.
+Destarte, não havendo omissão, ambiguidade, obscuridade ou contradição a ser sanada, rejeito os embargos de declaração.
+Vislumbro, pois, a alegada ofensa ao disposto no art. 619 Código de Processo Penal, devendo ser parcialmente provido o apelo nobre a fim de determinar o retorno dos autos à Corte estadual para que prossiga no julgamento dos embargos de declaração, apreciando as teses contidas no recurso do Ministério Público.
+Ante o exposto, dou parcial provimento ao recurso especial, nos termos acima delineados.
+Publique-se. Intimem-se.
+EMENTA
