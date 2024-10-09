@@ -1,0 +1,89 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5017844-69.2021.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: REGIPETERLE LANCHES LTDA - ME
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos nº 5017844-69.2021.8.08.0024
+
+Recorrente: EDP ESPÍRITO SANTO DISTRIBUIÇÃO DE ENERGIA S/A
+
+Recorrido: REGIPETERLE LANCHES LTDA - ME
+
+Relator: FELIPE LEITÃO GOMES
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES – RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DE CONHECIMENTO. (1).
+TRATAM-SE DE EMBARGOS À EXECUÇÃO OPOSTOS POR
+EDP ESPÍRITO SANTO DISTRIBUIÇÃO DE ENERGIA S.A
+, POR MEIO DOS QUAIS SE INSURGE CONTRA A EXECUÇÃO DO TÍTULO JUDICIAL OCORRIDA NOS PRESENTES AUTOS, AO ARGUMENTO DE QUE HÁ EXCESSO DE CÁLCULO. SUSTENTA QUE NÃO HÁ QUE SE FALAR EM SALDO REMANESCENTE NO IMPORTE DE R$ 5.012,67.
+(2).
+
+SENTENÇA QUE JULGOU IMPROCEDENTE OS EMBARGOS EXECUTÓRIOS APRESENTADOS. (3).
+
+RECURSO
+EDP
+.
+
+CONCESSÃO DE EFEITO SUSPENSIVO.
+MANIFESTO EXCESSO DE EXECUÇÃO. CRÉDITO DO VALOR REMANESCENTE QUE FOI DEVIDAMENTE DISPONIBILIZADO. PLEITO DE REFORMA INTEGRAL DA SENTENÇA PARA QUE SEJAM PROVIDOS OS PEDIDOS EXPOSTOS NOS EMBARGOS À EXECUÇÃO OPOSTOS.
+(4). CONTRARRAZÕES.
+EM SÍNTESE, A RECORRIDA ADUZ QUE, COMO EXPOSTO PELA PRÓPRIA RECORRENTE, O VALOR REMANESCENTE É DEVIDO E NÃO HÁ O QUE SE FALAR EM DISPONIBILIZAÇÃO DE CRÉDITO E TAMPOUCO EM REFORMA NA SENTENÇA PROFERIDA.
+(5).
+DA QUESTÃO PROCESSUAL.
+REJEITO A CONCESSÃO DO EFEITO SUSPENSIVO PRETENDIDO, ANTE A AUSÊNCIA DE POSSIBILIDADE DE DANO IRREPARÁVEL A SER SUPORTADO PELO RECORRENTE. (6)
+SEM MUITAS DELONGAS, ENTENDO POR BEM MANTER A SENTENÇA PROFERIDA. O MAGISTRADO
+A QUO
+AGIU ACERTADAMENTE QUANDO ENTENDEU PELO IMPROVIMENTO DOS EMBARGOS EXECUTÓRIOS, TENDO EM VISTA A UNILATERALIDADE DO RECORRENTE EM PROCEDER COM A DISPONIBILIZAÇÃO DO CRÉDITO, QUANDO ESTE SEQUER FOI TRATADO COMO UMA OPÇÃO NOS PRESENTES AUTOS. ASSIM, RESTANDO INCONTROVERSO O VALOR REMANESCENTE A SER PAGO PELA
+EDP,
+NÃO HÁ O QUE SE FALAR EM REFORMA DO COMANDO SENTENCIAL, DEVENDO A MESMA SER COMPELIDA A ARCAR COM A OBRIGAÇÃO IMPOSTA.
+(7)
+RECURSO
+EDP
+CONHECIDO E IMPROVIDO
+.
+SENTENÇA MANTIDA POR SEUS TERMOS.
+(8) POR FORÇA DA SUCUMBÊNCIA RECURSAL, CONDENO A PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS BEM COMO DOS HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FIXO NO IMPORTE DE R$ 2.000,00 (DOIS MIL REAIS), NOS TERMOS DO ARTIGO 85, §8° DO CPC.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
