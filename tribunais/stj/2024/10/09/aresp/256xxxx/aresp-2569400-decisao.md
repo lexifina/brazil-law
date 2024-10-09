@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por MARIETA PEREIRA DE SOUZA em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+"E M E N T A - AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA DE HONORÁRIOS ADVOCATÍCIOS - VERBA ALIMENTAR - PENHORA DE PROVENTOS DE APOSENTADORIA - POSSIBILIDADE - IMPENHORABILIDADE MITIGADA - DECISÃO REFORMADA - RECURSO CONHECIDO E PROVIDO.
+Este Sodalício, em julgamento de IRDR, admite a mitigação da regra da impenhorabilidade de salário/proventos de aposentadoria como forma de garantir satisfação de dívida não alimentar, limitada a 30% do salário do devedor, desde que a constrição não comprometa a subsistência do devedor, ficando tal análise a critério casuístico do Juiz. (TJMS. IRDR 1403693-36.2019.8.12.0000, Campo Grande, Seção Especial - Cível, Relator (a): Des. Júlio Roberto Siqueira Cardoso, j: 04/03/2022, p:10/03/2022).
+A penhora de 10% sobre os proventos líquidos de benefício previdenciário da executada até a satisfação da dívida quando não compromete o necessário à manutenção de sua dignidade, mostrando-se razoável e prudente a fim de satisfazer a dívida sem afetar a subsistência do executado e/ou da sua família, pode ser realizada por estar em consonância com a jurisprudência desta Corte." (fl. 70)
+Em suas razões recursais, a parte recorrente aponta violação aos arts. 832 e 833, IV, do Código de Processo Civil de 2015, sustentando em síntese, a inviabilidade de penhora de verba salarial "que não supera o valor de 50 salários mínimos". (fls. 106-121)
+Apresentadas contrarrazões às fls. 134-143.
+É o relatório. Decido.
+O presente recurso especial tem por objeto discutir a possibilidade de penhora das verbas remuneratórias da recorrente para pagamento de dívida não alimentar.
+Desse modo, a discussão recai sobre questão submetida a julgamento afetado à sistemática dos recursos repetitivos, em que se busca definir o "alcance da exceção prevista no § 2º do art. 833 do CPC, em relação à regra da impenhorabilidade da verba de natureza salarial tratada no inciso IV do mesmo dispositivo, para efeito de pagamento de dívidas não alimentares, inclusive quando a renda do devedor for inferior a cinquenta (50) salários mínimos" (Tema n. 1230, REsp"s 1.894.973/PR, 2.071.335/GO, 2.071.382/SE e 2.071.259/SP), com determinação de suspensão do processamento dos recursos especiais ou agravos em recursos especiais em segunda instância que versem sobre a mesma matéria e tramitem no território nacional, nos termos do art. 1.037, II,do CPC/2015.
+Nesse contexto, necessária a devolução dos autos à Corte de origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015, conforme determinação prevista no art. 256-L do RISTJ, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a restituição dos autos ao Tribunal de origem, a fim de que fique sobrestado até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema nº 1.230) e eventual retratação prevista nos arts. 1.040, II, e 1.041 do CPC/2015.
+Publique-se.
+EMENTA
