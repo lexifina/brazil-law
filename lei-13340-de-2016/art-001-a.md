@@ -1,0 +1,1 @@
+Art. 1º-A. Aplica-se o disposto no artigo 1º desta lei às operações vinculadas a atividade rural contratadas até 31 de dezembro de 2011, por agroindústrias, com recursos exclusivamente dos Fundos Constitucionais de Financiamento do Norte (FNO) e Nordeste (FNE), lançadas em prejuízo total ou parcialmente até 31 de dezembro de 2017.

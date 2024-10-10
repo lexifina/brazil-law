@@ -1,0 +1,1 @@
+Art. 12-A. Para os fins do disposto nos arts. 1º-B, 2º-B e 3º-C desta Lei, os honorários advocatícios e as despesas com custas processuais são de responsabilidade de cada parte, e a falta de seu pagamento não obsta a liquidação ou a repactuação da dívida, conforme o caso.
