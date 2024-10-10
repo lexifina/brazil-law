@@ -1,0 +1,10 @@
+DECISÃO
+Agrava-se da inadmissão de recurso especial interposto por INTERCEMENT PARTICIPACOES S.A. para impugnar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+Bem examinados os autos, vê-se que não se pode conhecer do recurso especial quanto à alegada violação ao art. 927 do CPC, por defeito de prequestionamento, já que não houve enfrentamento da alegação pela instância de origem, e a matéria não foi suscitada sequer quando da oposição dos embargos declaratórios. Incide, no ponto, o óbice da Súmula 282/STF.
+De resto, não há violação ao 1.022, II, do CPC, pois o acórdão recorrido conferiu solução à controvérsia de forma clara e coerente, por meio de fundamentação adequada e suficiente à conclusão atingida.
+Por fim, extrai-se do acórdão recorrido que a solução alcançada decorre de fundamento eminentemente constitucional, qual seja, a interpretação conferida ao princípio constitucional da anterioridade nonagesimal tal como estampada na decisão proferida pelo Supremo Tribunal Federal na medida cautelar na ADC 84/DF.
+Não se pode, portanto, conhecer do recurso especial no ponto, sob pena de usurpação da competência constitucional do STF, conforme, aliás, entendimento deste Superior Tribunal de Justiça manifestado em diversos casos idênticos: AREsp 2729546, RELATOR(A) Ministro TEODORO SILVA SANTOS, DATA DA PUBLICAÇÃO 27/09/2024; AREsp 2683070, RELATOR(A) Ministro HERMAN BENJAMIN, DATA DA PUBLICAÇÃO 10/09/2024; REsp 2119318, RELATOR(A) Ministro BENEDITO GONÇALVES; DATA DA PUBLICAÇÃO 05/09/2024; AREsp 2676274, RELATOR(A) Ministro GURGEL DE FARIA, DATA DA PUBLICAÇÃO 03/09/2024; AREsp 2715713, RELATOR(A) Ministro HERMAN BENJAMIN, DATA DA PUBLICAÇÃO 30/08/2024; AREsp 2672643, RELATOR(A) Ministro GURGEL DE FARIA, DATA DA PUBLICAÇÃO 20/08/2024.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, na extensão do conhecimento, a ele negar provimento.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
