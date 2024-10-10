@@ -1,0 +1,2 @@
+Dispõe sobre o direcionamento de depósitos à vista captados pelas instituições financeiras para operações de crédito destinadas à população de baixa renda e a microempreendedores, autoriza o Poder Executivo a instituir o Programa de Incentivo à Implementação de Projetos de Interesse Social - PIPS, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
