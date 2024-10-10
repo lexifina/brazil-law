@@ -1,0 +1,5 @@
+Art. 2º-B. É autorizada a repactuação, até 31 de dezembro de 2025, nos termos dos arts. 2º e 2º-A desta Lei, de débitos de responsabilidade de miniprodutores rurais e de pequenos produtores rurais, conforme definição constante da Proposição nº 041/2011, aprovada pela Resolução Condel/Sudene nº 43, de 10 de novembro de 2011, e de agricultores familiares que atendem aos requisitos da Lei nº 11.326, de 24 de julho de 2006, conforme regulamento do fundo e disponibilidade orçamentária e financeira.
+§ 1º Para fins do disposto neste artigo:
+I - a amortização da dívida a ser repactuada será em prestações anuais, iguais e sucessivas, fixado o vencimento da primeira parcela para 2024 e o vencimento da última parcela para 30 de novembro de 2033, estabelecido novo cronograma de amortização, sem a necessidade de estudo de capacidade de pagamento;
+II - a carência será até 2025, independentemente da data de formalização da renegociação.
+§ 2º A critério e por solicitação do devedor, é autorizada a adequação das operações renegociadas com base neste artigo, vencidas e vincendas, às condições estabelecidas no § 1º.

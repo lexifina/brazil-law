@@ -1,0 +1,1 @@
+Art. 3º-C. Fica autorizada a concessão de rebate para liquidação, até 30 de dezembro de 2022, nos termos dos arts. 3º e 3º-B desta Lei, de débitos de responsabilidade de agricultores familiares que atendem aos requisitos da Lei nº 11.326, de 24 de julho de 2006.
