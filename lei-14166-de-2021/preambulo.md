@@ -1,0 +1,2 @@
+Altera a Lei nº 7.827, de 27 de setembro de 1989, para dispor sobre a renegociação extraordinária de débitos no âmbito do Fundo Constitucional de Financiamento do Norte (FNO), do Fundo Constitucional de Financiamento do Nordeste (FNE) e do Fundo Constitucional de Financiamento do Centro-Oeste (FCO); e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
