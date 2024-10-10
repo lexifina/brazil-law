@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FUNDAÇÃO EZEQUIEL DIAS com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 497):
+APELAÇÃO CÍVEL - DIREITO ADMINISTRATIVO - AÇÃO ORDINÁRIA - SERVIDOR PÚBLICO - FUNED - EXPOSIÇÃO A PRODUTO INFLAMÁVEL - ADICIONAL DE PERICULOSIDADE - RECONHECIMENTO ADMINISTRATIVO DO BENEFÍCIO - PROVA EMPRESTADA - COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DA AUTORA - CONSECTÁRIOS LEGAIS.
+1. A prova emprestada, observados o contraditório e a ampla defesa, é plenamente admitida para a comprovação de direito de servidor público.
+2. É devido o adicional de periculosidade ao servidor que exerce atividade exposto a produto inflamável, no percentual de 30% do seu vencimento básico, conforme estabelecido pela Lei Estadual nº 10.745/92 e pela Lei Delegada nº 38/1997.
+3. Nas condenações da Fazenda Pública envolvendo servidores públicos deverão incidir correção monetária com base no IPCA-E e juros de mora aplicáveis à caderneta de poupança, nos termos do disposto no art. 1º-F, da Lei nº 9.494/97, com redação dada pelo art. 5º da Lei nº 11.960/09, até 09/12/2021. Após essa data, deverão incidir correção monetária e juros de mora com base na taxa Selic, conforme estabelecido pela EC nº 113/21.
+4. Os honorários advocatícios devidos pela Fazenda Pública, em condenação ilíquida, devem ser fixados na fase de liquidação do julgado, nos termos do inciso II do §4º do art. 85 do CPC.
+Os embargos declaratórios opostos na sequência foram rejeitados (fls.548/554).
+Alega a recorrente violação dos artigos 473 e 373, I, do CPC, além de dissídio jurisprudencial.
+Aduz que a servidora recorrida não se desincumbiu do seu ônus, uma vez que não produziu prova técnica para fins de verificar eventuais condições insalubres no local de trabalho.
+Sustenta, também, que, de acordo com entendimento do STJ, "o pagamento do adicional de insalubridade ou periculosidade está condicionado ao laudo que prova efetivamente as condições insalubres ou perigosas, de modo que não cabe seu pagamento no período que antecedeu a perícia" (fl. 569).
+Requer o provimento do recurso especial, "para que seja reformado o acórdão recorrido e julgado improcedente o pedido inicial" (fl. 570).
+Contrarrazões às fls. 583/601.
+Juízo positivo de admissibilidade às fls. 605/607.
+É o relatório.
+Insurge-se a Fundação recorrente contra acórdão do TJMG que, no julgamento da apelação da parte autora, reconheceu o seu direito ao adicional de insalubridade/periculosidade, no período de 01/04/2009 a 28/08/2013, com amparo nos seguintes fundamentos (fls. 499/508):
+No Estado de Minas Gerais, o adicional de periculosidade foi instituído pela Lei Estadual nº 10.745/92, nos seguintes termos:
+"Art. 13- O servidor que habitualmente trabalhe em locais insalubres ou em contato permanente com substâncias tóxicas, radioativas ou com risco de contágio, ou, ainda, que exerça atividade penosa fará jus, em cada caso, a adicional de insalubridade, de periculosidade ou a adicional por atividade penosa, nos termos, condições e limites fixados em regulamento. § 2º- O adicional de periculosidade será devido no percentual de 40% (quarenta por cento), incidente sobre o símbolo correspondente ao vencimento básico do servidor."
+A Lei Delegada nº 38/1997 reduziu o percentual do referido adicional de periculosidade para 30%, mantendo a mesma base de cálculo - art. 21.
+A exposição dos servidores a agentes perigosos foi reconhecida administrativamente pela FUNED, em Laudo Técnico de Condições de Trabalho, concedendo-se à Apelante o benefício, a partir de junho de 2012 (f. 32, autos originais).
+Embora a Apelante tenha desistido da prova pericial, fê-lo com arrimo em laudos periciais produzidos em ações envolvendo servidores paradigmas (ff. 63-370).
+Referidos laudos, inclusive relativos a servidores titulares do mesmo cargo (e. g. Autor Marcelo Casaes Lisboa, autos nº 0053273.91.2014.8.13.0024), concluíram pela caracterização da insalubridade/periculosidade, pela exposição a líquidos inflamáveis até 28/08/2013, momento a partir do qual os produtos periculosos passaram a ser armazenados em local de acesso restrito (f. 156).
+A mesma conclusão foi alcançada pelo laudo técnico produzido pela Apelada, que balizou o pagamento do adicional em 2012 à Apelante, insista-se, o qual também se fundamentou na "exposição a líquidos inflamáveis" (f. 193v).
+Pondere-se que, observados os princípios do contraditório e da ampla defesa, a prova emprestada é plenamente admissível para a comprovação de pleito de servidores públicos, inclusive do exercício das suas funções com exposição à insalubridade.
+(..)
+Deve o magistrado, ao valorar a prova, verificar se as conclusões do expert se aplicam a todos os servidores que exercem a mesma função, a fim de lhes assegurar o direito postulado.
+Conforme fundamentação ora desenvolvida, apurou-se que a insalubridade/periculosidade reconhecida nas pericias judiciais produzidas nas ações de servidores paradigmas tinha como causa a exposição a agentes inflamáveis, situação também verificada no cotidiano profissional da Apelante.
+A prova emprestada em questão, sublinhe-se, vai ao encontro da mesma conclusão obtida pela Apelada, quando reconheceu administrativamente o direito ao adicional com base no mesmo fato (exposição habitual aos agentes inflamáveis).
+Dessa forma, encontra-se em sintonia com os demais elementos de prova dos autos, merecendo valoração suficiente no caso concreto, como meio idôneo e convincente para a comprovação dos fatos constitutivos do direito sustentado pela Apelante.
+Assim, comprovada a exposição da servidora a agentes nocivos e perigosos a sua saúde, é devido o adicional de periculosidade postulado na inicial de 30% (trinta por cento), incidente sobre o símbolo correspondente ao seu vencimento básico, observada a prescrição quinquenal.
+(..)
+Quanto ao termo inicial do benefício, dispõe o parágrafo único do art. 4º do Decreto Estadual nº 39.032/97:
+Art. 4º - O servidor submetido às condições de trabalho insalubre, perigoso ou penoso, faz jus à percepção do adicional a que se refere o artigo 13 da Lei nº 10.745, de 25 de março de 1992, observadas as normas deste Decreto.
+Parágrafo único - A percepção do adicional de que trata este artigo terá início após a conclusão do laudo pericial previsto neste Decreto. (GN).
+O ato normativo está em consonância com o entendimento pacificado pelo Superior Tribunal de Justiça de que o reconhecimento da periculosidade ou da insalubridade está condicionado ao laudo que prova efetivamente as condições insalubres ou perigosas a que estão submetidos os servidores. Ou seja, é descabido o pagamento em período que antecedeu a perícia, emprestando-se efeitos retroativos ao laudo atual.
+(..)
+O entendimento, obviamente, aplica-se aos casos em que a perícia não é conclusiva acerca do termo inicial da exposição do servidor à insalubridade ou à periculosidade no local de trabalho.
+No caso, as perícias técnicas coligidas nos autos reconheceram que a situação geradora da insalubridade/periculosidade - exposição a agentes inflamáveis - persistiu entre 2007 e 2013.
+Dessa forma, o pagamento do adicional deve retroagir a 2009, conforme requerido na inicial, já observada a prescrição quinquenal, compensando-se os valores pagos sob a mesma rubrica no período devido. (grifos nossos)
+No caso, portanto, a Corte local concluiu pelo cabimento de utilização de prova emprestada para, "em sintonia com os demais elementos de prova dos autos", comprovar a exposição da servidora a agentes nocivos e perigosos a sua saúde, determinando o pagamento do adicional de insalubridade desde 2009, tendo em vista a conclusão das perícias técnicas coligidas aos autos, que teriam reconhecido que houve exposição a agentes inflamáveis entre 2007 e 2013.
+Dessa forma, na espécie tem incidência o disposto na Súmula 7/STJ, dada a vedação de reexame de matéria fático-probatória no julgamento do recurso especial.
+Nessa linha de raciocínio, confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO. ADICIONAL DE PERICULOSIDADE. OFENSA AO ART. 195, § 2º, DA CLT. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ACÓRDÃO FUNDADO NAS PROVAS DOS AUTOS E EM LEI LOCAL. SÚMULAS 7/STJ E 280/STF.
+1. O art. 195, § 2º, da CLT não foi objeto de debate no Tribunal a quo, não preenchendo o requisito do prequestionamento viabilizador da instância especial. Incide, na hipótese, o teor da Súmula 282/STF.
+2. Ademais, tendo o Tribunal local, com apoio do material fático-probatório dos autos, concluído que o autor faz jus ao referido adicional, infirmar tal entendimento implica reexame de provas, o que é vedado em Recurso Especial. Incidência da Súmula 7/STJ.
+3. Anoto, ainda, que a análise da controvérsia posta demanda exame de legislação local, tendo em vista que o Tribunal de origem adotou como fundamento do decisum a Lei 1.270/1987. Tal circunstância torna inviável o acolhimento do Recurso Especial, conforme aplicação analógica do enunciado 280 constante da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+4. Recurso Especial não conhecido.
+(REsp n. 1.693.667/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/10/2017, DJe de 16/10/2017.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. SERVIDOR. ADICIONAL PERICULOSIDADE. COMPROVADA ATIVIDADE EM ÁREA DE RISCO. SÚMULA 7/STJ.
+1. A alteração da conclusão adotada pelo acórdão recorrido, tal como postulado nas razões recursais, exigiria, necessariamente, novo exame de matéria fática, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 962.511/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 18/4/2017, DJe de 27/4/2017.)
+Além disso, também se aplica o disposto na Súmula 284/STF, considerando a deficiência na fundamentação recursal, uma vez que a recorrente não refutou os fundamentos utilizados pelo TJMG para dar provimento ao recurso de apelação.
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CPC/2015. APLICABILIDADE. EXECUÇÃO FISCAL. INCONSTITUCIONALIDADE DO CRÉDITO EXECUTADO. CDA. PRESUNÇÃO DE CERTEZA E HIGIDEZ. EXTINÇÃO DE OFÍCIO. IMPOSSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO COMBATIDO. RAZÕES RECURSAIS DISSOCIADAS. SÚMULAS N. 283 E 284 DO STF. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A declaração de inconstitucionalidade, pelo STF, não afasta automaticamente a presunção de certeza e de liquidez da CDA.
+Prossegue-se a execução fiscal pelo valor remanescente daquele constante do lançamento tributário ou do ato de formalização do contribuinte fundado em legislação posteriormente declarada inconstitucional, sobressaindo-se a higidez do ato de constituição do crédito tributário, o que, a fortiori, dispensa a emenda ou substituição da certidão de dívida ativa (CDA). Precedentes.
+III - Considera-se deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - Para a comprovação da divergência jurisprudencial, a parte recorrente deve proceder ao cotejo analítico entre os julgados confrontado, transcrevendo os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas, bem como indicar o dispositivo de lei federal que teria sido interpretado de forma divergente pelo acórdão recorrido.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 2.137.726/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/9/2024, DJe de 12/9/2024.) (grifo nosso)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Caso tenha havido fixação de honorários advocatícios na instância de origem, determino sua majoração em 10% do valor arbitrado, a teor do contido no § 11 do artigo 85 do Código de Processo Civil, com observância dos limites estabelecidos nos §§ 2º e 3º do mencionado dispositivo e de eventual isenção ou concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. FUNED. ADICIONAL DE INSALUBRIDADE. EXPOSIÇÃO A PRODUTO INFLAMÁVEL. PROVA EMPRESTADA. REVISÃO DE PROVAS. SÚMULA 7/STJ. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
