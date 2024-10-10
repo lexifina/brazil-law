@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por DENIS DE JESUS DO NASCIMENTO com amparo no art. 105, inciso III, alínea "a", da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+Nas razões recursais, a defesa alega violação do art. 33, § 4º, da Lei n. 11.343/2006.
+Aduz, em suma, que faria jus ao reconhecimento do tráfico privilegiado, em sua fração máxima, uma vez que com o recorrente foram apreendidos aproximadamente 140 g de cocaína, quantidade que não se revela exorbitante.
+Requer, assim, o provimento do recurso, para que seja redimensionada a pena imposta e, assim, substituída a pena privativa de liberdade por restritivas de direitos.
+Apresentadas as contrarrazões (e-STJ, fls. 254-260).
+Admitido o inconformismo (e-STJ, fls. 264-265), os autos ascenderam ao STJ.
+O Ministério Público Federal opina pelo provimento do recurso especial (e-STJ, fls. 278-280).
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+Acerca da controvérsia, assim constou da sentença condenatória e do acórdão recorrido, respectivamente:
+"Considerando ser o acusado primário e não existir nos autos prova suficiente para afirmar que este se dedicava habitualmente a atividade criminosa de tráfico ilícito de entorpecentes, uma vez que, as denúncias contra o réu, dando conta do ilícito, eram recentes, datando por volta de um mês antes da prisão em flagrante, impõe-se que a referida benesse deve incidir no caso concreto. Quanto à fração da causa especial de diminuição da pena, tendo como critérios a serem valorados os elementos do art. 59 do Código Penal (CP), com especial atenção ao art. 42 da Lei n. 11.343/06, que estabelece a natureza e a quantidade da droga apreendida, tem-se que nos autos foram apreendidas 147,81 g de cocaína, quantidade expressiva de droga de alta periculosidade e elevado valor econômico. Desta forma, entendo que a redução deve se operar em 1/5(um quinto)." (e-STJ, fl. 136).
+"Na espécie, perceba-se que a quantidade e a natureza do entorpecente - um invólucro de plástico incolor, com massa bruta de 88,35 g de cocaína e, dezenove invólucros de plástico incolor, com massa bruta de 59,46 g, totalizando 147,81 g de cocaína (evento 16, LAUDO1) ainda, que se considerada eventual condição de "mula" que não impeça a concessão da benesse do art. 33, § 4º, da Lei n. 11.343/06, por certo não pode ser desconsiderada, de modo a equiparar o apelante àquele "pequeno" traficante.
+Com efeito, e considerada que cada dose do uso da substância em comento se dá em porções de menos de 1 (um) grama, a quantidade de cocaína transportada teria, literalmente, o potencial de atingir dezenas de milhares de usuários.
+Assim sendo, não há, em absoluto, qualquer mínima razão para majoração da fração aplicada, sendo escorreito o patamar de 1/5 (um quinto) empregado na origem" (e-STJ, fl. 227).
+Como é cediço, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+De acordo com o § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Na falta de parâmetros legais para se fixar o quantum dessa redução, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC 401.121/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017 e AgRg no REsp 1.390.118/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julga do em 23/5/2017, DJe 30/5/2017).
+No caso, o Tribunal a quo não aplicou o tráfico privilegiado em sua fração máxima, mantendo o patamar de 1/5 em razão da quantidade de droga apreendida. Contudo, considerando a apreensão de quantidade não elevada de droga e à míngua de elementos probatórios que indiquem a dedicação do recorrente em atividade criminosa, é de rigor a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 no grau máximo.
+Passo, portanto, ao redimensionamento da pena quanto ao crime de tráfico de drogas.
+Na primeira fase, a pena-base foi fixada em seu mínimo legal, 5 anos de reclusão e pagamento de 500 dias-multa.
+Na segunda fase, Súmula 231 do STJ.
+Na terceira fase, aplico a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 em 2/3, de modo que a pena definitiva fica estabelecida em 1 ano e 8 meses de reclusão, e pagamento de 166 dias-multa.
+In casu, as circunstâncias judiciais previstas no art. 59 do Código Penal foram consideradas favoráveis, tanto que a pena-base foi fixada no mínimo legal. O recorrente é primário, e a pena definitiva é inferior a 4 (quatro) anos de reclusão. Assim, faz jus ao cumprimento inicial da pena no regime aberto.
+Ademais, pelas mesmas razões acima alinhavadas (primariedade do agente e valoração favorável das circunstâncias judiciais), é cabível a substituição da pena privativa de liberdade por restritiva de direitos, a ser definida pelo Juízo da Execução.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, a fim de fazer incidir a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 no grau máximo, redimensionando a pena, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
