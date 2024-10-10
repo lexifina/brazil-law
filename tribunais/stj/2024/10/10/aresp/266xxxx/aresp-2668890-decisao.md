@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto pela TENDA ATACADO LTDA. contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 443):
+Apelação - Ação anulatória - Auto de infração - PROCON - Utilização de sistema de consulta por código de barras, com distância superior a 15 metros entre o produto e a leitora; não indicação, por meio de cartazes, sobre a localização dos leitores óticos; exposição de produtos na lanchonete sem qualquer informação sobre seus respectivos preços à vista; e exposição de kits promocionais cujos preços para pagamento à vista não correspondiam às ofertas estipuladas em seus respectivos rótulos, considerando o preço da unidade dos produtos comercializados - Pretensão de anular o Auto de Infração ou subsidiariamente reduzir o valor da multa - Sentença de improcedência - Inconformismo da empresa infratora - Não acolhimento Sentença mantida - Recurso não provido.
+Embargos de declaração rejeitados (e-STJ fls. 467/472).
+No recurso especial obstaculizado, a parte recorrente apontou violação do art. 2º, II, da Lei n. 10.962/2004 e do art. 6º, do Decreto Federal n. 5.903/2006, sustentando que a legislação traz modelos de precificação, cabendo ao fornecedor escolher aquele que melhor lhe atende e, no caso, escolheu a indicação do preço na gôndola, de modo que não tem obrigação de distribuir leitores óticos e afixar cartazes indicando a sua localização.
+Defendeu, ainda, a existência de ofensa ao art. 57 do Código de Defesa do Consumidor, sustentando o valor da penalidade aplicada é desproporcional.
+Contrarrazões às e-STJ fls. 501/529.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fl. 534), tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame (e-STJ fls. 537/543).
+Passo a decidir.
+Extrai-se do acórdão recorrido que a parte insurgente foi autuada, após fiscalização do órgão de defesa do consumidor, pelas seguintes práticas (e-STJ fls. 445/446):
+(I) expor à venda produtos na lanchonete sem qualquer informação sobre seus respectivos preços à vista;
+(II) expor à venda kits promocionais cujos preços para pagamento à vista não correspondiam às ofertas estipuladas em seus respectivos rótulos, considerando o preço dos produtos comercializados unitariamente;
+(III) utilizar código de barras para precificação dos produtos sem indicar a localização, por cartaz suspenso, dos 06 leitores óticos existentes na loja, em desrespeito ao art. 7º, §1º, do Decreto Federal n. 5.903/2006.
+Na oportunidade, foi aplicada multa administrativa que totaliza R$ 262.317,51 (duzentos e sessenta e dois mil trezentos e dezessete reais e cinquenta e um centavos) (e-STJ fl. 447).
+Pois bem.
+No que se refere à desconstituição da terceira infração, o Tribunal de origem rechaçou-a nos seguintes termos (e-STJ fls. 451/454):
+Já no tocante à terceira infração - disposição dos equipamentos de leitura do código de barras -, a Lei nº 10.962/2004, que dispõe sobre a oferta e as formas de afixação de preços de produtos e serviços para o consumidor, estabelece:
+ ..
+Por sua vez, o Decreto Federal nº 5.903/2006, que regulamenta a Lei nº 10.962, de 11 de outubro de 2004, e a Lei n.º 8.078, de 11 de setembro de 1990, determina que há que se respeitar a distância de 15 metros entre o produto e o leitor, e a indicação, por meio de cartazes suspensos, da localização dos leitores, nos termos do art. 7º, do Decreto nº 5.903/06:
+ ..
+Inexiste, nos autos, comprovação inequívoca de que a autora dispunha de cartazes suspensos indicando os leitores óticos, e que também respeitava a distância máxima de 15 metros.
+Referidas regras são inerentes à obrigação legal imposta ao fornecedor de prestar informações adequadas dos produtos expostos à venda ao público consumidor.
+Via de consequência, o desrespeito ao art. 7º, §§ 1º e 2º do aludido decreto resulta na violação do preceito contido no art. 31, caput, do CDC, porquanto uma vez utilizado o código de barras pelo fornecedor, a disposição e sinalização dos leitores na forma preconizada pela lei se torna um complemento necessário à adequada informação.
+A despeito da Requerente sustentar que os produtos expostos possuiriam o preço correspondente nas gôndolas, as imagens trazidas na petição inicial (fls. 04/05) não podem ser sopesadas, pois não há comprovação acerca do dia em que obtidas, isto é, a regularização pode ter se dado somente após a autuação.
+ ..
+Desse modo, a Autora não se desincumbiu de seu ônus probatório, nos termos do art. 373, inciso II, do Código de Processo Civil.
+Nota-se, a partir da leitura do trecho transcrito, que a manutenção da referida infração deu-se com base em dois fundamentos: inobservância dos critérios referentes aos leitores óticos (distância máxima dos produtos e sinalização) e inexistência de comprovação de que, à época da infração, os produtos expostos possuíam preço correspondente na gôndola.
+Entretanto, a parte recorrente não se insurgiu contra todos os motivos que conferem sustentação jurídica ao aresto impugnado, notadamente quanto ao segundo fundamento, circunstância que atrai a aplicação da Súmula 283 do STF.
+Nesse sentido: AgInt no AREsp 2.572.752/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/8/2024, REPDJe de 16/9/2024, DJe de 02/09/2024; e AgInt no AREsp 1.894.900/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/9/2024, DJe de 5/9/2024.
+Além disso, a modificação do julgado, nos moldes pretendidos, a fim de reconhecer que havia precificação em gôndola, ou afastar as conclusões do aresto combatido, demandaria o reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+Quanto ao valor da multa aplicada, cumpre observar que o Superior Tribunal de Justiça admite, excepcionalmente, a superação do óbice contido na Súmula 7 do STJ quando verificada a exorbitância ou o caráter irrisório da importância arbitrada a título de multa, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+A propósito, veja-se: REsp 1.644.683/MA, relator Ministro Herman Benjamin, Segunda Turma, DJe 16/06/2017; AgInt no AREsp 275.565/SP, Relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 09/05/2018.
+Na hipótese, o aresto combatido manteve a sanção administrativa destacando que (e-STJ fls. 454/456):
+Relativamente ao pleito subsidiário, de redução do valor da multa, tal não merece acolhimento.
+A multa aplicada observou o quanto previsto na Portaria Normativa nº 57/2019, que dispôs sobre o processo administrativo sancionatório no âmbito da Fundação de Proteção e Defesa do Consumidor.
+Tal norma estabelece a utilização do critério "porte econômico da empresa" pode o órgão executivo basear o cálculo da multa naquele critério, caso contrário, esta se tornaria inócua.
+Assim, com amparo nestes parâmetros legais, a Requerida, no exercício de sua atribuição, estabeleceu critérios claros para fins de quantificação da multa, editando a referida portaria, de modo a tornar público os critérios utilizados e deixando claro os seus critérios de apuração (fls. 205/206).
+E, à luz da técnica da proporcionalidade, que se subdivide em necessidade, adequação e razoabilidade em sentido estrito, a Portaria Procon nº 57/2019 cuidou das situações e condições atenuantes ou agravantes da pena, as quais estão estabelecidas em seu art. 34.
+No caso, por ser uma das maiores redes de seu ramo, as condutas se revelam graves e demandam pronta atuação dos órgãos de proteção dos consumidores, certo que se inferiu, também, tratar-se de infrator reincidente (fls. 49).
+A quantificação do valor da multa imposta em decorrência de infração à legislação consumerista deve observar, dentre outros princípios, o da razoabilidade, proporcionalidade e não confisco, de modo a consubstanciar montante tal que represente punição e desestimule a prática de novas infrações, sem atingir a saúde financeira da empresa infratora. Na hipótese, o valor arbitrado se adéqua a tais premissas.
+Conclui-se inquestionável o porte econômico da Autora, mostrando-se razoável a multa aplicada.
+A multa foi aplicada de acordo com a natureza das infrações, a forma como a empresa vem procedendo no mercado e o seu porte econômico, sendo legal e proporcional os critérios e circunstâncias adotados pelo PROCON.
+Por outro lado, tendo em vista que um dos objetivos da multa é desestimular a prática ofensiva, o seu valor é fixado em importância que atinge a condição econômica do infrator, o que somente se dá com base na sua receita.
+Ademais, considerando-se que um dos objetivos da multa é desestimular a prática ofensiva, o seu valor é fixado em montante o qual atinja a condição econômica do infrator, o que somente se dá com base na sua receita, de maneira que o infrator saiba, previamente, quais são os seus limites o que foi observado na hipótese em apreço.
+Mantém-se, pois, o quantum fixado a título de multa.
+Verifica-se que o montante alcançado considerou parâmetros objetivos da Portaria do Procon que regulamentam os critérios da legislação de regência. Dessa forma, a alteração do julgado importaria prévia análise do referido ato normativo, que não se enquadra no conceito de lei federal.
+De todo modo, considerando o cenário constante no acórdão e anteriormente mencionado, com a autuação em decorrência de três infrações distintas a uma das maiores empresas do ramo, o valor fixado não se mostra flagrantemente desproporcional a ponto de ensejar o afastamento do óbice da Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
