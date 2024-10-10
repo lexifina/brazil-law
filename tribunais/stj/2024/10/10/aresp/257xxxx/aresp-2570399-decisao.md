@@ -1,0 +1,31 @@
+DECISÃO
+DANIEL SOARES GOMES e ERICK GABRIEL SILVA DE OLIVEIRA agravam de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Minas Gerais na Apelação Criminal n. 1.0000.22.214682-1/002.
+Os agravantes foram condenados a 4 anos e 2 meses de reclusão mais multa, no regime inicial semiaberto, pelo crime previsto no art. 33, caput, e § 4º, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa alega violação dos arts. 240, caput, e § 1º, e 157, ambos do Código de Processo Penal. Requerem o reconhecimento da nulidade ante o ingresso dos policiais na sua residência sem fundadas razões e sem autorização judicial.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+O Tribunal de Justiça não acolheu a preliminar suscitada pela defesa, com base nos seguintes fundamentos (fl. 642-645, grifei):
+A defesa do 2º apelante alega, preliminarmente, a ocorrência de nulidade da busca e apreensão e das provas decorrentes por violação de domicílio, adiantando, porém, não ser o caso de acolhimento.
+A garantia constitucional à inviolabilidade de domicílio, como cediço, não é absoluta e comporta exceções, conforme o art. 5º, XI, da CR/88. Nesse sentido, a busca e apreensão domiciliar sem consentimento do morador é possível quando houver flagrante delito, desastre ou necessidade de prestar socorro, sendo permitida ainda durante o dia por ordem judicial.
+Sabe-se também que o delito tipificado no art. 33 da Lei 11.343/06, especialmente no tocante às condutas de "guardar" ou "ter em depósito", é considerado como crime permanente, o que significa dizer que o momento consumativo se prolonga no tempo. Dessa forma, enquanto o agente pratica as referidas condutas proibidas pela norma penal incriminadora, o delito permanece em consumação, comportando o flagrante a qualquer momento, consoante se depreende do art. 303 do CPP.
+Essa classificação, no entanto, não legitima o ingresso forçado em qualquer domicílio, sem motivos prévios, mesmo que de fato se encontre drogas posteriormente no local.
+ ..
+Desse modo, embora a justificativa da entrada forçada no domicílio seja feita perante as autoridades em momento posterior, as razões devem ser fundadas em elementos prévios ao ingresso na residência que indiquem que ali ocorre situação de flagrante delito.
+Tais elementos justificadores do ingresso forçado, no entanto, segundo precedentes recentes do Superior Tribunal de Justiça, não satisfazem, isoladamente, com a mera intuição ou tirocínio policial, nem com a mera existência de denúncia anônima, tampouco com apenas uma busca pessoal infrutífera ou somente a fuga do indivíduo.
+À luz dos standards mínimos estabelecidos na jurisprudência dos Tribunais Superiores, o caso dos autos, ao contrário do sustentado pela defesa, é completamente distinto.
+Extrai-se que, durante patrulhamento, policiais militares viram Jéssica - já conhecida por eles pelo envolvimento com o tráfico de drogas -, saindo correndo de uma casa com uma sacola em mãos. Ao perceber a presença dos militares, ela fugiu.
+Nesse momento, indivíduos começaram a se desvencilhar de alta quantia em dinheiro, jogando as notas pela janela do segundo andar da casa e a dar subsequentes descargas em vaso sanitário - típico comportamento de quem está se desfazendo de materiais ilícitos. Os policiais também puderam sentir o odor de entorpecentes vindo do local.
+Em razão da situação de fundada suspeita da prática do tráfico de drogas, os militares foram até o imóvel. Chegando ao local, os policiais se depararam com dois os acusados tentando se desvencilhar das drogas, jogando-as no vaso sanitário, mas conseguiram arrecadar 294 (duzentos e noventa e quatro) pinos de cocaína, além de R$ 15.000,00 (quinze mil reais) e diversas anotações típicas de vendas de drogas, cuja cópia se encontra nos autos (documentos n. 77 e 78).
+ ..
+Assim, verifica-se que o contexto fático anterior às buscas ter demonstrou suficientemente a existência de "fundadas razões" da ocorrência, em tese, do crime de tráfico ilícito de entorpecentes, o que legitimou a entrada forçada no domicílio.
+Assim, constata-se a existência da exceção constitucionalmente prevista à inviolabilidade de domicílio, qual seja, o estado de flagrância.
+Conforme visto, o Tribunal de origem não reconheceu a nulidade, pois "A garantia constitucional à inviolabilidade de domicílio, como cediço, não é absoluta e comporta exceções, conforme o art. 5º, XI, da CR/88. Nesse sentido, a busca e apreensão domiciliar sem consentimento do morador é possível quando houver flagrante delito, desastre ou necessidade de prestar socorro, sendo permitida ainda durante o dia por ordem judicial" (fl. 642).
+Assim, o acórdão recorrido fundamentou-se também em fundamentos constitucionais - art. 5ª, XI, da CF -, cada qual suficiente, por si só, para a manutenção do decisum, e a parte interpôs, tão somente, recurso especial.
+Não há dúvidas, portanto, de que incide também o enunciado na Súmula n. 126 do STJ, segundo a qual: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+Nesse mesmo sentido, veja-se a manifestação do Ministério Público Federal (fl. 815):
+ ..  extrai-se dos autos que as instâncias ordinárias ao entender que não houve violação de domicílio, considerou o disposto no art. 5º, XI, da Constituição Federal. Dessa forma, assentando-se o decisum em fundamento constitucional - o qual além de não ter sido atacado por meio da interposição de recurso extraordinário, é suficiente, per se, para sua manutenção - a pretensão encontra óbice no enunciado inserto na Súmula nº 126/STJ.
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
