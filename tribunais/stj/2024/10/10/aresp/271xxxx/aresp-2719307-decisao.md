@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS FUNCIONÁRIOS DE INSTITUIÇÕES FINANCEIRAS PÚBLICAS FEDERAIS LTDA. (COOPERFORTE) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 514/522).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, COOPERFORTE alegou a violação dos arts. 5º, 113 e 884 do CC, ao sustentar que (1) a incapacidade civil cessa aos 18 anos completos, não podendo ser presumida a interdição; (2) a anulação de negócios jurídicos sem que a incapacidade civil seja tornada pública gera enriquecimento ilícito e insegurança jurídica; (3) a ausência de interdição impede o reconhecimento da incapacidade civil perante terceiros; (4) o ônus sucumbencial não pode ser imposto à parte que, de boa-fé, formalizou negócio jurídico válido, sob pena de violação ao princípio da causalidade.
+(1) Da invalidade do contrato
+Como emana dos autos, COOPERFORTE ingressou com a presente monitória, com lastro em contrato de abertura de crédito nº 4313522/18, celebrado em 23.08.2018, buscando o recebimento da quantia histórica de R$ 5.217,58 (e-STJ, fls. 01/06).
+A ação foi julgada improcedente (e-STJ, fls. 356/360) e confirmada pelo Tribunal de Justiça de São Paulo (e-STJ, fls. 419/427), que entendeu, com base na perícia realizada nos autos, que GIOVANA SIQUEIRA DE LEON (GIOVANA) era acometida da doença que gerou sua incapacidade (bipolaridade) desde 2009, conforme consta no laudo médico.
+Ressaltou ainda que, não obstante a interdição de GIOVANA ter sido reconhecida posteriormente ao contrato discutido, isso não impediria o reconhecimento da sua incapacidade na data da contratação, conforme trechos que ora se transcrevem:
+Na espécie, embora a Apelada não fosse interditada judicialmente na data da celebração do contrato de empréstimo em discussão (firmado em 2018), os documentos que instruem os embargos monitórios demonstram que a mutuária era acometida da doença que gerou a sua incapacidade (bipolaridade) desde 2009, conforme consta do laudo médico pericial (fls. 81/82).
+Somado a isso, a perícia realizada no processo sub judice concluiu pela incapacidade da Apelada "para a plena distinção do lícito e do ilícito e o prejuízo crítico de determinadas situações, propicia condição de ser manipulada para decidir em seu desfavor e assim favorecer pessoas de má fé, sobretudo no campo patrimonial ou negocial de finanças, contratos, venda ou hipoteca de bens, entre outras". (fls. 282).
+Especificamente em relação a data da contratação, o perito esclareceu:
+"23. Pode-se afirmar, de forma inequívoca, que a periciada possuía incapacidade completa para os atos da vida civil em 01/08/2018, não tendo discernimento acerca de suas decisões na época  Caso positivo, favor justificar.
+R: sim. A enfermidade que a assola promove períodos de depressão e euforia, com a dificuldade de discernimento para atos relacionados a negociações e valores.
+(..)
+f) No momento da contratação, a Requerida tinha a capacidade de entender os termos de tal contratação e a obrigação assumida, estando apta aos atos da vida civil
+R: o transtorno que a assola promove discernimento reduzido, o que gera incapacidade para a plena distinção do lícito e do ilícito e o prejuízo crítico de determinadas situações, propicia condição de ser manipulada para decidir em seu desfavor e assim favorecer pessoas de má fé, sobretudo no campo patrimonial ou negocial de finanças, contratos, venda ou hipoteca de bens, entre outras. Pode manipular pequenas quantias de dinheiro no dia a dia, cujo valor depende da renda familiar" (fls. 285/286, destacou-se). (e-STJ, fls. 423/424).
+Assim, rever as conclusões quanto à incapacidade civil demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO EM RECURSO ESPECIAL. OMISSÃO. DEFICIÊNIA DE FUNDAMENTAÇÃO. ART. 1022 DO CPC. NÃO CONFIGURADA. AÇÃO MONITÓRIA. CAPACIDADE DA PARTE. SUPERVENIÊNCIA DA INCAPACIDADE. CONTRATO VÁLIDO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+2. A sentença de interdição, salvo pronunciamento judicial expresso em sentido contrário, opera efeitos "ex nunc". Precedentes.
+3. Verificar se efetivamente a parte agravante era incapaz no momento da celebração do negócio jurídico que embasou a ação monitória, ou revisar o quantitativo em que o autor e réu decaíram do pedido para aferir sucumbência recíproca ou mínima, demandaria reexame de matéria fático-probatória, procedimento vedado pela Súmula nº 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.335.639/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024, sem destaque no original.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AÇÃO DE RESCISÃO DE CONTRATO. INCAPACIDADE CIVIL E ILICITUDE DO OBJETO. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. VIOLAÇÃO AO ART. 37 DA LEI 6.766/1979. AUSÊNCIA DE PREQUESTIONAMENTO. ARRAS. DEVOLUÇÃO. POSSIBILIDADE. PRECEDENTES. REDUÇÃO DA MULTA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. No que concerne à incapacidade civil e ilicitude do objeto, observa-se que o posicionamento do Tribunal estadual encontra-se alicerçado na apreciação de fatos e provas, o que impede o Superior Tribunal de Justiça de infirmar a conclusão adotada, pois, para tanto, seria preciso o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+2. Incidem as Súmulas 282 e 356 do STF, na espécie, porquanto ausente o prequestionamento.
+3. Modificar o entendimento do Tribunal local, acerca do valor das arras, incorrerá em reexame de matéria fático-pr obatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+4. Com efeito, de acordo com a jurisprudência do STJ, "tanto na hipótese de direito de arrependimento quanto na de inexecução do contrato, à devolução das arras deverá ser somado o "equivalente", se aquele que se arrependeu ou inadimpliu foi quem as recebeu".
+Precedente.
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.370.650/DF, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023, sem destaque no original.)
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+(2) Do princípio da causalidade
+Com relação ao tema mencionado vale pontuar que, na via estreita do recurso especial, é exigível a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação de dispositivos infraconstitucionais tidos como contrariados ou a alegação genérica de ofensa a lei caracterizam deficiência de fundamentação, em conformidade com a Súmula n.º 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Da leitura das razões do especial, verificou-se que a COOPERFORTE não indicou clara e precisamente os artigos tidos por contrariados a fim de se demonstrar sua irresignação ao que ficou decidido pelo Tribunal estadual, o que acarreta a aplicação do referido enunciado sumular.
+Sobre o tema, vejam-se os precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. APLICAÇÃO DA SÚMULA N. 284 DO STF. INDENIZAÇÃO. DANOS MORAIS. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+2. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.117.115/MG, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022, sem destaque no original.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. AUSÊNCIA DE RESPONSABILIDADE DA ENDOSSATÁRIA. CONCLUSÃO FUNDADA EM FATOS E PROVAS. REVISÃO. SÚMULA 7/STJ. DESCABIMENTO DA MULTA. MONTANTE INDENIZATÓRIO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL TIDO POR VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. No caso, para se alterar o decidido no acórdão impugnado, no que se refere à conclusão do colegiado de origem acerca da ausência de responsabilidade da endossatária pelo protesto indevido do título, seria necessário o reexame de fatos e provas dos autos, o que é vedado em recurso especial pela Súmu la n. 7/STJ.
+3. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.150.453/MG, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 9/11/2022, DJe de 18/11/2022, sem destaque no original.)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar a verba honorária, nos termos do art. 85, § 11, do CPC, por já ter sido fixada no patamar máximo permitido pela lei.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. ABERTURA DE CRÉDITO. AÇÃO MONITÓRIA. 1. INCAPACIDADE CIVIL. INVALIDADE DO CONTRATO. RECONHECIMENTO PELO TRIBUNAL ESTADUAL COM BASE EM PERÍCIA. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. 2. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO DO AUTOR. PRINCÍPIO DA CAUSALIDADE. FALTA DE APONTAMENTO DE DISPOSITIVO LEGAL VIOLADO. SÚMULA 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
