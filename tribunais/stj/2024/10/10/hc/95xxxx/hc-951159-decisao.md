@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de DIEGO SILVA DOS SANTOS, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao apelo ministerial a fim de aumentar a pena do paciente para 6 anos de reclusão, em regime inicial fechado, mais pagamento de 600 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Nesta Corte, a defesa alega, em suma, desproporcionalidade no aumento da pena-base.
+Destaca que a "quantidade de drogas imputada ao paciente  13,7g de crack, 4 comprimidos de ecstasy e 35,9g de maconha  não é vultosa, especialmente quando comparada com as apreensões rotineiras de dezenas de quilos que ocorrem na Baixada Santista", o que torna ilegal sua aferição na primeira fase.
+Pontua ser suficiente "o aumento na fração de 1/6 na primeira fase da dosimetria da pena, em razão das circunstâncias judiciais negativamente valoradas."
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Assim, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem majorou a pena-base nos seguintes termos:
+A pena-base foi fixada acima do mínimo legal, exasperada em um sexto.
+Entretanto, assiste parcial razão o Ministério Público, e majora-se a reprimenda em um quinto, portanto, seis anos de reclusão e pagamento de seiscentos dias-multa, fração proporcional, ante os maus antecedentes (fls. 54/58 proc. 0000299-28.2017.8.26.0536) e a diversidade e natureza das drogas, entre elas, crack, substâncias de elevado poder vulnerante, observados os parâmetros do artigo 42 da Lei 11.343/06.
+ ..
+Importante ressaltar que a conduta de porte de substância entorpecente para consumo próprio, prevista no artigo 28 da Lei de Drogas não é apta a gerar majoração por maus antecedentes (fls. 54/58 proc. 1501528-41.2020.8.26.0536), conforme posicionamento recente dos Tribunais Superiores.
+ ..
+Mantida a reprimenda na segunda fase da dosimetria, eis que a recidiva (fls. 54/58 proc. 1503584-18.2018.8.26.0536) foi compensada com a atenuante da confissão espontânea.
+Inicialmente, vale anotar que a individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Na hipótese, observa-se que o Tribunal de origem considerou, em decisão motivada, os maus antecedentes e a quantidade de droga apreendida - para elevar a pena-base em 1 ano de reclusão.
+Portanto, tendo sido apresentados elementos idôneos para a majoração da reprimenda básica, sendo eles inclusive elencados como circunstâncias preponderantes pelo art. 42 da Lei n. 11.343/2006, e levando-se em conta as penas mínima e máxima abstratamente cominadas ao delito de tráfico de drogas (5 a 15 anos), não se most ra desarrazoado o aumento operado, a autorizar a intervenção excepcional desta Corte.
+Confiram-se alguns julgados que respaldam esse entendimento:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E NATUREZA DA DROGA. FUNDAMENTAÇÃO IDÔNEA. ILEGALIDADE NÃO CONSTATADA. PLEITO DE APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. REINCIDÊNCIA DO AGENTE. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento adotado pela Corte de origem está de acordo com a orientação firmada no Superior Tribunal de Justiça, segundo a qual "a apreciação negativa dos vetores contidos no art. 42 da Lei de Drogas (quantidade e natureza do entorpecente) justifica a exasperação da pena-base  .. " (AgRg no AREsp n. 625.887/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 6/10/2016, DJe 19/10/2016).
+2. Na linha da jurisprudência desta Corte Superior, "a reincidência obsta a aplicação da causa especial de diminuição de pena do art. 33, § 4.º, da Lei n. 11.343/2006, pois expressamente previsto em tal norma que tal benefício somente pode ser aplicado a agente primário, de bons antecedentes" (AgRg no HC n. 650.717/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022.)
+3. Agravo regimental desprovido.
+(AgRg no HC n. 917.059/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E PORTE DE ARMA DE FOGO DE USO PERMITIDO. MAUS ANTECEDENTES. APREENSÃO DE 337G DE COCAÍNA. EXASPERAÇÃO DA PENA-BASE. ADEQUAÇÃO E PROPORCIONALIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Na hipótese do tráfico ilícito de entorpecentes, é indispensável atentar para o que disciplina o art. 42 da Lei n. 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente. No caso, a pena-base foi exasperada em 1 ano acima do mínimo legal em razão dos maus antecedentes e pela apreensão de 337,9g de cocaína. Assim, de acordo com o entendimento desta Corte, não se verifica ilegalidade a justificar a reparação na via do recurso especial.
+Julgados do STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.404.699/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. ANTECEDENTES E QUANTIDADE DO ENTORPECENTE. AUMENTO PROPORCIONAL. AUSÊNCIA DE MANIFESTA ILEGALIDADE. RECURSO NÃO PROVIDO.
+1. Não há desproporcionalidade no aumento da pena-base em 1 ano de reclusão, pela aferição desfavorável dos maus antecedentes e da quantidade droga apreendida (158,85g de cocaína), notadamente quando tais circunstâncias são elencadas como preponderantes pelo art. 42 da Lei n. 11.343/2006.
+2. Agravo regimental não provido.
+(AgRg no HC n. 934.693/SP, de minha relatoria, Quinta Turma, julgado em 16/9/2024, DJe de 20/9/2024.)
+Por fim, registre-se que não há falar em um critério matemático estabelecido pela jurisprudência desta Corte, o parâmetro aludido pela defesa (1/6 por cada vetorial negativa), embora utilizado como referência em alguns precedentes desta Corte, não traduz uma imposição, mesmo porque há julgados que reputam justificada a fixação de índice de aumento em 1/8 por circunstância desfavorável (a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador), e, nos casos de tráfico de drogas, até elevações maiores com base na expressiva quantidade de droga, elemento prevalente na dosimetria penal - conforme dispõe o art. 42 da Lei n. 11.343/2006. Nesse sentido: AgRg no REsp 1852272/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/05/2020, DJe 04/06/2020; AgRg no HC n. 922.208/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/9/2024, DJe de 4/9/2024.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
