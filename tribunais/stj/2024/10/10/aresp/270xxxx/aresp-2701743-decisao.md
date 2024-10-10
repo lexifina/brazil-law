@@ -1,0 +1,15 @@
+DECISÃO
+Na origem, trata-se de agravo de instrumento em sede de cumprimento de sentença. Na decisão, rejeitou-se a apólice de seguro garantia oferecida. No Tribunal a quo, a decisão foi reformada. O valor da causa foi fixado em R$ 71.397,38 (setenta e um mil, trezentos e noventa e sete reais e trinta e oito centavos).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO  CUMPRIMENTO DE SENTENÇA  DECISÃO QUE INDEFERIU SEGURO GARANTIA  MODALIDADE DE GARANTIA PREVISTA NO INCISO II DO ARTIGO 9O DA LEI DE EXECUÇÃO FISCAL, COM A REDAÇÃO QUE LHE FOI DADA PELA 13.043/2014 - EXIGÊNCIA DE PRAZO DE VALIDADE E ANUÊNCIA DO SEGURADOR PARA EVENTUAL ALTERAÇÃO DA OBRIGAÇÃO CONTRATADA, DE ACORDO COM AS DISPOSIÇÕES DO CÓDIGO CIVIL E DA CIRCULAR SÜSEP Nº 477/2013 - PRECEDENTES DESTA CORTE  DECISÃO REFORMADA  RECURSO PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+a apólice apresentada preencheu os requisitos e deve ser aceito o seguro garantia nos termos ofertados, conforme previsto no art. 9º, inciso II da LEF, nos autos da execução fiscal n.º 1504106-42.2021.8.26.0309, determinando-se, por conseguinte, a expedição da carta de penhora para fins de início do computo para apresentação dos embargos à execução, nos termos do art. 16 da Lei de Execuções Fiscais
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (artigo 9º, inciso II, e artigo 15, inciso I e II da Lei n. 6.830/80), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
