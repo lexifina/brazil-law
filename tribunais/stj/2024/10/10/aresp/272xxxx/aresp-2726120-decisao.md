@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por DARSO SARAIVA DE MORAES e DSM - ASSESSORIA DE SEGUROS LTDA. - MICROEMPRESA contra decisão que inadmitiu recurso especial (e-STJ, fls. 133-136) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 45):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. REJEIÇÃO. PRESCRIÇÃO INTERCORRENTE NÃO RECONHECIDA. DECISÃO AGRAVADA MANTIDA.
+CONSOANTE ENTENDIMENTO DOUTRINÁRIO, PARA QUE SEJA CARACTERIZADA A PRESCRIÇÃO INTERCORRENTE, NO ÂMBITO DO PROCESSO CIVIL, NECESSÁRIO O PREENCHIMENTO CONCOMITANTE DE DOIS REQUISITOS: 1) QUE CREDOR RESTE INERTE, DEIXANDO DE PRATICAR ATOS PROCESSUAIS, BEM COMO 2) QUE A AUSÊNCIA DE MOVIMENTAÇÃO PERDURE PELO MESMO PRAZO PRESCRICIONAL INCIDENTE SOBRE A PRETENSÃO DA AÇÃO PRINCIPAL.
+CASO CONCRETO EM QUE NÃO SE CONSTATA INÉRCIA DO AGRAVADO PELO PRAZO PRESCRICIONAL INCIDENTE À PRETENSÃO DA AÇÃO PRINCIPAL. LOGO, IMPOSITIVA A MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO DESPROVIDO. UNÂNIME.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 85):
+EMBARGOS DE DECLARAÇÃO. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 1.022 DO CPC. INEXISTÊNCIA DE CONTRADIÇÃO, OMISSÃO, OBSCURIDADE OU ERRO MATERIAL.
+CASO EM QUE NÃO CONSTATADOS O ERRO MATERIAL E A OMISSÃO ALEGADAS PELA PARTE EMBARGANTE, NÃO RESTANDO PREENCHIDAS AS HIPÓTESES DE CABIMENTO DOS EMBARGOS DE DECLARAÇÃO, PREVISTAS NO ART. 1.022 DO CPC.
+EMBARGOS DE DECLARAÇÃO REJEITADOS. UNÂNIME.
+Nas razões do recurso especial, os recorrentes alegaram, com base nas alíneas a e c do permissivo constitucional, divergência jurisprudencial e violação aos arts. 206-A do CC/2002; e 134, § 2º, do CPC/2015.
+Sustentaram a precrição intercorrente da execução do título executivo extrajudicial (cheque), visto que transcorrido o prazo prescricional de 6 (seis) meses estabelecido em lei.
+Afirmaram que "o mero peticionamento, requerendo providências infrutíferas por si só não é apto para interromper o prazo prescricional" (e-STJ, fl. 101).
+Frisaram que, no caso em exame, "considerando que o despacho inicial determinando a citação da executada ocorreu em 07 de julho de 2017, e todas as outras movimentações foram inúteis ao fim processual, resta configurada a prescrição intercorrente, ocorrida em 07 de dezembro de 2017, conforme as regras do direito material em vigor nesse período (art. 206-A, e súmula 150 STF), o que resulta na extinção do processo de execução com resolução de mérito pela comprovação do instituto da Prescrição Intercorrente" (e-STJ, fl. 106).
+Defenderam a impossibilidade de penhora no rosto dos autos, uma vez que, "não tendo ocorrido a desconsideração da personalidade jurídica da executada, inviável o redirecionamento da execução em face do sócio Darso" (e-STJ, fl. 108).
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 133-136).
+Pedido de efeito suspensivo indeferido na origem.
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 147-162).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que tange às questões levantadas pelos agravantes, o Tribunal de origem assim se manifestou (e-STJ, fl. 43):
+Pretendem os recorrentes seja reconhecida a ocorrência de prescrição intercorrente.
+Nessa toada, consoante entendimento doutrinário, para que seja caracterizada a prescrição intercorrente, no âmbito do processo civil, necessário o preenchimento concomitante de dois requisitos: 1) que o credor reste inerte, deixando de praticar atos processuais, bem como 2) que a ausência de movimentação perdure pelo mesmo prazo prescricional incidente sobre a pretensão da ação principal.
+ ..
+Na hipótese em debate, consoante já referido na decisão do Evento 3, inexiste demonstração de inércia do recorrente, a ensejar a extinção da lide. No mesmo sentido, perfeitamente concluiu a decisão fustigada:
+No caso, a execução de títulos extrajudiciais -cheques - foi distribuída em 29/3/2017; verificada irregularidade na representação processual da exequente, foi determinado o saneamento e, assim, a petição inicial foi recebida e a citação, ordenada em 07/7/2017; antes de cumprido o ato, houve renúncia do procurador da exequente, sendo esta intimada para a regularização em 11/5/2018; expedido mandado de citação, retornou positivo em 14/2/2019, sendo opostos embargos à execução sem atribuição de efeito suspensivo; foi deferida a pesquisa de ativos financeiros do devedor em 25/6/2019 e a inclusão e citação do sócio em 16/10/2019, sobrevindo novos embargos à execução sem efeito suspensivo.
+Como se percebe, a demanda executiva tem tramitado regularmente, não havendo falar-se em condições para o reconhecimento da prescrição intercorrente. Ao contrário do que sugeriu o excepto, não houve, parte do credor, a criação de embaraços, sobretudo porque a juntada de documentos, tal como substabelecimento, não pode ser qualificada como tentativa de obstar o andamento processual. Ademais, se consideradas a data de distribuição da ação (29/3/2017), as de apresentação dos cheques exequendos (30/10/2016, 15/11/2016, 30/11/2016 e 05/12/2016) e o prazo prescricional semestral, tampouco se verifica a ocorrência da prescrição da pretensão.
+Outrossim, constata-se que não foram observados os procedimentos ditados pelo art. 921 do CPC, sendo inviável o acolhimento do pedido ora formulado.
+No que tange à desconsideração da personalidade jurídica da executada, tem-se que foi deferida na origem (fl. 201 dos autos eletrônicos). O sócio, citado, apresentou embargos à execução, aos quais não fora atribuído efeito suspensivo. Logo, cabível a constrição, sendo impositiva a manutenção da decisão fustigada.
+Da citada passagem, depreende-se que a Corte local entendeu não ser o caso de reconhecer a prescrição intercorrente da demanda executiva, pois não constatada a inércia da parte exequente, ora agravada, na condução dos atos processuais.
+Ainda segundo o Tribunal estadual, deve ser mantida a penhora, visto que realizada a devida desconsideração da personalidade jurídica da empresa recorrente.
+À vista disso, reverter a conclusão da instância originária demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Em virtude da incidência do mencionado óbice sumular, fica prejudicada a apreciação do dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recurso s manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REJEIÇÃO. PRESCRIÇÃO INTERCORRENTE NÃO RECONHECIDA. INÉRCIA DO EXEQUENTE NÃO CONSTATADA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA PARTE EXECUTADA. PENHORA. VALIDADE. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
