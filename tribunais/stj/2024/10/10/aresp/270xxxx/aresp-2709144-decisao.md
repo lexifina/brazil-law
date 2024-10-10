@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HSBC BANK BRASIL S. A. - BANCO MULTIPLO (HSBC) contra decisão que não admitiu seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece prosperar em parte.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, HSBC alegou a violação dos arts. 884 do CC, 141, 492, 1.022 do CPC, ao sustentar que (1) o acórdão foi omisso; (2) os cálculos homologados revelam manifestos equívocos técnicos que majoram sobremaneira o valor da condenação; (3) o perito deixou de recalcular os juros remuneratórios do mês de julho de 1988, o que impactou no saldo da movimentação, proporcionando a apuração de encargos remuneratórios inferiores aos realmente devidos; (4) a periodicidade que serve de base para o cálculo dos juros remuneratórios é realizada entre o dia 1 a 30 do mês anterior ao débito dos juros; (5) a decisão é ultra-petita, pois indica saldo credor de R$ 88.922,95, para a data base de 02/208, que corresponde a mais que o dobro do valor indicado no cumprimento de sentença (R$ 43.253,80 para a mesma data base); (6) a manutenção dos cálculos caracterizará enriquecimento ilícito, visto que o autor será beneficiado por valor indevido.
+Da omissão e da negativa de prestação jurisdicional
+Em suas razões recursais HSBC alegou a violação do art. 1.022 do CPC em razão da omissão quanto ao argumento de que a periodicidade que serve de base para os cálculos dos juros remuneratórios quando se fala em movimentação da conta corrente é entre o dia 1 a 30 do mês anterior ao débito dos juros.
+Também ressaltou o equívoco técnico nos cálculos homologados, já que o valor de R$ 88.922,95, correspondente à data base de 02/2018, corresponde a mais que o dobro do valor do cumprimento de sentença (R$ 43.253,80 para a data base de 02/2018).
+Apontou ainda que não houve expressa menção dos dispositivos legais relativos ao princípio da congruência (arts. 141 e 492 do CPC/15) e ao enriquecimento sem causa (art. 884 do CC/02).
+Com razão.
+De fato, em seu embargos de declaração HSBC requereu a manifestação do Tribunal de Justiça quanto à tese de decisão ultra petita e violação ao princípio da congruência, tendo em vista que o perito apontou o valor de R$ 88.922,95 para data base de 02/2018, que corresponde ao dobro do valor pleiteado no cumprimento de sentença (R$ 43.253,80 para a mesma data base).
+Da acurada análise do acórdão que julgou os aclaratórios verifica-se que o Tribunal estadual não tratou sobre o tema visto que apenas consignou:
+Primeiramente, não há que se falar em omissão e ofensa ao princípio da congruência, posto que a decisão agravada analisou todos os pontos objeto do agravo de instrumento, sendo que houve manifestação expressa quanto ao juros para o período de junho e 1988, sendo que a decisão e sentido dive3rso ao pretendido pelo recorrente não configura omissão.
+Quanto à obscuridade apontada, também não prospera a alegação de obscuridade posto que no recurso de agravo instrumento interposto pelo ora agravante, verifica-se que este requereu a reforma da decisão agravada para determinar ao perito o recálculo dos juros remuneratórios no mês de julho/1988, sob o fundamento que o perito não subtrai do saldo recalculado o valor pertinente aos encargos remuneratórios do período; assim, verifica-se que não trouxe especificações sobre a movimentação da conta corrente ao longo do mês ou sobre a cobrança dos juros referentes ao saldo médio ao do mês anterior, de forma que não prospera a alegação de obscuridade (e-STJ, fls. 117).
+É condição sine qua non ao conhecimento do recurso especial que a questão de direito ventilada nas suas razões tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o Tribunal paranaense a se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+Isso porque era indispensável a análise do argumento de existência de decisão ultra petita, já que no pedido de cumprimento de sentença foi indicado o valor de R$ 41.477,69, atualizado até outubro de 2017 (e-STJ, fls. 1.506/1.536), com o depósito do valor de R$ 43.253.80 em 20.02.2018 (e-STJ, fls. 1.559/1.562), ao passo que no "Laudo de Esclarecimentos 4" o perito apurou o montante de R$ 82.112.63, correspondente ao total da atualização das diferenças apuradas na planilha 3 por INPC  juros legais pós-citação, isto é até fevereiro/2018 data do depósito judicial (e-STJ, fls. 2.722)
+A propósito, cite-se o precedente abaixo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro OG FERNANDES, Segunda Turma, julgado em 16/8/2022, DJe de 24/8/2022, sem destaque no original.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RETORNO DOS AUTOS À ORIGEM. NECESSIDADE. OMISSÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso, verificada a omissão, acolhem-se os embargos para suprir o vício.
+3. Embargos de declaração acolhidos sem efeitos infringentes.
+(EDcl nos EDcl no AgInt no AgInt no AREsp n. 1.750.302/PR, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022, sem destaque no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. EMBARGOS DE TERCEIRO. CONTRATOS GARANTIDOS POR HIPOTECA. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. CONFIGURADA. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação de execução. Embargos de terceiro.
+2. A existência de omissão e ausência de fundamentação relevantes à solução da controvérsia, não sanadas pelo acórdão recorrido, caracteriza violação dos arts. 489 e 1.022 do CPC/2015.
+3 - Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.932.995/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 14/02/2022, DJe 16/02/2022, sem destaque no original).
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a análise das demais violações apontadas.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), DOU PARCIAL PROVIMENTO ao recurso especial determinando o retorno dos autos ao Tribunal de Justi ça do Paraná para que analise as questões trazidas nos embargos de declaração, em especial a caracterização de decisão ultra-petita em razão da diferença entre o valor pedido pela parte no cumprimento de sentença (R$ 41.477.69 - e-STJ, fls. 1.506), com depósito de R$ 43.253,80 em 20.02.2018 (e-STJ, fls. 1.560), e aquele apurado pelo laudo pericial no montante de R$ 82.112.63, atualizado até fevereiro de 2018.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. CONTA CORRENTE. DIFERENÇA ENTRE O VALOR PEDIDO PELA PARTE NO CUMPRIMENTO DE SENTENÇA E AQUELE APURADO PELO PERITO NO MESMO PERÍODO. ALEGAÇÃO DE DECISÃO ULTRA-PETITA TESE NÃO ANALISADA PELO TRIBUNAL ESTADUAL. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO QUANTO À ANÁLISE DE TEMAS RELEVANTES PARA O DESLINDE DA CAUSA. IMPOSSIBILIDADE DE JULGAMENTO POR ESTA CORTE. RETORNO DOS AUTOS PARA APRECIAÇÃO DOS EMBARGOS DE DECLARAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
