@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Osvaldo Rodrigues Cavignato contra decisão proferida às fls. 2.690-2.692.
+Nas razões dos embargos, a parte embargante indica a existência de omissão, em razão de não ter sido apreciado apenas o agravo em recurso especial interposto pela embargada, sem que tenha sido analisado o recurso especial do qual é recorrente (acostado às fls. 2.457-2.495)
+Aponta, também, que a matéria veiculada no recurso especial foi afetada por esta Corte Superior para julgamento sob a sistemática dos recursos repetitivos - Tema n. 1.251.
+É o relatório. Decido.
+Inicialmente, verifica-se que a matéria deduzida no recurso especial, qual seja, "definir o termo inicial dos juros de mora, nos casos em que reconhecido judicialmente o direito à indenização, por danos morais, a anistiado político ou aos seus sucessores, nos termos da Lei n. 10.559/2002", foi afetada, em 16/4/2024, pela Primeira Seção deste Superior Tribunal de Justiça, no REsp 2031813/SC e REsp 2032021/RS, para julgamento sob a sistemática dos recursos repetitivos, Tema n. 1.251.
+A propósito, confira-se a ementa do julgado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. PROPOSTA DE AFETAÇÃO DE RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ARTS. 1.036, CAPUT E § 1º, 1.037 E 1.038 DO CPC/2015, C/C ART. 256-I DO RISTJ, NA REDAÇÃO DA EMENDA REGIMENTAL 24, DE 28/9/2016. ANISTIA POLÍTICA. LEI 10.559/2002. INDENIZAÇÃO POR DANOS MORAIS. TERMO INICIAL DOS JUROS MORATÓRIOS.
+I. Delimitação da controvérsia, para fins de afetação da matéria ao rito dos recursos repetitivos, nos termos do art. 1.036, caput e § 1º, do CPC/2015: "Definir o termo inicial dos juros de mora, nos casos em que reconhecido judicialmente o direito a indenização por danos morais a anistiado político ou seus sucessores, nos termos da Lei n. 10.559/2002."
+II. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I do RISTJ, na redação da Emenda Regimental 24, de 28/9/2016).
+(ProAfR no REsp n. 2.031.813/SC, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 16/4/2024, DJe de 2/5/2024.)
+Há determinação de suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ.
+Por sua vez, os arts. 1.040 e 1.041, ambos do CPC/2015, dispõem sobre a atuação do Tribunal de origem após o julgamento do recurso extraordinário submetido ao regime de repercussão geral ou do recurso especial submetido ao regime dos recursos repetitivos.
+De acordo com os referidos dispositivos, há a previsão da negativa de seguimento dos recursos, da retratação do órgão colegiado para alinhamento das teses ou, ainda, a manutenção da decisão divergente, com a remessa dos recursos aos tribunais correspondentes.
+Nesse panorama, cabe ao ministro relator, no Superior Tribunal de Justiça, determinar a devolução dos autos ao Tribunal de origem para que, após o julgamento do paradigma, seja reexaminado o pronunciamento recorrido.
+Em hipótese análoga: REsp n. 2.137.842, Ministro Benedito Gonçalves, DJe de 11/06/2024.
+Ante o exposto, acolho os embargos de declaração, torno sem efeito a decisão proferida às fls. 2.690-2.692, julgo prejudicados os recursos interpostos e determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão proferido sob a sistemática dos recursos repetitivos (Tema n. 1.251/STJ), e em observância aos arts. 1.030 e 1.040 do CPC/2015: a) negue seguimento ao recurso especial se o acórdão recorrido estiver em conformidade com o entendimento do STJ; ou b) encaminhe os autos ao órgão julgador para realização do juízo de retratação se o acórdão recorrido divergir do entendimento do STJ.
+Publique-se. Intimem-se.
+EMENTA
