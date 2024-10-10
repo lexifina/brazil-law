@@ -1,0 +1,25 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão prolatado, por unanimidade, pela 4ª Turma do Tribunal Regional Federal da 5ª Região no julgamento de Apelação, assim ementado (fl. 1.142e):
+Processual Civil. Recursos de apelação agitados pelo Ministério Público Federal e pela União em face de sentença que extinguiu o feito sem resolução do mérito a ação civil pública objetivando provimento jurisdicional que declare a nulidade e diversas irregularidades em "Contrato de prestação de serviços advocatícios" que entre si celebraram o Município de Messias e os demais réus da presente ação, ou seja, F. Sarmento Advogados Associados, Henrique Carvalho Advogados Associados, Davi Lima Advocacia, Ferreira, Gomes & Lopes Advocacia, Queiroz Cavalcanti Advocacia, por reconhecer a ilegitimidade da União para ajuizar a presente demanda, razão pela qual deve a inicial ser indeferida.
+Opostos embargos de declaração, foram rejeitados (fls. 1.296/1.298e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 1º, IV e VIII, e 5º, III, da Lei n. 7.347/1985, alegando-se, em síntese, que " ..  existe, no caso concreto, interesse processual (art. 485, VI, do CPC), mormente porque a ação civil pública apresentou pedido de integral ressarcimento na conta vinculada do FUNDEF/FUNDEB do valor gasto a título de honorários advocatícios contratuais, a ser devidamente atualizado e acrescido de juros moratórios, caso eventualmente viesse a se materializar o levantamento do destaque dos honorários contratuais do precatório emitido em favor do Município" (fl. 1.365e).
+Com contrarrazões (fls. 1.401/1.425e), o recurso foi admitido (fls. 1.434/1.435e).
+O Ministério Público Federal manifestou-se, na qualidade de custos iuris, às fls. 1.469/1.478e.
+Feito breve relato, decido.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+De pronto, verifico que o acórdão recorrido está em dissonância com orientação desta Corte Superior segundo a qual, havendo discussão a respeito de valores de complementação de verbas do FUNDEF, está presente o interesse da União e, por conseguinte, a competência da Justiça Federal, consoante espelham julgados de ambas as Turmas da 1ª Seção, assim ementados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ERRO MATERIAL. CORREÇÃO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Havendo discussão a respeito de valores de complementação de verbas do FUNDEF, está presente o interesse da União e, consequentemente, a competência para julgamento da lide é da Justiça Federal.
+III - Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl no AgInt no REsp n. 1.824.768/PE, Relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 19.10.2021, DJe de 26.10.2021).
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. VERBAS DO FUNDEF. INTERESSE DA UNIÃO. LEGITIMIDADE ATIVA. COMPETÊNCIA DA JUSTIÇA FEDERAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Conforme a jurisprudência desta Corte Superior, a União possui legitimidade ativa para impugnar contratos firmados entre escritórios de advocacia e os entes municipais que envolvam recursos decorrentes do FUNDEF, o que naturalmente atrai a competência da Justiça Federal.
+2. Não se admite que a parte recorrente, em manifestações posteriores, promova inovação recursal para incluir teses não constantes na petição do recurso especial e acerca das quais não houve prévio debate nas instâncias ordinárias.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 1.997.753/AL, Relator Ministro TEODORO SILVA SANTOS, SEGUNDA TURMA, julgado em 20.05.2024, DJe de 27.05.2024).
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial para reconhecer a legitimidade ad causam da União, nos termos expostos, e, por conseguinte, DETERMINO o retorno dos autos à origem, a fim de que seja processada e julgada a ação civil pública.
+Publique-se e intimem-se.
+EMENTA
