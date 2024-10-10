@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MARCELO MARTINS DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada, pela suposta prática dos crimes de organização criminosa, estelionato, corrupção ativa e lavagem de dinheiro.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem, em acórdão (fls. 18-38), assim ementado:
+"PENAL E PROCESSO PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. REQUISITOS. AUTORIA E MATERIALIDADE. GARANTIA DA ORDEM PÚBLICA. ORDEM DENEGADA." (fl. 18)
+No presente writ, a Defesa alega, em linhas gerais, a existência de constrangimento ilegal consubstanciado na ausência de fundamentação para a segregação cautelar do Paciente.
+Aponta que:
+" ..  Por tal efeito, o resguardo da ordem pública não estaria ameaçado com a liberdade do PACIENTE, sobretudo em porque não trouxe qualquer fundamento concreto para fundamentar a suposta "periculosidade", tratando-se, pois, de mera expectativa irreal sobre análise abstrata do tipo penal.
+A mera citação a uma circunstância do fato para simbolizar a gravidade concreta, sem trazer quaisquer elementos em relação ao risco que a liberdade do indivíduo trará, é ilegítima para o fim da cautelar preventiva. Essa situação tem sido muito utilizada nos fatos relacionados a lei de drogas.
+Pode-se ver que a gravidade concreta é utilizada duas vezes pela autoridade judiciária para prejudicar a pessoa, punindo duas vezes pelo mesmo fato. Ademais, além de ser utilizada para decretar medida cautelar pessoal, ainda será usada na dosimetria da pena, restando claro a dupla punição pelo mesmo fato.  .. " (fl. 8).
+Requer a concessão da ordem liminarmente e, no mérito, subsidiariamente, a imposição de medidas cautelares diversas.
+É o relatório. DECIDO.
+In casu, a prisão preventiva do Paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório para a garantia da ordem pública, notadamente se considerada a gravidade concreta das condutas, haja vista que, em tese, " ..  figura como um dos líderes de Organização Criminosa especializada em criar empresas fantasmas com o objetivo de contrair empréstimos fraudulentos em Bancos e Instituições Financeiras, cujos valores eram divididos entre os membros do Bando que usavam interpostas pessoas ("laranjas") para ocultar a origem ilícita do dinheiro e dos bens adquiridos  ..  tendo em conta que alguns dos acusados, e dentre eles o paciente MARCELO são multireincidentes, e demonstram total desrespeito pela Justiça e pelas medidas constritivas impostas anteriormente. A probabilidade de reiteração delitiva e a periculosidade, evidenciadas pelo histórico criminal, reforçam a necessidade da medida extrema para proteção da ordem pública, apesar de não serem o único fundamento presente no caso concreto  .. " (fls. 25;26).
+Sobre o tema:
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 24/04/2019).
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
