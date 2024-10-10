@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de EDUARDO DOS SANTOS PEREIRA no qual aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA (Agravo em execução n. 0810782-05.2024.8.15.0000).
+Depreende-se dos autos que o Juízo das execuções indeferiu o pedido do paciente de permanência em estabelecimento prisional do Rio de Janeiro, após sua recaptura, e determinou o recambiamento para o Estado da Paraíba.
+Interposto agravo em execução perante o Tribunal paraibano, o recurso foi desprovido, nos termos do acórdão assim ementado (e-STJ fls. 42/43):
+AGRAVO EM EXECUÇÃO PENAL. PEDIDO DE PERMANÊNCIA DO SENTENCIADO EM UNIDADE PRISIONAL DE OUTRO ESTADO DA FEDERAÇÃO. INDEFERIMENTO. IRRESIGNAÇÃO DA DEFESA. 1. ALEGATIVA DE NULIDADE DA DECISÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. 2. PEDIDO PARA CUMPRIMENTO DA PENA EM PROXIMIDADE DA FAMÍLIA. AUSÊNCIA DE DIREITO SUBJETIVO. PREVALÊNCIA DO INTERESSE PÚBLICO. DESPROVIMENTO.
+- A decisão de indeferir o pedido de transferência do apenado encontra amplo respaldo na sua periculosidade, demonstrada pela gravidade dos crimes que cometeu e na não recomendação da transferência pela Gerência Executiva do Sistema Penitenciário da Paraíba.
+- Para reconhecimento de eventual nulidade, ainda que absoluta, faz-se necessária a demonstração do prejuízo, nos termos do art. 563 do CPP, o que não restou evidenciado nos autos. - Embora o ambiente familiar seja crucial para a recuperação e reinserção social do preso, a escolha do presídio onde cumprirá sua pena não é um direito subjetivo e absoluto, devendo ser avaliada a conveniência da medida pelo Juízo da Execução.
+- Desprovimento.
+Neste habeas corpus, sustenta a defesa que "toda a família do Paciente reside no estado do Rio de Janeiro/RJ, não tendo no estado da Paraíba nenhum ente familiar em qualquer grau de parentesco que possa visitá-lo e para melhor ressocialização conforme previsão na Lei de Execuções Penais" (e-STJ fl. 6).
+Defende que a decisão que determinou recambiamento do paciente para o Estado da Paraíba carece de fundamentação idônea e não atende ao determinado pela Resolução n. 404 do CNJ. Salienta que a família da vítima se manifestou contra seu retorno ao mencionado Estado.
+Assim, requer, "LIMINAR para DECLARAR A NULIDADE DA DECISÃO GUERREADA QUE INDEFERIU A PERMANÊNCIA DO APENADO NO ESTADO DO RIO DE JANEIRO no processo n. 0026710-52.2015.8.15.2002 que tramita perante a Vara de Execuções Penais de João Pessoa/PB, determinando o retorno dos autos ao Juízo a quo para prolatar nova decisão OU SUSPENDER SEUS EFEITOS ATÉ O JULGAMENTO DE MÉRITO DO PRESENTE REMÉDIO, no mérito, mantida a decisão que determina o Juízo a quo a prolatar nova decisão sobre o requerimento de manutenção do Reeducando em unidade prisional do Estado do Rio de Janeiro" (e-STJ fl. 40).
+É o relatório.
+Decido.
+A questão posta refere-se ao direito de o apenado permanecer próximo aos familiares no curso do cumprimento da pena.
+O Tribunal de origem, ao negar provimento ao agravo em execução interposto pela defesa, manteve a decisão de primeiro grau que determinou a transferência da ora paciente para outro estado da federação, com a seguinte fundamentação (e-STJ fls. 45/48):
+Infere-se dos autos que o agravante foi condenado a uma pena de 108 (cento e oito) anos e 02 (dois) meses de reclusão. Observa-se, ainda, que estava foragido desde o ano de 17/11/2020, sendo recapturado em 19/03/2024, no Estado do Rio de Janeiro, onde permanece até a presente data.
+Solicitadas informações à Gerência Executiva do Sistema Penitenciário da Paraíba (GESIPE) sobre a existência de interesse do Estado da Paraíba para recambiamento do apenado ou se concorda com a permanência do mesmo no Estado do Rio de Janeiro, a citada Gerência manifestou interesse no seu retorno, nos seguintes termos:
+Em atenção ao doc. seq. nº 95, 0026710-52.2015.8.15.2002, esta gerência informa óbice para a permanência de EDUARDO DOS SANTOS PEREIRA, filho de Maria Lucia dos Santos e de Eliseu da Silva Pereira, no estado do Rio de Janeiro.
+Trata-se de preso foragido do Sistema Penitenciária Paraibano, que não responde a processos no estado do Rio de Janeiro e envolvido em crime de repercussão nacional, ocorrido na Paraíba.
+Diante de todo o exposto, ratificamos o interesse no seu retorno.
+Ressaltamos que, quanto ao risco, a Penitenciária Dr. Romeu Gonçalves de Abrantes é o local adequado para resguardar a sua integridade física.
+Nas razões de decidir, ao contrário do que sustenta a defesa, verifica-se que a magistrada a quo apresentou motivos suficientes para indeferir o pedido de permanência do apenado no Estado do Rio de Janeiro. Tal afirmação se comprova pelo decisum impugnado, conforme detalhado a seguir:
+É importante ressaltar que o sentenciado não possui processos no Estado do Rio de Janeiro, sendo a sua condenação oriunda do Estado da Paraíba.
+Registre-se, ainda, que não constitui direito subjetivo do apenado a escolha da casa prisional onde pretende cumprir a pena, devendo ser observada a conveniência e interesse da Administração Penitenciária.
+ .. .
+A decisão de indeferir o pedido de transferência do apenado encontra amplo respaldo na sua periculosidade, demonstrada pela gravidade dos crimes que cometeu e na não recomendação da transferência pela GESIPE.
+Outrossim, o decisum fez remissão a parecer anterior do Ministério Público, sendo válida a utilização da técnica da fundamentação per relationem, em que o magistrado se utiliza de trechos de decisão anterior ou de parecer ministerial como razão de decidir (RHC n. 94.488/PA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 2/5/2018), não havendo o que se falar em nulidade por ausência de fundamentação, mesmo porque a para reconhecimento de eventual nulidade, ainda que absoluta, faz-se necessária a demonstração do prejuízo, nos termos do art. 563 do CPP, o que não ficou demonstrado no caso dos autos.
+Da leitura dos trechos acima colacionados, verifica-se que as instâncias ordinárias fundamentaram de forma idônea a necessidade de transferência do apenado para o Estado da Paraíba, ressaltando sua periculosidade, bem como o período no qual permaneceu foragido.
+O entendimento se coaduna com a jurisprudência sedimentada desta Corte Superior. Nesse sentido, confira-se o seguinte precedente:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PERMANÊNCIA DO APENADO NO SISTEMA PENITENCIÁRIO FEDERAL. REQUERIMENTO DE TRANSFERÊNCIA PARA O ESTADO DE ORIGEM. NEGATIVA DEVIDAMENTE MOTIVADA PELO JUDICIÁRIO. PERICULOSIDADE DO REEDUCANDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é assente no sentido de que "o direito que o preso tem de cumprir pena em local próximo à residência, onde possa ser assistido pela família, é relativo, pois a transferência pode ser negada desde que a recusa esteja fundamentada" (AgRg no CC n. 137.281/MT, relator Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 23/9/2015, DJe 2/10/2015).
+2. No caso, o recambiamento requerido mostrou-se inviável, haja vista a periculosidade do reeducando, apontado como liderança criminosa no presídio para o qual pleiteia a transferência, e seus antecedentes criminais por delitos graves, respondendo até mesmo pelo crime de homicídio no bojo de investigação do grupo criminoso em que supostamente atua.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.933.129/PR, de minha relatoria, unânime, Sexta Turma, julgado em 7/12/2021, DJe de 13/12/2021.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
