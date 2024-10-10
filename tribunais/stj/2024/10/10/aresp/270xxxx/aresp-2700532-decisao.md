@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por WAGNER LIMA DOS SANTOS contra decisão proferida pelo Tribunal de Justiça do Estado da Bahia, que não admitiu o recurso especial interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição da República.
+Nas razões recursais, aponta a defesa violação do artigo 157, § 2º-A, inciso I, do Código Penal.
+Insurge-se, em suma, contra o reconhecimento da causa de aumento relativa ao emprego de arma de fogo, pois ausente apreensão do artefato e perícia.
+Requer o provimento do recurso para que seja reformado o acórdão recorrido.
+Contrarrazões às fls. 575-580 (e-STJ).
+O recurso foi inadmitido (e-STJ, fls. 869-878). Daí este agravo (e-STJ, fls. 589-597).
+O Ministério Público Federal opina pelo não conhecimento do agravo (e-STJ, fls. 622-625).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Acerca da controvérsia, assim constou do acórdão recorrido (e-STJ, fls. 546-548):
+"Importante destacar que o juízo primevo fixou a pena basilar no mínimo legal, além de analisar a incidência da majorante do emprego da arma de fogo, como se observa da leitura de parte da sentença:
+"(..) Não há como excluir a majorante do emprego de arma de fogo. Na hipótese, a arma de fogo não foi apreendida e, por esse motivo, não foi periciada. Sucede, contudo, que a vítima relatou o emprego do referido artefato durante o crime de roubo. E a jurisprudência pátria tem compreendido que é prescindível a apreensão da arma para a aplicação da causa de aumento prevista no art. 157, § 2º-A, inciso I, do Código Penal, desde que comprovada a sua utilização por outros meios de prova. Nesse sentido:
+ .. "
+Ora, não há qualquer reparo a ser feito na sentença impugnada.
+Como visto, a pena basilar fora estabelecida no mínimo legal. Ademais, a vítima foi categórica em afirmar que o Recorrente portava uma arma de fogo, o que foi corroborado pelo depoimento dos policiais militares.
+Como visto, não resta dúvidas que o Suplicante anunciou o assalto, utilizando uma arma de fogo, de modo que, malgrado não conste a apreensão ou perícia na referida arma, tal situação não impede a aplicação da majorante."
+A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+A Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento dos Embargos de Divergência n. 961.863/RS, firmou o entendimento de que é despicienda a apreensão e a perícia da arma de fogo, para a incidência da majorante do § 2º, I, do art. 157 do CP, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo, como na hipótese, em que há comprovação testemunhal apontando o seu emprego.
+Para corroborar tal entendimento, os seguintes julgados:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. INCIDÊNCIA DA MAJORANTE DO EMPREGO DE ARMA. APREENSÃO E PERÍCIA. PRESCINDIBILIDADE.
+1. Nos termos da jurisprudência das Turmas que compõem a Terceira Seção desta Corte, para a incidência da majorante prevista no art. 157, § 2º, I, do Código Penal, é prescindível a apreensão e perícia da arma de fogo, desde que evidenciada sua utilização por outros meios de prova. (AgRg no AREsp 1839769/TO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/06/2021, DJe 07/06/2021).
+2. Agravo regimental improvido."(AgRg no AREsp 1966395/TO, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 22/02/2022, DJe 02/03/2022).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. ROUBO MAJORADO. ART. 157, § 2º, INCISO II, C/C § 2º-A, INCISO I, DO CÓDIGO PENAL. CORRUPÇÃO DE MENORES. PLEITOS DE RECONHECIMENTO DE NULIDADE DO PROCEDIMENTO DE RECONHECIMENTO DE PESSOAS E DE ABRANDAMENTO DO REGIME INICIAL DE CUMPRIMENTO DA PENA. MATÉRIAS ANTERIORMENTE APRECIADAS PELA CORTE SUPERIOR EM HABEAS CORPUS CONEXO. REITERAÇÃO COM IDÊNTICOS FUNDAMENTOS E PEDIDO NO RECURSO ESPECIAL. PREJUDICIALIDADE. CAUSA DE AUMENTO DE PENA. EMPREGO DE ARMA DE FOGO. AUSÊNCIA DE APREENSÃO E PERÍCIA. PRESCINDIBILIDADE. RECONHECIMENTO COM BASE NO DEPOIMENTO DA VÍTIMA. POSSIBILIDADE. SÚMULA N. 83/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. Por derradeiro, no tocante ao afastamento da majorante do emprego de arma de fogo, mesmo que ultrapassado o entrave da Súmula n. 182/STJ, a pretensão esbarraria, ainda, na Súmula n. 83/STJ.
+6. A Terceira Seção deste Tribunal Superior decidiu ser desnecessária a apreensão da arma utilizada no crime e a realização de exame pericial para atestar a sua potencialidade lesiva, quando presentes outros elementos probatórios que atestem o seu efetivo emprego na prática delitiva (EREsp n. 961.863/RS, Rel. Ministro CELSO LIMONGI, Desembargador Convocado do TJ/SP), Rel. p/ acórdão Ministro GILSON DIPP, Terceira Seção, julgado em 13/12/2010, DJe 6/4/2011).
+7. In casu, conforme destacado no acórdão recorrido, "o ofendido relatou, em ambas as fases da persecução penal, ter sido abordado com um revólver e que o artefato bélico foi ostensivamente utilizado para impingir temor à vítima  .. ", não tendo a defesa se desincumbido do ônus de demonstrar, no curso processual, que a arma era desprovida de potencial lesivo (e-STJ fl. 454). Desse modo, ao concluir que o efetivo emprego de arma de fogo foi evidenciado por outros elementos de prova, notadamente a palavra da vítima, afigurando-se legal a incidência da respectiva causa de aumento de pena, o Tribunal de origem decidiu em harmonia com a jurisprudência desta Corte Superior.
+8. Agravo regimental não provido."(AgRg no AREsp 1962339/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 26/10/2021, DJe 03/11/2021, com destaques).
+Com efeito, "a Corte de origem concluiu que o agravante portava arma de fogo durante a conduta criminosa, respaldada no depoimento da vítima, devendo ser mantida a causa de aumento do inciso I do § 2º-A do art. 157 do CP, decisão que se encontra respaldada na jurisprudência desta Corte Superior, fazendo incidir, na espécie, a Súmula n. 83/STJ." (AgRg no AREsp n. 2.204.093/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 25/4/2023, DJe de 2/5/2023.)
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
