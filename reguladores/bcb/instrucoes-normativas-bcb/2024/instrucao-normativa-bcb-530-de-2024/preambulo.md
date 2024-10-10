@@ -1,0 +1,4 @@
+Resolução Nº 222 INSTRUÇÃO NORMATIVA BCB Nº 530, DE 9 DE OUTUBRO DE 2024
+Altera a Carta Circular nº 3.869, de 19 de março de 2018, que altera e consolida os procedimentos a serem observados na remessa de informações ao Sistema de Informações de Créditos (SCR), de que trata a Circular nº 3.870, de 19 de dezembro de 2017.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro (Desig) e o Chefe do Departamento de Estatísticas (Dstat), substituto, no uso da atribuição que lhes conferem o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, com base, respectivamente, nos arts. 85, inciso I, alínea “b” e 103, inciso I, do referido Regimento, tendo em vista o disposto na Circular nº 3.870, de 19 de dezembro de 2017, com a redação dada pela Resolução BCB nº 413, de 19 de setembro de 2024,
+R E S O L V E :
