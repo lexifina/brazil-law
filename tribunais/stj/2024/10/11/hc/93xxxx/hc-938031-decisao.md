@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ALEXSANDRO FRANCISCO DE OLIVEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no julgamento do Habeas Corpus Criminal n. 0048257-98.2024.8.16.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 13/4/2024, posteriormente convertido em prisão preventiva, pela suposta prática dos crimes tipificados nos arts. 33 e 35 da Lei n. 11.343/06.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado:
+"PENAL. PROCESSO PENAL. HABEAS CORPUS. SUPOSTA PRÁTICA DO CRIME CAPITULADO NO ARTIGO 33, CAPUT, DA LEI Nº 11.343/2006. ASSERTIVA DE ILEGALIDADE DA DECISÃO QUE DEFERIU A BUSCA E APREENSÃO NA RESIDÊNCIA DO PACIENTE. VÍCIO NÃO CONSTATADO. DELIBERAÇÃO BEM FUNDAMENTADA, QUE SE PAUTOU NA EXISTÊNCIA DE DIVERSOS INDICATIVOS ACERCA DO COMETIMENTO DO NARCOTRÁFICO. MENÇÃO A RELATÓRIOS ELABORADOS PELA POLÍCIA MILITAR, EMBASADOS EM DILIGÊNCIAS PRETÉRITAS. ANÁLISE DAS DEMAIS TESES QUE RESTAM PREJUDICADAS, EM VIRTUDE DA REJEIÇÃO DA INSURREIÇÃO PELA NULIDADE DO PRONUNCIAMENTO JUDICIAL. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA." (fl. 15).
+No presente writ, a defesa sustenta a nulidade da decisão que deferiu busca e apreensão, por ausência de fundamentação idônea, afirmando que a magistrada apenas limitou-se a fazer uma breve menção à representação ministerial, sem justificar as fundadas razões ou demonstrar os indícios de autoria que pudessem embasar sua decisão, alegando, ainda, que sequer utilizou-se da fundamentação per relationem, pois deixou de reproduzir os trechos que davam suporte à representação do órgão acusador.
+Do mesmo modo, afirma que o relatório policial enviado ao Ministério Público e que deu suporte à representação do parquet está amparado apenas em denúncias anônimas, sem qualquer realização de diligência prévia que pudesse certificar o conteúdo das informações apócrifas, a não ser uma abordagem que foi realizada na namorada do paciente, e que nada de ilícito foi encontrado.
+Por fim, afirma que inexistem fundamentos legais para a manutenção da prisão preventiva, sobretudo porque os elementos probatórios advindos do flagrante estão revestidos de nulidade, prejudicando a prova da materialidade do delito.
+Requer, em liminar e no mérito, a concessão da ordem para que seja trancada a ação penal e revogada a prisão preventiva.
+A liminar foi indeferida às fls. 34/36. Informações prestadas às fls. 40/43 e 46/58. O Ministério Público Federal opinou pela não admissão do writ às fls. 60/72 .
+É o relatório.
+Decido.
+De acordo com informações obtidas na página eletrônica do Tribunal de origem, verifica-se que, nos autos da Ação Penal n. 0003407-82.2024.8.16.0056, em 23/9/2024, sobreveio sentença condenando o ora paciente às penas de 5 anos e 10 meses de reclusão, em regime inicial fechado, e o pagamento de 583 dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, tendo sido mantida a custódia cautelar do apenado.
+Assim, a notícia da superveniência de sentença condenatória durante a tramitação do presente writ implica na perda do objeto da irresignação.
+Com relação à aventada ilegalidade da busca domiciliar, verifica-se que o Magistrado sentenciante analisou todo o conjunto probatório e concluiu pela condenação do acusado.
+Assim, diante do atual contexto processual, caberá à Corte estadual a análise da ilegalidade em sede de apelação, uma vez que "o recurso de apelação detém efeito devolutivo amplo, cujo âmbito de cognição permite que o Tribunal de origem examine, com maior amplitude e profundidade, todo o conjunto fático-probatório colhido durante a instrução criminal e as questões jurídicas subjacentes, com todas as suas nuanças, sem a limitação cognitiva da via mandamental" (AgRg no HC n. 802.005, Ministro Sebastião Reis Júnior, DJe de 13/03/2023).
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
