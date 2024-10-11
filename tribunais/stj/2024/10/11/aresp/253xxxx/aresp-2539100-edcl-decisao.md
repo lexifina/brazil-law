@@ -1,0 +1,52 @@
+DECISÃO
+Bar e Restaurante Carne de Sol Bandeirante Ltda. opõe embargos de declaração contra a decisão de fls. 859/861, na qual neguei provimento ao agravo em recurso especial por ela interposto, nos seguintes termos:
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 6º, VI, 7º, parágrafo único, e 14 do Código de Defesa do Consumidor, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fls. 495/ 497):
+CIVIL, CONSUMIDOR E PROCESSUAL CIVIL. APELAÇÃO. AÇÃO DE REPETIÇÃO DE INDÉBITO. SERVIÇO BANCÁRIO. FALHA. FATURA DE ENERGIA ELÉTRICA DE TERCEIRO. DÉBITO AUTOMÁTICO. NÃO AUTORIZADO. RECURSOS DO AUTOR E DO BANCO IMPROVIDOS. RECURSO DA CONCESSIONÁRIA DE ENERGIA PROVIDO.
+Sinopse fática: Cuida-se de ação de conhecimento por meio da qual a autora pretende que as rés lhe restituam o valor de R$ 13.880,53, debitados em razão de faturas de energia vinculadas à imóvel de terceira pessoa, com quem não tem relação.
+1. Cuidam-se de apelações interpostas pelos requeridos e recurso adesivo aviado pelo autor contra sentença que, nos autos da ação de repetição de indébito, julgou procedente o pedido formulado na inicial para condenar os requeridos solidariamente na obrigação de restituir as quantias debitadas da conta corrente do autor.
+1.1. Em seu apelo, o banco réu pede a reforma da sentença alegando inexistir irregularidade, pois a contratação de débito automático teria sido solicitada pela própria parte.
+1.2. A concessionária do serviço, em seu apelo, pede a reforma da sentença para seja afastada a sua responsabilidade, alegando não ter praticado qualquer ato ilícito, pois não atua no procedimento de cadastramento de conta em débito automático.
+1.3. O autor, por fim, pede a reforma do julgado aduzindo que na restituição dos valores descontados em sua conta corrente "os juros moratórios contam se a partir da data do desembolso".
+2. Cinge-se a controvérsia em apreciar a pretensão de restituição de valores formulada pelo autor concernente a débitos automáticos realizados em sua conta corrente relativo a faturas de energia elétrica vinculadas à imóvel de terceiro que desconhece e sem que tenha autorizado previamente.
+3. A respeito do tema, tratando-se de demanda sujeita as regras do Código de Defesa do Consumidor, a responsabilidade pelo fornecimento do serviço, independe da demonstração de culpa sendo, portanto, objetiva, nos termos do art. 14 do CDC.
+3.1. Com efeito, demonstrado o liame de causalidade entre o defeito do serviço e o evento danoso experimentado pelo consumidor, ressalta obrigação de reparação cuja responsabilidade somente poderá ser afastada nas hipóteses de caso fortuito ou força maior (CC, 393), inexistência do defeito (CDC, 14, § 3º, I) e culpa exclusiva do ofendido e/ou de terceiros (CDC, 14, § 3º, II).
+4. No caso, em que pese a instituição financeira alegar ausência de irregularidade na contratação de débito automático, não logrou apresentar qualquer documento subscrito pelo autor autorizando o débito automático, tampouco comprovou que o fato teria decorrido por informações equivocadas no cadastro do débito, seja por conduta do autor ou da concessionaria de serviço, sobre a qual pretende atribuir a responsabilidade.
+4.1. Outrossim, nos termos da Súmula nº 479 do STJ, "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias."
+5. De outro lado, assiste razão à concessionária de energia elétrica, haja vista não ter contribuído, tampouco participado da falha no serviço bancário, comportando reforma parcial a sentença recorrida.
+5.1. Ademais, a concessionária logrou demonstrar que não participa do procedimento de cadastramento das faturas de consumo de energia elétrica em débito automático na conta corrente do correntista, cuja solicitação decorre voluntariamente pelo próprio consumidor, ainda que a instituição financeira dispense o comparecimento na agência.
+6. Nesse contexto, ausente qualquer ingerência da concessionária de energia elétrica na falha do serviço bancário, deve ser afastada a responsabilidade pelo evento danoso atribuída pela sentença à concessionária apelante, ensejando reforma parcial do julgado, pois a obrigação de restituir valores descontados indevidamente em conta bancária, sem autorização do consumidor, recai sobre a instituição bancária.
+7. Por fim, não assiste razão ao autor para que sobre o valor a ser restituído "os juros moratórios contam se a partir da data do desembolso".
+7.1. Isso porque, nos termos do art. 405 do CC, o termo inicial da incidência dos juros de mora é a data da citação, ou seja, quando constituído em mora a parte contrária, conforme registrou a sentença recorrida.
+8. Recursos do autor e do banco improvidos.
+8.1. Recurso da concessionária de energia elétrica provido.
+Foram opostos embargos de declaração, que foram rejeitados (fls. 605/618).
+Sustenta que a solidariedade imputada a ambas as recorridas deve prevalecer, "pois as duas empresas integram a relação de consumo e, sintomaticamente, contribuíram direta ou indiretamente para o evento danoso" (fl. 627).
+Afirma que "os juros devem fluir a partir do evento danoso, que no caso em testilha ocorreu a partir dos respectivos desembolsos/débitos automáticos" (fl. 631).
+Assim posta a questão, passo a decidir.
+Verifico que o Tribunal de origem entendeu estar ausente qualquer ingerência da concessionária de energia elétrica na falha do serviço bancário, de modo que afastou a responsabilidade pelo evento danoso atribuída à concessionária, conforme os seguintes fundamentos (fl. 502):
+(..)
+De outro lado, assiste razão à concessionária de energia elétrica, haja vista não ter contribuído, tampouco participado da falha no serviço bancário, comportando reforma parcial a sentença recorrida.
+Ademais, a concessionária logrou demonstrar que não participa do procedimento de cadastramento das faturas de consumo de energia elétrica em débito automático na conta corrente do correntista, cuja solicitação decorre voluntariamente pelo próprio consumidor, ainda que a instituição financeira dispense o comparecimento na agência.
+A esse respeito, a orientação para que o consumidor "Procure diretamente a sua agência bancária e faça a solicitação", consta registrada como um dos passos recomendados pela concessionária de energia ao consumidor para o procedimento. (ID 37727893 - Pág. 4.)
+Dentro deste contexto, ausente qualquer ingerência da concessionária de energia elétrica na falha do serviço bancário, deve ser afastada a responsabilidade pelo evento danoso atribuída pela sentença à concessionária apelante, ensejando reforma do julgado, pois a obrigação de restituir valores descontados indevidamente em conta bancária, sem autorização do consumidor, recai sobre a instituição financeira.
+(..)
+Com efeito, observo que rever tal conclusão da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Registro, por fim, que: "Os juros moratórios incidem desde a citação em casos de responsabilidade contratual" (AgRg no AREsp n. 421.788/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26.8.2014, DJe de 9.9.2014).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor dos patronos da concessionária, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+Sustenta a embargante que os juros de mora devem fluir a partir do evento danoso, ou seja, a partir da data do desembolso.
+Afirma que, em se tratando de relação extracontratual, o termo inicial dos juros moratórios é a data do evento danoso, nos termos da Súmula n. 54 do STJ.
+A parte embargada apresentou impugnação às fls. 870/876.
+Assim posta a questão, passo a decidir.
+Inicialmente, não identifico na decisão embargada nenhum dos vícios necessários ao conhecimento dos embargos de declaração, a teor do art. 1.022 do Código de Processo Civil, adstrito à correção de omissão, obscuridade, contradição ou erro material.
+Com efeito, reitero que o acórdão recorrido está em consonância com a jurisprudência desta Corte, que firmou o entendimento de que, no caso de responsabilidade contratual, em que existe um negócio jurídico prévio entre as partes, os juros de mora incidem desde a citação. A propósito:
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO E DE INDENIZAÇÃO POR DANOS MORAIS. CONTRATOS BANCÁRIOS. 1. JUROS DE MORA. TERMO INICIAL. RELAÇÃO CONTRATUAL. CITAÇÃO. PRECEDENTES. 2. DANOS MORAIS. IMPUGNAÇÃO DO VALOR ARBITRADO. RECURSO MANEJADO NO PONTO COM BASE NA ALÍNEA C DO TEXTO CONSTITUCIONAL. AUSÊNCIA DE APONTAMENTO DE REGRAMENTO FEDERAL A QUE TERIA SIDO ATRIBUÍDA INTERPRETAÇÃO DIVERGENTE. AUSÊNCIA DE CARACTERIZAÇÃO DO DISSÍDIO PRETORIANO. PRECEDENTES. PARADIGMA ORIUNDO DO MESMO TRIBUNAL PROLATOR DO ACÓRDÃO RECORRIDO. NEGATIVA DE CARACTERIZAÇÃO DO DISSENSO PRETORIANO. SÚMULA N.º 13 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência dominante desta Corte entende que, no caso de responsabilidade contratual, em que existe um negócio jurídico prévio entre as partes, os juros de mora incidem desde a citação.
+2. Além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário realizar o cotejo analítico, com a demonstração da identidade das situações fáticas e da interpretação diversa dada ao mesmo dispositivo legal, o que não ocorreu na hipótese em tela.
+3. Não é possível a indicação de acórdão paradigma proveniente do próprio Tribunal de Justiça prolator da decisão. Incidência da Súmula n.º 13 do STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.029.860/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21.8.2023, DJe de 23.8.2023.) (destaquei)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
