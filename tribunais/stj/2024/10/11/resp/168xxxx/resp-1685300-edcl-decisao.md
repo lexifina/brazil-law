@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por COOPERATIVA DE CONSUMO COOPERCICA contra decisão de fls. 719-723, a qual determinou a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que o recurso especial interposto pelo ora embargante seja apreciado apenas após publicado acórdão a ser proferido no julgamento do Tema n. 536 do STF, quando deverá ser exercido o juízo de conformação na forma dos arts. 1.040 e 1.041 do CPC/2015.
+O embargante afirma que a decisão foi omissa e carece de aclaramento, requerendo, em síntese, às fls. 727-728, que:
+De rigor, implemente-se o decisum, com manifestação expressa acerca da suspensão de todas as demandas correlatas que envolvam a Recorrida (COOPERCICA) e que tenham por base a discussão da tributação do ato cooperativo, em observância à suspensão atrelada à Repercussão Geral (Tema nº. 536 do STF), notadamente as Execuções Fiscais e seus respectivos Embargos à Execução, pendentes de julgamento em Primeira, Segunda e Terceira Instâncias.
+Impugnação da Fazenda Nacional às fls. 749-750.
+É o relatório.
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, bem como em harmonia com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, no aresto embargado foi explicitamente assinalado que (fl. 721):
+Em situações análogas, as Turmas integrantes da Primeira Seção têm adotado a sistemática de devolver os autos à origem, para que lá se faça o juízo de conformação, depois do julgamento do tema afetado em repercussão geral pelo Supremo Tribunal Federal, em especial atenção aos princípios processuais da economia, celeridade e efetividade, evitando, ainda, decisões discrepantes entre a Suprema Corte e este Superior Tribunal de Justiça.
+Vale ressaltar que, consoante o disposto no art. 1.041, § 2º, do Código de Processo Civil, ultimadas essas providências, caberá - se for o caso - o reencaminhamento do recurso especial a este Superior Tribunal de Justiça, independentemente de ratificação, para análise de demais questões jurídicas que, eventualmente, não fiquem prejudicadas pelo juízo de conformação do acórdão recorrido com o precedente vinculante a ser exarado pelo Supremo Tribunal Federal no julgamento do tema de repercussão geral ou, ainda, pelo novo pronunciamento do Tribunal de origem.
+Ao contrário do alegado pelo Embargante, não há omissão no julgado, porquanto não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a existência de omissão no acordão recorrido a caracterizar violação do art. 1.022 do CPC.
+O que sustenta o embargante, no sentido de suspender todas as demandas correlatas envolvendo a embargante em todas as instâncias, como bem apontado pela Fazenda Nacional em sua impugnação, ultrapassa os limites do disposto nos arts. 1.040 e 1.041 do CPC/2015, bem como a competência deste Relator.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PLEITO DE SUSPENSÃO DO PROCESSO. RECURSOS SELECIONADOS COMO REPRESENTATIVOS DA CONTROVÉRSIA PELA COMISSÃO GESTORA DE PRECEDENTES. AUSÊNCIA DE PREVISÃO LEGAL. INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material", vícios não verificados no aresto ora embargado.
+2. Deve ser rejeitado o pleito de suspensão do processo, fundamentado no simples fato de a Comissão Gestora de Precedentes ter selecionado como representativos da controvérsia os Recursos Especiais 2.2.078.485/PE; 2.078.993/PE; 2.078.989/PE e 2.079.113/PE, pois tal circunstância não importa na suspensão automática dos recursos em trâmite no Superior Tribunal de Justiça, ante a ausência de previsão legal nesse sentido. Precedentes.
+3. Embargos de declaração rejeitados. (EDcl no AgInt no REsp n. 2.027.768/PE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 2/4/2024, DJe de 9/4/2024.)
+Inexistente, pois, qualquer obscuridade, contradição, erro material ou omissão no julgado embargado, de modo que se impõe a rejeição dos presentes embargos de declaração.
+Ante o exposto, REJEITO os embargos declaratórios.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
