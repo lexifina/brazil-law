@@ -1,0 +1,51 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, contra decisão que não admitiu o recurso especial com fundamento na incidência da Súmula 7/STJ.
+O acórdão recorrido foi assim ementado:
+AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. JUSTIÇA GRATUITA. Assistência judiciária gratuita requerida em apelação. Presunção relativa da declaração de hipossuficiência, prevista no art. 99, § 3º, do CPC. Carência financeira comprovada.
+PRESCRIÇÃO INTERCORRENTE. RETROATIVIDADE DA LEI 14.230/21. Inadmissibilidade. "O novo regime prescricional previsto na Lei 14.230/2021 é irretroativo, aplicando-se os novos marcos temporais a partir da publicação da lei". Entendimento consolidado pelo c. STF, em repercussão geral (ARE 843.989, Tema 1.199).
+CONTRATAÇÃO TEMPORÁRIA. VERBAS RESCISÓRIAS. Ex- Prefeito do Município de Taubaté. Contas do exercício de 2011 consideradas irregulares pelo Tribunal de Contas do Estado, em decorrência de pagamentos relativos a "aviso prévio e indenização na rescisão de contratos de trabalho por tempo determinado a servidores temporários". Agente que nada recebeu. Ausência de dolo, culpa ou má-fé e/ou enriquecimento ilícito. Violação a regras administrativas adstrita ao campo das meras irregularidades não intencionais. Irregularidades nas contratações e pagamentos que, por si só, não caracterizam improbidade administrativa, ainda que justifique reparação ao ente público. Pedido improcedente.
+RECURSO DO RÉU PROVIDO. RECURSO DO MINISTÉRIO PÚBLICO PREJUDICADO.
+Nas suas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente alega violação ao art. 10, IX e art. 11 da Lei 8.429/1992, sustentando que "restou devidamente comprovado no curso da ação que as condutas do ora apelante foram objeto de diversas repreensões e de recomendações no sentido de que ser indevida a despesa por ele efetuada" (fl. 561).
+Sustenta que "o ato administrativo foi de encontro ao princípio da moralidade, o qual visa evitar que a Administração Pública se distancie da moral e a obrigar que a atividade administrativa seja pautada não só pela lei, mas também pela boa-fé, lealdade e probidade" (fl. 562).
+Acrescenta que o "elemento subjetivo (dolo) ficou devidamente demonstrado pela forma e pelas circunstâncias como foi realizado os pagamentos, uma vez que o gestor público não se socorre da ignorância à lei, notadamente quando já foi advertido pelo Tribunal de Contas no sentido da licitude" (fl. 564).
+Alega ainda que "houve violação a princípios da Administração Pública, máxime à imparcialidade, à legalidade e à moralidade, pois está devidamente demonstrado que os parâmetros legais previstos para a contratação foram extrapolados. Dessa forma, as condutas perpetradas pelo réu se amoldam perfeitamente ao disposto no art. 10, caput e inciso IX e art. 11, caput, da Lei nº 8.429/92".
+O Ministério Público Federal opinou pelo conhecimento do agravo para não conhecer do recurso especial.
+É o relatório.
+Decido.
+De início, convém registrar que o art. 11 da Lei 8.429/1992 não foi devidamente prequestionado, uma vez que não foi objeto de apreciação pelo Tribunal de origem, razão pela qual incide o óbice da Súmula 282/STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+No mais, ao dirimir a controvérsia, o Tribunal de origem consignou o seguinte:
+Não se extrai da descrição da inicial o elemento doloso ou culposo, ou seja, a vontade dirigida a lesar os cofres públicos ou desrespeitar princípios administrativos.
+A descrição do elemento subjetivo (dolo ou culpa) é genérica.
+Não há enriquecimento ilícito (o agente nada recebeu).
+Eventuais irregularidades nas contratações e pagamentos, por si só, não caracterizam improbidade administrativa, ainda que justifique reparação ao ente público.
+Confiram-se os argumentos da Desembargadora Flora Maria Nesi Tossi Silva, na Apelação nº 1004864-13.2015.8.26.0625, referente às mesmas partes e a situação análoga à da presente demanda:
+"No presente caso o Ministério Público do Estado de São Paulo ajuizou ação civil pública por ato de improbidade administrativa em face de Roberto Pereira Peixoto porque, enquanto Prefeito Municipal de Taubaté, durante o exercício financeiro de 2007, admitiu 349 (trezentos e quarenta e nove) servidores temporários, o que importaria em violação às normas do artigo 37, incisos II e IX, da Constituição Federal, e à Lei Complementar Municipal nº. 01/1990.
+Tal fato, na ótica do autor, importou em dano ao Erário e violação dos princípios da administração pública, condutas previstas no art. 10 e 11, caput, ambos da Lei nº 8.429/92.
+ ..
+Quanto às condutas de agentes públicos e políticos importante ressaltar que nem toda conduta inábil do administrador público e demais agentes públicos caracteriza, necessariamente, prática de ato de improbidade administrativa.
+ ..
+Desta forma, mesmo que se entenda que o administrador não tenha observado o procedimento mais adequado, tal situação não resulta, necessariamente, no reconhecimento de improbidade administrativa, uma vez que a improbidade supõe a efetivação de juízo de desonestidade do agente, o que demanda análise do aspecto subjetivo da conduta e implica punição do responsável.
+ ..
+O desafio sempre esteve na devida avaliação da conduta do agente que revele a sua vontade de atingir o resultado vedado pela norma à luz do contexto fático e não só a mera violação à lei, sob pena de se aplicar a responsabilidade objetiva em matéria de improbidade administrativa. Nesse contexto é que se encontram, a título de exemplo, os art. 22 e 28 da Lei de Introdução às Normas do Direito Brasileiro, dada pela Lei 13.655/2018, que consolida o entendimento citado e determina parâmetros legais para a apreciação da conduta do administrador.
+ ..
+Sob tal ângulo, seguindo o posicionamento e os critérios postos para aferir o ato administrativo, verifico não estar configurado no caso concreto, o elemento subjetivo, nem mesmo a título de dolo genérico ou erro grosseiro.
+ ..
+A situação está longe de caracterizar improbidade (fls. 548-550).
+Sendo assim, decidir de forma contrária - para reconhecer a conduta do então Prefeito Roberto Pereira Peixoto como ímproba -, demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+Ademais, convém registrar que, com as inovações advindas da Lei 14.230/2021, a Lei de Improbidade Administrativa foi consideravelmente modificada.
+Desde então, para a configuração dos atos ímprobos, previstos no art. 9º, 10 e 11 da Lei 8.429/1992, é imprescindível a presença do elemento subjetivo. É o que prescreve o art. 1º, § 1º, da Lei 8.429/1992. Além do mais, o § 3º desse artigo dispõe que "o mero exercício da função ou desempenho de competências públicas, sem comprovação de ato doloso com fim ilícito, afasta a responsabilidade por ato de improbidade administrativa".
+Por fim, há que ressaltar que o caput do art. 10 prevê, além da ação ou omissão dolosa, a efetiva perda patrimonial para a tipificação da conduta ímproba, o que não restou demonstrado neste caso.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. ATRASO NA PRESTAÇÃO DE CONTAS E NÃO APLICAÇÃO DA TOTALIDADE DAS VERBAS NAS DESPESAS A QUE ESTÃO DIRIGIDAS, SENÃO EM OUTRAS DESPESAS PÚBLICAS, INCLUSIVE LIGADAS À EDUCAÇÃO. ART. 11 DA LEI 8.429/1992. ELEMENTO SUBJETIVO (DOLO) NÃO CONFIGURADO. PROVIMENTO NEGADO.
+ ..
+2. Não caracteriza ato ímprobo o atraso na prestação de contas ou mesmo a não aplicação da totalidade das verbas repassadas pelo Fundo Nacional de Desenvolvimento da Educação (FNDE) às despesas a que estão destinadas, aplicando-se parte delas em despesas outras ligadas à educação, não existindo intenção maliciosa por parte do administrador.
+3. A exegese das normas da Lei 8.429/1992, notadamente do seu art. 11, tendo em conta as severas sanções previstas na lei, há de ser parcimoniosa, evitando- se corrigir irregularidades ou ilegalidades não tonalizadas pela má-fé do administrador público com a força das penas previstas para as improbidades.
+4. Agravo interno a que se nega provimento (AgInt no REsp n. 1.528.200/RN, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/8/2024, DJe de 16/9/2024).
+EMENTA RECURSO ESPECIAL. DIREITO ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO AOS PRINCÍPIOS REITORES DA ADMINISTRAÇÃO. MÁCULA À IMPESSOALIDADE E À MORALIDADE MEDIANTE A FRUSTAÇÃO DE PROCEDIMENTO LICITATÓRIO. RECONHECIMENTO DA PRESENÇA DE DOLO ESPECÍFICO NA ORIGEM. ATRAÇÃO DA SÚMULA 7/STJ. CONDENAÇÃO COM BASE NO CAPUT DO ART. 11 DA LIA. PRINCÍPIO DA CONTINUIDADE TÍPICO-NORMATIVA. TIPIFICAÇÃO DA CONDUTA NO ATUAL INCISO V DO ART. 11 DA LIA. RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO. 1.
+ ..
+DANO AO ERÁRIO. PRESUNÇÃO DO PREJUÍZO PELO ACÓRDÃO RECORRIDO. ALTERAÇÃO DO ART. 10, "CAPUT" E INCISO VIII, DA LIA. NECESSIDADE DE COMPROVAÇÃO DA PERDA PATRIMONIAL EFETIVA. INTERPRETAÇÃO DAS TESES FIXADAS NO TEMA 1.199. RETROAÇÃO DAS ALTERAÇÕES LEGAIS EM RELAÇÃO, TAMBÉM, AO ELEMENTO OBJETIVO-NORMATIVO: DANO.
+4. A atual redação do art. 10 da LIA, com as alterações advindas da Lei 14.230/2021, passou a exigir a comprovação da perda patrimonial efetiva para a configuração da improbidade administrativa. O Supremo Tribunal Federal, quando do exame do Tema 1.199, pacificou a orientação de que " a nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior; devendo o juízo competente analisar eventual dolo por parte do agente". O silogismo aplicável ao elemento subjetivo da conduta em tudo se aplica ao elemento objetivo-normativo considerando-se a máxima "Ubi eadem ratio, ibi idem jus".
+5. Recurso especial em parte conhecido e parcialmente provido para determinar o retorno dos autos para a realização da nova dosimetria das penas (REsp n. 2.061.719/TO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/8/2024, DJe de 2/9/2024).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
