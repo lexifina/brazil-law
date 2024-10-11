@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 0004700-24.2014.8.26.0456, assim ementado (fls. 1038-1044):
+Embargos à execução de título extrajudicial (termo de ajustamento de conduta). Acolhimento parcial. Apelos de ambas as partes. Incidência do novo código florestal mesmo aos TAC celebrados durante a vigência do antigo diploma. Posição mais recente do C. STF, à qual passa-se a adotar para evitar o prolongamento inócuo dos processos em prejuízo do jurisdicionado. Multa diária. Redução, nos termos do artigo 537, §1º, do NCPC. Cumprimento quase que integral do TAC reconhecido pelo expert do juízo. Sentença reformada em parte. Recurso da embargante parcialmente provido, desprovido o do Parquet.
+Nas razões do apelo nobre, fundamentado no art. 105, inciso III, alínea a da Constituição Federal, a parte agravante apresentou as seguintes alegações:
+a) violação ao art. 1º, § 1º, da Lei de Introdução às Normas do Direito Brasileiro (Decreto-lei n. 4.657/42), argumentando que a tese da prevalência do ato jurídico perfeito foi afastada pelo Tribunal a quo, uma vez que retirou a eficácia do TAC firmado durante a vigência da Lei n. 4.771/65 (antigo Código Florestal);
+b) contrariedade ao art. 537, §§ 1º e 4º, do CPC, sustentando que a possibilidade de modificar o valor ou a periodicidade da astreinte somente pode ocorrer em relação à multa vincenda, e não às parcelas vencidas. Além disso, argumentou que a redução do montante de R$ 300.000,00 (trezentos mil reais) para R$ 50.000,00 (cinquenta mil reais) é inadequada, pois considera o valor irrisório
+Apresentadas contrarrazões ao recurso especial (fls. 1069-1078).
+O Tribunal de origem não admitiu o recurso especial pelos seguintes motivos: a) a decisão da instância inferior, embora contrário às pretensões do recorrente, não desrespeita a legislação a ponto de justificar a subida do recurso à instância superior; b) necessidade de reexame dos elementos fáticos que fundamentaram a decisão recorrida implicaria nova incursão no campo fático e reanálise de termos contratuais (Súmulas n. 5 e 7 do STJ);
+Apresentadas contrarrazões ao agravo em recurso especial (fls. 1098-1109).
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento, conforme ementa (fls. 1128-1136):
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DIREITO AMBIENTAL. TERMO DE AJUSTAMENTO DE CONDUTA CELEBRADO DURANTE A VIGÊNCIA DO ANTIGO CÓDIGO FLORESTAL. ATO JURÍDICO PERFEITO. IRRETROATIVIDADE DO NOVO CÓDIGO. TEMPUS REGIT ACTUM. DECISÃO RECORRIDA EM CONFRONTO COM O ENTENDIMENTO CONSOLIDADO PELO STJ. PROVIMENTO DO RECURSO QUE SE IMPÕE. MULTA COMINATÓRIA. REDUÇÃO DO QUANTUM PELO TRIBUNAL DE ORIGEM. REFORMA DO ACÓRDÃO RECORRIDO. INVIABILIDADE. NECESSIDADE DE INCURSÃO NO MATERIAL FÁTICO-PROBATÓRIO DOS AUTOS. ÓBICE DA SÚMULA 07/STJ. Parecer pelo provimento parcial do agravo para que, na parte conhecida, seja provido o recurso especial.
+É o relatório.
+Decido.
+Após uma atenta leitura dos autos, especialmente diante do que consta no acórdão recorrido, bem como nas razões do agravo e do recurso especial, entendo que deve ser o agravo autuado como recurso especial, segundo previsto no art. 253, parágrafo único, inciso II, alínea d, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, CONHEÇO do agravo para DETERMINAR sua autuação como recurso especial.
+Façam-se as anotações necessárias.
+Após, dê-se vista dos autos ao Ministério Público Federal, para o parecer.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO E AMBIENTAL. EMBARGOS À EXECUÇÃO POR OBRIGAÇÃO DE FAZER. ASTREINTES. REDUÇÃO. MULTA VENCIDA E VINCENDA. TERMO DE AJUSTAMENTO DE CONDUTA. SUPERVENIÊNCIA DO NOVO CÓDIGO FLORESTAL. MELHOR ANÁLISE. AUTUAÇÃO COMO RECURSO ESPECIAL. AGRAVO CONHECIDO PARA DETERMINAR SUA AUTUAÇÃO COMO RECURSO ESPECIAL.
