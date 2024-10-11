@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANANAL EMPREENDIMENTO IMOBILIÁRIO LTDA. e VECE INCORPORADORA LTDA. (BANANAL e outra ) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 393/399).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar, em parte.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, BANANAL e outra alegaram, a par de divergência jurisprudencial, a violação dos arts. 13, 14, 18 e 88 do CDC, 360 e 186, 393, parágrafo único, e 396 do CC, ao sustentar (1) a necessidade de denunciação da lide a todos os envolvidos na cadeia de consumo, no caso, a empresa responsável pelo andamento da obra, CHEMIN ENGENHARIA E CONSTRUÇÃO LTDA. e a instituição financeira, CAIXA ECONÔMICA FEDERAL (CEF); (2) a existência de novação decorrente da assinatura de contrato de financiamento entre os promitentes compradores e a CEF, com a fixação de novo prazo para a entrega da unidade imobiliária; e (3) o descabimento da indenização por danos morais na hipótese de mero descumprimento contratual.
+(1) Da denunciação da lide
+Do que se depreende dos autos, a controvérsia não foi analisada no Tribunal estadual sob o enfoque da necessidade de denunciação da lide, sem que fossem opostos embargos de declaração, a fim de suscitar sua discussão, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento.
+Incide, à hipótese, o comando das Súmulas n.ºs 282 e 356 do STF, por analogia.
+(2) Da existência de novação
+Por sua vez, no que se refere à existência de novação nos autos, asseverou a Corte local que, no caso, "não pode prevalecer a alegação das rés de que houve novo prazo para a entrega do bem, por tornar incerta a data de entrega do imóvel. Coloca o consumidor em desvantagem exagerada e se mostra abusiva, razão pela qual deve ser reputada nula, nos termos do art. 51, IV, CDC" (e-STJ, fl. 303). Ademais, pontuou o órgão julgador local que "o contrato deve ser interpretado de forma mais favorável co consumidor" (e-STJ, fl. 303).
+Ocorre que esse fundamento, suficiente, por si só, para manter a conclusão do acórdão recorrido, não foi objeto de impugnação, específica, nas razões do recurso especial, incidindo, à hipótese, a dicção da Súmula n.º 283 do STF, por analogia.
+(2) Do dano moral
+Por sua vez, as ora insurgentes defenderam o afastamento de sua condenação ao pagamento de verba indenizatória resultante na ausência de entrega de imóvel objeto de compromisso de compra e venda ajustado com os recorridos no tempo aprazado.
+Com relação ao tema, a eg. Terceira Turma desta Corte, no julgamento do Resp nº 1.642.314/SE, Rel. Ministra NANCY ANDRIGHI, DJe 22/3/2017, firmou as seguintes premissas:
+a) o dano moral pode ser definido como lesões a atributos da pessoa, enquanto ente ético e social que participa da vida em sociedade, estabelecendo relações intersubjetivas em uma ou mais comunidades, ou, em outras palavras, são atentados à parte afetiva e à parte social da personalidade (Precedente: REsp 1426710/RS, Terceira Turma, julgado em 25/10/2016, DJe 9/11/2016);
+b) os simples dissabores ou aborrecimentos da vida cotidiana não ensejam abalo moral, conforme se vê dos seguintes precedentes: REsp 202.564/RJ , Quarta Turma, julgado em 2/8/2001, DJ 1º/10/2001; e, REsp 1.426.710/RS, Terceira Turma, j. 25/10/2016, DJe 8/11/2016); e
+c) muito embora o simples descumprimento contratual não provoque danos morais indenizáveis, circunstâncias específicas da caso concreto podem configurar a lesão extrapatrimonial. Precedentes: REsp n. 1.637.627/RJ, relatora Ministra NANCY ANDRIGHI, julgado aos 6/12/2016, DJe de 14/12/2016; REsp n. 1.633.274/SP; julgado aos 8/11/2016, DJe de 11/11/2016; AgRg no AREsp n. 809.935/RS, DJe de 11/3/2016; e, REsp 1.551.968/SP, Segunda Seção, DJe de 6/9/2016.
+Na hipótese vertente, o fundamento do dano moral está calcado nas seguintes razões:
+A extrapolação do prazo contratado constitui abuso de direito e configura excesso, pois descaracteriza o exercício regular de direito (art. 188, I, CC), revelando desproporção e vantagem abusiva do vendedor, frustrando a igualdade de tratamento entre as partes. A questão toma proporção ofensiva ao patrimônio moral, quando se apresenta contrária ao direito de moradia do compromissário comprador, que está adimplente com suas obrigações (e-STJ, fl. 300).
+Como visto da transcrição acima, o fundamento adotado para reconhecimento do dano moral foi o inadimplemento contratual, decorrente do atraso na entrega do imóvel que, conforme pontuado pela sentença, durou menos de 5 (cinco) meses, sem a comprovação de qualquer outro fundamento relevante que importasse em inegável abalo imaterial.
+Desse modo, inexistindo circunstância específica, capaz de provocar graves lesões à personalidade dos adquirentes, a reparação por dano moral deve ser afastada na hipótese dos autos, acompanhando o entendimento dos precedentes abaixo:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. DIALETICIDADE RECURSAL. OCORRÊNCIA. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA UNIDADE IMOBILIÁRIA. DANOS MORAIS. MORA POR PERÍODO EXPRESSIVO. AUSÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial. Caso concreto no qual não foi apontada outro fato excepcional, além do atraso na entrega do imóvel por 6 (seis) meses após o período de tolerância.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n.º 2.003.552/SP, relator Ministro RAUL ARÁUJO, Quarta Turma, julgado aos 27/3/2023, DJe de 3/4/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. ATRASO NA ENTREGA DE OBRA. DANOS MORAIS. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Precedentes.
+ .. .
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt nos EDcl no AREsp n.º 1.560.524/PR, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado aos 20/9/2021, DJe de 23/9/2021.)
+Incidência da Súmula n.º 568 do STJ à hipótese.
+Nessas condições, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, apenas para afastar a condenação a título de danos morais, mantida a sucumbência, assim como fixada na sentença.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO EMPREENDIMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. (1) NECESSIDADE DE DENUNCIAÇÃO DA LIDE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N.ºS 282 E 356 DO STF, POR ANALOGIA. (2) OCORRÊNCIA DE NOVAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N.º 283 DO STF, POR ANALOGIA. (3) DANO MORAL. AFASTAMENTO. MERO INADIMPLEMENTO CONTRATUAL. PRECEDENTES. SÚMULA N.º 568 DO STJ. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
