@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ANTONINO DA SILVA PINTO e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo de instrumento. Cumprimento de sentença. Exceção de pré-executividade rejeitada. Recurso apresentado pelos executados. Alegação de abusividade da cláusula penal prevista no acordo firmado entre as partes.
+Insurgência não merece prosperar. Cláusula penal fixada em conformidade com o disposto no artigo 412 do Código Civil. Multa que observa o limite legalmente imposto e que foi estabelecida em segundo acordo. Abusividade não caracterizada. Executados estavam devidamente representados por seus advogados, quando da novação. Vício de vontade não configurado. Ausente qualquer nulidade relativa à mul ta livremente pactuada.
+Decisão mantida. Agravo não provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 413 do Código Civil, no que concerne à necessidade de redução da cláusula penal firmada, tendo em vista que o recorrente cumpriu a maior parte da obrigação, para assim evitar o enriquecimento ilícito da parte recorrida, trazendo a seguinte argumentação:
+O intuito da presente demanda visa a verificação correta do artigo da Lei Federal 10.406/2002, EM SEU ARTIGO 413, em razão da especialidade da causa, qual seja, um acordo de R$ 1.700.000,00 reais que só restava R$ 150 mil reais para quitar, não se podendo admitir como razoável cláusula penal de 100% e repetida em mais 100%, gerando enriquecimento ilícito, sem dúvida.
+ ..
+Tal decisão se mantida trará danos significativos aos recorrentes e diante da especificidade, porque cumprido o acordo em 92,2%, deveria o magistrado reduzir equitativamente o montante da penalidade a Luz do artigo 413 do CCB, aplicando-se os princípios constitucionais da razoabilidade e proporcionalidade, ficando expressamente requerido. Não se compreende porque não se verificou o artigo 413 do CCB. Por isso, revela-se sua negativa e contrariedade quando aplica outro conceito ao caso, razão da merecida reforma pelo Tribunal do Povo.
+Por tudo isso, este recurso especial merece ser visto, conhecido, dado provimento, porquanto, dentro da lei e do melhor direito, notadamente para se evitar enriquecimento sem causa. (fls. 129-130).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Considerando a aplicação dos princípios constitucionais da razoabilidade e proporcionalidade, mencionados pelo D. Relator, tem-se ainda por necessário observar elementos de boa-fé.
+Assim, tem-se que a multa é razoável, na medida em que observa o limite legal permitido e foi estabelecida em segundo acordo (novação) em que houve a participação de advogados assistindo ambas as partes.
+A cláusula penal também é proporcional, já que o valor total pactuado corresponde a R$ 1.700.000,00 (um milhão e setecentos mil reais) e a multa diz respeito apenas à quantia novada, conforme esclarecido pelos próprios agravantes, 8,83% do total.
+Nesse sentido, a fim de defender a alegada desproporcionalidade da multa, os executados invocam justamente o cumprimento de maior do que foi inicialmente acordado. Ora, o segundo acordo já considerou o primeiro e foi formulado em razão de seus descumprimento. A multa de 100% foi fixada tendo por base exatamente o valor remanescente.
+Por fim, e somando-se ao acima esclarecido, por parte dos devedores não se verificam elementos de boa-fé. Isso porque o primeiro acordo foi formulado em novembro de 2019. Um ano depois houve novação, com a inclusão da cláusula penal ora discutida. Como dito, os devedores tiveram assistência de advogados, tratando-se de acordo homologado judicialmente justamente em razão de sua regularidade, sendo as partes maiores e capazes. Agora, após novamente deixarem de efetuar o pagamento, invocam "nulidade absoluta" sem que haja qualquer vício de vontade.
+Diante do analisado, a decisão agravada merece ser mantida por seus próprios fundamentos. (fl. 103).
+Assim, incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 9.10.2019 ).
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3.10.2019; AgInt no AREsp 1.165.518/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.10.2019; AgInt no AREsp 481.971/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25.9.2019; AgInt no REsp 1.815.585/DF, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 23.9.2019; e AgInt no AREsp 1.480.197/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 25.9.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
