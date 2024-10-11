@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 549):
+ADMINISTRATIVO. INDENIZAÇÃO. PRESCRIÇÃO. LICENÇAS-PRÊMIO NÃO FRUÍDAS. DIREITO ADQUIRIDO. IMPOSTO DE RENDA. CONTRIBUIÇÃO PREVIDENCIÁRIA.
+1. Afastada a prescrição, visto que não transcorreu o prazo previsto no artigo 1º do Decreto nº 20.910/1932.
+2. As licenças-prêmio não fruídas constituem-se direito adquirido, sendo dever da Administração proporcionar sua indenização.
+3. Se o legislador autorizou a conversão em pecúnia da licença não gozada pelo servidor que vem a falecer, quando ainda em atividade, por idêntica razão, deve-se poder pagá-la ao servidor vivo, quando ele já estiver aposentado, sem mais possibilidade de gozá-la ou computar esse tempo em dobro.
+4. A indenização das licenças-prêmio não gozadas e convertidas em pecúnia possui caráter indenizatório, não sendo possível a incidência de imposto de renda e contribuição previdenciária.
+Os embargos de declaração opostos pela União foram parcialmente acolhidos apenas para fins de prequestionamento e os da parte autora, rejeitados (fl. 601).
+A parte recorrente aponta violação dos arts. 535, I e II, do Código de Processo Civil (CPC) de 1973 (art. 1.022, I e II, do CPC vigente); 1º e 8º do Decreto 20.910/1932; 7º da Lei 9.527/1997; 741, VI, do CPC/1973 (atual 535, VI, do CPC/2015); e 368 do Código Civil.
+Alega:
+a) ocorrência de negativa de prestação jurisdicional;
+b) configuração da prescrição, tendo em vista o transcurso de mais de 5 anos entre a data da aposentadoria dos servidores (1992, 1994 e 2001) e o ajuizamento da ação (2016);
+c) "A Orientação Normativa nº 03 do MPOG, de 18.05.2007, não importou em renúncia à prescrição, nem tampouco o Acórdão TCU-Plenário, os quais serviram a embasar a Portaria retificadora da aposentadoria da parte autora" (fl. 623);
+d) "Uma vez tenha o Superior Tribunal de Justiça firmado entendimento de que a prescrição da pretensão à revisão do ato de aposentadoria de servidor público, com a inclusão do tempo de serviço exercido sob condições insalubres, é do fundo de direito, o requerimento administrativo apresentado pela parte autora também não tem o condão de interromper ou reabrir prazo prescricional já consumado e não renunciado (seja tácita ou expressamente)" (fls. 623/624);
+e) " ..  a prescrição em face da Fazenda Pública só pode ser interrompida uma vez - artigo 8º do Decreto 20.910/32.
+Assim, se a prescrição foi interrompida em 18/05/2007 pela Orientação normativa SRH/MPOG nº 03, a parte autora tinha até 18.11.2009 para postular a revisão de suas aposentadorias e o pagamento de eventuais diferenças.
+A presente ação ordinária foi ajuizada em 2016" (fl. 615);
+f) impossibilidade de desaverbação das licenças-prêmio convertidas em tempo de serviço dobrado e contadas para efeitos de aposentação; e
+g) "Acaso entenda essa E. Turma que a parte autora faz jus a desaverbação e indenização das licenças que foram computados para que pudesse se aposentar, o que se admite apenas em atenção ao princípio da eventualidade, requer a ré seja compensado o proveito obtido pelo autor face a tal cômputo desde suas aposentadorias até a data em que se iniciaram os efeitos financeiros das revisões administrativas efetuadas em relação a cada vínculo" (fl. 641).
+A parte adversa apresentou contrarrazões (fls. 659/684).
+Após realizado o juízo de adequação pelo colegiado competente, em razão do Tema 1.109 do Superior Tribunal de Justiça (STJ), o recurso foi admitido na origem (fls. 819/820).
+É o relatório.
+A alegada ofensa ao art. 1.022 do Código de Processo Civil tem por base suposta omissão do acórdão recorrido em relação, entre outras questões, ao seguinte pedido (fl. 641):
+Acaso entenda essa E. Turma que a parte autora faz jus a desaverbação e indenização das licenças que foram computados para que pudesse se aposentar, o que se admite apenas em atenção ao princípio da eventualidade, requer a ré seja compensado o proveito obtido pelo autor face a tal cômputo desde suas aposentadorias até a data em que se iniciaram os efeitos financeiros das revisões administrativas efetuadas em relação a cada vínculo.
+No mérito, o Tribunal de origem, ao decidir a lide, apresentou estes fundamentos (fls. 542/544):
+A Lei nº 9.527/1997 resguardou o direito dos servidores que haviam adquirido o direito à licença, ao dispor, em seu artigo 7º, que "Os períodos de licença-prêmio, adquiridos na forma da Lei nº 8.112, de 1990, até 15 de outubro de 1996, poderão ser usufruídos ou contados em dobro para efeito de aposentadoria ou convertidos em pecúnia no caso de falecimento do servidor, observada a legislação em vigor até 15 de outubro de 1996".
+Em que pese tenha previsto a hipótese do servidor que falece em atividade, garantindo-lhe o direito de converter em pecúnia, seu tempo de licença-prêmio adquirido e não-gozado, o legislador não cuidou da situação do servidor que se aposentou sem ter fruído a licença ou sem ter o período contado em dobro, situação que representa lacuna na legislação de regência.
+Se o servidor não usufruiu do direito ao gozo ou ao cômputo do tempo em dobro, do(s) período(s) de licença(s)-prêmio, tendo efetivamente laborado nesse(s) período(s), entendo que, de algum modo, deva ser compensado, sob pena de configurar-se enriquecimento ilícito por parte da Administração Pública.
+Esse entendimento está em consonância com princípios jurídicos que sustentam o próprio ordenamento positivo - o do respeito ao direito adquirido, ao ato jurídico perfeito e à coisa julgada; o da segurança jurídica que coroa, por apego à estabilidade das relações jurídicas, que os direitos subjetivos gerados por uma norma jurídica devem perdurar mesmo após a revogação de tal norma; o da não-aplicação retroativa de lei que possa causar prejuízo ao titular do direito subjetivo. Em relação a este último, vale dizer que se trata de um princípio geral de direito, segundo o qual as leis são feitas para vigorar e incidir para o futuro, só podendo surtir efeitos retroativos, quando elas próprias assim disciplinarem (a atual Constituição não veda a retroatividade da lei, a não ser da lei penal que não beneficie o réu).
+ ..
+Se o legislador autorizou a conversão em pecúnia da licença não gozada pelo servidor que vem a falecer, quando ainda em atividade, por idêntica razão, deve-se poder pagá-la ao servidor vivo, quando ele já estiver aposentado, sem mais possibilidade de gozá-la ou computar esse tempo em dobro.
+Observo que o acórdão recorrido, a despeito da oposição dos embargos de declaração, não se manifestou sobre a questão alegada, incorrendo em vício de omissão.
+Conforme o entendimento do Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+A propósito, cito estes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC/73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito.
+(AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+Ante o exposto, dou provimento ao recurso especial para, reconhecendo o vício de omissão, anular o acórdão recorrido; determino o retorno dos autos à origem para novo exame dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
