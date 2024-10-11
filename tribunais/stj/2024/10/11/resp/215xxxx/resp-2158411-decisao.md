@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se recurso especial interposto por CAMARA DOS DIRIGENTES LOJISTAS DE PORTO ALEGRE - CDL POA, fundado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/RS.
+Recurso especial interposto em: 03/06/2024.
+Concluso ao gabinete em: 22/07/2024.
+Ação: de cancelamento de registro em banco de dados e indenizatória, ajuizada por JULE GLACIELA SILVA DA COSTA (fls. 3-6, e-STJ).
+Sentença: o Juízo de primeiro grau julgou improcedente a ação, condenando a recorrida ao pagamento das custas e despesas processuais e honorários advocatícios arbitrados em 10% sobre o valor atualizado da causa com correção monetária conforme a variação do IPCA desde a data da sentença e juros de mora de 12% ao ano desde a data do trânsito em julgado. Assinalou a suspensão da cobrança, tendo em vista a gratuidade de justiça deferida (fls. 61-65, e-STJ).
+Acórdão: conheceu e deu parcial provimento ao recurso de apelação interposto pela recorrida, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE CANCELAMENTO DE REGISTRO E INDENIZATÓRIA. NOTIFICAÇÃO POR E-MAIL. AUSÊNCIA DE CONFORMIDADE, RECEBIMENTO E LEITURA. INVALIDADE. DESCUMPRIMENTO DO ART. 43, § 2º, DO CDC. DANOS MORAIS NÃO CONFIGURADOS. SÚMULA 385, DO STJ.
+1) Trata-se de ação através da qual a parte autora, pretende que a recorrida seja condenada a cancelar os registros negativos existentes em seu nome, bem como a realizar o pagamento de indenização a título de danos morais, em virtude de ter incluído o seu nome no rol de inadimplentes, sem a sua prévia notificação, julgada improcedente na origem.
+2) A relação travada entre os litigantes é nitidamente de consumo, encontrando, portanto, amparo no Código de Defesa do Consumidor. Razão pela qual é imprescindível a comunicação prévia do consumidor acerca dos registros negativos, conforme dispõe o artigo 43, § 2º, do Código Consumerista e a Súmula n.º 359 da Corte Superior.
+3) Compulsando os autos, verifico que, para fins de comprovação da notificação exigida pelo art. 43, § 2º, do CDC, a parte ré acostou documento visando comprovar que efetivou a notificação da parte autora via e-mail, referente às dívidas nos valores de R$ 573,45 (..) e R$ 540,41 (..). No entanto, apesar da ré ter juntado tal documento, no qual teria informado a autora sobre a existência do débito, não é possível atestar a veracidade da mensagem eletrônica, tampouco se foi efetivamente enviado, recebido e lido pela parte autora. Ademais, não restou demonstrado nos autos que o número de telefone para qual foi enviada a comunicação pertencia à parte autora ou mesmo se o demandante tinha conhecimento da forma utilizada pela parte ré para a notificação de possíveis pendências, tratando-se, portanto, de documento produzido unilateralmente. Invalidade, pois, da notificação exigida no § 2º do art.43 do CDC.
+4) Desse modo, determino a baixa dos registros negativos referentes às dívidas nos valores de R$ 126,62 (..) e R$ 145,62 (..), cuja notificação válida não veio aos autos.
+5) No tocante aos danos morais, entendo que não merece provimento, isso porque, mediante documento juntado aos autos, constata-se que há existência de outros registros válidos negativados em nome da autora, sendo cabível a aplicação da Súmula 385 do STJ.
+APELAÇÃO PARCIALMENTE PROVIDA (fls. 102-120, e-STJ).
+Recurso especial: aponta violação ao parágrafo 2º. do art. 43 do CDC e dissídio jurisprudencial (fl.137-173, e-STJ).
+Juízo prévio de admissibilidade: o TJ/RS admitiu o recurso, assinalando repousar a controvérsia na validade da prévia notificação por meio eletrônico, a que alude o artigo 43, § 2º do Código de Defesa do Consumidor (fls. 198-205, e-STJ).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da notificação por meio eletrônico
+Recentemente, com a ressalva do meu entendimento pessoal, as duas Turmas que compõem a Seção de Direito Privado convergiram acerca da possibilidade da notificação prévia do consumidor sobre o registro do seu nome no cadastro de proteção ao crédito, nos termos do art. 43, § 2º, do CDC, ser realizada por meio eletrônico, desde que devidamente comprovados o envio e a entrega da notificação, os quais podem ser realizados por e-mail, mensagem de texto de celular (SMS) ou até mesmo pelo aplicativo whatsapp. Confira-se: REsp 2.092.539/RS, 3ª Turma, DJe 26/09/2024; REsp 2.063.145/RS, 4ª Turma, DJe 07/05/2024; AgInt no Resp 2.110.068/RS, 4ª Turma, DJe 19/04/2024.
+No tocante à comunicação acerca do registro do nome da recorrida no cadastro de proteção ao crédito, na sentença foi consignado o seguinte:
+Os avisos negados pela parte autora encontram-se documentalmente provados (evento 7, NOT2, evento 7, NOT3 e evento 7, NOT4), sendo encaminhado para o endereço conhecido do réu, dispensado recebimento pessoal; atenderam-se, assim, as disposições do §2º do art. 43 do CDC e Súmulas 359 e 404 do STJ.
+(..)
+Destarte, comprovado pela parte ré que os registros apontados pela parte autora foram precedido de notificação que serviu para dar ciência àquela sobre as dívidas, não há falar em cancelamento dos registros.
+No acórdão recorrido, foi destacada que a ausência de demonstração da leitura da destinatária, assinalando-se como inválida a notificação realizada por meio eletrônico:
+Em que pese já tenha me manifestado em sentido contrário, passo a adotar o entendimento de que a notificação enviada pelo correio eletrônico, não se presta para comprovação da notificação prévia insculpida no art. 43, §2 do CDC, sobretudo porque in casu, não juntada qualquer prova de adesão pela devedora a essa forma de notificação, acostando mera cópia de e-mail enviada por correio eletrônico atribuído à autora, não restando demonstrada a leitura da destinatária.
+(..)
+Dessa forma, imperiosa a reforma da sentença para determinar o cancelamento dos registros cuja notificação válida não foi juntada aos autos.
+De acordo com o entendimento fixado pelo STJ, exige-se que sejam devidamente comprovados o envio e a entrega da notificação, o que foi identificado pelas instâncias ordinárias.
+Logo, encontrando-se o entendimento da Corte de origem em divergência com a jurisprudência deste Tribunal, o recurso deve ser provido, com fundamento na Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para declarar como válida as comunicações do registro do nome do consumidor em cadastro de proteção ao crédito realizadas por meio eletrônico, restabelece ndo a sentença, inclusive quanto à sucumbência.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO DE CANCELAMENTO DE REGISTRO DO NOME DO CONSUMIDOR EM CADASTRO DE PROTEÇÃO AO CRÉDITO. NOTIFICAÇÃO PRÉVIA. MEIO ELETRÔNICO. POSSIBILIDADE. ENVIO E ENTREGA DA NOTIFICAÇÃO. PRECEDENTES.
+1. Ação de cancelamento de registro do nome do consumidor em cadastro de proteção ao crédito.
+2. A notificação prévia do consumidor acerca do registro do seu nome no cadastro de proteção ao crédito, nos termos do art. 43, § 2º, do CDC, pode ser realizada por meio eletrônico, desde que devidamente comprovados o envio e a entrega da notificação. Precedentes.
+3. Recurso especial conhecido e provido.
