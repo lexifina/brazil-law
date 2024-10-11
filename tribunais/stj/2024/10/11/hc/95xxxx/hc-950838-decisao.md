@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de THIAGO FELISBERTO DOS REIS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução Penal n. 0005405-47.2024.8.26.0496).
+Depreende-se dos autos que o Juízo de primeiro grau deferiu pedido de detração da reprimenda, "computando-se na pena privativa de liberdade imposta o período compreendido entre a data do início do benefício da liberdade provisória no curso da ação penal até a data do v. acórdão, considerando-se para tal fim, 1 (um) dia de detração a cada 24 (vinte e quatro) horas de recolhimento noturno obrigatório, tendo-se como base 7 (sete) dias por semana, das 21 horas às 5 horas do dia seguinte (ou seja, oito horas por dia de recolhimento noturno) no período de 19/10/2020 a 17/11/2022" (e-STJ fls. 121/122).
+Interposto agravo em execução penal, o Tribunal de origem não conheceu do recurso, em virtude da sua intempestividade e da inviabilidade de supressão de instância (e-STJ fls. 132/140).
+Daí o presente writ, no qual a defesa alega que, "no caso presente, não há, no processo de conhecimento (nº 1500009-69.2020.8.26.0588), qualquer decisão que tenha revogado as medidas cautelares", que "foram mantidas na sentença condenatória, de modo que, tendo sobrevindo acórdão confirmatório de tal decisão, as cautelares continuaram vigentes até o trânsito em julgado da condenação" (e-STJ fl. 8).
+Sustenta, ainda, que, "durante todo o período em que esteve sujeito às medidas cautelares, o paciente permaneceu em seu domicílio durante os finais de semana em período integral (24 horas por dia)", de forma que "cabe ao Estado o ônus de provar o contrário, conforme o disposto no § 3º do art. 282 do CPP" (e-STJ fl. 9).
+Diante dessas considerações, requer (e-STJ fl. 10):
+1. A concessão de medida liminar para expedição de alvará de soltura, permitindo que o paciente aguarde o julgamento do mérito deste habeas corpus em regime de prisão albergue domiciliar.
+2. No mérito, o conhecimento da presente impetração e a concessão da ordem, ainda que de ofício, para determinar a retificação do cálculo de liquidação de penas. Tal retificação deve considerar a detração referente ao período de cumprimento das medidas cautelares de recolhimento noturno e aos finais de semana, compreendendo o intervalo entre a data de início da vigência das cautelares (19.10.2020) e o trânsito em julgado da sentença penal condenatória (08.11.2023), com a contagem de 24 horas para os finais de semana (sábados e domingos), em vez das 8 horas reconhecidas pelo Juízo da execução criminal.
+É o relatório.
+Decido.
+O writ não merece conhecimento.
+Conforme relatado, a Corte local não conheceu do agravo em execução penal interposto na origem, em virtude da intempestividade e da inviabilidade de supressão de instância.
+Todavia, no presente habeas corpus, a defesa não se insurge contra tais fundamentos, limitando-se a debater o período e as horas a serem considerados para a detração da pena, matérias que não foram enfrentadas pelo Tribunal de origem no acórdão impugnado, o que impede o Superior Tribunal de Justiça de analisar o tema, sob pena de incorrer em indevida supressão de instância.
+Logo, ante a falta de manifestação do colegiado estadual sobre a matéria, percebe-se a incompetência desta Corte Superior para seu processamento e julgamento, já que inexiste, no ponto, ato a ser imputado à autoridade coatora, nos termos do art. 105, I, c, e II, a, da Constituição Federal, bem como do art. 13, I, b, do Regimento Interno do Superior Tribunal de Justiça (RISTJ).
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE ROUBOS CIRCUNSTANCIADOS E ASSOCIAÇÃO CRIMINOSA. NULIDADE DAS INVESTIGAÇÕES REALIZADAS NA FASE INQUISITORIAL E INÉPCIA DA DENÚNCIA PELA AUSÊNCIA DE JUSTA CAUSA. TESES NÃO DEBATIDAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não obstante os esforços do agravante, a decisão deve ser mantida por seus próprios fundamentos.
+2. A tese de reconhecimento de inépcia da denúncia por ausência de justa causa em razão das referidas ilegalidades, bem como a pretensão de reconhecimento das nulidades na fase inquisitorial, sob o ângulo explicitado pela defesa, não foram objeto de análise pelo Tribunal a quo. Dessa forma, esta Corte Superior de Justiça está impedida de pronunciar-se diretamente sobre a matéria, sob pena de atuar em indevida supressão de instância 3. Ademais, registra-se que "a orientação desta Corte preconiza que "eventuais máculas na fase extrajudicial não tem o condão de contaminar a ação penal, dada a natureza meramente informativa do inquérito policial." (AgRg no AREsp 898.264/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 7/6/2018, DJe 15/6/2018)" (AgRg no AREsp 1.489.936/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 6/4/2021).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 794.135/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/6/2023, DJe de 9/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE DROGAS. INÉPCIA DA DENÚNCIA. TRANCAMENTO DA AÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA.
+1. Não debatidas nas instâncias ordinárias as matérias aqui trazidas, fica esta Corte impedida de se manifestar sobre tais questões, sob pena de indevida supressão de instância.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 795.469/CE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 7/2/2023, DJe de 10/2/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. INÉPCIA DA DENÚNCIA. TESE NÃO EXAMINADA PELA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA. PRONÚNCIA. AFASTAMENTO DA QUALIFICADORA DO MOTIVO TORPE. IMPOSSIBILIDADE. COMUNICABILIDADE AO CORRÉU QUE TINHA CIÊNCIA DA MOTIVAÇÃO E A ELA ADERIU. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Verifica-se que a Corte de origem não examinou a alegação de inépcia da denúncia ante a falta de indicação do credor da dívida. Logo, inviável o acolhimento da pretensão, sob pena de indevida supressão de instância.
+2. A jurisprud ência do STJ assentou que a motivação do crime não é elementar do crime e que, por ser uma circunstância pessoal, não se comunica automaticamente aos coautores. Entretanto, poderá o coacusado responder por homicídio qualificado nos casos em que tiver conhecimento acerca do móvel do crime e a ele haja aderido, como na hipótese.
+5. Agravo regimental não provido.
+(AgRg no HC n. 759.325/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
