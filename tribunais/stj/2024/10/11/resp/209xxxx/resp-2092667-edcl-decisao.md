@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DALVA CARVALHO PINHO e OUTROS contra decisão de indeferimento do pedido de justiça gratuita (fls. 1.012-1.013).
+Apontam as partes embargantes, em síntese, a ausência de elementos para o indeferimento do pleito. Enfatizam, ademais, a possibilidade de realizar o pedido de gratuidade da justiça a qualquer tempo, fase processual e grau de jurisdição.
+Requerem o acolhimento dos presentes embargos "para garantir a necessária concessão do benefício da gratuidade de justiça" (fl. 1.031).
+Contrarrazões à fl. 1.061.
+É o relatório.
+A pretensão recursal não comporta acolhimento.
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do art. 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+No caso, observa-se que foi analisada fundamentadamente a questão submetida a esta relatoria, de modo que o decisum embargado não incorreu em quaisquer dos vícios acima mencionados. Confira-se o seu teor (fl. 1.012):
+Indefiro o pleito de justiça gratuita, formulado às fls. 992-996 (Pet n. 00691162/2024), porquanto "o entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça" (AgInt no AREsp 1.563.316/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/2/2020). No mesmo sentido: AgInt no AREsp n. 2.568.814/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 15/5/2024; AgInt no AREsp n. 2.501.062/GO, relator Ministro Marco Buzzi, Quarta Turma, DJe de 26/6/2024; e AgInt no AgInt no REsp n. 2.099.866/DF, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.
+O recurso aclaratório possui finalidade integrativa e não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme se pretende. Nesse sentido: EDcl no AgInt no AgInt no AREsp n. 1.545.376/SP, rel. Min. Afrânio Vilela, Segunda Turma, DJe de 15/8/2024; EDcl nos EDcl no AgInt no AREsp n. 2.338.340/SE, rel. Min. Teodoro Silva Santos, Segunda Turma, DJe de 23/4/2024 e EDcl no AgInt nos EDcl no AREsp n. 2.436.416/MS, rel. Min. Sérgio Kukina, Primeira Turma, DJe de 15/8/2024.
+Do mesmo modo, é reiterado o entendimento desta Corte Superior de que o julgador não está obrigado a responder um a um todos os argumentos trazidos pelas partes, visando à defesa das teses que aprese ntaram, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. Nessa linha: AgInt no REsp n. 2.082.059/RS, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 7/3/2024; EDcl no AgInt no AREsp n. 1.891.964/TO, rel. Min. Herman Benjamin, Segunda Turma, DJe de 25/4/2022.
+Por fim, advirto a parte de que a reiteração injustificada dos embargos de declaração, versando sobre o mesmo assunto, acarretará a consideração de que o recurso é manifestamente protelatório, ensejando a imposição da multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. PROCESSO CIVIL. GRATUIDADE DE JUSTIÇA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NA DECISÃO EMBARGADA. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
