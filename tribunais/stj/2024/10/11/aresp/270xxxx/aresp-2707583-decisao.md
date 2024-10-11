@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DOMINGAS VITORIA CARLOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+PROCESSO CIVIL. CONSTITUCIONAL APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO COLETIVA  6.542/2005 PROMOVIDA PELO SINTSEP. ILEGITIMIDADE ATIVA. AUXILIAR DE SERVIÇOS GERAIS. PROVA DE EXERCÍCIO NO ENSINO BÁSICO. NÃO COMPROVAÇÃO DA QUALIDADE DE BENEFICIÁRIO/SUBSTITUÍDO. SERVIDOR QUE PERTENCE A CATEGORIA ESPECÍFICA DE SINDICATO PRÓPRIO DEIXA DE SER REPRESENTADO PELO SINDICATO MAIS ABRANGENTE. TRANSPORTE IN UTILIBUS DA COISA JULGADA. INAPLICABILIDADE APELO QUE SE NEGA PROVIMENTO.
+Quanto à controvérsia, aduz ofensa e interpretação divergente ao art. 508 do CPC, no que concerne ao reconhecimento da eficácia preclusiva da coisa julgada atinente à legitimidade ad causam para propositura de execução individual decorrente de ação coletiva, trazendo os seguintes argumentos:
+Em verdade, além de não ocorrer ilegitimidade in casu, como já falado, porém, sem adentrar nesse ponto especificamente por ser uma temática que dependa de análise de provas e fatos, a matéria acolhida pelo Tribunal Estadual, embora se trate, especificamente de legitimidade ad causam, sendo matéria de ordem pública relacionada às condições da ação, este Superior Tribunal de Justiça já se posicionou no sentido de que ela também está sujeita a preclusão e é exatamente o que ocorreu na espécie, conforme se demonstrará.
+Note-se que, na origem, o processo de conhecimento 6542/2005 dependeu de liquidação coletiva por arbitramento, tendo como um dos participantes a parte Exequente. Fase essa que durou cerca de 10 anos.
+Note-se também que já houve apuração dos percentuais de perda salarial pela Contadoria Judicial e houve decisão posterior homologando e transitando em julgado.
+Conclui-se que a matéria foi atingida pela PRECLUSÃO, na medida em que transitou em julgado a parte da decisão proferida na fase de conhecimento e liquidação que condenou e homologou os percentuais devidos, reconhecendo, assim, ainda que implicitamente, a legitimidade ativa ad causam.
+ ..
+E é o que ocorre no caso ora em análise, à medida que as partes constam dos autos desde 2009, figurando como requerentes da fase de liquidação por arbitramento, sem qualquer impedimento, com posterior decisão de homologação.
+COM ISSO, NÃO HÁ O QUE SE FALAR EM ILEGITIMIDADE A ESSA ALTURA, POR RESTAR CARACTERIZADA A PRECLUSÃO, CONFORME ENTENDIMENTO FIRMADO PELO STJ NO SENTIDO DE QUE AS MATÉRIAS DE ORDEM PÚBLICA - EMBORA POSSAM SER TRATADAS A QUALQUER TEMPO - TAMBÉM ESTÃO SUJEITAS A PRECLUSÃO.
+ ..
+Por isso, uma vez existindo a coisa julgada da decisão que homologou os cálculos, sendo a Recorrente participante dessa fase de liquidação, a coisa julgada passou a vinculá-la, e o título e sua liquidez passou a ser seu patrimônio jurídico.
+É cediço que a legitimidade é matéria de ordem pública cognoscíveis a qualquer tempo e grau de jurisdição, entretanto está sujeita a preclusão do 508 e pela coisa julgada, (art. 485, VI, § 3º, do CPC/15) (fls. 694-698).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento da tese recursal objeto da divergência, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Nesse sentido: "A ausência de debate, no acórdão recorrido, acerca da tese recursal, também inviabiliza o conhecimento do recurso especial pela divergência jurisprudencial, pois, sem discussão prévia pela instância pretérita, fica inviabilizada a demonstração de que houve adoção de interpretação diversa". (AgRg no AREsp n. 1.800.432/DF, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/03/2021.)
+Sobre o tema, confira-se ainda o seguinte julgado: AgInt no AREsp n. 1.516.702/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/12/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
