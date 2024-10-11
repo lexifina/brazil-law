@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SERGIO ANDRE FERREIRA LIMA SEABRA DE NORONHA com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em julgamento da Apelação Criminal n. 0065750-71.2015.8.26.0050.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 1º, IV e V, da Lei n. 8.137/90 (sonegação fiscal), à pena de 3 anos e 4 meses de reclusão, em regime inicial aberto, e 16 dias-multa, substituída por duas penas restritivas de direitos (fl. 1461).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 1886). O acórdão ficou assim ementado:
+"PRELIMINAR PRESCRIÇÃO não ocorrência prescrição que começa a contar com a constituição do crédito Súmula Vinculante nº 24 que se aplica aos fatos, mesmo sendo posterior entendimento do Superior Tribunal de Justiça rejeitada a preliminar. SONEGAÇÃO FISCAL materialidade auto de infração e prova oral confirmam que houve redução do valor a ser pago a título de ICMS, fraudando a fiscalização tributária ao utilizar documentos que sabia ou deveria saber serem falsos ou inexatos, ocasionando grave dano à coletividade réu notificado pelo fisco para comprovar a efetividade da relação comercial com a empresa Leval acusado que junta apenas duplicatas apenas com rubrica inelegível e sem qualquer aceite não comprovando nenhum pagamento das mercadorias por outra via débito definitivamente inscrito em dívida ativa. SONEGAÇÃO FISCAL - autoria - prova oral e documentos que confirmam a prática delitiva pelo réu Sérgio. PENAS primeira fase base no piso para cada um dos crimes segunda fase pena inalterada ausentes circunstâncias agravantes e atenuantes Ministério Público que busca a aplicação da agravante prevista no artigo 61, inciso II, alínea "g", do Código Penal (violação inerente ao cargo) o exercício da função ou profissão empresarial está ínsita aos crimes de sonegação fiscal e a aplicação da mencionada agravante acarretaria bis in idem não provimento ao recurso ministerial terceira fase pena no piso ausentes causas de aumento ou de diminuição Ministério Público busca pede o reconhecimento da majorante relativa ao dano à coletividade prevista no artigo 12, inciso I, da Lei nº 8.137/90 dano que deveria ter sido comprovado e realmente deveria ser "grave" não demonstrado nos autos não provimento ao recurso ministerial aplicada continuidade delitiva com aumento de 2/3 quantidade de crimes ações ilícitas que ocorreram por 10 meses substituição restritivas de direitos prestação de serviços e multa manutenção. REGIME aberto primariedade do réu e o quantum da pena não provimento ao apelo defensivo" (fl. 1877).
+Embargos de declaração opostos pela defesa foram rejeitados (fl. 1914). O acórdão ficou assim ementado:
+"EMBARGOS DE DECLARAÇÃO inexistência de contradição, obscuridade e omissão no acórdão caráter infringente visando rediscutir matéria exaustivamente debatida utiliza os embargos como uma segunda apelação descabimento do prequestionamento rejeição dos embargos." (fl. 1909).
+Em sede de recurso especial (fls.1921/1948), a defesa apontou violação ao art. 937, §§ 2º e 4º, do CPC e art. 564, IV, do CPP, sustentando, em síntese, a nulidade da sessão de julgamento que indeferiu o pleito referente à realização de sustentação oral.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 2046/2051).
+Admitido o recurso no TJ (fl. 2063), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do recurso especial (fls. 2119/2121).
+É o relatório.
+Decido.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO indeferiu o pleito de sustentação oral, porquanto, no momento oportuno, não foi realizada inscrição para o ato, consoante trecho do acórdão recorrido (fl. 1912):
+"Quanto a sustentação oral foi indeferida na sessão do dia 11/11/2021, uma vez que não houve a inscrição para a sessão seguinte após o deferimento do adiamento na sessão do dia 26.08.2021, como se vê nos autos a folhas 1.870."
+Não há nulidade por cerceamento de defesa nos casos de indeferimento de pedido de sustentação oral formalizados a destempo pelo patrono, conforme disposição no regimento interno do Tribunal de origem.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALSIDADE IDEOLÓGICA. ESTELIONATO NA FORMA TENTADA. NULIDADE DO JULGAMENTO DO RECURSO DE APELAÇÃO. PEDIDO DE SUSTENTAÇÃO ORAL INDEFERIDO. INTEMPESTIVIDADE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há cerceamento de defesa nos casos de indeferimento de pedido de sustentação oral formalizados a destempo pelo patrono.
+2. Na hipótese, o indeferimento do pedido de cadastramento para a realização da sustentação oral deu-se em conformidade com o Regimento Interno do Tribunal de Justiça de Santa Catarina, que prevê o prazo impreterível de inscrição, até 12 horas do dia útil anterior à data da sessão.
+3. Vale ressaltar que a pendência de pedido de diligência não é fator impeditivo da inscrição e da realização da defesa oral. Por isso, não interfere na contagem do referido prazo.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 751.511/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/10/2022, DJe de 18/10/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. APLICABILIDADE DO CPC/2015. SERVIDOR PÚBLICO ESTADUAL. SUSTENTAÇÃO ORAL. PEDIDO A DESTEMPO. INDEFERIMENTO. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. AFRONTA À CLÁUSULA DE RESERVA DE PLENÁRIO NÃO EVIDENCIADA. DECADÊNCIA ADMINISTRATIVA. NÃO OCORRÊNCIA. ACUMULAÇÃO DE CARGOS PÚBLICOS. PEDAGOGO. CARGO TÉCNICO-CIENTÍFICO. DILAÇÃO PROBATÓRIA. DESCABIMENTO.
+ ..
+2. Não há cerceamento de defesa nos casos de indeferimento de pedido de sustentação oral formalizados a destempo pelo patrono.Precedente.
+ ..
+6. Agravo interno não provido.
+(AgInt nos EDcl no RMS n. 64.859/ES, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, nego-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
