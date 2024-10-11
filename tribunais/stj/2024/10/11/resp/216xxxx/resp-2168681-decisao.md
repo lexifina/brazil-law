@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado (fl. 25):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PRETENSÃO DE RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. AFASTADA. TEMA 880 DO STJ INAPLICÁVEL AO CASO. DISTINGUISHING. AUTOS DE OBRIGAÇÃO DE FAZER PARALISADOS PARA REALIZAÇÃO DE ACORDO, POR SOLICITAÇÃO DAS PARTES. SUSPENSÃO TAMBÉM DO PRAZO PRESCRICIONAL. NÃO DEMONSTRADA INÉRCIA DOS EXEQUENTES/AGRAVADOS. RESPONSABILIDADE PELA PARALISAÇÃO DOS AUTOS NÃO IMPUTÁVEL À PARTE RECORRIDA. MANUTENÇÃO DA DECISÃO DE AFASTAMENTO DA PRESCRIÇÃO AGRAVO DESPROVIDO
+Os embargos de declaração opostos foram rejeitados (fls. 59-71).
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte ora recorrente aponta violação dos arts. 197 a 202 do Código Civil, 523, 524, §§ 3º e 4º, e 534, §3º, do CPC, assim como ao art. 1º do Decreto n. 20.910/1932 e aos Temas n. 880 e 887 do STJ, sustentando, em síntese, que (fls. 79-93):
+(i) o prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva(Tema 877/STJ);
+(ii) os prazos das obrigações de fazer e pagar fluem paralelamente, desde o trânsito em julgado (EREsp 1.169.126/RS e REsp 1.340.444/RS);
+(iii) o credor individual tinha a possibilidade de solicitar ao setor de recursos humanos competente os documentos necessários para elaboração dos cálculos individuais, se não tivessem guardado seus contracheques ou fossem necessárias fichas financeiras ou documentos que não estivessem disponíveis no portal da internet a que tinha acesso;
+(iv) não é caso de aplicação da versão modulada do Tema 880/STJ (artigos 523, 524, §3º, §5º, 534, do CPC);
+(v) o cumprimento individual de sentença, apto a afetar o prazo prescricional foi apresentado quando já escoado o prazo do artigo 1º. do Decreto 20.910/32;
+(vi) o credor individual não demonstrou a presença das causas suspensivas ou interruptivas da prescrição, previstas nos artigos 197 e 202 do Código Civil(rol taxativo).
+Requer, assim, o provimento do recurso.
+Sem contrarrazões apresentadas pela parte autora (fl. 104).
+O recurso especial foi admitido pelo Tribunal de origem (fls. 99-101).
+É o relatório. Decido.
+Na origem, trata-se de agravo de instrumento manejado contra decisão que rejeitou a impugnação ao cumprimento de sentença apresentada pelo Estado do Paraná quanto à ocorrência do instituto da prescrição, condenando a parte executada ao pagamento das despesas processuais e honorários advocatícios em 10% (dez por cento) sobre o valor da condenação (fls. 17-19 do apenso 1).
+O Tribunal local negou provimento ao agravo do Estado, acórdão mantido em sede de embargos.
+Daí a interposição do presente recurso especial.
+O Tribunal Paranaense, ao afastar a prescrição, consignou o que se segue (fls. 26-33):
+ ..
+Conforme relatado, trata-se de execução individual de sentença proferida na Ação Coletiva 1560/2008 (0003203-59.2008.8.16.0004), cujo trânsito em julgado ocorreu em 08/04/2016, conforme mov. 858 daqueles autos.
+No presente caso, ocorreu o prévio ajuizamento de cumprimento da obrigação de fazer (autos nº 0008041-64.2016.8.16.0004) em 08/11/2016, tendo o executado cumprido com a entrega da documentação (CD com as fichas financeiras) em 14/05/2019, em seq. 53 dos mencionados autos.
+Ocorre que as partes entraram em tratativas de acordo, sendo então determinada a suspensão do feito por 60 (sessenta) dias em 06/10/2020, (mov. 86), com renovação da suspensão por mais 90 (noventa dias) em 05/03/2021, conforme mov. 279 dos mencionados autos.
+Considerando que o acordo não logrou êxito, o feito retomou seu prosseguimento em 30/11/2021, conforme mov. 1620.1 dos mencionados autos de obrigação de fazer, período no qual centenas de execuções individuais foram propostas pelos substituídos, para recebimento dos valores.
+Observa-se, portanto, que entre a data do trânsito em julgado (08/04/2016) e a data da 1ª suspensão (06/10/2020) se passaram 4 anos e 6 meses.
+O feito permaneceu suspenso entre 06/10/2020, tendo sido renovada a suspensão em 05/03/2021 e somente tendo retomado o prosseguimento em 30/11/2021.
+Assim, correta a conclusão do juízo de primeiro grau de que o prazo prescricional foi retomado a partir de 30/11/2021, restando ainda 6 meses para que os substituídos possam ajuizar o cumprimento individual, vindo a encerrar-se em 30/05/2022.
+De fato, no caso em questão não há como se ignorar os prazos de suspensão, postulados pelas próprias partes, que tentaram uma composição amigável para resolução e que, por motivos alheios, o acordo não se concretizou. A parte não pode ser penalizada por aguardar a realização de possível acordo.
+Além disso, seria incorreto reconhecer a prescrição intercorrente quando não se tem elementos que comprovem a inércia da parte credora, que é pressuposto para configuração do referido instituto.
+ ..
+Deve ser mantida, portanto, a decisão agravada na parte em que afasta a ocorrência da prescrição intercorrente.
+Ante todo o exposto, há que se negar provimento ao agravo de instrumento.
+Com efeito, por simples cotejo entre as razões do recurso especial e a motivação do acórdão recorrido, observa-se que ficaram incólumes, nas razões recursais, os fundamentos do julgado impugnado, no caso concreto - no sentido de que "não há como se ignorar os prazos de suspensão, postulados pelas próprias partes, que tentaram uma composição amigável para resolução e que, por motivos alheios, o acordo não se concretizou. A parte não pode ser penalizada por aguardar a realização de possível acordo" -, uma vez que a parte recorrente adotou razões recursais genéricas, dissociadas da fundamentação do acórdão objurgado, deixando de impugnar, especificamente, seus fundamentos, pelo que incidem, na espécie, por analogia, as Súmulas n. 283 e n. 284 do STF.
+Com efeito, à luz do princípio da dialeticidade, não basta a parte recorrente manifestar o inconformismo e a vontade de recorrer; precisa impugnar todos os fundamentos suficientes para sustentar o acórdão recorrido, demonstrando, de maneira discursiva, por que o julgamento, proferido pelo Tribunal de origem, merece ser modificado.
+Nesse sentido, os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIAPOR DANOS MORAIS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. AGRAVOINTERNO NÃO PROVIDO.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+2. A Corte local, com base nos elementos de provas dos autos, concluiu pela conduta abusiva praticada pela agravante a ensejar o reconhecimento do abalo moral. Dissentir dessa conclusão é inviável no âmbito do recurso especial, haja vista o impedimento da Súmula n. 7/STJ.
+3. Agravo interno não provido. (AgInt no AREsp 1.791.446/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 24/08/2021; sem grifos no original.)
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA COLETIVA. PRESTAÇÃO CONTINUADA. FAZENDA PÚBLICA. PRESCRIÇÃO. OCORRÊNCIA. DEFICIÊNCIA RECURSAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. APLICAÇÃO DOS ENUNCIADOS N.283 E 284, AMBOS DO STF.
+I - Na origem, trata-se de agravo de instrumento interposto pelo INSS contra decisão que, em execução individual de sentença coletiva, rejeitou a alegação de prescrição da pretensão executória. No Tribunal a quo, a decisão foi reformada para reconhecer a prescrição. Nesta Corte, conheceu-se do agravo para não conhecer do recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que as razões recursais apresentadas pelo recorrente estão dissociadas dos fundamentos do acórdão recorrido. No recurso especial, o recorrente insurge-se quanto a não consumação da prescrição da pretensão executória, enquanto, no acórdão recorrido, assevera que a prescrição quinquenal em face da Fazenda Pública, uma vez interrompida, recomeça acorrer pela metade do prazo, contada da data do ato que a interrompeu.
+III - O fundamento do acórdão recorrido, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF.
+IV - Esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+V - Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+VI - Agravo interno improvido. (AgInt no AREsp 1.775.664/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 10/06/2021; sem grifos no original.)
+Ademais, verifica-se que a parte recorrente não demonstrou no que consistiu a suposta ofensa aos arts. 524, §§ 3º, 4º e 5º, 534, §3º, e 536, do CPC, o que atrai, novamente, a incidência da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Ante o exposto, com fundamento no art. 932 do CPC, NÃO CONHEÇO do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 19 do apenso 1 ), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. DEFICIÊNCIA RECURSAL. INCIDÊNCIA DA SÚMULA N. 284 DO STF. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA N. 283 DO STF. RECURSO ESPECIAL NÃO CONHEC IDO .
