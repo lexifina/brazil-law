@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pelo Ministério Público de Goiás contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça local (Apelação Criminal n. 397179-48.2011.8.09.0162) que absolveu Gerson de Queiroz Caixeta do crime de uso de documento falso.
+Nas razões do recurso especial, o órgão ministerial suscitou contrariedade aos arts. 304 do Código Penal e 133 da Lei n. 9.503/1997 (fls. 671/680).
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 7STJ (fls. 700/702).
+Contra o decisum o órgão ministerial interpôs o presente agravo (fls. 708/715).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo provimento do recurso, nos termos do parecer assim ementado (fl. 776):
+MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL, COMO CUSTOS IURIS, NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO N.º 7 DA SÚMULA DO STJ. REVALORAÇÃO DOS ELEMENTOS FÁTICO-PROBATÓRIOS DELINEADOS NO ACÓRDÃO RECORRIDO. POSSIBILIDADE. INAPLICÁVEL O ALUDIDO VERBETE SUMULAR. CONSUMAÇÃO DO DELITO. CRIME DE USO DE DOCUMENTO FALSO. ARTIGO 304 DO CP. FALSICAÇÃO DE DOCUMENTO DE PORTE OBRIGATÓRIO. CONSUMAÇÃO PERFECTIBILIZADA COM O MERO ATO DE CONDUZIR CONSIGO O DOCUMENTO FALSIFICADO.
+1. "A revaloração dos elementos probatórios constantes da denúncia, sentença e do acórdão recorridos, não implicam revolvimento das provas dos autos, sendo admissível na via do especial para fins de fixação da interpretação da legislação federal" (AgInt no AR Esp n.º 1.025.266-SC, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, D Je de 2/3/2017.).
+2. No caso, a pretensão do agravante se limita a discussão de matéria exclusivamente jurídica, apta a ser integralmente analisada à luz dos elementos fático-probatórios delineados no acórdão recorrido, o que afasta a incidência do óbice do Enunciado n.º 7 da Súmula do Superior Tribunal de Justiça e possibilita a apreciação do mérito do recurso especial.
+3. Hipótese em que a parte agravada foi absolvida pelo crime de uso de documento falso, ao fundamento de que, "para a perfectibilização do delito tipificado no artigo 304 do Código Penal, "é indispensável a utilização efetiva do documento falso, sendo insuficiente a simples alusão"" (fl. 677).
+4. Em verdade, para a consumação do crime descrito no artigo 304 do Código Penal  quando se tratar de documento cujo porte seja obrigatório por força de determinação legal  é despiciendo que o agente apresente, por vontade própria ou mediante requisição de autoridade pública, o documento falsificado, bastando, para tal, que o indivíduo esteja conduzindo consigo o aludido documento na ocasião da abordagem, o que se entende pela expressão "fazer uso" descrita no caput do referido dispositivo.
+5. Manifestação do Ministério Público Federal pelo conhecimento do presente agravo e, quanto ao mérito, pelo seu provimento, para que seja conhecido e provido o recurso especial.
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Quanto ao recurso especial, verifico que a questão suscitada no reclamo, em princípio, não encontra óbice na Súmula 7/STJ. Ademais, não localizei precedentes anteriores sobre o tema - discussão acerca da tipicidade da conduta de portar Certificado de Registro e Licenciamento de Veículo (CRLV) falso à luz da disposição contida no art. 133 da Lei n. 9.503/1997 -, de modo que reputo adequada a submissão da questão ao colegiado.
+Assim, conheço do agravo para determinar sua autuação como recurso especial (art. 253, parágrafo único, II, d, do RISTJ).
+Publique-se.
+EMENTA
