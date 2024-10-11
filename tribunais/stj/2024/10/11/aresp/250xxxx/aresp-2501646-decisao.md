@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WILMAR VIEIRA KOURROWSKI (ESPÓLIO), representado por VIRGÍNIA ANGÉLICA MENDES DE OLIVEIRA, contra decisão que inadmitiu recurso especial com fundamento na ausência de negativa de prestação jurisdicional e na incidência das Súmulas n. 284 do STF, 83 e 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Pernambuco em Agravo de instrumento n. 0009545-17.2020.8.17.9000.
+O julgado foi assim ementado (fl. 111):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. BENEFÍCIO DA JUSTIÇA GRATUITA. INVENTARIANTE. INDEFERIMENTO DO BENEFÍCIO.
+Os embargos de declaração opostos foram rejeitados (fl. 131).
+Em suas razões recursais, alega a ora agravante que a decisão recorrida contrariou os arts. 1.022, II e III, 98, § 5º, e 99, § 1º, ambos do CPC, por conter o acórdão erro material, na medida em que confundiu o espólio com uma pessoa jurídica e foi omisso ao não apontar quais seriam os documentos necessários para embasar o direito à concessão da justiça gratuita.
+Alega que as empresas nas quais o espólio tem participação societária estão inaptas, a comprovar a ausência de recursos.
+Requer o provimento do recurso para o fim de conceder a justiça gratuita à ora agravante ou deferir o pagamento das custas para o final do processo.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Tratam os autos de impugnação à decisão interlocutária proferida pelo Juízo da 2ª Vara de Sucessões e Registros Públicos da Capital que, nos autos do Processo n. 0037430-85.2019.8.17.2001, indeferiu o pedido de assistência judiciária gratuita formulado pela ora agravante e determinou o recolhimento das custas processuais.
+Em agravo de instrumento interposto pela agravante, o Tribunal local manteve a decisão de primeira instância, negando provimento ao recurso.
+No presente recurso especial, discute-se a possibilidade de deferimento da justiça gratuita ao espólio.
+De início, afasta-se a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+A respeito do alegado erro material e da omissão no tocante ao indeferimento da gratuidade da justiça ao espólio, os embargos de declaração registraram que não havia comprovação, por parte da agravante/inventariante, de que as empresas pertencentes ao espólio estariam inativadas e que não possuíam mais valor no mercado. A saber (fl. 130):
+Na hipótese dos autos, contudo, não se evidenciam os vícios apontados. Todos os argumentos capazes de, em tese, infirmar as conclusões adotadas no acórdão foram devidamente enfrentados, conforme determina o art. 489, §1º, inciso IV, do CPC. O que o EMBARGANTE pretende, na verdade, é rediscutir o mérito da decisão, o que é inadmissível nesta via recursal.
+Registre-se, por oportuno, que no acórdão recorrido restou assente que apesar da "alegação de que as empresas estão inativas, não há nenhuma comprovação de que não possuem mais valor no mercado".
+Assim, tendo matéria sido examinada de forma satisfatória e não restando caracterizados quaisquer dos vícios elencados no art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos declaratórios, pois esta não é a via recursal adequada para rediscutir o mérito da decisão.
+Diante do exposto, VOTO NO SENTIDO DE REJEITAR os presentes EMBARGOS DE DECLARAÇÃO.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Da assistência judiciária gratuita
+O Superior Tribunal de Justiça já fixou entendimento no sentido de que a declaração de pobreza objeto do pedido de assistência judiciária implica presunção relativa de veracidade, que pode ser afastada se o magistrado entender que há fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado.
+Nesse sentido, confiram-se os seguintes julgados: AgInt no AREsp n. 1.983.350/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/3/2022, DJe de 25/4/2022; AgInt no AREsp n. 1.837.835/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/9/2021, DJe de 30/9/2021; e AgInt no AREsp n. 1.372.130/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/11/2018, DJe de 20/11/2018.
+Ademais, "o critério jurídico para avaliação de concessão do benefício da gratuidade de justiça se perfaz com a análise de elementos dos autos, considerando que o magistrado pode analisar a real condição econômico-financeira do requerente. Verificar se a parte é realmente hipossuficiente de modo a obter tal benefício não limita o magistrado a averiguar apenas a renda da parte solicitante da benesse" (AgInt no AREsp n. 1.022.432/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/5/2017, DJe de 19/5/2017).
+Observa-se que o acórdão recorrido não divergiu desse entendimento.
+No caso, o Tribunal de origem, analisando todo o acervo fático-probatório dos autos, concluiu pela inexistência de comprovação da hipossuficiência da ora agravante, visto estar na condição de inventariante dos bens do espólio, nestes termos (fl.110, destaquei):
+Entretanto, na hipótese dos autos, a autora é inventariante, devendo-se analisar se os bens do Espólio são suficientes para arcar com as despesas processuais.
+In casu, o juiz a quo indeferiu o benefício da gratuidade fundamentado na verificação dos bens deixados pelo espólio e porque o pedido foi realizado durante o curso da ação.
+Consoante Declaração de bens (ID 58854962 dos autos de origem) percebe-se que o espólio de Wilmar Kourrowski deixou Participação societária na empresa Bahia Mecanização Agrícola e Construções LTDA, detendo 989.418 quotas equivalente a 87,66% do capital social; Participação societária na empresa Nova Selva Agrícola e Pecuária LTDA, detendo 1.669 quotas equivalente a 0,38% do capital social; Participação societária na empresa 4 de Outubro Hotéis e Turismo LTDA, detendo 12.549 quotas equivalente a 75% do capital social; Participação societária na empresa Barra S/A Agricultura e Pecuária.
+No que pese a alegação de que as empresas estão inativas, não há nenhuma comprovação de que não possuem mais valor no mercado ou que o pagamento de 05 salários mínimos a título de honorários periciais - já que a própria parte havia recolhido custas, sinalizando poder arcar com as demais despesas processuais - iria servir como óbice para a sucessão.
+Ante o exposto, voto no sentido de NEGAR PROVIMENTO ao agravo de instrumento.
+Concluir de forma contrária ao decidido e aferir se a parte não possui condições de arcar com as custas processuais, conforme alega nas razões do recurso especial, atrai a incidência da Súmula n. 7 do STJ.
+A propósito, os seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. JUSTIÇA GRATUITA. INDEFERIMENTO. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. A jurisprudência do STJ admite a concessão dos benefícios da justiça gratuita ao espólio, quando demonstrada sua hipossuficiência. Não demonstrada, indefere-se o pedido.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. A ausência de indicação do dispositivo de lei federal supostamente violado impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.600.938/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. BEM DE FAMÍLIA. IMPENHORABILIDADE. MATÉRIA DE ORDEM PÚBLICA. MANIFESTAÇÃO JURISDICIONAL ANTERIOR. PRECLUSÃO CONSUMATIVA. OCORRÊNCIA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA FÍSICA. INDEFERIMENTO. HIPOSSUFICIÊNCIA. COMPROVAÇÃO. AUSÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Trata-se de discussão acerca da ocorrência de preclusão consumativa a respeito da impenhorabilidade do bem de família e da concessão do benefício da assistência judiciária gratuita.
+2. Não viola o art. 1.022 do CPC nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+3. As questões de ordem pública também estão sujeitas à preclusão se já tiverem sido objeto de anterior manifestação jurisdicional.
+4. Na hipótese, rever a conclusão do aresto impugnado acerca da ocorrência de preclusão consumativa a respeito da impenhorabilidade do bem de família demandaria o reexame fático-probatório dos autos, encontrando óbice na Súmula nº 7/STJ.
+5. Não cabe ao Superior Tribunal de Justiça reexaminar as conclusões do tribunal de origem no tocante à ausência de comprovação de hipossuficiência e consequente indeferimento do pedido de justiça gratuita, sob pena de usurpar a competência das instâncias ordinárias, a quem compete o amplo juízo de cognição da lide. Súmula nº 7/STJ.
+6. O benefício da assistência judiciária gratuita pode ser pleiteado a qualquer tempo, sendo suficiente que a pessoa física declare não ter condições de arcar com as despesas processuais. Tal presunção é relativa (art. 99, § 3º, do CPC), podendo a parte contrária demonstrar a inexistência do alegado estado de hipossuficiência ou o julgador indeferir o pedido se encontrar elementos que coloquem em dúvida a condição financeira do peticionário. Precedentes.
+7. Agravo interno não provido. (AgInt no AREsp n. 2.425.003/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+III - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
