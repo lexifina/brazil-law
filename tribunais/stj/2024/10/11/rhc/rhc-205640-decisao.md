@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por Diego Anizio contra o acórdão do Tribunal de Justiça da Bahia proferido nos autos do HC n. 8052916-20.2024.8.05.0000.
+Consta dos autos que, em 26/7/2024, o recorrente foi preso em flagrante pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. Ao que se tem dos autos, foram apreendidos 486,97 g de maconha e 0,89 g de crack (fl. 270).
+A defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 269/273).
+Neste writ, o impetrante sustenta ausência de pressupostos para manutenção da prisão preventiva, bem como direito à prisão domiciliar, termos em que pede, inclusive liminarmente, a revogação da custódia preventiva ou a substituição por medidas alternativas.
+É o relatório.
+De início, destaco que  a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria (AgRg no HC n. 856.046/SP, Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/10/2023, DJe 30/10/2023).
+Portanto, passo a analisar diretamente a insurgência.
+O Juízo de primeiro grau indeferiu o pedido de prisão preventiva do recorrente nos termos a seguir transcritos (fl. 64 - grifo nosso):
+No presente caso, a prisão preventiva se justifica pela garantia da ordem pública, dado o histórico de reiteração delitiva do acusado, que já responde por outro processo de tráfico de drogas, demonstrando que se vale da atividade criminosa como meio de vida.
+O Tribunal de origem manteve a segregação provisória do acusado destacando que (fl. 271 - grifo nosso):
+ ..  os fundamentos presentes no decreto cautelar encontram respaldo no lastro presente no processo de origem, haja vista inequívoco que o Paciente agiu com a audácia e destemor ao traficar de forma escancarada na comarca de Nova Viçosa, onde já responde por uma ação penal por delito idêntico  .. .
+Desse modo, a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, notadamente porque o recorrente ostentava outra ação penal em curso também por tráfico de drogas, quando do fato ensejador do flagrante, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Com efeito, a jurisprudência desta Corte Superior compreende que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+Nesse contexto, considerada a reiteração delitiva que recomenda a manutenção da custódia ante tempus, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Sobre à alegação de substituição da prisão preventiva por domiciliar, o presente recurso nem sequer supera o conhecimento.
+Isso porque a defesa sustenta a aplicação do benefício legal em favor de pessoa estranha aos autos (Taina - fl. 280), que seria mãe de uma criança de 3 anos de idade, em total descompasso com os fundamentos do acórdão recorrido.
+Se as razões do recurso ordinário em habeas corpus não infirmam as conclusões do Tribunal de origem - ou seja, estão total ou parcialmente dissociadas dos fundamentos do decisum de segundo grau - há violação do princípio da dialeticidade (RHC n. 156.531/PB, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022).
+Ainda que assim não fosse, não tendo o Tribunal local examinado a tese de prisão domiciliar, objeto deste recurso, fica obstada a análise da irresignação por esta Corte Superior, sob pena de indevida supressão de instância. Ilustrativamente: AgRg no HC n. 905.056/BA, Ministra Daniela Teixeira, Quinta Turma, DJe 23/8/2024.
+Ante o exposto, conheço parcialmente do recurso ordinário em habeas corpus e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. PRISÃO DOMICILIAR. AUSÊNCIA DE DIALETICIDADE RECURSAL. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+Recurso parcialmente conhecido e, nessa extensão, improvido.
