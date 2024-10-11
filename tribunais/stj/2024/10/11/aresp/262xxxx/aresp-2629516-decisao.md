@@ -1,0 +1,15 @@
+DECISÃO
+Na origem, trata-se de execução fiscal. Na sentença, julgou-se extinto o feito, com resolução de mérito, com base nos arts. 794 c/c 269, IV do Código de Processo Civil, e 156, V do Código Tributário Nacional. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 777,59 (setecentos e setenta e sete reais e cinquenta e nove reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS contra acórdão com o seguinte resumo de ementa:
+EXECUÇÃO FISCAL. DECRETAÇÃO EQUIVOCADA DA PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE CAUSA INTERRUPTTVA DO LAPSO PRESCRICIONAL ORDINÁRIO PARA QUE SE PUDESSE DAR INÍCIO À CONTAGEM DA PRESCRIÇÃO INTERCORRENTE. CRÉDITOS MACULADOS PELA PRESCRIÇÃO DIRETA ORDINÁRIA. ART. 174. DO CTN. IN APLICABILIDADE DA SÚMULA 106 DO STJ. PRESCRIÇÃO TOTAL DOS CRÉDITOS POR INÉRCIA DA FAZENDA PÚBLICA. MANUTENÇÃO DA SENTENÇA. MAS POR FUNDAMENTO DIVERSO. REEXAME NECESSÁRIO. DISPENSADO. TEMAS OBJETO DO RECURSO VOLUNTÁRIO MANEJADO PELA FAZENDA PÚBLICA FORAM PLENA. CABAL E EXAUSTIVAMENTE EXAMINADOS. RECURSO CONHECIDO E NÀO PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+na situação posta nos autos, o motivo determinante da declaração da prescrição do crédito tributário foi, exclusivamente, a desídia da própria Fazenda Pública Municipal, que deixou o feito paralisado por anos, sem requerer as diligências necessárias à tramitação válida e regular do feito. Não há que se falar, portanto, em aplicação da Súmula n.º 106 do STJ ao caso em julgamento.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
