@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ELIAS BEJJANI e GEORGE JUNIOR BEJJANI contra acórdão do Tribunal Regional Federal da 3ª Região no Recurso de Apelação n. 0010177-60.2015.4.03.6181, o qual foi dado parcial provimento.
+Consta dos autos que o paciente ELIAS BEJJANI foi condenado pela prática dos crimes previstos nos artigos 33, caput c.c. o artigo 40, inciso I, e art. artigos 35, caput c.c. o artigo 40, inciso I, todos da Lei 11.343/2006, c. c. art. 69 do Código Penal, a pena de 14 anos, 10 meses e 15 dias de reclusão, em regime inicial fechado, e 1.487 dias-multa, no valor de 1/10 do valor do salário mínimo vigente ao tempo do crime, a ser atualizado até a data do efetivo pagamento; E o paciente GEORGE JUNIOR BEJJANI foi condenado pela prática dos crimes previstos nos artigos 33, caput c.c. o artigo 40, inciso I, e art. artigos 35, caput c.c. o artigo 40, inciso I, todos da Lei 11.343/2006, c.c. art. 69 do Código Penal, a pena de 14 anos, 10 meses e 15 dias de reclusão, em regime inicial fechado, e 1.487 dias-multa, no valor de 1/10 do valor do salário mínimo vigente ao tempo do crime, a ser atualizado até a data do efetivo pagamento;
+Contra essa decisão, foi interposto Recurso de Apelação, o qual foi dado provimento parcial (e-STJ fls. 125/156).
+Na presente oportunidade, a defesa afirma a ausência de fundamentos para a prisão preventiva.
+Assim, pede, em liminar e no mérito, a revogação da prisão dos pacientes.
+É o relatório, decido.
+Não há como prosseguir a irresignação.
+Isso porque os fundamentos do decreto prisional não foram objeto de análise perante o Tribunal de origem no acórdão ora impugnado, o que impede o seu exame diretamente nesta Corte, sob pena de supressão de instância.
+"Desse modo, como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Rel. Ministro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, i ndefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
