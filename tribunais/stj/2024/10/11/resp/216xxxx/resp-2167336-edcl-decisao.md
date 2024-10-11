@@ -1,0 +1,39 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Declaração opostos pela FAZENDA NACIONAL contra decisão que negou provimento ao recurso especial.
+Sustenta, em síntese, que a decisão embargada incorreu em omissão sanável por meio de embargos de declaração, uma vez que, a decisão agravada aplicou o entendimento firmado por esse STJ quando do julgamento do Tema n. 1.125/STJ, sem, contudo, aplicar a modulação nele deferida pela 1ª Seção.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 631e).
+Feito breve relato, decido.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Esposando tal entendimento, precedentes desta Corte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. FAIXA DE DOMÍNIO DE RODOVIA SOB CONCESSÃO. COBRANÇA EM DESFAVOR DE CONCESSIONÁRIA DE SERVIÇO DE TELEFONIA. POSSIBILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A prescrição trazida pelo art. 489 do CPC/2015, na esteira interpretativa sufragada no Superior Tribunal de Justiça, significa que o julgador deve enfrentar apenas as questões capazes de infirmar a conclusão adotada na decisão recorrida, hipótese aqui não verificada (EDcl no MS n. 21315/DF, Primeira Seção, DJe 15/06/2016).
+3. A Primeira Seção desta Corte firmou o entendimento de que o poder concedente, com respaldo no art. 11 da Lei n. 8.987/1995 (Lei de Concessões e Permissões), pode autorizar a concessionária a efetuar cobrança pela utilização de faixas de domínio de rodovia, mesmo de outra concessionária de serviços públicos, desde que haja previsão no contrato de concessão da rodovia, como verificado na hipótese.
+4. A Primeira Turma desta Corte tem reconhecido o caráter manifestamente inadmissível ou improcedente do agravo interno, a ensejar a aplicação da sanção prevista no art. 1.021, § 4º, do CPC/2015 quando a decisão agravada está fundamentada em precedente julgado sob o regime da repercussão geral, sob o rito dos recursos repetitivos ou com base em jurisprudência pacífica de ambas as Turmas da 1ª Seção.
+5. Agravo interno desprovido, com aplicação de multa.
+(AgInt no AREsp 1.079.824/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 06/02/2018, DJe 07/03/2018)
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO NO ACÓRDÃO RECORRIDO. INEXISTENTE. ACÓRDÃO QUE ENFRENTOU TODAS AS QUESTÕES NECESSÁRIAS. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Conforme pacífico entendimento desta Corte, o órgão julgador não é obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A determinação contida no art. 489 do CPC/2015 "veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+II - A corte de origem analisando o contexto fático-probatório dos autos concluiu (fl. 270): "Neste caso, ainda que houvesse buracos no asfalto e ainda que a pista apresentasse irregularidades, é certo que o acidente que vitimou fatalmente  ..  somente ocorreu por culpa do motociclista que invadiu a contramão da via em alta velocidade".
+III - Para alterar tais conclusões seria necessário o reexame fático-probatório, vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual: " pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido
+(AgInt no AREsp 1.037.131/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/11/2017, DJe 22/11/2017).
+A modulação sobre a qual se alega omissão foi definida pela Corte de origem e não consta das razões do recurso especial que esteja sendo impugnada.
+Esta Corte tem posicionamento consolidado segundo o qual é vedada a inovação recursal em sede de agravo interno ou embargos de declaração, apresentando matéria não alegada no recurso especial.
+Nessa linha:
+PROCESSUAL CIVIL. RECURSO ESPECIA L. NEGATIVA DE PRESTAÇÃO JURISDICIONAL ALEGAÇÃO GENÉRICA. INOVAÇÃO RECURSAL. VEDAÇÃO. VIOLAÇÃO DO PRINCÍPIO DA NÃO SURPRESA. INEXISTÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVA. IMPOSSIBILIDADE. JURISPRUDÊNCIA DO STJ. CONFORMIDADE.
+1. A alegação genérica de ofensa ao art. 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+2. É vedada a inovação recursal no âmbito do agravo interno, mediante o suscitar de questão não ventilada no apelo especial, haja vista a preclusão consumativa.
+3. Não caracteriza decisão surpresa (art. 10 do CPC/2015) o acórdão que trata de questão sobre a qual o recorrente efetivamente se manifestou durante todo o processo.
+4. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando o Tribunal de origem não emite juízo de valor sobre a tese relacionada aos dispositivos de lei supostamente violados, mesmo após opostos embargos de declaração.
+5. O recurso especial não se presta para o reexame do contexto fático-probatório delineado no acórdão recorrido. Inteligência da Súmula 7 do STJ.
+6. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice de conhecimento estampado na sua Súmula 83.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 2.136.821/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024.)
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Posto isso, REJEITO OS EMBARGOS DE DECLARAÇÃO.
+Publique-se. Intime-se.
+EMENTA
