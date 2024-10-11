@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ENERGIA SUSTENTÁVEL DO BRASIL S/A (ESBR) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, ESBR alegou a violação dos arts. do art. 206, § 3º, V, e 198, I, ambos do Código Civil, e 17 do CPC, sustentando, em síntese, que (1) o acórdão recorrido, ao acolher a teoria da actio nata, deixou de considerar que referida tese decorre da ciência inequívoca do fenômeno (infestação de mosquitos) pelos recorridos; , (2) o termo inicial para o ajuizamento da ação é o ano de 2014, quando houve a ciência inequívoca do fenômeno; e, (3) não há como entender a manutenção do menor R F S no polo passivo da demanda, considerando seu nascimento ocorrido aos 31//3/2015. (e-STJ, fls. 2973/2992).
+É o breve relatório.
+Decido.
+Do termo inicial do prazo prescricional
+ESBR sustentou que o termo inicial do prazo prescricional aplicável à ação indenizatória por dano moral decorrente de uma infestação de mosquitos Mansonia na região de Nova Mutum Paraná, no estado de Rondônia é o ano de 2012, quando houve a ciência do fenômeno pelos recorridos.
+Sobre o tema o Tribunal rondonense consignou que, na espécie, aplica-se o prazo prescricional trienal.
+Confira-se:
+Os apelantes ajuizaram a ação indenizatória em razão da proliferação de mosquitos do gênero mansonia na localidade em que residem, asseverando que os danos causados pelo empreendimento das apeladas estão sendo suportados até os dias atuais.
+A sentença extinguiu o feito, por entender que existia óbice ao prosseguimento da ação, uma vez que as pretensões dos apelantes foram alcançadas pela prescrição.
+Pois bem.
+No caso, estamos diante de pretensão indenizatória individual, fundamentada na ocorrência de dano ambiental e, conforme mencionado pelos recorrentes, de fato, a jurisprudência firmada por esta Corte até então caminhava no sentido de que, em se tratando de ação indenizatória individual decorrente de impactos ambientais derivados da instalação de usina hidrelétrica, sujeita-se ao prazo prescricional de 5 anos, partindo da ideia de que as pessoas atingidas pela instalação e operação da agravante seriam consumidores por equiparação, incidindo o prazo do art. 27 do CDC.
+Ocorre que tal entendimento destoa da orientação firmada no âmbito do Superior Tribunal de Justiça sobre a matéria, segundo a qual as demandas indenizatórias ajuizadas com vista à reparação de interesses de cunho individual e patrimonial - como é o caso dos autos - devem sujeitar-se ao prazo prescricional trienal previsto no art. 206, § 3º, V, do Código Civil.
+ ..
+Inclusive, convém destacar que a Corte Superior vem reformando diversas decisões oriundas desta Corte Estadual de Justiça, ajustando-as ao entendimento de que a ação indenizatória de tal natureza submete-se ao prazo prescricional de 3 anos, a exemplo dos seguintes arestos: Resp nº 1.830.731/RO; Resp nº 1.817.011/RO; Resp nº 1.904.919/RO e R Esp nº 1.881008/RO.
+ ..
+Quanto ao termo inicial da contagem do prazo prescricional, é consabido que esse não se dá necessariamente no momento em que ocorre a lesão ao direito, mas sim quando o titular do direito subjetivo violado obtém plena ciência da lesão e de toda a sua extensão, de forma que não se pode atribuir o marco inicial da prescrição ao início da construção da usina, pois os danos experimentados pelo apelante não surgiram imediatamente naquele momento, mas ao longo de seu funcionamento.
+Em casos específicos de indenização pleiteada sob alegação de proliferação do mosquito mansonia, causada, em tese, pelo empreendimento da apelada, tem-se os julgados abaixo, nos quais foi reconhecida a prescrição trienal, com incidência a partir da data da ciência dos fatos especificada pelos próprios autores na inicial.
+No caso dos autos, apesar de os apelantes alegarem que se trata de dano permanente, contínuo, suportado até os dias de hoje, juntaram laudo de constatação atestando que a explosão de mansonia ocorreu nos anos de 2014 e 2015. A ciência fática do problema certamente ocorre antes da constatação técnica. Nessa perspectiva, a se considerar o ano de 2014 como termo inicial para contagem da prescrição, fato é que a ação de origem foi ajuizada somente em 2021, portanto, após o transcurso do triênio prescricional.
+Com isso, à luz da jurisprudência do STJ, à qual esta 2ª Câmara Cível se filia, é de se manter, em parte, a sentença que acolheu a ocorrência da prescrição da pretensão perseguida pelos apelantes. Entretanto, verifico que os apelantes M. F. S., M. F. S. e R. F. S. são menores e é cediço que não corre a prescrição em face de menores. (e-STJ, fl. 2.877/2880)  grifou-se .
+Constata-se, das razões acima, que o acórdão recorrido não merece reparos, quanto a ocorrência da prescrição, porque em plena sintonia com a orientação firmada nesta Corte.
+A esse respeito, destacam-se os recentes julgados:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. TESE JURÍDICA NÃO PREQUESTIONADA, APESAR DA OPOSIÇÃO DOS ACLARATÓRIOS NA ORIGEM. SÚMULA 211/STJ. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRETENSÃO INDENIZATÓRIA. DANOS DECORRENTES DA CONSTRUÇÃO DE USINA HIDRELÉTRICA. PRAZO TRIENAL. COMPORTAMENTO PROCESSUAL CONTRADITÓRIO. VEDAÇÃO.
+1. O Tribunal de origem não examinou a tese jurídica veiculada no recurso especial, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo nobre, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ.
+2. No caso concreto, para chegar-se à premissa diversa da adotada pelo órgão julgador de origem, seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+3. Esta Corte Superior tem asseverado que "é trienal o prazo prescricional da pretensão indenizatória por danos causados em razão da construção de usina hidrelétrica" (AgInt no REsp 1.991.961/RO, Relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/12/2022, DJe de 27/1/2023).
+ .. .).
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.852.982/TO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS DECORRENTES DA CONSTRUÇÃO DE USINA HIDRELÉTRICA. PRESCRIÇÃO. TERMO INICIAL. TEORIA DA ACTIO NATA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. O entendimento adotado pelo Tribunal de origem diverge da jurisprudência do Superior Tribunal de Justiça, que firmou entendimento "acerca da prescrição trienal em hipóteses como a dos autos, adotando-se a Teoria da Actio Nata, no sentido de que o marco se dá a partir da data em que o titular do direito toma conhecimento inequívoco do fato, o que pode ou não coincidir com o alagamento da usina" (STJ, REsp 1.751.540/MA, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 22/11/2019). Nesse sentido: STJ, AgInt no REsp 1.753.177/MA, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 21/05/2020; AgInt nos EDcl no REsp 1.816.380/MA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 24/04/2020; AgInt nos EDcl no REsp 1.210.895/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 10/06/2019; AgInt no REsp 1.731.083/MA, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 14/06/2018.
+III. Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.815.102/MA, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 09/10/2023, DJe 16/10/2023)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS DECORRENTES DA CONSTRUÇÃO DE USINA HIDRELÉTRICA. PRESCRIÇÃO. TERMO INICIAL. TEORIA DA ACTIO NATA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. O entendimento adotado pelo Tribunal de origem diverge da jurisprudência do Superior Tribunal de Justiça, que firmou entendimento "acerca da prescrição trienal em hipóteses como a dos autos, adotando-se a Teoria da Actio Nata, no sentido de que o marco se dá a partir da data em que o titular do direito toma conhecimento inequívoco do fato, o que pode ou não coincidir com o alagamento da usina"
+(REsp 1.751.540/MA, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, DJe de 22/11/2019).
+No mesmo sentido, confiram-se, ainda as seguintes decisões monocráticas: AREsp n. 2.290.055/RO, Rel. Ministra Assusete Magalhães, DJe 04/08/2023; AREsp n. 2.220.875/RO, Rel. Ministro Sérgio Kukina, DJe 01/03/2023; e AREsp n. 2.221.071/RO, Rel. Ministro Herman Benjamin, DJe 04/04/2023.
+Portanto, aplicável, à espécie, a Súmula n. 83 do STJ.
+Ademais, a pretensão recursal esbarra no óbice da Súmula n. 7 do STJ, porquanto, para rever a conclusão do acórdão seria necessário revolver o substrato fático da causa - notadamente quanto a provável data da ocorrência dos fatos, o termo inicial da efetiva ocorrência do dano bem como a ilegitimidade da menor R F S.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Deixo de majorar os honorários advocatícios (art. 85, § 11, do CPC), porque não fixados na origem.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANO AMBIENTAL. INFESTAÇÃO DO MOSQUITO MANSONIA. RECURSO DE ESBR. VIOLAÇÃO DO ART. 206, § 3º, V, DO CC. PRESCRIÇÃO. TERMO INICIAL. APLICAÇÃO DA TEORIA DA ACTIO NATA. ACORDÃO EM CONSONÂNCIA COM A ORIENTAÇÃO FIRMADA NO STJ. INCIDÊNCIA DA SÚMULA N. 83/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
