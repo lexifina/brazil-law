@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por POLO RECUPERAÇÃO DE CREDITO PETROS - FUNDO DE INVESTIMENTO MULTIMERCADO CREDITO PRIVADO contra decisão que não admitiu o seu recurso especial, o qual fora interposto contra acórdão do Tribunal de Justiça do Estado de Pernambuco, que negou provimento ao seu agravo de instrumento, mantendo decisão de indeferimento de impugnação de crédito, nos termos da seguinte ementa:
+PROCESSUAL CIVIL - DECISÃO DE 1º GRAU QUE REJEITOU IMPUGNAÇÃO DE CRÉDITO - PLEITO DE EXTRACONCURSALIDADE DE CRÉDITO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA CARACTERIZADO POR "INSTRUMENTO PARTICULAR DE EMISSÃO DE CÉDULA DE CRÉDITO IMOBILIÁRIO INTEGRAL COM GARANTIA REAL IMOBILIÁRIA - AUSÊNCIA DE REGISTRO DE INSTRUMENTO DE CESSÃO FIDUCIÁRIA NO CARTÓRIO DE TÍTULOS E DOCUMENTOS - NÃO CONSTITUIÇÃO DA PROPRIEDADE FIDUCIÁRIA SOBRES OS BENS, AFASTANDO-SE DA APLICAÇÃO DA EXCEÇÃO DO ART. 49, § 3º DA LEI DE RECUPERAÇÃO JUDICIAL - MANUTENÇÃO DA DECISÃO DE 1º GRAU QUE SE IMPÕE - À UNANIMIDADE DE VOTOS, NEGOU-SE PROVIMENTO AO PRESENTE AGRAVO DE INSTRUMENTO.
+I - Não preenchimento dos requisitos elencados na legislação, no sentido de constituir o crédito decorrente de cessão de crédito com alienação fiduciária, de modo a permitir a exclusão prevista no art. 49, § 3º da Lei nº 11.101/2005.
+II - Manutenção da decisão de 1º grau que se impõe.
+III - À unanimidade de votos, negou-se provimento ao presente Agravo de Instrumento
+Alega a agravante que o acórdão recorrido violou o art. 66-B da Lei n. 4.728/1965, os arts. 18, 19, 20, 26 e 27, da Lei n. 9.514/1997 e o art. 49, §3º, da Lei n. 11.101/2005.
+Sustenta que "a cessão fiduciária de bem móvel se aperfeiçoa com a simples celebração do instrumento de cessão fiduciária e não a partir do seu registro perante cartório de títulos e documentos" (fl. 1.848).
+Defende a manutenção da natureza extraconcursal do seu crédito, ainda que o imóvel seja considerado como essencial à atividade da empresa recuperanda, uma vez que detém a propriedade fiduciária do bem.
+Aponta não ter trazido para debate, em seu agravo de instrumento, a concessão de autorização para alienação do imóvel "Granja Coqueiral", mas sim o reconhecimento da natureza extraconcursal do crédito detido.
+Indica, por fim, a existência de dissídio jurisprudencial.
+Contrarrazões não apresentadas.
+Assim posta a questão, passo a decidir.
+Na hipótese dos autos, o Tribunal de Justiça de Pernambuco manteve decisão de indeferimento de impugnação à relação dos credores, por meio da qual a ora agravante pretendia o reconhecimento da extraconcursalidade do seu crédito, no importe de R$ 12.000.000,00 (doze milhões de reais), por estar lastreado em instrumento particular de emissão de cédula de crédito imobiliário integral, com garantia real, sob a forma escritural.
+O fundamento adotado pelo Juízo da Recuperação Judicial e mantido pela Câmara Julgadora para determinar a manutenção do crédito da agravante na classe de credor quirografário foi a ausência de registro do contrato de cessão fiduciária "no Registro de Títulos e Documentos, conforme determina o § 1º do art. 1.361 do Código Civil" (fl. 61).
+Ao assim decidir, contudo, as instâncias de origem se afastaram da jurisprudência já sedimentada pela Segunda Seção deste Superior Tribunal de Justiça, no sentido de que a cessão fiduciária de título de crédito, conforme a disciplina específica da Lei 4.728/95, não depende de registro em cartório de títulos e documentos para ser constituída.
+Tal convicção decorre do fato de que o Código Civil, em seu art. 1.361, § 1º, e seguintes, cuida exclusivamente de bens infungíveis, qualidade que não alcança os recebíveis e os direitos de crédito em geral, como é o caso das cédulas de crédito bancário discutidas nos autos, que foram objeto de cessão fiduciária e que encontram disciplina em lei própria.
+Confira-se, a propósito:
+DIREITO CIVIL E COMERCIAL. RECUPERAÇÃO JUDICIAL. CESSÃO FIDUCIÁRIA DE DIREITO DE CRÉDITO. REGISTRO EM CARTÓRIO DE TÍTULOS E DOCUMENTOS. DESNECESSIDADE DE REGISTRO PARA A CONSTITUIÇÃO DA GARANTIA. CREDOR NÃO SUJEITO Á RECUPERAÇÃO JUDICIAL. IMPOSSIBILIDADE.
+1. A cessão fiduciária de título de crédito, nos termos da disciplina específica da Lei 4.728/95, com a redação dada pela Lei 10.931/2004, não depende de registro em cartório de títulos e documentos para ser constituída, não se lhe aplicando a regra do art. §1º do art. 1.361 do Código Civil, regente da cessão fiduciária de coisa móvel infungível.
+2. O registro da cessão fiduciária do título de crédito pode ser necessário para salvaguardar eventual direito de terceiro a quem o título de crédito seja oponível, a saber, o devedor do título de crédito cedido pela recuperanda. Não há repercussão na esfera de direitos dos demais credores, donde a irrelevância da existência do registro para o processo de recuperação.
+3. De acordo com a pacífica jurisprudência do STJ, por força do art. 49, §3º, da Lei 11.101/2005, não se submetem à recuperação judicial os créditos garantidos por cessão fiduciária. Precedentes.
+4. Impossibilidade "de se impor restrições à propriedade fiduciária de crédito, por não se tratar de bem de capital, segundo entendimento desta Corte Superior." (AgInt no REsp. 1.475.258-MS, rel. Ministro Paulo de Tarso Sanseverino, DJe 20.2.2017).
+5. Recurso especial conhecido e provido.
+(REsp n. 1.629.470/MS, de minha relatoria, Segunda Seção, julgado em 30/11/2021, DJe de 17/12/2021.)
+Em face do exposto, conheço do agravo para dar provimento ao recurso especial, reconhecendo a extraconcursalidade dos créditos garantidos por cessão fiduciária da parte ora agravante.
+Intimem-se.
+EMENTA
