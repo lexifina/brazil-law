@@ -1,0 +1,61 @@
+DECISÃO
+Tratam-se de agravos interpostos por ESTADO DO RIO GRANDE DO SUL e por LUIGI CONRADO LOCATELLI contra as decisões que inadmitiram os recursos especiais dos agravantes.
+Na origem, o contribuinte ajuizou ação declaratória combinada com repetição de indébito, com valor de causa atribuído em R$ 257.438,53 (duzentos e cinquenta e sete mil, quatrocentos e trinta e oito reais e cinquenta e três centavos), em agosto de 2021, tendo como objetivo impugnar débito tributário de ITCD.
+Na sentença, julgou-se improcedente a demanda. A apelação interposta pelo contribuinte foi parcialmente provida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL. O referido acórdão foi assim ementado, in verbis:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO. DISCUSSÃO JUDICIAL DA ALÍQUOTA. DECADÊNCIA NÃ O CONFIGURADA. SÚMULA 114 DO STF. RECOLHIMENTO DO TRIBUTO EM 4%. DESCABIMENTO. AUSENTES OS REQUISITOS ESTIPULADOS NO ART. 2º, INC. I, § 1º, ALÍNEAS "A" E "B" DA LEI Nº 13.337/09. MULTA. DESCABIMENTO. AUSÊNCIA DE MORA DO CONTRIBUINTE.
+1. O Imposto de Transmissão Causa Mortis e Doações - ITCD tem como fator gerador, conforme a Lei Estadual 8.821/89, a transmissão causa mortis e a doação da propriedade ou do domínio útil de bens imóveis e de direitos a eles relativos (art. 2º). O tributo sujeita-se à modalidade de lançamento por declaração, conforme art. 147 do CTN. Entretanto, ocorrido o fato gerador, sem prestação integral de informações pelo contribuinte, tampouco pagamento, cabe à Administração proceder ao lançamento de ofício do crédito, segundo o preceito do art. 149, II, do CTN, dispondo, assim, de prazo decadencial de cinco anos, contados do primeiro dia útil do exercício seguinte àquele em que poderia ter sido efetuado o lançamento (art. 173, I, do CTN).
+2. In casu, o autor contesta auto de lançamento referente à diferença do ITCD (entre a alíquota prevista na legislação tributária e o recolhido em função de decisão judicial), sob a alegação de que teria decaído o direito de a Fazenda Pública constituir o crédito. Contudo, enquanto pendia discussão judicial acerca da alíquota incidente do tributo, não poderia o Estado lavrar o auto de lançamento para constituir o crédito tributário. Decadência não configurada.
+3. Tampouco cabe o recolhimento do ITCD no percentual de 4%, pois não restaram preenchidos os requisitos para a concessão da benesse, a saber: requerimento administrativo e adimplemento voluntário no prazo legalmente estipulado.
+4. É inviável a aplicação de multa em havendo regular recolhimento prévio do ITCD no curso do processo de inventário. Situação peculiar que infirma a aplicação da sanção.
+RECURSO PROVIDO PARA DAR PARCIAL PROVIMENTO .
+Os embargos de declaração opostos foram acolhidos para afastar os juros de mora e para redimensionar os ônus sucumbenciais.
+No recurso especial do ESTADO DO RIO GRANDE DO SUL é indicado como violado o art. 161 do CTN, afirmando, em suma, que deve incidir juros de mora no recolhimento do ITCD desde a data do trânsito em julgado do inventário em 2014, uma vez que possui caráter compensatório pela inadimplência do contribuinte.
+No recurso de LUIGI CONRADO LOCATELLI é apontada ofensa aos arts. 144 e 113, do CTN.
+Sustenta, em síntese, que o termo inicial para contagem do prazo decadencial do ITCD seria a decisão de homologação do cálculo da partilha no processo de inventário, restando operada a decadência no caso dos autos.
+Adiante, alega ofensa ao art. 30 do Decreto-Lei 33.156/89, art. 2º da Lei 13.337/09, justificando, em resumo, que o contribuinte faz jus a redução da alíquota do ITCD para 4%.
+Após decisum que inadmitiu os recursos especiais foram interpostos os presentes agravos, tendo os recorrentes apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que os agravantes, além de atender aos demais pressupostos de admissibilidade, impugnaram a fundamentação da decisão agravada, de rigor o conhecimento dos agravos, passando-se ao exame dos recursos especiais interpostos.
+RECURSO ESPECIAL DO ESTADO DO RIO GRANDE DO SUL
+No que se refere a suposta ofensa ao art. 161 do CTN, a Corte de origem assim consignou acerca da dos juros moratórios:
+(..)
+Indo à análise dos presentes embargos, o Estado não comprova que notificou previamente o contribuinte sobre o valor do imposto a ser recolhido a título de ITCD, sob pena da incidência de multa e juros de mora.
+Constata-se nas contrarrazões (evento 74 dos presentes autos) fotocópia de documento juntado pelo Estado, onde consta:
+(..)
+Nada refere sobre as fases administrativas da cobrança do débito, não demonstra que após a notificação (evento 36.2, pág. 5) tenha lançado documento constituíndo o montante do crédito tributário, integrado pelo valor da multa e dos juros de mora. Como reforço argumentativo, faço menção ao referido documento.
+(..)
+Nesse compasso, bem explicou a Desa. Lúcia de Fátima Cerveira em seu voto divergente (evento 57.3): "É cediço que a multa configura uma espécie de sanção pelo descumprimento de obrigação tributária e que os juros de mora, por sua vez, correspondem a penalidade imposta ao devedor pelo atraso ou ausência de pagamento do tributo após o vencimento. Na espécie, contudo, é inviável a aplicação dessas penalidades, tendo em vista que sequer houve a notificação do contribuinte, assinalando o prazo para o recolhimento do tributo, tampouco definido o quantum devido."
+Houve, desse modo, violação expressa ao contraditório, o que não é admitido pela Constituição Federal de 1988.
+Por fim, afastada a incidência da penalidade e de juros de mora, não há que seja cogitar da incidência da taxa selic para fins de atualização monetária.
+(..) (Grifo não consta no original)
+Verifica-se que o acórdão recorrido se fundamentou em argumento autônomo e suficiente de que a mora apenas pode ser contada a partir do vencimento da dívida e, no caso, nem sequer houve notificação do contribuinte estabelecendo prazo para pagamento do tributo, o que, porém, não foi objeto de impugnação no Recurso Especial do recorrente.
+Consoante jurisprudência desta Corte Superior, padece de irregularidade formal o recurso em que o recorrente descumpre seu ônus de impugnar especificamente os fundamentos do acórdão recorrido, deixando de atender ao princípio da dialeticidade Incide, ao caso, o teor da Súmula 283/STF. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUPOSTA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRINCÍPIO CONSTITUCIONAL DA UNICIDADE SINDICAL. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE. USURPAÇÃO DA COMPETÊNCIA DO STF. ARGUMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULAS 283 E 284/STF. OFENSA AO ART. 508 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+(..)
+5 . Agravo interno não provido.
+(AgInt no AREsp n. 2.390.878/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. ISENÇÃO DE IMPOSTO DE RENDA. ABSOLUTAMENTE INCAPAZ. IMPOSSIBILIDADE DE FLUÊNCIA DE PRAZO PRESCRICIONAL. PRECEDENTES DO STJ. LAUDO COMPROBATÓRIO DA INCAPACIDADE. SÚMULA 7/STJ.
+(..)
+3. O Tribunal de origem utilizou fundamento autônomo e suficiente para manter o aresto - o de que até a publicação do Estatuto da Pessoa com Deficiência, as pessoas portadoras de deficiências mentais, sem discernimento para a prática de atos, eram consideradas absolutamente incapazes e contra elas não corria o prazo prescricional -, o qual não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas 283 e 284 do STF.
+(..)
+8. Agravo Interno não provido.
+(AgInt no REsp n. 2.057.555/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/10/2023, DJe de 17/10/2023.)
+RECURSO ESPECIAL DE LUIGI CONRADO LOCATELLI
+Em relação à violação dos arts. 144 e 113, do CTN, verifica-se que o Tribunal de origem entendeu que a decadência não restou configurada em razão do Estado não poder constituir crédito tributário enquanto houvesse discussão judicial acerca da alíquota incidente do tributo.
+O acórdão recorrido está em conformidade com a jurisprudência deste Superior Tribunal de Justiça, que estabelece que não transcorre o prazo decadencial para o lançamento complementar do ITCD antes do trânsito em julgado da decisão que aplicou o juízo de conformação, em observância ao entendimento firmado pelo Supremo Tribunal Federal, no julgamento do RE 562.045/RS, em sede de repercussão geral, que definiu a tese de que "é constitucional a fixação de alíquota progressiva para o Imposto sobre Transmissão Causa Mortis e Doação  ITCD".
+Na mesma linha, confiram-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. ITCMD. PRAZO DECADENCIAL. LANÇAMENTO COMPLEMENTAR. TERMO INICIAL. TRÂNSITO EM JULGADO DA DECISÃO PROFERIDA EM AGRAVO DE INSTRUMENTO QUE, EM JUÍZO DE CONFORMAÇÃO, APLICOU A TESE FIRMADA NO RE 562.045/RS. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte Superior, no julgamento do EAREsp 1.621.841/RS, relator Ministro Gurgel de Faria, adotou a orientação de que não transcorre o prazo decadencial para o lançamento complementar do ITCMD antes do trânsito em julgado da decisão que aplicou o juízo de conformação, em observância ao entendimento firmado pelo Supremo Tribunal Federal, no julgamento do RE 562.045/RS, em sede de repercussão geral. A partir daí, é que se passa a contar o lapso decadencial para o lançamento complementar do imposto em questão.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AgInt no AREsp n. 1.946.149/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO - ITCMD. LANÇAMENTO SUPLEMENTAR. DECADÊNCIA. TERMO INICIAL. TRÂNSITO EM JULGADO DA DECISÃO QUE, NO C ASO CONCRETO, RECONHECEU A CONSTITUCIONALIDADE DA ALÍQUOTA PROGRESSIVA. AGRAVO INTERNO NÃO PROVIDO.
+1. A Primeira Seção desta Corte pacificou o entendimento de que o prazo decadencial para o lançamento suplementar do Imposto sobre Transmissão Causa Mortis e Doação - ITCMD inicia-se com o trânsito em julgado, da decisão que, ao exercer o juízo de adequação à tese firmada pelo Supremo Tribunal Federal, no Tema 21, reconheceu a constitucionalidade da alíquota progressiva, "momento em que surgiu para o ente estadual o direito de efetuar o lançamento complementar de ITCMD referente à diferença devida e, por conseguinte, foi inaugurado o prazo decadencial quinquenal, na forma do art. 173, I, do CTN" (EAREsp n. 1.621.841/RS, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 14/9/2022, DJe de 8/11/2022).
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.990.163/RS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+Quanto a alegada ofensa aos dispositivos do Decreto-Lei 33.156/89 e da Lei 13.337/09, depreende-se do art. 105, III, a, da Constituição Federal, que a competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Sendo assim, a resolução da questão controvertida com fundamento na interpretação da legislação local inviabiliza a apreciação da controvérsia por esta Corte Superior, na via estreita do recurso especial, uma vez que atrai a incidência, por analogia, do óbice ao conhecimento recursal constante do enunciado da Súmula n. 280 do STF, segundo o qual in verbis: "Por ofensa a direito local não cabe recurso extraordinário".
+Ante o exposto, com esteio no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial do ESTADO DO RIO GRANDE DO SUL, e com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial de LUIGI CONRADO LOCATELLI e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
