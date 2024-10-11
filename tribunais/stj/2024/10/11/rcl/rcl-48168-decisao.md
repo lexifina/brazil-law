@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Reclamação, com pedido de liminar, ajuizada pelo MUNICÍOPIO DE OURO BRANCO.
+Explicita, em suma, que foi apresentado pedido de uniformização de interpretação de lei, em face de acórdão proferido pela 3ª turma recursal dos juizados especiais cíveis, criminais e da fazenda pública do TJ/RN.
+O pedido teria sido encaminhado equivocadamente para a turma recursal de uniformização de jurisprudência do TJ/RN, sobrevindo decisão pelo não conhecimento do incidente.
+Foi apresentada petição de retratação, mas houve o encaminhamento do PUIL para o TNU e a presidente da TNU determinou nova remessa dos autos para a Turma Recursal de Jurisprudência do TJ/RN, entretanto, afirma o reclamante, o feito retornou para a terceira turma recursal do TJ/RN, sendo proferida decisão para determinar o trânsito em julgado do acórdão submetido à turma.
+Novamente o reclamante apresentou pedido de chamamento à ordem e desta feita a reclamada determinou a remessa do feito ao STJ.
+É contra a referida decisão que versa a presente reclamação.
+É o relatório. Decido.
+A presente Reclamação não é cognoscível.
+Conforme o art. 988 do CPC/2015, prevê a reclamação como meio de preservar a competência do tribunal; garantir a autoridade de suas decisões; garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade e; garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+No caso dos autos, a reclamação não tem a finalidade de garantir a autoridade de decisão do Superior Tribunal de J ustiça, não se cogitando de contraposição a ordem direta desta Corte.
+Da mesma forma, na reclamatória não se alega descumprimento de decisão proferida em julgamento de incidente de resolução de demandas repetitivas ou incidente de assunção de competência.
+Não se enquadrando a presente reclamação em nenhuma das hipóteses de cabimento acima identificadas, fica evidenciado o intuito da utilização da reclamatória como sucedâneo do recurso próprio, não sendo viável tal desiderato neste estreito conduto.
+Sobre o assunto, confiram-se os seguintes julgados:
+PROCESSO CIVIL. RECLAMAÇÃO CONTRA DECISÃO LIMINAR PROFERIDA POR DESEMBARGADOR FEDERAL. AGRAVO DE INSTRUMENTO EM AÇÃO ORDINÁRIA. SUSPENSÃO DE PORTARIA EDITADA PELO ADVOGADO-GERAL DA UNIÃO. SUPOSTA AFRONTA AO ART. 1º, § 1º, DA LEI N. 8.437/1992. RESTRIÇÕES À CONCESSÃO DE LIMINARES. USURPAÇÃO DE COMPETÊNCIA DO STJ. INEXISTÊNCIA. CONTROLE DE LEGALIDADE DA DECISÃO RECLAMADA. IMPOSSIBILIDADE. SUCEDÂNEO RECURSAL. DESCABIMENTO.
+1. A reclamação constitucional é ação destinada à tutela específica da competência e autoridade das decisões da Corte, exigindo-se, nesse último caso, a demonstração de que há aderência estrita entre o objeto do ato reclamado e o conteúdo do provimento jurisdicional exarado pelo Tribunal Superior.
+2. No caso, a tutela de urgência foi deferida no âmbito de agravo de instrumento tirado de uma ação ordinária ajuizada contra a União, em que a competência para apreciá-lo pertence, de fato, ao Tribunal de origem. Não caberia ao Superior Tribunal de Justiça o julgamento do referido recurso de agravo de instrumento, tampouco avocá-lo para julgamento originário.
+3. Eventual descumprimento de norma restritiva à concessão de medida liminar contra o Poder Público - em atenção ao disposto no art. 1º, § 1º, da Lei n. 8.437/1992 - deve ser solucionado no âmbito recursal correspondente, não caracterizando usurpação de competência desta Corte Superior. Não se enquadra nas situações descritas no art. 988 do CPC o mero controle de legalidade das decisões judiciais.
+4. Na situação em apreço, a decisão reclamada não é cotejada com nenhum pronunciamento vinculante do STJ, tampouco se verifica o ajuizamento de ação de competência originária deste Tribunal Superior. Nos termos propostos na inicial, tem-se o simples confronto entre o ato judicial reclamado e a norma contida no art. 1º, § 1º, da Lei n. 8.437/1992. O instrumento processual para o controle da referida decisão, de certo, não encontra amparo nas estritas hipóteses de cabimento da reclamação.
+5. A utilização da reclamação para preservação da competência do STJ não deve ser ampliada para o controle do mérito das decisões tomadas por juízes inegavelmente competentes para o processo principal, fora das hipóteses contidas no art. 988 do CPC, sob pena de transformar o presente instrumento de cunho excepcional em mero sucedâneo de recurso.
+6. Reclamação extinta, sem resolução do mérito. (Rcl n. 39.884/AL, relator Ministro Sérgio Kukina, relator para acórdão Ministro Og Fernandes, Primeira Seção, julgado em 22/6/2022, DJe de 19/8/2022.)
+Neste mesmo panorama, cito os julgados: RCl 025649/SP, Rel. Min. Herman Benjamim, DJe 07/12/2015; Rcl 025683/MG, Rel. Min. Herman Benjamin, DJe 23/09/2015 e Rcl 026154/RJ, Rel. Min. Mauro Campbell Marques, DJe 08/10/2015.
+Ante o exposto, com fundamento no art. 34, XVIII, do RISTJ, não conheço da Reclamação.
+Publique-se. Intime-se.
+EMENTA
