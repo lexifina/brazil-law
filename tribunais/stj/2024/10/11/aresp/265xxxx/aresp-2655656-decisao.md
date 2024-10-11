@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA SOLIDADE PINTO DE OLIVEIRA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 1016923-70.2021.8.26.0577, assim ementado (fls. 291-296):
+AÇÃO CIVIL PÚBLICA - Parcelamento irregular do solo - Município de São José dos Campos - Pleiteada a desocupação e demolição de obra irregular localizada em loteamento clandestino e em área de risco de escorregamento natural do solo, com fundamento no disposto pelo art. 30, inciso VIII, da Constituição Federal, pelo art. 2º, inciso VI, alíneas "a" e "c", da Lei Federal nº 10.257/2001 e pelo art. 289, da Lei Complementar Municipal nº 428/10 - Fatos suficientemente comprovados nos autos - Sentença que reconheceu a procedência da demanda Recurso de apelação não provido.
+Nas razões do apelo nobre, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, a parte agravante sustenta a violação dos arts. 2º da Lei n. 10.257/01, 9º, § 1º e 14, incisos I a IV, §§ 1º a 3º, da Lei Federal n. 13.465/17 e 3º-B, caput e § 3º, da Lei Federal n. 12.340/10.
+Houve transcurso in albis do prazo para apresentação das contrarrazões ao recurso especial (fl. 374).
+O Tribunal de origem não admitiu o recurso especial pelos seguintes motivos: a) os argumentos apresentados pela parte recorrente não são suficientes para infirmar as conclusões do acórdão recorrido, não havendo demonstração de ofensa às normas legais mencionadas; b) a revisão da posição adotada pela Turma Julgadora exigiria o reexame de fatos e provas (Súmula n. 7 do STJ).
+Transcorreu in albis do prazo para a contraminuta (fl. 416).
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo em recurso especial (fls. 429-432), assim ementado:
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. PARCELAMENTO IRREGULAR DO SOLO. DESOCUPAÇÃO E DEMOLIÇÃO DE OBRA. ÁREA DE RISCO. INCONFORMISMO DA PARTE CONTRÁRIA. ADMISSIBILIDADE DO RECURSO ESPECIAL. - A reversão do julgado a fim de aferir os critérios adotados pelo Tribunal de origem supõe a reapreciação dos elementos fáticos e probatórios e de questões contratuais, o que é vedado no recurso especial, nos termos da Súmula nº 7/STJ. - Parecer pelo não conhecimento do agravo em recurso especial.
+É o relatório. Decido.
+O agravo em recurso especial não comporta conhecimento.
+Verifico que a parte agravante, nas razões do agravo em recurso especial, afirmou, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz das teses veiculadas no apelo nobre, de que maneira não seria necessária a incursão ao campo probatório.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial, o que não ocorreu no recurso.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021.)
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta do fundamento empregado pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ, in verbis: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Em caso de prévia fixação de verba honorária na origem, determino sua majoração em desfavor da parte agravante, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. PARCELAMENTO IRREGULAR DO SOLO. DESOCUPAÇÃO E DEMOLIÇÃO DE OBRA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. SÚMULA N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
