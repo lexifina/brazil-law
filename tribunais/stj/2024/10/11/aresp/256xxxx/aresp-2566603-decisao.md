@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se, na origem, de ação indenizatória por danos materiais e morais, ajuizada po r menor incapaz, representado por sua genitora, com o objetivo de receber, a título de dano material, R$ 630,00 (referentes ao custo do atendimento) e R$ 10.000,00, a título de danos morais, em decorrência de lesão ao direito de personalidade.
+Julgada improcedente a demanda, o Tribunal local manteve a sentença em pronunciamento assim ementado:
+"APELAÇÃO CÍVEL - CONSUMIDOR, CIVIL E PROCESSUAL CIVIL - AÇÃO DE INDENIZATÓRIA - PLANO DE SAÚDE - SEGURADA MENOR DE IDADE ATENDIDA, EM CRISE CONVULSIVA, EM HOSPITAL NÃO CREDENCIADO - ALEGAÇÃO DE SER O HOSPITAL MAIS PRÓXIMO DIANTE DA GRAVIDADE DO QUADRO - EXISTÊNCIA DE HOSPITAL CREDENCIADO COM ATENDIMENTO DE URGÊNCIA E EMERGÊNCIA PRÓXIMO - REEMBOLS O NÃO DEVIDO - DANO MORAL NÃO CONFIGURADO - MANUTENÇÃO DA SENTENÇA - RECURSO CONHECIDO E IMPROVIDO - POR UNANIMIDADE"
+A parte agravante, em seu recurso especial, aponta violação ao art. 12, inciso VI, da Lei 9.656/98, art. 6º, inciso IV, do Código de Defesa do Consumidor e arts. 186 c/c 927 do Código Civil, sustentando a obrigatoriedade de os planos de saúde cobrirem a assistência em hospital não credenciado quando se tratar de caso de urgência.
+Argumenta que, no caso, como a criança foi encaminhada ao hospital pelos professores, que não tinham conhecimento da relação contratual, não seria possível crer que, em situação de urgência, se preocupariam em saber se a menor teria plano de saúde.
+Pugna, ainda, pelo reconhecimento de dano moral, uma vez que a infante teria sofrido danos de ordem moral.
+Contrarrazões às fls. 397/408 e-STJ.
+Juízo de admissibilidade negativo às fls. 412/416 e-STJ.
+Agravo em recurso especial às fls. 423/432 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Esse Superior Tribunal de Justiça possui jurisprudência consolidada no sentido de que, "excepcionalmente, nos casos de urgência e emergência, em que não se afigurar possível a utilização dos serviços médicos próprios, credenciados ou conveniados, a empresa de plano de saúde, mediante reembolso, responsabiliza-se pelas despesas médicas expendidas pelo contratante em tais condições, limitada, no mínimo, aos preços de serviços médicos e hospitalares praticados pelo respectivo produto" (EAREsp n. 1.459.849/ES, relator Ministro Marco Aurélio Bellizze, SEGUNDA SEÇÃO, DJe de 17/12/2020).
+No caso sob exame, narra a inicial que a menor estava na escola e, em razão de crise convulsiva, foi encaminhada às pressas pelo professores ao Hospital mais próximo para atendimento. Em que pese a alegação, em contestação, de que havia clínica da rede credenciada a 3 km da instituição de ensino da agravante, de fato, o Hospital São Lucas era o mais próximo, estando a 1.5 km do local.
+A controvérsia, portanto, revela hipótese excepcional a possibilitar a responsabilização da operadora de plano de saúde ao custeio do atendimento realizado, mediante reembolso, observado o limite da tabela da prestadora, uma vez que não seria razoável que, em caráter emergencial, se exigisse que os profissionais de ensino tivessem conhecimento sobre a apólice contratada pela genitora da menor.
+Reforça-se, tal circunstância, pelo fato de que, conforme consta da contestação, a ré fornece plano de saúde que dá direito aos usuários de serem atendidos no Hospital São Lucas, mas que o plano de assistência da menor não alberga o citado nosocômio.
+Em relação aos danos morais, a orientação desta Corte Superior é no sentido de que a recursa de atendimento de operadora de plano de saúde, por si só, não configura dano moral indenizável, quando fundada em interpretação razoável do contrato, como o caso dos autos.
+Em face do exposto, conheço do agravo para dar parcial provimento ao recurso especial a fim de determinar o reembolso do valor antecipado para o custeio do atendimento, limitado à tabela da prestadora de assistência à saúde.
+Intimem-se.
+EMENTA
