@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por THALITA MEDINA LOPES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (HC n. 1406632-13.2024.8.12.0000).
+Depreende-se dos autos que a recorrente encontra-se presa preventivamente, em razão do suposto delito de tráfico de drogas, diante da apreensão de 7 tabletes pesando 26,626kg (vinte e seis quilos e seiscentos e vinte e seis gramas) de maconha (e-STJ fl. 174).
+Impetrado prévio writ perante o Tribunal de origem, a ordem foi denegada nos termos do acórdão e-STJ fls. 168/169:
+TRÁFICO DE DROGAS - ALEGAÇÃO DE INCOMPATIBILIDADE DA PRISÃO COM EVENTUAL REGIME DE CUMPRIMENTO DE PENA - NÃO CONHECIDA - PRETENDIDA A SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR PRISÃO DOMICILIAR - DECISÃO AMPARADA EM FATOS CONCRETOS - GARANTIA DA ORDEM PÚBLICA, CONVENIÊNCIA DA INSTRUÇÃO PENAL E APLICAÇÃO DA LEI PENAL - REQUISITOS SUBJETIVOS FAVORÁVEIS - INSUFICIENTES - FILHOS MENORES - IMPOSSIBILIDADE - INEXISTÊNCIAS DE PROVAS DEMONSTRANDO QUE É A ÚNICA RESPONSÁVEL E QUE SEUS CUIDADOS SÃO INDISPENSÁVEIS - ORDEM PARCIALMENTE CONHECIDA E DENEGADA.
+I - A alegação da impetrante no sentido de incompatibilidade da prisão com eventual regime de cumprimento de pena não deve ser conhecida, vez que não comporta análise na via eleita, por se tratar de uma situação hipotética e imprevisível.
+II - Mantém-se a decretação de prisão preventiva se presentes a prova da materialidade delitiva, indícios suficientes de autoria, além da gravidade concreta do crime supostamente praticado de tráfico de drogas em especial diante da natureza e da quantidade de droga apreendida e o modus operandi da empreitada criminosa, circunstâncias indicadoras de periculosidade da paciente.
+III - O Superior Tribunal de Justiça tem entendido que "a imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP" (AgRg no HC 657.911/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 22/06/2021, DJe 28/06/2021).
+IV - As condições pessoais favoráveis da paciente não têm condão de afastar a prisão preventiva, quando esta se mostra necessária e respaldada nos art. 312 e 313 do Código de Processo Penal.
+V - "A concessão de prisão domiciliar à mãe com filhos menores de 12 anos só é possível quando demonstrado que se trata de única responsável, e que seus cuidados sejam imprescindíveis aos mesmos." (TJMS. Habeas Corpus Criminal n.1400106-35.2021.8.12.0000, Anastácio, 1ª Câmara Criminal, Relator: Juiz José Eduardo Neder Meneghelli, j: 01/02/2021, p: 04/02/2021).
+VI - De acordo com as alterações do Código de Processo Penal (realizadas pela Lei n. 13.769/2018), há possibilidade de substituição da prisão preventiva imposta à mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência por prisão domiciliar, desde que não tenha cometido crime com violência ou grave ameaça, bem como não tenha praticado o delito contra seu filho ou dependente. O indeferimento do referido benefício em situações excepcionais é viável, uma vez que o principal objetivo da mencionada Lei é a proteção da criança, e não a concessão de um salvo-conduto às mulheres que cometem crime sem violência ou grave ameaça, devendo-se levar em consideração o risco que a liberdade possa oferecer à sociedade e aos próprios filhos.
+VII - As particularidades do caso concreto são suficientes para a conclusão de que não é cabível substituir a segregação preventiva pela prisão domiciliar, já que a manutenção de filho criança com a mãe não atenderia a política de proteção integral, mas sim poderia colocá-lo em situação de risco.
+Neste recurso, a defesa aponta ausência de fundamentação idônea do decreto prisional bem como ausência dos requisitos previstos no art. 312 do Código de Processo Penal.
+Defende que a acusada faz jus à prisão domiciliar, nos termos do art. 318 do Código de Processo Penal, porquanto é mãe de 3 crianças menores de 12 anos.
+Afirma que a recorrente possui condições pessoais favoráveis.
+Requer, liminarmente e no mérito, a revogação da preventiva e a concessão de prisão domiciliar.
+Liminar indeferida pela Presidência desta Corte (e-STJ fls. 241/243).
+Prestadas as informações, o Ministério Público Federal manifestou-se pelo parcial provimento do recurso ordinário (e-STJ fls. 262/271).
+É o relatório.
+Decido.
+Consoante informações prestadas pela 6ª Vara Criminal da Comarca de Campo Grande/MS, verifica-se, em 4/6/2024, a superveniência de sentença condenatória, que estabeleceu a pena de 5 anos de reclusão, em regime semiaberto.
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar, que decorre, agora, de novo título, a ser submetido a pronunciamento do Tribunal de origem.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte Superior, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
