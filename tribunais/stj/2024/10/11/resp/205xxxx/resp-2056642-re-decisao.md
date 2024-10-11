@@ -1,0 +1,43 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 793):
+TRIBUTÁRIO. PIS E COFINS. EXCLUSÃO DE JUROS E CORREÇÃO MONETÁRIA. TAXA SELIC. REPETIÇÃO DE INDÉBITO. JURISPRUDÊNCIA DO STJ.
+1. A tese jurídica discutida nos autos foi analisada no REsp 1.138.695/SC, da relatoria do Ministro Mauro Campbell Marques, submetido ao rito dos Recursos Repetitivos (art. 543-C do CPC/1973 e Resolução 8/STJ), cujo julgamento foi realizado pela Primeira Seção desta Corte. Na ocasião, pacificou-se o entendimento de que os juros incidentes na devolução dos depósitos judiciais, como no caso em apreço, possuem natureza remuneratória. Isso porque se trata de disponibilidade econômica decorrente do capital, acrescentando valor nominal da moeda. Ademais, os juros moratórios supõem a existência de capital; portanto, aqueles são acessórios e este é principal, nos termos do art. 92 do Código Civil.
+2. Desse modo, assim como a correção monetária (se houver), os juros moratórios não escapam à tributação pelo PIS e Cofins, já que compõem a esfera de disponibilidade patrimonial do contribuinte, que, no caso dos depósitos efetuados na forma da Lei 9.703/1998, ocorre no momento da devolução ao depositante da quantia depositada, acrescida de juros calculados na forma estabelecida pelo § 4º do art. 39 da Lei 9.250/1995 (taxa Selic).
+3. "A tese firmada pela Suprema Corte no Tema 962, quanto à inconstitucionalidade da incidência do IRPJ e da CSLL sobre os valores atinente à taxa Selic recebidos em razão de repetição de indébito tributário, não interfere no entendimento acima, pois a natureza de danos emergentes conferida aos juros moratórios afeta apenas o conceito de renda (base de cálculo do IRPJ) e não o de receita (base de cálculo do PIS e da COFINS)" (AgInt no R Esp 1.960.912/RS, rel. Ministro Paulo Sérgio Domingues, Primeira Turma, D Je de 10.3.2023.)
+4. Agravo Interno não provido.
+A parte recorrente sustenta a ocorrência de violação dos arts. 145, § 1º, 150, I, e 195, I, b, da CF e aduz que há repercussão geral da matéria tratada.
+Em suas razões, sustenta que os valores relativos à Taxa Selic, recebidos na repetição de indébito tributário, corresponderiam à mera recomposição patrimonial e não a incremento de riqueza.
+Para tanto, defende que (fl. 856):
+ ..  deve ser aplicado o mesmo raciocínio apresentado pelo tema nº 962 do STF para afastar a tributação da taxa SELIC pelo IRPJ e CSLL ao caso do PIS e da COFINS. Isso porque, a recomposição dos valores pagos indevidamente, por meio da taxa SELIC são meras recomposições do poder monetário, não representando e não devendo ser considerada como receita nova e positiva para RECORRENTE, mas mera recomposição patrimonial.
+Requer, assim, a admissão e o provimento do recurso.
+Em 29/4/2024, o recurso extraordinário não foi admitido (fls. 873-876), o que ensejou a interposição do agravo previsto no art. 1.042 do Código de Processo Civil (fls. 882-887), remetido à Suprema Corte em 13/9/2024 (fl. 902).
+Diante do julgamento do RE n. 1.438.704, leading case do Tema n. 1.314 do STF, o Ministro Luís Roberto Barroso, com base no art. 13, V, c, do Regimento Interno do STF, determinou a devolução dos autos a este Tribunal Superior para as providências previstas no art. 1.030, I a III, do Código de Processo Civil (fls. 906-907).
+É o relatório.
+Em atenção à determinação emanada da Presidência do STF, realizo novo juízo de admissibilidade desta insurgência.
+2. O Supremo Tribunal Federal, no julgamento do RE n. 1.438.704/CE-RG, concluiu pela ausência de repercussão geral da discussão relativa à inclusão de valores recebidos a título de juros moratórios e correção monetária (taxa Selic) na base de cálculo do PIS e da COFINS, por envolver exame e intepretação de normas de natureza infraconstitucional (Lei n. 10.637/2002 e a Lei n. 10.833/2003).
+Na ocasião, a Suprema Corte fixou a seguinte tese vinculante:
+Tema n. 1.314: É infraconstitucional a controvérsia sobre a incidência de PIS e COFINS sobre juros de mora e correção monetária (taxa Selic) recebidos em repetição de indébito tributário.
+Confira-se, por oportuno, a ementa do acórdão paradigma:
+Direito tributário. Recurso extraordinário. PIS e COFINS. Incidência sobre a taxa Selic em repetição de indébito. Matéria infraconstitucional.
+I. Caso em exame
+1. Recurso extraordinário contra acórdão do Tribunal Regional Federal da 5ª Região, que afirmou a incidência de PIS e COFINS sobre juros de mora e correção monetária (taxa Selic) em repetição de indébito tributário. Isso sob o fundamento de que os valores designam receitas totais (receita ou faturamento), que constituem a base de cálculo dessas contribuições sociais. II. Questão em discussão
+2. A questão jurídica em discussão consiste em saber se os valores recebidos a título de juros moratórios e correção monetária (taxa Selic), em repetição de indébito tributário, compõem a base de cálculo do PIS e da COFINS.
+III. Razões de decidir
+3. A jurisprudência do STF afirma que a discussão referente à incidência de PIS e COFINS sobre taxa SELIC em repetição de indébito tributário demanda o reexame de legislação infraconstitucional (Leis nº 10.637/02 e nº 10.833/03). Inexistência de matéria constitucional. Questão restrita à interpretação de norma infraconstitucional.
+IV. Dispositivo e Tese
+4. Recurso não conhecido. Tese de julgamento: "É infraconstitucional a controvérsia sobre a incidência de PIS e COFINS sobre juros de mora e correção monetária (taxa Selic) recebidos em repetição de indébito tributário".
+(RE 1438704 RG, Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, julgado e m 16-08-2024, PROCESSO ELETRÔNICO DJe-215 DIVULG 21-08-2024 PUBLIC 22-08-2024)
+No caso, ao examinar a controvérsia, este Superior Tribunal assim se manifestou (fls. 798-801 ):
+Conforme consignado na decisão agravada, a tese jurídica discutida nos autos, foi analisada no R Esp 1.138.695/SC, da relatoria do Ministro Mauro Campbell Marques, submetido ao rito dos Recursos Repetitivos (art. 543-C do Código Processual Civil de 1973 e Resolução 8/STJ), cujo julgamento foi realizado pela Primeira Seção desta Corte.
+Na ocasião, pacificou-se o entendimento de que os juros incidentes na devolução dos depósitos judiciais, como no caso em apreço, possuem natureza remuneratória. Isso porque se trata de disponibilidade econômica decorrente do capital, acrescentando valor nominal da moeda.
+Ademais, os juros moratórios supõem a existência de capital; portanto, aqueles são acessórios e este é principal, nos termos do art. 92 do Código Civil.
+Nessa toada, o capital atualizado consubstancia a capacidade contributiva que legitima a tributação. Não há como cindir a incidência do imposto, visto que o acessório segue o principal. Outrossim, percebe-se que a hipótese aventada pela parte recorrente, se implementada, significa incidência do imposto sobre o capital diminuído, original, não recomposto, muito embora seu poder de compra esteja mantido.
+Desse modo, assim como a correção monetária (se houver), os juros moratórios não escapam à tributação pelo PIS e Cofins, já que compõem a esfera de disponibilidade patrimonial do contribuinte, que, no caso dos depósitos efetuados na forma da Lei 9.703/1998, ocorre no momento da dev olução ao depositante da quantia depositada, acrescida de juros calculados na forma estabelecida pelo § 4º do art. 39 da Lei 9.250/1995 (taxa SELIC).
+Vejam-se precedentes:
+ .. .
+"A tese firmada pela Suprema Corte no Tema 962, quanto à inconstitucionalidade da incidência do IRPJ e da CSLL sobre os valores atinente à taxa Selic recebidos em razão de repetição de indébito tributário, não interfere no entendimento acima, pois a natureza de danos emergentes conferida aos juros moratórios afeta apenas o conceito de renda (base de cálculo do IRPJ) e não o de receita (base de cálculo do PIS e da COFINS)" (AgInt no R Esp n. 1.960.912/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 6/3/2023, D Je de 10/3/2023.)
+Assim, evidenciada a natureza infraconstitucional e a ausência de repercussão geral do debate, é inviável a admissão da insurgência.
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. PIS E COFINS. INCIDÊNCIA SOBRE JUROS DE MORA E CORREÇÃO MONETÁRIA (TAXA SELIC) RECEBIDOS EM REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. MATÉRIA INFRACONSTITUCIONAL. TEMA N. 1.314 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
