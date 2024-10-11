@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+HABEAS CORPUS - Tráfico de drogas - Conversão da prisão em flagrante em preventiva - Alegação de ilegalidade na prisão em flagrante por violência física dos policiais contra o paciente - Circunstância afastada na audiência de custódia Ilegalidade que não se mostra patente e flagrante - Prisão preventiva - Análise da prisão cautelar sob o enfoque das Leis n.º 12.403/11 e n.º 13.964/19 - Paciente preso em flagrante por tráfico de drogas após ter experimentado duas anteriores condenações pelo mesmo crime - Prisão fundamentada na necessidade de se garantir a ordem pública pela possibilidade concreta de recidiva - Jurisprudência do STF e STJ - Ordem denegada - (Voto n.º 49646).
+Imputa-se ao paciente a prática do crime de tráfico de drogas e associação para o tráfico (arts. 33 e 35, da Lei 11.343/06).
+A defesa alega, em síntese: a) ausência de fundamentação idônea para o decreto de prisão preventiva, porque lastreada na gravidade abstrata do delito; b) que o paciente é trabalhador, tem família constituída e tem residência fixa, tornando-se evidente que não representa risco à ordem pública, à instrução criminal ou à aplicação da lei penal.
+Ao final, requer a concessão da ordem para revogar a prisão preventiva, ainda que mediante imposição de medidas cautelares alternativas.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Infere-se dos autos terem sido apreendidas dezenas de pedras de crack pesando no total 13,8g, além de 1 cigarro e uma trouxinha de maconha pesando 1,04g.
+No que tange às alegações da defesa, assim entendeu o Tribunal de origem (e-STJ fls. 335-336):
+O paciente, conforme certidão de antecedentes às fls. 89/92, ostenta duas anteriores condenações por crime de tráfico ilícito de drogas, cometidos em 2013 e 2014 e, mesmo já tendo experimentado duas condenações por crimes da mesma espécie, deliberou persistir na prática criminosa, vindo a ser preso novamente pela prática do crime de tráfico ilícito de drogas, flagrado na posse de porções de crack, fato este, concreto e relativo à pessoa do paciente, revelador de que a excepcional prisão preventiva, no caso dos autos, é necessária e adequada à preservação da ordem pública, notadamente para que ele não volte a delinquir.
+Como se vê do trecho destacado, o Tribunal de origem concluiu pela manutenção da custódia cautelar especialmente em razão do risco de reiteração delitiva, considerando que o paciente é multi- reincidente específico.
+Nesse contexto, a alteração do quadro fático formado na Corte de origem demandaria a dilação probatória, providência inviável em sede de habeas corpus.
+Ante o exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
