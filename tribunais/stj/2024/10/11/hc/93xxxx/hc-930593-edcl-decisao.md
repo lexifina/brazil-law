@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FELIPE SALIM MACEDO contra decisão monocrática que não conheceu do habeas corpus (e-STJ fl. 723/732).
+Nas razões dos embargos, a defesa alega, em síntese, não ter sido enfrentada a alegação de fundamentação per relationem sem acrescentar fundamentos próprios na decisão. Reitera que o Tribunal apenas transcreveu os fundamentos iniciais, de primeiro, grau, e relacionou jurisprudência, o que tornaria a decisão nula e, portanto, ilegal.
+Diante disso, pede sejam os embargos acolhidos para suprir a suposta omissão.
+É o relatório, decido.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+Colhe-se da sentença (e-STJ fl. 17 e 409):
+NEGO ao réu o direito de recorrer em liberdade, em consonância com o art. 387, §1º, do CPP, pois persistem as razões motivadoras de seu decreto preventivo, em especial pela periculosidade demonstrada por integrar associação criminosa voltada para o tráfico de drogas, e pela probabilidade de reiteração delitiva se estiver em liberdade. Sendo certo que restituir a liberdade do réu gera risco iminente à sociedade, visto que se dedica à prática de crimes, especialmente ao fortalecimento do tráfico de drogas em prol de uma facção criminosa. Deve-se ressaltar que os delitos praticados são de extrema gravidade e a manutenção da custódia mostra-se necessária como acautelamento social.
+Na aplicação da técnica da fundamentação per relationem "o magistrado se utiliza de trechos de decisão anterior ou de parecer ministerial como razão de decidir, desde que a matéria haja sido abordada pelo órgão julgador, com a menção a argumentos próprios" (RHC n. 94.488/PA, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 19/4/2018, DJe 2/5/2018).
+No caso, não se constata o vício alegado, como se depreende do seguinte trecho da decisão:
+No caso, como visto, a segregação cautelar foi mantida pelo Tribunal estadual em razão da periculosidade social do paciente, demonstrada por integrar associação criminosa voltada para o tráfico de drogas, e pela probabilidade de reiteração delitiva se estiver em liberdade se dedica à prática de crimes, especialmente ao fortalecimento do tráfico de drogas em prol de uma facção criminosa (e-STJ fl. 17).
+A propósito, na sentença foi considerada (e-STJ fl. 406):
+(..) a quantidade de droga efetivamente apreendida relacionada nos autos de referência n. 0817626-89.2019.8.23.0010, n. 0807536- 85.2020.8.23.0010 e n. 0822415-97.2020.8.23.0010, sendo aproximadamente 5.019,20g de skunk, 24.860g de cocaína e 22,9 kg maconha, mas também a elevada quantidade transacionada pela associação durante todo no período das investigações, e ainda a diversidade da natureza do entorpecente, cocaína, maconha e supermaconha, de alto valor econômico que rende maior lucro ao réu e à associação criminosa que integra, e possui maior nocividade (..)
+Como visto, o Juiz sentenciante manteve a prisão preventiva na sentença reafirmando a necessidade de manutenção da medida em razão da periculosidade do réu.
+No caso, o embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+Intimem-se.
+EMENTA
