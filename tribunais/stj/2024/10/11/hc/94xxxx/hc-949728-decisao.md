@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+Apelação criminal - Roubo qualificado - Recurso defensivo - Pretensão de absolvição por insuficiência probatória - Impossibilidade - Autoria e materialidade bem delineadas - Quadro probatório suficiente a embasar a condenação - Declarações das vítimas e testemunhas corroboradas com demais elementos acostados aos autos - Condenação acertada - Dosimetria penal que comporta modificação para reconhecimento das circunstâncias atenuantes da confissão e da menoridade relativa, na segunda fase da dosimetria, contudo sem refletir na pena definitiva - Regime prisional bem fixado Recurso parcialmente provido, para reconhecer as circunstâncias atenuantes da confissão e da menoridade relativa, na segunda fase da dosimetria, contudo sem refletir na pena definitiva.
+Consta dos autos que o paciente foi condenado à pena de 7 anos, 9 meses e 10 dias de reclusão, e pagamento de 18 dias-multa, pela prática do crime de roubo circunstanciado pelo concurso de agentes e pelo emprego de arma de fogo (art. 157, §§ 2º, II, e 2º-A, I, do Código Penal).
+A defesa alega, em síntese: a) que o paciente é primário, trabalhador, e tem residência fixa na cidade de Limeira, não integrando nenhuma organização criminosa; b) que o paciente não teve nenhuma participação no evento criminoso, não existindo prova robusta que possa embasar uma condenação; c) que o paciente tem direito a iniciar o cumprimento de sua pena no regime aberto.
+Ao final, requer a concessão da ordem para redimensionar a pena ou abrandar o regime inicial para seu desconto.
+É o relatório.
+Decido.
+A matéria trazida no habeas corpus não foi apreciada no acórdão impugnado, o que impede a apreciação por esta Corte.
+Na verdade, a presente impetração volta-se contra acórdão que julgou o recurso de apelação criminal do corréu Ruan Lima Santos, considerando a desistência do recurso pelo paciente perante o Juízo primário, lá homologado e certificado o trânsito em julgado da condenação.
+Portanto, não há qualquer ato coator emanado por Tribunal submetido diretamente à jurisdição deste Superior Tribunal de Justiça que pudesse viabilizar o processamento e julgamento do presente writ, de modo que a análise da irresignação veiculada na impetração constituiria indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ASSOCIAÇÃO CRIMINOSA. DECISÃO DE PRONÚNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS. ANÁLISE DE PROVAS. VIA INADEQUADA. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. CONCESSÃO DE OFÍCIO DE ORDEM DE HABEAS CORPUS. OPÇÃO EXCLUSIVA DO RELATOR.
+1. O Tribunal de origem, com apoio na prova dos autos, em especial depoimentos testemunhais colhidos sob o crivo do contraditório, concluiu pela legalidade da pronúncia, uma vez que verificou indícios suficientes nesse sentido, inclusive indicando ser inconteste a materialidade, motivo pelo qual é aplicável o princípio do in dubio pro societate.
+2. "Sobre os indícios de autoria da prática do crime imputado ao Agravante, segundo estabelece o art. 413 do Código de Processo Penal, não se faz necessário, na fase de pronúncia, um juízo de certeza a respeito da autoria do crime, mas que o Juiz se convença da existência do delito e de indícios suficientes de que o réu seja o seu autor". (AgRg no HC n. 819.544/AM, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+3. Tendo as instâncias de origem concluído no sentido de que o conjunto fático-probatório dos autos é suficiente para embasar a pronúncia, para se acolher a alegação de insuficiência probatória seria necessário o revolvimento fático-probatório, vedado em habeas corpus. Precedentes.
+4. No tocante ao alegado excesso de prazo da prisão decretada, verifica-se que a questão não foi analisada no acórdão recorrido. Desse modo, não debatida a questão pela Corte a quo, impedido fica o Superior Tribunal de Justiça de apreciar a matéria, sob pena de se incorrer em indevida supressão de instância.
+5. Quanto à concessão de ofício de ordem de habeas corpus, em que pese a possibilidade dessa opção de julgamento (art. 654, §2º, do CPP), é necessário que haja flagrante ilegalidade, o que não se verifica no presente caso, sem falar que a concessão de habeas corpus, de ofício, é opção exclusiva do relator.
+6. Agravo regimental improvido.
+(AgRg no HC n. 821.781/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, j. em 13/11/2023, DJe de 16/11/2023) (destaque acrescentado).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
