@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu recurso especial (fundado no art. 105, III, a, da CF) apresentado contra o acórdão proferido pelo Tribunal de Justiça de São Paulo (Apelação Criminal n. 0039443-12.2017.8.26.0050) que manteve a sentença que condenou Marcio Santana como incurso no crime de receptação, corrigindo erro material na fixação da pena-base e readequando a pena.
+Nas razões do recurso especial, o agravante suscitou violação do art. 44, § 3º, do CP (fls. 209/248).
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 7/STJ (fl. 262).
+Contra o decisum a defesa interpôs o presente agravo (fls. 267/284).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo desprovimento do recurso, nos termos do parecer assim ementado (fl. 303):
+AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. CONHECIMENTO. RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 44, § 3º, DO CÓDIGO PENAL. PENA-BASE NO MÍNIMO LEGAL. REINCIDÊNCIA GENÉRICA. PLEITO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. NEGATIVA COM FUNDAMENTAÇÃO IDÔNEA. MEDIDA SOCIALMENTE NÃO RECOMENDÁVEL. REITERAÇÃO DELITIVA EM CRIME PATRIMONIAL. CIRCUNSTÂNCIAS DO CASO CONCRETO. INCIDÊNCIA DO ENUNCIADO DA SÚMULA 83. CONHECIMENTO DO AGRAVO PARA NEGAR CONHECIMENTO AO RECURSO ESPECIAL.
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão.
+Quanto ao recurso especial em si, a insurgência também é admissível, mas, no mérito, não merece acolhida.
+A tese deduzida no recurso especial é de que o agravante faz jus à substituição da pena privativa de liberdade por restritivas de direitos na forma do art. 44, § 3º, do CP.
+Sucede que o agravante ostenta a condição de reincidente, elemento esse que, acrescido das circunstâncias em que foi flagrado cometendo o crime (em liberdade provisória com fixação de cautelares em outro processo), fundou a conclusão da Corte de origem no sentido de que a substituição não seria socialmente recomendável (fl. 200 - grifo nosso):
+ ..
+O passado criminoso do réu, que demonstrou personalidade avessa ao ordenamento jurídico, sendo reincidente, deixa clara a insuficiência da fixação do regime aberto, sendo o regime prisional semiaberto corretamente eleito no primeiro grau de jurisdição.
+Não é apenas o montante da pena ou a gravidade abstrata da conduta que devem balizar a modalidade prisional, mas também a necessidade de justa e suficiente resposta jurisdicional, apta à reprovação e, principalmente, a obstar a reiteração criminosa.
+Lembre-se, ainda, que a receptação atua como inegável mola propulsora para a prática de furtos, roubos e estelionatos, crimes estes que tanto assolam a sociedade hodiernamente, de maneira que o furtador, o roubador e o estelionatário somente persistem em tais práticas porque encontram destinatários para os bens, funcionando o receptador como alimento desse odioso círculo criminoso.
+Portanto, no presente caso, a fixação do regime inicial semiaberto não ofende, de forma alguma, as Súmulas 718 e 719, do STF, e as Súmulas 269 e 440, do STJ, muito menos ao princípio da proporcionalidade.
+Pelos mesmos motivos, igualmente inviável a substituição da pena privativa de liberdade por restritivas de direitos ou sursis, porque seria insuficiente para a repressão e prevenção do delito em tela, especialmente ante a reincidência do réu, em crime doloso patrimonial (Processo 8977/2004 - conforme FA de fls. 104/113 - notadamente às fls. 108 e 111, em que consta ter sido extinta a sua última condenação pelo cumprimento da pena em 13/03/2016), não sendo socialmente recomendável tal medida, sendo indiferente ser a reincidência específica ou não, além da revelia do réu, de não ter feito ele prova de subsistência por meio honesto e o fato de o réu já ter sido beneficiado com a liberdade provisória com condições no outro processo, mas descumpriu as mesmas e voltou a delinquir, portanto, não indicados, nos termos do artigo 44, incisos II e III, e artigo 77, incisos I e II, do Código Penal.
+ ..
+Tal o contexto, não há falar em ilegalidade; ao contrário, a vedação da pena substitutiva, na forma do art. 44, § 3º, do CP, está devidamente justificada:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TENTATIVA DE FURTO QUALIFICADO. EXASPERAÇÃO DA PENA-BASE. POSSIBILIDADE. MAIOR DESVALOR DAS CIRCUNSTÂNCIAS DO CRIME. SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS. HABEAS CORPUS NÃO CONHECIDO. 1. O
+Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento do habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+2. Sabe-se que a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+3. No caso, não há óbice ao reconhecimento da maior reprovabilidade das circunstâncias, considerando-se, no caso, a forma como o delito foi cometido. Conforme se observou, o acusado se passou por cliente da loja, subiu para o andar superior, se escondeu e ficou esperando a loja fechar para cometer o crime, evidenciando uma conduta mais reprovável do agente, ante a premeditação e a destreza. Precedentes.
+4. Não há se falar em substituição da pena privativa de liberdade por restritivas de direitos tendo em vista que o Tribunal local entendeu que a medida não era socialmente recomendável, tendo em vista que o acusado cometeu o crime quando estava em liberdade provisória pela prática de crime da mesma espécie, inclusive contra o mesmo estabelecimento comercial (CP, art. 44, III).
+5. Habeas corpus não conhecido.
+(HC n. 412.691/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/11/2017, DJe 4/12/2017 - grifo nosso).
+Assim, é caso de incidir a Súmula 568/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. VIOLAÇÃO DO ART. 44, § 3º, DO CP. SUPOSTA ILEGALIDADE NA VEDAÇÃO DA PENA SUBSTITUTIVA. MANIFESTA IMPROCEDÊNCIA. RÉU REINCIDENTE. COMETIMENTO DO CRIME DURANTE LIBERDADE PROVISÓRIA EM OUTRO PROCESSO. DESCUMPRIMENTO DE CAUTELARES. SUBSTITUIÇÃO NÃO RECOMENDÁVEL. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES DESTA CORTE.
+Agravo conhecido para negar provimento ao recurso especial.
