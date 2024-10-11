@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - O Código de Processo Civil e o Regimento Interno desta Corte (art. 932, inciso III, do CPC/2015 e arts. 34, inciso VII, e 255, § 4.º, ambos do RISTJ) permitem ao relator julgar monocraticamente recurso inadmissível, prejudicado, ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, e ainda, dar ou negar provimento nas hipóteses em que há entendimento firmado em precedente vinculante, súmula ou jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, a respeito da matéria debatida no recurso, qual seja, fundamentação deficiente da peça recursal, não importando essa decisão em cerceamento de defesa ou violação ao princípio da colegialidade.
+II - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+III - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para inadmitir o recurso especial com relação à incidência da Súmula n. 7 do STJ.
+IV - Não basta deduzir a inaplicabilidade do óbice sumular, devendo ser esclarecido o rechaço aos pontos esteares da decisão de admissibilidade, como comprovar, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DANIEL PEREIRA GOMES contra a decisão de fls. 1.124-1.125, por meio da qual o agravo em recurso especial deixou de ser conhecido em decisão da Presidência deste Superior Tribunal de Justiça.
+Consta dos autos que o agravante foi condenado como incurso nas penas dos artigos 33 e 35 da Lei n. 11.343/06, à pena de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e 583 (quinhentos e oitenta e três) dias-multa.
+Interposto recurso defensivo perante o Tribunal de origem, negou-se provimento à referida peça.
+No recurso especial, alegou-se violação ao art. 386, VII, do Código de Processo Penal.
+O recurso foi inadmitido com base na Súmula n. 7 do STJ, uma vez que sua análise demandaria revolvimento da matéria fático-probatória.
+Nesta Corte, o agravo em recurso especial deixou de ser conhecido pela Presidência, pois a Defesa não impugnou de forma suficiente os fundamentos da decisão de inadmissão do apelo nobre.
+No regimental, sustenta a Defesa, inicialmente que o exame do agravo em recurso especial não poderia ter sido feito por meio de decisão monocrática, havendo ofensa ao princípio da colegialidade. No mérito, aduz que o verbete sumular restou plena e satisfatoriamente impugnado nas razões do agravo, de forma a viabilizar a análise meritória do recurso especial.
+Pugna, ao final, pela reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao Colegiado.
+Por manter o decisum, trago o feito a julgamento do Colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - O Código de Processo Civil e o Regimento Interno desta Corte (art. 932, inciso III, do CPC/2015 e arts. 34, inciso VII, e 255, § 4.º, ambos do RISTJ) permitem ao relator julgar monocraticamente recurso inadmissível, prejudicado, ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, e ainda, dar ou negar provimento nas hipóteses em que há entendimento firmado em precedente vinculante, súmula ou jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, a respeito da matéria debatida no recurso, qual seja, fundamentação deficiente da peça recursal, não importando essa decisão em cerceamento de defesa ou violação ao princípio da colegialidade.
+II - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+III - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para inadmitir o recurso especial com relação à incidência da Súmula n. 7 do STJ.
+IV - Não basta deduzir a inaplicabilidade do óbice sumular, devendo ser esclarecido o rechaço aos pontos esteares da decisão de admissibilidade, como comprovar, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo.
+Agravo regimental desprovido.
+VOTO
+Incialmente, registro que o Código de Processo Civil e o Regimento Interno desta Corte (art. 932, inciso III, do CPC/2015 e arts. 34, inciso VII, e 255, § 4.º, ambos do RISTJ) permitem ao relator julgar monocraticamente recurso inadmissível, prejudicado, ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, e ainda, dar ou negar provimento nas hipóteses em que há entendimento firmado em precedente vinculante, súmula ou jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, a respeito da matéria debatida no recurso, não importando essa decisão, ao contrário do que afirma a Defesa, em cerceamento de defesa ou violação ao princípio da colegialidade.
+Certo é que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pelo colegiado, afastando-se o eventual vício existente (AgRg no AREsp n. 2.527.925/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024 e AgRg no REsp n. 2.093.397/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+Não por outro motivo, foi editada a Súmula n. 568, STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+No mais, em que pesem os argumentos do agravante, a decisão impugnada deve ser mantida.
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porque não foram infirmados os fundamentos empregados pela eg. Corte de origem para inadmitir o recurso.
+Em relação à inadmissão quanto à aplicação da Súmula n. 7/STJ, a defesa limitou-se a aduzir, no recurso de agravo em recurso especial, que " o debate trazido à baila não importa reexame de provas. Ao revés, unicamente matéria de direito, não incorrendo, portanto, com a regra ajustada na Súmula 07 desta Egrégia Corte.."(fl. 1.107).
+Não obstante, deveria a parte agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Nesse sentido:
+"São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 29/3/2023).
+Rememore-se que não basta deduzir a inaplicabilidade do óbice sumular, devendo ser esclarecido o rechaço aos pontos esteares da decisão de admissibilidade, como comprovar, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo.
+Desse modo, a impugnação deficiente dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida. Igualmente, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Com efeito, "Deixando a parte agravante de impugnar específica e concretamente os fundamentos da decisão agravada, é de se aplicar o art. 932, III, do Código de Processo Civil de 2015 e o art. 253, I, do RISTJ" (AgRg no AREsp n. 2.083.475/MA, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 10/10/2022).
+Assim, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
