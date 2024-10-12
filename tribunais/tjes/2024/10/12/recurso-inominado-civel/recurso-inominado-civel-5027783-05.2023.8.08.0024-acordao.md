@@ -1,0 +1,105 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5027783-05.2023.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: VITOR GABRIEL PEREIRA DE SA
+RECORRIDO: UNIMED VITORIA COOPERATIVA DE TRABALHO MEDICO
+RELATOR(A):
+DOUGLAS DEMONER FIGUEIREDO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+EMENTA/VOTO: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DE OBRIGAÇÃO DE PAGAR QUANTIA CERTA C/C DANOS MORAIS. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. INTERNAÇÃO PSIQUIÁTRICA PARA TRATAMENTO DE DEPENDÊNCIA QUÍMICA. AUTOR INTERNADO, EM CARÁTER DE URGÊNCIA, EM CLÍNICA NÃO CREDENCIADA DESTINADA AO TRATAMENTO DE DEPENDÊNCIA QUÍMICA. PRETENSÃO AO CUSTEIO DE TRATAMENTO FORA DA REDE CREDENCIADA. SOLICITAÇÃO MÉDICA ACOSTADA AOS AUTOS. SOLICITAÇÃO MÉDICA ACOSTADA AOS AUTOS. RECUSA ADMINISTRATIVA DE REEMBOLSO. SENTENÇA DE PARCIAL PROCEDÊNCIA. NECESSIDADE DE ATENDIMENTO E SUBMISSÃO A REDE CREDENCIADA AO PLANO. DISPONIBILIZAÇÃO DE CLÍNICA ESPECIALIZADA NO TRATAMENTO ALMEJADO PELO AUTOR. SERVIÇO EM REDE PARTICULAR E POSSIBILIDADE SOMENTE NA FALTA DE PROFISSIONAL CREDENCIADO. DESEQUILÍBRIO CONTRATUAL. RESTITUIÇÃO QUE DEVE SER PARCIAL. LIMITAÇÃO AO VALOR DA TABELA CONTRATUAL. DANO MORAL NÃO CONFIGURADO. SENTENÇA MANTIDA. RECURSO CONHECIDO E IMPROVIDO. CONDENAÇÃO EM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS. ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos nº 5027783-05.2023.8.08.0024
+
+Recorrente: VITOR GABRIEL PEREIRA DE SÁ
+
+Recorrida: UNIMED VITÓRIA COOPERATIVA DE TRABALHO MÉDICO
+
+Relator: DR. DOUGLAS DEMONER FIGUEIREDO
+
+VOTO
+
+DR.
+DOUGLAS DEMONER FIGUEIREDO
+- RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo à parte recorrente o benefício da Justiça Gratuita, visto que preenchidos os requisitos legais.
+
+EMENTA/VOTO: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DE OBRIGAÇÃO DE PAGAR QUANTIA CERTA C/C DANOS MORAIS. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. INTERNAÇÃO PSIQUIÁTRICA PARA TRATAMENTO DE DEPENDÊNCIA QUÍMICA. AUTOR INTERNADO, EM CARÁTER DE URGÊNCIA, EM CLÍNICA NÃO CREDENCIADA DESTINADA AO TRATAMENTO DE DEPENDÊNCIA QUÍMICA. PRETENSÃO AO CUSTEIO DE TRATAMENTO FORA DA REDE CREDENCIADA. SOLICITAÇÃO MÉDICA ACOSTADA AOS AUTOS. SOLICITAÇÃO MÉDICA ACOSTADA AOS AUTOS. RECUSA ADMINISTRATIVA DE REEMBOLSO. SENTENÇA DE PARCIAL PROCEDÊNCIA. NECESSIDADE DE ATENDIMENTO E SUBMISSÃO A REDE CREDENCIADA AO PLANO. DISPONIBILIZAÇÃO DE CLÍNICA ESPECIALIZADA NO TRATAMENTO ALMEJADO PELO AUTOR. SERVIÇO EM REDE PARTICULAR E POSSIBILIDADE SOMENTE NA FALTA DE PROFISSIONAL CREDENCIADO. DESEQUILÍBRIO CONTRATUAL. RESTITUIÇÃO QUE DEVE SER PARCIAL. LIMITAÇÃO AO VALOR DA TABELA CONTRATUAL. DANO MORAL NÃO CONFIGURADO. SENTENÇA MANTIDA. RECURSO CONHECIDO E IMPROVIDO. CONDENAÇÃO EM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS. ASSISTÊNCIA JUDICIÁRIA GRATUITA. (1). DA LIDE.
+O REQUERENTE QUE É BENEFICIÁRIO DE PLANO DE SAÚDE DA REQUERIDA, COM ABRANGÊNCIA NACIONAL. ADUZ QUE
+“desde o início dos anos 2020, o mesmo começou a apresentar quadros de depressão que o levou a dependência química, ocasionando inúmeras internações, por se tratar de alto risco de morte, o mesmo teve que ser internado de forma urgente”
+. AFIRMA AINDA QUE AS INTERNAÇÕES ANTERIORES EM CLÍNICAS CREDENCIADAS À REQUERIDA NO ESTADO
+“não surtiram efeito, sendo necessário então a internação compulsória em clínica no interior de São Paulo”
+ENSEJANDO DESEMBOLSO DO VALOR TOTAL DE R$ 12.000,00, REFERENTE A SEIS MENSALIDADES DE INTERNAÇÃO, E APESAR DE TER SOLICITADO O REEMBOLSO DOS VALORES JUNTO A REQUERIDA LHE FOI NEGADO. DIANTE DISSO, PLEITEIA A RESTITUIÇÃO DO VALOR DESEMBOLSADO E INDENIZAÇÃO POR DANOS MORAIS.
+(2). ANTÍTESE.
+EM CONTESTAÇÃO A REQUERIDA, EM SÍNTESE, PUGNOU PELA IMPROCEDÊNCIA DA PRETENSÃO AUTORAL, SUSTENTA QUE NÃO HOUVE SOLICITAÇÃO PRÉVIA PARA INTERNAÇÃO, BEM COMO O TRATAMENTO FOI REALIZADO JUNTO À CLÍNICA NÃO CREDENCIADA DO PLANO SAÚDE RÉU, DE MODO QUE NÃO HÁ QUE SE FALAR EM REEMBOLSO. POR FIM, SUSTENTA QUE EM CASO DE PROCEDÊNCIA DO PLEITO AUTORAL OS VALORES A SEREM REEMBOLSADOS DEVE SE LIMITAR AOS VALORES CONSTANTES NA TABELA DA REQUERIDA.
+(3). DISPOSITIVO DA SENTENÇA.
+“Ante o exposto,
+ACOLHO, em parte,
+os pedidos iniciais, resolvendo o mérito nos termos do art. 487, I, do CPC, para fins de
+CONDENAR
+a UNIMED VITÓRIA – COOPERATIVA DE TRABALHO MÉDICO S/A a pagar a VITOR GABRIEL PEREIRA DE SÁ o valor de R$ 2.783,04 (dois mil setecentos e oitenta e três reais e quatro centavos) a título de reembolso pelas despesas médicas , com correção monetária, e juros de mora, a contar da citação (art. 397, parágrafo único c/c art. 405, do CC), ambos pelos índices da Corregedoria local. Sem condenação em custas e honorários advocatícios nesta fase processual, por força dos artigos 54 e 55 da Lei nº 9.099/95”.
+(4). RECURSO DA PARTE AUTORA.
+PUGNA, EM SÍNTESE, PELA REFORMA DA R. SENTENÇA, DETERMINANDO A CONDENAÇÃO DA RECORRIDA AO REEMBOLSO INTEGRAL DOS VALORES GASTOS PELO CONSUMIDOR NO PAGAMENTO DA CLÍNICA DE RECUPERAÇÃO, BEM COMO AO PAGAMENTO DE DANOS MORAIS NO VALOR PLEITEADO NA EXORDIAL. REQUERENDO, AINDA, A CONDENAÇÃO DA RECORRIDA EM HONORÁRIOS SUCUMBENCIAIS NA FORMA DA LEI.
+(5). CONTRARRAZÕES DA PARTE RÉ.
+PRELIMINARMENTE, IMPUGNA O PLEITO AUTORAL DE JUSTIÇA GRATUITA. NO MÉRITO, EM SUMA, ALMEJA A MANUTENÇÃO DO ATO SENTENCIAL OBJURGADO.
+(6).
+DA QUESTÃO PROCESSUAL.
+CONSOANTE JURISPRUDÊNCIA DO STJ, NA IMPUGNAÇÃO À PLEITO DE JUSTIÇA GRATUITA, INCUMBE AO IMPUGNANTE DEMONSTRAR QUE O IMPUGNADO NÃO CARECE À CONCESSÃO DE TAL BENESSE. ASSIM, ALEGAÇÕES GENÉRICAS VENTILADAS PELA RECORRIDA DE QUE O RECORRENTE NÃO MERECE A CONCESSÃO DO SUPRA BENEFÍCIO, DESACOMPANHADA DE QUALQUER DOCUMENTO QUE COMPROVE A SUPOSTA CAPACIDADE FINANCEIRA DA PARTE AUTORA, NÃO SÃO PLAUSÍVEIS DE ACOLHIMENTO.
+ÔNUS DO IMPUGNANTE
+.
+DEFERIMENTO MANTIDO
+.
+RECORRIDA QUE NÃO TROUXE QUALQUER PROVA DE QUE A RECORRENTE NÃO FAZ JUS AOS BENEFÍCIOS DA ASSISTÊNCIA JUDICIÁRIA GRATUITA
+.
+PRELIMINAR NÃO ACOLHIDA
+.
+(7). DO MÉRITO.
+RELAÇÃO DE CONSUMO
+. A CONTROVÉRSIA TRAZIDA AOS AUTOS GRAVITA EM TORNO DE SE RECONHECER OU NÃO A RESPONSABILIDADE DO PLANO DE SAÚDE EM RESTITUIR AS DESPESAS MÉDICO-HOSPITALARES EFETUADAS PELO BENEFICIÁRIO, ORA AUTOR/RECORRENTE, COM INTERNAÇÃO PSIQUIÁTRICA PARA TRATAMENTO DE DEPENDÊNCIA QUÍMICA, REALIZADA EM CARÁTER DE URGÊNCIA, EM CLÍNICA NÃO CREDENCIADA, BEM COMO PELOS EVENTUAIS DANOS MORAIS SOFRIDOS. POIS BEM. ADIANTO QUE ENTENDO SER O CASO DE IMPROVIMENTO DO RECURSO. ISSO PORQUE, EMBORA A OPERADORA DE PLANO DE SAÚDE NÃO TENHA O DIREITO DE RECUSAR TRATAMENTO QUE ESTEJA COBERTO PELO CONTRATO, ELA NÃO ESTÁ OBRIGADA A CUSTEAR O ACOMPANHAMENTO POR CLÍNICA/HOSPITAL E MÉDICO PARTICULAR QUANDO EXISTA DENTRO DE SUA REDE CREDENCIADA A OFERTA DOS SERVIÇOS VOLTADOS À TERAPÊUTICA NECESSÁRIA AO PACIENTE. O ARTIGO 12, VI, DA LEI 9.656/98 (LEI QUE DISPÕE SOBRE OS PLANOS E SEGUROS PRIVADOS DE ASSISTÊNCIA À SAÚDE), ASSIM DISPÕE:
+Art. 12. São facultadas a oferta, a contratação e a vigência dos produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei, nas segmentações previstas nos incisos I a IV deste artigo, respeitadas as respectivas amplitudes de cobertura definidas no plano-referência de que trata o art. 10, segundo as seguintes exigências mínimas: [...] VI - reembolso, em todos os tipos de produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei, nos limites das obrigações contratuais, das despesas efetuadas pelo beneficiário com assistência à saúde,
+em casos de urgência ou emergência,
+quando não for possível a utilização dos serviços próprios, contratados, credenciados ou referenciados pelas operadoras
+, de acordo com a relação de preços de serviços médicos e hospitalares praticados pelo respectivo produto, pagáveis no prazo máximo de trinta dias após a entrega da documentação adequada.
+(GRIFEI). ATO CONTÍNUO, CONSOANTE AS PROVAS DOS AUTOS, FORÇOSO CONCLUIR QUE A INTERNAÇÃO NA CLÍNICA “RECANTO FELIZ” SE DEU POR OPÇÃO DO AUTOR. ASSIM, OPTANDO O REQUERENTE PELA INTERNAÇÃO EM CLÍNICA DESCREDENCIADA DA REDE DE ATENDIMENTO DE SEU PLANO MÉDICO, E INEXISTINDO COMPROVAÇÃO DE QUALQUER NEGATIVA DA REQUERIDA À DISPONIBILIZAÇÃO DO TRATAMENTO, FAZ ELE JUS AO PARCIAL REEMBOLSO DAS QUANTIAS DESPENDIDAS, OBSERVADO O VALOR DA TABELA APRESENTADA EM ID. 8774894, HAJA VISTA QUE A OPERADORA DE SAÚDE RÉ PAGARIA AOS HOSPITAIS/CLÍNICAS E MÉDICOS CREDENCIADOS O TRATAMENTO NECESSÁRIO, CASO TIVESSE O DEMANDANTE OPTADO POR SE TRATAR COM UM DELES. NESSE SENTIDO, COADUNO COM O ENTENDIMENTO DA JUÍZA DE PISO NOS SEGUINTES TERMOS:
+“O contrato celebrado, em seus itens 8.8 e 8.9, estabelece que os usuários terão direito de reembolso, nos limites do contrato, das despesas que efetuarem em casos de urgência ou emergência, quando não for possível a utilização de serviços próprios, contratados ou credenciados, quando se dará o reembolso conforme Tabela de Referência (ID 32938449 – pág. 26). No caso dos autos, verifico que era possível a utilização dos serviços próprios, contratados, credenciados ou referenciados pela operadora, uma vez que o plano de saúde réu possui clínicas credenciadas na Grande Vitoria, ID 32938435 – pág. 12. Embora o Requerente sustente que as clínicas credenciadas não possuem capacidade para atender a demanda clínica do autor, bem como as internações realizadas junto a rede credenciada da ré não surtiram efeito, não trouxeram aos autos provas da ineficácia do tratamento até então prestado, uma vez que se limitaram a trazer aos autos os termos de alta da clínica credenciada à Requerida, Ids 30450298, 30450299 e 30450708. Assim, como restou demonstrado que há oferta de clinicas credenciadas para o tratamento que o Requerente necessita realizar e ausente prova de que estas foram ineficazes ao tratamento, entendo que o plano de saúde réu não deve ser condenado ao ressarcimento integral, como pretendido, sob pena de desequilibrar o contrato, já que agiu no exercício regular de seu direito de fazer prevalecer o contrato celebrado, sendo que a opção por clínica não credenciada se deu por mera liberalidade do autor.”
+DECERTO, O PLANO RECORRIDO NÃO PODE PRESTAR ATENDIMENTO DIFERENCIADO A APENAS UM CONVENIADO, QUANDO EXISTEM OUTROS EM IDÊNTICA SITUAÇÃO, SOBRETUDO, QUANDO HÁ PROFISSIONAIS CAPACITADOS DENTRO DA REDE CONVENIADA, APTOS A REALIZAREM O TRATAMENTO MÉDICO. POR FIM, REVELANDO AS PROVAS DOS AUTOS QUE A DEMANDADA NÃO SE NEGOU INJUSTIFICADAMENTE A CUSTEAR O TRATAMENTO, MAS APENAS SE RECUSOU A EFETUAR O REEMBOLSO DE DESPESAS MÉDICO-HOSPITALARES DO TRATAMENTO EM CLÍNICA NÃO CREDENCIADA, AFIGURA-SE INEXISTENTE O ATO ILÍCITO INDISPENSÁVEL À CONFIGURAÇÃO DO SEU DEVER DE INDENIZAR POR DANOS MORAIS, RAZÃO POR QUE NÃO HÁ COMO DAR COBRO À PRETENSÃO AUTORAL.
+(8). DIANTE DO EXPOSTO,
+CONHEÇO
+DO RECURSO INOMINADO INTERPOSTO POR VITOR GABRIEL PEREIRA DE SÁ E, NO MÉRITO,
+NEGO-LHE PROVIMENTO
+, PARA MANTER INCÓLUME A SENTENÇA RECORRIDA, INCLUSIVE, POR SEUS PRÓPRIOS FUNDAMENTOS (ARTIGO 46 DA LEI 9.099/95). NA FORMA DO ART. 55 DA LEI 9.099/95, CONDENO A PARTE RECORRENTE AO PAGAMENTO DE CUSTAS JUDICIAIS E HONORÁRIOS SUCUMBENCIAIS QUE FIXO EM R$ 1.000,00 (MIL REAIS), NA FORMA DO ART. 85, §8º, DO CPC, TODAVIA, SUSPENDO A EXIGIBILIDADE EM RAZÃO DOS BENEFÍCIOS DA ASSISTÊNCIA JUDICIÁRIA GRATUITA ORA DEFERIDA.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr. DOUGLAS DEMONER FIGUEIREDO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
