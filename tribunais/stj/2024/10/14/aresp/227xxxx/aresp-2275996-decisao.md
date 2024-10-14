@@ -1,0 +1,27 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por BICHO DA SELVA PRODUCOES MUSICAIS E ARTISTICAS LTDA, com fundamento na incidência das Súmulas 7 e 211 do STJ, inexistência de demonstração do dissenso pretoriano e ausência de violação ao art. 489 do CPC.
+Em suas razões recursais, a parte alega dissídio jurisprudencial e violação à legislação federal: arts. 429, III, 489, § 1º, I, e 494, I, do CPC e 114, 116 e 204 do CTN. Afirma que o acórdão recorrido não está adequadamente fundamentado. Argui inexatidão material, porquanto o Tribunal de origem teria apreciado matéria estranha ao pedido. Aduz que caberia a propositura da exceção de pré-executividade em decorrência da matéria poder ser apreciada de ofício.
+Por último, salienta que não ocorreu o fato gerador do tributo, pois não participou do desfile de carnaval do ano de 2007.
+Assevera que o acórdão não está devidamente fundamentado. Por último, aduz que demonstrou corretamente a existência de dissídio jurisprudencial.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+A irresignação recursal não merece ser acolhida.
+Importante registrar que, em relação à legislação apontada como ofendida (arts. 114, 116 e 204 do CTN e 489 e 494 do CPC), a jurisprudência desta Corte é no sentido de que, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+Cabe destacar que o prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável contida na própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento. Dessa forma, não basta que a parte discorra sobre o dispositivo legal que entende afrontado. Não examinada pela instância ordinária a matéria objeto do especial, inarredável a compreensão de que não houve prequestionamento a respeito de referidas teses jurídicas, atraindo a aplicação da Súmula 211/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. MUNICÍPIO DE CATALÃO/GO. SERVIDOR PÚBLICO. READAPTAÇÃO FUNCIONAL. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+IV - Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada (arts. 17 e 485, § 3º, do CPC), não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.  ..
+VII - Agravo interno improvido (AgInt no AREsp n. 2.169.823/GO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/6/2023, DJe de 22/6/2023).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA.
+PREQUESTIONAMENTO. AUSÊNCIA. MATÉRIA CONTROVERTIDA. INEXISTÊNCIA.
+1. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos legais tidos por violados não são examinados na origem, mesmo após opostos embargos de declaração.
+ ..
+3. Agravo interno desprovido (AgInt no REsp n. 1.942.612/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/6/2023, DJe de 16/6/2023).
+Ainda que fosse possível superar esse óbice, o Tribunal a quo dirimiu a controvérsia com base no suporte fático probatório dos autos, cuja revisão é inviável na via especial.
+Ademais, importante registrar que é indispensável que a parte recorrente demonstre, de forma analítica, de que maneira o aresto paradigma apreciou matéria idêntica à dos autos, à luz da mesma legislação federal analisada pelo julgado recorrido, dando-lhe solução distinta para que se tenha por configurada a divergência jurisprudencial; o que não se verificou no presente caso. Não basta a mera diagramação lado a lado dos acórdãos para se atender aos requisitos legais e regimentais.
+O recurso especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência - por meio da juntada de certidões ou cópias autenticadas dos arestos apontados divergentes, permitida a declaração de autenticidade pelo próprio advogado ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados, nos termos do art. 1.029, § 1º, do CPC e no art. 255, § 1º, do RISTJ - exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos confrontados, nos termos legais e regimentais, não bastando a mera transcrição de ementas ou mesmo a íntegra do voto condutor do julgado, sem a identificação das circunstâncias que identifiquem ou assemelhem os arestos confrontados.
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+ EMENTA
