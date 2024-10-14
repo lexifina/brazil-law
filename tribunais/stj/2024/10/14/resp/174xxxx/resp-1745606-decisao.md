@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recursos que se insurgem contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 370):
+DIREITO CONSTITUCIONAL, ECONÔMICO E TRIBUTÁRIO - PIS E COFINS - BASE DE CÁLCULO - FATURAMENTO CONCESSIONÁRIA DE VEÍCULOS.
+1. A base de cálculo da contribuição ao PIS e da COFINS é o faturamento (Leis Federais n. os 9.715/98 e 9.718/98).
+2. A operação realizada entre montadoras ou importadoras e concessionárias de veículos tem a natureza de compra e venda. A introdução de elementos secundários ou acidentais nos contratos não altera o regime jurídico do negócio. A concessionária, na compra dos veículos, recebe o bem e está obrigada a pagar o preço. Deve, portanto, faturar a operação.
+3. A eventual cumulação da contribuição sobre o faturamento com a incidente sobre o lucro - ou outras espécies tributárias - é matéria de política fiscal dos Poderes Executivo e Legislativo, intangível para o Poder Judiciário.
+4. Apelação parcialmente provida.
+Opostos sucessivos embargos de declaração, apenas os primeiros foram parcialmente acolhidos nos seguintes termos (fl. 384):
+EMBARGOS DE DECLARAÇÃO DA UNIÃO- ALEGAÇÃO DE OMISSÃO - EXISTÊNCIA-CORREÇÃO- POSSIBILIDADE.
+1. Devem ser limitados os efeitos da declaração de inconstitucionalidade do §1º, do artigo 3º, da Lei Federal nº 9.718/98, porque as Leis Federais nos 10.637/02 e 10.833/03, editadas na vigência da Emenda Constitucional nº 20/98, não possuem o vício de inconstitucionalidade da Lei Federal nº 9.718/98.
+2. O Poder Judiciário, pela iniciativa das partes, está vinculado a decidir a lide, em regra, nos termos do pedido. Mas a decisão fica sujeita a qualquer fundamento jurídico.
+3. Na solução da causa, a adoção de fundamento jurídico diverso do exposto pela parte não é omissão. É divergência de intelecção na solução da lide, circunstância desqualificadora da interposição de embargos de declaração.
+4. A Constituição Federal não fez opção estilística, na imposição do requisito da fundamentação das decisões. Esta pode ser laudatória ou sucinta. Deve ser, tão-só, pertinente e suficiente.
+5. Nos embargos de declaração é incabível o reexame do mérito da decisão.
+6. Os requisitos previstos no artigo 535, do Código de Processo Civil, devem ser observados nos embargos de declaração destinados ao prequestionamento. 8. Embargos da União parcialmente acolhidos.
+Nas razões de seu recurso especial (fls. 397/408), a FAZENDA NACIONAL alega:
+(1) violação dos arts. 267, IV, 283, 369, 535, II, e 460 do Código de Processo Civil (CPC) de 1973;
+(2) o Tribunal de origem não sanou as omissões e as contradições apontadas nos embargos de declaração, notadamente quanto ao pedido de compensação dos valores indevidamente recolhidos e à ausência de documentos juntados à inicial para comprovar o recolhimento a maior;
+(3) o acórdão recorrido afastou a aplicação do § 1º do art. 3º da Lei federal 9.718/1998, sem que tenha sido objeto do pedido da inicial, incorrendo em julgamento extra petita; e
+(4) "relativamente à base de cálculo do PIS e da COFINS, determinou a aplicação da legislação anterior à Lei nº 9.718/98, tendo, com isso, implicado a negativa de vigência dos artigos r e 3º caput da Lei nº 9.718/98, que determinam a cobrança do PIS e da COFINS com base no faturamento entendido como receita bruta da pessoa jurídica" (fl. 405).
+SENAP DISTRIBUIDORA DE VEÍCULOS LTDA e A H G MOTORS LTDA, por sua vez, sustentam o seguinte (fls. 419/451):
+(1) o Tribunal de origem, ao afastar o art. 3º, § 1º, da Lei 9.718/1998 diante da declaração de inconstitucionalidade pelo Supremo Tribunal Federal, apreciou questão diversa daquela tratada nos autos;
+(2) violação dos arts. 165, 458, II, e 535, I e II, do CPC de 1973, pela ausência de manifestação sobre questões essenciais ao julgamento da demanda;
+(3) violação dos arts. 162, §§ 1º e 2º; 513 e 522 do CPC de 1973, que definem o conceito de sentença e de decisão interlocutória, e estabelecem as hipóteses de cabimento do recurso de apelação e do agravo de instrumento; e
+(4) violação do art. 97 do Código Tributário Nacional (CTN) por "considerar inócua a regra prevista no artigo 3º, §2º, inciso III da Lei n.º 9.718/98, durante o seu período de vigência, única e exclusivamente em razão da não edição de norma do Poder Executivo que viesse regulamentá-la".
+As contrarrazões foram apresentadas pela Fazenda Nacional (fls. 532/536).
+No juízo de admissibilidade, os recursos especiais foram admitidos.
+Parecer do Ministério Público Federal "pelo parcial conhecimento e, na parte conhecida, pelo não provimento do recurso especial das empresas A H G MOTORS LTDA e a SENAP Distribuidora de Veículos LTDA e pelo conhecimento parcial do recurso da União e, nessa extensão, pelo seu provimento, para que seja reconhecida a ofensa ao artigo 460 do CPC/1973" (fl. 588).
+É o relatório.
+Nos termos do que foi decidido pelo Plenário do Superior Tribunal de Justiça (STJ), "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Passo ao exame conjunto dos recursos.
+O mandado de segurança impetrado pelas contribuintes teve estes objetivos:
+(1) a aplicação imediata da sistemática da não cumulatividade para as contribuições ao Programa de Integração Social (PIS) e para a Contribuição para o Financiamento da Seguridade Social (COFINS), permitindo a exclusão das suas respectivas bases de cálculo dos valores que, tidos como receita, tenham sido transferidos para outra pessoa jurídica, na forma prevista no art. 3º, § 2º, III, da Lei 9.718/1998;
+(2) alternativamente, "a exclusão da base de cálculo das contribuições PIS e COFINS dos valores que, tidos como receita das Impetrantes, tenham sido transferidos para outras pessoas jurídicas dentro de uma mesma etapa do ciclo operacional, seja de venda de produtos, seja de prestação de serviços, em situação multifásica" (fl. 29); e
+(3) o reconhecimento do direito à compensação dos valores indevidamente recolhidos a título das contribuições ao PIS e da COFINS, em razão da não aplicação do art. 3º, § 2º, III, da Lei 9.718/1998, com parcelas vincendas das mesmas contribuições.
+Em primeira instância, a segurança foi denegada. O TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO não conheceu da apelação retida de SENAP DISTRIBUIDORA DE VEÍCULOS LTDA ao fundamento de que o recurso cabível da decisão que havia excluído essa empresa da relação processual seria o agravo de instrumento. E, no mais, deu parcial provimento ao recurso de apelação para afastar a aplicação do art. 3º, § 1º, da Lei 9.718/1998, declarado inconstitucional pelo Supremo Tribunal Federal, além de declarar que a base de cálculo da COFINS seria a prevista na Lei Complementar 70/1991.
+Ambas as partes litigantes apresentaram embargos de declaração suscitando os vícios contradição e omissão do julgado decorrentes do julgamento de tema diverso da pretensão deduzida no mandado de segurança impetrado na origem, e requereram a nulidade das decisões proferidas em segunda instância, com novo julgamento da controvérsia.
+A Fazenda Nacional suscitou, ainda, omissão do julgado quanto (i) à ausência de manifestação sobre a compensação do tributo indevidamente recolhido e (ii) à ausência de documentos essenciais à propositura da ação.
+Observo que a controvérsia dos autos não tem relação alguma com os conceitos de receita bruta e faturamento, objeto da discussão jurídica que levou o Supremo Tribunal Federal a declarar a inconstitucionalidade do art. 3º, § 1º, da Lei 9.718/1998, visto que a pretensão inicial está restrita ao reconhecimento do direito das impetrantes de recolher a contribuição ao PIS e a COFINS sem a inclusão, na base de cálculo, dos valores transferidos para outras pessoas jurídicas dentro de uma mesma etapa do ciclo operacional pela aplicação do regime não cumulativo na apuração dessas contribuições.
+De fato, há evidente nulidade no acórdão proferido em apelação, que abordou matéria estranha àquela objeto da presente demanda. Sendo assim, o acórdão em apreço incorre em vício de julgamento extra petita, violando o princípio da adstrição, consagrado no art. 460 do Código de Processo Civil (CPC) de 1973 (atual art. 492) , pelo qual o magistrado deve se restringir ao pedido da parte autora.
+A propósito, cito os seguintes julgados:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. MULTA ADMINISTRATIVA. ALTERAÇÃO DE FUNDAMENTO. GRUPO ECONÔMICO. REDIRECIONAMENTO DA EXECUÇÃO. OMISSÃO DO ARESTO REGIONAL AFASTADA. AUSÊNCIA DE VÍCIO PASSÍVEL DE NULIDADE OU IRREGULARIDADE PROCESSUAL. SUCESSÃO EMPRESARIAL. RESPONSABILIDADE SOLIDÁRIA. REEXAME DE MATÉRIA FÁTICA. INCIDÊNCIA DA SÚMULA 7/STJ.
+ ..
+3. Este Superior Tribunal consagra orientação jurisprudencial no sentido de que "os pedidos formulados devem ser examinados a partir de uma interpretação lógico-sistemática, não podendo o magistrado se esquivar da análise ampla e detida da relação jurídica posta, mesmo porque a obrigatória adstrição do julgador ao pedido expressamente formulado pelo autor pode ser mitigada em observância aos brocardos da mihi factum dabo tibi ius (dá-me os fatos que te darei o direito) e iura novit curia (o juiz é quem conhece o direito)." (AgInt no AREsp 1420454/RN, relator Ministro Luis Felipe Salomão, DJe 3/3/2020).
+ ..
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.870.575/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. CONDENAÇÃO DOS RECORRENTES POR FATO ESTRANHO À LIDE. ACÓRDÃO EXTRA PETITA. CONFIGURAÇÃO.
+ ..
+4. Com efeito, assiste razão às recorrentes, uma vez que o acórdão proferiu decisão extra petita. Extrai-se da leitura da inicial da Ação Civil Pública (fls. 2-16, e-STJ) que o Parquet estadual buscou a condenação delas em razão de suposta ilegalidade na contratação da empresa, hipótese que foi rechaçada pelo Tribunal estadual. Dessa forma, não há como manter a condenação delas por ato estranho à lide.
+5. Como bem destacado pelo Parquet federal no seu parecer (fl. 1.436, e-STJ): "Sabe-se que não há julgamento extra petita quando o juiz decide questão que é reflexo do pedido na exordial, devendo o pleito inicial ser interpretado de forma ampla e em consonância com a pretensão deduzida na exordial como um todo. Mas tal circunstância não ocorreu na espécie, pois a eventual negligência por demora na utilização dos materiais de exame de saúde não está relacionada com a pretensão de declaração de ilegalidade da contratação direta da empresa".
+6. Recursos Especiais providos.
+(REsp n. 1.728.290/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 23/8/2018, DJe de 16/11/2018.)
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. OS AGENTES POLÍTICOS SUBMETEM-SE À LEI 8.429/92. ENTENDIMENTO FIRMADO PELA CORTE ESPECIAL DO STJ (RCL 2.790/SC, REL. MIN. TEORI ALBINO ZAVASCKI, DJE 4.3.2010). ENQUADRAMENTO DO ACUSADO EM DISPOSITIVO DIVERSO DO INDICADO NA INICIAL. VIOLAÇÃO AO ART. 460 DO CPC CONFIGURADA. PRINCÍPIO DA CONGRUÊNCIA. DECISÃO EXTRA PETITA.
+1. A Corte Especial do STJ, no julgamento da Rcl 2.790/SC, pacificou o entendimento de que os agentes políticos se submetem à Lei de Improbidade Administrativa (8.429/92).
+2. O enquadramento pelo Juízo singular do ato de improbidade em dispositivo diverso do apontado na inicial, além de cercear o acusado do direito de defesa, caracteriza violação ao princípio da congruência.
+3. Dá-se provimento ao Recurso Especial para acolher a preliminar de nulidade por tratar-se de decisão extra petita, tornando-se sem efeito o acórdão recorrido e determinando-se o retorno dos autos à Instância de origem para que proceda a novo julgamento, observando os limites delineados pela inicial acusatória.
+(REsp n. 1.147.564/MG, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 13/8/2013, DJe de 2/9/2013.)
+Logo, demonstrado que o acórdão recorrido padece de nulidade pela afronta aos arts. 165, 458, 460 e 535 do CPC de 1973, em razão da apreciação de matéria distinta daquela delimitada na petição inicial e da ausência de manifestação sobre a matéria submetida ao Tribunal de origem em apelação.
+Prejudicado o exame das questões remanescentes.
+Ante o exposto, conheço dos recursos especiais e a eles dou provimento para declarar a nulidade do acórdão recorrido; determino o retorno dos autos ao Tribunal de origem para novo julgamento da apelação.
+Publique-se. Intimem-se.
+EMENTA
