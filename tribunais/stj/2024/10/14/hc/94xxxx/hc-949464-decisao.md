@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+AGRAVO EM EXECUÇÃO PENAL. IRRESIGNAÇÃO DA DEFESA CONTRA DECISÃO QUE NEGOU O PEDIDO DE SAÍDA TEMPORÁRIA, EM RAZÃO DO NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. ALMEJADA CONCESSÃO DA BENESSE. REQUISITO SUBJETIVO REPROVADO PELO MAGISTRADO COM BASE NO PARECER DESFAVORÁVEL DA COMISSÃO TÉCNICA DE CLASSIFICAÇÃO E EVASÃO DURANTE O GOZO DO BENEFICIO ANTERIORMENTE. NÃO CABIMENTO. ATESTADO DE BOM COMPORTAMENTO PARA FINS DE PROGRESSÃO DE REGIME QUE NÃO GARANTE A CONCESSÃO DO BENEFÍCIO. DECISÃO DEVIDAMENTE FUNDAMENTADA. ADEMAIS, HISTÓRICO DE FUGA/EVASÃO DO APENADO, COM SUA PERMANÊNCIA FORA DO SISTEMA PRISIONAL POR MAIS DE QUATRO ANOS POR OCASIÃO DA FRUIÇÃO DA BENESSE, QUE DEMONSTRA QUE O AGRAVANTE NÃO ASSIMILOU O CARÁTER PEDAGÓGICO DA EXECUÇÃO PENAL. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+O paciente cumpre pena privativa de liberdade e teve indeferido o pedido de saída temporária em razão do não preenchimento do requisito subjetivo.
+A defesa alega, em síntese, que "durante o cumprimento da pena o Paciente cometeu uma falta disciplinar, consistente no não retorno de saída temporária em 26/02/2016, sendo recapturado em 07/10/2019 (seq. 110.1, fl. 04 e seq. 1.749). Desse modo, infere-se que o Paciente cometeu apenas uma falta disciplinar durante o cumprimento da pena e que está há 5 anos sem cometer qualquer falta disciplinar. O preenchimento do requisito subjetivo para fins de concessão de saída temporária é evidente" (e-STJ fl. 8).
+Afirma que as alterações promovidas pela Lei nº 14.843/2023 só seriam aplicáveis a delitos praticados após a sua vigência.
+Ao final, requer a concessão da ordem para que o paciente seja beneficiado com a saída temporária.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. VISITA PERIÓDICA AO LAR. AUSENTE O REQUISITO SUBJETIVO. DILAÇÃO PROBATÓRIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Urge consignar que "a progressão ao regime semiaberto não assegura automaticamente o direito à visitação periódica ao lar" (AgRg no HC n. 690.521/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 14/2/2022.)
+2. Acerca do tema, é imperioso ressaltar também que " a  jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que a concessão do benefício de visita periódica ao lar não prescinde da observação de sua compatibilidade com os objetivos da pena, além do bom comportamento, devendo ser gradual o contato maior do apenado com a sociedade, a fim de não frustrar os objetivos da execução. Além disso, também é firme o posicionamento de que o fato de o apenado ter progredido para o regime semiaberto não lhe assegura o direito à visitação periódica ao lar (AgRg no HC n. 707.418/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/12/2021)" (AgRg no HC n. 723.401/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 31/3/2022.)
+3. Agravo regimental não provido.
+(AgRg no HC n. 830.785/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
