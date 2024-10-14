@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS CONSTANTES DA DECISÃO AGRAVADA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não se admite que a parte amplie a causa de pedir e/ou o pedido formulado na petição inicial em superveniente agravo regimental, pois tal procedimento traduz indevida inovação recursal. Precedentes.
+2. O agravante não impugnou os fundamentos constantes da decisão agravada, atraindo o óbice da Súmula n. 182/STJ.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GUILHERME GONÇALVES CAETANO DE ALMEIDA contra decisão que não conheceu do habeas corpus, nos termos seguintes (e-STJ fls. 95/99):
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GUILHERME GONÇALVES CAETANO DE ALMEIDA contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (Apelação n. 0006511-94.2023.8.16.0031).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 8 anos e 8 meses de reclusão, em regime inicial fechado, e 85 dias-multa, pela prática dos crimes previstos nos arts. 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal e 15 da Lei n. 10.826/2003, em concurso material (e-STJ fls. 30/89).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi parcialmente provido para absolver o paciente em relação ao crime de disparo de arma de fogo, com penas remanescentes, relativas ao crime de roubo duplamente circunstanciado, mantidas em 6 anos e 8 meses de reclusão, em regime inicial fechado, e 75 dias-multa (e-STJ fls. 18/29).
+No presente mandamus (e-STJ fls. 3/17), o impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, pois não reconheceu a atenuante da confissão espontânea. No ponto, argumenta que o paciente confessou a prática delitiva, sendo desnecessária para a incidência da respectiva atenuante que a confissão seja utilizada para embasar o decreto condenatório.
+Além disso, impugna o estabelecimento do regime inicial fechado, pois a condenação do paciente não excede 8 anos de reclusão, sendo que a gravidade abstrata do delito não é fundamento idôneo para o recrudescimento.
+Ao final, liminarmente e no mérito, pede a concessão da ordem para que a atenuante da confissão espontânea seja reconhecida, além do abrandamento do regime inicial.
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio.
+Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício. Nesse sentido, a título de exemplo, confiram-se os seguintes precedentes: STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 3/12/2013, publicado em 28/2/2014; STJ, HC n. 287.417/MS, Relator Ministro SEBASTIÃO REIS JÚNIOR, Quarta Turma, julgado em 20/3/2014, DJe 10/4/2014; e STJ, HC n. 283.802/SP, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014.
+Na espécie, embora o impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Acerca do rito a ser adotado, as disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores ou a contraria (AgRg no HC n. 513.993/RJ, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 25/6/2019, DJe 1º/7/2019; AgRg no HC n. 475.293/RS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 27/11/2018, DJe 03/12/2018; AgRg no HC n. 499.838/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 11/4/2019, DJe 22/04/2019; AgRg no HC n. 426.703/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 18/10/2018, DJe 23/10/2018; e AgRg no RHC n. 37.622/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 6/6/2013, DJe 14/6/2013).
+Nesse diapasão, uma vez verificado que as matérias trazidas a debate por meio do habeas corpus constituem objeto de jurisprudência consolidada neste Superior Tribunal, não há nenhum óbice a que o Relator conceda a ordem liminarmente, sobretudo ante a evidência de manifesto e grave constrangimento ilegal a que estava sendo submetido o paciente, pois a concessão liminar da ordem de habeas corpus apenas consagra a exigência de racionalização do processo decisório e de efetivação do próprio princípio constitucional da razoável duração do processo, previsto no art. 5º, LXXVIII, da Constituição Federal, o qual foi introduzido no ordenamento jurídico brasileiro pela EC n.45/2004 com status de princípio fundamental (AgRg no HC n. 268.099/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 2/5/2013, DJe 13/5/2013).
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC n. 324.401/SP, Relator Ministro GURGEL DE FARIA, Quinta Turma, julgado em 2/2/2016, DJe 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC n. 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+Possível, assim, a análise do mérito da impetração, já nesta oportunidade.
+Busca-se, em síntese, o reconhecimento da atenuante da confissão espontânea e o abrandamento do regime prisional.
+No que toca ao pleito de reconhecimento da atenuante da confissão espontânea, o impetrante carece de interesse de agir, tendo em vista que referida atenuante foi reconhecida pelas instâncias ordinárias, o que ensejou a redução das penas do paciente na segunda fase da dosimetria, nos termos seguintes (e-STJ fls. 71/72):
+2) GUILHERME GONÇALVES CAETANO DE ALMEIDA
+2.1) CRIME DE ROUBO MAJORADO
+ ..
+b) Das circunstâncias legais agravantes e atenuantes:
+À luz dos artigos 61 e 65 do Código Penal, verifico a presença da atenuante da confissão, razão pela qual reduzo a pena em 1/6, porém fixo a pena privativa de liberdade em 04 (quatro) anos de reclusão, em razão da vedação imposta pela Súmula 231/STJ, mais 45 (quarenta e cinco) dias-multa.
+Em relação ao pedido remanescente, cabe consignar que a jurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, sendo inidônea a mera menção à gravidade abstrata do delito.
+Foi elaborado, então, o enunciado 440 da Súmula deste Tribunal, segundo o qual fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, são os enunciados 718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+No caso, embora o Tribunal a quo tenha absolvido o paciente quanto ao crime de disparo de arma de fogo, razão pela qual reduziu as suas penas para 6 anos e 8 meses de reclusão e 75 dias-multa, manteve o regime inicial fechado com base na seguinte motivação (e-STJ fl. 26):
+Considerando o quantum de pena e a presença de circunstância judicial desfavorável (circunstâncias do crime), mantenho o regime inicial fechado, nos termos do art. 33, § 2º, "a" e § 3º, do Código Penal.
+Extrai-se da transcrição supra que o recrudescimento do regime prisional possui lastro na presença de circunstância judicial desfavorável, fundamento idôneo e suficiente.
+Com efeito, embora o paciente seja tecnicamente primário e tenha sido condenado à pena privativa de liberdade superior a quatro e que não excede oito anos, a existência de circunstância judicial desfavorável é fundamento idôneo e suficiente para o estabelecimento do regime inicial fechado, na esteira do disposto no art. 33, §§ 2º e 3º, do Código Penal.
+Em hipóteses análogas, decidiu esta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. PROCESSUAL PENAL. ROUBO. PLEITO DE ABSOLVIÇÃO POR VÍCIO NO RECONHECIMENTO DO RÉU EM DESCONFORMIDADE COM O PREVISTO NO ART. 226 DO CÓDIGO DE PROCESSO PENAL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 155 DO CÓDIGO DE PROCESSO PENAL. INOCORRÊNCIA. CONDENAÇÃO FIRMADA IGUALMENTE EM PROVAS AUTÔNOMAS PRODUZIDAS EM JUÍZO. PRECEDENTES. ORDEM DE HABEAS CORPUS DENEGADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. O regime prisional inicial fechado se justifica pela literalidade do art. 33, §§ 2.º e 3.º, do Código Penal, diante do quantum da pena fixada (acima de quatro anos de reclusão) e da presença de circunstâncias judiciais desfavoráveis.
+4. Agravo regimental desprovido. (AgRg no HC n. 785.940/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/10/2023, DJe de 18/10/2023.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. CULPABILIDADE. CIRCUNSTÂNCIAS DO CRIME. MOTIVAÇÃO CONCRETA DECLINADA PARA A ELEVAÇÃO DA PENA-BASE. OFENSA À SÚMULA 443/STJ NÃO CARACTERIZADA. REGIME PRISIONAL FECHADO MANTIDO. AGRAVO DESPROVIDO.
+ ..
+6. Estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Estatuto Repressor, admite-se a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu.
+7. Agravo desprovido. (AgRg no HC n. 836.006/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/9/2023, DJe de 2/10/2023.)
+Portanto, na espécie, as pretensões formuladas pelo impetrante encontram óbice na jurisprudência consolidada do Superior Tribunal de Justiça, revelando-se manifestamente improcedentes.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
+Em suas razões (e-STJ fls. 104/122), a defesa do agravante afirma que a Corte local deveria ter realizado uma nova dosimetria da pena do paciente. Para tanto, argumenta que o concurso de agentes, por si só, não justifica aumento superior ao mínimo legal de 1/3 (e-STJ fl. 110).
+Além disso, repisa que os fundamentos utilizados pelas instâncias ordinárias não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (e-STJ fl. 114).
+Ao final, pede a reconsideração da decisão agravada ou o provimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS CONSTANTES DA DECISÃO AGRAVADA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não se admite que a parte amplie a causa de pedir e/ou o pedido formulado na petição inicial em superveniente agravo regimental, pois tal procedimento traduz indevida inovação recursal. Precedentes.
+2. O agravante não impugnou os fundamentos constantes da decisão agravada, atraindo o óbice da Súmula n. 182/STJ.
+3. Agravo regimental não conhecido.
+VOTO
+O recurso não merece conhecimento.
+Afinal, não se admite que a parte amplie a causa de pedir e/ou o pedido formulado na petição inicial em superveniente agravo regimental, pois tal procedimento traduz indevida inovação recursal, de forma que não é possível conhecer da apontada ilegalidade na terceira fase da dosimetria.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. RISCO DE REITERAÇÃO DELITIVA. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS. CONDIÇÕES PESSOAIS FAVORÁVEIS. DECISÃO FUNDAMENTADA. FUNDAMENTOS NÃO IMPUGNADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182 DO STJ. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL DESPROVIDO.  ..
+3. Os pedidos não formulados na inicial do habeas corpus e, portanto, não apreciados na decisão agravada não são passíveis de conhecimento em razão da indevida inovação recursal.
+4. Agravo regimental desprovido. (AgRg no HC 642.758/ES, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 20/4/2021, DJe 26/4/2021).
+HABEAS CORPUS. PEDIDO DE RECONSIDERAÇÃO. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. CONHECIMENTO COMO AGRAVO REGIMENTAL. ESTELIONATO. INSURGÊNCIA ACERCA DE MATÉRIA QUE NÃO FOI OBJETO DA IMPETRAÇÃO. INOVAÇÃO RECURSAL. REGIME INICIAL SEMIABERTO. POSSIBILIDADE. SUBSTITUIÇÃO DE PENAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. No âmbito do agravo regimental, não se admite que a Parte, pretendendo a análise de teses anteriormente omitidas, amplie objetivamente as causas de pedir formuladas na petição inicial ou no recurso.
+2. Apesar do quantum da pena imposta ser inferior a 4 (quatro) anos de reclusão, a presença de circunstância judicial desfavorável autoriza a fixação do regime inicial mais gravoso e obsta a substituição das penas, nos termos dos arts. 33, §§ 2.º e 3.º, c.c. o art. 59 e 44, inciso III, ambos do Código Penal.
+3. Pedido de reconsideração recebido como agravo regimental e parcialmente conhecido e, nessa extensão, desprovido. (RCD no HC 617.932/SP, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 2/2/2021, DJe 17/2/2021).
+No mais, a defesa não infirmou os fundamentos constantes da decisão agravada para concluir que o entendimento manifestado na origem encontra-se em harmonia com a firme jurisprudência do Superior Tribunal de Justiça, qual seja, que o recrudescimento do regime prisional possui lastro na presença de circunstância judicial desfavorável, fundamento idôneo e suficiente. Com efeito, embora o paciente seja tecnicamente primário e tenha sido condenado à pena privativa de liberdade superior a quatro e que não excede oito anos, a existência de circunstância judicial desfavorável é fundamento idôneo e suficiente para o estabelecimento do regime inicial fechado, na esteira do disposto no art. 33, §§ 2º e 3º, do Código Penal. Em hipóteses análogas, decidiu esta Corte:  ..  (e-STJ fl. 98).
+Portanto, na espécie, incide o enunciado da Súmula n. 182/STJ, in verbis: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
