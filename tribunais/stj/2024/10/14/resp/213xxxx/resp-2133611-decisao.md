@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAVOTEC - PAVIMENTAÇÃO E TERRAPLENAGEM S/A contra acórdão assim ementado (e-STJ fl. 509):
+AGRAVO INTERNO - AGRAVO DE INSTRUMENTO - JUSTIÇA GRATUITA - INDEFERIMENTO - AUSÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA FINANCEIRA - DETERMINAÇÃO DE RECOLHIMENTO DAS CUSTAS RECURSAIS - INOBSERVÂNCIA - RECURSO NÃO PROVIDO. O simples fato de a pessoa jurídica encontrar-se em recuperação judicial não implica no direito à gratuidade de justiça, pois o deferimento do benefício prescinde de comprovação da hipossuficiência financeira.
+Os embargos de declaração não foram acolhidos (e-STJ fls. 552/555).
+No recurso especial (e-STJ fls. 579/590), fundamentado no art. 105, III, "a", da CF, a recorrente alega ofensa aos arts. 98, caput e § 1º c/c 99, §§ 2º e 7º c/c 101, § 2º, 1.021, § 4º e 1.022 do CPC/2015.
+Apontou contradição no acórdão recorrido, defendendo que a situação financeira deve ser analisada com base em documentos apresentados no momento do requerimento do benefício da assistência judiciária gratuita e não com base em exercícios anteriores.
+Arguiu omissão por ausência de manifestação quanto ao argumento de que confirmada a denegação ou revogação do benefício da justiça gratuita, seria necessária a determinação para o recolhimento das custas processuais, sob pena de não conhecimento do recurso.
+Sustentou que os documentos acostados não refletem sua atual situação financeira, pois encontra-se em recuperação judicial.
+Ao final, pediu o provimento do recurso, a fim de que lhe sejam deferidos os benefícios da gratuidade de justiça ou concedido prazo para o recolhimento do preparo, bem como o afastamento da multa imposta por não estarem presentes dolo ou má-fé processual.
+Foram apresentadas contrarrazões (e-STJ fls. 599/602 ).
+Juízo positivo de admissibilidade (e-STJ fls. 607/609).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+A Corte local, com base nos fatos e nas provas dos autos, concluiu pelo indeferimento da gratuidade de justiça, assim consignando (e-STJ fls. 511/513 e 515/516):
+A controvérsia recursal cinge-se à análise do acerto ou desacerto da decisão monocrática que indeferiu o pedido de justiça gratuita, sequencial 001, e determinou o recolhimento do preparo.
+(..)
+Verifica-se dos autos deste agravo interno que a Agravante colacionou comprovante de distribuição do pedido de recuperação judicial, decisões e petições; lista de credores do grupo PAVOTEC; demonstrativo de resultado de exercício dos anos de 2020 e 2021; relação de ações trabalhista contra si ajuizadas; certidão positiva de débitos tributários emitida em 07/06/2021; certidão de débitos e de ações trabalhistas; certidão de protestos emitida em março de 2020 e abril de 2021; e certidões de demais protestos (ordem nº 03/23).
+Nos autos da ação de cobrança, em sede da interposição do recurso de apelação, a ora Agravante juntou balancetes de 2017 e 2018; parcelamentos de débitos de FGTS no ano de 2015; reportagens sobre o mau desempenho do setor e lista do SERASA datada de 2020.
+Primeiramente, cumpre salientar que a demora na apreciação do recurso de apelação deu-se por falha na representação processual da ora Agravante. Depois do trâmite necessário, foi feita a remessa do feito a este Relator que, de pronto, determinou o recolhimento do preparo recursal, considerando que a própria Agravante havia instruído o recurso de apelação com os documentos que entendeu suficientes à comprovação da alegada hipossuficiência financeira.
+Pois bem.
+Em que pesem as alegações da Agravante, mesmo diante da juntada de documentos neste recurso, melhor sorte não lhe socorre.
+A uma, porque ao contrário do que alega, os documentos que ora foram juntados remontam anos e de exercícios anteriores, sendo certo que não refletem a sua alegada incapacidade financeira.
+A duas, porque o simples fato de a pessoa jurídica encontrar-se em recuperação judicial não implica no deferimento do benefício, que prescinde de comprovação da hipossuficiência financeira.
+(..)
+E quanto à alegação de que deveria ter-lhe sido oportunizada a juntada de documentos antes do indeferimento do benefício, mais uma vez sem razão a Agravante, pois já havia juntado os documentos que entendia como suficientes à comprovação de sua hipossuficiência financeira.
+Ademais, os documentos que ora juntou não se prestam à pretendida comprovação neste recurso, como não o seriam no bojo do recurso de apelação.
+Com essas considerações, nota-se que a Agravante interpôs desnecessariamente este agravo interno; portanto, impõe-se que seja condenada ao pagamento de multa em favor da Agravada (..):
+(..)
+Havendo unanimidade na votação, condena-se a Agravante ao pagamento de multa de 1% sobre o valor da condenação em prol da parte Agravada (art. 1.021, § 4º do CPC).
+Extrai-se ainda do acórdão dos embargos de declaração (e-STJ fl. 554):
+Como apontado, a concessão da gratuidade para pessoa jurídica exige prova da hipossuficiência financeira, ainda que em regime de recuperação judicial, não se prestando ao intento os documentos juntados no agravo interno pela Embargante, "como não o serviam no bojo do recurso de apelação".
+Ora, mesmo se estes documentos tivessem sido juntados quando da interposição da apelação (logo, contextualizado com o pedido segundo raciocínio sustentado pela Embargante) o benefício seria indeferido, porque não evidenciam a carência de recursos.
+Infere-se do acórdão que os documentos juntados não comprovam a hipossuficiência financeira, seja no contexto do requerimento (30/11/2020), seja quando procedida a análise judicial (15/02/2023).
+Assim sendo, não há falar em omissão, mas verdadeira pretensão de reformar o entendimento manifestado.
+O Tribunal de origem concluiu pelo indeferimento da assistência judiciária gratuita à agravante, sob o fundamento de ausência de comprovação do preenchimento dos requisitos indispensáveis à concessão da benesse.
+A Corte Especial do Superior Tribunal de Justiça, quando do julgamento dos EREsp n. 603.137/MG, passou a adotar o entendimento jurisprudencial consagrado pelo STF, no sentido de que a pessoa jurídica, com ou sem fins lucrativos, somente faz jus ao benefício da assistência judiciária gratuita se demonstrar a impossibilidade de dispor de recursos para custeio das despesas processuais. Confira-se a ementa do julgado:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA SEM FINS LUCRATIVOS. NECESSIDADE DE COMPROVAÇÃO DA MISERABILIDADE JURÍDICA.
+PRECEDENTE DA CORTE ESPECIAL. EMBARGOS ACOLHIDOS.
+1.O embargante alega que o aresto recorrido divergiu de acórdão proferido pela Corte Especial, nos autos do EREsp 690482/RS, o qual estabeleceu ser ônus da pessoa jurídica, independentemente de ter finalidade lucrativa ou não, comprovar que reúne os requisitos para a concessão do benefício da assistência judiciária gratuita.
+2. A matéria em apreço já foi objeto de debate na Corte Especial e, após sucessivas mudanças de entendimento, deve prevalecer a tese adotada pelo STF, segundo a qual é ônus da pessoa jurídica comprovar os requisitos para a obtenção do benefício da assistência judiciária gratuita, sendo irrelevante a finalidade lucrativa ou não da entidade requerente.
+3. Não se justifica realizar a distinção entre pessoas jurídicas com ou sem finalidade lucrativa, pois, quanto ao aspecto econômico-financeiro, a diferença primordial entre essas entidades não reside na suficiência ou não de recursos para o custeio das despesas processuais, mas na possibilidade de haver distribuição de lucros aos respectivos sócios ou associados.
+4. Outrossim, muitas entidades sem fins lucrativos exploram atividade econômica em regime de concorrência com as sociedades empresárias, não havendo parâmetro razoável para se conferir tratamento desigual entre essas pessoas jurídicas.
+5. Embargos de divergência acolhidos.
+(EREsp n. 603.137/MG, Relator Ministro CASTRO MEIRA, CORTE ESPECIAL, julgado em 2/8/2010, DJe 23/8/2010.)
+Tal orientação jurisprudencial foi cristalizada na Súmula n. 481/STJ, a qual dispõe que "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+Ressalte-se que a acumulação de prejuízos financeiros pela empresa, sua situação de recuperação judicial ou a declaração de falência não são suficientes para estabelecer distinções quanto à aplicação da referida súmula. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Cuidando-se de pessoa jurídica, ainda que em regime de liquidação extrajudicial ou em recuperação judicial, a concessão da gratuidade de justiça somente é admissível em condições excepcionais, se comprovada a impossibilidade de arcar com as custas do processo e os honorários advocatícios, o que não foi demonstrado nos autos, conforme consignou o órgão julgador. Incidência da Súmula 83/STJ.
+2. A revisão das conclusões a que chegou o Tribunal de origem, especialmente acerca da ausência de comprovação dos requisitos para a concessão da justiça gratuita, encontra óbice na Súmula 7/STJ.
+3. Esta Corte de Justiça tem entendimento no sentido de que nos casos de protesto indevido ou inscrição irregular em cadastro de inadimplentes, o dano moral se configura in re ipsa, mesmo que o ato tenha prejudicado pessoa jurídica. Precedentes.
+4. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ.
+5. A incidência do referido óbice impede o conhecimento do recurso lastreado na alínea "c" do inciso III do art. 105 da Constituição Federal, ante a inexistência de similitude fática. Precedentes.6. Agravo interno desprovido.(AgInt no AREsp n. 1.875.896/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021.)
+Modificar o entendimento do acórdão impugnado quanto à ausência de comprovação da hipossuficiência financeira da empresa agravante e à desnecessidade de nova intimação para a sua comprovação, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7 do STJ.
+Inalterado tal contexto fático, verifica-se que a decisão da Corte de origem está em sintonia com a jurisprudência das Turmas da Segunda Seção quanto ao tema. Incidem, portanto, as Súmulas n. 83 e 568 do STJ.
+Todavia, no que diz respeito à apontada ofensa ao art. 1.021, § 4º, do CPC/2015, a irresignação merece prosperar.
+Por outro lado, a Segunda Seção desta Corte firmou o entendimento de que, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória" (AgInt nos EREsp n. 1.120.356/RS, Relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 24/8/2016, DJe de 29/8/2016).
+No mesmo sentido, a Corte Especial do STJ:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. COMPROVAÇÃO OU CONFIGURAÇÃO DO DISSENSO PRETORIANO. NECESSIDADE DA IDENTIDADE JURÍDICA ENTRE OS ARESTOS CONFRONTADOS NO ERESP. DESCUMPRIMENTO DOS REQUISITOS PREVISTOS NO ARTIGO 1.043, § 4º, DO CPC/2015 E NO ARTIGO 266, § 4º, DO RISTJ. ANÁLISE RESTRITIVA E NÃO AMPLIATIVA NO CABIMENTO DO ALEGADO EMBATE DE TESES. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. RECURSO IMPROVIDO.
+ .. .
+5. Inaplicabilidade da multa do § 4º do artigo 1.021 do CPC/2015, porque descabe a incidência automática da penalidade mencionada quando exercitado o regular direito de recorrer e não verificada a hipótese de manifesta inadmissibilidade do agravo interno ou de litigância temerária. Julgados da Corte Especial.
+6. Agravo interno improvido.
+(AgInt nos EAREsp n. 1.125.288/RS, Relator Ministro Jorge Mussi, Corte Especial, julgado em 13/11/2018, DJe de 21/11/2018.)
+Desse modo, "é incabível a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, haja vista não se tratar de mera decorrência lógica do não provimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação" (EDcl no AgInt nos EAREsp n. 671.944/RJ, Relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 15/12/2020, DJe de 17/12/2020).
+Assim, "para a aplicação da multa do art. 1021, §4º do CPC, é necessário que exista demonstração de requisitos cumulativos, previsto no Diploma Processual Civil" (AgInt nos EDcl nos EREsp n. 1.788.912/DF, Relator Ministro Felix Fischer, Corte Especial, julgado em 25/5/2021, DJe de 2/6/2021), o que não se verifica no caso dos autos.
+Dessa forma, havendo posicionamento dominante acerca do tema, aplica-se a Súmula n. 568 do STJ.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial, apenas para afastar a multa aplicada com fundamento no art. 1.021, § 4º, do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
