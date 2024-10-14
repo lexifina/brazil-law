@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por PAES DE BARROS DIALOGO JACUTINGA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA, com fundamento na incidência  da Súmula  7 do STJ e ausência de violação do art. 1022 do CPC.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois pretende a revaloração das provas, e não seu reexame.
+Alega violação a legislação federal: arts. 142, 145, 146 e 149 do CTN e 489 e 1.022, II, do CPC. Aduz que houve omissão no acórdão recorrido, haja vista o Tribunal local não ter se pronunciado sobre a constituição do crédito tributário de maneira genérica, porque desprovida de procedimento administrativo e desconsiderou os valores já quitados na revisão do lançamento (fl. 422 ).
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+De início, quanto à apontada violação aos arts. 489 e 1.022, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls. 354):
+Outrossim, conquanto não tenha oportunamente recorrido a respeito da nulidade do lançamento por falta dos requisitos do artigo 142, do CTN, a CDA não padece de falha passível de nulidade que possa afastar sua eficácia executiva, prevalecendo a certeza, liquidez e exequibilidade conferidas pelo art. 3º, da Lei nº 6.830/80 e, art. 202, do Código Tributário Nacional, uma vez que o título traz exata tipificação legal em que se funda a exação, assim como a forma de atualização e cálculos dos juros, não se vislumbrando qualquer prejuízo ao direito de defesa. A propósito, cuida-se de tributo lançado de ofício, no dia 1º de janeiro de cada ano, dispensando-se a instauração de procedimento administrativo prévio, pois a constituição definitiva do crédito tributário se dá com o envio do talonário ao endereço do contribuinte, nos termos da Súmula 397 do STJ, por se tratar de presunção juris tantun, cuja prova em contrário incumbe a quem a alega.
+Assim, verifica-se que os fundamentos apresentados são suficientes para a manutenção do acórdão e não foram impugnados de forma específica pela parte recorrente o que atrai, por analogia, o óbice das Súmulas 283 e 284 do STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. CUMULAÇÃO DE PENSÃO EXCEPCIONAL DE ANISTIADO COM PENSÃO POR MORTE. LEI 10.559/2009. IMPOSSIBILIDADE.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. A Lei 10.559/02 reforçou a disposição normativa anterior ao dispor que não é possível acumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento, facultando-se a opção mais favorável, nos moldes do art. 16 da mencionada lei.
+4. Agravo interno não provido (AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Superado o ponto, por não estar configurada a omissão, importante registrar que, em relação à legislação apontada como ofendida (arts. 145 e 146 do CTN), a jurisprudência desta Corte é no sentido de que, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação, ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+Cabe destacar que o prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável contida na própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento. Dessa forma, não basta à parte discorrer sobre o dispositivo legal que entende afrontado. Não examinada pela instância ordinária a matéria objeto do especial, inarredável a compreensão de que não houve prequestionamento a respeito de referidas teses jurídicas, atraindo a aplicação da Súmula 211/STJ.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. MUNICÍPIO DE CATALÃO/GO. SERVIDOR PÚBLICO. READAPTAÇÃO FUNCIONAL. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+IV - Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada (arts. 17 e 485, § 3º, do CPC), não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.  ..
+VII - Agravo interno improvido (AgInt no AREsp n. 2.169.823/GO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/6/2023, DJe de 22/6/2023).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA.
+PREQUESTIONAMENTO. AUSÊNCIA. MATÉRIA CONTROVERTIDA. INEXISTÊNCIA.
+1. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos legais tidos por violados não são examinados na origem, mesmo após opostos embargos de declaração.
+ ..
+3. Agravo interno desprovido (AgInt no REsp n. 1.942.612/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/6/2023, DJe de 16/6/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+ EMENTA
