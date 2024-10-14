@@ -1,0 +1,20 @@
+DECISÃO
+JULIANA SANTOS SILVA interpõe recurso especial, fundado no art. 105, III, "a" , da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia na Apelação Criminal n. 8003389-35.2022.8.05.0141.
+Nas razões do recurso especial, a defesa pretende a absolvição da ré, diante da ausência de provas de materialidade para sustentar a condenação. Subsidiariamente, requer a desclassificação do furto para o delito de receptação.
+O recurso especial foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo não conhecimento do recurso.
+Decido.
+Inicialmente, verifico a latente deficiência na fundamentação do recurso, pois o recorrente deixou de citar expressamente os dispositivos da legislação infraconstitucional supostamente violados pelo Tribunal a quo.
+Assim, descumprido requisito imprescindível para o conhecimento do recurso, a teor da Súmula n. 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Saliento que, nos termos da jurisprudência desta Corte Superior, "a citação de passagem de artigo de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto. Incide na espécie, por analogia, o enunciado n. 284, da Súmula do STF"(AgInt no AREsp n. 2.072.796/RJ, rel. Ministro Mauro Campbell Marques, 2ª T., DJe de 22/9/2022).
+Ainda que assim não fosse, em relação à pretendida insuficiência de provas para a condenação, o acórdão registrou que "o conjunto probatório encartado aos autos, corroborado pelas declarações da vítima nas fases policial e judicial, bem como aliados ao depoimento da testemunha de acusação não deixam dúvida que a apelante Juliana Santos Silva praticou o fato delituoso descrito na exordial acusatória" (fl. 176).
+Ademais, o acórdão registrou que a conduta praticada pela ré se subsume ao delito furto e entendeu incabível a desclassificação da conduta, sobretudo porque comprovado que "a apelante subtraiu objetos da residência da vítima Sônia, uma caixa contendo algumas joias e bijuterias e um perfume" (fl. 178).
+Assim, para afastar a conclusão do acórdão estadual e entender pela absolvição da ré ou pela desclassificação da conduta seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que, conforme cediço, é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. ABSOLVIÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO- PROBATÓRIA. SÚMULA 7/STJ. REGIME MAIS GRAVOSO E IMPOSSIBILIDADE DA SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos na fase inquisitorial e judicial, aptos a manter a condenação do envolvido pelos delitos de furto qualificado. Assim, rever os fundamentos utilizados pela Corte de origem, para decidir pela absolvição, por ausência de prova concreta para a condenação ou, subsidiariamente, pela desclassificação da conduta para o delito de receptação simples, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+ ..
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.483.092/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024.)
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
