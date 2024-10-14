@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 443):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. EXIGÊNCIA DOS ARTIGOS 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RI/STJ (REDAÇÃO DADA PELA EMENDA REGIMENTAL N. 22, 2016). AGRAVO NÃO CONHECIDO.
+A parte agravante sustenta, em suma, que "a questão que realmente interessa é que o recurso demonstrou o inequívoco erro da decisão que aplicou a Súmula 385-STJ, em situação que não a atrai, foi por essa razão que houve "violação ao art. 373, II, do CPC/15 e aos arts. 186, 187, 927 do CC"" (fl. 457). Acrescenta que foi "equivocado concluir que o agravo não impugnou especificamente todos os fundamentos da decisão recorrida, quando é da peça recursal que se verifica que o recorrente impugnou o despacho questão a questão, sem permitir que qualquer delas deixasse de ser impugnada, impedindo a aplicação, aqui, dos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ." (fl. 458).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece provimento quanto à razão apresentada pelo insurgente ao afirmar que impugnou os fundamentos da decisão de admissibilidade proferida no Tribunal de origem.
+Na espécie, em que pese a parte agravante sustentar que demonstrou o erro da decisão que aplicou a Súmula 385-STJ, sendo "equivocado concluir que o agravo não impugnou especificamente todos os fundamentos da decisão recorrida", os argumentos expendidos no agravo não estão aptos a cumprir os requisitos da dialeticidade.
+Com efeito, no que tange à alegada violação do art. 373, II, do CPC e dos arts. 186, 187, 927 do CC, extrai-se do julgado que o Presidente da Seção de Direito Público do Tribunal de Justiça de São Paulo inadmitiu o recurso especial por entender que (fl. 335):
+ ..
+Não ficou demonstrada a alegada vulneração aos dispositivos arrolados, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo V. Acórdão ao declinaras premissas nas quais assentada a decisão.
+ ..  o E. Superior Tribunal de Justiça vem decidindo que "a simples e genérica referência aos dispositivos legais desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal não é suficiente para o conhecimento do recurso especial" (agravo interno nos embargos de declaração no agravo em recurso especial 1.549.004/MS, Relator Ministro Marco Aurélio Bellizze, DJe de 25.06.2020).
+Por sua vez, nas razões do agravo em recurso especial, a parte agravante sustenta o seguinte (fls. 361-362):
+ ..
+Demonstrou especificamente que o Acórdão é nulo porque fundamentou sua decisão em situação que não corresponde ao feito e, portanto, atraindo as disposições dos artigos 373, II (quem deveria contrariar esses fatos era o réu) e 1022, inciso III, do CPC (o erro, não corrigido por meio de embargos, leva a decisão à nulidade).
+Em verdade demonstrou que houve no mínimo ERRO na análise das questões postas em julgamento e sustentou em preliminar que tal situação deve levar a nulidade da decisão para que os embargos sejam julgados, SEM OMISSÃO ACERCA DAS QUESTÕES INSTADAS, eis que nessas condições afastar a indenização, houve, inequivocamente ofensa aos artigos 373, II, 489, 1022, III do CPC/15, e artigos 186, 187, 927 do CC/02 (alínea "a"), pois, a ilegitimidade e cancelamento do único registro anterior não atende aos pressupostos do enunciado que além de prévio exige apontamento legitimo.
+Obviamente SE NÃO É LEGITIMO, TER AFASTADO OS ARTIGOS 186, 187, 927 DO CC/02, LEVOU A UMA DECISÃO QUE AFRONTOU ESSES DISPOSITIVOS e a resistência em enfrentar essas questões instadas em oportunos e pertinentes embargos, revela clara negativa de vigência aos artigos 489 e 1022, III do CPC.
+Não é admissível, portanto, trancar o recurso com uma frase elaborada para qualquer ação, declinando meramente que "Não ficou demonstrada a alegada vulneração aos dispositivos arrolados, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo V. Acórdão ao declinaras premissas nas quais assentada a decisão" quando as premissas foram equivocadas.
+Assim, diante da ausência de alegação efetiva e voltada a afastar as conclusões da decisão combatida, especialmente, acerca do fundamento de que "as exigências legais na solução das qu estões de fato e de direito da lide foram atendidas pelo acórdão recorrido e, além disso, a simples e genérica referência aos dispositivos legais desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal não é suficiente para o conhecimento do recurso especial (AgInt nos EDcl no AREsp 1.549.004/MS, Relator Ministro Marco Aurélio Bellizze, DJe de 25.06.2020)" (fl. 335), mantém-se o não conhecimento do agravo em recurso especial.
+Por fim, registra-se que a impugnação específica aos fundamentos da decisão de inadmissão do recurso especial feita somente em sede de agravo interno não deve ser considerada, porque, além de preclusa a oportunidade, caracteriza indevida inovação recursal.
+Neste sentido: AgInt no AREsp 1.269.651/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 14/12/2018; AgInt no AREsp 1.160.531/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 26/03/2019; AgInt no AREsp 1.542.694/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 15/05/2020; e AgInt nos EDcl no AREsp 1.844.217/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 17/02/2022.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
