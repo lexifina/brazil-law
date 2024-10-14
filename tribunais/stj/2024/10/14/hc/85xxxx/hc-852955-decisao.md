@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por SÉRGIO MASSANEIRO, contra decisão monocrática por mim proferida que não conheceu do habeas corpus porém, concedeu a ordem de ofício para, após reconhecer a ocorrência do furto privilegiado, readequar a pena do paciente para 10 (dez) dias-multa (e-STJ fls. 550/552).
+O agravante sustenta, em síntese, a necessidade de reforma da decisão desta Relatora que, não obstante tenha reconhecido a figura do furto privilegiado, teria deixado de reconhecer a ocorrência a prescrição da pretensão punitiva.
+Assevera que "entre a data da publicação da sentença (28/6/2019 - fls. 44-55) até a da sessão de julgamento do acórdão (29/8/2023 - fl. 11) houve o decurso de prazo superior a 2 anos, não há dúvidas de que está verificada a prescrição da pretensão punitiva do Estado, pela pena aplicada, na modalidade retroativa"
+Requer a reconsideração da decisão agravada ou o provimento de seu recurso pelo colegiado a fim de que seja reconhecida a ocorrência da prescrição da pretensão punitiva e, por fim, declarada extinta a punibilidade do agente (e-STJ fls. 562/566).
+Em contrarrazões, o Ministério Público do Estado de Santa Catarina posta-se pelo conhecimento e provimento do recurso (e-STJ 574/575).
+É o relatório.
+Conforme já relatado, em decisão anterior, não conheci do habeas corpus, porém, de ofício, concedi a ordem para após reconhecer a figura do furto privilegiado, readequar a pena do agora recorrente para o pagamento de 10 (dez) dias-multa.
+A decisão encontra-se assim fundamentada:
+Trata-se de habeas corpus substitutivo com pedido de liminar, impetrado contra acórdão assim ementado:
+"APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. FURTO QUALIFICADO PELO CONCURSO DE AGENTES (ART. 155, § 4º, IV, DO CP). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. 1. APELANTE A. RECONHECIMENTO, DE OFÍCIO, DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA DO ESTADO. PRAZO PRESCRICIONAL DE 4 (QUATRO) ANOS, REDUZIDO PELA METADE POR SER O AGENTE MENOR DE 21 ANOS NA DATA DO DELITO. TRANSCURSO DE LAPSO TEMPORAL SUPERIOR A 2 ANOS ENTRE A DATA DA PUBLICAÇÃO DA SENTENÇA CONDENATÓRIA ATÉ O PRESENTE JULGAMENTO. EXTINÇÃO DA PUNIBILIDADE QUE SE IMPÕE. RECURSO PREJUDICADO QUANTO AO RECORRENTE. 2. APELANTE S. ALMEJADO RECONHECIMENTO DO FURTO PRIVILEGIADO (ART. 155, § 2º,DO CP). IMPOSSIBILIDADE. RES COM VALOR INFERIOR AO SALÁRIO MÍNIMO NA DATA DOS FATOS. NO ENTANTO, RECORRENTE QUE REGISTRA MAUS ANTECEDENTES. CONDENAÇÃO ANTERIOR POR DELITO DE ROUBO A DEMONSTRAR A SUA OBSTINAÇÃO À PRÁTICA DE CRIMES PATRIMONIAIS. PLEITO INDEFERIDO. PENA MANTIDA. RECURSO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO. EXTINÇÃO DAPUNIBILIDADE DO RECORRENTE A. DECLARADA DE OFÍCIO."
+O paciente foi condenado à pena de 2 anos e 4 meses de reclusão em regime aberto, além do pagamento de 11 dias-multa, pela prática do crime previsto no art. 155, § 4º, I, do Código Penal.
+A apelação interposta pela defesa foi desprovida.
+Consta da denúncia que "Em 5 de maio de 2017, por volta das 15h30min, os denunciados Adalberto Linhares Mota e Sérgio Massaneiro, em comunhão de esforços, unidade de desígnios e com manifesto animus furandi, dirigiram-se até uma construção civil, sito na Rua Antonio Ribas Macedo, s/n, Bairro Bom Jesus, nesta urbe, onde subtraíram, para si, um rolo de tela e um rolo de fio de arame farpado, saindo do local na posse mansa e pacífica dos bens. Em atendimento à ocorrência, policiais militares abordaram os denunciados estando Adalberto ainda na referida construção enquanto que Sérgio se encontrava nas proximidades do local e na posse mansa e pacífica do rolo de fio de arame farpado subtraído." (e-STJ fl. 231-232)
+A impetrante alega: a) preenchimento dos requisitos para aplicação do art. 155, § 2º, do Código Penal, pois o bem subtraído (um rolo de arame farpado, avaliado em R$ 45,00) era de valor inferior ao salário mínimo vigente em 2017 (R$ 917,00); b) "o paciente é tecnicamente primário, haja vista que o trânsito em julgado da sentença condenatória provinda de outro processo ocorreu no andamento da presente demanda" (e-STJ fl. 6); c) "a existência de simples maus antecedentes não impede a configuração do privilégio" (e-STJ fl. 6); e d) "o réu tem direito subjetivo à incidência da causa especial de diminuição de pena sui generis" (e-STJ fl. 7).
+Requer liminar para suspender os efeitos da condenação criminal e, definitivamente, deferimento da ordem para aplicar o disposto no art. 155, § 2º, do Código Penal.
+Liminar indeferida pelo relator João Batista. (e-STJ fl. 490-492)
+Informações prestadas. (e-STJ fl. 495-528)
+Parecer do MPF. (e-STJ fl. 530-532)
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Do voto condutor do acórdão recorrido extrai-se o seguinte trecho, que revela a ratio decidendi manifestada na Corte de origem (e-STJ fls. 11-16):
+""I. Do apelo de Sérgio
+Já quanto a Sérgio Massaneiro, a defesa requereu o reconhecimento do furto privilegiado. Dispõe o art. 155, § 2º, do Código Penal que "se o criminoso é primário, e é de pequenovalor a coisa furtada, o juiz pode substituir a pena de reclusão pela de detenção, diminuí-la de um adois terços, ou aplicar somente a pena de multa" (grifou-se).
+Muito embora o valor do bem subtraído permita a aplicação da redutora (rolo de arame farpado avaliado em R$ 45,00), o apelante não é primário, o que impede a incidência da benesse. Em análise a certidão constante no ev. 85.140), denota-se que o apelante possui condenação, pelo delito previsto no art. 157, caput, do CP, nos autos n. 0002094-50.2016.8.24.0022,a qual caracteriza antecedentes criminais, pois o fato foi praticado em 26/07/2016, ou seja, anterior ao delito em questão, com trânsito em julgado em 21/11/2017, ou seja, no transcurso da apuração do delito que narra a inicial.
+Referida circunstância denota sua inclinação à prática de delitos patrimoniais, o que evidentemente impede a incidência do privilégio. (..)
+Destarte, diante de antecedente registrado, inviável a aplicação da causa de diminuição prevista no § 2º do art. 155 do CP, conforme pretensão recursal."
+O Ministério Público Federal se manifestou pela concessão da ordem, nos seguintes termos:
+"In casu, trata-se de réu tecnicamente primário à época dos fatos, condenado pelo furto de bem de pequeno valor, pois a res furtiva foi avaliada em R$ 45,00, ou seja, inferior ao salário-mínimo vigente em 2017 (R$ 937,00).
+Além disso, nos termos da pacífica jurisprudência do Superior Tribunal de Justiça, consolidada na Sumula/STJ 511, é viável a incidência do privilégio na hipótese de furto qualificado, desde que a qualificadora seja de caráter objetivo. Decerto, a única qualificadora que inviabiliza o benefício penal é a de abuso de confiança (CP, art. 155, § 4º, II, primeira parte).
+Considerando se tratar tecnicamente de réu primário, condenado pelo furto de bem de pequeno valor e tendo incidido a qualificadora objetiva de destruição ou rompimento de obstáculo à subtração da coisa, deve ser reconhecido o privilégio.
+Posto isso, o Ministério Público Federal manifesta-se pela concessão da ordem de habeas corpus."
+Com razão o Ministério Publico Federal.
+Nos termos da Súmula 511 desta Corte, é viável a incidência do privilégio na hipótese de furto qualificado, desde que a qualificadora seja de caráter objetivo, hipótese dos autos.
+Sendo assim, não conheço do habeas corpus, pois substitutivo de recurso próprio, mas diante da flagrante ilegalidade, concedo a ordem de ofício para aplicar ao paciente o furto privilegiado, readequando a pena do paciente para 10 dias-multa, aplicando os patamares mínimos do § 1º do artigo 49 do CP.
+Publique-se. Intimem-se  ..  (e-STJ 538)
+A insurgência defensiva merece ser acolhida.
+Dos documentos que instruem o feito, constata-se que a sentença condenatória foi publicada em 28/06/2019 ao passo que o acórdão que confirmou a condenação foi publicado em 29/08/2023.
+De acordo com o art. 114, I do CP, a prescrição da pena de multa ocorrerá em 2 anos.
+Constata-se, assim, que entre os marcos acima citados, transcorreu prazo superior a 2 anos.
+Dessa forma, acolho a insurgência defensiva para, após reconhecer a figura do furto privilegiado perpetrado pelo recorrente e fixar a pena de 10 dias-multa, declarar extinta sua punibilidade, pela ocorrência da prescrição da pretensão punitiva, na modalidade retroativa.
+EMENTA
