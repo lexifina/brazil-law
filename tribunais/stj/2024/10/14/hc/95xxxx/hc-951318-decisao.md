@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUIZ CESAR DA SILVA OLIVEIRA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro, em acórdão proferido no julgamento do agravo em execução penal n. 5004805-21.2024.8.19.0500, que recebeu a seguinte ementa (e-STJ fl. 11):
+Agravo em execução penal. Decisão que homologou falta grave ao apenado e determinou a interrupção do regime de cumprimento de pena. Inconformismo da Defesa.
+Alegação de insuficiência probatória diante de decisão baseada em declaração do Inspetor de Segurança e Administração Penitenciária (ISAP), descrição genérica da conduta atribuída e nulidade do procedimento administrativo.
+Desobediência aos agentes penitenciários e conduta de subversão a ordem que configuram falta grave, consoante entendimento do E. STJ.
+Conduta que justifica a interrupção do prazo para obtenção da progressão do regime. Inteligência do art. 112, §6 da Lei de execuções penais e Súmula 534 do STJ.
+Decisão combatida que se encontra alinhada com a Jurisprudência do E. STJ. Desprovimento do recurso.
+A impetrante sustenta a nulidade do processo administrativo, alegando que não houve qualquer delimitação da conduta do paciente, apenas menção genérica de que teria insuflado o coletivo, o que prejudica o pleno exercício das garantias constitucionais do contraditório, da ampla defesa e do devido processo legal, nos termos do art. 5º, LIV e LV, da CRFB/88, eis que o apenado se defende dos fatos a ele imputados (e-STJ fl. 9).
+Argumenta que é NULA a decisão que aplicou as sanções administrativas, pois além de NÃO enfrentar as teses defensiva, é desprovida de qualquer motivação, conforme exige o parágrafo único do Art. 59 da LEP (e-STJ fl. 9).
+Sustenta que Não se pode ignorar ainda que inexiste instrução probatória no processo disciplinar em referência, capaz de autorizar a imposição de sanção disciplinar, visto que somente se limita a oitiva do apenado, que NEGOU os fatos atribuídos a ele, bem como ao testemunho de agentes penitenciários, que por si só não são capazes de conferir um juízo de certeza de culpa, devendo-se, portanto, ser o paciente absolvido, consagrando a presunção de inocência (e-STJ fl. 9).
+Complementa que a conduta supostamente atribuída ao apenado é atípica, eis que ausente dolo específico de insuflar o coletivo, não havendo qualquer prejuízo na ordem e na disciplina do presídio, apta a configurar a falta GRAVE (e-STJ fl. 10).
+Requer, liminarmente e no mérito, a declaração de NULIDADE DO PROCESSO ADMINISTRATIVO SEI - 210074/000738/2023, afastando todos os seus efeitos, e determinar que o Juízo da Execução Penal refaça o cálculo para fins de progressão de regime do apenado (e-STJ fl. 10).
+É o relatório. Decido.
+Verifico que o presente habeas corpus reitera, em tudo, pedido já veiculado no Habeas Corpus n. 951.296/RJ, impetrado nesta Corte em 06/10/2024 e a mim distribuído, impetração essa que já se encontra em processamento e que se volta, também, contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro no julgamento do agravo em execução penal n. 5004805-21.2024.8.19.0500.
+Como é de conhecimento, o art. 210 do Regim ento Interno do STJ dispõe que: quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+Somado a isso, cumpre ressaltar que é pacífica a orientação desta Corte Superior no sentido de que não é possível a impetração de habeas corpus em duplicidade, tal como ocorre com qualquer recurso processual.
+Assim, diante da nítida duplicidade de pedidos veiculada no HC n. 951.296/RJ e no presente habeas corpus, deve prosseguir para exame de mérito apenas a primeira impetração protocolada nesta Corte.
+Ante o exposto, considerando a duplicidade de habeas corpus , indefiro liminarmente o presente habeas corpus, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Intimem-se.
+EMENTA
