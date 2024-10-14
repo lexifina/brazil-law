@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de CARLOS HERON DA SILVA JUNIOR, DENILSON BERNARDES FILHO, DIOVANA DONIZETTI DE OLIVEIRA, ELAINE CRISTINA DA SILVA, ELTON JUNIOR MARTINS, GABRIEL RICARDO DE ARAUJO, GUILHERME HENRIQUE PRUDENTE PIRES, JOAO CLEBER REIS DOS SANTOS, JOAO PAULO DA CUNHA, LUIZ CARLOS DA SILVA, POLIANA APARECIDA DE ARAUJO, ROBSON OLIVEIRA DOS SANTOS e WELLINGTON RODRIGUES, denunciados pela prática dos delitos tipificados no art. 2º, caput, da Lei n. 12.850/2013 e no art. 1º, § 1º, I e II e § 4º, da Lei n. 9.613/1998.
+Ataca-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no HC n. 1.0000.24.338984-8/000 que negou o trancamento da Ação Penal n. 0003361-63.2024.8.13.0287, vinculada à Medida Cautelar n. 5006309-24.2023.8.13.0287 em curs o na Vara Criminal da comarca de Guaxupé/MG.
+Alega-se, em resumo, que há claros indícios de quebra na cadeia de custódia, bem como obtenção de acesso ao conteúdo em aparelho celular obtido mediante agressões físicas, o que, por si só, já comprova a excepcionalidade da medida (fl. 7).
+Requer-se a concessão da ordem, inclusive em caráter liminar, a fim de trancar o processo na origem, expedindo-se os respectivos alvarás de soltura, não sem antes declarar ilícitas e nulas as provas oriundas do aparelho celular de BRUNO JOSÉ PEREIRA BATISTA e JOÃO PAULO DA CUNHA, bem como as demais provas obtidas e derivadas (fruto da árvore envenenada) - fl. 52.
+Estes autos foram a mim distribuídos por prevenção e guardam relação com a chamada Operação Alta Voltagem.
+Indeferida a limin ar. Não foram solicitadas informações. O Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Mario Luiz Bonsaglia, pela denegação da ordem (fls. 1.694/1.707).
+É o relatório.
+In casu, a ordem não comporta concessão.
+Buscam os pacientes o trancamento processo criminal em que são investigados pela suposta prática do delito de organização criminosa, ao argumento da falta de justa causa para o prosseguimento do feito, tendo em vista que a conduta imputada, dentre outras coisas, baseia-se em prova supostamente obtida de forma ilícita, havendo nítida quebra da cadeia de custódia.
+Contudo, de início, observo que o trancamento de procedimento criminal pela via eleita é medida excepcional, cabível apenas quando demonstrada, de plano, a atipicidade da conduta, a extinção da punibilidade ou a manifesta ausência de provas da existência do crime e indícios de autoria.
+Da análise dos autos, então, observo que, além de se mostrar prematuro o trancamento da ação penal, o pleito demanda reexame de provas, inviável na via eleita. Além disso, a questão levantada pelos pacientes, a saber, obtenção de acesso ao conteúdo em aparelho celular obtido mediante agressões físicas (fl. 7), nem sequer foi enfrentada de forma específica pelas instâncias originárias.
+Nesse sentido, a propósito, já decidiu esta Corte Superior que o trancamento de investigações policiais, procedimentos investigatórios, ou mesmo da ação penal, constitui medida excepcional, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a existência de causas de extinção de punibilidade ou ausência de indícios mínimos de autoria ou de prova de materialidade. A liquidez dos fatos constitui requisito inafastável na apreciação da justa causa, pois o exame aprofundado de provas é inadmissível no âmbito processual do habeas corpus e de seu respectivo recurso ordinário, cujo manejo pressupõe ilegalidade ou abuso de poder flagrantes a ponto de serem demonstrados de plano (RHC n. 166.079/SC, Ministro Jesuíno Rissato (Desembargad or convocado do TJDFT), Quinta Turma, DJe 16/8/2022).
+E ma is: HC n. 749576/SP, Ministra Laurita Vaz, Sexta Turma, DJe 1º/7/2022.
+Outra não foi a opinião do Parquet Federal, vejamos (fl. 1.704 - grifo nosso):
+ ..
+No caso, a ação penal em comento, pelo que se extrai dos autos, não se repousa sobre exercício meramente especulativo. Ao contrário, se apoia em elementos, a princípio, verossímeis a justificar a acusação, restando preenchidos os requisitos do art. 41 do Código de Processo Penal, tendo sido individualizadas as condutas dos réus, de modo a possibilitar o exercício do contraditório e da ampla defesa.
+Ademais, in casu, deve-se reservar para as vias ordinárias a análise da tese defensiva de ausência de justa causa em razão de suposta ilegalidade das provas, vez que demandariam, inevitavelmente, revolvimento fático-probatório, inviável na via eleita.
+ ..
+Ante o exposto, à vista do parecer e dos precedentes, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. TRANCAMENTO DA AÇÃO PENAL. AUSÊNCIA DE JUSTA CAUSA. QUEBRA DA CADEIA DE CUSTÓDIA. NÃO CABIMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. PARECER ACOLHIDO.
+Ordem denegada.
