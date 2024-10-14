@@ -1,0 +1,37 @@
+DECISÃO
+Em análise, recurso especial interposto pela UNIÃO contra acórdão proferido pelo TRF5, assim ementado (fl. 135):
+CONSTITUCIONAL. ADMINISTRATIVO. JUIZ DO TRABALHO SUBSTITUTO. DISTRIBUIÇÃO DAS JUNTAS DE JULGAMENTO POR ZONA DE TRABALHO. LEGALIDADE. DESLOCAMENTO DA SEDE. DIARIA E AJUDA DE CUSTO. APLICAÇÃO DA SÚMULA 19 DESTE TRF DA 5a REGIÃO. PRESTAÇÕES VINCENDAS. TUTELA INIBITÓRIA. POSSIBILIDADE DE CONCESSÃO. JUROS DE MORA. APLICABILIDADE DO ART. 1º-F DA LEI N. 9.494/97 ATE A VIGÊNCIA DO CÓDIGO CIVIL BRASILEIRO E APÓS, INCIDÊNCIA EXCLUSIVA DA TAXA SELIC. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO.
+Os embargos declaratórios opostos ao referido acórdão foram rejeitados.
+Nas razões do recurso especial, aponta violação aos arts. 21, 269, VI e 535 do CPC/1973; 1º do Decreto 20.910/1932 e 1º-F da Lei 9.494/1997, aos seguintes fundamentos: a) o acórdão recorrido padece de omissão; b) encontra-se prescrito o direito reclamado; c) "o acórdão embargado, ao dar provimento à apelação, pugnou o entendimento da possibilidade de condenar a União ao pagamento de eventuais diárias futuras, se houver outros deslocamentos fora da jurisdição, o que se trata de verdadeiro julgamento condicional" (fl. 163); d) os juros de mora devem ser fixados de acordo com o art. 1º-F da Lei 9.494/1997; e e) "o autor decaiu em mais da metade do pleito inicial, decorrendo, desse modo, impropriedade no arbitramento de honorários, com base no § 4º do artigo 20 do CPC" (fl. 170).
+Não foram apresentadas contrarrazões.
+É o relatório.
+Passo a decidir.
+Inicialmente, verifico a perda do objeto do presente recurso especial quanto à violação do art. 1º-F da Lei 9.494/1997, tendo em vista que o Tribunal de origem adotou a tese fixada no Tema 810 do STF.
+No tocante à violação do art. 535 do CPC/1973, por ser omisso o acórdão recorrido, no caso dos autos, não se constata a existência de vícios, pois o Tribunal de origem analisou fundamentadamente as questões apresentadas pela recorrente, revelando-se, em verdade, mero inconformismo da parte.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Quanto à alegada prescrição, a matéria carece de prequestionamento.
+Isso porque, de acordo com a jurisprudência do STJ, para que se configure o prequestionamento é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto.
+Nesse contexto, a ausência de discussão na instância de origem da matéria tratada no recurso especial, a respeito da qual não foram opostos embargos de declaração, enseja a aplicação das Súmulas 282 e 356/STF.
+No caso, a questão relativa à prescrição (arts. 267, VI, do CPC e 1º do Decreto 20.910/1932), não foi debatida pela Corte de origem, tampouco foi abordada nos embargos declaratórios opostos pela União. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. SAT/RAT. MAJORAÇÃO. NÃO RECOLHIMENTO. DENEGAÇÃO DA SEGURANÇA. DEFICIÊNCIA RECURSAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO DAS SÚMULAS N. 283 E 284, AMBAS DO STF. FALTA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA.
+ ..
+IX - Não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+ ..
+XII - Agravo interno improvido (AgInt no AREsp 2.160.282/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/3/2023, DJe de 31/3/2023).
+Acerca da impossibilidade de julgamento condicional, consta do acórdão recorrido o seguinte (fl. 130):
+Quanto ao pedido de condenação de pagamento de diárias vincendas, entendo que razão assiste a parte apelante.
+A tutela inibitória é aquela capaz de garantir a inviolabilidade de um direito encontrando-se constitucionalmente estabelecida no art. 5º, XXXV, da CF/88, no momento em que o texto legal assegura a todos a apreciação, pelo Poder Judiciários, de ameaça a direito.
+É preciso tornar realidade o comando constitucional, o que encontra respaldo no princípio da máxima efetividade da Constituição.
+Desse modo, levando-se a efeito que o ordenamento jurídico deve ser sistematicamente considerado, deve-se afastar a literalidade do, disposto no art. 460 do CPC, no sentido de que a sentença deve ser certa, ainda quando decida relação jurídica condicional, para se entender como certa a prestação jurisdicional que conferindo o pedido inibitório, garanta a efetividade da prestação jurisdicional, com a concretização de uma tutela inibitória negativa que consiste em fazer com que se deixe de praticar, reiterar ou continuar praticando um ato reconhecidamente contrário ao direito, no caso, o não pagamento das diárias do autor, Juiz do Trabalho Substituto, designado para Vara do Trabalho não incluída na Zona de sua, área jurisdicional.
+A recorrente não impugnou os fundamentos acima mencionados, pois as razões recursais se limitam a reiterar a ocorrência de julgamento condicional, sem, contudo, rechaçar os fundamentos do acórdão, o que atrai o óbice da Súmula 283/STF, aplicável por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Por fim, a inversão do julgado no que diz respeito à distribuição dos ônus sucumbenciais, à aferição do quantitativo em que autor e réu saíram vencidos na demanda e a existência de sucumbência mínima ou recíproca, mostra-se inviável em recurso especial, a teor da Súmula 7 desta Corte.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. VIOLAÇÃO DOS ARTS. 458, II, E 535, II, DO CPC. OMISSÃO NÃO CONFIGURADA. COMPENSAÇÃO. REESTRUTURAÇÃO DA CARREIRA. POSSIBILIDADE. OFENSA A COISA JULGADA. INEXISTÊNCIA. PRECLUSÃO DO PEDIDO DE COMPENSAÇÃO. LEI QUE PROMOVEU A REESTRUTURAÇÃO É POSTERIOR AO AJUIZAMENTO DOS EMBARGOS. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA 283/STF. SUCUMBÊNCIA RECÍPROCA. AFERIÇÃO DO GRAU. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. SÚMULA 7/STJ.
+1. Constatado que o Tribunal de origem empregou fundamentação adequada e suficiente para dirimir a controvérsia, é de se afastar a alegada violação do art. 535 do CPC.
+2. A jurisprudência do STJ firmou entendimento no sentido de que não ofende a coisa julgada, a compensação do índice de 28,86% com reajustes concedidos por leis posteriores à última oportunidade de alegação da objeção de defesa no processo cognitivo. Precedente: AgRg nos EAREsp 221.312/RS, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe 02/09/2015.
+3. A aferição da sucumbência recíproca ou em parte mínima, no caso, envolve o exame do contexto fático-probatório, cuja análise e revisão revelam-se interditadas a esta Corte Superior, em face do óbice contido na Súmula 7 do STJ.
+4. Agravo regimental não provido (AgRg no AREsp n. 724.082/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 10/11/2015, DJe de 19/11/2015, grifos acrescidos ).
+Isso posto, conheço do recurso especial para negar-lhe provimento.
+Publique-se. Intime-se.
+EMENTA
