@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. JUSTIÇA GRATUITA. DEFERIMENTO TÁCITO. PAGAMENTO DAS CUSTAS NA INTERPOSIÇÃO DO RESP. ATO INCOMPATÍVEL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão recorrida.
+2. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando foram analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por LUIZ CARLOS ZANCAN e OUTROS contra acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça, que negou provimento ao agravo interno no agravo em recurso especial. Eis a ementa do aresto (fls. 1.019-1.020):
+PROCESSUAL CIVIL. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA FORMULADO NA ORIGEM. AUSÊNCIA DE MANIFESTAÇÃO DO PODER JUDICIÁRIO. DEFERIMENTO TÁCITO. PRÁTICA DE ATO INCOMPATÍVEL. REVOGAÇÃO DO BENEFÍCIO COM EFEITO EX NUNC. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se de inconformismo dos insurgentes contra decisão que, após reconhecer a concessão tácita do benefício da assistência judiciária gratuita por falta de manifestação acerca do pedido dirigido à instância de origem, entendeu que o recolhimento do preparo do Recurso Especial constitui ato incompatível com a manutenção do benefício, revogando-se desse ato em diante.
+2. Ao dirimir a controvérsia, a Corte a quo consignou (fl. 828): "Na hipótese em tela, a sentença consignou que a concessão implícita revela-se no fato de que "requerido o benefício da assistência judiciária gratuita quando proposta a execução, não houve manifestação do Juízo às fls. 588, quando do recebimento do processo". Esse fundamento, efetivamente, alinha-se ao entendimento da Corte Especial do Superior Tribunal de Justiça. De outra banda, o fato de terem os recorridos recolhido custas para a interposição do recurso especial não se afigura, na hipótese, incompatível com a gratuidade; o que se infere do ato, a rigor, é tratar-se de medida que visava assegurar a admissão do apelo extremo. Outrossim, não há falar em retroatividade, pois os efeitos da concessão tácita possui eficácia idêntica à da concessão expressa, isto é, a contar do pedido".
+3. Segundo a jurisprudência desta Corte Superior, "a ausência de manifestação do Judiciário quanto ao pedido de assistência judiciária gratuita leva à conclusão de seu deferimento tácito, a autorizar a interposição do recurso cabível sem o correspondente preparo" (AgRg nos EAR Esp n. 440.971/RS, Rel. Ministro Raul Araújo, Corte Especial, D Je 17.3.2016).
+4. Em relação ao fato de ter havido recolhimento das custas por ocasião da interposição do Recurso Especial, a parte praticou ato incompatível com a pretensão de reconhecimento do benefício da justiça gratuita.
+5. Todavia, o ato incompatível não retroage para alcançar os pretéritos. Logo, no caso dos autos, a gratuidade vale da concessão tácita até o ato incompatível, de modo que cessou a partir do preparo do Recurso Especial. 6. Agravo Interno não provido.
+Alegam os embargantes que o acórdão recorrido foi omisso pois não se manifestou sobre o argumento de que a revogação do benefício da justiça gratuita depende de prova inequívoca de que a situação econômica do beneficiário se alterou.
+Afirmam que o "recolhimento das custas processuais pelos Embargantes, para garantir a admissibilidade do recurso especial, foi interpretado como ato incompatível com a manutenção da justiça gratuita, sem considerar que tal ato não implica necessariamente na alteração da condição de hipossuficiência econômica" (fl. 1030).
+Requerem o conhecimento e acolhimento dos embargos de declaração, a fim de que sejam sanadas as omissões para que seja reconhecida a manutenção do benefício da justiça gratuita até o final do processo.
+Intimada, a parte embargada apresentou impugnação (fls. 1.042-1.045).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. JUSTIÇA GRATUITA. DEFERIMENTO TÁCITO. PAGAMENTO DAS CUSTAS NA INTERPOSIÇÃO DO RESP. ATO INCOMPATÍVEL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão recorrida.
+2. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando foram analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+3. Embargos de declaração rejeitados.
+VOTO
+A pretensão recursal não comporta acolhimento.
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+Na espécie, da leitura do acórdão que negou provimento ao agravo interno, observa-se que foram analisadas fundamentadamente as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia, sem incorrer em qualquer dos vícios acima mencionados.
+Confiram-se, por oportuno, os fundamentos do aresto ora embargado (fls. 1.020-1.022):
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Ao dirimir a controvérsia, a Corte a quo consignou (fl. 828, e-STJ):
+(..)
+Conforme já disposto no decisum combatido, segundo a jurisprudência desta Corte Superior, "a ausência de manifestação do Judiciário quanto ao pedido de assistência judiciária gratuita leva à conclusão de seu deferimento tácito, a autorizar a interposição do recurso cabível sem o correspondente preparo" (AgRg nos EAREsp n. 440.971/RS, Relator Ministro Raul Araújo, Corte Especial, DJe 17.3.2016). Nesse sentido:
+(..)
+Em relação ao fato de ter havido recolhimento das custas por ocasião da interposição do Recurso Especial, a parte praticou ato incompatível com a pretensão de reconhecimento do benefício da justiça gratuita. Nessa linha:
+(..)
+Todavia, o ato incompatível não retroage para alcançar os pretéritos. Logo, no caso dos autos, a gratuidade vale da concessão tácita até o ato incompatível, de modo que cessou a partir do preparo do Recurso Especial. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge. Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
+O que os embargantes pretendem, em verdade, porque inconformados com o entendimento adotado por esta Corte, é rediscutir, com efeitos infringentes, questões já decididas quando do julgamento do agravo interno e do recurso especial, o que é inviável em sede de embargos de declaração.
+O recurso aclaratório possui finalidade integrativa e não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme se pretende.
+A esse respeito, colaciono os seguintes precedentes do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC/2015, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no AgInt no AgInt no AREsp n. 1.545.376/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material no decisum embargado.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios no julgado embargado, traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp n. 2.436.416/MS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Do mesmo modo, é reiterado o entendimento desta Corte Superior de que o julgador não está obrigado a responder um a um todos os argumentos trazidos pelas partes, visando à defesa das teses que apresentaram, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. Nessa linha: AgInt no REsp n. 2.082.059/RS, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 7/3/2024; EDcl no AgInt no AREsp n. 1.891.964/TO, rel. Min. Herman Benjamin, Segunda Turma, DJe de 25/4/2022.
+Por fim, impende advertir que a reiteração injustificada de embargos de declaração, versando sobre o mesmo assunto, caracteriza o recurso como manifestamente protelatório, ensejando a imposição do pagamento da multa prevista no artigo 1.026, § 2º, do Código de Processo Civil.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
