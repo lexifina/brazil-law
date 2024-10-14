@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por ALESSANDRA DA SILVA MACIEL contra decisão que não admitiu seu recurso especial, este, por sua vez, manejado com fundamento no art. 105, inciso III, a e c, da Constituição Federal, desafiando o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fls. 53-54):
+AGRAVO DE INSTRUMENTO. ENSINO PRIVADO. AÇÃO DE COBRANÇA. GRADUAÇÃO. MENSALIDADES. PRESCRIÇÃO INTERCORRENTE. INVERSÃO DO ÔNUS DA PROVA.
+- EM QUE PESE SE CONSTATE LONGO PERÍODO DE TRAMITAÇÃO DO FEITO, SEM QUE A PARTE AUTORA TENHA ALCANÇADO O RESULTADO PRETENDIDO COM O AJUIZAMENTO DA DEMANDA, NÃO SE VERIFICOU QUALQUER SUSPENSÃO DO FEITO CAPAZ DE DAR AZO À CONFIGURAÇÃO DA PRESCRIÇÃO INTERCORRENTE.
+- A PROVA COLHIDA DOS AUTOS BEM COMO O ANDAMENTO PROCESSUAL EXTRAÍDO DO SITE DESTA CORTE, FAZEM PROVA DE QUE NÃO HOUVE DESÍDIA INJUSTIFICADA DA PATE EXEQUENTE, DE MODO QUE A CREDORA NÃO PODE SER PENALIZADA COM A EXTINÇÃO DA DEMANDA QUANDO, SE MOSTROU DILIGENTE DURANTE TODO O TRÂMITE DO PROCESSO.
+- NÃO PROSPERA O PLEITO FORMULADO PELA PARTE AGRAVANTE, NO SENTIDO DE QUE A ARGUIÇÃO DE PRESCRIÇÃO INTERCORRENTE SEJA APRECIADA SOMENTE APÓS A INSTRUÇÃO PROCESSUAL. ISTO PORQUE, TRATA-SE DE MATÉRIA DE DETÉM OS ELEMENTOS NECESSÁRIOS A SUA VERIFICAÇÃO, DE MODO QUE A POSTERGAÇÃO DA ANÁLISE EM NADA MODIFICARÁ O RESULTADO DO RECURSO.
+- NO QUE TANGE AO ÔNUS DA PROVA, INCUMBE AO AUTOR DEMONSTRAR A EXISTÊNCIA DA DÍVIDA, INSTRUMENTALIZADA POR DOCUMENTO PARTICULAR, CABENDO AO DEVEDOR COMPROVAR O PAGAMENTO DA OBRIGAÇÃO, CONSOANTE ESTABELECE O ARTIGO 320 DO CÓDIGO CIVIL.
+- CUMPRE SALIENTAR QUE, EMBORA SE TRATE DE RELAÇÃO DE CONSUMO, NÃO HÁ AUTOMÁTICA INVERSÃO DO ÔNUS DA PROVA, CABENDO AO CONSUMIDOR INSTRUIR SEUS ARGUMENTOS COM ELEMENTOS MÍNIMOS QUE PERMITAM A AFERIÇÃO DOS FATOS NARRADOS, EM OBSERVÂNCIA DA REGRA PREVISTA NO ARTIGO 373 DO CÓDIGO DE PROCESSO CIVIL.
+- NO QUE REFERE AO PEDIDO DE DEMONSTRAÇÃO, PELA PARTE RECORRIDA, DE TER TENTADO COBRAR OS VALORES DEVIDOS, ANTERIORMENTE AO AJUIZAMENTO DA AÇÃO, MEDIANTE O ENVIO DE CORRESPONDÊNCIAS À AGRAVADA, TRATA-SE DE PROVA COMPLETAMENTE DESPICIENDA. A AÇÃO ENCONTRA-SE DEVIDAMENTE INSTRUÍDA, DE MODO QUE A PROVA POSTULADA, EM NADA MODIFICARÁ O TRÂMITE REGULAR DA PRESENTE AÇÃO DE COBRANÇA.
+NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Em suas razões de recurso especial (e-STJ, fls. 60-83), a parte recorrente apontou, além do dissídio jurisprudencial, violação aos arts. 240, §§ 1º, 2º e 3º, 319, II, e 921, todos do CPC/2015, defendendo a possibilidade de reconhecimento da prescrição intercorrente, em virtude de diligências infrutíferas para citação, motivadas pela negligência da agravada.
+Sustentou ainda violação aos arts. 336, 369, 370, 371, 396 e 400, todos do CPC/2015, em razão do cerceamento de defesa decorrente da apreciação, desde logo, da questão de fundo relativa à prescrição intercorrente, não sendo possibilitada a produção de prova pleiteada.
+Contrarrazões apresentadas (e-STJ, fls. 141-145).
+O processamento do apelo especial não foi admitido pela Corte local (e-STJ, fls. 148-152), levando a parte insurgente à interposição do presente agravo.
+Brevemente relatado, decido.
+No tocante à alegada violação aos arts. 240, §§ 1º, 2º e 3º, 319, II, e 921, todos do CPC/2015, o Tribunal estadual concluiu, ao analisar a situação jurídica dos autos, que não ficou configurada, no caso, a prescrição intercorrente, sob os seguintes fundamentos (e-STJ, fls. 45-50 - sem grifo no original):
+ ..  Da prescrição intercorrente
+Trata-se de ação proposta em 12/05/2014, que visa cobrar débitos relativos à prestação de serviços educacionais ofertados à parte agravante, relativo às parcelas (mensalidades) com vencimento em maio e junho de 2009 (evento 3, DOC1).
+Tocante à prescrição da pretensão, consoante entendimento doutrinário, para que seja caracterizada a prescrição intercorrente, no âmbito do processo civil, necessário o preenchimento de dois requisitos: 1) que o credor reste inerte, deixando de praticar atos processuais, bem como 2) que a ausência de movimentação perdure pelo mesmo prazo prescricional incidente sobre a pretensão da ação principal. Neste diapasão, o STF editou a Súmula nº 150, a qual dispõe que: "Prescreve a execução no mesmo prazo de prescrição da ação.".
+Outrossim, cumpre registrar que o Superior Tribunal de Justiça, no rito do incidente de assunção de competência (IAC 1/STJ), firmou a tese de que o termo inicial da contagem da prescrição intercorrente, na vigência do CPC/1973, é a data seguinte ao término do prazo judicial de suspensão da execução, ou o prazo de um ano previsto pela Lei nº 6.830/80, caso não tenha havido estipulação de prazo pelo juízo.
+ ..
+Por outro lado, impõe-se registrar não serem desconhecidas desta julgadora as alterações introduzidas pela Lei nº 14.195/21, que dispõem acerca da prescrição no curso do processo.
+ ..
+Na espécie, em que pese se constate longo período de tramitação do feito sem que a parte autora tenha alcançado o resultado pretendido com o ajuizamento da demanda, não se verificou qualquer suspensão do feito capaz de dar azo à configuração da prescrição intercorrente nos autos.
+A prova colhida dos autos bem como o andamento processual extraído do site desta Corte, fazem prova de que não houve desídia injustificada da pate exequente, de modo que a credora não pode ser penalizada com a extinção da demanda quando, se mostrou diligente durante todo o trâmite do processo.
+Vejamos do andamento processual abaixo colacionado:
+ ..
+Do andamento supra colacionado, é possível constatar que não houve qualquer paralisação do feito capaz de dar azo à prescrição aguida pela parte recorrente. Dos documentos analisados, verifica-se que a parte autora agiu diligentemente em todas as oportunidades em que foi intimada, indicando endereços possíveis para citação, bem como postulando por medidas diversas, sempre visando o deslinde da controvérsia.
+ ..
+Como se vê, o andamento processual faz prova cabal de que não houve negligência da parte demandante, porquanto atuou diligentemente no feito, objetivando, de forma insistente, citar a parte requerida. Destarte, não resta corroborado prazo prescricional em prejuízo da parte autora, de modo que deve ser mantida a decisão fustigada.
+Igualmente não prospera o pleito formulado pela parte agravante, no sentido de que a arguição de prescrição intercorrente seja apreciada somente após a instrução processual. Isto porque, trata-se de matéria de detém os elementos necessários a sua verificação nos autos, de modo que a postergação da análise não alterará o resultado do recurso.
+Vai afastada, portanto, a prescrição intercorrente aventada pela parte recorrente.
+ ..
+Na hipótese, observa-se que o TJRS concluiu que não houve negligência da agravada no tocante às diligências adotadas para a citação. Diante desse contexto, para desconstituir a convicção formada pelo colegiado de origem e acolher os argumentos do recurso especial, seria imprescindível o revolvimento dos fatos e das provas acostadas aos autos, providência vedada no âmbito do recurso especial pela Súmula n. 7 do Superior Tribunal de Justiça.
+Registre-se que a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PEDIDO DE EFEITO SUSPENSIVO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ. PREJUDICADO.
+1. Ação de execução de título extrajudicial.
+2. Não demonstrada a excepcionalidade, não há que se falar em efeito suspensivo do recurso.
+3. Alterar o decidido no acórdão impugnado no que se refere à tese atinente à alegação de necessidade de nova avaliação do bem objeto de penhora, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.398.976/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/3/2024, DJe de 20/3/2024)
+Quanto à alegada violação aos arts. 240, §§ 1º, 2º e 3º, 319, II, e 921, todos do CPC/2015, não houve debate nos autos sobre a configuração de cerceamento de defesa devido à negativa de produção de prova de que a agravada dispunha de seu endereço, não havendo, portanto, o devido prequestionamento da matéria. Além disso, tampouco foram opostos embargos de declaração na origem, o que atrai o óbice das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Cumpre destacar que "esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese" (AgInt no AREsp n. 2.059.677/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. PRESCRIÇÃO INTERCORRENTE. DEMORA NA CITAÇÃO. AUSÊNCIA DE DESÍDIA. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 2. CERCEAMENTO DE DEFESA. SÚMULAS N. 282/STF e N. 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
