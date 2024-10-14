@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração (fls. 793-797) opostos por FABIO LUIZ MARINHO AIDAR contra v. acórdão que negou provimento a seu agravo interno, assim ementado (fl. 782):
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356, AMBAS DO STF. MÉRITO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicam-se, por analogia, as Súmulas 282 e 356 do STF.
+2. O Tribunal de Justiça, com fulcro no acervo fático-probatório carreado aos autos, reconheceu o interesse de agir do ora gravado, e concluiu que são devidos honorários advocatícios pelos serviços prestados pelo ora agravado ao agravante, na proporção do trabalho realizado.
+3. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inadmissível em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento."
+Nas razões recursais, FABIO LUIZ MARINHO AIDAR afirma que o v. acórdão embargado padece de omissão, uma vez que "(..) comprovou no seu recurso especial (fls. 632/661); reiterado em seu agravo interno, que o v. acórdão da apelação e sua integração (fls. 589/594 e 626/629) trataram dos temas insculpidos nos normativos violados, bem como que foram opostos declaratórios com intuito de, além de sanar aqueles vícios, prequestionar a matéria (diferentemente do que constou do v. acórdão ora embargado)" (fl. 794 - destaques no original).
+Aduz, também, que, "(..) às fls. 763 e 764 do seu agravo interno, o Embargante também comprovou que os temas em discussão foram expressa ou implicitamente mencionados no seu recurso de apelação" (fl. 795 - destaques no original).
+Assevera, ainda, que também houve omissão "(..) quanto ao entendimento pacífico da Jurisprudência e da Doutrina sobre a possibilidade do prequestionamento ficto da matéria debatida, no caso de ausência de menção expressa aos dispositivos violados" (fl. 796).
+Sem impugnação, certidão à fl. 802.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso, inexiste omissão no v. acórdão embargado, que possui clara fundamentação assentando que o apelo nobre encontra óbice: (i) nas Súmulas 282 e 356 do col. STF, quanto à alegada ofensa aos arts. 121, 125 e 131 do Código Civil e aos arts. 141, 322, § 2º, e 492 do CPC/2015; e (ii) na Súmula 7/STJ no tocante à violação aos arts. 186 a 927 do Código Civil; ao art. 485, VI, do CPC/2015 e ao art. 22, § 2º, da Lei 8.906/94. A título elucidativo, transcreve-se o seguinte trecho do v. acórdão embargado (fls. 785-788):
+"De início, deve ser confirmada a incidência das Súmulas 282 e 356, ambas do col. Supremo Tribunal Federal (STF).
+No caso, os conteúdos normativos dos arts. 121, 125 e 131 do Código Civil e dos arts. 141, 322, § 2º, e 492 do CPC/2015 não foram examinados pelo eg. TJ-SP, configurando ausência de prequestionamento, tampouco foram opostos embargos para tal fim. Nesse sentido, os seguintes julgados somam-se àqueles destacados na decisão agravada:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FALTA DE PREQUESTIONAMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. FALTA DE PERTINÊNCIA TEMÁTICA. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+(..)
+5. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+(..)
+7. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.117.777/RS, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 26/2/2024, DJe de 29/2/2024 - g. n.)
+(..)
+Quanto à violação aos arts. 186 a 927 do Código Civil; ao art. 485, VI, do CPC/2015; aos arts. 22, § 2º, da Lei 8.906/94, melhor sorte não socorre o recurso.
+No recurso especial (fls. 632-661), ao qual se pretende trânsito, FABIO LUIZ MARINHO AIDAR, com arrimo na alínea a do permissivo constitucional, no qual alega ofensa sob o argumento, entre outros, de que "(..) falta de interesse de agir decorre da circunstancia de que o próprio Recorrido deduziu na petição exordial o pedido de que "os honorários sejam arbitrados em 10% sobre o beneficio que Fabio Aidar obterá, depois de julgada a apelação  .. " (fl. 5 - grifamos); e para que fosse o Recorrente condenado "a pagar-lhe honorários advocatícios a serem arbitrados sobre a vantagem patrimonial auferida com o trabalho do autor" (fl. 5 - grifamos); reconhecendo que atribuía à causa "valor provisório para, depois de estabelecida a condenação, fixar-se o valor definitivo" (fl.5-grifamos)" (fl. 640 - destaques no original).
+Defende, também, que os "(..) honorários somente poderiam ser exigíveis quando houvesse efetivo recebimento dos valores; ou seja, quando o proveito económico fosse materializado" (fls. 648 - destaques no original)" (fl. 872 - destaques no original).
+Assevera, ainda, que "(..) o v. acórdão recorrido não poderia ter arbitrado honorários advocatícios em favor do Recorrido porque, antes, deveria ter julgado procedente a reconvenção oferecida pelo Recorrente, diante dos erros que reconheceu que o Recorrido cometeu em sua atuação profissional" (fl. 652).
+Por sua vez, o eg. TJ-SP, com arrimo no acervo fático-probatório carreado aos autos, reconheceu o interesse de agir do ora agravado, e concluiu que são devidos honorários pelos advocatícios pelos serviços prestados pelo ora agravado ao agravante, na proporção do trabalho realizado. É o que se infere da leitura do seguinte excerto do v. acórdão estadual (fls. 591-594):
+"O autor  ora agravado  é advogado e ajuizou ação de indenização a favor do réu  ora agravante . Naquela ação, a sentença condenou uma das rés naquele processo ao pagamento da quantia de R$ 484.250,00, atualizada e com juros de mora desde 20 de outubro de 1994.
+Nesta ação, o autor quer o arbitramento de honorários porque não houve contrato escrito e sugere o valor correspondente a 10% "sobre o beneficio" do autor. A sentença aqui proferida condenou o réu ao pagamento correspondente a 10% do valor da execução daquela outra ação.
+O Des. Mário Silveira conhece do recurso (questão da gratuidade da justiça), e nega provimento á apelação do réu.
+Com todo o respeito, diverge-se em parte do voto. É necessário afastar a preliminar de falta de interesse de agir. Na verdade, o réu apresenta contradição. Se formula pedido para que sua condenação fique condicionada ao recebimento de valores na outra ação de indenização, evidente que não pode querer o acolhimento da falta de condição da ação exatamente pelo motivo de ainda não existir êxito.
+Quanto ao mérito, não há dúvida que o advogado trabalhou para o réu. Ajuizou a ação e conseguiu resultado. Contudo, o trabalho do autor, em que pese ser de meio e não de resultado, foi realizado com várias falhas e não pode ser remunerado pela integralidade do que pediu.
+Explica-se. Primeiro, foram feitos vários pedidos naquela ação (indenização pelo crédito a que tinha direito, valor do titulo cambial de R$ 200.000,00, perdas e danos, danos morais). Apenas um foi aceito pela sentença (o valor do crédito). Segundo, ao invés de Interpor apelação em relação á parte do pedido em que ficou vencido, recorreu adesivamente, recurso que não foi conhecido porque houve desistência do recurso principal.
+Evidente que não pode receber o percentual Integral que explicitamente afirmou na petição inicial (10% sobre o resultado daquela ação). Depois, houve perícia judicial para avaliar o trabalho do autor, perícia essa afastada pela sentença, em especial fis. 456, sem fundamento relevante. A sentença menciona a perícia, mas adota critério estabelecido pela tabela da OAB.
+Repete-se, a sentença não diz por que a perícia não deveria ser adotada na conclusão de que, dadas as falhas no trabalho do advogado autor, o arbitramento dos honorários deveria ser de 5% sobre o valor obtido na outra ação ajuizada. Simplesmente partiu do percentual de 20 pontos da tabela da OAB, como se fosse ela parâmetro para todos os casos. Quer dizer, a sentença afastou-se do caso concreto, analisado v- pela perícia, para estabelecer estimativa aleatória, com todo o respeito.
+Há razão para adotar-se o critério da perícia. O autor ajuizou a ação e prosseguiu no processo até a interposição do recurso adesivo abortado pela desistência do recurso principal. Não tem direito a receber honorários como se tivesse acompanhado a ação até final.
+Quanto à reconvenção, este juiz também entende que não tem cabimento o pedido de indenização por perda de chance, isto é, pelo valor que a ação alcançaria se a sentença de primeiro grau fosse modificada em parte para abranger todos os pedidos Iniciais. Não é possível sequer argumentar com razoabilidade para se aceitar que a ação seria acolhida Integralmente. Trata-se de decisão judicial, onde a complexidade não apenas das matérias, mas das circunstâncias que envolvem o próprio julgamento colegiado, leva à incerteza do resultado.
+Em outras palavras, não é possível afirmar que o julgamento que não foi realizado seria totalmente favorável ao réu.
+De qualquer maneira, cabe última observação. Não impressiona a afirmação do réu de que não pode ser condenado em honorários advocatícios relacionados a uma ação em que saiu parcialmente vitorioso, mas ainda nada recebeu. Se é pobre no sentido jurídico da palavra e nada recebeu, os honorários aqui arbitrados ficarão na dependência daquela outra ação.
+Do exposto, e com todo o respeito pelo entendimento do Des. Relator, nega-se provimento ao agravo retido e dá-se provimento em parte à apelação do réu para reduzir o arbitramento de honorários para 5% (cinco) do valor da condenação na outra ação ajuizada. Dada a sucumbência recíproca, autor e réu pagarão custas e despesas processuais pela metade, cada qual, além de honorários advocatícios de 1 % (um) sobre o valor da condenação para os advogados de cada um. Fundamenta-se o valor dos honorários na realidade da condenação, até porque não teria sentido honorários de sucumbência superiores ao arbitrado na ação principal, e no art. 85 § 8º do CPC (aplicação da equidade no caso concreto). Rejeitam-se os embargos de declaração." (g. n.)
+Nesse panorama, em que pese a argumentação trazida no agravo interno, tem-se que a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+Com ess as considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno." (g. n.)
+No caso dos autos, pois, está nítido o propósito da parte embargante de rediscutir temas que foram devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração. Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. ERRO MATERIAL. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+(..)
+3. Embargos de declaração rejeitados."
+(EDcl nos EDcl no AgInt no AREsp n. 1.817.565/SP, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023 - g. n.)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existente no julgado (art. 1.023 do CPC/2015).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+(..) 4. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp n. 2.339.996/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 23/10/2023, DJe de 25/10/2023 - g. n.)
+Ademais, os vícios a que se refere o artigo 1.022 do CPC são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. A propósito, na parte que interessa:
+"AGRAVO REGIMENTAL. AÇÃO DE SOBREPARTILHA. ALEGAÇÃO, NAS RAZÕES DE RECURSO ESPECIAL, DE VIOLAÇÃO AOS ARTIGOS 458, II E 535, II, DO CPC. INEXISTÊNCIA.  ..
+1. Não há que se falar em nulidade do acórdão por omissão, se este examinou e decidiu os pontos relevantes e controvertidos da lide e apresentou os fundamentos nos quais sustentou as conclusões assumidas.
+( ..)
+(AgRg no AREsp 37.045/GO, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 5/3/2013, DJe 12/3/2013 - g. n.)
+"ADMINISTRATIVO. CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. DESAPROPRIAÇÃO DIRETA. ALEGAÇÃO DE APOSSAMENTO ADMINISTRATIVO. PRETENSÃO INDENIZATÓRIA DE DANOS MORAIS. DIREITO DE CULTO AOS MORTOS. VIOLAÇÃO A DIREITO DA PERSONALIDADE. DESNECESSIDADE DE PRODUÇÃO DE PROVA. AUTONOMIA DA PESSOA JURÍDICA. DISTINÇÃO DA PESSOA DOS SÓCIOS. INTRANSMISSIBILIDADE DO DIREITO. CARÊNCIA DE LEGITIMIDADE PARA A CAUSA.
+1. O mero julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional tampouco viola o art. 1.022 do CPC/2015. Jurisprudência do Superior Tribunal de Justiça.
+(..)
+5. Recurso especial não provido."
+(REsp 1649296/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/09/2017, DJe 14/09/2017 - g.n.)
+É evidente, pois, a ausência de omissão, obscuridade ou contradição apta a amparar a oposição dos aclaratórios na hipótese vertente.
+Com essas considerações, conclui-se que os aclaratórios não merecem prosperar.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
