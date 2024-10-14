@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  de  liminar,  impetrado  em  favor  de  EDIVANIA  DA  SILVA  OLIVEIRA,  em  que  se  aponta  como  autoridade  co  atora  o  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SÃO  PAULO.
+Narra  a  Defesa  que  a  paciente  foi  condenada  em  05 (cinco)  diferentes  processos:
+ 1)  PEC  n.  0011647-34.2021,  como  incursa  no  art.  33,  §  4º,  da  Lei  n.  11.343/2006,  à  pena  de  01  (um)  ano  e  08  (oito)  meses  de  reclusão;
+ 2)  PEC  n.  0017847-  93.2022,  como  incursa  no  art.  155,  caput,  do  Código  Penal,  à  pena  de  01  (um) ano  de  reclusão;
+3)  PEC  n.  0021881-14.2022,  como  incursa  no  art.  155,  §1º,  c/c  o  art.  14,  II,  ambos  do  Código  Penal,  à  pena  de  05  (cinco) meses  e  10  (dez)  dias  de  reclusão;
+ 4)  PEC  n.  0032466-28.2022,  como  incursa  no  art.  155,  §4º,  IV,  do  Código  Penal,  à  pena  de  02 (dois)  anos  de  reclusão,  e
+ 5)  PEC  n.  0023756-82.2023,  como  incursa  no  art.  155,  caput,  c/c  o  art.  14,  II,  ambos  do  Código  Penal,  à  pena  de  08 (oito)  meses  de  reclusão.
+O  indulto  do  Decreto  n.  11.302/2023,  requerido  para  os  PECs  de  n.  0017847-93.2022,  0021881-14.2022  e n.  0023756-82.2023,  foi  indeferido  pelo  Juízo  da  Execução.
+O  habeas  corpus  interposto  no  Tribunal  de  origem  não  foi  conhecido.
+A  Defensoria  impetrante  sustenta  que,  em  se  tratando  de  matéria  de  direito,  o  writ  deveria  ter  sido  conhecido  pelo  Tribunal  local.
+Acresce  que  o  indulto  do  art.  5º  do  Decreto  em  questão  preceitua  que  devem  ser  consideradas  isoladamente  as  penas  de  cada  delito,  razão  por  que  é  de  rigor  a  concessão  do  benefício  para  os  PECs  de  n.  0017847-93.2022,  0021881-14.2022  e  n.  0023756- 82.2023.
+Requer,  liminarmente  e  no  mérito,  a  concessão  do  benefício  nos  termos  requeridos.
+A  liminar  foi  indeferida  e  requisitada  informações  (e-STJ  fls.  223/225).
+O  Ministério  Público  Federal  manifestou-se  pelo  não  conhecimento  do  habeas  corpus  (e-STJ  fls.  255/258).
+É  o  relatório.
+DECIDO.
+Esta  Corte  -  HC  n.  535.063/SP,  Terceira  Seção,  relator  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020,  DJe  de  25/08/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  n.  180.365/PB,  Primeira  Turma,  relatora  Ministra  Rosa  Weber,  julgado  em  27/03/2020,  DJe  de  02/04/2020;  AgRg  no  HC  n.  147.210/SP,  Segunda  Turma,  relator  Ministro  Edson  Fachin,  julgado  em  30/10/2018,  DJe  de  20/02/2020  -  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+Assim,  passo  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+O  Juízo  de  primeiro  grau  indeferiu  o  pedido  de  indulto  nos  seguintes  termos  (e-STJ  fls.  18/19):
+O  pedido  não  comporta  acolhimento.
+Dispõem  os  artigos  5º  e  11,  do  Decreto  nº  11.302/2022:
+Art.  5º  Será  concedido  indulto  natalino  às  pessoas  condenadas  por  crime  cuja  pena  privativa  de  liberdade  máxima  em  abstrato  não  seja  superior  a  cinco  anos.
+Art.  11.  Para  fins  do  disposto  neste  Decreto,  as  penas  correspondentes  a  infrações  diversas  serão  unificadas  ou  somadas  até  25  de  dezembro  de  2022,  nos  termos  do  disposto  no  art.  111  da  Lei  nº  7.210,  de  11  de  julho  de  1984.
+A  sentenciada  foi  condenada  e  responde  a  quatro  processos  distintos:
+PEC  nº  0011647-34.2021:  Condenada  como  incursa  no  artigo  33,  §4º,  da  Lei  nº  11.343/2006  à  pena  de  01  ano  e  08  meses  de  reclusão,  além  de  166  dias-multa.
+PEC  nº  0017847-93.2022:  Condenada  como  incursa  no  artigo  155,  "caput",  do  Código  Penal  à  pena  de  01  ano  de  reclusão,  além  de  10  dias-multa.
+PEC  nº  0021881-14.2022:  Condenada  como  incursa  no  artigo  155,  §1º,  combinado  com  o  artigo  14,  inciso  II,  ambos  do  Código  Penal  à  pena  de  05  meses  e  10  dias  de  reclusão,  além  de  04  dias-multa.
+PEC  nº  0032466-28.2022:  Condenada  como  incursa  no  artigo  155,  §4º,  inciso  IV,  do  Código  Penal  à  pena  de  02  anos  de  reclusão,  além  de  10  dias-multa.
+PEC  nº  0023756-82.2023:  Condenada  como  incursa  no  artigo  155,  "caput",  combinado  com  o  artigo  14,  inciso  II,  ambos  do  Código  Penal  à  pena  de  08  meses  de  reclusão,  além  de  06  dias-multa.
+As  penas  unificadas  ultrapassam  o  critério  definido  pelo  artigo  5º  do  Decreto  nº  11.302/2022.
+(..)
+Ante  o  exposto,  ausentes  os  requisitos  legais,  indefiro  o  pedido  de  indulto  com  base  no  Decreto  nº  11.302/2022.
+Na  espécie,  mantendo  a  decisão  de  primeiro  grau,  consta  do  voto  condutor  do  acórdão  impugnado  a  seguinte  fundamentação  quanto  à  controvérsia  apresentada  (e-STJ  fl.  220):
+Isso  vale,  em  especial,  para  casos  como  o  dos  autos,  em  que  não  se  verifica  ilegalidade  manifesta  passível  de  ser  reconhecida  de  ofício,  na  medida  em  que  os  documentos  juntados  com  a  inicial  não  permitem  concluir,  de  imediato,  que  estão  cumpridos  os  requisitos  para  obtenção  do  benefício,  tanto  previstos  no  Decreto  11.302/2023  quanto  os  estabelecidos  no  AgRg  no  HC  824.625-  SP,  julgado  pelo  colendo  Superior  Tribunal  de  Justiça  (STJ,  Rel.  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  por  unanimidade,  julgado  em  20/6/2023,  D Je  26/6/2023),  notadamente  se  foi  cumprida  integralmente  a  pena  por  crime  impeditivo  do  benefício;  se  o  crime  indultado  corresponde  a  condenação  primária;  e  se  o  beneficiado  não  é  integrante  de  facção  criminosa  (parágrafo  1º  do  art.  7º  do  Decreto).
+Assim,  insista-se,  porque  não  se  verifica  manifesta  ilegalidade  a  ponto  de  justificar  deferimento  de  ordem  de  ofício,  de  rigor  o  não  conhecimento  do  Habeas  Corpus,  que,  repita-se,  não  se  presta  ao  exame  aprofundado  de  questões  incidentais  da  Execução  Penal  ou  como  substitutivo  de  recurso  próprio.
+Diante  do  exposto,  pelo  meu  voto,  NÃO  SE  CONHECE  do  writ.
+Quanto  ao  tema,  destaco  que  o  STJ  perfilha  o  entendimento  de  que  o  indulto,  por  se  tratar  de  ato  de  governo,  está  submetido  à  discricionariedade  do  Presidente  da  República,  não  cabendo  a  esta  Corte  estabelecer  condições  acerca  de  sua  aplicabilidade,  sob  pena  de  violação  do  Princípio  da  Separação  de  Poderes  (HC  n.  468.737/RS,  rel.  Ministra  Laurita  Vaz,  Sexta  Turma,  DJe  de  10/04/2019;  AgRg  no  HC  n.  683.536/GO,  rel.  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  DJe  de  19/11/2021,  e  HC  n.  456.119/RS,  rel.  Ministro  Felix  Fischer,  Quinta  Turma,  DJe  de  15/10/2018).
+De  outro  lado,  o  Decreto  n.  11.302/2022  estabeleceu  que  as  penas  em  abstrato  não  superem  05  (cinco)  anos  (art.  5º),  observando ,  ainda,  que  as  penas  correspondentes  a  infrações  diversas  sejam  unificadas  ou  somadas  até  25  de  dezembro  de  2022  (art.  11).
+No  entanto,  esta  Corte  Superior  firmou  o  entendimento  de
+não  ser  possível  utilizar  a  soma  das  penas  unificadas  para  fins  de  obstar  a  concessão  do  indulto,  nos  termos  do  art.  11  do  Decreto  n.  11.302/2022,  devendo,  para  os  fins  estipulados  no  art.  5.º  do  referido  ato  normativo,  ser  consideradas  individualmente  as  penas  máximas  em  abstrato  (AgRg  no  HC  n.  875,914/SP,  rel.  Min.  Teodoro  Silva  Santos,  Sexta  Turma,  DJe  de  15/03/2024, e  AgRg  no  HC  n.  840.518,  rel.  Min.  Rogério  Schietti  Cruz,  Sexta  Turma,  DJe  de  15/12/2023).
+Assim,  tendo  em  vista  que  a  apenada  atualmente  cumpre  penas  por  condenações  diversas  de  crimes,  cujas  penas  máximas  em  abstrato,  isoladamente,  não  alcançam  o  patamar  de  05  (cinco)  anos,  é  de  se  reconhecer  que  o  acórdão  merece  reforma  por  esta  Corte  Superior,  haja  vista  a  paciente  demonstrar  o  preenchimento  do  requisito  objetivo  previsto  no  art.  5º,  c/c  o  art.  11,  do  Decreto  n.  11.302/2022.  Reconhecido,  portanto,  o  constrangimento  ilegal  a  ser  reparado  nesta  via.
+Destacamos  que  a  aplicação  do  art.  5º  não  é  feita  isoladamente.  Imperioso  analisar  as  hipóteses  de  exclusão  da  concessão  do  indulto,  quais  sejam:  i)  reincidência  (art.  12),  ii)  existência  de  crimes  impeditivos  (art.  7º)  e  iii)  necessidade  de  cumprimento  da  pena  do  crime  impeditivo  (art.  11,  parágrafo  único).
+Ante  o  exposto,  não  conheço  do  habeas  corpus,  mas  concedo  a  ordem  de  ofício  para  determinar  ao  Juízo  de  Execução  que  reavalie  a  situação  do  apenado  no  tocante  à  concessão  da  referida  benesse,  com  base  na  jurisprudência  do  Superior  Tribunal  de  Justiça.
+  Publique-se.  Intimem-se.
+ EMENTA
