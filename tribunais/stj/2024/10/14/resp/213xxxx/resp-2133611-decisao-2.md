@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por PAVOTEC - PAVIMENTAÇÃO E TERRAPLENAGEM S/A contra decisão que inadmitiu o recurso especial em razão de ocorrência da preclusão consumativa (e-STJ fl. 643).
+O acórdão recorrido está assim ementado (e-STJ fl. 536):
+AGRAVO INTERNO EM APELAÇÃO - QUESTÃO DECIDIDA EM AGRAVO INTERNO ANTERIOR - PERDA DO OBJETO. Há perda superveniente do objeto do agravo interno interposto contra decisão que não conheceu do recurso de apelação dada sua deserção, quando há agravo interno interposto contra decisão que indeferiu o pedido de concessão dos benefícios da justiça gratuita julgado e não provido.
+Os embargos de declaração não foram acolhidos (e-STJ fls. 573/576).
+No recurso especial (e-STJ fls. 612/627), interposto com fundamento no art. 105, III, "a", da CF, a recorrente apontou violação dos arts. 99, § 7º c/c 101, § 2º c/c 1.007, § 6º, 1.021, § 4º, e 1.022 do CPC/2015.
+Insurgiu-se contra a conclusão da Corte local que entendeu pela perda do objeto do segundo agravo interno interposto contra decisão que não conheceu do recurso de apelação ante a sua deserção.
+Alegou que os temas tratados nos recursos de agravo interno no agravo de instrumento e de agravo interno em apelação foram distintos e prejudiciais.
+Defendeu que "a ausência de recolhimento não decorreu de mero voluntarismo, mas por justo impedimento, afinal, o caso pendia de solução Colegiada" (e-STJ fl. 616).
+Ressaltou que "o não recolhimento do preparo não se deu por inércia, mas por motivo justo, qual seja, a pendência da discussão acerca do direito à gratuidade de justiça" (e-STJ fl. 619).
+Ao final, pediu o provimento do recurso, a fim de que lhe seja relevada a pena de deserção por justo impedimento ao recolhimento do preparo, bem como o direito de regularizá-lo, com o afastamento da multa imposta por não estarem presentes dolo ou má-fé processual.
+Foram apresentadas contrarrazões (e-STJ fls. 636/638).
+No agravo (e-STJ fls. 646/650), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (e-STJ fls. 657/658).
+Juízo negativo de retratação (e-STJ fl. 663).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, concluiu pela perda do objeto do agravo interno em apelação, assim consignando (e-STJ fls. 537/538):
+Embora seja próprio e tempestivo, o recurso está prejudicado, em razão da perda do objeto conforme será delineado.
+O objetivo do recurso é reformar a decisão monocrática para conhecer da apelação, sequencial 001.
+Entretanto, o agravo interno, sequencial 005, interposto contra decisão que indeferiu o pedido de concessão dos benefícios da justiça gratuita foi julgado sendo-lhe negado provimento, por acórdão assim ementado:
+"AGRAVO INTERNO - AGRAVO DE INSTRUMENTO - JUSTIÇA GRATUITA - INDEFERIMENTO - AUSÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA FINANCEIRA - DETERMINAÇÃO DE RECOLHIMENTO DAS CUSTAS RECURSAIS - INOBSERVÂNCIA - RECURSO NÃO PROVIDO. O simples fato de a pessoa jurídica encontrar-se em recuperação judicial não implica no direito à gratuidade de justiça, pois o deferimento do benefício prescinde de comprovação da hipossuficiência financeira."
+Diante do exposto, não se conhece do recurso, porquanto prejudicado.
+Havendo unanimidade na votação, condena-se a Agravante ao pagamento de multa de 1% sobre o valor da condenação em prol da parte Agravada (art. 1.021, § 4º do CPC).
+Extrai-se ainda do acórdão dos embargos de declaração (e-STJ fls. 575/576):
+A Embargante assinala a incorreção da perda de objeto decretada no acórdão e argumenta que deve ser oportunizado o pagamento do preparo só depois da decisão colegiada sobre a gratuidade judiciária, e não após decisão monocrática do relator passível de recurso (agravo interno) e, portanto, de modificação.
+Contudo, a despeito das alegações, não existe omissão, obscuridade ou contradição, de modo que a Embargante expõe verdadeira pretensão de reforma do julgamento realizado por este Tribunal ad quem.
+Como anotado no acórdão, o objetivo do agravo interno consistia em reformar a decisão monocrática que julgou deserta a apelação e não a conheceu, mas a análise ficou prejudicada na medida em que a Turma Julgadora confirmou o indeferimento da concessão da gratuidade de justiça por ocasião do julgamento do agravo interno sequencial 005.
+Esclarece-se que, indeferido o benefício pelo Relator em avaliação preliminar da questão (CPC art. 101, §1º) incumbia à Embargante recolher o preparo e cumprir a determinação judicial, evitando a decretação da deserção, vez que o agravo interno na ocasião interposto não possuía efeito suspensivo automático.
+Ressalte-se que na hipótese de o Colegiado conceder a gratuidade de justiça, o reembolso da quantia poderia ser pleiteado por meio próprio.
+Se assim não procedeu, deixando o prazo para recolher o preparo transcorrer e confiando no efetivo reexame da decisão de indeferimento do benefício pela Turma Julgadora, deve a parte arcar com as consequências da sua escolha.
+Modificar o entendimento do acórdão impugnado quanto à prejudicialidade do recurso do agravo interno em apelação na medida em que a Turma julgadora confirmou o indeferimento da concessão da gratuidade de justiça por ocasião do julgamento do agravo interno no agravo de instrumento, bem como, quanto à aplicação da pena de deserção, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7 do STJ.
+Todavia, no que diz respeito à apontada ofensa ao art. 1.021, § 4º, do CPC/2015, a irresignação merece prosperar.
+A Segund a Seção desta Corte firmou o entendimento de que, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória" (AgInt nos EREsp n. 1.120.356/RS, Relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 24/8/2016, DJe de 29/8/2016).
+No mesmo sentido, a Corte Especial do STJ:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. COMPROVAÇÃO OU CONFIGURAÇÃO DO DISSENSO PRETORIANO. NECESSIDADE DA IDENTIDADE JURÍDICA ENTRE OS ARESTOS CONFRONTADOS NO ERESP. DESCUMPRIMENTO DOS REQUISITOS PREVISTOS NO ARTIGO 1.043, § 4º, DO CPC/2015 E NO ARTIGO 266, § 4º, DO RISTJ. ANÁLISE RESTRITIVA E NÃO AMPLIATIVA NO CABIMENTO DO ALEGADO EMBATE DE TESES. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. RECURSO IMPROVIDO.  .. . 5. Inaplicabilidade da multa do § 4º do artigo 1.021 do CPC/2015, porque descabe a incidência automática da penalidade mencionada quando exercitado o regular direito de recorrer e não verificada a hipótese de manifesta inadmissibilidade do agravo interno ou de litigância temerária. Julgados da Corte Especial. 6. Agravo interno improvido. (AgInt nos EAREsp n. 1.125.288/RS, Relator Ministro Jorge Mussi, Corte Especial, julgado em 13/11/2018, DJe de 21/11/2018.)
+Desse modo, "é incabível a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, haja vista não se tratar de mera decorrência lógica do não provimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação" (EDcl no AgInt nos EAREsp n. 671.944/RJ, Relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 15/12/2020, DJe de 17/12/2020).
+Assim, "para a aplicação da multa do art. 1021, §4º do CPC, é necessário que exista demonstração de requisitos cumulativos, previsto no Diploma Processual Civil" (AgInt nos EDcl nos EREsp n. 1.788.912/DF, Relator Ministro Felix Fischer, Corte Especial, julgado em 25/5/2021, DJe de 2/6/2021), o que não se verifica no caso dos autos.
+Dessa forma, havendo posicionamento dominante acerca do tema, aplica-se a Súmula n. 568 do STJ.
+Ante o exposto, CONHEÇO do agravo e DOU PARCIAL PROVIMENTO ao recurso especial, apenas para afastar a multa aplicada com fundamento no art. 1.021, § 4º, do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
