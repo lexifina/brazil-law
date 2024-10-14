@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Thiago Jose dos Santos contra ato coator proferido pela Sexta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que, nos autos do HC n. 0005400-25.2024.8.26.0496, em cumprimento ao determinado por este Tribunal Superior no HC n. 943.058/SP, manteve o acórdão anterior, negando a remição da pena (Processo n. 7016725-09.2011.8.26.0050, DEECRIM 6ª RAJ - Ribeirão Preto/SP).
+A defesa alega, em síntese, que o Tribunal local afrontou o julgado pelo Superior Tribunal de Justiça no mencionado writ e manteve o acórdão anterior nos seus termos.
+Sustenta que não foi feita a reanálise do recurso com base na jurisprudência deste Tribunal Superior.
+Reitera os termos da possibilidade de remição da pena.
+Pede a concessão da ordem para que seja reconhecido 177 dias de remição pela aprovação no ensino fundamental no ENCCEJA (fls. 3/14).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a viabilidade do presente writ.
+A Sexta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo ignorou o decidido no HC n. 943.058/SP e manteve a decisão aos seguintes fundamentos (fls. 45/46):
+Com a devida vênia, ainda que jurisprudência do E. STJ seja no sentido de que a aprovação total ou parcial no ENCCEJA garante a remição, prescindindo-se de prova do tempo de estudo, essa C. Câmara possui orientação inversa, à vista do livre convencimento insculpido no CPP, art. 155, caput, mutatis mutandis:
+ ..
+Portanto, não havendo comprovação de efetivo tempo dedicado aos estudos, desvirtuada a finalidade da Recomendação nº 44, do CNJ, pelo desatendimento das exigências estabelecidas na LEP, art. 126, § 1º e na Súmula/STJ, nº 341, que prevê a frequência em ensino formal como forma de resgatar parte da sanção imposta, incabível a remição postulada, respeitada a douta posição jurisprudencial.
+Ignorando a estrutura constitucional, a autoridade deste Tribunal Superior em fixar os parâmetros de interpretação da lei federal, a Câmara, por maioria, manteve o acórdão anterior, com base no "livre convencimento" previsto no art. 155 do Código de Processo Penal.
+Importante destacar que o mencionado dispositivo do Código de Processo Penal não escuda os juízes da legítima interpretação dos dispositivos legais, conforme determinado pelo Superior Tribunal de Justiça, ou dos dispositivos constitucionais, conforme fixado pelo Supremo Tribunal Federal.
+É lamentável que o Tribunal de Justiça de São Paulo, por meio de seu órgão fracionário, ignore a jurisprudência deste Tribunal Superior, mesmo diante de ordem concreta, proferida no HC n. 943.058/SP:
+Ante o exposto, concedo liminarmente a ordem para determinar que o Tribunal local reanalise o agravo em execução, considerando a jurisprudência deste Tribunal Superior, nos termos acima declinados.
+A livre apreciação das provas não significa "livre interpretação do direito". Há balizas a serem observadas, expressas no conjunto de decisões dos Tribunais.
+A postura desse importante Tribunal incrementa a irracionalidade do sistema, forçando a parte a postular novamente perante este Tribunal Superior para obter o provimento jurisdicional, nos exatos termos da jurisprudência.
+A posição deste Tribunal Superior sobre a possibilidade de remição pelo estudo em razão da aprovação no Exame Nacional para Certificação de Competência de Jovens e Adultos data de 2017:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. REMIÇÃO DA PENA. ART. 126 DA LEI N. 7.210/1984. EXECUÇÃO PENAL. RECOMENDAÇÃO N. 44/2013 DO CNJ. APROVAÇÃO NO ENEM E NO ENCCEJA. APENADO VINCULADO A ATIVIDADES REGULARES DE ENSINO NO INTERIOR DO ESTABELECIMENTO PRISIONAL. INTERPRETAÇÃO EXTENSIVA IN BONAM PARTEM. POSSIBILIDADE. MANIFESTA ILEGALIDADE VERIFICADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, a justificar a concessão da ordem, de ofício.
+2. A jurisprudência deste Superior Tribunal de Justiça, como resultado de uma interpretação analógica in bonam partem da norma inserta no art. 126 da LEP, possui entendimento de que é possível a hipótese de abreviação da reprimenda em razão de atividades que não estejam expressas no texto legal.
+3. A Recomendação n. 44/2013 do CNJ indica aos Tribunais a possibilidade de remição por aprovação nos exames nacionais que certificam a conclusão do ensino fundamental Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) ou médio Exame Nacional do Ensino Médio (ENEM).
+4. In casu, diante da possibilidade de interpretação extensiva in bonam partem, entende-se que cabe a remição até mesmo para presos que estudam por conta própria, não havendo falar em afastamento da possibilidade da concessão da benesse aos apenados que estejam vinculados a atividades regulares de ensino no interior do estabelecimento.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer o direito do paciente à remição da pena pela aprovação no ENCCEJA (Exame Nacional para Certificação de Competências de Jovens e Adultos) e no ENEM (Exame Nacional do Ensino Médio).
+(HC n. 361.462/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe de 25/5/2017)
+Não consigo compreender as razões dos magistrados que desconsideram decisões de órgãos superiores da estrutura do Poder Judiciário. O que pode parecer uma postura altiva, de imponência da própria jurisdição, pelo contrário, corrói a autoridade de todo este Poder da República, considerando que a jurisdição é una e indivisível.
+A desobediência da ordem judicial reclama coerção: um particular que ouse desobedecer julgados de Sua Excelência certamente encarará todo o poder da máquina jurisdicional e testemunhará a execução do julgado manu militari.
+A desobediência interna, advinda de um membro da magistratura, no exercício da função, parece mais grave inclusive. É uma desmoralização autofágica.
+Apenas a título de informação, esclareço que este Gabinete, no ano de 2024, já recebeu 12.190 processos, sendo 7.944 Habeas Corpus e Recursos em Habeas Corpus, números esses que demonstram que a insistência em descumprir a jurisprudência consolidada no âmbito dos Tribunais Superiores em nada contribui para o bom funcionamento do sistema judicial.
+E é incontestável a contribuição do Tribunal paulista para esse número.
+Considerando apenas os oito primeiros meses deste ano, chegaram, no Superior Tribunal de Justiça, aproximadamente 82.916 Habeas Corpus e Recursos em Habeas Corpus, sendo 30.663 (36,9%) de São Paulo, com um percentual de concessão de 19,9%; 4,3% a mais que a média geral . Os números demonstram, claramente, que o sistema não está funcionando. É inaceitável um Tribunal Superior receber esse número de processos e mais inaceitável ainda verificar que 1/5 das pretensões defensivas são acolhidas, isso em, podemos chamar assim, um "terceiro grau" de jurisdição.
+E uma última observação. Esse percentual de êxito defensivo certamente será bem maior se considerarmos apenas os feitos que tiveram seu mérito examinado, levando em conta que boa parte desses processos não são conhecidos por não estarem devidamente instruídos - ou por serem reiteração de outros recursos, ou por outras razões formais.
+Este Tribunal Superior já expressou, desde 2017, que o art. 126 da Lei de Execução Penal abrange os exames capazes de certificar a conclusão do ensino fundamental, como o ENCCEJA.
+Este relator expressou no HC n. 943.058/SP que a orientação adotada não observou a interpretação adequada e determinou o rejulgamento do feito, observando a jurisprudência.
+Considerando que este presente feito só existe em razão da recalcitrância do Tribunal a quo, não pretendo alongar a discussão nem submeter o direito da parte a qualquer outro obstáculo, necessário proclamar o direito com os elementos de que se tem à disposição.
+Assim, considerando o documento juntado no HC n. 943.058/SP à fl. 22, necessário reconhecer os 177 dias de remição em razão da conclusão do ensino fundamental via ENCCEJA. Conforme destacado pelo voto divergente, já haviam sido concedidos 133 dias de remição, cabendo apenas o acréscimo de 44 dias em razão do disposto no § 5º do art. 126 da Lei de Execução Penal (fl. 48/49).
+Ante o exposto, concedo liminarmente a ordem, para determinar a remição de 44 dias pelo estudo.
+Comunique-se ao Tribunal local, encaminhando cópia deste julgado para que seja juntada aos autos do Agravo em Execução n. 000 5400-25.2024.8.26.0496.
+Comunique-se ao Juízo de primeiro grau.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. DESCUMPRIMENTO DO DECIDIDO NO HC N. 943.058/SP. DESRESPEITO REITERADO DE JURISPRUDÊNCIA CONSOLIDADA DO SUPERIOR TRIBUNAL DE JUSTIÇA. LIVRE CONVENCIMENTO. INADEQUAÇÃO NO CASO CONCRETO. REMIÇÃO PELO ESTUDO. APROVAÇÃO NO ENCCEJA. PRECEDENTE.
+Ordem concedida liminarmente.
