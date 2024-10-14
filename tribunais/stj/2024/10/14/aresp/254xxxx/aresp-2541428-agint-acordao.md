@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CONTRATO  DE  DISTRIBUIÇÃO  E  AGÊNCIA  DE  PRODUTOS  E  SERVIÇOS  DE  TELEFONIA.  AÇÃO  DE  RESCISÃO  CONTRATUAL  E  INDENIZATÓRIA.  CULPA.  ÔNUS  PROBATÓRIO.  REVISÃO.  REEXAME  DE  PROVAS.  INCIDÊNCIA.  SÚMULA  Nº  7/STJ.
+1.  Na  hipótese,  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  o  que  se  mostra  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  o  enunciado  da  Súmula  nº  7/STJ.
+2.  A  errônea  valoração  da  prova  que  enseja  a  incursão  desta  Corte  na  questão  é  a  de  direito,  ou  seja,  quando  decorre  de  má  aplicação  de  regra  ou  princípio  no  campo  probatório,  e  não  que  se  colham  novas  conclusões  acerca  dos  elementos  informativos  do  processo.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  TOPCEL  SOLUÇÕES  EM  TELECOMUNICAÇÕES  LTDA.  -  MICROEMPRESA  contra  a  decisão  que  conheceu  do  agravo  para  não  con  hecer  do  recurso  especial  devido  à  incidência  da  Súmula  nº  7/STJ  (e-STJ  fls.  5.523/5.526).
+Nas  presentes  razões  (e-STJ  fls.  5.529/5.533),  a  agravante  sustenta  a  possibilidade  de  se  afastar  a  incidência  da  Súmula  nº  7/STJ  para  revalorar  os  critérios  jurídicos  referentes  à  prova  e  à  formação  da  convicção  do  magistrado.
+Aduz  que  sempre  buscou  a  resolução  da  lide  com  base  no  contrato  de  revenda  autorizada,  e  não  com  escopo  na  legislação  da  representação  comercial  como  constou  no  acórdão  recorrido.
+Afirma  que  o  inadimplemento  foi  causado  por  inequívoca  intenção  da  parte  agravada  em  obter  vantagem  indevida  às  suas  custas,  visto  que
+"(..)  a  requerida  reduziu  e  dificultou  o  atendimento  e  a  prestação  do  serviço  pela  parte  autora,  reduziu  a  esfera  de  atividade,  fixou  metas  abusivas,  realizou  estornos  abusivos,  não  realizou  o  pagamento  da  totalidade  dos  valores  devidos  e  nem  dos  bônus  corretamente,  realizou  ameaças  de  descredenciamento,  tornando  antieconômica  a  continuação  do  contrato  não  se  mostrando  correto  o  encerramento  nos  termos  postulados  pela  recorrida"  (e-STJ  fl.  5.531).
+Defende  a  necessidade  de  se  afastar  a  aplicação  da  Súmula  nº  7/STJ  ao  presente  caso.
+Ao  final,  requer  o  provimento  do  recurso.
+A  parte  contrária  apresentou  impugnação  às  e-STJ  fls.  5.539/5.548.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CONTRATO  DE  DISTRIBUIÇÃO  E  AGÊNCIA  DE  PRODUTOS  E  SERVIÇOS  DE  TELEFONIA.  AÇÃO  DE  RESCISÃO  CONTRATUAL  E  INDENIZATÓRIA.  CULPA.  ÔNUS  PROBATÓRIO.  REVISÃO.  REEXAME  DE  PROVAS.  INCIDÊNCIA.  SÚMULA  Nº  7/STJ.
+1.  Na  hipótese,  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  o  que  se  mostra  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  o  enunciado  da  Súmula  nº  7/STJ.
+2.  A  errônea  valoração  da  prova  que  enseja  a  incursão  desta  Corte  na  questão  é  a  de  direito,  ou  seja,  quando  decorre  de  má  aplicação  de  regra  ou  princípio  no  campo  probatório,  e  não  que  se  colham  novas  conclusões  acerca  dos  elementos  informativos  do  processo.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Busca  a  agravante  o  reconhecimento  de  que  a  parte  agravada  atuou  com  intenção  de  dificultar  a  prestação  do  serviço,  consistente  na  atividade  de  comércio  varejista  de  equipamentos  de  telefonia  e  comunicação.
+Aduz  que  a  revisão  do  julgado  não  é  obstada  pela  Súmula  nº  7/STJ,  visto  que  a  jurisprudência  do  Superior  Tribunal  de  Justiça  admite  a  revaloração  jurídica  das  provas  encartadas  nos  autos.
+Contudo,  as  conclusões  do  tribunal  de  origem  acerca  do  mérito  da  demanda  decorreram  inquestionavelmente  da  análise  do  conjunto  fático-probatório  carreado  aos  autos,  visto  que,  pontuando  a  respeito  das  violações  contratuais  alegadas  pela  agravante,  consignou  que  a  autora  não  se  desincumbiu  de  seu  ônus  de  provar  os  fatos  constitutivos  do  direito  alegado,  consoante  se  observa  da  leitura  dos  seguintes  trechos  do  voto  condutor  do  acórdão:
+"(..)
+Veja-se  que  a  autora  imputa  diversos  fatos  à  demandada,  os  quais  teriam  tornado  a  relação  insustentável,  dentre  eles:  (i)  inauguração  de  loja  padronizada,  de  acordo  com  o  layout  exigido  pela  Claro  (loja  conceito)  ;  (ii)  abatimento  das  comissões  (estornos),  em  virtude  da  inadimplência  dos  clientes  e/ou  vendas  fraudadas;  (iii)  dificuldades  em  aprovar  o  crédito  para  novos  clientes  da  autora  (análise  de  "crivo"),  ao  passo  que,  estes  mesmos  clientes  tinham  seu  crédito  aprovado  em  outras  lojas  da  Claro.  Além  disso,  argumenta  sobre  a  (iv)  imposição  de  metas  e  de  metodologias  de  pagamento  que  inviabilizavam  o  comissionamento  da  autora;  e  (v)  a  indisponibilidade  de  produtos  (ex.  celulares)  em  épocas  de  grande  pico  nas  vendas  (ex.  natal).  Em  razão  destes  fatos,  alega  ter  ocorrido  o  (vi)  desmonte  da  empresa,  acarretando  demandas  trabalhistas.  o  fechamento  das  operações  e  prejuízos  que  devem  ser  apurados  em  liquidação  de  sentença.
+Inobstante  todos  estes  fatos,  os  quais  albergariam  a  pretensão  da  autora,  ela  não  se  desincumbiu  do  ônus  de  comprová-los,  como  exigia  o  art.  373  do  CPC.  Portanto,  toda  narrativa  está  pautada  da  evasiva  argumentação.
+(..)
+Assim,  não  comprovada  a  culpa  da  demanda  na  ruptura  do  contrato,  inexiste  lastro  jurídico  para  responsabilizá-la  nas  consequências  da  rescisão,  incluídos  neste  raciocínio  os  danos  materiais  (emergentes/cessantes)  e  morais,  conforme  art.  186  do  CC"  (e-STJ  fls.  5.369/5.370  e  5.372).
+Nesse  contexto,  denota-se  que  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  o  que  se  mostra  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  o  enunciado  da  Súmula  nº  7/STJ.
+Registra-se  que  a  errônea  valoração  da  prova  que  enseja  a  incursão  desta  Corte  na  questão  é  a  de  direito,  ou  seja,  quando  decorre  de  má  aplicação  de  regra  ou  princípio  no  campo  probatório,  e  não  que  se  colham  novas  conclusões  acerca  dos  elementos  informativos  do  processo.
+A  propósito:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  VIOLAÇÃO  A  DISPOSITIVO  DA  CONSTITUIÇÃO  FEDERAL.  IMPOSSIBILIDADE.  AFRONTA  AO  ART.  489  DO  CPC/2015.  ARGUMENTAÇÃO  DEFICIENTE.  SÚMULA  284/STF.  ALIENAÇÃO  FIDUCIÁRIA.  EXECUÇÃO  DO  DÉBITO.  PRESCRIÇÃO  NÃO  IMPLEMENTADA.  REVISÃO.  SÚMULA  7/STJ.  HONORÁRIOS  ADVOCATÍCIOS.  CRÉDITO  PREFERENCIAL.  PENHORA  DE  BEM  PERTENCENTE  AO  CREDOR  FIDUCIÁRIO.  CONSTRIÇÃO  INVIABILIZADA.  REEXAME.  SÚMULA  7/STJ.  AGRAVO  INTERNO  DESPROVIDO.
+(..)
+5.  Esta  Corte  Superior  entende  que  a  "errônea  valoração  da  prova  que  dá  ensejo  à  excepcional  intervenção  do  Superior  Tribunal  de  Justiça  na  questão  decorre  de  falha  na  aplicação  de  norma  ou  princípio  no  campo  probatório  e  não  das  conclusões  alcançadas  pelas  instâncias  ordinárias  com  base  nos  elementos  informativos  do  processo"  (AgInt  no  AREsp  1.739.322/SP,  Rel.  Ministro  Ricardo  Villas  Bôas  Cueva,  Terceira  Turma,  julgado  em  15/06/2021,  DJe  22/06/2021).
+6.  Agravo  interno  desprovido"  (AgInt  no  REsp  1923695/RJ,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  29/11/2021,  DJe  2/12/2021  -  grifou-se).
+Por  fim,  cumpre  esclarecer  que  o  acórdão  recorrido  consignou  estar  indene  de  dúvidas  e  que  o  objeto  do  contrato  versa  acerca  de  venda  direta  do  agente  autorizado  ao  cliente,  o  que  se  distingue  da  representação  comercial,  não  sendo,  portanto,  sob  a  ótica  desta,  a  controvérsia  resolvida.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
