@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual a FAZENDA NACIONAL se insurgiu, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE ART. 833, IV, § 2º DO CPC. EXCEÇÃO. NÃO CABIMENTO.
+1. De acordo com o § 2º, há exceções à impenhorabilidade do artigo 833, inc. IV: "§ 2º O disposto nos incisos IV e X do caput não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta) salários-mínimos mensais, devendo a constrição observar o disposto no art. 528, § 8º , e no art. 529, § 3º ".
+2. No caso dos autos, em que pese o entendimento do Art. 833, inc. IV, §2º do CPC, a situação não traduz singeleza aparente, impondo-se a consideração das condições de saúde do agravante, a fim de garantir a subsistência e dignidade de pessoa portadora de moléstia grave.
+3. Ausentes novos elementos a alterar o entendimento adotado, resta mantida a decisão que analisou o pedido de efeito suspensivo.
+É o relatório.
+A questão debatida nos autos, qual seja, "alcance da exceção prevista no § 2º do art. 833 do CPC, em relação à regra da impenhorabilidade da verba de natureza salarial tratada no inciso IV do mesmo dispositivo, para efeito de pagamento de dívidas não alimentares, inclusive quando a renda do devedor for inferior a cinquenta (50) salários mínimos", encontra-se afetada à Corte Especial do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.230), dos REsps 1.894.973/PR, 2.071.382/SE, 2.071.335/GO e 2.071.259/SP, de relatoria do Ministro Raul Araújo.
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC/2015, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC/2015.
+Publique-se. Intimações necessárias.
+EMENTA
