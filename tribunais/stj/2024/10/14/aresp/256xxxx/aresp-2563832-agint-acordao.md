@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ESPECÍFICA O FUNDAMENTO DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182 DO STJ. SÚMULA N. 7 DO STJ. INSURGÊNCIA GENÉRICA. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, o fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ROSAMES MARIA DA SILVA BARBOSA contra decisão de minha lavra, por meio da qual não foi conhecido o respectivo agravo em recurso especial, diante do óbice da Súmula n. 182 do STJ (fls. 251-254).
+Consta dos autos que o Juízo de primeira instância julgou improcedente o pedido de concessão de aposentadoria rural por idade (fls. 107-113).
+O Tribunal a quo, ao apreciar a apelação interposta pela parte autora, extinguiu o processo, de ofício, julgando prejudicado o recurso voluntário, sendo o aresto assim ementado (fl. 155):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. TRABALHADOR RURAL. AUSENTE INÍCIO DE PROVA MATERIAL. CONTEMPORANEIDADE COM PERÍODO DE CARÊNCIA NÃO CARACTERIZADA. IMPOSSIBILIDADE PROVA EXCLUSIVAMENTE TESTEMUNHAL. RECURSO REPETITIVO. RESP N. 1.352.721-SP. AÇÕES PREVIDENCIÁRIAS. EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO. APELAÇÃO PREJUDICADA.
+1. A concessão do benefício de aposentadoria por idade exige a demonstração do trabalho rural, cumprindo-se a carência prevista no art. 142 da Lei de Benefícios, mediante início razoável de prova material, corroborada com prova testemunhal, ou prova documental plena. Exige-se, simultaneamente, idade superior a 60 anos para homem e 55 anos para mulher (art. 48, § 1º, da mesma lei).
+2. Os documentos apresentados - certidões de casamento e de nascimento das filhas, ocorrido em da década de 1970 e carteira de filiação à sindicato rural de seu cônjuge com admissão em 1984 - são insuficientes para comprovarem o exercício da atividade alegada, sob regime de economia familiar, por tempo suficiente a cumprir a carência exigida em lei. Os documentos apresentados pela parte autora se refere a fato ocorrido há mais de 16 anos antes do início da carência, não sendo contemporânea aos fatos que se pretende comprovar. Precedente.
+3. O eg. STJ já firmou entendimento de que não servem como início de prova material do labor rural documentos que não se revestem das formalidades legais, tais como: certidão da Justiça Eleitoral, visto ser declaração unilateral do eleitor; carteiras, comprovantes e declarações de sindicatos sem a devida homologação do INSS e do Ministério Público. Precedente.
+4. Assim, a não comprovação da qualidade de segurado especial da parte autora, na condição de trabalhador rural, e pelo menos durante o cumprimento do prazo de carência previsto no art. 142 da Lei n. 8.213, de 1991, impossibilita o deferimento do benefício postulado na petição inicial.
+5. É inadmissível prova exclusivamente testemunhal para o reconhecimento de tempo de exercício de atividade rural (Súmulas 149/STJ e 27/TRF-1ª Região).
+6. Segundo a orientação jurisprudencial do Superior Tribunal de Justiça, em julgamento submetido à sistemática dos recursos repetitivos para aplicação restrita às ações previdenciárias, "a ausência de conteúdo probatório eficaz a instruir a inicial, conforme determina o art. 283 do CPC, implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo a sua extinção sem o julgamento do mérito (art. 267, inciso IV do CPC), e a consequente possibilidade de o autor intentar novamente a ação (art. 268 do CPC), caso reúna os elementos necessários a tal iniciativa" (REsp n. 1.352.721-SP, Rel. Min. Napoleão Nunes Maia Filho, Corte Especial, julgado em 16/12/2015, DJe 28/4/2016).
+7. A sentença previdenciária, de um modo geral, é proferida secundum eventum litis ou secundum eventum probationis; porém, a orientação fixada no referido repetitivo agrega a vantagem processual de afastar eventual discussão relativa à ocorrência ou não de coisa julgada material em caso de nova ação.
+8. Processo extinto, de ofício, sem resolução do mérito, em razão da ausência de início de prova material suficiente para o reconhecimento da qualidade de segurado. Apelação da parte autora prejudicada, ressalvados os entendimentos dos demais julgadores que negavam provimento à apelação com efeito secundum eventum litis.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a recorrente alegou divergência jurisprudencial e ofensa ao art. 55, § 3º, da Lei n. 8.213/1991, aduzindo, em suma, que "os documentos acostados pela parte autora buscando comprovar sua condição de rurícola, já descritos acima, sem sombra de dúvidas, configuram o mínimo de prova exigido para indicar sua profissão" (fl. 199).
+O apelo nobre foi inadmitido na origem (fls. 227-228), advindo o presente Agravo nos próprios autos (fls. 232-237), o qual não foi conhecido pela decisão agravada.
+No presente recurso, a Agravante alega, em síntese, que "não há que se falar em reexame, mas sim valoração da prova e critérios jurídicos aplicados pelo E. Tribunal a quo. Claramente são coisas distintas" (fl. 262). Afirma que "é possível vislumbrar a afronta aos entendimentos pacificados por este Sodalício, sem sequer "tocar" na prova física constante dos autos" (fl. 262).
+Pleiteia a reforma da decisão agravada e o provimento do recurso especial, para que lhe seja concedido o benefício de aposentadoria rural por idade.
+Não foi apresentada resposta ao agravo interno (fl. 271).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ESPECÍFICA O FUNDAMENTO DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182 DO STJ. SÚMULA N. 7 DO STJ. INSURGÊNCIA GENÉRICA. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, o fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+Nos termos da decisão agravada, o agravo em recurso especial não foi conhecido porque deixou de ser impugnada, de forma específica, a incidência da Súmula n. 7 do STJ, fundamento utilizado pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO para não admitir o apelo nobre.
+Portanto, inarredável a incidência da Súmula n. 182/STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..  2. Em se tratando de agravo em recurso especial, a parte agravante deve impugnar todos os fundamentos da decisão que negou admissibilidade ao recurso especial na origem, ainda que tais fundamentos se refiram a pontos autônomos em relação à matéria principal debatida no recurso especial, sob pena de incidência do teor do art. 932, III, do CPC/2015 e da aplicação, por analogia, da Súmula nº 182 do STJ.  ..  4. Agravo interno não provido. (AgInt no AREsp n. 2.179.576/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+ ..  5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+No que concerne à Súmula n. 7 do STJ, a parte agravante asseverou, apenas de maneira genérica, que a análise do apelo nobre não demanda revolvimento do acervo fático-probatório. Contudo, não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC/2015).
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
