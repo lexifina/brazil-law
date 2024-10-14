@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. TRÁFICO DE DROGAS. 64,3 G DE MACONHA E 1 G DE COCAÍNA. ÍNFIMA QUANTIDADE QUE PERMITE APLICAÇÃO DO REDUTOR EM PATAMAR MÁXIMO. PRECEDENTES. PARECER MINISTERIAL ADOTADO.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público de Rondônia contra decisão assim resumida (fls. 376):
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. TRÁFICO DE DROGAS. 64,3 G DE MACONHA E 1 G DE COCAÍNA. ÍNFIMA QUANTIDADE QUE PERMITE APLICAÇÃO DO REDUTOR EM PATAMAR MÁXIMO. PRECEDENTES. PARECER MINISTERIAL ADOTADO.
+Agravo conhecido para dar provimento ao recurso especial, nos termos do dispositivo. Ordem concedida de ofício, para estender à corré Karolaine Mendes da Silva os efeitos da decisão (art. 580 do CPP).
+Alega o agravante que a decisão monocrática deve ser reformada, visto que basta a mera análise do acórdão combatido para notar que houve fundamentação idônea e concreta do motivo pelo qual a aplicação do tráfico privilegiado se manteve em 1/6 (fl. 393).
+Diz que o caso em análise, amolda-se a jurisprudência consolidada do Sodalício, pois não há que se falar em redimensionamento da pela aplicação do tráfico privilegiado, ou mesmo da forma de cumprimento de pena, visto que o Tribunal estadual justificou a manutenção da benesse em 1/6 dada as circunstâncias que envolveram o crime de tráfico de drogas, (investigação prévia, confissão do local em que estavam os entorpecentes, comércio de drogas em ambiente em que conviviam crianças), fundamentação idônea e concreta, que não deve ser alterada (fl. 396).
+Instada a se manifestar, a Subprocuradoria-Geral da República opinou pelo desprovimento do agravo regimental, em parecer assim resumido (fls. 407/408 - grifei ):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRAFICO DE DROGAS. TRÁFICO PRIVILEGIADO. FRAÇÃO MÁXIMA. POSSIBILIDADE. QUANTIDADE DE DROGA APREENDIDA. AUSÊNCIA DE ELEMENTOS COM APTIDÃO PARA FIXAR A MINORANTE EM SEU PATAMAR MÍNIMO.
+- O douto Ministro Relator conheceu do agravo e deu provimento ao recurso especial, em consonância com o parecer do Ministério Público Federal, para aplicar, em benefício do recorrido e da corré, a minorante prevista no § 4º do art. 33 da Lei nº 11.343/2006 na fração de 2/3, "tendo em vista que a quantidade de droga apreendida - 64,3 g de maconha e 1 g de cocaína - é, por si só, incapaz de afastar a incidência da benesse em seu patamar máximo" (fls. 377). Entendimento em harmonia com a orientação dessa C. Corte Cidadã quanto ao tema.
+- Registre-se que os precedentes indicados pelo recorrente em sua peça recursal não guardam similitude fático-jurídica com a controvérsia dos autos.
+- Não bastasse isso, embora graves e caracterizadores da prática de tráfico de drogas, a existência de investigação prévia, a indicação do local onde estavam armazenados/depositados os entorpecentes e o comércio espúrio de drogas na residência familiar não constituem elementos com aptidão para afastar a incidência da minorante prevista no § 4º do art. 33 da Lei nº 11.343/2006 na fração de 2/3.
+- Parecer pelo não provimento do agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. TRÁFICO DE DROGAS. 64,3 G DE MACONHA E 1 G DE COCAÍNA. ÍNFIMA QUANTIDADE QUE PERMITE APLICAÇÃO DO REDUTOR EM PATAMAR MÁXIMO. PRECEDENTES. PARECER MINISTERIAL ADOTADO.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido.
+VOTO
+A insurgência não merece acolhida.
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmado.
+Com efeito, de acordo com o afirmado anteriormente, tendo em conta que as controvérsias apontadas pelo agravante foram bem delineadas pelo Ministério Público Federal, adoto o parecer da lavra da Subprocuradora-Geral da República, Ana Borges Coelho Santos, como fundamento para decidir (fls. 368/371 - grifo nosso):
+ ..
+De fato, prescindível a análise de provas para se aferir se a fração de redução da pena em 1/6, aplicada na terceira fase da dosimetria, é proporcional.
+Convertido o agravo em recurso especial, merece ser provido.
+No que pertine à operação de dosimetria da pena, é consenso que possível sua revisão em sede de recurso especial, caso seja aferida, de pronto, flagrante desproporcionalidade na pena fixada ou teratologia da decisão impugnada pela via especial.
+De acordo com a melhor doutrina e a jurisprudência, na falta de parâmetros legais para se fixar a fração do benefício do tráfico privilegiado, o julgador deve se orientar em função da quantidade e da natureza da droga apreendida para fixar o quantum da redução, atento aos termos do art. 42 da Lei de Drogas.
+Ocorre que, no caso em apreço, observa-se que a fração de redução distinta do patamar máximo foi imposta sem estrita observância ao dever de fundamentação, tendo em vista que a quantidade de droga apreendida - 64,3 g de maconha e 1 g de cocaína- é, por si só, incapaz de afastar a incidência da benesse em seu patamar máximo.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (34,7G DE COCAÍNA E 31,2G DE MACONHA) E POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. VIOLAÇÃO DOS ARTS. 33, § 4º, 40, IV, E 42, TODOS DA LEI N. 11.343/2006; E 16 DA LEI N. 10.826/2003.
+PEDIDO DE RESTABELECIMENTO DA FRAÇÃO RELATIVA À CAUSA DE DIMINUIÇÃO DE PENA. ACÓRDÃO QUE, COM SUPORTE EXCLUSIVO NA NATUREZA DO ENTORPECENTE APREENDIDO, APLICOU FRAÇÃO INTERMEDIÁRIA.
+DESPROPORCIONALIDADE FLAGRANTE. AUSÊNCIA DE PARÂMETROS IDÔNEOS PARA JUSTIFICAR TAL RIGOR PUNITIVO. PATAMAR MÁXIMO. POSSIBILIDADE. PRECEDENTES.
+ ..
+PENA REDIMENSIONADA A 1 ANO, 11 MESES E 10 DIAS DE RECLUSÃO, MAIS PAGAMENTO DE 185 DIAS-MULTA. REGIME ABERTO QUE SE IMPÕE. APLICAÇÃO DO ART. 33, § 2º, C, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. POSSIBILIDADE, A CARGO DO JUÍZO DA EXECUÇÃO. PRECEDENTES DO STF E DO STJ. PLEITO DE EXECUÇÃO PROVISÓRIA DAS PENAS.
+PREJUDICIALIDADE CONSTATADA, EM FACE DA POSSIBILIDADE DE SUBSTITUIÇÃO. ERESP N. 1.619.087/SC. TERCEIRA SEÇÃO, DJE 24/8/2017. PRECEDENTES.
+1. No que se refere à postulação atinente à fração de redução de pena prevista na Lei n. 11.343/2006, foi disposto na decisão agravada que levando em consideração a falta de parâmetros idôneos que justifiquem o maior rigor punitivo, notadamente diante da primariedade dos recorrentes, tem-se por considerar inidônea a aplicação do redutor em fração diversa da máxima permitida, tendo em vista, ainda mais, a não expressiva quantidade de entorpecente apreendido.
+2. O Magistrado singular agiu em consonância com a jurisprudência desta Corte Superior ao aplicar a redução da pena na fração de 2/3, notadamente porque reconhecida a primariedade, os bons antecedentes e o fato de não integrarem organização criminosa. Por sua vez, o Tribunal de origem, ao reduzir o quantum de diminuição de pena, com suporte na natureza e na quantidade de droga apreendida (34,7 g de cocaína e 31,2 g de maconha), bem como na ausência de fundamentos concretos atinentes à personalidade e conduta social dos agravados, foi de encontro à linha de julgados proferidos, modernamente, pelo Superior Tribunal de Justiça.
+3. Esta Corte vem decidindo que a quantidade, a nocividade e a variedade dos entorpecentes apreendidos são fundamentos idôneos a ensejar a escolha da fração redutora, quando for o caso de aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, ou, até mesmo, para justificar a não incidência da redutora, quando, juntamente com outros elementos presentes nos autos, indicarem a dedicação do agente à atividade criminosa.  .. , a hipótese tratou de pequena quantidade de entorpecente (35 g de cocaína) e, em decorrência, com o devido respeito à proporcionalidade, deve incidir a causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006, em sua fração máxima, alcançando as penas o montante de 1 ano e 8 meses de reclusão e 166 dias-multa (HC n. 480.783/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/2/2019) - (AgRg no REsp n. 1.777.922/SP, de minha relatoria, Sexta Turma, DJe 20/5/2019).
+ ..
+10. Agravo regimental improvido.
+(AgRg no REsp 1808590/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/08/2019, DJe 04/09/2019)
+Assim, merece ser provida a insurgência para que incida a fração redutora em seu patamar máximo na derradeira fase da dosimetria da reprimenda.
+Nesse contexto, valendo-me dos fundamentos da dosimetria adotados nas primeira e segunda etapas, aplicando o referido patamar na terceira fase, fixo a pena em 1 ano e 8 meses de reclusão, além do pagamento de 166 dias-multa, no valor mínimo legal.
+Por conseguinte, à míngua de elemento concreto a justificar o regime mais rigoroso, forçoso concluir pela aplicação direta do art. 33, § 2º, c, do Código Penal, que estabelece o regime inicial aberto para a pena igual ou inferior a 4 anos.
+Vale anotar que a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido, segundo a pena aplicada (Súmula 718/STF). Ademais, a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea (Súmula 719/STF), o que não se verifica na hipótese dos autos.
+Outrossim, o entendimento no que se refere à vedação da substituição da pena privativa de liberdade por restritiva de direitos (art. 44, caput, da Lei n. 11.343/2006) foi superado pelo Supremo Tribunal Federal no julgamento do HC n. 101.291/SP (DJe 12/2/2010), motivo pelo qual deve ser permitida a substituição da reprimenda por duas restritivas de direitos a serem escolhidas pelo Juízo das Execuções Criminais.
+Em atenção ao disposto no art. 580 do Código de Processo Penal, concedo habeas corpus de ofício, para estender à corré Karolaine Mendes da Silva os efeitos da presente decisão, fixando-lhe a mesma reprimenda de 1 ano e 8 meses de reclusão, nos mesmos termos em que estabelecidos ao agravante, inclusive quanto à substituição.
+Ante o exposto, nego provimento ao agravo regimental.
