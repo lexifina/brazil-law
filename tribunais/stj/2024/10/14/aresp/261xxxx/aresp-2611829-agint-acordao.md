@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE FUNDADA NA SÚMULA N. 83/STJ. INDICAÇÃO DE PRECEDENTES CONTEMPORÂNEOS OU SUPERVENIENTES. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte de origem invocou a Súmula 83/STJ para inadmitir o recurso especial, exigindo a indicação de precedentes contemporâneos ou posteriores que demonstrassem divergência jurisprudencial, o que não foi feito.
+2. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada atrai a incidência da Súmula 182/STJ.
+3. A jurisprudência do STJ estabelece que a Súmula 83 é aplicável tanto aos recursos especiais interpostos pela alínea "a" quanto pela alínea "c" do inciso III do art. 105 da CF/1988.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto pela COMPANHIA DE ELETRICIDADE DO AMAPÁ (CEA) contra decisão assim fundamentada (fls. 1.530/1.543):
+Os autos foram recebidos neste Gabinete em 22.7.2024. De início, esclareço que assiste razão à parte agravante quanto aos argumentos que afastam a ausência de prequestionamento, razão pela qual, reconsidero a decisão agravada, passando, desde logo, à nova análise da pretensão recursal. Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) contra acórdão cuja ementa é a seguinte:
+ ..
+Passa-se à nova fundamentação, nos seguintes termos.
+In casu, tendo em vista que a Corte de origem invocou a Súmula 83/STJ como fundamento para inadmitir o Recurso Especial, a efetiva impugnação desta decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de um adequado confronto analítico, que o entendimento jurisprudencial do STJ é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo, o que não ocorreu na espécie.
+ ..
+Com efeito, no julgamento dos Embargos de Divergência nos Agravos em Recurso Especial 701.404/SC, 746.775/PR e 831.326/SP em 19.9.2018, a Corte Especial do Superior Tribunal de Justiça interpretou a Súmula 182/STJ e decidiu que esta se aplica para não se conhecer de todo o Recurso nas hipóteses em que a parte recorrente refuta apenas parte da decisão recorrida, ainda que a parte impugnada seja capítulo autônomo em relação à não impugnada.
+ ..
+Portanto, não se conhece do Agravo que deixa de rebater individualmente todos os fundamentos da decisão agravada, nos termos do art. 253, I, do RISTJ e do art. 932, III, do CPC.
+Diante do exposto, dou provimento ao Agravo Interno para, em juízo de retratação, não conhecer do Agravo em Recurso Especial, nos termos da fundamentação.
+O agravante sustenta que impugnou todos os pontos da decisão de admissibilidade e que "a súm. 83/STJ é de aplicação apenas acessória, afastando apenas interposição com base em divergência jurisprudencial" (fl. 1.240).
+Requer "seja realizado o juízo de retração para que seja provido seu recurso especial ou, caso contrário, a submissão do presente agravo interno para julgamento pela Turma deste Superior Tribunal de Justiça" (fl. 1.241).
+Contrarrazões às fls. 1. 244/1.371.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE FUNDADA NA SÚMULA N. 83/STJ. INDICAÇÃO DE PRECEDENTES CONTEMPORÂNEOS OU SUPERVENIENTES. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte de origem invocou a Súmula 83/STJ para inadmitir o recurso especial, exigindo a indicação de precedentes contemporâneos ou posteriores que demonstrassem divergência jurisprudencial, o que não foi feito.
+2. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada atrai a incidência da Súmula 182/STJ.
+3. A jurisprudência do STJ estabelece que a Súmula 83 é aplicável tanto aos recursos especiais interpostos pela alínea "a" quanto pela alínea "c" do inciso III do art. 105 da CF/1988.
+4. Agravo interno a que se nega provimento.
+VOTO
+O agravo interno não merece prosperar.
+Tendo em vista que a Corte de origem invocou a Súmula 83/STJ como fundamento para inadmitir o Recurso Especial, a efetiva impugnação desta decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de adequado confronto analítico, que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo, o que não ocorreu na espécie (AgInt no AREsp n. 2.534.049/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/6/2024, DJe de 28/6/2024).
+Ainda, ressalto que a Súmula 83 do STJ é aplicável tanto ao recurso especial fundado na alínea "a" quanto ao recurso especial fundado na alínea "c" (divergência jurisprudencial).
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. TAXA DE JUROS E ÍNDICE DE CORREÇÃO MONETÁRIA. PEDIDOS IMPLÍCITOS. ALTERAÇÃO DE SEU TERMO INICIAL. POSSIBILIDADE. AUSÊNCIA DE JULGAMENTO EXTRA PETITA OU REFORMATIO IN PEJUS. INCIDÊNCIA DAS SÚMULAS 83 E 204 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Afasta-se a alegação de ofensa ao art. 1.022 do Código Processual Civil de 2015 porque não foi demonstrada omissão capaz de comprometer o embasamento do acórdão recorrido ou de constituir empecilho ao conhecimento do Recurso Especial.
+2. Consoante a jurisprudência do STJ, a ausência de manifestação sobre determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há violação do art. 489 do CPC/2015 quando o Tribunal a quo decide de modo claro e fundamentado, como ocorreu na hipótese.
+3. No enfrentamento da controvérsia, o Colegiado originário consignou: "Afigura-se certo, ainda, que os juros incidirão a partir da citação e a correção monetária a partir da data em que deveria ter sido feito cada pagamento."
+4. Já no julgamento dos Embargos de Declaração, o órgão julgador esclareceu: "Esclareça-se, de logo, que o caso concreto não trata de taxa de juros e índice de correção monetária alcançados pela coisa julgada, de modo que não há que se falar em imutabilidade. Acerca da quaestio, cabe ressaltar que o Superior Tribunal de Justiça firmou a compreensão de que, por se tratar de matéria de ordem pública, a aplicação ou alteração do índice de correção monetária e da taxa de juros, bem como a mudança de seu termo a quo, em sede de reexame necessário ou mesmo de ofício, não configura reformatio in pejus."
+5. Com efeito, é firme o entendimento nesta Corte Superior de que os juros de mora e a correção monetária integram os chamados pedidos implícitos, de modo que a alteração de seu termo inicial não configura julgamento extra petita ou reformatio in pejus.
+6. Ademais, conforme foi consolidado pelo STJ na sua Súmula 204, os juros de mora, nas ações relativas a benefícios previdenciários, incidem a partir da citação válida.
+7. Dessume-se que o aresto impugnado está em sintonia com o atual posicionamento do STJ, motivo pelo qual não merece prosperar a irresignação. Incide na espécie o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". Cumpre ressaltar que a referida diretriz é aplicável também aos recursos interpostos pela alínea "a" do inciso III do art. 105 da Constituição Federal de 1988.
+8. Agravo Interno não provido.
+(AgInt no AREsp n. 2.561.653/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 23/8/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE TÍTULO FORMADO EM AÇÃO COLETIVA. SÚMULA N. 83 DO STJ. SÚMULA N. 7 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de agravo de instrumento objetivando reformar decisão que, em cumprimento individual de título formado em ação coletiva, rejeitou a impugnação oferecida pela agravada, condenando-a ao pagamento de honorários advocatícios no percentual de 10% sobre a diferença entre o valor fixado como quantum debeatur e o apontado pela executada, que foi improvido pelo Tribunal Regional Federal da 2ª Região. No Tribunal a quo, o agravo foi negado.
+II - No caso, verifica-se que o entendimento adotado pelo Tribunal de origem se alinha à diretriz desta Corte Superior no sentido de que, nos casos em que haja impugnação pela Fazenda Pública, cabe a fixação de honorários advocatícios, desde que descontada a parcela do valor incontroverso. Nesse sentido: AgInt no REsp n. 2.045.035/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt nos EDcl no REsp n. 2.031.110/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/8/2023, DJe de 16/8/2023; AgInt nos EDcl no REsp n. 2.025.968/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt no REsp n. 1.785.417/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2022, DJe de 13/12/2022.
+III - Nesse contexto, incide, na espécie, a Súmula n. 83/STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". Nesse ponto, cumpre destacar que, na linha da jurisprudência desta Corte, "aplica-se a Súmula 83 do STJ aos recursos especiais interpostos tanto pela alínea a quanto pela alínea c do inciso III do art. 105 da Constituição Federal" (AgInt no AREsp n. 411.354/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/5/2017, DJe de 16/5/2017).
+IV - Ademais, registre-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Agravo interno improvido.
+(AgInt no REsp n. 2.126.237/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (de cisão de inadmissibilidade do recurso especial) atrai a incidência da Súmula 182/STJ.
+Na hipótese dos autos, o agravante, de fato, deixou de impugnar especificamente, de forma efetiva e pormenorizada, nas razões do agravo em recurso especial, o entrave atinente à incidência da Súmula n. 83/STJ, apontado pelo Tribunal de origem como um dos fundamentos para inadmitir o recurso.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
