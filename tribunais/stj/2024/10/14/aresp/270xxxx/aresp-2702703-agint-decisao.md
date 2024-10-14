@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno interposto por SAO FRANCISCO SISTEMAS DE SAUDE SOCIEDADE EMPRESÁRIA LIMITADA (SÃO FRANCISCO) contra decisão de relatoria da Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado, com amparo no art. 21-E, V, c/c 253, parágrafo único, I, do RISTJ, porque não foram atacados especificamente os fundamentos da decisão agravada.
+Nas razões do presente inconformismo, alegou a inaplicabilidade da incidência da Súmula n. 7 do STJ, por não haver necessidade do reexame fático-probatório
+Houve impugnação ao recurso (e-STJ, fls. 404/410).
+É o relatório.
+DECIDO.
+Reconsideração do decisum
+Tendo em vista as alegações trazidas no agravo interno, reconsidero a decisão agravada para conhecer do agravo em recurso especial e passo à nova análise do recurso especial.
+Em seu recurso especial, amparado no art. 105, III, a, da CF, alegou (1) que não houve negativa de cobertura de exame ou internação; (2) o pedido de indenização por danos morais não se justifica, pois não comprovado o dano efetivo; e (3) violação do art. 186 do CC/2002 aduzindo que sem culpa não há obrigação de reparar o dano.
+O recurso não comporta provimento.
+Na hipótese, o Tribunal local, em relação à alegada violação do art. 186 do CC/2002, no que concerne ao dever da indenização, manifestou-se nos seguintes termos:
+Assim, como se observa dos documentos acostados aos autos, o autor trouxe prova suficiente a demonstrar, não a negativa de atendimento, mas a sua evidente deficiência. Esteve duas vezes em hospital da ré, sem detecção do quadro grave de que acometido, apenas adequadamente atendido quando emergencialmente foi a outra instituição. Aliás, ainda não houvesse urgência, não se haveria mesmo de se o obrigar a procurar o mesmo deficiente atendimento que antes lhe foi dispensado, quebrando sua justa expectativa na qualidade básica do serviço.
+ ..
+Dito de outro modo, se de urgência ou emergência se tratava, a limitação de que quer se socorrer a ré é abusiva. Desequilibra o contrato, na exata medida em que priva o consumidor da plena cobertura de uma situação excepcional que a lei quis preservar momento de atendimento vital, com grave risco, se dê o consumidor a procurar médico e hospital da rede conveniada, o mais próximo de onde esteja e, ainda, no caso, de forma reiterada. Claro que o paciente se encaminha ou é encaminhado, nessas situações, ao hospital circunstancialmente indicado, ou dada a proximidade ou da indicação do médico que o acode. Mais, e insista-se: no caso, tudo depois de ter procurado a rede e de ter visto indevidamente retardada a intervenção adequada.
+Assim, e devidamente comprovadas por notas fiscais as despesas em que incorreu o autor (fls. 30/54), no caso tem-se que de rigor o reembolso integral, não valendo o argumento de que o autor recebeu o tratamento devido e optou, livremente, por buscar o atendimento pela via privada.
+Depois, em consequência da falha havida, claro também o abalo moral experimentado pelo autor, aqui não olvidado que, ainda a tanto não se reduza, em sua mais ampla acepção (v.g. Anderson Shreiber, Novos Paradigmas da Responsabilidade Civil. São Paulo: Atlas, 2007. p. 118-119), para o caso em tela importa a compreensão do dano moral como qualquer violação a direitos que têm seu valor fonte na dignidade humana. Ou seja, os direitos chamados da personalidade. E porque objeto de especial proteção, tem-se que o dano já esteja na própria conduta de violação. Daí dizer-se que o dano moral seja ou esteja "in re ipsa".
+ ..
+Com efeito, tratou-se de injustificada desídia da ré, que se utilizou de exame sorológico, ao invés do teste (RT-PCR) que é usado em caso suspeito e "que identifica a presença do RNA do vírus, confirmado a infecção e possibilitando melhor conduta terapêutica para o paciente", nos termos do Protocolo de Acompanhamento das Condições de Saúde para Organizações Privadas, publicado pelo Governo do Estado de São Paulo 1, item 3, e que, reitere-se, com sua conduta levou a que, apenas com o exame de raio-X realizado na rede privada, se descobrisse estar o paciente já com 50% do pulmão comprometido o que, evidentemente, causa mais que mero abalo, mero dissabor ou simples transtorno, senão real afronta, e grave, a direito da personalidade.
+E vale não olvidar que este arbitramento cumpre um papel também profilático, de desestímulo ao ofensor, dissuasório de condutas ofensivas que se revistam de real gravidade, como na espécie ocorrido.
+ ..
+Assim atentando-se às circunstâncias do caso, bem como à simultânea função do dano moral, de compensação à vítima, mas sem lhe representar fonte de indevido enriquecimento, e de desestímulo à ré, mantém-se a condenação fixada pelo MM. Juízo a quo, de R$5.000,00, e mesmo assim porquanto ausente recurso do autor (e-STJ, fls. 325-329 - sem destaques no original).
+Desse modo, para se chegar a conclusão diversa da que chegou o eg. Tribunal de origem, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial por incidir a Súmula n. 7 do STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido, vejam-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RESPONSABILIDADE CIVIL. ERRO MÉDICO. NEGLIGÊNCIA. OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DANOS MORAIS. MONTANTE. EXORBITÂNCIA NÃO EVIDENCIADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Não há como reverter o entendimento estadual, para afastar a ocorrência de negligência médica, sem o prévio reexame de fatos e provas, medida defesa na seara extraordinária, em virtude do óbice contido na Súmula 7 deste Tribunal Superior.
+2. Considerando as peculiaridades do caso concreto, não há como considerar excessivo o valor fixado, pela origem, a título de danos morais, de modo que a sua revisão esbarraria no disposto na Súmula 7 desta Corte, por importar invariavelmente no revolvimento do arcabouço fático-probatório.
+3. A jurisprudência deste STJ se firmou no sentido de que não haverá majoração de honorários no julgamento de agravo interno que teve seu recurso não conhecido integralmente ou desprovido.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.481.193/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO MULTIFUNCIONAL. CUSTEIO. NEGATIVA. SÚMULA Nº 83/STJ. DANO MORAL. CONFIGURAÇÃO. AUSÊNCIA. CONTEXTO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA Nº 7/STJ.
+1. Havendo dúvida razoável na interpretação do contrato, a recusa da operadora de plano de saúde na cobertura de determinado procedimento, sem ofensa aos deveres anexos do pacto - como a boa-fé -, não pode ser reputada ilegítima ou injusta, violadora de direitos imateriais, de modo que não fica configurada a conduta ilícita capaz de ensejar a indenização por danos morais.
+Precedentes.
+2. Na espécie, rever a conclusão da Corte de origem - de que não restou configurado o dano moral indenizável - demandaria o revolvimento do acervo fático-probatório dos autos, procedimento obstado pelo disposto na Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.092.457/SE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/4/2024, DJe de 18/4/2024)
+Nessas condições, DOU PROVIMENTO ao agravo interno para CONHECER do agravo em recurso especial e NEGAR PROVIMENTO ao apelo nobre.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de SÃO FRANCISCO em 5% sobre o valor da condenação, limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. RESPONSABILIDADE CIVIL. NEGATIVA DE COBERTURA. DANO MORAL CONFIGURADO. REVISÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL E NEGAR PROVIMENTO AO APELO NOBRE.
