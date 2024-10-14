@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO. LICITAÇÃO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando foram analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por SISTEMA ENGENHARIA LTDA contra acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça, que negou provimento ao agravo interno no agravo em recurso especial.
+Eis a ementa do aresto (fl. 721/723):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. LICITAÇÃO. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA. AUSÊNCIA DE OMISSÃO. NECESSIDADE DE AFERIR FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. IMPOSSIBILIDADE DE DEBATER DISPOSITIVOS CONSTITUCIONAIS NESTA SEARA. APLICAÇÃO DAS SÚMULAS 283 E 284/STF.
+1. Cuida-se de Agravo Interno contra decisum que conheceu do Agravo para conhecer em parte do Recurso Especial e negou-lhe provimento.
+2. Na origem, trata-se de inconformismo contra decisum do Tribunal de origem que não admitiu o Recurso Especial, sob o fundamento de incidência das Súmulas 7 e 83 do STJ e da Súmula 283 do STF.
+3. Constata-se que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide, ainda que em sentido contrário à pretensão da recorrente. Logo, solucionou-se a controvérsia em conformidade com o que lhe foi apresentado.
+4. Incide a Súmula 7/STJ na tentativa de alterar o quadro fático para reverter o resultado do julgado que entendeu ser suficiente, para compreensão do caso, a prova documental trazida aos autos (máxime os documentos produzidos pela auditoria interna e pela CGU), sendo desnecessária a produção de perícia.
+5. Não cabe Recurso Especial para enfrentamento da alegação de violação a dispositivos constitucionais - in casu, art. 5º, LV -, haja vista que tal matéria é da competência exclusiva do Supremo Tribunal Federal. Deve, portanto, ser objeto de recurso próprio, dirigido àquela Corte.
+6. Nas razões do recurso em exame, a fundamentação do acórdão não foi refutada, repercutindo na inadmissibilidade do recurso, visto que o STJ tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, das Súmulas 283 e 284 do STF.
+7. Agravo Interno não provido.
+Alega a embargante às fls. 737/741 que "a prova pericial é essencial para a correta apuração dos fatos, especialmente no que tange à complexidade técnica envolvida na licitação em discussão. A ausência de perícia compromete o direito à ampla defesa, configurando cerceamento".
+Reclama que "a aplicação da Súmula 7/STJ, que veda o simples reexame de provas em sede de Recurso Especial, não pode ser invocada de maneira mecânica para afastar a análise de questões que, embora envolvam a apreciação de fatos, são imprescindíveis para a correta interpretação e aplicação do direito".
+Sustenta, por fim, violação ao art. 5º, LV, da Constituição Federal.
+Requer, ao final, o conhecimento e acolhimento dos embargos de declaração, a fim de que sejam sanados os vícios existentes no acórdão.
+Intimada, a parte embargada deixou o prazo para impugnação transcorrer in albis (fl. 746).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. LICITAÇÃO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando foram analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos não comportam acolhimento.
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+Na espécie, da leitura do acórdão que negou provimento ao agravo interno, mantendo a decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nesta parte, negar-lhe provimento, observa-se que não há omissão a ser suprida.
+Com efeito, insiste o embargante que deve ser ultrapassa a barreira de admissibilidade do recurso especial no que tange à necessidade de perícia para o deslinde da controvérsia, não sendo o caso de incidência da súm. 7/STJ.
+Ora, por via transversa, a parte pretende rediscutir questão expressamente apreciada no acórdão embargado, que entendeu, no caso concreto, a impossibilidade de exame da questão por esbarrar no necessário reexame de provas, inviável em sede de recurso especial.
+Com efeito, o acórdão decidiu que (fl. 726/727):
+Incide a Súmula 7/STJ na tentativa de alterar o quadro fático para reverter o resultado do julgado que entendeu ser suficiente, para compreensão do caso, a prova documental trazida aos autos (máxime os documentos produzidos pela auditoria interna e pela CGU), sendo desnecessária a produção de perícia.
+O órgão julgador decidiu a matéria após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que o reexame é vedado em Recurso Especial, pois encontra óbice na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Para corroborar a presente constatação, citam-se os fundamentos adotados no acórdão:
+Com efeito, o debate trazido ao processo diz com questão de direito a cujo respeito mais que suficiente a prova documental carreada aos autos, cumprindo destacar ter sido anexado aos autos a integralidade do relatório da CGU e o próprio relatório da auditoria interna, aliás documentos classificados como acesso restrito e sigiloso (especialmente na complementação do Evento 3 PROCJUDIC5, pp. 199 a 273, como naquela do Evento 3, PROCJUDIC7, pp. 286 a337, em que requerida a agregação de sigilo de justiça, e cuja integralidade não deixou de ser reconhecida em manifestação da ré, Evento 3, PROCJUDIC9, pp. 339 a 343, tudo dos autos de origem).
+Em suma, a apelante argumenta com prescrição e, quanto ao tema de mérito, estar-se diante de licitação e contratação por preço global, sendo descabido considerar-se preço unitário, no caso, modo especial, quanto ao valores pagos a título de vale refeição, devendo se considerar a extensão contratual trazida pelos dois aditivos, passando de prazo inicial de sete meses para um total de 12 meses.
+Veja-se o que está dito no Relatório da CGU de que partiu a proposição de excesso: "Em análise ao processo administrativo CGTEE/SEDE nº 0297/2010, relacionado a concorrência nº 10100001, cujo objeto consiste na reforma de dois pavilhões metálicos com fornecimento de materiais e mão-de-obra, identificou-se que tanto o orçamento elaborado pela CGTEE como a proposta apresentada pela empresa contratada (CNPJ 89.118.772/0001-36)apresentam percentual de encargos sociais sobre a mão-de-obra (173,58% e 192,01%respectivamente), superior ao constante no sistema do SINAPI, de 157,50% para operários horista no Rio Grande do Sul, conforme pode ser observado no quadro que segue", quadro este anexado aos autos.
+Em substância, esta a controvérsia, que tinha de ser decidida pela sentença, desnecessária prova pericial ou alguma outra modalidade probatória, além da prova documental que foi trazida aos autos, inteiramente suficiente para o deslinde de tais pontos.
+O que não passara despercebido no despacho de 17.09.2018, em que o juízo já assinalava a desnecessidade de prova pericial (Evento 3, PROCJUDIC5, p. 187, autos de origem).
+Quanto a ter a sentença assentando seu raciocínio fundamentalmente no Relatório da Auditoria Anual das Contas da CGTEE pela CGU não implica nulidade alguma, mas, sendo caso, errôneo o relato, em reforma do julgado.
+Os fatos são aqui recebidos como estabelecidos pelo Tribunal a quo, senhor da análise probatória. Se a violação do dispositivo legal invocado perpassa pela necessidade de fixar premissa fática diversa da que consta do acórdão impugnado, inviável o Recurso. Citam-se precedentes: AgInt no AREsp 1.145.352/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 23.11.2017; REsp 1.650.847/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 20.4.2017; AgRg no AREsp 661.165/RJ, Ministro Marco Buzzi, Quarta Turma, DJe 27.2.2018; e AgInt no AREsp 864.606/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 12.9.2016.
+Outrossim, inadmissível o Recurso Especial pelo dissídio jurisprudencial, na medida em que apurar a similitude fática entre os paradigmas apresentados e os fundamentos do acórdão recorrido exige reexame do material fático-probatório dos autos. Incidência da Súmula 7/STJ.
+Entende o STJ que "Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c" (AgInt nos EDcl no AREsp 1.152.431/RS, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 11.5.2023). Confira-se: AgInt no REsp n. 1.251.683/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 19.4.2021; e AgInt no AREsp n. 1.673.561/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, D Je de 25.3.2021.
+Não ultrapassada a barreira de admissibilidade do recurso especial, não há que se falar da análise da tese recursal e nem sequer em omissão.
+Pretende a parte embargante, inconformada com o entendimento adotado por esta Corte, apenas rediscutir, com efeitos infringentes, questões decididas quando do julgamento do agravo interno e do recurso especial, o que é inviável em sede de embargos declaratórios.
+A esse respeito, colaciono os seguintes precedentes do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC/2015, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no AgInt no AgInt no AREsp n. 1.545.376/SP, rel. Min. Afrânio Vilela, Segunda Turma, DJe de 15/8/2024)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA. MERO INCONFORMISMO. OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A parte embargante discorda da conclusão alcançada no acórdão embargado que, com sólida fundamentação, rejeitou os embargos declaratórios anteriormente opostos. No caso, existe mero inconformismo da parte com o resultado do julgamento proferido, que lhe foi desfavorável, o que não viabiliza o cabimento de embargos de declaração, nos termos do art. 1.022, inciso II, do CPC/2015.
+2. É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no AREsp n. 2.338.340/SE, rel. Min. Teodoro Silva Santos, Segunda Turma, DJe de 23/4/2024)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material no decisum embargado.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios no julgado embargado, traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp n. 2.436.416/MS, rel. Min. Sérgio Kukina, Primeira Turma, DJe de 15/8/2024)
+Outrossim, de acordo com entendimento pacífico desta Corte Superior, o julgador não está obrigado a responder um a um todos os argumentos trazidos pelas partes, visando à defesa da teoria que apresentaram, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 DO CPC. AUSÊNCIA DE OMISSÕES. REAJUSTE DE 3,17%. INCIDÊNCIA SOBRE AS QUANTIAS DECORRENTES DE QUINTOS/DÉCIMOS INCORPORADOS ANTERIORMENTE A DEZEMBRO DE 1994. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Verifica-se não ter ocorrido ofensa ao artigo 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional. Ademais, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão.
+(..)
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.082.059/RS, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 7/3/2024)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA. EMBARGOS REJEITADOS.
+(..)
+3. O órgão julgador não está obrigado a enfrentar todos os argumentos, quando por outros motivos apresente razões satisfatórias para solucionar a lide.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.891.964/TO, rel. Min. Herman Benjamin, Segunda Turma, DJe de 25/4/2022)
+Por fim, impende advertir a parte de que a reiteração injustificada dos embargos de declaração, versando sobre o mesmo assunto, acarretará a consideração de recurso manifestamente protelatório, ensejando a imposição do pagamento da multa prevista no artigo 1.026, § 2º, do Código de Processo Civil.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
