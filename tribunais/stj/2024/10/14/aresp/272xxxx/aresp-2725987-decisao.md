@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado por QUALICORP ADMINISTRADORA DE BENEFICIOS S.A. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE REJEITOU A IMPUGNAÇÀO. INCONFORMISMO DA ADMINISTRADORA QUALICORP. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. CADEIA DE FORNECIMENTO CARACTERIZADA. OBRIGAÇÃO SOLIDÁRIA CONFIGURADA. STJ FORMOU ENTENDIMENTO QUE MESMO APÓS A ENTRADA EM VIGÊNCIA DO NOVO CPC: A SÚMULA 410 PERMANECE PLENAMENTE APLICÁVEL. A PRÉVIA INTIMAÇÃO PESSOAL DO DEVEDOR CONSTITUI CONDIÇÃO NECESSÁRIA PARA A COBRANÇA DE MULTA PELO DESCUMPRIMENTO DE OBRIGAÇÃO DE FAZER OU NÃO FAZER. AGRAVANTE QUE FORA PESSOALMENTE INTIMADA DA DECISÃO DE DEFERIU A TUTELA DE URGÊNCIA, DETERMINANDO O CUMPRIMENTO DA OBRIGAÇÃO DE FAZER. DESNECESSIDADE DE NOVA INTIMAÇÃO. ALEGAÇÃO DE QUE O PRAZO PARA CUMPRIMENTO DA OBRIGAÇÃO É EXÍGUO. INOCORRÊNCIA. PRAZO REDUZIDO QUE SE JUSTIFICA DIANTE DA PRESERVAÇÃO DA SAÚDE DA PARTE AGRAVADA. MULTA COMINATÓRIA QUE VISA GARANTIR O CUMPRIMENTO DA OBRIGAÇÃO. CARÁTER COERCITIVO. AGRAVANTE QUE SOMENTE ARCARÁ COM A MULTA EM CASO DESCUMPRIMENTO DA DETERMINAÇÃO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 537 do CPC; 412 do CC, no que concerne à redução do valor das astreintes, tendo em vista que não atendeu aos parâmetros de razoabilidade e da proporcionalidade, sob pena de configuração de enriquecimento ilícito em favor da parte recorrida, trazendo a seguinte argumentação:
+Conforme relatado, a recorrida pretende a condenação da recorrente ao pagamento da multa arbitrada pelo alegado descumprimento liminar, cujo valor arbitrado pelo juízo a quo à quantia de R$50.000,00 (cinquenta mil reais).
+ ..
+Tal valor é desproporcional com a situação narrada, gera enriquecimento sem causa da recorrida e sua imposição, nessa altura do processo, se demonstra desarrazoada, vez que Operadora de saúde já se cumpriu com a determinação judicial, não existindo razão para execução do valor a título de multa "astreintes".
+Sabe-se que a multa, dada a sua natureza de meio de coerção, também chamada de "meio de execução indireta", destina-se a pressionar a vontade do obrigado.
+Entretanto há que se observar uma linha de razoabilidade (não se pode olvidar que Direito é, sobretudo, equilíbrio e razoabilidade) na fixação da multa diária (e valor global da multa), sob pena de restarem desvirtuados os fins que justificam a existência do processo.
+ ..
+Entende-se, pois, que a aplicação da multa deve obedecer aos parâmetros da razoabilidade e proporcionalidade entre o valor da multa e a obrigação principal que se pretende seja cumprida através de sua aplicação.
+Isto porque a multa tem caráter acessório, não podendo se tornar mais interessante para o credor do que a prestação do próprio direito material, razão pela qual a norma processual torna possível a sua redução a qualquer tempo, eis que os valores originariamente arbitrados não fazem coisa julgada, de modo a inviabilizar, em última análise, as execuções excessivas, isto com a finalidade de combater o enriquecimento sem causa (fls. 133-135)
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Por fim, não vislumbro qualquer irregularidade no valor da multa aplicada e do prazo concedida para cumprimento da obrigação.
+Em relação multa cominatória, patente o seu cabimento, posto que busca garantir a efetividade da de cisão, não havendo que se falar em excesso do valor arbitrado (fl. 125).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de astreintes, esta restringe-se aos casos em que fixadas na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
