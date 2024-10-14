@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO DECISUM. MERA IRRESIGNAÇÃO. AGRAVANTE. VÍTIMA MAIOR DE 60 ANOS. COMPROVAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão vergastado não viabiliza a oposição dos aclaratórios.
+2. Quanto à omissão apontado (afastamento da agravante prevista no ar. 61, II, "h" do CP - vítima maior de 60 anos), deveria a defesa ter impugnado o vício após a decisão monocrática que não conheceu do habeas corpus. Não o fez naquela oportunidade, tampouco sustentou a matéria nas razões do agravo regimental, tendo, portanto, ocorrido a preclusão.
+3. Mesmo se assim não fosse, o documento hábil para se comprovar a idade da vítima não se restringe à certidão de nascimento ou carteira de identidade, sendo outros documentos dotados de fé pública igualmente idôneos para tal fim. (AgRg no AREsp n. 904.234/MG, relator Ministro Jorge Mussi, Quinta Turma, julgado em 18/8/2016, DJe de 26/8/2016.)
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por DOUGLAS DE SOUZA MOUSINHO contra acórdão da 5ª Turma deste Superior Tribunal de Justiça assim ementado (e-STJ fl. 119):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO. PRESENÇA DE ADVOGADO NO INTERROGATÓRIO POLICIAL. PRESCINDIBILIDADE. PERÍCIA JUNTO À PRESTADORA DE SERVIÇO PÚBLICO. DESNECESSIDADE. AUSÊNCIA DE PROVA DE MATERIALIDADE E DE AUTORIA DELITIVA. REVOLVIMENTO FÁTICO/PROBATÓRIO DOS AUTOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência deste STJ entende que não é necessária a presença de advogado durante o interrogatório policial do réu. Precedentes. (AgRg no AREsp n. 1.882.836/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/8/2021, DJe de 30/8/2021.)
+2. Quanto à ausência de laudo pericial que demonstrasse o prejuízo causado com a ação do paciente, observa-se que a perícia junto à empresa prestadora de serviço público foi considerada desnecessária, pois o delito aqui apurado não é o de furto de energia elétrica, mas sim de extorsão, inexistindo, no ponto, infração à ampla defesa ou ao contraditório.
+3. Por fim, a tese de ausência de prova de materialidade e de autoria delitiva depende de revolvimento fático/probatório dos autos, não condizente com a via eleita. Em verdade o pedido defensivo tenta transmudar o habeas corpus em verdadeira revisão criminal e esta Corte Superior em terceira instância revisora, o que vedado.
+4. Agravo regimental a que se nega provimento.
+Nos aclaratórios, sustenta a defesa omissão do julgado, pois a turma não abordou o pedido de decote de agravante (vítima maior de 60 anos).
+Alega, mais uma vez, que a ausência de perícia requerida pela defesa impediu a defesa de demonstrar a inocência do paciente, causando prejuízo.
+Requer, ao final, sejam acolhidos os embargos de declaração, com efeitos infringentes.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO DECISUM. MERA IRRESIGNAÇÃO. AGRAVANTE. VÍTIMA MAIOR DE 60 ANOS. COMPROVAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão vergastado não viabiliza a oposição dos aclaratórios.
+2. Quanto à omissão apontado (afastamento da agravante prevista no ar. 61, II, "h" do CP - vítima maior de 60 anos), deveria a defesa ter impugnado o vício após a decisão monocrática que não conheceu do habeas corpus. Não o fez naquela oportunidade, tampouco sustentou a matéria nas razões do agravo regimental, tendo, portanto, ocorrido a preclusão.
+3. Mesmo se assim não fosse, o documento hábil para se comprovar a idade da vítima não se restringe à certidão de nascimento ou carteira de identidade, sendo outros documentos dotados de fé pública igualmente idôneos para tal fim. (AgRg no AREsp n. 904.234/MG, relator Ministro Jorge Mussi, Quinta Turma, julgado em 18/8/2016, DJe de 26/8/2016.)
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados.
+Primeiramente, quanto à omissão apontado (afastamento da agravante prevista no ar. 61, II, "h" do CP - vítima maior de 60 anos), deveria a defesa ter impugnado a omissão após a decisão monocrática que não conheceu do habeas corpus. Não o fez naquela oportunidade, tampouco sustentou a matéria nas razões do agravo regimental, tendo, portanto, ocorrido a preclusão.
+Mesmo que assim não fosse, o acórdão impugnado está em harmonia com a jurisprudência deste Superior Tribunal de Justiça no sentido de que "A qualificação da vítima, ordem 02, fls. 12 do APFD, e o Boletim de Ocorrência (ordem 02, fls. 21), ambos documentos dotados de fé pública, apontam para sua idade avançada, muito superior aos 60 (sessenta) anos de idade, já à época dos fatos.", o que justifica a incidência da agravante.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PRETENDIDA ISENÇÃO DE PENA (ART. 181 DO CP). IMPOSSIBILIDADE DIANTE DA PRÁTICA DO DELITO CONTRA PESSOA COM IDADE SUPERIOR A 60 ANOS NA DATA DO FATO (ART. 183, III, DO CP). COMPROVAÇÃO DA CONDIÇÃO DE IDOSO. BOLETIM DE OCORRÊNCIA E TERMO DE OITIVA COM INDICAÇÃO DO NÚMERO DO RG, DATA DE NASCIMENTO E FILIAÇÃO. DOCUMENTOS DOTADOS DE FÉ PÚBLICA. IDONEIDADE. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. INCIDÊNCIA DO ENUNCIADO N.º 83 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Hipótese na qual no Boletim de Ocorrência e no Termo de Oitiva da Vítima constava o número de seu RG, data de nascimento e filiação, documentos considerados idôneos pela Instância a quo para comprovar sua condição de idosa na data dos fatos, apta a afastar a regra do art. 181 do Código Penal, por força do disposto no art. 183, III, do mesmo Codex.
+2. O aresto objurgado alinha-se a entendimento pacificado neste Sodalício no sentido de que o documento hábil para se comprovar a idade da vítima não se restringe à certidão de nascimento ou carteira de identidade, sendo outros documentos dotados de fé pública igualmente idôneos para tal fim.
+3. Incidência do óbice do Enunciado n.º 83 da Súmula do STJ, também aplicável ao recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+4. Não tendo o insurgente apontado qualquer julgado recente desta Corte Superior capaz de desconstituir a conclusão da decisão ora objurgada, esta deve ser mantida por seus próprios fundamentos.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 904.234/MG, relator Ministro Jorge Mussi, Quinta Turma, julgado em 18/8/2016, DJe de 26/8/2016.)
+Quanto ao segundo ponto - necessidade de perícia para demonstração do crime de extorsão -, o embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+De fato, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1339703/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+É como voto.
