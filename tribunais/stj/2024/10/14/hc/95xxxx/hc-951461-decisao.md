@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Flademir de Azevedo - condenado por estelionato simples a 1 ano e 2 meses de reclusão, em regime inicial aberto, substituída por restritivas de direitos, e a 11 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de Santa Catarina (fls. 43/48), não comporta processamento.
+Com efeito, busca a impetração o redimensionamento da pena imposta - na condenação proferida na Ação Penal n. 0001604-77.2018.8.24.0080 (fls. 495/74 - da Vara Criminal da comarca de Xanxerê/SC), alterada em grau de apelação -, com a aplicação da causa de diminuição de pena do estelionato privilegiado (art. 171, § 1º, CP), ao argumento de que o prejuízo causado à vítima foi de R$ 700,00, correspondente ao valor do cheque. E à época dos fatos (julho de 2017), o valor do salário mínimo correspondia a R$ 937,00 (fl. 6).
+Sem pedido liminar.
+Entretanto, não deve ser processada a impetração, pois o acórdão hostilizado foi publicado em data recente, estando em curso o lapso para interposição de recursos, o que impede o processamento do writ (AgRg no HC n. 873.533/ES, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe 15/3/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois, quanto à aplicação da forma privilegiada (art. 171, § 1º, do CP), o entendimento desta Corte é no sentido de que o salário mínimo pode ser adotado como parâmetro de referência para conceituar coisa de pequeno valor, não podendo, entretanto, ser adotado como critério de rigor aritmético. De todo modo, a estreita via do habeas corpus não é o instrumento adequado para a análise da tese ventilada, porquanto a alteração das conclusões adotadas pela instância a quo  ..  demanda aprofundado exame do conjunto probatório produzido (AgRg no HC n. 650.841/SC, de minha relatoria, Sexta Turma, julgado em 5/10/2021, DJe 13/10/2021).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS IMPETRADO NO PRAZO RECURSAL NA CAUSA PRINCIPAL. INADMISSIBILIDADE. ESTELIONATO SIMPLES. DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
