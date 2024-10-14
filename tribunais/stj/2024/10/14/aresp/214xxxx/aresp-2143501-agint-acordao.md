@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO. LOCAÇÃO. AÇÃO RENOVATÓRIA. INOVAÇÃO RECURSAL. INEXISTÊNCIA. PRETENSÃO DE ANÁLISE DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. AGRAVO IM PROVIDO.
+1. Agravo interno interposto contra decisão que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento. Ação renovatória de contrato de locação não residencial, em que o locatário não comprovou a regularização da área construída na matrícula do imóvel, conforme exigido pelo contrato e pela Lei n. 8.245/1991.
+2. A questão em discussão consiste em verificar se houve inovação recursal e se o descumprimento contratual impede a renovação do contrato de locação.
+3. O Tribunal a quo analisou argumentos já antecipados na contestação e apelação, não havendo inovação recursal.
+4. A Corte de origem concluiu que a pendência de regularização da área construída na matrícula do imóvel desautoriza a renovação contratual, conforme cláusulas contratuais e art. 71, inciso II, da Lei n. 8.245/1991.
+5. A análise das cláusulas contratuais e das provas dos autos é inviável em recurso especial, conforme Súmulas 5 e 7 do STJ.
+6. A divergência jurisprudencial não foi devidamente demonstrada, faltando o cotejo analítico necessário.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por BANCO SANTANDER (BRASIL) S.A. contra decisão monocrática de minha relatoria que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento nos termos da seguinte ementa (fl. 474):
+PROCESSUAL CIVIL E CIVIL. LOCAÇÃO AÇÃO RENOVATÓRIA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO. INOVAÇÃO RECURSAL. NÃO OCORRÊNCIA. CLÁUSULAS CONTRATUAIS. DESCUMPRIMENTO. PRETENSÃO DE REEXAME DE PROVAS E DE CLÁUSULAS. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
+Contra a referida decisão foram opostos embargos de declaração, que foram rejeitados nos seguintes termos (fl. 495):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE CONTRADIÇÃO. INOCORRÊNCIA. INOVAÇÃO RECURSAL. IRRELEVÂNCIA. PENDÊNCIA QUANTO À REGULARIZAÇÃO DO IMÓVEL. IMPOSSIBILIDADE DE RENOVAÇÃO CONTRATUAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 324):
+AÇÃO RENOVATÓRIA. Contrato de locação não residencial. SENTENÇA de procedência. APELAÇÃO dos locadores demandados, que insistem na improcedência, em razão de descumprimento do contrato pelo Banco locatário. EXAME: previsão contratual expressa de regularização da edificação e obra de adaptação nos órgãos competentes. Cumprimento da obrigação perante a Municipalidade demonstrado. Ausência, contudo, de regularização da área construída na Matrícula Imobiliária no Cartório de Registro de Imóveis competente. Requisito estabelecido no artigo 71, inciso II, da Lei 8.245/91 não atendido. Eventual discussão entre as partes e entraves burocráticos que não se prestam a justificar o não cumprimento do requisito legal para efeito de renovação compulsória. Questão que inclusive já havia inviabilizado renovação pela via judicial anteriormente apresentada pelo Banco locatário. Improcedência que era de rigor. Sentença reformada. RECURSO PROVIDO.
+Rejeitados os embargos de declaração opostos contra o acórdão recorrido (fls. 358-362).
+Alega a agravante, nas razões do agravo interno, que pretende demonstrar que os agravados deduziram, em sede de contestação, pedido expresso de parcial procedência da demanda e, posteriormente, modificaram para um pedido de improcedência.
+Aduz que foi devidamente comprovado o dissenso jurisprudencial.
+Sustenta, outrossim, que "a r. decisão agravada também merece reforma, pois aplicou de forma indevida as Súmulas 5 e 7 deste C. STJ no que tange a análise do direito do Agravante à renovação compulsória do contrato de locação" (fl. 510).
+Reitera a argumentação de que "o E. Tribunal "a quo" simplesmente ignorou o fato da regularização da área construída na matrícula do imóvel somente não ter ocorrido em razão dos Agravados se negarem a assinar a documentação necessária para prosseguimento do procedimento administrativo" (fl. 511).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 520-524).
+É, no essencial, o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO. LOCAÇÃO. AÇÃO RENOVATÓRIA. INOVAÇÃO RECURSAL. INEXISTÊNCIA. PRETENSÃO DE ANÁLISE DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. AGRAVO IM PROVIDO.
+1. Agravo interno interposto contra decisão que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento. Ação renovatória de contrato de locação não residencial, em que o locatário não comprovou a regularização da área construída na matrícula do imóvel, conforme exigido pelo contrato e pela Lei n. 8.245/1991.
+2. A questão em discussão consiste em verificar se houve inovação recursal e se o descumprimento contratual impede a renovação do contrato de locação.
+3. O Tribunal a quo analisou argumentos já antecipados na contestação e apelação, não havendo inovação recursal.
+4. A Corte de origem concluiu que a pendência de regularização da área construída na matrícula do imóvel desautoriza a renovação contratual, conforme cláusulas contratuais e art. 71, inciso II, da Lei n. 8.245/1991.
+5. A análise das cláusulas contratuais e das provas dos autos é inviável em recurso especial, conforme Súmulas 5 e 7 do STJ.
+6. A divergência jurisprudencial não foi devidamente demonstrada, faltando o cotejo analítico necessário.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Apesar do esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Consoante aludido na decisão agravada, quanto à alegada inovação recursal, não assiste razão ao recorrente, visto que o Tribunal analisou o argumento já antecipado na contestação (fl. 110) e repetido na apelação (fl. 293).
+Com efeito, o Tribunal de origem, ao dirimir a controvérsia, deixou claro que a pendência com relação à regularização, argumento que, como visto, já constava da contestação, por si só, já desautorizava a renovação pleiteada. Assim, torna-se irrelevante a análise acerca da alegada inovação recursal, que consistiria em esclarecer se os requeridos concordariam com a renovação contratual, o que já havia sido afastado na origem.
+Cabe complementar que os ora embargados também já haviam deixado claro em contestação que não aceitavam a proposta de renovação da locação pelo período de 60 (sessenta) meses, iniciando-se em 2/4/2020 e terminando em 1º/4/2025, pelo valor de R$ 22.400,00 (vinte e dois mil e quatrocentos reais). Assim, requereram a parcial procedência da ação "renovando-se a locação pelo valor locativo proposto pelos Requeridos" (fl. 112).
+A própria sentença já havia esclarecido que os requeridos não haviam oferecido resistência à renovação do contrato, "Todavia, afirmaram que o valor sugerido pelo autor não corresponde à realidade do mercado e requereram a fixação do locativo em R$ 60.000,00" (fl. 281).
+Após o exame pericial, ainda antes da prolação da sentença, os ora embargados manifestam-se contra o valor aferido em perícia (fls. 243-245) e requereram a improcedência da ação em razão do "descumprimento do estipulado na cláusula sexta do Contrato de Locação Primitivo e consequentemente a violação do inciso II do artigo 71 da 12.112/2009 que reformou a Lei 8.245/1991", entendendo que "o aumento de área não foi devidamente averbado pelo Requerente na matrícula do imóvel" (fl. 271).
+Evidente, portanto, que os argumentos analisados pelo Tribunal não surgiram apenas na apelação, mas já haviam sido antecipados na contestação (fl. 110), repetidos na impugnação à perícia (fls. 243-245 e 270-272), nas alegações finais (fls. 278-280) e, por fim, repetidos na apelação (fl. 293).
+Verifica-se, ademais, que o Tribunal de origem deu provimento ao apelo com base na verificação de não cumprimento, por parte do ora recorrente, das cláusulas do referido contrato de locação. A propósito, segue trecho do acórdão recorrido (fls. 326-327):
+No caso vertente, conforme previsto na cláusula sexta do contrato firmado entre as partes, "neste ato o locador, nomeia e constitui o locatário seu bastante procurador, a ele outorgando poderes específicos para obter perante os órgãos públicos competentes, especialmente a Prefeitura Municipal da localização do imóvel e suas secretarias, repartições federais e estaduais, Corpo de Bombeiros, CONTRU, Compresp, Condephaat, Departamento Histórico da União e Cartório de Registro de Imóveis, todas as aprovações de projetos, licenças, alvarás necessários à instalação de uma agência bancária, bem como o ramo de atividades das empresas de seu conglomerado econômico financeiro no Imóvel, podendo assinar plantas, projetos, requerimentos, enfim, praticar os atos pertinentes durante a vigência deste Contrato" ("sic", fls. 36/40).
+Restou incontroverso entre as partes que o Banco locatário fez construções no terreno locado, expandindo a área construída, que era de 50m , para 858m .
+Embora o Banco locatário tenha promovido a regularização da área construída nas Repartições competentes da Municipalidade (v. Certidão de Dados Cadastrais do Imóvel IPTU 2020, fl. 229), o fato é que ele não comprovou essa regularização na Matrícula do imóvel no Cartório de Registro de Imóveis competente (v. fls. 114/121).
+E, a despeito de eventuais entraves burocráticos ou discussões entre as partes para essa regularização, o fato é que essa pendência desautoriza, por oposição dos locadores, ora apelantes, a renovação pleiteada pelo Banco locatário, ora apelado, porquanto não preenchido o requisito consistente na prova do exato cumprimento do contrato em curso.
+Ressalta-se que esse problema já havia sido evidenciado por ocasião da Ação Renovatória nº 1016678-79.2014.8.26.0003, que foi julgada improcedente, tendo sido mantida a sentença em sede recursal.
+A modificação pretendida pelo recorrente, no sentido de entender cumpridos os requisitos do art. 71 da Lei n. 8.245/1991, especificamente o inciso II, demanda nova análise das cláusulas contratuais, o que esbarra no teor da Súmula 5/STJ. E a alegação de que "a regularização da área construída na matrícula do imóvel somente não ter ocorrido em razão dos Recorridos se negarem a assinar a documentação necessária para prosseguimento do procedimento administrativo" demandaria análise das provas dos autos, inviável em recurso especial, conforme o teor da Súmula 7/STJ.
+Por fim, quanto à divergência jurisprudencial, observa-se que deixou a recorrente de promover o devido cotejamento analítico, limitando-se a colacionar ementas de julgados que entendem acolher sua tese recursal. Assim, não se conhece do recurso especial neste aspecto.
+O próprio recorrente afirmou que restou "impossibilitado de confrontar as teses do acórdão recorrido com os paradigmas, já que o E. TJSP, ao dar provimento ao Recurso de Apelação interposto pelos Recorridos, optou por não emitir juízo de valor acerca da aludida inovação, mesmo diante da oposição dos Embargos de Declaração do Recorrente" (fl. 376).
+Nesse sentido, cito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO EM PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. PRESSUPOSTOS DE CABIMENTO DO PUIL. AUSÊNCIA DO COTEJO ANALÍTICO.
+1. Mostra-se inviável o conhecimento de incidente de uniformização "quando inexistir o cotejo das teses em discordância nos moldes descritos nos arts. 541 do Código de Processo Civil e 255 do Regimento Interno do Superior Tribunal de Justiça - RISTJ, os quais são aplicáveis à hipótese, por analogia" (AgRg na Pet n. 7.681/SC, rel. Min. Jorge Mussi, Terceira Seção, DJe 5/4/2010; Pet n. 9.554/SP, rel. Ministro Humberto Martins, Primeira Seção, DJe de 21/3/2013).
+2. Na hipótese, observa-se que a requerente se limitou a transcrever as ementas dos julgados indicados como paradigmas, sem proceder ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+3. Agravo interno não provido.
+(AgInt no PUIL n. 3.903/DF, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 17/9/2024, DJe de 20/9/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
