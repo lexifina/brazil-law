@@ -1,0 +1,1 @@
+Art. 17-C. O processo para a alteração da modalidade de participação no SPI de direta para indireta equipara-se a um processo de encerramento da Conta PI a pedido do titular, com manutenção de participação no arranjo Pix.
