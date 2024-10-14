@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Gurgel de Faria.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, todos os motivos da decisão ora agravada.
+3. Inexiste ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FRANCISCO GISELDO ALVES DIAS contra decisão de minha lavra, proferida às e-STJ fls. 783/801, em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, considerando a ausência de violação dos arts. 1.013 e 1.022 do CPC/2015 e a incidência das Súmulas 7 do STJ e 280 do STF.
+A parte agravante alega, repisando as razões do apelo nobre, que houve violação dos arts. 1.013 e 1.022 do CPC/2015, tendo em vista a ausência de análise pela Corte de origem acerca da suposta conduta ilegal do Município ora agravado que impõe à parte agravante a redução salarial; e que não incidem as Súmulas 280 do STF e 7 do STJ, uma vez que não é necessária a análise de lei local, nem de matéria fático-probatória.
+Sem impugnação (e-STJ fl. 805).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, todos os motivos da decisão ora agravada.
+3. Inexiste ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+VOTO
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1 .424.404/SP (Rel. Ministra Luis Felipe Salomão, julgado em 20/10/2021, DJe 17/1 1/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (quer dizer, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno merece ser conhecido apenas em parte.
+Com efeito, no decisum ora recorrido, conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, havendo os seguintes capítulos autônomos:
+a) ausência de ofensa aos arts. 1.013 e 1.022 do CPC/2015;
+b) incidência da Súmula 280 do STF, considerando que para constatar a ofensa ao art. 6º do Decreto n. 4.657/1942 (direito adquirido e ato jurídico perfeito) seria necessário o exame de legislação local (LC n. 36/2004 e n. 149/2012); e
+c) aplicação da Súmula 7 do STJ, tendo em vista que o Tribunal de origem decidiu a controvérsia relativa à existência da coisa julgada à luz do suporte fático-probatório, cuja revisão é inviável no âmbito do recurso especial.
+Contudo, da leitura das razões do agravo interno, observa-se que a parte agravante deixou de atacar devidamente os fundamentos relacionados às Súmulas 280 do STF e 7 do STJ.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão monocrática, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+No que tange à Súmula 280 do STJ, a parte se limitou a afirmar indistintamente que alegou violação à legislação federal, não sendo necessária a análise de lei local para solucionar as controvérsias do apelo nobre.
+Já c om relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório, o que não ocorreu no caso.
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, §1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+Quanto à alegada negativa de prestação jurisdicional acerca da suposta conduta ilegal do Município ora agravado que impõe à parte agravante a redução salarial, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+No caso, o Tribunal de origem decidiu integralmente a controvérsia, no sentido de que "a questão referente à correção dos vencimentos do apelante, com base no que prevê a Lei Complementar nº 036/2004, encontra-se decidida e acobertada pelo manto da coisa julgada, por força da sentença proferida na ação declaratória c/c cobrança (autos nº 5455926-53.2019.8.09.0087, transitada em julgado" (e-STJ fl. 586), motivo pelo qual não é possível a rediscussão do tema em nova ação judicial.
+O acórdão integrativo acrescentou, ainda, que, "assim, é de se concluir que todas as argumentações e defesas, suscitadas ou não pela parte, fazem coisa julgada, não sendo possível que futuras arguições tenham o poder de modificá-las, regra essa, inclusive, aplicável à tese referente à retroação da Lei Complementar n. 149/2012, uma vez que, ao tempo da propositura da primeira ação (30/07/2019), referida lei já existia, não podendo constituir novo fundamento para discussão da mesma causa, mesmo que em ação diversa" (e-STJ fl. 637).
+Dessa forma, constata-se que não houve negativa de prestação jurisdicional, tendo em vista que as instâncias ordinárias entenderam pela existência de coisa julgada que impede a rediscussão da causa, ainda que à luz de outras argumentações e defesas.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, CONHEÇO EM PARTE do agravo interno e, nessa extensão, NEGO-LHE PROVIMENTO.
+É como voto.
