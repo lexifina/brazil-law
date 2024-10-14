@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ALEGAÇÃO DE FATO NOVO EM AGRAVO INTERNO. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Está correta a decisão ao observar que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. A análise acerca do alegado fato novo indicado pelo agravante, para além de constituir inovação recursal, carece do requisito indispensável de prequestionamento, de forma que sua análise importaria em supressão de instância
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Levy Sebastião Rocha Pires desafiando a decisão de fls. 741/748, que negou provimento ao agravo em recurso especial, com base nos seguintes fundamentos: (I) não restou configurada a negativa de prestação jurisdicional; (II) no que toca ao § 2º, do art. 1.023, do CPC, a intimação da parte embargada para se manifestar sobre os aclaratórios somente é indispensável se o seu eventual acolhimento implicar a modificação do decisório embargado; e (III) incidência da Súmula 7/STJ, no que toca à análise das provas existentes nos autos.
+Inconformada, sustenta a parte agravante, que "não se trata das vicissitudes de produção da prova, mas da responsabilidade pela elaboração do LTCAT, do PPP e da suficiência deste último, para fins de comprovação de exercício de atividades em condições especiais  ..  A decisão agravada, data vênia, deixou de considerar o comportamento contraditório do Estado de Goiás que, além de não ter cumprido seu dever de elaborar esses documentos, teve a pachorra de vir a Juízo alegar a sua própria torpeza, consistente na ausência e ou ineficiência deles" (fls. 766/767).
+As partes agravadas apresentaram impugnações às fls. 829/838 e 839/846.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ALEGAÇÃO DE FATO NOVO EM AGRAVO INTERNO. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Está correta a decisão ao observar que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. A análise acerca do alegado fato novo indicado pelo agravante, para além de constituir inovação recursal, carece do requisito indispensável de prequestionamento, de forma que sua análise importaria em supressão de instância
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como asseverado no decisum, o acórdão combatido manifestou-se nos seguintes termos:
+Da análise dos autos, contudo, verifico que, em que pese o apelado demonstre ter recebido adicional de insalubridade durante todo o período laborado, não comprovou ter exercido "trabalho permanente, não ocasional nem intermitente, em condições especiais", ou seja, em "exposição aos agentes nocivos químicos,
+físicos, biológicos ou associação de agentes prejudiciais à saúde ou à integridade física" (art.57, caput e §§ 3º e 4º).
+Desse modo, não é automático o reconhecimento de tempo especial em virtude, exclusivamente, do percebimento do adicional de insalubridade.
+ ..
+Por outro lado, o apelado juntou com a peça preambular o seu PPP, porém as informações ali contidas, bem como os demais conteúdos nele prescritos, não comprovam a intermitente exposição a agentes nocivos prejudiciais à saúde ou à integridade física.
+ ..
+Assim, é certo que se fazia necessária a comprovação pelo autor de trabalho em condição especial, fato gerador da aposentadoria pretendida, ônus do qual não se desincumbiu, a teor do art. 373, I, do CPC (fls. 429/430).
+Noutro ponto, quanto a alegação de cerceamento de defesa, convém trazer à baila a seguinte manifestação do embargante no momento de especificar provas, oportunizado pelo magistrado primevo (mov.37), " O autor requer o julgamento antecipado da lide, por entender que o idôneo Perfil Profissiográfico Previdenciário -PPP, juntado com a petição inicial e os contracheques, é prova documental suficiente a comprovar a condição de insalubridade alegada como fundamento de fato de seu direito, tal entendimento vai de encontro com o do (STJ; 1a Seção; Pet.10.262/RS). Esta conclusão é reforçada também pelo pagamento, pelo Estado de Goiás, de adicional de insalubridade há vários anos para todos os médicos do Banco de Sangue - Hemocentro de Goiás, entre eles o autor como demonstrado em seus contracheques. Entretanto, considerando que o destinatário da prova é a autoridade judiciária, caso Vossa Excelência entenda pela necessidade, o autor requer a produção de prova pericial, a ser realizada por médico do trabalho, a fim de ser aferir a condição de insalubridade do trabalho dos médicos no seu local de trabalho - o Hemocentro de Goiás."
+Dito isso, registro que não vinga a alegação do embargante, em virtude da dispensa de perícia no caso concreto, uma vez que colacionado ao álbum processual os documentos exigidos pela lei e a matéria é eminentemente de direito, despicienda, portanto, a realização de perícia.
+Assim, tenho comigo que o embargante não se desincumbiu do ônus de demonstrar o prejuízo decorrente da não produção de tal prova, isto é, de que maneira eventual perícia poderia, independentemente das provas constantes dos autos, ser relevante para o deslinde da causa (fl. 464 - grifo nosso).
+Desta feita, está correta a decisão ao observar que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. TEMPO DE SERVIÇO ESPECIAL. PPP. EFICÁCIA PROBATÓRIA. EXPOSIÇÃO A AGENTES BIOLÓGICOS. NÃO COMPROVAÇÃO. REEXAME. IMPOSSIBILIDADE.
+1. Segundo a jurisprudência desta Corte, para efeito de contagem de tempo especial, ainda que não se exija a exposição ininterrupta do trabalhador ao fator de risco, necessária se faz a comprovação do requisito legal da habitualidade.
+2. A orientação deste Tribunal é a de reconhecer a eficácia probante do perfil profissiográfico profissional, que espelha as informações contidos no laudo técnico da empresa, desde que não seja contestado.
+3. Caso em que o Tribunal de origem concluiu pela não especialidade da atividade exercida pela parte autora diante das informações extraídas no perfil profissiográfico previdenciário no sentido de que o recorrente trabalhava em atividades administrativas, sem exposição ou contato habitual a agentes biológicos, tendo em vista sua atividade de agente de segurança patrimonial, de modo que a inversão do julgado demandaria o reexame de prova, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 2.182.648/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/3/2024, DJe de 14/3/2024.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. TEMPO DE SERVIÇO. ATIVIDADE ESPECIAL. PRESSÃO ATMOSFÉRICA NÃO COMPROVAÇÃO. REEXAME. IMPOSSIBILIDADE.
+1. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. Caso em que o Tribunal de origem decidiu a questão pertinente à não comprovação do tempo de serviço de atividade especial, em razão da exposição ao agente nocivo "pressão atmosférica", com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos (PPP), de modo que a inversão do julgado demandaria o reexame de prova.
+3. Agravo interno desprovido.
+(AgInt no AREsp 2.225.930/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+PREVIDENCIÁRIO. AGRVO INTERNO EM RECURSO ESPECIAL. APOSENTADORIA. TEMPO DE SERVIÇO ESPECIAL. COMPROVAÇÃO. NECESSIDADE DE LAUDO TÉCNICO. NÃO RECONHECIMENTO PELO TRIBUNAL. ALTERAÇÃO DO JULGADO. SÚMULA N. 7/STJ.
+1. A negativa de reconhecimento de tal período como especial não se deu em razão da ausência de laudo técnico, mas sim em razão de ausência de registro, no PPP, de exposição permanente a agente nocivo.
+2. Nos termos da jurisprudência desta Corte, até o início da vigência da Lei n. 9.032/1995, é possível o reconhecimento do tempo de serviço especial em face do enquadramento na categoria profissional do trabalhador. No entanto, a partir dessa lei, a comprovação da atividade especial se dá por meio dos formulários SB-40 e DSS-8030, expedidos pelo INSS e preenchidos pelo empregador, situação modificada com a Lei n. 9.528/1997, que passou a exigir laudo técnico.
+3. No labor exercido em data posterior à Lei 9.032/1995, não é possível o reconhecimento da especialidade por enquadramento, devendo ser demonstrada a efetiva exposição, o que não ocorreu no caso.
+4. Não é possível alterar essa conclusão em razão do óbice da Súmula n. 7/STJ (A pretensão de simples reexame de prova não enseja recurso especial).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.583.547/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 15/8/2022, DJe de 22/8/2022.)
+Ademais, acerca do alegado fato novo indicado pelo agravante, qual seja, o de que houve o reconhecimento administrativo de insalubridade das atividades relativas ao período de 11/7/1986 até a EC 103/2019, bem como do deferimento do pedido de aposentadoria com paridade e integralidade, para além de se tratar de inovação recursal, carece a matéria do indispensável requisito do prequestionamento, de forma que sua análise importaria em supressão de instância.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. NÃO CONHECI MENTO DO AGRAVO EM RECURSO ESPECIAL. INTELIGÊNCIA DOS ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. ALEGAÇÃO DE FATO NOVO NAS RAZÕES DE AGRAVO INTERNO. INOVAÇÃO RECURSAL. DESCABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Da análise do agravo de fls. 1530/1541 (e-STJ), verifica-se que o agravante não impugnou, especificamente, todos os fundamentos da decisão agravada, de modo que o agravo em recurso especial não mereceu conhecimento, haja vista a incidência do inciso V do art. 21-E do RISTJ.
+2. "Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível".
+(AgInt no AREsp 600.416/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 10/11/2016, DJe 18/11/2016).
+3. "Acerca do alegado fato novo noticiado pelo agravante com a juntada de documento na interposição do agravo interno, para além de tratar-se de inadmissível inovação recursal, tampouco seria dado a este Tribunal deliberar, em primeira mão, sobre o seu conteúdo, haja vista envolver discussão sobre matéria probatória, o que lhe é vedado na via recursal especial, conforme assentado na Súmula n. 7/STJ". (AgInt no AgInt no AREsp n. 2.210.235/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 2.080.397/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/6/2024, DJe de 1º/7/2024.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
