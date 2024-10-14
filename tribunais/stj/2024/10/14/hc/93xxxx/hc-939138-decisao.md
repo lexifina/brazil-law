@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CLEONALDE TRABACH OLYMPIO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, na Apelação Criminal n. 0002329-09.2018.8.08.0049.
+Consta dos autos que o paciente foi condenado às penas de 12 (doze) anos, 07 (sete) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, e 1.258 (mil duzentos e cinquenta e oito) dias-multa pela prática do delito previsto no art. 33, caput, c/c o art. 40, inciso III, ambos da Lei n. 11.343/2006.
+Em segunda instância, o Tribunal deu parcial provimento ao apelo defensivo para ajustar o aumento da pena-base, redimensionando a reprimenda para 11 (onze) anos e 03 (três) meses de reclusão e 951 (novecentos e cinquenta e um) dias-multa.
+A impetrante sustenta a ocorrência de constrangimento ilegal em virtude de vício de motivação, consistente no emprego de fundamentos genéricos na decisão, ao não reconhecer a necessidade de diminuição da pena-base ao mínimo legal, com o afastamento da incidência das circunstâncias judiciais negativas valoradas com base no art. 42 da Lei n. 11.343/2006.
+Aduz que a incidência da causa de aumento de pena prevista no art. 40, III, da Lei de Drogas em fração superior a 1/6 (um sexto) não foi fundamentada.
+Requer, liminarmente e no mérito, a concessão da ordem para que a pena do paciente seja redimensionada nos termos delineados na impetração.
+Liminar indeferida (fls. 26-27).
+As informações foram prestadas às fls. 34-43.
+O Ministério Público Federal opinou pelo não conhecimento do writ, caso conhecido, pela denegação da ordem (fls. 47-54).
+É o relatório.
+DECIDO.
+Inicialmente,  pontuo  que  esta  Corte  Superior,  seguindo  o  entendimento  do  Supremo  Tribunal  Federal  (AgRg  no  HC  n.  180.365,  Primeira  Turma,  rel.  Min.  Rosa  Weber,  julgado  em  27/03/2020,  e  AgRg  no  HC  n.  147.210,  Segunda  Turma,  rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018),  pacificou  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado  (HC  n.  535.063/SP,  Terceira  Seção,  rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020).
+Contudo, no tocante à dosimetria, verifico a existência de ilegalidade flagrante, a ensejar a concessão da ordem de ofício por esta Corte Superior, por força do art. 654, § 2º, do Código de Processo Penal.
+É que, no caso, o Juízo sentenciante, ao individualizar a pena do paciente, consignou os seguintes fundamentos (fls. 21-22; grifamos):
+A culpabilidade foi usual para o tipo.
+Os antecedentes estão maculados, já que no caso concreto o acusado mereceu condenação, com trânsito em julgado, por tráfico de drogas nos autos de n.º 0002629-68.2018.8.08.0049 e nos autos de n.º 0015475-30.2012.8080049, por lesão corporal (condenações posteriores aos fatos ora apurados), na forma do entendimento do STJ (AgRg no HC 675858/SP).
+Não há elementos fidedignos acerca de sua conduta social e personalidade, pelo que deixo de aquilatar esses dados, face à ausência de provas coerente nos autos.
+Os motivos do crime - o "lucro fácil" - são ínsito ao tipo. No tocante às circunstâncias do crime, igualmente não entendo serem elas desfavoráveis ao acusado.
+Com relação à natureza da droga - os popularmente conhecidos "crack" e "cocaína" (ambos cloridrato do alcalóide extraído da planta do gênero Erythroxylon coca) - são de um efeito devastador sobre a sociedade, figurando como verdadeiro problema de saúde e de segurança pública, para o qual o requerido apenas contribuiu negativamente.
+Com relação à quantidade da substância, entendo que o montante apreendido - duas "pedras" e seis "pinos" - não são de volume pujante.
+As consequências do crime, embora graves, já são punidas pela própria normatividade do tipo penal. Por fim, anoto que não há como se valorar o comportamento da vítima, que se trata da coletividade, razão pela qual reputo neutros ambos elementos.
+Portanto, arbitro a pena base para o delito em questão em 8 anos e 5 meses de reclusão e 840 dias-multa.
+Não havendo atenuantes ou agravantes, aplico a causa aumento de pena da legislação especial, para reconhecer uma sanção definitiva de 12 anos, 7 meses e 15 dias de reclusão e 1258 dias-multa, calculando-se a multa à luz de 1/30 do salário mínimo vigente à época do fato por dia imposto, em razão da ausência de elementos de situação econômica superior.
+Como se vê, a fixação da pena-base do acusado acima do mínimo legal ocorreu devido aos antecedentes do réu e à natureza do entorpecente. No entanto, a quantidade de droga apreendida - como bem destacado na sentença - não tem o condão de demonstrar, por si só, maior reprovabilidade da conduta delituosa prevista no art. 33, caput, da Lei n. 11.343/2006.
+Ademais, a natureza da droga apreendida, isoladamente considerada, não constitui fundamento suficiente para majorar a pena-base. As circunstâncias da natureza e a quantidade de drogas, previstas no art. 42 da Lei n. 11.343/2006, devem ser avaliadas proporcional e conjuntamente, conforme as peculiaridades do caso concreto.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. AUMENTO MANIFESTAMENTE DESPROPORCIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora a quantidade e a natureza da substância entorpecente constituam circunstâncias preponderantes a serem consideradas na dosimetria da pena a teor do que estabelecido no art. 42 da Lei n. 11.343/2006 e não obstante o crack seja, de fato, dotada de alto poder viciante, a quantidade de drogas apreendidas com o agravante não foi tão elevada, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas tais circunstâncias para justificar a exasperação da pena-base.
+2. Agravo regimental não provido.
+(AgRg no HC n. 669.398/SC, rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/10/2021, DJe 28/10/2021, grifamos).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. AUMENTO DA PENA-BASE. LESIVIDADE DA DROGA. QUANTIDADE NÃO EXORBITANTE (84,74G DE CRACK). CONSTRANGIMENTO ILEGAL EVIDENCIADO. PENA REDIMENSIONADA NA PRIMEIRA FASE DA DOSIMETRIA.
+1. Não obstante a lesividade da droga, a referida quantidade de substância ilícita, apesar de relevante, não se mostra exorbitante a ponto de justificar o recrudescimento da pena-base. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no HC n. 676.140/SP, rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/06/2022, DJe de 27/06/2022).
+Dito de outro modo, a natureza e a quantidade da droga são elementos que integram um vetor judicial único, não sendo possível cindir a sua análise. Somente quando examinadas em conjunto será possível ao julgador compreender adequadamente a gravidade concreta do fato e proceder à devida individualização da reprimenda, que é o objetivo almejado pelo legislador com as disposições do art. 42 da Lei n. 11.343/2006.
+Acerca do tema, já decidiu o Supremo Tribunal Federal:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. PRESENTE SITUAÇÃO APTA A EXCEPCIONAR ESSE ENTENDIMENTO. DOSIMETRIA DA PENA. QUANTIDADE E NATUREZA DA DROGA. VETOR ÚNICO. VALORAÇÃO NEGATIVA DA QUANTIDADE DA DROGA NA PRIMEIRA FASE E DA NATUREZA NA TERCEIRA FASE DA DOSIMETRIA. BIS IN IDEM. OCORRÊNCIA.
+1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal, ressalvado, nesta última hipótese, serem os fatos incontroversos e presente situação excepcional de flagrante ilegalidade ou teratologia que autorize a concessão da ordem de ofício (HC 139.741/DF, Rel. Min. Dias Toffoli, Segunda Turma, DJe 12.4.2019, v.g.).
+2. A natureza e a quantidade da droga devem ser analisadas conjuntamente, nos termos do art. 42 da Lei 11.343/2006.
+3. Inadmissível considerar separadamente, em fases distintas da dosimetria da pena, a natureza e a quantidade, por constituírem circunstância judicial única, portanto, incindível, pois somente quando avaliadas em conjunto - natureza e quantidade - será possível exercer juízo valorativo adequado e atingir os fins almejados pelo legislador.
+4. Detectada a ocorrência de bis in idem por terem as instâncias anteriores valorado negativamente a quantidade da droga na primeira fase e a sua natureza na terceira fase da dosimetria.
+5. A jurisprudência dominante desta Suprema Corte é no sentido de que as circunstâncias da natureza e da quantidade de droga apreendida com o acusado de tráfico devem ser levadas em consideração apenas em uma das fases da dosimetria da pena. Precedentes.
+6. Agravo regimental conhecido e não provido.
+(AgRg no RHC n. 169.343, rel. Ministra Rosa Weber, Primeira Turma, julgado em 08/06/2021, DJe de 25/06/2021, grifamos).
+Dessa forma, na primeira fase da dosimetria, deve ser mantido apenas o aumento decorrente dos maus antecedentes.
+No mais, observo que a Corte de origem, ao estabelecer a pena na terceira fase da dosimetria, destacou (fl. 16; grifamos):
+Na terceira fase, reconhecida a prática da causa de aumento do art. 40, inciso III, ambos da Lei nº 11.343/06, aumenta-se a pena em  , fixando-a definitivamente em 11 (onze) anos e 03 (três) meses de reclusão e 951 (novecentos e cinquenta e um) dias-multa.
+Como se vê, a fração escolhida pelo Tribunal para a causa de aumento de pena do artigo 40, III, da Lei n. 11.343/2006 não foi fundamentada, estando em desacordo com a jurisprudência desta Corte de que
+a aplicação das majorantes previstas no art. 40 da Lei de Drogas exige motivação concreta, quando estabelecida acima da fração mínima, não sendo suficiente a mera indicação do número de causas de aumento, em analogia ao disposto na Súmula 443 do STJ (AgRg no AREsp n. 2.576.869/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/05/2024, DJe de 23/05/2024).
+Passo a redimensionar as penas do paciente.
+Na primeira fase de aplicação da pena, tendo em vista a fundamentação acima exposta - manutenção apenas do aumento operado em razão dos maus antecedentes -, fixo a pena-base em 05 (cinco) anos e 10 (dez) meses de reclusão, além do pagamento de 583 (quinhentos e oitenta e três) dias-multa.
+Na segunda etapa, não há agravantes e atenuantes.
+Na terceira fase, incide a causa de aumento do art. 40, III, da L ei de Drogas na fração de 1/6 (um sexto), motivo pelo qual a pena fica definitivamente fixada em 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão, além do pagamento de 680 (seiscentos e oitenta) dias-multa, no valor unitário.
+Como se vê, embora a reprimenda aplicada não seja superior a 08 (oito) anos, a pena-base foi fixada acima do mínimo legal em virtude da negativação do vetor referente aos antecedentes. Com efeito, nos termos da pacífica jurisprudência deste Sodalício,  n ão há ilegalidade na imposição de regime inicial fechado ao réu condenado a pena inferior a 8 anos se presente circunstância judicial desfavorável, nos termos dos arts. 33, §§ 2º, "c", e 3º, e 59 do Código Penal (AgRg no HC n. 667.860/SP, rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/06/2021, DJe de 28/06/2021).
+Ante o exposto, não conheço do habeas corpus, contudo, concedo a ordem de ofício a fim de reduzir a exasperação da pena-base do p aciente, bem como readequar a terceira fase da dosimetria, redimensionado a reprimenda nos limites desta decisão, mantidos os demais termos da condenação.
+Publique-se e intimem-se.
+EMENTA
