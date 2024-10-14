@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  sem  pedido  liminar,  impetrado  em  favor  de DJONATA CORREA NEVES ,  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL DE SANTA CATARINA,  na  Apelação  Criminal  n.  0002036-19.2017.8.24.0020.
+Consta  dos  autos  que  o  paciente  foi  condenado  às penas de 02 (dois) anos, 08 (oito) meses e 20 (vinte) dias de reclusão, em regime inicialmente fechado, além de 11 (onze) dias-multa, pela prática do crime previsto no art. 155, § 4º, inciso I, do Código Penal.
+O  Tribunal  de  origem  negou provimento à apelação defensiva.
+Neste  writ,  a  impetrante  sustenta  a  ocorrência  de  constrangimento  ilegal,  visto que  não há laudo técnico específico sobre a materialidade da qualificadora do arrombamento, tampouco houve apresentação de justificativa sobre a impossibilidade de apresentação do laudo específico (fl. 6).
+Sustenta a possibilidade de fixação de regime semiaberto para o resgate da pena.
+Requer a concessão da ordem para que seja afastada a qualificadora de rompimento de obstáculo e fixado regime menos gravoso.
+Informações  prestadas  às  fls.  466-510 e 511-528.
+O  Ministério  Público  Federal  opinou  pela denegação da ordem  (fls.  530-534).
+É  o  relatório.
+DECIDO.
+Inicialmente,  pontuo  que  esta  Corte  Superior,  seguindo  o  entendimento  da  Primeira  Turma  do  Supremo  Tribunal  Federal  (AgRg  no  HC  n.  180.365,  Primeira  Turma,  rel.  Min.  Rosa  Weber,  julgado  em  27/03/2020,  e  AgRg  no  HC  n.  147.210,  Segunda  Turma,  rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018),  pacificou  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado  (HC  n.  535.063/SP,  Terceira  Seção,  rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020).
+Na  espécie,  verifico  que  não  há  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício,  visto  que,  o  Tribunal  a  quo,  soberano  na  análise  do  acervo  probatório,  atestou  categoricamente  que  há  provas  robustas  quanto  ao  meio  empregado  no  delito  praticado  pelo  réu  (rompimento  de  obstáculo).
+Cabe  destacar  que,  embora  a  incidência  das  qualificadoras  previstas  no  art.  155,  §  4.º,  I  e  II,  do  Código  Penal,  dependa,  em  regra,  da  confecção  de  laudo  pericial,  em  situações  excepcionais  é  possível  reconhecê-las,  mesmo  sem  a  produção  da  prova  técnica,  desde  que  devidamente  comprovado  o  rompimento  de  obstáculo  ou  a  escalada,
+como  no  caso,  por  meio  de  robusto  conjunto  probatório,  no  qual  foram  juntadas  fotografias,  além  dos  depoimentos  realizados  na  fase  judicial,  a  dispensar  no  caso  específico  a  realização  de  laudo  pericial  (AgRg  no  HC  n.  663.991/SC,  Rel.  Ministro  Joel  Ilan  Paciornik,  Quinta  Turma,  julgado  em  10/05/2022,  DJe  12/05/2022).
+Por fim, constata-se que o regime inicial fechado foi mantido dada a presença de circunstância judicial desfavorável na primeira fase da dosimetria da pena (maus antecedentes) e o fato de o paciente ser reincidente.
+Ao assim decidir, verifica-se que o entendimento do Colegiado local está em consonância com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que a existência de circunstância judicial desfavorável, somada à reincidência, é suficiente para manter o regime inicial fechado, apesar de a pena aplicada ser inferior a 4 anos de reclusão. Inaplicabilidade da Súmula 269/STJ" (HC 218.506/SC, Rel. Min. SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 28/03/2012) (AgRg no HC n. 626.351/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/12/2020)" (AgRg no REsp n. 1.928.310/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/11/2021, DJe de 19/11/2021).
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
