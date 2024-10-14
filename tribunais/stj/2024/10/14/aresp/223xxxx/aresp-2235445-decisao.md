@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO que inadmitiu o recurso especial interposto pelo BRAZORE - REPRESENTAÇÃO, IMPORTAÇÃO, EXPORTAÇÃO E CONSULTORIA LTDA em face do acórdão assim ementado:
+APELAÇÃO. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. TAXA ANUAL POR HECTARE. MULTA. PARCELAMENTO. CESSÃO DOS DIREITOS MINERÁRIOS. NÃO PAGAMENTO DO PARCELAMENTO. RESPONSABILIDADE DO CEDENTE. - Trata-se de adesão a parcelamento de débito efetuado antes da cessão de direitos minerários. Assim, o cerne da controvérsia consiste em definir se subsiste responsabilidade ao cedente de título minerário pelo pagamento de multas autuadas e objeto de parcelamento em data anterior à cessão dos direitos minerários. - Aderindo ao parcelamento, o devedor confessa expressamente a dívida, e, de acordo com o Código de Mineração (Decreto- Lei nº 227/67), os atos de cessão e transferência apenas se tornam válidos com a averbação na ANM. - Além disso, a taxa anual por hectare -TAH tem natureza jurídica de preço público, remunerando a União pela utilização de bem que lhe pertence, sendo devida por quem utiliza o bem, não podendo ter natureza propter rem. A adesão a parcelamento não configura adimplemento do débito. - A TAH e a multa decorrente de seu não pagamento, portanto, são obrigações pessoais devidas pelo titular da autorização de pesquisa até a entrega do relatório final dos trabalhos à ANM. - Assim, se à época das autuações a apelante era a titular dos direitos minerários, é sua a responsabilidade pelo pagamento das multas impostas, consoante art. 22, II do Decreto-Lei nº 227/67, não cabendo a transferência ao cessionário tal encargo, porquanto, tal dívida não possui o alegado caráter propter rem. - Apelação não provida (fls. 391-392).
+É o relatório.
+Inicialmente, registro que, da análise dos pressupostos recursais, restou constatado que os causídicos signatários das razões recursais renunciaram ao mandato judicial para atuar nos autos (fls. 507-540), o que ensejou a intimação da parte para a devida regularização (fl. 543), transcorrendo, contudo, "in albis" o prazo fixado no despacho lançado por este relator (fl. 550).
+Consoante disposto sobre a incapacidade processual em sede recursal, dispõe o art. 76 do Código de Processo Civil:
+Art. 76. Verificada a incapacidade processual ou a irregularidade da representação da parte, o juiz suspenderá o processo e designará prazo razoável para que seja sanado o vício.
+(..)
+§ 2º Descumprida a determinação em fase recursal perante tribunal de justiça, tribunal regional federal ou tribunal superior, o relator:
+I - não conhecerá do recurso, se a providência couber ao recorrente;
+II - determinará o desentranhamento das contrarrazões, se a providência couber ao recorrido.
+Logo, não sendo sanado o vício de representação processual pelo agravante, apesar de devidamente intimado (fl. 547), tem-se por inexistentes os atos praticados pelo subscritor das razões de recurso.
+Nesse sentido: AREsp n. 1.777.732, Ministro Marco Buzzi, DJe de 01/12/2021; AgInt no AREsp n. 1.492.006/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/10/2020, DJe de 29/10/2020.
+Isso posto, com fundamento no art. 932, III, do Código de Processo Civil, não conheço do presente recurso.
+Custas, ex lege.
+EMENTA
