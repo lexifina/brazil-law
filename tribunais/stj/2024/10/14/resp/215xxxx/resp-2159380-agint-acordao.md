@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. REDUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS PELA METADE. INCIDÊNCIA DO ART. 90, § 4º, DO CPC. REEXAME DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ.
+1. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Precedentes.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Estado de Santa Catarina desafiando a decisão que não conheceu do recurso especial, ante a incidência da Súmula 7/STJ (fls. 104/107).
+Em suas razões, a parte recorrente defende a inaplicabilidade do referido óbice, sob o argumento de que "a propósito, como se pode inferir, a análise da pretensão recursal demandará apenas a revaloração do contexto fático-probatório incontroverso já delineado pelo Tribunal local na fundamentação do julgado, notadamente em relação à seguinte circunstância, qual seja: impugnação à execução de sentença versando sobre servidor público. Não há a necessidade de que, para o reconhecimento da procedência da pretensão recursal veiculada, ocorra reexame de fatos ou de provas, o que é vedado na via especial. Em verdade, o que se pede é que, respeitados os contornos fáticos já delineados na decisão proferida pela Corte de origem, esse Superior Tribunal de Justiça atribua nova qualificação jurídica a eles, aplicando, de forma adequada, o direito à hipótese. Deve ser afastado, particularmente, o óbice da Súmula 7 do STJ, porquanto inadequado ao caso dos autos, uma vez que a análise dos fundamentos recursais é restrita a aplicação de dispositivo infraconstitucional. Vale dizer, não se mostra necessário adentrar no reexame de provas, mas, ao contrário, tão-somente verificar a subsunção da lei federal ao caso, situação essa contrariada pelo r. acórdão recorrido" (fl. 111).
+No mais, reitera as razões do apelo especial.
+Impugnação às fls. 118/129.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. REDUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS PELA METADE. INCIDÊNCIA DO ART. 90, § 4º, DO CPC. REEXAME DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ.
+1. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Precedentes.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como antes asseverado, o Tribunal de origem concluiu que é cabível a redução dos honorários advocatícios pela metade, com base na seguinte fundamentação (fls. 43/44 - g.n.):
+ ..
+Clama o agravante que não se aplica o art. 90, § 4º, do CPC, ao caso, pois "a) não teve qualquer reconhecimento do pedido pelo réu, que, na verdade, saiu vencedor; b) não houve qualquer tipo de cumprimento simultâneo da obrigação reconhecida, já que o exequente não foi condenado a qualquer obrigação passível ser cumprida naquele momento; c) a prática do ato não foi pelo réu (executado, Estado), mas sim pelo autor (exequente)", de sorte que "a situação se aproxima mais do conceito de desistência" do credor, e "se quando o exequente desiste da ação ele se encontra sujeito aos honorários de sucumbência", não deveria ser "diferente ao desistir de parte do pedido" (e. 1.1,  .3).
+Diz o art. 90, § 4º, do CPC, que "Se o réu reconhecer a procedência do pedido e, simultaneamente, cumprir integralmente a prestação reconhecida, os honorários serão reduzidos pela metade". Esta Câmara já decidiu que é cabível "a redução de honorários advocatícios quando a parte ré reconhece total ou parcialmente os pedidos do autor. De fato, analisando-se o cumprimento de sentença verifica-se ter a parte impugnada reconhecido parcialmente os pedidos suscitados pelo Estado, sendo devida a redução dos honorários advocatícios fixados no acórdão embargado. Na espécie, entretanto, como o reconhecimento da procedência foi parcial, deve-se aplicar a regra contida no § 1º, do mesmo art. 90 do CPC" (TJSC, Embargos de Declaração n. 4025829- 08.2019.8.24.0000, da Capital, rel. Des. Pedro Manoel Abreu, Primeira Câmara de Direito Público, j. 11-2-2020). Veja-se:
+ ..
+No caso, o servidor reconheceu a totalidade do pedido formulado pelo Instituto de Previdência do Estado de Santa Catarina - Iprev na impugnação à execução de sentença, o que atrai a aplicação do art. 90, § 4º, do CPC. Logo, é cabível a redução da verba advocatícia sucumbencial pela metade.
+Portanto, não há reparos a se fazer na decisão.
+Nesse contexto, inarredável a incidência da Súmula 7/STJ ao caso, pois a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CONCORDÂNCIA. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. CABIMENTO. APLICABILIDADE DO ART. 90, § 4º, DO CPC/2015. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. O STJ já se manifestou no sentido de que é cabível a redução dos honorários advocatícios sucumbenciais pela metade, prevista no art. 90, § 4º, do CPC/2015, quando a parte exequente concordar com a exceção de pré-executividade e, de imediato, pedir a extinção do feito executivo.
+3. Acolher a pretensão recursal, em detrimento da conclusão do Tribunal de origem, com o intuito de constatar a ausência de direito à redução da verba honorária pela metade, necessária seria a incursão no acervo fático-probatório dos autos, o que é vedado na via do Recurso Especial, ante o óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 2.220.922/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/8/2024, DJe de 28/8/2024. g.n.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. EXECUÇÃO PARA ENTREGA DE COISA CERTA. COMPRA E VENDA DE CANA-DE-AÇÚCAR. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. HONORÁRIOS RECURSAIS. DESNECESSIDADE DE CONTRARRAZÕES. REDUÇÃO DA VERBA HONORÁRIA. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A necessidade de impugnação específica - prevista no art. 932, III, do CPC/2015 e Súmula 182/STJ - não se aplica ao fundamento relativo à violação de norma constitucional, pois se trata de matéria a ser apreciada no recurso extraordinário. Com isso, reconsidera-se a decisão agravada, passando-se a novo exame do recurso.
+2. Não há ofensa aos arts. 489 e 1.022 do CPC/2015 se o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adota fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+3. Não configura cerceamento de defesa o julgamento antecipado da lide nas hipóteses em que o Tribunal de origem considera o feito devidamente instruído, reputando desnecessária a produção de provas, por se tratar de matéria eminentemente de direito ou de fato já comprovado documentalmente, como é o caso dos autos.
+4. "É cabível a fixação de honorários recursais, ainda que não sejam apresentadas contrarrazões ao recurso interposto" (AgInt no AREsp 1.290.267/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 03/12/2018, DJe de 06/12/2018).
+5. No caso, o acolhimento da pretensão relativa à redução da verba honorária pela metade (CPC/2015, art. 90, § 4º), em face da não oposição de resistência à execução, demanda reexame do acervo fático dos autos, o que é vedado no recurso especial, ante o óbice da Súmula 7 do STJ.
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1.485.548/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/3/2020, DJe de 25/3/2020. g.n. )
+Deve, portanto, ser mantido o decisum agravado por seus próprios fundamentos.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
