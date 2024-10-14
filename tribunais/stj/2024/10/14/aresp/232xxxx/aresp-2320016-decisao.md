@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE BELO HORIZONTE contra decisão, que julgou prejudicado o recurso especial em razão do julgamento proferido pelo Colegiado local em juízo de retratação.
+A parte agravante aduz que, apesar de anterior decisão proferida por esta Corte Superior, de cassação do acórdão então recorrido para determinar-se a reapreciação da apelação conforme a orientação estabelecida no julgamento do Recurso Especial Repetitivo n. 1.060.210/SC, não foi afirmada, no novo julgado, a presença de unidade autônoma da sociedade empresária no MUNICÍPIO DE CONGONHAS.
+Sustenta não competir à Vice-Presidência do Tribunal de origem julgar prejudicado o apelo nobre, porque essa hipótese não está prevista no art. 1.030 do CPC/2015. Afirma que, na verdade, a solução imposta descumpre o disposto na alínea "c" do inciso V desse mesmo artigo do código.
+Alega, outrossim, não haver prejuízo ao seu recurso, já que o pleito ali trazido não foi acolhido.
+A contraminuta foi apresentada.
+Passo a decidir.
+Interposto recurso especial contra acórdão do TJMG que manteve a sentença, no sentido de declarar o MUNICÍPIO DE CONGONHAS como o competente para a cobrança do ISS sobre os serviços prestados, determinei, em 18/5/2017, mediante a decisão de e-STJ fls. 711/712, a devolução dos autos à origem para aplicação do disposto no art. 1.040 do CPC/2015.
+O Colegiado local manteve o acórdão recorrido, afirmando a consonância do seu teor com a orientação firmada no Tema 355 do STJ.
+Admitido o apelo nobre, dele conheci em parte e, nessa extensão, dei-lhe provimento (e-STJ fl. 1.326):
+ ..  para cassar o acórdão recorrido e determinar que o Tribunal de origem reaprecie a apelação interposta pelo Município de Belo Horizonte, em consonância com a tese firmada no julgamento do REsp repetitivo n. 1.060.210/SC, atentando, sobretudo, para a existência, ou não, de unidade autônoma da empresa recorrida no Município de Congonhas, que legitime o deslocamento da competência tributária ao referido ente da federação.
+A 3ª Câmara Cível do TJMG manteve o acórdão recorrido nos seguintes termos (e-STJ fls. 1.408/1.411):
+No caso dos autos, como salientado anteriormente, muito embora o acórdão tenha sido proferido antes do julgamento do REsp n.º 1.060.210/SC, julgado sob o rito de recursos repetitivos, a conclusão dada no julgamento desta Câmara alinha-se à tese firmada (Tema 355), eis que confirmou a sentença, em reexame necessário, para reconhecer o Município de Congonhas como o ente público competente para exigir e recolher o ISSQN sobre os serviços prestados pela autora Distribuidora Cumminis Minas S.A., pois, nos termos do contrato de prestação de serviços firmado com a Companhia Siderúrgica Nacional (fls. 31/46), o serviço seria efetivamente realizado em Congonhas, mais especificamente, na Mineração Casa de Pedra (fls.31), embora a sede da prestadora de serviços fosse em outra localidade.
+ ..
+No caso dos autos, o contrato de prestação de serviços (fls.31/46) não deixa dúvidas acerca da existência de um estabelecimento prestador em Congonhas, ou seja, na "Mina Casa de Pedra", configurando unidade profissional, por força do que foi pactuado, a saber:
+ ..
+Isso posto, deixo de exercer o juízo de retratação, e mantenho o acordão de fls. 3281336, que confirmou a sentença em reexame necessário, e julgou prejudicado o recurso de apelação.
+Por meio da petição de e-STJ fl. 1.414, o MUNICÍPIO DE BELO HORIZONTE ratificou as razões de seu recurso especial.
+O Primeiro Vice-Presidente do TJMG, por sua vez, julgou prejudicado o apelo raro, consignando a perda superveniente de objeto em razão da prolatação do novo acórdão de julgamento da apelação.
+Uma vez estabelecido o Tema 355 do STJ e novamente julgada a apelação em juízo de retratação, tem-se que, ao Presidente ou Vice-Presidente do Tribunal, restariam apenas as seguintes possibilidades, conforme o art. 1.030 do CPC:
+a) negar seguimento ao recurso interposto contra orientação firmada pelo STF ou STJ no julgamento de recurso repetitivo; e
+b) realizar o juízo de admissibilidade, remetendo o feito ao STJ se positivo, quando mantida a divergência após o juízo de retratação.
+De fato, inexiste previsão legal para a hipótese de o Presidente ou Vice-Presidente do Tribunal de origem julgar prejudicado o recurso especial.
+Portanto, em se tratando de tema integralmente decidido sob o regime dos recursos especiais repetitivos, o Tribunal de origem, em observância ao disposto no art. 1.040 do CPC/2015 e em conformidade com pacífica orientação jurisprudencial desta Corte Superior, deve negar seguimento ao recurso especial se o acórdão recorrido coincidir com a orientação emanada do Tribunal Superior ou realizar a sua admissibilidade, admitindo ou inadmitindo o apelo.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO DO TEMA 1.137/STF. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA JUÍZO DE CONFORMAÇÃO. EMBARGOS ACOLHIDOS.
+1. A matéria discutida nos autos, quanto à responsabilidade estatal por morte de vítima de disparo de arma de fogo durante operações policiais ou militares em comunidade, com base em perícia inconclusiva, foi recentemente examinada pela Suprema Corte, no Tema 1.237 do Supremo Tribunal Federal (STF), ocasião em que foram fixadas as seguintes teses: (i) o Estado é responsável, na esfera cível, por morte ou ferimento decorrente de operações de segurança pública, nos termos da Teoria do Risco Administrativo; (ii) é ônus probatório do ente federativo demonstrar eventuais excludentes de responsabilidade civil; (iii) a perícia inconclusiva sobre a origem de disparo fatal durante operações policiais e militares não é suficiente, por si só, para afastar a responsabilidade civil do Estado, por constituir elemento indiciário.
+2. Conforme os arts. 1.040 e 1.041 do Código de Processo Civil, publicado o acórdão paradigma submetido ao regime de repercussão geral ou dos recursos especiais repetitivos, deve o Tribunal de origem negar seguimento aos recursos e encaminhá-los para retratação do órgão colegiado, a fim de que haja o alinhamento das teses ou a manutenção da decisão divergente.
+3. Embargos de declaração acolhidos, com atribuição de excepcionais efeitos infringentes, para anular os julgamentos anteriores e determinar a devolução dos autos ao Tribunal estadual.
+(EDcl no AgInt no AREsp n. 2.220.481/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que negue seguimento, admita ou inadmita o recurso especial, conforme o caso.
+Publique-se. Intimem-se.
+EMENTA
