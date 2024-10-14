@@ -1,0 +1,103 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DESERÇÃO. INEXISTÊNCIA. AUSÊNCIA DE PREPARO E PORTE DE REMESSA E DE RETORNO. PRESCINBILIDADE PARA AUTOS ELETRÔNICOS. ARRAS CONFIRMATÓRIAS. DEVOLUÇÃO DAS ARRAS MAIS EQUIVALENTE. POSSIBILIDADE.
+1. Trata-se de de recurso especial em ação que visava a resolução de contrato de compra e venda de aeronave, em razão do atraso na entrega e alteração das condições de financiamento quando da crise financeira de 2008.
+2. O acórdão recorrido foi objeto de três recursos especiais, um do comprador, um do vendedor e outro do fabricante.
+3. A parte agravante, vendedora, requer: a) o reconhecimento da deserção do recurso especial interposto pela compradora, alegando o não recolhimento do porte de remessa e de retorno dos autos; b) ausência de prequestionamento do art. 418 do Código Civil; e c) impossibilidade de ser determinar a restituição das arras confirmatórias mais o equivalente.
+4. O art. 112, § 4º do RISTJ dispensa o recolhimento de custas relativas ao porte de remessa e de retorno nos autos eletrônicos, razão pela qual a alegação de deserção do recurso é insubsistente.
+5. O art. 418 do Código Civil foi prequestionado no acórdão do Tribunal de Justiça do Paraná.
+6. Não se pode falar em intervenção na economia do contrato quando a própria lei prevê a devolução das arras. A negativa da parte em cumprir determinação legal, justifica a intervenção judicial.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por LÍDER TÁXI AÉREO S.A. - AIR BRASIL (fls. 1.955-1.969) contra decisão monocrática (fls. 1.879-1.894) de minha relatoria que apreciou recurso especial interposto com o objetivo de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado:
+APELANTE(1)/APELADA (2): SKIPTON S.A.
+APELANTE (2)/APELADA (1): LÍDER TÁXI AÉREO S.A.-AIR BRASIL
+APELADA (3): TEXTRON AVIATION INC.
+DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AGRAVO RETIDO (2). REITERAÇÃO. MÉRITO. INAPLICABILIDADE DA LEI N. 8.078/90 (CÓDIGO DE DEFESA DO CONSUMIDOR). IMPOSSIBILIDADE. MATÉRIA PRECLUSA NESTA RELAÇÃO PROCESSUAL. AGRAVO RETIDO (1). REITERAÇÃO. MÉRITO. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. VEROSSIMILHANÇA DAS ALEGAÇÕES E HIPOSSUFICIÊNCIA DO CONSUMIDOR CARACTERIZADAS. APELAÇÃO CÍVEL (1). RESCISÃO CONTRATUAL POR CULPA EXCLUSIVA DAS VENDEDORAS. OCORRÊNCIA. ATRASO DA ENTREGA DA AERONAVE QUE DEU ENSEJO À RESCISÃO DO CONTRATO. ARRAS CONFIRMATÓRIAS. DEVOLUÇÃO NA FORMA SIMPLES. RESPONSABILIDADE SOLIDÁRIA DAS VENDEDORAS NA DEVOLUÇÃO DAS ARRAS. POSSIBILIDADE. JUROS DE MORA. INCIDÊNCIA A PARTIR DA CITAÇÃO. PRECEDENTES. APELAÇÃO CÍVEL (2). JUROS DE MORA. ÍNDICE DE INCIDÊNCIA. TAXA SELIC. INAPLICABILIDADE. PRECEDENTES. ÔNUS SUCUMBENCIAL. REDISTRIBUIÇÃO PROPORCIONAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS, EM SEDE RECURSAL. MAJORAÇÃO QUANTITATIVA. APLICABILIDADE DO § 11 DO ART. 85 DA LEI N. 13.105/2015 (CÓDIGO DE PROCESSO CIVIL).
+Apelação Cível n. 0000480-45.2009.8.16.0194 - p. 2
+1. A natureza da relação jurídica subjacente, como caracteristicamente consumerista, já foi fixada na presente relação processual por decisão judicial exarada em sede de exceção de incompetência, a qual foi confirmada pelo egrégio Tribunal de Justiça do Estado do Paraná e pelo egrégio Superior Tribunal de Justiça, restando, portanto, preclusa sua discussão.
+2. A inversão do ônus da prova se dará a critério do órgão julgador, quando verossímil a alegação do consumidor, ou quando este for hipossuficiente.
+3. Excepcionalidades do negócio jurídico firmado entre as Partes (contrato para aquisição de aeronave fabricada no exterior, com intermediação de representante comercial e parte do pagamento mediante financiamento bancário por leasing), que evidenciam a hipossuficiência da Parte Autora/Consumidora.
+4. Atraso na entrega do bem (aeronave) determinante para a mudança nas condições do financiamento, e, consequentemente, para a manutenção/rescisão do negócio.
+5. Arras confirmatórias, que funcionam como garantia do cumprimento da obrigação e princípio de pagamento, de mesma natureza da obrigação principal, cujo montante deve ser devolvido de forma simples.
+6. A relação jurídica comercial realizada entre as integrantes do polo passivo da presente relação jurídica-processual não pode ser oposta ao Apelação Cível n. 0000480-45.2009.8.16.0194 - p. 3 consumidor, para, então, arguir ausência de responsabilidade quanto à inexecução da obrigação assumida, pois as demandadas integram a mesma cadeia de consumo.
+7. A incidência dos juros de mora tem início na data em que se deu a citação, nos termos do art. 405 da Lei n. 10.406/2002 (Código Civil), tendo-se em conta a natureza contratual do negócio firmado entre as Partes.
+8. Os juros de mora, segundo a jurisprudência reiterada da colenda 7ª (Sétima) Câmara Cível do Tribunal de Justiça do Estado do Paraná, contam-se à razão de 1% (um por cento) ao mês.
+9. A distribuição do ônus sucumbencial deve ser pautada pelo exame do número de pedidos formulados na petição inicial, e, por conseguinte, pela proporcionalidade do decaimento de cada uma das Partes.
+10. Em vista do parcial provimento do recurso de apelação cível 1, entende-se que é descabida a majoração quantitativa dos honorários advocatícios sucumbenciais devidos pela Parte Autora, em sede recursal, uma vez que o recurso não se mostrou desnecessário, abusivo e infundado
+11. "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da Apelação Cível n. 0000480-45.2009.8.16.0194 - p. 4 fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento" (§ 11 do art. 85 da Lei n. 13.105/2015).
+12. Recurso de agravo retido (1) conhecido, e, no mérito, provido. 13. Recurso de agravo retido (2) conhecido, e, no mérito, não provido
+14. Recurso de apelação cível (1) conhecido, e, no mérito, parcialmente provido.
+15. Recurso de apelação cível (2) conhecido, e, no mérito, não provido.
+Cada uma das três partes do processo interpôs um recurso especial, portanto, todos são recorridos e recorrentes a depender do prisma utilizado para analisar a questão. Cada um dos recursos foi decidido isoladamente.
+Trato dos recursos e das respectivas decisões individualmente, para que se possa ter noção do todo.
+O recurso interposto pela Skipton (fls.1.598-1.609) visava somente a aplicação do art. 418 do CC e foi decidido às fls. 1.879-1.894, "para determinar a devolução em dobro das arras confirmatórias, nos termos do art. 418 do Código Civil, devidamente corrigidas pela taxa SELIC, que engloba correção monetária e juros, até a data do efetivo pagamento."
+A Líder interpôs recurso especial às fls. 1.696-1.716, arguindo o artigo 1.022, inc. II do Código de Processo Civil, por omissão no acórdão recorrido quanto à conduta da autora, que se deu de forma contrária à boa-fé; 2º, 3º e 6º, inciso VIII, do Código de Defesa do Consumidor, aduzindo que o ônus da prova foi invertido indevidamente e houve interpretação equivocada dos conceitos de consumidor e de fornecedor; 53 do CDC, 42, 417 e 422 do Código Civil, diante da inobservância da boa-fé contratual e da desconsideração do caráter não reembolsável das arras confirmatórias, nos termos da previsão contratual e; 406 do Código Civil, defendendo a aplicação da taxa SELIC aos juros de mora. Seu recurso foi conhecido e parcialmente provido (fls. 1.895-1913) "para para fins de aplicação da taxa SELIC, nos termos do art. 406 do Código Civil"
+Já o recurso especial da Textron (1.530-1.557) alegou violação dos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil, por não terem sido enfrentados os argumentos de defesa e correlatas provas produzidas nos autos, os quais levariam à improcedência dos pedidos autorais, além de divergência jurisprudencial. Este recurso foi parcialmente conhecido e, nesta extensão, improvido (fls. 1.863-1.878).
+Esta decisão refere-se somente ao agravo interno interposto pela Líder (fls. 1.955-1.969), e se volta contra a decisão (fls. 1.879-1.894) que julgou o parcialmente procedente recurso especial interposto pela Skipton, julgado parcialmente procedente para determinar a devolução em dobro e correção pela SELIC.
+A Skipton apresentou contestação ao agravo e a Textron quedou-se inerte.
+É, no essencial, o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DESERÇÃO. INEXISTÊNCIA. AUSÊNCIA DE PREPARO E PORTE DE REMESSA E DE RETORNO. PRESCINBILIDADE PARA AUTOS ELETRÔNICOS. ARRAS CONFIRMATÓRIAS. DEVOLUÇÃO DAS ARRAS MAIS EQUIVALENTE. POSSIBILIDADE.
+1. Trata-se de de recurso especial em ação que visava a resolução de contrato de compra e venda de aeronave, em razão do atraso na entrega e alteração das condições de financiamento quando da crise financeira de 2008.
+2. O acórdão recorrido foi objeto de três recursos especiais, um do comprador, um do vendedor e outro do fabricante.
+3. A parte agravante, vendedora, requer: a) o reconhecimento da deserção do recurso especial interposto pela compradora, alegando o não recolhimento do porte de remessa e de retorno dos autos; b) ausência de prequestionamento do art. 418 do Código Civil; e c) impossibilidade de ser determinar a restituição das arras confirmatórias mais o equivalente.
+4. O art. 112, § 4º do RISTJ dispensa o recolhimento de custas relativas ao porte de remessa e de retorno nos autos eletrônicos, razão pela qual a alegação de deserção do recurso é insubsistente.
+5. O art. 418 do Código Civil foi prequestionado no acórdão do Tribunal de Justiça do Paraná.
+6. Não se pode falar em intervenção na economia do contrato quando a própria lei prevê a devolução das arras. A negativa da parte em cumprir determinação legal, justifica a intervenção judicial.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Na origem, cuida-se de ação de resolução de contrato de compra e venda de aeronave, ajuizada por SKIPTON S. A. contra a fabricante TEXTRON AVIATION INC. e a sua representante comercial no Brasil, LIDER TAXI AÉREO S.A. - AIR BRASIL (vendedora).
+No acórdão recorrido, o Tribunal a quo reformou a sentença que julgou improcedentes os pedidos autorais em relação à fabricante e parcialmente procedentes em relação à vendedora. Reconheceu, assim, a culpa exclusiva da fabricante e da vendedora pela rescisão do contrato, em razão do atraso na entrega da aeronave, circunstância determinante para a mudança nas condições do financiamento, condenando-as solidariamente à devolução das arras confirmatórias, de forma simples.
+A decisão recorrida reconheceu a incidência do art. 418 do CC, para que as arras sejam devolvidas em dobro.
+No agravo a Líder aponta deserção do recurso, por ausência de porte de remessa e de retorno dos autos; ausência de prequestionamento do art. 418 e impossibilidade de se decretar a devolução das arras.
+Não prospera a alegação de ausência de preparo para porte de remessa e de retorno. O art. 112, §4º do RISTJ prevê a dispensas do recolhimento dessas custas nos autos eletrônicos.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO DA PRESIDÊNCIA DO STJ. PREPARO DO RECURSO ESPECIAL. DEFICIÊNCIA DA COMPROVAÇÃO. INCIDÊNCIA DA SÚMULA 187/STJ.
+1. Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do Recurso, em observância à Súmula 187/STJ. A parte agravante, visando ao prosseguimento do Recurso, afirma ter havido deferimento tácito do benefício da Justiça Gratuita.
+2. Verifica-se que o Recurso Especial não foi instruído com a guia de custas do Superior Tribunal de Justiça nem com o respectivo comprovante de pagamento.
+3. No âmbito do STJ, constatou-se, assim, a existência de irregularidade no recolhimento do preparo e a inércia da parte, embora regularmente intimada para sanar o referido vício.
+4. Apesar de a parte recorrente asseverar que litiga sob o pálio da gratuidade, a mera alegação, na petição recursal, de que é beneficiário da assistência judiciária não é suficiente para o afastamento da deserção, ou seja, deve ser comprovada essa condição.
+Nesse sentido, AgInt no AREsp 1.160.301/SP, Rel. Min. Marco Buzzi, Quarta Turma, DJe de 30.5.2018.
+5. É insuficiente, portanto, a alegação de que a gratuidade foi deferida expressa ou tacitamente nos autos principais e/ou apensados, devendo a parte trazer cópia integral dos respectivos autos ou certidão comprobatória do Tribunal de origem desse deferimento, o que não ocorreu no caso concreto. A propósito: AgInt no AREsp 1.492.587/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe 19.11.2019.
+6. Destaque-se que, em caso de processo eletrônico, é dispensado o recolhimento do porte de remessa e de retorno dos autos (art. 4º da Resolução 01/2016 do STJ), devendo, porém, ser comprovado o regular recolhimento, na origem, das despesas das custas judiciais do Superior Tribunal de Justiça, conforme determina a Resolução 01/2016 do STJ, juntando-se as guias de recolhimento e comprovante de pagamento na interposição do Recurso Especial (AgInt no AREsp 1.070.386/MA, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 3/8/2017).
+6. Dessa forma, o Recurso Especial não foi devida e oportunamente preparado. Incide na espécie o disposto na Súmula 187 do STJ, o que leva à deserção do Recurso.
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.210.379/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 27/6/2023, grifo meu.)
+Conforme certificado à fl. 649, os autos foram "digitalizados e cadastrados junto ao sistema PROJUDI, passando a tramitar exclusivamente pelo meio virtual".
+Não prospera a alegação de ausência de prequestionamento, em razão de sua existência como demonstra o seguinte excerto do acórdão (fls. 1.319-1.320):
+Inicialmente, tem-se que as arras funcionam ora como garantia do cumprimento da obrigação e princípio de pagamento, quando se tratar de mesma natureza da obrigação principal (arras confirmatórias, nos termos dos arts. 417 a 419 da Lei n. 10.406/2002 - Código Civil), ora como prefixação das perdas e danos, caso o contrato preveja direito potestativo de desistência pelas Partes (arras penitenciais, conforme disposto no art. 420 do referido diploma legal).
+Por fim, a alegação de impossibilidade de devolução das arras confirmatórias, não encontra guarida legal ou jurisprudencial como demonstram os julgados abaixo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. ARRAS CONFIRMATÓRIAS. INÍCIO DE PAGAMENTO. RETENÇÃO. IMPOSSIBILIDADE. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS DE PROVAS. INADMISSIBILIDADE.
+1. Ação de rescisão contratual c/c restituição de valores.
+2. As arras confirmatórias não se confundem com a prefixação de perdas e danos, tal como ocorre com o instituto das arras penitenciais, visto que servem como garantia do negócio e possuem característica de início de pagamento, razão pela qual não podem ser objeto de retenção na resolução contratual por inadimplemento do comprador. Precedentes.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno no recurso especial não provido.
+(AgInt no REsp n. 1.893.412/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/12/2020, DJe de 11/12/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE ARRAS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. DESFAZIMENTO DO NEGÓCIO POR CULPA DO VENDEDOR. RESTITUIÇÃO DAS ARRAS. CABIMENTO. PERCEPÇÃO DO VALOR PELA IMOBILIÁRIA INTERMEDIADORA. ANUÊNCIA DO VENDEDOR. RESPONSABILIDADE CONJUNTA PELA DEVOLUÇÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com o art. 418 do CC/2002, se a parte que deu as arras não executar o contrato, poderá a outra tê-lo por desfeito, retendo-as; se a inexecução for de quem recebeu as arras, poderá quem as deu haver o contrato por desfeito, e exigir sua devolução mais o equivalente, com atualização monetária segundo índices oficiais regularmente estabelecidos, juros e honorários de advogado.
+2. Na hipótese, revelou-se incontroverso nos autos que a quantia postulada na inicial fora entregue a título de sinal e princípio de pagamento e que o negócio não se aperfeiçoou por culpa do vendedor, que tinha pendências judiciais, sendo devida a restituição das arras. O Tribunal de origem observou que a imobiliária intermediadora recebeu o princípio de pagamento, com anuência do vendedor, sendo este responsável pela devolução, juntamente com a primeira, porque sabedor de que a quantia em questão fora entregue a título de arras. A modificação de tal entendimento demandaria o reexame do acervo fático-probatório dos autos, o que é inviável no recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.831.592/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/5/2022, DJe de 8/6/2022.)
+AGRAVO INTERNO. RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. INVIABILIDADE ECONÔMICA DO CONTRATO. DESISTÊNCIA DO PROMITENTE COMPRADOR. POSSIBILIDADE. INCORPORADORA. RETENÇÃO DE 25% DAS QUANTIAS PAGAS. ARRAS. AUSÊNCIA DE ESPECIFICAÇÃO DE SUA NATUREZA, SE CONFIRMATÓRIA OU PENITENCIAL. PREVALÊNCIA DA NORMA DO ART. 418 DO CÓDIGO CIVIL. RETENÇÃO. SUCUMBÊNCIA MÍNIMA. DISTRIBUIÇÃO. RECURSO PROVIDO.
+1. Conforme a jurisprudência do STJ ""De acordo com o art. 418 do CC/02, mesmo que as arras tenham sido entregues com vistas a reforçar o vínculo contratual, tornando-o irretratável, elas atuarão como indenização prefixada em favor da parte "inocente" pelo inadimplemento, a qual poderá reter a quantia ou bem, se os tiver recebido, ou, se for quem os deu, poderá exigir a respectiva devolução, mais o equivalente." (REsp 1669002/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/09/2017, DJe 02/10/2017)" (AgInt no REsp 1.648.602/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 21/5/2020).
+2. "A sucumbência rege-se pela lei vigente à data da deliberação que a impõe ou a modifica, na qual ficarão estabelecidas a proporção de derrota e vitória entre os pedidos das partes, bem ainda todos os requisitos valorativos para a fixação da verba sucumbencial (honorários advocatícios)" (REsp 1.449.289/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministro MARCO BUZZI, QUARTA TURMA, DJe 13/12/2017).
+3. Agravo interno provido.
+(AgInt nos EDcl no REsp n. 1.918.121/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+No presente caso há incidência das normas consumeristas, uma vez que o AgRg no REsp n. 1.321.083/PR relativo ao caso em tela transitou em julgado:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CIVIL. DIREITO DO CONSUMIDOR. COMPRA DE AERONAVE POR EMPRESA ADMINISTRADORA DE IMÓVEIS. AQUISIÇÃO COMO DESTINATÁRIA FINAL. EXISTÊNCIA DE RELAÇÃO DE CONSUMO.
+1. Controvérsia acerca da existência de relação de consumo na aquisição de aeronave por empresa administradora de imóveis.
+2. Produto adquirido para atender a uma necessidade própria da pessoa jurídica, não se incorporando ao serviço prestado aos clientes.
+3. Existência de relação de consumo, à luz da teoria finalista mitigada. Precedentes.
+4. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp n. 1.321.083/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 25/9/2014.)
+Em razão disso a aplicação da restituição em dobro é imperiosa, pois a Corte Especial, no EAREsp n. 600.663/RS, de relatoria da Ministra Maria Tereza de Assis Moutra, firmou tese de que "a repetição em dobro, prevista no parágrafo único do art. 42 do CDC, é cabível quando a cobrança indevida consubstanciar conduta contrária à boa-fé objetiva, ou seja, deve ocorrer independentemente da natureza do elemento volitivo."
+Portanto, parte agravante não trouxe argumentos que justifiquem a modificação da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
