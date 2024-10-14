@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por JOSÉ BARTOLOMEU DE ALMEIDA MELO contra acórdão que negou provimento a agravo interno, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. IMPOSTO SOBRE PROPRIEDADE DE VEÍCULO AUTOMOTOR - IPVA. CONCLUSÃO DO ACÓRDÃO CUJA REVISÃO DEPENDE DO REEXAME DE PROVAS. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. No que se refere à tese de nulidade da Certidão de Dívida Ativa - CDA, o conhecimento do recurso encontra óbice na Súmula 7 do STJ, pois, sem reexame fático-probatório, não há como se revisar o acórdão recorrido, o qual concluiu pela inexistência de vícios no título executivo. Precedentes.
+3. Quanto à responsabilidade pelo pagamento dos débitos do imposto, a Súmula 7 do STJ também impede o conhecimento do especial, na medida em que, sem reexame do acervo probatório, não há como se alterar a conclusão do órgão julgador a quo registrou, segundo a qual: "embora o apelante afirme que vendeu o veículo a terceiro, não há nenhuma prova, nenhum indício mesmo (só a alegação), de que isso tenha realmente ocorrido".
+4. Agravo interno não provido.
+A parte embargante sustenta, em síntese (fls. 425/430):
+Nota-se que incorreu em nítida contradição ao se afirmar que a análise da responsabilidade pelo tributo cobrado pela embargada, bem como acerca da regularidade das CD As, demandaria a análise de provas, uma vez que ficou demonstrada a venda do veículo para um terceiro e as instâncias ordinárias se debruçaram sobre a questão de ordem que envolve a regularidade da CDA que aparelha a execução. Inclusive, ressalta-se que o adquirente apresentou contestação nos autos, após deferida a denunciação à lide, no entanto, por ser intempestiva, a referida peça foi desentranhada dos autos. Visando sanar esta questão, o embargante requereu a realização de audiência para que o adquirente fosse ouvido, mas teve seu pleito negado pelo juízo. Esta situação trouxe prejuízos para o embargante na medida em que não teve a execução redirecionada para o verdadeiro devedor do tributo, sendo mantido forçadamente no polo passivo da execução sem, contudo, nada dever. Evidente que a ausência de provas que confirmassem a venda do veículo, no entender das instâncias ordinárias, foi decorrente da ausência de prestação jurisdicional, que impediu o embargante de produzir a necessária prova para demonstrar que o veículo foi vendido. Sendo imperioso salientar, inclusive, que a intempestividade da defesa do adquirente sequer poderia ter gerado o seu desentranhamento, como foi feito. Ainda no que concerne a nulidade da CDA, a ausência de informações e desatendimento ao que preconiza o CTN é flagrante, o que irrefutavelmente deveria conduzir a extinção da execução.
+Impugnação apresentada pela parte embargada (fls. 439/443).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+De fato, o voto condutor, de forma clara e coerente, consignou o teor do acórdão proferido pelo tribunal de justiça e, atento ao fatos nele registrados, concluiu pela necessidade de reexame de provas para eventual conclusão pela nulidade da Certidão de Dívida Ativa - CDA. A mesma conclusão se chegou quanto à tese relacionada à responsabilidade pelo pagamento dos débitos do imposto, na medida em que o delineamento fático feito pelo órgão julgador a quo se limitou a afirmar a ausência de provas, daí porque "a Súmula 7 do STJ também impede o conhecimento do recurso, nessa parte, pois não há como se revisar a conclusão do órgão julgador sem reexame do acervo probatório".
+Portanto, não há vício de integração a ser sanado.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
