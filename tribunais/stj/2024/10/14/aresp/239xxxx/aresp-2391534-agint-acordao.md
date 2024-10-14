@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. DANOS MORAIS. MAU CHEIRO. ESTAÇÃO DE TRATAMENTO DE ESGOTO. PROXIMIDADE DA RESIDÊNCIA COM OS LOCAIS AFETADOS. AUSENTE COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida, é o que se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. A Corte local reconheceu que a parte recorrente não se desincumbiu do seu ônus de comprovar residência próxima aos logradouros afetados pelo mau cheiro, a despeito de lhe ter sido facultada a comprovação desse fato pelo Juízo de origem, sob pena de, ao revés, atribuir-se à parte adversa a comprovação de fato negativo.
+3. Entendimento diverso implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) no presente caso.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOELSON VIEIRA DOS SANTOS contra a decisão de minha relatoria de fls. 419/426 que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar a ele provimento.
+A parte ora agravante sustenta, em síntese, que houve negativa de prestação jurisdicional pelo acórdão recorrido e que sobre o conhecimento do seu recurso especial não incide o óbice da Súmula 7 do Superior Tribunal de Justiça (STJ).
+Requer a reforma da decisão agravada.
+A parte adversa não apresentou impugnação (fl. 607).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. DANOS MORAIS. MAU CHEIRO. ESTAÇÃO DE TRATAMENTO DE ESGOTO. PROXIMIDADE DA RESIDÊNCIA COM OS LOCAIS AFETADOS. AUSENTE COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida, é o que se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. A Corte local reconheceu que a parte recorrente não se desincumbiu do seu ônus de comprovar residência próxima aos logradouros afetados pelo mau cheiro, a despeito de lhe ter sido facultada a comprovação desse fato pelo Juízo de origem, sob pena de, ao revés, atribuir-se à parte adversa a comprovação de fato negativo.
+3. Entendimento diverso implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) no presente caso.
+4. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Verifico que inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+Isso porque, ao julgar os embargos de declaração opostos, Corte a quo consignou expressamente que (fl. 347):
+No caso, porém, não vislumbro a ocorrência de nenhum dos vícios supracitados.
+Isso porque foram abordados e expostos os motivos que levaram o Colegiado a entender pela improcedência da pretensão inaugural, tendo em vista que, conquanto tenha havido a dispersão de mau cheiro pelo entorno da estação de tratamento de esgoto, a parte autora deixou de comprovar que residia em um raio de até 1 km das instalações, não restando demonstrado, em consequência, que ela foi afetada pelos odores provenientes da ETE.
+A propósito, diversamente do alegado nas razões recursais, o Colegiado ressaltou expressamente que cabia à parte demandante o ônus de comprovar que residia próximo da ETE na época dos fatos, independentemente da existência de impugnação específica ou não da ré a respeito do comprovante de residência juntado, uma vez que se trata de fato constitutivo do direito dela e que não se pode atribuir à demandada prova de fato negativo.
+Inclusive, o ônus da prova a respeito da comprovação da residência foi delineado pelo juízo singular ao longo da instrução, que consignou que cabia à parte autora comprovar a relação com a área afetada pelo funcionamento da ETE.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+No que diz respeito ao cerne recursal, observo que o Tribunal de origem, conquanto tenha reconhecido a responsabilidade objetiva da parte recorrida nos danos ambientais decorrentes de sua atividade de tratamento de esgoto, concluiu que a parte recorrente não se desincumbiu do seu ônus de comprovar residência próxima aos logradouros afetados pelo mau cheiro - a despeito de lhe ter sido facultada a comprovação desse fato pelo Juízo de origem, sob pena de, ao revés, atribuir-se à parte adversa a comprovação de fato negativo.
+Senão, vejamos (fls. 321/334):
+Portanto, sendo objetiva a responsabilidade da requerida por eventuais danos ambientais decorrentes de sua atividade de tratamento de esgoto, há que se perquirir, no caso, a existência de nexo causal entre a emissão de mau cheiro e a ocorrência de danos à parte autora em razão de eventual poluição atmosférica.
+ ..
+De fato, inexiste comprovação nos autos de que o mau cheiro que assola a região é decorrente, exclusivamente, da ausência de saneamento básico e de descartes irregulares no rio.
+Neste contexto, sendo o mau cheiro inerente à ETE, não comprovou a requerida a emissão em índices inaptos a afetar a dignidade da pessoa humana (art. 1º, III, da CF), ônus que lhe incumbia (art. 333, II, do CPC/1973, sucedido pelo art. 373, II, do CPC/2015), na medida em que a parte autora comprovou que há mau cheiro. De todo modo, é incontroverso que o odor proveniente do gás sulfídrico é capaz de causar danos.
+Portanto, não houve comprovação de que o mau cheiro era proveniente, exclusivamente, das ligações ou descartes irregulares de esgoto, concluindo-se que a emissão de odor pela ETE São Jorge não ocorreu regularmente, implicando em poluição atmosférica.
+ ..
+No caso, a parte requerente relatou que foi atingida pelo mau cheiro oriundo da ETE, de modo que, ao menos em tese, de fato, detém legitimidade, sendo que a existência de odor, a responsabilidade e a ocorrência de danos, na realidade, compõem o mérito.
+A propósito, durante o trâmite processual, a douta Magistrada consignou que cabia à parte autora comprovar a relação com a área afetada pelo funcionamento da ETE, nos seguintes termos (mov. 775.1, p. 03):
+ ..
+Logo, era ônus da parte demandante comprovar que residia próximo à ETE na época dos fatos (art. 333, I, do CPC/1973, sucedido pelo art. 373, I, do CPC/2015), independentemente da existência de impugnação específica ou não da ré a respeito do comprovante de residência juntado.
+Ora, as partes noticiaram a existência de centenas de ações, não sendo razoável que a requerida perquirisse se a parte autora residia no alegado endereço, sob pena de se atribuir à demandada a comprovação de fato negativo. Aliás, a indicação do endereço é feita de forma unilateral pela parte requerente (art. 282, II, do CPC/1973, sucedido pelo art. 319, II, do CPC/2015).
+Aliás, após o encerramento da perícia judicial, o juízo a quo facultou a instrução probatória individual em cada um dos processos (mov. 1288.1), tendo, porém, a parte autora pleiteado o prosseguimento do trâmite único, com a realização de provas oral e documental (mov. 1308.1), o que foi deferido (mov. 1315.1, p. 02, item 3.4).
+Logo, a parte requerente tinha ciência do seu ônus probatório, o qual, aliás, era de fácil acesso a ela.
+A demandada afirma que a ETE São Jorge está localizada na Rodovia dos Minérios, km 10, em Almirante Tamandaré (mov. 1124.2, p. 01). Por sua vez, na ata notarial, lavrada pelo Tabelião Edson Aparecido Villa de Carvalho, consta que ela está localizada na Rodovia dos Minérios, km 11, sendo percebido o mau cheiro nos seguintes endereços, os quais são próximos a ela (mov. 1.5):
+ ..
+O juízo a quo afastou a necessidade de o perito visitar o imóvel de cada autor das várias demandas, tendo deferido a constatação por "amostragem", ou seja, em algumas residências/comércios selecionados no momento aleatoriamente (mov. 775.1 e 786.1).
+Desse modo, considerando que o expert concluiu que o mau cheiro é no entorno da ETE (mov. 1112.1, p. 04), foram visitados os seguintes endereços (mov. 1112.8):
+ ..
+Logo, serão considerados os endereços elencados pelo expert, sem prejuízo de outro ser enquadrado no "entorno" da ETE, especialmente considerando a informação do Tabelião de que o mau cheiro alcançava 1 km.
+No caso, para comprovar sua residência, a parte autora juntou comprovante de água datado de junho de 2012, em nome de Maria Rosangela dos Santos, no qual consta o seguinte endereço: Rua Beira Rio, nº 38, CEP: 83.500-000, Almirante Tamandaré (mov. 1.1, p. 29).
+Não há, porém, explicação do autor quanto à relação com Maria Rosangela dos Santos, tampouco foi informado que reside com ela. Frise-se que não foi juntada nenhuma declaração em nome de Maria Rosangela, tendo sido juntado o comprovante de residência sem explicações, não se prestando a anotação, manuscrita, constante no início da procuração (mov. 1.1, p. 26), para comprovar qualquer vínculo entre eles.
+Portanto, o demandante não se desincumbiu do ônus de comprovar que reside perto dos logradouros afetados pelo mau cheiro.
+Diante disso, considerando que a parte autora não comprovou que, na época dos fatos, residia próximo à ETE, não há que se cogitar eventual abalo moral sofrido, devendo a r. sentença ser mantida, ainda que por fundamento diverso.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Sendo assim, incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse contexto, cito os seguintes precedentes desta Corte:
+DIREITO AMBIENTAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DE DANO AMBIENTAL. INCIDÊNCIA DA SÚMULA 7/STJ. RESPONSABILIDADE AMBIENTAL OBJETIVA. NECESSÁRIA A COMPROVAÇÃO DO DANO. PROVIMENTO NEGADO.
+ ..
+2. O Tribunal de origem entendeu não haver provas suficientes nos autos para comprovar eventual dano ambiental causado pela empresa ora agravada. Sendo assim, incide no presente caso a Súmula 7 do Superior Tribunal de Justiça, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. Segundo a jurisprudência desta Corte, "em que pese a responsabilidade por dano ambiental seja objetiva (e lastreada pela teoria do risco integral), faz-se imprescindível, para a configuração do dever de indenizar, a demonstração da existência de nexo de causalidade apto a vincular o resultado lesivo efetivamente verificado ao comportamento (comissivo ou omissivo) daquele a quem se repute a condição de agente causador" (REsp 1.596.081/PR, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 25/10/2017, DJe de 22/11/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.682.237/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/6/2023, DJe de 22/6/2023.)
+PROCESSUAL CIVIL E AMBIENTAL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. INOBSERVÂNCIA DO ART. 932, III, 933, CAPUT, 1.010, II E III, E 1.013, CAPUT, § 1º, DO CPC/2015. OFENSA AO PRINCÍPIO DA DIALETICIDADE. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA SENTENÇA. INCIDÊNCIA DAS SÚMULAS 83 E 7 DO STJ. VIOLAÇÃO DO ART. 1026, § 2º, DO CPC/2015. MULTA PROTELATÓRIA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+ ..
+4. O Tribunal de origem, com base nos elementos fáticos dos autos, concluiu que inexiste documento hábil comprovando a condição de pescador artesanal do ora agravante, a fim de legitimar a ação de indenização, além de não haver impugnação aos fundamentos da sentença, o que não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.040.789/PA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
