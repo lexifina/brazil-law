@@ -1,0 +1,48 @@
+DECISÃO
+Em análise, recurso especial interposto por BENEDITO ALMEIDA CARNEIRO FILHO contra acórdão assim ementado:
+CIVIL. EXTRAÇÃO ILEGAL DE RECURSO MINERAL. OCORRÊNCIA. INDENIZAÇÃO. CABIMENTO.
+I - Nos termos do art. 20, IX, da Constituição Federal, os recursos minerais, inclusive os do subsolo, são bens da União, dependendo a sua pesquisa e lavra de competente autorização ou concessão (CF, art. 176, § 1º,e Decreto Lei nº 227/67, art. 7º).
+II- Na hipótese dos autos, comprovada, mediante perícia técnica, a extração mineral (areia e argila), eis que realizada sem a indispensável autorização dos órgãos competentes, resta configurada a ocorrência de dano material, do que resulta o dever de indenizar (CC,art. 927), no montante apurado- R$6.114.108,85 (seis milhões, cento e quatorze mil, cento e oito reais e oitenta e cinco centavos), devidamente atualizado monetariamente, mediante a aplicação da taxa SELIC, que já engloba juros demora e correção monetária (Código civil, art. 406).
+III- honorários advocatícios, fixados em valor correspondente a 1% (hum por cento) sobre o valor da condenação, nos termos do art. 85, § 3º, inciso V, do CPC vigente.
+IV- Provimento da remessa necessária e da apelação. Sentença reformada. Ação procedente.
+Os embargos de declaração foram rejeitados nos seguintes termos:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ADITAMENTO. NÃO CONHECIMENTO. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE INEXISTENTES. DESPROVIMENTO.
+I -A orientação jurisprudencial já sedimentada no âmbito de nossos é no sentido de que interposto o recurso cabível, no caso, embargos de declaração, opera-se o fenômeno da preclusão consumativa, não mais se admitindo a veiculação de nova impugnação, ou até mesmo a substituição ou aditamento àquela já apresentada, contra o mesmo julgado, como no caso, em que o embargante veiculou aditamento aos embargos antes opostos, para veicular suposta ilegitimidade passiva ad causam. Preliminar não conhecida.
+II - Inexistindo, no acórdão embargado, qualquer omissão, contradição ou obscuridade, afiguram-se improcedentes os embargos declaratórios da União Federal, mormente quando a pretensão recursal possui natureza eminentemente infringente do julgado, como no caso, a desafiar a interposição de recurso próprio.
+III- Embargos de declaração desprovidos.
+Nas suas razões recursais, com fundamento no art. 105, III, a e c, da Constituição Federal, a parte recorrente alega violação aos arts. 10, 272, § 2º, , 485, §3º, IV, 489, § 1º, IV, 1.022, I, II, do CPC/2015.
+O Ministério Público Federal opinou pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+De início, não se reconhece a violação aos arts. 10, 489, § 1º, IV e 1.022, I, II, do CPC/2015, uma vez que o Tribunal de origem dirimiu as questões necessárias à solução da lide de forma suficientemente fundamentada. Destaque-se que "não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (STJ, AgInt no REsp 2.072.333/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 07/12/2023).
+Em relação aos arts. 272, § 2º e 485, § 3º, do CPC/2015, é possível constatar que os dispositivos legais não foram apreciados pelo Tribunal de origem.
+A propósito, o recorrido opôs os embargos de declaração, contudo não indicou seu inconformismo quanto à possível violação aos referidos dispositivos, o que ocorreu apenas nas razões do apelo especial. Caracterizada a indevida inovação recursal, não cabe a esta Corte manifestar sobre matéria não apreciada na origem.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DA COISA JULGADA. MATÉRIA NÃO DEBATIDA NO ACÓRDÃO RECORRIDO. INOVAÇÃO RECURSAL EM RECURSO ESPECIAL. INVIABILIDADE.
+1. A alegação de ofensa à coisa julgada em razão de o título executivo expressamente fixar a TR como índice de correção monetária não foi devidamente apresentada em recurso oportuno, tampouco tendo o Tribunal de origem se manifestado expressamente sobre a questão.
+ ..
+3. Agravo interno a que se nega provimento (AgInt no REsp n. 1.947.526/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/6/2022, DJe de 20/6/2022).
+No mais, restou consignado no acórdão recorrido o seguinte:
+Assim posta a questão e não obstante os fundamentos lançados no referido julgado, merece prosperar a pretensão recursal deduzida pela União Federal, na espécie, diante do conjunto fático-probatório produzido nestes autos.
+De início, impende consignar que a questão resolvida no bojo do mencionado Termo de Ajustamento de Conduta- TAC e do inquérito policial instaurado no âmbito da Polícia Federal, doque resultou a homologação de transação penal, já devidamente cumprida e extinta a respectiva execução- conforme sentença de fls. 283,em fotocópia - limita-se, exclusivamente, ao dano ao meio ambiente e à violação à legislação ambiental, decorrente da remoção e alteração do solo levadas a efeito pelo promovido, sem a prévia e indispensável autorização dos órgãos ambientais competentes, não alcançando, por conseguinte, a discussão alusiva à aferição da ocorrência, ou não, de extração mineral irregular, na referida área.
+De ver-se, ainda, que, mesmo que assim não fosse, as premissas em que se amparou o juízo monocrático - vistorias realizadas pela Coordenadoria do Meio Ambiente- SEPLAN do Município de Camaçari/BA e pela equipe formada por Agentes Federais e funcionário do DNPM- não se prestam para afastar as conclusões constantes dos laudos técnicos anteriormente apresentados pelo Departamento Nacional de Produção Mineral- DNPM e pela Superintendência Regional do Departamento de Polícia Federal no Estado da Bahia, realizados em 18/08/2009 e 22/01/2010, respectivamente.
+Com efeito, no Termo de Ajustamento de Conduta- TAC, a que se reporta a cópia de fls. 136/138, consignou-se que:
+ ..
+A partir daí, entabularam-se as cláusulas constantes do referido TAC, as quais, segundo noticiado nos autos, teriam sido devidamente cumpridas.
+Diferentemente, contudo, do que restou consignado na sentença recorrida, em nenhum momento, registrou-se que não teria ficado "demonstrada a extração de areia ou argila para uso na construção civil". Tal assertiva fora lançada, apenas, nos depoimentos prestados pelo promovido, em sede de inquérito policial e no bojo destes autos.
+De igual forma, a vistoria a que alude o relatório apresentado pelo Delegado de Polícia Federal que presidia o inquérito policial em referência, também não infirma as conclusões dos laudos técnicos antes apresentados.
+ ..
+Na hipótese dos autos, a extração noticiada pela União Federal teria ocorrido desde os idos de 2007e se perpetuaria, ao menos, até o dia 22 de janeiro de 2010, data em que uma equipe de Peritos da Polícia Federal realizou vistoria na sobredito área e constatou, conforme assim já havia constatado, a equipe técnica do DNPM em 18/08/2009,a efetiva ocorrência de extração mineral, sem a indispensável autorização dos órgãos competentes.
+ ..
+Como visto, a prova documental em referência não deixa qualquer dúvida quanto à efetiva ocorrência da extração mineral irregular noticiada nos autos (fls. 401-405).
+Veja que, apesar de constar nas razões do recurso especial a indicação de ofensa a dispositivos legais, verifico que parte da análise da controvérsia foi dirimida com base nos laudos técnicos do Departamento Nacional de Produção Mineral e da Superintendência Regional do Departamento de Polícia Federal no Estado da Bahia, atos normativos que não se equiparam à lei federal. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CREDENCIAMENTO JUNTO AO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO (MAPA). EXIGÊNCIA DE CERTIDÃO NEGATIVA DE DÉBITO. ARTS. 489, § 1º, E 1022 DO CPC/2015. OMISSÃO NÃO CARACTERIZADA. INCABÍVEL A ALEGAÇÃO DE OFENSA À SÚMULA. SÚMULA 518/STJ. PRINCÍPIO DA LEGALIDADE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI TIDO POR VIOLADO. SÚMULA 284/STF. ACÓRDÃO DO TRIBUNAL DE ORIGEM AMPARADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 126/STJ. CONTROVÉRSIA QUE DEMANDA A INTERPRETAÇÃO DE INSTRUÇÃO NORMATIVA. INVIABILIDADE.
+ ..
+5. O exame da controvérsia demanda a análise da IN n. 54/2011 do MAPA, ato normativo que não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+6. Agravo interno não provido (AgInt no REsp n. 1.646.468/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 20/4/2020, DJe de 24/4/2020).
+Além disso, conforme salientou o Ministério Público Federal, "a alteração da conclusão a que chegou a instância ordinária quanto à comprovação do ilícito ambiental (extração mineral ilegal e clandestina) e da sua autoria demanda", necessariamente demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ (fl. 562).
+Por fim, "consoante iterativa jurisprudência desta Corte Superior, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no AREsp n. 2.350.617/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial para, nessa extensão, negar-lhe provimento.
+Majoro os honorários advocatícios no importe de 2%, com fundamento no art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
