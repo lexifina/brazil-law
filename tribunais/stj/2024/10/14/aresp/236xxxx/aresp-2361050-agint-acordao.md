@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. DEFICIÊNCIA RECURSAL. SÚMULAS N. 283 E 284 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido , obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 282/STF).
+2. A deficiência na fundamentação do recurso, que apresenta argumentos dissociados do que foi decidido pelo acórdão recorrido, deixando de impugnar os fundamentos adotados pelo Tribunal de origem, obsta o conhecimento do recurso especial (Súmulas n. 283 e 284 do STF).
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 1.271/1.292) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, o agravante alega ter havido o prequestionamento implícito dos artigos apontados como violados, uma vez que, "mesmo não constando no corpo do Acórdão impugnado a referência explícita aos artigos violados pela decisão recorrida, a tese jurídica foi debatida" (e-STJ fl. 1.280).
+Sustenta que "a constatação de que a conduta do agravado teria sido irregular seria apta a demonstrar a licitude das denúncias formuladas pelo agravante e, portanto, isentá-lo da condenação de pagamento de danos morais. A existência das irregularidades demonstraria que as denúncias, diferentemente do que constou do r. Acórdão recorrido, não seriam insinuações nem teriam como escopo atrasar ou impedir a promoção do agravado" (e-STJ fl. 1.285). Afirma que o reconhecimento do cerceamento de defesa e da violação do contraditório também permitiria concluir pela irregularidade da conduta do agravado, justificando as denúncias formuladas. Insurge-se, por tais argumentos, contra a aplicação das Súmulas n. 283 e 284 do STF. Acrescenta que, "na medida em que não se está a discutir se os fatos denunciados ocorreram ou não, mas se são lícitos ou ilícitos, não há necessidade de revolvimento fático-probatório, mas apenas de revaloração dos critérios jurídicos utilizados para julgamento do caso, não havendo, portanto, o óbice ao enunciado 7 da Súmula de jurisprudência do Colendo Superior Tribunal de Justiça" (e-STJ fl. 1.290).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+O agravado não apresentou contrarrazões (e-STJ fl. 1.296).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. DEFICIÊNCIA RECURSAL. SÚMULAS N. 283 E 284 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido , obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 282/STF).
+2. A deficiência na fundamentação do recurso, que apresenta argumentos dissociados do que foi decidido pelo acórdão recorrido, deixando de impugnar os fundamentos adotados pelo Tribunal de origem, obsta o conhecimento do recurso especial (Súmulas n. 283 e 284 do STF).
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.264/1.267):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração de ofensa aos artigos arrolados e incidência da Súmula n. 7/STJ (e-STJ fls. 1.161/1.162).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.059):
+APELAÇÃO - INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - Insurgência das partes em face da sentença que julgou procedente em parte o pedido para condenar o réu Mário ao pagamento de indenização por danos morais no valor de R$ 25.000,00, afastando a condenação por danos materiais - Danos materiais não configurados - Conjunto probatório que não indica que os fatos imputados aos réus , foram os únicos a impedir a promoção do autor no cargo de delegado de polícia (classe especial) - Responsabilidade da corre Roberta bem afastada - Ausência de demonstração de que os atos praticados pela corre causaram danos extrapatrimoniais - Dano moral bem fixado - O valor fixado em R$ 25.000,00 bem atende aos critérios de proporcionalidade e razoabilidade e serve como desestímulo para que o corréu não venha a praticar novamente tais atos - Sentença mantida por seus próprios e jurídicos fundamentos, nos termos do artigo 252 do Regimento Interno do Tribunal de Justiça de São Paulo - Recursos improvidos.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.095/1.100).
+Nas razões do recurso especial (e-STJ fls. 1.106/1.121), interposto com fundamento no art. 105, III, "a", da CF, o recorrente apontou ofensa aos seguintes dispositivos de lei:
+(a) art. 7º do CPC/2015, porque teria havido "cerceamento ao contraditório e ampla defesa do Recorrente, uma vez que o v. acórdão foi omisso, não apreciando o pedido de produção probatória (conversão do julgamento em diligência); bem como não apreciou o pedido para considerar a gravação clandestina juntada aos autos pelo Recorrido, como prova para salvaguardar o alegado pelo Recorrente" (e-STJ fl. 1.113),
+(b) arts. 4º e 20 do CPP/1941 e 2º e 50 da Lei n. 9.748/1999, pois o recorrido teria violado os princípios da legalidade e da moralidade, bem como suas funções de delegado de polícia. Explicou que o recorrido "efetuou diligências em uma investigação da corregedoria, sem a anuência do delegado de polícia presidente do feito. Apesar de ser seu superior hierárquico, não motivou o ato, violando a independência funcional da autoridade responsável pelo caso. Em outro inquérito policial, revelou a existência de uma investigação em curso que não estava sob sua presidência a um terceiro, tão somente porque este era assessor do então Secretário da Segurança Pública de São Paulo" (e-STJ fls. 1.113/1.114).
+Sem contrarrazões (e-STJ fl. 1.159).
+No agravo (e-STJ fls. 1.168/1.190), declara a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 1.195).
+O recurso foi inicialmente distribuído ao eminente Ministro FRANCISCO FALCÃO. Posteriormente, após provocação da parte (e-STJ fls. 1.251/1.253), foi reconhecida a competência da Segunda Seção, tornadas sem efeito as decisões anteriores e redistribuídos os autos (e-STJ fls. 1.254/1.255).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+O Tribunal de origem assim decidiu a controvérsia (e-STJ fls. 1.060/1.061):
+Como mencionado na sentença, a conduta praticada pelo corréu Mário consistente em veicular entrevistas com insinuações e afirmações quanto à conduta do autor, no intuito de atrasar ou impedir a promoção ao cargo de delegado de polícia de classe especial, foi excessiva e lhe causou constrangimento, ao ser repercutida na mídia, marcada ainda pelo fato de que não houve nos autos nenhuma comprovação de que a acusação veiculadas nas entrevista foi fruto de uma apuração mais acurada, discreta e responsável, no que deu causa ao açodamento que ofendeu a imagem, honra e fama funcional do autor, de sorte que outra solução não havia mesmo que não fosse reconhecer naquela conduta, o ato ilícito que enseja o dever de indenizar o dano moral.
+Saliente-se que o juiz sentenciante examinou a prova detalhadamente, especialmente a testemunhal, chegando à conclusão de que a conduta do réu Mário foi excessiva e transbordou daquilo que é razoável para a configuração do direito de petição com o objetivo de desvendar esquemas supostamente ilícitos e controle dos agentes públicos.
+A situação constrangedora envolvendo delegados de polícia em acusações e insinuações relacionadas à conduta irregular sob a ótica funcional reclama sempre julgamento com "granus salis", eis que repercute sempre negativamente qualquer notícia relacionada a comportamento desses agentes de estado e essa repercussão quase instantânea, por meio de difusão na imprensa televisiva e rede social, expõe, sem o devido resguardo e sem o respeito da presunção de inocência, os acusados e que, muitas vezes, após regular investigação, já no esquecimento dos fatos, não ratificam as acusações, com inegável violação à imagem, honra e reputação profissional, o que se deu no caso concreto, pois, com bem salientado na sentença, o corréu Mário propalou por aqueles meios que o autor teria desqualificado seu superior, promovido ingerência indevida nos inquéritos produzidos por outras autoridades policiais e defendia posição que violaria a eficiência administrativa, recomendando providência ilegal a outros delegados. (última linha do último parágrafo de fls. 924 e primeiro parágrafo de fls. 925).
+Essa exposição, em si mesma, já configurara o ato ilícito que justificou a indenização para ressarcimento do dano moral.
+Os artigos apontados como violados não foram examinados pela Corte de origem, nem mesmo após a oposição de embargos de declaração.
+Assim, ausente o necessário prequestionamento, incide a Súmula. 211/STJ.
+Ademais, referidos dispositivos de lei não teriam o condão de desconstituir o acórdão recorrido.
+O TJSP entendeu que a conduta do recorrente de promover insinuações e afirmações sobre o recorrido foi excessiva e lhe causou constrangimento, ofendendo sua imagem, honra e fama funcional, ao repercutir na mídia, não tendo ficado, ademais, comprovado que, antes, tenha havido apuração acurada dos fatos. Concluiu, então, estar configurado o ilícito capaz de gerar o dever de indenizar.
+As alegações apresentadas no especial não impugnam de forma efetiva tais fundamentos, limitando-se a sustentar que os fatos descritos na peça recursal realmente demonstrariam a conduta indevida do autor.
+A deficiência na fundamentação do recurso, que apresenta argumentos dissociados do que foi decidido pelo acórdão recorrido, deixando de impugnar os fundamentos adotados pelo Tribunal de origem, obsta o conhecimento do recurso especial (Súmulas n. 283 e 284 do STF).
+Além disso, a conclusão a que chegou o TJSP decorreu do exame do contexto fático-probatório dos autos, de forma que decidir de outro modo implicaria nova análise dos elementos de fato do processo, o que é incabível no especial, por força da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+Conforme consignado, os artigos apontados como violados não foram examinados pela Corte de origem, nem de forma implícita, como alega o agravante.
+Além disso, referidos dispositivos de lei não seriam suficientes para desconstituir a conclusão adotada no acórdão recorrido.
+O Colegiado estadual entendeu que a conduta do agravante foi excessiva, causando constrangimento e ofendendo a imagem, honra e fama funcional do recorrido, gerando o dever de indenizar.
+Os fundamentos adotados não foram devidamente impugnados no especial, atraindo as Súmulas n. 283 e 284 do STF.
+Ademais, o juízo emi tido pelo TJSP decorreu do exame do contexto fático-probatório do processo, o qual não pode ser revisto nesta Corte, por óbice da Súmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
