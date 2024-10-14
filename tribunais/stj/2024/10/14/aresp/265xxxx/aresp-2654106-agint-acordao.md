@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. APLICAÇÃO DA SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de expressa indicação e de demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+2. O conhecimento do recurso pela alínea c do permissivo const itucional exige a indicação do dispositivo legal objeto da divergência. Inafastável a incidência da Súmula n. 284 do STF também quanto a esse ponto.
+3. Consoante a jurisprudência do STJ, a decisão de admissibilidade do recurso proferida pelo tribunal a quo não tem o condão de vincular a análise da admissão do apelo nobre pelo STJ, a quem compete o juízo definitivo acerca dos requisitos formais e do mérito do recurso especial.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por GIULIO ATTILIO PIETROLUONGO contra a decisão de fls. 1.040-1.042, que não conheceu do agravo em recurso especial em razão da incidência da Súmula n.284 do STF.
+Na ocasião, verificou-se que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Nas razões do agravo interno, o recorrente alega que o impugnou especificamente todos os fundamentos que serviram para denegar o Recurso Especial.
+Afirma que foi devidamente demonstrado que o recurso especial não padece de ausência de cotejo analítico e que a exigência de juntada de todas as decisões que geraram a Súmula n. 246 do STJ, bem como a realização do cotejo analítico em cada uma delas vai contra o próprio entendimento do STJ sobre o tema.
+Sustenta que "é impossível se inadmitir o REsp por ausência de indicação de dispositivo federal violado neste instante, pois, no despacho denegatório a fundamentação para não seguimento do recurso em despacho denegatório foi ausência de cotejo analítico e ausência de juntada de todas as jurisprudências que fundamentaram a súmula que se pretendia a aplicação, qual seja, Súmula 246 do E. STJ" (fl. 1.056).
+Requer o provimento do agravo interno.
+O agravado apresentou contrarrazões às fls. 1.062-1.071.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. APLICAÇÃO DA SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de expressa indicação e de demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+2. O conhecimento do recurso pela alínea c do permissivo const itucional exige a indicação do dispositivo legal objeto da divergência. Inafastável a incidência da Súmula n. 284 do STF também quanto a esse ponto.
+3. Consoante a jurisprudência do STJ, a decisão de admissibilidade do recurso proferida pelo tribunal a quo não tem o condão de vincular a análise da admissão do apelo nobre pelo STJ, a quem compete o juízo definitivo acerca dos requisitos formais e do mérito do recurso especial.
+4. Agravo interno desprovido.
+VOTO
+O recurso não merece prosperar.
+Nas razões do recurso especial, a parte agravante sustenta que o Tribunal de Justiça do Estado de São Paulo decidiu em desconformidade com o disposto na Súmula n. 246 do STJ e da jurisprudência do STJ, ao condicionar o abatimento do valor do Seguro DPVAT à comprovação pelo recorrente do recebimento de seguro pelo autor recorrido.
+Registre-se que "o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão" (AgInt no AREsp n. 2.120.664/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/9/2022, DJe de 21/9/2022).
+Desse modo, a ausência de expressa demonstração de ofensa aos artigos de lei apontados (alínea a) ou de eventual divergência jurisprudencial (alínea c) inviabiliza o conhecimento do recurso, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, atrai a aplicação da Súmula n. 284 do STF, assim expressa:
+É inadmissível o recurso extraordinário, quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia.
+A propósito, confira-se precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO. DANOS MORAIS. PEDIDO DE MAJORAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.2. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n.º 284 do STF.3. Agravo interno não provido. (AgInt no AREsp n. 2.109.813/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+Ademais, no que se refere à alegada divergência, registre-se que, mesmo diante da interposição do recurso especial pela alínea c do permissivo constitucional, o recorrente deveria ter indicado o artigo supostamente violado. Incide, pois, a súmula n. 284 do STF.
+Nesse contexto, cito os seguintes arestos: AgInt no AREsp n. 1.876.628/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/11/2021, DJe de 24/11/2021 e AgInt no AgInt no AREsp n. 1.683.359/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 20/9/2021, DJe de 23/9/2021.
+Por fim, cumpre ressaltar que, consoante a pacífica jurisprudência do STJ, a decisão de admissibilidade do recurso proferida pelo tribunal a quo não tem o condão de vincular a análise da admissão do apelo nobre pelo STJ, a quem compete o juízo definitivo acerca dos requisitos formais e do mérito do recurso especial (AgRg no AREsp n. 2.116.059/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/9/2022, DJe de 19/9/2022; AgInt no AREsp n. 1.608.220/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022; e AgRg no AREsp n. 2.098.738/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022).
+Assim, não se verifica equívoco na decisão agravada, que deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
