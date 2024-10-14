@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Está correta a decisão ao observar que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Instituto Nacional do Seguro Social desafiando a decisão de fls. 1.466/1.470 que negou provimento ao agravo em recurso especial, com base na incidência da Súmula 7/STJ.
+Inconformada, sustenta a parte agravante, em resumo, que não há necessidade de nova análise das provas constantes dos autos, mas, tão somente, "que o título executivo não contempla as vantagens agora pretendidas em fase de execução - sem anterior discussão em fase de conhecimento" (fl. 1.498).
+A parte agravada apresentou impugnação às fls. 1.508/1.513).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Está correta a decisão ao observar que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Com efeito, o acórdão combatido se manifestou nos seguintes termos (fls. 1.099/1.110):
+Em cumprimento à determinação do eg. STJ, submeto à reapreciação do Colegiado os embargos de declaração opostos pelo INSS, a fim de que seja expressamente apreciada a alegação da embargante de violação da coisa julgada, em razão da indevida inclusão na base de cálculo dos 28,86% das diferenças do aumento de 3,17%, eis que tal inclusão não estaria prevista no título ora executado.
+ ..
+Por tais razões, extraio excerto do voto condutor proferido na AC nº 5009448-26.2011.4.04.7000 acima citada, o qual adoto como razão de decidir no suprimento da omissão apontada:
+ ..
+Em tendo o percentual de 28,86% incidido sobre o vencimento básico do funcionalismo público e, considerando que, a partir de 01º de julho de 1998, esse índice foi incorporado aos vencimentos dos servidores, nos termos da Medida Provisória nº 1.704/98, deve ele servir de base de cálculo para a quantificação dos valores devidos referentes ao percentual
+de 3,17%, uma vez que constitui complemento da revisão geral de vencimentos ocorrida em janeiro de 1993, cujo valor resultante serve de base de cálculo para as revisões posteriores.
+Nessa linha, os seguintes precedentes do Egrégio Superior Tribunal de Justiça:
+ ..
+Saliente-se que o índice de 3,17% remonta a janeiro de 1995, ao passo que o reajuste de 28,86% foi estendido aos servidores civis em janeiro de 1993 (MP nº 1.704/98). Nessa perspectiva, o cálculo da diferença remuneratória decorrente da incidência do percentual de 3,17% deve considerar o correto valor da remuneração do servidor em janeiro de 1995, o qual já havia (ou deveria ter) sofrido o incremento de 28,86%1.
+Assim, se o pagamento do resíduo dos 28,86% houvesse ocorrido à época própria (jan/93), o índice de 3,17%, devido desde jan/95, teria sido automaticamente calculado sobre aquele, tal como afirmado pela parte exequente/embargada: "Se o mencionado percentual deve ser pago de maneira retroativa, judicial ou extrajudicialmente, é lógico que o percentual que ora se executa (3,17%), POR SER DEVIDO DESDE JANEIRO DE 1995, portanto, POSTERIORMENTE A JANEIRO DE 1993, DEVE INCIDIR SOBRE O ÍNDICE DE 28,86% concedido pela Tabela MARE, uma vez que este último faz parte do vencimento básico e demais parcelas que compõem os vencimentos dos servidores" (evento 7 - PET1, origem).
+Logo, independentemente de o título exequendo formado nos autos da Ação Coletiva nº 95.0008955-6 ter ou não abrangido a questão referente aos 28,86%, desde que as parcelas das respectivas diferenças constem nas fichas financeiras da parte exequente, é devida a incidência do percentual de 3,17sobre as diferenças em relação a tal índice, pois o reajuste em tela deve considerar o valor correto da remuneração do servidor em janeiro de1995.
+A propósito:
+ ..
+Portanto, acolho os embargos declaratórios para suprir a omissão apontada, explicitando que a incidência dos 3,17% sobre os 28,86% não afronta a coisa julgada e é possível, em virtude de haver restado comprovado, mediante as informações constantes nas fichas financeiras, o recebimento das parcelas dos 28,86% pela parte exequente.
+ ..
+Todavia, como tem decidido reiteradamente este Tribunal em casos deste tipo, somente devem ser incluídas na base de cálculo do índice de 28,86% as parcelas de 3,17% que constem nas fichas financeiras. A inclusão de valores diversos, sob o fundamento de que teriam sido reconhecidos em outras ações judiciais, não restaram abrangidas pelo título que ora se executa. Assim, em vista do princípio da estrita observância do conteúdo do título executivo, é descabida a ampliação dos limites da execução amparada em decisão judicial transitada em julgado.
+Desta feita, está correta a decisão ao observar que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS EM CONDENAÇÃO CONTRA A FAZENDA PÚBLICA. APLICAÇÃO DA LEI 11.960/2009. ADIN DO SUPREMO TRIBUNAL FEDERAL. ALTERAÇÃO LEGISLATIVA. LEI 11.960/2009. NORMA DE CARÁTER PROCESSUAL. APLICAÇÃO IMEDIATA. INCONSTITUCIONALIDADE PARCIAL POR ARRASTAMENTO. PRECEDENTES: RESP. 1.270.439/PR, REL. MIN. CASTRO MEIRA, DJE 2.8.2011 E STF-AI 842.63/RS, REPERCUSSÃO GERAL, REL. MIN. CEZAR PELUSO, DJE 2.9.2011. DÍVIDA DE NATUREZA NÃO TRIBUTÁRIA. A PENDÊNCIA DE JULGAMENTO OU TRÂNSITO EM JULGADO DE ADIN NO SUPREMO TRIBUNAL FEDERAL NÃO GERA O SOBRESTAMENTO DOS RECURSOS ESPECIAIS NO STJ. AGRAVO INTERNO DA UNIÃO DESPROVIDO.
+1. Quanto à inclusão do reajuste de 28,86% na base de cálculo do reajuste de 3,17%, a verificação da suposta ocorrência de violação à coisa julgada não dispensa a incursão no acervo fático-probatório dos autos, providência inviável em sede Especial, ante o óbice da Súmula 7/STJ.
+2. A jurisprudência desta Corte Superior firmou-se na vertente de que a base de incidência do resíduo de 3,17% deve incidir sobre a remuneração do Servidor Público, entendida como a totalidade dos seus vencimentos, e não somente sobre o vencimento-básico.
+3. No REsp. 1.205.946/SP, julgado sob o rito do art. 543-C do CPC, pela Corte Especial do STJ, Rel. Min. BENEDITO GONÇALVES, determinou-se que a incidência dos juros e da correção monetária havida no período anterior à vigência da Lei 11.960/09, que deu nova redação ao art. 1o.-F da Lei 9.494/1997, deve seguir os parâmetros definidos pela legislação então vigente, em consonância ao princípio do tempus regit actum. Sendo uma norma de natureza eminentemente processual, deve ser aplicada de imediato aos processos pendentes, a partir de sua vigência.
+4. No entanto, o colendo Supremo Tribunal Federal, ao examinar a questão por meio da ADI 4.357/DF (Rel. Min. AYRES BRITTO), declarou a inconstitucionalidade parcial, por arrastamento, do art. 5o. da Lei 11.960/2009.
+5. Assim, nessa linha de entendimento da Suprema Corte, a 1a.
+Seção do STJ, nos autos do REsp. 1.270.439/PR, julgado pelo rito dos Recursos Repetitivos, Rel. Min. CASTRO MEIRA, firmou o entendimento de que a partir da declaração de inconstitucionalidade parcial do art. 5o. da Lei 11.960/09: (a) a correção monetária das dívidas fazendárias deve observar índices que reflitam a inflação acumulada do período, a ela não se aplicando os índices de remuneração básica da caderneta de poupança; e (b) os juros moratórios serão equivalentes aos índices oficiais de remuneração básica e juros aplicáveis à caderneta de poupança, exceto quando a dívida ostentar natureza tributária, para a qual prevalecerão as regras específicas.
+6. No caso em apreço, como a matéria aqui tratada não ostenta natureza tributária, os juros moratórios devem ser calculados com base nos juros que recaem sobre a caderneta de poupança, nos termos da regra do art. 1o.-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, sendo que a correção monetária deverá ser calculada com base no IPCA, índice que melhor reflete a inflação acumulada do período.
+7. O STJ orienta-se no sentido de que a pendência de julgamento no STF de ação em que se discute a constitucionalidade de lei não enseja o sobrestamento dos recursos que tramitam no STJ. Cabível o exame de tal pretensão somente em eventual juízo de admissibilidade de Recurso Extraordinário interposto nesta Corte Superior.
+8. Agravo Interno da UNIÃO desprovido.
+(AgInt no REsp n. 1.576.987/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 8/6/2020, DJe de 17/6/2020.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
