@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de Agravo em Recurso Especial apresentado por CONSTRUTORA DONA FRANCISCA LTDA, interposto com fundamento no art. 1.042 do CPC (fl. 601-608), contra a decisão de fls. 593-594, que inadmitiu o Recurso Especial apresentado por ARMENIO MENDES PIRES e ROCHA & PIRES CORRETORES DE IMOVEIS LTDA.
+Alega o cabimento do presente recurso com fundamento no art. 1.042, do CPC, pois, no juízo de admissibilidade na origem, foi inadmitido o "Recurso Especial interposto pela Agravada e, ato contínuo, negou o pedido de majoração dos honorários de sucumbência formalizado pela Agravante em sede de contrarrazões" (fl. 603).
+Requer que "haja retratação do decisório que indeferiu a majoração dos honorários de sucumbência em sede recursal em benefício do patrono da Agravante".
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+Veja-se que na decisão de fls. 593-594, em sua parte final, o tribunal de origem consignou que não cabia a majoração de honorários recursais pois "a instância recursal somente se inicia com a admissão do recurso especial, quando, então, inaugura-se a competência do colendo Superior Tribunal de Justiça. Logo, inviável a majoração de honorários advocatícios em sede de juízo de admissibilidade. Caberá ao STJ, em eventual julgamento do recurso, estabelecer novos parâmetros da verba honorária".
+Nos termos da legislação processual, o Agravo previsto no art. 1.042 do CPC destina-se a atacar decisões proferidas pelo Tribunal a quo que não admitem Recurso Especial ou Extraordinário. Assim, a parte legitimada a apresentar Agravo em Recurso Especial a esta Corte seriam os ora Agravados ARMENIO MENDES PIRES e ROCHA & PIRES CORRETORES DE IMOVEIS LTDA, que, diga-se de passagem, não exerceram seu direito recursal. Não há legitimidade ativa neste recurso, uma vez que a ora Agravante, CONSTRUTORA DONA FRANCISCA LTDA, sequer apresentou Recurso Especial na origem.
+Também não há que se dizer que a legitimidade surge no momento em que o tribunal de origem indeferiu o pedido de majoração de honorários. Apesar de a apreciação do pedido incidental estar contido dentro do decisum que inadmitiu o Recurso Especial, trata-se de outro capítulo, apartado da decisão, que não tem a ver com a inadmissão propriamente dita, mas sim com a apreciação de pedidos incidentais, que abrem outra via recursal.
+Assim, caberia à parte apresentar o recurso previsto no art. 1.021 do mesmo diploma, ou seja, contra o pedido que indeferiu a majoração de honorários, caberia agravo interno dirigido ao tribunal de origem, não o agravo em recurso especial, dirigido ao STJ.
+Não fosse isso, incabível, de fato, a majoração de honorários recursais dentro da mesma instância recursal, pois, de acordo com a orientação jurisprudencial desta Corte, "a majoração dos honorários advocatícios deve ocorrer apenas quando iniciada nova instância recursal e não a cada recurso interposto dentro do mesmo grau de jurisdição, conforme se pode extrair da dicção do § 11 do art. 85 do CPC" (AgInt nos EDcl no AREsp n. 2.143.772/PB, Rel. Ministro Humberto Martins, Terceira Turma, DJe de 24.8.2023).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do STJ, não conheço do recurso.
+Publique-se.
+Intimem-se.
+ EMENTA
