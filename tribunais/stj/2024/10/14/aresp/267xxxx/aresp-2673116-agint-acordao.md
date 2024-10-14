@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. RESILIÇÃO UNILATERAL IMOTIVADA. PACIENTE EM TRATAMENTO ONCOLÓGICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. OFENSA AO ART. 12, VI, DA LEI 9.656/1998. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese dos autos, as instâncias ordinárias consideraram como abusiva a conduta do plano de saúde ao cancelar unilateralmente o plano de saúde da autora durante a realização de tratamento oncológico.
+2. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. A tese de existência de atendimento na rede credenciada apta a realizar o atendimento da paciente, com base no art. 12, VI, da Lei 9.656/1998, não foi objeto de exame pela instância ordinária, mesmo após a oposição de embargos declaratórios, razão pela qual incide na espécie a Súmula 211/STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 885):
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. RESILIÇÃO UNILATERAL IMOTIVADA. PACIENTE EM TRATAMENTO ONCOLÓGICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. OFENSA AO ART. 12, VI, DA LEI 9.656/1998. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões recursais, a insurgente aponta ofensa ao art. 1.022, II, do CPC/2015 por omissão no acórdão proferido pelo Tribunal de origem quanto à "inexistência da figura do reembolso integral nos casos de atendimento em local não credenciado, conforme a Lei 9.656/98, bem assim a ausência de ato ilícito que justifique a condenação por danos morais" (e-STJ, fl. 894).
+Pleiteia pelo afastamento do óbice das Súmula 211/STJ e 282/STF, sob o argumento de que houve prequestionamento quanto ao artigo tido como violado (art. 12, VI, da Lei 9.656/1998).
+Impugnação apresentada às fls. 906-910 (e-STJ), com pedido de majoração dos honorários advocatícios para 20% (vinte por cento) sobre o valor da causa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. RESILIÇÃO UNILATERAL IMOTIVADA. PACIENTE EM TRATAMENTO ONCOLÓGICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. OFENSA AO ART. 12, VI, DA LEI 9.656/1998. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese dos autos, as instâncias ordinárias consideraram como abusiva a conduta do plano de saúde ao cancelar unilateralmente o plano de saúde da autora durante a realização de tratamento oncológico.
+2. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. A tese de existência de atendimento na rede credenciada apta a realizar o atendimento da paciente, com base no art. 12, VI, da Lei 9.656/1998, não foi objeto de exame pela instância ordinária, mesmo após a oposição de embargos declaratórios, razão pela qual incide na espécie a Súmula 211/STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+4. Agravo interno a que se nega provimento.
+VOTO
+Os argumentos trazidos pela insurgente não são capazes de modificar as conclusões da deliberação unipessoal.
+Nas razões do recurso especial, a recorrente alegou que ficou configurada a negativa de prestação jurisdicional, porquanto o colegiado local não se manifestou sobre "a impossibilidade de reembolso/custeio integral de injeções do medicamento HERCEPTIN a cada 21 (vinte e um) dias".
+No entanto, conforme registrado na decisão agravada, constata-se que o acórdão recorrido resolveu satisfatoriamente todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia - tendo apresentado os motivos pelos quais reconheceu a abusividade da conduta da operadora do plano de saúde ao promover o cancelamento unilateral do contrato durante o tratamento oncológico da autora - sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nessas condições, não implica contrariedade ao art. 1.022, I e II, do CPC/2015.
+Assim, tendo o Tribunal de origem decidido de modo claro e fundamentado, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, inexistem vícios suscetíveis de correção por meio dos embargos de declaração apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Na mesma linha de cognição:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIACOMPLEMENTAR. AÇÃO DE RESTITUIÇÃO DE CONTRIBUIÇÕES. PRAZO DE PRESCRIÇÃOTRIENAL. INAPLICABILIDADE. INCIDÊNCIA DO PRAZO GERAL DECENAL. IMPUGNAÇÃODA SÚMULA 568 DO STJ. PRECEDENTES ANTERIORES AOS MENCIONADOS NA DECISÃOAGRAVADA. IMPOSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃODO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. SOLUÇÃO INTEGRAL DA LIDE. AUSÊNCIADE VIOLAÇÃO DO ART. 489 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS.IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SÚMULA7 DO STJ.PREJUDICIALIDADE.(..)
+5. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art.1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Precedentes.(..).
+10. Agravo interno não provido.
+(AgInt no REsp n. 1.748.394/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+Na hipótese dos autos, o Tribunal de Justiça do Estado da Bahia, ao reconhecer a abusividade da conduta da agravante, que cancelou unilateralmente o contrato de plano de saúde da autora em tratamento oncológico, consignou o seguinte (e-STJ, fls. 603-609):
+O Magistrado de primeiro grau consignou que a Operadora de Saúde perpetrou conduta abusiva ao promover o cancelamento unilateral do contrato de plano de saúde da Autora durante a realização de tratamento oncológico. Determinou, assim, o restabelecimento do plano.
+Com efeito, a relação obrigacional havida entre as partes é regida pelo Código de Defesa do Consumidor, haja vista que a Operadora de Saúde não é entidade de autogestão. Neste sentido, a Súmula nº 469 do STJ: "Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde". (Súmula 469 do STJ)
+Na espécie, o contrato foi firmado entre as partes em 26.12.2009 e em 26.12.2011 ocorreu a resilição unilateral imotivada. A Autora, portadora de neoplasia mamária, realizou cirurgia para retirada do tumor em 01.12.10 (ID 3228674) e estava realizando tratamento oncológico, com indicação de receber injeções do medicamento HERCEPTIN a cada 21 (vinte e um) dias desde 03.2011, ao custo de R$ 12.600,00 (doze mil e seiscentos reais) cada aplicação (ID 32238676).
+De fato, o contrato de saúde coletivo pode ser rescindido ou suspenso imotivadamente (independentemente da existência de fraude ou inadimplência), após a vigência do período de doze meses e mediante prévia notificação do usuário com antecedência mínima de sessenta dias (art. 17 da Resolução Normativa ANS 195/2009).
+No caso em tela, contudo, mesmo tendo sido cumprido o dever de notificação prévia, o STJ firmou entendimento de que se deve aguardar a conclusão do tratamento médico garantidor da sobrevivência da Autora para se pôr fim à avença, como se verifica nos julgados a seguir colacionados:
+(..)
+DEFERE-SE o pedido de condenação por danos morais. Comprovada a ilicitude na conduta perpetrada pelo Plano de Saúde, consistente na rescisão unilateral DURANTE A REALIZAÇÃO DE TRATAMENTO ONCOLÓGICO, causando à Autora sofrimento que extrapola o mero aborrecimento cotidiano, mostra-se indispensável a reparação correspondente, principalmente por ser a saúde um bem essencial à vida.
+(..)
+O valor de R$ 5.000,00 (cinco mil reais) atende ao caráter pedagógico, punitivo e coercitivo da indenização, sem configurar enriquecimento ilícito.
+( )
+A Autora, acometida por neoplasia mamária, realizou a retirada do tumor em 01.12.10 (ID 3228674) e estava realizando tratamento oncológico, com indicação de receber injeções do medicamento HERCEPTIN a cada 21 (vinte e um) dias desde 03.2011, ao custo de R$ 12.600,00 (doze mil e seiscentos reais) cada aplicação (ID 32238676). Conforme exposto, considerando que a doença encontra cobertura contratual, o seu tratamento também deve ser custeado de forma INTEGRAL pela Operadora de Saúde, na forma prescrita em relatório médico.
+INDEFERE-SE, assim, o pedido subsidiário de custeio do medicamento nos limites praticados na tabela de reembolso da Operadora de Saúde.
+Por conseguinte, verifica-se que a tese de existência de atendimento na rede credenciada apta a realizar o atendimento da paciente (e-STJ, fl. 770), com base no art. 12, VI, da Lei 9.656/1998, não foi objeto de exame pela instância ordinária, mesmo após a oposição de embargos declaratórios, razão pela qual incide na espécie a Súmula 211/STJ, dada a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+Ainda que assim não fosse, o fornecimento do medicamento injetável para tratamento oncológico é obrigatório pelo plano de saúde.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. REALIZAÇÃO DE PERÍCIA. DESNECESSIDADE. CERCEAMENTO DE DEFESA. VERIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ.
+TRATAMENTO DE CÂNCER. NATUREZA TAXATIVA OU EXEMPLIFICATIVA DO ROL DA ANS. IRRELEVÂNCIA. FORNECIMENTO DE MEDICAMENTO ANTINEOPLÁSICO.
+OBRIGAÇÃO. RECUSA INDEVIDA. DANOS MATERIAIS. SÚMULA N. 7 DO STJ.
+AGRAVO INTERNO DESPROVIDO.
+1. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+2. Rever a convicção formada pelo tribunal de origem acerca da prescindibilidade de produção da prova técnica requerida demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+3. As operadoras de plano de saúde têm o dever de cobrir fármacos para tratamento contra o câncer, sendo irrelevante analisar a natureza taxativa ou exemplificativa do rol da ANS.
+4. É abusiva a recusa da operadora do plano de saúde de custear medicamento com registro na Anvisa e prescrito pelo médico assistente do paciente, ainda que se trate de fármaco off label ou de caráter experimental.
+5. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+6. Agravo interno desprovido."
+(AgInt no REsp 2.053.703/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024)
+Desse modo, uma vez que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Por outro lado, não há como atender ao pedido formulado pela agravada, porquanto o Tribunal de origem já havia fixado os honorários advocatícios no teto máximo de 20% (vinte por cento) sobre o valor da condenação, com base no art. 85, § 2º, do CPC/2015.
+Diante do exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
