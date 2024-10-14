@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DAVID PATRICK GOMES BRAGA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Consta dos autos que o paciente foi preso preventivamente em 19/7/2022, tendo sido posteriormente denunciado pelos crimes previstos nos arts. 2º, § 2º, da Lei n. 12.850/2013 e 33, caput, da Lei n. 11.343/2006.
+A defesa alega a ocorrência de excesso de prazo, visto que o paciente está encarcerado há mais de dois anos, com os autos conclusos para sentença desde 6/5/2024. Aduz que, no RHC n. 188.392/CE, o STJ determinou o trancamento da ação penal referente ao tráfico de drogas, o que resultaria no cumprimento antecipado da pena mínima do delito remanescente.
+Afirma que a recomendação de celeridade no julgamento, expedida pelo Tribunal estadual, foi descumprida, e, até o momento, não houve sentença proferida. Argumenta que a prisão preventiva já deveria ter sido revista nove vezes, sendo cabível sua substituição por medidas cautelares diversas, nos termos do art. 319 do CPP.
+Alega ainda que não há justa causa para a manutenção da prisão, destacando a fragilidade das provas e a ausência de risco de reiteração delitiva. Além disso, aponta que o paciente não seria o líder da organização criminosa, que o crime não envolveu violência ou grave ameaça e que não há comprovação de sua atuação contínua ou permanente em nenhuma organização.
+Requer, liminarmente e no mérito, a concessão de liberdade provisória, mediante medidas cautelares alternativas.
+Indeferida a liminar (fls. 512-516) e prestadas as informações (fls. 521-525), a defesa apresentou petição indicando a perda superveniente do objeto devido à sentença condenatória proferida pela origem.
+Argumenta, porém, haver a necessidade de concessão da ordem de ofício, visto que a decisão que negou o direito de recorrer em liberdade foi insuficiente e genérica, sem a devida análise da possibilidade de medidas cautelares alternativas à prisão.
+É o relatório.
+De plano, verifica-se que a defesa apresentou petição, na qual informa a existência de sentença condenatória superveniente proferida pelo Juízo de origem.
+Assim, em face de título judicial diverso, no qual foram novamente analisados os requisitos da segregação cautelar sob nova perspectiva, fica prejudicado o objeto do presente writ, bem como da tutela provisória (Pet n. 00872487/2024, protocolada em 3/10/2024).
+No mais, não há teratologia ou manifesta ilegalidade para justificar a concessão da ordem de ofício.
+Consoante se colhe dos autos, foi negado pela sentença o direito do réu recorrer em liberdade ao argumento de que "persistem os motivos que ensejaram a prisão cautelar. Não teria sentido algum o réu permanecer preso durante todo o processo dada a sua periculosidade e ser solto na sentença que a reconheceu como perigoso ao convívio social" (fls. 639-640).
+Neste contexto, "segundo jurisprudência do Superior Tribunal de Justiça, a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1.º, do Código de Processo Penal, o entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma" (HC n. 506.418/BA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/6/2020, DJe de 25/6/2020.)
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
