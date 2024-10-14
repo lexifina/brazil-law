@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. RECURSO INTEMPESTIVO. DUAS DECISÕES. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA DECISÃO DIVERSA. EFEITO INTERRUPTIVO NÃO CONFIGURADO. AGRAVO NÃO CONHECIDO.
+1. É intempestivo o agravo interno interposto fora do prazo de 15 (quinze) dias úteis, nos termos dos arts. 219, caput, 994, III, 1.003, § 5º, e 1.021, todos do Código de Processo Civil.
+2. Embargos de declaração opostos contra uma das decisões proferidas no processo não interrompe o prazo para interposição de recursos contra decisão que não foi combatida.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão de fls. 3089/3095, que não conheceu do recurso em mandado de segurança interposto pela parte ora agravante, e a decisão de fls. 3130/3131, que determinou a certificação do trânsito em julgado em razão da homologação da desistência dos embargos de declaração opostos por CRV INDUSTRIAL LTDA.
+Sustenta a agravante que: "A desistência dos embargos de declaração, contudo, não afasta os efeitos interruptivos do recurso para outros recursos, por força do art. 1.026, para as demais partes do processo. Embora o resultado da desistência seja o não conhecimento do recurso, os efeitos interruptivos deixam de existir apenas para a parte que desistiu, sob o risco de que uma parte possa manipular a tempestividade dos recursos das partes adversas".
+Alega que, "havendo a interrupção do prazo recursal com a oposição dos embargos pela CRV INDUSTRIAL LTDA., não cessa os efeitos interruptivos do recurso para as demais partes, de modo que não houve o trânsito em julgado das decisões de fls. 3086/3095".
+No mérito, defende que o mandado de segurança foi conhecido e apreciado no acórdão recorrido, bem como que "a questão da nulidade dos leilões foi examinada pelo Tribunal de origem", de modo que é necessário que esta Corte Superior "aprecie os fundamentos do recurso que evidenciam justamente o contrário: que o ato judicial impugnado é teratológico, visto que os leilões foram procedidos a partir de evidentes ilegalidades".
+Argumenta que "os argumentos utilizados no Acórdão recorrido foram expressamente impugnados no recurso ordinário em análise, inclusive, com fundamentos que justificam a reforma daquele decisum. A patente nulidade dos leilões não pode ser afastada sob o pálio de alegações tangenciais e que sequer refletem a realidade dos autos".
+Insiste que: "O recurso versa sobre o fato de que o ato judicial impugnado é, notoriamente, ilegal, diante de todos os vícios acima listados e aprofundados no corpo do recurso. Frisa-se que v. acórdão recorrido não apontou qualquer situação consolidada que pudesse afastar a gravidade dos danos e a sua irreparabilidade".
+Impugnação apresentadas às fls. 3155/3177.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. RECURSO INTEMPESTIVO. DUAS DECISÕES. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA DECISÃO DIVERSA. EFEITO INTERRUPTIVO NÃO CONFIGURADO. AGRAVO NÃO CONHECIDO.
+1. É intempestivo o agravo interno interposto fora do prazo de 15 (quinze) dias úteis, nos termos dos arts. 219, caput, 994, III, 1.003, § 5º, e 1.021, todos do Código de Processo Civil.
+2. Embargos de declaração opostos contra uma das decisões proferidas no processo não interrompe o prazo para interposição de recursos contra decisão que não foi combatida.
+2. Agravo interno não conhecido.
+VOTO
+O presente recurso não merece conhecimento.
+Do exame dos autos, verifica-se que, no âmbito do Tribunal de origem, foram interposto dois recursos ordinários em mandado de segurança: um por CRV INDUSTRIAL LTDA e outro pela parte ora agravante (CONCRE-NORTE INDÚSTRIA E COMÉRCIO LTDA).
+Cada um dos recursos foi objeto de exame, nesta Corte Superior, em decisão específica (fls. 3086/3088 e 3089/3095), sendo que ambos não foram conhecidos por motivos diversos: a) o recurso da CRV INDUSTRIAL LTDA por ausência de interesse em recorrer; e b) o recurso da ora agravante não foi conhecido em razão dos óbices das Súmula 283 e 284 do STF, bem como entendimento em consonância com a jurisprudência desta Corte Superior (fls. 3089/3095).
+Às fls. 3106/3108, a CRV INDUSTRIAL LTDA opôs embargos de declaração especificamente em face da decisão que não conheceu do seu recurso (fls. 3086/3088).
+Na sequência, em 03/05/2024, a CRV INDUSTRIAL LTDA apresentou pedido de desistência dos embargos de declaração opostos, tendo em vista que, "no tocante à segunda decisão referida, transcorreu in albis o prazo recursal, de maneira que é correto afirmar que a r. decisão de fls. e-STJ Fl.3089/3095 transitou em julgado" (fl. 3128).
+Em decisão de fls. 3130/3131, homologuei o pedido de desistência, determinando a certificação do trânsito em julgado das decisões de fls. 3086/3095.
+Sobreveio então o presente agravo interno de fls. 3136/3148, que pretende a reforma da decisão que não conheceu do recurso interposto por CONCRE-NORTE INDÚSTRIA E COMÉRCIO LTDA.
+Feito este breve relato, verifica-se que o agravo interno ora em exame foi interposto contra decisão disponibilizada no Diário de Justiça eletrônico em 2/4/2024 e considerada publicada em 3/4/2024, encerrando-se o prazo do recurso de quinze dias úteis no dia 24/4/2024.
+Ocorre que a petição de agravo interno somente foi protocolada em 28/5/2024 (fls. 3136/3148), após a decisão que determinou a certificação do trânsito em julgado (fls. 3130/3131), sendo, portanto, intempestivo o recurso, nos termos dos arts. 219, caput, 994, III, 1.003, § 5º, e 1.021, todos do Código de Processo Civil.
+Destaca-se que não há que falar em efeito interruptivo dos embargos de declaração opostos pela outra parte, uma vez que os embargos de declaração foi interposto especificamente contra decisão diversa da atacada no presente agravo interno.
+Salienta-se que foram proferidas duas decisões singulares distintas (autônomas), que trataram de matérias diversas, sendo cada uma objeto de intimação específica no Diário de Justiça eletrônico.
+Nesse contexto, não há que falar em efeito interruptivo dos embargos de declaração no que toca à decisão que não foi objeto do recurso. A propósito, confira-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. RECURSO INTEMPESTIVO. PRAZO DE 5 DIAS. NÃO OBSERVÂNCIA. ART. 258 DO RISTJ E 798 DO CPP. 2. INTERPOSIÇÃO DE EMBARGOS PELO CORRÉU. INTERRUPÇÃO DO PRAZO RECURSAL. NÃO OCORRÊNCIA. 3. ACLARATÓRIOS OPOSTOS CONTRA DECISÃO DIVERSA. NÃO INTERRUPÇÃO DO PRAZO. 4. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O prazo para interposição de agravo regimental, em matéria penal, é de 5 dias, nos termos do art. 258, caput, do RISTJ. Ademais, os prazos, no processo penal, são contínuos e peremptórios, conforme dispõe o art. 798, caput, do CPP. Dessa forma, tendo a decisão que julgou o agravo em recurso especial do agravante sido disponibilizada no DJe do STJ em 23/10/2019, com publicação em 24/10/2019 (e-STJ fl. 4.160), tem-se que o prazo recursal se iniciou no dia 25/10/2019 e findou-se em 29/10/2019. Contudo, o presente agravo foi interposto apenas em 11/11/2019, sendo, portanto, manifestamente intempestivo.
+2. A interposição de embargos de declaração pelo corréu, por óbvio, não interrompeu seu prazo para recurso, na presente hipótese, uma vez que os embargos foram opostos contra a decisão proferida às e-STJ fls. 4.116/4.131, que julgou o agravo em recurso especial do corréu, e o presente agravo regimental foi interposto contra a decisão proferida às e-STJ fls. 4.132/4.156, que julgou o agravo em recurso especial do recorrente.
+3. O efeito interruptivo dos embargos de declaração se refere à interposição de recursos subsequentes contra a mesma decisão, porquanto necessário se aguardar o eventual aclaramento do decisum para que sejam manejados os demais recursos cabíveis. Dessarte, a oposição de embargos de declaração pelo corréu, para aclarar a decisão que julgou unicamente seu recurso, não tem o condão de interromper o prazo para interposição de recurso contra decisão diversa.
+4. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.221.542/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/12/2019, DJe de 19/12/2019.)
+Ressalta-se que, na petição dos embargos, há expressa indicação de que o recurso ataca apenas a decisão de fls. 3086/3088 (fl. 3106).
+Assim, a oposição dos embargos de declaração pela CRV INDUSTRIAL LTDA não interrompeu o prazo para recorrer de decisão não atacada no recurso, de modo que a decisão ora agravada (de fls. 3089/3095) transitou em julgado em 25/ 4/2024.
+Dessa forma, ainda que conhecido o recurso no que toca à pretensão de reformar a decisão que determinou a certificação do trânsito em julgado, não há como alterar a conclusão de que, com a homologação da desistência dos embargos de declaração, ocorreu o trânsito em julgado de ambas as decisões de fls. 3086/3088 e 3089/3095.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
