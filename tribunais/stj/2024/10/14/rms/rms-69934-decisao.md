@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por SALATIEL CLEMENTE DE OLIVEIRA MARTINS contra acórdão do Tribunal de Justiça de Minas Gerais assim ementado (e- STJ fl. 114):
+MANDADO DE SEGURANÇA - AGENTE DE SEGURANÇA PENITENCIÁRIO - PROMOÇÃO - ESCOLARIDADE ADICIONAL - LEI ESTADUAL Nº 14.695/03 - REGULAMENTAÇÃO PELO DECRETO Nº 44.769/08 - EXTRAPOLAÇÃO DO PODER REGULAMENTAR - REQUISITOS TEMPORAIS - APROVAÇÃO DA CÂMARA DE COORDENAÇÃO GERAL, PLANEJAMENTO, GESTÃO E FINANÇAS - CABIMENTO - AUSÊNCIA DE DIREITO LÍQUIDO E CERTO - DENEGAÇÃO DA SEGURANÇA.
+- Direito líquido e certo é aquele comprovado de plano, por documento inequívoco e independentemente de exame técnico e dilação probatória.
+- Conquanto a Lei Estadual nº 14.695/03 tenha remetido a regulamentação do exercício de direito à edição de Decreto, a norma que instituiu o benefício não estabelece limitação temporal para a apresentação de requerimento administrativo visando a promoção por escolaridade adicional, não podendo o Decreto 44.769/08 fazê-lo.
+- Ausente a comprovação da submissão do ato de promoção por escolaridade adicional à aprovação da Câmara de Coordenação Geral, Planejamento, Gestão e Finanças, conforme prevê o inciso VI, do art. 4º do Decreto Estadual nº 44.769/08, não se vislumbra direito líquido e certo do impetrante à promoção.
+- Segurança denegada.
+O recorrente alega, em síntese, que tem direito líquido e certo à promoção por escolaridade adicional, tendo em vista que preencheu todos os requisitos estabelecidos na Lei estadual n. 14.965/2013.
+Afirma que o indeferimento administrativo do pedido decorreu exclusivamente da limitação temporal instituída pelo Decreto n. 44.769/2008.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+Passo a decidir.
+O recurso não merece prosperar.
+O Tribunal de origem reconheceu que o Decreto n. 44.769/2008 extrapolou os limites descritos na Lei n. 15.301/04, excedendo o poder regulamentar, ao estabelecer requisito temporal. Destacou, ainda, que o ora recorrente não atendeu a todos os requisitos legais para concessão da promoção, merecendo destaque o seguinte excerto (e-STJ fls. 120/122):
+(..)
+Do cotejo do aludido documento, exsurgem os motivos que ensejaram a recusa administrativa, a saber: (i) falta de apresentação de requerimento, preenchido pelo servidor no prazo de até 60 (sessenta) dias após a data de publicação da resolução conjunta, juntamente com documentos comprobatórios, sendo que os demais requisitos já deveriam estar cumpridos, ou seja, até o dia 31/12/2007, (ii) aprovação em estágio probatório, além de possuir o quantitativo mínimo de 02 (duas) avaliações de desempenho satisfatórias e (iii) ausência de submissão do pleito de promoção por escolaridade adicional para deliberação da Câmara de Coordenação Geral, Planejamento, Gestão e Finanças (CCGPGF), para verificação de disponibilidade orçamentária.
+(..)
+Observa-se, porém, que a pretensão de promoção por escolaridade adicional do impetrante não merece acolhimento, haja vista que os requisitos previstos nos incisos VI e VII, do art. 4º do indigitado Decreto Estadual, quais sejam, submissão e aprovação da Câmara de Coordenação Geral, Planejamento, Gestão e Finanças, não foram atendidos pelo servidor, como atesta o ato coator, doc. nº 10.
+Esta Corte, em hipóteses similares à presente, tem se manifestado no sentido de que, não comprovado os requisitos legalmente previstos a Lei estadual n. 14.965/2013 e no Decreto estadual n. 44.769/2008, o servidor não faz jus à promoção por escolaridade adicional. Exemplificativamente, o seguinte precedente:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. PROMOÇÃO POR ESCOLARIDADE ADICIONAL. INTERSTÍCIO TEMPORAL. NÃO CUMPRIMENTO. INEXISTÊNCIA DE DIRERITO LÍQUIDO E CERTO. RECURSO NÃO PROVIDO.
+1. Cuida-se na origem de mandado de segurança contra ato do Advogado Geral do Estado de Minas Gerais objetivando sejam afastadas as limitações temporais previstas no Decreto Estadual n. 44.769/2008 e na Resolução Conjunta SEPLAG/AGE n. 6.550/2008, a fim de que seja concedida à impetrante a Promoção Adicional por Escolaridade para o nível III, grau A, a partir do dia seguinte à conclusão do estágio probatório (9/9/2018).
+2. O Órgão Especial do Tribunal de Justiça do Estado de Minas Gerais denegou a segurança, asseverando que a contagem do prazo de 5 (cinco) anos para a aferição da primeira promoção e do adicional de escolaridade deve se iniciar após a conclusão do estágio probatório, ou seja, a partir de 9/9/2018.
+3. Nesse contexto, independentemente das alegadas ilegalidade das limitações temporais previstas no Decreto n. 44.769/2008, e à SEPLAG/SEDS n.
+6.574/2008, que foram editados com objetivo de regulamentar as disposições da lei, fato é que a conclusão de curso de pós-graduação não é o único requisito exigido pela lei para o deferimento da benesse. Existem outros pressupostos estabelecidos no art. 20 da Lei Estadual n. 15.470/2005, quais sejam: I) aprovação da Câmara de Coordenação Geral, Planejamento, Gestão e Finanças; II) um quantitativo de Avaliações de Desempenho Individual satisfatórias; e III) compatibilidade entre a formação complementar ou superior com a natureza e complexidade da carreira. Deve, assim, o acórdão recorrido ser mantido na sua integralidade, visto que, de fato, a impetrante não comprovou o preenchimento dos requisitos citados na referida lei.
+4. Agravo interno não provido.
+(AgInt no RMS 63.429/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 28/06/2021, DJe 03/08/2021).
+No mesmo sentido, as seguintes decisões monocráticas: RMS 67.424/MG, Relator Ministro MANOEL ERHARDT (desembargador convocado do TRF5), DJe 16/12/2021; RMS 67.634/MG, Relator Ministro MAURO CAMPBELL MARQUES, DJe 1º/12/2021; RMS 67276/MG, Relator Ministro SÉRGIO KUKINA, DJe 08/10/2021; RMS 67.179/MG, Relatora Ministra ASSUSETE MAGALHÃES, DJe 21/09/2021.
+Assim, não preenchidos os requisitos legalmente exigidos, não há direito a ser resguardado na presente via.
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGO PROVIMENTO ao recurso.
+Intimem-se. Publique-se.
+EMENTA
