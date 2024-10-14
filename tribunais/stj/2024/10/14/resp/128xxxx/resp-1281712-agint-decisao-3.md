@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interno interposto por SOLA S/A INDÚSTRIAS ALIMENTÍCIAS contra a decisão de fls. 2642-2648 da lavra da Ministra Assusete Magalhães, que não conheceu do recurso especial, pelos seguintes fundamentos: (a) não cabimento de recurso especial alegando violação à Resolução; (b) Súmula n. 284 do STF; (c) Súmula n. 282 do STF; (d) não ocorrência d e julgamento extra petita; e (e) Súmulas n.s 5 e 7 do STJ.
+Inconformada (fls. 2688-2704), sustenta a Parte agravante, preliminarmente, a necessidade de regularização dos autos, tendo em vista a ausência de uma folha da petição inicial, constatada após a digitalização dos autos, bem como indica defeito na representação processual da autora, uma vez ausente cópia do estatuto social e da ata de eleição da diretoria da extinta INTERBRAS, que valide a outorga de poderes aos advogados subscritores da petição inicial.
+Alega, no mérito, a insubsistência da decisão agravada, sob os seguintes fundamentos: (i) realizou a devida indicação expressa dos dispositivos legais violados; (ii) estar a matéria devidamente prequestionada; (iii) ser desnecessário o reexame de provas ou a interpretação de cláusula cont ratual; e (iv) a necessidade de se observar o teor da Súmula n. 539 do STJ, tendo em vista a cobrança de juros capitalizados por instituição não integrante do Sistema Financeiro Nacional.
+Foi apresentada resposta ao agravo interno (fls. 2766-2783).
+É o relatório. Decido.
+Tendo em vista as razões recursais, bem como a faculdade prevista nos arts. 1.021, § 2º, do CPC e 259 do RISTJ, reconsidero a decisão de fls. 2642-2648 e passo, a seguir, a um novo exame do recurso interposto.
+Considerando o provimento do recurso especial do corréu, BANCO NACIONAL S/A, reconhecendo a violação ao art. 535 do CPC/1973, por se tratar de matéria prejudicial ao presente recurso, entendo estar prejudicada sua análise, ficando ressalvada a possibilidade de serem objeto de nova insurgência, após o novo julgamento dos declaratórios a ser proferido pelo Tribunal de origem, caso persista interesse da parte recorrente nesse sentido.
+Ante o exposto, RECONSIDERO a decisão de fls. 2642-2648, e julgou PREJUDICADO o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
