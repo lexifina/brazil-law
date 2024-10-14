@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pela AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A. contra a decisão em que não reconheci a ocorrência de negativa de prestação jurisdicional (fls. 1.194/1.198).
+A parte agravante alega que (fl. 1.208):
+ ..  ao concluir pela negativa de cobertura, em caso de reembolso parcial, o acórdão recorrido deixou de observar a interpretação conferida pela própria Administração.
+Apesar do entendimento editado pela ANS reforçar a tese autoral, a Turma Especializada do Tribunal de origem, ao julgar o recurso de apelação, limitou-se a reconhecer os pontos defendidos pela Agência Agravada, ignorando as razões da Operadora, razão pela qual cumpria à C. Turma Especializada se manifestar acerca da posição definida pela própria Agência, reconhecendo que o reembolso parcial NÃO se trata de demanda assistencial, alterando o prazo para reconhecimento da reparação voluntária e eficaz, que resultaria no arquivamento dos autos, sem a lavratura do auto de infração.
+Requer que seja conhecido o agravo, para que seja dado provimento ao recurso especial interposto.
+A parte adversa apresentou impugnação (fls. 1.217/1.224).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. Agravo interno a que se nega provimento.
+VOTO
+Não há motivo para reformar a decisão agravada.
+Em que pesem aos argumentos apresentado pela parte ora recorrente, verifico que inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+A Corte regiona l fundamentou expressamente no seguinte sentido (fls. 1.082/1.084):
+Com efeito, em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela apelante, capaz de alterar os fundamentos da sentença guerreada, faz subsistir incólume o entendimento nela firmado, inclusive no que diz respeito à juridicidade das cominações aplicadas, verbis:
+ ..
+Como se pode extrair dos documentos dos autos, não há controvérsias quanto ao descumprimento inicial da obrigação de reembolso da Operadora, feito em valor inferior ao que seria devido pelos termos contratuais, já que ela própria admite seu equívoco ao expor em sua manifestação de fls. 23 dos autos "identificamos que por uma falha o reembolso foi feito a menor na época dos fatos, assim esta Operadora identificou o ocorrido e disponibilizou o pagamento da diferença (..)", o que foi ratificado na defesa de fls. 88/90.
+Sendo assim, por se tratarem de procedimentos com cobertura obrigatória (colectomia ou sem colostomia, gastroenteroanastomose, enterotomia e/ou enterorrafia - fls. 76/77), a controvérsia que se instaurou nos autos, de fato, diz respeito ao momento em que foi realizado o cumprimento da obrigação por parte da Operadora, através do reembolso devido nos termos do contrato.
+Acontece que, como bem disposto no relatório de auto de autuação, a Resolução Normativa 226/2010 determina que "as demandas de negativa de cobertura a serem processadas na NIP se restringem aos casos em que o procedimento ou evento em saúde ainda não foi realizado ou foi realizado às expensas do consumidor" (art. 1º, § 2º) e que "nos casos em que o procedimento foi realizado às expensas do consumidor, a reparação voluntária e eficaz será reconhecida com a comprovação do reembolso efetuado pela operadora, devendo os requisitos deste instituto ser preenchidos, nos termos do art. 11 e seus parágrafos da RN nº 48, de 2003, alterado pela RN nº 142, de 2006" (art. 22).
+Portanto, as demandas que tratam do dever de reembolso são incluídas como demandas de negativa de cobertura, razão pela qual, contrariamente ao que a Operadora alega em sua defesa, não pode ser reconhecida a Reparação Voluntária e Eficaz até a data da lavratura do auto de infração, mas apenas até o encaminhamento da demanda para abertura de processo administrativo, nos termos do parágrafo 5º do artigo 11 da RN 48, in verbis:"
+§ 5º Caso a operadora esteja cadastrada na forma da legislação específica, as demandas referentes à negativa de cobertura serão encaminhadas para os órgãos com atribuição para processamento da Notificação de Investigação Preliminar - NIP e a reparação voluntária e eficaz poderá ser reconhecidas e for comprovadamente realizada até a data do envio da demanda para a abertura de processo administrativo para apuração de infração na forma da legislação específica".
+Sendo assim, a alegação da Operadora sobre a aplicação a RVE no processo administrativo 25789.025434/2014-37 por reparação antes da lavratura do auto de infração não encontra respaldo, vez que a demanda referenciada não diz respeito a caso de negativa de cobertura, em que, como mencionado, a RVE só poderá ser aplicada se realizada até o envio da demanda para abertura de processo administrativo".
+Essas, portanto, são as razões para se concluir pela inexistência de motivo para aplicação do instituto da reparação voluntária e eficaz, pois a embargante não observou o disposto no § 5º do art. 11 da RN48/2003 (Caso a operadora esteja cadastrada na forma da legislação específica, as demandas referentes à negativa de cobertura serão encaminhadas para os órgãos com atribuição para processamento da Notificação de Investigação Preliminar - NIP e a reparação voluntária e eficaz poderá ser reconhecida se for comprovadamente realizada até a data do envio da demanda para a abertura de processo administrativo para apuração de infração na forma da legislação específica).
+(..)
+Rejeito, portanto, a alegação de motivo existente (reparação voluntária e eficaz) que conduziria ao afastamento da multa aplicada pela embargada.
+Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
