@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. INADEQUAÇÃO DA VIA ELEITA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - É incabível a interposição de agravo interno para análise de eventual omissão da decisão agravada, sendo os embargos de declaração a via adequada para tal objetivo.
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo Interno não conhecido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra a decisão que assegurou a manutenção do direito à compensação com base na legislação vigente quando do ajuizamento da ação, consoante definido pela Corte de origem, e deu parcial provimento ao recurso especial da VITERRA BIOENERGIA S.A. para resguardar seu direito de pleitear a compensação, administrativamente, com base na legislação superveniente, Lei n. 13.670/18, que introduziu o artigo 26-A na Lei n. 11.457/07, caso queira.
+Sustenta a Agravante, em síntese, que, "Em que pese o acerto da r. decisão, um dos pedidos realizados pela agravante não foi analisado, qual seja, o requerimento de sobrestamento parcial do processo no que tange à discussão acercado Tema 985 do STF (incidência de contribuição previdenciária sobre o terço de férias)" (fl. 8.359e).
+Afirma que "pleiteou na petição de AgInt (fls. 8.297/8.331) o sobrestamento parcial do processo em virtude da determinação da suspensão nacional das ações (Doc. 01) que versem acerca da incidência de contribuições previdenciárias patronais sobre o terço constitucional de férias - Tema nº 985 da sistemática da Repercussão Geral" (fl. 8.360e).
+Argumenta que "ajuizou a ação em 17/05/2018, de modo que faz jus à modulação dos efeitos do Tema 985 do STF, sendo de rigor a aplicação do juízo de conformidade previsto no art. 1.040 do Código de Processo Civil" (fl. 8.361e).
+Aponta, ainda, que "faz-se necessária a devolução dos presentes autos ao Tribunal de origem para aplicação da modulação dos efeitos definida pela decisão em Embargos de Declaração no Tema 985 do STF" (fl. 8.362e).
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. INADEQUAÇÃO DA VIA ELEITA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - É incabível a interposição de agravo interno para análise de eventual omissão da decisão agravada, sendo os embargos de declaração a via adequada para tal objetivo.
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo Interno não conhecido.
+VOTO
+Não assiste razão à Agravante.
+Consoante a jurisprudência desta Corte Superior, é incabível a interposição de agravo interno para análise de eventual omissão da decisão agravada, sendo os embargos de declaração a via adequada para tal objetivo.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. PRETENSÃO DE EXIBIÇÃO DE DOCUMENTOS. CPC/2015. POSSIBILIDADE. AGRAVO INTERNO É VIA INADEQUADA PARA SANAR OMISSÃO.
+1. Cinge-se a controvérsia a saber se possível a ação de produção antecipada de provas, prevista no art. 381 do CPC/2015, visando à exibição de documentos e informações financeiras da parte ré.
+2. Hipótese em que o agravado ajuizou Ação de Produção Antecipada de Provas objetivando levantar provas documentais a respeito da operação de câmbio realizada em seu nome para posterior análise da viabilidade de ação condenatória ou acordo com a instituição bancária.
+3. Admite-se o ajuizamento de ação autônoma para a exibição de documento, com base nos arts. 381 e 396 e seguintes do CPC, ou até mesmo pelo procedimento comum, previsto nos arts. 318 e seguintes do CPC (REsp n. 1.774.987/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 13/11/2018).
+4. O agravo interno não é a via adequada para sanar vício de omissão contida em decisão monocrática, sendo os embargos de declaração o recurso cabível para tal fim, nos termos do art. 1.022 do Código de Processo Civil (CPC).
+Agravo conhecido em parte e improvido.
+(AgInt nos EDcl no AREsp n. 2.110.436/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. LEI MUNICIPAL. ANÁLISE. IMPOSSIBILIDADE. CONTESTAÇÃO EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF. DISSÍDIO JURISPRUDENCIAL. OMISSÃO. AGRAVO INTERNO. ERRO GROSSEIRO.
+1. Consoante enuncia a Súmula 282 do STF, não se conhece de recurso especial quando não prequestionados os dispositivos de lei federal tidos por violados.
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. Caso em que a Corte local decidiu a questão relativa à validade da notificação pessoal da recorrente em processo administrativo de infração ambiental, sob a ótica de lei complementar municipal.
+4. Encerra natureza constitucional, de competência do Supremo Tribunal Federal, a pretensão recursal que questiona a validade de lei local contestada em face de lei federal (art. 102, III, "d", da Constituição Federal).
+5. O agravo interno não se presta para sanar eventual omissão da decisão monocrática, no caso, analisar o dissídio pretoriano invocado, já que a via adequada são os embargos de declaração, constituindo essa interposição erro grosseiro, que não admite aplicação do princípio da fungibilidade. Precedentes.
+6. Agravo interno parcialmente conhecido e desprovido.
+(AgInt no AREsp n. 2.421.357/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/4/2024, DJe de 19/4/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO PARA O MESMO CAPÍTULO DA DECISÃO MONOCRÁTICA. VIOLAÇÃO AO ART. 1.022, I, DO CPC. NÃO OCORRÊNCIA. JULGAMENTE EXTRA OU ULTRA PETITA. NÃO CONFIGURADO. VIOLAÇÃO AO ART. 10 CPC E TESE RELATIVA AO DEPÓSITO PRÉVIO. AUSÊNCIA DE PREQUESTIONAMENTO. ALEGAÇÃO DE OMISSÃO NA DECISÃO MONOCRÁTICA AGRAVADA. NÃO CABIMENTO. MATÉRIA QUE DEVERIA TER SIDO OBJETO DE EMBARGOS DE DECLARAÇÃO. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Conforme entendimento da Corte Especial do Superior Tribunal de Justiça, "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ", mas deve a parte recorrente, "para cada um dos capítulos decisórios impugnados, refutá-los em tantos quantos forem os motivos autonomamente considerados para mantê-los" (EREsp n. 1.424.404/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+2. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2.1. Convém registrar que a obscuridade se verifica quando há evidente dificuldade do julgado, decorrente da falta de clareza, o que não ocorreu não hipótese em análise.
+3. A jurisprudência desta Corte Superior é pacífica no sentido de que o pleito inicial deve ser interpretado em consonância com a pretensão deduzida na exordial como um todo, sendo certo que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento extra ou ultra petita.
+4. Incide a Súmula 211 do STJ, na espécie, porquanto ausente o prequestionamento.
+4.1. Importante assinalar que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte insurgente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.
+5. O agravo interno não é a via adequada para sanar vício de omissão contida em decisão monocrática, sendo os embargos de declaração o recurso cabível para tal fim, nos termos do art. 1.022 do Código de Processo Civil (CPC).
+6. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt no REsp n. 1.820.915/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.)
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. PRETENSÃO DE ANÁLISE DE QUESTÃO OMITIDA NA DECISÃO RECORRIDA. INADEQUAÇÃO DA VIA ELEITA. FUNGIBILIDADE RECURSAL. IMPOSSIBILIDADE. PROCESSO ADMINISTRATIVO DISCIPLINAR. INDEFERIMENTO MOTIVADO DE PROVAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. CONFIGURAÇÃO DO DESVIO FUNCIONAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVAMENTO DA SANÇÃO PELA AUTORIDADE JULGADORA. AUSÊNCIA DE VINCULAÇÃO AO RELATÓRIO FINAL DA COMISSÃO OU A PARECERES JURÍDICOS. MOTIVAÇÃO IDÔNEA. LEGALIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - É incabível a interposição de agravo interno para análise de eventual omissão da decisão agravada, sendo os embargos de declaração a via adequada para tal objetivo.
+IV - O acórdão recorrido encontra-se em consonância com o entendimento esposado por esta Corte segundo o qual não acarreta nulidade do PAD, por cerceamento de defesa, o indeferimento de produção de provas e diligências, quando estas forem desnecessárias ou protelatórias, desde que haja motivação idônea nesse sentido, como ocorreu na espécie.
+V - In casu, rever o entendimento do Tribunal de origem, que concluiu estarem configuradas as infrações disciplinares, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+VI - Ao decidir o processo administrativo disciplinar, a autoridade julgadora não está vinculada às conclusões do relatório final da comissão disciplinar ou de pareceres jurídicos, podendo deles divergir, fundamentadamente, como verificado no caso em exame.
+VII - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VIII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IX - Agravo Interno parcialmente conhecido e improvido.
+(AgInt no REsp n. 1.967.758/RS, de minha relatoria, Primeira Turma, julgado em 24/4/2023, DJe de 3/5/2023.)
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+No caso, apesar do não conhecimento do Agravo Interno, não se configura a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Ante o exposto, NÃO CONHEÇO do presente agravo interno.
