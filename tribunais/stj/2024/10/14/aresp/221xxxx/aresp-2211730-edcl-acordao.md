@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/10/2024 a 14/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 255):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO AGRAVADA. FALTA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ.
+1. O recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+2. À luz do disposto na Súmula 182/STJ e nos arts. 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ, a parte deve impugnar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento.
+3. Agravo interno não conhecido.
+O embargante sustenta que o acórdão contém omissões. Afirma que: (i) "a decisão embargada amparou-se em premissas equivocadas, isto porque, o embargante impugnou especificamente o "fundamento de que não houve impugnação específica aos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial" ao incluir nas razões do Agravo interno (especificamente no item 3.1-PG 3 - evento 130), o trecho das razões do Agravo em Recurso Especial (especificamente no item 2.1) em que se alega que o caso dos autos não demanda reexame do acervo fático-probatório, mas tão somente, a correta aplicação da legislação acerca da matéria (artigo 805 do CPC -liberação do excesso de penhora), a partir da análise estrita da fundamentação e da moldura fática constantes do acordão proferido pelo Tribunal a quo."(fl. 266); (ii) "Ademais, sendo proferido juízo de valor por esta Corte Especial sobre a matéria favoravelmente ao devedor, os autos deverão ser remetidos ao Juízo de origem para que se libere os bens que ultrapassam o valor da dívida executada-valores estes que serão avaliados oportunamente. Portanto, demonstrou-se que não deve incidir na hipótese, o óbice da Súmula 07 do STJ(motivo pelo qual o Tribunal de origem obstou o seguimento do Recurso Especial), não se vislumbrando nenhum outro fato que seja relevante para o julgamento do caso, além do acima descrito, o qual está constante no acórdão recorrido. Deste modo, da leitura do acórdão recorrido, não resta claro para a Embargante qual fundamento esta deixou de impugnar, já que, quanto à não aplicação da Súmula 07, este foi objeto de exaustiva impugnação." (fl. 267).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado fez incidir à controvérsia a Súmula 182/STJ, visto que tendo a decisão monocrática agravada não conhecido do agravo em recurso especial porque não houve impugnação específica aos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial , e a então agravante - ora embargante - não impugnou, especificamente, todos os fundamentos adotados na decisão agravada.
+Confira-se, a propósito, a seguinte excerto do voto condutor (fls. 257/258):
+O recurso de agravo não reúne condições para ser conhecido por esta Corte Superior. Diz-se dessa forma porque a agravante não impugna especificamente os fundamentos adotados na decisão ora agravada, lavrada nos seguintes termos (fl. 208):
+No caso dos autos, a decisão de não admissão do recurso especial contém o fundamento de incidência do óbice da Súmula 7/STJ. Ocorre que o agravante não impugnou, especificamente, o referido fundamento, o que acarreta o não conhecimento do agravo.
+Com efeito, além da manifestação do inconformismo, inerente ao ato de irresignação, ao agravante se impõe o ônus de se contrapor especificamente, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade - o que não ocorreu no caso dos autos.
+Para fins de desconstituir o não conhecimento do recurso, impõe-se à recorrente o ônus de impugnar especificamente os fundamentos da decisão agravada, de forma clara, específica e concreta, evidenciando o desacerto do referido decisum, conforme determina a lei processual civil e o princípio da dialeticidade. Todavia, nota-se, nas razões do presente agravo, a não impugnação do fundamento de que não houve impugnação específica aos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial.
+Assim, a falta de impugnação específica aos fundamentos adotados na decisão ora agravada impõe o não conhecimento do recurso, pela incidência do óbice da Súmula 182/STJ.
+Como se percebe, nos presentes embargos, a parte sustenta que o acórdão contém omissão porque teria impugnado todos os fundamentos da decisão agravada.
+Ocorre que razão não lhe assiste.
+Há omissão quando o órgão julgador deixa de se pronunciar sobre questão relevante à solução da controvérsia ou quando, ainda que se pronuncie, o faz de forma não fundamentada, sendo que no caso não se verifica qualquer das situações.
+Ora, nestes aclaratórios, sob alegação de omissão no julgado, o que pretende o embargante é rediscussão da causa, o que, como já visto, não se enquadra nas hipóteses de cabimento de embargos de declaração. Com efeito, "Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi." (AgInt no REsp 1.921.188/DF, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 26/9/2022).
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
