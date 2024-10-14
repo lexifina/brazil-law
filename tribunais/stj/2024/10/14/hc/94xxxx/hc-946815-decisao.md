@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de THIAGO RODRIGUES DA SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no HC n. 2256612-03.2024.8.26.0000.
+Consta nos autos que o paciente foi preso em flagrante delito no dia 20/06/2024, pela suposta prática dos crimes previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, tendo sido convertida a custódia em preventiva.
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Neste writ, a parte impetrante alega, em síntese, a inexistência dos requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Informa que o paciente possui condições pessoais favoráveis.
+Aduz a possiblidade de aplicação de medidas cautelares diversas da prisão.
+Requer, em liminar e no mérito, a revogação da prisão preventiva, com a aplicação de medidas cautelares diversas da prisão.
+O pedido liminar foi indeferido às fls. 64-65.
+Informações prestadas às fls. 72-75.
+O Ministério Público Federal manifestou-se às fls. 77-84.
+É o relatório.
+DECIDO.
+O Juízo de primeiro grau, ao decretar a prisão preventiva, ressaltou o seguinte (fls. 40-41; grifamos):
+O auto de prisão em flagrante encontra-se formalmente em ordem, não sendo caso de relaxamento da prisão (art. 310, I, CPP). Quanto ao autuado Thiago, o caso é de conversão da prisão em flagrante em prisão preventiva. O laudo de constatação indica que as substâncias apreendidas, descritas no auto de exibição e apreensão, são entorpecentes (Portaria nº 344/1998, SVS/MS), do que decorre a materialidade do delito de tráfico de drogas (art. 33, Lei nº 11.343/06), para o qual se prevê pena privativa de liberdade máxima superior a 4 (quatro) anos. Os indícios de autoria decorrem das circunstâncias descritas no auto de prisão em flagrante, que apontam para o envolvimento dos custodiados na atividade de comercialização dessas substâncias entorpecentes. Ademais, a quantidade de droga apreendida é elevada, tratando-se de aproximadamente 3,0Kg de cocaína. Verifico, também, que o custodiado é Tiago reincidente, estando preenchido também o requisito previsto no art. 313, II, do CPP. Desse modo, a prisão cautelar ainda se revela necessária à garantia da ordem pública, tratando-se, ao menos por ora, do meio adequado a impedir a reiteração criminosa (art. 282, § 6º do CPP).
+O Tribunal de origem, por sua vez, consignou o seguinte (fls. 15-16; grifamos):
+THIAGO teve prisão em flagrante convertida em preventiva, por ter, em tese, incursionado na Lei nº 11.343/06, art. 33, caput, e art. 35, caput, por decisão devidamente fundamentada, atendendo ao disposto no CPP, art. 315 (fls. 27/29).
+Demonstrou, ainda, todos os requisitos dos arts. 282 e 312, caput, indicando não ter sido assentada exclusivamente na gravidade em abstrato, mas, também, diante das peculiaridades, já que a diligência policial logrou apreender expressiva quantidade de entorpecente (três "tijolos" e três porções menores de cocaína, totalizando 2.691,94kg) - laudos definitivos às fls. 103/108 dos autos de Origem -, lembrando-se, ainda, que o decreto de prisão preventiva não reclama fundamentação exaustiva, bastando uma análise sucinta dos requisitos que dão ensejo à segregação cautelar (STF, RHC nº 89.972-2, Rel. Min. CÁRMEN LÚCIA; HC nº 86.605, Rel. Min. GILMAR MENDES; HC nº 62.671, Rel. Min. SYDNEY SANCHES; STJ, HC nº 154.164 e Rel. Min. FELIX FISCHER).
+O STJ possui entendimento de que a quantidade, a variedade ou a natureza da substância entorpecente apreendida podem servir de fundamento para a decretação da prisão preventiva (HC nº 547.239/SP, Rel. Min. REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 3/12/2019, Dje 12/12/2019).
+Há indícios de autoria e materialidade, de modo que a custódia preventiva se justifica para garantia da ordem pública e da aplicação da lei penal, caso venha a ser comprovada a imputação, mostrando-se insuficiente a aplicação das medidas cautelares diversas (art. 319). Ademais, ao que parece, é reincidente específico (encontrava-se em regime aberto), sendo incapaz de se afastar da criminalidade, o que, se confirmado, reforça a impossibilidade de benefício, conforme o disposto no art. 310, § 2º ("Se o juiz verificar que o agente é reincidente ou que integra organização criminosa armada ou milícia, ou que porta arma de fogo de uso restrito, deverá denegar a liberdade provisória, com ou sem medidas cautelares").
+Dos excertos transcritos, concluo que, ao contrário do que alega a parte impetrante, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a gravidade concreta da conduta, evidenciada pela quantidade da droga apreendida (2.691,94kg de cocaína), além do fundado receio de reiteração delitiva, pois o paciente é reincidente específico.
+Tais circunstâncias demonstram a periculosidade do agente e são aptas a justificar a segregação cautelar para garantia da ordem pública.
+Com efeito,
+(a) jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade das drogas apreendidas e outras circunstâncias do caso revelem a maior gravidade do tráfico, tais dados são bastantes para demonstrar a periculosidade social do réu e a necessidade de garantir a ordem pública, ante o fundado receio de reiteração delitiva (RHC n. 193.876/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024).
+Exemplificativamente:
+PEDIDO DE RECONSIDERAÇÃO. RECEBIMENTO COMO AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE EXPRESSIVA DE DROGA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. SUBSTITUIÇÃO. INVIABILIDADE. DESPROVIMENTO.
+1. Apresentada fundamentação idônea para a prisão cautelar, consistente na gravidade concreta da conduta, evidenciada na expressiva quantidade de entorpecente (270 gramas de cocaína), não há falar-se em ilegalidade.
+2. "Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão (art. 319 do CPP). Precedentes." (AgRg no HC n. 781.094/GO, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+3. Agravo regimental desprovido.
+(RCD no HC n. 891.933/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE E VARIEDADE DA DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. AUTORIA. NEGATIVA. FLAGRANTE. NULIDADE. SUPRESÃO DE INSTÂNCIA.
+(..)
+2. No caso, a prisão preventiva está justificada, pois, segundo a decisão que a impôs, o agravante foi flagrado em posse de grande quantidade e variedade de substância entorpecente, a saber, aproximadamente 318g (trezentos e dezoito gramas) de crack e 422g (quatrocentos e vinte e dois gramas) de maconha, além de uma balança de precisão. Dessarte, está evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+(..)
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 192.110/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRANDE QUANTIDADE E VARIEDADE DE DROGA APREENDIDA. REINCIDÊNCIA. BUSCA VEICULAR. DENÚNCIA ANÔNIMA ESPECIFICADA. NULIDADE NÃO EVIDENCIADA. APONTAMENTO DE ELEMENTOS CONCRETOS. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. Destaca-se que, "No caso, a manutenção da prisão preventiva está suficientemente fundamentada, tendo sido amparada na especial gravidade da conduta, evidenciada pela apreensão de grande quantidade de drogas, o que justifica a segregação cautelar para garantia da ordem pública." (AgRg no HC n. 173.924/MG, relatora Ministra Laurita Vaz, Sexta Turma Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+3. Não bastasse, conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019).
+(..)
+7. Agravo regimental desprovido.
+(AgRg no HC n. 825.690/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 2/4/2024, DJe de 10/4/2024).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
