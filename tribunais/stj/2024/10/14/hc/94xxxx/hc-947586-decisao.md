@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de WEVERTHON ORTEGA CORDEIR, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (HC n. 1415085-94.2024.8.12.0000).
+Consta dos autos que o paciente foi denunciado e preso preventivamente como incurso no art. 155, §4º, inciso IV, do Código Penal.
+A Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Neste writ, a parte impetrante sustenta, em síntese, que há excesso de prazo na formação da culpa.
+Alega a ausência dos requisitos e de fundamentação idônea para a prisão preventiva.
+Aduz a possibilidade de aplicação de medidas cautelares diversas da prisão.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente.
+Liminar indeferida (fls. 410-411).
+As informações foram prestadas (fls. 414-424).
+O Ministério Público Federal opinou pelo não conhecimento do writ ou, caso conhecido, pela denegação da ordem (fls. 428-430).
+É o relatório.
+DECIDO.
+Esta Corte firmou o posicionamento de que
+ a  aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal (AgRg no HC n. 836.294/PB, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024; grifamos).
+A respeito da matéria, o Tribunal estadual assim decidiu (fl. 21):
+A denúncia foi ofertada no dia 30/01/2024 (f. 9/10). Em 9/2/2024, o d. Juízo singular recebeu a peça acusatória e determinou a citação dos acusados para apresentar defesa prévia, o que foi devidamente cumprido em 26/06/2024 (f. 164).
+A defesa apresentou resposta escrita à acusação em 6/8/2024 (f. 185). Aos 7/8/2024, a autoridade apontada coatora, por não vislumbrar qualquer das hipóteses previstas no artigo 397 do CPP, determinou o normal prosseguimento do feito, designando audiência de instrução para o dia 25/9/2024 (f. 186).
+Acrescento, ainda, que, em consulta ao andamento processual disponível no site da Corte local, verifica-se que, no dia 26/09/2024, foi feita a audiência, com a realização do interrogatório, tendo sido informado pelo Juízo de origem que a Ação Penal que visa a apuração do delito ocorrido no dia 31/10/2023, imputado ao paciente tramita sob n. 0924991-02.2023.8.12.0001, estando o feito na fase do art. 402 do CPP (fl. 423).
+Nessa conjuntura, há plena incidência da Súmula n. 52 do Superior Tribunal de Justiça, que dispõe, in verbis: Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.
+No mesmo sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO. (..) EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SÚMULA 52 DO STJ. (..) AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+(..)
+3. Afasta-se a alegação de excesso de prazo para a formação da culpa se, como na presente hipótese, verifica-se o encerramento da instrução criminal, consoante os termos do enunciado da Súmula 52/STJ, segundo o qual "encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+(..)
+7. Agravo regimental a que se nega provimento. (AgRg no RHC n. 197.478/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/6/2024, DJe de 3/7/2024).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. E XCESSO DE PRAZO. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. RECURSO DESPROVIDO.
+1. Como cediço, a constatação de excesso de prazo não se realiza de forma puramente matemática; demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+2. Na espécie, tem-se que o constrangimento ilegal não está configurado, já que se está diante de agravantes custodiados em 18/9/2023 e de instrução processual encerrada, inclusive com realização do interrogatório dos réus, aguardando os autos apenas diligência requerida pelo Ministério Público estadual, o que encontra amparo no art. 402 do Código de Processo Penal.
+3. Ademais, "encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo" (Súmula n. 52/STJ).
+4. Agravo regimental desprovido. (AgRg no HC n. 906.376/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024).
+No mais, o Tribunal de origem, ao manter a prisão preventiva, ressaltou que o fato de o paciente não ser neófito na prática criminosa, possuindo, inclusive, diversas passagens por furtos de motocicletas nesta Capital, circunstância que realça os indicativos de sua personalidade desregrada e voltada à delinquência, conforme bem destacado pelo Juízo impetrado (fl. 23).
+Do excerto transcrito, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, que ressaltaram o risco concreto de reiteração delitiva. Tal circunstância é apta a justificar a segregação cautelar para garantia da ordem pública.
+Com efeito,
+ c onforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC n. 682.732/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/11/2021, DJe de 26/11/2021).
+Exemplificativamente:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. O Juiz de primeira instância - em que pese ter afirmado, equivocadamente (com base no entendimento desta Corte Superior), que "a necessidade de manutenção do autuado no cárcere em que se encontra visa a conveniência da instrução criminal e da garantia de aplicação da lei penal, haja vista que não comprovou exercício de atividade laboral lícita antes de sua segregação, tampouco residência fixa no distrito da culpa - apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar a reincidência de Fábio ("Fábio Gomes de Lima responde a outros procedimentos em trâmite na(o) 5ª Vara dos Crimes Punidos com Reclusão e Detenção da Comarca de Goiânia-GO (autos nº 5153328-45.2021.8.09.0051 - por furto qualificado), 9ª Vara dos Crimes Punidos com Reclusão e Detenção da Comarca de Goiânia-GO (autos nº 5396487-20.2022.8.09.0051 - por furto qualificado) e 3ª Vara Criminal da Comarca de Aparecida de Goiânia-GO (autos nº 5067726 18.2023.8.09.0051 - por furto), bem como ostenta execução penal em trâmite na Vara de Execução Penal da Comarca de Goiânia-GO (autos nº 7004581-85.2022.8.09.0051 - SEEU), sendo reincidente").
+3. Dadas as apontadas circunstâncias do fato e as condições pessoais do acusado, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282 c/c art. 319 do CPP).
+4. O pedido de reconhecimento da incidência do princípio da insignificância consubstancia vedada inovação recursal - visto que não foi ventilado na impetração -, além de não ter sido analisado pela Corte local, a ensejar o reconhecimento da supressão de instância.
+5. Agravo regimental não provido. (AgRg no HC n. 879.457/GO, relator
+Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 29/4/2024, DJe de 2/5/2024; grifamos).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. TRANCAMENTO. INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REITERAÇÃO DELITIVA.
+A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis. Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade.
+No caso, a decisão que impôs a prisão preventiva, além de citar o modus operandi do delito praticado para a subtração de diversos perfis de alumínio, durante o período noturno e mediante a invasão de estabelecimento comercial e escalada, destacou o fato de o paciente possuir anotações criminais por furto e passagem anterior pela mesma Central de custódia. Assim, faz-se necessária a segregação provisória como forma de acautelar a ordem pública.
+Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+(..)
+7. Agravo regimental desprovido. (AgRg no HC n. 758.794/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/10/2022, DJe de 11/10/2022; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
