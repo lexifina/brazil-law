@@ -1,0 +1,23 @@
+DECISÃO
+Na origem, trata-se de mandado de segurança contra ato de Delegado da Receita Federal em Joinville/SC, objetivando o reconhecimento do direito à não inclusão de PIS e COFINS sobre a base de cálculo de IRPJ e CSLL relativos a exercícios pela sistemática de lucro presumido, além do direito à compensação. Na sentença, denegou-se a segurança. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 17.200,17 (dezessete mil e duzentos reais e dezessete centavos).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. REGIME DE TRIBUTAÇÃO PELO LUCRO PRESUMIDO. PRETENSÃO DE EXCLUSÃO DO PIS/COFINS DA BASE DE CÁLCULO DO IRPJ E CSLL. IMPOSSIBILIDADE.
+Na tributação pelo regime do lucro presumido, o PIS/COFINS não podem ser excluídos da receita bruta para fins de apuração da base de cálculo do IRPJ e da CSL.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Observa-se que a tributação pelo lucro presumido é opção do contribuinte, que a adota pelo simples pagamento conforme tal método de apuração de tributos no primeiro vencimento de cada ano. A opção do contribuinte se faz segundo suas particulares conveniências, sem interferência do Fisco nessa tomada de decisão.
+ ..
+No regime de tributação pelo lucro presumido, IRPJ e CSLL possuem, portanto, a mesma materialidade de incidência: o acréscimo de patrimônio expresso pela receita bruta.
+No que toca ao pedido de exclusão dos valores atinentes ao PIS e COFINS da base de cálculo do IRPJ e da CSLL apurados pelo lucro presumido, tem-se que o acolhimento do pedido levaria a uma dupla dedução, consistente em indevido privilégio fiscal ao contribuinte, já que no arbitramento do lucro presumido como um percentual da receita bruta já são consideradas todas as possíveis deduções.
+Por seu turno, a jurisprudência do Superior Tribunal de Justiça (STJ) já assentou, em julgamento submetido ao regime dos recursos repetitivos, que, exceção feita ao caso do art. 155, §2º, XI, da Constituição, é lícita a incidência de tributos sobre a base de cálculo de outros tributos e sobre a sua própria base de cálculo:
+Acresço que a atual jurisprudência dominante neste Tribunal, por suas duas Turmas especializadas em direito tributário, se consolidou no sentido de que o contribuinte não tem o direito de excluir o PIS e a COFINS da base de cálculo do IRPJ e CSLL:
+ ..
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
