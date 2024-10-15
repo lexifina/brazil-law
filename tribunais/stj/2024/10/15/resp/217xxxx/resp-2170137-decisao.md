@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo respectivo Tribunal de Justiça.
+O Parquet aponta violação ao artigo 157, §2º-A, I, do Código Penal.
+Alega em suma que, para a caracterização da majorante prevista no art. 157, § 2º, inciso I, do Código Penal, não é necessária a apreensão e perícia da arma de fogo ou qualquer outra prova sobre a potencialidade lesiva do instrumento, sendo suficiente a presença de elemento probatório que ateste o efetivo emprego do instrumento na prática delitiva, admitindo-se, inclusive, o depoimento da vítima como prova idônea.
+Requer, assim, seja restabelecida a causa especial de aumento de pena pelo emprego de arma de fogo nos exatos termos da sentença condenatória, com o consequente aumento da pena e escolha do regime inicial fechado (e-STJ, fls. 734-742).
+Não foram apresentadas as contrarrazões (e-STJ, fls. 743).
+Admitido o recurso especial (e-STJ, fl. 474-476), subiram os autos a este Superior Tribunal de Justiça.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (e-STJ, fls. 758-759).
+É o relatório.
+Decido.
+Consoante se verifica dos autos, o réu foi condenado, em primeiro grau de jurisdição, como incurso nas sanções do art. 157, §2º, II, IV e V (concurso de agentes, transporte interestadual de veiculo e restrição da liberdade da vitima) e §2º-A, I (utilização de arma de fogo) c/c o art. 29, todos do Código Penal, à pena de 11 anos de reclusão, em regime inicial fechado, e pagamento de 27 dias-multa.
+A Colenda 5ª Câmara Criminal do Egrégio Tribunal de Justiça do Estado de Minas Gerais, por maioria de votos, deu parcial provimento ao recurso defensivo, para decotar a majorante do emprego de arma de fogo e reduzir a pena definitiva do apelante para 06 anos, 07 meses e 10 dias de reclusão, mais 17 dias-multa.
+A propósito, confira-se o seguinte trecho do acórdão impugnado:
+"Por fim, no que diz respeito à incidência da majorante do emprego de arma de fogo, prevista no art. 157, a ótica coeva do Superior Tribunal de Justiça, bem como segundo abalizada fonte doutrinária, para o reconhecimento da causa de aumento prevista no art. 157, § 2º-A, inciso I, do Código Penal, a arma de fogo precisa ser devidamente periciada e ter a sua eficiência constatada. Caso contrário, pode não ser reconhecida a mencionada causa especial de aumento de pena.
+Nesses termos, preconiza o Superior Tribunal de Justiça:
+(..)
+Dessa forma, é inviável admitir a ocorrência da referida causa de aumento de pena quando a arma de fogo utilizada pelo agente não apresenta potencialidade ofensiva por estar sem munição, apresentar algum defeito mecânico que impossibilitava o disparo ou, ainda, sequer ter sido apreendida.
+Conquanto tenha a probabilidade de atemorizar a vítima e facilitar a subtração, não pode ser sopesada para efeitos de aumento de pena, tendo em vista a completa impossibilidade de potencialidade lesiva, ou seja, possibilidade de produzir dano superior ao que normalmente praticaria sem o seu uso.
+Ou seja, é afastada a majorante quando não há apreensão da arma, que deixa de ser periciada, o que impede a constatação de sua efetiva eficiência, conforme se verifica in casu.
+Nesse ínterim, muito embora o Superior Tribunal de Justiça tenha reiteradamente acolhido a tese da desnecessidade da apreensão e perícia da arma de fogo, tal entendimento surgiu anteriormente às mudanças no Código Penal, introduzidas pela Lei n. 13.654 de 23.04.2018.
+O referido diploma legal revogou o inciso I do parágrafo 2º do art. 157 do Código Penal, substituindo-o pelo inciso I parágrafo 2º-A do mesmo art. 157. Na ocasião, inovou-se sobre a majorante do emprego de arma, acrescentando a elementar "de fogo".
+Diante da modificação legislativa, o Superior Tribunal de Justiça passou a entender que os recursos repetitivos não podem ser utilizados como parâmetro para precedentes vinculantes.
+Por essa razão, é importante fazer uma análise acerca do tema.
+O legislador, ao apresentar nova redação ao inciso I, § 2º-A do art. 157 do Código Penal, excluiu todas as armas diversas da espécie "armas de fogo". Desta feita, na forma da definição do Decreto n. 9.847/2019, ocorreu uma modalidade de novattio legis in mellius quanto à incidência da causa de aumento de pena.
+Assim, ao se considerar desnecessária a apreensão e perícia da arma de fogo para a incidência da majorante, equiparar-se-iam à arma de fogo qualquer simulacro ou outro objeto utilizado na prática do roubo à arma. Com toda a vênia, tal conclusão não corresponde à verdadeira mens legis.
+A finalidade da majorante é exacerbar a pena quando há o emprego de arma de fogo, assim entendido quando há o efetivo disparo ou quando este disparo potencial é possível. O termo "empregar arma de fogo" (através dos disparos ou da possibilidade concreta do disparo) não pode ser equiparado ao termo "empunhar arma de fogo" (que pode ser ineficiente ou mero simulacro). Igualar as duas situações implicaria em verdadeira aberratio finis legis.
+Ademais, com o entendimento firmado pelo Superior Tribunal de Justiça de que é essencial a comprovação da eficiência da arma de fogo para que incida a causa de aumento de pena, torna-se imprescindível que a arma seja encontrada e periciada. Caso contrário, a majorante seria reconhecida a priori em desfavor do acusado, quando caberia ao Ministério Público o ônus de provar que se trata de arma de fogo idônea.
+Com exceção da hipótese de ocorrência de disparos, mostra-se temerário valorar-se prova exclusivamente oral para um juízo de certeza quanto à natureza do artefato empregado (que com frequência é mero simulacro) e mais precipitado ainda para juízo de certeza quanto à eficiência da suposta arma.
+Além disso, diante da grave ameaça ínsita ao crime, o ofendido, atemorizado, já é afetado psicologicamente. Mesmo no caso de uma vítima que seja conhecedora de pistolas ou revólveres, não se pode confirmar a autenticidade (e muito menos a eficiência) do artefato utilizado no roubo, salvo no caso em que disparo tenham sido efetivamente efetuados.
+Deste modo, por coadunar do entendimento do Tribunal Superior de que a majorante somente incidirá se o meio empregado tiver efetiva potencialidade ofensiva, enquanto arma de fogo, ou seja, capacidade de disparar projéteis através de ação pneumática pela expansão de gases resultantes da queima de um propelente. Tal condição somente pode ser avaliada (e, se for o caso, confirmada) pela apreensão e posterior confecção do laudo pericial. Somente com esta confirmação é pode se concluir pela incidência da causa de aumento.
+Por conseguinte, deve ser afastada a majorante de pena descrita no inciso I, do §2º-A, do art. 157, do Código Penal." (e-STJ, fls. 713-718, grifos nossos)
+Da leitura do trecho transcrito, verifica-se que o aresto recorrido foi proferido em dissonância com a diretriz da Terceira Seção desta Corte Superior que, por ocasião do julgamento dos Embargos de Divergência 961.863/RS, firmou o entendimento de que é despicienda a apreensão e a perícia da arma de fogo, para a incidência da majorante do revogado inciso I do § 2º do art. 157 do CP (atual §2º-A, I, do mesmo art. 157), quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo, tal como ocorrido na hipótese, em que a vítima narrou com firmeza que o agente se utilizou de uma arma de fogo para cometer o crime (e-STJ, fls. 564-565).
+A esse respeito, convém a transcrição dos seguintes precedentes:
+" ..
+7. No que diz respeito à alegada impossibilidade de incidir a causa de aumento pelo uso da arma de fogo, em virtude da sua não apreensão e perícia, tem-se que é assente o "entendimento firmado por esta Corte no julgamento do EREsp n. 961.863/RS, segundo qual a apreensão e perícia da arma é desnecessária para evidenciar essa causa de aumento de pena se há outros elementos de prova que evidenciem o emprego do artefato" (AgRg no HC 664.344/TO, Rel. Ministra LAURITA VAZ, Sexta Turma, DJe 02/06/2021).
+ .. .
+11. Agravo regimental improvido".
+(AgRg no AgRg no AREsp 1969888/AC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/11/2021, DJe 29/11/2021)
+" ..
+1. A Terceira Seção do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência n. 961.863/RS, firmou o entendimento de que é dispensável a apreensão e a perícia da arma de fogo, para a incidência da majorante do § 2º-A, I, do art. 157 do Código Penal, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo, como no caso concreto, em que há declaração das vítimas.
+ .. .
+3. Agravo regimental desprovido".
+(AgRg no HC 675.941/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 17/08/2021, DJe 25/08/2021, grifou-se)
+Assim, uma vez que restou evidente o emprego de arma de fogo na prática do delito, imperiosa a incidência da causa de aumento prevista no art. 157, §2º-A do CP.
+Ante o exposto, com fundamento no art. 255, §4º, I e III, do Regimento Interno do STJ, conheço do recurso especial e dou-lhe provimento, para reconhecer a incidência da causa de aumento prevista no art. 157, § 2º-A, I, do CP e, em consequência, restabelecer a sentença condenatória, que condenou o réu à pena de 11 anos de reclusão, em regime inicial fechado, e pagamento de 27 dias-multa.
+Publique-se. Intimem-se.
+EMENTA
