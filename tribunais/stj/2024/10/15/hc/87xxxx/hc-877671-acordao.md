@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, denegar a ordem.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. TRÁFICO DE DROGAS. GRANDE QUANTIDADE APREENDIDA. HABEAS CORPUS SUBSTITUTIVO. PACIENTE PRESO DURANTE TODO O PROCESSO. PRISÃO PREVENTIVA. ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado visando à revogação da prisão preventiva do paciente, sob a alegação de ausência dos requisitos para sua manutenção. O paciente está preso preventivamente, e a defesa requer a concessão da ordem para que possa recorrer em liberdade.
+II. Questão em discussão
+2. A questão em discussão consiste na verificação da legalidade e necessidade da manutenção da prisão preventiva do paciente, considerando a quantidade de drogas apreendidas e a gravidade concreta da conduta.
+III. Razões de decidir
+3. A prisão preventiva é compatível com a presunção de inocência, desde que não se configure como antecipação de pena e esteja fundamentada em elementos concretos.
+4. A decisão que manteve a prisão preventiva baseou-se em elementos concretos, como a quantidade significativa de drogas apreendidas e a periculosidade do agente, justificando a medida para garantir a ordem pública.
+5. A aplicação de medidas cautelares diversas da prisão foi considerada inviável, dado que não seriam suficientes para acautelar a ordem pública.
+IV. Dispositivo
+6. Ordem de habeas corpus denegada.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ fl. 67-70).
+A defesa alega, em síntese, a ausência dos requisitos para a manutenção da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, a concessão da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+EMENTA
+DIREITO PENAL. TRÁFICO DE DROGAS. GRANDE QUANTIDADE APREENDIDA. HABEAS CORPUS SUBSTITUTIVO. PACIENTE PRESO DURANTE TODO O PROCESSO. PRISÃO PREVENTIVA. ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado visando à revogação da prisão preventiva do paciente, sob a alegação de ausência dos requisitos para sua manutenção. O paciente está preso preventivamente, e a defesa requer a concessão da ordem para que possa recorrer em liberdade.
+II. Questão em discussão
+2. A questão em discussão consiste na verificação da legalidade e necessidade da manutenção da prisão preventiva do paciente, considerando a quantidade de drogas apreendidas e a gravidade concreta da conduta.
+III. Razões de decidir
+3. A prisão preventiva é compatível com a presunção de inocência, desde que não se configure como antecipação de pena e esteja fundamentada em elementos concretos.
+4. A decisão que manteve a prisão preventiva baseou-se em elementos concretos, como a quantidade significativa de drogas apreendidas e a periculosidade do agente, justificando a medida para garantir a ordem pública.
+5. A aplicação de medidas cautelares diversas da prisão foi considerada inviável, dado que não seriam suficientes para acautelar a ordem pública.
+IV. Dispositivo
+6. Ordem de habeas corpus denegada.
+VOTO
+Sabe-se que "a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP)" (RHC 174.619/ES, Relator Ministro Sebastião Reis Júnior, 6ª Turma, j. em 11/04/2023, DJe 16/05/2023).
+O ordenamento jurídico vigente, em atenção ao princípio da presunção da inocência, consagra a liberdade do indivíduo como regra. Desse modo, a prisão antes do trânsito em julgado revela-se cabível tão somente quando, presentes as condições do art. 312 do CPP, estiver concretamente comprovada a existência do "fumus comissi delicti", aliado ao "periculum libertatis", sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+Além disso, "em razão de seu caráter excepcional, a prisão preventiva somente deve ser imposta quando incabível a substituição por outra medida cautelar menos gravosa, conforme disposto no art. 282, § 6º, do CPP" (AgRg no HC 716.740/BA, Relator Ministro Joel Ilan Paciornik, 5ª Turma, j. em 22/03/2022, DJe 07/04/2022).
+No caso, a prisão preventiva foi mantida com base nos seguintes argumentos:
+"O paciente permaneceu sob custódia cautelar durante todo o andamento da ação penal, sem a ocorrência de qualquer alteração na situação fática, de maneira não faz sentido que, com a superveniência da condenação, lhe seja concedido o direito de recorrer em liberdade. É de se destacar, de plano, que a decisão que manteve a custódia, ainda que sucinta, atende, convenientemente, ao comando dos artigos 93, IX, da Constituição Federal, e 387, § 1.º, do Código de Processo Penal, já que a prisão preventiva antes decretada teve por base elementos concretos, profundamente analisados, e que não sofreram qualquer alteração favorável à defesa durante o trâmite da ação penal.
+(..)
+Ademais, a decisão refere elementos drásticos e contemporâneos, a justificar a custódia, conforme referiu a sentença, no caso, a significativa quantidade de entorpecente 14 (quatorze) porções de cocaína, pesando 78g (setenta e oito gramas), além de 58 (cinquenta e oito) tabletes de maconha, totalizando 30,8Kg (trinta quilos e oitocentos gramas) e mais três balanças de precisão, aliada à natureza da droga que tem alto poder lesivo, o alto valor comercial, sendo evidente que tais circunstâncias, ainda, indicam que poderá adotar comportamento tendente a comprometer o cumprimento da reprimenda imposta. Portanto, ausente qualquer ofensa aos artigos 93, IX, da Constituição Federal, e 387, § 1.º, do Código de Processo Penal, diante do sistema do livre convencimento motivado.
+Quanto ao aventado direito de recorrer em liberdade, sem nenhuma dúvida, a superveniente prolação de sentença condenatória é um grande reforço ao argumento da necessidade de preservação da custódia cautelar de pessoa que permaneceu presa durante todo o trâmite processual. A propósito, recente orientação do Superior Tribunal de Justiça: (..)
+Ainda, da análise das cautelares previstas no artigo 319 do Código de Processo Penal, conclui-se que nenhuma outra que não a prisão mostra-se adequada ou proporcional diante das peculiaridades do caso concreto, as quais indicam que medidas menos gravosas seriam insuficientes para acautelar a ordem pública. Assim, nos termos do que dispõe o artigo 282, § 6.º, do Código de Processo Penal, havendo motivos que justifiquem a medida excepcional, como no caso em questão, torna-se de rigor a confirmação da prisão preventiva. Destarte, atentando aos critérios da necessidade, adequação e proporcionalidade, e diante das circunstâncias do caso, DENEGO A ORDEM DE HABEAS CORPUS porque ausente qualquer constrangimento ilegal na decisão vergastada, de maneira que, presentes os requisitos legais, a confirmação da medida extrema é providência impositiva."
+A análise realizada pelo Tribunal de origem encontra-se em linha com a jurisprudência desta Corte acerca das circunstâncias fáticas do caso concreto, que dão conta do preenchimento das condições previstas no art. 312 do CPP, aliadas à proporcionalidade e à indispensabilidade da decretação da prisão preventiva.
+Com efeito, é pacífica a "jurisprudência desta Corte acerca da manutenção da prisão preventiva em razão da quantidade de droga, contumácia delitiva e fuga do distrito da culpa, circunstâncias que justificam a manutenção da prisão cautelar para a garantia da ordem pública" (AgRg no RHC 173.374/BA, Rel. Min. Antonio Saldanha Palheiro, 6ª Turma, DJe 30/03/2023).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PACIENTE CONDENADO À PENA DE 7 ANOS DE RECLUSÃO EM REGIME FECHADO. NEGADO O DIREITO DE APELAR EM LIBERDADE. PRISÃO PREVENTIVA MANTIDA. ALEGAÇÃO DE ACRÉSCIMO DE FUNDAMENTAÇÃO PELO TRIBUNAL DE ORIGEM. INOCORRÊNCIA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DA CONDUTA. EXPRESSIVA QUANTIDADE DE DROGA APREENDIDA. PACIENTE QUE RESPONDEU PRESO AO PROCESSO. REGIME FECHADO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS ALTERNATIVAS À PRISÃO. INAPLICABILIDADE AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+1. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida.
+2. Em relação à alegação de acréscimo de fundamentação, na hipótese, verifica-se que o Magistrado de primeira instância manteve a prisão com base em fundamentação concreta, mencionando o regime fechado e o grau de certeza acerca da materialidade e autoria do delito por ocasião da prolação da sentença (e-STJ fl. 15). Por sua vez, entendo que o Tribunal estadual especificou as circunstâncias já expostas pelo juiz primevo que, em princípio, justificam a prisão preventiva, sem que tenha havido acréscimo de fundamentação em habeas corpus, técnica rechaçada pela jurisprudência do Superior Tribunal de Justiça. Não há se falar, assim, em nulidade da decisão que manteve a preventiva.
+3. Tanto na sentença, quanto no acórdão recorrido, destacou-se a necessidade da medida extrema, para fins de garantia da ordem pública, tendo em vista a manutenção dos motivos ensejadores da prisão preventiva, tais quais a gravidade em concreto da conduta, consubstanciada na grande quantidade de droga apreendida, eis que o paciente foi condenado por manter em depósito, em um fundo falso de um caminhão com placas paraguaias, 142,8 quilos de crack, bem como um revólver e munições de calibre .38 (e-STJ fl. 70), além do regime fechado fixado na sentença, e em virtude de o paciente ter permanecido preso durante todo o processo (e-STJ fl. 70), motivações consideradas idôneas para justificar a manutenção da prisão cautelar, nos termos do art. 312 do Código de Processo Penal.
+4. A presença de condições pessoais favoráveis não tem o condão de, por si só, garantir a liberdade ao acusado, quando há, nos autos, elementos hábeis que autorizam a manutenção da medida extrema nos termos do art. 312 do CPP.
+5. Tem-se por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agente indicam que a ordem pública não estaria acautelada com sua soltura.
+6. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 199.628/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+Por fim, é assente nesta Corte que "tem-se por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura" (AgRg no HC 844.095/PE, Relator Ministro Ribeiro Dantas, 5ª Turma, j. em 18/12/2023, DJe 20/12/2023).
+Pelo exposto, denego a ordem de habeas corpus pleiteada.
+É o voto.
