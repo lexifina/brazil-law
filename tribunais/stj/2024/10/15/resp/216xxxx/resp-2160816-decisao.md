@@ -1,0 +1,29 @@
+DECISÃO
+Examina-se recurso especial interposto por LURDES VIEIRA BORGES - ESPÓLIO, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/MA.
+Recurso especial interposto em: 27/05/2024.
+Concluso ao Gabinete em: 23/09/2024.
+Ação: de embargos de terceiro, opostos por BENEDITO RODRIGUES ROSA e HERIKA MARIA MARTINS ROSA, em desfavor do recorrente, por meio dos quais alegam serem arrendatários de imóvel rural, objeto ação reivindicatória em fase de cumprimento de sentença.
+Sentença: rejeitou, liminarmente, os embargos de terceiro opostos pelos recorridos, ante a sua intempestividade, declarando extinto o processo sem resolução de mérito.
+Acórdão: deu provimento à apelação interposta pelos recorridos, para anular a sentença e determinar o prosseguimento dos embargos de terceiro, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. EXECUÇÃO EM AÇÃO REIVINDICATÓRIA. EMBARGOS DE TERCEIRO. ARRENDATÃRIOS DO IMÓVEL RURAL. TEMPESTIVIDADE. ARTIGO 1.048 DO CPC/1973. SENTENÇA ANULADA. RETORNO Ã ORIGEM. APELAÇÃO CONHECIDA E PROVIDA.
+I. O art. 1.048 do CPC/1973 fixava dois momentos para o ajuizamento dos embargos de terceiro: (1) a qualquer tempo no processo de conhecimento enquanto não transitada em Julgado a sentença; e, (2) no processo de execução, até 5 dias depois da arrematação, adjudicação ou remição, mas sempre antes da assinatura da respectiva carta.
+II. Tendo em vista que não veio a ser ultimado nenhum ato equivalente aos indicados no art. 1.048 do CPC/73 para início do cômputo do prazo de cinco dias para oposição de embargos pelo terceiro, descabida a alegação de extemporaneidade dos embargos.
+III. Apelo conhecido e provido (e-STJ fl. 161).
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: aponta a violação dos arts. 109, § 3º, 485, VI, 1.022, II, do CPC; 42, § 3º, 267, VI, 1.048 do CPC/73; e 167, II, alínea 12, da Lei 6.015/73, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta a impossibilidade de arrendatários de imóvel, objeto de ação reivindicatória com sentença transitada em julgado, serem considerados terceiros legitimados para a propositura de embargos de terceiro. Assevera que quem adquire coisa litigiosa não é terceiro legitimado para oposição de embargos de terceiro. Aduz, ainda, que a averbação da ação reivindicatória na matrícula do imóvel em momento anterior ao contrato de arrendamento firmado, bem como a notificação extrajudicial dos recorridos acerca da existência da referida ação, configuram ato equivalente ao ato de turbação na posse, termo inicial a ser considerado para fins de oposição dos embargos de terceiro, razão pela qual os mesmos, no caso concreto, devem ser considerados intempestivos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022, II, do CPC
+As razões recursais tecidas acerca da suposta omissão do Tribunal de origem residem na alegação de que o TJ/MA, apesar de instado a manifestar-se por meio de embargos declaratórios, quedou-se omisso no que concerne aos argumentos trazidos pelo recorrente de que:
+i) os recorridos não possuem legitimidade ativa para a propositura dos embargos de terceiro, pois "a citação inicial (..) e a coisa julgada na ação reivindicatória nº 0087-30.1997.8.10.0026, previamente averbada na matrícula do imóvel, trazem implícitas a litispendência e a litigiosidade sobre a posse a propriedade do imóvel posteriormente arrendado de forma a estender todos os seus efeitos aos arrendatários recorridos e de modo a retirar-lhes a legitimidade ativa para a propositura dos embargos de terceiro" (e-STJ fl. 260); e
+ii) a averbação da ação reivindicatória na matrícula do imóvel em momento anterior ao contrato de arrendamento firmado, bem como a notificação extrajudicial dos recorridos acerca da existência da referida ação, configuram ato equivalente ao ato de turbação na posse, termo inicial a ser considerado para fins de oposição dos embargos de terceiro.
+Da análise do processo, contudo, constata-se que o Tribunal de origem, ao julgar os embargos de declaração opostos pelos recorrentes, não analisou a questão à luz da (i)legitimidade ativa dos recorridos, limitando-se a consignar, quanto à alegada intempestividade dos embargos de terceiro, que os recorridos não tiveram ciência inequívoca do mandado de imissão de posse, razão pela qual os mesmos seriam tempestivos.
+Assim, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que seja sanado o vício suscitado, bem como a remessa dos autos ao TJ/MA, a fim de que este se pronuncie, na esteira do devido processo legal, acerca dos pontos anteriormente elencados.
+Logo, merece provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+Forte em tais razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO para: a) anular o acórdão que julgou os embargos de declaração opostos pelo recorrente; e b) determinar a remessa dos autos ao TJ/MA, a fim de que este se pronuncie, na esteira do devido processo legal, a respeito dos supracitados pontos tidos por omissos.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EMBARGOS DE DECLARAÇÃO OPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÃO APTA, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO.
+1. Embargos de terceiro.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questões pertinentes para a resolução da lide.
+3. Recurso especial conhecido e provido.
