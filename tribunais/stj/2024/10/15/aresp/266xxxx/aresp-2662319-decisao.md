@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo de MAXWELL ALISON CESAR contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 1500168-10.2023.8.26.0587.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 155, § 4º, I e IV, do Código Penal - CP (furto qualificado), às penas de 2 anos e 8 meses de reclusão, em regime inicial semiaberto, e 13 dias-multa (fl. 192).
+Recurso de apelação interposto pela defesa foi parcialmente provido para corrigir a dosimetria da pena, redimensionando a reprimenda do recorrente para 2 anos e 6 meses de reclusão e 12 dias-multa, mantida os demais termos da sentença (fls. 279/280). O acórdão ficou assim ementado:
+"FURTO QUALIFICADO  materialidade autos de apreensão e de avaliação, bem como a prova oral que indica a subtração.
+FURTO  autoria  confissões judiciais em sintonia com a prova coligida  declaração de vítima indicando como autor  validade  depoimento policial que indica a apreensão da res furtiva em poder deles  validade, só devendo o depoimento policial ser visto com reservas quando presente indício que a acusação visa justificar eventual abuso praticado  a apreensão da res furtiva com os acusados inverte o ônus de prova e impõe à defesa demonstrar posse de boa-fé sob pena de ter-se por provada a autoria  inteligência do art. 156 do CPP.
+CONSUMAÇÃO  furto  ocorre com desapossamento  posse mansa, pacífica e desvigiada  desnecessidade  precedentes das Cortes Superiores.
+QUALIFICADORA  rompimento de obstáculo comprovado pela prova oral e laudo pericial e concurso de agentes comprovado pela prova oral.
+PENAS  erro na aplicação do sistema trifásico  reparo nas penas  provimento parcial para este fim  primeira fase  base acima do mínimo  presença de duas qualificadoras, uma delas que serve para redimensionar o montante da pena e a outra como recrudescimento da pena base e pela circunstância desfavorável  segunda fase  reconhecida a confissão para André retorno da pena ao piso  na mesma fase houve a compensação integral entre a reincidência e confissão do réu Makwell ficando a pena no piso  terceira fase  ausência de circunstâncias  manutenção.
+REGIME  para o apelante André  fixado o regime aberto e a substitutiva  prestação de serviços.
+REGIME  apelante Maxwell é reincidente específico  o regime deve ser o necessário para dissuadir o réu de retornar a delinquir  regime inicial semiaberto e não aplicação da substitutiva." (fl. 261).
+Em sede de recurso especial (fls. 292/297), a defesa apontou violação ao art. 33, § 2º, "c", do CP, porque o Tribunal de Justiça - TJ manteve indevidamente a fixação de regime prisional semiaberto. Aduziu que o regime para o início de cumprimento da pena deve ser o aberto, conforme a quantidade de pena imposta. Alegou que a reincidência, por si só, não impede a aplicação do regime mais brando ao recorrente.
+Requereu a fixação do regime menos gravoso.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 304/308).
+O recurso especial foi inadmitido no TJ em razão de óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 321/323).
+Contraminuta do Ministério Público (fls. 326/323).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do recurso especial (fls. 346/350).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a violação ao art. 33, § 2º, "c" do CP, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO manteve a fixação de regime mais gravoso nos seguintes termos do voto do relator:
+"Já para o réu Maxwell foi aplicado o regime intermediário, em face de sua reincidência específica, não havendo, pelo mesmo motivo, a substituição da pena, não havendo reparos." (fl. 280).
+Por seu turno, na sentença constou o seguinte:
+"Considerando a reincidência, bem como tendo em vista as circunstâncias dos crimes, em atenção ao teor das súmulas 718 e 719 do C. Superior Tribunal Federal, bem como nos termos do artigo 33, §3ª, do Código Penal, fixo o regime inicial semiaberto.
+Além disso, em razão da reincidência, fica impossibilitada a substituição da pena privativa de liberdade por restritiva de direitos (artigo 44, inciso II, do Código Penal), bem como a concessão do sursis (artigo 77, caput e inciso I, do Código Penal)". (fl. 191).
+Extrai-se, dos trechos acima transcritos, que o Tribunal de origem manteve a fixação do regime semiaberto para início de cumprimento da pena, em face da reincidência específica do recorrente.
+Tal conclusão encontra-se em absoluta consonância com a remansosa jurisprudência deste Sodalício. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. INSIGNIFICÂNCIA. APLICAÇÃO. IMPOSSSIBILIDADE. REGIME SEMIABERTO. REINCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+2. Os registros de vida pregressa devem ser entendidos como elementos objetivos, e não subjetivos. Isso porque não se avalia a pessoa do agente, mas, sim, o seu histórico penal - que pode ser incompatível com a exclusão da punibilidade - e a perspectiva de recidiva do comportamento avesso ao direito. O exame desses dados alinha-se com o princípio da isonomia, pois o indivíduo que furta uma vez não pode ser igualado ao que furta habitualmente, escorando-se este, conscientemente, na impunidade.
+3. Na espécie, não obstante o valor do bem subtraído - que equivale a, aproximadamente, 15% do salário mínimo vigente à época dos fatos - a Corte estadual salientou a reincidência específica. Com efeito, a despeito do valor da res furtiva, não se revela viável o trancamento do processo, diante da recidiva criminal, o que está em consonância com a jurisprudência desta Corte Superior.
+4. No que tange ao pedido de fixação do regime aberto de cumprimento de pena, o acórdão impugnado salientou que, "apesar do quantum da pena corporal fixada - que permitiria, em tese, a fixação do regime inicial aberto - trata-se de réu reincidente, conforme consta da Folha de Antecedentes Penais acostada aos autos (Proc.2018.06.1.001864-8, trânsito em 30/12/2019), o que autoriza a manutenção do regime de cumprimento da pena assim como determinado na sentença, qual seja, o semiaberto, consoante diretriz do art. 33, §2º, alínea "c", e §3º, do CP".
+5. O acórdão está de acordo com a jurisprudência desta Corte Superior, nos termos da Súmula n. 269 do STJ: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+6. Agravo regimental não provido.
+(AgRg no HC n. 915.543/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESACATO. NULIDADE DE ATO PROCESSUAL. PRECLUSÃO. PREJUÍZO NÃO DEMONSTRADO. MAUS ANTECEDENTES. CONDENAÇÕES TRANSITADAS EM JULGADO HÁ MAIS DE 5 ANOS. POSSIBILIDADE. PENA INFERIOR A QUATRO ANOS DE RECLUSÃO. REGIME SEMIABERTO. ADEQUAÇÃO. REINCIDÊNCIA AUFERIDA.
+1. Não tendo a defesa impugnado a ausência de gravação da audiência em meio audiovisual em momento oportuno, nem demonstrado o efetivo prejuízo, não há que falar em nulidade.
+2. "Condenações anteriores transitadas em julgado, alcançadas pelo prazo de 5 anos previstos no art. 64, inciso I, do CP, constituem fundamento idôneo para valorar negativamente as circunstâncias judiciais. Embora esse período afaste os efeitos da reincidência, não o faz quanto aos maus antecedentes" (AgRg no HC n. 746.087/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+3. Não há falar em abrandamento do regime prisional ao réu reincidente. Nesse sentido: AgRg no HC n. 666.028/SC, Quinta Turma, rel. Min. Joel Ilan Paciornik, DJe de 16/8/2021; e AgRg no HC n. 723.728/SP, Sexta Turma, rel. Min. Antonio Saldanha Palheiro, DJe de 8/4/2022, tampouco em substituição da pena privativa de liberdade por restritiva de direitos, em razão do disposto no art. 44, II e III, do CP.
+4 . Agravo regimental improvido.
+(AgRg no AREsp n. 2.008.009/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 27/2/2024, DJe de 4/3/2024.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. DESCLASSIFICAÇÃO PARA O DELITO DE FURTO. IMPOSSIBILIDADE. AMEAÇA COMPROVADA. NECESSIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. REGIME INICIAL MAIS GRAVOSO. REINCIDÊNCIA. MOTIVAÇÃO IDÔNEA. INCIDÊNCIA DA SÚMULA N. 269/STJ. RECURSO ESPECIAL DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. As instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, concluíram estar configurada a elementar da grave ameaça, caracterizadora do delito de roubo. Nesse contexto, a pretendida desclassificação da conduta para o crime de furto demanda o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+2. Nos termos da Súmula n. 269 deste Superior Tribunal de Justiça, "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a 4 (quatro) anos se favoráveis as circunstâncias judiciais" (AgRg no AREsp 1591889/MT, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 19/12/2019).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.330.394/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/2/2024, DJe de 1º /3/2024.)
+Dessa forma, não prospera a alegação defensiva no sentido de que o recorrente faria jus ao regime aberto, a despeito da reincidência. No caso concreto, não obstante o acusado tenha sido condenado à pena inferior a 4 anos, foram reconhecidas circunstâncias judiciais negativas, bem como a reincidência específica do agente.
+Irretocável, pois, o acórdão recorrido, pois em plena conformidade com a jurisprudência deste Sodalício e com a as diretrizes legais previstas no art. 33, §§ 2º e 3º, do CP.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+ EMENTA
