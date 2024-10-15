@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO REVISIONAL. EMPRÉSTIMO PESSOAL. TOGADO DE ORIGEM QUE JULGA PROCEDENTES OS PEDIDOS INAUGURAIS. INCONFORMISMO DA FINANCEIRA.
+DIREITO INTERTEMPORAL. DECISÃO PUBLICADA EM 23-10-2023. INCIDÊNCIA DO CPC/15.
+PRELIMINAR DE CERCEAMENTO DE DEFESA POR CONTA DO JULGAMENTO ANTECIPADO DA LIDE. PROVAS NECESSÁRIAS À FORMAÇÃO DO CONVENCIMENTO DO ESTADO-JUIZ QUE SE ENCONTRAM CARREADAS AO FEITO. DESNECESSIDADE DE DILAÇÃO PROBATÓRIA. POSSIBILIDADE DE JULGAMENTO DO PROCESSO NO ESTADO EM QUE SE ENCONTRAVA. INTELIGÊNCIA DO ART. 355, INCISO I, DO CÓDIGO FUX. PROEMIAL REPELIDA.
+PRETENDIDA EXPEDIÇÃO DE OFÍCIO AO NÚCLEO DE MONITORAMENTO DO PERFIL DE DEMANDAS (NUMOPEDE), À ORDEM DOS ADVOGADOS DO BRASIL (OAB), DELEGACIA DE POLÍCIA LOCAL, BEM COMO INTIMAÇÃO PESSOAL DA AUTORA, PARA QUE SEJA APURADA EVENTUAL PRÁTICA DE INFRAÇÃO DISCIPLINAR OU CONDUTA TÍPICA. NÃO ACOLHIMENTO. DOCUMENTOS QUE INSTRUEM OS AUTOS QUE NÃO INDICAM NENHUMA IRREGULARIDADE. POSSIBILIDADE, CASO ENTENDA EXISTIREM INDÍCIOS DA PRÁTICA DE INFRAÇÃO ÉTICA OU CONDUTA TÍPICA, DA PRÓPRIA PARTE ACIONAR OS ÓRGÃOS COMPETENTES SEM NECESSIDADE DE INTERVENÇÃO DO ESTADO-JUIZ.
+LITIGÂNCIA DE MÁ-FÉ. TESE DESCORTINADA. POSTURA DA REQUERENTE QUE NÃO SE ENQUADRA EM NENHUMA DAS CONDUTAS PREVISTAS NO ART. 80 DO CPC/15. SENTENÇA PRESERVADA.
+JUROS REMUNERATÓRIOS. ADMISSÃO DO RECURSO ESPECIAL N. 1.061.530/RS, DE QUE TRATA A MULTIPLICIDADE DE RECURSOS COM FUNDAMENTO IDÊNTICO À QUESTÃO DE DIREITO, COMO REPRESENTATIVO DA CONTROVÉRSIA. JULGAMENTO, SOB A RELATORIA DA MINISTRA NANCY ANDRIGHI, QUE ESTIPULOU: (1) A AUSÊNCIA DE ABUSIVIDADE NA ESTIPULAÇÃO DE JUROS REMUNERATÓRIOS SUPERIORES A 12% AO ANO; (2) A POSSIBILIDADE DE REVISÃO DAS TAXAS DE JUROS REMUNERATÓRIOS QUANDO CARACTERIZADA A RELAÇÃO DE CONSUMO E A ABUSIVIDADE RESTAR CABALMENTE DEMONSTRADA, ANTE AS PECULIARIDADES DO JULGAMENTO EM CONCRETO. AUSÊNCIA, ADEMAIS, DE QUALQUER EXPLICAÇÃO E JUSTIFICATIVA PLAUSÍVEIS PARA QUE A TAXA DE JUROS REMUNERATÓRIOS SE AFASTASSE DA MÉDIA DE MERCADO. ÔNUS QUE ERA DA INSTITUIÇÃO FINANCEIRA. HIPÓTESE VERTENTE EM QUE OS PERCENTUAIS PREVISTOS NA AVENÇA SUPLANTA ABSURDAMENTE A TAXA MÉDIA PRATICADA EM MERCADO. ABUSIVIDADE PATENTEADA. LIMITAÇÃO DOS JUROS COMPENSATÓRIOS AO TETO VEICULADO PELO BANCO CENTRAL. PEDIDO SUBSIDIÁRIO DE LIMITAÇÃO A VALOR NÃO INFERIOR UMA VEZ E MEIA DA MÉDIA DE MERCADO INVIÁVEL. COLEGIADO QUE ADOTA O PARÂMETRO DE REDUÇÃO À MÉDIA DE MERCADO DIVULGADA PELO BACEN QUANDO HOUVER CARACTERIZAÇÃO DE POTESTATIVIDADE. SENTENÇA INDENE NESSA SEARA.
+REPETIÇÃO DO INDÉBITO. PAGAMENTO DE JUROS REMUNERATÓRIOS ABUSIVOS. PRESCINDIBILIDADE DE PRODUÇÃO DA PROVA DO VÍCIO. INTELIGÊNCIA DO ART. 42 DO CDC. APLICAÇÃO DO VERBETE N. 322 DO STJ. PERMISSIBILIDADE NA FORMA SIMPLES. COMANDO JUDICIAL PRESERVADO.
+PLEITO DE MINORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. REJEIÇÃO. FIXAÇÃO POR APRECIAÇÃO EQUITATIVA QUE SE AFIGURA CORRETA. ESTIPÊNDIO ESTABELECIDO EM PATAMAR ADEQUADO FACE AS CIRCUNSTÂNCIAS DO CASO CONCRETO. DECISÓRIO MANUTENIDO.
+RECURSO INACOLHIDO" (e-STJ fls. 352/353).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 421/424).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 421 do Código Civil, sustentando, em síntese, que no mútuo bancário os juros remuneratórios não podem ser considerados abusivos apenas se comparadas as taxas dos juros contratados com a média de mercado;
+(ii) arts. 355, I e II, e 356, I e II, Código de Processo Civil, alegando cerceamento de defesa pelo indeferimento do pedido de produção de prova pericial contábil, reputada imprescindível.
+Contrarrazões às e-STJ fls. 569/580.
+Na origem, negou-se seguimento ao recurso especial quanto ao percentual de juros remuneratórios, em razão dos Temas nºs 24 e 27/STJ.
+Quanto à tese de cerceamento de defesa, decidiu-se pela inadmissão do recurso, diante do óbice da Súmula nº 7/STJ (e-STJ fls. 583/586).
+O agravo interno interposto contra a negativa de seguimento do apelo nobre foi improvido (e-STJ fls. 635/636).
+O presente agravo volta-se contra a aplicação da Súmula nº 7/STJ à tese de cerceamento de defesa.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que se refere à ofensa aos arts. 355, II, e 356, I e II, do CPC, verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido." (AgInt no AREsp 1.097.857/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/11/2017 - grifou-se)
+Quanto à alegada necessidade de prova pericial - violação do art. 355, I, do CPC, o aresto recorrido assim dispôs:
+"(..) Os documentos carreados no processo constituem provas suficientes à formação do convencimento do Estado-Juiz, uma vez que o debate travado entre as Partes, na presente ação revisional, cinge-se ao exame da existência ou não de ilegalidades de disposições contratuais, para o qual se dispensa a realização de perícia. (..)
+Deve-se observar que o destinatário das provas é o Togado que irá julgar a causa, incumbindo a ele indeferir aquelas que entender ser impertinentes" (e-STJ fls. 344/345).
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que devem ser levados em consideração os princípios da livre admissibilidade probatória e do livre convencimento motivado do juiz que, nos termos do art. 370 do CPC, permitem ao julgador determinar as provas que entender necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias.
+Nessas circunstâncias, tendo o magistrado, destinatário da prova, concluído, com base nos elementos do processo, ser desnecessária a realização de perícia contábil, inviável o acolhimento da pretensão recursal, pois demandaria o revolvimento do acervo fático-probatório dos autos, providência vedada pela Súmula nº 7/STJ.
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.
+RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. NÃO VERIFICADA. DISPENSA DA PRODUÇÃO DE PROVA PERICIAL. SISTEMA DA LIVRE PERSUASÃO RACIONAL DO MAGISTRADO. REEXAME DE PROVAS. SÚMULA N.º 7 DO STJ. HOME CARE. DEVER DE COBERTURA. SITUAÇÃO EXCEPCIONAL. INVIABILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DANOS MORAIS DEMONSTRADOS NAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE DE REEXAME. QUANTUM INDENIZATÓRIO QUE NÃO SE REVELA EXCESSIVO. APLICAÇÃO DA SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..) 3. Nos termos da jurisprudência desta Corte, cabe ao Juiz, como destinatário final da prova, respeitando os limites adotados pelo CPC, decidir pela produção probatória necessária à formação do seu convencimento. O Tribunal estadual assentou que não era necessária a produção de prova pericial. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta a Súmula n.º 7 do STJ. (..)
+8. Agravo interno não provido." (AgInt no REsp n. 1.980.863/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022 - grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO. AÇÃO RENOVATÓRIA. JULGAMENTO ANTECIPADO DA LIDE. EXTINÇÃO. PRAZO MÍNIMO. COMPROVAÇÃO. AUSÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PROVA ORAL. INDEFERIMENTO. LIVRE CONVENCIMENTO MOTIVADO. IMPRESCINDIBILIDADE DA PROVA. JUÍZO. MATÉRIA FÁTICA. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. INEXISTÊNCIA.
+(..) 4. O nosso sistema processual civil é orientado pelo princípio do livre convencimento motivado, cabendo ao julgador determinar as provas que entender necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias.
+5. Modificar a conclusão do tribunal de origem, soberano quanto à análise da necessidade ou não de se produzir outras provas, além daquelas já constantes dos autos, demandaria o reexame do contexto fático-probatório dos autos, providência vedada em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+(..) 8. Agravo interno não provido." (AgInt no AREsp n. 1.236.687/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe de 4/5/2018 - grifou-se)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pela ora recorrente, devem ser majorados para R$ 4.000,00 (quatro mil reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.Deixa-se de majorar os honorários sucumbencia is, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
