@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por CESAR WILLIAN MANOEL contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República.
+Nas razões recursais, a defesa aponta contrariedade ao disposto no art. 158-A e seguintes, art. 564, III, "e", do Código de Processo Penal, art. 42 da Lei 11.343/06 e §4º do a rt. 33, da Lei 11.343/06.
+Aduz, em suma: quebra da cadeia de custódia das provas; nulidade diante da ausência de interrogatório do réu presente em audiência; elevação da pena-base com amparo na quantidade de drogas; direito ao tráfico privilegiado (e-STJ, fls. 6675-6699).
+Requer o provimento do recurso para que seja reformado o acórdão recorrido.
+Foram apresentadas as contrarrazões (e-STJ, fls. 6703-6710).
+O recurso foi inadmitido (e-STJ, fls. 6718-6719). Daí este agravo (e-STJ, fls. 6723-6728).
+A Presidência desta Corte Superior não conheceu do recurso, diante do disposto na Súmula 115/STJ (e-STJ, fls. 6760-6761), e, interposto agravo regimental (e-STJ, fls. 6766-6768), reconsiderou a decisão, determinando a distribuição dos autos (e-STJ, fls. 6771-6772).
+O Ministério Público Federal opina pelo não conhecimento do agravo (e-STJ, fls. 6783-6784).
+Por sua vez, às fls. 6789-6794 (e-STJ), o agravante "informa, desde já, que desiste parcialmente das matérias combatidas no recurso especial e agravo em recurso especial, especificamente as relacionadas à nulidade e ao pleito absolutório, mantendo-se, entretanto, a insurgência em relação à dosimetria da pena e aplicação do tráfico privilegiado" (e-STJ, fl. 6791, grifou-se).
+É o relatório.
+Decido.
+A irresignação não merece conhecimento.
+Conforme constante da decisão agravada, o recurso especial foi inadmitido diante dos óbices das Súmulas 283 e 284 do STF e da Súmula 7 do STJ (e-STJ, fls. 6718-6719).
+Todavia, a defesa do agravante não impugnou adequadamente os fundamentos da decisão agravada, limitando-se a afirmar, de forma genérica, que "Quanto a violação ao §4º do Art. 33 da Lei 11.343/06, de igual modo as outras violações, não é necessário o reexame probatório, a negativa a aplicação da causa de aumento (sic) de pena se deu por força de elemento desprovido de legitimidade e estranho ao exigido pelo dispositivo violado" (e-STJ, fl. 6725). E, ainda, quanto à insurgência a respeito da pena-base, não impugnou o fundamento contido na decisão agravada, de que o Tribunal de origem desconsiderou a quantidade de drogas apreendidas para elevar a basilar.
+Como bem ponderou o Ministério Público Federal em seu parecer, "No caso, ao se valer de alegação genérica relativa aos conceitos de reexame e de revaloração probatória, o agravante não se desincumbiu do ônus de demonstrar que, efetivamente, a insurgência não demandaria o revolvimento de provas, notadamente diante dos pleitos absolutório e de reconhecimento do tráfico privilegiado veiculados no recurso especial, tendentes a modificar as premissas fáticas do acórdão e a fragilizar o arcabouço probatório dos autos" (e-STJ, fl. 6783, com destaque).
+Com isso, é inafastável a aplicação do impeditivo da Súmula 182 deste Superior Tribunal ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos d a decisão agravada" ). Nesse sentido, confiram-se os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 27/8/2014.
+Anote-se, ainda, que o Código de Processo Civil de 2015, em seu art. 932, reafirmou a orientação do STJ, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Ademais, tem-se que: "a jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada" (AgInt no REsp 1.600.403/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/8/2016, DJe 31/8/2016, grifou-se).
+Acrescenta-se que, no julgamento do EAREsp 746.775 (DJe 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+Por fim, cabe registrar que as razões contidas às fls. 6789-6794 (e-STJ) (pet n. 00897147/2024) não tem o condão de suprir a deficiência do agravo em recurso especial, diante da preclusão consumativa.
+Corrobora:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ADITAMENTO ÀS RAZÕES RECURSAIS. IMPOSSIBILIDADE. TESE NÃO DISCUTIDA NO ACÓRDÃO RECORRIDO. AUSÊNCIA DE PREQUESTIONAMENTO. INOVAÇÃO RECURSAL. DECOTE DE CIRCUNSTÂNCIAS JUDICIAIS. REDUÇÃO PROPORCIONAL DA PENA-BASE. EXCLUSÃO DA CONTINUIDADE DELITIVA. AFASTAMENTO DA MAJORAÇÃO. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Em razão dos princípios da unicidade recursal e da preclusão consumativa, não se admite a posterior complementação de razões recursais.
+2. Não se conhece de alegação que não foi debatida no acórdão recorrido, tampouco foi objeto de impugnação no recurso especial, ante a ausência de prévio prequestionamento e da impossibilidade de inovação recursal em agravo regimental.
+3. Nos termos da jurisprudência desta Corte Superior, diante da exclusão de circunstâncias judiciais negativas no julgamento da apelação defensiva, é necessária a redução proporcional da pena-base. No caso, essa redução proporcional deve ter como parâmetro o valor atribuído a cada circunstância judicial na sentença condenatória, o qual não foi alterado no julgamento dos embargos de declaração opostos no Juízo de origem.
+4. O Tribunal de origem, quando afastou a continuidade delitiva indevidamente aplicada na sentença, igualmente decotou o aumento de 2/3 (dois terços) que havia sido aplicado em sua decorrência, o que é suficiente para a correta readequação da dosimetria, não havendo falar em uma diminuição adicional na pena.
+5. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido."
+(AgRg nos EDcl no AREsp n. 1.972.411/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/10/2021, DJe de 4/11/2021, grifou-se.)
+Ante o exposto, com apoio no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
