@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, denegar a ordem.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. TRÁFICO DE DROGAS INTERESTADUAL. ART. 33, CAPUT, C/C ART. 40, INCISO V, AMBOS DA LEI 11.343/06. EXPRESSIVA QUANTIDADE DE DROGAS. APROXIMADAMENTE 187 QUILOS DE MACONHA. PACIENTE MÃE DE CRIANÇA MENOR DE 12 ANOS. AUSÊNCIA DE COMPROVAÇÃO COMO ÚNICA RESPONSÁVEL PELA FILHA MENOR. HABEAS CORPUS. PRISÃO PREVENTIVA. ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado visando à revogação da prisão preventiva de paciente acusada de tráfico interestadual de drogas, com apreensão de grande quantidade de entorpecentes. A defesa alega ausência dos requisitos para manutenção da custódia preventiva.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar a legalidade da manutenção da prisão preventiva diante das circunstâncias do caso concreto e da alegação de condições pessoais favoráveis da paciente.
+III. Razões de decidir
+3. A prisão preventiva é compatível com a presunção de inocência desde que não se configure como antecipação de pena e esteja fundamentada nos requisitos do art. 312 do CPP.
+4. A gravidade concreta do crime e a quantidade de droga apreendida justificam a manutenção da prisão para garantia da ordem pública.
+5. A condição de mãe de menor não é suficiente para concessão de prisão domiciliar, especialmente quando não demonstrada a exclusividade dos cuidados.
+6. A presença de condições pessoais favoráveis não impede a decretação da prisão preventiva quando há fundamentação adequada.
+IV. Dispositivo
+7. Ordem de habeas corpus denegada.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos.
+A defesa alega, em síntese, a ausência dos requisitos para a manutenção da custódia preventiva.
+Consta dos autos que a paciente está presa.
+Requer, liminar e definitivamente, a concessão da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+EMENTA
+DIREITO PENAL. TRÁFICO DE DROGAS INTERESTADUAL. ART. 33, CAPUT, C/C ART. 40, INCISO V, AMBOS DA LEI 11.343/06. EXPRESSIVA QUANTIDADE DE DROGAS. APROXIMADAMENTE 187 QUILOS DE MACONHA. PACIENTE MÃE DE CRIANÇA MENOR DE 12 ANOS. AUSÊNCIA DE COMPROVAÇÃO COMO ÚNICA RESPONSÁVEL PELA FILHA MENOR. HABEAS CORPUS. PRISÃO PREVENTIVA. ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado visando à revogação da prisão preventiva de paciente acusada de tráfico interestadual de drogas, com apreensão de grande quantidade de entorpecentes. A defesa alega ausência dos requisitos para manutenção da custódia preventiva.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar a legalidade da manutenção da prisão preventiva diante das circunstâncias do caso concreto e da alegação de condições pessoais favoráveis da paciente.
+III. Razões de decidir
+3. A prisão preventiva é compatível com a presunção de inocência desde que não se configure como antecipação de pena e esteja fundamentada nos requisitos do art. 312 do CPP.
+4. A gravidade concreta do crime e a quantidade de droga apreendida justificam a manutenção da prisão para garantia da ordem pública.
+5. A condição de mãe de menor não é suficiente para concessão de prisão domiciliar, especialmente quando não demonstrada a exclusividade dos cuidados.
+6. A presença de condições pessoais favoráveis não impede a decretação da prisão preventiva quando há fundamentação adequada.
+IV. Dispositivo
+7. Ordem de habeas corpus denegada.
+VOTO
+Sabe-se que "a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP)" (RHC 174.619/ES, Relator Ministro Sebastião Reis Júnior, 6ª Turma, j. em 11/04/2023, DJe 16/05/2023).
+O ordenamento jurídico vigente, em atenção ao princípio da presunção da inocência, consagra a liberdade do indivíduo como regra. Desse modo, a prisão antes do trânsito em julgado revela-se cabível tão somente quando, presentes as condições do art. 312 do CPP, estiver concretamente comprovada a existência do "fumus comissi delicti", aliado ao "periculum libertatis", sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+Além disso, "em razão de seu caráter excepcional, a prisão preventiva somente deve ser imposta quando incabível a substituição por outra medida cautelar menos gravosa, conforme disposto no art. 282, § 6º, do CPP" (AgRg no HC 716.740/BA, Relator Ministro Joel Ilan Paciornik, 5ª Turma, j. em 22/03/2022, DJe 07/04/2022).
+No caso, a prisão preventiva foi mantida com base nos seguintes argumentos (e-STJ, fls.177-179):
+"Por ocasião do exame do pedido liminar, entendi presentes, num primeiro olhar, os requisitos e fundamentos previstos nos artigos 312 e 313 do Código de Processo Penal que justificam a prisão cautelar da paciente, pelo menos até que exame mais acurado da matéria seja efetuado por ocasião do julgamento do mérito da ação, "chamando bastante atenção a quantidade da substância entorpecente apreendida em poder da paciente (202 tabletes, quase 190kg - foto no id 59297109, p. 37), bem como a situação de tráfico interestadual reconhecida pelos acusados", o que indica a "periculosidade que conduz à necessária preservação da ordem pública" (id 59401350). De fato, as circunstâncias apresentadas neste caso barram a possibilidade de êxito do presente remédio heroico, pois estão declinados no decreto prisional os requisitos legais autorizadores para a decretação da prisão preventiva da paciente, que, presa em flagrante, é acusada da prática do grave crime de tráfico de drogas, em contexto de tráfico interestadual, sendo detida em veículo transportando quantidade expressiva de drogas (mais de 180 kg da substância conhecida como maconha), evidenciando a autoria e a materialidade delitivas. Quanto ao periculum libertatis, há elementos nos autos a indicar que a paciente, em liberdade, representa risco concreto à ordem pública, não só pela natureza gravíssima do crime de tráfico de drogas, mas, principalmente, por sua periculosidade, demonstrada na disposição de trafegar em rodovia nacional com a já referida quantidade de substância entorpecente. No que se refere às condições pessoais favoráveis alegadas pela impetração, é certo que os tribunais têm decidido que eventuais situações não são elementos suficientes a garantir a liberdade do paciente, quando evidenciada a necessidade de segregação cautelar para garantir a ordem pública, a ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria, nos termos do art. 312 do Código de Processo Civil, exatamente como no presente caso.
+(..)
+No que diz respeito ao pedido alternativo de prisão domiciliar, em razão de a paciente ser mãe de uma criança de 5 (cinco) anos de idade, não há, ao menos neste momento processual, dados suficientes a indicar que a custodiada é a única e exclusiva responsável pelos cuidados e assistência à filha, especialmente porque, como já realçado, a mãe voluntariamente deixou a criança aos cuidados da avó materna quando partiu de sua cidade (Natal/RN) para longa viagem em busca da carga de entorpecentes, além do que, como pontua o parecer da Procuradoria de Justiça, "verifica-se, da certidão de nascimento acostada aos autos (fl. 59 do ID 59297109), que a menor não é filha do coautuado, não havendo no feito notícia de impossibilidade por parte do genitor de assumir os cuidados com a menor" (id 59809616, p. 5). É importante registrar, no ponto, que nossa Corte tem decidido que a condição de mãe de filhos menores de idade não pode servir, por si só, como salvo conduto indiscriminado, especialmente no caso concreto, onde o crime apurado equipara-se a hediondo, de natureza gravíssima, e, como já mencionado, a paciente foi presa em estado da federação distante daquele onde reside sua filha." (grifos acrescidos)
+A análise realizada pelo Tribunal de origem encontra-se em linha com a jurisprudência desta Corte acerca das circunstâncias fáticas do caso concreto, que dão conta do preenchimento das condições previstas no art. 312 do CPP, aliadas à proporcionalidade e à indispensabilidade da decretação da prisão preventiva.
+Com efeito, é indene de controvérsia nesta Corte o fato de que "(..) a presença de condições pessoais favoráveis, como primariedade, emprego lícito e residência fixa, não impede a decretaç ão da prisão preventiva quando devidamente fundamentada (..)" (AgRg no RHC 175.391/RS, Relator Ministro Joel Ilan Paciornik, 5ª Turma, j. em 12/12/2023, DJe 18/12/2023).
+Ademais, inexiste contrariedade à jurisprudência deste Tribunal na manutenção da prisão preventiva com base em elementos que indicam gravidade concreta que desborda o tipo. Nesse sentido: AgRg no HC 801.642/SP, Relator Ministro Reynaldo Soares da Fonseca, 5ª Turma, j. em 28/02/2023, DJe 06/03/2023; e AgRg no HC 782.464/SC, Relator Ministro Rogério Schietti Cruz, 6ª Turma, j. em 06/03/2023, DJe 09/03/2023.)
+Por fim, é assente nesta Corte que "tem-se por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura" (AgRg no HC 844.095/PE, Relator Ministro Ribeiro Dantas, 5ª Turma, j. em 18/12/2023, DJe 20/12/2023).
+Pelo exposto, denego a ordem de habeas corpus pleiteada.
+É o voto.
