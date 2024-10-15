@@ -1,0 +1,18 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Romeson Agostinho da Silva  condenado por roubo circunstanciado a 15 anos e 20 dias de reclusão, e a 30 dias-multa  , atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de Pernambuco (fls. 13/31), comporta pronto acolhimento.
+Com efeito, busca a impetração o redimensionamento da pena imposta  na condenação proferida na Ação Penal n. 0042418-81.2021.8.17.2001 (fls. 52/69 - da 9ª Vara Criminal da comarca da Capital/PE)  , com:
+a) a redução do quantum de exasperação da pena-base, ao argumento de desproporcionalidade, apontando que, no caso concreto, o magistrado de 1º grau considerou três circunstâncias judiciais como desfavoráveis ao paciente, quais sejam, a culpabilidade, os antecedentes criminais e as circunstâncias do crime, fixando a pena-base no patamar de 7 (sete) anos e 3 (três) meses de reclusão (fl. 8); e
+b) a compensação total da atenuante da confissão com a agravante da reincidência, sustentando serem ambas igualmente preponderantes (fl. 10).
+Inicialmente, tem-se que não deveria ser processada a impetração, pois o acórdão hostilizado foi publicado em data recente, estando em curso o lapso para interposição de recursos, o que impede o processamento do writ (AgRg no HC n. 873.533/ES, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe 15/3/2024).
+Entretanto, foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois:
+a) há flagrante desproporcionalidade na exasperação da pena-base, aumentada em 13/16 (equivalente a 81%) pela negativação dos vetores culpabilidade, antecedentes, circunstâncias do crime (fl. 16); e
+b) a existência de uma única condenação não configura a multirreindência  uma das condenações utilizada nos maus antecedentes é idônea a configurar a multirreincidência (NPU n. 0006345-14.2012.8.17.0001) - fl. 19)  , a fim de não compensar totalmente a atenuante da confissão com a agravante da reincidência.
+Necessário, então, redimensionar a pena imposta: na primeira fase, exaspera-se a pena na proporção de 1/6 por vetor, em razão da negativação da culpabilidade e das circunstâncias do crime; e de 1/3, pelos antecedentes (em razão da existência de duas condenações - fl. 19), tem-se a pena-base em 6 anos e 8 meses de reclusão, e 17 dias-multa. Na segunda fase, mantida a agravante da reincidência (na fração de 1/6) e a atenuante da confissão, aplicando a fração de 1/12, por ter sido parcial (AgRg no HC n. 882.377/SC, Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, DJe 21/6/2024), tem-se um aumento de 1/12, passando a reprimenda para 7 anos, 2 meses e 20 dias de reclusão, e 18 dias-multa. Na terceira fase, mantida a causa de aumento do emprego de arma de fogo em 2/3 (fl. 63), tem-se a pena definitiva em 12 anos e 13 dias reclusão, e 30 dias-multa.
+Finalmente, considerando a pena imposta, não há ilegalidade na fixação do regime inicial fechado.
+Em razão disso, concedo liminarmente a ordem impetrada a fim de redimensionar a pena imposta ao paciente para 12 anos e 13 dias reclusão, e 30 dias-multa, mantido do regime inicial fechado, referente à condenação proferida na Ação Penal n. 0042418-81.2021.8.17.2001, da 9ª Vara Criminal da comarca da Capital/PE.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. DESPROPORCIONALIDADE. SEGUNDA-FASE. AGRAVANTE DA REINCIDÊNCIA. EXISTÊNCIA DE ÚNICA CONDENAÇÃO NA CONFIGURAÇÃO DA MULTIRREINCIDÊNCIA. PENA REDIMENSIONADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
