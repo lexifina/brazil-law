@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 09/10/2024 a 15/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+AGRAVO INTERNO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. PROCESSO CIVIL E ADMINISTRATIVO. ART. 14, § 4º, DA LEI N. 10.259/2001. INCIDENTE DE UNIFORMIZAÇÃO MANEJADO CONTRA DECISÃO MONOCRÁTICA DO PRESIDENTE DA TNU. NÃO CABIMENTO. PRECEDENTES.
+1. Nos termos do art. 14, § 4º, da Lei n. 10.259/2001, quando a orientação acolhida pela Turma Nacional de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça, a parte interessada poderá provocar a sua manifestação para dirimir a divergência.
+2. É inadmissível a formulação de Pedido de Uniformização de Interpretação de Lei Federal, dirigido ao Superior Tribunal de Justiça, contra decisão monocrática proferida pela Presidência da TNU, com amparo em questão de direito processual. Precedentes.
+3. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por EUZEBIO SOARES BRBOSA contra decisão do Ministro Herman Benjamin, então relator, que não conheceu do Pedido de Interpretação de Lei Federal ao fundamento de que "Não é cabível a interposição de Pedido de Uniformização, direcionado ao STJ, de decisão monocrática, mas apenas de acórdão proferido pela Turma Nacional de Uniformização que contrarie súmula ou jurisprudência dominante desta Corte Superior" (fl. 147).
+Alega o agravante que "a respeitável decisão da TNU não merece ser mantida, tendo em vista que apresenta entendimento diametralmente oposto à jurisprudência do Superior Tribunal de Justiça" (fl. 155), salientando que "no caso em análise deve ser aplicado o IPCA-E, bem como deve ser vedado à aplicação do art. 1º-F da Lei 9.494/97, devido sua declaração de inconstitucionalidade" (fl. 162).
+Requer a reconsideração da decisão de fls. 147/148 ou o provimento do agravo interno, para "julgar o próprio pedido de uniformização referente à aplicação, sobre a diferença apurada, do índice de correção monetária da tabela 1 da Justiça Federal, além dos juros moratórios de 0,5% contados da citação", com a condenação da agravada em honorários sucumbenciais.
+Não foi apresentada resposta ao agravo interno (fl. 170).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. PROCESSO CIVIL E ADMINISTRATIVO. ART. 14, § 4º, DA LEI N. 10.259/2001. INCIDENTE DE UNIFORMIZAÇÃO MANEJADO CONTRA DECISÃO MONOCRÁTICA DO PRESIDENTE DA TNU. NÃO CABIMENTO. PRECEDENTES.
+1. Nos termos do art. 14, § 4º, da Lei n. 10.259/2001, quando a orientação acolhida pela Turma Nacional de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça, a parte interessada poderá provocar a sua manifestação para dirimir a divergência.
+2. É inadmissível a formulação de Pedido de Uniformização de Interpretação de Lei Federal, dirigido ao Superior Tribunal de Justiça, contra decisão monocrática proferida pela Presidência da TNU, com amparo em questão de direito processual. Precedentes.
+3. Agravo interno improvido.
+VOTO
+A Lei n. 10.259/2001, em seu art. 14, § 4º, estabelece que, "Quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça - STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência".
+O Pedido de Uniformização de Interpretação de Lei Federal, dirigido ao Superior Tribunal de Justiça, deve ser suscitado perante a Turma Nacional de Uniformização e exige que a orientação acolhida, em questões de direito material, contrarie súmula ou jurisprudência dominante desta Corte.
+Desse forma, é inadmissível a apresentação de PUIL contra decisão monocrática proferida pela Presidência da Turma de Uniformização, com amparo em questão de direito processual, pois inexistente o necessário pronunciamento acerca do mérito da controvérsia, pela Turma Nacional de Uniformização.
+Nesse sentido, confiram-se, dentre muitos, os seguintes acórdãos desta Corte:
+AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL DIRIGIDO AO STJ. PROCESSUAL CIVIL. JUIZADO ESPECIAL FEDERAL. ART. 14, § 4º, DA LEI N. 10.259/2001. INCIDENTE DE UNIFORMIZAÇÃO MANEJADO CONTRA DECISÃO MONOCRÁTICA DO PRESIDENTE DA TURMA NACIONAL DE UNIFORMIZAÇÃO. NÃO CABIMENTO. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do art. 14, § 4º, da Lei n. 10.259/2001 e da Resolução n. 10/2007-STJ, o Pedido de Uniformização de Interpretação de Lei Federal, dirigido ao Superior Tribunal de Justiça, a ser suscitado perante a Turma Nacional de Uniformização, exige, como pressuposto, que a orientação acolhida pela Turma, em questões de direito material, contrarie súmula ou jurisprudência dominante no STJ, sendo inadmissível, portanto, contra decisão monocrática proferida pela Presidência da TNU, pautada em questão de direito processual.
+Precedentes.
+2. Agravo interno desprovido.
+(AgInt no PUIL n. 3.619/DF, relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 14/5/2024, DJe de 21/5/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL DIRIGIDO AO STJ. JUIZADO ESPECIAL FEDERAL. ART. 14, § 4º, DA LEI 10.259/2001. AUSÊNCIA DE DIVERGÊNCIA ACERCA DO DIREITO MATERIAL. INTERPOSIÇÃO CONTRA ACÓRDÃO DA TURMA NACIONAL DE UNIFORMIZAÇÃO QUE NÃO CONHECEU DO PEDIDO DE UNIFORMIZAÇÃO A ELA DIRIGIDO. NÃO CABIMENTO. AGRAVO INTERNO IMPROVIDO.
+1. Agravo interno aviado contra decisão monocrática que não conheceu do Pedido de Uniformização de Interpretação de Lei Federal.
+2. Nos termos do art. 14, § 4º, da Lei 10.259/2001, caberá Pedido de Uniformização de Interpretação de Lei Federal, dirigido ao STJ, quando a orientação acolhida pela Turma de Uniformização em questões de direito material contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça.
+3. No caso dos autos, o Pedido de Uniformização de Interpretação de Lei Federal, dirigido à TNU, sequer foi por ela conhecido, ao fundamento de que a divergência se refere à aplicação em concreto da prova, sendo, portanto, incabível conforme a Súmula 42/TNU: "Não se conhece de incidente de uniformização que implique reexame de matéria de fato".".
+4. Agravo interno improvido.
+(AgInt no PUIL n. 3.798/PR, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 24/4/2024, DJe de 26/4/2024.)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. VEICULAÇÃO DO INCIDENTE CONTRA DECISÃO MONOCRÁTICA DO PRESIDENTE DA TNU PAUTADA EM QUESTÃO DE DIREITO PROCESSUAL. NÃO CABIMENTO DO PEDIDO DE UNIFORMIZAÇÃO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO STF. PROVIMENTO NEGADO.
+1. Nos termos do art. 14, § 4º, da Lei 10.259/2001, quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+2. Considerando que o pedido de uniformização de jurisprudência somente é cabível contra decisão do colegiado da Turma Nacional que tenha analisado direito material, não há como conhecer do presente incidente, uma vez que a agravante insurge-se contra decisão monocrática, pautada em questão de direito processual.
+ ..
+4. Agravo interno a que se nega provimento (AgInt no PUIL n. 3.194/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 20/6/2023, DJe de 22/6/2023.)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. APOSENTADORIA POR INVALIDEZ. INCAPACIDADE PARCIAL E TEMPORÁRIA RECONHECIDA EM EXAME PERICIAL. DECISÃO MONOCRÁTICA DO PRESIDENTE DA TURMA NACIONAL DE UNIFORMIZAÇÃO. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+IV - Na hipótese dos autos, como já levantando no juízo de admissibilidade proferido na TNU, não há decisão daquela corte sobre o tema, mas tão somente decisão monocrática do seu Presidente, negando seguimento ao incidente. Assim, é incabível o incidente, porquanto dispõe o art. 14, § 4º, da Lei n. 10.259/2001 que o incidente de uniformização dirigido ao STJ somente é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ. Portanto, não há como conhecer do incidente, eis que se insurge contra decisão monocrática, pautada em questão de direito processual. Nesse sentido: AgInt na Pet 10.264/SE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 02/02/2017; AgInt no PUIL 72/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 23/08/2017, DJe 09/10/2017.
+V - Agravo interno improvido. (AgInt no PUIL n. 3.223/DF, relator Ministro Francisco Falcão, Primeira Seção, julgado em 16/5/2023, DJe de 19/5/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
