@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Igor de Melo Rosa, em que se aponta como autoridade coatora o Oitavo Grupo de Direito Criminal do Tribunal de Justiça de São Paulo, que indeferiu o pedido de Revisão Criminal n. 0020539-84.2023.8.26.0000, mantendo a condenação do paciente pelo crime de tráfico de drogas.
+Neste writ, insurge-se a defesa quanto ao não reconhecimento do tráfico privilegiado, considerando que o réu preenche os requisitos legais, e quanto à fixação do regime fechado para o início de cumprimento de pena.
+Pede a concessão do habeas corpus para reconhecer a ausência de fundamentação idônea quanto à aplicação do regime fechado, devendo ser fixado o regime semiaberto (fl. 7).
+É o relatório.
+Infere-se do acórdão impugnado que o tráfico privilegiado não foi reconhecido sob a justificativa de que o paciente se dedicava a atividades criminosas, não preenchendo, assim, os requisitos legais estabelecidos no art. 33, § 4º, da Lei de Drogas.
+Extrai-se do acórdão impugnado (fl. 47):
+ ..
+Da análise dos autos principais, verifica-se o ora peticionário possuir passagens pela Vara da Infância e Juventude. Cabendo ressaltar, em 30 de abril de 2017, fora ele apreendido em flagrante porque mantinha em depósito, também para fins comerciais, uma porção de maconha de aproximadamente 90 gramas, e entregava entorpecente aos usuários, sendo detido em posse da droga e, também, com anotações com nomes de presos e contabilidade do tráfico (autos nº 000131-13.2017.8.26.0024), fatos que confirmam as denúncias pretéritas e o engajamento do ora peticionário com o nefasto comércio. Além disso, constata-se a existência de elementos indicativos de o ora peticionário se dedicar a atividades criminosas, notadamente pelos inquéritos e processos criminais em curso (fls. 53/55 dos autos principais). Daí porque correta a retirada da minorante no v. acórdão, o qual resta mantido, pois o ora peticionário não é iniciante na empreitada criminosa, razão pela qual não lhe é aplicável o redutor previsto no § 4º do artigo 33 da Lei nº 11.343/06. No mesmo sentido, inaplicável ao caso a substituição da pena privativa de liberdade por restritiva de direitos.
+Note-se que o benefício foi afastado por considerar que o paciente se dedicava a atividades criminosas, considerando a apreensão de 1 g de crack, inquéritos, processos criminais em curso e anotações de atos infracionais.
+A jurisprudência desta Corte firmou-se no sentido de que a existência de processos em curso não tem o condão de afastar a incidência do redutor de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006, por violar o princípio da presunção de inocência. Nesse sentido: AgRg no HC n. 802.235/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023.
+No mesmo sentido, as ações penais em curso e o histórico de atos infracionais do apenado dissociados de outros elementos que demonstrem sua dedicação a atividades criminosas não é óbice legal ao reconhecimento do tráfico privilegiado. Nesse sentido: AgRg no HC n. 813.637/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/5/2023.
+De mais a mais, verifica-se que a quantidade de droga apreendida não se mostra elevada a ponto de justificar, apenas por tal fundamento, o afastamento da minorante.
+Deve-se ressaltar que as instâncias ordinárias não apresentaram, na fundamentação, outros elementos concretos, baseados em evidências fáticas, que concluíssem pela dedicação do paciente a atividades criminosas ou sua integração à organização dessa natureza.
+Assim, configurado constrangimento ilegal nesse ponto, deve-se aplicar a fração em sua totalidade.
+Logo, mantida a pena provisória em 5 anos e 10 meses de reclusão, e 583 dias-multa, com a aplicação da causa de diminuição em 2/3, fica a pena definitiva em 1 ano, 11 meses e 10 dias de reclusão, em regime aberto, e pagamento de 194 dias-multa.
+A pena privativa de liberdade deve ser substituída por penas restritivas de direitos a serem especificadas pelo Juízo da execução.
+Ante o exposto, concedo liminarmente a ordem, para, na dosimetria da sanção penal, aplicar a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, em 2/3, redimensionando a pena definitiva para 1 ano, 11 meses e 10 dias de reclusão, em regime aberto, e pagamento de 194 dias-multa, substituída a pena privativa de liberdade por restritivas de direitos a serem especificadas pelo Juízo da execução.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. FRAÇÃO MÁXIMA. DEDICAÇÃO A ATIVIDADES CRIMINOSAS EMBASADA NA QUANTIDADE DE DROGA (1 G DE CRACK), AÇÕES/INQUÉRITOS EM CURSO E ANOTAÇÕES DE ATOS INFRACIONAIS . CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
