@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, rejeitar os embargos de declaraÃ§Ã o, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. AUSÊNCIA DE COMPROVAÇÃO DE AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. REJEITADOS OS EMBARGOS.
+1. O art. 619 do CPP c/c art. 263 do RISTJ preceituam que serão cabíveis os embargos de declaração, opostos no prazo legal, quando o objetivo for de esclarecer obscuridade/eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia pronunciar-se o órgão julgador de ofício ou a requerimento ou corrigir erro material, s endo possível, excepcionalmente, a alteração ou modificação ao julgamento proferido.
+2. No caso em apreço, é evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento pretérito que negou provimento ao agravo regimental, pois, nas razões recursais, há somente inconformismo da parte embargante, sem a indicação de ambiguidade, obscuridade, contradição ou omissão por parte desta Colenda Corte de Justiça no acórdão proferido, conforme alude o art. 620, caput, do CPP.
+3. Rejeitados os embargos.
+RELATÓRIO
+Trata-se de embargos de declaração (e-STJ fls. 781-789) opostos por ADILSON ADRIANO SALES SOUZA AMADEU em face do acórdão proferido que negou provimento ao agravo regimental (e-STJ fls. 772-776) assim ementado:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESPROVIMENTO DO RECURSO ESPECIAL, NA ORIGEM. REVISÃO CRIMINAL. INÉPCIA DA DENÚNCIA. DATA DE CONSUMAÇÃO DO DELITO. DESNECESSIDADE. TESE DE ABSOLVIÇÃO E DE CRIME IMPOSSÍVEL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nas razões do recurso especial, a defesa aponta a violação dos arts. 41 do Código de Processo Penal e 17 do Código Penal, pretendendo o reconhecimento da inépcia da denúncia e a absolvição do recorrente, em razão da ocorrência de crime impossível.
+2. No tocante ao art. 41 do Código de Processo Civil, a jurisprudência dominante é de que a omissão da indicação da data dos fatos constitui mera irregularidade, que não enseja a declaração de inépcia quando a narrativa permite o exercício da ampla defesa e do contraditório. Precedentes.
+3. A Corte de origem concluiu que o meio utilizado pelo réu era absolutamente eficaz para a consumação do delito, razão pela qual eventual modificação do julgado quanto ao ponto demandaria revolvimento do acervo fático-probatório, o que, no âmbito do recurso especial, constitui medida obstada pela Súmula 7/STJ.
+4. Agravo regimental desprovido.
+A parte embargante alega que teria ocorrido vício nos transcritos do referido acórdão, reiterando, em suma, os argumentos apresentados quando interposição do agravo regimental em face da decisão do Ministro Relator Jorge Mussi que conheceu do agravo em recurso especial para não conhecer do recurso especial.
+Requer que sejam acolhidos os embargos, para, no mérito, sanar os supostos vícios apontados, com efeitos modificativos.
+Contraminuta do Ministério Publico do Estado de São Paulo pela rejeição dos embargos e determinação de baixa dos autos (e-STJ fls. 801-803).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. AUSÊNCIA DE COMPROVAÇÃO DE AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. REJEITADOS OS EMBARGOS.
+1. O art. 619 do CPP c/c art. 263 do RISTJ preceituam que serão cabíveis os embargos de declaração, opostos no prazo legal, quando o objetivo for de esclarecer obscuridade/eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia pronunciar-se o órgão julgador de ofício ou a requerimento ou corrigir erro material, s endo possível, excepcionalmente, a alteração ou modificação ao julgamento proferido.
+2. No caso em apreço, é evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento pretérito que negou provimento ao agravo regimental, pois, nas razões recursais, há somente inconformismo da parte embargante, sem a indicação de ambiguidade, obscuridade, contradição ou omissão por parte desta Colenda Corte de Justiça no acórdão proferido, conforme alude o art. 620, caput, do CPP.
+3. Rejeitados os embargos.
+VOTO
+Conforme preceitua o art. 619 do Código de Processo Penal c/c art. 263 do RISTJ, serão cabíveis os embargos de declaração, opostos no prazo legal, quando o objetivo do recurso for de sanar obscuridade/eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia pronunciar-se o órgão julgador de ofício ou a requerimento da parte ou corrigir erro material, sendo possível, excepcionalmente, a alteração ou modificação ao julgamento proferido.
+No presente caso, esta Colenda Corte de Justiça, ao negar provimento ao agravo regimental, fundamentou a sua decisão nos seguintes dizeres (e-STJ fls. 774-775 ):
+O recurso especial foi parcialmente conhecido e teve o provimento negado, em razão da orientação jurisprudencial de que a simples falta de menção específica à data em que teria ocorrido o crime narrado na exordial não enseja a sua inépcia.
+Nas razões do recurso especial, a defesa aponta a violação dos arts. 41 do Código de Processo Penal e 17 do Código Penal, pretendendo o reconhecimento da inépcia da denúncia e a absolvição do recorrente, em razão da ocorrência de crime impossível.
+No tocante ao art. 41 do Código de Processo Civil, a jurisprudência dominante é de que a omissão da indicação da data dos fatos constitui mera irregularidade, que não enseja a declaração de inépcia quando a narrativa permite o exercício da ampla defesa e do contraditório.
+ ..
+Quanto à pretendida absolvição pela ocorrência de crime impossível (art. 17 do Código Penal), conforme consta da decisão impugnada, a Corte de origem concluiu que o meio utilizado pelo réu era absolutamente eficaz para a consumação do delito, razão pela qual eventual modificação do julgado quanto ao ponto demandaria revolvimento do acervo fático-probatório, o que, no âmbito do recurso especial, constitui medida obstada pela Súmula 7/STJ.
+Neste diapasão, entendendo não ter havido ambiguidade, obscuridade, contradição ou omissão no acórdão outrora prolatado pela Corte de Justiça, pois foram pontuados, de forma fundamentada, os motivos pelos quais não teria ocorrido a suposta afronta aos arts. 17 do Código Penal (incidência da Súmula n. 7 do STJ) e 41 do Código de Processo Penal ao caso em apreço, consoante à orientação jurisprudencial pacificada deste Tribunal.
+Ademais, levando em consideração as argumentações formuladas pela parte embargante, percebe-se tão somente a busca indevida de efeitos infringentes com a o posição dos presentes embargos ora em análise, o que, na ocasião, torna-se indevido, haja vista restarem evidentes tão somente a sua irresignação e seu o inconformismo decorrentes do resultado com julgado outrora proferido, indo de encontro ao que se preceitua no art. 620, caput, do CPP.
+Diante disso, não havendo quaisquer vícios a serem sanados, REJEITO os embargos de declaração.
+Fica a parte embargante advertida de que a reiteração de interposição/oposição de recursos como este será considerada protelatória, com a determinação de baixa dos autos, independentemente de publicação do acórdão, e com a respectiva certificação de trânsito em julgado.
+É como voto.
