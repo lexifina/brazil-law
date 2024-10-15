@@ -1,0 +1,17 @@
+DECISÃO
+AMAIR DE ASSIS ROCHA alega sofrer coação ilegal diante de acórdão do Tribunal de origem, que cassou a remição de 4 dias de sua pena por projeto de leitura, pretensão que reitera a esta Corte, por considerar que devem ser valorizadas as atividades de caráter complementar realizadas pelos presos, que propiciam a cultura e possuem função ressocializadora.
+Decido.
+O habeas corpus comporta avanço para pronta solução, pois:
+ ..
+1. A pacífica jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que, a partir da interpretação in bonam partem do art. 126 da Lei de Execução Penal, admite-se a remição da pena pela leitura conforme estabelecem a Portaria conjunta n. 276/2012, do Departamento Penitenciário Nacional/MJ e do Conselho da Justiça Federal, e a Recomendação n. 44/2013 do Conselho Nacional de Justiça.
+2. A remição de pena pode ocorrer mediante trabalho, estudo e, de forma mais recente, pela leitura, conforme modificação instituída pela Lei n. 12.433/2011, que alterou a redação dos arts. 126, 127 e 128 da Lei de Execução Penal, e disciplinado pela Recomendação n. 391/2021 do Conselho Nacional de Justiça (CNJ), que revogou expressamente a Recomendação nº 44/2013 - CNJ.
+3. A Resolução n. 391/2021 - CNJ prevê inúmeros requisitos para possibilitar a concessão da remição por leitura, dentre esses requisitos, que a resenha seja apresentada a uma comissão, a qual analisará os trabalhos produzidos, observando os aspectos relacionados à compreensão e compatibilidade do texto com o livro e atestará o resultado, o qual será encaminhado ao Juízo das Execuções Penais.
+4. No caso em exame, o Tribunal estadual, analisando o conjunto probatório contido nos autos, consignou que não foram preenchidos os requisitos dispostos na Resolução n. 391/2021 do CNJ, o que desautoriza a concessão do benefício.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 806.708/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/4/2023, DJe de 28/4/2023).
+Por interpretação extensiva do art. 126 da LEP e com o fim de regulamentar as várias atividades complementares de estudos, prevalece a compreensão de que é possível a remição uma vez comprovado que a leitura de obras literárias pelo condenado foram orientadas por projeto desenvolvido pelo estabelecimento prisional e submetidas a prévia avaliação pela comissão avaliadora competente, conforme os parâmetros de validade da atividade estabelecidos na Portaria Conjunta n. 276/2012 do Conselho Federal de Justiça, na Recomendação n. 44/2013 do CNJ e na Resolução do Conselho Nacional de Justiça n. 391, de 10/5/2021.
+No caso, o sentenciado participou de projeto supervisionado pela unidade penal. Documentos juntados ao processo de execução "dão conta que o sentenciado efetuou a leitura de 1 livro pelo prazo de 30 dias, no período de 1/11/2023 a 24/11/2023, tendo elaborado resenha que obteve parecer favorável à remição de penas pela comissão de avaliação" (fl. 62).
+Aplica-se ao caso a compreensão de que "é possível a remição pela leitura se houver projeto desenvolvido pelo estabelecimento prisional e preenchidos os demais requisitos da Recomendação 44/2013 do Conselho Nacional de Justiça" (AgRg no HC n. 812.750/SP, relator Ministro João Batista Moreira (Desembargador Convocado do Trf1), Quinta Turma, julgado em 24/10/2023, DJe de 27/10/2023).
+À vista do exposto, concedo o habeas corpus, in limine, para restabelecer a decisão do Juiz das Execuções, que deferiu ao apenado a remição por leitura.
+Publique-se e intimem-se.
+EMENTA
