@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo para dar provimento ao recurso especial, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. REDUTORA DO §4º DO ART. 33 DA LEI ANTIDROGAS. AUSÊNCIA DE OCUPAÇÃO LÍCITA E QUANTIDADE DE ENTORPECENTES APREENDIDA. ARGUMENTOS INIDÔNEOS. 19,42G DE "MACONHA" E 135,83G DE COCAÍN A. VIABILIDADE DA APLICAÇÃO DA CAUSA DE DIMINUIÇÃO. RECURSO PROVIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, no qual se discute a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei nº 11.343/2006.
+2. O recorrente alega que a quantidade de drogas apreendidas não é suficiente para afastar a aplicação do tráfico privilegiado, uma vez que os réus são primários e possuem bons antecedentes.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se, no caso, pode-se afastar a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei nº 11.343/2006.
+III. Razões de decidir
+4. A jurisprudência desta Corte entende que a quantidade de drogas não é, por si só, fundamento idôneo para afastar a aplicação do tráfico privilegiado.
+5. A falta de ocupação lícita não constitui fundamento suficiente para negar a minorante do tráfico.
+6. No caso concreto, a quantidade de drogas apreendidas não foi acompanhada de outros elementos que indicassem dedicação habitual ao tráfico.
+IV. RECURSO PROVIDO PARA RECALCULAR A PENA.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pelo ora agravante.
+Contraminuta apresentada, onde a parte recorrida postula o não conhecimento do recurso ou o seu não provimento.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. REDUTORA DO §4º DO ART. 33 DA LEI ANTIDROGAS. AUSÊNCIA DE OCUPAÇÃO LÍCITA E QUANTIDADE DE ENTORPECENTES APREENDIDA. ARGUMENTOS INIDÔNEOS. 19,42G DE "MACONHA" E 135,83G DE COCAÍN A. VIABILIDADE DA APLICAÇÃO DA CAUSA DE DIMINUIÇÃO. RECURSO PROVIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, no qual se discute a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei nº 11.343/2006.
+2. O recorrente alega que a quantidade de drogas apreendidas não é suficiente para afastar a aplicação do tráfico privilegiado, uma vez que os réus são primários e possuem bons antecedentes.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se, no caso, pode-se afastar a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei nº 11.343/2006.
+III. Razões de decidir
+4. A jurisprudência desta Corte entende que a quantidade de drogas não é, por si só, fundamento idôneo para afastar a aplicação do tráfico privilegiado.
+5. A falta de ocupação lícita não constitui fundamento suficiente para negar a minorante do tráfico.
+6. No caso concreto, a quantidade de drogas apreendidas não foi acompanhada de outros elementos que indicassem dedicação habitual ao tráfico.
+IV. RECURSO PROVIDO PARA RECALCULAR A PENA.
+VOTO
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida no recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Adiante, observo que a parte recorrente aponta como violados os seguintes dispositivos: art. 33, § 4º da Lei nº 11.3431/06.
+A análise das razões suscitadas pelo voto-vencido na origem indica desconformidade com o entendimento desta corte no que tange a tese vencedora, conforme se extrai dos seguintes trechos (e-STJ Fl. 511-512):
+Analisando os autos em questão, observei que os acusados cumprem todos os requisitos legais estipulados para a concessão da benesse do denominado "tráfico privilegiado", uma vez que se trata de réus primários e podadores de bons antecedentes, conforme CA Cs de fls. 112, 115 e 118, e não constam no processo elementos probatórios que atestem que os agentes detenham uma vida voltada ao cometimento de ilícitos. Sobre isto destaco que, muito embora tenha sido encontrada significativa quantidade de entorpecentes, qual seja, 119,42g de maconha e 135,83g de cocaína, conforme estampado no exame preliminar de drogas de abuso, fls. 11-v/16, entendo que a quantidade de substâncias apreendidas, por si só, não é o bastante para evidenciar o grau de envolvimento dos agentes com o narcotráfico, ou mesmo demonstrar dedicação habitual á prática de condutas delitivas, uma vez que nada impede que um agente, em sua primeira prática delituosa, tenha em seu poder uma grande quantidade de entorpecentes. Demais disso, atinente à pratica delitiva imputada, não se sabe ao cedo quando teve inicio o envolvimento dos réus com o tráfico, não se prestando a quantidade de drogas encontradas para constatar tal fim. Faço consignar, por oportuno, que o Plenário do Supremo Tribunal Federal, entendeu que a quantidade e natureza da drogas, ausentes outros elementos probatórios, são incapazes de obstar a aplicação da referida causa de diminuição prevista no §4 0 , do ad. 33 da Lei 11.343/08, discussão ocorrida no julgamento do Agravo Regimental no Habeas Corpus 193.223, como reitera:
+(..)
+Lado outro, vejo que o douto Relator, em seu judicioso voto, ao afastar a incidência do privilégio, o fez também se arrimando no fato de que não foi comprovado que os acusados possuam ocupação lícita. No entanto, no meu modesto sentir, tal fundamento não é elemento indicativo suficiente de que os denunciados habitualmente se envolvem na traficância ilí cita de drogas. Para tal fim, imprescindível seria a realização de uma investigação mais detalhada, a fim de se demonstrar a reiteração da conduta, o tempo prolongado de dedicação no crime, o que não foi efetivado. Inviável, assim, o afastamento da minorante em voga sem evidenciação da dedicação a atividade criminosa por parte dos acusados. Neste ponto, repita-se, a quantidade de drogas, persi, não é instrumento próprio a rechaçar a conceso do referido benefício, cabendo, tão somente, dar a efetiva aplicabilidade ao dispositivo legal supracitado.
+Observa-se, portanto, que a causa de diminuição foi negada em razão de não ter comprovado ocupação lícita, presunção que, contudo, não comporta o afastamento pretendido.
+Com efeito, "A falta de ocupação lícita, por si só, não constitui fundamento idôneo para a negativa da minorante do tráfico." (AgRg no HC 537980 / SP, RELATOR Ministro NEFI CORDEIRO, SEXTA TURMA, DATA DO JULGAMENTO 17/12/2019, DATA DA PUBLICAÇÃO/FONTE DJe 03/02/2020)
+Afastado tal elemento, a aplicação do art. 33, § 4º da Lei Antidrogas foi vedada ao recorrente única e exclusivamente com base na "expressiva quantidade de droga", o que, contudo, não possui respaldo na jurisprudência desta corte, conforme se extrai do seguinte precedentes da 5ª e 6ª Turmas:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. DOSIMETRIA.TRÁFICO D E ENTORPECENTES. CAUSA DE DIMINUIÇÃO AFASTADA APENAS PELA QUANTIDADE DE DROGA E PELA CONDIÇÃO DE MULA. FUNDAMENTOS INIDÔNEOS. FRAÇÃO DE 1/6. ADEQUAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Terceira Seção desta Corte, por ocasião do julgamento do REsp n. 1.887.511/SP (relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 9/6/2021, DJe de 1º/7/2021), definiu que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+2. Posteriormente, o referido colegiado aperfeiçoou o entendimento anteriormente exarado por ocasião do julgamento do Recurso Especial n. 1.887.511/SP, passando a adotar o posicionamento de que a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, desde que, neste último caso, não tenham sido utilizadas na primeira fase da dosimetria.
+3. Na espécie, o fundamento de que o agente transportava grande quantidade de droga a serviço de terceiros não se presta a sustentar o afastamento da benesse, uma vez que evidencia, de plano, apenas a condição de mula e não de dedicação a atividades criminosas. E, nos termos da jurisprudência desta Corte, a condição de mula, per se, não tem o condão de impedir o reconhecimento do privilégio em comento, de modo que faz jus o agravado à incidência da minorante na fração de 1/6.
+4. Agravo regimental desprovido.
+(AgRg no HC 842630 / SC, RELATOR Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DATA DO JULGAMENTO 18/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 21/12/2023. Grifo Acrescido)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DECISÃO AGRAVADA QUE APLICOU A REDUTORA DO TRÁFICO PRIVILEGIADO. IRRESIGNAÇÃO MINISTERIAL. CONCLUSÃO DE QUE O ACUSADO SE DEDICAVA A ATIVIDADES CRIMINOSAS BASEADA EXCLUSIVAMENTE NA REALIZAÇÃO DE TRANPORTE INTERESTADUAL DE GRANDE QUANTIDADE DE ENTORPECENTES. FUNDAMENTO INIDÔNEO. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO NÃO PROVIDO.
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu a ordem, de ofício, para aplicar o redutor do tráfico privilegiado ao ora agravado, na fração de 1/6.
+2. A revaloração dos critérios jurídicos concernentes à utilização e à formação da convicção do julgador não requer o reexame probatórios. Note-se que a análise dos fatos e fundamentos expressamente mencionados no acórdão recorrido não constitui reexame do contexto fático-probatório, mas valoração jurídica dos fatos já delineados pelas instâncias ordinárias.
+3. Esta Corte vem se manifestando no sentido de que o "mero transporte eventual ou esporádico de droga - ainda que em grandes quantidades -, sem outros elementos que evidenciem o envolvimento do agente com organização criminosa, não é suficiente para afastar o redutor do art. 33, § 4º, da Lei n. 11.343/2006" (AgRg no AREsp n. 2.321.950/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.) 4. No caso dos autos, o Tribunal local utilizou-se do fato de o paciente ter realizado transporte interestadual de elevada quantidade de entorpecente - 6,25 kg (seis quilos e vinte e cinco gramas) de cocaína - para negar a aplicação do benefício ao réu.
+Entretanto, da leitura dos autos, não se verifica a presença de outros elementos que permitam concluir com clareza a dedicação ao tráfico de forma habitual, revelando-se inidônea, em consequência, a motivação utilizada para a negativa do privilégio.
+5. Agravo regimental não provido.
+(AgRg no HC 849305 / MS, RELATOR Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DATA DO JULGAMENTO 19/09/2023, DATA DA PUBLICAÇÃO/FONTE DJe 26/09/2023)
+De fato, a quantidade expressiva de drogas, desacompanhada de outros elementos, baliza a fração redutora a ser aplicada, mas não afasta, por si, a aplicação do privilégio.
+No presente feito, em se tratando da apreensão de 19,42g de maconha e 135,83g de cocaína, a redutora deve ser aplicada em seu patamar máximo, qual seja o de 2/3 (dois terços), em linha com os precedentes supracitados.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para recalcular a pena relativa ao delito do art. 33 da Lei Antidrogas aplicada, estabelecendo-a em 01 (um) ano e 8 (oito) meses de reclusão e 167 dias-multa, a ser cumprida no regime aberto. Considerando o preenchimento dos requisitos do art. 44 do CPB, substituo a pena corporal por DUAS restritivas de direito a serem fixadas pelo juízo de origem.
+O recorrente deverá ser imediatamente posto em liberdade, se por outro motivo não estiver preso.
+Expeça-se, com urgência, o respectivo alvará de soltura, bem como as demais comunicações pertinentes ao Tribunal de origem e ao Juízo singular.
+É o voto.
