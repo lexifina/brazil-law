@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 09/10/2024 a 15/10/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA AÇÃO RESCISÓRIA. NÃO IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que a decisão agravada indeferiu a petição inicial e julgou extinta a ação rescisória porquanto inadmissível a sua utilização como sucedâneo recursal.
+3. No presente agravo interno, o insurgente não rebate o único fundamento da decisão que visa impugnar.
+4. À luz do artigo 1.021, § 1º, do CPC/2015 e da Súmula 182/STJ, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento.
+5. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 285):
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. MILITAR TEMPORÁRIO NÃO ESTÁVEL. INCAPACIDADE DEFINITIVA APENAS PARA O SERVIÇO MILITAR, EM DECORRÊNCIA DE ACIDENTE SEM NEXO DE CAUSALIDADE COM O SERVIÇO DA CASERNA. INEXISTÊNCIA DE DIREITO À REFORMA EX OFFICIO. CABIMENTO DA DESINCORPORAÇÃO. ALEGAÇÃO DE VIOLAÇÃO DE NORMA JURÍDICA. UTILIZAÇÃO DA VIA RESCISÓRIA COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. PETIÇÃO INICIAL INDEFERIDA.
+O agravante reitera as razões apresentadas na exordial da ação rescisória. Alega que "esta Colenda Corte Superior de Justiça, já julgou no sentido de que o militar (temporário ou de carreira) faz jus à reforma, quando acometido por doença/lesão incapacitante, sem necessidade de comprovação da existência de nexo causal entre a doença e a atividade desenvolvida, bastando, para tanto, que a enfermidade tenha surgido durante o período de caserna, nos exatos termos do art. 106, II c/c art. 108, V e art. 109, todos da Lei nº 6.880/80" (fls. 318-319). Afirma que "havendo incapacidade definitiva para o serviço militar (fato incontroverso nos autos) por um dos motivos constantes do artigo 108 (no caso dos autos incide o inciso V), a Lei nº. 6.880/80 determina que seja concedida a reforma, com os proventos integrais da graduação que o militar detinha na ativa, tratando-se, pois, de ato vinculado, nos exatos termos do inciso II do art. 106 do mesmo diploma legal, sob pena de flagrante violação ao referido dispositivo" (fl. 321). Defende, assim, que "não há alternativa senão a procedência da presente ação rescisória, para que seja rescindido o acórdão prolatado por essa Corte Especial e, por fim, analisado o direito do Agravante à reintegração e consequente reforma, com os proventos integrais da graduação que detinha na ativa, tendo em vista as violações praticadas à redação dos artigos 106, inc. II, 108, V, e 109 da Lei nº 6.880/80 (vigente à época), em consonância ao entendimento desse Superior Tribunal de Justiça" (fl. 323).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA AÇÃO RESCISÓRIA. NÃO IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que a decisão agravada indeferiu a petição inicial e julgou extinta a ação rescisória porquanto inadmissível a sua utilização como sucedâneo recursal.
+3. No presente agravo interno, o insurgente não rebate o único fundamento da decisão que visa impugnar.
+4. À luz do artigo 1.021, § 1º, do CPC/2015 e da Súmula 182/STJ, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento.
+5. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A decisão ora combatida indeferiu a petição inicial e julgou extinta a ação rescisória porquanto inadmissível a sua utilização como sucedâneo recursal, hipótese evidenciada no caso concreto. A propósito, confira-se (fls. 287-289):
+Como cediço, o êxito do pedido rescisório, fundamentado na regra do artigo 966, V, do CPC/2015, depende da demonstração inequívoca de que a decisão rescindenda, no momento da aplicação do preceito normativo tido por violado, tenha transgredido sua essência, ou seja, sua literalidade, de modo evidente, direto e manifesto.
+No caso dos autos, verifica-se que o acórdão rescindendo enfrentou a alegada "incapacidade definitiva" do autor e o nexo de causalidade com o serviço militar, assim concluindo (fls. 226-237):
+ ..
+No caso  como se destacou -- diante das premissas fáticas postas pelas instâncias ordinárias, é incontroverso que o autor é militar temporário, não estável, e sofreu acidente sem relação de causa e efeito com a prestação do serviço militar, encontrando-se incapacitado tão somente para as atividades castrenses, e não para os atos da vida civil.
+Quanto ao tema, a Corte Especial do STJ, na sessão de 19/09/2018, ao finalizar o julgamento dos EREsp 1.123.371/RS, que cuidam de militar temporário não estável, em situação idêntica a do presente processo, pacificou a divergência sobre o assunto nesta Corte, fixando entendimento no sentido de que, "nos casos em que não há nexo de causalidade entre a moléstia sofrida e a prestação do serviço militar e o militar temporário não estável é considerado incapaz somente para as atividades próprias do Exército, é cabível a desincorporação, nos termos do art. 94 da Lei 6.380/1980 c/c o art. 31 da Lei de Serviço Militar e o art. 140 do seu Regulamento - Decreto n. º 57.654/1966", não havendo direito à reforma.
+ ..
+Com efeito firmou-se a compreensão no sentido de que o militar temporário não estável, para ter direito à reforma, deve comprovar o nexo de causalidade entre o acidente (ou a enfermidade) e o serviço militar, ou, então, comprovar que está inválido (impossibilitado total e permanentemente para qualquer trabalho), nos termos do art. 108, VI, conjugado com o art 111, II, da Lei 6.880/80  com a redação vigente à época  , in verbis:
+ ..
+No caso, conforme reconhecido pelas instâncias ordinárias, trata-se de militar temporário, não estável, e a moléstia que o acomete é incapacitante apenas para o serviço militar, existindo a possibilidade do exercício de atividades na vida civil, de modo que o reconhecimento do direito à reforma ex officio exigiria a comprovação do nexo de causalidade entre a doença e o serviço militar, o que não restou evidenciado, na espécie.
+Assim, ao contrário do que restou consignado pelo Tribunal de origem, "nos casos em que não há nexo de causalidade entre a moléstia sofrida e a prestação do serviço militar e o militar temporário não estável é considerado incapaz somente para as atividades próprias do Exército, é cabível a desincorporação" (STJ, AgInt no AREsp 1.693.831/MS Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 06/05/2021), como no caso.
+Ao que se tem, portanto, merece reforma o acórdão combatido, quanto ao ponto.
+ ..
+Nota-se, que a alegação de manifesta ofensa a norma jurídica, na espécie, às disposições da Lei 6.880/1980, não merece acolhimento.
+De fato, a violação da lei, para justificar a procedência da demanda rescisória, nos termos do artigo 966, V, do CPC/2015 deve ser de tal modo evidente que afronte o dispositivo legal em sua literalidade, o que não ocorreu no caso dos autos, uma vez que privilegiou entendimento consolidado no âmbito da Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.123.371/RS.
+ ..
+A via rescisória não se presta a rediscutir a matéria já apreciada nos autos, nem mesmo a analisar a justiça da decisão fustigada, desde que, por óbvio, a interpretação aplicada se mostre possível, razoável e devidamente fundamentada, sob pena de transformar a via excepcional da ação rescisória em verdadeiro sucedâneo recursal.
+Referido fundamento, contudo, não foi impugnado nas razões do presente agravo interno.
+À luz do artigo 1.021, § 1º, do CPC/2015 e da Súmula 182/STJ, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚM. N. 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. A parte recorrente não impugnou os fundamentos da decisão agravada, segundo os quais: reclamação não pode ser utilizada como sucedâneo recursal sem indicação de um julgado específico do STJ proferido dentro do contexto dos autos sendo desrespeito na origem.
+2. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+3. Agravo regimental não conhecido (AgInt na RCL 42.826/MT, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe 3/6/2022).
+AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 182 DO STJ. ATO JUDICIAL SUPOSTAMENTE COATOR PROVENIENTE DECISÃO MONOCRÁTICA EM HABEAS CORPUS. CABIMENTO DO AGRAVO REGIMENTAL EM MATÉRIA CRIMINAL. SÚMULA 267/STF. DESCABIMENTO DO MANDADO DE SEGURANÇA. ARGUMENTO NÃO IMPUGNADO. NÃO CONHECIMENTO.
+1. É incabível a impetração de mandado de segurança contra ato judicial passível de recurso, como no caso, em que o ato supostamente coator é proveniente de decisão monocrática em habeas corpus, contra o qual caberia agravo regimental. Incidência da Súmula 267/STF.
+2. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie, por analogia, a Súmula 182/STJ.
+3. Agravo regimental não conhecido (AgRg no MS 28.100/DF, relator Ministro Luis Felipe Salomão, Corte Especial, DJe 25/2/2022).
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AO ÚNICO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. O recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+2. Caso no qual a decisão da Presidência desta Corte Superior não admitiu os Embargos de Divergência ao fundamento de que não é cabível o referido recurso em razão da incidência da Súmula 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3. O agravante não impugnou o único fundamento da decisão agravada, razão pela qual deve incidir o óbice contido na Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Agravo interno não conhecido (AgInt nos EAREsp 1.548.282/PR, relator Ministro Benedito Gonçalves, Corte Especial, DJe 16/12/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO AGRAVADA NÃO ATACADA ESPECIFICAMENTE. NÃO CONHECIMENTO. ART. 1.021, § 1º, DO CPC/2015. SÚMULA 182/STJ.
+1. Trata-se de Agravo Interno contra decisão que, quanto ao objeto recursal fixado, não conheceu da Reclamação por ser impossível seu ajuizamento após o trânsito em julgado da ação principal, conforme Súmula 734/STF.
+2. Não se conhece de Agravo Interno que deixa de combater especificamente os fundamentos do decisum atacado (item "1" supracitado). Incide, nesse caso, a Súmula 182/STJ, que está alinhada com o art. 1.021, § 1º, do CPC/2015.
+3. Agravo Interno não conhecido (AgInt na Rcl 41.151/SP, relator Ministro Herman Benjamin, Primeira Seção, DJe 3/8/2021).
+Ante o exposto, não conheço do agravo interno.
+É como voto.
