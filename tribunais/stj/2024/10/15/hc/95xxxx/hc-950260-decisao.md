@@ -1,0 +1,15 @@
+DECISÃO
+WAGNER SOARES CRUZ alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A defesa argumenta que o paciente teve a prisão preventiva decretada, em 14/3/2019, pela suposta prática de roubo, tentativa de homicídio, adulteração de sinal identificador de veículo automotor e receptação, sendo preso em 10/3/2020. Aduz a "ausência de contemporaneidade na presente prisão preventiva substituída por tornozeleira eletrônica" (fl. 4), pois o processo perdura por mais de 4 anos sem a formação da culpa.
+Busca a retirada da tornozeleira eletrônica.
+Decido.
+A impetração faz referência a prisão preventiva que não mais perdura e sustenta a "ausência de contemporaneidade da medida" (fl. 4), porque o crime foi praticado em 11/3/2019, o Juiz decretou a custódia no dia 14/3/2019, ocorreu a soltura do réu em 12/8/2021 e, realizadas algumas audiências, esta Corte determinou a monitoração eletrônica e outras cautelares, em 4/4/2023.
+A legalidade do édito prisional já foi reconhecida por esta Corte no RHC n. 115.048/RS, confirmando, assim, o cumprimento dos requisitos legais, inclusive o de cautelaridade. O Juiz destacou a necessidade de garantia da ordem pública, o que permanece, em razão da periculosidade social do réu, evidenciada pela gravidade dos crimes e pela existência de diversos registros criminais.
+Em 4/4/2023, o paciente foi beneficiado com a liberdade provisória, tendo em vista a concessão da ordem no HC n. 783.765/RS. Desde então, ele está submetido às medidas previstas no art. 319 do CPP.
+Nesse contexto, não há falar mais de excesso de prazo da prisão preventiva ou de falta de contemporaneidade da medida.
+Ademais, não houve transcurso de prazo excessivo no uso da tornozeleira eletrônica, visto que a medida cautelar está em vigor há pouco mais de um ano. Até o momento, o Juiz impulsiona o feito de forma regular. Consta que "as solenidades designadas para oitiva das testemunhas foram todas aprazadas com máxima urgência" e a instrução se alonga para a "oitiva de testemunhas não encontradas, pela insistência das defesas em produzir a referida prova" (fl. 251).
+Destaca-se que o réu foi acusado de cinco crimes e é reincidente. Não se sustenta a afirmação de que ele já teria cumprida a pena que, em caso de condenação, seria cabível à espécie.
+O acórdão recorrido está alinhado à jurisprudência desta Corte, pois "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal" (AgRg no HC n. 909.839/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
