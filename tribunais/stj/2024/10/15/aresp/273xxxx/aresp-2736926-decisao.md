@@ -1,0 +1,33 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto pela defesa de ROBERTO CARLOS MENDES com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ fl. 561):
+APELAÇÕES CRIMINAIS. ALTERAR O ASPECTO OU ESTRUTURA DE LOCAL ESPECIALMENTE PROTEGIDO POR LEI, EM RAZÃO DE SEU VALOR ECOLÓGICO, SEM AUTORIZAÇÃO DA AUTORIDADE COMPETENTE (LEI 9.605/98, ART. 63). SENTENÇA CONDENATÓRIA. 1. PRESCRIÇÃO. PENA DE MULTA ISOLADA. 2. PROVA DA MATERIALIDADE E DA AUTORIA. LAUDO PERICIAL AMBIENTAL. PALAVRAS DAS TESTEMUNHAS. CONFISSÃO QUALIFICADA. 3. EXERCÍCIO REGULAR DO DIREITO. DESCONHECIMENTO DA LEI. RESPONSABILIDADE POR CRIME AMBIENTAL.
+1. O prazo prescricional, com base na pena de 10 dias-multa, única cominada, é de 2 anos. Se tal lapso transcorreu entre os marcos interruptivos, declara-se extinta a punibilidade do denunciado.
+2. As palavras de testemunhas, a confissão qualificada de dois dos acusados e a delação por parte do terceiro, e as provas documentais, dando conta da ocorrência de intervenção indevida em um curso d"água, somadas às conclusões de laudo pericial ambiental, no sentido de que tratava-se de curso perene, fazem prova da materialidade e da autoria do delito de alteração do aspecto ou estrutura de local especialmente protegido por lei.
+3. O agente que contrata, por acordo tácito, empresa para alterar estrutura de curso d"água, sem autorização para tanto, é responsável pelo crime ambiental causado, não se podendo dela escusar com alegação de desconhecimento da lei, nem tampouco classificando-se sua conduta como exercício regular de direito.
+RECURSO DE UM DOS ACUSADOS PREJUDICADO, JULGADA EXTINTA SUA PUNIBILDIADE, E O AVIADO PELO OUTRO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, a parte recorrente aponta violação do art. 63 da Lei 9.605/1998. Afirma que "eventual alteração em área de preservação permanente se deu por empresa contratada, a quem incumbia a observância da legislação referente ao tema, já que objeto de sua atividade profissional" (e-STJ fl. 581), de forma que o recorrente não pode ser responsabilizado pela imperícia técnica da empresa contratada para a obra já que não praticou nenhum ato lesivo ao meio ambiente.
+Contrarrazões às e-STJ fls. 588/595.
+Negou-se seguimento ao recurso especial com base na Súmula 7/STJ às e-STJ fls. 598/600.
+No agravo, o recorrente insiste na presença dos pressupostos de admissibilidade do recurso especial.
+O Ministério Público Federal opinou, às e-STJ fls. 652/653, pelo não conhecimento do agravo.
+É o relatório. Decido.
+O agravo é cabível, tempestivo e foram devidamente impugnados os fundamentos da decisão agravada, motivo pelo qual conheço do recurso.
+Quanto à alegada ofensa ao art. 63 da Lei 9.605/1998 ao argumento de que o recorrente não pode ser responsabilizado por ações da empresa contratada, verifico que o dispositivo indicado como violado consigna apenas o seguinte:
+Art. 63. Alterar o aspecto ou estrutura de edificação ou local especialmente protegido por lei, ato administrativo ou decisão judicial, em razão de seu valor paisagístico, ecológico, turístico, artístico, histórico, cultural, religioso, arqueológico, etnográfico ou monumental, sem autorização da autoridade competente ou em desacordo com a concedida:
+Pena - reclusão, de um a três anos, e multa.
+Dessa forma, constato que o dispositivo indicado como violado não alberga a argumentação trazida no recurso especial, o que revela fundamentação deficiente e atrai a incidência do enunciado n. 284 da Súmula do Supremo Tribunal Federal. Com efeito, a falta de correlação entre a norma apontada como violada e a discussão efetivamente trazida nos autos inviabiliza o conhecimento do recurso especial, no ponto.
+De fato, "a indicação de preceito legal federal que não consigna em seu texto comando normativo apto a sustentar a tese recursal e a reformar o acórdão impugnado padece de fundamentação adequada, a ensejar o impeditivo da Súmula 284/STF" (REsp n. 1.715.869/SP, Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 7/3/2018).
+Além disso, o Tribunal a quo ao enfrentar a irresignação da defesa, consignou que, nos termos da legislação de regência, "a responsabilidade da empresa Amilton Lemos Engenharia de Obras Ltda. em nada isenta Roberto Carlos Mendes de responder pelo crime ambiental observado e praticado a seu mando" (e-STJ fl. 560).
+Referido fundamento efetivamente não foi rebatido pela defesa nas razões do recurso especial. Assim, sendo caracterizada nítida inobservância do princípio da dialeticidade recursal, de rigor a aplicação, por analogia, da vedação prescrita no enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Com efeito, a subsistência de fundamento inatacado apto a manter a conclusão do aresto vergastado impõe o não conhecimento da pretensão recursal, a teor da orientação disposta na Súmula 283/STF.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. ABANDONO DO PROCESSO. MULTA DO ART. 265 DO CPP. NÃO COMPARECIMENTO. SÚMULA 283/STF, POR ANALOGIA. AGRAVO DESPROVIDO.
+1. "A Súmula 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido" (STJ, AgRg no RMS 30.555/MG, Rel. Ministro OG FERNANDES, Sexta Turma, DJe de 1º/8/2012).
+2. Ademais, ainda que, na interpretação dos advogados, a data não lhes parecesse compatível com os atos normativos do Tribunal de origem, eles deveriam se insurgir, tempestiva e adequadamente (pela via própria), contra a designação. Frise-se que eles foram devidamente intimados, mas se omitiram. Na data ajustada, apenas não compareceram à sessão de julgamento.
+3. Sobre a multa em questão, note-se que a desídia também se enquadra no conceito de abandono da norma prevista no art. 265 do CPP. Precedentes.
+4. Agravo desprovido.
+(AgRg no RMS n. 67.993/PB, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021)
+Ainda que fosse possível superara os referidos óbices, no caso dos autos o Tribunal a quo reconheceu a robustez das provas obtidas no curso da instrução, que forneceram subsídios suficientes para a sentença condenatória, cuja desconstituição, tal como pretende a defesa, não pode ser realizada sem nova incursão no conjunto fático-probatório, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+Diante do exposto , conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
