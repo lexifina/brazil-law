@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 09/10/2024 a 15/10/2024, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Sérgio Kukina, Paulo Sérgio Domingues, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. INSURGÊNCIA CONTRA DECISÃO QUE DETERMINA A EXPEDIÇÃO DO PRECATÓRIO DE VALOR INCONTROVERSO. INTEMPESTIVIDADE RECURSAL RECONHECIDA. MULTA POR LITIGÂNCIA DE MÁ-FÉ. NÃO CABIMENTO. AGRAVO NÃO CONHECIDO.
+1. O agravo interno é manifestamente intempestivo, porquanto a UNIÃO teve ciência da decisão que determinou a expedição do precatório de valor incontroverso em 14/8/2023. Verifica-se que a peça recursal somente foi protocolada em 12/9/2024, quando esgotado, há muito, o prazo recursal, considerando o disposto nos arts. 183, 219, 1.003, § 5º, e 1.070 do CPC.
+2. Não evidenciada na espécie a litigância de má-fé por parte da agravante, descabe cogitar-se da aplicação da multa a que alude o art. 81 do CPC.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno de fls. 56-62 interposto pela UNIÃO contra decisão monocrática que, em sede de execução em mandado de segurança, determinou a expedição do precatório de valor incontroverso, nos termos do art. 535, § 4º, do CPC.
+A agravante alega, em síntese, que: (a) "a obrigação definida no título judicial em comento é de todo inexigível já no presente momento, tendo em vista a submissão da anistia a processo administrativo de revisão em curso"; (b) "não se pode afirmar que a inexigibilidade somente surja com a efetiva anulação da portaria de anistia, pois a sua submissão a processo administrativo de revisão é comprovadamente atual, o que por si só já subtrai a exigibilidade da obrigação nela definida, dada a possibilidade iminente de sua invalidação"; (c) "a totalidade dos valores executados ainda é controvertida e está sujeita a modificação via recurso na presente execução, na medida em que a União impugnou a integralidade do valor pleiteado, sustentando a inexigibilidade da obrigação definida na portaria de anistia"; e (d) "o título cujo cumprimento se requer não goza de exigibilidade, devendo-se aguardar o desfecho do processo de revisão de anistia".
+Requer, por isso, seja provido o recurso.
+A agravada, por sua vez, pleiteia a manutenção da decisão agravada. Argumenta que: (a) "clara a lesão ao princípio da dialeticidade, uma vez que  a UNIÃO  deixou de impugnar especificadamente os fundamentos da decisão agravada"; (b) impõe-se a inadmissão do recurso interposto, bem como a aplicação da multa a que alude o art. 81 do CPC; (c) "o título só se torna inexigível após efetiva anulação em processo administrativo revisional que respeite o devido processo legal, o que não ocorreu no caso"; e (d) "enquanto não comprovada a efetiva anulação da anistia da exequente, o título é executável e assim deve prosseguir a execução".
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. INSURGÊNCIA CONTRA DECISÃO QUE DETERMINA A EXPEDIÇÃO DO PRECATÓRIO DE VALOR INCONTROVERSO. INTEMPESTIVIDADE RECURSAL RECONHECIDA. MULTA POR LITIGÂNCIA DE MÁ-FÉ. NÃO CABIMENTO. AGRAVO NÃO CONHECIDO.
+1. O agravo interno é manifestamente intempestivo, porquanto a UNIÃO teve ciência da decisão que determinou a expedição do precatório de valor incontroverso em 14/8/2023. Verifica-se que a peça recursal somente foi protocolada em 12/9/2024, quando esgotado, há muito, o prazo recursal, considerando o disposto nos arts. 183, 219, 1.003, § 5º, e 1.070 do CPC.
+2. Não evidenciada na espécie a litigância de má-fé por parte da agravante, descabe cogitar-se da aplicação da multa a que alude o art. 81 do CPC.
+3. Agravo interno não conhecido.
+VOTO
+O agravo interno é manifestamente intempestivo (certidão de fl. 63), porquanto a UNIÃO teve ciência da decisão de fl. 36, que determinou a expedição do precatório de valor incontroverso, em 14/8/2023 (termo de fl. 39). Verifica-se que a peça recursal de fls. 56-62 somente foi protocolada em 12/9/2024, quando esgotado, há muito, o prazo recursal, considerando o disposto nos arts. 183, 219, 1.003, § 5º, e 1.070 do CPC.
+A corroborar esse entendimento, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. OCORRÊNCIA. RECURSO NÃO CONHECIDO.
+1. O agravo interno é manifestamente intempestivo porque a decisão monocrática foi publicada em 10/1/2024 e ele foi protocolado no dia 26/2/2024, fora, portanto, do prazo de quinze dias úteis estabelecido pelo art. 1.070 do Código de Processo Civil.
+2. Agravo interno não conhecido.
+(AgInt nos EAREsp n. 1.469.161/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 18/6/2024, DJe de 26/6/2024.)
+Outrossim, entendo não caracterizada a má-fé por parte da UNIÃO, por não ser possível atribuir-lhe, no caso concreto, culpa grave ou dolo. Ilustrativamente: " ..  Inaplicabilidade da multa por litigância de má-fé (arts. 17, VII, e 18, § 2º, do Código de Processo Civil de 1973 e 80, IV e VII, e 81 do estatuto processual civil de 2015, porquanto ausente demonstração de que a parte recorrente agiu com culpa grave ou dolo" (AgInt no AgInt no REsp n. 2.097.896/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 18/12/2023, DJe de 21/12/2023).
+Desse modo, não merece reparo a decisão agravada.
+Por fim, preclusas as vias impugnativas em relação à matéria tratada no presente recurso, inexistirá empecilho ao pagamento do requisitório de valor incontroverso expedido (RPV 17.557/DF). Oportunamente, os autos deverão retornar conclusos a esta Relatora para apreciar a manifestação das partes em relação ao que foi determinado à fl. 52.
+Ante o exposto, voto por não conhecer do agravo interno.
