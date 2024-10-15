@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de JEAN HEBERT DE LIMA ROMANIELO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da apelação criminal n. 1500574-26.2024.8.26.0545.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e ao pagamento de 583 (quinhentos e oitenta e três) dias-multa, por violação ao artigo 33, caput, c/c art. 40, inciso V, ambos da Lei n.º 11.343/06 (fls. 229-335).
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo, consoante voto condutor do acórdão de fls. 318-337.
+Dai o presente writ, onde o impetrante aponta constrangimento ilegal na negativa de reconhecimento da causa especial de diminuição do § 4º do artigo 33 da Lei de Drogas.
+Para tanto, sustenta que a quantidade de droga apreendida não se mostra elevada a ponto de justificar o afastamento da minorante, de forma a se concluir pela dedicação do paciente às atividades criminosas ou a sua integração a organização dessa natureza.
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem para que seja reconhecida a causa especial de diminuição do § 4º do artigo 33 da Lei de Drogas.
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração a aplicação a figura do tráfico privilegiado em favor de paciente.
+Ocorre que o presente habeas corpus investe contra acórdão em substituição ao recurso próprio cabível, não podendo ser conhecido. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO. 1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+ ..
+3. Agravo regimental desprovido" (AgRg no HC n. 738.224/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 12/12/2023).
+" ..
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido" (AgRg no HC n. 857.913/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1/12/2023).
+Tendo em vista a possibilidade de concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal, analiso a pretensão defensiva.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, "o entendimento deste Tribunal firmou-se no sentido de que, em sede de habeas corpus, não cabe qualquer análise mais acurada sobre a dosimetria da reprimenda imposta nas instâncias inferiores, se não evidenciada flagrante ilegalidade, tendo em vista a impropriedade da via eleita" (HC n. 39.030/SP, Quinta Turma, Rel. Min. Arnaldo Esteves, DJU de 11/4/2005).
+No que concerne a possibilidade de aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas, verifico não assistir razão ao paciente.
+In casu, o Tribunal a quo - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, motivo pelo qual não há como se aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor da paciente.
+Para tanto, a Corte de origem enfatizou a quantidade e a variedade de drogas apreendidas (cerca de 6 kg de skunk e haxixe). Ademais, o réu foi detido em flagrante ao transportar essas substâncias do Estado de São Paulo para Minas Gerais. Essas circunstâncias fornecem evidências contundentes de que a atividade criminosa se tornou a sua principal forma de sustento.
+Desse modo, o entendimento adotado pelo acórdão impugnado está em harmonia com a jurisprudência desta Corte Superior, que orienta no sentido de que a elevada quantidade de drogas aliada às circunstâncias concretas do delito é fundamento idôneo para impedir a aplicação da minorante do tráfico privilegiado em razão da dedicação do paciente a atividades criminosas, como ocorre no presente caso.
+Com igual conclusão:
+" ..
+5. A utilização supletiva da natureza e quantidade da droga para o afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, possam indicar a dedicação do agente à atividade criminosa ou integração à organização criminosa. Precedente: REsp 1.887.511/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA SEÇÃO, julgado em 09/06/2021, DJe 01/07/2021.
+6. No caso concreto, as instâncias ordinárias concluíram que o paciente se dedicava a atividades criminosas e afastaram a aplicação do redutor, considerando não apenas a quantidade e a variedade da droga apreendida em seu poder (944,4g de maconha e 1,47g de cocaína), mas também o fato de que dias antes havia cometido delito de furto.
+ ..
+8. Agravo regimental desprovido." (AgRg no HC n. 702.226/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/12/2021).
+No mesmo sentido: (AgRg no AR Esp n. 1.459.975/PR, relatora Ministra Laurita Vaz, Sexta Turma, D Je de 29/9/2020); (AgRg no AR Esp n. 1.630.521/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/5/2020, D Je de 9/6/2020.)
+De mais a mais, é imperioso enfatizar que, para entender de modo diverso, afastando-se a conclusão de que a paciente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.
+" ..
+3. Uma vez afastado o redutor, ao argumento de que o agravante se dedicava a atividades criminosas, não se mostra possível rever tal entendimento para fazer incidir a causa especial de diminuição, porquanto demandaria revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus (HC n. 683.182/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 5/10/2021).
+4. A fixação do regime inicial fechado com base nas circunstâncias judiciais negativas sopesadas na primeira fase são elementos aptos a justificar a fixação do regime inicial mais gravoso.
+5. Agravo regimental improvido." (AgRg no HC n. 737.868/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022).
+No mesmo sentido: DJe de 4/8/2022 e AgRg no HC n. 745.106/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 8/8/2022.
+Por fim, a quantidade de entorpecentes, foi utilizada como fundamento a ensejar a aplicação do regime mais danoso, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, b, e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/06.
+Sobre o tema colaciono os seguintes arestos: (HC n. 385.934/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 5/4/2017) e (AgRg no HC n. 380.021/SC, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 22/3/2017).
+Portanto, na espécie, a pretensão formulada pelo impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça, revelando-se, assim, manifestamente improcedente.
+Ante o exposto, não conheço do presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
