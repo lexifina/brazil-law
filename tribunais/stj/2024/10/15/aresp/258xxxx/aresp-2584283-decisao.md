@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se, na origem, de ação indenizatória ajuizada por MARCIO RUDNIK - EPP com objetivo de receber indenização por danos morais em virtude de protesto indevido de duplicata.
+Julgada parcialmente procedente a demanda, o Tribunal local manteve a sentença; o acórdão foi assim ementado:
+"APELAÇÃO. "AÇÃO DE REPARAÇÃO POR DANOS MORAIS C/C PEDIDO DE TUTELA DE URGÊNCIA". DUPLICATAS EMITIDAS PELA PRIMEIRA RÉ EM NOME DA AUTORA E TRANSFERIDAS, MEDIANTE CESSÃO CIVIL, À SOCIEDADE FINANCEIRA CODEMANDADA ORIGINÁRIA, QUE EFETIVOU O PROTESTO. SENTENÇA DE PARCIAL PROCEDÊNCIA. CONDENAÇÃO DAS REQUERIDAS, BEM COMO DAS DUAS PESSOAS JURÍDICAS SUBSTITUTAS PROCESSUAIS DA SEGUNDA DEMANDADA, SOLIDARIAMENTE, AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO IMPORTE DE R$ 5.000,00 (CINCO MIL REAIS).
+RECURSO DO POLO CESSIONÁRIO DOS TÍTULOS.
+EXAME DE ADMISSIBILIDADE. DEFENDIDA NÃO INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. DISCUSSÃO IRRELEVANTE NO CASO CONCRETO, À LUZ DA DOCUMENTAÇÃO APRESENTADA NO FEITO. IRRESIGNAÇÃO NÃO CONHECIDA NO PONTO.
+PRETENDIDA IMPROCEDÊNCIA DA ACTIO. INVIABILIDADE. PARTE APELANTE QUE, NA CONDIÇÃO DE CESSIONÁRIA DOS TÍTULOS, REALIZOU O PROTESTO. DISTRATO ENTRE A DEMANDANTE E A CORRÉ CEDENTE (EM RAZÃO DA NÃO ENTREGA TEMPESTIVA DE MERCADORIAS) OCORRIDO ANTES DO ATO NOTARIAL. DUPLICATAS MERCANTIS, PORTANTO, SEM LASTRO COMERCIAL, CONFORME, ALIÁS, ADMITIDO PELA CEDENTE DAS DUPLICATAS MERCANTIS. NEGLIGÊNCIA CONFIGURADA. RISCO DA OPERAÇÃO A SER ASSUMIDO PELA CESSIONÁRIA, ADQUIRENTE DOS TÍTULOS. NÃO CARACTERIZAÇÃO, PORTANTO, DE HIPÓTESE DE TERCEIRO DE BOA-FÉ, HAJA VISTA A CONDUTA DA CESSIONÁRIA DE PROMOVER O PROTESTO, SEM DILIGENCIAR A RESPEITO DA CONCRETIZAÇÃO DA RELAÇÃO COMERCIAL SUBJACENTE. INAPLICABILIDADE À HIPÓTESE, PORTANTO, DA REGRA DE INOPONIBILIDADE DAS EXCEÇÕES PESSOAIS A TERCEIROS DE BOA-FÉ, PREVISTA NO ART. 17 DO DECRETO N. 57.663/1966. DÍVIDA INEXISTENTE. PROTESTO INDEVIDO. RESPONSABILIDADE SOLIDÁRIA ENTRE A PRIMEIRA RÉ, QUE EMITIU E NEGOCIOU OS TÍTULOS SEM CAUSA, E O POLO RECORRENTE, QUE ADQUIRIU O CRÉDITO E EFETIVOU O PROTESTO, SEM SE CERTIFICAR ACERCA DA EXISTÊNCIA DE LASTRO COMERCIAL. DANOS MORAIS DECORRENTES DE PROTESTO INDEVIDO QUE SÃO PRESUMIDOS. DEVER DE INDENIZAR INARREDÁVEL. APELO DESPROVIDO.
+PLEITO SUBSIDIÁRIO DE REDUÇÃO DO QUANTUM REPARATÓRIO. DESCABIMENTO. MONTANTE ARBITRADO PELO MAGISTRADO A QUO - R$ 5.000,00 (CINCO MIL REAIS) - QUE SE AFIGURA RAZOÁVEL DIANTE DAS CIRCUNSTÂNCIAS DO CASO. HIPÓTESE EM QUE FORAM PROTESTADAS 2 (DUAS) DUPLICATAS MERCANTIS, SACADAS NOS VALORES INDIVIDUAIS DE R$ 1.320,00 (MIL, TREZENTOS E VINTE REAIS) E DE R$ 1.003,60 (MIL E TRÊS REAIS E SESSENTA CENTAVOS). ATO NOTARIAL QUE PERSISTIU, CONFORME ADMITIDO EM CONTESTAÇÃO PELA CEDENTE, POR PELO MENOS 30 (TRINTA) DIAS. DECISUM MANTIDO NO PONTO.
+IRRESIGNAÇÃO CONHECIDA E NÃO PROVIDA.
+HONORÁRIOS ADVOCATÍCIOS RECURSAIS.
+SENTENÇA PUBLICADA APÓS A ENTRADA EM VIGOR DO NOVO CPC. IMPOSIÇÃO DO ART. 85, §§ 1º E 11, DA NORMA PROCESSUAL. SUCUMBÊNCIA RECURSAL DAS APELANTES. DEVER DE ARCAR COM OS HONORÁRIOS DOS ADVOGADOS DA PARTE APELADA.
+ESTIPÊNDIO FIXADO EM 2% (DOIS POR CENTO) SOBRE O VALOR DA CONDENAÇÃO"
+Opostos embargos de declaração, foram rejeitados.
+As partes agravantes, em seu recurso especial, apontam violação ao art. 188 do Código Civil, art. 13, § 4º, da Lei 5.474/68 e art. 17 do Decreto- Lei 57.663/66, sustentando a necessidade de aplicação do princípio da inoponibilidade das exceções pessoais, que possuiriam em face da empresa que cedeu o título, bem como o exercício regular de direito.
+Sem contrarrazões.
+Juízo negativo de admissibilidade às fls. 899/900 e-STJ.
+Agravo em recurso especial às fls. 915/919 e-SJT.
+Assim delimitada a controvérsia, passo a decidir.
+O acórdão recorrido está em consonância com a jurisprudência deste Superior Tribunal de Justiça, firmada no sentido de que é indevido o protesto de duplicata sem comprovação da realização do negócio jurídico subjacente, de modo que gera dano moral in re ipsa.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DUPLICATA CUMULADA COM SUSTAÇÃO LIMINAR DE PROTESTO E CONDENAÇÃO POR DANOS MORAIS. PROTESTO DE DUPLICATA SEM CAUSA SUBJACENTE. NULIDADE DOS TÍTULOS CONFIGURADA. RESPONSABILIDADE CIVIL. EVIDÊNCIA DE PROTESTO INDEVIDO. DANO MORAL CONFIGURADO. RECONVENÇÃO. REJEITADA. SÚMULA 283 DO STF. SÚMULAS 83 E 7 DO STJ.
+(..)
+2. É firme o entendimento do STJ de que "O pedido reconvencional encontra-se estritamente ligado aos fatos descritos na petição inicial, culminando na inegável incindibilidade entre eles. A procedência do pedido inicial acerca da resolução contratual por inexecução voluntária da parte demandada desautorizou o acolhimento do pleito reconvencional. Julgamento implícito reconhecido" (Agint no REsp 1.830.257/AL, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 18/11/2019, DJe de 21/11/2019).
+3. Segundo o STJ, "em se tratando de protesto indevido de título, o dano moral configura-se in re ipsa, ou seja, independe de prova" (AgInt no AREsp 2.048.053/RJ, Relator Ministro Humberto Martins, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024).
+4. Na espécie, o TJPR reconheceu que "a Malagutti levou a protesto dez duplicatas sem aceite, e sem outro elemento que comprovasse a existência de dívida, incorrendo então em grave ato ilícito e causando sérios prejuízos a apelante. Por óbvio que uma restrição no nome da empresa pode acarretar diversos prejuízos, e a inscrição do protesto, por si só, é o suficiente para provocar abalo moral".
+Portanto, entender de forma diversa para concluir que não houve protesto, mas apenas apontamento de título em cartório, demandaria o revolvimento fático-probatório dos autos, o que encontra óbice na Súmula 7 do STJ.
+5. Agravo interno desprovido" (AgInt nos EDcl no REsp n. 1.575.985/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024.)
+Aplica-se à espécie a Súmula 83/STJ.
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
