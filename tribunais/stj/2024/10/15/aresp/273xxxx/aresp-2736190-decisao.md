@@ -1,0 +1,95 @@
+DECISÃO
+Trata-se de agravo interposto por FABIO TEIXEIRA DE ARAUJO contra decisão que inadmitiu o recurso especial, oriundo de acórdão exarado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, assim ementado (e-STJ fl. 333):
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS PRIVILEGIADO (ART. 33, CAPUT, DA LEI N º 11.343/06. DESCLASSIFICAÇÃO PARA O ART. 28 DA MESMA LEI. IMPOSSIBILIDADE. REDIMENSIONAMENTO DA PENA - BASE . IMPOSSIBILIDADE. RECURSO CONHECIDO, PORÉM, IMPROVIDO - DECISÃO UNÂNIME.
+1. As circunstâncias em que ocorreram o flagrante, as quais foram detalhadas pelos policiais, a saber, a forma de acondicionamento dos entorpecentes, que se encontravam distribuídos em invólucros e prontos para a comercialização em festa que ocorria na cidade, além da apreensão de quantia em dinheiro, demonstram a prática do delito tipificado no art. 33, caput, da Lei nº 11.343/06.
+2. O magistrado a quo apresentou fundamentação idônea para a valoração da culpabilidade do apelante, sendo então impossível o redimensionamento da pena-base.
+3. Recurso conhecido, porém, improvido. Decisão unânime.
+Consta dos autos que o agravante foi condenado, pelo Juízo singular, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006, c/c o art. 61, I, do CP, à pena privativa de liberdade de 06 (seis) anos de reclusão, em regime inicial fechado, acrescida do pagamento de 600 (seiscentos) dias-multa, oportunidade em que, ex vi do art. 387, § 1º, do CPP, fora-lhe concedido o direito de recorrer em liberdade (e-STJ fls. 259-262).
+Na sequência, a Corte de origem negou provimento ao apelo defensivo (e-STJ fls. 333-350).
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, a Defesa aponta, de forma residual:
+a) negativa de vigência do art. 28 da Lei n. 11.343/2006, associada à degeneração do art. 33, caput, do referido diploma (e-STJ fl. 359);
+Para tanto, assevera que,
+o conjunto probatório carreado aos autos, em especial os depoimentos prestados pelas testemunhas, não fazem qualquer menção ao meio como se dava o tráfico, aos motivos que o determinaram ou ao modus operandi, de modo que salta-nos aos olhos que a acusação lastreou-se tão somente na apreensão das drogas, diga-se, uma quantidade ínfima (e-STJ fl. 359).
+Aduz não ser possível presumir que os entorpecentes encontrados com o Recorrente se destinava a atividades voltadas para o tráfico (e-STJ fl. 360).
+Sinaliza a
+ausência de indícios de mercancia, traficância, apreensão de apetrechos que induzem a certeza irretorquível do crime ao qual fora julgado, indica a aplicação do in dubio pro reo, vez que não há que se falar em tráfico de drogas (e-STJ fl. 361).
+Nessa extensão, pugna pela desclassificação da conduta denunciada para o previsto no artigo 28 da Lei 11.343/2006 (usuário de drogas) (e-STJ fl. 363).
+b) ofensa ao art. 59, caput, do CP, pois a consciência do ilícito acerca da mercancia de drogas (e-STJ fl. 363) em festa, não se constitui fundamentação hábil à valoração negativa da "culpabilidade" do apenado.
+Desta feita, de forma subsidiária, roga pelo redimensionamento da pena-base do recorrente no mínimo legal (e-STJ fl. 365).
+Contrarrazões pelo Parquet estadual (e-STJ fls. 370-406).
+O Tribunal a quo inadmitiu o apelo especial com base na incidência da Súmula n. 7/STJ (e-STJ fls. 408-411), fundamento oportunamente infirmado pela parte agravante (e-STJ fls. 416-422).
+Parecer do Ministério Público Federal, na forma dos arts. 62 e 64, X, ambos do RISTJ, pelo não provimento do agravo em recurso especial (e-STJ fls. 454-457).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do apelo raro.
+Sobre a pretensa desclassificação delitiva, o Tribunal estadual, ao ratificar o édito condenatório do sentenciado, exortou (e-STJ fls. 334-337, grifamos):
+A defesa pleiteia, em sede de razões recursais  ..  a desclassificação para o delito tipificado no art. 28 da Lei nº 11.343/06 (porte de drogas para consumo pessoal)  ..
+Em que pesem os respeitáveis argumentos apresentados, não assiste razão à defesa.
+Visando melhor compreender a matéria, passa-se à análise da prova oral colhida em juízo.
+A testemunha Clidenor  .. , policial militar, afirma, em juízo, que "recebeu denúncia" acerca de possível comércio de entorpecentes em uma festa que ocorria na cidade, por volta das 23h, sendo que, ao chegar no local (Clube CSA), procedeu, na companhia de outro policial, à abordagem em pessoas que ali se encontravam.
+Afirma, ainda, que o apelante se encontrava no banheiro na companhia de outras pessoas, sendo flagrado, na ocasião, na posse de 15 (quinze) papelotes de cocaína, além de "um dolado de crack  ..
+A testemunha Fredson  ..  corrobora o depoimento prestado por Clidenor, ressaltando que somente o apelante foi encontrado na posse de entorpecentes.
+O apelante, por sua vez, nega, em juízo, que tivesse a finalidade de praticar a traficância, ao tempo em que ressalta que os entorpecentes apreendidos se destinavam tão somente ao consumo dele e outros amigos.
+ ..
+Na hipótese, as circunstâncias em que ocorreram o flagrante, as quais foram detalhadas pelos policiais, a saber, a forma de acondicionamento dos entorpecentes, que se encontravam distribuídos em invólucros e prontos para a comercialização em festa que ocorria na cidade, além da apreensão de quantia em dinheiro, demonstram a prática do delito tipificado no art. 33, caput, da Lei nº 11.343/06.
+A propósito, cumpre destacar que os depoimentos dos policiais mostram-se  ..  firmes e coesos  ..
+Portanto, mostra-se descontextualizada e isolada a versão defensiva  .. , impondo-se então a manutenção da condenação.
+Em introito, é cediço por esta Corte Uniformizadora que,
+ n os termos do art. 28, §2º, da Lei 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal, mas também o local e as condições em que se desenvolveu a ação (AgRg no HC n. 762.132/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022, grifamos).
+Desse modo, é sabido que o fato de a parte recorrente ser:
+ e ventual usuária de entorpecentes não tem o condão de afastar, por si só, a responsabilidade penal pela prática do delito de tráfico de drogas (AgRg no AREsp n. 2.565.912/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024).
+Assim, em relação à correta dicção do art. 33, caput, da Lei n. 11.343/2006, ressalve-se, crime (misto alternativo) de ação múltipla ou de conteúdo variado:
+não se desconhece a firme orientação desta Corte Superior no sentido de que a subsunção típica prescinde da efetiva prática de atos de mercancia da droga, pois o crime de tráfico de entorpecentes é de ação múltipla ou de conteúdo variado, de forma que se consuma com a prática de qualquer um dos verbos descritos no tipo penal (AgRg no REsp n. 2.062.259/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/9/2023, DJe de 28/9/2023, grifamos).
+Dos excertos transcritos, infere-se incidir o óbice da Súmula n. 7 do STJ quanto à aspiração defensiva alhures - destinada à desclassificação da conduta do increpado para a forma capitulada no art. 28 da Lei n. 11.343/2006 -, sob a (descortinada) alegação de que este, à época dos fatos, portava pequena quantidade de drogas para (exclusivo) consumo pessoal (e-STJ fl. 335), despida de qualquer destinação à mercancia (animus negociandi).
+Tal assertiva deve-se à máxima de que, a revisão das premissas assentadas perante o Tribunal a quo, na extensão epigrafada, demandaria inexorável reexame do acervo fático-probatório carreado aos autos, mister incabível na via eleita.
+Na espécie, as instâncias ordinárias - a teor da esclarecedora e harmônica prova testemunhal coligida aos autos, em solo policial e em juízo - constataram que o acusado foi flagrado, na companhia de outras pessoas, na posse de 15 (quinze) papelotes de cocaína, além de "um dolado de crack", ocasião em que "somente este"
+foi encontrado na posse de entorpecentes (e-STJ fl. 335, grifamos).
+Tal contexto, conforme sopesado pelas instâncias ordinárias, afigura-se apto a denotar, ex vi do § 2º do art. 28 da Lei n. 11.343/06, a prática do constatado crime de tráfico de drogas, crime (misto alternativo) de ação múltipla ou de conteúdo variado, consoante se extrai da dicção do supradito preceito, litteris:
+Art. 28 - Omissis:
+ ..
+§ 2º Para determinar se a droga destinava-se a consumo pessoal, o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente (grifamos).
+Em casos parelhos:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. AFASTAMENTO DA SÚMULA 182 DO STJ. PLEITO DE DESCLASSIFICAÇÃO DA CONDUTA. REVOLVIMENTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. DOSIMETRIA. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL PROVIDO APENAS PARA CONHECER DO RECURSO ESPECIAL. NO MÉRITO, RECURSO ESPECIAL DESPROVIDO.
+ ..
+2. A prova testemunhal, somada ao conjunto probatório trazido como fundamento no acórdão impugnado - notadamente o conteúdo extraído dos celulares apreendidos -, demonstra que o recorrente praticava o tráfico ilícito de entorpecentes, tendo sido ressaltado que o flagrante foi resultado de investigações prévias, devidamente documentadas, acerca do seu envolvimento com o tráfico de drogas. Dessa forma, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela desclassificação da conduta seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+ ..
+(AgRg no AREsp n. 2.591.709/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/6/2024, DJe de 11/6/2024, grifamos).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. PEDIDO DE DESCLASSIFICAÇÃO PARA USO DE DROGAS. ELEMENTOS APTOS A EMBASAR A CONDENAÇÃO. CIRCUNSTÂNCIAS DO FLAGRANTE E DEPOIMENTOS DOS AGENTES POLICIAIS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+1. In casu, as instâncias de origem concluíram, a partir das provas constantes dos autos, pela existência de elementos suficientes para fundamentar o decreto condenatório pelo crime do art. 33 da Lei n. 11.343/06, consubstanciados especialmente nos depoimentos prestados pelos policiais e nas circunstâncias do flagrante.
+2. Nos termos do art. 28, §2º, da Lei 11.343/2006, "não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal, mas também o local e as condições em que se desenvolveu a ação" (AgRg no HC n. 762.132/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022).
+3. "Os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu na hipótese." (AgRg no HC n. 851.250/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024)
+4. A revisão do entendimento exarado para desclassificar a conduta do agravante implicaria em revolvimento fático-probatório, procedimento de análise exclusivo das instâncias ordinárias e vedado a este Superior Tribunal de Justiça, em sede de recurso especial, ante o óbice Sumular n. 7/STJ.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.341.820/TO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/5/2024, DJe de 17/5/2024, grifamos).
+Noutro giro, acerca do indigitado ultraje ao art. 59, caput, do CP, o Tribunal a quo consignou (e-STJ fls. 337-338, grifamos):
+Pugna, ainda, a defesa, pelo redimensionamento da pena-base ao mínimo legal, sob o argumento de que o magistrado a quo não apresentou fundamentação idônea para a valoração das circunstâncias judiciais.
+ ..
+Merece destaque, também, o trecho da sentença que trata das circunstâncias judiciais e fixa a pena-base:
+Culpabilidade: o réu sabia que obrava ilicitamente e tinha consciência da ilicitude de sua conduta. Médio grau de reprovabilidade da conduta, já que praticava mercancia de drogas em uma festa.  ..
+Pelo que se verifica da primeira fase da dosimetria, apenas a culpabilidade foi valorada negativamente, o que levou à exasperação da pena-base em 6 (seis) meses de reclusão. Pelo visto, agiu acertadamente o magistrado a quo ao valorar a culpabilidade, uma vez que o apelante praticou o delito em local com grande concentração de pessoas (festa), o que demonstra maior grau de reprovabilidade da conduta, portanto, mostra-se suficiente para a exasperação da pena-base.
+De início, é pacífico que a gravidade (concreta) da conduta delitiva deve manter - com esteio nos princípios da individualização da pena e da proporcionalidade - simbiótica correspondência ao apenamento imposto (como ferramenta  de  controle  e  pacificação social), sob a tríade tônica repressora, preventiva e pedagógica da pena alvitrada pelo legislador no art. 59, caput (parte final), do CP, sob pena de proteção Estatal insuficiente.
+Convém ressalvar, ainda, que tal mister está condicionado ao indelével dever de fundamentação (concreta e estratificada), na forma do art. 315 do CPP, c/c o art. 93, IX, da CF/88.
+Nessa linha (propedêutica) de raciocínio, a Suprema Corte tem ecoado:
+ p odem ser considerados quaisquer elementos relacionados ao crime para o fim de desabonar as circunstâncias judiciais, desde que não integrantes ao próprio tipo e nem previstas em lei (circunstâncias qualificadoras, agravantes e causas de aumento de pena), sob pena de incorrer o julgador em violação do princípio do non bis in idem (HC 117599, Relator(a): ROSA WEBER, Primeira Turma, julgado em 03-12-2013, PROCESSO ELETRÔNICO DJe-031 DIVULG 13-02-2014 PUBLIC 14-02-2014, grifamos).
+De igual forma:
+ a  pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação (AgRg no REsp n. 1.984.392/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/5/2022, DJe de 30/5/2022, grifamos).
+Destarte, não se descuida esta Relatoria de que a mera alusão à culpabilidade acentuada do agente, predicada por expressões rasas como o dolo intenso, a potencial consciência da ilicitude ou exigibilidade de conduta diversa (estes últimos constitutivos da culpabilidade qualitativa, integrante, apenas, como 3º substrato do crime), não constituem, quando despidas de demais peculiaridades do caso concreto, fundamentação idônea ao incremento da pena-base, porquanto ínsitas às circunstâncias elementares (descritivas e normativas) de qualquer delito.
+Logo, a "culpabilidade" como circunstância vetorial de pena
+só pode ser considerada circunstância judicial desfavorável quando houver algum elemento concreto que evidencie um grau de reprovabilidade que extrapole o da própria conduta tipificada. A simples gravidade do delito, por si só, não tem o condão de acentuar a culpabilidade do agente (AgRg no REsp n. 1.977.921/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/9/2023, DJe de 2/10/2023, grifamos).
+Ainda, para a 3ª Seção:
+Na estrutura delineada pelo legislador, somente são utilizados para a fixação da pena-base elementos pertencentes a seus vetores genéricos que não tenham sido previstos  ..  para utilização nas etapas posteriores. Trata-se da aplicação do princípio da especialidade, que impede a ocorrência de bis in idem, intolerável na ordem constitucional brasileira (REsp n. 1.887.511 /SP, relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 9/6/2021, DJe de 1/7/2021, grifamos).
+Dos fragmentos destacados, dessume-se a convergência do acórdão farpeado ao entendimento trilhado por este Sodalício, no sentido de que o tráfico de entorpecentes em boate (ou outro recinto similar, com grande concentração de pessoas) - quando não utilizado, ex vi do art. 68 do CP, para justificar a incidência do art. 40, III, da Lei n. 11.343/2006 -, possibilita
+aos usuários fácil e pronto acesso aos entorpecentes. Não se pode considerar como circunstância normal a facilidade desenvolvida por esta sistemática em comparação daquela comumente desempenhada por traficante que  ..  fica na rua aguardando o consumidor chegar", o que constitui fundamento válido para a exasperação da reprimenda. Precedentes (AgRg no HC n. 778.760/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/8/2023, DJe de 23/8/2023, grifamos).
+Na espécie, o Tribunal ordinário ratificou:
+ o  apelante praticou o delito em local com grande concentração de pessoas (festa), o que demonstra maior grau de reprovabilidade da conduta, portanto, mostra-se suficiente para a exasperação da pena-base (e-STJ fl. 338, grifamos).
+No mesmo norte:
+AGRAVO REGIM ENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. QUANTIDADE DE DROGAS. FUNDAMENTAÇÃO IDÔNEA. EXASPERAÇÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade, de maneira que, havendo as instâncias ordinárias fundamentado o aumento da reprimenda-base à luz, justamente, das peculiaridades do caso concreto, não há como acolher o pleito defensivo, em homenagem ao princípio do livre convencimento motivado.
+2. No caso dos autos, ao exasperar a pena-base, o Tribunal de origem apontou argumentos concretos e idôneos para a fixação da pena-base acima do mínimo legal, sobretudo em relação à culpabilidade (o perfil socioeconômico e o nível de escolaridade do réu) e à circunstâncias do crime  ..  tráfico de drogas sintéticas, que passaram a ser entregues em festas universitárias  ..
+3. Dessa forma, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pelas instâncias de origem para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena ou mesmo de violação dos arts. 59 do CP e 42 da Lei n. 11.343/2006, reduzir a reprimenda-base estabelecida ao acusado.
+4. Agravo regimental não provido.
+(AgRg no HC n. 764.054/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/11/2022, DJe de 2/12/2022, grifamos).
+Incide, portanto, no ponto em voga, a Súmula 568/STJ, segundo a qual: O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, conheço do agravo para conhecer parcialmente o recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
