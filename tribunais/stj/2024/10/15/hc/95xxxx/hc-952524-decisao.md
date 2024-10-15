@@ -1,0 +1,14 @@
+DECISÃO
+MARCEL APARECIDO DE OLIVEIRA alega sofrer coação ilegal diante de acórdão do Tribunal de origem
+A defesa se insurge contra a negativa de progressão de regime ao apenado, com fundamento em exame criminológico desfavorável, pautado "na subjetividade" e em "parecer contrário" ao benefício (fl. 7), uma vez que o atestado de conduta carcerária anota "bom comportamento" (fl. 8) e não há registros de faltas graves nos últimos nove anos.
+Requer a concessão do benefício.
+Decido.
+O habeas corpus comporta avanço para a pronta solução.
+Prevalece nesta Corte o entendimento de que a noção de bom comportamento do reeducando abrange a valoração de elementos que não se restringem ao atestado emitido pela direção carcerária, sob pena de transformar o juiz em mero homologador de documentos administrativos.
+No caso, a negativa de progressão de regime está idoneamente amparada em decisão concretamente motivada, que indicou aspectos negativos de exame criminológico para revelar a falta do requisito subjetivo para o benefício.
+O Juiz destacou que "os aspectos negativos do exame criminológico, aliados ao fato de se tratar de reeducando reincidente, condenado à pena total de 46 (quarenta e seis) anos, 06 (seis) meses e 02 (dois) dias, pela prática do crime de extorsão mediante sequestro, com sequelas graves à vítima, delito de associação criminosa,  .. , com considerável período de pena a cumprir (término previsto para 2048), e ainda com histórico de faltas graves em seu desfavor (fls. 2455), revelam falha na absorção da terapêutica criminal" (fl. 51).
+Segundo o Tribunal de origem, "no Relatório Conjunto de Avaliação, houve manifestação contrária à progressão". Ainda, "consta de seu Boletim Informativo, o fato de integrar organização criminosa"(fl. 81). No Relatório Psicológico, "constou que ele começou a refletir sobre os delitos cometidos e suas consequências advindas da experiência como encarcerado. Ou seja, não está, ainda, consciente da ilicitude dos graves delitos e o que repercutiu para a sociedade, para a qual quer voltar" (fl. 82).
+Nesse cenário, não há falar em ilegalidade, pois "o resultado desfavorável de exame criminológico justifica a negativa de progressão de regime por falta de requisito subjetivo" (AgRg no HC n. 848.737/SP, relator Ministro Rogerio Schietti, 6ª T., julgado em 2/10/2023, DJe de 5/10/2023). No mesmo sentido, cito o AgRg no HC n. 870.417/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/12/2023, DJe de 12/12/2023.
+Para afastar as considerações do exame criminológico e os fundamentos utilizados pelas instâncias ordinárias "mostra-se necessário o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus" (AgRg no HC n. 827.256/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/10/2023, DJe de 11/10/2023).
+À vista do exposto, denego o habeas corpus, in limine.
+EMENTA
