@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recursos que se insurgem contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 90):
+INVENTÁRIO. Decisão que afastou o pedido de abatimento de dívidas do espólio da base de cálculo do ITCMD. Monte líquido tributável, correspondente ao monte-mor, deduzidas as dívidas e encargos do de cujus. Inteligência dos artigos 1.792 e 1.997 do Código Civil de 2002, que revogaram o art. 12 da Lei Estadual no 10.705/00. Há inúmeros precedentes que afastam o passivo da base de cálculo do ITCMD. A decisão agravada deve ser mantida, todavia, por fundamento diverso. Documentos que formam o instrumento deixam muito claro que as supostas dívidas, cujo abatimento se pretende, correspondem a honorários advocatícios. Os honorários que o agravante almeja afastar da base de incidência do ITCMD não correspondem a uma dívida do espólio, e sim a uma parcela do crédito indenizatório auferido nos autos da ação de desapropriação. Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 145/157 e 198/210).
+Nas razões de seu recurso especial (fls.104/129), CARLOS ADOLPHO VON BULOW alega ter ocorrido violação aos arts. 642 do Código de Processo Civil e 1.997 do Código Civil (fls. 111/112):
+ ..  o Recorrente era credor de sua tia MARIA SAMPAIO FRANCO muito antes de ser coerdeiro, situação jurídica regulada pelos exatos termos do artigo 642 do Código de Processo Civil  .. :
+ ..
+Todos os demais coerdeiros aquiesceram com a confessada dívida contraída por Maria Sampaio Franco, ora de cujus, e, portanto, o referido valor deve ser reservado para pagamento dos serviços prestados ao Recorrente, visto que está devidamente comprovado, amparado por Título Executivo e ratificado por todos os interessados, sem a incidência do ITCMD.
+ ..
+Portanto, não deve incidir o ITCMD sobre o valor reservado para pagamento das dívidas contraídas pela falecida Maria Sampaio Franco, nos termos dos artigos artigo 642 do Código de Processo Civil, e 1997 do Código Civil.
+FABIO DE MESQUITA SAMPAIO, por sua vez, alega violação aos arts. 796 do Código de Processo Civil e 1.997 do Código Civil pois "a qualificação jurídica dos honorários relativos aos contratos de prestação de serviços (advocatícios e de outra natureza) é de despesas do espólio, e não dos herdeiros, razão pela qual, via de consequência, mostra-se razoável que tais valores sejam abatidos da base de cálculo do imposto" (fls. 213/226), e, " t ratando-se de dívida proveniente de crédito que ainda não foi partilhado entre os herdeiros, a responsabilidade pelo pagamento é do Espólio, a teor do art. 796 do CPC/2015 e do art. 1.997, "caput", do CC" (fl. 223).
+Quando do juízo de admissibilidade, os recursos especiais não foram admitidos, razão pela qual foram interpostos os agravos em recurso especial de fls 240/248 (FABIO DE MESQUITA SAMPAIO) e de fls. 250/281 (CARLOS ADOLPHO VON BULOW).
+Parecer do Ministério Público Federal pelo desprovimento dos agravos (fls. 299/302).
+É o relatório.
+Os agravantes refutaram adequadamente a decisão de inadmissibilidade dos recursos especiais. Conheço dos agravos e passo ao exame dos recursos especiais.
+Ambos os recursos giram em torno de supostas dívidas da falecida para com os recorrentes e a exclusão de tais dívidas da base de cálculo do Imposto sobre Transmissão Causa Mortis e Doação (ITCMD).
+CARLOS ADOLPHO VON BULOW passou a integrar a lide em embargos de declaração após a decisão do Tribunal de origem que não havia provido o recurso de apelação de FABIO DE MESQUITA SAMPAIO nestes termos (fls. 95/96):
+Os documentos que formam o instrumento deixam muito claro que as supostas dívidas, cujo abatimento se pretende, correspondem a honorários advocatícios (cfr. fls. 13/68 destes autos digitais).
+Cumpre mencionar que o objeto da sobrepartilha é crédito que supera a cifra de R$ 13 milhões de reais, fruto de indenização fixada em ação de desapropriação.
+Os herdeiros (todos legatários) indicaram os honorários de aproximadamente R$ 4,5 milhões de reais como passivo.
+Chama atenção que alguns dos legatários são advogados que receberam parte dos honorários que se pretende deduzir do valor da indenização para fins de recolhimento do ITCMD (fls. 69/76 deste Agravo).
+Diante de tal cenário, fácil concluir que os honorários pagos não constituem propriamente passivo do da herança, especialmente porque parte dos advogados que receberam os honorários são legatários.
+Sob esse enfoque, as circunstâncias do caso concreto autorizam a manutenção da decisão impugnada.
+Lembro que apenas as dívidas que oneram o monte-mor devem ser decotadas da base de incidência do ITCMD.
+Não é esse o caso dos honorários, que não se traduzem como dívida do monte. Os honorários, insisto, correspondem a uma parcela do valor da indenização que ensejou a sobrepartilha.
+A indenização é devida ao espólio, e sobre o seu valor incide o imposto de transmissão.
+Os herdeiros em razão da saisine devem os honorários contratuais aos advogados que ajuizaram a ação de desapropriação.
+Não há como abater os honorários diretamente do valor da herança.
+Sobre os embargos de declaração de CARLOS ADOLPHO VON BULOW, vale destacar o seguinte trecho da decisão do Tribunal de origem (fl. 153):
+Irrelevante que os demais herdeiros reconheçam a dívida da tia para com o sobrinho embargante, que receberia pela administração dos imóveis parcela do crédito oriundo da mesma ação de desapropriação.
+Ainda que seu crédito não se confunda com os honorários advocatícios, pois tem origem diversa, a remuneração do sobrinho (que também é herdeiro) não ostenta natureza de dívida do espólio para fins de abatimento da base de cálculo do ITCMD.
+Paira séria dúvida sobre eventual simulação do contrato celebrado pelo sobrinho com a falecida tia, justamente com o intuito de burlar o Fisco no recolhimento de eventuais tributos devidos.
+Não é nada comum que a prestação de serviço de administração de imóveis seja remunerada com parcela de crédito oriundo de indenização em demanda desapropriatória.
+Dessa forma, verifico que, ao analisar a natureza jurídica dos valores que os recorrentes querem excluir da base de cálculo do ITCMD, o Tribunal de origem decidiu que a exclusão era incabível com base nas provas dos autos.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ITCMD. FATO GERADOR. LEI LOCAL. SÚMULA 280/STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. O exame da controvérsia, pelo Tribunal de origem, sob o enfoque dos artigos 1º e 2º da Lei Estadual nº 13.136/04 e do artigo 1º do Decreto nº 2.884/04, que regulamenta a referida norma local, impossibilita a análise da questão por esta Corte superior, ante o óbice previsto na Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário").
+2. Para se chegar à conclusão diversa daquela alcançada pela Corte de origem, de que ficou demonstrado nos autos que não houve a transferência das cotas sociais, fato gerador do ITCMD, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7 do Superior Tribunal de Justiça.
+3. A ausência de pronunciamento do Tribunal a quo sobre a matéria versada no artigo 333 do CPC, apesar de instado a fazê-lo por meio dos competentes embargos de declaração, atrai a aplicação do óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 620.108/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 4/8/2015, DJe de 14/8/2015, sem destaque no original.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. EMBARGOS À EXECUÇÃO FISCAL. IMPOSTO DE RENDA PESSOA FÍSICA. OMISSÃO DE RENDIMENTO. COMPLEMENTAÇÃO DE APOSENTADORIA. RETIFICAÇÃO DA DECLARAÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. É inadmissível Recurso Especial quanto a questão que, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo Tribunal de origem. Incidência da Súmula 211/STJ.
+2. O Tribunal de origem assentou: "Não procede a alegação do embargante de que os rendimentos omitidos provieram de verbas pagas em reclamatória trabalhista, já que a documentação existente nos autos demonstra que o valor não oferecido à tributação decorre de complementação de aposentadoria. (..) Se a inclusão de dependente, em vez de reduzir a base de cálculo do imposto de renda, implica a sua majoração, evidencia-se a situação em que a opção do contribuinte revelou-se evidentemente errônea, porque os rendimentos percebidos pela dependente são isentos de IR, inclusive a dispensando de apresentar declaração de ajuste anual. Cabível, assim, a exclusão da dependente da declaração do imposto de renda do embargante, assim como os rendimentos por ela percebidos." Rever tal entendimento esbarra no óbice da Súmula 7 do STJ.
+3. Observa-se que a Corte de origem aplicou o art. 147, §1º, do CTN, que permite a alteração do modelo de declaração do imposto de renda, considerando que, no caso, teria ocorrido erro no preenchimento das declarações. Caberia à parte recorrente impugnar tal fundamento, suficiente por si só, para manter o julgado, o que não ocorreu nas razões recursais. Assim, incide na espécie, o óbice da Súmula 283/STF.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.688.681/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/10/2017, DJe de 16/10/2017, sem destaque no original.)
+Ante o exposto, conheço dos agravos para não conhecer dos recursos especiais de FABIO DE MESQUITA SAMPAIO e CARLOS ADOLPHO VON BULOW.
+Publique-se. Intimem-se.
+EMENTA
