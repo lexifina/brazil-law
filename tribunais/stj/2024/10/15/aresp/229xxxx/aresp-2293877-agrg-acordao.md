@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APONTADA A INCIDÊNCIA DAS SÚMULAS N. 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA E 284 DO SUPREMO TRIBUNAL FEDERAL. FALTA DE INDICAÇÃO DO SUPOSTO PONTO OMISSO, CONTRADITÓRIO OU OBSCURO. FUNDAMENTO NÃO REBATIDO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, " a  falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior" (AgRg no AREsp n. 1.994.936/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 17/12/2021).
+2. Agravo regimental não provido.
+RELATÓRIO
+JONATAN PAIVA DE SOUSA agrava da decisão de fls. 246-247, em que a Presidência do Superior Tribunal de Justiça não conheceu do agravo em recurso especial, por incidência da Súmula n. 182 do STJ, ao considerar que "a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ e ausência de indicação do ponto omisso, contraditório ou obscuro - Súmula 284/STF. Entretanto, a parte agravante deixou de impugnar especificamente os referidos".
+Para tanto, assere a defesa que, "em sede de agravo em recurso especial, impugnou-se, de forma específica e concreta, os fundamentos da Decisão agravada, nos moldes do inciso III, do art. 932/CPC, em consonância com o inciso I, do Parágrafo único, do art. 253, do Regimento Interno do Superior Tribunal de Justiça. Isso é fato incontroverso" (fl. 133).
+Requer, assim, a reconsideração da "a reforma total da r. Decisão recorrida, julgando-se procedente o seguinte pedido formulado nesta razão: requer, o agravante, o conhecimento e processamento do agravo em recurso especial" (fl. 259).
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APONTADA A INCIDÊNCIA DAS SÚMULAS N. 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA E 284 DO SUPREMO TRIBUNAL FEDERAL. FALTA DE INDICAÇÃO DO SUPOSTO PONTO OMISSO, CONTRADITÓRIO OU OBSCURO. FUNDAMENTO NÃO REBATIDO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, " a  falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior" (AgRg no AREsp n. 1.994.936/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 17/12/2021).
+2. Agravo regimental não provido.
+VOTO
+Conforme já apontado na decisão vergastada, a defesa agravou da decisão que inadmitiu seu recurso especial, interposto com fulcro no art. 105, III, alínea "a", da Constituição da República de 1988, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Rondônia no Agravo em Execução n. 0811605-86.2021.8.22.0000, em que foi mantida a decisão "que entendeu que a progressão de regime para o embargante seria de 40% da pena cumprida, porque condenado por crime de tráfico de drogas, o qual é equiparado a hediondo, sendo esta a sua primeira condenação por crime hediondo ou equiparada a este" (fl. 139).
+Irresignada, a defesa interpôs recurso especial, cujo seguimento foi negado, com fulcro nos óbices estatuídos pelas Súmulas n. 83 do STJ e 284 do STF, e na ausência de indicação do ponto omisso, contraditório ou obscuro.
+Todavia, ao interpor o agravo, noto que a defesa deixou de infirmar os fundamentos acima mencionados, de forma a atrair a incidência do teor da Súmula n. 182 também desta Corte Superior de Justiça, in verbis: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Registro, por oportuno, que, embora a legislação processual civil em vigor não seja a mesma que baseou a edição da Súmula n. 182 do STJ, há dispositivo semelhante no Código de Processo Civil atual (art. 1.042), de forma que o enunciado permanece aplicável.
+Nesse sentido, cito recentes julgados desta Corte: AgRg no AREsp n. 162.038/CE (Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/11/2016), AgInt no AREsp n. 943.953/RS (Rel. Ministro Ricardo Villas Bôas Cueva, 3ª T., DJe 28/10/2016) e AgRg no REsp n. 1.624.034/SC (Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 11/11/2016).
+À vista do exposto, nego provimento ao recurso.
