@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RADIO SOUSA FM LTDA. contra decisão que inadmitiu recurso especial com fundamento na ausência de violação dos arts. 489 e 1.021 do CPC e na incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Agravo Interno em Apelação Cível n. 0004498-61.2007.8.15.0371) assim ementado (fl. 503):
+PROCESSUAL CIVIL. Agravo interno. Decisão monocrática que negou provimento a recurso de apelação. Reiteração de argumentos já enfrentados. Manutenção da decisão pelos seus próprios fundamentos. Desprovimento do recurso.
+- Os argumentos devolvidos ao colegiado, e que já foram enfrentados na decisão monocrática, são inaptos para conduzirem à sua reforma, a qual deve ser mantida pelos seus próprios fundamentos;
+- Agravo interno desprovido.
+Nas razões do recurso especial (fls. 519-538), a parte recorrente aponta violação dos arts. 489, § 1º, II e IV, 1.021, § 3º, do Código de Processo Civil, da Súmula n. 261 do STJ e dos princípios constitucionais da proporcionalidade e da razoabilidade.
+Em relação ao art. 489, § 1º, II e IV, do CPC, alega que o acórdão foi omisso ao deixar de examinar a potência utilizada e a grade de programação variável da recorrente, a fim de contabilizar preço justo a ser pago ao ECAD. Reforça que a recorrente não toca músicas durante as 24 horas do dia, tendo outras atividades em sua grade de programação, motivo pelo qual o acórdão recorrido quedou-se silente em aferir o real uso para o preço verdadeiro da mensalidade a ser paga à recorrida.
+Reforça que, "consoante restou frisado nas inúmeras manifestações da recorrente/Radio, que a mesma não está almejando se esquivar de pagar os direitos autorais devidos a quem de direito, nem discutindo a legitimidade do recorrido/Ecad em cobrar os direitos autorais; mas tão somente equilibrar o valor cobrado pelo /ECAD, de forma razoável e proporcional aos horários de utilização de cada conteúdo veiculado (comercial, jornalístico, comunitário, educativo, etc), tendo em vista haver diferença de valores nas mensalidades cobradas por cada subclasse em que a emissora esteja inserida" (fl. 525).
+No tocante o art. 1.021, § 3º, do CPC, aponta que o aresto impugnado limitou-se a replicar a fundamentação da decisão agravada, visto que o "Agravo Interno também foi negado provimento pelos mesmos fundamentos lançados na decisão monocrática, violando desse modo o §3º do art. 1.021 do CPC/15 ,  4  que veda "ao relator, limitar-se à reprodução dos fundamentos da decisão agravada para julgar improcedente o agravo interno"; constituindo fundamento suficiente para desafiar o vertente Recurso Especial, por deixar de enfrentar e analisar as matérias postas à baila, causando enorme prejuízo ao direito da ora recorrente/Radio" (fl. 527).
+Conclui que "o Acórdão que apreciou o Agravo Interno da recorrente/Radio, simplesmente adotou e reproduziu na íntegra os fundamentos da decisão agravada para julgar improvido o agravo interno, violando deste modo o § 3º do art. 1.021 do CPC/15, ipsis litteris" (fl. 528).
+Destaca a violação dos princípios constitucionais da proporcionalidade e razoabilidade, além de vulneração à Súmula n. 261 do STJ, haja vista que não foi aferido o valor da mensalidade a ser paga ao ECAD pela média de utilização do serviço, e sim considerando o seu uso por 24 horas do dia.
+Discorre que "a recorrente/Radio pretende apenasmente que seja o caso epigrafado analisado consoante os princípios da proporcionalidade e razoabilidade no valor da mensalidade exigida pelo recorrido/ECAD, em conformidade com a utilização da mensalidade da potência operacional real e de modo proporcional à veiculação e utilização de suas programações subclassificações (comercial, jornalístico, comunitário, educativa)" (fl. 532).
+Requer o provimento do recurso para que seja reformado o aresto impugnado nos termos das razões apresentadas.
+É o relatório. Decido.
+O recurso não reúne condições de admissibilidade.
+I - Violação do art. 489, § 1º, II e IV, do CPC
+Afasta-se a alegada ofensa ao art. 489 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+No caso em apreço, manteve-se a parcial procedência da ação que condenou a recorrente ao pagamento dos valores devidos ao ECAD pela "exibição radiofônica de músicas, apuradas durante o período de setembro de 2002 a setembro de 2007, além daquelas vencidas no curso do processo, proibindo-a de executar obra musical sem prévio recolhimento dos respectivos direitos autoriais, sob pena de multa de R$ 1.000,00 (mil reais) por dia, limitada a 30 (trinta) dias" (fl. 456).
+O Tribunal a quo, no julgamento de recurso de apelação destacou que compete ao ECAD apurar os valores devidos pela exibição de obras, além de não ter sido apresentada prova à alegada exorbitância do montante cobrado.
+Confira-se o seguinte trecho do julgado (fls. 457-460, destaquei):
+Em que pese o argumento do apelante, é atribuição do ECAD fixar os valores a serem cobrados pela exibição de obras, conforme dispõe o art. 98, §§ 1º, 2º, 3º e 4º, da Lei n. 9.610/1998.
+Inexistente prova robusta a demonstrar a alegada exorbitância dos valores estabelecidos pelo ECAD, queda-se improcedente a alegação de que são desproporcionais e desarrazoados.
+No que se refere à multa cominatória, deve-se ter em vista que, nos termos do art. 68, §4º, da Lei 9.610/1998, antes da execução pública da obra, o empresário deverá apresentar ao escritório central a comprovação dos recolhimentos relativos aos direitos autorais.
+Assim, na casuísta dos autos, tem-se que as astreintes devem ser mantidas, uma vez que visam assegurar o prévio pagamento de tais direitos.
+Interposto agravo interno, a Corte de origem negou provimento à irresignação, ao destacar que toda matéria apresentada fora dirimida por aquele Tribunal, inclusive em relação ao questionado valor a ser pago ao ECAD, não havendo pendências processuais a serem julgadas, conforme se depreende da leitura do seguinte excerto do julgado, a saber (fl. 505, destaquei):
+Apesar dos argumentos expendidos pela parte agravante, verifica-se que a tese jurídica veiculada nas razões do agravo interno não conduz à modificação do posicionamento anteriormente firmado.
+Em assim sendo, mantém-se, na íntegra, por seus próprios fundamentos, a decisão ora agravada (ID 15386708):
+ ..
+Deve-se negar provimento ao apelo.
+Em que pese o argumento do apelante, é atribuição do ECAD fixar os valores a serem cobrados pela exibição de obras, conforme dispõe o art. 98, §§1º, 2º, 3º e 4º 1, da Lei n. 9.610/1998.
+Nesse cenário, não se verifica qualquer omissão no julgamento proferido pela Corte a quo , a qual manteve os valores a serem pagos pela recorrida, conforme determinado pelo ECAD a título de direito autoral.
+Conclui-se, portanto, que o Tribunal a quo dirimiu a lide nos termos em que proposta, não havendo falar em violação do art. 489 do CPC.
+II - Violação do art. 1.021, § 3º, do CPC
+A questão referente à violação do. art. 1.021, § 3º, do CPC não foi objeto de debate no acórdão recorrido, tampouco foram opostos embargos de declaração - caso de aplicação da Súmula n. 282 do STF.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. CERCEAMENTO DE DEFESA. PROVA PERICIAL. AUSÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. PLANO DE SÁUDE. CIRURGIA PLÁSTICA REPARADORA PÓS-BARIÁTRICA. COBERTURA. POSSIBILIDADE. ACÓRDÃO RECORRIDO CONFORME A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do rec urso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+2. Para a jurisprudência do STJ, o julgador pode determinar as provas pertinentes à instrução do processo, bem como indeferir aquelas consideradas inúteis ou protelatórias, à luz dos princípios da livre apreciação da prova e do livre convencimento do juiz (CPC/2015, art. 370, caput e parágrafo único).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e revisão das cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+3.1. A Corte de origem afastou o alegado cerceamento de defesa, tendo em vista a desnecessidade da prova pericial. Modificar tal entendimento exigiria nova análise do conjunto probatório dos autos, medida inviável em recurso especial.
+4. Para a jurisprudência da Segunda Seção desta Corte Superior, firmada na sistemática dos recurso repetitivos, havendo prescrição médica, os planos de saúde estão obrigados aos custeio de cirurgia plástica reparadora ou funcional, após cirurgia bariátrica (Tema n. 1.069/STJ).
+4.1. A Corte local impôs ao plano de saúde o custeio, mediante reembolso, das despesas médicas da parte agravada referentes à cirurgia de retirada do excesso de pele - cirurgia plástica reparadora - após o emagrecimento oriundo da cirurgia bariátrica, o que não diverge de tal orientação.
+5. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+6. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.143.331/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/9/2024, DJe de 2/10/2024.)
+III - Violação dos princípios da razoabilidade e proporcionalidade
+No que se refere à suposta violação dos apontados princípios constitucionais, registre-se que refoge da competência do STJ a análise da indicada ofensa.
+A propósito do tema:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Nos termos do artigo 102 da Constituição Federal, reserva-se ao Supremo Tribunal Federal a competência para apreciar ofensas a dispositivos constitucionais. Desse modo, sob pena de usurpação, não pode o Superior Tribunal de Justiça analisar alegadas violações a dispositivos constitucionais.
+2. Não se verifica ofensa aos artigos 489 e 1.022, do CPC, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+3. Nos termos da jurisprudência desta Corte Superior, admite-se a utilização da técnica da fundamentação per relationem, em que o magistrado adota trechos de decisão anterior ou de parecer ministerial como razão de decidir, não havendo que se falar em ofensa ao art. 1.021, § 3º, do CPC, o que atrai a incidência das Súmulas 83 e 568/STJ.
+4. Na hipótese, rever as conclusões das instâncias ordinárias quanto à ocorrência de culpa exclusiva da vítima, demandaria o reexame do contexto fáticoprobatório dos autos, o que é vedado pela Súmula 7 do STJ.
+5. Agravo interno desprovido. (AgInt no REsp n. 2.048.955/MA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 18/12/2023, DJe de 21/12/2023, destaquei.)
+IV - Violação da Súmula n. 261 do STJ
+Incabível o exame da violação da Súmula n. 261 do STJ, pois se afasta da esfera de competência do Superior Tribunal de Justiça apreciar, por meio de recurso especial, eventual violação de súmulas, resoluções, portarias, regimentos, instruções normativas e circulares, visto que não se enquadram no conceito de "lei federal" previsto no art. 105, III, a , da Constituição de 1988.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. PROCESSUAL CIVIL. EXAME DE VIOLAÇÃO DE SÚMULA EM RECURSO ESPECIAL. IMPOSSIBILIDADE. ALIMENTOS. REVISIONAL. RETROAÇÃO À DATA DA CITAÇÃO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. A agravante realizou a impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial. Decisão da Presidência reconsiderada.
+2. Não é possível a abertura da instância especial por suposta violação a súmulas, por não se enquadrarem no conceito de lei federal, previsto no art. 105, III, "a", da Constituição Federal.
+3. "Os efeitos da sentença proferida em ação de revisão de alimentos - seja em caso de redução, majoração ou exoneração - retroagem à data da citação (Lei 5.478/68, art. 13, § 2º), ressalvada a irrepetibilidade dos valores adimplidos e a impossibilidade de compensação do excesso pago com prestações vincendas" (EREsp 1.181.119/RJ, Relatora p/ acórdão Min. MARIA ISABEL GALLOTTI, Segunda Seção, julgado em 27/11/2013, DJe de 20/6/2014).
+4. Agravo interno provido para reconsiderar a decisão agravada, e, em nova decisão, conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp n. 2.325.850/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+V - Conclusão
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
