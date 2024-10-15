@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao recurso.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO EM CONCURSO DE AGENTES. PRISÃO PREVENTIVA. CONDENAÇÃO MANTIDA EM SEGUNDA INSTÂNCIA. ANTECEDENTES CRIMINAIS. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Recurso em habeas corpus interposto contra decisão que manteve a prisão preventiva do paciente para garantia da ordem pública e aplicação da lei penal. A defesa interpôs recurso especial, inadmitido, seguido de agravo em recurso especial.
+II. Questão em discussão
+2. A questão em discussão consiste na legalidade e necessidade da manutenção da prisão preventiva do paciente.
+III. Razões de decidir
+3. A prisão preventiva foi fundamentada na garantia da ordem pública e para aplicação da lei penal.
+4. A análise do Tribunal de origem está alinhada com a jurisprudência desta Corte acerca das circunstâncias fáticas do caso concreto, que dão conta do preenchimento das condições previstas no art. 312 do CPP, notadamente para garantia da ordem pública e aplicação da lei penal, diante dos antecedentes criminais do agente, cujo somatório de pena totaliza 71 anos, e da condenação pelo tribunal do júri, mantida a sentença em segundo grau de jurisdição.
+IV. Dispositivo
+5. Recurso desprovido.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos.
+A defesa alega, em síntese, a ausência dos requisitos para a manutenção da custódia preventiva.
+Consta dos autos que o paciente está preso e foi condenado à pena de 15 anos de reclusão em regime fechado, pela prática de homicídio qualificado em concurso de agentes. O Tribunal de Justiça desproveu a apelação, estando pendente o julgamento do agravo em recurso especial interposto.
+Requer, liminar e definitivamente, o provimento do recurso para obter a revogação da prisão preventiva.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO EM CONCURSO DE AGENTES. PRISÃO PREVENTIVA. CONDENAÇÃO MANTIDA EM SEGUNDA INSTÂNCIA. ANTECEDENTES CRIMINAIS. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Recurso em habeas corpus interposto contra decisão que manteve a prisão preventiva do paciente para garantia da ordem pública e aplicação da lei penal. A defesa interpôs recurso especial, inadmitido, seguido de agravo em recurso especial.
+II. Questão em discussão
+2. A questão em discussão consiste na legalidade e necessidade da manutenção da prisão preventiva do paciente.
+III. Razões de decidir
+3. A prisão preventiva foi fundamentada na garantia da ordem pública e para aplicação da lei penal.
+4. A análise do Tribunal de origem está alinhada com a jurisprudência desta Corte acerca das circunstâncias fáticas do caso concreto, que dão conta do preenchimento das condições previstas no art. 312 do CPP, notadamente para garantia da ordem pública e aplicação da lei penal, diante dos antecedentes criminais do agente, cujo somatório de pena totaliza 71 anos, e da condenação pelo tribunal do júri, mantida a sentença em segundo grau de jurisdição.
+IV. Dispositivo
+5. Recurso desprovido.
+VOTO
+Sabe-se que "a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP)" (RHC 174.619/ES, Relator Ministro Sebastião Reis Júnior, 6ª Turma, j. em 11/04/2023, DJe 16/05/2023).
+O ordenamento jurídico vigente, em atenção ao princípio da presunção da inocência, consagra a liberdade do indivíduo como regra. Desse modo, a prisão antes do trânsito em julgado revela-se cabível tão somente quando, presentes as condições do art. 312 do CPP, estiver concretamente comprovada a existência do "fumus comissi delicti", aliado ao "periculum libertatis", sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+Além disso, "em razão de seu caráter excepcional, a prisão preventiva somente deve ser imposta quando incabível a substituição por outra medida cautelar menos gravosa, conforme disposto no art. 282 , § 6º , do CPP" (AgRg no HC 716.740/BA, Relator Ministro Joel Ilan Paciornik, 5ª Turma, j. em 22/03/2022, DJe 07/04/2022).
+No caso, a prisão preventiva foi mantida com base nos seguintes argumentos:
+No caso em comento, decretou-se a prisão do paciente para garantia da ordem pública e aplicação da lei penal e o processo encontra-se em grau de recurso, pois, após mantida a sentença condenatória por esta Corte em julgamento perante esta Terceira Câmara Criminal na sessão realizada em28.11.2023, a defesa interpôs recurso especial, este inadmitido (p.1469/14710), seguido de agravo em recurso especial (p.1485/1498) e aguarda decorrer prazo para o Ministério Público (parte agravada).
+Na hipótese sub judice, hei por bem transcrever trecho do decreto preventivo (p. 1018/1026, do processo na origem), nos seguintes termos:
+ ..  Em verdade, a ordem pública foi ferida, do ponto de vista que os réus, em liberdade tem sido uma ameaça concreta a paz social, tanto é que nos dias de hoje, os 3 (três) sentenciados estão presos e recolhidos em unidades prisionais deste Estado, seja em cumprimento de pena definitiva já transitada em julgado e também cumprido pena provisória ainda em grau de recurso, e também presos preventivamente em razão de decisões judiciais de outros Juízos. Ainda, temos outro fundamento para tal, qual seja, para assegurar a aplicação da lei penal, porque já estão presos por outros motivos, por dever de cooperação institucional, recomenda-se a segregação preventiva dos mesmos.
+Acrescente-se que os acusados foram submetidos a julgamento na condição de presos e a tendência do ser humano a partir de um julgamento deste jaez, até mesmo em atenção a observação atribuída a Jean Paul Sartre no sentido de "que o homem está condenado a ser livre" é de tentar escapar da aplicação da lei penal. Desse modo, por dever de cooperação institucional, para fins de aplicação da lei penal, com fundamento nos arts. 311, 312 e seguintes, todos do CPP, decreta-se a prisão preventiva de um e outro, porque, de todo prudente, após essa resposta Estatal inferida e materializada através da participação popular conferida à luz da Constituição Federal; Assim, como consequência, nego-lhes, pois, o direito de apelar soltos
+Na espécie, o magistrado embasou a necessidade da segregação cautelar do réu, a bem da ordem pública e aplicação da lei penal, tal qual exige a legislação vigente, tecendo argumentos idôneos e suficientes ao cárcere preventivo, com supedâneo na periculosidade do agente, pois reincidente com mais outras quatro condenações em cumprimento, conforme consulta ao processo de execução/SEEU n. 0409414-63.2010.8.06.0001, cujo somatório de pena totaliza 71 anos, 10 meses e 10 dias de reclusão, afigurando-se como insuficientes as medidas cautelares elencadas no art. 319, do Código de Processo Penal.
+ ..
+Assim, com base em elementos concretos, a prudência evidencia que, quando há forte indicativo de que a liberdade do paciente é, no momento, uma ameaça à ordem pública, urgindo, destarte, a adoção de medida constritiva capaz de refrear as condutas criminosas dos agentes, no desiderato maior de preservar a tranquilidade do cotidiano comunitário.
+A análise realizada pelo Tribunal de origem encontra-se em linha com a jurisprudência desta Corte acerca das circunstâncias fáticas do caso concreto, que dão conta do preenchimento das condições previstas no art. 312 do CPP, aliadas à proporcionalidade e à indispensabilidade da decretação da prisão preventiva, notadamente para garantia da ordem pública e aplicação da lei penal, diante dos antecedentes criminais do agente, cujo somatório de pena totaliza 71 anos, e da condenação pelo tribunal do júri, mantida a sentença em segundo grau de jurisdição.
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. HOMICÍDIO QUALIFICADO SEGREGAÇÃO CAUTELAR DEVIDAMENTE DECRETADA E FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. MAUS ANTECEDENTES. AÇÕES EM CURSO. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. PREPONDERANTES OS FUNDAMENTOS PARA MANUTENÇÃO DA PRISÃO. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do Agravante acarretaria risco à ordem pública, pois "destaca-se que o paciente responde a outra ação penal perante o mesmo juízo - por tráfico de drogas e posse de armas - e possui condenação por homicídio qualificado tentado", o que revela a indispensabilidade da imposição da segregação cautelar.
+III - Impende destacar que é iterativa a jurisprudência " ..  deste Superior Tribunal, a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar. Precedentes do STJ" (RHC n. 106.326/MG, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 24/04/2019).
+IV - Conforme a jurisprudência do col. Pretório Excelso, também enquadra-se no conceito de garantia da ordem pública a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, no intuito de impedir a reiteração delitiva.
+V - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo Regimental desprovido.
+(AgRg no HC n. 720.611/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 22/11/2022, DJe de 29/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CONDENAÇÃO. INDEFERIMENTO DO DIREITO DE RECORRER EM LIBERDADE. PACIENTE QUE RESPONDEU PRESO TODA A AÇÃO PENAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é assente no sentido de que, tendo o paciente permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação, fosse-lhe deferida a liberdade.
+2. A idoneidade dos fundamentos do decreto de prisão preventiva do ora paciente já foram ratificados por esta Corte Superior de Justiça quando do julgamento do RHC 125.379/MG. Na oportunidade, salientou-se que as instâncias ordinárias reconheceram a necessidade da prisão preventiva para a garantia da ordem pública a partir das circunstâncias concretas do caso, ressaltando a periculosidade do ora paciente, evidenciada pelo modus operandi, posto que, por motivo torpe e mediante recursos que dificultaram a defesa da vítima (traição e dissimulação), teria desferido uma facada na região do tórax da vítima, perfurando o coração deste e causando-lhe lesões que o levaram ao óbito.
+3. Não há constrangimento ilegal na manutenção da prisão preventiva quando demonstrado, com base em fatores concretos, que remanescem presentes os pressupostos autorizadores do art. 312 do Código de Processo Penal.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 786.117/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/12/2022, DJe de 14/12/2022.)
+Por fim, é assente nesta Corte que "tem-se por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura" (AgRg no HC 844.095/PE, Relator Ministro Ribeiro Dantas, 5ª Turma, j. em 18/12/2023, DJe 20/12/2023).
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+É o voto.
