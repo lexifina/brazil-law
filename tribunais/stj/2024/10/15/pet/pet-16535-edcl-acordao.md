@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Antonio Saldanha Palheiro, Messod Azulay Neto, Daniela Teixeira, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Joel Ilan Paciornik e Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO EM HABEAS CORPUS AUTUADO COMO PETIÇÃO. IMPOSSIBILIDADE DE UTILIZAÇÃO DOS EMBARGOS CONTRA ACÓRDÃO PROFERIDO EM SEDE MANDAMENTAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Inexiste omissão quando o acórdão é explícito ao afirmar que os embargos de divergência são cabíveis para impugnar os acórdãos prolatados pelos órgãos fracionários em sede de recurso especial, de modo que não é possível sua oposição contra julgados proferidos em outras classes processuais (como recurso em habeas corpus).
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+PEDRO RON CEITLIN opõe embargos de declaração contra o acórdão de fls. 623-625, que negou provimento ao agravo regimental, nos termos desta ementa (fl. 621):
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO EM HABEAS CORPUS AUTUADO COMO PETIÇÃO. IMPOSSIBILIDADE DE OPOSIÇÃO DO RECURSO CONTRA ACÓRDÃO PROFERIDO EM SEDE MANDAMENTAL OU DE RECURSO ORDINÁRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os embargos de divergência são cabíveis para impugnar os acórdãos prolatados pelos órgãos fracionários em sede de recurso especial, de modo que não é possível sua oposição contra julgados proferidos em outras classes processuais (como recurso em habeas corpus).
+2. Agravo regimental não provido.
+Em suas razões, o embargante alega, preliminarmente, a nulidade do julgamento por não haver sido intimado da inclusão do feito na pauta de julgamento. No mérito, afirma a possibilidade de oposição dos embargos de divergência contra acórdão proferido em habeas corpus ou recurso em habeas corpus.
+Requer seja dado efeitos infringentes "para que seja, preliminarmente, reconhecida a nulidade e realizado novo julgamento, com intimação quando da inclusão do feito na pauta de julgamentos e com possibilidade de realização de sustentação oral; ou, ao final, que sejam providos os embargos de declaração, para que sejam conhecidos os embargos de divergência; subsidiariamente, requer-se, ainda, o reconhecimento ex ofício da incidência do princípio da unicidade dos crimes falimentares" (fl. 636).
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO EM HABEAS CORPUS AUTUADO COMO PETIÇÃO. IMPOSSIBILIDADE DE UTILIZAÇÃO DOS EMBARGOS CONTRA ACÓRDÃO PROFERIDO EM SEDE MANDAMENTAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Inexiste omissão quando o acórdão é explícito ao afirmar que os embargos de divergência são cabíveis para impugnar os acórdãos prolatados pelos órgãos fracionários em sede de recurso especial, de modo que não é possível sua oposição contra julgados proferidos em outras classes processuais (como recurso em habeas corpus).
+2. Embargos de declaração rejeitados.
+VOTO
+De início, registro que " o  agravo regimental em matéria criminal é regido pelo art. 258 do RISTJ, que não estabelece a necessidade de prévia intimação de nenhuma das partes antes do julgamento, pois o recurso é apresentado em mesa e prescinde da publicação de pauta" (EDcl no AgRg no AREsp 2.576.574/PR. relator Ministro Ribeiro Dantas, DJe 13/8/2024, grifei). Além disso, no caso, não houve pedido expresso da defesa para realização de sustentação oral no julgamento do agravo regimental.
+Em relação ao mérito, destaco que os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos embargos de declaração, situação que não ocorre na espécie.
+De fato, na espécie, não há omissão. Observa-se que o acórdão foi explícito ao afirmar que os embargos de divergência são cabíveis para impugnar os acórdãos prolatados pelos órgãos fracionários em sede de recurso especial, de modo que não é possível sua oposição contra julgados proferidos em outras classes processuais (como recurso em habeas corpus).
+Tal compreensão encontra respaldo em pacífica orientação desta Corte, da qual destaco o seguinte aresto: "De acordo com o firmado na decisão agravada, nos termos dos arts. 1.043, I, II, do Código de Processo Civil e 266 do RISTJ, cabem embargos de divergência para impugnar os acórdãos prolatados pelos órgãos fracionários em recurso especial, sendo impossível sua oposição contra julgados proferidos em outras classes processuais" (AgRg na Pet n. 16.541/SC, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, DJe 26/6/2024).
+Ante o exposto, rejeito os embargos de declaração.
