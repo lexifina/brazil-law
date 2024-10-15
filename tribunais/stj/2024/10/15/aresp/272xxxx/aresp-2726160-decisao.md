@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de Agravo interposto por LILIAN PAULA CARDAN MIGUEL GONCALVES, à decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, da Constituição Federal.
+É o relatório.
+Decido.
+Por meio da análise do recurso de LILIAN PAULA CARDAN MIGUEL GONCALVES, verifica-se que o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, a qual dispõe que, nos processos recursais, o campo "Número do Processo que consta no Acórdão Recorrido" da GRU deverá ser preenchido com o número do processo no Tribunal de origem. No caso, a parte fez a indicação errônea desse número na guia de recolhimento das custas devidas ao STJ.
+Este Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo - consistente na indicação errônea do processo na origem -, no ato da interposição do Recurso Especial, caracteriza a sua deserção.
+Nesse sentido, os seguintes precedentes: AgInt no REsp 1587322/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 28.11.2019; AgInt no AREsp 916.926/MS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 21.11.2019; e AgInt no AREsp 1435121/PE, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 26.9.2019.
+Ademais, percebeu-se, no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, tendo em vista que a petição de regularização foi protocolada, na origem, sem a guia de recolhimento das custas devidas ao STJ, apesar de presente o comprovante de pagamento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 570.469/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 23.6.2020; AgInt no REsp 1807942/RO, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 11.5.2020; e AgInt no AREsp 1572490/SE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20.3.2020.
+Registre-se que, quando intimada para recolher as custas nos termos do art. 1.007 do CPC, a parte deve estar atenta à sua correta comprovação, uma vez que não há previsão legal para que uma nova intimação seja efetuada a fim de sanar novo vício decorrente dessa tentativa de regularizar o óbice. Por essa razão a guia juntada à fl. 164 não pode ser aceita para fins de regularização do preparo.
+Dessa forma, o Recurso Especial não foi devida e oportunamente preparado. Incide, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Quanto à devolução de valores, a título de preparo, recolhidos indevidamente, encaminhem-se os autos à Secretaria Judiciária (setor de Restituição de Custas) para verificação dos requisitos necessários ao atendimento do pedido, nos termos da Instrução Normativa STJ/GDG n. 3, de 5 de abril de 2017.
+Inexistindo óbice, fica desde já deferido o pedido de devolução da quantia recolhida indevidamente.
+Publique-se.
+Intimem-se.
+ EMENTA
