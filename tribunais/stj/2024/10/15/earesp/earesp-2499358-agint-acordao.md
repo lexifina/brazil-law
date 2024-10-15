@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 09/10/2024 a 15/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTROVÉRSIA DE MÉRITO NÃO ANALISADA PELO ACÓRDÃO EMBARGADO. INVIABILIDADE DOS EMBARGOS DE DIVERGÊNCIA. SÚMULA N. 315 DO STJ. REQUISITOS LEGAIS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. MATÉRIA DE ORDEM PÚBLICA. IMPOSSIBILIDADE DE ANÁLISE. AGRAVO INTERNO DESPROVIDO.
+1. São inviáveis os embargos de divergência quando o acórdão embargado nem sequer adentra o mérito do recurso especial, abstendo-se, assim, de fixar tese a respeito da questão federal controvertida (Súmula n. 315 do STJ).
+2. "Não tendo sido ultrapassado o juízo de admissibilidade dos embargos de divergência, descabe a apreciação das questões suscitadas no recurso, ainda que se trate de matéria de ordem pública" (AgInt nos EDcl nos EAREsp n . 503.161/PR, Primeira Seção).
+3. Agravo interno desprovido.
+RELATÓRIO
+USINA CERRADÃO S.A. interpõe agravo interno contra julgado da Presidência que, com amparo no art. 21-E, V, c/c o art. 266-C, ambos do Regimento Interno do Superior Tribunal de Justiça, indeferiu liminarmente os embargos de divergência diante da incidência da Súmula n. 315 do STJ, porquanto o acórdão embargado concluíra pela impossibilidade de análise do mérito recursal em razão da aus ência de impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial (fls. 1.539-1.540).
+Em suas razões, a parte argumenta que não há a incidência da Súmula n. 315 do STJ no presente caso, porquanto tal enunciado foi parcialmente superado com a vigência do CPC de 2015. Alega que o acórdão embargado apreciou a controvérsia, o que afasta o óbice aplicado.
+Sustenta, ademais, que a matéria tratada nos autos é de ordem pública, razão pela qual deve ser analisada a divergência apresentada. Por fim, repete a argumentação apresentada no recurso indeferido.
+Requer, assim, a reforma da decisão.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTROVÉRSIA DE MÉRITO NÃO ANALISADA PELO ACÓRDÃO EMBARGADO. INVIABILIDADE DOS EMBARGOS DE DIVERGÊNCIA. SÚMULA N. 315 DO STJ. REQUISITOS LEGAIS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. MATÉRIA DE ORDEM PÚBLICA. IMPOSSIBILIDADE DE ANÁLISE. AGRAVO INTERNO DESPROVIDO.
+1. São inviáveis os embargos de divergência quando o acórdão embargado nem sequer adentra o mérito do recurso especial, abstendo-se, assim, de fixar tese a respeito da questão federal controvertida (Súmula n. 315 do STJ).
+2. "Não tendo sido ultrapassado o juízo de admissibilidade dos embargos de divergência, descabe a apreciação das questões suscitadas no recurso, ainda que se trate de matéria de ordem pública" (AgInt nos EDcl nos EAREsp n . 503.161/PR, Primeira Seção).
+3. Agravo interno desprovido.
+VOTO
+Os presentes autos ascenderam a esta Corte pela via de agravo em recurso especial, do qual a Ministra relatora não conheceu porquanto não foram impugnados todos os fundamentos da inadmissão do recurso especial, atraindo a incidência do óbice da Súmula n. 182 do STJ (fls. 1.340-1.341).
+Interposto agravo interno, foi desprovido pela Terceira Turma em acórdão que recebeu a seguinte ementa (fl. 1.374):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM COMPENSAÇÃO POR DANO MORAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação declaratória de inexistência de débito cumulada com compensação por dano moral.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de inadmissibilidade: i) consonância entre o acórdão recorrido e a jurisprudência do STJ (incidência da Súmula 83/STJ) e ii) incidência da Súmula 7/STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+Os embargos de declaração subsequetemente opostos foram rejeitados com aplicação de multa (fls. 1.407-1.409).
+Foi, então, apontada divergência com acórdão paradigma da Terceira Turma (AgRg no AREsp n. 440.165/RS), relativamente à indenização por dano moral.
+A Presidência desta Corte indeferiu liminarmente os embargos de divergência diante da incidência da Súmula n. 315 do STJ, porquanto o acórdão embargado concluíra pela impossibilidade de análise do mérito recursal em razão da ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial (fls. 1.539-1.540).
+De fato, está correta a aplicação da Súmula n. 315 do STJ.
+É que a tese a respeito da qual se alega divergência não foi objeto de exame pelo acórdão embargado. Anote-se que do agravo em recurso especial não se conheceu devido à falta de impugnação específica de todos os fundamentos da decisão que inadmitira o recurso especial.
+Assim, não tendo o acórdão embargado emitido tese alguma a respeito da questão objeto da divergência, de que trata o acórdão paradigma, não há como reconhecer presente similitude fático-jurídica apta a justificar o cabimento dos embargos de divergência.
+Nesse sentido, os seguintes precedentes :
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DISSÍDIO NÃO DEMONSTRADO. REGRA TÉCNICA DE CONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 315 DO STJ.
+1. Revela-se inviável rever - em embargos de divergência - o conhecimento do recurso, uma vez que o agravo em recurso especial foi improvido em decorrência do óbice da Súmula n. 182/STJ.
+2. Aplica-se ao caso dos autos a Súmula n. 315/STJ, que assim dispõe: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3. Os embargos de divergência, caracterizados como recurso de fundamentação vinculada, devem, necessariamente, demonstrar o confronto de teses entre o acórdão embargado e aquele apontado como paradigma, não sendo possível sua interposição com intuito de mera rediscussão do quanto já decidido em recurso especial.
+Agravo interno improvido. (AgInt nos EAREsp n. 2.240.007/GO, relator Ministro Humberto Martins, Corte Especial, julgado em 29/11/2023, DJe de 7/12/2023.)
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AGRAVO EM RECURSO ESPECIAL. MÉRITO DO RECURSO ESPECIAL NÃO EXAMINADO NO ACÓRDÃO EMBARGADO. INCIDÊNCIA DA SÚMULA N.º 315 DESTA CORTE SUPERIOR. PRECEDENTES.
+1. Não há divergência passível de ensejar o conhecimento dos embargos de divergência, quando o acórdão embargado nega provimento ao agravo regimental com base na Súmula 182 desta Corte Superior.
+2. Incidência da Súmula 315 do STJ, segundo a qual "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3. A certidão de julgamento compõe o inteiro teor do acórdão, não se admitindo para comprovação da divergência julgado dela desacompanhado. Jurisprudência da Corte Especial.
+4. Agravo interno a que se nega provimento. (AgInt nos EAREsp n. 1.570.899/MS, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 8/3/2023, DJe de 15/3/2023.)
+Ademais, quanto ao argumento de que os embargos de divergência tratam de matéria de ordem pública, razão pela qual caberia o conhecimento de ofício, deve-se registrar que não houve decisão de mérito no âmbito do Superior Tribunal de Justiça, de modo que, não tendo sido ultrapassado o juízo de admissibilidade dos embargos de divergência, inviável o exame de questões meritórias, ainda que se trate de matéria de ordem pública. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. CONHECIMENTO DE ALEGADO FATO NOVO. IMPOSSIBILIDADE. COGNIÇÃO RESTRITA DESSA ESPÉCIE RECURSAL.
+1. Ausentes os vícios do art. 1.022 do CPC/15, é impositiva a rejeição dos embargos de declaração.
+2. Não ultrapassado o juízo de admissibilidade do agravo interno, em razão da aplicação da Súmula 182/STJ, não houve, evidentemente, o enfrentamento das alegações recursais, circunstância que, todavia, não implica omissão do julgado, tampouco negativa de prestação jurisdicional por parte desta Corte.
+3. Os embargos de divergência constituem recurso de fundamentação vinculada e de cognição restrita, sendo vedado, nessa via excepcional, analisar qualquer outra questão que não tenha sido objeto de dissídio entre os acórdãos em cotejo. Precedentes da Corte Especial.
+4. Embargos de declaração rejeitados. (EDcl no AgInt nos EDv nos EDcl no AgInt nos EAREsp n. 1.764.848/RS, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 6/12/2021, DJe de 9/12/2021, destaquei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. JURISPRUDÊNCIA DO STJ. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte, amparada no art 1.043, § 4º, do Código de Processo Civil de 2015 e no art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, consolidou-se no sentido de que o recorrente, para comprovar a existência de dissídio em sede de embargos de divergência, deve proceder às seguintes providências: a) juntada de certidões; b) apresentação de cópias do inteiro teor dos acórdãos apontados como paradigmas; c) citação do repositório oficial autorizado ou credenciado no qual eles se achem publicados, inclusive em mídia eletrônica; e (d) reprodução de julgado disponível na rede mundial de computadores com a indicação da respectiva fonte.
+2. Na hipótese dos autos, os embargantes se limitaram a transcrever as ementas dos julgados paradigmas, deixando de juntar o inteiro teor dos acórdãos paradigmas (relatório, voto, ementa/acórdão e certidão de julgamento). Dessa forma, não cumpriram regra técnica do presente recurso, o que constitui vício substancial insanável. A propósito: AgInt nos EAREsp 1416975/SP, Rel. Ministro Jorge Mussi, Corte Especial, DJe 16/08/2021 AgInt nos EDv nos EREsp 1784262/RJ, Rel. Ministro Sérgio Kukina, 1ª Seção, DJe 20/08/2021.
+3. Ademais, importa notar que os embargos de divergência têm como escopo a uniformização interna da jurisprudência deste Superior Tribunal de Justiça, exigindo pronunciamento de órgão colegiado, sendo inadmissível, portanto, a colação de decisões monocráticas como paradigmas.
+4. Acrescente-se, ainda, que, conforme jurisprudência desta Corte Superior, não tendo sido ultrapassado o juízo de admissibilidade dos embargos de divergência, descabe a apreciação das questões suscitadas no recurso, ainda que se trate de matéria de ordem pública. No mesmo sentido:REsp 1469761/PR, Rel. Ministro Og Fernanda, Segunda Turma, DJe 18/12/2020; EDcl no AgInt no AREsp 1640466/SC, Rel. Ministro Ricardo Villas Bôas Cueva, 3ª Turma. DJe 17/12/2020.
+5. Agravo interno não provido. (AgInt nos EDcl nos EAREsp n. 503.161/PR, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 16/11/2021, DJe de 19/11/2021, destaquei.)
+Ante o exposto, nego provimento ao agravo interno .
+É o voto.
