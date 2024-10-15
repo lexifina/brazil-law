@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Agravo apresentado pelo ESTADO DE SÃO PAULO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+EXECUÇÃO FISCAL - EMBARGOS - MULTA AMBIENTAL - FALÊNCIA DA EMPRESA DECRETADA - MASSA FALIDA - GARANTIA DO JUÍZO - PENHORA NO ROSTO DOS AUTOS DA AÇÃO DE FALÊNCIA - ADMISSIBILIDADE - EXCESSO DE EXECUÇÃO - RECONHECIMENTO - JUROS E CORREÇÃO MONETÁRIA QUE SÓ DEVEM INCIDIR, APÓS A QUEBRA, EM CASO DE SUFICIÊNCIA DO ATIVO PARA O PAGAMENTO DO PRINCIPAL - NÃO OCORRÊNCIA NO CASO - HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - FIXAÇÃO DE ACORDO COM O ART. 85, § 3º, I, DO CPC - SENTENÇA DE PROCEDÊNCIA - MANTIDA - RECURSO NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente aduz, além de divergência jurisprudencial, ofensa ao art. 124 da Lei n. 11.101/2005 e ao art. 884 do Código Civil , no que concerne à possibilidade de "incidência ou não de correção monetária após a data da quebra, em débito não tributário (não corrigido pela SELIC), para fins de penhora no rosto dos autos do processo falimentar" (fls. 269), devendo-se levar em conta que a não incidência resultaria no enriquecimento sem causa da parte recorrida, trazendo a seguinte argumentação:
+Pela literalidade do art. 124, da Lei 11.101/05, a exceção à não incidência de encargos após a data da quebra, quando não há suficiência do ativo para pagar o principal, referem-se expressamente aos juros.
+ ..
+Pela leitura do dispositivo, os juros apenas incidem após a quebra se houver suficiência do ativo. Mas nada trata a respeito da correção monetária, que pode incidir após a quebra independentemente da suficiência do ativo.
+Assim, a vedação à incidência de correção monetária após a data da quebra desconsidera totalmente a redação do referido dispositivo legal. (fls. 279).
+Os precedentes do STJ utilizados no acórdão recorrido não se aplicam ao caso, pois dizem respeito a débitos atualizados pela SELIC, índice federal que abrange atualização monetária e juros de mora a um só tempo, não cabendo o decote de um ou de outro.
+Já o débito ora executado é dívida não tributária (multa ambiental), cujo índice de atualização monetária é a UFESP e os juros de mora são 1% ao mês, conforme descritos na Certidão de Dívida Ativa.
+Desta forma, perfeitamente possível o decote da atualização monetária dos juros de mora.
+Para débitos cujos encargos não são a SELIC, isto é, débitos corrigidos por índice de correção monetária como UFESP ou IPCA e juros de mora de 1% ao mês, o STJ também tem precedentes acolhendo a tese da possibilidade de incidência de correção monetária após a data da quebra. (fls. 280-281).
+Dada a semelhança entre os dispositivos, percebe-se que houve continuidade legislativa, de modo que não há razão para alteração da jurisprudência que admite a correção monetária após a data da quebra.
+Seguindo. A violação ao art. 884 do CC/02 decorre da corrosão do poder de compra, que não é recomposto, acarretando enriquecimento indevido para a massa falida.
+ ..
+A correção monetária não é nenhum ganho ao credor, mas tão somente evitar a perda.
+A preservação do poder aquisitivo nada mais é do que aplicação do princípio da vedação ao enriquecimento sem causa. Com efeito, tendo uma dívida que não é atualizada por anos, certo é que a parte inadimplente estará se enriquecendo indevidamente.
+Isso dito, conclui-se que a aplicação conjugada dos dois dispositivos (art. 884 do Código Civil e 124 da LFR) importa que não será possível empobrecer o credor da falência, retirando-lhe a garantia da preservação do poder aquisitivo, enquanto gera enriquecimento sem causa ao devedor, por injustificada estagnação da dívida no tempo. (fls. 282).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente, no sentido de que, no presente caso, não haveria utilização da SELIC, por se tratar de dívida não tributária, sendo possível, por tais motivos, a aplicação da correção monetária, tampouco foi abordado o fundamento relativo ao enriquecimento sem causa.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ademais, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento da tese recursal objeto da divergência, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional.
+Nesse sentido: "A ausência de debate, no acórdão recorrido, acerca da tese recursal, também inviabiliza o conhecimento do recurso especial pela divergência jurisprudencial, pois, sem discussão prévia pela instância pretérita, fica inviabilizada a demonstração de que houve adoção de interpretação diversa". (AgRg no AREsp n. 1.800.432/DF, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 25.3.2021.)
+Sobre o tema, confira-se ainda o seguinte julgado: AgInt no AREsp n. 1.516.702/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17.12.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+EMENTA
