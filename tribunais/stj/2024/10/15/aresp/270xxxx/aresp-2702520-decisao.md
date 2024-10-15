@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MAQTIM MÁQUINAS LTDA. contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de Santa Catarina, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO POR QUANTIA CERTA. BLOQUEIO DE VALORES VIA SISBAJUD. ALEGAÇÃO DA EMPRESA EXECUTADA DE QUE A QUANTIA SERIA DESTINADA AO PAGAMENTO DE SALÁRIOS, TRIBUTOS E FORNECEDORES. INSUBSISTÊNCIA. PROTEÇÃO LEGAL DA IMPENHORABILIDADE VOLTADA AO DEVEDOR PESSOA FÍSICA. INTERPRETAÇÃO EXTENSIVA QUE DEPENDE DE PROVA IRREFUTÁVEL SOBRE A DESTINAÇÃO DO MONTANTE CONSTRITO, SOBRETUDO A PARTIR DO PANORAMA GERAL DAS RECEITAS E DESPESAS DA EMPRESA. TESE DE QUE A PENHORA CONSISTIU EM MEDIDA EXCESSIVAMENTE GRAVOSA. ARGUMENTO INFUNDADO. AUSÊNCIA DE INDICAÇÃO DE OUTRO MEIO EFICAZ E MENOS ONEROSO. RECURSO CONHECIDO E DESPROVIDO.
+As hipóteses de impenhorabilidade de valores, previstas nos incisos IV e X do art. 833 do CPC, consistem em proteção legal que favorece estritamente a pessoa física executada. Logo, a interpretação extensiva à pessoa jurídica depende de prova indubitável sobre a destinação da quantia bloqueada para pagamento de salários.
+A análise da impenhorabilidade sobre o valor bloqueado em conta de pessoa jurídica não pode ser feita de maneira isolada. Tal quantia pode ser tida como irrisória ou exorbitante, tudo a depender do contexto em que realizada, isto é, em face das provas das receitas e despesas. Ausente esse balanço contábil, não há como supor que a quantia constrita seria a única disponível para o pagamento das obrigações da empresa devedora, tais como salários, tributos, fornecedores, etc.
+A substituição de penhora por alegação de gravidade da medida executiva depende de indicação, pelo devedor, de outro meio mais eficaz e menos oneroso (CPC, art. 805, parágrafo único).
+MAQTIM MÁQUINAS LTDA. interpôs recurso especial com base no art. 105, III, c, da CF, apontando dissídio jurisprudencial acerca da interpretação dada ao artigo 833 do CPC, ao argumento de que os numerários mantidos em conta corrente seriam destinados ao custeio da folha de pagamento dos funcionários, tributos e fornecedores, de forma que não deveriam ter sidos bloqueados, no presente caso.
+O recurso especial não foi admitido pelo Tribunal de Justiça de Santa Catarina, por incidir, no caso, o teor da Súmula nº 7 desta Corte (e-STJ, fls. 152/154).
+Nas razões do presente agravo, MAQTIM MÁQUINAS LTDA. refuta os termos da decisão de inadmissibilidade do recurso especial (e-STJ, fls. 162/170).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Do dissídio jurisprudencial suscitado
+MAQTIM MÁQUINAS LTDA. apontou dissídio jurisprudencial acerca da interpretação dada ao artigo 833 do CPC, ao argumento de que os numerários mantidos em conta corrente seriam destinados ao custeio da folha de pagamento dos funcionários, tributos e fornecedores, de forma que não deveriam ter sidos bloqueados, no presente caso.
+Todavia, encontra-se consignado no acórdão recorrido que:
+No caso, a agravante afirma que o montante constrito em suas contas bancárias serviria para o pagamento de tributos, salário de funcionários e fornecedores.
+Para tanto, carreou aos autos documentos de arrecadação do Simples Nacional, guias de DARE/SC e DARF, prints de sistema com indicação de boletos em favor de terceiros (discriminados no "Relatório Títulos DDA") e demonstrativos de pagamento de salário de seus funcionários (evento 25, da origem).
+Contudo, entendo que ausente prova concreta e efetiva sobre a destinação dos valores, justamente na esteira dos argumentos da agravada, isto é, falta de juntada de balanço patrimonial, livro-caixa ou qualquer outro documento contábil.
+De fato, a análise sobre o destino da quantia constrita não pode ser feita de forma isolada, sem um panorama geral das contas da empresa. Ora, a agravante deveria ter carreado ao feito prova inequívoca das receitas e despesas mensais, sobretudo dos valores gastos para os alegados pagamentos (salários, tributos e fornecedores).
+(..)
+Isso por que a análise da impenhorabilidade sobre o valor bloqueado em conta de pessoa jurídica não pode ser feita de maneira isolada. Tal quantia pode ser tida como irrisória ou exorbitante, tudo a depender do contexto em que realizada, isto é, em face das provas das receitas e despesas. Ausente esse balanço contábil, não há como supor que a quantia constrita seria a única disponível para o pagamento das obrigações da empresa devedora, tais como salários, tributos, fornecedores, etc (e-STJ Fl.87).
+Analisando as alegações da recorrente e os fundamentos lançados no acórdão recorrido, conclui-se que a análise da controvérsia, para seu subsequente deslinde, demandaria necessária incursão nos fatos da causa, hipótese vedada, nesta sede, conforme o teor da Súmula nº 7 do STJ.
+O recurso, portanto, não merece que dele se conheça.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+P ublique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. QUANTIA CERTA. EXECUÇÃO. BLOQUEIO DE VALORES. PRETENSÃO DE IMPENHORABILIDADE. ALEGAÇÃO DE ESSENCIALIDADE. AFASTAMENTO. DESCONSTITUIÇÃO DOS TERMOS DO ACÓRDÃO RECORRIDO. MPOSSIBILIDADE. REEXAME DOS ASPECTOS FÁTICOS DA CONTROVÉRSIA. VEDAÇÃO. SÚMULA Nº 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
