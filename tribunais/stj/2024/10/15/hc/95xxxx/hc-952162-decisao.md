@@ -1,0 +1,24 @@
+DECISÃO
+ELIEZIO OLIVEIRA DE BRITO aponta constrangimento ilegal decorrente de acórdão proferido pelo Tribunal de Justiça do Estado do Piauí no HC n. 0757900-82.2024.8.18.0000.
+A  defesa  postula,  em  liminar e no mérito,  a  soltura  do  paciente, - acusado da prática do delito de roubo majorado,  ao  argumento  de  que  não  estão  presentes  os  requisitos  da  custódia  cautelar, nos termos do art. 312 do CPP.
+Decido.
+A decisão que decretou a prisão preventiva do agente  mencionou  o seguinte:
+No presente caso, verifica-se, em consulta ao sistema THEMIS WEB, que os representados ELIEZIO OLIVEIRA DE BRITO e FRANCISCA RAVENA SILVA BRITO, constam em inquérito policial em curso inclusive tendo sua prisão preventiva decretada conforme decisão nos autos do processo n.º0000131-84.2018.0060.
+Assim, na espécie, não existe dúvida a macular um decreto preventivo em face dos representados nestes autos, tendo como fundamento a garantia da ordem pública, e pela reiteração de ações criminosas desenvolvidas pelos representados, considerando as condutas perpetradas, conforme informações fornecidas pelo sistema THEMIS-Web do TJ/PI ( nº:0000131-84.2018.0060), que os representados, respondem, ainda, pelo cometimento da mesma espécie de delito aguardando os processos em liberdade, demonstrando, portanto, uma propensão à reiteração delitiva, vilipendiando, portanto, a ordem pública.
+ ..
+Verifico, ainda, que posto em liberdade, os acusados poderão incidir novamente na prática de crimes, colocando em risco mais uma vez a ordem pública.
+Além disso, uma vez que demonstrada a gravidade concreta, em razão da violência perpetrada com uso de arma de fogo, concurso de pessoa e o modus operandi, não restando alternativa senão decretação da prisão preventiva dos acusados, como garantia da ordem pública e reiteração delitiva (fls. 128-129, grifei).
+O pedido de revogação da medida extrema foi indeferido, nos seguintes termos:
+A respeito da periculosidade dos representados restam demonstradas, uma vez que existem informações colhida através do sistema THEMIS WEB que os acusados respondem a outros processos criminais, o que demonstra uma certa reiteração delitiva, além da forma como o delito foi executado, se tratando do crime de roubo majorado mediante grave ameaça e emprego de arma de fogo.
+Ressalta-se que consta inquérito policial em curso inclusive tendo suas prisões preventivas serem decretadas conforme decisão nos autos do processo n.º0000131-84.2018.0060.
+Assim, para se evitar cometimento de novas infrações, válida se configura a prisão cautelar para que assegurar a garantia da ordem pública (art. 312, do CPP), evitando a reiteração de crimes dessa natureza (fl. 184, destaquei).
+A Corte local denegou a ordem, pois "o paciente possui mandado de prisão em aberto desde 2018, época em que evadiu-se da prisão, pondo em risco, conforme aduzido pelo magistrado, aplicação da lei penal " (fl. 1.066, sublinhei).
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, ao indicar o periculum libertatis na soltura do acusado, diante da indicação de reiteração delitiva.
+O STJ, em casos similares, entende que a existência de inquéritos policiais, ações penais em curso e condenações pretéritas denotam a necessidade de se acautelar a ordem pública, ante o risco concreto de recidiva criminosa.
+Confira-se: " o  risco concreto de reiteração delitiva, demonstrado pela existência de maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou ações penais em curso, pode justificar a imposição da prisão preventiva devido à necessidade de se assegurar a ordem pública" (RHC n. 128.993/PI, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/12/2020).
+Em razão das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais. Nesse sentido: " a dequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública" (AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018).
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
