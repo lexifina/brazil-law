@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PRESCRIÇÃO VIRTUAL. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. MAUS ANTECEDENTES. FALTA DE PREQUESTIONAMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há previsão legal para o reconhecimento da prescrição da pretensão punitiva com base na pena hipotética. Aplicação da Súmula n. 438 do STJ.
+2. No caso, o Tribunal de origem, em consonância com entendimento do STJ, afastou a ausência de interesse de agir da acusação, porque estava amparada na provável ocorrência da prescrição, com base na pena hipoteticamente aplicada, em caso de eventual condenação. A economia de recursos públicos e a eficiência processual não justificam a adoção de instituto não previsto em lei.
+3. A matéria referente à exclusão dos maus antecedentes não foi prequestionada na instância antecedente, o que torna inadmissível o recurso especial, conforme as Súmulas n. 282 e 356 do STF.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JULIO CEZAR QUEIROZ PLACIDO agrava da decisão de fls. 322-325, em que conheci do agravo para negar provimento ao recurso especial.
+A defesa reitera as razões recursais a fim de reconhecer a minorante do tráfico privilegiado, prevista no art. 33, § 4º, da Lei n. 11.343/2006, e a posterior decretação da extinção da punibilidade pela prescrição virtual.
+Requer a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PRESCRIÇÃO VIRTUAL. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. MAUS ANTECEDENTES. FALTA DE PREQUESTIONAMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há previsão legal para o reconhecimento da prescrição da pretensão punitiva com base na pena hipotética. Aplicação da Súmula n. 438 do STJ.
+2. No caso, o Tribunal de origem, em consonância com entendimento do STJ, afastou a ausência de interesse de agir da acusação, porque estava amparada na provável ocorrência da prescrição, com base na pena hipoteticamente aplicada, em caso de eventual condenação. A economia de recursos públicos e a eficiência processual não justificam a adoção de instituto não previsto em lei.
+3. A matéria referente à exclusão dos maus antecedentes não foi prequestionada na instância antecedente, o que torna inadmissível o recurso especial, conforme as Súmulas n. 282 e 356 do STF.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito das ponderações do agravante, considero ser o caso de manter o posicionamento manifestado.
+No decisum agravado, ressaltei que, a despeito de a parte alegar que o feito foi extinto em razão do reconhecimento da ausência de interesse de agir do Parquet, a questão a ser decidida refere-se à possibilidade de extinção da punibilidade pela prescrição baseada na pena em perspectiva.
+Consignei que esta Corte Superior não admite a extinção da punibilidade pela prescrição da pretensão punitiva tendo por base a pena hipotética, também conhecida como prescrição virtual, conforme entendimento consolidado no enunciado sumular n. 438:
+É inadmissível a extinção da punibilidade pela prescrição da pretensão punitiva com fundamento na pena hipotética, independentemente da existência ou sorte do processo penal.
+Nesse sentido, mencionei os seguintes precedentes:
+ ..
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, pois em consonância com a jurisprudência desta Corte.
+2. Esta Corte consolidou o entendimento no sentido de que não é possível o reconhecimento da prescrição antecipada, por ausência de previsão legal, nos termos da Súmula 438/STJ.3. Agravo regimental improvido.
+(AgRg no RHC 122.881/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/3/2020)
+ ..
+1. O "Superior Tribunal de Justiça e o Supremo Tribunal Federal são firmes na compreensão de que falta amparo legal à denominada prescrição em perspectiva, antecipada ou virtual, fundada em condenação apenas hipotética" (AgRg nos EDcl no REsp 1820788/AM, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/10/2019, DJe 10/10/2019). Precedentes.
+2. Nos termos da Súmula n.438/STJ, "é inadmissível a extinção da punibilidade pela prescrição da pretensão punitiva com fundamento em pena hipotética, independentemente da existência ou sorte do processo penal".3. Por se encontrar o acórdão recorrido em consonância com jurisprudência firmada nesta Corte, a pretensão do agravante esbarra no óbice da Súmula n. 83/STJ.4. Agravo regimental ao qual se nega provimento.
+(AgRg no AREsp 1526684/RS, Rel. Ministro Jorge Mussi, 5ª T., DJe 3/12/2019)
+A matéria também está pacificada no âmbito do Supremo Tribunal Federal, inclusive, sob a sistemática da repercussão geral:
+AÇÃO PENAL. Extinção da punibilidade. Prescrição da pretensão punitiva "em perspectiva, projetada ou antecipada". Ausência de previsão legal. Inadmissibilidade. Jurisprudência reafirmada. Repercussão geral reconhecida. Recurso extraordinário provido. Aplicação do art. 543-B, § 3º, do CPC. É inadmissível a extinção da punibilidade em virtude de prescrição da pretensão punitiva com base em previsão da pena que hipoteticamente seria aplicada, independentemente da existência ou sorte do processo criminal.
+(RG na QO no RE n. 602.527/RS, Rel. Ministro Cezar Peluso, Repercussão Geral, DJe 18/12/2009)
+ ..
+1. O STF consagrou ser "inadmissível a extinção da punibilidade em virtude da decretação da prescrição em perspectiva, projetada ou antecipada", com base em previsão da pena que hipoteticamente seria aplicada, independentemente da existência ou sorte do processo criminal. (RE nº 602.527-QO, Rel. Min. Cezar Peluso, DJe 17.12.2009).
+2. Inadmissível reconhecimento e declaração da prescrição enquanto não definida adequadamente por meio da persecução penal a extensão temporal dos ilícitos.
+3. Elementos carreados aos autos que autorizam a continuidade da investigação.
+ ..
+5. Agravo desprovido, com determinação de baixa imediata dos autos.
+(Inq 4434 AgR, Rel. Ministra Rosa Weber, 1ª T., DJe 24/6/2020)
+A alegada eficiência processual ou a economia de recursos públicos não autoriza a adoção de procedimento (instituto) não previsto na legislação para dar fim ao processo.
+Não há, pois, particularidade do caso concreto (distinguishing) que justifique a não aplicação da jurisprudência predominante nesta Corte Superior de Justiça, assim como não há falar em superação desse entendimento (overruling), visto que estabelecido sob a sistemática da repercussão geral pelo Supremo Tribunal Federal e sem nenhum indicativo de alteração dessa posição.
+Desse modo, não verifico razões para que seja amparada a pretensão recursal, em homenagem ao princípio da segurança jurídica. A observância aos precedentes garante ao jurisdicionado a certeza do posicionamento do Judiciário em relação a determinada matéria posta em juízo e evita, com isso, a prolação de decisões contraditórias.
+A interpretação uniforme das leis faz com que exista uma ordem jurídica mais coerente, mais estável, com maior previsibilidade quanto à interpretação adotada pelo Poder Judiciário.
+Reafirmo, portanto, que o Tribunal de origem decidiu em consonância com o entendimento desta Corte, razão pela qual o julgado deve ser mantido.
+Em relação à causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, verifica-se que o pleito de afastamento dos maus antecedentes não foi debatido na instância ordinária, o que atrai a incidência das Súmulas n. 282 e 356 do STF.
+Além disso, conforme mencionei na decisão agravada, a análise da questão necessitaria de dilação probatória e revolvimento de fatos e provas, sobretudo para verificação da data dos fatos e do trânsito em julgado da condenação anterio r, providência incabível no recurso especial, a teor da Súmula n. 7 do STJ.
+Ademais, ressaltei que o exame da matéria será apreciada na origem após o término da instrução processual a fim de fundamentar a fixação da pena-base e eventual incidência da causa de diminuição prevista no art. 33, § 4º, da Lei de Drogas.
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
