@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de MICHAEL PEDRO RIBEIRO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação Criminal n. 1501581-45.2023.8.26.0559.
+Consta dos autos que o paciente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, e no art. 16, § 1º, IV, da Lei n. 10.826/2003, ambas as condutas na forma do art. 69 do Código Penal, à pena de 8 (oito) anos de reclusão, em regime inicial fechado, e 510 (quinhentos e dez) dias-multa, devido à apreensão de 88,02g de cocaína, distribuídas em 182 porções, arma de fogo com numeração raspada (revólver) e munição.
+Foi interposto recurso de apelação em que a Defesa requereu a reforma da sentença no que tange ao regime inicial fixado, o que foi mantido pelo Tribunal de Justiça de São Paulo.
+Neste writ, o impetrante alega ausência de motivação idônea, porquanto tanto para a fixação do regime fechado, quanto para a exasperação da pena-base, fez-se alusão apenas à gravidade abstrata do tipo penal.
+Destaca que o paciente é primário e não ostenta maus antecedentes, alegando, ser cabível o art. 33, § 2º, "b", do Código Penal, que permite o início da reprimenda no regime semiaberto.
+Requer, liminarmente e no mérito, a concessão da ordem para reformar o acórdão e fixar o regime inicial no semiaberto.
+Liminar indeferida (fls. 62-63).
+Foram prestadas informações às fls. 68-91.
+O Ministério Público Federal manifestou-se às fls. 93-94, opinando pela denegação da ordem.
+É o relatório.
+DECIDO.
+De acordo com informações prestadas (fl. 68), verifico que o presente habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, já transitado em julgado. Diante dessa situação, não deve ser conhecido o presente writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Com efeito, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, "as revisões criminais e as ações rescisórias de seus julgados" (STJ, AgRg no HC 573.735/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/04/2021, DJe 30/04/2021; AgRg no HC 610.106/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021; HC 512.674/CE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, decisão monocrática, DJe 30/05/2019; HC 482.877/SP, Rel. Ministro JORGE MUSSI, decisão monocrática, DJe 29/03/2019; HC 675.658/PR, Ministro RIBEIRO DANTAS, decisão monocrática, DJe 04/08/2021; HC 677.684/SP, Ministro ANTONIO SALDANHA PALHEIRO, decisão monocrática, 02/08/2021, v.g.).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, isso porque, de acordo com o entendimento consolidado do Superior Tribunal de Justiça, a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade (AgRg no HC 710.060/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021).
+Ademais,  a  quantidade e a natureza da droga apreendida constituem fundamentos aptos a ensejar a exasperação da pena-base, por demonstrar maior reprovabilidade da conduta (AgRg no AREsp n. 674.735/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 13/12/2016, DJe de 19/12/2016).
+Por fim, de acordo com o entendimento consolidado do Superior Tribunal de Justiça, " n ão há ilegalidade na imposição de regime inicial fechado ao réu con denado a pena inferior a 8 anos se presente circunstância judicial desfavorável, nos termos dos arts. 33, §§ 2º, "c", e 3º, e 59 do Código Penal" (AgRg no HC n. 667.860/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/06/2021, DJe 28/06/2021).
+Ante o exposto, não conheço do pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
