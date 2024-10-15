@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUCIANO DE ASSIS FEITOSA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 0002623-81.2022.8.26.0320.
+Consta dos autos que o paciente foi condenado à pena de 03 (três) anos e 06 (seis) meses de reclusão, em regime inicial semiaberto, e ao pagamento de 11 (onze) dias-multa, como incurso nos arts. 180, § 1º, e 288, na forma do art. 69, todos do Código Penal.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, tendo em vista o direito do paciente à substituição da pena privativa de liberdade por restritiva de direitos, considerando que o réu foi condenado pelo delito de tráfico de drogas, com trânsito em julgado no ano de 2012 e pena extinta em 2016. Assim, além de serem crimes com bens jurídicos distintos, já se passaram mais de 8 anos entre um delito e outro, não havendo, portanto, que se falar em reincidência (fl. 5).
+Requer, liminarmente, que seja assegurada a liberdade do paciente, impedindo a decretação de sua prisão (fl. 6). No mérito, pugna pela concessão da ordem para substituir a pena privativa de liberdade por restritiva de direitos.
+Liminar  indeferida  às  fls.  45/46.
+Foram  prestadas  informações  às  fls.  52/56 e 57/109.
+O  Ministério  Público  Federal  manifestou-se  à  fls.  113/116,  opinando  pela  denegação  da  ordem.
+É  o  relatório.
+DECIDO.
+De  acordo  com  as  informações  prestadas  pela Corte  de  origem  (fl.  58),  verifico  que  o  presente  habeas  corpus  foi  impetrado  contra  acórdão  do  Tribunal de Justiça do Estado de São Paulo,  já  transitado  em  julgado.  Diante  dessa  situação,  não  deve  ser  conhecido  o  presente  writ,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte.
+Com  efeito,  nos  termos  do  art.  105,  inciso  I,  alínea  e,  da  Constituição  da  República,  compete  ao  Superior  Tribunal  de  Justiça  decidir,  originariamente,  "as  revisões  criminais  e  as  ações  rescisórias  de  seus  julgados"  (STJ,  AgRg  no  HC  573.735/SP,  Rel.  Ministro  ROGERIO  SCHIETTI  CRUZ,  SEXTA  TURMA,  julgado  em  27/04/2021,  DJe  30/04/2021;  AgRg  no  HC  610.106/PR,  Rel.  Ministro  FELIX  FISCHER,  QUINTA  TURMA,  julgado  em  23/02/2021,  DJe  01/03/2021;  HC  512.674/CE,  Rel.  Ministro  SEBASTIÃO  REIS  JÚNIOR,  decisão  monocrática,  DJe  30/05/2019;  HC  482.877/SP,  Rel.  Ministro  JORGE  MUSSI,  decisão  monocrática,  DJe  29/03/2019;  HC  675.658/PR,  Ministro  RIBEIRO  DANTAS,  decisão  monocrática,  DJe  04/08/2021;  HC  677.684/SP,  Ministro  ANTONIO  SALDANHA  PALHEIRO,  decisão  monocrática,  02/08/2021,  v.g.).
+Na  espécie,  verifico  que  não  há  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício.
+Isso  porque,  no que diz respeito à tese de que - a condenação considerada pelas instâncias ordinárias (autos n. 0021377-57.2011.8.26.0320) não poderia gerar reincidência, pois se passaram mais de 8 anos entre um delito e outro -, esclareço que o cômputo do prazo de extinção dos efeitos da reincidência (período depurador) é feito da data do cumprimento ou extinção da pena da infração anterior e a data do cometimento do novo delito, e não da data do cometimento do delito anterior.
+No caso dos autos, verifico que o delito ora em análise ocorreu em 07 de janeiro de 2020 (fl. 40) e a pena da condenação que gerou a reincidência foi extinta em 10 de agosto de 2016 (fl. 36), de forma que o réu cometeu a nova infração antes do período depurador de cinco anos previsto no art. 64, I, do Código Penal.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. MAUS ANTECEDENTES. AÇÃO NÃO ALCANÇADA PELO PERÍODO DEPURADOR E DISTINTA DA SOPESADA PARA FINS DE REINCIDÊNCIA. FUNDAMENTO VÁLIDO. AGRAVAMENTO DA PENA PELA RECINDÊNCIA EM 1/6. FRAÇÃO PROPORCIONAL. CONSTRANGIMNTO ILEGAL NÃO VERFICADO. AGRAVO NÃO PROVIDO.
+ ..
+3. Hipótese em que, diferentemente do que foi decidido pelas instâncias ordinárias, a ação penal anterior não foi alcançada pelo período depurador do art. 64, I, do Código Penal, na medida em que o período entre a extinção da pena do delito anterior e a consumação do novo crime foi inferior a 5 anos, o que não invalida o reconhecimento dos maus antecedentes, visto que a ação penal sopesada é distinta daquela utilizada para fins de reincidência, a teor da Súmula 241 do STJ.
+4. Portanto, a elevação da pena-base em 1 ano acima do mínimo legal pela valoração dos maus antecedentes do acusado não se mostra desproporcional, tendo em vista as penas mínima e máxima do delito de tráfico de drogas (5 a 15 anos).
+5. O Superior Tribunal de Justiça tem entendimento firmado de que, embora ausente previsão legal acerca dos percentuais mínimo e máximo de elevação da pena em razão da incidência das agravantes, o incremento da pena em fração superior a 1/6 (um sexto) exige fundamentação concreta.
+6. Na hipótese, as instâncias ordinárias agravaram a pena do crime de tráfico de drogas em 1 ano, correspondente à fração de 1/6, em consonância com a jurisprudência desta Corte Superior. Portanto, inexiste o alegado constrangimento ilegal.
+7. Agravo regimental não provido.
+(AgRg no HC n. 843.477/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/10/2023, DJe de 5/10/2023)
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
