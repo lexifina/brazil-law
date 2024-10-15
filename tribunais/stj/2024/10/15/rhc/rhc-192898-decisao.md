@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se  de  recurso  ordinário  em  habeas  corpus  com  pedido  liminar  interposto  por  ANA  PAULA  VIEIRA  ROCHA  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DO  RIO  DE  GOIÁS  (HC  n.  5736799-84.2023.8.09.0000).
+Consta  dos  autos  que  a  recorrente  teve  sua  prisão  em  flagrante  convertida  em  preventiva  em  4/11/2023,  em  razão  da  suposta  prática  dos  crimes,  em  2/11/2023,  de  roubo  qualificado  e  associação  criminosa,  previstos  no  art.  157,  §  2º,  incisos  II,  V  e  VII,  e  no  art.  288,  parágrafo  único,  ambos  do  Código  Penal.  Decreto  prisional  acostado  às  e-STJ  fls.  116/124.
+Na  impetração  originária,  conforme  relata  o  acórdão,  alegou  a  defesa  "a  suficiência  de  medidas  cautelares  diversas  da  prisão,  considerados  os  predicados  pessoais  favoráveis  da  paciente,  tais  como  primariedade,  endereço  fixo  no  distrito  da  culpa  e  profissão  lícita,  além  de  seu  direito  à  substituição  por  prisão  domiciliar,  por  possuir  2  (dois)  filhos  menores  de  12  anos  e  ser  a  única  genitora  responsável"  (e-STJ  fl.  191);  assim  como  a  possibilidade  de  substituição  do  encarceramento  por  medidas  cautelares  diversas  ou  prisão  domiciliar  monitorada.
+No  entanto  a  Corte  de  origem  denegou  a  ordem,  nos  termos  da  seguinte  ementa  (e-STJ  fl.  197):
+HABEAS  CORPUS  LIBERATÓRIO.  ROUBO  QUALIFICADO.  ASSOCIAÇÃO  CRIMINOSA.  PRISÃO  PREVENTIVA.  AUSÊNCIA  DE  FUNDAMENTAÇÃO.  CONDIÇÕES  PESSOAIS  FAVORÁVEIS.  SUFICIÊNCIA  DE  MEDIDAS  CAUTELARES  DIVERSAS  DA  PRISÃO.  GENITORA  DE  FILHOS  MENORES  DE  12  ANOS.
+1.  Estando  a  prisão  preventiva  fundamentada  na  existência  da  prática  delitiva,  indícios  suficientes  de  autoria,  garantia  da  ordem  pública  e  necessidade  da  instrução  criminal,  sua  manutenção  revela-se  impositiva.
+2.  Há  entendimento  jurisprudencial  sedimentado  de  que  apenas  a  presença  de  predicados  pessoais  favoráveis  não  impede  a  decretação  da  prisão  preventiva,  notadamente  se  há  nos  autos  elementos  suficientes  para  justificar  a  cautela  (STJ,  RHC  81.018).
+3.  Estando  a  prisão  preventiva  concretamente  fundamentada,  demonstrando  sua  imprescindibilidade,  revelam-se  insuficientes  e  inadequadas  as  medidas  cautelares  diversas  da  prisão.
+4.  Não  restando  demonstrado  que  o  requerimento  de  prisão  domiciliar  tenha  sido  previamente  submetida  ao  conhecimento  e  análise  da  alegada  autoridade  coatora,  resta  vedada  sua  aferição  por  este  Juízo  ad  quem,  sob  pena  de  indevida  supressão  de  instância.  ORDEM  CONHECIDA  E  DENEGADA.
+Nas  razões  do  presente  recurso  ordinário,  a  defesa  reafirma  as  alegações  referentes  à  possibilidade  de  concessão  de  prisão  domiciliar  à  recorrente,  por  ser  genitora  de  duas  crianças  menores  de  12  anos,  nos  termos  do  precedente  fixado  no  HC  Coletivo  n.  143.641  do  STF  e  do  art.  318-A  do  CPP.
+Diante  disso,  pleiteia,  inclusive  liminarmente,  "seja  julgado  procedente  o  presente  pleito  para  o  fim  de,  confirmando  os  termos  da  liminar  pleiteada,  conceder  a  ordem  de  habeas  corpus,  tornando  definitiva  a  liberdade  provisória  da  Paciente  aplicando  a  mesma,  medidas  cautelares  diferentemente  da  prisão,  ainda  que  seja  a  prisão  domiciliar  até  final  processamento"  (e-STJ  fl.  210).
+Indeferida a liminar (e-STJ fls. 228/230) e prestadas as informações (e-STJ fls. 236/239 e 240/253), manifestou-se o Ministério Público Federal, nesta instância, pela denegação da ordem (e-STJ fl. 257).
+É,  em  síntese,  o  relatório.
+Decido.
+O recurso está prejudicado.
+Isto porque, em consulta ao sítio do Tribunal de Justiça do Estado de Goiás, observo que, aos 11/4/2024, foi proferida sentença condenado a recorrente à pena de 10 anos e 10 meses de reclusão, a ser cumprida em regime inicial fechado.
+Na oportunidade, foi negado o direito de recorrer em liberdade nos seguintes termos:
+Do Direito de Recorrer em Liberdade:
+Considerando a quantidade de pena aplicada e o regime prisional fixado, bem como a incontroversa presença dos requisitos elencados nos artigos 312 e seguintes do Código de Processo Penal, NEGO à parte acusada o direito de recorrer em liberdade.
+ ..
+Muito embora já tenha havido manifestação judicial acerca da denegação do direito de recorrer em liberdade, em atenção ao disposto no artigo 315, parágrafo único, do Código de Processo Penal, faço constar que as circunstâncias do caso concreto recomendam a manutenção da custódia cautelar, em especial a gravidade em concreto do delito e a evidente união de propósito dos inculpados para o fim específico de praticar crimes patrimoniais violentos, fato este que repercute a sua periculosidade e a completa impossibilidade de que respondam ao processo em liberdade, sob pena de grave comprometimento da ordem pública e da paz social. Razão esta, mantenho a prisão preventiva decretada nos autos.
+Assim, diante do novo contexto fático, evidente a perda do objeto do presente recurso.
+Diante do exposto, julgo prejudicado o recurso.
+Publique-se. Intimem-se.
+EMENTA
