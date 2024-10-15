@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E CORRUPÇÃO PASSIVA. IMPEDIMENTO DO JUIZ NÃO CONFIGURADO. PENA-BASE. FALTA DE PREQUESTIONAMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prática de crime pelos policiais civis em razão do cumprimento de mandado de busca e apreensão expedido pelo Juízo de origem não resulta em impedimento ou suspeição do julgador.
+2. A matéria relativa à alegada violação do art. 384 do CPP não foi prequestionada na instância antecedente, o que torna inadmissível o recurso especial, segundo o disposto nas Súmulas n. 282 do STF e 211 do STJ.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+THIAGO COMPART PINHEIRO OLIVEIRA agrava da decisão de fls. 3.828-3.839, em que conheci do agravo para negar provimento ao recurso especial e, por conseguinte, mantive a pena de 12 anos e 10 meses de reclusão mais multa, no regime inicial fechado, pelos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006 e 317, § 1º, do Código Penal.
+Reitera as razões do recurso especial a fim de reconhecer o impedimento do juiz que participou da dinâmica dos fatos.
+Busca a redução da pena-base pela violação do art. 384 do CPP ante a valoração negativa de circunstância não descrita na denúncia.
+Requer a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E CORRUPÇÃO PASSIVA. IMPEDIMENTO DO JUIZ NÃO CONFIGURADO. PENA-BASE. FALTA DE PREQUESTIONAMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prática de crime pelos policiais civis em razão do cumprimento de mandado de busca e apreensão expedido pelo Juízo de origem não resulta em impedimento ou suspeição do julgador.
+2. A matéria relativa à alegada violação do art. 384 do CPP não foi prequestionada na instância antecedente, o que torna inadmissível o recurso especial, segundo o disposto nas Súmulas n. 282 do STF e 211 do STJ.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+I. Impedimento do juiz
+O Tribunal de origem afastou a preliminar suscitada pela defesa, consoante os seguintes argumentos (fls. 3.312-3.313, grifei):
+A defesa de Thiago Compart Pinheiro Oliveira, em preliminar, suscitou a nulidade do feito, desde o recebimento da denúncia, em razão de impedimento do Magistrado Titular da 3a Vara de Tóxicos da Comarca de Belo Horizonte, argumentando, para tanto, que a prática de crime por ocasião do cumprimento de mandado de busca e apreensão não gera a prevenção do Juízo, acarretando, em verdade, seu impedimento.
+Segundo sustentado, como os fatos apurados neste feito decorreram do cumprimento de mandado de busca e apreensão oriundo do Juízo da 3a Vara de Tóxicos da Capital, o d. Magistrado "a quo" teria se sentido traído pela ação dos policiais, a quem é imputada, entre outras, a conduta de corrupção passiva.
+Assim, diante de tal condição, entende a d. Defesa Técnica que, nos termos do artigo 252, IV, do CPP, o d. Juiz Sentenciante seria impedido, não podendo exercer jurisdição, na medida em que ele teria passado a estar "diretamente interessado no feito".
+Sem razão a defesa.
+Inicialmente, destaco que o artigo 252 do Código de Processo Penal estabelece circunstâncias de ordem objetiva que impedem o exercício da jurisdição. Notadamente em relação à parte final do inciso IV do referido dispositivo, entende a doutrina e a jurisprudência que há impedimento decorrente do interesse do Magistrado no feito se há comprovação de que os efeitos da coisa julgada repercutirão "em relação jurídica material cível "lato sensu" do magistrado" (AgRg no AgRg no REsp nº 1.668.019/RS).
+Assim, ao contrário do que sustenta a defesa, o dispositivo em questão não abarca questões de natureza subjetiva do julgador, tais como eventual "sentimento de traição", sendo indispensável a demonstração interesse decorrente da efetiva repercussão do julgamento em relação do Magistrado ou de pessoa a ele ligada.
+A hipótese sustentada pela defesa, portanto, mais se amoldaria, caso comprovada, à suspeição do Magistrado, que ocorre justamente em situações em que circunstâncias subjetivas interferem na cogente imparcialidade.
+Ainda que assim estivesse embasada a presente preliminar, no entanto, não vislumbro nos autos elementos que permitam tal conclusão, que parte de uma premissa incorreta.
+É que toda a argumentação defensiva aponta no sentido de que o d. Magistrado a quo, desde a a propositura da ação penal já teria um juízo prévio no sentido de que a ação dos réus havia se dado, de fato, da forma como narrada na denúncia. Tal conclusão acerca da parcialidade do julgador, como se verifica pelas próprias argumentações defensivas, decorre de manifestações do próprio Magistrado informando que os crimes imputados ao recorrente foram supostamente cometidos "valendo-se de cargo junto à Polícia Civil e de representação judicial por mandado de busca e apreensão".
+Ou seja, presume-se, pela simples citação por parte do Magistrado sobre fatos verídicos e circunstâncias igualmente verdadeiras, que a ação do mesmo, enquanto julgador, não é dotada de imparcialidade.
+Não há qualquer atitude específica, externa ao processo, que indique no sentido alegado, tampouco havendo qualquer manifestação do mesmo nos autos que permita levantar alguma suspeita sobre sua conduta.
+Além disto, a apontada prévia convicção do julgador sobre a conduta dos acusados sequer se confirmou, na medida em que a sentença encontra-se suficientemente fundamentada, trazendo exposição concatenada dos elementos que levaram ao convencimento do julgador, que inclusive entendeu pela parcial procedência da denúncia, com absolvição no tocante a alguns dos delitos ali narrados.
+Acrescento que, analisando minuciosamente a sentença, não verifiquei qualquer excesso de linguagem, como também é argumentado defensivamente, sendo certo que os argumentos apresentados pelo d. Sentenciante encontram coerência com os fatos analisados e com as provas colhidas, não sendo suficientes sequer para levantar dúvida, como se alega, acerca de sua imparcialidade. Além disto, eventual interpretação equivocada acerca das provas colhidas, inclusive no tocante á informação sobre confissão por parte do acusado Rafael, é tema a ser tratado no mérito recursal, não ensejando a nulidade da decisão condenatória.
+Desta maneira, não obstante as bem lançadas argumentações defensivas, entendo que não há nos autos qualquer evidência que permita a conclusão no sentido de que o Magistrado Sentenciante tinha interesse no resultado do julgamento ou que tivesse sua imparcialidade abalada.
+A Corte estadual, em embargos de declaração, ressaltou que (fl. 3.494, destaquei):
+Isto porque, apesar de reunidas as matérias em um único tópico, ambas foram suficientemente examinadas, sendo possível à parte compreender os motivos pelos quais não se entendeu pelo acolhimento das matérias.
+Não obstante, cumpre repisar que a argumentação sobre eventual impedimento do julgador demanda que houvesse prova de que ele tivesse interesse no feito, o que não existe nos autos e sequer poderia ser suprido pelo eventual "sentimento de traição" sustentado pelo embargante Rafael.
+De igual maneira, não verifiquei excesso de linguagem na sentença, encontrando-se a fundamentação exarada pelo d. Julgador "a quo" coerente com as provas produzidas ao longo da instrução. A sentença, durante toda sua fundamentação, apenas reproduz o cenário demonstrado pelas provas, o que se mostrou relevante para explicar as práticas criminosas desempenhadas.
+Assim, o que se verifica é uma acusação de parcialidade do julgador sem sequer apontar em qual hipótese legal ela se enquadraria, não sendo as palavras utilizadas na sentença, a meu ver, suficientes para indicação neste sentido, já que configuradoras apenas da decisão tomada pelo Magistrado, a qual se encontra suficientemente fundamentada.
+Conforme exposto na decisão agravada, não identifico atuação abusiva e iniquidade flagrante nas condutas desempenhadas pelo julgador, pois não ficou comprovada nenhuma conduta do juiz que permita concluir acerca de parcialidade ou suspeição do magistrado.
+No caso, a prática de crime pelos policiais civis em razão do cumprimento de mandado de busca e apreensão expedido pelo Juízo de origem não resulta em impedimento ou suspeição do julgador.
+Constata-se que a moldura fática estabelecida pelo Tribunal a quo não evidencia falta de imparcialidade no exercício da função, prolação de decisão com conteúdo abusivo ou imotivado, atitude imprópria do Magistrado ou descumprimento de formalidade legal e essencial pelo julgador.
+Desse modo, rever o entendimento firmado pela Corte de origem, que concluiu pela inexistência de parcialidade do juiz, exigiria ampla dilação probatória, inviável na via eleita pela defesa, consoante a Súmula n. 7 do STJ.
+Conforme entendimento desta Corte, "é inviável afirmar a suspeição de julgador, por meio de recurso especial ou de habeas corpus, perante essa Corte, por ser matéria que demanda reexame fático-probatório" (REsp n. 1.823.438/SP, Rel. Ministro Rogerio Schietti, DJe 19/12/2019, grifei).
+II. Pena-base
+A defesa entende ser incabível a exasperação da pena-base pelas circunstâncias do crime, pois a fundamentação relacionada à " u tilização de ordem judicial para agir na ilicitude (ou seja, para praticar o crime de tráfico de drogas) constitui circunstância não descrita na denúncia" (fl. 3.653).
+Quanto à redução da pena-base pela violação do art. 384 do CPP, noto que a matéria não foi analisada na instância ordinária, de modo que atrai a incidência das Súmulas n. 211 do STJ e 282 do STF ante a falta do pree nchimento do requisito do prequestionamento.
+Ademais, não se verifica ilegalidade flagrante, pois o Tribunal de origem considerou outro fundamento, qual seja, "a denúncia narrou a manobra utilizada pelos réus para deixar de autuar o corréu Guilherme pelo crime de tráfico de drogas consistiria em fracionar o entorpecente supostamente apreendido, valendo-se de um pedaço menor para imputar a ele o crime previsto no artigo 28 da Lei 11.343/06" (fls. 3.499-3.500), de modo que, além dessa circunstância se encontrar descrita na inicial, constituiu fundamento válido a majorar a reprimenda-base.
+III. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental
