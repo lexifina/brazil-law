@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE NÃO APLICADA. REINCIDÊNCIA. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. PEDIDO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente condenado a 7 anos de reclusão por tráfico de drogas, com pena reduzida para 6 anos em apelação. Defesa alega erro na dosimetria da pena e busca reconhecimento do tráfico privilegiado.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é cabível o habeas corpus para revisar a dosimetria da pena e aplicar a minorante do tráfico privilegiado.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. Não se verifica flagrante ilegalidade na dosimetria da pena, que foi fundamentada na quantidade de droga e na dedicação do paciente à atividade criminosa.
+5. A análise do Tribunal de origem está em conformidade com a jurisprudência, não havendo bis in idem na dosimetria.
+IV. PEDIDO NÃO CONHECIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 33-35 (e-STJ):
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MURILO FELIPPE DE FREITAS LEITE em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 1500194-55.2020.8.26.0573).
+O paciente foi condenado à pena de 7 anos de reclusão em regime fechado, e ao pagamento de 700 dias-multa, por infração ao art. 33, caput, da Lei 11.343/2006.
+A defesa interpôs recurso de apelação, que foi parcialmente provido para afastar a agravante da reincidência e, consequentemente, reduzir a pena a 6 anos de reclusão, mais o pagamento de 600 dias-multa.
+A impetrante alega: a) quantidade de droga não pode ser utilizada como fundamento válido para afastar a minorante do tráfico privilegiado; e b) utilização equivocada (bis in idem) da quantidade de droga na primeira e na terceira fases dosimétrica.
+Requer, liminar e definitivamente, deferimento da ordem "para que seja reconhecido o direito à benesse prevista no §4º do art. 33 da Lei de Drogas, com a consequente diminuição de sua reprimenda ao Paciente" (e-STJ fl. 9).
+A defesa alega, em síntese, a ocorrência de erro na dosimetria da pena.
+Requer a concessão da ordem para obter a redução da pena aplicada ao paciente.
+O Ministério Público Federal opina pela concessão de ofício da ordem.
+É o relatório.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE NÃO APLICADA. REINCIDÊNCIA. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. PEDIDO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente condenado a 7 anos de reclusão por tráfico de drogas, com pena reduzida para 6 anos em apelação. Defesa alega erro na dosimetria da pena e busca reconhecimento do tráfico privilegiado.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é cabível o habeas corpus para revisar a dosimetria da pena e aplicar a minorante do tráfico privilegiado.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. Não se verifica flagrante ilegalidade na dosimetria da pena, que foi fundamentada na quantidade de droga e na dedicação do paciente à atividade criminosa.
+5. A análise do Tribunal de origem está em conformidade com a jurisprudência, não havendo bis in idem na dosimetria.
+IV. PEDIDO NÃO CONHECIDO.
+VOTO
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, na medida em que o acórdão, pela fundamentação do voto do Revisor, assim se manifestou acerca da dosimetria da pena (e-STJ fls. 11-12; 15-16):
+O d. Relator consignou: "Não vislumbro excesso na pena imposta, que aqui se ratifica. Na primeira etapa, a pena-base do apelante foi fixada 1/5 (um quinto) acima do patamar mínimo, perfazendo-se 06 (seis) anos de reclusão, mais o pagamento de 600 (seiscentos) dias-multa, conforme os critérios preconizados nos artigos 59 do Código Penal e 42 da Lei de Drogas. Destaca-se irretocável a fração imposta, em razão da grande quantidade dos entorpecentes apreendidos, fato que conduz à assunção de que escorreita a pena aplicada pelo douto sentenciante, que agiu com adequação e proporcionalidade ao aplicar aquele índice de aumento, de 1/5 (um quinto), nesta fase da dosimetria da pena.
+ ..
+Na derradeira etapa, inviabilizada, destaca-se, a redução prevista no §4º, do artigo 33 do mesmo Diploma legal. Conforme se observou, o recorrente não era traficante ocasional, mas habituado à atividade criminosa, circunstância que não admite o benefício. De qualquer maneira, suficiente a reincidência, para a negativa da diminuição. Além, obviamente, da gravidade do delito de tráfico de entorpecentes, que contribui para a desagregação da família e da sociedade. Aliás, certamente venderia droga para centenas de usuários, se não fosse a eficaz interferência estatal"
+ ..
+Em seguida, tendo em conta a quantidade de droga apreendida e as circunstâncias que envolveram a prática delitiva, fica mantido o afastamento da benesse prevista no artigo 33, §4º, da Lei nº 11.343/06.
+A análise realizada pelo Tribunal de origem está em linha com a jurisprudência desta Corte acerca da temática:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL CONHECIDO E DESPROVIDO. CONDENAÇÃO PELA PRÁTICA DO DELITO DE TRÁFICO DE DROGAS. ABSOLVIÇÃO. INVIABILIDADE. PROVAS SUFICIENTES À CONDENAÇÃO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO DEVIDAMENTE FUNDAMENTADO. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese dos autos, o Tribunal de Justiça - TJ entendeu suficientemente demonstrada a prática do tráfico de drogas a partir das provas constantes nos autos, notadamente, da prova oral.
+2. O acórdão recorrido destacou que os policiais constataram a presença de elevado fluxo de usuários na residência e a prática de atos típicos de distribuição de drogas pelo réu. Os agentes estatais também indicaram as circunstâncias concretas da efetiva abordagem do acusado (que envolveu perseguição) e do cumprimento do mandado judicial de busca no domicílio a ele vinculado. No caso, não foram evidenciadas inconsistências nos depoimentos dos policiais e estão eles em harmonia com as demais provas apresentadas pelo acórdão recorrido (apreensão de caderno contendo anotações de nomes e valores, um prato contendo cocaína, rolo de papel alumínio, dois rolos de fita e um pote contendo substância em pó; realização de exame grafotécnico e laudo toxicológico). Portanto, os depoimentos dos policiais são idôneos e suficientes para a formação do édito condenatório, porquanto apresentam coerência interna e externa.
+Precedentes.
+3. Ademais, reitera-se que a desconstituição da conclusão obtida pelo Tribunal a quo, para absolver o agravante por insuficiência probatória, demandaria rever diretamente os fatos e as provas que embasaram o julgado, providência vedada nos termos da Súmula n. 7 desta Corte.
+4. Sobre a minorante do tráfico privilegiado, o TJ consignou que o agravante não preenchia os requisitos dos bons antecedentes e da não dedicação a atividades criminosas, ambos necessários à concessão do benefício. Na espécie, além de maus antecedentes, as investigações demonstraram que o acusado praticava a traficância há alguns meses e, inclusive, teria construído imóvel protegido para servir de fachada para a comercialização de drogas. Assim, os fundamentos apresentados pela origem mostram-se idôneos para afastar a incidência da minorante. Precedentes.
+5. Quanto ao pedido do agravante de concessão de Habeas Corpus de ofício, tal providência é de iniciativa do julgador quando constatada a existência de flagrante ilegalidade, o que não se verifica nos autos.
+6. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.383.164/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/8/2024, DJe de 27/8/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DECISÃO MONOCRÁTICA. TRÁFICO DE DROGAS. TRÂNSITO EM JULGADO DO DECRETO CONDENATÓRIO. MANEJO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. PRECLUSÃO TEMPORAL. SEGURANÇA JURÍDICA. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. ART. 42 DA LEI DE DROGAS. TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA DEVIDAMENTE DEMONSTRADA. INEXISTÊNCIA DE BIS IN IDEM. REVOLVIMENTO FÁTICO PROBATÓRIO INVIÁVEL NA ESTREITA VIA DO MANDAMUS. REGIME FECHADO. ADEQUADO. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL QUE ELEVOU A PENA-BASE ACIMA DO MÍNIMO LEGAL. PRECEDENTES. SUBSTITUIÇÃO DA PENA CORPORAL. DESCABIMENTO. CARÊNCIA DE REQUISITOS. AUSÊNCIA DE ILEGALIDADE NO ACÓRDÃO IMPUGNADO. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Como abordado na decisão agravada, ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência do Superior Tribunal de Justiça, prevista no artigo 105, I, "e", da Constituição Federal, restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+III - O presente writ foi impetrado contra acórdão do Tribunal de origem já transitado em julgado (consulta ao sítio do Tribunal a quo). Diante dessa situação, não deve ser conhecido o presente habeas corpus, porquanto fora manejado como substitutivo de revisão criminal.
+IV - O Tribunal de origem, de forma motivada e de acordo com o caso concreto, atento às diretrizes do art. 42 da Lei de Drogas e do art. 59, do Código Penal, considerou a natureza do entorpecente apreendido com o paciente (cocaína), não se mostrando desproporcional a exasperação da basilar no patamar prudencial de 1/6 (um sexto), considerando-se que foi apreendida quantidade significativa de entorpecentes, ainda que não excepcional (32 porções equivalentes a 45g de cocaína), tal qual se depreende dos autos (e-STJ fl. 84).
+V - A quantidade do entorpecente, por si só, tal qual assinalado no acórdão impugnado, não seria hábil a ensejar a exasperação da basilar - tendo em vista, contudo, a sua conjugação com a natureza mais deletéria da cocaína, não sendo irrisório o quantitativo apreendido, tenho que não há ilegalidade flagrante a ser sanada mediante a concessão da ordem de habeas corpus. Trata-se, com efeito, de condição preponderante em relação ao próprio art. 59 do Código Penal, não sendo verificada, na espécie, desproporção no aumento da pena-base, uma vez que há motivação particularizada, em obediência aos princípios da proporcionalidade e da individualização da pena, ex vi do art. 42 da Lei n. 11.343/06.
+VI - Por ocasião do julgamento do ARE n. 666.334/AM, o eg. Supremo Tribunal Federal reconheceu a repercussão geral da matéria referente à valoração da natureza e da quantidade da droga na dosimetria relativa ao delito de tráfico de entorpecentes e, reafirmando sua jurisprudência, fixou entendimento segundo o qual fica evidenciado o bis in idem quando a valoração em tela opera-se na primeira e terceira fases do cálculo da pena. Cabe às instâncias ordinárias, ao promover a dosimetria, considerar a quantidade e a natureza da droga no momento que melhor lhe aprouver, podendo valorá-las na primeira fase da dosimetria, para exasperar a pena-base, ou na terceira fase, para afastar o redutor do tráfico privilegiado ou modular a sua fração, mas nunca em ambas as fases, sob pena de bis in idem.
+VII - Na hipótese, a majoração da pena-base está fundada na natureza e quantidade da droga apreendida, ao passo que o afastamento da minorante ocorreu pela dedicação às atividades criminosas. Fatos distintos, portanto, inexistindo bis in idem.
+VIII - Rever o entendimento das instâncias ordinárias para fazer incidir a causa especial de diminuição demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus.
+IX - Segundo pacífica jurisprudência desta Corte Superior, a existência de circunstância judicial desfavorável, com a consequente fixação da pena-base acima do mínimo legal, autoriza a determinação de regime inicial mais gravoso do que o cabível em razão do quantum de pena cominado. Precedentes.
+X - Mantida pena superior a 4 (quatro) anos de reclusão, não há se falar em substituição da corporal por restritiva de direito, nos termos do art. 44, inciso I, do Código Penal.
+Agravo regimental desprovido.
+(AgRg no HC n. 865.791/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2024, DJe de 13/9/2024.)
+Alterar o quadro formado no Tribunal de origem demanda inviável dilação probatória em sede de habeas corpus.
+Ante o exposto, não conheço do presente habeas corpus.
+É o voto.
