@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOSE ANTONIO FERREIRA DE AVELAR, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos autos do recurso de Apelação n. 1500017-08.2021.8.26.0072.
+Consta do processo que o paciente foi condenado, em primeiro grau de jurisdição, à pena privativa de liberdade de 5 anos de reclusão, em regime inicial fechado, e ao pagamento de 500 dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006 (fls. 456/459).
+O sentenciado interpôs recurso de apelação, o qual foi desprovido (fls. 46/81).
+Daí a presente impetração, em que se sustenta a existência de constrangimento ilegal decorrente da ilicitude das provas obtidas em razão da busca pessoal e veicular realizada por guardas municipais, bem como da não aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 pelo Juízo de origem.
+Requer-se a concessão da ordem para: i) absolver o paciente por ausência de provas válidas para a condenação ou, de forma subsidiária, ii) reconhecer a incidência do tráfico privilegiado em seu grau máximo de 2/3 (com a substituição da pena privativa de liberdade por restritiva de direitos e remessa dos autos ao juízo para intimação do MP para fins de ANPP), iii) fixar regime inicial diverso do fechado (fl. 16).
+É o relatório.
+De plano, verifico que a presente impetração foi ajuizada após o trânsito em julgado da condenação, sendo, pois, substitutiva de pedido revisional e, portanto, incabível.
+Com efeito, nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+Sobre a questão, cito os seguintes precedentes: AgRg no HC n. 853.777/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 29/2/2024; e AgRg no HC n. 847.051/SP, Ministra Laurita Vaz, Sexta Turma, DJe de 5/10/2023.
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, tendo o Tribunal de origem ressaltado que o réu foi surpreendido e preso por integrantes da Guarda Civil Municipal, por se encontrar em situação flagrancial, pois, foi previamente visualizado após ter sido denunciado por um usuário de drogas e por ter apresentado atitude suspeita no interior do mesmo veículo relatado na denúncia prévia, tornando legítima a desconfiança de prática de tráfico de entorpecentes, culminando com a apreensão de drogas consigo e centenas de eppendorfs em sua residência  ..  é possível verificar pelo laudo pericial de fls. 143/150 realizado no celular do acusado que existem muitas (dezenas) conversas em mensagens em que ele negocia a venda e entrega de drogas, o que certamente demonstra sua dedicação à traficância (fls. 55/56 e 63).
+Ademais, para acolher a pretensão absolutória seria necessário adentrar verticalmente no conjunto probatório, providência de todo incompatível com a célere e estreita via do habeas corpus.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO POR FRAGILIDADE PROBATÓRIA. DOSIMETRIA. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+Writ indeferido liminarmente.
