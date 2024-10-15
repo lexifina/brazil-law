@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA IRACEMA DE SÁ (ESPÓLIO) contra decisão que inadmitiu o recurso especial com fundamento na ausência de ofensa aos arts. 489, IV, e 1.022 do Código de Processo Civil.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Ceará (Agravo de Instrumento n. 0811220-48.2021.4.05.0000) assim ementado (fl. 1.457):
+Civil. Processual civil. Sistema Financeiro da Habitação  SFH . Ação Revisional de financiamento habitacional não impede execução do débito decorrente do mesmo contrato. Ação de execução Hipotecária. Decisão não merece reparos. Agravo de instrumento improvido.
+1. Agravo de Instrumento interposto contra decisão singular proferida nos autos do processo 0809808-37.2018.4.05.8100, que determinou o prosseguimento da ação executiva originária afastando as alegações de prescrição da pretensão executória, bem como a de iliquidez do título executivo.
+2. Sustenta a agravante, em síntese, que, tendo sido proferida sentença nos autos da citada ação revisional 2000.81.00011936-9, deveria o credor buscar a satisfação de seu crédito naquela demanda e não em ação autônoma de execução. Portanto, requer extinção do feito relativo à execução hipotecária (0809808-37.2018.4.05.8100).
+3. Não prospera a tese suscitada pela agravante segundo a qual o agravado deveria buscar a satisfação de seu crédito nos autos a ação revisional 2000.81.00011936-9, a qual teve seu trâmite na 7ª Vara Federal, e não em execução autônoma. Com efeito, além de a referenciada demanda revisional não ter alterado substancialmente o quantum debeatur, a jurisprudência, colacionada pela própria agravante, nos informa que há um direito do credor em optar por prosseguir na demanda revisional, com o cumprimento de sentença ou, ao seu critério, deflagrar a demanda executiva autônoma.
+4. Nesse sentido, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que o ajuizamento da ação revisional não impede a execução do débito decorrente do mesmo contrato, pois não lhe retira a liquidez. Necessária apenas a adequação da execução às modificações impostas pela ação revisional (R Esp nº 569.937/RS, min. César Asfor Rocha, Diário da Justiça de 25.9.2006).
+5. Verifica-se que houve trânsito em julgado da sentença que extinguiu a fase do cumprimento de sentença nos autos da ação revisional. Ou seja, todas as providências impostas à revisão do contrato foram cumpridas nos autos da ação revisional, restando ao credor a opção de promover a execução extrajudicial ou judicial do título executivo.
+6. Para além disso, o magistrado a quo, ao proferir a decisão singular em análise, expôs o seguinte: (..) Tendo optado pela execução extrajudicial do contrato, a exequente anexou juntamente com a petição inicial da presente execução "Demonstrativo do Débito e Planilha de Evolução do Financiamento (págs. 32/59 - PDF) devidamente ajustados à revisão determinada nos autos da ação declaratória já citada. Desse modo, não há que se falar em ausência de certeza, liquidez e exigibilidade do título, tampouco na impossibilidade da parte credora promover a execução autônoma do mesmo. (..)
+7. Agravo de instrumento improvido.
+Nas razões do recurso especial, a ora agravante aponta ofensa aos art. 1.022, II, e 489, § 1º, do Código de Processo Civil, aduzindo que, mesmo após a oposição de embargos de declaração, o Tribunal não indicou os motivos pelos quais o caso se ajusta à jurisprudência invocada.
+Requer o conhecimento e o provimento do recurso.
+Não foram apresentadas contrarrazões (fl. 1.525).
+É o relatório. Decido.
+Não conheço da alegação de ofensa aos arts. 1.022, II, e 489, § 1º, do Código de Processo Civil, uma vez que a agravante não indica, de forma clara e objetiva, em que teria consistido a suposta omissão, limitando-se a afirmar que o acórdão não teria sido devidamente fundamentado.
+Contudo, verifica-se da leitura do acórdão que a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido, nem tampouco ausência de fundamentação.
+Com efeito, o Tribunal estadual negou provimento ao agravo de instrumento por entender que, no caso, o credor ora agravado poderia optar por prosseguir na demanda revisional, com o cumprimento de sentença ou, ao seu critério, deflagrar a demanda executiva autônoma.
+Evidencia-se que a insurgência da agravante na realidade refere-se tão somente ao mérito da controvérsia, não sendo o caso de omissão ou ausência de fundamentação.
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
