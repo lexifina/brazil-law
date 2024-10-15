@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WILLIAM ANTONIO CAMARGO em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+Depreende-se dos autos que o paciente está preso preventivamente pela suposta prática dos crimes de organização criminosa e tráfico internacional de arma. A prisão preventiva foi decretada visando garantir a ordem pública em razão da gravidade da conduta imputada ao paciente.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente denegando a ordem em acórdão de fls. 594-629.
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar ponderando as condições pessoais favoráveis do paciente.
+Requer a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida às fls. 700-701.
+Informações prestadas às fls. 706-710 e 713-719.
+O Ministério Público Federal em parecer, às fls. 721-730, manifestou-se pelo não conhecimento da ordem, em parecer que restou assim ementado:
+"HABEAS CORPUS. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE PREVISÃO CONSTITUCIONAL PARA O CABIMENTO DE HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. ORGANIZAÇÃO CRIMINOSA E TRÁFICO INTERNACIONAL DE ARMAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DA CONDUTA. PERICULOSIDADE DO AGENTE. CONDIÇÕES PESSOAIS FAVORÁVEIS E MEDIDAS CAUTELARES DIVERSAS DO CÁRCERE. INSUFICIÊNCIA, SE PRESENTES OS REQUISITOS DA SEGREGAÇÃO PROVISÓRIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PARECER PELO NÃO CONHECIMENTO DO WRIT.
+- A jurisprudência do STJ e do STF assentou o entendimento de que o habeas corpus não deve ser conhecido quando consistir em utilização inadequada da garantia constitucional, em substituição aos recursos ordinariamente previstos nas leis processuais.
+- Restando devidamente fundamentada a decisão que determinou a segregação preventiva, com a indicação de elementos objetivos que justificam sua imposição, não há falar em constrangimento ilegal que justifique a revogação da medida processual ou a substituição por medidas cautelares alternativas, arroladas nos arts. 319 e 320, do CPP.
+- Condições pessoais favoráveis não têm o condão, de per si, de autorizar a revogação da constrição cautelar quando esta seja recomendada por outros elementos dos autos.
+- Parecer pelo não conhecimento do habeas corpus" - fl. 721.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta das condutas atribuídas, haja vista ser o paciente integrante de organização criminosa dedicada ao tráfico internacional de armas e drogas, sendo um membro importante da facção criminosa, responsável pelo financiamento e operações do grupo - fl. 343.
+Com efeito, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de grupo criminoso.
+A propósito, confiram-se o seguinte precedente desta Corte Superior de Justiça:
+"O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa, evidenciada pelo modus operandi com que o crime fora praticado" (RHC 79.498/RS, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/3/2017, DJe 27/3/2017).
+3. A jurisprudência desta Corte Superior também é pacífica no sentido de que justifica a prisão preventiva o fato de o acusado integrar organização criminosa.
+4. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, porquanto insuficientes para resguardar a ordem pública" (AgRg no HC n. 910.439/RN, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, DJe de 22/8/2024).
+No mesmo sentido: AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023; AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023; AgRg no HC n. 787.732/MT, relator Ministro minha relatoria, Quinta Turma, DJe de 3/3/2023; AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022; AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022; AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022 e RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022.
+Outrossim, "a existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não é apta a desconstituir a prisão processual, caso estejam presentes os requisitos de ordem objetiva e subjetiva que autorizem a imposição da medida extrema, como verificado na hipótese" (AgRg no HC n. 829.799/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/8/2023).
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se
+EMENTA
