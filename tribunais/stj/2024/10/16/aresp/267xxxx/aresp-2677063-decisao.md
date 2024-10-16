@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por AGROTOTAL AERO AGRÍCOLA LTDA., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Rio Grande do Sul assim ementado (e-STJ, fl. 681):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SEGURO PRESTAMISTA. CONSÓRCIO. AO SEGURO PRESTAMISTA SÃO APLICADAS AS DISPOSIÇÕES DO ART. 794 DO CÓDIGO CIVIL. DERAM PROVIMENTO AO AGRAVO DE INSTRUMENTO.
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 794 do CC e 649, VI, do CPC/1973.
+Esclareceu que se opôs ao acórdão por entender que o capital de crédito originário de seguro de vida (ou prestamista) por morte do segurado não responde pelas dívidas do falecido.
+Sustentou a procedência do seu pedido de penhora dos valores amealhados a título de indenização securitária. Defendeu a penhorabilidade do seguro prestamista recebido no valor excedente a 40 salários mínimos.
+Destacou que o entendimento no STJ é no sentido de que, em caso de execução, é perfeitamente possível permitir a penhora de valores amealhados a título de indenização securitária; ou seja, após a morte do segurado, a indenização será, em regra, um bem passível de constrição em execução promovida contra o beneficiário, de valor acima de 40 (quarenta) salários mínimos. Aventou que se permite a penhora de montante referente á indenização securitária, de seguro de vida de valor que exceder a tal montante. Requereu o provimento do recurso especial (e-STJ, fls. 697-706).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 784-794).
+Contraminuta apresentada (e-STJ, fls. 804-842).
+Brevemente relatado, decido.
+O teor dos arts. 794 do CC e 649, VI, do CPC/1973 não foi objeto de análise no julgamento ora questionado, carecendo do devido prequestionamento.
+Não se conhece de "recurso especial acerca de matéria que não foi objeto de juízo de valor pelo voto condutor do acórdão recorrido, ainda que tenha havido menção às alegações do recorrente em seu relatório. Incidência das Súmulas 282 e 356 do STF. De igual modo, mostra-se inaplicável o instituto do prequestionamento ficto quando o apelo especial não veicular nenhuma tese de nulidade do acórdão recorrido por violação do art. 1.022 do CPC/2015, como exige a jurisprudência desta Corte" (AgInt no AgInt no AREsp n. 2.455.073/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/8/2024, DJe de 16/8/2024).
+A título ilustrativo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. MULTA DECENDIAL. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. PREQUESTIONAMENTO IMPLÍCITO. NÃO VERIFICAÇÃO. SÚMULAS N. 282 E 356 DO STF. PREQUESTIONAMENTO FICTO. ART. 1.025 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO NA ORIGEM. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO E COISA JULGADA. OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. O prequestionamento significa a prévia manifestação do Tribunal de origem, com emissão de juízo de valor, acerca da matéria referente ao dispositivo de lei federal apontado como violado.
+Trata-se de requisito constitucional indispensável para o acesso à instância especial.
+2. A ausência de enfrentamento da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos das Súmulas n. 282 e 356 do STF 3. Incide a Súmula n. 284 do STF quando deficiente a fundamentação do recurso, uma vez que não foram opostos embargos de declaração em face do acórdão recorrido e a parte alega a ocorrência de prequestionamento ficto nos termos do art. 1.025 do CPC.
+4. Consoante entendimento jurisprudencial do STJ, enquanto não decididas, as questões de ordem pública podem ser conhecidas, inclusive de ofício, em qualquer grau de jurisdição ordinária, pois não sujeitas à preclusão temporal, mas à coisa julgada e sua eficácia preclusiva.
+5. A falta de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.086.256/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+Não bastasse a ausência de prequestionamento, percebe-se que a segunda instância se limitou a aduzir que a questão acerca da exclusão de valores relativos a recebimento de montante decorrente do seguro prestamista já teria sido resolvida em outro agravo de instrumento, evidenciando a inexistência de debate sobre o mérito dessa questão no acórdão.
+Veja-se (e-STJ, fl. 679):
+Ao exame dos autos, verifica-se que foi determinada penhora dos valores oriundos dos consórcios nº 00383881 e 00313820 e de eventual saldo restante do seguro prestamista firmado pelo de cujus.
+Todavia, tais parcelas já haviam sido excluídas do inventário, sendo a decisão proferida nos autos do agravo de instrumento 5109353-45.2021.8.21.7000, de relatoria da Desembargadora Sandra Brisolara Medeiros. Conforme referido na decisão, da qual transcrevo trecho a seguir, aos referidos créditos são aplicadas as disposições do art. 794 do Código Civil, de maneira que não estão sujeitos às dívidas do autor da herança:
+ ..
+Ante o exposto, voto por DAR PROVIMENTO ao agravo de instrumento.
+Essa premissa do julgamento no sentido da solução do caso em outro recurso não foi objeto de ataque específico no recurso especial, embora tal fundamento do aresto tenha sido relevante para a solução então conferida ao caso. Dessa forma, é imperiosa a incidência da Súmula 283/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Deixo de majorar os honorários sucumbenciais de acordo com o decidido nos EDcl no AgInt no REsp 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017, haja vista que a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AUSÊNCIA DE ATAQUE ESPECÍFICO A RELEVANTE FUNDAMENTO DO ACÓRDÃO DA SEGUNDA INSTÂNCIA. ÓBICE SUMULAR N. 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
