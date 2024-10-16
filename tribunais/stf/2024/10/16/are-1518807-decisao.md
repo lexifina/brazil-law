@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Linx Sistemas e Consultoria Ltda, em face do acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+
+    “AÇÃO ORDINÁRIA CUMULADA COM REPETIÇÃO DE INDÉBITO. EXTINÇÃO SEM EXAME DO MÉRITO. PRÉVIO REQUERIMENTO ADMINISTRATIVO E INTERESSE DE AGIR. PREJUDICIALIDADE DO PEDIDO SUBSIDIÁRIO. 1. Afirmou a autora em sua inicial: “a autora vinha informando, de maneira equívoca, na respectiva documentação (docs. 02/05), como preponderante pela empresa, a atividade de desenvolvimento e licenciamento de programas de computador customizáveis, que a sujeita a um grau de risco considerado médio e alíquota do RAT correspondente em 2% (...) ao longo dos anos de 2012, 2013 e 2014, (...) cenário que perdurou até a alteração do seu CNAE preponderante em meados de 2015, reduzindo consequentemente sua alíquota do RAT para 1%”. A União consignou que a pretensão da autora poderia ter sido requerida e alcançada no âmbito administrativo, bastando comprovar que a atividade se enquadrava em outro CNAE e retificando as GFIP’s. 2. A necessidade de prévio requerimento administrativo vem sendo reconhecida pelo STF (RE 839.314: “A ameaça ou lesão a direito aptas a ensejar a necessidade de manifestação judiciária do Estado só se caracteriza após o prévio requerimento administrativo, o qual não se confunde com o esgotamento das instâncias administrativas”). 3. No caso dos autos, a autora não efetuou requerimento administrativo, nem há notório entendimento contrário à sua pretensão por parte da Administração, sendo inviável o conhecimento do seu pedido. 4. Por fim, com relação ao argumento de que a ação também versa sobre a indevida majoração da alíquota do RAT pelo Decreto 6.957/2009 observo o seguinte. O pedido de reconhecimento da indevida majoração da alíquota do RAT pelo Decreto 6.957/2009 foi condicionado à improcedência do primeiro pedido (fls. 10 dos autos físicos) justamente porque o alvo da autora é reaver as mesmas contribuições mencionadas no primeiro pedido. No caso, entretanto, o feito está sendo extinto sem exame do mérito quanto ao primeiro pedido, o que resulta na prejudicialidade do segundo. Isso porque não se entrou no mérito do enquadramento realizado de forma equivocada pela autora, e a consequência da retificação do enquadramento será, conforme afirmado pela própria autora, a aplicação da alíquota mínima (1%), o que torna estéril a discussão a respeito das majorações promovidas pelo Decreto 6.957/2009 nas alíquotas do RAT. 5. DESPROVIMENTO à apelação da autora.”
+
+    Na minuta, sustenta-se violação dos arts. 5º, XXXV e 37, caput, da Constituição da República, sob o argumento de que é desnecessário o prévio requerimento administrativo como condição para a configuração do interesse de agir em demandas tributárias. Alega-se, ainda, a inaplicabilidade do Tema 350 da Repercussão Geral aos casos tributários.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso comporta provimento.
+
+    Da análise dos autos verifica-se que o entendimento acolhido no acórdão impugnado NÃO está alinhado à jurisprudência desta Suprema Corte, que tem entendimento pacífico acerca da desnecessidade de prévio requerimento administrativo como condição para o ajuizamento de ação em que se postule a repetição de indébito tributário. Nessa linha, menciono as seguintes decisões: RE 1.486.344/CE, Rel. Min. Dias Toffoli, DJe 17/4/2024; RE 1.491.603/GO, Rel. Min. Luiz Fux, DJe 2/8/2024; RE 1.464.304/RJ, Rel. Min. Edson Fachin, DJe 27/11/2023; RE 1.504.556/BA, Rel. Min. Cármen Lúcia, DJe 13/8/2024; RE 1.455.839/CE, Rel. Min. Luís Roberto Barroso, DJe 27/9/2023; RE 1.448.236/CE, Rel. Min. Alexandre de Moraes, DJe 1º/12/2023; ARE 1.427.501/SP, Rel. Min. Nunes Marques, DJe 10/4/2023; ARE 1.299.092/RN, Rel. Min. Ricardo Lewandowski, DJe 18/12/2020; ARE 1.497.747/PE.
+
+    Ademais, o Tema 350 da Repercussão Geral (RE 631.240 RG/MG, Rel. Min. Luís Roberto Barroso, DJe 10/11/2014) não se aplica ao caso dos autos, uma vez que a presente controvérsia não versa sobre benefícios previdenciários, mas sim sobre questões relacionadas ao direito tributário. Nesse sentido:
+
+    “Agravo regimental em recurso extraordinário com agravo. Direito Tributário. Isenção de imposto de renda em função de doença grave. Prévio requerimento administrativo. Tema nº 350 da Repercussão Geral. Inaplicável. Agravo ao qual se nega provimento. 1. O precedente firmado no julgamento do RE nº 631.240/MG, Rel. Min. Roberto Barroso, não se aplica ao caso, porquanto aqui não se trata de benefício previdenciário, mas de pedido de isenção de imposto de renda em razão de doença grave cumulada com repetição de indébito. Precedentes. 2. Agravo regimental ao qual se nega provimento, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Majoração do valor monetário da verba honorária já fixada em 10%, a título de honorários recursais, nos termos do art. 85, § 11, do novo Código de Processo Civil, observados os limites dos §§ 2º e 3º do citado artigo e a eventual concessão de justiça gratuita.” (ARE 1367504 AgR-segundo, Relator(a): DIAS TOFFOLI, Primeira Turma, julgado em 13-06-2022, PROCESSO ELETRÔNICO DJe-156 DIVULG 05-08-2022 PUBLIC 08-08-2022)
+
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, dou provimento ao recurso extraordinário para anular o acórdão que manteve a extinção do feito sem julgamento do mérito e determinar que o Juízo de origem prossiga no julgamento do feito como entender de direito.
+
+    Publique-se.
+
+    Brasília, 16 de outubro de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
