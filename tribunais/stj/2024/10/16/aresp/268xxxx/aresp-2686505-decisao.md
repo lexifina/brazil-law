@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FRANCISCO ASSIS BORGES contra decisão que inadmitiu o recurso especial em razão da ausência de demonstração da alegada vulneração do art. 290 do CPC, da incidência da Súmula n. 7 do STJ e da não comprovação do dissídio jurisprudencial.
+Nas razões do agravo em recurso especial, a parte agravante refuta os fundamentos de inadmissibilidade do recurso especial.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Cível n. 1111391-31.2023.8.26.0100,) assim ementado (fl. 84):
+APELAÇÃO - PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS - AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO COM PEDIDO DE RESTITUIÇÃO DE VALORES E REPARAÇÃO DE DANOS MORAIS - Indeferimento do pedido de Justiça gratuita formulado pelo autor - Ausência de recolhimento das custas iniciais - Extinção do processo, sem resolução do mérito, com determinação de intimação pessoal do autor para efetuar o pagamento da taxa judiciária, sob pena de inclusão do valor em dívida ativa - Exigência de natureza tributária - Custas iniciais que possuem a natureza jurídica de taxa, cuja exigibilidade está vinculada à prestação do serviço público forense (art. 1º da Lei Estadual nº 11.608/03) - Precedentes da Câmara - Sentença mantida - RECURSO IMPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 93-98).
+Nas razões do recurso especial, a parte recorrente aponta dissídio jurisprudencial e violação do art. 290 do Código de Processo Civil.
+Alega que "o Excelentíssimo Magistrado a quo, proferiu erroneamente uma decisão de extinção do feito, e não de cancelamento da distribuição, conforme prevê o art. 290 do CPC, impondo-lhe o pagamento das custas iniciais do processo" (fl. 110).
+Colaciona julgado do Tribunal de Justiça do Estado de Minas Gerais visando demonstrar divergência jurisprudencial acerca da determinação do cancelamento da distribuição, afastando a condenação ao pagamento das custas processuais.
+Requer o conhecimento e o provimento do recurso para que seja determinado o cancelamento da distribuição e, consequentemente, o afastamento da condenação ao pagamento das custas processuais.
+As contrarrazões não foram apresentadas (fl. 130).
+É o relatório. Decido.
+Trata-se na origem de pedido de justiça gratuita, formulado na petição inicial de ação indenizatória proposta por Francisco Assis Borges, indeferido pelo juízo singular (fl. 33).
+Inconformado, o autor agravou de instrumento; ao recurso foi negado provimento, sob o fundamento de que o recorrente não colacionou documento apto a justificar a concessão da gratuidade judiciária almejada (fls. 51-56).
+Na sequência, sobreveio a seguinte sentença (fl. 57):
+Ante o descumprimento do quanto determinado retro e na falta de comprovação do recolhimento da taxa judiciária, julgo extinto o processo sem resolução de mérito, com base no art. 485, caput, IV, do Código de Processo Civil.
+Intime-se pessoalmente a parte autora (diligência do juízo) a pagar a taxa judiciária da distribuição. Em caso de retorno negativo de carta enviada ao último endereço informado nos autos, a intimação será considerada realizada nos termos do art. 274, p. único, do Código de Processo Civil.
+Escoado o prazo do artigo 1098, §2º, NSCGJ, expeça-se certidão para inclusão do valor devido ao Estado na dívida ativa.
+Oportunamente, anote-se a extinção e ao arquivo.
+O autor, então, apelou dessa sentença. A Corte local negou provimento ao recurso, sob os seguintes fundamentos (fls. 85-86):
+I -- Trata-se de ação declaratória de inexigibilidade de débito com pedido de restituição de valores e reparação de danos morais promovida por Francisco Assis Borges contra Skeelo Editora Produtos e Serviços Digitais Ltda., em decorrência da realização de cobranças indevidas em sua fatura telefônica, relativas a serviço não contratado ("Livros Digitais Padrão Skeelo", no valor de R$ 13,34).
+O pedido de concessão dos benefícios da Justiça gratuita deduzido pelo autor na petição inicial foi indeferido pelo D. Juízo de primeiro grau (fl. 33), o que foi mantido no julgamento do Agravo de Instrumento nº 2238966-14.2023.8.26.0000 , de relatoria do Des. Francisco Casconi, julgado em 02/10/2023 (fls. 51/55).
+Diante da ausência de recolhimento das custas iniciais pelo autor, sobreveio a r. sentença recorrida, que julgou extinto o processo, sem resolução do mérito, com fundamento no art. 485, IV, do CPC, determinando sua intimação pessoal para efetuar o pagamento da taxa judiciária de distribuição, sob pena de inclusão do valor em dívida ativa.
+Delineada brevemente a situação dos autos, a irresignação recursal é improcedente.
+II -- As custas iniciais possuem a natureza jurídica de taxa, de acordo com o art. 1º da Lei Estadual nº 11.608/031, cuja exigibilidade está vinculada ao exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua disposição (art. 145, II, da CF/88).
+Veja-se, inclusive, que a taxa judiciária abrange todos os atos processuais, inclusive os relativos aos serviços de distribuidor, contador, partidor, de hastas públicas, da Secretaria dos Tribunais, bem como as despesas com registros, intimações e publicações na Imprensa Oficial, nos termos do art. 2º da Lei Estadual nº 11.608/03.
+Assim, ainda que não tenha sido realizada a citação da parte contrária, houve a movimentação do serviço público judicial, inclusive em grau recursal, sendo devido o recolhimento das custas iniciais, conforme entendimento consolidado por esta C. 31ª Câmara de Direito Privado:
+A conclusão adotada na origem não se harmoniza com a jurisprudência do STJ orientada no sentido de que, incidente a regra do art. 290 do CPC, por ausência do recolhimento de custas e despesas processuais iniciais, extingue-se o feito, cancelando-se a distribuição, sem, contudo, seja imposto ao autor o pagamento dos ônus sucumbenciais.
+A propósito, confira-se:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE RECOLHIMENTO DAS CUSTAS INICIAIS. CANCELAMENTO DA DISTRIBUIÇÃO. CITAÇÃO. INTIMAÇÃO. IMPOSSIBILIDADE. RESPONSABILIDADE DO AUTOR PELO PAGAMENTO DOS ÔNUS SUCUMBENCIAIS. AUSÊNCIA.
+1- Recurso especial interposto em 14/08/2020 e concluso ao gabinete em 24/11/2020.
+2- O propósito recursal consiste em dizer se: a) nos termos do art. 290 do CPC, o cancelamento da distribuição pelo não recolhimento das custas iniciais exige a prévia citação ou intimação do réu; e b) o cancelamento da distribuição impõe ao autor a obrigação de arcar com os ônus de sucumbência.
+3- O cancelamento da distribuição, a teor do art. 290 do CPC, prescinde da citação ou intimação da parte ré, bastando a constatação da ausência do recolhimento das custas iniciais e da inércia da parte autora, após intimada, em regularizar o preparo.
+4- A extinção do processo sem resolução do mérito com fundamento no art. 290 e no inciso IV do art. 485, ambos do CPC, em virtude do não recolhimento das custas iniciais não implica a condenação do autor ao pagamento dos ônus sucumbenciais, ainda que, por erro, haja sido determinada a oitiva da outra parte.
+5- Recurso especial provido. (REsp n. 1.906.378/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/5/2021, DJe de 14/5/2021, destaquei.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento a fim de isentar o recorrente do pagamento dos ônus sucumbenciais em virtude do cancelamento da distribuição do feito, com fundamento no art. 290 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
