@@ -1,0 +1,38 @@
+DECISÃO
+AMERICA PART PLAN LTDA. opõe embargos de declaração à decisão de fls. 518-524, que reconsiderou a decisão agravada para, conhecendo do agravo, conhecer em parte do recurso especial e negar-lhe provimento.
+Em suas razões, a embargante sustenta que "a r. decisão embargada, concessa vênia, revela-se contraditória, pois partiu da equivocada premissa que não teria havido a citação da Embargante nestes autos, consistindo nesta a questão decisiva para o resultado do julgamento" (fl. 527).
+Afirma que não foi essa a situação dos autos.
+Aduz o seguinte (fl. 528):
+3.- Deveras, nota-se, às e-STJ Fl. 77 a e-STJ Fl. 78, que a Embargante, em decorrência da ordem de citação emanada da r. decisão de e- STJ Fl. 72, compareceu espontaneamente aos autos, juntando procuração, conforme certificado pela z. Serventia à e-STJ Fl. 79, in verbis:
+ ..
+4.- O §1º, do art. 239, do CPC é categórico em estabelecer que o comparecimento espontâneo supre a falta de citação, fluindo a partir de então o prazo para a contestação ou embargos à execução.
+5.- Portanto, não há dúvidas que, nesta ação, de fato houve a citação da Embargante, América Part Plan, ocorrendo a triangularização da relação processual, premissa fundante da v. decisão embargada.
+Afirma também (fl. 531):
+19.- Desse modo, esclarecido que, na presente ação, a Embargante, América Part Plan Ltda., foi devidamente citada, operando-se a triangularização processual, é mister que se reconheça que houve a extinção da execução em relação à parte, com a consequente condenação da Embargada em honorários de sucumbência.
+Requer (fl. 531):
+ ..  seja dado provimento ao presente recurso, para sanar a contradição surgida com a equivocada premissa de que partiu a r. decisão embargada, a fim de que Vossa Excelência, admitindo ter se operado a inequívoca triangularização processual, com a ocorrência da efetiva citação, que se perfectibilizou com o ingresso espontâneo (§1º, art. 239, do CPC) da Embargante nos autos (e-STJ Fl. 77 a e-STJ Fl. 78), conforme certificado pela z. Serventia à e-STJ Fl. 79, reconheça que houve a extinção da execução em relação à América Part Plan a ensejar a condenação da Embargada ao pagamento de honorários de sucumbência  ..
+Não foram apresentadas contrarrazões aos embargos (fl. 536).
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+No presente caso, a parte não aponta contradição ou outro vício passível de ser eliminado pelo STJ em embargos de declaração. Apenas demonstra seu interesse na reanálise da questão referente
+Eis o que consta da decisão impugnada (fls. 521-524):
+Quanto à suscitada ofensa ao art. 85, § 1º, do CPC, a Corte de origem consignou (fl. 398):
+No caso em tela, a decisão agravada que ordenara a citação da ora embargante AMÉRICA foi substituída pelo acórdão do agravo de instrumento, que reconheceu o descabimento da ordem de ingresso da recorrente na execução preexistente. Assim sendo, não tratou o acórdão embargado de extinguir a execução que já tramitava em face da embargante (o que importaria na necessidade de fixação de verba honorária), mas de afastar própria ordem de citação, não havendo assim enquadramento nas hipóteses do art. 85 do CPC.
+Conforme disposto no acórdão recorrido, não haveria mesmo como aplicar o art. 85 do CPC ao presente caso.
+A jurisprudência desta Corte firmou-se no sentido de ser incabível a condenação a honorários advocatícios na hipótese em que não se verifica a extinção da execução em relação a uma das partes, mas o afastamento da ordem de citação antes da ocorrência de triangularização da relação processual, situação ocorrente nos autos.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXTINÇÃO. EMBARGOS À EXECUÇÃO REJEITADOS LIMINARMENTE ANTES DA TRIANGULARIZAÇÃO DA RELAÇÃO PROCESSUAL INCIDENTAL. NÃO CABIMENTO DE HONORÁRIOS ADVOCATÍCIOS.
+1. Discute-se nos autos o cabimento de honorários advocatícios nos casos em que os embargos à execução foram rejeitados liminarmente, ou seja, antes da triangularização da relação processual em razão da extinção da execução.
+2. Conforme a jurisprudência do STJ, fundamentada no princípio da causalidade, é incabível a condenação em honorários advocatícios quando a ação é extinta antes da triangularização da relação processual. Agravo interno improvido. (AgInt no AR Esp n. 2.178.508/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 23/10/2023, D Je de 25/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PAGAMENTO EM MOMENTO POSTERIOR AO AJUIZAMENTO E ANTERIOR À CITAÇÃO. NÃO CABIMENTO DE CONDENAÇÃO DA PARTE EXECUTADA EM HONORÁRIOS.
+1. "Não cabimento de condenação em honorários da parte executada para pagamento do débito executado em momento posterior ao ajuizamento e anterior à citação, em decorrência da leitura complementar dos princípios da sucumbência e da causalidade, e porque antes da citação não houve a triangularização da demanda" (REsp n. 1.927.469/PE, de minha relatoria, Segunda Turma, D Je de 13/9/2021).
+2. Na satisfação do débito administrativo, após o ajuizamento da execução, se a Fazenda Pública não cobrou a verba honorária nem sequer fez ressalva alguma a esse título, a aceitação do pagamento (integral) constitui renúncia aos consectários, inclusive eventuais honorários.
+3. Agravo interno a que se nega provimento. (AgInt no AR Esp n. 1.875.947/PE, relator Ministro Og Fernandes, Segunda Turma, julgado em 9/11/2021, D Je de 10/12/2021.)
+Como visto, a decisão embargada foi clara ao conhecer do agravo para conhecer em parte do recurso especial e negar-lhe provimento e explicitar o que constou do acórdão recorrido, a saber: "a decisão  ..  que ordenara a citação da ora embargante AMÉRICA foi substituída pelo acórdão do agravo de instrumento, que reconheceu o descabimento da ordem de ingresso da recorrente na execução preexistente. Assim sendo, não tratou o acórdão embargado de extinguir a execução que já tramitava em face da embargante (o que importaria na necessidade de fixação de verba honorária), mas de afastar própria ordem de citação, não havendo assim enquadramento nas hipóteses do art. 85 do CPC" (fl. 398, destaquei).
+Nas razões dos embargos de declaração, a embargante restringe-se a afirmar que houve seu comparecimento espontâneo aos autos e a sua posterior exclusão da execução, o que ensejaria a condenação da parte adversa ao pagamento dos honorários advocatícios, nos termos do art. 85 do CPC.
+Ressalte-se que a mera irresignação da parte embargante com o entendimento adotado no julgamento do agravo interno não viabiliza a oposição dos aclaratórios (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 1º/12/2021, DJe de 15/12/2021).
+A propósito, "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão recorrida de vícios que autorizariam sua oposição (ambiguidade, obscuridade, contradição e omissão).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
