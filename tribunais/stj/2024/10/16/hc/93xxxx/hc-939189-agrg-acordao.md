@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO DE LIMINAR NO WRIT ORIGINÁRIO. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL - STF. AUSÊNCIA DE ILEGALIDADE PATENTE NO ATO CONTESTADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme a decisão agravada, não se constata teratologia ou constrangimento ilegal que justifique a superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF.
+2. Ao indeferir a liminar no writ originário, o Desembargador relator não vislumbrou manifesta ilegalidade capaz de conduzir ao deferimento da medida liminarmente vindicada.
+3. Não há flagrante ilegalidade ou teratologia no ato que, fundamentadamente, indefere a liminar, demonstrando a ausência de comprovação dos requisitos do pleito urgente.
+4. "A pretensão do agravante, de reconhecimento da nulidade do flagrante ante a ausência de autorização para entrada na residência, que também nulificaria sua prisão, comporta indeferimento liminar, melhor cabendo seu exame no julgamento de mérito pelo colegiado da Corte a quo, juiz natural da causa" (AgRg no HC n. 747.382/MG, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), SEXTA TURMA, julgado em 2/8/2022, DJe de 5/8/2022).
+5. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALINE PEDROSO DA SILVA contra decisão pela qual indeferi liminarmente o habeas corpus tendo em vista o óbice decorrente da aplicação analógica da Súmula n. 691 do Supremo Tribunal Federal.
+No recurso, a defesa reitera a alegação de nulidade dos elementos de convicção arrecadados na investigação preliminar, sob o argumento da ocorrência de invasão de domicílio. Afirma ser "teratológica a decisão do relator de negar a liminar para suspender a investigação até o julgamento do mérito pela 14ª Câmara Criminal do TJSP, vez que autoriza a continuidade de um inquérito policial fundado em prova ilícita" (fl. 174).
+Requer o provimento do agravo a fim de conceder a ordem de habeas corpus, nos termos da inicial.
+O Ministério Público Federal - MPF manifestou-se pelo não conhecimento do recurso (fls. 189/192).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO DE LIMINAR NO WRIT ORIGINÁRIO. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL - STF. AUSÊNCIA DE ILEGALIDADE PATENTE NO ATO CONTESTADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme a decisão agravada, não se constata teratologia ou constrangimento ilegal que justifique a superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF.
+2. Ao indeferir a liminar no writ originário, o Desembargador relator não vislumbrou manifesta ilegalidade capaz de conduzir ao deferimento da medida liminarmente vindicada.
+3. Não há flagrante ilegalidade ou teratologia no ato que, fundamentadamente, indefere a liminar, demonstrando a ausência de comprovação dos requisitos do pleito urgente.
+4. "A pretensão do agravante, de reconhecimento da nulidade do flagrante ante a ausência de autorização para entrada na residência, que também nulificaria sua prisão, comporta indeferimento liminar, melhor cabendo seu exame no julgamento de mérito pelo colegiado da Corte a quo, juiz natural da causa" (AgRg no HC n. 747.382/MG, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), SEXTA TURMA, julgado em 2/8/2022, DJe de 5/8/2022).
+5. Agravo regimental desprovido.
+VOTO
+A decisão contestada deve ser integralmente mantida, já que a defesa não delineou argumentos novos hábeis a ensejar sua desconstituição.
+Nesse sentido, destaco que " é  assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no RHC n. 121.958/SE, relator Ministro FELIX FISCHER, QUINTA TURMA, DJe de 25/5/2020).
+Nada obstante, convém reproduzir os fundamentos da decisão agravada, assim redigidos:
+"A ação deve ser liminarmente indeferida, pois contesta decisão monocrática que indeferiu pleito. O Superior Tribunal de Justiça, "seguindo o preceituado no enunciado n. 691 da Súmula do Supremo Tribunal Federal, tem entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta" (AgRg no HC n. 751.440/DF, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe de 15/8/2022). No mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DE DROGA. BUSCA DOMICILIAR. AUSÊNCIA DE FUNDADAS RAZÕES. TEMA NÃO DEBATIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. WRIT CONTRA INDEFERIMENTO DE LIMINAR NA ORIGEM. AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA NA DECISÃO IMPUGNADA. SÚMULA 691/STF. AGRAVO NÃO PROVIDO.
+1. Nos termos da Súmula 691 do STF "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+2. Hipótese em que o Tribunal de origem indeferiu a liminar, motivadamente, por não ter verificado de imediato o alegado constrangimento ilegal que justifique a antecipação do mérito.
+3. As possíveis ilegalidades apontadas pela defesa, aptas à mitigação da mencionada Súmula e a justificar manifestação antecipada deste Superior Tribunal de Justiça, não foram constatadas.
+4. Agravo regimental não provido.
+(AgRg no HC n. 865.043/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 18/12/2023, DJe de 20/12/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. SUPERAÇÃO DA SÚMULA N. 691/STF. IMPOSSIBILIDADE. ILEGALIDADE DA BUSCA DOMICILIAR SEM FUNDADAS RAZÕES E SEM AUTORIZAÇÃO JUDICIAL. MATÉRIA NÃO APRECIADA PELAS INSTÂNCIAS DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. Nos termos da Súmula n. 691 do STF, não se admite, em regra, a impetração de habeas corpus contra decisão que indefere o pedido liminar na origem, ressalvadas as hipóteses em que evidenciada a presença de decisão teratológica ou desprovida de fundamentação.
+2. Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+3. Apresentada fundamentação concreta, evidenciada na reiteração criminosa do agravante, não há que se falar em ilegalidade na decretação da prisão preventiva.
+4. A análise inaugural do tema relativo à nulidade da prova por esta Corte implicaria inevitavelmente indevida supressão de instância.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 826.144/MG, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), SEXTA TURMA, julgado em 14/8/2023, DJe de 17/8/2023).
+Para melhor compreensão da controvérsia, reproduzo os fundamentos da decisão monocrática contestada pela defesa:
+"O exame dos autos levado a efeito em cognição sumária não autoriza concluir, ao menos no presente momento, pela existência de prova inequívoca do alegado constrangimento ilegal.
+As questões invocadas dizem respeito ao mérito da causa e exigem exame interpretativo da prova, procedimento cuja admissibilidade é no mínimo controvertida em sede de habeas corpus, especialmente nesta fase inicial.
+Ademais, os indicios até agora colhidos autorizam e respaldam, ainda que em tese, a persecução penal, motivo pelo qual não se justifica o sobrestamento do inquérito policial neste instante procedimental.
+Dessa forma, uma vez que não se divisa flagrante ilegalidade, hábil a justificar a concessão da medida pleiteada, indefiro a liminar." (fl. 13).
+Ao menos em juízo perfunctório, não vislumbro a possibilidade de superação do óbice sumular referido, pois o indeferimento da tutela de urgência pautou-se em fundamentação idônea ao afirmar que o constrangimento ilegal aventado não estava manifesto e detectável de plano, tendo sido referido que as questões invocadas dizem respeito ao mérito e não podem ser devidamente deliberadas de maneira urgente.
+Convém acrescentar que os fundamentos adotados pela autoridade apontada como coatora apresentam consonância com precedente desta Corte Superior:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. SÚMULA 691 DO STF. TRÁFICO DE DROGAS. PORTE ILEGAL DE ARMA. INDEFERIMENTO LIMINAR DO WRIT. FLAGRANTE. BUSCA DOMICILIAR. MANDADO JUDICIAL. NULIDADE. NÃO OCORRÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. APREENSÃO DE ARMA DE FOGO E DROGAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+2. A pretensão do agravante, de reconhecimento da nulidade do flagrante ante a ausência de autorização para entrada na residência, que também nulificaria sua prisão, comporta indeferimento liminar, melhor cabendo seu exame no julgamento de mérito pelo colegiado da Corte a quo, juiz natural da causa.
+3. O decreto de prisão preventiva apresenta fundamentação adequada, com referências às circunstâncias fáticas das quais se depreende a apreensão de arma de fogo e de quantidades variadas de diferentes entorpecentes, "apreensão de arma de fogo, 29 tabletes de maconha, 11 porções de crack, 34 porções de cocaína bruta, 136 comprimidos de ecstasy, 139 papelotes de cocaína, 155 pedras de crack (seis) pedras de "crack" e maconha".
+4. Não havendo ilegalidade para justificar a mitigação do enunciado da Súmula 691 do STF, o writ deve ser indeferido liminarmente.
+5. Agravo regimental improvido.
+(AgRg no HC n. 747.382/MG, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), SEXTA TURMA, julgado em 2/8/2022, DJe de 5/8/2022).
+Como não foi possível apurar patente ilegalidade ou teratologia no ato impugnado, esta Corte fica impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em desprestígio às instâncias ordinárias, devendo-se aguardar o julgamento definitivo pela Corte de origem.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus" (fls. 163/166).
+O habeas corpus contesta decisão que indeferiu pleito de liminar em habeas corpus e a defesa pretende, com o recurso, a reforma da decisão que indeferiu liminarmente o writ por reconhecer a incidência do enunciado da Súmula n. 691/STF. Em que pese a irresignação, referido enunciado sumular somente pode ser superado em hipóteses de flagrante constrangimento ilegal.
+O Desembargador Relator da impetração originária foi explicito ao apontar que, ao menos naquele momento processual, não subsistiam elementos indicativos de manifesta ilegalidade capaz de ensejar a atuação prematura daquele Tribunal, acrescendo a constatação de que os indícios até então colhidos na investigação preliminar respaldam a persecução penal.
+A decisão proferida na Corte de origem não apresenta manifesto vício de fundamentação, sendo certo que não há flagrante ilegalidade ou teratologia no ato que, fundamentadamente, indefere a liminar, demonstrando a falta de comprovação dos requisitos do pleito urgente.
+Nesses termos, o ato objurgado proferido na origem apresenta compatibilidade com o entendimento desta Corte Superior no sentido de que " ..  a concessão da liminar em habeas corpus exige a comprovação de plano do periculum in mora e do fumus boni iuris  .. " (AgRg no HC n. 780.377/SP, relator Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe de 21/12/2022).
+Dessarte , de rigor a manutenção da decisão monocrática proferida, convindo realçar que " a  pretensão do agravante, de reconhecimento da nulidade do flagrante ante a ausência de autorização para entrada na residência, que também nulificaria sua prisão, comporta indeferimento liminar, melhor cabendo seu exame no julgamento de mérito pelo colegiado da Corte a quo, juiz natural da causa" (AgRg no HC n. 747.382/MG, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), SEXTA TURMA, julgado em 2/8/2022, DJe de 5/8/2022).
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
