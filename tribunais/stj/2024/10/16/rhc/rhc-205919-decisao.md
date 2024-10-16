@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por PATRICK JULIO DOS REIS PEREIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.24.414501-7/000).
+Infere-se dos autos que o recorrente foi preso em flagrante, custódia convertida em preventiva, por suposta infração ao art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual foi denegado nos termos da seguinte ementa (e-STJ fl. 262):
+EMENTA: HABEAS CORPUS. TRÁFICO DE DROGAS. REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. INADEQUAÇÃO DAS MEDIDAS CAUTELARES DIVERSAS. 1. Diante da presença dos pressupostos previstos no artigo 312 do Código de Processo Penal e do requisito disposto no artigo 313, inciso I, do Codex, a manutenção da segregação cautelar é medida que se impõe para fins de garantia da ordem pública e da conveniência da instrução criminal. 2. Apreensão de 246,82g (duzentos e quarenta e seis gramas e oitenta e dois centigramas) de maconha, além da quantia de R$85,00 (oitenta e cinco reais) em dinheiro. 3. Possibilidade concreta de reiteração delitiva que advém da própria mercancia ilícita, sendo cediço que o tráfico de entorpecentes é fomentador de diversos outros delitos. 4. Ordem denegada. V. V. - É descabida a prisão cautelar, quando inexistir demonstração objetiva do perigo gerado pelo estado de liberdade do paciente, que é primário e ostenta bons antecedentes. - As medidas cautelares diversas da prisão são adequadas e suficientes, quando as condições pessoais da agente são favoráveis e as circunstâncias do suposto crime não ultrapassam a gravidade inerente ao tipo penal.
+Nas razões do presente recurso, a defesa alega, em síntese, não estarem presentes os requisitos autorizadores da medida constritiva cautelar previstos no art. 312 do CPP, destacando que a quantidade de entorpecente apreendida não é expressiva a ponto de justificar a manutenção da custódia.
+Sublinha ser o recorrente primário, detentor de bons antecedentes, sem vínculo com organização criminosa, além de possui residência fixa e trabalho honesto.
+Defende ser suficiente, no caso, a aplicação de medidas cautelares alternativas, nos termos do art. 319 do CPP.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva do recorrente ou, subsidiariamente, a sua substituição por medidas cautelares alternativas.
+É o relatório. Decido.
+De plano, verifico que nesta Corte, também, houve a impetração do HC n. 949.869/MG, em favor do ora recorrente, requerendo, igualmente, a revogação da prisão preventiva, sob os mesmos argumentos ora apresentados e apontando o mesmo ato coator (HC n. 1.0000.24.414501-7/000), sendo que, em 1/10/2024, o habeas corpus não foi conhecido, mas a ordem foi concedida de ofício, para revogar a prisão preventiva do réu, mediante aplicação de medidas cautelares a serem impostas pelo Juízo de origem.
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Intimem-se.
+EMENTA
