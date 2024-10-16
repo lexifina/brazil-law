@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de PEDRO HENRIQUE WANDERLEY MACHADO, ex-prefeito investigado pela prática de crimes de corrupção, fraude à licitação e lavagem de dinheiro, além de crimes de responsabilidade (Autos n. 1012922-22.2022.4.01.0000), e a quem foram impostas medidas cautelares diversas da prisão (Autos n. 1019020-23.2022.4.01.0000).
+Ataca-se a decisão da Desembargadora do Tribunal Regional Federal da 1ª Região que declinou da competência em favor do Juízo de primeiro grau (fls. 20/24).
+Alega-se que foi formulado pedido de revogação das medidas cautelares de proibição de se ausentar do município de Alto Alegre/RR e de recolhimento domiciliar no período noturno e nos dias de folga  destacando a necessidade de convivência com a filha lactente  , ainda não apreciado em razão do declínio de competência, a revelar manifesta negativa de prestação jurisdicional (fl. 8).
+Aduz-se que condicionar o conhecimento de habeas corpus ao exaurimento da jurisdição originária - em detrimento da garantia fundamental à liberdade  implica o esvaziamento do remédio constitucional, e que, embora esteja pendente de julgamento o competente agravo regimental interposto em face da decisão ora combatida, as circunstâncias fáticas do caso concreto não se encartam nos parâmetros de incidência do precedente sumular  Súmula 691/STF , o que autoriza, conforme se demonstrará, a concessão do writ  ainda que de ofício (fl. 8).
+Sustenta-se que a possibilidade de reversão do declínio de competência por força do entendimento delineado pelo Pretório Excelso no HC n. 232.627/DF, combinado com a manifesta ilegalidade do cerceamento de liberdade imposto ao Paciente, caracterizam a irrazoabilidade da decisão vergastada, afigurando-se cabível o presente mandamus (fls. 9/10).
+Argumenta-se, por fim, que a substancial alteração do contexto fático, desde a instauração do inquérito policial, e a postura escorreita do Paciente durante as investigações, ensejam a desnecessidade de manutenção das medidas cautelares, que deverão ser revogadas com base nos critérios de utilidade e contemporaneidade (fl. 12).
+Requer-se, em liminar, a suspensão das medidas cautelares de recolhimento domiciliar e de proibição de se ausentar do município; e, ao final, a sua revogação.
+Antes de apreciar o pedido liminar, solicitei informações às instâncias a quo, que foram prestadas às fls. 115/118 e 130/132.
+Em 10/9/2024, deferi medida liminar para suspender as medidas cautelares de recolhimento domiciliar no período noturno e nos dias de folga e de proibição de se ausentar da cidade sem autorização até o julgamento de mérito do writ.
+Vieram mais informações.
+Opinou o Ministério Público Federal nos termos do parecer de fls. 174/177.
+É o relatório.
+Embora a parecerista tenha se manifestado dizendo que o writ não comporta processamento, ante o óbice da supressão de instância, repito o que afirmei ao deferir a medida liminar.
+De fato, a pretensão aqui deduzida ainda não foi apreciada na instância de origem, o que atrairia, em princípio, o óbice da supressão de instância.
+Ocorre que, pelo que se tem das informações prestadas, a parte está sendo tolhida do seu direito de ter seu pleito examinado por culpa exclusiva do Estado, o que não se pode admitir. Com efeito, o Tribunal Regional Federal da 1ª Região já afastou a sua competência, determinando a remessa dos autos à Seção Judiciária de Roraima, o que, todavia, ainda não foi feito (cf. fl. 131), estando impossibilitada a análise do pedido inclusive pelo juízo tido por competente.
+Vale acrescentar que o paciente já se encontra afastado da função pública relacionada aos crimes investigados e que não há indicação de risco concreto de fuga, havendo outras medidas cautelares fixadas que já garantem o bom andamento do feito e evitam o risco à sociedade.
+Assim, confirmo a decisão liminar e concedo a ordem a fim de revogar as medidas cautelares de recolhimento domiciliar no período noturno e nos dias de folga e de proibição de se ausentar da cidade sem autorização, impostas ao ora paciente nos Autos n. 1019020-23.2022.4.01.0000.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CORRUPÇÃO, FRAUDE À LICITAÇÃO, LAVAGEM DE DINHEIRO E CRIMES DE RESPONSABILIDADE PRATICADOS POR EX-PREFEITO. REVOGAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS. PEDIDO AINDA NÃO APRECIADO PELA INSTÂNCIA A QUO EM RAZÃO DE DECLÍNIO DE COMPETÊNCIA. CONSTRANGIMENTO ILEGAL APTO DE SER REPARADO POR ESTA VIA. LIMINAR CONFIRMADA.
+Ordem concedida nos termos do dispositivo.
