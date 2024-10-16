@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. AUMENTO DE PENA FUNDAMENTADO. BIS IN IDEM NÃO CONFIGURADO. INVIABILIDADE DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO PRÓPRIO OU REVISÃO CRIMINAL. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. NÃO CONHECIMENTO DA ORDEM . AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Bento Cardoso da Silva contra acórdão que manteve sua condenação por tráfico internacional de drogas (art. 33, caput, c/c art. 40, I, da Lei 11.343/2006) e associação para o tráfico (art. 35, caput, c/c art. 40, I, da Lei 11.343/2006), com pena de 16 anos e 4 meses de reclusão, em regime inicialmente fechado, e 2.099 dias-multa. A defesa alega que a pena-base foi fixada de forma excessiva, sem fundamentação adequada, e que houve bis in idem pela aplicação cumulativa da causa de aumento de pena pela transnacionalidade nos dois crimes.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se o habeas corpus pode ser conhecido como substitutivo de recurso próprio ou revisão criminal; e (ii) examinar se houve flagrante ilegalidade na dosimetria da pena imposta ao paciente, com especial atenção à alegação de bis in idem.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça não admite o uso de habeas corpus como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. A dosimetria da pena está fundamentada na gravidade do crime, considerando a quantidade de droga apreendida (66 kg de cocaína), as circunstâncias do delito e a reincidência do réu, o que justifica a fixação da pena-base acima do mínimo legal.
+5. Não se verifica bis in idem na aplicação da causa de aumento pela transnacionalidade, já que essa circunstância é considerada de forma autônoma nos crimes de tráfico e associação para o tráfico.
+6. Para acolher a pretensão da defesa, seria necessária a reanálise de provas, o que é vedado na via estreita do habeas corpus.
+7. Ausente flagrante ilegalidade, o habeas corpus não deve ser conhecido.
+IV. DISPOSITIVO
+8. Agravo regimental desprovido.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 997-998).
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. AUMENTO DE PENA FUNDAMENTADO. BIS IN IDEM NÃO CONFIGURADO. INVIABILIDADE DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO PRÓPRIO OU REVISÃO CRIMINAL. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. NÃO CONHECIMENTO DA ORDEM . AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Bento Cardoso da Silva contra acórdão que manteve sua condenação por tráfico internacional de drogas (art. 33, caput, c/c art. 40, I, da Lei 11.343/2006) e associação para o tráfico (art. 35, caput, c/c art. 40, I, da Lei 11.343/2006), com pena de 16 anos e 4 meses de reclusão, em regime inicialmente fechado, e 2.099 dias-multa. A defesa alega que a pena-base foi fixada de forma excessiva, sem fundamentação adequada, e que houve bis in idem pela aplicação cumulativa da causa de aumento de pena pela transnacionalidade nos dois crimes.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se o habeas corpus pode ser conhecido como substitutivo de recurso próprio ou revisão criminal; e (ii) examinar se houve flagrante ilegalidade na dosimetria da pena imposta ao paciente, com especial atenção à alegação de bis in idem.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça não admite o uso de habeas corpus como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. A dosimetria da pena está fundamentada na gravidade do crime, considerando a quantidade de droga apreendida (66 kg de cocaína), as circunstâncias do delito e a reincidência do réu, o que justifica a fixação da pena-base acima do mínimo legal.
+5. Não se verifica bis in idem na aplicação da causa de aumento pela transnacionalidade, já que essa circunstância é considerada de forma autônoma nos crimes de tráfico e associação para o tráfico.
+6. Para acolher a pretensão da defesa, seria necessária a reanálise de provas, o que é vedado na via estreita do habeas corpus.
+7. Ausente flagrante ilegalidade, o habeas corpus não deve ser conhecido.
+IV. DISPOSITIVO
+8. Agravo regimental desprovido.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 997-999):
+Trata-se de habeas corpus impetrado em favor de BENTO CARDOSO DA SILVA contra acórdão assim ementado:
+PENAL. PROCESSUAL PENAL. TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. LEI Nº 11.343/2006, ARTIGOS 33, CAPUT, C/C O ART. 40, INCISO I E 35 C/C O ART. 40, I. MATERIALIDADE E AUTORIA COMPROVADAS. DOSIMETRIA MANTIDA. APELAÇÕES DESPROVIDAS. A materialidade e a autoria dos tipos penais previstos nos arts. 33, caput, c/c o art. 40, inciso I, e 35 c/c o art. 40, I, todos da Lei n. 11.343/2006, ficaram suficientemente demonstradas no contexto probatório dos autos. Inexiste fundamento jurídico a justificar a fixação da pena-base de cada um dos réus no patamar mínimo legal. A fixação da pena-base acima do mínimo legal está fundamentada na gravidade do delito perpetrado pelos réus, consubstanciada no grau de censurabilidade das condutas, na natureza e quantidade de droga apreendida em seu poder (66 kg de cocaína), bem nas circunstâncias em que foi praticado o delito. Os réus não fazem jus à redução da pena por aplicação do §4º do art. 33 da Lei n. 11.343/2006, e à substituição da pena privativa de liberdade por penas restritivas de direitos, pois não preencheram os requisitos previstos pelas normas regentes dessas matérias. Considerando que os réus permaneceram presos durante todo o período da instrução criminal, aliado ao fato de que o montante de penas aplicadas resulta em regime de cumprimento de pena inicialmente fechado, não fazem jus ao benefício de responder ao processo em liberdade. Apelações desprovidas.
+Consta dos autos que o paciente foi condenado à pena de 16 anos e 4 meses de reclusão, em regime inicialmente fechado, e multa de 2.099 dias-multa, pelos crimes de tráfico de drogas, conforme o artigo 33, caput, c/c o artigo 40, inciso I, da Lei 11.343/2006, e associação para o tráfico, conforme o artigo 35, caput, c/c o artigo 40, inciso I, da mesma lei .
+A defesa alega, em síntese, que a pena-base imposta ao paciente foi estabelecida de maneira excessiva, devido à negativação de circunstâncias judiciais de forma genérica e sem fundamentação adequada. Aduz que a culpabilidade, a conduta social, os motivos do crime e as consequências extrapenais foram desabonadas de maneira injusta, resultando em um aumento desproporcional da pena. Além disso, contesta a aplicação cumulativa da causa de aumento de pena pela transnacionalidade tanto ao crime de tráfico de drogas quanto ao de associação para o tráfico, argumentando que isso configura bis in idem, ou seja, punição dupla pelo mesmo fato.
+Ao final, requer a concessão da ordem para redimensionar a pena-base do paciente, fixando-a no mínimo legal e afastando a causa de aumento de pena referente à transnacionalidade de um dos crimes, com base na urgência e nos prejuízos irreparáveis que a manutenção da sentença atual poderia causar.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. DOSIMETRIA. WRIT IMPETRADO MAIS DE NOVE ANOS APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. PRECLUSÃO TEMPORAL. HABEAS CORPUS SUBSTITUVO DE REVISÃO CRIMINAL. INVIABILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+I - "A jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e à lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC n. 690.070/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/10/2021).
+II - O presente writ foi impetrado mais de 9 anos após o trânsito em julgado da condenação, de modo que o mandamus não pode ser conhecido em decorrência da preclusão da matéria, devendo prevalecer a coisa julgada e o princípio da segurança jurídica.
+III - O exame das alegações do impetrante se mostra processualmente inviável, uma vez que transmuta o habeas corpus em sucedâneo de revisão criminal, configurando, assim, usurpação da competência do Tribunal de origem, nos termos do artigo 105, I, "e" da Constituição Federal.
+IV - Consoante artigo 210 do Regimento Interno do STJ, bem como nos moldes da jurisprudência desta Corte Superior, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente, não havendo ilegalidade a ser sanada quanto ao ponto.
+Agravo regimental desprovido.
+(AgRg no HC n. 908.528/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024.)
+No caso, não se verifica flagrante ilegalidade na dosimetria da pena estabelecida na origem, pois lastreada na gravidade do crime praticado, evidenciada na natureza e quantidade de droga apreendida com os réus (66 kg de cocaína), nas circunstâncias em que foi praticado o delito, bem como em razão de condenações anteriores por crimes diversos, como homicídio culposo e roubo (fl. 49).
+Além disso, conforme a jurisprudência desta Corte, não há bis in idem na incidência da causa de aumento da pena prevista no art. 40, inciso I, da Lei n. 11.343/06 sobre ambos os tipos penais (arts. 33 e 35 da mesma Lei). Veja-se:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. ART. 33, § 4.º, DA LEI N. 11.343/2006. INCOMPATIBILIDADE COM O DELITO DE ASSOCIAÇÃO. IMPOSSIBILIDADE DE REFORMATIO IN PEJUS. MAJORANTE DA TRANSNACIONALIDADE. INCIDÊNCIA EM CADA DELITO IMPUTADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em razão de as instâncias ordinárias haverem constatado, com amparo nas provas presentes nos autos, o vínculo subjetivo e a estabilidade da associação entre os Recorrentes, a análise da pretensão absolutória quanto ao delito do art. 35 da Lei n. 11.343/06 exigiria amplo reexame probatório, o que encontra óbice na Súmula n. 7/STJ.
+2. Mantida a condenação pelo delito de associação para o tráfico, é inviável o pleito de majoração da redução em decorrência da minorante do art. 33, § 4.º, da Lei n. 11.3438/06. De fato, conforme jurisprudência desta Corte Superior, a referida minorante sequer deveria ter sido aplicada, o que não pode ser alterado ante a vedação à reformatio in pejus.
+3. Por estar evidenciado que as condutas de tráfico e associação para o tráfico tinham como objetivo a remessa de entorpecentes ao exterior, não há bis in idem na incidência da causa de aumento da pena prevista no art. 40, inciso I, da Lei n. 11.343/06 sobre ambos os delitos.
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp n. 2.031.619/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/2/2023, DJe de 13/2/2023.)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
