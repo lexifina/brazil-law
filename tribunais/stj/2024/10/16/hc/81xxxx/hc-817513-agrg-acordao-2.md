@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E COMÉRCIO ILEGAL DE ARMA DE FOGO. ORDEM PARCIALMENTE CONCEDIDA NESTE STJ. PEDIDO DE MANUTENÇÃO DA PENA IMPOSTA PELO TRIBUNAL LOCAL. INAPLICABILIDADE. QUANTUM DE 1/6 (UM SEXTO) SOBRE A PENA MÍNIMA QUE SE IMPÕE. AGRAVO DESPROVIDO.
+I - No caso concreto, a ordem foi parcialmente concedida neste STJ, tendo em vista a necessidade de reforma das penas pelo quantum de aumento aplicado de forma exacerbada pela origem.
+II - Segundo a jurisprudência deste Tribunal Superior, a exasperação da pena basilar, pela existência de circunstâncias judiciais desfavoráveis, pode seguir o parâmetro de 1/6 (um sexto) da pena mínima em abstrato para cada vetorial, salvo a justificação de elementos concretos que embasem a necessidade de elevação em patamar superior. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão que concedeu parcialmente a ordem de habeas corpus.
+Consta dos autos que o agravado foi condenado pelos crimes previstos no art. 33, caput, art. 35 e art. 40, inciso IV, todos da Lei n. 11.343/06; art. 288, parágrafo único do Código Penal; e arts. 14 e 17 da Lei n. 10.826/03; às penas de 39 (trinta e nove) anos, 09 (nove) meses e 27 (vinte e sete) dias de reclusão, em regime inicial fechado.
+Nas razões do presente recurso, o agravante sustenta que a fixação da pena-base realizada pelas instâncias ordinárias não merece reforma.
+Entende que o quantum aplicado apresentou-se suficiente para a prevenção e reprovação dos crimes no caso concreto.
+Alega que, quanto à dosimetria das penas, a Corte de origem observou as circunstâncias judiciais elencadas no art. 59 do Estatuto Repressivo de forma adequada.
+Aduz que, quanto aos crimes de tráfico de drogas, associação para o tráfico e comércio ilegal de arma de fogo, a culpabilidade foi valorada como de reprovabilidade extremamente elevada.
+Assere restar patente que a instância ordinária, dentro do critério da discricionariedade juridicamente vinculada, aumentou as penas-base pela valoração negativa da culpabilidade do réu, ora agravado, mediante fundamentação concreta, com proporcionalidade e razoabilidade.
+Invoca devem ser restabelecidas as penas impostas ao réu, ora agravado, pelas instâncias ordinárias, por entender serem necessárias e suficientes para a reprovação dos delitos.
+Requer, ao final, a reconsideração da decisão ou que o presente pleito seja submetido ao julgamento pela Turma, para que seja provido, no sentido de denegar a ordem de habeas corpus.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E COMÉRCIO ILEGAL DE ARMA DE FOGO. ORDEM PARCIALMENTE CONCEDIDA NESTE STJ. PEDIDO DE MANUTENÇÃO DA PENA IMPOSTA PELO TRIBUNAL LOCAL. INAPLICABILIDADE. QUANTUM DE 1/6 (UM SEXTO) SOBRE A PENA MÍNIMA QUE SE IMPÕE. AGRAVO DESPROVIDO.
+I - No caso concreto, a ordem foi parcialmente concedida neste STJ, tendo em vista a necessidade de reforma das penas pelo quantum de aumento aplicado de forma exacerbada pela origem.
+II - Segundo a jurisprudência deste Tribunal Superior, a exasperação da pena basilar, pela existência de circunstâncias judiciais desfavoráveis, pode seguir o parâmetro de 1/6 (um sexto) da pena mínima em abstrato para cada vetorial, salvo a justificação de elementos concretos que embasem a necessidade de elevação em patamar superior. Precedentes.
+Agravo regimental desprovido.
+VOTO
+No presente recurso, o agravante pede a reversão do julgado no tocante às penas novas impostas ao agravado, após a concessão parcial da ordem neste STJ.
+Da decisão impugnada, entretanto, colhe-se que analisou de forma devidamente fundamentada os pontos apresentados.
+Saliente-se que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade.
+Vale dizer, que o entendimento deste Tribunal firmou-se no seguinte sentido:
+"A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados pela lei, sendo permitido ao julgador, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena" (AgRg no AREsp n. 2.347.239/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 15/8/2023).
+Segundo a jurisprudência hoje pacífica deste Tribunal Superior, a exasperação da pena basilar, pela existência de circunstâncias judiciais desfavoráveis, pode seguir o parâmetro de 1/6 (um sexto) da pena mínima em abstrato para cada vetorial, salvo a justificação de elementos concretos que embasem a necessidade de elevação em patamar superior.
+Nesse sentido:
+"Segundo a jurisprudência deste Tribunal Superior, a exasperação da pena basilar, pela existência de circunstâncias judiciais desfavoráveis, deve seguir o parâmetro de 1/6 (um sexto) para cada vetorial valorada negativamente, fração esta que se firmou em observância aos princípios da razoabilidade e proporcionalidade, salvo a apresentação de elementos concretos, suficientes e idôneos que justifiquem a necessidade de elevação em patamar superior" (AgRg no AREsp n. 1.895.576/MG, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 3/10/2022).
+"A ponderação das circunstâncias judiciais previstas no art. 59 do Código Penal é dirigida pela discricionariedade motivada do magistrado, que deve avaliar, caso a caso, os vetores do dispositivo mencionado e, a partir deles, fixar a pena na primeira fase da dosimetria. Muito embora não existam parâmetros legais para determinar percentuais mínimos e máximos de aumento, a jurisprudência, em atenção aos critérios jurídicos da proporcionalidade e da razoabilidade, adotou a fração de 1/6 (um sexto) para cada circunstância negativamente valorada" (AgRg no HC n. 788.220/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023).
+"É certo que no caso de fundamentação baseada na quantidade e/ou natureza dos entorpecentes, aplica-se o art. 42 da Lei n. 11.343/06, cuja norma prevê a preponderância de tais circunstâncias em relação às demais previstas no art. 59 do Código Penal, cabendo ao magistrado aumentar a pena de forma sempre fundamentada e apenas quando identificar dados que extrapolem as circunstâncias elementares do tipo penal básico. Por outro lado, quanto à fração de aumento da pena-base, no silêncio do legislador, a doutrina e a jurisprudência estabeleceram dois critérios de incremento da pena-base, por cada circunstância judicial valorada negativamente, sendo o primeiro de 1/6 (um sexto) da mínima estipulada e outro de 1/8 (um oitavo), a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador, ressalvadas as hipóteses em que haja fundamentação idônea e bastante que justifique aumento superior às frações acima mencionadas. Além disso, cabe ao Juiz a discricionariedade de aplicar a pena de acordo com o art. 59 do Código Penal" (AgRg no HC n. 846.549/PB, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 11/9/2024, grifei).
+No caso concreto, porém, a fixação da pena do agravado não observara os parâmetros fixados por esta Corte Superior, razão pela qual houve a reforma das reprimendas.
+Embora as memoráveis considerações do agravante, a manutenção da decisão anterior se mostra mais justa e proporcional.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É como voto.
