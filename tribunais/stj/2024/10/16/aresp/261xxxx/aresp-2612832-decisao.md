@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por FRYSTHM FRANCA SILVA, com fundamento na alínea a do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Estado de Goiás assim ementado (e-STJ, fl. 564):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA. RECONHECIMENTO DE PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS PELA PARTE EXECUTADA. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. O reconhecimento da prescrição intercorrente não afasta o princípio da causalidade em desfavor da parte devedora, nem atrai a sucumbência para o exequente, pois quem deu causa ao ajuizamento da demanda foi a parte executada que não cumpriu com as obrigações contratuais, tornando-se inadimplente, razão pela qual esta deve arcar com a verba honorária.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 592-604).
+No recurso especial (e-STJ, fls. 608-624), o recorrente alegou violação do art. 85 do CPC.
+Sustentou, em síntese, o não cabimento de fixação de honorários advocatícios em seu favor, em razão do acolhimento da exceção de pré-executividade, que reconheceu a ocorrência da prescrição intercorrente e extinguiu o feito.
+Contrarrazões apresentadas às fls. 633-641 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O Tribunal de origem concluiu não ser cabível a fixação de honorários sucumbenciais em benefício do devedor pelo reconhecimento da prescrição intercorrente, consoante excerto do voto abaixo transcrito (e-STJ, fls. 566-567, sem grifo no original):
+Inicialmente, cumpre registrar que a distribuição do ônus da sucumbência é regulamentada pelo art. 85 do Código de Processo Civil (CPC), segundo o qual "a sentença condenará o vencido a pagar honorários ao advogado do vencedor".
+Como se depreende do referido dispositivo, o juízo deve pautar-se pelos critérios da sucumbência e da causalidade, isto é, somente a parte vencida ou aquele que deu causa à demanda é quem deve arcar com as despesas deles decorrentes. Consoante o escólio de Humberto Theodoro Júnior: ( )
+Vale ressaltar que, embora tenha sido reconhecida a prescrição intercorrente, alegada em sede de exceção de pré-executividade pela parte ré, a ação monitória teve causa por desídia da parte executada em cumprir com as obrigações contratuais, tornando-se inadimplente.
+Desta forma, ainda que tenha ocorrido a prescrição intercorrente por inércia do exequente/recorrido, condená-lo em honorários seria beneficiar a parte devedora.
+Portanto, é o caso de se aplicar o princípio da causalidade, conforme realizou o juiz ao proferir a sentença, razão pela qual não há falar em inversão da verba honorária, devendo a parte executada/apelante arcar com os honorários advocatícios.
+Em outras palavras, o reconhecimento da prescrição intercorrente não afasta o princípio da causalidade em desfavor da parte devedora, nem atrai a sucumbência para o exequente, pois quem deu causa ao ajuizamento da demanda foi a parte executada que não cumpriu com as obrigações contratuais.
+Destarte, verifica-se que o acórdão recorrido encontra-se em perfeita consonância com a jurisprudência desta Corte no sentido de que "em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa. A causalidade diz respeito a quem deu causa ao ajuizamento da execução - no caso, o devedor que deixou de satisfazer espontaneamente a obrigação - não tendo relação com a causa que ensejou a decretação da prescrição intercorrente (inação do credor durante o prazo prescricional) (AgInt nos EDcl no AREsp n. 2.180.877/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023)."
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO INTERCORRENTE. CONDENAÇÃO DO EXEQUENTE EM HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. IMPOSSIBILIDADE. PRINCÍPIO DA CAUSALIDADE. ACÓRDÃO EMBARGADO EM SINTONIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. A Corte Especial do STJ, ao julgar o EAREsp 1.854.589/PR, ratificou recentemente a orientação de que "A resistência do exequente ao reconhecimento de prescrição intercorrente não infirma nem supera a causalidade decorrente da existência das premissas que autorizaram o ajuizamento da execução, apoiadas na presunção de certeza, liquidez e exigibilidade do título executivo e no inadimplemento do devedor".
+2. Agravo Interno não provido.
+(AgInt nos EAREsp n. 2.037.941/PR, Relator Ministro Herman Benjamin, Corte Especial, julgado em 7/2/2024, DJe de 9/5/2024.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. PRETENSÃO DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM DESFAVOR DA PARTE EXEQUENTE. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
