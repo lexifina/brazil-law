@@ -1,0 +1,19 @@
+DECISÃO
+Andrios Valuto agrava de decisão que não admitiu recurso especial interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal contra acórdão do Tribunal de Justiça do Militar Estado de São Paulo.
+O Presidente do Tribunal de origem inadmitiu o recurso especial pelo óbice das Súmulas n. 7 e 83 do STJ.
+Manifestação do Ministério Público Federal pelo não conhecimento do agravo às e-STJ fls. 3.441/3.444.
+É o relatório. Decido.
+Não merece conhecimento o agravo.
+Primeiramente, não há usurpação da competência do Superior Tribunal de Justiça pela Corte Estadual, ao argumento de que houve o ingresso indevido no mérito do recurso especial por ocasião do juízo de admissibilidade, uma vez que constitui atribuição do Tribunal a quo o exame dos pressupostos específicos do apelo nobre relacionados ao mérito da controvérsia, nos termos da Súmula n. 123 desta Corte Superior de Justiça (AgRg no AREsp n. 2.006.951/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022).
+A decisão agravada não admitiu o recurso especial considerando o óbice das Súmulas n . 7 e 83 do STJ.
+Contudo, o agravante, nas razões do presente inconformismo, não impugnou corretamente os referidos fundamentos.
+Assinala-se que, nos casos em que o recurso especial não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida (AgRg nos Edcl no Aresp n. 1.096.124/SP) demonstrando-se que outro é o entendimento jurisprudencial desta Corte (ut, AgInt no AREsp n. 1.566.560/RJ, Relator Ministro Marco Aurélio Bellizze, DJe 19/2/2020).
+Além disso, conforme remansosa jurisprudência desta Corte, " a  impugnação da Súmula 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída.  ..  O Recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário revolver o acervo fático-probatório dos autos para a análise da insurgência" (ut, AgInt no AREsp n. 2.371.208/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Nesse contexto, aplica-se, por analogia, o disposto no enunciado n. 182 da Súmula do STJ. Nessa linha:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A ausência de impugnação específica aos fundamentos da decisão de admissibilidade impede o conhecimento do respectivo agravo, nos termos do que dispõe a Súmula 182/STJ.
+ ..
+3. Agravo regimental a que se nega provimento. Concedido habeas corpus, de ofício, para declarar a prescrição da pretensão executória do agravante quanto ao crime do art. 90 da Lei n. 8.666/1993 (AgRg no Ag 1.378.279/MG, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 27/3/2017).
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso I, do RISTJ, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
