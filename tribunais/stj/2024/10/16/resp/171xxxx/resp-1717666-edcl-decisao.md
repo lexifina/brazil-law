@@ -1,0 +1,116 @@
+DECISÃO
+MANUEL AUGUSTO RODRIGUES VITÓRIA (MANUEL) ajuizou ação de cobrança contra a CAPEMI - CAIXA DE PECÚLIOS, PENSÕES E MONTEPIOS BENEFICENTE (CAPEMI), cobrando diferenças pecuniárias decorrentes da não aplicação de correção monetária plena sobre o montante pago a título de contribuição, desde a origem contratual até a aposentadoria, com os reflexos da correção na definição do seu benefício mensal.
+A sentença julgou procedentes os pedidos para condenar a CAPEMI a:
+a) corrigir o valor do pensionamento devido ao autor (CR$ 200,00, em 29/8/1977) pelos seguintes índices:
+- de out/64 a fev/86: ORTN;
+- fev/86: ORTN;
+- mar/86 e mar/87 a jan/89: OTN;
+- abr/86 a fev/87: OTN "pro rata";
+- fev/89: 42,72%;
+- mar/89: 23,6%;
+- abr/89 a mar/91: IPC do IBGE;
+- para o mês de fevereiro de 1991, o IPC ficou em 21,87%;
+- a partir de março de 1991, deve ser estabelecido o IGP-M da Fundação Getúlio Vargas.
+b) fazer a inclusão (obrigação de fazer) em folha de pagamento do autor dos valores atualizados, corrigindo a defasagem; e
+c) pagar as diferenças entre os valores de pensionamento mensal efetivamente pagos, e aqueles que deveriam ter sido pagos, corrigidas monetariamente, tais diferenças, pelo IGP-M/FGV, e acrescidas de juros legais de 1% ao mês, 12% ao ano, na exegese do art. 406, do CC c/c o art. 161, § 1º do CTN, contados desde a data da citação (e-STJ, fls. 47/52).
+O Magistrado de primeiro grau ainda fez constar, na parte dispositiva o seguinte:
+Sucumbente, arcará a requerida com a totalidade das custas processuais e com o pagamento dos honorários advocatícios devidos ao patrono do requerente, os quais, forte nos artigos 20, § 3º, do Código de Processo Civil, fixo em 20% sobre o proveito econômico efetivo que vier a ser apurado em favor do requerente, ou R$ 4.000,00 de acordo com o § 4º, do art. 20, do CPC), o que for maior.
+Faço cientes as partes de que, não ocorrendo o pagamento espontâneo da condenação (ou depósito para eximir-se, este no caso de haver interposição de recurso em face da sentença exarada), no prazo de quinze (15) dias, contados da intimação desta sentença, o débito será acrescido da multa de 10% (dez por cento), a que alude o art. 475-J, do CPC.
+E mais, determino que, não feito o pagamento no prazo a que refere o mencionado artigo de lei, caso requerido o cumprimento da sentença com previsto no art. 475-I, c/c o art. 475-J, do CPC, incidirão, para a fase executória, honorários advocatícios, inicialmente de 10% sobre o valor total da condenação e multa, podendo variar até 20% (e-STJ, fl.
+52).
+Interposta apelação pela CAPEMI, o Tribunal de Justiça do Rio Grande do Sul deu-lhe parcial provimento, apenas no que tange à redimensão da verba honorária, nos termos do acórdão assim ementado:
+PREVIDÊNCIA PRIVADA. CAPEMI. PENSÃO DE APOSENTADORIA. CORREÇÃO MONETÁRIA.
+A pensão de aposentadoria, perseguida pelo autor, deve corresponder ao valor equivalente ao prometido quando da celebração do contrato.
+O valor contratado deve ser pago mediante correção monetária que bem reflita a evolução inflacionária do período abrangente.
+Prescrição qüinqüenal inocorrente. Cuidando-se de parcelas de benefício pagas mensalmente, isto é, obrigação de trato sucessivo, a prescrição alcança somente as parcelas vencidas há mais de cinco anos, não o direito propriamente dito.
+Verba honorária modificada em conformidade com os parâmetros indicados pelo § 3º do art. 20 do CPC e com a Súmula nº 111 do STJ.
+Apelo provido em parte (e-STJ, fl. 55).
+Os embargos de declaração opostos por CAPEMI foram parcialmente acolhidos, com efeitos infringentes, a fim de consignar que a correção monetária deverá se operar a partir da contratação (agosto de 1977), bem como afastar as disposições da parte final do dispositivo da r. sentença, no relativo aos honorários e multa (e-STJ, fls. 566/585).
+Irresignada, a CAPEMI manifestou recurso especial com fundamento nas alíneas a e c do permissivo constitucional, sustentando, a par de dissídio jurisprudencial, violação dos arts. (1) 131 e 436, ambos do CPC/73, alegando que, em casos dessa natureza, a conclusão da prova pericial atuarial é fundamental e somente poderia ter sido afastada se houvesse fundamentação técnica suficiente a elidi-la, o que não se configurou no presente feito, pelo que a apelação deveria ter sido provida in totum; e (2) 8º, III, 10 e 22, todos da Lei n. 6.435/77; 1º, caput e § 1º, 7º, III, 9º e 30, todos do Decreto n. 81.402/78; e 73 da Lei Complementar n.º 109/01, visto que a forma de reajuste imposta pelo acórdão recorrido violaria as disposições do Regulamento e feriria o equilíbrio atuarial do sistema e prejuízo ao mutualismo, em face da notória ausência de prévia formação de fonte de custeio.
+Apresentadas as contrarrazões (e-STJ, fls. 681/684), o recurso foi admitido na origem (e-STJ, fls. 687/695).
+Em decisão de minha lavra, foi dado provimento ao apelo nobre, nos termos da seguinte ementa:
+RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. RECURSO INTERPOSTO NA ÉGIDE DO CPC/73. REVISÃO DE BENEFÍCIO. REQUERIMENTO. PRODUÇÃO. PERÍCIA ATUARIAL. DEMONSTRAÇÃO. DESEQUILÍBRIO. CONTRATO. POSSIBILIDADE. PRECEDENTES. RECURSO PROVIDO (e-STJ, fl. 705).
+Nas razões do presente inconformismo, a CAPEMI defendeu que a decisão embargada foi omissa e contraditória a respeito do fato de que a prova já foi devidamente produzida e concluiu que está correto o cálculo atuarial realizado pela entidade ré (embargante), conforme efetivamente se observa na resposta do ilustre perito ao quesito 7 da ré (e-STJ, fls. 712/716).
+Foi apresentada impugnação (e-STJ, fls. 720/722).
+É o relatório.
+Decido.
+(1) Da omissão
+No mais, observa-se que os presentes embargos declaratórios, pretendem, no fundo, o reexame do julgado monocrático, razão pela qual devem ser recebidos como agravo interno, aplicando-se ao caso o princípio da fungibilidade recursal.
+A propósito, confiram-se os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ACLARATÓRIOS RECEBIDOS COMO AGRAVO REGIMENTAL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. DANO MORAL DE PESSOA JURÍDICA. POSSIBILIDADE. TELEFONIA. PORTABILIDADE. CONFIGURAÇÃO DO DANO. REEXAME DE PROVA. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. À míngua do preenchimento dos pressupostos autorizadores da oposição de embargos de declaração e diante da evidente intenção da recorrente de rediscutir o mérito da decisão, recebo os presentes embargos de declaração como agravo regimental.
+ ..
+6. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento.
+(EDcl no AREsp 651.991/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 20/5/2015)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. QUESTÃO DE ORDEM NO AG 1.154599/SP. CORTE ESPECIAL. AGRAVO DO ART. 544 DO CPC CONTRA DECISÃO DO TRIBUNAL DE ORIGEM QUE OBSTA O RECURSO ESPECIAL NOS TERMOS DO ART. 543-C, § 7º, I, DO CPC. NÃO-CABIMENTO.
+1. O embargante pretende, na realidade, a reforma da decisão embargada, no tocante à justiça gratuita; intuito que foge da função dos embargos de declaração. Diante disso e em atenção aos princípios da fungibilidade recursal e da celeridade e economia processual, estes embargos declaratórios foram recebidos como agravo regimental.
+ ..
+4. Embargos de declaração recebidos como agravo regimental a que se nega provimento, com aplicação de multa.
+(EDcl no AREsp 573.148/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 23/10/2014)
+No mérito, tendo em vista as pertinentes alegações contidas no presente agravo interno, reconsidero a decisão agravada.
+Passa-se, então, à nova análise do recurso especial manifestado pela CAPEMI.
+(2) Da correção monetária plena
+Na espécie, o assistido, MANUEL, buscou a condenação da CAPEMI ao pagamento de diferenças pecuniárias decorrentes da não aplicação de correção monetária plena sobre o montante pago a título de contribuição, desde a origem contratual até a aposentadoria, com os reflexos da correção na definição do seu benefício mensal (e-STJ, fls. 131/137).
+Na hipótese, o Tribunal gaúcho consignou que
+ ..  Pelo que se verifica, em 29.08.1977, o autor aderiu a plano mantido pela CAPEMI, o qual previa, entre outros benefícios, a possibilidade de o aderente optar pelo recebimento da pensão de aposentadoria, após 25 anos de contribuição (fls. 87 e v. e 238).
+Nos anos de 1986, 1987 e 1988, houve atualização de benefícios e contribuições, como se vê das fls. 63/65.
+Em 20.11.2002, o autor optou pela aposentadoria, consoante formulário da fl. 78.
+Todavia, o valor inicialmente previsto no contrato, flagrantemente defasado, foi atualizado conforme os critérios atuariais adotados pela ré, resultando numa pensão de aposentadoria de aproximadamente R$ 258,80, em 2002 (fl. 03).
+Ocorre que, como já teve oportunidade de salientar o STJ, o que se mostra perfeitamente adequado à situação dos autos:
+"A correção monetária não se constitui em um "plus", senão em uma mera atualização da moeda, aviltada pela inflação, impondo-se como um imperativo de ordem jurídica, econômica e ética. Jurídica, porque o credor tem o direito tanto de ser integralmente ressarcido dos prejuízos da inadimplência, como o de ter por satisfeito, em toda a sua inteireza, o seu crédito pago com atraso. Econômica, porque a correção nada mais significa senão um mero instrumento de preservação do valor do crédito. Ética, porque o crédito pago sem correção importa em um verdadeiro enriquecimento sem causa do devedor, e a ninguém é lícito tirar proveito de sua própria inadimplência" (RSTJ 74/387).
+Nessas circunstâncias, a atualização monetária do benefício do autor, e não a atualização pelo cálculo atuarial elaborado pela ré, mostra-se a solução mais adequada.
+Efetivamente, não é, sequer, razoável que o demandante, depois de mais de 25 anos de contribuição, passe a receber uma pensão de aposentadoria no irrisório valor de aproximadamente R$ 258,80, no ano de 2002, como referido, o que, sob qualquer ótica que se examine, leva à segura conclusão de se tratar de um benefício incompreensível e ofensivo à dign i dade da pessoa humana que, aliás, tem expressa proteção no art. 1º, inciso III, da Constituição Federal.
+É importante registrar, em reforço à pretensão do autor, que as próprias contribuições que fez ao longo do tempo, isto é, desde 1977, relativamente ao plano a que aderiu, sofreram atualização monetária, como mostra a cláusula 15, §§ 1º e 4º, do Regulamento da ré (fl. 62).
+Aliás, como visto, nos anos de 1986 e 1987, o autor optou pela novação contratual, atualizando tanto o valor dos benefícios como das contribuições (fls. 63/65).
+Isso demonstra que, durante o período contributivo, o autor tinha preocupação com o valor do benefício que receberia no futuro.
+Cumpre referir que o próprio art. 44 do "Regulamento do Sistema de Assistência aos Sócios e seus Beneficiários", constante no verso da proposta de adesão ao plano, estabelece:
+"Art. 44 -A progressividade dos valores dos pecúlios e das pensões constitui princípio básico, tanto para a Caixa como para o sócio, de modo que seja evitada a deterioração do poder aquisitivo da quantia a ser legada aos beneficiários"(fl. 61, verso).
+Por sua vez, o art. 45 do referido Regulamento dispõe:
+"Art. 45 - A progressividade de que trata o Artigo 44 será assegurada pelos reajustamentos, em face da conjuntura econômica, quando se elevará, ao mesmo tempo, o valor das mensalidades, dos pecúlios e das pensões, procurando-se, pelo menos, compensar os efeitos da desvalorização monetária"(fl. 61, verso).
+Nada mais justo, então, que a pensão de aposentadoria, a que tem direito o demandante, também seja alvo de atualização, pelos indexadores que melhor reflitam os efeitos da inflação.
+A propósito, o art. 22 da Lei nº 6.435, de 15.6.77, é claro ao prever a atualização monetária, tanto no que se refere às contribuições, como no tocante aos benefícios.
+Se é verdade, como aduz a demandada, que o valor dos benefícios segue detalhados e complexos estudos atuariais, para garantir, mediante fundo comum, o equilíbrio no custeio de tais benefícios, diante da participação de inúmeros outros aderentes, nem por isso, há de se descurar da necessidade de ser mantido o poder aquisitivo da moeda, corroída pela inflação do período.
+Tudo isso, em que pese o laudo pericial da fl. 185 e seguintes não ter apontado diferenças em favor do autor, concluindo que o benefício pago, pela demandada, mostra-se correto e, até mesmo, superior ao que seria devido.
+Ocorre que, à luz do art. 436 do CPC, o juiz não está adstrito ao laudo pericial, podendo formar a sua convicção com outros elementos ou fatos provados nos autos. Além disso, o art. 131 do mesmo estatuto, possibilita, ao julgador, a livre apreciação da prova dos autos para formar seu convencimento.
+Assim, impondo-se a revisão do benefício em tela, desde a data de sua concessão e com o pagamento das diferenças devidas, com a incidência de correção monetária que melhor reflita a evolução da variação inflacionária do período, nos moldes estabelecidos pela respeitável sentença.
+A decisão apelada também deve ser confirmada no ponto em que determina, à ré, a inclusão, na folha de pagamento do autor, do valor atualizado da pensão. Essa providência é conseqüência natural da revisão do benefício, sequer sendo necessário qualquer debate a respeito de se caracterizar ou não como obrigação de fazer.
+A propósito, na esteira da solução apregoada, esta Câmara já teve oportunidade de se manifestar, como dão conta as Apelações nºs 70004275814, 70010042422, 70015767924, 70021561113 e 70024434011, das quais fui relator.
+Com relação à prescrição, alegada pela apelante apenas subsidiariamente (fl. 258), convém registrar que, tratando-se de previdência privada, o prazo é qüinqüenal, conforme consta do seguinte precedente:
+II - Consolida-se nesta Corte jurisprudência no sentido de que, em se tratando de parcelas devidas em decorrência de plano de benefício de previdência privada, prevalece a prescrição qüinqüenal, prevista na legislação de regência (Lei nº 8.213, de 24.07.91, art. 103), não incidindo a prescrição vintenária" (Recurso Especial nº 173826/RS, apreciado pela Terceira Turma, em 21.9.99, relator o Ministro Waldemar Zveiter).
+Aliás, tal prazo vem estampado no art. 75 da Lei Complementar nº 109, de 29.5.2001, bem como na Súmula 291 do STJ, quando refere que a ação de cobrança de parcelas de complementação de aposentadoria e pensão pela previdência privada prescreve em cinco anos.
+Todavia, cuidando-se de parcelas de benefício pagas mensalmente, isto é, obrigação de trato sucessivo, o STJ também tem decidido que a prescrição alcança somente as parcelas vencidas há mais de cinco anos, não o direito propriamente dito  .. .
+Em decorrência disso, o autor não está impedido de buscar o direito à atualização monetária plena de seu benefício. Porém, relativamente às diferenças devidas pelas parcelas pretéritas, pode postular apenas aquelas vencidas nos cinco anos anteriores ao ajuizamento da presente demanda.
+Nessa ordem de coisas, tendo em vista que o autor passou a receber o benefício em 2002 e que a ação foi ajuizada em 21.11.2006, inocorre a prescrição.
+Agora, quanto à verba honorária, procede, em parte, a inconformidade da recorrente. Consoante destacado no relatório, os honorários advocatícios foram fixados em 20% sobre o montante indenizatório, ou na quantia de R$ 4.000,00, se superior for. Contudo, a condenação condicional encontra óbice no parágrafo único do art. 460 do CPC.
+Desse modo, presentes os parâmetros do art. 20, § 3º, do CPC e o teor da Súmula nº 111 do STJ, os honorários devem ser arbitrados em 20% sobre as prestações vencidas até a sentença.
+Em face do exposto, dou provimento, em parte, ao apelo (e-STJ, fls. 54/65 - sem destaques no original).
+Contudo, a atual jurisprudência desta Corte está sedimentada no sentido de que é inviável a alteração dos índices de correção monetária e inclusão dos expurgos inflacionários em revisão de benefício de complementação de aposentadoria, com aplicação de critério diverso do estabelecido no regulamento, a fim de evitar o desequilíbrio financeiro e atuarial dos planos de benefícios (AgInt no REsp n. 1.886.352/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/11/2020, DJe de 17/12/2020).
+Nessa toada, vejam-se os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA FECHADA. QUESTÃO PRELIMINAR. ÓBICES DAS SÚMULAS NºS. 5, 7 E 126 DO STJ. NÃO INCIDÊNCIA. MIGRAÇÃO DE PLANO DE BENEFÍCIOS. TRANSAÇÃO EXTRAJUDICIAL. CONCESSÃO DE VANTAGENS RECÍPROCAS. REPASSE DE EXPURGOS INFLACIONÁRIOS PARA AS SUPLEMENTAÇÕES DE APOSENTADORIA. SÚMULA N.º 289 DO STJ. INAPLICABILIDADE. AUSÊNCIA DE RESGATE DAS CONTRIBUIÇÕES. VÍNCULO CONTRATUAL COM O ENTE PREVIDENCIÁRIO MANTIDO. PRECEDENTES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A questão relativa ao repasse de expurgos inflacionários a suplementações de aposentadoria é unicamente de direito e configura hipótese de violação direta dos dispositivos legais que disciplinam a matéria (arts. 6º da LCP n.º 108/01, 20, 68 e 75 da LCP nº 109/01), razão pela qual é cabível o recurso especial.
+2. Também não incide o óbice da Súmula n.º 126 do STJ, na medida em que a invocação pelo Tribunal estadual do art. 5º, XXXV, da Carta Magna ocorreu apenas como reforço de argumento, não sendo, portanto, fundamento suficiente, por si só, para manter a conclusão do acórdão recorrido.
+3. Consoante precedentes desta Corte Superior, a incidência da correção monetária plena, por índice que recomponha a desvalorização da moeda, só deve ocorrer na hipótese de resgate da reserva de poupança, em decorrência do rompimento do contrato firmado entre o participante e a entidade previdenciária, com o consequente desligamento daquele, o que, todavia, não ocorreu na espécie, uma vez que os agravantes permanecem vinculados ao plano previdenciário recebendo os valores dos benefícios de suplementação de aposentadoria.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.716.269/PR, minha relatoria, Terceira Turma, julgado em 3/5/2023, DJe de 10/5/2023 - sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. PREVIDÊNCIA PRIVADA. REVISÃO DE SUPLEMENTAÇÃO DE APOSENTADORIA. OMISSÃO. NÃO OCORRÊNCIA. CORREÇÃO MONETÁRIA. COBRANÇA DE EXPURGOS INFLACIONÁRIOS. INVIABILIDADE. MANUTENÇÃO DO VÍNCULO COM O PLANO DE BENEFÍCIOS. SÚMULA 289/STJ. NÃO INCIDÊNCIA. AGRAVO INTERNO IMPROVIDO.
+1. Consoante entendimento desta Corte Superior, a Súmula 289/STJ tem sua aplicação restrita às hipóteses em que houve o rompimento definitivo do vínculo contratual estabelecido entre o participante e a entidade de previdência privada, não alcançando, portanto, os casos em que o participante recebe os benefícios estipulados no contrato.
+2. É inviável a alteração dos índices de correção monetária e inclusão dos expurgos inflacionários em revisão de benefício de complementação de aposentadoria, com aplicação de critério diverso do estabelecido no regulamento, a fim de evitar o desequilíbrio financeiro e atuarial dos planos de benefícios.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.886.352/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/11/2020, DJe de 17/12/2020 - sem destaques no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE COBRANÇA. 1. DIFERENÇAS DE CORREÇÃO MONETÁRIA SOBRE CONTRIBUIÇÕES PESSOAIS. APLICAÇÃO DA SÚMULA 289/STJ RESTRITA ÀS HIPÓTESES DE ROMPIMENTO DO VÍNCULO CONTRATUAL. SÚMULA 83/STJ. 2. AGRAVO INTERNO DESPROVIDO.
+1. "A restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda" (Súmula 289/STJ).
+1.1. No caso, não havendo resgate da reserva de poupança não se aplica a Súmula 289 do STJ, na medida em que a Segunda Seção desta Corte de Justiça pacificou entendimento de que é descabida a aplicação de índice diverso do pactuado no regulamento do plano, a fim de não desequilibrar o fundo e comprometer os demais participantes.
+2. Agravo interno desprovido.
+(AgInt no REsp 1.675.343/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 12/12/2017, DJe 2/2/2018 - sem destaque no original)
+Em suma, consoante precedentes desta Corte Superior, a incidência da correção monetária plena, por índice que recomponha a desvalorização da moeda, só deve ocorrer na hipótese de resgate da reserva de poupança, em decorrência do rompimento do contrato firmado entre o participante e a entidade previdenciária, com o consequente desligamento daquele, o que, todavia, não ocorreu na espécie, uma vez que os agravantes permanecem vinculados ao plano previdenciário recebendo os valores dos benefícios de suplementação de aposentadoria.
+No caso, conforme ressaltado pelo acórdão recorrido, o laudo pericial (..) não "apontou" diferenças em favor do autor, concluindo que o benefício pago, pela demandada, mostra-se correto e, até mesmo, superior ao que seria devido (e-STJ, fl. 61).
+Acrescento que, na hipótese em que se discute plano previdenciário, a determinação de pagamento de valores sem respaldo no plano de custeio implica desequilíbrio econômico atuarial da entidade de previdência privada com prejuízo para a universalidade dos participantes e assistidos, o que fere o princípio da primazia do interesse coletivo do plano (exegese defluente da leitura do artigo 202, caput, da Constituição da República de 1988 e da Lei Complementar 109/2001)  AgRg no REsp 1.293.221/RS, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 6/9/2012, DJe 28/9/2012 .
+Assim, a fim de evitar o desequilíbrio financeiro e atuarial do plano de benefícios, merece reforma o acórdão recorrido por estar em dissonância com a jurisprudência dominante firmada no âmbito desta Corte, o que implica a improcedência da pretensão deduzida em Juízo.
+Ressalta-se que, consoante a Súmula n. 568 do STJ, o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema (Corte Especial, DJe 17/3/2016).
+Nessas condições, DOU PROVIMENTO ao recurso especial a fim de julgar improcedentes os pedidos formulados na petição inicial.
+CONDENO MANUEL ao pagamento das custas e despesas processuais, bem assim em honorários advocatícios, estes fixados em 20% (vinte por cento) sobre o valor atualizado da causa. Deverá ser observado, se for o caso, o benefício da gratuidade da justiça, nos termos do art. 98, § 3º, do CPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO INTERNO. DECISÃO RECONSIDERADA. PREVIDÊNCIA PRIVADA FECHADA. AÇÃO DE COBRANÇA. CORREÇÃO MONETÁRIA. EXPURGOS INFLACIONÁRIOS. INAPLICABILIDADE. AUSÊNCIA DE RESGATE DAS CONTRIBUIÇÕES. VÍNCULO CONTRATUAL COM O ENTE PREVIDENCIÁRIO MANTIDO. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. INCIDÊNCIA DA SÚMULA N. 568 DO STJ. RECURSO ESPECIAL PROVIDO.
