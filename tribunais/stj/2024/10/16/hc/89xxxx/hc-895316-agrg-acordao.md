@@ -1,0 +1,101 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. REVISÃO DA DOSIMETRIA. APLICAÇÃO DA MINORANTE. IMPOSSIBILIDADE LEGAL. TRIBUNAL AQUO AFIRMA A LIGAÇÃO COM ORGANIZAÇÃO CROMINOSA E O RÉU TEM PRISÃO ANTERIOR POR CRIME SEMELHANTE. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Habeas corpus impetrado em favor de Ronaldo Felipe Gonçalves Lourenço, condenado a 5 anos de reclusão e 500 dias-multa por tráfico de drogas (art. 33, caput, da Lei 11.343/2006). A defesa busca redimensionamento da pena e aplicação da causa de diminuição do art. 33, §4º, da Lei 11.343/2006.
+II. Questão em discussão
+2. A questão em discussão consiste na possibilidade de aplicação da causa de diminuição de pena do tráfico privilegiado, prevista no art. 33, §4º, da Lei 11.343/2006.
+III. Razões de decidir
+3. A decisão de primeira instância e o Tribunal de origem afastaram a aplicação do tráfico privilegiado devido à demonstração de dedicação à atividade criminosa e envolvimento com organização criminosa.
+4. A quantidade e variedade de drogas apreendidas, bem como a prisão anterior por crime semelhante, indicam a dedicação do réu ao tráfico de drogas.
+5. A jurisprudência da Corte é firme no sentido de que a condenação por associação para o tráfico impede a aplicação do redutor do tráfico privilegiado.
+6. Agravo regimental desprovido.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 42-43).
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. REVISÃO DA DOSIMETRIA. APLICAÇÃO DA MINORANTE. IMPOSSIBILIDADE LEGAL. TRIBUNAL AQUO AFIRMA A LIGAÇÃO COM ORGANIZAÇÃO CROMINOSA E O RÉU TEM PRISÃO ANTERIOR POR CRIME SEMELHANTE. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Habeas corpus impetrado em favor de Ronaldo Felipe Gonçalves Lourenço, condenado a 5 anos de reclusão e 500 dias-multa por tráfico de drogas (art. 33, caput, da Lei 11.343/2006). A defesa busca redimensionamento da pena e aplicação da causa de diminuição do art. 33, §4º, da Lei 11.343/2006.
+II. Questão em discussão
+2. A questão em discussão consiste na possibilidade de aplicação da causa de diminuição de pena do tráfico privilegiado, prevista no art. 33, §4º, da Lei 11.343/2006.
+III. Razões de decidir
+3. A decisão de primeira instância e o Tribunal de origem afastaram a aplicação do tráfico privilegiado devido à demonstração de dedicação à atividade criminosa e envolvimento com organização criminosa.
+4. A quantidade e variedade de drogas apreendidas, bem como a prisão anterior por crime semelhante, indicam a dedicação do réu ao tráfico de drogas.
+5. A jurisprudência da Corte é firme no sentido de que a condenação por associação para o tráfico impede a aplicação do redutor do tráfico privilegiado.
+6. Agravo regimental desprovido.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 42-46):
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de RONALDO FELIPE GONÇALVES LOURENÇO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Autos nº 1513144-59.2023.8.26.0228).
+Em primeira instância, o paciente foi condenado à pena de 5 (cinco) anos de reclusão em regime inicialmente fechado, e 500 dias-multa pela prática do crime previsto no art. 33, caput, da Lei 11.343/2006.
+Imputou-se a seguinte conduta (e-STJ fl. 23-24):
+"RONALDO FELIPE GONÇALVES LOURENÇO e Raul Alves Dos Santos Júnior, já qualificados nos autos, foram denunciados e estão sendo processados como incursos no artigo 33, caput, e 35 da Lei nº 11.343/06,na formado artigo 69 do Código Penal, porque, em data incerta, mas anterior a 06 de abril de 2023,nesta cidade e comarca, os agentes supracitados associaram-se entre si, para o fim de praticar, reiteradamente ou não, o crime de tráfico de entorpecentes, previsto no art. 33 da Lei nº 11.343/2006. Não só, em 06 de abril de 2023, por volta das 19h57min, na Travessa Jacinto Pereira, próximo ao nº 401, Parque Savoi City, nesta cidade e comarca ,previamente ajustados e com unidade de desígnios, traziam consigo e mantinham sob sua guarda e depósito, 95 frascos contendo 0,9l de tricloroetileno, conhecido popularmente como lança-perfume, 559 porções contendo 398,4g de cocaína, 226 porções contendo602,8g de tetrahidrocannabinol (THC), popularmente conhecido como maconha e 80 porções contendo 12,9 g de substância entorpecente a ser identificada em laudo definitivo, sem autorização ou em desacordo com determinação legal ou regulamentar.
+o cometimento de tráfico de entorpecentes, dividindo entre si as tarefas necessárias para a consumação do crime. Assim, na forma ajustada, Raul mantinha as drogas armazenadas no local, sendo o responsável pelo controle e contabilidade da traficância, enquanto Ronaldo estava incumbido de abastecer os pontos de venda.
+Nessas circunstâncias, durante patrulhamento na região, policiais militares avistaram Ronaldo sair do imóvel situado na Travessa Jacinto Ferreira, nº 401, com uma sacola nas mãos. Ao avistar a viatura, ele tentou se evadir. Contudo, ele foi detido e abordado. Dentro da sacola que ele trazia consigo, os policiais encontraram 30 frascos de lança-perfume, 200 porções de cocaína, 80 porções de maconha e 30 porções de substância que aparentava ser K9.
+Questionado a respeito, Ronaldo confessou informalmente que estava levando as drogas para um ponto de vendas que não identificou. Na sequência, os policiais ingressaram na residência da qual o réu havia saído e se depararam com Raul.
+Em buscas no interior do imóvel, os policiais encontraram mais 65 frascos de lança-perfume, 359 porções de cocaína, 50 porções de substância que aparentava ser K9 e 146 porções de maconha, além de R$ 1.203,50 (mil e duzentos e três reais e cinquenta centavos) em espécie e dois cadernos com anotações da contabilidade do tráfico.
+Indagado acerca dos fatos, Raul confirmou que trabalhava no local distribuindo e separando as drogas."
+O recurso apresentado pela defesa foi desprovido, tendo o julgado ementado nos seguintes termos (e-STJ fl. 35):
+"Tráfico de Drogas- Condenação não questionada Recurso defensivo objetivando a modificação da pena Descabimento Providência discricionária do magistrado que somente deve sofrer alteração em graurecursalacasodesproporcionalousemfundamentoInocorrênciaPena-baseacertadamenteexasperada,diantedaquantidade e variedade de drogas apreendida se periculosidade social do réu Confissão espontânea reconhecida Privilégio inaplicável, não só diante da quantidade e variedade de drogas, mas do sério envolvimento do réu com o narcotráfico, tanto que, dias antes, viu-se preso por crime igual ao aqui apurado - Regime fechado necessário Recurso improvido."
+O acórdão impugnado considerou ausentes os requisitos exigidos para aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, bem como advertiu que a questão referente à dosimetria da pena é função inerente ao Juízo sentenciante, devendo ser modificada apenas quanto verificada ilegalidade ou desproporcionalidade flagrante.
+A defesa postula o redimensionamento da pena, a aplicação da causa de redução da pena do artigo 33, § 4º da Lei 11.343/2006, com o abrandamento do regime prisional, no percentual máximo de 2/3 (dois terços).
+Pugna pelo deferimento da medida liminar e, ao final, pela concessão da ordem para para reduzir a pena do paciente e aplicar a minorante especial relativa ao tráfico privilegiado.
+É o relatório.
+Decido.
+A Corte local assim fundamentou a controvérsia (e-STJ fls. 37-38):
+"Assim, uma vez confirmadas pela prova coligida a autoria e as materialidades delitivas pelo laudo pericial de fls. 128/131, atestando que as substâncias apreendidas com o réu eram tricloroetileno, cocaína, maconha e MDMB-4EN-PINACA, correto o decreto condenatório, ressaltando-se vez mais que, quanto a isso, sequer a defesa se mostrou irresignada.
+Resta, pois, a análise da dosimetria da pena para, neste particular, concluir, pelo meu voto, que nenhum reparo merece a r. sentença.
+Acontece que, em se tratando de providência discricionária controlada do magistrado, somente quando desprovida de fundamento ou equilíbrio é que se justifica, em grau de recurso, a alteração da reprimenda estabelecida pelo juízo de 1º Grau e, por aqui, tem-se que a sanção imposta foi correta e fundamentadamente exasperada.
+Bem sopesados os elementos norteadores do artigo 42, da Lei nº 11.343/06, a pena-base, com acerto, sofreu pequena exasperação devido à quantidade de drogas apreendidas, que, no meu sentir, extrapola àquela normal à espécie, bem como em razão da personalidade notadamente criminosa do réu, que foi preso e solto pelo mesmo delito dias antes dos fatos aqui apurados.
+Assim, uma vez bastante adequada a pena inicial, fica ela mantida em 6 anos de reclusão e 600 dias-multa.
+Reconhecida a atenuante da confissão espontânea do acusado, correta a redução da pena ao mínimo legal, tornando-a definitiva, pela inexistência de outras circunstâncias modificadoras, em 5 anos de reclusão e 500 dias-multa, estes no valor unitário mínimo.
+Anote-se que, respeitados entendimentos diversos, o redutor previsto no §4º do artigo 33 da Lei de Drogas era mesmo inaplicável, tendo em vista que o réu, muito embora primário e sem antecedentes, demonstrou séria dedicação ao comércio nefasto ao trazer consigo quantidade e variedade bastante expressivas de entorpecentes (0,9L de tricloroetileno, 398,4g de cocaína, 602,8g e maconha e 12,9g de MDMB-4EN-PINACA), a indicar seu envolvimento com a criminalidade e, portanto, a necessidade de maior rigorosidade estatal na fixação de sua pena.
+A reforçar tal afirmação, tem-se que o acusado foi preso e está sendo processado pelo mesmo delito poucos dias antes dos fatos aqui apurados, assim como foi pronunciado pelo crime de tentativa de homicídio (fls.121/122), a denotar, vez mais, seu envolvimento com a criminalidade.
+No mais, impunha-se, realmente, a fixação do regime fechado para o início do cumprimento da pena, tendo em vista a periculosidade social do réu e a necessidade de maior interferência do Estado na aplicação da pena, inclusive como forma de se evitar uma reiteração delitiva.
+Por fim, não preenchidos os requisitos autorizadores do artigo 44 do Código Penal, era mesmo inaplicável a substituição da pena corporal por restritivas de direitos."
+No tocante à dosimetria, basta ler o que dispõe a r. sentença colacionada aos autos para entender que o fundamento utilizado para afastar a aplicação do tráfico privilegiado não foi a quantidade de drogas, como que fazer crer a impetrante (e-STJ fls. 32). Note-se:
+"Não obstante a primariedade técnica do acusado no presente procedimento, incabível a aplicação da minorante do art. 33, §4º da Lei de Drogas, pertinente ao tráfico privilegiado, vez que o acusado foi preso menos de uma semana antes dos fatos pela mesma prática delitiva, denotando dedicação à atividade criminosa pertinente ao tráfico."
+De fato, a pena-base foi exasperada para acima do mínimo legal, entretanto, não há que se falar em bis in idem se o fundamento do Juízo de 1ª Instância para deixar de aplicar a minorante prevista no art. 33, §4º da Lei de Drogas, foi a demonstração de que a atividade exercida pelo paciente é reiterada e indica relação com organização criminosa.
+Conforme se verifica dos autos, o Juízo e o Tribunal de origem afastaram a aplicação da benesse relativa ao tráfico privilegiado, em síntese, em razão das circunstâncias da prisão ocorrida dias depois de outra prisão por tráfico, bem como a diversidades de substâncias ilícitas encontradas.
+A jurisprudência deste Turma Julgadora aponta no sentido de que a presença de fatos que indiquem é fato a indicar o entendimento de que há efetiva participação no crime organizado, obstando, no caso, a aplicação da mirorante especial relativa ao tráfico privilegiado.
+Vejamos:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.
+TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO EM CONCURSO MATERIAL.
+PRETENDIDA ABSOLVIÇÃO PELO CRIME DE ASSOCIAÇÃO. INVIABILIDADE.
+REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO NÃO CONDIZENTE COM A VIA ESTREITA DO MANDAMUS. PRECEDENTES. DESNECESSIDADE DE IDENTIFICAÇÃO DOS DEMAIS CO-AUTORES. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. ÓBICE LEGAL À APLICAÇÃO DA BENESSE. DEDICAÇÃO À ATIVIDADE CRIMINOSA.
+PRECEDENTES. ABRANDAMENTO DO REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITOS.
+INVIABILIDADE. SANÇÃO SUPERIOR A 8 ANOS DE RECLUSÃO. EXPRESSA VEDAÇÃO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+- O habeas corpus não é a via adequada para apreciar o pedido de absolvição, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória.
+Precedentes.
+- A conclusão obtida pelas instâncias de origem sobre a condenação do paciente pelo crime de associação para o tráfico foi lastreada em vasto acervo probatório, consubstanciado não apenas nas circunstâncias em que ocorreu sua prisão em flagrante - na Estrada do Camboatá, próximo ao Chapadão, localidade que é dominada pelo Comando Vermelho, portando 119 gramas de cocaína, acondicionadas em 70 eppendorfs que ostentavam inscrições alusivas à origem das drogas: "PÓ 20 CHP - CV 100 TERRA BRILHO JOB PARTE ALTA VASCO REAL MALOKA 20 E BOMBA", além de 1 radio transmissor ligado na frequência do tráfico (e-STJ, fls. 27/28) -, havendo ele, inclusive, comentado à polícia, que "era o gerente do pó de 20 do Chapadão", além de exercer as funções de "vapor" e "radinho" (e-STJ, fl. 29) -, sendo, portanto, pouco crível que ele exercesse essas atividades e tivesse a incumbência de vender drogas pertencentes à referida organização criminosa, sem que integrasse o grupo.
+- Ademais, o fato de o paciente haver sido denunciado e condenado sozinho, haja vista que os demais integrantes da organização criminosa não foram identificados no momento da denúncia, não impede sua condenação no referido delito. Precedentes.
+- Mantida a condenação pelo crime de associação para o tráfico, há óbice legal à aplicação da minorante do tráfico privilegiado, uma vez que a jurisprudência desta Corte é firme no sentido de que a condenação por associação para o tráfico de drogas obsta a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, uma vez que demanda a existência de animus associativo estável e permanente no narcotráfico, revelando, assim, a dedicação à atividade criminosa.
+Precedentes.
+- Inalterado o montante da sanção - 9 anos de reclusão -, fica mantido o regime inicial fechado e a negativa de substituição da pena privativa de liberdade por medidas restritivas de direitos, por expressa vedação legal, nos termos do art. 33, § 2º, "a", e art. 44, I, ambos do Código Penal.
+- Agravo regimental não provido (AgRg no HC 593.599/RJ, de minha relatoria, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021). (grifei)
+No caso em exame, as circunstâncias do flagrante demonstram de forma inequívoca que a cocaína encontrada com o paciente era pertencente ao comando vermelho, não sendo crível que esse comércio seja realizado sem que o réu integre a referida organização criminosa.
+Portanto, o fundamento adotado pelo Tribunal local é suficiente para afastar a causa de diminuição objeto deste habeas corpus, uma vez que evidenciada a participação do paciente com organização criminosa.
+Ante ao exposto, denego a ordem de habeas corpus.
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.
+TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO EM CONCURSO MATERIAL.
+PRETENDIDA ABSOLVIÇÃO PELO CRIME DE ASSOCIAÇÃO. INVIABILIDADE.
+REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO NÃO CONDIZENTE COM A VIA ESTREITA DO MANDAMUS. PRECEDENTES. DESNECESSIDADE DE IDENTIFICAÇÃO DOS DEMAIS CO-AUTORES. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. ÓBICE LEGAL À APLICAÇÃO DA BENESSE. DEDICAÇÃO À ATIVIDADE CRIMINOSA.
+PRECEDENTES. ABRANDAMENTO DO REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITOS.
+INVIABILIDADE. SANÇÃO SUPERIOR A 8 ANOS DE RECLUSÃO. EXPRESSA VEDAÇÃO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+- O habeas corpus não é a via adequada para apreciar o pedido de absolvição, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória.
+Precedentes.
+- A conclusão obtida pelas instâncias de origem sobre a condenação do paciente pelo crime de associação para o tráfico foi lastreada em vasto acervo probatório, consubstanciado não apenas nas circunstâncias em que ocorreu sua prisão em flagrante - na Estrada do Camboatá, próximo ao Chapadão, localidade que é dominada pelo Comando Vermelho, portando 119 gramas de cocaína, acondicionadas em 70 eppendorfs que ostentavam inscrições alusivas à origem das drogas: "PÓ 20 CHP - CV 100 TERRA BRILHO JOB PARTE ALTA VASCO REAL MALOKA 20 E BOMBA", além de 1 radio transmissor ligado na frequência do tráfico (e-STJ, fls. 27/28) -, havendo ele, inclusive, comentado à polícia, que "era o gerente do pó de 20 do Chapadão", além de exercer as funções de "vapor" e "radinho" (e-STJ, fl. 29) -, sendo, portanto, pouco crível que ele exercesse essas atividades e tivesse a incumbência de vender drogas pertencentes à referida organização criminosa, sem que integrasse o grupo.
+- Ademais, o fato de o paciente haver sido denunciado e condenado sozinho, haja vista que os demais integrantes da organização criminosa não foram identificados no momento da denúncia, não impede sua condenação no referido delito. Precedentes.
+- Mantida a condenação pelo crime de associação para o tráfico, há óbice legal à aplicação da minorante do tráfico privilegiado, uma vez que a jurisprudência desta Corte é firme no sentido de que a condenação por associação para o tráfico de drogas obsta a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, uma vez que demanda a existência de animus associativo estável e permanente no narcotráfico, revelando, assim, a dedicação à atividade criminosa.
+Precedentes.
+- Inalterado o montante da sanção - 9 anos de reclusão -, fica mantido o regime inicial fechado e a negativa de substituição da pena privativa de liberdade por medidas restritivas de direitos, por expressa vedação legal, nos termos do art. 33, § 2º, "a", e art. 44, I, ambos do Código Penal.
+- Agravo regimental não provido (AgRg no HC 593.599/RJ, de minha relatoria, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021). (grifei)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
