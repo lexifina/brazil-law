@@ -1,0 +1,81 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Goiás, ementado nos seguintes termos:
+
+    “REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. VENCIMENTO BASE ESTIPULADO PELO MUNICÍPIO. POSSIBILIDADE. LEI ORGÂNICA DO MUNICÍPIO. LEI MUNICIPAL 1.235/2022. PERCEPÇÃO DE VENCIMENTO BÁSICO ABAIXO DO LEGAL. VIOLAÇÃO A DIREITO LÍQUIDO E CERTO. SEGURANÇA CONCEDIDA. SENTENÇA MANTIDA. 1. É consolidado o entendimento de que aos entes federativos é cabível estabelecer o valor do vencimento base de seus próprios servidores. 2. Na espécie, em observância à Súmula Vinculante de n. 4 do Supremo Tribunal Federal, a Lei Municipal 1.235/2022 não vinculou o vencimento base do servidor ao salário-mínimo, mas fixou expressamente o valor em reais, que apenas coincide com o valor do salário-mínimo nacional, inexistindo mácula. 3. Viola direito líquido e certo o pagamento de vencimento base a servidor público abaixo do valor fixado na Lei Orgânica do Município e na Lei Municipal 1.235/2022. 4. REMESSA NECESSÁRIA E APELAÇÃO CÍVEL CONHECIDAS E DESPROVIDAS” (eDOC 8 – ID: 0707a57c, p. 16)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 7º, IV; e 39, § 3º, do texto constitucional.
+
+    Nas razões recursais, sustenta-se que apenas a remuneração total do servidor não poder ser inferior ao salário mínimo, e não o respectivo salário-base.
+
+    Alega-se que, seguindo a douta jurisprudência desta Corte que diferencia remuneração de vencimento a Lei Municipal 1235/2022 é clara e cristalina ao reajustar a REMUNERAÇÃO e não o vencimento, portanto, as alegações trazidas na exordial são infundadas per si (eDOC 10 0 ID: 4f7152d7, p. 10-11).
+
+    Argumenta-se que [c]orrobora para o entendimento, o termo “total da remuneração percebida pelo servidor público” utilizado no verbete da Súmula Vinculante n° 16 que foi introduzido no sentido de abranger o total remuneratório do servidor, a incluir, inclusive, verbas indenizatórias, tais como diárias (eDOC 10 0 ID: 4f7152d7, p. 11).
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não merece prosperar.
+
+    Inicialmente, registro que o Supremo Tribunal Federal, no julgamento do RE 964.659, Rel. Min. Dias Toffoli, paradigma do tema 900 da repercussão geral, assentou que é defeso o pagamento de remuneração em valor inferior ao salário mínimo ao servidor público, ainda que labore em jornada reduzida de trabalho. Confira-se a ementa deste precedente:
+
+    “Direito Constitucional e Administrativo. Remuneração inferior a um salário mínimo percebida por servidor público civil que labore em jornada de trabalho reduzida. Impossibilidade. Violação do art. 7º, inciso IV, e do art. 39, § 3º, da CF. Violação do valor social do trabalho, da dignidade da pessoa humana e do mínimo existencial. Recurso extraordinário provido. 1. O pagamento de remuneração inferior ao salário mínimo ao servidor público civil que labore em jornada de trabalho reduzida contraria o disposto no art. 7º, inciso IV, e no art. 39, § 3º, da CF, bem como o valor social do trabalho, o princípio da dignidade da pessoa humana, o mínimo existencial e o postulado da vedação do retrocesso de direitos sociais. 2. Restrição inconstitucional ao direito fundamental imposta pela lei municipal, por conflitar com o disposto no art. 39, § 3º, da Carta da República, que estendeu o direito fundamental ao salário mínimo aos servidores públicos, sem nenhum indicativo de que esse poderia ser flexibilizado, pago a menor, mesmo em caso de jornada reduzida ou previsão em legislação infraconstitucional. 3. Lidos em conjunto, outro intuito não se extrai do art. 7º, inciso IV, e do art. 39, § 3º, da Constituição Federal que não a garantia do mínimo existencial para os integrantes da administração pública direta e indireta, com a fixação do menor patamar remuneratório admissível nos quadros da administração pública. 4. Recurso extraordinário ao qual se dá provimento, com a formulação da seguinte tese para fins de repercussão geral: ”[é] defeso o pagamento de remuneração em valor inferior ao salário mínimo ao servidor público, ainda que labore em jornada reduzida de trabalho” (RE 964659, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 01.09.2022 – grifo nosso)
+
+    Além disso, no julgamento do RE 582.019, Rel. Min. Ricardo Lewandowski, o Supremo Tribunal Federal assentou que os artigos 7º, IV, e 39, § 3º (redação da EC 19/1998), da Constituição referem-se ao total da remuneração percebida pelo servidor público. Nesse sentido, eis a ementa do precedente mencionado:
+
+    “CONSTITUCIONAL. SERVIDOR PÚBLICO. SALÁRIO-BASE INFERIOR AO SALÁRIO MÍNIMO. POSSIBILIDADE. ARTS. 7º, IV, E 39, § 3º (redação dada pela EC 19/98), DA CONSTITUIÇÃO. I - Questão de ordem. Matéria de mérito pacificada no STF. Repercussão geral reconhecida. Confirmação da jurisprudência. Denegação da distribuição dos recursos que versem sobre o mesmo tema. Devolução desses RE à origem para adoção dos procedimentos previstos no art. 543-B, § 3º, do CPC. Precedentes: RE 579.431-QO/RS, RE 582.650-QO/BA, RE 580.108-QO/SP, Rel. Min. Ellen Gracie; RE 591.068-QO/PR, Rel. Min. Gilmar Mendes; RE 585.235-QO/MG, Rel. Min. Cezar Peluso. II - Julgamento de mérito conforme precedentes. III - Recurso provido” (RE 582019 QO-RG, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 13.02.2009 – grifo nosso)
+
+    Partindo-se da compreensão exarada em ambos os precedentes acima indicados, firmou-se a orientação nesta Corte constitucional de que não ofende o art. 7º, IV, do texto constitucional, o pagamento de vencimentos em valor inferior ao salário mínimo, desde que o valor global da remuneração supere tal piso. Confiram-se, a respeito, os seguintes precedentes:
+
+    “Direito Administrativo e Constitucional. Agravo interno em recurso extraordinário com agravo. Servidores públicos municipais. Salário base inferior ao salário-mínimo. Possibilidade. Incidência das Súmulas 280 e 287/STF. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que manteve a sentença de improcedência do pedido. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que a fixação do vencimento base do servidor público em valor inferior inferior ao salário mínimo não viola o art. 7º, IV, da CF, o qual se refere a remuneração. Precedentes. 5. A parte recorrente não se desincumbiu do dever processual de desconstituir todos os fundamentos da decisão agravada, de modo que o caso atrai a incidência da Súmula 287/STF. 6. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, procedimento vedado neste momento processual (Súmula 280/STF). IV. Dispositivo 7. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015 e a eventual concessão de justiça gratuita. 8. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015” (ARE 1499076 AgR, Rel. Min. Luís Roberto Barroso (Presidente), Tribunal Pleno, DJe 02.09.2024 – grifo nosso)
+
+    “ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 284/STF. SERVIDOR PÚBLICO. TETO SALARIAL CALCULADO COM LASTRO EM VENCIMENTO BASE INFERIOR AO SALÁRIO MÍNIMO NACIONAL. POSSIBILIDADE. PRECEDENTES DO TRIBUNAL PLENO. OFENSA AO ART. 37, XV, DA CF. INOCORRÊNCIA. OBSERVÂNCIA DO VALOR NOMINAL DA REMUNERAÇÃO GLOBAL DO SERVIDOR. 1. A aplicação do art. 7º, IV, da CF aos servidores públicos leva em conta a remuneração total recebida, não havendo óbice para a fixação de vencimento base em quantia inferior ao salário mínimo nacional (RE 197072, Relator(a): Min. MARCO AURÉLIO, Tribunal Pleno, DJ de 08-06-2001; RE 265129, Relator(a): Min. ILMAR GALVÃO, Tribunal Pleno, DJ de 14-11-2002). 2. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o princípio da irredutibilidade salarial não é ofendido quando o valor nominal da remuneração global do servidor é preservado. 3. Agravo regimental parcialmente conhecido e, nessa parte, desprovido” (RE 449427 AgR Rel. Min. Teori Zavascki, Segunda Turma, DJe 22.08.2013 – grifo nosso)
+
+    Pois bem.
+
+    Na espécie, o Tribunal de origem, ao examinar a legislação local aplicável à espécie e o conjunto probatório constante dos autos, anotou a existência de diferença entre os conceitos de vencimento base e de remuneração global e, ato contínuo, consignou que a Lei Municipal nº 867/2010 prevê que, no caso, o que se garante é o pagamento do vencimento base em valor não inferior ao salário mínimo. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+
+    “O reexame necessário é determinação inserta no artigo 14, §1°, da Lei Federal n° 12.016/09, razão pela qual, dele conheço.
+
+    A controvérsia cinge-se a apurar a (in)existência de lesão a direito líquido e certo de servidor público que recebe vencimento base abaixo do previsto em Lei Orgânica Municipal e outras pertinentes ao tema.
+
+    Pois bem. Restou pacífico que o impetrante é servidor público municipal de Santo Antônio do Descoberto e que atualmente seu vencimento base é de R$ 1.097,25 (um mil e noventa e sete reais e vinte e cinco centavos), conforme holerites de pagamento de janeiro a abril de 2022.
+
+    Como se sabe, a jurisprudência consolidada não impede que os entes federativos estabeleçam o valor do próprio vencimento base, como feito pelo Município de Santo Antônio do Descoberto.
+
+    Ressalta-se que existe diferença entre vencimento base e remuneração de servidores públicos, sendo esta composta por várias rubricas, dentre as quais está aquela.
+
+    A celeuma em questão se assenta no importe que o servidor está auferindo a título de vencimento base em relação ao previsto na legislação municipal e não sobre o que ele percebe como remuneração (vencimento base somado às vantagens e benefícios) frente ao salário-mínimo constitucional, como quer convencer o apelante.
+
+    No caso em concreto, a Lei Orgânica do Município de Santo Antônio do Descoberto, prevê em seu artigo 99, inciso I, que o vencimento básico do servidor público municipal nunca será inferior a um salário mínimo (...)
+
+    A Lei Municipal n.º 867/2010, que dispõe sobre o Plano de Cargos e Salários dos Servidores Público daquele município, garante, em seu art. 10º, que o vencimento, que não se confunde com remuneração, nunca poderá ser inferior ao salário-mínimo (...)
+
+    De igual forma, a Lei Municipal n. 1.235/2022, que reajusta o salário-mínimo dos servidores públicos municipais, também fixa os vencimentos dos servidores efetivos e comissionados em R$1.212,00 (um mil, duzentos e doze reais), valor correspondente a um salário-mínimo vigente à época dos fatos.
+
+    Percebe-se, que em observância à Súmula Vinculante de n. 4 do Supremo Tribunal Federal, a Lei Municipal 1.235/2022 não vinculou o vencimento base do servidor ao salário-mínimo, mas fixou expressamente o valor em reais, que apenas coincide com o valor do salário-mínimo nacional, inexistindo mácula.
+
+    Neste caso, diante de flagrante descompasso entre o vencimento básico percebido pelo apelado e o direto a ele garantido pelo arcabouço legal, irreparável é a sentença que determinou ao impetrado o pagamento do vencimento base do impetrante no valor previsto na Lei Municipal 1.235/2022, qual seja, R$ 1.212,00 (um mil, duzentos e doze reais)” (eDOC 8 – ID: 0707a57c)
+
+    A linha de raciocínio que se percebe ter sido construída pelo órgão julgador perpassa pela expressa previsão contida na Lei Municipal nº 867/2010 quanto à impossibilidade do recebimento de vencimento base em valor inferior ao salário mínimo, nos seguintes termos:
+
+    “Art. 10º – Vencimento é a retribuição paga ao funcionário pelo efetivo exercício de cargo público, correspondente ao padrão fixado em lei, não podendo, em caso algum, ser inferior ao salário mínimo, enquanto que a remuneração é o vencimento acrescido das vantagens de caráter permanente ou a ele incorporáveis, na forma prevista neste plano de carreira ou em outras leis”
+
+    Efetivamente, conforme demonstrado acima, não há vedação de pagamento de vencimentos abaixo do salário mínimo, desde que assegurado o pagamento da remuneração global em valor superior. No entanto, no caso dos autos, subsiste expressa previsão legal a vedar especificamente o pagamento do vencimento base em valor inferior ao salário mínimo.
+
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do STF. Confiram-se, a propósito, os seguintes precedentes:
+
+    “Direito Administrativo e Constitucional. Agravo interno em recurso extraordinário com agravo. Servidores públicos municipais. Salário base inferior ao salário-mínimo. Possibilidade. Incidência das Súmulas 280 e 287/STF. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que manteve a sentença de improcedência do pedido. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que a fixação do vencimento base do servidor público em valor inferior ao salário mínimo não viola o art. 7º, IV, da CF, o qual se refere a remuneração. Precedentes. 5. A parte recorrente não se desincumbiu do dever processual de desconstituir todos os fundamentos da decisão agravada, de modo que o caso atrai a incidência da Súmula 287/STF. 6. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, procedimento vedado neste momento processual (Súmula 280/STF). IV. Dispositivo 7. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015 e a eventual concessão de justiça gratuita. 8. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015” (ARE 1499076 AgR, Rel. Min. Luís Roberto Barroso (Presidente), Tribunal Pleno, DJe 02.09.2024 – grifo nosso)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SISTEMA REMUNERATÓRIO. PERCEPÇÃO DE VENCIMENTO BASE NÃO INFERIOR AO SALÁRIO MÍNIMO. ACÓRDÃO RECORRIDO EM DESACORDO COM A SÚMULA VINCULANTE 16. RECURSO EXTRAORDINÁRIO PROVIDO. 1. A adoção explícita, pela instância judicante de origem, de tese afastada pela jurisprudência do Supremo Tribunal Federal evidencia o debate da matéria constitucional deduzida no extraordinário. Pelo que não há falar em aplicação da Súmula 280/STF ao caso. 2. Agravo regimental desprovido” (RE 575792 AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 23.09.2011 – grifo nosso)
+
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+
+    Publique-se.
+
+    Brasília, 16 de outubro de 2024.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
