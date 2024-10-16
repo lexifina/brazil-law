@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela contra decisão assim ementada (fl. 823):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+Nas razões dos embargos, a parte sustenta que esclareceu, nas razões do agravo em recurso especial interposto, que tal recurso somente teria como objeto o pedido subsidiário, qual seja a tese de ilegalidade da tributação do PIS/COFINS no regime não-cumulativo das receitas de juros e atualização monetária decorrentes das mensalidades atrasadas de serviços de educação infantil, ensinos fundamental, médio e educação superior.
+Assevera que "esta C. Corte deveria ter aplicado o Tema 1.237/STJ ao presente feito, visto que o precedente trata exatamente da hipótese dos autos, qual seja, a incidência do PIS/COFINS no regime cumulativo sobre os juros, calculados pela Taxa SELIC, decorrentes do pagamento em atraso de mensalidades de serviços educacionais. Dessa forma, esta D. Relatoria deveria ter determinado a baixa dos autos para que o TRF da 3ª Região adaptasse seu acórdão aos termos do Tema 1.237/STJ" (fl. 833).
+Acrescenta, ademais, que "a discussão atinente à violação aos arts. 11 e 489, §1º, do CPC/2015 era relativa à parte do v. acórdão do TRF da 3ª Região que endereçou a questão solucionada pelo Tema 939/STF" (fl. 837), e, assim, "as Embargantes interpuseram o AREsp somente em face do pedido subsidiário, visto que procedimento distinto incorreria em violação ao art. 1.042, §2º do CPC, conforme já mencionado" (fl. 838).
+Requer o acolhimento dos embargos para sanar as omissões indicadas.
+Sem impugnação.
+É o relatório. Passo a decidir.
+Assiste razão à parte embargante.
+A Primeira Seção do STJ, no julgamento do Tema repetitivo 1.237 (REsps 2.065.817/RJ, 2.075.276/RS, 2.068.697/RS, 2.116.065/SC e 2.109.512/PR), fixou a seguinte tese jurídica: "Os valores de juros, calculados pela taxa Selic ou outros índices, recebidos em face de repetição de indébito tributário, na devolução de depósitos judiciais ou nos pagamentos efetuados decorrentes de obrigações contratuais em atraso, por se caracterizarem como Receita Bruta Operacional, estão na base de cálculo das contribuições ao PIS/PASEP e COFINS cumulativas e, por integrarem o conceito amplo de Receita Bruta, na base de cálculo das contribuições ao PIS/PASEP e COFINS não cumulativas."
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos ou repercussão geral, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação.
+Confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FATO SUPERVENIENTE. ARTIGOS 493, 1.030, II, E 1.040, II, DO CPC/2015. NECESSIDADE DE DEVOLUÇÃO DOS AUTOS À ORIGEM PARA CONCLUSÃO DE JUÍZO DE CONFORMAÇÃO.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. A questão jurídica objeto do recurso especial diz respeito ao Tema 1223/STJ, que versa sobre o seguinte ponto: Legalidade da inclusão do PIS e da Cofins na base de cálculo do ICMS.
+4. A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que o fato superveniente só pode ser considerado na hipótese de conhecimento do recurso especial, o que não ocorreu na espécie.
+5. Em que pese o fato superveniente não seja suscetível de exame pelo STJ, o retorno dos autos à origem é medida que se se impõe, à luz dos artigos 493, 1.030, II, e 1.040, II, do CPC/2015, para que seja feita a adequação do julgado ao decidido pelas Cortes Superiores sob o rito dos recursos repetitivos ou da repercussão geral.
+6. Embargos de declaração acolhidos, com efeitos modificativos, para tornar sem efeito as decisões anteriores e determinar a devolução dos autos ao Tribunal de origem para oportuno juízo de conformação
+(EDcl no AgInt no AREsp 2.349.769/SC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 7/5/2024).
+Ante o exposto, acolho os embargos de declaração, para tornar sem efeito a decisão proferida às fls. 823-824, e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas nos arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA SUBMETIDA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. TEMA 1.237. NECESSIDADE DE DEVOLUÇÃO DOS AUTOS À ORIGEM, PARA JUÍZO DE CONFORMAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
