@@ -1,0 +1,309 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5007104-56.2023.8.08.0000
+
+AGRAVO DE INSTRUMENTO (202)
+
+AGRAVANTE: MUNICIPIO DE CACHOEIRO DE ITAPEMIRIM
+
+AGRAVADO: POSTO CONDURU LTDA
+
+RELATOR(A):
+DEBORA MARIA AMBOS CORREA DA SILVA
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+DIREITO TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. CONSTITUCIONALIDADE DA TAXA DE FISCALIZAÇÃO, LOCALIZAÇÃO E FUNCIONAMENTO. MUNICÍPIO DE CACHOEIRO DE ITAPEMIRIM. PROVIMENTO DO RECURSO.
+
+I. CASO EM EXAME
+
+Agravo de instrumento interposto pelo Município de Cachoeiro de Itapemirim contra decisão que declarou a inconstitucionalidade do art. 97 do Código Tributário Municipal, afastando a cobrança da Taxa de Fiscalização, Localização e Funcionamento. O magistrado de primeira instância determinou a retificação da CDA, sem a inclusão dessa taxa, sob pena de extinção do processo.
+
+II. QUESTÃO EM DISCUSSÃO
+
+Há duas questões em discussão: (i) definir se a Taxa de Fiscalização, Localização e Funcionamento instituída pelo Município, com base no art. 97 da Lei Municipal nº 5.394/2002, é constitucional; (ii) estabelecer se a base de cálculo da referida taxa respeita os parâmetros constitucionais e jurisprudenciais.
+
+III. RAZÕES DE DECIDIR
+
+A Constituição Federal, em seu art. 145, II, permite a instituição de taxas em razão do exercício do poder de polícia ou pela prestação de serviços públicos específicos e divisíveis, desde que a base de cálculo não se confunda com a de impostos.
+
+A base de cálculo da taxa deve refletir os custos efetivos da fiscalização, vinculando-se diretamente à atividade econômica desenvolvida pelo contribuinte. Jurisprudência consolidada do STF, incluindo o julgamento do ARE 990.094 (Tema 1.035), reafirma a constitucionalidade de taxas calculadas com base no tipo de atividade fiscalizada.
+
+No caso específico, a legislação municipal que vincula a cobrança da taxa à natureza da atividade desenvolvida pelo contribuinte está em consonância com o princípio da capacidade contributiva, conforme precedente do STF (ADI 4787) e Súmula Vinculante nº 29.
+
+Não há identidade integral entre a base de cálculo da taxa e a de impostos, conforme exigido pela jurisprudência. Assim, a inconstitucionalidade declarada pela instância inferior não se sustenta.
+
+IV. DISPOSITIVO E TESE
+
+Recurso provido.
+
+Tese de julgamento
+:
+
+A Taxa de Fiscalização, Localização e Funcionamento instituída pelo Município, com base no exercício do poder de polícia, é constitucional, desde que a base de cálculo observe critérios proporcionais e vinculados aos custos da atividade fiscalizatória.
+
+A utilização do tipo de atividade econômica do contribuinte como parâmetro para a base de cálculo da taxa é compatível com o princípio da capacidade contributiva.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: 027 - Gabinete Desª. DEBORA MARIA AMBOS CORREA DA SILVA
+
+Composição de julgamento
+
+027 - Gabinete Desª. DEBORA MARIA AMBOS CORREA DA SILVA - DEBORA MARIA AMBOS CORREA DA SILVA - Relator / 005 - Gabinete Des. CARLOS SIMÕES FONSECA - FERNANDA CORREA MARTINS - Vogal / 013 - Gabinete Des. FERNANDO ESTEVAM BRAVIN RUY - FERNANDO ESTEVAM BRAVIN RUY - Vogal
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+Trata-se de
+recurso de agravo de instrumento interposto pelo
+MUNICÍPIO DE CACHOEIRO DE ITAPEMIRIM
+contra decisão proferida pelo MM. Juiz de Direito da 1ª Vara da Fazenda Pública Estadual e Municipal de Cachoeiro de Itapemirim, que reconheceu a inexigibilidade da taxa de fiscalização, localização e funcionamento, em razão da inconstitucionalidade do art. 97, do CTM, bem como determinou a intimação do Município para, no prazo de 15 dias, apresentar nova CDA sem a cobrança da taxa supramencionada, sob pena de extinção do processo, devendo, ainda, manifestar-se sobre a desistência do processo, caso o valor da execução se enquadre nos termos da Lei Municipal nº 7872/2021.
+
+Em seu articulado recursal (ID 5400388) sustenta o agravante, em síntese, que:
+(i) A Taxa de Fiscalização, Localização e Funcionamento foi devidamente instituída pelo Município, em decorrência do seu Poder de Polícia; e (ii) a interpretação do magistrado de origem em desacordo com o entendimento sedimentado pelo E. STF.
+
+Diante do exposto, ajuizou o presente recurso para requerer a
+anulação da decisão agravada, a fim de afastar a declaração de inconstitucionalidade do art. 97, da Lei 5.394/2002 (Código Tributário Municipal), permitindo que a execução fiscal prossiga com a cobrança da referida taxa.
+
+Na decisão ID 5437839 foi indeferido o pedido de efeito suspensivo, tendo o Município apresentado agravo interno contra a referida decisão (ID 6296257).
+
+Contrarrazões pela agravada no ID 8607233.
+
+Em síntese, é o relatório. Inclua-se em pauta para julgamento.
+
+_______________________________________________________________________________________________________________________________________________
+
+VOTO VENCEDOR
+
+Conforme relatado,
+trata-se de recurso de
+agravo de instrumento interposto pelo
+MUNICÍPIO DE CACHOEIRO DE ITAPEMIRIM
+contra decisão proferida pelo MM. Juiz de Direito da 1ª Vara da Fazenda Pública Estadual e Municipal de Cachoeiro de Itapemirim, que reconheceu a inexigibilidade da taxa de fiscalização, localização e funcionamento, em razão da inconstitucionalidade do art. 97, do CTM, bem como determinou a intimação do Município para, no prazo de 15 dias, apresentar nova CDA sem a cobrança da taxa supramencionada, sob pena de extinção do processo, devendo, ainda, manifestar-se sobre a desistência do processo, caso o valor da execução se enquadre nos termos da Lei Municipal nº 7872/2021.
+
+Em sua petição de recurso
+(ID 5400388) sustenta o agravante, em síntese, que:
+(i) A Taxa de Fiscalização, Localização e Funcionamento foi devidamente instituída pelo Município, em decorrência do seu Poder de Polícia; e (ii) a interpretação do magistrado de origem em desacordo com o entendimento sedimentado pelo E. STF.
+
+Com base nos fundamentos recursais apresentados, requerer a anulação da decisão agravada, a fim de afastar a declaração de inconstitucionalidade do art. 97, da Lei 5.394/2002 (Código Tributário Municipal), permitindo que a execução fiscal prossiga com a cobrança da referida taxa.
+
+Preenchidos os pressupostos de admissibilidade, passo a analisar o mérito do recurso interposto, o qual, adianto, comporta provimento.
+
+Nos termos do art. 145, inciso II, da Constituição Federal, os Municípios podem instituir
+“taxas, em razão do exercício do poder de polícia ou pela utilização efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos à sua disposição”
+.
+
+O art. 145, §2º, da Carta Magna veda a vinculação da base de cálculo aos impostos, ao passo que a fixação da base de cálculo da taxa de polícia deve levar em consideração fatores objetivos e, ainda, estar vinculada aos reais custos do exercício do poder de polícia. Assim, não pode existir uma desvinculação entre o custo do serviço prestado e o valor cobrado pelo Estado, já que a taxa é um tributo vinculado a uma atividade estatal anterior e versa como uma contraprestação dessa atividade.
+
+Adotar-se elementos indiferentes ao poder de polícia para, com respaldo neles, chegar-se ao quantum monetário de determinada taxa, implica em total desatrelamento do fato gerador, dando margem à criação de um verdadeiro imposto novo, não autorizado pela Lei Fundamental, com a apropriação, pelo legislador municipal, de uma competência constitucional que não lhe foi deferida.
+
+Portanto, diferentemente dos impostos, cuja característica marcante é a desvinculação da receita a uma finalidade determinada, a taxa é o tributo vinculado por excelência, isto é, só é devido pelo contribuinte se houver contraprestação por parte do ente estatal que a tiver instituído.
+
+Acerca do tema, preleciona Luís Eduardo Shoueri:
+
+"Se a taxa é cobrada 'em razão' da atividade do Estado, tem-se nítida a ideia do sinalagma: a taxa é a contraprestação que o contribuinte paga ao Estado em razão de (por causa de) sua atuação em função daquele.
+
+Assim, o constituinte informa o fenômeno que poderá motivar o legislador a exigir o tributo (prestação estatal), donde se pode extrair que o Estado está justificado em sua cobrança na medida em que oferece ao particular algo em troca, ou em que tem uma despesa provocada pelo último .
+
+A justificação da cobrança aparece, então, no sinalagma. Neste sentido, as palavras de Hamilton Dias de Souza e Marco Aurélio Greco: 'Destinação intrínseca se tem na taxa pois a razão de ser desta exação está na necessidade de gerar recursos financeiros para atender à despesa pública relativa à prestação do serviço . Vale dizer, a taxa existe para essa finalidade; ela é instituída com este objetivo apresentando-se a prestação do serviço como a sua causa'". destacamos (Direito Tributário. 2a ed. São Paulo: Saraiva, 2012, p. 199/200)
+
+Sobre o assunto, são os ensinamentos de Paulo de Barros Carvalho:
+
+Poder de Polícia consiste na possibilidade de o Estado praticar atividades condicionantes da liberdade e da propriedade dos seus administrados, em nome de interesses coletivos . Tendo o Poder Público a missão de garantir segurança, o bem-estar, a paz e a ordem coletiva, é-lhe atribuído poder de vigilância, que o autoriza a controlar a liberdade dos indivíduos para proteger os interesses da sociedade. Objetivando proteger tais interesses, o funcionamento de algumas atividades requer autorização administrativa, o que implica controle e fiscalização . E é exatamente o exercício desse poder de polícia, inspecionando e fiscalizando os particulares em nome do bem comum , que abre espaço à remuneração por meio da 'taxa de polícia'" destacamos (Direito Tributário, Linguagem e Método. 2aed. São Paulo: Noeses, 2008, p. 701)
+
+Nesse contexto, é de se concluir que as chamadas "taxas de polícia" ou "taxas de fiscalização" se prestam à remuneração da fiscalização e controle exercidos pelo Estado em relação a determinadas atividades, desenvolvidas por alguns dos particulares, na busca de se resguardar, em última análise, o interesse de toda a coletividade.
+
+Ainda que não seja possível apurar com exatidão os gastos despendidos pelo poder público, é necessário que ao menos haja uma
+correlação razoável
+entre esses valores e aquele cobrado a título de taxa, de modo que,
+“tanto quanto possível, o valor cobrado a título de taxa deve equivaler ao custo do serviço prestado”
+(ADI 2696, Relator(a): DIAS TOFFOLI, Tribunal Pleno, julgado em 15/12/2016, Dje-048, Divulg 13-03-2017, Public 14-03-2017).
+
+Em julgamento mais recente, o Ministro Alexandre de Morais, em voto proferido na ADI nº 4.787, ressaltou que
+“
+o princípio da capacidade contributiva é também aplicável a essa modalidade de tributo
+, qual seja, à espécie tributária da
+taxa
+.
+Assim, é legítimo que o Estado se subsidie do conhecimento de determinada realidade do contribuinte, mesmo daquelas que possam adquirir conotação econômica, quando isso puder indicar, de alguma forma, uma atividade de fiscalização mais pronunciada
+”.
+
+No citado julgamento, a Suprema Corte concluiu que
+“
+os princípios da isonomia e da capacidade contributiva, como corolários da justiça fiscal, não são obliterados quando em voga tributos contraprestacionais, tal qual as taxas
+”
+(ADI 4787, Relator(a): LUIZ FUX, Tribunal Pleno, julgado em 01/08/2022, Dje-207, Divulg 13-10-2022, Public14-10-2022).
+
+Especificamente em relação à possibilidade de o tipo da atividade exercida pelo estabelecimento ser utilizado como parâmetro para a definição do valor de taxa instituída em razão do exercício do poder de polícia, destaco que o Excelso Supremo Tribunal Federal reconheceu, em 2019, a repercussão geral “
+da questão relativa à constitucionalidade da fixação do valor de taxa, instituída em razão do exercício do poder de polícia, em função do tipo de atividade exercida pelo estabelecimento
+” (Tema 1.035 – ARE 990.094/SP). Vejamos:
+
+RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. TAXA INSTITUÍDA E M RAZÃO D O EXERCÍCIO D E PODER D E POLÍCIA. REPERCUSSÃO GERAL. BASE D E CÁLCULO. ATIVIDADE EXERCIDA PELO ESTABELECIMENTO.
+1. Reconhecimento da repercussão geral da questão relativa à constitucionalidade da fixação do valor de taxa, instituída em razão do exercício do poder de polícia, em função do tipo de atividade exercida pelo estabelecimento.
+2. Proposta de reafirmação de jurisprudência com fixação de tese segundo a qual é constitucional a utilização do tipo de atividade exercida pelo estabelecimento como parâmetro para definição do valor de taxa instituída em razão do exercício do poder de polícia rejeitada pelo Plenário virtual. Submissão do feito ao Plenário físico”. (ARE 990094 RG, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 07/03/2019, PROCESSO ELETRÔNICO DJe-210 DIVULG 25-09-2019 PUBLIC 26-09-2019)
+
+Estabelecida as premissas acerca do fato gerador do tributo, bem como considerando a jurisprudência emanada da Corte Suprema até o presente, resta apurar se, no caso específico dos autos, haveria inconstitucionalidade da base de cálculo da Taxa de Licença para Funcionamento.
+
+No caso em análise, o art. 95, da Lei Municipal nº 5.397/2002, ao dispor sobre a referida taxa em análise, define que ela “[...]
+é devida em razão da atuação dos órgãos competentes do Executivo que exercem o poder de polícia, desenvolvendo atividades permanentes de controle, vigilância ou fiscalização do cumprimento da legislação municipal disciplinadora do uso e ocupação do solo urbano, da higiene, saúde, segurança, transportes, ordem ou tranquilidade públicas relativamente aos estabelecimentos situados no Município
+”.
+
+Em evolução, ao disciplinar a base de cálculo de tal tributo, prevê o art. 97 da mesma Lei que “
+a base de cálculo da Taxa será determinada em função da natureza da atividade, e o seu valor corresponderá ao estabelecido na tabela I que integra este código
+”, senão vejamos:
+
+Art. 97. A base de cálculo da Taxa será determinada em função da natureza da atividade, e o seu valor corresponderá ao estabelecido na tabela I que integra este código.
+
+Art. 98. Enquadrando-se o contribuinte em mais de uma das atividades especificadas, será utilizada, para efeito de cálculo da taxa, aquela que conduzir ao maior valor.
+
+[...]
+
+TABELA I
+
+VALOR DA TAXAS - UFCI/ANO
+
+1.1 – Prestadores de serviços:
+
+1.1.1 – atividades sujeitas a vigilância sanitária. 15
+
+1.1.2 – diversões públicas. 15
+
+1.1.3 – jogos. 22
+
+1.1.4 – serviços de comunicação. 100
+
+1.1.5 – transporte ferroviário, metroviário, aéreo e rodoviário de passageiros. 100
+
+1.1.6 – instituições financeiras e securitárias. 100
+
+1.1.7 – caixa eletrônico. 22
+
+1.1.6 – demais prestadores de serviço 07
+
+1.2 – Indústria:
+
+1.2.1 – atividades sujeitas a vigilância sanitária. 29
+
+1.2.2 – demais indústrias. 18
+
+1.3 – Comércio:
+
+1.3.1 – varejista de bens de consumo, de uso doméstico, comercial e industrial. 15
+
+1.3.2 – comércio varejista com atividade sujeitas a vigilância sanitária. 29
+
+1.3.3 – comércio atacadista com atividades sujeitas a vigilância sanitária. 48
+
+1.3.4 – comércio atacadista de mercadorias diversas. 35
+
+1.3.5 – supermercados e distribuidoras. 40
+
+1.3.6 – hipermercados. 80
+
+1.3.7 – comércio, extração, indústria e/ou beneficiamento de minerais não metálicos. 29
+
+1.3.8 – comércio de veículos usados. 35
+
+1.3.9 – comércio de veículos novos e de combustíveis. 89
+
+1.3.10 –realização de eventos em áreas ou logradouros públicos com ou sem cobrança de ingresso, por m2, por dia. 0,1
+
+1.4 – Profissional autônomo com localização:
+
+1.4.1 – classificados como nível fundamental e/ou médio. 04
+
+1.4.2 – classificados como nível fundamental e/ou médio sujeitos à vigilância sanitária. 06
+
+1.4.3 – nível superior. 10
+
+1.4.4 – nível superior sujeito fiscalização sanitária. 10
+
+[...]
+
+1.6 – Demais atividades:
+
+1.6.1 – outras atividades não relacionadas itens anteriores. 10
+
+1.6.1 – outras atividades não relacionadas itens anteriores sujeitas a vigilância sanitária. 12 [...]”
+
+A tabela transcrita visa, justamente, assegurar a referibilidade da taxa em apreço, já que o valor da exação varia de acordo com o tipo de estabelecimento e a atividade econômica exercida. Ademais, considera ainda o maior ou menor grau de complexidade no exercício da atividade fiscalizatória e, por conseguinte, os custos referentes ao exercício do poder de polícia.
+
+Dessa forma, não identifico qualquer ofensa ao art. 145, §2º, da CF, estando em perfeita consonância com a jurisprudência da Suprema Corte.
+
+Rememoro que a decisão objurgada, ao declarar a inconstitucionalidade da taxa de fiscalização, localização e funcionamento, prevista no art. 97 do Código Tributário do Município de Cachoeiro de Itapemirim, utilizou-se dos seguintes fundamentos:
+i)
+a vedação constitucional no que se refere à identidade de base de cálculo entre taxas e impostos; e
+ii)
+a adoção de critério discriminatório de acordo com a atividade a ser fiscalizada e a capacidade contributiva do contribuinte fiscalizado.
+
+Nesse contexto, oportuno destacar que, embora o julgamento do TEMA 1.035 ainda não tenha sido finalizado no plenário virtual da Corte Suprema, já consta a manifestação do eminente Relator, Min. Gilmar Mendes, pela constitucionalidade de tal base de cálculo na hipótese da taxa de fiscalização. Confira-se, por oportuno, relevante passagem do citado voto:
+
+“Percebe-se, assim, que
+o tipo de atividade exercida pelo estabelecimento objeto de fiscalização é critério válido para definição do valor de taxa instituída em razão do exercício do poder de polícia.
+Nesse sentido, não se pode ignorar que o exercício do poder de polícia, o qual engloba a atividade de controle, vigilância e fiscalização de estabelecimentos, será mais ou menos custoso ao Poder Público de acordo com a atividade desempenhada pelo estabelecimento objeto de fiscalização. Dessa forma, é natural compreender, por exemplo, que um posto de combustível deve pagar valor superior, a título de taxa de poder de polícia, em comparação a uma agência de viagem. Afinal, a fiscalização do primeiro estabelecimento, por envolver maior risco à saúde e à segurança, deverá ser feita de maneira mais cautelosa que a do segundo estabelecimento”.
+
+Na esteira de tal manifestação, percebo que a escolha do tipo de atividade exercida pelo fiscalizado não desvincula o tributo do custo efetivo da atividade exercida como manifestação do poder de polícia; ao revés, uma vez que, por certo,
+a variação da atividade econômica exercida no estabelecimento fiscalizado impacta diretamente na atividade fiscalizatória da Municipalidade.
+
+Nada obstante, o simples fato da norma ter utilizado um ou mais elementos da base de cálculo do IPTU não implica inconstitucionalidade, a teor do enunciado da Súmula Vinculante n° 29:
+
+Súmula Vinculante 29
+– É constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base e outra.
+
+Outrossim, também entendo que a utilização do tipo de atividade exercida pelo estabelecimento fiscalizado como critério para definição do valor de taxa atende ao princípio da capacidade contributiva (§1° do art. 145 da CF), na medida em que a exação tributária prevista na legislação municipal em comento acaba por considerar, para fins de realização do ideal da justiça fiscal, características pessoais do sujeito passivo da obrigação tributária.
+
+Por fim, colaciono diversos e atuais precedentes no âmbito deste Sodalício em mesmo sentido, analisando o mesmo tema em voga:
+
+EMENTA: TRIBUTÁRIO. EXECUÇÃO FISCAL. TAXA DE FISCALIZAÇÃO DE LOCALIZAÇÃO, INSTALAÇÃO E FUNCIONAMENTO (TFLIF). MUNICÍPIO DE CACHOEIRO DE ITAPEMIRIM. CÓDIGO TRIBUTÁRIO MUNICIPAL (CTM). ART. 97 DA LEI MUNICIPAL N.º 5.394/02. CONSTITUCIONALIDADE RECONHECIDA PELO E. TJES. DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO. 1. Agravo de instrumento interposto em face de decisão na qual o juiz, em ação de execução fiscal ajuizada pelo Município de Cachoeiro de Itapemirim, declara a inconstitucionalidade da taxa de fiscalização de localização, instalação e funcionamento (TFLIF) instituído pelo art. 97 do Código Tributário Municipal - Lei Municipal n.º 5.394/02. 2. O e. STF, quando do “julgamento do RE 588.322 (Rel. Min. GILMAR MENDES, Tema 217), assentou a constitucionalidade de taxa de fiscalização e funcionamento, desde que se possa inferir, pela existência de órgão administrativo na municipalidade, o efetivo exercício do poder de polícia” (ARE 1039295 ED). 3. Nos termos do entendimento do e. TJES, não “se identifica a alegada incompatibilidade do art. 97 do CTM de Cachoeiro de Itapemirim com a Constituição Federal, porquanto estejam as hipóteses de incidência e bases de cálculo previstas para a taxa de fiscalização, localização e funcionamento em conformidade com o que dispõem o inciso II do art. 145 da CF e o art. 79 do CTN, tendo em vista a aparente correspondência com a atividade pública retributiva ou contraprestacional” (TJES, Agravo de instrumento n.º 5007112-33.2023.8.08.0000). 4. Recurso conhecido e provido. 5. Agravo Interno prejudicado. (
+Data: 28/Jun/2024 - Órgão julgador: 3ª Câmara Cível
+- Número: 5007310-70.2023.8.08.0000 - Magistrado: VANIA MASSAD CAMPOS - Classe: AGRAVO DE INSTRUMENTO - Assunto: Dívida Ativa (Execução Fiscal) (destaquei)
+
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE FISCAL. ARTIGO 97 DA LEI N.º 5.394/2002 DO MUNICÍPIO DE CACHOEIRO DE ITAPEMIRIM (CÓDIGO TRIBUTÁRIO MUNICIPAL). TAXA DE FISCALIZAÇÃO DE LOCALIZAÇÃO, INSTALAÇÃO E FUNCIONAMENTO (TFLIF). CONSTITUCIONAL. PRECEDENTES DO E. TJES. DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO. 1. O e. STF “no julgamento do RE 588.322 (Rel. Min. GILMAR MENDES, Tema 217), assentou a constitucionalidade de taxa de fiscalização e funcionamento, desde que se possa inferir, pela existência de órgão administrativo na municipalidade, o efetivo exercício do poder de polícia” (ARE 1039295 ED). 2. A jurisprudência do e. TJES reputa constitucional o art. 97 da Lei Municipal n.º 5.394/02 do Município de Cachoeiro de Itapemirim, o qual prevê a cobrança da Taxa de Fiscalização de Localização, Instalação e Funcionamento (TFLIF). Precedentes. 3. Decisão reformada. 4. Recurso conhecido e provido. (Data:
+22/Jan/2024
+- Órgão julgador: 4ª Câmara Cível - Número: 5007225-84.2023.8.08.0000 - Magistrado: ARTHUR JOSE NEIVA DE ALMEIDA - Classe: AGRAVO DE INSTRUMENTO - Assunto: Dívida Ativa)
+
+EMENTA: AGRAVO DE INSTRUMENTO. TAXA DE FISCALIZAÇÃO DE LOCALIZAÇÃO, INSTALAÇÃO E FUNCIONAMENTO. BASE DE CÁLCULO. REGULAR EXERCÍCIO DO PODER DE POLÍCIA. LEI MUNICIPAL Nº 5.394/2002. CONSTITUCIONALIDADE. RECURSO PROVIDO. 1. No caso concreto, o Município de Cachoeiro de Itapemirim instituiu a Taxa de Fiscalização de Localização, Instalação e Funcionamento por meio da Lei nº 5.394/2002. 2. Sobre o tema, o Supremo Tribunal Federal reconheceu repercussão geral no ARE 990.094 (Tema 1.035). 3. Apesar de não ter firmado posicionamento sobre o tema, a majoritária jurisprudência daquela Corte Constitucional entende pela constitucionalidade da Taxa de Fiscalização de Localização, Instalação e Funcionamento em razão da atividade exercida pelo contribuinte. 4. Sendo assim, haja vista o entendimento pela constitucionalidade da cobrança da Taxa de Fiscalização de Localização, Instalação e Funcionamento, não vejo como manter a decisão agravada. 5. Recurso provido. Agravo interno prejudicado. (Data:
+08/Feb/2024 -
+Órgão julgador: 1ª Câmara Cível - Número: 5007266-51.2023.8.08.0000
+
+Magistrado: EWERTON SCHWAB PINTO JUNIOR - Classe: AGRAVO DE INSTRUMENTO)
+
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO FISCAL. INEXIGIBILIDADE DA TAXA DE FISCALIZAÇÃO, LOCALIZAÇÃO E FUNCIONAMENTO. ALEGA INCONSTITUCIONALIDADE DO ART. 97 DO CÓDIGO TRIBUTÁRIO MUNICIPAL DE CACHOEIRO DE ITAPEMIRIM. INOCORRÊNCIA. RECURSO CONHECIDO E PROVIDO. 1. As taxas são tributos previstos em lei, cuja obrigação tem por fato gerador o exercício do poder de polícia ou a utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos à sua disposição, a teor do art. 145, II, da CF/1988, assim como o art. 77 do CTN. 2. Enquanto pendente de conclusão o julgamento do tema n. 1.035 da repercussão geral do Supremo Tribunal Federal, reputa-se constitucional que a base de cálculo da taxa de fiscalização, localização e funcionamento seja determinada em função da natureza da atividade. 3. Na esteira da jurisprudência do Pretório Excelso, o princípio da capacidade contributiva aplica-se às taxas. 4. Recurso conhecido e provido. (Data:
+22/Feb/2024 -
+Órgão julgador: 4ª Câmara Cível - Número: 5007214-55.2023.8.08.0000 - Magistrado: ROBSON LUIZ ALBANEZ - Classe: AGRAVO DE INSTRUMENTO - Assunto: Dívida Ativa)
+
+DIREITO TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. TAXA DE FISCALIZAÇÃO. UTILIZAÇÃO DE UM OU MAIS ELEMENTOS DA BASE DE CÁLCULO DE IPTU. CONSTITUCIONALIDADE. SÚMULA VINCULANTE Nº 29. RECURSO PROVIDO. 1) A fixação da base de cálculo da taxa de polícia deve levar em conta parâmetros objetivos e guardar correspondência com os custos do exercício do poder de polícia. 2) Não se identifica a alegada incompatibilidade do art. 97 do CTM de Cachoeiro de Itapemirim com a Constituição Federal, porquanto estejam as hipóteses de incidência e bases de cálculo previstas para a taxa de fiscalização, localização e funcionamento em conformidade com o que dispõem o inciso II do art. 145 da CF e o art. 79 do CTN, tendo em vista a aparente correspondência com a atividade pública retributiva ou contraprestacional. 3) O simples fato da norma ter utilizado um ou mais elementos da base de cálculo do IPTU não implica inconstitucionalidade. Súmula Vinculante 29. 4) Recurso provido. (Data: 18/Dec/2023 - Órgão julgador: 2ª Câmara Cível - Número: 5007112-33.2023.8.08.0000 - Magistrado: JOSE PAULO CALMON NOGUEIRA DA GAMA - Classe: AGRAVO DE INSTRUMENTO - Assunto: Dívida Ativa)
+
+EMENTA: DIREITO TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. TAXA DE FISCALIZAÇÃO, LOCALIZAÇÃO E FUNCIONAMENTO. EXERCÍCIO DO PODER DE POLÍCIA. BASE DE CÁLCULO. ATIVIDADE EXERCIDA. CONSTITUCIONALIDADE. PRINCÍPIO DA CAPACIDADE CONTRIBUTIVA. APLICABILIDADE. RECURSO CONHECIDO E PROVIDO. 1) Enquanto pendente de conclusão o julgamento do tema n. 1.035 da repercussão geral do Supremo Tribunal Federal, reputa-se constitucional que a base de cálculo da taxa de fiscalização, localização e funcionamento seja determinada em função da natureza da atividade. 2) A escolha do tipo de atividade exercida pelo fiscalizado não desvincula o tributo do custo efetivo da atividade exercida como manifestação do poder de polícia; ao revés, uma vez que, por certo, a variação da atividade econômica exercida no estabelecimento fiscalizado impacta diretamente na atividade fiscalizatória da Municipalidade. 3) Na esteira da jurisprudência do Pretório Excelso, o princípio da capacidade contributiva aplica-se às taxas. 4) Recurso de agravo de instrumento conhecido e provido. (TJ-ES, Agravo de Instrumento nº 5007148-75.2023.8.08.0000, SEGUNDA CÂMARA CÍVEL, Relator:RAPHAEL AMERICANO CÂMARA, Data do Julgamento: 06/12/2023)
+
+EMENTA: AGRAVO DE INSTRUMENTO – DIREITO TRIBUTÁRIO – AÇÃO DE EXECUÇÃO FISCAL – TAXA DE FISCALIZAÇÃO, LOCALIZAÇÃO E FUNCIONAMENTO – INCONSTITUCIONALIDADE DO ART. 97 DO CÓDIGO TRIBUTÁRIO MUNICIPAL DE CACHOEIRO DE ITAPEMIRIM – INEXISTÊNCIA - EXIGIBILIDADE DO TRIBUTO - RECURSO CONHECIDO E PROVIDO. 1. Cinge-se a controvérsia à análise da exigibilidade da taxa de fiscalização de localização, instalação e funcionamento prevista no Código Tributário Municipal de Cachoeiro de Itapemirim. 2. A taxa é uma espécie de tributo de caráter retributivo ou contraprestacional, pois tem como fato gerador o exercício do poder de polícia ou a utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou colocados a sua disposição (CF, art. 145, inc. II e CTN, art. 77, caput). 3. No que concerne ao fato gerador da Taxa de Fiscalização de Localização, Instalação e Funcionamento instituída pelo art. 95 da Lei Municipal n. 5.394/2002 (Código Tributário do Município de Cachoeiro de Itapemirim), vê-se que a base de cálculo da referida taxa será determinada em função da natureza da atividade explorada (prestação de serviços, indústria, comércio, profissionais autônomos, microempresas e outras atividades gerais que não se enquadrem nas anteriores). 4. Não se observa neste momento a incompatibilidade da taxa de fiscalização do Município com a Constituição, pois as hipóteses de incidência e bases de cálculo previstas para a taxa de fiscalização, localização e funcionamento (art. 97 do CTM) estão em consonância com o que dispõem o inciso II do art. 145 da CF e o art. 79 do CTN, de modo que há a aparente correspondência com a atividade pública retributiva ou contraprestacional. 5. Recurso conhecido e provido. (TJ-ES, Agravo de Instrumento nº 5007168-66.2023.8.08.0000,
+TERCEIRA CÂMARA CÍVEL, Relator: SÉRGIO RICARDO DE SOUZA
+, Data do Julgamento: 28/11/2023)
+
+Ante ao exposto,
+CONHEÇO
+do recurso interposto e, no mérito,
+CONCEDO-LHE PROVIMENTO
+,
+para tornar sem efeito a decisão Agravada
+, ficando prejudicado o Agravo Interno oposto contra a decisão liminar proferida neste recurso.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS VOGAIS
+
+005 - Gabinete Des. CARLOS SIMÕES FONSECA - FERNANDA CORREA MARTINS (Vogal)
+Acompanhar
+013 - Gabinete Des. FERNANDO ESTEVAM BRAVIN RUY - FERNANDO ESTEVAM BRAVIN RUY (Vogal)
+Acompanhar
