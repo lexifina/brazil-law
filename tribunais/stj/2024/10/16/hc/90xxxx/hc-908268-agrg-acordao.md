@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+P ROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. SIGNIFICATIVA QUANTIDADE, VARIEDADE E NATUREZA DELETÉRIA DAS DROGAS APREENDIDAS. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIAS CAUTELARES DIVERSAS. INADEQUAÇÃO E INSUFICIÊNCIA. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, alegando ausência dos requisitos para prisão preventiva, conforme art. 312 do Código de Processo Penal, e pleiteando medidas cautelares alternativas.
+II. Questão em discussão
+2. A questão em discussão consiste na verificação da legalidade da prisão preventiva do agravante, acusado de tráfico de drogas, e a possibilidade de aplicação de medidas cautelares diversas.
+III. Razões de decidir
+3. O art. 312 do Código de Processo Penal dispõe que a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+4. A prisão preventiva foi ordenada e mantida pelas instâncias ordinárias, com fundamento no art. 312 do Código de Processo Penal, notadamente para a garantia da ordem pública, diante da significativa quantidade, variedade e natureza deletéria dos entorpecentes apreendidos com o agravante, surpreendido após tentativa de fuga, já individualizados e embalados para mercancia, além de dinheiro em espécie.
+5. Condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a prisão cautelar ou autorizar medidas cautelares alternativas quando há nos autos elementos hábeis que autorizam sua manutenção.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão proferida por esta Relatoria que não conheceu do habeas corpus (e-STJ fls. 85-87).
+Nas suas razões, a defesa insiste na ausência dos requisitos autorizadores da prisão preventiva, elencados no art. 312 do Código de Processo Penal, sendo possível a aplicação de medidas cautelares diversas da prisão.
+Requer a reconsideração da decisão agravada ou, caso seja mantida, o provimento do agravo regimental pelo Colegiado.
+Sem contrarrazões (e-STJ fls. 115-116).
+É o relatório.
+EMENTA
+P ROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. SIGNIFICATIVA QUANTIDADE, VARIEDADE E NATUREZA DELETÉRIA DAS DROGAS APREENDIDAS. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIAS CAUTELARES DIVERSAS. INADEQUAÇÃO E INSUFICIÊNCIA. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, alegando ausência dos requisitos para prisão preventiva, conforme art. 312 do Código de Processo Penal, e pleiteando medidas cautelares alternativas.
+II. Questão em discussão
+2. A questão em discussão consiste na verificação da legalidade da prisão preventiva do agravante, acusado de tráfico de drogas, e a possibilidade de aplicação de medidas cautelares diversas.
+III. Razões de decidir
+3. O art. 312 do Código de Processo Penal dispõe que a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+4. A prisão preventiva foi ordenada e mantida pelas instâncias ordinárias, com fundamento no art. 312 do Código de Processo Penal, notadamente para a garantia da ordem pública, diante da significativa quantidade, variedade e natureza deletéria dos entorpecentes apreendidos com o agravante, surpreendido após tentativa de fuga, já individualizados e embalados para mercancia, além de dinheiro em espécie.
+5. Condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a prisão cautelar ou autorizar medidas cautelares alternativas quando há nos autos elementos hábeis que autorizam sua manutenção.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+VOTO
+O recurso é tempestivo, uma vez que a decisão agravada foi publicada em 02/05/2024 (e-STJ fl. 88) e o agravo foi interposto no dia 06/05/2024 (e-STJ fl. 107), ou seja, dentro do prazo legal previsto no art. 258, caput, do Regimento Interno do Superior Tribunal de Justiça.
+Não verifico elementos suficientes para reconsiderar a decisão proferida (e-STJ fls. 85-87).
+Relembro, ab initio, que o art. 312 do Código de Processo Penal dispõe que a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+No caso, o agravante foi preso preventivamente por suposta infração ao art. 33, caput, da Lei 11.343/2006.
+A prisão preventiva do agravante foi ordenada pelo magistrado de primeiro grau, nos seguintes termos (e-STJ fl. 48):
+A prisão preventiva, medida cautelar mais drástica, só é cabível quando as outras cautelares se mostrarem insuficientes ou inadequadas para o caso concreto (art. 282, § 6º, do CPP). No caso, estão presentes os requisitos da prisão preventiva, qual seja, o fumus comissi delicti e periculum libertatis. Trata-se, em tese, de delito doloso cuja pena máxima supera os quatro anos e há provada materialidade e indícios da autoria. Além disso, destaca-se a gravidade em concreto do delito, tendo em vista a grande quantidade, diversidade e natureza dos entorpecentes apreendidos na posse do autuado (cocaína e crack, dentre outros). No que diz respeito à quantidade dos entorpecentes, cumpre destacar que o indiciado trazia consigo 143,89 gramas de cocaína, 23 gramas de maconha e 43g de crack, individualmente embaladas e prontas para venda. Tal fato indica o provável envolvimento com organização criminosa dedicada ao tráfico de entorpecentes, o que reclama a decretação da prisão preventiva para a garantia da ordem pública.
+A Corte local assim fundamentou a controvérsia (e-STJ fls. 80-81):
+Embora o paciente seja primário (fls. 39), forçoso admitir que ele foi preso por situação que faz presumi-lo ser autor do delito. Ressalta-se que houve apreensão de quantidade de droga considerável (cf. auto de exibição e apreensão às fls. 17 laudo de constatação às fls. 29/31, 32/34 e 35/37). Trata-se de drogas com alto potencial lesivo. Embora essas circunstâncias não constituam, por si só, óbice à concessão de liberdade provisória, não podem ser simplesmente desconsideradas, pois evidenciam o seu envolvimento no meio criminoso e possibilidade real de recalcitrância criminosa, logo, para não voltar a praticar infrações penais, assegurando-se a ordem pública, a segregação cautelar se impõe.
+E, embora a gravidade dos delitos não constitua, por si só, fundamento para a manutenção da custódia cautelar, não há dúvida que, no caso presente, as circunstâncias da prisão em flagrante e a quantidade de entorpecentes apreendidos denotam um maior desvalor da conduta perpetrada (pela periculosidade e os riscos à saúde e à segurança pública).
+A concessão da tutela de urgência somente seria possível em situação excepcionalíssima, caso fosse verificada, de pronto, flagrante ilegalidade ou teratologia, o que não é o caso.
+Ao menos a princípio, mostra-se necessária a sua prisão, pois estão presentes os requisitos da prisão preventiva, de modo que o periculum in libertatis ficou bem demonstrado.
+Por ser o tráfico equiparado a crime hediondo, estar ele inserido no meio criminoso, de pouca valia a primariedade, sendo o encarceramento necessário para garantia da ordem pública e da aplicação da lei penal.
+Destaca-se que, diferentemente do alegado pela combativa defesa, a prisão preventiva foi ordenada e mantida pelas instâncias ordinárias, com fundamento no art. 312 do Código de Processo Penal, notadamente para a garantia da ordem pública, diante da quantidade, variedade e natureza deletéria dos entorpecentes apreendidos com o agravante, surpreendido após tentativa de fuga, com 143,89g de cocaína (88 pinos), 24,3g de maconha (12 trouxinhas) e 43g de crack (133 pedras), já individualizados e embalados para mercância, além de R$ 1.890,00 (mil, oitocentos e noventa reais) em espécie.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. TRANCAMENTO DA AÇÃO PENAL. VIOLAÇÃO DE DOMICÍLIO. PRESENÇA, A PRINCÍPIO, DE JUSTA CAUSA PARA A MEDIDA INVASIVA. PREMATURO ESTÁGIO DO FEITO NA ORIGEM. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. NULIDADE DA BUSCA PESSOAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. No que tange à segregação cautelar, é pacífico o entendimento jurisprudencial dos Tribunais Superiores no sentido de que as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade.
+5. Ao contrário do alegado pela defesa, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o agravante foi preso em flagrante na posse de várias buchas de maconha, embaladas em pequenas sacolas, pesando 220 gramas de maconha, dois envelopes fracionados com 20 gramas de crack e 21 pinos cocaína, pesando 40 gramas, bem como uma balança de precisão, elementos que caracterizam maior desvalor da conduta em tese perpetrada.
+6. Eventuais condições subjetivas favoráveis, tais como primariedade, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+7. Ademais, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas.
+8. Por fim, o pedido para que seja reconhecida a nulidade da busca pessoal consubstancia vedada inovação recursal, visto que não foi ventilado na petição do recurso ordinário, além de não ter sido analisado pela Corte local, a ensejar o reconhecimento da supressão de instância.
+9. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 197.244/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE E VARIEDADE APREENDIDAS. FUNDAMENTO IDÔNEO. MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. INSUFICIÊNCIA.
+1. Embora não sirvam fundamentos genéricos, seja referente ao dano social gerado por tráfico, por ser crime hediondo, ou da necessidade de resposta judicial à sociedade, para a prisão, podem a periculosidade e os riscos sociais justificarem a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga e, no caso sob análise, foram apreendidos 185,39g de cocaína, 70,55g de crack e 567,71g de maconha, o q ue evidencia fundamentação idônea para a prisão preventiva.
+2. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 860.918/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024.)
+Por fim, condições pessoais favoráveis, ainda que comprovadas, não têm o condão de, isoladamente, desconstituir a prisão cautelar ou autorizar medidas cautelares alternativas quando há nos autos elementos hábeis que autorizam sua manutenção, como ocorre no caso.
+É assente nesta Corte que se tem "por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura" (AgRg no HC n. 844.095/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
