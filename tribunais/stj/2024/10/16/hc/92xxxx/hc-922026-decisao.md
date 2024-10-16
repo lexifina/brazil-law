@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de IGOR LUCIANO DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento da Apelação Criminal n. 5004819-48.2022.8.21.0070.
+Extrai-se dos autos que o paciente foi condenado à pena de 2 anos de reclusão, no regime inicial aberto, pela prática do crime tipificado no art. 129, §1º, I, do Código Penal - CP.
+O Tribunal de origem deu parcial provimento à apelação interposta pelo paciente, para reduzir a pena ao patamar de 1 ano e 4 meses de reclusão, mantidos os demais termos da sentença. Confira-se a ementa do julgado (fls. 24/25):
+"APELAÇÃO. LESÃO CORPORAL DE NATUREZA GRAVE. INCONFORMIDADE DEFENSIVA. FERIMENTO COM ARMA BRANCA. INCAPACIDADE DA VÍTIMA PARA OCUPAÇÕES HABITUAIS POR MAIS DE TRINTA DIAS. ARTIGO 129, §1º, INCISO I, DO CÓDIGO PENAL. ALEGAÇÃO DE NEGATIVA DE AUTORIA AFASTADA. CONJUNTO FÁTICO E PROBATÓRIO DOTADO DE ELEMENTOS SUFICIENTES PARA A CONDENAÇÃO. PLEITO SUBSIDIÁRIO DE REDIMENSIONAMENTO DA PENA PARCIALMENTE ACOLHIDO. INCONFORMIDADE EM RELAÇÃO À VALORAÇÃO DADA ÀS VETORIAIS DA CULPABILIDADE, DAS CIRCUNSTÂNCIAS E DAS CONSEQUÊNCIAS DO DELITO. NEUTRALIZADA A CIRCUNSTÂNCIA JUDICIAL ATINENTE ÀS CONSEQUÊNCIAS DO CRIME. REDIMENSIONADA A FRAÇÃO DE EXASPERAÇÃO ADOTADA PARA CADA CIRCUNSTÂNCIA JUDICIAL SOPESADA NEGATIVAMENTE PARA 1/6 SOBRE A PENA MÍNIMA. REDUÇÃO DA SANÇÃO AO PATAMAR DE 01 (UM) ANO E 04 (QUATRO) MESES DE RECLUSÃO, MANTIDO O REGIME INICIAL ABERTO E AS DEMAIS DISPOSIÇÕES SENTENCIAIS. APELO DEFENSIVO PARCIALMENTE PROVIDO."
+No presente writ, a defesa sustenta constrangimento ilegal na negativação das vetoriais culpabilidade, circunstâncias e consequências, com base em elementos do próprio tipo penal, que posteriormente também foram utilizados para caracterizar a qualificadora da lesão corporal grave, o que evidencia afronta ao princípio do non bis in idem.
+Aduz, ainda, que o paciente desferiu apenas um golpe na vítima, o que demonstra que sua conduta não transcendeu a normalidade esperada para a prática delitiva "e que o resultado obtido - lesão grave - já foi considerado pelo legislador para estabelecer a pena mínima para o delito em questão" (fl. 9).
+Do mesmo modo, quanto às consequências, afirma que o fato de que ""a vítima sofreu grave ferimento, tendo sido obrigada a se afastar de suas atividades laborativas por mais de trinta dias", confunde-se, claramente, com a forma qualificada do delito, ou seja, com a lesão corporal grave  .. " (fl. 10).
+Por fim, quanto à vetorial circunstâncias do delito, afirma, do mesmo modo, que não desbordou da normalidade, sendo que o magistrado apenas limitou-se a narrar a conduta, denotando-se tão somente o animus laedendi, que também já foi considerado na configuração do tipo penal, em clara hipótese de bis in idem.
+Requer, em liminar e no mérito, a concessão da ordem para que seja revisada a dosimetria da pena-base, com a fixação no mínimo legal.
+Medida liminar indeferida conforme decisão de fls. 36/38.
+Parecer ministerial de fls. 44/47 pela concessão da ordem de ofício a fim de redimensionar a pena.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+A dosimetria da pena deve ser feita seguindo o critério trifásico descrito no art. 68, c/c o art. 59, ambos do Código Penal, cabendo ao Magistrado aumentar a pena de forma sempre fundamentada e apenas quando identificar dados que extrapolem as circunstâncias elementares do tipo penal básico.
+Na hipótese dos autos, verifica-se que inexiste constrangimento ilegal a ser sanado na estreita via do mandamus relativamente ao desfavorecimento da vetorial das circunstâncias do delito.
+A valoração negativa da referida circunstância judicial se fez, de forma razoável e proporcional, em razão das particularidades do caso em comento que desbordam das elementares do tipo, considerando o modus operandi da conduta imputada, em que, o paciente teria utilizado uma arma branca consistente em uma faca em meio à briga generalizada, com risco às demais pessoas.
+Referida orientação está de acordo com o entendimento jurisprudencial desta Corte Superior segundo o qual o modus operandi do crime e o fato de o cometimento do crime expor outras pessoas a risco justifica a exasperação da pena. Exemplificativamente:
+ ..
+5. Legítima a exasperação, em razão do modus operandi empregado na prática do delito fundada no fato de que os agentes efetuaram inúmeros disparos de arma de fogo, em via pública, em direção ao carro da vítima, afetando não apenas a incolumidade física da vítima, mas dos demais ocupantes do veículo, fatos que desbordam do ínsitos do delito, configurando, pois, justificativa válida para o desvalor.
+ ..
+(HC n. 352.237/RJ, Rel. Ministro NEFI CORDEIRO, 6ª Turma, DJe 11/11/2016.)
+ ..
+1. Na via estreita do habeas corpus, marcado por cognição sumária e rito célere, deve ser evitada a modificação da sanção penal imposta pelas instâncias ordinárias, que estão mais próximas dos fatos e são soberanas na análise das provas contidas nos autos, devendo a revisão da pena ser concretizada somente nos casos de flagrante ilegalidade ou teratologia, o que não se verifica na hipótese.
+ ..
+As circunstâncias do delito, praticado em via pública movimentada, com risco a terceiros, também justificam desvaloração, conforme procedido em sentença. Por fim, as consequências do crime não se limitam aos elementos do tipo penal, pois incluem lesão prolongada a órgão essencial, que levou a vítima a ter prejuízos financeiros e submeter-se a desgastante e duradouro tratamento médico.
+Assim, não se afigura desproporcional ou irrazoável o recrudescimento da pena base do paciente em seis meses, inexistindo flagrante ilegalidade a ser sanada pelo rito processual eleito.
+ ..
+(AgRg no HC n. 344.194/PE, da minha relatoria, Quinta Turma, DJe 9/11/2016.)
+No mais, na esteira do parecer ministerial da lavra do douto Subprocurador-Geral da República ELTON GHERSEL, o qual adoto como razões de decidir, "a negativação da vetorial consequências do crime foi afastada pelo tribunal a quo", de sorte que ausente o interesse de agir no ponto.
+Por fim, de fato, melhor sorte assiste ao impetrante quanto ao incremento dado acerca do vetor culpabilidade. A referida valoração negativa merece ser decotada, posto que se mostra inidôneo o argumento utilizado para embasar o recrudescimento da pena-base, na medida em que integra a estrutura do crime em apreço, não tendo sido indicado qualquer elemento concreto que justificasse a majoração aplicada. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FRAUDE À LICITAÇÃO. DOSIMETRIA. CULPABILIDADE. CONSCIÊNCIA DA ILICITUDE DA CONDUTA E POSSIBILIDADE DE AGIR DE FORMA DIVERSA. MOTIVAÇÃO ABSTRATA. MANIFESTA ILEGALIDADE EVIDENCIADA. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. Conforme o reconhecido no decisum monocrático, no que tange ao cálculo dosimétrico, a individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+2. No tocante à culpabilidade, para fins de individualização da pena, tal vetorial deve ser compreendida como o juízo de reprovabilidade da conduta, ou seja, o menor ou maior grau de censura do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito. No caso, a mera ciência da ilicitude do seu comportamento e a possibilidade de agir de forma diversa não justificam a valoração negativa de tal vetor.
+Precedentes.
+3. Mesmo que não se possa ignorar a monta do prejuízo suportado pela municipalidade, tal fundamento não foi empregado pela Corte de origem na dosagem da pena base, não sendo possível manter o incremento sem motivação concreta, nos estritos termos do art. 93, IX, da Constituição da República .
+4. A jurisprudência desta Corte é firme no sentido de que considerações genéricas e desvinculadas do contexto fático dos autos, assim como elementos inerentes ao próprio tipo penal não servem para o agravamento da pena, como se constata na espécie.
+Precedente.
+5. Agravo desprovido.
+(AgRg no HC n. 770.059/RO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Nessa ordem de ideias, considerando que a sanção foi aumentada em quatro meses, em razão das duas vetoriais negativas, e, conforme fundamentação supra, afastando-se a negativação da culpabilidade, a basilar deve ser fixada em 1 ano e 2 meses de reclusão, tornando-se definitiva, à míngua de atenuantes, agravantes, causas de aumento ou diminuição.
+Ante o exposto, não conheço do habeas corpus. Contudo, com fundamento no art. 34, c/c art. 203, II, do Regimento Interno do Superior Tribunal de Justiça, concedo a ordem de ofício para redimensionar a pena do ora paciente para 1 ano e 2 meses de reclusão.
+Publique-se.
+Intimem-se.
+EMENTA
