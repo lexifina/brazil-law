@@ -1,0 +1,22 @@
+DECISÃO
+Na origem, trata-se de ação de rito comum previdenciário ajuizado pelo ora Agravante contra o INSS, ora Agravado, requerendo a concessão de pensão por morte. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 358.294,84 (Trezentos e cinquenta e oito mil, duzentos e noventa e quatro reais e oitenta e quatro centavos).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+QUESTÃO DE ORDEM. ERRO MATERIAL. RETIFICAÇÃO DO RESULTADO. ADEQUAÇÃO AO DELIBERADO EM SESSÃO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+No que diz respeito ao mérito da decisão impugnada, verifica-se que apesar da ação trabalhista ajuizada contra as empresas DC Soluções em Transportes Ltda e Alves Consultoria e Engenharia Ltda., com o respectivo registro laboral na Carteira de Trabalho e Previdência Social (ID 164237662 - p. 3), não ficou cabalmente demonstrado o vínculo de trabalho defendido pelos autores.
+A iniciar pelo fato de a r. sentença ter sido proferida à revelia da empresa reclamada. Assim a decisão judicial, por si só, não faz prova suficiente do vínculo de trabalho defendido pelos autores, acrescentando-se que eles desistiram da realização da prova oral nestes autos (ID 164237669).
+Em verdade, depreende-se da prova documental carreada que o falecido exerceu a atividade de , com poder de diretor comercial não empregado representatividade e sem subordinação, não preenchendo os requisitos contidos no artigo 3º da Consolidação das Leis do Trabalho.
+ ..
+Considerando-se que o Cadastro Nacional de Informações Sociais demonstra que o último recolhimento previdenciário foi em 29/08/2007 (ID 164237678), mesmo se o período de graça fosse de 36 (trinta e seis) meses, tem-se que na data do óbito (27/10/2007) o falecido não mais ostentava a condição de segurado. Portanto, considerando que no presente agravo não foi apresentado nenhum fundamento apto a infirmar a decisão transcrita, mantenho integralmente o posicionamento adotado.
+ ..
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (art. 74 da Lei n. 8.213/1.991 e art. 4º da Lei n. 10.666/2003), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
