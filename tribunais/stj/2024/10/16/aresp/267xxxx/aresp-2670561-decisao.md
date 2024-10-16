@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por GENISON PINTO DA SILVA, com fundamento na impossibilidade de análise, em recurso especial, de violação de norma constitucional; incidência das Súmulas 280, 282, 284 e 356/STF, além das Súmulas 7 e 13/STJ, nos seguintes termos (fls. 320-325):
+De partida, ressalto que, com relação ao art. 341 do Código Civil, apontado como violado pelo recorrente, inexistiu entre os julgadores do Órgão Fracionário deste Sodalício, qualquer debate, tampouco foram eles suscitados em sede dos embargos de declaração, o que atrai ao presente caso o enunciado das Súmulas nº 282/STF 1  e 356/STF 2 , aplicável por analogia aos Recursos Especiais, tendo em vista a impossibilidade do Superior Tribunal de Justiça pela primeira vez se pronunciar sobre a sobredita questão federal invocada na via excepcional.
+ ..
+Ademais, constato que o Insurgente fundamentou, igualmente, o apelo nobre em suposta afronta aos arts. 37, XV, 142, § 1º e 3º, da CF/88. Ocorre, no entanto, que o c. Superior Tribunal de Justiça (STJ), em sede de recurso especial, não possui competência para a análise de violação a preceitos constitucionais.
+ ..
+Assim, para reavaliar as circunstâncias fáticas expressamente referidas pelo órgão fracionário, seria necessário revisitar o conteúdo fático-probatório dos autos, o que é vedado nesta instância excepcional, de acordo com o Enunciado 7 da Súmula do c. STJ 3 , impedindo o seguimento do recurso.
+ ..
+Lado outro, ainda que superados os óbices retromencionados, constata-se que o caso concreto foi solucionado a partir de interpretação conferida a normativos locais, quais sejam, a LCE 169/2011 e Dec. nº 88.777/83. Destarte, rever o entendimento adotado pela Câmara Julgadora, demandaria o revolvimento da legislação local, o que é vedado pela Súmula 280/STF, aplicada por analogia.
+ ..
+Além disso, especificamente com relação à fundamentação recursal baseada no inciso III, alínea " c" do art. 105 da CF/88, verifico que o Insurgente não preencheu os requisitos formais para a devida apreciação do excepcional.
+ ..
+Assim, ante a deficiência na fundamentação recursal por ausência de cotejo analítico, incide, por analogia, o enunciado nº 284 da súmula do e. STF 5 .
+Por fim, constato que a parte recorrente alega a ocorrência de divergência jurisprudencial entre decisões de Câmaras do próprio TJPE. No entanto, por esse fundamento, o recurso também encontra óbice em razão do conteúdo do enunciado da Súmula nº 13 do STJ: "A divergência entre julgados do mesmo tribunal não enseja recurso especial".
+A parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, fundado no art. 105, III, a, do permissivo constitucional, por meio do qual aponta violação dos arts. 37, XV; 142, §§1º, 3º, VIII, da Constituição Federal e do art. 341, do Código Civil.
+Alega a inaplicabilidade dos óbices das Súmulas 7 e 211/STJ e 280/STF, ao argumento de que o recurso especial não demanda exame do contexto fático-probatório e nem de lei local, além de afirmar que a matéria foi devidamente prequestionada, justificando que "não se faz necessário alusão expressa aos dispositivos constitucionais enfrentados pelo MM. Juízo a quo. Basta que o recorrente tenha levado a conhecimento da instância superior a ofensa a Lei Federal, e assim foi feito" (fl. 330).
+Aduz que restou comprovado nos autos o efetivo aumento na carga horária dos militares, após a edição da Lei Complementar Estadual 169/2011, sem a compensação remuneratória correspondente, contrariando o princípio da irredutibilidade dos vencimentos. Assim, requer o conhecimento do agravo para regular processamento do recurso especial.
+Contraminuta apresentada (fls. 338-342).
+É o relatório.
+Passo a decidir.
+Por certo, as alegações deduzidas pela parte agravante são insuficientes para serem consideradas como impugnação à decisão agravada, tendo em vista que não refutou todos os fundamentos de inadmissão do recurso especial. Não houve clareza na indicação dos dispositivos de lei federal supostamente violados, com a demonstração efetiva da alegada contrariedade.
+Desse modo, a parte não observou o princípio da dialeticidade e a necessária impugnação efetiva e fundamentada, o que atrai a aplicação analógica da Súmula 182/STJ.
+Consoante pacífica jurisprudência desta Corte, "são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial" (AgInt no AREsp n. 2.146.906/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. NÃO CONHECIMENTO DO RECURSO ESPECIAL. APLICAÇÃO DAS SÚMULAS 7 E 182 DO STJ. ART. 932, III, DO CPC E ART. 253, PARÁGRAFO ÚNICO, INCISO I, DO RISTJ - AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo Interno interposto de decisão monocrática que não conheceu do Recurso Especial, fundamentando-se na aplicação da Súmula 7 do STJ, pela natureza eminentemente fática da controvérsia, e na ausência de impugnação específica dos fundamentos da decisão agravada, conforme exigência do art. 932, III, do CPC e do art. 253, parágrafo único, inciso I, do RISTJ.
+2. O recorrente, ao pleitear a reforma da decisão que aplicou as mencionadas súmulas, não logrou demonstrar, de forma específica e concreta, a desconstituição dos fundamentos que sustentaram a decisão que inadmitiu o Recurso Especial, mantendo-se assim os óbices sumulares.
+3. É imprescindível, segundo a jurisprudência consolidada do STJ, que o agravante enfrente todos os fundamentos da decisão recorrida, refutando-os de maneira específica e detalhada, sob pena de não conhecimento do Agravo.
+4. Não apresentação, pelo agravante, de argumentos suficientes para desconstituir os fundamentos da decisão agravada, mantendo-se a aplicação da Súmula 182/STJ.
+5. Agravo Interno a que se nega provimento, ressaltando-se a advertência quanto à possibilidade de reconhecimento de litigância de má-fé e aplicação das penalidades previstas nos arts. 81 e 1.026, §§ 2º e 3º, do CPC/2015, em caso de interposição de Recurso Protelatório ou manifestamente inadmissível. (AgInt no AREsp n. 1.941.413/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 29/5/2024.)
+Isso posto, não conheço do agravo em recurso especial.
+Intimem-se.
+ EMENTA
