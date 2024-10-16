@@ -1,0 +1,83 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ EDUARDO MONTANDON BORGES JUNIOR e MUYARA NOBRE PINHEIRO MONTANDON BORGES contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fl. 876):
+APELAÇÃO. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA C/C OBRIGAÇÃO DE FAZER. FINANCIAMENTO DE IMÓVEL. PRELIMINAR DE OFÍCIO. INOVAÇÃO RECURSAL. RECURSO CONHECIDO EM PARTE. PRELIMINAR. NULIDADE DA SENTENÇA. AUSÊNCIA DE FUNDAMENTAÇÃO. REJEITADA. MÉRITO. REVISÃO CONTRATUAL. COMPRA E VENDA. IMÓVEL. FINANCIAMENTO. SEGURO HABITACIONAL. LEI 9.514/1997. VENDA CASADA. INOCORRENTE. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA.
+1. Incabível o conhecimento de pedido não formulado no juízo de origem, ante a configuração de inovação recursal e a análise acarretar supressão de instância.
+1.1. No caso dos autos, o pedido de inversão do ônus da prova para comprovar que o Banco financiador ofereceu outras opções de seguradora, não só aquela que participa do mesmo conglomerado pertencente à instituição financeira e de condenação dos réus a apresentar as fórmulas e cálculos utilizadas na amortização das prestações pagas, não foram formulados em primeira instância, o que impede seu conhecimento em grau recursal. Recurso conhecido em parte.
+2. A existência de jurisprudência divergente do entendimento apresentado pela sentença somente é capaz de vincular o julgador se a decisão decorrer de alguma das situações previstas no transcrito art. 927 do CPC. 2.1. Inexistente o precedente vinculante, não há defeito de fundamentação decorrente da falta de aplicação da jurisprudência invocada pela parte.
+3. A lei 9.514/1997 prevê a contratação obrigatória de seguro habitacional nos casos em que a pessoa adquire um imóvel por meio de financiamento bancário e que o consumidor pode contratar junto ao financiador ou em outra seguradora autorizada.
+3.1. No caso dos autos, o réu demonstrou que a celebração do contrato principal não foi condicionada à contratação com seguradora específica, desconstituindo a alegada violação ao art. 39, I, do CDC.
+4. Recurso parcialmente conhecido. Preliminar rejeitada. No mérito, recurso não provido. Sentença mantida.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 933-948).
+Nas razões do recurso especial (e-STJ, fls. 952-970), os recorrentes apontaram violação aos arts. 489, § 1º, VI, e 1.022 do CPC/2015; 6º, III, 39, I, e 42, parágrafo único, do CDC.
+Sustentaram, em síntese, negativa de prestação jurisdicional e deficiência na fundamentação do acórdão quanto à premissa equivocada de que se tratava de inovação recursal, sendo que os pedidos de inversão do ônus da prova e de condenação dos réus à apresentação das formas e cálculos utilizados na amortização das prestações pagas, a fim de comprovar a regularidade do saldo devedor, foram formulados desde a petição inicial.
+Alegaram a falha no dever de prestar informações sobre o produto e a necessidade de reconhecimento da abusividade da cláusula 6 do contrato de financiamento, ao impor aos consumidores a contratação de seguradora pertencente ao seu próprio grupo econômico, sem apresentação de outras opções de seguros, o que corresponde a venda casada, devendo ser restituído, em dobro, o valor despendido.
+Foram apresentadas contrarrazões (e-STJ, fls. 979-988).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, no que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que as instâncias ordinárias expressamente enfrentaram todas as questões suscitadas pelos recorrentes, de forma clara e fundamentada, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Confira-se o seguinte excerto do voto dos aclaratórios (e-STJ, fls. 937-940, sem grifo no original):
+Os embargantes alegam que o acórdão incorreu em erro porque todos os pedidos dispostos na apelação teriam sido apresentados anteriormente na petição inicial e reiterados em embargos de declaração contra a sentença recorrida.
+Sem razão.
+O acórdão embargado foi claro ao consignar que o pedido de inversão de ônus da prova formulado na petição inicial se referia a matéria diversa do pedido formulado na apelação, pois o primeiro dizia respeito à comprovação do valor devido, e o segundo à comprovação da disponibilização de outras opções de seguradoras.
+Transcrevo o trecho relevante do acórdão embargado:
+1.1. Preliminar de ofício - inovação recursal
+Suscito, de ofício, preliminar de inovação recursal.
+Da análise do recurso, apura-se que entre os fundamentos para a reforma da sentença, os apelantes aduzem que seria necessária a inversão do ônus da prova para que o Banco apelado comprovasse que ofereceu outras opções de seguradora, não só aquela que participa do mesmo conglomerado pertencente à instituição financeira.
+Requerem, ainda, a condenação dos réus a apresentar as fórmulas e cálculos utilizadas na amortização das prestações pagas, comprovando a regularidade do saldo devedor indicado e, caso não comprovada, sua correção para o valor correto.
+Entretanto, estes pedidos não foram realizados em primeira instância, configurando inovação recursal.
+Cabe ressaltar que o pedido de inversão do ônus da prova, formulado pelos autores, estava adstrito à apuração do real valor devido e da regularidade do cálculo das prestações do financiamento, conforme se verifica da petição de ID 50339706:
+(vii) A declaração de nulidade da cláusula 6 do contrato de financiamento, determinando-se o reembolso em dobro da quantia despendida pelos autores (valor principal de R$334.544,58) com a contratação de seguro, totalizando R$669.089,16 (seiscentos e sessenta e nove mil, oitenta e nove reais e dezesseis centavos), a ser corrigida monetariamente, além de que se declare inexigível a cobrança de parcelas futuras;
+(viii) A revisão das cláusulas 2 e 4 do contrato de financiamento, traduzidas no tópico 5 do quadro resumo, para reduzir a taxa de juros remuneratórios cobrados para 0,70% ao mês, correspondente à taxa média do mercado, de modo a reequilibrar economicamente o contrato, com a redução de juros em quantia igual a R$ 288.024,22 (duzentos e oitenta e oito mil, vinte e quatro reais e vinte e dois centavos), em respeito aos princípios da função social dos contratos e da proteção à moradia e em conformidade com a jurisprudência desse eg. TJDFT;
+(ix) Seja o réu compelido a corrigir o saldo devedor para R$3.803.198,50 (três milhões, oitocentos e três mil, cento e noventa e oito reais e cinquenta centavos), considerando os pagamentos a título de amortização no total de R$ 1.196.801,50 (um milhão, cento e noventa e seis mil, oitocentos e um reais e cinquenta centavos), além das atualizações cabíveis e recálculo das parcelas em atraso e a vencer, ou que demonstre, mediante parecer contábil, o real saldo devedor, com fundamento no artigo 6o do CDC e na jurisprudência desse eg. TJDFT;
+Já no apelo, inova trazendo pedido totalmente diverso, havendo, assim, clara inovação recursal. Vejamos: 86. Ainda, requer-se o provimento deste recurso de apelação, reformando-se a r. sentença, para julgar procedentes os pedidos veiculados na inicial, notadamente, para reconhecer a nulidade da cláusula 6 do contrato de financiamento e determinar a restituição em dobro das quantias despendidas com a contratação de seguro, nos termos dos artigos 39, I, e 51 do Código de Defesa do Consumidor, bem como para condenar os recorridos a apresentar as fórmulas e cálculos utilizadas na amortização dos valores pagos pelos recorrentes e comprovar a regularidade do saldo devedor indicado ou, caso não seja possível, corrigir o saldo devedor para o realmente devido, com fundamento no artigo 6o, III, do Código de Defesa do Consumidor.
+O Código de Processo Civil prevê:
+Art. 1.014. As questões de fato não propostas no juízo inferior poderão ser suscitadas na apelação, se a parte provar que deixou de fazê-lo por motivo de força maior.
+Confira-se, nesse sentido, o magistério de Alexandre Freitas Câmara:
+(..) não se pode inovar na apelação, sendo vedada a arguição de fatos novos (salvo aquelas que não foram alegadas em primeiro grau de jurisdição por motivo de força maior, nos termos do que dispõe o art.517 do CPC). É o que se chama de "exclusão do ius novorum", ou seja, a vedação de inovar nas questões de fato que serão apreciadas pelo juízo ad quem. " (Lições de Direito Processual Civil, Editora Lumem Juris, Rio de Janeiro, 2004, 8a edição, Volume II, pág.88)
+Dessa forma, ainda que se trate de matéria de ordem pública, a questão deve ser enfrentada primeiramente pelo magistrado de origem, sob pena de supressão de instância e violação ao princípio do devido processo legal.
+( )
+Assim, inexiste qualquer erro material ou premissa fática equivocada passível de correção por via de embargos de declaração.
+O desacordo com o entendimento firmado no acórdão embargado não caracteriza erro material ou premissa fática equivocada e não enseja a oposição de embargos de declaração, devendo a parte impugná-lo pelos mecanismos processuais adequados.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA.
+(..)
+3. O órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para a sua decisão, de acordo com seu livre e fundamentado convencimento, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp n. 2.015.401/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+O Tribunal de origem, ao deixar de reconhecer a venda casada, consignou o seguinte (e-STJ, fls. 886-887, sem grifo no original):
+Inicialmente, cabe destacar que a contratação de seguro habitacional é obrigatória nos casos em que a pessoa adquire um imóvel por meio de financiamento bancário e que o consumidor pode contratar junto ao financiador ou em outra seguradora autorizada, conforme prevê a Lei 9.514/1997, ( )
+No caso dos autos, da leitura do contrato firmado entre as partes, juntado no ID 50339675, verifica-se que os apelantes declararam, expressamente, que no ato da contratação lhes foi oportunizada a opção de diversas seguradoras, conforme explicita a cláusula 11:
+11 - SEGURADORA ESCOLHIDA PELO COMPRADOR PARA A COBERTURA SECURITÁRIA
+Seguradora: Zurich Santander Brasil Seguros S/A
+Comprador: José Eduardo Montandon Borges Junior
+Participação: 100,00%
+Declaração do COMPRADOR: Declaro que o Santander me ofereceu mais de uma opção de apólice de seguradoras diferentes e escolhi a seguradora acima identificada, e fui informado do Custo Efetivo do Seguro Habitacional - CESH - correspondente a 5,8086% a.a.
+Assim, o banco réu demonstrou que a celebração do contrato principal não foi condicionada à contratação com seguradora específica, desconstituindo a alegada violação ao art. 39, I, do CDC.
+Destarte, impende registrar que, a partir dos pressupostos analisados pelo acórdão recorrido, a questão foi resolvida com base nas cláusulas contratuais e nos elementos fáticos que permearam a demanda. Assim, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local implicaria na análise dos termos contratuais e no reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 deste Tribunal.
+Ilustrativamente:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DOS DEMANDANTES.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. Para se chegar à conclusão de que a prova cuja produção foi requerida pela parte seria ou não indispensável à solução da controvérsia demandaria o reexame do conjunto fático-probatório dos autos, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7/STJ.
+3. É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada".
+4. A jurisprudência desta Corte entende ser válida a "tarifa de avaliação do bem dado em garantia, bem como da cláusula que prevê o ressarcimento de despesa com o registro do contrato, ressalvadas a:
+2.3.1. abusividade da cobrança por serviço não efetivamente prestado; e a 2.3.2. possibilidade de controle da onerosidade excessiva, em cada caso concreto" (REsp n. 1.578.553/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 28/11/2018, DJe de 6/12/2018.)
+5. No caso, ficou consignado no acórdão que a parte autora da ação revisional não foi compelida a contratar o seguro nem demonstrou a suposta venda casada. O desfecho atribuído ao processo na origem não destoa das premissas fixadas no precedente representativo da controvérsia (Súmula 83/STJ), impondo-se reafirmar que o acolhimento da insurgência demandaria reexame de matéria fática e interpretação do contrato estabelecido entre as partes, procedimento inviável em recurso especial (Súmulas 5 e 7 do STJ).
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.132.101/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO EM DOBRO DE QUANTIAS PAGAS E INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE VENDA CASADA. SEGURO DE VIDA E PREVIDÊNCIA. CONTRATO QUE AFASTA A ALEGAÇÃO DE
+CONDICIONAMENTO DO FORNECIMENTO DE UM SERVIÇO À DISPONIBILIZAÇÃO DE
+OUTRO. INVIABILIDADE DE REEXAME. INCIDÊNCIA DAS SÚMULAS N.os 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O acolhimento da pretensão recursal quanto à alegada existência de venda casada demandaria o revolvimento do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, o que é viável na via especial ante o óbice das Súmulas n.os 5 e 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.453.441/BA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/4/2024, DJe de 24/4/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários recursais em favor do advogado da parte recorrida para 18% (dezoito por cento) sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ALEGADA VENDA CASADA. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
