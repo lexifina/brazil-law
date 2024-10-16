@@ -1,0 +1,25 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça respectivo na Apelação Criminal n. 1.0000.23.167310-4/001.
+O recorrido foi condenado, pelo crime de roubo majorado, tipificado no art. 157, §§ 2º, II, V e VII, e 2ºA, I, do Código Penal, a 10 anos de reclusão, em regime fechado, mais 25 dias-multa.
+Por maioria, o Tribunal de origem deu parcial provimento à apelação defensiva, a fim de alterar a pena do réu para 7 anos, 9 meses e 10 dias de reclusão.
+No especial, a acusação pretendeu o reconhecimento da majorante relativa ao emprego de arma de fogo e indicou violação do art. 157, § 2º-A, I, do Código Penal. Afirmou que "A palavra das vítimas e dos policiais militares é elemento idôneo a demonstrar a utilização da arma de fogo no crime de roubo" (fl. 1.415).
+Apresentadas as contrarrazões, o recurso foi admitido na origem, e o Ministério Público Federal manifestou-se por seu provimento (fls. 1.465-1.472).
+Decido.
+O recurso especial preenche os requisitos de admissibilidade e, no mérito, comporta provimento.
+Nas hipóteses em que a arma não foi apreendida nem periciada e, via de consequência, não foi comprovado o seu efetivo poder vulnerante, a Terceira Seção deste Superior Tribunal, no julgamento do EREsp n. 961.863/RS, de relatoria do Ministro Celso Limongi (Desembargador convocado do TJ/SP), com relator para acórdão o Ministro Gilson Dipp, DJe 6/4/2011, assentou o entendimento de que, para a incidência da causa especial de aumento, mostram-se dispensáveis a apreensão e a realização de perícia na arma usada no crime de roubo, desde que comprovado o seu uso por outros meios de prova.
+O voto vencedor traz a seguinte conclusão (fl. 1.383, grifei):
+Registro, por oportuno, que não me passaram despercebidas as declarações dos policiais militares no sentido de que houve disparos dos agentes durante a fuga.
+Todavia, tal versão não restou devidamente comprovada nos autos, ante a inexistência de qualquer registro formal ou pericial de sua ocorrência. Por todos esses motivos expostos, entendo que, in casu, diante da ausência de provas aptas a demonstrarem que a arma de fogo era, de fato, prestável e eficiente, faz-se necessário o decote da majorante prevista no art. 157, §2º-A, I, do CP.
+Entretanto, o voto divergente registra este argumento (fl. 1.391, destaquei):
+Na espécie, além das vítimas terem confirmados o emprego de arma de fogo na prática delituosa, o próprio acusado Samuel, quando ouvido no curso do inquérito policial, admitiu que um dos autores estava armado.
+Portanto, restando suficientemente comprovado o emprego de arma de fogo na prática do roubo pelas declarações das vítimas - cuja palavra sempre possui fundamental relevância em crimes como o roubo - e pela confissão extrajudicial do próprio réu, a causa de aumento respectiva deve ser mantida.
+Considero que o acórdão deve ser reformado para fazer prevalecer o entendimento divergente. Isso porque, nos casos em que não forem possíveis a apreensão e a perícia da arma para a prova do seu efetivo potencial de lesividade, como na espécie, é devida a incidência da majorante quando existirem nos autos elementos de prova que confirmem o seu uso na prática do delito, como a palavra da vítima, dos policiai s, que presenciaram os disparos desferidos pelos agentes, e do próprio acusado, que admitiu um dos criminosos estar armado.
+Nesse sentido:
+ ..  De acordo com o entendimento jurisprudencial das Cortes de Vértice, é dispensável a apreensão e a perícia da arma de fogo para a comprovação da respectiva causa de aumento de pena no crime de roubo, quando evidenciada a sua utilização no delito por outros meios de prova, tais como a palavra da vítima ou o depoimento de testemunhas (AgRg no HC n. 830.344/PE, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024, DJe de 5/3/2024).
+Feitas essas considerações, aplico a dosimetria contida no voto divergente, assim realizada (fl. 1.392, grifei):
+Em seu voto, após corretamente reconhecer a atenuante da menoridade em prol do réu, a douta Relatora, na segunda fase da dosimetria da pena, reduziu sua pena para 05 anos e 12 meses de reclusão.
+Noutro vértice, verifica-se que o digno sentenciante, constatando o concurso de causas de aumento, na terceira fase dos cálculos dosimétricos, optou pelo maior aumento (art. 68, § único, CP), que corresponde a 2/3 (dois terços), relativo à majorante do emprego de arma.
+Assim, sobre a pena de 05 anos e 12 meses, obtida na segunda fase dos cálculos dosimétricos, faço incidir o aumento de 2/3 (dois terços), ou o correspondente a 03 anos e 04 meses e 08 dias-multa, concretizando a reprimenda em 08 anos e 04 meses de reclusão e pagamento de 20 dias-multa, mantido o regime prisional fechado.
+À vista do exposto, dou provimento ao recurso especial para estabelecer a pena definitiva do recorrido em 8 anos e 4 meses de reclusão, em regime fechado, mais 20 dias-multa.
+Publique-se e intimem-s e, inclusive as vítimas, para conhecimento do resultado do julgamento.
+EMENTA
