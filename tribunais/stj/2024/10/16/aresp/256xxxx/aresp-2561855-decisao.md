@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NOTRE DAME INTERMEDICA SAÚDE S.A. contra decisão que inadmitiu recurso especial com fundamento na incidência da Súmula n. 284 do STF, por não ter sido indicado dispositivo federal para a alegação de julgamento extra petita, na não demonstração da alegada ofensa dos arts. 186,187, 927 e 944 do CC, na incidência da Súmula n. 7 do STJ e na ausência de similitude do acórdão recorrido e paradigma.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+No agravo em recurso especial, a parte agravante alegou que no recurso especial não pretende o reexame de provas, mas sim a revaloração.
+Pontua que os médicos/enfermeiros não cometeram nenhum ato ilícito e não atuaram de maneira negligente, omissa, com imperícia e/ou de maneira imprudente.
+Afirma que não foi garantido o contraditório e a ampla defesa, pois "r. Juízo, que deixou de sanear o processo, de forma a assegurar o devido processo legal, decretando, em razão dessa inobservância, à revelia Hospital Casa de Saúde Santana, sacrificando a garantia do contraditório e da ampla defesa, subsidiando os Agravados com relevante elemento confirmador dos fatos aventados em sua exordial" (fl. 528).
+Defende que houve a violação dos arts. 186, 187 e 927 do CC, pois não houve a comprovação de ato ilícito e inexiste nos autos qualquer prova dos alegados danos, o que impede a indenização por dano moral pleiteado.
+Sustenta a comprovação de divergência jurisprudencial e a similitude dos julgados.
+Requer "seja conhecido e provido o presente recurso especial" (fl. 533).
+Parecer do Ministério P úblico Federal às fls. 568-572.
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na incidência da Súmula n. 284 do STF, por não ter sido indicado dispositivo federal para a alegação de julgamento extra petita, na não demonstração da alegada ofensa dos arts. 186,187, 927 e 944 do CC, na incidência da Súmula n. 7 do STJ e na ausência de similitude do acórdão recorrido e paradigma.
+Nas razões recursais, porém, a parte agravante deixou de impugnar especificamente o fundamento relativo à incidência da Súmula n. 284 do STF, quanto ao julgamento extra petita, limitando-se a reiterar as razões de mérito do recurso especial e a defender a inaplicabilidade da Súmula n. 7 do STJ, assim como o prequestionamento das questões deduzidas, não demonstrando, de forma clara, objetiva e coesa o rebatimento do óbice relativo à deficiência de fundamentação.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
