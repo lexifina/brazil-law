@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2024 a 16/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRANCAMENTO DO INQUÉRITO POLICIAL. CRIME MILITAR. PECULATO-FURTO. FRAGILIDADE DOS ELEMENTOS DE PROVA. WRIT DENEGADO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus tem como finalidade principal afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+2. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão impugnada pelos próprios fundamentos.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JOÃO CARLOS MAZZARDO interpõe agravo regimental contra decisão de minha relatoria em que deneguei a ordem de habeas corpus por ele impetrado. A defesa postulava o trancamento do inquérito policial e a invalidação da decisão que autorizou a quebra de sigilo de dados e telemático. Alegava que não haveria justa causa para fundamentar a ação penal em curso, haja vista a fragilidade dos elementos de prova angariados a fim de enquadrá-lo em delito de natureza militar - peculato-furto - art. 302, § 2º, do Código Penal Militar.
+Opostos embargos de declaração, estes foram acolhidos para sanar omissão, sem efeitos modificativos (fl. 1.075-1.077).
+Nas razões deste regimental, há a reiteração do pedido de trancamento do procedimento administrativo, uma vez que (fl. 1.084):
+ ..  o ilustre Relator, ao dar provimento aos Embargos de Declaração sem atribuir-lhes efeitos infringentes, analisou brevemente alguns elementos (adiante impugnados) que, supostamente, poderiam fundamentar a decisão do juízo de origem.
+Todavia, não analisou de forma específica os fundamentos efetivamente utilizados nas decisões do juízo de origem. Se o tivesse feito, teria percebido que a decisão que autorizou a quebra de sigilo de dados e bancário é desprovidas da fundamentação e motivação necessária a relativizar a privacidade do agravante  .. .
+A parte pleiteia, assim, a reconsideração da decisão anteriormente proferida ou a submissão do feito a julgamento pelo órgão colegiado, para que seja provido o recurso de agravo e concedida a ordem de habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRANCAMENTO DO INQUÉRITO POLICIAL. CRIME MILITAR. PECULATO-FURTO. FRAGILIDADE DOS ELEMENTOS DE PROVA. WRIT DENEGADO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus tem como finalidade principal afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+2. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão impugnada pelos próprios fundamentos.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos apresentados pela defesa, entendo que não lhe assiste razão. Mantenho, assim, a decisão agravada por seus próprios fundamentos.
+Ao denegar a ordem, consignei o que se segue (fls. 1.055-1.060 e 1.064-1.072, destaquei):
+ ..  ressalto que as alegações relativas à ausência de autoria e materialidade implicam análise de inocência, procedimento que, na estreita via do habeas corpus ou do recurso ordinário, demanda exame do contexto fático- probatório.
+ ..  O acusado foi indiciado pela prática, teoricamente, do delito de peculato-furto - art. 302, § 2º, do Código Penal Militar  .. .
+ ..  De acordo com a reiterada jurisprudência desta Corte Superior, o trancamento da ação penal ou de procedimento administrativo penal em habeas corpus, por ser medida excepcional, somente é cabível quando demonstradas, de maneira inequívoca e, a um primeiro olhar, a atipicidade da conduta, a absoluta falta de provas da materialidade do crime e de indícios de autoria ou da existência de causa extintiva da punibilidade, situações não constatadas in casu. A propósito: RHC n. 68.665/BA, Rel. Ministro Felix Fischer, 5ª T., DJe16/8/2017.
+No caso, a autoridade policial demonstrou, com objetividade, o liame entre o agir do paciente e a prática delituosa. Os fatos apurados denotam, teoricamente, que o paciente haveria escamoteado quantia expressiva em veículo particular, bem como haveria filmagens que teriam registrado parte da abordagem policial que constatou o delito e a declaração de testemunha no âmbito da agência bancária, que haveria recebido o valor do suposto autor e contabilizado as notas em espécie para depósito em conta corrente.
+Dessarte, qualquer incursão que escape à moldura fática ora apresentada demandaria inegável revolvimento fático-probatório, procedimento não condizente com os estreitos limites do writ, ação constitucional de rito célere e de cognição sumária  ..  não se há de falar em trancamento prematuro do inquérito policial, haja vista que os fatos, tais como narrados, indicam, aparentemente, a existência e a autoria de crime.
+ ..  Na espécie, havia fundadas razões para que o juízo competente autorizasse o cumprimento das diligências, pois trata-se de investigado (policial militar) que, segundo os elementos colhidos no âmbito judicial, depois de uma "sucessão de fatos indiciários de crime" (fl. 158), haveria, em tese, obtido acesso ao interior de veículo de Felipe Varasquin Zanotto, cujo porta-malas guarnecia quantia relevante, que estava camuflada em sacos plásticos escuros. Esse fato haveria sido corroborado por testemunha ocular.
+ ..  Diante desse cenário, o deferimento das diligências era necessário, porque foram constatadas, mediante a quebra do sigilo bancário, "importantes incongruências financeiras, tal como a transferência de alto valor entre o 2º Sgt. Mazzardo e o Sd. Maurício na quantia de R$ 3.250,00, ocorrida alguns dias após a ocorrência envolvendo o Sd. Felipe Varaschin Zanotto, e movimentações de quantias incompatíveis com a renda dos referidos policiais (no período de 90 dias, o paciente movimentou R$ 28.763,18;o Sd. Maurício, R$ 47.214,56)" (fl. 159).
+Ausente, portanto, teratologia da decisão judicial que determinou as medidas acautelatórias da quebra de sigilo de dados e telefônicos no âmbito do inquérito policial n. 0070138-34.2023.9.21.000. Os elementos indicados apontam fundadas razões objetivas e concretas quanto à existência de situação de delito  .. .
+O agravante visa, tão somente, à rediscussão de matéria apreciada no âmbito do habeas corpus. Ademaos, é a compreensão jurisprudencial desta Corte Superior é de que "o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos"  ..  (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+À vista do exposto, nego provimento ao agravo regimental.
+Publique-se e intimem-se.
