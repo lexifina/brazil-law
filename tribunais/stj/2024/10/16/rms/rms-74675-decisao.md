@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por Jackson Cesar Oliveira Carneiro "contra a decisão que indeferiu a liminar no mandado de segurança impetrado contra o ato do Presidente da Comissão do 191º Concurso de Ingresso na Magistratura do Tribunal de Justiça do Estado de São Paulo" (fl. 3), POIS, conforme justifica o recorrente em petição dirigida a esta Corte Superior:
+O recorrente impetrou mandado de segurança contra ato do Presidente da Comissão do 191º Concurso de Ingresso na Magistratura do Tribunal de Justiça do Estado de São Paulo, que indeferiu sua inscrição no referido concurso em razão da suposta falta de encaminhamento do Certificado de Habilitação no Exame Nacional de Magistratura, conforme exigido pelo Item 5.1.4, inciso IV, do edital. A surpresa se dá porque o candidato ESTÁ DEVIDAMENTE APROVADO no Exame Nacional da Magistratura e ENVIOU O RESPECTIVO COMPROVANTE DE APROVAÇÃO NO ENAM EM TEMPO HÁBIL, cumprindo com o dever de diligência, bem como sua inscrição foi confirmada pelo sistema da VUNESP. (fl. 6).
+A aludida petição recursal veicula também pedido de liminar, fundado no art. 300 do CPC, "para suspender os efeitos do indeferimento da inscrição, garantindo a participação do Recorrente no certame até a decisão final deste recurso" (fl. 18).
+Recurso sem contrarrazões, interposto diretamente no Superior Tribunal de Justiça, consoante certidão à fl. 366.
+Recurso tempestivo e Representação regular (fl. 22).
+Custas recolhidas (fl. 365), mas sem apresentação da respectiva guia de recolhimento.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Cuida-se, na hipótese, de recurso ordinário em mandado de segurança manejado contra decisão monocrática do Desembargador relator que, ao examinar o pedido de concessão de liminar veiculado pelo Impetrante na petição vestibular, o indeferiu, pelo fundamento a seguir transcrito:
+2. Extrai-se da legislação de regência, Lei nº 12.016/2009, artigo 7º, inciso III, que liminar exige o concurso, como requisitos, da relevância dos motivos em que se assenta o pedido e possibilidade de ocorrência de lesão ao direito do impetrante, caso venha a ser reconhecido na decisão de mérito (Hely Lopes Meirelles e Outros, Mandado de Segurança e Ações Constitucionais, pág. 85, Malheiros Ed., 32a. ed.).
+Contudo, não diviso nesse momento, ao menos em cognição sumária, a relevância do fundamento, em termos de autorizar concessão de liminar inaudita altera parte.
+Os documentos que instruíram a petição inicial demonstram que o impetrante efetuou sua inscrição no 191º Concurso de Ingresso na Magistratura do Tribunal de Justiça do Estado de São Paulo e que essa inscrição foi efetivada, porém, não demonstram que houve o envio do Certificado de Habilitação no Exame Nacional de Magistratura, por link específico, como exigido pelo Item 5.1.4, inciso IV, do edital deste concurso.
+3. Indefiro, pois, a liminar. (fl. 24)
+Nesse contexto, o prematuro apelo não merece ir além do juízo de admissibilidade.
+Com feito, a Lei n. 12.016/2009, que disciplina o mandado de segurança, é precisa quanto à hipótese de cabimento do respectivo recurso ordinário, pela clareza do que dispõe seu art. 18:
+Art. 18. Das decisões em mandado de segurança proferidas em única instância pelos tribunais cabe recurso especial e extraordinário, nos casos legalmente previstos, e recurso ordinário, quando a ordem for denegada.
+Assim, o recurso ordinário em mandado de segurança, sob pena de supressão de instância, só é cabível contra acórdão (decisão colegiada) que denega a segurança, o que não é a hipótese destes autos na qual, repita-se, apenas a medida liminar foi indeferida, por decisão singular do Desembargador relator, que ainda não se pronunciou, nem mesmo por decisão monocrática, sobre o mérito do subjacente writ.
+A propósito do não cabimento do RMS contra indeferimento de liminar, colhe-se da jurisprudência do STJ:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSUAL PENAL. ENVIO DE ARMAS APREENDIDAS AO COMANDO DO EXÉRCITO. ACÓRDÃO QUE INDEFERE PEDIDO LIMINAR. NÃO CABIMENTO. AUSÊNCIA DE PREVISÃO CONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 105, inciso II, alínea b, da Constituição Federal, somente é possível a interposição de recurso ordinário contra acórdão que, ao analisar o mérito de mandado de segurança em única instância, denega a segurança. Assim, é incabível a interposição de recurso ordinário contra acórdão que simplesmente indefere pedido liminar em mandado de segurança.
+2. Agravo regimental desprovido.
+(AgRg no RMS n. 72.203/PA, relator Ministro Teodoro Silva Santos, Sexta Turma, DJe de 12/12/2023.)
+AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DO IMPETRANTE.
+1. É inviável o conhecimento de recurso em mandado de segurança interposto em face de decisão monocrática na origem, pois não houve exaurimento da instância anterior. Precedentes.
+2. Agravo interno desprovido. Prejudicados os embargos de declaração de fls. 204-228, opostos em face de decisão liminar.
+(AgInt no RMS n. 67.117/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 8/10/2021.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO DE REMOÇÃO. CARTÓRIOS. ESTADO DO ESPÍRITO SANTO. RECURSO ORDINÁRIO INTERPOSTO CONTRA ACÓRDÃO QUE JULGOU PREJUDICADO AGRAVO REGIMENTAL. SUPERVENIÊNCIA DE JULGAMENTO DE MÉRITO, NÃO ATACADO.
+1. Agravo regimental contra decisão que negou seguimento a recurso ordinário interposto contra acórdão que julgou prejudicado o agravo regimental do indeferimento da liminar pedida no mandamus. Alega-se que, pelo fato de o Tribunal de origem ter julgado prejudicado o agravo regimental, por ausência de interesse recursal, o respectivo acórdão teria natureza terminativa, de tal sorte que a Corte a quo, em razão da preclusão, não poderia ter decidido novamente a questão, proferindo novo acórdão, nos termos do art. 471 do CPC; daí porque se alega o cabimento do recurso ordinário.
+2. O Tribunal de origem foi expresso, no julgamento do agravo regimental, ao se referir, na parte dispositiva do voto condutor, à extinção do agravo regimental, "por ausência de superveniente de interesse recursal" (fl. 50), daí porque não procede a alegação de que o mandamus teria sido extinto sem julgamento do mérito.
+3. Assim, o recurso ordinário é manifestamente incabível, uma vez que interposto contra acórdão que decide agravo regimental contra o indeferimento da liminar; e, se não o bastante, ainda se encontra prejudicado porque foi remetido extemporaneamente ao STJ, quando já julgado o mérito do mandado de segurança, sem recurso da parte interessada.
+4. Agravo regimental não provido.
+(AgRg no RMS n. 34.009/ES, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 23/4/2013, DJe de 26/4/2013.)
+Eis porque, na linha de consolidada jurisprudência, não é possível o manejo do recurso ordinário constitucional para impugnar decisão monocrática que, em sede de mandado de segurança originário, indefere pedido de liminar formulado pelo impetrante.
+ANTE O EX POSTO, porque incabível o presente recurso ordinário, dele não conheço, conforme autorizado pelos arts. 932, III, do CPC e 34, XVIII, "a", do RISTJ.
+Publique-se.
+EMENTA
