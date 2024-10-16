@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO EM HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que indeferiu habeas corpus impetrado com o objetivo de obter a revogação da prisão preventiva decretada contra paciente acusado de homicídio. A decisão monocrática manteve a prisão preventiva com fundamento na ausência de flagrante ilegalidade e na impossibilidade de reexame de provas na via do habeas corpus.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se a prisão preventiva imposta ao agravante apresenta flagrante ilegalidade que justifique sua revogação; e (ii) analisar se o Superior Tribunal de Justiça pode conhecer de habeas corpus que envolve matérias não previamente apreciadas pelo Tribunal de origem, configurando supressão de instância.
+III. RAZÕES DE DECIDIR
+3. Não se pode conhecer do habeas corpus quando a matéria questionada não foi apreciada pelo Tribunal de origem, sob pena de supressão de instância, conforme o disposto no art. 105, I, da Constituição Federal e na jurisprudência do STJ.
+4. Não se constata flagrante ilegalidade na manutenção da prisão preventiva, uma vez que a custódia cautelar encontra-se devidamente fundamentada em elementos concretos que justificam a gravidade do crime e o risco à ordem pública, em consonância com o art. 312 do CPP.
+5. A jurisprudência do STJ veda a reanálise de provas no âmbito do habeas corpus, que se limita à apreciação de questões de direito previamente estabelecidas. A fragilidade das provas ou qualquer discussão probatória deve ser enfrentada na ação penal originária, não sendo cabível nesta via mandamental.
+IV. AGRAVO REGIMENTAL NÃO PROVIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fl. 309).
+O requerente pleiteia a reconsideração da decisão impugnada.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO EM HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que indeferiu habeas corpus impetrado com o objetivo de obter a revogação da prisão preventiva decretada contra paciente acusado de homicídio. A decisão monocrática manteve a prisão preventiva com fundamento na ausência de flagrante ilegalidade e na impossibilidade de reexame de provas na via do habeas corpus.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se a prisão preventiva imposta ao agravante apresenta flagrante ilegalidade que justifique sua revogação; e (ii) analisar se o Superior Tribunal de Justiça pode conhecer de habeas corpus que envolve matérias não previamente apreciadas pelo Tribunal de origem, configurando supressão de instância.
+III. RAZÕES DE DECIDIR
+3. Não se pode conhecer do habeas corpus quando a matéria questionada não foi apreciada pelo Tribunal de origem, sob pena de supressão de instância, conforme o disposto no art. 105, I, da Constituição Federal e na jurisprudência do STJ.
+4. Não se constata flagrante ilegalidade na manutenção da prisão preventiva, uma vez que a custódia cautelar encontra-se devidamente fundamentada em elementos concretos que justificam a gravidade do crime e o risco à ordem pública, em consonância com o art. 312 do CPP.
+5. A jurisprudência do STJ veda a reanálise de provas no âmbito do habeas corpus, que se limita à apreciação de questões de direito previamente estabelecidas. A fragilidade das provas ou qualquer discussão probatória deve ser enfrentada na ação penal originária, não sendo cabível nesta via mandamental.
+IV. AGRAVO REGIMENTAL NÃO PROVIDO.
+VOTO
+Recebo o pedido de reconsideração como agravo regimental, vez que tempestivo e indica os fundamentos da decisão recorrida, devendo, portanto, ser conhecido .
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 309-311):
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. DELITO DE HOMICÍDIO. PRISÃO TEMPORÁRIA. TESES PREJUDICADAS. DECISÃO SUPERVENIENTE QUE DECRETOU A PRISÃO PREVENTIVA. CUSTÓDIA CAUTELAR QUE SE FUNDAMENTA EM NOVO TÍTULO. SUPERAÇÃO DOS ARGUMENTOS DA IMPETRAÇÃO QUE VISAM DESCONSTITUIR A PRISÃO TEMPORÁRIA. PERDA DO OBJETO DO WRIT. PREJUDICIALIDADE. IMPOSSIBILIDADE DE CONCESSÃO DA ORDEM DE OFÍCIO. ORDEM DE HABEAS CORPUS PREJUDICADA.
+Imputa-se ao paciente a prática do crime de homicídio.
+A defesa alega, em síntese, ausência requisitos para decretação da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, o deferimento da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+Decido.
+A matéria relativa à inidoneidade da conversão da prisão temporária em preventiva não foi apreciada no acórdão impugnado.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Com efeito, "Ausente manifestação colegiada do Tribunal sobre a matéria ora trazida a exame, incabível o conhecimento do presente habeas corpus, porquanto está configurada a absoluta supressão de instância com relação a todas as questões expostas, ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, I e II, da CF; e art. 13, I e II, do RISTJ)." (AgRg no HC 911447 / MT, Relator Ministro MESSOD AZULAY NETO, QUINTA TURMA, Data do Julgamento 01/07/2024, Data da Publicação/Fonte DJe 02/08/2024)
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, que justifique a concessão de ofício do habeas corpus.
+Com efeito, inexiste contrariedade à jurisprudência deste Tribunal na manutenção da prisão preventiva com base em elementos concretos que indicam gravidade concreta que desborda o tipo. (AgRg no HC 801.642/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023; AgRg no HC 782.464/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023)
+Por fim, certo é que "esta Corte Superior possui pacífica jurisprudência no sentido de que: a tese de insuficiência probatória, a ensejar a pretendida absolvição, não pode ser analisada pela via mandamental, pois depende de amplo exame do conjunto probatória, providência incompatível com os estreitos limites cognitivos do habeas corpus, cujo escopo se restringe à apreciação de elementos préconstituídos não sendo esta a via processual adequada para decisões que dependam de dilação probatória (AgRg no HC n. 802.688/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023). 3. Agravo regimental a que se nega provimento. (AgRg no HC nº 868.208/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 30/11/2023, DJe de 5/12/2023 - destaquei)
+Com efeito, "É do devido processo legal que a causa não seja processada, simultaneamente, na origem e na instância recursal. Questões relativas à fragilidade das provas da autoria delitiva não podem ser dirimidas na via sumária do habeas corpus ou do seu recurso por demandarem reexame aprofundado das provas coletadas no curso da instrução criminal, inviável na via eleita. A temática deve ser solucionada, em princípio, na ação penal a que responde o ora agravante e pelo Togado singular." (AgRg no RECURSO EM HABEAS CORPUS Nº 170264 - MT, Relator Ministro JOÃO BATISTA MOREIRA (DESEMBARGADOR CONVOCADO DO TRF1) Julgado em 08/08/2023, DJe/STJ nº 3698 de 16/08/2023)
+Afirmada a materialidade e a autoria do paciente, alterar o quadro formado no Tribunal de origem demanda inviável dilação probatória no "writ".
+Ante o exposto, não conheço do presente habeas corpus.
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte, uma vez que se a matéria questionada não foi submetida ao Tribunal de origem, seu exame por este Colegiado superior se encontra impedido. Entretanto, ainda que assim não fosse, não se observa qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal. Veja-se:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL DE DECISÃO EM QUE NEGADO PROVIMENTO A RECURSO ORDINÁRIO EM HABEAS CORPUS. PRISÃO PREVENTIVA. ORGANIZAÇÃO CRIMINOSA. DECRETO PRISIONAL FUNDADO EM INDÍCIOS DE AUTORIA E MATERIALIDADE. ALEGAÇÃO DE FRAGILIDADE DO FUMUS COMISSI DELICTI. EXAME PRÓPRIO A JUÍZO EXAURIENTE. REITERAÇÃO DELITIVA MESMO EM CUMPRIMENTO DE PENA EM REGIME FECHADO. PERICULUM LIBERTATIS. ALEGAÇÃO DE CONDIÇÕES PESSOAIS FAVORÁVEIS. DESINFLUÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Como requisito da prisão preventiva, "(..) é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória" (RHC 123812, Relator(a):
+TEORI ZAVASCKI, Segunda Turma, julgado em 23/09/2014, PROCESSO ELETRÔNICO DJe-205 DIVULG 17-10-2014 PUBLIC 20-10-2014).
+2. É do devido processo legal que a causa não seja processada, simultaneamente, na origem e na instância recursal. Questões relativas à fragilidade das provas da autoria delitiva não podem ser dirimidas na via sumária do habeas corpus ou do seu recurso por demandarem reexame aprofundado das provas coletadas no curso da instrução criminal, inviável na via eleita. A temática deve ser solucionada, em princípio, na ação penal a que responde o ora agravante e pelo Togado singular.
+3. A legalidade da prisão preventiva (a insuficiência de outras medidas cautelares) decorre do fato de que nem mesmo a condição de reeducando em regime fechado impediu o recorrente-agravante de reiterar no delito de integrar organização criminosa, de acordo com os indícios baldrames do decreto prisional.
+4. Se, considerada a natureza do vínculo associativo, "condições pessoais favoráveis", por si sós, não impedem que o suposto integrante, solto, mesmo ostentando tais condições, exerça seu papel na organização criminosa, permanece o risco à ordem pública e a justificativa de manutenção da custódia, apesar de tais predicados.
+5. Agravo regimental não provido.
+(AgRg no RHC n. 170.264/MT, relator Ministro João Batista Moreira (Desembargador Convocado do Trf1), Quinta Turma, julgado em 8/8/2023, DJe de 16/8/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE ABSTRATA. POUCA QUANTIDADE DE DROGA. REITERAÇÃO QUE NÃO JUSTICA A CUSTÓDIA. FUNDAMENTAÇÃO INIDÔNEA. MEDIDAS CAUTELARES ALTERNATIVAS. CABIMENTO. AGRAVO DESPROVIDO.
+1. O Ministério Público Federal se insurge contra decisão monocrática desta relatoria que revogou a prisão preventiva do paciente, mediante a imposição de medidas cautelares menos gravosas.
+2. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico, e a medida deve estar embasada em decisão judicial fundamentada (art.
+93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, sendo vedadas considerações abstratas sobre a gravidade do crime.
+3. As decisões proferidas pelas instâncias ordináiras carecem de fundamentação idônea. Conforme exposto, o fato imputado não se reveste de maior gravidade, tendo em vista que foram apreendidos, na posse do paciente, 27 microtubos contendo 21,86g de cocaína e 20 microtubos contendo 16,01g de cocaína, circunstância que, por ora, não autoriza o total cerceamento da sua liberdade. Enfatizou-se, ainda, que o suposto crime teria sido praticado sem violência ou grave ameaça e que não há indícios de que o paciente integre organização criminosa.
+4. Sobre o tema, o STF "Se a quantidade de droga apreendida é reduzida e estão ausentes outros elementos que a utorizem conclusão acerca do envolvimento profundo ou relevante do agente com o tráfico de drogas, não se justifica a prisão preventiva para resguardar a ordem pública" (HC n. 112.766/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 6/11/2012, DJe 07/12/2012).
+5. Ademais, o mero fato de as instâncias ordinárias terem ressaltado que o paciente é reincidente específico, dado indicativo de aparente reiteração, não é suficiente para justificar a prisão preventiva. Nesse sentido, cumpre lembrar que " ..  a reincidência, por si só, não é fundamento válido para justificar a segregação cautelar"(PExt no HC 270.158/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 3/2/2015, DJe 23/2/2015).
+6. Assim, entendo que a prisão preventiva do paciente é ilegal, sendo perfeitamente possível a aplicação de outras medidas mais brandas, como as previstas no art. 319 do CPP.
+7. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 801.642/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023.)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
