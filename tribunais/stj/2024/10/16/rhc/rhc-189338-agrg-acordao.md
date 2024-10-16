@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. GRAVIDADE CONCRETA DA CONDUTA. REITERAÇÃO DELITIVA. FUGA DO DISTRITO DA CULPA. AUSÊNCIA DE EXCESSO DE PRAZO. MEDIDAS CAUTELARES INSUFICIENTES. AGRAVO REGIMENTAL IMPROVIDO.
+I. CASO EM EXAME
+1. Recurso em habeas corpus interposto por Rodrigo Silva Argemiro Borges contra acórdão do Tribunal Regional Federal da 1ª Região, que manteve sua prisão preventiva pela suposta prática dos crimes de tráfico de drogas, associação para o tráfico (Lei 11.343/2006, arts. 33, 35 e 40, I), organização criminosa (Lei 12.850/2013) e lavagem de dinheiro (Lei 9.613/1998). A defesa alega primariedade, residência fixa, ocupação lícita, ausência de contemporaneidade dos fatos, excesso de prazo da prisão preventiva e falta de fundamentação quanto ao periculum in libertatis, pleiteando a substituição da prisão por medidas cautelares diversas.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) avaliar se a prisão preventiva está devidamente fundamentada em elementos concretos que justifiquem a medida; (ii) verificar se houve excesso de prazo na manutenção da prisão preventiva.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva encontra-se fundamentada em elementos concretos, como a gravidade dos crimes, a grande quantidade de drogas apreendidas e a sofisticação da organização criminosa, demonstrando a necessidade da segregação para garantir a ordem pública e evitar a reiteração delitiva.
+4. A fuga do recorrente do distrito da culpa reforça a necessidade da prisão preventiva, uma vez que tal conduta revela risco concreto à aplicação da lei penal.
+5. As medidas cautelares diversas da prisão são insuficientes para garantir a ordem pública, diante da habitualidade delitiva e do elevado grau de organização do grupo criminoso.
+6. Quanto ao alegado excesso de prazo, o andamento processual mostra-se compatível com a complexidade do caso, que envolve múltiplos réus e crimes graves, não configurando ilegalidade na tramitação.
+IV. DISPOSITIVO
+7. Agravo regimental desprovido.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 689-690).
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+O Ministério Público Federal manifestou-se pelo não conhecimento ou desprovimento do recurso (e-STJ, fls. 715-719).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. GRAVIDADE CONCRETA DA CONDUTA. REITERAÇÃO DELITIVA. FUGA DO DISTRITO DA CULPA. AUSÊNCIA DE EXCESSO DE PRAZO. MEDIDAS CAUTELARES INSUFICIENTES. AGRAVO REGIMENTAL IMPROVIDO.
+I. CASO EM EXAME
+1. Recurso em habeas corpus interposto por Rodrigo Silva Argemiro Borges contra acórdão do Tribunal Regional Federal da 1ª Região, que manteve sua prisão preventiva pela suposta prática dos crimes de tráfico de drogas, associação para o tráfico (Lei 11.343/2006, arts. 33, 35 e 40, I), organização criminosa (Lei 12.850/2013) e lavagem de dinheiro (Lei 9.613/1998). A defesa alega primariedade, residência fixa, ocupação lícita, ausência de contemporaneidade dos fatos, excesso de prazo da prisão preventiva e falta de fundamentação quanto ao periculum in libertatis, pleiteando a substituição da prisão por medidas cautelares diversas.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) avaliar se a prisão preventiva está devidamente fundamentada em elementos concretos que justifiquem a medida; (ii) verificar se houve excesso de prazo na manutenção da prisão preventiva.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva encontra-se fundamentada em elementos concretos, como a gravidade dos crimes, a grande quantidade de drogas apreendidas e a sofisticação da organização criminosa, demonstrando a necessidade da segregação para garantir a ordem pública e evitar a reiteração delitiva.
+4. A fuga do recorrente do distrito da culpa reforça a necessidade da prisão preventiva, uma vez que tal conduta revela risco concreto à aplicação da lei penal.
+5. As medidas cautelares diversas da prisão são insuficientes para garantir a ordem pública, diante da habitualidade delitiva e do elevado grau de organização do grupo criminoso.
+6. Quanto ao alegado excesso de prazo, o andamento processual mostra-se compatível com a complexidade do caso, que envolve múltiplos réus e crimes graves, não configurando ilegalidade na tramitação.
+IV. DISPOSITIVO
+7. Agravo regimental desprovido.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 689-693):
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por RODRIGO SILVA ARGEMIRO BORGES contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO (HC 1016911-36.2022.4.01.0000).
+O recorrente está preso preventivamente pela suposta prática dos crimes previstos nos arts. 33, 35 e 40, I, da Lei 11.343/2006 e 1º da Lei 12.850/2013 e da Lei 9.613/1998.
+A ordem impetrada na Corte de origem foi indeferida.
+A defesa alega: a) "recorrente é primário, com residência fixa e ocupação lícita, está com a prisão preventiva decretada por desempenhar a profissão comum de motorista" (e-STJ fl. 491); b) "ausência de contemporaneidade dos fatos" (e-STJ fl. 492); c) "excesso de prazo da prisão preventiva" (e-STJ fl. 492); e d) "ausência de periculum in libertatis" (e-STJ fl. 492).
+Requer, liminar e definitivamente, provimento do recurso para substituir a prisão preventiva por medidas cautelares diversas.
+A liminar foi indeferida. (e-STJ Fl.503-505)
+O Ministério Público Federal promoveu o desprovimento do recurso. (e-STJ Fl.511-519)
+As informações foram prestadas. (e-STJ Fl. 666-682)
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação:
+As investigações apontam que a contaminação dos contêineres com as drogas ocorrem algumas horas antes do embarque do navio para os países no exterior, dentro do Porto de Salvador, após o rompimento do lacre original pelos próprios empregados do TECON, e de técnicos de refrigeração, que inserem a droga no contêiner, utilizando-se da facilidade de acesso ao pátio do Porto.
+Os elementos probatórios acostados aos autos revelam que os ilícitos foram planejados e executados por dois grupos extremamente organizados, de alto poder aquisitivo, haja vista a sofisticação envolvida no esquema criminoso montado para enviar drogas para o exterior, na grandiosidade da operação, a multiplicidade de pessoas envolvidas, a gigantesca quantidade de entorpecentes, a estrutura utilizada, a expertise para o desembaraço aduaneiro.
+As medidas cautelares nº 1081792-50.2021.1.01.3300 e nº 1081792-50.2021.4.01.3300 foram imprescindíveis para identificar com segurança os integrantes das duas organizações criminosas que escoavam as drogas através do Porto em Salvador (autoria).
+(..)
+O fumus comissi delicti, por sua vez, resta evidenciado pelo fato de que, postos em liberdade, é bem provável que permaneçam na prática delitiva, como demonstram suas próprias condutas, haja vista que mesmo após alguns integrantes serem presos, continuaram a "contaminar" os containers com os entorpecentes.
+Tal contexto revela a necessidade de decretação da prisão preventiva dos envolvidos como forma de fazer cessar a atividade criminosa, e resguardar a ordem pública e garantia de aplicação da lei penal. E as medidas alternativas à prisão, todas elas, mostram-se absolutamente insuficientes para impedir essa reiteração.
+(..)
+Assim, a decretação da prisão preventiva se mostra indispensável para que os investigados respondam ao processo a que provavelmente serão submetidos, como medida necessária para manutenção da ordem pública, principalmente, e por conveniência da instrução criminal, encontrando amparo nos artigos 311 e 312 do CPP.
+É necessária porque, in casu, eles desdenham do sistema criminal, entendendo que ficarão na total impunidade. De fato, posto que com todas as apreensões ocorridas, conforme narrado acima, continuam na prática criminosa. A liberdade os estimula a manterem-se na prática de crimes graves.
+Por tais razões, e por estar comprovada a materialidade e haver indícios fortes de autoria, mas também a habitualidade na prática das atividades criminosas, acolho o requerimento formulado pelo MPF para decretar prisão preventiva dos referidos acusados.
+Os indícios de autoria e materialidade ligados ao recorrente restaram esclarecidos, ainda, pelo teor das informações prestadas pela origem, conforme se verifica dos seguintes trechos:
+Em 22/11/2019, dia da apreensão do entorpecente, IVANILTON encontrou HUGO no posto da Jaqueira na BR-324, com objetivo de comprar as bebidas que supostamente seriam comercializadas no galpão. Saíram do posto no veículo VW/Polo branco, com uma terceira pessoa que estava como motorista, com sotaque também paulista. Ao passarem em frente ao galpão, o motorista, posteriormente identificado como RODRIGO SILVA ARGEMIRO BORGES, percebeu que o galpão estava aberto e que a Fiorino não se encontrava no local.
+Ou seja, de acordo com as declarações prestadas por Ivanilton Santana Silva, responsável por alugar um galpão para Hugo/Vitor e Everton Moretto de Oliveira, local onde foram apreendidos 1.341quilos de cocaína em 22/11/2019 (ID827207565, págs. 22/24, 33 e 35), o paciente RODRIGO SILVA ARGEMIROBORGES estava com Hugo/Vitor no dia da apreensão da droga e os dois saíram se evadiram.
+(..)
+Em razão de alguns dos denunciados se encontrarem foragidos, inclusive RODRIGO SILVA ARGEMIRO BORGES, com mandado de prisão em aberto, em 24/03/2023 (ID1544269375 e 1609764878), aliado ao fato de já existir, à época, réus presos, foi determinado, por meio da decisão de (ID 1544269375), o desmembramento do feito (1061357-89.2020.4.01.3300), contendo, no polo passivo, os réus não encarcerados.
+Na oportunidade, ficou desde já deferida a expedição de mandado e/ou carta precatória para cumprimento da notificação dos réus foragidos.
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu que a segregação do paciente foi adequadamente decretada.
+De fato, é pacífica a "jurisprudência desta Corte acerca da manutenção da prisão preventiva em razão da quantidade de droga, contumácia delitiva e fuga do distrito da culpa, circunstâncias que justificam a manutenção da prisão cautelar para a garantia da ordem pública" (AgRg no RHC n. 173.374/BA, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 30/3/2023); (AgRg no HC n. 803.157/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023); (AgRg no HC n. 779.709/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/12/2022); (AgRg no HC n. 799.998/MS, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 29/3/2023, grifei); (AgRg no HC n. 806.211/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 761.012/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 22/12/2022).
+Ademais, "A decisão que manteve a prisão apresenta fundamento que se mostra idôneo para a custódia cautelar, indicando a gravidade concreta da conduta criminosa, além de ter sido apontada a fuga do distrito da culpa." (AgRg no RHC 183846 / BA, RELATOR Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), SEXTA TURMA, DATA DO JULGAMENTO 11/03/2024, DATA DA PUBLICAÇÃO/FONTE DJe 14/03/2024)
+De fato, é cediço que "A fuga do distrito da culpa reforça a imprescindibilidade da prisão preventiva para garantia da aplicação da lei penal." (AgRg no RECURSO EM HABEAS CORPUS Nº 150680 / PE, RELATOR MINISTRO JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DATA DO JULGAMENTO 08/02/2022)
+Quanto ao alegado excesso de prazo, já tive a oportunidade de assentar que "1. Os prazos indicados na legislação para a finalização dos atos processuais servem apenas como parâmetro geral, ou seja, não se pode deduzir eventual delonga como excessiva tão somente pela soma aritmética daqueles.
+2. Em homenagem ao princípio da razoabilidade, é admissível certa variação, de acordo com as peculiaridades de cada caso, de modo que o constrangimento deve ser reconhecido como ilegal somente quando o retardo ou a morosidade sejam injustificados e possam ser atribuídos ao Poder Judiciário. " (AgRg no HC 786537 / PE, RELATORA Ministra DANIELA TEIXEIRA, QUINTA TURMA, DATA DO JULGAMENTO 05/03/2024, DATA DA PUBLICAÇÃO/FONTE DJe 08/03/2024)
+Ou seja, ausente rigidez nos lapsos temporais indicados na legislação processual, só há de se falar em excesso na formação da culpa se, apuradas as circunstâncias do caso concreto, seja constatada a ocorrência de injustificável negligência na condução processual, desde que não oponível à parte interessada.
+A análise da hipótese posta à baila não indica, contudo, quadro que aponte neste sentido, na medida em que os elementos apontados pelo Tribunal de origem corroboram a existência de complexidade decorrente do número de réus e do delito apurado, além de indicar que o processo tem seguido sua marcha.
+Assim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta Corte, sobretudo na estreita via do recurso em habeas corpus.
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte, uma vez que a prisão preventiva está fundamentada na gravidade concreta da conduta, bem como na fuga do distrito da culpa, conforme já tive oportunidade de assentar (AgRg no HC 786537 / PE, RELATORA Ministra DANIELA TEIXEIRA, QUINTA TURMA, DATA DO JULGAMENTO 05/03/2024, DATA DA PUBLICAÇÃO/FONTE DJe 08/03/2024) .
+Veja-se igualmente, também do Colegiado da 5ª Turma deste Tribunal Superior:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO INTERESTADUAL DE DROGAS. EXPRESSIVA QUANTIDADE DE DROGA APREENDIDA. BATEDOR DO TRÁFICO. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Agravo regimental interposto contra decisão monocrática deste Relator, que não conheceu da impetração e manteve a prisão preventiva.
+2. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+3. No caso, as instâncias ordinárias fundamentaram a prisão preventiva na necessidade de garantia da ordem pública, devido à gravidade concreta da conduta, evidenciada pela apreensão de expressiva quantidade de drogas - 20 porções skank, pesando cerca de 4,5kg, e 306 tijolos de maconha, pesando cerca de 254,8kg - que seriam transportadas do Município de Campo Grande (MS) para o Município de Araçatuba (SP). Ademais, consignou-se que o paciente exercia a função de batedor do tráfico, sendo responsável por escoltar o veículo em que são transportadas as drogas, o que demonstra o maior envolvimento com o tráfico e a periculosidade do agente.
+4. Sobre o tema, esta Corte Superior possui entendimento no sentido de que "são fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 725.170/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 5/4/2022, DJe de 11/4/2022).
+5. A tese de que o agravante exerceria a função de "mula" não foi objeto de análise pelo Tribunal de origem, de modo que o seu enfrentamento por este Superior Tribunal de Justiça configuraria indevida supressão de instância (AgRg no HC n. 677.741/MS, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/9/2021, DJe 27/9/2021).
+6. Condições subjetivas favoráveis, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+7. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão; o contexto fático indica que as providências menos gravosas seriam insuficientes para acautelar a ordem pública. Precedentes.
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 806.211/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/3/2023, DJe de 24/3/2023.)
+Ademais, a partir das informações constantes dos autos, não há indicação de que os prazos recursais estejam sendo desrespeitados em exclusiva mora estatal, situação que configuraria flagrante ilegalidade, mesmo porque o feito possui certa complexidade e ostenta maior pluralidade de réus.
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
