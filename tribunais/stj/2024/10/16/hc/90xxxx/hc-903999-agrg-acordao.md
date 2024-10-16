@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS. SUFICIÊNCIA DO CONJUNTO PROBATÓRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DOSIMETRIA. AUMENTO DA PENA-BASE POR QUANTIDADE E NATUREZA DAS DROGAS. AGRAVO REGIMENTAL IMPROVIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente condenado por tráfico de drogas (art. 33, caput, e art. 33, §1º, III, da Lei nº 11.343/06), com pena de 5 anos e 10 meses de reclusão. A defesa alega constrangimento ilegal, apontando ausência de indícios suficientes de autoria e materialidade, inexistência de drogas encontradas com o paciente ou em sua residência, bem como uso de denúncia anônima como base da condenação. Além disso, contesta a exasperação da pena-base em 1/6, pela quantidade e natureza das drogas, pedindo absolvição ou ajuste na dosimetria e no regime prisional.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se o habeas corpus pode ser utilizado como substitutivo de recurso próprio ou revisão criminal; (ii) se há flagrante ilegalidade no aumento da pena-base ou na decisão condenatória, apta a justificar a concessão de habeas corpus de ofício.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ e do STF é clara ao vedar o uso do habeas corpus como substitutivo de recurso próprio ou revisão criminal, exceto em casos de flagrante ilegalidade, o que não se verifica na presente impetração.
+4. O conjunto probatório é considerado suficiente para sustentar a condenação, com comprovação da materialidade e autoria, não sendo cabível a revisão da prova nesta via estreita de habeas corpus.
+5. A tese de ausência de ligação direta entre o paciente e o tráfico, bem como a ausência de apreensão de entorpecentes em sua posse, não pode ser examinada em profundidade no habeas corpus, que não comporta a reanálise fático-probatória necessária.
+6. Quanto à dosimetria, o aumento da pena-base em 1/6, em razão da quantidade e natureza das drogas, encontra amparo na discricionariedade do julgador, e a revisão da dosimetria em habeas corpus somente é possível em casos de manifesta ilegalidade, o que não foi demonstrado nos autos.
+IV. DISPOSITIVO
+7. Agravo regimental improvido.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacio nal do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fl. 67).
+O agravante - condenado por tráfico de drogas em razão da apreensão de 1.700g de maconha e 170 porções de coc aína (fl. 25) - requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS. SUFICIÊNCIA DO CONJUNTO PROBATÓRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DOSIMETRIA. AUMENTO DA PENA-BASE POR QUANTIDADE E NATUREZA DAS DROGAS. AGRAVO REGIMENTAL IMPROVIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente condenado por tráfico de drogas (art. 33, caput, e art. 33, §1º, III, da Lei nº 11.343/06), com pena de 5 anos e 10 meses de reclusão. A defesa alega constrangimento ilegal, apontando ausência de indícios suficientes de autoria e materialidade, inexistência de drogas encontradas com o paciente ou em sua residência, bem como uso de denúncia anônima como base da condenação. Além disso, contesta a exasperação da pena-base em 1/6, pela quantidade e natureza das drogas, pedindo absolvição ou ajuste na dosimetria e no regime prisional.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se o habeas corpus pode ser utilizado como substitutivo de recurso próprio ou revisão criminal; (ii) se há flagrante ilegalidade no aumento da pena-base ou na decisão condenatória, apta a justificar a concessão de habeas corpus de ofício.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ e do STF é clara ao vedar o uso do habeas corpus como substitutivo de recurso próprio ou revisão criminal, exceto em casos de flagrante ilegalidade, o que não se verifica na presente impetração.
+4. O conjunto probatório é considerado suficiente para sustentar a condenação, com comprovação da materialidade e autoria, não sendo cabível a revisão da prova nesta via estreita de habeas corpus.
+5. A tese de ausência de ligação direta entre o paciente e o tráfico, bem como a ausência de apreensão de entorpecentes em sua posse, não pode ser examinada em profundidade no habeas corpus, que não comporta a reanálise fático-probatória necessária.
+6. Quanto à dosimetria, o aumento da pena-base em 1/6, em razão da quantidade e natureza das drogas, encontra amparo na discricionariedade do julgador, e a revisão da dosimetria em habeas corpus somente é possível em casos de manifesta ilegalidade, o que não foi demonstrado nos autos.
+IV. DISPOSITIVO
+7. Agravo regimental improvido.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 66-69):
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (e-STJ fls. 31-32):
+"Apelação Criminal - Tráfico de Drogas
+Preliminar de inépcia da exordial - Vício não verificado
+Pleito absolutório em relação ao crime de tráfico de drogas (artigo 33, caput, da Lei nº 11.343/06) - Descabimento
+Materialidade e autoria comprovadas - Conjunto probatório apto a demonstrar que os réus guardavam e tinham em depósito as drogas para fins de tráfico - Conduta que se amolda ao artigo 33, caput, da Lei nº 11.343/06
+Absolvição em relação ao delito de tráfico por equiparação (artigo 33, § 1º, III, da Lei nº 11.343/06) - Possibilidade - Conduta que restou absorvida pelo crime principal (do caput), aplicando-se ao caso o princípio da consunção
+Dosimetria - Exasperação das penas-bases - Cabimento - Quantidade e natureza das drogas constituem circunstância judicial a ser sopesada na primeira fase da dosimetria da pena, justificando o aumento em 1/6
+Reconhecimento de confissão - Possibilidade - Réu que admitiu sua prática no crime - Aplicação do redutor previsto no artigo 33, § 4º, da Lei nº 11.343/06 - Impossibilidade em razão da reincidência de um dos réus e dos antecedentes infracionais do outro, que constituem circunstâncias aptas a comprovar sua dedicação a atividades criminosas
+Regime inicial fechado adequado - Substituição da pena privativa de liberdade por restritivas de direitos e sursis penal - Descabimento em razão do quantum de pena fixada
+DADO PARCIAL PROVIMENTO AO RECURSO DO MINISTÉRIO PÚBLICO, NEGADO PROVIMENTO AOS RECURSOS DAS DEFESAS.
+Imputa-se ao paciente a suposta prática do crime de previsto no art. 33, caput, e art. 33, § 1º, inciso III, ambos da Lei nº 11.343/06 (e-STJ fl. 33).
+A defesa alega, em síntese: a) A ocorrência de constrangimento ilegal em razão da ausência de indícios suficientes de autoria e materialidade do delito imputado, aduzindo que não há absolutamente nada que ligue o paciente ao crime; b) Aduz que não há absolutamente nada que ligue o paciente ao crime que vem sendo condenado, além de meras criações conforme exposto até aqui (fl. 4); c) Aduz, ainda, que o paciente foi condenado pelo delito de tráfico, pasmem, sem nenhum entorpecente ter sido encontrado com ele, ou em sua residência (fl. 4); d) Ressalta que não há a demonstração, por meio de elementos concretos extraídos dos autos, de que ele se dedicava a atividades criminosas ou mesmo que integrasse organização criminosa (fl. 5); e) Destaca por fim que é importante frisar a Outra questão chama a atenção: Parquet em alegações finais usa como argumento para a condenação a suposta denuncia anônima deum suposto comprador, que foi acolhida pelo Juízo a quo, ainda que nada de ilícito tenha sido encontrado Paciente, nenhuma investigação, interceptação telefônica, fotos, vídeos, campanas, ou algo similar foi feito (fl. 5); f) Por fim, assevera que houve equívocos na dosimetria, sendo que a pena foi aumentada em 1/6 da pena pela quantidade e variedade de drogas ao Paciente, ensejando um aumento desproporcional. Não foram devidamente fundamentadas, a quantidade e natureza de drogas não são fundamentações idôneas a ensejar causa de aumento de pena, entende esta corte que natureza e quantidade de drogas desautoriza a exasperação de pena-base, a vedação à minorante do tráfico, o agravamento do regime prisional ou negativa á substituição das penas (fl.5).
+Ao final, requer a concessão da ordem para que o paciente seja absolvido do delito imputado. Subsidiariamente, a diminuição da causa de aumento da pena-base, com o respectivo ajuste da dosimetria e fixação do regime prisional menos gravoso (fl. 7).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+"A Terceira Seção deste Superior Tribunal de Justiça restringe a admissibilidade do habeas corpus quando o ato ilegal for passível de impugnação pela via própria, sem olvidar a possibilidade de concessão da ordem de ofício (HC nº 535.063/SP)".
+(AgRg no HC n. 741.874/SP, sob a minha relatoria, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação trazida a esta instância, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+De fato, certo é que "esta Corte Superior possui pacífica jurisprudência no sentido de que: a tese de insuficiência probatória, a ensejar a pretendida absolvição, não pode ser analisada pela via mandamental, pois depende de amplo exame do conjunto probatória, providência incompatível com os estreitos limites cognitivos do habeas corpus, cujo escopo se restringe à apreciação de elementos préconstituídos não sendo esta a via processual adequada para decisões que dependam de dilação probatória (AgRg no HC n. 802.688/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023). 3. Agravo regimental a que se nega provimento. (AgRg no HC nº 868.208/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 30/11/2023, DJe de 5/12/2023 - destaquei)
+Além disso, é cediça a jurisprudência deste Superior Tribunal de Justiça no sentido de que "(..) A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade. (..)" (HC 595958 / SP, RELATOR Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 18/08/2020, DATA DA PUBLICAÇÃO/FONTE DJe 24/08/2020)
+Ou seja, a revisão da dosimetria em sede de "habeas corpus" "é possível somente em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios" (HC n. 304.083/PR, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 12/3/2015).
+Nesse sentido, a análise dos critérios adotados pela origem na exacerbação da pena-base não indica extrapolação da discricionariedade motivada do julgador.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da Terceira Seção desta Corte, no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal, o que não se verifica na hipótese. Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+Além disso, a revisão da dosimetria em sede de "habeas corpus" "é possível somente em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios" (HC n. 304.083/PR, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 12/3/2015).
+Nesse sentido, a análise dos critérios adotados pela origem na exacerbação da pena-base não indica extrapolação da discricionariedade motivada do julgador.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
