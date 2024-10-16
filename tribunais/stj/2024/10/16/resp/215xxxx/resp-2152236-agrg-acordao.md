@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2024 a 16/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARTIGO 157, § 2ºA, I, DO CÓDIGO PENAL. ATENUANTE. CONFISSÃO ESPONTÂNEA. PRETENDIDA REDUÇÃO DA REPRIMENDA ABAIXO DO MÍNIMO LEGAL. VEDAÇÃO. HIGIDEZ DA SÚMULA N. 231/STJ. APLICABILIDADE. QUESTÃO ENFRENTADA PELA TERCEIRA SEÇÃO. JURISPRUDÊNCIA CONSOLIDADA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte de origem afastou o pleito residual de redução do apenamento imposto, aquém do mínimo legal, não obstante a incidência da circunstância atenuante da confissão espontânea, por força da ainda válida dicção da Súmula n. 231/STJ
+2. Conquanto a Sexta Turma, em 21/03/2023, tenha aprovado a proposta de revisão da jurisprudência compendiada na Súmula n. 231/STJ, remetendo os autos dos Recursos Especiais n. 2.057.181/SE, n. 2.052.085/TO e n. 1.869.764/MS à Terceira Seção, e realizado audiência pública em 17/05/2023, nos termos do art. 125, § 2º, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, a Terceira Seção, na data de 14/08/2024, retomando o julgamento do REsp n. 1.869.764/MS, rejeitou o cancelamento do enunciado da Súmula n. 231/STJ.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EMERSON SANTOS DA SILVA contra a decisão de minha relatoria que negou provimento ao recurso especial em virtude da incidência da Súmula n. 568/STJ.
+O agravante defende, em síntese, a superação do entendimento firmado na Súmula n. 231/STJ.
+Requer a retratação da decisão ou a submissão do presente recurso ao Colegiado em conjunto aos outros recursos afetados (RESP 2052085/TO, RESP 1869764/MS e RESP 2057181/SE) (e-STJ fl. 411).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARTIGO 157, § 2ºA, I, DO CÓDIGO PENAL. ATENUANTE. CONFISSÃO ESPONTÂNEA. PRETENDIDA REDUÇÃO DA REPRIMENDA ABAIXO DO MÍNIMO LEGAL. VEDAÇÃO. HIGIDEZ DA SÚMULA N. 231/STJ. APLICABILIDADE. QUESTÃO ENFRENTADA PELA TERCEIRA SEÇÃO. JURISPRUDÊNCIA CONSOLIDADA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte de origem afastou o pleito residual de redução do apenamento imposto, aquém do mínimo legal, não obstante a incidência da circunstância atenuante da confissão espontânea, por força da ainda válida dicção da Súmula n. 231/STJ
+2. Conquanto a Sexta Turma, em 21/03/2023, tenha aprovado a proposta de revisão da jurisprudência compendiada na Súmula n. 231/STJ, remetendo os autos dos Recursos Especiais n. 2.057.181/SE, n. 2.052.085/TO e n. 1.869.764/MS à Terceira Seção, e realizado audiência pública em 17/05/2023, nos termos do art. 125, § 2º, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, a Terceira Seção, na data de 14/08/2024, retomando o julgamento do REsp n. 1.869.764/MS, rejeitou o cancelamento do enunciado da Súmula n. 231/STJ.
+3. Agravo regimental não provido.
+VOTO
+Atendidos os pressupostos recursais, extrínsecos e intrínsecos, do agravo regimental, o recurso, todavia, não comporta provimento.
+A decisão ora atacada atestou a impossibilidade de fixação da pena para aquém do mínimo legal, nos exatos termos da Súmula n. 231/STJ.
+No caso, ao assim decidir, o Tribunal a quo acompanhou a jurisprudência desta Corte Superior de Justiça, cristalizada na Súmula n. 231/STJ - A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal -, até então não superada pela Terceira Seção deste Sodalício.
+Por oportuno, cabe ressaltar que, embora a Sexta Turma, em 21/03/2023, tenha aprovado a proposta de revisão da jurisprudência compendiada na Súmula n. 231/STJ, remetendo os autos dos Recursos Especiais n. 2.057.181/SE, n. 2.052.085/TO e n. 1.869.764/MS à Terceira Seção, e realizado audiência pública em 17/05/2023, nos termos do art. 125, § 2º, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, a Terceira Seção, na data de 14/08/2024, proferiu a seguinte decisão no Resp n. 1.869.764/MS:
+Retomado o julgamento, após o voto-vista antecipado divergente do Sr. Ministro Messod Azulay Neto, rejeitando o cancelamento do enunciado da Súmula 231 e, por conseguinte, negando provimento ao recurso especial, no que foi acompanhado pelos Srs. Ministros Reynaldo Soares da Fonseca, Antonio Saldanha Palheiro, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT), e os votos da Sra. Ministra Daniela Teixeira e dos Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Sebastião Reis Júnior, acompanhando o voto do Sr. Ministro Rogerio Schietti Cruz (Relator), dando provimento ao recurso especial, para acolher a tese segundo a qual a incidência da circunstância atenuante pode conduzir à redução da pena abaixo do mínimo legal, com o consequente cancelamento da Súmula 231, a Terceira Seção, por maioria, rejeitou o cancelamento do enunciado da Súmula 231 deste Superior Tribunal de Justiça e, por conseguinte, negou provimento ao recurso especial, nos termos do voto do Sr. Ministro Messod Azulay Neto, que lavrará o acórdão.
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. FIXAÇÃO DA PENA INTERMEDIÁRIA EM PATAMAR INFERIOR AO PISO LEGAL. IMPOSSIBILIDADE. SÚMULA 231/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme entendimento desta Corte, " nos termos da Súmula 231 do STJ, a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal. Embora a Sexta Turma desta Corte tenha aprovado proposta de revisão desse enunciado, remetendo os autos dos Recursos Especiais n. 2.057.181/SE, 2.052.085/TO e 1.869.764/MS à Terceira Seção, nos termos do art. 125, § 2º, do RISTJ, a incidência do referido verbete permanece inalterado, conforme recentes julgados da Quinta e Sexta Turmas desta Corte. Precedentes" (AgRg no HC n. 907.718/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024).
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.670.757/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/8/2024, DJe de 30/8/2024).
+Sendo assim, tendo sido rejeitada a proposta de cancelamento da Súmula n. 231/STJ , confirma-se o entendimento consolidado.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
