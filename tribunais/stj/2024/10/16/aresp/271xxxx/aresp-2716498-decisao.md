@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE VALINHOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL - MUNICÍPIO DE VALINLIOS - PRETENSÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA COM BASE NA LEI MUNICIPAL Nº 2.018/86  POSSIBILIDADE - SERVIDOR ADMITIDO ANTES REVOGAÇÃO DO BENEFÍCIO PELA LEI MUNICIPAL 4.878/13 - CONSTITUCIONALIDADE DO ART. 1º, §§1º A 5O, DA REFERIDA LEI RECONHECIDA NOS AUTOS DA AÇÃO DECLARATÓRIA DE INCONSTITUCIONALIDADE Nº 2133155-46.2015.8.26.0000, COM TRÂNSITO EM JULGADO EM 28/05/2020 - PRESCRIÇÃO AFASTADA - RELAÇÃO DE TRATO SUCESSIVO - SENTENÇA DE IMPROCEDÊNCIA REFORMADA - RECURSO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 9º do Decreto n. 20.910/32 e à Súmula n. 85 do STJ, no que concerne ao reconhecimento da ocorrência da prescrição do fundo do direito tendo em vista que a impetração do mandado de segurança interrompeu o prazo, que voltou a correr pela metade, e a ação foi ajuizada após 2 anos e 6 meses da interrupção, trazendo a seguinte argumentação:
+O Município cessou o pagamento da complementação de aposentadoria do então servidor público, que impetrou Mandado de Segurança, que teve a segurança denegada.
+O fato de ter se valido da via estreita interrompe a prescrição, nesse sentido:  ..  -fl. 674.
+Notavelmente equivocado o acórdão, primeiro porque a prescrição não é de 5 (cinco) anos, mas pela metade desse prazo, posto que interrompida, segundo porque o próprio fundamento da improcedência da ação é justamente a Súmula 85 do Superior Tribunal de Justiça mencionada.
+ ..
+Evidentemente, percebe-se que foi negado o próprio direito, tanto que impetrado mandado de segurança segundo se observa pelo debate no acórdão nas fls. 664, assim, a prescrição é de fundo de direito, e a decisão nega vigência ao artigo 9º da Lei 20.910/32 e viola a própria Súmula 85 do Superior Tribunal de Justiça.
+ ..
+Destarte, a Administração negou o direito, impetrou-se mandado de segurança, o prazo foi interrompido pela metade e a recorrido ingressou com a ação após 2 (dois) anos e 6 (seis) meses, após a interrupção, na medida em que o trânsito em julgado ocorreu em ocorreu no dia 27/09/2016 (não houve certificação nos autos do trânsito em julgado segundo se observa pela íntegra do processo) e a ação apenas foi ajuizada em setembro de 2020 (fls. 4) - (fl. 676).
+É o relatório.
+Decido.
+Quanto à controvérsia, não é cabível Recurso Especial fundado na ofensa a enunciado de súmula dos tribunais, inclusive em se tratando de súmulas vinculantes.
+Assim, incide o óbice da Súmula n. 518 do STJ: "Para fins do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Nesse sentido: "A interposição de recurso especial não é cabível com fundamento em violação de súmula vinculante do STF, porque esse ato normativo não se enquadra no conceito de lei federal previsto no art. 105, III, "a" da CF/88". (REsp n. 1.806.438/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 19.10.2020.)
+Nesse sentido: AgInt no AREsp 1.630.476/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 13.8.2020; AgInt no AREsp 1.630.025/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 14.8.2020; AREsp 1.655.146/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 7.8.2020; AgRg no REsp 1.868.900/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe 3.6.2020; AgInt no REsp 1.743.359/MG, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 30.3.2020; AgRg no AREsp n. 1.632.328/CE, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2.9.2020.
+Ademais, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
