@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por FLAMINIO GRILLO com o objetivo de pleitear a fixação da pena-base do delito do art. 312 do Código Penal no mínimo legal, em consonância com o que foi decido no AgRg no AgRg no REsp n. 1.790.753/ES (Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 18/10/2019).
+Segundo as razões recursais, a decisão embargada divergiu do acórdão paradigma ao valorar a culpabilidade com base em elementos que, naquele outro caso, foram considerados inerentes ao crime de peculato. Em face disso, requer que prevaleça o entendimento adotado pela Quinta Turma no acórdão paradigma (fls. 2.315-2.381).
+O Ministério Público Federal opinou pelo desprovimento dos embargos, ao argumento de que as circunstâncias judiciais aferidas no caso concreto transbordaram os elementos inerentes ao tipo penal, sendo inviável o revolvimento fático-probatório para se concluir em sentido diverso (fls. 2.405-2.412).
+É o relatório. DECIDO.
+Compulsando os autos, verifico que a culpabilidade do embargante foi valorada com base nos seguintes fundamentos (fls. 2.271-2.272):
+"No que se refere à culpabilidade, não há dúvida de que a Corte de origem incorreu em ilegalidade ao excluir a valoração negativa da culpabilidade.
+Veja-se que o Juízo processante, ao valorar negativamente o referido vetor, sopesou elementos que transbordam aqueles inerentes ao crime de peculato- desvio, na medida em que considerou todo o modus operandi utilizado na conduta delitiva, perpetrado mediante o uso de atos administrativos, cujo escopo era maquiar a transparência e licitude dos atos, circunstâncias essas aptas a indicar gravidade distinta além daquela típica ao crime em comento (fls. 1.436/1.437 e 1.439/1.440 - grifo nosso):
+ ..  QUANTO AO RÉU FLAMÍNIO GRILLO: a) Dosimetria em face das condutas incriminadas e atribuídas em razão do desvio de dinheiro público na aquisição dos gêneros alimentícios e produtos de limpeza: Na primeira fase do sistema trifásico de determinação da pena, registro a presença de apenas uma circunstância judicial desfavorável recaindo na culpabilidade, eis que evidente a sua alta reprovabilidade, inclusive extrapolando a censura imposta pelo tipo penal (incriminador), tendo em vista que o acusado, para desviar verba pública, utilizou-se do regular expediente administrativo, maquiando a transparência e licitude do ato, emitindo-se notas de empenho e ordens de pagamento (fls. 406/574 e 584/815), agindo o réu de forma afrontosa, na certeza de sua impunidade quanto à prática do delito, razão pela qual estabeleço como necessária e suficiente para a prevenção e reprovação do crime a pena base de 03 (três) anos e 03 (três) meses de reclusão e ao pagamento de 50 (cinquenta) dias- multa, cada um no equivalente a 01 (um) salário-mínimo ao tempo do fato delituoso, eis que o acusado é produtor rural (fl. 1.183), em consonância com a previsão do artigo 60 do Código Penal.  .. "
+Segundo as razões dos embargos de divergência,
+"a Quinta Turma desse Sodalício entendeu que, considerando a fundamentação utilizada pelo Juízo processante, frise-se, exatamente a mesma empregada pelo juízo de primeiro grau na demanda em epígrafe (objeto destes Embargos de Divergência), não seria possível a valoração negativa da culpabilidade. Isso porque, não se permite a utilização de elementos inerentes ao tipo penal para fundamentar a negativação da referida vetorial." (fls. 2.354).
+Não procedem as alegações do embargante.
+Ao contrário do alegado, no REsp 1790753/ES (2019/0005877-9), o Ministro Relator decotou apenas a valoração negativa das circunstâncias e das consequências do crime, conforme fls. 910-911 daqueles autos:
+"O fato do delito de peculato ter sido praticado por um agente político (vereador), no exercício da legislatura, a quem o eleitor depositou confiança, esperando, assim, a lisura de sua atuação, demonstra especial reprovabilidade da conduta, a justificar o incremento da pena pela acentuada culpabilidade (HC 418.919/PB, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/03/2018, DJe 14/03/2018).
+Por outro lado, a adoção de elementos inerentes ao tipo penal para valoração das circunstâncias e consequências do crime inviabiliza a exasperação da pena-base.
+(..)
+Dessa forma, necessário o decote das duas circunstâncias judiciais. Passo a refazer a dosimetria da pena. Mantendo-se os mesmos critérios adotados pelas instâncias ordinárias, diante de apenas uma circunstância judicial desfavorável, fixo a pena-base em 03 (três) anos e 03 (três) meses de reclusão e pagamento de 79 (setenta e nove) dias-multa."
+Inconformado, o Ministério Público Federal recorreu da aludida decisão, sendo que a Quinta Turma manteve o desvalor da culpabilidade, consoante fls. 940-941 daqueles autos:
+"No caso dos autos, foram afastadas as circunstâncias e consequências do crime, mantendo-se a valoração negativa da culpabilidade, no entanto, por fundamento diverso do que foi empregado pelas instâncias ordinárias.
+(..)
+Todavia, a adoção de elementos inerentes ao tipo penal para valoração das circunstâncias e consequências do crime inviabiliza a exasperação da pena-base.
+(..)
+Ante o exposto, voto pelo desprovimento do agravo regimental."
+Assim, não há divergência entre o acórdão embargado e o acórdão paradigma, porquanto ambos valoraram negativamente a culpabilidade do apenado.
+Ante o exposto, indefiro liminarmente os embargos de divergência, nos termos do art. 266-C do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA DA PENA. SUPOSTA DIVERGÊNCIA NA VALORAÇÃO DA CULPABILIDADE. NÃO OCORRÊNCIA. NÃO CONFIGURAÇÃO DA DIVERGÊNCIA. RECURSO INDEFERIDO LIMINARMENTE.
