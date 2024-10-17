@@ -1,2 +1,2 @@
-Art. 56. As instituições públicas de educação superior obedecerão ao princípio da gestão democrática, assegurada a existência de órgãos colegiados deliberativos, de que participarão os segmentos da comunidade institucional, local e regional.
+Art. 56. As instituições públicas de educação superior obedecerão ao princípio da gestão transparente e democrática, assegurada a existência de órgãos colegiados deliberativos, dos quais participarão os segmentos da comunidade institucional, local e regional.
 Parágrafo único. Em qualquer caso, os docentes ocuparão setenta por cento dos assentos em cada órgão colegiado e comissão, inclusive nos que tratarem da elaboração e modificações estatutárias e regimentais, bem como da escolha de dirigentes.
