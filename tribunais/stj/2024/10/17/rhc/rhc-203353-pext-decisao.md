@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de pedido de extensão interposto por RAYNE NEVES RODRIGUES em razão de decisão em que foi concedida a ordem em favor da paciente SHEILA GABRIELLE GOMES DE OLIVEIRA BATISTA para revogar a prisão preventiva decretada em seu desfavor, salvo se por outro motivo estivesse presa, e sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada, devendo ser impostas, a critério do juízo de primeiro grau, medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal
+Nesta petição requer a extensão dos benefícios concedidos à paciente nos termos do art. 580 do Código de Processo Penal.
+É o relatório. DECIDO.
+Como é cediço, o deferimento do pedido de extensão exige que o corréu esteja na mesma situação fático-processual daquele já beneficiado, de forma que a motivação da decisão não seja de caráter exclusivamente pessoal, a teor do art. 580 do Código de Processo Penal.
+Verifica-se que a situação do requerente é distinta da situação do paciente, pois ele não teve a prisão preventiva decretada pelo mesma decisão, de fls. 151-156, analisada neste habeas corpus.
+Tal situação foi explicitamente considerada na decisão não deixa margem a dúvidas quanto à diferença de situações fático-jurídicas, o que, portanto, impede a incidência do art. 580 do CPP em favor dos requerentes.
+Nesse sentido:
+"A teor do art. 580 do Código de Processo Penal, o deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado  .. "(AgRg no RHC n. 174.091/RS, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 27/2/2023).
+Diante do exposto, revela-se incabível a extensão dos efeitos almejada.
+Dessa forma, julgo improcedente o pedido.
+Publique-se. Intime-se.
+EMENTA
