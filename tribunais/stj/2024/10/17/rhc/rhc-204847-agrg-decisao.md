@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo regimental interposto por ANDRE VALINAS CARPINTERO contra a decisão que negou provimento ao recurso ordinário em habeas corpus.
+Consta dos autos que o agravante foi denunciado por suposta infringência aos artigos 102, caput, e 104, ambos da Lei nº 10.741/2003, por fato ocorrido em 2/8/2018.
+Nas razões do presente recurso, a defesa repisa os fundamentos expendidos no recurso ordinário, sustentando a ocorrência de constrangimento ilegal sofrido pelo agravante, visto que, no seu entender, inexistem indícios suficientes de materialidade nas condutas que lhe são imputadas, tratando-se, portanto, de fatos penalmente atípicos.
+Alega que o Ministério Público descartou a prática dos crimes dos artigos 96, 99, 101 e 108, todos do Estatuto do Idoso, imputados sem lastro probatório ao agravante.
+Aduz também que o Parquet apontou a necessidade de maiores explicações, especialmente no tocante ao Trust e à função exercida pelo agravante como protetor do fundo.
+Informa que colaborou com a investigação de forma extensiva e, como se antecipava, não foram colhidos elementos mínimos de materialidade.
+Ademais, ressaltou a prerrogativa do direito contra a autoincriminação e seu alcance constitucional na proteção dos direitos do investigado.
+Assere que, em três oportunidades distintas, a Procuradoria-Geral de Justiça (instância superior do MP) pugnou pelo trancamento da ação penal de origem.
+Sustenta que a suposta conduta do tipo penal previsto no art. 102 da Lei nº 10.741/2003 foi atribuída ao agravante a partir de um documento que, na realidade, trata-se de minuta documental que nem o recorrente, ou qualquer outra parte do trust assinou, reconheceu ou protocolou na instituição bancária.
+Questiona sobre em qual trecho da denúncia identifica de forma individual e pormenorizada, as condutas ilícitas imputadas ao agravante.
+Relata que o representante do Ministério Público, que outrora alegou estarem pendentes diligências imprescindíveis para análise de responsabilidade criminal, optou por atribuir ao agravante uma sofisticada engenharia financeira para impedir sua mãe de ter acesso ao dinheiro guardado no fundo, apesar de não ser beneficiário do fundo e não ter meios para impedir a beneficiária (sua genitora) de nada.
+Reforça que a denúncia não foi capaz de formular a imputação de forma satisfatória a preencher o tipo penal.
+Diz ainda que a denúncia encontra-se desconexa com o conjunto colhido na fase administrativa, e sequer é capaz de atribuir conduta tipicamente plausível ao referido delito, tratando-se, no seu entender, de processo deflagrado sem qualquer elemento de prova que sustente conduta típica do agravante.
+Reitera, assim, que estamos diante de condutas absolutamente atípicas, visto que não se observa o preenchimento dos elementos do tipo penal, tratando-se, em realidade, de uma ampliação descabida e fragilizada do delito imputado.
+Requer, ao final, a reconsideração da decisão monocrática ou que o presente pleito seja submetido a julgamento pelo colegiado da Quinta Turma, objetivando o sobrestamento da ação penal até o julgamento colegiado e que seja provido o recurso interposto para determinar o trancamento da ação penal nº 1536745-17.2021.8.26.0050.
+O Ministério Público Federal manifestou ciência da decisão, à fl. 385.
+É o relatório. DECIDO.
+No presente recurso, como relatado, a defesa requer, novamente, o trancamento da ação penal.
+Mais uma vez, explico que o trancamento da ação penal constitui medida excepcional, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a presença de causa de extinção de punibilidade, a ausência de indícios mínimos de autoria ou de prova da materialidade.
+A liquidez dos fatos, assim, constitui requisito inafastável na apreciação da justa causa, pois o exame aprofundado de provas é inadmissível no espectro processual do habeas corpus ou de seu recurso ordinário, uma vez que seu manejo pressupõe ilegalidade ou abuso de poder flagrante a ponto de ser demonstrada de plano (AgRg no HC n. 881.836/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 11/4/2024).
+Com efeito, segundo pacífica jurisprudência desta Corte Superior, a propositura da ação penal exige tão somente a presença de indícios mínimos de autoria, não sendo exigida a certeza, que a toda evidência somente será comprovada ou afastada após a instrução probatória, prevalecendo, na fase de oferecimento da denúncia, o princípio da busca pela verdade real.
+Nos autos de origem, o agravante foi supostamente incurso nos artigos 102, caput, e 104, ambos da Lei n. 10.741/2003:
+"Art. 102. Apropriar-se de ou desviar bens, proventos, pensão ou qualquer outro rendimento da pessoa idosa, dando-lhes aplicação diversa da de sua finalidade:
+Pena - reclusão de 1 (um) a 4 (quatro) anos e multa.
+(..)
+Art. 104. Reter o cartão magnético de conta bancária relativa a benefícios, proventos ou pensão da pessoa idosa, bem como qualquer outro documento com objetivo de assegurar recebimento ou ressarcimento de dívida:
+Pena - detenção de 6 (seis) meses a 2 (dois) anos e multa."
+Em análise da exordial acusatória, contudo, extrai-se que o agravante seria (fls. 23-26):
+"(..) filho da vítima e junto de seu falecido genitor Manuel Valinãs Villaverde constituíram uma Trust (relação jurídica estabelecida em jurisdições internacionais para a transferência de patrimônio para um terceiro, denominado Trustee, (no caso a instituição financeira Banco Credit Suisse) para a administração dos bens da família, conforme a vontade transcrita na carta de desejos (trust deed) de fls. 999.
+Como consta na carta de desejo documento em que se transcreveram as regras e condições para que o Trustee administre os bens em benefício dos herdeiros, tudo a ser ditado pelo patriarca/matriarca (settlor) consignou-se que Manuel e o denunciado ANDRÉ seriam os gerentes, com acesso irrestrito aos extratos bancários e de investimento, bem como que os beneficiários primários dos frutos advindos seriam Manuel e a vítima Maria, cada qual com direito a solicitar saques do Fundo do Trust diretamente, até o limite de sua participação.
+(..) constou, também, como o protector da Trust, isto é, aquele designado para garantir que o trustee esteja realmente fazendo a administração do patrimônio em prol dos beneficiários.
+Após o falecimento de Manuel, pai do denunciado, a vítima Maria restou como a única beneficiária primária e fazia, como tal, jus a um cartão de débito para saque mensal no limite de 16.000,00  (dezesseis mil euros), correspondentes a R$ 83.040,00.
+(..) valendo-se da sua condição de protector e de gerente de investimento da Trust, o denunciado ANDRÉ (paciente) elaborou uma sofisticada engenharia financeira para desviar os bens de sua genitora, Maria Carpinteiro Oliva, em proveito próprio, ao impedi-la de acessar e reaver os frutos dos quais teria direito na condição de beneficiária da Trust.
+Isso porque, após sua genitora ter o cartão vinculado à conta do Trust bloqueado em 02 de agosto de 2018, o denunciado ANDRÉ - na condição de garantidor de que a Trustee realizaria a administração do patrimônio em prol dos beneficiários - não permitiu que ela voltasse a ter acesso aos resultados (frutos) dos bens aportados no Trust ao não atuar para providenciar a emissão de um novo cartão à sua genitora, impedindo-a de ter acesso ao fundo.
+Por tal motivo, a vítima sofreu um prejuízo aproximado de 960.000,00  (novecentos e sessenta mil euros), ou, aproximadamente, R$ R$ 4.982.400,00 referente ao período no qual foi obstada de ter acesso ao valor mensal ao qual teria direito a sacar pelo bloqueio do cartão". (grifei)
+Por sua vez, o Tribunal destacou que (fls. 266-268):
+"(..) Como é cediço, o trancamento da ação penal somente é admissível quando na denúncia se constatar a imputação de fato penalmente atípico, ou se não existir qualquer elemento indiciário demonstrativo da autoria do delito, o que não parece não ocorrer no caso em tela.
+(..)
+Como se vê, a exordial acusatória, amparada em minuciosa investigação policial, trouxe os indícios necessários da prática dos fatos esposados como ilícitos pelo paciente.
+Em sua narrativa ficaram claras a conduta do paciente e as circunstâncias em que se desenvolveu a ação, indicando a exposição do fato criminoso de modo a possibilitar o exercício da ampla defesa e o contraditório, estando suficientemente demonstrados a prova da materialidade e os indícios de autoria, os quais constituem a justa causa para alicerçar a ação penal, tudo em conformidade com o disposto no art. 41 do Código de Processo Penal.
+A propósito, não é demais ressaltar que o limite estreito de cognição do writ não é a via processual adequada para se adentrar na questão de fundo da causa, e nem dá lugar à cognição exauriente sobre o que se apresenta como conduta criminosa.
+A análise da responsabilidade penal do paciente importa em consideração de elementos de prova a ser apreciada, oportunamente, pelo juízo de conhecimento por ocasião da prolação da sentença.
+Outrossim, as teses defensivas apresentadas no presente writ precariedade da prova indiciária de autoria relativamente ao crime previsto no art. 102 do Estatuo do Idoso, e o argumento de crime impossível não são suficientes para justificar o trancamento da ação penal.
+Em que pese o esforço dos combativos impetrantes, o pretendido trancamento da ação penal não comporta mesmo acolhimento, sobretudo na atual fase processual da ação penal ajuizada contra o paciente, em que já houve citação válida, apresentação de resposta à acusação e manifestação ministerial acerca da peça defensiva.
+Logo, no contexto dos autos, não existe constrangimento ilegal que possa ser sanado pela via eleita.
+Ante o exposto, denega-se a ordem." (grifei)
+Como se observa da própria denúncia, após novamente apreciar as razões da defesa, verifiquei que a peça acusatória, bem verdade, não ultrapassou a mera exposição dos tipos penais em comento.
+Embora a exordial até mencione "uma sofisticada engenharia financeira", assim como o acórdão cita uma "minuciosa investigação policial", ao fim, nenhuma das referidas peças explicou em que consistiriam, efetivamente, tais apontamentos, na qualidade de provas a embasar uma denúncia tão grave.
+Ora, a denúncia conta com apenas 3 páginas, sendo que, em apenas dois parágrafos, se imputariam dois supostos crimes (artigos 102, caput, e 104, ambos da Lei n. 10.741/2003) ao agravante.
+E tudo embora tenha havido, como dito, uma "sofisticada engenharia financeira" e uma "minuciosa investigação policial".
+Nesse contexto, sem adentrar o mérito, prima facie, é possível constatar a patente inépcia da denúncia (por falta de descrição de fatos típicos), de forma a impossibilitar o pleno exercício de defesa pelo agravante.
+Isso porque, nos termos do art. 41 do Código de Processo Penal, a denúncia deve descrever o fato criminoso, com todas as suas circunstâncias, bem como a qualificação do acusado e a classificação do crime, in verbis:
+"Art. 41. A denúncia ou queixa conterá a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das testemunhas."
+Nesse compasso:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME PREVISTO NO ART. 333, PARÁGRAFO ÚNICO DO CÓDIGO PENAL (CORRUPÇÃO ATIVA). PLEITO DE TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. ORDEM CONCEDIDA. NÃO ENFRENTAMENTO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO SUMULAR N. 182/STJ. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO FEDERAL DESPROVIDO.
+I - Quanto à preliminar de incompetência originária desta Corte para julgamento do habeas corpus substitutivo de recurso próprio, demonstrada a inépcia da denúncia, o que configura flagrante ilegalidade apta a gerar evidente constrangimento ilegal, adequada a superação do óbice processual apontado, a fim de se conceder a ordem para trancamento da ação penal em relação ao agravado, sem prejuízo do oferecimento de outra denúncia, livre do referido vício.
+(..)
+Agravo regimental desprovido" (AgRg no HC n. 791.032/SP, Quinta Turma, de minha relatoria, DJe de 1/12/2023).
+Corroborando: AgRg no HC n. 872.669/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/2/2024.
+Ante o exposto, em sede de juízo de retratação em recurso de agravo regimental, concedo a ordem de habeas corpus, de ofício, para anular a decisão de recebimento da denúncia e determinar o imediato trancamento da ação penal por patente inépcia da exordial (por falta de narrativa do fato delituoso), ressalvada a possibilidade de oferta de nova peça, observados os termos desta decisão e apenas em caso de inexistência de prescrição da pretensão punitiva do Estado.
+Cientifique-se, mais uma vez, o MPF desta decisão.
+Publique-se. Intime-se.
+ EMENTA
