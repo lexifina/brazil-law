@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de RAYAN GARCIA RAMOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente teve a prisão preventiva decretada, pela prática, em tese, dos delitos previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/06.
+Irresignada, a defesa, impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado:
+"HABEAS CORPUS Artigos 33 e 35, da Lei nº 11.343/06 Ausência de indícios de autoria Acolhimento - Impossibilidade Presença efetiva de indícios de autoria Existência de trabalho investigativo policial atribuindo ao paciente efetiva participação em grupo criminoso dedicado ao tráfico de drogas Conjunto de indícios que indicam a traficância - Concessão de liberdade provisória sob as alegações de ausência dos requisitos autorizadores da custódia cautelar; falta de fundamentação da decisão que decretou a prisão preventiva; e suficiência das medidas cautelares diversas da prisão - Descabimento Decisão fundamentada Presença das condições que autorizam a prisão preventiva Gravidade concreta dos delitos imputados Presença das condições que autorizam a prisão preventiva ("fumus comissi delicti" e "periculum libertatis") - Hipótese em que assentada a presença dos requisitos autorizadores da custódia cautelar, não há que se falar em aplicação de medidas cautelares diversas da prisão. Ordem denegada." (fl. 327)
+Alega constrangimento ilegal e falta de fundamentação idônea à manutenção da segregação cautelar.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, subsidiariamente, a imposição de medidas cautelares diversas.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta.
+No ponto, consta nos autos:
+" ..  Consta do presente inquérito que, em local e data não esclarecidos, anterior e inclusive em 04 de maio de 2023, GIOVANA BARROS DE PAIVA, qualificada a fls.29/30 das peças sigilosas LUAN FELLIPE BIASIN RODRIGUES, qualificado a fls. 31/32 das mesmas e RAYAN GARCIA RAMOS, qualificado à fl. 33/34 dos mesmos documentos apensos, associaram-se, inclusive, com Roberto Gabriel dos Santos, Luiz Fernando Biasin Rodrigues e Francine Vieira de Barros (já denunciados pelos mesmos fatos), para o fim de praticar, reiteradamente crime de tráfico previsto no art. 33, caput da lei de droga.  ..  Quanto ao denunciado RAYAN, operava como negociador, bem como atuava pessoalmente na entrega de drogas e fiscalização de biqueiras, o que fica evidente por conversa em que Giovana expressa sua preocupação com enquadramento de Rayan e Gabriel para Francine (fls. 86/87 das peças sigilosas)." ..  Por fim, consta que RYAN era o responsável por acionar a corré Giovanna para a "fiscalização do procedimento dos policiais durante abordagens".  .. " (fls. 328;330)
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+"A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper suas atividades" (RHC 123.145/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 28/02/2020)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Nesse sentido:
+"É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do réu" (AgRg no HC 619.400/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/04/2021, DJe 30/04/2021).
+Ante o exposto, denego a ordem em habeas corpus.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intimem -se.
+EMENTA
