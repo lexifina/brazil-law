@@ -1,0 +1,15 @@
+DECISÃO
+Por meio deste writ, impetrado em benefício de Richard Valadares Carius  preso preventivamente e denunciado como incurso nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006 e art. 333, na forma do art. 69, ambos do Código Penal (Processo n. 0800254-66.2024.8.19.0042 da 2ª Vara Criminal da comarca de Petrópolis/RJ)  contra acórdão denegatório do Tribunal de Justiça do Rio de Janeiro (HC n. 0056083-94.2024.8.19.0000  fls. 9/16), o impetrante busca, inclusive em sede de liminar, a revogação da custódia cautelar, aos argumentos de ausência dos pressupostos legais previstos no art. 312 do Código de Processo Penal; de plausibilidade na extensão dos efeitos da liminar concedida por esta Relatoria em favor do corréu nos autos do RHC n. 196.765/RJ, conforme disposto no art. 580 do Código de Processo Penal; e de fragilidade dos indícios para imposição da medida constritiva extrema.
+Estes autos foram a mim distribuídos por conexão (HC n. 907.742/RJ).
+Liminar indeferida (fls. 86/88).
+Prestadas as informações (fls. 97/99 e 108/114), o Ministério Público Federal opinou pela prejudicialidade do writ (fls. 118/122).
+É o relatório.
+De acordo com as informações prestadas pelo Juízo de Direito da 2ª Vara Criminal da comarca de Petrópolis/RJ, em 2/10/2024, nos autos da Ação Penal n. 0800254-66.2024.8.19.0042, sobreveio a prolação de sentença condenatória.
+Na oportunidade, foi julgada parcialmente procedente a pretensão punitiva estatal para condenar o ora paciente como incurso na sanção do art. 33, caput, da Lei n. 11.343/2006, às penas de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 583 dias-multa. Ainda, foi negado ao réu o direito de recorrer em liberdade, por haver respondido preso à instrução criminal (fl. 113).
+Na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título judicial diverso (sentença condenatória), consubstanciado em nova motivação  haver respondido preso à instrução criminal (fl. 113)  , cujo requisito específico desafia impugnação própria no Tribunal de origem. Nesse sentido, os seguintes julgados: AgRg no RHC n. 112.178/SP, Ministra Laurita Vaz, Sexta Turma, DJe 15/6/2020; e AgRg no RHC n. 92.522/AL, da minha relatoria, Sexta Turma, DJe 16/3/2020.
+Ademais, como já dito por ocasião da análise do pleito liminar e agora redito, no que concerne à extensão dos efeitos concedidos ao corréu, já houve a devida apreciação do pedido nos autos do RHC n. 196.765/RJ, na data de 11/9/2024, sendo, pois, indeferido.
+Tal o contexto, perdeu o objeto o presente writ. Julgo-o, portanto, prejudicado (art. 34, XI, do RISTJ).
+Publ ique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DESCRITOS NO ART. 33, CAPUT, E 35, AMBOS DA LEI N. 11.343/2006, E ART. 333, NA FORMA DO ART. 69, AMBOS DO CP. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. IMPOSIÇÃO DO REGIME INICIAL SEMIABERTO. NOVO FUNDAMENTO. TÍTULO JUDICIAL LEGITIMADOR DA CONSTRIÇÃO CAUTELAR QUE DEVE SER ANTES SUBMETIDO AO CRIVO DE ANÁLISE DO TRIBUNAL A QUO. ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
