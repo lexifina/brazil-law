@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra acórdão do Tribunal Regional Federal da 5ª Região (fls. 441-443).
+No recurso especial, o recorrente aponta negativa de vigência ao art. 58, §1º, da Lei 8.213/91, pois "inexistindo no PPP informações sobre o responsável pelos registros ambientais, nos períodos requeridos pela parte autora, e não apresentado ou elementos técnicos LTCAT equivalentes acompanhado de declaração do empregador ou outro documento que comprove a inexistência de alteração no ambiente de trabalho ou na sua organização ao longo do tempo, inviável o reconhecimento do período como especial, haja vista o contido no artigo 58, parágrafo 1º da Lei 8213/91  .. " (fl. 477).
+Requer, ao final, o provimento do recurso.
+O recurso especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Passo a decidir.
+A Primeira Seção desta Corte firmou entendimento segundo o qual, "em regra, trazido aos autos o Perfil Profissiográfico Previdenciário (PPP), dispensável se faz, para o reconhecimento e contagem do tempo de serviço especial do segurado, a juntada do respectivo Laudo Técnico de Condições Ambientais de Trabalho (LTCAT), na medida que o PPP já é elaborado com base nos dados existentes no LTCAT, ressalvando-se, entretanto, a necessidade da também apresentação desse laudo quando idoneamente impugnado o conteúdo do PPP".
+Nesse sentido:
+PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. PREVIDENCIÁRIO. COMPROVAÇÃO DE TEMPO DE SERVIÇO ESPECIAL. RUÍDO. PERFIL PROFISSIOGRÁFICO PREVIDENCIÁRIO (PPP). APRESENTAÇÃO SIMULTÂNEA DO RESPECTIVO LAUDO TÉCNICO DE CONDIÇÕES AMBIENTAIS DE TRABALHO (LTCAT). DESNECESSIDADE QUANDO AUSENTE IDÔNEA IMPUGNAÇÃO AO CONTEÚDO DO PPP.
+1. Em regra, trazido aos autos o Perfil Profissiográfico Previdenciário (PPP), dispensável se faz, para o reconhecimento e contagem do tempo de serviço especial do segurado, a juntada do respectivo Laudo Técnico de Condições Ambientais de Trabalho (LTCAT), na medida que o PPP já é elaborado com base nos dados existentes no LTCAT, ressalvando-se, entretanto, a necessidade da também apresentação desse laudo quando idoneamente impugnado o conteúdo do PPP.
+2. No caso concreto, conforme destacado no escorreito acórdão da TNU, assim como no bem lançado pronunciamento do Parquet, não foi suscitada pelo órgão previdenciário nenhuma objeção específica às informações técnicas constantes do PPP anexado aos autos, não se podendo, por isso, recusar-lhe validade como meio de prova apto à comprovação da exposição do trabalhador ao agente nocivo "ruído".
+3. Pedido de uniformização de jurisprudência improcedente.
+(Pet n. 10.262/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 8/2/2017, DJe de 16/2/2017.)
+No caso, o acórdão recorrido registrou que:
+Quanto aos requisitos formais dos PPPs/LTCATs, o magistrado ressaltou: "Todavia, todos os PPP"s apresentados foram emitidos no ano de 2022 com informações colhidas por aproximação retiradas de Laudo Técnico do ano de 1998, este, todavia, não foi acostado pela parte promovente. Registre, ainda, que os PPP"s foram assinados pelo "Encarregado Administrativo Financeiro" da Empresa, não se sabendo se o LTCAT ao qual é feita referência (1998) foi devidamente assinado por engenheiro de segurança do trabalho ou médico do trabalho, já que não apresentado. Somado a isso, a parte autora apresentou Laudo Técnico de Condições Ambientais de Trabalho - LTCAT (Id 4058305.25293513) datado de abril de 2009, o qual, embora diga respeito à mesma empresa, EIT - Empresa Industrial Técnica S/A, somente analisou uma obra em específico (PCH Sítio Grande/BA)" (fls. 438-439).
+Assim, o Tribunal de origem, ao considerar a comprovação do labor especial mesmo diante das diversas irregularidades constatadas nos perfis profissiográficos apresentados e da idônea impugnação da autarquia previdenciária quanto ao conteúdo dos referidos documentos, desalinhou-se da jurisprudência deste Superior Tribunal de Justiça.
+Isso posto, dou provimento ao recurso especial, para restabelecer a sentença.
+Intimem-se.
+EMENTA
