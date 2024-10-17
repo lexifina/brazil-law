@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão de fls. 63-64, em que denegado o habeas corpus, porquanto não se constatou excesso de prazo para o julgamento da apelação.
+O embargante assinala que, passados mais de dois meses desde que prestadas informações pelo Tribunal de origem nos presentes autos, a apelação não foi sequer pautada para julgamento, contrariando o noticiado pela relatora do recurso , no sentido de que "a apelação conta com tramitação prioritária de julgamento, por se tratar de processo com réu preso, devendo ser incluído em pauta para julgamento em sessão próxima" (fl. 52).
+Requer o acolhimento dos presentes embargos de declaração para sanar a omissão apontada ("análise do excesso de prazo à luz das informações juntadas às fls. 26-54 e as informações anexas" - fl. 70), com efeitos infringentes para "determinar a imediata inclusão do procedimento de origem em pauta de julgamento" e expedir o competente alvará de soltura em favor do embargante.
+É o relatório.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando no julgado houver ambiguidade, obscuridade, contradição ou omissão.
+No caso, não há falar em omissão na decisão embargada, pois a matéria foi decidida com a devida e clara fundamentação, no sentido de que não se verifica o alegado excesso de prazo, pois o tempo de prisão cautelar não se mostra excessivo ante a pena concretamente cominada ao paciente.
+Ademais, conforme mencionado em outros julgados do Superior Tribunal de Justiça, os problemas decorrentes das enchentes enfrentadas por grande parte da população do estado e, em especial, a instabilidade do sistema do Tribunal de Justiça do Estado do Rio Grande do Sul são comuns não só a toda população carcerária, como também a todos que precisam do sistema judicial, circunstância que permite o elastecimento dos prazos processuais, não havendo justificativa para a soltura de acusado pela prática de crimes graves.
+Destaca-se, por fim, que a pretensão de "análise do excesso de prazo, à luz das informações juntadas às fls. 26-54 e as informações anexas," configura inovação recursal, tendo sido suscitada pela primeira vez nas razões dos aclaratórios que ora se aprecia.
+Não admite este Superior Tribunal, em "agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso, inovando questões não suscitadas anteriormente (AgRg no REsp n. 1.592.657/AM, relator Ministro Felix Fischer, Quinta Turma, julgado em 13/9/2016, DJe de 21/9/2016)" (AgRg no HC n. 605.999/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/3/2021, DJe de 8/3/2021).
+Não se prestam os embargos de declaração à rediscussão do julgado com o fim de modificar a sua conclusão.
+Ante o exposto, não havendo vício integrativo, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
