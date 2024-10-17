@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ITACIR JOSE PICININ à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA  DANO AMBIENTAL - AUTO DE INFRAÇÃO - UTILIZAÇÃO DE IMAGEM COLHIDA VIA SATÉLITE - POSSIBILIDADE - EQUIPARAÇÃO A DOCUMENTO PÚBLICO - DANOS MORAIS - AUSÊNCIA DE CONDENAÇÃO - FALTA DL INTERESSE RECURSAL - RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 2º da Lei n. 9.784/1999, no que concerne à necessidade de que atos sancionatórios, praticados pelo Poder Público, estejam fundamentados em conjunto probatório que assegure a verdade dos fatos, tendo em vista decisão judicial que, com esteio em imagens de satélite, impôs obrigações face a suposto dano ambiental. Argumenta:
+Ademais, reconheceu não ter sido realizada inspeção "in loco", destacando que o suposto dano ambiental, se constatou por imagens de satélite.
+ ..
+No modelo de Estado Democrático de Direito, é indispensável que haja a concreta garantia do controle do mérito administrativo por meio de um processo em que sejam efetivados o contraditório e a ampla defesa. Especialmente quanto aos atos administrativos que importem sanções ao sujeito particular, por atingirem a esfera jurídica dos particulares na supressão de bens e direitos, é dever do Estado promover os meios efetivos e necessários que permitam encontrar a verdade real dos fatos.
+Especialmente quanto aos atos sancionatórios, em que o Estado se encontra em uma posição superior de privilégio em relação ao cidadão particular, importa que a Administração Pública comprove os fatos que alega existir e que deram causa à punição. A aplicação concreta da motivação e da publicidade dos atos administrativos requer essa comprovação probatória, de forma que a condenação do particular sem esse elemento viola frontalmente o devido processo legal.
+Posto isso, fica evidente a ofensa ao art. 2º da Lei Federal n.º 9784/99, uma vez que não fora devidamente respeitados os princípios administrativos ali estampados (fls. 620-623).
+É o relatório.
+Decido.
+Quanto à controvérsia, não é cabível a interposição de Recurso Especial fundado na ofensa a princípios, tendo em vista que não se enquadram no conceito de lei federal.
+Nesse sentido: "O art. 105, III, "a", da CF, ao dispor acerca da interposição de recurso especial, menciona a ocorrência de violação à lei federal, expressão que não inclui os princípios". (AgInt no AREsp n. 826.592/RS, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 13.6.2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.304.346/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 8.4/2019; AgRg no REsp 1.135.067/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 9.11.2015.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+Argumenta o Apelante acerca da ausência de materialidade do dano ambiental, ante à ausência de visita in loco, haja vista que as provas foram colhidas através de imagem de satélite, que tais imagens somente podem ser utilizadas de forma complementar e não como único suporte probatório para aferição de suposto ilícito ambiental.
+Embora as imagens que originaram o Auto de Infração nº 20033193 sejam provenientes de satélites, o auto de infração foi lavrado por agente público, o qual tem fé pública e os atos administrativos por ele realizados gozam de presunção de veracidade e legitimidade. Ademais, as imagens realizadas por satélites e corroboradas por agentes púbicos equivalem a documentos públicos, em observância ao que dispõe o art. 405 do Código de Ritos (fls. 533-537).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
