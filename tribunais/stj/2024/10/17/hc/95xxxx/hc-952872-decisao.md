@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de NAURO CONCEICAO DA SILVA, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Neste writ, a Defesa alega, em linhas gerais, a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Paciente, apontando que a fundamentação da prisão preventiva é genérica.
+Aduz que:
+"O Paciente foi cerceado de sua liberdade em 23/06/2024 por uma guarnição da Brigada Militar, através de uma denuncia anônima, no qual o flagrado supostamente estaria praticando traficando e que notando a aproximação da viatura teria em tentado fugir, mas porém foi logo abordado.
+Na ocasião os responsáveis pela prisão afirmaram que estariam em perseguição pois o flagrado tentou fugir do local.
+Ora Excelência, os policiais faltam com a verdade, pois o acusado encontrava-se no interior de sua residência dormindo, quando foi surpreendido pelos militares que invadiram sua propriedade rural.  ..  VIOLAÇÃO DE DOMICÍLIO MEDIANTE INGRESSO FORÇADO NA RESIDÊNCIA DO RÉU JUSTIFICADA PELOS POLICIAIS MILITARES COM UMA NARRATIVA MENTIROSA  .. " (fls. 4;5).
+Requer a concessão da ordem liminarmente e, no mérito, alternativamente, a substituição da prisão preventiva pela domiciliar.
+É o relatório. DECIDO.
+Os autos não retratam a excepcional hipótese de juízo provisório antecipado acerca do pedido, uma vez que não suficientemente instruídos. Dessa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à concessão da liminar, não sendo constatado, de plano, o fumus boni iuris do pedido, pois não foi juntada a íntegra do acórdão hostilizado; o auto de prisão em flagrante delito e a respectiva conversão em preventiva; peças essenciais à análise das questões controvertidas.
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido:
+"Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo aos impetrantes apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 774.358/PE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 15/12/2022).
+Na presente hipótese, não se verifica, da análise da decisão do Tribunal de origem, a existência de qualquer flagrante ilegalidade, e, como registro:
+"Relativamente à tese de nulidade da prova decorrente de violação de domicílio, dos elementos informativos colhidos até o momento não se verifica, em cognição sumária, irregularidade na atuação dos policiais militares que, ao receberam informações de que um indivíduo chamado Nauro estaria comercializando entorpecentes em um endereço específico, tendo-lhes sido repassado que ele estaria vestindo camiseta preta e calça de abrigo cinza, os policiais dirigiram-se ao endereço indicado, e chagando ao local viram o paciente, cujas características correspondiam àquelas anteriormente informadas, escondendo um objeto metálico na casa do cachorro, e que ele, ao ver a guarnição tentou fugir, sendo abordado. Com o paciente foram encontrados três aparelhos de telefone celular e dinheiro, assim como foram encontrados entorpecentes, consistentes em 05 porcões de maconha totalizando 21,69g, 02porções de cocaína pesando 3,6g, e 05 porções de crack pesando 3,06g.
+A tese apresentada pela defesa, de que os policiais teriam mentido em seus depoimentos a fim de justificar a ilegal invasão no domicílio do réu é matéria de prova e deverá ser objeto de análise pelo juízo de origem, no momento oportuno, e não nesta via o de análise pelo juízo de origem, no momento oportuno, e não nesta via estreita do Habeas corpus, em momento processual ainda tão incipiente." (fl. 19)
+Ante o exposto, com fulcro no art. 34, inc. XX e art. 210, do RISTJ, não conheço do presente habeas corpus.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intimem -se.
+EMENTA
