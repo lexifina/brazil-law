@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO BRADESCO S.A. (BRADESCO) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 210/224).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, BANCO alegou a violação dos arts. 139, 489, § 1º, IV, 1.022, II, 505,507, 509, § 4º, do CPC, ao sustentar que (1) o acórdão foi omisso; (2) houve violação à coisa julgada, pois os cálculos elaborados pela autora estão em desacordo com a decisão judicial transitada em julgado,
+Da omissão e da negativa de prestação jurisdicional
+Em suas razões recursais BRADESCO alegou que ficou caracterizada a negativa de prestação jurisdicional, tendo em vista que não houve manifestação no tocante as seguintes alegações: (A) a sentença se limitou às duas cédulas de crédito bancário, nada decidindo sobre conta garantida; operações de desconto e possíveis débitos sem justificativa; (B) a liquidação deve ficar subordinada ao que foi decidido no título executivo; (C) os cálculos homologados foram os mesmos apresentados na fase de conhecimento, sem observância ao que foi decidido; (D) o erro de cálculo não preclui e pode ser alegado e decidido a qualquer tempo, evitando-se o vedado enriquecimento ilícito.
+Com razão.
+Como emana dos autos, VIATON INDÚSTRIA COMÉRCIO DE ROUPAS LTDA - MICROEMPRESA (VIATON) ingressou com a presente ação revisional (e-STJ, fls. 02/17 - apenso), julgada parcialmente procedente em primeira instância, cujo dispositivo ora se transcreve:
+Em virtude do exposto, e por tudo mais que dos autos consta, JULGO PROCEDENTE, EM PARTE, o pedido inicial, para determinar o requerente pagar o débito da seguinte forma: a capitalização mensal de juros; devendo a correção monetária ser calculada de acordo com o INPC, mantendo os juros remuneratórios pactuados, e ainda os juros de mora de 1% ao mês, mais multa de 2% sobre o valor das parcelas que se encontram em atraso, sem cumulação com comissão de permanência, respeitando-se os demais encargos incidentes e despesas referentes à cobrança (e-STJ, fls. 201 - apenso).
+Interposta apelação por ambas as partes, o Tribunal de Justiça de Goiás deu parcial provimento ao recurso de VIATON para que no período de inadimplência incidam os encargos previstos nos contratos e deu parcial provimento ao recurso de VIATON para arbitrar os honorários advocatícios em R$ 2.000,000 para cada causídico (e-STJ, fls. 271/272 - apenso).
+O agravo regimental interposto pelo BRADESCO foi acolhido para reconsiderar em parte a decisão monocrática anterior, determinando a redistribuição dos ônus sucumbenciais, com a condenação de VIATON ao pagamento integral das custas processuais e dos honorários advocatícios (e-STJ, fls. 286/292).
+Iniciada a fase de cumprimento de sentença, foi deferida a produção de prova pericial (e-STJ, fls. 372 - apenso).
+De acordo com as decisões prolatadas em primeira instância, o banco foi intimado várias vezes para juntada de documentos solicitados pelo perito, quedando-se inerte, o que culminou na homologação dos cálculos apresentados pela VIATON (e-STJ, fls. 43/45).
+Em face dessa decisão, foi interposto agravo de instrumento, sob o argumento de que houve manifesta violação à coisa julgada, já que a conta garantida, as operações de descontos e os possíveis débitos sem justificativa não fizeram parte do título executivo, que estava restritos às cédulas de crédito já apresentada nos autos.
+O Tribunal de Justiça de Goias negou provimento ao referido agravo, ressaltando que:
+Neste ponto, ao contrário do que alega a agravante, observo terem sido incluídas no cálculo todas as operações invocadas pela agravada para demonstrar as irregularidades perpetradas pela instituição financeira, a fim de apurar os valores pagos a maior ou debitados indevidamente, com a incidência de correção monetária pelo índice INPC e juros de mora de 1% (um por cento) ao mês, nos termos dos parâmetros estabelecidos da sentença (e-STJ, fls. 89/91).
+Diante de tais circunstâncias, evidente que a questão central do recurso interposto por BRADESCO, qual seja, que o título executivo objeto da liquidação estava restrito às cédulas de crédito já apresentada nos autos, não foi devidamente enfrentada pelo Tribunal estadual.
+Aliás, importante consignar que constou do próprio relatório da sentença que a presente ação declaratória cumulada com revisional proposta por VIATON contra BRADESCO era referente à Cédula de Crédito Bancário firmado entre as partes, no valor de R$ 30.000,00 (trinta mil reais) (e-STJ, fls. 195), ressaltando mais adiante que:
+No caso em discussão, observa-se legalidade na aludida capitalização, haja vista que no contrato, objeto do presente litígio (fls. 154/167), prevê a liciedade da cobrança do encargo nos termos do regramento suso mencionado (Medida Provisória). (e-STJ, fls. 199, sem destaque no original).
+Considerando que as contas apresentadas por VIATON e homologadas pelo juízo monocrático incluíram as operações de "conta garantida", "capital de giro", "Desconto de duplicatas" e débitos sem justificativa" (e-STJ, fls. 323/349), não abrangidas no título executivo, necessário o retorno dos autos para que o Tribunal estadual analise o argumento de que a revisão está restrita aos contratos já apresentados nos autos às fls. 154/167 (e-STJ, fls. 127/140).
+É condição sine qua non ao conhecimento do recurso especial que a questão de direito ventilada nas suas razões tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o Tribunal paranaense a se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+A propósito, cite-se o precedente abaixo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro OG FERNANDES, Segunda Turma, julgado em 16/8/2022, DJe de 24/8/2022, sem destaque no original.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RETORNO DOS AUTOS À ORIGEM. NECESSIDADE. OMISSÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso, verificada a omissão, acolhem-se os embargos para suprir o vício.
+3. Embargos de declaração acolhidos sem efeitos infringentes.
+(EDcl nos EDcl no AgInt no AgInt no AREsp n. 1.750.302/PR, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022, sem destaque no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. EMBARGOS DE TERCEIRO. CONTRATOS GARANTIDOS POR HIPOTECA. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. CONFIGURADA. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação de execução. Embargos de terceiro.
+2. A existência de omissão e ausência de fundamentação relevantes à solução da controvérsia, não sanadas pelo acórdão recorrido, caracteriza violação dos arts. 489 e 1.022 do CPC/2015.
+3 - Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.932.995/RJ, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, j. em 14/02/2022, DJe 16/02/2022, sem destaque no original).
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a análise das demais violações apontadas.
+Nessas condições, com fundamento no art. 1.042, § 5º, do CPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para DAR PARCIAL PROV I MENTO ao recurso especial determinando o retorno dos autos ao Tribunal de Justiça de Goiás para que analise as questões trazidas nos embargos de declaração, em especial a violação à coisa julgada, tendo em vista que o título exequendo está limitado às cédulas de crédito já apresentada aos autos às fls. 154/167 (e-STJ, fls. 127/140).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO DECLARATÓRIA E REVISIONAL. CUMPRIMENTO DE SENTENÇA. DISPENSA DE REALIZAÇÃO DE PERÍCIA POR INÉRCIA DO BANCO. HOMOLOGAÇÃO DOS CÁLCULOS APRESENTADOS PELA AUTORA. VIOLAÇÃO DA COISA JULGADA. INCLUSÃO DE OPERAÇÕES NÃO ABRANGIDAS NO TÍTULO EXECUTIVO. TESE NÃO ANALISADA PELO TRIBUNAL ESTADUAL. INFRINGÊNCIA DO ART. 1.022 DO CPC. OMISSÃO QUANTO À ANÁLISE DE TEMAS RELEVANTES PARA O DESLINDE DA CAUSA. RECONHECIMENTO. IMPOSSIBILIDADE DE JULGAMENTO POR ESTA CORTE. RETORNO DOS AUTOS PARA APRECIAÇÃO DOS EMBARGOS DE DECLARAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
