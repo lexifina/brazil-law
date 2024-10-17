@@ -1,0 +1,34 @@
+DECISÃO
+LUCAS VELOSO MARTINS alega sofrer coação ilegal pelo Tribunal de Justiça do Estado do Mato Grosso do Sul (HC n. 1410719-12.2024.8.12.0000).
+Nesta Corte, sustenta a defesa a falta de fundamentação idônea para manter a prisão processual do réu, pela suposta prática de dois crimes de homicídio qualificado, um consumado e uma tentativa. Aduz o excesso de prazo de constrição, que remonta ao dia 8/5/2024 (fl. 531). Afirma que não houve revisão periódica da custódia, em violação ao disposto no art. 316, parágrafo único, do Código de Processo Penal.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a fixação de medidas alternativas.
+Indeferida a liminar e prestadas as informações, opinou o MPF pelo não provimento do recurso (fls. 531-532; 542-549; 551-559; 562-566).
+Decido.
+Expõem os autos que, em 2/5/2022, o Magistrado de primeiro grau decretou a prisão preventiva do acusado, pela suposta prática de dois delitos de homicídio qualificado, sob estes motivos (fls. 155-156):
+No caso, pelas provas apuradas até então, verifica-se a existência dos crimes de homicídio e de tentativa de homicídio, bem como indícios suficientes de que o representado foi um dos autores dos delitos.
+Outrossim, verifica-se presente o periculum libertatis, consubstanciado no requisito da ordem pública, porquanto, de uma análise preliminar dos autos, denota-se a gravidade concreta da conduta perpetrada pelo representado, eis que, na companhia de terceira pessoa não identificada até o presente momento, teria efetuado disparos de arma de fogo em um estabelecimento comercial, com médio fluxo de público, inclusive de crianças, vindo a ceifar a vida da vítima José Wendely da Silva Carneiro, lesionando, ainda, o ofendido Cauã Ximenes Martinez, tendo, posteriormente, evadido-se do local.
+Deste modo, presentes elementos a indicar a periculosidade do agente, ante os indícios de que integra a facção criminosa denominada Comando Vermelho, somada à gravidade dos delitos, é imprescindível a decretação da segregação provisória como medida adequada e suficiente para impedir que o representado se afaste do distrito da culpa e volte a delinquir, durante a investigação ou instrução criminal, sem olvidar a necessidade de resguardar a vida da vítima sobrevivente.
+Ante o exposto, estando presentes os requisitos dos artigos 312 e 313 do Código de Processo Penal, decreto a prisão preventiva de Lucas Veloso Martins, devidamente qualificado nos autos, com vista a garantia da ordem pública e aplicação da lei penal.
+O Tribunal de Justiça denegou o writ originário (fls. 483-488).
+Em consulta ao sítio eletrônico da Corte estadual, verificou o gabinete que, na assentada de 23/9/2024, foi preservado o cárcere provisório do réu. Designou-se a continuidade da instrução para o dia 22/10/2024.
+Feitos esses registros, passo ao exame do recurso.
+Não identifico evidente ilegalidade nas justificativas de que se valeram as instâncias ordinárias para manter a segregação preventiva do acusado, pois contextualizaram, em elementos concretos, o perigo decorrente da sua liberdade, diante da gravidade concreta das condutas que lhe foram imputadas ("disparos de arma de fogo em um estabelecimento comercial, com médio fluxo de público, inclusive de crianças" - fl. 155) e do fato de que, em tese, o réu integra a facção criminosa Comando Vermelho (fl. 156).
+Muito embora imposta a prisão cautelar em maio de 2022, depreende-se dos autos que o recorrente não foi imediatamente localizado. Só se efetivou a custódia provisória em 8/5/2024. Desde então, a ação penal tramita regularmente. A instrução se iniciou e há prognóstico de breve prosseguimento.
+Cumpre asseverar que "o próprio paciente, mesmo tendo advogado constituído nos autos, deixou de apresentar defesa preliminar, pelo que fora determinada a intimação da Defensoria Pública para oferecimento" de resposta à denúncia (fl. 487).
+Ainda, de acordo com a orientação deste Superior Tribunal, as reprimendas cominadas em abstrato para os delitos atribuídos ao acusado devem ser consideradas na análise do tempo de processamento do feito. Outrossim, o procedimento bifásico, a que se sujeitam os crimes contra a vida, naturalmente, exige período mais extenso para o trâmite processual.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO CONFIGURADO. AGRAVANTE PERMANECEU FORAGIDO POR PERÍODO SUBSTANCIAL.  ..
+1. Não se verifica o excesso de prazo sustentado pela Defesa, se considerado o tempo concreto da prisão preventiva do Agravante frente à quantidade abstrata de pena prevista para o ilícito pelo qual foi denunciado (homicídio qualificado), sobretudo quando as instâncias ordinárias registraram que eventual demora para a conclusão do feito foi ocasionada pelo próprio Réu, que esteve foragido da Justiça por cerca de 1 (um) ano e 9 (nove) meses, atraindo para o feito a incidência do enunciado da Súmula n. 64/STJ - "Não constitui constrangimento ilegal o excesso de prazo na instrução, provocado pela defesa. (SÚMULA 64, TERCEIRA SEÇÃO, julgado em 03/12/1992, DJ 09/12/1992, p. 23482)". O processo encontra-se na eminência de ser julgado, já tendo sido juntadas aos autos as alegações finais das Partes.
+2. Agravo regimental desprovido, com recomendação.
+(AgRg no HC n. 874.251/BA, relator Ministro Teodoro Silva Santos, Sexta Turma, DJe de 7/3/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PERICULOSIDADE DO AGENTE. RISCO À APLICAÇÃO DA LEI PENAL. PACIENTE FORAGIDO PRESO EM OUTRO ESTADO DA FEDERAÇÃO.  ..  EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA NÃO EVIDENCIADO.  ..  AGRAVO DESPROVIDO.
+ ..
+4. Não se verifica o exce sso de prazo para a formação da culpa sustentado pela Defesa, se considerado o tempo concreto da prisão preventiva do Agravante frente à quantidade abstrata de pena prevista para o ilícito pelo qual foi denunciado (art. 121, § 2.ª, incisos I e IV, c.c. os arts. 29, 70 e 23, § 3.º do Código Penal) e das peculiaridades do caso, considerando o longo período em que ficou foragido, sendo capturado em outro Estado da Federação (Pernambuco), "utilizando-se de documento falso para frustrar a aplicação da lei penal".
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 814.462/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 10/10/2023.)
+Quanto ao mais, observo que a Corte estadual não se pronunciou quanto ao previsto no parágrafo único do art. 316 do CPP. Nesse sentido, eventual averiguação da matéria ensejaria a indevida supressão de instância.
+Dadas as circunstâncias do fato e as condições pessoais do réu, não se mostra cabível e bastante, ao menos por ora, a fixação de providências alternativas (art. 282 c/c art. 319 do CPP).
+À vista do exposto, conheço em parte do recurso e, nessa extensão, nego-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
