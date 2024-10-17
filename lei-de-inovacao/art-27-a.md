@@ -1,1 +1,2 @@
 Art. 27-A. Os procedimentos de prestação de contas dos recursos repassados com base nesta Lei deverão seguir formas simplificadas e uniformizadas e, de forma a garantir a governança e a transparência das informações, ser realizados anualmente, preferencialmente, mediante envio eletrônico de informações, nos termos de regulamento.
+Parágrafo único. As informações sobre prestação de contas de recursos repassados com base nesta Lei serão acessíveis ao público, conforme o disposto na Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação).
