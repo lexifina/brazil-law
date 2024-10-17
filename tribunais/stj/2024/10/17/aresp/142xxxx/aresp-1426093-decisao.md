@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por UNIÃO, com fundamento na necessidade de sobrestamento em razão da afetação, pelo STF, D o RE 870.947/SE.
+Nas suas razões recursais, a parte agravante sustenta que "o Recurso Especial de fls. 323/328 versa, além da questão acessória relativa ao percentual de juros a ser aplicado no cálculo dos atrasados, a ocorrência de prescrição e o termo inicial do pagamento" (fl. 442).
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente recurso, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Colenda Segunda Turma.
+Conforme jurisprudência do STJ, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+No caso, os art. 219 do CPC não foi objeto de análise pelo Tribunal de origem, sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Quanto à prescrição, não merece reforma o aresto recorrido, pois em consonância com a jurisprudência desta Corte, conforme se depreende do seguinte precedente:
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. PARADIGMA. REQUISITO DA ATUALIDADE. AUSÊNCIA. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. Caso em que a agravante se insurge contra decisão que indeferiu liminarmente o recurso, visto que o acórdão paradigma não é contemporâneo ao momento da oposição dos embargos de divergência.
+2. Os embargos de divergência têm por objetivo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários na decisão de casos similares, sendo necessário que "o dissenso interpretativo seja atual, isto é, contemporâneo ao momento da oposição dos embargos de divergência" (EREsp 1.490.961/RS, Rel. Ministra Nancy Andrighi, Corte Especial, DJe 23/3/2018).
+3.Em nova análise, evidencia-se que a embargante não cumpriu o requisito de admissibilidade dos embargos de divergência, nos termos do artigo 266 do RISTJ, segundo o qual: "Cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal".
+4. Mesmo que assim não fosse, delimite-se que a discussão dos autos se resume em saber se a prescrição aplicada deve ser a da Súmula 85/STJ ou a prescrição do fundo do direito para os aposentados e pensionistas do extinto DNER terem os benefícios ao novo plano de cargos e salários do DNIT.
+5. O acórdão embargado da Segunda Turma, nos autos do AgInt no AREsp n. 1.711.599/PR, foi proferido ao entendimento de que na hipótese em que o servidor público aposentado pretender a equiparação de proventos com vencimento de servidores da ativa não incide a prescrição de fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que anteceder o ajuizamento da ação.
+6. A colenda Primeira Seção, com idêntica temática dos autos, no mesmo sentido do acórdão embargado, pacificou o tema no sentido de que não se opera a prescrição de fundo de direito nos casos em que se objetive a revisão dos proventos de aposentadoria, com base na paridade entre ativos e inativos. Precedente: AgInt nos EREsp n. 1.920.465/RS, relator Ministro Francisco Falcão, Primeira Seção, julgado em 31/5/2022, DJe de 2/6/2022.).
+7. Assim sendo, não cabem embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado (Súmula 168/STJ).
+8. Agravo interno não provido.
+(AgInt nos EAREsp n. 1.711.599/PR, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 20/9/2022, DJe de 27/9/2022.)
+Portanto, não merece provimento o recurso especial, com fundamento na orientação contida na Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
