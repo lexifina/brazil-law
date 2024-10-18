@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial pelo qual MAURICIO ANTONIO CORAZZA SANCHES se insurgira, com fundamento no art. 105, inciso III, alínea a , da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 396):
+ADMINISTRATIVO. INTERESSE PÚBLICO. AEROPORTOS. ÁREAS RESTRITAS. CONTROLE DE SEGURANÇA DA AVIAÇÃO CIVIL. CREDENCIAL DE ACESSO. REQUISITOS. COMPROVAÇÃO DA IDONEIDADE. CONDUTA SOCIAL.
+1. O credenciamento aeroportuário é importante instrumento de controle de acesso nos aeroportos, podendo assim ser entendido como o processo de emissão de crachá ou cartão de identificação de pessoas, expedido pela administração aeroportuária, de uso ostensivo e obrigatório, para o controle de segurança da aviação civil, conforme regramento expedido pela Agência Nacional de Aviação Civil (ANAC).
+2. Cabe à polícia federal supervisionar o acesso de pessoas às áreas restritas de segurança nos aeroportos, conforme previsto Programa Nacional de Segurança da Aviação Civil Contra Atos de Interferência Ilícita (PNAVSEC - Decreto 7.168/2010).
+3. A concessão ou renovação da credencial deve observar o Regulamento Brasileiro da Aviação Civil ( IAC 107), que determina os documentos obrigatórios para a apresentação de certidão negativa junto aos órgãos de justiça que comprovem a idoneidade do solicitante.
+4. O acesso somente é permitido após a avaliação de conduta social, que se revelava, no caso, esvaziada de confiabilidade, justamente porque o crime então imputado ao impetrante relacionava-se com o tipo de atividade que pretende exercer.
+5. Apelação improvida. Pedido de antecipação de tutela recursal prejudicado.
+Os embargos de declaração opostos foram rejeitados (fls. 433/436).
+Nas razões de seu recurso especial, a parte ora agravante alega que houve violação ao art. 2º, VI, da Lei 9.784/1999 e ao art. 1º da Lei 12.016/2009, sustentando, em síntese, que (fls. 470/471)
+ ..  o óbice ao  seu  acesso  ..  as áreas controladas e de restrição do Aeroporto de Araçatuba, local sede da sua empresa (Hangar L 16), embasado, tão somente, pela existência de feito criminal, cuja defesa já foi apresentada, atualmente em fase instrutória, não merece prosperar  .. .
+Requer que seja dado provimento ao recurso especial interposto.
+A parte adversa apresentou contrarrazões (fls. 515/532).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+Verifico que o art. 2º, VI, da Lei 9.784/1999 não foi apreciado pelo Tribunal de origem, embora tenha sido objeto dos embargos de declaração opostos às fls. 413/416.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial porque não foi preenchido o requisito constitucional do prequestionamento.
+Incide no presente caso, por analogia, a Súmula 282 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do CPC, o que não foi feito no caso dos autos.
+Ademais, quanto ao cerne recursal, a Corte regional concluiu que a negativa de concessão da credencial de acesso à área de segurança do aeroporto ocorrera dentro das atribuições da autoridade administrativa, com observâncias de normas que regem a matéria e nos limites da discricionariedade por elas conferida, nestes exatos termos (fls. 385/389):
+Com efeito, tratando-se de área de Segurança Nacional, a Administração Pública buscou restringir o acesso e fê-lo por meio de instruções normativas, com fundamento no artigo 11, V, da Lei 11.182/05. Cabe aos interessados atender aos requisitos nelas exigidos. Cumpre mencionar, neste particular, que a exigência contida nos normativos, como decorrência da discricionariedade administrativa, é razoável, proporcional e não fere o princípio da legalidade.
+Caso sejam identificados antecedentes criminais ou sociais, o operador de aeródromo deverá encaminhar a documentação do solicitante à Polícia Federal, ou ao órgão de segurança pública responsável pelas atividades de polícia no aeródromo, com solicitação formal de manifestação acerca de potencial comprometimento da segurança da aviação civil contra atos de interferência ilícita.
+Confira-se o disposto no parágrafo 107.93 do RABAC, no particular:
+ ..
+Nos termos do artigo 144, § 1º, III, da Constituição Federal, compete à polícia federal exercer as funções de polícia aeroportuária. Nesse sentido, cabe a polícia federal supervisionar o acesso de pessoas às áreas restritas de segurança nos aeroportos, conforme previsto Programa Nacional de Segurança da Aviação Civil Contra Atos de Interferência Ilícita (PNAVSEC - Decreto 7.168/2010), verbis:
+ ..
+O acesso somente é permitido após a avaliação de conduta social, mediante ato discricionário, balizado pela legislação de regência supra. O princípio da supremacia do interesse público ao privado justifica a adequada verificação da conduta social do requerente. Tal verificação não se confunde com a vedação de que se considerem inquéritos e ações penais em curso para fins de maus antecedentes, consolidada na jurisprudência do STJ (Súmula 444), porquanto esta se refere à dosimetria da pena pelo juízo criminal.
+No presente caso, conforme consta do documento de id 253211616, juntado com a inicial, a conclusão da autoridade policial com base no artigo 144, § 1º," inciso III da Constituição Federal, artigo 12, inciso IV do Decreto 7.168/2010 e no item 107.93 (e) e (i) do RBAC nº 107, Emenda nº 02, da ANAC" foi de orientar ao "setor de credenciamento do aeroporto ARAÇATUBA-SP / Aeroporto Estadual Dario Guarita - BRASIL a indeferir a solicitação de credencial aeroportuária de MAURICIO ANTONIO CORAZZA SANCHES". Segundo as informações prestadas no documento de id 253211702, o indeferimento da credencial justificava-se pelo fato da tramitação da Ação Penal 5010540-79.2020.4.04.72081, no juízo da 1ª Vara Federal de Itajaí-SC, na qual apurada associação para a prática do crime previsto no artigo 2º, caput, em combinação com os §§ 2º e 4º, inciso V, da Lei 12.850/2013.
+A autoridade impetrada cita ainda trecho da peça acusatória da referida ação penal, revelador da relação das atividades então praticadas, em que ocorreram os pretensos fatos imputados ao impetrante, com as que pretende exercer com a utilização da credencial de acesso pleiteada. Confira-se, "verbis":
+ ..
+Neste contexto, fundamentou-se a negativa de concessão de credencial no fato de se afigurar esvaziada de confiabilidade a conduta social, justamente porque o crime então imputado ao impetrante relacionava-se com o tipo de atividade que pretendia exercer.
+A propósito do tema, já me manifestei em caso análogo ao presente, em que se questionava o controle de acesso relativamente ao despachante aduaneiro:
+ ..
+Destarte, vislumbra-se que o ato impugnado fora praticado pela autoridade administrativa dentro de suas atribuições, com observâncias das normas que regem a matéria e nos limites da discricionariedade por elas conferida.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
