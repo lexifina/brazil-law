@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por ISAC DE PAULA DA SILVA desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.24.417679-8/000).
+Depreende-se dos autos que o recorrente encontra-se em custódia preventiva pela prática, em tese, de tráfico de drogas, pois tinha a guarda de 358g (trezentos e cinquenta e oito gramas) de cocaína e 244g (duzentos e quarenta e quatro gramas) de maconha, além de mais de R$ 2.000,00 (dois mil reais) em espécie - e-STJ fls. 210/211.
+Impetrado prévio writ na origem, a ordem foi denega da (e-STJ fls. 202/213).
+HABEAS CORPUS - TRÁFICO DE DROGAS - ILEGALIDADE DA PRISÃO EM FLAGRANTE - NÃO OCORRÊNCIA - VIOLAÇÃO DE DOMICÍLIO - CRIME PERMANENTE - PRESENÇA DE FUNDADAS SUSPEITAS - CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA - REVOGAÇÃO - IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR - GARANTIA DA ORDEM PÚBLICA - DECISÃO FUNDAMENTADA - PENA MÁXIMA COMINADA SUPERIOR A QUATRO ANOS - CONDIÇÕES PESSOAIS FAVORÁREIS PARA RESPONDER O PROCESSO EM LIBERDADE - IMPOSSIBILIDADE - APLICAÇÃO DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - NÃO CABIMENTO - CUSTÓDIA CAUTELAR LEGALMENTE AUTORIZADA - CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. - É admitida a realização de busca pessoal quando há fundadas suspeitas de que o agente esteja na posse de drogas, armas ou de outros objetos ou papéis que constituam corpo de delito. - A prática do crime de tráfico de drogas, por se tratar de delito permanente, autoriza a entrada dos militares na residência, ainda que sem mandado de busca e apreensão, posto que o estado flagrancial perdura no tempo. - Presentes os pressupostos e requisitos constantes nos artigos 312 e 313 do Código de Processo Penal, não há que se falar em revogação da prisão preventiva, uma vez que esta se revela indispensável para a garantia da ordem pública. - Também a pena máxima cominada ao crime em questão autoriza a custódia cautelar. - As condições favoráveis, isoladamente, não são suficientes para justificar uma ordem de soltura. - As medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, não se mostram suficientes e adequadas à prevenção e repressão dos delitos imputados ao paciente, mormente quando presentes outras circunstâncias autorizadoras da cautelar.
+Daí o presente recurso ordinário, no qual sustenta a defesa a ilegalidade da prova obtida mediante violação de domicílio.
+Aduz, ainda, a falta de fundamentação idônea da decisão que decretou a prisão cautelar. Destaca as circunstâncias pessoais favoráveis.
+Assere ser desproporcional a cautela máxima, mostrando-se suficientes as medidas cautelares diversas da prisão.
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+A liminar em habeas corpus, bem como em seu recurso ordinário, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Em juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+Isso, porque mostra-se imprescindível a análise mais aprofundada dos elementos de convicção constantes dos autos, o que ocorrerá por ocasião do julgamento definitivo.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações ao Juízo de primeiro grau - em especial o envio de cópia de eventuais decisões sobre pedidos de revogação/relaxamento da prisão preventiva - e ao Tribunal de segunda instância, ressaltando-se que esta Corte Superior deverá ser noticiada de qualquer alteração no quadro fático atinente ao tema objeto deste feito.
+Requeira-se, ainda, senha para acesso aos andamentos processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do Conselho Nacional de Justiça.
+Oportunamente, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
