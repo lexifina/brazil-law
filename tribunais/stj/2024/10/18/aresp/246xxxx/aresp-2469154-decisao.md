@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o VELLORE S/A se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal (CF), contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 273):
+ADMINISTRATIVO. INMETRO. AUTO DE INFRAÇÃO. AUTO DE INFRAÇÃO. EXPOSIÇÃO À VENDA/COMERCIALIZAÇÃO DE LÂMPADA LED SEM DATA DE FABRICAÇÃO. MULTA. LEGALIDADE. 1. O ato administrativo de imposição de multa pelo INMETRO constitui ato administrativo vinculado que goza da presunção de veracidade e legitimidade. Essa presunção, para ser afastada, necessita da comprovação acerca da existência de vícios, desvios ou abuso de poder. 2. Trata-se de caso em que comerciante que atua no mercado atacadista de materiais elétricos e eletrônicos comercializou 310 lâmpadas LED sem a respectiva data de fabricação no produto, sendo que lançou a data de fabricação apenas na embalagem, não atendendo ao regulamento técnico da qualidade aprovado pela Portaria 389/2014. 3. O arbitramento do valor da multa, respeitadas as balizas legais, é de natureza discricionária, não cabendo ao Poder Judiciário imiscuir-se em tarefa tipicamente administrativa. Assim, no caso concreto, não há espaço para sua revisão, pois o valor fixado não pode ser considerado arbitrário, estando dentro dos limites legais, e não há evidente inadequação, clara falta de proporcionalidade ou manifesta ausência de razoabilidade. 3. Sentença reformada.
+Os embargos de declaração opostos foram rejeitados (fls. 343/374).
+Nas razões de seu recurso especial, a parte ora agravante alega violação aos arts. 9º da Lei 9.933/1999 e 2º, caput e parágrafo único, VI e VII, da Lei 9.784/1999, ao argumento de que a multa aplicada pelo INMETRO é infundada e desproporcional, na medida em que, além de o valor apresentado ser excessivo, as infrações indicadas, tais como o erro quanto à data de fabricação, não trariam prejuízo ao consumidor.
+A parte ora agravada apresentou as contrarrazões (fls. 407/421).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A irresignação não comporta conhecimento.
+Compulsando os autos, o Tribunal de origem assim se manifestou (fls. 281/283):
+Logo, o ato normativo determina que a data de fabricação (mês e ano) deve ser indicada tanto no produto quanto na embalagem.
+O auto de infração foi lavrado em razão de não ter data de fabricação no produto.
+A parte autora confessou, em sua inicial, que realmente lançou a data de fabricação apenas na embalagem, e não no produto, mas entendeu que, pela ausência de dano ao consumidor, o erro foi formal e, consequentemente, a infração não foi grave, motivo pelo qual a multa aplicada deve ser anulada.
+Acrescentou, ainda, que "a impressão no corpo das lâmpadas foi corrigida logo na sequencia do equívoco, não lesando qualquer cliente" (ev1, inic1, p.2).
+Desta feita, a comercialização das lâmpadas ocorreu em desconformidade com as determinações estabelecidas na norma de regência, devendo ser mantido o auto de infração, bem como a multa aplicada.
+
+No caso dos autos, a multa foi aplicada no valor de R$ 20.480,00 (vinte mil, quatrocentos e oitenta reais).
+A Lei n. 9.933/99 estabelece parâmetros mínimo e máximo a serem observados no âmbito da discricionariedade do ato administrativo. Nada obstante, a quantificação da multa acima do mínimo legal deve ser motivada, ainda que a decisão apenas faça referência de concordância com a fundamentação contida em ato anterior diverso daquele que fixou a multa, como pareceres, informações, decisões ou propostas, conforme possibilita o §1º do art. 5º da Lei n. 9.784/99.
+Consoante o art. 9º da Lei 9.933/1999, a multa poderia variar de R$ 100,00 a R$ 1.500.000,00. Se a multa foi fixada em R$ 20.480,00, não me parece que a motivação existente pudesse ser tida por inexistente ou insuficiente, até porque do contrário a atividade administrativa acabaria inviabilizada e deixaria de atender ao princípio da eficiência de que trata o artigo 37-caput da CF.
+O Tribunal de origem reconheceu, diante das circunstâncias específicas que a hipótese apresentava, que ficou comprovada a ocorrência de infração prevista na legislação de regência e a consequente legalidade da multa aplicada, bem como a impossibilidade de alterar o valor da sanção, ante a obediência aos parâmetros legais.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
