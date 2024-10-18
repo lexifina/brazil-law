@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CARLOS JOSE CARDOSO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim resumido:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. IMPUGNAÇÃO AOCUMPRIMENTO DE SENTENÇA EM AÇÃO MONITÓRIA. AUSÊNCIA DE EMBARGOSMONITÓRIOS. CONSTITUIÇÃO DE TÍTULO EXECUTIVO JUDICIAL. ALEGAÇÃO DEEXCESSO DE EXECUÇÃO EM SEDE DE IMPUGNAÇÃO AO CUMPRIMENTO DESENTENÇA. PRECLUSÃO TEMPORAL. MATÉRIA COBERTA PELA COISA JULGADA. RECURSO CONHECIDO E IMPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 525, §§ 1º e 4º, do CPC, no que concerne à legalidade de impugnação ao cumprimento de sentença com fundamento no excesso de execução, pela indevida aplicação de juros e tarifas, trazendo a seguinte argumentação:
+19. Trata-se de notória inobservância à vigência da Lei Federal n. 13.105/2015. Afinal, o egrégio Tribunal de Justiça do Estado do Espírito Santo ao externar o entendimento de rejeição da impugnação da sentença, fundamentando que a impugnação ao cumprimento de sentença apenas poderá veicular excesso de execução superveniente à constituição do título executivo, sendo vedada a discussão a acerca dos encargos remuneratórios e moratórios da Cédula de Crédito Bancário, NEGOU VIGÊNCIA ao artigo 525, caput e § 1º e 4º do Código de Processo Civil.
+20. Isso porque esse entendimento é contrário ao preceituado no Código de Processo Civil que assegura ao executado a possibilidade de defender-se no procedimento de cumprimento de sentença através da impugnação, e inclusive suscitar excesso de execução. Veja-se
+ ..
+21. Desta forma, observa-se que o Código de Processo Civil autoriza a alegação de excesso de execução na fase de cumprimento de sentença, não havendo que se falar em preclusão.
+22. Ademais, além de ter sido suscitada corretamente a impugnação de excesso de execução, houve a devida comprovação do valor que entende correto, satisfazendo o requisito do § 4º do artigo 525 do Código de Processo Civil. Veja-se:
+ ..
+23. Ressalta-se que, conforme os cálculos da inicial, o recorrente seria devedor da quantia de R$ 60.372,86 (sessenta mil trezentos e setenta e dois reais e oitenta e seis centavos). Ocorre que, o contrato celebrado entre as partes evidencia diversas irregularidades apontadas pela auditoria extrajudicial, como prática de juros capitalizados, taxas de juros exorbitantes, excesso de tarifas e outros.
+24. Diante desta constatação, foram realizados novos cálculos que apontaram uma cobrança a maior de cerca de R$ 15.444,46 (quinze mil quatrocentos e quarenta e quatro reais e quarenta e seis centavos), de forma que para a recorrente, o valor correto seria na monta de R$ 42.215,62 (quarenta e dois mil duzentos e quinze reais e sessenta e dois centavos) em 10/08/2018.
+25. Por todos os ângulos que se examina a questão, não se vislumbra o menor sinal de preclusão, intempestividade, ou qualquer outra preliminar ou impedimento que poderia obstar a análise do mérito e certamente o acolhimento da pretensão do Recorrente, uma vez que agiu amparado pelo preceituado no art. 525 do Código de Processo Civil.
+26. Nesse sentido, destaca-se ainda, que não há qualquer óbice à alegação de juros excessivo em sede de impugnação ao cumprimento de sentença, justamente por se tratar de matéria passível de impugnação, à luz do art. 525, § 1º, inciso V do CPC (fls. 184/186).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Isso porque, novamente o devedor objurga os encargos remuneratórios da Cédula de Crédito Bancário, bem como a planilha de evolução do débito firmada com base nas cláusulas contratuais que não foram impugnadas no processo de conhecimento em razão da revelia e, posteriormente, avalizadas pela decisão que converteu a monitória em cumprimento de sentença.
+Como assentado no acórdão objurgado, nos termos do art.525, a impugnação ao cumprimento de sentença apenas poderá veicular excesso de execução superveniente à constituição do título executivo, sendo vedado a discussão a acerca dos encargos remuneratórios e moratórios da Cédula de Crédito Bancário.
+Assim, é evidente a tentativa do embargante em afrontar a coisa julgada material em sede de impugnação ao cumprimento de sentença.
+ ..
+Com efeito, em não se tratando de juros de mora e correção monetária aplicados após a formação do título, opera-se a preclusão máxima, descabendo apontar, sob a roupagem de excesso de execução, a onerosidade das cláusulas contratuais (fls. 171/173, grifo meu).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 19.11.2019; AgInt no AREsp n. 1.637.445/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp n. 1.647.046/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.8.2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
