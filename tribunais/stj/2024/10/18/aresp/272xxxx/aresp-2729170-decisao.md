@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que negou seguimento ao recurso especial interposto por ARNALDO RIBEIRO FIUSA com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ Fl. 249):
+APELAÇÃO CÍVEL - CONSUMIDOR - INVERSÃO DO ÔNUS DA PROVA - REQUISITOS - AUSÊNCIA - NEGATIVAÇÃO - DÍVIDA COMPROVADA - EXERCÍCIO REGULAR DE DIREITO - LITIGÂNCIA DE MÁ-FÉ. Certo é que, ainda que se trate de relação de consumo, a inversão do ônus da prova somente ocorre se preenchidos os requisitos de verossimilhança nas alegações e hipossuficiência do consumidor, situação não verificada nos autos. Confessada a contratação e o próprio inadimplemento, a inscrição em rol de maus pagadores decorre de exercício regular de direito do credor. Litiga com má-fé a parte que, sabidamente sem razão, subverte por completo a veracidade dos fatos, com o único intuito de obter vantagem indevida.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta o recorrente, ora agravante, que o Tribunal a quo negou vigência aos arts. 80 e 81 do CPC/2015, pois não agiu com má-fé, exerceu seu direito de recorrer.
+Defende, ainda, que não pode prevalecer a multa aplicada em sede de embargos declaratórios, na melhor interpretação do art. 1.026, § 2º, do CPC/2015, visto que o direito de recorrer não é motivo para aplicação de penalidade.
+As contrarrazões ao recurso especial foram apresentadas a fls. 345/354.
+O referido recurso especial não foi admitido por se entender incidente na espécie a Súmula 7/STJ.
+Daí porque foi interposto o presente recurso.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+A parte recorrente busca afastar a imputada litigância de má-fé, na forma do art. 80 do CPC/2015.
+Acerca da temática recursal, o Tribunal a quo asseverou que (e-STJ Fl. 257) o autor da ação de indenização, recorrente, ora agravante, agiu com extrema má-fé no feito, trazendo afirmações contraditórias de modo a subverter a verdade dos fatos, na vã tentativa de obter vantagem indevida, e, por sua atitude, deve ser reputado litigante de má-fé, na forma do art. 80 do CPC, sujeitando-se à multa prevista no art. 81 do mesmo diploma legal.
+De acordo com a orientação do Superior Tribunal de Justiça, a "litigância de má-fé, passível de ensejar a aplicação da multa estabelecida no art. 80 do NCPC, configura-se quando houver a prática de atos inúteis ou desnecessários à defesa do direito e à criação de embaraços à efetivação das decisões judiciais, ou seja, na insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios" (AgInt no AREsp 1.915.571/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 16/11/2021, DJe 19/11/2021).
+Confiram-se ainda os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. INTERPOSIÇÃO DE DOIS AGRAVOS INTERNOS CONTRA A MESMA DECISÃO. NÃO CABIMENTO. OBSERVÂNCIA AO PRINCÍPIO DA UNICIDADE OU UNIRRECORRIBILIDADE RECURSAL. RECONHECIMENTO DA PRECLUSÃO CONSUMATIVA QUANTO AO SEGUNDO RECURSO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO MONOCRÁTICA (ART. 1.021, § 1º, DO CPC/2015). LITIGÂNCIA DE MÁ-FÉ NÃO VERIFICADA. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO CONHECIDO.
+1. É inadmissível o conhecimento do segundo agravo interno interposto, pois, em observância ao princípio da unicidade ou unirrecorribilidade recursal, só se admite um recurso contra uma única decisão judicial, salvo os embargos de declaração e o recurso extraordinário. Em ocasião anterior assentou-se nesta Corte que "é manifestamente incabível o segundo e o terceiro recursos interpostos pela mesma parte, contra a mesma decisão, em razão da preclusão consumativa e do princípio da unirrecorribilidade" (AgInt no RE nos EDcl no AgInt no REsp 1.701.567/PE, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 21/05/2019, DJe 24/05/2019).
+2. Nos termos do art. 1.021, § 1º, do CPC/2015, não há como conhecer do agravo interno que não combata o fundamento da decisão monocrática.
+3. A jurisprudência desta Corte entende que a parte recorrente, ao fazer uso do sistema de peticionamento eletrônico, responsabiliza-se pela correta identificação do recurso, endereçamento e transmissão dos documentos, devendo, por isso, arcar com as consequências do envio de petição irregular.
+4. Quanto ao requerimento da parte contrária para que seja imposta multa, tem-se que, por enquanto, ele não merece prosperar, pois, conforme entendimento desta Corte, a "litigância de má-fé, passível de ensejar a aplicação da multa estabelecida no art. 80 do NCPC, configura-se quando houver a prática de atos inúteis ou desnecessários à defesa do direito e à criação de embaraços à efetivação das decisões judiciais, ou seja, na insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios" o que não se verifica na espécie (AgInt no AREsp 1.915.571/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 16/11/2021, DJe 19/11/2021).
+5. Consoante dispõe a Segunda Seção do STJ, não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração.
+6. Agravo interno não conhecido."
+(AgInt no AREsp 2.686.991/CE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/09/2024, DJe de 25/09/2024)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE AGRAVO DE INSTRUMENTO. LITIGÂNCIA DE MÁ-FÉ. CONFIGURAÇÃO. MULTA. REEXAME DAS CONCLUSÕES ADOTADAS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULAS 7 E 568 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Caracterizada a litigância de má-fé dos recorridos, pela tentativa de alterar a verdade dos fatos, correta sua condenação ao pagamento da multa de 1% sobre o valor da causa, prevista nos arts.
+80, II, e 81, caput, do CPC/2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ) .
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.363.239/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/04/2024, DJe de 18/04/2024)
+Por outro lado, relativamente à multa aplicada no âmbito dos embargos de declaração, na forma do art. 1.026, §2º, do CPC/2015, o recurso especial merece ser provido. A oposição de embargos de declaração, com nítido fim de prequestionamento, não possui caráter protelatório, não ensejando a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, nos termos da Súmula 98/STJ.
+Confira-se:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. FORNECIMENTO DE MERCADORIA. GRATUIDADE DE JUSTIÇA. INDEFERIDO REEXAME DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. SENTENÇA DE EXTINÇÃO DA AÇÃO EM RELAÇÃO AOS CORRÉUS. ABANDONO DA CAUSA. ARTIGO SEM CONTEÚDO NORMATIVO. SÚMULA 284 DO STF. MULTA DO ART. 1.026 DO CPC/2015. AFASTADA. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7 do STJ).
+2. Nos termos da jurisprudência do STJ, é deficiente a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial. Súmula 284 do STF.
+3. Consoante orientação desta Corte Superior, "a oposição de embargos de declaração, com nítido fim de prequestionamento, não possui caráter protelatório, não ensejando a aplicação da multa prevista no art. 1.026, § 2º, do CPC de 2015 (art. 538, parágrafo único, do CPC de 1973), nos termos da Súmula 98/STJ" (AgInt no AREsp 1.684.291/RS, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 31/8/2020, DJe 23/9/2020).
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.124.956/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/09/2023, DJe de 22/09/2023)
+Dessa forma, o acórdão recorrido deve ser reformado em parte, para que seja retirada a multa aplicada no âmbito dos embargos de declaração.
+Diante do exposto, conheço do agravo para conhecer do recurso especial e dar-lhe parcial provimento, a fim de afastar a multa aplicada no âmbito dos embargos de declaração.
+Publique-se.
+EMENTA
