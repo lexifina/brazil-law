@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARCIANO DE LIMA contra decisão monocrática que, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, deu provimento ao recurso especial, para reduzir sua pena (e-STJ, fls. 428-430).
+A parte embargante afirma que a decisão é omissa, na medida em que deixou de reconhecer a extinção da punibilidade decorrente da readequação da pena.
+Pede, ao final, o provimento dos aclaratórios, para sanar os supostos vícios apontados.
+É o relatório.
+Decido.
+Os embargos não merecem ser acolhidos.
+Dispõe o art. 619 do CPP:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão."
+Cumpre registrar que os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+Na hipótese em apreço, vale lembrar que o cálculo da prescrição da pretensão punitiva somente pode ser feito a partir da pena imposta em concreto se a nova reprimenda já tiver transitado em julgado para a acusação, nos termos do art. 110, § 1º, do CP. Como esta decisão ainda é recorrível por parte do Ministério Público, não é possível, por enquanto, utilizar a pena nela fixada para fins prescricionais. Nesse sentido:
+"PENAL E PROCESSUAL PENAL. RECURSOS ESPECIAIS. PECULATO. CONSTITUIÇÃO ILÍCITA DE CRÉDITO DE ICMS INEXISTENTE. FRAUDE ENVOLVENDO SERVIDORES E SECRETÁRIO DE GOVERNO ESTADUAIS, CONSELHEIRO DO TCE/PR E PARTICULARES. INCOMPETÊNCIA DA JUSTIÇA ESTADUAL DE PRIMEIRO GRAU AFASTADA. PRESCRIÇÃO NÃO CONFIGURADA. PRIMEIRA E SEGUNDA DECISÃO DE RECEBIMENTO DA DENÚNCIA ANULADAS. INTERRUPÇÃO DO PRAZO APENAS EM 2009, COM O TERCEIRO RECEBIMENTO, QUE PERMANECE VÁLIDO. INVIABILIDADE DE CONTAR O PRAZO PRESCRICIONAL PELA PENA CONCRETA ANTES DO TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ACORDOS DE COLABORAÇÃO PREMIADA. APRESENTAÇÃO DA RAZÕES FINAIS NO MESMO MOMENTO PROCESSUAL DOS RÉUS COLABORADORES. AUSÊNCIA DE PREJUÍZO. ART. 563 DO CPP. FALTA DE INTIMAÇÃO QUANTO AO ACORDO CELEBRADO POR CORRÉU, ANTES DO INTERROGATÓRIO DO COLABORADOR. NULIDADE NÃO CONFIGURADA. POSSIBILIDADE DE EXERCÍCIO DO CONTRADITÓRIO POR QUASE 2 ANOS, ANTES DOS MEMORIAIS E DA PROLAÇÃO DA SENTENÇA. USO DE PROVA EMPRESTADA. IDENTIDADE DE PARTES. DESNECESSIDADE. PROVA QUE, ADEMAIS, NÃO FOI DECISIVA OU MESMO INFLUENTE PARA A CONDENAÇÃO. ALEGADA INEXISTÊNCIA DE DOLO OU DE COMPROVAÇÃO DA MATERIALIDADE. SÚMULA 7/STJ. DOSIMETRIA DA PENA. VALORAÇÃO IDÔNEA DAS VETORIAIS DO ART. 59 DO CP, EXCETO QUANTO À CULPABILIDADE DO RÉU INGO, POR CONSISTIR EM BIS IN IDEM COM A MAJORANTE DO ART. 327, § 2º, DO CP. QUANTUM DE AUMENTO DA PENA-BASE POR CADA VETORIAL NEGATIVADA. REDUÇÃO PARA 9 MESES. RECURSO ESPECIAL DO RÉU INGO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, PROVIDO EM PARTE, A FIM DE REDUZIR SUA REPRIMENDA. DEMAIS RECURSOS DESPROVIDOS. READEQUAÇÃO DAS PENAS DE OFÍCIO, PELO ART. 580 DO CPP.
+ ..
+5. Antes do trânsito em julgado para a acusação, é inviável contar o prazo prescricional com parâmetro na pena concretamente aplicada, nos termos do art. 110, § 1º. Neste específico momento processual, como o MP/PR segue buscando a elevação das reprimendas, a prescrição permanece atrelada ao máximo da pena prevista em abstrato.
+ ..
+14. Recurso especial do réu INGO conhecido em parte e, nesta extensão, parcialmente provido, somente para reduzir a pena. Demais recursos desprovidos. Reprimendas dos corréus ajustadas de ofício, com fundamento no art. 580 do CPP.
+(REsp n. 1.879.241/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/8/2021, DJe de 10/8/2021.)
+Logo, até que ocorra o trânsito em julgado da decisão embargada para a acusação, a prescrição continuará a ser regida pela pena arbitrada na origem, por ser essa a pena com a qual já se conformou o Ministério Público. Ocorrendo eventualmente o trânsito em julgado da presente decisão para o Parquet, aí sim será possível valer-se da pena de 1 ano, 10 meses e 15 dias de detenção aqui fixada para definir o prazo prescricional.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
