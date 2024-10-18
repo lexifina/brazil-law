@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CENTRO DE CULTURA PROF LUIZ FREIRE para impugnar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO.
+No recurso, interposto com fundamento exclusivo em a, o recorrente aponta como violados os arts. 489, § 1º, IV e VI e 1022 do CPC, o art. 264 do Código Civil e o art. 22 da Lei 8.212/91.
+Recurso admitido na origem, por decisão fundamentada.
+É o relatório.
+Não cabe conhecer do recurso, primeiramente, quanto à alegação de violação ao art. 264 do Código Civil, por defeito de prequestionamento, haja vista que o acórdão recorrido não conferiu solução à controvérsia por meio da interpretação de tal dispositivo, e a parte sequer apontou eventual omissão quanto ao ponto em seus embargos declaratórios. Trata-se, enfim, de inovação recursal, para a qual incide o óbice da Súmula 282/STF.
+Rejeito, além disso, a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Por fim, quanto à alegada violação ao art. 22 da Lei 8.212/91, observo que o acórdão recorrido conferiu solução à controvérsia nos seguintes termos (fls. 1.164):
+No tocante à Certidão de Dívida Ativa n. 37.253.040-0, penso que a pretensão recursal é infundada.
+A imunidade prevista no art. 195, § 7º, da CF/88 não abrange as contribuições destinadas a terceiros, restringindo-se às contribuições para a seguridade social. Diferentemente destas, as contribuições sociais destinadas ao financiamento do "Sistema S" são contribuições de interesse das categorias profissionais ou econômicas, enquanto as contribuições para o SEBRAE e o INCRA têm natureza de contribuição de intervenção no domínio econômico.
+Trago, nesse sentido, precedentes do Supremo Tribunal Federal e deste Tribunal Regional Federal:
+DIREITO TRIBUTÁRIO. TERCEIRO AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMUNIDADE. ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. NÃO ABRANGÊNCIA. 1. Esta Corte firmou entendimento no sentido de que a imunidade prevista no art. 195, § 7º, da CF/1988 não abrange as contribuições destinadas a terceiros. Precedentes. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015. (ARE 1348068 AgR-terceiro, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 28/03/2022, PROCESSO ELETRÔNICO D Je-070 DIVULG 08-04-2022 PUBLIC 11-04-2022)
+Valendo-se o acórdão, exclusivamente, de fundamentação constitucional, não cabe conhecer do recurso especial no ponto, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Finalmente, concluiu o acórdão, quanto aos créditos representados na CDA 37.253.038-9 (fl. 1.165):
+Por fim, em se tratando de exceção de pré-executividade, é inviável a análise da incidência da imunidade tributária sobre os créditos representados na CDA n. 37.253.038-9. Isso porque o fundamento legal da cobrança é o art. 35 da Lei n. 8.212/91, o qual dispõe que os débitos com a União decorrentes de contribuições para a seguridade social, contribuições a título de substituição e contribuições devidas a terceiros serão acrescidos de multa de mora e juros de mora.
+Sendo assim, seria necessária dilação probatória para aferir qual é a parcela do débito que eventualmente corresponde a multa de mora e juros de mora incidentes sobre contribuições previdenciárias imputadas à agravante.
+Dissentir do acórdão recorrido, para concluir pela cognoscibilidade da exceção de pre-executividade para o enfrentamento da matéria deduzida pelo recorrente , implicaria inevitável revolvimento do substrato fático-probatório da causa, inviável em recurso especial nos termos da Súmula 7/STJ.
+Ante o exposto, conheço em parte do recurso especial e a ele nego provimento.
+Publique-se. Intimem-se.
+EMENTA
