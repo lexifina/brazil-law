@@ -1,0 +1,15 @@
+DECISÃO
+MATEUS DA SILVA SOARES alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios no Agravo em Execução n. 0717895-24.2024.8.07.0000.
+A defesa busca a comutação da pena do paciente, com base no Decreto Presidencial. n. 11.846/2023, em relação à condenação pelo delito de roubo circunstanciado.
+Prestadas as informações, o Ministério Público opinou pelo não conhecimento do writ.
+Decido.
+As instâncias ordinárias negaram a comutação com fundamento no art. 9º, parágrafo único, do Decreto Presidencial n. 11.846/2023, uma vez que o apenado não cumpriu 2/3 da pena do crime impeditivo.
+O paciente cumpre pena privativa de liberdade em razão de duas condenações distintas, pelos delitos de roubo circunstanciado e de tráfico ilícito de entorpecentes. Conforme previsão constitucional, reproduzida no art. 1º, I, do decreto em apreço, a comutação não alcança o crime hediondo ou equiparado, considerado impeditivo em relação aos outros delitos, comuns.
+Segundo o decreto, as penas correspondentes a infrações diversas devem somar-se até 25/12/2023 (art. 9º) e, na hipótese de haver concurso de crimes comuns com aqueles descritos no art. 1º, não será declarado o indulto ou a comutação da pena correspondente ao delito não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo dos benefícios (art. 9º, parágrafo único).
+No caso, como o crime hediondo foi praticado pelo paciente no dia 14/10/2020, somente a partir dessa data, factualmente, pode-se considerar que houve início da execução de suas penas. De acordo com o Tribunal estadual, "ainda que fosse computado o período de prisão cautelar relativo ao crime impeditivo (cf. acórdão 1820363), o fato objetivo é que, entre 14/10/2020 e 25/12/2023, não houve cumprimento de 2/3 da pena do crime impeditivo, que corresponderia a 3 anos e 4 meses" (fl. 413, destaquei ).
+Não há lastro jurídico para estabelecer que, a contar do dia 31/1/2019, o paciente resgatava a pena do tráfico ilícito de entorpecentes, pois o crime foi praticado quase dois anos depois, em 14/10/2020.
+É impossível contabilizar, para a execução do crime hediondo, as penas cumpridas devidamente antes de sua prática. Esse raciocínio, inadmissível até mesmo para a detração penal entre processos diversos (quando ocorre absolvição em relação a um deles), resultaria em uma espécie de crédito penal com o Estado. O preso teria saldo de pena a ser descontado em futuras condenações, antes mesmo de praticar crimes.
+Deveras, mutatis mutandis, "ressai incontroverso dos autos que os fatos que ensejaram as penas em cumprimento foram posteriores ao período de prisão pela qual a defesa busca a detração, sendo inviável o acolhimento desta pretensão, sob pena de se criar um crédito de reprimendas, eximindo o agente de sanção por futuras violações da lei penal" (AgRg no HC n. 794.951/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/5/2023, DJe de 31/5/2023).
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
