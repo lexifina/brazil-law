@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por LEOZINO CARDOSO DA SILVA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL. Ação declaratória de nulidade de empréstimo consignado c.c indenização por danos morais. Sentença de procedência. Insurgência do Banco Réu.
+PRELIMINAR. Cerceamento de defesa, em razão da necessidade de prova oral. Inocorrência. Juiz que é o destinatário da prova e pode indeferir as que reputar desnecessárias para o deslinde da controvérsia (art. 355, I, CPC). Suficiência dos documentos juntados nos autos. Preliminar rejeitada.
+MÉRITO. Autor que alega não ter contratado quatro empréstimos vinculados ao seu benefício previdenciário. Ausência de verossimilhança das alegações autorais e provas mínimas do direito alegado. Impossibilidade de inversão do ônus da prova do inc. VIII, art. 6º do CDC. Demanda judicial ajuizada após quase 10 anos do início do primeiro desconto. Valor da parcela que se revela substancial, facilmente detectável pelo correntista. Legítima expectativa na parte contrária de conformidade e consentimento. Deslegitimação da insurgência. "Supressio". Fraude de terceiro não evidenciada.
+Improcedência da ação. Inversão do ônus sucumbencial. Recurso provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 6º, VIII, do Código de Defesa do Consumidor, no que concerne ao indevido indeferimento da inversão do ônus da prova, tendo em vista que restou demonstrado que o recorrente é parte hipossuficiente, trazendo a seguinte argumentação:
+No presente caso é evidente que o recorrente é parte hipossuficiente, eis que a instituição financeira possui maiores condições de produzir a prova, qual seja, a existência e a regularidade do contrato celebrados entre as partes.
+Entretanto, o ônus da prova foi atribuído ao Recorrente, violando claramente o artigo 6º, inciso VIII, do CDC.
+Outrossim, a improcedência da ação não deve ser pautada no fato de que o autor não desincumbiu do ônus da prova, eis que é parte hipossuficiente e não possui capacidade técnica e financeira para acostar aos autos os documentos hábeis à solução da controvérsia. (fls. 417-418).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Não há qualquer dúvida de que a relação firmada entre as partes é de consumo, e deva ser regida pelo diploma consumerista. Todavia, a inversão do ônus da prova não é automática, cabendo ao juiz a apreciação dos aspectos de verossimilhança das alegações do consumidor ou sua hipossuficiência, nos termos do artigo 6º, VIII, do CDC ("VIII - a facilitação da defesa de seus direitos, inclusive com a inversão do ônus da prova, a seu favor, no processo civil, quando, a critério do juiz, for verossímil a alegação ou quando for ele hipossuficiente, segundo as regras ordinárias de experiências").
+In casu, a narrativa dos fatos não confere verossimilhança às suas alegações e há ausência de provas mínimas acerca do alegado direito do Autor, mormente ao sustentar que não contratou os empréstimos bancários. (fl. 409).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial") , porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (AgInt no AREsp 1.190.608/PI, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 24.4.2018).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13.8.2020; AgInt no AREsp 1.060.371/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17.8.2020; e REsp 1.812.278/CE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 29.10.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
