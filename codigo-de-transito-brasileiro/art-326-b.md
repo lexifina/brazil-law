@@ -1,0 +1,1 @@
+Art. 326-B. É instituída a Semana Nacional de Prevenção a Acidentes com Motociclistas, a ser realizada, anualmente, na semana que compreender o dia 27 do mês de julho, o qual é instituído como o Dia Nacional do Motociclista.
