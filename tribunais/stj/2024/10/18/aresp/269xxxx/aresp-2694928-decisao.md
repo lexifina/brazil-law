@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por Jose Luiz Conrado dos Santos, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl.487):
+PREVIDENCIÁRIO - CONCESSÃO DE BENEFÍCIO - APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA - NÃO DEMONSTRADA A INCAPACIDADE HABITUAL - HONORÁRIOS RECURSAIS - PRELIMINAR REJEITADA - APELO DESPROVIDO - SENTENÇA MANTIDA.
+1. Por ter sido a sentença proferida sob a égide do Código de Processo Civil de 2015 e, em razão de sua regularidade formal, conforme certificado nos autos, a apelação interposta deve ser recebida e apreciada em conformidade com as normas ali inscritas.
+2. Os benefícios por incapacidade, previstos na Lei nº 8.213/91, destinam-se aos segurados que, após o cumprimento da carência de 12 (doze) meses (art. 25, I), sejam acometidos por incapacidade laboral: (i) incapacidade total e definitiva para qualquer atividade laborativa, no caso de aposentadoria por invalidez (art. 42), ou (ii) incapacidade para a atividade habitual por mais de 15 (quinze) dias consecutivos, no caso de auxílio-doença (art. 59).
+3. Para a obtenção dos benefícios por incapacidade, deve o requerente comprovar o preenchimento dos seguintes requisitos: (i) qualidade de segurado, (ii) cumprimento da carência, quando for o caso, e (iii) incapacidade laboral.
+4. No caso dos autos, o exame médico, realizado pelo perito oficial, constatou que a parte autora não está incapacitada para o exercício de atividade habitual, como se vê do laudo oficial.
+5. Ainda que o magistrado não esteja adstrito às conclusões do laudo pericial, conforme dispõem o artigo 436 do CPC/73 e o artigo 479 do CPC/2015, estas devem ser consideradas, por se tratar de prova técnica, elaborada por profissional da confiança do Juízo e equidistante das partes.
+6. O laudo em questão foi realizado por profissional habilitado, equidistante das partes, capacitado, especializado em perícia médica, e de confiança do r. Juízo, cuja conclusão encontra-se lançada de forma objetiva e fundamentada, não havendo que falar em realização de nova perícia judicial. Atendeu, ademais, às necessidades do caso concreto, possibilitando concluir que o perito realizou minucioso exame clínico, respondendo aos quesitos formulados, e levou em consideração, para formação de seu convencimento, a documentação médica colacionada aos autos.
+7. Não demonstrada a incapacidade para a atividade laborativa, e sendo tal argumento intransponível, não é de se conceder o benefício postulado. E não havendo comprovação da incapacidade, fica prejudicada a análise dos demais requisitos.
+8. Os honorários recursais foram instituídos pelo CPC/2015, em seu art. 85, § 11, como um desestímulo à interposição de recursos protelatórios, e consistem na majoração dos honorários de sucumbência em razão do trabalho adicional exigido do advogado da parte contrária, não podendo a verba honorária de sucumbência, na sua totalidade, ultrapassar os limites estabelecidos na lei.
+9. Desprovido o apelo da parte autora interposto na vigência da nova lei, os honorários fixados na sentença devem, no caso, ser majorados em 2%, nos termos do art. 85, parágrafo 11, do CPC/2015, observada a suspensão prevista no artigo 98, parágrafo 3º, da mesma lei.
+10. Preliminar rejeitada. Apelo desprovido. Sentença mantida.
+Opostos embargos de declaração, foram rejeitados (fl. 531).
+Aponta o recorrente, nas razões do apelo especial, violação aos arts. 156, § 5º e 465 do CPC e 1.707 do CC, sustentando que, "em perícia médica designada pelo MM. Juízo de 1º grau, o sr. perito nomeado não é especialista na patologia do recorrente, qual seja, cardiologista, este por sua vez, entendeu que o recorrente não possuía moléstia que pudesse invalida-lo" (fl. 543).
+Defende que, "sob pena de cerceamento de defesa, reconheceram que o cargo de perito só pode ser preenchido por profissional "especialista" na respectiva área de conhecimento" (fl. 544)
+Argumenta que, "o entendimento jurisprudencial no sentido de que só deve assumir o encargo de perito o profissional que seja comprovadamente especializado na área de conhecimento do objeto da perícia" (fl. 552).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação não comporta acolhida.
+O juiz é o destinatário da prova, devendo guardar adstrição ao seu livre convencimento sob o manto da persuasão racional, competindo-lhe determinar as provas úteis à instrução do feito, até mesmo ex officio, afastando as diligências que entender inúteis ou meramente protelatórias sem que, com isso, incorra em cerceamento de defesa. (AgRg nos EDcl nos EDcl no Ag 1.102.672/BA, Rel. Ministro Napoleão Nunes Maia Filho, Quinta Turma, DJe 6/9/2010).
+De acordo com a jurisprudência consagrada nesta Corte, de fato, é facultado ao julgador o indeferimento de produção probatória que julgar desnecessária para o regular trâmite do processo, sob o pálio da prerrogativa do livre convencimento, que lhe é conferida pelo art. 370 do CPC, seja ela testemunhal, pericial ou documental, cabendo-lhe, apenas, expor fundamentadamente o motivo de sua decisão.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA E DESNECESSIDADE DE PRODUÇÃO DE PROVA. SÚMULA N. 7/STJ.
+1. A jurisprudência desta Corte é no sentido de que o julgador, destinatário final da prova, pode, de maneira fundamentada, indeferir a realização de provas e diligências protelatórias, desnecessárias ou impertinentes.
+2. Alterar a conclusão do acórdão do Tribunal a quo acerca da análise das provas e da ausência de cerceamento de defesa demandaria reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ. Precedentes.
+3. O Superior Tribunal de Justiça tem entendimento firmado no sentido de que não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova, mediante a existência nos autos de elementos suficientes para a formação de seu convencimento. Precedentes.
+Agravo interno provido.
+(AgInt no AgInt no AREsp n. 661.203/ES, relator Ministro Humberto Martins, Segunda Turma, DJe de 28/4/2023.)
+No caso, o Tribunal de origem entendeu que a perícia foi feita por profissional habilitado, adotando as seguintes razões de decidir (fls. 491/492):
+No caso dos autos, o exame realizado pelo perito oficial, constatou que a parte autora não está incapacitada para o exercício da sua atividade habitual, como se vê do laudo oficial.
+Assim, ainda que o magistrado não esteja adstrito às conclusões do laudo pericial, conforme dispõem o artigo 436 do CPC/1973 e o artigo 479 do CPC/2015, estas devem ser consideradas, por se tratar de prova técnica, elaborada por profissional da confiança do Juízo e equidistante das partes.
+O laudo em questão foi realizado por profissional habilitado, equidistante das partes, capacitado, especializado em perícia médica, e de confiança do r. Juízo, cuja conclusão encontra-se lançada de forma objetiva e fundamentada, não havendo que se falar em realização de nova perícia judicial.
+Outrossim, o laudo pericial atendeu às necessidades do caso concreto, possibilitando concluir que o perito realizou minucioso exame clínico, respondendo aos quesitos formulados. Além disso, levou em consideração, para formação de seu convencimento, a documentação médica colacionada aos autos.
+Ressalte-se que a parte autora, ao impugnar o laudo oficial, não apresentou qualquer documento técnico idôneo capaz de infirmar as suas conclusões.
+(..)
+Deveras, suas alegações não têm o condão de afastar as conclusões do . expert Fica afastada, assim, a questão preliminar. Não demonstrada, pois, a incapacidade para a atividade laborativa habitual, e sendo tal argumento intransponível, não é de se conceder o benefício postulado.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+A propósito, anote-se o seguinte precedente:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. PERÍCIA JUDICIAL. INQUIRIÇÃO DO PERITO NA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. DISPENSA DO LAUDO. ART. 421, § 2º, DO CPC. POSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. "A despeito da informalidade da perícia, o juiz da causa garantiu o acompanhamento do ato processual pelo advogado da parte e por seu assistente técnico, razão por que não se pode ver, em tal procedimento, sequer indício de cerceamento de defesa" (REsp 1.267.292/SC, Rel. Min. MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 17/9/12).
+2. O reconhecimento da incapacidade técnica do perito nomeado demandaria o reexame de aspectos fático-probatórios da lide, o que também atrai a aplicação da Súmula 7/STJ.
+3. Agravo regimental não provido."
+(AgRg no REsp 1.316.308/SC, Rel. Ministro Arnaldo Esteves Lima, DJe 22/8/2013.)
+DO EXPOSTO, nego provimento ao presente agravo .
+Publique-se.
+EMENTA
