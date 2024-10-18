@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fundamento no art. 105, inciso III, alínea c, da Constituição da República, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1.ª REGIÃO proferido no Agravo de Instrumento n. 1030997-75.2023.4.01.0000, ementado nos seguintes termos (fl. 65):
+PROCESSUAL CIVIL, FINANCEIRO E CONSTITUCIONAL - LEGITIMIDADE MUNICIPAL ATIVA PARA PROPOR "CUMPRIMENTO/EXECUÇÃO INDIVIDUAL" DE "SENTENÇA COLETIVA" (AÇÃO CIVIL PÚBLICA/MPF) ALUSIVA À COMPLEMENTAÇÃO, PELA UNIÃO, DOS REPASSES AOS FUNDEF (VMAA) - DIREITO FUNDAMENTAL À EDUCAÇÃO BÁSICA, OPERADO PELOS MUNICÍPIOS.
+1. É manifesta a legitimidade ativa do Município para postular a transferência de valores de complementação de FUNDEF que resultaram de provimento ao pedido de ação civil pública promovida pelo Ministério Público Federal com esse específico propósito.
+2. O direito reconhecido em ação civil pública não possui a finalidade de amparar interesse da União Federal, mas, de modo diverso, de assegurar o efetivo cumprimento de norma constitucional que objetiva a tutela de direito fundamental à educação, cujo, destinatário é a população, sendo o Município, por expressa vontade constitucional, o operador desse direito. Nesse sentido: (AC 0010371-47.2017.4.01.3400, DESEMBARGADOR FEDERAL MARCOS AUGUSTO DE SOUSA, TRF1 - OITAVA TURMA, PJe 14/10/2021 PAG. e AC 0077265- 39.2016.4.01.3400, DESEMBARGADORA FEDERAL GILDA SIGMARINGA SEIXAS, TRF1 - PRIMEIRA TURMA, PJe 29/04/2021 PAG.)
+3. Retirar-se do Município a legitimidade processual para pleitear direito que lhe é expressamente devido, viola a intenção e a regra expressa do legislador constitucional.
+4. Agravo de instrumento não provido.
+Consta dos autos que o Juízo singular reconheceu a legitimidade do MUNICÍPIO DE SÃO DOMINGOS DO ARAGUAIA para ajuizar execução de título judicial proferido em ação civil pública movida pelo Ministério Público Federal.
+Irresignada, a parte executada, ora recorrente, interpôs agravo de instrumento, que não foi provido (fls. 58-66).
+Nas razões do recurso especial, a parte recorrente alega que o acórdão recorrido "divergiu da jurisprudência do TRF5" (fl. 76).
+Argumenta que "a jurisprudência do Tribunal Regional Federal da 5ª Região já está consolidada no sentido da ilegitimidade ativa de municípios em execuções análogas" (fl. 83).
+Requer o provimento do recurso "a fim de que seja anulado/reformado o Acórdão recorrido, reconhecendo-se a ilegitimidade ativa do ente municipal para executar o acórdão lavrado na ação civil pública ajuizada pelo MPF, nos termos do que vem decidido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO" (fl. 85).
+Contrarrazões às fls. 99-115.
+O recurso especial foi admitido (fls. 116-119).
+É o relatório.
+Decido.
+De início, verifica-se que as razões do recurso especial não indicaram o dispositivo de lei federal cuja interpretação seria controvertida entre tribunais diversos, o que caracteriza a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF. A esse respeito: AgInt nos EDcl no AREsp n. 2.165.721/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023; AgInt no AREsp n. 2.087.834/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023.
+Outrossim, a parte recorrente não realizou o cotejo analítico nos moldes exigidos no art. 1.029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, ou seja, com a transcrição de trechos dos acórdãos recorrido e paradigma, demonstrando a similitude fática e o dissenso na interpretação do dispositivo de lei federal, sendo que a simples transcrição das ementas não satisfaz esse requisito recursal. Tal ausência inviabiliza o conhecimento do recurso especial, pela alínea c do permissivo constitucional. A esse respeito: AgInt no AREsp n. 2.388.423/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/2/2024, DJe de 23/2/2024; AgInt no REsp n. 2.082.599/D F, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/12/2023, DJe de 14/12/2023.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. EXECUÇÃO. AÇÃO CIVIL PÚBLICA. LEGITIMIDADE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE SERIA OBJETO DA DIVERGÊNCIA JURISPRUDENCIAL. INCIDÊNCIA DA SÚMULA N. 284 DO STF. COTEJO ANALÍTICO. INEXISTÊNCIA. DISSÍDIO NÃO DEMONSTRADO. RECURSO NÃO CONHECIDO.
