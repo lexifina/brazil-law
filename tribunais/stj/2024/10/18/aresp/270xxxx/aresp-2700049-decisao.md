@@ -1,0 +1,16 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ROBERTO MASSAO YAMAMOTO, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de exigir contas ajuizada pelo CONDOMINIO EDIFICIO CARDEAL em face do agravante.
+Sentença: julgou procedente o pedido para condenar o agravante ao pagamento da quantia de R$ 39.320,82, além de juros e correção monetária.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS - Ação de exigir contas - Segunda fase - Não conhecimento da apelação interposta pelo réu contra decisão proferida na primeira fase de exigir contas, por ausência de pressuposto de admissibilidade - Descumprimento, por parte do réu, do dever de prestar contas - Mera reiteração, na segunda fase da ação de exigir contas, de alegações tecidas na primeira fase, refutadas por decisão transitada em julgado - Procedência do pedido inicial, com condenação do réu ao pagamento do valor apontado pelo autor - Sentença confirmada - Recurso improvido. (fl. 424, e-STJ)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) não ficou demonstrada a alegada vulneração aos dispositivos arrolados; ii) necessidade de reexame de fatos e provas (Súmula 7/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "não se busca, aqui, a rediscussão dos aspectos fáticos ou probatórios da demanda objetivamente, o que levaria à óbice perante a Súmula nº 7 do C. STJ. Pretende-se tão somente a rediscussão sobre os critérios legais aplicados às provas consolidadas nos autos em relação ao recorrente"; ii) "a ação de exigir contas tem a finalidade de obrigar aquele que tem o dever de prestar contas e não as faz, ou faz de forma obscura dificultando sua avaliação, o que não é o caso dos autos, uma vez que já na inicial, o recorrido aponta os valores recebidos, os repassados e questiona os valores."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) não ficou demonstrada a alegada vulneração aos dispositivos arrolados; ii) necessidade de reexame de fatos e provas (Súmula 7/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro para 15% os honorários fixados anteriormente, ressalvada eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
