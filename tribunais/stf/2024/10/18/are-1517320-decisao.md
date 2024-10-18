@@ -1,0 +1,59 @@
+DECISÃO: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho, assim ementado (eDOC 50):
+
+    “AGRAVO. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. VÍNCULO DE EMPREGO. PERÍODO SEM REGISTRO. MATÉRIA FÁTICA. O e. TRT, soberano na análise das provas, concluiu pela demonstração dos elementos caracterizadores da relação de emprego, asseverando que "Verifica-se dos depoimentos das testemunhas que a prestação de serviços ocorreu antes da anotação do contrato de trabalho na CTPS, bem como permaneceu, sem solução de continuidade, após a formalização da dispensa imotivada" e que “uma vez provada a prestação de serviços, competia ao reclamado o encargo de evidenciar a natureza dessa relação, já que apresentou fato impeditivo e modificativo do direito do autor (artigos 818 da CLT e 333, II, do CPC). De tal ônus, todavia, não se desincumbiu. Ao contrário, a testemunha do autor confirmou que a prestação de serviços era realizada de maneira não eventual, com pessoalidade e subordinação”. Logo, tratando-se de questão afeta à análise do contexto fático-probatório, cujo exame se esgota no segundo grau de jurisdição, não há que se falar em violação de dispositivos de lei, tampouco em similitude fática com o aresto transcrito, ante o óbice da Súmula 126/TST do TST. Agravo conhecido e desprovido.”
+
+    Os embargos de declaração opostos desse acordão foram desprovidos. (eDOC 55). Opostos novos embargos foram novamente desprovidos e houve aplicação de multa. (eDOC 60)
+
+    No recurso extraordinário interposto com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 5º, II, LIV, LV, 93, IX, 114, I, da Constituição Federal. Alega-se ainda violação ao entendimento firmado na ADC 48 desta Corte.
+
+    Nas razões recursais sustenta-se inicialmente a nulidade do acórdão afirmando-se que não foi analisada a alegação da incompetência absoluta da Justiça do Trabalho, a qual pode ser sanável a qualquer tempo, bem como da inobservância da Lei nº 11.442/2007.
+
+    Outrossim, argumenta-se, em síntese, que “não se trata de impossibilidade de revolvimento de fatos e provas, mas de resistência da Egrégia 3ª Turma do TST em aplicar o entendimento consagrado pelo STF na ADC 48” (eDOC 62, p. 4).
+
+    A Vice-Presidência do TST negou seguimento ao recurso extraordinário, por entender que incide, na hipótese, o óbice da Súmula 279 e por não ter havido negativa de prestação jurisdicional. (eDOC 64).
+
+    É o relatório. Decido.
+
+    A irresignação não merece prosperar.
+
+    Por oportuno, trago à colação trechos do voto condutor do acórdão regional recorrido (eDOC 30, p. 12):
+
+    “Verifica-se dos depoimentos das testemunhas que a prestação de serviços ocorreu antes da anotação do contrato de trabalho na CTPS, bem como permaneceu, sem solução de continuidade, após a formalização da dispensa imotivada, verbis:
+
+    "... que começou a prestar serviços à Primeira Ré em setembro de 2004 e parou em 31.12.11, mas na CTPS foi assinado o período de 01.11.05 a 31.01.07 por exigência da Natura, que depois de dezembro de 2011 passou a ser empregado da Primeira Ré, através da empresa do grupo Eletrônico Express Ltda, CNPJ 03.338.608/0002-33, como consta na CTPS, com admissão em 0.09.12, como Motorista Utilitário, mesma função, mas com o carro da empresa, que antes tinha seu carro e era agregado e prestava serviços à Primeira Ré, sempre mercadorias da Segunda Ré, que o Reclamante iniciou o trabalho para a Primeira Ré acha que em 2006 e ele continuou trabalhando depois da saída do depoente, sem se afastar por qualquer motivo no período em que o depoente trabalhou para a Ré, que a Primeira Ré exigiu que abrissem uma empresa para a prestação de serviços, sem empregados, mas só para tirar notas, que tirava por mês uns R$ 5.000/6.000,00, que recebiam por quinzena, que não sabe o valor do Autor mas faziam quase a mesma média de notas, que tinham que pegar às 7h na sede da empresa diariamente, mesmo quando a CTPS não estava assinada, porque não mudou nada no período sem CTPS, que ao final tinham que retornar para prestar contas e quando era tarde o contato era por telefone porque não tinha quem conferisse a devolução, que terminava cerca18h., de segunda a sábado, que não recebeu mercadorias em casa para entregas, que não assinava folha de ponto, que antes da CTPS e com CTPS da Primeira recebia ordens do José Neto Gerente..."
+
+    Não é demasiado enfatizar que para ser reconhecida uma relação jurídica de emprego, mister se faz que haja comprovação da prestação de serviços por parte de uma pessoa física para outra, física ou jurídica, de maneira não-eventual, subordinada e mediante remuneração, na forma prevista nos artigos 2º e 3º da CLT.
+
+    (...)
+
+    Por outro lado, uma vez provada a prestação de serviços, competia ao reclamado o encargo de evidenciar a natureza dessa relação, já que apresentou fato impeditivo e modificativo do direito do autor (artigos 818 da CLT e 333, II, do CPC). De tal ônus, todavia, não se desincumbiu. Ao contrário, a testemunha do autor confirmou que a prestação de serviços era realizada de maneira não eventual, com pessoalidade e subordinação. Ademais, a testemunha indicada pela reclamada informou que o reclamante sempre recebeu ordens diretamente do Gerente Operacional durante todo o período em que trabalhou na empresa. Não merece prosperar ainda a alegação de que o depoimento do Sr. Mário Roberto Gomes é contraditório com o depoimento prestado em outro processo, uma vez que a informações prestadas em ambos os depoimentos são semelhantes, havendo apenas algumas diferenças quanto à jornada de trabalho. Destarte, mantenho a sentença que reconheceu o vínculo de emprego conforme postulado na inicial.”
+
+    Ademais, anota-se do voto proferido no acórdão em recurso de revista:
+
+    “Da leitura do acórdão regional, observa-se que o e. TRT, soberano na análise das provas, concluiu pela demonstração dos elementos caracterizadores da relação de emprego, asseverando que
+
+    ‘Verifica-se dos depoimentos das testemunhas que a prestação de serviços ocorreu antes da anotação do contrato de trabalho na CTPS, bem como permaneceu, sem solução de continuidade, após a formalização da dispensa imotivada" e que “uma vez provada a prestação de serviços, competia ao reclamado o encargo de evidenciar a natureza dessa relação, já que apresentou fato impeditivo e modificativo do direito do autor (artigos 818 da CLT e 333, II, do CPC). De tal ônus, todavia, não se desincumbiu. Ao contrário, a testemunha do autor confirmou que a prestação de serviços era realizada de maneira não eventual, com pessoalidade e subordinação’.
+
+    Logo, tratando-se de questão afeta à análise do contexto fático-probatório, cujo exame se esgota no segundo grau de jurisdição, não há que se falar em violação de dispositivos de lei, tampouco em similitude fática com o aresto transcrito, ante o óbice da Súmula 126/TST do TST. Nego provimento”.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, em sede de repercussão geral, reafirmou a orientação de que o art. 93, inciso IX, da Constituição não exige que o órgão judicante se manifeste sobre todos os argumentos apresentados pela defesa, mas sim que ele fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento, como ocorreu no caso em tela (AI nº 791.292/PE-RG-QO, Rel. Min. Gilmar Mendes, DJe de 13/08/2010).
+
+    Além disso, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), o Plenário da Corte ratificou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 01/02/2019).
+
+    Ademais, de acordo com os fundamentos do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo, em relação aos elementos caracterizadores do vínculo empregatício, dentre eles a não eventualidade, a pessoalidade e a subordinação, demandaria o revolvimento do conjunto fático-probatório, o que inviabiliza o processamento do apelo extremo, nos termos da Súmulas 279. Nesses termos cito:
+
+    “Direito do trabalho. Agravo interno em recurso extraordinário com agravo. Vínculo empregatício. Reconhecimento. Súmula 279/STF. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que deu provimento a recurso somente para excluir da condenação a multa por litigância de má-fé. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. O Plenário desta Corte, nos autos do ARE 748.371-RG, Rel. Min. Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. 5. O acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência da Súmula 279/STF. Precedente. IV. Dispositivo 6. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 7. Agravo interno a que se nega provimento”. (ARE 1497397 AgR, Rel. Min. Luis Roberto Barroso, Pleno, DJe 6.09.2024)
+
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC, e do art. 21, §1º, RISTF.
+
+    Publique-se.
+
+    Brasília, 18 de outubro de 2024.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
