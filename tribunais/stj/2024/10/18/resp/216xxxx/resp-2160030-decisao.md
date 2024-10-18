@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSIAS PICOLO, fundado no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Recurso em Sentido Estrito n. 00028564-09.2018.8.26.0510).
+Colhe-se dos autos que o Juízo de primeiro grau indeferiu o pedid o de indulto formulado pelo ora paciente (e-STJ fls. 738/739).
+Interposto recurso em sentido estrito pela defesa, o Tribunal de origem negou-lhe provimento, nos termos do acórdão assim ementado (e-STJ fl. 806):
+Recurso em Sentido Estrito - Indulto - Decreto Presidencial nº 11.302/2022 - Requisito objetivo não preenchido - Pleito defensivo de concessão da benesse, sob o argumento de que a maior pena cominada para o crime pelo qual o sentenciado foi condenado não superaria cinco anos - Descabimento - As causas de aumento e de diminuição de pena, gerais ou especiais, são fatores de elevação ou de redução, a serem observadas, em quantidade fixa ou em patamar variável, no cálculo dosimétrico e devem integrar, consequentemente, o preceito secundário, atuando ativamente no piso e no teto da punição abstratamente cominada para o tipo penal em que previstas tais majorantes ou minorantes - Exegese do artigo 5º, do referido decreto indulgente - Precedentes - Decisão mantida - Recurso desprovido.
+Nas razões do recurso especial, a defesa alega que "a causa de aumento prevista no §4º do Art. 171 (Código Penal) não tem o condão de afastar o cabimento do indulto no caso sub judice, afinal, é acessória ao tipo penal, sendo aplicável apenas em sede de dosimetria da pena, no caso, 3ª fase" (e-STJ fl. 827).
+Ao final, requer "a concessão de indulto a JOSIAS PICOLO, com fulcro no Art. 5º do Decreto 11.302/22, com a consequente extinção de sua punibilidade, com fulcro no Art. 107, II, do CP" (e-STJ fl. 830).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso especial (e-STJ fls. 905/910).
+É o relatório.
+Decido.
+No que tange ao indeferimento do pleito de concessão de indulto em relação ao crime de estelionato majorado, transcrevo os fundamentos expostos pelo Tribunal de origem para manter a decisão do Juízo singular (e-STJ fls. 812/815):
+A respeitável decisão indeferiu a benesse, assentando que a reprimenda abstrata relativa ao crime, pelo qual o recorrente restou condenado, ultrapassa o maior limite indicado no artigo 5º, do Decreto Presidencial nº 11.302/2022.
+A combativa Defesa, alegando o preenchimento dos requisitos legais, insiste na concessão do indulto.
+Sem razão, contudo.
+O artigo 5º, do Decreto Presidencial nº 11.302/2022, dispõe que "será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos", prevendo seu parágrafo único que, "para fins do disposto no caput, na hipótese de concurso de crimes, será considerada, individualmente, a pena privativa de liberdade máxima em abstrato relativa a cada infração penal".
+Ora, as causas de aumento e de diminuição de pena, gerais ou especiais, são fatores de elevação ou de redução, a serem observadas, em quantidade fixa ou em patamar variável, no cálculo dosimétrico e devem integrar, consequentemente, o preceito secundário, atuando ativamente no piso e no teto da punição abstratamente cominada para o tipo penal em que previstas tais majorantes ou minorantes
+Logo, tendo o recorrente sido condenado por infração ao artigo 171, § 4º, do Código Penal, a privativa de liberdade máxima a ser considerada extrapola o quinquênio limitativo, alcançando 10 (dez) anos de reclusão, fruto da incidência da maior fração da causa de aumento prevista no § 4º (um terço ao dobro) sobre a reprimenda mais alta prevista para o crime de estelionato (de um a cinco anos de reclusão).
+Inviável, pois, o deferimento do indulto alvitrado recursalmente.
+ ..
+Por conseguinte, o acolhimento do pleito defensivo não se mostra possível, porquanto em dissonância com a previsão normativa contida no Decreto Presidencial nº 11.302/2022, como bem decidido monocraticamente.
+Verifica-se que o acórdão recorrido está em consonância com a orientação desta Corte Superior no sentido de que, para a concessão de indulto, na aferição da reprimenda máxima cominada em abstrato para o delito, devem ser consideradas as causas de aumento de pena, por integrarem o preceito secundário do tipo.
+Sobre a matéria, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. INDULTO. LIMITE OBJETIVO ULTRAPASSADO. ORDEM DENEGADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Decreto n. 11.302/2022 estabelece que "será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos".
+2. Na análise do benefício, deve ser observado o limite das penas máximas cominadas aos crimes majorados e qualificados. Se o postulante foi condenado por incursão nos arts. 171, § 4º e 332, parágrafo único, ambos do CP, as causas de aumento ditadas em lei não podem ser decotadas para a declaração do indulto, pois são previamente definidas em lei e vinculam diretamente a sanção aplicável a todos que incorrerem na mesma conduta.
+3. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 854.433/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/3/2024, DJe de 15/3/2024, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL N. 11.302/2022. INAPLICABILIDADE. AUSÊNCIA DE PREENCHIMENTO DO REQUISITO OBJETIVO. PENA MAXÍMA EM ABSTRATO QUE DEVE SER CONSIDERADA CONJUNTAMENTE COM AS CAUSAS DE AUMENTO CONTIDAS NO PRECEITO SECUNDÁRIO DO TIPO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ao indeferir o pedido da defesa, o Juízo de primeiro grau ressaltou que o apenado fora condenado como incurso no art. 1º, I, c.c art. 12, I, da Lei n. 8.137/90, assim, tendo em vista que a figura típica majorada possui pena em abstrato superior a 5 anos de reclusão, não restou preenchido o requisito objetivo.
+2. Destaca-se que, para a verificação do quantum máximo em abstrato da reprimenda, devem ser consideradas as causas de aumento de pena, tendo em vista que integram o preceito secundário do tipo penal. Nesse sentido, a seguinte decisão monocrática: HC n. 854.433/SC, Ministro Rogerio Schietti Cruz, DJe de 20/9/2023).
+3. Mutatis mutandis, no mesmo sentido, asseverou a Quinta Turma do STJ que "a prescrição da pretensão punitiva com base na pena em abstrato, considera o máximo do preceito secundário da norma como referência temporal para cálculo do lapso prescricional. A causa de aumento ou de diminuição da pena interferem na fixação da referência temporal" (HC n. 422.323/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/6/2019, DJe de 25/6/2019).
+4. Destaca-se, ainda, o entendimento sumulado por esta Corte no enunciado n. 243, o qual prescreve que: "o benefício da suspensão do processo não é aplicável em relação às infrações penais cometidas em concurso material, concurso formal ou continuidade delitiva, quando a pena mínima cominada, seja pelo somatório, seja pela incidência da majorante, ultrapassar o limite de um (01) ano".
+5. Agravo regimental desprovido.
+(AgRg no HC n. 873.259/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024, grifei.)
+Portanto, tendo em vista que a pena máxima em abstrato prevista para o crime tipificado no art. 171, § 4º, do Código Penal é superior a 5 anos, o deferimento do benefício ao recorrente encontra óbice no art. 5º do Decreto n. 11.302/2022.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
