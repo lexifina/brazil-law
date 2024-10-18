@@ -1,0 +1,26 @@
+DECISÃO
+Tratam-se de Agravos interpostos contra decisão que não admitiu os Recursos Especiais apresentados pelo MINISTÉRIO PÚBLICO FEDERAL e pela UNIÃO, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, em oposição ao acórdão do Tribunal Regional Federal da 4ª Região.
+Na origem, foi ajuizada ação civil pública pelo Ministério Público Federal objetivando a condenação da ré à obrigação de fazer, consistente na demolição de edificações construídas em área de preservação permanente, bem como em realizar o Projeto de Recuperação de Áreas Degradadas ou Alteradas - PRAD.
+O Juízo de primeira instância julgou parcialmente procedente a demanda, para determinar que a ocupação dos imóveis se limitasse às edificações já existentes, bem como ordenou que a ré procedesse ao reflorestamento da área devastada. O TRF-4, em sede de julgamento de apelação, manteve a sentença prolatada, em acórdão assim ementado (fls. 777-790):
+ADMINISTRATIVO. ÁREA DE PRESERVAÇÃO PERMANENTE. DANO. RECUPERAÇÃO AMBIENTAL. PRAD. ÁREA URBANA CONSOLIDADA. PROPORCIONALIDADE E RAZOABILIDADE. PREQUESTIONAMENTO.
+1. Em se tratando de área urbana consolidada, a determinação de demolição da edificação para o fim de recuperação da área não se reveste de sucesso prático.
+2. Além da proteção ao meio ambiente há outros direitos em risco que podem permitir a utilização de áreas já antropizadas e a manutenção das edificações existentes. Desconsiderar a situação ocupacional da região representa postura que não se coaduna com os princípios constitucionais da proporcionalidade e da razoabilidade.
+3. Considerando os mais recentes precedentes dos Tribunais Superiores, que vêm registrando a necessidade do prequestionamento explícito dos dispositivos legais ou constitucionais supostamente violados, e a fim de evitar que, eventualmente, não sejam admitidos os recursos dirigidos às instâncias superiores, por falta de sua expressa remissão na decisão vergastada, quando os tenha examinado implicitamente, dou por prequestionados os dispositivos legais e/ou constitucionais apontados pela parte.
+Os Embargos de Declaração foram rejeitados (fls. 829-832).
+Em seu recurso especial, o MPF alega violação dos arts. 2º, alínea a, item 3, da Lei n. 4.771/1965, arts. 4º, inciso I, alínea c, 7º e parágrafos, e 8º, caput e parágrafos, da Lei n. 12.651/2012, arts. 2º, inciso VIII, 4º, incisos I, VI e VII, e 14, § 1º, da Lei n. 6.938/1981 e art. 1.228, § 1º, do Código Civil. Aduz, em síntese, que a legislação federal referida impede a edificação em APP, e que o caso em análise não se enquadra nas exceções que permitiram sua utilização ou exploração (utilidade pública ou interesse social), de forma que deve ocorrer a demolição das edificações e determinada a reparação do dano ambiental (fls. 887-907).
+Pugnou pela condenação da ré à demolição dos imóveis e recuperação ambiental da Área de Preservação Permanente do rio Itajaí-Açu no Município de Ilhota-SC.
+A União Federal, por sua vez, apresentou recurso especial alegando violação dos arts. 489, § 1º, inciso IV e 1.022, inciso II, do Código de Processo Civil/2015, art. 1º e 2º do Decreto-lei n. 9.760/1946; art. 6º do Decreto-lei n. 2.398/87, na redação anterior à edição da Lei n. 13.139/2015, e art. 6º da Lei n. 13.139/2015; art. 2º, alínea a, da Lei n. 4.771/65, na redação anterior à edição da Lei n. 12.651/2012, e art. 4º da Lei n. 12.651/2012, art. 14, § 1º, da Lei n. 6.938/81. Aduz, em síntese, que o acórdão foi omisso quanto à apreciação de teses trazidas na apelação. Ademais, sustenta que a teoria do fato consumado não poderia ter sido aplicada no presente caso, visto tratar-se de matéria ambiental, de forma que deve ocorrer a demolição das edificações feitas em terreno de marinha, que configura Área de Preservação Permanente (fls. 839-862).
+Sem contrarrazões.
+Os recursos foram inadmitidos na origem (fls. 917-921 e 926-930).
+Os recorrentes interpuseram agravos em recurso especial (fls. 937-946 e 959-966).
+Em decisão de fls. 1010-1013, a Ministra Assusete Magalhães determinou o retorno dos autos ao tribunal de origem para aguardar o julgamento da controvérsia do Tema n. 1.010 do STJ.
+Em juízo de retratação, o TRF-4 manteve o acórdão recorrido, sob o argumento de que a aplicação do entendimento cristalizado pelo STJ no Tema n. 1.010 é indiferente ao deslinde da controvérsia, determinando a remessa dos autos a esta Eg. Corte (fl. 1069).
+O Ministério Público Federal opinou pelo provimento dos Recursos (fls. 1108-1112).
+É o relatório. Decido.
+Feita uma atenta leitura do acórdão recorrido e das razões dos recursos especiais, entendo que devem ser conhecidos os agravos, a fim de que sejam autuados como recursos especiais , segundo previsto no art. 253, inciso I, alínea d, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, CONHEÇO dos agravos para DETERMINAR as suas autuações como recursos especiais.
+Façam-se as anotações necessárias.
+Após, dê-se nova vista dos autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVOS EM RECURSO ESPE CIAL. DIREITO AMBIENTAL. DECISÃO DE INADMISSÃO. NECESSIDADE DE MELHOR ANÁLISE. AUTUAÇÃO COMO RECURSO ESPECIAL. AGRAVOS CONHECIDOS PARA DETERMINAR A SUA AUTUAÇÃO COMO RECURSO ESPECIAL.
