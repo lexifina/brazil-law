@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DOUGLAS OLIVEIRA MARTINS DEDETIZACAO, contra decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, por sua vez desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 269, e-STJ):
+TUTELA CAUTELAR ANTECEDENTE - DUPLICATA POR INDICAÇÃO - AUTOR - ALEGAÇÃO - AUSÊNCIA DE RELAÇÃO NEGOCIAL - TÍTULO - ORIGEM - SERVIÇOS DE LIMPEZA E IMPERMEABILIZAÇÃO DE RESERVATÓRIOS DE ÁGUA - RÉU - RELAÇÃO JURÍDICA - NÃO COMPROVAÇÃO - DESCUMPRIMENTO DOS ARTS. 373, II, E 434 DO CPC - CÁRTULA - CRIAÇÃO IMPOSSIBILIDADE - INOBSERVÂNCIA AOS ARTS. 15, II, B E 20, § 3º, DA LEI 5.474/68 - TÍTULO CAUSAL (ART. 2º E 3º DA LEI DAS DUPLICATAS) - INEXIGIBILIDADE - PEDIDO INICIAL - PROCEDÊNCIA - PEDIDO RECONVENCIONAL - IMPROCEDÊNCIA - SENTENÇA - REFORMA. APELO DO AUTOR PROVIDO.
+Opostos embargos de declaração (fls. 334/342, e-STJ), esses foram rejeitados.
+Em suas razões recursais (fls. 275/312, e-STJ), a parte insurgente apontou, além de dissídio jurisprudencial, violação aos artigos 373, inciso II do Código de Processo Civil/15; 5º, inciso IV da Constituição Federal. Sustentou, em síntese, que os serviços foram devidamente prestados. Inexiste qualquer motivo para deferimento ao pedido de anulação da cobrança e sustar o protesto, face às vastas provas apresentadas que atestam a veracidade acerca da efetiva prestação de serviços.
+Sem contrarrazões (fls. 350/367, e-STJ).
+Em juízo de admissibilidade (fls. 368/370, e-STJ), negou-se o processamento do recurso especial sob os seguintes fundamentos: i) não ficou demonstrada a alegada vulneração aos dispositivos arrolados, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo V. Acórdão ao declinar as premissas nas quais assentada a decisão; ii) incidência da Súmula 7 do STJ.
+Daí o agravo (fls. 373/379, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a insurgente refutou os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 382/384, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Inicialmente, cumpre asseverar não ser atribuição do STJ a análise de contrariedade a dispositivos constitucionais, sob pena de usurpação da competência do STF, razão pela qual é incabível o exame da alegada afronta ao art. 5º, IV da Constituição Federal.
+Precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DÉBITO FUNDADO EM INSTRUMENTO PARTICULAR DE CONFISSÃO DE DÍVIDA. PRAZO PRESCRICIONAL QUINQUENAL. INCREMENTO DA ATIVIDADE EMPRESARIAL. NÃO CARACTERIZAÇÃO DA RELAÇÃO DE CONSUMO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+ ..
+7. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1610317/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 05/06/2018, DJe 12/06/2018)
+2. No mérito, o Tribunal local, com amparo nos elementos de convicção dos autos, consignou que os serviços não foram prestados.
+Confira-se trecho extraído do aresto hostilizado (fls. 270/272, e-STJ):
+No mais, cuida-se de cautelar antecedente e pedido reconvencional embasada na duplicata de serviços nº 256, sacada em 17.9.2020, vencida em 18.9.2020, no valor de R$ 4.500,00 (fls. 35). Segundo o réu, o título foi emitido em razão de "inúmeros serviços de esgotamento, hidrajateamento, limpeza, controle de pragas, restruturação dos canos/tubulações e dedetização" (fls. 82 - sic). Aduz ainda que firmaram o respectivo contrato em 15.3.18 (fls. 99).
+Contudo, causa estranheza que estabelecessem contratos idênticos, na mesma data, inclusive com descrição coincidente dos serviços ("prestação de serviços por parte da CONTRATADA na área de Limpeza e Higienização de três reservatórios de Água situados nas dependências do CONTRATANTE"), com divergência única de valores (um de R$ 1.500,00 e outro de R$ 4.500,00 - fls. 99 e 141). Não é crível que o autor anuísse à situação, até porque necessária a aprovação do conselho condominial ou até mesmo dos demais condôminos.
+Além disso, o réu não comprou a realização de "inúmeros serviços". Se o caso, incumbia-lhe redigir novo documento (adendo contratual) para se resguardar de eventuais cobranças. Consigne-se ainda que a prova oral não se sobrepõe aos termos constantes do instrumento. O depoimento da síndica à época merece reserva diante de nítido interesse quanto à regularidade das contratações.
+A duplicata é título causal e a criação impõe a observância dos requisitos dos arts. 2º e 3º da Lei nº 5474/68. Na hipótese, não há prova do negócio jurídico subjacente que autorize a emissão. O protesto se deu por indicação (fls. 35). Era necessária a prova dos serviços. As fotografias não se prestam à finalidade almejada (fls. 101/125). Limitou-se a argumentar que efetuou a atividade e que faz jus à cobrança. Inobservou os requisitos do art. 20, § 3º, da Lei nº 5474/68:
+Poderão emitir, na forma prevista nesta Lei, fatura e duplicata:
+§ 3º Aplicam-se à fatura e à duplicata ou triplicata de prestação de serviços, com as adaptações cabíveis, as disposições referentes à fatura e à duplicata ou triplicata de venda mercantil, constituindo documento hábil para transcrição do instrumento de protesto, qualquer documento que comprove a efetiva prestação dos serviços e o vínculo contratual que a autorizou.
+A nota fiscal não possui prova de anuência e o título a protesto não legitima o saque da duplicata. Reza o art. 434 do CPC:
+(..)
+O réu não se desincumbiu do ônus quanto à existência do fato impeditivo do direito deduzido na inicial (art. 373, II, do CPC), até porque ao autor não se pode impor a prova negativa. A dívida é inexigível.
+Desta forma, para acolhimento do recurso, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 desse Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. DUPLICATAS. ÔNUS DA PROVA. NEGATIVA DE DEMONSTRAÇÃO DO FATO CONSTITUTIVO DO DIREITO DO AUTOR. REVISÃO. ÓBICE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO CONHECIDO EM PARTE, E, NESSA PARTE, NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Se o acórdão recorrido ao aferir como requisitos para se executar uma duplicata sem aceite, além do protesto por indicação, a comprovação da efetiva prestação dos serviços ou entrega de produtos, e, neste caso, não os vislumbra performados, a alteração de tal leitura do material de cognição esbarra no óbice da Súmula n.º 7 do STJ.
+3. A imposição do ônus probatório à exequente para comprovar a higidez do título não desvirtua o art. 373, I, do NCPC; antes reafirma a opção do Tribunal recorrido pela teoria do ônus subjetivo da prova fixado prévia e abstratamente pela Lei, somente podendo se falar de contraprova do réu quando bem desempenhada pelo demandante sua incumbência.
+4. A questão da distribuição do ônus de sucumbência e violação dos arts. 7º e 86 do NCPC não pode ser conhecida, ainda mais quando inaugurada apenas nas razões do agravo interno e nem sequer ventilada no acórdão recorrido e no apelo nobre, por falta de prequestionamento (Súmula n.º 211 do STJ) e inovação recursal.
+5. Agravo interno conhecido em parte, e, nessa parte, não provido.
+(AgInt no REsp n. 1.943.883/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS. COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. ASSESSORIA IMOBILIÁRIA. LEGITIMIDADE PASSIVA DA RECORRENTE. FALHA NA PRESTAÇÃO DOS SERVIÇOS CARACTERIZADA. HONORÁRIOS SUCUMBENCIAIS. VIABILIDADE. ALEGADA OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. NÃO OCORRÊNCIA. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7/STJ. CONDENAÇÃO AO PAGAMENTO DOS HONORÁRIOS CONTRATUAIS DA PARTE VENCEDORA. INVIABILIDADE. ACÓRDÃO RECORRIDO EM DISSONÂNCIA AO ENTENDIMENTO DESTA CORTE SUPERIOR. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. A alegação de violação aos arts. 489, § 1º, incisos IV e VI, e 1.022, inciso II e parágrafo único, inciso II, ambos do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+2. Infirmar as conclusões do acórdão recorrido quanto à legitimidade passiva da ora agravante e à existência de falha na prestação dos serviços de assessoria, ensejaria a reinterpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, providências que encontram óbice nas Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+3. Segundo o entendimento do Superior Tribunal de Justiça, "são devidos honorários sucumbenciais recursais nas hipóteses em que o recurso especial não obteve provimento, o acórdão recorrido foi publicado na vigência do
+Código de Processo Civil de 2015, a verba sucumbencial foi fixada desde a origem e não ultrapassados os limites estabelecidos nos §§ 2º e 3º do art. 85 do Código de Processo Civil para a fase de conhecimento" (AgInt no AgInt no AREsp n. 1.930.861/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023).
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.120.270/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/6/2024, DJe de 13/6/2024.)
+3. Importante consignar, ainda, que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+(..)
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno no agravo em recuso especial não provido.
+(AgInt no AREsp 1961863/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/02/2022, DJe 16/02/2022)
+4. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC/15, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem.
+Publique-se.
+Intimem-se.
+EMENTA
