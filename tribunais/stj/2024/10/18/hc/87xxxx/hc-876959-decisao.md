@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de JUCIANA GAMA DO NASCIMENTO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE proferido nos autos do HC n. 0809657-95.2023.8.20.0000.
+Consta dos autos que a paciente foi condenada pela prática do crime previsto no artigo 157, §2º, II, e §2º-A, I, do CP às penas de 09 anos e 03 meses de reclusão, em regime inicial fechado, e pagamento de 20 dias-multa.
+A condenação transitou em julgado.
+Buscando o redimensionamento da pena, a defesa impetrou habeas corpus originário, o qual teve a ordem denegada pelo Tribunal a quo, nos termos de acórdão acostado às fls. 188/198.
+É esta a ementa do julgado:
+"PROCESSUAL PENAL. AGRAVO INTERNO EM . ROUBOHABEAS CORPUS CIRCUNSTANCIADO (ART. 157, §2º-A, I, DO CP). INSURGÊNCIA ENTABULADA EM FACE DA NEGATIVA DE SEGUIMENTO DA ORDEM PELA INADEQUABILIDADE DA VIA ELEITA. UTILIZADO COMO SUCEDÂNEO RECURSAL (REVISÃO). MANDAMUS PEDIDO DE REEXAME DA DOSIMETRIA OBJETO DE SENTENÇA JÁ TRANSITADA EM JULGADO. RETÓRICA TAMBÉM DEBATIDA EM SEDE DE APELO. DECRETO MANTIDO. CONHECIMENTO E DESPROVIMENTO."
+Na presente impetração (fls. 3/15), a defesa sustenta ilegalidade praticada pela magistrada na dosimetria da pena, visto que na segunda fase da dosimetria não aplicou a atenuante da menoridade relativa.
+Pugna pela concessão da ordem a fim de redimensionar a pena.
+Não houve pedido de medida liminar.
+Parecer ministerial de fls. 209/213 pela concessão da ordem.
+É o relatório. Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+São estes os pertinentes excertos do aresto combatido, litteris:
+" ..
+9. Sem dissentir, considerou a Douta 2ª PJ (ID 20979290):
+".. Conforme relatado, defende o recorrente que é possível a concessão da ordem de ofício em relação aos pleitos de aplicação da atenuante de menoridade relativa e de detração, posto que trata-se de situação de flagrante ilegalidade. A conclusão, portanto, de que a análise dos fundamentos da impetração trata-se, em verdade, de utilização da via estreita do como sucedâneo recursal de Habeas Corpus Revisão Criminal, recurso adequado para rever os aspectos dosimétricos da ação penal. Não obstante, como mencionado pelo próprio desembargador relator, a análise dos pleitos mencionados exige, ainda que indiretamente, revolvimento da matéria fática-processual, inviabilizando o conhecimento do ..". writ.
+10. Outrossim e como se vê, a insurgência nada mais representa senão a tentativa de rediscutir matéria já debatida.
+11. Portanto, não vislumbro argumento hábil a promover alternância da exegese alhures adotada, devendo o édito ser mantido na sua integralidade, sobretudo porque, repito, a via angusta do inviabilizamandumus revolvimento da matéria fática-processual, sequer acostada aos autos, sendo, inclusive, mais efetiva ao Paciente a análise do pleito em seara ampliativa.
+12. Destarte, desprovejo o Recurso." (fl. 191)
+A defesa impetrou habeas corpus perante o Tribunal a quo arguindo haver ilegalidade na dosimetria da pena ao deixar de se reconhecer na segunda fase a menoridade relativa.
+A Corte de origem não conheceu do writ originário, sob o fundamento de que o exame das matérias deduzidas não pode ser feito via eleita, ante a vedação da utilização do mandamus como sucedâneo recursal.
+De início, não tendo o TJRN apreciado a matéria ora trazida a debate, não cabe a este Superior Tribunal de Justiça - STJ sua análise, sob pena de se incorrer em indevida supressão de instância.
+Contudo, é possível identificar a ocorrência de constrangimento ilegal.
+Isso porque, em que pese seja indevida a utilização do habeas corpus como substitutivo de recurso próprio, como assinalado pela Corte de origem, também é certo que não há óbice ao manejo do writ quando a matéria for de direito e tiver potencial de causar lesão à liberdade de locomoção do paciente, especialmente como na hipótese dos autos.
+Este Tribunal Superior tem acumulado julgados no sentido de que compete à Corte de origem apreciar o mérito do mandamus lá impetrado para a verificação, ainda que de ofício, de eventual constrangimento ilegal que repercuta no direito de locomoção do paciente. Nessa esteira:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PLEITO DE DISPENSA DO EXAME CRIMINOLÓGICO PARA CONCESSÃO DE BENEFÍCIOS. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO. WRIT INDEFERIDO LIMINARMENTE PELO TRIBUNAL DE ORIGEM POR INADEQUAÇÃO DA VIA ELEITA. QUESTÃO DE DIREITO QUE INDEPENDE DA ANÁLISE FÁTICO-PROBATÓRIA. ORDEM DE OFÍCIO. APENAS PARA APRECIAR O MÉRITO DA IMPETRAÇÃO ORIGINÁRIA.
+1. Por meio da presente impetração, a defesa pretende que o pleito de progressão de regime e livramento condicional seja apreciado, dispensado o exame criminológico. O mérito da tese aqui formulada não foi enfrentado pelo Tribunal de origem - prescindibilidade do exame criminológico para obtenção de benefícios -, o que impede esta Corte de analisar o tema, sob pena de incorrer em indevida supressão de instância e em violação ao princípio do duplo grau de jurisdição.
+Diante desse contexto, não se configura hipótese de provimento do agravo regimental em análise. Contudo, vislumbra-se a possibilidade de concessão de ordem de ofício.
+2. O Tribunal de Justiça indeferiu liminarmente o writ, deixando de apreciar o pleito formulado na impetração, ao fundamento de que "a via eleita não se presta a funcionar como substitutivo do agravo em execução, recurso cabível para o reexame da matéria ora ventilada".
+Entretanto, esta Corte Superior de Justiça consolidou o entendimento de que "é bem verdade que o STJ não mais tem admitido a impetração de habeas corpus, quando substitutivo de recursos próprios. Todavia, tal posicionamento não tem o condão subtrair do magistrado a verificação quanto à existência de ilegalidade flagrante, caso em que deverá conceder habeas corpus de ofício. Inteligência do art. 654, § 2º, do CPP" (HC n. 301.883/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/10/2014, DJe 10/11/2014).
+3. Agravo a que se nega provimento. Ordem concedida de ofício, tão somente para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do habeas corpus originário como entender de direito.
+(AgRg no HC n. 561.747/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 30/6/2020, DJe de 4/8/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. HABEAS CORPUS NÃO EXAMINADO PELO TRIBUNAL DE JUSTIÇA POR SER CABÍVEL NA ESPÉCIE AGRAVO EM EXECUÇÃO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
+1. O pedido de cassação da decisão proferida pelo Juízo das Execuções, que determinou a realização de exame criminológico para a análise do pedido de progressão, não foi apreciado pelo Tribunal a quo, que indeferiu liminarmente à ordem originária por entender que era inviável a análise da matéria, na via do habeas corpus, por haver previsão de recurso específico para impugnar ato do Juiz das Execuções Penais.
+2. Como a matéria arguida não foi analisada pelo Tribunal a quo, não pode ser originariamente examinada pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes.
+3. A existência de recurso específico não inviabiliza a impetração de ordem de habeas corpus para a aferição de eventual ilegalidade na fase de execução da pena, quando a análise recai sobre questão pacificada e meramente de direito, consubstanciada na tese a respeito da previa realização do exame criminológico para fins de progressão de regime. A recusa em analisar o tema, pelo Tribunal de origem, constitui ilegalidade flagrante.
+4. Agravo regimental desprovido. Ordem de habeas corpus concedida, de ofício, para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do HC n.º 2165621-88.2018.8.26.0000, como entender de direito.
+(AgRg no HC n. 465.318/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/3/2019, DJe de 10/4/2019.)
+Ante o exposto, não conheço do habeas corpus. Contudo, com fundamento no art. 34, c/c art. 203, inciso II, do Regimento Interno do Superior Tribunal de Justiça, concedo a ordem de ofício para determinar que o Tribunal de Justiça do Estado do Rio Grande do Norte aprecie o mérito do writ originário como entender de direito.
+Publique-se.
+Intimem-se.
+EMENTA
