@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por LYGIA LUMINA PUPATTO, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 490):
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO, CONHECIDO DE OFÍCIO. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. ACÓRDÃO PROLATADO PELO TRIBUNAL DE CONTAS DO ESTADO DO PARANÁ. AUTORA QUE FOI CONDENADA AO RESSARCIMENTO DE VALORES AOS COFRES PÚBLICOS, RELATIVOS À AQUISIÇÃO DE COMPUTADORES PELA SECRETARIA DE ESTADO DA CIÊNCIA E TECNOLOGIA. VIOLAÇÃO AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE CONSTATADA. AUSÊNCIA DE LESÃO AO ERÁRIO. PROVA PRODUZIDA NOS AUTOS QUE DEMONSTRA A NECESSIDADE DA COMPRA DOS ALUDIDOS EQUIPAMENTOS, BEM COMO, SUA DESTINAÇÃO À INSTITUIÇÕES ESTADUAIS DE ENSINO. PENALIDADE IMPOSTA PELO TRIBUNAL DE CONTAS ESTADUAL CORRETAMENTE AFASTADA PELO JUÍZO A QUO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE. RECURSO DESPROVIDO. SENTENÇA CONFIRMADA EM REEXAME NECESSÁRIO, CONHECIDO EX OFFICIO.
+Os embargos de declaração opostos foram rejeitados (fls. 533/536).
+Em suas razões recursais (fls. 545/557), a parte recorrente alega violação ao art. 85, §§ 2º, 3º e 11, do CPC, tendo em vista que "o r. acórdão recorrido estatui, como base de cálculo, o valor da verba honorária fixada em sede de sentença, não previsto nos dispositivos legais mencionados" (fl. 553), bem como dissídio jurisprudencial sobre a mesma questão.
+A parte adversa apresentou contrarrazões (fls. 679/684).
+O recurso foi admitido na origem (fls. 685/687).
+É o relatório.
+Os honorários sucumbenciais recursais estão disciplinados nos §§ 2º e 11 do art. 85 do CPC, que assim dispõe:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+ ..
+§ 2º Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos:
+I - o grau de zelo do profissional;
+II - o lugar de prestação do serviço;
+III - a natureza e a importância da causa;
+IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+ ..
+§ 11. O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento.
+Nos exatos termos da norma vigente, este Superior Tribunal de Justiça firmou o entendimento de que "o acréscimo previsto no art. 85, § 11, do CPC/2015 deve incidir sobre a mesma base de cálculo utilizada no momento da fixação pelas instâncias de origem, e não sobre o valor resultante da condenação antecedente" (AgInt no AREsp 1.469.643/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/9/2019, DJe de 4/10/2019).
+No presente caso, o Tribunal de origem majorou em 1% o valor da verba honorária já arbitrada e esclareceu, quando do julgamento dos embargos de declaração, que o cálculo deveria ser feito da seguinte forma: "após a liquidação da verba honorária delimitada em primeiro grau, o valor total obtido será acrescido de 1%" (fl. 535). Esse entendimento viola o art. 85, §§ 2º e 11, do CPC, pois adota base de cálculo diversa.
+Cumpre esclarecer que a majoração da verba honorária pode ocorrer com a alteração da alíquota fixada ou com a fixação de um percentual a ser acrescido a essa alíquota, desde que aplicada sobre a mesma base de cálculo. Assim, por exemplo, a majoração da verba honorária de 10% para 11% sobre a mesma base de cálculo atende aos parâmetros do art. 85, §§ 2º e 11, do CPC, pois corresponde a um aumento de 10% sobre os 10% já fixados na origem.
+Diferentemente, a majoração do "total da verba honorária devida ao procurador da autora em 1% (um por cento)" (fl. 502), como definiu o acórdão recorrido, significa a realização de um cálculo inicial e um posterior acréscimo a partir de uma base de cálculo diferente, que, ao final, resulta numa alteração de 10% para 10,1%, em flagrante desrespeito às diretrizes fixadas no art. 85, §§ 2º e 11, do CPC. Isso porque aumentar mais 1% sobre a base de cálculo é diferente de majorar em 1% o percentual fixado.
+Nesse sentido, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA RECURSAL.
+1. Considerando o disposto no art. 85, § 11, do CPC/2015, c/c o Enunciado Administrativo n. 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), e levando em consideração o trabalho adicional realizado em grau recursal, impõe-se a majoração dos honorários advocatícios (a título de sucumbência recursal). No caso, a verba honorária foi arbitrada no valor mínimo previsto nos incisos I a V do §3º, do art. 85 do CPC/2015, acrescida de 1% pela Corte a quo quando do provimento do apelo. Por força do § 11, do art. 85 do CPC, acresço mais 1% sobre a base de cálculo fixada no valor mínimo previsto nos incisos I a V do §3º, do art. 85 do CPC/2015, obedecendo o respectivo limite.
+2. Embargos de declaração acolhidos, sem efeitos infringentes, apenas para fixar honorários de sucumbência recursal.
+(EDcl no REsp n. 1.722.031/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/12/2018, DJe de 14/12/2018.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. HONORÁRIOS RECURSAIS. MAJORAÇÃO. POSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18/05/2017), embora tal elemento possa influir na sua quantificação.
+III - Nos termos do art. 85, §§ 2º e 11, de rigor a majoração dos honorários anteriormente fixados de 10% (dez por cento) do valor da causa, para 12% sobre a mesma base de cálculo.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt nos EDcl no REsp n. 1.945.003/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/11/2022, DJe de 24/11/2022, sem destaque no original)
+PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL. PENSÃO POR MORTE. HABILITAÇÃO TARDIA DE DEPENDENTE ABSOLUTAMENTE INCAPAZ. ARTS. 79 E 103 DA LEI 8.213/1991. IMPRESCRITIBILIDADE. EXCEÇÃO. DUPLO PAGAMENTO DA PENSÃO PELO REGIME GERAL DE PREVIDÊNCIA SOCIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, DO CPC/2015.
+ ..
+4. Segundo o § 11 do art. 85 do CPC/2015: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento".
+5. De acordo com a Súmula Administrativa 7/STJ, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+6. No caso específico do autos, trata-se de processo eletrônico, no qual se constata que a publicação da decisão de origem foi depois de 18.3.2016.
+7. À luz dos critérios estabelecidos no art. 85, § 11, do CPC/2015, devem ser majorados em 10% os honorários fixados anteriormente.
+8. Recurso Especial parcialmente provido.
+(REsp n. 1.700.071/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/5/2018, DJe de 23/11/2018.)
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem para que proceda à fixação dos honorários recursais a partir da mesma base de cálculo e dentro dos limites previstos no art. 85, §§ 2º e 11, do CPC.
+Publique-se. Intimem-se.
+ EMENTA
