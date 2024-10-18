@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual MAKRO ATACADISTA S.A se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 291):
+Apelação Ação anulatória Consumidor Multa administrativa Autuação lavrada pelo Procon Manutenção Infrações comprovadas Cálculo da multa realizado de maneira correta Sentença de improcedência mantida Recurso improvido.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte ora agravante alega violação ao art. 57 do Código de Defesa do Consumidor (CDC), ao argumento de que o parâmetro a ser utilizado pelo Procon para a fixação da multa deveria ser o faturamento do estabelecimento autuado (loja), e não o faturamento total da marca MAKRO (somatório das filiais), situação que resultou em valor desproporcional, devendo ser analisada ainda a vantagem econômica efetivamente auferida como resultado da infração cometida.
+A parte ora agravada apresentou as contrarrazões (fls. 320/350).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A irresignação não comporta conhecimento.
+De início, o Tribunal de origem decidiu que "  em que pese a autora alegue que a receita considerada pelo Procon está equivocada, não foi apresentado nenhum documento que informe qual foi o faturamento da loja autuada nos meses de abril, maio e junho de 2.020, nem houve indicação de qual seria o valor correto da multa se considerados os parâmetros que a autora entende como corretos" (fl. 299).
+Na peça recursal, todavia, a parte recorrente não se insurge contra aquele fundamento, limitando-se a afirmar, em síntese, que não foi considerado o parâmetro correto, pois os cálculos foram feitos com base no faturamento global, e não especificamente no da loja ou estabelecimento.
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+No mais, o Tribunal de origem assim se manifestou (fls. 298/299):
+A fórmula para a fixação da multa está prevista no artigo 34 da Portaria Normativa PROCON nº 57/2.019, o que foi observado pelo Procon, conforme os cálculos apresentados à fl. 48. Também foi considerada a circunstância agravante de reincidência, diante do contido na certidão de fl. 50.
+No que se refere à pretensão da autora de ser considerada a atenuante prevista no artigo 25, III, do Decreto nº 2.181/1.997, é necessário que se diga que não restou demonstrado nos autos qualquer providência que tenha minimizado ou reparado de imediato os efeitos do ato lesivo ao consumidor, afinal, não há informação de quando ocorreu a correção do preço das mercadorias, nem a comprovação de que no dia seguinte houve a colocação cartazes suspensos faltantes.
+Por fim, em que pese a autora alegue que a receita considerada pelo Procon está equivocada, não foi apresentado nenhum documento que informe qual foi o faturamento da loja autuada nos meses de abril, maio e junho de 2.020, nem houve indicação de qual seria o valor correto da multa se considerados os parâmetros que a autora entende como corretos.
+Portanto, a autora não se desincumbiu do seu ônus processual, inexistindo razão para afastar a estimativa realizada e a presunção de legalidade do auto de infração impugnado.
+O Tribunal de origem reconheceu, diante das nuances específicas, que a hipótese apresentava e consideradas as circunstâncias atenuantes e agravantes, que a penalidade aplicada era proporcional e atendia os requisitos da legislação de regência, pontuando especificamente que não houve produção de provas a respeito do efetivo faturamento ou sequer indicação de valores a serem apurados.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
