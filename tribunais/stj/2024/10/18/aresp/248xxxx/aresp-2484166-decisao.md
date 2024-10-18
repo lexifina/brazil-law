@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manejado por Helena da Silva Degrazia contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 39):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. CUMULAÇÃO DE PEDIDOS DISTINTOS CONTRA RÉUS DISTINTOS NO MESMO PROCESSO. IMPOSSIBILIDADE.
+1. A possibilidade de cumulação de pedidos distintos contra réus também distintos no mesmo processo dependeria da formação de litisconsórcio passivo em relação a todos os pedidos. Inteligência do art. 327, caput e §1º, I, do CPC.
+2. Não se tratando de litisconsórcio passivo necessário e não dispondo o Juízo previdenciário de competência para processar e julgar a pretensão indenizatória deduzida em relação a UFRGS, não é cabível a cumulação de pedidos.
+Opostos embargos de declaração, foram rejeitados (fls.73/77).
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, ofensa aos arts. 113, I, II e III, 115, I e 327, caput e §1º, I, do CPC. Sustenta, em resumo, que "há de ser provido o presente recurso especial a fim de manter a condição litisconsorcial necessária ao caso concreto, entre INSS e UFRGS, eis que se busca A CONDENAÇÃO da UFRGS ao ressarcimento dos valores de benefício não recebidos desde a cessação do benefício até a data do eventual restabelecimento do benefício, em razão do evidente prejuízo financeiro experimentado pela autora - CESSAÇÃO DA PENSÃO POR MORTE RECEBIDA PELO INSS, restando, com isso, confirmar a convergência jurisprudencial  .. " (fls. 123/124).
+Contrarrazões às fls. 151/154.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+De início, a matéria pertinente aos arts. 113, I, II e III, 115, I, do CPC não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "a própria parte agravante refere na inicial do agravo de instrumento que "diante da coação moral ilegal e irresistível, entende a autora sejam devidas as parcelas que deixou de receber do INSS, a título de indenização por dano material a serem pagas pela UFRGS, independentemente do restabelecimento do benefício nesta ação, em decorrência de ato ilícito e da responsabilidade objetiva do Estado."" esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+Ademais, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
