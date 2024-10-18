@@ -1,0 +1,31 @@
+DECISÃO
+Examina-se embargos de declaração opostos por PONTA NEGRA SOLUÇÕES, LOGÍSTICAS E TRANSPORTES LTDA., contra decisão que, em face das razões de fls. 1733/1751 (e-STJ), tornou sem efeito a decisão de fls. 1725/1729 (e-STJ) e passou a novo exame do agravo em recurso especial interposto por PONTA NEGRA SOLUÇÕES, LOGÍSTICAS E TRANSPORTES LTDA.
+Em suas razões recursais, a parte embargante alega que a decisão unipessoal é omissa e obscura, porquanto não indica as razões que levaram à prolação de nova decisão, bem como porque não foram observadas a preclusão pro judicato, a proibição de reformatio in pejus e a ausência de demonstração de diferença substancial nas decisões.
+É o relatório.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+No caso, a parte embargante alega que a decisão unipessoal é omissa e obscura, porquanto não indica as razões que levaram à prolação de nova decisão, bem como porque não foram observadas a preclusão pro judicato, a proibição de reformatio in pejus e a ausência de demonstração de diferença substancial nas decisões.
+Com relação à não indicação as razões que levaram à prolação de nova decisão, argumenta que a nova decisão, ora embargada, indica no seu relatório estar examinando o agravo interno interposto contra a decisão de fls. 1725/1729, no entanto, em seguida, a própria decisão indica que, em verdade, analisará novamente o Agravo em REsp.
+No ponto, razão não assiste à parte embargante, uma vez que a decisão unipessoal de fls. 1768/1773 (e-STJ) reconsiderou a decisão unipessoal de fls. 1725/1729 (e-STJ) e, com isso, passou a análise das questões trazidas a esta Corte por intermédio do agravo em recurso especial e do recurso especial (e-STJ fls. 1680/1700 e 1638/1660), respectivamente.
+Ainda, no tocante à omissão, pondera que: i) exsurge a necessidade de se aclarar se houve preclusão pro judicato na prolação da nova decisão, já que sequer se requereu, no agravo interno, a anulação da primeira decisão; e, ii) comparando-se as duas decisões, não se conseguiu identificar com clareza diferença substancial entre elas, a não ser a inclusão da majoração de honorários na ementa do decisum e, por essa razão, também não é possível identificar se houve uma reforma em prejuízo da recorrente.
+Por mais uma vez, sem razão a parte embargante.
+A decisão de fls. 1725/1729, posteriormente reconsiderada, traz em seu bojo o seguinte entendimento quanto à violação do art. 1.022, CPC:
+"É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos E Dcl no AR Esp 1.094.857/SC, 3ª Turma, D Je de 02/02/2018 e AgInt no AR Esp 1.089.677/AM, 4ª Turma, D Je de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca do contrato estabelecido entre as partes ser do tipo unimodal e da não incidência da Lei 9.611/98 sobre o caso em análise, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ."
+Já a decisão de fls. 1768/1773, a qual se embarga, traz em seu bojo o seguinte entendimento quanto à violação do art. 1.022, CPC:
+"É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos E Dcl no AR Esp 1.094.857/SC, 3ª Turma, D Je de 02/02/2018 e AgInt no AR Esp 1.089.677/AM, 4ª Turma, D Je de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca do contrato estabelecido entre as partes ser do tipo unimodal e da não incidência da Lei 9.611/98 sobre a situação em análise, bem como sobre a natureza jurídica do instituto da demurrage, sendo indenização e não cláusula penal, nos termos da jurisprudência do STJ, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ."
+Assim, malgrado o inconformismo da parte embargante, da leitura dos embargos opostos, conclui-se que razão não lhe assiste, pois os argumentos apresentados não demonstram que a decisão embargada (e-STJ fl. 1768/1773) padeça de qualquer vício, porquanto permanece, em seu teor, inalterada em relação à decisão reconsiderada (e-STJ fl. 1725/1729).
+A detida análise das razões trazidas em sede de embargos de declaração, aliada às razões trazidas em sede de recurso especial, revela que a insurgência da parte embargante não encontra guarida nesta Corte.
+Assim, restou clara a análise das razões apresentadas no recurso especial interposto pela parte embargante e nesse sentido foi clara a decisão embargada.
+Por isso, os fundamentos apresentados nos embargos de declaração revelam apenas inconformidade e o nítido desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza deste recurso.
+Conclui-se, portanto, que o presente recurso não reúne os pressupostos específicos para o seu acolhimento.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição, omissão ou erro material -, e a inexistência de vício leva à rejeição.
+2. Embargos de declaração rejeitados.
