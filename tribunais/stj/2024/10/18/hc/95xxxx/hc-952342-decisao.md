@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MAICON FELIPE MELLO DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o paciente foi preso preventivamente, tendo sido denunciado pela suposta prática da conduta descrita no art. 2º, § 2º, da Lei n. 12.850/2013.
+Ainda, consta que o paciente havia sido condenado em primeira instância, mas, em apelação, o Tribunal de origem deu provimento ao recurso da defesa para anular a sentença em relação à condenação do acusado, tendo determinado que fosse proferida nova sentença (fls. 315-393).
+O impetrante sustenta que, mesmo com a anulação da sentença, o Tribunal de origem manteve a prisão preventiva do paciente sem fundamentação concreta.
+Afirma que a Corte local se limitou a mencionar que subsistiriam motivos para a manutenção da custódia cautelar.
+Aduz excesso de prazo na prisão preventiva, pois o paciente está preso há 2 anos e 6 meses.
+Salienta que, em caso de nova condenação, o paciente já teria direito à progressão de regime, além da redução da pena, o que evidencia a desproporcionalidade da prisão.
+Requer, liminarmente e no mérito, o relaxamento da prisão preventiva ou a substituição da custódia por medidas cautelares diversas do cárcere.
+É o relatório.
+Quanto à alegada desproporcionalidade da prisão cautelar, "trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade)" - AgRg no RHC n. 144.385/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/4/2021, DJe de 19/4/2021).
+Ademais, em relação à manutenção da prisão preventiva, assim constou no acórdão recorrido (fls. 331-332):
+E já adianto que esta anulação não implica em revogação da prisão preventiva do referido réu, cujos fundamentos permanecem hígidos, pois o feito chegará à origem pronto para decisão e nada mais se demanda, além da nova sentença, para cogitar-se um eventual excesso de prazo - especialmente porque, incidindo a súmula 52 do STJ, não há irrazoabilidade no tempo decorrido até aqui, depois do encerramento da instrução criminal.
+Com efeito, apenas se houver demora injustificada para a prolação da nova sentença - o que não se espera, naturalmente - a hipótese de eventual excesso poderá ser cogitada, não sendo o caso neste momento.
+Estou, pois, anulando a decisão a quo , especificamente no tocante ao mérito da condenação do réu MAICON, para que uma nova seja proferida. (Grifei.)
+Acerca do assunto, com as devidas adaptações, esta Corte Superior fixou o entendimento de que:
+ ..  a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1.º, do Código de Processo Penal, declinar que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma.
+(AgRg no RHC n. 187.138/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/10/2023, DJe de 10/10/2023. )
+Nesse contexto, não há que se falar em ilegalidade a ser sanada, sobretudo porquanto, no acórdão que anulou a sentença em relação à condenação do paciente e determinou que fosse proferida nova sentença, a Corte de origem ressaltou que persistem os motivos que autorizaram a decretação da prisão preventiva.
+Por outro lado, quanto à alegação de excesso de prazo na prisão preventiva, destaca-se que o Tribunal de origem não a examinou, circunstância que inviabiliza o exame da questão pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe de 16/12/2020).
+Nesse sentido, destaca-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. NÃO CONFIGURADA. ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE DE INTER ROMPER OU REDUZIR ATIVIDADE DE GRUPO CRIMINOSO. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES MAIS BRANDAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO NÃO PROVIDO.
+1. A prisão preventiva foi ordenada e mantida pelas instâncias ordinárias, nos termos do art. 312 do Código de Processo Penal, notadamente para a garantia da ordem pública.
+2. No caso, a periculosidade da paciente foi revelada em minuciosa investigação levada a efeito no âmbito da Operação ARAITAK, uma vez que integraria associação criminosa estruturalmente ordenada e com emprego de arma de fogo, ligada ao à facção KATIARA, voltada para a prática de tráfico de drogas e de armas em vários Municípios do Estado da Bahia, desempenhando a função de Olheira/Apoio Operacional, subordinada diretamente a gerente de pista, ficando responsável por informar sobre a movimentação de viaturas policiais e repassar informações sobre membros da facção rival, além de fornecer sua conta bancária para depósitos referentes à venda de drogas.
+2. O alegado excesso de prazo para a formação da culpa não foi sequer apreciado pelo Tribunal estadual, o que impede o exame da matéria por esta Corte, sob pena de indevida supressão de instância.
+3. Condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a prisão cautelar ou autorizar medidas cautelares alternativas quando há nos autos elementos hábeis que autorizam sua manutenção, como ocorre no caso.
+4. Agravo regimental não provido.
+(AgRg no HC n. 905.056/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/8/2024, DJe de 23/8/2024 - grifei.)
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
