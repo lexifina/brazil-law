@@ -1,0 +1,16 @@
+DECISÃO
+ROGÉRIO RODRIGUES FRANCA, atuando em causa própria, alega sofrer coação ilegal diante de acórdão prolatado pelo Tribunal de Justiça na Apelação n. 0038368- 51.2015.8.19.0001.
+Neste writ, o condenado pede o julgamento do HC n. 501.165/RJ (dosimetria da pena), do HC n. 502.836/RJ (acesso à mídia de gravação) e do HC n. 537.788/RJ (dosimetria da pena). Busca a fixação do regime semiaberto, ante a "inidoneidade da fundamentação quanto à fixação do regime inicial fechado" (fl. 7) para o resgate da pena de 6 anos, 2 meses e 25 dias de reclusão.
+Segundo o postulante, como a denúncia imputou a ele o crime do art. 316 do CP, o acordo de não persecução penal pode "ser aplicado retroativamente até o trânsito em julgado da condenação" (fl. 13).
+O MPF opinou pelo não conhecimento do writ.
+Decido.
+É incabível, nos termos do art. 105 da CF, impetrar habeas corpus perante o Superior Tribunal de Justiça (STJ) contra ato ou omissões atribuídos a seus próprios ministros.
+Já foi explicado ao postulante que as impetrações anteriores não foram julgadas com rapidez, porque a defesa interpôs recurso especial e extraordinário contra o acórdão de apelação. Para não prejudicar a parte com o indeferimento liminar dos writs, e como esta Corte não admite a tramitação simultânea de RESP/AREsp e de habeas corpus contra o mesmo ato judicial, aguardava-se a finalização das vias recursais próprias para a verificação de flagrantes ilegalidades.
+A multiplicidade de HC"s relacionados ao mesmo acórdão desvia o foco da função principal do remédio constitucional, que é proteger a liberdade de locomoção, transformando-o indevidamente em expediente para adiantar o mérito de recursos em tramitação.
+Esse uso excessivo de writs não apenas sobrecarrega o Judiciário, mas também pode resultar em decisões que acabem sendo contraditórias. O próprio réu, que atua em causa própria, faz pedido de alteração de regime prisional já atendido no HC n. 501.165/RJ, quando esta Corte concedeu a ordem para corrigir a fração da continuidade delitiva, de modo a reduzir a pena final de Rogério para 4 anos, 11 meses e 8 dias de reclusão, e 14 dias-multa e fixar o regime prisional inicial semiaberto.
+No mais, o impetrante deve atentar-se à competência ao formular seus pedidos ao Judiciário, garantindo que sejam direcionados ao órgão com atribuição para apreciar a julgar a matéria.
+Em relação à aplicação retroativa do ANPP, além da indevida supressão de instância (a matéria não foi debatida em acórdão proferido por Tribunal de Justiça como exige o art. 105 da CF), verifica-se que o processo principal não tramita mais perante o Superior Tribunal de Justiça, pois foi enviado ao Supremo Tribunal Federal. Assim, não é possível a esta Corte analisar a questão, nem sequer de ofício.
+Por fim, não estamos diante de condenação proferida por esta Corte em ação de sua competência originária (e não em grau recursal), única hipótese em que caberá ao Presidente deste órgão promover a execução penal e resolver os seus incidentes, com a possibilidade de delegar atribuições ao Juízo de primeiro grau. Dessa forma, este Superior Tribunal não tem atribuição para analisar, de forma inédita, o pedido de cumprimento do regime semiaberto em "regime domiciliar com ou sem monitoramento eletrônico" (fl. 15).
+À vista do exposto, não conheço do habeas corpus .
+Publique-se e intimem-se.
+EMENTA
