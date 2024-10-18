@@ -1,0 +1,13 @@
+DECISÃO
+CHARLES ANDREY SOUTO DA SILVA alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+Depreende-se dos autos que o recorrente, em 27/9/2021, foi condenado por roubo majorado. A pena de 7 anos, 5 meses e 7 dias de reclusão, no regime inicial fechado, mais multa, foi mantida em apelação. Houve trânsito em julgado. A defesa requer a expedição de guia de execução definitiva sem o prévio recolhimento do condenado à prisão.
+Decido.
+A determinação do Tribunal de Justiça não é ilegal, está conforme a previsão dos arts. 674, do CPP e 105, da Lei de Execuções Penais. Com efeito, transitando em julgado a condenação que impuser pena privativa de liberdade, se o réu já estiver preso, ou vier a ser preso, o juiz ordenará a expedição de carta de guia para o cumprimento da pena.
+É imprescindível que o sentenciado esteja previamente recolhido à prisão para a expedição da guia de recolhimento e o início da execução no regime inicial fechado.
+No caso em questão, não identifiquei incidentes que, uma vez resolvidos pelo Juiz da Vara de Execuções Criminais (VEC), permitiriam a manutenção de liberdade ao apenado. Pelo contrário, a defesa aponta que o recorrente foi condenado no Processo n. 0000104-46.2017.8.26.0050, à pena de 5 anos e 8 meses de reclusão, e também nos Autos n. 0000589-10.2017.8.26.0547, a 7 anos, 5 meses e 7 dias de reclusão. As penas, unificadas, resultariam num total superior a 13 anos de reclusão, sem nenhuma alteração do regime fechado. Dessa forma, não se evidencia, minimamente, de que maneira a expedição de guia de recolhimento representa abuso de poder ou ilegalidade ao direito de locomoção do apenado.
+Deveras, "não há constrangimento ilegal na determinação da expedição de guia de recolhimento tão somente após o cumprimento do mandado de prisão" (AgRg no HC n. 911.748/GO, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024). Aplica-se ao caso o entendimento de que:
+ ..  nos termos da legislação em vigor, especialmente os arts. 674 do Código de Processo Penal e o art. 105 da Lei de Execução Penal, a guia de recolhimento será expedida após o trânsito em julgado da sentença, quando o réu estiver ou vier a ser preso. Não há como se pleitear benefícios que podem ser obtidos durante o cumprimento da pena se esse nem sequer se iniciou, fazendo-se necessário o recolhimento prévio do paciente à prisão, para que seja expedida guia de execução definitiva e tenha início a competência do Juízo das execuções. Precedentes  ..
+(AgRg no RHC n. 183.199/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024).
+À vista do exposto, nego provimento ao recurso ordinário.
+Publique-se e intimem-se.
+EMENTA
