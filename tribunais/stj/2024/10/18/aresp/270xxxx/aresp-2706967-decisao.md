@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado por ROBERTO ANGELO DOS SANTOS, contra decisão que inadmitiu o recurso especial em razão dos seguintes fundamentos: (I) acórdão recorrido em consonância com a jurisprudencial desta Corte (Súmula 83/STJ), (III) incidência da Súmula7/STJ.
+Nas razões do agravo em recurso especial (fls. 426/431), a parte agravante sustenta, em síntese: (I) "o caso em tela não se amolda no teor da Súm. 106 do STJ, porquanto a sua incidência pressupõe um autor diligente e ativo, que peticiona e protesta contra a inércia do aparelho judicial, durante o período de paralisação dos autos. Destarte, no caso em tela, a ausência de citação do recorrente não é imputável apenas ao cartório, mas também à inércia do Município, verdadeiro interessado, em efetivamente promovê-la" (fl. 429); (II) não incidência da Súmula 7/STJ porquanto a matéria trazida a julgamento não demanda reexame fático-probatório dos autos.
+Sem impugnação (fl. 435).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado um dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, deixou o ora agravante de refutar, especificamente, o fundamento de incidência da Súmula 83/STJ.
+Tendo sido o especial apelo inadmitido com base na consonância do aresto recorrido com a jurisprudência do STJ (Súmula 83/STJ), caberia à parte ora insurgente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do aresto recorrido ou, ainda, que o precedente não se aplicaria ao caso dos autos, atribuição da qual não se desincumbiu . Nesse sentido: AgInt no REsp 1.396.520/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 13/9/2019.
+Logo, considerando que a agravante não rebateu, de modo específico, um dos fundamentos adotados pela decisão recorrida para negar trânsito ao apelo especial, incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Por fim, registre-se que essa foi a linha de entendimento confirmada pela Corte Especial do STJ, n a assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro João Otávio de Noronha, Rel. P/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/09/2018, DJe 30/11/2018), na qual se reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
