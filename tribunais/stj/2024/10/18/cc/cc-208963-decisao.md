@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o JUÍZO DE DIREITO DA 1ª VARA DO JUIZADO ESPECIAL CRIMINAL DE PORTO VELHO - RO e o JUÍZO DE DIREITO DA 1ª VARA DO JUIZADO ESPECIAL CRIMINAL DE BRASÍLIA - DF.
+Consta dos autos que Antônio Miguel Negrelli propôs queixa-crime contra José Lucas da Silva Costa, no Juízo da Circunscrição Judiciária de Brasília/DF, pela suposta prática do crime tipificado, em tese, ao art. 140 do Código Penal, em razão de o querelado ter lhe enviado mensagem privada no e-mail do querelante, proferindo palavras reputadas ofensivas à sua honra.
+O Juízo suscitado declarou-se incompetente por entender que, "sob a égide da Lei 9099/95, dispõe o seu artigo 63, que "a competência do Juizado será determinada pelo lugar em que foi praticada a infração penal". Logo, tratando-se de ofensas alegadamente feitas em desfavor do querelante, ofensas estas que teriam ocorrido, em tese, mediante envio de e-mail, e tendo sido alegadamente enviadas pelo querelado, este residente na comarca de Porto Velho / RO, considera-se tal comarca como local dos fatos, e, via de consequência, a competência será daquele MM. Juízo, para o processamento e julgamento do presente feito, ex vi do artigo 63, da Lei 9099/95, acima referido" (e-STJ fl. 99).
+O Juízo do Juizado Especial Criminal de Porto Velho/RO, por sua vez, declarou-se igualmente incompetente e suscitou o presente conflito de competência por entender que a competência é do Juízo do local onde a honra objetiva da vítima havia sido ofendida (Brasília).
+O Ministério Público Federal opinou pela competência do Juízo suscitado, onde foi publicada a ofensa.
+É, em síntese, o relatório.
+Decido.
+Cuida-se de incidente instaurado entre juízes vinculados a Tribunais diversos, razão pela qual, nos termos do art. 105, I, d, da Constituição Federal, conheço do conflito.
+A competência no processo penal, de regra, é estabelecida ratione loci, ou seja, em razão do local em que se consuma a infração penal ou, no caso de tentativa, onde se realizar o último ato de execução, nos termos do disposto no art. 70 do Código de Processo Penal.
+Os crimes de injúria e de difamação consumam-se, respectivamente, no momento em que vítima e terceiros tomam conhecimento das ofensas proferidas. A propósito, cita-se: NUCCI, Guilherme de Souza. Código Penal Comentado. 14. ed. rev., atual. e ampl. Rio de Janeiro: Forense, 2014, p. 748 e 753.
+Corroborando esse entendimento, o seguinte julgado desta Corte Superior:
+CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. INJÚRIA. INTERNET. UTILIZAÇÃO DO INSTAGRAM DIRECT. CARÁTER PRIVADO DAS MENSAGENS. INDISPONIBILIDADE PARA ACESSO DE TERCEIROS. CONSUMAÇÃO. LOCAL EM QUE A VÍTIMA TOMOU CIÊNCIA DAS OFENSAS. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que no caso de delitos contra a honra praticados por meio da internet, o local da consumação do delito é aquele onde incluído o conteúdo ofensivo na rede mundial de computadores. Contudo, tal entendimento diz respeito aos casos em que a publicação é possível de ser visualizada por terceiros, indistintamente, a partir do momento em que veiculada por seu autor.
+2. No caso dos autos, embora tenha sido utilizada a internet para a suposta prática do crime de injúria, o envio da mensagem de áudio com o conteúdo ofensivo à Vítima ocorreu por meio de aplicativo de troca de mensagens entre usuários em caráter privado, denominado "instagram direct", no qual somente o autor e o destinatário têm acesso ao seu conteúdo, não sendo para visualização por terceiros, após a sua inserção na rede de computadores.
+3. Aplicação do entendimento geral de que o crime de injúria se consuma no local onde a Vítima tomou conhecimento do conteúdo ofensivo, o que, na situação dos autos, ocorreu em Brasília/DF.
+4. Conflito conhecido para declarar competente o Juízo Federal da 12.ª Vara do Juizado Especial Criminal de Brasília - SJ/DF, o Suscitado.
+(CC n. 184.269/PB, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 9/2/2022, DJe de 15/2/2022.)
+In casu, ao que se tem dos autos, as mensagens de conteúdo ofensivo foram enviadas por e-mail para a vítima, que reside em Brasília/DF.
+Assim, a consumação de eventual delito contra a honra da vítima consumou-se com o recebimento das mensagens eletrônicas em Brasília/DF.
+Registre-se que não se aplica, ao presente caso, o entendimento desta Corte Superior quanto aos crimes contra a honra praticados pela internet, uma vez que, embora a rede mundial de computadores tenha sido utilizada para o envio das mensagens eletrônicas, a conversa não ficou acessível a outros usuários, tendo ficado restrita ao âmbito privado.
+Ante o exposto, conheço do conflito para declarar competente o Juízo suscitado (JUÍZO DE DIREITO DA 1ª VARA DO JUIZADO ESPECIAL CRIMINAL DE BRASÍLIA - DF).
+Publique-se. Comunique-se.
+EMENTA
