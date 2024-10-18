@@ -1,0 +1,12 @@
+DECISÃO
+TIAGO CARDOSO DE SOUZA, apenado do regime semiaberto, alega sofrer coação ilegal diante de acórdão do Tribunal de origem, que indeferiu sua passagem direta ao livramento condicional.
+A defesa reitera a pretensão a Corte, argumentando que o reeducando preenche todos os requisitos legais e não há previsão normativa que exija a progressão ao regime aberto antes da antecipação da liberdade.
+Decido.
+O Juiz da VEC, em decisão mantida pelo Tribunal de origem, indeferiu o livramento condicional porque o sentenciado "foi beneficiado com a progressão ao regime semiaberto em 24/7/2024  ..  e sequer deu mostras de adequação à menor vigilância". Para o Magistrado, a "concessão desse benefício configuraria verdadeira progressão por saltos" (fls. 59-60).
+Segundo a jurisprudência desta Corte, "a gravidade do delito, a longa pena a cumprir e a impossibilidade da chamada progressão per saltum de regime prisional não são fundamentos idôneos para o indeferimento do livramento condicional" (AgRg no HC n. 848.978/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/12/2023, DJe de 21/12/2023).
+Deveras, nos termos dos arts. 83 do Código Penal, 112 e 131 da Lei de Execuções Penais, para a concessão do benefício, deve o apenado preencher os requisitos de natureza objetiva (fração de cumprimento da pena) e subjetiva (comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover ao próprio sustento de maneira lícita).
+Conforme o Tema Repetitivo n. 1.161, "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal".
+Na hipótese, as instâncias ordinárias indeferiram o livramento condicional ante a necessidade de o apenado vivenciar primeiramente o regime intermediário, exigência não prevista em lei, que consubstancia constrangimento ilegal no entendimento desta Corte.
+À vista do exposto, concedo a ordem de habeas corpus e determino ao Juiz da Vara de Execuções Penais que reexamine o pedido de livramento condicional, observando os requisitos legais, sem possibilidade de indeferir o benefício com base em alegação de progressão per saltum.
+Publique-se e intimem-se
+EMENTA
