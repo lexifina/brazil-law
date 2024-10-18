@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial pelo qual a FAZENDA NACIONAL se insurgira contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+Nas razões de seu recurso especial, a parte ora agravante alega (fls. 186/187):
+Não se pode olvidar que já existe a garantia de impenhorabilidade em relação ao imóvel residencial do devedor (art. 1º da Lei 8.009/90), à pequena propriedade rural trabalhada pela família (art. 5º, inc. XXVI, da CF/88), ao bem de família declarado por ato voluntário (art. 1.711, CC), aos móveis e demais pertencentes que guarnecem a residência do devedor, desde que correspondentes ao médio padrão de vida (art. 833, inc. II, CPC), aos salários e demais rendimentos do trabalho (Art. 833, inc. IV, CPC), aos utensílios utilizados para o trabalho (art. 833, inc. V, do CPC), ao seguro de vida (Art. 833, inc. VI, do CPC) e ao depósito de até 40 salários mínimos em caderneta de poupança. Destarte, o mínimo existencial do devedor já está plenamente resguardado pelas normas em vigor, não havendo a necessidade de intervenção do Poder Judiciário para, em atividade criativa, tirar da cartola mais uma garantia do devedor, em desfavor do credor.
+Deve, portanto, o acórdão ser reformado pois os valores depositados em conta corrente não podem ser considerados impenhoráveis, devendo o art. 833, X, do CPC, ser interpretado restritivamente.
+A parte adversa não apresentou contrarrazões ).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.285), e foi assim delimitada:
+"Definir se é ou não impenhorável a quantia de até quarenta salários-mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos." (REsp 2.015.693/PR e REsp 2.020.425/RS, relatora Ministra Maria Thereza de Assis Moura).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
