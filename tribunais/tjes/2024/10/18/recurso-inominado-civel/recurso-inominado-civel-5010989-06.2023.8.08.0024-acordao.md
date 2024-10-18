@@ -1,0 +1,102 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5010989-06.2023.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: CELIMAR PEZZIN
+RECORRIDO: ESTADO DO ESPIRITO SANTO
+RELATOR(A):
+ADEMAR JOAO BERMOND
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 1ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+ESTADO DO ESPÍRITO SANTO
+
+PODER JUDICIÁRIO
+
+COLÉGIO RECURSAL DOS JUIZADOS ESPECIAIS
+
+PRIMEIRA TURMA RECURSAL
+
+PROCESSO Nº 5010989-06.2023.8.08.0024
+
+RECURSO INOMINADO CÍVEL
+
+RECORRENTE:
+
+CELIMAR PEZZINI
+
+RECORRIDO: ESTADO DO ESPÍRITO SANTO
+
+JUÍZO DE ORIGEM: VITÓRIA – 3° JUIZADO ESPECIAL CRIMINAL E FAZENDA PÚBLICA
+
+JUIZ RELATOR: ADEMAR JOÃO BERMOND
+
+VOTO
+
+Analisando os documentos anexados no id. 7156981, defiro o benefício da gratuidade da justiça à recorrente.
+
+Trata-se de ação ajuizada por CELIMAR PEZZINI em desfavor do ESTADO DO ESPÍRITO SANTO. Afirma que é professora da rede pública estadual e que apesar de ter direito a gozar férias anuais de 45 dias, apenas recebe o terço constitucional sobre 30 dias. Pretende assim, a condenação do Estado no pagamento das diferenças do valor pago nos últimos cinco anos.
+
+O juízo sentenciante julgou improcedentes os pedidos por entender que
+“[...] não há nenhuma previsão legal para o gozo de 45 (quarenta e cinco) dias de férias pelos
+servidores temporários
+como requerido na inicial, sendo certo que, consoante o princípio da legalidade previsto no art. 37 da CF, sob a ótica da Administração Pública, somente é permitido agir dentro daquilo que é previsto e autorizado por lei.
+
+Diante disso, não há que falar em incidência de 1/3 de férias sobre os 45 (quarenta e cinco) dias de férias, razão pela qual a pretensão autoral não merece prosperar.”
+
+A recorrente, irresignada, pugnou pela reforma da sentença a fim de que sejam julgados procedentes os pedidos contidos na inicial, sustentando que não há diferença no regime de férias dos professores efetivos e temporários.
+
+Entendo que não assiste razão à recorrente, de modo que a sentença deve ser mantida.
+
+A Lei Complementar Estadual nº 115/1998 – Estatuto do Magistério Estadual – prevê, no art. 48, como sendo de 45 (quarenta e cinco) dias o período de férias dos professores, razão pela qual fixou-se o entendimento de que o adicional de férias deverá incidir sobre todo o período previsto (45 dias) e não somente sobre 30 (trinta) dias, no entanto,
+a norma citada trata dos servidores efetivos.
+
+Analisando a LCE 115/98 verifico que no Capítulo VI, que trata do exercício do magistério em caráter temporário, não há previsão acerca da duração do período de gozo de férias.
+
+O art. 36 da referida Lei, invocado pela recorrente, não prevê que os professores em designação temporária terão os mesmos direitos dos efetivos, mas sim que estão sujeitos as mesmas proibições e ao mesmos deveres.
+
+Ademais, a Lei Complementar Estadual nº 809/2015, que disciplina as contratações temporárias, também não faz menção a duração do período de férias dos professores contratados sob esse regime.
+
+Diante desse cenário, tendo em vista que não há nenhuma previsão legal para o gozo de 45 (quarenta e cinco) dias de férias pelos servidores temporários, como requerido na inicial, sendo certo que, consoante o princípio da legalidade, previsto no art. 37 da CF, sob a ótica da Administração Pública, somente é permitido agir dentro daquilo que é previsto e autorizado por lei, não há como serem acolhidos os pedidos da parte autora.
+
+Ante o exposto,
+CONHEÇO
+do recurso, mas, no mérito,
+NEGO-LHE PROVIMENTO
+, mantendo o entendimento da sentença recorrida.
+
+CONDENO
+a recorrente ao pagamento de custas e honorários advocatícios arbitrados em 20% sobre o valor da causa, no entanto, suspendo sua exigibilidade em razão da concessão da gratuidade da justiça, de acordo com o art. 55 da Lei n. 9099/95 e art. 98, § 3º do CPC.
+
+Karine Monteiro Prado
+
+Juíza Leiga
+
+O Sr. Juiz de Direito
+Relator Doutor ADEMAR JOÃO BERMOND
+: Nos termos da Resolução TJES n. 12/2020,
+HOMOLOGO
+o projeto de voto elaborado pela Ilma. Juíza Leiga, adotando como razões da minha manifestação para que produza seus efeitos legais.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
