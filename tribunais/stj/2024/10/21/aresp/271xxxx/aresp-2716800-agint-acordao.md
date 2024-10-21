@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA C/C INDENIZAÇÃO E COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. NEGATIVA DE COBERTURA. TRATAMENTO PRESCRITO POR MÉDICO. DIAGNÓSTICO DE CÂNCER. ROL DE PROCEDIMENTOS DA ANS. DESIMPORTÂNCIA. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. NEGATIVA INDEVIDA. DANOS MORAIS CONFIGURADOS. SÚMULA 568/STJ.
+1. Ação declaratória de inexigibilidade de débito c/c obrigação de fazer com pedido de tutela de urgência c/c indenização e compensação por danos morais.
+2. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada. Precedente da Corte Especial.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Na situação em análise, trata-se de exame vinculado a tratamento de câncer, hipótese em que a jurisprudência é assente no sentido de que a cobertura é obrigatória. Precedentes.
+5. Alterar o decidido no acórdão impugnado, no que se refere à ocorrência de negativa indevida de cobertura de tratamento de câncer na hipótese, configurando a existência de ato ilícito, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+6. A negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+7. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por FUNDACAO CESP contra decisão unipessoal que conheceu do agravo, para conhecer parcialmente do recurso especial que interpusera e, nessa extensão, negou provimento.
+Ação: declaratória de inexigibilidade de débito c/c obrigação de fazer com pedido de tutela de urgência c/c indenização e compensação por danos morais, ajuizada por ANDRE LUIS GUTIERREZ PEREIRA - ESPÓLIO e RAQUEL IGLESIAS VERDENACCI, em face da agravante e de HOSPITAL SAMARITANO DE SÃO PAULO LTDA. (interessado), em razão de negativa indevida de custeio de exames indispensáveis à realização do transplante de medula óssea, em razão do diagnóstico de câncer (linfoma não Hodgkin) de ANDRE LUIS GUTIERREZ PEREIRA.
+Sentença: em relação ao demandado HOSPITAL SAMARITANO DE SÃO PAULO LTDA. (interessado), julgou parcialmente procedentes os pedidos, para:
+i) confirmando a tutela de urgência deferida anteriormente, condená-lo a se abster de cobrar as despesas em aberto dos agravados/autores, oriundas do tratamento médico do segurado, sob pena de multa; e
+ii) declarar a inexigibilidade dos débitos nos valores de R$ 2.931,50 (dois mil e novecentos e trinta e um reais e cinquenta centavos) e de R$ 4.325,00 (quatro mil e trezentos e vinte e cinco reais), perante os agravados/autores.
+No que tange à agravante, julgou procedentes os pedidos, para condená-la:
+i) ao pagamento das despesas relativas ao tratamento médico do coautor ANDRE LUIS GUTIERREZ PEREIRA diretamente ao Hospital Samaritano, inclusive as relativas aos exames nos valores de R$ 2.931,50 (dois mil e novecentos e trinta e um reais e cinquenta centavos) e de R$ 4.325,00 (quatro mil e trezentos e vinte e cinco reais); e
+ii) ao pagamento de compensação por danos morais, no valor de R$ 10.000,00 (dez mil reais).
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+Ação declaratória de inexigibilidade de débito c/c obrigação de fazer e indenização por danos morais. Parcial procedência da ação em relação ao hospital corréu acolhida pela r. sentença. Questão que restou irrecorrida. Plano de saúde de autogestão. Não incidência do Código de Defesa do Consumidor (Súmula 608 do STJ). Autor diagnosticado com linfoma não Hodgkin, que posteriormente veio a óbito (pág. 26). Negativa de cobertura ao custeio dos exames prescritos pelo médico assistente (HLA A, B, C DQ de alta resolução; Painel de Reatividade contra Linfócitos; PCR para Mycobacterium Tubercolosis), preparatórios para o transplante de medula óssea. Negativa que não se justificava, pois verificada a previsão no Rol da ANS, considerada ainda a recente decisão da Segunda Seção do Superior Tribunal de Justiça. Dever de cobertura configurado, pois evidente a natureza de urgência do exame, diante da notória gravidade da doença que acometia o coautor. Cobrança da despesa hospitalar de forma particular. Dever de pagamento que cabe à Operadora do plano de saúde. Coparticipação não analisada, por não deduzida em contestação. Conduta indevida e desidiosa da corré Fundação Cesp corretamente reconhecida. Conduta da Operadora que não pode ser tida como mero aborrecimento. Dever de indenizar caracterizado. Dano moral bem arbitrado em R$ 10.000,00. Sentença de procedência mantida. Honorários sucumbenciais majorados para 15% do valor da condenação (art. 85, § 11, do CPC). Recurso não provido. (e-STJ, fl. 350)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega a violação dos arts. 10, §§3º e 4º, da Lei 9.656/98; 186, 187, 422 e 927, todos do CC/02, bem como dissídio jurisprudencial. Sustenta:
+i) a legalidade da recusa de cobertura de procedimento fora da cobertura contratual e não listado no rol taxativo da ANS;
+ii) "(..) o tratamento diferenciado para planos de saúde geridos por autogestão, pelo fato de que "nos planos de autogestão, os regulamentos e normas restritivas buscam a proteção do equilíbrio atuarial e mensalidades de custo menor, não podendo ser vistas como cláusulas contratuais abusivas. A relação jurídica desses planos tem peculiaridades, seja na sua constituição, administração, obtenção de receitas e forma de associar-se, completamente diferentes dos contratos firmados com empresas que exploram essa atividade no mercado e visam o lucro"". (e-STJ, fl. 370); e
+iii) a inexistência de negativa de autorização do procedimento, tratando-se de uma situação na qual não havia previsão legal de cobertura e ela foi simplesmente negada, o que afasta a ocorrência de ato ilícito e de pagamento de compensação por danos morais.
+Decisão monocrática: conheceu do agravo, para conhecer parcialmente do recurso especial interposto e, nessa extensão, negou provimento, nos termos do art. 932, III, IV, "a", do CPC, bem como na Súmula 568/STJ (e-STJ, fls. 421/426).
+Agravo interno: alega, em síntese:
+i) o devido prequestionamento da matéria constante nas razões recursais;
+ii) a impossibilidade de cobertura de tratamento não constante no Rol da ANS, o qual tem natureza taxativa;
+iii) que a agravante "(..) agiu de acordo com os termos do contrato firmado entre as partes. NÃO SE CARACTERIZANDO, PORTANTO, ATO ILÍCITO OU EXEDENTE AOS LIMITES IMPOSTOS PELO SEU FIM ECONÔMICO OU SOCIAL." (e-STJ, fl. 606); e
+iv) a não incidência da Súmula 7/STJ, sendo a situação dos autos questão de revaloração da prova, a qual é permitida.
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA C/C INDENIZAÇÃO E COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. NEGATIVA DE COBERTURA. TRATAMENTO PRESCRITO POR MÉDICO. DIAGNÓSTICO DE CÂNCER. ROL DE PROCEDIMENTOS DA ANS. DESIMPORTÂNCIA. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. NEGATIVA INDEVIDA. DANOS MORAIS CONFIGURADOS. SÚMULA 568/STJ.
+1. Ação declaratória de inexigibilidade de débito c/c obrigação de fazer com pedido de tutela de urgência c/c indenização e compensação por danos morais.
+2. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada. Precedente da Corte Especial.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Na situação em análise, trata-se de exame vinculado a tratamento de câncer, hipótese em que a jurisprudência é assente no sentido de que a cobertura é obrigatória. Precedentes.
+5. Alterar o decidido no acórdão impugnado, no que se refere à ocorrência de negativa indevida de cobertura de tratamento de câncer na hipótese, configurando a existência de ato ilícito, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+6. A negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+7. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo, para conhecer parcialmente do recurso especial interposto pela agravante e, nessa extensão, negou provimento, em razão da:
+i) incidência da Súmula 211/STJ;
+ii) incidência da Súmula 568/STJ;
+ii) incidência da Súmula 7/STJ; e
+iv) ausência de similitude fática entre os acórdãos confrontados para fins de demonstração de dissídio jurisprudencial.
+Inicialmente, em relação ao óbice referente à ausência de similitude fática entre os acórdãos confrontados para fins de demonstração de dissídio jurisprudencial, urge frisar que o agravo interno não impugnou o referido fundamento constante na decisão monocrática de fls. 585/591 (e-STJ), acarretando a preclusão no que concerne à impugnação do referido óbice. Nesse sentir: EREsp 1.424.404/SP (Corte Especial, DJe 17/11/2021).
+Dessa forma, passe-se à análise dos demais fundamentos impugnados constantes na decisão agravada.
+1. Da ausência de prequestionamento
+A falta de prequestionamento é condição suficiente para obstar o processamento do recurso especial e exigência indispensável para o seu cabimento. Insatisfeito, este não supera o âmbito de sua admissibilidade, atraindo a incidência das Súmulas 282 do STF ou 211 do STJ.
+Dito isso, da reanálise minuciosa dos autos, realmente, observa-se que a aplicação do óbice da Súmula 211 do STJ decorre da não deliberação pelo acórdão recorrido acerca dos arts. 10, §3º, da Lei 9.656/98 e 422 do CC/02, apesar da oposição de embargos de declaração.
+A propósito, convém salientar que a incumbência constitucional deste Superior Tribunal de Justiça, ao julgar o recurso especial, é muito mais ampla do que o exame do direito alegado pelas partes, em revisão do decidido pelas Cortes locais. Cabe ao STJ, precipuamente, a uniformização da interpretação da Lei Federal, daí porque é indispensável que tenha havido o prévio debate acerca dos artigos legais pelos Tribunais de origem.
+Portanto, a decisão deve ser mantida ante a aplicação do óbice da Súmula 211 do STJ.
+2. Da súmula 568 do STJ (Cobertura de tratamento contra câncer)
+Nas razões do agravo interno, o agravante defende a impossibilidade de cobertura de tratamento não constante no Rol da ANS, o qual tem natureza taxativa, conforme a jurisprudência do STJ.
+No entanto, a decisão agravada consignou que o decidido pelo Tribunal local está de acordo com a jurisprudência do Superior Tribunal de Justiça, no sentido de que ambas as Turmas que compõe a 2ª Seção do STJ entendem que, independentemente da discussão a respeito da natureza do rol da ANS, há obrigatoriedade de cobertura de tratamento contra o câncer, o que inclui a realização de exames.
+Para isso trouxe os seguintes precedentes: AgInt no AgInt no AREsp n. 2.346.356/SP (Terceira Turma, DJe de 28/2/2024) e AgInt no REsp n. 2.104.608/SP (Quarta Turma, DJe de 11/3/2024).
+Ressalta-se que a aplicação da Súmula 568/STJ somente é devidamente impugnada quando a parte agravante demonstra, de forma fundamentada, que o entendimento esposado na decisão agravada não se aplica à hipótese em concreto ou, ainda, que é ultrapassado, o que se dá mediante a colação de arestos mais recentes do que aqueles mencionados na decisão hostilizada. Isso, contudo, não ocorreu na espécie.
+Assim, deve ser mantida a aplicação da Súmula 568/STJ.
+3. Do reexame de fatos e provas
+Quanto à aplicação da Súmula 7/STJ, essa merece ser mantida, haja vista que os argumentos trazidos pela parte agravante não são capazes de demonstrar como alterar o decidido pelo Tribunal de origem no que refere à ocorrência de negativa indevida de cobertura de tratamento de câncer na hipótese, configurando a existência de ato ilícito, não demandaria o reexame de fatos e provas.
+Desse modo, rever tais entendimentos, de fato, implicaria em reexame do acervo fático-probatório, o que é obstado pelo enunciado sumular nº 7/STJ.
+4. Da súmula 568 do STJ (Danos morais em razão de negativa de cobertura)
+Nas razões do agravo interno, o agravante defende que "(..) é mister frisar que o dano moral encontra como bem jurídico protegido a dignidade da pessoa humana e nada mais. Assim, o instituto do dano moral reúne todo o seu fundamento naquele bem jurídico, e, por consequência, nele encontra as suas limitações e alcance. 42.Assim, o Tribunal violou expressamente o artigo 186 do CC, que preconiza: Art. 186. Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar ano a outrem, ainda que exclusivamente moral, comete ato ilícito. Isso porque não houve qualquer negligência ou imprudência por parte da Vivest, pelo contrário, houve apenas aplicação das medidas de regulação, previstas em lei." (e-STJ, fl. 606).
+No entanto, a decisão agravada consignou que o decidido pelo Tribunal local está de acordo com a jurisprudência do Superior Tribunal de Justiça, no sentido de que a negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente, o que ocorreu na situação dos autos.
+Para isso trouxe os seguintes precedentes: AgInt no REsp 1731656/RS, 4ª Turma, DJe de 29/04/2019; e REsp 1662103/SP, 3ª Turma, DJe 13/12/2018.
+Ressalta-se que a aplicação da Súmula 568/STJ somente é devidamente impugnada quando a parte agravante demonstra, de forma fundamentada, que o entendimento esposado na decisão agravada não se aplica à hipótese em concreto ou, ainda, que é ultrapassado, o que se dá mediante a colação de arestos mais recentes do que aqueles men cionados na decisão hostilizada. Isso, contudo, não ocorreu na espécie.
+Assim, deve ser mantida a aplicação da Súmula 568/STJ.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
