@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. MODIFICAÇÃO DAS PREMISSAS DO ACÓRDÃO A QUO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. O Tribunal local, soberano no reexame dos elementos que instruem o caderno processual, houve por bem manter a improcedência do pleito indenizatório em caso de acidente de trânsito.
+2. Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de asseverar que estão presentes na espécie os elementos ensejadores do dever de indenizar, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Cícero Edilanio Rodrigues Lima desafiando a decisão de fls. 512/515, que negou provimento ao agravo em recurso especial, em razão da incidência da Súmula 7/STJ.
+Inconformada, sustenta a parte agravante, em resumo, que não é caso de incidência do mencionado óbice sumular, visto que as premissas fáticas para demonstração das alegações recursais estão bem delineadas no acórdão recorrido.
+Alega, ademais, que o aresto de origem desconsiderou o entendimento pacífico do Superior Tribunal de Justiça, no sentido de que o motorista que sofre batida na traseira de seu automóvel tem em seu favor a presunção de culpa do outro condutor.
+O prazo para apresentar impugnação transcorreu in albis (fl. 543).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. MODIFICAÇÃO DAS PREMISSAS DO ACÓRDÃO A QUO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. O Tribunal local, soberano no reexame dos elementos que instruem o caderno processual, houve por bem manter a improcedência do pleito indenizatório em caso de acidente de trânsito.
+2. Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de asseverar que estão presentes na espécie os elementos ensejadores do dever de indenizar, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento.
+Cuida-se, na origem, de ação de reparação de dano material e moral proposta pelo ora recorrente, em razão de acidente de trânsito no qual a ambulância da Prefeitura do Município de Lavras da Mangabeira colidiu na traseira do seu veículo.
+A ação foi julgada improcedente e o Sodalício local manteve a sentença em sede de apelação.
+Adiante, a parte agravante interpôs recurso especial alegando violação aos arts. 43, 186 e 927 do Código Civil; 28 e 29, II, do CTB; e 373, II, do CPC, ao argumento de que o julgamento proferido pelo Tribunal local foi equivocado ao deixar de reconhecer a presunção de culpa da parte agravada pela colisão na traseira do veículo e que essa não se desincumbiu do ônus de demonstrar a ocorrência de causa excludente apta ao afastamento da sua responsabilidade pelo acidente.
+Pois bem.
+No caso, o Sodalício local concluiu pela manutenção da sentença de improcedência, firme na seguinte fundamentação (fl. 389):
+Da análise dos autos observa-se que inexiste provas quanto a dinâmica do acidente. A prova colacionada aos autos mostra-se frágil e não se presta para demonstrar o alegado pelo autor.
+Como bem consignado pelo juízo a quo:
+Diante deste cenário, entendo que a pretensão indenizatória do autor não é devida, uma vez que, analisando o diminuto conjunto probatório produzido nos autos, não é possível constatar se de fato o veículo que prestava serviços para o município réu trafegava em alta velocidade, o que, segundo o autor, foi a razão determinante para a ocorrência do acidente de trânsito.
+E no acórdão dos embargos de declaração, complementou (fls. 419/420):
+Tratando-se de acidente de trânsito, havendo colisão traseira, há presunção de culpabilidade do motorista que bate atrás. É certo, no entanto, que a presunção de culpa do motorista que colide contra a traseira de outro veículo é relativa, admitindo prova em sentido contrário.
+No caso dos autos, como bem observou o juízo a quo, o diminuto conjunto probatório produzido não se mostra suficiente para constatar que de fato o veículo que prestava serviços para o município réu trafegava em alta velocidade, o que, segundo o autor, foi a razão determinante para a ocorrência do sinistro.
+Ademais, além das fotos juntadas pelo autor, consta como prova apenas boletins de ocorrência registrados por ambas as partes e que demonstram versões antagônicas quanto a forma como se desenvolveu o acidente.
+Ressalte-se, inclusive, que as informações constantes do boletim de ocorrência registrado pelo preposto do demandado sequer foram informadas pelo autor. Colaciono, por oportuno, trecho do citado B.
+"Afirma o noticiante que é motorista da Prefeitura municipal de Lavras da Mangabeira/CE; QUE no dia, hora e local acima citados, conduzia a ambulância  .. , quando colidiu do lado direito de um veículo FIAT/SIENA, PLACA PFY-2928, que entrou na rodovia repentinamente; QUE a ambulância ficou completamente danificada; QUE o condutor do FIAT/SIENA evadiu-se do local, retirando o veículo; QUE sofreu uma forte pancada no peito; QUE foi socorrido até o Hospital São Vicente Ferrer  .. "
+Portanto, embora o autor tenha juntado fotos em que mostram que sem veículo foi atingido na parte traseira, o demais acervo probatório (boletins de ocorrência) não se mostra suficiente para se concluir pela culpabilidade do veículo de propriedade do demandado, tendo em vista que a entrada brusca de um veículo na via dificulta a frenagem necessária do veículo que vem trafegando normalmente em referida via.
+Assim, verifica-se que o Tribunal local, soberano no reexame dos elementos que instruem o caderno processual, houve por bem manter a improcedência do pleito indenizatório no caso de acidente de trânsito.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de asseverar que estão presentes na espécie os elementos ensejadores do dever de indenizar, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Em reforço:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. COLISÃO MÚLTIPLA. 1. PRESUNÇÃO DE CULPA POR COLISÃO NA PARTE TRASEIRA DO VEÍCULO AFASTADA COM BASE NA ANÁLISE DAS PROVAS. 2. PRETENSÃO DE REAPRECIAÇÃO DO QUADRO FÁTICO-PROBATÓRIO. DESCABIMENTO. SÚMULA 7/STJ. 3. CONTRADIÇÃO DO ACÓRDÃO EMBARGADO QUANTO AO DISSÍDIO. NÃO CARACTERIZAÇÃO. 4. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. A presunção de culpa por colisão na parte traseira do veículo foi afastada pelo Tribunal de origem devido a circunstâncias peculiares ao caso, notadamente em razão de o acidente ter envolvido outros veículos, e não apenas o do pai dos autores e o do réu, não tendo sido possível por esse motivo e pela ausência de provas, constatar o que realmente ocorreu no dia dos fatos, qual foi a causa da colisão, tampouco individualizar a participação de cada um dos condutores, a fim de se apurar se o acidente fatal decorreu efetivamente da imprudência do requerido, daí a observação do relator do acórdão recorrido de que o "acidente pode ter sido causado por qualquer um dos condutores".
+2. Nesse contexto, ao contrário do que sustentam os embargantes, a revisão da conclusão assentada pelo Colegiado estadual dependeria não de uma nova qualificação jurídica dos fatos, mas do reexame do quadro probatório, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula 7 deste Tribunal, assim como consignado no acórdão embargado.
+3. Improsperável, também, a alegação de contradição entre a ementa e o teor do acórdão embargado, cujo voto foi claro quanto à inviabilidade da demonstração do dissídio jurisprudencial no caso, pois, tendo o Tribunal a quo concluído com base no conjunto fático-probatório, impossível se torna o confronto entre os paradigmas e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fática própria de cada julgamento, o que não é possível de ser feito nesta via excepcional, por força da Súmula 7 desta Corte.
+4. Os embargos de declaração não se prestam ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+5. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgRg no AREsp 426.286/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2014, DJe de 22/10/2014.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
