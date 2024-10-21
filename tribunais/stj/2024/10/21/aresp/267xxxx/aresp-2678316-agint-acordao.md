@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  AUSÊNCIA  DE  IMPUGNAÇÃO.  ARTIGO  932,  INCISO  III,  DO  CÓDIGO  DE  PROCESSO  CIVIL.
+1.  Não  pode  ser  conhecido  o  recurso  que  não  infirma  especificamente  os  fundamentos  da  decisão  agravada,  atraindo  o  disposto  no  artigo  932,  inciso  III,  do  Código  de  Processo  Civil.
+2.  Quando  o  recurso  especial  não  é  admitido  com  fundamento  na  Súmula  nº  83/STJ,  a  impugnação  deve  indicar  precedentes  contemporâneos  ou  supervenientes  aos  mencionados  na  decisão  combatida,  demonstrando-se  que  outro  é  o  entendimento  jurisprudencial  desta  Corte,  o  que  não  ocorreu  no  caso.
+3 .  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  HAPVIDA ASSISTÊNCIA MÉDICA S.A.  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  não  conheceu  do  agravo  em  recurso  especial  em  virtude  da  falta  de  impugnação  específica  dos  fundamentos  da  decisão  atacada, a saber: Súmula nº 83/STJ  (e-STJ  fls. 213/214).
+Em  suas  razões  (e-STJ  fls.  218/263),  a  agravante  alega  que  há  nos  autos  fundamentos  para  a  impugnação  da  decisão  que  não  admitiu  o  apelo  nobre.
+Salienta  que  no que diz respeito à aplicação da Súmula nº 83/STJ, destacou que o posicionamento recente desta Corte, concluído com o julgamento dos EREsp"s nºs 1.889704/SP e .8886929/SP, traçou orientação que pela taxatividade do Rol da ANS.
+Assim, não há falar em aplicação da Súmula nº 182/STJ e do art. 932, III, do CPC.
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+Sem  impugnação  (e-STJ  fl.  267).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  AUSÊNCIA  DE  IMPUGNAÇÃO.  ARTIGO  932,  INCISO  III,  DO  CÓDIGO  DE  PROCESSO  CIVIL.
+1.  Não  pode  ser  conhecido  o  recurso  que  não  infirma  especificamente  os  fundamentos  da  decisão  agravada,  atraindo  o  disposto  no  artigo  932,  inciso  III,  do  Código  de  Processo  Civil.
+2.  Quando  o  recurso  especial  não  é  admitido  com  fundamento  na  Súmula  nº  83/STJ,  a  impugnação  deve  indicar  precedentes  contemporâneos  ou  supervenientes  aos  mencionados  na  decisão  combatida,  demonstrando-se  que  outro  é  o  entendimento  jurisprudencial  desta  Corte,  o  que  não  ocorreu  no  caso.
+3 .  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+O  artigo  932,  inciso  III,  do  Código  de  Processo  Civil  impõe  ao  relator  não  conhecer  do  recurso  "(..)  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida".
+No  caso,  a  decisão  atacada  não  conheceu  do  agravo  em  recurso  especial  ,  pois  a  agravante  deixou  de  refutar  especificamente  o  óbice  da  Súmula  nº  83/STJ.
+A  despeito  das  argumentações  expendidas  no  agravo  interno,  é  pacífico  o  entendimento  do  Superior  Tribunal  de  Justiça  de  ser  dever  do  agravante  refutar  especificamente  todos  os  fundamentos  da  decisão  atacada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo,  não  bastando  para  tanto  a  impugnação  genérica,  parcial  ou  a  reiteração  das  razões  do  recurso  anterior.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  (..)  NÃO  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL.  CONFIRMAÇÃO  DO  NÃO  CONHECIMENTO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  NÃO  PROVIDO.
+(..)
+2.  A  ausência  de  impugnação  específica,  na  petição  de  agravo  em  recurso  especial,  dos  fundamentos  da  decisão  que  não  admite  o  apelo  especial  impossibilita  o  conhecimento  do  recurso,  nos  termos  do  art.  932,  III,  do  CPC/2015.
+3.  Agravo  interno  ao  qual  se  nega  provimento"  (AgInt  no  AREsp  1.001.997/SC,  Rel.  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  7/2/2017,  DJe  16/2/2017  -  grifou-se).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RAZÕES  DO  AGRAVO  QUE  NÃO  IMPUGNAM,  ESPECIFICAMENTE,  TODOS  OS  FUNDAMENTOS  DA  DECISÃO  QUE  NÃO  ADMITIU  O  RECURSO  ESPECIAL.  ART.  932,  III,  DO  CPC/2015  E  SÚMULA  182/STJ,  POR  ANALOGIA.  MAJORAÇÃO  DE  HONORÁRIOS  ADVOCATÍCIOS.  ART.  85,  §  11,  DO  CPC/2015.  MANDADO  DE  SEGURANÇA.  SÚMULA  105/STJ.  DESCABIMENTO.  AG R AVO  INTERNO  PARCIALMENTE  PROVIDO.
+(..)
+II.  Incumbe  ao  agravante  infirmar,  especificamente,  todos  os  fundamentos  da  decisão  que  inadmitiu  o  Recurso  Especial,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  processamento  do  apelo  nobre,  sob  pena  de  não  ser  conhecido  o  Agravo  (art.  932,  III,  do  CPC  vigente).
+III.  No  caso,  por  simples  cotejo  entre  o  decidido  e  as  razões  do  Agravo  em  Recurso  Especial  verifica-se  a  ausência  de  impugnação  específica  de  todos  os  fundamentos  da  decisão  que,  em  2º  Grau,  inadmitira  o  Especial,  o  que  atrai  a  aplicação  do  disposto  no  art.  932,  III,  do  CPC/2015  -  vigente  à  época  da  publicação  da  decisão  então  agravada  e  da  interposição  do  recurso  -,  que  faculta  ao  Relator  "não  conhecer  de  recurso  inadmissível,  prejudicado  ou  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida",  bem  como  do  teor  da  Súmula  182  do  Superior  Tribunal  de  Justiça,  por  analogia.
+(..)
+ V.  Agravo  interno  parcialmente  provido,  apenas  para  excluir  a  majoração  de  honorários  advocatícios  (art.  85,  §  11,  do  CPC/2015)"  (AgInt  no  AREsp  1.115.522/PI,  Rel.  Ministra  ASSUSETE  MAGALHÃES,  Se  gunda  Turma,  julgado  em  3/10/2017,  DJe  13/10/2017  -  grifou-se).
+Na hipótese, a decisão que inadmitiu o apelo nobre entendeu pela aplicação da Súmula nº 83/STJ, em virtude do acórdão recorrido está em consonância com o entendimento desta Corte, de que "as operadoras de plano de saúde têm o dever de cobertura de fármacos antineoplásicos utilizados para tratamento contra o câncer, sendo irrelevante analisar a natureza taxativa ou exemplificativa do rol da ANS (AgInt no R Esp 2.100.921/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/3/2024, D Je de 14/3/2024- grifou-se)" (e-STJ fl.190/191).
+No entanto, a agravante refuta a aplicação da referida súmula, apontando os EREsp"s nºs 1.889704/SP e .8886929/SP, que definiram a natureza jurídica do Rol da ANS, matéria diversa daquela tratada no julgado indicado pela decisão que inadmitiu o recurso especial.
+Registra-se  que,  quando  o  recurso  especial  não  é  admitido  com  fundamento  na  Súmula  nº  83/STJ,  a  impugnação  deve  indicar  precedentes  contemporâneos  ou  supervenientes  aos  mencionados  na  decisão  combatida,  demonstrando-se  que  outro  é  o  entendimento  jurisprudencial  desta  Corte,  o  que  não  ocorreu  no  caso.
+Nesse  sentido:
+"PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL.  JUÍZO  DE  PRELIBAÇÃO  NEGATIVO.  DECISÃO  DO  TRIBUNAL  DE  ORIGEM.  IMPUGNAÇÃO  ESPECÍFICA.  AUSÊNCIA.
+1.  De  acordo  com  o  disposto  no  art.  253,  parágrafo  único,  I,  do  RISTJ  e  no  art.  932,  III,  do  CPC/2015,  compete  à  parte  agravante  infirmar  especificamente  os  fundamentos  adotados  pela  Corte  de  origem  para  obstar  o  seguimento  do  recurso  especial,  mostrando-se  inadmissível  o  agravo  que  não  se  insurge  contra  todos  eles.
+2.  Entre  outros  fundamentos,  o  Tribunal  de  origem  inadmitiu  o  recurso  especial  por  compreender  que  o  acórdão  recorrido  está  em  conformidade  com  a  orientação  jurisprudencial  desta  Corte  Superior  de  que  as  mercadorias  dadas  em  bonificação  integram  a  base  de  cálculo  do  ICMS/ST.
+3.  Inadmitido  o  recurso  especial  com  base  na  Súmula  83  do  STJ,  caberia  ao  agravante  apontar  precedentes  contemporâneos  ou  supervenientes  aos  referidos  na  decisão  impugnada,  procedendo  ao  devido  cotejo  analítico,  a  fim  de  demonstrar  que  a  orientação  desta  Corte  não  se  firmou  no  sentido  do  acórdão  recorrido,  ou,  ainda,  demonstrar  a  não  subsunção  do  caso  concreto  à  jurisprudência  citada  pela  decisão  de  inadmissibilidade,  o  que  não  ocorreu  na  espécie.
+4.  Hipótese  em  que,  para  combater  a  aplicação  do  aludido  óbice,  a  parte  agravante  limitou-se  a  afirmar  que  o  seu  caso  não  cuida  de  mercadorias  dadas  em  bonificação,  mas  de  descontos  incondicionais,  o  que  ensejaria  uma  situação  jurídica  diferente
+5.  Caso  em  que  essa  suposta  distinção,  todavia,  não  é  reconhecida  pela  firme  posição  pretoriana  deste  Sodalício,  que,  para  fins  de  interpretação  dos  arts.  8º  e  13  da  LC  n.  87/1996,  tratam  essas  figuras  da  mesma  maneira,  visto  que  "a  bonificação  é  uma  modalidade  de  desconto  que  consiste  na  entrega  de  uma  maior  quantidade  de  produto  vendido  em  vez  de  conceder  uma  redução  do  valor  da  venda"  (REsp  923.012/MG,  relator  Ministro  Luiz  Fux,  Primeira  Seção,  julgado  em  09/06/2010,  DJe  de  24/06/2010).  No  mesmo  sentido:  EREsp  715.255/MG,  rel.  Ministra  ELIANA  CALMON,  Primeira  Seção,  DJe  23/02/2011;  AgRg  nos  EREsp  953.219/RJ,  rel.  Ministro  Arnaldo  Esteves  Lima,  Primeira  Seção,  julgado  em  11/06/2014,  DJe  de  20/06/2014.
+6.  Agravo  interno  desprovido"  (AgInt  nos  EDcl  no  AREsp  2.225.294/GO,  Relator  Ministro  GURGEL  DE  FARIA,  Primeira  Turma,  julgado  em  21/8/2023,  DJe  de  24/8/2023  -  grifou-se).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
