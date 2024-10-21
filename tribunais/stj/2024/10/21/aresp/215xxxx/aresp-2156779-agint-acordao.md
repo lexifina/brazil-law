@@ -1,0 +1,123 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. JUROS DE MORA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial. A parte agravante reitera alegação de omissão do Tribunal de Justiça, sustenta preclusão do debate sobre a data de inscrição indevida em cadastro de inadimplentes e aponta ofensa aos princípios da adstrição e da devolutividade recursal.
+II. Questão em discussão
+2. A questão em discussão consiste na possibilidade de alteração, de ofício, do termo inicial dos juros de mora em caso de inscrição indevida em cadastro de inadimplentes.
+III. Razões de decidir
+3. O Tribunal de origem decidiu em conformidade com a jurisprudência do STJ, que permite a alteração de ofício do termo inicial dos juros de mora, por ser matéria de ordem pública.
+4. Não há violação ao art. 1.022 do CPC/2015, pois o acórdão recorrido abordou de forma clara e suficiente as questões suscitadas.
+5. A sentença não definiu especificamente a data para o termo inicial dos juros de mora, sendo a questão objeto de apelação, recurso de ampla devolutividade.
+6. A revisão das conclusões do acórdão demandaria incursão fático-probatória, vedada em sede especial, conforme a Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: 1. A correção monetária e os juros de mora são consectários legais da condenação principal e podem ser analisados de ofício. 2. A alteração do termo inicial dos juros de mora não configura julgamento extra petita nem reformatio in pejus.
+Dispositivos relevantes citados: CPC/2015, art. 1.022; CPC/2015, art. 85, § 11.
+Jurisprudência relevante citada: STJ, AgInt nos EDcl no AREsp n. 1.661.519/SP, de minha relatoria, Quarta Turma, julgado em 21/2/2022; STJ, AgInt no AREsp 1.832.824/RJ, Min. Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/09/2022.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 413/422) interposto contra decisão desta relatoria, que negou provimento ao agravo em recurso especial (e-STJ fls. 404/409).
+Em suas razões, a parte reitera a alegação de omissão do TJSC "quanto à tese relevante de que ao Tribunal compete tão somente, ex officio, aplicar o melhor direito e não reanalisar os fatos não impugnados e sem uma correspondente provocação" (e-STJ fl. 413).
+Insiste em sustentar a preclusão do debate acerca da data da indevida inscrição do nome da parte agravante em cadastro de inadimplentes, bem como a ofensa aos princípios da adstrição e da devolutividade recursal, em decorrência da alteração do termo inicial dos juros de mora.
+Aduz ainda a inaplicabilidade das Súmulas n. 7 e 568 do STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 426/431), requerendo a majoração dos honorários advocatícios.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. JUROS DE MORA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial. A parte agravante reitera alegação de omissão do Tribunal de Justiça, sustenta preclusão do debate sobre a data de inscrição indevida em cadastro de inadimplentes e aponta ofensa aos princípios da adstrição e da devolutividade recursal.
+II. Questão em discussão
+2. A questão em discussão consiste na possibilidade de alteração, de ofício, do termo inicial dos juros de mora em caso de inscrição indevida em cadastro de inadimplentes.
+III. Razões de decidir
+3. O Tribunal de origem decidiu em conformidade com a jurisprudência do STJ, que permite a alteração de ofício do termo inicial dos juros de mora, por ser matéria de ordem pública.
+4. Não há violação ao art. 1.022 do CPC/2015, pois o acórdão recorrido abordou de forma clara e suficiente as questões suscitadas.
+5. A sentença não definiu especificamente a data para o termo inicial dos juros de mora, sendo a questão objeto de apelação, recurso de ampla devolutividade.
+6. A revisão das conclusões do acórdão demandaria incursão fático-probatória, vedada em sede especial, conforme a Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: 1. A correção monetária e os juros de mora são consectários legais da condenação principal e podem ser analisados de ofício. 2. A alteração do termo inicial dos juros de mora não configura julgamento extra petita nem reformatio in pejus.
+Dispositivos relevantes citados: CPC/2015, art. 1.022; CPC/2015, art. 85, § 11.
+Jurisprudência relevante citada: STJ, AgInt nos EDcl no AREsp n. 1.661.519/SP, de minha relatoria, Quarta Turma, julgado em 21/2/2022; STJ, AgInt no AREsp 1.832.824/RJ, Min. Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/09/2022.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 404/409):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de violação do art. 1.022 do CPC/2015 e da incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 359/362).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 261/262):
+APELAÇÕES CÍVEIS. AÇÃO DE DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES.
+INSCRIÇÃO INDEVIDA NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. DANO MORAL PRESUMIDO. DEVER DE INDENIZAR CRISTALINO. SÚMULA N. 30 DO GRUPO DE CÂMARAS DE DIREITO CIVIL DESTA CORTE. CONDENAÇÃO MANTIDA.
+"É PRESUMIDO O DANO MORAL DECORRENTE DA INSCRIÇÃO OU MANUTENÇÃO IRREGULAR DO NOME DA PESSOA FÍSICA OU JURÍDICA NO ROL DE INADIMPLENTES, SENDO DESPICIENDA A DISCUSSÃO ACERCA DA COMPROVAÇÃO DOS ALUDIDOS DANOS" (SÚMULA N. 30 DO GRUPO DE CÂMARAS DE DIREITO CIVIL DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA).
+QUANTUM INDENIZATÓRIO. VERBA FIXADA EM R$ 12.000,00 (DOZE MIL REAIS) NA ORIGEM. AUTOR QUE PRETENDE A MAJORAÇÃO E RÉU QUE ALMEJA A MINORAÇÃO DO NUMERÁRIO. INVIABILIDADE. RESTRIÇÃO CREDITÍCIA QUE PERMANECEU IRREGULARMENTE ATIVA POR MENOS DE 2 (DOIS) MESES. DEMANDADO QUE POSSUI CAPITAL SOCIAL SUPERIOR A R$ 4.500.000.000,00 (QUATRO BILHÕES E MEIO DE REAIS). CARÁTER PEDAGÓGICO DA INDENIZAÇÃO QUE DEVE SER SOPESADO COM A VEDAÇÃO AO ENRIQUECIMENTO ILÍCITO DO OFENDIDO. ALEGAÇÕES GENÉRICAS DE EXCESSO E DE INSUFICIÊNCIA DA VERBA COMPENSATÓRIA. MONTANTE CONDENATÓRIO PROPORCIONAL, RAZOÁVEL E ARBITRADO EM CONSONÂNCIA COM OS PARÂMETROS USUALMENTE ADOTADOS POR ESTE SODALÍCIO. CAPÍTULO DO DECISUM QUE NÃO COMPORTA REPARO.
+HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ESTIPÊNDIO ARBITRADO PELO JUÍZO A QUO EM 10% (DEZ POR CENTO) DO VALOR DA CONDENAÇÃO. PLEITO DE ELEVAÇÃO. INSUBSISTÊNCIA. ART. 85, § 2º, DO CPC. JULGAMENTO ANTECIPADO DO FEITO.
+DISPENSA DA INSTRUÇÃO PROBATÓRIA. AUTOS QUE TRAMITARAM EXCLUSIVAMENTE EM MEIO ELETRÔNICO. SENTENÇA PROFERIDA EM MENOS DE 2 (DOIS) ANOS APÓS O AJUIZAMENTO DA AÇÃO. DEMANDA QUE ENVOLVE MATÉRIA SIMPLES E COMUM AO COTIDIANO FORENSE. REMUNERAÇÃO MANTIDA NO MÍNIMO LEGAL.
+HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC. INAPLICABILIDADE. INSTITUTO CUJO DESIDERATO É DESESTIMULAR A INTERPOSIÇÃO DE RECURSOS INFUNDADOS E PROTELATÓRIOS. CASO CONCRETO EM QUE AMBAS AS PARTES RECORRERAM E SUCUMBIRAM NAS PRETENSÕES RECURSAIS.
+RECURSOS CONHECIDOS E DESPROVIDOS.
+Os embargos de declaração foram rejeitados (e-STJ fls. 291/301 e 328/332).
+Nas razões do recurso especial (e-STJ fls. 340/345), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou violação dos arts. 141, 373, I, 492, 507 e 1.013, § 1º, e 1.022, II, do CPC/2015.
+Aduziu que, "embora tenha o acórdão local esclarecido que "juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício" (Ev. 51-TJSC), deixou de pontuar que o conhecimento de ofício se refere às questões de direito, sendo que no presente caso trata-se de questão de fato incontroversa, que jamais poderia ser modificada sem provocação do interessado" (e-STJ fl. 343, grifos no original).
+Alegou ainda a preclusão do debate acerca da data da indevida inscrição do nome da parte agravante em cadastro de inadimplentes, bem como ofensa aos princípios da adstrição e da devolutividade recursal e inobservância das regras de distribuição do ônus probatório em decorrência da alteração do termo inicial dos juros de mora.
+No agravo (e-STJ fls. 369/374), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada.
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Em relação à questão controvertida, o Tribunal de origem assim se manifestou:
+(e-STJ fls. 300/301 - grifei):
+Como delineado em sentença e no acórdão objurgado, a indenização arbitrada em favor do embargante deve ser acrescida de juros de mora desde o evento danoso, já que "os juros moratórios fluem a partir do evento danoso em caso de responsabilidade extracontratual" (Súmula n. 54 do Superior Tribunal de Justiça).
+Tratando-se de inscrição indevida nos órgãos de proteção ao crédito, o dano é configurado no momento da disponibilização do apontamento irregular. Incumbe ao acionante comprovar a data em que o registro desabonador foi efetivamente disponibilizado (artigo 373, I, do Código de Ritos), de modo que, inexistindo prova nesse sentido - tal como na hipótese vertente -, adota-se como termo inicial para contagem dos juros de mora a data de emissão do extrato do cadastro de inadimplentes, momento em que o consumidor toma conhecimento da negativação ilícita.
+ ..
+Com efeito, no caso concreto não é possível aferir a data de disponibilização da negativação litigiosa, porquanto o extrato emitido pelo gestor do banco de dados só noticia a data de vencimento da dívida, qual seja, 4-11-2013 (Evento 1, Informação 5, dos autos de origem). E, ao contrário do sustentado pelo recorrente, não é possível considerar o dia de vencimento da dívida como o momento de disponibilização da inscrição, mormente porque o procedimento para se proceder ao registro desabonador leva tempo, compreendendo, dentre outras etapas: i) requerimento do credor; ii) notificação por escrito do devedor em até 30 dias (artigo 43, § 2º, do Código de Defesa do Consumidor e artigo 4º, § 4º, da Lei n. 12.414/11); e iii) transcurso de 60 dias para a disponibilização da informação negativa aos consulentes (artigo 4º, § 7º, da Lei n. 12.414/11).
+Nesse contexto, o termo inicial para contagem dos juros de mora deve ser fixado, na espécie, na data em que emitido o extrato utilizado como prova da inscrição indevida, qual seja, 8-10-2018 (Evento 1, Informação 5, dos autos de origem).
+(e-STJ fl. 331 - grifei)
+ ..  o embargante sustenta a omissão da decisão objurgada, que rejeitou os aclaratórios por si opostos. Para tanto, afirma que este Órgão Fracionário deixou de analisar a tese de que o julgamento do apelo teria sido extra petita, uma vez que alterado o termo inicial dos juros de mora sem requerimento de nenhuma das partes.
+ ..
+ ..  registra-se que "a jurisprudência é firme no sentido de que a correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus" (STJ, AgInt no REsp 1.824.000/PR, Rel. Min. Luis Felipe Salomão, Quarta Turma, j. 31/05/2021).
+Portanto, não há irregularidade alguma no fato de este Colegiado ter estabelecido termo inicial diverso do delineado pelo juízo a quo para contagem dos juros moratórios incidentes sobre o montante condenatório.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Não há falar ainda em preclusão ou em ofensa aos princípios da adstrição e da devolutividade recursal.
+A uma, porque a sentença não definiu especificamente a data a ser considerada como o termo inicial dos juros de mora incidentes sobre o montante condenatório, limitando-se a consignar que, "sobre essa quantia, incide  ..  juros de mora a contar do evento danoso" e que devem incidir "juros de mora (1% ao mês) desde a data da inscrição indevida" (e-STJ fl. 190).
+A duas, porquanto, conforme se depreende do que consta às fls. 204/206 (e-STJ), a questão referente ao termo inicial dos juros de mora foi objeto da apelação interposta pela parte ora agravante, recurso de ampla devolutividade.
+Ademais, o entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, firmada no sentido de que "a correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus" (AgInt nos EDcl no AREsp n. 2.088.555/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023 - destaquei).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ALTERAÇÃO, DE OFÍCIO, DO TERMO INICIAL DOS JUROS DE MORA. MATÉRIA DE ORDEM PÚBLICA. JULGAMENTO "EXTRA PETITA" E REFORMATIO IN PEJUS. INEXISTÊNCIA.
+1. O Tribunal a quo decidiu em conformidade com o entendimento desta Corte Superior, de acordo com o qual o termo inicial dos juros de mora constitui matéria de ordem pública, podendo ser alterado de ofício. Mesmo raciocínio empregado quanto a inversão dos honorários sucumbenciais, pois foi constatada ilegalidade quanto a sua distribuição, pois o autor se sagrou vencedor em maior parte dos pedidos.
+2. A jurisprudência do STJ é firme no sentido de que a correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus.
+AGRAVO DESPROVIDO.
+(AgInt no AREsp n. 1.832.824/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/9/2022, DJe de 22/9/2022 - destaquei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ENVIO DOS AUTOS À CONTADORIA JUDICIAL DE OFÍCIO. POSSIBILIDADE. AUSÊNCIA DE REFORMATIO IN PEJUS. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. ALEGAÇÃO DE INOBSERVÂNCIA DO ART. 489, § 1º, DO CPC/2015. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+ ..
+2. "A jurisprudência é firme no sentido de que a correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus" (AgInt no AgInt no AREsp n. 1.379.692/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 2/12/2019, DJe 5/12/2019).
+ ..
+(AgInt nos EDcl no AREsp n. 1.661.519/SP, de minha relatoria, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.)
+Por fim, o afastamento das conclusões da Corte local, quanto (i) à ausência de comprovação da data em que o registro desabonador foi efetivamente disponibilizado, (ii) à impossibilidade de se considerar o dia de vencimento da dívida como o momento de disponibilização da inscrição e (iii) à necessidade de fixação do termo inicial para contagem dos juros de mora na data em que emitido o extrato utilizado como prova da inscrição indevida, demandaria incursão fático-probatória, providência inviável em sede especial.
+Incidem, portanto, as Súmulas n. 7 e 568 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Deixo de majorar a verba honorária na forma do art. 85, § 11, do CPC/2015, tendo em vista a ausência de prévia fixação de honorários sucumbenciais em favor dos advogados da parte agravada.
+Publique-se e intimem-se.
+Conforme consta da decisão agravada, a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Desse modo, não há falar em violação do art. 1.022 do CPC/2015.
+Descabe ademais cogitar de ofensa aos princípios da adstrição e da devolutividade recursal a respeito da fixação do termo inicial dos juros de mora.
+Com efeito, a sentença não definiu especificamente a data a ser considerada como o termo inicial dos juros de mora incidentes sobre o montante condenatório, limitando-se a consignar que, "sobre essa quantia, incide  ..  juros de mora a contar do evento danoso" e que devem incidir "juros de mora (1% ao mês) desde a data da inscrição indevida" (e-STJ fl. 190).
+Ademais, a questão foi objeto da apelação de fls. 197/206 (e-STJ), recurso de ampla devolutividade e do qual se extrai o seguinte excerto (e-STJ fls. 204/206):
+Em que pese os fundamentos lançados na sentença pelo douto juízo a quo, verifica-se que a r. sentença merece reparos com relação a data de início da aplicação dos juros referentes à indenização por dano moral, pois foi proferida de forma errônea, razão pela qual deverá ser alterada.
+ ..
+ ..  a sentença deve ser alterada, no sentido de que os juros referentes ao dano moral devem incidir a partir do trânsito em julgado da sentença recorrida.
+Reitera-se que o entendimento adotado pelo Tribunal de origem acerca da possibilidade de análise de ofício dos juros de mora está em consonância com a jurisprudência desta Corte Superior, firmada no sentido de que "a correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus" (AgInt nos EDcl no AREsp n. 2.088.555/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023 - destaquei).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ALTERAÇÃO, DE OFÍCIO, DO TERMO INICIAL DOS JUROS DE MORA. MATÉRIA DE ORDEM PÚBLICA. JULGAMENTO "EXTRA PETITA" E REFORMATIO IN PEJUS. INEXISTÊNCIA.
+1. O Tribunal a quo decidiu em conformidade com o entendimento desta Corte Superior, de acordo com o qual o termo inicial dos juros de mora constitui matéria de ordem pública, podendo ser alterado de ofício. Mesmo raciocínio empregado quanto a inversão dos honorários sucumbenciais, pois foi constatada ilegalidade quanto a sua distribuição, pois o autor se sagrou vencedor em maior parte dos pedidos.
+2. A jurisprudência do STJ é firme no sentido de que a correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus.
+AGRAVO DESPROVIDO.
+(AgInt no AREsp n. 1.832.824/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/9/2022, DJe de 22/9/2022 - destaquei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ENVIO DOS AUTOS À CONTADORIA JUDICIAL DE OFÍCIO. POSSIBILIDADE. AUSÊNCIA DE REFORMATIO IN PEJUS. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. ALEGAÇÃO DE INOBSERVÂNCIA DO ART. 489, § 1º, DO CPC/2015. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+ ..
+2. "A jurisprudência é firme no sentido de que a correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus" (AgInt no AgInt no AREsp n. 1.379.692/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 2/12/2019, DJe 5/12/2019).
+ ..
+(AgInt nos EDcl no AREsp n. 1.661.519/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.)
+Por fim, rever a conclusão do acórdão  quanto (i) à ausência de comprovação da data em que o registro desabonador foi efetivamente disponibilizado, (ii) à impossibilidade de se considerar o dia de vencimento da dívida como o momento de disponibilização da inscrição e (iii) à pertinência de, no caso concreto, ser fixado o termo inicial dos juros de mora na data em que emitido o extrato utilizado como prova da inscrição indevida  demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Nos termos da jurisprudência desta Corte, não haverá a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC/2015 no julgamento de agravo interno e de embargos de declaração.
+É como voto.
