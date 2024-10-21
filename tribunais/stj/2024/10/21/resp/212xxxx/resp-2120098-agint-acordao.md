@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. FUNDAMENTO NÃO IMPUGNADO. PRECLUSÃO. JUROS REMUNERATÓRIOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. ACÓRDÃO RECORRIDO. FUNDAMENTO SUFICIENTE PARA SUA MANUTENÇÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. Não impugnados os fundamentos de inexistência de (i) ofensa ao art. 489, § 1º, VI, do CPC e (ii) similitude fática no dissídio jurisprudencial, está preclusa a discussão das referidas matérias.
+2. O acórdão recorrido, mediante o exame do conjunto probatório dos autos, concluiu pela legalidade das cobranças realizadas. A alteração do desfecho conferido ao processo quanto ao tema demandaria análise do conteúdo fático-probatório dos autos, circunstância que atrai as Súmulas n. 5 e 7 do STJ.
+3. O especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF, aplicada por analogia.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 3.492/3.507) interposto contra decisão desta relatoria (e-STJ fls. 3.454/3.459) que não conheceu do recurso especial.
+Em suas razões, a parte argumenta com a inaplicabilidade das Súmulas n. 7 do STJ e 283 do STF.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+O agravado apresentou contrarrazões (e-STJ fls. 3.512/3.526).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. FUNDAMENTO NÃO IMPUGNADO. PRECLUSÃO. JUROS REMUNERATÓRIOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. ACÓRDÃO RECORRIDO. FUNDAMENTO SUFICIENTE PARA SUA MANUTENÇÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. Não impugnados os fundamentos de inexistência de (i) ofensa ao art. 489, § 1º, VI, do CPC e (ii) similitude fática no dissídio jurisprudencial, está preclusa a discussão das referidas matérias.
+2. O acórdão recorrido, mediante o exame do conjunto probatório dos autos, concluiu pela legalidade das cobranças realizadas. A alteração do desfecho conferido ao processo quanto ao tema demandaria análise do conteúdo fático-probatório dos autos, circunstância que atrai as Súmulas n. 5 e 7 do STJ.
+3. O especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF, aplicada por analogia.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+Os agravantes não trouxeram nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 3.454/3.459):
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 3.234):
+APELAÇÃO CÍVEL - JUÍZO DE RETRATAÇÃO. PROCEDIMENTO PREVISTO NO ART. 1.030, II, DO CPC. AÇÃO REVISIONAL. CONTA CORRENTE E CHEQUE ESPECIAL. OPERAÇÃO "NHOC". JUROS REMUNERATÓRIOS - JUROS CONSTATADOS ATRAVÉS DE PERÍCIA TÉCNICA. REDUÇÃO À TAXA MÉDIA DO MERCADO APENAS PARA OS PERÍODOS EM QUE OS JUROS COBRADOS SUPERARAM O DOBRO DA TAXA DO BACEN. AUSÊNCIA DE VIOLAÇÃO AO ENTENDIMENTO SEDIMENTADO NO RECURSO ESPECIAL REPETITIVO N. 1.112.879/PR E SÚMULA N.º 530 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRECEDENTES QUE NÃO PODEM SER INTERPRETADOS DE FORMA ISOLADA. ENTENDIMENTO DO STJ NO SENTIDO DE QUE: "DEVEM SER MANTIDOS OS JUROS REMUNERATÓRIOS PRATICADOS, QUANDO NÃO DEMONSTRADO EXCESSO CONSIDERÁVEL EM RELAÇÃO À MÉDIA DE MERCADO. RECURSO DE APELAÇÃO QUE ESTÁ EM CONSONÂNCIA COM A ORIENTAÇÃO FIRMADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA, MOTIVO PELO QUAL NÃO CABE JUÍZO DE RETRATAÇÃO. DECISÃO MANTIDA. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 3.299/3.304).
+Nas razões do recurso especial (e-STJ fls. 3.316/3.340), fundamentando no art. 105, III, "a" e "c", da CF, os recorrentes apontaram divergência jurisprudencial e violação dos seguintes dispositivos:
+(i) art. 489, § 1º, VI, do CPC, sustentando a inobservância dos arts. 373, II, do CPC e 6º, VIII, 39, III e V, 46 e 52 do CDC, e
+(ii) arts. 489, § 1º, VI, e 985, I e II, do CPC, argumentando com a impossibilidade de cobrança de juros remuneratórios acima da taxa média de mercado. Nesse contexto, mencionam a irregularidade dos lançamentos, pois não haveria autorização formal para sua efetivação.
+Anexam julgados do STJ para demonstrar a divergência, defendendo a necessidade de aplicação da Súmula n. 530 do STJ.
+Contrarrazões apresentadas (e-STJ fls. 3.369/3.405).
+É o relatório.
+Decido.
+No que tange à suposta ofensa ao art. 489, § 1º, VI, do CPC, a insurgência não merece acolhimento, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem.
+Os recorrentes alegam que a recusa do Tribunal em julgar a causa à luz dos arts. 6º, VIII, 39, III e V, 46 e 52 do CDC causou-lhe prejuízos financeiros.
+Contudo, analisando o caso concreto, a Justiça a quo entendeu que os juros remuneratórios foram praticados de maneira lícita e que "muito embora a ausência do instrumento contratual  ..  foi possível verificar as taxas de juros aplicadas pela instituição financeira" (e-STJ fl. 3.302). Consignou ainda que (e-STJ fls. 797/798):
+ ..  conforme consta de maneira clara no acórdão, o entendimento desta Câmara é no sentido que não é razoável aplicar de forma total a taxa média do mercado ao presente caso, tendo como único fundamento a ausência de contrato nos autos, porquanto, no presente caso, diante da perícia técnica, foram demonstradas as taxas de juros aplicadas mês a mês dos períodos discutidos.
+Dessa forma, considerando que o tema relativo à limitação dos juros remuneratórios foi devidamente examinado pelo Tribunal de origem, inclusive com a análise de recurso especial repetitivo, afasta-se a alegada violação do art. 489, § 1º, VI, do CPC.
+Ademais, a Segunda Seção desta Corte (REsp n. 407.097/RS, Rel. Ministro Antônio de Pádua Ribeiro, DJU 29/09/2003) firmou o entendimento de que a cláusula referente à taxa de juros só pode ser alterada se reconhecida sua abusividade em cada caso concreto.
+No mesmo sentido:
+DIREITO PROCESSUAL CIVIL E BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. CONFIGURAÇÃO DA MORA. JUROS MORATÓRIOS. INSCRIÇÃO/MANUTENÇÃO EM CADASTRO DE INADIMPLENTES. DISPOSIÇÕES DE OFÍCIO. DELIMITAÇÃO DO JULGAMENTO
+Constatada a multiplicidade de recursos com fundamento em idêntica questão de direito, foi instaurado o incidente de processo repetitivo referente aos contratos bancários subordinados ao Código de Defesa do Consumidor, nos termos da ADI n.º 2.591-1. Exceto: cédulas de crédito rural, industrial, bancária e comercial; contratos celebrados por cooperativas de crédito; contratos regidos pelo Sistema Financeiro de Habitação, bem como os de crédito consignado. Para os efeitos do § 7º do art. 543-C do CPC, a questão de direito idêntica, além de estar selecionada na decisão que instaurou o incidente de processo repetitivo, deve ter sido expressamente debatida no acórdão recorrido e nas razões do recurso especial, preenchendo todos os requisitos de admissibilidade. Neste julgamento, os requisitos específicos do incidente foram verificados quanto às seguintes questões: i) juros remuneratórios; ii) configuração da mora; iii) juros moratórios; iv) inscrição/manutenção em cadastro de inadimplentes e v) disposições de ofício. PRELIMINAR O Parecer do MPF opinou pela suspensão do recurso até o julgamento definitivo da ADI 2.316/DF. Preliminar rejeitada ante a presunção de constitucionalidade do art. 5º da MP n.º 1.963-17/00, reeditada sob o n.º 2.170- 36/01.I - JULGAMENTO DAS QUESTÕES IDÊNTICAS QUE CARACTERIZAM A MULTIPLICIDADE.ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF; b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade; c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02; d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto.(..).Recurso especial parcialmente conhecido e, nesta parte, provido, para declarar a legalidade da cobrança dos juros remuneratórios, como pactuados, e ainda decotar do julgamento as disposições de ofício. Ônus sucumbenciais redistribuídos.(REsp 1061530/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe 10/03/2009.)
+O Tribunal de origem reconheceu a legalidade de algumas das cobranças realizadas, entendendo que os descontos s representavam obrigações assumidas pelo próprio autor. Nesse contexto, consignou que: (i) embora a taxa de juros cobrada pelo banco tenha sido superior à média do mercado, não ficou caracterizado o percentual abusivo, (ii) não se comprovou devidamente que os juros remuneratórios superaram o dobro da média de mercado, sendo que, em alguns casos, foram inclusive cobradas abaixo da taxa referencial, e (iii) a perícia técnica constatou que somente em alguns casos a instituição financeira recorrida excedeu a taxa média de mercado. Confira-se (e-STJ fls. 3.242/3.243):
+ ..  no caso em apreço, como constou no acórdão, muito embora não tenha sido comprovada a taxa de juros pactuada ante a ausência da juntada de contratos nos autos, não há que se falar em aplicação a taxa média de mercado, porquanto, através do laudo pericial da ação de revisional (seq.230.2 - autos originários), foi possível verificar os juros aplicados na relação jurídica entre as partes.
+Outrossim, consoante a perícia técnica, extrai-se que a instituição financeira excedeu a taxa média do mercado apenas no período de fevereiro de 1993; abril de 1993; julho de 2002 (c/c n. 1989-6); outubro de 1995; novembro de 1995 (c/c n. 3809-4); fevereiro de 1994 e outubro de 1996 (c/c n. 4175-3).
+Nos demais períodos, as taxas de juros foram cobradas abaixo da média do mercado, ou um pouco acima, no entanto, sem configurar abusividade em sua cobrança, já que não excedeu ao menos ao dobro ou ao triplo da taxa referencial estimada pelo Banco Central.
+ ..
+Assim, extrai-se que o Acórdão recorrido encontra-se em harmonia com os recursos especiais representativos de controvérsia, já que em virtude da perícia técnica foi possível verificar os juros praticados, de modo que a limitação destes à taxa média do mercado deve ocorrer somente nos períodos em que restou configurada a abusividade na cobrança, ou seja, superior ao dobro da taxa do BACEN.
+Rever as conclusões do Tribunal a quo quanto à inexistência de abusividade na taxa de juros cobrada demandaria nova incursão no conjunto probatório, providência vedada na instância especial, a teor da Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO (ART. 1042 DO NCPC) - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE EMBARGANTE.
+1. (..).
+2. O Superior Tribunal de Justiça, em recurso especial representativo de controvérsia, fixou o entendimento de que as instituições financeiras não estão submetidas à Lei de Usura, não obstante as instâncias ordinárias possam identificar a abusividade dos juros remuneratórios à luz do caso concreto. Conclusão da Corte a quo, quanto à ausência de excesso manifesto na taxa de juros, insuscetível de reexame, em sede recurso especial, ante os óbices das Súmulas 5 e 7/STJ.
+(..).
+5. Agravo interno desprovido.
+(AgInt no AREsp 1036086/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. PROCESSUAL CIVIL. COMISSÃO DE PERMANÊNCIA E CAPITALIZAÇÃO DOS JUROS. AUSÊNCIA DE INTERESSE RECURSAL. QUALIFICAÇÃO DA EMPRESA RECORRENTE COMO CONSUMIDORA. ABUSIVIDADE DOS JUROS REMUNERATÓRIOS. SÚMULAS N. 5 E 7/STJ. REDUÇÃO DA MULTA CONTRATUAL PARA 2%. IMPOSSIBILIDADE.
+(..).
+3. Não comprovada a ilegalidade ou abusividade das taxas de juros contratadas, o reexame do tema encontra obstáculo nas já citadas Súmulas n. 5 e 7/STJ.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 458.418/CE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/10/2018, DJe 16/10/2018.)
+Ademais, no que se refere à inexistência de pactuação e autorização para cobrança dos encargos, a Corte de origem concluiu que (e-STJ fl. 3.243):
+ ..  os contratos em discussão são de conta corrente e cheque especial, espécies contratuais que, assim como os contratos de conta garantida, os juros são flutuantes, variam de mês a mês ou período a período, de modo que de nenhuma forma a apresentação do contrato, que pela modalidade da operação perdura por tempo indeterminado, teria relevância a indicação da volátil taxa de juros.
+Contudo, no recurso especial, apontando contrariedade aos arts. 6º, VIII, 39, III e V, 46 e 52 do CDC, a parte sustenta somente que, para que pudessem ocorrer as cobranças, deveria haver prova da pactuação e autorização contratual.
+Como não houve impugnação de todos fundamentos do acórdão recorrido, incide a Súmula n. 283 do STF.
+Por fim, quanto ao dissídio jurisprudencial, os acórdãos apresentados não possuem similitude fática, visto que, no caso em análise, o Tribunal de origem assentou que a cobrança dos juros fixados no contrato de conta-corrente não representou ilegalidade nem abusividade. Anotou que "os juros flutuantes são inerentes à espécie contratual, que decorrem da flutuação do mercado financeiro diante da influência de diversos fatores internos e externos atuantes na atividade bancária, tendo tal fundamento alicerce em precedente prévio aos Temas 233 e 234 do STJ" (e-STJ fl. 3.243).
+Assim, ausente a similitude fática das situações às quais foram dadas soluções distintas, não foi demonstrado o dissídio jurisprudencial.
+Ainda que assim não fosse, a incidência da Súmula n. 7 do STJ impede seu exame, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática do caso concreto, com base na qual se deu solução à causa.
+Ante o exposto, NÃO CONHEÇO do recurso especial. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+Inicialmente, as razões do agravo interno não impugnaram especificamente os fundamentos de inexistência de (i) ofensa ao art. 489, § 1º, VI, do CPC e (ii) similitude fática no dissídio jurisprudencial, o que implica preclusão das matérias.
+No mais, cuida-se, na origem, de ação revisional de contrato com repetição de indébito interposta pelos autores, ora agravantes, contra a instituição bancária, ora agravada, requerendo a devolução em dobro de valores supostamente debitados em sua conta-corrente, bem como a limitação dos juros remuneratórios e o expurgo da capitalização e da comissão de permanência.
+O acórdão recorrido deu parcial provimento ao recurso da instituição financeira para reconhecer a abusividade dos juros remuneratórios apenas nos períodos em que superaram o dobro da taxa média de mercado, conforme laudo pericial constante nos autos.
+A alteração do desfecho conferido ao processo quanto ao tema demandaria análise do conteúdo fático-probatório dos autos, circunstância que atrai a aplicação das Súmulas n. 5 e 7 do STJ. Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. COBRANÇA DE TARIFAS DE CADASTRO, DE REGISTRO DE CONTRATO E AVALIAÇÃO DO BEM. ABUSIVIDADE NÃO CARACTERIZADA. ACÓRDÃO ESTADUAL EM TOTAL SINTONIA COM A JURISPRUDÊNCIA DESTE TRIBUNAL SUPERIOR. SÚMULA 83/STJ. DEVOLUÇÃO EM DOBRO INDEVIDA. AUSÊNCIA DE MÁ-FÉ. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+ ..
+2. A Corte de origem afastou a natureza abusiva dos juros remuneratórios pactuados, considerando que, na espécie, a taxa cobrança não foi significativamente mais elevada do que a de mercado. Rever tal conclusão demandaria reexame de matéria fática, inviável em recurso especial, nos termos das Súmulas 5 e 7/STJ.
+ ..
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.496.313/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/8/2024, DJe de 23/8/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BANCÁRIO. JUROS REMUNERATÓRIOS. NATUREZA ABUSIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (REsp 1.061.530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe 10/03/2009).
+2. A taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle do abuso da taxa de juros remuneratórios contratada. Precedentes.
+3. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.607.162/RS, de minha relatoria, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Por fim, o acórdão recorrido concluiu que as taxas de juros dos contratos eram flutuantes e que seria inviável a apresentação de termo contratual por tempo indeterminado.
+Entretanto, a parte recorrente não refutou direta e especificamente tal fundamento, limitando-se a defender a abusividade da taxa de juros cobrada e requerendo a aplicação da Súmula n. 530 do STJ.
+A pretensão também é obstada p ela Súmula n. 283 do STF.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar a conclusão da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
