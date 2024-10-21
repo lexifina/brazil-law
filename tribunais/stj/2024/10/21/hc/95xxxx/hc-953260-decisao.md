@@ -1,0 +1,9 @@
+DECISÃO
+ED CARLOS PEREIRA DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 2253981-86.2024.8.26.0000, em que pleiteava o reconhecimento de excesso de prazo para a elaboração dos cálculos de pena.
+Asseriu a defesa, perante a Corte de origem, "em síntese, a excessiva morosidade na elaboração dos cálculos de penas, após a digitalização dos autos, circunstância que o está impossibilitando de pleitear os benefícios prisionais a que tem direito. Requerem, assim, a imediata regularização do processo de execução do paciente ED CARLOS" (fls. 13-14).
+A esse respeito, urge consignar que " o s prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo" (AgRg no HC n. 701.811/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, de 23/2/2022), o qual, na hipótese, não está demonstrado, dada a narrativa apresentada pela Corte de origem, a evidenciar certo tumulto processual ocasionado pela própria defesa do sentenciado.
+Nos termos apresentados pelo Tribunal a quo, "o processo esteve em procedimento de digitalização, entre os dias 22/03/2024 a 31/05/2024, quando as peças digitalizadas foram juntadas ao processo. Consta, ainda, das informações que o processo, atualmente, aguarda a regularização do histórico das partes. Quanto à elaboração de cálculo de penas, já houve determinação por parte do eminente Juízo acoimado coator, para que seja realizado com urgência" (fl. 14, grifei).
+Salientou, ainda, que, "ainda que haja pedido de benefício pendente de apreciação, não se vislumbra desídia ou delonga injustificada na condução do feito por parte do r. Juízo" (fl. 14).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
