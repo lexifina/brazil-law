@@ -1,0 +1,48 @@
+DECISÃO
+  Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de SHELDON LUIZ DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no Agravo em Execução n. 0012704-28.2022.8.26.0502.
+Consta dos autos que o paciente, supostamente, praticou falta disciplinar de natureza grave, uma vez que os agentes penitenciários encontraram 110 (cento e dez) micropontos análogos a LSD, em sedex destinado ao sentenciado.
+O Juízo da Execução entendeu pela absolvição do paciente pela ausência de prova.
+Irresignado, o Ministério Público interpôs agravo em execução, tendo o Tribunal de origem dado provimento ao recurso, reconhecendo a prática da falta grave.
+Neste writ, a parte impetrante sustenta que o paciente não praticou falta alguma, pois nem sequer teve a posse dos objetos encontrados.
+Aduz que
+não se pode punir o paciente, uma vez que, apesar de o pacote ter sido enviado para a sua pessoa, em nome de pessoa incluída em seu rol de visitas, não há nada nos autos que indique que ele soubesse da remessa ou que tivesse encomendado e com qual finalidade (e-STJ fl. 6).
+Sustenta que a imposição de falta grave baseada em atos de terceiros é inadmissível, conforme jurisprudência desta Corte Superior.
+Requer o afastamento da falta grave imputada ao paciente, alegando que não houve comprovação de sua participação no fato ilícito.
+Manifestação  do  Ministério  Público  Federal  pelo  não  conhecimento  do  writ  e, se conhecido, pela denegação da ordem  (e-STJ fls.  81/84).
+É  o  relatório.
+DECIDO.
+Esta  Corte  -  HC  n.  535.063/SP,  Terceira  Seção,  relator  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020,  DJe  de  25/08/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  n.  180.365/PB,  Primeira  Turma,  relatora  Ministra  Rosa  Weber,  julgado  em  27/03/2020,  DJe  de  02/04/2020, e  AgRg  no  HC  n.  147.210/SP,  Segunda  Turma,  relator  Ministro  Edson  Fachin,  julgado  em  30/10/2018,  DJe  de  20/02/2020  -  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+Assim,  passo  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+O  Juízo  da  Vara  de  Execuções  Criminais  ,  ao  decidir  pela  absolvição da prática  de  falta  grave  disciplinar,  assim se  manifestou  (e-STJ fl.  73):
+Encerrado o expediente administrativo, não há prova segura da autoria da infração disciplinar, uma vez que a encomenda sedex foi supostamente enviada por visitante cadastrada, no entanto, o conjunto probatório não permite concluir, com indispensável segurança, que houve a participação do reeducando na conduta.
+Não bastasse, o executado nega a autoria (fls. 127), assim, não existe nenhum elemento de convicção que indique, de forma concreta, a propriedade do ilícito apreendido na encomenda enviada via sedex.
+(..)
+Assim, não há que se falar em porte de material proibido ou mesmo tentativa de burlar a segurança, caso em que a absolvição, nesse cenário probatório, é medida que melhor atende a hipótese dos autos.
+Ante o exposto, ABSOLVO o sentenciado SHELDON LUIZ DA SILVA, recolhido no(a) Hortolândia - Penit. III.
+O Tribunal a quo deu provimento ao recurso ministerial para revogar a dec isão que absolveu o paciente, tecendo as seguintes considerações (e-STJ fl. 12):
+Com efeito, foi apurado que, aos 04/08/2022, o agravante recebeu correspondência remetida por sua mãe, contendo 110 micropontos de LSD, costurados sob os velcros de duas bermudas, tendo sido por ele recebido o SEDEX e autorizada sua abertura.
+E, apesar da negativa do sentenciado, dizendo que terceiro teria usado indevidamente os dados de seu rol de visitantes (fls. 30), os agentes de segurança penitenciária, em depoimentos coerentes e harmônicos, confirmaram que, em revista a correspondência destinada ao agravante, enviada pela mãe deste, encontraram 110 micropontos de LSD costurados dentro do velcro de duas bermudas (fls. 27/28).
+Ressalte-se que as declarações dos agentes de segurança penitenciária não podem ser invalidadas, já que não tinham qualquer motivo para incriminar o reeducando de forma indevida.
+No  caso,  no momento da entrega da correspondência enviada ao paciente por terceiro, autorizada sua abertura, os agentes de segurança penitenciária encontraram 110 (cento e dez) micropontos de LSD, costurados sob os velcros de duas bermudas.
+Depreende-se, que devido  à  atuação  dos  funcionários,  a  droga  nem  sequer  chegou  às  mãos  do  apenado,  que  negou  envolvimento  com  o  fato.
+Nesse  contexto,  do  que  consta  dos  autos,  verifica-se  que  não  foram  apresentados  elementos  concretos  de  que  o  paciente  solicitou  ou  teve  participação  na  tentativa  de  ingresso  das  drogas  no  interior  do  presídio.
+Esta  Corte  possui  o  entendimento  de  que,  em  virtude  do  princípio  da  intranscendência  penal,  a  imposição  de  falta  grave  ao  executado  por  transgressão  realizada  por  terceiro  deve  ser  afastada  quando  não  comprovada  a  autoria  do  reeducando  por  meio  de  elementos  concretos  (HC  n.  372.850/SP,  Ministro  Ribeiro  Dantas,  Quinta  Turma,  DJe  de  25/04/2017).
+Assim,  a  conduta  praticada  por  terceiro  não  pode  ser  reconhecida  como  falta  grave  do  réu,  sob  pena  de  violação  do  princípio  da  intranscendência  penal  (art.  5º,  inciso  XLV,  da  Constituição  Federal).
+A  propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXISTÊNCIA DE RECURSO PRÓPRIO. FLAGRANTE ILEGALIDADE QUE AUTORIZA O CONHECIMENTO E A CONCESSÃO DA ORDEM. EXECUÇÃO. FALTA GRAVE. AFASTAMENTO. ENVIO DE DROGAS PELOS CORREIOS. ATO DE TERCEIRO. PRINCÍPIO DA INSTRANSCEDÊNCIA PENAL. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há óbice à utilização de habeas corpus quando, havendo lesão ou ameaça de lesão à liberdade de locomoção do paciente, tratar-se de matéria exclusivamente de direito e quando não houver a necessidade do exame aprofundado de provas ou a necessidade de dilação fático-probatória.
+2. "Em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, através de elementos concretos" (HC n. 372.850/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, DJe de 25/4/2017).
+3. No caso, depreende-se dos autos que, no momento da entrega de um Sedex ao agravado, após a abertura e início da vistoria, foram encontrados 8 invólucros, em cujo interior estavam acondicionados 114,5g (cento e quatorze gramas e cinco decigramas) de maconha. A droga estava camuflada numa peça de salame.
+4. Na espécie, embora possam existir suspeitas de que o recorrido tenha solicitado a remessa do entorpecente ao presídio, não foram apresentadas provas concretas nesse sentido. A prova oral produzida, consistente no depoimento dos agentes penitenciários responsáveis pela apreensão do material tóxico, apenas evidencia a materialidade do crime, não havendo nenhum indicativo efetivo de sua participação na infração.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 782.812/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/4/2023, DJe de 19/4/2023)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. RECONHECIMENTO DE FALTA GRAVE. CHIPS DE APARELHO DE TELEFONIA CELULAR EM CORRESPONDÊNCIA ENVIADA PELO IRMÃO DO AGRAVADO. AUSÊNCIA DE FUNDAMENTOS CONCRETOS DE PARTICIPAÇÃO OU COLABORAÇÃO DO REEDUCANDO. FUNDAMENTAÇÃO INIDÔNEA. AGRAVO REGIMENTAL IMPROVIDO.
+1. No caso, consta que "durante a realização dos procedimentos de verificação das correspondências destinadas aos sentenciados, foi constatado que havia 04 (quatro) chips de aparelho de telefonia celular da marca Tim, em meio à muçarela que estava no interior da caixa de Sedex", sendo "que na correspondência constava como remetente Jonathan Amaro de Oliveira, irmão do agravante, cadastrado em seu rol de visitantes" (fls. 51-52). Contudo, na linha de precedentes desta Corte, tais elementos revelam-se insuficientes para a caracterização da falta grave em questão, na medida em que não evidenciam, com a segurança necessária, a concreta participação ou colaboração do reeducando para a consumação da conduta vedada, efetivamente praticada por terceira pessoa.
+2. Esta "Corte Superior de Justiça firmou entendimento no sentido de que, em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, através de elementos concretos" (HC n. 372.850/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/4/2017, DJe de 25/4/2017).
+3. Agravo regimental improvido.
+(AgRg no HC n. 772.420/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 21/3/2023, DJe de 24/3/2023)
+Desse  modo,  verifico  a  existência  de  constrangimento  ilegal  apto  a  justificar  a  concessão  da  ordem  de  ofício.
+Ante  o  exposto,  com  amparo  no  art.  34,  XX,  do  Regimento  Interno  do  STJ,  não  conheço  do  habeas  corpus.  Entretanto,  concedo  a  ordem  de  ofício  para  cassar  o  acórdão  recorrido  e  restabelecer a decisão do Juízo das Execuções Penais, absolvendo paciente.
+Comunique-se,  com  urgência,  o  teor  desta  decisão  tanto  ao  Juízo  das  Execuções  quanto  ao  Tribunal  de  Justiça.
+Publique-se e i ntimem-se.
+ EMENTA
