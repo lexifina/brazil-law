@@ -1,0 +1,13 @@
+DECISÃO
+Em análise, recurso especial interposto pelo Distrito Federal e pela NOVACAP, fundamentado no art. 105, III, a, da CF/88, visando reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. PRECLUSÃO PRO JUDICATO. INEXISTÊNCIA. SUSPENSÃO DO PROCESSO POR PREJUDICIALIDADE EXTERNA. LAPSO TEMPORAL DEFINIDO EM LEI. OBSERVÂNCIA. NECESSIDADE. 1. Não há preclusão pro judicato quando a matéria em debate não foi analisada nem decidida previamente. 2. Nos casos em que se observa prejudicialidade externa (art. 313, inc. V, "a", do Código de Processo Civil) recomenda-se a suspensão do processo diante de questão prejudicial a ser resolvida em outra demanda. Essa suspensão se mostra necessária quando a solução a ser dada em outro processo puder influenciar no resultado da demanda na qual se pede o sobrestamento. 3. A duração do sobrestamento, contudo, possui limite temporal definido. O art. 313, § 4º, do Código de Processo Civil determina que o prazo de suspensão processual, nas hipóteses do inc. V, nunca poderá exceder um ano, ocasião em que o juiz deverá ordenar o prosseguimento do processo, conforme estabelece o § 5º do mesmo dispositivo. 4. Agravo de instrumento provido.
+Quanto à controvérsia recursal, alegam violação dos arts. 313, V, a, e §§ 4º e 5º, do CPC, no que concerne à possibilidade de flexibilização do prazo máximo de suspensão do processo em razão de prejudicialidade externa, tendo em vista a dependência lógica do presente feito com o discutido na Ação Civil Pública 0008162-29.2011.8.07.0001 e considerando a complexidade fático-jurídica do caso em tela.
+Apontam que a prejudicialidade externa do julgamento da ação civil pública em relação ao julgamento da ação de cobrança não foi rechaçada pelo acórdão recorrido, que deu provimento ao recurso da parte contrária tão somente porque verificou que o prazo de suspensão já dura mais de um ano.
+Em decisão de fls. 559-560, reconsiderei a decisão de fls. 515-517 e determinei a conversão do agravo em recurso.
+Após o julgamento do agravo interno, o Ministério Público Federal apresentou parecer.
+É o relatório.
+Passo a decidir.
+Com efeito, nos termos da manifestação apresentada pela Subprocuradora-Geral da República Denise Vinci Tulio, a " causa que deu ensejo à suspensão da ação de cobrança proposta por Via Engenharia S. A em desfavor da NOVACAP - Companhia Urbanizadora da Nova Capital não mais subsiste, eis que a ação civil pública já foi julgada, com trânsito em julgado" fato superveniente que acarreta a perda de objeto do presente recurso especial.
+Isso posto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o recurso especial.
+Intimem-se.
+EMENTA
