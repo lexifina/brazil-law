@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  COMPROVANTE  DE  PAGAMENTO.  AUTENTICAÇÃO  BANCÁRIA.  AUSÊNCIA.  DESERÇÃO.  SÚMULA  Nº  187/STJ.
+1.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  firme  no  sentido  de  ser  essencial  à  comprovação  do  preparo  a  juntada  da  Guia  de  Recolhimento  da  União  e  do  respectivo  comprovante  de  pagamento  com  autenticação  bancária,  no  ato  da  interposição  do  recurso  especial,  sob  pena  de  deserção.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  VISION  MED  ASSISTÊNCIA  MÉDICA  LTDA.  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  não  conheceu  do  recurso  por  deserção  (e-STJ  fls.  1.148/1.149).
+Nas  presentes  razões,  a  agravante  afirma  que  o  comprovante  fornecido  pelo  internet  banking,  no  caso  concreto,  permite  a  conclusão  pelo  pagamento.
+Defende ,  ainda,  que  o  pagamento  originário  foi  devidamente  comprovado  e  preenchido  o  requisito  de  admissibilidade  do  recurso  especial.
+Apresentada  impugnação  às e- STJ  fls.  1.166/1.179.
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  COMPROVANTE  DE  PAGAMENTO.  AUTENTICAÇÃO  BANCÁRIA.  AUSÊNCIA.  DESERÇÃO.  SÚMULA  Nº  187/STJ.
+1.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  firme  no  sentido  de  ser  essencial  à  comprovação  do  preparo  a  juntada  da  Guia  de  Recolhimento  da  União  e  do  respectivo  comprovante  de  pagamento  com  autenticação  bancária,  no  ato  da  interposição  do  recurso  especial,  sob  pena  de  deserção.
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+De  fato,  não  foi  juntado  aos  autos  o  comprovante  de  pagamento  do  preparo  com  autenticação  bancária.  Além  disso,  embora  a  parte  tenha  sido  regularmente  intimada  a  sanar  referido  vício,  não  o  fez.
+A  orientação  jurisprudencial  desta  Corte  Superior  é  firme  no  sentido  de  que  as  Guias  de  Recolhimento  da  União  e  os  respectivos  comprovantes  de  pagamento  do  preparo  são  essenciais  para  a  regularidade  recursal,  devendo  ser  comprovado  o  correto  recolhimento  no  ato  de  interposição  do  recurso,  sob  pena  de  deserção.
+Confiram-se:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  ESPECIAL.  DESERÇÃO.  AUSÊNCIA  DE  GUIA  DE  RECOLHIMENTO.  NOVO  RECOLHIMENTO.  APRESENTAÇÃO  DE  COMPROVANTE  DE  PAGAMENTO  SEM  AUTENTICAÇÃO  BANCÁRIA.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  A  ausência  da  guia  de  recolhimento  do  preparo  ou  a  sua  juntada  sem  a  observância  dos  requisitos  exigidos  é  suficiente  para  interditar  o  conhecimento  do  apelo  nobre,  porque  constitui  ônus  do  recorrente  fazer  juntar  aos  autos,  em  tempo  oportuno,  o  comprovante  de  recolhimento  de  preparo  e  a  guia  de  recolhimento,  sob  pena  de  deserção,  caso  não  atendida  a  intimação  para  sua  regularização.
+2.  No  caso  dos  autos,  o  comprovante  de  pagamento  das  custas  devidas  ao  STJ  não  continha  autenticação  bancária,  dado  essencial  para  verificação  da  efetiva  quitação  da  obrigação.
+3.  Agravo  interno  não  provido"  (AgInt  no  AREsp  2.206.950/RS,  Rel.  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  12/6/2023,  DJe  14/6/2023).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  ESPECIAL  INTERPOSTO  NA  VIGÊNCIA  DO  CPC/2015.  PREPARO  RECURSAL.  AUSÊNCIA  DA  EFETIVA  COMPROVAÇÃO  DO  PAGAMENTO  DA  GUIA  DE  RECOLHIMENTO  DAS  CUSTAS  (GRU).  DOCUMENTO  APRESENTADO  QUE  NÃO  POSSUI  AUTENTICAÇÃO  BANCÁRIA.  INTIMAÇÃO  PARA  SANAR  O  VÍCIO,  EM  CINCO  DIAS.  NÃO  ATENDIMENTO,  NO  PRAZO.  DESERÇÃO.  SÚMULA  187/STJ.  PRECEDENTES  DO  STJ.  MAJORAÇÃO  DOS  HONORÁRIOS,  NOS  TERMOS  DO  ART.  85,  §  11,  DO  NOVO  CPC.  CABIMENTO.  AGRAVO  INTERNO  IMPROVIDO.
+I.  Agravo  interno  aviado  contra  decisão  que  julgara  deserto  recurso  interposto  contra  decisum  publicado  na  vigência  do  CPC/2015.
+II.  Segundo  a  jurisprudência  do  STJ,  "é  deserto  o  recurso  especial,  na  hipótese  em  que  a  parte  recorrente,  mesmo  após  intimada  a  regularizar  o  preparo,  não  o  faz  devidamente  (art.  1.007,  §  7º,  do  CPC/2015),  não  havendo  se  falar,  ainda,  em  aproveitamento  dos  atos  realizados,  porquanto  não  atendidos  sequer  os  pressupostos  processuais  do  apelo  extremo"  (STJ,  AgInt  no  REsp  1.694.039/MG,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  DJe  de  18/05/2018).  No  mesmo  sentido:  STJ,  AgInt  no  AREsp  1.147.348/SP,  Rel.  Ministro  GURGEL  DE  FARIA,  PRIMEIRA  TURMA,  DJe  de  17/05/2018.
+III.  No  caso,  a  parte  recorrente  protocolou  o  Recurso  Especial,  na  origem,  sem  comprovar  o  efetivo  pagamento  do  preparo.  Intimada  a  regularizar  o  vício,  no  prazo  de  cinco  dias,  deixou  a  agravante  de  fazê-lo,  limitando-se  a  apresentar  comprovante  de  pagamento  inválido  a  comprovação  do  recolhimento  do  preparo.
+IV.  Na  forma  da  jurisprudência  do  STJ,  a  comprovação  do  preparo  exige  que  no  documento  apresentado  pela  parte,  quando  da  interposição  do  recurso,  conste  a  devida  autenticação  bancária,  sem  a  qual  não  se  evidencia  a  efetiva  quitação  do  preparo  (STJ,  AgInt  no  REsp  2.018.373/TO,  Rel.  Ministro  FRANCISCO  FALCÃO,  SEGUNDA  TURMA,  DJe  de  24/03/2023;  AgInt  no  AREsp  2.213.700/SC,  Rel.  Ministra  NANCY  ANDRIGHI,  TERCEIRA  TURMA,  DJe  de  15/03/2023;  AgInt  no  AREsp  2.017.752/RS,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  DJe  de  07/04/2022).
+V.  Aplica-se,  ao  caso,  o  entendimento  consolidado  na  Súmula  187  desta  Corte,  no  sentido  de  que  "é  deserto  o  recurso  interposto  para  o  Superior  Tribunal  de  Justiça,  quando  o  recorrente  não  recolhe,  na  origem,  a  importância  das  despesas  de  remessa  e  retorno  dos  autos".
+VI.  Tendo  em  vista  que  se  trata  de  Recurso  Especial  interposto  contra  acórdão  publicado  na  vigência  do  CPC/2015,  mostra-se  cabível  a  majoração  da  verba  honorária,  determinada,  na  decisão  agravada,  "no  importe  de  15%  do  valor  já  arbitrado,  nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil".  Incidência  do  Enunciado  Administrativo  7/STJ  ("Somente  nos  recursos  interpostos  contra  decisão  publicada  a  partir  de  18  de  março  de  2016,  será  possível  o  arbitramento  de  honorários  sucumbenciais  recursais,  na  forma  do  art.  85,  §  11,  do  novo  CPC").
+VII.  Agravo  interno  improvido"  (AgInt  no  AREsp  2.233.608/PA,  Rel.  Ministra  ASSUSETE  MAGALHÃES,  Segunda  Turma,  julgado  em  23/5/2023,  DJe  26/5/2023  -  grifou-se).
+Desse  modo,  conforme  asseverado  na  decisão  atacada,  "(..)  o  recurso  especial  não  foi  devida  e  oportunamente  preparado,  incidindo,  na  espécie,  o  disposto  na  Súmula  n.  187  do  STJ,  o  que  leva  à  deserção  do  recurso"  (e-STJ  fl.  1.148  ).
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
