@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por BASSO COMPONENTES AUTOMOTIVOS LTDA., com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 315):
+"Recuperação judicial - Plano aprovado em assembleia e homologado - Soberania da assembleia de credores - Relativização - Jurisprudência - Exame concreto das cláusulas - Pagamento dos credores trabalhistas - Afronta ao disposto no artigo 54 da Lei 11.101/2005 - Aplicação do Enunciado I da Câmaras Reservadas de Direito Empresarial - Desvirtuamento do procedimento concursal - Ilegalidade configurada - Provisoriedade insuportável das regras de pagamento e falta de liquidez - Homologação revogada - Concessão de prazo para a elaboração de novo plano e convocação de nova assembleia de credores - Recurso parcialmente provido."
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 387/399).
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 50, XI, 54, caput, e 58 da Lei 11.101/2005, 10, 141, 283, parágrafo único, 492, caput, e 1.018, I, do CPC/2015. Sustenta a prolação de decisão surpresa e julgamento extra petita. Alega equívoco na contagem do prazo de pagamento dos credores trabalhistas. Afirma que a liquidação dos ativos prevista no plano consiste em apenas 25% dos bens ativos móveis. Assevera que o Tribunal de Justiça deixou de se manifestar sobre pontos cruciais contidos no plano de recuperação judicial.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso especial (e-STJ, fls. 797/803).
+O recorrido peticionou nos autos para informar a perda de objeto do recurso ante a convolação da recuperação judicial em falência (e-STJ, fls. 805/823).
+Intimada a se manifestar, a recorrente quedou-se inerte (e-STJ, fl. 829).
+É o relatório. Decido.
+Conforme se verifica dos documentos juntados às fls. 806/823, a recuperação judicial da ora recorrente foi convolada em falência em decisão proferida ainda em 16/10/2019 e transitada em julgado em 12/05/2020.
+Considerando que o processo de recuperação não mais subsiste, é evidente a perda do objeto do presente recurso especial, em que se pretendia discutir o controle de legalidade realizado pelo TJSP em face do plano de recuperação judicial aprovado pela Assembleia Geral de Credores. Nesse sentido:
+"AGRAVO INTERNO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO INTERPOSTO NA ORIGEM QUESTIONANDO O PLANO DE RECUPERAÇÃO JUDICIAL. SUPERVENIÊNCIA DE SENTENÇA DECRETANDO A FALÊNCIA DA EMPRESA RECORRIDA. PREJUDICIALIDADE DO EXAME DAS TESES SUSCITADAS RECURSO ESPECIAL.
+1. O recurso especial foi interposto em face de acórdão que decidiu o agravo de instrumento impugnando decisão do Juízo de primeira instância que, nos autos do pedido de recuperação judicial, não reconheceu as irregularidades e nulidades procedimentais suscitadas pela ora recorrente. Com efeito, como observado pelo Ministério Público Federal, ulteriormente foi prolatada sentença de quebra, nos autos do pedido de recuperação judicial - o que torna prejudicado o presente recurso especial, visto que não há cogitar em exame acerca de nulidades referentes aos autos do pedido de recuperação judicial.
+2. "Isso porque, a prevalecer a decretação da falência, os credores terão reconstituídos seus direitos e garantias nas condições originalmente contratadas, consoante o disposto no art. 61, § 2º, da Lei n. 11.101/2005" (AgRg no REsp 1432355/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/02/2016, DJe 11/03/2016).
+3. A superveniente decisão, prolatada nos autos originários, decretando da quebra da recorrida e/ou as ulteriores a essa, devem, eventualmente, ser impugnadas por recursos específicos, refugindo ao objeto do presente recurso, sob pena de prolação de decisão extra petita, violação ao contraditório, devido processo legal e supressão das instâncias ordinárias.
+4. Agravo interno não provido."
+(AgInt no REsp n. 1.421.035/GO, Relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/11/2017, DJe de 23/11/2017)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO INTERPOSTO NA ORIGEM QUESTIONANDO A ELABORAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL. SUPERVENIÊNCIA DE SENTENÇA DECRETANDO A FALÊNCIA DAS EMPRESAS RECORRIDAS. RECURSO PREJUDICADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decretação de falência torna prejudicado o recurso que objetiva questionar a legalidade da decisão homologatória do plano de recuperação judicial.
+2. Agravo regimental improvido."
+(AgRg no REsp n. 1.432.355/GO, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 23/2/2016, DJe de 11/3/2016)
+Diante do exposto, julgo prejudicado o recurso especial, nos termos do art. 932, III, do CPC e do art. 255, § 4º, I, do Regimento Interno do STJ.
+Publique-se.
+EMENTA
