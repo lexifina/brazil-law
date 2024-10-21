@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em nome de Samuel Cardoso da Silva, no qual se ataca o acórdão proferido pelo Tribunal de Justiça de Goiás que denegou a ordem na parte conhecida no HC n. 5826050-11.2024.8.09.0152.
+Infere-se dos autos que, após representação da autoridade policial e manifestação do Ministério Público estadual, o paciente teve a prisão preventiva decretada, em 29/2/2024, pelo Juízo da Vara Criminal da comarca de Uruaçu/GO, nos auto do Processo n. 5121665-61.2024.8.09.0152, em razão da suposta prática do crime de tentativa de homicídio qualificado (fls. 51/53).
+A defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem na parte conhecida e convalidou a segregação cautelar (fls. 28/38).
+Daí a presente impetração, em que se alega constrangimento ilegal decorrente da ausência de fundamentação idônea da constrição cautelar do paciente e do excesso de prazo para o início da instrução processual, bem como na reavaliação da prisão.
+Ressaltam-se os predicados favoráveis do paciente, como ser primário, ter residência fixa e bons antecedentes.
+Argumenta-se que há desproporcionalidade da medida em caso de eventual condenação e afirma-se que a custódia preventiva está amparada na gravidade abstrata do delito e motivada de forma genérica.
+Requer-se, liminarmente e no mérito, a concessão da ordem liberatória ou a substituição da prisão por medidas cautelares alternativas.
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Mario Ferreira Leite, pelo não conhecimento do writ.
+É o relatório.
+De início, quanto à alegação de excesso de prazo, tem-se que o Magistrado de piso informou que o paciente, pronunciado pela conduta capitulada no artigo 121, §2º, inciso II, cc artigo 14, inciso II, do Código Penal, em decisão proferida no dia 30/08/2024. Intimado da decisão em 07/09/2024, o pronunciado não recorreu A atual fase processual é a intimação das partes para manifestarem nos termos do artigo 422 do Código de Processo Penal (fl. 61).
+Assim, nos termos da Súmula 21, deste Superior Tribunal de Justiça, pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.
+Quanto aos fundamentos da prisão preventiva, não há como afastar a conclusão do Tribunal de origem, sobretudo após a leitura do acórdão vergastado (fl. 34 - grifo nosso):
+ ..
+Observa-se que, diante da prova da materialidade e indícios da autoria do crime de tentativa de homicídio praticada pelo paciente, juntamente com Júlio Frances Gomes da Silva, em face de Ronald Magalhães da Silva, a autoridade impetrada decretou a sua prisão preventiva como garantia da ordem pública e da instrução criminal, mantendo-a, posteriormente, porque subsistentes os motivos que a determinaram.
+Para tanto, destacou a gravidade concreta do delito perpetrada com arma de fogo e por motivo fútil (ciúmes da ex namorada).
+Pontuou, ainda, acerca da reiteração delitiva, haja vista a existência de investigação contemporânea aos fatos do crime de tentativa de homicídio contra outra vítima, além de diversas passagens criminais, expondo também informações sobre a característica explosiva do paciente, seu envolvimento no mundo das drogas e porte ilegal de arma de fogo.
+Para além disso, consignou não haver notícias do paradeiro do paciente.
+Assim, não prospera a assertiva de ausência de requisitos da prisão preventiva, tampouco de fundamentação inidônea do decreto prisional e de sua manutenção, pois a autoridade acoimada coatora destacou a presença dos pressupostos e requisitos descritos no artigo 312 do Código de Processo Penal, discorrendo acerca dos elementos concretos dos autos que justificaram a prisão cautelar, sendo tal motivação suficiente para demonstrar a necessidade da manutenção da medida extrema.
+ ..
+Com efeito, ao decretar a prisão preventiva, disse Juízo de primeiro grau que há, ainda, informações de que o representado trata-se de pessoa explosiva, com várias passagens criminais, envolvido no mundo das drogas e a portar arma de fogo, sendo que o seu envolvimento no crime em comento deu-se possivelmente em razão de motivo fútil, qual seja, por ciúmes de sua ex-namorada (fls. 51/52).
+E, mais, continua o Juiz, o investigado além de perigoso criminoso habitual, demonstra intensa perigosidade à vítima, com notícias de práticas delitivas reiteradas, cuja segregação é recomendada (fl. 52).
+Logo, observa-se que a necessidade da prisão está reforçada não só pela gravidade concreta do crime, como também pela própria segurança da vítima e, mais ainda, pelo histórico criminal do paciente, uma vez que ostenta passagens criminais envolvendo crimes de tráfico de drogas e de porte ilegal de arma de fogo, segundo fez constar o Juiz em sua decisão. Nesse sentido: AgRg no HC n. 620.684/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1/3/2021; e AgRg no HC n. 564.935/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/3/2021.
+Com razão o nobre parecerista quando pontuou que há de se considerar que as decisões ora combatidas, ao chancelarem a necessidade da medida extrema em desfavor do acusado, trouxeram fundamentação suficiente, calcando-se não só na gravidade concreta dos fatos, mas também na periculosidade social do ora paciente (fl. 71).
+E, por fim, ao contrário do sustentado pela impetrante, não há como concluir que, na sentença, será fixado regime inicial diverso do fechado, pois o tema será apreciado em momento processual oportuno e não impede a imposição da constrição cautelar.
+Ante o exposto, à vista do parecer, conheço, em parte, do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. EXCESSO DE PRAZO. PACIENTE PRONUNCIADO. INCIDÊNCIA DA SÚMULA 21 DO STJ. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. RISCO CONCRETO DE REITERAÇÃO DA CONDUTA. HISTÓRICO CRIMINAL CONTURBADO. AUSÊNCIA DE CONSTRANGIMENTO LEGAL. PARECER ACOLHIDO.
+Habeas corpus conhecido em parte e, nessa extensão, denegada a ordem.
