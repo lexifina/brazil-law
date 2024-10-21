@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. SÚMULA 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de indicação do dispositivo de lei federal supostamente violado, pertinente à temática abordada no recurso especial, e a impossibilidade de compreensão da controvérsia impedem a abertura da instância especial, nos termos da Súmula 284 do STF.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SINDICATO DOS EMPREGADOS EM ESTABELECIMENTOS BANCÁRIOS DE CATAGUASES E REGIÃO contra decisão da Presidência desta Corte (fls. 1.340/1.341), que não conheceu do agravo, por incidir a Súmula 284/STF à espécie.
+Nas razões recursais, o agravante afirma, em síntese, a inaplicabilidade da Súmula 284/STF, sob o argumento de que "fundamentou e indicou expressamente a divergência de tratamento adotada pela corte regional, em confronto ao decidido em julgamento de tema repetitivo pelo Superior Tribunal de Justiça" (e-STJ, fl. 1.349).
+A parte agravada apresentou impugnação às fls. 1.378/1.407.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. SÚMULA 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de indicação do dispositivo de lei federal supostamente violado, pertinente à temática abordada no recurso especial, e a impossibilidade de compreensão da controvérsia impedem a abertura da instância especial, nos termos da Súmula 284 do STF.
+2. Agravo interno desprovido.
+VOTO
+Inexistem razões que justifiquem o acolhimento da pretensão recursal.
+Inicialmente, impende consignar que o dissenso pretoriano pressupõe a existência de similitude fático-jurídica entre os arestos em comparação, exigindo-se que as razões do apelo nobre apresentem argumentos hábeis a mostrar que o v. acórdão recorrido interpretou algum dispositivo de lei federal de forma diversa da exegese realizada por outro Tribunal de segunda instância, sob substrato fático semelhante.
+Assim, ainda que o apelo nobre seja interposto apenas pela mencionada alínea "c", o recorrente deve indicar qual dispositivo de lei federal foi, no seu entender, indevidamente interpretado e, para tanto, deve fazer o cotejo analítico, mostrando a similitude fática dos acórdãos em comparação e demonstrando que o mesmo dispositivo de lei federal foi interpretado de forma antagônica.
+Nesse jaez, a ausência de indicação de dispositivo legal objeto do dissenso pretoriano enseja o reconhecimento de deficiência na fundamentação do recurso especial, atraindo a incidência, por analogia, da Súmula 284/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nessa linha de intelecção, destacam-se os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. SUPOSTA INOBSERVÂNCIA DO DIREITO AO SILÊNCIO E DA GARANTIA À NÃO AUTOINCRIMINAÇÃO. VIOLAÇÃO A TEXTO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ESPECIAL. DESVIO DE FINALIDADE NA DILIGÊNCIA POLICIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. INDICAÇÃO DE DISPOSITIVOS DE LEI FEDERAL VIOLADOS. AUSÊNCIA. CONTROVÉRSIA NÃO DELIMITADA. SÚMULA N. 284 DO STF. DEMAIS TESES DEFENSIVAS. SÚMULA N. 284 DO STF. TESE ABSOLUTÓRIA QUANTO AO DELITO DO ART. 35 DA LEI DE DROGAS. SUPOSTA AUSÊNCIA DOS REQUISITOS ESTABILIDADE E PERMANÊNCIA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Quanto à alegada violação ao art. 5.º, incisos LIV e LVII, da Constituição Federal, por suposto desrespeito do direito ao silêncio e da garantia à não autoincriminação, correta a decisão agravada no sentido de ser incabível recurso especial para discutir violação de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+2. O pedido de que o mencionado óbice seja superado em razão da suposta relevância da tese suscitada é absolutamente carente de amparo jurídico no ordenamento processual. A fundamentação do recurso especial é vinculada e seu cabimento está adstrito às hipóteses elencadas no art. 105, inciso III, alíneas a até c, de forma que a alegação de ofensa a dispositivo constitucional, na presente via, traz como consequência inafastável o não conhecimento do correspondente capítulo recursal.
+3. A tese relativa ao desvio de finalidade no cumprimento do mandado de prisão não foi debatida no acórdão recorrido sob o enfoque suscitado pela Defesa e não foram opostos embargos de declaração.
+Está ausente o necessário prequestionamento, nos termos das Súmulas n. 282 e n. 356, ambas do Supremo Tribunal Federal.
+4. Nesse ponto, o conhecimento do apelo nobre também é esbarrado pela aplicação da Súmula n. 284 do Supremo Tribunal Federal, diante da falta de delimitação da controvérsia. A mesma conclusão se aplica às teses defensivas remanescentes.
+5. Quanto a essas matérias, embora no recurso especial tenha havido menção a artigos de lei federal, em nenhum momento se alegou a existência de violação ou negativa de vigência a dispositivo legal, tendo se desenvolvido as razões recursais nos mesmos moldes de um recurso dirigido às instâncias ordinárias.
+6. As instâncias ordinárias entenderam por condenar o Agravante pelo delito previsto no art. 35 da Lei n. 11.343/2006, com base em fundamentação concreta, na qual se apontou, inclusive, a existência de investigações prévias durante o intervalo aproximado de 1 (um) mês. Nesse contexto, a inversão do decidido pela Jurisdição ordinária, a fim de entender que não há provas nos autos que comprovem a estabilidade e a permanência do Agravante na associação para o tráfico de drogas, da qual seria integrante, é inviável nesta via recursal, por demandar acurada análise do conteúdo fático-probatório (Súmula n. 7/STJ).
+7. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.274.110/RJ, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 20/6/2023, DJe de 27/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. ATRASO NA ENTREGA DO IMÓVEL EM CONSTRUÇÃO. VIOLAÇÃO AOS ARTS. 104 E 394, DO CC. SÚMULA N. 284/STF. ALEGADO NÃO CABIMENTO DE DANOS MORAIS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. APLICAÇÃO DA SÚMULA N. 284/STF. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL QUE TENHA SOFRIDO INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de articulação de argumentos jurídicos a embasar a assertiva de violação aos arts. 104 e 394, do CC caracteriza deficiência de fundamentação, que impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial. Incidência da Súmula n. 284/STF.
+2. Em relação ao alegado não cabimento de danos morais, a alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Aplicação da Súmula n. 284/STF. Precedentes.
+3. Ademais, ainda em relação ao alegado não cabimento de danos morais, a parte recorrente não apontou o dispositivo legal cuja interpretação tenha sido divergente, a fim de viabilizar o conhecimento da insurgência a respeito da tese de mérito. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente. Incidência, mais uma vez, do verbete n. 284 da Súmula do STF.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.988.182/RJ, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 20/6/2022, DJe de 24/6/2022.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. DIVERGÊNCIA JURISPRUDENCIAL.
+AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. APLICAÇÃO DA SÚMULA N. 284/STF. CLÁUSULA CONTRATUAL ABUSIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação divergente. Ausente tal requisito, incide a Súmula n. 284 do STF.
+(..) 4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1785297/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/05/2021, DJe 17/05/2021 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE FRANQUIA. CERCEAMENTO DE DEFESA. SÚMULA 284/STF. INOVAÇÃO. INCABÍVEL. RESPONSABILIDADE PELA RESCISÃO CONTRATUAL. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. NÃO PROVIMENTO.
+1. A falta de indicação de dispositivo de lei a respeito de cuja interpretação divergiu o acórdão recorrido implica deficiência na fundamentação do recurso especial, o que atrai a incidência da Súmula nº 284 do STF.
+(..) 5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1695110/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/03/2021, DJe 06/04/2021- g. n.)
+No caso em liça, a parte recorrente não indicou qual dispositivo de lei federal teve, no seu entender, interpretação divergente do posicionamento firmado nos paradigmas, o que inviabiliza a demonstração da divergência jurisprudencial. Assim , o recurso especial encontra óbice na referida Súmula 284/STF.
+Ante o exposto, nego provimento ao agravo interno .
+É com o voto.
