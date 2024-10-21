@@ -1,0 +1,49 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por LL EMPREENDIMENTOS IMOBILIARIOS LTDA., contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alín ea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 12/07/2023.
+Concluso ao gabinete em: 10/10/2024.
+Ação: indenizatória por danos morais e materiais, ajuizada por VERA LUCIA SILVA DOS SANTOS, ora agravada, em face da parte ora agravante.
+Sentença: julgou parcialmente procedentes os pedidos para "CONDENAR os promovidos na obrigação de pagar indenização por danos morais no valor de R$ 4.000,00 (quatro mil reais), com juros de mora na razão de 1% ao mês, e correção monetária, pelo INPC, a partir da data da prolação desta sentença" (e-STJ fl. 157).
+Acórdão: negou provimento à apelação interposta pela parte ora agravante e deu parcial provimento à apelação interposta pela ora agravada, nos termos da seguinte ementa (e-STJ, fls. 232/233):
+"APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE COMPRA E VENDA DE LOTE RESIDENCIAL. OBRAS DE INFRAESTRUTURA. ATRASO NA ENTREGA. DESABASTECIMENTO DE ÁGUA POTÁVEL. CONSTATAÇÃO DE FALHA DO SERVIÇO DE INFRAESTRUTURA. ABALO EXTRAPATRIMONIAL EVIDENCIADO. VALOR ADEQUADO E PROPORCIONAL. LUCROS CESSANTES. AUSÊNCIA DE PROVA A SEU RESPEITO. SENTENÇA DE PARCIAL PROCEDÊNCIA. IRRESIGNAÇÕES. TERMO INICIAL DOS JUROS DE MORA. A PARTIR DA CITAÇÃO. ART. 405, CC. DESPROVIMENTO DO APELO E PROVIMENTO PARCIAL DO RECURSO ADESIVO.
+- É de responsabilidade do loteador a implementação da infraestrutura para que seja viabilizado o abastecimento de água.
+- O materializa-se quando há violação ao princípio da dano moral boa-fé, sobretudo, quando os problemas não são resolvidos e o consumidor fica impossibilitado de usufruir o bem adquirido "In casu", as obras de infraestrutura. que não foram entregues no tempo contratual, ocasionando o desabastecimento de água no loteamento e, consequentemente, atraso na construção do imóvel, acarretou sentimentos de revolta que não se limitam ao mero aborrecimento ou simples insatisfação, ensejando a devida compensação.
+- Quanto ao valor da indenização, tem-se que a sanção pecuniária deve estar informada dos princípios que a regem e que visam à prevenção e à repressão, primando sempre pelo equilíbrio, de forma que não seja tão baixa ao ponto de gerar a sensação de impunidade, nem tão elevada ao ponto de caracterizar o enriquecimento da parte afetada, devendo ser mantido o valor de R$ 4.000,00 (quatro mil) reais, diante do caso concreto.
+- No que tange ao , em se tratando de termo inicial dos juros moratórios responsabilidade contratual, os juros de mora sobre a indenização incidem a partir da citação, consoante art. 405, CC.
+- Quanto aos alegados pela Autora, vê-se que os lucros cessantes danos materiais não restaram cabalmente demonstrados na espécie, diante da inexistência de provas específicas acerca do lucro real e concreto que a Demandante deixou de auferir pelo atraso na entrega do lote."
+Embargos de declaração: opostos pela parte ora agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 11, 370, 371, 489, §1º, IV, e 1.022, caput, II e parágrafo único; 2º, §§ 5º e 6º, III, da Lei n. 6.766/1979; 14, §3º, II, da Lei n. 8.078/1990, sustentando que: (i) mesmo após a oposição de embargos de declaração, a Corte de origem teria se mantido omissa em relação a pontos relevantes ao deslinde do feito; (ii) não poderia ser responsabilizada pela ausência de abastecimento de água, tendo em vista tratar-se de obrigação do ente público municipal; (iii) a rede de abastecimento foi executada; (iv) não se poderia confundir a obrigação de implementar a infraestrutura básica imposta ao loteador com a prestação do próprio serviço de abastecimento de água; (v) deveria ser excluída a sua responsabilidade, tendo em vista a existência de culpa exclusiva de terceiro.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 370 e 371 do CPC; e 2º, §§ 5º e 6º, III, da Lei n. 6.766/1979, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Nesse sentido: AgInt no REsp n. 1.820.915/SP, 3ª Turma, DJe de 17/4/2024 e AgInt no AREsp n. 2.116.675/MG, 4ª Turma, DJe de 2/5/2024.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca das razões pelas quais entendeu que a ora agravante deveria ser responsabilizada pelos danos sofridos pela agravada, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+O TJ/PB ao analisar os recursos de apelação interpostos por ambas as partes, concluiu o seguinte (e-STJ fl. 235):
+(..) "as obras de infraestrutura que não foram entregues no tempo contratual, ocasionando o desabastecimento de água no loteamento e, consequentemente, atraso na construção do imóvel, acarretou sentimentos de revolta que não se limitam ao mero aborrecimento ou simples insatisfação, ensejando a devida compensação" (grifou-se)
+Ademais, quando do julgamento dos embargos de declaração, acrescentou que (e-STJ fl. 262):
+"Do Acórdão impugnado, extrai-se que a Autora/Embargada, no dia 13.12.2012, firmou um Contrato Particular de Promessa de Compra e Venda de um lote de terreno com a empresa Ré, no Loteamento Bosque da Roseira, Lote 20, situado na quadra A, com área de 160,00m , na cidade de Itapororoca/PB, no valor total de R$ 15.900,00 (quinze mil e novecentos reais).
+A Cláusula Quinta, Parágrafo Segundo, Item "A" do contrato previa a entrega do lote até a data de 01.06.2014, em condições de construção. Contudo, passados mais de dois anos desde a data prevista para o início do funcionamento da rede de abastecimento de água, até a data do ajuizamento da presente ação (29.09.2016), a unidade imobiliária ainda não havia sido entregue nas condições contratadas.
+Restou expressamente dito no Decisum que as obras de infraestrutura não foram entregues no tempo contratual, ocasionando o desabastecimento de água no loteamento e, consequentemente, atraso na construção do imóvel, ensejando a devida compensação pelo abalo extrapatrimonial produzido" (grifou-se)
+Desse modo, alterar o decidido no acórdão impugnado, quanto à responsabilidade da parte agravante pelos danos causados, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação indenizatória por danos morais e materiais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+5. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6 . Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
