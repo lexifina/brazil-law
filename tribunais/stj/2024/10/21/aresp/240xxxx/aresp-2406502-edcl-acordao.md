@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMINISTRATIVO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando foram analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por Maria da Conceição Pereira de Assis contra acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça, que negou provimento ao agravo interno no agravo em recurso especial. Eis a ementa do aresto (fl. 320):
+ADMINISTRATIVO E PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1.022, II, DO CPC/2015 NÃO CONFIGURADA. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ. ENFERMIDADE NÃO PREVISTA NO §1º DO ART. 186 DA LEI 8.112/90. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não configurada a ofensa apontada aos arts. 489 e 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos. Não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Hipótese em que o Tribunal de origem, com base nas provas dos autos, consignou: "Na hipótese, o laudo pericial (fls. 78/81) concluiu que a parte autora é portadora de "transtorno afetivo bipolar", enfermidade que não se enquadra no rol de doenças enumerado no § 1º do art. 186 da Lei nº 8.112/90. Ademais, o perito ainda destacou que a pericianda não é portadora de alienação mental (quesito 2 da parte autora  fls. 78). Outrossim, inexistem, nos autos, elementos outros que pudessem inquinar a conclusão do exame técnico." (fls. 172-173, e-STJ).
+3. Revisar se a doença da servidora pública é caracterizada como alienação mental, indo de encontro ao entendimento do perito e do órgão julgador, implica reexame do conjunto fático-probatório da causa, o que é vedado em Recurso Especial, ante o óbice da Súmula 7/STJ.
+4. Agravo Interno não provido.
+Alega a embargante que "o Acórdão não emitiu pronunciamento específico e fundamentado acerca do alcance e sentido da expressão "alienação mental" contida no art. 186 do RJU", tampouco "se pronunciou sobre a alegação de nulidade do acórdão local decorrente da ausência de manifestação a respeito da possibilidade, já então admitida pelo MPOG, de inclusão do TRANSTORNO AFETIVO BIPOLAR (CID-10; F314) no quadro geral das formas específicas de alienação mental" (fl. 333).
+Sustenta, ainda, que a questão tratada nos autos seria eminentemente jurídica, relacionada ao enquadramento do transtorno bipolar no conceito de alienação mental para fins de concessão de aposentadoria.
+Requer, ao final, o conhecimento e acolhimento dos embargos de declaração, a fim de que seja sanada a omissão existente no acórdão.
+Intimada, a parte embargada não apresentou impugnação (fl. 343).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMINISTRATIVO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando foram analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+Na espécie, da leitura do acórdão que negou provimento ao agravo interno , observa-se que foram analisadas fundamentadamente as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia, sem incorrer em qualquer dos vícios acima mencionados.
+Confiram-se, por oportuno, os fundamentos do aresto ora embargado (fls. 322/325):
+Em relação à vexata quaestio, ficou consignado (fls. 172-173, e-STJ):
+Por todo o exposto, para que o servidor tenha direito à conversão de sua aposentadoria proporcional para integral, deve ficar comprovado que ele seja portador de uma das doenças enumeradas no § 1º do art. 186 da Lei 8.112/90.
+Na hipótese, o laudo pericial (fls. 78/81) concluiu que a parte autora é portadora de "transtorno afetivo bipolar", enfermidade que não se enquadra no rol de doenças enumerado no § 1º do art. 186 da Lei nº 8.112/90. Ademais, o perito ainda destacou que a pericianda não é portadora de alienação mental (quesito 2 da parte autora  fls. 78). Outrossim, inexistem, nos autos, elementos outros que pudessem inquinar a conclusão do exame técnico.
+Assim, imperiosa a improcedência do pedido, pois, como dito, não restou comprovado nos autos que a doença da parte autora seja decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável que correspondesse ao rol taxativo previsto no parágrafo 1º, inciso I, do artigo 186 da Lei nº8.112/1990.
+Verifica-se que o Tribunal a quo, com base na conclusão do laudo pericial, considerou que o transtorno afetido bipolar não se enquadra no conceito de alienação mental, não se enquadrando no rol taxativo do art. 186, § 1º, da Lei 8.112/1990.
+Revisar se a doença da servidora pública é caracterizada como alienação mental, indo de encontro ao entendimento do perito e do órgão julgador, implica reexame do conjunto fático-probatório da causa, o que é vedado em Recurso Especial, ante o óbice da Súmula 7 desta Corte.
+Nessa linha de raciocínio, decidiu-se em consonância com a jurisprudência desta Corte, conforme se verifica do julgado abaixo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. APOSENTADORIA POR INVALIDEZ COM PROVENTOS INTEGRAIS. NECESSIDADE DE PREVISÃO DA DOENÇA NO ROL LEGAL. ORIENTAÇÃO FIRMADA PELO STF EM REPERCUSSÃO GERAL. JURISPRUDÊNCIA DESTE E. STJ REALINHADA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Pretório Excelso, no Recurso Extraordinário nº 656.860, da relatoria do Min. TEORI ZAVASCKI, Tribunal Pleno, DJe 18/09/2014, estabeleceu a compreensão de que "pertence  ..  ao domínio normativo ordinário a definição das doenças e moléstias que ensejam aposentadoria por invalidez com proventos integrais, cujo rol  ..  tem natureza taxativa".
+2. Desse modo, considerando que o Tribunal de origem assentou que a doença psíquica que acomete o agravante não configura alienação mental e não se encontra elencada dentre o rol de moléstias do art. 186, § 1º, da Lei 8.112/1990, o acórdão recorrido encontra-se em sintonia com a jurisprudência dominante neste e. STJ, alinhada ao entendimento firmado pelo Supremo Tribunal Federal, em sede de repercussão geral. Precedentes.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.587.861/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/11/2016, DJe de 30/11/2016.)
+Pretende a parte embargante, inconformada com o entendimento adotado por esta Corte, apenas rediscutir, com efeitos infringentes, questões decididas quando do julgamento do do agravo interno e do agravo em recurso especial, o que é inviável em embargos declaratórios.
+A esse respeito, colaciono os seguintes precedentes do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC/2015, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no AgInt no AgInt no AREsp n. 1.545.376/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA. MERO INCONFORMISMO. OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A parte embargante discorda da conclusão alcançada no acórdão embargado que, com sólida fundamentação, rejeitou os embargos declaratórios anteriormente opostos. No caso, existe mero inconformismo da parte com o resultado do julgamento proferido, que lhe foi desfavorável, o que não viabiliza o cabimento de embargos de declaração, nos termos do art. 1.022, inciso II, do CPC/2015.
+2. É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no AREsp n. 2.338.340/SE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 15/4/2024, DJe de 23/4/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material no decisum embargado.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios no julgado embargado, traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp n. 2.436.416/MS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Por fim, impende advertir que a reiteração injustificada de embargos de declaração, versando sobre o mesmo assunto, caracteriza o recurso como manifestamente protelatório, ensejando a imposição do pagamento da multa prevista no artigo 1.026, § 2º, do Código de Processo Civil.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
