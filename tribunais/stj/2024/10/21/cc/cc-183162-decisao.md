@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo d. Juízo de Direito da Vara Única de Dionísio Cerqueira/SC em face do d. Juízo Federal da Vara Única de São Miguel -SJ/SC, estabelecido em ação "ação de obrigação de fazer c/c indenização por danos morais" movida contra Metalúrgica e Materiais de Construção Wapel Ltda e a Caixa Econômica Federal - CEF em virtude de vícios de construção em imóvel (nas fls. 33/34) financiado na modalidade Crédito Construção pela instituição financeira (na fl. 47).
+A ação foi manejada inicialmente perante o d. Juízo Federal que declarou sua incompetência, determinando a remessa dos autos ao d. Juízo estadual, porquanto a Caixa Econômica Federal - CEF consta do contrato na condição de mero agente financeiro, não tendo, na hipótese dos autos, responsabilidade por vícios construtivos do imóvel financiado (na fl. 26).
+De sua vez, o d. Juízo estadual, negando-se a cumprir a determinação do Juízo Federal também declinou de sua competência, suscitando o presente conflito de competência, nos seguintes moldes:
+"No presente caso, observa-se que o Contrato Particular de Compra e Venda disposto no evento 1, item 10, celebrado entre Celeste Pauletti, na condição de vendedor e Evandro Carlos Rockembach (ora autor), na condição de comprovar e devedor fiduciante, exsurgindo a Caixa Econômica Federal na condição de credora (fiduciária), além de inserir-se no âmbito de atuação do Programa Minha Casa Minha Vida, englobando, por força da Lei n. 11.977/09, o Programa Nacional de Habitação Popular, prevê em sua Cláusulas Sétima a cobrança de valores em decorrência da previsão e cobertura do Fundo Garantidor da Habitação Popular" (na fl. 4).
+O Ministério Público Federal opina pela competência da Justiça estadual.
+É o relatório.
+Passo a decidir.
+O conflito de competência não merece ser conhecido.
+Com efeito, o entendimento consolidado desta Corte preconiza que (a) "compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresa pública" (Súmula 150/STJ) e que (b) que "a decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual" (Súmula 254/STJ).
+Desse modo, a modificação da decisão do d. Juízo Federal deve ser buscada pelos eventuais prejudicados, se for de seu interesse, mediante o manejo dos recursos cabíveis na própria Justiça Federal.
+Ademais, de acordo com a jurisprudência desta Corte, a Caixa Econômica Federal só responde por vícios de qualidade no imóvel, financiado pelo Programa Minha Casa Minha Vida, se atuar como agente executor de políticas públicas, situação diversa da presente, em que a instituição atuou no contrato como mero agente financeiro, conforme consta da decisão do d. Juízo Federal suscitado: "na hipótese em exame, a CE não realizou a construção, não contratou o empreiteiro, não escolheu o imóvel e tampouco se comprometeu, perante a autora, a acompanhar e fiscalizar a qualidade técnica da edificação" (na fl. 47).
+A propósito, confiram-se os seguintes precedentes desta Corte:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. ATRASO NA ENTREGA DO IMÓVEL. ATUAÇÃO DA CEF COMO AGENTE FINANCEIRO EM SENTIDO ESTRITO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. AUSÊNCIA DE RESPONSABILIDADE DO AGENTE FINANCEIRO. PRECEDENTES. SÚMULA 83 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+2. O entendimento do STJ é pacífico no sentido de que a eventual legitimidade da instituição financeira está relacionada à natureza da sua atuação no contrato firmado: é legítima se atuar como agente executor de políticas federais para a promoção de moradia para pessoas de baixa renda; não o é se atuar meramente como agente financeiro. Precedentes. Súmula 83 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.096.804/PE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. SISTEMA FINANCEIRO DE HABITAÇÃO. LEGITIMIDADE PASSIVA DA CEF. ATUAÇÃO COMO MERO AGENTE FINANCEIRO. REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS 5/STJ E 7/STJ.
+1. O STJ firmou entendimento de que a legitimidade passiva da CEF nas ações contra vícios de construção ou atraso na entrega de obras somente se verifica nas hipóteses em que atua além dos poderes de mero agente financiador da obra, ou seja, quando promove o empreendimento, elabora o projeto com todas as especificações, escolhe a construtora e negocia diretamente em programa de habitação popular.
+2. Por conseguinte, a natureza da atuação da CEF é definida pela interpretação das cláusulas contratuais e o exame das provas dos autos, cuja revisão é inviável na sede do recurso especial por incidência dos óbices das Súmulas n. 5/STJ e 7/STJ.
+3. Ilegitimidade da CEF que se baseou em inconteste análise fático-contratual, com expressa conclusão de que "a atuação da Caixa Econômica Federal foi a de mero agente financiador do empreendimento".
+Agravo interno improvido.
+(AgInt no REsp n. 2.047.298/AL, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+Ante o exposto, não conheço do conflito de competência, determinando a devolução dos autos ao Juízo estadual suscitante, a quem compete processar e julgar a ação originária.
+Publique-se
+Cumpra-se.
+EMENTA
