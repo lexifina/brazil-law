@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Não há falar em ofensa ao art. 1022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentaçã o a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. No caso, a análise acerca de eventual nulidade da cessão demandaria o revolvimento do conjunto fático-probatório, o que atrai a incidência do óbice na Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por ITAU UNIBANCO S.A. em face de decisão monocrática da lavra deste signatário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado (e-STJ, fl. 42):
+AGRAVO DE INSTRUMENTO. INDENIZAÇÃO POR DANOS MATERIAIS. AÇÕES PREFERENCIAIS E ORDINÁRIAS. DECISÃO QUE RECONHECE A ILEGITIMIDADE ATIVA DOESPÓLIO, NO ENTANTO, QUE ENTENDE SE TRATAR DEVÍCIO SANÁVEL. ART. 109, CAPUT, § 1º E ART. 313, § 2º, II, DO CPC. PRETENSÃO RECURSAL PELO BANCO DE EXTINÇÃO COM BASE NO ART. 485, INC. VI, DO CPC. DESCABIMENTO. PRECLUSÃO. IRREGULARIDADE PRO JUDICATO PROCESSUAL CORRIGÍVEL DIANTE DAS CIRCUNSTÂNCIAS ESPECIAIS DO CASO CONCRETO. PARTE QUE ATUOU NOFEITO DESDE O INÍCIO DO AJUIZAMENTO. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 93-99).
+Após o provimento do Resp 2020671/PR, ocasião em que se reconheceu a negativa de prestação jurisdicional, os autos retornaram à origem para novo julgamento dos embargos de declaração, cujo acórdão restou assim ementado (e-STJ, fl. 193):
+EMBARGOS DE DECLARAÇÃO. DECISÃO DO STJ ANULANDO O ANTERIOR ACÓRDÃO. ERRO MATERIAL CONSTATADO. OBSCURIDADE AFERIDA. PRECLUSÃO AFASTADA. OMISSÃO APRECIADA. INSTRUMENTO PÚBLICO DE PROCURAÇÃO COM EFEITOS DE CESSÃO DE CRÉDITO. PAGAMENTO POR ADJUDICAÇÃO HOMOLOGADO EM SENTENÇA. INAPLICABILIDADE DOS ARTS. 313 E 109 DO CPC. RECURSO ACOLHIDO, SEM CONFERIR EFEITO INFRINGENTE.
+Opostos novos embargos de declaração, estes foram rejeitados (E-STJ, fls. 254-256).
+Nas razões do especial (e-STJ, fls. 266-278), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) art. 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem não sanou omissões supostamente perpetradas pelo acórdão embargado, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional.
+b) arts. 75, 109, 110 e 313 do CPC/15, alegando que uma vez finalizado o inventário, a legitimidade é exclusiva dos herdeiros. O Espólio apenas poderia ser sucedido pelos herdeiros do Sr. João Ávila e não, substituído pelo Sr. Jorge, cessionário das ações, ainda que tenha atuado no feito desde a propositura da ação como representante do Espólio, de forma irregular e ilegal;
+c) arts. 166 e 169 do Código Civil, apontando a nulidade da cessão que amparou a substituição do polo ativo pelo Sr. Jorge, porquanto os ativos objeto da inicial foram vendidos pela herdeira ao Sr. Jorge em 1999, ou seja, após a negociação que se reputa fraudulenta neste feito.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial (fls. 308-310, e-STJ), o que ensejou o manejo do presente agravo (fls. 318-328, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 352-358), este signatário negou provimento ao recurso especial em razão da ausência de negativa de prestação jurisdicional e incidência das Súmulas 283/STF e 7/STJ.
+No presente agravo interno (e-STJ, fls. 362-373), a ora agravante combate os óbices supracitados e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Não há falar em ofensa ao art. 1022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentaçã o a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. No caso, a análise acerca de eventual nulidade da cessão demandaria o revolvimento do conjunto fático-probatório, o que atrai a incidência do óbice na Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Consoante asseverado na decisão singular, a apontada violação aos arts. 489 e 1.022 do CPC/15 não se configura. Constata-se, da leitura do aresto objurgado, que a Corte estadual, ao apreciar o recurso interposto pela parte, dirimiu a controvérsia e decidiu as questões postas à apreciação de forma suficientemente fundamentada, sem omissões, porém, em sentido contrário ao pretendido pela recorrente, o que não configura negativa de prestação jurisdicional ou deficiência de fundamentação.
+Assim constou do acórdão (fl. 255, e-STJ):
+A valer, o acórdão embargado, minuciosamente, detalhou a situação e expôs os motivos pelos quais o sr. Jorge teria legitimidade para postular em juízo a indenização para reaver valores relativos a 17.010 ações preferenciais e 8.515 ações ordinárias, emitidas por Investimento Itaú S.A e depositadas no Itaú Unibanco S.A, por intermédio da corretora Estatística Investimentos S.A.
+De fato, Jorge não teria legitimidade para representar o espólio, posto não ser inventariante ou herdeiro de João Ávila. Isso restou consignado, inclusive, pela decisão de primeiro grau que ordenou a correção do polo ativo. Não obstante, Jorge possui legitimidade enquanto cessionário do negócio entabulado em 1999 com a inventariante (Maria Julieta de Almeida Torres Pisa) e homologado o pagamento por adjudicação em juízo.
+Nesse passo, não há se falar em legitimidade apenas dos herdeiros de João Ávila, visto que antes do ajuizamento da demanda em 2011 já havia sido feito o negócio jurídico entre as partes Maria (inventariante) e Jorge.
+Não é demais lembrar a orientação desta Corte no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE PÔS TERMO À EXECUÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE, PORQUANTO NÃO HÁ DÚVIDA A RESPEITO DO RECURSO ADEQUADO. AGRAVO NÃO PROVIDO.
+1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. A interposição de agravo de instrumento contra sentença que extingue processo de execução configura erro grosseiro e inviabiliza a aplicação do princípio da fungibilidade recursal. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1520112/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2020, DJe 13/02/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE NOVAÇÃO. MERO PARCELAMENTO DA DÍVIDA. SÚMULAS 5 E 7/STJ. APLICAÇÃO.
+AGRAVO INTERNO DESPROVIDO.
+1. Inexistem omissões ou mesmo contradição a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 10, 489, § 1º, IV e VI, e 1.022 do CPC/2015 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+(..)
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1445088/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Ressalta-se que não há falar em omissão quando não acolhida a tese ventilada pelo recorrente, mormente se o acórdão abordar todos os pontos relevantes ao deslinde do feito, como ocorre na hipótese.
+Inexiste, portanto, violação ao artigo 1.022 do CPC/15, visto que as questões foram apreciadas pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Em relação à alegada ofensa aos arts. 75, 109, 110 e 313 do CPC/15, a decisão agravada também merece ser mantida.
+Em suas razões, a agravante sustentou que uma vez finalizado o inventário, a legitimidade é exclusiva dos herdeiros. O Espólio apenas poderia ser sucedido pelos herdeiros do Sr. João Ávila e não, substituído pelo Sr. Jorge, cessionário das ações, ainda que tenha atuado no feito desde a propositura da ação como representante do Espólio, de forma irregular e ilegal.
+Acerca do tema, o Tribunal de origem decidiu o seguinte (e-STJ, fl. 197):
+Veja-se que o falecimento de João Ávila não aconteceu durante o trâmite processual da ora demanda, ajuizada em 2011 depois da ação cautelar de exibição de documentos nº 987/2008. Isso significa que não seria necessária a suspensão do feito para ação de habilitação na forma do art. 313 do CPC.
+Outrossim, o art. 109 do CPC trata da sucessão processual, o que difere da substituição processual, situação vislumbrada no caso, quando Jorge Conceição figurou na inicial como representante do espólio. Ademais, o CPC ao prever a possibilidade de alienação da coisa ou do direito litigioso pressupõe que a pressentida venda tenha ocorrido durante o tramite processual, o que não é o caso em comento também.
+Outrossim, restou consignado no acórdão que julgou os embargos de declaração que "antes do ajuizamento da demanda em 2011 já havia sido feito o negócio jurídico entre as partes Maria (inventariante) e Jorge" e "a cessão não ocorreu durante o trâmite processual" (e-STJ, fl. 255-256):
+A valer, o acórdão embargado, minuciosamente, detalhou a situação e expôs os motivos pelos quais o sr. Jorge teria legitimidade para postular em juízo a indenização para reaver valores relativos a 17.010 ações preferenciais e 8.515 ações ordinárias, emitidas por Investimento Itaú S.A e depositadas no Itaú Unibanco S.A, por intermédio da corretora Estatística Investimentos S.A.
+De fato, Jorge não teria legitimidade para representar o espólio, posto não ser inventariante ou herdeiro de João Ávila. Isso restou consignado, inclusive, pela decisão de primeiro grau que ordenou a correção do polo ativo. Não obstante, Jorge possui legitimidade enquanto cessionário do negócio entabulado em 1999 com a inventariante (Maria Julieta de Almeida Torres Pisa) e homologado o pagamento por adjudicação em juízo.
+Nesse passo, não há se falar em legitimidade apenas dos herdeiros de João Ávila, visto que antes do ajuizamento da demanda em 2011 já havia sido feito o negócio jurídico entre as partes Maria (inventariante) e Jorge.
+A parte embargante tenta se valer do art. 109 para guarnecer sua pretensão, contudo, ficou demonstrada a razão pela não aplicação deste dispositivo e do art. 313 do CPC. Com efeito, como a cessão não ocorreu durante o trâmite processual seria desnecessária a observância das mencionadas normas processuais.
+Verifica-se, portanto, que a Corte estadual concluiu pela legitimidade ativa do recorrido Jorge em razão de dois fundamentos centrais, quais sejam: "o falecimento de João Ávila não aconteceu durante o trâmite processual da ora demanda" e "antes do ajuizamento da demanda em 2011 já havia sido feito o negócio jurídico entre as partes Maria (inventariante) e Jorge".
+Entretanto, a parte recorrente não logrou infirmar nas razões do especial nenhum dos dois fundamentos, insistindo na tese de que apenas os herdeiros do de cujos poderiam ocupar o polo ativo da ação, de modo que a pretensão reformatória encontra obstáculo na Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CAPITALIZAÇÃO DE JUROS. TAXA ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL. POSSIBILIDADE. PRECEDENTES. REVISÃO DAS PREMISSAS FÁTICAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. JUROS REMUNERATÓRIOS. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+3. A ausência de impugnação específica sobre fundamento suficiente, que por si só, é capaz de manter a conclusão esposada no acórdão recorrido, configura deficiência na fundamentação e atrai a incidência das Súmulas 283 e 284 do STF.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.013.366/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/10/2022, DJe de 20/10/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. RESSARCIMENTO DE DANOS. TRANSPORTE AÉREO DE MERCADORIA. AVARIA DE CARGA. ALEGAÇÃO DE DECADÊNCIA. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. LIMITAÇÃO DA RESPONSABILIDADE. POSSIBILIDADE. PREVALÊNCIA DA CONVENÇÃO DE MONTREAL. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DE QUESTÃO FÁTICA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. É inadmissível o recurso especial nas hipóteses em que o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Aplicação analógica da Súmula 283 do STF.
+(..)
+(AgInt no AREsp n. 1.636.421/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022.)
+3. Por fim, não merece reparos a decisão agravada que aplicou o óbice da Súmula 7/STJ à pretensão recursal relativa aos arts. 166 e 169 do Código Civil.
+No ponto, a parte alegou a nulidade da cessão que amparou a substituição do polo ativo pelo Sr. Jorge, porquanto os ativos objeto da inicial lhe foram vendidos pela herdeira em 1999, ou seja, após a negociação que se reputa fraudulenta neste feito.
+A Corte de origem, ao apreciar a controvérsia, assim decidiu (e-STJ, fl. 198):
+No que se refere à impossibilidade e nulidade da cessão de crédito, com argumento no art. 166 do CC, observe-se que a questão não interfere na legitimidade para postular em juízo. O fato de os ativos terem sido vendidos em 1999 para Jorge, isto é, após a negociação que se reputa fraudulenta (1997), não impediu o negócio, visto que não se tinha conhecimento até então da presumida fraude. Com efeito, não há prova de que a herdeira vendeu ativos ciente de que esses já tinham sido negociados a terceiro.
+Dessa forma, a análi se acerca de eventual nulidade da cessão demandaria o revolvimento do conjunto fático-probatório, o que atrai a incidência do óbice na Súmula 7 do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. 1. DECISÃO MONOCRÁTICA. POSTERIOR RATIFICAÇÃO PELO COLEGIADO, EM JULGAMENTO DE AGRAVO INTERNO. AUSÊNCIA DE NULIDADE. PRECEDENTE. 2. VIOLAÇÃO AO ART. 489 DO CPC/2015 NÃO VERIFICADA. 3. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 4. ALEGAÇÃO DE FRAUDE À EXECUÇÃO, NULIDADE DA CESSÃO DE DIREITOS E DA EXISTÊNCIA DE MÁ-FÉ. CONCLUSÕES DO ACÓRDÃO RECORRIDO. REVISÃO. SÚMULA 7/STJ. 5. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO PRETENSÃO RESISTIDA POR PARTE DO EXEQUENTE. REDISTRIBUIÇÃO. SÚMULAS N. 7 E 83/STJ. 6. AGRAVO DESPROVIDO.
+(..)
+4. No que se refere à alegação de fraude à execução, da nulidade da cessão de direito e da existência de má-fé pela parte agravada, as ponderações do Colegiado local foram feitas com base na apreciação fático-probatória da causa, portanto, a revisão do julgado importa necessariamente no reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado n. 7 da Súmula deste Tribunal, não sendo caso de revaloração de prova.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.895.297/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/10/2021, DJe de 28/10/2021.)
+De rigor, portanto, a manutenção da decisão agravada.
+4. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
