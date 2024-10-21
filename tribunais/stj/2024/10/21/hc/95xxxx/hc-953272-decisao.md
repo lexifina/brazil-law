@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CARLOS VINÍCIUS LIRIO DA SILVA contra decisão monocrática do Tribunal de Justiça do Estado do Rio de Janeiro (025786-07.2024.8.19.0000).
+Segundo consta dos autos, o paciente teve a prisão preventiva decretada em 4/2/2021, foi denunciado, condenado e a sentença revisada pelo Tribunal estadual, tendo sido a pena fixada em 7 anos de reclusão, a ser cumprida no regime inicial fechado, pelo crime previsto no art. 35, c/c art. 40, incisos IV e VI, ambos da Lei nº 11.343/06 (e-STJ fl. 11.405).
+No writ originário, a defesa alegou excesso de prazo no julgamento da apelação, asseverando "que o recurso defensivo fora interposto em 09/12/2022 e as razões apresentadas em 08/05/2023". Ainda, apresentou "julgados que, a seu entendimento, beneficiariam o ora paciente, no sentido de obter o direito de aguardar o julgamento do recurso de apelação defensivo em liberdade" (e-STJ fl. 10965).
+A Relatora do recurso de apelação entendeu não haver constrangimento ilegal e negou seguimento ao habeas corpus com fulcro no artigo 133, inciso XIII, alínea j do Regimento Interno do TJRJ (e-STJ fl. 10966).
+Nas razões do presente habeas corpus, a defesa reafirma a alegação de excesso de prazo na prisão do paciente. Justifica ser plausível que o paciente seja beneficiado com a redução da pena e que o tempo de prisão cautelar viola o princípio da homogeneidade, pois representa um percentual elevado da condenação.
+Diante disso, pede, em liminar e no mérito, o relaxamento da prisão preventiva do paciente.
+É o relatório, decido.
+Não há como conhecer do habeas corpus.
+Primeiro, porque a defesa não manejou o recurso cabível contra a decisão monocrática que negou seguimento ao habeas corpus, de modo a obter um provimento do colegiado da Corte estadual e atrair a competência do Superior Tribunal de Justiça, nos termos do art. 105, II, da Constituição Federal.
+Segundo, porque o writ está prejudicado, visto que o recurso de apelação foi julgado no dia 29 de agosto de 2024, após a impetração originária, esvaziando o objeto do presente writ. A propósito, em 10/6/2024, ao julgar o HC 916.386, impetrado pelo paciente alegando demora na apelação, não conheci do habeas corpus, mas recomendei celeridade:
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus. Recomendo, entretanto, de ofício, ao Juízo processante, (i) o reexame a necessidade da segregação cautelar, tendo em vista o tempo decorrido, a quantidade de pena imposta ao paciente, os termos dos recursos interpostos, além da prospecção em relação aos eventuais benefícios da execução penal; além de (ii) celeridade na remessa
+Por fim, após o julgamento da apelação verifica-se que a defesa do paciente não questionou as alegações, tampouco comprovou a interposição de recurso especial, o que igualmente inviabiliza o exame direito nesta Corte.
+No mais, vale lembrar que o paciente se encontra cumprindo pena total de mais de 50 anos, havendo ainda mais de 33 anos para cumprir (e-STJ fl. 6522).
+Além disso, já foi expedida a guia de execução, providência que assegura aos presos provisórios (caso da condenação que deu origem ao presente habeas corpus) o direito de postular os benefícios da execução penal (situação em que se encontra o paciente por outros processos). Assim, diante de uma eventual ameaça de violação de direitos relativos à condenação que deu origem o presente writ, a defesa do paciente poderá o exame diretamente pelo Juízo das execuções, nos termos da Súmula 716 do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
