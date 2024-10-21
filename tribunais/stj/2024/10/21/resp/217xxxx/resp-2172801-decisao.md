@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL S.A., com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fl. 124):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. LIQUIDAÇÃO. PERÍCIA. CÉDULA DE CRÉDITO RURAL. EXPURGOS. MARÇO DE 1990. VERBAS REFLEXAS. INCLUSÃO. HOMOLOGAÇÃO DO LAUDO PERICIAL. DECISÃO MANTIDA.
+1 - A aplicação do índice adequado para correção monetária para fazer frente à indevida indexação de cédula de crédito rural em março de 1990 implica recálculo do saldo devedor, com os reflexos daí decorrentes.
+2 - Considerado o esclarecimento prestado pela Perita em laudo complementar, que não foi contraposto por razão sustentável pelo Agravante, bem assim a baliza jurisprudencial traçada em recurso repetitivo sobre o termo inicial de incidência dos juros de mora em casos da espécie, torna-se patente o acerto da decisão agravada ao homologar o laudo pericial, pois se encontra dotado dos requisitos previstos no CPC 473 e em sintonia com os parâmetros definidos no título executivo judicial.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 198-205).
+Nas razões do recurso especial (e-STJ, fls. 228-237), o recorrente apontou violação aos arts. 509, § 4º, e 1.022 do CPC/2015; e 884 do CC.
+Contrarrazões às fls. 264-271 (e-STJ).
+Admitido o recurso especial na origem, os autos ascenderam a esta Corte.
+Às fls. 243-245 (e-STJ), o BANCO DO BRASIL S.A. requereu a suspensão do processo em razão do reconhecimento da repercussão geral no Recurso Extraordinário nº 1.445.162/DF, nos termos do art. 1.035, § 5º, do CPC/2015, inclusive com determinação de suspensão em todo território nacional de todos os processos que versem sobre a matéria "critério de reajuste do saldo devedor das cédulas de crédito rural, no mês de março de 1990, nos quais prevista a indexação aos índices da caderneta de poupança" (Tema 1290).
+Brevemente relatado, decido.
+A questão referente ao índice de correção monetária aplicável às cédulas de crédito rural, cuja fonte de recursos provém dos depósitos das cadernetas de poupança referente ao mês de março de 1990, foi afetada pelo Supremo Tribunal Federal, sob o rito da repercussão geral (Tema n. 1290), nos termos do acórdão de relatoria do Ministro Alexandre de Moraes, prolatada no RE n. 1.445.162/DF, a seguir transcrita:
+RECURSO EXTRAORDINÁRIO. CRITÉRIO DE REAJUSTE DO SALDO DEVEDOR DAS CÉDULAS DE CRÉDITO RURAL, NO MÊS DE MARÇO DE 1990, NAS QUAIS PREVISTA A INDEXAÇÃO AOS ÍNDICES DA CADERNETA DE POUPANÇA. REPERCUSSÃO GERAL RECONHECIDA. 1. Revela especial relevância, na forma do art. 102, § 3º, da CONSTITUIÇÃO FEDERAL, definir o critério de reajuste do saldo devedor das cédulas de crédito rural, no mês de março de 1990, cujos contratos estabelecem a indexação aos índices da caderneta de poupança.
+2. Repercussão geral da matéria reconhecida, nos termos do art. 1.035 do CPC.
+(RE 1445162 RG, Relator(a): ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 09-02-2024, PROCESSO ELETRÔNICO DJe-033 DIVULG 22- 02-2024 PUBLIC 23-02-2024)
+Em decisão singular publicada no DJe 11.3.2024, o Relator do recurso, Ministro Alexandre de Moraes, decretou a suspensão do processamento de " ..  todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça nestes autos. .. ".
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação do acórdão a ser proferido no Recurso Extraordinário n. 1.445.162/DF vinculado ao Tema 1.290/STF, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CÉDULA DE CRÉDITO RURAL. ÍNDICE DE CORREÇÃO MONETÁRIA. REPERCUSSÃO GERAL. TEMA 1.290 DO STF. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
