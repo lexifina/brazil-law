@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DECISÃO DE CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL. IRRECORRIBILIDADE. IMPOSSIBILIDADE DE DISCUSSÃO PREMATURA ACERCA DO PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido da irrecorribilidade da decisão de conversão do Agravo em Recurso Especial, por tratar-se de ato meramente ordinatório, não causado de prejuízo às partes, bem como porque a aferição dos requisitos de admissibilidade deste será realizada quando do seu julgamento.
+II - A insurgência recursal revela-se cognoscível, excepcionalmente, apenas nas hipóteses em que alegada a presença de óbice relacionado ao conhecimento do Agravo em Recurso Especial. Precedentes.
+III - Agravo Interno no qual se alega o não preenchimento de requisitos de admissibilidade do Recurso Especial ou a necessidade de desprovimento deste. Impossibilidade de conhecimento, porquanto matérias a serem apreciadas oportunamente.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno não conhecido.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Trata-se de Agravo Interno interposto por MARIO JORGE DE ALENCAR LIMA E OUTROS contra decisão monocrática mediante a qual reconsiderei a decisão anterior e determinei a conversão do Agravo em Recurso Especial (fls. 1.830/1.832e), integrada por aquela mediante a qual os Embargos de Declaração foram rejeitados (fls. 1.855/1.859e).
+Sustentam os Agravantes, em síntese, que o Recurso Especial interposto pela parte ora Agravada não supera a barreira do conhecimento, porquanto incidiriam as Súmulas ns. 283/STF e 7/STJ, bem como porque ausente violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do Colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 1.894e).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DECISÃO DE CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL. IRRECORRIBILIDADE. IMPOSSIBILIDADE DE DISCUSSÃO PREMATURA ACERCA DO PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido da irrecorribilidade da decisão de conversão do Agravo em Recurso Especial, por tratar-se de ato meramente ordinatório, não causado de prejuízo às partes, bem como porque a aferição dos requisitos de admissibilidade deste será realizada quando do seu julgamento.
+II - A insurgência recursal revela-se cognoscível, excepcionalmente, apenas nas hipóteses em que alegada a presença de óbice relacionado ao conhecimento do Agravo em Recurso Especial. Precedentes.
+III - Agravo Interno no qual se alega o não preenchimento de requisitos de admissibilidade do Recurso Especial ou a necessidade de desprovimento deste. Impossibilidade de conhecimento, porquanto matérias a serem apreciadas oportunamente.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno não conhecido.
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Registre-se que a jurisprudência do Superior Tribunal de Justiça, valendo-se de interpretação dada ao art. 258, § 2º, do RISTJ, firmou orientação no sentido da irrecorribilidade da decisão do relator que, com fulcro no art. 34, XVI, do RISTJ, determina a conversão do Agravo em Recurso Especial, por trata-se de ato meramente ordinatório, não causador de prejuízo às partes, considerando que tal medida não retira a possibilidade de novo exame dos pressupostos de admissibilidade do Recurso Especial na oportunidade do seu julgamento.
+A interposição de recurso contra a decisão de conversão do Agravo em Recurso Especial revela-se admissível tão somente para discussão acerca do preenchimento dos requisitos relacionados ao conhecimento do próprio Agravo em Recurso Especial, consoante se extrai dos julgados assim ementados:
+PROCESSO CIVIL. AGRAVO REGIMENTAL NO AGRAVO CONVERTIDO EM RECURSO ESPECIAL. DESCABIMENTO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A jurisprudência desta Corte é firme quanto a ser irrecorrível a decisão de relator que dá provimento a agravo para determinar sua conversão em recurso especial, nos termos do art. 258, § 2o. do RISTJ, exceto se houver descumprimento de requisito formal, tais como a intempestividade, irregularidade de representação, entre outros.
+2. Agravo Regimental do ESTADO DO RIO GRANDE DO SUL não conhecido.
+(AgRg no AgRg no REsp 1.582.131/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/04/2017, DJe 04/05/2017, destaque meu).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE DEU PROVIMENTO AO AGRAVO E DETERMINOU SUA CONVERSÃO EM RECURSO ESPECIAL. IRRECORRIBILIDADE, EM PRINCÍPIO. ART. 258, § 2º, DO RISTJ C/C 545 DO CPC. ADMISSÃO EXCEPCIONAL. QUESTÃO ADSTRITA AO CONHECIMENTO DO AGRAVO.
+1. Conforme orientação jurisprudencial firmada por esta Corte, na vigência do CPC/1973, não só é possível a conversão do Agravo após a entrada em vigor da Lei 12.322/10, como também é irrecorrível a decisão que, para melhor exame da controvérsia, determina sua conversão em Recurso Especial. Aplicação da regra do art. 258, § 2º, do RISTJ.
+2. Recorribilidade, contudo, no que toca aos requisitos de admissibilidade do próprio Agravo em Recurso Especial.
+3. Caso concreto em que não se alega vício do agravo, mas do próprio Recurso Especial.
+4. Agravo Interno não provido.
+(AgInt nos EDcl no AgInt no AREsp 501.722/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/06/2017, DJe 30/06/2017, destaquei).
+Nessa linha, ainda, os seguintes precedentes: AgInt no REsp 1.488.467/PE, 3ª Turma, Rel. Ministro Paulo de Tarso Sanseverino, DJe de 03.02.2017; EDcl no AREsp 837.160/SP, 4ª Turma, Rel. Ministro Luis Felipe Salomão, DJe de 21.03.2016; AgRg no AREsp 614.950/ES, Rel. Ministro Jorge Mussi, 5ª Turma, DJe de 22.04.2015; e AgRg no AREsp 360.386/DF, Rel. Ministra Maria Thereza de Assis Moura, 6ª Turma, DJe de 04.10.2013.
+In casu, as alegações apresentadas no Agravo Interno, quais sejam, de que o Recurso Especial interposto pela parte ora Agravada não merece ser conhecido, pela incidência das Súmulas ns. 283/STF e 7/STJ, bem como porque ausente violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, dizem com os pressupostos de admissibilidade do próprio Recurso Especial, cuja aferição, conforme ressaltado na decisão recorrida, será realizada em momento oportuno, razão pela qual o presente recurso não supera a barreira do conhecimento.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Posto isso, NÃO CONHEÇO do recurso.
