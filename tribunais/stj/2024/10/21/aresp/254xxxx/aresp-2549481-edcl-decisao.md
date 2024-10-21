@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EQUATORIAL PIAUI DISTRIBUIDORA DE ENERGIA S.A. contra decisão de minha lavra, em que conheci do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento (e-STJ fls. 3.160/3.168).
+Sustenta a parte embargante a ocorrência dos seguintes vícios: a) contradição em relação à ausência de carência de fundamentação e a aplicação da Súmula 211 do STJ, ao argumento de que, se "o TJPI teria supostamente enfrentado todas as questões suscitadas, não seria possível afirmar, ao mesmo tempo, que não houve análise das teses de ilegitimidade ativa e prescrição (matérias de ordem pública)"; b) omissão e obscuridade em relação à análise de matérias de ordem pública (ilegitimidade ativa, litispendência e prescrição), afastando-se o não conhecimento do recurso pela incidência da Súmula 211 do STJ; c) omissão e contradição quando "aplicou genericamente a Súmula 83 do STJ" (e-STJ fls. 3.172/3.178).
+Intimada, a parte embargada não formulou impugnação (e-STJ fl. 3.182).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+In casu, não ocorreu nenhum dos vícios supracitados.
+Quanto à contradição apontada, ficou consignado na decisão embargada que, com relação aos temas da litispendência e da prescrição, além do descabimento do corte no fornecimento do serviço de energia elétrica para os Municípios inadimplentes, o Tribunal de origem se pronunciou de modo suficientemente motivado no aresto recorrido.
+Ressaltou-se, ainda, que a Corte de origem não emitiu juízo de valor sobre a alegada ilegitimidade passiva da associação/autora, ora embargada, bem como acerca da suspensão do prazo prescricional, a despeito de ventilados tais temas nos embargos de declaração ali opostos, de modo que, no ponto, incidiu o enunciado da Súmula 211 do STJ.
+Também anotou-se ser inaplicável à espécie o art. 1.025 do CPC/2015 (prequestionamento ficto), pois a arguição de pontos omissos/obscuros/contraditórios somente nos embargos de declaração e não nas contrarrazões do apelo interposto na origem (e-STJ fls. 2618/2654) manifesta inovação recursal, situação em que o STJ não conhece ter havido violação dos arts. 489 e 1.022 do CPC (AgInt no REsp 1853540/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 15/06/2020, DJe 26/06/2020).
+No que tange aos vícios relacionados à análise de matéria de ordem pública, convém anotar que, nos termos da jurisprudência desta Corte, mesmo as matérias de ordem pública devem preencher o necessário requisito do prequestionamento (AgInt no REsp n. 2.137.500/SP, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 30/9/2024, DJe de 3/10/2024, e AgInt nos EDcl no REsp n. 2.125.778/GO, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 16/9/2024, DJe de 19/9/2024).
+Já o vício relacionado ao emprego da Súmula 83 do STJ manifesta o inconformismo da embargante com a rejeição do seu recurso especial.
+No entanto, o desiderato de rediscutir a causa sem a presença dos requisitos exigidos pela norma de regência é inadmissí vel em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA AÇÃO RESCISÓRIA. IMPUGNAÇÃO AO VALOR DA CAUSA. VÍCIOS DE FUNDAMENTAÇÃO. INEXISTÊNCIA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos declaratórios são cabíveis quando houver omissão, contradição ou obscuridade no acórdão embargado, ou ainda para correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+2. A pretensão aclaratória tem por objeto apenas os vícios constantes no julgado embargado, não servindo para sanar eventual falha de fundamentação existente em decisão anterior, diante da ocorrência de preclusão. Nesse sentido: EDcl no AgRg no RE no AgRg no AREsp 1.212.307/PE, Rel. Min. Maria Thereza de Assis Moura, Corte Especial, DJe 6/2/2019.
+3. No caso, o acórdão embargado limitou-se a não conhecer do agravo interno, uma vez que a parte deixou de impugnar, de maneira especificada, os fundamentos da decisão agravada. Todavia, a embargante ignora que o agravo interno por ela manejado não foi conhecido, pretendendo o reexame de questões atinentes ao próprio mérito da impugnação ao valor da causa, o que não se admite no presente momento processual.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt na AR 5.848/RJ, Relator Ministro Og Fernandes, Primeira Seção, julgado em 14/05/2019, DJe 30/05/2019)
+Com essas considerações, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
