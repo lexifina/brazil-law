@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de demonstração da ofensa aos artigos de lei indicados, (b) aplicação da Súmula n. 7/STJ e (c) falta de comprovação do dissídio jurisprudencial, por inexistência de similitude fática (e-STJ fls. 714/716).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 504):
+PLANO DE SAÚDE - Cominatória - Custeio psicoterapia, fonoaudiologia e terapia ocupacional para o tratamento de TEA que acomete o autor, pelo método ABA, devido - Lastro administrativo da ANS para tal custeio verificado, mesmo diante do entendimento jurisprudencial emanado dos EREsps nºs 1.886.929/SP e 1.889.704/SP, com ilimitado número de sessões, diante de novel norma administrativa da agência reguladora da área da saúde - Descabe custeio, entretanto, de psicopedagogia, musicoterapia, psicomotricista, equoterapia, arteterapia, hidroterapia e acompanhante terapêutico, não constates do rol da ANS e cuja imprescindibilidade da indicação médica não veio lastreada em prova técnica, sequer requerida pelas partes litigantes - Decisum parcialmente modificado - Ônus sucumbenciais rearranjados - Apelo provido em parte.
+Os embargos de declaração foram rejeitados (e-STJ fls. 601/303).
+No recurso especial (e-STJ fls. 558/575), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente apontou dissídio jurisprudencial e violação:
+(i) do art. 10 do CPC/2015, argumentando que "a demanda foi ajuizada em 28/03/2019 e a decisão aplicada fora prolatada em 08/06/2022, de modo que por óbvio os requisitos fixados como hipóteses de exceção a taxatividade do rol jamais foram uma questão no processo. Aliás, antes da elaboração do acórdão não houve qualquer oportunidade para se manifestar a respeito da respectiva decisão, portanto a decisão reveste de surpresa prejudicando direito do recorrente, e violando frontalmente o art. 10 do CPC e o princípio de vedação a decisão surpresa" (e-STJ fl. 562),
+(ii) do art. 369 do CPC/2015, afirmando haver cerceamento de defesa, ante a falta da prova técnica,
+(iii) dos arts. 341, 373, II, e 374, III, do CPC/2015, sustentando que a revelia da parte recorrida ensejaria a procedência do custeio do tratamento de saúde de scrito na inicial, pois tal circunstância tornaria os fatos e documentos autorias incontroversos. Acrescentou que "o ônus da prova foi invertido em sentença, de modo que além de o réu não cumprir encargo processual atribuído pelo art. 373, II do CPC, tampouco demonstrou falta de verossimilhança dos pedidos autorais, se limitando a repetir a tese acerca da taxatividade do rol" (e-STJ fls. 564/565),
+(iv) do art. 12, I, "a" e "b", da Lei n. 9.656/1998, porque as indicações terapêuticas estariam previstas na legislação especial referida, o que tornaria sua cobertura devida, e
+(v) do art. 2º, III, e 3º, I e III, "a", da Lei 12.764/2012, pois "a lei 12.764/2012 que, instituiu a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista garante o atendimento multiprofissional à pessoa com autismo, consagrou direito a atenção e atendimento multiprofissional" (e-STJ fl. 569).
+No agravo (e-STJ fls. 719/726), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 730/732).
+Parecer do Ministério Público Federal, opinando pelo desprovimento do recurso (e-STJ fls. 751/754).
+É o relatório.
+Decido.
+A Corte local assentou que estavam ausentes os requisitos de mitigação da taxatividade do rol da ANS referente ao custeio da psicopedagogia, musicoterapia, psicomotricista, equoterapia, arteterapia e hidroterapia.
+Para infirmar tal entendimento, a parte recorrente apontou violação dos arts. 12, I, "a" e "b", da Lei n. 9.656/1998 e 2º, III, e 3º, I e III, "a", da Lei n. 12.764/2012.
+Ocorre que tais dispositivos legais não possuem o alcance normativo pretendido, porque nada dispõem a respeito da amplitude das obrigações dos planos de saúde.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A Corte local não se manifestou quanto aos arts. 12, I, "a" e "b", da Lei n. 9.656/1998 e 2º, III, e 3º, I e III, "a", da Lei n. 12.764/2012 sob o enfoque pretendido pela parte recorrente. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O Tribunal de origem não debateu o conteúdo dos arts. 10, 341, 369, 373, II, e 374, III, do CPC/2015 sob o ponto de vista do recorrente a despeito dos aclaratórios opostos.
+Inafastáveis, dessa maneira, as Súmulas n. 282 do STF e 211 do STJ.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
