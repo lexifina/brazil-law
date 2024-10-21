@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. EXECUÇÃO. CÁLCULOS PERICIAIS. HOMOLOGAÇÃO. AFASTAMENTO. IMPOSSIBILIDADE. SOLUÇÃO DA CONTROVÉRSIA. FATOS E PROVAS. SÚMULA Nº 7/STJ.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. O recurso especial é inviável quando o acórdão recorrido decide a controvérsia à luz do conjunto fático-probatório dos autos, conforme o óbice da Súmula nº 7 do STJ.
+3. Na hipótese, a modificação da conclusão de que a recorrente não se valeu a tempo e modo da via adequada para discutir as decisões referidas no acórdão recorrido, bem como a homologação dos cálculos periciais na espécie, demandaria o reexame do contexto fático-probatório dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA DE PESQUISA DE RECURSOS MINERAIS CPRM contra a decisão de e-STJ fls. 179/182, que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento em razão da incidência da Súmula nº 7/STJ e por entender que não houve deficiência na prestação jurisdicional na espécie.
+Em suas razões (e-STJ fls. 186/196), a agravante reitera os argumentos do recurso especial, sustentando o seguinte:
+"4.9. Veja, é FATO INCONTROVERSO que: (i) houve pedido expresso de intimação na pessoa de advogado especifico; (ii) NÃO foi observado o pedido de intimação; (iii) foi NULA a intimação realizada; (iv) foram mitigados os efeitos da nulidade, vez que NÃO houve nova intimação para cumprimento do ato, tampouco anulação dos atos posteriores; (v) existiam 4 (quatro) atos subsequentes a serem realizados (alegação de nulidade, Agravo de Instrumento, apresentação de quesitos e impugnação do laudo pericial), sendo todos de alta complexidade e um deles dependente de conhecimento técnico de terceiro.
+4.10. Desse modo, perfeitamente cabível o Recurso Especial para reconhecer a possibilidade e necessidade da repetição dos atos, diante da situação fática já reconhecida pelas instancia ordinárias, referente a nulidade da intimação" (e-STJ fl. 192).
+A parte contrária não apresentou impugnação (e-STJ fl. 201).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. EXECUÇÃO. CÁLCULOS PERICIAIS. HOMOLOGAÇÃO. AFASTAMENTO. IMPOSSIBILIDADE. SOLUÇÃO DA CONTROVÉRSIA. FATOS E PROVAS. SÚMULA Nº 7/STJ.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. O recurso especial é inviável quando o acórdão recorrido decide a controvérsia à luz do conjunto fático-probatório dos autos, conforme o óbice da Súmula nº 7 do STJ.
+3. Na hipótese, a modificação da conclusão de que a recorrente não se valeu a tempo e modo da via adequada para discutir as decisões referidas no acórdão recorrido, bem como a homologação dos cálculos periciais na espécie, demandaria o reexame do contexto fático-probatório dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+A recorrente não trouxe nenhum argumento capaz de modificar a decisão agravada, limitando-se a reiterar o recurso especial e as razões já suficientemente julgadas na origem e na decisão impugnada.
+Como já asseverado, o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+É o que se verifica do seguinte trecho do acórdão que julgou os embargos de declaração:
+"Em síntese, a agravante alega que o acórdão embargado foi omisso, ao não se manifestar sobre o fato de que ela requereu por três vezes que as intimações fossem dirigidas exclusivamente aos seus advogados, sendo todas elas anteriores à decisão agravada. Aduz, ainda, que o acórdão se contradiz ao afastar a regra prevista no §9º do art. 272 do CPC/15 e exigir que a parte pratique simultaneamente 4 (quatro) atos processuais de alta complexidade, sendo que um deles depende de auxiliar técnico (impugnação do laudo através de assistente técnico), com base apenas na razoável duração do processo.
+Sem razão.
+A uma, porque os três requerimentos de intimação em nome de determinado advogado não substituem o procedimento previsto no §8º do art. 272 do CPC/15, que exige a alegação de nulidade da intimação no próprio ato que se busca praticar, o qual será tido como tempestivo caso o vício seja acolhido.
+A duas, porque o acórdão embargado foi claro ao afirmar que os atos a serem praticados não dependiam de acesso prévio aos autos (art. 279, §9º, do CPC/15).
+Isso porque eventuais recursos contra as decisões que se seguiram e a impugnação ao laudo pericial são atos que poderiam ser praticados na primeira manifestação da executada após o conhecimento do vício, sob pena de preclusão temporal. No entanto, a executada preferiu interpor dois recursos (agravo de instrumento e embargos de declaração) em vez de adotar o regramento legal previsto para esta hipótese" (e-STJ fl. 98).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).--
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Ademais, o acórdão que analisou o agravo de instrumento interposto na origem decidiu o seguinte:
+"Com efeito, em que pesem as alegações recursais, não merece reforma a decisão ora impugnada.
+Incide na hipótese dos autos o regramento previsto no §8º do art. 272 do CPC/15, que impõe a realização de imediato do ato impossibilitado pela ausência de intimação, sendo a nulidade arguida como matéria preliminar dele, tornando-o tempestivo caso seja acolhida.
+Claramente o referido dispositivo visa dar concretude ao princípio constitucional da duração razoável do processo, esculpido no inciso LXXVIII do art. 5º da CF/88, fazendo com que a requerente pratique desde já o ato pretendido, que restará condicionado ao acolhimento da nulidade da sua intimação.
+Excepcionalmente, é possível a reabertura do prazo para prática de ato processual que dependa do acesso prévio aos autos (art. 272, §9º, do CPC/15), o que não se verifica no presente caso.
+Isso porque eventuais recursos contra as decisões que se seguiram e a impugnação ao laudo pericial são atos que poderiam ser praticados na primeira manifestação da executada após o conhecimento do vício, sob pena de preclusão temporal. No entanto, a executada preferiu interpor dois recursos (agravo de instrumento e embargos de declaração) em vez de adotar o regramento legal previsto para esta hipótese.
+Assim, de acordo com os §§8º e 9º do art. 272 do CPC/15, descabe o pedido de reabertura do prazo processual para prática dos atos pretendidos pela agravante, em respeito à sistemática estabelecida para nulidades de intimações" (e-STJ fl. 53 - grifou-se).
+Com efeito, a modificação da conclusão de que a recorrente não se valeu a tempo e modo da via adequada para discutir as decisões referidas no acórdão recorrido, bem como a homologação dos cálculos periciais na espécie, é providência que demandaria o reexame do contexto fático-probatório dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+As alegações postas no presente recurso não prosperam e são incapazes de alterar os fundamentos da decisão impugnada, que segue mantida nos termos em que proferida .
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
