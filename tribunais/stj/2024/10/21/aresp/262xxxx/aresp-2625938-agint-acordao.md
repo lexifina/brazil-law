@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXCLUSÃO DA RECORRIDA DO POLO PASSIVO DA DEMANDA. EXCLUSÃO LÓGICA DOS BENS IMÓVEIS DADOS EM GARANTIA NA EXUCUÇÃO FISCAL. FIXAÇÃO ACERTADA DE VERBA HONORÁRIA A PARTIR DO VALOR DOS BENS EXCLUÍDOS E REPRESENTATIVOS DO PROVEITO ECONÕMICO. IMPOSSIBILIDADE DE REVOLVIMENTO DE FATOS E PROVAS. ÓBICE SA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+RELATÓRIO
+Trata-se de Agravo Interno à decisão de fls. 365 - 368, exarada pelo relator original, Ministro Herman Benjamin, que tem este dispositivo:
+" (..) É possível concluir que o órgão julgador baseou seu entendimento nas provas carreadas aos autos. Portanto, acolher as teses defendidas pelo recorrente a fim de modificar julgado somente seria possível mediante novo exame do acervo fático- probatório, o que é obstado pela Súmula 7/STJ.(..)
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, somente quanto à afronta ao art. 1.022 do CPC, e, nessa parte, negar-lhe provimento."
+O Agravo em Recurso Especial havia sido interposto pelo Estado de Alagoas contra acórdão que, diante da total procedência de Embargos à Execução, o qual excluiu Gilma Farias Alécio, ora agravada, do polo passivo de duas Execuções Fiscais, ratificou a exclusão dos dois bens antes penhorados, cujos valores representam o valor do proveito econômico que serviu de base à fixação da verba honorária de seu patrono. É a ementa do acórdão e a transcrição dos excertos que importam do acórdão dos declaratórios que integralizaram o decisum anterior:
+AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PRELIMINAR DE NÃO CABIMENTO. REJEIÇÃO. JULGAMENTO DE EMBARGOS À EXECUÇÃO FISCAL QUE RETIROU A EXECUTADA, ORA AGRAVANTE, DO POLO PASSIVO DA EXECUÇÃO, AFASTANDO A CONSTRIÇÃO SOBRE SEUS BENS QUE TINHAM SIDO PENHORADOS NO PROCESSO EXECUTIVO. HONORÁRIOS DE SUCUMBÊNCIA. PROVEITO ECONÔMICO PARA EFEITO DE INCIDÊNCIA DO CÁLCULO DOS HONORÁRIOS DE SUCUMBÊNCIA. PROVEITO ECONÔMICO MATERIAL/REAL. DOIS BENS CONSTRITOS E POSTERIORMENTE LIBERADOS. VALOR DE AMBOS QUE DEVE SER LEVANDO EM CONTA PARA FINS DO CÁLCULO DE HONORÁRIOS. MESMO TENDO O DISPOSITIVO DA DECISÃO AGRAVADA MENCIONADO APENAS UM DOS DOIS IMÓVEIS DA ORA AGRAVANTE/EXECUTADA PENHORADOS NAS EXECUÇÕES FISCAIS A QUE SE REFEREM OS EMBARGOS, JULGADO PROCEDENTE PARA EXCLUIR A EMBARGANTE DO POLO PASSIVO DOS EXECUTIVOS, CONCLUI-SE QUE AUTOMATICAMENTE A CONSTRIÇÃO DOS DOIS BENS FOI DESFEITA PELA EXTINÇÃO DA EXECUÇÃO FISCAL NO BOJO DA QUAL OS DOIS FORAM PENHORADOS, E NÃO APENAS DE UM DELES, SÓ PORQUE O OUTRO NÃO FOI CITADO EXPRESSAMENTE. REFORMA DA DECISÃO RECORRIDA. RECURSO CONHECIDO E PROVIDO.
+(..)
+22. Na sentença de páginas 417-419 da pasta digital, o magistrado de piso julgou integralmente procedente os embargos, excluindo a embargante Gilma Alécio do polo passivo das duas Execuções Fiscais. (..)
+23. Diante disso, é de se concluir que, se houve o julgamento integralmente procedente dos Embargos à Execução, como efeito automático e indelével, houve a desconstituição das penhoras de ambos os bens, decorrentes das execuções fiscais referidas, relacionados à embargante.
+24. Ademais, não há como se manter algum bem integrante da esfera patrimonial da embargante constrito, após a mesma ser tida como parte ilegítima para figurar no polo passivo da própria execução fiscal que ensejou a sua constrição, sob pena de subversão texto normativo incidente em casos como esse.
+25 Assim, como a sentença de mérito de páginas 417-419 entendeu que o percentual de honorários deveria incidir sobre o proveito econômico da demanda, tendo mencionado expressamente que por proveito econômico se deve entender o valor de avaliação dos bens penhorados, premissa esta que foi integral e expressamente mantida pelo acórdão (fl. 463 da pasta digital), deve ser entendido como proveito econômico, para efeito do cálculo dos honorários, obviamente, o valor de avaliação dos dois imóveis relacionados à embargante que foram penhorados no processo de execução de n. 0501263-67.2007.8.02.0055. (..)
+Em sua razões o recorrente sustenta, em síntese, que não pretende afastar as premissas fáticas estabelecidas pelo acórdão recorrido, mas, a partir delas , buscar sua revaloração jurídica.
+Contrarrazões à fls. 382-385.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXCLUSÃO DA RECORRIDA DO POLO PASSIVO DA DEMANDA. EXCLUSÃO LÓGICA DOS BENS IMÓVEIS DADOS EM GARANTIA NA EXUCUÇÃO FISCAL. FIXAÇÃO ACERTADA DE VERBA HONORÁRIA A PARTIR DO VALOR DOS BENS EXCLUÍDOS E REPRESENTATIVOS DO PROVEITO ECONÕMICO. IMPOSSIBILIDADE DE REVOLVIMENTO DE FATOS E PROVAS. ÓBICE SA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+VOTO
+Sem razão o recorrente.
+Dúvida não fica da leitura do acórdão impugnado que o Tribunal a quo decidiu fundamentadamente a causa, a partir da moldura fática que envolveu a identificação dos imóveis penhorados e seu valor, em incidente que excluiu do polo passivo da demanda a executada, e que resultou, por óbvio, na exclusão de suas garantias.
+Não há falar, no caso, em possibilidade de revalorar dados estáticos (o valor atribuído aos bens), e que representam o valor do proveito econômico da demanda vencida, a partir do qual foram fixados os honorários de sucumbência.
+Assim, bem aplicado pela decisão recorrida o óbice da Súmula 7/STJ.
+Do exposto, nego provimento ao recurso.
+É como voto.
