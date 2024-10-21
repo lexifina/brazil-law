@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interno interposto por SERV SOCIAL DA IND DO PAPEL PAPELAO E CORT DO EST DE SP (SERV) contra decisão de relatoria da Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado, com amparo no art. 21-E, V, c/c 253, parágrafo único, I, do RISTJ, porque não foram atacados especificamente os fundamentos da decisão agravada.
+Nas razões do presente inconformismo, alegou a inaplicabilidade da incidência da Súmula n. 7 do STJ, por não haver necessidade do reexame fático-probatório
+Houve impugnação ao recurso (e-STJ, fls. 286/289).
+É o relatório.
+DECIDO.
+Reconsideração do decisum
+Tendo em vista as alegações trazidas no agravo interno, reconsidero a decisão agravada para conhecer do agravo em recurso especial e passo à análise do recurso especial.
+Em seu recurso especial, amparado no art. 105, III, a, da CF, alegou violação dos arts. 188, I, e 944, ambos do CC/02, defendendo a inexistência de ato ilícito que justificasse a condenação em danos morais, contestando a aplicação dos princípios da razoabilidade e proporcionalidade na fixação do valor da indenização.
+O recurso não comporta provimento.
+Na hipótese, o Tribunal local, em relação ao dever da indenização e ao quantum indenizatório, manifestou-se nos seguintes termos:
+No dia 4 de agosto de 2022, em função do quadro de adenocarcinoma gástrico metastático (CID.10 - C16), foi receitado à autora o medicamento Trifluridina/Tipiracil, para que começasse a ser ministrado a partir de 15 de agosto do mesmo ano (fls. 28). Sucede que a autora foi internada no dia 11 de agosto, mas a guia de internação não mencionava a necessidade de se ministrar o medicamento (fls. 95). Iniciou-se, portanto, uma confusa troca de e-mails entre o hospital AC Camargo e a ré, de modo que o envio do plano terapêutico e a autorização do fornecimento do medicamento só ocorreram no dia 29 de agosto (fls. 90 e 100), ou seja, apenas após a concessão da tutela provisória (fls. 31/33).
+Ademais, o que se colhe das gravações das ligações telefônicas juntadas pela ré (fls. 136) é uma real desorganização e falta de controle da situação pelo plano de saúde. Ou seja, malgrado argumente a requerida que o medicamento seria concedido a despeito da decisão liminar, e que agiu dentro do prazo contratual de 10 dias úteis, a situação era de urgência e não se tomou conduta a tanto afeiçoada. É dizer, não cabe à requerida invocar possível morosidade do hospital, junto de quem atua em rede, para se escusar do dever que tem para com seus beneficiários, de agir com celeridade em casos que assim o demandem. A situação ainda se agrava com o fato de que a autora, infelizmente, veio a óbito no curso do feito (fls. 114).
+Tudo leva a concluir que o quadro extrapola mero aborrecimento cotidiano, o que ainda se reforça pelo falecimento posterior da paciente, a denotar a gravidade e urgência do caso. Trata-se, portanto, de real situação de abalo a direito essencial à qual a autora se viu submetida, insista-se, por resistência ou demora da ré a custear tratamento atestado pelo médico.
+Neste sentido, ademais, não se pode olvidar também que o dano moral cumpre um papel profilático, de desestímulo ao ofensor, dissuasório de condutas ofensivas que se revistam de real gravidade, como na espécie se considera ocorrido.
+ ..
+Por isso tudo, devida a indenização, embora não no patamar pretendido, de sessenta mil reais. Em situações análogas, de recusa do plano de saúde e falecimento do autor, este Tribunal já reputou por adequado o valor de R$ 15.000,00 (e-STJ, fls. 182/184).
+Desse modo, rever as conclusões quanto a configuração do dano moral indenizável e a razoabilidade do valor indenizatório - R$ 15.000,00 (quinze mil reais) -, da forma como trazida no apelo nobre, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+Nessas condições, DOU PROVIMENTO ao agravo interno para CONHECER do agravo em recurso especial e NÃO CONHECER do apelo nobre.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. RESPONSABILIDADE CIVIL. DEMORA INJUSTIFICADA NO FORNECIMENTO DE MEDICAMENTO. CONFIGURAÇÃO DO DANO MORAL INDENIZÁVEL. QUANTUM. REFORMA DO JULGADO. NECESSIDADE DO REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL E NÃO CONHECER DO APELO NOBRE.
