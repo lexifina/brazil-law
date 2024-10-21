@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, sem pedido liminar, interposto por MARIA FRANCISCA CARVALHO DE MACEDO contra o acórdão do Tribunal de Justiça do Estado do Piauí proferido no HC n. 0756215-40.2024.8.18.0000.
+Consta dos autos que a recorrente está presa preventivamente desde 20/10/2023 pela suposta prática do crime de homicídio qualificado.
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, tendo sido a ordem denegada.
+Nas razões recursais, alega a Defensoria Pública, em suma, que não se encontram presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal e que o decreto prisional não apresenta fundamentação idônea.
+Afirma, ainda, que é cabível a substituição da custódia por medidas cautelares diversas.
+Requer, desse modo, a revogação da prisão preventiva da recorrente, a fim de que possa responder à ação penal em liberdade.
+O Ministério Público Federal, às fls. 285-288, opinou pelo não provimento do recurso.
+É o relatório.
+DECIDO.
+A súplica não prospera.
+No caso, o Juízo de primeiro grau, ao decretar a prisão preventiva da recorrente, ressaltou o seguinte (fls. 100-101; grifamos):
+Trata-se de pedido de Prisão Preventiva e Busca e Apreensão Domiciliar formulado pela Autoridade Policial, em desfavor de Valdeci Pereira da Silva e Maria Francisca Carvalho de Macedo, qualificados nos autos, pelo crime de homicídio qualificado - Art. 121, § 2º, inciso IV do Código Penal, delito apurado nos autos do Inquérito Policial nº 12721/2023.
+Relata a autoridade policial que em 25/08/2023, por volta das 07h, na localidade Dom Henrique, município de Nazária/PI, os ora representados, utilizando de recurso que dificultou ou tornou impossível a defesa do ofendido, o golpearam várias vezes com uma faca, acarretando-lhe os ferimentos que o levaram a óbito.
+(..)
+No caso em questão, analisando os elementos constantes nos autos, verifico que, os acusados são propensos à prática delituosa, tendo inclusive, destarte, prova da existência do crime imputado aos representados, assim como indícios suficientes de autoria.
+(..)
+A periculosidade dos Representados é, portanto, o perigo à ordem pública, é facilmente perceptível pelas características do crime.
+O Tribunal de origem, por sua vez, assim manteve a segregação cautelar (fl. 256; grifamos):
+Como se vê, a prisão preventiva foi justificada na garantia da ordem pública, nos termos do art. 312 do CPP, considerando a periculosidade da paciente, evidenciada pela gravidade concreta da conduta, qual seja, homicídio, em tese, praticado em concurso de pessoas, mediante vários golpes de faca em desfavor da vítima.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, em virtude da especial reprovabilidade dos fatos, evidenciada a partir das circunstâncias da prática delitiva, as quais justificam a prisão processual do acusado, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública
+Exemplificativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORDEM DENEGADA. FALTA DE NOVOS ARGUMENTOS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. EXCESSO DE PRAZO. PECULIARIDADES DA DEMANDA. PENA COMINADA. AGRAVO NÃO PROVIDO. 1. É assente nesta Corte Superior que o regimental deve trazer novos argumentos capazes de infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos. 2. O modus operandi do crime de homicídio qualificado, supostamente cometido mediante golpes de faca peixeira na vítima, por motivo fútil, após mera discussão em um bar, é bastante para evidenciar a gravidade concreta dos fatos e a acentuada periculosidade social do acusado, bem como para lastrear a medida cautelar mais onerosa, que lhe foi imposta. 3. A existência de ações penais em curso, por crimes violentos, e a prévia condenação definitiva por delito contra a vida, ao cumprimento de mais de 10 anos de reclusão, apontam o risco concreto de reiteração delitiva e são aptas, de acordo com a orientação desta Corte, para amparar o cárcere preventivo do réu. (..) 7. Agravo regimental não provido.
+(AgRg no HC n. 823.916/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; grifamos).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. MOTIVO FÚTIL. PERIGO COMUM. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. GRAVIDADE EM CONCRETO DA CONDUTA. FUNDADO RISCO DE REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. A teor art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado. 2. No caso, está evidente a imprescindibilidade da mantença da prisão preventiva para garantia da ordem pública, diante das graves circunstâncias do caso concreto (modus operandi) e do fundado risco de reiteração delitiva. 3. O agravante, reincidente, teria tentado ceifar a vida da vítima, mediante golpes de faca na região da cabeça do ofendido, causando-lhe graves lesões, não se consumando o intento homicida por circunstâncias alheias a sua vontade. 4. A prisão preventiva também justifica-se diante do risco de reiteração delitiva, porquanto o agravante é reincidente. 5. Agravo regimental não provido.
+(AgRg no HC n. 833.150/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/5/2024, DJe de 10/5/2024; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se apresenta suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
