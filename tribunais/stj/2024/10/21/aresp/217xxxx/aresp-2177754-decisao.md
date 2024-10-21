@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CONSTRUTORA CALPER LTDA. e TC NEXUS EMPREENDIMENTOS IMOBILIÁRIA SPE LTDA (CONSTRUTORA e outra) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, CONSTRUTORA e outra alegaram a violação dos arts. 50, 58, II, e 60 da Lei n.º 4.591/64, afirmando que (I) não detém legitimidade para integrar o polo passivo da demanda, uma vez que o contrato celebrado entre as partes está submetido ao regime de construção por administração; (ii) a impossibilidade de "devolver" o valores que nunca recebeu, porquanto, não é a construtora quem recebe o valor diretamente pago pelos adquirentes das unidades no empreendimento em debate; (iii) os contratos e as obrigações avençadas junto ao grupo de investidores devem ser honrados, devendo eles permanecerem até o final do grupo já formado, ou retornem à condição inicial de inadimplentes, o que beneficia toda a coletividade; e, (iv) a inaplicabilidade do CDC ao caso dos autos.
+(1) Da ilegitimidade passiva
+Sobre essa questão, o acórdão recorrido destacou:
+No que se refere à preliminar de ilegitimidade passiva ad causam, entendo que não merece acolhida o ponto. Isso porque, não houve genuína reunião de pessoas interessadas em criar e administrar, por conta própria, a construção de determinado empreendimento. Na verdade, foi o grupo econômico dos réus quem idealizou e captou clientes visando, com isso, financiar a celebração de seu negócio imobiliário.
+Dessa forma, não podem os réus, agora, alegarem suposta ilegitimidade passiva ad causam para forçar o autor a ajuizar demanda contra o Condomínio Nexus Hotel & Residences, representado pela Comissão de Representantes, visto que foram os demandados que fomentaram e venderam muitas unidades no mercado, e somente após a aquisição por diversos compradores é que o Condomínio foi criado, momento em que foi formada a Comissão de Representantes. Logo, entendo estar correto o magistrado a quo ao rejeitar a preliminar de ilegitimidade passiva ad causam, não merecendo, pois, reforma este ponto da sentença. (e-STJ, fl. 2858).
+Nesse sentido, a revisão do julgado, com o consequente acolhimento da pretensão recursal, não prescindiria da interpretação das referidas disposições contratuais, bem como do reexame das provas dos autos, o que não se admite em âmbito de recurso especial, ante o óbices da Súmula nº 7 do STJ.
+A esse respeito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CADEIA DE PRESTADORES DE SERVIÇOS. CORRÉS.
+RESPONSABILIDADE SOLIDÁRIA. SÚMULAS NºS 5 E 7/STJ. COMISSÃO DE CORRETAGEM.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. No caso, rever o julgado estadual, a fim de acolher a pretensão da agravante, no sentido de que não atuou de forma conjunta na parceria comercial, demandaria a interpretação de cláusulas contratuais e o reexame de provas, atraindo a incidência das Súmulas nºs 5 e 7/STJ.
+3. O entendimento do Superior Tribunal de Justiça é de que todos os integrantes da cadeia de consumo respondem solidariamente pelos danos causados ao consumidor.
+4. Na espécie, cabível a restituição integral das parcelas pagas, incluindo a comissão de corretagem. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.817.947/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 6/12/2021, DJe 13/12/2021 - sem destaque no original.)
+(2) Da restituição dos valores pagos
+A Construtora alegou a sua ilegitimidade passiva para a restituição dos valores pagos pelos adquirentes das unidades imobiliárias sob alegação de que não era ela a responsável pelo recebimento.
+Contudo, ao contrário do quanto alega, o Tribunal fluminense, a partir da análise do contrato firmado entre as partes, bem como do caderno fático-probatório delineado nos autos, atestou a inegável responsabilidade da insurgente pela devolução de tais valores, conforme se vê a seguir:
+De início, no que se refere à alegação de ilegitimidade passiva ad causam, entendo que não merece acolhida o ponto.
+Isso porque, não houve genuína reunião de pessoas interessadas em criar e administrar, por conta própria, a construção de determinado empreendimento. Na verdade, foi o grupo econômico dos réus, ora embargantes, quem idealizou e captou clientes visando, com isso, financiar a celebração de seu negócio imobiliário.
+Dessa forma, não podem os réus, agora, alegarem suposta ilegitimidade passiva ad causam para forçar o autor a ajuizar demanda contra o Condomínio Nexus Hotel & Residences, representado pela Comissão de Representantes, visto que foram os demandados que fomentaram e venderam muitas unidades no mercado, e somente após a aquisição por diversos compradores é que o Condomínio foi criado, momento em que foi formada a Comissão de Representantes.
+Logo, entendo estar correto o magistrado a quo ao rejeitar a preliminar de ilegitimidade passiva ad causam.
+A Lei nº 4.591/64, que dispõe sobre condomínio em edificações e incorporações imobiliárias, prevê diversos regimes de construção de empreendimentos imobiliários, entre eles a construção por administração ou a preço de custo, regida pelos artigos 58 e seguintes.
+Estabelece artigo 58 da citada Lei que:
+"Art. 58. Nas incorporações em que a construção for contratada pelo regime de administração, também chamado "a preço de custo", será de responsabilidade dos proprietários ou adquirentes o pagamento do custo integral de obra, observadas as seguintes disposições: I - todas as faturas, duplicatas, recibos e quaisquer documentos referentes às transações ou aquisições para construção, serão emitidos em nome do condomínio dos contratantes da construção; II - todas as contribuições dos condôminos para qualquer fim relacionado com a construção serão depositadas em contas abertas em nome do condomínio dos contratantes em estabelecimentos bancários, as quais, serão movimentadas pela forma que for fixada no contrato.
+Observe-se que no regime de construção a preço de custo, a obra é um empreendimento coletivo dos condôminos, adquirentes das frações ideais, administrado por uma comissão de representantes, a quem incumbe o recebimento de valores em contas abertas em nome do condomínio, além da administração e do investimento desses valores no empreendimento imobiliário.
+Logo, os adquirentes são os responsáveis pelo pagamento integral da obra e o condomínio é o destinatário das prestações, enquanto o construtor limita-se a receber a remuneração contratada para execução do empreendimento.
+No caso em tela, entretanto, constata-se que tal modalidade está descaracterizada. Com efeito, verifica-se dos autos que os valores a serem empregados na construção são pagos pelos adquirentes diretamente ao alienante das frações ideais, também incorporador e construtor do empreendimento, sendo que ao Condomínio, por meio da Comissão de Representantes, resta somente a fiscalização das obras e do respectivo custo.
+ .. .
+In casu, quem retém parte das parcelas pagas, na relação contratual em apreço, é a construtora/incorporadora, a fim de se ressarcir de gastos efetuados com publicidade, despesas cartorárias e honorários advocatícios, entre outras despesas, exatamente como ocorre em qualquer promessa de compra e venda de imóvel em construção em uma incorporação por empreitada.
+De se registrar que embora o contrato celebrado entre as partes não se configure como de construção por administração, posto que não reproduz o modelo desenhado nos artigos 58 a 62 da Lei nº 4.591/64, o mesmo não se torna ilegal, todavia, sua atipicidade há de ser levada em consideração para estabelecer a medida da autonomia e da responsabilidade de cada contratante. (e-STJ, fls. 2941/2946).
+Desse modo, para afastar as conclusões acima, encontra óbice no enunciado das Súmulas ns. 5 e 7 do STJ.
+(3) Da incidência do CDC ao caso
+O recorrente pretende o afastamento do Código de Defesa do Consumidor, à espécie.
+Sobre o tema, o acórdão proferido em embargos de declaração rechaçou referida tese, com base nos fundamentos abaixo:
+No presente caso, o autor, ora embargado, sustenta que adquiriu a unidade (apart-hotel) para uso próprio. Ressalte-se que não restou comprovado nos autos que o bem não poderia ser utilizado exclusivamente pelo adquirente. Ademais, ainda que o demandante houvesse adquirido o imóvel como forma de investimento para o futuro, verifica-se não ser o mesmo um investidor imobiliário, e, dessa forma, encontra-se em situação de vulnerabilidade frente à construtora/incorporadora, principalmente de ordem técnica, inserindo-se, assim, no conceito de consumidor, nos termos do artigo 2º, do CDC, razão pela qual resulta caracterizada a relação consumerista.
+Ressalte-se ser o entendimento do E. Superior Tribunal de Justiça que o adquirente de unidade imobiliária mesmo não sendo o destinatário final do bem, apenas possuindo intuito de auferir lucro, pode ser protegido pelo CDC com base na teoria finalista mitigada se tiver agido de boa-fé e não detiver conhecimentos de mercado imobiliário nem expertise em incorporação, construção e venda de imóveis, sendo evidente sua vulnerabilidade.
+ ..
+Tem-se, assim, na hipótese, verdadeira relação de consumo, de modo que devem incidir as normas do Código de Defesa do Consumidor. (e-STJ, fls. 2949/2954)  grifou-se .
+Tal entendimento não merece reparos, porque em sintonia com a orientação firmada nesta Corte, senão vejamos:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. TEORIA FINALISTA MITIGADA. VULNERABILIDADE TÉCNICA. CARACTERIZAÇÃO. ÔNUS DA PROVA. INVERSÃO. CRITÉRIO DO JUIZ. REVISÃO. IMPOSSIBLIDADE. SÚMULA N. 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça flui no sentido de que a teoria finalista deve ser mitigada nos casos em que a pessoa física ou jurídica, ainda que não seja destinatária final do produto, apresente-se em estado de vulnerabilidade ou hipossuficiência técnica em relação ao fornecedor.
+2. Na hipótese dos autos, entretanto, rever as conclusões firmadas pelas instâncias ordinárias, a ensejar a aplicação da teoria finalista mitigada, demandaria a análise de circunstâncias fático-probatórias dos autos, procedimento inviável em recurso e special pelo óbice do Enunciado n. 7/STJ.
+3. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+Agravo interno improvido.
+(AgInt no REsp n. 1.855.714/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. INCIDÊNCIA DO CDC. TEORIA FINALISTA MITIGADA. DECISÃO MANTIDA.
+1. "O adquirente de unidade imobiliária, mesmo não sendo o destinatário final do bem, poderá encontrar abrigo na legislação consumerista com base na teoria finalista mitigada se tiver agido de boa-fé e não detiver conhecimentos de mercado imobiliário nem expertise em incorporação, construção e venda de imóveis, sendo evidente sua vulnerabilidade" (AgInt no AREsp n. 1.755.516/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/4/2021, DJe de 22/4/2021).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.668.308/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+Aplicável, no ponto, a Súmula n. 83 do STJ.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de JOELMO VAZ DUARTE e outros, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL. ILEGITIMIDADE PASSIVA DA CONSTRUTORA. INOCORRÊNCIA. RESPONSABILIDADE PELA RESTITUIÇÃO DOS VALORES PAGOS RECONHECIDA COM BASE NA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. REFORMA DO ENTENDIMENTO. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. CDC. APLICABILIDADE. TEORIA FINALISTA MITIGADA. ACOLHIMENTO. MANUTENÇÃO DO ACÓRDÃO. SÚMULA N. 83 DO STJ. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
