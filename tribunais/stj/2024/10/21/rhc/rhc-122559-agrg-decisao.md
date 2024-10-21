@@ -1,0 +1,7 @@
+DECISÃO
+Diante das informações prestadas, as quais noticiam que o agravante encontra-se beneficiado pela imposição de medidas cautelares alternativas, em detrimento da prisão preventiva, não vejo motivo ou justificativa para dar seguimento a este agravo regimental, como pretende o insurgente; tal diretriz soa desarrazoada, máxime se considerada a falta de interesse processual.
+Deveras, a inexistência desse interesse é constatada principalmente pelo fato de que foi acolhido o pedido subsidiário da defesa de imposição de cautelares alternativas, o qual foi feito neste recurso em habeas corpus - algumas dessas medidas já foram até modificadas ou abrandadas - e se encontram em pleno vigor. Não importa se essas cautelares foram ou não fruto de efeito extensivo dado em outro habeas corpus, mas o fato de que o insurgente goza dos efeitos dessa decisão nesse momento.
+Some-se a isso, a circunstância, noticiada pelo Magistrado de primeiro grau às fls. 819-822, de o caso já contar com denúncia oferecida e recebida, a qual imputa ao agravante os crimes previstos no art. 171, caput, c/c art. 71, do CP, c/c art. 2º, I, c/c art. 12, da Lei n. 8.137/1990, c/c art. 71 do CP, tudo nos termos dos arts. 29 e 69 do CP. Tal cenário indica modificação processual suficiente para seja formulado pedido específico ao Magistrado de primeiro grau de revogação das medidas cautelares que ainda são mantidas.
+Ante o exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o agravo regimental.
+Publique-se e intimem-se.
+EMENTA
