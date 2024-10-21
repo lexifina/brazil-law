@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL.A DECISÃO FOI AGRAVADA E PROFERIDA PELA RELATORIA. IMPUGNAÇÃO ESPECÍFICA. NÃO CONSTATAÇÃO. INSURGÊNCIA GENÉRICA. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O princípio da dialeticidade recursal impõe que a parte recorrente impugne todos os fundamentos da decisão recorrida e demonstre, de forma oportuna, congruente, concreta e específica (pormenorizada), seu eventual desacerto.
+2. Consoante entendimento perfilhado por esta Corte de Uniformização, a ausência de dialética impugnação dos fundamentos assentados na decisão monocrática agravada - prolatada por esta Corte - impede o conhecimento do agravo regimental, consoante inteligência sistemática do art. 932, III, CPC/2015, c/c art. 34, XVIII, "a", do RISTJ, e da Súmula n. 182/STJ, aplicável por analogia.
+3. Na espécie, constata-se que o (ora) agravante não infirmou - de forma específica e pormenorizada - o fundamento aclarado na origem de que o julgador não é obrigado a se manifestar sobre todas as teses levantadas, bastando que exponha expressa e fundamentadamente as suas razões de decidir, de modo a afastar a perquirida ofensa d o aresto local à dicção do art. 619 do CPP.
+4. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE contra decisão exarada por esta relatoria que conheceu do agravo para não conhecer do recurso especial (fls. 894-898).
+Em suas razões, o agravante aponta omissão do Tribunal estadual em relação a elementos probatórios essenciais à decisão da causa e incorreu em erro de fato (fl. 910).
+Requer a reconsideração da decisão agravada ou, subsidiariamente, remessa do feito para julgamento pela Sexta Turma a fim de que seja conhecido e provido o recurso especial (fls. 904-915).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL.A DECISÃO FOI AGRAVADA E PROFERIDA PELA RELATORIA. IMPUGNAÇÃO ESPECÍFICA. NÃO CONSTATAÇÃO. INSURGÊNCIA GENÉRICA. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O princípio da dialeticidade recursal impõe que a parte recorrente impugne todos os fundamentos da decisão recorrida e demonstre, de forma oportuna, congruente, concreta e específica (pormenorizada), seu eventual desacerto.
+2. Consoante entendimento perfilhado por esta Corte de Uniformização, a ausência de dialética impugnação dos fundamentos assentados na decisão monocrática agravada - prolatada por esta Corte - impede o conhecimento do agravo regimental, consoante inteligência sistemática do art. 932, III, CPC/2015, c/c art. 34, XVIII, "a", do RISTJ, e da Súmula n. 182/STJ, aplicável por analogia.
+3. Na espécie, constata-se que o (ora) agravante não infirmou - de forma específica e pormenorizada - o fundamento aclarado na origem de que o julgador não é obrigado a se manifestar sobre todas as teses levantadas, bastando que exponha expressa e fundamentadamente as suas razões de decidir, de modo a afastar a perquirida ofensa d o aresto local à dicção do art. 619 do CPP.
+4. Agravo regimental não conhecido.
+VOTO
+Atendido o pressuposto recursal da tempestividade, o agravo regimental, todavia, não logra conhecimento.
+O princípio da "dialeticidade recursal impõe que a parte recorrente impugne todos os fundamentos da decisão recorrida e demonstre, de forma oportuna, congruente, concreta e pormenorizada, seu (eventual) desacerto.
+Em Juízo de sustentação, a decisão singular ora agravada, proferida por esta relatoria, rechaçou a ofensa ao art. 619 do CPP nos seguintes termos (fls. 897-898, grifamos):
+Com efeito, ao se cotejar a questão de fundo, não se constata o alegado vício no acórdão recorrido, haja vista que a matéria embargada foi apreciada de maneira suficiente e adequada.
+Na espécie, em paráfrase aos fundamentos assentados pela Corte a quo, convém pontuar que, não há omissões a serem sanadas, e que o julgador não é obrigado a se manifestar sobre todas as teses expostas no recurso (e-STJ fl. 818).
+Dessa forma, dessume-se ausência de ofensa ao art. 619 do CPP, consubstanciada em mero inconformismo do Órgão Ministerial.
+Em casos semelhantes, esta Corte tem propalado que, o reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento ( EDcl no AgRg no AREsp n. 2.522.786/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/05/2024, DJe de 28/05/2024, grifamos).
+(..)
+Outrossim, além de ser certo que o eventual equívoco dos fundamentos não equivale à sua ausência ou incompletude, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, o órgão julgador não é obrigado a manifestar-se sobre todas as alegações das partes, nem a responder, um a um, todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão (AgRg no HC n. 847.559/CE, rel. Desembargador Convocado Jesuíno Rissato, Sexta Turma, julgado em 15/04/2024, DJe de 18/04/2024, grifamos).
+Neste agravo regimental, contudo, a Defesa se limita a reiterar que ausente o exame de todos os argumentos relativos a elementos probatórios essenciais, o que, por certo, não atende aos ditames normativos de regência da via recursal eleita.
+Na espécie, constata-se que o ora agravante não infirmou, de forma específica e pormenorizada, o fundamento aclarado pelo Tribunal estadual de (fl. 818):
+De um lado, porque a decisão colegiada foi clara em expor sua , ratio decidendi abordando, consoante se pode claramente inferir do expressamente todas as questões suscitadas nos embargos voto de ID 20157895: o dolo foi devidamente afastado baseado tanto nas provas colhidas na fase judicial, quanto na fase inquisitorial, inclusive pelos depoimentos que o embargante insiste em dizer não ter sido analisado por este julgador, suscitando ter havido certa omissão/obscuridade quanto a essas provas.
+Primeiro porque se faz menção expressa a estes depoimentos (seja da testemunha Jackson Rosseau ou da testemunha Petrolino). Segundo porque em análise conjunta às demais provas, devidamente explicitadas no referido voto, entendendo por estar ausente o dolo exigido para o delito em questão não deu provimento ao apelo acusatório. Acostando, ainda, aresto desta Egrégia Corte e do Superior Tribunal de Justiça, aferindo que para a caracterização do crime em apreço necessário se faz a presença do dolo, assim como o fato de instalada a dúvida razoável deve ser aplicado o princípio do cf. (AgRg in dubio pro reo (no AREsp n. 2.295.315/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/04/2023,DJe de 03/05/2023.);(APELAÇÃO CRIMINAL, 0800061-79.2018.8.20.0124, Des. Gilson Barbosa, Câmara Criminal, JULGADO em 18/05/2023, PUBLICADO em 22/05/2023.
+Demais disso, e como cediço, o julgador não é obrigado a se manifestar sobre todas as teses levantadas, bastando que exponha expressa e fundamentadamente as suas razões de decidir.
+Quanto ao tema, esta Corte Superior pacificou entendimento na esteira de que a ausência de dialética impugnação (congruente, específica e pormenorizada) dos fundamentos assentados na decisão monocrática agravada prolatada por esta Corte impede o conhecimento do agravo regimental, consoante inteligência sistemática do art. 932, III, CPC/2015, c/c art. 34, XVIII, "a", do RISTJ, e da Súmula n. 182/STJ, aplicável por analogia.
+Nessa perspectiva:
+PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL.  .. . AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA INSUFICIÊNCIA DE PROVAS. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PALAVRA DA VÍTIMA. ESPECIAL RELEVÂNCIA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. SÚMULA N. 83/STJ.
+ ..
+IV - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n. 182, STJ. Precedentes.
+Agravo regimental não conhecido.
+(AgRg no REsp n. 2.094.487/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 05/03/2024, DJe de 08/03/2024, grifamos).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A ausência de efetiva impugnação dos fundamentos da decisão que negou provimento ao agravo em recurso especial, ônus da parte recorrente, atrai a incidência do art. 1.021, § 1º, do CPC e da Súmula n. 182 desta Corte, obstando-se o conhecimento deste agravo.
+ ..
+3. Quanto ao óbice não impugnado, " p ara infirmar a aplicação da Súmula n. 83 do STJ, é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese. Precedentes." (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 03/10/2023).
+4. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.249.149/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 27/02/2024, DJe de 04/03/2024, grifamos).
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
