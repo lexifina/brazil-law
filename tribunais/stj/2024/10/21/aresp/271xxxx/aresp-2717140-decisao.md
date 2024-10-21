@@ -1,0 +1,28 @@
+DECISÃO
+Na origem, trata-se de ação de obrigação de fazer c/c indenizatória em desfavor de ente estadual, objetivando a nomeação para cargo público decorrente de aprovação em concurso público com nomeação postergada por sucessivas contratações precárias. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 74.519,20 (setenta e quatro mil, quinhentos e dezenove reais e vinte centavos).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS - CONCURSO PÚBLICO - PROFESSORA DE ARTES - CANDIDATA APROVADA FORA DO NÚMERO DE VAGAS - EXPECTATIVA DE DIREITO - PRETERIÇÃO NÃO COMPROVADA - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+A pretensão recursal da Requerente está pautada na alegação de que, durante o prazo de validade do concurso, houve a contratação de professores temporários para ocupar vagas puras, de modo que teria surgido para aquela o direito subjetivo à nomeação, haja vista a preterição na convocação dos aprovados no certame.
+Destaca-se, contudo, que a Requerente foi aprovada fora do número de vagas, porquanto ocupou a posição 213ª no Concurso Público de Provas e Títulos - SAD/SED/2013, enquanto que o ce rtame, para o cargo de professor de artes, previu um total de 135 vagas.
+Ademais, não demonstrou que, durante o prazo de validade do concurso, além das nomeações dos primeiros colocados no concurso, a Administração Estadual tenha feito a contratação precária de professores temporários em número suficiente para atingir sua posição na ordem de classificação do certame.
+Como a Requerente foi aprovada fora do número de vagas previstas e não comprovou a preterição na convocação, há mera expectativa de direito que não se convola em direito subjetivo à nomeação.
+Recurso conhecido e desprovido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Competia à Requerente/Apelante demonstrar os fatos constitutivos do seu direito, o que não ocorreu na espécie.
+Isso porque não houve controvérsia sobre o fato de que a Requerente/Apelante se classificou na posição 213ª no Concurso Público de Provas e Títulos - SAD/SED/2013 (fl. 71), para o cargo de professor de Artes, tendo previsão inicial de 20 (vinte) vagas (fl. 59), posteriormente ampliada para 135.
+Observa-se, ainda, que na via administrativa houve a nomeação de candidatos até a posição nº 148 (fl. 75 e 388), sendo imposta, mediante decisão judicial, a convocação da candidata na ordem 196ª da classificação, conforme publicado no DOE nº 9.656, de 16 de maio de 2018.
+Importa destacar que o concurso no qual a Requerente/Apelante se inscreveu teve o prazo de validade prorrogado até 05.07.2017 (fl. 73 - DOE 8.954, de 03.07.2015) e o último ato de nomeação ocorreu em 03.07.2017, nos termos do Decreto "P" nº 3.312, publicado no DOE nº 9.445, juntado à fl. 75.
+Dito isso, tenho que não está demonstrada a preterição da Requerente/Apelante, tampouco o surgimento de cargos vagos de modo a atingir sua classificação no certame.
+ ..
+Ou seja, o fato de ter havido contratações temporárias durante o prazo de validade do concurso não enseja o reconhecimento, por si só, da preterição do direito da Requerente/Apelante, notadamente porque o número de professores convocados não atingiu sua posição na classificação do certame.
+ ..
+Destarte, ainda que tenha havido a contratação de professores temporários para ocupar vagas puras, essas convocações se encerram antes do prazo final do concurso e não há elementos suficientes para apontar que não tenham sido preenchidas pelos 148 primeiros candidatos convocados.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
