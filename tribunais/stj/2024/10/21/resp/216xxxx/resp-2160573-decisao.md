@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se recurso especial interposto por P M P, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 09/02/2024.
+Concluso ao gabinete em: 04/10/2024.
+Ação: de obrigação de fazer cumulada com compensação por danos morais, ajuizada pelo recorrente, em face de AMEPLAN ASSISTENCIA MEDICA PLANEJADA LTDA, na qual requer o custeio de tratamento multidisciplinar a menor diagnosticado com transtorno do espectro autista.
+Sentença: julgou parcialmente procedente o pedido para condenar a recorrida a custear os tratamentos multidisciplinares e a reembolsar os valores gastos com o tratamento de forma particular. Julgou improcedente o pedido de compensação por danos morais.
+Acórdão: negou provimento às apelações interpostas por ambas as partes, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. Plano de saúde. Ação de obrigação de fazer cumulada com pedido de indenização por danos morais. Sentença de parcial procedência. Autor portador de transtorno do espectro autista (TEA). Recurso do autor e da ré. Oposição ao julgamento virtual não motivada. Incidência da Resolução nº 903/2023 determinando a motivação da oposição. Desacolhimento. Método ABA. Tratamento multidisciplinar. Escolha do tratamento é do médico assistente. Inteligência da Súmula nº 102 deste E. TJSP. Vigência da Lei nº 14.454/22 que alterou a Lei nº 9.656/98. Rol da ANS é exemplificativo. Precedentes desta E. Corte. De rigor a cobertura de todas as especialidades prescritas. Indicação de clínica distante da residência do autor. Não comprovada a existência de clínica credenciada apta ao tratamento da autora e nas proximidades de sua residência, caberá à requerida o reembolso integral do tratamento, tendo em vista que a busca por profissionais não credenciados não decorre da livre escolha do paciente, mas da falta de prestador qualificado na rede credenciada. Danos morais não configurados. Majoração dos honorários de sucumbência. Recursos do autor e do réu desprovidos.
+Embargos de Declaração: opostos pelos recorrentes, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.022, II, do CPC, 186 do CC, e 6º, VI, do CDC. Além da negativa de prestação jurisdicional, sustenta que o menor ficou impossibilitado de continuar o tratamento, causando-lhe sofrimento. Afirma que se trata de dano moral in re ipsa.
+Parecer do MPF: da lavra do I. Subprocurador-Geral ANTONIO CARLOS ALPINO BIGONHA, opina não conhecimento do recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da não caraterização do dano moral na hipótese, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da Súmula 568/STJ
+As duas Turmas de Direito Privado do STJ entendem que a negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Nesse sentido: AgInt no REsp 1731656/RS, 4ª Turma, DJe de 29/04/2019; e REsp 1662103/SP, 3ª Turma, DJe 13/12/2018.
+Na hipótese, as instâncias ordinárias foram uníssonas ao afastar a condenação em danos morais no litígio, as quais consignaram que:
+Quanto ao pedido de danos morais, entendo que realmente não há fundamento para condenar a ré ao pagamento de indenização, também pelo fato da temática ser bastante controvertida nesta Corte. Além disso, os elementos probatórios não permitem concluir pela negativa de cobertura do tratamento, mas apenas uma reestruturação na qual o tratamento do autor seria deslocado para a rede própria, deixando de ser prestado em rede credenciada, o que não é suficiente para caracterizar dano indenizável. Não se pode olvidar que o dano extrapatrimonial, para ser indenizável, deve extravasar o campo de meros percalços e pequenas ofensas, atingindo intensamente os atributos da personalidade, o que não se verifica neste caso. (e-STJ, fls. 444/445)
+DANO MORAL. Não caracterizado. A ré não negou o tratamento (fls. 68/69), apenas não possui clínica credenciada próxima à residência da autora. A obrigação estabelecida judicialmente, de atendimento em clínica não conveniada, em razão da distância, não é suficiente para a caracterização do dano moral alegado. (e-STJ, fls. 256)
+Dessa forma, o acórdão recorrido encontra-se em consonância com o entendimento dominante sobre o tema nesta Corte. Aplica-se, portanto, a Súmula 568/STJ no particular.
+Ademais, frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que incursão nesta seara implicaria ofensa ao referido óbice da Súmula 7 do STJ.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, § 11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer cumulada com compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+4. Recurso especial conhecido e não provido.
