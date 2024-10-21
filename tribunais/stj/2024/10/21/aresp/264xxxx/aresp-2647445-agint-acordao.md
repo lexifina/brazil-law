@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  BENEFÍCIO. JUSTIÇA  GRATUITA.  REVOGAÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. NORMA CONSTITUCIONAL. VIOLAÇÃO ALEGADA. INVIABILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+1. Na  hipótese,  rever  o  entendimento  do  tribunal  local,  que  concluiu  ser inverossímil a alegação de insuficiência financeira,  atrai  a  incidência  da  Súmula  nº  7/STJ.
+2. Compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais, pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por DORO FERREIRA contra a decisão da Presidência do Superior Tribunal de Justiça (e-STJ fls. 296/299) que conheceu do agravo para não conhecer do recurso especial devido à deficiência da fundamentação recursal e à incidência da Súmula nº 7/STJ.
+Em suas razões (e-STJ fls. 303/316), a parte agravante alega que o recurso é claro ao expor a sua irresignação com a supressão do benefício de gratuidade da justiça, permitindo a exata compreensão da controvérsia.
+Aduz que a Lei nº 1.060/1950 não foi revogada e que o seu art. 7º "se coaduna com o art. 100 do CPC" (e-STJ fl. 312).
+Defende, ainda, a inaplicabilidade da Súmula nº 7/STJ ao caso em apreço.
+Sem impugnação (e-STJ fls. 326/327).
+É o relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  BENEFÍCIO. JUSTIÇA  GRATUITA.  REVOGAÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. NORMA CONSTITUCIONAL. VIOLAÇÃO ALEGADA. INVIABILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+1. Na  hipótese,  rever  o  entendimento  do  tribunal  local,  que  concluiu  ser inverossímil a alegação de insuficiência financeira,  atrai  a  incidência  da  Súmula  nº  7/STJ.
+2. Compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais, pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+3.  Agravo  interno  não  provido.
+VOTO
+A insurgência não merece prosperar.
+De início, tal como consignado pela decisão atacada, o art. 7º da Lei nº 1.060/1950 foi revogado pela Lei nº 13.105/2015, sendo inadmissível, assim, qualquer discussão baseada no seu conteúdo.
+No que concerne à tese de que indevida a revogação do benefício da gratuidade da justiça, o Tribunal de origem, à luz da prova dos autos, concluiu ser inverossímil a alegação do recorrente no sentido d e que não possui condições financeiras de arcar com as custas e despesas processuais. É o que se extrai do seguinte trecho:
+"No caso vertente, o autor, ora agravante, não comprovou que no momento não tem condições de arcar com os encargos financeiros do processo.
+Da análise do acervo probatório, há indícios de que o autor omite informações a respeito de seu patrimônio. Nota-se que juntou apenas conta poupança, com saldo positivo de R$ 9.071,88 (fls. 215/220 dos autos de origem) e em pesquisa no site da Receita Federal consta na base de dados a declaração de imposto de renda dos anos de 2022 e 2023. Em outras palavras, não apresentou extratos de cartão de crédito, conta corrente, tampouco a declaração de imposto de renda.
+Além de residir em condomínio de alto padrão, o autor afirmou que o valor bruto no montante de R$ 4.038.160,52 foi resgatado de sua aplicação (VGBL).
+Como constou na contraminuta, "durante o período em que atuou como sócio da empresa, além dos desvios que se perpetuavam, o Sr. Doro efetuou doação "à brasileira" de um imóvel de alto padrão a sua filha, Sra. Adriana Ferreira, apartamento duplex este que ultrapassa o valor de R$ 1.500.000,00 (um milhão e quinhentos mil reais), conforme constatado na certidão emitida pelo Segundo Cartório de Registro de Imóveis de São Caetano do Sul, Matrícula 35.450" (fls. 39)" (e-STJ fls. 187/188).
+Nesse contexto, o acolhimento da pretensão recursal em relação à alegada violação do art. 98 do CPC demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+A propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DECISÃO  DE  LAVRA  DA  PRESIDÊNCIA.  MANUTENÇÃO  DA  DECISÃO.  SÚMULA  182  DO  STJ.  NÃO  IMPUGNAÇÃO  QUANTO  À  INCIDÊNCIA  DA  SÚMULA  7  DO  STJ.  DIREITO  PROCESSUAL  CIVIL.  JUSTIÇA  GRATUITA.  ART.  98  DO  CPC.  REVOGAÇÃO  DO  BENEFÍCIO  NA  ORIGEM.  RECEBIMENTO  DE  INDENIZAÇÃO  DE  ALTO  VALOR.  PRESUNÇÃO  RELATIVA  ILIDIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Na  origem,  trata-se  de  agravo  de  instrumento  interposto  em  face  de  decisão  que  revogou  o  benefício  da  justiça  gratuita,  em  razão  de  recebimento  de  indenização  de  alto  valor.
+2.  O  benefício  da  assistência  judiciária  gratuita  pode  ser  pleiteado  a  qualquer  tempo,  sendo  suficiente  que  a  pessoa  física  declare  não  ter  condições  de  arcar  com  as  despesas  processuais.  Entretanto,  tal  presunção  é  relativa  (art.  99,  §  3º,  do  CPC/2015),  podendo  a  parte  contrária  demonstrar  a  inexistência  do  alegado  estado  de  hipossuficiência  ou  o  julgador  indeferir  o  pedido  se  encontrar  elementos  que  coloquem  em  dúvida  a  condição  financeira  do  peticionário.  Precedentes.
+3.  Na  espécie  sob  análise,  as  instâncias  ordinárias,  examinando  a  situação  patrimonial  e  financeira  da  agravante  -  após  apresentação  de  documentos  por  parte  da  agravada  que  demonstravam  o  ganho  de  indenização  de  alto  montante  -,  concluíram  haver  elementos  suficientes  para  afastar  a  declaração  de  hipossuficiência.
+4.  A  pretensão  de  reforma  da  decisão  agravada,  acerca  da  situação  de  hipossuficiência  financeira  da  parte,  imprescindível  à  concessão  da  gratuidade  da  justiça,  demandaria  necessariamente  o  reexame  da  matéria  fático-probatória  dos  autos,  atraindo,  assim,  o  óbice  da  Súmula  7  do  STJ.
+5.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  nº  2.180.436/SP,  Relatora  Ministra  MARIA  ISABEL  GALLOTTI,  Quarta  Turma,  julgado  em  22/5/2023,  DJe  de  25/5/2023  -  grifou-se).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CIVIL.  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER  C/C  INDENIZATÓRIA  POR  DANOS  MORAIS.  PLANO  DE  SAÚDE.  VALOR  DOS  DANOS  MORAIS.  REEXAME.  SÚMULA  7/STJ.  DISSÍDIO  JURISPRUDENCIAL  PREJUDICADO.  MANUTENÇÃO  DA  DECISÃO  DA  PRESIDÊNCIA.  AGRAVO  INTERNO  DESPROVIDO.
+1.  É  inviável  a  apreciação  de  ofensa  a  eventual  violação  de  dispositivos  e  princípios  constitucionais,  sob  pena  de  usurpação  da  competência  atribuída  ao  Supremo  Tribunal  Federal,  nos  termos  do  art.  102  da  Constituição  Federal.
+2.  A  jurisprudência  desta  Corte  Superior  tem  firmado  entendimento  no  sentido  de  que  o  valor  estabelecido  pelas  instâncias  ordinárias  a  título  de  dano  moral  somente  deve  ser  revisto  nas  hipóteses  em  que  a  condenação  se  revelar  irrisória  ou  excessiva,  em  desacordo  com  os  princípios  da  razoabilidade  e  da  proporcionalidade.
+3.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  possui  a  orientação  de  que  reverter  a  conclusão  do  Tribunal  local  para  acolher  a  pretensão  recursal  (quanto  ao  preenchimento  dos  requisitos  para  a  concessão  da  justiça  gratuita)  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  medida  defesa  ante  a  natureza  excepcional  da  via  eleita,  conforme  enunciado  da  Súmula  n.  7  do  Superior  Tribunal  de  Justiça.
+4.  A  incidência  da  Súmula  n.  7/STJ  impede  o  conhecimento  do  recurso  lastreado,  também,  pela  alínea  c  do  permissivo  constitucional,  dado  que  falta  identidade  entre  os  paradigmas  apresentados  e  os  fundamentos  do  acórdão  recorrido,  tendo  em  vista  a  situação  fática  de  cada  caso.
+5.  Agravo  interno  desprovido"  (AgInt  no  AREsp  nº  1.915.013/MS,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  21/2/2022,  DJe  de  23/2/2022  -  grifou-se).
+Por fim, quanto ao art. 5º, LXXIV, da Constituição Federal, observe-se que compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais, pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
