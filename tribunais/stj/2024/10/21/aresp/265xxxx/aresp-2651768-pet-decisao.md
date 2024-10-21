@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JADE FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional, no qual se discute a violação aos artigos 489, § 1º, IV, 1.015, 1.022, II, CPC.
+Pelas razões expostas no recurso especial, tratam os autos de ação de execução de título extrajudicial, ajuizada por JADE FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS, em face de POSTO TABOCÃO VI LTDA. - EM RECUPERAÇÃO JUDICIAL, EDISON JOSÉ DUTRA, THIAGO DE PÁDUA DUTRA, RAFAEL DOS SANTOS PERUZZO, TABOCÃO HOLDING LTDA. e DUTZZO PARTICIPAÇÕES LTDA.
+Por intermédio da Petição nº 00488186/2024, as partes requereram a suspensão do processo, com supedâneo no art. 313, II, CPC.
+Considerando que a referida petição havia sido protocolizada em 12/06/2024, determinei a manifestação das partes, no prazo de 05 (cinco) dias, para que se manifestassem a respeito do integral cumprimento das obrigações assumidas na transação, bem como determinei que fossem observadas as constituições dos causídicos às fls. 247/252 e 255/256 (e-STJ).
+No presente momento, retornam os autos com manifestação, petição nº 00907776/2024, somente de JADE FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS, requerendo seja declarada a perda de objeto do presente recurso, diante da extinção dos autos originários, conforme documento apresentado às fls. 271 (e-STJ), e por força da transação noticiada às fls. 246/252 (e-STJ).
+Nesse sentido, ressalto que POSTO TABOCÃO VI LTDA. - EM RECUPERAÇÃO JUDICIAL, EDISON JOSÉ DUTRA, THIAGO DE PÁDUA DUTRA, RAFAEL DOS SANTOS PERUZZO, TABOCÃO HOLDING LTDA. e DUTZZO PARTICIPAÇÕES LTDA. deixaram o prazo transcorrer sem a devida manifestação, conforme Certidão de fls. 273 (e-STJ).
+Assim, considerando as razões expostas na petição nº 00907776/2024, HOMOLOGO A DESISTÊNCIA REQUERIDA, JULGO EXTINTO O PROCESSO E DETERMINO A IMEDIATA BAIXA DOS AUTOS À ORIGEM.
+Publique-se. Intimem-se.
+EMENTA
