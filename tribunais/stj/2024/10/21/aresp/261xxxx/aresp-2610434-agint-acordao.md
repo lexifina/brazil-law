@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.  NECESSIDADE DE COMBATE A TODOS OS FUNDAMENTOS DO CAPÍTULO IMPUGNADO. EXIGÊNCIA CONTIDA NO ART. 1.021, § 1º, DO CPC. SÚMULA 182/STJ.
+1. De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os fundamentos do decisório combatido, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+2. A Corte Especial, ao julgar os EREsp 1.424.404/SP (rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os fundamentos empregados no capítulo por ela impugnado, sob pena de incidência do óbice previsto na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+3. Caso em que a parte insurgente não se desincumbiu desse encargo.
+4. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Ervateira Marsango Ltda. desafiando decisão que negou provimento ao agravo em recurso especial, com base nos seguintes fundamentos: (I) incide a Súmula 284/STF, por deficiência na fundamentação do especial apelo, tendo em vista que não foi indicado o dispositivo legal que ampararia a tese da ausência de notificação para os atos do processo administrativo; (II) incide a Súmula 7/STJ, uma vez que o Tribunal de origem dirimiu a controvérsia com base no acervo fático-probatório dos autos; (III) o reconhecimento de eventual prejuízo à defesa, em virtude da ausência de individualização da multa para cada auto de infração, é matéria que demandaria nova análise dos elementos que instruem o caderno processual, atraindo o óbice da Súmula 7/STJ; e (IV) aplica-se a Súmula 282/STF, por ausência de prequestionamento da tese relacionada ao conflito normativo entre o Decreto-Lei n. 1.025/1969 e o CPC.
+Inconformada, a parte agravante sustenta que: (I) deve ser afastada a Súmula 284/STF, pois a "citação (do artigo específico) não é imprescindível se seu conteúdo jurídico é abordado nas razões, como ocorrido no caso concreto" (fl. 248); (II) não incide a Súmula 282/STF, porque "toda temática abordada no Especial teve debate prévio no julgamento, apenas não tendo sido acolhida a tese" (fl. 248); (III) a Súmula 7/STJ é inaplicável ao caso, porquanto não há "tentativa, em nenhum parágrafo sequer do recurso Especial, da alteração do suporte fático consolidado" (fl. 248).
+Requer, ao final, a reconsideração do decisório alvejado ou a submissão do feito ao julgamento colegiado.
+Transcorreu, in albis, o prazo para impugnação, conforme certidão de fl. 257.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.  NECESSIDADE DE COMBATE A TODOS OS FUNDAMENTOS DO CAPÍTULO IMPUGNADO. EXIGÊNCIA CONTIDA NO ART. 1.021, § 1º, DO CPC. SÚMULA 182/STJ.
+1. De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os fundamentos do decisório combatido, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+2. A Corte Especial, ao julgar os EREsp 1.424.404/SP (rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os fundamentos empregados no capítulo por ela impugnado, sob pena de incidência do óbice previsto na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+3. Caso em que a parte insurgente não se desincumbiu desse encargo.
+4. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não comporta conhecimento.
+De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os fundamentos da decisão combatida, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+De outro giro, a Corte Especial, ao julgar os EREsp 1.424.404/SP (rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os fundamentos empregados no capítulo por ela impugnado, sob pena de incidência do óbice previsto na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Na espécie, conforme destacado no relatório acima, o decisum agravado não conheceu do especial apelo, com espeque nos seguintes pilares: (I) incide a Súmula 284/STF, por deficiência na fundamentação do especial apelo, tendo em vista que não foi indicado o dispositivo legal que ampararia a tese da ausência de notificação para os atos do processo administrativo; (II) incide a Súmula 7/STJ, já que o Tribunal de origem dirimiu a controvérsia com base no acervo fático-probatório dos autos; (III) o reconhecimento de eventual prejuízo à defesa, em virtude da ausência de individualização da multa para cada atuo de infração, é matéria que demandaria o revolvimento do acervo fático-probatório, atraindo o óbice da Súmula 7/STJ; e (IV) aplica-se a Súmula 282/STF, por ausência de prequestionamento da tese relacionada ao conflito normativo entre o Decreto-Lei n. 1.025/69 e o CPC.
+Já nas razões do agravo interno agora examinado (fls. 246/250), cinge-se a parte recorrente a defender, de forma genérica, o afastamento dos óbices aplicados.
+Com efeito, ao defender que não incide a Súmula 284/STF, caberia indicar em que trecho da petição do apelo especial foi indicado o dispositivo de lei alegadamente violado.
+Do mesmo modo, não é suficiente para afastar a Súmula 282/STF a mera alegação de que "toda temática abordada no Especial teve debate prévio no julgamento" (fl. 248), se não há indicação do trecho do acórdão recorrido em que teria sido debatida a matéria relacionada ao conflito entre o Decreto-Lei n. 1.025/69 e o CPC.
+Por fim, apesar de afirmar, genericamente, que a Súmula 7/STJ não incide na espécie, a parte insurgente não declinou os motivos pelos quais, no seu entender, o aludido obstáculo não seria aplicável ao caso concreto, limitando-se, então, a repetir a argumentação sem qualquer detalhamento das peculiaridades que, eventualmente, autorizariam o conhecimento do apelo nobre.
+Assim, deixou de rebater, de modo específico, o alicerce adotado pela decisão agravada, o que também atrai, mais uma vez, a incidência da Súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. CLÁUSULA DE EXCLUSÃO. DESTAQUE. AUSÊNCIA. REEXAME. SÚMULAS N. 5 E 7/STJ. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.861.630/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 22/3/2022 )
+ANTE O EXPOSTO, não se conhece do agravo interno.
+É o voto.
