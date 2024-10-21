@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EDUARDO RAYAN DE SOUZA AZEVEDO, contra decisão de inadmissibilidade do recurso especial fundamentado na alínea "a" do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, assim ementado (e-STJ fl. 469):
+APELAÇÃO CRIMINAL DO MINISTÉRIO PÚBLICO. SENTENÇA ABSOLUTÓRIA. ARTIGOS 33 E 35 DA LEI 11.343/2006. CONDENAÇÃO. PROCEDÊNCIA PARCIAL. AUTORIA E MATERIALIDADE DELITIVAS DEVIDAMENTE COMPROVADAS QUANTO AO TRÁFICO. INEXISTÊNCIA DE ELEMENTO PROBATÓRIO QUE RELEVE O CUNHO ASSOCIATIVO, PERMANENTE E ESTÁVEL. CONHECIMENTO E PROVIMENTO, EM PARTE, DO RECURSO. VOTAÇÃO UNÂNIME.
+O Juízo da Vara Criminal da Comarca de Santa Izabel absolveu o agravante, das imputações dos crimes dos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006 (e-STJ fls. 345-352).
+O Tribunal de origem deu parcial provimento ao recurso de apelação do Ministério Público do Estado do Pará para condenar o agravante à pena de 05 (cinco) anos de reclusão, em regime inicial semiaberto e ao pagamento de 500 (quinhentos) dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 469-489).
+Opostos embargos de declaração, esses foram rejeitados, no entanto sendo reconhecida de ofício a prescrição da pretensão punitiva da ação contra o corréu (e-STJ fls. 521-530).
+Nas razões do recurso especial a parte alega violação aos arts. 155 e 386, VII do Código de Processo Penal, ao argumento de que a condenação baseou-se apenas nos depoimentos dos policiais, razão pela qual deve ser absolvido por insuficiência probatória.
+Pugna pelo provimento do apelo nobre para que seja absolvido (e-STJ fls. 492-498).
+Contrarrazões apresentadas às (e-STJ fls. 536-541).
+O Tribunal a quo inadmitiu o apelo especial ao fundamento da incidência do óbice da Súmula n. 7 do STJ (e-STJ fls. 542-546), fundamento contra o qual se insurge a parte agravante (e-STJ fls. 548-553).
+Parecer do Ministério Público Federal pelo não provimento do agravo (e-STJ fls. 578-581).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+No tocante à pretensão absolutória, o Tribunal estadual consignou (e-STJ fls. 471-473):
+Os fundamentos principais da sentença absolutória consistem na não comprovação da materialidade do delito de tráfico de drogas, uma vez ausente laudo toxicológico definitivo, e na inexistência de qualquer prova de associação dos ora apelados para tanto.
+Quanto ao primeiro ponto, conquanto à imprescindibilidade do aludido exame técnico no convencimento condenatório do juiz, a jurisprudência superior entende que laudo provisório pode lhe fazer as vezes, se, somente se, elaborado por perito oficial e com grau de certeza igual ao daquele.
+(..)
+Ao Num. 5066667 - Pág. 22, consta laudo de "Perícia de Análise de Droga de Abuso - Provisório", assinado pela Perita Oficial Celcina Caxias Aguiar (CRF-PA 1321), do Centro de Perícias Científicas Renato Chaves, com as seguintes descrições:
+(..)
+Não obstante a ressalva em torno de análise posterior mais detalhada, o resultado expresso desde já se mostrou certo, imune de dúvidas.
+Logo, a materialidade do crime de tráfico de drogas restou, satisfatoriamente, comprovada.
+O mesmo pode ser dito quanto à autoria do delito, haja vista o depoimento dos policiais militares que, dotados de fé pública, de modo seguro e coerente, descreveram como se deu o flagrante dos apelados portando droga ilícita. Em resumo:
+ Márcio Teles de Souza: Encontravam-se em ronda; quando os dois avistaram a viatura, Ronildo jogou um saco plástico; feita a abordagem, no bolso de Eduardo, encontraram 03 papelotes de maconha e R$98,00; quando verificado no plástico jogado por Ronildo, encontraram mais, salvo engano, 13 papelotes da mesma substância; confessaram que estavam vendendo cada papelote por R$10,00; não os conhecia de situações anteriores.
+  Gustavo Jeans Gomes e Silva: Estava em outra viatura e lhe foi repassada, por rádio, a ocorrência; quando chegou, já havia sido feita a abordagem, a apreensão da droga e do celular; chegou, somente, para dar apoio, pois aglomerou muita gente. Chegou a ver, na mesa do delegado, droga, celular e uma quantia de dinheiro. Não os conhecia de outra situação - é recente no batalhão.
+  Jonilson das Chagas Silva: Receberam denúncia de que havia dois elementos assaltando romeiros na Br e que tinham se deslocado para um bar atrás do quartel; visualizaram os dois; o Cabo de Souza visualizou um jogando o material e o que vinha com ele; abordaram; com um tinha uma quantidade de droga; o Cabo de Souza encontrou o material que verificaram que era droga; Ronildo jogou e ou outro estava com os restante no bolso; Eduardo estava com dinheiro; confessaram que estavam traficando, não os conhecia de outra situação; o total foram 15 (3 com um e o restante com outro).
+Assim sendo, suficientes são as provas para a condenação dos apelados pelo crime disposto no artigo 33 da Lei 11.343/2006.
+Da leitura do excerto transcrito infere-se incidir o óbice da Súmula n. 7/STJ quanto à aspiração absolutória. Tal asserção deve-se à máxima de que, a revisão das premissas assentadas perante as instâncias ordinárias - acerca da constatada autoria do crime de tráfico de drogas - demandaria reexame do acervo fático-probatório, procedimento que encontra óbice na Súmula n. 7/STJ.
+Em casos análogos:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. NULIDADE. ART. 564 DO CPP. CERCEAMENTO DE DEFESA. AUSÊNCIA DE PREJUÍZO. INOVAÇÃO NA FUNDAMENTAÇÃO. ACESSO À REDE SOCIAL DO RÉU. ABSOLVIÇÃO. AUSÊNCIA DE PROVA DA MATERIALIDADE. LAUDO TOXICOLÓGICO ASSINADO POR PERITO OFICIAL. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+1. No âmbito do agravo regimental a parte deve refutar os fundamentos da decisão monocrática impugnada, não lhe sendo permitido inovar na arguição, suprindo falhas anteriores, como a indicação de outros elementos coletados após a interposição do recurso especial.
+2. Não há falar em cerceamento de defesa, pois a instância anterior delineou que as diligências combatidas não influíram na ação penal em comento e que a condenação foi fundamentada apenas nas provas produzidas neste processo.
+3. Assim, "não sendo evidenciada nenhuma irregularidade na obtenção das provas que conduziram à condenação dos recorrentes, inviável na via eleita o reexame do caderno probatório, ante o óbice constante da Súmula 7/STJ." (STJ, REsp n.1.805.173/MT, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/10/2022,DJe de 14/10/2022).
+4. Conforme o entendimento desta Corte Superior de Justiça, o reconhecimento de nulidade no curso do processo penal, seja absoluta ou relativa, reclama a efetiva demonstração de prejuízo à parte, sem a qual prevalecerá o princípio da instrumentalidade das formas positivado pelo art. 563 do CPP (pas de nullité sans grief). No presente caso, a Defesa não logrou demonstrar prejuízo passível de ensejar as nulidades suscitadas, pois a condenação ficou lastreada apenas nas provas carreadas aos autos.
+5. A jurisprudência deste STJ entende que a falta do laudo toxicológico definitivo pode ser suprida quando existir nos autos laudo preliminar, elaborado por perito criminal, que aponte com certeza a quantidade e natureza da substância apreendida.
+6. Devidamente demonstrada a materialidade delitiva, a alteração deste entendimento para absolver o agravante demandaria o revolvimento fático-probatório, providência inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+7. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.354.888/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/10/2023, DJe de 6/10/2023, grifamos)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. TESE DE NULIDADE DA INVASÃO DOMICILIAR. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. PLEITO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. ALEGAÇÃO DE INSUFICIÊNCIA DE PROVAS. REVISÃO DA CONCLUSÃO ADOTADA PELO TRIBUNAL DE ORIGEM. NECESSIDADE DE APROFUNDADO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE NA VIA DO RECURSO ESPECIAL. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O Tribunal local entendeu estarem devidamente comprovadas tanto a autoria quanto a materialidade do delito de tráfico de drogas imputado ao agravante, ante o conjunto fático-probatório acostado aos autos, em observância aos princípios do devido processo legal substancial, do contraditório e da ampla defesa.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova" (AgRg no HC n. 672.359/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/6/2021, DJe 28/6/2021)".
+4. Diante da fundamentação concreta e suficiente utilizada pela Corte local para amparar a condenação, a análise do pleito de absolvição ou desclassificação da conduta exigiria a desconstituição da interpretação dada ao caso pelas instâncias originárias, soberanas na análise dos fatos e provas, providência vedada na via estreita do recurso especial, que não admite o reexame do conjunto fático-probatório constante dos autos, segundo estabelece a Súmula n. 7/STJ.
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 2.123.639/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024, grifamos)
+Por outro lado, a alegação de fragilidade probatória não ficou evidenciada.
+Com efeito,
+Esta Corte reconhece a validade dos depoimentos policiais em geral, tendo em vista ser pacífico na jurisprudência que suas palavras merecem a credibilidade e a fé pública inerentes ao depoimento de qualquer funcionário estatal no exercício de suas funções, caso ausentes indícios de que houvesse motivos pessoais para a incriminação injustificada da parte investigada. (AgRg no HC n. 737.535/RJ, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/3/2024, DJe de 8/3/2024)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+ EMENTA
