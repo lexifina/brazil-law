@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo interposto por MEUCASHCARD SERVIÇOS TECNOLÓGICOS E FINANCEIROS S.A. contra decisão que inadmitiu recurso especial (e-STJ, fls. 366-368) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 214):
+Ação de cobrança. Contrato de prestação de serviços de venda de produtos financeiros que previa o pagamento de duas remunerações: a prestação fixa e a variável de acordo com as vendas do mês. Autora que alega o inadimplemento da prestação fixa relativa ao mês de novembro de 2022. Pagamento da prestação variável no mesmo mês pela Ré que confirma a prestação do serviço. Recurso parcialmente provido apenas para alterar o critério de fixação da verba sucumbencial, por ter a Autora sucumbido no pedido de indenização por lucros cessantes.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 227):
+Embargos de Declaração. Inocorrência de contradição, obscuridade ou omissão no acórdão recorrido. Embargos rejeitados.
+Nas razões do recurso especial, a recorrente alegou, com base na alínea a do permissivo constitucional, violação aos arts. 1.022 do CPC/2015; e 422, 476, 477, 478, 479 e 480 do CC/2002.
+Apontou omissão no julgado recorrido.
+Sustentou a ilegalidade das cobranças, uma vez que a obrigação é inexigível.
+Frisou que "a matéria que originou a imposição de multa diária, ainda não transitou em julgado e que pode ser alterada a qualquer momento, dada a sua natureza" (e-STJ, fl. 251).
+Destacou que "o débito relativo aos hipotéticos 26 (vinte e seis) dias do mês de novembro daquele ano INEXISTE, porque sequer existia contrato vigente entre as partes durante o período alegado pela parte Recorrida" (e-STJ, fl. 252).
+Asseverou que a parte recorrida não cumpriu com a obrigação assumida no contrato, o que atrai a aplicação do instituto da exceção do contrato não cumprido.
+Afirmou que "a conclusão lógica a que o v. acórdão deveria ter chegado é a de que na inexistência do cumprimento contratual da parte Recorrida, a parte Recorrente fica desobrigada a pagar pela Nota Fiscal cobrada nestes autos, com fundamento na exceção do contrato não cumprido, ainda mais quando há patente desequilíbrio financeiro no exercício contratual, o que levou à não renovação do contrato, por exemplo, de maneira que a r. decisão recorrida deverá ser reformada para que seja anulada e que o feito seja julgado improcedente" (e-STJ, fl. 261).
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 366-368).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 371-399).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No recurso especial, a primeira tese defendida pela recorrente refere-se à existência de omissão passível de justificar a afronta ao art. 1.022 do CPC/2015.
+Contudo, do exame das razões recursais, constata-se que a agravante apresentou argumentos genéricos acerca da ofensa ao dispositivo legal citado, sem especificar, inclusive, quais incisos embasam a tese defendida.
+Desse modo, verificada a deficiência na argumentação, aplica-se a Súmula 284/STF.
+A esse respeito:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284/STF. PRECLUSÃO. ERRO DE CÁLCULO. ACÓRDÃO EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE. SÚMULA N. 83/STJ. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ.
+1. Cuida-se de agravo de instrumento interposto contra decisão proferida nos autos de cumprimento de sentença, que acolheu parcialmente a impugnação do agravante ao laudo pericial judicial.
+2. Conforme a jurisprudência desta Corte, "incide ao caso o óbice da Súmula 284 do STF, uma vez que a parte recorrente aponta violação do art. 1.022 do CPC/2015, sem especificar, todavia, quais incisos teriam sido contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material" (AgInt no AREsp n. 1.766.826/RS, rel. Min. Manoel Erhardt - Desembargador convocado do TRF da 5ª Região, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021).
+3. O STJ possui o entendimento de que o erro material de cálculo é congnoscível a qualquer tempo pelo juiz, independentemente da ocorrência de coisa julgada. Incidência da Súmula n. 83/STJ.
+Precedentes.
+4. Quanto ao mais, as razões recursais têm óbice na Súmula n. 7/STJ, tendo em vista que as conclusões a que chegou o Tribunal de origem decorreram da análise de todo o acervo probatório dos autos.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.379.538/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. DANOS MORAIS. ACIDENTE DE TRÂNSITO. ANÁLISE DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. ART. 1.022 DO CPC. AUSÊNCIA DE ESPECIFICAÇÃO DOS INCISOS VIOLADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. NEXO CAUSAL. CULPA CONCORRENTE. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial não é via própria para o exame de suposta ofensa a matéria constitucional, nem mesmo para fins de prequestionamento.
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC de 2015 é genérica, limitando-se à indicação da existência de omissão, contradição, obscuridade e erro material, sem especificação dos incisos que foram violados.
+3. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+4. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.184.248/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+No que se refere-se à validade das cobranças, o Tribunal estadual assim se manifestou (e-STJ, fls. 215-217):
+As partes firmaram contrato de prestação de serviços pelo prazo determinado de 90 dias, que tinha por objeto a oferta no mercado de produtos financeiros, como o cartão de benefício consignado "Meucashcard" para servidores públicos, obrigando-se a Ré ao pagamento de remuneração fixa de R$ 6.000,00 por cada uma das 18 P. As - posição de atendimento, no total de R$ 108.000,00, mais prestação variável de acordo com a produtividade de venda, conforme quadro de remuneração de fls. 26/27.
+Em 15 de fevereiro de 2023, Bereshit Informações Cadastrais Ltda. ajuizou a presente ação de cobrança fundada no inadimplemento tendo por objeto o recebimento da remuneração fixa relativa aos 26 dias trabalhados do mês de novembro, no valor de R$ 93.600,00.
+A alegação de extinção da avença em 02 de novembro de 2022 não pode ser acolhida, eis que a própria Ré realizara o pagamento da remuneração variável de R$ 3.097,44 pelas vendas de novembro de 2022, no total de R$48.413,96, como declarado nas razões do recurso de apelação.
+Não há dúvida de que o contrato de prestação de serviços estabelecia remuneração dupla pela venda dos produtos financeiros da Ré: a parcela variável, regularmente paga no mês de novembro, e a fixa equivalente a R$6.000,00 por cada um dos postos de atendimento oferecidos pela Autora, nos termos da cláusula terceira (fls. 26/27).
+Ademais, também não convence a defesa da Requerida de que as vendas do mês de novembro de 2022 não teriam alcançado a produtividade mínima desejada. Primeiro porque a remuneração dos pontos de atendimento não estava vinculada à produtividade da Autora, ao contrário da remuneração variável que poderia variar de 1% a 5,20% sobre o total das vendas do mês, e segundo porque o contrato não tratava sobre a rentabilidade do negócio supostamente esperado pela Ré.
+Da citada passagem, depreende-se que o Tribunal local atestou a validade das cobranças, considerando os fatos e as provas acostadas aos autos, bem como as disposições contratuais.
+À vista disso, reverter a conclusão da instância originária demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciados das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF. AÇÃO DE COBRANÇA. VALIDADE. REEXAME. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
