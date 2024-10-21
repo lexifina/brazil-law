@@ -1,0 +1,49 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CINTIA DE SOUZA PACHECO, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/01/2024.
+Concluso ao gabinete em: 08/10/2024.
+Ação: regressiva de ressarcimento por danos materiais, ajuizada por HDI SEGUROS S.A., parte ora agravada, em face da ora agravante.
+Sentença: julgou procedentes os pedidos para "CONDENAR a requerida CINTIA DE SOUZA PACHECO, ao pagamento de R$11.947,91 (onze mil, novecentos e quarenta e sete reais e noventa e um centavos) a requerente a título de ressarcimento pelos danos causados ao veículo segurado, corrigido monetariamente a partir do ajuizamento da ação e acrescido de juros desde a data do pagamento do sinistro pela requerente (05/08/2013 - f. 25)" (e-STJ fl. 146).
+Acórdão: negou provimento à apelação interposta pela parte ora agravante, nos termos da seguinte ementa (e-STJ, fl. 205):
+"EMENTA: CIVIL E PROCESSUAL CIVIL -. APELAÇÃO CÍVEL -O RESSARCIMENTO DE DANOS - AÇÃO REGRESSIVA - SEGURADORA - BOLETIM DE OCORRÊNCIA - PRESUNÇÃO DE LEGITIMIDADE - PROCEDÊNCIA MANTIDA - RECURSO IMPROVIDO.
+1. Trata-se de ação regressiva para ressarcimento de danos, promovida por seguradora de veículo contra a suposta causadora do sinistro.
+2. No caso dos autos, a prova oral colhida mostrou-se controversa quanto à dinâmica do acidente e o boletim de ocorrência, lavrado pela autoridade policial que atendeu ao ocorrido, deixou evidente a responsabilidade da apelante pelo sinistro a qual, inclusive, tentou se evadir do local e se recusou a fazer o exame de alcoolemia.
+3. Conforme precedentes desta Corte e de outros Tribunais, o Boletim de Acidentes de Trânsito lavrado pela autoridade policial é dotado de fé pública e, . por força do princípio da presunção de legitimidade dos atos praticados pelos agentes da Administração Pública, goza de presunção de veracidade, a que pode, todavia, ser afastada mediante prova em contrário, hipótese não verificada no caso em comento.
+4. Recurso conhecido e improvido. Sentença mantida.
+5. Honorários de sucumbência majorados de 15% (quinze por cento) do valor da condenação para 20% (vinte por cento), em razão da improcedência do recurso. "
+Embargos de declaração: opostos pela parte ora agravante, foram rejeitados.
+Recurso especial: alega, além da existência de dissídio jurisprudencial, violação dos arts. 370 e 373, I, do CPC, sustentando, em síntese, que: (i) não teria sido determinada a produção das provas necessárias à resolução da questão em debate nos autos; (ii) a parte ora agravada não teria comprovado os fatos constitutivos do seu direito; (iii) "por se tratar de uma declaração unilateral da parte, o boletim de ocorrência jamais pode ser utilizado exclusivamente para se aferir a culpa por determinado dano, tornando imprescindível a produção de outras provas e a análise de outros fatos atinentes ao caso concreto" (e-STJ fl. 284); (iv) caso seja mantido o posicionamento da Corte de origem, que "seja estabelecida a atualização do valor pela SELIC, tendo como marco inicial a citação, conforme consolidada jurisprudência deste E. STJ" (e-STJ fl. 289).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que, quanto à tese de que deveria ser "estabelecida a atualização do valor pela SELIC, tendo como marco inicial a citação", a parte agravante não alega violação de qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF. Nesse sentido: AgInt no AREsp 2.158.801/RJ, 4ª Turma, DJe 6/11/2023; e AgInt no REsp n. 1.974.581/RS, 3ª Turma, DJe 17/8/2022.
+É imprescindível que no recurso especial sejam apontadas com precisão as violações aos dispositivos legais indicados como infringidos. A parte interessada deve evidenciar de forma clara e objetiva os dispositivos supostamente violados, além de apresentar as razões que justifiquem a alegada violação.
+Adicionalmente, é essencial que se descreva detalhadamente como o dispositivo legal foi infringido, pois isso possibilitará ao STJ analisar a questão em conjunto com os elementos constantes nos autos. No entanto, na presente hipótese, essa correlação entre a violação apontada e os fatos do processo não foi devidamente estabelecida, o que faz incidir a Súmula 284 do STF. Nesse sentido: AgInt no AREsp 1.947.682/SP, 3ª Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, 4ª Turma, DJe 15/6/2023.
+- Do cerceamento de defesa
+De acordo com a jurisprudência do STJ, o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa. Nesse sentido: AgInt no REsp 1.429.272/MA, 4ª Turma, DJe de 20/8/2018; e AgInt no AREsp 1.015.060/RS, 3ª Turma, DJe de 12/5/2017.
+Ademais, alterar o decidido no acórdão recorrido, acerca da ausência de cerceamento de defesa, por ter sido indeferida a realização de alguma prova, demandaria o reexame de fatos e provas, o que não é permitido ante o óbice da Súmula 7 desta Corte. Na mesma linha: AgInt no AREsp 1634989/PR, 3ª Turma, DJe 28/05/2020; AgInt no AREsp 1632773/SP, 4ª Turma, DJe 05/06/2020.
+- Do reexame de fatos e provas
+O TJ/ES ao analisar o recurso interposto pela parte agravante, concluiu o seguinte (e-STJ fls. 213/215):
+(..) "após minuciosa analise das provas apresentadas, chego à conclusão de que deve ser julgado improcedente o recurso, mantendo-se a sentença proferida.
+No caso dos autos, a prova oral colhida, oitiva de duas testemunhas (fl. 70 e 89), é controversa quanto à dinâmica do acidente e, no Boletim Unificado nº 17851166, lavrado pela autoridade policial que atendeu a ocorrência, se pode colher:
+(..)
+Assim, considerando a divergência entre os depoimentos colhidos sobre a dinâmica do acidente, e as informações prestadas pela autoridade policial que atendeu a ocorrência, não vejo razão para modificar a sentença de piso.
+Além de constar de forma expressa no documento de fls. 16/19 que a apelante foi a causadora do acidente, corroborando com o depoimento de fl. 89, também consta no mesmo que, por ocasião do ocorrido, esta se encontrava embriagada, tanto que se evadiu do local e se recusou a realizar o teste etílico, situações que também corroboram a culpabilidade apurada.
+Conforme entendimento jurisprudencial as declarações lançadas pela autoridade policial no boletim, de acidente de trânsito só podem ser infirmadas quando existirem provas contundentes em sentido contrário, o que não é o caso dos autos, onde a outra prova produzida restou controversa". (grifou-se)
+Ademais, quando do julgamento dos embargos de declaração opostos, acrescentou que (e-STJ fl. 272):
+(..) "verifica-se que, por ocasião do julgamento do apelo, todas as provas dos autos, e não apenas o Boletim de Ocorrência, foram devidamente analisadas, evidenciando o intuito de rediscussão da questão pela Embargante, o que é incabível nesta estreita via recursal". (grifou-se)
+Desse modo, alterar o decidido no acórdão impugnado, quanto à comprovação dos fatos constitutivos do direito da parte ora agravada, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA DE RESSARCIMENTO POR DANOS MATERIAIS. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO.
+1. Ação regressiva de ressarcimento por danos materiais.
+2. A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio.
+3. A jurisprudência do STJ é no sentido de que o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa. Precedentes.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial não conhecido.
