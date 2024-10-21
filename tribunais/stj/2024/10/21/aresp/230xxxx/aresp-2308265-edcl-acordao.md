@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Francisco Alves Bessa e outros contra acórdão proferido pela Primeira Turma, assim ementado (fl. 375):
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Afasta-se a alegada ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+Em suas razões, a parte embargante sustenta "(i) omissão no tocante à matéria recursal, qual seja, a desnecessidade de prévia liquidação da sentença coletiva, e nulidade ao apreciar matéria alheia, em violação do direito ao contraditório e ampla defesa e em transposição dos limites da lide, a teor dos arts. 9º, 10, 141, 492 e 933, e ao art. 535, VI do Código de Processo Civil; (ii) omissão quanto aos requisitos da compensação, tais quais fixados nos arts. 368 e 369 do Código Civil, segundo os quais somente se compensam obrigações recíprocas efetuadas entre dívidas líquidas e vencidas; (iii) omissão quanto ao desnecessário reexame fático-probatório, que impede a incidência da súmula 7/STJ, eis que não se requer nestes autos a rediscussão sobre o tema e sim a análise da (im)possibilidade de decisão divergente das normas legais" (fl. 388).
+A parte embargada não apresentou impugnação.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado no aresto hostilizado que não restou configurada a negativa de prestação jurisdicional no decisório colegiado de origem, bem como que acolher a pretensão recursal, segundo a qual não teriam sido preenchidos os requisitos para a compensação de créditos, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+A propósito, confiram-se os seguintes trechos do acórdão embargado (fls. 377/382):
+O Tribunal de origem (fls. 71/74), integrado pela decisão dos aclaratórios (fls. 159/165), após exame dos elementos fáticos contidos nos autos sobre a questão
+atinente à compensação, manifestou-se nos seguintes termos:
+É imperioso observar que, acerca da necessidade de prévia liquidação, esta Egrégia Oitava Turma Especializada há muito tem se posicionado no sentido de que a sentença proferida na demanda coletiva perfaz condenação genérica ou ilíquida (art. 95, do CDC), à medida que não analisa o caso concreto de cada um dos possíveis beneficiários, e que, por derradeiro, o título judicial formado no bojo da ação coletiva precisa ter eficácia executiva, conforme as normas que regem o processo coletivo, de modo que a apuração dos valores devidos a cada um dos substituídos deve ser objeto de processo de conhecimento de liquidação da sentença coletiva.
+Veja-se que o fundamento adotado, por si só, restaria suficiente para a extinção da execução individual, em razão de ausência de condição da ação, em homenagem à inteligência do artigo 97, parágrafo único, bem como do §1º do artigo 98.
+A UFRJ, em suas contrarrazões, informa ter sido detectado "o pagamento de rubricas judiciais relacionadas ao reajuste de 28,86% aos substituídos da ação coletiva em questão, no período de 12/2002 a 01/2017, com o pagamento aos substituídos de todos os valores residuais (e muito mais)", sustentando que "aos beneficiários/substituídos do processo coletivo, nada mais é devido".
+De fato, a pretensão executória já se encontra satisfeita pela UFRJ, quando o pagamento do percentual pretendido foi efetuado em período bem maior do que o determinado no próprio título executivo - Jan/1993 a Jun/1998 - qual seja, e março a abril de 1997 e de dezembro de 2002 a janeiro de 2017 - conforme se depreende em feitos correlatos (AI nº 5012030-52.2021.4.02.0000 e AI nº 5012122-30.2021.4.02.0000), nos quais a pretensão vindicada trata igualmente de pagamento de verbas reputadas como devidas a título de diferenças concernentes ao reajuste de 28,86%.
+Assim sendo, torna-se sem objeto qualquer futura liquidação que venha a ser proposta nesse sentido, cumprindo, ainda, afastar a decisão de primeiro grau que tenha assentado fundamento no tocante à necessidade de liquidação prévia do julgado coletivo.
+ ..
+Com efeito, diferente do que supõe parte embargante, o efeito devolutivo, sob o viés de sua profundidade, para uns destacado como efeito autônomo na figura do chamado "efeito translativo", permite que a cognição a cargo do Tribunal não se limite apenas às questões resolvidas pelo provimento agravado, abrangendo também as que deveriam ter sido objeto de análise, por se tratarem de matéria de ordem pública, o que ocorreu no presente caso.
+Registre-se, ademais, que a adoção de determinado entendimento sobre uma matéria específica implica, por conseqüência lógica, na exclusão de outros entendimentos conflitantes sobre o mesmo tema, ainda que não expressamente mencionados, não restando configurada qualquer omissão em tais situações, pelo que absolutamente descabida a alegação no sentido de omissão quanto "a (des)necessidade de prévia liquidação de sentença coletiva no caso concreto".
+ ..
+Quanto ao tema "omissão quanto ao não cabimento da compensação e violação aos artigos 368 e 369 do Código Civil e artigo 5º, XXXVI, da Constituição Federal". Não há omissão e nem violação a dispositivos legais e constitucionais. A compensação em favor da Fazenda Pública é medida imperiosa para que seja respeitado o princípio da moralidade administrativa.
+Ademais, alegação de violação de violação aos artigos 368 e 369 do Código Civil e artigo 5º, XXXVI, da Constituição Federal deve ser feita por recurso próprio. Incabíveis os embargos de declaração utilizados indevidamente com a finalidade de reabrir discussão sobre tema jurídico já apreciado pelo julgador.
+O inconformismo da embargante se dirige ao próprio mérito do julgado, o que desafia recurso próprio.
+Diga-se, ainda, que a compensação pode ser acolhida e reconhecida por este tribunal, posto que se deve evitar o enriquecimento sem causa em detrimento do erário. Além disso, a exigibilidade do título judicial é questão de ordem pública, podendo ser conhecida de ofício pelo juízo.
+Há, ainda, o entendimento na Súmula nº 672, que ressalva a compensação de índices, a ser realizada, se for o caso, em sede de execução, ainda que nada conste a respeito na decisão proferida na fase de conhecimento.
+Nesse contexto, verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC, na medida em que o Sodalício de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, rever tal entendimento, com o objetivo de acolher a pretensão recursal, segundo a qual não teriam sido preenchidos os requisitos para a compensação de créditos, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ (grifo nosso).
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. MODIFICAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes.
+2. O instituto da preclusão consumativa veda a possibilidade de aditar razões a recurso já interposto. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.342.294/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. Não há que se cogitar da ocorrência de omissão e contradição, uma vez que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e do firme posicionamento jurisprudencial aplicável à hipótese dos autos.
+3. A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os aclaratórios a esse fim.
+4. Incide a Súmula 187/STJ quando a parte, devidamente intimada para sanar vício relativo ao recolhimento do preparo (art. 1.007, § 4º, do CPC), interpõe recurso contra o despacho de regularização e não realiza o recolhimento em dobro. Precedentes.
+5. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+6. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.900.442/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+ANTE O EXPOSTO, rejeitam-se os embargos declaratórios.
+É o voto.
