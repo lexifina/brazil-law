@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. DECISÃO JUDICIAL RECONHECENDO O DIREITO À COMPENSAÇÃO DO INDÉBITO TRIBUTÁRIO. IRPJ/CSLL. FATO GERADOR. HABILITAÇÃO DE CRÉDITO. AGRAVO INTERNO DESPROVIDO.
+1. A Segunda Turma desta Corte manifestou o entendimento de que a disponibilidade jurídica do acréscimo patrimonial - fato gerador do IRPJ e da CSLL - proveniente de decisão judicial transitada em julgado, que reconheceu o direito à compensação de indébito tributário, ocorre com o deferimento do pedido de habilitação prévia do crédito. Precedente.
+2. Agravo interno desprovido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno interposto por NAGEL DO BRASIL MÁQUINAS E FERRAMENTAS LTDA. contra a decisão que deu provimento ao recurso especial da FAZENDA NACIONAL, com amparo em precedente da Segunda Turma desta Corte, que determinou a incidência do Imposto de Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL a partir do deferimento do pedido de habilitação prévia do crédito decorrente de decisão judicial transitada em julgado, que reconheceu o direito à compensação administrativa do indébito tributário.
+A parte agravante sustenta, em resumo, que "não há que se falar em disponibilidade jurídica de renda com o deferimento de pedido de Habilitação de Crédito, e, sim, apenas com a homologação das compensações" (fl. 1.698).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. DECISÃO JUDICIAL RECONHECENDO O DIREITO À COMPENSAÇÃO DO INDÉBITO TRIBUTÁRIO. IRPJ/CSLL. FATO GERADOR. HABILITAÇÃO DE CRÉDITO. AGRAVO INTERNO DESPROVIDO.
+1. A Segunda Turma desta Corte manifestou o entendimento de que a disponibilidade jurídica do acréscimo patrimonial - fato gerador do IRPJ e da CSLL - proveniente de decisão judicial transitada em julgado, que reconheceu o direito à compensação de indébito tributário, ocorre com o deferimento do pedido de habilitação prévia do crédito. Precedente.
+2. Agravo interno desprovido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Presentes os pressupostos de admissibilidade recursal, conheço do recurso.
+O agravo interno é cabível contra a decisão monocrática proferida pelo relator no Tribunal, com a finalidade de que a controvérsia seja submetida ao Órgão Colegiado. O instituto do referido recurso está regulamentado pelo art. 1.021 do Código de Processo Civil, que assim versa:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+§ 2º O agravo será dirigido ao relator, que intimará o agravado para manifestar-se sobre o recurso no prazo de 15 (quinze) dias, ao final do qual, não havendo retratação, o relator levá-lo-á a julgamento pelo órgão colegiado, com inclusão em pauta.
+Ao exame da situação posta, constato que os argumentos levantados pela parte ora agravante não são capazes de alterar o entendimento proferido pelo então relator.
+No que diz respeito ao mérito recursal, conforme consta na decisão agravada, em recente julgado, este Tribunal Superior manifestou-se no sentido de que a disponibilidade jurídica do acréscimo patrimonial - fato gerador do IRPJ e da CSLL -proveniente de decisão judicial transitada em julgado, que reconheceu o direito à compensação de indébito tributário, ocorre com o deferimento do pedido de habilitação prévia do crédito.
+A propósito:
+TRIBUTÁRIO. IRPJ. CSLL. COMPENSAÇÃO. DECISÃO JUDICIAL TRANSITADA EM JULGADO. FATO GERADOR. HABILITAÇÃO DE CRÉDITO DECORRENTE DE DECISÃO JUDICIAL TRANSITADA EM JULGADO.
+I. A jurisprudência do STJ é firme no sentido de que não há violação do art. 1.022 e ao art. 489 do CPC/2015, quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+II. O aspecto material do IR se perfaz com a aquisição de disponibilidade econômica e jurídica de rendas ou de proventos de qualquer natureza (acréscimo patrimonial), independentemente da denominação, condição jurídica, origem ou forma de percepção das receitas ou dos rendimentos, nos termos do caput e § 1º do art. 43 do CTN.
+III. A disponibilidade econômica dar-se-á nas situações de fato e jurídicas em que se verifica a disposição material da renda ou dos proventos, independentemente do efetivo recebimento de recursos financeiros, da materialização em dinheiro ou da "utilidade" da renda (disponibilidade financeira).
+IV. A disponibilidade jurídica surge a partir da atribuição da titularidade de direito de conteúdo econômico capaz de ampliar o patrimônio do contribuinte, referindo-se a uma situação jurídica em que se constata a perfectibilização dos elementos, inclusive acidentais, para o recebimento da renda ou dos proventos.
+V. A compensação dos créditos decorrentes de decisão judicial transitada em julgado, em um primeiro momento, está condicionada à abertura do processo administrativo de prévia habilitação do aludido crédito perante a Receita Federal do Brasil, na forma do art. 100 e seguintes da Instrução Normativa RFB n. 2.055/2021.
+VI. O procedimento de prévia habilitação do crédito decorrente de decisão judicial transitada em julgada tem por escopo a confirmação de que o sujeito passivo da obrigação tributária figura no polo ativo da demanda judicial e de que a certificação de ser o tributo administrado pela RFB, bem como objetiva a verificação do efetivo trânsito em julgado da demanda e da inexistência de prescrição.
+VII. Deferida a habilitação do crédito decorrente de decisão judicial transitada em julgado, os créditos a compensar poderão ser posteriormente declarados pela contribuinte na forma do § 1º do art. 74 da Lei n. 9.430/1996. A compensação declarada, conforme se extrai do § 2º do art. 74 da Lei n. 9.430/1996, extingue o crédito tributário, submetendo-se à condição resolutória de ulterior homologação, a ser realizada no prazo do § 5º do art. 74 da Lei n. 9.430/1996.
+VIII. Nos termos dos arts. 127 e 128 do Código Civil, a condição resolutória, enquanto não se realizar efetivamente, não será capaz de extinguir o direito a que ela se opõe. Ou seja, a previsão de uma condição resolutória não interfere por si só na certeza, na liquidez e na exigibilidade de eventual crédito decorrente de uma obrigação, não impedindo a produção de efeitos e a aquisição do direito.
+IX. A declaração de compensação, ao apresentar as informações sobre a existência e a extensão dos créditos a compensar, é juridicamente apta a extinguir o crédito tributário, conquanto possa ocorrer a condição resolutória de não homologação pelo Fisco.
+X. Desse modo, o IRPJ e a CSLL incidirão após o deferimento do pedido de prévia habilitação do crédito decorrente de decisão judicial transitada em julgado, quando se constata a disponibilidade jurídica do acréscimo patrimonial, ainda que a posterior declaração de compensação esteja sujeita à homologação expressa ou tácita pela Fazenda Nacional.
+XI. Recurso especial parcialmente provido (REsp 2.071.754/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/3/2024, DJe de 15/3/2024, grifo nosso).
+Diante do exposto, as razões das agravantes não merecem acolhimento, devendo ser mantido o inteiro teor da decisão monocrátic a proferida.
+Isso posto, nego provimento ao agravo interno.
