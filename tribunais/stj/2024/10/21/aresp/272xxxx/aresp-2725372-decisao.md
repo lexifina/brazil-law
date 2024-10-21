@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo interposto por I. RIEDI E CIA. LTDA. contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, manejado em desfavor do acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fls. 288-289):
+1) DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. CONTRATO DE COMPRA E VENDA DE SACAS DE SOJA. CONTRATO VERBAL DE ENTREGA DAS SACAS CONDICIONADA AO FORNECIMENTO DE INSUMOS. PROVA ORAL ACERCA DA PACTUAÇÃO. IMPOSSIBILIDADE DE SE EXIGIR A ENTREGA DAS SACAS. SENTENÇA MANTIDA.
+a) Trata-se de Apelo em face da sentença que julgou improcedente o pedido de indenização em decorrência da ausência de entrega de sacas de soja.
+b) A defesa alegou que o Contrato de Compra e Venda de sacas de soja estava condicionado ao fornecimento de insumos, o que foi realizado pelo gerente à época e descumprido, diante da troca de gerência da empresa.
+c) As alegações da Ré foram confirmadas em sede de prova oral, razão pela qual não se podia exigir o cumprimento do contrato, como bem entendeu a sentença.
+2) APELO A QUE SE NEGA PROVIMENTO.
+Nas razões recursais, a parte recorrente alegou, além de divergência jurisprudencial, violação aos arts. 371 e 447, § 3º, I, do CPC e 227, parágrafo único, do CC, sustentando que a única testemunha da recorrida era suspeita, e deveria ter sido ouvida na condição de informante, e não de testemunha; indevida valoração da prova; e ausência de documentação que comprovasse a celebração dos contratos.
+Defendeu que a prova exclusivamente testemunhal não é suficiente para a comprovação de um negócio jurídico.
+Contrarrazões às fls. e-STJ 357-359 .
+Brevemente relatado, decido.
+A pretensão recursal não merece prosperar.
+Quanto à alegada suspeição da testemunha, o Tribunal de origem, asseverou que não poderia ser acolhida, haja vista que foi apresentada extemporaneamente.
+Veja-se (e-STJ, fl. 294):
+A contradita apresentada extemporaneamente em relação à testemunha da Ré também não poderia ser acolhida, pois foi apresentada extemporaneamente, após a ouvida do conteúdo do depoimento, o que implica em preclusão.
+Contudo, contra o fundamento da preclusão a parte não se manifestou nas razões do recurso especial, limitando-se a alegar, em síntese, que a única testemunha da recorrida era suspeita, e deveria ter sido ouvida na condição de informante, e não de testemunha.
+Em face desse contexto, verifica-se que o referido fundamento, por si só, se mostra suficiente a manter o acórdão recorrido quanto ao ponto, incidindo, por analogia, o enunciado n. 283 da Súmula do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+No que concerne à valoração das provas, o ordenamento jurídico brasileiro adota o princípio do livre convencimento motivado, que possibilita ao juiz a apreciação livre das provas colacionadas aos autos. Ou seja, o julgador não está adstrito à prova que a parte entende lhe seja mais favorável, mas pode formar a sua convicção a partir de outros elementos ou fatos constantes dos autos.
+A propósito:
+PROCESSO CIVIL. AGRAVO REGIMENTAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. PROVA PERICIAL. NÃO INTERPOSIÇÃO DE RECURSO. PRECLUSÃO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INVERSÃO DA PROVA. VEROSSIMILHANÇA DA PRÁTICA DE AGIOTAGEM.
+(..)
+3. O magistrado, com base no livre convencimento motivado, pode indeferir a produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, hipótese em que não se verifica a ocorrência de cerceamento de defesa. Precedentes.
+4. A inversão do ônus da prova autorizada pelos arts. 1º e 3º da MP n.º 2.172-32, que trata da nulidade dos atos de usura pecuniária, impõe acurada análise da ocorrência de requisito legal para seu deferimento: demonstração da verossimilhança da prática de agiotagem. Precedentes.
+5. Agravo regimental não provido. (AgRg no REsp 1196519/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/06/2015, DJe 04/08/2015, grifei).
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. MAGISTRADO COMO DESTINATÁRIO DAS PROVAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. LIVRE CONVENCIMENTO MOTIVADO.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O nosso sistema processual civil é orientado pelo princípio do livre convencimento motivado, cabendo ao julgador determinar as provas que entender necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias.
+3. Agravo regimental não provido. (AgRg no AREsp 281.230/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/08/2015, DJe 17/08/2015, grifei).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REPRESENTAÇÃO EM ASSEMBLEIA CONDOMINIAL. REGULARIDADE NOS TERMOS DO ART. 654, § 1º, DO CÓDIGO CIVIL/2002. SÚMULA 7/STJ. APROVAÇÃO DE REALIZAÇÃO DE OBRAS ÚTEIS. INEXISTÊNCIA DE INCOMPATIBILIDADE ENTRE AS OBRAS APONTADAS NO EDITAL DE CONVOCAÇÃO E AS OBRAS DISCUTIDAS E APROVADAS EM ASSEMBLEIA. PROVA ORAL INDEFERIDA. DESNECESSIDADE. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte é pacífica no sentido de que a preferência do magistrado por esta ou por aquela prova está inserida no âmbito do seu livre convencimento motivado. Isso, porque vigora no direito processual pátrio o sistema de persuasão racional adotado no Código de Processo Civil, cabendo ao magistrado autorizar a produção desta ou daquela prova, se por outros meios não estiver convencido da verdade dos fatos, tendo em vista que é ao juiz que cabe a análise da conveniência e necessidade da sua produção.
+2. As provas documentais acostadas aos autos são suficientes para proporcionar ao julgador os elementos necessários à análise da compatibilidade entre as obras apontadas no edital de convocação e as obras discutidas e aprovadas em assembleia, bem como quanto à verificação da natureza das obras aprovadas.
+(..)
+4. Agravo regimental não provido. (AgRg no AREsp 385.646/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/04/2015, DJe 14/05/2015, grifei).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO INDEFERIMENTO DE PRODUÇÃO DE PROVA TESTEMUNHAL. CERCEAMENTO DE DEFESA. ALEGAÇÃO AFASTADA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE DE QUESTÕES FÁTICAS. IMPOSSIBILIDADE. PRETENSÃO INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL.
+REITERAÇÃO DOS FUNDAMENTOS JÁ ANALISADOS. MANUTENÇÃO INTEGRAL DA DECISÃO AGRAVADA.
+(..)
+3. No caso, concluiu o Tribunal de origem que o farto arcabouço probatório é suficiente para a análise dos fatos apresentados para julgamento, mostrando-se desnecessária a produção de outras provas, máxime a oitiva de outras testemunhas, afigurando-se contraproducente e até mesmo violação à garantia da razoável duração do processo, a cassação da sentença, para produção de provas que não acarretarão a alteração do que já restou provado.
+4. Nesse contexto, não se confirma o alegado cerceamento de defesa, sendo certo que a revisão dos fundamentos que levaram a tal entendimento demandariam nova apreciação do conjunto probatório, o que é vedado em recurso especial, a teor da Súmula nº 7 do STJ.
+5. Agravo regimental não provido. (EDcl no REsp 1537718/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 09/06/2015, DJe 16/06/2015, grifei).
+Ademais, o princípio da persuasão racional ou da livre convicção motivada do juiz consigna caber ao magistrado apreciar livremente a prova, atendendo aos fatos e circunstâncias constantes dos autos, conferindo, fundamentadamente, a cada um desses elementos a sua devida valoração.
+No caso em estudo, o Tribunal de origem considerando as particularidades do caso concreto, manteve a sentença que asseverou que não foi possível à recorrida dar cumprimento ao plantio e, consequentemente, à entrega da soja em razão do descumprimento inicial da autora, aplicando o princípio da exceção do contrato não cumprido.
+Veja-se (e-STJ, fls. 293-296):
+Pela prova oral, a Ré logrou êxito em comprovar que foi celebrado Contrato oral entre as partes e que a entrega das sacas de soja estava condicionada ao fornecimento de insumos, adubo, sementes.
+Por sua vez, a prova oral produzida pela Autora não foi suficiente para desconstituir as alegações, uma vez que o preposto da empresa e seu funcionário não tinham conhecimento dos fatos à época.
+ ..
+Considerando que os insumos não foram entregues, especialmente em razão da troca de gerentes, o Contrato não poderia ser cumprido, porque a entrega das sacas estava condicionada à entrega de adubos e sementes para a plantação.
+Assim, prevê o Código Civil, que "Art. 112. Nas declarações de vontade se atenderá mais à intenção nelas consubstanciada do que ao sentido literal da linguagem. Art. 113. Os negócios jurídicos devem ser interpretados conforme a boa-fé e os usos do lugar de sua celebração. § 1º A interpretação do negócio jurídico deve lhe atribuir o sentido que: I - for confirmado pelo comportamento das partes posterior à celebração do negócio; II - corresponder aos usos, costumes e práticas do mercado relativas ao tipo de negócio; III - corresponder à boa-fé; IV - for mais benéfico à parte que não redigiu o dispositivo, se identificável; e V - corresponder a qual seria a razoável negociação das partes sobre a questão discutida, inferida das demais disposições do negócio e da racionalidade econômica das partes, consideradas as informações disponíveis no momento de sua celebração (..)".
+No mesmo sentido:
+ ..
+Em face de tais considerações, não há como elidir as conclusões do acórdão recorrido, sem proceder ao reexame dos fatos e das provas, procedimento vedado no âmbito do recurso especial nos termos da Súmula n. 7/STJ.
+Quanto ao dissídio jurisprudencial, impende registrar que, consoante iterativa jurisprudência desta Corte, "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt no AgRg no AREsp 317.832/RJ, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 13/3/2018).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO COM PEDIDO DE RESTITUIÇÃO DE VALORES. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA SUPOSTAMENTE DIVERGENTE. 1. Ação revisional de contrato bancário.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. O termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Precedentes.
+5. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+6. Agravo interno não provido.
+(AgInt no REsp 2007246/AL, 3ª Turma, relatora Ministra Nancy Andrighi, julgado em 12/12/2022, DJe 14/12/2022).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do
+advogado da parte recorrida em 2% sobre o valor fixado na origem, ressalvado o benefício da assistência judiciária gratuita.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AÇÃO DE INDENIZAÇÃO. CONTRATO DE COMPRA E VENDA DE SACAS DE SOJA. ALEGADA SUSPEIÇÃO DA TESTEMUNHA. EXISTÊNCIA DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA N. 283/STF. ALEGADA VALORAÇÃO ERRÔNEA DE PROVA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INADIMPLÊNCIA CONTRATUAL. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. REVISÃO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
