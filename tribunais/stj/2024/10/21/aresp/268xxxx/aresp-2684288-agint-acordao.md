@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu que a conduta da parte agravante caracterizou a litigância de má-fé. Alterar esse entendimento demandaria o reexame probatório, o que é vedado em recurso especial.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 747/757) interposto por ADEMILCE SODRÉ DA SILVA contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a parte agravante alega serem inaplicáveis as Súmulas n. 7 do STJ e 282, 356 e 284 do STF, argumentando que "a ora agravante prequestionou os dispositivos infraconstitucionais apontados como violados, tendo o v. acórdão se manifestado expressamente" (e-STJ fl. 751).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 766/768).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu que a conduta da parte agravante caracterizou a litigância de má-fé. Alterar esse entendimento demandaria o reexame probatório, o que é vedado em recurso especial.
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 739/742):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por ADEMILCE SODRÉ DA SILVA, contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 7 do STJ e 282 e 356 do STF (e-STJ fls. 647/661).
+O acórdão recorrido está assim ementado (e-STJ fls. 548/550):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/C OBRIGACIONAL C/C INDENIZATÓRIA. AUTORA QUE ALEGA QUE TEVE SEU NOME NEGATIVADO PELA RÉ, SEM QUE TIVESSE COM ESTA CELEBRADO QUALQUER NEGÓCIO OU CONTRATO, E QUE NÃO OBTEVE ÊXITO EM SOLUCIONAR A QUESTÃO ADMINISTRATIVAMENTE. PRETENSÃO DECLARAÇÃO DE INEXISTÊNCIA DO DÉBITO E CONDENAÇÃO DA RÉ A EXCLUIR SEU NOME DOS CADASTROS RESTRITIVOS DE CRÉDITO E A PAGAR INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE IMPROCEDÊNCIA, DIANTE DA COMPROVAÇÃO, ATRAVÉS DE PERÍCIA GRAFOTÉCNICA, DE QUE A AUTORA ASSINOU CONTRATO E MANTEVE RELAÇÃO JURÍDICA COM A RÉ. APELO DA RÉ, REQUERENDO A CONDENAÇÃO DA AUTORA NAS PENAS DA LITIGÂNCIA DE MÁ-FÉ, REVOGANDO-SE O BENEFÍCIO DA GRATUIDADE DE JUSTIÇA, E A RESTITUIR OS VALORES PAGOS A TÍTULO DE HONORÁRIOS PERICIAIS. RECURSO QUE MERECE PROSPERAR EM PARTE.
+AUTORA QUE, APÓS A JUNTADA AOS AUTOS DO CONTRATO MERCANTIL E DO PEDIDO DE COMPRAS, SE MANIFESTOU EM RÉPLICA, IMPUGNANDO OS DOCUMENTOS APRESENTADOS PELA RÉ E ANEXANDO DECLARAÇÃO DE PRÓPRIO PUNHO AFIRMANDO TAXATIVAMENTE NÃO SER SUA A ASSINATURA APOSTA NO CONTRATO. PERÍCIA QUE COMPROVOU QUE AS ASSINATURAS DO CONTRATO E DO PEDIDO DE COMPRAS ERAM PROVENIENTES DO MESMO PUNHO ESCRITOR DA AUTORA. CLARA A MÁ-FÉ DA DEMANDANTE EM INSISTIR EM SUA TESE EM TODO DECORRER DO PROCESSO, DURANTE MAIS DE 10 (DEZ) ANOS E, AINDA, DIANTE DO NÃO COMPARECIMENTO À PERÍCIA, POR 07(SETE) OPORTUNIDADES, NÃO SENDO CRÍVEL QUE EVENTUAL DÚVIDA QUANTO À OBRIGAÇÃO ASSUMIDA COM A RÉ PUDESSE PERMANECER MESMO APÓS A APRESENTAÇÃO DO CONTRATO COM SUA ASSINATURA E SEUS DADOS PESSOAIS. RESISTÊNCIA EM COLABORAR PARA O DESLINDE DA CONTROVÉRSIA TRAZIDA AOS AUTOS, RESTANDO CARACTERIZADO TAMBÉM O DANO PROCESSUAL. APELADA QUE EM SEDE DE CONTRARRAZÕES, ALTERA SUA NARRATIVA DE INEXISTÊNCIA DE VÍNCULO COM A RÉ E DE FALSIDADE DAS ASSINATURAS PARA AUSÊNCIA DE COMPROVAÇÃO DE SEU EVENTUAL INADIMPLEMENTO. VIOLAÇÃO DO DISPOSTO NO ART. 77, I E II DO CPC. AUTORA QUE FALTOU DOLOSAMENTE COM A VERDADE EM SEU RELATO ACERCA DA INEXISTÊNCIA DE RELAÇÃO CONTRATUAL COM A RÉ, USOU DO PROCESSO PARA CONSEGUIR OBJETIVO ILEGAL CONSISTENTE NO ENRIQUECIMENTO ILÍCITO, OPÔS RESISTÊNCIA INJUSTIFICADA AO ANDAMENTO DO PROCESSO DIANTE DAS INÚMERAS AUSÊNCIAS À PERÍCIA E PROCEDEU DE MODO TEMERÁRIO, INSISTINDO EM ALEGAÇÕES SABIDAMENTE FALSAS, EM CLARA VIOLAÇÃO AOS PRINCÍPIOS DA LEALDADE PROCESSUAL E BOA-FÉ. CONDUTAS QUE INEQUIVOCAMENTE CARACTERIZAM A LITIGÂNCIA DE MÁ-FÉ, SUBSUMINDO-SE, PERFEITAMENTE, AOS INCISOS II, III, IV E V E III, DO ARTIGO 80 DO CPC. CONDENAÇÃO DA AUTORA À MULTA POR LITIGÂNCIA DE MÁ-FÉ, NO VALOR DE 4% (QUATRO POR CENTO) DO VALOR ATUALIZADO DA CAUSA, NA FORMA DO DISPOSTO NO ART. 81 DO CPC, QUE SE IMPÕE. PRECEDENTES. CONDENAÇÃO NÃO ABRANGIDA PELA GRATUIDADE DE JUSTIÇA ANTERIORMENTE DEFERIDA. ART. 98,§ 4º, DO CPC. CONDENAÇÃO NAS PENAS DA LITIGÂNCIA DE MÁ-FÉ QUE, NO ENTANTO, NÃO POSSUIU O CONDÃO DE REVOGAR O BENEFÍCIO DA GRATUIDADE DE JUSTIÇA EM RELAÇÃO ÀS DESPESAS PROCESSUAIS E HONORÁRIOS SUCUMBENCIAIS, CONFORME ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA E DO TJRJ. AUTORA QUE JÁ FOI CONDENADA AO PAGAMENTO DOS HONORÁRIOS PERICIAIS, INCLUSOS NAS DESPESAS PROCESSUAIS, ESTANDO TAL EXIGIBILIDADE SUSPENSA NA FORMA DO DISPOSTO NO ART. 98, §1º, VI E § 3º DO CPC.
+PARCIAL PROVIMENTO DO RECURSO, A FIM DE CONDENAR A AUTORA AO PAGAMENTO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ, NO VALOR DE 4% (QUATRO POR CENTO) DO VALOR ATUALIZADO DA CAUSA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 591/599).
+Nas razões do recurso especial (e-STJ fls. 601/606), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos arts. 80 e 81 do CPC/2015, alegando que é "descabida a condenação da Recorrente em litigância de má-fé, já que sua pretensão tem fundamento e respaldo jurídico, restando comprovada nos autos, havendo sim o dever da Recorrida em reparar o ato ilícito perpetrado contra aquela, já que comprovados o evento danoso, o resultado danoso e o nexo causal, realçando-se que sua responsabilidade é objetiva" (e-STJ fl. 605).
+No agravo (e-STJ fls. 686/692), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 718).
+É o relatório.
+Decido.
+O Tribunal de origem afirmou que as condutas da parte recorrente inequivocamente caracterizam a litigância de má-fé, nas seguintes razões (e-STJ fls. 554/555):
+Diante de todo o exposto e não sendo crível que eventual dúvida da autora quanto à obrigação assumida com a ré pudesse permanecer mesmo após a apresentação do contrato com sua assinatura e seus dados pessoais, resta clara sua má-fé em insistir em sua tese em todo decorrer do processo, durante mais de 10 (dez) anos.
+Some-se a isso as reiteradas ausências à perícia, a corroborar a resistência da autora em colaborar para o deslinde da controvérsia trazida aos autos, restando caracterizado também o dano processual.
+(..)
+Resta demonstrado, portanto, que a autora faltou dolosamente com a verdade em seu relato acerca da inexistência de relação contratual com a ré, usou do processo para conseguir objetivo ilegal consistente no enriquecimento ilícito, opôs resistência injustificada ao andamento do processo diante das inúmeras faltas de comparecimento à perícia e procedeu de modo temerário, insistindo em alegações sabidamente falsas, em clara violação aos princípios da lealdade processual e boa-fé.
+Dessarte, as condutas da demandante inequivocamente caracterizam a litigância de má-fé, subsumindo-se, perfeitamente, aos incisos II, III, IV e V e III, do artigo 80 do CPC.
+No referente à litigância de má-fé, a questão foi resolvida com base nos elementos fáticos da demanda. Também em relação a esse ponto incide a Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo de ADEMILCE SODRÉ DA SILVA. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando a parte recorrente amparada pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
+A Corte estadual entendeu que "a autora faltou dolosamente com a verdade em seu relato acerca da inexistência de relação contratual com a ré, usou do processo para conseguir objetivo ilegal consistente no enriquecimento ilícito, opôs resistência injustificada ao andamento do processo diante das inúmeras faltas de comparecimento à perícia e procedeu de modo temerário, insistindo em alegações sabidamente falsas, em clara violação aos princípios da lealdade processual e boa-fé" (e-STJ fl. 255).
+A modificação das conclusões do acórdão recorrido a respeito da litigância de má-fé demandaria o revolvimento do acervo fático-probatório dos autos. Dessa forma, aplica-se a Súmula n. 7/STJ.
+No mais, com relação à inaplicabilidade das Súmulas n. 282, 284 e 356 do STF, essas teses estão dissociadas da decisão recorrida, tendo em vista não terem sido aplicadas .
+Assim, não prosperam as alegações constant es no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno de ADEMILCE SODRÉ DA SILVA .
+É como voto.
