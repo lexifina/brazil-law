@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO FEDERAL DA 1ª VARA DE LIMEIRA - SJ/SP suscita conflito negativo de competência, em inquérito policial, diante do JUÍZO DE DIREITO DA VARA CRIMINAL DE ARARAS - SP.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente (federal ou estadual) para a adoção de medidas judiciais que se façam necessárias, em investigação deflagrada pela suposta prática dos delitos previstos nos arts. 155, § 4º, I, c/c 14, II (furto qualificado tentado) e 331 (desacato), ambos do CP, sendo o primeiro crime supostamente praticado contra um Caixa 24 horas.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da Vara Criminal de Araras - SP, ora suscitado (fls. 211-212).
+Decido.
+Embora toda a controvérsia quanto à competência haja surgido em razão do Caixa 24 horas guarnecer importe numerário de diversas instituições bancárias, entre as quais a Caixa Econômica Federal, não é possível desprezar o fato bem pontuado pelo Juízo suscitante de que, no caso, não houve nenhum prejuízo (concreto ou potencial) à referida instituição ou mesmo aos clientes dela.
+Deveras, segundo o Juízo Federal da 1ª Vara de Limeira - SJ/SP, "os terminais de autoatendimento Banco24Horas são de propriedade da pessoa jurídica Tecban - Tecnologia Bancária S. A., a quem cabe suportar eventual prejuízo pela subtração de valores em seus terminais" (fl. 205, destaquei).
+No particular, "conforme informação prestada pela própria Caixa Econômica Federal, ainda que o crime tivesse se consumado, toda a operação é garantida pela Tecban - Tecnologia Bancária S. A., proprietária e gestora dos terminais, de modo que não haveria que se falar em prejuízo à empresa pública, restando afastada a competência da Justiça Federal" (fl. 206, grifei).
+Logo, como destacou o Parquet Federal, em consonância com a pacífica orientação desta Corte, "não tendo os crimes em apuração sido praticados em detrimento de bens, serviços ou interesses da União ou de suas autarquias ou empresas públicas, especificamente da Caixa Econômica Federal, não há que se falar em competência da Justiça Federal, conforme delineada no art. 109 da Constituição Federal" (fl. 212).
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Criminal de Araras - SP, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
