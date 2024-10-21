@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Agravo apresentado por BANCO GM S.A à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA C/C PEDIDO DECLARATÓRIO DE QUITAÇÃO DE CONTRATO C/C PEDIDO DE RESSARCIMENTO C/C PEDIDO DE DANOS MORAIS - DECISÃO QUE MAJOROU O VALOR DA MULTA ANTERIORMENTE IMPOSTA EM RAZÃO DO DESCUMPIMENTO DA ORDEM - AUSÊNCIA DOS REQUISITOS DO ART. 300 DO CPC - PEDIDO DE REVOGAÇÃO DA IMPOSIÇÃO DE MULTA - IMPOSSIBILIDADE - MEDIDA COERCITIVA DESTINADA A EFETIVAÇÃO DA TUTELA JUDICIAL (CPC, ART. 537) - REDUÇÃO DO VALOR ARBITRADO - IMPOSSIBILIDADE - VALOR JUSTO E RAZOÁVEL - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 537, § 4º, do CPC, no que concerne à impossibilidade de aplicação retroativa da decisão que majorou as astreintes, tendo em vista que o termo inicial só pode ser contado a partir da data da decisão que aumentou os valores da multa, trazendo a seguinte argumentação:
+23. O art. 537, 4º do CPC é claro no sentido de que ao fixar-se multa por descumprimento da obrigação de fazer, o termo inicial da contagem do astreinte é da decisão que fixar o valor.
+24. Ocorre que, como já adiantado acima e minuciosamente exposto no Agravo de Instrumento, o D. Juízo "a quo" fixou data retroativa àquela da decisão que majorou o valor da multa, decisão esta que foi mantida pelo Acórdão recorrido.
+25. A decisão que majorou o valor da multa foi proferida em 11.08.2021, determinando que o termo inicial para computar o novo valor valeria a partir de 08.12.2020.
+26. Se a r. decisão, proferida em 11.08.2021, majorou a multa para o valor de R$ 5.000,00 (cinco mil reais), esta nova astreinte deve incidir a partir dessa data e não desde o dia 08.12.2020, conforme determinado pelo D. Juízo "a quo" e confirmado pelo acórdão recorrido.
+ ..
+28. Portanto, possível constatar que há clara violação ao art. 537, §4º do CPC ao manter o termo inicial para a fixação da multa data anterior à decisão que fixou o valor, razão pela qual o BANCO GM requer seja provido o presente Recurso Especial, reformando-se o v. acórdão recorrido para determinar que o correto termo inicial para majoração da multa (fls. 376/377).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 211/STJ, porquanto a questão não foi examinada pela Corte de origem, a despeito da oposição de Embargos de Declaração. Isto é, o TJMT não analisou nem decidiu pela possibilidade ou não de aplicação retroativa da decisão que majorou as astreintes. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, Rel. Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19.10.2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, Rel. Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29.8.2005; AgInt no AREsp n. 1.264.021/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º.3.2019; AgInt no AREsp n. 953.171/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 23.8.2022; AgInt no AREsp n. 1.506.939/MS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26.8.2022; AgRg no AREsp 1.647.409/SC, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º.7.2020; AgRg no REsp n. 1.850.296/PR, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 18.12.2020; AgRg no REsp n. 2.004.417/MT, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16.8.2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
