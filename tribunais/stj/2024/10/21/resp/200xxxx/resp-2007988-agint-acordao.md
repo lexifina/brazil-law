@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NOS EMBARGOS DE DECLARAÇÃO NO  RECURSO  ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇÃO DE PRECATÓRIO. IMPUGNAÇÃO APRESENTADA. ART. 85, § 7º, DO CPC. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO APENAS SOBRE A PARCELA CONTROVERTIDA.  DECISÃO  MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1.  Segundo a jurisprudência pacífica desta Corte, nos termos do disposto no art. 85, § 7º, do Código de Processo Civil (CPC), é cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseje a expedição de precatório, desde que haja impugnação, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito.
+2.  Agravo  interno  desprovido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por  GECI GONCALVES DA SILVA e OUTROS contra  a  decisão  que  acolheu os embargos de declaração para que os honorários sejam fixados apenas sobre a parcela controvertida da execução.
+As  partes agravantes pugnam pela manutenção "da fixação dos honorários advocatícios com base no disposto do artigo 85, § 7º, do Código de Processo Civil, tendo em vista o embargos de devedor apresentado pelo executado no caso em concreto, com afastamento da exclusão de parcela incontroversa do cálculo, visto que a fixação desses honorários não encontram vinculação com o resultado da impugnação/embargos de devedor opostos" (fls. 1.217-1.218).
+Impugnação da parte agravada pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NOS EMBARGOS DE DECLARAÇÃO NO  RECURSO  ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇÃO DE PRECATÓRIO. IMPUGNAÇÃO APRESENTADA. ART. 85, § 7º, DO CPC. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO APENAS SOBRE A PARCELA CONTROVERTIDA.  DECISÃO  MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1.  Segundo a jurisprudência pacífica desta Corte, nos termos do disposto no art. 85, § 7º, do Código de Processo Civil (CPC), é cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseje a expedição de precatório, desde que haja impugnação, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito.
+2.  Agravo  interno  desprovido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Cinge-se a controvérsia posta neste recurso o  acerto  da  decisão  que deu parcial provimento ao recurso especial para reconhecer o direito da parte recorrente aos honorários advocatícios e determinar o retorno dos autos ao Tribunal de origem para sua fixação e, após, acolheu os embargos de declaração do INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO SUL, para definir que os honorários sejam fixados apenas sob a parcela controvertida da execução.
+Nesse passo, destaco que a jurisprudência pacífica deste Superior Tribunal de Justiça firmou entendimento de que, nos termos do disposto no art. 85, § 7º, do CPC, é cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseje a expedição de precatório, desde que haja impugnação, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito.
+Nesse sentido, os seguintes precedentes:
+PROCESSO CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇÃO DE PRECATÓRIO. IMPUGNAÇÃO APRESENTADA. ART. 85, § 7º, DO CPC. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO APENAS SOBRE A PARCELA CONTROVERTIDA. PROVIMENTO NEGADO.
+1. Segundo a jurisprudência pacífica desta Corte, nos termos do disposto no art. 85, § 7º, do Código de Processo Civil (CPC), é cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseje a expedição de precatório, desde que haja impugnação, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito.
+2. Agravo interno a que se nega provimento (AgInt nos EDcl no REsp n. 1.978.491/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/12/2023, DJe de 23/1/2024).
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. APRESENTAÇÃO DE IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS CONTRA O ENTE PÚBLICO. CABIMENTO. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. 1. A jurisprudência desta Corte Superior firmou o entendimento de que é cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que por ela impugnado o pedido de cumprimento de sentença, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito, nos termos do art. 85, § 7º, do CPC/2015.
+2. Compete ao juízo de origem arbitrar a verba honorária, excluindo-se da base de cálculo, caso exista, a parcela incontroversa do crédito.
+3. Agravo interno não provido (AgInt no REsp n. 2.077.873/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 30/10/2023, DJe de 6/11/2023).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CPC/2015. BASE DE CÁLCULO.
+1. A determinação da base de cálculo dos honorários advocatícios, sob a égide do CPC/2015, obedece a seguinte ordem de preferência: "(I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º)" (REsp n. 1.746.072/PR, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Raul Araújo, Segunda Seção, julgado em 13/02/2019, DJe de 29/03/2019.)
+2. Esta Corte entende que os honorários advocatícios, em execução impugnada, devem ser fixados sobre o valor total devido, excetuada somente a parcela incontroversa.
+3. Caso dos autos em que, em sede de liquidação, inadequada a adoção do proveito econômico como base de cálculo da verba honorária, uma vez que existente comando condenatório no título discutido.
+4. Agravo interno desprovido (AgInt no AgInt no REsp n. 1.963.664/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/10/2023, DJe de 4/10/2023).
+Portanto, deve ser mantida a decisão ora agravada, baseada na jurisprudência pacífica desta Corte, uma vez que não foram trazidos elementos aptos a desconstituí-la.
+Isso posto, nego provimento ao recurso.
