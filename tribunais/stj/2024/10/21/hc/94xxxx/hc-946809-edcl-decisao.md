@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DAVID PATRICK GOMES BRAGA contra decisão que julgou prejudicado o habeas corpus.
+A parte embargante aponta a existência de contradição no julgado embargado e requer aclaração sobre a fundamentação necessária para negar o direito do paciente de recorrer em liberdade.
+Também indicando a ocorrência de contradição, questiona se a simples afirmação de que "persistem os motivos da prisão cautelar" atende ao disposto no art. 387, § 1º, do CPP, e coteja a conformidade dessa decisão com os precedentes do STJ; bem como alega que a sentença condenatória, usada como novo título para manter a prisão, é genérica e carece de fundamentação mínima, violando o art. 312 do CPP e dispositivos constitucionais e processuais.
+Requer o acolhimento dos aclaratórios para sanar as contradições apontadas, com a correspondente repercussão jurídica.
+É o relatório.
+Inicialmente, verifica-se que a decisão embargada foi expressa em apontar que, "em face de título judicial diverso, no qual foram novamente analisados os requisitos da segregação cautelar sob nova perspectiva, fica prejudicado o objeto do presente writ, bem como da tutela provisória (Pet n. 00872487/2024, protocolada em 3/10/2024)" - fl. 654.
+Quanto ao mais, em especial em relação à tese de existência de contradição no julgado embargado, verifica-se que esta Corte Superior possui o entendimento de que "a contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como ilogicidade ou incoerência existente entre os fundamentos e o dispositivo do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com tese, lei ou precedente tido pelo Embargante como correto" (EDcl no AgRg no HC n. 827.911/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/9/2023, DJe de 25/9/2023).
+No mesmo sentido: EDcl no AgRg no AREsp n. 2.598.722/MS, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; EDcl no AgRg no AREsp n. 2.101.569/PA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024; e EDcl no AgRg nos EDcl no AREsp n. 2.423.838/PB, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/4/2024, DJe de 30/4/2024.
+Logo, as supostas contradições suscitadas nestes aclaratórios não se adequam ao art. 619 do CPP, por tratarem do confronto entre a decisão embargada e as teses defendidas pela parte, além de precedentes indicados como favoráveis pela defesa.
+Assim, os argumentos da parte embargante demonstram, apenas, sua discordância com a solução jurídica então encontrada, pretensão incabível no estreito rito dos aclaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
