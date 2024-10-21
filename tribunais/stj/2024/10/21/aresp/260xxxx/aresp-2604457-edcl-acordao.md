@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS. ALEGADA VIOLAÇÃO AO ART. 85, § 3º, DO CPC. ERRO DE NATUREZA MATERIAL. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código d e Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão recorrida.
+2. O erro material identificado não tem o condão de alterar o julgado, tendo em vista a manutenção da decisão agravada que não conheceu do recurso, quanto ao ponto, em razão da impossibilidade de se rever fatos e provas em sede de recurso especial.
+3. Embargos de declaração acolhidos para sanar erro material, sem efeitos infringentes.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos pelo DISTRITO FEDERAL contra acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça, que negou provimento ao agravo interno no agravo em recurso especial. Eis a ementa do aresto (fl. 1.207):
+PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1022 DO CPC. NÃO OCORRÊNCIA. HONORÁRIOS SUCUMBENCIAIS. VALORES DA CONDENAÇÃO, DA CAUSA OU PROVEITO ECONÔMICO DA DEMANDA ELEVADOS. IMPOSSIBILIDADE DE FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. O critério de apreciação equitativa, conforme o art. 85, § 8º do CPC, é subsidiário e deve ser empregado apenas quando a regra geral do § 2º não se aplica. No caso em questão, não se aplica tal critério, pois o valor da causa (R$ 1.159.831,23) não é irrisório nem inestimável.
+5. O Apelo não deve prosseguir em relação à alegada violação do art. 85, § 8º, do CPC, pois o julgado impugnado tem como base a análise das provas fáticas presentes nos autos. A aceitação do Recurso conforme solicitado pelo agravante (revisão do percentual estabelecido para os honorários de sucumbência) exigiria uma nova avaliação dessas provas, o que é inviável ante a incidência da Súmula 7/STJ.
+6. Agravo Interno não provido.
+Alega o embargante que o acórdão recorrido foi omisso pois estabeleceu que o recurso especial não deveria prosseguir quanto à alegada ofensa ao artigo 85, § 8º, do CPC, quando, na verdade, foi apontada afronta ao artigo 85, § 3º, inciso II, do CPC.
+Defende que "a tese recursal não pressupõe a análise do critério da equidade, ao contrário, a pretensão do Distrito Federal é somente que seja observado o art. 85, §3º, II, do CPC que dispõe sobre a aplicação de 8% a 10% sobre o valor da condenação, proveito econômico ou valor da causa" (fl. 1.217).
+Requer o conhecimento e acolhimento dos embargos de declaração, a fim de que seja sanada a omissão apontada.
+Intimada, a parte embargada apresentou impugnação (fls. 1.224-1.226).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS. ALEGADA VIOLAÇÃO AO ART. 85, § 3º, DO CPC. ERRO DE NATUREZA MATERIAL. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código d e Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão recorrida.
+2. O erro material identificado não tem o condão de alterar o julgado, tendo em vista a manutenção da decisão agravada que não conheceu do recurso, quanto ao ponto, em razão da impossibilidade de se rever fatos e provas em sede de recurso especial.
+3. Embargos de declaração acolhidos para sanar erro material, sem efeitos infringentes.
+VOTO
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+No caso, ao analisar a controvérsia, o acórdão embargado manifestou-se nos seguintes termos (fl. 1.20 9):
+O critério de apreciação equitativa, conforme o art. 85, § 8º do CPC, é subsidiário e deve ser empregado apenas quando a regra geral do § 2º não se aplica. No caso em questão, não se aplica tal critério, pois o valor da causa (R$ 1.159.831,23) não é irrisório nem inestimável.
+O Apelo não deve prosseguir em relação à alegada violação do art. 85, § 8º, do CPC, pois o julgado impugnado tem como base a análise das provas fáticas presentes nos autos. A aceitação do Recurso conforme solicitado pelo agravante (revisão do percentual estabelecido para os honorários de sucumbência) exigiria nova avaliação dessas provas, o que é inviável ante a incidência da Súmula 7/STJ.
+Verifica-se que o acórdão, de início, estabelece que, no caso, o valor da causa não seria irrisório e nem inestimável, não sendo hipótese, portanto, de se aplicar na fixação dos honorários o critério da apreci ação equitativa, previsto no artigo 85, § 8º, do CPC.
+Logo após, sustenta que o apelo especial não deveria prosseguir em relação à alegada violação ao artigo 85, § 8º, do CPC, o que, ao invés de omissão, revela a existência de erro material no decisum, considerando o exposto no parágrafo imediatamente anterior e a ementa do julgado, que foi expressa sobre a impossibilidade de fixação dos honorários advocatícios por apreciação equitativa.
+Assim, devem ser acolhidos os embargos de declaração apenas para corrigir o erro material, passando a constar que "o apelo não deve prosseguir em relação à alegada violação do art. 85, § 3º, do CPC, pois o julgado impugnado tem como base a análise das provas fáticas presentes nos autos. A aceitação do Recurso conforme solicitado pelo agravante (revisão do percentual estabelecido para os honorários de sucumbência) exigiria nova avaliação dessas provas, o que é inviável ante a incidência da Súmula 7/STJ".
+Ante o exposto, acolho os embargos de declaração, sem efeitos infringentes, apenas para corrigir o erro material acima mencionado.
+É como voto.
