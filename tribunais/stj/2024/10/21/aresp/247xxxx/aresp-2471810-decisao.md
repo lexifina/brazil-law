@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto FLÁVIO PAULINO RAMOS contra a decisão de fls. 111-113 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 82, e-STJ):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. Constrição de benefício previdenciário da executada. Indeferimento. Acerto. Verba impenhorável, exceto para pagamento de alimentos ou em caso de quantia superior a 50 salários mínimos. Aplicabilidade do artigo 833, IV, e §2º, do CPC. Precedentes da Câmara sobre a matéria. Decisão mantida. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 105-108, e-STJ).
+Nas razões do recurso especial (fls. 86-95, e-STJ), além de dissídio jurisprudencial, o recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 4º, 6º, 8º, 489, 833 e 1.022 do Código de Processo Civil de 2015.
+Sustentou, em síntese:
+(i) estar configurada a negativa de prestação jurisdicional ante a omissão do colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, bem como ausência de fundamentação na decisão impugnada; e
+(ii) a possibilidade de relativização da regra da impenhorabilidade das verbas salariais recebidas pela recorrente, pois a regra de impenhorabilidade não é absoluta, bem como que o interesse do devedor se sobrepõe ao do devedor .
+Em juízo de admissibilidade (fls. 111-113, e-STJ), a corte de origem negou o processamento do recurso especial pelos seguintes fundamentos: a) não configurada a alegada violação dos arts. 489 e 1.022 do CPC/2015, porquanto as questões trazidas pelo recorrente foram analisadas, de forma fundamentada; b) não houve demonstração das vulnerações legais suscitadas; e c) aplicação da Súmula 7/STJ para revisão das conclusões do acórdão recorrido.
+Irresignado (fls. 116-129, e-STJ), aduz o agravante que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Sem contraminuta, conforme certificado nos autos à fl. 132 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Verifica-se que, nos presentes autos, existe debate sobre questão de direito que foi afetada pela Corte Especial do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação nos autos dos REsp 1.894.973/PR, REsp 2.071.335/GO e REsp 2.071.382/SE, de relatoria do Ministro Raul Araújo, julgadas em 12/12/2023, DJe 20/12/2023, delimitaram o Tema 1.230 da seguinte forma: "Alcance da exceção prevista no § 2º do art. 833 do CPC, em relação à regra da impenhorabilidade da verba de natureza salarial tratada no inciso IV do mesmo dispositivo, para efeito de pagamento de dívidas não alimentares, inclusive quando a renda do devedor for inferior a cinquenta (50) salários mínimos".
+Confira-se a respectiva ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PROPOSTA DE AFETAÇÃO.
+IMPENHORABILIDADE DE VERBA DE NATUREZA SALARIAL. RENDA DO DEVEDOR INFERIOR A 50 SALÁRIOS MÍNIMOS. DÍVIDA NÃO ALIMENTAR. INTERPRETAÇÃO DA REGRA CONTIDA NO ART. 833, IV e § 2º, DO CPC. CRITÉRIOS DE AFETAÇÃO PREENCHIDOS. RECURSO AFETADO AO REGIME DOS RECURSOS ESPECIAIS REPETITIVOS.
+1. Tema proposto para afetação ao rito dos recursos especiais repetitivos: Alcance da exceção prevista no § 2º do art. 833 do CPC, em relação à regra da impenhorabilidade da verba de natureza salarial tratada no inciso IV do mesmo dispositivo, para efeito de pagamento de dívidas não alimentares, inclusive quando a renda do devedor for inferior a cinquenta (50) salários mínimos.
+2. Recurso especial submetido ao regime dos recursos especiais repetitivos (afetação conjunta: REsp 1.894.973/PR, REsp 2.071.382/SE, REsp 2.071.335/GO e REsp 2.071.259/SP).
+(ProAfR no REsp n. 1.894.973/PR, relator Ministro Raul Araújo, Corte Especial, julgado em 12/12/2023, DJe de 20/12/2023.)
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Eis o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito: I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PENHORA DE PERCENTUAL DE SALÁRIOS. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. DÍVIDA NÃO ALIMENTAR. INTERPRETAÇÃO DA REGRA CONTIDA NO ART. 833, IV e § 2º, DO CPC/2015. MATÉRIA AFETADA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.230 DO STJ. PENDÊNCIA DE JULGAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
