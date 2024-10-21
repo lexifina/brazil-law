@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por SONIA AIDA ARANA MANTARI contra a decisão que não admitiu recurso especial, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO na Apelação Criminal n. 0221431-45.2016.8.19.0001, assim ementado (fl. 295):
+APELAÇÃO CRIMINAL. PATRIMÔNIO. FURTO QUALIFICADO. CONCURSO DE PESSOAS. Autoria e materialidade comprovadas. Prova testemunhal coesa e harmônica. Reconhecimento da acusada como a autora da subtração do aparelho celular da vítima. Acusada que foi presa pelos policiais militares, ocasião em que apontou o lugar onde escondeu o bem subtraído, que foi recuperado. Concurso de agentes. Qualificadora baseada no conjunto probatório constante dos autos. Sanção inicial fixada um pouco acima do mínimo legal, em 03 anos de reclusão e 50 dias-multa. Regime semiaberto justificado pelas circunstâncias negativas. DESPROVIMENTO DO RECURSO.
+O Juízo de primeiro grau condenou a acusada como incursa no art. 155, § 4º, inciso IV, do Código Penal à pena de 03 (três) anos de reclusão, a ser cumprida em regime inicial semiaberto, e 50 (cinquenta) dias-multa (fls. 226-229).
+A Corte estadual negou provimento ao apelo defensivo (fls. 295-302).
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, a Defesa alega violação dos arts. 33, §§ 2º e 3º, 44, 59 e 68 do Código Penal ao argumento de que o fato de a acusada ter abandonado o processo, do que resultou a decretação de sua revelia, não justifica o incremento da pena-base, a fixação de regime mais gravoso que o previsto em lei e nem mesmo a negativa de substituição da pena privativa de liberdade por restritivas de direito.
+Acrescenta que deve ser afastada a majoração da pena basilar na fração de metade pela valoração negativa de uma única circunstância judicial.
+Contrarrazões às fls. 331-335.
+O Tribunal a quo inadmitiu o apelo especial por incidência das Súmulas n. 7 e 83 do STJ (fls. 337-347), fundamentos contras os quais se insurge a parte agravante (fls. 361-370).
+Parecer do Ministério Público Federal pelo não conhecimento do agravo (fls. 395-397).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+A pretensão recursal cinge-se à dosimetria da pena. Para melhor contextualizar, transcrevo os fundamentos da sentença, os quais foram integralmente referendados pela Corte estadual (fl. 228 - grifamos):
+Pelo exposto, JULGO PROCEDENTE a pretensão punitiva deduzida para condenar SONIA AIDA ARANA MANTARI por infração ao art. 155, §4", inciso IV, do Código Penal. Condeno, ainda, a ré ao pagamento das custas e taxa judicial incidente.
+Passo, assim, à dosimetria da pena, em estrita observância ao critério trifásico.
+1ª fase: Atento às diretrizes do art. 59 do Código Penal, fixo pena-base em 03 (três) anos de reclusão e 50 (cinquenta) dias-multa, esta fixada no mínimo legal, considerando que a ré abandonou o processo demonstrando com isso absoluto desprezo pelo Poder Judiciário e leis brasileiras, revelando com isso acentuado desvio de personalidade.
+2ª fase: Ausentes circunstâncias agravantes e atenuantes.
+3ª fase: Ausentes causas de aumento ou diminuição de pena.
+Fixo o regime inicial SEMIABERTO para cumprimento da pena prisional considerando que a ré abandonou o processo demonstrando com isso absoluto desprezo pelo Poder Judiciário e leis brasileiras, revelando com isso acentuado desvio de personalidade.
+Ipso facto, deixo de substituir a pena prisional por restritiva de direito já que a medida se revela insuficiente como resposta penal.
+Do excerto transcrito, percebe-se que a majoração da pena-base, na fração de metade, bem como a fixação do regime inicial semiaberto - mais gravoso que o previsto pela pena in concreto - e, ainda, a negativa de substituição da sanção privativa de liberdade por restritivas de direito se pautaram unicamente no fato de a acusada ter abandonado o processo.
+Ocorre que o direito de autodefesa no âmbito da persecução penal in iudicium, ao contrário do que ocorre com a escorreita atuação da defesa técnica, é faculdade que se confere ao acusado, motivo pelo qual sua recalcitrância em exercê-lo não constitui fundamento válido para o recrudescimento da sanção eventualmente aplicável.
+Nessa senda, há muito pacificou-se a jurisprudência do Superior Tribunal de Justiça:
+PENAL E PROCESSO PENAL. HABEAS CORPUS. 1. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO PRÓPRIO. NÃO CABIMENTO. 2. CRIME DE FRAUDE À LICITAÇÃO. ART. 90 DA LEI N. 8.666/1993. DOSIMETRIA DA PENA. CONDUTA SOCIAL E PERSONALIDADE. COMPORTAMENTO PROCESSUAL. IMPOSSIBILIDADE DE VALORAÇÃO. 3. REGIME DE CUMPRIMENTO DA PENA. CULPABILIDADE, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS NEGATIVAS. REGIME SEMIABERTO FUNDAMENTADO. 4. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO PARA REDUZIR A PENA PARA 3 ANOS DE DETENÇÃO.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. O comportamento do réu ou da sua defesa durante o processo não é circunstância apta a elevar a pena-base, uma vez que nenhuma das circunstâncias judiciais listadas no art. 59 do Código Penal alberga referida valoração. Ademais, conforme jurisprudência desta Corte, o "comportamento do réu no curso do processo e não pode ensejar a exasperação da pena-base" (HC 342.725/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 05/04/2016, DJe 18/04/2016). Portanto, deve ser afastada a análise negativa da personalidade e da conduta social.
+3. O regime semiaberto foi aplicado e mantido não apenas em virtude da quantidade de pena aplicada, que autorizaria, em tese, a fixação do regime aberto, mas, sim, em virtude da existência de circunstâncias judiciais negativas, as quais foram parcialmente mantidas. Dessarte, não é possível aplicar regime mais brando.
+4. Habeas corpus não conhecido. Ordem concedida de ofício para reduzir a pena para 3 anos de detenção, mantidos os demais termos da condenação. (HC 502870/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/09/2019, DJe de 17/09/2019 - grifamos)
+Incide, portanto, a Súmula n. 568/STJ, que dispõe que o relator poderá, monocraticamente, dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Passo, pois, à nova dosimetria da pena.
+Primeira fase - afastada a valoração negativa da vetorial relativa à personalidade da acusada e militando em seu favor todas as circunstâncias judiciais o art. 59 do Código Penal, fixo a pena-base no mínimo previsto para o tipo, qual seja, 02 (dois) anos de reclusão e 10 (dez) dias-multa.
+Segunda fase - não incidem agravantes ou atenuantes.
+Terceira fase - ausentes causas de aumento ou diminuição de pena, a sanção fica definitivamente estabelecida em 02 (dois) anos de reclusão e 10 (dez) dias-multa.
+A acusada é primária e em seu favor foram analisadas todas as circunstâncias judiciais, motivo pelo qual fixo o regime inicial aberto, nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+Presentes os requisitos do art. 44 do referido Codex, substituo a pena privativa de liberdade por duas restritivas de direito, a serem especificadas oportunamente pelo Juízo da Execução Penal.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de mitigar as reprimendas a 02 (dois) anos de reclusão, em regime inicial aberto, substituída por duas restritivas de direito, a serem especificadas pelo Juízo das Execuções P enais, além de 10 (dez ) dias-mult a.
+Publique-se e intimem-se.
+EMENTA
