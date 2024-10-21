@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Robenilton Mascarenhas da Silva, condenado pela prática do delito descrito no art. 333, caput, do Código Penal, à pena de 3 anos e 6 meses de reclusão, em regime inicial fechado, e ao pagamento de 17 dias-multa (Processo n. 0000150-47.2023.8.26.0560, da 2ª Vara Criminal e da Infância e Juventude da comarca de Votuporanga/SP).
+Aponta-se como autoridade coatora o Tribunal de Justiça de São Paulo, que deu parcial provimento ao recurso defensivo para reduzir a pena do réu a 2 anos, 8 meses e 20 dias de reclusão e 12 dias-multa, mantidos os demais termos da sentença.
+Aqui, alega-se ilegalidade na busca pessoal realizada pela autoridade policial, diante da inexistência de fundadas razões, justa causa, para a abordagem do réu.
+Subsidiariamente, aduz-se que o regime inicial de cumprimento de pena semiaberto era suficiente para o paciente, tendo em vista que fora condenado a pena inferior a 8 (oito) anos de reclusão (fl. 12).
+Requer-se seja reconhecida a ilegalidade da mencionada busca pessoal ou seja alterado o regime para cumprimento da condenação.
+É o relatório.
+O writ não merece ir adiante.
+No caso, houve a interposição de recurso especial na origem contra o acórdão da apelação e, diante do juízo negativo da admissibilidade, sobreveio, em 15/10/2024, o ajuizamento do respectivo agravo, ainda em processamento na Corte paulista .
+O habeas corpus não deve ser utilizado de forma desvirtuada, como meio de contornar as especificidades de tramitação do complexo sistema recursal existente no processo penal brasileiro.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+Ainda que assim não fosse, não enxergo constrangimento ilegal a ser reparado de ofício. Os elementos de convicção trazidos ao feito indicam a inexistência de mácula na ação policial.
+A propósito, consta da sentença que havia fundadas suspeitas a justificar a busca pessoal no ora paciente. Veja-se (fl. 28):
+ ..  os Policiais Militares narraram que viram o acusado, conhecido dos meios policiais, em um veículo no Posto Trevão, onde decidiram abordá-lo para conseguir informações sobre imagens postadas pelo mesmo em prática de furto em um imóvel rural da região, encontrando com o acusado bombas de águas suspeitas e, quando indagado, o réu teria oferecido dinheiro para se esquivar da prisão. Tal situação é apta a justificar a abordagem, considerando-se que na perspectiva dos militares havia suspeitas de que o acusado pudesse ser o autor de furto em um imóvel rural.
+Logo, considerando-se que os órgãos de segurança pública já tinham informações de que o acusado teria praticado um crime de furto, entendo que a abordagem não se deu em razão de mero tirocínio policial ou de impressões subjetivas por parte dos militares, mas sim de fatos objetivos consistentes em informações precisas e direcionadas.
+ ..
+A Corte estadual, corroborando essa conclusão, afirmou que os policiais detinham imagens de furto ocorrido no dia anterior envolvendo possivelmente o réu e o veículo que estava em sua posse, motivo suficiente para que entendessem pela existência de fundada suspeita de que ele trazia consigo algo ilícito, a ensejar a abordagem e realização de revista pessoal (fl. 21).
+Portanto, extrai-se do contexto fático exposto pelas instâncias antecedentes, a existência de fundadas razões para a abordagem do paciente e busca veicular, que decorreu de informações precisas e direcionadas (imagens de câmeras de segurança), tratando-se de dados objetivos, suficientes para chancelar a medida invasiva.
+Ademais, a revisão desse fato, para concluir pela ausência de justa causa na diligência, reclamaria o revolvimento das provas colhidas nos autos, providência inamissível na via eleita.
+Nesse sentido, por exemplo, o AgRg no HC n. 934.524/SC, Ministro Messod Azulay Neto, Quinta Turma, DJe 26/9/2024; o AgRg no HC n. 856.197/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 18/9/2024; e o HC n. 838.162/RS, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023.
+Por fim, reconhecida a reincidência do réu e presente circunstância judicial negativa, a jurisprudência desta Corte Superior é firme quanto a ser cabível o regime fechado para penas inferiores a 4 anos de reclusão (AgRg no AREsp n. 2.652.651/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/8/2024). Ainda, o AgRg nos EDcl no AREsp n. 2.592.660/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/8/2024; e o AgRg no AREsp n. 1.786.144/PR, Ministro Messod Azulay Neto, Quinta Turma, DJe 12/8/2024.
+Ante o exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO. INOBSERVÂNCIA DO PRINCÍPIO DA UNIRRECORRIBILIDADE. CORRUPÇÃO ATIVA. NULIDADE. BUSCA PESSOAL E VEICULAR ILEGAL. INEVIDÊNCIA. EXISTÊNCIA DE FUNDADA SUSPEITA. REGIME INICIAL FECHADO. CABIMENTO. MAUS ANTECEDENTES E REINCIDÊNCIA. AUSÊNCIA FLAGRANTE ILEGALIDADE.
+Writ indeferido liminarmente.
