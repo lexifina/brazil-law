@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 15/10/2024 a 21/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  IMÓVEL.  EXPROPRIAÇÃO.  MODIFICAÇÃO.  REGISTRO.  PRECLUSÃO.  FUNDAMENTO  NÃO  ATACADO.  SÚMULA  Nº  283/STF.  FUNDAMENTAÇÃO.  DEFICIÊNCIA.  SÚMULA  Nº  284/STF.  COISA  JULGADA.  PREQUESTIONAMENTO.  AUSÊNCIA.
+1.  Não  pode  ser  conhecido  o  recurso  especial  que  não  apresenta  impugnação  específica  dos  pressupostos  do  acórdão  recorrido,  atraindo  a  incidência,  por  analogia,  da  Súmula  nº  283/STF.
+2.  É  evidente  a  deficiência  na  fundamentação  recursal  quando  a  linha  argumentativa  invocada  pela  parte  se  mostra  divorciada  das  premissas  assentadas  pelo  acórdão  recorrido.  Incidência  da  Súmula  nº  284/STF.
+3.  No  tocante  à  coisa  julgada,  verifica-se  que  a  matéria  não  foi  objeto  de  debate  pelas  instâncias  ordinárias,  nem  sequer  de  modo  implícito,  e  embora  opostos  embargos  de  declaração  com  a  finalidade  de  sanar  omissão  porventura  existente,  não  indicou  a  recorrente  a  contrariedade  ao  art.  1022  do  Código  de  Processo  Civil.  Incide,  na  espécie,  o  disposto  na  Súmula  nº  211/STJ.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  TROPICAL  CLUBE  COMPLEXO  DE  LAZER  LTDA.  contra  a  decisão  (e-STJ  fls.  853/857)  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial.
+Naquela  oportunidade,  concluiu-se  pela
+ (i)  aplicação  das  Súmulas  nºs  283  e  284/STF;
+(ii)  ausência  de  prequestionamento,  e
+(iii)  incidência  da  Súmula  nº  7/STJ.
+Em  suas  razões  (e-STJ  fls.  861/869),  a  agravante  alega  que  ocorreu  o  prequestionamento  implícito  da  matéria.
+Alega  ser  inaplicável  as  Súmulas  nºs  283  e  284/STF,  pois  a  agravante  impugnou  os  argumentos  do  acórdão  recorrido,  defendendo  a  negativa  de  vigência  ao  art.  212  da  Lei  nº  6.015/1973,  visto  que  referido  dispositivo  de  lei  federal  obriga  que  os  registros  sejam  retificados  por  meio  de  procedimento  próprio.
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  IMÓVEL.  EXPROPRIAÇÃO.  MODIFICAÇÃO.  REGISTRO.  PRECLUSÃO.  FUNDAMENTO  NÃO  ATACADO.  SÚMULA  Nº  283/STF.  FUNDAMENTAÇÃO.  DEFICIÊNCIA.  SÚMULA  Nº  284/STF.  COISA  JULGADA.  PREQUESTIONAMENTO.  AUSÊNCIA.
+1.  Não  pode  ser  conhecido  o  recurso  especial  que  não  apresenta  impugnação  específica  dos  pressupostos  do  acórdão  recorrido,  atraindo  a  incidência,  por  analogia,  da  Súmula  nº  283/STF.
+2.  É  evidente  a  deficiência  na  fundamentação  recursal  quando  a  linha  argumentativa  invocada  pela  parte  se  mostra  divorciada  das  premissas  assentadas  pelo  acórdão  recorrido.  Incidência  da  Súmula  nº  284/STF.
+3.  No  tocante  à  coisa  julgada,  verifica-se  que  a  matéria  não  foi  objeto  de  debate  pelas  instâncias  ordinárias,  nem  sequer  de  modo  implícito,  e  embora  opostos  embargos  de  declaração  com  a  finalidade  de  sanar  omissão  porventura  existente,  não  indicou  a  recorrente  a  contrariedade  ao  art.  1022  do  Código  de  Processo  Civil.  Incide,  na  espécie,  o  disposto  na  Súmula  nº  211/STJ.
+4.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Verifica-se  que  não  merece  guarida  a  pretensão  recursal  no  que  diz  respeito  ao  afastamento  das  Súmulas  nºs  283  e  284/STF.
+No  caso,  a  recorrente  argui  que  o  acórdão  violou  o  art.  212  da  Lei  nº  6.015/1973,  ao  argumento  de  que  sendo  o  registro  omisso  em  relação  ao  recorrido,  este  deveria  ter  providenciado  o  pedido  de  retificação  e  somente  se  tal  pedido  fosse  deferido  é  que  poderia  o  recorrido  dar  prosseguimento  aos  atos  expropriatórios  do  bem.
+Aduziu,  ainda,  que  o  restabelecimento  de  uma  penhora  que  já  havia  sido  desconstituída  por  meio  de  sentença  transitada  em  julgado  claramente  viola  coisa  julgada.
+Com  efeito,  o  tribunal  local,  ao  decidir  a  controvérsia,  assim  se  pronunciou:
+"(..)
+Da  detida  apreciação  do  retrospecto  fático-processual  acima  traçado,  conclui-se  que  não  há  razão  que  justifique  a  modificação  do  entendimento  exarado  pela  douta  Magistrada  a  quo.
+Isso  porque,  realmente,  não  obstante  a  exequente  Janete  tenha  celebrado  acordo  com  a  executada,  ora  apelante,  esta  primeira  transação  teve  apenas  e  tão  somente  como  objeto  a,  não  havendo,  por  outro  lado,  renúncia  quanto  ao  próprio  crédito,  liberação  da  penhora  do  imóvel  tampouco  participação  de  Fernando,  ora  apelado,  enquanto  credor.
+Nesse  sentido,  nota-se  que  a  exequente  Janete  continuou  perseguindo  seu  crédito,  como  se  extrai  das  petições  de  mov.  16.1  e  53.1  da  execução  (autos  nº  0007299-15.2007.8.16.0017),  tendo  apresentado,  inclusive,  planilha  atualizada  do  débito  (mov.  108.1  dos  referidos  autos),  o  que  corrobora  a  conclusão  no  sentido  de  que  tinha  a  intenção  de  ver  satisfeita  a  dívida,  ainda  que  por  outros  meios  executivos  distintos  daquela  penhora.
+Aliás,  aqui  cabe  destacar  que,  a  partir  deste  momento,  cabia  à  executada,  se  entendesse  pertinente,  insurgir-se  quanto  à  continuidade  da  execução  em  relação  à  exequente  Janete,  porém,  não  o  fez,  deixando  para  se  manifestar  somente  agora,  8  anos  depois,  por  meio  de  ação  própria.
+As  alegações  da  apelante  no  sentido  de  que  a  penhora  é  nula,  assim  como  os  atos  posteriores  à  renúncia  da  exequente,  portanto,  não  se  sustentam,  porque  o  referido  ato  expropriatório  foi  regularmente  constituído,  sem  qualquer  insurgência  oportuna.
+Ademais,  como  bem  consignado  em  primeiro  grau,  o  simples  fato  de  o  apelado  não  ter  constado,  expressamente,  como  credor,  no  polo  ativo  da  execução  por  determinado  período  de  tempo,  não  altera  a  conclusão  adotada,  na  medida  em  que,  desde  o  começo  da  fase  executiva,  o  Dr.  Fernando  Ribas  apresentou-se  dessa  forma  nos  autos,  juntando,  inclusive,  planilhas  de  débito  (por  todos:  mov.1.17,  p.  06  -  autos  nº  0007299-15.2007.8.16.0017).
+Como  bem  consignado  na  r.  sentença,  "(..)  o  fato  é  que,  desde  o  início,  foi  solicitado  o  início  do  cumprimento  de  sentença  para  cobrança  do  débito  principal  e  dos  honorários.  O  fato  de  o  nome  do  advogado,  por  equívoco,  não  ter  sido  incluído  desde  logo  no  polo  advocatício  ativo,  não  exclui  o  fato  de  que  seu  crédito  está  sendo  executado  nos  autos  n.º  0007299-  15.2007.8.16.0017,  no  bojo  dos  quais  foi  deferida  penhora  do  imóvel  questionado.  Veja-se:  a  penhora  foi  deferida  naqueles  autos  para  garantir  o  recebimento  do  crédito  lá  perseguido,  o  que  incluía,  desde  (mov.  84.1,  p.  13  -  grifei)  o  início,  os  honorários  advocatícios  de  FERNANDO  RIBAS.
+Neste  ponto  também  cabe  destacar  que  não  houve,  em  nenhum  momento,  insurgência  da  ora  apelante  nos  autos  de  origem  quanto  à  qualidade  de  credor  do  ora  apelado.  Pelo  contrário,  como  dito,  a  parte  executada  reconheceu  expressamente  o  direito  de  Fernando,  comprometendo-se  com  o  pagamento  (mov.  141.1,  p.  05  dos  autos  nº  0007299-15.2007.8.16.0017).
+Mesmo  em  momento  posterior,  a  executada  deixou  de  se  manifestar  sobre  qualquer  nulidade,  como  já  destacado  e  também  como  consignado  pela  d.  magistrada  a  quo:  "Outrossim,  decididono  evento  169.1  que  os  autos  deveriam  prosseguir  quanto  a  FERNANDO  RIBAS  e  JANETE  VINHA"  (mov.  84.1,  p.  12)  VIZU,  a  parte  executada  não  se  insurgiu  quanto  à  decisão  (..)
+Diferentemente  do  que  afirma  a  apelante,  não  cabia  ao  exequente  requerer  a  modificação  do  registro,  mas  sim  a  ela  apresentar,  oportunamente,  eventual  impossibilidade  de  aproveitamento  da  penhora  em  favor  do  ora  apelado,  se  realmente  fosse  o  caso.
+Não  se  pode,  porém,  por  um  mero  preciosismo  exacerbado,  impedir  o  exercício  dos  direitos  legítimos  do  credor  apenas  em  razão  da  ausência  de  formalidades  que,  de  todo  modo,  não  modificariam,  tampouco  extinguiriam  a  existência  de  seu  crédito,  que,  repita-se,  foi  expressamente  reconhecido  pela  parte  executada.
+Conforme  determina  o  art.  278  do  Código  de  Processo  Civil,  "A  nulidade  dos  atos  deve  ser  alegada  na  primeira  oportunidade  em  que  couber  à  parte  falar  nos  autos,  sob  pena  de  preclusão",  o  que,  como  exaustivamente  exposto,  não  ocorreu  no  presente  caso.
+Nessa  ordem  de  ideias,  é  possível  concluir  operou-se  a  preclusão  quanto  às  alegações  da  apelante,  que  deixou  de  apresentá-  las  em  momento  oportuno.
+Além  disso,  conforme  se  extrai  dos  julgados  acima  citados,  para  o  reconhecimento  de  eventual  nulidade  é  necessário  que  a  parte  que  a  alega  indica  no  que  consiste,  efetivamente,  o  prejuízo  suportado,  o  que  não  ocorreu  nem  brevemente  no  presente  caso"  (e-STJ  fls.  719/722  -  grifou-se).
+Nesse  contexto,  os  fundamentos  do  referido  julgado  não  foram  objeto  de  impugnação  pela  agravante,  atraindo  a  incidência  da  Súmula  nº  283/STF,  aplicada  por  analogia:  "É  inadmissível  o  recurso  extraordinário,  quando  a  decisão  recorrida  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles."
+Confira-se:
+"PROCESSUAL  CIVIL.  AGRAVO  REGIMENTAL.  AGRAVO  DE  INSTRUMENTO.  AUSÊNCIA  DE  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DO  ACÓRDÃO  RECORRIDO.  SÚMULA  N.  283/STF.  DISSÍDIO  JURISPRUDENCIAL.  AUSÊNCIA  DE  COMPROVAÇÃO.  NÃO-REALIZAÇÃO  DO  COTEJO  ANALÍTICO.
+1.  A  ausência  de  impugnação  dos  fundamentos  do  acórdão  recorrido  que  são  suficientes  para  mantê-lo  enseja  o  não-conhecimento  do  recurso.  Incidência  da  Súmula  n.  283  do  STF.
+(..)
+3.  Agravo  regimental  desprovido"  (AgRg  no  Ag  1.109.816/DF,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  4/6/2009,  DJe  15/6/2009).
+Assim,  encontrando-se  as  razões  recursais  dissociadas  dos  fundamentos  do  julgado  atacado,  incide  o  disposto  na  Súmula  nº  284/STF.
+A  propósito:
+"AGRAVO  INTERNO.  AGRAVO.  RAZÕES  RECURSAIS  DISSOCIADAS  DO  QUE  RESTOU  DECIDIDO  NA  DECISÃO  AGRAVADA.  SÚMULAS  283  E  284/STF.  AGRAVO  IMPROVIDO.
+1.-  Estando  as  razões  do  Agravo  Interno  dissociadas  do  que  restou  decidido  na  Decisão  agravada,  é  inadmissível  o  recurso  por  deficiência  na  sua  fundamentação.  Incidência,  por  analogia,  das  Súmulas  283  e  284  do  Supremo  Tribunal  Federal.
+2.-  Agravo  Regimental  improvido"  (AgRg  no  AREsp  279.074/RS,  Rel.  Ministro  SIDNEI  BENETI,  Terceira  Turma,  julgado  em  19/3/2013,  DJe  25/4/2013).
+Por  fim,  em  relação  à  coisa  julgada,  verifica-se  que  a  matéria  não  foi  objeto  de  debate  pelas  instâncias  ordinárias,  nem  sequer  de  modo  implícito,  e  embora  opostos  embargos  de  declaração  com  a  finalidade  de  sanar  omissão  porventura  existente,  a  recorrente  deixou  de  apontar,  na  petição  do  recurso  especial,  eventual  violação  do  art.  1.022  do  Código  de  Processo  Civil,  a  fim  de  que  esta  Corte  pudesse  averiguar  a  existência  de  possível  omissão  no  julgado  quanto  ao  tema.
+Inafastável,  portanto,  a  incidência  da  Súmula  nº  211/STJ.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  DECLARATÓRIA  C/C  PEDIDO  CONDENATÓRIO  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  DA  PARTE  DEMANDADA.
+1.  A  ausência  de  enfrentamento  da  matéria  pelo  Tribunal  de  origem,  não  obstante  a  oposição  de  embargos  de  declaração,  impede  o  acesso  à  instância  especial,  porquanto  não  preenchido  o  requisito  constitucional  do  prequestionamento.  Incidência  da  Súmula  211  do  STJ.
+2.1  In  casu,  deixou  a  parte  recorrente  de  apontar,  nas  razões  do  apelo  extremo,  a  violação  do  artigo  1.022  do  CPC/15,  a  fim  de  que  esta  Corte  pudesse  averiguar  a  existência  de  possível  omissão  no  julgado  quanto  ao  tema.
+2.2.  Esta  Corte  admite  o  prequestionamento  implícito  dos  dispositivos  tidos  por  violados,  desde  que  as  teses  debatidas  no  apelo  nobre  sejam  expressamente  discutidas  no  Tribunal  de  origem,  o  que  também  não  ocorreu  na  hipótese.
+3.  Rever  o  entendimento  do  Tribunal  de  origem,  na  forma  como  posta  nas  razões  do  apelo  extremo,  ensejaria  em  rediscussão  de  matéria  fática  e  interpretação  das  cláusulas  contratuais,  providências  vedadas  nessa  instância  especial  pelas  Súmulas  5  e  7  do  STJ.  Precedentes.
+4.  Agravo  interno  desprovido"  (AgInt  no  AREsp  1.987.469/RJ,  Rel.  Ministro  MARCO  BUZZI,  Quarta  Turma,  julgado  em  25/4/2022,  DJe  de  29/4/2022).
+Desse  modo,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
