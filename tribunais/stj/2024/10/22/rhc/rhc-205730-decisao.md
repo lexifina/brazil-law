@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por JEFERSON DOS REIS GONCALVES DA COSTA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC nº 1.0000.24.391894-3/000).
+O recorrente foi preso em flagrante em 24/07/2024, com posterior conversão da prisão em preventiva, pela suposta prática do crime previsto no art. 16 da Lei 10.826/03 (posse ilegal de arma de fogo e munições de uso restrito).
+O habeas corpus impetrado pela defesa foi denegado por meio de acórdão assim ementado (e-STJ fl. 410):
+HABEAS CORPUS. POSSE ILEGAL DE ARMA DE FOGO E MUNIÇÕES DE USO RESTRITO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PRESENÇA DOS REQUISITOS DOS ARTIGOS 312 E 313 DO CPP. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. ALEGADA IMPRESCINDIBILIDADE DO PACIENTE PARA O SUSTENTO DA FAMÍLIA. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA. - Cabível a prisão preventiva quando satisfeitos os requisitos dos artigos 312 e 313 do Código de Processo Penal. - A recalcitrância delitiva do paciente indica sua periculosidade concreta e, assim, justifica a prisão preventiva para a garantia da ordem pública. - Para que haja a substituição da prisão preventiva em virtude da paternidade, deve restar comprovada por meio de prova pré-constituída a imprescindibilidade do paciente para os cuidados dos filhos menores.
+A defesa alega, em síntese: a) ausência de provas suficientes de autoria e materialidade delitivas; b) deficiência de fundamentação do decreto de prisão preventiva; c) há possibilidade de substituição da prisão cautelar por medidas diversas.
+Requer, liminarmente e no mérito, o provimento do recurso para que seja concedida a liberdade provisória ao recorrente mediante imposição de medidas cautelares diversas.
+É o relatório.
+Decido.
+A matéria relativa à ausência de provas de autoria e materialidade não foi apreciada no acórdão recorrido. Assim, para não incorrer em supressão de instância, esta Corte não pode conhecer quanto ao ponto.
+O Tribunal de origem assim se manifestou sobre a manutenção da prisão preventiva (e-STJ fls. 360-371, grifos acrescidos):
+Detidamente examinados os autos, entendo que razão não lhe assiste. Colige-se da denúncia (doc. n.º 09) que, em cumprimento a mandado de busca e apreensão na residência do paciente, policiais militares apreenderam um revólver calibre .38, municiado com seis munições calibre .357 magnum.
+A despeito das alegações deduzidas na impetração, verifico que a decisão que converteu a prisão em flagrante em preventiva apresentou fundamentos concretos e suficientes para justificar a medida, nos ditames dos artigos 312 e 313 do CPP:
+ ..
+Como bem apontado pelo douto magistrado singular e conforme se depreende da certidão de antecedentes criminais em doc. n.º 17, o paciente ostenta duas condenações transitadas em julgado recentes, por outros delitos do Estatuto do Desarmamento, além de receptação e corrupção de menores (autos de n.º 0039681-25.2017.8.13.0363 e 046811-03.2016.8.13.0363).
+A propósito, a reiteração delitiva indica a periculosidade concreta do paciente e justifica a decretação da prisão preventiva para a garantia da ordem pública.
+ ..
+Quanto à afirmação de que o paciente provê aos seus filhos, observo que os autos não foram constituídos com provas de que ele é o único responsável pelo cuidado das crianças, muito embora a impetração tenha comprovado a paternidade por meio das certidões de nascimento juntadas em doc. n.º 04.
+Existem, assim, fundadas razões a ensejar a imposição da custódia, ao menos por ora, tendo em vista a necessidade de se resguardar a ordem pública, não havendo que se falar em fixação de medidas cautelares diversas da prisão.
+ ..
+Vale salientar que a prisão provisória mantida não infringe o princípio constitucional da presunção de inocência, por ter caráter meramente cautelar, e se justifica pela presença dos requisitos contidos nos arts. 312 e 313 do CPP.
+Destarte, tenho que a providência mais acertada é a manutenção da prisão preventiva, até porque tal medida de exceção poderá ser revista e revogada, a qualquer tempo, se desaparecerem os motivos que a ensejaram.
+A custódia encontra-se fundamentada na garantia da ordem pública, visando evitar a reiteração delitiva, uma vez que, conforme destacado pelo Tribunal de origem, o recorrente é reincidente, estando, na data do suposto fato, em cumprimento de pena.
+Nos termos da jurisprudência desta Corte, justifica-se a prisão preventiva fundada na garantia da ordem pública "quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC 771.822/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe de 19/12/2022; AgRg no HC 711.406/RS, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. DECISÃO MONOCRÁTICA DO RELATOR. POSSIBILIDADE. ART. 34, XX, DO RISTJ E SÚMULA N. 568/STJ. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AUSÊNCIA DE PARECER MINISTERIAL. FUNÇÃO DE CUSTOS LEGIS. NÃO OCORRÊNCIA DE NULIDADE. FURTO QUALIFICADO. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. INCABÍVEL A APLICAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS.
+ ..
+3. Justifica-se a imposição da prisão preventiva do agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública. Precedentes.
+4. Estando a prisão preventiva devidamente fundamentada em elementos concretos, evidenciados na reiteração delitiva, salientando-se que o paciente, ora agravante, possui antecedentes infracionais e é reincidente pelo delito de roubo, não há manifesta ilegalidade.
+5. Agravo regimental des provido.
+(AgRg no RHC n. 187.877/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024.)
+Por fim, o acórdão recorrido está em consonância com a jurisprudência desta Corte acerca da irrelevância de condições subjetivas favoráveis no exame de adequação da prisão, se a conclusão é de que as medidas alternativas do art. 319 do Código de Processo Penal mostram-se insuficientes para garantia da ordem pública (AgRg no RHC 172.175/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022; AgRg no HC 756.743/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe de 7/12/2022; AgRg no HC 770.592/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022).
+Ante o exposto, conheço em parte do recurso ordinário em habeas corpus e, na parte conhecida, nego-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
