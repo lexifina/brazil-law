@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ANA CARLA DE LEMOS BATISTA e OUTROS se insurgiram, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE assim ementado (fls. 784/785):
+EMENTA: ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO POPULAR. DECISÃO QUE INDEFERIU PEDIDO LIMINAR. AGRAVO DE INSTRUMENTO. PEDIDO DE SUSPENSÃO DOS EFEITOS DE PORTARIA QUE CONVOCOU E NOMEOU CANDIDATOS. POSSIBILIDADE NOMEAÇÃO DOS APROVADOS DURANTE TODO O PRAZO DE VALIDADE DO CERTAME. DESNECESSIDADE DE PREVISÃO EXPRESSA DE CADASTRO DE RESERVA. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+1. É possível a nomeação de candidatos aprovados em concurso público durante todo o seu prazo de validade, inexistindo exigência legal de que o edital preveja cadastro de reserva para nomear aqueles fora do número de vagas previsto.
+2. Não estando comprovada a ocorrência de preterição de ordem de classificação, não há que se falar em prática de ato ilícito lesivo ao patrimônio público.
+3. Precedente (TJ-SC - AC: 20120340626 Capital 2012.034062-6, Relator: Júlio César Knoll, Data de Julgamento: 30/04/2015, Quarta Câmara de Direito Público).
+4. Agravo de instrumento conhecido e desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 843/845).
+Nas razões de seu recurso especial, a parte recorrente, além de dissídio jurisprudencial, sustenta a violação dos arts. 223, § 1º, 313, 489, § 1º, IV e VI, 937, VIII, e 1.022, II, parágrafo único, II, do Código de Processo Civil (CPC). Alega:
+(1) a existência de negativa de prestação jurisdicional, porquanto "o Juízo a quo omitiu- se quanto aos precedentes colacionados ao agravo, sem aplicar distinguishing e/ou overruling, de sorte que o decisum não poderá ser considerado como fundamentado" (fl. 878), bem como "o Tribunal a quo omitiu-se no tocante ao enfrentamento da temática 784 de Repercussão Geral do Supremo Tribunal Federal" (fl. 885);
+(2) "o julgamento do v. acórdão ora Recorrido se deu em flagrante violação aos arts. 223, § 1º, 313 e 937, inciso VIII, do CPC, devendo SER ANULADO pela ausência do advogado dos Recorrentes na sessão do dia 01/02/2022 por ostentar quadro clínico compatível com os sintomas da Covid-19, inviabilizando a sustentação oral devidamente requerida, e, outrossim, caracterizando o cerceamento o direito de defesa dos Agravantes" (fl. 888).
+Requer o acolhimento da pretensão recursal para que seja reconhecida a violação dos arts. 489 e 1.022 do CPC ou, alternativamente, a cassação do "acórdão recorrido, determinando novo julgamento garantido o direito da parte e seu causídico a deduzirem suas razões em sustentação oral" (fl. 902)
+A parte adversa apresentou contrarrazões (fls. 913/918).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Verifico que inexiste a alegada violação dos arts. 489, § 1º, IV e VI, e 1.022, II, parágrafo único, II, do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de omissão.
+Na presente hipótese, observo que o Tribunal de origem resolveu a controvérsia ao assentar que (fl. 847):
+12. Do mesmo modo, a parte embargante não logrou demonstrar a existência de prejuízo no tocante à ausência de apreciação dos aclaratórios de Id. 12003046, uma vez que diziam respeito à tutela liminar recursal, ao passo que o acórdão já decidiu sobre o mérito propriamente dito do agravo de instrumento.
+13. Finalmente, conforme relatado, a parte embargante aponta a existência de omissão no tocante aos precedentes transcritos, além do Tema 784 do STF, fixado em repercussão geral
+14. A esse respeito, tampouco houve qualquer omissão, de maneira que a irregularidade apontada se materializa na forma de pretensa rediscussão da matéria relativa já devidamente analisada pela Segunda Câmara Cível.
+15. Trata-se, na realidade, de inconformismo da parte embargante diante dos fundamentos da decisão, objetivando que seja modificada, não só em sua conclusão, como também no que se refere à ratio decidendi, efeitos para os quais não se prestam os presentes embargos declaratórios, devendo a parte, querendo, valer-se das ferramentas recursais dirigidas a órgão julgador diverso.
+Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Quanto ao pedido de adiamento da sessão de julgamento, o Tribunal de origem assim se manifestou (fls. 846/847):
+10. No caso concreto, embora a parte agravante aponte para a existência de omissão quanto ao pedido de adiamento da sessão de julgamento, a mesma não apontou, de forma objetiva, de que modo teria ocorrido seu prejuízo. Ou seja, não conseguiu demonstrar que o resultado teria sido diferente caso tivesse sido deferido seu pedido de adiamento para fins de sustentação oral.
+11. A respeito, vale prestigiar o brocárdio pas de nullité sans grief, isto é, não existe nulidade sem comprovação do prejuízo.
+A jurisprudência deste Tribunal Superior é firme no sentido de que a nulidade somente deve ser declarada quando demonstrado o efetivo prejuízo à parte, em decorrência da máxima pas de nullité sans grief, o que não ocorreu no caso dos autos. Cito os seguintes precedentes:
+PROCESSUAL CIVIL . AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LAUDO PERICIAL. FORMAÇÃO DA CONVICÇÃO DO JUÍZO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECONHECIMENTO DA NULIDADE DA PERÍCIA. EFETIVA DEMONSTRAÇÃO DO PREJUÍZO. PRÍNCIPIO DO PAS DE NULLITÉ SANS GRIEF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. PROVIMENTO NEGADO.
+1. O Tribunal a quo concluiu, com base nos fatos e nas provas dos autos, que o laudo pericial havia se mostrado hábil a formar sua convicção, uma vez que fora realizado por profissional de confiança, e que era prescindível a realização da perícia por perito especializado ante a baixa complexidade da prova técnica. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, o que é vedado na instância especial ante o óbice da Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+2. Para o reconhecimento da nulidade da perícia, faz-se necessária a efetiva demonstração de prejuízo sofrido pela parte interessada, em respeito ao princípio do pas de nullité sans grief.
+3. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.984.352/SP, de minha relatoria, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. AGENTE DE POLÍCIA CIVIL. EDITAL SAEB 001/1997. AUSÊNCIA DE INTERVENÇÃO DO MINISTÉRIO PÚBLICO. NÃO DEMONSTRAÇÃO DE PREJUÍZO. PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INEXISTÊNCIA DE PREJUÍZO VERIFICADA PELO TRIBUNAL DE ORIGEM COM BASE NO ACERVO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+ ..
+5. A jurisprudência do STJ é firme no sentido de que, sem a demonstração de prejuízo concreto à parte que alega o vício, não há falar em nulidade do ato, conforme o princípio pas de nullité sans grief.
+6. Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 1.675.485/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/9/2020, DJe de 15/10/2020.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
