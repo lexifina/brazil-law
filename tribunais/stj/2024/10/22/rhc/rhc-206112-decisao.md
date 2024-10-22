@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por ELIEZIO OLIVERIRA DE BRITO contra acórdão oriundo do Tribunal de Justiça do Estado do Piauí (HC n. 0757929-35.2024.8.18.0000).
+Consta dos autos que foi decretada prisão preventiva do recorrente, o qual foi ainda denunciado como supostamente incurso no art. 157, § 2º, I e II, do Código Penal.
+Impetrado prévio writ na origem, o Tribunal estadual denegou a ordem de habeas corpus, nos termos da seguinte ementa (e-STJ fl.387):
+HABEAS CORPUS. PROCESSO PENAL. ROUBO. AUSÊNCIA DE FUNDAMENTAÇÃO. CONTEMPORANEIDADE. REVOGAÇÃO DE PRISÃO PREVENTIVA. ORDEM DENEGADA. 1. Não há óbice em conhecer da impetração que se insurge contra decisão proferida posteriormente às dos Habeas Corpus anteriormente impetrados. 2. A decisão do magistrado se pautou na ausência de fatos novos que modifiquem a situação prisional do paciente, não havendo que se falar em ausência de fundamentação idônea, observando-se que, se tratando de decisão que reavalia a necessidade da prisão, nos termos do art. 316 do CPP, se os motivos ensejadores desta se mantêm inalterados, deve ser mantida a prisão preventiva, observando-se o princípio Rebus Sic Stantibus. 2. Com relação à contemporaneidade, é de se ressaltar que o paciente continua foragido, evadindo-se da aplicação penal. Portanto, não há que se falar em ausência de contemporaneidade quando o decurso do prazo entre o suposto crime e o cumprimento da medida constritiva não se deu somente pelo fato do paciente evadir-se da aplicação penal desde 2018. 3. Ordem conhecida e denegada, em dissonância com o parecer ministerial.
+No presente recurso, a defesa aduz não estar a constrição cautelar devidamente fundamentada, uma vez que não declinou concretamente os requisitos autorizadores do art. 312 do Código de Processo Penal, além de não haver contemporaneidade da medida em relação aos fatos.
+É, em síntese, o relatório. Decido.
+A presente insurgência é mera reiteração do pedido constante do HC n. 864.392/PI, impetrado em favor do recorrente e que, a despeito de impugnar acórdão diverso, volta-se contra o mesmo decreto prisional lá examinado.
+Extrai-se dos autos que não houve alteração dos fundamentos que justificaram a prisão cautelar já examinada por esta Corte Superior, de modo que esse tipo de pretensão não pode ser formulado reiteradas vezes sem alteração de seu substrato fático e motivacional, já que a causa de pedir não se renova automaticamente pelo simples passar do tempo.
+Assim, cuida-se de inaceitável reiteração de pedido.
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
