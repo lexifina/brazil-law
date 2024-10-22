@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO. NULIDADE. INTIMAÇÃO PESSOAL DO DEFENSOR DATIVO. SENTENÇA CONDENATÓRIA QUE TRANSITOU EM JULGADO EM 2017. VÍCIO ARGUÍDO EM 2023. NULIDADE DE ALGIBEIRA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A intimação pessoal do defensor público ou de quem exerça tal encargo (in casu, o defensor dativo) é prerrogativa que foi introduzida no ordenamento jurídico pátrio pela Lei n. 1.060/1950, em seu art. 5º, § 5º, acrescentado pela Lei n. 7.871, de 8 de novembro de 1989. Dispõe, ainda, o art. 370, § 4º, do Código de Processo Penal, que a intimação do Ministério Público e do defensor nomeado será pessoal, constituindo, por conseguinte, prerrogativa do defensor dativo a intimação pessoal de todos os atos do processo.
+2. Neste caso, o advogado dativo foi intimado eletronicamente da sessão de julgamento da apelação em 11 de julho de 2017. Não há notícia de que a defesa tenha apresentado pedido de sustentação oral. O julgamento ocorreu em 19 de julho de 2017. O vício somente foi arguído em 2023, o que caracteriza a chamada nulidade de algibeira, que é o vício que, embora possa ser logo levada a conhecimento da autoridade judiciária, deixa de ser alegada pela parte interessada, como estratégia, numa perspectiva de melhor conveniência futura. Tal comportamento, contudo, não é tolerado pelo processo penal brasileiro, que se guia pelo princípio da boa-fé objetiva.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIZ CARLOS LEANDRO ALVES, nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça, contra decisão que não conheceu do habeas corpus substitutivo de recurso especial impetrado em face de acórdão do Tribunal de Justiça do Estado de Mato Grosso, proferido no julgamento da Revisão Criminal n. 1027408-63.2023.8.11.0000.
+Em suas razões, a defesa reitera os argumentos em favor do reconhecimento da nulidade da intimação do advogado dativo por meio do Diário de Justiça Eletrônico, o que causou prejuízos ao ora agravante, que somente tomou conhecimento do trânsito em julgado de sua condenação em 2023, quando foi preso.
+Diante disso, requer a reconsideração da decisão impugnada ou, subsidiariamente, a apresentação deste feito à Quinta Turma.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO. NULIDADE. INTIMAÇÃO PESSOAL DO DEFENSOR DATIVO. SENTENÇA CONDENATÓRIA QUE TRANSITOU EM JULGADO EM 2017. VÍCIO ARGUÍDO EM 2023. NULIDADE DE ALGIBEIRA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A intimação pessoal do defensor público ou de quem exerça tal encargo (in casu, o defensor dativo) é prerrogativa que foi introduzida no ordenamento jurídico pátrio pela Lei n. 1.060/1950, em seu art. 5º, § 5º, acrescentado pela Lei n. 7.871, de 8 de novembro de 1989. Dispõe, ainda, o art. 370, § 4º, do Código de Processo Penal, que a intimação do Ministério Público e do defensor nomeado será pessoal, constituindo, por conseguinte, prerrogativa do defensor dativo a intimação pessoal de todos os atos do processo.
+2. Neste caso, o advogado dativo foi intimado eletronicamente da sessão de julgamento da apelação em 11 de julho de 2017. Não há notícia de que a defesa tenha apresentado pedido de sustentação oral. O julgamento ocorreu em 19 de julho de 2017. O vício somente foi arguído em 2023, o que caracteriza a chamada nulidade de algibeira, que é o vício que, embora possa ser logo levada a conhecimento da autoridade judiciária, deixa de ser alegada pela parte interessada, como estratégia, numa perspectiva de melhor conveniência futura. Tal comportamento, contudo, não é tolerado pelo processo penal brasileiro, que se guia pelo princípio da boa-fé objetiva.
+3. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo e preenche os demais requisitos formais exigidos pelo art. 1.021 do Código de Processo Civil e art. 258 do Regimento Interno do Superior Tribunal de Justiça.
+A defesa sustenta a nulidade do acórdão, pois o advogado dativo não teria sido intimado pessoalmente da data de sessão de julgamento do recurso manejado contra a sentença condenatória.
+Sobre o tema, reproduzo a decisão impugnada, no que interessa à espécie (e-STJ fls. 894-896):
+É cediço que a intimação pessoal do defensor público ou de quem exerça tal encargo (in casu, o defensor dativo) é prerrogativa que foi introduzida no ordenamento jurídico pátrio pela Lei n. 1.060/1950, em seu art. 5º, § 5º, acrescentado pela Lei n. 7.871, de 8 de novembro de 1989. Dispõe, ainda, o art. 370, § 4º, do Código de Processo Penal, que a intimação do Ministério Público e do defensor nomeado será pessoal, constituindo, por conseguinte, prerrogativa do defensor dativo a intimação pessoal de todos os atos do processo.
+Tem-se, ainda, que a jurisprudência dos Tribunais Superiores pacificou o entendimento de que, por implicar violação do direito à ampla defesa, a ausência de intimação pessoal do Defensor Público ou de quem assumir tal encargo (defensor dativo), constitui nulidade absoluta.
+(..)
+Sobre esse tema, destaco que, nos termos do art. 5º da Lei n. 11.419/2006 e do art. 21 da Resolução n. 185/2013, do Conselho Nacional de Justiça, nos processos judiciais eletrônicos, a intimação dos atos processuais se aperfeiçoa com a consulta eletrônica realizada pela parte, que deve ocorrer em até dez dias corridos, contados a partir da data de envio da comunicação.
+Essa previsão se aplica inclusive às entidades que gozam da prerrogativa de notificação pessoal, tal como a Defensoria Pública. Neste caso Tribunal de Justiça informou que o advogado foi intimado eletronicamente da sessão de julgamento da apelação em 11 de julho de 2017. Não há notícia de que a defesa apresentou pedido de realização de sustentação oral. O julgamento ocorreu em 19 de julho de 2017 (e-STJ, fls. 833-834).
+Além disso, verifica-se que o alegado vício ocorreu em 2017 e somente foi alegado em sede de revisão criminal, em 2023, quase seis anos após o trânsito em julgado da sentença condenatória.
+Ocorre que esta é uma prática não admitida pelo ordenamento jurídico, que não tolera a chamada nulidade de algibeira, qual seja, aquela que, tão logo possa ser levada a conhecimento da autoridade judiciária, deixa de ser alegada pela parte interessada, como estratégia, numa perspectiva de melhor conveniência futura. Ao proceder dessa maneira, viola-se o princípio da boa-fé objetiva que norteia o sistema processual vigente, que se baseia na lealdade e cooperação dos sujeitos envolvidos na relação jurídico-processual.
+Desse modo, as pretensões formuladas não encontram amparo na jurisprudência desta Corte Superior ou na legislação penal, de maneira que não se constata qualquer constrangimento ilegal apto a autorizar a concessão da ordem de habeas corpus.
+Diante do exposto, nego provimento a este agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+RELATOR
