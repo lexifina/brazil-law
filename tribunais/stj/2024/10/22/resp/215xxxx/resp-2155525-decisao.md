@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALEXANDRO GOMES FERREIRA DA SILVA contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ.
+Em primeiro grau, o recorrente foi condenado às penas de 01 (um) ano de reclusão, e pagamento de 10 (dez) dias-multa, em razão das práticas delitivas capituladas no artigo 155, caput, do Código Penal.
+Em segunda instância, o Tribunal de origem, por unanimidade, negou provimento  à  apelação  defensiva (fls. 451-458).
+Inconformada, a defesa interpõe recurso especial (fls. 460-469) para, com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, alegar violação ao art. 65, incisos I e III, alínea d, do Código Penal.
+Por fim, pugna pelo conhecimento e provimento do recurso especial nos seguintes termos:
+"(..) Ante todo o exposto, o réu espera e requer que este Augusto Superior Tribunal de Justiça, com a sabedoria e o senso de Justiça que são inerentes, conheça do Recurso Especial e, no mérito, lhe dê provimento para, reformando o v. Acórdão, readequar a pena do recorrente, ante a afronta ao art. 65, inc. III, alínea "d", do Código Penal."
+Apresentadas as contrarrazões (fls. 471-476), o recurso foi admitido na origem (fls. 409-414) e os autos encaminhados a esta Corte Superior.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do recurso especial (fls. 477-482).
+É o relatório. DECIDO.
+A controvérsia consiste em perquirir a aplicabilidade da Súmula nº 231/STJ, que prevê: "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+Segundo a Defesa, o Tribunal de origem teria negado vigência ao disposto no art. 65, caput, do Código Penal, uma vez que, na segunda fase da dosimetria da pena, o reconhecimento de circunstância atenuante deveria reduzi-la abaixo do mínimo legal (atenuantes da menoridade e/ou da confissão).
+Assim, porém, não deve ser.
+Inicialmente, da leitura do acórdão recorrido, observo que o Tribunal de origem, quanto ao ponto, aplicou a supracitada Súmula nº 231 desta Corte, mantendo a pena-base em seu mínimo legal, ante a impossibilidade de reduzi-la abaixo deste patamar.
+Irretocável a decisão.
+Embora a Sexta Turma tenha aprovado a proposta de revisão da jurisprudência consolidada na Súmula n. 231/STJ, a Terceira Seção acabou por rejeitar a superação do enunciado e proferiu a seguinte decisão, na data de 14/08/2024:
+"Retomado o julgamento, após o voto-vista antecipado divergente do Sr. Ministro Messod Azulay Neto, rejeitando o cancelamento do enunciado da Súmula 231 e, por conseguinte, negando provimento ao recurso especial, no que foi acompanhado pelos Srs. Ministros Reynaldo Soares da Fonseca, Antonio Saldanha Palheiro, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT), e os votos da Sra. Ministra Daniela Teixeira e dos Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Sebastião Reis Júnior, acompanhando o voto do Sr. Ministro Rogerio Schietti Cruz (Relator), dando provimento ao recurso especial, para acolher a tese segundo a qual a incidência da circunstância atenuante pode conduzir à redução da pena abaixo do mínimo legal, com o consequente cancelamento da Súmula 231, a Terceira Seção, por maioria, rejeitou o cancelamento do enunciado da Súmula 231 deste Superior Tribunal de Justiça e, por conseguinte, negou provimento ao recurso especial, nos termos do voto do Sr. Ministro Messod Azulay Neto, que lavrará o acórdão."
+Em diretriz coincidente, sobre o crime de roubo:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. ATENUANTES DA CONFISSÃO ESPONTÂNEA E DA MENORIDADE RELATIVA. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231/STJ. PLEITO DE SOBRESTAMENTO DO FEITO. AUSÊNCIA DE PREVISÃO LEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A presença de circunstância atenuante, como a confissão espontânea e a menoridade relativa, não pode conduzir à redução da pena para aquém do mínimo legal, conforme dispõe a Súmula n. 231 deste Tribunal Superior.
+2. "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)." (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+3. Agravo regimental desprovido." (STJ - AgRg no AREsp: 2509465 SP 2023/0411741-7, Relator: Ministro ANTONIO SALDANHA PALHEIRO, Data de Julgamento: 18/06/2024, T6 - SEXTA TURMA, Data de Publicação: DJe 20/06/2024)
+Dessarte, verifico que, no caso, não comporta reparo o acórdão impugnado, porquanto adotou compreensão da controvérsia que se encontra em total compasso com a jurisprudência atual desta Corte Superior, a qual continua a reconhecer a plena aplicabilidade do enunciado sumular objeto da impugnação apresentada pela Defesa.
+Assim, considerando que o acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior de Justiça sobre o tema, incide, no caso, a Súmula n. 568, STJ: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 255, § 4º, inciso II, do Regimento Interno do STJ, conheço do recurso especial para negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PENAL. PROCESSO PENAL. FURTO. ATENUANTE DA MENORIDADE. ATENUANTE DA CONFISSÃO. ART. 65, INCS. I E III, ALÍNEA "D" DO CÓDIGO PENAL. PLEITO DE REDUÇÃO DA PENA A PATAMAR INFERIOR AO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231/STJ. PLENA APLICABILIDADE. PRECEDENTES. RECURSO ESPECIAL DESPROVIDO.
