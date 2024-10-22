@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONDOMÍNIO RESIDENCIAL ILHAS DO NORTE, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça de Santa Catarina (Agravo de Instrumento n. 5075755-96.2023.8.24.0000) nos autos de cumprimento de sentença.
+O julgado foi assim ementado (fl. 50):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. TAXAS CONDOMINIAIS. DECISÃO INTERLOCUTÓRIA QUE INDEFERIU A PENHORA DO IMÓVEL GERADOR DO DÉBITO. RECURSO DO EXEQUENTE. ALEGADA POSSIBILIDADE DE PENHORA DO BEM POR DÍVIDA PROPTER REM. INSUBSISTÊNCIA. IMÓVEL COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. EXEGESE DOS ARTS. 789 E 824 DO CPC, 22, 23 E 25 DA LEI 9.514/1997 E 1.368-B DO CC. POSSIBILIDADE DE PENHORA APENAS DOS DIREITOS AQUISITIVOS DERIVADOS DA ALIENAÇÃO (CPC, ART. 835, INC.XII). PRECEDENTES DO STJ E DESTE TRIBUNAL. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, alega a parte agravante violação dos arts. 1.336, I, e 1.345 do Código Civil, porquanto seria possível a penhora do imóvel em virtude da natureza peculiar propter rem da dívida.
+Defende que o acórdão impugnado divergiu do entendimento firmado pelo TJSC, TJSP, TJRS e STJ, conferindo interpretação divergente aos arts. 1.336, I, e 1.345 do Código Civil.
+Aduz que a taxa condominial é obrigação de pagamento de todos os condôminos e repousa no dever legal de que os coproprietários devem ratear entre si os custos de conservação da unidade condominial.
+Sustenta que as despesas condominiais são de responsabilidade do devedor fiduciante, e, em caráter subsidiário e solidário, da instituição financeira, pois se caracterizam como obrigação de natureza propter rem, acompanhando o imóvel.
+Requer seja determinado o retorno dos autos para novo julgamento dos embargos de declaração ou seja superada a supressão de instância para dar provimento ao recurso especial a fim de reconhecer a possibilidade de penhora integral do imóvel gerador dos débitos condominiais.
+As contrarrazões não foram apresentadas.
+É o relatório. Decido.
+I - Contextualização
+Trata-se, na origem, de ação de cumprimento de sentença promovida pelo ora recorrente em face da parte ora recorrida, decorrente do inadimplemento de taxas condominiais.
+No primeiro grau, foi indeferido o pedido de penhora do bem imóvel alienado fiduciariamente.
+O Tribunal de origem negou provimento ao agravo de instrumento, mantendo afastada a penhora.
+Sobreveio recurso especial em que a parte recorrente defende que o dever de pagar as cotas condominiais (em execução) decorre de uma obrigação real - natureza propter rem - a qual acompanha o imóvel.
+II - Da possibilidade de penhora sobre o imóvel alienado fiduciariamente
+Pontue-se que obrigação propter rem ou obrigação ob rem significa "obrigação própria de um bem imóvel", ou seja, o imóvel está vinculado ao pagamento daquela obrigação.
+A garantia propter rem é muito próxima do direito real de garantia. A diferença é que o direito real de garantia se estabelece por uma ação contratual, decorre da vontade das partes; já a obrigação propter rem é ex vi legis, por força de lei.
+O que não pode é uma natureza contratual subtrair a natureza decorrente da lei, qual seja, a natureza propter rem, de garantia aderente do imóvel ao condomínio.
+Rememore-se que a obrigação pode ser dividida em debitum e obligatio.
+O débito é o dever legal do devedor de cumprir a obrigação, ou seja, dever do sujeito passivo de satisfazer a prestação positiva ou negativa em benefício do credor.
+Se adimplido o debitum, inexiste a obrigação. Por outro lado, se a obrigação não é cumprida, surgirá a responsabilidade .
+Pode-se concluir que a obrigação propter rem significa que ela está colada, que ela aderiu ao bem e que o pagamento é feito em razão do bem, da alienação do bem.
+Portanto, quem responde pela dívida de condomínio é o imóvel. Não importa quem seja o dono, não importa quem seja o proprietário, o bem está vinculado ao pagamento, à satisfação da obrigação.
+Nesse sentido, a Quarta Turma do STJ consolidou entendimento de que é possível a penhora do próprio imóvel que dá origem ao débito, ainda que esteja alienado fiduciariamente, tendo em vista a natureza da dívida condominial.
+A propósito, destaco o recente precedente que modificou o entendimento da Quarta Turma acima exposto:
+CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRIBUIÇÕES CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. NATUREZA PROPTER REM DO DÉBITO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. PENHORA DO IMÓVEL. POSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
+1. As normas dos arts. 27, § 8º, da Lei nº 9.514/1997 e 1.368-B, parágrafo único, do CC/2002, reguladoras do contrato de alienação fiduciária de coisa imóvel, apenas disciplinam as relações jurídicas ente os contratantes, sem alcançar relações jurídicas diversas daquelas, nem se sobrepor a direitos de terceiros não contratantes, como é o caso da relação jurídica entre condomínio edilício e condôminos e do direito do condomínio credor de dívida condominial, a qual mantém sua natureza jurídica propter rem.
+2. A natureza propter rem se vincula diretamente ao direito de propriedade sobre a coisa. Por isso, se sobreleva ao direito de qualquer proprietário, inclusive do credor fiduciário, pois este, na condição de proprietário sujeito à uma condição resolutiva, não pode ser detentor de maiores direitos que o proprietário pleno.
+3. Em execução por dívida condominial movida pelo condomínio edilício é possível a penhora do próprio imóvel que dá origem ao débito, ainda que esteja alienado fiduciariamente, tendo em vista a natureza da dívida condominial, nos termos do art. 1.345 do Código Civil de 2002.
+4. Para tanto, o condomínio exequente deve promover também a citação do credor fiduciário, além do devedor fiduciante, a fim de vir aquele integrar a execução para que se possa encontrar a adequada solução para o resgate dos créditos, a qual depende do reconhecimento do dever do proprietário, perante o condomínio, de quitar o débito, sob pena de ter o imóvel penhorado e levado à praceamento. Ao optar pela quitação da dívida, o credor fiduciário se sub-roga nos direitos do exequente e tem regresso contra o condômino executado, o devedor fiduciante.
+5. Recurso especial provido. (REsp n. 2.059.278/SC, relator Ministro Marco Buzzi, relator para acórdão Ministro Raul Araújo, Quarta Turma, julgado em 23/5/2023, DJe de 12/9/2023.)
+No mesmo sentido, confiram-se os seguintes julgados: REsp n. 1.873.261, Ministro Raul Araújo, DJe de 04/06/2024; REsp n. 2.137.690, Ministro Raul Araújo, DJe de 02/05/2024; REsp n. 2.110.356, Ministra Maria Isabel Gallotti, DJe de 21/12/2023; e REsp n. 1.993.509, Ministro Antonio Carlos Ferreira, DJe de 06/11/2023.
+Por oportuno, ressalte-se que o REsp n. 1.929.926/SP, afetado à Segunda Seção, e o Tema n. 1.266 do STJ, que possuem semelhante controvérsia, não foram julgados, além de o processo submetido ao rito dos recursos repetitivos não ter suspendido a tramitação de processos.
+No caso, a Corte a quo entendeu que o imóvel objeto de alienação fiduciária não seria passível da medida pleiteada, mas tão somente seria possível requerer constrição sobre créditos fiduciários. Confira-se trecho do voto condutor do acórdão do agravo de instrumento (fls. 46-49):
+Contudo, a hipótese dos autos possui peculiaridade consubstanciada na existência de alienação fiduciária do imóvel à Caixa Econômica Federal, a qual é a legítima proprietária do bem, mas não figura no polo passivo do incidente de execução de título extrajudicial (evento 1, OUT3, fl.48, R. 7/74.082). O art. 789 do Código de Processo Civil prevê que "O devedor responde com todos os seus bens presentes e futuros para o cumprimento de suas obrigações, salvo as restrições estabelecidas em lei", e "A execução por quantia certa realiza-se pela expropriação de bens do executado, ressalvadas as execuções especiais" (CPC, art. 824). As exceções estão consubstanciadas na Lei 9.514/1997 (arts. 22, 23 e 25) e no 1.368-B do Código Civil, ex vi: "A alienação fiduciária em garantia de bem móvel ou imóvel confere direito real de aquisição ao fiduciante, seu cessionário ou sucessor".
+Portanto, operada a alienação fiduciária, a possibilidade de constrição recai apenas sobre os "direitos aquisitivos derivados de promessa de compra e venda e de alienação fiduciária em garantia" (CPC, art. 835, Inc. XII).
+(..)
+Portanto, considerando as decisões reiteradas deste Tribunal de Justiça, bem como que a penhora dos direitos do devedor fiduciante tem o condão de resguardar os interesses do Agravante, entendo que é caso de desprovimento do recurso.
+Dessa forma, verifica-se que o acórdão recorrido está em dissonância com o atual entendimento jurisprudencial desta Corte, no sentido da possibilidade da penhora do próprio imóvel que dá origem ao débito condominial, ainda que alienado fiduciariamente.
+III - Conclusão
+Ante o exposto, dou provimento ao recurso especial a fim de reconhecer a possibilidade de penhora do imóvel que originou a dívida condominial, desde que o condomínio exequente promova a prévia citação do proprietário registral, a fim de que venha integrar a execução, facultando-lhe a oportunidade de quitar o débito condominial.
+Publique-se. Intimem-se.
+EMENTA
