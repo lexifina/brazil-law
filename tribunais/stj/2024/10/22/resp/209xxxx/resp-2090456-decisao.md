@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (e-STJ fls. 389/390):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO. JUROS MORATÓRIOS PARA CÉDULA DE CRÉDITO BANCÁRIO LIMITADA A 1% AO MÊS. SÚMULA 379 DO STJ. TAXA DE REGISTRO E DE AVALIAÇÃO. VALIDADE DESDE QUE COMPROVADA A EFETIVA PRESTAÇÃO DO SERVIÇO. TEMA 958/STJ. SEGURO DE PROTEÇÃO FINANCEIRA. VALIDADE. TEMA 972/STJ. SENTENÇA MANTIDA.
+1. A súmula 379, do STJ se aplica somente aos títulos de crédito sem lei de regência específica, o que não ocorre no caso concreto, considerando que se cuida de cédula de crédito bancário, regida pela Lei 10.931/04, a qual não prevê limite para estipulação de juros de mora.
+2. Taxa de registro e de avaliação. Não demonstrado que houve o efetivo registro e avaliação, caracterizada está a abusividade na sua cobrança. Tema 958/STJ.
+3. Nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada, nos exatos termos do Tema Repetitivo n. 972, do STJ. No caso o seguro foi utilizado pelo autor, desde a assinatura do contrato. Se o autor efetivamente não desejasse mais efetuar o pagamento do seguro, ou contratar com outra seguradora, ou fazer a portabilidade deste, poderia tê-lo feito, sem qualquer impossibilidade de barramento por parte da financeira requerida. Como bem pontuou a sentença sob açoite, "Pelo arquivo juntado pela instituição financeira constata-se que o documento (Proposta de Adesão ao Seguro de Proteção Financeira) foi assinado em separado pelo autor. Nessa situação revela-se que foi preservada a liberdade de escolha do contratante.
+4. Recursos de apelação conhecidos e não providos.
+Os embargos de declaração foram rejeitados (e-STJ fls. 427/428, 435/438 e 444/445).
+Em suas razões (e-STJ fls. 452/463), a parte recorrente aponta violação dos seguintes dispositivos legais:
+(i) art. 1.022 do CPC/2015, alegando haver "omissão no acórdão objurgado, que enfrentou de maneira insuficiente o s argumentos engendrados pelo recorrente, quanto a venda casada" (e-STJ fl. 458), e
+(ii) arts. 6º, III, e 42, parágrafo único, do CDC, aduzindo a "ilegalidade da cobrança do seguro prestamista, visto que não foi respeitada a autonomia e liberdade da contratação" (e-STJ fl. 462), e a necessidade da consequente repetição do indébito.
+Contrarrazões apresentadas às fls. 470/482 (e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Não há falar em vício de fundamentação ou negativa de prestação jurisdicional quando os fundamentos adotados pela Corte de origem bastam para justificar a conclusão do acórdão, não estando o julgador obrigado a rebater todos os argumentos e dispositivos legais suscitados pela parte.
+No caso concreto, o Tribunal de origem, a partir da análise dos fatos e das provas dos autos, concluiu pela inexistência de abuso na contratação do seguro prestamista, porquanto "foi preservada a liberdade de escolha do contratante" (e-STJ fl. 383). Consignou que (e-STJ fls. 382/383, destaquei):
+ ..  nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada, nos exatos termos do Tema Repetitivo n. 972, do STJ.
+ ..
+No entanto, o seguro de proteção financeira juntado aos autos (ev. 15, contr2), embora de adesão, foi utilizado pelo autor, desde a assinatura do contrato (03/01/2019). Ressalto que se o autor efetivamente não desejasse mais efetuar o pagamento do seguro, ou contratar com outra seguradora, ou fazer a portabilidade deste, poderia tê-lo feito, sem qualquer impossibilidade de barramento por parte da financeira requerida. Diante de tais aspectos ocorridos no caso, tenho que a sentença deve ser mantida quanto a tal capítulo, por seus próprios fundamentos. Ademais, como bem pontuou a sentença sob açoite, "Pelo arquivo juntado pela instituição financeira no evento 15 - CONTR2 constata-se que o documento (Proposta de Adesão ao Seguro de Proteção Financeira) foi assinado em separado pelo autor. Nessa situação revela-se que foi preservada a liberdade de escolha do contratante, pois no documento mencionado lê-se claramente os dizeres: "As condições Gerais desse seguro foram apresentadas ao proponente previamente à contratação e poderão também ser consultada através do site condicoesgerais.bnpparibascardif.com.br/pf."".
+Desse modo, não assiste razão à parte agravante, visto que o Tribunal a quo decidiu fundamentadamente a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+No mais, do excerto acima transcrito, verifica-se que, observado o entendimento firmado no REsp n. 1.639.259/SP (Tema n. 972/STJ), a conclusão da Corte estadual encontra respaldo na interpretação contratual e no exame dos demais elementos fático-probatórios, cuja revisão é vedada em sede especial, a teor das Súmulas n. 5 e 7 do STJ.
+Prejudicada a análise quanto à repetição do indébito.
+Ante o exposto, CONHEÇO EM PARTE do recurso e, nessa extensão, NEGO-LHE PROVIMENTO.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em favor do advogado da parte ora recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
