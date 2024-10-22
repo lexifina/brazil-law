@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOÃO VITOR LUZ DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+Depreende-se dos autos que o paciente foi preso em flagrante e, posteriormente, teve a prisão convertida em preventiva pela prática, em tese, do delito de tráfico de drogas.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente em razão da quantidade de droga apreendida, e denegou a ordem em acórdão de fls. 14-17.
+No presente writ, alega ilegalidade na prisão em flagrante do paciente, ao argumento de haver ocorrido invasão de domicílio, ressaltando a ausência de indícios mínimos que indicassem situação de flagrância aptos a legitimar o ingresso dos policiais militares na residência.
+Aduz, ainda, a defesa ausência de fundamentação idônea da decisão que decretou a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que o paciente ostenta condições pessoais favoráveis.
+Requer a revogação da prisão preventiva.
+A liminar foi indeferida às fls. 637-638.
+Informações prestadas às fls. 644-648.
+O Ministério Público Federal, às fls. 682-687, manifestou-se pela denegação da ordem, em parecer que restou assim ementado:
+"Habeas corpus. Tráfico de entorpecentes e associação para o tráfico. Prisão preventiva. Indícios de autoria delitiva. Necessidade de revolvimento de matéria probatória. Prolação de sentença condenatória. Requisitos da custódia cautelar. Fundamentação idônea. Apreensão de significativa quantidade de drogas e de petrechos para a prática do delito de tráfico. Profundo envolvimento do agente na prática criminosa. Necessidade da constrição cautelar para garantia da ordem pública. Circunstâncias pessoais favoráveis. Irrelevância. Ausência de constrangimento ilegal. Parecer pela denegação do habeas corpus" - fl. 682.
+É o relatório. DECIDO.
+No tocante a alegada nulidade decorrente da invasão de domicílio, da leitura do acórdão objurgado verifica-se que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Nesse sentido: AgRg no HC n. 865.449/SC, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 26/6/2024; AgRg no HC n. 918.681/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/6/2024; AgRg no HC n. 901.024/GO, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/6/2024 e AgRg no HC n. 877.777/PE, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 18/4/2024.
+No tocante a alegada ausência de fundamentação para a manutenção da segregação cautelar, verifico que melhor sorte não socorre à defesa.
+In casu, a análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar imposta encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta da conduta atribuída, haja vista que, foram apreendidos com o paciente 1.562 (mil quinhentos e sessenta e duas) porções de maconha e 01 (um) tijolo de maconha, além de 05 (cinco) balanças de precisão, rolo de saco plástico transparente e diversas anotações, em tese, relacionadas com o tráfico de drogas (fl. 148), circunstâncias que indicam a periculosidade concreta do agente e revelam a indispensabilidade da imposição da segregação cautelar.
+Sobre o tema:
+"A custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois foi apreendido expressiva quantidade de entorpecentes, celulares, anotações, dinheiro, petrechos de pesagem, embalagem de drogas" (AgRg no HC n. 895.085/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 15/8/2024.)
+Nesse sentido, confiram-se alguns precedentes: AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+De mais a mais, ressalta-se que "a existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não é apta a desconstituir a prisão processual, caso estejam presentes os requisitos de ordem objetiva e subjetiva que autorizem a imposição da medida extrema, como verificado na hipótese" (AgRg no HC n. 829.799/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/8/2023).
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
