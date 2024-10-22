@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo nos próprios autos, interposto por SUPERMERCADOS CAVICCHIOLLI LTDA., contra decisão que negou seguimento ao recurso especial, porque não demonstrada a ofensa aos dispositivos legais indicados, tampouco a divergência jurisprudencial, e por incidência da Súmula n. 7 do STJ (e-STJ fls. 3.094/3.096).
+O acórdão recorrido está assim ementado (e-STJ fls. 2.953/2.954):
+Apelação cível. Direito de vizinhança. Ação indenizatória por danos morais e materiais. Sentença de procedência da ação e da denunciação da lide. Apelações do réu e da denunciada (empresa contratada para a execução da obra de fundação do supermercado réu).
+Interrupção da fluência do prazo prescricional pelo ajuizamento da ação cautelar de produção antecipada de provas, com citação do réu. Pretensão indenizatória que não foi atingida pela prescrição. A interrupção operada contra um dos devedores solidários envolve os demais, tendo atingido a denunciada, a despeito de não ter participado daquela ação.
+Descabimento da realização de nova prova pericial, diante do tempo decorrido entre as obras de fundação do supermercado e o surgimento dos danos apontados pelos autores, que, ademais, providenciaram os reparos em seu imóvel. A produção antecipada de provas (art. 381 do CPC), visa justamente a realização da prova pericial quando ainda há viabilidade para
+tanto.
+A perícia concluiu que os danos encontrados no imóvel dos autores foram causados pelo tipo de fundação de bate-estacas utilizado na construção do supermercado réu. Não é possível se presumir que, por não ter sido apresentado projeto aprovado de construção da piscina, foi ela a responsável pelos danos verificados. Mesmo nos imóveis vizinhos, nos quais não havia piscina e não faziam divisa com o imóvel dos autores, o perito constatou a existência de trincas com maior ou menor gravidade, dependendo da distância em relação à obra do supermercado.
+Prova testemunhal que roborou as conclusões do laudo pericial. O depoimento da testemunha arrolada pelo réu de que, quando visitou o imóvel, relacionou os problemas constatados com possível vazamento da piscina não basta para provar a versão do réu de que a piscina teria sido a causa dos problemas surgidos no imóvel dos autores.
+Manutenção da sentença quanto à condenação do réu e da denunciada no pagamento dos valores estimados pelo perito para os reparos no imóvel.
+Danos morais caracterizados . Indenização reduzida neste julgamento. Sentença reformada também quanto à distribuição das verbas da sucumbência.
+Apelações parcialmente providas.
+Os embargos de declaração foram rejeitados (e-STJ fls. 2.996/3.000).
+No recurso especial (e-STJ fls. 3.027/3.065 ), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aponta ofensa aos arts. 189, 202 e 206, § 3º, do CC/2002, sustentando a ocorrência de prescrição, visto que a ação antecedente de produção antecipada de provas não é apta a interromper a fluência do prazo prescricional.
+Argumenta que, ao menos, deve-se reconhecer que o pedido de danos morais está prescrito, pois "a interrupção do prazo prescricional se deu tão somente em relação ao objeto da prova a ser produzida que no caso diz respeito aos hipotéticos danos materiais, sem abranger, por conseguinte os alegados danos morais, cuja pretensão indenizatória não guarda relação tão pouco está condicionada à prova técnica produzida de forma antecedente" (e-STJ fl. 3.036).
+Suscita contrariedade ao art. 945 do CC/2002 argumentando que "ainda que subsista alguma responsabilidade do Recorrente pelo agravamento, é de ser mitigada, pois, a conduta dos Recorridos contribuíra de forma eficaz e suficiente para a eclosão dos danos no imóvel, ou mesmo para seu agravamento" (e-STJ fl. 3.037). Defende que a construção irregular de uma piscina, que apresentava sinais de infiltração, contribuiu para os danos verificados no imóvel.
+Indica violação do art. 944, parágrafo único, do CC/2002 e Súmula n. 362 do STJ, sustentando que não foi comprovada a ocorrência dos danos morais indenizáveis, mas apenas meros aborrecimentos inerentes aos atos de conservação do bem. Subsidiariamente, defende que o valor da indenização deve ser reduzido.
+Afirma que a correção monetária deve incidir desde a data do arbitramento, conforme consta do enunciado de súmula indicado.
+Aponta dissídio jurisprudencial quanto ao termo inicial dos juros de mora, defendendo que devem incidir desde a citação no processo principal e não da citação na ação cautelar.
+No agravo (e-STJ fls. 3.119/3.127), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 3.142).
+É o relatório.
+Decido.
+Em relação à prescrição, a Corte estadual concluiu que (e-STJ fls. 2.963/2.964):
+Afasta-se a alegação de prescrição da pretensão dos autores.
+É incontroverso nos autos que as obras de fundação do supermercado réu tiveram início em meados de 2006 e o ajuizamento da medida cautelar de produção antecipada de provas nº 0009975-14.2008.8.26.0019, em 11/06/2008, homologada judicialmente e com trânsito em julgado em 16/10/2012, interrompeu o prazo prescricional, nos termos do artigo 202, incisos I e VI, do Código Civil.
+(..)
+Esta ação indenizatória, ajuizada em agosto de 2012, não foi atingida pela prescrição trienal (art. 206, §3º, V, CC) e, ao contrário do que alegou o réu, a pretensão indenizatória por danos morais estava condicionada à prova técnica antecedente, pois era necessário se demonstrar que os danos morais experimentados pelos autores decorreram dos problemas ocasionados em seu imóvel pela execução da obra de fundação do supermercado.
+E, nos termos do art. 204, §1º, do CC, que dispõe expressamente que a interrupção operada contra um dos devedores solidários envolve os demais, considerando que houve a interrupção da prescrição contra o réu, também atingiu a denunciada, a despeito de não ter participado daquela ação.
+O entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte, segundo a qual, a citação válida em processo cautelar preparatório interrompe a prescrição. Nesse sentido:
+CIVIL E PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VIOLAÇÃO DE DIREITOS AUTORAIS. SOLIDARIEDADE PASSIVA. CAUTELAR. INTERRUPÇÃO. PRAZO PRESCRICIONAL. RECURSO DESPROVIDO.
+1. Nos termos do art. 104 da Lei n. 9.610/1998, responde solidariamente com o contrafator quem utiliza obra reproduzida com fraude, com a finalidade de obter ganho, vantagem, proveito, lucro direto ou indireto, para si ou para outrem.
+2. No caso dos autos, a contratante responde solidariamente com a empresa de publicidade contrafatora, por utilizar poema em campanha publicitária, veiculada em canais de televisão sem autorização do autor.
+3. Ajuizada ação cautelar preparatória contra um dos réus solidários, a interrupção do prazo prescricional prejudica ambos, conforme dispõe o art. 204, § 1º, do CC/2002.
+4. Recurso especial a que se nega provimento.
+(REsp n. 1.736.786/SP, minha relatoria, Quarta Turma, julgado em 27/4/2023, DJe de 4/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE VÍNCULO JURÍDICO C/C PEDIDO DE COBRANÇA DE COMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PROPOSITURA DE AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. DEFESA JUDICIAL DOS DIREITOS PERSEGUIDOS. INÉRCIA DO AUTOR AFASTADA. PRAZO PRESCRICIONAL. INTERRUPÇÃO. PRECEDENTES. ALEGADA VIOLAÇÃO À COISA JULGADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada ofensa aos arts. 489 e 1.022 do CPC/2015, porquanto o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A propositura de demanda cautelar de exibição de documentos, a despeito da natureza satisfativa ou preparatória, implica inevitável afastamento da inércia, quando caracterizada a atuação judicial da autora em defesa de seus direitos. Nos termos do art. 202 do CC, o decurso do prazo prescricional interrompe-se, uma única vez, quando presente qualquer das hipóteses definidas no referido dispositivo legal. No caso dos autos, aplica-se a interrupção do prazo prescricional, nos termos do art. 202 do CC, por se tratar de ato judicial promovido pelo titular em defesa do direito subjetivo perseguido.
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.346.522/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/10/2020, DJe de 26/10/2020.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PRESCRIÇÃO. PEDIDO DE COMPLEMENTAÇÃO DE INDENIZAÇÃO SECURITÁRIA POR INVALIDEZ PERMANENTE. TERMO INICIAL DA PRESCRIÇÃO. ANTERIOR AJUIZAMENTO DE PRETENSÃO DE EXIBIÇÃO DA APÓLICE. INTERRUPÇÃO.
+1. "O ajuizamento de ação cautelar de exibição de documentos pelo segurado, com a finalidade de instrução da demanda principal, configura causa de interrupção do prazo prescricional para exercício da pretensão indenizatória (artigos 202, inciso V, do Código Civil de 2002 e 172, inciso IV, do Código Civil de 1916), cuja recontagem inicia-se após o último ato praticado no âmbito do provimento de urgência." (AgRg no AREsp 149.893/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/10/2012, DJe 31/10/2012)
+2. Prescrição da pretensão de complementação de indenização afastada. Razões articuladas no agravo que não infirmam as conclusões anteriormente expendidas.
+3. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp n. 1.311.843/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 10/2/2015, DJe de 19/2/2015.)
+Quanto à alegada ofensa ao art. 945 do CC/2002 e a tese recursal subjacente, verifica-se que não foram objeto de análise pela Corte estadual, de modo que não foi preenchido o requisito constitucional do prequestionamento. Incide a Súmula n. 282 do STF.
+Ademais, o exame da pretensão recursal no sentido de verificar a suposta existência de culpa concorrente demandaria análise de matéria probatória, vedada em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Da mesma forma, a análise da inocorrência de dano moral e a revisão do valor arbitrado na origem, que não se mostrou desproporcional (quinze mil para cada autor), demandaria reexame de prova, incidindo o mesmo enunciado.
+Quanto à suposta ofensa à Súmula n. 362 do STJ, esclareça-se que é inviável o conhecimento, por não se enquadrar no conceito de lei federal apto a ensejar a interposição de recurso especial, nos termos do art. 105, III, "a" da CF.
+Em relação ao termo inicial dos juros de mora, a parte não indicou o dispositivo legal objeto de interpretação divergente, o que atrai a incidência da Súmula n. 284 do STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO EM CADASTROS DE INADIMPLENTES. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO INTERNO IMPROVIDO.
+1. De acordo com o disposto no art. 1.029, § 1º, do CPC/2015, c/c art. 255, § 1º, do RISTJ, a demonstração da divergência exige não apenas a transcrição da ementa ou voto do acórdão paradigma, mas que o recorrente realize o devido cotejo analítico entre o aresto recorrido e o divergente, com a explicitação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, o que não ocorreu.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, a alegação de dissídio jurisprudencial deve estar pautada na citação de dispositivo da legislação federal a que se tenha conferido interpretação diversa pelo aresto impugnado, sob pena de configurar-se deficiência na fundamentação.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 2.221.170/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
