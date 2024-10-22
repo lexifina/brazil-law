@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de o LUIZ ARMANDO PIRES PULITI contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação n. 0001878-33.2002.8.26.0052.
+Consta dos autos que, em 26/5/2015, o paciente, submetido a julgamento perante o Tribunal do Júri, foi absolvido como incurso no artigo 121, caput, c/c o artigo 14, inciso II, ambos do Código Penal (e-STJ fl. 33).
+Irresignado, o Parquet interpôs recurso de apelação, "pedindo a anulação do julgamento por desconformidade com a prova dos autos e determinando a remessa do processo a novo Júri" (e-STJ fl. 14).
+Em sessão de julgamento realizada no dia 17/10/2017, o Tribunal de Justiça de São Paulo, à unanimidade, deu provimento ao recurso ministerial para anular a decisão do Conselho de Sentença, determinando-se a submissão do réu a novo júri (e-STJ fls. 13/16).
+Contra a decisão que inadmitiu o recurso especial interposto contra a apelação, a defesa interpôs o AREsp n. 1.595.184/SP, distribuído a esta relatoria, para restabelecer a decisão absolutória do Tribunal do Júri.
+Contudo, conheci do agravo para negar provimento recurso especial, cuja decisão transitou em julgado no dia 10/3/2020.
+Segundo a defesa, a nova sessão plenária está prevista para o dia 11/2/2025.
+No presente habeas corpus, impetrado após mais de 7 (sete) anos do julgamento do acórdão de apelação, a impetrante inova a tese de nulidade do referido acórdão, o qual incorreu em error in judicando, pois não observou que houvera aditamento da denúncia que alterou a imputação fática, atribuindo ao paciente atos de execução, não mais de participação material.
+Assim, entende que deve ser cassado o acórdão que deu provimento ao recurso ministerial, restabelecendo-se a absolvição do paciente, o que, a propósito, também prestigiaria a soberania do veredicto.
+Ao final, requer (e-STJ fl. 11):
+1) Em caráter cautelar, determinar o sobrestamento da ação penal e, assim, do julgamento designado na 1ª Vara do Tribunal do Júri de São Paulo-SP, ate que seja julgado o seu mérito;
+2) ao final, conceder a ordem a fim de se reconhecer o constrangimento ilegal apontado, restabelecendo-se a soberana decisão do Tribunal do Júri que absolveu o acusado.
+É o relatório. Decido.
+De início, destaco que o presente mandamus não merece prosseguimento.
+Como é de conhecimento, o art. 210 do Regimento Interno do STJ dispõe que: quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+Conforme relatado, o pedido de restabelecimento da sentença absolutória já foi examinado e afastado por esta Corte Superior, no julgamento do AREsp n. 1.595.184/SP, cuja decisão transitou em julgado há mais de 4 (quatro anos).
+Ora, o processo é um encadeamento de atos para frente, não sendo possível, dessarte, que a parte ingresse com pedidos perante instâncias já exauridas, sob pena de verdadeiro tumulto processual e subversão dos instrumentos recursais pátrios, ainda que sob o argumento de que a matéria deve ser analisada sob novo prisma
+Nessa linha de intelecção, A marcha processual avança rumo à conclusão da prestação jurisdicional, sendo inconciliável com o processo penal moderno a prática de atos processuais que repristinem fases já superadas (HC n. 503.665/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/5/2019, DJe de 21/5/2019).
+Ademais, a suposta nulidade aventada pela Defensoria Pública sequer foi debatida pela Corte local, pois suscitada originariamente nesta impetração, motivo pelo qual esta Corte Superior fica impedida de se antecipar à matéria, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+Com efeito, consoante jurisprudência desta Corte Superior, até mesmo matéria de ordem pública pressupõe seu prévio exame, na origem, para que possa ser analisada por esta Corte (AgRg no HC n. 643.018/ES, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022).
+Inclusive, ressalta-se que: Matéria não apreciada pelo Tribunal de origem, inviabiliza a análise por esta Corte sob pena de indevida supressão de instância, mesmo em caso de suposta nulidade absoluta (AgRg nos EDcl no HC n. 692.704/SC, Relator Ministro JESUÍNO RISSATO (Desembargador convocado do TJDFT), Quinta Turma, julgado em 9/11/2021, DJe de 17/11/2021).
+Por fim, ainda que assim não fosse, ressalta-se que: a jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal (AgRg no HC n. 690.070/PR, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 19/10/2021, DJe de 25/10/2021).
+Ora, uma vez que, in casu, o Tribunal de origem julgou a apelação objurgada neste writ em 17/10/2017 - cujo acórdão já transitou em julgado para ambas as partes - e somente no dia 17/10/2024 (e-STJ fl. 1) foi impetrado o presente habeas corpus, o seu conhecimento encontra-se obstado em decorrência da preclusão.
+Noutras palavras, inobstante os argumentos defensivos, em deferência à segurança jurídica e lealdade processual, a jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de que as nulidades, ainda quando denominadas absolutas, devem ser arguidas em momento oportuno, bem como qualquer outra falha ocorrida no julgamento, sob pena de preclusão temporal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ABSOLVIÇÃO. PRECLUSÃO. APELAÇÃO JULGADA HÁ MAIS DE 3 ANOS. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, a apelação e a revisão criminal foram julgadas, respectivamente, em 23/9/2015 e 14/11/2018. Assim, o decurso do tempo impede a análise da matéria em habeas corpus, em razão da preclusão do direito postulado, conforme a jurisprudência pacífica desta Corte. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 760.005/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/12/2022, DJe de 22/12/2022.) - negritei.
+HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PENA. DOSIMETRIA. REDIMENSIONAMENTO. NULIDADE. ACÓRDÃO TRANSITADO EM JULGADO. PRECLUSÃO. REVISÃO CRIMINAL. WRIT. INSTRUÇÃO. DEFICIÊNCIA. SENTENÇA. AUSÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante a pacífica jurisprudência desta Corte Superior e também do STF, o manejo do habeas corpus muito tempo após a edição do ato atacado demanda o reconhecimento de que fulminada pela preclusão o direito postulado (termo cujo uso guardo pessoal ressalva).
+ ..
+4. Agravo regimental não provido.
+(AgRg no HC n. 447.420/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/9/2018, DJe de 11/10/2018.) - negritei.
+Assim, considerando o longo decurso de tempo sem que tenha sido alegada qualquer nulidade ou falha no acórdão impugnado, deve ser afastada a existência de flagrante ilegalidade a justificar a concessão, de ofício, da ordem de habeas corpus substitutiva de revisão criminal.
+Ao ensejo, confira-se o recente precedente do STJ:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS. WRIT IMPETRADO APÓS MAIS DE TRÊS ANOS DO JULGAMENTO DA APELAÇÃO. PRECLUSÃO TEMPORAL. PRECEDENTES. PRETENSÃO DE ABSOLVIÇÃO POR FALTA DE PROVAS. INVIABILIDADE. PLEITO DE REFAZIMENTO DA DOSIMETRIA. AUSÊNCIA DE EXCEPCIONALIDADE A JUSTIFICAR A READEQUAÇÃO DA REPRIMENDA. REGIME INICIAL FECHADO. CIRCUNSTÂNCIAS NEGATIVAS. MAUS ANTECEDENTES. REINCIDÊNCIA. QUANTIDADE E NATUREZA DAS DROGAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal local julgou a apelação objurgada no writ em 22 de janeiro de 2019 e somente no dia 17 de setembro de 2022 foi impetrado o habeas corpus, o que impede o seu conhecimento em decorrência da preclusão da matéria.
+2. Em respeito à segurança jurídica e lealdade processual, a jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de que as nulidades, ainda quando denominadas absolutas, devem ser arguidas em momento oportuno, bem como qualquer outra falha ocorrida no julgamento, sujeitando-se à preclusão temporal.
+Precedentes.
+3. Não se viabiliza o acolhimento da alegação de falta de provas para a condenação (absolvição da conduta delitiva), na via estreita do habeas corpus, ante a necessária incursão probatória.
+4. A dosimetria da pena deve ser feita seguindo o critério trifásico descrito no art. 68, c/c o art. 59, ambos do Código Penal, cabendo ao Magistrado aumentar a pena fundamentadamente e apenas quando identificar dados concretos que extrapolem as circunstâncias elementares do tipo penal básico. No caso, não se vislumbra constrangimento ilegal passível da concessão da ordem, de ofício, na primeira fase da individualização, que foi majorada considerando a natureza da substância entorpecente e os maus antecedentes, restando justificada a sua exasperação.
+5. A questão suscitada nesta impetração relativa à implementação do período depurador de cinco anos para fins de afastamento da reincidência não foi objeto de prévio debate pelo Tribunal a quo, o que impede o exame da matéria por esta Corte, sob pena de indevida supressão de instância.
+6. Constatado pelas instâncias ordinárias a existência de circunstâncias judiciais negativas e de reincidência, além da nocividade dos entorpecentes apreendidos, não subsiste ilegalidade na manutenção do regime inicial fechado, consoante preceituam o art. 33, §§ 2º e 3º, do Código Penal, e o art. 42 da Lei n. 11.343/2006.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 772.372/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023 ) - negritei.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+EMENTA
