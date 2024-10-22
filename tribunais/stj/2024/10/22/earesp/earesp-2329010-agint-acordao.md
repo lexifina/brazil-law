@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 16/10/2024 a 22/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE AS HIPÓTESES. NÃO DEMONSTRAÇÃO DO COTEJO ANALÍTICO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Os embargos de divergência têm por escopo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação e a demonstração do dissídio pretoriano, nos moldes estabelecidos no § 4º do artigo 1.043 do CPC/2015 e no § 4º do artigo 266 do RISTJ.
+3. Segundo entendimento assente nesta Corte Superior: "A divergência exige a comprovação por meio do cotejo analítico entre os acórdãos, que demonstre a adequada identidade ou similitude suficiente das situações fáticas e jurídicas que obtiveram conclusões diversas, de forma clara e precisa, apontando de forma inequívoca as circunstâncias que demonstram a divergência no ponto guerreado, nos termos do art. 1.043, § 4º, do CPC/2015 e do art. 266, § 4º, do RISTJ, não servido o recurso ao mero rejulgamento" (AgInt nos EAREsp 1.933.921/SP, Rel. Ministro Francisco Falcão, Corte Especial, DJe 3/10/2022).
+4. No caso, não se evidencia similitude fática entre as hipóteses inicialmente narradas pelo embargante. Além disso, o recurso de divergência não contém o cotejo analítico entre os casos apresentados a comparação. Assim, impõe-se a manutenção do indeferimento liminar dos embargos de divergência.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por Andrew Clark Lenner contra decisão que contém a seguinte ementa (fl. 1.269):
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS. FALTA DE COTEJO ANALÍTICO. RECURSO INDEFERIDO LIMINARMENTE.
+O agravante sustenta, em síntese, que há menção à tese defendida em sede de recurso especial, embora o acórdão embargado de divergência assevere que não. Segundo informa, " ..  em ambos os acórdãos houve a discussão da tese pelo Tribunal de origem, entretanto, o prequestionamento não foi considerado pela instância superior (1.279)".
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE AS HIPÓTESES. NÃO DEMONSTRAÇÃO DO COTEJO ANALÍTICO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Os embargos de divergência têm por escopo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação e a demonstração do dissídio pretoriano, nos moldes estabelecidos no § 4º do artigo 1.043 do CPC/2015 e no § 4º do artigo 266 do RISTJ.
+3. Segundo entendimento assente nesta Corte Superior: "A divergência exige a comprovação por meio do cotejo analítico entre os acórdãos, que demonstre a adequada identidade ou similitude suficiente das situações fáticas e jurídicas que obtiveram conclusões diversas, de forma clara e precisa, apontando de forma inequívoca as circunstâncias que demonstram a divergência no ponto guerreado, nos termos do art. 1.043, § 4º, do CPC/2015 e do art. 266, § 4º, do RISTJ, não servido o recurso ao mero rejulgamento" (AgInt nos EAREsp 1.933.921/SP, Rel. Ministro Francisco Falcão, Corte Especial, DJe 3/10/2022).
+4. No caso, não se evidencia similitude fática entre as hipóteses inicialmente narradas pelo embargante. Além disso, o recurso de divergência não contém o cotejo analítico entre os casos apresentados a comparação. Assim, impõe-se a manutenção do indeferimento liminar dos embargos de divergência.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Inicialmente, convém registrar que, tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Observa-se que o presente recurso não merece prosperar, tendo em vista que, dos argumentos apresentados no agravo interno, não se vislumbram razões para reformar a decisão agravada.
+Com efeito, os embargos de divergência têm por escopo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação e a demonstração do dissídio pretoriano nos moldes estabelecidos no § 4º do artigo 1.043 do CPC/2015 e no § 4º do artigo 266 do RISTJ.
+Não se verifica a existência da indispensável similitude fática entre os acórdãos indicados a confronto, tampouco o necessário cotejo analítico entre eles.
+Segundo consta na fundamentação do acórdão embargado, a Corte de origem não se manifestou a respeito da tese suscitada no recurso especial e sobre a norma que supostamente disciplinaria a controvérsia.
+Já o precedente apresentado como acórdão paradigma reconheceu a existência de prequestionamento porque o acórdão proferido pela Corte de origem naquela oportunidade, embora não tenha citado expressamente o dispositivo de lei federal, manifestou-se sobre a matéria atinente a ele (artigo 413 do CC), ou seja, manifestou-se sobre a tese que depois veio a ser questionada na via do recurso especial, o que ensejou, naquela oportunidade, o provimento dos embargos de divergência, com o retorno dos autos ao Órgão que proferiu o acórdão embargado (Segunda Turma).
+É dizer, o acórdão paradigma reconheceu que a tese sobre a ofensa ao artigo 413 do CC foi debatida. Já no acórdão embargado não se observou o debate da tese ou da norma, o que implica falta de identidade ou similitude fático-jurídica entre as hipóteses anunciadas a confronto. Além disso, deve ser consignado que o recurso de embargos de divergência não apresentou o cotejo analítico entre os casos inicialmente narrados.
+Assim, conclui-se pela manutenção do indeferimento dos embargos de divergência.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
