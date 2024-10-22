@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. INTERPOSIÇÃO SIMULTÂNEA DE HABEAS CORPUS E RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente o habeas corpus por ser substitutivo de recurso próprio e por violar o princípio da unirrecorribilidade, considerando a existência de recurso especial interposto pela defesa. Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182, desta Corte Superior.
+2. Agravo regimental não conhecido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por EDUARDO FERNANDO DE MELO contra decisão de fls. 49/53 que indeferiu liminarmente o habeas corpus por ser substitutivo de recurso próprio e por violar o princípio da unirrecorribilidade, considerando a existência de recurso especial interposto pela defesa, ainda pendente de admissibilidade na origem.
+A propósito, confira-se o teor da referida decisão:
+"Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de EDUARDO FERNANDO DE MELO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 1501707-64.2023.8.26.0537.
+Extrai-se dos autos que o paciente foi condenado em primeira instância pela prática do crime de tráfico de drogas, às penas de 8 anos e 9 meses de reclusão, em regime inicial fechado, e 875 dias multa.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual negou provimento ao recurso nos termos do acórdão que restou assim ementado:
+"APELAÇÃO. TRÁFICO DE DROGAS (art. 33, "caput" e § 1º, I, Lei nº 11.343/06). Materialidade e autoria inquestionáveis. Relatos seguros e coesos dos policiais civis responsáveis por abordar o veículo conduzido pelo réu, em cujo interior havia 20 tabletes de maconha (10,950kg), além de 2,850kg de insumos químicos destinados à preparação de entorpecentes(lidocaína e cafeína). Quadro incompatível com a desclassificação da conduta para o delito descrito no artigo 28 da Lei de Tóxico. Condenação mantida. Penas-base acima do piso diante de circunstância desfavorável representada pela enorme quantidade e proeminente lesividade do tóxico e dos insumos apreendidos a exigir reprovação mais severa, consoante artigo 42 da Lei nº. 11.343/06. Apenamento benevolente diante da múltipla reincidência, vedada a revisão do julgado ante a inércia da Justiça Pública a respeito. Concurso formal reconhecido. Quadro adverso inconciliável com a causa de diminuição descrita no artigo 33, § 4º, daquela mesma Lei Extravagante. Regime prisional fechado único adequado ao tráfico, sem se ignorar o quadro adverso e as recidivas, a par do montante da carcerária (superiora 8 anos de reclusão)igualmente inconciliáveis com retiro menos severo. Precedentes. Apelo defensivo improvido" (fl. 31).
+No presente writ, a defesa sustenta, em síntese, que a pena-base foi indevidamente majorada com fundamento na quantidade de drogas apreendida.
+Aponta que a aplicação da fração de aumento de 1/4 pela agravante da reincidência é desproporcional.
+Argumenta que a apreensão de lidocaína e cafeína não enseja o reconhecimento de concurso formal com o crime previsto no art. 33, §1º, inciso I, da Lei n. 11.343/2006.
+Requer, em liminar e no mérito, a redução da pena.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, não se mostra adequada a possibilidade de análise da matéria para eventual concessão da ordem de ofício no presente mandamus, haja vista a constatação da concomitante interposição de recurso especial pela defesa do réu, o qual encontra-se pendente de análise pelo Tribunal de origem.
+Com efeito, nos termos da jurisprudência consolidada nesta Corte Superior, inviável o conhecimento de habeas corpus impetrado concomitantemente com o recurso próprio, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PECULATO. NULIDADE. ALEGAÇÃO DE ATIPICIDADE DA CONDUTA. WRIT COM FUNDAMENTOS IDÊNTICOS A AGRAVO EM RECURSO ESPECIAL EM TRÂMITE NESTE SUPERIOR TRIBUNAL (ARESP N. 1.330.710/SP). REITERAÇÃO DE PEDIDOS. AUSÊNCIA DE DEBATE DA MATÉRIA PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. Esta Corte de Justiça tem reiteradamente se manifestado no sentido de que a ausência de prova pré constituída das alegações enseja o não conhecimento da impetração, vez que inviável a dilação probatória e o revolvimento de fatos e de provas na via estreita do habeas corpus.
+2. No caso, a decisão agravada deve ser mantida, pois o processo anteriormente existente nesta Corte é o meio processual adequado para o debate da matéria relativa à atipicidade da conduta.
+3. Com relação à nulidade aventada, em razão de suposta litispendência, observo que nem sequer há, nos autos, a discussão da questão pelas instâncias ordinárias, o que deságua na incompetência do STJ, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido.
+(AgRg no HC n. 564.929/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/4/2020, DJe de 30/4/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AJUIZAMENTO DO WRIT SIMULTÂNEO À INTERPOSIÇÃO DE RECURSO ESPECIAL NA ORIGEM. PRINCÍPIO DA UNIRRECORRIBILIDADE. ESTRATÉGIA PROCESSUAL. OMISSÃO NÃO DEMONSTRADA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. " o  ajuizamento simultâneo do writ com interposição de recurso próprio contra o mesmo ato judicial, tal como no caso dos autos, trata-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade. Cabe à parte optar pelo caminho que lhe seja mais favorável, arcando com as consequências de sua escolha" (AgRg no HC n. 589.923/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 1/4/2022).
+2. A defesa alega que não houve pronunciamento pela instância anterior de nova prova trazida aos autos quando da interposição do recurso de apelação. No entanto, tal suposta omissão pela Corte estadual não foi devidamente comprovada neste writ, uma vez que não foi juntada cópia das razões do apelo para verificação do que foi pleiteado pela defesa, tampouco de eventuais embargos de declaração impugnando o acórdão recorrido neste ponto.
+3. O que é possível inferir do presente mandamus - instruído pela própria defesa - é que a tese de ilegalidade por falta de apreciação da nova prova não foi analisada pela Corte de origem por não foi alegada no recurso. Tampouco se sabe se foi interposto embargos de declaração, recurso próprio para sanar eventuais omissões, contradições e obscuridades de decisões judiciais.
+4. Assim, do que consta nos autos, a tese não foi objeto de análise pelo Tribunal estadual, o que impede sua apreciação por esta Corte Superior, sob pena de supressão indevida de instância.
+5. Agravo regimental não provido.
+(AgRg no HC n. 720.421/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/10/2022, DJe de 3/11/2022).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTERPOSIÇÃO DE RECURSO ESPECIAL E IMPETRAÇÃO DE HABEAS CORPUS CONTRA O MESMO ACÓRDÃO. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. SUPERVENIENTE TRÂNSITO EM JULGADO DA CONDENAÇÃO QUE AGREGA ÓBICE À COGNIÇÃO DO PEDIDO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade.
+2. O trânsito em julgado do processo principal, nesta instância, em data posterior à impetração deste writ, não tem o condão de sanar o vício de conhecimento do habeas corpus impetrado contra o acórdão de segundo grau, em violação do princípio da unirrecorribilidade. Ao contrário. A coisa julgada, que agora torna a condenação originária definitiva, agrega ainda outro óbice à cognição do pedido. Consoante pacífica jurisprudência desta Corte, " n ão deve ser conhecido o writ que se volta contra acórdão já transitada em julgado" (AgRg no HC n. 751.156/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 9/8/2022, DJe 18/8/2022), pois, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, "as revisões criminais e as ações rescisórias de seus julgados"
+3. Cabe advertir à Defesa que, para eventual detida análise das alegações meritórias, pode o Recorrente manejar na origem a via de impugnação adequada contra condenação transitada em julgado, qual seja, a revisão criminal (STF, HC 206.818/SC, Rel. Ministro GILMAR MENDES, julgado em 13/10/2021, DJe 14/10/2021; v.g.).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 678.593/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/9/2022, DJe de 27/9/2022).
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. 1. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE. 2. RECURSO INTERPOSTO PELA OAB/DF. INTERVENÇÃO DE TERCEIRO EM HABEAS CORPUS. NÃO CABIMENTO. 3. TRANCAMENTO DA AÇÃO PENAL. MEDIDA EXCEPCIONAL. 4. "OPERAÇÃO TRICKSTER". ASSOCIAÇÃO CRIMINOSA. ESTELIONATO CONTRA O DF. PERMISSIONÁRIOS DE TRANSPORTE PÚBLICO COLETIVO. ALEGADA NÃO PARTICIPAÇÃO. MATÉRIA QUE SE CONFUNDE COM O MÉRITO. 5. RECORRENTE QUE TRANSFERIU SUAS LINHAS EM 2011. ESQUEMA CRIMINOSO PRATICADO ENTRE 2014 E 2018. PARTICULARIDADE DO CASO CONCRETO. 6. TRANSFERÊNCIA QUE NÃO OBSERVOU REGRAS DO DIREITO ADMINISTRATIVO. NOME DO RECORRENTE QUE PERMANECEU FORMALMENTE. LIAME COM AS CONDUTAS DELITIVAS. AUSÊNCIA DE DESCRIÇÃO. MERA VINCULAÇÃO FORMAL. INSUFICIÊNCIA. 7. PARTICIPAÇÃO NA COOPERATIVA. ASSINATURA DE TERCEIRA PESSOA. 8. RECURSO DA OAB/DF NÃO CONHECIDO. RECURSO DA DEFESA PROVIDO PARA TRANCAR A AÇÃO PENAL POR INÉPCIA.
+1. "Conforme jurisprudência pacífica, é vedada a interposição simultânea de dois recursos contra o mesmo ato judicial, ante o princípio da unirrecorribilidade e a ocorrência da preclusão consumativa". (EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1548291/SP, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 22/06/2021, DJe 25/06/2021).  ..
+8. Recurso interposto pela OAB/DF não conhecido. Recurso da defesa provido para determinar o trancamento da ação penal apenas com relação a DENIS JONES DOS SANTOS BASTOS SIRAGUSA, por inépcia da denúncia, sem prejuízo da apresentação de nova inicial acusatória.
+(RHC n. 151.394/DF, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/9/2021, DJe de 27/9/2021).
+Ante o exposto, com fundamento no art. 210, do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se."
+No presente agravo, a defesa reitera a alegação de que a pena imposta nas primeira e na segunda fases da dosimetria é desproporcional.
+Insiste na necessidade de reconhecimento de crime único, no que tange a apreensão de lidocaína e cafeína.
+Afirma ser possível a concessão da ordem de ofício para reconhecer a nulidade do acórdão proferido em sede de apelação.
+O Ministério Público Federal - MPF manifestou-se pelo não conhecimento do agravo, conforme parecer de fls. 75/77.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. INTERPOSIÇÃO SIMULTÂNEA DE HABEAS CORPUS E RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente o habeas corpus por ser substitutivo de recurso próprio e por violar o princípio da unirrecorribilidade, considerando a existência de recurso especial interposto pela defesa. Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182, desta Corte Superior.
+2. Agravo regimental não conhecido.
+VOTO
+O agravo não comporta conhecimento.
+Os fundamentos apresentados na decisão agravada no sentido de que a impetração de habeas corpus simultaneamente a interposição do recurso especial viola o princípio da unirrecorribilidade não foram infirmados nas razões do presente recurso, de modo a atrair a incidência da Súmula n. 182 desta Corte, in verbis:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido, confiram-se os seguintes precedentes:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA DE NATUREZA GRAVE. PROCESSO ADMINISTRATIVO DISCIPLINAR. REEXAME DE PROVAS. IMPOSSIBILIDADE. MATÉRIA NÃO TRATADA NO DECISUM IMPUGNADO. FALTA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese vertente, conforme registrado pela Corte de origem, a falta grave foi reconhecida mediante a instauração de processo administrativo disciplinar no qual foram assegurados o contraditório e a ampla defesa ao reeducando.
+2. Em sede de habeas corpus, inviável afastar os fundamentos fáticos apontados pelas instâncias ordinárias para o reconhecimento da gravidade da infração e/ou sua absolvição, pois demandaria o reexame de matéria fático-probatória.
+3. Além do mais, no que tange à alegação de que uma testemunha presencial do fato apurado no PAD, apesar de tempestivamente arrolada e qualificada, não foi ouvida, ressalte-se que tal matéria não foi tratada no decisum impugnado, o que atrai a aplicação da Súmula 182 desta Superior Corte de Justiça: É inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+4. Agravo regimental não provido.
+(AgRg no HC 370.647/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/2/2018, DJe 27/2/2018.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE SE CONHECER DA IMPETRAÇÃO. FUNDAMENTO NÃO IMPUGNADO. DOSIMETRIA DA PENA. AUMENTO DA PENA-BASE REALIZADO DE ACORDO COM O ART. 42 DA LEI N. 11.343/2006.
+1. O fundamento utilizado para não se conhecer do habeas corpus, a supressão de instância, não foi impugnado nas razões do agravo regimental, atraindo a aplicação da Súmula n. 182 desta Corte.
+2. Ademais, vale consignar que não se faz evidente a ilegalidade no estabelecimento da pena-base, uma vez que sua exasperação decorreu da avaliação da grande quantidade de droga apreendida, nos termos do art. 42 da Lei n. 11.343/2006.3. Agravo regimental desprovido.
+(AgRg no HC 644.335/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/4/2021, DJe 28/4/2021. )
+Ante o exposto, voto pelo não conhecimento do agravo regimental.
