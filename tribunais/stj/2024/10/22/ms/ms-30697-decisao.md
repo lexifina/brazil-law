@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado por DILMA PATSON SILVA, pensionista do anistiado político BENEDICTO DA SILVA, contra ato do Ministro de Estado dos Direitos Humanos e da Cidadania consubstanciado na Portaria nº 623, de 16 de julho de 2023, que anulou a anistia "deixando a Impetrante literalmente na rua das amarguras, sem a sua pensão e sem o direito à utilização dos hospitais da Aeronáutica, quando já conta com 85 anos de idade".
+Afirma que o procedimento de revisão da anistia de seu falecido marido deve observar o princípio da razoabilidade para que a impetrante possa viver com dignidade.
+Argumenta que "o cancelamento da anistia política concedida ao falecido marido da Impetrante, adquirida com absoluta boa-fé, há mais de vinte anos, fere a sua dignidade, a sua paz de espírito, o seu bem e estar retirando-lhe o próprio direito à vida".
+Requer, em sede de liminar, a suspensão do ato coator; no mérito, seja concedida a ordem para restabelecer a Portaria nº 580, de 6 de fevereiro de 2004, que concedeu ao falecido marido da impetrante a anistia política.
+É o relatório.
+Colhe-se dos autos que o presente mandado de segurança é conexo ao MS 20084/DF, no qual a Primeira Seção desta Corte, em juízo de retratação, denegou a segurança, assim ementado o respectivo acórdão:
+DIREITO PROCESSUAL CIVIL. MANDADO DESEGURANÇA. ANISTIA POLÍTICA. ANULAÇÃO. PODER DE AUTOTUTELA DA ADMINISTRAÇÃO. DECADÊNCIA. NÃO OCORRÊNCIA. TEMA 839/STF. DENEGAÇÃO DA ORDEM.
+1) No caso dos autos, o impetrante relata que foi declarado anistiado político. Alega, em síntese, que ocorreu a decadência do prazo para a Administração rever o ato anistiador em razão do transcurso do prazo de cinco anos entre a concessão da anistia e a edição do ato coator impugnado no presente mandado de segurança, bem como a absoluta boa-fé do impetrante ao apresentar a declaração de perseguido político, nos termos dos art. 53 e 54 da Lei 9.784/99.
+2) A Primeira Seção do STJ, ainda em agosto de 2013, havia concedido a ordem sob o fundamento de que houve decadência da autotutela administrativa para revisar a concessão de anistias a militares afastados com base na Portaria n. 1.104- GM2/1964.
+3) A interposição recurso extraordinário, o qual ficou - ao fim e ao cabo - sobrestado até o final de 2022, motivou a determinação da Vice-Presidência do STJ pelo retorno dos autos à Primeira Seção para eventual juízo de retratação.
+4) Consoante decidiu o Supremo Tribunal Federal, no bojo do RE 817.338/DF (Tema 839), submetido à sistemática da repercussão geral, ainda que decorrido o prazo decadencial de 05 (cinco) anos, mostra-se possível à Administração Pública instaurar procedimento de revisão das anistias concedidas a cabos da Aeronáutica com fundamento na Portaria nº1.104-GM3/1964, desde que comprovada a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, na via administrativa, o devido processo legal e a não devolução das verbas recebidas.
+5) Ordem denegada com base no art. 1040, II, do CPC/2015.
+Em razão dessa decisão, foi expedida Portaria nº 623, de 16 de julho de 2024, aqui apontada como ato coator, nos seguintes termos:
+O MINISTRO DE ESTADO DOS DIREITOS HUMANOS E DA CIDADANIA, no uso de suas atribuições legais, com fulcro no artigo 8º do Ato das Disposições Constitucionais Transitórias da Constituição Federal de 1988, regulamentado pela Lei nº 10.559, de 13 de novembro de 2002, publicada no Diário Oficial da União de 14 de novembro de 2002, em cumprimento à decisão judicial proferida nos autos do Mandado de Segurança nº 20084 - DF (2013/0115502-9), e nos termos do Parecer de Força Executória nº 00955/2024/PGU/AGU, além da Nota Técnica nº 101/2024/CIP/CGGA/CA/ADMV / G M . M D H C / M D H C, no Requerimento de Anistia nº 2003.01.23577, resolve:
+Art. 1º Tornar sem efeito a Portaria nº 2.036, de 20 de maio de 2013, publicada no Diário Oficial da União nº 96, Seção 1, pág. 29, de 21 de maio de 2013.
+Art. 2º Restabelecer os efeitos da Portaria nº 1.470, de 5 de abril de 2013, publicada no Diário Oficial da União nº 66, Seção 1, pág. 45, de 8 de abril de 2013, que anulou a Portaria Ministerial nº 580, de 6 de fevereiro de 2004, publicada no Diário Oficial da União nº 28, Seção 1, pág. 33, de 10 de fevereiro de 2004, que declarou BENEDICTO DA SILVA anistiado político.
+Nesse contexto, tem-se que a presente impetração veicula, por via transversa, recurso da decisão proferida no MS 20084/DF, o que não se admite.
+Com efeito, a concessão da segurança neste processo implicaria na cassação do acórdão proferido pela Primeira Seção desta Corte no MS 20084.
+Além disso, não há qualquer demonstração de vício no processo de revisão de anistia, aliás, no MS 20084, o único fundamento era a decadência, que restou afastada.
+Assim, não se verifica o direito líquido e certo da impetrante a ensejar a concessão da ordem.
+Ante o exposto, indefiro liminarmente o mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
+MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. ATO COATOR PROFERIDO EM CUMPRIMENDO DE DECISÃO JUDICIAL EM MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO NÃO COMPROVADO. WRIT INDEFERIDO LIMINARMENTE.
