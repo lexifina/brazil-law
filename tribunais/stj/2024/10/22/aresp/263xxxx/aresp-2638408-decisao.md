@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se  de  agravo  nos  próprios  autos  interposto  contra  decisão  publicada  na  vigência  do  CPC/2015,  que  inadmitiu  o  recurso  especial  em  razão  da  ausência de demonstração da alegada vulneração aos dispositivos arrolados (e-STJ  fls.  733/734).
+O  acórdão  reco rrido  encontra-se  assim  ementado  (e-STJ  fl.  644):
+PROCESSO CIVIL - Liquidação de sentença - Impugnação ao laudo pericial que apurou benfeitorias realizada em lote e valor locatício do mesmo lote -Irresignações que carecem de fundamento ou lastro, indicam metodologia inviável e refletem mera discordância com os resultados apurados pelo jurisperito - Agravo não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 716/718).
+Nas  razões  do  recurso  especial  (e  - STJ  fls.  650/664),  interposto  com  fundamento  no  art.  105,  III,  "a",  da  CF,  a parte recorrente alega violação dos arts. 6º, V, 39, V, 51, § 1º, III, do CDC e 413 e 884 do Código Civil.
+Aduziu que "a forma de apuração do valor do aluguel como determinado no acórdão, trará enriquecimento sem causa à recorrida e empobrecimento indevido ao recorrente" (e-STJ fl. 659).
+Assim "a decisão que, com o devido respeito, equivocadamente homologou o laudo pericial fere, inclusive, os princípios da razoabilidade, proporcionalidade e legalidade, haja vista a ausência de permissivo legal para se utilizar dos dados estatísticos de 2019 para uma cobrança de todos os meses e anos de ocupação do lote, gerando notório enriquecimento sem causa à recorrida" (e-STJ fl. 663).
+  No  agravo  (e-STJ  fls.  7 42/748),  afirma  a  presença  dos  requisitos  de  admissibilidade  do  especial.
+Foi  oferecida  contraminuta  (e-STJ fls. 751/755) .
+  É  o  relatório.
+Decido.
+Relativamente à tese de que a forma de apuração do valor do aluguel como determinado no acórdão recorrido, trouxe enriquecimento sem causa à recorrida, a Corte de origem asseverou que (e-STJ fls. 645/646, negritei):
+ ..
+Quanto ao valor locatício do lote apurado em perícia (R$ 1.417,00, para março de 2019), tampouco prospera o recurso.
+Com efeito, quanto ao pedido de que seja apurado, mês a mês, o valor locatício de mercado do lote, desde a notificação do débito até a restituição do bem, de acordo com as condições da região em cada mês, tal pleito se afigura despiciendo.
+O valor locatício do bem já fora especificado na perícia tendo por base o valor do lote, comparado com outros da região, e se aplicando sobre tal valor o percentual de 0,45%, para aferição do valor locatício, mensuração esta, diga-se, ainda inferior à aplicada por esta Câmara para casos parelhos, em que se adota, usualmente, o valor locatício de 0,5% do valor do bem.
+Anota-se que o agravante dá a entender que, a cada mês, se alterariam as condições mercadológicas locais da região onde localizado o lote, que influenciariam no valor locatício do bem a cada mês, de modo não necessariamente atrelado à inflação.
+Entretanto, nem mesmo os assistentes técnicos do agravante souberam explicar como chegar a tal valor locatício que, independentemente da inflação em determinado período, indicaria, mesmo que potencialmente, valor locatício distinto mês a mês consoante variação de condições mercadológicas locais, de modo que tal métrica pretendida pelo agravante apenas teria o condão de, na prática, inviabilizar a apuração de preço locatício do imóvel, já que sequer se é possível a aferição, mês a mês, de condições mercadológicas distintas que alterem em tão curto espaço de tempo o valor de aluguel.
+Não bastasse isso, é estéril projetar, para trás e para frente, pelo IGPM, o valor locatício apurado para 2019, para que se encontre os valores locatícios do lote antes e depois de 2019, porquanto valores eventualmente encontrados de tal modo seriam históricos, sem a necessária atualização, vale dizer, o valor projetado, para trás e para frente, pelo IGPM, tendo por base aquele de 2019, apenas refletiria o mesmo de 2019 sem a correção até então (para trás) ou com a correção a partir de então (para frente), modo de apuração que nada alteraria o valor já encontrado na perícia impugnada.
+O TJSP entendeu que "nem mesmo os assistentes técnicos do agravante souberam explicar como chegar a tal valor locatício" e que "o valor projetado, para trás e para frente, pelo IGPM, tendo por base aquele de 2019, apenas refletiria o mesmo de 2019 sem a correção até então (para trás) ou com a co rreção a partir de então (para frente), modo de apuração que nada alteraria o valor já encontrado na perícia impugnada". Rever tais conclusõe s demandaria nova incursão no conjunto probatório dos autos, providência vedada na instância especial, a teor da Súmula n. 7 do STJ.
+Por fim, a parte alega genericamente violação dos arts. 6º, V, 39, V, 51, § 1º, III, do CDC e 413 e 884 do Código Civil, não havendo, portanto, demonstração clara e inequívoca da infração, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Além do mais, o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Ante  o  exposto,  NEGO  PROVIMENTO  ao  agravo.
+Publique-se e intimem-se.
+ EMENTA
