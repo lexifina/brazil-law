@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 559/566) interposto contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial (e-STJ fls. 554/555).
+Em suas razões, a parte agravante aduz que impugnou todos os fundamentos da decisão de inadmissibilidade do recurso especial, não podendo o agravo ser rejeitado com base na Súmula n. 182/STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (e-STJ fl. 571).
+É o relatório.
+Decido.
+A parte recorrente atacou todos os fundamentos da decisão que não admitiu o recurso especial, não havendo falar em aplicação da Súmula n. 182/STJ.
+Assim, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo a novo exame do recurso.
+Na origem, o recurso especial foi inadmitido em virtude da incidência das Súmulas n. 5, 7 e 83 do STJ (e-STJ fls. 525/527).
+O acórdão recorrido está assim ementado (e-STJ fl. 337):
+APELAÇÕES CÍVEIS. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. POSSIBILIDADE DE REVISÃO DOS CONTRATOS QUITADOS. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONFIGURADA. FIXAÇÃO DE TAXA DE JUROS CONFORME BACEN. POSSIBILIDADE DA REPETIÇÃO DO INDÉBITO NA FORMA SIMPLES. DESCARACTERIZAÇÃO DA MORA SOMENTE QUANTO AOS CONTRATOS ATIVOS. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. SENTENÇA PARCIALMENTE REFORMADA.
+APELAÇÃO DO RÉU PARCIALMENTE PROVIDA. APELO DA AUTORA PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 346/372), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) art. 421 do CC, pois (e-STJ fl. 357):
+ ..  o D. Juízo a quo incontroversamente invalidou um ato jurídico perfeito, justificando suas razões de decidir unicamente no fato de as taxas dos juros remuneratórios fixadas em contrato destoarem daquelas estabelecidas pelo Banco Central para o período, bem como determinou a adequação da taxa de juros pautada na "taxa média de mercado", sem ao menos considerar as particularidades da contratação em discussão, tampouco sem realizar uma detida e necessária análise quanto aos altos riscos da contratação em discussão.
+(ii) arts. 355, I e II, e 356, I e II, do CPC/2015, pois (e-STJ fl. 360):
+ ..  entende a Recorrente ser imprescindível a realização da prova pericial contábil para se concluir pela abusividade da taxa de juros remuneratórios definida em contrato e/ou substituição por outro percentual, principalmente considerando que na prática os julgadores estão, em sua maioria, limitando-se a seguir com a utilização da "taxa média de mercado" como ferramenta de aferição quanto a suposta abusividade da taxa de juros fixada e para definir o novo percentual a ser aplicado.
+Ao final, requer a concessão de efeito suspensivo ao especial.
+A insurgência não merece prosperar.
+Ao apreciar a questão relativa aos juros remuneratórios, o Tribunal de origem concluiu pela abusividade da taxa contratada em comparação com a média mensal apurada pelo Banco Central para operações da mesma espécie no período da contratação, fundamentando o caráter abusivo dos juros remuneratórios no caso concreto (e-STJ fls. 333/335):
+No que diga respeito aos juros remuneratórios, salvo exceções expressamente reconhecidas por nosso ordenamento, as operações de crédito bancárias e os respectivos juros pactuados como remuneração do capital entregue sujeitam-se ao regramento infralegal conferido pelo Conselho Monetário Nacional, entidade propriamente incumbida da regulamentação de tais questões, o que se denota pelo conteúdo do art. 4º, incisos VI e IX, da Lei n.º 4.595/1964.
+Entrementes, é consabido que o supramencionado órgão normativo não conferiu barreiras às instituições financeiras e equiparadas quanto à fixação dos juros remuneratórios, permitindo-lhes a livre estipulação de tal encargo em relação a toda e qualquer operação de fornecimento de crédito que não seja diretamente incentivada pelo Estado, como se pode depreender dos incisos I e III, da Resolução 1.064/1.985.
+De outra banda, a autorização para livre estipulação da remuneração do empréstimo de crédito de modo algum pode servir de anuência para a cobrança de percentuais destoantes do que o mercado usualmente adota, principalmente em relações delicadas como as de consumo.
+Por isso, o Superior Tribunal de Justiça e este Tribunal não podem fechar os olhos para a vedação imposta pelo art. 39, inciso V, do Código de Defesa do Consumidor à exigência de vantagens manifestamente excessivas, tampouco podem se olvidar da consequente nulidade que essa postura incompatível com a boa-fé acaba por inquinar a cláusula contratual em que está inserida, consoante preconizado pelo art. 51, inciso IV, do referido diploma legal.
+Portanto, mostra-se imprescindível adotar as orientações consolidadas pelo STJ acerca dos juros remuneratórios, quando da realização do julgamento do recurso especial n.º 1061530/RS, sob a sistemática dos recursos repetitivos:
+ ..
+Além disso, cabe observar o que atualmente tem elucidado o Superior Tribunal de Justiça acerca do tema:
+A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos. A orientação emanada por esta Corte Federal de Uniformização, para que se reconheça a abusividade nos juros, é no sentido de que não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso concreto, ante as peculiaridades da demanda (AgRg no AREsp 527.855/SC, Rel. Min. Marco Buzzi, DJ de 13.4.2016).
+Logo, nos termos da orientação jurisprudencial do STJ acima transcrita, e que ora repito, "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada) art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto.  .. ".
+Isto é, não basta que os juros estejam nominalmente acima da média, mas sim que em muito superem essa - havendo jurisprudência do STJ no sentido de que as taxas de juros consideradas abusivas poderão ir até uma vez e meia a taxa de mercado, sem nenhum acréscimo, sem que isso, isoladamente, determine seja o contrato abusivo.
+In casu, diante da possibilidade de análise revisional incidente sobre contratos findos, conforme decidido em tópico anterior, passo, tendo em vista a aplicabilidade do princípio da causa madura para julgamento, à apreciação da abusividade ou não da taxa de juros remuneratórios dos contratos em destaque, senão vejamos:
+1) Quanto ao contrato de empréstimo pessoal 033380019393 (evento 1, CONTR6), firmado em 24/03/2020, com taxa mensal de juros em 22%. Por outro lado, a taxa média mensal de juros das operações de crédito com recursos livres (pessoas físicas, crédito pessoal não consignado) apontada pelo BACEN alcançou o percentual de 5,71%.
+2) Atinente ao contrato de empréstimo pessoal 033380024603 (evento 1, CONTR8), firmado em 08/11/2021, com taxa mensal de juros em 23%. De outra banda, a taxa média mensal de juros das operações de crédito com recursos livres (pessoas físicas, crédito pessoal não consignado) apontou 5,01%.
+3) Já com relação ao contrato de empréstimo pessoal 033380026001 (evento 1, CONTR9), firmado em 19/04/2022, com taxa mensal de juros em 23%. Em lado oposto, a taxa média mensal de juros das operações de crédito com recursos livres (pessoas físicas, crédito pessoal não consignado) registrou 5,22%.
+4) Quanto ao contrato de empréstimo pessoal nº 033380020784 (evento 1, CONTR7), firmado em 26/08/2020, foi fixada taxa de juros de 20,5% ao mês e de 837,23% ao ano, enquanto que a taxa média de mercado fora 4,54% a.m.
+5) Concernente ao contrato de refinanciamento nº 033380026691, firmado em 13/07/2022 com taxa de juros de 23% ao mês e de 980,93% ao ano, ao passo que a taxa média de mercado foi de 5,33% a.m. (evento 1, CALC11).
+Em sendo assim, diante da abusividade amplamente demonstrada, faz-se assente a limitação à média de mercado à época da contratação, importante parâmetro balizador adotado por esta Corte.
+Além disso, condeno o réu à devolução dos valores cobrados em excesso, de forma simples, o qual deverá ser corrigido monetariamente pelo IGP-M a partir de cada desembolso e acrescido de juros de mora de 1% ao mês a contar da data da citação.
+Dessa forma, imperioso o provimento do recurso no ponto.
+Modificar o entendimento do acórdão impugnado quanto às peculiaridades dos contratos e, assim, acolher os argumentos do recurso especial é inviável, em razão das Súmulas n. 5 e 7 do STJ.
+Outrossim, esta Corte de Justiça possui entendimento de que a incidência da Súmula n. 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual foi dada a solução pela Corte estadual.
+Por fim, não foram opostos embargos de declaração arguindo a tese referente à necessidade de perícia.
+Assim, o Tribunal de origem não foi instado, no momento oportuno, a se manifestar acerca do tema. Incidência das Súmulas n. 282 e 356 do STF, por falta de prequestionamento.
+Ante o exposto, reconsidero a decisão da Presidência desta Corte (e-STJ fls. 554/555) para CONHECER do agravo nos próprios autos e NEGAR-LHE PROVIMENTO.
+Preju dicado o pedido de concessão de efeito suspensivo.
+Mantida a majoração dos honorários aplicada pela decisão agravada.
+Publique-se e intimem-se.
+EMENTA
