@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RODRIGO VIEIRA DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+Extrai-se dos autos que o paciente foi preso preventivamente em 7/4/2024, em decorrência de suposta prática dos delitos de tráfico de drogas, posse de arma de fogo de uso permitido e corrupção de menores.
+A defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem.
+No presente writ, a defesa aponta excesso de prazo, uma vez que estaria encarcerado há mais de 11 meses, sem que tenha ocorrido o início da instrução processual.
+Por meio da decisão de fls. 46-47, o pedido liminar foi indeferido. Em seguida, foram juntadas aos autos informações (fls. 53-54) e a manifestação do Ministério Publico Federal pelo não conhecimento ou pela denegação do habeas corpus (fls. 86-88).
+É o relatório.
+A prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/04/2021, DJe de 30/04/2021.
+Sobre a questão, assim informou o Tribunal local (fls. 54-54, destaque acrescido):
+Compulsando o processo de origem (n.º 0916636-66.2024.8.12.0001), verifica-se que o paciente foi preso em flagrante no dia 06/04/2024; a prisão foi convertida em preventiva no dia 07/04/2024; em 06/05/2024 foi oferecida a denúncia; em 26/06/2024 o paciente foi notificado; em 07/06/2024 apresentou defesa prévia; em 07/06/2024 foi recebida a denúncia e marcada a audiência de instrução e julgamento para o dia 18/03/2025.
+Segundo informações prestadas pela autoridade coatora, o juízo deixava reservadas datas para audiências de réus presos, encaixes e audiências de continuação. Contudo, em decorrência de uma determinação expressa do Conselho nacional de Justiça e da Corregedoria do Tribunal de Justiça do Estado de Mato Grosso do Sul (SDCPA n.º 049.926.073.0255/2023), foi estabelecido que não devem ser mantidas datas e horários vagos.
+Assim, diante desta determinação, as pautas de audiências da Comarca encontram-se completamente preenchidas, sem disponibilidade de vagas, uma vez que as audiências estão sendo realizadas de segunda a sexta-feira, sem qualquer horário livre.
+Desta forma, observa-se que a data designada para cerca de oito meses depois não configura, por si só, excesso de prazo, primeiro porque tal lapso temporal decorre de circunstâncias normais de qualquer vara criminal, todas abarrotadas de processos de réus presos, e depois porque, considerando as penas abstratamente previstas para os crimes imputados ao paciente, não se pode prever que venha a ser configurado algum excesso, verificando-se, portanto, que a todo momento o feito recebeu o necessário impulso processual, não permanecendo inerte de forma desarrazoada por tempo algum.
+No caso, não se verifica desídia ou mora estatal na ação penal quando a sequência dos atos processuais afasta a ideia de paralisação indevida do processo ou de responsabilidade do Estado persecutor, razão pela qual não há que se falar em ilegalidade por excesso de prazo. A data designada para audiência de instrução foi justificada de forma concreta conforme a situação da unidade de origem.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E CONSUM ADO. ORGANIZAÇÃO CRIMINOSA. MEDIDAS CAUTELARES. FUNDAMENTAÇÃO PER RELATIONEM. IMPRESCINDIBILIDADE DA MEDIDAS DEMONSTRADA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se configura desprovida de fundamentos a decisão que mantém as medidas cautelares impostas pelos mesmos fundamentos quando da sua decretação.
+2. A chamada técnica da fundamentação per relationem (também denominada motivação por referência ou por remissão) é reconhecida pelo Supremo Tribunal Federal como legítima e compatível com o disposto no art. 93, IX, da Constituição Federal.
+3. Diante das circunstâncias concretas do caso e em observância ao binômio proporcionalidade e adequação, é possível a manutenção das medidas cautelares quando se mostrarem necessárias para garantir a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal.
+4. Inexiste excesso de prazo nas hipóteses em que não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 160.743/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.)
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
