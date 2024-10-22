@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pelo ora agravante.
+O agravante requer a declaração de incompetência da Justiça Federal, pela falta de transnacionalidade do delito de tráfico de drogas (e-STJ fls. 396/397).
+Contraminuta apresentada (e-STJ fls. 512/516).
+Parecer do Ministério Público Federal pelo não conhecimento (e-STJ fl. 579/580).
+Também consta dos autos que o Ministério Público Federal interpôs recurso especial (e-STJ fls. 407/423), que não foi admitido, conforme decisão de fls. 558/563. No parecer de fls. 581/588 (e-STJ), há manifestação pelo conhecimento do agravo para dar provimento ao recurso especial da acusação.
+É o relatório.
+Decido.
+O Tribunal de origem inadmitiu o recurso especial interposto pela parte agravante com amparo nos seguintes fundamentos (e-STJ fl. 479):
+Sustenta a parte recorrente ocorrência de dissídio jurisprudencial em relação a julgados de outros tribunais acerca da configuração da transnacionalidade do delito de tráfico de drogas.
+Decido.
+O recurso não merece prosseguir pela alínea c, pois o dissenso jurisprudencial não está demonstrado conforme os requisitos do artigo 1.029, § 1º, do Novo CPC.
+Com efeito, a parte recorrente limita-se a citar a ementa de julgados divergentes, sem proceder ao necessário cotejo analítico demonstrador da similitude fática entre a decisão impugnada e o apontado dissídio, e tampouco juntar cópia integral das decisões divergentes.
+A Corte Especial do Superior Tribunal de Justiça firmou entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. (..) A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, redator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018).
+Esse posicionamento vem guiando a jurisprudência das Turmas Criminais desta Corte, como se nota a partir dos acórdãos que consignam que "a falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia" (AgRg no AREsp 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no AREsp 1.871.630/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023).
+Postas essas premissas, verifica-se que o recurso especial foi inadmitido com base no óbice relativo à falta de demonstração do dissídio jurisprudencial.
+Nas razões do agravo em recurso especial, todavia, a parte limitou-se a afirmar, genericamente, que (e-STJ fl. 495).
+O argumento para a inadmissão do recurso foi a não realização do cotejo analítico para demonstrar a similitude fática entre a decisão impugnada e o apontado dissídio, bem como juntada de cópia integral das decisões divergentes.
+Com imenso respeito, mas os elementos invocados pelo I. Desembargador para não admitir o Especial não procedem.
+A defesa, na peça recursal, fez as distinções necessárias para conhecimento do presente recurso, especialmente no que diz respeito à exigência do art. 1.029, §1º, do CPC.
+Nesta linha, o cotejo analítico foi devidamente realizado.
+Quanto a juntada da cópia integral das decisões divergentes, é desnecessária a juntada da cópia da decisão, desde que seja apresentada a fonte da decisão com o respectivo acesso na rede mundial de computadores.
+Assim, na hipótese de alegação de dissídio jurisprudencial, deve demonstrar, de forma clara e objetiva, que situações fáticas semelhantes tiveram conclusões jurídicas distintas, não bastando a mera transcrição de ementas. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NÃO COMBATIDOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar todas as causas específicas de inadmissão do recurso especial, sob pena de não conhecimento do agravo.
+2. O insurgente deixou de refutar, de forma direta, objetiva e eficaz, os seguintes fundamentos: Súmulas n. 83 do STJ e 284 do STF.
+3. A argumentação empreendida pela defesa não foi suficiente para afastar a indicação da jurisprudência do STJ de que, nos casos de receptação, "cabe à defesa do acusado flagrado na posse do bem demonstrar a sua origem lícita ou a conduta culposa, fato não ocorrido na presente hipótese  ..  (REsp n. 1.961.255/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 11/4/2024.)".
+4. No tocante ao dissídio jurisprudencial, de fato não houve a devida demonstração de que situações fáticas semelhantes tiveram conclusões jurídicas distintas, o que caracteriza a deficiência recursal e justifica a incidência do óbice previsto na Súmula n. 284 do STF.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.549.078/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/6/2024, DJe de 13/6/2024).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. MERA TRANSCRIÇÃO DE EMENTAS. ACÓRDÃO DE HABEAS CORPUS APONTADO COMO PARADIGMA, IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A alegação de ofensa à lei federal presume a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal. Não basta, para tanto, a menção en passant a leis federais, tampouco a exposição do tratamento jurídico da matéria que o recorrente entende correto, como se estivesse a redigir uma apelação. Desse modo, a incidência da Súmula 284 do STF é medida que se impõe.
+2. Não se revela cognoscível a interposição do recurso com base na alínea "c" do art. 105, inciso III, da Constituição da República, quando a demonstração do dissídio interpretativo se restringe à mera transcrição dos acórdãos tidos por paradigmas.
+3. A jurisprudência deste Tribunal é firme no sentido de que não se admite como paradigma para comprovar eventual dissídio, acórdão proferido em habeas corpus, mandado de segurança, recurso ordinário em habeas corpus, recurso ordinário em mandado de segurança e conflito de competência 4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.509.469/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/3/2024, DJe de 5/4/2024.)
+No entanto, nas razões do agravo, não houve impugnação aos fundamentos da decisão recorrida, tendo a parte se limitado a fazer genérica argumentação, o que impede o conhecimento do agravo. Idêntica conclusão, aliás, foi alcançada pela Procuradoria-Geral da República em seu parecer, cujo trecho ora selecionado passa a integrar a presente fundamentação (e-STJ fls.579/580):
+Com efeito, olvidou-se de demonstrar que realizou o imprescindível cotejo analítico, necessário para demonstrar o dissídio jurisprudencial na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ, deixando de evidenciar o ponto em que, diante da mesma base fática, os acórdãos teriam adotado solução jurídica diversa para a controvérsia.
+Por fim, salienta-se que, após a decisão de admissibilidade de fls. 558/563 (e-STJ), não há petição de agravo em recurso especial do Ministério Público Federal , constando às fls. 567/570 (e-STJ) certificação da intimação, renúncia ao prazo e o seu término.
+Ante o exposto, na forma do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
