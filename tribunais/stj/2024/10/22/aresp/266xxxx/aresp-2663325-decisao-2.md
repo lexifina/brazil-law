@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por AÇO CEARENSE INDUSTRIAL LTDA., contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 211/STJ (e-STJ fls. 1.971/1.976).
+O acórdão recorrido está assim ementado (e-STJ fls. 1.527/1.528):
+APELAÇÕES CÍVEIS SIMULTÂNEAS. PRELIMINAR. ILEGITIMIDADE PASSIVA DO SÓCIO DA EMPRESA DESTINATÁRIA DA CARGA. ACOLHIMENTO. LEGITIMIDADE DO CAMINHONEIRO. REJEITADA. INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE. CARGA E DESCARGA. INOBSERVÂNCIA ÀS NORMAS DE SEGURANÇA. QUEDA DE PARTE DA CARGA SOBRE TRANSEUNTE. MORTE. DANO MORAL CONFIGURADO. RESPONSABILIDADE SOLIDÁRIA DA EMPRESA TRANSPORTADORA E DA EMPRESA ADQUIRENTE DA CARGA. QUANTUM INDENIZATÓRIO. MAJORAÇÃO. ALINHAMENTO AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. SENTENÇA PARCIALMENTE REFORMADA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.853/1.900).
+Nas razões do recurso especial (e-STJ fls. 1.613/1.629), interposto com base no art. 105, III, "a" e "c", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 743 a 756, 927, 942, 944 e 1.267 do CC/2002 e 12 da Lei n. 11.442/2007 e Resolução n. 302/2008 do CONTRAN, alegando que "a recorrente não se mostrou vital para a ocorrência do evento danoso, posto que esse apenas ocorreu pela falta de sinalização da calçada das dependências da empresa COMETA" (e-STJ fl. 1.620),
+(ii) arts. 186 e 188 do CC/2002, por entender que "cabe ao magistrado fixar a indenização atento à capacidade patrimonial das partes, à extensão do dano experimentado pela vítima, bem como ao grau de culpa do réu para a ocorrência do evento danoso" (e-STJ fl. 1.626).
+O agravo (e-STJ fls. 1.986/1.993) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 2.034/2.038).
+É o relatório.
+Decido.
+De início, é importante esclarecer que a jurisprudência deste Tribunal se firmou no sentido de que não cabe recurso especial em que se alega ofensa a circulares, resoluções, portarias e súmulas, bem como a dispositivos inseridos em regimentos internos, já que tais disposições normativas não se enquadram no conceito de lei federal previsto no art. 105, III, "a", da Constituição Federal.
+A recorrente apontou, de forma genérica, a ofensa aos arts. 743 a 756 do CC/2002, sem indicar, todavia, de que modo o dispositivo teria sido ofendido ou como a Corte local lhe teria negado vigência. Desse modo, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF.
+O TJBA, ao analisar as provas constantes dos autos, entendeu que a desídia da parte recorrente permitiu a ocorrência do acidente. Confira-se o seguinte excerto (e-STJ fl. 1.535):
+A desídia dos réus/apelantes, no caso, permitiu a ocorrência do acidente, no qual uma transeunte, filha dos Autores, foi vitimada pela queda sobre si de uma das bobinas de ferro que foram adquiridas pelo Réu/Apelante JOSÉ FIRMINO & CIA LTDA. e estavam sendo descarregadas por preposto do Réu/Apelante AÇO CEARENSE INDUSTRIAL LTDA., ocasionando a sua morte imediata.
+O nexo causal entre a conduta omissiva dos agentes - inobservância das normas de segurança - e a ocorrência do evento danoso resta configurado de forma cristalina, conforme acertadamente reconhecido na sentença, apontando para a responsabilidade dos Réus envolvidos na lide. Nessa linha, o laudo pericial juntado às fls. 40/44 atestou a inexistência de qualquer sinalização ou isolamento da área, nos seguintes termos:
+"Das evidências:
+Não foi observado qualquer tipo de sinalização de advertência, indicando que havia um veículo descarregando no local;
+Não foi encontrado qualquer tipo de isolamento ou obstáculo ao fluxo de pedestres no referido passeio;" (laudo pericial - fl. 42)
+A Corte local concluiu haver nexo causal entre a conduta omissiva dos agentes - inobservância das normas de segurança - e o evento danoso. Para contestar essa conclusão, seria necessário rever as provas e os fatos, o que não é permitido, de acordo com a Súmula n. 7 do STJ.
+Por fim, a modificação do valor da indenização por danos morais é admitida em recurso especial, conforme entendimento pacífico do STJ, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A Justiça local, diante das circunstâncias analisadas, manteve a indenização conforme lançada na sentença (e-STJ fl. 1.536):
+Assim, no tocante ao quantum fixado a título de reparação, com esteio nos princípios da razoabilidade e da proporcionalidade, entendo que não cabe majoração e nem redução, sendo a quantia arbitrada pelo douto Juízo a quo - equivalente a 100 salários mínimos, cujo valor atualizado corresponde a aproximadamente R$ 250.000,00 - coerente com a pretensão de reparação do dano moral sofrido, atendendo-se ao quanto disposto nos artigos 186, 187 e 927, parágrafo único do Código Civil.
+A quantia estabelecida pelas instâncias de origem não enseja a intervenção do STJ. Para alterar a cifra , seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo de AÇO CEARENSE INDUSTRIAL LTDA. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispos itivo.
+Publique-se e intimem-se.
+EMENTA
