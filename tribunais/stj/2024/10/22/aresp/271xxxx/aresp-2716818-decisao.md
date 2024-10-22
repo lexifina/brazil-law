@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de São Luís contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 271):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO CONTRA SENTENÇA. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO. IMPOSSIBILIDADE. INTELIGÊNCIA DO ART. 1.009 DO CPC. CABIMENTO. INCONSISTÊNCIA. PRECEDENTES DO TJMA. NEGADO SEGUIMENTO AO RECURSO.
+I. A aplicação do princípio da fungibilidade se restringe aos casos em que ocorrente dúvida doutrinária ou jurisprudencial sobre qual recurso deverá ser adotado ou quando possível a conversão recursal, sendo cediço pontuar a impossibilidade da aplicação de referido postulado quando interposto recurso cuja inadequação advêm de erro grosseiro;
+II. Na espécie, o erro grosseiro é evidente ao se constatar que o agravante interpôs o recurso de agravo de instrumento em face de uma típica sentença, o que se mostra inadequado, diante do prescrito no art. 1.009 do CPC, ao prever a apelação como recurso cabível em face de comando sentencial;
+III. Negado seguimento ao agravo de instrumento.
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial, violação aos arts. 203, §§ 1º e 2º e 1.015, parágrafo único, do CPC;
+Sustenta que o Tribunal local considerou, de modo equivocado, que a decisão que rejeita a impugnação ao Cumprimento de Sentença e determina o prosseguimento do feito é recorrível por apelação. Defende que nessa situação, em que não se pôs fim à fase de cumprimento provisório, é recorrível por meio de agravo de instrumento.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo comporta provimento.
+Com efeito, de acordo com a jurisprudência desta Corte, "no sistema do vigente Código de Processo Civil, a apelação é o recurso cabível contra a decisão que acolhe a impugnação ao cumprimento de sentença para extingui-lo. Entende ainda que a decisão que julga improcedente a impugnação, dando, assim, prosseguimento à fase executiva, não tem natureza jurídica de sentença definitiva, desafiando, por isso, agravo de instrumento" (AgInt no REsp n. 2.039.913/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/6/2023, DJe de 22/6/2023).
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. DECISÃO QUE REJEITA A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. ACÓRDÃO EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Inexiste violação ao art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de qualquer erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+2. A decisão que resolve impugnação ao cumprimento de sentença e extingue a execução deve ser atacada em apelação, enquanto aquela que julga o mesmo incidente, sem extinguir a fase executiva, deve ser combatida por meio de agravo de instrumento. Precedentes.
+3. Agravo interno do particular a que se nega provimento.
+(AgInt no REsp n. 1.952.524/MG, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+No caso dos autos, o tribunal de origem consignou que houve a rejeição à impugnação ao cumprimento provisório de sentença motivo pelo qual o recurso cabível seria a apelação.
+Confira-se (fl. 362):
+Cuida-se de Agravo de Instrumento manejado pelo Município de São Luís/MA em face da sentença exarada nos autos do processo nº 0800647-68.2021.8.10.0002 pelo Juiz de Direito da 1ª Vara da Infância e da Juventude do Termo Judiciário de São Luís da Comarca da Ilha de São Luís/MA, em que o magistrado de primeiro grau julgou procedentes os pedidos formulados na inicial e improcedente a impugnação ao cumprimento provisório de sentença.
+Razões recursais de ID nº 27949786.
+É o necessário a relatar. DECIDO.
+Pontuo a possibilidade de, monocraticamente, julgar o presente recurso, com supedâneo no art. 932, III, do CPC1 e escorado no art. 319, § 1º, do Regimento Interno do Tribunal de Justiça do Estado do Maranhão - RITJMA.
+Nesse trilhar, ressalto que ao relator, na função de juiz preparador de todo e qualquer recurso do sistema processual civil brasileiro, compete o exame do juízo prévio de conhecimento, devendo, assim, verificar a presença dos pressupostos de admissibilidade recursal.
+Na espécie, verifico a ausência de um dos requisitos indispensáveis à admissibilidade do agravo de instrumento, qual seja, o cabimento, havendo explícita inadequação da via recursal eleita.
+De acordo com as regras processuais ínsitas ao Código de Processo Civil, o cabimento do recurso de agravo de instrumento encontra-se disciplinado no rol do art. 1.0153 , sendo cediço pontuar que, para que uma decisão seja impugnada por meio do recurso de agravo de instrumento, se faz indispensável que seu conteúdo esteja dentro dos limites estipulados no respectivo dispositivo legal.
+Sem a necessidade de maiores delongas, observo que a determinação judicial recorrida possui claramente natureza jurídica de sentença, não apenas por assim se encontrar nominada, mas, igualmente, por se tratar de decisão de mérito que extinguiu o processo, sendo atacável, portanto, por meio do recurso disposto no art. 1.009 do Código de Processo Civil4 (apelação).
+In casu, não poderia o agravante se insurgir contra o aludido comando decisório por meio do recurso de agravo de instrumento, uma vez que referida decisão não possui a natureza de decisão interlocutória, pois não deliberada sobre quaisquer das matérias descritas no rol do supracitado art. 1.015 do CPC, sendo, na realidade, uma clara sentença que julgou o mérito da demanda.
+Dessarte, o acórdão recorrido decidiu em desacordo com a nossa jurisprudência.
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial para cassar o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem para que prossiga no julgamento do recurso de agravo, como entender de direito.
+Publique-se.
+EMENTA
