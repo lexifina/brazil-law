@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido e conceder "Habeas Corpus" de ofício, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS COMO SUBSTITUTIVO DE RECURSO PRÓPRIO OU REVISÃO CRIMINAL. TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE DE AFASTAMENTO DA MINORANTE COM BASE EM INVESTIGAÇÕES PRELIMINARES OU PROCESSOS EM ANDAMENTO. APREENSÃO DE PEQUENA QUANTIDADE DE DROGA. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO EM SEU GRAU MÁXIMO. CONCESSÃO DA ORDEM DE OFÍCIO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado com o objetivo de revisar a condenação do paciente pelo crime de tráfico de drogas, buscando a aplicação da causa de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 (tráfico privilegiado). O paciente foi condenado pela comercialização de entorpecentes, com base em certidão que indicava prisão anterior por crime semelhante, motivo pelo qual foi afastada a aplicação da redutora.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se é possível afastar a aplicação da causa de diminuição de pena pelo tráfico privilegiado com base em investigação preliminar ou processos criminais ainda em andamento, bem como avaliar a proporcionalidade da pena aplicada.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. A jurisprudência consolidada do STJ e do STF é clara ao vedar o afastamento da causa de diminuição de pena pelo tráfico privilegiado com base em investigações preliminares ou processos criminais em andamento, sob pena de violação ao princípio da presunção de inocência, conforme previsto no art. 5º, LIV, da Constituição Federal.
+5. No caso concreto, foi apreendida pequena quantidade de drogas (9,5 gramas de maconha e 8,5 gramas de cocaína), o que autoriza a aplicação da redutora em seu patamar máximo (2/3), conforme a jurisprudência pacífica desta Corte.
+6. Diante da flagrante ilegalidade na dosimetria da pena, impõe-se a concessão da ordem de ofício para recalcular a pena do paciente.
+IV. HABEAS CORPUS NÃO CONHECIDO, MAS CONCEDIDA A ORDEM DE OFÍCIO PARA RECALCULAR A PENA DO PACIENTE, APLICANDO-SE A CAUSA DE DIMINUIÇÃO DE PENA NO PATAMAR MÁXIMO DE 2/3, RESULTANDO NA PENA DE 1 ANO E 8 MESES DE RECLUSÃO, EM REGIME ABERTO, COM SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR DUAS PENAS RESTRITIVAS DE DIREITO. O PACIENTE DEVE SER COLOCADO EM LIBERDADE, SALVO SE HOUVER OUTRO MOTIVO QUE JUSTIFIQUE SUA PRISÃO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de e-STJ fl. 46:
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOÃO VITOR OLIVEIRA SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou provimento à Apelação Criminal n. 1500716-81.2022.8.26.0583.
+Consta dos autos que o acórdão ora impugnado manteve a condenação do paciente como incurso no art. 33, caput, da Lei n. 11.343/06, às penas de 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa, no valor unitário mínimo.
+Concluiu o tribunal local, no que toca ao pleito de reconhecimento do tráfico privilegiado, que, "conforme se verifica da certidão de fls. 60, uns meses antes dos fatos em tela (04/04/2022) o réu havia sido preso pelo mesmo crime em concurso material com associação para o tráfico, mas, naquela ocasião, foi beneficiado com liberdade provisória cumulada com medidas cautelares, o que não o impediu de continuar comercializando entorpecentes, de sorte que, a toda evidência, não pode ser considerado como traficante de primeira viagem e, assim, não tem direito à causa de diminuição da pena" (fl. 34).
+Pleiteia a defesa, liminarmente e no mérito, a aplicação da causa de diminuição do §4º do artigo 33 da Lei de Drogas, com alteração do regime prisional para o inicial aberto e substituição da pena privativa de liberdade por restritiva de direitos.
+A defesa alega, em síntese, a o preenchimento dos requisitos para a minorante do tráfico privilegiado.
+Requer a concessão da ordem para obter a referida redutora.
+O Ministério Público Federal opina pelo não conhecimento do writ.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS COMO SUBSTITUTIVO DE RECURSO PRÓPRIO OU REVISÃO CRIMINAL. TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE DE AFASTAMENTO DA MINORANTE COM BASE EM INVESTIGAÇÕES PRELIMINARES OU PROCESSOS EM ANDAMENTO. APREENSÃO DE PEQUENA QUANTIDADE DE DROGA. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO EM SEU GRAU MÁXIMO. CONCESSÃO DA ORDEM DE OFÍCIO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado com o objetivo de revisar a condenação do paciente pelo crime de tráfico de drogas, buscando a aplicação da causa de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 (tráfico privilegiado). O paciente foi condenado pela comercialização de entorpecentes, com base em certidão que indicava prisão anterior por crime semelhante, motivo pelo qual foi afastada a aplicação da redutora.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se é possível afastar a aplicação da causa de diminuição de pena pelo tráfico privilegiado com base em investigação preliminar ou processos criminais ainda em andamento, bem como avaliar a proporcionalidade da pena aplicada.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. A jurisprudência consolidada do STJ e do STF é clara ao vedar o afastamento da causa de diminuição de pena pelo tráfico privilegiado com base em investigações preliminares ou processos criminais em andamento, sob pena de violação ao princípio da presunção de inocência, conforme previsto no art. 5º, LIV, da Constituição Federal.
+5. No caso concreto, foi apreendida pequena quantidade de drogas (9,5 gramas de maconha e 8,5 gramas de cocaína), o que autoriza a aplicação da redutora em seu patamar máximo (2/3), conforme a jurisprudência pacífica desta Corte.
+6. Diante da flagrante ilegalidade na dosimetria da pena, impõe-se a concessão da ordem de ofício para recalcular a pena do paciente.
+IV. HABEAS CORPUS NÃO CONHECIDO, MAS CONCEDIDA A ORDEM DE OFÍCIO PARA RECALCULAR A PENA DO PACIENTE, APLICANDO-SE A CAUSA DE DIMINUIÇÃO DE PENA NO PATAMAR MÁXIMO DE 2/3, RESULTANDO NA PENA DE 1 ANO E 8 MESES DE RECLUSÃO, EM REGIME ABERTO, COM SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR DUAS PENAS RESTRITIVAS DE DIREITO. O PACIENTE DEVE SER COLOCADO EM LIBERDADE, SALVO SE HOUVER OUTRO MOTIVO QUE JUSTIFIQUE SUA PRISÃO.
+VOTO
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+O acórdão assim se manifestou acerca da aplicação da causa de diminuição (e-STJ fl. 34):
+A dinâmica do fato, as circunstâncias da prisão em flagrante delito e a prova indiciária rechaçam a condição de neófito. Além disso, conforme se verifica da certidão de fls. 60, uns meses antes dos fatos em tela (04/04/2022) o réu havia sido preso pelo mesmo crime em concurso material como associação para o tráfico, mas, naquela ocasião, foi beneficiado com liberdade provisória cumulada com medidas cautelares, o que não o impediu de continuar comercializando entorpecentes, de sorte que, a toda evidência, não pode ser considerado como traficante de primeira viagem e, assim, não tem direito à causa de diminuição da pena.
+A análise realizada pelo Tribunal de origem não está em linha com a jurisprudência desta Corte acerca da temática.
+A respeito a jurisprudência deste col. STJ é pacífica no sentido de que "O Supremo Tribunal Federal tem entendimento de que "A causa de diminuição pelo tráfico privilegiado, nos termos do art. 33, § 4º, da Lei 11.343/2006, não pode ter sua aplicação afastada com fundamento em investigações preliminares ou processos criminais em andamento, mesmo que estejam em fase recursal, sob pena de violação do art. 5º, LIV, da Constituição Federal (RE 1.283.996 AgR, Rel. Ministro RICARDO LEWANDOWSKI, Segunda Turma, julgado em 11/11/2020)." (HC 664284 / ES, RELATOR Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 21/09/2021, DATA DA PUBLICAÇÃO/FONTE DJe 27/09/2021)
+No presente feito, em se tratando da apreensão de 9,5 gramas de maconha e 8,5 gramas de cocaína, a redutora deve ser aplicada em seu patamar máximo, qual seja o de 2/3 (dois terços), em linha com os precedentes supracitados.
+Ante o exposto, não conheço do presente habeas corpus, mas concedo a ordem de ofício para recalcular a pena relativa ao delito do art. 33 da Lei Antidrogas aplicada, estabelecendo-a em 01 (um) ano e 8 (oito) meses de reclusão e 167 dias-multa, a ser cumprida no regime aberto. Considerando o preenchimento dos requisitos do art. 44 do CP, substituo a pena corporal por duas restritivas de direito a serem fixadas pelo Juízo de origem.
+Se estiver preso, o paciente deverá ser imediatamente posto em liberdade, se outro motivo não justificar sua prisão.
+É o voto.
