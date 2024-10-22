@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+Direito penal. Agravo regimental. Tráfico de drogas. REDUTOR DO PRIVILÉGIO. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. Reexame de provas. Súmula N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. REGIME MAIS GRAVOSO. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu parcialmente e negou provimento a recurso especial, com base na Súmula n. 7 do STJ, diante do não reconhecimento do tráfico privilegiado e manteve regime de pena mais rigoroso.
+2. As instâncias ordinárias concluíram pela dedicação do agravante às atividades criminosas, considerando a quantidade e diversidade de entorpecentes, o uso de veículos e a apreensão de bloqueador de GPS.
+3. A decisão agravada manteve o regime inicial fechado.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível reavaliar a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006, sem reexame de provas, e a fixação de regime menos gravoso.
+III. Razões de decidir
+5. A aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006, foi afastada com base na dedicação do agravante a atividades criminosas, não sendo possível reverter essa conclusão sem reexame de provas.
+6. A manutenção do regime inicial fechado é justificada pela existência de circunstância judicial negativa, conforme jurisprudência desta Corte.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A existência de circunstância judicial negativa justifica a manutenção do regime inicial fechado. 2. A revisão do afastamento do redutor do art. 33, § 4º, da Lei n. 11.343/2006, demanda reexame de provas, vedado pela Súmula 7/STJ."
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; CP, arts. 33, § 2º, "a" e § 3º, 44.
+Jurisprudência relevante citada: STJ, AgRg no REsp 2.125.440/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 17/6/2024; STJ, AgRg no AREsp 1.728.466/MS, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/8/2021.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALEXANDRE DIAS DA SILVA contra decisão monocrática proferida às fls. 926/932, que, com base na Súmula n. 568 do STJ, conheceu do agravo para conhecer em parte do recurso especial, negando-lhe provimento.
+No presente recurso, a defesa sustenta que não busca o reexame de matéria fático-probatória, mas a justa revaloração das provas. Insiste que o argumento para o não reconhecimento do privilégio é a quantidade de drogas.
+Aduz que inexiste razão específica para que a pena não possa ser cumprida em regime menos rigoroso.
+Requereu, assim, a reconsideração da decisão agravada, com a remessa do agravo regimental para o respectivo colegiado para julgamento.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Tráfico de drogas. REDUTOR DO PRIVILÉGIO. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. Reexame de provas. Súmula N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. REGIME MAIS GRAVOSO. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu parcialmente e negou provimento a recurso especial, com base na Súmula n. 7 do STJ, diante do não reconhecimento do tráfico privilegiado e manteve regime de pena mais rigoroso.
+2. As instâncias ordinárias concluíram pela dedicação do agravante às atividades criminosas, considerando a quantidade e diversidade de entorpecentes, o uso de veículos e a apreensão de bloqueador de GPS.
+3. A decisão agravada manteve o regime inicial fechado.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível reavaliar a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006, sem reexame de provas, e a fixação de regime menos gravoso.
+III. Razões de decidir
+5. A aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006, foi afastada com base na dedicação do agravante a atividades criminosas, não sendo possível reverter essa conclusão sem reexame de provas.
+6. A manutenção do regime inicial fechado é justificada pela existência de circunstância judicial negativa, conforme jurisprudência desta Corte.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A existência de circunstância judicial negativa justifica a manutenção do regime inicial fechado. 2. A revisão do afastamento do redutor do art. 33, § 4º, da Lei n. 11.343/2006, demanda reexame de provas, vedado pela Súmula 7/STJ."
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; CP, arts. 33, § 2º, "a" e § 3º, 44.
+Jurisprudência relevante citada: STJ, AgRg no REsp 2.125.440/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 17/6/2024; STJ, AgRg no AREsp 1.728.466/MS, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/8/2021.
+VOTO
+O inconformismo não prospera.
+Consoante dito, as instâncias ordinárias concluíram pela dedicação do recorrente às atividades criminosas não só com base na elevada quantidade e diversidade de entorpecentes, mas pela utilização de veículos para a prática criminosa, além da apreensão de um bloqueador de GPS, elementos que, juntos, denotam o envolvimento do ora agravante na seara criminosa.
+Assim, de fato, para se concluir de modo diverso seria necessário o revolvimento fático- probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. AUMENTO DA PENA-BASE. POSSIBILIDADE. QUANTIDADE DE DROGA. ART. 42 DA LEI N. 11.343/2006. ATENUANTE DA CONFISSÃO ESPONTÂNEA NA FORMA QUALIFICADA. FRAÇÃO DE REDUÇÃO PROPORCIONAL. TRÁFICO PRIVILEGIADO. AFASTAMENTO JUSTIFICADO. INEXISTÊNCIA DE BIS IN IDEM. MAJORANTE DO TRÁFICO INTERESTADUAL. MANUTENÇÃO. DELITO DE RECEPTAÇÃO. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. INCABÍVEIS. CIÊNCIA DA ORIGEM ILÍCITA DO BEM E DOLO NA CONDUTA . ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. NEGATIVAÇÃO DAS CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. MANUTENÇÃO DO REGIME INICIAL FECHADO E DA NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há ilegalidade na exasperação da pena-base acima do mínimo legal, uma vez que a quantidade e a natureza da droga apreendida é fundamento idôneo para exasperar a basilar e deve preponderar sobre as demais circunstâncias judiciais, nos exatos termos do art. 42 da Lei n. 11.343/2006. Também não há falar em desproporcionalidade da fração de aumento utilizada pela Corte a quo, haja vista o considerável montante de entorpecente apreendido, consistente em 28, 650kg de skunk.
+2. A decisão agravada reconheceu a aplicação da atenuante da confissão espontânea, mas na forma qualificada, pois o acusado confessou o transporte da droga, mas afirmou que o fez sob coação, motivo pelo qual se mostra admissível e razoável a utilização da fração de 1/12 para a atenuação da pena. Precedentes.
+3. A aplicação da redutora do § 4º do art. 33 da Lei n. 11.343/2006 foi negada não apenas em decorrência da grande quantidade de droga apreendida, mas também com lastro em outras circunstâncias do flagrante. Desse modo, mostra-se idônea a fundamentação da Corte a quo, não havendo falar, ainda, em ocorrência de bis in idem, pois a quantidade de droga foi conjugada com outros elementos para o afastamento do tráfico privilegiado. A reversão da conclusão da instância ordinária sobre a dedicação do agravante a atividades criminosas encontra óbice na Súmula n. 7 do STJ.
+4. Sobre a incidência da majorante prevista no art. 40, inciso V, da Lei de Drogas, a Corte estadual concluiu que restou devidamente demonstrado nos autos que os entorpecentes seriam originários de Minas Gerais e teriam como destino o Estado de São Paulo. Desse modo, para se reverter essa conclusão, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que também esbarra na Súmula n. 7 do STJ.
+5. Nos termos da jurisprudência desta Corte Superior, quanto ao crime de receptação, incumbe à defesa comprovar que o acusado desconhecida a origem ilícita do bem adquirido para fim de declarar a sua absolvição ou a desclassificação do delito para a modalidade culposa. Desse modo, tendo o Tribunal de origem entendido pela ciência do agravante sobre a origem ilícita veículo e pela existência de dolo na conduta do acusado, a reversão dessa conclusão encontra óbice na Súmula n. 7 do STJ.
+6. A Corte a quo entendeu pela negativação das circunstâncias do delito em razão de o veículo receptado estar com os sinais identificadores adulterados, dificultando, assim, a constatação da origem ilícita do bem. Tal conclusão não merece reparo, pois tal circunstância não é inerente ao crime de receptação, além de demonstrar uma maior reprovabilidade da conduta.
+7. Permanecendo a reprimenda do agravante em patamar superior a 8 anos de reclusão, mantém-se o regime inicial fechado e a negativa de substituição da pena privativa de liberdade por restritiva de direitos, nos termos dos arts. 33, § 2º, "a" e § 3º e 44 do Código Penal - CP.
+8 . Agravo regimental desprovido.
+(AgRg no REsp n. 2.125.440/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/6/2024, D Je de 19/6/2024.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PLEITO DE APLICAÇÃO DO REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+1. Na espécie, a elevadíssima quantidade de droga apreendida - 1.670kg (um mil e seiscentos e setenta quilos) de maconha, aliada à complexidade da operação de transporte do entorpecente em um caminhão, escondido em meio a uma carga de soja, e dentro do contexto circunstancial analisado pelo Tribunal de origem, com apoio no suporte fático-probatório dos autos, configuraram fatores impeditivos à concessão da causa redutora prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+2. Para a análise da tese recursal, no sentido de que o agravante preenche os requisitos para a concessão do redutor do art. 33, § 4º, da Lei n. 11.343/2006, mostra- se, no caso, imprescindível o reexame dos elementos fático-probatórios dos autos, já visitados pela instância ordinária, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula n. 7 desta Corte. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.728.466/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/8/2021, D Je de 12/8/2021.)
+Quanto ao regime de pena, o mais gravoso - fechado - foi imposto em razão da existência de circunstância judicial negativa, o que não confronta a jurisprudência desta Corte. Confira-se:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. ABSOLVIÇÃO. BENEFÍCIO DO ART. 33, § 4º, DA LEI Nº 11.343/06. REVOLVIMENTO DE CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação da acusada pelo crime de tráfico. Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pela absolvição da acusada, tendo em vista a ausência de prova concreta para a condenação, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+2. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+3. No presente caso, verifica-se que os fundamentos utilizados pela Corte de origem para não aplicar o referido redutor ao caso concreto estão em consonância com a jurisprudência deste Superior Tribunal, na medida em que dizem respeito à dedicação da agravante à atividade criminosa (tráfico de drogas), consubstanciada nas circunstâncias concretas do crime, não se tratando de traficante ocasional, situação que corrobora a conclusão de que se dedicava às atividades ilícitas, o que justifica o afastamento da redutora do art. 33, §4º, da Lei n. 11.343/2006. Assim, para se acolher a tese de que ela não se dedica a atividade criminosa, para fazer incidir o benefício do tráfico privilegiado , como requer a parte recorrente, imprescindível o reexame das provas, procedimento sabidamente inviável na instância especial. Inafastável a incidência da Súmula n. 7/STJ.
+4. No que tange ao regime de cumprimento de pena, a jurisprudência desta Corte firmou-se no sentido de que, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito  enunciado da Súmula 440 deste Tribunal. Na mesma esteira, são os enunciados das Súmulas 718 e 719 do Supremo Tribunal Federal.
+5. Ademais, a jurisprudência desta Corte Superior de Justiça é no sentido de que a quantidade e a variedade das drogas apreendidas podem ser utilizadas como fundamento para a determinação da fração de redução da pena com base no art. 33, § 4.º, da Lei n. 11.343/2006, a fixação do regime mais gravoso e a vedação à substituição da sanção privativa de liberdade por restritiva de direitos. Precedentes.
+6. Em atenção ao art. 33, § 2º, alínea "b", do CP, embora estabelecida a pena definitiva da acusada em 5 anos de reclusão, houve a consideração da quantidade do entorpecente apreendido (425kg de maconha) na exasperação da pena-base, fundamento a justificar a manutenção do regime prisional mais gravoso, no caso, o fechado.
+7. Agravo regimental não provido.
+(AgRg nos E Dcl no AREsp n. 2.546.626/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/8/2024, D Je de 3/9/2024.)
+Incide, na hipótese, a Súmula n. 83/STJ.
+Ante o exposto, voto no sentido de desprover o agravo regimental.
