@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por WAGNER CANHEDO AZEVEDO FILHO contra acórdão proferido pela Quinta Turma desta Corte assim ementado:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME AMBIENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO RECORRIDA. APLICAÇÃO DA SÚMULA N. 83, STJ. INCORRETA IMPUGNAÇÃO DO ENTENDIMENTO SUMULADO. PRECEDENTES. REITERAÇÃO DO MÉRITO.
+I - Conforme dispõe o art. 258 c/c o art. 21-E, § 2º, do RISTJ, o agravo regimental se destina a desafiar decisões monocráticas proferidas em matéria penal, motivo pelo qual caberia à parte recorrente impugnar os fundamentos que levaram ao não conhecimento do recurso especial.
+II - Na espécie, depreende-se das razões recursais que o agravante se limitou a reiterar as alegações de mérito deduzidas no recurso anterior, sem apresentar argumentos suficientes para infirmar a decisão recorrida.
+III - A decisão monocrática fundou-se na ausência de impugnação adequada dos fundamentos da Corte de origem quanto à incidência da Súmula n. 83, do STJ. O recorrente não se desincumbiu do ônus de colecionar precedentes contemporâneos ou supervenientes aos julgados indicados pela decisão agravada, a fim de afastar a aplicação da Súmula n. 83, STJ.
+Agravo regimental desprovido.
+Opostos embargos de declaração, foram rejeitados.
+Aponta o embargante dissídio jurisprudencial com julgados da Quarta Turma, alegando:
+A diferença fundamental é que, enquanto no caso em tela, mesmo diante da demonstração da impugnação específica aos "fundamentos" da decisão agravada a quo, que inadmitiu o recurso especial, o colegiado optou por meramente reiterar os fundamentos da decisão que não conheceu do agravo em recurso especial, na prática convalidando acórdão manifestamente nulo exarado pelo TRF-1ª Região, nos acórdãos ora apontados como paradigma (STJ: AgInt no AREsp n. 2.580.178/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/8/2024, DJe de 2/9/2024 e AgInt no AREsp n. 2.580.495/ES, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/8/2024, DJe de 2/9/2024), o colegiado reconsiderou a decisão agravada, reconhecendo expressamente que ".. ficou demonstrado que houve a impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial..".
+Em ambos os casos aqui mencionados a título de paradigma, os agravos em recurso especial não foram conhecidos e, interposto agravo regimental, o colegiado reconsiderou a decisão previamente proferida, para reconhecer que, de fato, o agravante havia impugnado especificamente todos os fundamentos da decisão agravada, tal como ocorrido no caso em tela, embora tenham ocorrido desfechos absolutamente diversos.
+Nos acórdãos paradigma, da QUARTA TURMA, o STJ reconsiderou a decisão que não conheceu do agravo em recurso especial, consignando expressamente que ".. ficou demonstrado que houve a impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial..", enquanto no caso em tela, optou-se pela negativa de prestação jurisdicional, pela insistência na mera reiteração dos fundamentos da decisão agravada, em flagrante desconsideração à regra do art. 1.021, § 3º, do CPC e bem assim ao art. 315, §2º, inc. IV, do CPP.
+Assim, embora em situações de manifesta similitude fática, ou seja, em o julgador, utilizando-se de filtro jurisprudencial muito rigoroso, voltado unicamente à redução do número de processos em trâmite no STJ, incorre em manifesto equívoco; a parte prejudicada recorre, demonstrando o erro e a impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial e, ainda assim, a decisão equivocada é mantida, divergiram entre si os acórdãos oriundos da egrégia QUARTA TURMA e o v. acórdão ora embargado, da QUINTA TURMA na interpretação de dispositivos de Lei Federal correspondentes entre si.
+A diferença é que nos precedentes ora invocados como paradigma, o julgador, ao analisar os argumentos defensivos, reconsiderou as decisões que não conheceram do agravo, reconhecendo a impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial.
+Pleiteia, caso não conhecido o recurso, seja concedido habeas corpus de ofício.
+É o relatório.
+O recurso não ultrapassa o conhecimento.
+Com efeito, em que pese o inconformismo do embargante, não há qualquer dissenso jurisprudencial sobre tese jurídica.
+O acórdão embargado concluiu que o recorrente não logrou demonstrar que não seria hipótese de incidência do verbete nº 83/STJ, porquanto não indicados precedentes atuais favoráveis a sua tese.
+Os paradigmas, de outro lado, cuidam de situações nas quais a decisão de não conhecimento do agravo em recurso especial pela incidência da Súmula 182/STJ foi reconsiderada com reexame do recurso.
+Ou seja, os julgados aplicaram regras técnicas de conhecimento do recurso especial de acordo com as particularidades de cada caso.
+Não há, pois, dissenso pretoriano a ser dirimido em sede embargos de divergência, que não se prestam a discutir o erro ou o acerto do decisum quanto à incidência ou não de regra técnica de conhecimento de recurso especial.
+Sobre o tema, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DE REGRA TÉCNICA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA. INVIABILIDADE. CONTROVÉRSIA DE MÉRITO NÃO ANALISADA PELO ACÓRDÃO EMBARGADO. INVIABILIDADE DOS EMBARGOS DE DIVERGÊNCIA. SÚMULA N. 315 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. "Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para extrair conclusão diversa a respeito da incidência das Súmulas 283 e 284/STF e 5, 7 e 211/STJ (AgInt nos EDcl nos EREsp n. 1.711.769/RJ, Segunda Seção).
+2. São inviáveis os embargos de divergência quando o acórdão embargado nem sequer adentra o mérito do recurso especial, abstendo-se, assim, de fixar tese a respeito da questão federal controvertida (Súmula n. 315 do STJ).
+3. Agravo interno desprovido.
+(AgInt nos EAREsp n. 2.021.975/SC, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 21/5/2024, DJe de 24/5/2024.)
+Por fim, cabe registrar que a Corte Especial não tem competência constitucional para, em sede de embargos de divergência, conceder habeas corpus de ofício contra aresto proferido por Turma do próprio Tribunal.
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL SOBRE TESE JURÍDICA. INEXISTÊNCIA. DISCUSSÃO SOBRE APLICAÇÃO DE REGRA TÉCNICA. IMPOSSIBILIDADE. RECURSO INDEFERIDO LIMINARMENTE.
