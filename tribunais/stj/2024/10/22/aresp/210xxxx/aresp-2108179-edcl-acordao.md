@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA O PROCESSO LICITATÓRIO. AGRAVO REGIMENTAL DESPROVIDO. OMISSÃO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO .
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - Mostra-se evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento que negou provimento ao agravo regimental que manteve a decisão agravada que não conheceu, por sua vez, do agravo em recurso especial por ausência de impugnação dos fundamentos da decisão de inadmissibilidade do apelo nobre.
+III - O inconformismo com o resultado dos julgamentos anteriores não pode servir de argumento à interposição/oposição continuada de recursos, com mera repetição das razões anteriores, especialmente diante da ausência de vícios no acórdão embargado. Precedentes.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ARI ZANETTI, CLAIR MARIA VARNIER ZANETTI, ANDERSSON JOSE TOMBINI, LOIVA INES TOMBINI contra acórdão da Quinta Turma que rejeitou os segundos embargos de declaração opostos.
+Nestes embargos, o recorrente alega, em síntese, a existência de omissão no acórdão recorrido e a necessidade de prequestionar a matéria deduzida (fl. 2.216-2.221).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA O PROCESSO LICITATÓRIO. AGRAVO REGIMENTAL DESPROVIDO. OMISSÃO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO .
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - Mostra-se evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento que negou provimento ao agravo regimental que manteve a decisão agravada que não conheceu, por sua vez, do agravo em recurso especial por ausência de impugnação dos fundamentos da decisão de inadmissibilidade do apelo nobre.
+III - O inconformismo com o resultado dos julgamentos anteriores não pode servir de argumento à interposição/oposição continuada de recursos, com mera repetição das razões anteriores, especialmente diante da ausência de vícios no acórdão embargado. Precedentes.
+Embargos de declaração rejeitados.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço dos embargos.
+Destaco, conforme pacífica jurisprudência desta Corte, que são cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Além disso, é cediço que os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada, repito, não padecer dos vícios que autorizariam a sua oposição.
+Na espécie, o embargante não aponta exatamente em que consistiria o vício no acórdão embargado e que demandaria a integração do julgado para a devida tutela jurisdicional, tendo tão somente deduzido vício de omissão e a necessidade de prequestionamento de matéria federal ou constitucional.
+Denota-se que, nas razões do recurso integrativo, o embargante busca, nestes terceiros aclaratórios, novo pronunciamento acerca de tema já apreciado por esta Corte de Justiça, evidenciando a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento não conheceu do agravo em recurso especial por ausência de impugnação dos fundamentos da decisão de inadmissibilidade do apelo nobre.
+Nesses termos, como se evidencia, o embargante não demonstrou omissão, obscuridade, ambiguidade ou contradição no decisum que reclamaria a correção pelo órgão julgador a fim de conferir a devida tutela jurisdicional.
+Verifico, portanto, a nítida intenção do embargante de atribuir efeito infringente aos embargos declaratórios, diante da irresignação pelo resultado do julgamento que lhe desfavoreceu, o que não é possível nesta via.
+Nesse sentido, "a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios." (EDcl no AgInt na CR 11.165/EX, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 6/12/2017, DJe 9/2/2018)" (EDcl no AgRg no REsp n. 1.683.591/PI, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 02/04/2018).
+Ademais, o inconformismo com o resultado dos julgamentos anteriores não pode servir de argumento à interposição/oposição continuada de recursos, com mera repetição das razões anteriores, especialmente diante da ausência de vícios no acórdão embargado.
+A propósito: "não se presta o recurso integrativo a rediscutir matéria já analisada e decidida. Na verdade, sob o pretexto de haver "omissão" e/ou "contradição", a parte embargante indisfarçavelmente busca impugnar o acórdão que lhe foi desfavorável, insistindo nos mesmos argumentos, com o inequívoco intento de rediscutir a causa, o que não se coaduna com a via eleita.  ..  A interposição de sucessivos recursos com os mesmos argumentos configura abuso do direito de recorrer, autorizando a baixa imediata dos autos" (EDcl nos EDcl no AgRg nos EAREsp n. 1.638.190/RJ, Terceira Seção, Rel. Min. Sebastião Reis Júnior, DJe de 29/11/2021).
+E mais: EDcl nos EDcl no AgRg no AREsp n. 1.954.815/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 25/11/2021; PET no AREsp n. 1.821.168/TO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 04/11/2021; EDcl nos EDcl no AgRg no AgRg no AREsp n. 1.807.976/SP, Quinta Turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 13/10/2021.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
