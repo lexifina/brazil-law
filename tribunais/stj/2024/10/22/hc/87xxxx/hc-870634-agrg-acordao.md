@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. RECONHECIMENTO DO ACUSADO. FORMALIDADES DO ART. 226 DO CPP. DEMAIS ELEMENTOS DE CONVICÇÃO VALORADOS NA ORIGEM. FLAGRANTE ILEGALIDADE NÃO VERIFICADA. AGRAVO DESPROVIDO.
+1. Valoradas outras provas independentes produzidas nos autos, nos limites da livre convicção motivada do magistrado, não se acolhe o pleito absolutório baseado apenas na inobservância do rito de reconhecimento de pessoas previsto no artigo 226 do Código de Processo Penal. Precedentes.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JONISON RAFAEL RIBEIRO DA SILVA contra a decisão de fls. 809-813, e-STJ, que não conheceu do habeas corpus.
+Em síntese, o agravante renova a tese defensiva acerca da nulidade da condenação em virtude da utilização do reconhecimento fotográfico para embasar a sentença condenatória, sem a observância das normas impostas pelo artigo 226 do Código de Processo Penal.
+Requer a reconsideração da decisão ou a submissão do agravo ao Órgão colegiado para que seja concedido a ordem, nos termos pleiteados, com a absolvição do réu.
+Cientificada equivocadamente a intempestividade do agravo regimental, houve correção pela Coordenadoria (e-STJ, fl. 837).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. RECONHECIMENTO DO ACUSADO. FORMALIDADES DO ART. 226 DO CPP. DEMAIS ELEMENTOS DE CONVICÇÃO VALORADOS NA ORIGEM. FLAGRANTE ILEGALIDADE NÃO VERIFICADA. AGRAVO DESPROVIDO.
+1. Valoradas outras provas independentes produzidas nos autos, nos limites da livre convicção motivada do magistrado, não se acolhe o pleito absolutório baseado apenas na inobservância do rito de reconhecimento de pessoas previsto no artigo 226 do Código de Processo Penal. Precedentes.
+2. Agravo regimental desprovido.
+VOTO
+A irresignação não merece guarida, pois a decisão ora guerreada foi proferida em consonância à orientação jurisprudencial desta Corte Superior.
+Conforme já salientado, é bem verdade que a atual jurisprudência dos Tribunais Superiores vem caminhando na direção de extirpar do sistema aquelas condenações baseadas unicamente em reconhecimentos dos acusados, muitas das vezes realizadas sem a mínima observância dos procedimentos legais exigidos.
+A respeito: "A desconformidade ao regime procedimental determinado no art. 226 do CPP deve acarretar a nulidade do ato e sua desconsideração para fins decisórios, justificando-se eventual condenação somente se houver elementos independentes para superar a presunção de inocência." (STF, RHC 206846, relator Ministro Gilmar Mendes, Segunda Turma, julgado em 22/2/2022, DJe 25/5/2022). Na mesma linha: HC 652.284/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2021, DJe 3/5/2021.
+No caso concreto, consoante pontuado pelo Tribunal de Justiça, a suposta autoria do agravante não está atrelada somente ao reconhecimento realizado pela vítima em sede policial, mas está também baseada nos depoimentos dos policiais militares, que presenciaram o assalto e perseguiram os dois envolvidos na sequência. Lograram êxito na prisão em flagrante do réu, embora o comparsa tenha fugido com o celular roubado e a faca utilizada no delito.
+A propósito, confira-se:
+Nesse contexto, as provas colhidas são idôneas a formar juízo condenatório."
+Esse é o acervo probatório e, por ele, correta a condenação.
+De início, observa-se que a narrativa da vítima - embora tenha sido ouvido somente na fase policial - está coesa, descrevendo minuciosamente o agir criminoso do acusado e seu comparsa, merecendo plena credibilidade. Note-se que, conforme narrado pelo policial Eveton, na data do fato, o ofendido estava próximo a uma parada de ônibus, aguardando "o Uber" quando os dois indivíduos se aproximaram, e, mostrando uma faca, ordenaram a entrega do seu aparelho de telefone celular, o que foi acompanhado de longe visualmente pelo policial Everton que saiu ao encalço do acusado, pela mesma rua (Ramiro Barcelos), registrando que naquele momento havia várias pessoas nas proximidades, mas que não a perdê-lo de vista. Ainda, relativamente ao outro comparsa, o policial Felipe registrou que não conseguiu detê-lo, considerando que o corréu ingressou na Vila Planetário, o que impediu seu acesso já que estava conduzindo uma motocicleta.
+Nesse ponto, ressalto que a falta da rigorosa observância ao disposto no art. 226 do CPP não anula o reconhecimento feito pela vítima (de forma PESSOAL na fase policial), devendo, por óbvio, ser dado o devido valor à prova pelo seu cotejo com os demais elementos dos autos, sendo certo que o citado dispositivo legal apenas traça meras recomendações, a serem seguidas quando possível, sem cominação de nulidade  ..  A existência do fato foi bem retratada pela palavra da vítima, que narrou o ocorrido detalhadamente  ..  A vítima não foi ouvida em juízo.
+Na fase judicial, o Policial Militar Everton aduziu que estava indo fazer uma escolta quando viu o acusado, juntamente com outro indivíduo, assaltando a vítima e subtraindo o telefone celular dela. Depois, os dois assaltantes saíram correndo, mas somente o réu foi detido. Presenciou o momento do assalto.
+O Policial Militar Felipe confirmou as declarações prestadas por seu colega de farda.
+Na Delegacia de Polícia, JONISON optou por permanecer em silêncio.
+Em juízo, JONISON negou a autoria delitiva. Lembrou que estava caminhando na rua com um conhecido quando este disse que iria praticar um assalto. O réu disse que não queria participar do delito. Então, seu conhecido anunciou o assalto, sendo que os Policiais chegaram logo em seguida.
+Depreende-se do contexto probatório que o réu, juntamente com outra pessoa, abordou a vítima em uma parada de ônibus e subtraiu seu telefone celular.
+Policiais Militares que estavam perto do local viram a ação e detiveram JONISON.
+Cumpre destacar que o procedimento para reconhecimento de pessoas que trata o artigo 226 do Código de Processo Penal, mesmo que efetuado na fase policial, seja fotográfico ou pessoal, se possível, deverá ser efetuado de acordo com as diretrizes ali estabelecidas.
+A interpretação legal da jurisprudência majoritária, tanto nesta Corte quanto no e. Superior Tribunal de Justiça, há tempos inclinou-se no sentido de que o procedimento do artigo 226 do Código de Processo Penal é meramente recomendatório e eventual inobservância das diretrizes não configura nulidade, necessariamente.
+Não obstante, verdade que recentemente as Turmas do e. Superior Tribunal de Justiça e o e. Supremo Tribunal Federal voltaram a discutir a matéria, admitindo reconhecer nulidade em casos especiais, no caso de único elemento de prova, mas tal não foi dotado de repercussão geral, tampouco de efeito vinculante.
+Além disso, neste caso, a prova não se limitou ao reconhecimento, tendo em vista que Policiais Militares presenciaram toda a ação delituosa. Por óbvio, se o reconhecimento como foi efetuado não for suficiente, ou existir indícios de indução, ou erro no apontamento, ausentes outras provas, o desfecho será outro.
+De qualquer sorte, é o caso de repetir, já que insistentemente colocado o tema pelas defesas, que o mero reconhecimento, seja pessoal ou fotográfico, na fase policial, necessita ser renovado em juízo, por ocasião do contraditório, e se tal não acontecer, pouco - ou nada - valerá.
+Assim, a insistência na questão é de pouca utilidade.
+E válido acrescentar, ainda, que a autoria poderá ser demonstrada por outros elementos de prova, exatamente como acontece no caso em tela, mesmo que, eventualmente, ausente o reconhecimento. (e-STJ, fls. 562-566; grifou-se.)
+Assim, em razão da valoração de outros elementos de prova nos limites da livre convicção motivada do magistrado (art. 155 do CPP), não acolho a pretensão defensiva.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. ROUBO MAJORADO. NULIDADE. RECONHECIMENTO. PROVAS INDEPENDENTES E IDÔNEAS. CONTINUIDADE DELITIVA. AUSÊNCIA DE LIAME FÁTICO. AGRAVO REGIMENTAL DESPROVIDO.
+1. É pacífico nesta Corte que, havendo outras provas independentes e aptas a atestar a autoria e a materialidade delitivas, a anulação do reconhecimento realizado em solo policial não importaria no trancamento do feito ou na absolvição do agente.
+2. No caso, " o  réu tentou correr, mas foi detido. Localizaram o aparelho celular de uma das vítimas no bolso do réu. O garupa, adolescente, estava na posse de arma de fogo de numeração suprimida. Ambos admitiram informalmente que estavam praticando roubos na região e que a motocicleta era produto de roubo".
+3. "O acórdão impugnado está em consonância com a jurisprudência desta Corte, segundo a qual não há que se falar em crime único quando, num mesmo contexto fático, são subtraídos bens pertencentes a vítimas distintas, caracterizando concurso formal, por terem sido atingidos patrimônios diversos, nos moldes do art. 70 do Código Penal (AgRg no HC n. 792.057/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/5/2023, DJe de 25/5/2023)." (AgRg no HC n. 789.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/11/2023, DJe de 13/11/2023.)
+4. Outrossim, o pleito de aplicação da continuidade delitiva, em relação ao fato do dia seguinte, não merece prosperar, porquanto ausente qualquer liame fático que demonstre serem os delitos subsequentes meros desdobramentos causais dos precedentes.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 910.956/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024; grifou-se.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRONÚNCIA. AUTORIA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. ART. 226 DO CPP. PRESENÇA DE ELEMENTOS INDEPENDENTES COLACIONADOS NOS AUTOS. AGRAVO NÃO PROVIDO.
+1. A sentença de pronúncia possui natureza interlocutória mista, e encerra um juízo de admissibilidade da acusação dos processos submetidos ao rito do júri, sem decisão de mérito quanto ao delito, cabendo ao Magistrado apenas a indicação de provas da materialidade delitiva e indícios acerca da autoria. Assim, por ocasião da sentença de pronúncia, não há formação de juízo de valor acerca do delito, devendo a dúvida ser resolvida em favor da sociedade, com submissão do agente ao julgamento pelo Plenário do Júri, sob pena de usurpação da sua competência, constitucionalmente prevista. (AgRg no AREsp n. 2.264.190/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/10/2023).
+2. As instâncias ordinárias constataram, fundamentadamente, a presença da materialidade delitiva e indícios suficientes de autoria. A revisão de tal entendimento exigiria o reexame fático-probatório dos autos, o que encontra óbice na Súmula n. 7 desta Corte Superior.
+3. Quanto ao art. 226 do CPP, mesmo que sua apreciação seja irrelevante para o presente caso, não se constata sua violação, isso porque, como já mencionado, consta dos autos que "há elementos probatórios desvinculados do seu reconhecimento fotográfico  prova separada ou fonte independente  que, inexoravelmente, conduzem à suspeita quanto ao seu possível envolvimento no ilícito".
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.571.948/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024; grifou-se.)
+Dessa forma, não verifico flagrante ilegalidade capaz de permitir a concessão da ordem de ofício insta instância.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
