@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DIONATAN PADILHA PEDRY contra decisão que inadmitiu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Informam os autos que o agravante foi condenado, em primeiro grau, às penas de 8 (oito) meses de reclusão, em regime inicial aberto, a qual foi substituída por uma pena restritiva de direitos, e de 10 (dez) dias-multa, no mínimo legal, em razão da prática do delito previsto no art. 155, caput, do CP (fls. 206-223).
+Irresignados, o agravante e o Ministério Público interpuseram apelação perante o Tribunal de origem, o qual  ,  por  unanimidade, negou provimento ao recurso da Defesa e deu parcial provimento ao do Parquet a fim de "reconhecer a majorante do repouso noturno, elevando a privativa de liberdade de Rodrigo para 05 meses e 10 dias de reclusão e a de Diontan para 10 meses e 20 dias de reclusão" (fl. 376).
+No recurso especial (fls. 387-397), interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, a Defesa alegou a violação ao art. 386, incisos V e VII, do CPP, sob argumento de que as provas produzidas no curso da instrução processual não comprovaram que o insurgente concorreu de qualquer forma para a prática do delito que lhe fora imputado.
+Asseverou que "a única prova colhida no curso do processo judicial que faz menção ao réu foi o depoimento dos corréus Rodrigo e Cláudio, imputando-lhe responsabilidade. No entanto, além destes depoimentos serem frágeis e insuficientes para condenação, há outros elementos demonstram a ausência da vinculação de Dionatan ao delito, inclusive um vídeo do fato, que não fora juntado pela acusação" (fl. 390).
+Pleiteou, portanto, o conhecimento e provimento do recurso especial a fim de absolver o insurgente.
+Apresentadas as contrarrazões (fls. 403-406), sobreveio juízo negativo de admissibilidade fundado: a) na incidência da Súmula n. 7/STJ, pois a análise das questões suscitadas implicaria revolvimento fático-probatório; e b) na incidência das Súmulas n. 282 e 356, ambas do STF, ante a ausência de prequestionamento da matéria suscitada (fls. 409-415).
+Nas razões do agravo em recurso especial, postulou o agravante o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 424-430). O Ministério Público Federal apresentou parecer pelo não conhecimento do recurso especial, ou, no mérito, por seu desprovimento (fls. 447-452).
+É o relatório. DECIDO.
+O agravo não merece ser conhecido.
+Conforme relatado, o recurso especial foi inadmitido pelo Tribunal a quo em virtude da aplicação das Súmulas n. 7/STJ e n. 282 e 356, ambas do STF.
+No caso, verifico que a parte agravante deixou de infirmar, de maneira adequada e suficiente, parte as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+Com efeito, ao tentar infirmar a incidência do óbice da Súmula n. 7/STJ, a parte limitou-se a afirmar o que segue (fls. 426-427, grifei):
+"2.1. DA NÃO INCIDÊNCIA DA SÚMULA 07 DO STJ À HIPÓTESE DOS AUTOS
+Diversamente da interpretação havida na decisão agravada, estão presentes as condições de admissibilidade do recurso especial. Senão, vejamos.
+A matéria vertida é precipuamente de direito e não envolve a rediscussão do conjunto fático-probatório, superando, assim, o óbice da Súmula 07 do STJ para a admissão do recurso especial.
+A discussão que se propõe está adstrita à análise dos fundamentos lançados no acórdão, o que para tanto, não se exige o reexame material cognitivo, mas, tão somente, revaloração da prova especificamente admitida e considerada suficiente no próprio acórdão, ora recorrido.
+Nessa linha, não incide a Súmula 07 do Superior Tribunal de Justiça quando a pretensão deduzida no Recurso Especial buscar nova valoração jurídica de fatos incontroversos.
+É o que se coloca no caso, na medida em que não se busca a rediscussão do conjunto fático-probatório, mas uma revaloração estritamente jurídica do constante nos autos para avaliar sua suficiência ao amparo da condenação.
+ ..
+Logo, os fundamentos da decisão agravada merecem reforma, para que tenha seguimento ao recurso especial interposto."
+Contudo, no que se refere ao óbice da Súmula n. 7/STJ, deveria a parte agravante ter demonstrado a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão recorrido, o que não ocorreu, no caso, tendo em vista que a defesa limitou-se a aduzir, genericamente, que a análise do pleito defensivo prescindiria de reexame das provas.
+Sobre o tema, é entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016, grifei).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo em recurso especial, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
