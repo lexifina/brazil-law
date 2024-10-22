@@ -1,0 +1,53 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno, mantendo a decisão que conheceu do agravo para não conhecer do recurso especial, em razão da incidência das Súmulas n. 7/STJ e 284/STF.
+O acórdão recorrido recebeu a seguinte ementa (fl. 562):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMPENSATÓRIA POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. INADMISSIBILIDADE.
+1. Ação compensatória por danos morais.
+2. A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284/STF. Precedentes.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo interno no agravo em recurso especial não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 601-606 ).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 1º, III, 5º, V, X e XXXV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que não haveria justificativas para a extinção da ação de indenização ajuizada na origem sem julgamento de mérito.
+Afirma que o acordo teria sido realizado de forma adesiva, tendo sido imposto aos moradores de forma compulsória, sem a presença de advogados, e nos termos arbitrados entre a empresa e o Ministério Público.
+Adverte que, "devido ao imediatismo e ao estado de urgência do autor, diante de cumprir todos os requisitos e estar em estado de necessidade de apoio da causadora dos danos morais e materiais que o autor suporta, aceitou as medidas como um paliativo" (fl. 618).
+Entende que "a sentença de extinção não considerou a indenização de dano moral, que é individual e personalíssima, visto que o acordo sequer considerou o princípio da razoabilidade, pois o valor acordado é um valor irrisório a termos jurimetria dos tribunais superiores, e menos ainda reparatório" (fl. 619).
+Assevera que o acórdão recorrido careceria de fundamentação idônea, pois "em momento algum fundamentou sua decisão no sentido de restar esclarecido o motivo pelo qual determinou a extinção do feito e afastou o acesso à justiça à parte recorrente, mesmo demonstrando a distinção dos direitos tutelados (dano moral e material) e a nulidade do negócio jurídico" (fl. 625).
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, que não conheceu do mérito do recurso dirigido a esta Corte Superior, como se observa do seguinte trecho do referido julgado (fls. 567-569):
+- Da violação ao artigo 1.022 do CPC.
+Não se pode conhecer a apontada violação ao artigo 1.022 do CPC, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula n. 284/STF, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada situação, os seguintes precedentes desta Corte Superior: AgInt no AREsp n. 1.346.358/RJ, Terceira Turma, DJe de 29/5/2019; e AgInt no REsp n. 1.734.203/RS, Quarta Turma, DJe de 4/6/2019.
+- Do reexame de fatos e provas.
+Quanto às demais questões aventadas pela parte recorrente, o Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu (e-STJ fls. 261/262):
+ ..  Para além disso, vislumbro que não tem respaldo a tese da Agravante de que houve violação ao Princípio da Inafastabilidade do Controle Jurisdicional, pois não poderia o Magistrado ir por caminho diferente do adotado ao se deparar com a situação trazida aos autos onde aqueles optaram por aderir ao Programa de Compensação Financeira e em sede de cumprimento de sentença acordaram com a Agravada, renunciando e desistindo de eventuais direitos remanescentes decorrentes do evento danoso, comprometendo-se a pleitear a desistência de todas e quaisquer demandas judiciais abertas.
+Ademais, também não se observa do acordo judicial formalizado com a Braskem a existência de cláusula leonina, visto que as cláusulas são bem claras e as partes estavam devidamente representadas, além de que o acordo foi acompanhado pelo Ministério Público, fiscal da lei.
+Por fim, quanto à questão relativa aos honorários advocatícios, sabe-se que a relação entre os Agravantes e os profissionais que os patrocinam se trata de relação contratual.
+Nessa senda, se a Agravante aderiu ao acordo, o que resultou na extinção do processo patrocinado pelos advogados, estes devem se socorrer do instrumento contratual firmado para que, se for o caso, possam cobrar das partes agravantes o que consideram ter direito.
+Ademais, o ônus de sucumbência é verba que somente ostenta natureza alimentar quando fixada em título judicial transitado em julgado, o que não ocorreu no presente caso.
+ ..
+Desse modo, em razão da inexistência de qualquer fato ou argumento novo capaz de infirmar o raciocínio anteriormente proferido quando da decisão monocrática, estes servem de motivação para decidir o mérito do presente Agravo de Instrumento.
+ ..
+Portanto, rever tais fundamentos do acórdão recorrido demandaria a alteração das premissas fático-probatórias dos autos, mediante o reexame de provas, procedimento vedado em recurso especial, ante o teor da Súmula n. 7/STJ.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes desta Corte Superior: AgInt no AREsp n. 1.925.105/PR, Terceira Turma, DJe de 5/10/2022; AgRg no AREsp n. 182.361/SP, Terceira Turma, DJe de 10/5/2016; AgInt no AREsp n. 1.698.665/SP, Quarta Turma, DJe de 18/11/2020; e AgInt no AREsp n. 1.621.499/DF, Quarta Turma, DJe de 24/9/2020.
+Dessa forma, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+Assim, fica inviabilizado o exame pretendido pela parte recorrente, relacionado às questões de mérito submetidas ao STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordin ário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não conhecer do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
