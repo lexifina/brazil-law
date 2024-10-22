@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por Nasser Hotel Ltda. contra decisão que inadmitiu o recurso especial manejado em face de acórdão, prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fls. 40-41):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO OBRIGACIONAL C/C INDENIZATÓRIA. TUTELA DE URGÊNCIA CONCEDIDA E CONFIRMADA, AO FINAL, PARA QUE A OPERADORA REATIVASSE O PLANO DE SAÚDE COLETIVO CONTRATADO PELA EMPRESA AUTORA. EXECUÇÃO DAS ASTREINTES. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA.
+1 - Decisão que deixou de acolher a impugnação e fixou a multa em R$ 630.000,00 (seiscentos e trinta mil reais).
+2 - Com efeito, a decisão que fixa a multa cominatória não preclui, não fazendo coisa julgada, podendo ser alterada, posteriormente, a requerimento ou de ofício, caso se torne irrisória ou exorbitante, nos termos do artigo 537, §1º, do CPC.
+3 - Sinaliza na mesma linha de entendimento o Superior Tribunal de Justiça, no sentido de que, sejam vencidas ou vincendas, mesmo após o trânsito em julgado da sentença, é possível discutir as astreintes, não ocorrendo qualquer preclusão ou ofensa à coisa julgada.
+4 - Conforme se observa da inicial, a parte autora questionou o cancelamento unilateral do plano de saúde coletivo empresarial e solicitou, em sede de tutela de urgência, o restabelecimento do serviço contratado.
+5 - Na decisão indexada em 000101, dos autos originários, a tutela de urgência foi deferida para compelir a operadora na manutenção da cobertura contratual, procedendo à reativação do plano de saúde ajustado com a autora, no prazo de 48 horas, sob pena de multa diária em R$ 10.000,00 (dez mil reais). Intimação pessoal operada em 10/02/2022.
+6 - Nesse aspecto, sem razão a recorrente quando aduz que a multa não se aplica. Afirmação, pela Bradesco Saúde, de que o plano se encontrava ativo que não encontra respaldo nos autos. Negativa de atendimento de beneficiária devidamente demonstrada.
+7 - No entanto, descabe o período de incidência definido e a majoração prevista em decisão posterior para R$ 50.000,00 (cinquenta mil reais). Isso porque orçamentos e notas fiscais se mostram insuficientes para demonstrar a efetiva negativa por parte da operadora de plano de saúde. Os documentos que comprovavam efetivamente o não atendimento são aqueles acostados a fls. 378/379, já que o de fls. 380 também é imprestável. Consequentemente, a multa aplicável seria aquela no valor original e durante o período compreendido entre 11/03/2022 e 25/03/2022, o que alcançaria um montante de R$ 150.000,00 (cento e cinquenta mil reais).
+8 - Assim sendo, tendo em vista a possibilidade de redimensionamento, para a apuração da razoabilidade e da proporcionalidade das astreintes, não é recomendável se utilizar apenas do critério comparativo entre o valor da obrigação principal e a soma total obtida com o descumprimento da medida coercitiva, sendo mais adequado, em regra, o cotejamento ponderado entre o valor diário da multa no momento de sua fixação e a prestação que deve ser adimplida pelo demandado recalcitrante.
+9 - De tal modo, sopesando-se a quantidade de beneficiários do plano de saúde coletivo e a de negativas no atendimento efetivamente demonstradas, a incidência de forma integral não condiz com os já ressaltados princípios da razoabilidade, da proporcionalidade e com os fins coercitivos. Assim, com o intuito de adequação aos princípios acima indicados, assim como para se evitar o enriquecimento ilícito da recorrida, arbitra-se a quantia a ser executada a título de multa em R$ 75.000,00 (setenta e cinco mil reais).
+10 - Precedentes da Corte Especial. RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos em sequência foram rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 139-157), fundamentado no art. 105, III, a e c, da Constituição Federal, a recorrente apontou divergência jurisprudencial e vulneração aos arts. 5º, 6º, 8º, 502, 503 e 537, § 1º, do CPC/2015.
+Sustentou, em síntese, que "o reconhecimento do valor devido de R$ 150.000,00 ter sido reduzido para R$ 75.000,00 não atende aos requisitos da razoabilidade e da proporcionalidade. Isso porque a recorrida, durante o curso de toda a ação, se manteve recalcitrante, descumprindo de forma injustificada a Decisão prolatada pelo Juízo a quo, o que configura uma afronta a todo o Poder Judiciário" (e-STJ, fl. 149).
+Aduziu, ainda, que "a decisão que concedeu a tutela e fixou o valor da multa em R$ 10.000,00 fez coisa julgada e, portanto, não é passível de alteração" (e-STJ, fl. 151).
+Contrarrazões às fls. 300-326 (e-STJ).
+O processamento do apelo especial foi inadmitido pela Corte de origem, levando a insurgente a interpor o presente agravo (e-STJ, fls. 368-383), por meio do qual contesta a aplicação do óbice da Súmula 7/STJ, apontado na decisão de admissibilidade.
+Contraminuta às fls. 433-446 (e-STJ).
+Brevemente relatado, decido.
+De início, registre-se que a jurisprudência do Superior Tribunal de Justiça é iterativa no sentido de que a decisão que comina as astreintes não preclui nem faz coisa julgada material. Assim, é possível a modificação do valor dessa sanção até mesmo de ofício, a qualquer tempo, inclusive na fase de execução, quando irrisória ou exorbitante.
+A título ilustrativo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONVERSÃO DA OBRIGAÇÃO DE FAZER EM PERDAS E DANOS, UMA VEZ REVELADA A IMPOSSIBILIDADE DE CUMPRIMENTO DA TUTELA ESPECÍFICA. PREMISSAS. REVISÃO. SÚMULA 7 DO STJ. ALTERAÇÃO DO VALOR DA MULTA POR SER EXCESSIVA. PRECLUSÃO. COISA JULGADA. NÃO SUBMISSÃO. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.882.804/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+ ..
+2. O acórdão do Tribunal de origem encontra-se em harmonia com o entendimento de há muito consolidado no STJ, no sentido de que em virtude de permissão contida no art. 537, §1º, do CPC/2015 (art. 461 do CPC/1973) o magistrado pode, a qualquer tempo, e mesmo de ofício ou a requerimento da parte, afastar ou alterar tanto o valor quanto a periodicidade das astreintes, em caso de ineficácia ou insuficiência ao desiderato de compelir o devedor ao cumprimento da obrigação, ou ainda quando este se tornar insuficiente ou excessivo, mesmo depois de transitada em julgado a sentença, não havendo espaço para falar em preclusão ou em ofensa à coisa julgada. Incidência da Súmula 83/STJ.
+ ..
+3. Agravo interno provido para reconsiderar a decisão da Presidência e, de plano, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.052.428/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+Para verificar se o valor da multa cominatória é exorbitante ou irrisório, ou seja, se está fora do patamar de proporcionalidade e de razoabilidade, deve-se considerar o quantum da pena diária no momento da sua fixação, em vez de comparar o seu total alcançado com a integralidade da obrigação principal, tendo em vista que este critério prestigiaria a conduta de recalcitrância do devedor em cumprir a decisão judicial, além de estimular a interposição de recursos a esta Corte para a redução da sanção, em total desprestígio à atividade jurisdicional das instâncias ordinárias.
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRAZO DE 15 DIAS ÚTEIS PARA INTERPOSIÇÃO. ARTS. 219 E 1.003, § 5º, DO CPC/2015. TEMPESTIVIDADE. EXECUÇÃO DE ASTREINTES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. ASTREINTES. FIXAÇÃO EM VALOR PROPORCIONAL. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+ ..
+6. A verificação da existência de exorbitância ou excessividade do quantum não pode ser direcionada apenas para a comparação entre a quantia total da penalidade e o valor da obrigação principal, mas sim considerando-se o valor estabelecido diariamente à parte recalcitrante.
+ ..
+8. Agravo interno não provido.
+(AgInt no AREsp n. 1.828.757/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+No caso, observa-se que a tutela de urgência foi deferida para compelir a operadora na manutenção da cobertura contratual, procedendo à reativação do plano de saúde ajustado com a autora, no prazo de 48 horas, sob pena de multa diária em R$ 10.000,00 (dez mil reais). Consta dos autos que o período de descumprimento foi entre 11/03/2022 e 25/03/2022, o que alcançaria o montante de R$ 150.000,00 (cento e cinquenta mil reais).
+A Corte local, soberana na análise do conjunto fático-probatório e diante das peculiaridades do caso, reduziu a multa cominatória para R$ 75.000,00 (setenta e cinco mil reais), sopesando-se a quantidade de beneficiários do plano de saúde coletivo e a de negativas no atendimento efetivamente demonstradas.
+Com efeito, constata-se que o montante arbitrado pelo TJRJ, com base nas particularidades do caso concreto, não se mostra irrisório, motivo pelo qual a majoração da sanção processual encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+Na mesma linha de cognição:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO FICTO. AUSÊNCIA. SÚMULAS N. 282 DO STF E 211 DO STJ. MARCO CIVIL DA INTERNET. FATOS ANTERIORES À VIGÊNCIA DA LEI. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DANOS MORAIS. RESPONSABILIDADE CIVIL. REPORTAGEM JORNALÍSTICA. COMENTÁRIOS DOS LEITORES. LESÃO À IMAGEM E À HONRA. DESCUMPRIMENTO DE ORDEM JUDICIAL PARA RETIRADA DE CONTEÚDO OFENSIVO. SÚMULA N. 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. "ASTREINTES". INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+ ..
+7. A fixação das "astreintes" por descumprimento de decisão judicial baseia-se nas peculiaridades da causa e somente comporta revisão por este Tribunal quando irrisória ou exorbitante, o que não é o caso. Assim, incide a Súmula n. 7/STJ.
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.124.535/AL, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/11/2022, DJe de 21/11/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. FIXAÇÃO DE ASTREINTES. VALOR QUE SE REVELA RAZOÁVEL E PROPORCIONAL. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.977.495/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 20/6/2022, DJe de 22/6/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial da Nasser Hotel Ltda.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. PLANO DE SAÚDE. MULTA COMINATÓRIA. RAZOABILIDADE EVIDENCIADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DA EMPRESA CONTRATANTE DO PLANO.
