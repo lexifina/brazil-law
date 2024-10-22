@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus, ajuizado em benefício de Jony Gelson da Silva Pereira - condenado à pena total de 5 anos de reclusão, em regime inicial fechado, mais 24 dias-multa, pela prática de lavagem de dinheiro e falsidade ideológica -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 1000598-83.2021.8.26.0459), não comporta processamento.
+Com efeito, busca a impetração a absolvição do paciente, ante a fragilidade probatória, ou a reforma da dosimetria, corrigindo-se o aumento exorbitante na primeira fase do cálculo, com a fixação do regime aberto e a substituição da pena reclusiva por restritiva de direitos.
+Ocorre que é inviável a utilização da via eleita a fim de revisar a condenação imposta e mantida pelas instâncias ordinárias, de maneira que, verificado o trânsito em julgado da condenação e inexistindo ilegalidade flagrante apta de ser sanada de ofício, cabível apenas a ação de revisão criminal. Vale ressaltar a firme jurisprudência desta Casa no sentido da impossibilidade de profunda incursão no conjunto fático-probatório a fim de desconstituir o que foi decidido pela instância ordinária; e da prevalência da discricionariedade do julgador no momento da dosimetria da pena, inexistindo patente desproporcionalidade n a fixação da pena-base alguns meses acima do mínimo - frente aos intervalos totais de 7 anos, para o crime de lavagem, e de 4 anos, para o crime de falsidade - pela maior reprovabilidade das condutas, e sendo plenamente admitida a adoção de regime inicial mais gravoso quando verificada a existência de circunstância judicial negativa, como na espécie.
+Em face do exposto, com ful cro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE CABIMENTO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
