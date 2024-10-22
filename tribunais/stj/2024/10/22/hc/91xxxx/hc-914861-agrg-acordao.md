@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REGIME PRISIONAL FECHADO. MAUS ANTECEDENTES. REINCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. AGRAVO NÃO CONHECIDO.
+1. Embora a pena fixada não exceda a 4 anos, o regime fechado está justificado pelos maus antecedentes e pela reincidência.
+2. Incumbe ao interessado desenvolver alegações hábeis a ilidir as razões de decidir na decisão agravada, sob pena de não conhecimento da irresignação, exigência que não se supre pela reapresentação de argumentos outrora suscitados no processo. Aplicação do enunciado 182 da Súmula do Superior Tribunal de Justiça - STJ.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental no habeas corpus, interposto por ALEXANDRO BATISTA DO CARMO, em face de decisão de fls. 32/36, que indeferiu liminarmente o writ.
+No recurso, a defesa assevera que a despeito de o agravante ser reincidente e apresentar maus antecedentes, faz jus ao redimensionamento do regime fechado para o semiaberto.
+Requer a reconsideração da decisão agravada ou o provimento do agravo para conceder a ordem de habeas corpus.
+É  o  relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REGIME PRISIONAL FECHADO. MAUS ANTECEDENTES. REINCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. AGRAVO NÃO CONHECIDO.
+1. Embora a pena fixada não exceda a 4 anos, o regime fechado está justificado pelos maus antecedentes e pela reincidência.
+2. Incumbe ao interessado desenvolver alegações hábeis a ilidir as razões de decidir na decisão agravada, sob pena de não conhecimento da irresignação, exigência que não se supre pela reapresentação de argumentos outrora suscitados no processo. Aplicação do enunciado 182 da Súmula do Superior Tribunal de Justiça - STJ.
+3. Agravo regimental não conhecido.
+VOTO
+O agravo regimental não prospera.
+A defesa não delineou nenhum argumento indicando eventual erro ou desacerto na decisão agravada, que foi assim fundamentada:
+"Trata-se de ordem de habeas corpus impetrada como substitutivo do meio próprio de impugnação, o que não é cabível.
+Conforme orientação jurisprudencial do Supremo Tribunal Federal e do Superior Tribunal de Justiça, não se conhece de impetração que faz as vezes de ação ou recurso previsto para a espécie, hipótese na qual viabiliza-se, no máximo, a concessão da ordem de ofício desde que demonstrada, de plano e sem a necessidade de exame de provas, a ocorrência de teratologia ou flagrante constrangimento ilegal. Nesse sentido:
+PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. PRETENSÃO DE RETIFICAÇÃO DO CÁLCULO DAS PENAS. SUPOSTA INVIABILIDADE DE EQUIPARAÇÃO DO TRÁFICO DE DROGAS A DELITO DE NATUREZA HEDIONDA. EQUIPARAÇÃO ADVINDA DE MANDAMENTO CONSTITUCIONAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+ ..
+Habeas corpus não conhecido.
+(HC n. 739.542/SP, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), QUINTA TURMA, julgado em 23/8/2022, DJe de 26/8/2022).
+Referida excepcionalidade não se apresenta na espécie.
+O Tribunal de Justiça afastou a pretensão defensiva nos seguintes termos:
+"Conquanto imposta ao Requerente pena privativa de liberdade inferior a quatro anos, sua condição de reincidente e a existência de circunstância judicial desfavorável (maus antecedentes) autorizam estipulação do regime fechado (CP, art. 33-§§2º-3º).
+A propósito, já decidiu o e. SUPREMO TRIBUNAL FEDERAL: "Consideradas a quantidade da pena privativa de liberdade aplicada, inferior a 4 anos, a reincidência do agravante e a existência de circunstâncias judiciais desfavoráveis - maus antecedentes, no caso -, é adequada a fixaçãodo regime fechado, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal." 2
+Rememore-se, na linha da jurisprudência da mesma CORTE SUPREMA, que "a da dosimetria pena não se subordina à observância de rígidos esquemas ou regras aritméticas, somente podendo ser revista quando demonstrada a incongruência lógico-formal ou absoluta ilegalidade da fundamentação  3 , situações, aqui, não verificadas" (fl. 29).
+A orientação da Corte local não denota ilegalidade, apresentando harmonia com o entendimento do STJ, razão por que o writ não prospera. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGSO DE DECLRAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. RECEPTAÇÃO. PENA INFERIOR A 4 ANOS. RÉU REINCIDENTE E PORTADOR DE MAUS ANTECEDENTES. REGIME FECHADO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prolação de decisão monocrática por Ministro Relator não viola o Princípio da Colegialidade, como sugere a defesa do agravante, pois está autorizada pelo art. 34, inciso XX, do Regimento Interno desta Corte. Tal entendimento foi consolidado pela jurisprudência deste Tribunal, expressa no enunciado n. 568 da Súmula do Superior Tribunal de Justiça.
+2. É pacífico o entendimento desta Corte Superior no sentido de admitir a adoção do regime prisional semiaberto aos reincidentes condenados à pena igual ou inferior a 4 (quatro) anos, se favoráveis as circunstâncias judiciais, o que culminou na edição do enunciado n. 269 da Súmula do STJ. Na espécie, contudo, o agravante, além de reincidente, possui maus antecedentes, tendo as instâncias ordinárias adotado a referida vetorial desfavorável para afastar a pena-base do seu mínimo legal, o que afasta a incidência da Súmula n. 269/STJ, e constitui fundamentação idônea para a imposição do regime inicial fechado.
+3. No caso concreto, diante da inércia ministerial foi fixado o regime semiaberto, o que já se mostra bastante benéfico ao recorrente.
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no AgRg no AREsp n. 2.321.835/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/5/2023, DJe de 29/5/2023.)
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NÃO CONHECIMENTO.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedente.
+2. O alegado constrangimento ilegal será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal. FURTO QUALIFICADO (ART. 155, § 4º, INCISO I, DO CÓDIGO PENAL). DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. ANTECEDENTES E MÁ CONDUTA SOCIAL. EXISTÊNCIA DE FUNDAMENTO CONCRETO APTO A JUSTIFICAR A ELEVAÇÃO DA REPRIMENDA. COAÇÃO ILEGAL INEXISTENTE.
+Não há ilegalidade na exasperação da pena-base em razão dos antecedentes e da conduta social do paciente, quando possui 3 (três) condenações transitadas em julgado, tendo sido utilizada uma para cada circunstância diversa. Precedentes do STJ. COMPENSAÇÃO INTEGRAL ENTRE A AGRAVANTE DA REINCIDÊNCIA E A CONFISSÃO ESPONTÂNEA. CONDENAÇÃO ANTERIOR PELA PRÁTICA DO MESMO CRIME. REINCIDÊNCIA ESPECÍFICA. IMPOSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A Terceira Seção desta Corte Superior, ao examinar os Embargos de Divergência em Recurso Especial n. 1.154.752/RS, firmou o entendimento de que, por serem igualmente preponderantes, é possível a compensação entre a agravante da reincidência e a atenuante da confissão espontânea, devendo, contudo, o julgador atentar para as singularidades do caso concreto.
+2. No caso em análise, trata-se de paciente reincidente específico no crime de furto qualificado, o que, nos termos da jurisprudência desta Corte, inviabiliza a almejada compensação integral. REGIME INICIAL FECHADO. POSSIBILIDADE. REINCIDÊNCIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Conforme jurisprudência reiterada deste Sodalício, a escolha do regime inicial não está atrelada, de modo absoluto, ao quantum da pena corporal firmada, devendo-se considerar as demais circunstâncias do caso concreto.
+2. Embora tenha sido condenado à pena privativa de liberdade inferior a 4 (quatro) anos de reclusão, o sentenciado é reincidente específico e a pena-base foi fixada acima do mínimo legal, pela presença de circunstâncias judiciais desfavoráveis, mostrando-se devida a escolha do regime inicial fechado. Precedentes.
+3. Habeas corpus não conhecido.
+(HC n. 360.588/SC, relator Ministro Jorge Mussi, Quinta Turma, julgado em 21/2/2017, DJe de 2/3/2017.)
+RECURSO ESPECIAL. PROCESSUAL PENAL. PENAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. MAUS ANTECEDENTES E REINCIDÊNCIA. AFASTAMENTO. IMPOSSIBILIDADE. AUSÊNCIA DE INFORMAÇÕES DETALHADAS NA FOLHA DE ANTECEDENTES CRIMINAIS. REGIME INICIAL FECHADO. SÚMULA N. 269 DO STJ. PROVIMENTO NEGADO.
+1. À falta de informações detalhadas na folha de antecedentes, não é possível presumir, em favor do réu, que as condenações utilizadas pelo Juízo sentenciante para caracterizar maus antecedentes se referem a fatos posteriores à hipótese dos autos, ou mesmo que a expressão "extinção da punibilidade" indique inequivocamente a prescrição da pretensão punitiva, e não da pretensão executória.
+2. É correta a imposição de regime inicial fechado a réu reincidente e com circunstâncias judiciais negativas, a teor da Súmula n. 269 do STJ.
+3. Recurso especial a que se nega provimento.
+(REsp n. 1.531.120/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/11/2015, DJe de 3/12/2015.)
+Ante o exposto, com fundamento no art. 210, do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a presente impetração" (fls. 32/36).
+Como consignado na decisão monocrática, o regime inicial fechado foi mantido pela constatação de circunstância judicial desfavorável na primeira fase da dosimetria da pena (maus antecedentes) associada ao fato de o agente ser reincidente.
+No recurso, a defesa não suscitou eventual equívoco ou erro no ato contestado, limitando-se reprisar os argumentos desenvolvidos na inicial, os quais foram devidamente apreciados e desacolhidos pela decisão combatida.
+Incumbe ao interessado desenvolver alegações hábeis a ilidir as razões adotadas na decisão agravada, sob pena de não conhecimento da irresignação, exigência que não se supre por mera impugnação genérica, tampouco pela reapresentação de aduções outrora suscitadas no processo.
+Ou seja, a refutação insuficiente ou inadequada da decisão recorrida, sem que se demonstre, de forma efetiva, concreta e pormenorizada, eventual desacerto relativamente a cada um dos fundamentos do ato contestado, acarreta o não conhecimento do recurso.
+Aplicável ao caso, portanto, por analogia, o enunciado n. 182 da Súmula do Superior Tribunal de Justiça, uma vez que o recurso consubstancia mera reprodução dos argumentos do writ. A propósito, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. INDEFERIMENTO LIMINAR. FUNDAMENTOS NÃO INFIRMADOS. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+/1. É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne todos os fundamentos da decisão combatida.
+2. O princípio da dialeticidade impõe ao agravante a demonstração específica do desacerto das razões lançadas no decisum atacado, e não são suficientes, para tanto, meras alegações genéricas ou a repetição dos termos já expostos no recurso.
+3. Na espécie, a decisão agravada negou provimento ao recurso em habeas corpus por considerar que não houve burla ao princípio do juiz natural. Diferentemente do alegado pela defesa, não havia prevenção do Juízo que decidiu sobre busca e apreensão decretada no curso das investigações. O processamento do feito perante vara especializada, a qual recebeu a denúncia e deu impulso ao processo, decorreu de sua competência absoluta em razão da matéria. O agravante, contudo, deixou de impugnar especificamente os fundamentos da decisão agravada e limitou-se a reiterar os argumentos formulados na inicial do writ.
+4. Ainda que assim não fosse, segundo a jurisprudência do STJ, a competência é fixada no momento do oferecimento da denúncia ou queixa-crime, de modo que eventuais decisões judiciais prolatadas na fase investigativa não previnem o juízo. Precedente.
+5. Agravo regimental não conhecido.
+(AgRg no RHC n. 170.068/RJ, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/9/2022, DJe de 6/10/2022. )
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. 1. FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. INCIDÊNCIA DA SÚMULA N. 182/STJ. 2. MERA REITERAÇÃO DO HC 459.786/SP. FUNDAMENTO PRINCIPAL NÃO ATACADO. 3. AGRAVO NÃO CONHECIDO.
+1. A petição recursal do agravante esbarra no óbice do enunciado n. 182 da Súmula desta Corte, porquanto não foram devidamente impugnados os fundamentos da decisão agravada, limitando-se o agravante a repetir os termos do recurso em habeas corpus e dos embargos de declaração. A não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Dessarte, não é suficiente a insistência no mérito da controvérsia.
+2. Anoto, por oportuno, que se negou seguimento ao presente recurso em habeas corpus, uma vez que a matéria já havia sido devidamente analisada no julgamento do Habeas Corpus n. 459.786/SP, com o qual a defesa se conformou. Assim, cuidando-se de mera reiteração, não é possível seu exame, porquanto já proferida decisão sobre o tema, em 27/9/2018, com trânsito em julgado em 9/10/2018. Dessarte, não tendo a agravante se insurgido contra o fundamento principal da negativa de seguimento do recurso, consistente no fato de se tratar de mera reiteração, não é possível conhecer do presente agravo regimental.
+3. Agravo regimental não conhecido.
+(AgInt no RHC n. 106.485/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/3/2019, DJe de 25/3/2019.)
+Ante o exposto, voto pelo não conhecimento do agravo regimental.
