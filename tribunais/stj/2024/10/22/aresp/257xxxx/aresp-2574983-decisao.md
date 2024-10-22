@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de demonstração da ofensa aos dispositivos legais, incidência das Súmulas n. 5 e 7 do STJ e falta de similitude fática entre os acórdãos (e-STJ fls. 454/457).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 437):
+AGRAVO INTERNO - Interposição contra decisão do relator que negou seguimento ao recurso - Inconformismo - Desacolhimento - Inexistência de ofensa ao princípio da colegialidade - Art. 168, § 3º, do RITJSP que confere ao relator a prerrogativa de negar seguimento a recurso manifestamente improcedente - Interposição de agravo interno ou de agravo regimental que afasta, ademais, a alegada violação ao referido princípio - Precedentes do Colendo Superior Tribunal de Justiça - Sentença apelada que julgou procedente a ação para determinar o custeio da internação do autor em sua rede credenciada para a realização dos procedimentos médicos necessários ao diagnóstico e tratamento de saúde do autor referentes a suspeita de câncer no rim esquerdo e linfoma - Multa imposta que não merece censura e atende aos princípios da razoabilidade e da proporcionalidade, notadamente porque a fixação tem por objetivo compelir a operadora a cumprir a obrigação no prazo fixado - Decisão mantida - Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 361/377), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos arts. 12, V, e 35-C da Lei n. 9.656/1998, porque (e-STJ fls. 365/366):
+ ..  as instâncias inferiores deferiram e mantiveram a tutela pleiteada pelo Recorrido para que a Recorrente custeasse sua internação e tratamento em hospital particular, sabendo que o Recorrido estava em período de carência contratual, em desacordo com o constante no art. 12, V, da Lei n. º 9.656/98 e regulamentação da CONSU nº. 13, que possibilita que os planos de saúde estabeleçam carências, desde que limitadas aos prazos legais.
+ ..  infere-se que o período máximo para a cobertura dos casos de urgência e emergência é de 24 (vinte e quatro) horas e os demais casos (com exceção de partos) é de 180 (cento e oitenta) dias.
+ ..  A norma regulamentar publicada pela ANS é a Resolução do Conselho de Saúde Suplementar nº 13 de 03/11/1998, na qual encontra-se disciplinada a matéria relacionada à cobertura do atendimento nos casos de urgência e emergência.
+A mencionada Resolução prevê a necessidade de cumprimento de período carência, cessando a responsabilidade das operadoras de saúde após o período de atendimento das primeiras dozes horas em casos de urgência ou emergência,  ..
+No agravo (e-STJ fls. 460/484), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fls. 500/508).
+É o relatório.
+Decido.
+O Tribunal manteve a condenação da parte recorrente à cobertura, sob o fundamento de que o procedimento foi prescrito em caráter de urgência, não sendo exigível, portanto, prazo de carência superior a 24 horas (e-STJ fls. 438/441):
+ ..  a decisão hostilizada foi proferida nestes termos:  ..
+A ausência de resposta da ré implica em revelia e confissão dos fatos alegados na inicial, especialmente a resistência injustificada na cobertura de tratamento sob a alegação de o autor estar em carência.
+Já é entendimento sumulado pelo E. TJSP:
+ ..  Súmula 103: É abusiva a negativa de cobertura em atendimento de urgência e/ou emergência a pretexto de que está em curso período de carência que não seja o prazo de 24 horas estabelecido na Lei n. 9.656/98.
+ ..  Em que pese a alegação recursal de carência e de omissão do agravado de doença pré-existente, inegável a situação de urgência do autor, demonstrada no relatório médico ao mencionar "provável etiologia neoplásica" e "possibilidade de processo linfoproliferativo" e declarar a necessidade de internação para biópsia (v. fls. 74 dos autos de 1º grau). Ora, a ausência de diagnóstico e de eventual tratamento pode causar lesões irreparáveis ao autor. Dessa forma, existindo situação de urgência e/ou emergência, a seguradora está obrigada a custear todo o tratamento necessário à plena recuperação da saúde do beneficiário, nos termos dos art. 12, inc. V, "c" e 35-C, inc. I, da Lei 9.656/98, aplicando-se ao caso, ainda, as Súmulas 96 e 103 deste Egrégio Tribunal de Justiça" (v. fls. 303/304).
+O acórdão recorrido está em conformidade com o entendimento sumulado desta Corte Superior, no sentido da abusividade da cláusula contratual que impõe carência superior a 24 horas para utilização de serviços de assistência médica em caso de urgência e emergência.
+Confira-se o teor da Súmula n. 597/STJ:
+A cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência é considerada abusiva se ultrapassado o prazo máximo de 24 horas contado da data da contratação.
+Além disso, a jurisprudência dominante do Superior Tribunal de Justiça no sentido de "Não se limita a cobertura de urgência e de emergência ao que foi despendido apenas nas primeiras doze horas de tratamento, tendo em vista o disposto na súmula 302 do STJ: É abusiva a cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado" (AgInt no AgInt no AREsp 1458340/SP, Relatora a Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 28/10/2019, Dje 30/10/2019). Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ATENDIMENTO DE URGÊNCIA/EMERGÊNCIA. CARÊNCIA NÃO APLICÁVEL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ. NÃO PROVIMENTO.
+1. A jurisprudência do STJ firmou o entendimento de que "a cláusula do prazo de carência estabelecida em contrato voluntariamente aceito por aquele que ingressa em plano de saúde não prevalece quando se revela circunstância excepcional, constituída por necessidade de tratamento necessário em caso de emergência ou de urgência" (AgInt no AREsp 1153702/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 3/12/2018, DJe 5/12/2018).
+2. O recurso especial é inviável quando o Tribunal de origem decide em consonância com a jurisprudência pacífica do STJ (Súmula 83/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.163.872/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/3/2023, DJe de 23/3/2023.).
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CÂNCER DE MAMA. PRESCRIÇÃO DE QUIMIOTERAPIA, A SER REALIZADA COM URGÊNCIA. PRAZO DE CARÊNCIA AFASTADO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte entende que é abusiva a cláusula que limitava a cobertura da internação, mesmo ultrapassado o prazo de carência inicial de 24 horas e constatada a situação de urgência/emergência, de modo que o Tribunal de origem adotou conclusão no mesmo sentido da jurisprudência desta Corte.
+2. Estando o acórdão recorrido de acordo com a jurisprudência do STJ, o recurso especial encontra óbice na Súmula 83.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 2.544.888/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/8/2024, DJe de 2/9/2024.)
+Incide a Súmula n. 83 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
