@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 327/340) opostos à decisão desta relatoria que indeferiu liminarmente os embargos de divergência em agravo em recurso especial.
+A parte embargante alega que a decisão necessita de esclarecimentos, arrazoando que (e-STJ fls. 330/338):
+A r, decisão se omite sobre reconhecimento de nulidade decorrente de ofensa a MATÉRIA DE ORDEM PUBLICA.
+Os presentes embargos de declaração, objetivam portanto os efeitos modificativos previstos no art. 494 inc. II e art. 1023 § 2º do NCPC, pela reiterada OMISSÃO em QUESTÃO DE ORDEM PÚBLICA, trazida já em sede de RESP, dado que o aresto do E. TJSP recorrido pelo recurso raro ora obstado, foi proferido em desafio a súmulas e TEMAS do STJ e STF.
+ ..
+Com as devidas vênias, a premissa sob EVIDENTE ERRO MATERIAL, de que o caso não apresentaria qualquer similitude entre os arestos confrontados, ou seja, o ERESP 1.424.404, e o aresto divergente, salvo melhor aclaramento, se trata de decisão imotivada, incursa nos vícios censurados pelos III, IV , V e VI do § 1º do art. 489 do NCPC, permitindo integração via art. 494 inc. II e art. 1023 § 2º do NCPC.
+ ..
+Segundo o julgado paradigma, diverso do exarado no V. aresto divergente embargado, o entendimento sobre a Súmula 182, data vênia, não tem a abrangência limitativa que sugere a o V. aresto recorrido, pois segundo o acórdão ofertado em paradigma divergente, o entendimento do referido verbete seria de total inviabilidade do agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada, sendo incabíveis os embargos de divergência, consoante os arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ.
+ ..
+Com as devias vênias, há EVIDENTE ERRO MATERIAL, de que o aresto então embargado não apresentaria qualquer similitude com o ERESP 1.424.404, a vista dos TEMAS 1050, 1242 e 1178 do STJ e sumulas 111 do STJ e 47 do STF, o que é facilmente verificado pelo mérito do recurso, imotivadamente não conhecido pela imotivada denegação do seguimento do RESP. forjada pelo E. TJSP, obejto (sic) do presente EARESP.
+O E. TJSP denegou conhecer e prover AI interposto contra decisão proferida por juiz singular que denegou vigência aos art. 85 do NCPC, como os art. 22 a 24 da lei 8906/94 cc art. 658 e seguintes do CC, e ai o desafio aos TEMAS 1050 e 1242 desta C. Corte, por uma interpretação divergente do § 2º do art. 99 do NCPC, em calrao (sic) desafio ao TEMA 1178 do STJ.
+A interpretação divergente do § 2º do art. 99 do NCPC que resultou no aresto do E. TJSP objeto do RESP, foi a denegação imotivada do AI, formulado sob o pedido das garantias legais e constitucionais insculpidas nos art. 98 do NCPC cc art. 5º inc. XXXIV "a" da CF88, por ser a recorrente VITIMA DE CRIMES DE ABUSO DE AUTORIDADE.
+Não obstante, Data vênia, a interpretação divergente do § 2º do art. 99 do NCPC que resultou no aresto do E. TJSP objeto do RESP, também constitui afronta contra o sistema de Repetitivos desta C. Corte Superior, nos termos do TEMA 1178.
+Portanto, data vênia, a r. decisão ora embargada está incursa em OMISSÃO decorrente de EVIDENTE ERRO MATERIAL, quanto a MATERIA DE ORDEM PUBLICA, não sujeita a preclusão, que deve ser conhecida até de ofício, que no caso em tela, acarreta ofensa ao sistema de repetitivos do Próprio Tribunal Superior, nos TEMAS 1050, 1242 e 1178, além de desafio as súmulas 111 desta Corte e 47 do STF.
+ ..
+Face ao exposto, roga pelo acolhimento dos presentes embargos nos termos do inc. II do art. 1022, integrando a r. decisão através dos efeitos modificativos previstos no art. 494 inc. II e 1023 § 2º do NCPC, para :
+a) remover o imotivado obstáculo ao conhecimento e provimento dos Embargos de Divergência manejado com escopo de anular o V. aresto divergente, removendo o imotivado obstáculo ao conhecimento e Provimento de RESP manejado em face de V. Aresto do E. TJSP que em afronta ao TEMA 1178 desta Corte, deixou de processar e julgar AI contra decisão singular que em desafio aos TEM As 1050 e 1242 do STJ, sumulas 111 do STJ e 47 do STF, negou vigência aos art. 85 do NCPC, art. 22 a 24 da lei 8906/94 e art. 658 e seguintes do CC, permitindo provimento para a prestação jurisdicional requerida.
+b) Ou em entendimento diverso, que aclare os pontos controvertidos, sob pena de atrair as nulidades previstas no art. 1022 § único inc. II do NCPC em ofensa direta contra a Garantia Constitucional prevista nos art. 5º inc. II e XXXIV "a" , e art. 93 inc. IX da CF88.
+Não foi apresentada impugnação.
+É o relatório.
+Decido.
+Os embargos de declaração são cabíveis quando existir, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015, casos não observados nos autos.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pleiteado é possível apenas em hipóteses excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+Destaca-se que, com relação ao EREsp n. 1.424.404/SP, CORTE ESPECIAL, Relator Ministro LUÍS FELIPE SALOMÃO, D Je de 17/11/2021, não há similitude fática entre os acórdãos, nos termos dos arts. 1.043 do CPC/2015 e 266 do RISTJ. Como destacado (e-STJ fl. 323):
+O acórdão recorrido reconheceu a inexistência de um dos pressupostos extrínsecos de admissibilidade do agravo interno - a ausência de procuração outorgada ao subscritor do recurso - o que resultou na inadmissibilidade do remédio processual. Por outro lado, o paradigma da CORTE ESPECIAL, à luz do inteiro teor das respectivas peças processuais (acórdão recorrido e recurso especial), deliberou apenas sobre a "desnecessidade de impugnação de todos os capítulos autônomos e/ou independentes da decisão monocrática agravada", quando se tratar de agravo interno no âmbito do STJ (e-STJ fl. 248).
+Assim, não se constata nenhum dos casos de cabimento dos embargos declaratórios. A embargante pretende tão somente o rejulgamento do recurso.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
