@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de MAX WILLIAM DOS SANTOS ALVES, onde aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (agravo em execução n. 8003856-31.2024.8.21.0001/RS).
+Consta dos autos que, na execução de penas, o paciente teve deferido o seu pedido de progressão de regime antecipada ao semiaberto harmonizado pelo juiz da execução, tendo em vista a contenção atual de vagas.
+O requisito objetivo restou depois adimplido (fl. 11).
+Após recurso do MP, a decisão foi cassada, quando foi determinada a realização de exame criminológico para a análise mais acurada do benefício, em razão da nova Lei n. 14.843/2024, que alterou o § 1º do artigo 112 da Lei de Execução Penal, para impor a prévia realização de exame criminológico como condição à apreciação do pleito de progressão de regime; da gravidade do crime cometido e da longa pena a cumprir.
+Neste writ, a defesa sustenta que a progressão de regime deveria ser concedida sem a necessidade de prévio exame criminológico, porquanto o paciente teria cumprido os requisitos legais.
+Busca, assim, afastar a obrigatoriedade hoje prevista para a realização do referido exame.
+Alega que não haveria fundamentação idônea para tal exigência e que o requisito subjetivo também estaria satisfeito, pois o paciente ostentaria bom comportamento carcerário.
+Requer, inclusive liminarmente, "cassar o acórdão proferido pela Oitava Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, conforme acima delineado" (fl. 7).
+É o relatório. DECIDO.
+Conforme consta, a defesa espera restabelecer a decisão que concedeu a progressão de regime sem a exigência de exame criminológico.
+Contudo, o presente habeas corpus não comporta conhecimento, tendo em vista que a petição inicial não veio acompanhada da instrução minimamente necessária à compreensão da controvérsia, como a decisão do juiz da execução e a guia atualizada do paciente.
+Corroborando:
+"Conforme julgado desta Corte, "Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória" (AgRg no RHC n. 160.277/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/9/2022, DJe de 19/9/2022)" (EDcl no HC n. 829.062/RJ, Sexta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT, DJe de 18/8/2023).
+Com efeito, assente nesta Corte que a instrução inadequada da ação mandamental conduz ao não conhecimento da impetração:
+"(..) em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração, não sendo atribuição desta Corte Superior a instrução do feito, ainda que por meio de consulta ao site do Tribunal de origem" (AgRg nos EDcl no HC n. 704.066/RJ, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 15/2/2022, grifei).
+Isso porque a jurisprudência entende que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer:
+"A adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 197.833-AgR, Rel. Ministro LUIZ FUX - Presidente -, TRIBUNAL PLENO, julgado em 19/04/2021, DJe 12/05/2021). Assim, ao não zelar pela devida instrução do habeas corpus, a Defesa impede a apreciação do fundo da controvérsia. Exige-se que as cópias dos documentos essenciais à análise da controvérsia sejam acostadas aos autos pela Parte Impetrante, para que possam ser cote jados com as alegações defensivas - exame imprescindível para o reconhecimento, ou não, de que o direito invocado está constituído. Ademais, não pode ser transferido ao Superior Tribunal de Justiça o ônus de formar adequadamente os autos, como na verdade pretende o Recorrente" (EDcl no AgRg no HC n. 797.698/SC, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 29/6/2023).
+No mesmo sentido: AgRg no HC n. 811.753/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 26/5/2023; e AgRg no HC n. 793.318/SP, Sexta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT, DJe de 10/5/2023.
+Precedentes do Supremo Tribunal Federal: EDcl no AgRg no HC n. 213.797, Segunda Turma, Rel. Min. Nu nes Marques, DJe de 26/10/2022; e AgRg no HC n. 223.487, Primeira Turma, Relª. Minª. Carmen Lúcia, DJe de 22/3/2023.
+Ante o exposto, não conheço do presente writ.
+Publique-se. Intime-se.
+EMENTA
