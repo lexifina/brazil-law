@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado pelo ora agravante.
+O agravante requer o conhecimento do agravo e o provimento do recurso especial (e-STJ fl. 227).
+Contraminuta apresentada (e-STJ fls. 230-242).
+Parecer do Ministério Público Federal pelo conhecimento e desprovimento do agravo (e-STJ fls. 256-260).
+É o relatório.
+Decido.
+O Tribunal de origem inadmitiu o recurso especial interposto pela parte agravante com amparo nos seguintes fundamentos (e-STJ fls. 215-216):
+"No mais, o reclamo foi interposto sem a fundamentação necessária apta a autorizar o seu processamento, consoante determina o artigo 1.029 do Código de Processo Civil1, pois não foram devidamente atacados todos os argumentos do aresto.
+Deficiente a fundamentação, um dos requisitos formais de qualquer recurso, resta, necessariamente, afastada a possibilidade do conhecimento do reclamo.
+Nessa linha, o entendimento do Superior Tribunal de Justiça2: "(..) Ausente a impugnação concreta aos fundamentos da decisão agravada, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.".
+Outrossim, para se chegar a solução contrária à do acórdão recorrido seria necessário o reexame da prova, incidindo ao caso a Súmula nº 7, do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ou seja, há divergência quanto à situação reconhecida pelo Tribunal, não sendo possível emitir um juízo de valor sobre a questão de direito federal sem antes alterar os elementos de fato. A propósito, decidiu o Colendo Superior Tribunal de Justiça, no AgRg no AR Esp 593109/MT, Rel. Ministro Antonio Saldanha Palheiro, julgado em 23/11/2021, DJe 26/11/21, que: "(..) para afastar as conclusões alcançadas pelas instâncias ordinárias, soberanas na análise do acervo fático- probatório, imperioso seria o reexame de fatos e provas, providência vedada na via eleita, tendo em vista a redação do enunciado n. 7 da Súmula desta Casa."3
+Ante o exposto, NEGO SEGUIMENTO ao recurso especial no que concerne ao Tema nº 585 do Superior Tribunal de Justiça, nos termos do artigo 1.030, I, "b", do Código de Processo Civil e artigo 638 do Código de Processo Penal e, no mais, não preenchidos os requisitos exigidos, NÃO O ADMITO, com base no artigo 1.030, inciso V, do Diploma Processual Civil."
+A Corte Especial do Superior Tribunal de Justiça firmou entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. (..) A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, redator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018).
+Esse posicionamento vem guiando a jurisprudência das Turmas Criminais desta Corte, como se nota a partir dos acórdãos que consignam que "a falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia" (AgRg no AREsp 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no AREsp 1.871.630/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023).
+Postas essas premissas, verifica-se que o recurso especial foi inadmitido com base no óbice previsto na Súmula 7/STJ.
+Nas razões do agravo em recurso especial, todavia, a parte limitou-se a afirmar, genericamente, que "a defesa técnica combateu o v. acórdão recorrido em todos os seus fundamentos, tendo especificado e individualizado os motivos pelos quais deveria ser reformado. Efetivamente, a reforma da decisão para corrigir os equívocos dosimétricos e fixado o regime de cumprimento de pena, ao menos, semiaberto, sendo desnecessário o revolvimento fático- probatório" (e-STJ fl. 227).
+Na esteira da jurisprudência dominante desta Corte, a superação do óbice da Súmula 7/STJ exige que o recorrente demonstre, de forma clara e objetiva, ser desnecessário o reexame de fatos e provas para alterar o entendimento das instâncias ordinárias, o que não fez. Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUSPEIÇÃO DO PERITO. NÃO OCORRÊNCIA QUEBRA DE IMPARCIALIDADE NÃO DEMONSTRADA. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa.
+(..)
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.713.116/PI, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022.)
+No entanto, nas razões de agravo, não houve impugnação aos fundamentos da decisão recorrida, tendo a parte se limitado a reforçar os argumentos que já haviam sido expostos no recurso especial, o que impede o conhecimento do agravo.
+Ante o exposto, na forma do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
