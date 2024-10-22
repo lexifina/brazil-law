@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FRANCISCO JULIO LINHARES DA FONSECA E CAMPOS contra a decisão de minha relatoria de fls. 2.854/2.860.
+A parte embargante alega que a decisão embargada é omissa e contraditória.
+Afirma que (fl. 2.871):
+ ..  a contradição reside, porque se a própria decisão embargada colaciona trecho do acórdão que julgou os embargos de declaração no TRF (e-STJ Fl.2649), e afirma que o Tribunal de origem apreciou fundamentadamente toda a controvérsia posta nos autos, de forma contraditória, aponta que não houve o pré-questionamento ao artigo 2º, "f", da Lei nº 4.771/65, que foi objeto daqueles embargos de declaração.
+Aduz que a "decisão embargada foi omissa em relação a alegação de possibilidade de apreciação dos fatos novos" (fl. 2.876).
+Requer que o recurso seja acolhido.
+A parte adversa apresentou impugnação (fls. 2.893/2.895).
+É o relatório.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Na decisão recorrida, a controvérsia foi solucionadas nestes termos (fls. 2.858/):
+Verifico que inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido.
+O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+Por ocasião do julgamento dos embargos de declaração opostos, a Corte regional consignou expressamente que (fl. 2.652, sem destaque no original):
+De outro eito, o laudo pericial foi esclarecedor no sentido de confirmar que o embargante avançou com sua ocupação irregular em direção à praia, considerada como bem de uso comum do povo e restringindo, por outro lado, seu acesso, fato vedado no ordenamento jurídico.
+Saliente-se, por oportuno, que o perito judicial, equidistante dos interesses do conflito, se pronunciou de forma circunstanciada a respeito das questões que lhe foram formuladas, demonstrando a verdade dos fatos ocorridos.
+Observa-se que o i. expert expressou de maneira objetiva a síntese da demanda, tendo concluído que "o Réu não ocupa faixa de areia da praia, mas excedeu a ocupação em 325 m2 em direção ao mar, para além dos limites legais da propriedade e usufrui particularmente de área de uso comum, própria do ambiente natural, inserida em ecossistema que deve ser reservado e preservado, caracterizando intervenção direta e adversa sobre o meio ambiente" (Evento 162 - VOTO59, fl. 12 - 2º grau).
+No que tange à Resolução CONAMA nº 303, de 2002, esta apenas consolidou o conceito de área de preservação permanente, sendo certo que desde 1965 a vegetação existente nas áreas de restingas é considerada de preservação permanente pelo só efeito da Lei 4.771/65 (Código Florestal, art. 2º, alínea "f").
+Quanto à arguição de que o julgado foi omisso ao não acolher as provas produzidas pelo embargante, o acórdão sedimentou que "o processo tramitou de forma regular, com a observância dos princípios do contraditório e da ampla defesa, tendo o réu, ora apelante, dele participado ativamente, manifestando-se intensamente durante todo o transcurso da lide, sendo certo que todas as provas foram analisadas cuidadosamente pelo Juízo a quo" (Evento 162 - VOTO59, fl. 8 - 2º grau).
+Destacou, ainda, o decisum, que "é consenso nas decisões emanadas das diversas instâncias que o deferimento de diligências ou provas é ato discricionário do magistrado, que pode negar os pedidos que considerar protelatórios ou desnecessários, bem como, determinar a produção de outras que julgar necessárias ao deslinde da lide (artigo 370 e § único do CPC/15)".
+Por fim, descabe a alegação de fatos novos em sede de embargos de declaração, que não são a via hábil para a discussão do mérito da matéria impugnada, cujas hipóteses de cabimento estão previstas no artigo 1.022, do CPC.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+A alegação de violação do art. 2º, f, da Lei 4.771/1965, mormente no que concerne à tese recursal a ele vinculada, qual seja, de que apenas seria caracterizada como área de preservação permanente "a vegetação de restinga quando exerce as funções de fixar duna ou estabilizar mangue, que não se aplica ao caso" (fl. 2.679) - não é suficiente para se ter a questão de direito como prequestionada, instituto que, para sua caracterização, exige, além da alegação, a discussão e a apreciação judicial pelo Tribunal de origem.
+O Superior Tribunal de Justiça (STJ) considera que a ausência de enfrentamento pelo Tribunal de origem da matéria objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial porque não foi preenchido o requisito constitucional do prequestionamento.
+Incide neste caso o enunciado 211 da Súmula do STJ.
+O Tribunal de origem, sem tecer considerações acerca das "funções de fixar duna ou estabilizar mangue" para fins de caracterização como área de preservação permanente, decidiu a questão nesse sentido (fls. 2.428/2.432):
+Conforme a prova dos autos, restou constatado que a construção do apelante avançou sobre a vegetação de restinga, área de preservação permanente, caracterizando a irregularidade da ocupação, assim como os prejuízos causados ao meio ambiente, tudo devidamente comprovado no laudo pericial.
+Com efeito, urge ressaltar que a restinga constitui área de preservação permanente, protegida por lei federal, como um ecossistema frágil onde não podem ser feitas construções.
+As restingas, sob o ponto de vista ecológico, podem ser definidas como um espaço geográfico formado por depósitos arenosos e paralelos à linha da costa, de forma geralmente alongada, produzida por processo de sedimentação, onde se encontram diferentes comunidades que recebem influência marinha, podendo ter cobertura vegetal, típica das praias e das dunas. Trata-se de ecossistema determinado fisicamente pelas condições edáficas (que pertencem ou podem estar relacionadas ao solo) e pela influência do mar, remanescente do bioma da Mata Atlântica.
+ ..
+Assim, como concluído na sentença, com base no salientado no laudo, não há como se negar, que todas as construções situadas na praia de Geribá foram erguidas sobre a vegetação característica de restinga, sendo forçosa a constatação de que o dano ao meio ambiente se iniciou no momento da implantação do loteamento, nos idos de 1963.
+ ..
+De tal modo, como dito na sentença, inexistem dúvidas de que o imóvel de propriedade do apelante foi construído sobre a área de restinga, assim como o foram todos os imóveis situados à beira da praia, nos termos das conclusões firmadas pelo perito judicial, segundo as quais, os danos causados consistem na supressão do volume natural de depósito arenoso e da vegetação natural de cobertura do solo, que foram alterados e substituídos por meio da atividade humana (fl. 1223).
+Indubitavelmente, não é o caso de prequestionamento ficto, isso porque, conforme o entendimento desta Corte Superior, a incidência do art. 1.025 do Código de Processo Civil (CPC) exige que o recurso especial tenha alegado a ocorrência de violação do art. 1.022 do caderno processual, possibilitando verificar a omissão do Tribunal de origem quanto à apreciação da matéria de direito de lei federal controvertida.
+E, muito embora tenha sido alegada violação ao art. 1.022 do CPC no recurso especial, a tese atrelada ao art. 2º, f, da Lei 4.771/1965 não fora apontada como omissa no tópico relativo à contrariedade daquele dispositivo, a despeito de ter sido objeto dos embargos de declaração opostos perante o juízo a quo.
+Ou seja, a respeito da questão apontada no recurso ora examinado, foi afastada a negativa de prestação jurisdicional pelo Tribunal de origem, tendo em vista que houve manifestação expressa sobre as questões tidas por omissas no recurso especial interposto, inclusive no que se refere aos alegados "fatos novos", conforme destacado na decisão embargada.
+Ademais, concluiu-se que a tese vinculada ao dispositivo de lei tido por violado não foi objeto de manifestação pelo acórdão recorrido, atraindo a incidência do óbice da Súmula 211 desta Corte.
+Ressalto que é entendimento assente no Superior Tribunal de Justiça que não há incompatibilidade entre a ausência de violação ao art. 1.022 do CPC e a Súmula 211, conforme se observa nos seguintes julgados:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS EXTERNOS. INADMISSIBILIDADE. PREMISSA EQUIVOCADA. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+ ..
+4. Conforme entendimento desta Casa, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado da Súmula n. 211 do STJ, quanto às teses invocadas pela parte recorrente, mas que não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado.
+5. Embargos de declaração rejeitados, com advertência de multa.
+(EDcl no AgInt no AREsp n. 1.631.077/PE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DESCONTO DE VALORES RECEBIDOS A TÍTULO DE BENEFÍCIOS INACUMULÁVEIS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS INVOCADOS NO APELO NOBRE. SÚMULA 211/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. Por fim, registre-se que "não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado" (AgInt no REsp 1.795.385/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 15/04/2021).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.053.704/PR, relator Ministro Manoel Erhardt - Desembargador Convocado do TRF da 5ª Região, Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+E, por fim, no caso em exame, concluiu-se que não houvera o prequestionamento implícito da matéria recursal, tendo em vista que a Corte local decidira com base em fundamentos outros, sem tecer considerações acerca das "funções de fixar duna ou estabilizar mangue".
+Também não seria o caso de prequestionamento ficto, tendo em vista que, muito embora tenha sido alegada a violação ao art. 1.022 do caderno processual, a tese atrelada ao art. 2º, f, da Lei 4.771/1965 não fora apontada como omissa no tópico relativo à sua contrariedade.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. SAT/RAT. ALÍQUOTA. FATOR ACIDENTÁRIO DE PREVENÇÃO - FAP. MATÉRIA CONSTITUCIONAL. ÍNDICES ESTATÍSTICOS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. HONORÁRIOS. EQUIDADE. INVIABILIDADE PREQUESTIONAMENTO. AUSÊNCIA.
+ ..
+5. Embora a agravante tenha manejado os embargos de declaração, esses não cumpriram com a finalidade de suprir eventual omissão, ao tempo em que não há, nas razões recursais, alegação idônea para conhecimento de possível ofensa ao art. 1.022 do CPC, circunstância que atrai a aplicação da Súmula 211 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.258.615/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC).
+Rever as matérias alegadas no recurso ora examinado acarretaria rediscutir entendimento já manifestado e devidamente embasado. O recurso integrativo não se presta à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
