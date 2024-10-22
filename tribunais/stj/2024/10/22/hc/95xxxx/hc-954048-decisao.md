@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ADRIANO DE OLIVEIRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (recurso em sentido estrito e seus embargos de declaração criminal nº 1500096-13.2022.8.26.0634).
+Consta dos autos que o paciente e o corréu nestes autos, MARCELO RODRIGO DA SILVA SOUZA, foram pronunciados como supostamente incursos no artigo 121, § 2º, incisos III e IV, do Código Penal.
+Neste habeas corpus, a defesa aduz que as provas de autoria são com base em testemunhos de ouvir dizer e ainda não judicializados.
+Assere que "é possível constatar que as provas produzidas, sob o crivo do contradito rio, da o pleno embasamento ao reconhecimento da materialidade delitiva, mas o mesmo não se observa em relação à autoria" (fl. 11).
+Invoca que "chama atenção que NENHUMA das testemunhas arroladas pela acusação presenciou o cometimento do delito. Sem qualquer dissona ncia, TODAS as testemunhas afirmaram que apenas ouviram "boatos, comentários no bairro ou alguém dizer", que determinadas pessoas teriam cometido o crime" (fl. 12).
+Requer, inclusive liminarmente, "a suspensão do júri marcado para o dia 24 de outubro de 2024, perante a Vara do Júri da Comarca de Tremembé-SP, enquanto na o julgado o me rito desta aça o constitucional: 2- No mérito, seja concedida a ordem para declarar nulos todos os atos processuais desde a decisão de pronúncia, sendo o paciente despronunciado" (fl. 18).
+É o relatório. DECIDO.
+No caso, o presente habeas corpus não comporta sequer conhecimento, em razão da reiteração de pedidos no HC n. 864.675/SP e no AREsp n. 2.461.424/SP.
+Não obstante o ato coator na impetração e no recurso conexos seja o mesmo do presente writ, houve aqui a repetição de temas anteriormente invocados nesta Corte e já solucionados em seu mérito.
+O AREsp n. 2.461.424/SP, interposto em benefício de ADRIANO DE OLIVEIRA, foi colegiadamente julgado em 16/4/2024, sem recurso, nos termos da ementa:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7/STJ. MANUTENÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I - Agravo em recurso especial conhecido para não conhecer do recurso especial por incidência do óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+II - In casu, objetiva o agravante a reforma do julgado a fim de que seja despronunciado, tendo em vista insuficiência dos indícios de autoria, afastados pela prova judicializada.
+III - Entretanto, a análise a respeito da existência (ou não) de indícios mínimos de autoria aptos a autorizar o judicium causa e demandaria, necessariamente, o revolvimento do material fático dos autos, o que é vedado pela Súmula n. 7, STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Agravo regimental desprovido."
+Já o HC n. 864.675/SP, impetrado em favor de MARCELO RODRIGO DA SILVA SOUZA, julgado em 12/4/2024, sem recurso da defesa, ressaltou:
+"(..) Conforme consta, a defesa invoca nulidades na sentença de pronúncia, pela suposta falta de provas da autoria. No mais, espera revogar a prisão preventiva por falta de subsistência na sua fundamentação.
+Primeiramente, deve-se explicar que o debate sobre a sentença de pronúncia está prejudicado pelo julgamento do feito conexo neste STJ, o AREsp n. 2.461.424/SP, que analisou a viabilidade da sentença de pronúncia e do seu acórdão confirmatório, nos limites da competência deste STJ, estabelecendo que, vejamos:
+"Segundo  entendimento  jurisprudencial  desta  Corte  Superior,  o  testemunho  de  "ouvir  dizer"  ou  hears  ay  testimony  não  é  suficiente  para  fundamentar  a  pronúncia,  não  podendo  esta,  também,  encontrar-se  baseada  exclusivamente  em  elementos  colhidos  durante  o  inquérito  policial,  nos  termos  do  art.  155  do  CPP.
+Ocorre  que,  no  presente  caso,  o  Tribunal  Estadual,  após  percuciente  análise  dos  elementos  fáticos  e  probatórios  colhidos  no  caderno  processual,  concluiu  pela  presença  de  indícios  mínimos  para  pronunciar  o  acusado,  tendo  em  vista  as  provas  testemunhais  produzidas  na  fase  policial  e  confirmadas  em  juízo,  além  das  investigações  realizadas  e  as  provas  materiais  produzidas."
+Tudo o que impede a nova análise aqui posta, pois a superveniência do julgamento do recurso próprio exaure o debate buscado em HC e constitui novo título, o qual modifica drasticamente a situação jurídica e torna ineficaz qualquer nova manifestação desta Corte Superior em sede mandamental, até mesmo pela falta de dialeticidade das razões aqui apresentadas em face do julgado superveniente.
+Isso porque, de acordo com a jurisprudência deste STJ, a interposição de dois recursos (ou ações mandamentais) em face do mesmo julgado, é circunstância que impede o conhecimento daquele protocolizado por último, em razão da preclusão consumativa e do princípio da unirrecorribilidade das decisões.
+A propósito:
+(..) Por fim, no que atine à prisão preventiva, além de a defesa invocar fundamentos supervenientes, o acórdão de origem sequer mencionou a matéria, tendo sido aqui invocada em indevida supressão de instância.
+Ante o exposto, não conheço do presente habeas corpus."
+Diante desse cenário, sobre a impossibilidade de conhecimento de habeas corpus, ou de seu recurso ordinário, quando configurada a reiteração de pedidos, o seguinte julgado deste STJ:
+"No presente caso, não constatada nenhuma flagrante ilegalidade, tem-se que o presente recurso ordinário em habeas corpus não passou de mera reiteração de pedidos no HC n. 719.739/GO, inclusive, impetrado com os mesmos argumentos em geral e em face do mesmo v. acórdão de origem (HC n. 5449889-09.2021.8.09.0000). Assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017)" (AgRg no RHC n. 161.259/GO, Quinta Turma, de minha relatoria, DJe de 14/3/2023).
+Corroborando: AgRg no HC 478.216/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 19/2/2019; AgRg no RHC 106.171/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 1º/3/2019; e AgRg no AREsp n. 2.355.597/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023.
+Trata-se de hipótese, inclusive, que ocorre até mesmo quando a reiteração de pedidos é realizada contra acórdãos diferentes ou em tipos de recursos e ações diversos (AgRg no RHC n. 156.181/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 24/2/2022; e EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.249.797/SE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/6/2023).
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o MPF desta decisão.
+Publique-se. Intime-se.
+ EMENTA
