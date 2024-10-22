@@ -1,0 +1,40 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado ( fls. 1.761-1.762):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. REGRA GERAL. ART. 85, § 2º, DO CPC/2015 DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. Para que se acolha a pretensão recursal quanto ao valor arbitrado a título de danos moral e estético, seria necessário o revolvimento do contexto fático-probatório dos autos, o que é inviável no âmbito do especial. Inafastável a Súmula n. 7/STJ.
+3. A Corte Especial do STJ, em sede de recurso especial repetitivo (Tema n. 1.076), fixou as seguintes teses quanto ao arbitramento de honorários advocatícios sucumbenciais: "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo."
+4. Referido entendimento coincide com precedente julgado pela Segunda Seção desta Corte, no qual se estabeleceu "(5.1) que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa; (5.2) que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo" (R Esp 1746072/PR, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, D Je 29/03/2019).
+5. Agravo interno a que se nega provimento.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 1.795-1.800).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, afirma haver deficiência na fundamentação do acórdão recorrido, ao argumento de que teria se omitido em relação à apreciação das teses de defesa que demonstrariam a inaplicabilidade da Súmula 7 do STJ no caso dos autos.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, que não examinou o mérito do recurso dirigido a esta Corte Superior, como se observa do seguinte trecho do referido julgado (fls. 1.765-1.768):
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.735/1.737):
+ ..
+Como dito anteriormente, o Tribunal de origem concluiu que o valor dos danos moral e estético foi estabelecido atendendo às circunstâncias da causa. Considerou, com base nos fatos e na razoabilidade, ser plausível o quantitativo arbitrado em R$ 1.500.000,00 (um milhão e quinhentos mil reais), considerando que a parte recorrida tornou-se dependente de terceiros para todas as atividades corriqueiras.
+Assim, para que se acolha a pretensão recursal quanto ao valor arbitrado a título de danos moral e estético, seria necessário o revolvimento do contexto fático- probatório dos autos, o que é inviável no âmbito do especial. Inafastável a Súmula n. 7/STJ.
+Além disso, "a incidência da Súmula 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea c do art. 105, III, da Constituição Federal" (AgRg no AREsp n. 97.927/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015).
+Conforme exposto, está pacificado nesta Corte o entendimento de que o § 2º do art. 85 do CPC/2015 apresenta a regra geral de arbitramento dos honorários advocatícios sucumbenciais, de aplicação obrigatória, independentemente do conteúdo da decisão proferida.
+A fixação por equidade, prevista no § 8º do referido dispositivo de lei, aplica- se de forma subsidiária, somente nas hipóteses em que o proveito econômico seja inestimável ou irrisório, ou quando o valor da causa for muito baixo.
+No presente caso, não se observa nenhuma das situações excepcionais aqui descritas, devendo ser aplicada a regra geral, segundo os precedentes transcritos na decisão monocrática.
+Além disso, a parte agravante alega a necessidade de sobrestamento do feito em observância ao reconhecimento da repercussão geral da matéria pelo Supremo Tribunal Federal (Tema 1255/STF).
+Entretanto, em que pese o STF ter, de fato, reconhecido a repercussão geral do tema, nada foi dito a respeito da necessidade de se suspender, em nível nacional, os processos ativos que discutam o tema em análise, conforme previsão contida no § 5º do artigo 1.035 do CPC.
+Ademais, a suspensão de processamento prevista no § 5º do art. 1.035 do CPC/2015 não consiste em consequência automática e necessária do reconhecimento da repercussão geral realizada com fulcro no caput do mesmo dispositivo, sendo da discricionariedade do relator do recurso extraordinário paradigma determiná-la ou modulá-la.
+ ..
+Desta forma, não tendo Supremo Tribunal Federal determinado a suspensão dos processos em andamento que versem sobre o Tema n. 1.255, não há que se falar em sobrestamento do feito.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Por fim, não houve impugnação quanto aos demais pontos da decisão ora recorrida, operando-se a preclusão.
+Assim, fica inviabilizado o exame pretendido nesta insurgência, relacionado à correta aplicação de óbices processuais pelo STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
