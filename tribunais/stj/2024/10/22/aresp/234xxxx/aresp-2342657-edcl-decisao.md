@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Rodovia das Colinas S.A. contra decisum singular que conheceu do agravo em recurso especial para dar parcial provimento ao apelo nobre, uma vez que reformou o acórdão recorrido no que tange aos honorários advocatícios de sucumbência, determinando que estes sejam arbitrados na fase de liquidação de sentença, sobre o valor atualizado da causa, nos termos do art. 85, §4º, III, do CPC, de acordo com os limites percentuais previstos no § 3º desse mesmo dispositivo legal.
+Em suas razões, a parte embargante aduz, em resumo, que ocorreu contradição na decisão embargada pois entende inaplicável o art. 85, § 8º, do CPC. Sustenta que a embargante, embora concessionária de serviço público, trata-se de sociedade empresária de direito privado, não se confundindo sua natureza jurídica com a Fazenda Pública. Requer assim que deva ser aplicada a regra geral de fixação da verba sucumbencial prevista no art. 85, § 2º do CPC.
+Afirma que a decisão incorreu em omissão ao determinar que a verba honorária seja arbitrada apenas na fase de liquidação tendo em vista que a sentença proferida pelo magistrado de piso já fixou o potencial econômico da demanda.
+A parte embargada apresentou impugnação às fls. 1.760/1.773; 1.748/1.750.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Contudo, não se verifica a existência de qualquer das deficiências em questão, pois a decisão embargada decidiu, de forma clara e fundamentada, toda a controvérsia posta no recurso.
+Com efeito, restou devidamente consignado que (fl. 1.689):
+Como cediço, "na forma da jurisprudência do STJ, "nas causas em que a Fazenda Pública for litigante, os honorários advocatícios devem ser fixados de acordo com os parâmetros estampados nos incisos I a IV do § 2º e com os percentuais delimitados no § 3º do art. 85 do CPC/2015" (STJ, AgInt no R Esp 1.740.865/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, D Je de 20/08/2018). Nesse sentido: STJ, AgInt no R Esp 1.838.469/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, D Je de 17/12/2020; AgInt no R Esp 1.665.300/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, D Je de 19/12/2017" (AgInt nos E Dcl no R Esp n. 1.863.538/PR, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, D Je de 12/5/2022.).
+Nessa linha de ideias, considerando-se que no polo passivo da subjacente demanda incluem-se as referidas autarquias estaduais, a fixação dos honorários advocatícios de sucumbência não se vincula ao § 8º do art.85 do CPC.
+Dessarte, não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios no julgado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no decisum embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. RECURSO REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA. TEMA 1.115/STJ. EMBARGOS DE DECLARAÇÃO MANEJADOS PELO IBDP (AMICUS CURIAE). INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. PRETENSÃO DE AMPLIAÇÃO DA TESE FIXADA. IMPOSSIBILIDADE. REJEIÇÃO DOS ACLARATÓRIOS.
+1. Consigna-se, de início, que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no Código de Processo Civil - CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+3. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+4. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissão e obscuridade no julgado combatido, traduzem, na verdade, a pretensão de ampliação da tese delimitada ao ensejo da afetação da controvérsia ao rito dos recursos repetitivos. Portanto, não há falar em omissão ou obscuridade.
+5. Embargos de declaração do Instituto Brasileiro de Direito Previdenciário - IBDP rejeitados.
+(EDcl no REsp n. 1.947.404/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 19/12/2023, DJe de 6/2/2024.)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+ EMENTA
