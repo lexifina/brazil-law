@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual o ESTADO DO MARANHÃO se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO de fls. 2.008/2.040, assim ementado:
+EMENTA: AÇÃO RESCISÓRIA DE APELAÇÃO EM AÇÃO CIVIL PÚBLICA. CONCURSO PÚBLICO DA POLÍCIA MILITAR DO MARANHÃO. ALEGAÇÃO DE LITISPENDÊNCIA. AFASTADA. APELO PARCIALMENTE PROVIDO. RESCISÓRIA QUE SE JULGA IMPROCEDENTE.
+I - Restando evidenciado nos autos que o julgado que se busca rescindir, não violou qualquer norma jurídica, a hipótese não se opera litispendência(art.485, V, do CPC). Isso porque, analisando os autos da Ação nº 0806957- 69.2016.8.10.0001, verifico que o pedido de desistência foi formulado em 11 de outubro de 2016 (ID 2063896), portanto, antes da publicação da sentença no Diário Eletrônico, o que somente ocorreu em 24 de outubro de 2017 (ID 8464413), mais de 01 (um) ano após a formulação do pleito. A rescisória merece ser julgada desprovida, eis que a decisão impugnada foi pautada dentro da legalidade.
+II - Destaco, que fora realizada a audiência de conciliação ID. 20178744, e esta restou infrutífera.
+III - Improcedência da rescisória.
+Nas razões de seu recurso especial, a parte recorrente alega violação dos arts. 485, V, e 337, § 4º, do Código de Processo Civil (CPC).
+A parte adversa apresentou contrarrazões (fls. 2.054/2.068).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Nas razões do recurso especial, a parte recorrente alega que "o acórdão violou o disposto nos artigos 485, inciso VI, e 337, §4º, do Código de Processo Civil, pois, em que pese reconhecida a existência de sentença de mérito com transito em julgado certificado nos autos de ação ordinária ajuizada em momento anterior, considerou que um pedido de desistência da ação protocolado - não analisado, nem julgado, seria causa de impedimento do trânsito em julgado certificado e exceção à ocorrência de coisa julgada material" (fl. 2.046).
+Nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou (fl. 2.015):
+Conforme declinado na inicial, alega o rescindente resumidamente, que os Autores/Rescindendos já teriam ajuizado a Ação Ordinária n.º 0806957-69.2016.8.10.0001, distribuída em 07/03/2016, em trâmite perante a 4ª Vara da Fazenda Pública de São Luís, com a mesma parte, pedido e causa de pedir, em que foi exarada sentença pela total improcedência dos pedidos formulados.
+Todavia, no meu entender, concluo que não lhe assiste razão em tal sustentação, pois a hipótese não se opera litispendência (art. 485, V, do CPC). Isso porque, analisando os autos da Ação nº 0806957- 69.2016.8.10.0001, verifico que o pedido de desistência foi formulado em 11 de outubro de 2016 (ID 2063896), portanto, antes da publicação da sentença no Diário Eletrônico, o que somente ocorreu em 24 de outubro de 2017 (ID 8464413), mais de 01 (um) ano após a formulação do pleito.
+As razões recursais, por sua vez, aduzem que (fl. 2.047):
+Os ora recorridos ingressaram com outra demanda perante o juízo da 4ª Vara da Fazenda Pública de São Luís, autuada sob o nº 0806957-69.2016.8.10.0001, cujo objeto, partes, causa de pedir e o pedido são idênticos; a sentença com resolução de mérito prolatada nos autos do referido processo foi de total improcedência, com trânsito em julgado certificado em 20/11/2017.
+Nesse passo, considerando que o Acórdão impugnado nesta Rescisória somente transitou em julgado em data posterior (17/05/2021), resta caracterizada a ocorrência do vício rescisório no presente caso, consoante o excerto doutrinário transcrito a seguir esclarece: .. .
+Entendimento diverso, conforme pretendido, para fazer prevalecer a tese de que a desistência da primeira ação não foi homologada e que sobreveio sentença de improcedência, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. URP. VALORES RECEBIDOS POR TEMPO SUPERIOR AO DEVIDO, PARTE POR FORÇA DE DECISÃO JUDICIAL PRECÁRIA, POSTERIORMENTE REVOGADA, PARTE POR ERRO DA ADMINISTRAÇÃO. BOA-FÉ DOS SERVIDORES. RESTITUIÇÃO INDEVIDA. AUSÊNCIA DE VIOLAÇÃO DO ART. N. 1.022 DO CPC/2015. LITISPENDÊNCIA. NECESSIDADE DE REVOLVIMENTO DE MATERIAL FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. MANUTENÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+ ..
+III - Quanto à questão acerca da litispendência, na forma da jurisprudência dominante do STJ, "analisar a alegada ofensa à litispendência e à coisa julgada importa em reexame de provas, o que encontra óbice na Súmula 7 deste Tribunal" (STJ, AgRg nos EDcl no REsp n. 1.539.665/SC, relator Ministro Humberto Martins, Segunda Turma, DJe de 26/10/2015). Nesse sentido: AgInt no AREsp n. 2.029.698/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/5/2023, DJe de 27/6/2023.
+ ..
+VII - Agravo interno improvido.
+(AgInt no AgInt no REsp n. 1.887.601/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 28,86%. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. ILEGITIMIDADE DO EXEQUENTE. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. LITISPENDÊNCIA AFASTADA. REEXAME. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. EXECUÇÃO DE HONORÁRIOS SUCUMBENCIAIS. LEGITIMIDADE CONCORRENTE DA PARTE E DO CAUSÍDICO. PRECEDENTES.
+ ..
+9. Quanto a alegada litispendência em relação a um dos exequentes, o Tribunal a quo a afastou, ao fundamento de que teria ficado comprovada a desistência da outra execução coletiva, bem como a extinção dos embargos à execução por perda superveniente do interesse do servidor. Infirmar a referida conclusão, adotando-se, para tanto, as razões recursais, para se reconhecer a litispendência in casu, pressupõe reexaminar matéria fático-probatória, o que atrai a incidência da Súmula 7/STJ.
+ ..
+11. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 1.992.889/PE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/6/2023, DJe de 19/6/2023.)
+Quanto à alegação de coisa julgada, o acórdão recorrido não decidiu a causa por meio da aplicação do art. 337, § 4º, do CPC, circunstância que revela a ausência de prequestionamento, a impedir o conhecimento do recurso especial nos exatos termos das Súmulas 282 e 356 do Supremo Tribunal Federal (STF), aplicadas por analogia.
+Verifico que o art. 337, § 4º, do Código de Processo Civil não foi apreciado pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial porque não preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do CPC, o que não foi feito no caso dos autos.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+ EMENTA
