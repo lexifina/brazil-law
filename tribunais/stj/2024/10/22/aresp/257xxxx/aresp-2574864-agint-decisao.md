@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 259/265) interposto contra decisão da Presidência desta Corte que não conheceu do recurso (e-STJ fls. 254/255).
+Em suas razões, a parte alega que foi impugnada a aplicação da Súmula n. 7 do STJ e que a questão é de direito.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (e-STJ fl. 270).
+É o relatório.
+Decido.
+Inicialmente, reconsidero a decisão de fls. 254/255 (e-STJ) e passo a novo exame do agravo em recurso especial.
+Cuida-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (e-STJ fls. 229/230).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 196):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CARTÃO DE CRÉDITO CONSIGNADO. UTILIZAÇÃO DO CARTÃO PARA SAQUE. SÚMULA 63 DESTE TJGO. NÃO APLICAÇÃO. LEGITIMIDADE DAS COBRANÇAS. IMPROCEDÊNCIA DO PEDIDO INICIAL E INVERSÃO DOS ÔNUS DA SUCUMBÊNCIA. COBRANÇA SUSPENSA. INTELIGÊNCIA DO ARTIGO 98, § 3º DO CPC. HONORÁRIOS RECURSAIS NÃO MAJORADOS. SENTENÇA REFORMADA. 1. Estando comprovada a contratação de cartão de crédito consignado junto à instituição financeira, com assinatura do autor, demonstrando a sua plena ciência do pacto e de seus termos, além da efetivação de saque a ser pago na fatura do cartão, há que se reconhecer a regularidade da anotação da reserva de margem consignável no benefício previdenciário. 2. Considerando as particularidades da causa, conclui-se que a conduta do contratante não se amolda à Súmula 63 desta Corte de Justiça, a permitir seja a operação interpretada ou confundida com contrato de crédito pessoal consignado, devendo a sentença ser reformada, a fim de que o pedido inicial seja julgado improcedente, com a inversão dos ônus da sucumbência, cuja cobrança ficara suspensa por força do artigo 98, § 3º do CPC. 3. Corolário do provimento recursal, não se majora os honorários advocatícios. 4. RECURSO CONHECIDO E PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 207/217), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos arts. 51, IV, 52 e 54 do CDC, porque (e-STJ fl. 213):
+ ..  o recorrente apenas sacou com o cartão nunca tendo utilizado o cartão para realizar compras. Pelo fato de não haver utilização do cartão, demonstra-se a boa-fé do recorrente ao entender que havia contratado um empréstimo consignado, visto que há disponibilidade de valores diretamente na conta bancária para saque e há desconto mensal no benefício previdenciário como se empréstimo consignado fosse.
+ ..  o VÍCIO DE CONSENTIMENTO está consumado e devidamente ratificadas as alegações iniciais de que o recorrente não recebeu as informações claras da contratação, tampouco imaginava que entrava em uma dívida impagável.
+No agravo (e-STJ fls. 234/244), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 249).
+Consta nos autos que o Tribunal de origem entendeu que (e-STJ fl. 199):
+No vertente caso, contudo, tenho que não agiu com acerto o nobre magistrado singular, visto que comprovado nos autos que as partes entabularam contrato de cartão de crédito, com desconto de valor fixo na folha de pagamento do apelante, conforme se observa do documento acostado no evento nº 18.
+Observo, ainda, que o banco apelado logrou êxito em demonstrar que o apelante assinou o "TERMO DE ADESÃO DE CARTÃO DE CRÉDITO CONSIGNADO - BANCO BMG E AUTORIZAÇÃO PARA DESCONTO EM FOLHA DE PAGAMENTO", por meio do qual realizou um saque de R$ 2.019,89 (dois mil e dezenove reais e oitenta e nove centavos), via cartão de crédito consignado.
+Não bastasse isso, com o referido cartão em mãos, é possível vislumbrar que a parte autora realizou saques, o que demonstra o pleno conhecimento da modalidade contratada, principalmente pelo fato de que no contato consta os índices pactuados, tais como IOF financiado, juros mensal da operação, CET mensal e anual (mov 18)
+Assim sendo, é nítido que o recorrido tinha ciência da contratação, de modo que entendo que o apelante efetivamente demonstrou a existência do pacto e a ciência do apelado quanto aos seus termos, sendo, portanto, regulares os descontos realizados no benefício previdenciário, não havendo falar em inexistência do débito e restituição de importâncias pagas, devendo a sentença prolatada ser modificada.
+Modificar o entendimento do acórdão impugnado quanto à comprovação de que se tratava de contrato de cartão de crédito consignado e da observância do dever de informação demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Diante do exposto, RECONSIDERO a decisão da Presidência desta Corte de fls. 254/255 (e-STJ) e NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo, ficando suspensa a exigibilidade em virtude da gratuidade de justiça (art. 98, § 3º, do CPC/2015).
+Publique-se e intimem-se.
+EMENTA
