@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO BRADESCO FINANCIAMENTOS S.A., com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Distrito Federal (Apelação Cível n. 726282-53.2023.8.07.0003) nos autos de ação de busca apreensão.
+O julgado foi assim ementado (fl. 131-132):
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. NOTIFICAÇÃO EXTRAJUDICIAL. MORA NÃO COMPROVADA. DETERMINAÇÃO DE DILIGÊNCIAS. DESCUMPRIMENTO DA DETERMINAÇÃO JUDICIAL. AUSÊNCIA DE PRESSUPOSTOS DE DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO. INDEFERIMENTO DA INICIAL. EXTINÇÃO. RECURSO DESPROVIDO.
+1. Hipótese de indeferimento da petição que inaugurou ação de busca e apreensão em virtude da ausência de comprovação da constituição da devedora em mora.
+2. Na ação submetida ao procedimento especial regulado pelo Decreto-Lei nº 911/1969 a notificação extrajudicial é pressuposto de desenvolvimento válido do processo de busca e apreensão de veículo dado em garantia em contrato de alienação fiduciária.
+3. A comprovação da mora deve ser procedida por meio da expedição de carta registrada ou pelo protesto do título, de acordo com a regra prevista no art. 2º, § 2º, do Decreto-Lei nº 911/1969.
+4. O envio de telegrama encaminhado ao endereço informado pelo devedor no contrato de alienação fiduciária não é suficiente para constituí-lo em mora, pois nesse caso não fica demonstrada a efetiva ciência da mora pelo devedor.
+5. O enunciado nº 72 da Súmula do Colendo Superior Tribunal de Justiça dispõe que "a comprovação da mora é imprescindível à busca e apreensão do bem alienado fiduciariamente".
+6. A ausência desse requisito deve ensejar a extinção do processo nos termos do art. 485, inc. IV, do Código de Processo Civil e não a improcedência do pedido.
+7. É atribuição do Juízo singular, após o ajuizamento da ação, proceder à análise da petição inicial e verificar se estão presentes os pressupostos processuais, bem como as circunstâncias que eventualmente impossibilitem a regularidade do curso processual, nos termos do art. 321 do Código de Processo Civil.
+8. Caso seja verificada a ocorrência de eventuais defeitos ou irregularidades em relação ao preenchimento dos requisitos exigidos pelos artigos 319 e 320, ambos do Código de Processo Civil, deve ser concedida oportunidade à parte para que proceda à emenda determinada, ou mesmo ao implemento de eventual diligência, como no caso retratado nos autos.
+9. No caso em deslinde houve a concessão do prazo para que a credora comprovasse a constituição da devedora em mora por meio de notificação válida, consubstanciada na carta com aviso de recebimento. 9.1. A credora, no entanto, se manteve inerte, deixando de dar atendimento à determinação judicial. 9.2. Diante da ausência de atendimento à ordem judicial, a respeitável sentença deve ser integralmente mantida.
+10. Recurso conhecido e desprovido.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, o ora agravante aponta, além de dissídio jurisprudencial, violação dos arts. 2º, § 2º, e 3º do Decreto-Lei n. 911/1969.
+Defende que a notificação expedida para a constituição do devedor em mora é válida, porquanto enviada para o endereço fornecido constante no contrato, ainda que devolvida com informe de "ausente" após 3 tentativas de entrega pessoal.
+Aduz que o Tribunal de origem, ao exigir a comprovação da entrega da notificação ao devedor como requisito para constituição da mora, divergiu do entendimento vinculante consolidado por este Tribunal Superior no julgamento do Tema Repetitivo n. 1.132.
+Requer a reforma do acórdão combatido para deferir a liminar de busca e a apreensão e determinar o prosseguimento do feito.
+Não foram apresentadas contrarrazões.
+Admitido o recurso especial (fl. 277), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso merece prosperar.
+Para os contratos garantidos por alienação fiduciária, embasados pelo Decreto-Lei n. 911/1969, o Superior Tribunal de Justiça firmou o entendimento de que a mora se configura automaticamente, quando vencido o prazo para o pagamento - mora ex re -, isto é, decorre do não pagamento dentro do prazo. Ou seja, o devedor estará em mora quando deixar de efetuar o pagamento no tempo, lugar e forma contratados (arts. 394 e 396 do Código Civil).
+Portanto, incumbe ao credor comprovar tão somente o envio da carta registrada com aviso de recebimento ao endereço indicado no contrato, não sendo necessária a demonstração do efetivo recebimento, quer seja pelo próprio destinatário, quer seja por terceiros.
+Registre-se que a Segunda Seção desta Corte, em julgamento de recurso repetitivo (Tema n. 1.132), fixou entendimento no sentido de que, para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. Veja-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Caso concreto: Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Recurso especial provido. (REsp n. 1.951.662/RS, relator para o acórdão Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/8/2023.)
+Essa conclusão aplica-se a situações diversas, por exemplo, quando a notificação enviada ao endereço do devedor retorna com aviso de "ausente", de "mudou-se", de "insuficiência do endereço do devedor" ou de "extravio do aviso de recebimento", reconhecendo-se que cumpre ao credor comprovar tão somente o envio da notificação com aviso de recebimento ao endereço do devedor indicado no contrato, sendo irrelevante a prova do recebimento (REsp n. 1.951.662/RS e REsp n. 1.951.888/RS, submet idos ao rito dos repetitivos).
+No caso, o Tribunal de origem, manteve a sentença que extinguira a ação de busca e apreensão sob o fundamento de não ter sido demonstrada a regular constituição do devedor em mora, ante a invalidade da notificação extrajudicial enviada pela instituição financeira credora, não se aplicando ao caso a tese do Tema 1.132. Confira-se (fls. 135-138, destaquei):
+ ..
+Por essa razão, ainda que não seja indispensável o recebimento da notificação pessoalmente pelo devedor, é necessário que seja, ao menos, entregue no endereço constante no contrato, o que não ocorreu no presente caso.
+Nesse contexto, não obstante ter sido enviada, pela apelante, notificação extrajudicial, por meio de telegrama (Id. 53975999), nota-se que esse envio, isoladamente, não é apto a constituir a devedora em mora, pois não houve demonstração concreta de que a devedora tenha obtido conhecimento da alegada situação.
+Convém observar que o enunciado nº 72 da Súmula do Colendo Superior Tribunal de Justiça dispõe que "a comprovação da mora é imprescindível à busca e apreensão do bem alienado fiduciariamente".
+ ..
+Na hipótese, portanto, verifica-se ausente a notificação válida para a comprovação da devedora em mora, documento substancial para o prosseguimento do curso processual.
+ ..
+Assim, diante da ausência de pressuposto de validade ao ajuizamento da ação de busca e apreensão e da falta de atendimento à mencionada ordem judicial, no prazo fixado, a correta sentença recorrida deve ser integralmente mantida.
+Obser va-se que o Tribunal a quo afirmou que não houve a constituição em mora do devedor por falta de comprovação nos autos de que a notificação fora efetivamente entregue no endereço indicado no contrato, demonstrando que o devedor tenha obtido conhecimento da alegada situação.
+Esse entendimento diverge da jurisprudência do STJ, uma vez que o Tribunal de origem não considerou válida a notificação enviada ao endereço constante do contrato, apta a configurar a mora mesmo sem a comprovação de recebimento pelo devedor ou por terceiro.
+Ante o exposto, dou provimento ao recurso especial para determinar o prosseguimento do feito na origem, diante da regular constituição em mora do devedor.
+Publique-se. Intimem-se.
+ EMENTA
