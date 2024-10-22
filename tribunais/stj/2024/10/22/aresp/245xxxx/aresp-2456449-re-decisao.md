@@ -1,0 +1,42 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que conheceu em parte de agravo interno, negando-lhe provimento, sem apreciação do mérito do recurso especial.
+O acórdão julgado r ecebeu a seguinte ementa (fl. 2.109):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO REFUTADA NO PRESENTE RECURSO. FALTA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE À MANUTENÇÃO DO JULGADO. SÚMULA 283/STF. MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. INAPLICABILIDADE. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO.
+1. O fundamento da deliberação unipessoal recorrida atinente à não ocorrência de violação ao art. 1.022 do CPC/2015 não foi devidamente impugnado nas razões do presente agravo interno, de forma que não há como dele conhecer nessa medida, nos moldes do disposto no art. 1.021, § 1º, do CPC/2015.
+2. Ausente manifestação da parte recorrente contra fundamento que, por si só, se mostra suficiente a manter o acórdão recorrido, incide, por analogia, o enunciado n. 283 da Súmula do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação do agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, na parte conhecida, desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 2.140-2.143).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXVI, 7º, XXVI, 93, IX, e 202 da Constituição Federal.
+Nesse sentido, argumenta ter havido omissão de análise sobre o óbice da Súmula 283/STF.
+Afirma que "os reajustes realizados sobre o PCAC são, evidentemente, de natureza não salarial e, portanto, não integram o salário de contribuição do benefício de previdência complementar" (fl. 2.160).
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 2.110):
+De início, tem-se que o agravo merece parcial conhecimento, porquanto a agravante nada disse sobre a não ocorrência de violação ao art. 1.022 do CPC/2015.
+Desse modo, não há como conhecer de tal fundamento neste agravo interno, porque não atendido o comando normativo disposto no art. 1.021, § 1º, do CPC/2015, que assim dispõe: "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+ ..
+De fato, conforme asseverado na decisão agravada, verifica-se que o Tribunal de Justiça do Estado de São Paulo, ao manter a decisão monocrática que julgou pelo não conhecimento do recurso adesivo, em razão da desistência do recurso principal, deixou registrado os seguintes fundamentos (e-STJ, fl. 1.970):
+ ..
+Ainda sobre o tema, extrai-se o seguinte excerto dos embargos de declaração da decisão monocrática (e-STJ, fls. 1.953-1.954):
+ ..
+Desse modo, evidencia-se a deficiência das razões do recurso que não impugna especificamente a fundamentação deduzida pelo julgado recorrido, suficiente à manutenção do julgado, atraindo, por analogia, a incidência da Súmula 283/STF. Com efeito, "a existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial" (AgInt no AR Esp n. 2.195.821/SP, relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 20/3/2023, D Je de 22/3/2023).
+Assim, fica inviabilizado o exame pretendido nesta insurgência, relacionado à correta aplicação de óbices processuais pelo STJ e às questões de mérito submetidas ao STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não possui repercussão geral.
+Quando o STJ não conhecer do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
