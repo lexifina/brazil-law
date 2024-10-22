@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por VANUZA INACIO DA SILVA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO INTERNO. Alvará Judicial. Recurso interposto contra a decisão que indeferiu os benefícios da gratuidade da justiça. Elementos constantes nos autos que não autorizam a concessão da benesse. Ausência de novas razões a ensejar a reforma da decisão. Recurso a que se nega provimento.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação dos arts. 98 e 99, § 2º, do Código de Processo Civil, no que concerne ao indevido indeferimento do benefício da gratuidade de justiça tendo em vista que a parte recorrente, alegou e demonstrou sua atual situação de hipossuficiência financeira, trazendo a seguinte argumentação:
+Ao proferir o v. acórdão recorrido, é certo que o C. Tribunal de Justiça do Estado de São Paulo feriu expressamente a legislação processual vigente, na exata medida que deixou de observar o que preveem os artigos 98 e 99, ambos do CPC/15.
+Isto porque o artigo 98 do CPC/15 é claro ao dispor que a gratuidade judiciária é devida a toda pessoa com insuficiência de recursos para arcar com o pagamento de despesas processuais e honorários advocatícios, senão vejamos:
+ ..
+Com efeito, Nobres Julgadores, sem reavaliar fatos e provas, é certo que a mera apresentação de declaração de hipossuficiência, por si só, é fator que permite a concessão da gratuidade judiciária, em especial pela sua presunção legal. (fls. 220-221).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Analisando todos os elementos trazidos aos autos, tem-se eles não comprovaram que a agravante faz jus ao benefício pretendido, logo, não pode ser considerada pobre na acepção jurídica do termo.
+Os documentos colacionados as fls. 165 e seguintes não apontaram precariedade da situação financeira, pois a agravante tem profissão definida, é escrivã de polícia, e percebe mensalmente a quantia bruta de R$13.000,00.
+Oportuno enfatizar que o fato de possuir dívidas, empréstimos e gastos ordinários, não são motivos para receber a benesse: "Eventuais gastos correntes do agravante não têm preferência sobre outras despesas, entre elas as processuais, não justificando, isoladamente, a concessão do benefício." (Agravo de Instrumento nº 2048258-22.2014.8.26.0000, relator Walter Barone, j. 09/05/2014).
+Nesse contexto, da análise de todos os elementos trazidos aos autos, tem-se a requerente não comprovou de forma apta que faz jus ao benefício pretendido.
+Com efeito, o agravo interno apresentado insiste em questões que foram superadas com o entendimento adotado pela decisão acima transcrita, cujo esgotamento da matéria impõe, por corolário lógico, a rejeição da pretensão recursal da parte agravante, razão pela qual o inconformismo não procede, devendo ser mantida a decisão objurgada em sua totalidade. (fls. 206-207).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório" (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Em relação à alínea "c" do permissivo constitucional, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
