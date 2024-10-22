@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 16/10/2024 a 22/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JULIANA MIRANDA COMERCIO DE ROUPAS E CALÇADOS LTDA contra acórdão da Corte Especial que negou provimento ao agravo interno, nos termos da seguinte ementa (fls. 2038/2042, e-STJ):
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. APLICAÇÃO DE REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para extrair conclusão diversa a respeito da incidência de óbices.
+2. O art. 1043, III, do CPC estabelece caberem embargos de divergência quando um acórdão é de mérito e o outro não. Exige, contudo, que, neste último, tenha sido apreciada a controvérsia. No caso em julgamento, o acórdão embargado não conheceu do agravo interno, por ausência de impugnação específica dos fundamentos da decisão agravada. Não houve apreciação da controvérsia propriamente dita; e nem do mérito recursal.
+3. Agravo interno ao qual se nega provimento.
+A embargante, em suas razões, alega que há omissão no acórdão recorrido. Aduz que o Tribunal de origem teria tratado da emissão de notas fiscais manuais e que, portanto, houve apreciação de mérito. A partir disso, pede que seja afastado o óbice da Súmula 315/STJ.
+Intimada a manifestar-se, a parte embargada pediu a rejeição dos embargos de declaração (fls. 2057/2064, e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+A irresignação não merece acolhida.
+A decisão recorrida deve ser mantida pelos seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à oposição dos embargos de declaração. Não há vícios a serem sanados.
+A embargante pretende distorcer o julgado, a fim de obter solução diversa. A embargante não apresenta fundamentação clara acerca da sua pretensão e, ao mesmo tempo, não impugna os fundamentos das decisões recorridas. Em seus embargos de declaração, a embargante continua a atacar fundamento alheio àquele que motivou o indeferimento liminar dos embargos de divergência. Alega que a menção do Tribunal de origem à emissão das notas fiscais manuais afastaria o óbice da Súmula 315/STJ. No caso, contudo, o óbice somente seria afastado se o recurso especial tivesse sido admitido e seu mérito analisado. Se o mérito do recurso especial não foi analisado e se tampouco o foi a controvérsia alegada nos embargos de divergência, não há razões para admitir os embargos de divergência.
+Portanto, o acórdão embargado não é omisso. A embargante não cumpriu os requisitos necessários para o processamento dos embargos de divergência. Os embargos de divergência foram indeferidos liminarmente e, em consequência, sem a análise da suposta divergência. A embargante pretende, sob o pretexto de existência de omissão, o novo julgamento da causa. Os embargos de declaração, entretanto, não prestam a esta finalidade. Servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado, se existentes tais vícios:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SERVIDORA PÚBLICA REMOVIDA CONTRA A SUA VONTADE. ACÓRDÃO RECORRIDO QUE CONCLUIU PELA INOCORRÊNCIA DE DANOS MORAIS. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO PELAS MESMAS RAZÕES QUE INVIABILIZARAM O RECURSO PELA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO. (..) II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, pela inexistência da alegada violação ao art. 1.022 do CPC/2015, pela incidência da Súmula 7/STJ e pelo não cabimento do Recurso Especial, com base no dissídio jurisprudencial (alínea c), em face das mesmas razões que inviabilizaram o conhecimento do apelo pela alínea a do permissivo constitucional. III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum. IV. Embargos de Declaração rejeitados. (EDcl no AgInt nos EDcl no AREsp 1321153/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 13/5/2019.)
+Por fim, advirto a parte embargante que a reiteração das razões já expressamente analisadas implicará o reconhecimento de comportamento protelatório.
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
