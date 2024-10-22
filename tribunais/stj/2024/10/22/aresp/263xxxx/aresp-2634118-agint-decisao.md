@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 337/342) interposto contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial (e-STJ fls. 333/334).
+Em suas razões, a parte agravante aduz que impugnou o fundamento da decisão que não admitiu o especial.
+Sustenta ser inaplicável a Súmula n. 7/STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 348/352).
+É o relatório.
+Decido.
+A parte agravante impugnou o fundamento da decisão de admissibilidade, não havendo falar em incidência da Súmula n. 182/STJ.
+Assim, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo a novo exame do recurso.
+Na origem, o recurso especial foi inadmitido em virtude da incidência da Súmula n. 7/STJ (e-STJ fls. 310/312).
+O acórdão recorrido está assim ementado (e-STJ fls. 192/193):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR, CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. PRELIMINAR DE ILEGITIMIDADE PASSIVA. CADEIA DE FORNECIMENTO. RESPONSABILIDADE SOLIDÁRIA. REJEIÇÃO. AQUISIÇÃO DE PASSAGEM AÉREA. CANCELAMENTO DE COMPRA. NEGATIVAÇÃO INDEVIDA. DANOS MORAIS IN RE IPSA. ADEQUAÇÃO DO QUANTUM INDENIZATÓRIO. HONORÁRIOS SUCUMBENCIAIS. MANUTENÇÃO. APELAÇÕES CONHECIDAS, NEGADO PROVIMENTO À DO CONSUMIDOR E DADO PARCIAL PROVIMENTO À DA FORNECEDORA, APELANTE/RÉ.
+1. Trata-se de apelação interposta contra sentença que julgou procedente o pedido contido na petição inicial e condenou à reparação de danos morais.
+2. A sociedade que propicia meios de pagamento para a conclusão de transações por outra sociedade, atuante na venda de passagens aéreas, integra a cadeia de fornecimento do serviço prestado, e, por força do artigo 7º, parágrafo único, do Código de Defesa do Consumidor - CDC, responde solidariamente pela reparação de danos causados ao consumidor em decorrência de defeito da prestação de serviços. Além disso, eventuais prejuízos vinculados a omissão da parceira comercial suportados pela apelada/ré devem ser objeto de demanda própria, e, no que se refere ao consumidor, consubstancia fortuito interno, inerente à atividade empresarial desenvolvida e inapto a afastar a responsabilidade civil pela reparação de danos causados. Preliminar rejeitada.
+3. Na forma do artigo 14 do CDC, o fornecedor de serviços responde, independente de culpa, pela reparação de danos causados aos consumidores. Por outro lado, o § 3º do mesmo dispositivo permite o afastamento da responsabilidade se o fornecedor provar que prestou o serviço, mas que inexiste defeito. No caso em exame, não há comprovação da incidência de qualquer hipótese de exclusão de responsabilidade pela negativação indevida, e, portanto, a existência de dano à personalidade, resultante de defeito na prestação de serviço financeiro, é manifesta e incontroversa.
+4. Aquele que causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito, e fica obrigado a repará-lo (artigos 186 e 927 do Código Civil - CC), Além disso, o artigo 944 do CC preceitua que a indenização mede-se pela extensão do dano, e, guardando compatibilidade com o postulado da razoabilidade, ser fixado com prudência e bom senso. Embora a situação reflita dano moral in re ipsa, em que não se faz necessária a discussão sobre abalos sofridos pelo consumidor, a fixação do quantum indenizatório deve se ater à situação concreta que motivou o ajuizamento da ação.
+5. Colhe-se dos autos que a compra de passagem aérea foi realizada e cancelada no mesmo dia, 1º/04/2023, e que a negativação teria sido efetivada em 23/05/2023. Não se verifica gravidade ou culpa acentuada na prática do ilícito, e nem consequências relevantes que abalem a reputação de crédito de que o apelante/autor goza no mercado, já que o próprio consumidor comprovou possuir score máximo, alguns meses após a negativação. Ademais, não há notícias de outros gravames incidentes sobre a esfera jurídica do consumidor em decorrência do ato ilícito verificado.
+6. Assim, devendo a compensação por dano mora ser proporcional e ser definida de modo a não provocar enriquecimento sem causa, mostra-se razoável sua redução para o patamar de R$ 3.000,00, adequado ao caso.
+7. Se os honorários advocatícios arbitrados pela pela r. sentença atendem aos ditames contidos no 85, § 2º, do CPC, especialmente os vetores do grau de zelo do profissional e da natureza e da importância da causa, não há fundamento para reduzi-los, ressaltando-se que a jurisprudência do STJ entende que somente é devida a majoração da verba honorária sucumbencial quando o recurso não for conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente.
+8. Recursos conhecidos. Negado provimento ao recurso interposto pelo apelante/autor e concedido parcial provimento ao interposto pelo apelante/réu. (negritei.)
+No recurso especial (e-STJ fls. 218/227), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente apontou ofensa ao art. 944 do CC, sustentando, em síntese, a necessidade de majoração do valor indenizatório arbitrado pelos danos morais (R$ 3.000,00 - três mil reais).
+A insurgência não merece prosperar.
+O Tribunal de origem reduziu o valor da indenização manifestando-se nos seguintes termos (e-STJ fls. 201/202):
+No ponto, colhe-se dos autos que a compra de passagem aérea foi realizada e cancelada no mesmo dia, 1º/04/2023, e que a negativação teria sido efetivada em 23/05/2023 (ID 52204137).
+Em relação à forma em que o ato ilícito se deu, não se constata gravidade acentuada e nem culpa grave. Em relação ao bem jurídico lesado, constata-se que as consequências do ato ilícito não abalaram de forma relevante a reputação de crédito de que o apelante/autor goza no mercado, pois afirmou que, em 16/08/2023, possuía score em nível máximo (ID 52204981), e, por outro lado, não há notícias de outros gravames incidentes sobre a esfera jurídica do consumidor em decorrência do ato ilícito verificado.
+Portanto, devendo a compensação por dano mora ser proporcional e ser definida de modo a não provocar enriquecimento sem causa, mostra-se razoável sua redução do patamar de R$ 5.000,00 para R$ 3.000,00, adequado ao caso.
+O recurso especial não comporta exame de questões que impliquem nova análise dos elementos de prova dos autos.
+Segundo a jurisprudência do STJ, apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, é possível afastar a Súmula n. 7/STJ para sua revisão.
+O Tribunal de origem fixou a verba em R$ 3.000,00 (três mil reais), levando em consideração os elementos de prova. A quantia fixada não se mostra desproporcional, a justificar a intervenção do STJ.
+A incidência da Súmula n. 7/STJ obsta o conhecimento do especial pela alínea "c" do permissivo constitucional, pois impede verificar a similitude fática entre os acórdãos.
+Ante o exposto, reconsidero a decisão da Presidência desta Corte (e-STJ fls. 333/334) para CONHECER do agravo nos próprios autos e NEGAR-LHE PROVIMENTO.
+Mantida a majoração dos honorários aplicada pela decisão agravada.
+Publique-se e intimem-se.
+EMENTA
