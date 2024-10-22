@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ITAMAR JACINTO ZAMBON à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO INTERNO - GRATUIDADE PROCESSUAL - DECISÃO MONOCRÁTICA QUE INDEFERIU A BENESSE, EM SEDE DE AÇÃO DE REINTEGRAÇÃO DE POSSE C.C. PERDAS E DANOS  TRANSCORREU IN ALBIS PRAZO ASSINALADO PARA APRESENTAÇÃO DA DOCUMENTAÇÃO EXIGIDA - AUSÊNCIA DE PROVA HÁBIL A COMPROVAR A INSUFICIÊNCIA FINANCEIRA - NÃO SE LOGROU COMPROVAR QUALQUER FATO NOVO CAPAZ DE INFIRMAR A DECISÃO ANTERIOR - DECISÃO MANTIDA  RECURSO NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 98 e 99 do CPC, no que concerne à concessão da gratuidade de justiça, tendo em vista a presunção de veracidade da hipossuficiência alegada por pessoa física, trazendo a seguinte argumentação:
+Insta salientar que o fato de os Agravantes estarem sendo assistidos por patrono particular, não pode ser motivo para impedir a concessão da benesse requerida, por força do que dispõe o §4º do já citado artigo 99 da lei Processual Civil.
+Diante do exposto acima, verifica-se que o acórdão não aplicou corretamente o texto da lei federal no caso concreto, pois não foi observada em sua mais básica interpretação a presunção de veracidade da hipossuficiência alegada, a qual só pode ser afastada mediante prova em sentido oposto.
+Dessa maneira, a alegação de hipossuficiência goza de presunção de veracidade, devendo prevalecer, já que firmada exclusivamente por pessoa natural, nos termos do disposto no art. 99, § 3º, do CPC (fl. 32).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Ademais, no caso de pessoa natural (tal qual o agravante), o art. 99, §3º, do Novo Código de Processo Civil confere presunção de veracidade à alegação de hipossuficiência financeira, presunção essa que é dotada de relatividade, devendo ser cotejada com os demais elementos constantes dos autos, a teor do §2º do referido dispositivo legal e do revogado art. 4º, caput e §1º, da Lei nº 1.060/50.
+Tem-se, portanto, que a presunção de veracidade da afirmação de insuficiência de recursos financeiros não é ampla e absoluta, mas relativa, podendo o Juiz afastá-la, desde que justifique de modo objetivo suas razões (Resp. 178244/RS, rel. Min. Barros Monteiro).
+No caso dos autos, houve abertura de prazo para que a parte agravante comprovasse sua situação de hipossuficiência através da juntada dos documentos especificados no despacho de fl. 23. Contudo, deixou transcorrer in albis , não juntando os documentos determinados (declarações de IR, CTPS, 3 últimos holerites e extratos bancários), razão pela qual se mostra correta revogação da benesse pleiteada, ante a não demonstração da alegada insuficiência de recursos (fl. 61).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
