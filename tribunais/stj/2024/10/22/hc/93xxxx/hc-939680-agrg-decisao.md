@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo Ministério Público do Distrito Federal e dos Territórios contra a decisão que concedeu a ordem de habeas corpus impetrado em favor de Jose dos Reis Carneiro de Oliveira, assim ementada (fl. 315):
+HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS TENTADOS E CONSUMADO. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. RÉU EM LIBERDADE DURANTE A INSTRUÇÃO. CUMPRIMENTO IMEDIATO DO VEREDICTO. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
+Alega o agravante que Na presente data (12/09/2024) o Plenário do Supremo concluiu o julgamento do Tema 1068 da Repercussão Geral, conferindo ao art. 492, inciso I, alínea "e", do CPP, interpretação conforme a Constituição com redução parcial de texto para dele excluir o limite de 15 anos para execução imediata da pena aplicada pelo Tribunal do Júri (fl. 328).
+Sustenta que, Conforme deliberado pela Corte Suprema, a soberania dos vereditos do Tribunal do Júri autoriza a imediata execução de pena imposta pelo Conselho de Sentença, ainda que não atingido o limite de 15 anos previsto no CPP (fl. 328).
+Requer, ao final, a reconsideração da decisão ou a submissão do recurso ao órgão colegiado competente.
+Certidão de decurso de prazo para a apresentação de contrarrazões pelo agravado à fl. 348.
+Parecer do Ministério Público Federal às fls. 350/357 .
+É o relatório.
+Assiste razão ao agravante, motivo pelo qual reconsidero a decisão agravada.
+A controvérsia jurídica cinge-se à possibilidade de execução automática da pena, com base no art. 492, I, e, do Código de Processo Penal, com a redação dada pela Lei n. 13.964/2019.
+Por ocasião do julgamento pelo Tribunal do Júri, ao proferir sentença, o Juízo de primeiro grau determinou a prisão preventiva do ora recorrente, negando-lhe o direito de recorrer em liberdade, sob a seguinte motivação (Ação Penal n. 0025494-83.2014.8.07.0007 - fl. 78 - grifo nosso):
+Acolho o pleito do Ministério Público e determino o início imediato da execução provisória da pena, tendo em vista o teor do que dispõe o art. 492, I, "e", do CPP, e considerando a condenação com pena final de 30 (TRINTA) ANOS E 8 (OITO) M ESES DE RECLUSÃO. Ademais, o STF já formou maioria pela constitucionalidade do enunciado previsto no CPP, conforme Recurso Extraordinário n. 1.235.340/SC, afetado no Tema de Repercussão Geral n.1.068.
+O Tribunal de origem, por sua vez, manteve a custódia, nestes termos (Apelação n. 0025494-83.2014.8.07. 0007 - fls. 60/62 - grifo nosso):
+Consoante o disposto no artigo 492, inciso I, alínea e, do Código de Processo Penal, será determinado o recolhimento do réu ou a recomendação à prisão em que se encontre, quando, condenado por crime de competência do Tribunal do Júri, à pena inferior a 15 (quinze) anos, se estiverem presentes os requisitos da prisão preventiva, ou, no caso de condenação à pena igual ou superior a 15 (quinze) anos, caso em que se determinará a execução provisória da pena.
+Portanto, consoante se depreende do texto legal, para os crimes de competência do Tribunal do Júri, quando cominada pena superior a 15 (quinze) anos, a segregação cautelar do réu estará autorizada, independentemente da presença dos requisitos da prisão preventiva, elencados no artigo 312 do CPP.
+Assim, sem embargo das prudentes considerações da Procuradoria de Justiça, até o julgamento pelo Supremo Tribunal Federal do Tema nº 1.068, com repercussão geral reconhecida, não há como afastar a incidência do artigo 492, inciso I, alínea e, do Código de Processo Penal, como procedeu o juiz presidente.
+ ..
+Portanto, feitas tais considerações, considerando o teor da norma legal insculpida no artigo 492, inciso I, alínea e, do Código de Processo Penal, que autoriza a execução provisória da pena superior a 15 anos, em crimes da competência do Tribunal do Júri, bem como que o Supremo Tribunal Federal já formou maioria acerca de sua constitucionalidade (Tema 1068), fica mantida a prisão do réu, nos termos da sentença.
+P ois bem. Sobreveio, no dia 12/9/2024, o fim do julgamento do RE n. 1.235.340/SC (Tema 1.068 da Repercussão Geral), da relatoria do Ministro Roberto Barroso. O Pleno, por maioria de votos, deu interpretação conforme à Constituição Federal, com redução de texto, ao art. 492 do CPP, com a redação da Lei n. 13.964/2019, excluindo do inciso I da alínea e do referido artigo o limite mínimo de 15 anos para a execução da condenação imposta pelo corpo de jurados. Por arrastamento, excluiu dos §§ 4º e 5º, inciso II, do mesmo art. 492 do CPP, a referência ao limite de 15 anos.
+Nessa assentada, firmou-se a seguinte tese: a soberania dos veredictos do Tribunal do Júri autoriza a imediata execução da condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada.
+Tal o contexto, ressalvada minha posição pessoal acerca do tema, dou provimento ao agravo regimental a fim de, reconsiderando a decisão agravada, indeferir liminarmente a petição de habeas corpus.
+Comuniq ue, com urgência, às instâncias ordinárias.
+Publi que-se.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. REPRIMENDA SUPERIOR A 15 ANOS. EXECUÇÃO PROVISÓRIA DA PENA (ART. 492, I, E, DO CPP). PRISÃO AUTOMÁTICA DECORRENTE DO CUMPRIMENTO IMEDIATO DO VEREDICTO. JULGAMENTO DO RE N. 1.235.340/SC PELO SUPREMO TRIBUNAL FEDERAL. SOBERANIA DO VEREDICTO. IMEDIATA EXECUÇÃO DA CONDENAÇÃO INDEPENDENTEMENTE DO TOTAL DA PENA APLICADA.
+Agravo regimental provido a fim de, reconsiderada a decisão agravada, indeferir liminarmente a petição de habeas corpus
