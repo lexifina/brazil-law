@@ -1,0 +1,50 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado (fl. 544):
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. ICMS. SUSBTITUIÇÃO TRIBUTÁRIA. TUTELA DE URGÊNCIA. FALTA DE DEPÓSITO INTEGRAL DO DÉBITO. AUSÊNCIA DOS REQUISITOS DO ART. 300 DO CPC. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NS. 07/STJ E 735/STF. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou ausente o depósito integral em Juízo, bem como o fumus boni iuris e o periculum in mora.
+IV - É firme a orientação jurisprudencial desta Corte acerca da impossibilidade de se rever, em recurso especial, a existência dos requisitos suficientes para a concessão de medida urgente, em razão do óbice da Súmula 7 do STJ, bem assim da Súmula 735 do STF.
+V - Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea c do permissivo constitucional para discutir a mesma matéria.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 606-614).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido negativa de prestação jurisdicional, pois demonstrou a existência de violação aos arts. 489 e 1.022 do CPC e a inaplicabilidade dos óbices previstos nas Súmulas n. 7 do STJ e 735 do STF, contudo, não houve o devido enfrentamento dos argumentos suscitados no recurso dirigido ao STJ.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+As contrarrazões foram apresentadas às fls. 664-678.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, que afastou a violação aos artigos 489 e1.022 do CPC e não examinou o mérito do recurso dirigido a esta Corte Superior em razão dos óbices das Súmulas 7/STJ e 735/STF, como se observa do seguinte trecho do referido julgado (fls. 546-551):
+Não assiste razão à Agravante.
+I. Da omissão
+Não verifico a omissão alegada, tampouco outro vício a impor a revisão do julgado.
+O art. 1.022 do Código de Processo Civil de 2015 dispõe que cabem embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+Com efeito, a omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Estatuto Processual considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas em seu art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Ressalto que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Nesse entendimento:
+(..)
+No caso, constou do acórdão mediante o qual os embargos de declaração foram analisados (fls. 159/164e):
+(..)
+Depreende-se do excerto que a controvérsia foi examinada de forma satisfatória.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v. g. Corte Especial, E Dcl no AgRg nos ER Esp 1.431.157/PB, Rel. Min. João Otávio de Noronha, D Je de 29.06.2016; 1ª Turma, E Dcl no AgRg no AgRg no R Esp 1.104.181/PR, Rel. Min. Napoleão Nunes Maia Filho, D Je de 29.06.2016; e 2ª Turma, E Dcl nos E Dcl no R Esp 1.334.203/PR, Rel. Min. Assusete Magalhães, D Je de 24.06.2016).
+II. Do depósito integral do débito e da tutela de urgência
+Após minucioso exame dos elementos fáticos contidos nos autos, a Corte de origem consignou ausente o depósito integral em Juízo, bem como o fumus boni iuris e o periculum in mora, como segue (fls. 94/98e):
+Requer a Agravante a reforma da decisão que indeferiu o pedido de tutela de urgência visando a suspensão do crédito tributário de ICMS-ST, oriundo do auto de infração nº 03.404319-0, na forma do art. 151, V, do CTN, até a prolação da sentença de mérito.
+Os pressupostos legais da tutela provisória de urgência, seja cautelar ou antecipada, estão previstos no art. 300 do Código de Processo Civil, e consistem no fumus boni iuris e periculum in mora.
+O fumus boni iuris exige que os autos contenham elementos de convicção suficientes para demonstrar a probabilidade do direito reclamado pelo postulante, enquanto o periculum in mora demanda que a tutela, considerada juridicamente relevante, seja também urgente, de modo que o seu indeferimento comprometa a efetividade do processo, pelo prisma do seu resultado útil.
+Na origem, trata-se de ação anulatória visando a desconstituição crédito tributário de ICMS-ST, alegando erro de escrituração, pelas distribuidoras, que não gerou qualquer prejuízo ao erário, mas, ao contrário, vantagem indevida, sendo certo que o auto de infração pretende uma terceira incidência do imposto na cadeia de circulação de mercadorias, via lançamento de ofício, contrariando a lei e a jurisprudência desta Corte. Afirma, ainda, que é inconstitucional a cobrança de acréscimos moratórias superiores à taxa SELIC.
+As alegações recursais não são suficientes para, por si só, afastar a presunção de legitimidade e veracidade do ato administrativo impugnado, sendo necessário, para a suspensão da exigibilidade do crédito, o depósito integral em Juízo, conforme preconiza o art. 151, II  do Código Tributário Nacional e entendimento consolidado na Súmula nº 112 do STJ .
+ ..
+Assim, ausentes o fumus boni iuris e o periculum in mora, torna-se necessária a instrução probatória, bem como o depósito aludido na Súmula nº 112 do STJ. Quanto à alegação de inconstitucionalidade da taxa SELIC, essa é matéria a ser objeto de julgamento meritório.
+Com efeito, é firme a orientação jurisprudencial desta Corte acerca da impossibilidade de se rever, em recurso especial, a existência dos requisitos suficientes para a concessão de medida urgente, em razão do óbice da Súmula 7 do STJ, bem assim da Súmula 735 do STF.
+Assim, fica inviabilizado o exame pretendido nesta insurgência, relacionado às questões de mérito submetidas ao STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinári o, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
