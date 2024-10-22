@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALEX FABIANO RODRIGUES PAZ contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que não admitiu seu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 2.143/2.171, in verbis:
+Tratam os autos de Recurso Especial interposto por LUAN RAMOS VIANA, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o v. acórdão proferido pela Sexta Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul que, por unanimidade, negou provimento ao apelo defensivo (autos nº 70066516428).
+Não obstante, o acusado ALEX FABIANO RODRIGUES PAZ interpõe agravo em recurso especial contra a decisão da ilustre Segunda Vice- Presidente do Tribunal de Justiça Sul-Rio-Grandense que negou seguimento ao seu apelo nobre.
+Na origem, LUAN RAMOS VIANA foi condenado às penas de 11 (onze) anos e 01 (um) mês de reclusão, em regime inicial fechado, além de 25 (vinte e cinco) dias-multa pela prática dos seguintes delitos: art. 288, parágrafo único, do art. 157, § 2º, incisos I e II, ambos do Código Penal; art. 16, inciso IV, da Lei nº 10.826/03, todos na forma do art. 69, caput, do Estatuto Repressivo.
+ALEX FABIANO RODRIGUES PAZ, entretanto, foi condenado às penas de 14 (quatorze) anos e 10 (dez) meses de reclusão, em regime inicial fechado, além de 30 (trinta) dias-multa, tido como incurso nas sanções do art. 288, parágrafo único, e art. 157, §2º, I e II, por duas vezes, na forma do art. 69, todos do Código Penal.
+Irresignados, os sentenciados apelaram, buscando:
+"Nas razões do 1º apelo conjunto (fís. 1.158/1.171), a defesa constituída de ALEX e EDSON requer o provimento do recurso, com o acolhimento da preliminar de nulidade das interceptações telefônicas, por terem sido realizadas em desacordo com os ditames legais, especialmente no que diz com o prazo de duração, e, no mérito, a absolvição dos réus de todas as imputações, pela insuficiência de provas, ou, alternativamente, a redução das penas carcerárias impostas.
+ ..  Nas razões do 4º apelo (fls. 1.20111.241), a defesa constituída de LUAN requer o provimento do recurso, com o acolhimento da preliminar de nulidade do reconhecimento do réu, por violação ao art. 226 do C.P.P., e, no mérito, a absolvição do réu, com base no art. 386, inc. IV ou Vil, ou, alternativamente, a desclassificação do crime de posse de arma de fogo com sinal de identificação suprimido para os lindes do art. 12 da Lei 10.826/03,ou, ainda alternativamente, a redução da pena carcerária imposta, em especial da pena-base, ante a ausência de operadoras judiciais desfavoráveis." (e-STJ Fls. 1659/1660)
+Apreciando o feito, a Sexta Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, sem discrepância de votos, negou provimento ao recurso do réu LUAN e deu parcial provimento ao recurso do réu ALEX, a fim de absolvê-lo da prática do delito previsto no art. 157, §2º, incisos I e II, do Código Penal, com amparo no art. 386, VII, do Código de Processo Penal, reduzindo sua reprimenda para o montante de 08 (oito) anos e 01 (um) mês de reclusão, em regime inicial fechado, além da pena de 15 (quinze) dias-multa, à razão unitária mínima legal, conforme ementa adiante reproduzida:
+ ..
+ALEX FABIANO RODRIGUES PAZ, por sua vez, interpôs recurso especial com amparo nas alíneas "a" e "c" do permissivo constitucional, destacando que o acórdão vergastado negou vigência ao art. 5º, XII, da Constituição Federal, bem como à Lei nº 9296/96, eis que "nada há nos autos a demonstrar, com segurança, que (1) as interceptações foram autorizadas, e (2) as prorrogações foram autorizadas. Não veio aos autos a integralidade da ac  ao de interceptação telefônica pela Policia Federal, não podendo ser presumida a legalidade do procedimento apenas amparado na idoneidade daquele prestigioso órgão." (e-STJ Fl. 1857). Portanto, aduziu que a interceptação telefônica realizada é inválida e ilícita.
+Apontou maltrato ao art. 288, do Código Penal, postulando sua absolvição da conduta ali prevista, uma vez que resta condenado por apenas um crime de roubo, sendo inadmissível a configuração do tipo penal em casos tais.
+Alegou dissídio jurisprudencial e juntou diversos acórdãos como paradigmas.
+Contrarrazões do recurso especial de Alex ofertadas às e-STJ Fls. 1974/1990 e do reclamo nobre de Luan às e-STJ Fls. 1991/2013.
+A ilustre Segunda Vice-Presidente da Corte Estadual, às e-STJ Fls. 2036/2061, entendeu pela admissão do recurso especial interposto por LUAN RAMOS VIANA, inadmissão do recurso extraordinário interposto pelo mencionado Recorrente, e, por fim, inadmissão do recurso especial do réu ALEX FABIANO RODRIGUES PAZ.. Para tanto, o fez com base nos seguintes fundamentos:
+ ..
+Daí a interposição de agravo em recurso especial por ALEX FABIANO RODRIGUES PAZ, com o fito de dar seguimento ao apelo raro, no qual alega que "a matéria em questão está muito bem delineada no Recurso Especial, não trata de matéria constitucional, aponta sim, a ofensa à Lei 9.296/96, indicando nítida e diretamente os dispositivos violados pelo acórdão." (e-STJ Fl. 2130).
+Afasta a incidência do verbete sumular nº 07 na espécie, aduzindo que o deslinde da controvérsia não demanda reexame de prova. Diz que "não se esta revolvendo a prova, somente se indica que a absolvição do ora Agravante de um dos crimes de roubo, mantendo-se uma única condenação, é fato suficiente para impedir a aplicação da norma penal já que um único crime (singular), afastada a pluralidade de prática de ilícitos penais (plural), exigido pela norma penal em comento." (e-STJ Fl. 2134).
+Requer o conhecimento e provimento do Agravo com a admissão e o provimento do Recurso Especial.
+Contrarrazões vistas às e-STJ Fls. 2103/2106.
+Ao final, o Parquet opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Em que pese o esforço argumentativo, a defesa deixou de refutar, nas razões do agravo em recurso especial, os fundamentos da inadmissão do apelo nobre alusivos ao não cumprimento dos requisitos necessários à interposição do recurso pela alínea c do permissivo constitucional (ausência de cotejo analítico); bem como à incidência do óbice da Sumula n. 7/STJ quanto às teses relativas à dosimetria da pena.
+Assim, não havendo impugnação específica acerca de todos os fundamentos da decisão questionada, deve ser aplicado, por analogia, o enunciado sumular n. 182 do Superior Tribunal de Justiça.
+Nesse sentido, confira-se:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. Nos termos da Súmula 182 do STJ, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+ ..
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no AREsp 614.968/SP, relator Ministro NEFI CORDEIRO, DJe 29/2/2016)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
