@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REVOGAÇÃO. REINCIDÊNCIA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+2. O fundado receio de reiteração delitiva, ante a recalcitrância específica do agravante, é justificativa suficiente da custódia cautelar, razão pela qual deve ser mantida. Precedentes.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RIQUELME OLIVEIRA SARTI LIMA contra decisão monocrática, por mim proferida, a qual não conheceu do habeas corpus impetrado em seu favor.
+Na espécie, pretendia o agravante fosse reconhecida a nulidade pela busca domiciliar, bem como ausência dos requisitos para decretação da prisão preventiva.
+Neste agravo regimental, insiste o agravante na revogação da custódia cautelar a ele imposta. Pugna, ao final, pela reconsideração da decisão agravada ou pela remessa do recurso ao Colegiado.
+Por não reconsiderar a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma desta Corte.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REVOGAÇÃO. REINCIDÊNCIA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+2. O fundado receio de reiteração delitiva, ante a recalcitrância específica do agravante, é justificativa suficiente da custódia cautelar, razão pela qual deve ser mantida. Precedentes.
+3. Agravo regimental desprovido.
+VOTO
+Pretende o agravante seja reformada a decisão impugnada, a fim de que seja revogada a prisão preventiva.
+Contudo, a ele não assiste razão.
+No caso concreto, a prisão preventiva do agravante foi decretada sob os seguintes fundamentos:
+" ..  O preso Riquelme já foi condenado anteriormente por tráfico de drogas (reincidente específico) conforme certidões e F. A. de fls. 33/34 e 36/38 ostentando péssimo comportamento perante a sociedade e para com a justiça, eis que há poucos meses em liberdade, tornou a delinquir  estava em cumprimento de pena em regime aberto, o que foi confirmado pelo autuado nesta audiência , o que revela sua personalidade voltada para atividade delituosa e demonstra altíssima culpabilidade e deixa bem claro que somente o cárcere é capaz de conter sua sede criminosa, reforçando a necessidade de sua prisão para garantia da ordem pública e para efetiva repressão pelo Estado ao comércio ilícito de entorpecentes.
+Ainda, a quantidade de entorpecente encontrado em poder do(a) autuado(a) ("Tipo de Tóxico Maconha, Quantidade 392,71 Gramas, Tipo de Acondicionamento Outros, Quantidade Acondicionamento 7, Observação Peso Bruto 429,25 g (Lacre nº 0018014) , conforme auto de exibição e apreensão de fls. 13, é incompatível para uso próprio.
+Mas não é só.
+Foram encontrados também durante as buscas do imóvel do custodiado uma balança de precisão e dinheiro em notas diversas (fls. 14/15) e nenhum apetrecho normalmente usado por viciados para consumir esse tipo de droga, circunstâncias que levam, em tese, ao conceito de que se destinavam à comercialização com terceiros, sobrelevando destacar que a apreensão das drogas na residência do autuado Riquelme decorreu de mandado de busca domiciliar (PROCESSO nº 1500099-62.2024.8.26.0483 em trâmite perante este Juízo), a qual foi deferida justamente por haverem indícios da prática da traficância pelo mesmo." (e-STJ, fls. 139-140).
+De acordo com o art. 312 do Código de Processo Penal, a custódia preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+Ao contrário do que alega a defesa, " a  reincidência específica evidencia maior envolvimento do agente com a prática delituosa, podendo ser utilizada para justificar a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva" (AgRg no RHC n. 165.403/DF, Quinta Turma, rel. Min. João Otávio de Noronha, DJe de 8/8/2022).
+Como se observa do trecho transcrito, observa-se que o fundado receio de reiteração delitiva, ante a recalcitrância específica do acusado e o fato de estar em regime aberto, é fundamentação suficiente da custódia cautelar, razão pela qual deve ser mantida.
+Cito precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE SOCIAL. APREENSÃO DE DROGA EM CUMPRIMENTO A UM MANDADO DE BUSCA E APREENSÃO. RISCO DE REITERAÇÃO (REINCIDÊNCIA ESPECÍFICA). AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Julgados do STF e STJ.
+3. No caso, a prisão preventiva foi mantida pelo Tribunal estadual em razão da periculosidade social do agravante, flagrado com 18g de crack em cumprimento de um mandado de busca e apreensão. O decreto destacou também o efetivo risco de reiteração delitiva, porquanto é reincidente específico, ostenta três condenações por tráfico de drogas, inclusive se encontrava em cumprimento de pena quando foi flagrado com droga. Além disso, segundo registrado, havia denúncias anônimas, informando que o paciente utilizava sua casa para a comercialização de entorpecentes, utilizando o terreno dos fundos para suposto armazenamento. Prisão mantida para resguardar a ordem pública. Julgados do STJ.
+4. Agravo regimental improvido. (AgRg no HC n. 913.952/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/6/2024, DJe de 3/7/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. APONTADA NULIDADE ABSOLUTA. ALEGAÇÃO EXTEMPORÂNEA. IMPUGNAÇÃO TARDIA DE LAUDO PERICIAL. PRECLUSÃO. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. FUNDAMENTAÇÃO SUFICIENTE. RISCO DE REITERAÇÃO DELITIVA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É imperioso consignar que "" a  jurisprudência desta Corte evoluiu para considerar que no processo penal mesmo as nulidades absolutas exigem prejuízo e estão sujeitas à preclusão" (RHC n. 43.130/MT, relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 2/6/2016, DJe de 16/6/2016)" (AgRg no RHC n. 174.357/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 31/3/2023.)
+2. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+3. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o risco de reiteração delitiva, dado tratar-se de reincidente específico.
+4. Agravo regimental não provido. (AgRg no HC n. 893.571/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
