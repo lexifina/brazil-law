@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+PROCESSUAL PENAL. HABEAS CORPUS LIBERATÓRIO. FURTO QUALIFICADO. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. INDÍCIOS SUFICIENTES DE AUTORIA E PROVA DA MATERIALIDADE DO CRIME. GARANTIA DA ORDEM PÚBLICA. DECRETO CONSTRITIVO DEVIDAMENTE FUNDAMENTADO. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. ORDEM DENEGADA. DECISÃO UNÂNIME.
+1. A prisão preventiva é uma medida acautelatória que visa resguardar o processo e sua execução, não se baseando em um juízo de culpabilidade. No momento de sua decretação, avalia-se apenas a presença dos requisitos para adoção da medida e não o mérito da imputação.
+2. A decretação da prisão preventiva sustenta-se diante da comprovação da materialidade e dos indícios suficientes da autoria do crime associados ao motivo da garantia da ordem pública, o qual, no caso, expressa-se, principalmente, pela reprovabilidade concreta do delito, ante o "modus operandi".
+3. Incabível a substituição da prisão por alguma outra medida cautelar, quando demonstrados os requisitos da restrição da liberdade e circunstâncias que evidenciam a insuficiência de tais medidas.
+4. Ordem denegada. Decisão unânime.
+Imputa-se à paciente a prática do crime de furto qualificado (art. 155, § 4º, IV, do Código Penal).
+A defesa alega, em síntese: a) que a prisão preventiva da paciente se mostra excessiva e desproporcional diante das circunstâncias apresentadas, especialmente considerando sua colaboração com as autoridades, ausência de antecedentes criminais, residência fixa e a dependência econômica de sua família; b) que a paciente foi presa em cumprimento de mandado, mas que até a presente data não foi realizada audiência de custódia, nem foi apresentada a qualquer autoridade judiciária; c) que não tinha conhecimento das práticas criminosas perpetradas no escritório onde trabalhava.
+Ao final, requer a concessão da ordem para revogar a prisão preventiva da paciente, ainda que mediante imposição de medidas cautelares alternativas.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Primeiramente, há que se esclarecer que a questão atinente à suposta ausência de apresentação da paciente presa à autoridade judiciária ou à audiência de custódia, não foi objeto de deliberação na Corte estadual, o que impede sua análise nesta via sob pena de incorrer em indevida supressão de instância.
+No que tange à prisão preventiva, assim entendeu o Tribunal de origem (e-STJ fls. 16-19):
+Inicialmente verifico que a decisão ora fustigada foi devidamente fundamentada pelo Juízo de primeiro grau, tendo a magistrada trazido aspectos concretos do caso a exemplificar por quais motivos há necessidade de acautelar o juízo, quanto ao risco à ordem pública (pela participação em organização criminosa, com diversas vítimas vulneráveis lesadas por meio de empréstimos dos quais não tinham ciência).
+ ..
+Nesse contexto, a gravidade concreta dos fatos apurados, a ameaça à ordem pública, a periculosidade da ré, integrante de organização criminosa, revelaram o risco à sociedade que a paciente representa. Acrescente-se que as circunstâncias em que o crime foi cometido, mediante golpes da organização criminosa contra idosos e/ou pessoas beneficiarias de programas sociais/previdenciários confirmam a complexidade deste ilícito.
+Registre-se que a prova da materialidade do crime em comento e os indícios suficientes de autoria da paciente revelaram a necessidade de se manter a prisão preventiva, ora fustigada, pelo que a aplicação de outras medidas cautelares diversas do cárcere não seria suficiente para se garantir a ordem pública.
+ ..
+Acrescente-se que o STJ tem entendido que a gravidade concreta do delito, evidenciada pelo modus operandi criminoso é, sim, fundamento idôneo a sustentar a prisão cautelar.
+ ..
+Ademais, a própria natureza do delito de integrar organização criminosa, que configura crime permanente, além do inerente risco de reiteração delitiva, reforça a contemporaneidade do decreto prisional, conforme entendimento do STJ.
+Como se vê do excerto destacado, o Tribunal de origem concluiu pela manutenção da custódia cautelar da paciente em razão de seu envolvimento com organização criminosa voltada à prática de crimes patrimoniais vitimando pessoas idosas, considerado seu modus operandi, o que evidencia o risco de reiteração delitiva, e consequentemente o risco à ordem pública.
+Por fim, esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+Ante o exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
