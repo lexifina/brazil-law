@@ -1,0 +1,36 @@
+DECISÃO
+Trata -se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 392):
+CONTRATOS DE PARCELAMENTO. REVISÃO. PARCIAL PROCEDÊNCIA. APELO DO DEMANDADO.
+JUROS REMUNERATÓRIOS. VERIFICAÇÃO DA ABUSIVIDADE QUE SE PAUTA NA TAXA MÉDIA DE MERCADO, ADMITIDA CERTA VARIAÇÃO. ORIENTAÇÃO DO STJ. PRECEDENTES DESTA CÂMARA. ABUSIVIDADE EVIDENCIADA NA HIPÓTESE. APELO DA DEMANDANTE PROVIDO PARA ADEQUAR A SÉRIE TEMPORAL DO BACEN A UM DOS CONTRATOS OBJETO DA PRESENTE DEMANDA.
+Na esteira do entendimento delineado pelo STJ - que admite a revisão do percentual dos juros remuneratórios quando aplicável o CDC ao caso e quando exista abusividade no pacto -, esta Câmara julgadora tem admitido como parâmetro para aferir a abusividade a flexibilização da taxa de juros remuneratórios até o percentual de 10% (dez por cento) acima da taxa média divulgada pelo Banco Central.
+ÍNDICE DE CORREÇÃO MONETÁRIA. UTILIZAÇÃO DO INPC, DADA A AUSÊNCIA DE PREVISÃO CONTRATUAL.
+Acerca da utilização de índice de correção monetária, revela-se adequada a aplicação do INPC, além de juros de mora de 1% (um por cento) ao mês, revelando-se descabida a utilização da Taxa Selic para o reajuste da dívida.
+APELO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 426/430 e 670/675).
+Em suas razões (e-STJ fls. 442/458), a parte recorrente aponta dissídio jurisprudencial e violação:
+(i) dos arts. 1º e 4º, IV, IX, da Lei n. 4.595/1964 e da Resolução n. 1.064/1985 do Bacen, porque (e-STJ fl. 454):
+ ..  o entendimento do Superior Tribunal de Justiça se consolidou no sentido de que, para apurar eventual abusividade dos juros remuneratórios nos contratos bancários, é necessário observar se o percentual praticado é significativamente superior à média de mercado divulgada pelo Bacen, que servirá de referencial, o qual, evidentemente, não dispensa a análise das demais particularidades do caso concreto.
+Por outro lado, o entendimento adotado pelo Tribunal local é o de que, para revisar judicialmente o contrato, basta que este estabeleça taxa de juros em índice superior à 10% da taxa média praticada pelo mercado.
+(ii) do art. 406 do CC, pois "a taxa de juros moratórios a que se refere o referido dispositivo é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, afastando a aplicação de qualquer outro índice de atualização ou correção monetária" (e-STJ fl. 445).
+Contrarrazões apresentadas (e-STJ fls. 687/698).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Ao apreciar a questão relativa aos juros remuneratórios, o Tribunal de origem concluiu pela abusividade da taxa contratada em comparação com a média mensal apurada pelo Banco Central para operações da mesma espécie no período da contratação, sem, todavia, fundamentar o caráter abusivo dos juros remuneratórios no caso concreto (e-STJ fl. 396 ):
+Na esteira do entendimento acima delineado, esta Câmara julgadora tem considerado como parâmetro para aferir a abusividade a flexibilização da taxa de juros remuneratórios até o percentual de 10% (dez por cento) acima da taxa média divulgada pelo Banco Central.  ..
+Com efeito, o contrato de parcelamento firmado em 23.06.2020 (evento 1 - contrato 10) prevê a taxa de juros remuneratórios de 43,57% ao ano, ao passo que a média de mercado divulgada pelo Bacen para o período de contratação era de 27,80% ao ano.
+Como se vê, a taxa pactuada excede em 10% àquela divulgada pelo Bacen, razão por que está configurada a abusividade no contrato em questão.
+A jurisprudência do STJ, por outro lado, orienta-se pela adoção da chamada "taxa média de mercado" somente nos casos em que não é possível aferir o percentual pactuado e, fora dessa hipótese, o índice apenas fornece ao julgador uma referência para a avaliação de eventual abuso no caso em questão, que "haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato, a análise do perfil de risco de crédito do tomador e o spread da operação" (AgInt no AREsp n. 1.493.171/RS, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/11/2020, DJe de 10/3/2021).
+Aliás, "foi expressamente rejeitada pela Segunda Seção a possibilidade de o Poder Judiciário estabelecer aprioristicamente um teto para taxa de juros, adotando como parâmetro máximo o dobro ou qualquer outro percentual em relação à taxa média" (AgInt no AREsp n. 1.987.137/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022).
+Assim, destaca-se que "a redução da taxa de juros contratada pelo Tribunal de origem, somente pelo fato de estar acima da média de mercado  apenas cotejando, de um lado, a taxa contratada e, de outro, o limite aprioristicamente adotado pela Câmara em relação à taxa média divulgada pelo Bacen  ..  está em confronto com a orientação firmada no REsp. 1.061.530/RS" (AgInt no AREsp n. 1.493.171/RS, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/11/2020, DJe de 10/3/2021).
+No mesmo sentido:
+RECURSO ESPECIAL. CONTRATO DE MÚTUO BANCÁRIO. JUROS REMUNERATÓRIOS. REVISÃO. CARÁTER ABUSIVO. REQUISITOS. NECESSIDADE DE FUNDAMENTAÇÃO ADEQUADA.
+ ..  3- A Segunda Seção, no julgamento REsp n. 1.061.530/RS, submetido ao rito dos recursos especiais repetitivos, fixou o entendimento de que "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."
+ ..  5- São insuficientes para fundamentar o caráter abusivo dos juros remuneratórios: a) a menção genérica às "circunstâncias da causa" - ou outra expressão equivalente; b) o simples cotejo entre a taxa de juros prevista no contrato e a média de mercado divulgada pelo BACEN e c) a aplicação de algum limite adotado, aprioristicamente, pelo próprio Tribunal estadual.  ..
+7- Recurso especial parcialmente provido.
+(REsp n. 2.009.614/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+Conclui-se, portanto, que esse entendimento não está de acordo com a jurisprudência do STJ, pois a Corte local utilizou como único parâmetro a taxa média de mercado divulgada pelo Banco Central, deixando de analisar efetivamente eventual vantagem exagerada, que justificaria a limitação determinada para os contratos de empréstimo pessoal.
+Dessa forma, é necessário o retorno dos autos ao Tribunal de origem para que, à luz dos requisitos acima estabelecidos pela jurisprudência do STJ, proceda a novo julgamento, considerando as particularidades do caso concreto e verificando a existência de abusividade dos juros remuneratórios.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, para determinar a devolução dos autos à origem para que novo julgamento seja realizado, avaliando-se eventual abusividade dos juros remuneratórios de acordo com os parâmetros estabelecidos pela jurisprudência do STJ.
+Publique-se e intimem-se.
+EMENTA
