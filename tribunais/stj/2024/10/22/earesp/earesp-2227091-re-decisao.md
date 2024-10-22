@@ -1,0 +1,41 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno, mantendo decisão que indeferiu liminarmente os embargos de divergência.
+O julgado recorrido recebeu a seguinte ementa (fl. 1.137):
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ARTS. 1.043, § 4º, DO CPC/2015 E 266, § 4º, DO RISTJ. DESCUMPRIMENTO. CONTRATOS DE LOCAÇÃO. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. JURISPRUDÊNCIA DO STJ FIRMADA NO MESMO SENTIDO DO ACÓRDÃO EMBARGADO. SÚMULA 168/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A teor do § 1º do art. 266 do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial indicada nos embargos deve ser demonstrada na forma prevista no § 1º do art. 255, cabendo ao embargante "transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados". No caso, o embargante não atendeu à exigência prevista no RISTJ, porquanto se limitou a transcrever a tese inserida na ementa dos arestos paradigmas.
+2. A jurisprudência desta Corte é firme no sentido de que não se aplica o Código de Defesa do Consumidor ao contrato de locação regido pela Lei n. 8.245/1991, porquanto, além de fazerem parte de microssistemas distintos do âmbito normativo do direito privado, as relações jurídicas não possuem os traços característicos da relação de consumo, previstos nos arts. 2º e 3º da Lei n. 8.078/1990. Incidência da Súmula n. 168/STJ.
+3. Agravo interno desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 1.169-1.174).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 2º, 5ª, caput, II, XXXV, LIV e LV, 22, I e 93, IX, da Constituição Federal.
+Sustenta ter demonstrado o dissídio jurisprudencial entre os acórdãos do STJ, mediante o devido cotejo analítico; contudo, os embargos de divergência não foram analisados, o que configura negativa de prestação jurisdicional.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, que não examinou o mérito do recurso dirigido a esta Corte Superior, como se observa do seguinte trecho do referido julgado (fl. 1.139):
+Conforme exposto na decisão monocrática, a teor do § 1º do art. 266 do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial indicada nos embargos deve ser demonstrada na forma prevista no § 1º do art. 255, cabendo ao embargante "transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados".
+A leitura do recurso revelou que a parte agravante não atendeu à exigência prevista no RISTJ, porquanto se limitou a transcrever a tese inserida na ementa do aresto paradigma, oriundo da Terceira Turma.
+Com efeito, é firme a orientação jurisprudencial desta Corte no sentido de que "o dissídio pretoriano exigível ao conhecimento dos Embargos de Divergência reclama a comprovação mediante cotejo analítico, sendo insuficiente a mera transcrição de ementas" (AgRg nos ER Esp n. 421.964/SP, Relator Ministro Luiz Fux, Primeira Seção, DJ de 4/10/2004).
+No mesmo sentido:
+ .. .
+De todo modo, o acórdão embargado está em consonância com a jurisprudência atual da Segunda Seção desta Corte, não havendo, portanto, divergência sobre a matéria entre as Turmas de Direito Privado do STJ. Confira-se:
+ .. .
+Tem incidência o óbice da Súmula 168/STJ, in verbis: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado". Tal o quadro delineado, não há como se processar os embargos de divergência, nos termos da fundamentação supra.
+Ante o exposto, nego provimento ao agravo interno.
+Assim, fica inviabilizado o exame pretendido nesta insurgência, relacionado às questões de mérito submetidas ao STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não conhecer do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
