@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCOS LUIZ GUEDES no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução Penal n. 9000002-28.2021.8.26.0114).
+Consta dos autos que o Juízo de primeiro grau indeferiu os pedidos de reconhecimento da prescrição da pretensão executória e extinção da punibilidade formulado pelo ora paciente.
+A defesa interpôs agravo em execução perante o Tribunal de origem, que negou provimento ao recurso, em acórdão assim ementado (e-STJ fl. 69):
+PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA - sentenciado reincidente o que aumenta em 1/3 o prazo prescricional. Nova condenação. Agravo desprovido.
+Daí o presente writ, no qual a defesa alega que a "certidão NE 05 foi elaborada contrariamente à evidência dos autos, considerando o Paciente reincidente, fato que aumentou o prazo prescricional em 1/3", pois "a sentença penal condenatória alegou que o Paciente possuía maus antecedentes devido a seu envolvimento em outras infrações penais, incluindo uma prisão anterior em 1991, o que difere de reincidência" (e-STJ fl. 7).
+Acrescenta que " apresentou revisão criminal no Tribunal de Justiça do Estado de São Paulo, sob o nº 0016569-42.2024.8.26.0000 - 4º Grupo de Direito Criminal (processo físico), processo segue aguardando julgamento, sem previsão, dada a quantidade de processos", e "a Procuradoria de Justiça do Estado de São Paulo, após a análise integral do processo, apresentou parecer pela declaração da extinção da punibilidade" (e-STJ fl. 9).
+Ao final, requer, liminarmente e no mérito, a concessão da ordem "para desconstituir o decisum ora posto, para tornar sem efeito a certidão NE 05, visto que comprovadamente foi elaborada de forma errônea, pois o Paciente não era, à época dos fatos, reincidente e, portanto, não pode ter seu cálculo prescricional acrescido de 1/3, com a consequente extinção da punibilidade" (e-STJ fl. 12).
+É o relatório.
+Decido.
+Conforme noticiado pela própria defesa, está pendente de julgamento no Tribunal de origem pleito de revisão criminal apresentado pelo ora paciente, protocolado sob o n. 0016569-42.2024.8.26.0000.
+No entanto, a pacífica jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de ações e recursos legalmente previstos e habeas corpus manejados contra o mesmo ato ou que questionem as mesmas matérias, sob pena de violação do princípio da unirrecorribilidade.
+A propósito:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FALSIDADE IDEOLÓGICA. DOSIMETRIA. PRECLUSÃO TEMPORAL. WRIT IMPETRADO SEIS ANOS APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO, CONCOMITANTEMENTE À REVISÃO CRIMINAL. AGRAVO REGIMENTAL DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Como regra, o trânsito em julgado da condenação impede a parte de impetrar habeas corpus perante este Sodalício, porquanto a competência do Superior Tribunal de Justiça, prevista no art. 105, I, "e", da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+III - No presente caso, o trânsito em julgado do acórdão impugnado ocorreu em 15 de maio de 2017, tendo sido impetrado o presente writ somente em 31 de julho de 2023 (fl. 03), isto é, após mais de 6 (seis) anos do trânsito em julgado da condenação, funda mentação apta a ensejar o não conhecimento do habeas corpus, nos moldes da jurisprudência desta Corte Superior, em razão da prevalência, na hipótese, da coisa julgada e da segurança jurídica.
+IV - Aliada à preclusão temporal, verifico que o habeas corpus foi impetrado concomitante à revisão criminal n. 0029255-03.2023.8.26.0000, a qual está pendente de julgamento perante a Corte de origem, corroborando a impossibilidade de conhecimento do writ, em razão da violação ao princípio da unirrecorribilidade das decisões. Assim, entendo que "o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual" (HC n. 482.549/SP, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 02/04/2020).
+Agravo regimental desprovido.
+(AgRg no HC n. 842.490/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/12/2023, DJe de 15/12/2023, grifei.)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO QUALIFICADO E EXTORSÃO MEDIANTE SEQUESTRO. ALEGAÇÃO DE NULIDADE. AUSÊNCIA DE CITAÇÃO. PLEITO ABSOLUTÓRIO. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. REVISÃO CRIMINAL AJUIZADA E PENDENTE DE JULGAMENTO. AGRAVO DESPROVIDO.
+1. O conhecimento do habeas corpus, sem o pronunciamento definitivo do Tribunal a quo, traduz supressão de instância e, via de consequência, violação às regras constitucionais definidoras da competência dos Tribunais Superiores, estabelecidas numerus clausus na Constituição Federal.
+2. Deveras, o agravante não se desincumbiu de demonstrar teratologia ou manifesta ilegalidade no ato impugnado que justificasse a atuação precoce desta Corte, contrariando as regras de competência e os princípios do devido processo legal substancial e do duplo grau de jurisdição.
+3. Como consta do próprio acórdão recorrido, o agravante já ingressou com pedido de revisão criminal perante o Tribunal de origem. A pacífica jurisprudência desta Corte não admite a tramitação concomitante de recursos legalmente previstos e habeas corpus ou recursos ordinários manejados contra o mesmo ato ou que questionem as mesmas matérias, sob pena de violação do princípio da unirrecorribilidade.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 183.540/AL, de minha relatoria, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE DE BUSCA PESSOAL. REVISÃO CRIMINAL PENDENTE DE JULGAMENTO. IMPOSSIBILIDADE DE CONCOMITANTE MANEJO DE HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA.
+1. De acordo com o entendimento desta Corte, encontrando-se a revisão criminal pendente de julgamento, com posterior impetração de habeas corpus nesta Corte, é necessário aguardar o julgamento na origem, de modo a evitar eventuais decisões conflitantes e tumulto processual.
+2. Necessidade de haver o prévio julgamento da revisão criminal, considerando que a tese de nulidade de prova não foi apreciada por ocasião do julgamento da apelação.
+3 . Agravo regimental desprovido.
+(AgRg no HC n. 782.750/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 11/9/2023, DJe de 15/9/2023, grifei.)
+Assim, constatada a impetração de habeas corpus enquanto está pendente de julgamento pedido revisional, o rito de cognição sumária não pode subsistir.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
