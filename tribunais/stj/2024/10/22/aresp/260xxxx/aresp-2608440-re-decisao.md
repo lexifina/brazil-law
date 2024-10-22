@@ -1,0 +1,52 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que manteve a decisão que afastou a violação ao art. 1.022 do CPC, referente à alegação de negativa de prestação jurisdicional, e aplicou o óbice da Súmula n. 7/STJ, quanto aos demais dispositivos relacionados à homologação do laudo pericial.
+O julgado recorrido recebeu a seguinte ementa (fl. 237):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DOS CÁLCULOS DO PERITO JUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LAUDO CONTRADITÓRIO. AUSÊNCIA DE LUCROS CESSANTES. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal estadual, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. O Tribunal estadual manteve a decisão agravada de primeiro grau que homologou os cálculos do perito, concluindo que a prova técnica elaborada está correta.
+3. A análise da tese recursal, no sentido de que o laudo pericial teria inserido uma restituição em duplicidade e que teria sido reconhecido, indevidamente, o ressarcimento por lucro cessante não envolve uma questão jurídica em abstrato, desprendida da necessidade de novo exame de fatos e provas. Incidência da Súmula n. 7 do STJ.
+4. Agravo interno não provido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, II, XXXV, LIV, LV, 37, 93, IX, e 105, III, a, da Constituição Federal.
+Nesse sentido, argumenta ter havido violação aos princípios do acesso à justiça, devido processo legal, contraditório, ampla defesa e devida fundamentação em razão da ausência de análise das questões de direito suscitadas pela recorrente.
+Aponta, ainda, violação ao princípio da legalidade em razão da homologação de laudo pericial inconclusivo e contraditório sem oportunizar retificações à recorrente.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+Apresentadas contrarrazões (fls. 276-289).
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, que não examinou o mérito do recurso dirigido a esta Corte Superior, como se observa do seguinte trecho do referido julgado (fls. 238-240):
+BRADESCARD interpôs agravo de instrumento, insurgindo-se contra os critérios técnicos empregados no laudo pericial, sob o argumento de que não estariam lastreados na boa técnica contábil, nem nos documentos juntados aos autos.
+Ao dirimir a controvérsia, o Tribunal de Justiça do Estado de São Paulo concluiu que a prova técnica elaborada está correta. Confira-se:
+A despeito das razões ora apresentadas, não prospera a irresignação quanto aos lucros cessantes.
+Consoante se vislumbra do título executivo constituído, restou incontroversa a irregularidade da rescisão unilateral do contrato firmado entre as partes, tendo a administradora de cartões de crédito sido condenada a reparar os prejuízos decorrentes, em especial, os lucros cessantes.
+Com efeito, os lucros cessantes consistem naquilo que a vítima deixou razoavelmente de lucrar como consequência direta do evento danoso (artigo 402, do Código Civil).
+Ainda que a parte autora, então exequente, tenha, porventura, auferido acréscimo de faturamento após a rescisão do contrato (fl.09), tal fato, por si só, não traduz causa excludente para a reparação dos lucros cessantes.
+Uma vez observado que o cartão de crédito objeto do contrato controvertido tinha como diferencial, dentre outros, "prazo de 70 para pagar" (fl. 960, dos autos originais), não é preciso muita digressão para reconhecer que seu cancelamento foi fonte de potencial redução do fluxo de transações, inclusive, de perda de clientela.
+Ausentes quaisquer elementos de prova idôneos em sentido contrário, não há que discutir a correção da conclusão da prova técnica elaborada.
+Tampouco prospera a alegação de excesso do montante apurado a título de danos materiais.
+(..)
+Consoante bem ressaltado pelo i. experto nomeado, os funcionários já contratados pela autora, à época da rescisão, dedicados à implementação do cartão objeto do contrato controvertido, e que permaneceram até a implementação do novo contrato com a instituição financeira Losango (março de 2013), configuram fonte de gastos que, nos termos da r. sentença proferida, devem ser restituídos, porquanto o "distrato unilateral da ré não recolocou as partes no estado anterior, pois a autora sofreu prejuízos que devem ser ressarcidos" (fls. 2.088/2.089 dos autos originais).
+Em que pese o reforço argumentativo de BRADESCARD, tem-se muito clara a percepção de que eventual provimento da pretensão recursal demandaria, inexoravelmente, uma detida revisão do suporte fático-probatório constante dos autos, esbarrando no óbice da Súmula n. 7 do STJ.
+Com efeito, a análise da tese recursal, no sentido de que o laudo pericial teria inserido uma restituição em duplicidade e que teria sido reconhecido indevidamente o ressarcimento por lucro cessante não envolve uma questão jurídica em abstrato, desprendida da necessidade de novo exame de fatos e provas.
+Nesse sentido:
+ ..
+Ademais, não há que se falar em negativa de prestação juridicional no caso. Tem-se que o Tribunal estadual indicou os motivos que o levaram a desprover o agravo de instrumento, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Vale salientar que não se pode confundir julgamento desfavorável aos interesses das partes com negativa de prestação jurisdicional, ou com ausência de fundamentação. No caso, a controvérsia foi suficientemente esclarecida, de forma a se afastar a alegada ofensa aos arts. 489, §1º, IV, V, VI, e 1.022, II, do CPC.
+Assim, como BRADESCARD não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não provimento do recurso especial.
+Assim, fica inviabilizado o exame pretendido nesta insurgência, relacionado às questões de mérito submetidas ao STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, relacionadas à homologação do laudo pericial, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não conhecer do recurso de sua competência, tal como verificado nestes autos pela incidência da Súmula n. 7/STJ, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
