@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 16/10/2024 a 22/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE SIMILITUDE ENTRE OS ACÓRDÃOS CONFROTADOS. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 1.022 QUE NÃO PODE SER DEBATIDA EM EMBARGOS DE DIVERGÊNCIA.
+1. Não cabem embargos de divergência quando não há similitude entre os acórdãos confrontados. Isso porque a existência ou não de omissão demanda a análise de cada hipótese concreta. O fato de o STJ reconhecer, em certas situações, a existência de omissão e, em outras, afastar tal alegação, não configura divergência apta a dar ensejo à oposição de embargos de divergência
+2. A divergência quanto à tese de negativa de prestação jurisdicional, isto é, acerca da ocorrência ou não de omissão, contradição ou obscuridade, demanda a apreciação das especificidades do caso concreto, o que impede a demonstração da divergência. Precedentes.
+3. O acórdão embargado aplicou a Súmula 7/STJ quanto à questão relativa à inscrição da recorrente na Central de Indisponibilidade de Bens (CNIB), o que atrai o óbice da Súmula 315/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por RECICOLOR ENOBRECIMENTO TÊXTIL LTDA contra decisão unipessoal que indeferiu liminarmente os embargos de divergência opostos pela ora agravante.
+Agravo interno interposto em: 8/4/2024.
+Concluso ao gabinete em: 8/8/2024
+Ação: de execução fiscal ajuizada pela UNIÃO - FAZENDA NACIONAL em face da agravante.
+Decisão interlocutória: deferiu o requerimento formulado pela recorrida para realização de indisponibilidade de bens da recorrente na Central de Indisponibilidade de Bens (CNIB).
+Acórdão: negou provimento ao agravo de instrumento interposto pela ora agravante.
+Recurso especial: alega violação dos arts. 805 e 1.022 do CPC, ao argumento de que é indevida a sua inclusão na CNIB, porquanto possui outros bens passíveis de garantir o débito executado.
+Decisão de admissibilidade: o TRF da 4ª Região inadmitiu o recurso , ensejando a interposição do agravo em recurso especial.
+Decisão unipessoal: conheceu do agravo interposto pela recorrente, para negar provimento ao recurso especial.
+Acórdão embargado: negou provimento ao agravo interno interposto pela recorrente, nos termos da seguinte ementa:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMUNICAÇÃO PELO JUIZ DA DECISÃO QUE DEFERIU A INDISPONIBILIDADE DE BENS DO DEVEDOR. SUFICIÊNCIA DE BENS. AUSÊNCIA DE COMPROVAÇÃO. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. "Da interpretação do art. 185-A do CTN depreende-se, com clareza solar, que a comunicação da decisão que determinou a indisponibilidade dos bens da executada deverá ser realizada pelo juízo competente. Trata-se de obrigação processual imposta ao Estado/Juiz, à qual não se pode se furtar". (REsp 1.611.966/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 23/8/2016, DJe de 13/9/2016).
+2. Apurar a existência de outros bens do devedor implica o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo interno a que se nega provimento.
+Embargos de declaração: opostos pela ora agravante, foram rejeitados.
+Embargos de divergência: alegou, em síntese, que o acórdão embargado diverge do acórdão proferido pela Terceira Turma nos EDcl no AgInt no AREsp 1530928/RS, que reconheceu a existência de omissão e admitiu a atribuição de efeitos infringentes aos embargos de declaração. Sustenta, ademais, a não incidência do óbice da Súmula 7 do STJ.
+Decisão unipessoal: indeferiu liminarmente os embargos de divergência (fls. 294-298, e-STJ).
+Agravo interno: alega o cabimento dos embargos de divergência opostos, por restar clara a divergência entre os julgados, sendo os embargos de divergência o meio adequado para cessar a divergência havida entre julgamento de decisões em órgãos de julgamentos diferentes.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE SIMILITUDE ENTRE OS ACÓRDÃOS CONFROTADOS. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 1.022 QUE NÃO PODE SER DEBATIDA EM EMBARGOS DE DIVERGÊNCIA.
+1. Não cabem embargos de divergência quando não há similitude entre os acórdãos confrontados. Isso porque a existência ou não de omissão demanda a análise de cada hipótese concreta. O fato de o STJ reconhecer, em certas situações, a existência de omissão e, em outras, afastar tal alegação, não configura divergência apta a dar ensejo à oposição de embargos de divergência
+2. A divergência quanto à tese de negativa de prestação jurisdicional, isto é, acerca da ocorrência ou não de omissão, contradição ou obscuridade, demanda a apreciação das especificidades do caso concreto, o que impede a demonstração da divergência. Precedentes.
+3. O acórdão embargado aplicou a Súmula 7/STJ quanto à questão relativa à inscrição da recorrente na Central de Indisponibilidade de Bens (CNIB), o que atrai o óbice da Súmula 315/STJ.
+4. Agravo interno não provido.
+VOTO
+Os embargos de divergência constituem instrumento excepcional voltado à uniformização da jurisprudência interna do Superior Tribunal de Justiça, representando mecanismo que, a despeito de depender da iniciativa das partes ou de terceiros interessados, "não tem por mira apenas realizar justiça subjetiva", eis que "o Tribunal quando os julga tem por propósito específico promover a harmonia de interpretação da lei federal com a consequente uniformização da jurisprudência no âmbito interno da Corte" (EDcl nos EREsp 88.682/SP, 1ª Seção, DJe 1º/12/2003).
+Nos termos do art. 1.043 do CPC/2015, é embargável o acórdão de órgão fracionário que, em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito, ou, ainda, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia.
+Essa exigência legal no sentido de que o acórdão seja de mérito, ou ao menos tenha apreciado a controvérsia, justifica-se porque os embargos de divergência não servem para propiciar novo exame acerca da aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial.
+Quando não apreciado o mérito da controvérsia, portanto, aplica-se a Súmula 315/STJ. A propósito, confira-se o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CPC/2015. APLICAÇÃO DA SÚMULA N. 315 DO STJ. SEMELHANÇA ENTRE OS ACÓRDÃOS CONFRONTADOS. AUSÊNCIA. DECISÃO MANTIDA.
+1. No presente caso, o acórdão embargado, quanto ao tema objeto da divergência, manteve a inadmissibilidade do recurso especial sem apreciar seu mérito. Em tal contexto, mesmo em vigor o CPC/2015, incide a Súmula n. 315 do STJ, segundo a qual, "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Jurisprudência da CORTE ESPECIAL.
+2. A aplicação do óbice processual (Súmula n. 7 do STJ) para inadmitir o recurso especial decorreu do exame concreto do texto do mencionado recurso e do respectivo acórdão recorrido, que não se comunicam com as peças dos paradigmas, ausente a indispensável semelhança fático-processual entre eles.
+3. Majorados os honorários sucumbenciais na decisão monocrática ora agravada, que indeferiu liminarmente os embargos de divergência, descabe majorá-los novamente neste agravo interno. Precedentes. 4. Agravo interno a que se nega provimento. (AgInt nos EAREsp n. 1.949.913/DF, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 12/9/2023, DJe de 25/9/2023.)
+Na espécie, a agravante alega que o acórdão embargado, ao afastar a existência de violação ao art. 1.022 do CPC, divergiu do acórdão da Terceira Turma do STJ prolatado nos EDcl no AgInt no AREsp 1.530.928/RS, que acolheu os embargos de declaração para sanar omissão.
+Contudo, como exposto na decisão unipessoal de fls. 294-298, não há similitude entre os acórdãos confrontados. Isso porque a existência ou não de omissão demanda a análise de cada hipótese concreta. O fato de o STJ reconhecer, em certas ocasiões, a existência de omissão e, em outras, afastar tal alegação, não configura divergência apta a dar ensejo à oposição de embargos de divergência.
+Além disso, verifica-se que o acórdão embargado aplicou a Súmula 7/STJ quanto à questão relativa à inscrição da recorrente na CNIB. Logo, a controvérsia de mérito não foi apreciada por esta Corte.
+Somado a isso, a divergência quanto à tese de negativa de prestação jurisdicional, isto é, acerca da ocorrência ou não de omissão, contradição ou obscuridade, demanda a apreciação das especificidades do caso concreto, o que, impede a demonstração da divergência em razão da diversidade das hipóteses confrontadas (AgInt nos EAREsp n. 2.253.953/TO, Segunda Seção, DJe de 6/5/2024; AgRg nos EREsp n. 1.254.149/SC, Primeira Seção, DJe de 1/2/2013).
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
