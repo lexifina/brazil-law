@@ -1,0 +1,15 @@
+DECISÃO
+EDER BASTOS DE SOUSA agrava de decisão que inadmitiu seu recurso especial, interposto com base no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação Criminal n. 0710961-86.2020.8.07.0001.
+Nas razões do recurso especial, a defesa aponta a violação do art. 65, III, "d", do Código Penal, pretende, em síntese, o reconhecimento da atenuante da confissão espontânea.
+O apelo especial foi inadmitido durante o juízo prévio de admissibilidade, o que ensejou a interposição deste agravo. O Ministério Público Federal manifestou-se pelo não provimento do reclamo (fls1.607-1.609).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento. O especial também é tempestivo, todavia, não verifico o preenchimento dos requisitos constitucionais, legais e regimentais para o seu processamento.
+No caso, a matéria referente ao pretendido reconhecimento da atenuante da confissão espontânea não foi analisada pelo Tribunal de origem, o que impede a apreciação dessa questão diretamente por esta Corte, por ausência de prequestionamento.
+Conforme reiterada jurisprudência deste Superior Tribunal de Justiça , para atender ao requisito do prequestionamento, é necessário a questão haver sido objeto de debate pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca do dispositivo legal apontado como violado, o que não ocorreu na espécie.
+Ademais, saliento que, consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Ressalto que, embora a defesa haja ingressado com embargos de declaração ao acórdão da apelação, em nenhum momento, essa tese integrou as razões do apelo defensivo. Com efeito, mostra-se descabida a pretensão de se alargar o objeto do recurso de apelação após o seu julgamento, a pretexto de omissão, a fim de que seja analisada matéria estranha ao mérito recursal e aventada somente por ocasião dos embargos. Ademais, esclareço que a defesa, ao arrazoar este especial, não suscitou eventual ofensa ao art. 619 do CPP.
+Sendo assim, é inviável a análise de matéria que não foi alegada no oportunidade processual adequada, pois é vedado à parte inovar quando da oposição de embargos de declaração.
+Incide, portanto, o óbice da Súmula n. 211 do STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
