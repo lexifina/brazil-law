@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por FÁBIO WILLIAM BORGES PEDROSO contra decisão que inadmitiu o recurso especial .
+Contraminuta apresentada, onde a parte recorrida requer "a manutenção da decisão que não admitiu o recurso especial, denegando-se o presente agravo" (e-STJ fls. 688/695).
+Nas razões do recurso especial aponta violação aos arts. 157, caput, e § 1º, 240, § 1º, e 241, todos do Código de Processo Penal.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo ou, caso conhecido, pelo desprovimento do recurso especial (e-STJ fls. 707/714).
+É o relatório.
+Decido.
+A Corte Especial do Superior Tribunal de Justiça firmou entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso.  ..  A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018).
+Esse posicionamento vem guiando a jurisprudência das Turmas Criminais desta Corte, como se nota a partir dos acórdãos que consignaram: "a falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia" (AgRg no AREsp 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no AREsp 1.871.630/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023).
+Postas essas premissas, verifica-se que o Tribunal de origem inadmitiu o recurso especial interposto pela defesa com amparo nos óbices das súmulas 7 e 83 do STJ.
+Nas razões do agravo em recurso especial, todavia, a parte limitou-se a impugnar o óbice da súmula 7, não impugnando os fundamentos referentes ao óbice da súmula 83.
+Dessa forma, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia, não conheço do agravo em recurso especial.
+EMENTA
