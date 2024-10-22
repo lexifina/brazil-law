@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Cesar Barbosa da Silva, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 0006962-51.2013.8.26.0271 - fls. 26/32).
+O paciente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos e 10 meses de reclusão, no regime inicial fechado, além do pagamento de 583 dias-multa.
+Aqui, sustenta-se a existência de ilegalidade na dosimetria da pena.
+Aponta-se que não há fundamentação idônea para exasperar a pena-base, porquanto, a despeito da natureza da droga apreendida "crack", a quantidade, na hipótese, 1 (uma) porção de crack, com peso líquido de 22,48 g segundo a orientação desta Corte, não é apta, por si só, a indicar maior desvalor da conduta (fl. 6).
+Afirma-se que não há quaisquer elementos probatórios, que o paciente integrava organização criminosa, ou que se dedicava a atividades criminosas, percebe-se, que o acórdão guerreado tomou por base meras presunções abstratas (fl. 9), bem como que a negativa de aplicar a minorante do tráfico privilegiado também tomou por base a quantidade de entorpecentes apreendidas (fl. 10).
+Argumenta-se, ainda, a ausência de fundamentação concreta para a imposição do regime de cumprimento de pena mais gravoso.
+Requer-se, então, a concessão da ordem para: i) seja fixada a pena-base no mínimo legal; ii) seja aplicada a causa de diminuição de pena do § 4º do art. 33 da Lei n. 11.343/06, em patamar máximo; e iii) subsidiariamente, pede-se que seja estabelecido o regime semiaberto para o cumprimento da pena (fl. 15).
+Prestadas as informações de praxe (fls. 66/67), o Ministério Público Federal opinou pela denegação da ordem (fls. 93/97).
+Estes autos foram a mim distribuídos por prevenção do HC n. 849.204/SP.
+É o relatório.
+Inicialmente, em consulta ao site do Tribunal de origem, verificou-se que a condenação transitou em julgado, ou seja, o presente writ é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Nesse sentido, confiram-se precedentes das duas Turmas criminais que compõem esta Corte Superior de Justiça: HC n. 288.978/SP, da minha relatoria, Rel. p/ acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018; e HC n. 540.161/SP, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 17/12/2019.
+No caso, verifica-se que a elevação da pena-base em 1/6 com fundamento na quantidade e natureza dos entorpecentes apreendidos (fl. 17 e 28), nos termos do art. 42 da Lei n. 11.343/2006, não ocorreu de forma desproporcional.
+Nesse sentido, mostra-se idônea a fundamentação, uma vez que, há muito tempo, a jurisprudência do STJ considera lídimo o recrudescimento da pena-base, tendo em vista a natureza e a quantidade da substância entorpecente. Precedentes (AgRg no HC n. 732.950/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 30/5/2022).
+Ademais, segundo precedentes,  n ão há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal, sendo garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto (HC n. 557.108/MG, Ministro Antonio Saldanha Pa lheiro, Sexta Turma, DJe 16/6/2021).
+No que tange à causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, essa foi afastada com o entendimento de que o paciente se dedicava a atividades criminosas com base nos elementos probatórios coligidos aos autos.
+Nesse contexto, não se mostra possível rever tal entendimento para fazer incidir a causa especial de diminuição, porquanto demandaria revolvimento da matéria fát ico-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus (HC n. 683.182/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 5/10/2021) - (AgRg no HC n. 748.063/SP, de minha relatoria, Sexta Turma, DJe 15/8/2022).
+No entanto, da análise dos autos verifico a existência de nítido constrangimento ilegal a ser sanado no tocante ao regime inicial fechado, o que autoriza a concessão da ordem de ofício.
+Extrai-se da sentença condenatória que o regime inicial fechado foi fixado em razão de o delito de tráfico de drogas se tratar de crime equiparado a hediondo (fl. 24).
+No mesmo sentido, o Tribunal local consignou que se  t ratando de delito equiparado a hediondo, cometido a partir da vigência da Lei n. 11.464/2007, o regime inicial fechado é o único possível ao crime de tráfico, a teor do que estabelece o artigo 2º, § 1º, da Lei n. 8.072/1990 (fl. 31).
+Ora, de acordo com a Súmula 719/STF, a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea, o que não ocorreu no caso dos autos. Assim, tratando-se de paciente primário e em razão do quantum da pena aplicada (5 anos e 10 meses de reclusão), adequado, nos termos do art. 33, § 2º, b, do Código Penal, o regime semiaberto.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício, a fim de fixar o regime inicial semiaberto, mantidos os demais termos da condenação.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juí zo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. SUCEDÂNEO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. DOSIMETRIA. PENA-BASE EXASPERADA. FUNDAMENAÇÃO IDÔNEA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. MATÉRIA FÁTICA. REGIME INICIAL FECHADO. QUANTUM DE PENA SUPERIOR A 4 ANOS E INFERIOR A 8 ANOS. GRAVIDADE ABSTRATA. IMPOSSIBILIDADE. REGIME SEMIABERTO ADEQUADO. MANIFESTO CONSTRANGIMENTO ILEGAL.
+Habeas corpus não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
