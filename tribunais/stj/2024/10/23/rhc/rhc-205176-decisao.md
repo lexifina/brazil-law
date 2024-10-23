@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por Lauro Antonio Alexandre Barreto, impugnando-se o acórdão proferido pelo Tribunal de Justiça do Ceará (HC n. 0633045-64.2024.8.06.0000).
+Verifica-se dos autos que o recorrente foi preso em flagrante pela suposta prática do crime de tentativa de homicídio. Posteriormente, em 8/10/2023, a prisão em flagrante foi convertida em preventiva pelo Juízo plantonista nos autos do Processo n. 0206086-52.2023.8.06.0293 (fls. 105/109).
+O Magistrado singular, ao reavaliar a custódia cautelar, nos termos do art. 316, parágrafo único, do Código de Processo Penal, manteve a prisão do recorrente (fls. 290/292) e também indeferiu o pedido de revogação da custódia cautelar (fls. 388/392).
+Inconformada, a defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem na parte conhecida, com recomendação para designar data próxima para continuidade da instrução processual (fls. 458/468).
+Daí o presente recurso, em que se alega constrangimento ilegal decorrente do excesso de prazo da prisão preventiva.
+Aduz-se que a prisão preventiva perdura desde 7/10/2023, sem previsão de término da instrução, configurando a mora processual.
+Argumenta-se que houve clara desídia do Poder Judiciário, a qual se demonstra por meio do elástico lapso temporal (cerca de três meses ) no qual o processo segue aguardando o agendamento de nova data para continuidade da instrução (fl. 485).
+Requer-se a concessão da ordem liberatória.
+Sem contrarrazões.
+Indeferida por mim a liminar em 30/9/2024 (fls. 499/501) e solicitadas informações, essas foram prestadas (fls. 513/516).
+O Ministério Público Federal manifestou-se pela negativa de provimento do recurso (fls. 521/529).
+É o relatório.
+O acórdão ora impugnado está em consonância com a firme jurisprudência desta Casa.
+Com efeito, em homenagem ao princípio da razoabilidade, é admissível certa variação, de acordo com as peculiaridades de cada caso, de modo que o constrangimento deve ser reconhecido como ilegal somente quando o retardo ou a morosidade sejam injustificados e possam ser atribuídos ao Poder Judiciário. Precedentes (AgRg no HC n. 786.537/PE, Ministra Daniela Teixeira, Quinta Turma, DJe 8/3/2024).
+Inexiste, na espécie, o alegado constrangimento ilegal. Não há falar em revogação da prisão preventiva imposta ao recorrente.
+O Tribunal a quo consignou que (fls. 466/467 - grifo nosso):
+ ..
+Conforme foi julgado no HC n. 0625266-58.2024.8.06.0000, o excesso de prazo restou afastado pela proximidade da audiência de instrução, que estava agendada para o dia 27/06/2024, considerando-se a complexidade da causa, tendo em vista "a necessidade de expedição de carta precatória para oitiva de testemunha, pedidos de produção probatória pericial pela defesa, certamente exigem que se utilize maior tempo até chegar-se à solução final da causa - certo é que o feito se encontra no aguardo da audiência de instrução e julgamento, já designada, não havendo, portanto, notícias recentes de que esteja ocorrendo morosidade ou retardo excessivo na implementação dos atos processuais, tampouco desídia ou inércia por parte do Juízo processante; até o momento, o processo tramita em prazo aceitável.".
+Na data aprazada, na sala de audiências da Vara Única da Comarca de Tabuleiro do Norte/CE, foram realizadas duas oitivas (Silvio Guilherme Alves de Aquino e Gerislandia Lima Rodrigues Nunes), tudo gravado e reduzido a arquivos de mídias audiovisuais, sendo determinada, ao final, a designação de nova audiência, para oitiva da testemunha faltante (Widemark Lima Barbosa), bem como o interrogatório do réu (fls. 318/319, na origem).
+Na oportunidade, a defesa do paciente requereu a revogação da prisão do réu, ao que o Ministério Público se manifestou oralmente pela manutenção da prisão, fundamentando-se na permanência dos requisitos legais.
+Empós, o Magistrado a quo, na data de 30/07/2024, a pedido da defesa, reanalisou a necessidade do cárcere em desfavor do paciente, indeferindo o pleito, sob o fundamento de que permanece inalterado o quadro fático e probatório que ensejou a decretação da prisão e, afastando, também, o alegado excesso de prazo, haja vista a tramitação regular do feito (fls. 345/349).
+Atualmente, o processo aguarda a realização de audiência de continuação para a oitiva da testemunha Widemark Lima Barbosa e para o interrogatório do acusado. Encerrada a instrução, será aberta a fase de alegações finais e proferida a sentença de mérito, conforme informações prestadas pelo Magistrado, no ofício n. 269/2024 (fls. 410/411, autos HC).
+Considerando a movimentação processual acima narrada, não se vislumbra paralisação indevida do processo, nem qualquer tipo de desídia por parte do Poder Judiciário, ou demora injustificada no andamento do feito, que configure constrangimento ilegal. Em verdade, observa-se que o Juiz de 1ª instância vem empreendendo todos os esforços necessários à instrução do feito, para fins de possibilitar o seu julgamento, conduzindo a marcha processual conforme os princípios da razoabilidade, proporcionalidade e duração razoável do processo.
+O Juízo da Vara Única da comarca de Tabuleiro do Norte/CE, ao enviar as informações por mim solicitadas, ressaltou que (fls. 513/514):
+ ..
+A prisão preventiva do paciente foi decretada no dia 08/10/2023, (fls. 93/97), diante da gravidade concreta do crime cometido com violência real contra vítima que foi atingida no abdômen (com uso de instrumento pérfuro cortante), bem como as circunstâncias e modo de operação no delito ora apurado e o histórico de cometimento de crime da mesma natureza, as quais demonstram a periculosidade concreta do paciente LAURO ANTÔNIO ALEXANDRE BARRETO, ante a necessidade de garantir a ordem pública e a aplicação da lei penal.
+O Ministério Público do Estado do Ceará ofereceu denúncia contra o paciente em 25/10/2023, imputando-lhe a prática do delito de homicídio simples, na forma tentado (art. 121, caput, c/c art. 14, II todos do Código Penal), tendo como vítima FRANCISCO JOECIR CORDEIRO DA COSTA.
+A denúncia foi recebida em 27/10/2023, fl. 219.
+Citado, o paciente apresentou resposta a acusação por meio da Defensoria Pública, fls.222/224.
+Posteriormente, em 18/04/2024, a prisão preventiva do paciente foi novamente reavaliada e mantida, fls. 278/280.
+Audiência de instrução realizada em 27/06/2024, na qual foram ouvidas as testemunhas Silvio Guilherme Alves de Aquino e Gerislandia Lima Rodrigues Nunes. Na mesma oportunidade, a defesa solicitou a liberdade do paciente, ao que o Ministério Público se manifestou oralmente pela manutenção da prisão, fundamentando-se na permanência dos requisitos legais, conforme registrado nas fls. 318/319.
+Em 30/07/2024, a prisão preventiva do paciente foi reavaliada e, mais uma vez, mantida, conforme decisão constante nas fls. 345/349, em alinhamento com o parecer ministerial.
+Posteriormente, impetrado HC em favor do réu, o Tribunal de Justiça do Estado Ceará requereu que a autoridade coatora fosse notificada para prestar as informações que julgar pertinentes (fls. 356/361).
+Certidão de devolução dos autos com as informações ao Egrégio Tribunal, consoante fl. 364.
+Nesse sentido, foi encaminhado a este juízo o ofício nº 2324/2024, com o julgamento do HC 0633045-64.2024.8.06.0000, com a seguinte decisão: "A Turma, por unanimidade de votos, acordou em conhecer parcialmente da ação, para denegar a ordem, na extensão cognoscível, com recomendação ao juízo de origem de celeridade para impulsionamento do feito, com designação de data próxima para continuidade da instrução processual".
+Na espécie, até o momento, não há situação incompatível com o princípio da razoável duração do processo. Não há notícia de ato procrastinatório por parte das autoridades públicas, não está demonstrada a desídia Estatal, trata-se de feito complexo, demandando várias diligências, inclusive pedidos da defesa de produção de provas periciais. Sem contar que os autos aguardam apenas a continuidade da audiência de instrução para oitiva de mais uma testemunha e o interrogatório do réu.
+Não foi outra a opinião do Ministério Público Federal, em seu parecer, da lavra da Subprocuradora-Geral da República Samantha Chantal Dobrowolski, o qual também adoto como razões de decidir (fls. 521/529).
+Nesse contexto, tenho que não ficou demonstrada a existência de ilegalidade a justificar o provimento do recurso neste momento.
+Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, em consonância com o parecer ministerial e precedentes, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO TENTADO. EXCESSO DE PRAZO. IMPULSIONAMENTO DO FEITO DE FORMA REGULAR. INSTRUÇÃO PROCESSUAL EM ANDAMENTO. AUSÊNCIA DE ATO PROCRASTINATÓRIO POR PARTE DAS AUTORIDADES PÚBLICAS. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL INEXISTENTE. PARECER ACOLHIDO.
+Recurso em habeas corpus improvido.
