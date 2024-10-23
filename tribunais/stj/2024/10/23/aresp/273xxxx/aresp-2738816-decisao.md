@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de Agravo apresentado pela DEFENSORIA PÚBLICA DO ESTADO DE MATO GROSSO DO SUL à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+EMBARGOS DE DECLARAÇÃO OPOSTOS PELA DEFENSORIA PÚBICA ESTADUAL CONTRA ACÓRDÃO DE RETRATAÇÃO REALIZADO EM RECURSO DEVOLVIDO PELA VICE PRESIDÊNCIA PARA APLICAÇÃO DO TEMA N.º 1.002, DO STF - RETRATAÇÃO EXERCIDA PARA ESTENDER A VERBA HONORÁRIA FIXADA NA SENTENÇA, COM IMPUTAÇÃO DE PAGAMENTO EXCLUSIVAMENTE AO MUNICÍPIO, E RATEIO ENTRE AMBOS OS ENTES PÚBLICOS VENCIDOS - AÇÃO QUE ENVOLVE QUESTÃO DE SAÚDE, SUJEITA À SOLIDARIEDADE CONSTITUCIONAL ENTRE OS ENTES ESTATAIS - VERBA HONORÁRIA DESTINADA A REMUNERAR O TRABALHO DESENVOLVIDO NO PROCESSO COMO UM TODO, E NÃO APENAS EM RELAÇÃO A UM LITISCONSORTE ESPECÍFICO - VERBA ÚNICA, QUE ATINGE TODOS OS VENCIDOS, E QUE DEVE SER SUPORTADA IGUALMENTE POR ELES, COM RATEIO DE SEU PAGAMENTO - DESTINAÇÃO DOS VALORES DEVIDOS PELO ESTADO APENAS PARA O APARELHAMENTO DA DEFENSORIA PÚBLICA, VEDADO O RATEIO ENTRE OS SEUS INTEGRANTES - QUESTÃO SUFICIENTEMENTE EXPLANADA E QUE NÃO DEIXA QUALQUER DÚVIDA - EMBARGOS DE DECLARAÇÃO REJEITADOS E CONSIDERADOS PROTELATÓRIOS, COM IMPOSIÇÃO DE MULTA.
+Devem ser rejeitados os embargos de declaração quando inexistentes erro, omissão ou contradição no acórdão, que bem explanou a impossibilidade de imposição de verbas honorárias distintas quando há litisconsórcio passivo e todos os litisconsortes são igualmente vencidos.
+Verificado que os embargos são meramente protelatórios e tem o desejo visível de causar confusão processual e obter, de forma ilícita, verba que é claramente indevida e em prejuízo da parte ex adversa, impõe-se tal declaração, com a consequente imposição de multa por litigância de má-fé.
+Quanto à controvérsia, a parte recorrente aduz ofensa aos arts. 1.022, 1.025 e 1.026, § 2º do CPC, no que concerne à inexistência de caráter protelatório nos embargos de declaração opostos perante o Tribunal a quo, porquanto almejavam o prequestionamento de matéria controvertida, devendo ser afastada a multa imposta, trazendo a seguinte argumentação:
+Com a devida vênia, consideradas as circunstâncias do caso concreto, a condenação da Recorrente ao pagamento de multa pela oposição de Embargos de Declaração viola o art. 1.022 do Código de Processo Civil, porquanto contraria a própria razão de ser dos aclaratórios, Recurso que possibilita suscitar a manifestação do Órgão jurisdicional acerca de matéria relevante para o julgamento e sobre a qual ainda não houve pronunciamento.
+Também, foi violado o art. 1.025, do Código de Processo Civil que possibilita ao jurisdicionado, por intermédio dos Embargos de Declaração, atender a requisito essencial à admissibilidade do Recurso Especial, notadamente se considerado o fato de que a oposição dos Embargos se deu também para fins de prequestionamento.
+ ..
+Assim, a aplicação da multa, por considerar protelatórios os Embargos de Declaração opostos para fins de prequestionamento também, nega vigência ao art. 1.026, §2º, do Código de Processo Civil, segundo o qual a imposição da penalidade deve se dar mediante decisão fundamentada.
+E, para reforçar o desacerto do v. Acórdão recorrido, no que tange à aplicação de multa, é válido destacar que o Superior Tribunal de Justiça já sumulou o entendimento de que "Embargos de Declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório" (Súmula nº 98 do STJ).
+Ademais, a Súmula 211 do Superior Tribunal de Justiça dispõe acerca da inadmissão de Recurso Especial quando a questão não apreciada pelo Tribunal a quo, portanto, cabível a oposição de Embargos de Declaração para suprir omissão no Acórdão. Assim, não são protelatórios, mas sim necessários para fins de prequestionamento.
+Dessa forma, o v. Acórdão embargado nega vigência aos artigos 1.022, 1025 e 1.026, §2º, do Código de Processo Civil, porquanto se trata de Recurso processual legítimo a fim de suscitar o pronunciamento do Órgão jurisdicional para fins de prequestionamento.
+Por fim, uma vez demonstrada a negativa de vigência de Lei Federal, notadamente quanto aos artigos 1.022, 1.025 e 1.026, §2 do Código de Processo Civil, pugnamos pelo provimento do Recurso Especial, com a consequente retirada da multa processual aplicada de forma arbitrária e infundada. (fls. 338-340).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Quanto aos embargos de declaração interpostos pela Defensoria Pública Estadual, também os rejeito e os declaro meramente protelatórios, com intuito de causa tumulto processual e prejuízo à parte adversa, impondo-lhe multa por litigância de má fé que fixo em 2% (dois por cento) sobre o valor atualizado da causam en favor do Estado.
+O acórdão de retratação bem elucidou a matéria concernente à impossibilidade de verbas honorárias distintas contra litisconsortes vencidos
+igualmente.
+A sentença fixou, de forma correta, condenação em verba honorária única.
+E obrigou o Município ao pagamento integral desta, tendo isentado disto o Estado por força da então vigente Súmula 421, do STJ.
+Como esta foi derrogada/revogada pela fixação do tema 1.002, do STF, a isenção deixou de existir.
+Diante disto, a condenação na verba honorária foi mantida, estendendo- se a obrigação de seu pagamento, por rateio, ao Estado.
+E como a sentença fixou a verba honorária em 10% sobre o vaor da causa e decotara a parte que, por rateio, caberia ao Estado, a este foi determinada a complementação, de tal sorte que deve pagar 5% do valor atualizado da causa.
+Isto está claro no acórdão.
+Aliás, é exatamente isto o que determina o CPC. Veja-se:
+Art. 87. Concorrendo diversos autores ou diversos réus, os vencidos respondem proporcionalmente pelas despesas e pelos honorários.
+§ 1.º A sentença deverá distribuir entre os litisconsortes, de forma expressa, a responsabilidade proporcional pelo pagamento das verbas previstas no caput .
+§ 2.º Se a distribuição de que trata o § 1.º não for feita, os vencidos responderão solidariamente pelas despesas e pelos honorários.
+O tema foi fixado pelo STF posteriormente ao julgamento do(s) recurso(s) originário(s).
+Daí porque sua aplicação não ofende a coisa julgada, de vez que o rejulgamento da matéria para sua aplicação é medida impositiva, explicitamente determinada pelo CPC.
+Os embargos interpostos busca modificar tal entendimento partindo de presunções indevidas e busca inseri-las no acórdão para, claramente, obter o que a lei não permite (fixação de duas verbas honorárias contra litisconsortes igualmente vencidos), e com evidente prejuízo ao Estado, que seria obrigado a pagar mais do que, efetivamente, foi reconhecido como devido.
+Isto importa em litigância de má-fé, que pode e deve ser imposta até de ofício, e mesmo contra quem litiga sob o pálio da gratuidade de Justiça.
+Destarte, ao tempo em que rejeito tais embargos de declaração, reputo-os meramente protelatórios e até atentatórios à dignidade da Justiça, e condeno a embargante, por tais razões, nas penas de litigância de má fé, contra ele fixando a multa correspondente à 2% (dois por cento) sobre o valor atualizado da causa, cujo pagamento deve ser revertido em favor do Estado de Mato Grosso do Sul. (fls. 267-268).
+Desse modo, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada no acórdão recorrido, quanto ao caráter protelatório dos embargos de declaração, exigiria a incursão no acervo fático-probatório dos autos, o que não é possível no Recurso Especial.
+Nesse sentido, o STJ já decidiu que "a análise do art. 1.026, § 2º, do CPC, que trata da multa por interposição de embargos de declaração protelatórios, demanda, na espécie, reexame do acervo fático-probatório dos autos. Assim, inviável a apreciação da tese, sob pena de violação da Súmula 7/STJ". (AgInt no REsp 1.835.027/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 11.2.2020.)
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.528.731/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 27.8.2020; AgInt nos EDcl no AREsp n. 1.138.645/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 23.3.2018; AgRg no REsp n. 1.192.745/PE, Rel. Ministro Og Fernandes, Sexta Turma, DJe de 21.3.2011.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
