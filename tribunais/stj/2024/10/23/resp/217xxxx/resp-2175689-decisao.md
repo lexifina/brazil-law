@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 196):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. DISPONIBILIZAÇÃO DE VAGA EM LEITO HOSPITALAR. PROCEDÊNCIA DO PEDIDO INICIAL. HONORÁRIOS DE SUCUMBÊNCIA. ARBITRAMENTO POR EQUIDADE. OBSERVÂNCIA À TABELA DE VALORES RECOMENDADOS PELA ORDEM DOS ADVOGADOS DO BRASIL. INTELIGÊNCIA DO ART. 85, §8º-A DO CPC. AUSÊNCIA DE ARGUMENTOS NOVOS. DECISÃO MANTIDA.
+1. Hipótese em que a decisão monocrática consignou que, em demandas que pleiteiam o fornecimento de tratamento médico pelo Estado, não é possível mensurar o proveito econômico obtido com a demanda, notadamente por se tratar de questões relativas ao direito constitucional à vida e à saúde.
+2. Estabelecida tal premissa, foi observada a inovação trazida pela Lei n. 14.365/2022, que incluiu o §8º-A no art. 85 do Código de Processo Civil. Fixou-se, então, com base na tabela de valores recomendados pelo Conselho Seccional da OAB, a verba honorária na importância de R$ 9.000 (nove mil reais). Precedentes deste Tribunal.
+3. Não há previsão legal que ampare o afastamento da condenação do Estado de Goiás ao pagamento de honorários de sucumbência. O art. 85 do Código de Processo Civil determina, sem ressalvas, que a sentença condenará o vencido a pagar honorários ao advogado do vencedor, cuja verba constitui direito do advogado e tem natureza alimentar, com os mesmos privilégios dos créditos oriundos da legislação do trabalho, vedada, inclusive, a compensação em caso de sucumbência parcial (§ 14).
+4. Ante a ausência de argumentos que corroborem com a reconsideração da decisão recorrida, pois em nada inovaram o feito, sua manutenção é medida que se impõe.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Em suas razões de recurso especial, sustenta ofensa ao artigo 85, § 8º, do CPC/2015, sob o argumento de que nos processos de judicialização de saúde, "não existe proveito econômico, mas o deferimento de uma prestação de saúde, devendo a fixação de honorários se dar de forma equitativa (art. 85, §8º) e nunca sobre o valor do tratamento (fl. 208).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 245-248.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso especial não comporta conhecimento.
+No que diz respeito à alegação de ofensa ao artigo 85, § 8º, do CPC/2015, o acórdão recorrido consignou o seguinte (fls. 199-200):
+Lado outro, a decisão recorrida consignou que, em casos como o presente - fornecimento de tratamento médico pelo Estado - a jurisprudência do Superior Tribunal de Justiça tem se posicionado no sentido de não ser possível estimar o proveito econômico da demanda, notadamente porque envolvem questões relativas ao direito constitucional à vida e à saúde  ..
+ ..
+Estabelecida tal premissa, foi observada a inovação trazida pela Lei n. 14.365/2022, que incluiu o §8º-A no art. 85 do Código de Processo Civil, com seguinte teor: "na hipótese do § 8º deste artigo, para fins de fixação equitativa de honorários sucumbenciais, o juiz deverá observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º deste artigo, aplicando-se o que for maior".
+Logo, em atenção ao resultado a ser obtido com a aplicação do limite mínimo de 10% sobre o valor da causa (R$ 80.000,00), a fixação no presente caso deve ter por baliza a Tabela de Honorários da OAB/GO. Fixa-se, então, o valor mínimo nela sugerido que, na hipótese dos autos (ação de obrigação de fazer em matéria de saúde, conforme item 21.1.3), corresponde à importância de R$ 9.000,00 (nove mil reais) (in https://www. oabgo.org.br/oab/tabela-de-honorarios, consulta em 22.2.2024). (grifo nosso)
+Ocorre que o recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
