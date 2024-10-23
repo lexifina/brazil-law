@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Jailson da Silva Teixeira - cumprindo pena privativa de liberdade de 2 anos e 4 meses de reclusão, em razão de condenação por furto qualificado (fl. 15), atualmente em regime semiaberto -, atacando-se o acórdão proferido pelo Tribunal de Justiça de São Paulo (fls. 28/38 - Agravo de Execução Penal n. 0004784-72.2024.8.26.0521), comporta pronto acolhimento.
+Com efeito, busca a impetração o afastamento da exigência de prévia realização de exame criminológico para análise do pedido de progressão - dispensada em primeiro grau (fls. 24/33 - Execução da Pena n 0001034-62.2024.8.26.0521, da Unidade Regional de Departamento Estadual de Execução Criminal (DEECRIM 10ª) da comarca de Sorocaba/SP) e exigido no acórdão hostilizado (fls. 28/38) -, ao argumento de que a alteração do art. 112, § 1º, da LEP, trazida pela Lei n. 14.843/2024, mostrou-se patentemente inconstitucional, pois fere de maneira categórica o princípio constitucional da individualização da pena (fl. 7).
+Da análise dos autos tem-se que a fundamentação do Tribunal estadual para cassar decisão o Juízo da execução penal e determinar submissão do paciente à realização de exame criminológico - há de se ter em vista que a r. decisão fora proferida em data posterior à vigência da Lei n. 14.843/2024 (29. 5.2024), motivo pelo qual atrai a sua incidência ao caso concreto em vista do princípio tempus regit actum (fl. 36) - está em desacordo com o entendimento desta Corte Superior (RHC n. 200.670/GO, de minha relatoria, Sexta Turma, julgado em 20/8/2024, DJe 23/8/2024).
+Em razão disso, concedo liminarmente a ordem a fim de cassar o acórdão hostilizado e restabelecer a concessão de progressão de regime deferida ao paciente na Execução da Pena n. 0001034-62.2024.8.26.0521, da Unidade Regional de Departamento Estadual de Execução Criminal (DEECRIM 10ª) da comarca de Sorocaba/SP.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CASOS COMETIDOS SOB ÉGIDE DA LEI ANTERIOR. PRECEDENTE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
