@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. IMPUTAÇÃO DO ART. 149 DO CP . PEDIDO CONDENATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Após analisar detidamente as provas dos autos (sobretudo o relatório de fiscalização extrajudicial), o TRF concluiu de forma motivada que não há comprovação da materialidade delitiva. Incidência da Súmula 7/STJ.
+2. Agravo regimen tal desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão monocrática que não conheceu do recurso especial (e-STJ, fls. 908-910).
+A parte agravante aduz, em síntese, que não incidiria ao caso a Súmula 7/STJ, pois " não há necessidade de revolvimento do conjunto probatório dos autos, porque o contexto fático está posto no acórdão recorrido, de modo que a questão demanda apenas sua revaloração" (e-STJ, fl. 917). Reitera que as circunstâncias fáticas descritas no aresto impugnado bastariam para demonstrar a materialidade e o dolo no delito do art. 149 do CP, impondo-se a condenação do réu.
+Pede, ao final, o provimento deste agravo regimental, para prover também o recurso especial.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. IMPUTAÇÃO DO ART. 149 DO CP . PEDIDO CONDENATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Após analisar detidamente as provas dos autos (sobretudo o relatório de fiscalização extrajudicial), o TRF concluiu de forma motivada que não há comprovação da materialidade delitiva. Incidência da Súmula 7/STJ.
+2. Agravo regimen tal desprovido.
+VOTO
+As alegações da parte agravante não são suficientes para alterar a decisão agravada, que deve ser mantida por seus próprios fundamentos.
+Como se constatou quando do julgamento monocrático, a Corte de origem constatou que não foi demonstrada pelo Parquet a prática de nenhuma conduta típica por parte do acusado, afastando a comprovação da própria materialidade delitiva. Veja-se (e-STJ, fls. 781-782):
+"Não obstante, no caso, o acervo probatório formado com a instrução, principalmente com o Relatório de Fiscalização (doc. 118610519 - fl. 16/49), não se mostrou hábil a demonstrar, com a necessária segurança para fundamentar uma condenação, que o réu tinha a intenção ou praticaram as condutas vedadas pelo art.149 do Código Penal, ainda que no contexto moderno de escravidão.
+ ..
+Não ficou demonstrado que trabalhadores foram forçados a trabalhar ou a cumprir jornadas extenuantes a contragosto, em condições degradantes de trabalho, ou que lhes tenha sido restringida a liberdade de locomoção, por dívida com o patrão ou pelo uso da força. Não se vê um cenário em que trabalhador é submetido a humilhação moral e econômica.
+Os alojamentos, vistos nas fotografias constantes do Relatório de Fiscalização (doc. 118610519 - fl. 16/49), não destoam dos demais encontrados na área rural, barracos de lona, com palhas de coqueiro, apoiadas em troncos rústicos de madeira de arvores e redes para dormir. A forma de alimentação, o tipo de água consumida, armazenada em recipientes de plástico, conforme alegado por alguns trabalhadores, são comuns na rotina do trabalho no meio rural, e embora não sejam adequadas sob o ponto de vista trabalhista  e para coibir isso o direito do trabalho possui instrumentos adequados, e devidamente utilizados no caso  não caracterizam por si o crime de submeter pessoas a condição análoga à de escravo, senão por uma negligência patronal, que, no entanto, não é punível pelo direito penal, já que o crime em comento só admite a forma dolosa.
+Dessa forma, o que se observa dos autos é a ocorrência de uma série de infrações trabalhistas, de caráter administrativo, comuns nas relações de trabalho do meio rural, que sujeitam o infrator às sanções aplicáveis no âmbito do Ministério do Trabalho e Emprego e do direito do trabalho, sem haver repercussão da conduta na esfera criminal.
+O desatendimento das exigências trabalhistas não se mostra suficiente para configurar a condição degradante, o trabalho forçado ou a jornada exaustiva, circunstâncias elementares do tipo penal em análise, que, uma vez demonstradas, podem, de fato, reduzir uma pessoa a condição análoga à de escravo.
+As irregularidades trabalhistas são passíveis de responsabilização por aquele ramo do direito, como de fato foram, mas não ensejam, de plano, a responsabilidade penal, pois esta exige, além da demonstração do nexo causal entre conduta e resultado, consciência e vontade, quando se tratar de crime doloso, como no caso".
+Como se percebe, o TRF concluiu motivadamente, à luz das provas dos autos, que os fatos aqui demonstrados não indicam condições degradantes de trabalho nem a existência de submissão por dívidas. Embora tenham sido detectadas irregularidades à luz da legislação trabalhista, a Corte de origem concluiu que nenhuma delas se amolda aos elementos objetivos do tipo penal, nem comprova o dolo do acusado.
+Idênticas, aliás, foram as conclusões do juízo de primeira instância, após seu contato direto com as provas produzidas na instrução (e-STJ, fls. 697-700):
+"Da análise das provas produzidas, conclui-se que não houve comprovação da existência de subjugação humana em razão de endividamento dos trabalhadores, ou seja, não foi demonstrado que os obreiros estavam submetidos ao denominado "sistema de servidão por dívidas".
+ ..
+Nesse contexto, não há que se falar em restrição de liberdade em função de aquisição
+de produtos pelos empregados a crédito do empregador ou por este fornecido, considerando a dificuldade dos próprios obreiros de irem à cidade fazerem suas compras diária e pessoalmente. Também não houve nenhuma prova no sentido de que as dívidas, geradas com o recebimentos dos alimentos ou bens estavam sendo usadas como forma de submissão dos trabalhadores como forma de servidão, pois nem os valores foram demonstrados como injustos ou abusivos pelo MPF, tampouco qualquer trabalhador reclamou que não conseguia ou mesmo desejava sair da fazenda, sob a alegação de que nada havia recebido de salário ou por se encontrar endividado.
+ ..
+No caso vertente, é inconteste que foram comprovadas algumas irregularidades trabalhistas; entretanto, apesar de que as condições ofertadas pelo réu não fossem as ideais, não se pode afirmar que os trabalhadores estavam subjugados a condições degradantes de trabalho, sob a ótica do direito penal".
+Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório (principalmente do relatório de fiscalização em que se pautam tanto o TRF como o recorrente), providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+Os próprios trechos do acórdão recorrido ora transcritos pelo agravante (e-STJ, fls. 918-919) confirmam esta conclusão, pois ali o TRF diz expressamente que, à luz das provas dos autos, "não ficou demonstrado que trabalhadores foram forçados a trabalhar ou a cumprir jornadas extenuantes a contragosto, em condições degradantes de trabalho, ou que lhes tenha sido restringida a liberdade de locomoção, por dívida com o patrão ou pelo uso da força" (e-STJ, fls. 918-919). Transcrever a narrativa da denúncia, como fez o agravante às fls. 919-920 (e-STJ), não altera essa constatação, porque o problema detectado pela Corte local não foi a deficiência na redação da imputação, mas sim na comprovação da hipótese fática alegada na exordial.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
