@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Alexander Silva - cumprindo pena de 6 anos e 6 meses de reclusão, em razão de condenação por roubo circunstanciado, resistência e corrupção de menor (fls. 116/117) -, atacando-se o acórdão proferido pelo Tribunal de Justiça de Santa Catarina (fls. 321/326 - Agravo de Execução Penal n. 8000784-31.2024.8.24.0008), comporta pronto acolhimento.
+Com efeito, busca a impetração restabelecer a decisão que concedera ao paciente direito à saída temporária - proferida na Execução da Pena n. 8000871-21.2023.8.24.0008 (fls. 147/150 - da Vara de Execuções Penais da comarca de Blumenau/SC) -, ao argumento de que o acórdão estadual, ao aplicar retroativamente a Lei n. 14.843/24 em relação à vedação de saídas temporárias a crimes hediondos e praticados com violência ou grave ameaça, violou o princípio da legalidade penal e também a garantia convencional ao caráter (res)socializador da pena (fl. 10).
+Do atento exame dos autos observo que foi demonstrado constrangimento ilegal no indeferimento da saída temporária, pois a fundamentação utilizada pela Corte estadual - por se tratar de norma proc essual (que estabelece as regras para a obtenção de benefício no âmbito penal) entendo que o caso em análise atrai a aplicação do princípio do tempus regit actum, de modo que o direito à saída temporária é disciplinado pela lei vigente à época da análise do requerimento, isto é, da aferição dos requisitos impostos pela legislação, ainda que a lei anterior seja mais benéfica (fl. 323) - está em desacordo com o entendimento desta Corte Superior (HC n. 932.864/SC, de minha relatoria, Sexta Turma, julgado em 10/9/2024, DJe 13/9/2024).
+Em razão disso, concedo liminarmente a ordem impetrada para, cassando o acórdão hostilizado, restabelecer a concessão de saída temporária ao paciente deferida na Execução da Pena n. 8000871-21.2023.8.24.0008, da Vara de Execuções Penais da comarca de Blumenau/SC.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. SAÍDA TEMPORÁRIA. APLICAÇÃO RETROATIVA DA LEI N. 14.843/2024. IMPOSSIBILIDADE. NOVATIO LEGIS IN PEJUS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
