@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2024 a 23/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. SÚMULA N. 182/STJ. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. ASPECTOS DESFAVORÁVEIS DESTACADOS NO EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO IDÔNEA. ATESTADO DE BOM COMPORTAMENTO CARCERÁRIO. INSUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não foram trazidos argumentos novos para a desconstituição da decisão agravada, limitando-se a reiterar as razões do habeas corpus, já examinadas e rechaçadas pela decisão monocrática, atraindo a Súmula n. 182/STJ, por violação ao princípio da dialeticidade.
+2. As instâncias ordinárias negaram o pedido de progressão de regime prisional, diante da ausência de cumprimento do requisito subjetivo do reeducando, consubstanciado não apenas na gravidade dos crimes cometidos e na ausência de falta grave nos últimos 12 meses, mas na existência de aspectos desfavoráveis destacados no exame criminológico do agravado.
+3. Esta Corte de Justiça entende que alguns aspectos negativos do parecer criminológico são suficientes para o indeferimento da progressão de regime.
+4. Ainda que haja atestado de boa conduta carcerária, diante da análise desfavorável do mérito do condenado, com base nas peculiaridades do caso concreto, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo. Precedentes.
+5. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental no habeas corpus interposto por MIGUEL JOSÉ ALEXANDRE DE MELO, contra decisão por mim proferida, que não conheceu do habeas corpus (e-STJ fls. 127/133).
+No presente agravo regimental, a Defesa do agravante repisa argumentos já postos na impetração, sustentando a ocorrência de constrangimento ilegal, uma vez que está preenchido o requisito subjetivo para concessão do benefício de progressão de regime, considerando o atestado de ótima conduta carcerária e a ausência de faltas disciplinares.
+Reforça a conclusão favorável do exame criminológico, reforçando a viabilidade do benefício.
+Postula, assim, a reconsideração da decisão agravada, c aso contrário, seja o agravo regimental submetido ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. SÚMULA N. 182/STJ. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. ASPECTOS DESFAVORÁVEIS DESTACADOS NO EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO IDÔNEA. ATESTADO DE BOM COMPORTAMENTO CARCERÁRIO. INSUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não foram trazidos argumentos novos para a desconstituição da decisão agravada, limitando-se a reiterar as razões do habeas corpus, já examinadas e rechaçadas pela decisão monocrática, atraindo a Súmula n. 182/STJ, por violação ao princípio da dialeticidade.
+2. As instâncias ordinárias negaram o pedido de progressão de regime prisional, diante da ausência de cumprimento do requisito subjetivo do reeducando, consubstanciado não apenas na gravidade dos crimes cometidos e na ausência de falta grave nos últimos 12 meses, mas na existência de aspectos desfavoráveis destacados no exame criminológico do agravado.
+3. Esta Corte de Justiça entende que alguns aspectos negativos do parecer criminológico são suficientes para o indeferimento da progressão de regime.
+4. Ainda que haja atestado de boa conduta carcerária, diante da análise desfavorável do mérito do condenado, com base nas peculiaridades do caso concreto, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo. Precedentes.
+5. Agravo regimental não provido.
+VOTO
+Inicialmente, destaco que, nas razões do agravo regimental, a Defesa do agravante não trouxe quaisquer argumentos novos para a desconstituição da decisão agravada, limitando-se a reiterar as razões do habeas corpus, já examinadas e rechaçadas pela decisão monocrática.
+A relação jurídico-processual pauta-se pela dialeticidade, cabendo à parte insatisfeita com o provimento jurisdicional impugnado demonstrar seu desacerto, sob pena de não conhecimento do recurso.
+Assim, é inafastável a incidência do verbete sumular n. 182/STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Assim, ante a inobservância do princípio da dialeticidade, o presente agravo não comporta conhecimento.
+Mesmo que se supere a falta da regularidade formal, o recurso não merece prosperar.
+Como já exposto na decisão agravada, as instâncias ordinárias negaram o pedido de progressão de regime prisional, diante da ausência de cumprimento do requisito subjetivo do reeducando, consubstanciado não apenas na gravidade dos crimes cometidos e na ausência de falta grave nos últimos 12 meses, mas na existência de aspectos desfavoráveis destacados no exame criminológico do agravado.
+Esta Corte de Justiça entende que alguns aspectos negativos do parecer criminológico são suficientes para o indeferimento da progressão de regime.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO AUSENTE. ASPECTOS DESFAVORÁVEIS EXTRAÍDOS DO EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO IDÔNEA. DESCONSTITUIR TAL ENTENDIMENTO IMPLICA REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA ELEITA INADEQUADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Com a nova redação dada ao art. 112 da Lei n. 7.210/1984 pela Lei n. 10.792/2003, suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas, como requisitos legais, o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+2. In casu, as instâncias ordinárias extraíram trechos desfavoráveis do exame criminológico para fundamentar o indeferimento da progressão de regime por ausência do requisito subjetivo. O aresto citou, ainda, faltas graves, inclusive abandono do regime intermediário e prática de novo delito quando beneficiado com livramento condicional. Tal providência encontra respaldo na jurisprudência desta Corte Superior. Precedentes.
+3. Desconstituir os fundamentos firmados pelas instâncias ordinárias, relativos ao não preenchimento do requisito subjetivo, implica revolvimento fático-probatório, providência vedada na via eleita.
+4. Agravo regimental desprovido, mantida a decisão agravada por seus próprios fundamentos .
+(AgRg no HC n. 879.269/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO INDEFERIDA. ASPECTOS DESFAVORÁVEIS EXAME CRIMINOLÓGICO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018) 2. A noção de bom comportamento do reeducando abrange a valoração de elementos que não se restringem ao atestado emitido pela direção carcerária, sob pena de transformar o juiz em mero homologador de documentos administrativos (AgRg no HC 660.197/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/08/2021, DJe 25/08/2021).
+3. A jurisprudência consolidada por esta Corte Superior de Justiça se orienta no sentido de que alguns aspectos negativos do parecer criminológico são suficientes para o indeferimento da progressão de regime.
+4. Situação em que o laudo psicológico foi desfavorável à concessão da benesse.
+5. Não há como se acolher a alegação defensiva de que o exame realizado pelo psicólogo seria excessivamente subjetivo e não estaria amparado em critérios palpáveis, seja porque a defesa não cuidou de trazer aos autos o inteiro teor do dito exame, seja porque a leitura dos trechos transcritos nos julgados das instâncias ordinárias revela que o psicólogo se valeu de indicadores do diagnóstico da Escala Hare (PCL-R) e da Prova de Rorschach, como referência para a indicação ou contraindicação do periciado ao cumprimento de pena em regime prisional mais brando, seja dizer, de métodos científicos.
+6. Inviável também a pretendida concessão de progressão ao regime semiaberto, condicionada à participação voluntária do executado em tratamento psicológico ou psiquiátrico, pois o pedido não encontra amparo em lei, sendo de se ressaltar que a Lei de Execuções Penais demanda o prévio preenchimento dos requisitos objetivos e subjetivos como condição para a progressão de regime. E, conforme salientado pelas instâncias ordinárias, o paciente não preencheu o requisito subjetivo.
+7. Agravo regimental desprovido (AgRg no HC n. 804.894/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/4/2023, DJe de 14/4/2023; grifamos).
+E, a despeito do atestado de conduta carcerária, eventualmente, constar ótimo comporta mento, esta Corte Superior de Justiça firmou orientação no sentido de que
+ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo (HC n. 468.765/RS, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 06/12/2018, DJe de 18/12/2018).
+Observa-se, portanto, que o  r ecurso  não  traz  argumentos  novos  capazes  de  alterar  o  entendimento  anteriormente  firmado.
+Ante o exposto, nego  provimento  ao  agravo  regimental.
+É  o  voto.
