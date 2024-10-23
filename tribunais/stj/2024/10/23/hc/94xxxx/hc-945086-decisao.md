@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GABRIEL OLIVEIRA DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Consta dos autos que o paciente foi preso preventivamente em 2020, nos autos da ação penal em que foi denunciado pela suposta prática dos crimes previstos nos arts. 121, § 2º, II e IV, e 121, § 2º, II e IV, c/c 14, II, do Código Penal.
+A parte impetrante sustenta a ocorrência de constrangimento ilegal, decorrente do excesso de prazo na manutenção da custódia cautelar, pois o paciente estaria segregado há mais de 4 anos e até o momento não haveria decisão de pronúncia, estando os autos conclusos para julgamento desde fevereiro de 2023, demora que não seria atribuível à defesa.
+Defende a superação da Súmula n. 52 do STJ, alegando que não haveria justificativa para a delonga, uma vez que a instrução processual já teria se encerrado e as defesas dos réus teriam diligenciado várias vezes sem que fossem adotadas as providências esperadas.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente, expedindo-se alvará de soltura em seu favor, ainda que de ofício.
+Por meio do despacho de fls. 57 e 58 foram solicitadas informações atualizadas ao Juízo da 1ª Vara Criminal da Comarca de Guarapari/ES. Em seguida, foram juntadas aos autos informações (fls. 63-103) e a manifestação do Ministério Publico Federal pelo não conhecimento do habeas corpus (fls. 107-108).
+É o relatório.
+A prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/04/2021, DJe de 30/04/2021.
+Sobre o tema, assim se manifestou o Tribunal local (ementa de fls. 9 e 10):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, INCISOS II E IV (VÍTIMA JOSENILTON) E 121, § 2º, INCISOS II E IV, C/C ART. 14, INCISO II, EM CONCURSO MATERIAL, DO CÓDIGO PENAL). INSTRUÇÃO PROCESSUAL ENCERRADA. SÚMULA 52, DO STJ. EXCESSO DE PRAZO NÃO CONFIGURADO. PRINCÍPIO DA CONFIANÇA NO JUIZ DA CAUSA. ORDEM DENEGADA.
+1. O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+2. Nada obstante seja possível reconhecer que a instrução criminal não tenha se desenvolvido no tempo desejável, visto que a prisão perdura há 04 (quatro) anos, o que é bastante considerável, tal lapso temporal não se revela excessivo, considerando a pena em abstrato prevista para o delito e, ainda, que se trata de um processo complexo, com 03 (três) denunciados. De mais a mais, da simples consulta da tramitação processual, verifica-se o escorreito desenvolvimento da persecução penal, não se constatando, portanto, qualquer morosidade processual imputável ao aparelho estatal.
+3. Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo, nos termos da Súmula 52, do Superior Tribunal de Justiça.
+4. À luz do princípio da confiança no Juiz da causa, não se pode olvidar da relevância do posicionamento do Juízo primevo quanto à manutenção da prisão, eis que, por estar mais próximo dos fatos, das partes envolvidas e dos elementos probatórios, este reúne melhores condições de analisar com maior segurança a presença do fumus comissi delicti e do periculum libertatis.
+5. Ordem denegada.
+Ainda, consoante as informações prestadas pelo Juízo de origem (fls. 63 e 64 ):
+Trata-se de denúncia em desfavor de William Severo da Silva Júnior, João Vitor Brandão de Oliveira e Gabriel Oliveira da Silva, imputando-lhe as condutas descritas nos artigos 121, §2º, II e IV (vítima Josenilton) e 121, §2º, II e IV, combinado com 14, inciso II, em concurso material, do Código Penal, conforme Denúncia de fls. 02/03-verso.
+Decisão proferida no dia 19/02/2020 às fls. 05/06, recebendo a denúncia, determinando a citação dos acusados e decretando a prisão preventiva dos acusados Gabriel e João Vitor.
+Citação à fl. 14.
+Resposta à acusação às fls. 26/27.
+Decisão proferida no dia 15/10/2020 à fl. 34/34-verso, ratificando o recebimento da denúncia e designando audiência de instrução e julgamento.
+Audiência realizada no dia 20/05/2021 à fl. 63/63-verso, na oportunidade em que foram inquiridas duas testemunhas arroladas pela acusação, sendo determinado a remessa dos autos ao MP para se manifestar sobre as testemunhas ausentes.
+Despacho designando audiência em continuação à fl. 71.
+Audiência realizada no dia 24/11/2021 à fl. 87/87-verso, na oportunidade em que foram interrogados os acusados, sendo determinado a remessa ao MP para se manifestar da testemunha ausente.
+Parecer ministerial se manifestando pela desistência das testemunhas ausentes às fls. 117/118.
+Alegações finais por memoriais da acusação requerendo a pronúncia dos acusados nos moldes da denúncia às fls. 122/125-verso.
+Alegações finais por memorais da defesa do paciente juntado no dia às fls. 127/131, requerendo a impronúncia.
+Despacho proferido no dia 12/09/2024, determinando que a serventia certifique-se em relação a existência da mídia da audiência do dia 20/05/2021, fl. 174.
+O feito encontra-se aguardando o cumprimento integral do despacho à fl. 174.
+Convém registrar, que a instrução criminal já se encerrou, ficando superada a alegação de constrangimento por excesso de prazo, nos termos da Súmula 52 do STJ.
+Entendo ser necessária a manutenção da prisão cautelar do acusado/paciente, pelos fundamentos contidos nas Decisões proferidas às fls. 05/06, 18/19, 119/120, 148/149 e 156/157. Entendo ainda, que não manter a prisão cautelar do paciente, causará uma indignação na sociedade e um grande descrédito no Poder Judiciário, irá gerar uma descrença na Justiça, uma insatisfação e insegurança na sociedade, fazendo crescer nos jurisdicionados o sentimento de impotência e a sensação de impunidade, e seria de certa forma, um incentivo a prática de novos crimes, uma vez que o paciente tem personalidade voltada para a prática de crimes, possuindo 02 (duas) condenações criminais, sendo uma pela pratica dos crimes de tráfico de drogas e outra pela prática do crime de tráfico de drogas e associação para o tráfico respondendo a outro processo criminal e possuindo uma evasão do Sistema Prisional, conforme documentação contida nos autos e consulta aos sistemas judiciais, havendo, pois, risco considerável de novas ações delitivas serem cometidas pelos mesmos.
+Registro que o fato do paciente possuir evasão do sistema prisional demonstra que não vem cumprindo de forma correta as penas impostas ao mesmo e que pretende se furtar da aplicação da lei penal, demonstrando ser necessária a mantença da prisão para assegurar a aplicação da lei penal.
+Como denotam as premissas fático-processuais, não se verifica desídia ou mora estatal na ação penal quando a sequência dos atos afasta a ideia de paralisação indevida do processo ou de responsabilidade do Estado persecutor, razão pela qual não há que se falar em ilegalidade por excesso de prazo, especialmente diante da atual movimentação processual.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E CONSUMADO. ORGANIZAÇÃO CRIMINOSA. MEDIDAS CAUTELARES. FUNDAMENTAÇÃO PER RELATIONEM. IMPRESCINDIBILIDADE DA MEDIDAS DEMONSTRADA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se configura desprovida de fundamentos a decisão que mantém as medidas cautelares impostas pelos mesmos fundamentos quando da sua decretação.
+2. A chamada técnica da fundamentação per relationem (também denominada motivação por referência ou por remissão) é reconhecida pelo Supremo Tribunal Federal como legítima e compatível com o disposto no art. 93, IX, da Constituição Federal.
+3. Diante das circunstâncias concretas do caso e em observância ao binômio proporcionalidade e adequação, é possível a manutenção das medidas cautelares quando se mostrarem necessárias para garantir a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal.
+4. Inexiste excesso de prazo nas hipóteses em que não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 160.743/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.)
+Destaca-se ainda que a instrução já se encontra encerrada, incidindo ao caso o enunciado 52 da Súmula do STJ, que dispõe que, "encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
