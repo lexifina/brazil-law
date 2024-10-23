@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2024 a 23/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser dessa causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+2. O Tribunal a quo - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica a atividades criminosas. Esse contexto fático afasta a pretendida incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+FERNANDO EZEQUIEL GRAU interpõe agravo regimental contra decisão de minha relatoria, em que deneguei o habeas corpus e mantive inalterada a reprimenda a ele imposta pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do regimental, a defesa reitera a sua compreensão de que estão devidamente preenchidos todos os requisitos necessários para a incidência do redutor descrito no § 4º do art. 33 da Lei n. 11.343/2006.
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja revista a pena.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser dessa causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+2. O Tribunal a quo - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica a atividades criminosas. Esse contexto fático afasta a pretendida incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão. Mantenho, assim, a decisão agravada por seus próprios fundamentos.
+O escopo da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, cometendo um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "a mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06" (HC n. 202.617/AC, Relator Ministro Adilson Vieira Macabu (Desembargador convocado do TJ/RJ), 5ªT., DJe 20/6/2011).
+Por isso mesmo, para a aplicação da minorante em comento, são exigidos, além da primariedade e dos bons antecedentes, a não integração em organização criminosa e a não dedicação a atividades delituosas.
+Nos autos em exame, a Corte de origem deixou de aplicar o benefício com base nas circunstâncias do caso concreto, que evidenciavam, através do conteúdo das interceptações telefônicas, que o réu fazia do tráfico seu meio de vida, inclusive com comercialização e trocar por veículos lícitos e ilícitos.
+Consoante se observa, o privilégio não foi afastado exclusivamente com base na quantidade de drogas apreendidas, mas sobretudo com base na gravidade concreta do delito cometido pelo réu, "a indicar a sua habitualidade e o envolvimento com atividades criminosas, evidenciadas, ademais, pelo conteúdo das interceptações telefônicas levadas a efeito" (fl. 58).
+Ademais, os maus antecedentes do réu não foram afastados e nem sequer questionados nas instâncias ordinárias, circunstância judicial desfavorável capaz de afastar, de per si, o privilégio.
+Sobre este ponto, saliento que o pleito de desconsideração dos maus antecedentes não foi examinado no feito originário pela Corte estadual.
+Evidencia-se, assim, a incompetência deste Superior Tribunal de Justiça para apreciar e julgar originariamente este pedido, dada a falta de prévia manifestação do Tribunal a quo. Assim, mostra-se inviável a análise da matéria diretamente por este Superior Tribunal, sob o risco de se incorrer em indevida supressão de instância.
+Assim, para entender de modo diverso e afastar a conclusão das instâncias ordinárias - com eventual aplicação da minorante -, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência que, como cediço, é vedada na via estreita do habeas corpus.
+Nesse sentido, vale mencionar o HC n. 177.312/AC (6ª T., DJe 13/8/2013), em que a Relatora Ministra Maria Thereza de Assis Moura asseverou que: "fixado na sentença condenatória e no acórdão da apelação, com base nos fatos, que o paciente se dedica a atividades criminosas (.. já que o mesmo confessou que possui uma "bocada" na cidade de Capixaba há 01 (um) ano, conforme depoimento de fl. 10..), é inviável o reconhecimento da minorante, pois não atende aos requisitos previstos na lei, conclusão que não pode ser alterada na via eleita, por demandar revolvimento fático-probatório".
+À vista do exposto, nego provimento ao agravo regimental.
