@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA RIOGRANDENSE DE SANEAMENTO - CORSAN contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, o qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 335):
+APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. IRREGULARIDADES NA ESTAÇÃO DE BOMBEAMENTO DE EFLUENTES (EBE). FALHAS NÃO IMPUTÁVEIS À PARTE AUTORA. ESTAÇÃO REGULARIZADA PELA COMPANHIA RIOGRANDENSE DE SANEAMENTO - CORSAN NO CURSO DA LIDE. PERDA DE OBJETO. ENCARGOS SUCUMBENCIAIS ATRIBUÍDOS EXCLUSIVAMENTE À RÉ. PRINCÍPIO DA CAUSALIDADE.
+1. Caso em que as intercorrências técnicas verificadas na estação de bombeamento de efluentes (EBE), instalada de acordo com as especificações técnicas aprovadas pela Companhia Riograndense de Saneamento - CORSAN, não são imputáveis à parte autora, o que é corroborado pela atitude superveniente da própria Companhia, que no curso do presente feito, espontaneamente, regularizou a referida estação, atendendo, assim, à pretensão autoral e esvaziando o objeto da lide. Encargos sucumbencias que, em concreto, devem ser impostos exclusivamente à CORSAN, por força do princípio da causalidade (artigo 85, § 10, do CPC/2015).
+2. Processo extinto, sem resolução de mérito, na origem, com base no artigo 485, VI, do CPC/2015.
+APELAÇÃO PROVIDA.
+Embargos de declaração rejeitados (e-STJ fl. 361).
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 489, § 1º, IV e 1.022, II, e parágrafo único, II, do CPC/2015, aduzindo, preliminarmente, a nulidade do julgado por ausência de fundamentação e por negativa de prestação jurisdicional.
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Em relação à alegada ofensa dos arts. 489 e 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, desprovido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+No caso, o Tribunal a quo decidiu a controvérsia acerca da distribuição do ônus sucumbencial, nos seguintes termos (e-STJ fls. 332/334):
+Assentadas essas premissas, resto convencido de que os encargos sucumbenciais deve m  ser impostos exclusivamente à CORSAN, por força do princípio da causalidade.
+(..)
+Pela redistribuição dos encargos sucumbenciais, ao efeito de que eles sejam imputados somente à ré, em razão de figurar como responsável pela instauração e desenvolvimento deste processo, converge o parecer do eminente Procurador de Justiça, Dr. ANÍZIO PIRES GAVIÃO FILHO.
+Ante o exposto, voto por dar provimento à apelação, ao efeito de imputar exclusivamente à parte ré os encargos sucumbenciais, devendo ela responder pelas custas e despesas processuais, bem como honorários advocatícios ao patrono do autor, fixados em 10% sobre o valor atualizado da causa.
+A parte recorrente opôs embargos de declaração de e-STJ fls. 346/348, onde alegou ter havido omissão no julgado, que não teria abordado a questão relacionada à sucumbência recíproca. O Tribunal local rejeitou a alegação de que houve omissão (e-STJ fl. 359):
+É importante notar que, no laudo técnico, o perito também consignou que as duas bombas atualmente presentes na estação de bombeamento de efluentes (EBE) foram instaladas somente em 20 de outubro de 2021 e em 26 de julho de 2022 -, ao passo que a presente demanda fora ajuizada na origem em 22 de janeiro de 2019.
+Ou seja, CORSAN, espontaneamente, regularizou a estação de bombeamento de efluentes (EBE), embora com inaceitável atraso, pois que a inércia, sem qualquer justificativa, se estendeu por mais de três anos, mesmo depois de ajuizada a presente demanda cominatória.
+Evidenciada, pois, a desídia da ré em não reinstalar, em tempo hábil, os equipamentos da estação de bombeamento de efluentes (EBE), motivando, com tal inércia, o ajuizamento da ação. Por conseguinte, os encargos sucumbenciais devem ser impostos exclusivamente à ré, como dita o princípio da causalidade, consagrado no artigo 85, § 10, do CPC/2015.
+(..)
+Portanto, constata-se das razões dos embargos que a parte embargante não se ateve à leitura da íntegra da decisão, em que se realizou minucioso exame das questões fático-jurídicas suscitadas no feito e assim cumprindo o dever de fundamentação próprio das decisões judiciais.
+Vale dizer, identifica-se nos embargos apenas o propósito de rediscutir a questão e obter um novo pronunciamento deste Colegiado, o que não encontra amparo no art. 1.022 do CPC, para tanto não se prestando a via aclaratória.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como ev entual concessão da gratuidade da justiça.
+Publique-se . Intimem-se.
+ EMENTA
