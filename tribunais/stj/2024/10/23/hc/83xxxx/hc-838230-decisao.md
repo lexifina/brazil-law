@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de REGINALDO FERREIRA DA SILVA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, que deu provimento ao recurso do Ministério Público para cassar a decisão do Tribunal do Júri de desclassificação da conduta de homicídio tentado para lesão corporal (Ação Penal n. 0001031-02.2018.8.17.0220, da 1ª Vara Criminal da comarca do Arcoverde/PE).
+Alega-se que o acórdão impugnado feriu o princípio da soberania dos veredictos ao cassar a decisão dos jurados.
+Requer-se, em caráter liminar, o sobrestamento dos efeitos desse julgado e, no mérito, pede-se a concessão da ordem determinando a manutenção da desclassificação da conduta imputada ao paciente.
+O pedido liminar foi indeferido pelo então Vice-Presidente do Superior Tribunal de Justiça (fls. 46/47).
+Depois de prestadas informações (fls. 57/76), o Ministério Público Federal emitiu parecer não conhecimento do writ (fls. 81/86).
+Novas informações chegaram aos autos dando notícia de que o feito se encontra na fila para designação da sessão de julgamento pelo Tribunal do Júri daquela comarca, sem uma data prevista, dado a prioridade de tramitação nas ação penais que envolvem réus presos ou mais antigos que a atual ação penal (fl. 110).
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre, dada a necessidade de amplo reexame do conjunto fático-probatório do processo principal para se chegar à conclusão pretendida pela impetrante.
+Estes foram os motivos declinados pelo Tribunal de origem para a solução adotada (fls. 34/38):
+Os vídeos das câmeras de segurança do posto de gasolina, local em que teve inicio disparos (mídia de fl. 119) revelam que o apelado chegou ao local e foi caminhando na direção da vitima, a qual estava relativamente distante. No percurso, alguém tenta segurá-lo, puxando seu braço esquerdo. O réu se desvencilha e continua a caminhada, sacando a arma de fogo da cintura, com a mão direita, e iniciando os disparos contra a vitima, que foge correndo. O apelado, então, corre atrás do ofendido e continua a efetuar disparos.
+Os vídeos não registraram agressões ao réu. Ao contrário do afirmado por ele em juízo, não houve pessoas indo em direção a ele.
+O réu é que caminhou em direção às pessoas, a fim de se aproximar da vítima.
+A afirmação de que atirou em direção ao chão também não se sustenta. Todos os disparos foram em direção à vítima.
+A afirmação de que os disparos ocorreram num bar também não está de acordo com os vídeos, os quais revelam que os fatos aconteceram em um posto de gasolina.
+O exame traumatológico realizado no réu (fl. 11) não aponta lesões à sua integridade corporal.
+A análise conjunta das provas acostadas aos autos não indica atuação amparada pelo âmbito da legítima defesa.
+Sequer é viável acolher a tese de legítima defesa putativa, eis que o réu é que foi ao encontro da vítima, a qual estava em ambiente diverso, sem oferecer qualquer perigo, conforme análise dos vídeos das câmeras de segurança.
+Por fim, o fato de o réu ter perseguido a vítima, após iniciar os disparos, indica que a sua intenção não era apenas de afugentá-la ou feri-la, não tendo o homicídio se consumado por circunstâncias alheias à sua vontade (erro de pontaria e chegada dos policiais).
+Assim, há razão para o pleito de cassação do veredicto do júri por ter sido a decisão manifestamente contrária à prova dos autos, visto que os elementos probatórios apontam com clareza a materialidade e a autoria do crime de homicídio tentado.
+É que agindo como agiu, o réu deu início à execução da morte da vítima, que somente não se consumou por circunstâncias alheias à sua vontade.
+Sobre a questão assim se manifestou o Subprocurador-Geral da República Roberto Luis Oppermann Thome (fl. 86):
+ ..
+Nesse contexto, indene a dúvidas ter sido o veredito do corpo de jurados manifestamente contrário à prova dos autos não encontrando-se amparada versão contrária a que fora produzida na instrução do feito na(s) instância(s) jurisdicional(is) ordinária(s) competente(s).
+Não há como albergar a tese da diligente Defensoria Pública local de pretensa violação a princípio da soberania dos vereditos do Tribunal do Júri inserto no artigo 5º, inciso XXXVIII, alínea c, da CF/88 por revelar-se - com máximo respeito - pífio e despiciendo o argumento de que "a vítima somente foi atingida por um disparo nas nádegas (região não letal) e o paciente ainda tinha 01 munição intacta na arma. Ou seja, o paciente mirava pra baixo, o que demonstra seu dolo de apenas lesionar" (sic, e-STJ, fl. 4, gizado), ou de que houvera a decisão dos jurados acolhido uma das versões trazidas pelas partes e/ou defesa, por patente não amparada no conjunto probatório produzido a desclassificação indevida havida, comprovado ictu oculi o animus necandi do réu apenado ora paciente que munindo-se de artefato LETAL (arma de fogo) efetuara diversos disparos contra vítima ainda quando tentara fugir, não se consumando a morte do ofendido por circunstâncias alheias à vontade do réu ora paciente.
+Dessarte, não se vislumbra ilegalidade e/ou nulidade no acórdão atacado e nem violação alguma a princípios constitucionais processuais penais, em especial quanto à soberania dos vereditos, tanto que determinado pelo Tribunal local revisional competente submissão do réu apenado ora paciente a novo julgamento pelo Tribunal do Júri local, sendo descabido conhecer habeas corpus substitutivo que imprescinde(ria) de percuciente reanálise de matéria fático-probatória o que se mostra impossível em respeito aa jurisdição e seus limites (sendo o de que ora se trata conhecido exatamente por "competência"), não podendo-se tomar esta Corte Superior por - e tampouco crível venha autoconvolar-se em - mais uma instância jurisdicional ordinária.
+Com efeito, a pretensão da defesa não encontra amparo na cognição do writ constitucional. É inadmissível, neste âmbito, o reexame das circunstâncias do crime, dos registros feitos por câmera de segurança, dos testemunhos ou de qualquer outra prova para a inversão do julgado proferido pela Corte estadual.
+Além do parecer ministerial, por todos, por exemplo, este precedente: AgRg no HC n. 653.008/AL, Ministra Laurita Vaz, Sexta Turma, DJe 19/12/2022.
+Pelo exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. HOMICÍDIO TENTADO. PRETENSÃO DE DESCLASSIFICAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. OFENSA À SOBERANIA DO TRIBUNAL DO JÚRI. INEXISTÊNCIA. ALTERAÇÃO DO JULGADO. DESCABIMENTO. PARECER ACOLHIDO.
+Writ denegado.
