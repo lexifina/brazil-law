@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. REGIME INICIAL FECHADO. NÃO DEMONSTRAÇÃO PATENTE DA DETRAÇÃO PARA O SEMIABERTO. DOENÇA GRAVE. NÃO COMPROVADA. PEDIDO DE EXPEDIÇÃO PREMATURA DA GUIA DE EXECUÇÃO DEFINITIVA. FLAGRANTE ILEGALIDADE NÃO COMPROVADA IN CASU. NO MAIS, NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - A jurisprudência desta Corte admite a expedição da guia de execução definitiva ainda antes do cumprimento do mandado prisional para o início da condenação ao regime fechado. No entanto, trata-se de hipótese excepcional, quando circunstâncias fáticas, concretas, indicarem que a prisão do sentenciado possa vir a ser excesso na execução penal. Precedentes.
+III - No mais, assente nesta Corte Superior que o habeas corpus não se presta para a apreciação de alegações que demandem o revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARIA APARECIDA NEVES FERREIRA contra a decisão que denegou a ordem de habeas corpus.
+Consta dos autos que a agravante foi condenada definitivamente pelo crime de associação para o tráfico, à pena privativa de liberdade de 4 anos e 6 meses, em regime inicial fechado.
+Nas razões do presente recurso, a defesa assere que não resta dúvida de que houve restrição de horário à agravante durante o período em que respondeu em liberdade, assim como foi destacado que a liberdade se deu pela certidão de nascimento dos filhos, caracterizando, no seu entender, a necessidade de prisão domiciliar.
+Aduz que, se existe uma possibilidade de detração penal em favor da agravante, não se faz justo aprisioná-la para depois ser feita a análise penal.
+Informa que a agravante tem 52 anos de idade, é primária, sem antecedentes, com dois filhos (que, embora maiores de 12 anos, ainda são menores de idade), que faz tratamento de saúde.
+Invoca que é essencial aos cuidados dos filhos, tendo em vista o óbito dos pais das crianças.
+Requer, ao final, a reconsideração da decisão monocrática ou que o presente agravo seja conhecido e provido pela Turma julgadora, objetivando a concessão da ordem pretendida, para que seja expedida guia de execução incondicionada à prisão.
+O Ministério Público Federal manifestou ciência da decisão, à fl. 82.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. REGIME INICIAL FECHADO. NÃO DEMONSTRAÇÃO PATENTE DA DETRAÇÃO PARA O SEMIABERTO. DOENÇA GRAVE. NÃO COMPROVADA. PEDIDO DE EXPEDIÇÃO PREMATURA DA GUIA DE EXECUÇÃO DEFINITIVA. FLAGRANTE ILEGALIDADE NÃO COMPROVADA IN CASU. NO MAIS, NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - A jurisprudência desta Corte admite a expedição da guia de execução definitiva ainda antes do cumprimento do mandado prisional para o início da condenação ao regime fechado. No entanto, trata-se de hipótese excepcional, quando circunstâncias fáticas, concretas, indicarem que a prisão do sentenciado possa vir a ser excesso na execução penal. Precedentes.
+III - No mais, assente nesta Corte Superior que o habeas corpus não se presta para a apreciação de alegações que demandem o revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+Agravo regimental desprovido.
+VOTO
+No presente recurso, como dito, a agravante reitera argumentos lançados anteriormente e pede a reversão do julgado ora agravado. Da decisão impugnada, entretanto, colhe-se que analisou de forma devidamente fundamentada os pontos apresentados.
+No que tange ao pedido de expedição da guia de execução definitiva da pena independentemente da prisão da agravante, ressalto que, nos termos da legislação em vigor, especialmente do art. 674 do Código de Processo Penal e do art. 105 da Lei de Execução Penal, a guia de recolhimento será expedida após o trânsito em julgado da sentença, quando o réu estiver ou vier a ser preso.
+Assim, como regra, não há como se pleitear benefícios que podem ser obtidos durante o cumprimento da pena, se esta sequer se iniciou, fazendo-se necessário o recolhimento prévio do condenado à prisão, para que seja, então, expedida a guia de execução definitiva e tenha início a competência do juízo das execuções, conforme vem entendo esta Corte.
+Muito embora, em casos excepcionais, este Tribunal até admita a expedição da guia de execução sem o cumprimento do mandado de prisão, quando esta espera puder configurar grande gravame ao apenado. Assim, verifica-se que o acórdão combatido, no ponto, está em consonância com a legislação de regência e entendimento desta Corte.
+Ilustrativamente:
+"A jurisprudência desta Corte admite a expedição da guia de execução antes do cumprimento do mandado prisional. Contudo, somente em casos específicos e excepcionais, em situações nas quais as circunstâncias fáticas e concretas indiquem que a prisão do sentenciado possa vir a ser excessivamente gravosa. Na hipótese dos autos, a instância ordinária foi enfática em destacar que "a impetração não logrou demonstrar que o paciente se encaixa em qualquer hipótese excepcional, o que permitiria a expedição da guia de recolhimento sem cumprimento do mandado de prisão em caráter de exceção, como entende o Superior Tribunal de Justiça" (fl. 1.698)" (AgRg no HC n. 796.470/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 4/10/2023).
+"O art. 674 do Código de Processo Penal e o art. 105 da Lei de Execução Penal são expressos ao dispor que a guia de recolhimento para a execução penal somente será expedida após o trânsito em julgado da sentença que aplicar pena privativa de liberdade, quando o réu estiver ou vier a ser preso. Precedentes. Embora em casos excepcionais este Tribunal admita a expedição da guia de execução provisória sem o cumprimento do mandado de prisão, quando essa configurar grande gravame ao apenado, essa situação não restou devidamente demonstrada no presente caso" (AgRg no HC n. 775.631/SP, Quinta Turma, de minha relatoria, DJe de 2/10/2023).
+Na hipótese dos autos, contudo, o Tribunal de origem salientou não ser a hipótese de concessão excepcional da ordem no caso concreto.
+No que atine à doença grave, como já explicado na decisão, a defesa não comprovou o estado da agravante (ou mesmo a própria real condição da doença), seja pela natureza benigna constante dos exames, seja pelos documentos ilegíveis acostados.
+Sobre os filhos, embora apontados como menores de idade, não são crianças, pois estariam com "13 anos e uma adolescente de agora 18 anos" (fl. 6, grifei).
+Acerca da detração pela liberdade provisória mediante recolhimento domiciliar noturno, apesar de hoje plenamente possível (HC 455.097/PR, Terceira Seção, Relª. Minª. Laurita Vaz, DJe de 7/6/2021), no caso de conversão em horas, não reflete a fixação patente e imediata de regime menos gravoso.
+Nesse contexto, aliás, a presente instrução nada permite concluir (fl. 78):
+"No caso concreto, contudo, como existe ainda a obrigação de conversão em horas e até mesmo pela impossibilidade de apreciar os autos de origem, seja pela não juntada aqui, seja pela necessidade de revolvimento de fatos e provas, não se pode extrair a certeza necessária à concessão da ordem."
+De mais a mais, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório (AgRg no HC n.817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Diante disso, não se constatou a flagrante ilegalidade apontada.
+No mais, o presente agravo limitou-se a reiterar as teses do habeas corpus, deixando de refutar, ponto por ponto, os argumentos da decisão guerreada, caso em que tem aplicabilidade o disposto na Súmula n. 182, STJ:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada. "
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos (AgRg no HC n. 819.078/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 15/6/2023).
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É como voto.
