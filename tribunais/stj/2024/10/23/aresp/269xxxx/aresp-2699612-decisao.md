@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo interposto por ALINE ESTACIO RIBEIRO DE MATTOS contra decisão que inadmitiu recurso especial (e-STJ, fls. 85-90) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 22):
+Agravo de instrumento. Execução de título extrajudicial. Alegação de bloqueio de quantia depositada em conta-poupança. Decisão agravada que indefere pedido de liberação do valor, afastando a impenhorabilidade de até quarenta salários mínimos prevista no art. 833, inciso X, do CPC. Manutenção. Movimentações financeiras indicando que, apesar de oficialmente se tratar de conta-poupança, é utilizada como conta-corrente. Sucessivas transferências e pagamentos que abarcaram todos os valores anteriormente depositados. Inaplicabilidade da vedação à penhora. Jurisprudência desta Corte. Negado provimento ao recurso.
+Nas razões recursais, a recorrente alegou, com base nas alíneas a e c do permissivo constitucional, divergência jurisprudencial e violação ao art. 833, X, do CPC/2015.
+Sustentou a ilegalidade da penhora dos valores depositados em sua conta poupança.
+Afirmou que a lei garante proteção à quantia de até 40 (quarenta) salários mínimos.
+Frisou que "a abrangência da regra do violado art. 833, X, do CPC/2015 se estende a todos os numerários poupados pela parte executada, até o limite de 40 (quarenta) salários mínimos, não importando se depositados em poupança, conta- corrente, fundos de investimento ou guardados em papel-moeda" (e-STJ, fl. 41).
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 85-90).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 108-116).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da tese defendida pela recorrente, o Tribunal de origem assim se manifestou (e-STJ, fls. 23-24):
+Nos autos originários, executam-se vinte e seis notas promissórias assinadas pela agravante vinculadas a instrumento de confissão de dívida, restando pendente o débito atualizado de R$ 13.438,67 (index 157/158).
+Às fls. 168 e 177/179 (index 168 e 177) foi noticiado o bloqueio, via SISBAJUD, na conta bancária da executada junto à Caixa Econômica Federal, alcançando montante de R$ 1.000,77.
+De acordo com o art. 833, inciso X, do CPC/2015, é absolutamente impenhorável a quantia depositada em caderneta de poupança até o limite de quarenta salários mínimos.
+A poupança, como se sabe, é um dos investimentos financeiros mais tradicionais e é utilizada, tão somente, quando se busca formar uma reserva financeira garantindo a manutenção do valor da moeda.
+Em outras palavras, o intuito é guardar dinheiro, propósito este que não se verifica no caso em tela, em que a conta-poupança sobre a qual recaiu a constrição, diante do que está nos autos, possui característica de verdadeira conta-corrente.
+A executada juntou aos autos o extrato de fls. 171 (index 170), que, indicando as movimentações financeiras dos últimos trintas dias, demonstra que foi depositada a quantia de R$ 2.000,00 em 20/01/2023.
+Em seguida, na mesma data, foram realizadas duas transferências via Pix, nos valores de R$ 100,00 e 1.850,00.
+Após, em 02/02/2023, houve o débito sob a rubrica "CP PREPAGO" de R$ 20,00 e, na sequência, duas transferências de R$ 17,11 e 13,00, que praticamente zeraram a conta bancária. Por fim, em 10/02/2023, novo depósito de R$ 1.000,00, sobre o qual recaiu o bloqueio judicial.
+Desta forma, correta a decisão agravada que, excepcionalmente, afastou a proteção conferida por lei à verba depositada em conta poupança.
+Da citada passagem, depreende-se que o Tribunal estadual entendeu que a garantia da impenhorabilidade dos valores de até 40 (quarenta) salários mínimos limita-se às aplicações financeiras depositadas em conta poupança.
+Ainda segundo o Tribunal local, movimentações constantes e regulares descaracterizam a aplicação como depósitos em caderneta de poupança.
+Contudo, o posicionamento adotado pelo Tribunal de origem diverge da orientação jurisprudencial do Superior Tribunal de Justiça, a qual se manifesta no sentido de que são impenhoráveis os valores do devedor, seja em caderneta de poupança, conta-corrente, fundo de investimentos ou em papel-moeda, até o limite de 40 (quarenta) salários mínimos.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ÔNUS DA PROVA. ART. 373 DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. QUANTIA INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. PRESUNÇÃO. IRRELEVÂNCIA DO TIPO DE APLICAÇÃO.
+1. Observa-se que o Tribunal de origem, ao negar provimento ao agravo de instrumento, limitou-se a abordar a questão da impenhorabilidade de valores até 40 salários mínimos, com expresso apontamento quanto à irrelevância de tal valores estarem em conta poupança, conta corrente ou mesmo investimento, sem abordar a específica questão do ônus da prova, com debate de tal questão à luz do art. 373 do CPC. Incidência da Súmula n. 211/STJ.
+2. O art. 833, X, CPC prevê, textualmente, a impenhorabilidade de valores abaixo de 40 salários mínimos depositados em caderneta de poupança. Todavia, há entendimento dominante nesta Corte acerca da impenhorabilidade dos depósitos inferiores a 40 salários mínimos em qualquer tipo de aplicação.
+3. Ao contrário do que insiste a parte agravante, a impenhorabilidade é regra presumida, que autoriza inclusive seu desbloqueio de ofício pelo magistrado, posto tratar-se matéria de ordem pública, e independentemente de manifestação da parte executada, cabendo ao exequente a demonstração de eventual abuso, má-fé ou fraude para legitimar a excepcional constrição.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.158.572/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. IMPENHORABILIDADE. PENHORA DE VALORES DEPOSITADOS EM CONTA BANCÁRIA. IMPENHORABILIDADE QUE SE ESTENDE ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS, INDEPENDENTEMENTE SE MANTIDOS EM CONTA CORRENTE, POUPANÇA OU FUNDOS DE INVESTIMENTOS. ART. 833, X, DO CPC/2015. AGRAVO INTERNO PROVIDO PARA, EM RECONSIDERAÇÃO, CONHECER DO AGRAVO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Nos termos da jurisprudência do STJ, "a proteção prevista no art. 833, X, do CPC não se dirige apenas ao saldo imobilizado em caderneta de poupança, de modo que a impenhorabilidade até o valor de 40 salários mínimos não faz distinção entre poupança, conta corrente, fundos de investimento, ou guardados em papel-moeda" (AgInt no REsp 1.229.639/PR, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 11/10/2016, DJe de 20/10/2016).
+2. Agravo interno provido, em juízo de reconsideração, a fim de conhecer do agravo para dar provimento ao recurso especial.
+(AgInt no AREsp n. 2.353.344/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/9/2023, DJe de 22/9/2023.)
+Ademais, segundo entendimento jurisprudencial do STJ, a simples movimentação atípica não é capaz de afastar, por si só, a garantia da impenhorabilidade.
+Confira-se:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. BLOQUEIO DE ATIVOS FINANCEIROS. QUANTIA INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE, INDEPENDENTEMENTE DO TIPO DE APLICAÇÃO FINANCEIRA. EQUILÍBRIO ENTRE INTERESSES E DIREITOS DO CREDOR E DO DEVEDOR. AGRAVO INTERNO NÃO PROVIDO.
+1. Interpretação extensiva consiste na ampliação da literalidade do texto, atribuindo-lhe sentido coincidente com as finalidades da norma e o contexto em que inserida. Não se confunde com interpretação contra legem.
+2. O art. 833, X, CPC prevê, textualmente, a impenhorabilidade de valores abaixo de 40 salários mínimos depositados em caderneta de poupança. Todavia, há entendimento dominante nesta Corte acerca da impenhorabilidade dos depósitos inferiores a 40 salários mínimos em qualquer tipo de aplicação: não há razão lógica ou jurídica para que a proteção se limite a determinado tipo de investimento, em detrimento de outro.
+3.A mitigação da impenhorabilidade das reservas financeiras inferiores a 40 salários mínimos ocorre nas hipóteses de má-fé ou fraude, o que não se caracteriza pela movimentação atípica, por si só. Precedentes.
+4. O art. 833, X, CPC busca preservar o necessário equilíbrio entre direito do credor à satisfação do crédito e direito do devedor à subsistência.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.989.782/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023.)
+Em linha de conclusão, o acórdão recorrido deve ser reformando, tendo em vista que o fundamento da decisão destoa da jurisprudência firmada neste Tribunal de Uniformização.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para afastar a penhora dos valores existentes na caderneta de poupança da parte recorrente, até o limite de 40 (quarenta) salários mínimos.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. IMPENHORABILIDADE. ART. 833, X, DO CPC/2015. CADERNETA DE POUPANÇA. MOVIMENTAÇÕES ATÍPICAS. RAZÃO INSUFICIENTE PARA AFASTAR A GARANTIA. PRECEDENTES DO STJ. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
