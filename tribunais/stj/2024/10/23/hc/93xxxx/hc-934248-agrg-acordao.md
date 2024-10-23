@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO PRÓPRIO. RECONHECIMENTO DE ILEGALIDADE FLAGRANTE. READEQUAÇÃO DA PENA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA APLICADA. PEQUENA QUANTIDADE DE ENTORPECENTE. ORDEM CONCEDIDA DE OFÍCIO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que concedeu ordem de habeas corpus de ofício em favor de Lindenberg da Silva Bezerra, condenado por tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006). O paciente foi condenado a 5 anos de reclusão e 500 dias-multa, em regime inicial semiaberto. A defesa alegou que a fração redutora da pena, prevista no art. 33, § 4º, da Lei de Drogas, foi inadequadamente fixada em 1/6, argumentando que a quantidade de droga apreendida (46 pedras de crack, pesando 4,32g) não justificaria a não aplicação da redução máxima de 2/3.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) a possibilidade de utilização do habeas corpus como sucedâneo de recurso próprio; (ii) a readequação da pena mediante a aplicação da fração máxima de 2/3, prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus, em regra, não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo quando verificada flagrante ilegalidade que cause constrangimento ilegal, hipótese que autoriza a concessão de ordem de ofício.
+4. No caso, houve fundamentação inidônea na fixação da pena-base, com indevida valoração negativa da culpabilidade e das consequências do crime, sem elementos concretos extraídos dos autos que justificassem o agravamento da pena.
+5. Quanto à aplicação da fração redutora do art. 33, § 4º, da Lei de Drogas, a jurisprudência desta Corte indica que, para pequenas quantidades de droga, como as 46 pedras de crack (4,32g), a redução máxima de 2/3 deve ser aplicada, dado que não há elementos que indiquem dedicação à atividade criminosa ou integração em organização criminosa.
+6. Assim, a pena é recalculada para 1 ano e 8 meses de reclusão, além de 167 dias-multa, com substituição da pena privativa de liberdade por duas penas restritivas de direitos.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 51/58).
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO PRÓPRIO. RECONHECIMENTO DE ILEGALIDADE FLAGRANTE. READEQUAÇÃO DA PENA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA APLICADA. PEQUENA QUANTIDADE DE ENTORPECENTE. ORDEM CONCEDIDA DE OFÍCIO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que concedeu ordem de habeas corpus de ofício em favor de Lindenberg da Silva Bezerra, condenado por tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006). O paciente foi condenado a 5 anos de reclusão e 500 dias-multa, em regime inicial semiaberto. A defesa alegou que a fração redutora da pena, prevista no art. 33, § 4º, da Lei de Drogas, foi inadequadamente fixada em 1/6, argumentando que a quantidade de droga apreendida (46 pedras de crack, pesando 4,32g) não justificaria a não aplicação da redução máxima de 2/3.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) a possibilidade de utilização do habeas corpus como sucedâneo de recurso próprio; (ii) a readequação da pena mediante a aplicação da fração máxima de 2/3, prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus, em regra, não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo quando verificada flagrante ilegalidade que cause constrangimento ilegal, hipótese que autoriza a concessão de ordem de ofício.
+4. No caso, houve fundamentação inidônea na fixação da pena-base, com indevida valoração negativa da culpabilidade e das consequências do crime, sem elementos concretos extraídos dos autos que justificassem o agravamento da pena.
+5. Quanto à aplicação da fração redutora do art. 33, § 4º, da Lei de Drogas, a jurisprudência desta Corte indica que, para pequenas quantidades de droga, como as 46 pedras de crack (4,32g), a redução máxima de 2/3 deve ser aplicada, dado que não há elementos que indiquem dedicação à atividade criminosa ou integração em organização criminosa.
+6. Assim, a pena é recalculada para 1 ano e 8 meses de reclusão, além de 167 dias-multa, com substituição da pena privativa de liberdade por duas penas restritivas de direitos.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 51/58):
+Trata-se de habeas corpus, substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de LINDENBERG DA SILVA BEZERRA, contra acórdão assim ementado (e-STJ fl. 43-44):
+HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. UTILIZAÇÃO DA IMPETRAÇÃO COMO SUCEDÂNEO DE REVISÃO CRIMINAL.
+PENA-BASE. CULPABILIDADE E CONSEQUÊNCIAS DO CRIME.
+FUNDAMENTAÇÃO INIDÔNEA. FLAGRANTE ILEGALIDADE EVIDENCIADA. REDUÇÃO DA REPRIMENDA. TRÁFICO PRIVILEGIADO (ART. 33, § 4º, DA LEI N. 11.343/2006). FRAÇÃO DE REDUÇÃO DIVERSA DE 2/3. JUSTIFICATIVA ADEQUADA.
+CONCESSÃO PARCIAL DA ORDEM.
+O paciente foi condenado, com trânsito em julgado, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 à pena de 5 (cinco) anos de reclusão, e ao pagamento de 500 dias-multa, em regime inicial semiaberto, pela prática do crime previsto no art. 33, caput, da Lei nº 11.343/2006 (fl. 22-23).
+A defesa alega, em síntese: a) A ocorrência de constrangimento ilegal, tendo em vista que a causa de diminuição de pena prevista no artigo 33, §4º, da Lei nº 11.343/06, foi afastada em seu patamar máximo com base em fundamentos inidôneos; b) Ressalta que não há variedade de entorpecentese que - DEVIDO A RONDAS DE ROTINA (doc. 03) -fora apreendida uma quantidade muito pequena de droga (4,32g), não havendo, portanto, nos autos, justificativa plausível para não ter sido modificada pela Col. Câmara Criminal do TJPB a fração redutora no patamar máximo de 2/3 (fl. 6).
+Ao final, requer a concessão da ordem para que seja reconhecida e aplicada a causa de diminuição de pena prevista no art. 33, §4º, da Lei nº 11.343/06, no seu patamar de 2/3, com o respectivo ajuste da dosimetria e abrandamento do regime prisional para o aberto, como a substituição da pena corporal por restritiva de direitos.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes" (AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+"A Terceira Seção deste Superior Tribunal de Justiça restringe a admissibilidade do habeas corpus quando o ato ilegal for passível de impugnação pela via própria, sem olvidar a possibilidade de concessão da ordem de ofício (HC nº 535.063/SP)".
+(AgRg no HC n. 741.874/SP, sob a minha relatoria, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024)."
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+(..)
+A concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que se verifica de plano na hipótese dos autos, na medida em que o acórdão que confirmou a sentença condenatória assim se manifestou acerca da aplicação da causa de aumento (e-STJ fl. 47-48).
+"Ora, a julgadora não utilizou elementos concretos extraídos dos autos, a evidenciar que a condutado réu tenha ultrapassado àquela inerente ao tipo penal subsumido, de modo que a motivação utilizada se revela inidônea.
+Deveras, a culpabilidade, para fins do art. 59 do CP, deve ser compreendida como juízo de reprovabilidade da conduta, apontando maior ou menor censura do comportamento do réu. Não se trata de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou nãode delito, mas, sim, do grau de reprovação penal da conduta do agente, mediante demonstração de elementos concretos extraídos dos fatos.
+Em relação às consequências do crime, tida pelos danos que extrapolam ao resultado esperado no tipo, devem ser consideradas neutras no presente caso.
+Com efeito, a motivação empregada no ("contribuiu para o crescimento do comércio de decisum drogas na nossa Capital, que já se apresenta em um nível preocupante, ocasionando, diretamente, para o aumento da criminalidade e das graves consequências de cunho social"), é inerente ao tipo penal a que foi condenado o paciente e, assim, não se presta para a exasperação da reprimenda.
+Portanto, inexistindo concreta e adequada valoração da culpabilidade e das consequências do crime, impõe-se promover a redução da pena- base para o mínimo legal de 05 (cinco) anos de reclusão e500 (quinhentos) dias-multa.
+Por outro lado, no que diz respeito à aplicação da minorante do § 4º do art. 33 da Lei de Drogas inexiste ilegalidade a autorizar, neste ponto, a incidência da fração de redução pretendida pela defesa, isto é, no patamar máximo de 2/3 (dois terços).
+É que, , a minorante do § 4º do art. 33 da Lei de Drogas no patamar de 1/6 (um sexto) foi in casu aplicada a partir da acertada ponderação da natureza e da quantidade de droga apreendida (46 pedras de crack), justificando a Magistrada de primeiro grau que se destinavam à comercialização e abasteceriam um número razoável de usuários, justificativa que se mostra razoável e adequada ao caso concreto.
+Logo, é de se manter, na terceira etapa dosimétrica, a redução da pena na fração de 1/6 (um sexto) adotada na sentença, culminando no redimensionamento da sanção para 04 (quatro) anos e 02(dois) meses de reclusão e 417 (quatrocentos e dezessete) dias-multa.
+Fica mantido o regime semiaberto para o cumprimento inicial da pena, nos moldes da alínea "b" do § 2º do art. 33 do CP."
+No presente feito, em se tratando da apreensão de 46 pedras de crack (fl. 47), com peso de 4,32 gramas (consoante sentença, fl. 19), a jurisprudência desta corte vem entendendo pela aplicação da redutora em seu patamar máximo, qual seja o de 2/3 (dois terços), conforme precedentes:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSO DO MINISTÉRIO PÚBLICO. TRÁFICO DE DROGAS. ART. 33, §4º, DA LEI N. 11.343/2006. PRIVILÉGIO.
+QUANTIDADE DE DROGAS. IMPOSSIBILIDADE DO AFASTAMENTO. INEXISTÊNCIA DE DEDICAÇÃO AO TRÁFICO COMPROVADA. REQUISITOS PRESENTES.
+AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com o § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. O Supremo Tribunal Federal tem entendimento de que "a quantidade de droga apreendida, por si só, não justifica o afastamento do redutor do tráfico privilegiado, sendo necessário, para tanto, a indicação de outros elementos ou circunstâncias capazes de demonstrar a dedicação do réu à prática de atividades ilícitas ou a sua participação em organização criminosa" (AgRg no REsp 1.866.691/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 29/5/2020) (AgRg no HC 656.477/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 26/10/2021, DJe 03/11/2021).
+3. No caso, levando em conta a primariedade do agravante, seus bons antecedentes, a ausência de elementos concretos que indiquem a dedicação à criminalidade ou integre organização criminosa, é de rigor a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 no grau máximo.
+4. Agravo regimental não provido.
+(AgRg no HC 815431 / SC, RELATOR Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 12/06/2023, DATA DA PUBLICAÇÃO/FONTE DJe 16/06/2023 - Quantidade de droga apreendida: 7 comprimidos de ecstasy, 552 tubos de vidro pequenos e uma garrafa com 480 ml contendo diclorometano, 111,9 g de maconha e 58,3 g de cocaína.)"
+(..)
+Ante o exposto, não conheço do presente habeas corpus, mas concedo a ordem de ofício a LINDENBERG DA SILVA BEZERRA, para recalcular a pena relativa ao delito do art. 33 da Lei Antidrogas aplicada, estabelecendo-a em 01 (um) ano e 08 (oito) meses de reclusão e 167 dias-multa, a ser cumprida no regime aberto. Considerando o preenchimento dos requisitos do art. 44 do CPB, substituo a pena corporal por DUAS restritivas de direito a serem fixadas pelo juízo de origem.
+O paciente deverá ser imediatamente posto em liberdade, se por outro motivo não estiver preso.
+Expeça-se, com urgência, o respectivo alvará de soltura, bem como as demais comunicações pertinentes ao Tribunal de origem e ao Juízo singular.
+Publique-se. Intimem-se.
+Deve ser mantida a decisão monocrática recorrida, pois, como dito, em se tratando da apreensão de 46 pedras de crack (fl. 47), com peso de 4,32 gramas (consoante sentença, fl. 19), a jurisprudência desta corte vem entendendo pela aplicação da redutora em seu patamar máximo, qual seja o de 2/3 (dois terços).
+De fato, nos termos da jurisprudência deste Superior Tribunal, "De acordo com o § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas" (AgRg no HC n. 815.431/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado 12/6/2023, DJe de 16/6/2023).
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. AUMENTO DA FRAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. POSSIBILIDADE. REDUÇÃO APLICADA NA FRAÇÃO DE 2/3. QUANTIDADE DA DROGA APREENDIDA. NOVO CÁLCULO DOSIMÉTRICO OPERADO. ALTERAÇÃO DO REGIME PRISIONAL PARA O INICIAL ABERTO. SUBSTITUIÇÃO DAS PENAS PRIVATIVAS DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITOS. PRECEDENTES. NOVA DOSIMETRIA DA PENA OPERADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+2. O fundamento utilizado pela Corte estadual para fixar a redutora na fração mínima, foi a quantidade de droga apreendida - 12 (doze) trouxinhas de substância entorpecente conhecida como "crack", pesando 2,3g (dois gramas e três decigramas) (e-STJ, fl. 376) -; todavia, em que pese tal fundamento seja idôneo para modular a aplicação da minorante, constato que o montante apreendido não destoa do necessário à própria tipificação do delito, de modo que reconheço o flagrante constrangimento ilegal apontado pela impetrante e, de ofício, aumento a fração de redução para o teto legal de 2/3. Precedentes.
+3. Novo cálculo dosimétrico realizado, observados os critérios adotados pelas instâncias singelas: na primeira fase, mantenho a pena-base em 5 anos de reclusão, e 500 dias-multa. Na segunda etapa, ausentes causas modificadoras, as sanções permanecem inalteradas.
+Na terceira fase, reconhecida a incidência da minorante do tráfico privilegiado na fração máxima de 2/3, as reprimenda dos pacientes ficam definitivamente estabilizadas em 1 ano e 8 meses de reclusão, além de 166 dias-multa.
+4. Em razão do novo montante da pena - 1 ano e 8 meses de reclusão -, da primariedade, e da ausência de circunstâncias judiciais desfavoráveis, tanto que as penas-base foram fixadas no piso legal, fixo o regime inicial aberto e determino também a substituição das penas privativas de liberdade por medidas restritivas de direitos, nos termos dos arts. 33, §§ 2º e 3º, e 44, I e III, ambos do Código Penal. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no HC n. 878.185/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024) (g rifos acrescidos ).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
