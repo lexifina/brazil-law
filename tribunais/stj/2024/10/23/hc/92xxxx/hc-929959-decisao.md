@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de MAURI BELMIRO DE PAULA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal n. 0002268-37.2024.8.26.0050).
+Consta dos autos que o paciente foi denunciado pela suposta prática do delito capitulado no art. 163, parágrafo único, III, do Código Penal e da contravenção penal constante do art. 21 da Lei de Contravenções Penais, sendo absolvido impropriamente, mediante o estabelecimento de medida de segurança, na modalidade de internação.
+Por entender que o prazo de internação havia superado o quantum das penas máximas em abstrato cominadas ao delito e à contravenção penal pelos quais o paciente foi denunciado, sua defesa requereu a extinção da medida de segurança, sendo o pedido deferido em primeiro grau no dia 9/2/2024, com estes fundamentos (fls. 23/27, sem destaque no original):
+"Decido.
+2. Trata-se de medida de segurança de internação, pelo prazo mínimo de 01 (um) ano, tendo por fato gerador a imputação da prática do delito tipificado no artigo 163, § ún., III do Código Penal e do artigo 21 da Lei de Contravenções Penais, na forma do artigo 69, caput., do Código Penal.
+Assim, a limitação da pena para fins de extinção deve ser regulada pela soma total das penas em abstrato previstas para os delitos praticados.
+Determinada a contagem do tempo de privação da liberdade, sobreveio o cálculo a fls. 843, verificando-se que o tempo de privação da liberdade/internação supera o prazo máximo de pena em abstrato previsto para os delitos praticados.
+A hipótese, portanto, é de reconhecimento da extinção da punibilidade do paciente, mesmo a despeito da persistência da periculosidade atestada no laudo pericial acostado aos autos.
+Explico.
+Pese embora o art. 97, § Io, do Código Penal estabeleça prazo indeterminado de duração da medida de segurança, é simplesmente inconstitucional, mormente à luz da vedação às penas de caráter perpétuo (art. 5o, inciso XLVII, alínea "b", da CF), que o paciente suporte restrição à sua liberdade por tempo superior à própria pena original.
+Isso porque, como bem ponderado por respeitável doutrina sobre o tema, a expressão "penas" contida no citado dispositivo constitucional deve ser interpretada em sentido amplo, vale dizer, de modo a abranger também a medida de segurança, afinal, não há como conceber, por amor ao princípio constitucional da isonomia, a conferência de tratamento mais severo a um infrator da lei unicamente por sua condição de incapacidade mental.
+ ..
+Em conclusão, e em outras palavras, findo o prazo máximo para o cumprimento da medida de segurança, limitado que é (deve ser) à pena máxima em abstrato prevista para os delitos praticados, e ainda que persista a periculosidade do agente em conflito com a lei (sentido amplo), deve o Estado passar a atuar na execução das medidas terapêuticas (médicas) necessárias à cura desse agente fora do âmbito penal (da punição), porque impensável, à luz do imperativo constitucional que veda as penas perpétuas, a autorização da internação psiquiátrica perpétua.
+Assim, na esteira dos precedentes acima citados e à luz do cálculo de fls. 843, de rigor a extinção da medida de segurança substitutiva.
+3. Posto isso, forte na Súmula 527 do c. Superior Tribunal de Justiça, DECLARO EXTINTAS as medidas de segurança impostas a Mauri Belmiro de Paula, RG: 251602965, RGC: 25160296, nos autos do processo Processo de origem nº 0006792-98.2013.8.26.0297, da 2a Vara da Comarca de Jales - SP."
+Manejado agravo em execução pelo Parquet, o recurso foi provido em 3/6/2024, para restabelecer a medida de segurança imposta ao paciente, ao entendimento de que o tempo de internação "não havia excedido o total das penas máximas abstratamente cominadas  .. , faltando cerca de três meses para que isso ocorresse" (fl. 77).
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que o acórdão impugnado não levou em consideração o tempo em que o paciente permaneceu desinternado e realizando tratamento ambulatorial.
+Assevera que não possui respaldo jurídico "o frágil e equivocado preceito de que as medidas de segurança podem ter caráter perpétuo tão somente pela existência do verbete "indeterminado" no artigo 97, § 1º, do Código Penal" (fl. 5), além de considerar malferida a Súmula n. 527 do STJ.
+Requer, pois, a concessão da ordem "para cassar a decisão de 2º grau, restabelecendo a decisão de 1º grau que declarou a extinção da medida de segurança" (fl. 12).
+Indeferido o pedido liminar (fls. 81/82) e prestadas as informações pela autoridade coatora (fls. 90/92 e 93/102), o Ministério Público Federal - MPF opinou pelo não conhecimento do mandamus (fls. 106/110).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+No julgamento de casos análogos, esta Corte reafirmou sua jurisprudência, consolidada na Súmula n. 527/STJ, no sentido de que "em atenção aos princípios da isonomia, proporcionalidade e razoabilidade, estabelece-se como limite para a duração da medida de segurança o máximo da pena abstratamente cominada ao delito praticado, não se podendo conferir tratamento mais severo e desigual ao inimputável, uma vez que ao imputável, a legislação estabelece expressamente o respectivo limite de atuação do Estado" (AgRg no REsp n. 1.336.224/TO, relator Ministro Jorge Mussi, Quinta Turma, julgado em 27/10/2015, DJe de 5/11/2015).
+No mesmo sentido, confiram-se ainda estes julgados:
+HABEAS CORPUS. CRIME DE AMEAÇA. ABSOLVIÇÃO IMPRÓPRIA. APLICAÇÃO DE MEDIDA DE SEGURANÇA. PRISÃO PREVENTIVA SUBSTITUÍDA POR INTERNAÇÃO PROVISÓRIA. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 527 DESTA CORTE. HABEAS CORPUS CONCEDIDO.
+1. O tempo de duração da medida de segurança não deve ultrapassar o limite máximo da pena abstratamente cominada ao delito praticado (Súmula n. 527 desta Corte).
+2. Caso em que foi aplicada a medida de segurança de internação em hospital de custódia para tratamento psiquiátrico, somente a defesa recorreu da sentença - a Defensoria Pública apresentou as razões do recurso em 6/7/2015, sendo que a apelação ainda não foi julgada pelo Tribunal revisor. Todavia, o paciente encontra-se custodiado desde 29/9/2014, há muito mais tempo que o estabelecido na sentença. Precedentes.
+3. Habeas corpus concedido.
+(HC n. 338.698/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/2/2017, DJe de 10/2/2017.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME APENADO COM DETENÇÃO. ABSOLVIÇÃO IMPRÓPRIA. MEDIDA DE SEGURANÇA. LIMITAÇÃO DO TEMPO DE CUMPRIMENTO AO MÁXIMO DA PENA ABSTRATAMENTE COMINADA. ACÓRDÃO RECORRIDO DE ACORDO COM ENTENDIMENTO DO STJ. SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. O prazo de duração da medida de segurança não deve ultrapassar o limite máximo da pena abstratamente cominada ao delito cometido. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no AREsp n. 357.508/DF, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/12/2014, DJe de 3/2/2015.)
+Na hipótese dos autos, considerando os lapsos em que as instâncias ordinárias proferiram suas decisões, bem ainda o cumprimento do mandado expedido no julgamento do agravo recorrido, constata-se que a medida de segurança de internação imposta ao paciente já ultrapassou o prazo máximo das penas abstratamente previstas para as infrações penais praticadas.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça , não conheço do habeas corpus, mas concedo a ordem, de ofício, para restabelecer a sentença proferida no primeiro grau, que extinguiu a punibilidade do paciente.
+Publique-se.
+Intimem-se.
+ EMENTA
