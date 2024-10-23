@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por EVERSON ANDRÉ DE OLIVEIRA contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (e-STJ, fl. 599):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. INVALIDEZ PERMANENTE PARCIAL DECORRENTE DE DOENÇA LABORATIVA. PRETENDIDA EQUIPARAÇÃO AO CONCEITO DE "ACIDENTE PESSOAL" (IPA), OU INCLUSÃO NA COBERTURA DE INVALIDEZ FUNCIONAL TOTAL E PERMANENTE POR DOENÇA (IFPD). SENTENÇA DE IMPROCEDÊNCIA.
+INSURGÊNCIA DA PARTE AUTORA.
+ALEGADO DESCONHECIMENTO DAS CLÁUSULAS LIMITATIVAS DO CONTRATO DE SEGURO. SUPOSTA VIOLAÇÃO AO DEVER DE INFORMAÇÃO (ART. 46 DO CDC). INACOLHIMENTO. DEVER DE INFORMAÇÃO ACERCA DAS DISPOSIÇÕES CONTRATUAIS QUE COMPETE A ESTIPULANTE, E NÃO A SEGURADORA. TESE FIRMADA EM RECURSO REPETITIVO DO STJ (TEMA 1112). APLICABILIDADE DAS DISPOSIÇÕES GERAIS DO SEGURO.
+PRETENSÃO INDENIZATÓRIA EM RAZÃO DE INVALIDEZ POR DOENÇA DESENCADEADA PELA ATIVIDADE LABORATIVA DESENVOLVIDA. INSUBSISTÊNCIA. AUSÊNCIA DE COBERTURA E IMPOSSIBILIDADE DE EQUIPARAÇÃO DE DOENÇA OCUPACIONAL À ACIDENTE PESSOAL. SITUAÇÃO PATOLÓGICA DO AUTOR QUE NÃO SE ENQUADRA EM INVALIDEZ FUNCIONAL E TOTAL POR DOENÇA (IFPD). INACOLHIMENTO. PERÍCIA JUDICIAL QUE ATESTOU A INEXISTENCIA DE INVALIDEZ DO SEGURADO. COBERTURA INDEVIDA. INTERPRETAÇÃO RESTRITIVA DOS RISCOS PREDETERMINADOS. INTELIGÊNCIA DO ART. 757, CAPUT, DO CÓDIGO CIVIL. SENTENÇA MANTIDA.
+HONORÁRIOS RECURSAIS. EXEGESE DO ART. 85, §11, DO CÓDIGO DE PROCESSO CIVIL. EXIGIBILIDADE SUSPENSA A TEOR DO ART. 98, §3º DO CPC.
+RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do especial, aponta o recorrente violação do artigo 757 do Código Civil, argumentando, em síntese, que seria devido o pagamento de indenização securitária por invalidez permanente por acidente (IPA) nos casos em que o Instituto Nacional de Seguridade Social (INSS) concede benefício por auxílio-acidente em virtude da mesma doença apresentada pelo seguro, reconhecendo seu caráter irreversível.
+Contra-arrazoado (fls. 622/640), o recurso especial não foi admitido na origem (fls. 643/644), contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+Extraio do acórdão recorrido que a recusa à cobertura seria devida, uma vez que não comprovada a irreversibilidade da doença apresentada pelo segurado em perícia, conforme extraio da seguinte passagem (fls. 596/597):
+Por sua vez, contudo, sustenta o Requerente/Apelante sofrer de invalidez permanente decorrente de doença ocupacional, que vem lhe causado vários problemas de saúde, impossibilitando o de realizar seu trabalho, motivo pelo qual entende fazer jus ao pagamento da indenização securitária.
+A prova pericial, todavia, foi em sentido contrário, tendo sido o expert categórico em afirmar que o Requerente não apresenta qualquer tipo de incapacidade laborativa, afirmando ainda a inocorrência de acidente pessoal típico e a ausência de invalidez funcional, estando requerente apto para realização de atividades de forma autônoma  evento 146 e 167 - EPROC1 .
+Dessa forma, segundo a perícia, não há comprovação objetiva de invalidez permanente, tampouco que a mesma seja decorrente de atual acidente típico, existindo apenas doença degenerativa.
+ ..
+E, portanto, ressai correta a sentença objurgada ao julgar improcedentes os pedidos exordiais.
+A orientação adotada não destoa da jurisprudência desta Corte, segundo a qual: " ..  havendo controvérsia quanto à natureza e à extensão da invalidez afirmada pelo segurado, é necessária a prova pericial para aferição do direito à indenização prevista no seguro privado, uma vez que a perícia realizada por instituições oficiais de previdência não gera presunção absoluta" (AgInt no AgInt no AREsp n. 1.168.230/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/10/2019, DJe de 4/11/2019.)
+Confira-se, ainda, precedente da Segunda Seção, em que pacificada no âmbito desta Corte a conclusão quanto à natureza apenas relativa da presunção acarretada pela concessão de benefício incapacitante ao segurado que pretende receber indenização por invalidez, em relação à mesma doença, com base em contrato de seguro privado:
+ ..
+4. Apesar de o contrato de seguro prever cobertura para incapacidade por acidente ou por doença, se existir controvérsia quanto à natureza (temporária ou permanente) e à extensão (total ou parcial) da invalidez sustentada pelo segurado, é de rigor a produção de prova pericial médica, sob pena de cerceamento de defesa da seguradora. Presunção apenas relativa da prova oriunda da aposentadoria por invalidez.
+5. Consoante o art. 5º, parágrafo único, da Circular SUSEP nº 302/2005, a aposentadoria por invalidez concedida por instituições oficiais de previdência, ou assemelhadas, não caracteriza por si só o estado de invalidez permanente nos seguros de pessoas (Cobertura de Invalidez Permanente por Acidente - IPA, Cobertura de Invalidez Laborativa Permanente Total por Doença - ILPD e Cobertura de Invalidez Funcional Permanente Total por Doença - IFPD), devendo a comprovação se dar por meio de declaração médica.
+6. Embargos de divergência conhecidos e providos.
+(EREsp n. 1.508.190/SC, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 8/11/2017, DJe de 20/11/2017.)
+Portanto, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+De todo modo, para refutar a tese de que a conclusão da perícia técnica prevaleceria, em relação aos demais elementos de prova, seria imprescindível o reexame do contexto fático-probatório; procedimento, porém, vedado em recurso especial (Súmula 7/STJ).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspenso no caso de beneficiário da J ustiça gratuita.
+Intimem-se.
+EMENTA
