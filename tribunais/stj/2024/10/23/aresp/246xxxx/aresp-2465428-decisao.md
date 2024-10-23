@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por GILVANETE LEITE DOS SANTOS contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios.
+O agravante foi condenado, como incurso nas sanções do art. 306 da Lei n. 9.503/97, à pena de 9 (nove) meses e 10 (dez) dias detenção, em regime semiaberto, e ao pagamento de 15 (quinze) dias-multa (fls. 158-166).
+O Tribunal, por unanimidade, negou provimento ao recurso de apelação interposto pelo agravante (fls. 299-319).
+Inconformada, a defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação ao disposto no art. 64, inciso I, do Código Penal (fls. 357-361).
+O recurso foi inadmitido ante a incidência da Súmula n. 7, STJ (fls. 396-398).
+No presente agravo, a defesa sustenta que a análise da pretensão recursal não demandaria o reexame de provas, tendo em vista que a data do cumprimento da pena já ultrapassou o período superior a cinco anos para fins de reincidência (fls. 404-409).
+Em contrarrazões, o Ministério Público do Distrito Federal e dos Territórios pugna pelo desprovimento do agravo (fl. 413).
+O Ministério Público Federal se manifestou pelo não conhecimento do agravo em recurso especial (fls. 429-430).
+É o relatório. DECIDO.
+A controvérsia se restringe à valoração da reincidência na segunda fase da dosimetria da pena.
+No caso dos autos, o agravante foi condenado pela prática do crime de embriaguez ao volante e, por ocasião da fixação da pena, foi levada em consideração a sua condição de reincidente, tendo em vista que não ultrapassado o período de cinco anos entre a data do período do cumprimento ou extinção da pena e a prática do novo delito. Veja-se (fls. 305-306):
+"A Defesa argumenta que o acusado confessou a prática do delito e, além do mais, não é reincidente, razão pela qual faz jus à redução da reprimenda.
+Sem razão.
+Verifica-se que o magistrado sentenciante, na segunda fase da dosimetria da pena, reconheceu as agravantes da reincidência e a descrita no artigo 298, inciso III, do Código de Trânsito, compensando a reincidência com a atenuante da confissão espontânea, elevando, no entanto, a pena em 1/6 (um sexto) em face da agravante sobejante, verbis:
+" ..  NA SEGUNDA FASE de aplicação da pena, existe a atenuante da confissão espontânea.
+Não aplico a atenuante do artigo 66 do Código Penal, em razão de não vislumbrar a existência de circunstância relevante, anterior ou posterior ao crime.
+Estão presentes as agravantes do art. 298, inciso III, do CTB e a reincidência (autos SEEU nº 0008707-81.2016.8.07.0015; Processo originário 0001057-21.2018.8.07.0012; Data do Fato 07/04/2018; Data do Trânsito em Julgado 20/08/2019; Data da Sentença de Extinção de Punibilidade 15/10/2021).
+Dessa forma, compenso a atenuante da confissão com a agravante da reincidência, e elevo a reprimenda em 1/6 (um sexto) em virtude da agravante remanescente do artigo 298, inciso IIII, do CTB, estabelecendo-a em 9 (nove) meses e 10 (dez) dias de detenção, além de 15 (quinze) dias-multa.  .. "
+Analisando a folha de antecedentes penais do acusado (ID 43585111 e 43585114), verifica-se que ele ostenta duas condenações criminais transitadas em julgado - ação penal nº 2015.12.1.004085-2, cujo trânsito em julgado da sentença penal condenatória ocorreu em 09/05/2016; e ação penal nº 2018.12.1.001084-4, cujo trânsito em julgado da sentença penal condenatória se deu em 19/08/2019, não havendo óbice a que uma delas seja utilizada para a negativação dos antecedentes e a outra para a caracterização da reincidência.
+É certo que, se transcorrer interregno superior a cinco anos entre a data da extinção da pena e o novo crime, a condenação anterior não pode ser utilizada como reincidência, nos termos do artigo 64, inciso I, do Código Penal.
+Ocorre que, diferentemente do quanto alegado pela Defesa, não consta dos autos documento que ateste que, à data do fato ora apurado (15/08/2021) a punibilidade da referida condenação já estivesse extinta há mais de 5 anos.
+E, em consulta ao Sistema Eletrônico de Execução Unificado (SEEU), constata-se que a extinção da punibilidade referente ao cumprimento da pena imposta na referida ação penal ocorreu em 15/10/2021(execução penal nº 0008707-81.2016.8.07.0015 - ID 43585184 - pág. 12). Portanto, na data dos fatos ora apurados a execução não estava extinta.
+Veja-se, portanto, que não houve o transcurso do período depurador constante do artigo 64, inciso I, do Código Penal, de modo que também deve ser mantida em desfavor do réu a circunstância agravante da reincidência."
+Desse modo, não há que se falar em fundamentação inidônea ou constrangimento ilegal apto a justificar a revisão da pena por esta Corte.
+Ademais , observo que o acórdão do Tribunal local está em consonância com o entendimento desta Corte Superior, o que enseja a incidência da Súmula n. 83, STJ, que dispõe, in verbis: "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+A propósito:
+"3. Por derradeiro, não há de se modificar a pena definitiva imposta pela Corte paulista em razão da reincidência específica da acusada, porquanto não transcorreu o período depurador de 5 anos, prevista no art. 64, I, do Código Penal - CP." (AgRg no AREsp n. 2.217.860/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 3/10/2023)
+"1. In casu, não há de se modificar a pena definitiva imposta pela Corte de origem diante da reincidência da agravante, uma vez que não transcorreu o período depurador de 5 anos, previsto no art. 64, I, do Código Penal, notadamente pelo fato de a pena da condenação pretérita pelo crime de furto ter sido julgada extinta em 18/12/2017, ao passo que o delito em análise foi praticado em 18/5/2021." (AgRg no AREsp n. 2.438.376/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 15/12/2023)
+Não obstante , é possível observar que o Tribunal  a  quo,  após  analisar  o  acervo  fático-probatório,  concluiu,  de  modo  fundamentado  e  com  amparo  em  elementos  concretos, a condição de reincidente do agravante, de modo que alterar  tal  entendimento  demandaria  o  reexame  de  fatos  e  provas,  providência  inadmitida  na  via  eleita,  nos  termos  da  Súmula  n.  7,  STJ.  Nesse  sentido:
+"IV - Não cabe a esta Corte Superior reexaminar o conjunto fático-probatório dos autos para afastar as conclusões do Tribunal de origem quanto à reincidência, sob pena de ofensa à Súmula n. 7, STJ. Agravo regimental não provido." (AgRg no REsp n. 2.045.500/PA, Quinta Turma, de minha relatoria, DJe de 27/8/2024)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intime-se.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. REINCIDÊNCIA. VIOLAÇÃO AO ART. 64, INCISO I, DO CÓDIGO PENAL. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. SÚMULA N. 83, STJ. SÚMULA N. 7, STJ. REEXAME DOS ELEMENTOS FÁTICO-PROBATÓRIOS. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
