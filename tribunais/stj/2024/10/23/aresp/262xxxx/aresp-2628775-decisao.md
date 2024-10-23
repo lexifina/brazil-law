@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 891):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. CONTRATO DE CARTÃO DE CRÉDITO. DESCONTO EM FOLHA DE PAGAMENTO. AUSÊNCIA DE VÍCIO CONSUMERISTA. FORÇA OBRIGACIONAL DOS CONTRATOS. APLICAÇÃO DAS TESES FIRMADAS NO IRDR Nº 53.983/2016. APELO DESPROVIDO.
+1) Nos termos do julgamento do IRDR nº 53.983/2016, a Instituição Financeira se desincumbiu do ônus de comprovar que a apelante firmou contrato de "cartão de crédito consignado" e que tinha ciência das obrigações pactuadas, eis que acostou cópia do pacto devidamente assinado por ela, bem como recebeu o valor do empréstimo através de transferência eletrônica (ted), sendo inconteste que contratou com o Banco, utilizando-se dos valores postos à sua disposição, independentemente do recebimento e da utilização do referido cartão.
+2) Assim, comprovada a regularidade do negócio, ausente é o defeito na prestação do serviço, o que constitui causa excludente da responsabilidade civil, nos termos do art. 14, §3º, I, do CDC.
+3) Apelo desprovido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 489, §1º, IV, 985 e 1.022, II, do Código de Processo Civil; arts. 6º, III, IV e V, 39, IV, V, 47, 51, IV, e 52 do Código de Defesa do Consumidor; art. 422 do Código Civil; bem como divergência jurisprudencial.
+Sustenta que o acórdão recorrido foi omisso por não ter se manifestado sobre provas importantes acostadas nos autos e acerca da alegação de falta de informação a respeito do produto contratado, que teria infringido direitos básicos do consumidor.
+Alega a contrariedade do acórdão ao decidido na Ação Civil Pública nº 0010064-91.2015.8.10.0001, julgada pelo TJMA.
+Não foram apresentadas c  ontrarrazões.
+Assim delimitada a controvérsia, passo a decidir.
+No tocante à alegação de ofensa aos arts. 489 e 1.022 do Código de Processo Civil, verifico que essa não merece prosperar, considerando que não configura ausência de fundamentação ou negativa de prestação jurisdicional o fato do acórdão ter sido proferido em sentido contrário ao desejado pela parte agravante .
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados. Nesse sentido: AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015; AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1º/3/2016.
+Com efeito, verifico que a Corte local decidiu a questão tratada na presente demanda nos seguintes termos (fls. 895-896):
+No caso, verifica-se que a Instituição Financeira se desincumbiu do ônus de comprovar que a apelante firmou contrato de "cartão de crédito consignado" e que tinha ciência das obrigações pactuadas, eis que acostou cópia do pacto devidamente assinado por ela (Id. 21158532 - Pág. 1/4), bem como recebeu o valor do empréstimo através de transferência eletrônica (ted) (Id. 21158534), sendo inconteste que contratou com o Banco, utilizando-se dos valores postos à sua disposição, independentemente do recebimento e da utilização do referido cartão.
+Ao celebrarem a avença, ficou expressamente consignada a autorização de reserva de margem consignável e esclarecimentos sobre a contratação do cartão de crédito consignado, nos seguintes termos do que se vê no Id.17085077.
+ ..
+Desta feita, o Banco cumpriu com o seu dever de informação, consoante determina o artigo 6º, III, do CDC, que estabelece como direito básico do consumidor "(..) a informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade e preço, bem como sobre os riscos que apresentem.".
+A autora, ao firmar o pacto, teve plena ciência de que obteve junto à Instituição Financeira apelada a contratação de cartão de crédito consignado.
+Nesse passo, as provas carreadas aos autos não amparam a pretensão da recorrente, eis que, comprovada a regularidade da contratação, ausente é o defeito na prestação do serviço por parte do réu, o que constitui causa excludente da responsabilidade civil, nos termos do artigo 14, §3º, I, do CDC.
+Nesse contexto, verifico que o Tribunal de origem entendeu que: "a Instituição Financeira se desincumbiu do ônus de comprovar que a apelante firmou contrato de "cartão de crédito consignado" e que tinha ciência das obrigações pactuadas, eis que acostou cópia do pacto devidamente assinado por ela, bem como recebeu o valor do empréstimo através de transferência eletrônica". Portanto, ficou comprovada a regularidade do negócio.
+Desse modo, alterar as premissas firmadas pela Corte estadual esbarraria na vedação de novo reexame do conjunto fático-probatório por esta via do recurso especial, diante dos óbices das Súmulas 5 e 7 desta Corte Superior.
+Quanto à interposição pela alínea "c" do art. 105, III, da Constituição Federal, esta Corte tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso com base na qual deu solução à causa o Tribunal de origem.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
