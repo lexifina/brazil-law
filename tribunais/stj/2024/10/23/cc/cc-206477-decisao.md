@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE ARARAQUARA (SP) e o TRIBUNAL REGIONAL DO TRABALHO DA 15ª REGIÃO.
+Inicialmente, o TRIBUNAL REGIONAL DO TRABALHO DA 15ª REGIÃO negou provimento ao recurso que visava à reforma de decisão judicial que reconheceu a incompetência da Justiça do Trabalho, nos seguintes termos (fls. 15-17):
+O juízo de origem reconheceu a incompetência da Justiça do Trabalho e determinou a remessa dos autos para uma das Varas da Justiça Comum Estadual, com fundamento na decisão proferida na Reclamação Constitucional 46356 RS.
+Pois bem. De fato, o pedido da inicial é de reconhecimento de vínculo empregatício entre o autor e a empresa Ambev; a alegação exordial é de contratação fraudulenta do empregado na qualidade de autônomo, porém, com o preenchimento dos requisitos da relação da emprego.
+A questão tratada na Ação Declaratória de Constitucionalidade n.º 48/DF, tem por base os arts. 1º, caput, 2º, §§ 1º e 2º, 4º, §§ 1º e 2º, e 5º, caput, da Lei 11.442/2007, e diz respeito à possibilidade ou não de terceirização de atividades de transporte pelas transportadoras, considerada atividade-fim para essas empresas.
+Além disso, identificar se o contrato assinado é embuste para fraudar a aplicação da legislação trabalhista em face do artigo 9º, da CLT é tarefa que compete à Justiça do Trabalho (Constituição Federal, inciso I, artigo 114).
+Contudo, nada obstante esses argumentos, curvo-me ao entendimento que prevalece no âmbito do Supremo Tribunal Federal, observado pelo juízo de origem.
+A r. sentença afastou a competência da Justiça do Trabalho com fundamento na decisão prolatada na Reclamação 46.356 (RS), de lavra da Ministra Carmen Lucia.
+Verifica-se em consulta ao site do STF que referida decisão transitou em julgado em 17/04/2021 e cassou a decisão que reconheceu a competência da Justiça do Trabalho, proferida nos seguintes termos pelo juízo da Vara do Trabalho de Guaíba, na Reclamação Trabalhista 0021547-86.2017.5.04.0221:
+ ..
+Assim, considerando que o C. STF tem entendimento no sentido de que as relações envolvendo a incidência da Lei 11.442/2007 possuem natureza jurídica comercial e devem ser analisadas pela Justiça Comum, e não pela Justiça do Trabalho, ainda que em discussão alegação de fraude à legislação trabalhista, consubstanciada no teor dos arts. 2º e 3º da CLT, mantém-se a sentença, com ressalva de entendimento pessoal.
+ ..
+Diante do exposto, decide-se: conhecer do recurso de SIDNEI ALVES DOS REIS e não o prover.
+Recebidos os autos, o JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE ARARAQUARA (SP) suscitou o presente conflito defendendo que (fls. 5-6):
+Trata-se de Reclamação Trabalhista ajuizada por Sidnei dos Reis contra AMBEV S/A. O autor alega, em síntese, que foi contratado como motorista da requerida em 16.10.2008, mas em 2012 a empresa realizou sua dispensa e o contratou novamente como motorista, mas agora como autônomo, em verdadeira manobra para evitar os débitos trabalhistas.
+Houve decisão de incompetência absoluta da Justiça do Trabalho, determinando a remessa à Justiça Comum (fls. 2699).
+ ..
+Pois bem. Analisando os autos, verifico que o reclamante realmente celebrou contrato de trabalho com a requerida, regido pelos termos da CLT Consolidação das Leis do Trabalho, sendo dispensado defmitivamente em 2021.
+Temos que destacar que o autor atuou sob os efeitos da relação laborai, tanto é verdade que sempre esteve presente os requisitos legais, notadamente a subordinação, portanto, não se pode afastar a competência com a visão em falsa ideia de prestador de serviço.
+Vale dizer, temos aqui uma típica relação de trabalho.
+Ante o exposto, considero devidamente comprovada a relação de trabalho entre às partes, via de consequência, declaro a incompetência absoluta deste Juízo, nos termos do artigo 114, inciso I, da Constituição Federal. Assim, remetam-se os autos ao E. Superior Tribunal de Justiça com as cautelas de estilo e homenagens. Expeça-se o regular ofício.
+Parecer do MPF, às fls. 107-110, opinando pela competência do JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE ARARAQUARA (SP).
+É, no essencial, o relatório.
+Decido.
+Com fundamento na orientação contida na Súmula n. 568/STJ, procedo ao julgamento monocrático do conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de se reduzirem as pautas já bastante numerosas da Segunda Seção.
+Acerca da controvérsia posta nos autos, destaca-se que o "STF vem decidindo que a discussão sobre a presença dos pressupostos e requisitos legais inerentes à contratação sob a égide da Lei nº 11.442/2007 deve iniciar-se na Justiça Comum e constatado que não foram preenchidos os requisitos dispostos na lei supracitada, a competência passaria a ser da Justiça do Trabalho" (AgInt no CC n. 186.135/SP, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 18/4/2023, DJe de 20/4/2023).
+A propósito, confira-se:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - TRANSPORTE DE CARGAS - MOTORISTA - RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO - ADC N.º 48/DF - COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL - JURISPRUDÊNCIA CONSOLIDADA DA SEGUNDA SEÇÃO - DELIBERAÇÃO UNIPESSOAL QUE CONHECEU DO CONFLITO E DECLAROU A COMPETÊNCIA DO JUÍZO DE DIREITO DA 8.ª VARA CÍVEL DE SANTO ANDRÉ/SP - INSURGÊNCIA DO AGRAVANTE.
+1. Destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. No âmbito da ADC n.º 48/DF, na qual foi reconhecida a constitucionalidade da Lei n.º 11.447/2007, que por sua vez dispõe sobre transporte rodoviário de cargas por terceiros, mediante remuneração, a Corte Suprema tem decidido que a discussão a respeito da presença ou não dos requisitos legais para configuração da contratação nos termos da mencionada lei, deve se iniciar na Justiça Comum, e que, constatada a ausência dos mesmo, só então, a competência passa a ser da Justiça do Trabalho. Precedentes da Segunda Seção do STJ.
+3. Agravo interno desprovido.
+(AgInt no CC n. 191.676/SP, relator Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 8/3/2023, DJe de 13/3/2023, grifei.)
+AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM ESTADUAL. LEI 11.442/2007. AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE Nº 48/DF. CONSTITUCIONALIDADE DECLARADA PELO STF. DEMANDA DEVE SER INICIALMENTE AFORADA NA JUSTIÇA COMUM. VERIFICAÇÃO DE REQUISITOS DA CONTRATAÇÃO. AFASTAMENTO PELO JUÍZO ESTADUAL. PEDIDO DE RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO. REMESSA À JUSTIÇA DO TRABALHO. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. COMPETÊNCIA DO JUÍZO LABORAL. SUCEDÃNEO RECURSAL. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Na origem, a controvérsia cinge-se em determinar o Juízo competente para analisar demanda em que a parte interessada requer o reconhecimento de vínculo trabalhista, em que pese a celebração de contrato de transporte rodoviário de cargas por conta de terceiros e mediante remuneração, o qual é regido Lei nº 11.442/2007.
+2. O Supremo Tribunal Federal - STF, no âmbito da ADC nº 48/DF reconheceu a constitucionalidade da Lei nº 11.442/2007 que prevê o transporte rodoviário de cargas por conta de terceiros e mediante remuneração.
+3. O STF vem decidindo que a discussão sobre a presença dos pressupostos e requisitos legais inerentes à contratação sob a égide da Lei nº 11.442/2007 deve iniciar-se na Justiça Comum e constatado que não foram preenchidos os requisitos dispostos na lei supracitada, a competência passaria a ser da Justiça do Trabalho.
+4. No caso sob análise, a demanda foi inicialmente proposta no Juízo laboral que declinou de sua competência, remetendo o feito à Justiça estadual que reconheceu não estarem presentes os requisitos caracterizadores do contrato de transporte rodoviário de cargas por conta de terceiros e mediante remuneração regido Lei nº 11.442/2007.
+5. Ademais, se a parte agravante não concorda com os fundamentos exarados pelo Juízo estadual, que afastou a incidência da Lei nº 11.442/2007, deveria se valer dos recursos pertinentes para a reforma do julgado, ao passo que o presente conflito de competência não pode ser utilizado como sucedâneo recursal sob pena de supressão de instâncias, conforme o pacífico entendimento desta Corte Superior.
+6. Agravo interno não provido.
+(AgInt no CC n. 180.647/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 30/11/2021, DJe de 7/12/2021, grifei.)
+Na espécie, conforme bem destacado no parecer ministerial, verifica-se que não consta a análise acerca da existência dos requisitos necessários à constituição da relação civil pelo juízo suscitante, razão pela qual deve a demanda ser apreciada, ao menos inicialmente, pelo JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE ARARAQUARA (SP).
+Ante o exposto, conheço do conflito de competência para declarar a competência do JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE ARARAQUARA (SP).
+Publique-se. I ntimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM ESTADUAL. LEI 11.442/2007. DEMANDA DEVE SER INICIALMENTE AFORADA NA JUSTIÇA COMUM. VERIFICAÇÃO DE REQUISITOS DA CONTRATAÇÃO. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITANTE.
