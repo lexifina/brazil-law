@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Agravo apresentado pelo MUNICÍPIO DE ARAMARI à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+RECURSO DE APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. DIREITO ADMINISTRATIVO. MUNICÍPIO DE ARAMARI. CONCURSO PÚBLICO. EDITAL Nº 001/2013. AUXILIAR DE SERVIÇOS GERAIS. SERVIDORA JÁ INVESTIDA EM CARGO PÚBLICO. INOBSERVÂNCIA DO DEVIDO PROCESSOLEGAL. INADMISSIBILIDADE. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 219, parágrafo único, do CPC, no que concerne à impossibilidade de prorrogação de validade de concurso para o próximo dia útil na hipótese de ocorrer o término em dia sem expediente administrativo, tendo em vista a natureza decadencial do referido prazo, cuja contagem se desenvolve em dias corridos. Traz a seguinte argumentação:
+De acordo com artigo 219 do CPC, é notável que o parágrafo único especifica que a contagem em dias úteis se aplica somente aos prazos processuais, de modo que, por exclusão, os prazos materiais devem ser contados em dias corridos.
+Inobstante, em decisão recente, ao avaliar a suspensão do prazo de validade de um concurso público, o Conselho Especial do Tribunal de Justiça do Distrito Federal firmou o entendimento no sentido que deve ser considerado prazo decadencial em concursos público e, ainda, que não permite prorrogação por norma infraconstitucional:
+ ..
+Porém, no caso sub judice, em sentido contrário ao entendimento no julgamento supra, equivocadamente, o prazo processual foi considerado para a contagem da validade do concurso. Logo, não houve distinção entre prazo processual e prazo decadencial, sendo este último o que deveria ser seguido para a contagem de dois anos da prorrogação do concurso, considerando os dias corridos.
+Sendo assim, equivocou-se o Tribunal de Justiça da Bahia, assim como o juízo de piso, ao computar o período para a avaliação do prazo 02 (dois) anos desconsiderando que este deve ser feito em dias corridos, por tratar-se de um prazo decadencial. O dispositivo legal é claro em estabelecer que a contagem de prazo em dias úteis é apenas aplicável a prazos processuais, os quais não se aplicam ao caso em tela (fl. 370).
+É o relatório.
+Decido.
+Quanto à controvérsia, não é cabível o Recurso Especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, a Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 17.10.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.657.693/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18.8.2020; AgInt no REsp 1.616.439/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 1º.6.2020; AgRg no REsp 1.822.671/MT, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 7.4.2020.
+Ademais, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
