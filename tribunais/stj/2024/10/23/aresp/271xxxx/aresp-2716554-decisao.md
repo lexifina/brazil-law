@@ -1,0 +1,26 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por ANTONIA RIBEIRO MARQUES, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 4/7/2024.
+Concluso ao Gabinete em: 12/9/2024.
+Ação: ação de reintegração e manutenção de posse, ajuizada por GELADOS ALIMENTOS LTDA em desfavor da agravante, em fase de cumprimento de sentença.
+Decisão interlocutória: rejeitou a exceção de pré-executividade apresentada pela agravante.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pela agravante, nos termos das seguinte ementa:
+AGRAVO DE INSTRUMENTO - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - DECISÃO PROFERIDA PELO JUÍZO A QUO NO DIA 16/11/2023 EM QUE O MAGISTRADO REJEITOU IMPUGNAÇÃO APRESENTADA PELA PARTE AGRAVANTE E DETERMINOU O BLOQUEIO DE ATIVOS FINANCEIROS POR MEIO DE CONSULTA VIA SISBAJUD - MANEJO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE PELA PARTE EXECUTADA, ORA RECORRENTE, APRECIADA PELO MAGISTRADO NO DIA 23/11/2023 - EXCEÇÃO REJEITADA A PARTIR DE FUNDAMENTAÇÃO SEMELHANTE À DECISÃO ANTERIORMENTE PROFERIDA POR OCASIÃO DO EXAME DA IMPUGNAÇÃO - PEDIDOS FORMULADOS NA PEÇA RECURSAL PARA QUE FOSSE CONCEDIDA À RECORRENTE GRATUIDADE JUDICIÁRIA DE MANEIRA IRRESTRITA, NA FORMA DO ARTIGO 98, § 1º, DO CPC E PARA QUE A REJEIÇÃO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE FOSSE ACOLHIDA DIANTE DE NULIDADES E OUTRAS QUESTÕES SUSCITADAS PELA AGRAVANTE - DELIMITAÇÃO DO OBJETO DESTE RECURSO - CONSTATAÇÃO DE QUE A DECISÃO EFETIVAMENTE ATACADA CONSISTIU NA DECISÃO DATADA DE 16/11/2023, HAVENDO REPETIÇÕES DE QUESTIONAMENTOS NA EXCEÇÃO ANALISADA NO DIA 23/11/2023 - DEFERIMENTO PARCIAL DO PEDIDO DE GRATUIDADE JUDICIÁRIA, DE MANEIRA PONTUAL, A FIM DE DISPENSAR A AGRAVANTE EXCLUSIVAMENTE DO PAGAMENTO DE PREPARO DESTE RECURSO - MANUTENÇÃO DA REJEIÇÃO DA EXCEÇÃODE PRÉ-EXECUTIVIDADE DIANTE DA IMPOSSIBILIDADE DE REPETIÇÃO DE DISCUSSÃO DE MÉRITO JÁ EXAURIDA COM O TRÂNSITO EM JULGADO NO PRIMEIRO PROCESSO AINDA NA FASE DE CONHECIMENTO - PRECEDENTES DESTA CORTE NESSE MESMO SENTIDO SENTIDO - AGRAVO DE INSTRUMENTO CONHECIDO E PARCIALMENTE PROVIDO - DECISÃO UNÂNIME.
+(e-STJ Fls. 103/105)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão de admissibilidade do TJ/SE: inadmitiu o recurso especial da agravante em razão dos seguintes fundamentos:
+i) incidência da Súmula 284/STF, tendo em vista a inobservância ao princípio da dialeticidade recursal e ao fato de que "(..) a Recorrente trouxe, em suas razões recursais, argumentos que não servem de fundamento para combater a decisão impugnada, posto que trata, de matéria diversa à tratada no acórdão, tentando rediscutir o mérito da matéria já exaurida na fase de conhecimento, tais como a inexigibilidade do contrato, a ilegitimidade, a ausência de condições da ação, a ausência de danos, possibilidade de produção de provas e a coisa julgada" (e-STJ Fl. 220).
+Agravo em recurso especial: nas razões do presente recurso, a agravante alega, em síntese, que:
+i) estão presentes todas as condições de admissibilidade recursal;
+ii) houve prequestionamento da matéria; e
+iii) foram alegadas matérias de ordem pública, a ensejar a nulidade processual, no processo de cumprimento de sentença, as quais não foram analisadas pelo juízo de piso, reiterando-se, assim, as razões de mérito de seu recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte fundamento:
+i) incidência da Súmula 284/STF, tendo em vista a inobservância ao princípio da dialeticidade recursal e ao fato de que "(..) a Recorrente trouxe, em suas razões recursais, argumentos que não servem de fundamento para combater a decisão impugnada, posto que trata, de matéria diversa à tratada no acórdão, tentando rediscutir o mérito da matéria já exaurida na fase de conhecimento, tais como a inexigibilidade do contrato, a ilegitimidade, a ausência de condições da ação, a ausência de danos, possibilidade de produção de provas e a coisa julgada" (e-STJ Fl. 220).
+A agravante, assim, não refutou, de forma clara e específica, o óbice aplicado, não deduzindo, de fato, a adequada impugnação à incidência da Súmula 284/STF, notadamente para fins de demonstrar o efetivo desacerto da decisão.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
