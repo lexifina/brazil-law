@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de pedido liminar deduzido em sede de habeas corpus impetrado em favor de DENILSON SILVEIRA XAVIER FILHO, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada pela prática, em tese, dos delitos descritos nos artigos 33, caput, e, 35, da Lei n. 11.343/06.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que, manteve a decisão do juízo a quo, apontando que a prisão preventiva se encontra devidamente justificada, consignando em acórdão assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. Fundamentos para a decretação da prisão preventiva. Decisão motivada. Necessidade da prisão pelo perigo à ordem pública e à aplicação da lei penal. Inteligência dos artigos 312 e 313 do CPP. Investigação prévia dando conta de atividades de traficância realizadas pelo paciente. Gravidade concreta. Perigo de liberdade. Paciente que possui duas condenações transitadas em julgado por delito de mesma espécie. Risco de reiteração delitiva evidenciado. Maiores considerações sobre o delito convergem em discussão probatória, vedada em sede de habeas corpus, em virtude de seu caráter de cognição sumária. Paciente pai de três filhos menores de 12 anos. Ausência de demonstração de que opai seja o único responsável aos cuidados dos infantes, nos termos do art. 318, inciso VI, do CPP. Inviável a substituição da prisão preventiva por medida cautelar diversa, nos termos do artigo 319 do Código de Processo Penal. ORDEM DENEGADA, POR MAIORIA." (fl. 10)
+Neste writ, postula a Defesa, em linhas gerais, a revogação da prisão preventiva, em razão da flagrante ilegalidade verificada, da ausência de fundamentação para a segregação cautelar, ademais, a ocorrência do excesso do prazo na formação da culpa. (fls. 3-9)
+Requer a concessão da ordem liminarmente, com a confirmação no mérito e, subsidiariamente, a imposição de medidas cautelares diversas da prisão.
+Liminar indeferida, às fls. 38-40. Informações prestadas, às fls. 46-106 e 107-119.
+O Ministério Público Federal, às fls. 123-131, em parecer, manifestou-se pela denegação da ordem, nestes termos sumariado:
+"HABEAS CORPUS SUBSTITUTIVO. CRIMES DE TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DECORRENTE DA AUSÊNCIA DE REQUISITOS PARA A PRISÃO PREVENTIVA. PRESENTES OS REQUISITOS E FUNDAMENTOS PARA A SEGREGAÇÃO CAUTELAR. GRAVIDADE CONCRETA DA CONDUTA. CONDIÇÕES PESSOAIS DESFAVORÁVEIS. PELA DENEGAÇÃO DA ORDEM." (fl. 123)
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do Paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta e, a reiteração delitiva.
+No ponto, consta no acórdão hostilizado:
+" ..  Investigação prévia dando conta de atividades de traficância realizadas pelo paciente. Gravidade concreta. Perigo de liberdade. Paciente que possui duas condenações transitadas em julgado por delito de mesma espécie. Risco de reiteração delitiva evidenciado.  .. " (fl. 10)
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)" (AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
