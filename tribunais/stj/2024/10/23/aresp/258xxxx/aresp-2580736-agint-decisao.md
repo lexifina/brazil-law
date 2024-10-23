@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial por entender que não houve impugnação específica a todos os fundamentos da decisão que não admitiu o recurso especial.
+Nas razões do agravo interno, os agravantes sustentam terem impugnado a incidência da Súmula 7/STJ ao argumentarem que o cerne da controvérsia reside em questão puramente de direito.
+Diante da análise das razões do recurso, verifico que os óbices aplicados na decisão de inadmissibilidade foram devidamente impugnados, de modo que reconsidero a decisão recorrida e passo à nova análise do agravo em recurso especial.
+Cuida-se de agravo contra decisão que não admitiu o recurso especial interposto em face de acórdão assim ementado (fl. 1.316):
+AGRAVO DE INSTRUMENTO CUMPRIMENTO PROVISÓRIO DE SENTENÇA INSURGÊNCIA DO REQUERENTE CONTRA A DECISÃO QUE DETERMINOU A REALIZAÇÃO DE PERÍCIA PARA APURAÇÃO DE EVENTUAL SALDO DEVEDOR DO FINANCIAMENTO DOS DOIS IMÓVEIS QUESTÃO COMPLEXA QUE NECESSITA DE LAUDO PERICIAL, PORQUE DESBORDA DO MERO CÁLCULO ARITMÉTICO DECISÃO MANTIDA RECURSO NÃO PROVIDO.
+Nas razões do recurso especial, os agravantes apontam violação do art. 1.022, I, do Código de Processo Civil.
+Sustentam que, "não se discute se o uso da Tabela Price é válida ou não, mas sim de que a perícia judicial deverá aplicar tão somente a regra contratual expressamente pactuada nos contratos de venda e compra".
+Alegam que teria ocorrido a preclusão consumativa quanto à matéria em apreço.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à preliminar de ofensa ao art. 1.022 do CPC, não observo haver contradição no acórdão recorrido, senão julgamento contrário aos interesses do agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência. Ademais, não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso.
+No presente caso, o Tribunal de origem, se manifestou nos autos da seguinte forma (fls. 1.323-1.325 ):
+Com relação especificamente à incidência da Tabela Price a decisão da turma julgadora da 7ª Câmara de Direito Privado determinou o afastamento da incidência sobre as prestações das chaves, porque não previstas contratualmente (fls. 10 destes).
+Este raciocínio foi corroborado no decisum de fls. 1.044, do qual constou expressamente: "O V. Acórdão (fls. 93/100) exequendo, acolhera em parte o recurso, contudo, não determinara a alteração do sistema de amortização, consoante se infere de sua parte dispositiva: (..) Com efeito, do rol das pretensões deduzidas pelo autor, verifica-se que somente não fora acolhido o pedido de alteração do sistema de amortização".
+Não se ignora que as decisões anteriores determinaram a realização de mero cálculo aritmético para aferição de eventual saldo devedor dos financiamentos após a compensação de todos os valores já pagos pelos adquirentes (fls. 17 destes).
+A tabela Price por si só não é considerada abusiva. Neste sentido: Recurso Especial n. 587.639/SC, 2. ª Turma, Relator FRANCIULLI NETTO, v. u., DJ 18.10.2004, p. 238). Assim, eventual abusividade deve ser aferida no caso concreto com a realização de exame pericial.
+A ação revisional de contrato está pendente de julgamento, inclusive no que diz respeito à questão do valor do saldo devedor. O incidente processual provisório cobrou os valores dos danos morais e as verbas de sucumbência (parte líquida) e deu início aos cálculos da parte ilíquida, com o depósito da diferença de valores pela executada (fls. 599/600, 615 e 622/627 da origem e fls. 23 destes).
+Os autos foram para o contador para revisão dos cálculos, que os reputou corretos (fls. 23 destes). No entanto, determinou-se a realização de perícia (fls. 23 destes), com o peticionamento dos credores para chamar o feito à ordem (fls. 23 destes), sobrevindo a decisão que originou o presente recurso (fls. 24 destes).
+Não prospera, no entanto, o inconformismo do agravante porque se trata de cumprimento provisório de sentença, que corre por iniciativa e responsabilidade do credor, caso haja reforma da decisão (Código de Processo Civil, artigo 520).
+O § 3º do citado artigo indica que o executado pode depositar os valores para se isentar da multa, sendo que esse ato não é incompatível com o recurso por ele interposto, porque pode ocorrer a mudança do resultado final.
+A perícia foi determinada após as manifestações das partes acerca do valor do débito, sem consenso, e a revisão do valor pela contadoria.
+Correta a determinação de levantamento de valores pela executada, porque depositadas por ocasião das impugnações às planilhas da parte exequente, que desconsiderou a incidência da tabela Price, observando-se que, da análise dos autos, constatou-se que as diversas decisões não a afastaram totalmente, mas apenas sobre as prestações das chaves (fls. 10).
+O próprio exequente informa que a perícia foi realizada (fls. 843/871 e 918 da origem).
+Diante da complexidade dos cálculos e da falta de consenso das partes sobre o valor final, a perícia é necessária para o deslinde da controvérsia, sendo de rigor a manutenção da decisão.
+Observa-se que alterar a conclusão do acórdão recorrido demandaria reexame do acervo contratual e fático-probatório dos autos, providência vedada em recurso especial, ante o teor das Súmulas 5 e 7/STJ.
+Quanto à interposição pela alínea "c", do art. 105, III, da Constituição Federal, esta Corte tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso com base na qual deu solução à causa o Tribunal de origem.
+Em face do exposto, reconsiderando a decisão de fls. 1.642-1.643, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
