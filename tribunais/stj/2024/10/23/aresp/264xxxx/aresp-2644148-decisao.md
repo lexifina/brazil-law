@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 489, § 1º, inciso IV, e 1.022, incisos I e II, 502, 506, 508 e 513, §5º, todos do Código de Processo Civil; além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 183):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. REDIRECIONAMENTO DA EXECUÇÃO EM FACE DA FCA FIAT CHRYSLER AUTOMOVEIS BRASIL LTDA. POSSIBILIDADE. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA - IAC - 1199451-3/01. SÚMULA 80 DO TJPR. PRECEDENTES. RECURSO DESPROVIDO.
+1. O instrumento particular de compra e venda de veículo de mov. 1.5, indica que a transação foi efetuada em junho do ano de 2009. Em casos como o em questão, este Tribunal tem admitido o redirecionamento das execuções em face da Fiat Automóveis.
+2. Assim, independentemente da FCA Fiat Chrysler Automóveis Brasil LTDA não ter integrado o polo passivo na fase de conhecimento do processo, tem-se que a inclusão da agravada na fase de cumprimento de sentença se justifica pela incidência da Súmula 80 deste Tribunal de Justiça, que assim prevê: "A FIAT Automóveis S/A é solidariamente responsável pelos prejuízos causados aos consumidores decorrentes de contratos de consórcio irregulares firmados pela concessionária FIELTEC COMÉRCIO DE VEÍCULOS até 9 de julho de 2010, independentemente do pagamento após esse marco temporal".
+3. Por fim, não há que se falar em violação a coisa julgada, uma vez que não há limitação para aplicação da Súmula 80 desta Corte Estadual, podendo ser aplicada inclusive nos processos que se encontrem em fase de cumprimento de sentença. AGRAVO INTERNO. INSURGÊNCIA CONTRA DECISÃO LIMINAR. ANÁLISE DO MÉRITO DO RECURSO DE AGRAVO DE INSTRUMENTO. JULGAMENTO PREJUDICADO.
+Fica prejudicada a análise do recurso de agravo interno, interposto em face de decisão liminar que não concedeu antecipação de tutela recursal, quando há o julgamento do mérito do recurso de agravo de instrumento.
+Opostos embargos de declaração, foram rejeitados.
+A parte agravante sustenta que houve omissão e negativa de prestação jurisdicional quanto à arguição de violação dos arts. 502, 506, 508 e 513, § 5º, do CPC, uma vez que a Corte estadual não apreciou a questão referente à impossibilidade de redirecionamento do cumprimento de sentença contra aquele que não integrou o processo de conhecime nto, ainda que se trate de devedor solidário. Além disso, a Súmula 80 do TJPR em nenhum momento autorizou a desconstituição da coisa julgada para satisfazer a pretensão do consumidor a qualquer custo. Também se alega que, em seu Agravo de Instrumento, a FCA não discute a responsabilidade solidária que lhe foi atribuída pelo TJPR, mas sim sua inclusão no cumprimento de sentença e o redirecionamento da execução em seu desfavor, contrariando a coisa julgada e a segurança jurídica.
+Posta assim a questão, passo a decidir.
+Da leitura atenta do decidido, observa-se que, embora tenham sido debatidos os arts. 502, 506, 508 e 513, § 5º, do CPC, o Tribunal de origem não enfrentou de forma clara e específica as questões indispensáveis ao deslinde da causa.
+Ressalte-se que é condição indispensável ao conhecimento do recurso especial que a questão de direito ventilada em suas razões tenha sido analisada pelo acórdão impugnado, acompanhado de todas as provas necessárias ao seu convencimento.
+Dessa forma, ao se recusar a manifestar-se sobre a questão federal, o Tribunal estadual negou prestação jurisdicional.
+A propósito, veja-se o precedente abaixo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. EMBARGOS DE TERCEIRO. CONTRATOS GARANTIDOS POR HIPOTECA. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. CONFIGURADA. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação de execução. Embargos de terceiro.
+2. A existência de omissão e ausência de fundamentação relevantes à solução da controvérsia, não sanadas pelo acórdão recorrido, caracteriza violação dos arts. 489 e 1.022 do CPC/2015.
+3 - Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.932.995/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/2/2022, DJe de 16/2/2022.)
+Portanto, evidenciado que o Tribunal de origem apreciou o agravo de instrumento aquém dos limites da matéria devolvida.
+Em face do exposto, dou provimento ao recurso especial para cassar o acórdão recorrido, e determino a devolução dos autos ao Tribunal de origem, para que proceda a novo julgamento dos embargos de declaração, como entender de direito, apreciando detidamente todos os pontos suscitados pelo embargante, nos termos da fundamentação acima.
+As demais questões ficam prejudicadas.
+Intimem-se.
+EMENTA
