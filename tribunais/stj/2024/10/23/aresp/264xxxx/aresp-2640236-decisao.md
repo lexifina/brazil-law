@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por IBIPORÃ NEGÓCIOS IMOBILIÁRIOS S/A e MASB DESENVOLVIMENTO IMOBILIÁRIO S/A contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (e-STJ, fl. 1.503):
+APELAÇÕES CÍVEIS - DIALETICIDADE RECURSAL - PRESENÇA - AÇÃO DE RESOLUÇÃO DE CONTRATO - CERCEAMENTO DE DEFESA - NÃO OCORRÊNCIA - PROVA PERICIAL - DESNECESSIDADE - ILEGITIMIDADE PASSIVA - TEORIA DA ASSERÇÃO - AGENTE FINANCEIRO - AUSÊNCIA DE RESPONSABILIDADE - CESSIONÁRIA DE CRÉDITO - RESPONSABILIDADE PELA RESTITUIÇÃO - RECONHECIMENTO - DANOS MORAIS - CARACTERIZAÇÃO - EXCESSIVO ATRASO NA ENTREGA DAS OBRAS DE INFRAESTRUTURA - REGULARIZAÇÃO ADMINISTRATIVA - ÔNUS DA PROVA - INVERSÃO DA MULTA MORATÓRIA - IMPOSSIBILIDADE.
+1. Verificado que a parte insurgiu-se satisfatoriamente em face dos fundamentos expostos na sentença recorrida, sustentando as razões pelas quais entende merecer reforma ou cassação a sentença, não há se falar em ofensa ao princípio da dialeticidade. 2. Inexiste cerceamento de defesa se as questões debatidas nos autos dispensarem as provas requeridas e os elementos probatórios produzidos que são suficientes para o julgamento da lide.
+3. Adota-se a teoria da asserção para aferição da legitimidade e interesse de agir, pressupostos para o enfrentamento do mérito (art. 17 CPC), bastando, para tanto, a análise em abstrato da narrativa formulada na inicial, presumindo-se verdadeiros os fatos narrados pela parte autora.
+4. A instituição financeira, que atua apenas como agente econômica financiadora do empreendimento, não é responsável pelo descumprimento contratual relativo ao atraso na entrega das obras de infraestrutura do loteamento.
+5. A cessionária de créditos oriundos do contrato rescindido deve ser abrangida pela condenação à devolução dos valores eventualmente a ela pagos pelo adquirente.
+6. Há dano moral se a loteadora atrasa a entrega das obras, de modo injustificado e por período excessivo, frustrando expectativa de uso do imóvel, diante da ausência de infraestrutura básica do empreendimento que permita a construção de sua residência.
+7. Para fixação dos danos morais, deve o Juízo observar as circunstâncias do caso, para garantir ao ofendido a reparação pelo dano sofrido e desestimular o ofensor a praticar atos ilícitos ou que lesem terceiros, sem, contudo, representar enriquecimento sem causa para as partes.
+8. Incumbe à parte autora o ônus da prova quanto aos fatos constitutivos do seu direito (art. 373, I, CPC). Não comprovada a cobrança de tributo em razão do imóvel ou entrave verificado para regularização da titularidade nos órgãos administrativos, não há como acolher o pedido inicial.
+9. Em caso de inadimplemento absoluto, não se aplica a inversão da multa moratória prevista apenas para o inadimplemento relativo.
+Os embargos de declaração foram rejeitados (fls. 1.598/1.600-1.658/1.660) e, novamente opostos, foram acolhidos, para arbitrar honorários recursais (fls. 1.714/1.716).
+Nas razões do especial, aponta a parte recorrente violação do artigo 286 do Código Civil, além do dissídio jurisprudencial.
+Argumenta, em síntese, que o cessionário do crédito não teria legitimidade passiva em demanda ajuizada pelo promitente adquirente para resolver o contrato de promessa de compra e venda, por suposto atraso na entrega de imóvel.
+Contra-arrazoado (fls. 1.835/1.839), o recurso especial não foi admitido na origem (fls. 1.849/1.853), contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+Extraio do acórdão recorrido que a legitimidade da cessionária para responder pela resolução acarretada pelo inadimplemento da cedente decorre da cessão de crédito realizada (fls. 1.514/1.515):
+Através dos documentos de ordem n. 21 a 25, verifica-se que as 1ª e 3ª rés celebraram com a 4ª ré "instrumento particular de reconhecimento de obrigações e responsabilidades sobre empreendimentos imobiliários", para alienação dos "ativos financeiros" oriundos das promessas de compra e venda firmada com terceiros. Contrato averbado na JUCEMG em 03/04/2014. A 4ª ré celebrou com a 5ª ré contrato de gestão imobiliária dos referidos ativos. Contrato averbado na JUCESP em 16/07/2014.
+Desse modo, diante da cessão de crédito, as segundas apelantes passaram a ser responsáveis pelo recebimento dos valores oriundos aos contratos afetos ao loteamento, de modo que devem ser abrangidos pela condenação à restituição dos valores pagos.
+Se houve ou não pagamento após os contratos, a questão deverá ser apurada em liquidação de sentença, conforme determinado pelo d. Magistrado de origem, circunstância que não afasta a responsabilidade das rés. (grifo acrescido)
+A orientação adotada não destoa da jurisprudência desta Corte Superior, segundo a qual a cessão de crédito abarca o acessório, incluindo as garantias e os deveres acessórios da obrigação principal transferida, por não se tratar de condição personalíssima do cedente, a teor do que previsto no artigo 287 do Código Civil.
+A propósito:
+ ..
+2.1 Tal como o atual Código Civil dispõe em seus arts. 286 e 287, o diploma de 1916 preceituava em seus arts. 1.065 e 1.066 a possibilidade de o credor ceder seus créditos, "desde que se a isso não se opusesse a natureza da obrigação, a lei ou a convenção com o devedor", explicitando, ainda, que a transmissão, salvo disposição em contrário, abrangeria todos os acessórios. Por acessórios do crédito, compreende-se, naturalmente, os direitos de preferência, os privilégios, os direitos reais e pessoais de garantia, entre outros direitos, inerentes ao crédito transmitido. Não se transmitem ao cessionário, assim, os direitos acessórios indissociáveis da pessoa do cedente, decorrentes de sua condição personalíssima, salvo, naturalmente, se o cessionário detiver a mesma condição pessoal do cedente.
+ ..
+3. Recurso especial improvido.
+(REsp n. 1.526.092/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/3/2016, DJe de 1/4/2016.) (grifo acrescido)
+Incide, portanto, o óbice da Súmula 83/STJ.
+De toda forma, para acolher a tese da recorrente, de que o instrumento contratual realizado disporia de modo diverso, caracterizando-se como cessão de contrato, em vez de cessão de crédito, exonerando a responsabilidade do cessionário, seria imprescindível o reexame do contexto fático-probatório, além de cláusulas e disposições contratuais.
+O procedimento, porém, é vedado em recurso especial (Súmulas 5 e 7/STJ).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspenso no caso de beneficiário da J ustiça gratuita.
+Intimem-se.
+EMENTA
