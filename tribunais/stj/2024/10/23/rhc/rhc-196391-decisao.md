@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por GABRIEL VEIERMULLER DA SILVA e KAHUE DA SILVA PEREIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que os recorrentes foram presos em flagrante em 19/11/2023, pela suposta prática do crime de tráfico de drogas. Homologada a prisão em flagrante em audiência de custódia, houve a conversão em prisão preventiva.
+Foi oferecida denúncia, imputando aos recorrentes a prática, em tese, dos crimes previstos nos arts. 33, "caput" e 35 da Lei n. 11.343/2006. Em relação a Kahuê, foram imputadas também as condutas previstas no art. 329 do Código Penal, no art. 16, "caput" e §1º, inciso IV, da Lei n. 10.826/2003, na forma do art. 69 do Código Penal.
+A denúncia foi recebida em 04/03/2024 e as prisões preventivas foram revisadas e mantidas pelo Juízo de primeiro grau. Impetrado habeas corpus na origem, a Segunda Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, por unanimidade, denegou a ordem.
+Foi interposto o presente recurso em que pretendem os recorrentes a revogação da custódia cautelar, sustentando a ocorrência de excesso de prazo na formação da culpa, por se tratar de processo com alegada baixa complexidade.
+Recebido o recurso ordinário em habeas corpus (fls. 69), foram apresentadas contrarrazões (fls. 74-76) e manifestou-se o Ministério Publico Federal pelo seu não provimento.
+É o relatório.
+A prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/04/2021, DJe de 30/04/2021.
+O Tribunal local examinou a questão nos seguintes termos, conforme se observa do voto condutor do acórdão (fls. 51-53):
+Outrossim, quanto ao invocado excesso de prazo, orienta-se este órgão fracionário pelo princípio da razoabilidade, segundo o qual somente a desídia da autoridade processante na condução do feito é que o configura, coisa que não se pode afirmar ocorra no caso concreto. Destaco que a denúncia foi recebida em 04MAR2024, repelido o argumento de excesso de prazo no tópico, tramitando o feito dentro da normalidade. Em 12MAR2024, ofertada defesa prévia pelos ora pacientes. Diante do exposto, voto por denegar a ordem.
+Ainda, vale transcrever trecho da manifestação do Ministério Público Federal, segundo o qual (fls. 86-89):
+No caso, extrai-se dos autos que se trata de feito complexo, envolvendo três réus, assistidos por advogados diferentes, a oportunização do contraditório às partes acerca dos laudos periciais (lembrando que o caso em espécie envolve 4 quilogramas de crack, 6,25 quilogramas de cocaína e 240,5 quilogramas de maconha), com a realização dessas diligências, além dos diversos pedidos de revogação da prisão preventiva e pedido de transferência do preso Gabriel. Sendo assim, ao menos por ora, inviável o reconhecimento do alegado excesso de prazo na formação da culpa.
+No caso, não se verifica desídia ou mora estatal na ação penal quando a sequência dos atos processuais afasta a ideia de paralisação indevida do processo ou de responsabilidade do Estado persecutor, razão pela qual não há que se falar em ilegalidade por excesso de prazo.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E CONSUMADO. ORGANIZAÇÃO CRIMINOSA. MEDIDAS CAUTELARES. FUNDAMENTAÇÃO PER RELATIONEM. IMPRESCINDIBILIDADE DA MEDIDAS DEMONSTRADA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se configura desprovida de fundamentos a decisão que mantém as medidas cautelares impostas pelos mesmos fundamentos quando da sua decretação.
+2. A chamada técnica da fundamentação per relationem (também denominada motivação por referência ou por remissão) é reconhecida pelo Supremo Tribunal Federal como legítima e compatível com o disposto no art. 93, IX, da Constituição Federal.
+3. Diante das circunstâncias concretas do caso e em observância ao binômio proporcionalidade e adequação, é possível a manutenção das medidas cautelares quando se mostrarem necessárias para garantir a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal.
+4. Inexiste excesso de prazo nas hipóteses em que não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 160.743/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.)
+Ante o exposto, nos termos do ar t. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. PRISÃO CAUTELAR. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. DECURSO DE TEMPO COMPATÍVEL COM OS PARÂMETROS FÁTICO-PROCESSUAIS. RECURSO NÃO PROVIDO.
