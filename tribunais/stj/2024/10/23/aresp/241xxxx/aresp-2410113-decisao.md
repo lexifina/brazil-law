@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS HENRIQUE DE CARVALHO FILHO BOOKPARTNERS LTDA. contra decisão que não admitiu seu recurso especial, o qual fora interposto, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento ao seu agravo de instrumento, mantendo decisão que indeferiu o pedido de concessão de Justiça gratuita, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - JUSTIÇA GRATUITA - Ausência de declaração de pobreza firmada pela parte ou por advogado com poder bastante (artigos 98, caput, 99, caput e § 3º, e 105, caput, parte final, do CPC/2015) - Pressuposto legal ausente - Indeferimento - Recurso desprovido, com determinação, revogado efeito suspensivo.
+Alega o agravante que o acórdão recorrido violou os arts. 98, caput, 99, caput e § 3º, e 105, caput, do Código de Processo Civil.
+Sustenta, em síntese, que a decisão condicionou o deferimento do benefício de Justiça gratuita à apresentação de declaração de pobreza firmada de próprio punho ou de procuração com poderes específicos, o que não é exigido pela legislação vigente.
+Afirma que o art. 98 do CPC confere o direito à gratuidade de Justiça a quem comprovar insuficiência de recursos, sem a necessidade de declaração firmada de próprio punho. Da mesma forma, o art. 99 presume verdadeira a alegação de insuficiência deduzida por pessoa natural, sem que seja imposta tal exigência.
+Requer a reforma do acórdão para que lhe seja concedido o benefício da gratuidade de justiça ou, alternativamente, a sua cassação para novo julgamento.
+Sem contrarrazões.
+Assim delimitada a controvérsia, passo a decidir.
+Na hipótese dos autos, o Tribunal de origem manteve decisão que indeferiu pedido de assistência judiciária apenas em virtude da não apresentação de declaração firmada pela parte ou por advogado com procuração específica a esse fim. Confira-se:
+Recurso infundado. De fato, para análise da justiça gratuita não se dispensa apresentação de declaração firmada pela parte ou por advogado com poder bastante (procuração específica àquele fim), nos termos dos artigos 98, caput, 99, caput e § 3º, 100, § único, 105, caput, parte final, do CPC.
+Ocorre que a agravante não apresentou aquela declaração, inexistente, ainda, procuração com poder bastante (vide fl. 14 dos autos originários). Com isso, ausente pressuposto legal à tencionada concessão.
+Cabe se diga que, fosse outra a interpretação, cairiam no vazio por exemplo, as sanções do artigo 100, § único, do CPC e da Lei nº 7.115/83, artigos 1º, caput, 2º e 3º (responsabilidade civil, administrativa e criminal); e, como sabido, a lei não encerra (ou pode encerrar) termos supérfluos.
+Em suma, sem o elo legalmente previsto (ausente declaração de próprio punho do ou procuração com poder bastante), à eventual constatação de falsidade não sobreviria qualquer possibilidade de responsabilização.
+Outrossim, se referido requisito não foi observado em 1ª instância, nada há a ser feito. Demais, seria plenamente possível sua juntada no ato da interposição do recurso, já que se trata de documento a ser elaborado diretamente pela interessada e indispensáveis à concessão do benefício.
+Verifico que, ao assim decidir, a Corte de origem se distanciou da jurisprudência deste Superior Tribunal de Justiça, que há muito reconhece ser dispensável a apresentação de declaração de próprio punho ou subscrita por advogado munido de poderes especiais para tanto para a postulação da assistência judiciária.
+A propósito:
+PROCESSO CIVIL - GRATUIDADE DA JUSTIÇA (LEI 1.060/50) - DECLARAÇÃO DE POBREZA - AFIRMAÇÃO FEITA NA PETIÇÃO INICIAL OU NO CURSO DO PROCESSO.
+1. O pedido de assistência judiciária gratuita previsto no art. 4º da Lei 1.060/50, quanto à declaração de pobreza, pode ser feito mediante simples afirmação, na própria petição inicial ou no curso do processo, não dependendo a sua concessão de declaração firmada de próprio punho pelo hipossuficiente.
+2. Recurso especial provido.
+(REsp n. 901.685/DF, relatora Ministra Eliana Calmon, Segunda Turma, julgado em 3/6/2008, DJe de 6/8/2008.)
+PROCESSUAL CIVIL. ASSISTÊNCIA JUDICIÁRIA. PEDIDO FORMULADO PELA PARTE EM PETIÇÃO INDEFERIDO PELO TRIBUNAL ESTADUAL. EXIGÊNCIA DE ASSINATURA POR ADVOGADO DOTADO DE PODERES ESPECIAIS PARA TANTO, BEM COMO DE APRESENTAÇÃO DE DECLARAÇÃO DE POBREZA. DESCABIMENTO. LEI N. 1.060/50, ART. 4º, § 1º.
+I. Bastante à postulação da assistência judiciária a apresentação de petição ao juiz da causa, sem necessidade de sua instrução com declaração de pobreza pelo beneficiário ou que aquela venha subscrita por advogado munido de poderes especiais para tanto.
+II. Inexistindo, de outro lado, indicação pelo acórdão de elementos nos autos incompatíveis com a pretensão, e, tampouco, impugnação da parte adversa, é de ser deferida a gratuidade requerida.
+III. Recurso especial conhecido e provido, para, afastada a deserção do agravo de instrumento, determinar à Colenda Corte estadual que prossiga no seu julgamento.
+(REsp n. 655.687/MG, relator Ministro Aldir Passarinho Junior, Quarta Turma, julgado em 14/3/2006, DJ de 24/4/2006, p. 402.)
+PROCESSO CIVIL. RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA. DESERÇÃO. INOCORRÊNCIA. INDEFERIMENTO DO BENEFÍCIO. POSSIBILIDADE. FUNDADAS RAZÕES. LEI 1.060/50, ARTS. 4º E 5º. ENUNCIADO Nº 7, SÚMULA/STJ. VALORAÇÃO DA PROVA. PRECEDENTE. RECURSO DESACOLHIDO.
+I - Pelo sistema legal vigente, faz jus a parte aos benefícios da assistência judiciária, mediante simples afirmação, na própria petição, de que não está em condições de pagar as custas do processo e os honorários de advogado, sem prejuízo próprio ou de sua família (Lei nº 1.060/50, art. 4º), ressalvado ao juiz, no entanto, indeferir a pretensão se tiver fundadas e motivadas razões para isso (art. 5º).
+II - Verificar, por outro lado, se as razões do indeferimento são fundadas ou não, imprescindível o revolvimento dos fatos da causa, procedimento defeso no âmbito desta Corte, a teor do enunciado nº 7 de sua Súmula. A valoração da prova, por sua vez, pressupõe a inobservância a um princípio ou uma regra no campo probatório, o que no caso inocorreu.
+(REsp n. 172.577/SP, relator Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, julgado em 16/6/1998, DJ de 28/9/1998, p. 75.)
+Considerando que a análise da comprovação da alegada insuficiência é matéria de fato, impõe-se o retorno dos autos ao Tribunal de origem para reexame do pedido, à luz da jurisprudência desta Corte Superior.
+Em face do exposto, conheço do agravo para dar provimento ao recurso especial a fim de determinar o retorno dos autos ao Tribunal local para que reexamine o pedido de assist ência judiciária do ora agravante , ultrapassada a questão relativa à necessidade de apresentação de declaração de pobreza.
+Intimem-se.
+EMENTA
