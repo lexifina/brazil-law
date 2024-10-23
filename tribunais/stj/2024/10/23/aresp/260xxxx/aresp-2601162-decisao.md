@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por NISSAN DO BRASIL AUTOMÓVEIS LTDA contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (e-STJ, fl. 392):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DE AMBAS AS PARTES. 1. RECURSO DA RÉ. AUSÊNCIA DE COMPROVAÇÃO DO FATO CONSTITUTIVO DO DIREITO DA AUTORA. INSUBSISTÊNCIA. COBRANÇA FUNDADA EM QUATRO RUBRICAS DIFERENTES. CONDENAÇÃO RELATIVA A DUAS DELAS. APELANTE QUE NÃO APRESENTOU IMPUGNAÇÃO ESPECÍFICA EM RELAÇÃO A UMA DAS RUBRICAS (ART. 341 DO CPC) E EFETUOU COMPENSAÇÃO INDEVIDA EM RELAÇÃO À OUTRA, HAJA VISTA SE TRATAR DE CRÉDITO CONCURSAL. HONORÁRIOS RECURSAIS. CABIMENTO. 2. RECURSO DA AUTORA. PRELIMINAR EM CONTRARRAZÕES. INOVAÇÃO RECURSAL. ANÁLISE DESPICIENDA. PRIMAZIA DA RESOLUÇÃO DE MÉRITO. INSURGÊNCIA EM RELAÇÃO ÀS DUAS RUBRICAS NÃO ABRANGIDAS PELA CONDENAÇÃO. NÃO ACOLHIMENTO. IMPUGNAÇÃO ESPECÍFICA REALIZADA PELA PARTE APELADA EM CONTESTAÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO DO FATO CONSTITUTIVO DO DIREITO. ÔNUS QUE LHE INCUMBIA POR FORÇA DO ART. 373, I, DO CPC. PROVA DOCUMENTAL PRODUZIDA UNILATERALMENTE INSUFICIENTE PARA SUBSIDIAR A COBRANÇA EM RELAÇÃO A ESSAS VERBAS. HONORÁRIOS RECURSAIS. CABIMENTO. RECURSOS DESPROVIDOS.
+Os embargos de declaração foram rejeitados (fls. 429/431).
+Nas razões do especial, aponta a recorrente violação dos artigos 412, parágrafo único, 489 e 1.022 do Código de Processo Civil; artigos 368 e 369 do Código Civil.
+Argumenta, em síntese, que remanesceria omissão no acórdão recorrido.
+Defende, ainda, que estariam presentes os pressupostos para o reconhecimento da compensação parcial de dívida com a parte recorrida.
+Contra-arrazoado (fls. 475/485), o recurso especial não foi admitido na origem (fls. 488/492); contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+De início, em relação à alegada violação dos artigos 489 e 1.022 do Código de Processo Civil, observo que o Tribunal de origem consignou expressamente que a compensação não poderia ser realizada, por se tratar de crédito contra devedor em recuperação, referente a momento anterior àquele em que requerida a recuperação.
+A propósito, extraio do acórdão recorrido (fls. 429/430):
+Também aduz a apelante que a sentença indevidamente reconheceu como devida a parcela no valor de R$ 228.929,16. Isso porque o documento particular considerado pelo juízo de origem como prova da existência dessa obrigação comprova igualmente que parte dela foi validamente compensada em 30 de setembro de 2017 com débitos da apelada, constituídos antes da apresentação do pedido de recuperação judicial. Conclui, então, que a compensação dos débitos com data de vencimento anterior a 30 de julho de 2017, no valor total de R$ 111.509,59, foi plenamente válida, tendo em vista o disposto nos arts. 368 e 369 do Código Civil.
+O recurso novamente não merece prosperar.
+Como bem consignado pelo juízo de origem, um dos valores cobrados na presente ação (R$ 228.929,16) tem por origem a compensação realizada pela recorrente em 30-9-2017 referente aos três primeiros itens da planilha acostada no evento 17 (p. 2, doc 35), a saber, R$ 119.138,20, R$ 67.810,20 e R$ 41.980,76.
+No entanto, restou comprovado pelas notas fiscais acostadas no evento 18 e em comparação aos chassis dos veículos constantes na planilha apresentada pela preposta da própria apelante que os referidos créditos foram constituídos anteriormente ao pedido de recuperação judicial, razão pela qual, independentemente de terem sido habilitados ou não, a compensação efetuada em 30-9-2017 não poderia ter sido realizada.
+Nesse passo, não há falar que "a sentença deixou de se manifestar sobre a integralidade do documento" e de "concluir, igualmente, que pelo menos parte da compensação realizada em 30 de setembro de 2017 foi válida, já que se deu entre créditos e débitos recíprocos indiscutivelmente constituídos antes da apresentação do pedido de recuperação judicial", pois o que estava em apreciação era a compensação da rubrica cobrada na presente ação, repito, o valor de R$ 228.929,16.
+Como se vê, o Tribunal de origem concluiu que seria indevida a compensação parcial, por considerar que envolvia débito da recuperanda anterior ao pedido de soerguimento, estando sujeito aos efeitos da recuperação, rejeitando a exceção apresentada pela recorrente.
+Diante desse contexto, como a controvérsia foi analisada nos termos em que devolvida, não há cogitar-se de omissão ou obscuridade a respeito; razão pela qual afasto a alegação de contrariedade aos artigos 489 e 1.022 do Código de Processo Civil.
+No que se refere à controvérsia de fundo, verifica-se que a compensação pretendida tem a ver com crédito constituído antes da recuperação judicial, o que inviabiliza a compensação, independentemente da data da consolidação das contas.
+Diante desse contexto, não há como alterar a conclusão adotada no acórdão recorrido, uma vez que de acordo com jurisprudência consolidada nesta Corte Superior, inclusive em precedente de repetitivo (Tema 1.051/STJ).
+Nesse sentido:
+ ..
+2. Consoante Tema n. 1.051 do STJ, para "o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador".
+ ..
+(AgInt no AREsp n. 1.721.234/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Portanto, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+De toda forma, para infirmar o pressuposto adotado pela Corte Local quanto à anterioridade da dívida da recuperanda em relação ao pedido de recuperação judicial, seria imprescindível o reexame do contexto fático-probatório; o que, porém, é vedado em recurso especial (Súmula 7/STJ).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspenso no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
