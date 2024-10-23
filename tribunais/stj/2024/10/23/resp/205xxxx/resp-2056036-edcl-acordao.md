@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2024 a 23/10/2024, por unanimidade, não acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ALEGADA OMISSÃO. ANPP. AUSÊNCIA DE NOTIFICAÇÃO VÁLIDA ACERCA DO OFERECIMENTO DO ACORDO. VÍCIO INEXISTENTE. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do CPP, é cediço que os embargos de declaração, espécie de recurso com justificação restrita, destinam-se a sanar ambiguidade, esclarecer obscuridade, eliminar contradição e/ou suprir "omissão" existente no julgado, hipóteses de incidência (integrativas) que se não coadunam ao caso vertente.
+2. Nos termos da legislação vigente não existe a obrigatoriedade do Ministério Público notificar o investigado em caso de recusa em se propor o acordo de não persecução penal. De igual forma, na hipótese dos autos, em que o Ministério Público entendeu cabível o acordo, mas não obteve êxito nas tentativas de comunicar com o acusado, tendo juntado, aos autos, os AR"s como prova de suas tentativas infrutíferas de efetivar a ciência do acusado sobre a proposta de acordo.
+3. Por tratar-se de "mero inconformismo", sem correspondência à redação do art. 619 do CPP, afigura-se incabível, na via dos aclaratórios, a tentativa de rediscussão de matéria devidamente apreciada e já decidida, conforme interpretação sistêmica do art. 3º, do CPP, c/c os arts. 505 e 507, ambos do CPC/15.
+4 . Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por EMERSON RODRIGO REBELO em face de acórdão desta Relatoria que negou provimento ao agravo regimental (e-STJ fls. 267-272).
+Nas razões dos aclaratórios, sustenta o embargante que a decisão é omissa, pois deixou o colegiado, todavia, de analisar as peculiaridades do caso concreto que escapam da jurisprudência aplicada à espécie (e-STJ fl. 280) - no caso, a ausência de ciência por parte do ora agravante acerca da possibilidade de celebração do acordo de não persecução penal.
+Replica que,
+não se trata de um réu que está exigindo do Poder Judiciário que seja reconhecido seu suposto direito subjetivo ao ANPP, mas ao revés, trata-se de um acusado que REÚNE os requisitos legais para o Acordo previsto no art. 28-A do CPP- tanto que o MPF realizou a oferta-, mas que não teve a oportunidade de usufruir da medida despenalizadora pela ineficácia das diligências empreendidas pelo Parquet Federal, que encaminhou carta para dois endereços sem os dados suficientes que pudessem levar os Correios a fazer chegar ao seu conhecimento a notificação ministerial (e-STJ fls. 282-283).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios a fim de que, sanada a omissão apontada (e-STJ fls. 279-284).
+Contrarrazões não apresentadas pelo Parquet (e-STJ fls. 288-294).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ALEGADA OMISSÃO. ANPP. AUSÊNCIA DE NOTIFICAÇÃO VÁLIDA ACERCA DO OFERECIMENTO DO ACORDO. VÍCIO INEXISTENTE. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do CPP, é cediço que os embargos de declaração, espécie de recurso com justificação restrita, destinam-se a sanar ambiguidade, esclarecer obscuridade, eliminar contradição e/ou suprir "omissão" existente no julgado, hipóteses de incidência (integrativas) que se não coadunam ao caso vertente.
+2. Nos termos da legislação vigente não existe a obrigatoriedade do Ministério Público notificar o investigado em caso de recusa em se propor o acordo de não persecução penal. De igual forma, na hipótese dos autos, em que o Ministério Público entendeu cabível o acordo, mas não obteve êxito nas tentativas de comunicar com o acusado, tendo juntado, aos autos, os AR"s como prova de suas tentativas infrutíferas de efetivar a ciência do acusado sobre a proposta de acordo.
+3. Por tratar-se de "mero inconformismo", sem correspondência à redação do art. 619 do CPP, afigura-se incabível, na via dos aclaratórios, a tentativa de rediscussão de matéria devidamente apreciada e já decidida, conforme interpretação sistêmica do art. 3º, do CPP, c/c os arts. 505 e 507, ambos do CPC/15.
+4 . Embargos de declaração rejeitados.
+VOTO
+Atendido o pressuposto recursal extrínseco da tempestividade, os aclaratórios, todavia, não logram acolhimento.
+De início, nos termos do art. 619 do CPP, é cediço que os embargos de declaração, espécie de recurso com justificação restrita, destinam-se a sanar ambiguidade, esclarecer obscuridade, eliminar contradição e/ou suprir omissão existente no julgado, hipóteses de incidência (integrativas) que se não coadunam ao caso vertente.
+O Tribunal de origem reformou a sentença que rejeitou a denúncia nos seguintes termos (e-STJ fl. 157):
+O Parquet Federal, titular da ação penal, reconheceu que o caso de EMERSON comporta o oferecimento de acordo de não persecução penal (ANPP)(evento 1, PROMO_MPF2, da AP). Todavia, a sua celebração não se concretizou porque, segundo o recorrente, embora tenha expedido notificações para os endereços conhecidos do acusado, não houve êxito em localizá-lo.
+Com efeito, no julgamento do HC nº 209.448/RS, entendeu a Ministra CÁRMEN LÚCIA, que o Juízo não pode rejeitar a denúncia com base em eventual falta de intimação do investigado pelo Ministério Público para os fins do art. 28-A do CPP.
+(..)
+Arrematando o tópico, convém ressaltar que, em havendo alguma irregularidade no oferecimento da proposta do ANPP (como a não localização do denunciado) ou mero lapso do órgão ministerial, e acaso recebida a denúncia, poderá a defesa do acusado, após a sua citação, questionar, por ocasião da apresentação da defesa prévia, o não oferecimento do acordo por parte de órgão ministerial, requerendo ao juiz que remeta os autos ao órgão superior do Ministério Público, nos termos do art. 28, caput e 28-A, § 14, ambos do CPP.
+Nesses termos, merece acolhida a irresignação ministerial, para reformar a decisão que rejeitou a denúncia, sem prejuízo da possibilidade de se discutir eventual irregularidade na propositura do acordo de não persecução penal pela via do art. 28-A, § 14, do CPP.
+A decisão impugnada consignou, acerca da da matéria que:
+Verifica-se que o Tribunal de origem considerou inidônea a rejeição da denúncia em razão apenas no não oferecimento do ANPP pelo Ministério Público.
+Tal entendimento não destoa da jurisprudência desta Corte, no sentido de o ANPP não é um direito subjetivo do acusado, podendo o Ministério Público oferecê-lo, se presentes os requisitos legais, ou não, a partir de uma estratégia de política criminal adotada pela Instituição.
+Além disso, o oferecimento ou não do ANPP não é condição de procedibilidade da ação penal, não tendo a ausência de sua oferta o condão de ensejar a rejeição da denúncia.
+A oferta do ANPP pelo titular da ação penal ao acusado não se revela medida obrigatória, dada sua natureza negocial.
+Com efeito,
+Na legislação vigente atualmente que permanece em vigor não existe a obrigatoriedade do Ministério Público notificar o investigado em caso de recusa em se propor o acordo de não persecução penal (AgRg no REsp n. 1.948.350/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 9/11/2021, DJe de 17/11/2021)
+De igual forma, na hipótese dos autos, em que o Ministério Público entendeu cabível o acordo, mas não obteve êxito nas tentativas de comunicar com o acusado, tendo juntado, aos autos, os AR"s como prova de suas tentativas infrutíferas de efetivar a ciência do acusado sobre a proposta de acordo.
+Dessa forma, verifica-se a ausência de ofensa ao art. 619 do CPP, consubstanciada em "mero inconformismo" da parte com o desfecho do acórdão que lhe fora desfavorável.
+Em casos semelhantes, esta Corte Superior tem verberado que:
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte (EDcl nos EDcl no AgRg no AREsp n. 2.153.059/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024, grifamos).
+ o  reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento (EDcl no AgRg no AREsp n. 2.522.786/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/5/2024, DJe de 28/5/2024, grifamos).
+ n ão se verifica a alegada ofensa ao art. 619 do CPP, pois a Corte Estadual enfrentou suficientemente todas as impugnações apresentadas pela defesa, não havendo falar em omissão ou falta de fundamentação no aresto hostilizado. Destarte, não há vícios no enfrentamento das teses defensivas, apenas inconformismo da parte com o resultado (AgRg no AREsp n. 2.550.212/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024, grifamos).
+À guisa de conclusão, por tratar-se de "mero inconformismo", afigura-se incabível, na via dos aclaratórios, a tentativa de rediscussão de matéria devidamente apreciada e já decidida, conforme interpretação sistêmica dos arts. 505 e 507, CPC/15, c/c o art. 3º, CPP.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
