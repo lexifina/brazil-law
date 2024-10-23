@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. INEXISTÊNCIA DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INCIDÊNCIA DA SÚMULA 64 DO STJ. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que negou seguimento a habeas corpus impetrado em favor de Rafael Walsh Guimarães, condenado pelos crimes de tráfico de drogas e associação. A defesa alegou constrangimento ilegal devido ao excesso de prazo na formação da culpa, com o paciente preso há mais de seis meses, e requereu a revogação da prisão cautelar ou a substituição por medidas cautelares alternativas.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se houve constrangimento ilegal por excesso de prazo na formação da culpa, considerando-se a duração da prisão preventiva do paciente e o andamento processual, especialmente em relação ao incidente de insanidade mental solicitado pela defesa.
+III. RAZÕES DE DECIDIR
+3. A análise do excesso de prazo na instrução criminal deve ser feita com base nos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto.
+4. O atraso na conclusão da instrução processual não decorre de desídia do Poder Judiciário, mas sim de requerimento da própria defesa, que solicitou a instauração de incidente de insanidade mental, sendo esta a última diligência pendente.
+5. O prazo processual não é rígido, e a complexidade do feito, somada ao pedido defensivo de incidentes, justifica a dilação temporal, nos termos da Súmula 64 do STJ.
+6. Não se verifica flagrante ilegalidade ou abuso de poder que justifique a concessão da ordem de habeas corpus de ofício.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 1.261-1.262).
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. INEXISTÊNCIA DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INCIDÊNCIA DA SÚMULA 64 DO STJ. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que negou seguimento a habeas corpus impetrado em favor de Rafael Walsh Guimarães, condenado pelos crimes de tráfico de drogas e associação. A defesa alegou constrangimento ilegal devido ao excesso de prazo na formação da culpa, com o paciente preso há mais de seis meses, e requereu a revogação da prisão cautelar ou a substituição por medidas cautelares alternativas.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se houve constrangimento ilegal por excesso de prazo na formação da culpa, considerando-se a duração da prisão preventiva do paciente e o andamento processual, especialmente em relação ao incidente de insanidade mental solicitado pela defesa.
+III. RAZÕES DE DECIDIR
+3. A análise do excesso de prazo na instrução criminal deve ser feita com base nos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto.
+4. O atraso na conclusão da instrução processual não decorre de desídia do Poder Judiciário, mas sim de requerimento da própria defesa, que solicitou a instauração de incidente de insanidade mental, sendo esta a última diligência pendente.
+5. O prazo processual não é rígido, e a complexidade do feito, somada ao pedido defensivo de incidentes, justifica a dilação temporal, nos termos da Súmula 64 do STJ.
+6. Não se verifica flagrante ilegalidade ou abuso de poder que justifique a concessão da ordem de habeas corpus de ofício.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 1.261-1.264):
+Trata-se de habeas corpus impetrado em favor de RAFAEL WALSH GUIMARÃES, contra acórdão assim ementado (e-STJ fl. 252):
+"HABEAS CORPUS - TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO - EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA - INOCORRÊNCIA - AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO REALIZADA - INSTRUÇÃO PRÓXIMA DO FIM - PENDÊNCIA DE DILIGÊNCIA REQUERIDA PELA DEFESA - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. - Os prazos processuais devem ser analisados de forma global e de acordo as particularidades de cada caso concreto, em consonância com os princípios da proporcionalidade e da razoabilidade.
+- Não há falar em constrangimento ilegal por excesso de prazo na formação da culpa se o juízo de origem vem atuando de maneira diligente para garantir o regular prosseguimento do processo, cuja instrução criminal se encontra próxima do encerramento. Além do mais, a mesma conclusão se extrai da Súmula nº 64, do Superior Tribunal de Justiça, porque no caso em comento a Defesa provocou a mora no processo, pois a instrução pende apenas do cumprimento de requerimento defensivo"
+Imputa-se ao paciente a suposta prática do crime de previsto no art. 33, caput, e art. 35, da Lei n. 11.343/2006 1253).
+A defesa alega, em síntese: a) A ocorrência de constrangimento ilegal, em razão do excesso de prazo na formação da culpa, tendo em vista que a prisão já se perdura há 234 dias (fl. 3); Ressalta que o paciente foi preso em flagrante delito em data de 19 de setembro do ano de 2023. Até a presente data, o feito ainda se encontra aguardando o encerramento do incidente de insanidade mental que tramita no juízo a quo sob o nº. 5001278-42.2024.8.13.0625, ESTANDO O PACIENTE PRESO há mais de 06 meses (fl. 5); Aduz que diversamente do que consignou a turma julgadora (autoridade coatora) a mora processual não se deu por culpa da defesa, mormente o fato DE TER REQUERIDO A INSTAURAÇÃO DO INCIDENTE EM SEDE DE DEFESA PRELIMINAR (fl. 6);
+Ao final, requer a concessão da ordem para que seja revogada a prisão cautelar do paciente, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+"A Terceira Seção deste Superior Tribunal de Justiça restringe a admissibilidade do habeas corpus quando o ato ilegal for passível de impugnação pela via própria, sem olvidar a possibilidade de concessão da ordem de ofício (HC nº 535.063/SP)".
+(AgRg no HC n. 741.874/SP, sob a minha relatoria, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação trazida a esta instância, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Quanto ao alegado excesso de prazo, já tive a oportunidade de assentar que
+"1. Os prazos indicados na legislação para a finalização dos atos processuais servem apenas como parâmetro geral, ou seja, não se pode deduzir eventual delonga como excessiva tão somente pela soma aritmética daqueles.
+2. Em homenagem ao princípio da razoabilidade, é admissível certa variação, de acordo com as peculiaridades de cada caso, de modo que o constrangimento deve ser reconhecido como ilegal somente quando o retardo ou a morosidade sejam injustificados e possam ser atribuídos ao Poder Judiciário. " (AgRg no HC 786537 / PE, RELATORA Ministra DANIELA TEIXEIRA, QUINTA TURMA, DATA DO JULGAMENTO 05/03/2024, DATA DA PUBLICAÇÃO/FONTE DJe 08/03/2024)
+Ou seja, ausente rigidez nos lapsos temporais indicados na legislação processual, só há de se falar em excesso na formação da culpa se, apuradas as circunstâncias do caso concreto, seja constatada a ocorrência de injustificável negligência na condução processual, desde que não oponível à parte interessada.
+A análise da hipótese posta à baila não indica, contudo, quadro que aponte neste sentido, na medida em que os elementos apontados pelo Tribunal de origem corroboram a existência de complexidade decorrente do delito apurado, além de indicar que o processo tem seguido sua marcha.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+No caso, o acórdão impetrado trouxe as datas dos principais atos da instrução processual: "o paciente foi preso em flagrante delito no dia 19 de setembro de 2023, custódia convertida em preventiva no dia seguinte;  ..  a denúncia foi recebida no dia 27 de outubro de 2023, com a ordem de notificação sendo expedida três dias depois: 30/10/2023. A notificação foi cumprida no dia 21 de novembro de 2023, a Defesa preliminar foi apresentada e a denúncia recebida no dia em 15/12/2023. A audiência de instrução inicialmente designada para o dia 29 de janeiro de 2024 foi adiada para o dia 05 de fevereiro de 2024, em razão de pedido formulado pela Defesa do paciente, sendo ouvidas as testemunhas e interrogados os acusados. Ao final, a Defesa de RAFAEL pugnou pela abertura do incidente de insanidade mental, designado para o dia 16 de setembro de 2024, sendo essa a última diligência pendente de cumprimento no processo para encerramento de instrução" (e-STJ, fl. 1255)
+A Corte de origem ainda ressaltou que "a instrução apenas não foi encerrada em razão de requerimento formulado pela Defesa" (e-STJ, fl. 1256).
+Nesse contexto, reforço que a decisão monocrática agravada está de acordo com a jurisprudência da Terceira Seção desta Corte, no sentido de que o excesso de prazo não resulta de critério matemático, mas de uma ponderação do julgador, levando em consideração as peculiaridades do caso concreto, a evitar o retardamento injustificado da prestação jurisdicional.
+Veja-se:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. FEITO COMPLEXO. PLURALIDADE DE RÉUS. EXPEDIÇÃO DE PRECATÓRIAS. REABERTURA DE PRAZO PARA RESPOSTA À ACUSAÇÃO. APLICAÇÃO DA SÚMULA 64/STJ. AUSÊNCIA DE DESÍDIA DO PODER JUDICIÁRIO. REAVALIAÇÃO DA PRISÃO PREVENTIVA. ART. 316, PARÁGRAFO ÚNICO, DO CPP. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. Segundo orientação pacificada nos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz do princípio da razoabilidade e da proporcionalidade, devendo ser considerada as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado.
+2. Na hipótese, o feito vem tramitando regularmente, diante de sua complexidade, evidenciada pela pluralidade de réus, no total de quatro, tendo ocorrido a necessidade de expedição de precatória para citação, além de pedido de reabertura de prazo formulado pela própria defesa do agravante para apresentação de resposta à acusação, o que atrai ao caso a incidência do enunciado da Súmula n. 64 do STJ, segundo a qual "não constitui constrangimento ilegal o excesso de prazo na instrução, provocado pela defesa".
+3. Desse modo, não se identifica, por ora, manifesto constrangimento ilegal passível de ser reparado por este Superior Tribunal, em razão do suposto excesso de prazo na custódia preventiva, na medida em que não se verifica desídia do Poder Judiciário.
+ ..  5. Agravo regimental desprovido.
+(AgRg no RHC n. 177.715/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE DROGAS. LAVAGEM DE DINHEIRO. RECEPTAÇÃO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. PEDIDO DE REVOGAÇÃO DAS MEDIDAS CAUTELARES IMPOSTAS. NECESSIDADE E ADEQUAÇÃO. GRAVIDADE CONCRETA. PERICULOSIDADE DO ACUSADO. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. TRÂMITE REGULAR. SÚMULA 64 DO STJ. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO DESPROVIDO.
+ ..
+6. Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+7. No caso, trata-se de ação complexa, em que se apura a prática dos crimes de organização criminosa, tráfico de drogas e lavagem de dinheiro, contendo 4 réus e sendo necessária a expedição de cartas precatórias e a análise de pedidos de revogação de prisão preventiva e das medidas cautelares impostas.
+8. Além disso, em consulta ao site do Tribunal de Justiça do Estado de Sergipe, verifica-se que o feito tem tramitação regular e a audiência de instrução e julgamento do dia 16/2/2023 somente foi adiada para o dia 26/6/2023 pois a defesa dos acusados insistiu na oitiva de testemunhas ausentes. Incidência da Súmula n. 64 do STJ.
+9. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 176.377/SE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
+Desse modo, ausente o apontado constrangimento ilegal por excesso de prazo na formação da culpa, deve a decisão agravada, que não conheceu da impetração, ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
