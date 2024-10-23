@@ -1,0 +1,36 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 31/05/2024.
+Concluso ao gabinete em: 23/09/2024.
+Ação: revisional de contrato bancário cumulada com restituição de quantia paga, ajuizada pelo agravado, em face da agravante, devido à existência de cláusulas abusivas no contrato celebrado entre as partes, na qual pleiteia a revisão do contrato descrito na inicial.
+Sentença: julgou parcialmente procedentes os pedidos, para reconhecer e declarar a abusividade da taxa de juros remuneratórios, e por consequência, determinar a redução da taxa anual dos contratos para aquela prevista na taxa de mercado, bem como para condenar a agravante a restituir, na forma simples, os valores pagos indevidamente pelo agravado.
+Acórdão: deu provimento à apelação interposta pelo agravado e negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+AÇÃO DE REVISÃO CONTRATUAL CUMULADA COM REPETIÇÃO DE INDÉBITO. PEDIDO JULGADO PARCIALMENTE PROCEDENTE. INSURGÊNCIA DE AMBAS AS PARTES. APELO DA RÉ (1). TAXAS DE JUROS QUE SUPERAM O TRIPLO DA MÉDIA DO MERCADO PARA CONTRATOS DA MESMA ESPÉCIE E NO MESMO PERÍODO. ABUSIVIDADE VERIFICADA. REDUÇÃO A UMA VEZ E MEIA A TAXA MÉDIA DO BACEN. IMPOSSIBILIDADE. . LIMITAÇÃO DOS JUROS CONFORME A MÉDIA DO MERCADO APELO DO AUTOR (2). PLEITO DE ATUALIZAÇÃO DA CONDENAÇÃO PELA TAXA SELIC. INCIDÊNCIA DE CORREÇÃO MONETÁRIA PELA MÉDIA INPC/IGP-DI DESDE O DESEMBOLSO ATÉ A CITAÇÃO. A PARTIR DESTA, APLICAÇÃO DA TAXA SELIC DE FORMA EXCLUSIVA. PEDIDO DE FIXAÇÃO DOS HONORÁRIOS POR APRECIAÇÃO EQUITATIVA, EM FACE DO MONTANTE IRRISÓRIO DA CONDENAÇÃO. DESCABIMENTO. SENTENÇA LIQUIDÁVEL. APLICAÇÃO DO ART. 85, § 6-A, DO CPC. IRRISORIEDADE NÃO VERIFICÁVEL DE PLANO. MANUTENÇÃO DO VALOR DA CONDENAÇÃO COMO BASE DE CÁLCULO DA VERBA HONORÁRIA. MAJORAÇÃO DO PERCENTUAL CONFORME ART. 85, §11.
+RECURSO DO AUTOR (2) PROVIDO.
+RECURSO DA RÉ (1) NÃO PROVIDO. (e-STJ Fl. 306)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação do art. 421 do CC, bem como dissídio jurisprudencial. Sustenta que não seria possível concluir pela abusividade e existência de vantagem exagerada, pela mera comparação entre a taxa de juros contratada e a média do Bacen. Defende que deveria ser analisada as peculiaridades do caso concreto para constatação da abusividade dos juros remuneratórios contratados.
+RELATADO O PROCESSO, DECIDE-SE.
+- Dos juros remuneratórios - Súmulas 568/STJ
+A Segunda Seção do STJ, no REsp 1.061.530/RS, DJe de 10/03/2009, julgado sob o rito dos recursos repetitivos, entende que é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1 º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto.
+A taxa de juros remuneratórios, verificada sua abusividade, deve ser limitada à taxa média de mercado, divulgada pelo Banco Central do Brasil.
+As duas Turmas de Direito Privado desta Corte Superior, nos termos do que restou consolidado no referido precedente, entendem que a fixação de juros remuneratórios superiores a 12% ao ano não evidencia, por si só, abusividade em face do consumidor, de modo que os juros remuneratórios afiguram-se abusivos e devem ser limitados à média de mercado quando houver, no caso concreto, significativa discrepância entre a taxa pactuada e a taxa média praticada em operações da mesma espécie.
+Nesse sentido: AgInt no REsp n. 2.018.402/RS, 4ª Turma, julgado em 13/2/2023, DJe de 28/2/2023; e AgInt no AREsp n. 2.161.895/RS, 3ª Turma, DJe de 19/10/2022.
+Na hipótese sob julgamento, o Tribunal de origem, analisou a questão relativa à abusividade dos juros remuneratórios sob o enfoque do REsp 1.061.530/RS, consignando que a taxa média do BACEN seria um dos parâmetros para análise da abusividade, além da análise das peculiaridades do caso concreto.
+Verifica-se que a conclusão do Tribunal de origem considerou as particularidades da situação concreta apresentada, em consonância com o entendimento dominante sobre o tema nesta Corte Superior.
+Aplica-se, portanto, a Súmula 568/STJ no particular.
+- Das Súmulas 5 e 7, ambas do STJ
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da abusividade dos juros remuneratórios, exige o reexame de fatos e a interpretação de cláusulas contratuais, o que é vedado em recurso especial em virtude dos óbices das Súmulas 5 e 7, ambas do STJ.
+Outrossim, a incidência das Súmulas 5 e 7 desta Corte acerca do tema que se supõe divergente (abusividade da taxa de juros remuneratórios), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+Nesse sentido: AgInt no AREsp n. 2.029.991/SC, 3ª Turma, DJe de 17/8/2022; AgInt nos EDcl no AREsp 1041244/RJ, 4ª Turma, DJe de22/11/2019; AgInt no AREsp n. 821.337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, 3ª Turma, DJe de 21/11/2016.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados anteriormente para 20% sobre o valor da condenação.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO CUMULADA COM RESTITUIÇÃO DE QUANTIA PAGA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS. SÚMULA 7/STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA 5/STJ. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. SÚMULAS 5 E 7/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação revisional de contrato bancário cumulada com restituição de quantia paga.
+2. É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1 º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. A taxa de juros remuneratórios, verificada sua abusividade, deve ser limitada à taxa média de mercado, divulgada pelo Banco Central do Brasil. Precedentes. Ante o entendimento dominante do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. A incidência das Súmulas 5 e 7, ambas do STJ, prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido, com majoração de honorários.
