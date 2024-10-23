@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. AGRAVO REGIMENTAL EM HABEAS CORPUS. AUSÊNCIA DE INTIMAÇÃO. CERCEAMENTO DE DEFESA. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravante interpõe agravo regimental contra decisão que não conheceu de habeas corpus, alegando ausência de apreciação de matérias no acórdão impugnado, já enfrentadas em outro habeas corpus. Requer reconsideração da decisão ou provimento do recurso.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a existência de flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+III. RAZÕES DE DECIDIR
+3. O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, sendo conhecido.
+4. Não há elementos suficientes para reconsiderar a decisão proferida, pois as matérias deduzidas não foram apreciadas no acórdão impugnado.
+5. A concessão de habeas corpus de ofício depende da existência de flagrante ilegalidade, o que não se verifica no caso.
+6. A decisão monocrática está de acordo com a jurisprudência da 5ª Turma do STJ.
+7. A reanálise do acervo fático-probatório é necessária para superar as conclusões da origem, o que impede a atuação excepcional do STJ.
+V. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fl. 364).
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. AGRAVO REGIMENTAL EM HABEAS CORPUS. AUSÊNCIA DE INTIMAÇÃO. CERCEAMENTO DE DEFESA. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravante interpõe agravo regimental contra decisão que não conheceu de habeas corpus, alegando ausência de apreciação de matérias no acórdão impugnado, já enfrentadas em outro habeas corpus. Requer reconsideração da decisão ou provimento do recurso.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a existência de flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+III. RAZÕES DE DECIDIR
+3. O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, sendo conhecido.
+4. Não há elementos suficientes para reconsiderar a decisão proferida, pois as matérias deduzidas não foram apreciadas no acórdão impugnado.
+5. A concessão de habeas corpus de ofício depende da existência de flagrante ilegalidade, o que não se verifica no caso.
+6. A decisão monocrática está de acordo com a jurisprudência da 5ª Turma do STJ.
+7. A reanálise do acervo fático-probatório é necessária para superar as conclusões da origem, o que impede a atuação excepcional do STJ.
+V. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 364-365):
+Consoante se observa às fls. 351/353 (e-STJ) , as matérias ora deduzidas não foram apreciadas no acórdão impugnado, porquanto já enfrentadas em outro habeas corpus lá manejado.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, que justifique a concessão de ofício do habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ASSOCIAÇÃO CRIMINOSA. DECISÃO DE PRONÚNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS. ANÁLISE DE PROVAS. VIA INADEQUADA. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. CONCESSÃO DE OFÍCIO DE ORDEM DE HABEAS CORPUS. OPÇÃO EXCLUSIVA DO RELATOR. 1. O Tribunal de origem, com apoio na prova dos autos, em especial depoimentos testemunhais colhidos sob o crivo do contraditório, concluiu pela legalidade da pronúncia, uma vez que verificou indícios suficientes nesse sentido, inclusive indicando ser inconteste a materialidade, motivo pelo qual é aplicável o princípio do in dubio pro societate. 2. "Sobre os indícios de autoria da prática do crime imputado ao Agravante, segundo estabelece o art. 413 do Código de Processo Penal, não se faz necessário, na fase de pronúncia, um juízo de certeza a respeito da autoria do crime, mas que o Juiz se convença da existência do delito e de indícios suficientes de que o réu seja o seu autor". (AgRg no HC n. 819.544/AM, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/6/2023, DJe de 29/6/2023.) 3. Tendo as instâncias de origem concluído no sentido de que o conjunto fático-probatório dos autos é suficiente para embasar a pronúncia, para se acolher a alegação de insuficiência probatória seria necessário o revolvimento fático-probatório, vedado em habeas corpus. Precedentes. 4. No tocante ao alegado excesso de prazo da prisão decretada, verifica-se que a questão não foi analisada no acórdão recorrido. Desse modo, não debatida a questão pela Corte a quo, impedido fica o Superior Tribunal de Justiça de apreciar a matéria, sob pena de se incorrer em indevida supressão de instância. 5. Quanto à concessão de ofício de ordem de habeas corpus, em que pese a possibilidade dessa opção de julgamento (art. 654, §2º, do CPP), é necessário que haja flagrante ilegalidade, o que não se verifica no presente caso, sem falar que a concessão de habeas corpus, de ofício, é opção exclusiva do relator. 6. Agravo regimental improvido. (AgRg no HC n. 821.781/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, j. em 13/11/2023, DJe de 16/11/2023) (destaque acrescentado).
+Ante o exposto, não conheço do presente habeas corpus.
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E CORRUPÇÃO DE MENOR. NULIDADE DO FLAGRANTE. TESE NÃO DEBATIDA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. SUPERVENIÊNCIA DE SENTENÇA QUE NÃO AGREGA FUNDAMENTOS AO DECRETO PRISIONAL. AUSÊNCIA DE PREJUDICIALIDADE. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE DA DROGA APREENDIDA. CIRCUNSTÂNCIAS DO DELITO. ENVOLVIMENTO DE UM MENOR QUE ATUAVA COMO "AVIÃOZINHO". NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem não se manifestou expressamente sobre a nulidade do flagrante. Desse modo, resta afastada a competência desta Corte Superior para conhecimento dessa questão, sob pena de incorrer em indevida supressão de instância.
+2. A manutenção da custódia cautelar por ocasião de sentença superveniente não possui o condão de tornar prejudicado o habeas corpus em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo, como no caso.
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+4. A prisão em flagrante foi adequadamente convertida em preventiva, tendo sido demonstradas pela instância precedente, com base em elementos extraídos dos autos, a gravidade da conduta e a maior periculosidade do agravante, reveladas pela quantidade de droga apreendida - 900,63g de maconha -, bem como pela apreensão de balança de precisão, petrechos para o tráfico e o envolvimento de um menor que atuava como "aviãozinho". Tais circunstâncias demonstram maior envolvimento do agravante com o narcotráfico e o risco ao meio social.
+5. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+6. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 882.289/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. TRÁFICO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. NULIDADE DO FLAGRANTE. TESE NÃO DEBATIDA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRESENTES OS REQUISITOS DA PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. QUANTIDADE DE DROGAS APREENDIDAS. APREENSÃO DE ARMA E MUNIÇÃO. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem não se manifestou expressamente sobre a nulidade do flagrante. Desse modo, resta afastada a competência desta Corte Superior para conhecimento dessa questão, sob pena de incorrer em indevida supressão de instância.
+2. Este Tribunal firmou posicionamento segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Convém, ainda, ressaltar que, considerando os princípios da presunção da inocência e a excepcionalidade da prisão antecipada, a custódia cautelar somente deve persistir em casos em que não for possível a aplicação de medida cautelar diversa, de que cuida o art. 319 do CPP.
+3. No caso dos autos, verifica-se que a prisão preventiva foi adequadamente motivada, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, a periculosidade do agente e a gravidade do delito, consubstanciadas pela quantidade de drogas apreendidas em sua posse - 1.253,7g de maconha - bem como a apreensão de uma arma de fogo municiada com a numeração suprimida e a quantia de R$ 3.432,00 (três mil quatrocentos e trinta e dois reais), o que demonstra o maior envolvimento com o narcotráfico e risco ao meio social.
+4. Consoante o entendimento da egrégia Quinta Turma desta Corte Superior de Justiça, "a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva" (AgRg no HC 550.382/RO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 13/3/2020).
+5. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+6. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+7. Quanto à remota possibilidade de aplicação da minorante prevista no § 4º do artigo 33 da Lei n. 11.343/2006 na sentença a ser prolatada, registra-se que "não é possível acolher a tese de desproporcionalidade da segregação cautelar ante uma futura condenação, pois não cabe a esta Corte Superior proceder com juízo intuitivo e de probabilidade para aferir eventual pena a ser aplicada, tampouco para concluir pela possibilidade de fixação de regime diverso do fechado e de substituição da reprimenda corporal, tarefas essas próprias do Juízo de primeiro grau por ocasião do julgamento de mérito da ação penal. Precedentes" (HC n. 595.054/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/10/2020, DJe de 19/10/2020).
+8. Agravo regimental desprovido.
+(AgRg no HC n. 912.800/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
