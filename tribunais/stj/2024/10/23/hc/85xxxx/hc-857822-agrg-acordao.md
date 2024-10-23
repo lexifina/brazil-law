@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2024 a 23/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. PERCENTUAL DE REDUÇÃO. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, " o  efeito devolutivo pleno do recurso de apelação possibilita à Corte de origem, mesmo que em recurso exclusivo da defesa, revisar as circunstâncias judiciais do art. 59 do Código Penal, bem como alterar os fundamentos para justificar a manutenção ou redução das reprimendas ou do regime inicial, não sendo o caso de apontar reformatio in pejus se a situação do recorrente não foi agravada, como no caso sob análise, em que a pena definitiva imposta na sentença foi reduzida" (AgRg no REsp n. 1.955.048/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/5/2022).
+2. Não configura reformatio in pejus a manutenção reprimenda imposta ao réu pelo Tribunal de origem, ainda que pautada em motivos diversos, porquanto não agravou a situação do apenado.
+3. O disposto no art. 33, § 4º, da Lei de Drogas prevê apenas os requisitos necessários para a aplicação da minorante nela prevista; deixa, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+4. No caso, as instâncias de origem fundamentaram, dentro do seu livre convencimento motivado e com base em argumentos idôneos e específicos dos autos, o porquê da redução de pena no patamar de 1/6; assim não há falar em violação do art. 33, § 4º, da Lei n. 11.343/2006.
+5. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ERICK MARTINS SOUZA interpõe agravo regimental contra decisão de minha relatoria, em que neguei deneguei o writ, para manter inalterada a reprimenda a ele imposta pela prática do crime previsto no art. 33, caput e § 4º, da Lei n. 11.343/2006.
+A defesa reitera a sua compreensão de que a minorante descrita no § 4º do art. 33 da Lei n. 11.343/2006 deve ser aplicada no patamar máximo de 2/3.
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que o referido redutor seja aplicado na fração máxima.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. PERCENTUAL DE REDUÇÃO. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, " o  efeito devolutivo pleno do recurso de apelação possibilita à Corte de origem, mesmo que em recurso exclusivo da defesa, revisar as circunstâncias judiciais do art. 59 do Código Penal, bem como alterar os fundamentos para justificar a manutenção ou redução das reprimendas ou do regime inicial, não sendo o caso de apontar reformatio in pejus se a situação do recorrente não foi agravada, como no caso sob análise, em que a pena definitiva imposta na sentença foi reduzida" (AgRg no REsp n. 1.955.048/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/5/2022).
+2. Não configura reformatio in pejus a manutenção reprimenda imposta ao réu pelo Tribunal de origem, ainda que pautada em motivos diversos, porquanto não agravou a situação do apenado.
+3. O disposto no art. 33, § 4º, da Lei de Drogas prevê apenas os requisitos necessários para a aplicação da minorante nela prevista; deixa, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+4. No caso, as instâncias de origem fundamentaram, dentro do seu livre convencimento motivado e com base em argumentos idôneos e específicos dos autos, o porquê da redução de pena no patamar de 1/6; assim não há falar em violação do art. 33, § 4º, da Lei n. 11.343/2006.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+I. Fração do privilégio - não ocorrência de reformatio in pejus
+A proibição da reformatio in pejus, derivação da regra mais ampla do favor rei (LOZZI, Gilberto. Favor rei e processo penale. Milano, Giuffre, 1968, p. 115), traduz-se na vedação a que, em recurso interposto exclusivamente pelo acusado, se agrave a situação do recorrente, em relação à decisão impugnada, aceita pelo acusador. Proíbe-se, outrossim, a reformatio in pejus indireta, para impedir que, nos casos em que a decisão impugnada pelo acusado é anulada pelo Tribunal, a nova decisão venha a ser mais gravosa aos interesses da defesa. Esse princípio, no Brasil, embora seja positivado no art. 617 do CPP, não encontra previsão constitucional.
+Destarte, a proibição de reforma para pior garante ao recorrente o direito de não ver sua situação agravada, direta ou indiretamente, mas não obsta, por sua vez, que o julgador, para dizer o direito - exercendo, portanto, sua soberana função de jurisdictio -, encontre fundamentos e motivação devida, respeitada, à evidência, a imputação deduzida pelo órgão de acusação e os limites da pena imposta na origem.
+Em outras palavras, mesmo no julgamento de apelação exclusiva da defesa, os Tribunais de Justiça podem revisar o sopesamento dos elementos relevantes para a dosimetria, desde que essa operação não resulte em situação mais severa que a fixada pela instância antecedente.
+Nesse sentido:
+"O efeito devolutivo pleno do recurso de apelação possibilita à Corte de origem, mesmo que em recurso exclusivo da defesa, revisar as circunstâncias judiciais do art. 59 do Código Penal, bem como alterar os fundamentos para justificar a manutenção ou redução das reprimendas ou do regime inicial, não sendo o caso de apontar reformatio in pejus se a situação do recorrente não foi agravada, como no caso sob análise, em que a pena definitiva imposta na sentença foi reduzida" (AgRg no REsp n. 1.955.048/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/5/2022.)
+No caso, o Tribunal de origem preservou a fração mínima definida pelo Juízo singular relativa ao privilégio no tráfico.
+Ao assim proceder, considerada a motivação global do acórdão - que deve ser lido em sua totalidade -, não se cogita a ocorrência de reforma para pior da sentença, em especial porque a reprimenda imposta ao réu foi mantida inalterada.
+II. Fração do privilégio
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Observa-se, assim, que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nele previsto, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal e, especialmente, o disposto no art. 42 da Lei de Drogas. A propósito, confira-se o seguinte julgado: AgRg no REsp n. 1.429.866/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/6/2015.
+Na hipótese em exame, não era mesmo o caso de revisar a fração relativa ao privilégio, o qual nem sequer deveria ter incidido. Consoante destacou a Corte de origem, " o  réu, ainda que tecnicamente primário e sem maus antecedentes, ostenta diversas anotações por atos infracionais, relacionados ao tráfico de drogas, quando de sua adolescência (fls. 52)
+E esta Corte Superior de Justiça tem reiteradamente decidido, por ambas as Turmas, que a existência de registros por atos infracionais é elemento hábil a evidenciar a dedicação do agente a atividades delituosas e, por conseguinte, a impedir a incidência do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+Exemplificativamente, menciono:
+ ..
+2. A causa redutora de pena prevista no § 4º do art. 33, da Lei n. 11.343/06 poderá ser aplicada quando cumpridos os seguintes requisitos: ser primário, possuir bons antecedentes, não dedicar-se a atividades criminosa e não integrar organização criminosa. Na hipótese dos autos, verifica-se que o Magistrado sentenciante destacou que o paciente, embora não possua condenação definitiva, não possui bons antecedentes, pois, quando menor de idade, respondeu a diversos atos infracionais, todos por tráfico de drogas, o que demonstra que possui vida pregressa de dedicação à atividade criminosa. Dessa forma, verifico que não há ilegalidade na vedação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06, haja vista que as instâncias ordinárias fundamentaram concretamente a negativa da benesse, vedada em razão da dedicação do paciente à atividade criminosa. Precedentes. Ademais, para se acolher a tese de que a paciente não se dedica às atividades criminosas, é necessário o reexame aprofundado das provas, inviável em habeas corpus.
+Habeas corpus não conhecido.
+(HC n. 431.001/RS, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 23/3/2018).
+ ..
+4. Conforme entendimento do Superior Tribunal de Justiça, o registro de atos infracionais é elemento idôneo para afastar a figura do tráfico privilegiado, quando evidenciar a propensão do agente a práticas criminosas. Precedentes.
+ ..
+(HC n. 460.141/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 14/9/2018).
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CAUSA DE DIMINUIÇÃO ESPECIAL DO ART. 33, § 4º, DA LEI DE DROGAS. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS LEGAIS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. PRÁTICA DE ATOS INFRACIONAIS.
+1. A existência de atos infracionais praticados pelo agente, embora não caracterizem reincidência ou maus antecedentes, podem denotar dedicação às atividades criminosas, de modo a justificar a negativa da minorante do § 4º do art. 33 da Lei n. 11.343/2006, ante o não preenchimento dos requisitos legais. Precedentes.
+2. Agravo regimental improvido.
+(AgInt no HC n. 467.947/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 1º/2/2019).
+Também há diversos precedentes do Supremo Tribunal Federal no sentido de que o histórico de atos infracionais do acusado constitui fundamento idôneo para afastar o benefício em questão, uma vez que demonstrada uma propensão do agente a práticas criminosas. Exemplificativamente: RHC n. 180.509, Rel. Ministro Luiz Fux, monoc., DJe 6/2/2020; HC n. 188.329, Rel. Ministro Alexandre de Moraes, monoc., DJe 13/8/2020.
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+III. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental.
