@@ -1,0 +1,137 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0736217-92.2024.8.07.0000AGRAVANTE(S)DISTRITO FEDERALAGRAVADO(S)AMANDA ORSANO LUIZRelatorDesembargador ARQUIBALDO CARNEIRO
+ Acórdão Nº1938193
+
+EMENTA
+
+ AGRAVO DE INSTRUMENTO. PARTE AUTORA LITIGA SOB O PÁLIO DA GRATUIDADE DE JUSTIÇA. HONORÁRIOS PERICIAIS. PORTARIA CONJUNTA Nº 116/2024 - TJDFT. LIMITES PARA FIXAÇÃO DOS HONORÁRIOS DO PERITO. QUANTIA EXCEDENTE SUJEITA À COBRANÇA DA PARTE VENCIDA.  DECISÃO MANTIDA.
+
+1. A Portaria Conjunta nº 116/2024 apenas limita o valor a ser custeado pelo TJDFT quando se trata de pagamento de honorários periciais pela parte beneficiária da gratuidade de justiça. Eventual excesso poderá ser cobrado pelo perito à parte vencida.
+
+2. Conquanto o Ente federativo, ora recorrente, reclame a aplicação do teto previsto na Portaria em questão, é de se ressaltar que tal limitação não contempla o Distrito Federal, que poderá vir a suportar o ônus do pagamento, caso seja vencido na demanda.
+
+3.  A Portaria Conjunta nº 116/2024 desta Corte de Justiça prevê limites aos honorários periciais, de forma a restringir apenas a execução dos valores com relação às pessoas beneficiárias da gratuidade judiciária, não impedindo, porém, a fixação de valores superiores, uma vez que o sobejo poderá vir a ser cobrado pelo perito nos termos do art. 98, § 3º do CPC.
+
+3. Negou-se provimento ao recurso.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ARQUIBALDO CARNEIRO - Relator, SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 1º Vogal e VERA ANDRIGHI - 2º Vogal, sob a Presidência do Senhor Desembargador ALFEU MACHADO, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 04 de Novembro de 2024
+
+Desembargador ARQUIBALDO CARNEIRORelator
+
+RELATÓRIO
+
+Cuida-se de agravo de instrumento Cuida-se de agravo de instrumento interposto pelo DISTRITO FEDERAL (requerido), contra decisão proferida pelo ilustre Juízo da 8ª Vara da Fazenda Pública do DF, nos autos da ação de indenização por danos morais ajuizada por AMANDA ORSANO LUIZ, processo n. 0709904-74.2023.8.07.0018, na qual assim decidiu (ID 203264411 da origem),  sob os seguintes argumentos:
+
+"A perita nomeada nos autos apresentou proposta de honorários no valor de R$ 2.500,00 (dois mil e quinhentos reais) (ID 199606127). Intimadas as partes a se manifestarem, a autora concordou com o valor proposto (ID 200446069) e o réu, por sua vez, alega que a parte autora litiga sob o pálio da gratuidade de justiça, contrariando o disposto na Portaria Conjunta TJDFT n. 101/2016 (ID 203061315).
+
+Conforme exposto na decisão de ID 179395010, a autora faz jus à gratuidade de justiça e, caso seja sucumbente, os honorários periciais serão pagos por este Tribunal de Justiça, sendo o pagamento restrito ao valor contido no anexo da Portaria Conjunta nº 101 de 2016 deste Tribunal.
+
+A referida portaria regulamenta o pagamento de honorários periciais em ações que tem partes beneficiadas pela gratuidade de justiça e quando essas forem sucumbentes, portanto, ao contrário do alegado pelo réu, a portaria não limita os valores a serem propostos pelos os peritos e sim o valor a ser pago, caso a parte sucumbente seja beneficiada pela gratuidade de justiça, conforme pode ser observado no parágrafo 2° do inciso IV do artigo 2°, o qual preceitua que: o montante que eventualmente ultrapassar o valor previsto neste artigo poderá vir a ser cobrado pelo perito, nos termos do § 3º do art. 98 do Código de Processo Civil, e no parágrafo, 2° do artigo 4°, o qual preceitua que: caso o vencedor da demanda seja beneficiário da justiça gratuita, a parte contrária – não sendo também beneficiária da assistência judiciária – deverá arcar com o pagamento integral dos honorários periciais arbitrados, realizando o reembolso do valor eventualmente adiantado pelo TJDFT por meio de GRU. (...)
+
+Diante do exposto, portanto, indefiro o pedido de ID 203061315.
+
+Cumpre ressaltar que o valor dos honorários periciais é único para as partes, contudo a forma de pagamento e o devedor são diferentes a depender do sucumbente. Vale dizer, no caso da parte beneficiária da gratuidade de justiça ser sucumbente o Tribunal de Justiça efetuará o pagamento de uma parte do valor e o restante deverá ser cobrado da parte e no caso do sucumbente não ser a parte beneficiária da gratuidade esse efetuará o pagamento em sua integralidade. Dispõe o artigo 2º da mencionada portaria que o magistrado, em decisão fundamentada, arbitrará os honorários do profissional ou do órgão pericial de acordo com os valores constantes do anexo, observando a complexidade da matéria, os graus de zelo profissional e especialização do perito, o lugar e o tempo exigidos para a prestação do serviço, podendo o valor pré-estabelecido ser ultrapassado em até 5 (cinco) vezes.
+
+No presente caso, a perícia tem por objeto averiguar se a perfuração do útero após a inserção do DIU decorre de imperícia médica, ou de erro na conduta adotada; se o fato é previsível e decorre do risco do procedimento; se a autora é portadora de alguma moléstia que dificulta o acesso a cavidade endometrial ou altera a resistência da parede miometrial e que pode predispor a perfuração uterina; se houve erro médico, questões essas eminentemente técnicas.
+
+O direito pátrio não estabelece critérios objetivos para a fixação dos honorários periciais, por isso devem ser levados em consideração a estimativa apresentada pelo próprio perito, o zelo profissional, o lugar da prestação do serviço e o tempo exigido para a sua execução, dentro da proporcionalidade e razoabilidade que cada caso requer, e não se mostra razoável impor ao profissional a realização do trabalho por valor inferior àquele que considera justo para a prestação de seus serviços. Assim, considerando a complexidade da perícia e o tempo necessário para sua realização para estudo do processo, literatura do caso específico, para elaboração do laudo, para anamnese e exame físico detalhados, tempo esse óbvio maior que uma consulta médica padrão, fixo os honorários periciais em R$ 2.500,00 (dois mil e quinhentos reais).
+
+Porém, caso sucumbente a parte beneficiária da justiça gratuita, deverá ser observado os termos da Portaria Conjunta nº 101 de 2016 deste Tribunal, que deverá ser pago pelo valor máximo constante em seu anexo, ou seja, 5 (cinco) vezes o pré-estabelecido. Comprovado, intime-se a perita para informar ao juízo a data da realização da perícia com antecedência necessária para intimação das partes, no mínimo de 20 (vinte) dias, conforme artigo 466, § 2° do Código de Processo Civil.” (ID 203264411 da origem)
+
+Em suas razões recursais (ID 63444076, págs. 1/15), a parte agravante aduz que a parte agravada é beneficiária da justiça e que o douto juízo, em decisão saneadora, deferiu a realização de prova pericial e nomeou o respectivo profissional, admitindo honorários em valor superior àquele previsto na Portaria Conjunta nº 101/2016 deste e. TJDFT, cujo atual limite é de R$ 1.994,06, na forma da Portaria GPR 37, de 08 de janeiro de 2024.
+
+Defende que, na hipótese, em que a parte autora é beneficiária da gratuidade de justiça, deve ser observada a tabela específica do Tribunal, não sendo possível falar em superação do montante para eventual cobrança pela parte vencida.
+
+Pugna pelo efeito suspensivo e, no mérito, “o provimento do recurso para que seja reformada a r. decisão agravada, determinando-se que a despesa referente aos honorários periciais, diante do deferimento de gratuidade de justiça à parte autora ora agravada, observe o limite da Portaria Conjunta nº 101/2016 do TJDFT, bem como o disposto no artigo 95, § 3º, II, do CPC, inibindo-se a fixação de honorários periciais acima do valor máximo previsto no referido normativo.”.
+
+Dispensado o recolhimento de preparo, ante a isenção legal que faz jus a parte recorrente.
+
+No ID 63497910, esta Relatoria indeferiu o pedido de efeito suspensivo, por não vislumbrar os requisitos cumulativos e imprescindíveis ao deferimento do pleito.
+
+Em contrarrazões (64149263, págs. 1/6), a agravada pugna pelo desprovimento do recurso com a manutenção da decisão nos termos em que proferida.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ARQUIBALDO CARNEIRO - RelatorPresentes os pressupostos de admissibilidade, conheço do agravo de instrumento.
+
+Conforme relatado, cuida-se de agravo de instrumento interposto contra a decisão que indeferiu o pedido formulado pelo Distrito Federal para que a despesa referente aos honorários periciais observasse o limite da Portaria 101/2016, inibindo-se a fixação de honorários periciais acima do valor máximo previsto na mencionada portaria.
+
+Em sede de antecipação dos efeitos da tutela, esta Relatoria indeferiu o efeito suspensivo requerido pelo Distrito Federal/agravante (ID 63497910), por não vislumbrar os requisitos cumulativos ao deferimento do pleito, sob os seguintes argumentos:
+
+“Decido. Como cediço, recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, III e IV, do CPC, o relator poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão (art. 932, II, 1.019, I, do CPC).
+
+Os requisitos para a atribuição de efeito suspensivo ao recurso são os do art. 995, parágrafo único, do CPC, quais sejam, a existência de risco de dano grave, de difícil ou impossível reparação, decorrente da imediata produção dos efeitos da decisão impugnada, bem como a demonstração da probabilidade de provimento do recurso.
+
+A regra geral de custeio da prova pericial prevista no Código de Processo Civil é a de que a parte que a pleitear ficará responsável por adiantar a remuneração do perito ou de rateá-la com a parte adversa, quando determinada de ofício pelo juízo ou quando ambas as partes a requererem.
+
+O art. 95, §3º, do CPC, prevê que quando o pagamento da perícia for de responsabilidade de beneficiário de gratuidade da justiça, ela poderá ser: ‘I - custeada com recursos alocados no orçamento do ente público e realizada por servidor do Poder Judiciário ou por órgão público conveniado; II - paga com recursos alocados no orçamento da União, do Estado ou do Distrito Federal, no caso de ser realizada por particular, hipótese em que o valor será fixado conforme tabela do tribunal respectivo ou, em caso de sua omissão, do Conselho Nacional de Justiça."
+
+Nos casos em que a prova pericial for requerida por parte economicamente hipossuficiente, beneficiária da gratuidade de justiça, os custos do perito judicial devem ser suportados pelo TJDFT, segundo dispõe a Resolução CNJ n. 232/2016 e Portaria Conjunta n. 101/2016 deste Tribunal. (...)
+
+Observa-se que a referida norma prevê limites aos honorários periciais, de forma a restringir apenas a execução dos valores com relação às pessoas beneficiárias da gratuidade judiciária, não impedindo, porém, a fixação de valores superiores, uma vez que o sobejo poderá vir a ser cobrado pelo perito nos termos do art. 98, § 3º do CPC.
+
+Conquanto o Ente federativo, ora recorrente, reclame a aplicação do teto previsto na Portaria em questão, é de se ressaltar que tal limitação não contempla o Distrito Federal, que poderá vir a suportar o ônus do pagamento, caso seja vencido na demanda. (...)
+
+Logo, nesta prelibação sumária, não se vislumbra, primo ictu oculi, a probabilidade de provimento do recurso. Igualmente não se verifica perigo de dano ou risco ao resultado útil do processo, pois, eventual pagamento dos honorários periciais pela parte ora recorrente somente ocorrerá ao final do processo, e se for ela a vencida, portanto, não há urgência que autorize o deferimento do pedido liminar pleiteado.
+
+Portanto, nesta prelibação sumária, não vislumbro os requisitos cumulativos e imprescindíveis ao deferimento da liminar. Isso posto, indefiro o pedido de efeito suspensivo. Oficie-se ao D. Juízo a quo. Intime-se a agravada para, querendo, responder no prazo de 15 (quinze) dias, facultando-lhe juntar a documentação que entender necessária ao julgamento do recurso (art. 1.019, II, do CPC). Publique-se. Intimem-se. Cumpra-se.”
+
+Convém mencionar que a Portaria Conjunta nº 116, de 08 de agosto de 2024 regulamenta o pagamento e fixa valores de honorários de perito, de tradutor e de intérprete, no âmbito da Justiça de Primeiro e de Segundo Graus do Distrito Federal e dos Territórios, na hipótese de concessão do benefício da gratuidade judiciária. Tal norma revogou expressamente a Portaria 101/2016.
+
+A propósito, confira-se os arts. 1º ao 5º da Portaria Conjunta nº 116, de 08 de agosto de 2024 assim dispõe:
+
+O PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS e o CORREGEDOR DA JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, no uso de suas atribuições legais e regimentais, com fundamento no § 3º do art. 95 do Código de Processo Civil (CPC), na Resolução CNJ 127, de 15 de março de 2011 e na Resolução CNJ 232, de 13 de julho de 2016, e tendo em vista o disposto no processo SEI 0006095/2023,RESOLVEM:
+
+Art. 1º Regulamentar o pagamento e a fixação de valores de honorários de perito, de tradutor e de intérprete, no âmbito da Justiça de Primeiro e de Segundo Graus do Distrito Federal e dos Territórios, na hipótese de concessão do benefício da gratuidade judiciária.
+
+Art. 2º O pagamento de honorários de perito, de tradutor ou de intérprete, havendo disponibilidade de recursos, será custeado, em parte ou integralmente, pelo Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT), que destinará parcela de seu orçamento para essa finalidade, em rubrica específica, denominada Assistência Jurídica a Pessoas Carentes.
+
+Parágrafo único. No caso das perícias requeridas pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública, se não houver perito disponível em órgão público, os honorários serão suportados pelo TJDFT, respeitado o seu limite orçamentário.  Art. 3º O magistrado arbitrará os honorários do profissional ou do órgão técnico ou científico nomeado para prestar os serviços considerando a complexidade da matéria, o grau de zelo do profissional, a especialização, o lugar e o tempo exigidos para a prestação do serviço.
+
+Parágrafo único. Para fins de arbitramento, os honorários de perito, de tradutor ou de intérprete poderão ultrapassar os valores brutos constantes do Anexo Único desta Portaria, devendo o magistrado fundamentar a majoração com base nas peculiaridades do caput deste artigo, observando-se o disposto no caput do artigo 4º desta Portaria quando do pagamento da verba por este Tribunal.
+
+Art. 4º Para fins de pagamento, independentemente do valor arbitrado pelo juiz da causa, o custeio a ser realizado com o orçamento do TJDFT, por cada parte não sucumbente beneficiária da justiça gratuita, não poderá ultrapassar o valor bruto máximo fixado na Tabela I do Anexo Único desta Portaria, importância correspondente ao limite financeiro atualizado constante do caput do artigo 6º da Resolução 127/2011 do Conselho Nacional de Justiça (CNJ).
+
+Parágrafo único. O montante arbitrado acima do limite financeiro de custeio do TJDFT poderá ser cobrado pelo perito contra a parte sucumbente, nos termos das leis processuais, observando-se, em relação à parte beneficiária da justiça gratuita, o disposto no art. 98, § 3º, do CPC.” (grifos nossos),
+
+No caso, na origem, a prova pericial foi deferida na decisão saneadora do feito (ID 179395010), ato em que a Instância de Origem consignou que “Conforme inciso IV do artigo 357 do Código de Processo Civil devem ser delimitadas as questões de direito relevantes para o exame do mérito e, neste caso, ela se restringe à responsabilidade civil do réu em razão da alegação de falhas na prestação do serviço médico, tendo como questões de fato relevantes as seguintes: se a perfuração do útero após a inserção do DIU decorre de imperícia médica, ou de erro na conduta adotada; se o fato é previsível e decorre do risco do procedimento; se a autora é portadora de alguma moléstia que dificulta o acesso a cavidade endometrial ou altera a resistência da parede miometrial e que pode predispor a perfuração uterina; se houve erro médico, questões essas eminentemente técnicas, razão pela qual defiro a prova pericial requerida pela autora”.
+
+A perita nomeada nos autos apresentou proposta de honorários no valor de R$ 2.500,00 (dois mil e quinhentos reais). Em suas razões, o Distrito Federal defende que o pagamento de valores decorrentes da perícia de beneficiário da assistência judiciária deve observar a tabela específica do Tribunal, não sendo possível falar em superação do montante para eventual cobrança pela parte vencida.
+
+A Portaria Conjunta 116/2024 desta Corte de Justiça estabelece os limites de honorários periciais, restringindo apenas a execução dos valores em relação às partes que fazem jus ao benefício da gratuidade de justiça.
+
+Nos termos constantes no Anexo I da mencionada regra, o teto financeiro do pagamento de honorários de perito, de tradutor e de intérprete, na hipótese de concessão do benefício da gratuidade judiciária é de R$ 1.994,06 (mil novecentos e noventa e quatro reais e seis centavos); todavia, o § 3º da mencionada portaria estabelece que, “para fins de arbitramento, os honorários de perito, de tradutor ou de intérprete poderão ultrapassar os valores brutos constantes do Anexo Único desta Portaria, devendo o magistrado fundamentar a majoração com base nas peculiaridades do caput deste artigo, observando-se o disposto no caput do artigo 4º desta Portaria quando do pagamento da verba por este Tribunal.
+
+A limitação estabelecida pela Portaria refere-se tão apenas à responsabilidade financeira deste Tribunal de Justiça pelo quantum devido pela parte beneficiária da gratuidade justiça, não abrangendo a administração pública, tampouco impede a fixação dos honorários em valor superior, mesmo em se tratando da parte que faz jus aos benefícios prevista na Lei 1.060/50. É dizer, o pagamento a ser efetuado por este Tribunal de Justiça é restrito ao valor contido no anexo descrito, caso a parte seja beneficiária da gratuidade da justiça e, caso o juiz fixe valor superior a diferença deverá ser cobrada da parte. Entretanto, se a parte não beneficiária da justiça gratuita sucumbir, será pago o valor dos honorários arbitrados e sem a limitação constante na mencionada portaria.
+
+Nesse norte, conforme apontado na decisão que indeferiu a liminar, “Observa-se que a referida norma prevê limites aos honorários periciais, de forma a restringir apenas a execução dos valores com relação às pessoas beneficiárias da gratuidade judiciária, não impedindo, porém, a fixação de valores superiores, uma vez que o sobejo poderá vir a ser cobrado pelo perito nos termos do art. 98, § 3º do CPC. Conquanto o Ente federativo, ora recorrente, reclame a aplicação do teto previsto na Portaria em questão, é de se ressaltar que tal limitação não contempla o Distrito Federal, que poderá vir a suportar o ônus do pagamento, caso seja vencido na demanda.”
+
+ Convém registrar que, a parte que litiga sob o pálio da gratuidade de justiça não está isenta de pagar a integralidade dos honorários, uma vez que os valores que excederem o previsto na norma ficam (ficarão) sob condição suspensiva de exigibilidade, conforme estabelece o § 3, art. 98 do Código de Processo Civil, verbis: “Vencido o beneficiário, as obrigações decorrentes de sua sucumbência ficarão sob condição suspensiva de exigibilidade e somente poderão ser executadas se, nos 5 (cinco) anos subsequentes ao trânsito em julgado da decisão que as certificou, o credor demonstrar que deixou de existir a situação de insuficiência de recursos que justificou a concessão de gratuidade, extinguindo-se, passado esse prazo, tais obrigações do beneficiário.”
+
+Acerca do tema, colaciono Ementas de Julgados desta egrégia Corte de Justiça:
+
+“AGRAVO DE INSTRUMENTO. HONORÁRIOS PERICIAIS. PORTARIA Nº 101/2016 DO TJDFT. FIXAÇÃO SUPERIOR AO LIMITE. POSSIBILIDADE. EXCESSO. PARTE VENCIDA. 1.  A Portaria Conjunta nº 101/2016 apenas limita o valor a ser custeado pelo TJDFT quando se trata de pagamento de honorários periciais pela parte beneficiária da gratuidade de justiça. Eventual excesso poderá ser cobrado pelo perito à parte vencida. 2.  Conquanto o Ente federativo, ora recorrente, reclame a aplicação do teto previsto na Portaria em questão, é de se ressaltar que tal limitação não contempla o Distrito Federal, que poderá vir a suportar o ônus do pagamento, caso seja vencido na demanda. 3. Agravo de instrumento conhecido e não provido.” (Acórdão 1799691, 07342513120238070000, Relator(a): ARQUIBALDO CARNEIRO PORTELA, 6ª Turma Cível, data de julgamento: 6/12/2023, publicado no PJe: 23/1/2024. Pág.: Sem Página Cadastrada.)
+
+“CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. DIFERENÇA DE DEPÓSITOS EM CONTA PASEP. SENTENÇA DE IMPROCEDÊNCIA. MÉRITO. INDENIZAÇÃO. VALORES DEPOSITADOS NA CONTA INDIVIDUAL DO PASEP. CÓDIGO DE DEFESA DO CONSUMIDOR. NÃO INCIDÊNCIA. ÔNUS PROBATÓRIO DA PARTE AUTORA. ART. 373, I, DO CPC. MANIFESTAÇÃO DA CONTADORIA JUDICIAL. PARÂMETROS DE CORREÇÃO OBSERVADOS PELO BANCO DO BRASIL. AUSÊNCIA DE PROVAS DO DANO SOFRIDO. HONORÁRIOS PERICIAIS. PARTE BENEFICIÁRIA DA GRATUIDADE DE JUSTIÇA. PORTARIA CONJUNTA Nº 101/16. RESPONSABILIDADE DO TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS. RECURSO PARCIALMENTE PROVIDO. 1. Em que pese aplicável às instituições financeiras o CDC (Súmula 297/STJ), inexiste relação de consumo, na forma dos art. 2º e 3º do CDC, quando o Banco do Brasil administra programa governamental, submetido a regramento especial (PASEP), não fornecendo serviço ostensivo e aberto ao mercado de consumo, senão atuando desprovido de qualquer autonomia e discricionariedade quanto aos valores depositados pela União em favor dos titulares das contas, atuando nos exatos limites legalmente previstos. 2. Inaplicável o CDC, nem se verificando os requisitos do § 1º do art. 373 do CPC, em razão do fácil acesso aos parâmetros de correção monetária normatizados pelo Conselho Diretor do PASEP, disponíveis de maneira ostensiva pelas instituições envolvidas na internet, desnecessária a inversão do ônus probatório, devendo o autor se desincumbir do encargo e comprovar o fato constitutivo de seu direito. 3. Os débitos alegadamente indevidos apontados pela parte autora e discriminados no extrato do PASEP com a rubrica "PGTO RENDIMENTO FOPAG", seguidos de um número de CNPJ do empregador, além de rubricas "PGTO RENDIMENTOS CAIXA" e "PGTO LEI 13677", nada mais são do que o pagamento de rendimentos e juros anuais, cujo levantamento fora autorizado pelo art. 4º, § 2º, da Lei Complementar nº 26/1975. 4. Na espécie, a parte autora se ampara em índices distintos daqueles previstos na regulação específica do programa, de modo que não prospera sua argumentação quanto à existência de diferença a maior entre os valores sacados de sua conta e aqueles entendidos como devidos, dado que estes foram equivocadamente calculados com lastro em índices de atualização inaplicáveis ao benefício em questão. 4.1. Diante das provas que demonstram o equívoco nos cálculos apresentados pela parte autora, em relação aos valores depositados em sua conta individual do PASEP pelo banco réu, especialmente no que tange à atualização monetária e à remuneração dos juros devidos, ônus este que lhe incumbia (art. 373, I, do CPC), não se vislumbra conduta ilícita por parte do apelado que fundamente sua condenação na indenização postulada, pelo que a o julgamento de improcedência do pedido é imperativo. 5. De acordo com o princípio da sucumbência, o vencido fica obrigado a pagar as despesas do processo e honorários do advogado à parte vencedora (art. 85, caput, CPC), diante do princípio básico de que aquele que teve êxito na demanda não saia prejudicado ao final do processo. 5.1. Todavia, sendo a parte sucumbente beneficiária da gratuidade de justiça, aplica-se o previsto no art. 95, § 3º, do CPC cumulado com o art. 4º da Portaria Conjunta nº 101/16 deste Tribunal de Justiça, os quais, de forma conjunta, determinam que, no âmbito da justiça de primeiro e de segundo graus do Distrito Federal e dos Territórios, a quitação será realizada pelo Tribunal de Justiça do Distrito Federal e Territórios - TJDFT. 6. Recurso parcialmente procedente.” (Acórdão 1852252, 07387526420198070001, Relator(a): ALFEU MACHADO, 6ª Turma Cível, data de julgamento: 24/4/2024, publicado no DJE: 7/5/2024. Pág.: Sem Página Cadastrada.)
+
+“AGRAVO DE INSTRUMENTO. AÇÃO DE CONHECIMENTO. AUTOR BENEFICIÁRIO DA GRATUIDADE DE JUSTIÇA. HONORÁRIOS PERICIAIS. NATUREZA E COMPLEXIDADE DA PROVA TÉCNICA. PORTARIA CONJUNTA 101/2016 - TJDFT. NÃO HÁ LIMITE DE FIXAÇÃO DOS HONORÁRIOS PERICIAIS. FIXADOS ACIMA DO TETO. QUANTIA EXCEDENTE. SUJEITA A COBRANÇA DO SUCUMBENTE. RECURSO CONHECIDO E DESPROVIDO.   1. Dispõe o caput do artigo 95 do Código de Processo Civil-CPC que "cada parte adiantará a remuneração do assistente técnico que houver indicado, sendo a do perito adiantada pela parte que houver requerido a perícia ou rateada quando a perícia for determinada de ofício ou requerida por ambas as partes". 2. O art. 95, § 3º prevê que, quando o pagamento da perícia for de responsabilidade de beneficiário de gratuidade da justiça, ela poderá ser: "I - custeada com recursos alocados no orçamento do ente público e realizada por servidor do Poder Judiciário ou por órgão público conveniado; II - paga com recursos alocados no orçamento da União, do Estado ou do Distrito Federal, no caso de ser realizada por particular, hipótese em que o valor será fixado conforme tabela do tribunal respectivo ou, em caso de sua omissão, do Conselho Nacional de Justiça."  3. O pagamento da perícia de responsabilidade de beneficiário da gratuidade de justiça deve ser pago com os recursos orçamentários deste Tribunal, conforme o disposto no artigo 95, § 3°, II, do Código de Processo Civil, regulamento pela Portaria Conjunta 101/2016 do TJDFT.  4. Não há limite de fixação dos honorários periciais pelo juiz. Caso o valor ultrapasse o teto estabelecido no § 1º do art. 2º, da Portaria 101/2016, o perito pode cobrar a quantia que exceder da parte sucumbente.  5. Quanto à distribuição da responsabilidade pelo pagamento da perícia, o Distrito Federal também é parte nos autos e garantidor das obrigações do IPREV-DF. Logo, a remuneração do perito deve ser rateada, pois a perícia foi determinada de ofício (Artigo 95 do CPC). 6. Recurso conhecido e desprovido.” (Acórdão 1803769, 07375250320238070000, Relator(a): LEONARDO ROSCOE BESSA, 6ª Turma Cível, data de julgamento: 13/12/2023, publicado no DJE: 1/2/2024. Pág.: Sem Página Cadastrada.)
+
+Desse modo, após reexaminar os autos, verifico que não ocorreu qualquer alteração nas circunstâncias fáticas e jurídicas, de modo que não vislumbro motivos para modificar o entendimento por mim externado por ocasião do indeferimento da liminar.  Portanto, sem reparos a decisão ora combatida.
+
+Ante o exposto, NEGO PROVIMENTO ao agravo de instrumento.
+
+É o voto.
+A Senhora Desembargadora SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 1º Vogal Com o relatorA Senhora Desembargadora VERA ANDRIGHI - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
