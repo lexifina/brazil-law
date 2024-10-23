@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARCIA TESTA contra decisão, da lavra deste signatário, acostada às fls. 1932/1932, que negou provimento ao apelo recursal em epígrafe.
+Em suas razões, a insurgente repisa os fundamentos dos embargos de divergência. Aponta a existência de nulidade processual. Adiciona que o acórdão impugnado, "(..) de maneira absolutamente injusta e arbitrária, deixou de suspender o processo após a morte do Sr. Marcílio (pai de Mirian), sob a justificativa de que, no caso se aplica a Jurisprudência relativa à NULIDADE DE ALGIBEIRA, como se inexistisse prejuízo no caso, como se não houvesse sido demonstrado tamanho prejuízo." Aduz que a decisão embargada violou o enunciado da Súmula 316/STJ. Requer o acolhimento dos aclaratórios.
+A impugnação está juntada às fls. 1946/1950.
+É o relatório.
+Decisão.
+Os aclaratórios não merecem acolhimento.
+1. Nos estreitos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o apelo recursal em epígrafe objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende o ora embargante.
+Nesse sentido, registram-se os seguintes precedentes desta Corte: AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015; EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+No caso em liça, as razões dos presentes embargos revelam tão somente o intuito de reapreciação da causa e a insatisfação da ora insurgente - MARCIA TESTA - com o resultado do julgado, o que não se admite com a objetividade do recurso manejado.
+Isso porque, o decisum embargado não possui qualquer vício a ser sanado pela via dos aclaratórios, uma vez que este signatário, apoiado em orientação jurisprudencial desta Casa, expressou compreensão segundo a qual são incabíveis embargos de divergência quando o acórdão embargado não ultrapassou, de fato, o juízo de admissibilidade, e os julgados paradigmas relevam exame meritório da questão controvertida, inexistindo, por essa razão, a indispensável semelhança fático processual entre os arestos confrontados.
+Na oportun idade, para corroborar o decisum, foram citados os seguintes julgados: AgRg nos EREsp 1.459.396/MG, Rel. Ministro HUMBERTO MARTINS, Corte Especial, j. 7/6/2017, D Je 14/6/2017; AgInt nos ER Esp 1.280.051/MG, Rel. Ministro MOURA RIBEIRO, Segunda Seção, j. 13/12/2017, D Je 6/3/2018; AgInt nos ER Esp 1.377.677/RS, Rel. Ministra MARIA ISABEL GALLOTTI, Segunda Seção, j. 24/5/2017, D Je 20/6/2017.
+Em reforço, destacou-se que "(..) A jurisprudência desta Corte Superior é pacífica em rechaçar a nulidade de algibeira, na qual se alega a existência de vício formal apenas em momento oportuno, em explícita ofensa aos princípios da boa-fé processual e da cooperação."
+Nessa linha: AgInt na TutPrv no AR Esp 1.671.206/MT, Rel. Min. Antônio Carlos Ferreira, Quarta Turma, julgado em 08/04/2024, D Je 11/04/2024; AgInt no R Esp 1.070.538/RS, Rel. Min. Raul Araújo, Quarta Turma, julgado em 04/03/2024, D Je 11/03/2024.
+Não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/2015 na decisão hostilizada, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, o que resta vedado na estreita via recursal sob foco, valendo destacar, por oportuno, ante a recalcitrância da embargante, a possibilidade de aplicação de multa, a teor do art. 1.026, §1º, do CPC.
+2. Do exposto, com fundamento no art. 1.022, do CPC, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
