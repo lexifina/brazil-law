@@ -1,0 +1,20 @@
+DECISÃO
+No Tribunal a quo, trata-se de ação rescisória, visando desconstituir acórdão do Tribunal de Justiça do Estado do Amapá que julgou improcedente ação de cobrança em face do ente estadual. Na Cor te de Justiça, a ação foi julgada improcedente. O valor da causa foi fixado em R$ 162.450,00 (cento e sessenta e dois mil e quatrocentos e cinquenta reais).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ contra acórdão com o seguinte resumo de ementa:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. PROVA NOVA. PRODUÇÃO RECENTE. DÚVIDAS QUANTO AO DIREITO ALEGADO.
+1) Embora este Tribunal de Justiça venha admitindo o ajuizamento de ação rescisória com base em documento inexistente quando da instrução da ação originária, tal prova deve ter força probante suficiente para alterar a conclusão adotada no julgado rescindendo, o que não se verifica no presente caso. Precedentes.
+2) Ação rescisória julgada improcedente.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Contextualizada a demanda, tenho que assiste razão ao réu quando afirma que a prova trazida pela autora não é apta a subsidiar a pretensão rescisória, na medida em que se trata de documento recente, posto confeccionado após o trânsito em julgado do acórdão cuja rescisão se busca (o trânsito e julgado ocorreu em 23/06/2023 e o documento é datado de 26/06/2023).
+Além da recenticidade, o atestado não traz certeza quanto ao débito perseguido pela autora, pois, muito embora diga respeito à entrega de material, deixou dúvidas acerca do que seriam as "planilhas solicitações" (as indicadas pela autora ou relativas à demanda interna dirigida à SESA ), bem como não especificou a qual contrato ou licitação se referem os aparelhos auditivos que teriam sido entregues.
+No mais, não há como acolher o argumento da autora no sentido de que desconhecia o real destinatário dos produtos por ela fornecidos em razão das notas de empenho e ordens de fornecimento serem emitidas pelo réu. Extrai-se dos autos que, ao menos desde março de 2016, já era de seu conhecimento que os aparelhos auditivos atendiam "usuários cadastrados na lista de espera do Serviço de Atenção à Saúde Auditiva na Média Complexidade do Centro de Reabilitação do Amapá - CREAP", conforme consta no campo "Observação" da Nota de Empenho emitida pelo ESTADO DO AMAPÁ em 02/03/2016 (ordem nº 1 destes autos).
+Assim, tal prova poderia ter sido produzida durante a instrução do feito de origem e de forma a não deixar dúvidas acerca do direito então vindicado. Embora este Tribunal de Justiça venha admitindo o ajuizamento de ação rescisória com base em documento inexistente quando da instrução da ação originária, tal prova deve ter força probante suficiente para alterar a conclusão adotada no julgado rescindendo, o que não se verifica no presente caso, nesse sentido:
+ ..
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
