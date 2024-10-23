@@ -1,0 +1,19 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: revisional de contrato bancário ajuizada por JOSEFINA AUXILIADORA ALVES DE ALBRES em face da agravante.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa (e-STJ, fls. 430):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO - PRELIMINARES DE CERCEAMENTO DE DEFESA, AUSÊNCIA DE FUNDAMENTAÇÃO, INÉPCIA DA PETIÇÃO INICIAL E PRESCRIÇÃO AFASTADAS - TAXA DE JUROS - JUROS REMUNERATÓRIOS - MUITO ACIMA DA TAXA MÉDIA DE MERCADO DO BANCO CENTRAL DO BRASIL - ABUSIVIDADE CONSTATADA DO CASO EM APREÇO - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO. O Juízo singular expôs os motivos de seu convencimento pela procedência dos pedidos iniciais, bem como fundamentou adequadamente sua decisão, tanto é que viabilizou a interposição do presente recurso, possibilitando às partes o amplo direito de defesa. Preliminar de ausência de fundamentação da sentença afastada. Se a petição inicial indicou de forma suficiente, clara e precisa a causa de pedir e o pedido e veio acompanhada dos documentos indispensáveis para a propositura da ação (CPC, artigos 319 e 320), não há que se falar em inépcia da inicial. Considerando que os elementos de provas contidos nos autos permitiram ao Magistrado julgar o processo, não se vislumbra o alegado cerceamento de defesa no julgamento antecipado da lide. Tratando-se a presente de ação revisional de contrato, o prazo prescricional aplicável é o decenal, nos termos do art. 205 do Código Civil, contados da data de assinatura do contrato. Não tendo decorrido o referido prazo, melhor sorte não assiste à prejudicial de mérito levantada pela parte apelante. Nos termos da orientação jurisprudencial do STJ, não será considerada abusiva a taxa dos juros remuneratórios contratada quando ela for cerca de até duas vezes superior à taxa de juros média praticada pelo mercado, divulgada pelo Banco Central do Brasil, para o tipo específico de contrato, na época de sua celebração, o que não é o caso dos autos, em que os juros cobrados são mais de onze vezes superior à referida taxa. Recurso conhecido e desprovido.
+Decisão de admissibilidade do TJ/MS: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) incidência das Súmulas 5 e 7, ambas do STJ;
+ii) dissídio prejudicado pela incidência das Súmulas 5 e 7/STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que a divergência jurisprudencial foi devidamente comprovada.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) incidência das Súmulas 5 e 7, ambas do STJ;
+ii) dissídio prejudicado pela incidência das Súmulas 5 e 7/STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários anteriormente fixados em R$ 200,00, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
