@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por HAPVIDA ASSISTÊNCIA MÉDICA S.A. (HAPVIDA), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de Pernambuco, assim ementado:
+DUPLA APELAÇÃO CÍVEL EM AÇÃO ORDINÁRIA DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. CERCEAMENTO DE DEFESA DA SEGURADORA - INOCORRÊNCIA. PROVAS SUFICIENTES PARA O CONVENCIMENTO DO JULGADOR. OFENSA AO PRINCÍPIO DA DIALETICIDADE - INEXISTÊNCIA. MÉRITO:
+SEGURADO PORTADOR DE CÂNCER DE PRÓSTATA. PROCEDIMENTO CIRÚRGICO PELA VIA ROBÓTICA - COBERTURA DEVIDA. A LEI Nº 14.454/2022 DERRUBOU O ENTENDIMENTO NO SENTIDO DO CARÁTER TAXATIVO DO ROL DA ANS. JUROS DE MORA A PARTIR DA CITAÇÃO. BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS QUE ENGLOBA TAMBÉM O VALOR ECONÔMICO AFERÍVEL NA OBRIGAÇÃO DE FAZER. NÃO PROVIDO O RECURSO DA HAPVIDA. PROVIDO O RECURSO DO AUTOR.
+1. Rejeitada a preliminar de cerceamento de defesa. Segundo entendimento consolidado no Superior Tribunal de Justiça, "cabe ao juiz, como destinatário final da prova, respeitando os limites adotados pelo CPC, decidir pela produção probatória necessária à formação do seu convencimento." (STJ - AgInt no AREsp: 2164846 RS 2022/0209290-6, T3 - TERCEIRA TURMA, Publicação: DJe 11/11/2022).
+2. Rejeitada a preliminar de ofensa ao princípio da dialeticidade recursal. O apelo ofertado pela parte demandante, expõe, claramente, as razões de fato e de direito por meio das quais visa o apelante a impugnar a fundamentação utilizada pelo magistrado de piso, a fim de obter a reforma da sentença atacada.
+3. O médico assistente atesta que o tratamento cirúrgico com a utilização da plataforma robótica possibilita uma melhor taxa de recuperação da potência sexual, da continência urinária, além de diminuição das dores pela recuperação imediata e com taxas mínimas de sangramentos e infecção hospitalar.
+4.O Superior Tribunal de Justiça já firmou orientação no sentido de que o marco inicial dos juros de mora, nas indenizações por danos morais decorrentes de ilícito contratual, é a data da citação.
+5. A condenação na obrigação de fazer carrega benefício econômico, consubstanciado no valor da cobertura indevidamente negada, devendo, portanto, fazer parte da base de cálculo da verba honorária sucumbencial, fixada em percentual sobre a condenação (e-STJ, fl. 1.045).
+Nas razões do presente recurso, UNIMED alegou, a par de dissídio jurisprudencial, a violação dos arts. 10, 12, 16 e 17-A, todos da Lei n. 9.656/98; e 4º, I e II, da Lei n. 9.961/2000, ao sustentar, em síntese, não está legal e contratualmente obrigada ao custeio de tratamento que não consta no rol da ANS.
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Do dever de cobertura
+Pelo que se dessume dos autos, o entendimento do acórdão recorrido está em consonância com o desta Corte, no sentido de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura, sendo abusiva a cláusula contratual que exclui tratamento, procedimento ou material imprescindível, prescrito para garantir a saúde ou a vida do beneficiário.
+Cabe, aqui, ressaltar que, no âmbito do REsp 1.733.013/PR, a eg. Quarta Turma firmou o entendimento de que o rol de procedimentos editado pela ANS não pode ser considerado meramente exemplificativo. Em tal precedente, contudo, fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS (AgInt no REsp n.1.949.270/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+Assim, na hipótese de procedimento para o tratamento de câncer, a ausência de previsão no rol da ANS não afasta do plano de saúde a obrigação de custear o referido tratamento, nos termos recomendados pelo médico, com vistas à preservação da saúde do beneficiário se a doença é coberta contratualmente.
+A propósito, confiram-se os precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA N. 284/STF. CITAÇÃO DE ARTIGOS. SÚMULA N. 284/STF. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. PLANO DE SAÚDE. CÂNCER. CIRURGIA. NATUREZA DO ROL DA ANS. IRRELEVÂNCIA. CUSTEIO. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. REEMBOLSO INTEGRAL. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+ ..
+4. Para a jurisprudência do STJ, no caso de tratamento oncológico, há apenas uma diretriz na resolução normativa da Agência Nacional de Saúde Suplementar - ANS para o custeio de medicamentos, motivo pelo qual é irrelevante a discussão da natureza taxativa ou exemplificativa do rol de procedimentos da mencionada agência reguladora. Precedentes.
+5. Os planos de saúde possuem o dever de cobertura de procedimentos e exames integrantes do tratamento oncológico. Precedentes.
+5.1. O Tribunal de origem determinou o custeio, pelo plano de saúde, da cirurgia integrante do tratamento de câncer da parte agravada (prostatectomia robótica), conforme a prescrição médica, o que não destoa do entendimento desta Corte Superior.
+ ..
+8. Agravo interno parcialmente conhecido e, na parte conhecida, desprovido.
+(AgInt no REsp n. 2.108.528/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/8/2024, DJe de 15/8/2024 - sem destaques no original)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE PROCEDIMENTO CIRÚRGICO PARA TRATAMENTO DE CÂNCER DE PRÓSTATA PROSTATAVESICULECTOMIA RADICAL LAPAROSCÓPICA ROBÓTICA. RECUSA ABUSIVA. SÚMULA N. 7/STJ.
+1. Discute-se nos autos a obrigatoriedade de cobertura de procedimento cirúrgico fora do rol da ANS indicado a paciente com câncer de próstata.
+2. Na hipótese, o TJSP julgou a lide de acordo com a convicção formada pelos elementos fáticos existentes nos autos, concluindo pela injusta e abusiva negativa de cobertura ao tratamento médico-cirúrgico solicitado, por não estar previsto no rol de procedimentos da ANS. Alterar os fundamentos do acórdão recorrido demandaria uma reanálise do quadro fático e probatório dos autos, o que esbarraria na Súmula n. 7.
+3. No julgamento do REsp n. 1.733.013/PR, a Quarta Turma firmou o entendimento de que o rol de procedimentos editado pela ANS não pode ser considerado meramente exemplificativo. Nesse precedente, contudo, fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS (AgInt no REsp n.1.949.270/SP, relator Ministro Marco buzzi, Quarta Turma, julgado em 21/2/2022, DJe de 24/2/2022).
+Agravo interno improvido.
+(AgInt no REsp n. 1.988.868/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/3/2024, DJe de 20/3/2024 - sem destaques no original)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO INDENIZATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Nos termos da jurisprudência deste Corte, a natureza taxativa ou exemplificativa do rol da ANS é desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa. Precedentes.
+2. A conclusão a que chegou o Tribunal de origem, relativa à existência de ofensa a direitos da personalidade em razão do ilícito em questão, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.909.215/PR, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022 - sem destaques no original)
+Inafastável, no caso em tela, a incidência da Súmula n. 568 do STJ, ao preceituar que O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema (Corte Especial, DJe 17/3/2016).
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Inaplicável ao caso a majoração dos honorários recursais.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA. CUSTEIO. TRATAMENTO DE CÂNCER. PROCEDIMENTO CIRÚRGICO (CIRURGIA ROBÓTICA). ROL DE PROCEDIMENTOS DA ANS. DESIMPORTÂNCIA. RECUSA ABUSIVA. ENTENDIMENTO DO ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O DESTA CORTE. RECURSO ESPECIAL NÃO PROVIDO.
