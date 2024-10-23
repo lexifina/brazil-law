@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MAURÍCIO HERMES DE MORAES (MAURÍCIO) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 250/255).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, MAURÍCIO alegou a violação dos arts. 287, II, alínea "a", da Lei nº 6.404/76, 170, II, do CC/16, 114, 191, 199, II, e 206, §5º, I, do CC/02, 507, 550, caput e § 2º, 1.000, e 1.022, II, do CPC, ao sustentar que (1) não é possível a análise da prescrição nesta fase processual, por ter ocorrido a preclusão lógica e a renúncia tácita; (2) tendo em vista que o fundo 157 não possuía prazo definido para resgate, inexiste termo inicial para contagem do lapso prescricional, sendo de rigor a prestação de contas da integralidade do período de investimentos; (3) o acórdão foi omisso.
+(1) Da omissão
+Apesar do inconformismo, verifica-se que o Tribunal local se pronunciou sobre todos os temas importantes ao deslinde da controvérsia, não havendo, portanto, omissão, contradição ou obscuridade.
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. AUSÊNCIA. RESPONSABILIDADE CIVIL RECONHECIDA. EXCLUDENTES AFASTADAS. REVISÃO. NÃO CABIMENTO. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ. ARBITRAMENTO DE DANOS MORAIS. DISCUSSÃO DO VALOR. PROPORCIONALIDADE RECONHECIDA. IMPOSSIBILIDADE DE REVISÃO NESTES AUTOS. SÚMULA 7/STJ. TERMO INICIAL. JUROS MORATÓRIOS. CITAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.229.195/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+Afasta-se, portanto, a alegada violação.
+(2) Da preclusão e da renúncia quanto à prescrição
+MAURÍCIO alegou que ao ser citado, o banco prestou as contas sem qualquer ressalva quanto à prescrição, ocorrendo a preclusão lógica e a renúncia tácita.
+Sobre o tema, o Tribunal de Justiça do Rio Grande do Sul assinalou que:
+No caso em apreço, a partir do exame dos autos originários, não se verifica a existência de discussão anterior a respeito do prazo prescricional aplicável, o que, nos termos do entendimento do STJ, autoriza o exame da matéria pela Julgadora de origem, inexistindo, portanto, violação ao disposto no art. 507 do CPC.
+De igual modo, tampouco se verifica a existência de renúncia expressa ou tácita ao prazo prescricional - na forma do art. 191 do Código Civil2 -, uma vez que, ao contrário do que tenta fazer crer a parte recorrente, a instituição financeira recorrida não praticou ato incompatível.
+Acerca do ponto, revela-se oportuno destacar que, na forma do entendimento do STJ a respeito do art. 191 do CC, a caracterização da renúncia tácita da prescrição pressupõe inequívoco reconhecimento do direito da parte contrária, o que não se verifica na situação em apreço.
+Além disso, considerando que o Superior Tribunal de Justiça somente traçou orientações a respeito do prazo prescricional aplicável às ações de exigir contas do Fundo 157 em junho de 2022, não há como reputar que a instituição financeira requerida tenha renunciado ao prazo prescricional ao prestar contas em 2019, até porque a renúncia, além de ser feita após ter se consumado a prescrição (art. 191 do Código Civil), deve ser interpretada restritivamente (art. 114 do Código Civil). (e-STJ, fls. 112).
+De fato, considerando que a matéria relativa a prescrição não tinha sido visitada pelas instâncias ordinárias, forçoso reconhecer a possibilidade de análise, a qualquer tempo, por se tratar de matéria de ordem pública. Confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. RECONHECIMENTO DE OFÍCIO. POSSIBILIDADE.
+1. A prescrição, matéria de ordem pública, pode ser reconhecida de ofício ou a requerimento das partes, a qualquer tempo e nas instâncias ordinárias.
+Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl nos EDcl no AREsp n. 2.129.032/GO, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 18/9/2023, DJe de 22/9/2023, sem destaque no original.)
+Por seu turno, a renúncia à prescrição depende de ato inequívoco da parte contrária, o que não ocorreu no caso em tela, de modo que não é mesmo possível seu reconhecimento. Veja-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO C/C REPETIÇÃO DE INDÉBITO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões.
+Deve ser afastada a alegada violação ao art. 1.022, II, do CPC/15.
+2. A renúncia à prescrição - tácita ou expressa - depende de ato inequívoco da parte. Isto é, até mesmo a renúncia tácita não pode ser presumida com base no comportamento do sujeito ativo da obrigação. Precedentes.
+3. A ação revisional ou de anulação do contrato de promessa de compra e venda por abusividade de cláusula tem natureza pessoal, de modo que, para avenças firmadas na vigência do Código Civil de 1916, aplica-se o prazo prescricional vintenário, ou decenal quando o vigente o Código Civi/2002.
+3.1. Na hipótese dos autos, o contrato perdurou de 20/07/95 a 20/07/2010. E, considerando-se o prazo decenal a incidir a contar da vigência do Código Civil (11/01/2003) findo em 11/01/2013, tendo sido ajuizada a demanda em 29/04/2015, a pretensão foi alcançada pela prescrição.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.146.051/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023, sem destaque no original.)
+(3) Da prescrição
+No tocante à prescrição propriamente dita, o Tribunal estadual reconheceu que o prazo prescricional das demandas que envolvem o Fundo de Investimentos 157 deve ser trienal quanto aos valores investidos em ações e quinquenal no caso de debêntures.
+De fato, esta Terceira Turma analisou os prazos prescricionais aplicáveis às ações de exigir contas relacionadas ao Fundo 157, concluindo que:
+(..) à pretensão do titular de ações de haver dividendos da sociedade anônima aplica-se o prazo prescricional trienal, conforme dispõe o art. 287, inc. II, alínea "a", da Lei nº 6.404/76. Já as debêntures conferem ao debenturista um crédito contra a companhia, o qual consta do instrumento denominado escritura de emissão, de modo que incide o disposto no art. 206, § 5º, inc. I, do CC/02. (REsp n. 1.997.047/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 21/6/2022, DJe de 24/6/2022).
+Confira-se a ementa do referido julgado:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. FUNDO 157. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PRESCRIÇÃO. PRAZO APLICÁVEL. AÇÕES. TRÊS ANOS. DEBÊNTURES. CINCO ANOS.
+1. Ação de exigir contas ajuizada em 02/10/2019, da qual foi extraído o presente recurso especial interposto em 13/04/2021 e concluso ao gabinete em 18/01/2022.
+2. O propósito recursal consiste em dizer se está caracterizada a negativa de prestação jurisdicional e qual o prazo prescricional aplicável à pretensão de obter a prestação de contas referente aos valores investidos no Fundo 157.
+3. Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Devidamente analisada e discutida a questão indicada como omissa, não há que se falar em violação ao art. 1.022 do CPC/2015.
+4. A ação em que se busca a prestação de contas tem por escopo apurar a existência de saldo credor ou devedor. Finalidade essa que revela a natureza condenatória da demanda. Nessa linha, no julgamento do REsp 1.608.048/SP, decidiu-se que, nas hipóteses em que a lei não prevê um prazo específico para a cobrança desse crédito, aplica-se o prazo prescricional decenal à pretensão de exigir contas (art. 205 do CC).
+5. O Fundo de Investimentos 157 é regulamentado pelo DecretoLei nº 157/67, o qual preconiza que os contribuintes do imposto de renda poderão oferecer recursos a instituições financeiras, que os aplicarão na compra de ações e debêntures (arts. 1º e 2º). Aquele que adquire ações torna-se acionista da companhia, o que lhe confere o direito de, em caso de resultados positivos, participar dos lucros sociais (art. 109, inc. I, da Lei nº 6.404/76). À pretensão do titular de ações de haver dividendos da sociedade anônima aplica-se o prazo prescricional trienal, conforme dispõe o art. 287, inc. II, alínea "a", da Lei nº 6.404/76. Já as debêntures conferem ao debenturista um crédito contra a companhia, o qual consta do instrumento denominado escritura de emissão, de modo que incide o disposto no art. 206, § 5º, inc. I, do CC/02.
+6. Aquele que investe no Fundo de Investimentos 157 sabe, de antemão, que o montante investido se destinará à aquisição de debêntures e ações, conforme estabelece expressamente o DecretoLei nº 157/67 (art. 1º). Consequentemente, não há elementos que autorizem a presunção de que o investidor não tivesse conhecimento de que tem direito ao pagamento periódico de dividendos, quanto às ações, e de juros periódicos, com relação às debêntures eventualmente adquiridas pela instituição financeira.
+7. Nessa linha, julgado procedente o pedido de exigir contas do Fundo 157, o juiz limitará a obrigação da instituição financeira de prestar as contas aos 03 (três) anos anteriores à propositura da ação, quanto aos valores investidos em ações, e aos 05 (cinco) anos precedentes à demanda, no que diz respeito ao montante investido em debêntures.
+8. Recurso especial conhecido e parcialmente provido.
+(REsp n. 1.997.047/RS, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 21/6/2022, DJe de 24/6/2022).
+Conforme demonstrado quando do julgamento do referido REsp nº 1.997.047/RS, é cediço que o Fundo de Investimentos 157 tem por premissa a oferta de recursos, por contribuintes do imposto de renda, a instituições financeiras para aplicação na compra de ações e debêntures.
+Desse modo, a lim itação temporal decorre do vínculo estabelecido entre a ação de exigir contas e o interesse do investidor (acionista ou debenturista) de cobrar o crédito eventualmente apurado no feito, razão pela qual deve-se observar o prazo prescricional trienal para haver dividendos (art. 287, inc. II, alínea "a", da Lei nº 6.404/76), ou quinquenal (art. 206, § 5º, inc. I, do CC) para os debenturistas que pleiteiam seu crédito.
+Ressalta-se que esse novo entendimento foi reafirmado no julgamento dos Recursos Especiais nº 1965613/RS e 2001288/RS, nos quais o saudoso Min. PAULO DE TARSO SANSEVERINO consignou expressamente que
+(..) uma vez reanalisados os embargos de declaração e, na hipótese de vir a ser reconhecida a existência de interesse de agir na forma do que pacificara este órgão fracionário, fica desde logo definido que as contas deverão vir a ser prestadas em relação "aos 03 (três) anos anteriores à propositura da ação, quanto aos valores investidos em ações, e aos 05 (cinco) anos precedentes à demanda, no que diz respeito ao montante investido em debêntures".
+Assim, à luz da nova jurisprudência desta Corte, deve ser mantido o acórdão impugnado, que limitou a obrigação de prestar contas à 03 (três) anos anteriores à propositura da ação, quanto aos valores investidos em ações e à 05 (cinco) anos precedentes à demanda, no que diz respeito ao montante investido em debêntures.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSO CIVIL. CONTRATO BANCÁRIO. FUNDO 157. AÇÃO DE EXIGIR CONTAS. 1. VIOLAÇÃO DOS ART. 1.022 DO CPC. OMISSÃO NÃO CARACTERIZADA. 2. PRESCRIÇÃO. MATÉRIA NÃO DEBATIDA NAS INSTÂNCIAS ORDINÁRIAS. PRECLUSÃO LÓGICA. NÃO CARACTERIZAÇÃO. RENÚNCIA TÁCITA. ATO INEQUÍVOCO DA PARTE. NÃO OCORRÊNCIA. 3. PRAZO APLICÁVEL. AÇÕES. TRÊS ANOS. DEBÊNTURES. CINCO ANOS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
