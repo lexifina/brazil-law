@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+RECURSO EM SENTIDO ESTRITO - HOMICÍDIO QUALIFICADO - PRELIMINAR - DESENTRANHAMENTO DE DEPOIMENTOS COLETADOS NA INSTRUÇÃO - IMPOSSIBILIDADE - MÉRITO - DESPRONÚNCIA - IMPOSSIBILIDADE - EXISTÊNCIA DE PROVAS DE MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA - ABSOLVIÇÃO SUMÁRIA - INVIABILIDADE - HIPÓTESES AUTORIZADORAS NÃO COMPROVADAS DE PLANO - DESCLASSIFICAÇÃO PARA CRIME DE COMPETÊNCIA DO JUIZ SINGULAR - INVIABILIDADE - INEXISTÊNCIA DE ANIMUS NECANDI NÃO DEMONSTRADA DE PLANO - QUALIFICADORA - DECOTE - IMPOSSIBILIDADE - MANIFESTA IMPROCEDÊNCIA NÃO VERIFICADA - RECURSO DESPROVIDO.
+- Dispõe o artigo 563 do Código de Processo Penal que "nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa".
+- A pronúncia encerra simples juízo de admissibilidade da acusação, exigindo o ordenamento jurídico somente o exame da ocorrência de crime e a presença de suficientes indícios de autoria ou participação, do denunciado não demandando os requisitos de certeza indispensáveis para a condenação. As eventuais dúvidas que se apresentem nessa fase processual devem ser resolvidas em favor da sociedade.
+- Havendo prova da materialidade do delito e suficientes indícios de autoria, a manutenção da decisão de pronúncia, nos termos em que se fez lançada na sentença, impõe-se.
+- Não comprovada qualquer hipótese legal que autoriza a absolvição sumária, a manutenção da decisão de pronúncia se impõe, devendo o caso ser resolvido pelo Júri. - Somente é cabível a desclassificação de crime de competência do Tribunal do Júri para outro de competência do Juiz Singular quando a prova permite, de plano, sem maiores indagações, reconhecer a inexistência de animus necandi na ação do agente.
+- As qualificadoras contidas na denúncia e albergadas no decreto de pronúncia somente poderão ser excluídas pelo Tribunal revisor em caráter raro e excepcional, quando manifestamente improcedentes e de todo descabidas.
+Imputa-se aos pacientes a prática do crime de tentativa de homicídio (art. 121, § 2º, III, c/c. art. 14, II, do Código Penal).
+A defesa alega, em síntese: a) ausência de fundamentação idônea no decreto de prisão preventiva, porque lastreada unicamente na gravidade abstrata do delito; b) a inexistência de fatos novos que justifiquem a manutenção da custódia cautelar; c) a suficiência de medidas cautelares diversas da prisão.
+Ao final, requer a concessão da ordem para revogar a prisão preventiva dos pacientes.
+É o relatório.
+No que tange à prisão preventiva dos pacientes, verifica-se que já foi apresentado o RHC nº 203.923/MG, no qual se impugnou, com as razões ora deduzidas, a negativa do direito de recorrerem da sentença de pronúncia em liberdade.
+Tratando-se de reiteração, inadmissível a impetração, v.g.:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 33, DA LEI N. 11.343/2006, E ART. 2.º, DA LEI N. 8.072/1990. PLEITO DE REDUÇÃO DA PENA E DE ABRANDAMENTO DO REGIME PRISIONAL INICIAL. REITERAÇÃO DO PEDIDO. MATÉRIA JÁ VEICULADA, COM A MESMA CAUSA DE PEDIR, NO ARESP N. 1.222.516/MG. DECISÃO DEFINITIVA DO STJ. HIPÓTESE DE INDEFERIMENTO LIMINAR DO WRIT. AGRAVO REGIMENTAL DESPROVIDO.
+- A defesa pretendeu, com o mandamus, que a pena definitiva do agravante fosse reduzida e que se abrandasse o seu regime prisional inicial.
+- O mandamus, porém, consiste em mera reiteração do pedido formulado no AREsp n. 1.222.516/MG, o qual, ademais, tinha a mesma causa de pedir.
+- Naquela oportunidade (julgamento do AgRg nos EDcl no AREsp n.º 1.222.516/MG) decidiu-se que "houve fundamentação concreta quando do não reconhecimento do tráfico privilegiado, consubstanciada na conclusão de que o recorrente se dedica às atividades criminosas, ante a apreensão de quantidade elevada de drogas e pelas demais circunstâncias que envolveram o delito, elementos aptos a justificar o afastamento do redutor do art. 33, § 4º, da Lei n. 11.343/2006". Outrossim, ficou decidido que, "considerando o patamar da pena definitiva que, em tese, comportaria o regime semiaberto, foi estabelecido o fechado de forma fundamentada, não havendo, portanto, ilegalidade a ser sanada.".
+- Em casos como o presente, a impetração deve ser inadmitida de plano, nos termos do art. 210, do RISTJ.
+- Agravo regimental desprovido.
+(AgRg no HC 762.206/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. MATÉRIA JÁ SUSCITADA EM HABEAS CORPUS IMPETRADO ANTERIORMENTE. MERA REITERAÇÃO DE PEDIDO. AGRAVO NÃO PROVIDO.
+1. A simples leitura da decisão combatida deixa claro que este recurso foi interposto em favor do mesmo paciente do HC n. 746.321/SC, questiona o mesmo acórdão proferido pelo Tribunal de origem e apresenta pedido idêntico - revogação da prisão preventiva por ser incompatível com o regime fixado na sentença para início do cumprimento da pena (semiaberto).
+2. A análise do decisum proferido naqueles autos evidencia que, ao contrário do afirmado neste agravo, houve exame do mérito lá suscitado, tanto que foi denegada a ordem.
+3. Agravo não provido.
+(AgRg no RHC 166.833/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/8/2022, DJe de 23/8/2022).
+Esta é, aliás, a orientação que vem sendo adotada por esta Quinta Turma, que tem afirmado que "Incide o instituto da coisa julgada quando o habeas corpus é reiteração de recurso ordinário anteriormente julgado e desprovido, havendo identidade de partes, pedido e causa de pedir, ainda que impugnem acórdão diferentes, quando não houver sequer alegação de alteração fática que justifique uma nova abordagem das teses antes resolvidas. (AgRg no HC: 695150 SP 2021/0303500-0, Data de Julgamento: 03/05/2022, QUINTA TURMA, Data de Publicação: DJe 10/05/2022)
+Com fundamento no art. 34, inc. XVIII, "a", do Regimento Interno deste Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
