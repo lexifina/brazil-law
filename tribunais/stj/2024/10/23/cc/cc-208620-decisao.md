@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 2ª Vara Cível de Belém - SJ/PA e o Juízo Federal da 2ª Vara de Campo Grande - SJ/MS, nos autos da ação de cumprimento de sentença que Edegar Luiz Paiva de Oliveira move em desfavor do INCRA - Instituto Nacional de Colonização e Reforma Agrária.
+A ação foi distribuída, inicialmente, ao Juízo Federal da 2ª Vara de Campo Grande - SJ/MS, o qual facultou ao autor demandar a execução no seu local de seu domicílio, sob a justificativa de possibilitar maior celeridade e colaboração processual. Feita a opção pelo exequente, foram os autos remetidos ao Juízo Federal da 2ª Vara Cível de Belém - SJ/PA, que suscitou o presente conflito de competência.
+É o relatório. Passo a decidir.
+Segundo a jurisprudência desta Corte é facultado ao detentor do título executivo coletivo propor o cumprimento individual no foro do próprio domicílio ou no território do juízo sentenciante.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSO CIVIL. LIQUIDAÇÃO DE SENTENÇA COLETIVA PROMOVIDA POR SUBSTITUTO PROCESSUAL. COMPETÊNCIA. FORO DO DOMICÍLIO DO CONSUMIDOR OU DO LOCAL EM QUE PROFERIDO O TÍTULO EXECUTIVO JUDICIAL. ALEATORIEDADE NA ESCOLHA. IMPOSSIBILIDADE. MULTA DO ART. 1.026, § 2º, do CPC/2015. AFASTAMENTO. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
+1. O entendimento prevalente nesta Corte Superior é de que a competência para liquidação e cumprimento de sentença coletiva poderá ser do foro em que prolatada a decisão da ação civil pública ou do domicílio dos beneficiários ou seus sucessores.
+ ..
+4. Recurso especial conhecido e parcialmente provido (REsp 1.866.440/AL, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 12/5/2023).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONFLITO DE COMPETÊNCIA. EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA NO JULGAMENTO DE AÇÃO COLETIVA. FACULDADE DO CONSUMIDOR DE PROPOR O CUMPRIMENTO DA SENTENÇA NO JUÍZO SENTENCIANTE OU NO PRÓPRIO DOMICÍLIO. OBJETO DOS ARTS. 98, § 2º, II, E 101, I, DO CDC. PRECEDENTES. SUMULA 83/STJ.
+1. Trata-se de ação em que busca o recorrente desconstituir acórdão que reconheceu ao beneficiário a faculdade de ingressar com cumprimento individual da sentença coletiva no próprio foro ou no sentenciante.
+2. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que a execução individual de sentença condenatória proferida no julgamento de ação coletiva não segue a regra geral dos arts. 475-A e 575, II, do Código de Processo Civil, pois inexiste interesse apto a justificar a prevenção do Juízo que examinou o mérito da ação coletiva para o processamento e julgamento das execuções individuais desse título judicial. Desse modo, o ajuizamento da execução individual derivada de decisão proferida no julgamento de ação coletiva tem como foro o domicílio do exequente, em conformidade com os artigos 98, § 2º, I, 101, I, do Código de Defesa do Consumidor.
+3. Forçoso reconhecer aos beneficiários a faculdade de ingressar com o cumprimento individual da sentença coletiva no foro do próprio domicílio ou no território do juízo sentenciante.
+4. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+5. Recurso Especial não provido (REsp 1.663.926/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe 16/6/2017).
+Na hipótese dos autos, verifica-se que o exequente protocolizou o pedido de cumprimento individual do título executivo no território do juízo sentenciante.
+Assim, inviável o declínio da competência, realizado pelo juízo suscitado, tendo em vista que viola a regra de estabilização de competência, prevista no art. 43 do CPC/2015, segundo a qual são irrelevantes as modificações de fato ou de direito ocorridas posteriormente ao estabelecimento da relação processual, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta. A esse respeito, mutatis mutandis: CC 167.679/PR, relator Ministro Herman Benjamin, Primeira Seção, DJe 7/5/2020; AgInt no CC 139.278/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 28/3/2019.
+Isso posto, conheço do conflito para declarar a competência do Juízo Federal da 2ª Vara de Campo Grande - SJ/MS, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. CUMPRIMENTO DE SENTENÇA COLETIVA. AJUIZAMENTO NO JUÍZO SENTENCIANTE. FACULDADE DO EXEQUENTE. ALTERAÇÃO DE COMPETÊNCIA. ARTIGO 430 DO CPC/2015. COMPETÊNCIA
+JUSTIÇA ESTADUAL.
