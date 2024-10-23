@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. IMPOSSIBILIDADE DE CONCESSÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI Nº 11.343/06. DEDICAÇÃO À ATIVIDADE CRIMINOSA. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus substitutivo de recurso próprio. No caso, o réu foi condenado por tráfico de drogas, com afastamento da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei nº 11.343/06, em razão de evidências de dedicação à atividade criminosa, como a posse de balanças de precisão, anotações típicas do tráfico e o uso de veículo para o transporte de entorpecentes. A defesa pleiteia a concessão da ordem para obter a redução da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se é cabível o uso de habeas corpus como substitutivo de recurso próprio para discutir a dosimetria da pena; (ii) determinar se os elementos do caso afastam corretamente a aplicação da minorante do tráfico privilegiado prevista no art. 33, § 4º, da Lei nº 11.343/06.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é cabível como substitutivo de recurso próprio ou revisão criminal, exceto em situações de flagrante ilegalidade que cause constrangimento ilegal à liberdade de locomoção, o que não se verifica no caso em análise.
+4. O afastamento da causa de diminuição de pena do art. 33, § 4º, da Lei nº 11.343/06 baseia-se em elementos concretos que indicam a dedicação do réu à atividade criminosa, como a apreensão de balanças de precisão, anotações típicas do tráfico e o uso de veículo para transporte de drogas.
+5. A jurisprudência do STJ e do STF é clara no sentido de que a quantidade de drogas, a existência de petrechos para o tráfico e as circunstâncias da apreensão são fatores idôneos para afastar a minorante do tráfico privilegiado.
+6. A reavaliação das provas e fatos para discutir a aplicação da minorante demandaria o revolvimento fático-probatório, o que é vedado em sede de habeas corpus, conforme a Súmula 7 do STJ.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 393/396).
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. IMPOSSIBILIDADE DE CONCESSÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI Nº 11.343/06. DEDICAÇÃO À ATIVIDADE CRIMINOSA. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus substitutivo de recurso próprio. No caso, o réu foi condenado por tráfico de drogas, com afastamento da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei nº 11.343/06, em razão de evidências de dedicação à atividade criminosa, como a posse de balanças de precisão, anotações típicas do tráfico e o uso de veículo para o transporte de entorpecentes. A defesa pleiteia a concessão da ordem para obter a redução da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se é cabível o uso de habeas corpus como substitutivo de recurso próprio para discutir a dosimetria da pena; (ii) determinar se os elementos do caso afastam corretamente a aplicação da minorante do tráfico privilegiado prevista no art. 33, § 4º, da Lei nº 11.343/06.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é cabível como substitutivo de recurso próprio ou revisão criminal, exceto em situações de flagrante ilegalidade que cause constrangimento ilegal à liberdade de locomoção, o que não se verifica no caso em análise.
+4. O afastamento da causa de diminuição de pena do art. 33, § 4º, da Lei nº 11.343/06 baseia-se em elementos concretos que indicam a dedicação do réu à atividade criminosa, como a apreensão de balanças de precisão, anotações típicas do tráfico e o uso de veículo para transporte de drogas.
+5. A jurisprudência do STJ e do STF é clara no sentido de que a quantidade de drogas, a existência de petrechos para o tráfico e as circunstâncias da apreensão são fatores idôneos para afastar a minorante do tráfico privilegiado.
+6. A reavaliação das provas e fatos para discutir a aplicação da minorante demandaria o revolvimento fático-probatório, o que é vedado em sede de habeas corpus, conforme a Súmula 7 do STJ.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 393/396):
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+APELAÇÃO CRIMINAL TRÁFICO DE ENTORPECENTES. RECURSO DEFENSIVO - PRETENDIDA A ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA - IMPOSSIBILIDADE. Inviável a absolvição se as circunstâncias que envolvem os fatos e a quantidade das drogas evidenciam a prática do tráfico de entorpecentes. Não se pode negar valor aos depoimentos de policiais quando eles são essencialmente harmônicos e não se vislumbra nenhuma razão para incriminar injustamente o réu. RECURSO MINISTERIAL VISANDO O AFASTAMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO ARTIGO 33, § 4º, DA LEI Nº 11.343/06 - ACOLHIMENTO. Existindo nos autos evidências de que o réu não é um pequeno e eventual traficante, mas sim uma pessoa envolvida na atividade criminosa do tráfico, impõe-se o afastamento da redução da pena com base no § 4º do artigo 33 da Lei nº 11.343/06. Recurso Defensivo não provido. Recurso Ministerial parcialmente provido, para majorar as penas aplicadas e fixar o regime inicial fechado.
+Imputa-se ao paciente a prática do crime de tráfico de drogas.
+A defesa alega, em síntese, a existência de equívocos na dosimetria.
+Ao final, requer a concessão da ordem para obter a redução da pena que lhe foi aplicada.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes" (AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o " habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel.
+Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux).
+(..) (HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+A análise dos autos indica que o afastamento da causa de diminuição prevista no artigo 33, §4º, da Lei nº 11.343/06 baseou-se na existência de indícios que denotam dedicação à atividade criminosa (balanças de precisão, anotações típicas do tráfico de drogas e a utilização de um veículo para o transporte dos entorpecentes), elementos que, por si, são capazes de afastar a aplicação da benesse, conforme entendimento deste STJ:
+(..)
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se."
+Deve ser mantida a decisão recorrida, pois, de fato, não merece acolhimento o pleito da Defesa, pois, no caso dos autos, "o afastamento da causa de diminuição prevista no artigo 33, §4º, da Lei nº 11.343/06 baseou-se na existência de indícios que denotam dedicação à atividade criminosa (balanças de precisão, anotações típicas do tráfico de drogas e a utilização de um veículo para o transporte dos entorpecentes), elementos que, por si, são capazes de afastar a aplicação da benesse, conforme entendimento deste STJ" (e-STJ, fls. 394/395) (grifos acrescidos).
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte. Veja-se:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECONHECIMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA PARA O AFASTAMENTO DO PRIVILÉGIO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese dos autos, o Tribunal de origem afastou a incidência da minorante do tráfico privilegiado, porquanto os elementos concretos do caso conduziram à conclusão de que o agravante dedicava-se à atividade criminosa, em razão da elevada quantidade e variedade de drogas encontradas na posse do acusado, forma de acondicionamento e local de apreensão dos entorpecentes ("boca de fumo"), bem ainda, apreensão de petrechos para comercialização das substâncias ilícitas e cadernos de anotações a respeito.
+2. Esse entendimento está em consonância com a orientação jurisprudencial desta Corte no sentido de que elementos tais quais petrechos e anotações típicos de tráfico, balança de precisão, ponto habitual de venda, forma de acondicionamento da droga, entre outros, somados à quantidade e à variedade de entorpecentes, são idôneos para afastar a benesse do tráfico privilegiado, pois indicam a dedicação do acusado a atividades ilícitas. Precedentes.
+3. A modificação deste entendimento demandaria necessariamente revolvimento fático-probatório, vedado pela Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+4 . Agravo regimental desprovido.
+(AgRg no HC n. 782.700/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023) (grifos acrescidos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PLEITO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. CIRCUNSTÂNCIAS CONCRETAS E IDÔNEAS QUE EMBASAM A CONCLU SÃO DE QUE O PACIENTE SE DEDICAVA A ATIVIDADES CRIMINOSAS. BIS IN IDEM. NÃO OCORRÊNCIA. ILEGALIDADE NÃO CONFIGURADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 pressupõe que o agente preencha os seguintes requisitos:
+a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) nem integre organização criminosa.
+2. Hipótese em que a Corte local afastou o redutor com base em elementos concretos e idôneos extraídos dos autos, os quais indicam que o agravante se dedicava a atividades criminosas. Afinal, há prova testemunhal no sentido da traficância continuada, as apreensões decorreram de mandado de busca e apreensão e foi efetivamente apreendida expressiva quantidade de drogas variadas, além de caderno com anotações de nomes e valores, balança de precisão e outros outros petrechos para a preparação e embalagem dos entorpecentes, o que também denota a dedicação habitual do paciente à traficância. Entendimento em sentido contrário demandaria, necessariamente, o revolvimento do conjunto fático-probatório, inviável na via estreita do habeas corpus. Precedentes.
+3. Não ocorre bis in idem quando o julgador fixa a pena-base acima do mínimo legal em razão da quantidade das drogas apreendidas e afasta o redutor do art. 33, § 4º, da Lei n. 11.343/2006 motivado pela dedicação do agente a atividades criminosas, evidenciada pelas circunstâncias da apreensão, dentre elas a expressiva quantidade de entorpecentes apreendidos. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no HC n. 845.250/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/9/2023, DJe de 27/9/2023).
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que imp ede a atuação excepcional desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
