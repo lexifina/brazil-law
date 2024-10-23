@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ANDRE HELENO DA SILVA, contra ato de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, relator da revisão criminal n. 0006620-91.2024.8.26.0000, que foi indeferida liminarmente (fls. 07-10) .
+O impetrante sustenta, em síntese, ilegalidade na negativa ao reconhecimento da atenuante da confissão espontânea. Pede, assim, a concessão da ordem para redimensionar a pena (fls. 03-06).
+É o relatório. DECIDO.
+O art. 105 da Constituição não confere competência ao Superior Tribunal de Justiça para processar e julgar, originariamente, habeas corpus contra ato de Desembargador de Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios.
+Não cabe, portanto, em regra, habeas corpus contra decisão monocrática de relator, seja pela literalidade das hipóteses constitucionais de cabimento, seja pela indispensabilidade do esgotamento, no Tribunal de origem, das vias recursais. A regra tem por objetivo evitar a supressão de instância e o conhecimento de matérias que, em tese, não estariam, no tempo e no modo, na esfera de competência do Tribunal para o qual se destinou a indevida impetração. O exaurimento da instância antecedente é, pois, pressuposto de competência.
+Nesse sentido:
+ ..  Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+(HC n. 725.534/SP, Terceira Seção, relator Ministro Ribeiro Dantas, DJe de 1/6/2022)
+O Supremo Tribunal Federal, a partir desse raciocínio, editou o enunciado de súmula n. 691, amplamente aplicado, por analogia, pelo Superior Tribunal de Justiça, nos seguintes termos: "(n)ão compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar".
+Ao longo dos anos, contudo, o Supremo Tribunal Federal e o Superior Tribunal de Justiça construíram exceções à regra prevista naquela súmula, de modo a admitir o conhecimento precoce do habeas corpus na instância superior. Em resumo, a excepcionalidade é admitida quando a decisão impugnada se mostrar teratológica, flagrantemente ilegal, abusiva ou, ainda, manifestamente contrária à jurisprudência da Corte (STF, HC n. 143.476/RJ, Segunda Turma. Rel. Orig. Min. Gilmar Mendes, Red. p/ o ac. Min. Ricardo Lewandowski, julgado em 6/6/2017).
+No caso concreto, não vislumbro a presença de coação ilegal ou teratologia que desafie a concessão da ordem de ofício.
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do artigo 210, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intime-se.
+EMENTA
