@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. VALOR DA CAUSA. FIXAÇÃO. ANULAÇÃO DE EDITAL. LICITAÇÃO. REPERCUSSÃO PATRIMONIAL INEXISTENTE. VALOR FIXADO NA PETIÇÃO INICIAL. APELAÇÃO PROVIDA.
+Q uanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 292, II, do CPC, no que concerne à necessidade de modificação do valor da causa a fim de que, em ação judicial que visa anular contrato, o valor da causa tenha relação com a quantia eventualmente empreendida caso os contratos fossem executados. Argumenta:
+Assim, a presente ação poderia gerar um impacto econômico imediato equivalente ao valor das contratações, ou seja, de R$ 14.982.437,37 (catorze milhões novecentos e oitenta e dois mil quatrocentos e trinta e sete mil reais e trinta e sete centavos). O fato é que o eventual acolhimento do pedido exordial resultaria na invalidação de contratos nesse valor, sendo esse o valor econômico da causa.
+ ..
+Resta claro, portanto, que o v. Acórdão, ao acolher a apelação da parte autora para fixar o valor da causa inicialmente atribuído (R$ 10.000,00), contrariou frontalmente o disposto no artigo 292, inciso merecendo, desse modo, reforma, para que o valor da causa seja restabelecido no importeII, do CPC, anteriormente fixado na sentença que acolhera a impugnação ao valor da causa, ou seja, o valor da causa deverá guardar correspondência com os valores relativos aos contratos firmados pela ANTT que se objetivava anular (fl. 4.312).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+No presente caso, a lide versa sobre impugnação de edital de pregão, que apesar de possuir valor, esse não se reverte diretamente à apelante, caso seu recurso seja provido.
+Eventual decisão favorável não terá a capacidade de declará-la vencedora da licitação, razão pela qual se c uida de causa sem repercussão patrimonial (fl. 4.298).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 19.11.2019; AgInt no AREsp n. 1.637.445/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp n. 1.647.046/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.8.2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2.5.2018.
+Ademais, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
