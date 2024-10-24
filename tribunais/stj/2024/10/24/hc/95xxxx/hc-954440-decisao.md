@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Jean Pierre Carlos da Silveira - condenado por roubo simples a 5 anos e 6 meses de reclusão, em regime inicial fechado, e a 15 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de Goiás (fls. 9/13), não comporta processamento.
+Com efeito, busca a impetração redimensionar a pena imposta - na condenação proferida na Ação Penal n. 5288697-06.2024.8.09.0051 (fls. 334/345 - da 10ª Vara dos Crimes de Ordem Tributária e Crimes Punidos com Reclusão e Detenção da comarca de Goiânia/GO) -, com o afastamento de negativação do vetor conduta social, ao argumento de que, no caso concreto, o contexto no qual o paciente está inserido e o seu papel nesse contexto não foram levados em conta para valoração da referida circunstância judicial. Em verdade, no cenário em testilha, tão somente o fato de Jean Pierre Carlos da Silveira ter incorrido na prática de crime enquanto cumpria pena, conduziu à negativação da "conduta social" do insurgente (fl. 7).
+Entretanto, não deve ser processada a impetração, pois o acórdão hostilizado foi publicado em data recente, estando em curso o lapso para interposição de recursos, o que impede o processamento do writ ( AgRg no HC n. 873.533/ES, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe 15/3/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a fundamentação utilizada pela Corte estadual para negativação da conduta social - uma vez que o réu cometeu o crime enquanto cumpria pena por condenação por delito anterior (fl. 12) - está de acordo com o entendimento desta Corte Superior (AgRg no AREsp n. 2.609.529/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/8/2024, DJe 28/8/2024).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS IMPETRADO NO PRAZO RECURSAL NA CAUSA PRINCIPAL. INADMISSIBILIDADE. ROUBO SIMPLES. DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
