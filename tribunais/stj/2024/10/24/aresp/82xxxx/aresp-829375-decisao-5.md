@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NATANAEL VIEIRA DA SILVA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que não admitiu seu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 15.984/16.017, in verbis:
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO.
+Agravos de Natanael Vieira da Silva e Sílvio César Lopes:
+Agravo em recurso especial. Oposição via fax. Prazo de cinco dias para apresentação dos originais. Inteligência do art. 2º da Lei nº 9.800/99. Inobservância. Não conhecimento.
+ ..
+Excelentíssimo Senhor Ministro Relator:
+1. O Ministério Público Estadual ofertou denúncia em desfavor dos agravantes. Devidamente instruído o feito, o Magistrado singular julgou parcialmente procedente a pretensão punitiva para condenar:
+(a) Maressa de Almeida Silva, Vinícius Gonçalves Silva, Wallisson Vitor Pimenta da Silva, Reginaldo da Silva, Vilma Fonseca Silva, Romildo Silva, Adriana Freire Araújo, Josiane Vilela Souza, Wander Ivo de Souza Andrade, Edson Alves de Souza, Helder Ribeiro de Araújo, Rachel Ramos Vilela, pela prática do delito de associação para o tráfico de drogas  Lei nº 11.343/06: art. 35, caput ;
+(b) Aldo Xavier de Oliveira, Nelson Martins Migliorini, Eduardo Xavier de Oliveira, Rosinei Pinheiro da Silva e José dos Reis Ribeiro, pela prática do crime de associação para o tráfico  Lei nº 11.343/06: art. 35, caput, c/c art. 61, I, do Código Penal ;
+(c) Sílvio César Lopes, Natanael Vieira da Silva, José Geraldo Lopes, pela prática dos delitos de tráfico de drogas interestadual e associação para o tráfico interestadual  Lei nº 11.343/06: arts. 33, caput, e 35, c/c art. 40, V ;
+(d) Cíntia Aparecida de Almeida Silva, Emerson Ferreira de Lara, Antônio Messias Cardoso, pela infração aos delitos de tráfico de drogas e associação para o tráfico  Lei nº 11.343/06: arts. 33, caput, e 35 ;
+(e) Lúcia Helena Pires pela infração ao delito descrito nos arts. 33, caput, e 35, c/c art. 40, II e III e;
+(f) Anderson do Vale pela prática do crime de tráfico de drogas  Lei nº 11.343/06: art. 33, caput .
+2. Contra essa decisão, o Parquet e os réus apelaram. A Primeira Câmara Criminal do Tribunal de Justiça de Minas Gerais, por maioria, deu parcial acolhimento aos reclamos do Ministério Público e dos apelantes Sílvio César Lopes, Natanael Vieira da Silva, Vinícius Gonçalves Silva, Wallison Vítor Pimenta da Silva, Reginaldo da Silva, Vilma Fonseca Silva, Aldo Xavier de Oliveira, Nelson Martins Migliorini, Wagner Vítor de Souza Andrade, Eduardo Xavier, André Luiz Monteiro, José dos Reis Ribeiro e Rosinei Pinheiro da Silva e negou provimento aos demais recursos. O aresto recebeu a seguinte ementa:
+ ..
+3. Em face dessa deliberação, a Defesa dos réus aviaram recursos especiais  CF: art. 105, III, a e c .
+ ..
+3.2. Nos recursos de Sílvio César Lopes (fls. 14863/14909) e Natanael Vieira da Silva (fls. 14998/15048), a Defesa sustentou que houve:
+(a) divergência jurisprudencial no tocante aos arts. 2º, 3º, 4º, 5º e 6º, da Lei nº 9.296/96, ante a ausência dos requisitos legais para a realização da interceptação telefônica, com a consequente inadmissibilidade da prova no processo, sendo inaceitável que uma medida excepcional perdure por muito tempo;
+(b) negativa de vigência ao art. 13 do Código Penal, porquanto em momento algum ficou demonstrado o nexo de causalidade entre os crimes imputados aos demais corréus e os atribuídos aos recorrentes. Asseverou, ainda, que os recorrentes não integram organização criminosa, conforme narrada na exordial. Por tais motivos, pediu a nulidade das interceptações telefônicas para que seja anulado o processo "ab initio".
+ ..
+4. O Terceiro Vice-Presidente do Tribunal a quo indeferiu o processamento dos apelos especiais. A fim de destrancar o acesso à Superior Instância, os agravantes interpuseram os presentes agravos. É o relatório.
+Ao final, o Parquet opinou pelo parcial provimento ao recurso.
+É o relatório.
+Decido.
+Tenho que o recurso não ultrapassa o juízo prévio de admissibilidade.
+Isso, porque a defesa não se desincumbiu de impugnar, de maneira eficaz, o fundamento da decisão de admissibilidade, segundo o qual o recurso especial seria intempestivo. O agravante limitou-se a refutar o suscitado óbice, sem a devida fundamentação.
+Ademais, o próprio agravo em recurso especial foi apresentado de maneira intempestiva. Conforme bem apontado pelo Ministério Público Federal, em seu parecer, "embora os agravantes tenham manejado os agravos em recurso especial via fax (fls. 15679/15683), dentro do prazo legal, não se desincumbiram de apresentar a petição original no prazo de 5 (cinco) dias, nos termos do que dispõe o art. 2º da Lei nº 9.800/1999: "a utilização de sistema de transmissão de dados e imagens não prejudica o cumprimento dos prazos, devendo os originais ser entregues em juízo, necessariamente, até cinco dias da data de seu término". Considerando que a decisão impugnada foi publicada no dia 03.07.2015 (sexta-feira), o prazo para a interposição do agravo se iniciou em 06.07.2015 (segunda-feira) e terminou em 10.07.2015 (sexta-feira), data na qual o recurso foi interposto via fax. Desse modo, o termo inicial para a juntada dos originais se deu em 11.07.2015 (sábado) com término em 15.07.2015 (quarta-feira). Com efeito, a petição original dos agravos somente foi apresentada no dia 17.07.2015 (sexta-feira), fora, portanto, do quinquídio legal. Assim, inviável o conhecimento dos reclamos, porquanto intempestivos" (e-STJ fl. 15.998).
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. RECURSO ESPECIAL INTERPOSTO VIA FAC-SÍMILE. ORIGINAIS APRESENTADOS FORA DO PRAZO LEGAL. RECURSO ESPECIAL INTEMPESTIVO. OMISSÃO NO JULGADO EMBARGADO INEXISTENTE. EMBARGOS REJEITADOS.
+1. A consideração da data da postagem no correio, para fins de aferição da tempestividade recursal, sujeita-se à orientação advinda do § 3º do art. 1.003 do Código de Processo Civil, segundo o qual " n o prazo para interposição de recurso, a petição será protocolada em cartório ou conforme as normas de organização judiciária, ressalvado o disposto em regra especial". Precedente.
+2. A regra especial prevista no art. 2º, caput, da Lei n. 9.800/1999, que disciplinou o sistema de transmissão de dados para a prática de atos processuais, estabelece expressamente que o original do recurso oposto via fac-símile deve ser entregue necessariamente em juízo no lapso de até 5 (cinco) dias contínuos da data final do prazo do respectivo recurso, o que não ocorreu na espécie. Assim, o fato de a peça recursal ter sido postada no mesmo dia em que o recorrente enviou o fac-símile é irrelevante, já que os originais somente foram apresentados em juízo em 4/7/2017, fora, portanto, do quinquídio legal, aplicando-se à hipótese a disposição especial prevista na Lei n. 9.800/1999, não havendo que se falar em omissão do julgado embargado.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgRg no AREsp n. 1.206.717/MA, de minha relatoria, Sexta Turma, julgado em 18/10/2022, DJe de 24/10/2022, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE JUNTADA, NO PRAZO DA LEI N. 9.800/1999, DA PETIÇÃO ORIGINAL DO AGRAVO EM RECURSO ESPECIAL, INTERPOSTO VIA FAC-SÍMILE. NECESSIDADE. INAPLICABILIDADE DO ART. 932 DO CÓDIGO DE PROCESSO CIVIL. VÍCIO QUE EXTRAPOLA O MERAMENTE FORMAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante jurisprudência consolidada desta Corte de Justiça, " ..  não se conhece do recurso interposto inicialmente via "fax" se os originais não são apresentados em juízo dentro do prazo legal de cinco dias, contados de forma contínua" (REsp n. 1.657.266/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 03/08/2021, DJe 12/08/2021.).
+2. Não há falar em aplicação do art. 932 do Código de Processo Civil, pois sua incidência só se mostra possível nas hipóteses de vícios estritamente formais, inerentes à peça do recurso interposto, de tal sorte que a mácula da intempestividade extrapola a natureza dos referidos vícios formais.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.142.130/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022, grifei.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO VIA FAX. PRAZO DE 5 DIAS PARA A JUNTADA DOS ORIGINAIS. ART. 2º DA LEI N. 9.800/1999. AFERIÇÃO DA TEMPESTIVIDADE PELA DATA DO PROTOCOLO NA SECRETARIA DO TRIBUNAL A QUO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Interposto o recurso via fax, os originais devem ser juntados dentro do prazo de 5 dias, a teor do disposto no artigo 2º da Lei n. 9.800/1999, sob pena de não conhecimento.
+II - O entendimento jurisprudencial desta Corte firmou-se no sentido de que o prazo para a apresentação dos originais é contínuo, não ocorrendo sua suspensão aos sábados, domingos, feriados ou recessos forenses.
+III - O Superior Tribunal de Justiça - STJ tem entendimento firmado no sentido de que é responsabilidade da parte a entrega tempestiva da petição do recurso dirigido a este Superior Tribunal, sendo certo que a aferição da tempestividade é efetuada por meio da data do protocolo na Secretaria do Tribunal a quo, e não pela data de sua postagem nos correios, nos termos da Súmula n. 216 do STJ.
+IV - Agravo regimental não conhecido.
+(AgRg no AREsp n. 528.016/SP, relator Ministro Ericson Maranho (Desembargador Convocado do TJSP), Sexta Turma, julgado em 22/9/2015, DJe de 15/10/2015, grifei.)
+PENAL E PROCESSO PENAL. SEGUNDOS ACLARATÓRIOS NO AGRAVO REGIMENTAL NOS EMBARGOS NO AGRAVO EM RECURSO ESPECIAL. 1. OPOSIÇÃO VIA FAX. PRAZO CONTÍNUO DE CINCO DIAS PARA APRESENTAÇÃO DOS ORIGINAIS. ART. 2º DA LEI N. 9.800/1999. NÃO OBSERVÂNCIA 2. ACLARATÓRIOS NÃO CONHECIDOS.
+1. Para interposição de recurso via fax, deve ser observado o prazo legal de 5 (cinco) dias para apresentação do original da petição recursal, conforme disciplina o art. 2º da Lei n. 9.800/1999. Referido prazo é contínuo e se inicia no dia seguinte ao término do prazo recursal, ainda que não haja expediente forense, pois não se suspende aos sábados, domingos e feriados.
+2. Aclaratórios não conhecidos.
+(EDcl nos EDcl no AgRg nos EDcl no AREsp 384.922/RJ, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/09/2015, DJe 21/09/2015.)
+À vista do exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
