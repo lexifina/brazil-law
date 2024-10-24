@@ -1,0 +1,81 @@
+DECISÃO
+
+EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. RESPONSABILIDADE DO ESTADO PELA REMUNERAÇÃO DE CONCILIADOR. RESOLUÇÕES DO CONSELHO NACIONAL DE JUSTIÇA E LEI ESTADUAL N. 15.804/2015. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA ENTRE OS JULGADOS CONFRONTADOS. DIVERGÊNCIA NÃO CARACTERIZADA. EMBARGOS DE DIVERGÊNCIA NÃO ADMITIDOS.
+
+Relatório
+
+    1. Embargos de divergência opostos contra acórdão da Primeira Turma deste Supremo Tribunal, que, em sessão virtual de 13.9.2024 a 20.9.2024, acolheu os embargos de declaração no segundo agravo regimental no recurso extraordinário com agravo, sem efeitos modificativos, apenas para sanar a contradição suscitada, mantendo-se a conclusão da decisão embargada, nos termos da seguinte ementa:
+
+    “EMBARGOS DE DECLARAÇÃO NO SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TESE DA ANOMIA: INOVAÇÃO RECURSAL NÃO CARACTERIZADA. INSUFICIÊNCIA DOS ARGUMENTOS PARA ALTERAÇÃO DA CONCLUSÃO DO JULGADO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA SANAR CONTRADIÇÃO, SEM EFEITOS MODIFICATIVOS DA PARTE DISPOSITIVA DA DECISÃO” (fl. 1, e-doc. 88).
+
+    2. Contra essa decisão José Aparecido Alves opõe tempestivos embargos de divergência (e-doc. 92).
+
+    3. O embargante suscita como paradigmas de dissídio jurisprudencial o Agravo Regimental no Recurso Extraordinário n. 763.667, Relator o Ministro Celso de Mello, Segunda Turma, DJe 13.12.2013, e o Agravo Regimental no Recurso Extraordinário com Agravo n. 742.149, de minha relatoria, Segunda Turma, DJe 17.12.2013.
+
+    Afirma que a Segunda Turma do Supremo Tribunal Federal “considerou que as violações referentes ao acesso dos necessitados à orientação jurídica integral e à assistência judiciária gratuitas (CF, art. 5º, inciso LXXIV) não apenas são diretas à Constituição da República, mas são situação ‘Constitucionalmente Intolerável’, ensejando o papel do Poder Judiciário na implementação de políticas públicas instituídas pela Constituição e não efetivadas pelo Poder Público” (fl. 6, e-doc. 92).
+
+    Argumenta que “tanto no feito do Acórdão Recorrido quanto naquele aqui trazido à colação como paradigma [RE n. 763.667-AgR], a questão girou em torno do debate constitucional acerca do dever do Estado em implementar o acesso dos necessitados à assistência jurídica integral e gratuita” (fl. 6, e-doc. 92).
+
+    Assinala que este processo e o paradigma mencionado (RE n. 724.149-AgR) versariam sobre o “valor social do trabalho de auxiliar da justiça (conciliador/mediador e juiz classista) e da proibição ao enriquecimento ilícito do Estado” (fl. 7, e-doc. 92).
+
+    Pede o acolhimento dos presentes embargos de divergência, “haja vista a comprovada semelhança fática entre os acórdãos embargados e paradigmas, bem como a divergência total do entendimento acerca da violação direta ou indireta à CF/88 no que tange ao dever do Estado em implementar o acesso dos necessitados à assistência jurídica integral e gratuita, ao valor social do trabalho do auxiliar da justiça (conciliador/mediador e juiz classista) e à proibição ao enriquecimento ilícito do Estado – para que prevaleçam as teses dos acórdãos paradigmas, com o fim de que seja dado regular trâmite ao seu Recurso Extraordinário interposto” (fl. 10, e-doc. 92).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    4. Razão jurídica não assiste ao embargante.
+
+    5. Não foi aberto prazo para contrarrazões, em observância ao princípio da razoável duração do processo. Assim têm procedido os Ministros deste Supremo Tribunal em casos nos quais não há prejuízo para a parte embargada (ARE n. 999.021-ED-AgR-ED, Relator o Ministro Luiz Fux, Primeira Turma, DJe 7.2.2018; RE n. 597.064-ED-terceiros-ED-ED, Relator o Ministro Gilmar Mendes, Plenário, DJe 2.6.2021; e Rcl n. 46.317-ED-AgR, de minha relatoria, Primeira Turma, DJe 20.9.2021).
+
+    6. Os embargos de divergência são cabíveis contra decisão de Turma deste Supremo Tribunal divergente de julgado da outra Turma ou do Plenário, nos termos da legislação processual (art. 330 do Regimento Interno do Supremo Tribunal Federal e incs. I e III do art. 1.043 do Código de Processo Civil).
+
+    Para a caracterização do conflito jurisprudencial, é indispensável o paradigma invocado tratar de situação jurídica idêntica à apreciada pelo acórdão embargado.
+
+    7. Na espécie, o embargante indica como paradigma da divergência o Agravo Regimental no Recurso Extraordinário n. 763.667, Relator o Ministro Celso de Mello, Segunda Turma, com ementa redigida nestes termos:
+
+    “DEFENSORIA PÚBLICA – DIREITO DAS PESSOAS NECESSITADAS AO ATENDIMENTO INTEGRAL, NA COMARCA EM QUE RESIDEM, PELA DEFENSORIA PÚBLICA – PRERROGATIVA FUNDAMENTAL COMPROMETIDA POR RAZÕES ADMINISTRATIVAS QUE IMPÕEM, ÀS PESSOAS CARENTES, NO CASO, A NECESSIDADE DE CUSTOSO DESLOCAMENTO PARA COMARCA PRÓXIMA ONDE A DEFENSORIA PÚBLICA SE ACHA MAIS BEM ESTRUTURADA – ÔNUS FINANCEIRO, RESULTANTE DESSE DESLOCAMENTO, QUE NÃO PODE, NEM DEVE, SER SUPORTADO PELA POPULAÇÃO DESASSISTIDA – IMPRESCINDIBILIDADE DE O ESTADO PROVER A DEFENSORIA PÚBLICA LOCAL COM MELHOR ESTRUTURA ADMINISTRATIVA – MEDIDA QUE SE IMPÕE PARA CONFERIR EFETIVIDADE À CLÁUSULA CONSTITUCIONAL INSCRITA NO ART. 5º, INCISO LXXIV, DA LEI FUNDAMENTAL DA REPÚBLICA – OMISSÃO ESTATAL QUE COMPROMETE E FRUSTRA DIREITOS FUNDAMENTAIS DE PESSOAS NECESSITADAS – SITUAÇÃO CONSTITUCIONALMENTE INTOLERÁVEL – O RECONHECIMENTO, EM FAVOR DE POPULAÇÕES CARENTES E DESASSISTIDAS, POSTAS À MARGEM DO SISTEMA JURÍDICO, DO ‘DIREITO A TER DIREITOS’ COMO PRESSUPOSTO DE ACESSO AOS DEMAIS DIREITOS, LIBERDADES E GARANTIAS – INTERVENÇÃO JURISDICIONAL CONCRETIZADORA DE PROGRAMA CONSTITUCIONAL DESTINADO A VIABILIZAR O ACESSO DOS NECESSITADOS À ORIENTAÇÃO JURÍDICA INTEGRAL E À ASSISTÊNCIA JUDICIÁRIA GRATUITAS (CF, ART. 5º, INCISO LXXIV, E ART. 134) – LEGITIMIDADE DESSA ATUAÇÃO DOS JUÍZES E TRIBUNAIS – O PAPEL DO PODER JUDICIÁRIO NA IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS INSTITUÍDAS PELA CONSTITUIÇÃO E NÃO EFETIVADAS PELO PODER PÚBLICO – A FÓRMULA DA RESERVA DO POSSÍVEL NA PERSPECTIVA DA TEORIA DOS CUSTOS DOS DIREITOS: IMPOSSIBILIDADE DE SUA INVOCAÇÃO PARA LEGITIMAR O INJUSTO INADIMPLEMENTO DE DEVERES ESTATAIS DE PRESTAÇÃO CONSTITUCIONALMENTE IMPOSTOS AO ESTADO – A TEORIA DA ’RESTRIÇÃO DAS RESTRIÇÕES’ (OU DA ‘LIMITAÇÃO DAS LIMITAÇÕES’) – CONTROLE JURISDICIONAL DE LEGITIMIDADE SOBRE A OMISSÃO DO ESTADO: ATIVIDADE DE FISCALIZAÇÃO JUDICIAL QUE SE JUSTIFICA PELA NECESSIDADE DE OBSERVÂNCIA DE CERTOS PARÂMETROS CONSTITUCIONAIS (PROIBIÇÃO DE RETROCESSO SOCIAL, PROTEÇÃO AO MÍNIMO EXISTENCIAL, VEDAÇÃO DA PROTEÇÃO INSUFICIENTE E PROIBIÇÃO DE EXCESSO) – DOUTRINA – PRECEDENTES – A FUNÇÃO CONSTITUCIONAL DA DEFENSORIA PÚBLICA E A ESSENCIALIDADE DESSA INSTITUIÇÃO DA REPÚBLICA – RECURSO DE AGRAVO IMPROVIDO” (DJe 13.12.2013).
+
+    O embargante alega que, nesse julgado, este Supremo Tribunal Federal teria considerado como diretas as afrontas à Constituição da República “referentes ao acesso dos necessitados à orientação jurídica integral e à assistência judiciária gratuitas (CF, Art. 5º, inciso LXXIV)” (fl. 6, e-doc. 92).
+
+    Insiste que, no julgado embargado, não se teria levado em consideração que o debate sobre “o dever do Estado de implementar o acesso dos necessitados à assistência jurídica integral e gratuita” teria sido considerado “constitucionalmente intolerável” pela Segunda Turma deste Supremo Tribunal Federal no julgado paradigma (RE n. 742.149-AgR).
+
+    O embargante também indica como paradigma da divergência o Agravo Regimental no Recurso Extraordinário com Agravo n. 742.149, de minha relatoria, Segunda Turma, com a seguinte ementa:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. JUIZ CLASSISTA. MÁ-FÉ EM APRESENTAÇÃO DE DOCUMENTO PÚBLICO. DEVOLUÇÃO AO ERÁRIO DOS VALORES RECEBIDOS. INADMISSIBILIDADE. VALOR SOCIAL DO TRABALHO E IMPOSSIBILIDADE DE ENRIQUECIMENTO ILÍCITO DA ADMINISTRAÇÃO PÚBLICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (DJe 17.12.2013).
+
+    O acórdão embargado e os paradigmas de dissídio jurisprudencial trazem matérias distintas pelos núcleos decisórios neles contemplados.
+
+    8. Na espécie, discute-se a possibilidade de se impor à Fazenda Pública a responsabilidade pelo pagamento da remuneração de mediadores e conciliadores nos casos em que as partes sejam beneficiárias da gratuidade da justiça.
+
+    O Tribunal de origem assentou que, “tanto no âmbito nacional, por meio da Resolução CNJ n. 271/2018, quanto no âmbito do Poder Judiciário do Estado de São Paulo, por meio da Resolução n. 809/2019 do Órgão Especial deste TJSP e da Lei Estadual n. 15.804/2015, os critérios e parâmetros de remuneração dos mediadores e conciliadores estão plenamente regulamentados por normas infralegais e estabelecem a responsabilidade de pagamento às partes”, pelo que “não há espaço para a condenação da Fazenda Pública Estadual ao pagamento de valores devidos conforme já previstos pela própria legislação de regência” (fl. 7, e-doc. 15).
+
+    Os presentes embargos não cumprem o preconizado no art. 330 do Regimento Interno do Supremo Tribunal Federal, constatando-se ausente o dissídio alegado, pois, no acórdão embargado, apesar de ter sido sanada a contradição invocada, assentou-se a necessidade de análise da legislação infraconstitucional local aplicável à espécie, para rever a conclusão do Tribunal de origem sobre a ausência de responsabilidade do Estado pelo pagamento da remuneração dos mediadores e conciliadores.
+
+    Improcedente a alegação do embargante de que a controvérsia deste processo seria semelhante à enfrentada nos julgados mencionados, sobre o “dever do Estado em implementar o acesso dos necessitados à assistência jurídica integral e gratuita“ e “o valor social do trabalho de auxiliar da justiça (conciliador/mediador e juiz classista) e da proibição ao enriquecimento ilícito do Estado” (fls. 6-7, e-doc. 92). Nos paradigmas suscitados, a situação fático-jurídica é diversa da apreciada no acórdão embargado.
+
+    Ausente a pretensa divergência, incabíveis os presentes embargos. Assim, por exemplo:
+
+    “Agravo regimental em embargos de divergência em embargos de declaração em agravo regimental em recurso extraordinário com agravo. Não conhecimento dos embargos. Ausência de pressupostos de admissibilidade. Paradigmas apontados para se amparar pretendida dissensão que não guardam similitude fática com a decisão embargada. Manutenção da decisão por seus próprios fundamentos. Agravo ao qual se nega provimento. 1. A decisão ora atacada não merece reforma, uma vez que seus fundamentos se harmonizam estritamente com o entendimento consolidado pela Suprema Corte. 2. O presente recurso mostra-se inviável, na medida em que contém apenas a reiteração dos argumentos de defesa anteriormente expostos, sem, no entanto, revelar quaisquer elementos capazes de afastar as razões expressas na decisão agravada, a qual deve ser mantida por seus próprios fundamentos. 3. Agravo ao qual se nega provimento” (ARE n. 1.463.827-AgR-ED-EDv-AgR, Relator o Ministro Dias Toffoli, Plenário, DJe 1º.7.2024)
+
+    “AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PARADIGMAS. INADEQUAÇÃO. SIMILITUDE FÁTICA E JURÍDICA. AUSÊNCIA. INVIABILIDADE. PROPÓSITO MANIFESTAMENTE PROTELATÓRIO. BAIXA IMEDIATA. 1. Mostram-se inadequados embargos de divergência quando evocados, como paradigmas, pronunciamentos surgidos da análise de habeas corpus ou do mesmo órgão fracionário prolator do acórdão embargado, bem assim quando ausente similitude fática e jurídica entre o caso concreto e o paradigma. 2. O propósito manifestamente protelatório dos embargos justifica a determinação de baixa imediata, com certificação do trânsito em julgado, independentemente da publicação do acórdão. 3. Agravo interno não conhecido, com determinação de certificação do trânsito em julgado e baixa imediata” (ARE n. 1472787-AgR-EDv-AgR, Relator o Ministro Nunes Marques, Plenário, DJe 19.9.2024)
+
+    “O acórdão-paradigma, para legitimar a oposição de embargos de divergência, deve referir-se a situações, que, considerados os elementos essenciais a ela inerentes, permitam estabelecer, ante a especificidade de que se revestem, a necessária relação de pertinência com a tese jurídica que a decisão embargada, em frontal dissenso com o padrão de confronto invocado, veio a acolher no julgamento da causa. Inocorrência, no caso ora em exame, desse específico pressuposto de admissibilidade dos embargos de divergência. - A parte embargante, sob pena de recusa liminar de processamento dos embargos de divergência - ou de não-conhecimento destes, quando já admitidos - deve demonstrar, de maneira objetiva, mediante análise comparativa entre o acórdão-paradigma e a decisão embargada, a existência do alegado dissídio jurisprudencial, impondo-se-lhe reproduzir, na petição recursal, para efeito de caracterização do conflito interpretativo, os trechos que configuram a divergência indicada, mencionando, ainda, as circunstâncias que identificam ou que tornam assemelhados os casos em confronto, não bastando, para os fins a que se refere o art. 331 do RISTF, a mera transcrição das ementas dos acórdãos invocados como referências paradigmáticas, nem simples alegações genéricas pertinentes à suposta ocorrência de dissenso pretoriano. Precedentes” (RE n. 255.328-ED-EDv-AgR, Relator o Ministro Celso de Mello, Plenário, DJ 30.5.2003).
+
+    9. Este Supremo Tribunal tem como indispensável, para a caracterização do conflito jurisprudencial, tratarem os paradigmas invocados de situação jurídica idêntica à apreciada pelo acórdão embargado, o que não se tem na espécie. Assim, por exemplo:
+
+    “AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE COTEJO ANALÍTICO E DE SIMILITUDE ENTRE OS CASOS CONFRONTADOS. MANUTENÇÃO DA DECISÃO AGRAVADA. 1. A ausência de cotejo analítico, bem como de similitude entre os casos confrontados são obstáculos suficientes para que os embargos de divergência não sejam admitidos. Precedentes. 2. Agravo Interno que se nega provimento” (RE n. 917.950-AgR-EDv-AgR, Relator o Ministro Alexandre de Moraes, Plenário, DJe 4.12.2018).
+
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO ANALÍTICA DA DIVERGÊNCIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1 - Para a demonstração da divergência, é indispensável que os paradigmas invocados digam respeito a situação jurídica idêntica à apreciada pelo acórdão embargado. 2 - Incabíveis os embargos de divergência pelos quais se pretende a utilização de decisão monocrática para a demonstração de contradição jurisprudencial” (AI n. 767.226-AgR-EDv-AgR, de minha relatoria, Plenário, DJe 1º.2.2011).
+
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS ESPECÍFICOS DE ADMISSIBILIDADE RECURSAL NÃO PREENCHIDOS. ART. 1.043, I E III, DO CPC/2015. ART. 330 DO RISTF. ARESTOS INESPECÍFICOS. ACÓRDÃO DA TURMA QUE NÃO APRECIA O MÉRITO DA CONTROVÉRSIA. DISSENSO JURISPRUDENCIAL INTERNA CORPORIS NÃO DEMONSTRADO. MANUTENÇÃO DO DECISUM. 1. Mostram-se inespecíficos, não evidenciando o dissenso de teses necessário a autorizar a admissibilidade dos embargos de divergência, arestos paradigmas assentados sobre premissas fáticas diversas da decisão embargada, que não versam sobre a questão debatida ou cuja tese jurídica converge no mesmo sentido da decisão embargada. 2. Agravo regimental conhecido e não provido” (RE n. 1.174.445-AgR-segundo-ED-EDv-AgR, Relatora a Ministra Rosa Weber, DJe 3.12.2020).
+
+    10. Pelo exposto, não admito os embargos de divergência (art. 332 e § 1º do art. 335 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 24 de outubro de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
