@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de mandado de segurança, com pedido liminar, contra ato de Desembargador Relator de apelação com trâmite na Segunda Turma do Tribunal Regional Federal da 1ª Região (fls. 3-19), com o seguinte pedido:
+Seja concedida a LIMINAR MANDAMENTAL determinando ao Impetrado, o Emérito Relator DA SEGUNDA TURMA DO TRF1, da Apelação SOB Nº, em trâmite pela turma do Egrégio Tribunal Regional Federal da Primeira Região, que CONCEDA O EFEITO SUSPENSIVO ao referido recurso, para obstar o cumprimento Do acordão, nos termos do art. 527 inciso II c/c art. 558 ambos do Código de Processo Civil, vez que há risco de lesão grave e de difícil reparação, OFICIANDO DE IMEDIATO AO JUÍZO DA ª VARA CÍVEL DA SEÇÃO JUDICIARIA DO DISTRITO FEDERAL, suspendendo o licenciamento do Impetrante do serviço ativo até que o recurso seja julgado ou até que cumpra o tempo máximo de 8 anos, considerando que faltam somente seis meses, ATÉ FEVEREIRO DE 2025.
+ ..
+Requer o impetrante, por fim, a procedência do pedido, confirmando-se a liminar e concedendo-se em definitivo a segurança.
+É o relatório.
+Decido.
+O impetrante pretende, por meio de mandado de segurança, que seja concedido efeito suspensivo a recurso especial contra acórdão da Segunda Turma do Tribunal Regional Federal da 1ª Região, por meio do qual foi reformada sentença que havia garantido sua permanência no serviço militar ativo temporário como dentista até a conclusão do tempo máximo permitido.
+Anexa à inicial, além de documentos pessoais, comprovante de residência e de gastos mensais, o edital para seleção de médicos, farmacêuticos, dentistas e veterinários (MFDV 2017 - fls. 23-46) e diversos documentos relativos à sua situação funcional no Comando da Aeronáutica e seu desligamento (fls. 22 e 50-239).
+Aduz, para tanto, que seria ilegal e anti-isonômico o indeferimento da prorrogação, por mais doze meses, de seu tempo de serviço no Comando Militar da Aeronáutica, realizado com fundamento com fundamento na Lei n. 13.954/2019, razão pela qual seria necessária a concessão de efeito suspensivo a recurso especial interposto contra o acórdão que manteve o ato administrativo impugnado na origem.
+A competência originária deste Superior Tribunal de Justiça para processar e julgar mandados de segurança encontra-se disciplinada no art. 105, inciso I, alínea b, da Constituição da República, limitando-se à apreciação de atos praticados por "Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal".
+Esta Corte Superior, portanto, é absolutamente incompetente para processar e julgar o presente writ, impetrado contra autoridade não elencada no rol do permissivo constitucional, de maneira a atrair a incidência da Súmula n. 41/STJ, assim redigida:
+O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ATO DE DESEMBARGADOR FEDERAL. STJ. INCOMPETÊNCIA.
+1. Segundo o disposto no art. 105, I, "b", da Carta Política de 1988, compete ao Superior Tribunal de Justiça o processamento e o julgamento de mandados de segurança impetrados contra atos da própria Corte, de Ministros de Estado, de Comandantes da Marinha, do Exército e da Aeronáutica.
+2. Hipótese em que o mandamus ataca decisão proferida pelo Presidente do Tribunal Regional Federal da 3ª Região, autoridade não compreendida no rol do permissivo constitucional acima citado, circunstância que atrai a incidência da Súmula 41 do STJ.
+3. Agravo interno desprovido. (AgInt no MS n. 28.029/SP, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 23/3/2022, DJe de 7/4/2022.)
+A par da inafastável incompetência absoluta desta Corte, a parte impetrante dispõe de outros meios judiciais para alcançar a finalidade pretendida no presente, qual seja, a concessão de efeito suspensivo a recurso especial.
+O Código de Processo Civil, em seu art. 1.029, prescreve que o pedido de concessão de efeito suspensivo aos recursos especial e extraordinário será dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037.
+Observa-se que não foram apresentados documentos relacionados ao processo de origem, nem mesmo o acórdão que ensejou a impetração do mandamus. Não se tem notícia da efetiva interposição de recurso especial, bem como de eventual juízo de admissibilidade, seja pela leitura da inicial como dos documentos a ela anexados. Logo, sequer é possível indicar qual das hipóteses descritas no Código de Processo Civil seria aplicável à espécie em exame.
+Portanto, ainda que este Superior Tribunal de Justiça não carecesse de competência para processar e julgar o presente, sequer se pode cogitar de sua apreciação como pedido de tutela antecipada antecedente para atribuir efeito suspensivo a recurso especial de cuja efetiva interposição e juízo de admissibilidade não se tem conhecimento, configurando-se erro grosseiro a impetração de mandado de segurança como sucedâneo da medida judicial cabível.
+Ante o exposto, com fundamento no art. 34, inciso XIX, do RISTJ, indefiro, desde logo, o pedido, com a extinção do feito sem apreciação do mérito.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. MANDADO DE SEGURANÇA. ATO COATOR PROVENIENTE DE TRIBUNAL REGIONAL FEDERAL. SÚMULA N. 41 DO STJ. MANIFESTA INCOMPETÊNCIA DESTA CORTE. EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO.
