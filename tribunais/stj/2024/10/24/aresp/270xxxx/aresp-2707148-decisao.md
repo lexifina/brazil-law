@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por G DOS S H contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. NEGATIVA DE COBERTURA DE PLANO DE SAÚDE. CRIANÇA PORTADORA DE TRANSTORNO DO ESPECTRO AUTISTA. TERAPIAS MULTIDISCIPLINARES. SENTENÇA QUE CONDENOU A OPERADORA A RESSARCIR OS CUSTOS DA MANUTENÇÃO DA INFANTE NA CLINICA, FORA DA COBERTURA, NA QUAL SE ESTABELECEU O VÍNCULO COM O PROFISSIONAL. IRRESIGNAÇÃO. APELAÇÃO 01: PRETENSÃO DE AFASTAMENTO DO DEVER DE COBERTURA DO TRATAMENTO. IMPOSSIBILIDADE. ROL DA ANS. RELAÇÃO DE TRATO SUCESSIVO. INCIDÊNCIA DA LEI N. 14.454/22. RESOLUÇÃO NORMATIVA N. º 539/2022 DA ANS. EXISTÊNCIA DE PRESCRIÇÃO MÉDICA. PREVISÃO DE COBERTURA OBRIGATÓRIA DOS MÉTODOS E TÉCNICAS INDICADOS PELO MÉDICO ASSISTENTE. PEDIDO SUBSIDIÁRIO DE LIMITAÇÃO DO VALOR DO RESSARCIMENTO. POSSIBILIDADE. LIMITAÇÃO AOS VALORES PRATICADOS PELA OPERADORA JUNTO À SUA REDE CREDENCIADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. APELAÇÃO 02:PRELIMINAR DA AUSÊNCIA DE PREPARO. ALEGAÇÃO DE QUE A JUSTIÇA GRATUITA NÃO SE ESTENDERIA AO ADVOGADO. INOCORRÊNCIA. PAGAMENTO DE SUCUMBÊNCIA QUE É RESPONSABILIDADE DA PARTE. INTERESSE RECURSAL COMPARTILHADO. POSSIBILIDADE DE CONHECIMENTO DO RECURSO INDEPENDENTEMENTE DE PREPARO. MÉRITO. PRETENSÃO DE REDISTRIBUIÇÃO DA SUCUMBÊNCIA POR DECAIMENTO MÍNIMO. PEDIDO PREJUDICADO. PRETENSÃO DE MODIFICAÇÃO DA BASE DE C Á L C U L O D O S H O N O R Á R I O S . IMPOSSIBILIDADE. ARBITRAMENTO EM HARMONIA COM O TEMA 1.076 DO STJ. PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS. PROVIMENTO. HONORÁRIOS FIXADOS POR EQUIDADE. NECESSIDADE DE OBSERVÂNCIA DA TABELA DA OAB/PR PARA ADVOGADOS DATIVOS, NOS TERMOS DO ART. 85, § 8.º - A, DO CPC. RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO" (e-STJ fl. 865).
+Os embargos de declaração foram rejeitados (e-STJ fls. 896/899).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação do art. 12, VI, da Lei nº 9.656/1998.
+Sustenta ser cabível o reembolso integral do tratamento realizado fora da rede credenciada, considerando que é incontroverso nos autos que inexiste prestador habilitado no método Denver na rede credenciada do plano de saúde.
+Após as contrarrazões (e-STJ fls. 941/960), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Portanto, a condenação ao custeio do tratamento multidisciplinar no modelo Denver, com carga semanal de 15 horas junto a Clínica Teamo deve ser mantida. No entanto, o valor pago para tal tratamento deve ser limitado.
+Isso porque, o contrato de prestação de serviço assegura a cobertura dos profissionais credenciados na operadora de plano de saúde. Ao se excepcionar tal disposição - em interpretação mais favorável ao consumidor, nos termos do art. 47 do CDC -, não se deve criar uma obrigação excessivamente onerosa para o plano de saúde, ensejando desequilíbrio econômico-financeiro do contrato.
+Dessa forma, ponderando-se o melhor interesse da criança - com a manutenção das sessões de terapia -, assim como a necessidade de preservação do sinalágma contratual, o valor do reembolso deve ser limitado àqueles praticados pela operadora junto à sua rede credenciada, como já reconheceu a jurisprudência esta Câmara, a saber:
+(..)
+Diante do exposto, deve ser mantida a condenação ao custeio do tratamento terapêutico com a Clínica TeAmo, no entanto, a condenação deve ser limitada aos valores praticados pelas clínicas credenciadas junto a operadora do plano de saúde.
+(..)" (e-STJ fls. 869/870).
+Nesse contexto, verifica-se que a Corte estadual decidiu em conformidade com a jurisprudência deste Superior Tribunal de Justiça, atraindo a incidência da Súmula nº 568/STJ.
+Ademais, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. INTERNAÇÃO DE EMERGÊNCIA. REDE NÃO CREDENCIADA. URGÊNCIA DO PROCEDIMENTO. REEMBOLSO. DESPESAS MÉDICO-HOSPITALARES. CABIMENTO. REEXAME. SÚMULA Nº 7/STJ.
+1. O reembolso das despesas médico-hospitalares fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento.
+2. No caso, o tribunal de origem reconheceu a situação de emergência na internação do beneficiário, portanto, a determinação de reembolso das despesas está em conformidade com o entendimento desta Corte Superior.
+3. Rever o entendimento firmado pelas instâncias ordinárias demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+4. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+5. Agravo interno não provido."
+(AgInt no AREsp 2.131.317/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/9/2024, DJe de 6/9/2024 - grifou-se)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. TRANSTORNO DO ESPECTRO AUTISTA. TRATAMENTO FORA DA REDE CREDENCIADA. PAGAMENTO DIRETO. REEMBOLSO INTEGRAL. INEXISTÊNCIA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. SÚMULA N. 284/STF. ACÓRDÃO RECORRIDO. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283/STF. ARESTO IMPUGNADO CONFORME À JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+(..)
+3. A jurisprudência da Segunda Seção desta Corte Superior, no sentido de que "o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento. 4. Embargos de divergência desprovidos" (EAREsp n. 1.459.849/ES, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, DJe 17/12/2020).
+4. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4.1. No caso concreto, inexistindo comprovação da indisponibilidade ou da insuficiência da rede de atendimento conveniada à agravada, a Corte local indeferiu o custeio integral, via pagamento direto aos prestadores de serviços ou reembolso integral, das despesas médicas contraídas por livre escolha da genitora do paciente fora da rede conveniada. Para entender que a situação dos autos apresentaria circunstâncias fáticas excepcionais a justificar o tratamento com profissionais fora da rede cadastrada e, por conseguinte, possibilitar o afastamento dos limites contratuais da cobertura terapêutica solicitada, seria necessário reexame de fatos e provas, o que encontra óbice na Súmula n. 7/STJ.
+5. Definido o contexto fático dos autos, incide a Súmula n. 83/STJ.
+6. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 284 e 283 do STF e 7 e 83 do STJ.
+7. Agravo interno a que se nega provimento."
+(AgInt no REsp 2.115.550/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 2/9/2024, DJe de 5/9/2024 - grifou-se )
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. PLANO DE SAÚDE. TRATAMENTO MÉDICO. URGÊNCIA. OMISSÃO DO PLANO DE SAÚDE EM INDICAR PROFISSIONAL CREDENCIADO PARA REALIZAÇÃO DO TRANSPLANTE DE FÍGADO. REEMBOLSO INTEGRAL. AFASTAMENTO DA TABELA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. A restituição das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitida somente em hipóteses excepcionais, observada a tabela praticada no mercado. Contudo, "na hipótese em que a operadora do plano de saúde se omite em indicar prestador da rede credenciada apto a realizar o atendimento do beneficiário, este faz jus ao reembolso integral das despesas assumidas com o tratamento de saúde que lhe foi prescrito pelo médico assistente, em razão da inexecução contratual" (AgInt no AgInt no REsp n. 2.063.554/SP, relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 27/11/2023, DJe de 29/11/2023).
+3. Agravo interno a que se nega provimento."
+(AgInt no AgInt no AREsp 2.456.523/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/8/2024, DJe de 23/8/2024)
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pela ora recorrente, devem ser majorados para R$ 700,00 (setecentos reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
