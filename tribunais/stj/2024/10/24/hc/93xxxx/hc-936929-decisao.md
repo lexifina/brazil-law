@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Adriano Santana Conceicao Santos, em que se aponta como órgão coator o Tribunal Regional Federal da 1ª Região.
+Depreende-se dos autos que o Juízo da Vara Federal Cível e Criminal da SSJ de Bom Jesus da Lapa/BA, na Ação Penal n. 1005124-90.2021.4.01.3315, com base no art. 386, VII, do Código de Processo Penal, absolveu o ora paciente das imputações atribuídas na denúncia pela prática dos crimes descritos nos arts. 157 e 288, ambos do Código Penal, revogando a prisão preventiva decretada em seu desfavor (fls. 47/84).
+Irresignado, o Ministério Público interpôs recurso de apelação, objetivando a reforma da sentença para condenar o ora paciente como incurso no art. 157, §§ 1º e 2º, e art. 288, ambos do Código Penal. O Tribunal a quo, por unanimidade de votos, deu parcial provimento ao recurso ministerial para condená-lo pela prática de roubo triplamente qualificado, em continuidade delitiva, a 198 meses (16 anos e 6 meses) de reclusão, em regime inicial fechado, e ao pagamento de 108 dias-multa, à razão de 1/30 do salário mínimo vigente à época do delito, devidamente corrigido, com decretação da prisão preventiva em seu desfavor (Apelação Criminal n. 1005124-90.2021.4.01.3315 - fls. 86/161).
+Daí o presente writ, no qual a impetrante alega constrangimento ilegal decorrente da decretação da segregação cautelar do ora paciente, por ocasião do julgamento do recurso de apelação, aos argumentos, em suma, de: (i) ausência de fundamentação da decisão que tacitamente decretou a prisão preventiva e determinou a execução provisória da pena; (ii) falta de contemporaneidade; (iii) decisão decretada de ofício; e (iv) violação do disposto no inc. IX do art. 93 da Constituição Federal, arts. 311, 312, § 2º, art. 313, § 2º, art. 315, caput e parágrafos (todos do CPP).
+Requer a revogação da prisão preventiva, assegurando ao ora paciente o direito de responder em liberdade até o trânsito em julgado da condenação.
+Estes autos foram a mim distribuídos por conexão (RHC n. 159.252/BA).
+Requisitadas as informações ao Desembargador Relator do Tribunal Regional Federal da 1ª Região, antes da análise do pleito liminar (fls. 583 e 589), com atendimento às fls. 592/601.
+Indeferida por mim a liminar em 30/8/2024 (fls. 786/788).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou, caso conhecido, pela denegação da ordem (fls. 793/801).
+É o relatório.
+Não obstante o parecer do nobre Subprocurador-Geral da República José Adonis Callou de Araújo Sá, em uma análise mais acurada dos autos, nota-se que a ordem comporta concessão.
+No que diz respeito à prisão preventiva decretada pelo Tribunal estadual, há constrangimento ilegal passível de ser reparado por meio da via eleita, uma vez que a ordem de prisão partiu de decisão colegiada e sem existência de pedido do Ministério Público nesse sentido - é o que consta da fl. 597 (item 9).
+Ora, a Terceira Seção do Superior Tribunal de Justiça, na sessão de 24/2/2021, ao julgar o RHC n. 131.263/GO, da minha relatoria (DJe 15/4/2021), alinhou-se ao entendimento do Supremo Tribunal Federal de que é ilícita, com base no ordenamento jurídico vigente, a atuação ex officio do magistrado na privação cautelar da liberdade.
+Reconhecida, porém, a ilegalidade da prisão de ofício, não há óbice ao Ministério Público, presentes os pressupostos e fundamentos de cautelaridade, requerer a decretação da prisão preventiva (AgRg no AgRg no RHC n. 131.667/MT, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, julgado em 27/4/2021, DJe 30/4/2021).
+Ante o exposto, concedo a ordem a fim de revogar a prisão preventiva decretada em 21/9/2023, até o trânsito em julgado da condenação, o que não impede nova e fundamentada decisão de necessária medida cautelar, requerida nos termos legais pelo Ministério Público.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO E ASSOCIAÇÃO CRIMINOSA. ABSOLVIÇÃO EM PRIMEIRA INSTÂNCIA. CONDENAÇÃO EM RECURSO DO PARQUET. PRISÃO DECRETADA EX OFFICIO PELO TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE. NECESSIDADE DE REQUERIMENTO PRÉVIO OU PELO MINISTÉRIO PÚBLICO, OU PELO QUERELANTE, OU PELO ASSISTENTE, OU, POR FIM, MEDIANTE REPRESENTAÇÃO DA AUTORIDADE POLICIAL. CONSTRANGIMENTO ILEGAL PRESENTE.
+Ordem concedida nos termos do dispositivo.
