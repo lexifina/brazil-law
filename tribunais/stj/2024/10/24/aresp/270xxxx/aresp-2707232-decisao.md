@@ -1,0 +1,25 @@
+DECISÃO
+Na origem, trata-se de ação indenizatória em desfavor de empresa de telefonia referente a fraude por transferência de linha telefônica. Na sentença, julgou-se parcialmente procedente o pedido para condenar a empresa ré ao pagamento de danos materiais e morais. No Tribunal a quo, a sentença foi parcialmente reformada para condenar a ré ao pagamento de valores dispendidos para a recuperação de conta de rede social. O valor da causa foi fixado em R$ 83.300,00 (oitenta e três mil e trezentos reais).
+O recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO. Prestação de serviço de telefonia. Indenizatória por danos materiais e morais. Sentença de parcial procedência. Insurgência das partes.
+(I) Preliminar de cerceamento de defesa. Afastamento. Suficiência das provas documentais ao correto equacionamento da demanda. Ausência de ilegalidade no julgamento antecipado do feito (art. 355, I, do CPC).
+(II) Mérito. Clonagem do chip do celular do autor, com perda de acesso à linha telefônica, às redes sociais e ao e-mail, os quais passaram a ser usados por terceiros fraudadores. Golpe denominado SIM Swap. Incidência do Código de Defesa do Consumidor e aplicação da inversão do ônus probatório (art. 6º, VIII, CDC). Falha no dever de segurança demonstrada. Nexo de causalidade com os danos sofridos. Responsabilidade civil da ré configurada.
+(i) Danos materiais. Pretensa restituição do valor despendido pelo autor com a contratação de especialista em crime virtual para recuperar a conta no Instagram. Acolhimento. Restituição das despesas custeadas e comprovadas e que são decorrentes do alegado fato. Sentença reformada nessa parte.
+(ii) Lucros cessantes indevidos. Ausência de prova de prejuízo suportado em razão da não concretização de eventual negócio.
+(iii) Danos morais evidenciados, graduados pelo desvio produtivo. Reparatória fixada em R$ 6.000,00. Manutenção.
+(iv) Ônus sucumbenciais. Decaimento da ré de maior parte dos pedidos. Inteligência do art. 86, parágrafo único, do CPC.
+Sentença reformada em parte.
+Recurso do autor parcialmente provido, desprovido o da ré.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A respeito, saliente-se que a ré não trouxe qualquer elemento de prova hábil a afastar os fatos narrados na inicial, mormente aqueles relativos aos dados de sistema interno que poderiam, em tese, rechaçar o defeito no serviço prestado ao autor; tampouco logrou êxito em comprovar a culpa exclusiva do acionante quanto à aventada negligência em relação aos seus dados telefônicos.
+Destarte, à vista dos fatos indicados e não tendo a ré se desincumbido do ônus probatório disposto no art. 373, II, do CPC, de rigor a manutenção da condenação à reparação dos prejuízos sustentados pelo autor.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Relativamente às alegações de violação dos arts. 17 e 18, do CPC e arts. 186 e 927, do CC, a via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ademais, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
