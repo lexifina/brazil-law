@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se recurso especial interposto por JHONNY JOSE MELO FREIRE MACHADO, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/SP.
+Recurso especial interposto em: 17/04/2024.
+Concluso ao Gabinete em: 02/08/2024.
+Ação: de rescisão contratual cumulada com reintegração de posse e reparação de danos materiais, ajuizada por CONSTRUTORA PROGREDIOR LTDA, em desfavor do recorrente, em virtude de inadimplemento de contrato de compra e venda de imóvel firmado entre as partes.
+Sentença: julgou parcialmente procedentes os pedidos, a fim de (i) rescindir o contrato firmado entre as partes; (ii) reintegrar a recorrida na posse do bem imóvel objeto da ação; (iii) deferir a retenção de 15% (quinze por cento) do valor desembolsado pelo réu, a título de multa contratual; de 0,5% (meio por cento) ao mês sobre o valor do contrato, entre a data da posse e a da desocupação do imóvel; e de IPTU; e (iv) determinar seja compensado o valor devido ao recorrente de 75% (setenta e cinco por cento) do total desembolsado pelo imóvel.
+Acórdão: negou provimento à apelação interposta pelo recorrente, nos termos da seguinte ementa:
+Compromisso de compra e venda. Dissolução do contrato em virtude de inadimplemento do adquirente. Preliminares de ofensa ao princípio da dialeticidade e carência da ação afastadas. Lei n. 13.786/2018 que não se entende de aplicar a contratos antes dela pactuados. Inadimplência do adquirente que se iniciou antes da pandemia do vírus COVID-19. Devida a taxa de ocupação, desde a imissão na posse até a desocupação do imóvel. Sentença mantida. Recurso desprovido (e-STJ fl. 305).
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: aponta a violação da Lei 13.097/15; e dos arts. 32 da Lei 6.766/79; 393, 478, 479 e 480 do CC, bem como dissídio jurisprudencial. Sustenta que há carência do direito de ação, por falta dos pressupostos processuais indispensáveis ao válido e regular desenvolvimento do processo, ante a inexistência da correta constituição em mora do recorrente. Aduz que inexiste qualquer planilha ou demonstrativo de débitos juntados pela recorrida, sendo impossível a conferência de valores, de forma que a notificação premonitória não atendeu o modo e a forma prescritos em lei. Assevera que a pandemia do COVID-19 trouxe consequências imprevisíveis para os mais diversos ramos do negócio, o que se constitui fato notório, impondo-se a aplicação da teoria da imprevisibilidade, caracterizando a situação como caso fortuito ou de força maior, e permitindo a revisão contratual ou mesmo a sua suspensão. Por fim, defende que a taxa de fruição deve ser aplicada a partir do inadimplemento, tendo em vista que somente a partir desse momento é que a vendedora teria ficado privada da utilização do bem.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da alegação genérica de ofensa à lei
+O recorrente alega genericamente violação da Lei 13.097/15. Deixa de indicar, todavia, especificamente qual o dispositivo legal foi violado pelo acórdão recorrido.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da oposição de embargos de declaração, não decidiu acerca dos argumentos invocados pelo recorrente em seu recurso especial quanto aos arts. 32 da Lei 6.766/79; 393, 478, 479 e 480 do CC, o que inviabiliza o seu julgamento. Aplica-se, neste caso, a Súmula 211/STJ.
+- Da existência de fundamento não impugnado
+O recorrente, em relação à alegada carência de ação e ao pagamento da taxa de fruição, não impugnou os seguintes fundamentos utilizados pelo TJ/SP:
+Além disso, não colhe a preliminar de carência do direito de ação e ausência dos pressupostos processuais de constituição e desenvolvimento do processo suscitada pelo réu.
+Havido o inadimplemento do adquirente, ao que consta, já no mês de fevereiro ou, no mínimo, de agosto de 2019 (fls. 97/98, 177 e 179), vê-se que ele recebeu notificação extrajudicial a fim de purgar a mora, então apontada em R$40.297,87, entre outubro e novembro de 2020.
+E, se o réu discordava do valor pendente indicado pela autora, deveria ter buscado planilha de cálculo da alienante e o subsequente apontamento do que nela, se o caso, entendia mesmo equivocado; ou procurado a consignação do valor que entendesse devido. Não tendo o adquirente, ao que consta, a tanto procedido, não cabe agora se utilizar do quanto ocorrido para sustentar carente de ação a alienante.
+Depois, e além do mais, a notificação para constituição em mora, em caso como o presente, inclusive em que há prazo certo para vencimento das prestações, tende justamente a uma emenda, dada a relevância social do contrato, mas a que nunca se interessou o adquirente (e-STJ fls. 308-309).
+Com efeito, foi expresso o decisum ao negar provimento ao apelo, forte na consideração de que, se tendo deliberado pela devolução das parcelas pagas pelo adquirente, ausente causa para a ocupação, de modo que devida a incidência de taxa a esse título, e não havendo que se falar em limitação de seu valor (e-STJ fl. 373) (grifos acrescentados).
+Assim, não impugnados esses fundamentos, deve-se manter o acórdão recorrido. Aplica-se, neste caso, a Súmula 283/STF.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% (doze por cento) sobre o valor da condenação (e-STJ fl. 318) para 15% (quinze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE E REPARAÇÃO DE DANOS MATERIAIS. ALEGAÇÃO GENÉRICA DE OFENSA À LEI. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de rescisão contratual cumulada com reintegração de posse e reparação de danos materiais, em virtude de inadimplemento de contrato de compra e venda de imóvel firmado entre as partes.
+2. O recurso especial não pode ser conhecido quando a alegação de ofensa à lei for genérica.
+3. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Recurso especial não conhecido.
