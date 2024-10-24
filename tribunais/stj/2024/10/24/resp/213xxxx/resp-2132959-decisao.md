@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 182):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/C REPETIÇÃO DE INDÉBITO. JUROS REMUNERATÓRIOS INCIDENTES SOBRE TARIFAS BANCÁRIAS JÁ DECLARADAS ILEGAIS EM PROCESSO DO JUIZADO ESPECIAL CÍVEL. PRESCRIÇÃO. EXTINÇÃO. INSURGÊNCIA DA PARTE AUTORA. PRELIMINAR DE PRESCRIÇÃO AFASTADA. PREVISÃO DO ART. 205 DO CÓDIGO CIVIL. CAUSA MADURA PARA JULGAMENTO. INCIDÊNCIA DO § 4º DO ART. 1.013 DO CPC/15. PEDIDO FORMULADO NA DEMANDA ANTERIOR QUE INCLUIU OS ENCARGOS PERSEGUIDOS. INCIDÊNCIA DO ART. 337, §§ 2º E 4º DO CPC/15. COISA JULGADA CONFIGURADA. RECONHECIMENTO DO OFÍCIO COM OBSERVÂNCIA À GARANTIA PREVISTA NO ART. 10. DO CPC/15. DESPROVIMENTO DO RECURSO. MANTIDA A EXTINÇÃO DO FEITO POR FUNDAMENTO DIVERSO (ART. 485, V, CPC/15).
+- Em demanda revisional baseada em contrato bancário celebrado entre as partes, é aplicável o prazo prescricional de 10 (dez) anos previsto no art. 205, caput do Código Civil.
+- A identidade de partes, de causa de pedir e de pedido evidenciada na demanda em apreciação impõe o reconhecimento do instituto da coisa julgada (art. 337, §§ 2º e 4º, do CPC/15.
+- Na hipótese, a devolução das tarifas foi requerida na ação anterior juntamente com os seus acréscimos e contra a sentença de mérito não houve a interposição de recurso.
+- Uma vez operada a coisa julgada, não cabe a apreciação do mesmo pedido em outra ação autônoma, o que implica na extinção do processo sem julgamento do mérito, nos termos do art. 485,V do CPC/15.
+- Desprovimento do apelo para manter a sentença de extinção, embora por fundamento diverso.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 184 e 884 do Código Civil; art. 485, IV e V, do Código de Processo Civil; bem como divergência jurisprudencial.
+Sustenta que a coisa julgada versou unicamente sobre a ilegalidade das tarifas cobradas em contrato de adesão, que foram declaradas nulas por decisão do Juizado Especial Cível, transitada em julgado.
+Alega que, para ser reconhecida a coisa julgada, é necessário que haja análise sobre o tema, no entanto, as obrigações assessórias, como os juros contratuais, não teriam sido apreciadas pelo Juizado Especial.
+Contrarrazões apresentadas às fls. 280-286.
+Assim delimitada a controvérsia, passo a decidir.
+No presente caso, o Tribunal de origem concluiu pela ocorrência de coisa julgada, manteve a sentença que extinguiu a ação ajuizada pela ora recorrente, ainda que por fundamento diverso, nos seguintes termos (fls. 180-202):
+Na espécie, o juízo a quo julgou improcedente o pedido para a devolução dos juros remuneratórios incidentes sobre as tarifas declaradas ilegais em processo anterior, após reconhecer aplicável ao caso a prescrição do art. 205 do Código Civil, contada da data da assinatura do contrato.
+ ..
+No ponto, adoto o entendimento admitido nos seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DEINDÉBITO. PRESCRIÇÃO. PRAZO. DECISÃO MANTIDA.
+1. A jurisprudência do STJ entende que a pretensão de repetição de valores pagos indevidamente em função de contrato bancário está sujeita ao prazo prescricional vintenário na vigência do CC/1916 e ao decenal na vigência do CC/2002, contado da efetiva lesão, ou seja, do pagamento.
+2. Agravo interno a que se nega provimento. (AgInt no AREsp 1234635/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2021, DJe 03/03/2021).
+Com efeito, se o pagamento do contrato é diferido em parcelas, a lesão opera-se a cada efetivação e, não no momento da sua assinatura.
+Dito isto, uma vez que o contrato de n. 3682680604 foi celebrado em 05/05/2008,com prazo para pagamento de 48 (quarenta e oito) meses, contados da primeira prestação, com vencimento em 05/06/2008 e, consequentemente, a última em 05/04/2012 (id 7801871),considerando o ajuizamento da presente demanda em 02/04/2019, é de se afastar, na.
+espécie, a alegada prescrição.
+Afastada a preliminar de prescrição, passo à análise do mérito do pedido inicial, consoante previsão do §4º do art. 1.013 do CPC/15.
+A parte autora pretende a devolução em dobro dos juros incidentes sobre as tarifas declaradas ilegais em processo anterior que tramitou perante os juizados especiais (3002000-41.2013.815.0011).
+Por sua vez, o banco demandado, além da alegada prescrição, questão já examinada, sustenta a legalidade das cobranças.
+Na espécie, verifica-se da petição que inaugurou a ação anterior a existência de pedido expresso para a devolução das tarifas, bem como de seus acréscimos. Confira-se:
+e) Pede que Vossa Excelência julgue totalmente procedente o pedido autoral, para condenar o promovido no pagamento da quantia no R$ 1.403,18 (hum mil quatrocentos e três reais e dezoito centavos), correspondentes ao pagamento da quantia indevida;
+f) Pagamento dos , sendo corrigidos acréscimos referentes à quantia acima descrita pelos mesmos índices aplicados pela instituição ré, devendo recair sobre o quantum fixado juros moratórios e correção monetária a partir da data do efetivo prejuízo (março de 2007), conforme as Súmulas 43 e 54 do STJ.
+Por sua vez, a respectiva sentença, transitada em julgado, julgou parcialmente procedente a pretensão, nos seguintes termos:
+ ..  JULGO PARCIALMENTE PROCEDENTE em parte o pedido, para CONDENAR o promovido a pagar a parte promovente a importância de R$ 701,59 (setecentos e um reais e cinquenta e nove centavos), de modo simples e atualizado por juros a partir da citação (1% a.m.) e correção monetária a partir da assinatura do referido contrato.
+Nesse contexto, resta claro que, na ação anterior, a devolução das tarifas foi requerida com os seus acréscimos e não houve recurso contra a sentença omissa.
+ ..
+Ao apreciar controvérsia semelhante à dos presentes autos, o Superior Tribunal de Justiça entendeu pela configuração de coisa julgada em razão do pedido inicial formulado na ação anterior ter englobado, de forma genérica, os juros remuneratórios pleiteados na segunda demanda:
+RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO DE VEÍCULO. NULIDADE DE TARIFAS DECLARADAS EM SENTENÇA TRANSITADA EM JULGADA NO JUIZADO ESPECIAL CÍVEL. PEDIDO, NA AÇÃO SUBJACENTE, DE DEVOLUÇÃO DOS JUROS REMUNERATÓRIOS INCIDENTES SOBRE AS REFERIDAS TARIFAS. IMPOSSIBILIDADE. EXISTÊNCIA DE COISA JULGADA. PEDIDO FORMULADO NA PRIMEIRA AÇÃO QUE ABARCOU O MESMO PLEITO AQUI PRETENDIDO. RESTABELECIMENTO DA SENTENÇA DE PRIMEIRO GRAU. RECURSO PROVIDO.
+1. Cinge-se a controvérsia a definir se a declaração de ilegalidade de tarifas bancárias ("TAC" e "TEC"), com a consequente devolução dos valores cobrados indevidamente, determinada em ação anteriormente ajuizada no âmbito do Juizado Especial Cível, forma coisa julgada em relação ao pedido de repetição de indébito dos juros remuneratórios incidentes sobre as referidas tarifas.
+2. Nos termos do art. 337, §§ 2º e 4º, do Código de Processo Civil de 2015, "uma ação é idêntica a outra quando possui as mesmas partes, a mesma causa de pedir e o mesmo pedido", sendo que "há coisa julgada quando se repete ação que já foi decidida por decisão transitada em julgado".
+3. Na hipótese, da forma como o autor formulou o pedido na primeira ação, já transitada em julgado e que tramitou perante o Juizado Especial Cível, consignando expressamente que buscava a devolução em dobro de todos os valores pagos com as tarifas declaradas nulas, inclusive os "acréscimos referentes às mesmas", é possível concluir que o pleito abarcou também os encargos incidentes sobre as respectivas tarifas, da mesma forma em que se busca na ação subjacente, havendo, portanto, nítida identidade entre as partes, a causa de pedir e o pedido, o que impõe o restabelecimento da sentença que extinguiu o feito, sem resolução de mérito, em razão da existência de coisa julgada, a teor do disposto no art. 485, inciso V, do CPC/2015.
+4. Recurso especial provido.
+(REsp n. 1.899.801/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/8/2021, DJe de 27/8/2021.)
+Feitas essas considerações, uma vez operada a coisa julgada, não cabe a apreciação do mesmo pedido em outra ação autônoma, o que implica na extinção do processo sem julgamento do mérito, nos termos do art. 485, V do CPC/15.
+Nota-se que o acórdão estadual está de acordo com a jurisprudência desta Corte Superior, como se infere da leitura dos seguintes julgados:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE JUROS SOBRE TAXAS ADMINISTRATIVAS DECLARADAS ILEGAIS EM SENTENÇA TRANSITADA EM JULGADO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. PEDIDO FORMULADO COM BASE NOS MESMOS FATOS E FUNDAMENTOS JURÍDICOS. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. O propósito do recurso especial é discutir a possibilidade de ajuizamento de nova ação para restituição de quantia paga a título de juros remuneratórios incidentes sobre tarifas bancárias declaradas nulas, com a consequente devolução dos valores pagos indevidamente, em sentença transitada em julgado.
+2. A eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir.
+3. Hipótese na qual a parte autora ajuizou nova ação buscando a restituição de valores pagos a título de juros remuneratórios em razão da incidência destes sobre tarifas bancárias declaradas abusivas em sentença com trânsito em julgado, que determinou a restituição dos valores pagos indevidamente, com base nos mesmos fatos e fundamentos jurídicos do primeiro processo.
+4. "À luz de uma interpretação teleológico-sistemática do disposto no § 3º do art. 3º da Lei 9099/95, a parte, ao escolher demandar junto ao juizado especial, renuncia o crédito excedente, incluindo os pedidos interdependentes (principal e acessório) que decorrem da mesma causa de pedir, e não só o limite quantitativo legal" (AgInt no REsp n. 2.002.685/PB, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023).
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.001.022/PB , relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023 -g. n.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA. JUROS REMUNERATÓRIOS INCIDENTES SOBRE TARIFAS BANCÁRIAS DECLARADAS ILEGAIS EM PROCESSO DO JUIZADO ESPECIAL CÍVEL. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 337 DO CPC/2015. COISA JULGADA CARACTERIZADA. AGRAVO DESPROVIDO.
+1. "À luz de uma interpretação teleológico-sistemática do disposto no § 3º do art. 3º da Lei 9099/95, a parte, ao escolher demandar junto ao juizado especial, renuncia o crédito excedente, incluindo os pedidos interdependente s (principal e acessório) que decorrem da mesma causa de pedir, e não só o limite quantitativo legal" (AgInt no REsp 2.002.685/PB, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023).
+2. Estando o acórdão estadual em sintonia com a jurisprudência desta eg. Corte, o recurso especial encontra óbice na Súmula 83/STJ, a qual é aplicável tanto pela alínea a como pela alínea c do permissivo constitucional.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.117.663/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/5/2024, DJe de 17/5/2024.)
+Ademais, o tema tratado nos presentes autos foi objeto de embargos de divergência de minha relatoria, EREesp 2036447/PB, em que foi proferida a seguinte ementa:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE JUROS SOBRE TAXAS ADMINISTRATIVAS DECLARADAS ILEGAIS EM SENTENÇA TRANSITADA EM JULGADO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. PEDIDO COMPREENDIDO NA AÇÃO ANTERIOR E FORMULADO COM BASE NOS MESMOS FATOS E FUNDAMENTOS JURÍDICOS. IMPOSSIBILIDADE. RECURSO PROVIDO.
+1. Cinge-se a controvérsia a definir sobre a possibilidade de ajuizamento de nova ação para pleitear a restituição de quantia paga a título de acessórios (juros remuneratórios) incidentes sobre tarifas bancárias declaradas nulas em sentença proferida em ação anterior, na qual condenada a instituição financeira à devolução dos valores cobrados indevidamente pela instituição financeira.
+2. A eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir.
+3. Hipótese na qual a parte autora ajuizou nova ação buscando a restituição de valores pagos a título de encargos acessórios incidentes sobre tarifas bancárias declaradas abusivas em sentença transitada em julgado, a qual determinara a restituição dos valores pagos indevidamente, com base nos mesmos fatos e fundamentos jurídicos do primeiro processo.
+4. Embargos de divergência providos para dar provimento ao recurso especial.
+Desta forma, não persiste o argumento de que há dissídio jurisprudencial quanto ao tema, o acórdão recorrido está em consonância com a orientação que se firmou na jurisprudência desta Corte, incidindo, portanto, o óbice da Súmula 83 do STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Deixo de majorar os honorários de sucumbência, em razão da não fixação no acórdão recorrido.
+Intimem-se.
+EMENTA
