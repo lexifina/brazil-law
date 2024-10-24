@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de divergência manejados por JIANYI LI contra acórdão da eg. Terceira Turma, de Relatoria do e. Min. Marco Aurélio Bellizze, assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEVER DA PARTE DE, AO INGRESSAR COM O AGRAVO DO ART. 1.042 DO CPC/2015, IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. EXIGÊNCIA CUJO DESCUMPRIMENTO ACARRETA O NÃO CONHECIMENTO DO AGRAVO. RATIFICAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRETENDIDA MAJORAÇÃO DOS HONORÁRIOS RECURSAIS, QUE JÁ HAVIAM SIDO AUMENTADOS PELA DECISÃO AGRAVADA. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo devem infirmar todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Correto o entendimento da Presidência do Superior Tribunal de Justiça de não conhecer do agravo em recurso especial, tendo em vista que realmente não houve efetiva impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+3. A jurisprudência do Superior Tribunal de Justiça não admite nova majoração de honorários de sucumbência por ocasião do julgamento de agravo interno quando tal verba já tiver sido aumentada pela decisão agravada, tendo em vista que a interposição do mencionado recurso não inaugura nova instância.
+4. Agravo interno desprovido.
+Nas razões do presente apelo recursal a recorrente indica, para demonstrar o alegado dissídio jurisprudencial, os seguintes julgados: REsp 1.197.929/PR, Rel. Min. Luis Felipe Salomão, DJe de 24/8/2011; REsp 2.082.281/SP, Rel. Min. Nancy Andrighi, Dje de 21/11/2023.
+Argumenta, em síntese, que "(..) a decisão da Terceira Turma, ao afastar a aplicação da responsabilidade objetiva das instituições financeiras no presente caso, divergiu frontalmente do entendimento consolidado pelo próprio STJ, especialmente da Quarta Turma, sob a relatoria do Ministro Luís Felipe Salomão, que, no julgamento do R Esp 1.197.929/PR (Tema 466), estabeleceu que "as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias"." Acrescenta, nesse contexto, que "(..) a responsabilidade das instituições financeiras em casos de fraudes bancárias é objetiva, independentemente da comprovação de culpa, e decorre do risco inerente à atividade bancária."
+Requer, finalmente, a reforma do julgado. (fls. 983/1047)
+É o relatório.
+Decisão.
+A insurgência não merece prosperar.
+1. A eg. Terceira Turma negou provimento ao agravo interno, mantendo, assim, a decisão decisão da eg. Presidência do STJ que não conheceu do apelo recursal ante à inexistência de efetiva impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+Nesse contexto, é de rigor a incidência do enunciado da Súmula 315/STJ ao caso dos autos porquanto o acórdão embargado não apreciou o mérito da questão subjacente aos embargos de divergência o que impede o exame do alegado dissídio jurisprudencial.
+Na mesma linha, confiram-se os seguintes julgados: AgInt nos EAREsp 379.075/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 22/11/2017, DJe 04/12/2017; AgInt nos EAREsp 1017293/SE, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/12/2017, DJe 19/12/2017; AgRg nos EAREsp 64.002/MG, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 22/02/2017, DJe 01/03/2017; AgRg nos EAREsp 478.008/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 09/03/2016, DJe 01/04/2016.
+2. Do exposto, com fundamento no art. 266-C, do RISTJ, indefiro liminarmente os presentes embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
