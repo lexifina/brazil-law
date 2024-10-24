@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de instrumento contra decisão que afastou do cálculo a verba denominada "bônus cultura" e excluiu a contribuição previdenciária. No Tribunal a quo, o recurso foi parcialmente provido para afastar da execução o desconto relativo a contribuição previdenciária e condenar as Agravadas no pagamento de honorários de advogado fixados em 10% (dez por cento) sobre o valor cobrado em excesso.
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO contra acórdão com o seguinte resumo de ementa:
+ADMINISTRATIVO. PROCESSO CIVIL. DESVIO DE FUNÇÃO. AUXILIAR DE CRECHE. PROFESSOR DE EDUCAÇÃO INFANTIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. VERBA DE NATUREZA SALARIAL. HONORÁRIOS ADVOCATÍCIOS.
+Agravo de instrumento contra decisão que afastou do cálculo a verba denominada "bônus cultura" e excluiu a contribuição previdenciária.
+De acordo com a prova dos autos, as Agravadas trabalharam em desvio de função durante toda a carga horária de 40 (quarenta) horas que cumpriam, motivo por que inviável limitar o cálculo das diferenças remuneratórias a carga de 22 horas e 30 minutos semanais como pretende o Agravante.
+Cabível a incidência de contribuições previdenciárias sobre as verbas de natureza salarial recebidas pelas Agravadas.
+Considerando o parcial acolhimento da impugnação, o Agravante tem direito aos honorários de advogado sobre a quantia executada em excesso.
+Recurso parcialmente provido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Quanto ao pedido de descontos previdenciários, com razão o Agravante tendo em vista a natureza salarial dos valores a serem recebidos pelas Agravadas pelo exercício de funções inerentes a cargo diverso do efetivamente ocupado por elas. A jurisprudência do E. Superior Tribunal de Justiça não destoa em reconhecer a natureza salarial da parcela recebida por servidor público em virtude do reconhecimento judicial do desvio de função e a incidência da contribuição previdenciária como demonstra o julgamento do AgInt no AR Esp 397858/RS pela C. Segunda Turma, relator o Ministro HERMAN BENJAMIN:
+ ..
+Considerando o parcial acolhimento da impugnação, o Agravante tem direito aos honorários de advogado sobre a quantia executada em excesso, na forma do artigo 85, § 3º, I, do Código de Processo Civil como definiu o E. Superior Tribunal de Justiça com a edição do Tema 410:
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
