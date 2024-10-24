@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Jhonatan Bueno dos Santos, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina.
+Consta dos autos que o paciente foi condenado às penas de 9 anos, 11 meses e 14 dias de reclusão, em regime inicial fechado, por infração ao art. 1º, inciso II, c/c o § 3º e 4º, inciso II, da Lei n. 9.455/1997 (tortura), tendo sido concedido a ele o direito de recorrer em liberdade.
+Interpostas apelações, o Tribunal de origem negou provimento ao recurso da defesa, porém, deu parcial provimento ao apelo ministerial para, quanto ao ora paciente, decretar a sua prisão preventiva (fls. 68/84 ).
+Aqui, a impetrante sustenta a ilegalidade do decreto constritivo, uma vez que não demonstrado o risco à ordem pública, mormente por estar o réu solto há 7 meses, em fiel cumprimento às medidas cautelares impostas, não tendo ocorrido o trânsito em julga do da condenação .
+Ressalta que o paciente é primário, possui bons antecedentes, emprego lícito e residência fixa, predicados que lhe permitem recorrer em liberdade, sendo suficientes as medidas cautelares menos gravosas.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+Este processo foi distribuído por por prevenção do HC n. 861.751/SC.
+É o relatório.
+Busca a presente impetração a revogação da prisão preventiva e, por conseguinte, a concessão do direito de recorrer em liberdade.
+No presente caso, verifica-se que o Tribunal de origem decretou a prisão preventiva do paciente, consignando o seguinte (fls. 82/83 - grifo nosso):
+ ..
+Por fim, a análise do pedido ministerial em relação à prisão preventiva dos réus Jhonatan e Ana Júlia requer uma distinção clara entre as condutas de ambos, ressaltando a gravidade do delito perpetrado e a necessidade de se assegurar a ordem pública. Assim, entendo pelo deferimento da prisão cautelar de Jhonatan e pelo desprovimento do recurso em relação à Ana Júlia.
+A prisão preventiva, conforme dispõe o artigo 312 do Código de Processo Penal, é uma medida excepcional, destinada a garantir a ordem pública, a regularidade da instrução criminal e a aplicação da lei penal. No presente caso, a gravidade em concreto dos atos de violência perpetrados por Jhonatan, em especial, justifica a manutenção de sua segregação cautelar.
+Os elementos fático-probatórios revelam que a vítima, uma criança, foi submetida a atos de extrema crueldade e violência, sendo a proteção de sua integridade física e psicológica um imperativo categórico. Os relatos evidenciam a prática de atos de tortura, que não apenas violam a dignidade da criança, mas também geram um impacto profundo e duradouro em seu desenvolvimento emocional e psicológico. A conduta de Jhonatan não é meramente reprovável, mas constitui uma ofensa gravíssima aos direitos fundamentais da criança, situação que, por si só, clama por uma resposta judicial firme e eficaz. A gravidade do crime fundamenta a necessidade de manutenção de sua prisão preventiva para assegurar que tais atos não se repitam e que a ordem pública seja resguardada.
+Ademais, depreende-se dos autos que Jhonatan possui um filho, com quem convive eventualmente, o que agrava sua situação ao permitir a possibilidade de reiteração delitiva.
+A existência de uma criança sob sua convivência potencializa a necessidade de sua segregação cautelar, visto que o réu, ao demonstrar desrespeito aos direitos da vítima, pode representar risco à integridade de outros menores. A convivência com outra criança evidencia uma fragilidade nas relaçõ es familiares, onde a proteção à prole deve ser a prioridade, e tal cenário reforça a urgência de se resguardar a ordem pública.
+ ..
+Como se vê, a medida extrema decretada na apelação encontra-se devidamente justificada na garantia da ordem pública, vulnerada em razão da gravidade concreta das circunstâncias do delito, em que o paciente, padrasto da vítima de 3 anos, em coparticipação da corré (mãe), procedia a atos de tortura reiteradamente contra o ofendido, como arranhões, mordidas, queima duras, agressões que deixavam hematomas no rosto, corpo, couro cabeludo , bem como o submetia a condições desumanas e degradantes, como privação da alimentação. Tal contexto demonstra o risco ao meio social, sendo necessária a custódia para resguardar a integrid ade física e psíquica da vítima e de outras crianças.
+Com efeito, a jurisprudência já decidiu que as circunstâncias do caso concreto denotam o acentuado perigo que a liberdade do acusado representa para a integridade física e psíquica da vítima e também de terceiros, de modo que é insuficiente a substituição da preventiva por outras cautelares (HC n. 505.099/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 9/9/2020).
+No mesmo sentido é o AgRg no HC n. 800.476/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 18/5/2023.
+Assim, há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva do paci ente, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+A nte o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TORTURA. CONDENAÇÃO. PLEITO DE REVOGAÇÃO DA PRISÃO PREVENTIVA DECRETADA NO ACÓRDÃO DA APELAÇÃO. CIRCUNSTÂNCIAS DO DELITO. INTENSO SOFRIMENTO FÍSICO CAUSADO À CRIANÇA DE TENRA IDADE. CONSTATAÇÃO DE LESÕES ANTIGAS. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE DE ASSEGURAR A INTEGRIDADE FÍSICA E PSÍQUICA DA VÍTIMA E DE OUTRAS CRIANÇAS. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE.
+Writ indeferido liminarmente.
