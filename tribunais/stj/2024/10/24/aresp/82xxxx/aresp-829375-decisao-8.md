@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WALLISON VITOR PIMENTA DA SILVA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que não admitiu seu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 15.984/16.017, in verbis:
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO.
+ ..
+Agravo de Wallison Vítor Pimenta da Silva : Dissídio jurisprudencial não comprovado. Ausência de cotejo analítico. Pedido de afastamento da reincidência. Impossibilidade. Comprovação por certidão de antecedentes criminais. Dosimetria da pena. Majoração. Natureza e quantidade da droga. Possibilidade. Associação para o tráfico. Art. 35 da Lei nº 11.343/06. Crime considerado hediondo. Ausência de previsão legal. Afastamento da hediondez.
+ ..
+Excelentíssimo Senhor Ministro Relator:
+1. O Ministério Público Estadual ofertou denúncia em desfavor dos agravantes. Devidamente instruído o feito, o Magistrado singular julgou parcialmente procedente a pretensão punitiva para condenar:
+(a) Maressa de Almeida Silva, Vinícius Gonçalves Silva, Wallisson Vitor Pimenta da Silva, Reginaldo da Silva, Vilma Fonseca Silva, Romildo Silva, Adriana Freire Araújo, Josiane Vilela Souza, Wander Ivo de Souza Andrade, Edson Alves de Souza, Helder Ribeiro de Araújo, Rachel Ramos Vilela, pela prática do delito de associação para o tráfico de drogas  Lei nº 11.343/06: art. 35, caput ;
+(b) Aldo Xavier de Oliveira, Nelson Martins Migliorini, Eduardo Xavier de Oliveira, Rosinei Pinheiro da Silva e José dos Reis Ribeiro, pela prática do crime de associação para o tráfico  Lei nº 11.343/06: art. 35, caput, c/c art. 61, I, do Código Penal ;
+(c) Sílvio César Lopes, Natanael Vieira da Silva, José Geraldo Lopes, pela prática dos delitos de tráfico de drogas interestadual e associação para o tráfico interestadual  Lei nº 11.343/06: arts. 33, caput, e 35, c/c art. 40, V ;
+(d) Cíntia Aparecida de Almeida Silva, Emerson Ferreira de Lara, Antônio Messias Cardoso, pela infração aos delitos de tráfico de drogas e associação para o tráfico  Lei nº 11.343/06: arts. 33, caput, e 35 ;
+(e) Lúcia Helena Pires pela infração ao delito descrito nos arts. 33, caput, e 35, c/c art. 40, II e III e;
+(f) Anderson do Vale pela prática do crime de tráfico de drogas  Lei nº 11.343/06: art. 33, caput .
+2. Contra essa decisão, o Parquet e os réus apelaram. A Primeira Câmara Criminal do Tribunal de Justiça de Minas Gerais, por maioria, deu parcial acolhimento aos reclamos do Ministério Público e dos apelantes Sílvio César Lopes, Natanael Vieira da Silva, Vinícius Gonçalves Silva, Wallison Vítor Pimenta da Silva, Reginaldo da Silva, Vilma Fonseca Silva, Aldo Xavier de Oliveira, Nelson Martins Migliorini, Wagner Vítor de Souza Andrade, Eduardo Xavier, André Luiz Monteiro, José dos Reis Ribeiro e Rosinei Pinheiro da Silva e negou provimento aos demais recursos. O aresto recebeu a seguinte ementa:
+ ..
+3. Em face dessa deliberação, a Defesa dos réus aviaram recursos especiais  CF: art. 105, III, a e c .
+ ..
+3.11. No recurso de Wallison Vitor Pimenta da Silva, a Defensoria Pública alegou que ocorreu (a) divergência jurisprudencial no tocante ao art. 33, § 2º, b, do Código Penal, tendo em vista a imposição do regime fechado ao recorrente com base apenas no art. 2º da Lei nº 8.072/90, que inclusive já foi declarada inconstitucional pela Suprema Corte; (b) violação ao art. 61, I, do Código Penal, pois ao réu fora imposta a agravante da reincidência, malgrado sua primariedade; (c) afronta ao art. 35 da Lei nº 11.343/06, sob o argumento de que o crime de associação para o tráfico não tem caráter hediondo, não fazendo parte do rol taxativo previsto na Lei nº 8.072/90 e; (d) ofensa ao art. 42 da Lei nº 11.343/06, pois não há nos autos identificação de quantidade de droga suficiente apta a majorar a pena-base do recorrente.
+ ..
+4. O Terceiro Vice-Presidente do Tribunal a quo indeferiu o processamento dos apelos especiais. A fim de destrancar o acesso à Superior Instância, os agravantes interpuseram os presentes agravos. É o relatório.
+Ao final, o Parquet opinou pelo parcial provimento ao recurso.
+É o relatório.
+Decido.
+De início, verifico que os fundamentos da decisão que não admitiu o apelo raro foram suficientemente impugnados, razão pela qual conheço do presente agravo.
+Digno de nota que, "em Questão de Ordem no REsp n. 1.129.215/DF, a Corte Especial deste Tribunal Superior firmou o entendimento de que  ..  a única interpretação cabível para o enunciado da Súmula 418 do STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos de declaração apenas quando houver alteração na conclusão do julgamento anterior" (AgRg no REsp n. 1.698.933/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/5/2018, DJe de 29/5/2018).
+Passo, dessa forma, à análise do apelo nobre.
+Inicialmente, constato que o pleito defensivo de abrandamento do regime inicial de cumprimento da pena não pode ser atendido, tendo em vista que o montante da reprimenda aplicada ao agravante foi superior a 8 anos de reclusão, situação que afasta o regime menos gravoso, conforme disposto no art. 33, § 2º, a, do Código Penal.
+No que diz respeito à suscitada primariedade do agente, bem como no tocante à alegada violação ao disposto no art. 42 da Lei de Drogas, constato que, do cotejo entre as alegações constantes do recurso especial e os fundamentos deduzidos pelas instâncias ordinárias, tem-se que o acolhimento das teses sustentadas pela defesa exigiria, indiscutivelmente, o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos.
+Não bastasse, observo que as alegações defensivas sobre o disposto no art. 42 da Lei n. 11.343/2006, da forma como trazidas no recurso especial, não foram objeto de debate pela Corte de origem, a despeito da oposição de embargos de declaração, sendo patente a falta de prequestionamento. Destarte, no ponto tem incidência o óbice previsto na Súmula n. 211/STJ.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. NOVAS TESES TRAZIDAS NOS EMBARGOS DE DECLARAÇÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Este Tribunal Superior possui entendimento pacificado no sentido de que a alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade (REsp 1.439.866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/04/2014, DJe 6/5/2014).
+2. Os embargos de declaração interpostos após a formação do acórdão, com o escopo de prequestionar tema não veiculado anteriormente no processo, não caracterizam prequestionamento, mas pós-questionamento. Incidência da Súmula nº 211 do STJ. (AgRg no Ag n. 705.169/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 21/09/2009).
+3. Agravo regimental improvido. (AgRg no AREsp 982.366/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 1º/3/2018, DJe 12/3/2018.)
+Por derradeiro, cumpre registrar que, "de acordo com o entendimento desta Corte Superior, ante a ausência de previsão expressa no rol contido no art. 2º da Lei n. 8.072/1990, o delito de associação para o tráfico (art. 35 da Lei 11.343/2006) não se equipara aos hediondos" (HC n. 372.314/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 21/2/2017, DJe de 2/3/2017).
+À vista do exposto, conheço do agravo para dar parcial provimento ao recurso especial, tão somente para, nos termos acima deduzidos, afastar o caráter hediondo do delito de associação para o tráfico.
+Publique-se. Intimem-se.
+EMENTA
