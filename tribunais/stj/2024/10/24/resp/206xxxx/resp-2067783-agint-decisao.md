@@ -1,0 +1,10 @@
+DECISÃO
+Por meio da petição de fls. 1.224-1.236, a parte recorrente informou que o processo de revalidação do diploma em questão fora concluído, sendo o apostilamento emitido pela Fundação UNIRG no dia 16/05/2024, conforme determinado nos autos do Mandado de Segurança n. 0006009-93.2024.8.27.2722, em decisão proferida pelo Juízo da 1ª Vara da Fazenda Pública de Gurupi/TO, transitada em julgado no dia 05/06/2024.
+Instado, o Ministério Público do Estado do Tocantins manifestou-se pelo prosseguimento do feito (fls. 1.243-1.248).
+Compulsando os autos, constata-se que, no curso da presente demanda, tendo em vista o retardamento por parte da Fundação UNIRG no cumprimento da liminar que determinou o recebimento e processamento dos documentos do impetrante, associada à exigência da reitoria da certidão de trânsito em julgado do processo principal para entrega do apostilamento, fora impetrado novo mandamus, sobrevindo não apenas o trânsito em julgado da sentença que concedeu a segurança, mas o próprio apostilamento pleiteado.
+Essas circunstâncias evidenciam a perda superveniente do objeto da presente demanda, a ensejar a extinção do feito, sem resolução de mérito, consoante o disposto no art. 485, IV, do Código de Processo Civil.
+Com efeito, em que pesem as considerações formuladas pelo Parquet, no sentido de que recorreu exclusivamente das teses fixadas no Incidente de Assunção de Competência pelo Tribunal de Justiça estadual, verifica-se que, por meio da decisão de fls. 1.032-1.039, esta Corte Superior rejeitou a indicação do recurso epigrafado como representativo de controvérsia, passando-se à análise do caso concreto, que, conforme relatado, perdeu o objeto.
+Desse modo, evidencia-se a perda superveniente do interesse no provimento do presente recurso.
+Ante o exposto, extingo o presente feito, diante da perda superveniente do objeto, nos termos do art. 34, XI, do RISTJ, e determino a baixa dos autos à origem. Prejudicado o agravo interno, de fls. 1.141-1.161.
+Publique-se. Intimem-se.
+EMENTA
