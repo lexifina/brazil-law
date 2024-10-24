@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Paraná com fundamento no art. 105, III, da Constituição Federal.
+Na origem, o Estado do Paraná interpôs agravo de instrumento contra decisão que, em cumprimento individual de sentença coletiva decorrente do título judicial formado nos autos de n. 0003203-59.2008.8.16.0004, afastou a alegação de prescrição arguida pelo ente público.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ negou provimento ao agravo de instrumento do ente público, ficando consignado que nos períodos de suspensão do processo por conta de tentativas de composição entre as partes, não corre o prazo prescricional, restando o acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA COLETIVA QUE CONDENOU O ENTE PÚBLICO À RESTITUIÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA DESCONTADA A MAIOR DE SERVIDORES E INATIVOS. I. PRELIMINAR DE INOVAÇÃO RECURSAL E PRECLUSÃO. INOCORRÊNCIA. RAZÕES RECURSAIS ASSOCIADAS AOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO CONHECIDO. MÉRITO. II. PRESCRIÇÃO DA OBRIGAÇÃO. DE PAGAR QUANTIA CERTA. CASUÍSTICA: SUSPENSÃO DEFERIDA POR ORDEM JUDICIAL PELO PRAZO DE 60 DIAS COM A FINALIDADE EXPRESSA DE "TRATATIVAS DE ACORDO" APÓS EXPRESSO PEDIDO ENTRE AS PARTES DE SUSPENSÃO DO FEITO FORMULADO PELAS PARTES. IMPOSITIVA SUSPENSÃO DO PRAZO PRESCRICIONAL. SUSPENSÃO PREVISTA PELO ART. 34, CAPUT, DA LEI Nº 13.140/2015. CUMPRIMENTO DE SENTENÇA DA OBRIGAÇÃO DE PAGAR AJUIZADO ANTES DO DECURSO DO PRAZO DE CINCO ANOS, DEDUZIDO DA SUSPENSÃO JUDICIAL. PRESCRIÇÃO NÃO CONFIGURADA. ESCORREITA DECISÃO AGRAVADA QUE AFASTOU A PREJUDICIAL. LIMINAR REVOGADA. III. ALEGAÇÕES DE COMPORTAMENTO CONTRADITÓRIO E MÁ-FÉ PROCESSUAL. IMPROCEDÊNCIA. CONDUTA LEAL E PROBA DO DEVEDOR. RECURSO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto o presente recurso especial, apontando violação dos arts. 197 a 202 do Código Civil; arts. 523, 524, §§ 3º e 5º, 534, 927, III, e 1.022 do CPC/2015 e art. 1º do Decreto n. 20.910/32 e divergência jurisprudencial com o entendimento firmado nos Temas n. 877 e 880 do STJ.
+Foram apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+No tocante à suposta violação do art. 1.022 do CPC/2015, não assiste razão à parte recorrente.
+A análise do acórdão recorrido em conjunto com a sua decisão integrativa revela que o Tribunal de origem adotou fundamentação necessária e suficiente à solução integral da controvérsia que lhe foi devolvida, tendo apreciado, de modo coerente e satisfatório, as questões imprescindíveis ao deslinde do feito.
+Conclui-se, portanto, que o acórdão recorrido não padeceu de qualquer mácula capaz de ensejar a oposição de embargos de declaração.
+Sendo assim, a oposição dos embargos declaratórios teve a sua finalidade desvirtuada, porquanto caracterizou, apenas, a irresignação da parte embargante, ora recorrente, em relação à prestação jurisdicional contrária aos seus interesses.
+Conforme a pacífica jurisprudência do Superior Tribunal de Justiça, não ocorre a violação do art. 1.022 do CPC/2015, quando as questões discutidas nos autos são analisadas, mesmo que implicitamente, ou ainda afastadas de modo embasado pela Corte Julgadora originária, posto que a mera insatisfação da parte com o conteúdo decisório exarado não autoriza a oposição de embargos declaratórios.
+Ainda de acordo com o entendimento dominante desta Corte Superior, a violação supramencionada tampouco ocorre quando, suficientemente fundamentado o acórdão impugnado, o Tribunal de origem deixa de enfrentar e rebater, individualmente, cada um dos argumentos apresentados pelas partes, uma vez que não está obrigado a proceder dessa forma.
+Nesse sentido, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1022 DO CPC. INOCORRÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. DEFENSORIA PÚBLICA INTEGRANTE DE ENTE FEDERATIVO DIVERSO. CABIMENTO. RECURSO ESPECIAL REPETITIVO 1.108.013/RJ. CRITÉRIOS LEGAIS DE FIXAÇÃO DA VERBA HONORÁRIA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ.
+1. Constato que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. São devidos honorários advocatícios à Defensoria Pública quando a atuação se dá contra ente federativo diverso do qual é parte integrante (REsp 1.108.013/RJ, submetido à sistemática prevista no art. 543-C do CPC/1973). Cabível, portanto, a condenação do Estado de Pernambuco ao pagamento da verba honorária à Defensoria Pública da União.
+5. A jurisprudência STJ é no sentido de que, em regra, não é admitida a revisão de honorários advocatícios na via especial ante o óbice contido na Súmula 7/STJ, salvo se o valor fixado for exorbitante ou irrisório, excepcionalidade essa não configurada nos presentes autos.
+6. Recurso Especial parcialmente conhecido, apenas no tocante à violação do art. 1022 do CPC e, nessa parte, não provido.
+(REsp n. 1.833.594/PE, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/12/2019, DJe 12/5/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. CONEXÃO. JULGAMENTO CONJUNTO. REUNIÃO INVIABILIZADA. SÚMULA 235/STJ. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. AÇÃO RESCISÓRIA. ERRO DE FATO. PROVA FALSA. REEXAME DAS PREMISSAS ASSENTADAS PELO ACÓRDÃO ESTADUAL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO IMPROVIDO.
+1. A prevenção por conexão tem por finalidade evitar sejam proferidas decisões conflitantes, e, bem por isso, não haverá necessidade de reunião dos processos se um deles já tiver sido julgado Súmula n. 235/STJ.
+2. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+3. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo falar em negativa de prestação jurisdicional.
+4. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+5. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.594.694/MS, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/6/2020, DJe 12/6/2020.)
+A respeito da suspensão do prazo prescricional, o acórdão recorrido assim se manifestou (fls. 167-170):
+O trânsito em julgado do título judicial ocorreu em 08.04.2016 (cf. decisão de M. 858.1 dos autos NPU 0003203-59.2008.8.16.0004).
+O ajuizamento da execução deve ocorrer dentro do prazo prescricional quinquenal previsto no art. 1º do Decreto 20.910/32:
+(..)
+Nos termos do precedente qualificado, a juntada das fichas financeiras pelo ente público para a propositura da execução no tocante ao não é imprescindível cumprimento individual da obrigação de pagar.
+Conforme se extrai do julgado, a grande quantidade de substituídos e eventual demora do Estado do Paraná no fornecimento dos documentos solicitados pelo Sindicato não obstaram a fluência do prazo da obrigação de pagar.
+Assim, as controvérsias iniciais sobre a apresentação das fichas financeiras, as quais foram exibidas pelo Estado do Paraná em 12.03.2018 (cf. termo de 0008041-64.2016.8.16.0004), entrega do CD de M. 35.2 dos autos NPU posteriormente complementadas em 14.05.2019 (M. 46. 1 dos autos NPU 0008041-64.2016.8.16.0004 e Informação de M. 53.1 dos mesmos autos) não impediram a fluência do prazo prescricional para a propositura das execuções individuais da obrigação de pagar.
+Não obstante, o caso concreto reveste-se de particularidades que o distinguem da orientação do precedente vinculante (Tema 880/STJ). Explico.
+Em 30.09.2020, o Estado do Paraná peticionou narrando os esforços envidados para gerar um banco de dados para facilitar a elaboração de cálculos por parte da APP (M. 82.1). Na parte final, aduziu:
+(..)
+Em 06.10.2020, o Estado do Paraná requereu a suspensão da obrigação de fazer atrelada à ação coletiva pelo prazo de 60 dias (M. 84.1 dos autos NPU0008041-64.2016.8.16.0004):
+(..)
+Após concordância da APP (M. 85.1), a suspensão foi deferida pelo juízo a quo (M. 86.1 dos autos NPU 0008041-64.2016.8.16.0004), nos seguintes termos:
+(..)
+Não houve insurgência contra tal decisão.
+Portanto, atendendo a pedido das partes, houve por determinação judicial a suspensão do feito (NPU 0008041-64.2016.8.16.0004) pelo prazo de 60 dias, coma finalidade expressamente apontada de .tratativas de acordo entre as partes
+Por certo, o magistrado chegou a tal conclusão tendo em vista o conteúdo das petições juntadas nos Ms. 82.1, 84.1 e 85.1.
+Diante de tal circunstância fática e por imposição do princípio da confiança não é possível contabilizar o prazo de suspensão judicial do feito para fins defluência do prazo prescricional.
+Ademais, como o próprio Estado do Paraná expressamente requereu a suspensão do processo, fazendo alusão a tratativas com a APP (cf. petições de Ms.82.1 e 84.1), aplica-se também o disposto no art. 34, da Lei 13.140/2015caput,que, além da mediação de conflitos entre particulares, também dispõe sobre a autocomposição de conflitos no âmbito da Administração Pública:
+Portanto, a pretensão recursal de rever o posicionamento adotado no acórdão recorrido teria necessariamente que passar pela revisão de todo o conjunto fático/probatório apresentado, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias, sendo vedada nas instâncias extraordinárias.
+Logo, o recurso é inviável, assim porque chegar a entendimento diverso, in casu, demandaria revolvimento fático probatório inviável em sede de Recurso Especial ante o óbice da Súmula 7/STJ.
+No mesmo sentido as decisões monocráticas proferidas no REsp n. 2.124.842, Ministro Gurgel de Faria, DJe de 14/03/2024; REsp n. 2.120.425, Ministro Afrânio Vilela, DJe de 19/03/2024; REsp n. 2.129.829, Ministra Regina Helena Costa, DJe de 04/04/2024.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
