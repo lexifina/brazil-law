@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão de fls. 1.337-1.339 que, por equívoco, tornou sem efeito a decisão de fls. 1.042-1.048 e de fls. 1.190-1.193, julgou prejudicado o agravo interno de fls. 1.200-1.223 e determinou a restituição dos autos ao Tribunal de origem, a fim de que ficassem sobrestados até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema n. 1.169) e eventual retratação prevista nos arts. 1.040, II, e 1.041 do CPC.
+Razão acompanha a ora agravante, porquanto esta Corte Superior entende que, "não tendo o recurso ultrapassado o juízo de admissibilidade, não pode a matéria de mérito ser objeto de exame, mesmo que a controvérsia seja objeto de Recurso Repetitivo" (STJ, AgInt no REsp 1.814.371/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.9.2020).
+Dito de outra forma, "Se o recurso não ultrapassa o juízo de admissibilidade, não é necessário sobrestar o processo. Isso porque o tema de mérito, independentemente da repercussão geral ou de sua afetação como representativo da controvérsia, não será enfrentado." (AgInt no AREsp 2.000.334/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28.4.2022).
+Desta feita, chamo o feito à ordem, dou provimento ao agravo interno para tornar sem efeito a decisão de fls. 1.337-1.339, restabelecendo as decisões de fls. 1.042-1.048 e de fls. 1.190-1.193, devendo os autos retornarem conclusos para futura inclusão do feito em pauta, para julgamento do agravo interno de fls. 1.200-1.223.
+Publique-se. Intimem-se.
+EMENTA
