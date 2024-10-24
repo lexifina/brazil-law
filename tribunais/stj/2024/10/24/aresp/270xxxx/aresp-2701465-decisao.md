@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo manejado por Fátima Bitencourt de Freitas e Outros contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 163):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PÚBLICA. AÇÃO DE DECLARATÓRIA. CUMPRIMENTO DE SENTENÇA. REGIME DE PRECATÓRIO. HONORÁRIOS ADVOCATÍCIOS. SÃO DEVIDOS HONORÁRIOS NO CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA QUE ENSEJE EXPEDIÇÃO DE PRECATÓRIO, DESDE QUE TENHA SIDO IMPUGNADA E RESTE VENCEDORA A PARTE EXEQUENTE (CPC, ART. 85, § 7º). CASO CONCRETO EM QUE, POR INEXISTIR SUCUMBÊNCIA DA FAZENDA PÚBLICA NO ÂMBITO DO CUMPRIMENTO DE SENTENÇA, NÃO SÃO DEVIDOS HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO PROCURADOR DA PARTE EXEQUENTE. RECURSO DESPROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 229/234).
+Nas razões do recurso especial, a parte recorrente aponta, além de dissídio jurisprudencial, violação ao art. 85, §7º, do CPC. Sustenta o cabimento dos honorários no caso, sob o argumento de que "é cabível a fixação de honorários no cumprimento de sentença contra a Fazenda Pública que enseje a expedição de precatório para os casos em que houve a apresentação de impugnação/embargos, porquanto o disposto no artigo trata da positivação, no Diploma de Processo Civil, daquilo já previsto na Lei nº. 9.494 de 1997, modo a contemplar a causalidade e a remuneração devida ao profissional atuante na causa." (fl. 267)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação comporta acolhida.
+Com efeito, extrai-se do aresto recorrido a seguinte fundamentação (fls. 160/161):
+São devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que tenha sido impugnada e seja a parte exequente/impugnada a vencedora, conforme dispõe o art. 85, caput e § 7º, do Código de Processo Civil, in verbis:
+(..)
+No caso em análise, requerido o cumprimento de sentença ( evento 1, OUT3,  s. 36/37), a parte executada apresentou impugnação alegando erro de cálculo (evento 3, PROCJUDIC4, fls. 23/24 e 25).
+Todavia, a parte exequente concordou com a impugnação ( evento 3, PROCJUDIC4, fl. 34), encerrando a controvérsia sobre o valor devido.
+Nesse contexto, não se veri ca a sucumbência da Fazenda Pública apta a ensejar a  xação de honorários advocatícios em favor do procurador da parte exequente/impugnada no âmbito do presente cumprimento de sentença, razão pela qual vai mantida integralmente a decisão recorrida.
+Destarte, o entendimento adotado pelo Tribunal de origem diverge da jurisprudência desta Corte, firme no sentido de que "não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada. Ora, a lei processual concede à Fazenda Pública a benesse de não pagar honorários advocatícios nos casos em que ela não se opõem ao cumprimento da obrigação prevista no título executivo. A não ser que se queira ignorar o comando implícito da norma, a interpretação possível é que, oferecida resistência à execução da sentença, por parte da Fazenda, passam a ser devidos os honorários advocatícios, em respeito ao princípio da causalidade. Nesse sentido: AgInt no REsp n. 1.814.321/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/12/2019, DJe 19/12/2019 e REsp n. 1.691.843/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 11/2/2020, DJe 17/2/2020" (AgInt no REsp 1889664/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/12/2020, DJe 10/12/2020).
+Em reforço:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. ACÓRDÃO COMBATIDO. FUNDAMENTO AUTÔNOMO. IMPUGNAÇÃO AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. Inexiste negativa de prestação jurisdicional quando o Tribunal de origem enfrenta os vícios alegados nos embargos de declaração e emite pronunciamento fundamentado, ainda que contrário à pretensão da parte recorrente.
+2. Incidem as Súmulas 283 e 284 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido, sendo considerada deficiente a fundamentação do recurso.
+3. A dispensa da fixação de honorários advocatícios prevista no art. 85, § 7º, do CPC/2015 restringe-se às hipóteses em que a execução não tenha sido impugnada e cujo pagamento ocorra por precatório.
+4. Hipótese em que houve impugnação à execução, o que determina a necessidade de fixação de honorários advocatícios.
+5. Agravo interno desprovido.
+(AgInt no REsp 1909929/SE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/02/2022, DJe 24/02/2022)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS. HONORÁRIOS. FAZENDA PÚBLICA. CABIMENTO NO CASO DE IMPUGNAÇÃO EM CUMPRIMENTO DE SENTENÇA. RECURSO ESPECIAL SUBMETIDO AO RITO DOS REPETITIVOS. RESP 1.406.290/RS.
+1. Hipótese em que foi negado provimento ao recurso, uma vez que o Superior Tribunal de Justiça, ao julgar o Recurso Especial 1.406.296/RS, submetido ao rito do art. 543-C do Código de Processo Civil de 1973, firmou entendimento no sentido da impossibilidade de arbitramento de honorários quando se tratar de execuções não embargadas contra a Fazenda Pública iniciadas pela sistemática do pagamento de precatórios (art. 730 do CPC), com renúncia superveniente do excedente ao limite (art. 87 do ADCT) para efeito de enquadramento no procedimento de Requisição de Pequeno Valor RPV. Consoante o entendimento do STJ, não haverá necessidade de fixação de honorários advocatícios previstos no art. 85, § 7º, do CPC/2015 quando a execução não tiver sido impugnada e seu pagamento ocorrer por precatório. No entanto, oferecida resistência à execução da sentença, são devidos os honorários advocatícios, em atenção ao princípio da causalidade.
+2. O recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+3. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC. Os Embargos de Declaração não constituem instrumento adequado para a rediscussão da matéria de mérito.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt nos EDcl no REsp 1888056/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/11/2021, DJe 10/12/2021)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO. IMPUGNAÇÃO. PRECATÓRIO. HONORÁRIOS. CABIMENTO.
+1. A dispensa da fixação de honorários advocatícios prevista no art. 85, § 7º, do CPC/2015 restringe-se às hipóteses em que a execução não tenha sido impugnada e cujo pagamento ocorra por precatório.
+2. A contrario sensu, oferecida resistência à execução da sentença, são devidos os honorários advocatícios em atenção ao princípio da causalidade
+3. Agravo interno desprovido.
+(AgInt no REsp 1886309/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 17/02/2021)
+ANTE O EXPOSTO, conheco do agravo para dar provimento ao recurso especial, nos termos da fundamentação, e determino o retorno dos autos ao Tribunal de origem para que este fixe os honorários advocatícios, como entender de direito.
+Publique-se.
+EMENTA
