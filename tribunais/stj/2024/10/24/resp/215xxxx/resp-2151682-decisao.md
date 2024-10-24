@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por ADRIANA PAZ VAZQUEZ contra o acórdão assim ementado, in verbis:
+EMENTA: APELAÇÃO CÍVEL -PROCESSUAL CIVIL -EMBARGOS DE TERCEIRO -EXECUÇÃO FISCAL -PENHORA: PLANO DE PREVIDÊNCIA PRIVADA -BENEFICIÁRIA: LEGITIMIDADE -HONORÁRIOS ADVOCATÍCIOS: BASE DE CÁLCULO. 1. Comprovado nos autos que a filha é beneficiária de 100% (cem por cento) dos valores constantes do plano de previdência privada (VGBL) instituído pelo devedor/executado, seu pai, resta demonstrada a sua legitimidade para discutir integralmente o montante no feito executivo e não apenas parcela dele. 2. Equivocada a sentença quanto a base de cálculo dos honorários advocatícios e considerando que é identificável o proveito econômico obtido, é de se aplicar o critério objetivo previsto na legislação processual.
+Os embargos de declaração opostos foram rejeitados com aplicação de multa.
+No presente recurso especial o recorrente busca a exclusão da multa imposta na rejeição dos aclaratórios e o reconhecimento do direito de atualização monetária dos honorários advocatícios.
+É o relatório. Decido.
+Não houve omissão no acórdão recorrido.
+Foi explicitado que os honorários já incidiriam sobre o proveito econômico o que vai ocorrer com a apuração do mesmo e a partir de então é calculado os honorários advocatícios.
+Sobre o assunto confiram-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC INEXISTENTE. INCONFORMISMO. TÍTULO JUDICIAL ILÍQUIDO. REVERSÃO. SÚMULA N. 7/STJ. HONORÁRIOS SOBRE CONDENAÇÃO OU PROVEITO ECONÔMICO. JUROS DE MORA. INCIDÊNCIA DESDE O TRÂNSITO EM JULGADO. BIS IN IDEM. PRECEDENTES.
+1. Inexiste a alegada violação do art. 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, o momento de incidência dos juros de mora no cálculo da verba honorária fixada sobre o proveito econômico obtido, destacando que, em razão da iliquidez do título judicial, somente a partir da efetiva apuração do quantum debeatur e a consequente intimação para promover o pagamento do valor devido é que, eventualmente descumprido o limite temporal do cumprimento voluntário, estaria a parte em atraso para fins de incidência dos juros de mora.
+2. O inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+Precedentes.
+3. A alegação de afronta ao art. 397 do CC, ante a tese do recorrente de que o valor cobrado é líquido e, portanto, legitimaria a incidência dos juros de mora em razão de meros cálculos aritméticos, em contraposição à conclusão da origem de que o valor em apuração era ilíquido, demandaria reexame do acervo fático dos autos, o que esbarra no óbice da Súmula n. 7/STJ.
+4. Quanto ao termo inicial dos juros de mora, a pretensão recursal esbarra na jurisprudência do STJ, visto que a incidência da referida rubrica nos moldes traçados pela recorrente (a partir do trânsito em julgado da decisão que fixou a verba honorária) apenas encontra guarida quando fixado em quantia certa, pois, ainda que de forma reflexa, a correção monetária e os juros moratórios já incidem no cálculo da condenação ou do proveito econômico, de modo que a determinação de novos juros de mora sobre a parcela dos honorários configuraria bis in idem. Precedentes.
+Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 2.085.706/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS FIXADOS SOBRE O VALOR ATUALIZADO DA CAUSA. JUROS DE MORA. DESCABIMENTO.
+1. Não se admite, por configurar bis in idem, a incidência de juros de mora em honorários advocatícios fixados em percentual sobre o valor atualizado da condenação ou do débito executado, porquanto já computados na respectiva base de cálculo, sendo cabível o acréscimo apenas quando a verba honorária de sucumbência tiver sido fixada em quantia certa (AgInt no REsp n. 1.670.746/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 15/8/2017, DJe de 23/8/2017.). No mesmo sentido: AgInt no AREsp n. 1.990.748/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/4/2022, DJe de 7/4/2022; REsp n. 1.692.616/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2017, DJe de 26/11/2018; AgInt no REsp n. 1.567.898/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 28/8/2018, DJe de 18/9/2018.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.331.791/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9/10/2023, DJe de 11/10/2023.)
+Inexistiu a omissão e para afastar a multa seria necessário perscrutar a convic ção do magistrado que diante da inexistência de omissão entendeu pela punição guerreada. Incidência da súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
