@@ -1,0 +1,33 @@
+DECISÃO
+1. Trata-se de recurso extraordinário (fls. 2-13 do Expediente Avulso) interposto contra acórdão do Superior Tribunal de Justiça que manteve decisão que não conheceu do agravo em recurso especial.
+O acórdão recorrido recebeu a seguinte ementa (fl. 2.206):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO ATACOU, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL NA ORIGEM. APLICABILIDADE DA SÚMULA N. 182/STJ. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE AGRAVO NÃO PROVIDO.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Incidência do verbete n. 182 da Súmula desta Corte.
+2. São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos (ut, REsp n. 2.082.894/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/8/2023.)
+3. Não há previsão legal para realização de sustentação oral em sede de julgamento de agravo em recurso especial. Como se extrai do art. 7º, § 2º-B, III, da Lei 8.906/1994, a inovação introduzida no EOAB pela Lei 14.365/2022 garantiu ao advogado o direito de sustentação no agravo interno ou regimental em sede de recurso especial, mas nada dispôs sobre o julgamento de agravo regimental no agravo em recurso especial (ut, AgRg no AREsp n. 2.170.433/PA, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 10/10/2022)
+4. Agravo regimental não provido.
+Interposto novo agravo regimental, não foi conhecido, nos termos da seguinte ementa (fl. 2.241):
+PENAL E PROCESSO PENAL. 1. AGRAVO REGIMENTAL CONTRA DECISÃO COLEGIADA. ERRO GROSSEIRO. NÃO INCIDÊNCIA DA FUNGIBILIDADE RECURSAL. 2. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Somente é cabível o agravo regimental contra decisão monocrática do Relator, nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça. Dessa forma, a interposição de agravo regimental contra acórdão revela erro grosseiro, o que inviabiliza, inclusive, a aplicação do princípio da fungibilidade.
+2. Agravo regimental não conhecido.
+Opostos embargos de declaração, foram rejeitados, com determinação de certificação imediata de trânsito em julgado e baixa dos autos. Confira-se a ementa do referido julgado (fl. 2.265):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO EXPRESSA DE QUALQUER OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INCIDÊNCIA DA SÚMULA 284 DO STF. EMBARGOS REJEITADOS. DETERMINAÇÃO DE CERTIFICAÇÃO IMEDIATA DO TRÂNSITO EM JULGADO E BAIXA DOS AUTOS.
+1. Não apontando a embargante a existência de qualquer omissão, contradição ou obscuridade na decisão embargada, incide, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal (EDcl nos EDcl no AREsp 256.955/MG, Rel. Ministro MARCO BUZZI, DJe 24/09/2015).
+2. Embargos de declaração rejeitados, com determinação de certificação imediata do trânsito em julgado do feito e baixa dos autos.
+A parte recorrente alega que a discussão proposta no recurso extraordinário possui repercussão geral e que há contrariedade, no acórdão recorrido, ao artigo 133 da Constituição Federal.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. Nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o Supremo Tribunal Federal já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não conhecer do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+3. Por fim, registro que não é possível o conhecimento da petição sucessivamente apresentada, às fls. 15-26 do Expediente Avulso, contra a mesma decisão, em razão do princípio da unirrecorribilidade e da já consolidada preclusão consumativa, porquanto a parte recorrente exauriu sua faculdade recursal com a interposição do primeiro recurso, ora apreciado, o que torna inviável a análise da insurgência posteriormente manejada.
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO.
