@@ -1,0 +1,30 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado (fl. 1.226 ):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO QUE INADMITIU O RECURSO ESPECIAL. SÚMULA 83/STJ. APRESENTAÇÃO DE JULGADOS CONTEMPORÂNEOS. INEXISTÊNCIA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Incide o óbice da Súmula 182/STJ, uma vez que deixou de impugnar, no seu agravo em recurso especial, de forma suficiente, todos os óbices do não conhecimento.
+2. Esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos.
+3. Agravo regimental desprovido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que o julgado desta Corte careceria de fundamentação idônea, pois não teria analisado a tese defensiva, suscitada por meio de julgados, que demonstraria a insuficiência do conjunto probatório para sustentar a condenação criminal.
+Enfatiza que o acórdão recorrido "não esclareceu de que forma não restou impugnado o óbice da Súmula 83/STJ, já que o recorrente mencionou julgados que amparam o pleito, destacando os pontos que convergem com o caso em tela" (fl. 1.241).
+Requer, ao final, a admissão do recurso, bem como a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do julgado recorrido, que não conheceu do recurso dirigido a esta Corte Superior. Assim, fica inviabilizado o exame pretendido pela parte recorrente, relacionado às questões de mérito submetidas ao STJ e de óbices processuais pelo STJ, como se observa do seguinte trecho do referido julgado (fl . 1.228):
+Como se afirmou quando do julgamento monocrático, o recurso especial não foi admitido considerando: Súmula 283/STF, Súmula 7/STJ, Súmula 83/STJ (art. 28, § 2º, da Lei n.
+11.343/2006) e Súmula 83/STJ (arts. 14 e 16 da Lei n. 10.826/03).
+Por outro lado, o agravante não refutou - em sede de agravo em recurso especial - adequadamente: Súmula 83/STJ (arts. 14 e 16 da Lei n. 10.826/03).
+Esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016, grifou-se), o que não ocorreu no caso destes autos.
+Com isso, é inafastável a aplicação do impeditivo da Súmula 182 deste Superior Tribunal ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"). Nesse sentido, confiram-se os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 27/8/2014.
+Anote-se, ainda, que o Código de Processo Civil de 2015, em seu art. 932, reafirmou a orientação do STJ, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Assim, tem-se que "a jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada" (AgInt no REsp 1.600.403/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/8/2016, DJe 31/8/2016).
+Acrescenta-se que, em julgamento do EAREsp 746.775 (DJe 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
