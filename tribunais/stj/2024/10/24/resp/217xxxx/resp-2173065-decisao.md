@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Rio de Janeiro, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça local no Agravo de Execução Penal n. 5015105-76.2023.8.19.0500 (fls. 45/48):
+Agravo previsto na Lei 7.210/84. Inconformismo da defesa com a decisão do juízo da VEP que determinou a regressão cautelar para o regime semiaberto, pelo cometimento, em tese, de falta grave consistente em evasão caracterizada pelo não comparecimento ao patronato. Requer a defesa a reforma da decisão para manter o agravante em regime aberto. Parecer da Procuradoria de Justiça no sentido do conhecimento e não provimento do recurso. 1. A nossa Constituição consagrou, a nível de dogma, o princípio da legalidade ao lado do devido processo legal. Em decorrência disso, qualquer punição, inclusive em sede de execução da pena, deve estar expressamente prevista em lei e só pode ser aplicada com estrita observância ao due process of law. 3. A Lei 7.210/84 não contempla a regressão cautelar do regime prisional e esta é fruto de construção doutrinária e jurisprudencial, não tendo assim fincas na legislação pertinente. 4. Nem mesmo o poder cautelar genérico pode suplantar o princípio da legalidade, pois os fins não justificam os meios. 5. Uma vez cumprido o mandado de prisão, o apenado deve ser imediatamente apresentado ao Juiz da Execução, sendo-lhe dada oportunidade de se justificar. 6. Recurso provido para cassar a decisão que deferiu a regressão de regime, a fim de que se observe o devido processo legal.
+No presente recurso, aponta o recorrente a violação do art. 118, I, da Lei de Execução Penal.
+Assevera o recorrente que o v. Acórdão recorrido negou vigência e contrariou expressamente a norma jurídica ora destacada, isto porque entendeu por bem cassar a decisão que deferiu a regressão de regime para o semiaberto, reestabelecendo o regime aberto para o apenado, não obstante ele ter voltado a praticar crime enquanto cumpria pena neste regime mais brando (fl. 66).
+Ao final da peça recursal, espera o recorrente seja admitido o presente recurso especial pela alínea "a" do permissivo constitucional, sendo conhecido e provido pelo Egrégio Superior Tribunal de Justiça, reformando-se o v. Acórdão para restabelecer a decisão do Juízo de primeiro grau, com a regressão cautelar do apenado do regime aberto para o semiaberto (fl. 72).
+Decorrido o prazo sem o oferecimento de contrarrazões, o recurso especial foi admitido na origem (fls. 79/84).
+É o relatório.
+A análise do presente recurso está prejudicada.
+Conforme consta da decisão de fls. 103/115, declarada extinta a punibilidade do recorrido, medi ante a concessão de indulto (Decreto n. 11.846/2023), a presente demanda perdeu o seu objeto.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DO ART. 118, I, DA LEP. FALTA GRAVE. PLEITO DE REGRESSÃO DE REGIME PRISIONAL. SUPERVENIENTE PERDA DO OBJETO RECURSAL. EXTINÇÃO DA PUNIBILIDADE DECLARADA NA ORIGEM.
+Recurso especial não conhecido.
