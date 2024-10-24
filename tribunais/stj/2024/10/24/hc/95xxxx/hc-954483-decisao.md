@@ -1,0 +1,17 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Vitor Hugo Santos - condenado por furto privilegiado a 8 meses de reclusão, em regime inicial aberto, substituída pela pena restritiva de direitos de prestação de serviços à comunidade, e a 6 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 11/23), não comporta processamento.
+Com efeito, busca a impetração abrandar o regime inicial e redimensionar a pena imposta - na condenação proferida na Ação Penal n. 1509830-08.2023.8.26.0228 (fls. 59/66 - da 16ª Vara Central Criminal da comarca de São Paulo) -, com a alteração da fração de diminuição da pena de 1/3 para 2/3:
+a) do furto privilegiado, sustentando a pronta recuperação do bem, a tentativa e a ausência de fundamentação para mitigar o benefício (fl. 6); e
+b) da tentativa, aduzindo que, pelo o que se colige dos autos, o crime não chegou nem perto da consumação. Em juízo, a própria testemunha policial afirmou que ouviu pessoas gritando "pega ladrão" e que o paciente fora detido em menos de um minuto e apenas alguns metros à frente. Logo após a vítima, que também perseguia o paciente, chegou e recuperou imediatamente o bem (fl. 6).
+Sem pedido liminar.
+Entretanto, não deve ser processada a impetração, pois o acórdão hostilizado foi publicado em data recente, estando em curso o lapso para interposição de recursos, o que impede o processamento do writ (AgRg no HC n. 873.533/ES, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe 15/3/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois:
+a) a fundamentação para utilização da fração de 1/3 para causa de diminuição da pena do furto privilegiado está de acordo com o entendimento desta Corte Superior (AgRg no HC n. 726.958/ SC, Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/5/2022, DJe 31/5/2022). Ademais, a adição de fundamentação pela Corte estadual em recurso exclusivo da defesa, para manter a fração ora hostilizada, não configura reformatio in pejus, mas decorre do efeito devolutivo do recurso (AgRg no HC n. 626.935/DF, Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/12/2021, DJe 17/12/2021). Confira-se o fundamento do Tribunal no ponto (fls. 21/22):
+Apesar de ser tecnicamente primário, observa-se que apelante responde por outros dois delitos de furto (autos nº 1501347-84.2022.8.26.0628 e 1501468-15.2022.8.26.0628 fls. 26) e ostenta dois registros por atos infracionais (1500086-84.2022.8.26.0628 e 1500413-29.2022.8.26.0628 fls. 25), ambos por fato equivalente à prática do crime ora sub judice, de onde se denota ter personalidade inclinada à prática delitiva.
+Tampouco pode se dizer que possui pequeno valor a res furtiva, eis que o aparelho celular da vítima foi avaliado em R$ 1.000 (mil reais), conforme auto de avaliação de fls. 18. Trata-se ainda de bem cuja subtração tem inegável impacto na vida da vítima atualmente.
+b) a pretensão de alteração da fração da causa de diminuição de pena da tentativa nem sequer foi analisada pela Corte estadual no acórdão ora hostilizado, o que configura prestação jurisdicional em indevida supressão de instância.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS IMPETRADO NO PRAZO RECURSAL NA CAUSA PRINCIPAL. INADMISSIBILIDADE. FURTO PRIVILEGIADO. DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
