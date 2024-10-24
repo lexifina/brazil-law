@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de pedido de extensão no habeas corpus, apresentado em favor de DAYVID SAMUEL RODRIGUES DE SOUZA, em que se pretende a extensão da ordem concedida neste writ.
+A defesa alega, em síntese, o preenchimento dos requisitos objetivos e subjetivos necessários à aplicação do art. 580 do CPP.
+Requer, liminar e definitivamente, o deferimento da ordem para que seja revogada a prisão preventiva decretada em seu desfavor.
+O Ministério Público Federal opinou pelo deferimento da extensão dos efeitos da decisão ao corréu DAYVID, para substituir a prisão preventiva por medidas cautelares diversas.
+É o relatório.
+Decido.
+Dispõe o art. 580 do CPP que "No caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+A jurisprudência desta corte é remansosa no sentido de que "O deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado, a teor do art. 580 do Código de Processo Penal, o que não se observa no caso, ou seja, frise-se que a extensão do julgado referente a um réu não se opera automaticamente aos demais. Urge reunir dois requisitos: objetivo (identidade fática) e subjetivo (circunstâncias pessoais) - (AgRg no HC n. 780.474/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/12/2022)" (AgRg no RHC 180888/RS, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, j. em 28/08/2023, DJe 31/8/2023; grifo acrescido).
+São duas, portanto, "as hipóteses de ordem objetiva que não legitimam a invocação do art. 580 do Código de Processo Penal: i) quando o agente que postular a extensão não participar da mesma relação jurídica processual daquele que foi beneficiado por decisão judicial da Corte, o que, estreme de dúvidas, evidencia a ilegitimidade do requerente; e ii) quando se invoca extensão de decisão para outros processos que não foram objeto de análise pela Corte, o que denuncia engenhosa fórmula de transcendência dos motivos determinantes com o propósito de promover análise per saltum do título processual" adotado como paradigma, expondo a risco o sistema de competências constitucionalmente estabelecido (RE 1313494 Extn., relator Ministro DIAS TOFFOLI, Primeira Turma, j. em 16/5/2022, DJe 7/6/2022).
+No presente feito, observa-se, quanto ao requisito objetivo, que, conforme narrado na denúncia, a prisão do paciente e do corréu se deu na seguintes circunstâncias (e-STJ fl. 121):
+No caso em tela, periculum libertatis decorre da verificação de os agentes, em tese, terem praticado os delitos de associação criminosa, fruto e receptação, sendo certo que confirmaram que já haviam utilizado o mesmo anteriormente. modus operandi.
+Ademais, a despeito de as FAC e CAC dos autuados demonstrarem suas primariedades, Id 10218697644, verifica-se que os delitos foram perpetrados com organização entre, pelo menos 04 (quatro) pessoas e premeditação, sustentando os requisitos objetivos do artigo 313, incisos II, do CPP, apto para ensejar a conversão da prisão em flagrante.
+Percebe-se, portanto, a existência de unidade de desígnios típica do concurso subjetivo, sem que se fale da possibilidade de se separar o papel exercido por cada um dos agentes, a indicar o preenchimento do requisito objetivo.
+De outro lado, quando às condições subjetivas, há de se ter por presente o teor da decisão proferida no habeas corpus, que concedeu a ordem em razão de que "o paciente, primário (e-STJ Fl.61), encontra-se encarcerado em razão da suposta prática de delitos cometidos sem violência ou grave ameaça, não se apontando, nos autos, elementos que indiquem, com segurança, o "periculum libertatis" a ser acautelado".
+No presente feito, observa-se ser o paciente também primário, como se afere da decisão que converteu o flagrante em preventiva que instrui os autos.
+Destarte, em se tratando de hipótese onde se imputa a prática dos mesmos delitos, há de se considerar preenchidos os requisitos previstos no art. 580 do CPP a fim de se estender a ordem concedida no HC n. 917.702/MG em favor do paciente deste writ como providência de isonomia.
+Ante o exposto, defiro o habeas corpus para revogar a prisão preventiva decretada em desfavor do interessado DAYVID SAMUEL RODRIGUES DE SOUZA, ficando o Juízo singular autorizado a fixar as medidas cautelares diversas da prisão que entender necessárias, nos termos dos arts. 282 e 319 do CPP.
+O paciente deverá ser imediatamente posto em liberdade, salvo se outro motivo justificar sua prisão.
+Comunique-se com urgência o Tribun al de origem e o Juízo singular para efeito de expedição de alvará de soltura.
+Após, dê-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
