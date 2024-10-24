@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por MUNICÍPIO DO RIO DE JANEIRO contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Na origem, o contribuinte ajuizou ação judicial, com valor da causa atribuído em R$ 1.257.391,76 (um milhão, duzentos e cinquenta e sete mil, trezentos e noventa e um reais e setenta e seis centavos), em junho de 2019, tendo como objetivo impugnar lançamento complementar do IPTU dos exercícios de 1998 e 1999, por haver previsão na legislação municipal de redução da cobrança em razão de desmembramento imobiliário.
+Na sentença, julgou-se procedente a demanda. A apelação interposta pela municipalidade foi improvida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO. O referido acórdão foi assim ementado, in verbis:
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. IPTU. IMPUGNAÇÃO AO LANÇAMENTO COMPLEMENTAR DE IPTU. CONTROVÉRSIA ACERCA DA APLICAÇÃO DO ART. 63, PARÁGRAFO 8º DA LEI MUNICIPAL 691/84.
+1. Norma que prevê incentivo fiscal para o loteador, desde que execute a urbanização do loteamento, às suas custas, prevendo desconto de no valor do imposto para o loteador/proprietário do terreno que investiu na urbanização e infraestrutura da região.
+2. Benefício que somente se aplica aos lotes que tenham origem direta em loteamento ou desmembramento da maior porção (gleba loteanda).
+3. Prova pericial que concluiu, a partir de uma análise histórica dos projetos, que o PAL 43.810, o qual se discute o benefício do desconto de IPTU, não se constitui em um novo projeto de loteamento em sua essência, mas decorre de remembramentos e desmembramentos do PAL originário da gleba D (gleba "mãe"), podendo ser considerados como originários do loteamento 34.115 que desmembrou a gleba D.
+4. Deve ser concedido ao contribuinte o benefício previsto no §8º do art. 63 do Código Tributário Municipal, declarando-se a nulidade dos lançamentos complementares realizados em razão da não aplicação do dispositivo citado.
+5. Sentença de procedência que não merece reforma.
+6. NEGATIVA DE PROVIMENTO AO RECURSO.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, MUNICÍPIO DO RIO DE JANEIRO interpôs recurso especial, apontando violação dos arts. 489, § 1º, VI, e 1.022, II, parágrafo único, II, do CPC/2015.
+Sustenta, em síntese, que o Tribunal de origem foi omisso ao não enfrentar questão jurídica relevante, qual seja, a alegação de declaração de inconstitucionalidade do art. 63, §8º da Lei Municipal n. 691/1984, em outro processo, pelo órgão especial do Tribunal a quo.
+Adiante, aponta ofensa ao art. 927, V, do CPC/2015, argumentando, em síntese, que o Tribunal de origem desrespeito precedente do seu órgão especial.
+Por fim, alega desrespeito ao art. 111 do CTN, justificando, em suma, que foi realizada interpretação extensiva de benefício de isenção.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, impõe-se o seu conhecimento, passando ao exame do recurso especial interposto.
+Assiste razão ao recorrente, no que toca à alegada violação ao art. 1.022, II, do CPC/2015.
+De fato, o recorrente apresentou questão jurídica relevante, qual seja, a ausência de manifestação sobre o julgamento da arguição de inconstitucionalidade nº 0126014-85.2004.8.19.0001 pelo Órgão Especial do TJRJ, que tratou do benefício fiscal instituído pelo §8º, art. 63, da Lei Municipal n. 691/1984. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+No mesmo sentido:
+EMBARGOS DE DECLARAÇÃO SUBMETIDOS AO ENUNCIADO ADMINISTRATIVO 3/STJ. RECEBIMENTO COMO AGRAVO INTERNO. DIREITO AMBIENTAL. AÇÃO ANULATÓRIA DE AUTO DE INFRAÇÃO. OMISSÃO RELEVANTE NÃO SANADA NA ORIGEM. PROVIMENTO DO RECURSO ESPECIAL QUANTO À VIOLAÇÃO AO ART. 1.022 DO CPC/2015.
+1. Sobre os presentes embargos de declaração, a análise de suas razões evidencia, de forma clara e inequívoca, que o seu objetivo não é o de sanar erro material, omissão, obscuridade ou contradição, mas sim o de buscar a reforma da decisão embargada. Assim, recebo-o como agravo interno, nos termos do art. 1.024, § 3º, do CPC/2015.
+2. É de ser mantida a decisão agravada, tendo em vista que a Corte de origem, mesmo com a oposição de embargos de declaração, deixou de se manifestar sobre o tema da responsabilidade subjetiva para fins de aplicação de multa por infração administrativa ambiental. Como se trata de vício cuja correção tem o potencial de alterar o resultado da demanda, impõe-se a anulação do acórdão dos embargos de declaração para que novo julgamento dos aclaratórios seja realizado, de forma seja apreciada a alegação em questão.
+3. Embargos recebidos como agravo interno e, nesta extensão, não provido.
+(EDcl no AREsp 1486730/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/03/2020, DJe 09/03/2020.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. DECISÃO QUE DEU PROVIMENTO PARCIAL AO APELO RARO POR RECONHECER OMISSÕES NO ACÓRDÃO, NÃO SUPRIDAS MESMO APÓS A OPOSIÇÃO DE ACLARATÓRIOS. CABIMENTO, DENTRE OUTRAS PROVIDÊNCIAS, DE SE APRECIAR A ALEGADA NECESSIDADE DE ATUALIZAÇÃO MONETÁRIA DA PROPOSTA ADMINISTRATIVA, PARA FINS DE COMPARAÇÃO AO VALOR INDENIZATÓRIO FINAL AFERIDO, E, A PARTIR DAÍ, SE DETERMINAR A SUCUMBÊNCIA E A PARAMETRIZAÇÃO DOS JUROS COMPENSATÓRIOS. MATÉRIA RELEVANTE AO DESLINDE DA CAUSA, CUJA APRECIAÇÃO, PODERÁ EM TESE, ALTERAR O RESULTADO DO JULGAMENTO. INEXISTÊNCIA DE QUALQUER APRECIAÇÃO OUTRA, DADA A PREJUDICIALIDADE DESTA MATÉRIA. RECONHECIMENTO DE NULIDADE QUE NÃO IMPLICA A INCORREÇÃO DO ACÓRDÃO LOCAL, APENAS DO VÍCIO DECLARADO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Ocorre a violação do art. 535 do CPC/1973, quando a parte opõe perante a Corte local, Embargos de Declaração alegando omissão relevante e capaz de influenciar o resultado final do julgamento e, tal argumentação não é apreciada.
+2. O reconhecimento da nulidade de acórdão local, por violação do art. 535 do CPC/1973, nesta Instância Superior demanda apenas a objetiva constatação de um dos vícios previstos na legislação específica; análise realizada de maneira prejudicial às demais alegação e, que, por óbvio, não implica a análise da correção do acórdão recorrido.
+3. Agravo Interno do Particular a que se nega provimento.
+(AgInt no REsp 1478694/SE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/09/2018, DJe 27/09/2018.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
+EMENTA
