@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE SANTA TEREZINHA DE GOIÁS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE CONVERSÃO DELICENÇA-PRÊMIO NÃO GOZADA EM PECÚNIA. HONORÁRIOS. PRINCÍPIO DA CAUSALIDADE. HONORÁRIOS EMLIQUIDAÇÃO DA SENTENÇA. ALTERAÇÃO DOSCONSECTÁRIO EX OFFICIO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz afronta ao art. 86 do CPC, no que concerne à necessidade de aplicação proporcional da distribuição dos ônus sucumbenciais, tendo em vista que o próprio acórdão recorrido reconheceu a parcial procedência dos pedidos, não sendo possível a aplicação do principio da causalidade, cabível apenas quando não se pode auferir de forma objetiva os pedidos acolhidos e rejeitados, trazendo a seguinte argumentação:
+A sentença na origem julgou parcialmente procedente o pedido a uma licença prêmio não gozada - no contexto de um pedido de condenação em duas licenças-, indeferindo o pagamento em dobro, bem como indeferiu o pagamento de licença proporcional em dobro, ou seja, das duas licenças pleiteadas em dobro, a sentença reconheceu somente uma simples, sem pagamento em dobro, porém, condenou somente o município nos ônus sucumbenciais.
+Em recurso de apelação, o acórdão, mesmo reconhecendo a sucumbência reciproca, entendeu por aplicar o princípio da casualidade, mantendo integralmente os ônus sucumbenciais com o Recorrente, negando vigência ao art. 86, caput do CPC. Segundo o CPC:  ..  - fl. 194.
+Com a devida vênia, o próprio acórdão reconheceu a sucumbência reciproca no caso em questão, porém, aplicou o principio da causalidade em hipótese que não cabe tal aplicação. O princípio da causalidade é utilizado subsidiariamente as regras de distribuição de ônus sucumbências previstas de forma expressa na legislação processual, ou seja, somente quando não se pode auferir de forma objetiva os pedidos acolhidos e rejeitados, se aplica o princípio da causalidade.
+No presente caso, o próprio acordão reconheceu a sucumbência reciproca, contudo, deixou de aplicar o caput do art. 86 do CPC, não distribuindo os ônus de acordo com a proporcionalidade dos pedidos acolhidos, decidindo contrário ao entendimento dominante do STJ:  ..  - fl. 195.
+Conforme já argumentado, o próprio acórdão recorrido reconheceu a parcial procedência dos pedidos, de modo que a reciprocidade na conclusão de colhimento dos pleitos chama a aplicação proporcional da distribuição dos ônus sucumbenciais, nos termos do caput, art. 86 do CPC e da jurisprudência do STJ:  ..  - fl. 197.
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+No que tange à imputação dos honorários ao apelado ou com relação à distribuição equitativa dos ônus sucumbenciais, tenho que razão não assiste ao ente municipal.
+No presente caso, impõe-se seja observado o princípio da causalidade, de forma a ser garantida a correta imputação dos honorários sucumbenciais, porquanto resta evidente que o ente municipal deu causa à instauração da demanda.
+Dessarte, não obstante a parcial procedência do pedido, não foi a parte autora quem deu causa à propositura da demanda, de modo que a sucumbência deve ser suportada em sua integralidade pelo ente municipal (fls. 179-180).
+Aplicável, portanto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda enseja o revolvimento de matéria eminentemente fática.
+Nesse sentido: "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7 do STJ". (AgInt no AREsp 969.868/MT, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.848.602/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/8/2020; AgInt no AREsp 1.571.133/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/5/2020; AgInt no REsp 1.336.000/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/2/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
