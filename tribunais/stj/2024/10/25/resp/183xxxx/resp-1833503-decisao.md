@@ -1,0 +1,40 @@
+DECISÃO
+Em análise, recurso especial interposto pela UNIÃO contra acórdão assim ementado:
+AÇÃO CIVIL PÚBLICA. EXTRAÇÃO MINERAL. LICENÇA. REGULAR PEDIDO DE RENOVAÇÃO. INEXISTÊNCIA DE ANÁLISE. PRORROGAÇÃO. PORTARIA Nº 144/2007.
+1. Durante o período questionado, a situação jurídica do pedido de renovação de guia de utilização era regulada pela redação original do artigo 21 da Portaria 144/2007, do DNPM, que permitia a continuidade da guia de utilização até decisão administrativa, a qual não houve, conforme consta de informação do próprio procedimento administrativo de origem.
+2. Entendimento em sentido diverso levaria à responsabilização da parte ré por fato imputável à União, decorrente da omissão desta diante de pedido de renovação regularmente formulado.
+Os embargos de declaração foram rejeitados nos seguintes termos:
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE.
+Os embargos de declaração constituem recurso interposto perante o magistrado ou colegiado prolator da decisão impugnada, com vistas à supressão de omissão, contradição, obscuridade ou erro material no texto que possa dificultar a exata compreensão da manifestação judicial. E mesmo quando opostos com o objetivo de prequestionar matéria a ser versada em provável recurso extraordinário ou especial, devem atender aos pressupostos delineados no artigo 1.022 do CPC, pois não se prestam, por si só, para forçar o ingresso na instância superior, decorrendo, sua importância, justamente do conteúdo integrador da sentença ou do aresto impugnado. Com efeito, não se revelam meio hábil ao reexame da causa ou modificação do julgado no seu mérito, pois opostos quando já encerrado o ofício jurisdicional naquela instância.
+Nas suas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente alega violação ao art. 1.022, II, do CPC/2015, assim ao art. 22, § 2º, do Decreto-Lei 227/1967.
+O Ministério Público Federal opinou pelo não conhecimento do recurso.
+É o relatório.
+Passo a decidir.
+De início, não se reconhece a violação ao art. 1.022, II, do CPC/2015, uma vez que o Tribunal de origem dirimiu as questões necessárias à solução da lide de forma suficientemente fundamentada. Destaque-se que "não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (AgInt no REsp 2.072.333/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 07/12/2023).
+Veja que, ao negar provimento ao recurso de apelação, o Tribunal de origem consignou o seguinte:
+Uma vez que, no que tange ao mérito, concordo totalmente com o entendimento adotado pelo Juízo a quo quando da prolação da sentença combatida, peço vênia e integro, nas razões de decidir do apelo, a fundamentação constante no referido decisum, assim vertida:
+ ..
+No mérito, a causa reside na análise da legalidade ou não da lavra de basalto realizada pela parte ré no período de 2010 a 2012.
+Para o deslinde desta questão, mostra-se necessária a análise dos efeitos e da extensão do pedido de renovação de guia de utilização, realizado pela ré em 20/11/2008 perante do Departamento Nacional de Produção Mineral.
+Aqui, merece destaque que há o reconhecimento, pela própria parte autora, de que o pedido de expedição de nova guia de utilização observou as exigências administrativas necessárias. Tanto é assim que concluiu pela regularidade da lavra ocorrida em 2009. Conclui-se que o pedido administrativo da ré, em si, reveste-se de legalidade, de forma que a questão, como dito, se refere apenas à extensão dos efeitos jurídicos deste pedido.
+É preciso verificar se este requerimento administrativo deduzido pela ré projetou seus efeitos somente para o ano de 2009 ou se ultrapassou este marco temporal.
+A União, tanto na seara administrativa (Parecer nº 29/2014, de fl. 476 do Procedimento Administrativo do arquivo PROCADM6, do evento 01) quanto na causa de pedir da demanda, sustenta que o pedido feito em 20/11/2008 teve o condão de prorrogar, com fundamento no artigo 21, da Portaria nº 144/2007 do DNPM a guia de utilização concedida em 30/01/2008 pelo período de um ano, ou seja, até o final do ano de 2009. A lavra a partir de então seria ilegal.
+Por outro lado, a ré indica que o pedido de renovação, com base no mesmo dispositivo, prorroga a guia de utilização até a análise do pedido administrativo, o qual ainda não ocorreu. Logo, sua a atividade está regular até o presente momento.
+ ..
+Assim sendo, no período de 2010 a 2012, a situação jurídica do pedido de renovação de guia de utilização era regulada pela redação original do artigo 21, da Portaria 144/2007, do DNPM, que permitia a continuidade da guia de utilização até decisão administrativa, a qual não houve, conforme consta de informação do próprio procedimento administrativo de origem, assim como informado pela parte autora na exordial.
+ ..
+Por consequência, não deve prevalecer a decisão de irregularidade da atividade da ré sob este argumento, ocorrida por ocasião do Parecer nº 29/2014 - DIFIS/SFPAM/DNPM-PR/RMB 9fl. 476 e seguintes do procedimento administrativo - PROCADM6, do evento 01).
+Aliás, entendimento contrário levaria à responsabilização da parte ré por fato imputável à União, decorrente da omissão desta diante de pedido formulado em 20/11/2008 que, saliente-se, passados quase 07 (sete) anos ainda não foi analisado. Não conta dos autos do procedimento administrativo qualquer justificativa para esta demora. Inviável onerar o administrado pela ineficiência da Administração Pública.
+Consigne-se que o novo pedido de guia de utilização, deduzido pela parte ré em 03/12/2012 não pode ser interpretado como reconhecimento, por parte dela, de que sua situação até então estaria irregular. Pelo contrário, presume- se apenas sua preocupação e diligência em obter uma manifestação administrativa expressa sobre a questão.
+ ..
+Efetivamente, o réu adotou as providências cabíveis para a renovação de sua guia de utilização em tempo hábil, tendo o intervalo de tempo entre a vigência de uma guia de autorização e a de outra decorrido tão somente de atraso da Administração na análise do pedido, não podendo, de tal desídia, decorrer prejuízo ao administrado (fls. 1.200-1.203).
+Além do mais, em relação ao art. 22, § 2º, do Código de Minas, impende salientar que, nos termos da Súmula 280/STF "por ofensa a direito local não cabe recurso extraordinário".
+Outrossim, apesar de constar nas razões do recurso especial a indicação de ofensa a dispositivo legal, é possível verificar que parte da análise da controvérsia foi dirimida com base na Portaria 144/2007 do DNPM, Portaria 541/2014 do DNPM e Portaria 201/2015 do DNPM, atos normativos que não se equiparam à lei federal. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CREDENCIAMENTO JUNTO AO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO (MAPA). EXIGÊNCIA DE CERTIDÃO NEGATIVA DE DÉBITO. ARTS. 489, § 1º, E 1022 DO CPC/2015. OMISSÃO NÃO CARACTERIZADA. INCABÍVEL A ALEGAÇÃO DE OFENSA À SÚMULA. SÚMULA 518/STJ. PRINCÍPIO DA LEGALIDADE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI TIDO POR VIOLADO. SÚMULA 284/STF. ACÓRDÃO DO TRIBUNAL DE ORIGEM AMPARADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 126/STJ. CONTROVÉRSIA QUE DEMANDA A INTERPRETAÇÃO DE INSTRUÇÃO NORMATIVA. INVIABILIDADE.
+ ..
+5. O exame da controvérsia demanda a análise da IN n. 54/2011 do MAPA, ato normativo que não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+6. Agravo interno não provido (AgInt no REsp n. 1.646.468/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 20/4/2020, DJe de 24/4/2020).
+Por fim, conforme se vê, decidir de forma contrária - para reconhecer suposta ilegalidade da extração mineral pela parte recorrida -, demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego -lhe provimento.
+Intimem-se.
+EMENTA
