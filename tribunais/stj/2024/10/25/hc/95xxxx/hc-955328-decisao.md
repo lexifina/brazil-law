@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de Joao Miguel Duarte Franca - condenado como incurso no crime de furto -, em que se aponta como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios (Apelação Criminal n. 07242467220228070003), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 4ª Vara Criminal de Ceilândia/DF, ao argumento da incidência da causa geral de diminuição de pena do arrependimento posterior, na medida em que houve a voluntariedade da devolução do bem subtraído, antes do recebimento da denúncia.
+Ocorre que, além de a via eleita ter sido indevidamente utilizada como uma espécie de segunda apelação, o que é inadmissível no âmbito de uma Corte de Precedentes, a impetração foi ajuizada ainda no lapso para recurso contra o acórdão da apelação, o que implica no não cabimento do writ.
+Ademais, a incidência do art. 16 do Código Penal exige a reparação do dano ou a restituição da coisa, até o recebimento da denúncia, por ato voluntário do agente. Nesse contexto, tendo o Tribunal a quo, soberano na análise dos fatos e das provas, concluído que não houve  ..  voluntariedade do ato de devolução do bem (fl. 366), a inversão do julgado, tal qual pretende a impetrante, demandaria revisão de todo o material cognitivo produzido durante a instrução criminal, o que é inviável na via eleita, dado o rito célere e de cognição sumária.
+No mesmo sentido: AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024; e AgRg no AgRg no RHC n. 193.206/SE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/6/2024, DJe de 19/6/2024.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO. UTILIZAÇÃO DA VIA ELEITA COMO FORMA DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. AJUIZAMENTO DA IMPETRAÇÃO AINDA NO PRAZO DE RECURSO CONTRA O ACÓRDÃO DA APELAÇÃO. INADMISSIBILIDADE. MINORANTE. ARREPENDIMENTO POSTERIOR. VOLUNTARIEDADE. NECESSIDADE DE REVISÃO DE FATOS E PROVAS.
+Inicial indeferida liminarmente.
