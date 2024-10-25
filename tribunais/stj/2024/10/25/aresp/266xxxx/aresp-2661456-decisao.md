@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo MUNICÍPIO DE GOIÂNIA, com fundamento na incidência  da Súmula  7/STJ.
+Em suas razões recursais, o agravante sustenta que o aresto violou a legislação federal, não havendo necessidade de reexame de prova, e, por conseguinte, não incidindo o óbice da Súmula 7/STJ.
+Destaca, ademais, que "não há necessidade em incursão no contexto fático-probatório para a análise do artigo 1º do Decreto- lei nº 20.910/31. Trata-se de matéria unicamente de direito, e não de provas, pelo que pode ser analisada em sede de Recurso Especial" (fl. 405).
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+O Tribunal de origem, ao decidir a controvérsia posta nos autos, analisou e interpretou legislação local, no caso, a Lei Municipal n. 7.997/2000, de forma que a alegada ofensa à lei federal seria apenas oblíqua, de forma a configurar-se a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do da Súmula n. 280 do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. OFENSA
+AO ART. 1022 DO CPC NÃO CONFIGURADA. LEIS MUNICIPAIS Lei 7.169/96 e 7.235/96. ACÓRDÃO RECORRIDO FUNDAMENTADO EM DIREITO LOCAL. SÚMULA 280/STF. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E
+NESSA PARTE, NÃO PROVIDO. 1. Cuida-se, na origem, de Ação Ordinária proposta por Sandra Regina Moreira Maia, ora recorrente, contra o Município de Belo Horizonte, ora recorrido, objetivando, na condição de servidora pública do Município, o seu "enquadramento correto na data de implementação do Plano de Carreira aos níveis devidos, bem como a progressão profissional nas formas previstas nas Lei 7.169/96 e 7.235/96 e o pagamento das diferenças correspondentes às parcelas vencidas e vincendas."(fl. 185).
+2. O Juiz de primeiro grau julgou procedente o pedido.
+3. O Tribunal a quo reformou a sentença em reexame necessário, julgou prejudicada a Apelação do Município e assim consignou: "Nesse passo, a autora foi reenquadrada nos termos do referido texto legal, tendo sido levado em consideração todo o tempo de serviço até então prestado, razão pela qual não se pode falar em omissão da Administração ao não promover a progressão antes da edição da Lei n. 7.169/96. Nesse sentido, colaciono os seguintes julgados deste Tribunal de Justiça (TJMG): (..) Portanto, não houve qualquer ilegalidade na atuação da administração, que posicionou a autora no nível 11, consoante estabeleceu a Lei n. 7.235/96, ocorrendo, a partir de então, as progressões devidas." (fls. 244-245, grifo acrescentado).
+4. Constata-se que não se configura a ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal co mo lhe foi apresentada.
+5. Esclareça-se que o exame da pretensão recursal pressupõe a apreciação de normas de Direito local, mais especificamente das Leis Municipais 7.169/1996 e 7.235/1996.
+6. Isso posto, a Corte de origem decidiu a lide à luz das aludidas Leis Municipais 7.169/1996 e 7.235/1996, fazendo referência às suas disposições para solucionar a controvérsia. Aplica-se, in casu, por analogia, a Súmula 280 do STF. Nesse sentido: REsp 1.245.902/AM, Relatora Ministra Eliana Calmon, Segunda Turma, DJe 19/6/2013, e AgInt no AREsp 965.063/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 6/3/2017.
+7. Recurso Especial parcialmente conhecido, e nessa parte, não provido (REsp n. 1.688.512/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/10/2017, DJe de 11/10/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSTALAÇÃO DE ESTAÇÃO DE RÁDIO-BASE DE TELEFONIA. AUSÊNCIA DE AUTORIZAÇÃO MUNICIPAL. LEI MUNICIPAL 13.756/04 E DECRETO MUNICIPAL 44.944/04. MATÉRIA DE DIREITO LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 26/08/2016, que, por sua vez, julgara recurso interposto contra decisão publicada na vigência do CPC/73.
+II. Segundo consta do acórdão recorrido, a "Prefeitura Municipal de São Paulo propôs ação demolitória, em face da Tim Celular S/A, perante o Juízo da 7ª Vara da Fazenda Pública da Comarca da Capital, objetivando a remoção da estação de rádio base instalada irregularmente, em razão de o equipamento estar em funcionamento sem prévio licenciamento urbanístico". O Tribunal de origem manteve a sentença de procedência.
+III. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais (Lei municipal 13.756/04 e Decreto municipal 44.944/04). Assim, torna-se inviável, em Recurso Especial, o exame da matéria nele inserida, diante da incidência, por analogia, da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Nesse sentido: STJ, AgRg no AREsp 709.574/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/09/2015; REsp 1.455.034/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/04/2015.
+IV. Agravo interno improvido (AgInt no AREsp 970.011/SP, relator Ministra Assusete Magalhães, Segunda Turma, DJe 24/5/2017).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
