@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo manejado por Walter Rodrigues da Silva, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, "a" e "c", da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 281):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO. DECISÃO MONOCRÁTICA. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER. ENQUADRAMENTO DE ATIVIDAI)E ESPECIAL. APOSENTADORIA POR TEMPO DE SERVIÇO. CONSECTÁRIOS. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+1- O artigo 557 do Código de Processo Civil consagra a possibilidade de o recurso ser julgado pelo respectivo Relator.
+2- Segundo entendimento firmado nesta Corte, a decisão do Relator não deve ser alterada quando fundamentada e nela não se vislumbrar ilegalidade ou abuso de poder que resulte em dano irreparável ou de difícil reparação para a parte.
+3- A decisão agravada abordou todas as questões suscitadas e orientou-se pelo entendimento jurisprudencial dominante. Pretende o agravante, em sede de agravo, rediscutir argumentos já enfrentados pela decisão recorrida.
+4- Agravo desprovido. Decisão mantida.
+Sustenta o recorrente que, "a discussão refere-se à aplicação de juros de 1% incidente mês a mês desde o vencimento de cada diferença de renda até o efetivo depósito do pagamento, independentemente do tempo de processamento do precatório, fixada a partir da DER; inaplicabilidade da Lei 11.960/09 para o cálculo da correção monetária e dos juros, por inconstitucionalidade e a majoração da verba honorária para condenar o recorrido ao pagamento de honorários advocatícios no patamar máximo" (fl. 95).
+Afirma que, "não há que se falar em aplicação da Lei n.11.960/09, por ter sido declarada inconstitucional pela Suprema Corte, inclusive, com recente voto do Ministro dando eficácia retroativa ao julgado, no que tange às regras relativas à correção monetária e aos juros moratórios" (fl.297) .
+Aduz que, "se o Segurado tem seus débitos acrescidos de juros de 1% ao m quando efetua o recolhimento das contribuições com atraso, não pode o momento de receber os valores atrasados de seu benefício, por indeferimento ilegal e arbitrário do INSS, aceitar a incidência de juros de apenas 0,5%, ou seja, da metade do percentual previsto na legislação previdenciária" (fl. 302).
+"Quanto à correção monetária, a r. decisão, ao determinar a aplicação da Lei 11.960/09, ofendeu os artigos 29-B, 41-A e 134 da Lei 8.213/91 e artigo 31 da Lei 10.741/03" (fl. 305).
+Defende que, "Os Juros devem incidir até a expedição do precatório, pais o INSS sempre impugna a vaiar definitivo, interpõe recursos que ficam anos no Tribunal para serem julgados, não podendo todo este período ficar sem incidência de juros" (fl. 308).
+Alega que, "devem ser MAJORADOS os honorários advocatícios ao importe de 20% (vinte por cento) sobre o montante apurado desde a DER até o trânsito em julgado da decisão, ou até a apresentação da conta de liquidação pela parte autora, em ambos os casos, as doze prestações daí vincendas, não podendo prevalecer a fixação em 10%" (fl. 315).
+Em novo julgamento, para eventual juízo de retratação, o acórdão foi alterado, cuja ementa se colhe (fl. 453):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. RETRATAÇÃO (ARTIGO N. 1.040, II, DO CPC). TEMA 810 DE REPERCUSSÃO GERAL. ÍNDICE DE CORREÇÃO MONETÁRIA. JUÍZO DE RETRATAÇÃO POSITIVO.
+- Em relação jurídica diversa da tributária (hipótese dos autos), a utilização dos juros incidentes à caderneta de poupança é constitucional, mas o índice oficial de remuneração básica a ela aplicado (Taxa Referencial - TR) é inconstitucional como critério de atualização monetária do débito (Tema n. 810 de Repercussão Geral).
+- Cabível a retratação para estabelecer índice de correção monetária.
+- Juízo de retratação positivo, nos termos do artigo 1.040, II, do CPC. Agravo regimental parcialmente provido.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida
+Inicialmente, usando suas próprias palavras, "O agravante não tem mais interesse em impugnar a matéria relacionada a correção monetária, tendo em vista o juízo de retratação positivo para aplicação do Tema 905/STJ e Tema 810/STF, afastando a TR como índice de atualização, bem como quanto ao termo final dos juros de mora, tendo em vista a retratação para adequação do Tema 96/STF, mantendo-se o interesse nas demais matérias" (fl. 640).
+Contudo, no que remanesce, as razões de recorrer são genéricas e incapazes de demonstrar, de forma exata e específica, os pontos pelos quais o acórdão recorrido teria ofendido os muitos dispositivos legais mencionados, fim para o qual não não basta a mera menção aos artigos de leis ou a narrativa acerca da legislação federal, sob pena de incidir a Súmula 284/STF "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, confira-se, o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO C/C PERDAS E DANOS E REPARAÇÃO POR DANOS MORAIS E EMERGENTES E RESTITUIÇÃO DE QUANTIA PAGA. 1. VIOLAÇÃO AO ART. 485, § 3º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. 2. JULGAMENTO EXTRA PETITA E JULGAMENTO BASEADO EM FATO INEXISTENTE. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. 3. VIOLAÇÃO AO ART. 489 DO CPC/2015. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 4. VIOLAÇÃO AO ART. 1.021, § 3º, DO CPC/2015. REITERAÇÃO DOS FUNDAMENTOS. POSSIBILIDADE. PRECEDENTES. 5. MULTA DO ART. 1.021, § 1º, DO CPC/2015. INAPLICABILIDADE. 6. AGRAVO INTERNO IMPROVIDO.
+1. Incidem as Súmulas 282 e 356 do STF, na espécie, porquanto ausente o
+prequestionamento.
+2. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+3. O recurso especial é reclamo de natureza vinculada e, dessa forma, para o seu cabimento, é imprescindível que a parte recorrente demonstre, de forma clara e objetiva, de que modo o acórdão recorrido teria contrariado os dispositivos apontados como violados, sob pena de inadmissão, atraindo o óbice da Súmula 284 do STF.
+4. O julgador pode reiterar os fundamentos da decisão recorrida quando não deduzidos novos argumentos pela parte recorrente, pelo que o art. 1.021, § 3º, do CPC/2015 não impõe ao julgado a obrigação de reformular a decisão agravada.
+5. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+6. Agravo interno improvido.
+(AgInt no AREsp n. 2.129.634/GO, relator Ministro Marco Aurélio Bellizze, DJe de 16/2/2023.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
