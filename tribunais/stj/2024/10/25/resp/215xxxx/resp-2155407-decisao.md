@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por SPREADSUL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO PADRONIZADOS - NP - em face de acórdão assim ementado (e-STJ, fl. 611):
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. AÇÃO DE RESCISÃO DE CONTRATO. RESOLUÇÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. CESSÃO DE CRÉDITO. RESPONSABILIDADE DA CESSIONÁRIA PELA DEVOLUÇÃO DOS VALORES RECEBIDOS COMO DECORRÊNCIA DA EXTINÇÃO DA AVENÇA ORIGINÁRIA. RESTITUIÇÃO DA COMISSÃO DE CORRETAGEM. CABIMENTO. CORREÇÃO MONETÁRIA DEVIDA ATÉ O EFETIVO PAGAMENTO. JUROS A CONTAR DA CITAÇÃO, À RAZÃO DE 1% AO MÊS. ÔNUS DE SUCUMBÊNCIA REDIMENSIONADOS. RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 662/667).
+Nas razões do especial, aponta a recorrente violação dos artigos 104, 187, 290 e 916 do Código Civil, artigos 17, 28 e 29 do Decreto-Lei nº 57.663/66, além do dissídio jurisprudencial.
+Argumenta, em síntese, que o cessionário do crédito não teria legitimidade passiva em demanda ajuizada pelo promitente adquirente para resolver o contrato de promessa de compra e venda, por suposto atraso na entrega de imóvel.
+Contra-arrazoado (fls. 738/744), o recurso especial foi admitido na origem (fls. 748/751).
+Assim delimitada a controvérsia, passo a decidir.
+Extraio do acórdão recorrido que a responsabilidade da cessionária do crédito adviria da possibilidade de o devedor opor também em relação a ela as exceções que caberiam contra o credor original. Desse modo, havendo a resolução contratual, a cessionária deveria devolver o valor por ela recebido, sem prejuízo da ação de regresso contra o credor original.
+A propósito, extraio do acórdão recorrido (fls. 607/608):
+Como se vê, pactuada a responsabilidade da cedente por responder pela recompra dos direitos de crédito na hipótese de insurgência quanto ao pagamento por sua culpa, como ocorreu. Daí porque cabível a devolução de valores recebidos pela SPREADSUL, devendo, se for o caso, buscar o que lhe compete diretamente da cedente.
+Merece destaque, inclusive, que tinha a cessionária ciência, de acordo com as cópias de correspondências eletrônicas trocadas, acerca da irresignação do demandante quanto à realização dos pagamentos, antes inclusive do vencimento dos débitos, alguns deles pagos apenas para evitar o protesto (fls. 29 e ss. evento 3, PROCJUDIC1, origem).
+Importa consignar, de outro turno, que a cessão foi operada por meio de contrato de cessão de crédito civil, com natureza de cessão civil, de modo que incide o art. 294, segundo o qual "O devedor pode opor ao cessionário as exceções que lhe competirem, bem como as que, no momento em que veio a ter conhecimento da cessão, tinha contra o cedente."
+Nesse contexto, ainda que nada oposto quando da notificação da cessão, a superveniente resolução do negócio atrai a obrigação da cessionária à devolução do qua recebeu.
+A orientação adotada destoa da jurisprudência desta Corte, segundo a qual: "O agente financeiro não ostenta legitimidade para responder por pedido decorrente de vícios de construção na obra financiada, quando atua em sentido estrito" (AgInt no AREsp 1.193.639/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17.4.2018, DJe de 20.4.2018).
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. DEVOLUÇÃO DE VALORES PAGOS E RESPONSABILIDADE POR DANOS MATERIAIS. INSTITUIÇÃO FINANCEIRA CESSIONÁRIA FIDUCIÁRIA DOS CRÉDITOS. ILEGITIMIDADE PASSIVA. ENTENDIMENTO FIRMADO PELO STJ. AGRAVO INTERNO DESPROVIDO.
+1. "O agente financeiro não ostenta legitimidade para responder por pedido decorrente de vícios de construção na obra financiada, quando atua em sentido estrito" (AgInt no AREsp 1.193.639/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17.4.2018, DJe de 20.4.2018).
+2. No caso em análise, o banco recorrido atuou como mero credor fiduciário dos direitos creditórios decorrentes do compromisso de compra e venda firmado entre a construtora e o adquirente, e não como agente executor e operador.
+3. Assim, diante das circunstâncias fáticas descritas no acórdão recorrido, conclui-se que o banco atuou, tão somente, como credor fiduciário em sentido estrito, não devendo responder pelo atraso na entrega da obra, uma vez que não teve nenhuma influência no descumprimento do contrato. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.775.338/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/5/2024, DJe de 17/5/2024.)
+Ressalte-se, ainda, que o instrumento de cessão de crédito realizado pelas partes, conforme transcrito no acórdão recorrido (fl. 607), não autoriza a conclusão alcançada pela Corte Local quanto à legitimidade do cessionário para figurar na demanda ajuizada pelo devedor visando resolver o contrato.
+Com efeito, extraio do instrumento de cessão de crédito - transcrito no acórdão recorrido (fl. 607) - que a cedente deveria recomprar os direitos de crédito cedido, em caso de resolução contratual; razão pela qual eventual direito de regresso deveria ser exercido pelo cedente, e não por iniciativa do cessionário, como se concluiu no acórdão recorrido.
+De toda forma, não há cogitar-se de exceção a ser suscitada pelo devedor contra a recorrente, que recebeu o direito de crédito do cessionário por endosso, limitando a defesa aos aspectos formais e materiais do título, salvo má-fé; o que nem sequer foi conjecturado pelo demandante, ao delimitar a causa de pedir na inicial (fls. 6/12)
+Em face do exposto, dou provimento ao recurso especial, para cassar o acórdão recorrido, e restabeleço a sentença que julgou improcedente a demanda contra a recorrente, inclusive quanto aos honorários sucumbenciais arbitrados (fls. 504/510).
+Intimem-se.
+EMENTA
