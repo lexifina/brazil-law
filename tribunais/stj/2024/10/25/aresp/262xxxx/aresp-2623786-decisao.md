@@ -1,0 +1,31 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ALÍPIO JUNQUEIRA JÚNIOR, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 25/03/2024.
+Concluso ao gabinete em: 04/07/2024.
+Ação: execução de título extrajudicial, ajuizada por ALÍPIO JUNQUEIRA JÚNIOR, em face de ROBERTO INÁCIO JUNQUEIRA e NELSON JUNQUEIRA JÚNIOR.
+Decisão interlocutória: acolheu o pedido de nomeação de ROBERTO INÁCIO JUNQUEIRA como depositário do imóvel penhorado, sob o fundamento de que deve ser conferido depósito a quem detém a titularidade do imóvel, nos termos previstos no artigo 840, III, CPC.
+Acórdão: rejeitando a preliminar arguida, julgou prejudicado o agravo interno interposto e negou provimento ao Agravo de Instrumento interposto pelo agravante, nos termos da seguinte ementa:
+"Ação de execução de título extrajudicial. Penhora de bem imóvel. Nomeação de terceiro como depositário do bem. Ausência de justificativa plausível. Nomeação preferencial do executad0. 1 - Resta prejudicado o agravo interno interposto contra a decisão que deferiu o efeito suspensivo, quando procedido julgamento do recurso principal. 2 - Não se decreta nulidade da decisão por inobservância ao princípio do contraditório, quando não demonstrado prejuízo. 3 - Inexiste prejudicialidade externa entre o recurso em que se discute a nomeação de depositário do bem e a que decide sobre imissão na posse do bem pelo titular do domínio. 4 - O dever do magistrado de zelar pela justa satisfação do crédito e justa excussão dos bens do devedor deve assegurar que o devedor/executado não seja privado de usufruir dos frutos de seu imóvel até a execução, sem que haja relevante e plausível justificativa. Assim, a mera oposição caprichosa do credor à nomeação do executado como depositário do bem penhorado não pode obstar o exercício do direito de sua propriedade (artigo 1.215 do Código Civil). 5 - A nomeação de depositário de bem penhorado pode ser revista pelo juiz singular no curso do processo, não se tratando de ato imodificável. Agravo de Instrumento conhecido e desprovido. Agravo interno prejudicado." (e-STJ fl. 511)
+Embargos de Declaração: opostos, pelo agravante, foram rejeitados. (e-STJ fl. 558/568)
+Recurso especial: alega violação dos arts. 7º, 9º, 10º, 141, 314, 502, CPC, 5º, XXXVI, LV, CF, bem como dissídio jurisprudencial, sustentando que: i) a Corte local ignorou o sobrestamento do recurso até a retomada da marcha processual no feito executivo originário, que jamais foi revogada ou modificada; e, ii) o entendimento da Corte local, além de violar o artigo 314 do Código de Processo Civil, também fere de morte os princípios do contraditório, da ampla defesa e da não surpresa (artigo 5º, inciso LV da Constituição Federal e artigos 7º, 9º e 10º do Código de Processo Civil), no momento em que retomou o curso do processo sem antes oportunizar a oitiva das partes; e, iii) ainda que a Corte local comungue do entendimento de que a ausência de intimação do recorrente nos autos principais não trouxera prejuízo, tal matéria deveria ter sido enfrentada, primeiramente, pelo Juízo sentenciante; e, iv) o recorrido sequer pleiteou ao Juízo sentenciante a revogação do termo de penhora que nomeou terceiro como depositário fiel do imóvel nos autos principais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os arts. 7º, 9º, 10º, 141, 314, 502, CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "não se vislumbra prejuízo ao agravante na nomeação do agravado como depositário do bem, tendo em vista que não foram apontadas e demonstradas as relevantes razões para afastá-lo do encargo", bem como de que "não se anula decisão judicial por não observância de contraditório, quando não demonstrado prejuízo, sendo essa a hipótese do caso em estudo", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de execução de título extrajudicial.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial não conhecido.
