@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto pelo Ministério Público de Sergipe contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça local (Apelação Criminal n. 202100309029), que manteve a absolvição do réu Edivanilson Lima Rodrigues quanto ao delito previsto no art. 54, caput, da Lei n. 9.605/1998.
+Nas razões do recurso especial, o Parquet suscitou negativa de vigência do art. 54 da Lei n. 9.605/1998 (fls. 538/558).
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 7/STJ (fls. 574/579).
+Contra o decisum o órgão ministerial interpôs o presente agravo (fls. 585/594).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo provimento do recurso (fls. 626/631).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+De outra parte, no que se refere ao recurso especial em si, não há dúvida de que a insurgência é manifestamente inadmissível, na medida em que encontra óbice na Súmula 126/STJ:
+É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.
+Ao que consta, a questão discutida (existência de provas) fora enfrentada no acórdão impugnado sob fundamento constitucional. Tal conclusão, inclusive, pode ser facilmente extraída da própria ementa do julgado em questão (fl. 528 - grifo nosso):
+APELAÇÃO CRIMINAL  CRIME CONTRA O MEIO AMBIENTE  (ART. 54 CAPUT E ART. 60, AMBOS DA LEI 9.605/1998). APELO DO MINISTÉRIO PÚBLICO  PLEITO CONDENATÓRIO NO QUE SE REFERE À PRÁTICA DO DELITO PREVISTO NO ART. ART. 54 CAPUT DA LEI 9.605/1998  NÃO CABIMENTO  FRAGILIDADE DO ACERVO PROBATÓRIO ACOSTADO AOS AUTOS - PROVA PRODUZIDA EM JUÍZO A QUAL NÃO SE MOSTRA APTA A QUEBRAR A PRESUNÇÃO DE INOCÊNCIA DOS RECORRIDOS, PAIRANDO, PORTANTO, DÚVIDAS QUANTO À AUTORIA. PARA PROLAÇÃO DE UM DECRETO PENAL CONDENATÓRIO, TEM-SE DITO, É INDISPENSÁVEL PROVA ROBUSTA QUE DÊ CERTEZA DA EXISTÊNCIA DO DELITO E SEU AUTOR. A ÍNTIMA CONVICÇÃO DO JULGADOR DEVE SEMPRE SE APOIAR EM DADOS OBJETIVOS INDISCUTÍVEIS. CASO CONTRÁRIO, TRANSFORMA O PRINCÍPIO DO LIVRE CONVENCIMENTO EM ARBÍTRIO. INSUFICIÊNCIA DE PROVAS PARA UM JUÍZO CONDENATÓRIO. APLICAÇÃO DO PRINCÍPIO "IN DUBIO PRO REO". NECESSIDADE DE MANUTENÇÃO DA ABSOLVIÇÃO DOS APELADOS EM RELAÇÃO DELITO PREVISTO NO ART. 54 CAPUT DA LEI 9 . 6 0 5 / 1 9 9 8.
+Do corpo do acórdão, extrai-se ainda (fls. 531/532 - grifo nosso):
+ ..
+Contudo, analisando os autos e as provas produzidas entendo não restar evidente a potencialidade de danos à saúde. Explico:
+Apesar de haver sido acostado aos autos um parecer técnico elaborado pelo fiscal da Adema (fls. 16/20), este não se mostra conclusivo acerca dos efetivos danos à saúde humana provocada pelos resíduos oriundos da unidade hospitalar, não tendo o técnico o Sr. Wilton Malta de Almeida Junior especificado no relatório ou em seu depoimento em juízo, com detalhes a existência de tais danos e como estes seriam nefastos à saúde do ser humano e à natureza.
+ ..
+Em sendo assim, diante das afirmações do técnico de que não tem como afirmar para onde era encaminhados os dejetos e se estes seriam capazes de causar algum dano à saúde, não há como comprovar a ofensa ao bem jurídico protegido, devendo assim, ser aplicado o princípio do "in dubio pro reo".
+Dos autos, conclui-se claramente a ausência de certeza acerca da autoria delitiva imputada aos Recorridos no que se refere ao delito, razão pela qual o princípio constitucional da presunção de inocência deve ser respeitado e aprevisto no art. 54, da Lei 9.605/caput dúvida favorece ao réu, sempre.
+O princípio da presunção da inocência, previsto em nossa Constituição Federal, transfere à acusação o ônus probatório em relação aos fatos imputados na denúncia. Portanto, faz-se mister que o Estado-acusação evidencie, com provas suficientes, ao Estado-Juiz, a culpa dos acusados, o que, certamente, não restou consubstanciado nos presentes autos.
+Portanto, havendo dúvidas, inviável se mostra a condenação dos réus, devendo subsistir a absolvição declarada em primeiro grau de jurisdição, ao menos no que se refere ao delito supra citado.
+Destaque-se que para prolação de um decreto penal condenatório é indispensável prova robusta que dê certeza da existência do delito e seu autor. A íntima convicção da autoria deve sempre se apoiar em dados objetivos indiscutíveis. Caso contrário, transforma o princípio do livre convencimento em arbítrio. É princípio fundamental do Processo Penal, que o acusado somente deve ser condenado, quando o juízo, na forma legal, tenha estabelecido os fatos que fundamentam a sua autoria e culpabilidade, com completa certeza
+Sendo assim, nenhuma pena pode ser aplicada sem a mais completa certeza da falta. A pena, disciplinar ou criminal, atinge a dignidade, a honra e a estima da pessoa, ferindo-a gravemente no plano moral, além de representar a perda de bens ou interesses materiais.
+Diante disso, claro está que não houve prova suficiente para a condenação e até em face do princípio do estado da inocência, predicado no art. 5º, LVII, da Constituição Federal, se a acusação se propõe a provar o fato e finda a instrução paira "dúvida razoável" no espírito do julgador, não pode efetivamente haver condenação penal
+ ..
+Tal fundamento, no entanto, não foi objeto de recurso extraordinário.
+Ressalto, aind a, que a hipótese não comporta a aplicação do art. 1.032 do Código de Processo Civil de 2015.
+É que tal dispositivo confere fungibilidade ao reclamo que, embora denominado pelo recorrente como recurso especial, trata de matéria constitucional, própria do extraordinário. Confira-se a redação:
+Art. 1.032. Se o relator, no Superior Tribunal de Justiça, entender que o recurso especial versa sobre questão constitucional, deverá conceder prazo de 15 dias para que o recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
+No caso, não há um simples equívoco na escolha do recurso, há a ausência do próprio recurso, qual seja, do extraordinário, acompanhada da argumentação apta a infirmar o fundamento constitucional autônomo. Logo, é de rigor a incidência da Súmula 126/STJ ao caso.
+Nesse sentido, confira-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. ART. 110 DO CTN. REPRODUÇÃO DE DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. APRECIAÇÃO. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO. FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ.
+ ..
+3. Ao reconhecer a exigibilidade da contribuição previdenciária sobre os valores pagos a título de participação nos lucros, o Tribunal de origem amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Todavia, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ.
+4. O artigo 1.032 do CPC trata da aplicação do princípio da fungibilidade ao recurso especial que versar sobre questão constitucional, hipótese diversa da presente, em que não há equívoco quanto à escolha do recurso, mas, sim, inexiste interposição de recurso quanto ao capítulo do acórdão recorrido com fundamentação constitucional, de sorte que não há falar na sua aplicação. Precedentes: AgInt no AREsp 869.418/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 15/5/2018; AgInt no AREsp 1.008.763/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 27/10/2017; AgRg no REsp 1.665.154/RS, Rel. Ministro Felix Fischer, Quinta Turma, DJe de 30/8/2017.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.328.399/RJ, Ministro Sérgio Kukina, Primeira Turma, julgado em 13/2/2023, DJe 16/2/2023 - grifo nosso).
+E, como fundamento subsidiário, anoto que a pretensão ministerial de obter a condenação do réu visto que as provas reunidas estão concatenadas no sentido de ensejar o reconhecimento da prática do delito previsto no artigo 54 da Lei 9.605/98 (fl. 558), demandaria o reexame dos elementos que fundaram a convicção do Tribunal de origem, providência essa vedada nos termos da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA O MEIO AMBIENTE. ABSOLVIÇÃO. IRRESIGNAÇÃO MINISTERIAL. ACÓRDÃO IMPUGNADO CALCADO EM FUNDAMENTO CONSTITUCIONAL. FALTA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 126/STJ. FUNDAMENTO SUBSIDIÁRIO. PLEITO CONDENATÓRIO. NECESSIDADE DE REVOLVIMENT O FÁTICO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
