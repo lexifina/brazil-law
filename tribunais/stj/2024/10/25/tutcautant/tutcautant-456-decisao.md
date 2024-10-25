@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de pedido de tutela cautelar antecedente formulado por JOSÉ REINALDO DA ROCHA, com amparo no art. 294 do CPC, em que pleiteia "a SUSPENSÃO DA TRAMITAÇÃO DOS AUTOS DE NÚMERO 0913709 -85.2007.8.13.0134, EM MOVIMENTO PERANTE A 3ª VARA CÍVEL DA COMARCA DE CARATINGA -MG" (fl. 12).
+Assere que "Ajuizou o Recorrente, recurso de Agravo de Instrumento, perante a 3ª Câmara Cível do Egrégio Tribunal de Justiça do Estado de Minas Gerais, debatendo a r. decisão singular, de lavra do MM. Juízo da 3ª Vara Cível da Comarca de Caratinga - MG que, em sede de Execução Fiscal, ajuizada pelo Requerido, autos de número 0913709-85.2007.8.13.0134, afastou pedido de reconhecimento de impenhorabilidade de valores depositados em conta poupança em patamar valorativo inferior a 40 (quarenta) salários mínimos, referentes a proventos advindos de benefício previdenciário" (fls. 3/4).
+Argumenta que a rejeição do pedido deu-se em razão do seguinte fundamento (fl. 4):
+No caso, em que pesem as alegações do recorrente, no sentido de que o valor bloqueado é impenhorável, por ser inferior ao limite de 40 salários mínimos, verifico que a impenhorabilidade de valores prevista no inciso X, do art. 833, do CPC não se aplica ao caso em apreço, uma vez que não restou demonstrado que a quantia bloqueada, na conta poupança da executada se trata de reserva financeira poupada pelo executado.
+Na sequencia, relata ter sido interposto recurso especial admitido na origem aguardando a remessa para este Superior Tribunal de Justiça.
+Manifesta-se no sentido de que "mantida a tramitação do processo de origem, poderão os valores bloqueados serem liberados ao Requerido, ocasionando dano de difícil reparação ao Requerente, em razão de que, provido o Recurso Especial, terá ela de enfrentar a fila do RPV para ter ressarcimento de valor considerado absolutamente impenhorável" (fl. 12).
+Aduz, ainda, que "A probabilidade do direito está, justamente, no caráter de impenhorabilidade imposto pelo artigo 833, X, do Código de Processo Civil, aos depósitos existentes em caderneta de poupança que não alcancem mais que 40 (quarenta) salários mínimos. É de se explicitar que, à luz do princípio da dignidade da pessoa humana, Este Colendo Superior Tribunal de Justiça consolidou entendimento, atribuindo ao imperativo acima transcrito, artigo 833, X, do Código de Processo Civil, interpretação extensiva, de modo a tornar impenhorável todo e qualquer valor limitado a 40 (quarenta) salários mínimos, independentemente de onde esteja alocado, ou seja, se em conta poupança, corrente, fundos de investimento ou outra forma qualquer de investimento" (fl. 4).
+O Ministério Público Federal manifestou-se às fls. 197/203.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifico que o REsp 2.152.058/MG, a que se refere o pedido de concessão de efeito suspensivo, tirado do agravo de instrumento na execução fiscal 0913709-85.2007.8.13.0134, restou provido determinando-se o desbloqueio dos valores depositados, com trânsito em julgado, conforme certidão de fl. 360.
+Assim, inafastável o reconhecimento da prejudicialidade do pedido ora formulado, em razão do julgamento favorável do recurso especial.
+Neste sentido:
+AGRAVO REGIMENTAL NA MEDIDA CAUTELAR - AÇÃO DE COBRANÇA DECORRENTE DE CONTRATOS DE LOCAÇÃO DE EQUIPAMENTOS E DE SERVIÇOS - CLÁUSULA CONTRATUAL PARA REAJUSTE ANUAL DOS VALORES DEVIDOS - DECISÃO MONOCRÁTICA QUE JULGOU PREJUDICADA A MEDIDA CAUTELAR EM RAZÃO DA SUPERVENIENTE PERDA DE OBJETO.
+1. Consoante jurisprudência do STJ, julgado o recurso especial, perde o objeto a ação cautelar proposta com o objetivo de lhe atribuir efeito suspensivo, devendo ser julgada prejudicada. Precedentes.
+2. "I. Definitivamente apreciado o recurso especial cujo efeito suspensivo se buscou garantir, tem-se a superveniente perda do objeto da medida cautelar. II. Ainda que não transitado em julgado, não há como se assegurar os efeitos da cautela até o seu julgamento, pois, com o não provimento do recurso especial, além de não mais subsistir o "fumus boni iuris", encerra-se a competência tanto do relator como da Turma Julgadora, para apreciação da tutela cautelar.
+Agravo improvido." (AgRg na MC 12.786/AM, Relator Ministro Sidnei Beneti, DJ de 11.9.08) 2. Agravo regimental não provido.
+(AgRg no AgRg no AgRg na MC n. 17.962/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2012, DJe de 13/12/2012.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA PROVISÓRIA. EFEITO SUSPENSIVO A RECURSO ESPECIAL. JULGAMENTO DO RECURSO ESPECIAL PRINCIPAL. PERDA DE OBJETO.
+1. O pedido de tutela de urgência deduzido com o fim de atribuir efeito suspensivo a recurso especial fica prejudicado, por perda superveniente de objeto, em virtude do julgamento do recurso principal. Precedentes.
+3. Agravo interno não provido.
+(AgInt no TP n. 1.931/BA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+ANTE O EXPOSTO, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o pedido de tutela provisória.
+Publique-se.
+EMENTA
