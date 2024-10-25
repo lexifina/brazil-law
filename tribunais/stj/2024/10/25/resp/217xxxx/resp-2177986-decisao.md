@@ -1,0 +1,38 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por FUNDAÇÃO CATARINENSE DE EDUCAÇÃO ESPECIAL - FCEE, contra acórdão prolatado pelo Tribunal XX, assim ementado (fl. XXXe):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO REGIDO PELO EDITAL N. 002/2019/FCEE, DESTINADO AO PREENCHIMENTO DE VAGAS DE PROFESSOR TEMPORÁRIO NA FUNDAÇÃO CATARINENSE DE EDUCAÇÃO ESPECIAL - FCEE. LIMINAR CONCEDIDA PARA REVISÃO DA DISTRIBUIÇÃO DAS AULAS DA DISCIPLINA DE ARTES, NA APAE DE RIO DO SUL, CARGO DE PROFESSOR TEMPORÁRIO, QUANDO DA PRORROGAÇÃO DO CERTAME REGIDO PELO EDITAL N. 002/2019/FCEE, EM RAZÃO DE OFENSA À ORDEM DE CLASSIFICAÇÃO. IMPOSIÇÃO DE MULTA DIÁRIA PARA O CASO DE DESCUMPRIMENTO DA DETERMINAÇÃO JUDICIAL. DECISÃO CONFIRMADA EM SENTENÇA E NESTE GRAU DE JURISDIÇÃO, POR MEIO DE APELO. CATEGÓRICO DESRESPEITO AO COMANDO JUDICIAL, DE FORMA REITERADA, POR PARTE DA FUNDAÇÃO. MAGISTRADO DE ORIGEM QUE REDUZIU O MONTANTE TOTAL DA MULTA PARA O IMPORTE DE R$ 5.000,00 (CINCO MIL REAIS). INVIABILIDADE. MANUTENÇÃO DO VALOR TOTAL DE R$ 138.000,00 (CENTO E TRINTA E OITO MIL REAIS), EQUIVALENTE AOS DIAS DE DESCUMPRIMENTO DA DECISÃO ATÉ O ENCERRAMENTO DO CONTRATO TEMPORÁRIO. CARÁTER COERCITIVO DA MEDIDA. VALOR IMPOSTO QUE SE MOSTRA RAZOÁVEL E ADEQUADO AO CASO CONCRETO. MODIFICAÇÃO DA DECISÃO RECORRIDA. RECURSO CONHECIDO E PROVIDO.
+Opostos Embargos de Declaração, foram rejeitados.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se, além de omissão no julgado de origem, ofensa ao art. 537 do Código de Processo Civil, alegando-se, em síntese, que deve ser afastada ou reduzida a multa arbitrada em desfavor do ente público.
+Sem contrarrazões, o recurso foi inadmitido, tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 125e).
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente recurso especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+Não se pode conhecer a apontada violação ao art. 1.022 do CPC/15, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, a sua importância para o deslinde da controvérsia, bem como o porquê não estaria devidamente fundamentado, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AFASTAMENTO. AUSÊNCIA DE INÉRCIA DO CREDOR. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO NÃO COMPROVADO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+(AgRg no REsp 1450797/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/06/2014, DJe 11/06/2014).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. SÚMULA 284/STF. SERVIDOR PÚBLICO. PROFISSIONAL DA ÁREA DA SAÚDE. IMPOSSIBILIDADE DE ACUMULAÇÃO DE CARGOS. ACÓRDÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INCOMPATIBILIDADE DE HORÁRIOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ELEITA. SÚMULA 7/STJ. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC, a agravante não evidencia qualquer vício no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no AREsp 422.907/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 18/12/2013; AgRg no AREsp 75.356/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 21/10/2013.
+(AgRg no AREsp 318.883/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/06/2014, DJe 01/07/2014, destaque meu).
+Da mesma forma, em relação à afronta ao art. 537 do CPC, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido.
+De fato, a parte recorrente fez tal afirmação de forma vaga, limitando-se a alegar, de forma genérica, que a multa deveria ser excluída ou reduzida.
+Desse modo, em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, a incidência da orientação contida na Súmula 284, do Colendo Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+AÇÃO DE COBRANÇA. DÉBITO DE TERCEIRO. OBRIGAÇÃO DE NATUREZA PESSOAL. RESPONSABILIDADE DO CONSUMIDOR QUE EFETIVAMENTE UTILIZOU O SERVIÇO.
+1. O recurso especial não pode ser conhecido no tocante à alegada ofensa à Resolução ANEEL 456/00. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Hipótese em que incide a Súmula 284/STF, por deficiência na fundamentação.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 401.883/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/02/2014, DJe 18/02/2014).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO COMPROVAÇÃO DE QUE FOI INTERPOSTO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+3. No que tange à apontada violação do art. 292 do Código de Processo Civil, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 441.462/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/02/2014, DJe 07/03/2014).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
