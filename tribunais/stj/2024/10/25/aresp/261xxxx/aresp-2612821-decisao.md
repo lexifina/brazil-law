@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por ROBERTO FERNANDO DE AMORIM JÚNIOR contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (e-STJ, fl. 290):
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE EXIGIR CONTAS. PRELIMINAR CONTRARRECURSAL DE INADEQUAÇÃO DA VIA ELEITA. ACOLHIMENTO. PROCEDIMENTO BIFÁSICO. DETERMINAÇÃO DA PRESTAÇÃO DAS CONTAS NA PRIMEIRA FASE. DECISÃO IMPUGNÁVEL VIA AGRAVO DE INSTRUMENTO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. JURISPRUDÊNCIA PACÍFICA DO STJ E DESTA CORTE DE JUSTIÇA. APELO NÃO CONHECIDO.
+Os embargos de declaração foram rejeitados (fls. 320/325).
+Nas razões do especial, aponta o recorrente violação do artigo 277 do Código de Processo Civil, além do dissídio jurisprudencial; argumentando, em síntese, que seria aplicável o princípio da fungibilidade, conhecendo da apelação como se agravo de instrumento fosse contra decisão que encerra a primeira fase em ação de exigir contas.
+Contrarrazões não foram apresentadas (fl. 358); e o recurso especial, admitido na origem, conforme decisão de fl. 384.
+Assim delimitada a controvérsia, passo a decidir.
+Extraio do acórdão recorrido que o recurso da apelação não foi conhecido, em razão da manifesta inexistência dúvida objetiva quanto a ser cabível o agravo de instrumento contra decisão que encerra a primeira fase da ação de exigir contas (fls. 293/295).
+Verifica-se, ainda, que a sentença julgou procedente o pedido para condenar a parte recorrente a prestar contas (fl. 91).
+Diante desse contexto, como a sentença referente à primeira fase da ação de exigir contas foi julgada procedente, fica evidenciada a natureza interlocutória da decisão que resolve parcialmente o mérito, devendo ser impugnada por meio de agravo de instrumento, a teor do que previsto no artigo 1.015, II, do Código de Processo Civil.
+De toda forma, deve ser reconhecida a existência de dúvida objetiva sobre o recurso cabível, tendo em vista a natureza ambivalente da decisão que encerra a primeira fase da ação de exigir contas, em que, a depender de seu conteúdo (se encerra ou não o processo respectivo), o recurso cabível poderá ser a apelação ou agravo de instrumento.
+Com efeito, a divergência em julgados proferidos no segundo grau de jurisdição acerca do recurso cabível contra a decisão que encerra a primeira fase da ação de exigir contas, justifica a aplicação do princípio da fungibilidade nesse caso, conforme precedentes desta Corte.
+A propósito:
+ ..
+2. In casu, a existência de sólida divergência doutrinária e de reiterado dissídio jurisprudencial no âmbito dos Tribunais Estaduais e dos Tribunais Regionais Federais acerca do recurso cabível em face da decisão que julga a primeira fase da ação de exigir contas é elemento que autoriza a aplicação do princípio da fungibilidade recursal. Precedentes.
+ ..
+(AgInt no REsp n. 1.978.695/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.)
+ ..
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE PRESTAÇÃO DE CONTAS. APLICAÇÃO DA FUNGIBILIDADE RECURSAL. FALTA DE INTERESSE DE AGIR. PEDIDO GENÉRICO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior possui firme o entendimento no sentido de que: "O ato judicial que encerra a primeira fase da ação de exigir contas possuirá, a depender de seu conteúdo, diferentes naturezas jurídicas: se julgada procedente a primeira fase da ação de exigir contas, o ato judicial será decisão interlocutória com conteúdo de decisão parcial de mérito, impugnável por agravo de instrumento; se julgada improcedente a primeira fase da ação de exigir contas ou se extinto o processo sem a resolução de seu mérito, o ato judicial será sentença, impugnável por apelação", todavia, "Havendo dúvida objetiva acerca do cabimento do agravo de instrumento ou da apelação, consubstanciada em sólida divergência doutrinária e em reiterado dissídio jurisprudencial no âmbito do 2º grau de jurisdição, deve ser afastada a existência de erro grosseiro, a fim de que se aplique o princípio da fungibilidade recursal" (REsp 1.746.337/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 9.4.2019, DJe de 12.4.2019).
+ ..  4. Agravo interno não provido. (AgInt no AgInt nos EDcl no AREsp 1670605/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/10/2020, DJe 26/10/2020)  grifou-se
+Em face do exposto, conheço do agravo, e dou provimento ao recurso especial para cassar o acórdão recorrido, determinando que o recurso de apelação (fls. 96/105) seja novamente analisado, afastada a preliminar de não conhecimento, em virtude da aplicação do princípio da fungibilidade, nos termos do que acima decidido.
+Intimem-se.
+EMENTA
