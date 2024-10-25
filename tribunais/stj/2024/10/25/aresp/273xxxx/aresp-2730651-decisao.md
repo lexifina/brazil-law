@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Agravo apresentado por IVONE APARECIDA BORGES à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - DECISÃO QUE INDEFERIU PEDIDO DE JUSTIÇA GRATUITA - DOCUMENTOS QUE NÃO FORAM SUFICIENTES A COMPROVAR A HIPOSSUFICIÊNCIA ECONÔMICA - DECISÃO COMBATIDA MANTIDA - RECURSO NÀO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte aduz ofensa aos arts. 98, caput, e 99, §§ 3º e 4º, do CPC; e ao art. 5º, XXXV, da CF/1988, no que concerne à necessidade de concessão da gratuidade de justiça, tendo em vista a demonstração da condição de hipossuficiência da recorrente, trazendo a seguinte argumentação:
+Junto a inicial, a autora QUE É FAXINEIRA/DIARISTA juntou os documentos comprovatórios de que faz jus a gratuidade de justiça, entre eles, declaração de isenção de apresentação de IRPF, declaração de hipossuficiência, contrato de aluguel e outros comprovantes de despesas.
+A juíza de piso entendeu não serem suficientes, e determinou a juntada de comprovante de renda, dentre estes, extratos bancários e de cartões de crédito. Ocorre que a autora é pensionista, e tem como única fonte de renda FORMAL, a pensão que recebe do ex marido, e sobrevive desta, e as DIARIAS DAS FAXINAS SENDO ESTA RENDA INFORMAL tendo que pagar com este valor aluguel, agua, luz, alimentação, vestuário.
+Assim, a recorrente, dentro do prazo determinado, atendeu a determinação judicial, apresentando os únicos comprovantes de renda que possui. Sendo exigência a apresentação de contas e extratos que não possui, como de cartão de crédito, prova impossível.
+ ..
+No entanto, no tópico do direito, a agravante demonstrara, que data máxima vênia, não assiste razão a decisão. A agravante é pensionista e FAXINEIRA/DIARISTA, sua renda é basicamente informal, assim, não esta sendo negado pelos juízes aqueles que comprovam qualquer renda, mas agora esta sendo negado também aquele que não pode comprovar renda formal, ou seja, a justiça esta sendo NEGADA A UMA FAXINEIRA/DIARISTA, meu deus do céu, se uma cidadã desta não tem direito a gratuidade de justiça, ninguém mais neste pais tem.
+ ..
+Conforme ressaltado, a lei não exige o estado de miserabilidade de pessoa, mas que estão não possa suportar as custas e demais consectários legais sem prejuízo do próprio sustento ou de sua família.
+E no presente caso, é exatamente o que ocorre, a recorrente é uma FAXINEIRA/DIARISTA, e gratuidade lhe foi negada por NÃO CONSEGUIR COMPROVAR RENDA FORMAL, ou seja, NÃO EXISTE ELEMENTOS NOS AUTOS que permitam ao juiz de piso e ao desembargador infirmar conclusão de a recorrente não é hipossuficiente, de que dispõe de recursos para arcar com as custas sem prejuízo de seu sustento e de sua família.
+Portanto, RESTA DEMONSTRADO QUE O VENERANDO ACÓRDÃO VIOLOU DISPOSITIVOS DE LEI FEDERAL.
+Pelo exposto requer seja reformado o acórdão para concessão da autora a gratuidade de justiça, sob pena de negativa prestação jurisdicional e clara afronta ao artigo 98 do código de processo civil (fls. 34-39).
+É o relatório.
+Decido.
+Quanto à controvérsia, quanto ao art. 5º, XXXV, da CF/1988, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+Não obstante a tese da agravante, a documentação acostada aos autos principais e nestes autos, percebe-se que a agravante nada trouxe que pudesse demonstrar com concretude sua situação econômico-financeira, uma vez que não comprovou as despesas realizadas e a totalidade de seus rendimentos.
+A despeito de ser a agravante beneficiada de pensão por morte, observa-se que ela alega que trabalha como auxiliar de limpeza, possuindo duas fontes de renda, porém não apresentou nenhum comprovante de suas despesas mensais, para fins de se verificar sua impossibilidade financeira.
+Assim, de rigor a manutenção da decisão agravada, pois não demonstrada a impossibilidade da parte agravante de arcar com os custos do processo sem prejuízo da sua própria subsistência (fl. 28).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
