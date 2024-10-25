@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANANIAS MATIAS DA SILVA (e-STJ fls. 962/972), fundado na alínea a do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fls. 947):
+APELAÇÃO CRIMINAL Homicídio qualificado Condenação pelo Tribunal do Júri Recursos defensivo e ministerial Prescrição não reconhecida - Indeferimento motivado da produção de prova meramente protelatória que não configura cerceamento de defesa Inteligência do artigo 251 do Código de Processo Penal - Preliminares rejeitadas - Pretensão à anulação do julgamento e submissão do acusado a novo Júri, sob o fundamento de decisão manifestamente contrária à prova dos autos Descabimento - Jurados que optaram por versão que encontra respaldo em prova razoável trazida aos autos Preservação da soberania das decisões do Conselho de Sentença Qualificadoras bem delineadas Condenação inevitável Penas adequadamente fixadas Inviável o reconhecimento da atenuante da confissão espontânea Redução pela tentativa na fração de 2/3 bem fundamentada - Regime semiaberto mantido Preliminares rejeitadas, recursos desprovidos.
+Nas razões do recurso especial, alega a parte recorrente violação do artigo 461, §1º, do CPP e dos artigos 33, 65, inciso III, alínea "d", e 109 do CP. Sustenta: (i) a ocorrência da prescrição; (ii) o cerceamento de defesa, tendo em vista a violação do artigo 461, §1º, do CPP; (iii) a incidência da atenuante da confissão; (iv) a fixação do regime aberto para o cumprimento da pena.
+Apresentadas contrarrazões (e-STJ fls. 976/997), o recurso foi admitido (e-STJ fls. 1000/1004), manifestando-se o Ministério Público Federal pelo provimento do recurso (e-STJ fls. 1012/1013).
+É o relatório. Decido.
+O recurso merece acolhida.
+Tendo em vista o quantum de pena fixado para a parte recorrente (4 anos de reclusão), o prazo prescricional é de 8 anos, conforme determina o art. 109, inciso IV, do Código Penal.
+Admite-se, in casu, o reconhecimento da prescrição retroativa prevista no art. 110, § 1º, do Código Penal, com redação anterior à Lei n. 12.234/2010, de 5/5/2010, porquanto se cuida de fato anterior à edição do referido diploma legal, ocorrido em 1994.
+Assim, constata-se a implementação da prescrição da pretensão punitiva, pois, entre os marcos interruptivos, que se deram com a data dos fatos (30/4/1994) e o recebimento da denúncia (25/1/2007), passaram mais de 8 anos.
+Prejudicados os demais pedidos
+Ante o exposto, com fundamento no art. 932, inciso VIII, do CPC e no art. 255, § 4º, inciso III, do RISTJ e na Súmula 568/STJ, dou provimento ao recurso especial para declarar extinta a punibilidade do recorrente com relação ao delito de homicídio qualificado tentado, em razão da prescrição da pretensão punitiva estatal.
+Intimem-se.
+EMENTA
