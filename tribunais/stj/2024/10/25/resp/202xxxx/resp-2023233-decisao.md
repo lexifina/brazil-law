@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto contra o acórdão assim ementado:
+Ação de indenização por danos materiais - Plano de saúde - Sentença de improcedência - Insurgência da autora - Aplicação do Código de Defesa do Consumidor à hipótese - Médico assistente que prescreveu tratamento de assimetria craniana feito com órtese sob medida - Negativa da requerida, sob alegação de que a órtese/procedimento não estava previsto no rol da ANS Relação administrativa que não pode afastar a realização do tratamento recomendado à doença com cobertura contratual - Manutenção do equilíbrio do contrato - Súmulas 96 e 102 desta Corte de Justiça - Plano de saúde que deve ressarcir integralmente as despesas necessárias para o tratamento da filha da autora - Recurso provido.
+Dá-se provimento ao recurso.
+Alega a recorrente a violação dos artigos 10, §4º, da Lei nº 9.656/1998; 4º, III, da Lei nº 9.961/00; arts. 369, 370 do Código de Processo Civil; 186, 188, I, 884 e 927 do Código Civil, além de dissídio jurisprudencial.
+Alega que a negativa de expedição de ofício à ANS e à ANVISA cerceou seu direito de defesa.
+Sustenta que o acórdão recorrido contraria a legislação dita violada e o entendimento recente do STJ no que respeita à taxatividade do rol da Agência Nacional de Saúde, não podendo ser obrigado a arcar com o pagamento da prótese, no valor de R$12.300,00, (doze mil e trezentos reais).
+Requer seja retirada a condenação à indenização por danos morais, ou, caso mantida, seja reduzido o seu valor.
+Nos moldes da jurisprudência desta Corte, como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS. FALHA NA PRESTAÇÃO DE SERVIÇOS. RESPONSABILIDADE SOLIDÁRIA DO ENGENHEIRO E DA EMPRESA CONTRATADA. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+I - Examinados suficientemente todos os pontos controvertidos, não há falar-se em negativa de prestação jurisdicional.
+II - Se, diante da prova dos autos, as instâncias ordinárias concluem pela culpa do agravante e pelo nexo de causalidade, entender diversamente esbarra na Súmula/STJ.
+III - O Juiz é o destinatário da prova e a ele cabe decidir sobre o necessário à formação do próprio convencimento. Assim, a apuração da suficiência dos elementos probatórios que justificaram o julgamento antecipado da lide e/ou o indeferimento de prova oral demanda reexame provas, providência vedada em sede de recurso especial. Agravo regimental improvido. (AgRg no Ag 771.335/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 04/09/2008, DJe 23/09/2008)
+Da análise dos autos, verifico que o Tribunal de origem condenou a operadora de plano de saúde a custear a órtese craniana que fora indicada ao segurado, expondo os seguintes argumentos (fls. 440/444):
+É incontroverso que o menor D.L.Z representado por seu genitor, é beneficiário de plano de saúde da ré e que foi diagnosticado com Trissonomia do Cromossomo 18 e Plagiocefalia Posicional.
+Segundo narra a inicial, foi prescrito o tratamento de uso de órtese STARband, com o objetivo de remodelar o crânio do menor, havendo necessidade de urgência pois, a não correção a tempo pode acarretar "consequências funcionais definitivas, fortemente relacionadas à assimetria da estrutura óssea craniofacial. Desalinhamento da arcada dentária inferior com consequentes problemas de oclusão dentária, dor na articulação têmporo-mandibular e mastigação, perda do campo visual secundária ao desalinhamento da órbita, bem como atraso no desenvolvimento neurológico". O autor solicitou atendimento pela rede credenciada, porém obteve a resposta da impossibilidade pela exclusão contratual por não previsão no Rol de Procedimentos ANS (fls. 30/31).
+Diante da urgência do tratamento, o autor providenciou pelos próprios recursos (fls.32).
+ ..
+Quanto à alegada utilização de médicos não credenciados, por óbvio que, diante do quadro que se estabeleceu ao menor autor e a urgência do tratamento, ao receberem a resposta negativa para o tratamento, o autor se viu obrigado em procurar meios alterativos.
+É preciso observar que se trata de procedimento de urgência, pois não realizado o tratamento indicado de correção craniana, esta "somente poderá ser alcançada com tratamento neurocirúrgico com elevada morbimortalidade e custos muito maiores" (fls.34). Portanto é mais benéfico para o paciente e de menor custo para o próprio plano de saúde, não se mostrando plausível negar cobertura de tratamento substitutivo de cirurgia que é coberto pelo plano.
+ ..
+Por oportuno, a negativa sob a justificativa de que o procedimento de órtese não está ligado a ato cirúrgico deve ser considerada abusiva.
+A orientação firmada pelo Tribunal de origem está em consonância com a jurisprudência deste Superior Tribunal de Justiça, segundo a qual "a cobertura da órtese craniana indicada para o tratamento de braquicefalia e plagiocefalia posicional não encontra obstáculo nos artigos 10, VII, da Lei n. 9.656/98 e 20, §1º, VII da Resolução Normativa 428/2017 da ANS (atual 17, VII, da RN 465/2021, visto que, apesar de não estar ligada ao ato cirúrgico propriamente dito, sua utilização destina-se a evitar a realização de cirurgia futura para correção da deformidade, evitando consequências funcionais negativas em recém-nascidos e crianças" (REsp n. 1.893.445/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/4/2023, DJe de 3/5/2023).
+De igual teor, cito os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PRÓTESE CRANIANA. SUBSTITUIÇÃO DE NEUROCIRURGIAS. OBRIGATORIEDADE DE CUSTEIO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Esta Corte tem entendimento de que "A lei estabelece que as operadoras de plano de saúde não podem negar o fornecimento de órteses, próteses e seus acessórios indispensáveis ao sucesso da cirurgia, como por exemplo a implantação de stents ou marcapassos em cirurgias cardíacas. Se o fornecimento de órtese essencial ao sucesso da cirurgia deve ser custeado, com muito mais razão a órtese que substitui esta cirurgia, por ter eficácia equivalente sem o procedimento médico invasivo do paciente portador de determinada moléstia" (REsp 1.731.762/GO, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 28/5/2018).
+2. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.006.252/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/3/2023, DJe de 31/3/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PLAGIOCEFALIA. ÓRTESE CRANIANA. RECUSA DE COBERTURA INDEVIDA.
+1. Ação de obrigação de fazer visando a cobertura de órtese craniana para tratamento de plagiocefalia.
+2. "A lei estabelece que as operadoras de plano de saúde não podem negar o fornecimento de órteses, próteses e seus acessórios indispensáveis ao sucesso da cirurgia, como por exemplo a implantação de stents ou marcapassos em cirurgias cardíacas. Se o fornecimento de órtese essencial ao sucesso da cirurgia deve ser custeado, com muito mais razão a órtese que substitui esta cirurgia, por ter eficácia equivalente sem o procedimento médico invasivo do paciente portador de determinada moléstia" (REsp n. 1.731.762/GO, 3ª Turma, DJe de 28/5/2018).
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.988.642/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/11/2022, DJe de 17/11/2022.)
+Incidente, no ponto, o óbice da Súmula 83/STJ.
+Relativamente aos danos morais, assim decidiu a Corte de origem:
+Na hipótese dos autos, o autor, menor, sofria de patologia grave com necessidade urgente de intervenção por tratamento específico, o qual lhe foi negado. Tal fato causou angústia posto que a não observância do prazo ao início do tratamento causaria prejuízos irreparáveis, inclusive com possível necessidade cirúrgica, o que lhe trouxe maiores sofrimentos.
+ ..
+A fixação do valor da indenização se presta a cumprir dupla função: compensar a vítima pela dor experimentada e desestimular a reiteração da conduta lesiva.
+Por se tratar de dano imaterial, não há critérios objetivos a serem utilizados na mensuração dos valores, que devem ser arbitrados.
+Porém, o magistrado, ao proceder a análise do caso concreto, deve cuidar para que a indenização, mesmo não dando causa a enriquecimento ilícito, sirva para coibir a reiteração da conduta lesiva.
+ ..
+Nessas condições, ante as peculiaridades do caso concreto, observando os parâmetros da jurisprudência desta Câmara de Direito Privado, mostra-se razoável a fixação de R$ 8.000,00.
+Com efeito, a conclusão do Tribunal revisor acerca da existência do dano moral foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+A jurisprudência do STJ admite, excepcionalmente, em sede de recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. No caso dos autos, todavia, em que o valor foi fixado em R$ 8.000,00 (oito mil reais), não vislumbro a necessidade de reduzir a indenização, estando condizente com os princípios da proporcionalidade e razoabilidade.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
