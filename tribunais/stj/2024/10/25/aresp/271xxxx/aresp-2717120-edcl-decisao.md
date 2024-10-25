@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por MARCELO MARQUES LEITE à decisão de fls. 537/538, que não conheceu do recurso.
+Sustenta a parte embargante:
+A r. Decisão DE NÃO CONHECIMENTO DO RECURSO não merece prosperar, devendo a mesma ser reformada, uma vez que o AGRAVO interposto não é intempestivo, senão vejamos:
+Conforme se verifica, no E. STJ não houve expediente nas datas de 30 de maio de 2024 e 31 de maio de 2024, conforme COMUNICADO e provimentos abaixo:
+ ..
+Da mesma forma, conforme se verifica no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, também não houve expediente nas datas de 30 de maio de 2024 e 31 de maio de 2024, conforme COMUNICADO e provimentos abaixo:
+ ..
+Diante das informações acima mencionadas, temos que nem o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO e nem o SUPERIOR TRIBUNAL DE JUSTIÇA tiveram expedientes nas datas de 30 de maio de 2024 e 31 de maio de 2024, de modo que, a referida demonstração ou comprovação se, de regra, torna-se desnecessária pois evidente que em ambos não tiveram expediente.
+DA TEMPESTIVIDADE DO PRESENTE AGRAVO:
+Inicialmente, salienta-se que a r. Decisão que inadmitiu o Recurso Especial interposto pela Embargante foi publicada no Diário de Justiça Eletrônico no dia 22/05/2024 (quarta-feira), teve início o prazo no dia 23/05/2024 (primeiro dia de prazo), considerando que não teve expediente no TJSP e no STF nos dias 30.05.2023 e 31.05.2023, o prazo fatal para a interposição do curso especial foi a data de 14/06/2024 (sexta-feira), data do referido protocolo (fls. 542/544).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No código atual, o prazo para a interposição de Agravo e de Recurso Especial é de 15 dias úteis, nos termos do art. 219, caput, c/c os arts. 994, VI e VIII, 1.003, § 5º, 1.029 e 1.042, caput, todos do CPC.
+Quanto à questão da comprovação de feriado, nos termos do que permite a nova redação do art. 1.003, § 6º, do CPC (dada pela Lei n. 14.939/2024), cumpre registrar que em observância ao princípio do tempus regit actum, o entendimento só será aplicado quando a data de intimação do decisum recorrido tenha ocorrido a partir do dia 31.7.2024 (Mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+Na hipótese, como essa intimação ocorreu ainda na vigência da redação anterior do artigo, a comprovação deveria ter sido feita no ato da interposição do recurso.
+A propósito, confira-se este precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. 1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo". 4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido. (AgInt no AREsp n. 957.821/MS, Rel. para o acórdão Ministra Nancy Andrighi, Corte Especial, DJe de 19/12/2017.)
+É certo que feriado nacional não precisa ser comprovado. Porém, os dias 30.5.2024 e 31.5.2024 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso.
+Observe ainda que, "a jurisprudência desta Corte Superior entende que segunda-feira de carnaval, quarta-feira de cinzas, dias da Semana Santa que antecedem a Sexta-Feira da Paixão, Corpus Christi e Dia do Servidor Público são considerados feriados locais para fins de comprovação da tempestividade recursal" (AgInt nos EDcl no AREsp 1639906/ES, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 24.06. 2022).
+No mais, o STJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. Nesse sentido, AgInt nos EDcl no AREsp 1553768/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27.4.2020; e AgInt nos EDcl no AREsp 1379051/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 3.10.2019.
+Além disso , para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o Agravo e o Recurso Especial interpostos são endereçados ao Presidente do Tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local.
+Nesse sentido, o AgInt nos EDcl no AREsp 1482882/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 14.5.2020 e o AgInt no AREsp 1514470/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5.12.2019.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
