@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PAULO LUIS DA SILVA MELO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO DE JANEIRO (Apelação Criminal n. 0016674-74.2021.8.19.0014, relatora a Desembargadora Katia Maria Amaral Jangutta).
+Os autos dão conta de que o paciente foi condenado, por infração ao art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, em regime semiaberto, além do pagamento multa (e-STJ fl. 100).
+O Tribunal de origem negou provimento ao recurso de apelação da defesa, nos termos da ementa de e-STJ fls. 127/128:
+APELAÇÃO. Artigo 33, caput, da Lei 11.343/06. Condenação. RECURSO DEFENSIVO. Preliminar. Reconhecimento da ilegalidade do flagrante e consequente ilicitude das provas. Mérito. Absolvição; fragilidade probatória; ausência de laudo definitivo. Aplicação da causa de diminuição do artigo 33, §4º,da Lei 11.343/06. Abrandamento do regime prisional. Substituição da pena privativa de liberdade por restritiva de direitos. Direito de apelar em liberdade.
+1. Preliminar. Rejeição. O processo que se inicia em razão de situação de flagrância, configurada por prova oral colhida, sob as garantias constitucionais do contraditório e da ampla defesa, e não, exclusivamente, por uma denúncia anônima, não enseja nulidade. No caso, a diligência efetuada pela Polícia foi plenamente legal, observando o artigo 302,do Código de Processo Penal.
+2. Mérito. A materialidade e a autoria do delito, devidamente demonstradas pelas peças técnicas e segura prova oral produzidas no decorrer do Processo inviabilizam a absolvição. As declarações dos Agentes da lei, não deixam dúvidas de que, com o acusado foram apreendidas drogas, especificamente 48gde pó acondicionados em 43 invólucros transparentes de plástico rígido com vedação própria, vulgarmente conhecidos como "pinos", não havendo como reconhecer fragilidade probatória. Súmula 70, desse Tribunal de Justiça. O Laudo constante nos Documentos 000015 e 000021 possui caráter definitivo, apresentando conclusões peremptórias sobre a natureza da droga e material apreendido, não havendo necessidade de qualquer exame complementar para atestar a certeza da materialidade.
+3. Não se mostra cabível o redutor do artigo 33, §4º, da Lei 11.343/06, diante as circunstâncias que levaram à prisão do acusado. Sobressai o fato de que, ambos os Agentes da lei, em Juízo, narraram que, o acusado já era conhecido da guarnição por inúmeras denúncias de seu envolvimento com o tráfico ilícito de drogas, sendo a localidade dominada pela facção criminosa TCP, levando à conclusão de que o acusado se dedicava a atividades criminosas, em razão da quantidade de drogas apreendidas, forma de acondicionamento e pelas circunstâncias em que se deu a prisão, não se tratando de traficante ocasional.
+4. O total de pena reclusiva finalizada, 5 anos, não permite sua substituição por penas restritivas de direitos, a teor do artigo 44, I, do Código Penal.5. O acusado que se encontra custodiado desde o início da instrução processual, e quando da Sentença é condenado e mantido preso, porque não se modificaram as situações que ensejaram a prisão, não merece responder ao processo em liberdade.
+PRELIMINAR REJEITADA. RECURSO DESPROVIDO.
+Daí o presente writ, no qual sustenta a defesa ilegalidade da busca pessoal realizada com base em denúncia anônima.
+Assere que, "no curso da instrução criminal, os policiais militares narraram que realizaram busca pessoal, sem mandado judicial (ou justa causa), uma vez que realizaram a abordagem sem que nenhum indício de ilicitude se fizesse presente, já que o paciente foi abordado enquanto sentado em um sofá, na calçada, o que por si só não permite a busca pessoal." (e-STJ fl. 6).
+Aduz que, " n o caso em tela, a descoberta das drogas somente foi possível após busca pessoal não autorizada judicialmente, com base exclusivamente em denúncias anônimas. Entretanto, não é lícita a abordagem policial de cidadãos comuns, sem investigações prévias que possam sustentar a busca pessoal em via pública." (e- STJ fl. 8).
+Prossegue afirmando que " ..  os policiais miliares apreenderam a sacola com entorpecentes, mas essa prova não poderia embasar a condenação do paciente, uma vez que, nos termos do art. 157 do Código Penal seria fruto da árvore envenenada". (e-STJ fl. 8).
+Assim, requer, liminarmente e no mérito, a concessão da ordem para reconhecer a nulidade da busca pessoal não autorizada judicialmente e sem justa causa, devendo as provas encontradas serem consideradas ilícitas por derivação e, dessa forma, ser absolvido o paciente do crime previsto no art. 33 da Lei n. 11.343/2006.
+Subsidiariamente, requer seja reconhecida a figura do tráfico privilegiado de drogas, com a redução pela fração máxima de 2/3, a substituição da pena privativa de liberdade por restritiva de direitos e a readequação do regime inicial de cumprimento de pena.
+A liminar foi indeferida (e-STJ fls. 140-142).
+As informações foram prestadas (e-STJ fls. 145-150 e 151-154).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (e-STJ fls. 163-169).
+O exame no sistema do Tribunal local indica que o trânsito em julgado ocorreu no dia 26 de abril de 2023.
+É o relatório.
+Decido.
+Insta consignar, inicialmente, ser "plenamente possível que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC n. 764.854/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21/12/2022)" (AgRg no RHC n. 179.956/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023).
+Verifico que a impetrante pretende a revaloração das provas produzidas nos autos, sob o argumento de que o paciente foi submetido à busca pessoal sem que nenhum indício de ilicitude se fizesse presente.
+A impetrante ressalta que supostas denúncias ou informações - que precederam à busca pessoal - não foram registradas ou acostadas aos autos, de modo que não restou comprovada qualquer suspeita capaz de autorizar a busca pessoal, ressaltando, ainda, que "o simples fato de as pessoas se encontrarem em local supostamente conhecido por ser "ponto de tráfico de drogas" não autoriza qualquer abordagem ou busca pessoal, devendo haver fundada suspeita da prática de crime, na forma do art. 244 do CPP".
+Além disso, a impetrante ressalta que o caso autoriza o reconhecimento do tráfico privilegiado e, por consequência, a substituição da pena privativa de liberdade pelas penas restritivas de direitos e a adequação do regime de cumprimento de pena.
+Quanto à apontada ilegalidade na abordagem do paciente, é preciso reconhecer que o acórdão criticado corretamente enfrenta o tema assim consignando.
+Ao contrário do que se alega, o processo não se iniciou, exclusivamente, por uma denúncia anônima, mas também em razão da situação de flagrância ocorrida, tendo sido a diligência efetuada pela Polícia, plenamente legal.
+Como se pode observar do artigo 302, do Código de Processo Penal:
+"Artigo 302. Considera-se em Flagrante Delito quem:
+I - está cometendo a infração penal;
+II - acaba de cometê-la;
+III - é perseguido, logo após, pela autoridade, pelo ofendido ou por qualquer pessoa, em situação que faça presumir ser autor da infração;
+IV - é encontrado, logo depois, com instrumentos, armas, objetos ou papéis que façam presumir ser ele autor da infração." (g. n.)
+Com efeito, da prova oral colhida, sob as garantias constitucionais do contraditório e da ampla defesa, restou demonstrada a situação de flagrância, sendo dever dos Agentes de Segurança Pública o cumprimento do dever legal de prender quem está cometendo um crime.
+Portanto, não tendo sido a abordagem do paciente efetuada exclusivamente com base em denúncia anônima, mas sim em razão das circunstâncias nas quais ele próprio se encontrava, é forçoso reconhecer a sua legalidade.
+De outro lado, a tese defensiva subsidiária que busca a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, também não tem lugar no caso concreto.
+O tema foi igualmente enfrentado no acórdão criticado.
+A Defesa almeja, também, a aplicação da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei 11.343/2006.
+Sem razão, entretanto.
+Para concessão do benefício é necessário o preenchimento cumulativo dos seguintes requisitos por parte do agente: a) primariedade; b) bons antecedentes; c) não se dedicar às atividades criminosas; e d) não integrar organização criminosa.
+Embora constem 10 anotações na Folha Penal do Acusado (Docs. 000068/000158 e 000161), não há condenação com trânsito em julgado, entretanto, a primariedade não é um requisito isolado, como dito acima.
+No caso, sobressai o fato de que, ambos os Agentes da lei, em Juízo, informaram que, o acusado já era conhecido da guarnição, por inúmeras denúncias de seu envolvimento com o tráfico ilícito de drogas, sendo a localidade dominada pela facção criminosa TCP.
+Assim, conclui-se que, o acusado se dedicava a atividades criminosas, em razão da quantidade de drogas apreendidas, forma de acondicionamento e pelas circunstâncias em que se deu a prisão, não se tratando de traficante ocasional.
+Tudo isso reúne elementos aptos a justificar o afastamento da redutora do artigo 33, § 4º, da Lei 11.343/06.
+Nessa medida, são as circunstâncias do caso concreto - noticiadas pelo acórdão local - que impedem a aplicação da causa de diminuição de pena em destaque, já que, além das suas inúmeras anotações criminais, ele era figura conhecida da guarnição policial justamente em razão do seu envolvimento com o tráfico drogas.
+Veja-se que o paciente foi preso no bairro São Vicente de Paula, na pequena cidade de São Fidélis, no Rio de Janeiro, de modo que não pode causar estranheza a informação policial no sentido de que ele é figura conhecida no tráfico local.
+Por consequência, mantida a condenação com o afastamento da minorante, por óbvio, descabe a substituição da pena privativa de liberdade pelas penas restritivas de direitos ou qualquer ajuste no regime de cumprimento de pena.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
