@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se conflito negativo de competência instaurado entre o JUÍZO DA 6ª VARA DO TRABALHO DE SÃO LUÍS - MA, suscitante, e o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE RIBEIRÃO PRETO - SP, suscitado.
+Ação: execução trabalhista nº 0016685-67.2020.5.16.0016 ajuizada por FELIPE NERIS MORAES DA SILVA em face de BRASCOPPER CBC BRASILEIRA DE CONDUTORES LTDA. em recuperação judicial.
+Manifestação do Juízo Cível: indeferiu o pedido de habilitação do crédito oriundo da execução trabalhista nº 0016685-67.2020.5.16.0016, nos autos da recuperação judicial da empresa BRASCOPPER CBC BRASILEIRA DE CONDUTORES LTDA, por se tratar de crédito extraconcursal.
+Manifestação do Juízo Laboral: afirmou que a competência para a execução do crédito trabalhista reconhecido em desfavor de empresa em processo de soerguimento é do juízo universal, enquanto não encerrar a recuperação, e suscitou o presente conflito de competência.
+Parecer do MPF: opinou pela declaração de competência do juízo da recuperação judicial.
+RELATADO O PROCESSO, DECIDE-SE.
+A jurisprudência desta Corte assinalava que, uma vez afastada a possibilidade de o crédito compor o plano de recuperação judicial (crédito extraconcursal), a execução do respectivo valor deveria prosseguir no juízo onde ele foi apurado, mas a prática de atos constritivos deveria ser submetida ao controle do juízo universal. (AgInt no CC 178.571/MG, Segunda Seção, DJe 18/2/2022).
+A partir do julgamento do CC 196.846/RN, porém, a Segunda Seção do STJ vem assinalando ser permitido ao juízo da recuperação judicial sobrestar ato constritivo realizado nos autos de execução de créditos extraconcursais apenas e tão somente durante o período de blindagem e se incidir sobre bem de capital essencial a suas atividades.
+Isso porque, "uma vez exaurido o período de blindagem  ..  é absolutamente necessário que o credor extraconcursal tenha seu crédito devidamente equalizado no âmbito da execução individual, não sendo possível que o Juízo da recuperação continue, após tal interregno, a obstar a satisfação do crédito, com suporte no princípio da preservação da empresa, o qual não se tem por absoluto" (CC 191.533/MT, Segunda Seção, DJe 26/04/2024).
+Assim, tratando-se a hipótese de crédito extraconcursal, não poderia o juízo laboral se eximir quanto à sua execução. Com efeito, embora possa haver um controle dos atos constritivos sobre o patrimônio da recuperanda pelo juízo do soerguimento (naquela restrita situação citada: constrição de bem de capital durante o stay period), compete ao próprio Juízo Laboral, nos termos do aludido entendimento jurisprudencial, prosseguir com a satisfação de crédito extraconcursal em face da devedora- recuperanda. Logo, impõe-se o reconhecimento da competência do juízo suscitante.
+Forte nessas razões, CONHEÇO do conflito para estabelecer a competência do JUÍZO DA 6ª VARA DO TRABALHO DE SÃO LUÍS - MA.
+Publique-se. Intimem-se. Oficie-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO DA RECUPERAÇÃO JUDICIAL E JUÍZO LABORAL. EXECUÇÃO. SENTENÇA TRABALHISTA. CRÉDITO EXTRACONCURSAL. PROCESSAMENTO E SATISFAÇÃO DO CRÉDITO. COMPETÊNCIA DA JUSTIÇA LABORAL.
+1. Consoante a jurisprudência do STJ, afastada a possibilidade de o crédito compor o plano de recup eração judicial da devedora (crédito extraconcursal), a execução do respectivo valor deve prosseguir no juízo onde ele foi apurado.
+2. Conflito conhecido para declarar competente o JUÍZO DA 6ª VARA DO TRABALHO DE SÃO LUÍS - MA.
