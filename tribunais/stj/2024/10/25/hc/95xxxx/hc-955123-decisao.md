@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de NATHASHA MOLITOR MARCONDES e KAROLAYNE CRISTINA AQUINO FRAZAO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Recurso em Sentido Estrito n. 0012133-94.2024.8.26.0564).
+Depreende-se dos autos que o Ministério Público estadual interpôs recurso em sentido estrito contra a decisão que concedeu a prisão domiciliar às pacientes, presas pela suposta prática de roubo majorado e extorsão.
+O Tribunal de origem deu provimento ao recurso em acordão assim amentado (e-STJ fl. 37).
+RECURSO EM SENTIDO ESTRITO - Roubos majorados, extorsão qualificada e adulteração de sinal identificador de veículo (artigos 157, §§ 2º, II e V; e 2º-A, I; 158, §§ 1º e 3º; e 311, § 2º, III, do Código Penal) - Conversão do flagrante em preventiva, com substituição por prisão domiciliar. Insurgência ministerial. Cabimento - Rés denunciadas por envolvimento em crimes cometidos mediante grave ameaça exercida com arma de fogo e restrição da liberdade das vítimas (incluindo duas menores de idade). Expressa vedação legal à benesse. Inteligência do artigo 318-A, I, do CPP. Diretrizes insculpidas no HC nº 143.641/SP (STF) não incidentes na espécie. Jurisprudência do C. STJ e do próprio Pretório Excelso - Condição de mães de crianças menores de doze anos que não atrai automaticamente a regra substitutiva. Situação excepcional não demonstrada. Posicionamento pacificado das E. Cortes Superiores - Requisitos autorizadores da segregação cautelar presentes, notadamente para garantia da ordem pública, conveniência da instrução criminal e efetiva aplicação da lei penal - Acusadas presas em flagrante quando articulavam planos de fuga, inclusive de malas feitas. Precedente do C. STJ - Recurso provido para revogar a substituição das prisões preventivas por domiciliares e determinar a expedição de mandados de prisão em desfavor das recorridas.
+Daí o presente writ, no qual busca a defesa o restabelecimento da prisão domiciliar.
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Aduz a presença de condições pessoais favoráveis.
+Requer, liminarmente e no mérito, o restabelecimento da prisão domiciliar.
+É o relatório. Decido.
+Com relação ao pleito, asseverou o acórdão impugnado:
+Concessa venia ao entendimento do MM. Juízo de primeiro grau, embora as recorrentes sejam primárias (cf. fls. 107 e 111) e tenham demonstrado que são mães de crianças menores de 12 (doze) anos de idade P. M. da C. e G. M. G. G., nascidos, respectivamente, aos 09.02.2016 e 06.08.2021, filhos de Natasha (fls. 254 e 255/256 da ação penal); e S. V. A. de O., nascida em 27.02.2023, filha de Karolayne Cristina (fl. 430 do processo originário) , a impossibilidade da substituição da prisão preventiva pela domiciliar no caso em tela é manifesta.
+Isso porque ambas foram denunciadas por crimes de roubos majorados e extorsão qualificada, hipótese em que a providência encontra expressa vedação no artigo 318-A, I, do Código de Processo Penal1, apta, inclusive, a afastar a diretriz insculpida no habeas corpus nº 143.641/SP-STF que aliás balizou a redação do dispositivo , consoante a jurisprudência das próprias E. Cortes Superiores .
+De fato, "é assente na jurisprudência desta Corte Superior que os delitos cometidos mediante violência ou grave ameaça à pessoa não comportam a substituição da prisão preventiva por domiciliar, tendo em vista que não se enquadram nas hipóteses autorizadoras do benefício, previstas tanto pela Suprema Corte no julgamento do HC Coletivo n. 143.641/SP, como no art. 318-A, I, do Código de Processo Penal" (AgRg no RHC n. 183.083/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023).
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória. Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido. (RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública. A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido. (HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 4/9/2017.)
+Ante o exposto, denego liminarmente a ordem.
+Publique-se. Intimem-se.
+EMENTA
