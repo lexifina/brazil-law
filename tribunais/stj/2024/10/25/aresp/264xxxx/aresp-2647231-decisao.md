@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por FERNANDA MORAES MENANDES, com fundamento na incidência  da Súmula  7 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, defendendo a não incidência do referido óbice sumular, "por não se tratar de reexame do contexto fático-probatório e sim de sua valoração. Cabe ao Superior Tribunal de Justiça o controle do valor fixado a título de indenização por dano moral, que não pode ser ínfimo ou abusivo, diante das peculiaridades de cada caso, mas sim proporcional à dúplice função deste instituto: reparação do dano, buscando minimizar a dor da vítima, e punição do ofensor, para que não volte a reincidir" (fl. 706).
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+No caso, o Tribunal de origem reformou a sentença de mérito minorando os calores das condenações a título de dano moral e danos estéticos, firme nos nos seguintes fundamentos:
+Com relação aos valores fixados, de fato e apesar da gravidade da situação, destoam da jurisprudência, notadamente do STJ em casos semelhantes de danos decorrentes de acidente de trânsito, sendo razoável o valor de R$ 50.000,00 (cinquenta mil reais) para os danos morais e também R$ 50.000,00 (cinquenta mil reais) aos danos estéticos (AgInt no AR Esp n. 737.943/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2020, D Je de 29/10/2020). (fl. 653)
+Assim, a pretensão da parte recorrente encontra óbice na Súmula 7/STJ. Isso porque, para alterar as conclusões do órgão julgador quanto ao montante indenizatório, seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. REGRESSIVA DE RESSARCIMENTO PROPOSTA PELA SEGURADORA CONTRA CONCESSIONÁRIA DE SERVIÇO PÚBLICO DE ENERGIA. SUBROGAÇÃO. INCIDÊNCIA DO CDC. RELAÇÃO DE CONSUMO. REEXAME DO CONTEXTO FÁTICO-OBRIGATÓRIO. SÚMULA 7/STJ. 1. Na hipótese dos autos, nota-se que o entendimento do Tribunal de origem está em conformidade com a orientação do STJ no sentido de que, sendo de consumo a relação entre a segurada e a concessionária, incide o Código de Defesa do Consumidor na relação entre a seguradora, que se sub-rogou nos direitos da segurada, e a concessionária.
+2. Extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para avaliar se a relação jurídica primígena, entre a concessionária e o usuário dos serviços, é relação de consumo, o que não se admite ante o óbice da Súmula 7/STJ.
+3. Agravo Interno não provido (AgInt no AREsp 1.968.998/MT, relator Ministro Herman Benjamin, Segunda Turma, DJe de 15/3/2022)
+Ademais: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Além disso, as razões recursais estão dissociadas dos fundamentos utilizados pelo aresto recorrido, de modo que a parte não observou o princípio da dialeticidade e a necessária pertinência temática entre as razões de decidir e os fundamentos utilizados pelo recurso para justificar o pedido de reforma ou de nulidade do julgado, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Intimem-se.
+ EMENTA
