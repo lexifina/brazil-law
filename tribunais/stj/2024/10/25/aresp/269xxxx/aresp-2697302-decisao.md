@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ANTÔNIO LAMPERTI, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/06/2024.
+Concluso ao gabinete em: 23/08/2024.
+Ação: indenização pelas perdas e pelos danos, ajuizada por ANTÔNIO LAMPERTI, em face de SEMENTES SELEGRÃOS LTDA.
+Sentença: julgou improcedente o pedido e condenou o agravante ao pagamento dos honorários, fixando-os em 15% sobre o valor atualizado da causa, bem como ao pagamento das custas.
+Acórdão: negou provimento à Apelação interposta pelo agravante, nos termos da seguinte ementa:
+"Ação de indenização por perdas e danos - Sementes de milho - Baixa germinação - Má qualidade das sementes - Ausência de provas - Art. 373, I, CPC - Improcedente - Sentença mantida - Honorário recursal - Recurso Desprovido.
+Conforme jurisprudência consolidada do Superior Tribunal de Justiça, "no contrato de compra e venda de insumos agrícolas, o produtor rural não pode ser considerado destinatário final, razão pela qual, nesses casos, não incide o Código de Defesa do Consumidor, tornando-se inaplicável, por conseguinte," a inversão do ônus da prova (AgInt no AgInt no AREsp n. 1.613.274/PR, Relator Min. Moura Ribeiro, 3ª Turma, j. 06.12.21)
+No caso, a parte não demonstrou que as alegações postas na inicial acerca do problema da safra se deu em razão da baixa germinação e da má qualidade das sementes de milho que adquiriu, razão pela qual a r. sentença, que julgou improcedente o pedido inicial por falta de provas, não merece reforma.
+Em razão do trabalho adicional empregado pelo advogado, da natureza e da importância da causa, majoram-se os honorários advocatícios, nos moldes do art. 85, §11, do CPC." (e-STJ fl. 703)
+Recurso especial: alega violação dos arts. 373, I, CPC, 186, 402, CC, sustentando que: i) a Corte local nada falou sobre a prova oral produzida nos autos, a qual permitiu que o recorrente provasse fato constitutivo do direito alegado, não se podendo, portanto, julgar improcedente o pedido; e, ii) a prova oral produzida nos autos está em consonância com a prova documental produzida nos autos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "os documentos trazidos à baila não demonstraram, de forma cabal, que as sementes de milho adquiridas da agravada eram de má qualidade e que prejudicaram a safra do agravante", bem como de que "não há qualquer demonstração nos autos no sentido de que o agravante tenha adquirido as sementes, as tenha armazenado de forma correta, tenha tomado todas as precauções necessárias para uma colheita regular e as condições climáticas não tenham prejudicado a germinação", assim também de que "o laudo técnico elaborado pelo agravante foi realizado meses após o recebimento das sementes (ID. 81232947 - pág. 37/38), não respeitando o prazo de 30 dias para contestação do produto, conforme destacado na própria nota fiscal (ID. 81232954 - pág. 27)", além de que "não é possível com os documentos apresentados pelo agravante a comprovação da baixa qualidade da semente, porquanto realizada análise técnica apenas em momento posterior à germinação da semente, sem demonstrar a regularidade do momento prévio à plantação (armazenamento, plantação regular, condições climáticas)", ao entendimento de que "o agravante deveria ter produzido a prova pericial, de forma antecipada, através de procedimento próprio, o que não ocorreu", à observação de que "a agravada trouxe os autos os Boletins de Análises das sementes do lote 064-A/09, demonstrando a qualidade das sementes de acordo com o Ministério da Agricultura (ID. 81232954 - pág. 84), além da declaração afirmando a ausência de problemas de germinação, vigor e pureza, exigidos pelo referido órgão (ID. 81232954 - pág. 53)", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de indenização por perdas e danos.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
