@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: revisional de contrato de empréstimo pessoal, ajuizada por VILSON CARLINHO PIRES, em face da agravante, visando reduzir encargos que julga abusivos.
+Sentença: julgou parcialmente procedentes os pedidos para limitar os juros remuneratórios à taxa média de mercado e condenar a agravante a restituir os valores pagos a maior.
+Acórdão: deu parcial provimento à apelação interposta pela parte agravada, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. SENTENÇA DE PARCIAL PROCEDÊNCIA QUE DETERMINOU A LIMITAÇÃO DOS JUROS REMUNERATÓRIOS À TAXA MÉDIA DE MERCADO, RESTITUIÇÃO SIMPLES DOS VALORES INDEVIDAMENTE PAGOS E O PAGAMENTO DAS CUSTAS E HONORÁRIOS ADVOCATÍCIOS EM 10% DO PROVENTO ECONÔMICO OBTIDO. IRRESIGNAÇÃO DA PARTE AUTORA.
+PEDIDO DE FIXAÇÃO SUCUMBENCIAL POR EQUIDADE NO VALOR DE R$4.000,00. TABELA DA OAB QUE NÃO VINCULA O JULGADOR. RECLAMO PARCIALMENTE ACOLHIDO. JURISPRUDÊNCIA SEDIMENTADA DA CÂMARA NO SENTIDO DE FIXAR EM R$1.500,00. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. (fl. 323, e-STJ)
+Decisão de admissibilidade do TJ/SC: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) incidência das Súmulas 211/STJ e 282/STF (art. 421 do Código Civil); ii) necessidade de reexame de fatos e provas (art. 80, VII e 1026 do CPC).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "não se pretende a reanálise das provas ou discutir interpretação de cláusulas contratuais, mas sim a aplicação da mesma tese jurídica para situações idênticas"; ii) "a ora Agravante, com relação a alegada violação ao artigo 1.026, § 2º, do CPC/2015 não pretendeu com isso obter o reexame do conjunto fático-probatório acostado aos autos, mas sim, objetivou que fosse aplicada ao caso tese jurídica diferente"; iii) "a decisão utilizada para fundamentar suas razões de convencimento não se aplica na situação dos autos, mormente porque o 3º Vice Presidente do TJSC utiliza-se de decisão com particularidades distintas a dos presentes autos."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) incidência das Súmulas 211/STJ e 282/STF (art. 421 do Código Civil); ii) necessidade de reexame de fatos e provas (art. 80, VII e 1026 do CPC).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente, em R$ 500,00 (quinhentos reais), ressalvada a eventual concessão da gratuidade da justiça.
+Alerto que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1021, §4º e 1026, §2º do CPC.
+Publique-se. Intimem-se.
+EMENTA
