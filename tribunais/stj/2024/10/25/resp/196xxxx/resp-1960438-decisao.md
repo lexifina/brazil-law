@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por CLARO S.A., com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl. 1037):
+Apelação - Pedidos indenizatório e de rescisão contratual - Improcedência, com declaração de crédito em favor da ré - A possibilidade de fixar-se valor devido em benefício do réu é restrita às ações declaratórias, nas quais a discussão se reporta a um "quantum" previamente conhecido - No caso dos autos, a declaração quanto a débito apurado em trabalho pericial extrapola os limites da lide, traçados pela formulação de pedidos na petição inicial - Julgamento "extra petita" - Decisão reformada nessa parte - Improcedência do pedido revisional que há de ser mantida, vez que não fora possível em prova pericial contábil identificar qualquer descumprimento, por parte da ré, do contrato de constituição de relações comerciais havido entre as partes - Ausência de motivos para compelir a ré à rescisão contratual, sem oferta das contrapartidas formalmente estabelecidas - Recurso parcialmente provido.
+Opostos embargos de declaração, foram eles rejeitados.
+Em razões de recurso especial, a recorrente alega violação aos arts. 489, §1º, IV, e 1.022, II, e ao art. 515, I, do CPC/2015.
+A recorrente sustenta, em síntese, que a) o acórdão foi omisso a respeito da existência de pedido declaratório na inicial, sendo possível a declaração de crédito em favor da CLARO, não havendo que se falar em julgamento extra petita; b) que a ação declaratória tem natureza dúplice, dispensada a necessidade de reconvenção, possibilitando-se a formação de título executivo em favor do réu quando o pedido declaratório formulado pelo autor é julgado improcedente.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Sem razão a recorrente.
+Cuida-se, na origem, de ação ajuizada por Enove Net Comunicações Ltda contra a CLARO S/A, ora recorrente, objetivando indenização e rescisão contratual devido a alegações de violação contratual por parte da Claro.
+Os pedidos formulados foram os seguintes (fls. 9/10):
+1. Seja decretada por sentença a rescisão do presente contrato firmado entre as partes (autor e ré) com forma da cláusula 8.4 pela violação das cláusulas (3.1, 3.2 e 3.3) do contrato, pela RÉ (CLARO);
+2. Seja decretada, com forma da cláusula 9.1.2, que a AUTORA não será obrigada a restituir a RÉ CLARO os investimentos realizados em decorrência das metas alcançadas no período em que tinha condições de prestar seus serviços, sem a intervenção direta e prejudicial da ré (claro);
+3. Seja decretada por sentença que AUTORA, funcionário e parentes estarão desobrigados a cumprir o previsto na cláusula 11.2 em decorrência do fim do contrato pelo cometimento da violação de cláusula contratuais pela ré (CLARO) com forma de punição;
+4. Seja autorizada a devolução do imóvel locado com a possibilidade de vender o ponto como forma de diminuir os prejuízos sofridos;
+5. Seja decretada a desobrigação dos fiadores ao final desta demanda com a procedência da ação;
+6. Seja CITADA a ré CLARO para apresentar sua contestação, caso queira, sob pena das penalidades da revelia;
+7. Seja a ré CLARO condenada ao pagamento da importância de 25.511,80 (vinte e cinco mil quinhentos e onze reais e oitenta centavos) mais juros e correção monetária a título de indenização por Dano Material;
+8. Seja a ré claro condenada ao pagamento da importância de R$ 91.304,11 (noventa e um mil trezentos e quatro reais e onze centavos), correspondente ao valor das comissões que por direito a AUTORA possui com juros e correção monetária;
+9. Seja, ao final, julgada PROCEDENTE a presente AÇÃO PRINCIPAL, para decretar por sentença a rescisão do contrato firmado entre as partes.
+10. PROTESTA por todos os meios de prova em direito admitidos;
+11. Em decorrência da urgência requer prazo de 05 dias para a juntada das custas processuais, guia de oficial de justiça e procuração.
+A sentença julgou improcedentes os pedidos, tendo, além disso, reconhecido crédito em favor da ré, nos seguintes termos (fl. 974):
+Ante o exposto, JULGO IMPROCEDENTE o pedido inicial formulado nesta ação, declarando ainda que a autora deve à requerida o valor de R$ 114.257,97 (atualizado até outubro de 2018).
+CONDENO a parte vencida ao pagamento das custas processuais e dos honorários advocaticios, estes últimos arbitrados em 15% do valor atualizado da causa, a teor do artigo 85, § 2 º, do Código de Processo Civil.
+DECLARO, por fim, resolvido o mérito do processo, o que faço com fundamento no artigo 487, inciso I, do Código de Processo Civil.
+O TJSP julgou parcialmente procedente o recurso interposto pela Enove Net, reformando parte da sentença de primeira instância, reconhecendo que houve julgamento extra petita, pois o valor devido à Claro foi fixado sem que houvesse pedido reconvencional da ré, mantida, no mais, a sentença impugnada.
+A CLARO S/A, no recurso especial, argumentou que a ação declaratória movida pela recorrida teria natureza dúplice, logo, estaria dispensada do pedido reconvencional para fazer jus ao valor reconhecido pela sentença.
+O argumento, contudo, não prospera.
+No processo civil, o autor, em regra, deduz pretensão contra o réu, enquanto este, em sua defesa, se limita a contestar o pedido do autor, seja por meio de objeções processuais, seja deduzindo razões que sustentem a improcedência do pedido.
+Excepcionalmente, porém, a lei ou a natureza da ação permite que o réu também reivindique um bem da vida, ampliando o objeto da disputa. Isso pode ocorrer, consoante o entendimento desta Corte Superior, na reconvenção, no pedido contraposto e nas ações dúplices (REsp n. 2.006.088/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/10/2022, DJe de 6/10/2022).
+Como ensina Araken de Assis, "Do prisma material, é dúplice a ação, provocando o iudicum duplex, na qual a contestação do réu já basta à obtenção do bem da vida. Em geral, o autor pede o réu somente impede; na actio duplex, o ato de impedir (contestação) já expressa um pedido contrário. Tal característica deriva do direito material posto em causa (rectius: mérito, pretensão processual ou objeto litigioso). (In: Procedimento sumário. São Paulo: Malheiros, 1996, p. 91).
+No caso, embora a parte recorrente argumente que a ação declaratória teria, por si só, natureza dúplice, isso não corresponde à realidade.
+A natureza dúplice da ação ou decorre da natureza do direito material posto em causa (a exemplo das ações possessórias típicas), ou de previsão legal.
+O CPC prevê que o título executivo poderá ser constituído tanto em favor do autor quanto do réu (do que decorre a natureza dúplice legal da demanda) na ação de consignação em pagamento (art. 545, § 2º) e na ação de exigir contas (art. 552), nada dispondo a respeito das ações declaratórias em geral.
+Desse modo, não se pode presumir a natureza dúplice da ação declaratória de inexistência de débito, caracterizando julgamento extra petita a decisão que, sem reconvenção do réu, reconhece a existência de débito em seu favor e condena o autor ao seu pagamento. Nesse sentido, já se pronunciou esta Corte Superior:
+RECURSOS ESPECIAIS. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E DE NULIDADE DE DUPLICATA C/C INDENIZAÇÃO POR DANOS MORAIS. SUSTAÇÃO DE PROTESTO. COMPRA E VENDA DE EMBALAGENS. PRIMEIRO RECURSO ESPECIAL. VÍCIOS DE QUALIDADE DOS PRODUTOS. SÚMULA 7/STJ. CONDENAÇÃO DA AUTORA AO PAGAMENTO DA QUANTIA ESTABELECIDA NO TÍTULO, ACRESCIDA DE JUROS E CORREÇÃO MONETÁRIA. NECESSIDADE DE RECONVENÇÃO. SEGUNDO RECURSO ESPECIAL. CAUÇÃO. FINALIDADE DE REPARAR AS PERDAS E DANOS DECORRENTE DA EXECUÇÃO DA TUTELA DE URGÊNCIA. LEVANTAMENTO PARA PAGAMENTO DO DÉBITO. IMPOSSIBILIDADE.
+(..)
+3.2. Na estrutura tradicional da ação de conhecimento, somente o autor formula pretensão em face do réu. O réu, em sua defesa, limita-se a contrapor-se ao pedido do requerente, seja por meio da indicação de objeções processuais, seja defendendo a sua improcedência. No entanto, excepcionalmente, a lei ou a natureza da ação admite que o réu também postule um bem da vida, ampliando o objeto litigioso. É o que se verifica nos seguintes fenômenos processuais: reconvenção, pedido contraposto e ações dúplices.
+3.3. As ações dúplices não se confundem com o pedido contraposto.
+Enquanto as primeiras são decorrência do direito material debatido em juízo e o réu pode obter um bem da vida independentemente da formulação de qualquer pedido, o pedido contraposto somente é admitido quando houver norma consagrando a possibilidade de o réu formular pedido contra o autor em sua contestação. Não sendo hipótese de pedido contraposto ou se o réu de ação dúplice pretender algo além da tutela decorrente do simples exame do pedido do autor deverá apresentar reconvenção.
+3.4. Desse modo, em ação declaratória de inexistência de débito, não é possível ao réu requerer a condenação do autor ao pagamento do montante debatido nos autos, acrescido de juros e correção monetária, sem a formulação de reconvenção.
+(..)
+(REsp n. 2.006.088/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/10/2022, DJe de 6/10/2022.)
+No caso em questão, ao verificar que os valores objeto do pedido de inexistência de débito formulado pelo autor existiam e, na verdade, eram devidos ao réu, nada impede que o magistrado reconheça a exceção de contrato não cumprido. Na ausência de reconvenção, no entanto, não é possível determinar o pagamento da quantia ao réu, pois não há previsão legal para a constituição de título executivo, nem a relação jurídica possui, do ponto de vista material, natureza dúplice.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
