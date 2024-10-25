@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCELO DA SILVA NUNES apontando como autoridade coatora o Tribunal de Justiça do Estado do Ceará.
+Infere-se dos autos que o paciente foi condenado, por infração aos arts. 297 e 304, ambos do Código Penal, à pena de 12 anos de reclusão, em regim inicial fechado, sendo-lhe negado o direito de recorrer em liberdade.
+Irresignada, a defesa interpôs recurso de apelação, o qual pende de julgamento.
+Na presente impetração, a defesa alega, em síntese, a existência de constrangimento ilegal diante do excesso de prazo para o julgamento do apelo defensivo datado de julho de 2017, destacando que "O processo deveria ter sido remetido ao TJ-CE, em 2017, porém, somente foi remetido em julho de 2024 não havia sido remetido, prejudicando o réu, há mais de 07 anos desde a data da prolação da sentença." (e-STJ fl. 4).
+Afirma que "A sentença foi extrapolada decretou pena máxima nos delitos, com carência de fundamentação na dosimetria de pena, além disso a própria narrativa fática, o princípio da consunção, deveria ter sido aplicado, pois no presente caso o delito de falsificação de delito público, foi utilizado como crime meio para alcançar de uso de documento falso, restando apenas, a prática de uma infração" (e-STJ fl. 4).
+Sustenta que "A época da prolatação da sentença em 2017, o mesmo estava preso pelo processo 0605188-41.2017.8.04.0001 - 5ª vara criminal de Manaus/AM e prisão preventiva 0237045-78.2014.8.04.0001 - 4ª Vecute Manaus/AM, logo deveria ter o judiciário do Ceará providenciado a intimação pessoal do réu por força do artigo 392, I do CPP. Logo o despacho de fls. 317, que ordenou expedir mandado de prisão está com nulidades." (e-STJ fl. 4).
+Insiste que "a prisão para execução da pena somente é possível após o trânsito em julgado da ação penal, ou seja, com o esgotamento de todos os recursos cabíveis." (e- STJ fl. 7).
+Diante disso, requer, em liminar e no mérito, o recolhimento da guia de execução provisória, para aguardar o julgamento do apelo em liberdade e o relaxamento da custódia cautelar do paciente.
+Indeferida a liminar (e-STJ fls. 57/59) e prestadas as informações (e-STJ fls. 68/69), o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus ou, caso conhecido, pela denegação da ordem (e-STJ fls. 71/73).
+É o relatório. Decido.
+Busca-se no presente writ, a concessão ao réu do direito de aguardar em liberdade o julgamento do recurso de apelação, sob o argumento de (i) excesso de prazo para o julgamento do apelo; (ii) nulidade do mandado de prisão; e (iii) irregularidade na fixação da pena.
+Inicialmente, cumpre esclarecer que as questões referentes à nulidade do mandado de prisão e irregularidade na fixação da pena não foram objeto de análise perante o Tribunal de origem, o que impede o seu exame diretamente nesta Corte, sob pena de supressão de instância.
+"Desse modo, como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Rel. Ministro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+De outro vértice, em consulta andamento processual do feito, verifica-se que, em 1/10/2024, o apelo defensivo foi julgamento pelo Tribunal de origem.
+Assim, superada a alegação de demora no julgamento do referido recurso .
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, julgo prejudicado o presente mandamus.
+Intimem-se.
+EMENTA
