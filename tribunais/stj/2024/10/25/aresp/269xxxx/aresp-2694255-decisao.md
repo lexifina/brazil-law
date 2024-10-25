@@ -1,0 +1,36 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por CONSTRUTORA CANADA LTDA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 6/6/2024.
+Concluso ao Gabinete em: 26/8/2024.
+Ação: de rescisão contratual cumulada com indenizatória, ajuizada por ROSANGELA CRISTINA DE OLIVEIRA em desfavor da agravante, em virtude de contrato de compra e venda de bem imóvel com pacto de alienação fiduciária firmado entre as partes.
+Acórdão: negou provimento ao agravo interno na apelação interposta pela parte agravante, nos termos das seguinte ementa:
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO DO VENDEDOR. EMPRESA EM RECUPERAÇÃO JUDICIAL. FORTUITO INTERNO. RESTITUIÇÃO INTEGRAL DOS VALORES PAGOS. SÚMULA 543 DO STJ. DANO MORAL CONFIGURADO. TERMO INICIAL DOS JUROS DE MORA. AUSÊNCIA DE FATOS RELEVANTES. DECISÃO MANTIDA.
+1. A relação travada entre as partes insere-se na seara consumerista, ao teor do que prelecionam os artigos 2º e 3º da Lei nº 8.078/90, notadamente porquanto, no contrato em litígio, são impostas obrigações e deveres ao contratante que o adere, sem oportunidade de discussão, aplicando-se a legislação consumerista calcada nos fundamentos da equidade e equilíbrio entre os contratantes.
+2. Na hipótese, a recuperação judicial da construtora configura caso de fortuito interno, cabendo à empresa resguardar-se, porquanto fato previsível à atividade por ela exercida.
+3. Ao teor do que preleciona a Súmula nº 543 do Superior Tribunal de Justiça, na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata e integral restituição dos valores pagos ao comprador, em caso de culpa exclusiva do promitente vendedor/construtor.
+4. No tocante a configuração do dano moral indenizável, tem-se que, comprovada a infração contratual, consistente no atraso na execução do cronograma de obras e inadimplemento das obrigações assumidas, notadamente a entrega do imóvel adquirido, resta evidenciada a violação aos direitos da personalidade, impondo-se a reparação por danos morais.
+5. Constatado que a vendedora/agravante deu causa à rescisão do contrato, devem incidir juros moratórios, a partir da citação (STJ, AgInt no AREsp. nº 1.597.320/RJ), e não do trânsito em julgado da sentença.
+6. Reconhecido que a agravante se encontrava em mora e deu azo ao pedido de rescisão, não há falar-se em modificação da distribuição da verba sucumbencial.
+7. O agravo interno deve ser desprovido quando a matéria nele versada tiver sido suficientemente analisada na decisão recorrida, e a parte agravante não apresentar fundamentos relevantes, capazes de motivar sua reconsideração, ou justificar sua reforma.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO. (e-STJ Fl. 658)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão de admissibilidade do TJ/GO: inadmitiu o recurso especial da agravante em razão dos seguintes fundamentos:
+i) incidência da Súmula 284/STF no que tange à negativa de prestação jurisdicional (arts. 1.022 e 1.025 do CPC), de sorte que "não houve indicação, motivada e clara, dos pontos da lide supostamente não decididos (..)" (e-STJ Fl. 804); e
+ii) incidência das Súmulas 5 e 7 do STJ quanto à "(..) culpa da construtora, com o fito de se verificar a possibilidade ou não de retenção de porcentagem das quantias pagas, quanto a ofensa aos princípios da pacta sunt servanda e da boa-fé objetiva, quanto a ocorrência de dano moral passível de ser indenizado, e, por fim, no que diz respeito à distribuição do ônus de sucumbência (..)" (e-STJ Fl. 805).
+Agravo em recurso especial: nas razões do presente recurso, a agravante alega, em síntese, que:
+i) foram preenchidos os requisitos de admissibilidade recursal;
+ii) é inaplicável a Súmula 284/STF à espécie, porquanto "(..) demonstrou a inexistência de prova de dano moral passível de indenização, restando configurada a violação aos artigos 927 do Código Civil, posto que o mero atraso na entrega da obra não gera aborrecimento passível de indenização, sendo inexistente qualquer excessividade ou abusividade" (e-STJ Fl. 817), bem como no que concerne aos arts. 395, 421, 422 e 927 do Código Civil, a par da Súmula 543/STJ; e
+iii) é descabida a aplicação das Súmulas 5 e 7 do STJ à espécie, buscando-se a aplicação do melhor direito à hipótese e sendo possível a revaloração das provas e fatos consubstanciados nos autos.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) incidência da Súmula 284/STF no que tange à negativa de prestação jurisdicional (arts. 1.022 e 1.025 do CPC), de sorte que "não houve indicação, motivada e clara, dos pontos da lide supostamente não decididos (..)" (e-STJ Fl. 804); e
+ii) incidência das Súmulas 5 e 7 do STJ quanto à "(..) culpa da construtora, com o fito de se verificar a possibilidade ou não de retenção de porcentagem das quantias pagas, quanto a ofensa aos princípios da pacta sunt servanda e da boa-fé objetiva, quanto a ocorrência de dano moral passível de ser indenizado, e, por fim, no que diz respeito à distribuição do ônus de sucumbência (..)" (e-STJ Fl. 805).
+Nesse passo, a agravante limitou-se a tecer alegações meramente genéricas quanto à incidência dos referidos óbices, deixando de demonstrar o efetivo desacerto da decisão, especificamente quanto aos dispositivos legais e particularidades expressamente apontadas na espécie.
+É firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos. Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se ainda que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando a parte agravante genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, majoro em 2% os honorários fixados anteriormente à agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
