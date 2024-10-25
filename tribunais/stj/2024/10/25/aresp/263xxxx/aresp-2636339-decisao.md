@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por LUÍZ ERNESTO DE GIACOMETTI, HOLANDINO FILLIPPI CHIELA, NATALINO ACCO, JOSÉ NELSON GRIS, SANTO BOTTINI, ANTÔNIO PARCIANELLO, VALDECIR ANTÔNIO BENDER, AURI SAUER, SELITO ANTONIETTI e JOACIR LUIS GRIS, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 04/03/2024.
+Concluso ao gabinete em: 05/07/2024.
+Ação: adimplemento contratual cumulada com exibição de documentos, ajuizada por LUÍZ ERNESTO DE GIACOMETTI, HOLANDINO FILLIPPI CHIELA, NATALINO ACCO, JOSÉ NELSON GRIS, SANTO BOTTINI, ANTÔNIO PARCIANELLO, VALDECIR ANTÔNIO BENDER, AURI SAUER, SELITO ANTONIETTI e JOACIR LUIS GRIS, em face de OI S/A - EM RECUPERAÇÃO JUDICIAL.
+Decisão interlocutória: condenou os agravantes, por litigância de má-fé, a pagarem multa de 1% sobre o valor corrigido da causa, bem como fixou os honorários sucumbenciais no valor de R$ 3.000,00 (três mil reais), além de entender incabível a penhora no rosto dos autos, na forma do Termo juntado ao mov. 503.2, uma vez que a demanda foi extinta, sem resolução do mérito, em razão da ausência de interesse de agir, inexistindo valores a serem recebidos pelos agravantes.
+Acórdão: negou provimento ao agravo interno interposto pelos agravantes, nos termos da seguinte ementa:
+"Agravo interno. Decisão que rejeita embargos de declaração. Repetição das mesmas alegações, já refutadas de forma fundamentada por este relator. Pretensão de rediscussão de questão já esclarecida. Manifesta inadmissibilidade do agravo. Multa do art. 1.021, § 4º do CPC. Agravo interno desprovido." (e-STJ fl. 106)
+Embargos de Declaração: opostos, pelos agravantes, foram rejeitados, com aplicação de multa. (e-STJ fl. 147/152)
+Recurso especial: alegam violação dos arts. 98, 99, §§ 2º, 7º, 489, § 1º, CPC. Além de negativa de prestação jurisdicional, sustentam que: i) a Corte local impede os recorrentes de exercerem o direito constitucional de acesso ao Poder Judiciário, sobretudo, de interpor recurso com o benefício da gratuidade da justiça, ou, eventualmente, caso indeferida tal benesse, efetuar o preparo de forma simples e não em dobro; e, ii) não foi fixado prazo à parte recorrente para, alternativamente, proceder ao recolhimento, de forma simples, a teor do disposto no § 7º, do artigo 99, do NCPC.; e, iii) não tem legalidade determinar que o preparo seja efetuado em dobro.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "ficou demonstrada no caso a má-fé dos agravantes quando da interposição de agravo de instrumento, pois pleitearam pela manutenção do benefício que já lhes haveria sido concedido pelo STJ, quando restou evidente nos autos que a suposta concessão da benesse jamais ocorreu", bem como de que "não houve na petição inicial do agravo de instrumento uma formulação clara de um pedido de nova apreciação da questão da gratuidade processual, tanto é que, nos pedidos finais, os agravantes só pugnaram pela manutenção da benesse", assim também de que "os agravantes trouxeram aos autos tão somente a cópia da decisão de mov. 1.17, a fim de induzir o juízo a erro quanto aos fatos processuais pretéritos", além de que "a peça inicial do agravo expressamente informou que a benesse já havia sido concedida à parte, informação falseada pelo patrono, razão pela qual optou-se pela fixação de multa por litigância de má-fé e pela cobrança das custas processuais em dobro", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL CUMULADA COM EXIBIÇÃO DE DOCUMENTOS. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de adimplemento contratual cumulada com exibição de documentos.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
