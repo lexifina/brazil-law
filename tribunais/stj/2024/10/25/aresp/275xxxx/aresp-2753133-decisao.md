@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por ALAN CARLOS DE OLIVEIRA, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fls. 387):
+Apelação criminal. Tráfico de drogas. Autoria. Prova testemunhal. Policial. Não se há de desconsiderar o testemunho de policiais tão-somente por conta de sua condição funcional. Todo e qualquer depoimento, independentemente da atividade profissional de quem o subscreve, deve ser valorado à vista precípua de sua coerência e verossimilhança com as demais provas dos autos.
+Nas razões do recurso especial (e-STJ fls. 404/417), fundado na alínea a do permissivo constitucional, alega a parte recorrente violação dos artigos 33, 59 e 68 do CP e do artigo 33, § 4º, da Lei nº 11.343/06. Sustenta a aplicação do benefício do tráfico privilegiado, tendo em vista que a reincidência se deu por crime punido com detenção, bem como a fixação do regime aberto para o cumprimento da pena.
+Apresentadas contrarrazões (e-STJ fls. 449/462), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 465/469), tendo sido interposto o presente agravo (e-STJ fls. 472/483).
+O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do agravo em recurso especial (e-STJ fls. 513/516).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+Busca-se o reconhecimento de constrangimento ilegal decorrente da negativa de aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Sabe-se que o legislador, ao editar a Lei n. 11.343/2006, objetivou dar tratamento diferenciado ao traficante ocasional, ou seja, aquele que não faz do tráfico o seu meio de vida, por merecer menor reprovabilidade e, consequentemente, tratamento mais benéfico do que o traficante habitual.
+Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+Dessa forma, a configuração da reincidência e dos maus antecedentes impede o reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, por ausência do cumprimento dos requisitos legais. Precedentes: AgRg no AREsp n. 2.269.723/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; EDcl nos EDcl nos EDcl no HC n. 803.261/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/4/2023, DJe de 24/4/2023; AgRg no HC n. 773.381/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2023, DJe de 23/3/2023; AgRg no HC n. 748.105/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023; AgRg no HC n. 746.154/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023.
+No presente caso, o agravante é reincidente, o que inviabiliza a incidência da minorante do art. 33, § 4º, da Lei n. 11.343/2006.
+Assim, m antida a pena em 5 anos e 10 meses de reclusão, deve ser mantido o regime semiaberto, conforme preconiza o art. 33, § 2º, alínea "b", do CP.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
