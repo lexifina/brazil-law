@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso e special interposto por NOTRE DAME INTERMEDICA SAUDE S.A., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de compensação por danos morais, ajuizada por CLEUZA SAVAREGO AZEVEDO CALDEIRA, em face da agravante, em razão de alegada negativa indevida de cobertura de tratamento de câncer de pulmão.
+Acórdão recorrido: negou provimento às apelações interpostas pelas partes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - PLANO DE SAÚDE - Ação de indenização por dano moral. Notre Dame. Paciente diagnosticada com câncer no pulmão. Descumprimento da determinação judicial que impôs à ré a obrigação de fornecer medicamento quimioterápico. Sentença de procedência. Insurgência das partes. Recurso da ré. Preliminares afastadas. Ré que reiteradamente adota postura de resistência ao cumprimento de determinações judiciais. Ato ilícito caracterizado. Dano moral evidenciado. Recurso adesivo da autora para majoração da condenação. Montante. Critérios bem fixados. Recursos de ambas as partes desprovidos. (e-STJ, fl. 229)
+Embargos de declaração: opostos pela agravada, foram rejeitados.
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial, em razão da:
+i) não demonstração de violação dos arts. 55, 369, 434, todos do CPC, 104, 138, 166, 186, 422, 927 e 944, todos do CC/02 e 1º, §1º, e 10, IX, §4º, ambos da Lei 9.656/98;
+ii) incidência da Súmula 7/STJ; e
+ii) não realização de cotejo analítico entre os acórdãos confrontados para fins de demonstração de dissídio jurisprudencial.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz:
+i) que "(..) resta evidenciado ao longo do presente recurso que em nenhum momento a Agravante busca a reanálise de provas, mas sim, tão somente a aplicação da lei civilista em relação a um contrato bilateral, bem-feito e acabado, pactuado por partes capazes e suficientes, em contrapartida a sumula 7 do Superior Tribunal de Justiça." (e-STJ, fl. 360);
+ii) a existência de violação dos arts. 55, 369 ambos do CPC, 104, 138, 166, 186, 422, e 927, todos do CC/02 e 1º, §1º, e 10, IX, §4º, ambos da Lei 9.656/98; e
+iii) "(..) que Recurso Especial atendeu à hipótese prevista na alínea "c" do permissivo constitucional, ao contrário do fundamento do I. Relator, isso porque, foi dada à Lei Federal interpretação diversa da que atribuída por outro tribunal. Neste consoante, não bastasse terem sido ignorados todos os argumentos apresentados em face da notável ofensa a dispositivos federais, o Douto Desembargador Presidente sequer observou o devido cotejo analítico apresentado por esta Agravante, o qual possibilita a interposição do recurso de acordo com a alínea "c" do artigo 105, III, da CF. Destarte, passa-se a evidenciar que a Agravante não se limitou a transcrever ementas sem proceder o devido cotejo analítico. Ora, Excelência, O Tribunal de São Paulo, quando instado a se manifestar sobre o tema em apreço, considerou de forma equivocada violando os preceitos federais aqui demonstrados, enquanto o acordão paradigma, trouxe um entendimento assertivo. Deveras, ao contrário do despacho agravado, restou analiticamente efetuado o cotejo analítico e evidenciado o tratamento diferenciado ao tema." (e-STJ, fl. 373).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: não demonstração de violação dos arts. 434 do CPC e 944 do CC/02 e incidência da Súmula 7/STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
