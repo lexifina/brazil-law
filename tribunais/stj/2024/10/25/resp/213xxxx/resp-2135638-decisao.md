@@ -1,0 +1,45 @@
+DECISÃO
+Examina-se recurso especial interposto por FABIANA DOS REIS ROXO, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/SC.
+Recurso especial interposto em: 24/1/2024.
+Concluso ao gabinete em: 18/4/2024.
+Ação: de declaração de inexistência de débito c/c indenização por danos morais ajuizada por FABIANA DOS REIS ROXO contra ATIVOS S.A. SECURITIZADORA DE CREDITOS FINANCEIROS.
+Sentença: o Juízo de primeiro grau julgou parcialmente procedentes os pedidos formulados na inicial para confirmar a liminar e declarar a inexistência de débito da autora para com a ré, com relação à dívida aqui discutida (e-STJ fl. 184).
+Acórdão: o TJ/SC negou provimento à apelação interposta por FABIANA, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS COM PEDIDO DE TUTELA DE URGÊNCIA. SENTENÇA DE PROCEDÊNCIA PARCIAL. INSURGÊNCIA RECURSAL PELO RECONHECIMENTO DA OCORRÊNCIA DE DANOS MORAIS. PRELIMINAR. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PRODUÇÃO DA PROVA TESTEMUNHAL QUE EM NADA CONTRIBUIRIA PARA O DESFECHO DA CONTROVÉRSIA. MÉRITO. SERASA LIMPA NOME . PLATAFORMA PRIVADA QUE NÃO SE ENQUADRA NO CONCEITO DE CADASTRO DE INADIMPLENTES. JURISPRUDÊNCIA REITERADA DA CORTE. SENTENÇA MANTIDA NA INTEGRALIDADE. HONORÁRIOS RECURSAIS CABÍVEIS. RECURSO CONHECIDO E DESPROVIDO.
+(e-STJ fl. 393)
+Embargos de declaração: opostos por FABIANA, foram rejeitados, com aplicação de multa.
+Recurso especial: alega violação dos arts. 85, §§ 2º e 8º, 422, 489, § 1º, 1.022, I e II, 1.026, § 2º, do CPC/2015, sustentando, além da negativa de prestação jurisdicional, que:
+I) "requereu a produção de prova testemunha especificamente para comprovar os danos morais alegados na petição inicial, tendo em vista que a testemunha atendeu diversas vezes ligações de cobrança da empresa apelada no ambiente de trabalho" e o indeferimento da produção da referida prova caracterizou cerceamento de defesa (e-STJ fl. 447 e 456);
+II) os embargos de declaração opostos contra o acórdão recorrido não tinham caráter protelatório, de modo que deve ser afastada a multa aplicada (e-STJ fl. 456);
+III) os honorários advocatícios de sucumbência devem ser fixados na forma do art. 85, § 2º, do CPC e não por equidade (e-STJ fls. 462-463).
+Juízo prévio de admissibilidade: o TJ/SC admitiu o recurso.
+É O RELATÓRIO. DECIDE-SE.
+1. Da multa dos embargos de declaração
+O Tribunal de origem, ao rejeitar os embargos de declaração opostos pela parte recorrente, aplicou multa de 1% sobre o valor da causa, sob o fundamento de que se tratava de embargos protelatórios.
+No entanto, não se verifica o manifesto intuito protelatório exigido para a aplicação da multa referida, mas sim o objetivo de assegurar o prequestionamento da matéria, tendo em vista, ainda, que se tratava da oposição dos primeiros embargos de declaração.
+Nos termos da Súmula 98/STJ, "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+Desse modo, o recurso, no ponto, merece ser provido para afastar a aplicação da multa imposta à parte recorrente no julgamento dos embargos de declaração.
+2. Da negativa de prestação jurisdicional
+A recorrente alega haver contradição no acórdão recorrido, tendo em vista que este (I) reconhece que a pretensão quanto aos danos morais se fundamenta na alegação de que houve ligações abusivas para o local de trabalho da recorrente, abalando a sua honra objetiva; (II) mas, conclui que a prova testemunhal é desnecessária, sob o fundamento de que a mera inclusão da autora no Serasa Limpa Nome é insuficiente para causar danos morais.
+Segundo a jurisprudência desta Corte, a contradição que enseja o acolhimento dos embargos de declaração é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada (EDcl no REsp 1.863.973/SP, Segunda Seção, DJe 28/6/2022; EDcl no REsp 1.750.660/SC, Primeira Seção, DJe 29/6/2022).
+Com efeito, o acórdão recorrido fundamentou que "a produção de prova testemunhal em nada contribuiria para o desfecho da demanda esperado pela recorrente - o reconhecimento de danos morais. Isto porque, o quadro fático consolidado nos autos indica que a mera inclusão da autora no programa "Serasa Limpa Nome" é insuficiente para ocasionar danos morais" (e-STJ fl. 395).
+No entanto, ao ser provocado em sede de embargos de declaração, o Tribunal de origem mantém a referida conclusão, mas, em outro trecho, reconhece que os danos morais não se fundamentam na inclusão na plataforma e sim nas ligações abusivas, consignando expressamente que "das razões recursais, extrai-se: no presente caso, tendo em vista que houve ligações abusivas para o local de trabalho da autora, que terceiros, como a testemunha que seria ouvida, ficaram sabendo da dívida da autora, uma dívida inexistente, o que abala a honra objetiva da autora, eis que no próprio trabalho em que labora, seus colegas de serviço ficaram sabendo de seus débitos, que sequer existiam" (e-STJ fl. 434).
+Desse modo há inadequação lógica entre a fundamentação posta e a conclusão adotada, tendo em vista que o Tribunal de origem deveria ter enfrentado se a prova oral requerida pela recorrente é ou não necessária para comprovar as ligações abusivas que são a causa do dano moral alegado (e não a inclusão da autora na plataforma Serasa Limpa Nome).
+Em outras palavras, se o dano moral não se fundamenta na mera inclusão da autora na plataforma, não é lógico afirmar que a prova oral é desnecessária, em razão de a referida inclusão não gerar dano moral.
+Além disso, a recorrente alega omissão no acórdão recorrido em relação à alegação na apelação sobre os honorários advocatícios de sucumbência, no sentido de se observar os critérios do art. 85, § 2º, do CPC.
+Realmente, mesmo após ser provocado por meio dos embargos de declaração, o Tribunal de origem não se manifestou sobre a referida alegação e, ainda, aplicou multa por considerar os embargos protelatórios.
+Segundo a jurisprudência do STJ, caracteriza-se a ofensa ao art. 1.022 do CPC nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da lide (AgInt no REsp 1.829.677/RJ, Terceira Turma, DJe 1/7/2020; AgInt no AREsp 1.081.502/MG, Terceira Turma, DJe 2/2/2018; e EDcl no AgInt no REsp 1.281.316/MT, Quarta Turma, DJe 2/3/2018).
+Desse modo, o recurso, quanto ao ponto, merece ser provido, com a anulação do acórdão que julgou os embargos de declaração, a fim de que outro seja proferido, sanando as contradições e omissões apontadas acima.
+Em virtude da necessidade de novo julgamento pelo Tribunal local, ficam prejudicadas as demais questões de mérito alegadas no presente recurso especial.
+DISPOSITIVO
+Forte nessas razões, com fundamento no art. 34, XVIII, "a" e "c", do RISTJ, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para (I) afastar a multa dos embargos de declaração; (II) anular o acórdão de e-STJ fls. 432-436, que julgou os embargos de declaração opostos pela recorrente (FABIANA) contra o acórdão que julgou a apelação; e (III) determinar a remessa dos autos ao TJ/SC para que proceda a novo julgamento dos embargos de declaração, sanando as contradições e omissões reconhecidas nos termos desta fundamentação.
+Deixo de fixar honorários advocatícios, tendo em vista que o processo será objeto de novo julgamento pela Corte local.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. MULTA APLICADA NOS EMBARGOS DE DECLARAÇÃO. AFASTAMENTO. SÚMULA 98/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONFIGURAÇÃO. CONTRADIÇÃO E OMISSÃO. ANULAÇÃO DO ACÓRDÃO.
+1. Ação de declaração de inexistência de débito c/c indenização por danos morais.
+2. Afasta-se a multa do art. 1.026, § 2º, do CPC quando não se caracteriza o intento protelatório na oposição dos embargos de declaração. Súmula 98/STJ.
+3. Segundo a jurisprudência desta Corte, a contradição que enseja o acolhimento dos embargos de declaração é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, situação configurada no recurso sob julgamento.
+4. Caracteriza-se a ofensa ao art. 1.022 do CPC nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da lide. Precedentes.
+5. Recurso especial parcialmente conhecido e, nessa extensão, provido para (I) afastar a multa dos embargos de declaração; (II) anular o acórdão que julgou os embargos de declaração; e (III) determinar a remessa dos autos ao TJ/SC para que proceda a novo julgamento, sanando as contradições e omissões reconhecidas nos termos desta fundamentação.
