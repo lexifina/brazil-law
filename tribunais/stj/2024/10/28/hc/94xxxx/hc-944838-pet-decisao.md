@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de requerimento da defesa (e-STJ, fls. 143/156), para que seja julgado prejudicado o recurso de agravo regimental interposto pelo Ministério Público estadual (e-STJ, fls. 130/136) contra a decisão monocrática, nesta Corte, que concedeu a ordem de ofício para que o tribunal de origem fundamente a necessidade ou não da realização do exame criminológico, à luz da legislação e jurisprudência prévias à Lei n. 14.843/2024, ou seja conforme a súmula 439 do STJ (e-STJ, fls. 100/105).
+Explica que o Tribunal de Origem já realizou a referida análise, conforme determinado na R. Decisão, e julgou a matéria, o que originou a interposição do HABEAS CORPUS Nº 948542 - SP, no qual foi concedida a ordem, a fim de cassar o acórdão coator e restabelecer o regime aberto deferido ao paciente pelo Juízo da primeira instância, tendo a decisão transitado em julgado, sem recurso por parte do Ministério Público.
+Desse modo, tendo em vista a superveniência de decisão monocrática desta Corte, favorável ao executado, já transitada em julgado, sem recurso ministerial, o pedido do agravo regimental neste habeas corpus, interposto pelo Ministério Público do Estado de São Paulo, a fim de que fosse restabelecida a decisão que determinara a realização do exame criminológico, tornou- prejudicado.
+Diante disso, com fundamento no art. 34, XI e XX do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o agravo regimental do presente habeas corpus, devendo ser retirado de pauta o julgamento do recurso.
+Intimem-se.
+EMENTA
