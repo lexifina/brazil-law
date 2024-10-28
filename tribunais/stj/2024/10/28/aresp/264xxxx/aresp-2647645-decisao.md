@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da não ocorrência de negativa de prestação jurisdicional.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl.285):
+IMPUGNAÇÃO AO CUMPRIMENTO INDIVIDUAL DE TÍTULO COLETIVO. POSSIBILIDADE DE AJUIZAMENTO DE EXECUÇÕES INDIVIDUAIS AUTÔNOMAS PARA CUMPRIMENTO DAS OBRIGAÇÕES DE FAZER E DE PAGAR. LEGITIMIDADE ATIVA. COMPROVAÇÃO DA ASSOCIAÇÃO À AFPEV. IMPLEMENTAÇÃO PISO SALARIAL DO MAGISTÉRIO SOBRE O VENCIMENTO BÁSICO. REPERCUSSÃO SOBRE A VPNI QUE NÃO DEVE SER DISCUTIDA NESTES AUTOS. EVENTUAIS DIFERENÇAS REMUNERATÓRIAS QUE DEVEM SER APURADAS NOS AUTOS DA EXECUÇÃO INDIVIDUAL RELATIVA À OBRIGAÇÃO DE PAGAR. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. IMPUGNAÇÃO JULGADA IMPROCEDENTE.
+Embargos de declaração rejeitados.
+A parte recorrente alega violação dos arts. 489 e 1.022 do Código de Processo Civil - CPC/2015, sustentando, em síntese, que houve recusa à apreciação da incidência dos arts. 3º e 5º da Lei Estadual nº 12.576/2012 e, consequentemente, da natureza da VPNI (fl.319).
+Contrarrazões às fls. 250-525.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+De fato, não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado. E, no caso dos autos, não se verifica violação dos referidos dispositivos, na medida em que a fundamentação adotada pelo órgão julgador torna desnecessária a integração pedida nos aclaratórios.
+Vejamos, a propósito, o fundamento adotado pelo órgão julgador a quo, por ocasião do julgamento da impugnação (fls. 297-298):
+Alega o Estado da Bahia que o valor pago a título de vantagem pessoal nominalmente identificável - VPNI, instituída pela Lei Estadual n. 12.578/2012, é superior a diferença exigida com a implementação do piso nacional. Defende, então, que o cumprimento da obrigação de fazer deve resultar na redução da VPNI recebida.
+Neste ponto, vale transcrever a parte dispositiva do acórdão executado:
+"Por tudo quanto exposto, na esteira do parecer ministerial, voto no sentido de rejeitar as preliminares e CONCEDER A SEGURANÇA, para assegurar o direito dos profissionais do magistério público estadual, ativos e inativos/pensionistas que façam jus à paridade vencimental, nos termos da EC nº 41/2003, à percepção da verba Vencimento/Subsídio no valor do Piso Nacional do Magistério, proporcional à jornada de trabalho, definido a cada ano pelo Ministério da Educação, em atendimento ao quanto prescrito na Lei Federal Nº 11.738/2008, bem como ao pagamento das diferenças remuneratórias devidas a partir da impetração, com os devidos reflexos em todas as parcelas que têm o vencimento/subsídio como base de cálculo."
+Acrescente-se que o Supremo Tribunal Federal, no julgamento da ADI 4167, entendeu que "É constitucional a norma geral federal que fixou o piso salarial dos professores do ensino médio com base no vencimento, e não na remuneração global".
+Logo, o cumprimento da obrigação de fazer determinada no título coletivo deve resultar na implementação do piso nacional do magistério sobre o vencimento básico da parte demandante, que atualmente diz respeito ao subsídio, com reflexos nas demais parcelas.
+É importante ressaltar que não houve discussão na fase de conhecimento acerca das eventuais consequências que a referida implementação provocaria na VPNI, especificamente a sua diminuição.
+Destarte, não se faz possível que a matéria seja apreciada nesta execução individual, dada a ampliação indevida do objeto da demanda.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Ante o exposto, conheço do agravo para nega r provimento ao recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
