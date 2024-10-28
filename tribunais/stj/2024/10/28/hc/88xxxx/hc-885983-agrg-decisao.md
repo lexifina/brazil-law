@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por LUCAS PEDROSO DA FONSECA contra decisão na qual não conheci do habeas corpus e mantive a reprimenda imposta ao agravante em 6 anos de reclusão, a ser cumprida em regime inicial fechado, pela prática do delito de receptação qualificada (art. 180, § 1º, do Código Penal) - e-STJ fls. 123/126.
+Em suas razões, alega o agravante, inicialmente, que em casos semelhantes, julgados por esta relatoria, concluiu-se pela desproporcionalidade do aumento aplicado, com a concessão da ordem de ofício, sendo, inclusive, o parecer ministerial no mesmo sentido.
+É o relatório.
+Decido.
+Inicialmente, analisando melhor o caso, entendo ser o caso de reconsideração da decisão agravada, senão vejamos.
+Com efeito, embora se trate de habeas corpus substitutivo de revisão criminal, verifica-se flagrante ilegalidade no quantum de aumento realizado pela instância ordinária na primeira etapa da dosimetria, a ser reparada de ofício.
+No ponto, ressalto que não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal. Ao contrário, é garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto.
+Desse modo, as circunstâncias do caso concreto, conjugadas com os princípios da proporcionalidade e da razoabilidade, nortearão o sentenciante na escolha do aumento de cada circunstância judicial desfavorável. Na espécie, as circunstâncias consideradas pela Corte de origem - "trata-se de verdadeira "empresa" de receptação de veículos furtados e roubados, mais de dez presentes no dia da prisão em flagrante, com muitas pessoas envolvidas, em local com todo o aparato destinado ao corte dos carros e transporte das peças, com carro apropriado, e com imediata distribuição das peças às diversas lojas para a revenda, na Capital. Tem-se, assim, grande ofensa ao bem jurídico protegido no tipo penal e grande afronta social, conduta muito séria e organizada e que, como é cediço, fomenta e estimula a prática de roubos e furtos de veículos. Por tais motivos, a conduta dos réus é muito reprovável e o aumento da pena base é medida de rigor, sem olvidar que todos eles já tiveram envolvimento com outro delito de receptação ou roubo, indicando conduta social inadequada e conhecimento da ilicitude" (e-STJ fl. 58) - de fato, evidenciam o maior desvalor da conduta.
+Todavia, não obstante esses fundamentos serem idôneos, o quantum de aumento de 3 anos acima do mínimo legal é desproporcional e desarrazoado, o que revela a necessidade de reparo na decisão agravada.
+Assim, passo ao redimensionamento da reprimenda.
+Fixo a pena-base acima do mínimo legal, em 1 ano, em razão das circunstâncias alhures referenciadas, alcançando, aqui, 4 anos de reclusão, patamar que torno definitivo em virtude da ausência de atenuantes ou agravantes, ou causas de aumento ou diminuição.
+Outrossim, nos moldes determinados pelo art. 33, § 2º, do CP, tendo em vista o quantum de pena e a presença de circunstâncias judiciais desfavoráveis, o regime inicial deve ser o semiaberto.
+Ante do exposto, dou provimento ao agravo regimental, nos termos ora delineados.
+Publiqu e-se. Intimem-se.
+EMENTA
