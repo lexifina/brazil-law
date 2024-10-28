@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. ACÓRDÃO EMBARGADO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pela CTEEP - COMPANHIA DE TRANSMISSÃO DE ENERGIA ELÉTRICA PAULISTA, contra acórdão de minha relatoria que desproveu o respectivo agravo interno, assim ementado (fl. 1356):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DESAPROPRIAÇÃO. CUMPRIMENTO DE SENTENÇA. NÃO IMPUGNADOS DE FORMA ESPECÍFICA ALGUNS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, o fundamento da decisão que não admitiu o recurso especial na origem referente à ausência de interesse recursal, pela perda do objeto. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+Alega a embargante a existência de omissão e contradição no acórdão embargado, no que diz respeito à impugnação específica do fundamento da decisão de inadmissão do recurso especial, referente à perda do objeto.
+Sustenta que o acórdão seria contraditório porque, o trecho nele transcrito, extraído das razões do agravo em recurso especial, por si só, demonstraria ter havido a impugnação do aludido fundamento. Seria também omisso, porque não teria analisado "um tópico específico demonstrando a violação aos artigos 55, § 3º e 313, inciso IV, do CPC" (fl. 1365) e, também, um "quadro comparativo à fl. 1281 entre as ementadas dos vv. acórdãos deste e do outro recurso, a fim de emprestar ainda mais elementos que possam contribuir para a conclusão de que se está diante das hipóteses legais de reunião ou suspensão processual" (idem).
+Pede o acolhimento dos embargos de declaração, para que haja manifestação expressa "acerca do tópico inteiro dedicado à impugnação da suposta falta de perda do objeto recursal, em razão da pendência de julgamento definitivo do outro recurso tido como prejudicial" (ibidem).
+Impugnação às fls. 1371-1372.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. ACÓRDÃO EMBARGADO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, bem como em harmonia e conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, no aresto embargado foi explicitamente assinalado que (fls. 4269-1358):
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO não admitiu o apelo nobre com esteio na seguinte fundamentação: a) inexistência de ofensa aos arts. 489 e 1.022 do CPC, porque o acórdão recorrido não é carente de fundamentação e não possui omissões; b) ausência do interesse em recorrer, pela perda superveniente do objeto; c) não comprovação da divergência jurisprudencial, pois não atendidos os requisitos do art. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Contudo, como mencionado na decisão agravada, "a parte Agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente à ausência do interesse em recorrer, pela perda superveniente do objeto." (fl. 1312)
+Com efeito, as razões do agravo em recurso especial, nesse ponto, tão somente sustentaram, genericamente, que "resta configurada a hipótese de reunião dos recursos na forma do art. 55, § 3º do CPC, ou suspensão do recurso dependente, como prevê o art. 313, V, também do CPC, mas nunca a perda do interesse recursal, em razão da probabilidade de reforma do v. acórdão mencionado pelos Tribunais Superiores." (fl. 1280)
+Ressalto, ainda, que a ausência de impugnação específica do referido fundamento não se limitou à análise do trecho das razões do agravo em recurso especial transcrito no acórdão embargado, mas avaliou todos os argumentos trazidos no referido recurso, inclusive o tópico específico e o quadro comparativo feitos pelo Embargante. E, neles, não houve a impugnação concreta do referido fundamento, tendo em vista que a argumentação se cingiu à comparação com outros processos supostamente semelhantes que teriam sido julgados de maneira diversa pelo Tribunal de origem, bem como em considerações acerca dos honorários advocatícios.
+Por derradeiro, a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
