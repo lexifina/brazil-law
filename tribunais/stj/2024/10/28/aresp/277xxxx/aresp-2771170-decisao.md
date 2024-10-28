@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Naturytha Indústria e Comércio de Cosméticos Ltda., com fundamento no art. 105, III, a, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fl. 461):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. SENTENÇA QUE CONHECEU DA PREFACIAL ARGUIDA PELA EMBARGANTE E JULGOU EXTINTA A AÇÃO DE EXECUÇÃO DE OBRIGAÇÃO DE FAZER AJUIZADA PELA EMBARGADA. CONTRARRAZÕES DA DEMANDADA. DESERÇÃO. INOCORRÊNCIA. PREPARO RECURSAL RECOLHIDO NA DATA DA INTERPOSIÇÃO DO RECURSO. PRELIMINAR EM CONTRARRAZÕES ARGUIDA PELA PARTE AUTORA. PRETENDIDA A INADMISSIBILIDADE DO RECURSO INTERPOSTO PELO RÉU POR FALTA DE DIALETICIDADE E INTERESSE RECURSAL. INACOLHIMENTO. RAZÕES RECURSAIS QUE REBATEM OS FUNDAMENTOS CONTIDOS NO DECISÓRIO. OFENSA AO PRINCÍPIO DA DIALETICIDADE NÃO CONFIGURADO. INTERESSE RECURSAL CARACTERIZADO. CONHECIMENTO DO RECLAMO QUE SE IMPÕE. INSURGÊNCIA DA PARTE EMBARGADA. PLEITO DE CASSAÇÃO DA SENTENÇA E RECONHECIMENTO DO CONTRATO COMO TÍTULO EXECUTIVO EXTRAJUDICIAL. REQUISITOS DA OBRIGAÇÃO EXISTENTES. CONTRATO ASSINADO PELA EMPRESA EMBARGANTE E DUAS TESTEMUNHAS. EXEGESE DO ART. 784, INCISO III, DO CPC. DESNECESSIDADE DE INSTAURAÇÃO DO PROCESSO DE CONHECIMENTO. RECURSO CONHECIDO E PROVIDO. SENTENÇA CASSADA.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, a recorrente apontou violação aos arts. 489, § 1º e seu inciso IV, 798, I, c, e 1.022, I e II, do CPC/2015.
+Sustentou a ocorrência de negativa de prestação jurisdicional.
+Aduziu que a inicial executória seria inepta por incompatibilidade da pretensão autoral com o rito executivo e pela ausência de documento essencial.
+Sem contrarrazões.
+O processamento do apelo especial foi inadmitido pela Corte de origem, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+Quanto à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+A propósito, confira-se o seguinte trecho do aresto vergastado (e-STJ, fls. 459-460):
+Compulsando-se os anseios recursais, observa-se que o cerne da celeuma está no preenchimento ou não de todos os requisitos para o ajuizamento de um processo de execução de título executivo extrajudicial de obrigação de fazer, quais sejam: certeza, exigibilidade e liquidez.
+O art. 783 do Código de Processo Civil prevê que para uma execução ser processada, deve ser instruída de um título de obrigação certa, líquida e exigível.
+Já o artigo seguinte, em seu inciso III, prevê que um documento particular, para ser considerado título executivo, deve estar assinado pelo devedor e por 02 (duas) testemunhas.
+Analisando o processo em apenso, verifica-se que foram preenchidos todos os requisitos para o ajuizamento de processo de execução de título executivo extrajudicial de obrigação de fazer, eis que a inicial veio acompanhada do pacto firmado entre as partes, devidamente assinado pela empresa embargante e 02 (duas) testemunhas (processo 0311271-68.2016.8.24.0020/SC, evento 1, INF7).
+
+Ademais, em sua cláusula oitiva o citado contrato prevê obrigação de fazer certa, líquida e exigível, no caso de rescisão, qual seja: a devolução de todos os produtos disponíveis em estoque.
+Aliás, as regras para o processamento de uma execução de fazer, encontram-se dispostas no Capítulo III, Seção II do Código de Processo Civil, prevendo seu art. 815 que: "Quando o objeto da execução for obrigação de fazer, o executado será citado para satisfazê-la no prazo que o juiz lhe designar, se outro não estiver determinado no título executivo."
+Por conseguinte, não há que se falar em necessidade de instauração de processo de conhecimento, devendo a sentença que acolheu a preliminar arguida pela parte apelada ser cassada, e devolvido os autos à primeira instância para análise dos demais pedidos realizados em embargos à execução.
+Veja-se, ainda, o excerto abaixo retirado do julgamento dos aclaratórios (e-STJ, fl. 490):
+In casu, verifica-se que o acórdão vergastado analisou amplamente os fatos e provas amealhadas, mencionando que o instrumento contratual executado contém todos os elementos necessários de título executivo, ressaltando que a cláusula oitava traduz cláusula resolutiva expressa, prevendo a obrigação de fazer certa, líquida e exigível, ou seja, a devolução de todos os produtos disponíveis em estoque.
+Logo, como bem pontuou a decisão objurgada, mostra-se despicienda qualquer providência anterior para dar eficácia ao título executivo, inclusive, o reconhecimento da resolução do pacto.
+Do exposto, nota -se que o Tribunal estadual se manifestou de forma expressa e fundamentada acerca da questão suscitada, declinando as razões pelas quais entendeu pelo preenchimento de todos os requisitos para o ajuizamento da execução.
+Nesse contexto, não se constata a propalada ofensa aos arts. 489 e 1.022 do CPC/2015, mas o mero inconformismo da parte com o resultado do julgamento, o que não se confunde com negativa de prestação jurisdicional.
+Ilustrativamente:
+AGRAVO INTERNO. RECURSO ESPECIAL. INDENIZAÇÃO. DANO MORAL. OMISSÃO. NÃO CONFIGURAÇÃO. INFORME PUBLICITÁRIO. INTUITO DIFAMATÓRIO. ATO ILÍCITO. DEVER DE INDENIZAR. RECONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Não se reconhecem a omissão e negativa de prestação jurisdicional quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.037.830/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+Noutro ponto, é certo que a Corte originária consignou que a cláusula oitava do instrumento contratual traduz cláusula resolutiva expressa, prevendo obrigação de fazer certa, líquida e exigível consistente na devolução de todos os produtos disponíveis em estoque.
+Assim, não há como infirmar a convicção estadual, para concluir pela necessidade de prévia comprovação da rescisão contratual, sem a interpretação de cláusulas contratuais e o reexame de fatos e provas, procedimentos vedados na via eleita, ante a previsão contida nas Súmulas 5 e 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. EXISTÊNCIA DE CLÁUSULA RESOLUTIVA EXPRESSA NO INSTRUMENTO CONTRATUAL. DESNECESSIDADE DE COMPROVAÇÃO DA RESCISÃO DA AVENÇA. PRESENÇA DOS REQUISITOS DE CERTEZA, LIQUIDEZ E EXIGIBILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. 3. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
