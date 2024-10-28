@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ALEGADA VIOLAÇÃO AOS ARTS. 11 E 489 DO CPC. INEXISTÊNCIA. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA IMPOSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA AGRAVANTE. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SÚMULA 283 DO STF. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, afastando-se, por conseguinte, a alegada violação aos arts. 11 e 489 do CPC.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai, por analogia, o óbice da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+4.  Agravo  interno  desprovido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  pela COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE  contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial,  para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento, em razão da inexistência de violação aos arts. 11 e 489, II,  do  CPC; e pela aplicação da Súmula 7 do STJ.
+Argumenta  a  parte agravante,  em  síntese,  que:
+ ..  a revisão do julgado proposta pela Companhia em seu Recurso Especial não depende de revisão de matéria fático-probatória. Ao contrário, objetiva suprimir do v. acórdão interpretação jurídica erroneamente fixada, em especial ao rejeitar a fixação de honorários sucumbenciais aos patronos da Companhia pelo substancial acolhimento da Impugnação (fl. 171).
+Defende, ainda, que:
+ ..  sendo certo que os Embargos à Execução apresentados pela CEDAE foram acolhidos ao final e, além disso, sequer houve arbitramento de verba sucumbencial em desfavor da Companhia, não haveria qualquer fundamento na execução dos honorários advocatícios na forma realizada pelo agravado (fl. 176).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Não houve impugnação da parte agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ALEGADA VIOLAÇÃO AOS ARTS. 11 E 489 DO CPC. INEXISTÊNCIA. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA IMPOSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA AGRAVANTE. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SÚMULA 283 DO STF. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, afastando-se, por conseguinte, a alegada violação aos arts. 11 e 489 do CPC.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai, por analogia, o óbice da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+4.  Agravo  interno  desprovido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Quanto à apontada violação aos arts. 11 e 489, II, do CPC, não há nulidade por negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, rejeitando expressamente o pedido de condenação da parte agravada em honorários advocatícios, com base nos seguintes fundamentos:
+Como se verifica na decisão vergastada, o D. Magistrado de piso rejeitou a impugnação, julgando improcedente o pedido de nulidade da execução dos honorários, na forma do art. 535, IV e § 2º, do CPC/2015, mas, DE OFÍCIO, determinou a redução da base de cálculo para que passe a constar como correto o valor de R$ 470.838,17 - quatrocentos e setenta mil, oitocentos e trinta e oito reais e dezessete centavos, deixando de condenar o impugnante em honorários advocatícios, nos termos do art 85, § 1º, CPC, por entender ser a hipótese de sucumbência recíproca.
+Ocorre que, ao contrário do que mencionou o D. juízo a quo na decisão ora recorrida, embora o acórdão relativo aos embargos à execução tenha reduzido o valor da execução ao patamar de R$ 470.838,17, não foi omisso quanto à sucumbência. Dessa forma, inaplicável ao caso o disposto na súmula n.º 453 do C. STJ ("Os honorários sucumbenciais, quando omitidos em decisão transitada em julgado, não podem ser cobrados em execução ou em ação própria.").
+Afirma, ainda, o ora agravante que, embora a impugnação tenha sido rejeitada, em verdade, houve substancial redução do quantum exequendo (cerca de 80%), revelando excesso na execução promovida e, na prática, o acolhimento do mérito da impugnação e, por conseguinte, sendo devidos honorários em favor dos patronos da CEDAE, considerando-se o excesso apurado.
+Todavia, como já mencionado, a questão relativa aos honorários que estão sendo executados no presente feito restou devidamente abordada pelo acórdão dos embargos de declaração de índice 196 do feito originário, sendo mantidos em 10% do valor da causa, o que leva a crer no equívoco da decisão ora objurgada ao reduzir tal base de cálculo.
+Com efeito, a irresignação da ora agravante deveria ter sido veiculada no recurso manejado contra tal decisão, não lhe sendo lícito fazê-lo na fase de cumprimento de sentença.
+Portanto, devido às peculiaridades do presente caso, não prospera a alegação recursal no sentido de que devem ser fixados honorários em favor dos patronos da CEDAE em virtude da redução do quantum exequendo.
+ ..
+No que tange à alegação de que o agravado levantou valor superior ao que lhe era efetivamente devido, desconsiderando o julgamento do apelo realizado nos autos dos embargos à execução, bem como quanto ao pedido de devolução do montante de R$ 782.603,48, insta salientar que o tema não foi apreciado pela decisão recorrida.
+Em verdade, o que se pretende no presente feito é tão somente o pagamento da verba honorária devida em razão da sucumbência relativa aos embargos à execução manejados pela CEDAE, ao passo que o suposto levantamento indevido se refere aos autos da ação de rescisão contratual c/c cobrança tombada sob o n.º 0003028-81.1994.8.19.0001, no bojo da qual ainda estão sendo discutidos os referidos valores. Logo, o presente agravo de instrumento não se mostra como recurso adequado para reaver os referidos valores (fls. 33-34).
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+No mérito , constata-se a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ademais, a alteração da conclusão do Tribunal a quo, acerca da análise das peculiaridades que levaram à rejeição do requerimento de fixação dos honorários, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Isso posto, nego provimento ao recurso.
