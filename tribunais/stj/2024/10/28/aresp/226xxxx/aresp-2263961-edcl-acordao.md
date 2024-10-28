@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARESTO QUE MANTEVE A DECISÃO DE NÃO CONHECIMENTO DO RECURSO PELO ÓBICE DA SÚMULA 211/STJ. ART. 1.022 DO CPC. OMISSÃO. OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITO MODIFICATIVO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. O acórdão impugnado realmente padece por vício de omissão, uma vez que manteve a decisão da Presidência deste Superior Tribunal de Justiça, que obstou o o conhecimento do recurso especial em virtude do enunciado Súmula 211/STJ, sem considerar que as razões do apelo se concentram justamente, e tão somente, em potencial violação ao arts. 489 e 1.022 do CPC/2015.
+3. A princípio, os argumentos suscitados pela recorrente revelam-se essenciais para o correto deslinde da controvérsia e são insuscetíveis de exame por esta Corte, por revelar insuficiência de fundamentação a justificar os termos em que decididos os embargos de declaração opostos.
+4. O apelo foi desprovido pela Corte Estadual sob o fundamento de concordância com a existência de percentual mínimo não executado da obra e que o saldo do empenho cancelado acarretou a necessidade da realização do termo de rescisão amigável, de modo que, determinar o pagamento à apelante de obra não executada implicaria enriquecimento indevido, sem abordar as teses de nulidade do termo de rescisão amigável do contrato.
+3. Embargos de declaração acolhidos. Recurso especial provido, com determ inação de retorno dos autos à origem.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, embargos de declaração opostos por CONCRETO ENGENHARIA LTDA. em objeção ao acórdão visto às fls. 469-470, por meio do qual foi negado provimento ao agravo interno interposto pelo ora agravante.
+O embargante sustenta que o objeto em debate no recurso especial é, tão somente, a ofensa aos arts. 1022, II c/c art. 489 IV e VI, de modo que não há ausência de prequestionamento. Pugna pelo acolhimento dos embargos de declaração com efeitos modificativos.
+Intimado, o embargado deixou de responder ao recurso.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARESTO QUE MANTEVE A DECISÃO DE NÃO CONHECIMENTO DO RECURSO PELO ÓBICE DA SÚMULA 211/STJ. ART. 1.022 DO CPC. OMISSÃO. OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITO MODIFICATIVO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. O acórdão impugnado realmente padece por vício de omissão, uma vez que manteve a decisão da Presidência deste Superior Tribunal de Justiça, que obstou o o conhecimento do recurso especial em virtude do enunciado Súmula 211/STJ, sem considerar que as razões do apelo se concentram justamente, e tão somente, em potencial violação ao arts. 489 e 1.022 do CPC/2015.
+3. A princípio, os argumentos suscitados pela recorrente revelam-se essenciais para o correto deslinde da controvérsia e são insuscetíveis de exame por esta Corte, por revelar insuficiência de fundamentação a justificar os termos em que decididos os embargos de declaração opostos.
+4. O apelo foi desprovido pela Corte Estadual sob o fundamento de concordância com a existência de percentual mínimo não executado da obra e que o saldo do empenho cancelado acarretou a necessidade da realização do termo de rescisão amigável, de modo que, determinar o pagamento à apelante de obra não executada implicaria enriquecimento indevido, sem abordar as teses de nulidade do termo de rescisão amigável do contrato.
+3. Embargos de declaração acolhidos. Recurso especial provido, com determ inação de retorno dos autos à origem.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos de admissibilidade.
+O art. 1.022 do Código de Processo Civil dispõe:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição, corrigir erro material e/ou suprir omissão.
+A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes, deduzido na minuta ou na contraminuta do recurso. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Os efeitos dos embargos declaratórios são limitados, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+Compulsando os autos detidamente, verifico que o acórdão impugnado realmente padece por vício de omissão, uma vez que manteve a decisão da Presidência deste Superior Tribunal de Justiça, que obstou o conhecimento do recurso especial em virtude do enunciado Súmula 211/STJ, sem considerar que as razões do apelo se concentram justamente, e tão somente, em potencial violação ao arts. 489 e 1.022 do CPC/2015.
+Assim, diferentemente do que constou no julgado, o recurso especial da parte merece conhecimento.
+Indo além, verifico que argumentos meritórios trazidos no apelo consubstanciam o retorno dos autos à origem, porquanto foi demonstrada violação aos art. 489 e 1.022 do CPC/2015.
+O recorrente alegou, nos embargos de declaração apresentados na origem, omissão no enfrentamento do pedido de nulidade do Termo de Rescisão Amigável do Contrato por coação e por vícios de legalidade, além de omissão no enfrentamento da tese atinente ao direito de receber o saldo do valor global contratado.
+Os argumentos, todavia, foram rejeitados de forma genérica, a partir da consignação de que a pretensão não é de integração da decisão embargada, mas de rediscutir sua justiça, seu conteúdo.
+Na apelação, a matéria devolvida foi dirimida pela Corte Estadual sob o fundamento de que houve concordância com a existência de percentual mínimo não executado da obra, e que o saldo do empenho cancelado acarretou a necessidade da realização do termo de rescisão amigável, de modo que, determinar o pagamento à apelante de obra não executada implicaria enriquecimento indevido, sem abordar as teses de nulidade do termo de rescisão amigável do contrato.
+Como se vê, tem-se caracterizada infringência ao art. 1.022, II, do CPC/2015.
+Ora, "conquanto o julgador não esteja obrigado a rebater, com minúcias, cada um dos argumentos deduzidos pelas partes, o Código de Processo Civil de 2015, exaltando os princípios da cooperação e do contraditório, lhe impõe o dever de enfrentar todas as questões capazes de, por si sós e em tese, infirmar as conclusões alcançadas acerca dos pedidos formulados pelas partes, sob pena de se reputar não fundamentada a decisão proferida" (REsp 1.819.062/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/2/2020, DJe de 13/2/2020).
+A princípio, os argumentos suscitados pela recorrente revelam-se essenciais para o correto deslinde da controvérsia e são insuscetíveis de exame por esta Corte, por revelar insuficiência de fundamentação a justificar os termos em que decididos os embargos de declaração opostos.
+Isso posto, com fundamento no art. 253, parágrafo único, II, c , do RISTJ, acolho os embargos de declaração com efeito modificativo, para dar provimento ao recurso especial, a fim de, anulando o acórdão que rejeitou os embargos de declaração, determinar o retorno dos autos ao Tribunal de origem para sanar o vício apontado.
