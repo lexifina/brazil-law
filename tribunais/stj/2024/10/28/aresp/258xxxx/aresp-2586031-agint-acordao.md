@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ERRO MÉDICO E RECUSA DE COBERTURA DE PLANO DE SAÚDE. PETIÇÃO INICIAL. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA. ACÓRDÃO ANTERIOR. EFICÁCIA PRECLUSIVA. DISPOSITIVO DE LEI VIOLADO. NÃO INDICAÇÃO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A petição inicial há de ser objeto de interpretação lógico-sistemática, impondo-se o exame dos pedidos que não tenham sido formulados de forma expressa.
+2. No caso em liça, a exordial não pleiteia apenas danos morais pela recusa ou demora do plano de saúde, apontando também equívoco na prescrição de tratamento pelo hospital, o que teria agravado a situação de saúde do paciente.
+3. A ausência de indicação de dispositivo de lei federal violado impede o conhecimento do recurso especial, nos termos da Súmula n. 284 do STF.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FUNDAÇÃO INSTITUTO DE MOLÉSTIAS DO APARELHO DIGESTIVO E DA NUTRIÇÃO (FUNDAÇÃO) contra decisão de minha relatoria assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ERRO MÉDICO E RECUSA DE COBERTURA DE PLANO DE SAÚDE. PETIÇÃO INICIAL. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 218).
+Nas razões do presente inconformismo, defendeu que (1) a causa de pedir não remete à hipótese de erro médico, mas à suposta falha na prestação de serviço do plano de saúde; e (2) em acórdão transitado em julgado nos autos de agravo de instrumento, o Tribunal paulista reformou decisão que havia deferido a denunciação da lide ao médico Dr. Oswaldo Inácio de Tella Júnior, concluindo que a causa de pedir não seria atinente a erro médico ou falha na prestação de serviços médicos (e-STJ, fls. 226/236).
+Foi apresentada contraminuta (e-STJ, fls. 240/246).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ERRO MÉDICO E RECUSA DE COBERTURA DE PLANO DE SAÚDE. PETIÇÃO INICIAL. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA. ACÓRDÃO ANTERIOR. EFICÁCIA PRECLUSIVA. DISPOSITIVO DE LEI VIOLADO. NÃO INDICAÇÃO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A petição inicial há de ser objeto de interpretação lógico-sistemática, impondo-se o exame dos pedidos que não tenham sido formulados de forma expressa.
+2. No caso em liça, a exordial não pleiteia apenas danos morais pela recusa ou demora do plano de saúde, apontando também equívoco na prescrição de tratamento pelo hospital, o que teria agravado a situação de saúde do paciente.
+3. A ausência de indicação de dispositivo de lei federal violado impede o conhecimento do recurso especial, nos termos da Súmula n. 284 do STF.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+(1) Da causa de pedir
+Esta Corte Superior tem entendimento pacífico no sentido de que a petição inicial há de ser objeto de interpretação lógico-sistemática, impondo-se o exame dos pedidos que não tenham sido formulados de forma expressa.
+Confiram-se os julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SENTENÇA EXTRA PETITA. NÃO OCORRÊNCIA. PRAZO PRESCRICIONAL DECENAL. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. LEGITIMIDADE PASSIVA DO HERDEIRO. AUSÊNCIA DE NOTÍCIA DA ABERTURA DO INVENTÁRIO OU REALIZAÇÃO DA PARTILHA. DECISÃO EM SENTIDO CONTRÁRIO AO DA JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Não constitui ofensa aos arts. 489, § 1º, II e IV, e 1.022, II, do CPC/2015 o fato de o col. Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. Nos termos da jurisprudência do STJ, "o pleito inicial deve ser interpretado em consonância com a pretensão deduzida na exordial como um todo, bem como que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento extra ou ultra petita" (AgInt no AREsp 2.545.970/SP, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024).
+3. Outrossim, a jurisprudência desta Corte sedimentou-se no sentido de que "nas demandas envolvendo resolução contratual cumulada com reintegração de posse, a prescrição obedece ao prazo decenal do art. 205 do Código Civil" (AgInt no AREsp 2.545.948/SP, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024).
+4. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+5. O entendimento do Superior Tribunal de Justiça se firmou no sentido de que, "Enquanto não aberto o inventário e realizada a partilha de bens, o espólio responde pelas dívidas do falecido, nos termos dos arts. 1.997, caput, do CC/2002 e 597 do CPC/1973 (art. 796 do CPC/2015)" (AgInt no REsp 1.934.697/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 26/10/2022).
+6. Na hipótese, inexistindo notícia da abertura do inventário ou realização da partilha, o herdeiro, ora agravante, não tem legitimidade para figurar no polo passivo da ação de rescisão contratual c/c reintegração de posse.
+7. Agravo interno provido e, em novo exame do feito, dou parcial provimento ao recurso especial, para extinguir o feito em relação ao herdeiro, ora agravante, em razão da ilegitimidade passiva reconhecida.
+(AgInt no REsp n. 1.887.961/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, j. em 1/7/2024, DJe de 2/8/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. HIGIDEZ DO LAUDO PERICIAL, CONFIGURAÇÃO DO DANO, VALOR DO DANO MORAL COLETIVO E PERCENTUAL FIXADO A TÍTULO DE HONORÁRIOS SUCUMBENCIAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. MULTA PREVISTA NO ART. 81 DO CPC/2015. NÃO CABIMENTO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. MAJORAÇÃO INDEVIDA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência deste STJ, é cabível ao magistrado realizar uma interpretação lógico-sistemática dos pleitos deduzidos na petição inicial, reconhecendo, inclusive, pedidos que não tenham sido expressamente formulados pela parte autora, o que não implica julgamento extra petita.
+2. Não há como infirmar as convicções formadas pela origem - quanto à higidez do laudo pericial, à configuração do dano moral e à adequação do valor indenizatório e do percentual fixado a título de honorários de sucumbência - sem se proceder ao reexame de fatos e provas, medida defesa na seara extraordinária, em virtude do disposto na Súmula 7 desta Casa.
+3. Conforme posicionamento desta Corte, a interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pela origem ou sem alegação de fundamento novo.
+4. Não houve o preenchimento dos requisitos cumulativos para a fixação dos honorários recursais, nesta instância, considerando que houve o parcial provimento do recurso especial da ora agravante, o que afasta a pretensão, contida em contrarrazões, de incremento da verba honorária.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.208.042/DF, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 24/6/2024, DJe de 28/6/2024.)
+No caso em liça, a exordial não pleiteia apenas danos morais pela recusa ou demora do plano de saúde. A peça vestibular também aponta equívoco na prescrição de tratamento pelo nosocômio, o que teria complicado a situação de saúde do paciente. Veja-se o excerto da petição inicial do qual se depreende a segunda causa de pedir:
+O primeiro réu, através do Prof. Dr. Oswaldo Início de Tella Júnior, optou inicialmente por tratamento não cirúrgico mesmo diante das fortes dores lombares sentidas pelo autor, postergando com sessões de fisioterapia, realizações de acupuntura e procedimento percutâneo (Procedimentos cirúrgicos minimamente invasivos), os quais não surtiram efeito e complicaram ainda mais o quadro de saúde do autor, correndo sérios riscos de perder os movimentos por conta das lesões em sua coluna.
+Em 03 de setembro de 2012, o primeiro réu submeteu o autor a ressonância magnética, sendo que em 10/10/2012, ou seja, depois de 10 meses de sofrimento inenarrável, o primeiro requerido, através do profissional alhures informado, resolveu submetê-lo a procedimento mais barato e totalmente ineficaz, pois em 27 de novembro de 2012, em retomo a consulta no primeiro réu constatou-se que as dores persistiam, inclusive sendo necessário infiltração química no local dolorido.
+O diagnóstico e o tratamento dispensados ao autor certamente seguiram a orientação econômico-financeira, optando-se por métodos mais baratos e totalmente ineficazes, submetendo-o a dores terríveis cujo diagnóstico da solução já havia sido indicado pelo Dr. Erik E. Donatto há mais de 10 meses.
+O Dr. Erik E. Donatto, expediu relatório médico (doc. anexo) onde relata todo o tratamento médico dispensado ao autor e as negativas do segundo réu em consentir com o prosseguimento e desviar o atendimento, mesmo sem consentimento, em outros locais e que o tratamento passou a ser realizado com antibióticos, Relata ainda que foi novamente procurado pelo autor que sem sinais de melhoras teve que ser submetido a cirurgia, a mesma proposta em janeiro de 2012 (agora de emergência), mas infelizmente e por conta da demora no correto procedimento cirúrgico apresenta lombociática residual e com limitação funcional, o que lhe compromete a flexão e extensão do tronco.
+Por conta da atuação catastrófica dos réus, o autor hoje está sequelado e alijado do mercado de trabalho, complicando sua vida pessoal, familiar e social, não podendo exercer plenamente suas vontades da vida civil por culpa dos réus, que somente visaram a economia financeira e por pouco não deixaram o autor inválido.
+Os réus devem ser compelidos a indenizar os danos morais que causaram ao autor, transformando a vida do autor em verdadeiro caos emocional e físico, sem contar o risco de ficar paraplégico, forçando-o a realizar tratamento ineficazes quando já havia a determinação de realização de procedimento cirúrgico.
+ ..
+Pode-se de dizer que houve verdade o "crime" no ocorrido, pois obrigou a autora a passar por tratamento médicos que sabidamente eram ineficazes, sendo certo que os réus devem responder pelo mal que causaram, o primeiro por adotar tratamento que quase deixou o autor paraplégico e o segundo por não autorizar a cirurgia designada e forçar o autor a se submeter ao tratamento dado por seus pares, mesmo contra sua vontade (sic)  e-STJ, fls. 207/211  .
+Nesse contexto, a interpretação lógico-sistemática recomendada pelo ordenamento jurídico conduz ao entendimento de que o autor pretendia a condenação do hospital pela falha no referido serviço, não se restringindo à recusa ou demora do plano de saúde.
+Portanto, não merece reforma a decisão agravada.
+(2) Da eficácia preclusiva
+Quanto à eficácia preclusiva do alegado fundamento de acórdão prolatado em agravo de instrumento, nota-se que o recurso especial não cuidou de apontar qualquer dispositivo de lei violado nesse ponto.
+Na verdade, o recurso especial limitou-se a indicar ofensa aos arts. 14, caput e § 4º, do CDC, e 337, XI, do NCPC.
+Nessa linha de entendimento, é inviável conhecer da tese relativa à eficácia preclusiva do suposto fundamento, na medida em que o recurso especial exige fundamentação vinculada a fim de atender ao comando do permissivo constitucional, que institui o cabimento do recurso especial contra acórdão que negue vigência a dispositivo de lei federal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. MORTE EM AGÊNCIA DE COOPERATIVA DE CRÉDITO. DANOS MORAIS. VALOR. NÃO IRRISORIEDADE. CONSECTÁRIOS LEGAIS. DISPOSITIVO LEGAL VIOLADO. NÃO INDICAÇÃO. SÚMULA Nº 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O valor da indenização por danos morais apenas deve ser majorado quando se apresentar manifestamente irrisório.
+2. A falta de indicação expressa dos dispositivos de lei ofendidos obsta o conhecimento do recurso especial, nos termos da Súmula nº 284 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.664.511/SC, de minha relatoria, Terceira Turma, j. em 9/9/2024, DJe de 11/9/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VALIDADE DA CITAÇÃO. LEGITIMIDADE. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INTERESSE E LEGITIMIDADE. ATENDIMENTO DOS PRESSUPOSTOS PARA A EXECUÇÃO. REEXAME. IMPOSSIBILIDADE. SÚMULAS N. 7 E 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE
+1. Inexiste negativa de prestação jurisdicional quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. A falta de expressa indicação e de demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+ ..
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.797.377/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, j. em 2/9/2024, DJe de 4/9/2024)
+Portanto, incide o disposto na Súmula n. 284 do STF, por analogia.
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
