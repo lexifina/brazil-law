@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por ROBERTO NUNES contra decisão que inadmitiu recurso especial com fundamento na incidência das Súmulas 83/STJ e 7/STJ (fls. 614-618).
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram devidamente atendidos.
+O acórdão recorrido foi assim ementado:
+SERVIDOR PÚBLICO. LEI Nº 11.091/2005. RACIONALIZAÇÃO DE CARGOS DO PLANO DE CARREIRA DA UNIVERSIDADE. CARGO . CLASSE D. ATO DO PODER EXECUTIVO.
+A racionalização dos cargos integrantes do plano de carreira, prevista no artigo 18 da Lei n.º 11.091/2005, depende da edição de ato normativo pelo Poder Executivo e, ainda que se afirme haver omissão injustificada deste, não cabe ao Poder Judiciário substitui-lo neste mister, promovendo a revisão da situação funcional/reposicionamento/enquadramento dos autores no cargo de Motorista, classe D, com o pagamento de diferenças remuneratórias, desde a implementação do PCCTAE, respeitada a prescrição quinquenal, por envolver a análise de requisitos de qualificação, escolaridade, habilitação profissional ou especialização, e/ou correspondência, identidade e similaridade de atribuições/responsabilidade/padrão remuneratório (fl. 483).
+Recurso especial fundado no art. 105, III, a, da Constituição Federal, por meio do qual sustenta a parte recorrente a existência de afronta aos arts. 1.022, I, II e III do CPC bem como 9º e 18 da Lei 11.091/05.
+Aduz, em síntese, a existência de omissão e obscuridade no acórdão recorrido sobre a racionalização, unificação e transposição de cargos integrantes do PCCTAE (Plano de Carreira dos Cargos Técnico-Administrativos em Educação) e que:
+ ..  ao contrário do entendimento constante no v. acordão regional, o Recorrente deveria estar enquadrado na classe "D", sendo que não está por falta de força política da categoria e por ausência de decreto regulamentar. É obrigação do executivo realizar a correta racionalização dos cargos integrantes do Plano de Carreira, nos termos do que determina o já mencionado artigo 18 do PCCTAE (fl. 531).
+Por fim, aduz que:
+ ..  o problema se encontra na inércia do Poder Executivo em fazer valer o compromisso que está na Lei. O que se espera ver aqui, portanto, é o cumprimento por parte das autoridades administrativas incumbidas de dar curso à obrigação que resulta do art. 18, da Lei nº 11.091, de 2005, postura que não é incompatível, seja entre os formadores de opinião no direito administrativo, seja junto ao Poder Judiciário (fl. 536)
+Contrarrazões às fls. 598-603.
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Ato contínuo, a irresignação recursal não merece prosperar.
+Quanto à apontada violação ao art. 1.022 do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+ ..  não foram opostos argumentos idôneos a infirmar o convencimento do julgador, porque, efetivamente, a racionalização dos cargos integrantes do plano de carreira da Universidade depende da edição de ato normativo pelo Poder Executivo e, ainda que se afirme haver omissão injustificada deste, não cabe ao Poder Judiciário substitui-lo neste mister, promovendo a revisão da situação funcional/reposicionamento/enquadramento do autor no cargo de Técnico- Administrativo em Educação na categoria D, com o pagamento de diferenças remuneratórias, desde a implementação do PCCTAE, respeitada a prescrição quinquenal, por envolver a análise de requisitos de qualificação, escolaridade, habilitação profissional ou especialização, e/ou correspondência, identidade e similaridade de atribuições/responsabilidade/padrão remuneratório (fl. 481, grifo nosso).
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Desse modo, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada e inexiste violação ao art. 1.022 do CPC.
+Ademais, o acolhimento da pretensão da parte recorrente dependeria da análise de requisitos de qualificação, escolaridade, h abilitação profissional, especialização, identidade e similaridade de atribuições, dentre outros, o que encontra, outrossim, óbice na Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Ainda que assim não fosse, constata-se a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido (qual seja: a racionalização dos cargos integrantes do plano de carreira da Universidade depende da edição de ato normativo pelo Poder Executivo e não cabe ao Poder Judiciário substitui-lo neste mister), atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. CUMULAÇÃO DE PENSÃO EXCEPCIONAL DE ANISTIADO COM PENSÃO POR MORTE. LEI 10.559/2009. IMPOSSIBILIDADE.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. A Lei 10.559/02 reforçou a disposição normativa anterior ao dispor que não é possível acumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento, facultando-se a opção mais favorável, nos moldes do art. 16 da mencionada lei.
+4. Agravo interno não provido (AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
