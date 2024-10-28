@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por TUFIH ABRAHAM ZAMBLUTE NETO, com fundamento na alínea "a" do art. 105, II, da CR/1988, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (fl. 4932):
+"EMENTA: "HABEAS CORPUS" - USURA - OPERAÇÃO ALIBABA - ORGANIZAÇÃO CRIMINOSA - EXTORSÃO QUALIFICADA - LAVAGEM DE DINHEIRO - SÚMULA CRIMINAL 53 DO TJMG - REITERAÇÃO DE PEDIDO - IMPETRAÇÃO NÃO CONHECIDA.
+1. Nos termos do Enunciado de Súmula Criminal 53 do TJMG, não se conhece de pedido de "habeas corpus" que seja mera reiteração de anterior, já julgado.
+2. "Habeas corpus" não conhecido."
+A parte recorrente aduz, em síntese, que não se trata de mera reiteração de pedido, uma vez que as impetrações anteriores julgadas pela Corte local teriam por objeto a arguição de incompetência absoluta da Justiça Estadual, não tendo sido analisada a alegação de mudança do quadro fático, decorrente do encerramento da instrução, pelo que cabível o novo writ.
+Requer, portanto, que seja concedida a ordem para que seja determinada a análise da matéria de fundo do habeas corpus, cujo objeto corresponde ao constrangimento ilegal gerado pela manutenção da prisão preventiva após encerramento da instrução.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (fls. 4955-4956).
+É o relatório.
+Decido.
+As razões de recurso não merecem prosperar.
+Argumenta o recorrente que nada impediria o conhecimento do novo habeas corpus pelo Tribunal de Justiça mineiro, uma vez que não há que se falar em reiteração de pedido já apreciado em anterior impetração.
+A Corte mineira assim decidiu (fls. 4932-4935):
+" ..
+Inicialmente, verifica-se que o feito foi distribuído por dependência a esta 3ª Câmara Criminal, em razão da prevenção gerada por minha relatoria no habeas corpus n. 1.0000.23.205189-6/000, tendo esse sido julgado na data de 25/10/2023, assim ementado:
+"EMENTA: HABEAS CORPUS - ORGANIZAÇÃO CRIMINOSA - OPERAÇÃO ALIBABA - PRISÃO PREVENTIVA - ARTIGO 312 DO CPP - GARANTIA DA ORDEM PÚBLICA - CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL - GRAVIDADE CONCRETA DO DELITO - REQUISITOS PREENCHIDOS - AUSÊNCIA DE CONTEMPORANEIDADE DA PRISÃO PREVENTIVA - INOCORRÊNCIA - MEDIDAS CAULTELARES ALTERNATIVAS - INSUFICIÊNCIA - REVOGAÇÃO DA PRISÃO PREVENTIVA OU SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS - IMPOSSIBILIDADE - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO - ORDEM DENEGADA.
+1. Para decretação da prisão preventiva devem ser observadas as circunstâncias descritas nos artigos 312 e 313 do CPP.
+2. Havendo prova da materialidade do delito e dos indícios suficientes da autoria, associados à necessidade de garantia da ordem pública, especialmente no que se refere à gravidade concreta da conduta e à periculosidade dos integrantes do grupo criminoso, deve ser mantida a prisão preventiva, sendo insuficientes as medidas cautelares alternativas.
+3. A própria natureza do delito de integrar organização criminosa, que configura crime permanente, além do inerente risco de reiteração delitiva, reforça a contemporaneidade do decreto prisional, consoante entendimento do Superior Tribunal de Justiça.
+4. Não tendo sido demonstrado o perigo concreto que o paciente está submetido no estabelecimento prisional, não há que se falar em concessão de liberdade provisória.
+5. Ordem denegada."
+Na oportunidade, a decisão que decretou a prisão preventiva do paciente foi devidamente analisada, assim como os requisitos autorizadores da medida cautelar em questão, sobretudo diante da gravidade dos fatos imputados aos integrantes da organização criminosa investigada, não tendo sido constatado qualquer constrangimento ilegal à liberdade de locomoção do paciente.
+Nesse contexto, evidencia-se que, não havendo alteração no título prisional, não se revela possível o conhecimento do presente habeas corpus por se tratar de mera reiteração de pedidos, nos termos do Enunciado da Súmula Criminal n. 53 do TJMG:
+"Enunciado 53:
+Não se conhece de pedido de "habeas corpus" que seja mera reiteração de anterior, já julgado."
+Ante o exposto, tendo em vista que não foram apresentados novos fundamentos, de fato ou de direito, que justifiquem o reexame do presente writ, NÃO CONHEÇO DA ORDEM IMPETRADA." (grifei)
+Percebe-se, portanto, que o não conhecimento do novo habeas corpus decorreu da constatação de que o impetrante buscava, mais uma vez, discutir a ausência dos pressupostos legais para justificar a segregação cautelar, pretensão já avaliada e refutada no HC n. 1.0000.23.205189-6/000, ocasião em que a Corte concluiu pela necessidade da prisão preventiva diante da gravidade concreta dos delitos imputados e risco de reiteração delitiva.
+Assim, não corresponde à realidade a alegação do recorrente de que as impetrações anteriores teriam por objeto, exclusivamente, a alegação de incompetência absoluta da Justiça Estadual, a revelar a distinção dos pedidos; em verdade, o que se percebe é que, dentre os diversos habeas corpus impetrados na origem, alguns deles, de fato, trataram do tema da incompetência (a exemplo daqueles que originaram os RHCs n. 200833 e 196843, interpostos perante esta Corte Superior), enquanto outros abordaram diretamente o suposto constrangimento ilegal decorrente do decreto prisional.
+Para além disso, o impetrante não foi capaz de demonstrar substancial mudança do quadro fático a justificar a nova impetração, não sendo suficiente para tanto a mera alegação de encerramento da instrução, cujo resultado, na sua avaliação, lhe seria favorável; como se sabe, não é o habeas copus via adequada para o exame de mérito da imputação penal, por demandar amplo revolvimento do conjunto fático-probatório, mostrando-se necessário aguardar a prolação da sentença, quando deverão ser analisadas com profundidade todas as teses defensivas.
+Ademais, como visto, a prisão preventiva foi decretada não só para assegurar a regularidade da instrução processual, mas em especial para proteger a ordem pública, que estaria em risco diante das graves atividades ilícitas imputadas à organização criminosa da qual faria parte o recorrente, pelo que a mera notícia de encerramento da instrução não revela fato novo capaz, por si só, de impor a revogação da prisão preventiva decretada e avaliada pela Corte de origem no já citado habeas corpus.
+Diante deste cenário, verifica-se que a decisão recorrida encontra-se em consonância com a jurisprudência adotada por esta Corte Superior, conforme se extrai, ilustrativamente, do seguinte precedente: "Assente neste STJ que não se conhece de habeas corpus (e do seu recurso) que objetiva a simples reiteração de pedido analisado em momento anterior na mesma Corte." (AgRg no HC n. 777.969/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 30/10/2023, DJe de 6/11/2023).
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
