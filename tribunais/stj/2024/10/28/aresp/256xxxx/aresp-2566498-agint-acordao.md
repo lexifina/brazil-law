@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE LOCAÇÃO E OUTRAS AVENÇAS. SHOPPING CENTER. ALUGUÉIS. MULTA COMPENSATÓRIA. REVISÃO. IMPOSSIBILIDADE. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. Infirmar as conclusões do acórdão recorrido ensejaria a reinterpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, providências que encontram óbice nas Súmulas n. 5 e 7/STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CONSÓRCIO SHOPPING CENTER IGUATEMI RIBEIRÃO PRETO contra a decisão monocrática desta relatoria assim ementada (e-STJ, fl. 469):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CONTRATO DE LOCAÇÃO E OUTRAS AVENÇAS. SHOPPING CENTER. ALUGUÉIS. MULTA COMPENSATÓRIA. REVISÃO. IMPOSSIBILIDADE. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões do agravo interno, o insurgente alega que não há falar em incidência das Súmulas n. 5 e 7/STJ; que durante toda a execução do contrato agiu no estrito cumprimento do dever de lealdade e de boa-fé, sendo válida a cobrança da multa contratualmente estabelecida pela rescisão antecipada; bem como que o art. 54 da Lei n. 8.245/1991 e o art. 317 do Código Civil foram violados.
+Impugnação não apresentada (e-STJ, fl. 491).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE LOCAÇÃO E OUTRAS AVENÇAS. SHOPPING CENTER. ALUGUÉIS. MULTA COMPENSATÓRIA. REVISÃO. IMPOSSIBILIDADE. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. Infirmar as conclusões do acórdão recorrido ensejaria a reinterpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, providências que encontram óbice nas Súmulas n. 5 e 7/STJ.
+2. Agravo interno desprovido.
+VOTO
+O inconformismo não merece prosperar.
+Com efeito, verifica-se que os argumentos expostos no bojo do agravo interno não são aptos a desconstituir a decisão recorrida, haja vista que, consoante bem salientado, mostra-se cristalina a incidência das Súmulas n. 5 e 7/STJ à presente demanda.
+Ora, a controvérsia refere-se, em suma, à exigibilidade integral, ou não, da multa resolutória prevista no contrato firmado entre as partes e dos valores dos aluguéis e encargos devidos de março a agosto de 2020.
+O Tribunal de Justiça do Estado de São Paulo, ao dirimir a questão posta nos autos, assim consignou (e-STJ, fls. 280-282; sem grifo no original):
+Cuida-se de Embargos à Execução de Título Extrajudicial fundada em Contrato de Locação. Já se viu, os Embargos foram parcialmente acolhidos, para afastar o excesso de execução e reduzir o valor dos locativos de março a agosto de 2020 para a metade (50%), além de limitar a multa compensatória a três (3) alugueis (fls. 225/230).
+Ora, a redução reconhecida na sentença já havia sido concedida pela exequente, mas não havia sido abatida na execução.
+E, no que tange à multa pela rescisão antecipada, revelava-se mesmo excessiva e desproporcional, sendo portanto passível de redução, conforme previsto no artigo 413 do Código Civil ("A penalidade deve ser reduzida eqüitativamente pelo juiz se a obrigação principal tiver sido cumprida em parte, ou se o montante da penalidade for manifestamente excessivo, tendo-se em vista a natureza e a finalidade do negócio").  ..
+A controvérsia estabelecida nos autos foi, aliás, bem examinada pela MM. Juíza "a quo", ao observar na sentença, "in verbis", que, ".. A embargada sustentou que em março de 2020 houve a concessão de parcelamento do débito em cinco vezes, e, em abril e maio de 2020, a isenção de 100% do aluguel. No entanto, analisando a planilha do débito executado, nota-se que houve a cobrança de aluguel nos meses de maio, junho, julho e agosto de 2020 (fls. 83). Em atenção à excepcionalidade da situação, bem assim ao fato de que ambas as partes foram atingidas pelos efeitos negativos da pandemia, imperiosa a redução em 50% do valor dos alugueis no período de março a agosto de 2020, considerando que os descontos proporcionados extrajudicialmente pelo embargado não foram abatidos na execução e não se mostraram suficientes para que o executado mantivesse o negócio. Relativamente à multa compensatória, necessária sua redução.
+Isso pois não se pode admitir que a parte, para obter a resolução do negócio, esteja sujeita ao pagamento de uma multa no montante correspondente aos valores que deveria pagar caso o contrato estivesse sendo normalmente executado ou mesmo em percentual de 80% desses valores. Em que pese a estipulação de cláusula penal seja perfeitamente válida e eficaz, se sujeita ao controle jurisdicional na hipótese de se mostrar excessivo o valor da cominação imposta, conforme o artigo 413 do Código Civil. Desse modo, em observância aos princípios da proporcionalidade e razoabilidade, revela-se imperiosa a redução equitativa da multa compensatória ao valor equivalente a três aluguéis, observando-se, para tanto, o último aluguel devido." ("sic", fls.227/228).
+Assim, deve ser mantida a redução da referida multa para três (3) locativos, tal qual determinado na sentença apelada, já que esse valor revela-se mais adequado, tendo em vista as circunstâncias específicas do caso concreto.
+Da leitura do fragmento transcrito, depreende-se que o Tribunal de origem, deveras, resolveu as questões com base nas cláusulas contratuais e nos elementos fáticos que permearam a demanda.
+Nessa esteira, repisa-se que afastar os fundamentos do acórdão recorrido -de que a "multa pela rescisão antecipada, revelava-se mesmo excessiva e desproporcional, sendo portanto passível de redução" (e-STJ, fl. 280), bem como de que deve ser reduzido em 50% o valor "dos alugueis no período de março a agosto de 2020, considerando que os descontos proporcionados extrajudicialmente pelo embargado não foram abatidos na execução e não se mostraram suficientes para que o executado mantivesse o negócio" (e-STJ, fl. 281) - exigiria a reinterpretação de cláusulas contratuais e o revolvimento do conjunto fático-probatório dos autos, providências que encontram óbice nas Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Guardadas as particularidades do caso, confira-se (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE ERRO NA PRODUÇÃO DO LAUDO PERICIAL. SÚMULA N. 7/STJ. RESCISÃO ANTECIPADA DO CONTRATO. MULTA. SÚMULA N. 5/STJ. RECURSO NÃO PROVIDO.
+1. O reexame das circunstâncias fáticas da causa é vedado neste Tribunal. Súmula n. 7/STJ.
+2. A aplicação de multa à rescisão antecipada, definida contratualmente, reclama a análise dos termos do contrato. Súmula n. 5/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 213.874/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 16/10/2012, DJe de 23/10/2012.)
+Assim, contata-se que melhor sorte não socorre ao agravante, não merecendo reparo a decisão monocrática de fls. 469-472 (STJ).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
