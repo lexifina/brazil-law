@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de ERICLIS RODOLFO DA ROCHA GREGORIO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento do Agravo de Execução Penal n. 0002707-68.2024.8.26.0496.
+Extrai-se dos autos que o Juízo das Execuções indeferiu o pedido de retificação do cálculo de penas formulado pelo paciente, conforme decisão de fl. 474.
+Irresignada, a defesa interpôs agravo no Tribunal de origem, que negou provimento ao recurso nos termos do acórdão de fls. 16/25.
+Daí o presente writ, no qual o impetrante aduz que o paciente não é reincidente específico tampouco em crime com resultado morte.
+Defende a retificação do cálculo da pena com a finalidade de considerar o percentual de 40% para progressão de regime.
+Requer, em liminar e no mérito, que seja retificado o cálculo de pena para constar o percentual de 40% para fins de progressão de regime prisional, nos termos do art. 112, inciso V, da Lei de Execução Penal - LEP.
+A liminar foi indeferida às fls. 497/498. Informações prestadas às fls. 504/505, 506/520 e 524/541. O Ministério Público Federal opinou pela denegação da ordem às fls. 542/543.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, razoável verificar a existência de eventual constrangimento ilegal que autorize a concessão da ordem de ofício.
+Com efeito, a alteração promovida pelo Pacote Anticrime no art. 112 da LEP não autoriza a aplicação do percentual de 60%, relativo aos reincidentes em crime hediondo ou equiparado, aos reincidentes não específicos. Isso porque, ante a omissão legislativa, impõe-se o uso da analogia in bonam partem, para se aplicar, na hipótese, o inciso V do artigo 112, que prevê o lapso temporal de 40% ao primário e ao condenado por crime hediondo ou equiparado.
+Esse posicionamento foi referendado pela Terceira Seção, em 26/5/2021, no julgamento do REsp 1.910.240/MG, afetado como recurso representativo da controvérsia, ocasião em que se fixou a seguinte tese - Tema n. 1.084: "É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante" (Rel. Min. ROGERIO SCHIETTI CRUZ, DJe de 31/5/2021).
+Contudo, a p resente hipótese mostra-se diversa, porquanto o ora paciente é reincidente específico em crime hediondo/equiparado, conforme ressaltou o Tribunal de origem:
+"Vale salientar que, como bem destacou o i. Promotor de Justiça oficiante, "diante da certidão de objeto e pé anexada nas fls. 723 dos autos da execução, e da certidão de trânsito em julgado de fls. 120/121 dos mesmos autos, é possível constatar que o agravante foi condenado definitivamente como incurso no art. 33, caput, da Lei 11.343/06, havendo o trânsito em julgado da condenação em 16/08/2017, ainda em execução (PEC 0005294-44.2016.8.26.0496), e, em 28/08/2020, cometeu novo tráfico de drogas, tipificado no artigo 33, caput, da Lei 11.343/06 (PEC 0002286-83.2021.8.26.0496)", sendo, portanto, reincidente específico em crime equiparado a hediondo.
+Destarte, a r. decisão ora recorrida é de ser mantida em todos os seus jurídicos e legais fundamentos, pelos motivos acima explanados" (fls. 24/25).
+Assim, deve ser mantido o patamar de 60%, nos termos do art. 112, VII, da Lei de Execução Penal.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. PLEITO DE RETIFICAÇÃO DO CÁLCULO DA PENA. LEI N. 13.964/2019. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO. APLICAÇÃO DO INCISO VII DO ART. 112 DA LEP. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A alteração promovida pela Lei n. 13.964/2019 no art. 112 da Lei de Execuções Penais estabeleceu novos lapsos para a progressão de regime.
+2. Hipótese de aplicação do percentual de 60% previsto no inciso VII do art. 112 da Lei de Execução Penal, conforme reconhecido pelas instâncias ordinárias, dado que o agravante, registrando uma condenação pelo art. 12 da Lei 6.368/76, com cumprimento de pena em 20/6/2012, veio a praticar o tráfico de drogas em 17/3/2015, com posterior condenação.
+3. Agravo regimental improvido.
+(AgRg no HC n. 723.863/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 13/5/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CRIME HEDIONDO. PROGRESSÃO DE REGIME. APENADO REINCIDENTE ESPECÍFICO. REQUISITO OBJETIVO. LEI N. 13.964/2019 (PACOTE ANTICRIME). PEDIDO DE RETIFICAÇÃO DO CÁLCULO DE PENAS, COM A APLICAÇÃO DO PRAZO DE 40% (QUARENTA POR CENTO) DA PENA. INAPLICÁVEL. PACIENTE REINCIDENTE ESPECÍFICO. JURISPRUDÊNCIA CONSOLIDADA. AGRAVO DESPROVIDO.
+1. No julgamento do HC 613.268/SP, fixou orientação jurisprudencial no sentido de que não há como aplicar de forma extensiva e prejudicial aos reincidentes genéricos o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V.
+2. No caso, segundo consignado no acórdão impugnado o ora paciente é reincidente específico em crime equiparado a hediondo , conforme destacado no acórdão atacado. Cabe ressaltar que é pacífico o entendimento desta Corte Superior no sentido de que o tráfico de drogas é crime equiparado a hediondo, mesmo após a edição do Lei n. 13.964/2019.
+Desse modo, deve ser mantido o patamar de 60%, nos termos do art. 112, VII, da Lei de Execução Penal.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 729.176/SP, de minha Relatoria, Quinta Turma, DJe de 3/5/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ART. 112 DA LEI N. 7.210/1984, COM AS ALTERAÇÕES DA LEI N. 13.964/2019. REQUISITO OBJETIVO. PEDIDO DE RETIFICAÇÃO DO CÁLCULO DE PENAS, COM A APLICAÇÃO DO PRAZO DE 40% (QUARENTA POR CENTO) DA PENA. IMPROCEDÊNCIA. AGRAVO DESPROVIDO.
+1. Antes da vigência da Lei n. 13.964/2019, o art. 112 da Lei de Execução Penal previa como requisito objetivo o cumprimento da fração de 1/6 (um sexto) da pena no regime anterior, para os condenados por crimes comuns (primários ou reincidentes). Já para os condenados por crimes hediondos, a Lei n. 8.072/1990, em seu art. 2.º, § 2.º, estabelecia as frações de 2/5 (para os réus primários) e 3/5 (para os reincidentes).
+2. Com o advento do mencionado regramento, o sistema progressivo de regime prisional passou a ter critérios diferenciados, sobretudo no que concerne ao requisito objetivo. Assim, os lapsos temporais necessários à progressão prisional passaram a ser previstos exclusivamente no art. 112 da Lei de Execução Penal.
+3. No caso, na situação do Apenado - reincidente específico em crime hediondo - o Reeducando alcançará o lapso temporal para a progressão de regime quando houver cumprido ao menos 60% (sessenta por cento) da reprimenda, segundo o disposto no art. 112, inciso VII, da Lei n. 7.210/1984.
+4. Agravo regimental desprovido.
+(AgRg no HC 713.494/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 25/2/2022).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PERCENTUAL. NOVA REDAÇÃO DO ART. 112 DA LEP. REINCIDÊNCIA ESPECÍFICA. APLICAÇÃO DO PERCENTUAL DE 60%. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. APENADO QUE CUMPRE PENA POR HOMICÍDIO QUALIFICADO E TRÁFICO DE ENTORPECENTES.
+1. Diante da lacuna existente nas alterações promovidas pela Lei 13.964/2019 (Pacote Anticrime), na redação do art. 112 da Lei de Execuções Penais, no que se refere à progressão de regime dos condenados por crimes hediondos, reincidentes em crime comuns, pacificou-se, no Superior Tribunal de Justiça, o entendimento de que não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V (AgRg no HC n. 595.609/SP, Ministro Nefi Cordeiro, DJe 20/11/2020).
+2. Tal compreensão não se aplica à hipótese vertente, na medida em que, consoante afirmou o acórdão impugnado, trata-se de paciente reincidente específico em crime hediondo (homicídio qualificado e tráfico de entorpecentes), o que o enquadra na regra prevista no inciso VII do art. 112 da LEP, a qual exige o cumprimento de 60% da pena para a progressão de regime.
+3. Agravo regimental improvido.
+(AgRg no HC 684.443/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 30/09/2021)
+Dessa forma, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço do presente presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
