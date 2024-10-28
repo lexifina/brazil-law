@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: revisional de contrato de empréstimo pessoal, ajuizada por JOSEFINA AUXILIADORA ALVES DE ALBRES, em face da agravante, visando reduzir encargos que julga abusivos.
+Sentença: julgou parcialmente procedentes os pedidos para limitar os juros remuneratórios à taxa média de mercado e autorizar a restituição de forma simples, além de juros e correção monetária.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO - PRELIMINAR DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO - REJEITADA - PRELIMINAR DE INDEFERIMENTO DA INICIAL POR INÉPCIA - AFASTADA - MÉRITO - EMPRÉSTIMO PESSOAL - JUROS REMUNERATÓRIOS - EXCESSO VERIFICADO EM RELAÇÃO À TAXA MÉDIA DE MERCADO PUBLICADA PELO BANCO CENTRAL DO BRASIL - ABUSIVIDADE CONSTATADA - MORA DESCARACTERIZADA - RECURSO DESPROVIDO.
+I - Afasta-se a preliminar de nulidade da sentença por ausência de fundamentação quando constatado que o juízo a quo indicou, embora de forma concisa, os motivos pelos qual reconheceu a procedência da pretensão.
+II - Não é inepta a inicial porquanto não houve empecilho algum para que a ré formulasse resposta à ação, de modo que houve absoluta compreensão da pretensão da autora, na qual aduz que há discrepância entre os juros remuneratórios estipulados no contrato em discussão em comparação à taxa média do mercado para o período.
+III - Havendo abusividade na aplicação dos juros remuneratórios, capaz de colocar o consumidor em desvantagem exagerada (art. 51, § 1º, CDC), admite- se a revisão das taxas de juros, tal como determinado na sentença.
+IV - O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora. (STJ, REsp n. 1.061.530/RS). (fl. 386, e-STJ)
+Decisão de admissibilidade do TJ/MS: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ); iii) dissídio jurisprudencial prejudicado.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "a divergência jurisprudencial é patente, razão pela qual o Acórdão Recorrido deve ser reformado, a fim de que seja observado o caso de forma individual, analisando o tipo de contratos firmados pela Recorrente, já que os parâmetros utilizado pela Recorrida divergem das demais operações no mercado."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ); iii) dissídio jurisprudencial prejudicado.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente, em R$ 500,00 (quinhentos reais), ressalvada a eventual concessão da gratuidade da justiça.
+Alerto que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1021, §4º e 1026, §2º do CPC.
+Publique-se. Intimem-se.
+EMENTA
