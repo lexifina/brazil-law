@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de RICARDO PEDRO MARÇAL, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Revisão Criminal n. 2122794-86.2023.8.26.0000).
+Na hipótese, colhe-se dos autos que o Tribunal de origem, por unanimidade, deu parcial provimento ao apelo defensivo para fixar a pena do paciente em 8 anos e 7 dias de reclusão, em regime inicial fechado, e pagamento de 18 dias-multa, pela prática dos delitos de furto qualificado e roubo majorado.
+Nas razões do presente writ, sustentou a defesa, em suma, excesso de prazo para o julgamento da revisão criminal ajuizada na origem, bem como a ocorrência de prescrição da pretensão punitiva e executória; pugnou, caso afastado o pleito de reconhecimento da prescrição, pela absolvição do acusado por ausência de provas de sua participação no crime ou pela redução da reprimenda com fundamento na Súmula n. 511/STJ.
+Não houve pedido liminar.
+As Informações foram prestadas (e-STJ fls. 796/797 e 819/828).
+O Ministério Público Federal, às e-STJ fls. 831/833, manifestou-se pelo não conhecimento do writ ou pela denegação da ordem.
+É o relatório. Decido.
+Preliminarmente, deve-se asseverar que o presente habeas corpus, no que diz respeito à alegação de excesso de prazo para julgamento da revisão criminal na origem, encontra-se prejudicado em vista da superveniência de julgamento do feito, ocorrido em 21/3/2024.
+Aliás, no que concerne às alegações de prescrição da pretensão punitiva ou executória, tem-se que tal questão não foi sequer debatida no acórdão que julgou a revisão criminal, cujos pleitos defensivos foram consubstanciados em alegada ausência de provas para a condenação, reconhecimento de participação de menor importância e afastamento do crime continuado.
+Tal a situação, fica inviabilizado o exame da controvérsia diretamente pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+No mais, é preciso ressaltar que a condenação do paciente já está transitada em julgado desde 13/9/2011, e que a jurisprudência desta Corte Superior é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ .. (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Evidentemente, não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ, notadamente pelo fato de que o eventual acolhimento do pleito absolutório demandaria imprescindível e sensível incursão no acervo fático-probatório dos autos, desiderato sabidamente incompatível com os limites de cognição da via eleita. Além disso, cumpre asseverar que o pedido de redução de pena pelo eventual reconhecimento do privilégio previsto no § 2º do art. 155 do Código Penal tampouco fora objeto de análise do Tribunal de origem, o que também já impediria, por si só, a análise da quaestio por esta Corte Superior .
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
