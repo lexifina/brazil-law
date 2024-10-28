@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  CIVIL  PÚBLICA.  PROBLEMAS  ADVINDOS  DE  CONSTRUÇÃO  DE  ESTAÇÃO  DE  ESGOTO.  ALEGADA  VIOLAÇÃO  AOS  ARTS.  11,  489  E  1.022  DO  CPC/2015.  INEXISTÊNCIA.  AUSÊNCIA  DE  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DO  ACÓRDÃO  RECORRIDO.  INCIDÊNCIA  DA  SÚMULA  283/STF.  TRIBUNAL  DE  ORIGEM  QUE,  À  LUZ  DAS  PROVAS  DOS  AUTOS,  CONCLUIU  PELA  MANUTENÇÃO  DO  INDEFERIMENTO  DA  LIMINAR  PLEITEADA.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  7  DO  STJ.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  Corte  de  origem  dirimiu,  fundamentadamente,  a  matéria  submetida  à  sua  apreciação,  manifestando-se  acerca  dos  temas  necessários  ao  integral  deslinde  da  controvérsia,  não  havendo  omissão,  contradição,  obscuridade  ou  erro  material,  afastando-se,  por  conseguinte,  a  alegada  violação  aos  arts.  11,  489  e  1.022  do  CPC/2015.
+2.  A  teor  da  Súmula  283/STF,  "é  inadmissível  o  recurso  extraordinário,  quando  a  decisão  recorrida  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles"  .
+3.Inviável  a  análise  da  pretensão  veiculada  no  recurso  especial,  por  demandar  o  reexame  do  contexto  fático-probatório  dos  autos,  atraindo  a  incidência  da  Súmula  7/STJ.
+4.  Agravo  interno  desprovido.
+RELATÓRIO
+
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por  CONSÓRCIO  ESTREITO  ENERGIA  -  CESTE  contra  a  decisão  que  conheceu  em  parte  do  recurso  especial  para,  nessa  extensão,  negar-lhe  provimento,  em  razão  da  inexistência  de  violação  aos  arts.  11,  489  e  1.022  do  CPC/2015  e  pela  aplicação  das  Súmulas  283/STF;  e  7/STJ.
+Argumenta  a  parte  agravante,  em  síntese,  que:
+  ..  apontou  a  violação  aos  artigos  1.022,  II,  e  parágrafo  único,  II,  c/c  art.  489,  §  1º,  IV,  e  art.  11  do  CPC,  no  presente  caso,  permitindo  não  só  o  manejo,  mas  o  provimento  do  Recurso  Especial  para  impor  o  retorno  dos  autos  ao  e.  TJTO  para  manifestação  expressa  sobre  argumentos  fundamentais  e  que  não  foram  devidamente  analisados,  eis  que  deixou  de  analisar  corretamente  as  teses  recursais  (fl.  279).
+Defende, ainda, que "a r. decisão monocrática também entendeu aplicável a Súmula 283/STF, embora não tenha registrado qual o argumento que teria deixado de ser impugnado pelo agravante" (fl. 279).
+Aponta "erro de fato do Tribunal de origem com relação à existência de divergência entre o primeiro e o segundo pedido de liminar" (fl. 280). Além disso, alega omissão quanto à "análise do argumento de que as provas contidas no processo são capazes de provar que há estação de tratamento de efluentes em funcionamento, devidamente licenciada pelo órgão ambiental competente, não havendo consequentemente o lançamento de esgotos in natura no ambiente" (fl. 281).
+Argumenta  que  este  caso  não  encontra  óbice  na  Súmula  7/STJ.  Afirma  que  "para  aferir  a  violação  de  ambos  os  artigos  basta  apreciar  o  contexto  fático  contido  no  acórdão  recorrido,  no  qual  está  registrado  que  o  agravante  não  foi  previamente  intimado  para  manifestar  sobre  o  pedido  de  liminar  no  prazo  de  72  horas"  (fl.  284).
+Por fim, pugna  pelo  conhecimento  e  provimento  do  agravo  interno,  para  que  seja  reformada  a  decisão  agravada.
+Conforme  certificado,  transcorreu  in  albis  o  prazo  para  a  impugnação  do  recurso.
+É  o  relatório.
+
+EMENTA
+
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  CIVIL  PÚBLICA.  PROBLEMAS  ADVINDOS  DE  CONSTRUÇÃO  DE  ESTAÇÃO  DE  ESGOTO.  ALEGADA  VIOLAÇÃO  AOS  ARTS.  11,  489  E  1.022  DO  CPC/2015.  INEXISTÊNCIA.  AUSÊNCIA  DE  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DO  ACÓRDÃO  RECORRIDO.  INCIDÊNCIA  DA  SÚMULA  283/STF.  TRIBUNAL  DE  ORIGEM  QUE,  À  LUZ  DAS  PROVAS  DOS  AUTOS,  CONCLUIU  PELA  MANUTENÇÃO  DO  INDEFERIMENTO  DA  LIMINAR  PLEITEADA.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  7  DO  STJ.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  Corte  de  origem  dirimiu,  fundamentadamente,  a  matéria  submetida  à  sua  apreciação,  manifestando-se  acerca  dos  temas  necessários  ao  integral  deslinde  da  controvérsia,  não  havendo  omissão,  contradição,  obscuridade  ou  erro  material,  afastando-se,  por  conseguinte,  a  alegada  violação  aos  arts.  11,  489  e  1.022  do  CPC/2015.
+2.  A  teor  da  Súmula  283/STF,  "é  inadmissível  o  recurso  extraordinário,  quando  a  decisão  recorrida  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles"  .
+3.Inviável  a  análise  da  pretensão  veiculada  no  recurso  especial,  por  demandar  o  reexame  do  contexto  fático-probatório  dos  autos,  atraindo  a  incidência  da  Súmula  7/STJ.
+4.  Agravo  interno  desprovido.
+
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Quanto à alegada violação aos arts. 11, 489 e 1.022 do CPC/2015, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material.
+Conforme jurisprudência:
+ ..  não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016  (AgInt no AREsp n. 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+Em relação à Súmula 283/STF, não há razão para afastar o óbice.
+Ao contrário do que defende o agravante, restou expressamente consignado na decisão ora agravada o fundamento do acórdão recorrido não impugnado no apelo especial.
+Confira (fl. 270) :
+Ao analisar os embargos de declaração, a Corte de origem assentou que "que antes do deferimento da liminar fustigada, o Embargante manifestou-se nos autos por duas vezes, apresentando documentos e fotos para atestar seus argumentos, visando, assim, impedir o êxito da parte Autora. Todavia, o fundamento não foi impugnado pela parte recorrente, razão porque se aplica ao ponto o óbice da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+Referido fundamento, inclusive, esvazia a tese do recorrente segundo a qual não houve intimação prévia para a manifestação sobre o pedido liminar (fl. 284).
+No mais, oportuna a reiteração do excerto extraído do acórdão recorrido:
+ ..  o Agravante não demonstrou elementos suficientes para a modificação da decisão de primeira instância, uma vez que a posição adotada pelo magistrado a quo não desconstitui a licença de operação expedida pelo NATURATINS (LO nº 7935-2013), pelo contrário, busca, por cautela, averiguar se a situação vigente à época de sua concessão ainda permanece, uma vez que esta não possui carga de definitividade/imutabilidade, bem como, evita a ocorrência de eventuais lançamentos de efluentes sanitários, sem tratamento prévio, no solo e nos cursos d"água (fls. 270-271, grifo nosso).
+Portanto, a alteração da conclusão do Tribunal a quo, em relação ao deferimento do pedido liminar, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+A propósito, este Tribunal Superior, "em sintonia com o disposto na Súmula 735/STF, entende que, via de regra, não é cabível Recurso Especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, por não representar pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, sujeito a modificação a qualquer tempo (AgInt no AREsp 1.645.228/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3.5.2022.) 6. Agravo Interno não provido" (AgInt no AREsp 2.194.883/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 28/6/2023).
+Isso posto, nego provimento ao recurso.
