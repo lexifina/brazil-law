@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: revisional de contrato de empréstimo pessoal, ajuizada por SILVANA SIQUEIRA SOARES, em face da agravante, visando reduzir encargos que julga abusivos.
+Sentença: julgou parcialmente procedentes os pedidos para limitar os juros remuneratórios à taxa média de mercado e condenar a agravante à devolução simples de valores pagos a maior.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO - RECURSO DO BANCO - JUROS REMUNERATÓRIOS DECLARADOS ABUSIVOS NA SENTENÇA - TAXAS CONTRATADAS SUPERIORES AO DOBRO DA TAXA MÉDIA DE MERCADO À ÉPOCA DAS CONTRATAÇÕES - ABUSIVIDADE CONFIGURADA - ÔNUS DE SUCUMBÊNCIA - SENTENÇA MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO.
+É devida a limitação dos juros remuneratórios quando comprovado que a taxa exigida pelo banco supera consideravelmente a taxa média de mercado, aplicada às operações de mesma espécie, divulgada pelo Bacen, adotando-se como parâmetro o entendimento proferido no Recurso Especial n.º 1.061.530/RS.
+Em relação aos contratos objetos de discussão tem-se que a diferença entre as taxas praticadas ao mês e ao ano são superiores ao dobro da taxa média estipulada, restando, pois, configurada a cobrança abusiva, sendo passível de revisão, com a consequente substituição pela taxa média de mercado. (fl. 271, e-STJ)
+Decisão de admissibilidade do TJ/MS: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ); iii) dissídio jurisprudencial prejudicado.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "a divergência jurisprudencial é patente, razão pela qual o Acórdão Recorrido deve ser reformado, a fim de que seja observado o caso de forma individual, analisando o tipo de contratos firmados pela Recorrente, já que os parâmetros utilizado pela Recorrida divergem das demais operações no mercado."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ); iii) dissídio jurisprudencial prejudicado.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente, em R$ 500,00 (quinhentos reais), ressalvada a eventual concessão da gratuidade da justiça.
+Alerto que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1021, §4º e 1026, §2º do CPC.
+Publique-se. Intimem-se.
+EMENTA
