@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO AGRAVO EM  RECURSO  ESPECIAL. AÇÃO CIVIL PÚBLICA. VIOLAÇÃO AO ART. 1º , III, DA LEI 7.347/1985. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 211 DO STJ E 284 DO STF. TUTELA DO PATRIMÔNIO HISTÓRICO E CULTURAL. AFRONTA AOS PRINCÍPIOS DA SEPARAÇÃO DOS PODERES. REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1.  Imprescindível o prequestionamento da matéria para a admissibilidade do recurso. Incidência da Súmula 211 do STJ, porquanto, apesar da oposição dos embargos de declaração, o dispositivo apontado por violado não foi objeto de apreciação pelo Tribunal de origem.
+2. Conforme jurisprudência deste Tribunal Superior, o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, requer a indicação de violação ao art. 1.022 do CPC/2015 no recurso especial. Precedentes.
+3. Alegada violação a dispositivo de lei federal sem a especificação de como o acórdão recorrido teria malferido a tese alegada não comporta conhecimento ante a ausência de fundamentação. Incidência da Súmula 284/STF.
+4. Para modificar o decisum, imprescindível o reexame de provas, vedado pela Súmula 7 do STJ.
+2. Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE contra  a  decisão  que  conheceu do agravo para não conhecer do recurso especial, em razão da incidência das Súmulas 7 e 211 do STJ, assim como 284 do STF.
+Argumenta  a  parte agravante,  em  síntese,  que "na hipótese sub examine, não se pretende revolver fatos e provas, pois a causa de pedir recursal parte das premissas fáticas consignadas na sentença e no v. acórdão, para então comprovar a inadequação subsuntiva levada a efeito pela instância a quo" (fl. 1.039).
+Defende, ainda, que "ao assentar a impossibilidade de controle judicial de políticas públicas no caso concreto, o Tribunal a quo negou a proteção ao patrimônio histórico e cultural, atentando contra o disposto no art. 1º, inciso III, da Lei nº 7.347/1985" (fl. 1.041).
+Acrescenta que não há incidência do óbice da Súmula 284 do STF, uma vez que, "nas razões do recurso especial, o Ministério Público indicou de forma clara e fundamentada os motivos pelos quais entende que o acórdão prolatado pela Corte de origem atenta contra o disposto no art. 1º, inciso III, da Lei nº 7.347/1985" (fl. 1.043).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Ciente, a parte agravada não impugnou o recurso (fl. 1.053).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO AGRAVO EM  RECURSO  ESPECIAL. AÇÃO CIVIL PÚBLICA. VIOLAÇÃO AO ART. 1º , III, DA LEI 7.347/1985. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 211 DO STJ E 284 DO STF. TUTELA DO PATRIMÔNIO HISTÓRICO E CULTURAL. AFRONTA AOS PRINCÍPIOS DA SEPARAÇÃO DOS PODERES. REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1.  Imprescindível o prequestionamento da matéria para a admissibilidade do recurso. Incidência da Súmula 211 do STJ, porquanto, apesar da oposição dos embargos de declaração, o dispositivo apontado por violado não foi objeto de apreciação pelo Tribunal de origem.
+2. Conforme jurisprudência deste Tribunal Superior, o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, requer a indicação de violação ao art. 1.022 do CPC/2015 no recurso especial. Precedentes.
+3. Alegada violação a dispositivo de lei federal sem a especificação de como o acórdão recorrido teria malferido a tese alegada não comporta conhecimento ante a ausência de fundamentação. Incidência da Súmula 284/STF.
+4. Para modificar o decisum, imprescindível o reexame de provas, vedado pela Súmula 7 do STJ.
+2. Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme expressamente consignado na decisão agravada, os óbices para o não conhecimento do recurso devem ser mantidos.
+Oportuno repisar, quanto à incidência da Súmula 211 do STJ, que a alegação ao art. 1º da Lei 7347/1985 não foi objeto de apreciação pelo Tribunal de origem. Além disso, no caso de persistir o inconformismo, deveria a parte ora agravante ter indicado, nas razões do apelo especial, a violação ao art. 1.022 do CPC/20015, para possibilitar a apreciação de sua tese recursal no âmbito do recurso especial.
+De acordo com este STJ:
+O Superior Tribunal de Justiça entende que não basta a oposição de Embargos de Declaração para a configuração do prequestionamento ficto admitido no art. 1.025 do CPC/2015. É imprescindível que a parte alegue, nas razões do Recurso Especial, ofensa ao art. 1.022 do mesmo diploma legal, para que, assim, o STJ esteja autorizado a examinar eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador (AgInt no REsp n. 1.684.553/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/6/2024, DJe de 28/6/2024).
+Por outro lado, da leitura do apelo especial, é possível verificar que a parte descreve o teor do art. 1º, III, da Lei 7.347/1985 para demonstrar que o dispositivo prevê a proteção do patrimônio histórico e cultural. Assevera que, "ao contrário do que afirma o Tribunal a quo, o princípio da separação dos poderes não impede que o Município de Mossoró seja obrigado pelo Poder Judiciário a elaborar um projeto para restauração e conservação dos Imóveis de Valor Histórico-Cultural  .. " (fls. 964-965).
+Assim, há que reiterar que a parte agravante não indicou de que forma a Corte de origem teria violado o referido artigo quando da apreciação do caso no recurso de apelação, razão porque foi aplicado o óbice da Súmula 284/STF.
+Por fim, ao analisar a controvérsia, que trata de ação civil pública em desfavor do Município de Mossoró, visando a condenação do ente público em obrigação de fazer para preservação do patrimônio histórico-cultural da cidade, concluiu a Corte de origem pela impossibilidade do Poder Judiciário de adentrar no mérito, nos seguintes termos:
+Cabe apenas ao gestor público o estabelecimento de ações prioritárias, tendo em vista a necessidade de promover adequadamente inúmeros outros interesses também tutela dos constitucionalmente.
+Por isso, restringe-se à esfera da discricionariedade administrativa a articulação de iniciativas prestacionais e de preservação do patrimônio histórico e cultural, sendo descabido ao Poder Judiciário substituir-se ao gestor público na definição da conveniência e da oportunidade para a prática de atos como a construção de uma cadeia pública numa dada Comarca.
+Não se desconhece a proteção constitucional e infraconstitucional afeta ao patrimônio público, nem mesmo sua essencialidade para a República Federativa Brasileira. No entanto, faz-se necessário apontar que os pedidos da ação civil pública não são da alçada do Poder Judiciário, que se detém a avaliar a legalidade e a compreende que, caso agisse de modo diverso, estaria interferindo em matéria de mérito administrativo.
+Conforme se vê, decidir de forma contrária, demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCUMPRIMENTO A PRECEITO CONSTITUCIONAL RELATIVO À SEGURANÇA PÚBLICA. INSUFICIÊNCIA DE EFETIVO RELATIVO ÀS POLÍCIAS CIVIL E MILITAR. INTERVENÇÃO DO PODER JUDICIÁRIO PARA FAZER VALER PRECEITO CONSTITUCIONAL. INOCORRÊNCIA DE OFENSA AO PRINCÍPIO DA SEPARAÇÃO DE PODERES. REEXAME DE PROVAS. SÚMULA 7 E 83/STJ. APLICAÇÃO.
+1. Trata-se de Agravo Interno no Agravo em Recurso Especial interposto contra decisão da Presidência do Superior Tribunal de Justiça que conheceu do Agravo para não conhecer do Recurso Especial por incidência da Sumula 284/STF.
+2. O Recurso Especial alegando a violação ao art. 3º da Lei Federal 11.472/2007 que obrigou o Estado a contratar servidores públicos da Polícia Civil e Militar - política pública de incremento de servidores da área de segurança pública -, foi inadmitido pela incidência das Súmulas 7 e 83/STJ.
+3. O Superior Tribunal de Justiça tem entendimento de que o Poder Judiciário, em situações excepcionais, pode determinar que a Administração Pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação dos poderes.
+Precedente: AgInt no REsp 1.373.051/SC, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 19.12.2018.
+4. É inviável analisar a tese defendida no Recurso Especial de violação do princípio da separação dos poderes, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido de que "a omissão do Poder Público em cumprir as políticas públicas, situação que ocasiona, por certo, carência da população local quanto ao seu direito à segurança, assegurado constitucionalmente" justifica "a fiscalização do Poder Judiciário, sem que isso importe em violação da independência entre os poderes." Aplica-se o óbice da Súmula 7/STJ.
+ ..
+7. Agravo Interno não provido (AgInt no AREsp n. 1.547.873/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/2/2020, DJe de 18/5/2020 - grifo nosso).
+Isso posto, nego provimento ao recurso.
