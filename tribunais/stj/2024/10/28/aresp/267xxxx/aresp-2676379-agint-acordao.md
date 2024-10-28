@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). DIREITO DO CONSUMIDOR. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. ALEGADA INDEVIDA VALORAÇÃO DA PROVA. SÚMULA N. 7/STJ. AQUISIÇÃO DE PRODUTO CONTENDO CORPO ESTRANHO EM SEU INTERIOR. NÃO INGESTÃO. EXPOSIÇÃO DO CONSUMIDOR A RISCO CONCRETO DE LESÃO À SAÚDE E À SEGURANÇA. FATO DO PRODUTO. DANO EXTRAPATRIMONIAL CONFIGURADO. RESPONSABILIDADE DO FORNECEDOR. ACÓRDÃO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Rever a conclusão do Tribunal de origem - quanto à ocorrência de falha no ciclo produtivo do produto - demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos da Súmula n. 7/STJ.
+2. A Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.899.304/SP (relatora Ministra Nancy Andrighi, julgado em 25/08/2021, DJe 04/10/2021), uniformizou o entendimento no sentido de que é irrelevante a efetiva ingestão do alimento contaminado por corpo estranho, ou mesmo a deglutição do próprio corpo estranho, para a caracterização do dano moral, dado que inarredável a potencialidade lesiva decorrente da aquisição do produto contaminado.
+3. Assim, a regra geral acerca da responsabilidade pelo fato do produto é objetiva e solidária entre o fabricante, o produtor, o construtor e o importador, nos termos do art. 12 do CDC. Ou seja, todos os fornecedores acima elencados, que integram a cadeia de consumo, irão responder conjuntamente, independente de culpa.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SPAL INDÚSTRIA BRASILEIRA DE BEBIDAS S.A. contra decisão desta relatoria assim ementada (e-STJ, fl. 584):
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). DIREITO DO CONSUMIDOR. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. ALEGADA INDEVIDA VALORAÇÃO DA PROVA. SÚMULA N. 7/STJ. AQUISIÇÃO DE PRODUTO CONTENDO CORPO ESTRANHO EM SEU INTERIOR. NÃO INGESTÃO. EXPOSIÇÃO DO CONSUMIDOR A RISCO CONCRETO DE LESÃO À SAÚDE E À SEGURANÇA. FATO DO PRODUTO. DANO EXTRAPATRIMONIAL CONFIGURADO. RESPONSABILIDADE DO FORNECEDOR. ACÓRDÃO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões do agravo, a insurgente alega não serem aplicáveis os óbices apontados e repisa as razões da peça inicial de ausência de ilícito a ensejar a sua condenação e não configuração do dano moral.
+Defende que não ficou demonstrada a falha no ciclo fabril, o que justificaria a sua condenação.
+Requer o provimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). DIREITO DO CONSUMIDOR. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. ALEGADA INDEVIDA VALORAÇÃO DA PROVA. SÚMULA N. 7/STJ. AQUISIÇÃO DE PRODUTO CONTENDO CORPO ESTRANHO EM SEU INTERIOR. NÃO INGESTÃO. EXPOSIÇÃO DO CONSUMIDOR A RISCO CONCRETO DE LESÃO À SAÚDE E À SEGURANÇA. FATO DO PRODUTO. DANO EXTRAPATRIMONIAL CONFIGURADO. RESPONSABILIDADE DO FORNECEDOR. ACÓRDÃO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Rever a conclusão do Tribunal de origem - quanto à ocorrência de falha no ciclo produtivo do produto - demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos da Súmula n. 7/STJ.
+2. A Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.899.304/SP (relatora Ministra Nancy Andrighi, julgado em 25/08/2021, DJe 04/10/2021), uniformizou o entendimento no sentido de que é irrelevante a efetiva ingestão do alimento contaminado por corpo estranho, ou mesmo a deglutição do próprio corpo estranho, para a caracterização do dano moral, dado que inarredável a potencialidade lesiva decorrente da aquisição do produto contaminado.
+3. Assim, a regra geral acerca da responsabilidade pelo fato do produto é objetiva e solidária entre o fabricante, o produtor, o construtor e o importador, nos termos do art. 12 do CDC. Ou seja, todos os fornecedores acima elencados, que integram a cadeia de consumo, irão responder conjuntamente, independente de culpa.
+4. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para alterar os fundamentos da decisão ora agravada.
+Conforme assentado na decisão recorrida, a Corte estadual, considerando as particularidades do caso concreto, concluiu pela ocorrência de falha na produção do produto e que a mera presença de corpo estranho em produto alimentício gera dano moral indenizável.
+Veja-se (e-STJ, fls. 454-457; sem destaques no original):
+No que tange à responsabilidade da apelada, impende asseverar que não há dúvidas de que o autor adquiriu um refrigerante, que se encontrava impróprio para o consumo, por estar contaminado por uma lesma.
+Nesse diapasão, cumpre ressaltar que a prova pericial produzida em juízo (doc.
+de ordem 10, p. 93/111) consignou expressamente a inocorrência de violação à garrafa periciada, concluindo que a presença da lesma em seu interior adveio de falha de produção.
+Confira-se as conclusões do r. laudo:
+Durante a visita técnica à indústria da Ré, este Perito constatou que a mesma utiliza em suas dependências máquinas modernas e evoluídas.
+Porém, a garrafa periciada não foi produzida nesta fábrica. Mas por conhecimento em outra perícia, irei concluir de acordo com a produção na antiga fabrica da ré.
+Quando da realização da perícia técnica, este Perito constatou que a tampa da garrafa periciada não havia sofrido qualquer sinal de violação.
+De acordo com estudos e testes realizados, foi possível concluir que o corpo estranho (lesma) encontrado dentro da garrafa de Fanta Laranja KS 290 ml, ora periciada, adveio de uma falha na produção da mesma.(G.n.)
+Referida falha de produção ocorreu desde o primeiro passo de lavagem da embalagem retornável.
+Também não foi detectado pelas máquinas inspetoras o corpo estranho que deveria ser expulso da embalagem.
+De tal forma, pode-se afirmar que o corpo estranho encontrado dentro da garrafa periciada (lesma) inseriu-se dentro da garrafa retornável em seu armazenamento, após seu ultimo consumo. O erro se iniciou desde o primeiro processo de lavagem das garrafas, onde a lesma não foi expulsa da garrafa, o que causou insucesso na limpeza do retornável periciado durante a produção.(..)
+Destarte, conclui-se que embora a Ré tome diversas cautelas, primando pela qualidade de seus produtos e zelando pela eficiência de sua linha de produção, o corpo estranho (lesma) encontrado dentro da garrafa periciada já se encontrava no interior do recipiente após iniciado o processo de produção.
+Com espeque em tais motivos, não é possível afirmar que houve eventual farsa ou sabotagem da garrafa periciada para a inserção do corpo estranho.
+Forte em tais considerações pode-se atestar que NÃO HOUVE VIOLAÇÃO NA ROLHA METALICA entre a saída da garrafa periciada da linha de produção até o momento da realização da perícia.
+Nesse sentido, resta incontroverso que, no presente caso, a presença de corpo estranho no refrigerante se deu por culpa da fabricante, não podendo o juízo fazer uso de suposições, como de possível fabricação clandestina da bebida, para eximir a ré de suas responsabilidades, até porque inexistente prova nesse sentido.
+Outrossim, a alegação de que não houve prova da ingestão e de que teria ocasionado qualquer problema de saúde não se sustenta, pois hodiernamente as relações de consumo são em massa e a confiança nos fornecedores é um aspecto fundamental na aquisição pelos consumidores de seus produtos, haja vista que, em geral, estes não dispõem de conhecimento técnico ou científico que lhes permita avaliar a qualidade dos produtos adquiridos.
+Portanto, ao se deparar com uma lesma dentro de um refrigerante de uma marca conhecida, o consumidor se vê acometido por uma sensação de impotência e vulnerabilidade diante do risco à saúde.
+Cabe pontuar que a simples contaminação do produto com lesma já é suficiente para condenação por danos morais na medida em que não seria pequena a probabilidade de ocorrência de dano à saúde física ou à integridade psíquica do consumidor.
+Nesse sentido, verifica-se que recentemente a 2ª Seção Cível do Superior Tribunal de Justiça consolidou o entendimento de que a mera presença de corpo estranho em produto alimentício gera dano moral indenizável.
+Assim, para aferir as alegações da parte recorrente e afastar as premissas firmadas pelo Tribunal de origem de ocorrência de falha no ciclo produtivo do produto, seria necessário o revolvimento do conteúdo-fático probatório dos autos, procedimento vedado na via especial, nos termos da Súmula n. 7/STJ.
+A respeito do tema, a Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.899.304/SP (relatora Ministra Nancy Andrighi, julgado em 25/08/2021, DJe 04/10/2021), uniformizou o entendimento no sentido de que é irrelevante a efetiva ingestão do alimento contaminado por corpo estranho, ou mesmo a deglutição do próprio corpo estranho, para a caracterização do dano moral, dado que inarredável a potencialidade lesiva decorrente da aquisição do produto contaminado.
+No aludido julgamento, ficou assentado que, nessa situação, havendo ou não a ingestão do alimento contaminado, o dano extrapatrimonial exsurge em razão da exposição do consumidor a risco concreto de lesão à sua saúde e à sua incolumidade física e psíquica, em violação do seu direito fundamental à alimentação adequada.
+Confira-se a ementa do referido precedente:
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. AQUISIÇÃO DE ALIMENTO (PACOTE DE ARROZ) COM CORPO ESTRANHO (CONGLOMERADO DE FUNGOS, INSETOS E ÁCAROS) EM SEU INTERIOR. EXPOSIÇÃO DO CONSUMIDOR A RISCO CONCRETO DE LESÃO À SUA SAÚDE E INCOLUMIDADE FÍSICA E PSIQUÍCA. FATO DO PRODUTO. INSEGURANÇA ALIMENTAR. EXISTÊNCIA DE DANO MORAL MESMO QUE NÃO INGERIDO O PRODUTO.
+1. Ação ajuizada em 11/05/2017. Recurso especial interposto em 24/07/2020 e concluso ao gabinete em 13/11/2020.
+2. O propósito recursal consiste em determinar se, na hipótese dos autos, caracterizou-se dano moral indenizável em razão da presença de corpo estranho em alimento industrializado, que, embora adquirido, não chegou a ser ingerido pelo consumidor.
+3. A Emenda Constitucional nº 64/2010 positivou, no ordenamento jurídico pátrio, o direito humano à alimentação adequada (DHAA), que foi correlacionado, pela Lei 11.346/2006, à ideia de segurança alimentar e nutricional.
+4. Segundo as definições contidas na norma, a segurança alimentar e nutricional compreende, para além do acesso regular e permanente aos alimentos, como condição de sobrevivência do indivíduo, também a qualidade desses alimentos, o que envolve a regulação e devida informação acerca do potencial nutritivo dos alimentos e, em especial, o controle de riscos para a saúde das pessoas.
+5. Nesse sentido, o art. 4º, IV, da Lei 11.346/2006 prevê, expressamente, que a segurança alimentar e nutricional abrange "a garantia da qualidade biológica, sanitária, nutricional e tecnológica dos alimentos".
+6. Ao fornecedor incumbe uma gestão adequada dos riscos inerentes a cada etapa do processo de produção, transformação e comercialização dos produtos alimentícios. Esses riscos, próprios da atividade econômica desenvolvida, não podem ser transferidos ao consumidor, notadamente nas hipóteses em que há violação dos deveres de cuidado, prevenção e redução de danos.
+7. A presença de corpo estranho em alimento industrializado excede aos riscos razoavelmente esperados pelo consumidor em relação a esse tipo de produto, sobretudo levando-se em consideração que o Estado, no exercício do poder de polícia e da atividade regulatória, já valora limites máximos tolerados nos alimentos para contaminantes, resíduos tóxicos outros elementos que envolvam risco à saúde.
+8. Dessa forma, à luz do disposto no art. 12, caput e § 1º, do CDC, tem-se por defeituoso o produto, a permitir a responsabilização do fornecedor, haja vista a incrementada - e desarrazoada - insegurança alimentar causada ao consumidor.
+9. Em tal hipótese, o dano extrapatrimonial exsurge em razão da exposição do consumidor a risco concreto de lesão à sua saúde e à sua incolumidade física e psíquica, em violação do seu direito fundamental à alimentação adequada.
+10. É irrelevante, para fins de caracterização do dano moral, a efetiva ingestão do corpo estranho pelo consumidor, haja vista que, invariavelmente, estará presente a potencialidade lesiva decorrente da aquisição do produto contaminado.
+11. Essa distinção entre as hipóteses de ingestão ou não do alimento insalubre pelo consumidor, bem como da deglutição do próprio corpo estranho, para além da hipótese de efetivo comprometimento de sua saúde, é de inegável relevância no momento da quantificação da indenização, não surtindo efeitos, todavia, no que tange à caracterização, a priori, do dano moral.
+12. Recurso especial conhecido e provido.
+(REsp n. 1.899.304/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 25/8/2021, DJe de 4/10/2021.)
+Cabe registrar, ainda, que a Segunda Seção desta Corte Superior decidiu que a existência de corpo estranho em produtos alimentícios, como no caso dos autos, configura hipótese de fato do produto (defeito), previsto nos arts. 12 e 13 do Código de Defesa do Consumidor, que assim dispõem:
+Art. 12. O fabricante, o produtor, o construtor, nacional ou estrangeiro, e o importador respondem, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos decorrentes de projeto, fabricação, construção, montagem, fórmulas, manipulação, apresentação ou acondicionamento de seus produtos, bem como por informações insuficientes ou inadequadas sobre sua utilização e riscos.
+(..)
+Art. 13. O comerciante é igualmente responsável, nos termos do artigo
+anterior, quando:
+I - o fabricante, o construtor, o produtor ou o importador não puderem ser identificados;
+II - o produto for fornecido sem identificação clara do seu fabricante, produtor, construtor ou importador;
+III - não conservar adequadamente os produtos perecíveis.
+Por conseguinte, a regra geral acerca da responsabilidade pelo fato do produto é objetiva e solidária entre o fabricante, o produtor, o construtor e o importador, nos termos do art. 12 do CDC. Ou seja, todos os fornecedores acima elencados, que integram a cadeia de consumo, irão responder conjuntamente, independente de culpa.
+Na mesma linha de cognição:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO MORAL E MATERIAL - AQUISIÇÃO DE ALIMENTO COM CORPO ESTRANHO - NÃO INGESTÃO - FATO INDENIZÁVEL.
+1. A Segunda Seção desta Corte, quando do julgamento do REsp 1.899.304/SP, Rel. Ministra Nancy Andrighi, ocorrido em 25/8/2021, DJe 4/10/2021, se posicionou no sentido de que a constatação, em concreto, da existência de corpo estranho totalmente distinto do produto adquirido cuja ingestão, manuseio e utilização seja comprovadamente capaz de causar risco e lesão à saúde ou incolumidade física do consumidor, por violar o dever de qualidade e segurança alimentar, enseja indenização por danos morais, ainda que não haja a ingestão do referido produto.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.063.710/RO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CONSUMIDOR. INDENIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRODUTO ALIMENTÍCIO. CORPO ESTRANHO. DANOS MORAIS. INGESTÃO. DESNECESSIDADE. RISCO À SAÚDE E SEGURANÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola os arts. 1.022 e 489, § 1º, IV, do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+3. O Superior Tribunal de Justiça consolidou entendimento no sentido de que não é necessária a ingestão de produto alimentício contaminado por corpo estranho para a configuração do dano moral, pois a sua mera aquisição é considerada suficiente para expor o consumidor ao risco concreto de lesão à sua saúde e à sua segurança.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.969.674/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022.)
+No caso em exame, o Tribunal estadual atestou que a agravante comercializou produto com corpo estranho, o qual foi adquirido pela parte agravada, ficando, dessa forma, configurado o dano moral indenizável.
+Assim, estando o acórdão recorrido em consonância com o entendimento do Superior Tribunal de Justiça, incide a Súmula 83/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, com a oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
