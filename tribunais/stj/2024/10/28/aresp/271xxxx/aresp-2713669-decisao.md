@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por VILMA MARTINS DE ARAUJO, contra decisão que não admitiu o recurso especial da insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 198, e-STJ):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. COBRANÇA DE ENCARGOS CONDOMINIAIS. CONVENÇÃO DE CONDOMÍNIO. ATA DE ASSEMBLEIA GERAL DOS CONDÔMINOS. PLANILHA DE CÁLCULOS. DOCUMENTOS HÁBEIS A ENDOSSAR A PRETENSÃO DEDUZIDA NA PETIÇÃO INICIAL. TÍTULO EXECUTIVO VÁLIDO. REQUISITOS PROCESSUAIS PRESENTES. OBRIGAÇÃO LÍQUIDA, CERTA E EXIGÍVEL. PRESCRIÇÃO DE MENSALIDADE ESPECÍFICA. AUSÊNCIA. SENTENÇA REFORMADA. I - Para que o título possa embasar uma pretensão executiva, o art. 783 do Código de Processo Civil exige três requisitos substanciais para a obrigação dele decorrente, quais sejam, a certeza, a liquidez e a exigibilidade , estando todos eles presentes na relação jurídica objeto da lide. II - Conforme estabelece a regra do art. 784, inciso X, do Código de Processo Civil, constitui título executivo extrajudicial "o crédito referente às contribuições ordinárias ou extraordinárias de condomínio edilício, previstas na respectiva convenção ou aprovadas em assembleia geral, desde que documentalmente comprovadas", situação amoldável ao caso em apreço. III - A convenção de condomínio, a ata da assembleia geral dos condôminos e a planilha de cálculos acostados aos autos são documentos suficientemente hábeis ao endosso da pretensão deduzida na petição inicial da ação executiva. IV - O prazo prescricional aplicável às taxas condominiais é de 05 (cinco) anos, a teor do disposto no art. 206, § 5º, inciso I, do Código Civil, cujo termo inicial é o dia seguinte à data de vencimento da prestação. V - Recurso de apelação conhecido e provido.
+Nas razões do recurso especial (fls. 219-224, e-STJ), a insurgente alega ofensa aos artigos 320, 434, 783, e 798, I, "a", do CPC, aduzindo a ineficácia de título executivo extrajudicial e documentos apresentados tardiamente, desprovidos do atributo de liquidez.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 239-241, e-STJ), dando ensejo a interposição do presente agravo (fls. 244-249, e-STJ).
+Não foi apresentada contraminuta.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. A insurgente alega ofensa aos artigos 320, 434, 783, e 798, I, "a", do CPC, aduzindo a ineficácia de título executivo extrajudicial e documentos apresentados tardiamente, desprovidos do atributo de liquidez. A esse respeito, assim concluiu o Tribunal de origem (fl. 204, e-STJ):
+No caso em apreço, ao contrário do entendimento consignado na sentença, tenho que a liquidez e a exigibilidade do título encontram-se presentes. Com efeito, a embargante/recorrida não nega a existência da dívida, tampouco a inadimplência, mas apenas sustenta a inexistência de título executivo válido na espécie.
+A fim de comprovar o crédito exequendo, o ora recorrente trouxe aos autos a convenção de condomínio de ordem nº 15, a prever as contribuições, bem assim a "Ata de Assembleia Geral Extraordinária" lavrada pelos condôminos (ordem nº 18), na qual houve a rerratificação dos valores cobrados a título de taxas condominiais no período compreendido entre janeiro de 2012 e agosto de 2020.
+Na referida ata, constam os valores em aberto devidos pela ora apelada, discriminadamente mês a mês, entre os anos de 2012 e 2019 (p. 05/06), perfazendo o montante de R$ 13.260,75 (treze mil, duzentos e sessenta reais e setenta e cinco centavos).
+Ademais, após ser intimado a comparecer aos autos e exibir os documentos com os quais foi instruída a petição inicial da ação executiva, o ora apelante apresentou a planilha de cálculos de ordem nº 41 que, juntamente com a convenção de condomínio e a ata assemblear de rerratificação de valores, a meu ver, cumprem os requisitos previstos no supracitado art. 783 e no art. 784, inciso X, do Código de Processo Civil, "in verbis":
+Assim, no caso, para rediscutir a presença dos requisitos de exigibilidade e liquidez do título executivo, quanto ao preenchimento da obrigação, seria necessário o reexame de matéria fático-probatória, o que é inviável devido ao óbice da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA. INEXIGIBILIDADE. DUPLICATA MERCANTIL. RELAÇÃO JURÍDICA ENTRE AS PARTES. COMPROVAÇÃO. ENTREGA DE MERCADORIAS. TEORIA DA APARÊNCIA. REQUISITOS. ATENDIMENTO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. A jurisprudência desta Corte é assente no sentido de que as duplicatas mercantis protestadas e acompanhadas das notas fiscais e do comprovante de entrega das mercadorias possuem força executiva.
+2. Na hipótese, rever a conclusão do aresto impugnado acerca da exigibilidade e da validade das duplicatas, bem como do atendimento dos requisitos para aplicação da teoria da aparência, encontra óbice na Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.255.204/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANOS DECORRENTES DE PROTESTO INDEVIDO. RESPONSABILIDADE. SÚMULA 475 DO STJ. DUPLICATA EMITIDA SEM A CORRESPONDENTE COMPRA E VENDA MERCANTIL. HIGIDEZ. SÚMULA 7 DO STJ. EXERCÍCIO REGULAR DE DIREITO. SÚMULA 211 DO STJ.
+1. O entendimento adotado pelo Tribunal de origem coincide com a jurisprudência sumulada do STJ, no sentido de que "responde pelos danos decorrentes de protesto indevido o endossatário que recebe por endosso translativo título de crédito contendo vício formal extrínseco ou intrínseco, ficando ressalvado seu direito de regresso contra os endossantes e avalistas". Incidência da Súmula n. 475/STJ.
+2. A própria Corte de origem salientou que a duplicata objeto da lide foi emitida sem a correspondente compra e venda mercantil. Desse modo, incide no óbice da Súmula nº 7 aferir a higidez da duplicata, isto é, se estão presentes os requisitos para a executividade do título.
+3. A tese de exercício regular de direito não foi prequestionada, estando, no ponto, inviável o debate. Incidência da Súmula 211 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.384.443/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/9/2019, DJe de 30/9/2019.)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. 1. DUPLICATAS. TRIBUNAL A QUO NÃO RECONHECE A PRESENÇA DOS REQUISITOS DO ART. 15 DA LEI 5.474/1968. ALTERAÇÃO DO ENTENDIMENTO. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal estadual, ao analisar o conteúdo fático-probatório dos autos, concluiu pela extinção da execução devido à ausência de documento comprobatório hábil de entrega e recebimento da mercadoria. Reverter essa conclusão para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+2. Agravo interno improvido.
+(AgInt no REsp n. 1.702.400/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/5/2018, DJe de 18/5/2018.)
+Incide, no ponto, o óbice da Súmula 7/STJ.
+2. Ante o exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
