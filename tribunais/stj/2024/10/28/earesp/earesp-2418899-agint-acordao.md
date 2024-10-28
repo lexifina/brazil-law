@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. FATOS CONSTITUTIVOS DO DIREITO DA AUTORA. AUSÊNCIA DE COMPROVAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A orientação jurisprudencial vigente nesta Corte de Uniformização é no sentido de que pertence ao órgão julgador a decisão acerca da conveniência e oportunidade da produção de determinada prova, inexistindo cerceamento de defesa quando o magistrado, por meio de decisão fundamentada, indefere o pedido de produção da prova pleiteada.
+2. A desconstituição do posicionamento adotado acerca da desnecessidade de produção da prova grafotécnica não prescindiria do reexame do acervo fático-probatório, o que é vedado pela Súmula 7/STJ.
+3. Não há como infirmar o entendimento estadual - acerca da ausência de demonstração dos fatos constitutivos do direito da autora - sem o prévio revolvimento de fatos e provas, procedimento obstado na seara extraordinária, em virtude do disposto na Súmula 7 desta Corte Superior.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Vera Lúcia da Costa contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 508):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. 1. DEFICIÊNCIA DE FUNDAMENTAÇÃO NÃO CONFIGURADA. 2. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. FATOS CONSTITUTIVOS DO DIREITO DA AUTORA. AUSÊNCIA DE COMPROVAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 4. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões, alega que não pretende o revolvimento do acervo fático-probatório.
+Defende a necessidade de produção da prova grafotécnica.
+Pleiteia, ao final, a reforma da decisão agravada.
+Sem impugnação (e-STJ, fl. 533).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. FATOS CONSTITUTIVOS DO DIREITO DA AUTORA. AUSÊNCIA DE COMPROVAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A orientação jurisprudencial vigente nesta Corte de Uniformização é no sentido de que pertence ao órgão julgador a decisão acerca da conveniência e oportunidade da produção de determinada prova, inexistindo cerceamento de defesa quando o magistrado, por meio de decisão fundamentada, indefere o pedido de produção da prova pleiteada.
+2. A desconstituição do posicionamento adotado acerca da desnecessidade de produção da prova grafotécnica não prescindiria do reexame do acervo fático-probatório, o que é vedado pela Súmula 7/STJ.
+3. Não há como infirmar o entendimento estadual - acerca da ausência de demonstração dos fatos constitutivos do direito da autora - sem o prévio revolvimento de fatos e provas, procedimento obstado na seara extraordinária, em virtude do disposto na Súmula 7 desta Corte Superior.
+4. Agravo interno desprovido.
+VOTO
+O inconformismo recursal não merece prosperar.
+Conforme consignado na decisão agravada, a orientação jurisprudencial vigente nesta Corte de Uniformização é no sentido de que pertence ao órgão julgador a decisão acerca da conveniência e oportunidade da produção de determinada prova, inexistindo cerceamento de defesa quando o magistrado, por meio de decisão fundamentada, indefere o pedido de produção da prova pleiteada.
+A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA E REPARAÇÃO POR DANOS MATERIAIS E MORAIS JULGADA IMPROCEDENTE. EMPRÉSTIMO CONSIGNADO. IMPUGNAÇÃO DA AUTENTICIDADE DA ASSINATURA DO CONTRATO. TEMA N. 1.061 DO STJ. ÔNUS DE PROVAR DA INSTITUIÇÃO FINANCEIRA DEVIDAMENTE CUMPRIDO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SUFICIÊNCIA DAS PROVAS. PRINCÍPIO DA PERSUASÃO RACIONAL. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+ ..
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere o pedido de produção de outras provas. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias, motivadamente.
+ ..
+5. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.443.165/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/6/2024, DJe de 27/6/2024.)
+Na espécie, constata-se que o Colegiado a quo concluiu fundamentadamente pela desnecessidade da dilação probatória requerida pela recorrente, atestando a suficiência das demais provas colacionadas aos autos.
+Confira-se (e-STJ, fls. 327-328):
+ ..  não é todo indeferimento de meio de prova que redundará em cerceamento de defesa, uma vez que poderá o magistrado indeferir as que reputar inúteis ou meramente protelatórias, como expressamente o diz o texto legal.
+No caso em tela, verifica-se que o magistrado a quo, realizando uma análise sistemática de toda a prova documental e testemunhal produzida durante a instrução do processo, entendeu por bem julgar improcedente o pedido inicial, vez que não comprovados os requisitos legais para reintegração da posse do veículo objeto da contenda em favor da demandante.
+Importante observar, ainda, que o juízo singular, no curso da demanda, entendeu que a prova grafotécnica não era necessária à solução do litígio, vez que os fatos apresentados pelas partes, somado aos documentos que constavam dos autos, se mostravam suficientes para a solução da pendenga. Nesse sentido, convém citar o teor da decisão interlocutória inserta no evento nº 30, p 169, ad litteris:
+ ..
+Lado outro, mesmo diante do resultado dos aclaratórios é mister esclarecer que irrelevante se faz para o deslinde da lide a eventual análise de falsificação da assinatura no recibo apresentado pelo R., porquanto reputa-se tal providência inútil no horizonte da perlenga: a uma porque casual transação de bem móvel, como cediço, aperfeiçoa-se com a sua simples tradição; a duas, o que fato relevante, porque a própria A. informou na inicial que permitiu que seu filho entregasse o veículo ao R. acompanhado do respectivo CRLV e do DUT (evento nº 30. P 169. g.)
+Desse modo, além de a prova grafotécnica requerida pela autora ter sido expressamente refutada pelo magistrado singular ainda durante a instrução processual, é relevante observar que esta não se mostra imprescindível para a solução do litígio, especialmente porque há, nos autos, provas suficientes que permitem a apreciação e resolução da controvérsia. (grifos no original)
+Nesse sentido, a desconstituição do posicionamento adotado não prescindiria do reexame do acervo fático-probatório, o que é vedado pela Súmula 7/STJ.
+Ilustrativamente :
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO. ARBITRAMENTO JUDICIAL DO PREÇO DOS SERVIÇOS DE PRATICAGEM. CERCEAMENTO DE DEFESA RECONHECIDO PELO TRIBUNAL DE ORIGEM. PROVA PERICIAL CONTÁBIL. NECESSIDADE. MODIFICAÇÃO DE TAL ENTENDIMENTO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. TABELA DE PREÇOS APRESENTADA PELA AUTORIDADE MARÍTIMA. PROVA QUE NÃO É ABSOLUTA.
+ ..
+3. O propósito recursal é dizer acerca da ocorrência de cerceamento de defesa e da necessidade de dilação probatória na presente demanda.
+4. Sendo o juiz o destinatário final da prova, cabe a ele, em sintonia com o sistema de persuasão racional adotado pelo CPC, dirigir a instrução probatória e determinar a produção das provas que considerar necessárias à formação do seu convencimento.
+5. O exame acerca da necessidade e amplitude da instrução probatória é de competência exclusiva das instâncias ordinárias, a quem incumbe, soberanamente, a apreciação do conjunto fático-probatório da lide.
+6. Nessa linha, não cabe ao STJ exercer juízo acerca da suficiência das provas produzidas no processo ou quanto à necessidade de produção de perícia contábil, porquanto, para tanto, seria necessário se debruçar sobre o arcabouço fático-probatório do processo, o que é vedado em sede de recurso especial pela Súmula 7/STJ.
+ ..
+9. Recurso especial não conhecido.
+(REsp n. 1.643.493/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/9/2020, DJe de 14/10/2020.)
+Noutro ponto, constata-se que a Corte local entendeu que não teria sido comprovado que o ora recorrido seria um agiota e que tivesse, nessa condição, emprestado dinheiro ao filho da ora recorrente, sob a condição de que o veículo desta lhe fosse entregue como garantia da dívida.
+Veja-se (e-STJ, fls. 330-332):
+No caso em comento, ao examinar sistematicamente toda a prova documental e testemunhal produzida durante a instrução processual, e ponderar sobre os fatos narrados pelos litigantes em suas peças, tenho que agiu com acerto o magistrado a quo, ao julgar improcedente o pedido inicial da ação de reintegração de posse do veículo objeto da contenda.
+Ora, infere-se das provas que o réu/apelado é um conhecido comerciante de veículos na cidade de Palmeiras de Goiás/GO, tendo inclusive um comércio especializado na compra, venda e locação de automóveis.
+Por outro lado, com exceção dos argumentos apresentados pela autora, não há nenhum elemento probatório que demonstre com segurança e certeza que o recorrido atua como agiota e que empresta dinheiro com juros elevados, valendo-se, como garantia do mútuo da entrega de veículos automotores de propriedade de seus supostos clientes tomadores de empréstimos.
+Outrossim, observando a conversa havida entre o filho da autora e o réu/apelado, via aplicativo de mensagens WhatsApp, a qual foi registrada em Escritura Pública de Ata Notarial perante o Cartório do 2º Ofício de Notas da comarca de Palmeiras de Goiás/GO, é nítido que o filho da genitora esteve na loja do réu apresentando o veículo Tracker - objeto da contenda e que a documentação que lhe foi exigida para a conclusão do negócio de compra e venda não teria como ser regularizada naquele momento, haja vista que a sua mãe, ora autora/apelante, estava viajando.
+Observa-se do teor da conversa, também, que o filho da recorrente estava com urgência na obtenção de dinheiro motivo pelo qual pugnou por ter acesso à certa quantia antecipadamente sob a promessa de que toda a documentação do carro seria devidamente regularizada quando sua genitora retornasse da viagem.
+O teor de toda a conversa travada entre MAURO GONÇALVES VILELA e DIOGO ROGÉRIO SILVA não traz nenhum elemento, indiciário que seja, de que estes estavam na tratativa de um empréstimo mediante a entrega do veículo como garantia do mútuo (evento nº 15, p. 96/101).
+Importante observar, inclusive, que após a entrega do veículo objeto do presente litígio, DIOGO ROGÉRIO SILVA realizou outra trativa com MAURO GONÇALVES VILELA, atinente à compra e venda de um veículo Celta, conforme relatos colhidos durante a audiência de instrução e julgamento.
+Como dito, com exceção da denúncia realizada pela própria autora e posteriormente, por seu filho, não há nenhum elemento probatório nos autos que demonstre com segurança e certeza, que MAURO GONÇALVES VILELA seja um agiota e que, nessa condição, tenha emprestado alguma quantia em dinheiro para DIOGO ROGÉRIO SILVA sob a condição de que o veículo de sua genitora fosse entregue ao recorrido como garantia do recebimento da dívida.
+Outro fato relevante é que o réu/apelado, ao contestar a demanda, anexou o documento original do automóvel objeto da contenda, cuja Autorização para Transferência do Veículo (ATPV) estava devidamente assinada por VERA LÚCIA DA COSTA (evento nº 15, p 93/94).
+Conquanto a recorrente afirme que a assinatura contida no documento seja falsificada, o exame de todo o contexto fático dos autos, bem como dos outros documentos e dos depoimentos colhidos durante a instrução processual, não dão substrato de certeza e veracidade a esse argumento.
+Cabe destacar que o documento assinado pela demandante e que foi apresentado pelo réu/apelado na contestação foi emitido em 13 de dezembro de 2019 (evento nº 15, p. 93/94). enquanto que o certificado de registro do veículo em branco anexado pela autora/apelante na exordial (evento nº 01, p. 35/36), a qual afirma ser este o documento que foi entregue ao recorrido junto com o veículo, data de 14 de outubro de 2020.
+Ou seja, embora a recorrente afirme que o documento do veículo foi entregue ao recorrido em branco e sem qualquer assinatura desta, chama atenção o fato de que a documentação apresentada pela suplicante para comprovar o alegado tenha sido confeccionada em 14/10/2020, enquanto que toda a negociação questionada na demanda, segundo a própria autora tenha ocorrido em 19/02/2020 (data do suposto empréstimo), sendo que o alegado esbulho teria ocorrido em junho de 2020.
+Sendo assim repito, analisando os documentos anexados ao processo, os depoimentos e testemunhos prestados durante audiência de instrução e julgamento, bem como todo o contexto fático apresentado pelos litigantes, tenho não ser crível a narrativa da autora/apelante a qual, a meu ver, não logrou êxito em comprovar a posse injusta e o esbulho praticado pelo réu/apelado.
+Nesse contexto, não há como infirmar o entendimento estadual - acerca da ausência de demonstração dos fatos constitutivos do direito da autora - sem o prévio revolvimento de fatos e provas, procedimento obstado na seara extraordinária, em virtude do disposto na Súmula 7 desta Corte Superior.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
