@@ -1,0 +1,27 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por INDÚSTRIA E COMÉRCIO SANTA TEREZINHA LTDA., contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 23/07/2024.
+Concluso ao gabinete em: 16/09/2024.
+Ação: indenização pelos danos materiais e compensação pelos danos morais, ajuizada por SHEILA SANTOS SOARES SOUZA, em face de INDÚSTRIA E COMÉRCIO SANTA TEREZINHA LTDA.
+Sentença: julgou parcialmente procedente o pedido, para condenar a agravante a compensar a agravada na quantia de R$ 6.000,00, a título de danos morais, bem como para condená-la a pagar à agravada, "pro-rata-die", na proporção de 5/30 do salário-mínimo, indenização por período de incapacidade total temporária, tomando-se como base o salário-mínimo à época do evento danoso. Neste sentido, condenou a agravante ao pagamento das custas e dos honorários, estes fixados em 10% do valor da condenação.
+Acórdão: negou provimento à Apelação interposta pela agravante, nos termos da seguinte ementa:
+"Apelação Cível. Ação indenizatória. Colisão de ônibus em automóvel. Sentença de parcial procedência fixando os danos morais no valor de R$ 6.000,00 (seis mil reais), assim como, indenização por período de incapacidade total temporária. Apelação da ré salientando a inexistência de nexo causal. Descabimento. Provas que demonstram exaustivamente o nexo de causalidade. Quantum indenizatório fixado de acordo com os princípios da razoabilidade e da proporcionalidade. Honorários sucumbenciais corretamente fixados. Sentença mantida. Negado provimento ao recurso." (e-STJ fl. 224)
+Recurso especial: alega violação dos arts. 5º, LV, CF, 370, 371, 373, CPC, 186, 927, 944, CC, bem como dissídio jurisprudencial, sustentando que: i) a condenação ultrapassa os parâmetros da jurisprudência consolidada nesta Corte reduzindo-a drasticamente, na remota hipótese da manutenção, aos limites da razoabilidade e proporcionalidade; e, ii) a recorrida não comprovou, minimamente, o nexo de causalidade entre o dano dito suportado e a conduta do preposto da recorrente, sendo certo que não trouxe aos autos uma única testemunha sequer; e, iii) é evidente que, apesar de se encontrar estabelecido no laudo pericial o nexo de causalidade técnico-médico, ainda caberia à recorrida comprovar, de forma inquestionável, o nexo de causalidade entre o dano dito suportado e conduta direta de preposto da recorrente, o que não ocorreu.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "como se observa no laudo pericial (índice 00138), restou demonstrada a ocorrência de nexo causal com a incapacidade total temporária da agravada por 05 (cinco) dias", bem como de que "quanto ao argumento de inexistência de dano moral indenizável, não assiste melhor sorte à agravante, haja vista que a situação em comento ultrapassou o mero aborrecimento, notadamente porque a agravada sofreu lesões ficando incapacitada por 05 (cinco) dias", além de que "a importância de R$ 6.000,00 (seis mil reais), deve ser mantida, levando-se em consideração os princípios da razoabilidade e proporcionalidade", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% do valor da condenação (e-STJ fl. 230) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial não conhecido.
