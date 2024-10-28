@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. EMISSÃO DE PASSAGENS AÉREAS. CONTRATO ASSINADO POR DUAS TESTEMUNHAS. TÍTULO EXECUTIVO EXTRAJUDICIAL. PRESTAÇÃO DE SERVIÇOS. COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O contrato assinado por duas testemunhas é título executivo extrajudicial, de modo que é instrumento hábil a amparar o processo de execução.
+2. O Tribunal estadual assentou que a execução não foi amparada unicamente nas duplicatas, mas também em contrato de prestação de serviços, que, assinado por duas testemunhas, seria título executivo. Ainda, a Corte local asseverou que foi demonstrada de forma suficiente a prestação do serviço, em consonância com a previsão contratual, não tendo sido impugnada a emissão das passagens minuciosamente discriminadas, sendo a dívida líquida, certa e exigível. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória e interpretação de cláusula contratual, em afronta às Súmulas n. 5 e 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SPAL INDÚSTRIA BRASILEIRA DE BEBIDAS S.A. contra decisão de minha relatoria assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE TÍULO EXTRAJUDICIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. EMISSÃO DE PASSAGENS AÉREAS. CONTRATO ASSINADO POR DUAS TESTEMUNHAS. TÍTULO EXECUTIVO EXTRAJUDICIAL. LIQUIDEZ. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 709).
+Nas razões do presente inconformismo, defendeu que (1) sendo a demanda lastreada em contrato e em duplicata sem aceite, os pressupostos devem ser observados em relação aos dois instrumentos; (2) não foi juntada a comprovação da efetiva prestação do serviço, não estando presentes a certeza e exigibilidade; e (3) é desnecessário o reexame de fatos e provas para reconhecer que não foi comprovada a prestação do serviço (e-STJ, fls. 717-727).
+Foi apresentada contraminuta (e-STJ, fls. 731-740).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. EMISSÃO DE PASSAGENS AÉREAS. CONTRATO ASSINADO POR DUAS TESTEMUNHAS. TÍTULO EXECUTIVO EXTRAJUDICIAL. PRESTAÇÃO DE SERVIÇOS. COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O contrato assinado por duas testemunhas é título executivo extrajudicial, de modo que é instrumento hábil a amparar o processo de execução.
+2. O Tribunal estadual assentou que a execução não foi amparada unicamente nas duplicatas, mas também em contrato de prestação de serviços, que, assinado por duas testemunhas, seria título executivo. Ainda, a Corte local asseverou que foi demonstrada de forma suficiente a prestação do serviço, em consonância com a previsão contratual, não tendo sido impugnada a emissão das passagens minuciosamente discriminadas, sendo a dívida líquida, certa e exigível. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória e interpretação de cláusula contratual, em afronta às Súmulas n. 5 e 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+(1) (2) (3) Dos requisitos para propositura da execução
+A jurisprudência do STJ é firme no sentido de que o contrato assinado por duas testemunhas é um título executivo extrajudicial, de forma que pode lastrear o processo executivo.
+Nessa linha são os precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TITULO EXECUTIVO EXTRAJUDICIAL. ASSINATURA POSTERIOR DAS TESTEMUNHAS. SÚMULA N. 83/STJ. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. "O fato de as testemunhas do documento particular não estarem presentes ao ato de sua formação não retira a sua executoriedade, uma vez que as assinaturas podem ser feitas em momento posterior ao ato de criação do título executivo extrajudicial, sendo as testemunhas meramente instrumentárias" (AgInt no AREsp 1183668/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/03/2018, DJ 09/03/2018).
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso concreto, a análise das razões apresentadas pela parte recorrente, quanto à nulidade da execução, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.114.731/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. em 14/11/2022, DJe de 21/11/2022)
+Processo civil. Execução por título extrajudicial. Contrato de empréstimo. Falta de assinatura de duas testemunhas. Juntada também da nota promissória emitida à época da contratação, consignando o valor total executado. Possibilidade. Título executivo válido.
+- O contrato escrito, com assinatura de duas testemunhas, não é requisito de validade de um contrato, salvo hipóteses expressas previstas em lei. A assinatura de duas testemunhas no instrumento, por sua vez, presta-se apenas a atribuir-lhe a eficácia de título executivo, em nada modificando sua validade como ajuste de vontades.
+- Se é válida a contratação, igualmente válida é a nota promissória emitida em garantia do ajuste. A ausência de duas testemunhas no contrato, portanto, não retira da cambial sua eficácia executiva.
+Recurso especial conhecido e improvido.
+(REsp n. 999.577/MG, relatora Ministra NANCY ANDRIGHI, Terceira Turma, j. em 4/3/2010, DJe de 6/4/2010)
+No caso dos autos, o Tribunal estadual assentou que a execução não foi amparada unicamente nas duplicatas, mas também em contrato de prestação de serviços, que, assinado por duas testemunhas, seria título executivo. Ainda, a Corte local asseverou que foi demonstrada, de forma suficiente, a prestação do serviço, em consonância com a previsão contratual, não tendo sido impugnada a emissão das passagens minuciosamente discriminadas, sendo a dívida líquida, certa e exigível. Confira-se o excerto:
+Colhe-se dos autos que a contratação havida entre as partes refere-se à aquisição de passagens aéreas comercializadas pela exequente à executada entre abril e dezembro/2014, de acordo com o "Contrato Geral de Prestação de Serviços" (mov. 13.3 - execução NPU 0020917-84.2021.8.16.0001, ff. 22/30).
+De início, impõe-se observar trecho do acórdão do agravo de instrumento NPU 0052627-91.2022.8.16.0000 AI, que fora interposto pela executada/embargante:" ..  a pretensão da exequente é de dívida líquida originada de instrumento particular, relativa às passagens aéreas não pagas, de maneira que o prazo prescricional aplicável ao caso é de 05 (cinco) anos, por forçado artigo 206, §5º, I, do Código Civil.
+O fato de ter sido emitida duplicata para cobrança dos valores não altera essa conclusão.
+Isso porque, como dito, a pretensão, realmente, é de dívida líquida constante de instrumento particular. A duplicata é apenas meio eleito pela exequente para formalização do débito necessário, uma vez que o contrato de prestação de serviços, por si só, já é título executivo extrajudicial (artigo 784, III, do Código de Processo Civil).
+Logo, a despeito da emissão da duplicata, não se pode considerar, na espécie, o prazo prescricional de 03 (três) anos a ela aplicado, pois ela não representa, efetivamente, a pretensão da credora, BBTur Viagens e Turismo Ltda, de cobrança das passagens aéreas comercializadas e não pagas.
+Em outras palavras, o que prescreve é a pretensão, e não o meio pelo qual ela é representada.
+Considerar o prazo prescricional da duplicata significaria admitir a imprescritibilidade da pretensão, porquanto o título de crédito poderia ser emitido após o término do prazo para exigir a dívida originária.
+Assim, como dito, aplica-se, na hipótese, o prazo prescricional de 05(cinco) anos previsto no artigo 206, §5º, I, do Código Civil.
+Pois bem.
+As passagens foram emitidas entre abril e dezembro/2014. Em 26/08/2019,a duplicata foi protestada, de modo que houve a interrupção do prazo prescricional, consoante o artigo 202, III, do Código Civil.
+Destaque-se, nesse ponto, que a interrupção do prazo prescricional pelo protesto da duplicata é fato incontroverso, inclusive suscitado pela própria executada, ora agravante.
+Consequentemente, como a execução foi ajuizada em 2021, está prescrita a pretensão alusiva às passagens aéreas emitidas até 25/08/2019, pelo que exigível a dívida concernente às comercializadas a partir de 26/08/2019.
+Enfim, reconhecida parcialmente a prescrição da pretensão executória, relativamente às passagens aéreas emitidas até 25/08/2014, extingue-se em parte a execução de título extrajudicial NPU 0020917-84.2021.8.16.0001,a teor do artigo 924, V, do Código de Processo Civil, com a condenação da exequente/agravada ao pagamento das custas, despesas processuais e honorários advocatícios." (TJPR - 15ª Câmara Cível - 0052627-91.2022.8.16.0000 - Curitiba - Rel.: DESEMBARGADOR LUIZ CARLOSGABARDO - J. 06.02.2023).
+Como se extrai daquele julgamento, foi assentado que a execução em questão está amparada no Contrato de Prestação de Serviços, e não exclusivamente na duplicata sem aceite.
+Justamente por isso, como visto, o prazo prescricional aplicável à espécie foi o quinquenal, circunstância que conduziu à parcial extinção do feito executivo, atinente às passagens aéreas emitidas antes de 25/08/2014.
+Admitiu-se, por outro lado, o prosseguimento da execução em relação aos bilhetes emitidos após essa data. A partir dessas premissas, tem-se que as conclusões lançadas na sentença, no sentido de que a execução não atenderia aos requisitos da Lei de Duplicatas, não se sustentam.
+É que, na hipótese, os pressupostos de exequibilidade devem ser aferidos em relação ao contrato de prestação de serviço (documento particular assinado pelo devedor e por duas testemunhas), integrado pelas informações elencadas na duplicata.
+Em outras palavras, não há que se exigir a demonstração da "entrega da mercadoria", com base no art. 15, II, da Lei n.º 5.474/68, "b", pelo que dispensável a juntada das mais de quatrocentas passagens.
+Verifica-se, em verdade, que a execução está amparada em título líquido, certo e exigível, consoante preceitua o art. 783, do Código de Processo Civil.
+Veja-se, a propósito, que todas as passagens aéreas que são objeto de cobrança foram especificadas no corpo da duplicata, com indicação do nome do passageiro, companhia aérea, número do voo, data da viagem, preço e demais informações de controle (mov. 13.3 -autos NPU 0020917-84.2021.8.16.0001, ff. 07/15).
+ ..
+Ressalte-se que em nenhum momento a empresa executada negou os serviços prestados, tanto que não contestou a emissão dos bilhetes, o que poderia ter sido feito em sede de embargos, já que os dados relativos a cada uma das viagens foram pormenorizadamente indicados pela exequente.
+Inclusive, a existência de débito em aberto, após a rescisão do contrato pela apelada (mov. 13.4 - autos NPU 0020917-84.2021.8.16.0001, f. 15), foi comunicada pela apelante mediante o documento de mov. 13.4 - autos NPU 0020917-84.2021.8.16.0001, f. 16:
+ ..
+Ademais, extrai-se da cláusula 11ª, do Quinto Termo Aditivo ao Contrato celebrado entre as partes, que "A prestação dos serviços pela CONTRATADA ,prova-se por qualquer meio fazendo jus à remuneração tão logo prestado o serviço, independentemente de qualquer outro termo ou condição" (mov. 13.4 - autos NPU 0020917-84.2021.8.16.0001, f. 10).
+Nesse cenário, infere-se que os elementos constantes dos autos são suficientes a aparelhar a execução (e-STJ, fls. 527/530).
+Nesse cenário, a modificação do entendimento firmado quanto à comprovação da prestação do serviço implicaria reexame do caderno fático-probatório e a interpretação de cláusula contratual, o que é inviável em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS CUMULADA COM REVISIONAL DE CONTRATO E CONSIGNAÇÃO EM PAGAMENTO. JUROS REMUNERATÓRIOS. ABUSIVIDADE NÃO VERIFICADA. COMISSÃO DE PERMANÊNCIA. AUSÊNCIA DE CUMULAÇÃO COM OUTROS ENCARGOS. RESTITUIÇÃO EM DOBRO. IMPOSSIBILIDADE. REVISÃO DO JULGADO. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DE FATOS E PROVAS DOS AUTOS. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. COBRANÇA DA TARIFA DE REGISTRO DE CONTRATO. PROVA DE QUE O SERVIÇO FOI EFETIVAMENTE PRESTADO. MATÉRIA DECIDIDA COM BASE EM ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. TEMA 958 DO STJ. TARIFA DE CADASTRO. VALOR ABUSIVO. NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal estadual, apreciando o conjunto probatório dos autos, concluiu que a taxa de juros cobrada não é abusiva, considerando a significativa discrepância entre o índice estipulado e a taxa média de mercado, que a comissão de permanência não está prevista e a restituição do indébito não é devida. Alterar esse entendimento ensejaria reavaliação do instrumento contratual e revolvimento das provas dos autos, circunstâncias vedadas pelas Súmulas n.os 5 e 7 do STJ.
+2. O recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência do Superior Tribunal de Justiça esbarra no óbice da Súmula n.º 83 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.548.939/GO, de minha relatoria, Terceira Turma, j. em 19/8/2024, DJe de 22/8/2024)
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
