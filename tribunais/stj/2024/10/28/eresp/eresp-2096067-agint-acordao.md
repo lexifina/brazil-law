@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. VERBA DE SUCUMBÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONSÓRCIO. REDIRECIONAMENTO DA EXECUÇÃO. EMPRESA CONSORCIADA QUE NÃO INTEGROU A RELAÇÃO PROCESSUAL. IMPOSSIBILIDADE.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Não se admite, na fase de cumprimento de sentença, a constrição de bens de quem não participou do processo na fase de conhecimento.
+3. Eventual solidariedade de empresas consorciadas quanto ao objeto do contrato não implica idêntico tratamento para a condenação ao pagamento das verbas de sucumbência impostas somente a quem efetivamente integrou a relação processual.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  TORREÃO BRAZ ADVOGADOS  contra  a  decisão  que  negou provimento ao  recurso  especial.
+Naquela  oportunidade,  foram  adotados  os  seguintes  fundamentos:  a)  o  órgão  julgador  enfrentou  todas  as  questões  suscitadas  pela  parte  recorrente e b) o acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, que não admite, na fase de cumprimento de sentença, a constrição de bens de quem não participou da fase de conhecimento.
+Em  suas  alegações  (e-STJ  fls.  466-484),  o  agravante afirma que
+"(..) existem no acórdão recorrido omissões que caracterizam violação ao art. 1.022, II, do CPC (e até do art. 489, §1º, IV, mencionada na decisão agravada) e, em verdade, ele não está em consonância com a jurisprudência desse STJ nos casos em que consórcios, como o Agravado, figuram como parte, orientada no sentido diametralmente oposto daquele apontado pela decisão agravada" (e-STJ fl. 467).
+Aduz, ainda, que o dissídio interpretativo foi adequadamente demonstrado, ressaltando o fato de que o escritório de advocacia não foi o autor da demanda, e, portanto, não tinha a opção de incluir as empresas consorciadas no polo passivo.
+Ao  final,  requer  a  reconsideração  da  decisão  agravada  ou  o  processamento  do  agravo  interno  perante  o  órgão  colegiado  para  que  a  ele  seja  dado  integral  provimento,  com  o  consequente  provimento  do  recurso  especial.
+Devidamente  intimada,  a  parte  contrária  apresentou  impugnação  (e-STJ fls. 489-502).
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. VERBA DE SUCUMBÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONSÓRCIO. REDIRECIONAMENTO DA EXECUÇÃO. EMPRESA CONSORCIADA QUE NÃO INTEGROU A RELAÇÃO PROCESSUAL. IMPOSSIBILIDADE.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Não se admite, na fase de cumprimento de sentença, a constrição de bens de quem não participou do processo na fase de conhecimento.
+3. Eventual solidariedade de empresas consorciadas quanto ao objeto do contrato não implica idêntico tratamento para a condenação ao pagamento das verbas de sucumbência impostas somente a quem efetivamente integrou a relação processual.
+4. Agravo interno não provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Conforme  salientado  na  decisão  agravada, trata-se, na origem, de agravo de instrumento contra decisão que, em pedido de cumprimento de sentença, na parte relativa ao adimplemento da verba honorária fixada na fase de conhecimento, indeferiu o pedido de penhora de bens pertencentes a empresas integrantes do consórcio que, na condição de parte, foi quem efetivamente sofreu a condenação.
+Inicialmente, no que tange ao art. 1.022 do CPC, não há falar em negativa de prestação jurisdicional nos declaratórios, a qual somente se configura quando, na apreciação do recurso, o Tribunal de origem insiste em omitir pronunciamento acerca de questão que deveria ser decidida, e não foi.
+Concretamente, verifica-se que o órgão julgador enfrentou todas as questões suscitadas pela recorrente, concluindo, no entanto, que o pedido de constrição judicial não poderia atingir bens de quem não figurou como parte na relação processual durante a fase de conhecimento.
+Frisa-se que, mesmo à luz do art. 489 do Código de Processo Civil de 2015, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV), não se podendo confundir, portanto, negativa de prestação jurisdicional ou ausência de fundamentação com decisão contrária aos interesses da parte.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. VIOLAÇÃO AOS ARTS. 489, §1º, IV, E 1.022, II, DO CPC/2015. INEXISTÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. OMISSÃO. PECULIARIDADES DE CADA CASO. INVIABILIDADE. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação dos arts. 489 e 1.022 do CPC/2015, pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, apresentando todos os fundamentos jurídicos pertinentes à formação do juízo cognitivo proferido na espécie, apenas não foi ao encontro da pretensão da parte agravante.
+  (..)
+4. Agravo interno a que se nega provimento." (AgInt no AREsp 1.518.865/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/12/2020, DJe 1º/2/2021).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 489 e 1.022 DO CPC/2015. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+4. Agravo interno a que se nega provimento." (AgInt no REsp 1.659.130/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/11/2020, DJe 9/12/2020).
+Quanto ao mais, o acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, que não admite, na fase de cumprimento de sentença, a constrição de bens de quem não participou da fase de conhecimento.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO CARACTERIZAÇÃO. CUMPRIMENTO DE SENTENÇA. AGENTE MARÍTIMO QUE NÃO FOI DEMANDADO NO PROCESSO DE CONHECIMENTO E NÃO FIGURA NO TÍTULO EXECUTIVO JUDICIAL. ILEGITIMIDADE PASSIVA. ART. 568, I, DO CPC. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+2. Nos casos em que a Corte de origem assenta expressamente que uma pessoa não consta do título executivo judicial como devedor ou responsável (por não ter tomado parte no processo de conhecimento), tal sujeito de direito não pode ser submetido aos atos constritivos do cumprimento de sentença. Em tal circunstância, não há legitimidade passiva para a fase processual cujo escopo seja a prestação de tutela jurisdicional executiva, ainda que a pessoa que se pretende executar pudesse ter sido demandada no processo de conhecimento. Do contrário, se estaria a autorizar inaceitável extensão da coisa julgada em prejuízo de quem não teve a oportunidade de exercer as garantias inerentes ao devido processo legal (notadamente o contraditório e a ampla defesa) no módulo processual de conhecimento. Inteligência do art. 568, I, do CPC. Precedentes.
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 763.584/SC, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/10/2015, DJe de 12/11/2015).
+"PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. BASES FÁTICAS DISTINTAS. EXECUÇÃO VOLTADA CONTRA QUEM NÃO PARTICIPOU DA AÇÃO DE CONHECIMENTO. IMPOSSIBILIDADE. MATÉRIA COGNOSCÍVEL DE OFÍCIO E NÃO SUJEITA A PRAZO.
+1. Afasta-se a alegada violação do art. 535 do CPC quando o acórdão recorrido, integrado pelo julgado proferido nos embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+2. Aquele que não integrou a relação processual da qual decorreu o título executivo judicial não pode ser atingido pela decisão judicial e figurar como executado.
+3. O reconhecimento de inexistência de título judicial contra o executado é matéria que poderia ser conhecida por meio de simples petição, pois encerra matéria cognoscível em exceção de pré-executividade. A arguição, independente do nome que receba, não está sujeita a prazo e não é razoável considerar que a parte perdeu o direito de praticá-la.
+4. Recurso especial conhecido em parte e provido." (REsp 1.169.968/RS, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 12/11/2013, DJe de 17/3/2014).
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. EMPRESARIAL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. CONTRATO DE SERVIÇOS ADVOCATÍCIOS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO DE INSTRUMENTO. RECURSO CABÍVEL. ILEGITIMIDADE PASSIVA. GRUPO ECONÔMICO. TEORIA DA APARÊNCIA. INAPLICABILIDADE. RECURSO PROVIDO.
+1. Nos termos da jurisprudência do eg. Superior Tribunal de Justiça, o recurso cabível contra a decisão que julga a exceção de pré-executividade, sem extinguir o processo de execução, é o agravo de instrumento, e não a apelação.
+2. As sociedades empresárias, ainda que integrantes de um mesmo grupo econômico, quando não figurem como parte no título executivo extrajudicial, não estão legitimadas a integrar o polo passivo da execução.
+3. Tratando-se de sociedades distintas, com razões sociais, objetos e patrimônios próprios, o simples fato de pertencerem ao mesmo grupo de empresas não as torna solidárias nas respectivas obrigações, sendo descabida a aplicação da teoria da aparência para, com isso, ampliar-se a legitimação no polo passivo de ação executiva.
+4. Cada pessoa jurídica tem personalidade e patrimônio próprios, distintos, justamente para assegurar-se a autonomia das relações e atividades de cada sociedade empresária, ainda que integrantes de um mesmo grupo econômico. Do contrário, a legislação faria a equivalência aplicada equivocadamente no v. acórdão recorrido ou até vedaria a formação de grupos econômicos pela inutilidade da medida. Somente em casos excepcionais essas distinções podem ser superadas, motivadamente (Código Civil, art. 50).
+5. Recurso especial conhecido e provido." (REsp 1.404.366/RS, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 23/10/2014, DJe de 9/2/2015).
+Impõe-se observar, além disso, que o acórdão indicado como paradigma, além de ter sido proferido no bojo de uma ação monitória, na qual não há, propriamente, uma fase de conhecimento, senão a emissão de um título executivo judicial com base em prova escrita sem eficácia executiva, admitiu o redirecionamento da execução para as empresas consorciadas em virtude da existência de disposição contratual prevendo a responsabilidade solidária pelas obrigações contraídas.
+No entanto, eventual solidariedade das empresas consorciadas quanto ao objeto do contrato não implica idêntico tratamento para a condenação ao pagamento das verbas de sucumbência impostas somente a quem efetivamente integrou a relação processual.
+Diante desse contexto, caberá ao exequente requerer a instauração do incidente de desconsideração da personalidade jurídica, desde que presentes os requisitos legalmente exigidos.
+Ante o exposto, nego provimento ao agravo interno .
+É o voto.
