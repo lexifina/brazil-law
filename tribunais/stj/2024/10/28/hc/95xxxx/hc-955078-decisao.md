@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de EDSON SOARES DE LIMA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ (HC n. 0703412-90.2018.8.18.0000).
+Em suas razões, sustenta a defesa que "o Paciente foi preso pelo cumprimento do Mandado de Prisão Preventiva decretada em 2018 nos autos do processo n. 0002288-81.2018.8.18.0140, mas que só foi cumprido no dia 17 de outubro de 2024, o Paciente juntou aos autos o processo referente ao cumprimento do referido mandado, ou seja, Processo n. 0850320-74.2024.8.18.0140, sendo certo que a falta de atenção e cuidado do nobilíssimo Desembargador, em não realizar uma análise precisa dos autos, para verificar as provas autorizadoras da revogação da PRISÃO PREVENTIVA do Paciente, o que culminou em mais uma ilegalidade cometida em desfavor DO DIREITO DE IR E VIR do PACIENTE, que já estava em situação de constrangimento ilegal" (e-STJ fl. 5).
+Esclarece que, "de uma simples leitura da r. sentença proveniente do r. Juízo a quo (vide sentença anexada), Douto e Culto Ministro Relator, por obséquio leia com acuidade que lhe é peculiar a r. sentença que INOCENTOU E REVOGOU AS PRISÕES PREVENTIVAS dos codenunciados, NA MESMA SITUAÇÃO FÁTICO PROCESSUAL poder-se-á confirmar, repita-se, em razão da improcedência da pretensão punitiva reconhecida a INEXISTÊNCIA DOS REQUISITOS DO ART. 312, DO CPP E DE FUNDAMENTOS CONCRETOS PARA A MANUTENÇÃO DA ÚLTIMA RATIO em relação ao ora Paciente" (e-STJ fl. 10).
+Diante dessas considerações, pede seja concedida "a extensão ao paciente EDSON SOARES DE LIMA dos efeitos da sentença absolutória exarada nos autos do processo n. 0002288-81.2018.8.18.0140" (e-STJ fl. 17).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus impetrado ante decisão que indefere liminar (enunciado 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido. (AgRg no HC n. 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido. (AgRg no HC n. 345.456/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+Nos termos da orientação desta Casa, "o STJ não detém competência para analisar pedido de extensão, fundado no art. 580 do CPP, de decisão originalmente proferida por outro órgão jurisdicional, notadamente quando se trata de segunda instância, que possui ampla verificação de fatos e provas dos autos" (AgRg no AREsp n. 2.385.682/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/8/2024, DJe de 30/8/2024).
+Diante desse cenário, a questão em exame necessita de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação contida na impetração no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
