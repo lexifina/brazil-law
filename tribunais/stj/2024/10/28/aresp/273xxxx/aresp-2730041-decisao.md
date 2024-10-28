@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MALBEC DO BRASIL COMERCIAL, IMPORTADORA E EXPORTADORA LTDA. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. DECISÃO DE REJEIÇÃO DE PEDIDO DE RESPONSABILIZAÇÃO DOS SÓCIOS DA AGRAVADA-EXECUTADA, POR AUSÊNCIA DE PROVA DA INTEGRALIZAÇÃO DO CAPITAL SOCIAL, SOB FUNDAMENTO DE SER NECESSÁRIA PRÉVIA INSTAURAÇÃO DE INCIDENTE DE PERSONALIDADE JURÍDICA. INSURGÊNCIA DA EXEQUENTE. - PEDIDO DE COMPROVAÇÃO DA INTEGRALIZAÇÃO DO CAPITAL SOCIAL. ADMISSIBILIDADE. ART. 1.052 DO CÓDIGO CIVIL. DESNECESSIDADE DE INSTAURAÇÃO DE INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. RECURSO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 50 do CC e ao art. 371, I, do CPC, no que concerne ao não cabimento da obrigação de provar a integralização do capital, tendo em vista que tal fato ocorreu há mais de 20 anos e a responsabilização dos sócios só ocorre diante da desconsideração da personalidade jurídica, trazendo a seguinte argumentação:
+14. Entretanto, o acórdão ignorou que em contraminuta foi comprovado que a integralização ocorreu há mais de 20 anos, razão pela qual não há mais o dever de guarda dos documentos.
+15. Nessa situação, claramente caberia a recorrida provar as suas suposições, como prevê o art. 373, I, do Código de Processo Civil. Isso porque, se é a recorrente que pressupôs que o capital não foi integralizado, deveria provar a situação, ainda mais quando a prova é impossível pelos sócios da recorrente.
+16. Além disso, a recorrente informou que o capital foi integralizado conforme consta no seu contrato social.
+17. E se a recorrente informou que realizou a integralização (só não tem mais como provar) e a recorrida não provou o contrário, certo é que a responsabilização dos sócios somente pode ocorrer diante da desconsideração da personalidade jurídica, nos termos do art. 50 do Código Civil.
+18. Assim, os sócios que não são partes no processo, uma vez que não houve a desconsideração, não podem ser intimados para provar algo que, como mencionado, atualmente é impossível por causa da falta de responsabilidade pela guarda dos documentos por tanto tempo.
+19. Deste modo, como o acórdão não observou essas questões, negou vigência aos artigos 50 do código civil e 371, I do Código de Processo Civil (fls. 187-188).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+É que, no caso, a postulação não se funda na existência de confusão patrimonial ou em virtude de fraude ou abuso da personalidade jurídica, mas sim na falta de integralização do capital social, situação que atrai a responsabilidade solidária dos sócios pelas obrigações da sociedade, ainda que limitada ao valor do capital não integralizado. A esse respeito, dispõe o art. 1. 052 do Código Civil: "Art. 1.052. Na sociedade limitada, a responsabilidade de cada sócio é restrita ao valor de suas quotas, mas todos respondem solidariamente pela integralização do capital social" (fl. 170)
+Ainda, o acórdão integrativo afirma que:
+Constou do acórdão embargado que os sócios da ora embargante devem ser intimados para comprovar a integralização do capital social. É evidente que a prova poderá ser feita por quaisquer documentos e eventuais questões relacionadas à dificuldade de obtenção, à validade das provas ou à sua força probatória deverão ser analisadas em primeiro grau (fl. 180).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
