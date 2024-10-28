@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por Paulo Orzi Correa e outros contra decisão que não admitiu recurso especial manejado em desfavor de acórdão do Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fl. 507):
+MONITÓRIA. Embargos rejeitados e procedente o pedido monitório para constituir, de pleno direito, o título executivo judicial a favor do autor. Inconformismo dos embargantes. - Preliminar de cerceamento de defesa rejeitada. Matéria fática está satisfatoriamente elucidada pelos documentos apresentados. Prova pericial desnecessária. - Mérito. Autor apresentou "Contrato de Abertura de Crédito BB Giro Empresa Flex" e demonstrativo de conta vinculada. Contrato de trato sucessivo, com utilização de crédito rotativo em conta corrente. Documentos suficientes para confirmar o débito e a evolução da dívida, e permitir aos embargantes conhecerem os termos da avença, os encargos incidentes e os critérios adotados para a formação do valor da cobrança, de modo a possibilitar a ampla defesa. Inteligência da Súmula 247 do STJ. Alegações genéricas a respeito da ausência de utilização dos valores. Devedores não se desincumbiram do ônus de comprovar o pagamento da dívida ou de apresentar planilha de cálculo do saldo que entendem correto. Sentença mantida. - Preparo. Justiça gratuita deferida a um dos apelantes. Caráter individual e personalíssimo. Benesse que não aproveita aos demais. Determinação para os recorrentes não beneficiários da gratuidade recolherem o preparo, a ser calculado sobre o valor da condenação, no prazo de cinco dias a contar do retorno dos autos à vara de origem, pena de inscrição na dívida do Estado, o que deve ser verificado pelo juízo "a quo". RECURSO DESPROVIDO, COM DETERMINAÇÃO.
+Nas razões do recurso especial (e-STJ, fls. 514-533), fundamentado no art. 105, III, a e c, da Constituição Federal, os recorrentes apontam divergência jurisprudencial e ofensa aos arts. 25, §1º, 47 e 51, I do Código de Defesa do Consumidor.
+Aduziram que "não havia o que confessar como devido e daí o argumento que os documentos apresentados não fazem prova de dívida alguma, mas só de contratação do contrato em questão, e não de sua utilização. Os recorrentes não reconhecem os valores lançados no feito pelo Banco Recorrido" (e-STJ, fl. 521).
+Contrarrazões apresentadas às fls. 544-554 (e-STJ).
+O processamento do recurso especial foi inadmitido pela Corte de origem, o que ensejou a interposição do presente agravo (e-STJ, fls. 567-587), por meio do qual a insurgente contesta os fundamentos da decisão de inadmissibilidade.
+Contraminuta às fls. 590-602 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que os arts. 25, §1º, 47 e 51, I do Código de Defesa do Consumidor, apontados como violados no recurso especial, não foram objeto de debate pelo aresto recorrido, tampouco opostos embargos de declaração a fim de suscitar tal discussão na origem.
+Desse modo, é inviável a apreciação da matéria ante a falta do indispensável prequestionamento, incidindo as Súmulas 282 e 356 do Supremo Tribunal Federal no ponto.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DE DECISÃO. AFASTAMENTO DA SÚMULA N. 182 DO STJ. NOVA ANÁLISE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 DO STF E 211 DO STJ. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. RETENÇÃO DO IMPOSTO DE RENDA. ART. 46 DA LEI N. 8.541/1992. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de enfrentamento pelo tribunal de origem da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmulas n. 282 do STF e 211 do STJ.
+2. É devida a retenção do imposto de renda sobre honorários advocatícios oriundos de decisão judicial.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.567.512/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/10/2024, DJe de 16/10/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários recursais em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. ALEGAÇÃO DE OFENSA AOS ARTS. 25, 47 E 51 DO CÓDIGO DE DEFESA DO CONSUMIDOR. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
