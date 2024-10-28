@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por LUIZ MORAIS DE SANTANA, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA nos autos da ação declaratória de nulidade de cláusula contratual cumulada com repetição de indébito que moveu contra a parte recorrida.
+O julgado negou provimento à apelação interposta pela parte recorrente, mantendo a sentença que julgou extinto o processo, sem resolução do mérito, com fundamento no art. 485, V, do Código de Processo Civil (CPC), em razão do reconhecimento da ocorrência de coisa julgada.
+Em suas razões recursais, a parte recorrente alega violação d os arts. 502 do CPC e 92, 184 e 884 do Código Civil, além de divergência jurisprudencial, aduzindo, em síntese, que a sentença anterior, proferida por Juizado Especial, não abordou a incidência de juros remuneratórios sobre as tarifas declaradas nulas, razão pela qual não poderia ser reconhecida a coisa julgada quanto ao pedido de repetição desses valores.
+Suscita divergência jurisprudencial, defendendo a legalidade da restituição dos juros remuneratórios que incidiram sobre as cobranças nulas.
+Postula o provimento.
+Apresentadas as contrarrazões, sobreveio o juízo de admissibilidade positivo da instância de origem.
+É, no essencial, o relatório.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Cuida-se, na origem, de ação em que se pleiteia a restituição de juros remuneratórios que incidiram sobre as tarifas consideradas ilegais em ação anterior, processada e julgada no Juizado Especial.
+As instâncias ordinárias reconheceram a ocorrência de coisa julgada, pois o pedido referente aos juros remuneratórios foi formulado na ação antecedente.
+A parte recorrente, por sua vez, não apontou, objetivamente, em suas razões recusais, a forma pela qual os dispositivos de lei indicados como violados refutariam a conclusão acerca da coisa julgada, o que atrai a incidência da Súmula n. 284/STF.
+Observa-se, ainda, que as matérias de que tratam os arts. 502 do CPC e 92, 184 e 884 do Código Civil não foram objeto de apreciação no acórdão recorrido, estando ausente o requisito do prequestionamento, a atrair a incidência do óbice da Súmula n. 282/STF.
+O prequestionamento, ressalto, apenas se configura quando o tema objeto do recurso especial é efetivamente debatido no acórdão recorrido. Cumpria, assim, à parte recorrente, opor embargos de declaração contra o acórdão recorrido, a fim de provocar o debate da Corte de origem e, uma vez persistindo a omissão, alegar violação do art. 1.022 do CPC nas suas razões de recurso especial, a fim de possibilitar a admissão do prequestionamento ficto (art. 1.025 do CPC), o que não ocorreu na espécie.
+Ademais, a Corte local, à luz das provas dos autos, reconheceu a identidade entre o pedido e a causa de pedir das duas demandas, nos seguintes termos:
+In casu, o promovente pleiteou, na peça exordial, a declaração de nulidade dos juros remuneratórios aplicados sobre as tarifas consideradas ilegais e reconhecidas no Juizado Especial.
+Afirma que na ação que tramitou perante o 3º Juizado Especial Cível da Comarca da Capital, ação nº 3021500-45.2010.815.2001, não foram discutidos os juros contratuais que incidiram sobre as tarifas, ou encargos cobrados sobre elas.
+Contudo, de uma análise acurada da peça pórtica da referida demanda (evento nº 18231362), constato que, de fato, o promovente requereu, além da devolução do valor cobrado a título de tarifas indevidas, também a quantia paga pelos " ..  bem como acréscimos referentes a mesma, sendo corrigidos pelos mesmos índices aplicados pela instituição ré, devendo recair sobre o quantum fixado juros moratórios e correção monetária a partir da data do efetivo prejuízo (junho de 2006), conforme as Súmulas 43 e 54 do STJ".
+Destarte, embora o pleito tenha sido acolhido pelo juiz - haja vista ter determinado a devolução das tarifas questionadas, com acréscimo de correção monetária e juros de mora, sem especificar os mesmos encargos contratuais - o autor não se insurgiu em face da sentença, de modo que a decisão transitou em julgado.
+Tal fato, contudo, não afasta a configuração da coisa julgada, haja vista que esta ocorre quando há identidade de partes, causa de pedir e pedido, o que ocorreu na hipótese em análise.
+Tem-se, portanto, que a controvérsia a ser dirimida nesta oportunidade se nº 3021500-45.2010.815.2001 confunde com aquela já discutida pelas partes no processo, que tramitou perante o Juizado Especial Cível, o que denota a reprodução de causa idêntica.
+Assim, entendo que o juízo a quo andou bem ao concluir pela ocorrência de coisa julgada, uma vez que, através de uma leitura detida dos documentos carreados aos autos, emerge irreversível a evidência de que, na presente ação, houve renovação de pedidos já requeridos em demanda diversa.
+Nesse contexto, afastar essa conclusão do Tribunal de origem de que os juros remuneratórios estariam acobertados pela coisa julgada demandaria o revolvimento do contexto fático-probatório dos autos, o que é vedado a esta Corte Superior em razão do óbice da Súmula n. 7/STJ.
+Finalmente, o dissídio jurisprudencial não foi comprovado conforme as exigências dispostas nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, uma vez que a parte recorrente tão somente transcreve ementas de julgados, sem realizar o devido cotejo analítico, de forma a evidenciar que para situações fáticas análogas foram aplicados entendimentos jurídicos conflitantes.
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20%.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO. JUROS REMUNERATÓRIOS INCIDENTES SOBRE TARIFAS BANCÁRIAS CONSIDERADAS ILEGAIS EM AÇÃO ANTERIOR. AFRONTA À COISA JULGADA. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO ANALITICAMENTE. RECURSO ESPECIAL NÃO CONHECIDO.
