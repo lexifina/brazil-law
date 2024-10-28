@@ -1,0 +1,104 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado no julgado embargado.
+2. Embargos de declaração rejeitados, com aplicação de multa.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examinam-se embargos de declaração no agravo interno no agravo em recurso especial, opostos por CYRA FARIAS DE ANDRADE NEVES, contra acórdão que negou provimento ao agravo interno que interpusera, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE ESCRITURA PÚBLICA C/C REINTEGRAÇÃO DE POSSE E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de anulação de escritura pública c/c reintegração de posse e indenização por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A jurisprudência do STJ é no sentido de que, sendo o juiz o destinatário da prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo julgamento antecipado da lide não acarreta cerceamento de defesa.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Agravo interno no agravo em recurso especial não provido. (e-STJ Fl. 1.569)
+No presente recurso, aponta a embargante possível equívoco do aresto embargado, reiterando os fundamentos expostos no agravo interno, bem como insurgindo-se contra a incidência de óbices sumulares. Por fim, assevera a nulidade do acórdão embargado, sob o fundamento de que "o parágrafo acrescentado ao final do voto condutor do acórdão, não altera a certeza de que houve de reprodução literal dos fundamentos da decisão agravada, porquanto, além oferecer um conteúdo nitidamente genérico e de não enfrentar qualquer dos argumentos articulados no agravo interno, contém afirmativa que não condiz com a verdade das razões recursais, segundo a qual "o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada". (e-STJ Fl. 1.588)
+É o breve relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado no julgado embargado.
+2. Embargos de declaração rejeitados, com aplicação de multa.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+É notória a busca de efeitos infringenciais, não havendo a alegada omissão, porquanto a decisão embargada trata expressamente da matéria novamente vertida nestes embargos de declaração.
+No ponto em que questionado pela parte embargante, consta expressamente do acórdão embargado que:
+(..)
+"1. Da violação do art. 1.022 do CPC
+Consoante consignado na decisão impugnada, é firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da nulidade do julgamento da apelação, da rejeição do pedido de anulação de escritura pública e reintegração de posse, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento. Confira-se:
+(..)
+"Conforme destacado, e bem, pela magistrada singular, haviam diversos outros meios para que a autora comprovasse que os valores depositados em sua conta referiam-se ao pagamento de arrendamento da área de sua propriedade, contratado com as demandadas.
+Em primeiro lugar, poderia a autora ter trazido aos autos a sua própria declaração do imposto de renda, a fim de demonstrar que o recebimento das quantias dizia, efetivamente, com o recebimento de valores relativos ao arrendamento de suas áreas. Mas não é só.
+Conforme destacado pela sentença, poderia e deveria, a autora, ter se esforçado para a comprovação em questão, postulando a oitiva dos lindeiros ou de trabalhadores do local que tivessem conhecimento da negociação em questão.
+Além disto, não é crível que, numa relação que, segundo a autora teria durado quase10 (dez) anos, não dispusesse de qualquer outro meio de prova para comprovar a negociação alegada, não sendo crível que a relação entre as partes se resumisse ao depósito mensal de valores na conta da autora.
+Ainda, a título de exemplo, a fim de ilidir o argumento de que os valores depositado sem sua conta foram realizados a mando de Manuel para o adimplemento de dívida deste, poderia, a autora, ter requerido a juntada aos autos dos respectivos contratos firmados entre os demandados, relativos as 9 (nove) negociações impugnadas, donde se extrairia os valores envolvidos, as parcelas ajustadas, bem como, o valor de cada uma das negociações.
+Não o fez, contentando-se com a prova constante dos autos e insistindo na quebra do sigilo fiscal das demandas. Diante disto, não há como acolher a preliminar. Atinente ao mérito, melhor sorte não socorre a autora.
+(..)
+De se ponderar que a simulação exige o consenso entre os praticantes do negócio e, na hipótese, os apelados negaram ter havido acordo de simulação entre as partes. Pelo que se observada prova trazida aos autos, contrariamente ao sustentado pela autora, não se denota a ocorrência de acerto de vontades para simular o negócio.
+As 9 (nove) compra e venda realizadas entre as partes, conforme a prova dos autos, observaram os preceitos legais exigidos, tendo, na sua forma e, na conjugação de vontades, se mostrado regulares, considerando, ainda, as diversas negociações anteriores realizadas entre as partes.
+Efetivamente, as negociações em questão só se perfectibilizaram pela desídia da autora que, detentora de formal de partilha que lhe concedeu a propriedade dos 174,24ha, nenhum registro na matrícula do imóvel providenciou com a finalidade de resguardar o seu direito, sujeitando-se ao ocorrido.
+De consignar que o fato de a autora não ter sido realizado o registro do formal de partilha, não tendo sido, assim, dado conhecimento a terceiros acerca da transferência de propriedade relativa a área em questão, inviabiliza que se reconheça a má-fé das demandadas Luciana e Viviane nas aquisições em questão, merecendo destaque que, em princípio, a boa-fé é presumida.
+Com efeito, para o acolhimento do pleito da autora, de nulidade das 9(nove) escrituras públicas de compra e venda em questão, indispensável que restasse demonstrado, estreme de dúvidas, a má-fé das adquirentes, o que, da análise da prova trazida aos autos, não ocorreu.
+No ponto, a autora limitou-se a sustentar que os demandados eram próximos, tendo Manuel e Viviane mantido relacionamento conjugal, e que isto, por si só, evidenciaria o conluio.
+Contudo, ausentes provas outras a confortar o argumento do ajuste de vontades entre as partes para lesar a autora, o que evidenciaria a má-fé, não há como acolher a postulação, uma vez que a proximidade entre os demandados não evidencia a ocorrência de conluio.
+Além disto, o argumento da ocorrência de pagamentos, pelas demandadas Viviane e Luciana, atinente a contrato de arrendamento firmado entre as partes relativo a área de propriedade da autora, igualmente, não restou cabalmente comprovado, mostrando-se frágil a prova neste sentido, o que, da mesma forma, inviabiliza o acolhimento da postulação.
+Assim, pelo que se depreende da prova documental e oral não há elementos de prova suficientes para respaldar a tese da autora, que se limitou a argumentação, sem a produção, eficaz, de provas a confortar o seu direito.
+Impositivo, assim, o reconhecimento da higidez das negociações contestadas, considerando, sobremodo, a ausência de comprovação da má-fé das adquirentes Luciana e Viviane.
+(..)
+Improcedente o pedido anulatório, com reconhecimento da higidez das contratações, vai rejeitado, igualmente, o pedido de reintegração de posse. Atinente ao pedido de indenização por danos morais, este vai rejeitado em razão da completa ausência de provas acerca da sua ocorrência.
+Restará, pois, a autora, buscar ressarcimento por perdas e danos contra a pessoa de Manuel, cuja má-fé nas negociações em questão encontra-se ínsita ao seu agir, em que pese argumente ter sido induzido em erro pela ausência de registro do formal de partilha pela autora, tal argumento não prospera, uma vez que conhecedor da propriedade desta sobre 174,24ha, exigindo-se, no mínimo que observasse o resguardo de tal área na matrícula em questão.
+Ainda, mesmo que se admitisse que Manuel tivesse "se atrapalhado" em razão da falta de cuidado da autora em providenciar o registro do formal de partilha, tal argumento não teria o condão de isentá-lo de responsabilidade de indenizar a autora, uma vez que vendeu imóvel que não era seu, auferindo os ganhos respectivos, sem qualquer repasse a autora.
+Contudo, infelizmente a autora não formalizou, nesta demanda, qualquer pedido de indenização por perdas e danos, o que inviabiliza a condenação de Manuel ao pagamento da indenização devida, o que, por evidente, deverá ser objeto de demanda própria." (e-STJ Fls. 1.141/1.144)
+(..)
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC.
+De rigor, portanto, a incidência da Súmula 568/STJ quanto ao ponto.
+2. Da violação do art. 489 do CPC
+De outra parte, conforme consignado na decisão agravada, não há que se falar em ofensa ao art. 489 do CPC. Com efeito, as questões da nulidade do julgamento da apelação, da rejeição do pedido de anulação de escritura pública e reintegração de posse foram devidamente fundamentadas, de sorte que restaram afastados os argumentos expostos pela parte agravante mediante a análise das circunstâncias delineadas nos autos.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte.
+Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, Quarta Turma, DJe 19/12/2019.
+Ademais, saliente-se que o exame da suposta violação de tal dispositivo foi realizado de forma conjunta com a incidência do óbice da Súmula 7/STJ, razão pela qual a decisão agravada não merece reforma.
+3. Da fundamentação deficiente
+No que tange à fundamentação deficiente, o agravante não indicou, de forma clara, precisa e consistente, em que consistiu a pretensa ofensa aos arts. 270, 272, 278 e 281 do CPC.
+Consigne-se, ainda, que as razões do agravante, em seu recurso especial, encontram-se dissociadas da decisão prolatada pelo Tribunal de origem, o que torna deficiente a fundamentação recursal e impede a abertura da via especial. Inafastável, pois, a incidência da Súmula 284/STF.
+4. Do reexame de fatos e provas
+No mais, acerca da inaplicabilidade da Súmula 7/STJ, no que se refere à rejeição do pedido de anulação de escritura pública e reintegração de posse, tem-se que o Tribunal de origem ao manifestar-se acerca da matéria entendeu que:
+(..)
+"Conforme destacado, e bem, pela magistrada singular, haviam diversos outros meios para que a autora comprovasse que os valores depositados em sua conta referiam-se ao pagamento de arrendamento da área de sua propriedade, contratado com as demandadas.
+Em primeiro lugar, poderia a autora ter trazido aos autos a sua própria declaração do imposto de renda, a fim de demonstrar que o recebimento das quantias dizia, efetivamente, com o recebimento de valores relativos ao arrendamento de suas áreas.
+Mas não é só. Conforme destacado pela sentença, poderia e deveria, a autora, ter se esforçado para a comprovação em questão, postulando a oitiva dos lindeiros ou de trabalhadores do local que tivessem conhecimento da negociação em questão.
+Além disto, não é crível que, numa relação que, segundo a autora teria durado quase 10 (dez) anos, não dispusesse de qualquer outro meio de prova para comprovar a negociação alegada, não sendo crível que a relação entre as partes se resumisse ao depósito mensal de valores na conta da autora.
+Ainda, a título de exemplo, a fim de ilidir o argumento de que os valores depositados em sua conta foram realizados a mando de Manuel para o adimplemento de dívida deste, poderia, a autora, ter requerido a juntada aos autos dos respectivos contratos firmados entre os demandados, relativos as 9 (nove) negociações impugnadas, donde se extrairia os valores envolvidos, as parcelas ajustadas, bem como, o valor de cada uma das negociações.
+Não o fez, contentando-se com a prova constante dos autos e insistindo na quebra do sigilo fiscal das demandas. Diante disto, não há como acolher a preliminar.
+ ..
+De se ponderar que a simulação exige o consenso entre os praticantes do negócio e, na hipótese, os apelados negaram ter havido acordo de simulação entre as partes. Pelo que se observa da prova trazida aos autos, contrariamente ao sustentado pela autora, não se denota a ocorrência de acerto de vontades para simular o negócio.
+As 9 (nove) compra e venda realizadas entre as partes, conforme a prova dos autos, observaram os preceitos legais exigidos, tendo, na sua forma e, na conjugação de vontades, se mostrado regulares, considerando, ainda, as diversas negociações anteriores realizadas entre as partes.
+Efetivamente, as negociações em questão só se perfectibilizaram pela desídia da autora que, detentora de formal de partilha que lhe concedeu a propriedade dos 174,24 ha, nenhum registro na matrícula do imóvel providenciou com a finalidade de resguardar o seu direito, sujeitando-se ao ocorrido.
+De consignar que o fato de a autora não ter sido realizado o registro do formal de partilha, não tendo sido, assim, dado conhecimento a terceiros acerca da transferência de propriedade relativa a área em questão, inviabiliza que se reconheça a má-fé das demandadas Luciana e Viviane nas aquisições em questão, merecendo destaque que, em princípio, a boa-fé é presumida.
+Com efeito, para o acolhimento do pleito da autora, de nulidade das 9 (nove) escrituras públicas de compra e venda em questão, indispensável que restasse demonstrado, estreme de dúvidas, a má-fé das adquirentes, o que, da análise da prova trazida aos autos, não ocorreu.
+No ponto, a autora limitou-se a sustentar que os demandados eram próximos, tendo Manuel e Viviane mantido relacionamento conjugal, e que isto, por si só, evidenciaria o conluio. Contudo, ausentes provas outras a confortar o argumento do ajuste de vontades entre as partes para lesar a autora, o que evidenciaria a má-fé, não há como acolher a postulação, uma vez que a proximidade entre os demandados não evidencia a ocorrência de conluio.
+Além disto, o argumento da ocorrência de pagamentos, pelas demandadas Viviane e Luciana, atinente a contrato de arrendamento firmado entre as partes relativo a área de propriedade da autora, igualmente, não restou cabalmente comprovado, mostrando-se frágil a prova neste sentido, o que, da mesma forma, inviabiliza o acolhimento da postulação.
+Assim, pelo que se depreende da prova documental e oral não há elementos de prova suficientes para respaldar a tese da autora, que se limitou a argumentação, sem a produção, eficaz, de provas a confortar o seu direito. Impositivo, assim, o reconhecimento da higidez das negociações contestadas, considerando, sobremodo, a ausência de comprovação da má-fé das adquirentes Luciana e Viviane.
+Improcedente o pedido anulatório, com reconhecimento da higidez das contratações, vai rejeitado, igualmente, o pedido de reintegração de posse." (e-STJ Fls. 1.140/1.144)
+(..)
+E, conforme consignado na decisão agravada, observa-se que o Tribunal a quo ao apreciar a questão, baseou-se no conjunto fático-probatório dos autos, pelo que rever aquele entendimento é obstado devido à aplicação da Súmula 7 desta Corte.
+Cumpre ainda ressaltar que a jurisprudência desta Corte admite que se promova a requalificação jurídica dos fatos ou a revaloração da prova. Trata-se, pois, de expediente diverso do reexame vedado pela Súmula 7/STJ, pois consiste "em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias" (AgInt no REsp 1.494.266/RO, 3ª Turma, D Je 30/08/2017).
+Frise-se, por oportuno, que, na hipótese em tela, não se cuida de valoração de prova, o que é viável no âmbito do recurso especial, mas de reapreciação da prova buscando sufragar reforma na convicção do julgador sobre o fato, para, in casu, se ter como não provado o que a Corte de origem afirmou estar.
+5. Do cerceamento de defesa
+De acordo com a jurisprudência do STJ, o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova pericial sem que isso configure cerceamento de defesa. Nesse sentido: AgInt no REsp 1.429.272/MA, 4ª Turma, DJe de 20/8/2018; e AgInt no AREsp 1.015.060/RS, 3ª Turma, DJe de 12/5/2017.
+Ademais, alterar o decidido no acórdão recorrido, acerca da ausência de cerceamento de defesa, por ter sido indeferida a realização de prova, demandaria o reexame de fatos e provas, o que não é permitido ante o óbice da Súmula 7 desta Corte. Na mesma linha: AgInt no AREsp 1634989/PR, 3ª Turma, DJe 28/05/2020; AgInt no AREsp 1632773/SP, 4ª Turma, DJe 05/06/2020. (e-STJ Fls. 1.574/1.579)
+(..)
+Desse modo, importa salientar que os embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, erro material, contradição ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador, não se prestando à simples reexame da causa, nem a modificar o entendimento do órgão julgador.
+Verifica-se que a embargante pretende, à toda evidência, valer-se dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema. Os fundamentos de seus aclaratórios revelam tal inconformidade e o claro desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza desse recurso.
+Outrossim, não prospera a alegação de nulidade do acórdão embargado por suposta afronta ao art. 1.021, § 3º, do CPC.
+Isso porque a orientação desta Corte é no sentido de que: "O art. 1.021, § 3º, do NCPC não interdita a reiteração dos fundamentos da decisão monocrática, quando o agravo interno manejado não traz nenhum argumento novo" (AgInt nos EDcl no REsp n. 1.934.385/SP, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+Ademais, nos termos da jurisprudência desta Corte Superior, havendo o devido enfrentamento da matéria, como no presente caso, admite-se a utilização da técnica da fundamentação per relationem, não havendo que se falar em ofensa ao art. 1.021, § 3º, do CPC. Nesse sentido: AgInt no REsp n. 2.050.357/MA, Terceira Turma, julgado em 26/8/2024, DJe de 28/8/2024.
+Dissociado o pleito, portanto, de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a rejeição dos embargos de declaração.
+DISPOSITIVO
+Forte em tais razões, REJEITO os embargos de declaração e, tendo em vista o seu manifesto caráter protelatório, condeno a embargante ao pagamento de multa em favor da parte embargada, no montante correspondente a 0,5% do valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC/2015, sem prejuízo da elevação da penalidade na hipótese de reiteração.
