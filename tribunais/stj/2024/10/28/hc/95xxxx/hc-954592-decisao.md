@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CARLOS EDUARDO CREMONEZ em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento dos Embargos de declaração na Apelação Criminal n. 1500293-46.2020.8.26.0081.
+Consta dos autos que o paciente foi condenado às penas de 1 ano e 1 mês de detenção e pagamento de 21 dias-multa, como incurso nas sanções do art. 4º da Lei n. 1.521/1951 (duas vezes), nos termos do art. 69 do Código Penal; e às penas de 7 anos, 3 meses e 3 dias de reclusão no regime semiaberto e pagamento de 28 dias-multa, como incurso nas sanções do art. 158, § 1º (duas vezes), nos termos do art. 71, todos do Código Penal.
+A apelação criminal interposta pela defesa teve o provimento negado pelo Tribunal estadual nos termos da seguinte ementa (e-STJ fl. 56):
+CRIME CONTRA A ECONOMIA POPULAR E EXTORSÃO MAJORADA. Recurso defensivo.
+PRELIMINARES. Recurso em liberdade. Apelante que respondeu solto e assim foi autorizado a permanecer. Prescrição. Inocorrência. Rejeição. Suposta nulidade da sentença, por falta ou inidoneidade de fundamentação, que se confunde com o debate geral.
+MÉRITO. Absolvição geral. Impossibilidade. Autoria e materialidade bem delineadas, rechaçando-se os pleitos desclassificatórios.
+DOSIMETRIA. Sanções e regime preservados.
+DESPROVIMENTO.
+Os embargos de declaração opostos na sequência foram rejeitados (e-STJ fls. 23/25).
+No presente writ, o impetrante sustenta que, a partir da entrada em vigor, em 28/8/2024, do art. 3º, II, da Lei n. 14.905/2024, ficou afastada a limitação da taxa de juros em 12% nas obrigações representadas por títulos de créditos - como cheques, notas promissórias e escritura pública de confissão de dívida - resultando na "abolição do crime de usura que o paciente encontra-se indevidamente/injustamente condenado" pois "a vantagem econômica consistente na suposta cobrança de juros acima do permissivo legal através de títulos de créditos, passou a ser considerada devida, ou seja, lícita" (e-STJ fl. 21).
+Requer, liminarmente, a suspensão da ação penal originária até o julgamento final do presente writ. No mérito, pugna pela concessão da ordem para " determinar a extinção da ação penal nos termos dos artigos 386, inciso III, 395, incisos II e III, 397, incisos III e IV do Código de Processo Penal Brasileiro e artigo 2º do Código Penal Brasileiro e artigo 5º inciso XL da Constituição Federal" (e-STJ fl. 22).
+É o relatório. Decido.
+De plano, verifico que foi impetrado anteriormente perante esta Corte Superior o HC n. 952.823/SP, também em benefício do ora paciente, o qual apontava como ato coator o mesmo acórdão ora impugnado, formulando-se o mesmo pedido, com fundamento na mesma causa de pedir, revelando-se, portanto, o presente mandamus mera reiteração.
+Nesse aspecto, "A jurisprudência desta Corte Superior é firme no sentido de não possibilitar a rediscussão da matéria, via habeas corpus, quando já formulados e analisados pedidos idênticos, acerca dos mesmos fundamentos, de matéria já analisada neste Tribunal Superior, por se tratar de reiteração de pedido" (AgRg no HC n. 839.421/MS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+No mesmo sentido:
+AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERIU LIMINARMENTE O WRIT. REITERAÇÃO DE PEDIDO DE RECONHECIMENTO DE COMPETÊNCIA DA JUSTIÇA CASTRENSE. COMPETÊNCIA DA JUSTIÇA COMUM RECONHECIDA POR ESTE COLEGIADO. IMPOSSIBILIDADE DE CONCESSÃO DE ORDEM DE HABEAS CORPUS CONTRA ATO PRÓPRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "É de se considerar que é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 796.091/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/6/2023).
+2. Além de o HC n 765363/SP reiterar pedido já analisado pela Quinta Turma do Superior Tribunal de Justiça no julgamento do HC n. 764.059/SP, frise-se que este Colegiado se pronunciou pela competência da Justiça Comum quanto aos fatos delituosos apurados na Ação Penal 0010201-20.2016.8.26.0510 que tramitou perante a Segunda Vara Criminal da Comarca de Rio Claro/SP.
+Diante disso, é defeso a esta Corte Superior de Justiça julgar habeas corpus contra ato próprio, porquanto, à luz do art. 650, § 1º, do Código de Processo Penal - CPP, a competência para conhecer originalmente do pedido de habeas corpus cessará sempre que a violência ou coação provier de autoridade judiciária de igual ou superior jurisdição. Nesse sentido: AgRg no HC n. 272.077/PE, de minha relatoria, Quinta Turma, DJe de 19/10/2018 e RHC n. 39.858/TO, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 4/11/2014.
+3. Agravo regimental ao qual se nega provimento.
+(AgRg no HC n. 765.363/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Pelo exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
