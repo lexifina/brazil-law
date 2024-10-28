@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MATIAS PEREIRA DE CASTRO e OUTROS contra acórdão de minha relatoria que negou provimento ao respectivo agravo interno, nos termos da seguinte ementa (fl. 1027):
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PEDIDO DE JUSTIÇA GRATUITA APÓS A INTERPOSIÇÃO DO RECURSO INTERNO. RECOLHIMENTO DO PREPARO RECURSAL. AUSÊNCIA DE PROVEITO PARA A PARTE. CONCESSÃO SEM EFEITOS RETROATIVOS. AGRAVO INTERNO DESPROVIDO.
+1. "O pedido de gratuidade da justiça formulado nesta fase recursal não tem proveito para a parte, tendo em vista que o recurso de agravo interno não necessita de recolhimento de custas. Ademais, a concessão do benefício somente produzirá efeitos quanto aos atos processuais relacionados ao momento do pedido, ou posteriores a ele, não sendo admitida, portanto, sua retroatividade." (EDcl no AgInt no AREsp n. 1.866.082/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/5/2022, D Je de 19/5/2022.)
+2. "O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça." (AgInt no AREsp 1.563.316/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, D Je de 19/2/2020.)
+3. Agravo interno desprovido.
+Sustenta a parte Embargante vícios no julgado, sob os seguintes argumentos (fls. 1052-1053; grifos diversos):
+Ocorre, contudo, que a decisão se omite à disposição legal de que a gratuidade de justiça, como mencionado na legislação, é um benefício que pode ser deferido a qualquer momento e que depende exclusivamente de critérios baseados em renda.
+Relembre-se que:
+1. Os exequentes correspondem aos auxiliares de limpeza, porteiros, "tias da merenda", por exemplo, que compõem o quadro dos servidores da carreira dos auxiliares da educação.
+2. A condenação sucumbencial, repita-se, que argui por argumentar, comprometeria a subsistência dos exequentes e de suas famílias, critério da legislação supramencionada.
+ ..
+Independente do momento processual, a incontestável que a legislação admite o pedido em qualquer tempo e, portanto, uma vez demonstrado o cumprimento objetivo dos requisitos, in casu, o enquadramento da renda nos critérios legais, o direito à gratuidade deve ser avaliado, independente das circunstâncias dos efeitos, de modo que omissa a decisão em relação aos dispositivos legais e aos documentos anexados às fls. 905 que demonstram a situação de hipossuficiência dos Embargantes e, repita-se, o direito ao benefício de forma OBJETIVA.
+Ainda, a decisão omite-se ao cenário realístico de que o atual contexto econômico inflacionário do país com projeção de alta atual e nos próximos anos impacta na vida de todos os trabalhadores, em especial aqueles que se enquadram na renda dos Embargantes, em sua maioria, arrimos de família e, inclusive, que o contexto de recolhimento das custas há 2 (dois) era completamente diferente do atual não apenas pelo direito material da ação como também pela condição financeira geral e individual que se destaca.
+Como seria possível admitir no campo da razoabilidade e proporcionalidade, princípios direcionadores do direito, o indeferimento da gratuidade sobrepondo um aspecto formal  recolhimento de custas inexpressivas há dois anos  à realidade de um salário baixo e uma condenação alta
+Além disso, o critério para o deferimento de gratuidade de justiça não se baseia no valor da condenação, sendo que seja ela de R$ 1.000,00 ou R$ 1.000.000,00, a base para o deferimento é a capacidade econômica que se demonstrou dentro dos critérios legais de hipossuficiência.
+Sendo assim, estando os Embargante amparados pela legislação supracitada, anexados os documentos comprobatórios complementares e a declarada/ hipossuficiência de recurso, evidencia-se a necessidade do deferimento da justiça gratuita a partir do saneamento da omissão, uma vez que os critérios objetivos foram atendidos.
+Foi apresentada resposta ao recurso integrativo (fls. 1071-1074).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não devem ser acolhidos .
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, bem como em harmonia conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+No acórdão embargado, foi explicado que, "embora a parte possa fazer o pedido a qualquer tempo, tendo como justificativa sua condição econômico-financeira, segundo o entendimento jurisprudencial desta Corte Superior, a concessão do benefício somente produzirá efeitos quanto aos atos processuais relacionados ao momento do pedido, ou posteriores a ele, não sendo admitida, portanto, sua retroatividade, como pretende a agravante" (fl. 1034).
+Portanto, o decisum impugnado não possui os vícios suscitados pela parte embargante, pois apresentou, com clareza e coerência, os fundamentos que justificaram a sua conclusão, no sentido de que, "nesta fase recursal, em nada aproveitaria à parte tal concessão, tendo em vista que o agravo interno não necessita de recolhimento de custas" (fl. 1034).
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Verifica-se o intuito claramente protelatório da parte e o inequívoco abuso do direito de recorrer, ao manejar diversas petições manifestamente improcedentes para impedir o trânsito em julgado da decisão colegiada.
+Com efeito, a jurisprudência desta Casa tem entendido que, "a se reiterar a interposição/oposição de recursos e de petições, como no presente caso, estes serão considerados protelatórios, com a determinação de baixa dos autos, independentemente de publicação do acórdão, e com a respectiva certificação de trânsito em julgado" (EDcl no AgRg nos EAREsp n. 2.361.087/SC, relator Ministro Herman Benjamin, Corte Especial, julgado em 21/8/2024, DJe de 23/8/2024).
+No mesmo sentido:
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE VÍCIOS NO JULGADO EMBARGADO. NÃO CONHECIDOS. DETERMINAÇÃO. BAIXA DOS AUTOS À ORIGEM.
+1. São cabíveis embargos de declaração quando houver na decisão embargada contradição, omissão ou obscuridade a ser sanada. São admissíveis também para a correção de eventual erro material, podendo haver, excepcionalmente, a alteração ou modificação da decisão embargada.
+2. Não está presente nenhum dos vícios que autoriza, de forma excepcional, o acolhimento dos embargos de declaração.
+3. A insistência do embargante por meio de sucessivas oposições de embargos de declaração revela não só o exagerado inconformismo, bem como o seu nítido caráter protelatório, constituindo abuso de direito.
+4. Diante da oposição reiterada e infundada de embargos de declaração meramente protelatórios pela parte, impõe-se a baixa dos autos à origem, independentemente da publicação do acórdão recorrido e da certificação do trânsito em julgado. Precedentes.
+5. Embargos de declaração não conhecidos, com determinação de baixa dos autos à origem, independentemente da publicação deste acórdão e da eventual interposição de outro recurso, certificando-se o trânsito em julgado. (EDcl nos EDcl no AgRg na Pet n. 15.610/DF, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 22/8/2023, DJe de 28/8/2023.)
+Assim, não há mais o que se decidir nesta instância recursal, uma vez esgotada a jurisdição especial. As demais questões acidentais devem ser tratadas em eventual fase de cumprimento de sentença.
+Advirta-se a parte embargante, por derradeiro, que eventual interposição de recurso ou petição manifestamente inadmissível ou de caráter protelatório poderá ensejar, conforme o caso, a aplicação de multa.
+Ante o exposto, REJEITO os embargos de declaraçã o.
+É como vot o.
