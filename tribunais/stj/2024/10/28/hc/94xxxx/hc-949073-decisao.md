@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus preventivo com pedido liminar impetrado em favor de RENATO RESENDE DE MORAIS no qual se aponta como autoridade coatora o Tribunal Regional Federal da 3ª Região (Remessa Necessária Criminal n. 5000622-28.2022.4.03.6135).
+Depreende-se dos autos que o Juízo de primeiro grau concedeu habeas corpus preventivo no qual pleiteava a defesa o salvo-conduto para plantio de Cannabis sativa de modo a permitir a extração do óleo canabidiol para fins de tratamento de saúde.
+Em reexame necessário, o Tribunal de origem deu provimento ao recurso para denegar o habeas corpus em acórdão assim ementado (e-STJ fls. 66/67):
+PENAL. PROCESSUAL PENAL. REMESSA NECESSÁRIA. CONCESSÃO DE SALVO-CONDUTO. IMPORTAÇÃO DAS SEMENTES E CULTIVO DA PLANTA CANNABIS SATIVA PARA FINS DE PRODUÇÃO DE REMÉDIO FITOTERÁPICO. SENTENÇA REFORMADA. REMESSA NECESSÁRIA PROVIDA. DENEGADA A ORDEM DE "HABEAS CORPUS".
+1. "Habeas Corpus", objetivando a concessão de salvo- conduto para que se possa cultivar Cannabis com fins medicinais, tendo em vista que o paciente sofre de várias patologias que vinham sendo tratadas com medicamentos alopatas, sem nenhum resultado positivo.
+2. Orientação revista, na esteira de julgamentos da Quinta Turma deste Tribunal Regional Federal, no sentido de ser admissível a possibilidade de pessoa portadora de enfermidade, caso não obtido sucesso no tratamento com medicamentos tradicionais, obter o salvo-conduto na hipótese de importação e cultivo de sementes da planta Cannabis com vistas à extração do óleo para fins terapêuticos, por entender que não se trata de matéria afeta à competência da Justiça Federal.
+3. Não vislumbrada a existência de ameaça atual à liberdade de locomoção do paciente na hipótese da prática de conduta de importação de sementes de Cannabis Sativa.
+4. A importação de pequena quantidade de sementes de Cannabis sativa é fato atípico, de modo que não há nenhum risco de persecução penal por tráfico internacional de drogas que justifique a pretensão do recorrente perante a Justiça Federal
+5. O pedido principal da impetração é a autorização para o plantio, manipulação e uso da Cannabis sativa.
+6. A competência para julgar pedido de salvo-conduto em favor de quem planta, transporta ou usa a Cannabis Sativa para fins terapêuticos é da Justiça Estadual. Precedentes da terceira seção do STJ.
+7. A Resolução da Diretoria Colegiada da Agência Nacional de Vigilância Sanitária- ANVISA RDC nº 327 de 09 de dezembro de 2019, que regulamentou a autorização sanitária para fabricação e importação de produtos de Cannabis, dispõe no seu artigo 4º que a substância conhecida como tetrahidrocanabinol - THC não pode ser superior ao teor de 0,2%.
+8. Não há comprovação de que é possível numa simples produção caseira promover a correta separação entre a substância conhecida como CBD do THC no percentual exigido (0,2%), o que poderia acarretar graves consequências para a saúde de determinados usuários ao ingerirem o extrato de CBD com THC.
+9. Admitida a existência dos efeitos benéficos do canabidiol (CBD) para o tratamento de diversas doenças, todavia, tal remédio como qualquer outro deve ser prescrito por profissional habilitado, bem como o produto ser fabricado por profissional qualificado e dentro de um padrão de qualidade com prévia autorização e fiscalização do órgão da vigilância sanitária.
+10. Direito do paciente ao fornecimento do medicamento com canabidiol por planos de saúde ou pelo Sistema Único de Saúde - SUS, caso o enfermo não possua plano de saúde e não tenha condições financeiras de custear o medicamento. Precedentes do STJ.
+11. O "writ" originário não está suficientemente instruído, porquanto o paciente não demonstrou capacidade técnica nem habilitação para o cultivo e manejo do medicamento com canabidiol. Ademais, inexiste receituário médico específico quanto a prescrição de medicamento de extrato caseiro, não restando demonstrado que a Cannabis medicinal é a única e última alternativa de tratamento de saúde indicado para o paciente.
+12. Sentença reformada. Remessa necessária provida. Ordem de "habeas corpus denegada".
+Neste writ, a defesa defende a necessidade de expedição de salvo-conduto para o plantio de Cannabis sativa para fins medicinais, diante da atipicidade da conduta, uma vez que praticada sob excludente de ilicitude (estado de necessidade) e excludente de culpabilidade (inexigibilidade de conduta diversa), em face da vasta documentação médica apresentada, atestando ser portador de TDAH e TOC.
+Aduz, ainda, que o paciente possui prescrição para a importação de óleo de Cannabis e que obteve autorização da ANVISA. E, em razão dos altos custos do medicamento, resolveu plantar e extrair a Cannabis medicinal, bem como realizou curso e aprendeu o necessário para iniciar produção.
+Requer liminarmente a expedição de salvo-conduto, para que os agentes policiais se abstenham de atentar contra a liberdade de locomoção do paciente e que fiquem impedidos de apreender as plantas utilizadas para o tratamento medicinal, garantindo o exercício regular do direito à saúde, ante a prescrição e laudo médico para utilizar os princípios ativos existentes no extrato de Cannabis sativa (THC e CBD).
+No mérito, pugna como pedido principal pela concessão definitiva do salvo-conduto, com validade atrelada à prescrição médica atualizada.
+O pedido liminar foi indeferido.
+Ouvido, o Ministério Público Federal manifestou-se pelo não conhecimento do presente remédio constitucional.
+É o relatório.
+Decido.
+Consoante assinalou o Parquet Federal, em seu parecer, "ao prestar informações nestes autos, o Tribunal Regional Federal esclareceu que a parte impetrante opôs embargos de declaração contra o acórdão que deu provimento ao recurso, os quais ainda estão pendentes de julgamento, evidenciando, assim, que ainda não houve o esgotamento da instância ordinária. Logo, eventual pronunciamento da Corte Superior poderia caracterizar indevida supressão de instância" (e-STJ fl. 115).
+No mesmo caminhar:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. CRIME DE ROUBO. PENDÊNCIA DE JULGAMENTO DE EMBARGOS DE DECLARAÇÃO QUANDO IMPETRADO O WRIT. JULGAMENTO NÃO DEFINITIVO. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. WRIT NÃO CONHECIDO. AGRAVO DESPROVIDO.
+1. Há óbice processual à análise do habeas corpus quando impetrado na pendência de análise de embargos de declaração pelo Tribunal de origem, dada a ausência de esgotamento da instância ordinária.
+2. A possibilidade de concessão de habeas corpus, de ofício, não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 774.400/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024, grifei.)
+Ainda que assim não fosse, o impetrante não instruiu os autos com os documentos necessários à análise da controvérsia, pois o laudo de autorização para importação de produto derivado de Cannabis, acostado ao processo, era válido até 14/6/2024, não tendo a defesa apresentado documento atualizado. Do mesmo modo, os laudos médicos juntados ao presente habeas corpus datam de 2021 e 2022, ou seja, não guardam contemporaneidade com o pedido ora formulado.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto à parte interessada.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC n. 48.939/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 23/4/2015.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC n. 54.626/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/3/2015.)
+Dessa forma, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
