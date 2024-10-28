@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por JOAO PAULO BRZEZINSKI DA CUNHA, JOÃO PAULO BRZEZINSK à decisão de fls. 435/436, que não conheceu do recurso.
+Sustenta a parte embargante:
+Vê-se Excelência que as circunstâncias supramencionadas, referem-se sobre a inadmissibilidade do recurso especial interposto pela parte, necessitando-se assim, que a mesma seja sanada a obscuridade por este douto Ministro, referente a omissão sobre os de honorários advocatícios, sendo assim o homenageie o princípio da devida tutela jurisdicional, bem como ao do contraditório e da ampla defesa;
+ ..
+Isso significa que se estabeleceu, consequentemente, um direito ao advogado de receber honorários de forma objetiva em decorrência da interposição de recursos. Em outras palavras, quando um recurso é interposto contra uma decisão, deve-se arbitrar honorários advocatícios, sendo obrigatória a fixação de uma nova e distinta verba honorária. Tal fixação ocorrerá a cada recurso interposto, e não apenas no caso do recurso de apelação;
+Destaca-se que o arbitramento e percepção de honorários sucumbenciais recursais dá-se pela mera existência de atuação em grau superior de jurisdição. É fato objetivo de que, caso o advogado da parte vencedora tenha atuado em grau recursal, será merecedor da verba sucumbencial destinada aos honorários;
+Salienta-se, no agravo de instrumento interposto pelo Agravado não houve arbitramento de honorários advocatícios, uma vez que a questão discutida tratou exclusivamente de uma matéria incidental relativa à penhora, a qual pertence a um processo distinto. Desta forma, considerando que a decisão proferida no agravo não incluiu a fixação de honorários, requer-se a Vossa Excelência que seja o arbitrado os honorários advocatícios correspondentes, com base na atividade exercida pelo advogado neste incidente específico, conforme preconizado pelo artigo 85, §8º, do Código de Processo Civil (fls. 440/441).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Saliente-se, inicialmente, que, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Ademais, o Código de Processo Civil vigente, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Observe-se que não há omissão, porquanto o dispositivo da decisão embargada é claro no sentido de que somente serão majorados se houver "prévia fixação de honorários de advogado pelas instâncias de origem". Assim, a contrario sensu, como não houve prévia fixação, não haverá, também, majoração.
+Outrossim, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser incabível a condenação ao pagamento de honorários advocatícios em sede de agravo de instrumento, objeto do Recurso Especial (AgInt no REsp 1850535/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 24.4.2020; AgInt no AREsp 1505380/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5.11.2019.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
