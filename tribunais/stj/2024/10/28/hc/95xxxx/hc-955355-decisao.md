@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PAULO RICARDO DE JESUS contra acórdão assim ementado:
+EMENTA - APELAÇÃO CRIMINAL. TRÁFICO DROGAS. CONDENAÇÃO. MANUTENÇÃO. 1º APELANTE. PRIVILÉGIO. APLICAÇÃO. POSSIBILIDADE. PENAS. REDUÇÃO. SUBSTITUIÇÃO RESTRITIVAS. IMPOSSIBILIDADE.
+1 - Resultando das provas dos autos a certeza da conduta ilícita, concernente à prática do tráfico ilícito de drogas, não sobra espaço para absolvição ou desclassificação.
+2 - A existência de outro registro pela mesma conduta, sem condenação transitada em julgado, é insuficiente para obstar a concessão do benefício previsto no art. 33, § 4º, da Lei de Drogas, quanto ao primeiro apelante.
+3 - Havendo equívoco na fixação das penas, necessária a correção.
+4 - Não atendidos os pressupostos do artigo 44 do Código Penal, inviável a substituição por restritivas de direitos.
+Recursos conhecidos e parcialmente providos.
+Imputa-se ao paciente a prática do crime de tráfico de drogas, previsto no art. 33, § 4º, da Lei 11.343/2006, tendo sido condenado à pena de 4 anos e 7 meses de reclusão, em regime inicial semiaberto.
+A defesa alega, em síntese, que o Tribunal de origem, ao reconhecer a causa de diminuição de pena do tráfico privilegiado, aplicou a fração mínima de 1/6 sem apresentar fundamentação idônea para justificar a não aplicação da fração máxima de 2/3. Argumenta que o paciente preenche todos os requisitos previstos no § 4º do art. 33 da Lei 11.343/2006, tais como a primariedade, a ausência de circunstâncias judiciais desfavoráveis e a inexistência de provas de envolvimento com organização criminosa ou atividades ilícitas.
+Ao final, requer a concessão da ordem para aplicar a causa de diminuição de pena no patamar máximo de 2/3.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Isso porque, da leitura do acórdão impugnado (e-STJ fls. 83/90), observa-se que o Tribunal de origem reconheceu a aplicação da causa de diminuição de pena do tráfico privilegiado prevista no art. 33, §4º, da Lei 11.343/2006, fixando a redução na fração mínima de 1/6, com base na quantidade de droga apreendida  643,505g de maconha e 4,115g de cocaína. Ademais, considerou que, embora o paciente preencha os requisitos para a aplicação do benefício, a quantidade de droga justificava a redução em menor grau. Não há, portanto, falar em ausência de fundamentação adequada na escolha do percentual aplicado.
+Nesse sentido, desta Corte Superior, mutatis mutandis:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI N. 11.343/2006. REDUTORA APLICADA NA FRAÇÃO MÍNIMA DE 1/6. TRANSPORTE DE DROGAS. MULA. QUANTIDADE DE DROGAS. MODUS OPERANDI. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados pela lei, sendo permitido ao julgador, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+2. A jurisprudência desta Corte, acompanhando o atual posicionamento do STF, entende que a simples atuação do agente como "mula", por si só, não induz que integre organização criminosa, sendo imprescindível, para tanto, prova inequívoca do seu envolvimento, estável e permanente, com o grupo criminoso, a autorizar a redução da pena em sua totalidade.
+3. Embora o desempenho dessa função não seja suficiente para denotar que o agente faça parte de organização criminosa, tal fato constitui circunstância concreta para ser valorada na definição do índice de redução pelo tráfico privilegiado, uma vez que se reveste de maior gravidade.
+4. No caso, não se observa a apontada ofensa ao art. 33, § 4º, da Lei n. 11.343/2006, porquanto a Corte Regional decidiu a controvérsia de acordo com o entendimento deste Superior Tribunal de Justiça, aplicando o referido redutor em 1/6, tendo destacado as circunstâncias do caso concreto, notadamente a elevada quantidade de entorpecente (9 kg e 212 gramas de cocaína) e o modus operandi empregado, indicativos de que a ré tinha conhecimento de estar a serviço de organização criminosa voltada ao tráfico de entorpecentes.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.093.067/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022.)
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
