@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por THIAGO ALVES DE LIMA MELO contra decisão que inadmitiu o recurso especial manejado pelo ora agravante ante o não cabimento do recurso especial para a análise de dispositivos constitucionais e pela incidência da Súmulas 7/STJ.
+O agravante reitera as razões do especial.
+Contraminuta apresentada (e-STJ fls. 1246-1254).
+Parecer do Ministério Público Federal pelo não conhecimento do agravo, ante a incidência da Súmula 182/STJ (e-STJ fls. 1287-1289).
+É o relatório.
+Decido.
+O Tribunal de origem inadmitiu o recurso especial interposto pela parte agravante com amparo nos seguintes fundamentos (e-STJ fls. 1261-):
+Cumpre registrar, inicialmente, que o recurso especial não é sede própria para apreciação de eventual ofensa a preceito constitucional, por se tratar de matéria da competência do Supremo Tribunal Federal, em recurso extraordinário, ao teor do art.
+102, III, "a", da Constituição Federal (cf. STJ, 6ª T., EDcl no AgRg no AREsp 1828904 / PR 1 , Rel. Min. Antônio Saldanha Palheiro, DJe de 28/04/2023).
+Por outro lado, a análise de eventual ofensa aos dispositivos legais apontados, esbarra no óbice da Súmula n. 7 do Superior Tribunal de Justiça, uma vez que a conclusão sobre o acerto ou desacerto do acórdão vergastado demandaria sensível incursão no acervo fático-probatório dos autos, no que pertine à alegada ausência de elementos probatórios a embasar a condenação do recorrente, bem como quanto a dosimetria da pena, regime inicial de cumprimento da pena e devolução dos bens apreendidos. E isso, de forma hialina, impede o trânsito do recurso especial. (cf. STJ, 5ª T., AgRg nos EDcl no AgRg no AREsp 2377479/SC 2 , Rel. Min. Reynaldo Soares da Fonseca, DJe de 26/09/2023).
+A Corte Especial do Superior Tribunal de Justiça firmou entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. (..) A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, redator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018).
+Esse posicionamento vem guiando a jurisprudência das Turmas Criminais desta Corte, como se nota a partir dos acórdãos que consignam que "a falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia" (AgRg no AREsp 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no AREsp 1.871.630/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023).
+Postas essas premissas, verifica-se que o recurso especial foi inadmitido com base no não cabimento do recurso para a análise de dispositivos constitucionais e no óbice da Súmula 7/STJ.
+Nas razões do agravo em recurso especial, todavia, a parte limitou-se a reiterar as razões do especial.
+Como visto, nas razões de agravo, não houve impugnação específica aos fundamentos da decisão recorrida, o que impede o conhecimento do agravo.
+Ante o exposto, na forma do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
