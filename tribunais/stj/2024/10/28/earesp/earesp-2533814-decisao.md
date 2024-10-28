@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de embargos de divergência opostos pela UNIÃO contra acórdão proferido pela Primeira Turma deste Superior Tribunal de Justiça, assim resumido (fl. 576):
+DIREITO DA SAÚDE. SUS. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno nas quais não impugnados especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, todos do Código de Processo Civil de 2015.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero não conhecimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno não conhecido.
+Os embargos de declaração foram rejeitados (fl. 611):
+DIREITO DA SAÚDE. SUS. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSÃO. AUSÊNCIA DE VÍCIOS.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+III - Embargos de declaração rejeitados.
+A embargante sustenta que o julgado "diverge frontalmente de precedente firmado pela 2ª Turma do Superior Tribunal de Justiça, em que o Colegiado entendeu pela possibilidade de superação do óbice da Súmula 182/STJ como forma de manter a jurisprudência consolidada nesta Corte em relação à matéria tratada nos presentes autos, atinente à nulidade na tramitação do feito em razão da ausência de integração de litisconsorte passivo necessário à demanda". Aponta como paradigma o acórdão dos EDcl no AgInt no AREsp n. 2.499.632/DF.
+Acentua que "no caso em análise o que está em discussão é a interpretação de norma processual realizada pelo próprio Tribunal Superior, na forma autorizada pelo art. 1.043, § 2º, do CPC, de modo que plenamente cabível o presente recurso". Entende que não se aplica a Súmula 315/STJ, pois "a matéria processual interna ao Tribunal exige uniformização".
+Arremata que "a questão controvertida ora em análise diz respeito justamente à possibilidade ou não de se superar obstáculo processual, que impediu a admissibilidade e o conhecimento de recurso especial".
+Pugna pelo conhecimento e provimento dos embargos de divergência.
+É o relatório.
+Decido.
+O recurso não merece conhecimento.
+Com efeito, o cabimento dos embargos de divergência pressupõe o enfrentamento da questão jurídica, seja de direito material ou processual, tanto no acórdão embargado quanto no aresto paradigma.
+In casu, a apontada controvérsia diz com a possibilidade ou não de se superar obstáculo processual, vale dizer, a aplicação da Súmula 182/STJ, nas hipóteses dos autos, em que se discute a existência de litisconsórcio passivo necessário.
+Contudo, tal questão não foi examinada no acórdão embargado, o que afasta a similitude fática exigida para o conhecimento do recurso.
+Nota-se que, tanto nas razões do agravo interno quanto nas dos embargos de declaração, a tese da ora embargante foi a de que infirmou todos os fundamentos e que, portanto, não seria o caso de incidência da Súmula 182/STJ. Não foi sequer ventilado que, mesmo na hipótese de Súmula n. 182/STJ, seria possível superar tal obstáculo diante das peculiaridades do tema. Exatamente por isso, o acórdão embargado não tratou da questão.
+Dessarte, a matéria de fundo dos presentes embargos de divergência - possibilidade ou não de superação da Súmula 182/STJ - não foi apreciada no acórdão aqui embargado. E, a despeito de ter sido decidida no acórdão apontado como paradigma, fica evidente a ausência de similitude fática.
+Acerca do tema, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. CARACTERIZAÇÃO DE DISSENSO. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. RECURSO NÃO CONHECIDO.
+1. Segundo orientação jurisprudencial firmada pela Corte Especial do Superior Tribunal de Justiça (STJ), "os embargos de divergência são cabíveis para impugnar os acórdãos prolatados pelos órgãos fracionários em sede de recurso especial, não sendo possível sua oposição em face de julgados proferidos em outras classes processuais" (AgInt na Pet 14.755/SP, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 10/10/2023, DJe de 17/10/2023).
+2. Em relação aos julgados paradigmas da Primeira Turma do STJ, não cabe a interposição de embargos de divergência, porquanto a matéria não foi apreciada no acórdão embargado, circunstância essa que afasta a suposta divergência jurisprudencial por ausência de prequestionamento e, consequentemente, de similitude fática.
+3. Embargos de divergência não conhecidos.
+(EREsp n. 1.652.295/MG, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 25/9/2024, DJe de 1/10/2024.)
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. ACÓRDÃO EMBARGADO QUE NÃO EXAMINOU O DISPOSITIVO LEGAL IMPUGNADO NO RECURSO. AGRAVO INTERNO IMPROVIDO.
+1. O cabimento dos embargos de divergência está atrelado à demonstração de que os acórdãos trazidos a confronto pela parte recorrente partiram de similar contexto fático para atribuir conclusões jurídicas dissonantes a respeito da legislação federal impugnada no recurso.
+2. No caso, o acórdão embargado não enfrentou a questão jurídica trazida nos embargos de divergência, relativa à aplicabilidade do art. 10 da CPC e do princípio da vedação à decisão surpresa, o que impossibilita o conhecimento do recurso.
+3. O julgado objeto do recurso uniformizador, na realidade, limitou-se a afastar a existência de ofensa ao art. 1.022, II, do CPC, não se conhecendo do recurso quanto aos demais pontos devido à ausência de prequestionamento e à impossibilidade de se promover inovação recursal na seara extraordinária.
+4. Não é possível conhecer dos embargos de divergência quando o acórdão embargado não enfrentou o mérito da questão trazida no recurso uniformizador. Da mesma forma, não cabe nos embargos de divergência revisitar a regra técnica de admissibilidade do recurso especial. Incidência da Súmula n. 315 do STJ.
+5. De acordo com a jurisprudência do STJ, é inviável o manejo de embargos de divergência para discutir o acerto ou o desacerto da aplicação do art. 1.022 do CPC ao caso concreto, pois se trata de análise que está estritamente vinculada às circunstâncias processuais específicas dos autos, não sendo possível daí extrair-se, em regra, a contraposição de teses jurídicas abstratas.
+6. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp n. 2.245.133/PR, relator Ministro Og Fernandes, Corte Especial, julgado em 13/8/2024, DJe de 15/8/2024.)
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURS O ESPECIAL. MATÉRIA DE FUNDO NÃO ENFRENTADA NO ACÓRDÃO EMBARGADO. AUSÊNCIA DE SIMILITUDE FÁTICA COM O ARESTO PARADIGMA . RECURSO INDEFERIDO LIMINARMENTE.
