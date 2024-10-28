@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANOS MORAIS. SÚMULA N. 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. O recurso especial interposto foi inadmitido com fundamento na incidência das Súmulas n. 5, 7 e 83/STJ.
+2. Incide o óbice da Súmula n. 182/STJ quando a decisão recorrida aplica o entendimento da Súmula n. 83/STJ ao caso concreto e a parte recorrente deixa de comprovar que o precedente nela indicado não se aplica à espécie e não traz julgados contemporâneos ou supervenientes aos referidos na decisão, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior ou que a divergência é atual (AgInt no REsp n. 1.881.480/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022).
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por NOTRE DAME INTERMEDICA SAUDE S.A. contra decisão monocrática proferida pela Ministra Maria Thereza de Assis Moura, por meio da qual aplicou a Súmula n. 182 do STJ (fls. 404-405).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fls. 274-275):
+APELAÇÃO CÍVEL. DIREITO CIVIL. RELAÇÃO DE CONSUMO. OBRIGAÇÃO DE FAZER C/C PEDIDO DE TUTELA ANTECIPADA. PLANO DE SAÚDE. NEGATIVA DE AUTORIZAÇÃO PARA INTERNAÇÃO E AVALIAÇÃO CARDIOLÓGICA, EM CARÁTER DE URGÊNCIA. RESPONSABILIDADE OBJETIVA. (ART. 14, DO CDC). PROCEDÊNCIA DO PEDIDO. INDENIZAÇÃO FIXADA EM R$10.000,00 (CINCO MIL REAIS). IRRESIGNAÇÃO DA RE. INCIDÊNCIA DOS VERBETES SUMULARES Nº 211, Nº 338, Nº340 e Nº 469 DO TJRJ. MANUTENÇÃO DA SENTENÇA.
+- Ação de obrigação de fazer com pedido de indenização por danos morais. Negativa de autorização para internação e avaliação cardiológica, necessária à manutenção da saúde do autor, cardiopata.
+- Relação de natureza consumerista, a teor do disposto no verbete sumular nº 469, do TJRJ: "Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde".
+- Alegação de que o tratamento não estaria coberto por estar o autor cumprindo prazo de carência, que, entretanto, não retira a plausibilidade do direito por ele invocado por ele.
+- Demonstração inequívoca da necessidade de internação, em caráter de urgência, haja vista o quadro clínico que apresentava o autor, inclusive com risco de morte.
+- Lei nº 9.656/98, em seu art. 35-C, com a redação dada pela Lei nº 11.935/2009, que estabelece ser obrigatória a cobertura do atendimento em casos de emergência, como tal os que implicarem risco de vida ou de lesões irreparáveis para o paciente.
+- "A cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência é considerada abusiva se ultrapassado o prazo máximo de 24 horas contado da data da contratação". Súmula nº 597 do STJ.
+- Cláusulas contratuais que limitam as obrigações da operadora do plano de saúde que devem ser apreciadas sob a luz da boa-fé e da equidade. Art. 51, do CDC.
+- Direito à saúde e à dignidade da pessoa humana que deve prevalecer.
+- Obrigação da operadora do plano de saúde em relação à autorização e custeio da internação do postulante corretamente reconhecida no julgado.
+- Conduta ilícita que restou evidenciada nos autos, com a negativa ao pedido de internação hospitalar em caráter emergencial. Internação que somente ocorreu por intermédio do comando judicial, com o deferimento da tutela de urgência.
+- Falha na prestação do serviço configurada.
+- Dano moral in re ipsa. Quantum fixado em R$10.000,00 (dez mil reais), que obedece aos princípios da proporcionalidade e da razoabilidade, e sopesa, ainda, a capacidade econômica das partes, a natureza e a extensão da lesão sofrida, sem violar o princípio da vedação ao enriquecimento sem causa. Manutenção que se impõe.
+- Pagará a apelante os honorários recursais, na forma do §11 do artigo 85 do CPC.
+DESPROVIMENTO DO RECURSO.
+Sem embargos de declaração.
+Alega a parte agravante que a fundamentação do agravo em recurso especial é completa e foi apresentada conforme exigido pela lei. Aduz que o agravo apresentado é claro e objetivo, não sendo o caso de aplicação da Súmula n. 182 do STJ.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada, instada a manifestar-se, apresentou contrarrazões (fls. 427-441).
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANOS MORAIS. SÚMULA N. 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. O recurso especial interposto foi inadmitido com fundamento na incidência das Súmulas n. 5, 7 e 83/STJ.
+2. Incide o óbice da Súmula n. 182/STJ quando a decisão recorrida aplica o entendimento da Súmula n. 83/STJ ao caso concreto e a parte recorrente deixa de comprovar que o precedente nela indicado não se aplica à espécie e não traz julgados contemporâneos ou supervenientes aos referidos na decisão, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior ou que a divergência é atual (AgInt no REsp n. 1.881.480/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022).
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de ação de obrigação de fazer cumulada com indenização por danos morais interposta por JOAO PAULO ANDRADE DE SIMAS e ALAN MONTEIRO DE SIMAS contra NOTRE DAME INTERMEDICA SA UDE S.A. em decorrência de negativa de cobertura a procedimento médico.
+O Juízo de primeiro grau julgou procedentes os pedidos autorais, para declarar a nulidade de cláusula contratual e condenar a parte requerida ao pagamento de indenização no valor de R$ 10.000,00 a título de danos morais (fls. 224-228).
+Quando da apreciação da apelação, a Corte a quo negou-lhe provimento (fls. 274-286), ensejando a apresentação de recurso especial.
+O Tribunal de origem inadmitiu o recurso especial interposto por NOTRE DAME INTERMEDICA SAUDE S.A., por entender que as razões recursais têm óbice nas Súmulas n. 5 e 7/STJ e que o acórdão impugnado está em consonância com a jurisprudência do STJ, nos termos da Súmula n. 83/ STJ.
+No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial. Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante não rebateu a incidência da Súmula n. 83/STJ.
+Percebe-se que a parte recorrente não impugnou a incidência da Súmula n. 83/STJ, pois apresentou precedente de 2009 e que não se amolda ao caso dos autos, resultando em inobservância dos requisitos de especificidade e de contemporaneidade ou superveniência em relação ao precedente apresentado na decisão de inadmissibilidade.
+A ausência de impugnação efetiva à Súmula n. 83/STJ impede o conhecimento do recurso. Nesse sentido, cito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O julgamento monocrático do agravo em recurso especial, com esteio em óbices processuais e na jurisprudência dominante desta Corte, tem respaldo nas disposições do CPC e do RISTJ.
+2. Não havendo impugnação específica de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+3. Inadmitido o apelo extremo com base no verbete sumular n. 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não ocorreu na espécie.
+4. O entendimento desta Corte Superior é o de que "a incidência da Súmula n. 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a citada súmula, relaciona-se com a interpretação de norma infraconstitucional" (AgRg no AREsp n. 679.421/RJ, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/3/2016, DJe 31/3/2016).
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.021.996/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2022, DJe de 15/12/2022, grifo meu.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. SÚMULA 83/STJ. ALEGAÇÃO DE ENTENDIMENTO NÃO CONSOLIDADO. PRECEDENTES CONTEMPORÂNEOS. NÃO APRESENTADOS. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem, notadamente quanto à consonância do acórdão recorrido com jurisprudência do STJ. Por conta disso, consignou-se a incidência da Súmula 182 do STJ.
+ ..
+5. Inadmitido o recurso especial em razão da divergência da pretensão com jurisprudência desta Corte Superior, incumbe à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles.
+6. Ainda que a pretensão seja comprovar que não há jurisprudência consolidada acerca do tema, é necessário que tal divergência seja demonstrada por julgados contemporâneos ou, no mínimo, datados de período análogo ao precedente colacionado na decisão de admissibilidade que pretende impugnar.
+7. Um precedente apresentado com o lapso temporal negativo de 4 (quatro) anos impede que se reconheça a alegada divergência de entendimento. Tal lapso, demonstra muito mais que o referido entendimento se encontra ultrapassado, do que a existência de divergência contemporânea acerca do tema.
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.143.818/AP, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 24/10/2022, DJe de 28/10/2022, grifo meu.)
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito, confira-se precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+No mesmo sentido, cito : AgInt no AREsp n. 2.022.410/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2022; AgInt no AgInt no AREsp n. 2.063.004/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/9/2022; AgInt no AREsp n. 1.998.052/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/5/2022; AgInt no AREsp n. 2.042.472/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.
+Portanto, é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
