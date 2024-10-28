@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Ronaldo Alves da Silva, apontando-se como autoridade coatora o Tribunal de Justiça do Rio de Janeiro nos autos da Apelação Criminal n. 0000149-69.2020.8.19.0008.
+Consta do processo que o paciente foi condenado, em primeiro grau de jurisdição, à pena privativa de liberdade de 9 anos e 26 dias de reclusão, em regime inicial fechado, e ao pagamento de 21 dias-multa, pela prática do delito previsto no art. 157, § 2º, II, e § 2º-A, I, por duas vezes, n/f do art. 70, ambos do Código Penal (fls. 102/113).
+A acusação e a defesa interpuseram recursos de apelação, tendo o Tribunal de origem negado provimento ao apelo ministerial e dado parcial provimento ao apelo defensivo, tão somente para excluir a condenação ao pagamento de verba indenizatória (fls. 126/142).
+Neste writ, aponta a defesa, em síntese, a existência de nulidade decorrente de ofensa ao disposto no art. 226 do Código de Processo Penal, bem como a ausência de provas suficientes para a comprovação da autoria delitiva. Alega, também, que o regime inicial fechado foi fixado apenas com base na gravidade abstrata do delito e elementos inerentes ao tipo penal, já valorados nas etapas dosimétricas.
+Requer a absolvição do paciente por ausência de provas válidas e suficientes para a condenação. Subsidiariamente, requer seja fixado regime inicial semiaberto para cumprimento da pena (fls. 3/18).
+Foram prestadas informações às fls. 148/152.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 160/165).
+É o relatório.
+O presente writ é substitutivo de recurso próprio, e é certo que o habeas corpus tem suas hipóteses de cabimento restritas e não deve ser utilizado a fim de provocar a discussão de temas afetos a recurso de apelação criminal, a recurso especial, a agravo em execução e a recurso em sentido estrito.
+Não obstante, verifico que, no caso em tela, eventual concessão da ordem influenciará diretamente no status libertatis do paciente, de maneira que passo à análise do mérito.
+Conforme acima relatado, alega a defesa não haver provas suficientes para a condenação do paciente, aduzindo que o reconhecimento feito em solo policial não observou os ditames do art. 226 do Código de Processo Penal.
+De fato, da leitura da sentença e do acórdão, verifica-se que a prova da autoria decorreu do reconhecimento fotográfico feito em Delegacia por uma das vítimas e, posteriormente, confirmado em juízo.
+Ao fundamentar a manutenção da condenação, o Tribunal de origem limitou-se a afirmar o seguinte (fls. 132/133):
+Diferente do que sustenta a defesa técnica, não há de se falar em violação ao disposto no artigo 226 do Código de Processo Penal.
+No caso em exame, o reconhecimento do ora recorrente não serviu como o único elemento de convicção, uma vez que o decreto condenatório foi lastreado num vasto conjunto de provas, produzido sob o crivo do contraditório, do que resultou o convencimento do douto Julgador a quo.
+ ..
+Na hipótese em testilha, as vítimas descreveram toda a dinâmica criminosa, inclusive, no tocante à abordagem dos agentes, afirmando quanto ao emprego de arma de fogo. A vítima Gabriele disse que conseguiu observar melhor as características do recorrente, razão pela qual conseguiu descrevê-lo e reconhecê-lo em sede policial.
+Saliente-se que a declaração de Gabriele, em juízo, ao afirmar que no momento não relembra em detalhes a ação delituosa, não retira a credibilidade de seu depoimento e, principalmente, do reconhecimento. É evidente que quanto maior o transcurso do tempo as lembranças tendem a se dissipar. Contudo, a lesada foi categórica ao asseverar ter certeza da identificação do acusado.
+Ocorre que, ao contrário do afirmado, entendo que as provas são frágeis, já que formadas, basicamente, pelo reconhecimento inicial inválido por uma das vítimas (por fotografia) e pelo reconhecimento pessoal em juízo, este também apenas por uma das vítimas. A ofendida Cleide não foi capaz de reconhecer o réu nem em Delegacia, nem em juízo.
+É essencial mencionar que, uma vez que a testemunha ou a vítima reconhece alguém como o autor do delito, há tendência, por um viés de confirmação, a repetir a mesma resposta em reconhecimentos futuros, pois sua memória estará mais ativa e predisposta a tanto (HC n. 712.781/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/3/2022).
+E, conforme orientação do Superior Tribunal de Justiça, ainda que ratificado em juízo, o reconhecimento fotográfico não observou os requisitos formais previstos no art. 226 do CPP e não foi corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa, suficientes para amparar a condenação, verificando-se a ocorrência de manifesta ilegalidade (AgRg no HC n. 782.370/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 18/5/2023).
+Somado a isso, o réu negou a prática delitiva, informando que estava residindo em outro Município na época dos fatos e trabalhando entregando lanches e na loja da irmã. Há informantes que prestaram depoimento confirmando tais informações (fl. 105).
+Esclareço, ainda, que não houve, in casu, prisão em flagrante, tampouco apreensão de qualquer objeto do crime com o réu nem colheita de imagens de câmera de vigilância.
+Portanto, evidenciado que há irregularidade incontroversa no reconhecimento realizado, bem como que inexistem provas independentes e suficientes, produzidas sobre o crivo do contraditório e da ampla defesa, que sustentem o édito condenatório, a absolvição é medida que se impõe.
+Ante o exposto, concedo a ordem de habeas corpus para absolver o paciente dos delitos que lhe foram imputados na Ação Penal n. 0000149-69.2020.8.19.0008, nos termos do art. 386, V, do Código de Processo Penal.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ORDEM QUE, SE EVENTUALMENTE CONCEDIDA, INTERFERIRÁ DIRETAMENTE N O STATUS LIBERTATIS DO PACIENTE. CABIMENTO. ROUBO. PLEITO DE ABSOLVIÇÃO POR VÍCIO NO RECONHECIMENTO E FRAGILIDADE PROBATÓRIA. RECONHECIMENTO FOTOGRÁFICO EM SEDE POLICIAL, RATIFICADO EM JUÍZO APENAS POR UMA DAS VÍTIMAS. PROVA ISOLADA. INEXISTÊNCIA DE OUTROS ELEMENTOS VÁLIDOS E INDEPENDENTES. ABSOLVIÇÃO QUE SE IMPÕE.
+Ordem concedida.
