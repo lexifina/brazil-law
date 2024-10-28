@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 350/353) opostos por ANDREIA LEITE PASQUALI à decisão de e-STJ fls. 344/347, que conheceu do agravo para não conhecer do recurso especial.
+A embargante sustenta, em síntese, que "ficou demonstrada a violação aos artigos 98 e 99 do CPC, tendo em vista que, a mesma possui insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios" (e-STJ fl. 352).
+Sem impugnação (e-STJ fl. 358).
+É o relatório.
+DECIDO.
+Não colhe a inconformidade veiculada nos presentes aclaratórios.
+A decisão embargada não padece de nenhum dos vícios ensejadores dos embargos declaratórios, enumerados no art. 1.022 do Código de Processo Civil: obscuridade, contradição, omissão ou erro material.
+No caso dos autos, os pontos foram decididos com fundamentação completa, clara e coerente, consoante se colhe das razões da referida decisão.
+Conforme expresso, o acórdão recorrido decidiu pelo indeferimento do pedido de assistência judiciária gratuita ao fundamento de que, com base no conjunto fático-probatório que comprovou a situação econômica da embargante, não restou demonstrada a hipossuficiência, conforme se depreende do seguinte trecho:
+"(..)
+Com efeito, idêntica pretensão, formulada no início da demanda, foi igualmente indeferida, com confirmação no julgamento do agravo de instrumento n. 2008579-97.2023.8.26.0000.
+E, neste recurso, não logrou a agravante demonstrar alteração do seu estado financeiro.
+Com efeito, ela atua como advogada, litiga acerca de viagem realizada ao Balneário Camboriú, no Estado de Santa Catarina.
+E, conquanto afirme atuar exclusivamente mediante convênio firmado entre a OAB e a Defensoria Pública do Estado, aduz na exordial ter viajado a trabalho. O que evidencia patrocínio de clientes particulares.
+Depois, consulta oficiosa deste Relator ao sítio eletrônico desta Corte registra a existência de mais de uma dezena de ações patrocinadas pela agravante, entre o final de 2021 e o início de 2023. Infirmando suas assertivas.
+De mais a mais, os extratos da movimentação financeira de sua conta bancária, mantida junto ao "Bradesco Exclusive", revela a existência de poupança e aplicações financeiras vinculadas, bem créditos oriundos de terceiros. Corroborando a conclusão por sua capacidade financeira.
+E o contrato de locação de fls. 51/55 não traz a data de celebração nem o período de vigência.
+Em suma, a agravante não trouxe ponderação idônea capaz de inquinar a decisão agravada, cujas razões são suficientes ao indeferimento do benefício.
+Ao reverso, limitou-se a reiterar as teses trazidas no recurso anterior, não apresentando qualquer esclarecimento ou novidade à luz da interpretação feita quando da análise do recurso de origem" (e-STJ fl. 208).
+Rever tais conclusões demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça:  A pretensão de simples reexame de prova não enseja recurso especial .
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. PESSOAS FÍSICAS. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC DE 2015. INEXISTÊNCIA. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA. FUNDAMENTO DO ACÓRDÃO RECORRIDO INATACADO. APLICAÇÃO DA SÚMULA N. 283/STF. REVISÃO DA CONCLUSÃO ALCANÇADA NA ORIGEM. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação ao art. 1.022 do CPC de 2015 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões cruciais ao resultado do julgamento.
+2. O acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e a parte recorrente não cuidou de impugnar todos eles, como seria de rigor. Assim, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF.
+3. De acordo com entendimento do STJ, a declaração de pobreza, com o intuito de obter os benefícios da assistência judiciária gratuita, goza de presunção relativa, admitindo, portanto, prova em contrário.
+4. Além disso, o Superior Tribunal de Justiça já decidiu que "o pedido de assistência judiciária gratuita pode ser indeferido quando o magistrado tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado." (AgRg no Ag 881.512/RJ, Rel. Ministro Carlos Fernando Mathias (Juiz Federal Convocado do TRF 1ª Região), Quarta Turma, julgado em 02/12/2008, DJe 18/12/2008).
+5. A conclusão a que chegou o Tribunal a quo, no sentido de indeferir a benesse pretendida, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Revê-la importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal pelo teor da Súmula 7 do STJ.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.552.243/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/03/2020, DJe 02/04/2020)
+"TRIBUTÁRIO E PROCESSUAL CIVIL. PESSOA JURÍDICA. PEDIDO DE JUSTIÇA GRATUITA INDEFERIDO. INCAPACIDADE FINANCEIRA. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. CDA. REQUISITOS DE VALIDADE. ANÁLISE DE CONTEÚDO. MATÉRIA FÁTICA. SÚMULA 7/STJ. 1. A alteração das conclusões adotadas pelo Tribunal de origem, tal como colocada a questão nas razões recursais acerca da incapacidade financeira da pessoa jurídica para fins de concessão do benefício da justiça gratuita, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. 2. Ademais, é incabível, em recurso especial, examinar os requisitos de validade da CDA que aparelha a execução quando tal apreciação demandar o revolvimento de seu próprio conteúdo, ante o óbice da Súmula 7/STJ. 3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1.420.189/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/04/2018, DJe 04/05/2018)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO RECURSO ESPECIAL. INTERPOSIÇÃO SOB A ÉGIDE DO CPC/1973. ENUNCIADO ADMINISTRATIO N. 2/STJ. JUSTIÇA GRATUITA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA. DECISÃO MANTIDA. 1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ. 2. Embora a concessão da justiça gratuita seja possível a qualquer tempo, desde que verificadas as condições para tanto, no presente caso, o Tribunal de origem reconheceu que a agravante não teria direito ao benefício pleiteado, por não se enquadrar no conceito de economicamente necessitada, condição que permanece inalterada, diante da impossibilidade de verificação de matéria fática em recurso especial. 3. A declaração de pobreza, segundo a jurisprudência do STJ, goza de presunção relativa, podendo ser afastada pela comprovação da real condição econômico-financeira do requerente. 4. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no REsp 1.656.230/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/04/2018, DJe 20/04/2018)
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade ou eliminar a contradição, mas sim reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração com a advertência de que, havendo reiteração de embargos protelatórios, a multa prevista no art. 1.026 do Código de Processo Civil será aplicada.
+Publique-se.
+Intimem-se.
+EMENTA
