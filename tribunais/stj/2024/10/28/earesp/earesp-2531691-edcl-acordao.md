@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.023 DO CPC. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017). Nesse sentido: EDcl no MS 28.073/DF, relator Ministro Raul Araújo, Corte Especial, DJe de 15/8/2022; EDcl no MS 25.797/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 22/10/2021.
+2. No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+3. Embargos de declaração não conhecidos.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos por MARIA NAZARÉ BERNARDO DA SILVA e ELIETE MARIA DOS SANTOS contra acórdão da Segunda Turma do STJ, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015; E SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015; e da Súmula 182/STJ, a parte agravante deve infirmar, especificamente, nas razões do agravo interno, os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2. Agravo interno não conhecido (fl. 1.215).
+A parte embargante sustenta, em síntese, que:
+Foram impugnados todos os fundamentos da decisão recorrida: tratam de um agravo em recurso especial interposto por Maria Nazaré Bernardo da Silva e sua filha Eliete contra uma decisão que inadmitiu o recurso especial com base no art. 105, inciso III, da Constituição Federal.
+A decisão agravada considerou a inadmissão do recurso especial devido à ausência de afronta ao art. 1.022 do CPC, ausência de prequestionamento e aplicação de diversas súmulas do STJ e do STF.
+As agravantes recorrem a decisão, impugnando especificamente todos os fundamentos da decisão recorrida, conforme exigido pelo art. 932, inciso III, do CPC, e o art. 253, parágrafo único, inciso I, do Regimento Interno do Tribunal.
+A jurisprudência do STJ também foi citada para reforçar a necessidade de impugnação de todos os fundamentos de forma integral.
+Mas em nenhum momento a decisão vem fundamentada em quais pontos não foram impugnados pelas agravantes.
+O que com a devida vênia é o que tem de acontecer, conforme determina os incisos I e II do art. 489, §1º do NCPC, a sentença será considerada não fundamentada quando: "(I) se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; quando (II) - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso". O que se aplica a todos os juízes!
+Por fim, ressalta-se que, de acordo com o princípio constitucional do devido processo legal e da fundamentação das decisões judiciais (art. 93, IX, da Constituição Federal), o tribunal é obrigado a fundamentar de forma clara e precisa sua decisão, justificando a análise de todos os argumentos apresentados pelas partes. Nesse sentido, os fundamentos da decisão recorrida buscam não apenas assegurar o direito de defesa das partes, mas também garantir a observância rigorosa dos princípios que regem o ordenamento jurídico.
+Pedem que seja viabilizada a continuidade do julgamento, assegurando- se o direito à ampla defesa e ao contraditório, pois as agravantes, impugnaram todos os fundamentos da decisão da vice-presidência do TJPE que foi agravada (fl. 1.246).
+A parte embargada apresentou impugnação aos embargos de declaração.
+É o relatório .
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.023 DO CPC. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017). Nesse sentido: EDcl no MS 28.073/DF, relator Ministro Raul Araújo, Corte Especial, DJe de 15/8/2022; EDcl no MS 25.797/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 22/10/2021.
+2. No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+3. Embargos de declaração não conhecidos.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Os embargos de declaração não merecem conhecimento.
+Nos termos do art. 1.023 do CPC, "os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo".
+Interpretando o referido dispositivo legal, o Superior Tribunal de Justiça firmou entendimento no sentido de que "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017). Nesse sentido: EDcl no MS 28.073/DF, relator Ministro Raul Araújo, Corte Especia l, DJe de 15/8/2022; EDcl no MS 25.797/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 22/10/2021.
+No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+Isso posto, não conheço dos embargos de declaração.
