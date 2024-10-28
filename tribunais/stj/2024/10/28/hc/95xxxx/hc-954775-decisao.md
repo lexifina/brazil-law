@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de AURÉLIO DA SILVA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Narra o impetrante que o paciente foi condenado como incurso na sanção do art. 121, § 2º, IV, do Código Penal (fl. 8), com pena fixada em 13 anos e 6 meses de reclusão em regime inicial fechado, após o deferimento parcial do pedido de revisão criminal.
+O impetrante sustenta a ocorrência de constrangimento ilegal, consubstanciado na própria condenação do paciente e na existência de reformatio in pejus em julgado das instâncias originárias.
+Alega que não houve recurso às Cortes Superiores, razão pela qual entende que do presente writ deve-se conhecer.
+Afirma que o pedido de desclassificação comporta guarida porque tal tese foi defendida na segunda sessão plenária que teria desclassificado o delito para o art. 121, § 3º, do CP.
+Aduz que " ..  a menor participação ficou caracterizada, haja vista, que além de ser objeto da própria denuncia (Artigo 121 § 2º, IV c/c Arti go 29 todos do Código Penal) sendo também que o Magistrado não Individualizou as condutas das partes, o que é cediço e deve ser analisado" (fl. 14).
+Assevera que o paciente preenche os requisitos do indulto, conforme o Decreto n. 11.302/2022.
+Alega, ainda, que a dosimetria merece reparos.
+Requer, ao final, a concessão da ordem para que seja desclassificado o delito, reconhecida a menor participação, reduzida a pena-base e redimensionada a pena imposta ao paciente e/ou a concessão do indulto natalino com base no Decreto n. 11.302/2022.
+É o relatório.
+O impetrante não juntou cópia de nenhum acórdão, decisão ou da sentença condenatória. Em suma, não juntou nenhuma peça processual além de um laudo necroscópico ilegível (fls. 22-23) e de uma página que aparenta ser parte de uma decisão ou voto em embargos de declaração, repetida nas fls. 25 a 27.
+A apontada deficiência de instrução impede a exata compreensão da controvérsia.
+Com efeito, o habeas corpus é ação autônoma de impugnação, de natureza constitucional, voltada à tutela da liberdade de locomoção, cujos limites cognitivos estreitos não admitem dilação probatória, somente se permitindo a análise de provas pré-constituídas que demonstrem, de maneira inequívoca, o alegado constrangimento ilegal.
+Por essa razão, firmou-se a jurisprudência desta Corte Superior em que é ônus do impetrante a correta instrução dos autos, no momento do protocolo da impetração ou da interposição do recurso ordinário, sob pena de não conhecimento do writ.
+Sobre o tema, ilustrativamente, os seguintes precedentes:
+PENAL E PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. HOMICÍDIO QUALIFICADO. PEDIDO DE ANULAÇÃO DO JÚRI OU REVISÃO DA DOSIMETRIA DA PENA. DEFICIÊNCIA DE INSTRUÇÃO. PRECEDENTES. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. WRIT INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A inicial do writ, contudo, não veio acompanhada de documentos aptos a comprovar o alegado constrangimento de que estaria o paciente sendo vítima, e até mesmo a inauguração da competência desta Corte Superior, o que prejudica, sobremaneira, o adequado exame do caso, haja vista que não foi juntada a cópia da sentença condenatória do paciente, pois a que instrui os autos, às e-STJ, fls. 1.877/2.048, se refere a réus e crimes diversos, além da íntegra do acórdão de apelação.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir. No entanto, sua natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. Desse modo, é cogente ao impetrante apresentar elementos documentais suficientes para permitir a atuação do Superior Tribunal de Justiça no caso e a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Precedentes.
+3. Ademais, também verifico que a insurgência aduzida nesta impetração não foi analisada e debatida pela Corte estadual, por ocasião do julgamento da Revisão Criminal, tratando-se, portanto, de matéria nova, somente ventilada neste mandamus, não sendo possível sua análise diretamente por esta Corte Superior, sob pena de indevida supressão de instância. Precedentes.
+4. Habeas corpus indeferido liminarmente.
+5. Agravo regimental não provido.
+(RCD no HC n. 916.378/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024 - grifei.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. REVOGAÇÃO DA PRISÃO PREVENTIVA. DEFICIÊNCIA NA INSTRUÇÃO. EXCESSO DE PRAZO. TESE NÃO ENFRENTADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DETRAÇÃO. PLEITO DE FIXAÇÃO DO REGIME SEMIABERTO. DISCUSSÃO INÓCUA. REINCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A defesa não juntou aos autos a íntegra do decreto prisional, documento necessário à análise do pleito de revogação da medida extrema, sobretudo porque citado na sentença para manter a prisão preventiva por seus próprios fundamentos. Portanto, inviável a análise da referida alegação.
+2. "Não tendo sido juntadas aos autos cópia da decisão do decreto prisional, folha de antecedentes criminais e documentação comprobatória das condições de favorabilidade do paciente, ora agravante, deve ser mantida a decisão que indeferiu o writ liminarmente." (AgRg no HC n. 353.292/TO, Sexta Turma, rel. Min. Sebastião Reis Júnior, DJe 18/5/2016.)
+3. Quanto à alegação de excesso de prazo na fase recursal, de fato, a questão não foi analisada pelo Tribunal de origem, o que inviabiliza a análise pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+4. Quanto à fixação do regime inicial de cumprimento de pena, no caso, o Juízo a quo não aplicou a detração porque a reincidência autorizaria a fixação do regime inicial mais gravoso, ainda que a pena final fosse menor do que 8 anos de reclusão, o que constitui fundamentação válida, conforme a jurisprudência desta Corte Superior.
+5. "É inócua, no caso, a discussão acerca da detração penal, pois o registro de circunstância judicial desfavorável e a reincidência do réu continuariam a justificar a fixação do regime inicial mais gravoso mesmo após o desconto do período de prisão provisória. Agravo regimental não provido." (AgRg no HC n. 635.541/SP, rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 16/3/2021, DJe 23/3/2021.)
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 181.082/AL, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+No mesmo sentido: AgRg no HC n. 811.753/SP, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 26/5/2023; e AgRg no HC n. 793.318/SP, Sexta Turma, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, DJe de 10/5/2023.
+Precedentes do Supremo Tribunal Federal: EDcl no AgRg no HC n. 213.797, Segunda Turma, relator Ministro Nunes Marques, DJe de 26/10/2022; e AgRg no HC n. 223.487, Primeira Turma, relatora Ministra Carmen Lúcia, DJe de 22/3/2023.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
