@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/10/2024 a 28/10/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. AGRAVO INTERNO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do CPC. Incidência da Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+2. Agravo interno não conhecido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, agravo interno no agravo em recurso especial interposto por DROGARIAS PACHECO S.A. contra decisão monocrática que não conheceu do agravo em recurso especial pela aplicação da Súmula 182/STJ, uma vez que não houve impugnação específica da Súmula 7/STJ (fls. 485-499).
+A parte agravante argumenta ,  em  síntese,  que teria impugnado a incidência da Súmula 7/STJ em seu agravo em recurso especial, pois "a apreciação do presente caso não demanda qualquer reexame fático probatório, o que, sabidamente, é incabível em sede de Recurso Especial" e que "toda a delimitação fática, bem como a solução jurídica dada pela E. Tribunal a quo, já foi claramente destacada acima" (fl. 489).
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+A parte agravada apresentou contrarrazões (fls. 534-536).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. AGRAVO INTERNO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do CPC. Incidência da Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+2. Agravo interno não conhecido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  O agravo interno não merece conhecimento.
+O agravo que não impugna, especificamente, os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+A decisão agravada deixou clara a ausência de impugnação específica da Súmula 7/STJ, aplicada pelo Tribunal a quo, uma vez que a parte não indicou, em seu agravo em recurso especial, que todos fatos necessários ao acolhimento da sua pretensão recursal teriam sido reconhecidos pelo acórdão recorrido, tendo apenas trazido impugnação genérica, nos seguintes termos (fls. 475-477):
+A jurisprudência do STJ entende ser necessária a impugnação integral dos fundamentos da decisão denegatória da admissibilidade do recurso especial, para que se conheça do respectivo agravo:
+Com efeito, como tem reiteradamente decidido esta Corte Superior, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia (AgRg no AR Esp 2.340.649/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023).
+Nesse sentido, este STJ entende que a mera reiteração das razões recursais do recurso especial importa no não conhecimento do agravo em recurso especial, pois impõe-se a aplicação da Súmula 182/STJ.
+ ..
+A recorrente deixou de infirmar, especificamente, a incidência da Súmula 7/STJ, limitando-se, essencialmente, a afirmar que "não se aplica ao presente caso o disposto na Súmula nº 07 desse E. STJ, já que a C. Corte terá de se debruçar tão somente a questões de direito para decidir, de acordo com a delimitação dos pedidos formulados" (fl. 445) e que "os fundamentos para se alegar ter ocorrido a referida violação são incontroversos" (fl. 445).
+Quando o recurso especial não é admitido pelo Tribunal de origem com base na Súmula 7/STJ, incumbe aos agravantes demonstrarem, sob pena de preclusão, que a referida Súmula não se aplica ao caso, indicando de que forma a violação aos dispositivos federais suscitada não depende de reanálise do conjunto fático-probatório dos autos, deixando claro, por exemplo, que todos os fatos pertinentes estão devidamente consignados no acórdão recorrido.
+Desta forma, é insuficiente a mera alegação no sentido da inaplicabilidade da Súmula 7/STJ ou de que o exame da controvérsia dispensa reexame probatório, por revelar-se como combate genérico e não específico, que não atende ao princípio da dialeticidade. A parte recorrente apresenta impugnação genérica, que se limita a pleitear a inaplicabilidade da Súmula 7/STJ e se prestaria a tratar de qualquer processo, sem adentrar as especificidades do caso sob julgamento, não demonstrando efetivamente que esta causa prescinde de reanálise dos fatos.
+Para combater a decisão ora agravada, cabia à parte agravante demonstrar que a decisão recorrida estava equivocada. Era necessário mostrar o desacerto da decisão monocrática mediante indicação de que a impugnação à Súmula 7/STJ foi efetiva quando da interposição do agravo em recurso especial, que não teria sido genérica e teria demonstrado a desnecessidade de reexame fático-probatório.
+Contudo, neste agravo interno, a parte se limita, de forma genérica, a reafirmar que teria apontado a desnecessidade de reexame fático, sem demonstrar que isso ocorreu efetiva e tempestivamente em seu agravo em recurso especial.
+A fim de que o agravo interno fosse conhecido nesse ponto, seria necessário demonstrar o desacerto da decisão agravada, de modo a indicar os motivos pelos quais o recurso mereceria superar o juízo de admissibilidade, o que não ocorreu.
+Diante da ausência de impugnação específica dos fundamentos da decisão agravada, é imperioso o não conhecimento do presente agravo interno, tendo em vista o disposto no art. 1.021, § 1º, do CPC e nova aplicação da Súmula 182/STJ . Nesse sentido, cito os seguintes julgado s:
+PROCESSUAL CIVIL. AGRAVO INTERNO. PETIÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil (CPC). Incidência da Súmula 182 do Superior Tribunal de Justiça (STJ): "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+2. A desenfreada protocolização de petições pelo agravante, sem a devida impugnação dos atos decisórios anteriores, muitas delas sem sentido e sem considerar a missão desta Corte Superior, postulando o que não é possível alcançar na presente via, exige que, excepcionalmente, seja determinado o bloqueio de novos incidentes à presente petição, certificando-se o trânsito em julgado, independentemente de publicação.
+3. Agravos internos não conhecidos, com determinação de certificação do trânsito em julgado (AgInt nos EDcl na Pet n. 16.279/MT, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/9/2024, DJe de 5/9/2024).
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. HONORÁRIOS ADOVATÍCIOS. MAJORAÇÃO. REQUISITOS PRESENTES. AGRAVO INTERNO CONHECIDO, PARCIALMENTE, E DESPROVIDO.
+1. Inexistente insurgência concreta contra a fundamentação da decisão que não conheceu do recurso especial, incide a Súmula n. 182 do STJ.
+2. Cabível, in casu, a majoração dos honorários advocatícios devidos pela Agravante, pois se trata de recurso especial não conhecido, interposto contra acórdão proferido na vigência do NCPC, havendo, ademais, condenação, da ora Recorrente, ao pagamento de verba honorária desde a origem.
+3. Agravo interno conhecido em parte e desprovido (AgInt no AREsp n. 2.392.377/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 26/8/2024, DJe de 3/9/2024).
+Isso posto, não conheço do agravo interno.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Intimem-se.
