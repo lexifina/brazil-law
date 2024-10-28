@@ -1,0 +1,68 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por HAPVIDA ASSISTENCIA MEDICA S.A. em face da decisão acostada às fls. 315-319 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pela ora agravante.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 175-197 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE OBRIGAÇÃO DER FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E PEDIDO DE TUTELA DE URGÊNCIA - PLANO DE SAÚDE - CIRURGIA PLÁSTICA CORRETIVA - COBERTURA PÓS-BARIÁTRICA - CONTINUIDADE DO TRATAMENTO DEVIDA - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+"A cirurgia plástica reparadora em decorrência de cirurgia bariátrica não possui caráter meramente estético, mas visa solucionar um problema de saúde que certamente está causando danos de ordem física e psicológica ao beneficiário" (TJ-MT 10094746320218110000 MT, Relator: DES. DIRCEU DOS SANTOS, Data de Julgamento: 11/08/2021, Terceira Câmara de Direito Privado, Data de Publicação: 13/08/2021).
+Presentes os requisitos autorizadores da tutela antecipada, mostra-se acertada a decisão que concede a liminar e determina à cooperativa médica a realização de tratamento indispensável para a manutenção da saúde da usuária de plano.
+Nas razões de recurso especial (fls. 209-223 e-STJ), alegou a insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigos 536 e 537 do CPC, pois as astreintes cobradas seriam em valor desproporcional (fl. 215 e-STJ); (ii) artigo 10 da Lei n. 9656/98 (fl. 222 e-STJ).
+Contrarrazões às fls. 266-292 e-STJ.
+Em juízo prévio de admissibilidade (fls. 315-319 e-STJ), a Corte de origem inadmitiu o apelo nobre, ensejando a interposição do presente agravo (art. 1.042 do CPC/15), às fls. 322-329 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 333-354 e-STJ.
+É o relatório.
+Decide-se.
+1. De início, observa-se que a decisão proferida na origem, ainda que tenha negado seguimento ao apelo nobre com base em recurso repetitivo, também o inadmitiu, com fundamento na Súmula 284/STF - o qual restou suficientemente infirmado, ainda que de forma sucinta.
+Logo, não há falar inadmissão do presente agravo.
+2. O recurso especial, por sua vez, não comporta conhecimento.
+De fato, conforme indicado pela decisão prévia de admissibilidade, as razões recursais apresentadas são insuficientes para permitir o conhecimento da controvérsia.
+Isso porque, o recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão-somente nos termos do que foi impugnado.
+Assim, a ausência de indicação expressa de dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida - mesmo em relação às matérias de ordem pública.
+Ademais, a alegação de ofensa à lei federal pressupõe a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, de maneira a demonstrar a devida correlação jurídica entre o fato e o mandamento legal, que deve conter carga normativa suficiente para permitir a alteração do julgado buscada pela parte.
+A apresentação de razões recursais que não preenchem estes requisitos atrai a incidência da Súmula 284/STF.
+Nesse sentido: AgInt no AREsp 1742169/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021; AgInt no AREsp 1739182/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/03/2021, DJe 15/03/2021; AgInt no AREsp 944.639/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/03/2021, DJe 12/03/2021; AgInt no AREsp 1614511/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/12/2020, DJe 16/12/2020; AgInt no AREsp 1376071/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/12/2020, DJe 14/12/2020; AgInt no AREsp 1264572/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/08/2018, DJe 24/08/2018; AgInt no AREsp 1202430/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 26/06/2018, DJe 29/06/2018.
+2.1. Na hipótese, a insurgente alude a suposta violação aos artigos 536 e 537 do CPC (fl. 215 e-STJ) e ao artigo 10 da Lei n. 9656/98 (fl. 222 e-STJ).
+Todavia, em ambos os casos, fez menção genérica aos dispositivos legais, sem correlacioná-los com as razões recursais.
+Incidente, portanto, o óbice da Súmula 284/STF.
+3. Ademais, da análise dos autos, verifica-se que o recurso especial impugna decisão de cunho provisório.
+Nesses termos, verifica-se que a presente pretensão encontra óbice na Súmula 735 do STF, aplicada por analogia: "não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Com efeito, entende esta Corte ser descabido, via de regra, o apelo nobre que verse sobre reexame do deferimento ou indeferimento de medidas acautelatórias ou antecipatórias, proferidas em sede liminar.
+Trata-se, na espécie, de provimentos judiciais de natureza precária, cuja reversão, a qualquer tempo, é possível, e que demandam posterior ratificação por decisão de cunho definitivo, proferida após cognição exauriente dos elementos de prova. Não constituem, portanto, causas decididas em última ou única instância por Tribunais Estaduais ou Regionais Federais, nos termos do art. 105, III, da Constituição da República, razão pela qual não são sindicáveis por recurso especial.
+Ainda que assim não fosse, tem-se que a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional reclamaria, necessariamente, a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+Sobre o tema, os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO QUE DEFERIU A TUTELA PROVISÓRIA DE URGÊNCIA. APLICAÇÃO DA SÚMULA Nº 7 DO STJ E DA SÚMULA Nº 735 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que à luz do disposto no enunciado da Súmula nº 735 do STF, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+3. O Tribunal de Justiça firmou que não estão presentes os requisitos para o deferimento da tutela antecipada, quais sejam, a fumaça do bom direito e o perigo da demora. Essas ponderações foram fundadas na apreciação de fatos, atraindo a incidência da Súmula nº 7 do STJ.
+ ..
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.998.824/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DEFERIMENTO DE MEDIDA CAUTELAR DE ARRESTO DE BEM IMÓVEL. INDÍCIO DE GRUPO ECONÔMICO. REEXAME DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. SÚMULA 735 DO STF. ART. 50 DO CC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS NÃO ANALISADOS. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, presente o mesmo raciocínio na postergação da análise da medida quando entendida conveniente a dilação probatória prévia. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Precedente.
+2. A verificação do preenchimento ou não dos requisitos necessários para o deferimento da medida acautelatória, no caso em apreço, demandaria o reexame do conjunto fático-probatório, inviável em sede de recurso especial, a teor do enunciado 7 da Súmula do STJ.
+3. Não se conhece do recurso especial quando a deficiência de sua fundamentação impedir a exata compreensão da controvérsia. Súmula 284 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.826.601/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/4/2022, DJe de 18/4/2022.)
+Incidem, portanto, os óbices das Súmulas 735/STF e 7/STJ.
+3.1. Acrescente-se, ainda, que, também nos termos da jurisprudência desta Corte, "apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa" (AgRg na MC 24.533/TO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/10/2018, DJe 15/10/2018).
+Em sentido semelhante:
+AGRAVO INTERNO. RECURSO ESPECIAL. OMISSÃO. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CADASTRO DE INADIMPLENTES. INSCRIÇÃO. TUTELA ANTECIPADA. REQUISITOS. AUSÊNCIA. REEXAME. SÚMULAS NS. 7/STJ E 735/STF. NÃO PROVIMENTO.
+ ..
+2. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1693653/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PREVIDÊNCIA PRIVADA. DOIS AGRAVOS INTERNOS INTERPOSTOS PELO AGRAVANTE. IMPOSSIBILIDADE DE CONHECIMENTO DO SEGUNDO RECURSO EM FACE DO PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. JULGAMENTO APENAS DO PRIMEIRO AGRAVO INTERNO. TUTELA DE URGÊNCIA. ANÁLISE DO MÉRITO DA AÇÃO PRINCIPAL. IMPOSSIBILIDADE. SÚMULA Nº 735 DO STF. PRESSUPOSTOS. REVISÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. A jurisprudência do STJ firmou-se no sentido de que apenas a violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Súmula nº 735 do STF.
+ ..
+6. Agravo interno não provido, com imposição de multa. (AgInt no AREsp 1284281/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/11/2018, DJe 22/11/2018)
+No caso, o recurso especial aponta violação ao artigo 10 da Lei n. 9656/98 - que ainda não teve sua análise definitiva pelas instâncias ordinárias.
+3.2. Por fim, em relação às astreintes, não houve pronunciamento por parte da Corte de origem.
+Nos termos da jurisprudência deste Tribunal Superior, "para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgRg no AREsp 519.518/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/05/2018, DJe 25/05/2018).
+No mesmo sentido, citam-se: AgInt no REsp 1668409/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/05/2018, DJe 24/05/2018; AgInt no REsp 1599354/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016; AgInt no AREsp 1081236/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 05/09/2017.
+Assim, uma vez que o Tribunal de origem não proferiu decisão a respeito da controvérsia trazida a esta Corte Superior, não havendo, sequer, oposição de embargos de declaração, é inviável conhecer o recurso especial, uma vez ausente o requisito do prequestionamento, conforme óbice da Súmula 282/STF.
+Ademais, mesmo em relação a matérias de ordem pública, a ausência de prequestionamento impede a análise da controvérsia
+Nesse sentido: AgInt no REsp 1317113/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/03/2019, DJe 29/03/2019; AgInt nos EDcl no AREsp 1324333/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/03/2019, DJe 21/03/2019.
+4. Advirta-se, por derradeiro, que eventual interposição de recurso manifestamente inadmissível ou protelatório poderá ensejar, conforme o caso, a aplicação de multa calculada sobre o valor atualizado da causa (arts. 1.021, § 4º e 1.026, § 2º, CPC/2015).
+5. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
