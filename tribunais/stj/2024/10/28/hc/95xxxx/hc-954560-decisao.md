@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de DAVI HENRIQUE DA SILVA AMORIM contra acórdão do Tribunal de Justiça do Estado de Pernambuco.
+Consta dos autos que o paciente foi condenado como incurso no art. 33, §4º, da Lei n. 11.343/2006, à pena de 1 ano e 10 meses de reclusão, no regime inicial aberto, e ao pagamento de 183 dias-multa, substituída a pena privativa de liberdade por restritiva de direitos.
+Em sede recursal, foi negado provimento ao apelo defensivo (e-STJ, fls. 20-47)
+Neste writ, a defesa alega, em suma, que, "a partir da revaloração das provas indicadas pela sentença e acórdão, é possível identificar que a atuação policial está eivada de nulidades flagrantes." (e-STJ, fl. 6)
+Assevera que, " n o tema 280, o Supremo Tribunal Federal, ao analisar essa espécie de prova, considerou que informações de inteligência policial não representam fundada suspeita, isto é, não constituem elementos idôneos à deflagração da busca pessoal ou domiciliar." (e-STJ, fl. 8)
+Aponta violação de domicílio, sob o argumento de que "não há nos autos declaração escrita assinada pelo paciente, não foram arroladas testemunhas estranhas ao quadro policial e sobretudo inexiste registro da operação por meio de recursos audiovisuais." (e-STJ, fl. 11)
+Anota que o depoimento dos policiais é permeado por contradições e ambigüidades.
+Requ er seja reconhecida a nulidade das provas obtidas mediante violação de domicílio, com a consequente absolvição do paciente.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O acórdão impugnado encontra-se ementado nos seguintes termos:
+"PENAL E PROCESSO PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. AUTORIA E MATERIALIDADE COMPROVADAS. CONJUNTO PROBATÓRIO COERENTE E ROBUSTO. ALEGAÇÕES DE TORTURA E COAÇÃO NÃO COMPROVADAS. RECURSO NÃO PROVIDO. DECISÃO UNÂNIME.
+1. Apelação interposta contra sentença condenatória, na qual a defesa pleiteia a absolvição do réu alegando insuficiência de provas e a ocorrência de coação e tortura por parte dos policiais durante a abordagem, o que teria levado o réu a confessar a posse da droga sob ameaça. A defesa ainda questiona a legalidade das provas obtidas e a credibilidade dos depoimentos policiais.
+2. A autoria e materialidade do crime de tráfico de drogas foram devidamente comprovadas nos autos, com base em depoimentos coerentes dos policiais e laudos periciais que confirmam a apreensão de entorpecentes.
+3. As alegações de tortura e coação apresentadas pela defesa não foram corroboradas por provas materiais, tendo o exame de corpo de delito e a audiência de custódia descartado a ocorrência de agressões.
+4. Recurso não provido, com a manutenção da sentença condenatória em todos os seus termos.
+5. Decisão unânime."
+Como se vê às fls. 20-47 (e-STJ), a tese de nulidade das provas, pela suposta violação domiciliar, não foi  objeto  de  exame  pelo Tribunal de origem. Logo, o enfrentamento do tema diretamente por esta Corte configuraria indevida supressão de instância.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS COR PUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS IDÔNEOS. GRANDE QUANTIDADE E VARIEDADE DE ENTORPECENTES. VIOLAÇÃO DE DOMICÍLIO. TRANCAMENTO DA AÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO IMPROVIDO.
+1. Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos, extraídos dos autos, aptos a justificar a necessidade de garantia da ordem pública, notadamente se considerada a grande quantidade e variedade de entorpecentes apreendidos em poder da agravante, pois, conforme relatado, policiais que estavam em perseguição aos corréus Devidson e Ryan "abriram a porta e, no interior do bar, encontraram os dois homens encolhidos no chão. Ato contínuo, parte da equipe localizou Mariza e outra mulher escondidas dentro do banheiro, sendo localizado com elas 05 telefones celulares", em seguida, foram localizadas "a sacola plástica que Deividson carregava, a qual continua R$ 381,75 em notas e moedas, além de 43 porções de crack, 255 de cocaína e 98 de maconha. Em seguida, foi localizado um tijolo de crack atrás de um freezer". Conforme o Laudo pericial definitivo (fl. 36), o tijolo de crack apresenta massa líquida de 982,1g.
+2 . As teses relativas à violação de domicílio e ao trancamento da ação penal, sob a perspectiva da nulidade apontada, não foram analisadas pelo Tribunal de origem, conforme se verifica do inteiro teor do acórdão, razão pela qual o writ não pode ser, nesse ponto, reconhecido, sob pena de indevida supressão de instância.
+3. Agravo regimental improvido."
+(AgRg no HC n. 820.785/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+" HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE ENTORPECENTES. NULIDADES. INVASÃO DE DOMICÍLIO. INIDONEIDADE DO LAUDO DE CONSTATAÇÃO PRELIMINA R. TRANCAMENTO DA AÇÃO PENAL. MATÉRIAS NÃO EXAMINADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. QUANTIDADE DE DROGAS APREENDIDAS (1,4 KG DE COCAÍNA E 291 G DE MACONHA). RISCO DE REITERAÇÃO. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. RISCO DE CONTAMINAÇÃO PELA COVID-19. RECOMENDAÇÃO N. 62 DO CONSELHO NACIONAL DE JUSTIÇA CNJ. RÉU NÃO INSERIDO NO GRUPO DE RISCO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. As alegações concernentes às nulidades decorrentes da invasão de domicílio e da elaboração do laudo de constatação provisória por pessoa inidônea, bem como o pedido de trancamento da ação penal, não foram objeto de exame no acórdão impugnado, o que obsta a análise por este Tribunal Superior, sob pena de se incorrer em indevida supressão de instância.
+ ..
+7. Habeas corpus não conhecido."
+(HC n. 597.057/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/11/2020, DJe de 16/11/2020.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
