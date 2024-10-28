@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por KELLVYN VITOR NAVES contra decisão que inadmitiu o recurso especial manejado pelo ora agravante ante a incidência da Súmula 7/STJ.
+O agravante sustenta, em suma, que "O debate trazido à baila não importa reexame de matéria fático-probatória, ao revés, unicamente matéria de direito, não incorrendo, portanto, com a regra ajustada no enunciado da Súmula 07, desta Egrégia Corte" (e-STJ fl. 715).
+Contraminuta apresentada (e-STJ fls. 729-730).
+Parecer do Ministério Público Federal pelo não conhecimento do agravo (e-STJ fls. 744-747).
+É o relatório.
+Decido.
+O Tribunal de origem inadmitiu o recurso especial interposto pela parte agravante com amparo nos seguintes fundamentos (e-STJ fl. 704):
+Inadmissível a pretensão recursal.
+Amparada na análise do caso concreto, a Turma Julgadora fixou entendimento no sentido da existência de provas suficientes de materialidade e autoria. Qualquer pretensão de afastar a referida conclusão esbarra no óbice contido no enunciado sumular nº 7, do Colendo Superior Tribunal de Justiça.
+Confira-se: "(..) Não cabe a esta Corte Superior reexaminar o conjunto fático- probatório dos autos para afastar as conclusões do Tribunal de origem quanto à autoria e a materialidade delitiva, em virtude do disposto na Súmula n. 7, STJ". (AgRg no AREsp n. 2.398.572/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 15/2/2024).
+Diante do exposto, inadmito o recurso, com fundamento no artigo 1.030, inciso V, do Código de Processo Civil.
+A Corte Especial do Superior Tribunal de Justiça firmou entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. (..) A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, redator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018).
+Esse posicionamento vem guiando a jurisprudência das Turmas Criminais desta Corte, como se nota a partir dos acórdãos que consignam que "a falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia" (AgRg no AREsp 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no AREsp 1.871.630/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023).
+Postas essas premissas, verifica-se que o recurso especial foi inadmitido com base no óbice previsto na Súmulas 7/STJ.
+Nas razões do agravo em recurso especial, todavia, a parte limitou-se a afirmar, genericamente, que "não há óbice ao conhecimento do Recurso Especial na hipótese em que se pretende o exame do valor dado à prova abstratamente, o que caracteriza erro de direito" (e-STJ fl. 393), trazendo à colação julgados no sentido da impossibilidade de fixação de regime prisional mais gravoso sem fundamentação.
+Na esteira da jurisprudência dominante desta Corte, a superação do óbice da Súmula 7/STJ exige que o recorrente demonstre, de forma clara e objetiva, ser desnecessário o reexame de fatos e provas, à luz das premissas fáticas estabelecidas no acórdão recorrido, para alterar o entendimento das instâncias ordinárias, o que não ocorreu no caso. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. TIPICIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. CONTINUIDADE DELITIVA. ÓBICE DA SÚMULA 283/STF. ATENUANTE INOMINADA DO ART. 66 DO CÓDIGO PENAL. SÚMULA 7/STJ. VALOR DA PRESTAÇÃO PECUNIÁRIA. SÚMULA 568/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No que diz respeito à atipicidade da conduta, em razão da ausência da alegada ausência de dolo, deve-se ressaltar que para afastar a incidência da Súmula 7 desta Corte exige-se a demonstração clara e objetiva de que a solução da controvérsia e a violação de lei federal independem do reexame do conjunto fático-probatório dos autos.
+(..) 5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.517.591/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024).
+Como visto, nas razões de agravo, não houve impugnação específica aos fundamentos da decisão recorrida, o que impede o conhecimento do agravo.
+Ante o exposto, na forma do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
