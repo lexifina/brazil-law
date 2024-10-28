@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por FRANCISCO RAI FERREIRA, em que se aponta como autoridade coatora o Tribunal de Justiça do Ceará.
+Narram os autos que o recorrente teve a prisão preventiva decretada pelo Juízo de Direito da Vara Única da comarca de Solonópole/CE (Ação Penal n. 0010340-73.2022.8.06.0168).
+Inconformada, a defesa impetrou habeas corpus na colenda Corte de origem, que denegou a ordem (HC n. 0625067-36.2024.8.06.0000). Eis a ementa (fls. 93):
+EMENTA: HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ART. 33, CAPUT, E 35 DA LEI Nº 11.343/2006. PRISÃO PREVENTIVA. 1. TESE DE NULIDADE POR FALTA DE FUNDAMENTAÇÃO DA DECISÃO EM RELAÇÃO A NÃO SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR MEDIDAS CAUTELARES. NÃO CONHECIMENTO. AUSÊNCIA DE APRECIAÇÃO DA MATÉRIA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. INOCORRÊNCIA DE ILEGALIDADE APTA A JUSTIFICAR CONCESSÃO DA ORDEM DE OFÍCIO. 2. CARÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL E AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO PREVENTIVA. NÃO ACOLHIMENTO. DECISÃO SUFICIENTEMENTE ALICERÇADA PELOS SEUS PRESSUPOSTOS, FUNDAMENTOS E CONDIÇÕES DE ADMISSIBILIDADE. INEXISTÊNCIA DE ILEGALIDADE IDÔNEA A JUSTIFICAR A CONCESSÃO DA ORDEM. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE IN CONCRETO DO DELITO. MODUS OPERANDI. PERICULOSIDADE DO AGENTE E RISCO DE FUGA. APLICAÇÃO DAS SÚMULAS 02 E 52 DO TJ/CE. 3. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. INSUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS. NECESSIDADE DA MEDIDA CONSTRITIVA EXCEPCIONAL PARA GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. 4. ORDEM CONHECIDA PARCIALMENTE E, NA EXTENSÃO COGNOSCÍVEL, DENEGADA.
+Aqui, alega o recorrente constrangimento ilegal consistente na decretação da prisão preventiva em seu desfavor, ao argumento de ausência de contemporaneidade dos fatos e de fundamentação idônea.
+Postula, então, a expedição do competente alvará de soltura.
+O Ministério Público Federal opinou pelo conhecimento e desprovimento do recurso (fl.146):
+RECURSO EM HABEAS CORPUS. PROCESSUAL PENAL. CRIMES DE TRÁFICO DE DROGAS E DE ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. NECESSIDADE DA MEDIDA EXCEPCIONAL. GARANTIA DA ORDEM PÚBLICA - FUNDAMENTAÇÃO CONCRETA PERICULOSIDADE DO AGENTE. GARANTIA DA APLICAÇÃO DA LEI PENAL - RÉU FORAGIDO POR QUASE DOIS ANOS - CRIME PRATICADO EM 2022 E CUMPRIMENTO DO MANDADO DE PRISÃO PREVENTIVA EM 2024. PRECEDENTES. AUSÊNCIA DE CONTEMPORANEIDADE - INOVAÇÃO RECURSAL - QUESTÃO NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM PORQUE NÃO APRESENTADA PELA DEFESA - SUPRESSÃO DE INSTÂNCIA. PRECEDENTE. PARECER PELO CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+É o relatório.
+O feito encontra-se prejudicado.
+Em consulta à página do Tribunal de Justiça, na internet, observa-se que o Juízo da Vara Única da comarca de Solonópole/CE (Autos n. 0010340-73.2022.8.06.0168) proferiu sentença condenatória em desfavor do ora recorrente e contra essa sentença foi interposto recurso de apelação.
+Conforme entendimento do Supremo Tribunal Federal e do Superior Tribunal de Justiça, a superveniência de sentença condenatória acarreta a modificação do debate processual, bem como a alteração do título prisional originário, ensejando o advento de nova realidade processual de maior amplitude em relação à considerada no momento da formalização da impetração em julgamento.
+Assim, fica esvaziado o objeto do recurso em habeas corpus quando ele se volta contra a segregação cautelar e, no decorrer do andamento do feito, há superveniência de sentença condenatória, trazendo ao cenário processual nova situação fático-jurídica.
+Ante o exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. PERDA DO OBJETO.
+Recurso em habeas corpus prejudicado.
