@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por ROBERTO CARLOS FERREIRA GONCALVES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.24.351336-3/000).
+Depreende-se dos autos que o juízo das execuções determinou a prévia submissão do sentenciado a exame criminológico, para que possa analisar o pedido de progressão de regime prisional por ele formulado.
+No julgamento do writ de origem, o Tribunal estadual não conheceu da impetração, mas fez recomendações ao juízo de primeiro grau, em julgado assim ementado (fl. 89):
+HABEAS CORPUS - PROGRESSÃO DE REGIME - NECESSIDADE DE PRÉVIA REALIZAÇÃO DE EXAME CRIMINOLÓGICO - MATÉRIA AFETA AO JUÍZO DA EXECUÇÃO - NÃO CONHECIMENTO DA IMPETRAÇÃO - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL A SER SANADO DE OFÍCIO - RECOMENDAÇÃO. O habeas corpus não é a via adequada para a discussão de matérias afetas à execução penal, pois há instrumento recursal próprio. Inexistindo patente constrangimento ilegal no ato da autoridade apontada como coatora, não há como conceder habeas corpus de ofício.
+Em suas razões recursa is, às fls. 102-104, a Defesa aduz que a determinação de elaboração da perícia criminológica embasou-se em fundamentação genérica e inidônea, pois somente fatos ocorridos na execução são hábeis a gerar a necessidade do exame.
+Argumenta que o recorrente preenche os requisitos objetivo e subjetivo para a progressão de regime.
+Requer, liminarmente e no mérito, a concessão da progressão do apenado ao regime semiaberto.
+É o relatório. DECIDO.
+Consoante relatado, a defesa pretende, em síntese, a concessão da progressão de regime, independentemente da realização de exame criminológico.
+Sobre o tema, este Superior Tribunal de Justiça firmou entendimento de que o Magistrado de primeiro grau, ou o Tribunal a quo, diante das circunstâncias do caso concreto, podem determinar a realização da prova técnica para a formação de seu convencimento, desde que essa decisão seja adequadamente motivada.
+Consolidando esse entendimento, este Superior Tribunal de Justiça editou o Enunciado Sumular n. 439, segundo o qual: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Outrossim, o Supremo Tribunal Federal, ao analisar o tema, editou a Súmula Vinculante n. 26, in verbis:
+Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+Assim, forçoso reconhecer a possibilidade de determinação de prévia elaboração do exame criminológico ou sua complementação, quando as peculiaridades do caso o recomendarem, em decisão adequadamente motivada.
+No caso em foco, observem-se os fundamentos do acórdão combatido ao manter a decisão do juízo da execução (fls. 89-94):
+Consta do atestado de pena do paciente (ordem 09) que ele foi condenado como incurso na sanção prevista no artigo 121, § 2º, do Código Penal (homicídio qualificado), estando, atualmente, em cumprimento de pena pro tal delito em regime fechado.
+No dia 13/06/2024, o juízo a quo condicionou a progressão de regime à realização do exame criminológico (ordem 03).
+Pois bem.
+No que tange à realização do exame criminológico para a progressão de regime, não vislumbro, de plano, a ocorrência de constrangimento ilegal passível de ser sanado pela presente via.
+Isso, porque a decisão do juiz da vara de Execuções Penais está fundamentada na gravidade concreta do delito cometido pelo paciente e na súmula 439 do Superior Tribunal de Justiça, que dita:
+ ..
+Dessa forma, analisando as peculiaridades do caso concreto, entendo que a realização de exame criminológico se mostra necessária no caso em questão antes de avaliar se é possível a concessão da prisão domiciliar ao sentenciado.
+Verifica-se que o sentenciado foi condenado pela prática do delito de homicídio qualificado por recurso que dificulte ou torne impossível a defesa da vítima, o que evidencia a necessidade da realização do exame criminológico para aferir se o sentenciado possui condições de ser reintegrado na sociedade, devido a gravidade do crime praticado.
+Ante o exposto, acolho o pedido formulado pelo Ministério Público e DETERMINO realização de exame criminológico em face do sentenciado." (sic, ordem 03, grifos no original).
+Logo, a decisão atacada apresenta motivação suficiente, nos termos do artigo 93, inciso IX, da Constituição Federal e a teor da Súmula Vinculante nº 26 do Supremo Tribunal Federal e da Súmula 439 do Superior Tribunal de Justiça.
+Ademais, verifico que o paciente se encontra na lista de espera para a realização do exame em respeito ao critério de antiguidade estabelecido pela Portaria Conjunta nº 005/2002 (ordem 04).
+No entanto, considero prudente, no presente caso, recomendar ao ilustre magistrado da execução que tome as providências necessárias para que o exame criminológico do paciente seja realizado com a maior celeridade possível.
+Por todo o exposto, não conheço do habeas corpus, mas recomendo que a autoridade tida como coatora providencie a realização célere do exame criminológico.
+Verifica-se que o Tribunal estadual chancelou os fundamentos utilizados pelo juízo da execução para determinar a realização de exame criminológico a fim de aferir a presença do requisito subjetivo. Observa-se que a fundamentação expendida mostra-se idônea e que a elaboração do exame não foi ordenada por menção à gravidade abstrata do delito, nem à longa pena em cumprimento, mas pautou-se na gravidade concreta do crime, que seria de homicídio praticado com recurso que dificultou ou tornou impossível a defesa da vítima.
+O Superior Tribunal de Justiça admite a determinação de exame criminológico para análise do requisito subjetivo para a progressão de regime embasada na gravidade concreta do delito. A esse respeito, mutatis mutandis:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. SÚMULA N. 439/STJ. GRAVIDADE CONCRETA DO DELITO, LONGA PENA A CUMPRIR E PERICULOSIDADE DO AGENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A despeito de o exame criminológico não ser requisito obrigatório para a progressão do regime prisional, em hipóteses excepcionais, os tribunais superiores vêm admitindo a sua realização para a aferição do mérito do apenado. Aliás, tal entendimento foi consolidado no enunciado da Súmula n. 439 do Superior Tribunal de Justiça.
+2. No caso dos autos, o Tribunal de origem, ao determinar a realização de exame criminológico, logrou fundamentar a necessidade do referido exame invocando elementos concretos dos autos bastantes a afastar a decisão do magistrado, destacando, a par da gravidade do crime cometido - homicídio triplamente qualificado com ocultação de cadáver -, que o agravante permanecera dois anos em presídio federal em outro Estado, justamente por sua periculosidade, não havendo que se falar em inidoneidade da fundamentação utilizada para determinação de realização da perícia.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 733.796/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/9/2022, DJe de 26/9/2022.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO PENAL. NECESSIDADE DE EXAME CRIMINOLÓGICO. HISTÓRICO CRIMINAL DESABONADOR. REVOLVIMENTO DO ENTENDIMENTO DAS INSTÂNCIAS ORDINÁRIAS. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+1. Para a concessão do benefício da progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112 da Lei de Execução Penal.
+2. In casu, o Tribunal de Justiça, de forma fundamentada, manteve a decisão do d. Juízo das execuções que havia indeferido os benefícios da execução penal requeridos em razão da ausência de requisito subjetivo do apenado, considerando a gravidade concreta dos delitos cometidos, a reiteração criminosa, a longa pena a ser cumprida e a ausência de elementos concretos da evolução do processo de ressocialização do reeducando.
+3. É firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo para a concessão de benefícios da execução penal, uma vez que tal providência implica o reexame do conjunto fático-probatório dos autos da execução.
+4. Agravo regimental improvido.
+(AgRg no HC n. 582.068/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/8/2020, DJe de 24/8/2020.)
+PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. SÚMULA N. 439/STJ. GRAVIDADE CONCRETA DO DELITO.
+1. A despeito de o exame criminológico não ser requisito obrigatório para a progressão do regime prisional, em hipóteses excepcionais, os Tribunais Superiores vêm admitindo a sua realização para a aferição do mérito do apenado. Aliás, tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte Superior de Justiça.
+2. No caso dos autos, as instâncias ordinárias lograram fundamentar a necessidade de realização do exame criminológico, levando em conta a gravidade concreta do delito praticado, não havendo, portanto, constrangimento ilegal na exigência de realização do mencionado exame.
+3. Ordem denegada.
+(HC n. 523.840/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/10/2019, DJe de 29/10/2019.)
+Diante de tais considerações, vislumbra-se, in casu, a inexistência de flagrante ilegalidade. Mister salientar que a Corte local recomendou celeridade ao juízo da execução na realização do exame criminológico.
+Dessa forma, estando o acórdão prolatado pelo Tribunal a quo em consonância com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
