@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ELIVÂNDIO FEITOSA MOURA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ACRE, em decorrência do julgamento da apelação criminal n. 0008902-15.2012.8.01.0002.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 2ª Vara Criminal da Comarca de Cruzeiro do Sul, na ação penal n. 0008902-15.2012.8.01.0002, pela prática do delito previsto no artigo 33, caput, da Lei 11.343/2006, à pena de 11 (onze) anos, 10 (dez) meses e 27 (vinte e sete) dias de reclusão, além do pagamento de 1.190 (um mil cento e noventa) dias-multa, no regime inicial fechado (fls. 44-53).
+A defesa interpôs apelação ao Tribunal de Justiça do Estado do Acre, que negou provimento ao recurso, em julgamento realizado em 21 de outubro de 2014 (fls. 77-85), com trânsito em julgado em 21 de janeiro de 2014.
+Na presente impetração, busca-se a concessão da ordem para absolver o paciente por insuficiência de provas de autoria delitiva, reclassificar a conduta para o artigo 28 da Lei 11.343/2006 e anular a sentença por violação ao princípio da identidade física do juiz.
+É o relatório. DECIDO.
+A controvérsia nos autos refere-se a uma possível ilegalidade flagrante, consubstanciada na negativa de absolvição por insuficiência de provas de autoria delitiva, na recusa à reclassificação da conduta e na negativa ao reconhecimento da nulidade da sentença por violação ao princípio da identidade física do juiz.
+No entanto, o presente habeas corpus foi impetrado contra acórdão com trânsito em julgado. Diante disso, não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação na qual não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nessa linha:
+ ..
+1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+Por outro lado, constato a presença de coação ilegal, consubstanciada em evidente desproporcionalidade da dosimetria da pena-base, o que justifica a excepcional concessão da ordem de ofício.
+Da leitura do acórdão (fls. 77-85), verifico que foi imposta ao paciente uma pena de 11 (onze) anos, 10 (dez) meses e 27 (vinte e sete) dias de reclusão, além do pagamento de 1.190 (mil cento e noventa) dias-multa. O paciente foi preso em flagrante enquanto transportava 15g (quinze gramas) de cocaína, fracionadas em "trouxinhas", que estavam acondicionadas no interior da motocicleta CG/TITAN, placa NAE 3757, e seriam inseridas no sistema prisional.
+A sentença condenatória, ao proceder à individualização da pena, assim se fundamentou (fl. 51):
+ ..
+Atento às diretrizes do art. 59 do CP, circunstâncias judiciais, tenho que o grau de culpabilidade do réu é intenso, demonstrando elevada ousadia, uma vez que a traficância objetivava atingir pessoas sob custódia do Estado. Há nos autos registro de antecedentes criminais. Acerca da conduta social, definida como sendo o modo pelo qual o agente exerceu os papéis que lhe foram reservados na sociedade, no âmbito da sociedade, família, trabalho, grupo comunitário, e, quanto à personalidade, não anoto elementos concretos para valorar negativamente. Os motivos são os inerentes ao tipo. As circunstâncias do crime são negativas, diante da prática do ilícito em ambiente prisional. As consequências do crime são as comuns à espécie. O comportamento da vítima, ora Estado, em nada influenciou ou provocou o delito, devendo tal circunstância ser valorada negativamente. Assim, diante da existência de três circunstâncias negativas e cinco neutras, fixo a pena-base do réu em 078 (oito) anos e 09 (nove) meses de reclusão, com pagamento de 875 dias- multa, fixando o dia multa na razão de 1/30 (um trinta avos) do salário mínimo vigente por ocasião dos fatos, levando em consideração a situação econômica do réu e considerando ser o necessário para a reprimenda do delito.
+Com relação às circunstâncias legais, ausente atenuantes. Presente a agravante da reincidência prevista no artigo 61, I do CP, razão pela qual agravo a pena em 1/6 (um sexto), passando a dosá-la em 10 (dez) anos, 02 (dois) meses e 15 (quinze) dias de reclusão, com pagamento de 1.020 (mil e vinte) dias multa.
+Quanto às circunstâncias legais específicas, verifico que inexiste causa de diminuição de pena. Presente a causa de aumento prevista no artigo 40, III da Lei 11.343/2006, razão pela qual a exaspero em 1/6 (um sexto).
+Portanto, torno a pena em definitivo, fixando-a em 11 (onze anos) anos, 10 (dez) meses e 27 (vinte e sete) dias de reclusão, com pagamento de 1.190 (um mil cento e noventa) dias-multa, fixando o dia multa na razão de 1/30 (um trinta avos) do salário mínimo vigente por ocasião dos fatos.
+Fixo como regime inicial de cumprimento de pena o regime FECHADO, nos termos do art. 2º, §1º, da Lei 8.072/90.
+ ..
+Entendo que a apreensão de 15g (quinze gramas) de cocaína, fracionadas em "trouxinhas" e destinadas ao sistema prisional, onde o paciente cumpria pena no regime semiaberto à época, revela uma maior reprovabilidade. No entanto, não é possível valorar esse fato duplamente a partir das vetoriais da culpabilidade e da circunstâncias do delito, como foi feito pela instância originária, configurando um nítido bis in idem.
+A culpabilidade é compreendida como o juízo de reprovação da conduta, o que é constado no caso concreto, pois o paciente, ainda em cumprimento de pena no regime semiaberto, tentou ingressar com entorpecentes no interior do presídio. Já as circunstâncias do crime correspondem a fatores acidentais, secundários, relacionados à infração penal, que não integram a estrutura do tipo penal, o que não se verifica no caso concreto.
+Corroborando tal posicionamento:
+ ..
+- Em se tratando de crime de tráfico de drogas, o juiz, ao fixar a pena, deveria considerar, com preponderância sobre o previsto no artigo 59 do Estatuto repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei n. 11.343/2006.
+- Na espécie, o mesmo fundamento, qual seja a alta quantidade de entorpecentes, revela maior reprovabilidade na conduta da ré, com maior potencialidade lesiva (e-STJ, fls. 68), foi utilizado para negativar a culpabilidade e também as circunstâncias do delito, resultando na valoração de duas circunstâncias judiciais desfavoráveis, em evidente bis in idem.
+ ..
+- Agravo regimental não provido.
+(AgRg no HC n. 549.965/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/5/2020, DJe de 27/5/2020.)
+Diante disso, neutralizo a vetorial relativa às circunstâncias do delito e mantenho as vetoriais de culpabilidade e dos maus antecedentes. Estabeleço, também, a fração de aumento de 1/6 (um sexto) acima do mínimo legal para cada vetorial negativa, uma vez que não há fundamentação nos autos que justifique a exasperação acima da fração prudencial adotada pela jurisprudência desta Corte Superior. A esse respeito:
+ ..
+6. O Superior Tribunal de Justiça tem entendimento firmado de que, embora ausente previsão legal acerca dos percentuais mínimo e máximo de elevação da pena em razão da incidência das agravantes, o incremento da pena em fração superior a 1/6 (um sexto) exige fundamentação concreta.
+ ..
+8. Agravo regimental não provido.
+(AgRg no HC n. 894.960/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/8/2024, DJe de 30/8/2024.)
+Passo, portanto, ao redimensionamento da pena.
+1ª Fase: Neutralizo a vetorial relativa às circunstâncias do delito, mantendo negativadas as vetoriais da culpabilidade e dos maus antecedentes, estabelecendo a fração de aumento de 1/6 (um sexto) para cada uma delas. A pena-base é fixada em 6 (seis) anos e 8 (oito) meses de reclusão, além de 667 (seiscentos e sessenta e sete) dias-multa.
+2ª Fase: Preservo os parâmetros da instância originária, que reconheceu a agravante da reincidência, prevista no artigo 61, I, do Código Penal, com fração de 1/6 (um sexto). A pena intermediária é fixada em 7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão, além de 778 (setecentos e setenta e oito) dias-multa.
+3ª Fase: Mantenho os parâmetros estabelecidos pela instância originária, que reconheceu a causa especial de aumento prevista no artigo 40, III, da Lei 11.343/2006, com aplicação da fração de 1/6 (um sexto). Assim, a pena definitiva é fixada em 9 (nove) anos e 26 (vinte e seis) dias de reclusão, além de 908 (novecentos e oito) dias-multa.
+Uma vez verificado que a matéria trazida no presente writ é objeto de jurisprudência consolidada no Superior Tribunal de Justiça e no Supremo Tribunal Federal, não há nenhum óbice à concessão da ordem liminarmente, sobretudo ante a evidência de manifesto e grave constrangimento ilegal.
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC 324.401/SP, Relator Ministro GURGEL DE FARIA, 5ª Turma, DJ-e 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+Ante o exposto, indefiro liminarmente o habeas corpus, com fundamento do artigo 210 do Regimento Interno do Superior Tribunal de Justiça, mas concedo, de ofício, a ordem em favor de ELIVANDIO FEITOSA MOURA para redimensionar sua pena para 9 (nove) anos e 26 (vinte e seis) dias e 908 (novecentos e oito) dias-multa, mantidos os demais termos da condenação.
+Comunique-se com urgência à autoridade coatora e ao juízo de primeiro grau.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
