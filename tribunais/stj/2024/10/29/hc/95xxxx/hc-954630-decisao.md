@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de GEILTON GOMES DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Revisão Criminal n. 0028016-42.2024.8.17.9000).
+O paciente foi definitivamente condenado pela prática dos crimes previstos no art. 157, § 2º, I e II, e art. 157, § 3º, c/c o art. 70, todos do Código Penal, à pena de 22 anos de reclusão, em regime inicial fechado, e ao pagamento de 60 dias-multa (Ação Penal n. 0002101-81.2008.8.17.0001, da 12ª Vara Criminal da comarca de Recife/PE).
+Ajuizada a revisão criminal, a Corte estadual, no dia 10/10/2024, julgou improcedente da ação, conforme este resumo (fl. 35):
+PENAL. PROCESSUAL PENAL. LATROCÍNIO - REVISÃO CRIMINAL. PEDIDO FORMULADO COM BASE NO ARTIGO 621, I, DO CÓDIGO DE PROCESSO PENAL. ALEGAÇÃO DE SENTENÇA CONDENATÓRIA CONTRÁRIA AO TEXTO EXPRESSO DE LEI E À EVIDÊNCIA DOS AUTOS. IMPROCEDÊNCIA.
+I - Não contraria o texto expresso da Lei Penal a sentença que não o afronta. Para que ocorra decisão contrária a evidência dos autos é preciso que inexista qualquer elemento de prova capaz de dar suporte à condenação. O reexame, em sede de revisão, da prova produzida na instrução criminal, dando-lhe característica de uma apelação, não é previsto em lei, não se enquadrando nas hipóteses do artigo 621 do Código de Processo Penal.
+II - Revisão indeferida, à unanimidade de votos.
+Aqui, a defesa aduz, em síntese, que inexistiam provas suficientes para a condenação, tanto que o Ministério Público requereu a absolvição. Ainda assim, o réu foi condenado a cumprir pena, em um cenário em que a própria fundamentação do Magistrado indica a inexistência de provas concretas.
+Requer a concessão da ordem para se absolver o paciente.
+É o relatório.
+O writ não merece ir adiante.
+No caso, não existe excepcionalidade a justificar a impetração deste habeas corpus após o trânsito em julgado da condenação, contra o acórdão da revisão criminal julgada improcedente pela Corte estadual.
+Concluiu o Tribunal local que o pedido em formulado visa a reexaminar, em sede de revisão, a precariedade da prova produzida na instrução criminal, dando-lhe característica de uma apelação, o que não é previsto em lei. E que o recorrente não trouxe elementos de provas capazes de retirar o valor das anteriores e de apagar o convencimento que aquelas levaram o Juiz sentenciante a firmar no sentido de lhe caber a autoria do crime de Latrocínio pelo qual foi denunciado e condenado (fl. 33).
+Ora, o acórdão combatido está em consonância com o entendimento consolidado desta Corte de que a revisão criminal não pode ser utilizada para que a parte provoque a rediscussão de questões de mérito, fundada na mera irresignação quanto ao provimento jurisdicional obtido (AgRg no AREsp n. 2.459.771/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 15/2/2024).
+Em outras palavras, a pretensão da defesa recorrente não encontra guarida em nenhuma das hipóteses legais de cabimento da via revisional, porquanto se traduz, na verdade, em rediscussão ou em reavaliação das circunstâncias de fato (exame de provas já analisadas) que ensejaram a condenação (AgRg na RvCr n. 5.022/DF, Relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 24/6/2020, DJe de 1/7/2020) - (AgRg na RvCr n. 6.089/GO, Ministro Teodoro Silva Santos, Terceira Seção, DJe 5/3/2024).
+Com efeito, revisitar os elementos fático-probatórios para, eventualmente, reverter as conclusões das instâncias antecedentes a respeito da autoria delitiva é providência inadmissível nos estreitos limites cognitivos do habeas corpus. Nesse sentido, por exemplo, AgRg no HC n. 702.504/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/11/2021; e AgRg no HC n. 857.857/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 7/3/2024.
+Por ess as razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL EM REVISÃO CRIMINAL JULGADA IMPROCEDENTE. DESCABIMENTO. ROUBO MAJORADO E ROUBO QUALIFICADO (LATROCÍNIO). PRETENSÃO DE ABSOLVIÇÃO. IMPROPRIEDADE DA VIA ELEITA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
