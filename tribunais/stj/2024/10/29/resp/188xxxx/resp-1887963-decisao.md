@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONSTRUTORA COLMÉIA S/A, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS assim ementado (fls. 362/363):
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE, APLICANDO O ART. 932, III, DO CPC/15, NÃO CONHECEU DE APELAÇÃO CÍVEL POR SUA INTEMPESTIVIDADE. INDISPONIBILIDADE DO SISTEMA NÃO ALEGADA NAS RAZÕES DE APELAÇÃO. CERTIDÃO NÃO JUNTADA NO ATO DE INTERPOSIÇÃO DO RECURSO ORIGINÁRIO. PRECLUSÃO CONSUMATIVA. MANUTENÇÃO DO ENTENDIMENTO. RECURSO NÃO PROVIDO.
+I - Conforme a jurisprudência do c. STJ "na vigência do Código de Processo Civil de 2015, não é possível a comprovação da tempestividade após a interposição do recurso" (AgInt no AREsp 1386522/SP, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 14/06/2019). Assim, competia à recorrente instruir corretamente o apelo originário, com a comprovação de sua tempestividade no ato da interposição.
+II - Ocorre que, ao interpor a Apelação Cível, a recorrente não levantou nenhuma hipótese de prorrogação do prazo recursal. Apenas agora, em Agravo Interno, afirma que o sistema de peticionamento encontrava-se indisponível na data do termo final do prazo para recorrer.
+III - A Certidão de Indisponibilidade, por sua vez, também não foi juntada no ato da interposição do apelo, esbarrando a sua apresentação posterior, em anexo ao Agravo Interno, no óbice da preclusão consumativa.
+AGRAVO INTERNO CONHECIDO, MAS NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 395/403).
+Em suas razões recursais, a parte recorrente, além do dissídio jurisprudencial, alega violação dos arts. 1.022, I e II, 489, II e III, 4º, 6º, 9º e 932 do Código de Processo Civil (CPC).
+Defende a prorrogação do prazo recursal em razão da indisponibilidade do sistema processual eletrônico, bem como que é possível a sua comprovação posterior, para fins de se reconhecer a tempestividade da apelação. Alega que, na presente hipótese, não se trata de feriado local ou suspensão programada do expediente, mas de inoperância do sítio do Tribunal de Justiça do Estado do Amazonas.
+Aponta a omissão no julgado quanto aos arts. 4º, 6º, 9º e 932 do Código de Processo Civil (CPC) e a primazia do julgamento do mérito.
+Requer o provimento do recurso especial.
+Não foram apresentadas contrarrazões (fl. 437).
+O recurso foi admitido na origem (fls. 438/442).
+É o relatório.
+Trata-se, na origem, de ação civil pública ajuizada pelo Ministério Público do Estado do Amazonas contra o Município de Manaus e a Construtora Colméia S. A, alegando irregularidades na construção de condomínio residencial em área destinada à construção de uma via pública.
+Verifico que inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Discute-se nos autos a tempestividade da apelação uma vez que, nos termos do acórdão recorrido, não foi reconhecida como válida a posterior comprovação de indisponibilidade do sistema no sítio do Tribunal de Justiça.
+O acórdão recorrido está em consonância com o entendimento desta Corte Superior de que a mera alegação de problema técnico no sítio do Tribunal de origem, sem a necessária comprovação no ato de interposição do recurso, não pode afastar a intempestividade do recurso. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. NÃO COMPROVAÇÃO DA SUSPENSÃO DOS PRAZOS PROCESSUAIS PELO TRIBUNAL DE ORIGEM. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ART. 1.003, § 6º, DO CPC/2015. AGRAVO IMPROVIDO.
+ ..
+II - De fato, o ESTADO DO RIO DE JANEIRO foi intimado pessoalmente da decisão agravada em 16/10/2019, sendo o agravo somente interposto em 04/12/2019. O recurso é intempestivo, porquanto interposto fora do prazo de 30 (trinta) dias úteis, nos termos do art. 183, do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil. De outra parte, quanto a ocorrência de feriado local e atos do Tribunal local dando conta de indisponibilidades no sistema informatizado, verifica-se que os referidos documentos comprobatórios somente foram juntados na ocasião da interposição do presente agravo interno, deixando de acompanhar na oportunidade de interposição do agravo em recurso especial. Nessas circunstâncias, o entendimento do Superior Tribunal de Justiça é no sentido de que, nos termos do § 6.º do art. 1.003 do CPC/2015, o recorrente deve comprovar a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior (AgInt no AREsp n. 2.045.398/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 16/5/2022, DJe de 23/5/2022; AgInt no AREsp n. 1.772.302/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/2/2022, DJe de 9/3/2022.)
+III - Ademais, acaso ocorrida indisponibilidade do sistema do Tribunal local em dias que não coincidem com o início ou término do prazo recursal, o dia é contado como dia útil, não autorizada a sua exclusão (AgInt no AREsp n. 1.981.234/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+IV - Agravo interno improvido.
+(AgInt no AREsp n. 1.742.849/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/8/2023, DJe de 18/8/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. INDISPONIBILDADE SEVERA DO SISTEMA. NECESSIDADE DE COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO POR JUNTADA DE DOCUMENTAÇÃO IDÔNEA. DIA QUE NÃO COINCIDE COM AS DATAS DE INÍCIO OU DE TÉRMINO DO PRAZO RECURSAL. INAPLICABILIDADE DO § 1º DO ART. 224 DO CPC/2015. PRECEDENTES.
+1 - É intempestivo o recurso especial que é interposto fora do prazo recursal de 15 (quinze) dias úteis, a contar da publicação do acórdão recorrido (recurso interposto sob a égide do CPC/15).
+2 - O art. 1.003, § 6º, do CPC/2015 estabelece que o recorrente deve comprovar, mediante documento idôneo, a ocorrência de feriado local/recesso forense no ato de interposição do recurso, o que impossibilita a regularização posterior.
+3 - A consequência jurídica da indisponibilidade da comunicação eletrônica está prevista no art. 224, § 1º, do CPC: prorrogação do dia do começo ou do dia do final do prazo. Se a indisponibilidade da comunicação eletrônica ocorrer durante o transcurso do prazo recursal, trata-se de dia útil, que se soma à contagem do prazo processual, não havendo exclusão do dia (AgInt no AREsp 1922820/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/12/2021, DJe 17/12/2021).
+4 - Agravo interno não provido.
+(AgInt no AREsp n. 1.981.234/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. SISTEMA DE PETICIONAMENTO ELETRÔNICO. INDISPONIBILIDADE. COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A mera alegação de problema técnico no site do Tribunal de origem, sem a devida comprovação no ato de interposição do recurso, não tem o condão de afastar a intempestividade do agravo em recurso especial (ut, AgInt nos EDcl no AREsp 1476341/RJ, Rel. Ministro GURGEL DE FARIA, DJe 07/05/2020) 2. In casu, o acórdão proferido em sede de apelação foi publicado em 25/6/2021; o recurso especial, todavia, somente foi protocolizado em 13/7/2021 (e-STJ fl. 335), fora, portanto, do prazo de 15 (quinze) dias.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 1.981.480/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/11/2021, DJe de 12/11/2021.)
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+ ..
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020 - sem destaques no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3,17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+ ..
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018 - sem destaques no original.)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego a ele provimento.
+Majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
