@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual MRN NEGOCIOS IMOBILIARIOS LTDA se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 789):
+ADMINISTRATIVO. AÇÃO ANULATÓRIA DE AUTO DE INFRAÇÃO. IBAMA. ÁREA EMBARGADA. APREENSÃO DE MAQUINÁRIO. NECESSIDADE DE PARTICIPAÇÃO DO ENTE FEDERAL - TERMINAL RETROPORTUÁRIO - UTILIDADE PÚBLICA E INTERESSE SOCIAL. Verificada que o empreendimento se identifica com obra de utilidade pública e/ou interesse social, considerando-se tratar de construção de terminal retroportuário, mantém-se hígida a autuação do ente federal IBAMA - destruição de vegetação sem a autorização devida. Modificada a solução da lide, invertidos os ônus sucumbenciais.
+Os embargos de declaração opostos foram rejeitados (fls. 836/841).
+Nas razões de seu recurso especial, a parte ora agravante alega violação aos arts. 8º, 489, § 1º, II e IV, e 1.022, I e II, do Código de Processo Civil (CPC), apontando omissão no acórdão recorrido.
+Sustenta que houve afronta ao art. 3º, VII e VIII, da Lei 11.428/2006 ao argumento de que o rol de atividade listadas como de utilidade pública ou interesse social é taxativo, e que o empreendimento em questão não está inserido nesse rol.
+Ao final, requer o provimento do recurso especial "para reformar o acórdão, com o consequente reconhecimento da desnecessidade de anuência do IBAMA, reconhecendo válida a supressão autorizada pela Secretaria de Saneamento Ambiental - SESA" (fl. 860).
+A parte adversa apresentou contrarrazões (fls. 868/875).
+O recurso não foi admitido, o que ensejou a interposição do agravo em recurso especial ora em análise.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+Na origem, trata-se de ação ordinária ajuizada pela parte ora recorrente objetivando a suspensão dos efeitos do Auto de Infração 9159324-E, do Termo de Embargo 781315-E e do Termo de Apreensão 818364-E, com o imediato levantamento do embargo da área e a devolução das motosserras apreendidas.
+Verifico que inexiste a alegada violação dos arts. 8º, 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+O acórdão recorrido foi fundamentado da seguinte forma (fls.794/795):
+Verifica-se que se trata de construção de um terminal retroportuário, licenciado pelo órgão ambiental municipal (evento 1 - anexo 4 e anexo 8), com fundamento no "Termo de delegação de atribuições de competências relativas a licenciamento ambiental", entabulado entre o IMA e o Município de Garuva (evento 1 - anexo 7).
+Ao contrário do lançado na v. sentença recorrida, concluo que o porte e objeto do empreendimento a ser realizado, não se identifica com mera edificação e/ou obra em área urbana, reveste-se, ao contrário, de empreendimento com caráter de utilidade pública e interesse social, na medida em que funcionará como terminal retroportuário.
+Ademais, não se pode deixar de referir que a autuação também levou em consideração a destruição de espécie ameaçada de extinção e, diante desses fundamentos, tenho que a v. sentença merece reforma, mantendo-se hígida a autuação do ente federal.
+O Tribunal de origem reconheceu que, diante do porte e do objeto do empreendimento a ser realizado, ele não se identificava com mera edificação e/ou obra em área urbana, mas com empreendimento de caráter de utilidade pública e interesse social, visto que funcionaria como terminal retroportuário.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. LICENCIAMENTO AMBIENTAL. COMPETÊNCIA. IBAMA. ATIVIDADE DE TERMINAL PORTUÁRIO QUE PODE CAUSAR SIGNIFICATIVO IMPACTO AMBIENTAL. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. O entendimento firmado, à luz das provas dos autos, pelo Tribunal a quo - no sentido de que, "considerando que as atividades do empreendedor serão desenvolvidas no mar continental e na zona econômica exclusiva; que o empreendimento, por situar-se em área contígua a terras indígenas, trará impactos a essa comunidade; que serão afetados bens que apresentam relevância histórica e cultural e, por fim, que há potencial de dano ambiental de caráter regional, conclui-se que a competência para o licenciamento ambiental é do IBAMA, razão pela qual deve ser reformada a sentença que julgou improcedente a ação" - não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+IV. Agravo interno improvido.
+(AgInt no REsp n. 1.390.476/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 29/4/2020, DJe de 5/5/2020.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, a ele negar provimento.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
