@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de ANTONIO DE SOUZA SOBRINHO, em que se aponta como órgão coator o Tribunal de Justiça da Paraíba (Apelação n. 0000132-58.2012.8.15.1161).
+Depreende-se dos autos que paciente foi definitivamente condenado à pena de 13 anos e 4 meses de reclusão, em regime inicial fechado, e pagamento de 172 dias-multa, pela prática do crime previsto no art. 158, §§ 1º e 3º, do Código Penal.
+No presente writ, a defesa alega, em síntese, a nulidade do processo pela inobservância do procedimento legal para reconhecimento de pessoas; a violação do disposto nos arts. 155 e 156 do Código de Processo Penal; e a carência de provas para amparar a condenação.
+Requer a concessão da ordem para declarar a nulidade da condenação, com a consequente absolvição do réu.
+O writ foi processado sem pedido liminar.
+Depois de prestadas as informações pelo Tribunal de origem (fls. 93/96), o Ministério Público Federal manifestou-se pelo não conhecimento da impetração (fls. 124/126).
+É o relatório.
+A condenação do paciente já é definitiva, portanto, o presente habeas corpus é sucedâneo de revisão criminal.
+Diz a nossa jurisprudência que não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça (AgRg no HC n. 751.156/SP, Ministra Laurita Vaz, Sexta Turma, DJe 18/8/2022).
+Seja como for, inexiste, na espécie, flagrante ilegalidade a ser reparada por meio de habeas corpus de ofício.
+Afinal, quanto ao questionamento acerca da inobservância das disposições do art. 226 do Código de Processo Penal, consta deste trecho da sentença, transcrito no acórdão, que (fl. 55 - grifo nosso):
+ ..  o reconhecimento pessoal não foi o único elemento de prova que aponta os acusados como autores do delito. Os acusados deram versões conflitantes em relação ao que faziam e onde estavam no dia dos fatos. Ademais, o boletim de ocorrência de f. 31 registrou a apreensão de um celular que um dos acusados deixou cair na fuga, identificando os então suspeitos como "Antônio de Chicola" e "Careca" a partir de ligações recebidas no aparelho, justamente as alcunhas dos increpados.
+Não bastasse isso, o ofendido Cosmo salientou características muito peculiares dos réus, como a calvície e o sotaque do réu Ozeias e o sinal no lado esquerdo da face do acusado Antônio. Por conseguinte, o reconhecimento indireto (por fotografia) não é frágil e é sustentado por outros meios probatórios.
+ ..
+Com efeito, conforme entendimento desta Corte Superior, "ainda que o reconhecimento do réu haja sido feito em desacordo com o modelo legal e, assim, não possa ser sopesado, nem mesmo de forma suplementar, para fundamentar a condenação do réu, certo é que se houver outras provas, independentes e suficientes o bastante, produzidas sob o crivo do contraditório e da ampla defesa, para lastrear o decreto condenatório, não haverá nulidade a ser declarada" (AgRg nos EDcl no HC n. 656.845/PR, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe 28/11/2022) -(AgRg no HC n. 913.307/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 3/7/2024).
+Nessa mesma linha, ainda, o AgRg no HC n. 880.149/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 26/6/2024; AgRg no HC n. 777.056/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/6/2024; e o AgRg no AREsp n. 2.404.490/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 14/6/2024.
+Ademais, as alegações referentes à inobservância das disposições do art. 155 e art. 156 do Código de Processo Penal não foram decididas no acórdão ora impugnado. A ausência de debate acerca da ilegalidade aventada na Corte de origem, sob o enfoque suscitado nestes autos, indica supressão de instância, circunstância que também obsta a análise da presente insurgência nesta Casa.
+Por fim, n ão é demais lembrar que a pretensa revisão do julgado, com vistas à absolvição do acusado, não se coaduna com a estreita via do habeas corpus, dada a necessidade de profundo reexame de fatos e provas (AgRg no HC n. 813.741/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 5/10/2023). Ainda, o AgRg no HC n. 862.465/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/3/2024).
+Pelo exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXTORSÃO MAJORADA. CONDENAÇÃO TRANSITADA EM JULGADO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO. NULIDADE. ALEGADA OFENSA AO ART. 226 DO CPP. OUTROS FATORES CONSIDERADOS PARA A CONDENAÇÃO. PRECEDENTES. VIOLAÇÃO DOS ARTS. 155 E 156 DO CPP. SUPRESSÃO DE INSTÂNCIA. FRAGILIDADE DA PROVA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Ordem denegada.
