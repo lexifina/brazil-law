@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 23/10/2024 a 29/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA - INCLUSÃO DE COOBRIGADOS NO POLO PASSIVO - COMPETÊNCIA INDISTINTA DA JUSTIÇA COMUM E DA JUSTIÇA DO TRABALHO - DELIBERAÇÃO UNIPESSOAL QUE NAO CONHECEU DO CONFLITO - INSURGÊNCIA DA AGRAVANTE.
+1. A Justiça do Trabalho, no âmbito da legislação específica, possui competência para desconsiderar a personalidade jurídica, declarar a existência de grupo econômico e redirecionar a execução em face dos sócios não abrangidos pelos efeitos da recuperação judicial. Hipótese dos autos. Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de agravo interno interposto por RODOTECNIA - INDUSTRIA DE IMPLEMENTOS RODOVIÁRIOS - EM RECUPERAÇÃO JUDICIAL decisão, da lavra deste signatário, acostada às fls. 136/138, que não conheceu do presente incidente.
+Em resumo, o conflito de competência foi ajuizado pelo ora agravante indicando, como suscitados, o Juízo de Direito da 3ª Vara Cível de Bento Gonçalves/RS, onde se processa a recuperação judicial da suscitante (processo n.º 002162-13.2017.8.21.000), o r. juízo da 1ª Vara do Trabalho de Bento Gonçalves/RS, no qual tramita a reclamação trabalhista nº 0021858- 17.2016.5.04.0511, movida por MAURÍCIO COSTA MOREIRA e r. juízo da 2ª Vara do Trabalho de Bento Gonçalves, onde tramita a reclamação trabalhista n.º 0020053- 60.2015.5.04.0512, aforada por ALAN CARDOSO.
+Aduziu a suscitante, em síntese, que os Juízos Trabalhistas, após deferirem pedidos de desconsideração de personalidade jurídica, autorizaram a realização de atos executórios contra bens de sócio da recuperanda, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, que, conforme alega, é o foro competente para tratar de atos que afetem o patrimônio envolvido no processo de soerguimento.
+Requereu a concessão de liminar objetivando o sobrestamento dos atos executivos determinados na demanda laboral, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes, evitando-se, assim, que a constrição prossiga e inviabilize o processo de soerguimento ao qual está submetida.
+No mérito, pugnou pela declaração de competência do Juízo da Recuperação Judicial para tratar dos atos de caráter executório que afetem seu acervo patrimonial.
+Às fls. 136/138, este signatário não conheceu do incidente em epígrafe porquanto, nos termos da jurisprudência desta Corte, a Justiça do Trabalho, no âmbito da legislação específica, possui competência para desconsiderar a personalidade jurídica, declarar a existência de grupo econômico e redirecionar a execução em face dos sócios não abrangidos pelos efeitos da recuperação judicial.
+Os aclaratórios de fls. 142/149 foram rejeitados às fls. 152/153.
+Nas razões do agravo interno, a insurgente repisa os fundamentos da exordial. presença, no caso dos autos, dos requisitos necessários ao manejo do conflito de competência. Ratifica a usurpação, pelo r. juízo laboral, da competência do r. juízo recuperacional. Pede, assim, o acolhimento do apelo recursal. (fls. 157/171)
+Sem impugnação. (fl. 172)
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA - INCLUSÃO DE COOBRIGADOS NO POLO PASSIVO - COMPETÊNCIA INDISTINTA DA JUSTIÇA COMUM E DA JUSTIÇA DO TRABALHO - DELIBERAÇÃO UNIPESSOAL QUE NAO CONHECEU DO CONFLITO - INSURGÊNCIA DA AGRAVANTE.
+1. A Justiça do Trabalho, no âmbito da legislação específica, possui competência para desconsiderar a personalidade jurídica, declarar a existência de grupo econômico e redirecionar a execução em face dos sócios não abrangidos pelos efeitos da recuperação judicial. Hipótese dos autos. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+A insurgência não merece prosperar.
+1. Isso porque, consoante destacado na oportunidade do exame unipessoal da questão, nos termos da jurisprudência desta Corte, a Justiça do Trabalho, no âmbito da legislação específica, possui competência para desconsiderar a personalidade jurídica, declarar a existência de grupo econômico e redirecionar a execução em face dos sócios não abrangidos pelos efeitos da falência.
+Nessa linha, confiram-se: AgInt no CC 160.384/SP, Relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 23/10/2019, D Je 30/10/2019; AgInt no CC 168.501/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 16/06/2020, D Je 22/06/2020.
+Confira-se, a propósito, a elucidativa ementa:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO TRABALHISTA. INCLUSÃO DE COOBRIGADOS NO POLO PASSIVO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. COMPETÊNCIA INDISTINTA DA JUSTIÇA COMUM E DA JUSTIÇA DO TRABALHO. AUSÊNCIA DE INVASÃO DE ATRIBUIÇÕES JUDICIAIS. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da iterativa jurisprudência desta Corte, a Justiça do Trabalho tem competência para decidir acerca da desconsideração da personalidade jurídica da sociedade em recuperação judicial, bem como para, em consequência, incluir coobrigado no polo passivo da execução, pois tal mister não é atribuído com exclusividade a um determinado Juízo ou ramo da Justiça.
+2. Nesses casos, de redirecionamento da execução para coobrigados, a jurisprudência desta egrégia Corte firmou o entendimento de não reconhecer a existência de conflito de competência, porquanto não há dois juízes decidindo acerca do destino do mesmo patrimônio.
+3. Incidência da Súmula 480 desta Corte: "O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa."
+4. Agravo interno desprovido.
+AgInt no CC n. 188.933/SP, Rel. Ministro Raul Araújo, Segunda Seção, julgado em 14/2/2023, D Je de 6/3/2023.
+E ainda: AgInt nos E Dcl no CC n. 172.193/MT, Rel. Min. Maria Isabel Gallotti, Segunda Seção, julgado em 30/3/2021, D Je de 14/4/2021; AgInt no CC n. 188.994/SP, Rel. Min. Marco Buzzi, Segunda Seção, julgado em 29/11/2022, D Je de 2/12/2022; CC 204193 /SP, Rel. Min. Marco Aurélio Bellizze, D Je de 16/4/2024, dentre inúmeros outros julgados.
+Na espécie, em cotejo com os documentos acostados aos autos (fls. 1/132), não se identifica - além da argumentação da suscitante - tenha o r. juízo recuperacional autorizado a extensão dos efeitos da recuperação judicial em favor do sócio, de modo que, nessa circunstância, é de se constatar que a tese aventada pela suscitante vai de encontro à jurisprudência desta Corte de Justiça sobre o tema, porquanto o comando da Súmula 480/STJ traduz compreensão segundo a qual "o juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa."
+Efetivamente, as decisões exarada pela Justiça do Trabalho objetivam atingir o sócio (fls. 25/26 e 128/129), cujo patrimônio, ressalta-se, não está abarcado pelo plano de reorganização da empresa recuperanda, sendo inviável, portanto, concluir pela existência de dois juízos decidindo sobre o destino do mesmo patrimônio, e, em consequência, que esteja configurada a hipótese de conflito de competência.
+Nesse sentido, vejam-se "não caracteriza conflito de competência a determinação feita pelo Juízo do Trabalho de instauração de incidente de desconsideração da personalidade jurídica da empresa em recuperação judicial ou falida, direcionando os atos de execução provisória para os sócios da suscitante. Isso porque, em princípio, salvo decisão do Juízo universal em sentido contrário, os bens dos sócios ou de outras sociedades do mesmo grupo econômico da devedora não estão sujeitos à recuperação judicial ou à falência" (ut. AgInt nos EDcl no CC n. 172.193/MT, Rel. Min. Maria Isabel Gallotti, Segunda Seção, julgado em 30/3/2021, DJe de 14/4/2021).
+E ainda: AgInt no CC n. 183.377/SP, Rel. Min. Nancy Andrighi, Segunda Seção, DJe de 9/12/2021; AgInt no REsp n. 1.883.886/SP, Desta Relatoria, Quarta Turma, DJe de 14/10/2021;AgInt no CC n. 144.387/SP, Rel. Min. Antonio Carlos Ferreira, Segunda Seção, DJe de 20/5/2019.
+2. Do exposto, nega-se provimento ao agravo interno.
+É o voto.
