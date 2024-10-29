@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ODILSON CAPRINI JÚNIOR, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada, pela suposta prática do delito de tráfico de drogas. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, em acórdão (fls. 120-128).
+No presente writ, a Defesa alega, em linhas gerais, a existência de constrangimento ilegal consubstanciado na ausência de fundamentação para a prisão preventiva do Paciente.
+Requer a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 131-132
+Informações prestadas, às fls. 138-143 e 144-209. O Ministério Público Federal, às fls. 213-215, manifestou-se pelo não conhecimento do writ, em parecer que restou assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PENAL. AUSÊNCIA DE ILEGALIDADE MANIFESTA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. PRESSUPOSTOS DA PRISÃO BEM DELINEADOS NOS AUTOS. PLEITOS QUE DEMANDAM REEXAME DO ARCABOUÇO FÁTICO- PROBATÓRIO. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS" (fls. 213).
+É o relatório. DECIDO.
+In casu, a prisão preventiva do Paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta supostamente perpetrada, não se olvidando o risco de reiteração criminosa.
+No ponto, consta no acórdão hostilizado:
+"A Magistrada a quo demonstrou a necessidade de salvaguardar a ordem pública, haja vista a gravidade concreta dos delitos e a periculosidade do paciente, evidenciadas especialmente pela reincidência específica e pelo fato de ter supostamente cometido a nova infração penal durante o cumprimento de pena privativa de liberdade.
+Denota-se que, além de apreendidos quase 340 kg (trezentos e quarenta quilos)de maconha, que teriam sido transportados e mantidos em depósito pelo grupo criminoso, o paciente já foi condenado de forma definitiva por infração aos arts. 33, caput, c/c o art. 40,ambos da Lei n. 11.343/06 e 306 da Lei n. 9.503/97, como também ainda resgatava a sanção imposta (Evento 3, CERTANTCRIM1, 6-7, e Evento 10, CERTANTCRIM2, ambos dos autos originários)" (fl. 126).
+Tais circunstâncias demonstram um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo" (AgRg no HC n. 710.123/MG, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 15/8/2022, grifei).
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+"Prisão preventiva. Fundamentação idônea. As instâncias originárias destacaram a necessidade da medida extrema para fins de garantia da ordem pública, em decorrência (i) da quantidade de substâncias entorpecente apreendida - 277 gramas de maconha e 7,9 gramas de crack durante cumprimento de mandado de busca e apreensão na residência do agravante; e (ii) a reiteração do agente na prática delitiva (maus antecedentes e outras passagens criminais), motivação considerada idônea para justificar a prisão cautelar, nos termos do art. 312 do Código de Processo Penal" (AgRg no HC n. 863.384/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 12/12/2023).
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
