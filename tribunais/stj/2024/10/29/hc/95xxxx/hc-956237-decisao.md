@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS VANUITE DA COSTA SANTOS, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva, pela prática, em tese, dos crimes de tráfico de drogas e associação para o tráfico de drogas.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, em acórdão (fls. 11-18), assim ementado:
+Habeas Corpus. Tráfico de drogas e associação para o tráfico. Pedido de revogação da prisão preventiva. Questão já analisada em impetração anterior julgada por esta C. Câmara Criminal. Alegação de excesso de prazo para formação da culpa. Rejeição. Ausência de desídia na condução do feito. Marcha processual que segue regularmente. Testemunhas inquiridas e interrogatórios realizados. Instauração de incidente de exame toxicológico requerido pela defesa. Perícia designada. Constrangimento ilegal não evidenciado. Ordem denegada. (fl. 12)
+Neste writ, a Defesa alega, em linhas gerais, a existência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do paciente, apontando ausência de fundamentação à manutenção da prisão preventiva, em especial o excesso de prazo da segregação cautelar.
+Requer a concessão da ordem liminarmente, e, no mérito, por conseguinte, a revogação da prisão preventiva do paciente, subsidiariamente, a imposição de medidas cautelares diversas da prisão.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva decretada em desfavor do paciente se encontra devidamente fundamentada, em dados concretos extraídos dos autos, para a garantia da ordem pública, diante da gravidade concreta da conduta, e, com andamento regular da instrução processual.
+No ponto, consta no acórdão hostilizado do Tribunal de origem:
+ ..  Alegação de excesso de prazo para formação da culpa. Rejeição. Ausência de desídia na condução do feito. Marcha processual que segue regularmente. Testemunhas inquiridas e interrogatórios realizados. Instauração de incidente de exame toxicológico requerido pela defesa. Perícia designada. Constrangimento ilegal não evidenciado.
+ ..  O alegado atraso não pode ser imputado ao Juiz do processo ou, até mesmo, ao ilustre representante do Ministério Público, não havendo, portanto, como se reconhecer o excesso de prazo alegado pelo impetrante. A demora no julgamento está justificada, ademais, pelo normal prosseguimento dos atos processuais, em face das peculiaridades da lide, pois não há como se determinar um prazo certo e definido para todos os casos.  ..  (fls. 12;16)
+No que tange ao excesso de prazo aventado, deve se ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+Na hipótese, em que pese a Defesa alegar excesso de prazo, não verifico a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado, levando em consideração as particularidades da causa, não se evidenciado a existência de desídia atribuível ao Poder Judiciário.
+Nesse sentido:
+ ..  In casu, verifica-se que não se constata flagrante ilegalidade por excesso de prazo na formação da culpa quando o processo segue regular tramitação. Extrai-se das informações prestadas pelas instâncias ordinárias, bem como do andamento processual da ação originária no site do Tribunal estadual, que a insatisfação da agravante com a relativa delonga na conclusão do feito não pode ser atribuída ao Juízo, mas às suas peculiaridades, considerando a complexidade do processo, no qual se apura a prática dos delitos de tráfico de drogas, associação ao tráfico de entorpecentes e posse de arma de fogo, com pluralidade réus - 4 -, representados por advogados distintos, demandando a realização de diversas diligências.  ..  (AgRg no RHC n. 174.284/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 18/5/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a custódia cautelar.
+Demais disso:
+"É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do réu" (AgRg no HC 619.400/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/04/2021, DJe 30/04/2021).
+Ante o exposto, denego a ordem em habeas corpus.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
