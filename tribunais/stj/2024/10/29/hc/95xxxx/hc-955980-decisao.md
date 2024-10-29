@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de MATEUS DE OLIVEIRA DOS SANTOS - preso preventivamente pela prática, em tese, do crime de tráfico de drogas -, em que se apo nta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Processo n. 1500987-86.2024.8.26.0594), não comporta processamento.
+Busca a impetração a revogação da segregação cautelar imposta ao paciente pelo Juízo da Vara de Plantão da comarca de Bauru/SP, ao argumento de que a prisão decorre de argumentos genéricos e inerentes ao tipo penal.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra fundamentada no fato de que se trata de tráfico interestadual com apreensão de grande quantidade de entorpecentes.
+In casu, como consta do acórdão recorrido, MATEUS DE OLIVEIRA DOS SANTOS, agindo em concurso e com unidade de desígnios com THAISA MICHELLY SILVA DE LIMA, supostamente, transportavam, para fins de disseminação entre Estados da Federação, 303 porções pesando 298340 g de Cannabis Sativa L, vulgarmente conhecida como maconha, 59 porções pesando 26280 g de Cannabis Sativa L, vulgarmente conhecida como maconha e 44 porções, pesando 8240 g de Cannabis Sativa L, vulgarmente conhecida como maconha, sem autorização e em desacordo com determinação legal ou regulamentar (fls. 16/17 - grifo nosso).
+O entendimento das instâncias ordinárias de que é legítima a prisão cautelar em questão está em consonância com a firme jurisprudência do Superior Tribunal de Justiça. A propósito, a jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024).
+E, ainda: AgRg no HC n. 908.734/MT, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/6/2024; e AgRg no RHC n. 160.743/MG, Ministro João Otávio de Noronha, Quinta Turma, DJe 20/5/2022.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DE DROGA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
