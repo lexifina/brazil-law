@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo regimental interposto por FERNANDO FLORIANO contra a decisão que denegou a ordem no habeas corpus, com a recomendação de harmonização do cumprimento do mandado em relação ao regime inicial (fls. 388-393).
+Consta dos autos que o agravante foi, ao fim, condenado apenas pela prática do crime do art. 313-A do CP, às penas de 4 anos e 8 meses de reclusão, em regime inicial semiaberto.
+Nas razões do presente agravo, a defesa repisa fundamentos expendidos no writ denegado, sustentando a ocorrência de constrangimento ilegal.
+Alega que "A posição do Supremo Tribunal Federal e desta E. Superior Corte, é que a expedição da guia de recolhimento e seu encaminhamento ao juízo de execução não podem ser condicionados à prévia prisão do paciente, de forma que apenas após a expedição da guia de recolhimento inicia-se a competência do juízo de execução, concluindo, assim, que não será possível a apreciação dos pedidos executórios até que a referida guia chegue ao conhecimento da autoridade competente" (fl. 407).
+Informa a existência de parecer favorável do MPF nos autos.
+Requer, ao final, a reconsideração da decisão monocrática ou que o presente agravo seja conhecido e provido.
+O Ministério Público Federal se manifestou favorável à concessão da ordem, às fls. 379-383 e 435.
+É o relatório. DECIDO.
+Conforme consta, o caso vertente trata de pleito para obstar o cumprimento de mandado de prisão, arrimado apenas na obrigatoriedade da sua expedição para a confecção da guia de execução definitiva.
+No caso concreto, verifico que há constrangimento ilegal, uma vez que o agravante foi condenado ao cumprimento de pena no regime inicial semiaberto, tendo sido expedido, entretanto, um mandado de prisão.
+Registro que a jurisprudência do Superior Tribunal de Justiça, ao interpretar o art. 674 do Código de Processo Penal e o art. 105, da Lei de Execução Penal, entende que, em regra, uma vez operado o trânsito em julgado, necessária é a prisão para a expedição da guia de execução (AgRg no RHC 157065/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 6/3/2022).
+A regra do art. 6 74 do Código de Processo Penal e do art. 105, da Lei de Execução Penal, contudo, comporta temperamentos, à luz do art. 5º, XXXV, da Constituição Federal, nas hipóteses em que verificado que o condenado tem direito a benefícios que impactam a situação da execução e a tornam mais branda, não se mostrando razoável exigir o sacrifício da liberdade.
+Na mesma linha, o Conselho Nacional de Justiça, em 9/9/2022, aprovou a Resolução n. 474, que alterou o art. 23 da Resolução n. 417, prevendo a possibilidade da intimação da pessoa condenada, nos casos em que estabelecidos os regimes semiaberto ou aberto, previamente à expedição de mandado de prisão.
+Anoto que a jurisprudência desta Corte também passou a adotar o posicionamento no sentido de que, para os condenados ao regime aberto ou semiaberto, deverá ser expedida intimação para cumprimento da pena, não havendo necessidade de recolhimento do apenado em regime mais severo enquanto a guia de execução definitiva é elaborada (AgRg no HC 796267/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/4/2023).
+In verbis:
+"O Conselho Nacional de Justiça estabeleceu que, uma vez transitada em julgado a condenação em regime semiaberto ou aberto, o sentenciado será intimado para recolhimento espontâneo, previamente à expedição de mandado de prisão, sem prejuízo, em caso de falta de vagas, da observância das providências estabelecidas no RE 641.320/RS. Ao interpretar a Resolução n. 417/2021 do CNJ, o julgador precisa ter cuidado para não criar brechas que possibilitem resistência à execução. Em hipótese de apenado em local incerto, será necessária a determinação da prisão (conforme o art. 674 do CPP e o art. 105 da LEP) para evitar a prescrição e garantir a efetividade da sentença" (AgRg no HC n. 890.182/ES, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024).
+Corroborando: as decisões monocráticas, ambas de minha relatoria, de 2/7/2024, no HC n. 924.908/SP, e de 7/8/2024, no HC n. 934.316/SP.
+Ante o exposto, em sede de reconsideração em recurso de agravo regimental, concedo a ordem de habeas corpus, de ofício, para determinar o recolhimento do mandado de prisão expedido para o início de cumprimento de pena em regime diverso do fechado, determinando, ainda, ao juízo da execução, que proceda à intimação prévia do apenado para o referido cumprimento e que analise, em primeiro momento, os pedidos da defesa na execução penal.
+Intime-se a origem, com urgência , para o cumprimento.
+Cientifique-se o MPF desta decisão.
+Publique-se. Intime-se.
+ EMENTA
