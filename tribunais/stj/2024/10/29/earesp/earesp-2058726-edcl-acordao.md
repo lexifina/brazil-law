@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 23/10/2024 a 29/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL - DISSÍDIO JURISPRUDENCIAL - DEMONSTRAÇÃO - AUSÊNCIA - INVIABILIDADE DOS EMBARGOS DE DIVERGÊNCIA - INSURGÊNCIA DOS EMBARGANTES.
+1. Os embargos de declaração são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se vislumbra na hipótese em tela.
+1.1. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+2. É uníssono o entendimento no sentido de ser inviável o exame de possível ofensa a dispositivo constitucional, ainda que para fins de prequestionamento nesta Corte, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de embargos de declaração opostos por EDSON MISSAGIA SERRÃO e BRUNELLA RANGEL SERRÃO contra acórdão da lavra deste signatário, assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAO EM RECURSO ESPECIAL - COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL - AUSÊNCIA - DELIBERAÇÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AOS EMBARGOS DE DIVERGÊNCIA - INSURGÊNCIA DOS AGRAVANTES.
+1. Nos termos dos artigos 255 e 266 do Regimento Interno desta Corte, a comprovação do dissídio jurisprudencial, autorizador do manejo dos embargos de divergência, reclama, entre outros requisitos, a juntada das certidões ou cópias autenticadas dos acórdãos apontados como paradigmas (permitida a declaração de autenticidade do próprio advogado, sob sua responsabilidade pessoal) ou a citação de repositório oficial, autorizado ou credenciado, em que os mesmos se achem publicados. Precedentes: AgRg nos ER Esp 1.366.025/PA, Rel. Ministra Nancy Andrighi, Corte Especial, julgado em 16.09.2013, D Je 23.09.2013; AgRg nos EAR Esp 83.188/PR, Rel. Ministro Gilson Dipp, Corte Especial, julgado em 01.07.2013, D Je 01.08.2013.
+1.1. Não se tratando de hipótese de dissídio notório, revela-se inviável a mitigação dos requisitos formais de admissibilidade alusivos aos embargos de divergência. Precedentes.
+2. Agravo interno desprovido.
+Os embargantes sustentam que o decisum embargado foi omisso, pois "(..) em nenhum momento houve a necessária análise nem consideração em relação à legislação federal aplicável à espécie, quais sejam: os artigos 932, parágrafo único, e 1.029, § 3º, do Código de Processo Civil, por tudo e em tudo cabíveis, suscitados e evocados pelos ora Embargantes ao longo das suas razões recursais do Agravo Interno às e-STJ Fls. 2979/2987, conforme releva o disposto no item 12 (e-STJ Fl. 2984), além de outros tantos". Afirmam que "(..) o v. acórdão objurgado acabou desconsiderando o disposto nos artigos 5º, inciso II, 22, inciso I, 96, inciso I, alínea "a", e 105, inciso III, alínea "a", todos da Constituição Federal, preceitos que revelam a necessidade da predominância da legislação federal.". Também sustentam que o acórdão atacado foi omisso quanto "(..) à precisa indicação do r. aresto paradigma" e ao dissídio notório. Requerem, assim, o acolhimento dos embargos, sanando a omissão apontada (fls. 3118-3128).
+Impugnações apresentadas às fls. 3145-3160 e 3177-3184.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL - DISSÍDIO JURISPRUDENCIAL - DEMONSTRAÇÃO - AUSÊNCIA - INVIABILIDADE DOS EMBARGOS DE DIVERGÊNCIA - INSURGÊNCIA DOS EMBARGANTES.
+1. Os embargos de declaração são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se vislumbra na hipótese em tela.
+1.1. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+2. É uníssono o entendimento no sentido de ser inviável o exame de possível ofensa a dispositivo constitucional, ainda que para fins de prequestionamento nesta Corte, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Os aclaratórios não merecem acolhimento.
+1. Nos estreitos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o apelo recursal em epígrafe objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende o ora embargante.
+Nesse sentido, registram-se os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO NO RECURSO ESPECIAL. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC QUE NÃO SE VERIFICA. PENHORA DE COTAS SOCIAIS. IMPOSSIBILIDADE. REEXAME DE PROVAS. NECESSIDADE. INCIDE A SÚMULA Nº 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os embargos de declaração somente são cabíveis quando houver no julgado omissão, contradição ou obscuridade, nos termos do art. 535 do CPC, o que não se observa no caso dos autos, pois houve manifestação suficiente pelo Tribunal de origem, acerca da matéria recorrida, ainda que em sentido contrário à pretensão do recorrente.
+ ..
+3. Agravo regimental não provido.
+AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015.
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS REJEITADOS. MULTA.
+1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a insistente oposição de embargos declaratórios aduzindo as mesmas questões.
+3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado.
+EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+No caso em liça, as razões dos presentes embargos revelam tão somente o intuito de reapreciação da causa e a insatisfação dos insurgentes com o resultado do julgado, o que não se admite com a objetividade do recurso manejado.
+Isso porque, o decisum embargado não possui qualquer vício a ser sanado pela via dos aclaratórios, uma vez que esta eg. Segunda Seção, ao examinar a controvérsia, por unanimidade de votos, de maneira fundamentada, se posicionou pela inadmissibilidade dos embargos de divergência em razão do não atendimento aos requisitos previstos nos arts. 255 e 265 do RISTJ, no caso, os embargantes não procederam à juntada do inteiro teor dos acórdãos apontados como paradigmas.
+Na oportunidade, foram citados os seguintes precedentes: AgInt nos EDv nos EAREsp 1632769/SP, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 13/10/2021, DJe 18/10/2021; AgInt nos EAREsp 1632618/PR, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 01/09/2021, D Je 13/09/2021; AgRg nos ER Esp 1.366.025/PA, Rel. Ministra Nancy Andrighi, Corte Especial, julgado em 16.09.2013, D Je 23.09.2013; AgRg nos EAR Esp 83.188/PR, Rel. Ministro Gilson Dipp, Corte Especial, julgado em 01.07.2013, D Je 01.08.2013.
+Ressaltou-se, também, que mesmo na hipótese de dissídio notório, revela-se inviável a mitigação dos requisitos formais de admissibilidade dos embargos de divergência, à luz dos seguintes precedentes ilustrativos: AgInt nos EREsp n. 1.832.508/SP, Desta Relatoria , Segunda Seção, julgado em 29/6/2021, D Je de 1/7/2021; AgRg nos E Ag 1.360.564/MG, Rel. Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 27.02.2013, D Je 05.03.2013; AgRg nos ER Esp 640.527/PE, Rel. Ministro Francisco Falcão, Primeira Seção, julgado em 12.11.2008, D Je 24.11.2008; e AgRg nos ER Esp 439.418/SP, Rel. Ministro Massami Uyeda, Segunda Seção, julgado em 28.05.2008, D Je 09.06.2008.
+2. Ademais, é assente o entendimento nesta Corte de que "Não cabe ao STJ manifestar-se sobre tema constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do STF." (EDcl no AgInt nos EREsp n. 1.844.716/AM, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 11/6/2024, DJe de 14/6/2024.)
+Desse modo, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/2015 na decisão hostilizada, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, o que resta vedado na estreita via recursal sob foco.
+3. Do exposto, rejeito os embargos de declaração.
+É o voto.
