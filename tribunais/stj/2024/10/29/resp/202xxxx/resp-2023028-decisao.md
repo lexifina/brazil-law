@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICIPIO DE NITEROI, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fl. 57):
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. RESTAURAÇÃO E PRESERVAÇÃO DE PRÉDIO TOMBADO. CINEMA ICARAÍ. PATRIMÔNIO HISTÓRICO E CULTURAL. CESSÃO DE USO DO IMÓVEL PELA UFF PARA O MUNICÍPIO DE NITERÓI. INCLUSÃO DO MUNICÍPIO DE NITERÓI NO POLO PASSIVO DA DEMANDA. ART. 1.015 DO CPC. RECURSO NÃO CONHECIDO.
+1. Agravo de instrumento interposto em face de decisão, proferida nos autos da ação civil pública nº 0118796-79.2017.4.02.5102/RJ, que deferiu o pedido de inclusão do Município de Niterói no polo passivo da demanda, ao argumento de ofensa ao princípio da não surpresa. A inclusão foi deferida em razão de tal ente público ter assumido a gestão e a responsabilidade direta da realização das obras de restauração do imóvel, assinalando-se a cessão de uso deste imóvel (pela UFF a favor do Município de Niterói) e a apresentação de cronograma para sua revitalização.
+2 . In casu, a questão abordada na decisão recorrida não se subsume a nenhuma das hipóteses previstas pelo art. 1.015 do Código de Processo Civil, não podendo a mesma ser impugnada em sede de recurso de agravo de instrumento, devendo, caso queira a parte, debater a ilegitimidade passiva ad causam em preliminar de contestação (art. 337, XII, do CPC) ou reiterada, se for o caso, em razões de apelação ou em contrarrazões de apelação, nos termos do preconizado pelo artigo 1.009, § 1º, do CPC.
+3. Inexistência de urgência a autorizar a interposição de agravo de instrumento na hipótese dos autos, não se aplicando o Tema 988 do STJ correspondente ao repetitivo REsp nº 1.696.396/MT, que decidiu que o rol do artigo 1.015 do CPC é de taxatividade mitigada, admitindo a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+4. Não há que se falar em ofensa ao princípio da não surpresa em relação à decisão que defere a inclusão de réu em polo passivo da demanda em razão de cessão realizada no decorrer do processo.
+5. Agravo de instrumento não conhecido.
+Não foram opostos embargos de declaração.
+Em suas razões recursais, a parte recorrente alega violação aos arts. 6º, 9º, 10, 130 e 339 do Código de Processo Civil (CPC) ao argumento de que sua inclusão no polo passivo da demanda foi feita sem que pudesse se manifestar sobre o assunto.
+Ao final, requer o seguinte (fl. 77):
+ ..  anulação/reforma do v. acórdão recorrido que não conheceu do agravo e manteve a inclusão de modo unilateral do Município de Niterói como réu na ação, em violação ao primados basilares do direito processual civil - contraditório, ampla defesa e ao princípio da não surpresa-, bem como por inadequação ao rito e momento processual de inclusão sobremaneira intempestiva de réus em demanda judicial.
+A parte adversa apresentou contrarrazões (fls. 90/95).
+O recurso foi admitido na origem (fls. 102/103).
+É o relatório.
+Na origem, trata-se de agravo de instrumento interposto pela parte ora recorrente da decisão proferida nos autos de ação civil pública em que foi deferido o pedido de sua inclusão no polo passivo da demanda.
+Ao se pronunciar sobre a controvérsia, o Tribunal de origem decidiu o que segue (fl. 56):
+Destaque-se, contudo, que o Superior Tribunal de Justiça, no Tema 988, ao julgar o repetitivo REsp nº 1.696.396/MT, decidiu que o rol do artigo 1.015 do CPC é de taxatividade mitigada, admitindo, por isso, a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+No caso concreto, não se vislumbra a urgência a autorizar a interposição de agravo de instrumento. Como visto, pela leitura dos autos principais, conclui-se que a decisão agravada incluiu o agravante como réu na lide e determinou sua citação, em razão da cessão do imóvel a seu favor. E, como já salientado, se necessário, o tema da ilegitimidade passiva ad causam pode ser debatido, sem grande prejuízo, em contestação, conforme art. 337, XII, do CPC, ou em razões de eventual apelação ou em contrarrazões de apelação, nos termos do art. 1.009, § 1º, do CPC.
+Na peça recursal, todavia, a parte recorrente não se insurge contra aqueles fundamentos, limitando-se a afirmar, em síntese, que a decisão que admitiu sua inclusão do polo passivo na demanda feriu os princípios do contraditório, da ampla defesa e da não surpresa.
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
