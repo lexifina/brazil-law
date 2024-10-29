@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de AILTON OLIVEIRA DA SILVA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva, pela prática, em tese, do delito previsto pelo artigo 157, § 2º-A, inciso I, c/ artigo 61, inciso II, alínea "h", e no artigo 121, § 2º, incisos V e VII, na forma do artigo 14, inciso II, todos do Código Penal; foi pronunciado e opôs embargos de declaração, que foram rejeitados; interpôs recurso em sentido estrito, que fora negado provimento, em acórdão assim ementado:
+"Recurso em Sentido Estrito -Homicídio qualificado tentado e roubo majorado -Materialidade delitiva comprovada- Indícios de autoria presentes nos depoimentos colhidos- Manutenção da pronúncia nos seus exatos termos- Decisão que configura juízo de admissibilidade da acusação e que apenas submete o caso à apreciação de seu Juiz Natural, que é o Tribunal do Júri, a fim de que profira julgamento com a soberania que lhe atribuia Constituição da República Recurso desprovido." (fl. 18)
+Na hipótese, alega constrangimento ilegal e falta de fundamentação idônea à manutenção da segregação cautelar.
+Requer a concessão da ordem liminarmente e, no mérito, por conseguinte, a revogação da prisão preventiva, ademais, que seja impronunciado com relação ao crime de tentativa de homicídio.
+Liminar indeferida, às fls. 76-77. Informações prestadas, às fls. 83-98 e 99-103.
+O Ministério Público Federal, às fls. 105-109, em parecer, manifestou-se pelo não conhecimento do writ, assim sumariado:
+"HABEAS CORPUS. ARTIGO 157, § 2º-A, INCISO I, C/C ARTIGO 61, INCISO II, ALÍNEA "H", E NO ARTIGO 121, § 2º, INCISOS V E VII, NA FORMA DO ARTIGO 14, INCISO II, TODOS DO CP. PRISÃO PREVENTIVA MANTIDA NA PRONÚNCIA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. NÃO CONHECIMENTO DO WRIT." (fl. 105)
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta.
+No ponto, consta no acórdão hostilizado:
+" ..  Interpelado em juízo, o réu admitiu ter praticado o delito de roubo, bem como ter atirado, porém negou a intenção de matar a vítima. Afirmou ter atirado duas ou três vezes enquanto corria, porém, sem mirar no policial, que caiu da moto. Não tinha a intenção de matá-lo, eis que teve a oportunidade quando ele estava caído ao solo. Devia dinheiro para um agiota e cometeu o roubo para pagá-lo; ele lhe emprestou a arma. Era comerciante e possuía uma loja de roupa no centro de São Paulo, porém o negócio quebrou na pandemia. Pegou dinheiro emprestado no banco, mas o agiota passou a ameaçar a família, sugerindo que ele roubasse um carro. Durante o assalto, não amedrontou a vítima e nem a ameaçou; buscou o bem-estar dela (cf. depoimentos insertos nos autos digitais).  .. " (fl. 20)
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 24/04/2019).
+"a manutenção da custódia cautelar no momento da sentença de pronúncia, nos casos em que o Acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente o entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do Código de Processo Penal" (AgRg no HC n. 775.947/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/12/2022, D Je de 15/12/2022).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Nesse sent ido:
+"É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do réu" (AgRg no HC 619.400/SP, Rel. Ministro RIBEIRO DANTAS, QUINT A TURMA, julgado em 27/04/2021, DJe 30/04/2021).
+Ante o exposto, denego a ordem em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
