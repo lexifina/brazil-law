@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela FAZENDA NACIONAL contra a decisão de fls. 243-245, em que neguei provimento ao recurso especial. O decisum foi assim ementado (fl. 243):
+RECURSO ESPECIAL. DIREITO TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. DEDUÇÃO DO LUCRO TRIBUTÁVEL. ILEGALIDADE DE ATO REGULAMENTAR QUE IMPÕE LIMITAÇÃO NÃO CONTEMPLADA EM LEI. RECURSO DESPROVIDO.
+No presente recurso integrativo, a parte embargante alega omissão na decisão. Argumenta que, no caso:
+ ..  não foram examinadas as alegações da União quanto a aplicação do art. 186, do Decreto 10.854/2021, que deu nova redação ao § 1º, do art. 645 do Regulamento do Imposto de Renda (Decreto 9.580/2018), determinando que o incentivo fiscal de dedução das despesas relativas ao Programa de Alimentação do Trabalhador - PAT do IRPJ será aplicável apenas em relação aos valores despendidos para os trabalhadores que recebam até cinco salários mínimos (fl. 249).
+A parte embargada apresentou impugnação às fls. 253-254.
+É o relatório.
+Decido.
+Nos termos do comando normativo insculpido no art. 1.022 do CPC/2015, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no decisum ora embargado.
+No decisum, consignou-se o seguinte (fls. 244-245):
+ A s Turmas de Direito Público do Superior Tribunal de Justiça adotaram o entendimento de que o incentivo fiscal - desconto em dobro das despesas com o PAT - deve ser calculado sobre o lucro da empresa, chegando-se, assim, ao lucro real sobre o qual incide o adicional do imposto de renda, previsto no art. 3º, § 4º, da Lei n. 9.249/1995. Assim, as deduções realizadas no momento da apuração do lucro real não interferem na integralidade do adicional, apresentando-se ilegais atos regulamentares que impõem limitações não contempladas em lei.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. ILEGALIDADE DO ART. 645, § 1º, I E II, DO DECRETO N. 9.580/2018. ART. 1º DA LEI N. 6.321/76. FORMA DE CÁLCULO. DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA E NÃO SOBRE O IMPOSTO DE RENDA DEVIDO, O QUE REFLETE NO CÁLCULO DO ADICIONAL DO IMPOSTO DE RENDA, AFASTANDO A VEDAÇÃO CONSTANTE DO ART. 3º, § 4º, DA LEI N. 9.249/95. LIMITAÇÃO DA DOBRA A 4% DO IMPOSTO DE RENDA DEVIDO E NÃO A 4% DO LUCRO TRIBUTÁVEL.
+1. O art. 186 do Decreto nº 10.854, de 2021, ao restringir a dedução do PAT a valores pagos a título de alimentação para os trabalhadores que recebam até cinco salários-mínimos, limitada a dedução ao valor de, no máximo, um salário-mínimo, incorreu em ilegalidade. Precedente.
+2. Os benefícios instituídos pelas Leis 6.297/75 e 6.321/76 aplicam-se ao adicional do imposto de renda, devendo, primeiramente, proceder-se à dedução sobre o lucro da empresa, resultando no lucro real, sobre o qual deverá ser calculado o adicional. Precedentes.
+3. Contudo, se o artigo 1.º da Lei nº 6.321/76 é claro no sentido de que a dedução do PAT recai sobre o lucro tributável (não tendo sido revogado no ponto pela legislação posterior, pois a Lei n. 9.532/97 tratou apenas dos limites e não da base de cálculo do benefício), os arts. 5º e 6º, I, da Lei n. 9.532/97 são claros no sentido de que o limite da dedução recai sobre o imposto de renda devido. São duas coisas distintas: o cálculo do benefício (lucro tributável) e o limite do benefício (imposto de renda devido). Precedente.
+4. Recurso especial não provido. (REsp n. 2.093.548/SC, relator Ministro Mauro Campbell Marques, DJe 10/11/2023.)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR-PAT. FORMA DE CÁLCULO: DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O entendimento do Superior Tribunal de Justiça é de que benefício fiscal instituído pelo art. 1º da Lei 6.321/1976, consubstanciado no desconto em dobro das despesas comprovadamente realizadas com o Programa de Alimentação do Trabalhador-PAT, deve se dar sobre o lucro tributável da pessoa jurídica, resultando, assim, no lucro real, sobre o qual deverá recair o adicional do imposto de renda, de modo que as deduções realizadas no momento da apuração do lucro real não interferem na integralidade prevista no § 4º do art. 3º da Lei 9.249/1995. Precedentes.
+2. Agravo interno da FAZENDA NACIONAL a que se nega provimento. (AgInt no REsp n. 1.801.706/SC, relator Ministro Paulo Sérgio Domingues, DJe 11/5/2023.)
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Como se vê, a decisão embargada deixou assentado, de forma expressa, e sem a omissão suscitada, que as deduções realizadas no momento da apuração do lucro real não interferem na integralidade do adicional, apresentando-se ilegais atos regulamentares que impõem limitações não contempladas em lei.
+Ressalto que a intenção de rediscutir questões que já foram objeto do devido exame, porque representa mera contrariedade com a conc lusão da lide, é incabível na via dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. ALEGADA OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS DECLARATÓRIOS REJEITADOS.
