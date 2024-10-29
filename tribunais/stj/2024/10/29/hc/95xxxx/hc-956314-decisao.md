@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso ordinário, impetrado em benefício de MARLON DIEGO GIMENES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Narra a defesa que o paciente teve a prisão preventiva decretada, em sede de recurso em sentido estrito, pela suposta prática do crime de roubo.
+No presente recurso, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação da decisão que decretou a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Aduz, ainda, que não há contemporaneidade entre os fatos e a segregação cautelar.
+Requer, ao final, a revogação da prisão preventiva.
+É o relatório. DECIDO.
+A análise do acórdão recorrido permite a conclusão de que a prisão cautelar imposta ao paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão do fundado receio de reiteração delitiva pois o paciente ostenta diversos registros criminais, circunstâncias que indicam a periculosidade concreta do agente e revelam a indispensabilidade da imposição da segregação cautelar.
+Conforme pacífica jurisprudência desta Corte:
+"O decreto preventivo está suficientemente motivado na garantia da ordem pública, haja vista a reiterada conduta delitiva do agente, eis que o recorrente é reincidente além de ter outro processo em curso em seu desfavor. Assim, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/10/2019, DJe 14/10/2019)" (AgRg no RHC n. 177.007/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.)
+Conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  AgRg no HC n. 777.490/SP, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 10/3/2023; AgRg no RHC n. 175.527/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/3/2023; AgRg no HC n. 788.374/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2023 e AgRg no HC n. 782.495/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 19/12/2022 .
+Outrossim, ressalte-se que a contemporaneidade da prisão preventiva diz respeito aos motivos ensejadores da prisão e não decurso do tempo da prática do fato ilícito.
+No caso dos autos, conforme o acórdão recorrido, "conquanto a decisão que concedeu a liberdade provisória com a imposição de medidas cautelares diversas da prisão (comparecimento bimestral em Juízo e não alterar o endereço sem prévia comunicação ao Juízo) tenha sido proferida há cerca de 08 (oito) meses, até o presente momento não houve registro do comparecimento em Juízo nos autos de origem" (fl. 12).
+A propósito:
+"A contemporaneidade da prisão preventiva não está relacionada à data dos fatos tidos como delituosos, mas à subsistência da situação de risco que respalda a medida cautelar" (AgRg no HC n. 802.815/RJ, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 15/9/2023).
+"De fato, conforme entendimento jurisprudencial dos Tribunais Superiores, a contemporaneidade da prisão preventiva diz respeito aos motivos ensejadores da prisão e não ao momento da prática do fato ilícito" (AgRg no RHC n. 180.111/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 7/6/2023).
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
