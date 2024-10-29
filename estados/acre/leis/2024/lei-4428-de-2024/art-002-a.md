@@ -1,0 +1,1 @@
+Art. 2º-A O exercício dos cargos de Coordenador Estadual de Proteção e Defesa Civil e Diretor Executivo de Proteção e Defesa Civil deve ser considerado, para todos os efeitos, como de efetivo serviço nos postos correspondentes. ( Incluído pela Lei nº 4.514, de 02/01/2025 )
