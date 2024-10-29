@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo manejado por Velloza Advogados Associados desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 1.298):
+TRIBUTÁRIO - EXECUÇÃO FISCAL - HONORÁRIOS ADVOCATÍCIOS - PRINCÍPIO DA CAUSALIDADE - CDA CANCELADAS EM RAZÃO DA PRESCRIÇÃO - CONDENAÇÃO DA EXEQUENTE AO PAGAMENTO DE VERBA HONORÁRIA.
+1. As CDA foram canceladas pelo reconhecimento da prescrição.
+2. Pelo princípio da causalidade, é regular a condenação da Fazenda Nacional ao pagamento de honorários advocatícios, porque deu causa ao indevido ajuizamento da execução fiscal.
+3. Vencida a Fazenda Pública, os honorários advocatícios devem ser fixados consoante a apreciação equitativa do juiz, nos termos do artigo 20, § 4o, do Código de Processo Civil.
+4. No caso concreto, é cabível a redução da verba honorária.
+5. Apelação provida.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.421/1.426).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1.022, II, e 1.025 do CPC e 20, §§3º e 4º, do CPC/73. Sustenta que: (I) a despeito dos embargos de declaração, o Tribunal de origem remanesceu omisso acerca da alegação de que os honorários advocatícios foram arbitrados em patamar abaixo de 1% do valor da causa e (III) os honorários advocatícios foram arbitrados de forma irrisória.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Adiante, o Tribunal de origem estabeleceu a verba honorária em R$ 100.000,00 (cem mil reais), considerando as peculiaridades fáticas do presente feito - execução fiscal extinta em razão do cancelamento da CDA pelo reconhecimento da prescrição, no qual se atribuiu à causa o valor de R$ 129.852.681,45 (cf. fl. 1.422, data da propositura: 25/08/2005), nestes termos (fl. 1.291/1.9292):
+No caso concreto, em 28 de novembro de 2012. a ora apelante noticiou o cancelamento das CDA e requereu a extinção dos embargos (fls. 1.066).
+As execuções foram ajuizadas em 25 de agosto de 2005 (fls. 990 e 996).
+A apelante sustenta que as CDA foram canceladas em decorrência de provimento judicial em ação declaratória, com trânsito em julgado em julho de 2011 (fls. 682).
+No entanto, de acordo com as cópias extraídas do processo administrativo, as CDA foram canceladas pelo reconhecimento da prescrição (fls. 1.108).
+Pelo principio da causalidade, é regular a condenação da Fazenda Nacional ao pagamento de honorários advocatícios, porque deu causa ao indevido ajuizamento da execução fiscal.
+ ..
+No caso concreto, embora o valor da causa seja elevado, não se trata de causa de grande complexidade, posto que a própria exequente noticiou o cancelamento das certidões de dívida ativa e das execuções fiscais. Assim, é cabível a fixação da verba honorária em R$ 100.000,00 (cem mil reais).
+Dessarte, não configurada a excepcionalidade exigida pela jurisprudência desta Corte, não se mostra possível a majoração dos honorários advocatícios pleiteada pela parte ora agravante.
+Com efeito, o art. 20, § 4º, do CPC/73 estabelecia que: "nas causas de pequeno valor, nas de valor inestimável, naquelas em que não houver condenação ou em que for vencida a Fazenda Pública, e nas execuções, embargadas ou não, os honorários serão fixados consoante apreciação eqüitativa do juiz (..)". Nesse passo, ao determinar o valor devido a título de honorários, o julgador levava em conta fatores primordialmente factuais, quais sejam, o grau de zelo profissional, o lugar da prestação do serviço, a natureza da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço (art. 20, § 3º, do CPC/73).
+É de se observar que qualquer juízo sobre a adequada aplicação, pelo acórdão recorrido, dos critérios de equidade, impõe, necessariamente, exame dos fatos e da prova dos autos, o que refoge ao âmbito do recurso especial, atraindo a incidência da Súmula 7/STJ.
+A propósito, confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 20, § 4º, DO CPC. PEDIDO DE SUA MAJORAÇÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Em princípio, descabe ao STJ revisar valores de sucumbência fixados nas instâncias ordinárias, pois eles são arbitrados em consideração àquilo que se desenvolveu no processo e mediante juízo de equidade, circunstâncias que não podem ser reavaliadas nesta Corte, nos termos da Súmula 7/STJ.
+II. Consoante decidido pela Primeira Seção do STJ, tanto nos EAg 438.177/SC (Rel. p/ acórdão Ministro LUIZ FUX, DJU de 17/12/2004), quanto no REsp 1.137.738/SP (Rel. Ministro LUIZ FUX, DJe de 01/02/2010), a revisão do critério adotado, pela Corte de origem, por eqüidade, para a fixação dos honorários de advogado, encontra óbice na Súmula 7/STJ. No mesmo sentido é o entendimento sumulado do Pretório Excelso: "Salvo limite legal, a fixação de honorários de advogado, em complemento da condenação, depende das circunstâncias da causa, não dando lugar a recurso extraordinário" (Súmula 389/STF).
+III. Porém, "a jurisprudência desta Corte, entretanto, sensível a situações em que salta aos olhos a inobservância dos critérios legais para o arbitramento do valor justo, passou a admitir a revisão em sede especial quando se tratar de honorários notoriamente ínfimos ou exagerados, o que se faz considerado cada caso em particular. Assim, saber se os honorários são irrisórios ou exorbitantes requer, necessariamente, a apreciação das peculiaridades de cada caso concreto" (STJ, AgRg nos EAREsp 28.898/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, DJe de 06/02/2014).
+IV. Na hipótese, os honorários de advogado, em favor do ora agravante, foram fixados, pelo Juízo de 1º Grau, em R$ 700,00 (setecentos reais). O Tribunal a quo, por sua vez, atento às circunstâncias a que se refere o § 4º do art. 20 do CPC, manteve o valor da verba honorária, considerando, principalmente, "o grau de zelo do profissional, a natureza da demanda e o tempo exigido para o acompanhamento dos atos processuais e o labor efetivamente empreendido". Dadas as peculiaridades da causa, delineadas no acórdão recorrido, não se mostra irrisória a quantia fixada, em juízo de equidade, a título de honorários advocatícios. Assim, deve ser mantida a decisão agravada, visto que, efetivamente, incide, na espécie, a Súmula 7 do STJ.
+V. Agravo Regimental improvido.
+(AgRg no AREsp 559.964/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 20/8/2015, DJe 3/9/2015)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
