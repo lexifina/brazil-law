@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre a 6ª TURMA RECURSAL DOS JUIZADOS ESPECIAIS DO ESTADO DA BAHIA, ora suscitante, e a PRIMEIRA CÂMARA CRIMINAL - SEGUNDA TURMA DO TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, suscitado.
+Foi impetrado habeas corpus preventivo perante o Tribunal de Justiça da Bahia contra acórdão proferido pela 6ª Turma Recursal dos Juizados Especiais do Estado da Bahia (autos do processo n. 8000925-05.2023.8.05.9000), que denegou habeas corpus impetrado contra decisão do juízo da Vara Criminal da Comarca de Mata de São João/BA nos autos do TCO n. 8001096-23.2022.8.05.0164.
+O habeas corpus impetrado perante o TJBA foi analisado pelo Desembargador relator integrante da Primeira Câmara Criminal - Segunda Turma do TJBA, que em decisão monocrática declarou a incompetência das Turmas Criminais do TJBA para o processamento do feito, oportunidade em que declinou-a em favor das Turmas Recursais do Sistema dos Juizados Especiais (fls. 05-08).
+O interessado, paciente do habeas corpus, apresentou petição requerendo a instauração de Incidente de Conflito de Competência (fls. 77-81), ao argumento de que o Supremo Tribunal Federal tem decidido reiteradamente pela superação da súmula n. 690, STF, e entendido que a competência para julgar habeas corpus contra ato coator de Turma Recursal Criminal é do respectivo Tribunal de Justiça ao qual tal órgão esteja vinculado.
+Os autos retornaram à 6ª Turma Recursal dos Juizados Especiais dos Estado da Bahia, que acolheu as razões apresentadas na petição do interessado e suscitou o conflito de competência, determinando o encaminhamento dos autos ao Superior Tribunal de Justiça (fls. 10-11).
+É o relatório. DECIDO.
+O art. 105, inciso I, alínea "d", da Constituição da República, estabelece competência do Superior Tribunal de Justiça processar e julgar os conflitos de competência, instaurados entre quaisquer Tribunais, ressalvada a competência do Supremo Tribunal Federal, bem como entre Tribunal e juízes a ele não vinculados e entre juízes vinculados a Tribunais diversos.
+No caso dos autos, verifico que o conflito está relacionado a órgãos vinculados ao mesmo Tribunal, qual seja, o Tribunal de Justiça do Estado da Bahia/BA, haja vista que foi suscitado pelo juiz relator da 6ª Turma Recursal dos Juizados Especiais dos Estado da Bahia/BA, após o Desembargador Relator da Primeira Câmara Criminal - Segunda Turm a do TJBA ter declinado da competência.
+Assim, o Superior Tribunal de Justiça não possui competência para a análise do conflito instaurado.
+Ante o exposto, não recebo o pedido e julgo extinto o processo sem resolução do mérito.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. HABEAS CORPUS. ÓRGÃOS VINCULADOS AO MESMO TRIBUNAL. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO.
