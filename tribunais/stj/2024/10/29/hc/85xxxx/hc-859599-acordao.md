@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, denegar a ordem.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+Ementa: PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO (POR DUAS VEZES) E DANO QUALIFICADO. PRISÃO PREVENTIVA. PRESENÇA DOS REQUISITOS LEGAIS. INAPLICABILIDADE DE MEDIDAS CAUTELARES DIVERSAS. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas Corpus impetrado visando a revogação de prisão preventiva decretada pelo Tribunal de origem, sob alegação de ausência dos requisitos do art. 312 do Código de Processo Penal e possibilidade de aplicação de medidas cautelares diversas da prisão.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se estão presentes os requisitos legais para a decretação da prisão preventiva; (ii) estabelecer se é possível a aplicação de medidas cautelares diversas da prisão.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva é devidamente decretada quando presentes as condições previstas no art. 312 do CPP, incluindo a comprovação concreta da existência do "fumus comissi delicti" e do "periculum libertatis".
+4. A aplicação de medidas cautelares diversas da prisão se mostra impossível quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria devidamente preservada com a soltura.
+5. Encontra-se em linha com a jurisprudência desta corte a análise realizada pelo Tribunal de origem acerca das circunstâncias fáticas do caso concreto, que indicam a probabilidade do cometimento dos delitos de homicídio qualificado tentado (por duas vezes) e dano qualificado, assim como o preenchimento das demais condições previstas no art. 312 do CPP, aliadas à proporcionalidade e à indispensabilidade da decretação da prisão preventiva.
+IV. ORDEM DENEGADA
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos.
+A defesa alega, em síntese, a ausência dos requisitos para decretação da custódia preventiva.
+Requer, liminar e definitivamente, o deferimento da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+EMENTA
+Ementa: PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO (POR DUAS VEZES) E DANO QUALIFICADO. PRISÃO PREVENTIVA. PRESENÇA DOS REQUISITOS LEGAIS. INAPLICABILIDADE DE MEDIDAS CAUTELARES DIVERSAS. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas Corpus impetrado visando a revogação de prisão preventiva decretada pelo Tribunal de origem, sob alegação de ausência dos requisitos do art. 312 do Código de Processo Penal e possibilidade de aplicação de medidas cautelares diversas da prisão.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se estão presentes os requisitos legais para a decretação da prisão preventiva; (ii) estabelecer se é possível a aplicação de medidas cautelares diversas da prisão.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva é devidamente decretada quando presentes as condições previstas no art. 312 do CPP, incluindo a comprovação concreta da existência do "fumus comissi delicti" e do "periculum libertatis".
+4. A aplicação de medidas cautelares diversas da prisão se mostra impossível quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria devidamente preservada com a soltura.
+5. Encontra-se em linha com a jurisprudência desta corte a análise realizada pelo Tribunal de origem acerca das circunstâncias fáticas do caso concreto, que indicam a probabilidade do cometimento dos delitos de homicídio qualificado tentado (por duas vezes) e dano qualificado, assim como o preenchimento das demais condições previstas no art. 312 do CPP, aliadas à proporcionalidade e à indispensabilidade da decretação da prisão preventiva.
+IV. ORDEM DENEGADA
+VOTO
+Sabe-se que "A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP)." (RHC: 174619 ES 2022/0397567-9, Relator: SEBASTIÃO REIS JÚNIOR, Data de Julgamento: 11/04/2023, SEXTA TURMA, Data de Publicação: DJe 16/05/2023)
+Com efeito, o ordenamento jurídico vigente, em atenção ao princípio da presunção da inocência, consagra a liberdade do indivíduo como regra. Desse modo, a prisão antes do trânsito em julgado revela-se cabível tão somente quando, presentes as condições do art. 312 do CPP, estiver concretamente comprovada a existência do "fumus boni iuris", aliado ao "periculum libertatis", sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+Além disso, "Em razão de seu caráter excepcional, a prisão preventiva somente deve ser imposta quando incabível a substituição por outra medida cautelar menos gravosa, conforme disposto no art. 282 , § 6º , do CPP." (AgRg no HC: 716740 BA 2022/0000712-7, Relator: Ministro JOEL ILAN PACIORNIK, Data de Julgamento: 22/03/2022, T5 - QUINTA TURMA, Data de Publicação: DJe 07/04/2022)
+No caso, a prisão preventiva foi mantida com base nos seguintes argumentos (grifo acrescentado):
+Revogar a prisão preventiva do paciente, dentro desse contexto, representaria risco para a sociedade como um todo. Para as vítimas e para a definição do caso em especial. Afinal, se trata de um pretenso homicida que, desde a decretação de sua custódia preventiva, está foragido. A custódia é necessária para garantia da instrução e do resultado da ação penal. O paciente já deu mostra de que se furtará do cumprimento de determinações judiciais. E, nesse campo, a mera probabilidade justifica a continuidade da aplicação da custódia cautelar.
+É perfeitamente razoável a prisão preventiva para garantia da ordem pública, com a anotação de que eventual primariedade não torna desproporcional a custódia, seja em face do caso concreto, seja pela postura dele (que abandonou o distrito da culpa há, pelo menos, um ano e meio).
+Anote-se, ainda, que a prisão do paciente foi decretada em maio de 2022, tendo o acusado fugido para local incerto, de modo que a custódia se justifica, mais e mais, insisto, por conveniência da instrução criminal e para assegurar a aplicação da lei penal. A custódia, no caso, também é necessária para viabilizar o julgamento de delitos gravíssimos, restando claro que o paciente demonstrou que não tem intenção de se submeter às possíveis consequências da ação penal, permanecendo todo esse tempo sem apresentar-se à Justiça.
+Ademais, ressalte-se que a Lei n.º 12.403/11, ainda que de forma excepcional, prevê a possibilidade da decretação da prisão preventiva para os crimes dolosos com o máximo de pena privativa de liberdade superior a 4 anos, o que engloba o crime em questão. Portanto, considerando-se que a situação processual do paciente admite o decreto preventivo, não era mesmo razoável a concessão de outra medida cautelar em seu favor. Aliás, medida diversa da prisão seria claramente insuficiente e poderá gerar sentimento de impunidade.
+Os impetrantes argumentam, também, pela extensão dos efeitos da decisão que revogou a prisão e determinou medidas cautelares diversas à corré Ketlyn Yasmin, com base no artigo 580 do Código de Processo Penal. Sem razão, todavia.
+É certo que, nos termos do artigo 580, "a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros". Mas esta não é a hipótese dos autos.
+Conforme bem anotou a decisão atacada (páginas 48/49), a revogação da custódia de Ketlyn se deu em razão de circunstâncias pessoais, que não se comunicam ao paciente Ednei. A defesa da corré postulou a revogação (páginas 1115/1118 dos autos originários) argumentando que Ketlyn colaborou com a instrução processual, apresentou-se à Justiça quando necessário, comprovou endereço fixo, ocupação lícita e, mais valoroso, possui uma filha de apenas 2 anos de idade. Nesse sentido, perfeito o entendimento do E. Magistrado pela aplicação de medidas diversas para preservação dos cuidados maternos à criança em tenra idade, em respeito ao artigo 318-A do Código de Processo Penal.
+Segundo consta em documentação juntada pelos impetrantes (páginas 56/59), Ednei possui 3 filhas, duas gêmeas com 14 anos de idade e uma já adulta, com 21 anos de idade. O artigo 318, VI, do Código de Processo Penal prevê a possibilidade de substituição da prisão preventiva pela domiciliar caso o homem seja o único responsável pelos cuidados de seus filhos de até 12 anos de idade.
+A imprescindibilidade de Ednei para o cuidado de suas filhas não foi comprovada. De mais a mais, duas já possuem idade superior à prevista na norma e a terceira já goza da maioridade, podendo, inclusive, ser a responsável pelos cuidados de suas irmãs na ausência do pai.
+Portanto, não há simetria nas situações, razão pela qual fica prejudicado o entendimento de extensão de efeitos, reforçando a existência de circunstâncias pessoais, que obviamente não aproveitam ao paciente.
+O decidido se encontra em linha com a jurisprudência desta Corte e a análise realizada pelo Tribunal de origem acerca das circunstâncias fáticas do caso concreto, que dão conta do preenchimento das condições previstas no art. 312 do CPP, aliadas à proporcionalidade e à indispensabilidade da decretação da prisão preventiva.
+Nestas circunstâncias, é assente nesta Corte que "tem-se por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura" (AgRg no HC n. 844.095/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Pelo exposto, denego a ordem de habeas corpus pleiteada.
+É o voto.
