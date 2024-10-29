@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. WRIT CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR. INDEVIDA SUPRESSÃO DE INSTÂNCIA. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, a defesa se insurgiu contra decisão monocrática de desembargador e trouxe à discussão matéria de mérito que sequer foi analisada na Corte de origem, incorrendo, portanto, em indevida supressão de instância. Precedentes.
+III - A jurisprudência das Cortes Superiores entende que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, a inicial deve vir completamente instruída. Precedentes.
+IV - Assente nesta Corte Superior que o habeas corpus não se presta para a apreciação de alegações que demandem o revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de WELLINGTON SANTOS DE ALMEIDA contra a decisão que não conheceu do habeas corpus.
+Depreende-se dos autos que a Segunda Vice-Presidência do Tribunal de origem não conheceu dos recursos especial e extraordinário ajuizados pela defesa e, na sequência, também não conheceu do agravo interposto.
+Neste recurso, o agravante reitera em suas razões recursais que a decisão, ora impugnada, não conheceu do habeas corpus impetrado, tendo em vista a ausência de prequestionamento da matéria pelo Tribunal de origem.
+Assere que em ato antecedente ao presente habeas corpus, o agravante interpôs agravo interno ao Tribunal de origem, a fim de que a matéria fosse levada àquele Colegiado, todavia, o feito também não foi conhecido.
+Assim, alega que no presente caso, não se trata de uso indevido do remédio constitucional, mas sim, de última medida para que o agravante não seja furtado do acesso à Justiça.
+Lado outro, informa que anexou novamente documentos que instruem a ordem, tendo em vista que "ao preparar o presente Agravo, o IMPETRANTE os anexos não seguiram à peça inicial (por possível falha do sistema). No entanto, como se pode verificar da Folha de inicial foi protocolizada com 16 anexos, além da decisão a que se busca reforma. Assim, com o fim de sanar tal erro, anexamos documentos que instruem a ordem" (fl. 187).
+Requer, ao final, a reconsideração da decisão monocrática ou que o presente agravo seja apreciado pela Turma, objetivando a concessão da ordem de habeas corpus, conforme razões acostadas à peça originária do feito.
+O Ministério Público Federal manifestou ciência da decisão, à fl. 185.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. WRIT CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR. INDEVIDA SUPRESSÃO DE INSTÂNCIA. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, a defesa se insurgiu contra decisão monocrática de desembargador e trouxe à discussão matéria de mérito que sequer foi analisada na Corte de origem, incorrendo, portanto, em indevida supressão de instância. Precedentes.
+III - A jurisprudência das Cortes Superiores entende que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, a inicial deve vir completamente instruída. Precedentes.
+IV - Assente nesta Corte Superior que o habeas corpus não se presta para a apreciação de alegações que demandem o revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+Agravo regimental desprovido.
+VOTO
+No presente recurso, o agravante pede a reversão do julgado ora agravado. Da decisão impugnada, entretanto, colhe-se que analisou devidamente os pontos apresentados.
+Conforme consta na decisão agravada, não obstante a reiteração da defesa sobre o tema em baila, ainda assim, traz matéria de mérito que sequer foi analisada na origem, incorrendo, em indevida supressão de instância.
+Corroborando: AgRg no HC n. 764.710/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 21/12/2022; AgRg no HC n. 834.361/RO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023; e AgRg no HC n. 805.062/MG, Quinta Turma, de minha relatoria, DJe de 2/6/2023; e AgRg no HC n. 822.227/MG, Quinta Turma, de minha relatoria, DJe de 26/6/2023.
+Assim, ausente manifestação colegiada do Tribunal sobre a matéria ora trazida a exame, incabível o conhecimento do presente habeas corpus, porquanto está configurada a absoluta supressão de instância com relação as questões expostas, ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, I e II, da CF; e art. 13, I e II, do RISTJ).
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPUGNANDO DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL A QUO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NECESSIDADE DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA.
+(..).
+2. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior, à vista da previsão constante do art. 105, II, a, da Constituição da República (Precedentes) - (AgRg no HC n. 358.714/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2016)
+3. Agravo regimental improvido" (AgRg no HC n. 710.716/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 15/2/2022).
+Vale ressaltar que esta Corte Superior de Justiça pacificou o entendimento de que: "o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/4/2023).
+Mister frisar que não é o caso de concessão de habeas corpus de ofício, pois o Superior Tribunal de Justiça entende que:
+"(..) Nos termos do art. 654, § 2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (AgRg no AREsp 1389936/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/3/2019, DJe de 29/3/2019).5. Agravo regimental não conhecido" (AgRg no AgRg no AgRg no ARsp n. 2.407.640/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 29/4/2024).
+Nesse contexto, o presente agravo não atende ao requisito da necessidade de manifestação prévia da Corte de origem, com o indispensável esgotamento da jurisdição a quo.
+Com efeito, ainda assente nesta Corte que a instrução inadequada da ação mandamental conduz ao não conhecimento da impetração:
+"(..) em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração, não sendo atribuição desta Corte Superior a instrução do feito, ainda que por meio de consulta ao site do Tribunal de origem" (AgRg nos EDcl no HC n. 704.066/RJ, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 15/2/2022, grifei).
+Isso porque a jurisprudência entende que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer:
+"A adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 197.833-AgR, Rel. Ministro LUIZ FUX - Presidente -, TRIBUNAL PLENO, julgado em 19/04/2021, DJe 12/05/2021). Assim, ao não zelar pela devida instrução do habeas corpus, a Defesa impede a apreciação do fundo da controvérsia. Exige-se que as cópias dos documentos essenciais à análise da controvérsia sejam acostadas aos autos pela Parte Impetrante, para que possam ser cote jados com as alegações defensivas - exame imprescindível para o reconhecimento, ou não, de que o direito invocado está constituído. Ademais, não pode ser transferido ao Superior Tribunal de Justiça o ônus de formar adequadamente os autos, como na verdade pretende o Recorrente" (EDcl no AgRg no HC n. 797.698/SC, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 29/6/2023).
+No mesmo sentido: AgRg no HC n. 811.753/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 26/5/2023; e AgRg no HC n. 793.318/SP, Sexta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT, DJe de 10/5/2023.
+Precedentes do Supremo Tribunal Federal: EDcl no AgRg no HC n. 213.797, Segunda Turma, Rel. Min. Nunes Marques, DJe de 26/10/2022; e AgRg no HC n. 223.487, Primeira Turma, Relª. Minª. Carmen Lúcia, DJe de 22/3/2023.
+De mais a mais, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório (AgRg no HC n.817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Diante disso, não se constatou a flagrante ilegalidade apontada.
+No mais, o presente agravo limitou-se a reiterar as teses do habeas corpus, deixando de refutar, ponto por ponto, os argumentos da decisão guerreada, caso em que tem aplicabilidade o disposto na Súmula n. 182, STJ:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos (AgRg no HC n. 819.078/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 15/6/2023).
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É como voto.
