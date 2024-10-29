@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de TIAGO ATAIDES DA SILVA, JOSE HENRIQUE DA SILVA DOS SANTOS e JEFERSON DA SILVA G ONCALVES - pronunciados como incursos no crime de homicídio qualificado -, em que se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Recurso em Sentido Estrito n. 5002874-33.2022.8.21.0003), encontra-se prejudicado.
+Com efeito, busca a impetração a anulação da ação penal em trâmite na 1ª Vara Criminal Especializada em Júri da comarca de Alvorada/RS (Ação Penal n. 5002874-33.2022.8.21.0003), ao argumento de que a pronúncia teria se baseado exclusivamente em elementos coletados na fase extrajudicial.
+Ocorre que, em consulta ao Sistema Integrado de Atividade Judiciária deste Superior Tribunal, verifiquei que a questão foi objeto do AREsp n. 2.510.868/RS, do qual se conheceu para dar provimento aos recursos especiais interpostos pelos corréus EVERTON DA SILVA SEVERO, VICTOR FERREIRA MACHADO e FERNANDO FERREIRA MACHADO, a fim de anular a decisão de pronúncia, sem prejuízo de formulação de nova denúncia, nos termos do art. 414, parágrafo único, do Código de Processo Penal. Eis a ementa:
+AGRAVOS EM RECURSO ESPECIAL. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO, CONSTRANGIMENTO ILEGAL, COAÇÃO NO CURSO DO PROCESSO E OCULTAÇÃO DE CADÁVER. VIOLAÇÃO DOS ARTS. 155, 312, § 2º, 414 E 226, TODOS DO CPP. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS SUFICIENTES DE AUTORIA. TESTEMUNHA INDIRETA. DEPOIMENTO JUDICIAL DO POLICIAL CIVIL. HEARSAY TESTIMONY. INADMISSIBILIDADE. ELEMENTOS REMANESCENTES, DEPOIMENTO PRODUZIDO NA FASE INQUISITORIAL, SEM REPETIÇÃO EM JUÍZO. MANIFESTAÇÃO ISOLADA E CONFLITANTE DO MENOR. INSUFICIÊNCIA PROBATÓRIA A LASTREAR A PRONÚNCIA. JURISPRUDÊNCIA DO STJ. PROVIMENTO QUE SE IMPÕE, SEM PREJUÍZO DE FORMULAÇÃO DE NOVA DENÚNCIA, NOS TERMOS DO ART. 414, PARÁGRAFO ÚNICO, DO CPP.
+Agravos conhecidos para, nos termos do dispositivo, dar provimento aos recursos especiais.
+Essa decisão foi mantida pela Sexta Turma deste Superior Tribunal, que negou provimento aos Agravos Regimentais no Agravo em Recurso Especial n. 2.510.868/RS interpostos pelo Ministério Público Federal e pelo Ministério Público do Rio Grande do Sul.
+Em face do exposto, julgo prejudicado o presente writ.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. CRIME DE HOMICÍDIO QUALIFICADO. NULIDADE. PRONÚNCIA BASEADA EXCLUSIVAMENTE EM ELEMENTOS COLETADOS NA FASE EXTRAJUDICIAL. SUPERVENIÊNCIA DE DECISÃO PROFERIDA NO AGRAVO EM RECURSO ESPECIAL INTERPOSTO PELA DEFESA. PERDA DO OBJETO.
+Writ prejudicado.
