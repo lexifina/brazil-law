@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, ajuizado em nome de Alex Henrique dos Santos Maciel e Monisy da Silva Souza, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n. 1512159-56.2024.8.26.0228) - fl. 17:
+Apelação Criminal Tráfico de drogas Sentença absolutória com base no artigo 386, VII, do CPP Recurso do Ministério Público visando a condenação nos termos da denúncia Inviabilidade - Provas insuficientes a indicar a destinação comercial do entorpecente condenação pela prática do delito descrito no artigo 28, da Lei de Drogas Necessidade - Dosimetria penal - Réu ALEX reincidente - Pena de advertência sobre os efeitos deletérios das drogas e prestação de serviços à comunidade pelo prazo de 10 meses Acusada MONISY, primária - Pena de advertência sobre os efeitos das drogas e prestação de serviços à comunidade pelo prazo de 04 meses - Recurso parcialmente provido.
+Sobreveio, então, a presente impetração substitutiva de recurso especial, em que se pretende a nulidade das provas decorrentes da prisão em flagrante realizada pela guarda municipal e, por consequência, a absolvição dos pacientes nos termos do art. 386, II, do CPP.
+É o relatório.
+Segundo o entendimento desta Corte Superior, é incognoscível o writ impetrado quando em curso o prazo para a interposição do recurso cabível na origem, como na espécie.
+Com efeito, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus (AgRg no HC n. 733.563/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Além disso, os pacientes não estão presos em razão do processo em questão, situação que revela que o status libertatis não está em jogo no momento, e a tese trazida nesta impetração, ao que parece, não foi objeto de discussão na Corte estadual nem mesmo nas contrarrazões da apelação.
+Por fim, inexiste ilegalidade perceptível de plano que justifique a concessão de habeas corpus de ofício e a consequente superação dos óbices constatados.
+À vista do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PROVA ILÍCITA. ABSOLVIÇÃO. SUBSTITUTIVO DE RECURSO ESPECIAL. DESVIRTUAMENTO DO USO DO WRIT. PRAZO PARA INTERPOSIÇÃO DO RECURSO CABÍVEL AINDA EM CURSO NA ORIGEM. PACIENTES EM LIBERDADE. INADEQUAÇÃO DA VIA ELEITA. SUPRESSÃO DE INSTÂNCIA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
