@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Agravo apresentado por BANCO DO BRASIL SA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+TRIBUTÁRIO. PROCESSO CIVIL. DENÚNCIA EXPONTÂNEA. MULTA MORATÓRIA. VERBA ADVOCATÍCIA DE SUCUMBÊNCIA. APRECIAÇÃO EQUITATIVA DO JUÍZO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 20, §§ 3º e 4º, do CPC/1973, no que concerne à necessidade de majoração dos honorários advocatícios de sucumbência, tendo em vista que foram fixados em valor ínfimo, trazendo a seguinte argumentação:
+Os advogados do Recorrente mantiveram atuação contínua, com eficiência e precisão, em todas as oportunidades em que tiveram nos autos, atingindo o esperado êxito em favor do seu outorgante, o que não justifica serem remunerados em patamar ínfimo, em valor inferior a 1% (um por cento) do atribuído à causa.
+Sob a égide da legislação processual revogada, a fixação da verba honorária de sucumbência leva em consideração a importância da causa, sobretudo a responsabilidade assumida pelo patrono na defesa de ações complexas e de montante expressivo.
+ ..
+Nesse contexto, a condenação da Recorrida ao pagamento de honorários no valor de R$ 10.000,00 (dez mil reais), montante correspondente a 0,119375% do valor da causa, não guarda sintonia com o critério de equidade, que orienta a sua fixação.
+Ora, a lei é clara ao determinar que, no arbitramento da verba em questão, é preciso levar em consideração o aspecto econômico envolvido na causa, bem como a expressiva responsabilidade assumida pelo advogado ao aceitar defender seu cliente em ações complexas e de grande vulto.
+ ..
+A propósito, a orientação dessa Colenda Corte é no sentido de conhecer e rever o quantum arbitrado em patamar irrisório, assim entendido aquele fixado em percentual inferior a 1% (um por cento) do valor da causa (como ocorreu nos presentes autos). Nesse sentido a ementa que segue:  ..
+Diante da fixação injusta e ínfima da verba honorária, aquém dos parâmetros mínimos fixados na Jurisprudência, faz-se necessária à sua revisão pela via do presente recurso, a fim de que sejam arbitrados em patamar condizente com o princípio da sucumbência, da caus alidade e do interesse, bem como em atenção à proporcionalidade e razoabilidade (fls. 373-375).
+Quanto à segunda controvérsia, interpõe o recurso pela alínea "c" do permissivo constitucional.
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Os honorários de sucumbência, a seu turno, foram fixados mediante apreciação equitativa do juízo, na forma estabelecida pelos parágrafos 3º e 4º do artigo 20 do Código de Processo Civil de 1973, então em vigor, nada autorizando, também no particular, a reforma do julgado singular (fl. 311).
+Analisou a questão e a decidiu segundo os fundamentos que teve por necessários para a solução da controvérsia, concluindo que, independentemente do valor da causa, o importe de R$ 10.000,00 (dez mil reais) atendeu ao juízo de equidade e aos critérios que o legislador do então vigente Código de Processo Civil de 1973 enunciou para sua observância (fl. 358).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas honorárias, esta restringe-se aos casos em que fixadas na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível, em recurso especial, a revisão dos valores fixados a título de honorários advocatícios e astreintes, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ. Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância das importâncias arbitradas, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos". (AgInt no AREsp 1.340.926/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 28.2.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.551.437/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26.8.2020; AgInt no AREsp 1.487.241/SC, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 14.8.2020; e AgInt no REsp 1.479.479/AM, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 29.6.2020.
+Quanto à segunda controvérsia, não foi comprovada a divergência jurisprudencial, porquanto não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20.5.2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 2.6.2020; AgInt no REsp 1.817.727/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 18.5.2020; AgInt no AREsp 1.504.740/SP, ;Rel. Ministro Raul Araújo, Quarta Turma, DJe de 8.10.2019; AgInt no AREsp 1.339.575/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 2.4.2019; AgInt no REsp 1.763.014/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19.12.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
