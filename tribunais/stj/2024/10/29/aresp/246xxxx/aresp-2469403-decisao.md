@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  RUAN FREITAS DIAS contra  decisão  que  inadmitiu  recurso  especial  manejado  em  face  de  acórdão  do  TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Informam  os  autos  que  o  agravante  foi  condenado,  em  primeiro  grau,  às  penas  de  1 (um) ano de reclusão,  em regime inicial aberto, a qual foi substituída por uma pena restritiva de direitos, e de 10 (dez) dias-multa, no mínimo legal, em  razão  da  prática  do  delito  previsto  no  art. 180, caput, do CP  (fls.  269-272).
+Irresignado, o agravante interpôs apelação perante o Tribunal de origem, o qual  ,  por  unanimidade, conheceu parcialmente do recurso, afastou a matéria preliminar e, no mérito, deu-lhe parcial provimento apenas para fixar honorários ao defensor nomeado pela apresentação das razões recursais (fls. 375-378).
+No  recurso  especial  (fls.  385-395),  interposto  com  fulcro  no  artigo  105,  inciso  III,  alínea  a,  da  Constituição  Federal,  a Defesa  alegou a violação ao art. 180, § 3º, do Código Penal, sob argumento de que as provas produzidas no curso da instrução processual revelam seguramente que o insurgente cometeu o delito de receptação em sua modalidade culposa.
+Pleiteou, portanto,  o  conhecimento  e  provimento  do  recurso especial para desclassificar a conduta imputado ao insurgente para a prevista no art. 180, § 3º, do Código Penal.
+Apresentadas  as  contrarrazões  (fls. 406-412), sobreveio  juízo  negativo  de  admissibilidade  fundado: a) na aplicação da Súmula n. 7/STJ, pois a análise das questões suscitadas implicaria revolvimento fático-probatório; b) na incidência da Súmula n. 83/STJ, pois o entendimento adotado pelo acórdão recorrido teria se firmado no mesmo sentido que a orientação deste Superior Tribunal de Justiça (fls. 423-426).
+Nas  razões  do  agravo em recurso especial,  postula o agravante o  processamento  do  recurso  especial,  haja vista o cumprimento dos requisitos necessários à sua admissão e a fixação de honorários em favor do advogado dativo  (fls.  442-448).  O  Ministério  Público  Federal  apresentou  manifestação  pelo  não conhecimento do agravo em recurso especial (fls.  482-484).
+É  o  relatório. DECIDO.
+O agravo não merece ser conhecido.
+Conforme relatado, o recurso especial foi inadmitido pelo Tribunal a quo em virtude da aplicação das Súmulas n. 7 e 83 do STJ.
+No caso, verifico que a parte agravante deixou de infirmar, de maneira adequada e suficiente, parte das razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+Com efeito, ao tentar infirmar a incidência do óbice da Súmula n. 7/STJ, a parte limitou-se a afirmar o que segue (fls. 444-446, grifei):
+"NÃO INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ
+A decisão unipessoal agravada, que não admitiu o apelo nobre, deliberou o seguinte:
+ ..
+Sem razão, todavia.
+Isso porque, a discussão é exclusivamente jurídica (processual), e não demanda reexame de fatos e provas.
+No ponto, como demonstrado, à exaustão e detalhadamente, no recurso especial, ao contrário do declinado na decisão agravada, fato é que a jurisprudência da Corte destinatária se estrutura no sentido de que "a análise do pleito recursal exige para tanto a revaloração jurídica da prova e não o reexame fático" (AgRg no AREsp 1917615/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 14/12/2021).
+No mais, é de se destacar que a 2ª Vice-Presidência citou 2 (dois) precedentes para motivar a aplicação da Súmula 7 do STJ:
+- AgRg no HC 591231/SC, Rel. Ministro Felix Fisher, Quinta Turma, j. 15.12.2020
+- AgRg no AREsp n. 1.991.207/DF, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, j. 15.02.2022
+Os julgados invocados, todavia, são inservíveis ao desiderato em tela, eis que se revelam superados pela firme orientação hodierna da Corte destinatária, como se verifica do precedente, do ano de 2023, citado nas razões do especial:
+- "Não se aplica a Súmula nº 7, STJ, quando o recurso especial pretende discutir a tipificação a ser dada à situação tal qual reconhecida no acórdão recorrido, por meio da revaloração jurídica dos fatos, sem que seja necessário o reexame de fatos e provas"
+(AgRg no AREsp n. 2.271.420/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/6/2023, DJe de 3/7/2023). (grifamos)
+ ..
+Logo, não há falar na incidência da Súmula 7 do STJ, eis que é possível discutir a tipificação a ser conferida à situação reconhecida no acórdão impugnado, por meio da simples revaloração jurídica dos elementos citados no voto condutor."
+Contudo, no que se refere ao óbice da Súmula n. 7/STJ, deveria a parte agravante ter demonstrado a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão recorrido, o que não ocorreu, no caso, tendo em vista que a defesa limitou-se a aduzir, genericamente, que a análise do pleito defensivo prescindiria de reexame das provas.
+Sobre o tema, é entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo em recurso especial, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 14/11/2022; e AgRg no AREsp n. 1.682.769/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/06/2020.
+Por fim, não se revela possível analisar o pleito defensivo de fixação de honorários, porquanto esta Corte Superior de Justiça entende que, "estando vinculada a atuação do advogado à ação penal em curso na origem, a questão dos honorários deverá ser analisada pela instância local, mais próxima à atuação do causídico. Precedentes" (EDcl no AgRg no RHC n. 129.020/CE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 20/10/2020).
+Em reforço: "Não cabimento do pedido, pois, quando não resulta da própria discussão da causa, isto é, do ato jurisdicional decorrente da competência desta Corte, mas sim de feito incidental em ação penal em curso perante o primeiro grau de jurisdição, a decisão de estabelecimento de honorários advocatícios deve caber a quem tem vinculação com o Poder de designação e liberação orçamentária dos valores arbitrados, porquanto não é possível ao Superior Tribunal de Justiça impor despesa a qualquer ente da federação  .. " (PET no HC n. 489.100/PR, Sexta Turma, Rel. Min. Sebastião Reis Junior, DJe de 28/05/2019).
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique. Intimem-se.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
