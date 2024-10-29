@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 266):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. ISENÇÃO DO IMPOSTO DE RENDA. PROVENTOS DE APOSENTADORIA. MOLÉSTIA GRAVE. ART. 6º XIV, DA LEI 7.713/88.
+Comprovado o diagnóstico de doença grave elencada na artigo 6º, inciso XIV, da Lei nº 7.713/88, tem direito o impetrante à isenção do imposto de renda sobre a parcela de previdência complementar pública (benefício especial) porquanto integra o conceito de proventos de aposentadoria.
+Segurança concedida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 292/295).
+A recorrente sustenta negativa de vigência ao art. 1.022, II, do CPC/2015, por entender que o acórdão recorrido foi omisso "acerca da aplicabilidade, ao caso, do art. 43 do Código Tributário Nacional, que estabelece a definição de renda para fins tributários" (e-STJ fl. 307).
+Defende ter havido contrariedade ao disposto no art. 43 do CTN, asseverando que incide imposto de renda sobre os valores recebidos a título de benefício especial pago aos aposentados, diante do acréscimo patrimonial existente. Alega violação do art. 6, XIV, da Lei n. 7.713/1988, ao argumento de que o rol de doenças ali previsto é taxativo, não admitindo interpretação extensiva.
+Contrarrazões ao recurso especial (e-STJ fls. 327/347).
+O Ministério Público Federal opina pelo não conhecimento do recurso especial (e-STJ fls. 388/390).
+Passo a decidir.
+O Tribunal de origem, em autos de mandado de segurança, concedeu a ordem para "declarar o direito líquido e certo do impetrante, portador de doença grave ( art. 6º, inciso XIV, da Lei n. 7.713/88) à isenção do imposto de renda sobre a totalidade dos seus proventos de aposentadoria, incluindo o benefício especial, a contar da data da aposentadoria" (e-STJ fl. 265).
+No que concerne à alegação de que o acórdão dos aclaratórios teria sido omisso ao analisar as questões propostas pela parte recorrente, vale reiterar que é firme a orientação jurisprudencial desta Corte acerca da incidência da Súmula 284 do STF, quando o recurso limita-se a sustentar violação do art. 1.022, II, do CPC/2015 de forma genérica, sem especificar qual o vício processual de omissão, de contradição ou de obscuridade ocorrido e que se mostraria relevante para a tese suscitada nas razões de recurso especial.
+Nesse sentido, colhem-se os seguintes julgados:
+RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC/15. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ALEGAÇÃO DE INFRINGÊNCIA À SÚMULA. IMPOSSIBILIDADE. EXTINÇÃO DA EXECUÇÃO FISCAL. CANCELAMENTO DA CDA. HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.134.984/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 06/03/2018).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. CANDIDATO APROVADO EM CADASTRO DE RESERVA. PRETERIÇÃO POR CONTRATAÇÃO TEMPORÁRIA DE TERCEIRO. NOMEAÇÃO. VIOLAÇÃO A NORMATIVOS FEDERAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RAZÕES GENÉRICAS. SÚMULA 284/STF. DESCARACTERIZAÇÃO. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. IMPOSSIBILIDADE DE REVISÃO DO ACERVO PROBATÓRIO. SÚMULA 07/STJ. LEI DE LICITAÇÕES. FALTA DE COMANDO NORMATIVO. SÚMULA 284/STF.
+1. A alegação de violação ao art. 1.022 do CPC/2015 exige do recorrente a indicação de qual o texto legal, as normas jurídicas e as teses recursais não foram objeto de análise nem de emissão de juízo de valor pelo Tribunal da origem, pena de a preliminar carecer de fundamentação pertinente. Inteligência da Súmula 284/STF.
+2. O mero julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional tampouco viola o art. 1.022 do CPC/2015. Jurisprudência do Superior Tribunal de Justiça.
+(..)
+5. Recurso especial conhecido parcialmente e, nessa extensão, não provido.
+(REsp 1.822.961/AM, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/09/2019, DJe 05/09/2019).
+In casu, a parte recorrente, no recurso extremo, descurou de explicitar os pontos em que o julgado recorrido incorreu em omissão, contradição ou obscuridade, limitando-se a apontar, de forma superficial, omissão "acerca da aplicabilidade, ao caso, do art. 43 do Código Tributário Nacional, que estabelece a definição de renda para fins tributários" (e-STJ fl. 307), o que atrai a incidência, por analogia, da Súmula 284 do STF.
+A recorrente não impugnou fundamento basilar que ampara o acórdão recorrido. Embora tenha apontado corretamente ofensa ao art. 6º XIV, da Lei n. 7.713/1988, limitou-se a alegar que o rol de enfermidades ali previsto, ensejadores de isenção tributária, seria taxativo, sendo incabível interpretação extensiva.
+No entanto, não se estabeleceu debate a respeito da enfermidade que acometeu o impetrante, ora recorrido, mas se os valores que aufere, na aposentadoria, a título de benefício especial poderiam ser enquadrados como "proventos" , na forma ali preconizada. Esse é o fundamento central do acórdão recorrido, conforme atesta a ementa acima transcrita, fundamento que não foi impugnado nas razões recursais.
+Assim, o recurso especial esbarra no obstáculo da Súmula 283 do STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." A respeito do tema, cito o s seguintes julgados: EDcl no AgInt no AREsp n. 2.149.968/MS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 7/10/2024, DJe de 14/10/2024; e AgInt no REsp n. 2.139.348/ES, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 30/9/2024, DJe de 3/10/2024.
+Nesse contexto, constata-se claramente que a recorrente não se insurgiu contra o principal motivo que confere sustentação jurídica ao aresto impugnado, pois apresentou alegação evidentemente dissociada do contexto dos autos, no tocante ao disposto no art. 6º, XIV, da Lei n. 7.713/1988, circunstância que atrai a aplicação, por analogia, da Súmula 284 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem fixação de honorários recursais, porquanto se trata de recurso interposto em autos de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
