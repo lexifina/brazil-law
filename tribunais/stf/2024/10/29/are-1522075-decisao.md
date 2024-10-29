@@ -1,0 +1,61 @@
+DECISÃO:
+
+    Vistos.
+
+    Trata-se de dois agravos interpostos por Victor Alexandre de Oliveira (e-doc. 67) e por Celso Ricardo Rodrigues Feio (e-doc. 73) contra decisão de inadmissão dos recursos extraordinários interpostos contra o acórdão proferido pela 3ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, ao qual se deu (e-doc. 31) :
+
+    “PARCIAL PROVIMENTO ao apelo de VICTOR ALEXANDRE DE OLIVEIRA para reduzir a pena pelo crime do artigo 16, § único, inciso IV, da Lei nº 10.826/03, a 03 (três) anos e 09 (nove) meses de reclusão e 12 (doze) dias-multa, e mantida a pena pela infração ao artigo 12, caput, da Lei nº 6.368/76, a pena finaliza em 09 (nove) anos e 09 (nove) meses de reclusão e 112 (cento e doze) dias-multa, no valor mínimo legal e, NEGARAM PROVIMENTO ao apelo de CELSO RICARDO RODRIGUES FEIO, MANTIDO O REGIME PRISIONAL INICIAL FECHADO PARA AMBOS. V.U.”
+
+    No recurso extraordinário interposto por Victor Alexandre de Oliveira (e-doc. 51), sustenta-se violação ao artigo 5º, incisos XI, LVI, XLVI e XL, da Constituição Federal.
+
+    No recurso extraordinário interposto pelo Celso Ricardo Rodrigues Feio (e-doc. 44), sustenta-se também violação ao artigo 5º, incisos XI, LVI, XLVI e XL, da Constituição Federal.
+
+    Examinados os autos, decido.
+
+    Inicialmente, verifica-se que as decisões que negaram seguimento aos recursos extraordinários estão amparadas em precedente firmado com base na sistemática da repercussão geral (Tema 182), quanto à alegada violação aos princípios constitucionais da individualização da pena e da fundamentação das decisões (e-doc. 61 e 63).
+
+    Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário ocorreu exclusivamente com base na sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia (Presidente), DJe de 25/9/18).
+
+    Assim, tendo sido deduzido agravo interno perante o Tribunal de origem quanto ao capítulo acima mencionado, devolve-se ao STF no presente agravo apenas as questões remanescentes.
+
+    No que concerne à matéria remanescente, transcrevo, no ponto em que resolvidas as questões suscitadas no apelo extremo, trechos do voto condutor do acórdão recorrido (e-doc. 31, p. 7 e 8):
+
+    “Também não há como reconhecer qualquer nulidade decorrente das diligências policiais, por terem os agentes policiais ingressado na residência sem o seu o consentimento e sem prévia autorização judicial. O crime de tráfico ilícito de drogas é crime de natureza permanente, assim, os agentes policiais, tendo conhecimento da sua ocorrência, não precisam de prévia autorização judicial para a realização de buscas domiciliares.
+
+    "O tráfico de drogas é um crime permanente e a situação de flagrância consubstancia-se como excepcional causa que admite a mitigação da garantia individual de inviolabilidade do domicílio, nos termos do art. S', XI, da Constituição Federal." (STJ, HC 5408231SP, Quinta Turma, rel. Min. Reynaldo Soares da Fonseca, j. 0410212020).
+
+    Cumpre relembrar que o Supremo Tribunal Federal já firmou o entendimento em repercussão geral no sentido de que "o ingresso forçado em residência sem mandado judicial apenas se revela legítimo - a qualquer hora do dia, inclusive durante o período noturno - quando amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, que indiquem estar ocorrendo, no interior da casa, situação de flagrante o delito' (RE n. 603.616/RO)
+
+    Assim, não vinga a tese de ilegalidade da prova obtida por violação de domicílio, pois, o Pleno desta Corte, ao julgar o RE nº 603.616/RO, Relator o Ministro Gilmar Mendes, cuja repercussão geral havia sido reconhecida (Tema 280), fixou o entendimento de que, apenas quando presente justa causa/fundadas razões, nos casos de flagrante em crimes permanentes há a possibilidade de busca e apreensão domiciliar sem o mandado judicial. O acórdão restou assim ementado:
+
+    “Recurso extraordinário representativo da controvérsia. Repercussão geral. 2. Inviolabilidade de domicílio art. 5º, XI, da CF. Busca e apreensão domiciliar sem mandado judicial em caso de crime permanente. Possibilidade. A Constituição dispensa o mandado judicial para ingresso forçado em residência em caso de flagrante delito. No crime permanente, a situação de flagrância se protrai no tempo. 3. Período noturno. A cláusula que limita o ingresso ao período do dia é aplicável apenas aos casos em que a busca é determinada por ordem judicial. Nos demais casos flagrante delito, desastre ou para prestar socorro a Constituição não faz exigência quanto ao período do dia. 4. Controle judicial a posteriori. Necessidade de preservação da inviolabilidade domiciliar. Interpretação da Constituição. Proteção contra ingerências arbitrárias no domicílio. Muito embora o flagrante delito legitime o ingresso forçado em casa sem determinação judicial, a medida deve ser controlada judicialmente. A inexistência de controle judicial, ainda que posterior à execução da medida, esvaziaria o núcleo fundamental da garantia contra a inviolabilidade da casa (art. 5, XI, da CF) e deixaria de proteger contra ingerências arbitrárias no domicílio (Pacto de São José da Costa Rica, artigo 11, 2, e Pacto Internacional sobre Direitos Civis e Políticos, artigo 17, 1). O controle judicial a posteriori decorre tanto da interpretação da Constituição, quanto da aplicação da proteção consagrada em tratados internacionais sobre direitos humanos incorporados ao ordenamento jurídico. Normas internacionais de caráter judicial que se incorporam à cláusula do devido processo legal. 5. Justa causa. A entrada forçada em domicílio, sem uma justificativa prévia conforme o direito, é arbitrária. Não será a constatação de situação de flagrância, posterior ao ingresso, que justificará a medida. Os agentes estatais devem demonstrar que havia elementos mínimos a caracterizar fundadas razões (justa causa) para a medida. 6. Fixada a interpretação de que a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori , que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados. 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso” (RE nº 603.606/RO-RG, Tribunal Pleno, Relator o Ministro Gilmar Mendes, DJe de 10/5/16).
+
+    Saliente-se, ademais, quanto a questão suscitada no apelo extremo, que qualquer conclusão contrária quanto à regularidade das provas obtidas a partir do procedimento policial, demandaria o reexame aprofundado do contexto fático-probatório dos autos, além de outros elementos intimamente ligados ao mérito da ação penal, o que é inviável na via eleita, consoante o enunciado da Súmula nº 279/STF.
+
+    Perfilhando, mutatis mutandi, esse entendimento, destacam-se:
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Lei de Drogas. 3. Desclassificação da imputação de tráfico de entorpecentes para o de consumo pessoal. 4. Minorante do § 4º do art. 33 da Lei n. 11.343/2006. 5. Acórdão impugnado afastou pleito desclassificatório levando em consideração quantidade e variedade de drogas encontrada em poder do acusado. 6. Minorante da Lei de Drogas afastada, considerado o envolvimento do recorrente com outros indivíduos que atuam no tráfico. 7. Pedidos que demandam revolvimento do acervo fático-probatório. Incidência do Enunciado 279 da Súmula do STF. 8. Agravo regimental a que se nega provimento” (ARE nº 830.221/BA AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 15/9/14);
+
+    "AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PENAL E PROCESSUAL PENAL. POSSE ILEGAL DE ARMA E MUNIÇÕES DE USO RESTRITO. VIOLAÇÃO DE DOMICÍLIO. PROVA ILÍCITA. ACÓRDÃO QUE SE FUNDOU NOS FATOS E NAS PROVAS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. AGRAVO REGIMENTAL CUJA MINUTA NÃO SE INSURGE CONTRA OS FUNDAMENTOS DA DECISÃO AGRAVADA. 1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida ‘a repercussão geral das questões constitucionais discutidas no caso’ (art. 102, III, § 3º, da CF). 2. No caso sub examine, o acórdão recorrido pautou-se nos fatos e nas provas apuradas na instrução processual. Inviável em sede de apelo extremo o reexame da matéria fático-probatória, a teor do enunciado da Súmula 279 do Supremo Tribunal Federal, verbis: ‘Para simples reexame de prova não cabe recurso extraordinário’. 3. Assim sendo, não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821; RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666). 4. In casu, acórdão recorrido assentou: ‘Penal. Processo Penal. Art. 16, caput, da Lei n° 10.826/2003. Violação de domicílio. Meras suspeitas. Não caracterização de flagrante delito. Prova ilícita. Absolvição. 1. Meras suspeitas de que o apelante seria o possível autor de crime cometido no local investigado, não autoriza a entrada dos policiais em sua residência, sob o fundamento de flagrante delito. 2. Sem eficácia probatória a prova colhida, pois obtida ilicitamente, cuja apuração se deu diante de comportamento ilícito dos agentes dos agentes estatais, violando o domicílio do acusado, não servindo de suporte a legitimar sua condenação. 3. Inadmissível também a prova derivada da ilícita, pois evidente o nexo causal entre a invasão de domicilio e a apreensão das armas. 4. Não há, também, que se valorizar a confissão do apelante, eis que esta só ocorreu em decorrência da apreensão ilegal, correndo-se o risco de tornar letra morta a norma constitucional que veda a utilização da prova ilícita. 5. A absolvição é medida que se impõe.’ 5. Agravo regimental a que se nega provimento.” (RE nº 597.752/DF – AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 15/5/13).
+
+    Por fim, quanto à possibilidade de detração do período em que o recorrido esteve submetido à prisão provisória, é imperioso concluir que o Tribunal a quo, ao decidi-la, ateve-se ao exame da legislação infraconstitucional. Portanto, a violação à Constituição, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário. Com efeito, o acórdão que julgou os embargos de declaração assim dirimiu a aludida questão (e-doc. 40, p. 8):
+
+    Quanto à detração de regime em relação a ambos os embargantes, ficou evidente que o decisum, embora tenha consignado expressamente em seu relatório que os apelantes pleiteavam a detração de regime , a matéria não foi enfrentada no corpo do voto.
+
+    Reconhece-se a omissão para enfrentar a questão em debate , e consignar que não é caso de se efetuar detração de regime.
+
+    Vale anotar que a aplicação do instituto previsto no artigo 387, § 2º, do Código de Processo Penal não se revela adequada neste momento processual, devendo ser objeto de análise na fase de execução da sentença, após o trânsito em julgado e expedição da guia de recolhimento.
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento aos recursos.
+
+    Publique-se.
+
+    Brasília, 29 de outubro de 2024.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
