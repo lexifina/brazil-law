@@ -1,0 +1,18 @@
+DECISÃO
+Na origem, trata-se de ação de cobrança referente a faturas de energia elétrica. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 5.401.750,98 (cinco milhões quatrocentos e um mil setecentos e cinquenta reais e noventa e oito centavos).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA contra acórdão com o seguinte resumo de ementa:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. PRETENSÃO FORMULADA COM BASE EM DÉBITOS JÁ CONFESSADOS E INCLUSIVE PARCELADOS NA ESFERA EXTRAJUDICIAL, MAS QUE NÃO FORAM ADIMPLIDOS. AVENTADA INEXIGIBILIDADE EM RAZÃO DA ENTRADA EM VIGOR DA LEI ESTADUAL N. 18.397/22, FATO SUPERVENIENTE A SER CONSIDERADO. TESE INSUBSISTENTE. BENEFÍCIO FISCAL INSTITUÍDO CONDICIONADO À NÃO EXIGÊNCIA PELO FORNECEDOR DO VALOR DEVIDO PELA ENTIDADE HOSPITALAR A TÍTULO DE ENERGIA ELÉTRICA, INCLUSIVE MULTAS E JUROS PELO NÃO PAGAMENTO. QUESTÃO A SER SOLUCIONADA ENTRE AS PARTES ADMINISTRATIVAMENTE. PRECEDENTE. RECURSO A QUE SE NEGA PROVIMENTO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem analisou a controvérsia com base nos seguintes fundamentos:
+Não comporta acolhida o pleito de inexigibilidade das tarifas de energia elétrica, na medida em que o benefício fiscal instituído fica condicionado à não exigência pelo fornecedor do valor devido pela entidade hospitalar a título de energia elétrica, inclusive multas e juros pelo não pagamento.
+No caso, o débito está sendo exigido pela Celesc, em ação de cobrança ajuizada em 27-09- 2019.
+Logo, não há se falar em inexigibilidade da tarifa.
+Relativamente às alegações de violação dos arts. 342 e 493, do CPC, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, o enunciado n. 282 da Súmula do STF.
+Não constando do acórdão recorrido análise sobre a tese referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+Assim, constatando que sequer foram opostos embargos de declaração para tal fim, atrai-se a incidência, por analogia, o enunciado n. 356 da Súmula do STF, in verbis: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
