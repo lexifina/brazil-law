@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por inexistência de violação dos dispositivos legais apontados e incidência da Súmula n. 7/STJ (e-STJ fls. 1.161/1.165).
+O acórdão recorrido está assim ementado (e-STJ fl. 997):
+Direito Civil e Empresarial. Ação de Cobrança. Contratos de prestação de serviços de publicidade e propaganda, um deles com a avença de constituição de terceira pessoa (Fullpack Branding & Design Ltda.). Verbas exigidas a propósito de desconto-padrão e parte do bônus de incentivo. Sequência de contratos e aditivos que, segundo o apelante, imputariam à apelada a responsabilidade pela verba de comunicação (desconto-padrão da agência e a divisão dos Bônus de Incentivo) e acordo verbal de reversão dos valores relativos ao desconto-padrão à apelante. Fullpack Branding & Design Ltda. não chegou a ser constituída, pelo que ineficazes as cláusulas a ela correlatas. Desconto-padrão e verbas do Plano de Incentivo que pertencentes unicamente à apelada. Desprovimento do recurso.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.065/1.075).
+O recurso especial (e-STJ fls. 1.090/1.118), fundamentado no art. 105, III, "a", da CF, a recorrente alegou violação do art. 7º do CPC/2015, pois ocorreu cerceamento de defesa ao ser indeferida a prova pericial.
+Sustentou ofensa aos arts. 112, 113, 421-A e 422 do CC/2002, pois (e-STJ fl. 1.108):
+ ..  ao entender que o Instrumento de Acordo seria absolutamente ineficaz e ignorar o comportamento livremente adotado pelas Partes, em condições paritárias de negociação e execução do programa contratual, o EGRÉGIO TJERJ incorreu em grave violação aos artigos 112, 113, 421-A e 422, todos do Código Civil de 2002.
+Aduziu inobservância dos arts. 341, 373, 374 e 389 do CPC/2015, visto que (e-STJ fls. 1.110/1.111):
+62. Com relação ao pactuado sobre o Bônus de Incentivo, no entanto, a defesa é absolutamente silente, o que, por ausência de impugnação específica, torna o fato incontroverso e presumidamente verdadeiro, dispensando, portanto, a necessidade de produção de outras provas, nos termos dos artigos 341 e 374 do CPC/2015.
+ ..
+65. Após a apresentação das provas acima indicadas, a FULLPACK se limitou a dizer que impugnou de forma específica os fatos colacionados na Exordial, mas, além de mentir, deixou de se manifestar sobre os novos documentos juntados pela RECORRENTE, o que não deixa margem de dúvida sobre a veracidade das alegações autorais.
+ ..
+67. Apenas em alegações finais a RECORRIDA tentou afastar a validade da documentação acostada de maneira absolutamente genérica. Portanto, esses e-mails, a planilha rubricada pelo funcionário e, sobretudo, a confissão extrajudicial do sócio da FULLPACK jamais foram impugnados especificamente nos autos - o que, infelizmente, não foi levado em consideração pelo COLENDA DÉCIMA OITAVA CÂMARA CÍVEL do EGRÉGIO TJERJ, em clara violação ao artigo 389 do CPC.
+Asseverou a violação do art. 884 do CC/2002, porque configurado o enriquecimento ilícito.
+Defendeu a tese de contrariedade dos arts. 489, § 1º, IV, e 1.022 do CPC/2015, por negativa de prestação jurisdicional.
+No agravo (e-STJ fls. 1.198/1.231), declara a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+No que diz respeito à alegada violação dos arts. 7º do CPC/2015 e 884 do CC/2002, a matéria não foi apreciada pela Corte local. Estando ausente o prequestionamento da matéria. Aplica-se a Súmula n. 282/STF.
+Em relação à validade do instrumento particular de acordo, ao ônus probatório e à confissão, o Tribunal de origem consignou que (e-STJ fls. 1.015/1.018 ):
+A apelante fundamenta o seu pedido, nas cláusulas 4.1 e 6, do Instrumento Particular de Acordo e Outras Avenças, pelas quais a apelada seria responsável pela verba de comunicação, que por sua vez seria constituída pelo pagamento dos valores devidos ao Veículo e pela parcela que cabe à apelada, a título de "desconto-padrão da Agência" e a divisão dos Bônus de Incentivo devidos à apelada e, bem assim, em acordo verbal no sentido da reversão dos valores relativos ao "desconto-padrão" a apelante.
+  ..
+A seu turno, a cláusula segunda do Instrumento Particular e Outras Avenças condicionou a vigência do pacto a não rescisão do CPS Fullpack Comunicação e CPS Fullpack Branding.
+Desta feita, uma vez que a Fullpack Branding não chegou a ser constituída, não há como o contrato ser considerado, minimamente, eficaz e, portanto, deve prevalecer o disposto nas cláusulas quinta, parágrafo único, sétima e oitava do Contrato de Prestação de Serviços de Comunicação, Publicidade e Propaganda pelas quais o desconto-padrão e as verbas do Plano de Incentivo pertencem única exclusivamente à Agência de Publicidade, ora apelada - contrato de fls. 29/38.
+Além do mais, conforme se verifica dos itens 2.5 e 4.1, das Normas-Padrão, tais valores pertencem exclusivamente à Agência de Publicidade.
+A apelante, sustenta, ainda, que as planilhas anexadas aos autos demonstrariam que durante toda a vigência do pacto, a apelada haveria lhe repassado as verbas objeto desta ação. No entanto, as tabelas não estão em folha com o logotipo da Apelada e tampouco assinadas por qualquer preposto da Agência, além de não haverem sido reconhecidas pela Fullpack na peça de defesa.
+A seu turno, a planilha que haveria sido elaborada pelo sr. Júlio Ribeiro, funcionário da Fullpack, está inserida no e-mail enviado em 11.05.2012, ou seja, cinco meses antes da celebração dos contratos entre as partes e o e-mail trocado entre os representantes legais das partes (fls. 568). Neste documento, apenas faz menção a um acordo havido entre eles, nos parecendo que dizem respeito aos juros pelo atraso no pagamento das verbas devidas pela Doarbelleza à empresa Fullpack.
+De outra forma, as notas-fiscais, juntadas à contestação comprovam que a quantia relativa ao "desconto- padrão" era destinada a Agência de Publicidade.
+Observo que ao impugnar a alegação de que estaria retendo indevidamente as verbas cobradas pela apelante e bem assim a eficácia do Instrumento Particular de Acordo e Outras Avenças, a apelada abarcou o bônus de incentivo, pelo o que não há que se falar em confissão em relação tais quantias.
+Diante disso, comungo do entendimento do ilustre Magistrado prolator da sentença, quanto ao fato de a apelante não haver se eximido do ônus que lhe impõe o artigo 373, I, do CPC, de demonstrar as suas alegações, não havendo qualquer reparo a ser efetuado na r. sentença que se mantém.
+A Corte local concluiu que os valores referentes ao desconto-padrão pertenceriam exclusivamente à parte recorrida, por entender que: (i) o instrumento particular de acordo seria ineficaz, (ii) não houve confissão e (iii) a parte recorrente não se eximiu do seu ônus probatório.
+Portanto, para acolher as alegações da parte agravante, seria indispensável a análise do conjunto fático-probatório dos autos, hipótese vedada pela Súmula n. 7/STJ.
+Por fim, não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
