@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (e-STJ fl. 472):
+PROCESSUAL CIVIL. AGRAVO INTERNO. PROCESSAMENTO DE PEDIDO DE NATURALIZAÇÃO.
+1. As provas pré-constituídas trazidas aos autos permitem a análise do pedido formulado pelo impetrante na via mandamental.
+2. O impetrante, haitiano, ingressou regularmente em território brasileiro em 27/7/2013, obtendo autorização de residência permanente, como se observa no Registro Nacional Migratório (RNM) de nº G220528-Q, expedido em 07/03/2016 e válido até 15/02/2025. Passados dez anos desde o ingresso no território nacional, pretender pleitear a naturalização brasileira.
+3. Não obstante a legislação preveja a exigência de vários documentos para instruir o pedido de naturalização, dentre eles a certidão de antecedentes criminais expedida pelo país de origem, devem ser observadas as nuances do caso concreto.
+4. Na hipótese vertente, verifica-se que o apelante, logo que deu entrada no processo administrativo para a naturalização, no ano de 2020, apresentou o atestado de antecedentes criminais expedido pelo país de origem, emitido em
+14/10/2020; todavia, foi informado que a referida certidão venceu no decorrer do processo.
+5. Não é razoável exigir a certidão de antecedentes criminais emitida pelo país de origem, de pessoa que demonstrou já viver e trabalhar no Brasil há dez anos, sendo que o documento em questão foi devidamente apresentado na ocasião da regularização de sua autorização de residência permanente.
+6. Agravo interno não provido. Prejudicada análise de atribuição de efeito suspensivo.
+Em suas razões, a parte agravante apontou violação dos arts. 1º, 10, 30, 31, 34 e 45 todos da Lei n. 13.445/2017, argumentando, em suma, que a exigência de comprovação dos antecedentes criminais tem previsão legal e a flexibilização documental só é admitida em casos específicos de registro de populações vulneráveis, como refugiados e apátridas, o que não se aplica ao caso.
+Ressalta, ainda, a impropriedade do mandado de segurança para discutir critérios de razoabilidade da isenção documental, por ser necessária dilação probatória.
+Contrarrazões às e-STJ fls. 532/538.
+Juízo positivo de admissibilidade pelo Tribunal de origem.
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar.
+Observa-se que o Tribunal de origem não emitiu juízo de valor sobre os arts. 1º, 10, 30, 31, 34 e 45, todos da Lei n. 13.445/2017, tidos por violados, tampouco foram opostos embargos de declaração para fins de prequestionamento.
+Com efeito, a decisão recorrida está fundamentada nos arts. 65 da Lei n. 13.445/2017 e 234 do Decreto Regulamentar n. 9.199/2017 e na Portaria n. 623/2020, com a seguinte conclusão (e-STJ fls. 459/460):
+Pois bem. O apelante é nacional da República do Haiti e adentrou regularmente em território brasileiro em 27/7/2013, obtendo autorização de residência permanente, como se observa no Registro Nacional Migratório (RNM) de nº G220528-Q, expedido em 07/03/2016 e válido até 15/02/2025 (id. 281940840). Passados 10 (dez) anos desde o ingresso no território nacional, o apelante pretende pleitear a naturalização brasileira.
+Não obstante a legislação preveja a exigência de vários documentos para instruir o pedido de naturalização, dentre eles a certidão de antecedentes criminais expedida pelo país de origem, é cediço que existe a possibilidade de flexibilização das regras de cunho migratório, observadas as nuances do caso concreto.
+Na hipótese dos autos, verifica-se que o apelante, logo que deu entrada no processo administrativo para a naturalização, no ano de 2020, apresentou o atestado de antecedentes criminais expedido pelo país de origem, emitido em 14/10/2020 (ID 281940847); todavia, foi informado que a referida certidão venceu no decorrer do processo.
+Além disso, não é razoável exigir a certidão de antecedentes criminais emitida pelo país de origem, de pessoa que demonstrou já viver e trabalhar no Brasil há 10 , sendo que o documento em questão foi devidamente apresentado na(dez) anos ocasião da regularização de sua autorização de residência permanente.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Com efeito, nos termos da jurisprudência desta Corte, para que se configure o prequestionamento, mister se faz que a tese jurídica vinculada no recurso especial tenha sido decidida à luz da legislação federal indicada.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Os arts. 502, 503, 507 e 508 do Código de Processo Civil (CPC) não foram apreciados pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. No presente caso, o Tribunal de origem afastou a pretensão autoral fundamentado na inconstitucionalidade do art. 156, § 2º, da Lei Complementar Estadual 92/2002, que estendia aos inativos a transposição feita aos ativos do cargo de Agente Fiscal para Auditor Fiscal. Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal, prevista no art. 102 da Constituição Federal.
+3. O acórdão recorrido reconheceu a ilegitimidade dos agravantes para executar o título executivo com base no acervo fático-probatório dos autos. Logo, não há como afastar a incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) quanto ao ponto questionado.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.795.898/PR, relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, julgado em 4/3/2024, DJe de 7/3/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATO INFRALEGAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. FUNDAMENTO CONSTITUCIONAL AUTÔNOMO. RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA. SÚMULA 126/STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. É inviável o conhecimento do recurso especial uma vez que, não obstante a alegação de ofensa a dispositivo de lei federal, o deslinde da controvérsia implica análise de ato normativo de natureza infralegal, qual seja, a Resolução 566/2012 do Conselho Federal de Farmácia.
+2. A não interposição do devido recurso extraordinário dirigido ao Supremo Tribunal Federal quando há fundamento constitucional autônomo no acórdão recorrido atrai a incidência da Súmula 126/STJ.
+3. As teses recursais em torno da violação ao art. 24 do Decreto-Lei 4.657/1942, incluído pela Lei 13.655/2018, e art. 282 do CPC, não foram objeto de análise pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, ainda que implícito, incide, no ponto, as Súmulas 282 e 356/STF, por analogia.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.936.928/RS, relator Ministro AFRÂNIO VILELA, SEGUNDA TURMA, julgado em 26/8/2024, DJe de 28/8/2024.)
+Por fim, no que tange à alegação de impropriedade da via eleita em razão de necessidade de dilação probatória, a parte recorrente deixou de indicar os dispositivos legais que teriam sido contrariados, o que atrai a incidência da Súmula 284 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
