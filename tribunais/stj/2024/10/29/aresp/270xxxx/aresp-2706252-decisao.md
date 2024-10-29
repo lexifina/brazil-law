@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por UNIMED DE SANTOS COOPERATIVA DE TRABALHO MÉDICO contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, inciso III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO. PLANO DE SAÚDE. HOME CARE. Impugnação ao valor da causa. Acolhimento. Ausente valor do tratamento pretendido. Valor da causa deve corresponder a doze vezes o valor da mensalidade relativa ao mês de abril de 2023 (mês em que a demanda foi ajuizada), somada ao pedido de reembolso de despesas e indenização por danos morais. Sentença de procedência. Insurgência da ré. Parcial cabimento. Devido o fornecimento da cama hospitalar, bem como assistência de enfermagem, fisioterapia e visita médica. Fornecimento de insumos (cadeira de banho e fraldas geriátricas) afastado. Plano de saúde que não é obrigado a custear equipamentos/órteses não relacionadas a procedimento cirúrgico. Itens solicitados que são de uso domiciliar e não estão relacionados ao tratamento prescrito. Reembolso de despesas. Serviço de cuidador está fora do âmbito de serviços médicos. Precedentes. Cobertura de medicamentos de uso contínuo e domiciliar afastada, assim como insumos de uso domiciliar listados. Reembolso de gastos comprovados com fisioterapia domiciliar e cama hospitalar. Danos morais. Inocorrência. Mero dissabor, pois não há violação ao direito subjetivo do requerente. Condenação por danos morais afastada. Reconhecida a sucumbência recíproca. Recurso parcialmente provido." (e-STJ fl. 464).
+Não foram apresentados embargos de declaração.
+No especial, a recorrente aponta violação do artigo 10, VII, da Lei 9.656/98, sustentando, em síntese, que não é obrigada a fornecer à beneficiária cama hospitalar.
+Após a apresentação das contrarrazões (e-STJ fls. 531/535), o recurso foi inadmitido na origem.
+É o relatório.
+DECIDO.
+Ultrapassados os requi sitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Eis a letra do acórdão transcrito no que interessa à espécie:
+"Nas razões de apelação, a ré não impugna a cobertura do tratamento domiciliar, mas se insurge quanto ao fornecimento de insumos, produtos e medicamentos de uso domiciliar e de higiene pessoal, bem como o reembolso de cuidador e indenização por danos morais.
+O relatório médico de fls. 34 menciona expressamente que a autora "Necessita de cuidados de enfermagem para mudança de decúbito, que deve ser realizada cada duas horas e para os cuidados em relação à escara. Necessita de fisioterapia domiciliar, três vezes por semana, bem como de cama hospitalar. É recomendável visita médica mensal. A paciente necessita de cadeira de banho e fraldas geriátricas descartáveis".
+O fornecimento da cama hospitalar é um suporte essencial para o tratamento da autora e deve ser fornecido pelo plano de saúde" (e-STJ fl. 468).
+A posição do Tribunal de origem está em consonância com o entendimento desta Corte firmado no sentido de que a cobertura de internação domiciliar, em substituição à internação hospitalar, deve abranger os insumos necessários para garantir a efetiva assistência médica ao beneficiário.
+A propósito:
+"DIREITO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. AUTOGESTÃO. TRATAMENTO DOMICILIAR (HOME CARE). INSUMOS NECESSÁRIOS. CAMA HOSPITALAR. RECUSA INDEVIDA DE COBERTURA (SÚMULA 83/STJ). AGRAVO INTERNO DESPROVIDO.
+1. "A taxatividade do Rol de Procedimento e Eventos em Saúde da ANS, pacificada pela Segunda Seção ao examinar os EREsp nº 1.886.929/SP, não prejudica o entendimento há muito consolidado nesta Corte de que é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar, por não configurar procedimento, evento ou medicamento diverso daqueles já previstos pela agência" (AgInt no AREsp 2.021.667/RN, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2022, DJe de 2/12/2022).
+2. "A cobertura de internação domiciliar, em substituição à internação hospitalar, deve abranger os insumos necessários para garantir a efetiva assistência médica ao beneficiário; ou seja, aqueles insumos a que ele faria jus acaso estivesse internado no hospital, sob pena de desvirtuamento da finalidade do atendimento em domicílio, de comprometimento de seus benefícios, e da sua subutilização enquanto tratamento de saúde substitutivo à permanência em hospital" (REsp 2.017.759/MS, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/2/2023, DJe de 16/2/2023).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.994.361/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/6/2023, DJe de 23/6/2023.)
+"RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. HOME CARE. INTERNAÇÃO DOMICILIAR SUBSTITUTIVA DA INTERNAÇÃO HOSPITALAR. INSUMOS NECESSÁRIOS AO TRATAMENTO DE SAÚDE. COBERTURA OBRIGATÓRIA. CUSTO DO ATENDIMENTO DOMICILIAR LIMITADO AO CUSTO DIÁRIO EM HOSPITAL.
+1. Ação de obrigação de fazer ajuizada em 23/01/2020, da qual foi extraído o presente recurso especial, interposto em 25/04/2022 e concluso ao gabinete em 10/08/2022.
+2. O propósito recursal é decidir sobre a obrigação de a operadora do plano de saúde custear os insumos necessários ao tratamento médico da usuária, na modalidade de home care (internação domiciliar).
+3. Nos termos da jurisprudência desta Corte, é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar. Precedentes.
+4. A cobertura de internação domiciliar, em substituição à internação hospitalar, deve abranger os insumos necessários para garantir a efetiva assistência médica ao beneficiário; ou seja, aqueles insumos a que ele faria jus acaso estivesse internado no hospital, sob pena de desvirtuamento da finalidade do atendimento em domicílio, de comprometimento de seus benefícios, e da sua subutilização enquanto tratamento de saúde substitutivo à permanência em hospital.
+5. O atendimento domiciliar deficiente levará, ao fim e ao cabo, a novas internações hospitalares, as quais obrigarão a operadora, inevitavelmente, ao custeio integral de todos os procedimentos e eventos delas decorrentes.
+6. Hipótese em que deve a recorrida custear os insumos indispensáveis ao tratamento de saúde da recorrente - idosa, acometida de tetraplegia, apresentando grave quadro clínico, com dependência de tratamento domiciliar especializado - na modalidade de home care, conforme a prescrição feita pelo médico assistente, limitado o custo do atendimento domiciliar por dia ao custo diário em hospital.
+7. Recurso especial conhecido e provido".
+(REsp n. 2.017.759/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/2/2023, DJe de 16/2/2023.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CONDENATÓRIA . DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. O espólio e os herdeiros possuem legitimidade ativa ad causam para ajuizar ação indenizatória por danos morais em virtude da ofensa moral suportada pelo de cujus. Incidência da Súmula 83/STJ.
+2. A conclusão a que chegou o Tribunal de origem, relativa à existência de ilícito violador de ofensa a direitos da personalidade, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ. 3. Agravo interno desprovido" (AgInt no AREsp 1.567.104/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/6/2020, DJe 3/8/2020)
+Incide, no caso, o enunciado da Súmula nº 568 /STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o proveito econômico, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
