@@ -1,0 +1,24 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado (fl. 995):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2022. AUSÊNCIA DE OFENSA. SUFICIÊNCIA NA FUNDAMENTAÇÃO. CONTRATOS DE EMPREITADAS. ATRASO NA ENTREGA DA OBRA. COMPROVAÇÃO. AUSÊNCIA. CONCLUSÃO BASEADA NO CONJUNTO PROBATÓRIO DOS AUTOS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME. SÚMULA 7/STJ. JUROS DE MORA. TERMO INICIAL. DÍVIDA LÍQUIDA E POSITIVA. DATA DO VENCIMENTO. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A apontada violação aos art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões que foram submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da parte recorrente.
+2. Infirmar as conclusões do acórdão - mormente quanto à ausência de elementos probatórios aptos a demonstrar o período de atraso nas obras realizadas pela autora na loja do shopping - exigiria o revolvimento do conjunto fático probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+3. Consoante orientação desta Corte Superior, "nas situações em que a dívida é líquida e com vencimento certo, os juros de mora e a correção monetária devem incidir desde o vencimento da obrigação, mesmo nos casos de responsabilidade contratual. Súmula 568/STJ" (AgInt no R Esp n. 1.977.438/RS, relatora a Ministra Nancy Andrighi, Terceira Turma, D Je de 6/4/2022). Incidência da Súmula 83/STJ.
+4. Agravo interno improvido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido omissão na decisão recorrida, porquanto não houve o pronunciamento acerca de questões essenciais ao deslinde da controvérsia. Acrescenta que vem desde sempre alegando que há prova nos autos de ter havido atraso na entrega das obras e, ainda, que a responsabilidade pela realização de um cronograma era da própria Recorrida.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, que não examinou o mérito do recurso dirigido a esta Corte Superior, como se observa do seguinte trecho do referido julgado (fl. 997):
+Consoante anotado na decisão agravada, depreende-se que o colegiado estadual consignou a ausência de elementos probatórios para indicar o efetivo período de atraso nas obras na loja do "Shopping Village Mall", ressaltando não ser "possível afirmar as datas em que as obras foram iniciadas e finalizadas" e que "o cálculo dos dias de inatividade da loja e o consequente valor das perdas e danos sofridos pela 1ª ré resta prejudicado" (e-STJ, fl. 841). Com efeito, estando as conclusões do acórdão recorrido alicerçadas nos elementos fático-probatórios dos autos, fica o Superior Tribunal de Justiça impedido de rever os fundamentos adotados, dada a incidência da Súmula n. 7/STJ.
+Assim, fica inviabilizado o exame pretendido nesta insurgência, relacionado às questões de mérito submetidas ao STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
