@@ -1,0 +1,21 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que deu provimento ao recurso em sentido estrito interposto pelos recorridos para receber a queixa-crime, determinando-se o prosseguimento do feito.
+A defesa aponta a violação dos arts. 138 do CP e 5º, § 3º, 395, I e II e 48, todos do CPP, alegando, em síntese, que o dolo de ofender a honra dos recorrentes não ficou demonstrado, devendo ser rejeitada a queixa-crime. Sustenta que "houve também expressa violação ao princípio da indivisibilidade da ação penal privada, tendo em vista que os Recorridos deixaram de processar os responsáveis pela empresa MONTAX." (e-STJ fl. 681)
+Contrarrazões às e-STJ fls. 1.928/1.946.
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso às e-STJ fls. 2.477/2.482.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o TJRJ deu provimento ao recurso em sentido estrito interposto pelos recorridos para receber a queixa-crime, determinando-se o prosseguimento do feito.
+A defesa alega, inicialmente, que o dolo de ofender a honra dos recorrentes não ficou demonstrado, devendo ser rejeitada a queixa-crime. Sobre o tema, o Tribunal de origem assim se pronunciou:
+E, no caso, a peça acusatória preenche todos esses requisitos legais, restando descritas as condutas, de forma individualizada, perpetradas pelo querelado, ficando evidenciado o dolo específico do recorrido de caluniar os recorrentes (e-doc. 02).
+Como bem pontuou o Ministério Público, o mencionado relatório não se encontra assinado pelo técnico responsável pelas informações ali constantes e o agir do recorrido não revela "mero "ânimo de narrar fato de inegável interesse nos autos daquela ação de recuperação judicial" (fl. 458 (index 455)), mas, sim, uma utilização leviana de informações sensíveis e com o potencial de macular a honra dos querelantes." (fls. 03 do e-doc. 521). E se o recorrido não se cercou das cautelas necessárias e se agiu com o dolo de macular a honra das vítimas, a queixa- crime deve ser recebida. (e-STJ fls. 566/567)
+A partir do trecho acima transcrito, verifica-se que as razões recursais alegando que o dolo de caluniar não foi demonstrado em confronto com as afirmações do acórdão recorrido, prendem-se a uma perspectiva de reexame de matéria de fato, providência inviável na via do recurso especial, a teor do disposto na Súmula n. 7 deste STJ. Nessa linha:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A HONRA. CALÚNIA. INTENÇÃO DIFAMATÓRIA. DOLO ESPECÍFICO. REEXAME DE PROVA. SÚMULA 7/STJ.
+1. O Tribunal de Justiça do Estado do Tocantins, soberano na análise dos fatos e provas, entendeu que as expressões utilizadas pela agravante demonstram a presença do animus in juriandi, não havendo falar em ausência de dolo específico.
+2. Para desconstituir as conclusões do Tribunal de origem e abrigar o pleito defensivo seria necessário o revolvimento de matéria fático-probatório, providência exclusiva das instâncias ordinárias, vedada a este Sodalício em sede de recurso especial, ante o óbice da Súmula n. 7/STJ.
+ ..
+2. Agravo regimental desprovido. (AgInt no REsp n. 1.771.393/TO, relator Ministro Jorge Mussi, Quinta Turma, DJe de 6/5/2019).
+O mesmo óbice sumular incide sobre a tese de violação ao princípio da indivisibilidade da ação penal privada, isso porque consta do acórdão recorrido que "o dolo de caluniar, existiu apenas no atuar do embargante e não no da empresa, pelo que se percebe com os elementos que se tem até aqui. E não sendo evidente que o recorrente e a empresa estejam na mesma situação, não seria cabível falar na necessidade de propositura da ação contra ambos. Assim, não parece que tenha ocorrido violação ao princípio da indivisibilidade da ação penal " (e-STJ fl. 629). A desconstituição dessa premissa não prescinde do reexame do conteúdo fático-probatório dos autos.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
