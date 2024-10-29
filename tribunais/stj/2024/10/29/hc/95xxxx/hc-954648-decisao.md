@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de JAQUELINE TRINDADE FERREIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no HC n. 1.0000.24.394189-5/000.
+Consta dos autos que o juízo da execução penal unificou as penas privativas de liberdade da paciente no regime aberto e, posteriormente, diante do não pagamento da pena de multa, fixou o regime semiaberto.
+Inconformada, a defesa impetrou o writ originário, o qual não foi conhecido em acórdão assim ementado:
+"HABEAS CORPUS - FURTO QUALIFICADO - EXECUÇÃO PENAL - UNIFICAÇÃO DE PENA - INADEQUADA DA VIA ELEITA - CONSTRANGIMENTO ILEGAL - NÃO VERIFICADO. Tendo em vista a necessidade de se preservar a utilidade do writ como instrumento de tutela da liberdade de locomoção, prevalece na jurisprudência o entendimento de que não se admite a impetração de habeas corpus em substituição ao recurso adequado. A concessão da ordem em HC substitutivo de recurso próprio ou de revisão criminal fica adstrita, portanto, às hipóteses de flagrante ilegalidade constatável sem a necessidade de revolvimento fático-probatório, o que não se verifica nos autos." (fl. 12)
+O impetrante afirma que a paciente estava em cumprimento de pena restritiva de direitos quando sobreveio nova condenação na pena dess a mesma espécie, mostrando-se cabível o cumprimento de ambas sem a necessidade de reconversão em privativas de liberdade, nos termos do Tema n. 1106 desta Corte.
+Também alega que o mandado de prisão foi cumprido na residência da paciente no período noturno, o que torna o ato ilegal.
+Requer, em liminar e no mérito, o relaxamento da prisão e o restabelecimento das penas restritivas de direitos.
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 9/8/2016).
+Ademais, as razões apresentadas pelo impetrante estão dissociadas dos fundamentos do acórdão impugnado, o qual não se manifestou sobre a reconversão das penas e o relaxamento da prisão. Confira-se:
+" ..
+Dessa forma, percebe-se que a situação da paciente está sendo devidamente acompanhada pelo magistrado a quo. Vejamos as informações prestadas pelo douto magistrado:
+ ..
+JAQUELINE TRINDADE FERREIRA foi condenada a cumprir 03 anos e 9 meses de detenção em regime aberto, tendo sido a pena privativa de liberdade convertida em restritiva de direitos, consistente na prestação de serviços gratuitos à comunidade e prestação pecuniária (seq. 1.1). Realizada audiência JAQUELINE TRINDADE FERREIRA se comprometeu a: (a) prestação serviços gratuitos a comunidade, (b) cumprir prestação pecuniária no valor de um salário-mínimo, (c) abster-se do uso de drogas e bebidas alcoólicas, (d) não mudar de endereço ou se ausentar da comarca sem autorização judicial, (e) pagar as custas processuais, (f) participar de palestras (seq. 16.1). Sobreveio a junta de guia de execução da pena definitiva para o cumprimento 2 (dois) anos de reclusão e ao pagamento de 10 (dez) dias-multa (seq. 23.1). Considerando a unificação das penas, determinou-se o cumprimento da pena no regime ABERTO e a retificação do levantamento da pena (seq. 33.1). Certificou-se que não foi comprovado o pagamento o pagamento da multa, mas apenas da prestação pecuniária (seq. 40.1). O Ministério Público manifestou pelo cumprimento da pena no regime SEMIABERTO e a expedição de mandado de prisão (seq. 48.1). Acolheu-se o pedido do Ministério Público e determinou-se o cumprimento da pena no regime SEMIABERTO (seq. 55.1). Certificou-se o cumprimento do mandado de prisão (seq. 71.1).
+Realizada audiência de custódia determinou o prosseguimento da pena no regime SEMIABERTO (seq. 77.1). Com tais considerações, não há que se falar em ilegalidade da decisão que determinou a expedição de mandado de prisão para o CUMPRIMENTO DA PENA NO REGIME SEMIABERTO, uma vez que realizada nos preceitos legais e cumprida no regime adequado. IV - Conclusão. Era o que tinha a informar. (..)"
+Pelo exposto, não se verifica, de plano, flagrante e manifesta ilegalidade a configurar ofensa, ainda que indireta, ao direito de ir e vir do paciente, o que impõe o não conhecimento do presente habeas corpus." (fls. 17/18)
+Ante o exposto, indefiro liminarmente o presente habeas corpus, com fundamento no art. 210 do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
