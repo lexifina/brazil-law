@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CIRILO RODRIGUES DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Agravo de Execução Penal nº 1.0000.24.093101-4/001).
+Consta dos autos que o paciente foi condenado a cumprir pena de 8 anos de reclusão em regime inicialmente semiaberto, tendo o juízo da execução penal concedido a prisão domiciliar diante da ausência de unidade própria para início do cumprimento da pena em regime semiaberto.
+O Tribunal de origem deu provimento ao agravo em execução do Ministério Público em julgado assim ementado (fl. 69):
+AGRAVO EM EXECUÇÃO - REGIME SEMIABERTO - SÚMULA VINCULANTE 56 DO SUPREMO TRIBUNAL FEDERAL - TRATAMENTO MAIS SEVERO AOS DELITOS MAIS GRAVES - NÃO COMPROVAÇÃO DO REGIME MAIS GRAVOSO - INEXISTÊNCIA DE VIOLAÇÃO DA ISONOMIA - NÃO CABIMENTO DA PRISÃO DOMICILIAR - 1. A prisão domiciliar é um benefício concedido apenas nas hipóteses previstas no artigo 117 da Lei de Execução Penal ou em situações excepcionais, devidamente comprovadas. - 2. Tratando-se de reeducando em cumprimento de pena em regime semiaberto, a concessão da prisão domiciliar só pode ocorrer se comprovada a necessidade excepcional da medida. - 3. O cumprimento da reprimenda em regime semiaberto pode se dar em unidade prisional, desde que respeitada a separação dos reeducandos inseridos no regime fechado e garantida a fruição dos benefícios inerentes ao regime intermediário. - 4. Em se tratando de reeducando condenado pela prática de crime hediondo é inviável a concessão da prisão domiciliar excepcional no regime semiaberto. - 5. O estabelecimento prisional, vinculado também à decisão do Supremo Tribunal Federal, deve providenciar as condições adequadas de cumprimento do regime semiaberto: separação dos reeducandos do regime fechado, trabalho interno ou externo, e gozo de saídas temporárias. - 6. Mostra-se inaplicável o comando da Súmula Vinculante 56 do Supremo Tribunal Federal, quando não estão configuradas as situações previstas no precedente, as quais justificam a tomada de providências que impeçam a sujeição do reeducando a regime mais gravoso. - 7. A gestão adequada das vagas reservadas ao regime semiaberto, precisamente aquelas destinadas aos reeducandos que obtiveram autorização para o trabalho externo, deve ser feita pela direção da unidade prisional, sob a orientação do Juízo da execução, para que haja prioridade na concessão de prisão domiciliar aos reeducandos que cumprem pena pela prática de delitos que não se enquadrem como delitos em que há previsão de tratamento mais rigoroso. - 8. Não se deve tratar com isonomia situações diferentes, sobretudo no que tange aos tipos penais com maior gravidade em concreto, na prática de condutas cuja disciplina legal e constitucional expressamente determina um regime mais severo.
+No presente writ, aduz a impetrante que o paciente atualmente cumpre pena em outra cidade, porque onde reside sua família permanece a ausência de vagas, e encontra-se preso em regime fechado.
+Sustenta que a concessão da prisão domiciliar é a medida mais compatível com os princípios constitucionais e os direitos humanos diante da ausência de vagas em estabelecimento adequado ao regime semiaberto.
+Invoca a aplicação da Súmula Vinculante nº 56/STF.
+Destaca que o paciente é idoso e hipertenso e que a falta da medicação diária adequada pode provocar até mesmo fortes riscos a sua vida.
+Requer, liminarmente e no mérito, o restabelecimento da prisão domiciliar.
+Informações prestadas às fls. 91-107 e fls. 11-129.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+ ..
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..
+3. Agravo regimental não provido.
+(AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..
+II - O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 935.569/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+De fato, c onforme destacado pelo Tribunal de origem (fl. 75-76):
+Ocorre que, a despeito da alegação de incapacidade da unidade prisional de acolher os reeducandos que iniciarão o cumprimento de pena em regime semiaberto, é possível que os reeducandos submetidos ao referido regime cumpram sua reprimenda no regime prisional adequado. Exige-se apenas que haja separação dos reeducandos inseridos no regime fechado, garantindo-se a fruição dos benefícios inerentes ao regime intermediário.
+ ..
+Considere-se que deve diligenciar a direção da unidade prisional, para que sejam separados os reeducandos em regime fechado daqueles que cumprem pena em outros regimes, sobretudo o semiaberto. Além disso, deve ser garantido o direito ao trabalho, interno ou externo, e ainda o gozo de saídas temporárias, para que seja mantido o contato com a família.
+Verifica -se das informações prestadas à fl. 111 que "as penas do paciente perfazem o total de 8 (oito) anos de reclusão, em regime inicial semiaberto, com trabalho externo e saídas temporárias já deferidas, atualmente recluso no Presídio Inspetor José Martinho Drumond."
+Além disso, em consulta ao site SEEU, verifica-se que, em 1/10/2024, foi certificado que o paciente foi atendido pelo médico da unidade e que diante dos níveis pressóricos aferidos, optou por controle pressórico e redução da dose do Anlodipino para 05mg/dia. Ressaltou-se que a medicação de uso contínuo prescrita é padronizada e foi fornecida ao paciente logo após a consulta; motivo pelo qual não necessita de fornecimento por parte da família.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
