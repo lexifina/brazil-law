@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 23/10/2024 a 29/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. SERVIDORA PÚBLICA ESTADUAL. AUSÊNCIA DE DEMONSTRAÇÃO DE DIVERGÊNCIA. NÃO CONHECIMENTO. DISTRIBUIÇÃO EM DUPLICIDADE. AGRAVO INTERNO DESPROVIDO.
+1.  Para o acolhimento da pretensão da parte que instaura o pedido de uniformização de interpretação de lei, necessária a demonstração da alegada divergência, com o devido cotejo analítico.
+2. Distribuído, equivocadamente, em duplicidade o pedido de uniformização de interpretação de lei, não deve ser conhecido aquele que foi distribuído posteriormente.
+3. Agravo  interno  desprovido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  pelo ESTADO DO CEARÁ contra  a  decisão  de fls. 479-481, em que  não conhecido o pedido de uniformização de jurisprudência, por ausência de demonstração de divergência quanto à (in)ocorrência da prescrição do fundo de direito no caso de requerimento de inclusão de companheira como beneficiária da pensão por morte, além de não haver contrariedade à súmula ou jurisprudência dominante da Corte.
+A parte agravante, inicialmente, suscita o chamamento do feito à ordem, por ter havido duplicidade na distribuição do pedido de uniformização de interpretação de lei, em relação ao anterior PUIL 3.262/CE, que estaria pendente de julgamento o agravo interno.
+No mérito, argumenta ter indicado decisões conflitantes de Turmas Recursais às fls. 408-429, além da jurisprudência deste STJ, motivo pelo qual reitera o pedido pela aplicação do decidido no PUIL 169/RS
+Sustenta, ainda, a inaplicabilidade da Súmula 85 deste STJ, diante da negativa administrativa expressa ao pedido de pensão por morte da parte agravada.
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Apresentadas contrarrazões (fls. 500-504).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. SERVIDORA PÚBLICA ESTADUAL. AUSÊNCIA DE DEMONSTRAÇÃO DE DIVERGÊNCIA. NÃO CONHECIMENTO. DISTRIBUIÇÃO EM DUPLICIDADE. AGRAVO INTERNO DESPROVIDO.
+1.  Para o acolhimento da pretensão da parte que instaura o pedido de uniformização de interpretação de lei, necessária a demonstração da alegada divergência, com o devido cotejo analítico.
+2. Distribuído, equivocadamente, em duplicidade o pedido de uniformização de interpretação de lei, não deve ser conhecido aquele que foi distribuído posteriormente.
+3. Agravo  interno  desprovido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+Inicialmente, verifico que, de fato, foi distribuído anterior pedido de uniformização de jurisprudência - PUIL 3262/CE, cujo objeto é idêntico ao aqui controvertido, referindo-se ambos à mesma ação na origem (1450750620158060001).
+Porém, o agravo interno nos autos do PUIL 3.262/CE, distribuído primeiro, já fora julgado, com publicação em 23/9/2024 - sendo mantido o seu não conhecimento.
+Assim, não tendo sido conhecido o pedido em ambos, não há qualquer prejuízo à nenhuma das partes.
+Ademais, tendo aquele pedido de uniformização de interpretação de lei sido distribuído primeiro, nestes autos só restaria o seu não conhecimento, diante da duplicidade de distribuição. Ainda que por outro fundamento, o pedido não foi conhecido na decisão agravada, nos seguintes termos:
+De plano, verifico incabível o presente pedido de uniformização de interpretação de lei.
+É que não ficou demonstrada a divergência quanto à (in)ocorrência da prescrição do fundo de direito no caso de requerimento de inclusão de companheira como beneficiária da pensão por morte, nem contrariedade à súmula ou jurisprudência dominante da Corte. O Estado do Ceará, embora cite jurisprudência deste Superior Tribunal de Justiça, inclusive quanto ao já julgado PUIL 169/RS (decorrente de decisão da Terceira Turma Recursal do Rio Grande do Sul), não demonstra decisões conflitantes das Turmas Recursais a justificar o pedido de uniformização.
+O art. 18 da Lei 12.153/2009 (que Dispõe sobre os Juizados Especiais da Fazenda Pública) prevê que "caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material" ou quando a decisão contrariar súmula ou jurisprudência dominante do tribunal.
+O PUIL foi regulamentado pela Resolução 10/2007 deste STJ e também previsto no art. 67, parágrafo único, VIII-A, do Regimento Interno do STJ, que preveem a necessidade de, inicialmente, proceder-se à (in)admissão do procedimento, momento em que é dever do relator a análise da presença dos pressupostos de seu cabimento.
+No caso, ao contrário do que o disposto legalmente quanto à finalidade do instituto, não houve demonstrada divergência de entendimento e/ou aplicação do art. 1º do Decreto 20.910/1932, quanto à prescrição do fundo de direito para o recebimento de pensão por morte, nem mesmo de ofensa à Súmula ou jurisprudência desta Corte.
+O PUIL 169/RS invocado pelo Estado do Ceará, cujo objeto também se relacionava à ocorrência da prescrição (se de trato sucessivo ou de fundo de direito) para demanda ajuizada por servidor público que visava ao reconhecimento de seu direito à pensão por morte, não foi provido. Ademais, a decisão que o ensejou difere-se do caso na espécie, porque diz respeito à apresentação do pedido do pensionamento pelo beneficiário em prazo superior a cinco anos contados da morte do instituidor da pensão.
+Por fim, como dito, não houve ofensa à jurisprudência desta Corte. Do contrário, no julgamento do ER Esp 1.269.726/MG pela Primeira Seção (no mesmo sentido do decidido pelo STF no RE 626.489/SE), expressamente se definiu que nos casos em que se pleiteia o direito ao recebimento da pensão por morte, a prescrição só ocorrerá quanto às parcelas vencidas no quinquênio anterior ao ajuizamento da demanda, por se tratar de relação de trato sucessivo, no mesmo sentido do que já prevê a Súmula 85 do STJ. Da ementa do julgado, pertinente destacar o seguinte:
+ ..  o benefício previdenciário constitui direito fundamental da pessoa humana, dada a sua natureza alimentar e vinculada à preservação da vida. Por essa razão, não é admissível considerar extinto o direito à concessão do benefício pelo seu não exercício em tempo que se julga oportuno. A compreensão axiológica dos Direitos Fundamentais não cabe na estreiteza das regras do processo clássico, demandando largueza intelectual que lhes possa reconhecer a máxima efetividade possível.
+E, como bem fundamentado no acórdão que negou provimento ao recurso inominado, observou-se o disposto na Súmula 85 do STJ, que prevê o seguinte:
+Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação.
+Ainda que o Estado do Ceará argumente prescrito o direito da instituição da pensão porque já negado administrativamente, há mais de cinco anos, importa considerar, no caso dos autos, que o processo administrativo não havia terminado para se iniciar eventual prazo ao requerimento na via judicial, pelo que prejudicada a discussão proposta pelo requerente quanto à prescrição do fundo de direito no caso em que expressa a negativa administrativa do benefício previdenciário.
+Assim, ainda que pelo equívoco apontado pela parte agravante na distribuição, deve ser mantida a decisão que não conheceu do pedido de uniformização de jurisprudência.
+Isso posto, nego provimento ao recurso.
