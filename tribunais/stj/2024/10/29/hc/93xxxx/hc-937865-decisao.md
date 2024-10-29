@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso oridnário, com pedido de liminar impetrado em favor de KELVIN KENNEDY DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi preso em flagrante e, posteriormente, teve a prisão convertida em preventiva pela prática, em tese, do delito de tráfico de drogas. A prisão foi decretada visando garantir a ordem pública em razão da gravidade em concreto da conduta pois teria posição de destaque na distribuição de drogas na cidade de Buri/SP.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente pelos mesmos fundamentos, denegando a ordem em acórdão de fls. 17-31.
+No presente writ, alega a defesa que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar ponderando suas condições pessoais favoráveis.
+Requer a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida às fls. 77-78.
+Informações prestadas às fls. 84-87 e 88-107.
+O Ministério Público Federal, às fls. 111-115, manifestou-se pela denegação da ordem, em parecer que restou assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO. NÃO CABIMENTO. TRÁFICO DE DROGAS. PRISÃO PRE- VENTIVA. PRESENÇA DOS REQUISITOS ENSEJADORES DA MEDIDA DE EXCEÇÃO. GARAN- TIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. RISCO DE REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PELO NÃO CONHECIMENTO DO WRIT; CASO CONTRÁRIO, PELA DENEGAÇÃO DA ORDEM" - fl. 111.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta das condutas atribuídas, haja vista que o paciente, juntamente com sua mãe e seu padrasto estariam promovendo o tráfico de drogas na cidade de Buri/SP há algum tempo, tendo sido apreendido em sua residência, 90,28g de maconha e 451,7g de coaína, bem como 2.000 unidades de flaconetes, próprios para embalagem de droga; três aparelhos celulares; R$1.270,00, em notas diversas; uma folha de caderno com anotações e uma balança de precisão - fls. 73-74.
+Sobre o tema:
+"A custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois foi apreendido expressiva quantidade de entorpecentes, celulares, anotações, dinheiro, petrechos de pesagem, embalagem de drogas" (AgRg no HC n. 895.085/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 15/8/2024.)
+Nesse sentido, confiram-se alguns precedentes: AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Outrossim, a jurisprudência desta Corte é assente no sentido de que "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (AgRg no RHC n. 187.903/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 11/4/2024).
+A propósito : AgRg no RHC n. 191.289/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 21/3/2024; AgRg no HC n. 801.685/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 6/3/2024; AgRg no HC n. 830.719/ES, relator Ministro Teodoro Silva Santos, Sexta Turma, DJe de 5/3/2024 e AgRg no RHC n. 192.670/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 1/3/2024.
+De mais a mais, ressalta-se que "a existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não é apta a desconstituir a prisão processual, caso estejam presentes os requisitos de ordem objetiva e subjetiva que autorizem a imposição da medida extrema, como verificado na hipótese" (AgRg no HC n. 829.799/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/8/2023).
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
