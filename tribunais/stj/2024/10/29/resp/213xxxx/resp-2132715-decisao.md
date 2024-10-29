@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (e-STJ fl. 708):
+PLANO DE SAÚDE. REVISÃO. Reajustes por sinistralidade. Sentença de parcial procedência. Irresignação da ré. Não acolhimento. Evidenciada a abusividade dos índices de sinistralidade, aplicados de forma unilateral e sem transparência pela requerida. Perícia contábil realizada, concluindo que os percentuais não foram justificados, ante a ausência dos documentos solicitados. Violação à legislação consumerista vigente e à boa-fé contratual. Índices impugnados devem ser substituídos por aqueles autorizados pela ANS para os planos individuais e familiares, aplicáveis em caráter subsidiário. Precedentes citados. Sentença mantida. Recurso desprovido.
+APELO DA AUTORA. Débito judicial que deve ser corrigido pela Tabela Prática do Tribunal de Justiça. Inaplicabilidade da Taxa Selic. Recurso provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 779/782).
+Em suas razões (e-STJ fls. 714/729), a parte recorrente aponta violação dos seguintes dispositivos legais: arts. 1.022, II, do CPC/2015 e 421, 421-A e 478 do CC/2002.
+Insurge-se contra a conclusão da Corte local de que os índices dos reajustes por sinistralidade "devem ser substituídos por aqueles autorizados pela ANS para os planos individuais e familiares, aplicáveis em caráter subsidiário." (e-STJ fl. 708).
+A parte afirma:
+(i) violação do art. 1.022 do CPC, defendendo que: "a recorrente opôs embargos de declaração para sanar omissão sustentando que o v. acórdão recorrido não se atentou para a aplicação do artigo 421, 421-A e 478 do Código Civil  ..  Não obstante  .. , a Corte a quo valeu-se de argumentos genéricos para rejeitá-los (e-STJ fl. 719); e
+(ii) contrariedade aos arts. 421, 421-A e 478 do Código Civil, pois:
+a. ao estabelecer que os reajustes se darão pelos critérios da ANS, de acordo com os reajustes dos planos individuais e familiares, resta clarividente que há uma intervenção desproporcional do Poder Público no contrato firmado entre as partes (e-STJ fl. 721);
+b. o contrato firmado é um contrato coletivo, em que não se vislumbra uma disparidade entre as partes, como acontece num contrato de plano de saúde individual ou familiar (e-STJ fl. 723);
+c. ao se vedar o reajuste por aumento de sinistralidade, desrespeitou-se as estipulações pactuadas entre as duas pessoas jurídicas, ferindo os princípios da liberdade de contratação e da boa-fé objetiva (e-STJ fl. 723); e
+d. não é razoável se entender que o reajuste dos contratos coletivos  ..  deva observar os mesmos parâmetros dos contratos individuais, pois isso implicaria num aumento de custos sem o necessário aumento da receita, causando a impossibilidade de manutenção do contrato (e-STJ fl. 726).
+Ao final, requer o provimento do recurso, a fim de que seja observada a necessidade de cálculos atuariais em cumprimento de sentença para se verificar o percentual devido dos reajustes.
+Contrarrazões apresentadas às fls. 786/794 (e-STJ).
+O recurso foi admitido na origem, nos termos da decisão de fls. 795/796 (e-STJ).
+É o relatório.
+Decido.
+A controvérsia tem origem no aumento da mensalidade do plano de saúde coletivo com menos de 30 usuários e na recusa da operadora em apresentar documentos hábeis a comprovar a sinistralidade. Em 2016, o autor pagava R$ 3.720,40 (três mil, setecentos e vinte reais e quarenta centavos) de mensalidade para o grupo familiar, com 4 beneficiários. Com aumentos sucessivos, a mensalidade passou a custar R$ 7.113,45 (sete mil, cento e treze reais e quarenta e cinco centavos), no ano de 2020.
+O Juízo de origem concluiu "pela nulidade dos reajustes aplicados de 2014 a 2020, pela ausência de prova da observância estrita dos critérios contratuais para tanto" (e-STJ fl. 472) e julgou parcialmente procedentes os pedidos da demandante, "limitando o reconhecimento de nulidade dos reajustes apenas a tais anos, com sua substituição por aqueles indicados pela ANS para os planos familiares e individuais, por se mostrarem, dentre os índices de reajustes monetários disponíveis, o mais adequado para recompor o equilíbrio do contrato em questão" (e-STJ fls. 472/473).
+O Tribunal a quo negou provimento à apelação da operadora, mantendo a sentença, e deu "provimento ao apelo da autora para que o valor seja corrigido pela Tabela Prática do Tribunal de Justiça e não pela Taxa Selic" (e-STJ fl. 712).
+(I) Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido se pronuncia, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à intervenção do Judiciário na relação contratual, o Tribunal de origem se fundamentou no CDC (e-STJ fls. 708 e 710 - grifei):
+Evidenciada a abusividade dos índices de sinistralidade, aplicados de forma unilateral e sem transparência pela requerida. Perícia contábil realizada, concluindo que os percentuais não foram justificados, ante a ausência dos documentos solicitados.
+..
+ ..  em que pese não ser ilegal a previsão contratual impugnada, no caso em testilha, a abusividade decorre da violação ao dever de informação.
+Inequívoco que a cláusula que prevê o reajuste anual não possui a clareza necessária, eis que sua redação impede a verificação, pelo consumidor, da lisura dos índices aplicados, deixando-o assim em situação de desvantagem, o que fere também o princípio da vulnerabilidade contido no Código de Defesa do Consumidor, aplicável à espécie por força da Súmula 608 do C. Superior Tribunal de Justiça.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+(II) O Tribunal de origem, com base no CDC, concluiu pela "abusividade dos índices de sinistralidade, aplicados de forma unilateral e sem transparência pela requerida" (e-STJ fl. 708), sob o fundamento de que (e-STJ fl. 710 - grifei):
+ ..  a cláusula que prevê o reajuste anual não possui a clareza necessária, eis que sua redação impede a verificação, pelo consumidor, da lisura dos índices aplicados  .. . Por conseguinte, referida disposição contratual não pode ser aceita, por violar o dever de informação (art. 6.º, III, do CDC) e o princípio da boa-fé objetiva.
+Contudo, no recurso especial, apontando contrariedade aos arts. 421, 422-A e 478 do CC/2002, a parte sustenta somente que teria havido intervenção desproporcional do poder público no contrato e a necessidade de observância aos princípios da liberdade contratual, da função social do contrato e da excepcionalidade da revisão contratual.
+Verifica-se que não houve impugnação de todos os fundamentos do acórdão recorrido. Incide, portanto, a Súmula n. 283 do STF.
+Ademais, consta nos autos que o Tribunal de origem concluiu que (e-STJ fl. 709/710 ):
+Não obstante a ré alegue a legalidade da cobrança, bem como o cumprimento do dever de informação, na realidade, o que se verifica é a falta de transparência quanto aos cálculos utilizados para a composição do reajuste anual da mensalidade. Nem se diga que as notificações encaminhadas são aptas ao esclarecimento dos reajustes, pois não trazem indicação de quaisquer critérios.
+Modificar o entendimento do acórdão impugnado para se concluir, de modo inverso, que não se está diante de situação que justifique a intervenção do poder público, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Por fim, constata-se que, apesar de opostos embargos de declaração, a tese de violação do art. 478 do CPC/2015 não foi expressamente indicada nas razões do recurso e nem enfrentada pelo Tribunal.
+Assim, a Corte de origem não foi instada, no momento oportuno, a se manifestar acerca do tema. Portanto, é inafast ável a incidência da Súmula n. 211/STJ.
+Ante o exposto, CONHEÇO EM PARTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO.
+Na form a do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em desfavor da ora recorrente, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+EMENTA
