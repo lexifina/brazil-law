@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por V.D.V. ADMINISTRAÇÃO E PARTICIPAÇÃO LTDA, contra decisão que não admitiu o recurso especial da insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 331, e-STJ):
+APELAÇÃO CÍVEL. LOCAÇÃO. AÇÃO DE COBRANÇA DE LOCATIVOS, MULTA POR RESCISÃO ANTECIPADA E REPAROS NO IMÓVEL. IMPROCEDÊNCIA DO PLEITO. COMPROVAÇÃO DE NOTIFICAÇÃO PRÉVIA À DESOCUPAÇÃO, NOS TERMOS DO CONTRATO DE LOCAÇÃO, A AFASTAR A MULTA PRETENDIDA. TERMO FINAL DA LOCAÇÃO COM A ENTREGA DAS CHAVES, COMPROVADA PELA RÉ, ASSIM COMO DEMONSTRADO O PAGAMENTO DOS LOCATIVOS PROPORCIONAIS. REFORMA DO IMÓVEL. AUSÊNCIA DE VISTORIA INICIAL E FINAL. SENTENÇA MANTIDA. APELAÇÃO DESPROVIDA.
+Os embargos de declaração foram rejeitados (fls. 351-355, e-STJ).
+Nas razões do recurso especial (fls. 363-368, e-STJ), a insurgente alega, que o acórdão recorrido violou o artigo 23, III da Lei n. 8.245/91, aduzindo que não houve comunicação prévia por parte da recorrida quanto à desocupação do imóvel, não sendo possível a realização da vistoria de modo a serem realizados os reparos necessários por parte da locatária.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 385-388, e-STJ), dando ensejo a interposição do presente agravo (fls. 396-399, e-STJ).
+Foi apresentada contraminuta (fls. 403-407, e-STJ).
+É o relatório.
+Decide-se.
+A irresignação não merece prosperar.
+1. A recorrente aponta ofensa ao artigo 23, III da Lei n. 8.245/91, aduzindo que não houve comunicação prévia por parte da recorrida quanto à desocupação do imóvel, não sendo possível a realização da vistoria de modo a serem realizados os reparos necessários por parte da locatária.
+A esse respeito, assim concluiu o Tribunal de origem (fls. 328-329, e-STJ):
+Da mesma sorte, não há como se condenar a ré ao pagamento dos reparos realizados. É que a jurisprudência desta Corte tem entendimento uníssono no sentido de que, para tanto, deve ser realizada a vistoria inicial e final no bem, as quais devem ser acompanhadas pelo locatário ou fiadores - ou no mínimo estes devem ser notificados para tanto.
+(..)
+Entretanto, no presente caso, não vistoria inicial ou final no imóvel, a impedir tal cobrança, pois impossibilita o cotejo entre as condições em que o imóvel fora recebido pelo locador, e aquelas nas quais foi ele entregue.
+Assim, ainda que contratualmente sejam os reparos de responsabilidade do locatário - incontroverso nestes autos -, a prova produzida não permite se afira que os danos corrigidos pelo locador tenham sido causados pelo uso do bem.
+A somar-se a essa razão, verifico que também há provas de que o imóvel fora pintado, assim como foram trocados pisos e tomadas, a indicar que se desincumbiu ele de seu encargo.
+Como se vê, por meio da interpretação das cláusulas contratuais e do conteúdo fático-probatório constante dos autos, o órgão julgador concluiu pela ausência de comprovação, de que os danos no imóvel tenham sido causados pelo uso do bem.
+No ponto, para derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal, no sentido reconhecer o termo final da avença como sendo o ora apontado pela recorrente, seria necessário revolvimento das provas constantes dos autos, bem como a interpretação das previsões contratuais, providências vedadas em sede de recurso especial, ante os óbices das Súmulas 5 e 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. NÃO INCIDÊNCIA DA SÚMULA 182/STJ. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. EMBARGOS DO DEVEDOR. EXECUÇÃO DE CONTRATO DE LOCAÇÃO. ALUGUÉIS. DIVERGÊNCIA ACERCA DA DESOCUPAÇÃO DO IMÓVEL. NÃO COMPROVAÇÃO DA DATA DE ENTREGA DAS CHAVES. PREVISÃO CONTRATUAL. REEXAME DE PROVAS E INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. O Tribunal a quo, examinando as circunstâncias da causa, concluiu que os locatários não se desincumbiram do ônus de comprovar a entrega das chaves para o encerramento da relação locatícia, conforme exigido no contrato firmado entre as partes. A revisão desse entendimento demandaria o revolvimento fático-probatório dos autos, assim como a interpretação de cláusulas contratuais, providência inviável em sede de recurso especial (Súmulas 5 e 7 do STJ).
+2. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.466.632/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 16/6/2020.)  grifou-se
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DOIS AGRAVOS INTERPOSTOS. APLICAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. ANÁLISE DO PRIMEIRO. PRECLUSÃO CONSUMATIVA EM RELAÇÃO AO SEGUNDO AÇÃO DE RESCISÃO ANTECIPADA DE CONTRATO DE LOCAÇÃO CUMULADA COM DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITOS E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. ALEGAÇÃO DE CASO FORTUITO, AUSÊNCIA DE DESCUMPRIMENTO CONTRATUAL E OCORRÊNCIA DE DANO MORAL. INTERPRETAÇÃO DE CLÁUSULA E REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. MODIFICAÇÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Em razão do princípio da unirrecorribilidade recursal, que estabelece que para cada provimento judicial admite-se apenas um recurso, deve ser reconhecida a preclusão consumativa daquele que foi deduzido por último, porque electa una via non datur regressus ad alteram.
+3. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do NCPC).
+4. Os embargos de declaração não podem conduzir a novo julgamento, com a reapreciação do que ficou decidido.
+5. No caso, o acolhimento da tese recursal - no sentido de que não houve descumprimento contratual, bem como de que os danos causados ao imóvel dos recorridos decorreram de caso fortuito consubstanciado em forte chuva - exigiria a interpretação de cláusulas do referido contrato de locação, bem como o reexame do acervo fático-probatório da causa, o que não se admite nesta sede excepcional, ante os óbices das Súmulas nºs 5 e 7 do STJ.
+6. Os valores fixados a título de danos extrapatrimoniais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante, o que não ocorreu no caso.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.121.636/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)  grifou-se
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL. REPARAÇÃO DE DANOS. CONTRATO DE LOCAÇÃO COM A ADMINISTRAÇÃO PÚBLICA. INCÊNDIO NO IMÓVEL. TEORIA DA ACTIO NATA. TERMO INICIAL. DEMAIS DANOS EXISTENTES NO IMÓVEL. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. "Por aplicação da teoria da actio nata, o prazo prescricional relativo à pretensão indenizatória somente começa a correr quando o titular do direito subjetivo violado obtém plena ciência da lesão e de toda a sua extensão, bem como do responsável pelo ilícito, inexistindo, ainda, qualquer condição que o impeça de exercer o direito de ação "(AgInt no AREsp 1.784.132/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 21/6/2021, DJe 1º/7/2021).
+2. No caso concreto, nos termos do acórdão recorrido, em consonância com os documentos juntados aos autos, o incêndio no imóvel ocorreu em 28/7/2000, mas a autora afirma que apenas tomou conhecimento do fato em 31/5/2001, quando realizou vistoria no imóvel, por conta do encerramento do prazo contratual de locação.
+3. O termo inicial da contagem do prazo prescricional, portanto, é o dia 31/5/2001. Assim, como a ação foi proposta apenas em 12/12/2007, fora do lapso quinquenal que não se discute na hipótese em epígrafe, encontra-se prescrita a pretensão nela veiculada.
+4. O eg. Tribunal estadual, com arrimo nas peculiaridades do caso concreto, concluiu que não restou comprovada a existência de danos decorrentes do uso do imóvel locado. A pretensão recursal, no sentido de alterar esse entendimento, considerando as circunstâncias fáticas e probatórias dos autos, demandaria o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, a teor da Súmula n. 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AgRg no REsp n. 1.432.218/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022.)  grifou-se
+Incide, no ponto, os óbices das Súmulas 5 e 7 do STJ.
+2 . Ante o exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
