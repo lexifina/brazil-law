@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo interno interposto por COMPROCRED FOMENTO MERCANTIL LTDA. contra decisão monocrática de minha relatoria que conheceu do agravo para negar provimento ao recurso especial nos termos da seguinte ementa (fl. 531):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PETICIONAMENTO NOS AUTOS. NÃO CONFIGURAÇÃO DE COMPARECIMENTO ESPONTÂNEO. ACÓRDÃO RECORRIDO. CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. INCIDÊNCIA. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO assim ementado (fls. 364-365):
+EMENTA PROCESSO CIVIL  APELAÇÃO CÍVEL  EMBARGOS À EXECUÇÃO  AGRAVO RETIDO  DECISÃO INTERLOCUTÓRIA QUE DEFERE MEDIDA LIMINAR  NÃO CABIMENTO  CERCEAMENTO DE DEFESA  NÃO OCORRÊNCIA  CONTRATO DE FACTORING  RISCO DO INADIMPLEMENTO - CLÁUSULA DE RECOMPRA  ENDOSSO  DESCARACTERIZAÇÃO DA NATUREZA DA OPERAÇÃO  IMPOSSIBILIDADE - RECURSO DESPROVIDO.
+1. O recurso adequado para impugnar a decisão interlocutória que defere pedido liminar é o agravo de instrumento e não o agravo retido.
+2. O comparecimento do advogado da parte em juizo supre o ato citatório quando vise a prática de ato efetivo de defesa, não suprindo tal ato a simples juntada de procuração.
+3. Nos termos de jurisprudência do Colendo Superior Tribunal de Justiça, o contrato de factoring, por sua própria natureza, consiste em operação que transfere ao "faturizador" a assunção dos riscos de inadimplemento dos títulos negociados, não sendo possível, por tal condição, a estipulação de garantias pro solvendo ou pactuação de cláusulas que prevejam o direito de regresso contra o "faturizado", pena de descaracterização da operação.
+Nas razões do agravo interno, alega a agravante que "o fundamento e os paradigmas utilizados pelo decisum agravado (peticionamento nos autos por advogado destituído de poderes especiais para receber a citação) não guardam similitude com o caso dos autos, sendo que no caso em apreço os Agravados peticionaram juntando instrumento de procuração (e-STJ Fl.117) com poderes específicos para receber citação feita especificamente para o processo em tela" (fl. 538).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Os agravados apresentaram contrarrazões às fls. 548-574.
+É, no essencial, o relatório.
+Assiste razão ao agravante quanto à não incidência da Súmula n. 83/STJ ao caso em apreço.
+Com efeito, conforme destacado na decisão agravada, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que descabe o reconhecimento de citação por comparecimento espontâneo a partir da juntada de procuração por advogado que sem poderes para receber a citação.
+Todavia, esta Corte também firmou o entendimento de que "o comparecimento espontâneo do réu ocorre com: a) a juntada de procuração com poderes especiais, desde que possível o acesso aos autos do processo; e b) a apresentação de embargos ou exceção de pré-executividade, ainda que não outorgados poderes especiais ao advogado para receber a citação" (REsp n. 1.165.828/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 7/3/2017, DJe de 17/3/2017).
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL INTERPOSTO PELA PARTE CONTRÁRIA PARA AFASTAR A INTEMPESTIVIDADE DOS EMBARGOS À EXECUÇÃO. INSURGÊNCIA RECURSAL DA EMBARGADA.
+1. "Em regra, o peticionamento nos autos por advogado destituído de poderes especiais para receber citação não configura comparecimento espontâneo apto a suprir tal necessidade. Precedentes: (..) É que, na forma da orientação pacificada, se configura o comparecimento espontâneo do réu com: a) a juntada de procuração com poderes especiais, desde que possível o acesso aos autos do processo; e b) a apresentação de embargos ou exceção de pré-executividade, ainda que não outorgados poderes especiais ao advogado para receber a citação. Mas, não perfaz tal comparecimento espontâneo: a) o peticionamento nos autos por advogado destituído de poderes especiais para receber a citação e sem a apresentação de defesa" (EREsp n. 1.709.915/CE, relator Og Fernandes, Corte Especial, DJe de 9/8/2018).
+ ..
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.468.234/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 18/4/2023, DJe de 24/4/2023.)
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PRAZO DE RESPOSTA. TERMO INICIAL. JUNTADA DE PROCURAÇÃO. PODERES ESPECIAIS PARA RECEBER CITAÇÃO. COMPARECIMENTO ESPONTÂNEO. ARTS. ANALISADOS:
+214, § 1º, e 215 DO CPC.
+1. Exceção de incompetência ajuizada em 20/10/2011. Recurso especial concluso ao Gabinete em 6/3/2013.
+2. Discute-se o termo inicial do prazo de resposta quando o advogado do demandado comparece aos autos para juntada de procuração com poderes especiais para receber citação e peticiona para deferimento de vista dos autos.
+3. A juntada aos autos de procuração com poderes específicos para receber citação configura o instituto do comparecimento espontâneo (art. 214, §1º, do CPC), inobstante a ausência de imediata carga dos autos.
+4. Juntada a procuração, completa-se a formação do processo, abrindo-se ao advogado a possibilidade de acesso aos autos, independente de pedido ou deferimento do juiz.
+5. A petição de vistas é, portanto, inócua, não servindo à protelação do curso do prazo e da regular marcha processual, salvo comprovada a existência de óbice concreto ao acesso efetivo dos autos.
+6. Negado provimento ao recurso especial.
+(REsp n. 1.454.841/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/8/2014, DJe de 15/8/2014.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DO DEVEDOR. MANDADO DE CITAÇÃO. CIÊNCIA INEQUÍVOCA. ARGUMENTAÇÃO RECURSAL. REEXAME DE MATÉRIA FÁTICA. RECURSO NÃO CONHECIDO ACOMPANHANDO O VOTO DO MINISTRO RELATOR.
+1. A jurisprudência desta Corte é pacífica ao afirmar que o comparecimento espontâneo aos autos ou a retirada destes do cartório, por Advogado da parte com poderes para receber citação, constitui forma de ciência inequívoca da decisão ou da ação, fluindo a partir daí o prazo para o recurso ou o ajuizamento dos Embargos do Devedor.
+2. É incontroverso nos autos que houve o comparecimento espontâneo, que o Advogado do executado retirou os autos e tomou ciência do conteúdo do mandado citatório. O acolhimento das alegações deduzidas no Apelo Nobre - que apenas contradizem aquelas postas no acórdão recorrido - ensejaria a incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7 do
+STJ,
+segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+3. Recurso Especial não conhecido.
+(REsp n. 1.181.915/SP, relator Ministro Arnaldo Esteves Lima, relator para acórdão Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 2/10/2014, DJe de 31/10/2014.)
+No acórdão recorrido, o Tribunal de origem, mesmo afirmando que os recorridos protocolaram petição juntando procuração com poderes para receber citação no processo de execução, afastou a alegada intempestividade dos embargos, como se observa na seguinte transcrição (fls. 368-370):
+Inicialmente, alega a Apelante a intempestividade dos embargos à execução opostos pelos Apelados, aduzindo, em síntese, que estes últimos (Apelados) teriam se dado por citados (nos autos) em 27.02.2009, por meio do protocolo da petição de juntada de procuração com poderes específicos para receber citação nos autos do processo de execução (fls. 115  por cópia).
+Todavia, ainda que o instrumento de mandato de fls. 116 (por cópia) albergue poderes especiais para receber citação, a mera petição de juntada da referida procuração nos autos, sem o intuito de apresentar defesa (nos autos), não é suficiente para caracterizar o comparecimento espontâneo para fins de inicio de fluência dos prazos processuais.
+ ..
+Assim, o início de fluência do prazo de apresentação dos embargos à execução deve observar a regra geral de juntada do respectivo mandado de citação dos executados, prevalecendo, no presente caso, a certidão de fls. 131v., que atestou a tempestividade dos presentes embargos à execução.
+Dessarte, estando o acórdão recorrido em dissonância com o entendimento dominante deste Tribunal, aplica-se ao caso o entendimento consolidado na Súmula 568/STJ, in verbis : "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, reconsidero a decisão de fls. 531-533 e conheço do agravo para dar provimento em parte ao recurso especial, determinando o retorno dos autos à origem a fim de que examine a tempestividade dos embargos à execução observando-se os critérios definidos nesta Corte, conforme fundamentação supra.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PETICIONAMENTO NOS AUTOS. JUNTADA DE PROCURAÇÃO COM PODERES PARA RECEBER CITAÇÃO. CONFIGURAÇÃO DE COMPARECIMENTO ESPONTÂNEO. ACÓRDÃO RECORRIDO EM DESCONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 568/STJ. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO EM PARTE.
