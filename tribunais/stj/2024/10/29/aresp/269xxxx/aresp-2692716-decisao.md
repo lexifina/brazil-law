@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por SANDRO ALEXANDER FERREIRA contra decisão que não admitiu recurso especial, manejado em desfavor do acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fl. 95):
+AGRAVO DE INSTRUMENTO. HABILITAÇÃO RETARDATÁRIA DE CRÉDITO. TAXAS. LEI DE REGISTROS PÚBLICOS. AVERBAÇÃO DOS ATOS DE REGISTROS DE PENHORA E DE INDISPONIBILIDADE. IMPROCEDÊNCIA DO PEDIDO. ÔNUS DA SUCUMBÊNCIA.
+I - O crédito objeto da pretensão do agravante-autor refere-se a taxas de registros das penhoras e das indisponibilidades na matrícula do imóvel, não exigidas dos credores respectivos quando da averbação desses atos, antes da arrematação do bem no processo falimentar da agravada-ré. Consoante art. 14 da Lei 6.015/1973, a responsabilidade pelas despesas referentes às custas e emolumentos é do interessado que requereu os registros de averbação, não se podendo transferir tal responsabilidade para a massa falida, ora agravada-ré
+II - Julgado improcedente o pedido de habilitação, a condenação ao pagamento de honorários advocatícios fundamenta-se no princípio da sucumbência, art. 85, caput, do CPC, e não no da causalidade.
+III - Agravo de instrumento desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 148-153).
+Nas razões do recurso especial, o recorrente alegou a violação aos arts. 489, §1º, inciso IV, e 1.022, inciso II, ambos do Código de Processo Civil de 2015, sustentando, em síntese, omissão no acórdão recorrido quanto à proibição do comportamento contraditório pelo magistrado, bem como no que se refere à eventual ofensa à coisa julgada material.
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou o insurgente à interposição de agravo.
+O agravante impugna os fundamentos da decisão denegatória do recurso especial (e-STJ, fls. 226-244).
+Contraminuta apresentada (e-STJ, fls. 266-268).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do agravo em recurso especial (e-STJ, fls. 288-293).
+Brevemente relat ado, decido.
+De início, consoante análise dos autos, verifica-se que a alegação de violação aos arts. 489, §1º, inciso IV, e 1.022, inciso II, ambos do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Isso porque o Tribunal de Justiça do Distrito Federal e dos Territórios foi claro ao concluir, em suma, que, "nos termos do art. 14 da Lei 6.015/1973, já destacado, a responsabilidade pelas despesas, referentes às custas e emolumentos, é do interessado que requereu os registros de averbação", que "o ônus do recolhimento dos emolumentos é do respectivo credor, quando do pedido de registro do ato constritivo, não se podendo transferir tal responsabilidade para a massa falida, ora agravada-ré", bem como que "o pedido de habilitação de crédito do agravante-autor foi julgado improcedente", estando a sua condenação, portanto, fundamentada no princípio da sucumbência, e não no da causalidade, veja-se (e-STJ, fls. 101-105; sem grifo no original):
+De acordo com a r. sentença agravada, a demanda "trata de habilitação de crédito decorrente de taxas de registro das penhoras e das indisponibilidades não exigidas dos credores respectivos quando da averbação desses atos nas matrículas dos imóveis" (id. 164677070, pág. 2, autos originários), objetos de arrematação.
+O aspecto controvertido consiste em verificar a procedência da pretensão do agravante-autor de ser admitida a habilitação retardatária de crédito extraconcursal em seu benefício, contra a massa falida, dos emolumentos decorrentes de baixa de gravames / indisponibilidades incidentes sobre a matrícula do bem e que não foram pagos quando dos registros dos atos.  ..
+Assim, em conformidade com a lei, a responsabilidade pelas despesas referentes às custas e emolumentos é do interessado que requereu os registros de averbação. Nesse sentido, o ônus do recolhimento dos emolumentos é do respectivo credor, quando do pedido de registro do ato constritivo, não se podendo transferir tal responsabilidade para a agravada-ré.
+Quanto ao argumento do agravante-autor de que requereu a habilitação de crédito contra a massa falida embasado no julgamento do AI 0723028-52.2021.8.07.0000, interposto por Tellus Empreendimentos Imobiliários Ltda. (arrematante) contra a massa falida e o Sr. Sandro, ora agravante, de Relatoria do Des. Leonardo Roscoe Bessa, destaco o dispositivo da r. decisão que deferiu a antecipação da tutela recursal, bem como a ementa do acórdão proferidos no referido recurso:  ..
+Conforme se extrai das mencionadas decisões, foi determinado ao ora agravante, Sr. Sandro, Tabelião do Cartório do Registro de Imóveis e Anexos da Comarca de Águas Lindas de Goiás/GO, cumprir as providências cartorárias pertinentes à época, sem cobrar do arrematante os emolumentos atinentes aos gravames e indisponibilidades sobre o imóvel, avaliados em R$ 150.410,15. Logo, tal argumento do agravante-autor não justifica a reforma da r. decisão agravada.
+O crédito objeto da pretensão do agravante-autor consiste em taxas de registros das penhoras e das indisponibilidades não exigidas dos credores respectivos quando da averbação desses atos, antes da falência, na matrícula dos bens alienados no processo falimentar da agravada-ré.
+Contudo, nos termos do art. 14 da Lei 6.015/1973, já destacado, a responsabilidade pelas despesas, referentes às custas e emolumentos, é do interessado que requereu os registros de averbação.
+Nesse sentido, o ônus do recolhimento dos emolumentos é do respectivo credor, quando do pedido de registro do ato constritivo, não se podendo transferir tal responsabilidade para a massa falida, ora agravada-ré.
+Por sua vez, na hipótese de imóveis alienados nos autos da falência, o pagamento dos emolumentos e taxas para o cancelamento das constrições serão de responsabilidade do arrematante, o que não contempla as custas referentes aos registros de cada uma das penhoras e das indisponibilidades averbadas anteriormente na matrícula do imóvel.  ..
+Dessa forma, a responsabilidade pelo pagamento das custas e emolumentos apresentados pelo agravante-autor não é da agravada-ré.
+Assim, mantém-se o pronunciamento judicial agravado que rejeitou o pedido de habilitação de crédito, o que não contraria os princípios invocados neste recurso nem os arts. 502, 505, 507, do CPC.
+O agravante-autor sustenta que não pode ser penalizado pelos ônus da sucumbência, porque não deu causa à demanda.  ..
+O pedido de habilitação de crédito do agravante-autor foi julgado improcedente. Portanto, a sua condenação está fundamentada no princípio da sucumbência, e não no da causalidade.
+Ressalte-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+Desse modo, ainda que a solução tenha sido contrária à pretensão do agravante, não se pode negar ter havido, por parte do Tribunal de Justiça, efetivo enfrentamento e resposta aos pontos controvertidos.
+A propósito (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. PROMESSA DE COMPRA E VENDA. ATRASO DEMASIADAMENTE LONGO E INJUSTIFICADO NA ENTREGA DE IMÓVEL. DANOS MORAIS CONFIGURADOS. SÚMULA N. 7/STJ.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC uma vez que o Tribunal de origem se manifestou, de forma clara e fundamentada, quanto aos pontos alegados como omissos.
+2. O Superior Tribunal de Justiça possui entendimento no sentido de que o mero inadimplemento contratual não causa, por si só, abalo moral indenizável, mas o excessivo atraso na entrega de unidade imobiliária enseja compensação por dano extrapatrimonial.
+Precedentes.
+3. A revisão da matéria, tanto em relação a caracterização do dano moral no caso, como em relação ao valor arbitrado para a indenização , implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+Agravo improvido.
+(AgInt no AgInt no AREsp n. 2.205.837/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. SUSPENSÃO DE CONTA. INTERNET. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022 do NCPC, porquanto o Tribunal estadual decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Vale destacar que, no caso, o próprio recorrente pediu o julgamento antecipado da lide não sendo possível alegar, depois disso, que era necessário produzir outras provas.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.418.765/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+Assim, melhor sorte não socorre ao agravante.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTR UMENTO. HABILITAÇÃO RETARDATÁRIA DE CRÉDITO. RESPONSABILIDADE SOBRE AS DESPESAS REFERENTES ÀS CUSTAS E EMOLUMENTOS. ÔNUS DA SUCUMBÊNCIA. ALEGADA OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
