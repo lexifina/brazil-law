@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MARDAM INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim resumido:
+CIVIL E PROCESSO CIVIL. AÇÀO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE INDENIZAÇÃO. PROCEDÊNCIA DA AÇÀO. RESCISÀO CONTRATUAL POR QUEBRA DE CLÁUSULA DE EXCLUSIVIDADE. CONDENAÇÃO PAGAMENTO DE COMISSÕES ANTERIORES E POSTERIORES AO AJUIZAMENTO DA AÇÀO. RECURSO DE APELAÇÃO MANEJADO PELA RÉ. APELO IMPROVIDO PARA MANTER O RECONHECIMENTO DE EXISTÊNCIA DE CLÁUSULA DE EXCLUSIVIDADE. NÀO REDUÇÃO DAS ASTREINTES. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS FIXADOS NA FORMA DA LEI. SENTENÇA MANTIDA INTEGRALMENTE.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 489, § 1º, IV, do CPC, no que concerne à deficiência de fundamentação do aresto objurgado, porquanto não houve a apreciação das teses de defesa apresentadas nos autos que resultariam na redução do quantum arbitrado a título de multa por descumprimento de obrigação, trazendo a seguinte argumentação:
+O acórdão violou o dispositivo de lei federal, qual seja art. 489, §1º, inciso VI do CPC, visto que o Tribunal, a quo, (TJ-PE), não apreciou as teses levantadas pela Recorrente, a qual teriam o condão e capacidade de infirmar o julgado.
+O Tribunal a quo não seguiu o precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento, ao qual tinha o condão de infirmar o acordão recorrido.
+A multa por descumprimento de ordem pode ser revista ou limitada a qualquer tempo, adequando-a as suas funções de estímulo ao cumprimento da obrigação e evitando a violação ao princípio do enriquecimento sem causa.
+ ..
+Ex positis, em atenção ao princípio da razoabilidade e proporcionalidade, com fundamento no § 1º do artigo 537 do Código de Processo Civil, a não redução da multa limitado desvirtuou a finalidade de aplicação de multa por descumprimento de obrigação.
+Portanto, a o v. acórdão violou o art. 489, § 1º, inciso VI do CPC, vez que deixou de seguir jurisprudência e precedente invocado pela Recorrente, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento (fls. 2.909-2.916).
+É o relatório.
+Decido.
+Quanto à controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludid o dispositivo". (REsp 963.528/PR, Rel. Ministro Luiz Fux, Corte Especial, DJe de 4.2.2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe de 28.4.2011; REsp n. 1.730.826/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12.2.2019; AgInt no AREsp n. 1.339.926/PR, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 15.2.2019; AgRg no REsp n. 1.849.115/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 23.6.2020; AgRg no AREsp n. 2.022.133/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15.8.2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
