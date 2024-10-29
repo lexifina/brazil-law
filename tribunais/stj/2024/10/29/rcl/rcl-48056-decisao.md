@@ -1,0 +1,8 @@
+DECISÃO
+LUIZ EDUARDO AURICCHIO BOTTURA ajuíza reclamação com a finalidade de garantir a autoridade da decisão proferida no HC N. 640.075/SP, na qual foi declarada a inépcia da denúncia em relação ao reclamante, sem prejuízo de que nova acusação seja oferecida, com estrita observância dos ditames previstos no art. 41 do Código de Processo Penal.
+O caso comporta o julgamento antecipado, visto que a decisão desta Corte foi cumprida, diversamente do que alega o reclamante. De fato, no julgamento do HC N. 640.075/SP, este Superior Tribunal reconheceu a inépcia da denúncia e ressalvou, contudo, a possibilidade oferecimento de nova imputação. Tal decisão se voltou contra denúncia oferecida em 8/10/2020.
+No caso, a nova denúncia foi oferecida em 28/3/2022, conforme cópia de fl. 90 (reconhecido pelo próprio reclamante), situação que denota o cumprimento da decisão proferida por este Superior Tribunal. Eventual existência de ilegalidade nessa decisão, tal como alega a defesa nesta oportunidade, deve ser objeto de nova impugnação e não da reclamação, que não serve como sucedâneo recursal.
+Conforme orientação desta Corte, "o manejo de reclamação contra decisão proferida em cumprimento de determinação do Superior Tribunal de Justiça exige demonstração de desobediência a seus comandos, não se prestando à reforma da nova decisão prolatada pela autoridade judiciária o mero descontentamento da parte com seu teor" (AgRg na Rcl n. 42.116/PE, relator Ministro João Otávio de Noronha, Terceira Seção, DJe de 29/4/2022).
+Assim, com fundamento no art. 34, XVIII, "b", do RISTJ, julgo improcedente in limine esta reclamação.
+Publique-se e intimem-se.
+EMENTA
