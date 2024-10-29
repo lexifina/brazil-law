@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+EMENTA: APELAÇÃO CÍVEL - BENEFÍCIO PREVIDENCIÁRIO - CONCESSÃO DE AUXÍLIO-ACIDENTE - JUROS E CORREÇÃO MONETÁRIA.
+- Vislumbrando-se a incapacidade relativa que acompanhará a requerente pelo resto da vida, impedindo ou exigindo maior esforço na tarefa laboral, deve ser concedido o auxílio-acidente.
+- A mera ausência de enquadramento da lesão no Anexo III do Regulamento da Previdência Social (Decreto nº 3.048199) não obsta a concessão do auxilio-acidente, desde que suficientemente comprovada a situação prevista no artigo 86 da Lei de Benefícios.
+Os embargos declaratórios opostos pela autarquia foram rejeitados nos termos da seguinte ementa:
+EMENTA: EMBARGOS DE DECLARAÇÃO - OBSCURIDADE - CONTRADIÇÃO - OMISSÃO - ERRO MATERIAL - AUSÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 1.022, DO NCPC - QUESTÕES SOLUCIONADAS COM BASE NO CONTEXTO PROBATÓRIO, DISPOSITIVOS LEGAIS E JURISPRUDÊNCIA.
+- O manejo dos embargos de declaração tem que, necessariamente, adequar-se às hipóteses previstas nos incisos do art. 1.022, do NCPC, ainda que a parte tenha por finalidade prequestionar, objetivamente, a matéria contida no recurso.
+No presente recurso especial, o recorrente aponta como violados os arts. 1.022, II, e 1.026, § 2º, do CPC, pelas omissões apontadas em seus embargos declaratórios, em especial e a prescrição das parcelas vencidas há mais de cinco anos da propositura da ação e a inconstitucionalidade do art. 5º da Lei n. 11.960/2009 somente em precatórios, bem como 1º-F da Lei n. 9.494/1997, com a redação dada pelo art. 5º da Lei n. 11.960/2009, além de suscitar divergência jurisprudencial.
+É o relatório. Decido.
+Assiste razão ao recorrente no tocante à alegada violação do art. 1.022 do CPC/2015.
+De fato, a parte recorrente apresentou questões jurídicas relevantes, como, dentro outras, a prescrição das parcelas vencidas há mais de cinco anos da propositura da ação. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou as questões apropriadamente.
+Nesse contexto, diante das referidas omissões, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com a devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, desta co os seguintes precedentes, in verbis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÃO. NULIDADE. RETORNO DOS AUTOS À ORIGEM. FATO NOVO. EXAME. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. FUNDAMENTOS DA DECISÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 185/STJ E ART. 932, III, DO CPC/2015. DECISÃO MANTIDA.
+1. A falta de manifestação sobre questão relevante para a solução da causa, mesmo após a oposição de embargos de declaração, qualifica negativa de prestação jurisdicional e ofende os arts. 489, § 1º, e 1.022 do CPC/2015.
+2. Reconhecida a negativa de prestação jurisdicional, impõe-se a decretação de nulidade do acórdão dos aclaratórios, determinando-se a baixa dos autos ao Tribunal de origem, para novo julgamento do recurso.
+3. Não se aprecia fato novo que deverá ser examinado pela Corte local no rejulgamento dos embargos de declaração e que pressupõe o revolvimento de material fático-probatório dos autos (Súm. n. 7/STJ).
+4. Não se conhece do agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (art. 1.021, § 1º, e 932, III, do CPC/2015).
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.229.933/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 16/5/2019, DJe 23/5/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. CITAÇÃO DA PESSOA JURÍDICA. TEORIA DA APARÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM. RECURSO PROVIDO.
+1. A citação por carta com aviso de recebimento, por um lado, transcorre de forma mais ágil e fácil, com grandes vantagens para as partes e para o andamento do feito. Mas, por outro lado, deve o Judiciário estar mais atento e sensível às falhas que esse ato, vez por outra, enseja. Afinal, a ausência de citação válida inviabiliza o contraditório e conduz a parte promovida à injusta revelia.
+2. Na hipótese, ao afastar a nulidade da citação postal da sociedade empresária realizada em endereço industrial de sua filial, recebida por pessoa que não se recusou a assinar o recibo, o v. acórdão recorrido deixou de se manifestar sobre premissas fáticas relevantes, que apontam a ausência de vínculo do suposto funcionário com a empresa (CPC/2015, art. 1.022).
+3. O conhecimento do recurso especial exige a manifestação do Tribunal local acerca da tese de direito suscitada, bem como sobre os elementos fáticos que não podem ser examinados, de plano, na via estreita do recurso especial. Omitindo-se a Corte de origem em se manifestar sobre questões fáticas relevantes, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 1.022 do CPC/2015, a fim de anular o acórdão recorrido para que o Tribunal a quo supra as omissões existentes.
+4. Agravo interno provido para dar provimento ao recurso especial, anulando-se o v. acórdão proferido em sede de embargos declaratórios, para que outro seja proferido e, assim, sanados os vícios constatados.
+(AgInt no AREsp 1.217.775/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 26/3/2019, DJe 11/4/2019.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo para que se manifeste especificamente sobre as questões neles articuladas, prejudicadas as demais questões de mérito do recurso.
+Publique-se. Intimem-se.
+EMENTA
