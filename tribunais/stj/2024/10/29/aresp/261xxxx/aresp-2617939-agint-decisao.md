@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se  de  agravo  interno  interposto  pelo  ESTADO  DE  PERNAMBUCO  contra  decisão  monocrática  de  lavra  da  Presidência  do  STJ,  por  meio  da  qual  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  (fls.  271-273).
+O  recurso  especial  foi  interposto  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  PERNAMBUCO  que  deu provimento ao recurso da parte autora -  Apelação  Cível  n.  0000718-62.2022.8.17.3110 -  assim  ementado  (fls.  121-122):
+APELAÇÃO. CONSTITUCIONAL E ADMINISTRATIVO. PISO NACIONAL DO MAGISTÉRIO. LEI FEDERAL Nº 11.738/2008. CONTRATO TEMPORÁRIO. INEXISTÊNCIA DE DISTINÇÃO EM RELAÇÃO AOS SERVIDORES EFETIVOS. DIFERENÇA REMUNERATÓRIA DEVIDA. RECURSO PROVIDO. SENTENÇA REFORMADA.
+1. Cerne recursal que busca aferir a legalidade da aplicação do piso nacional do magistério aos professores vinculados à administração pública por contrato temporário.
+2. Ato das Disposições Constitucionais Transitórias, em seu artigo 60, estipulou prazo para que fosse fixado, em lei específica, piso salarial nacional mínimo para os profissionais do magistério público da educação básica. Referido limite remuneratório foi disciplinado pela Lei Federal nº 11.738/08.
+3. Normativo supracitado que teve sua constitucionalidade reconhecida pelo Supremo Tribunal Federal, em sede de julgamento de controle concentrado de constitucionalidade, no qual foi afastada a tese de afronta à repartição de competências e ao pacto federativo. (ADI 4167, Relator(a): Min. JOAQUIM BARBOSA, Tribunal Pleno, julgado em 27/04/2011, Dje-162 DIVULG 23-08-2011 PUBLIC 24-08-2011 EMENT VOL-02572-01 PP-00035 RTJ VOL-00220-01 PP-00158 RJTJRS v. 46, n. 282, 2011, p. 29-83)
+4. Legislador pretendeu prover remuneração condigna a todos os trabalhadores da educação, independentemente da natureza dos vínculos que os ligue ao Estado, porquanto não efetuou ressalva ou restrição.
+5. Ainda que admitido no serviço público através de contrato temporário, permanece o direito à percepção dos seus vencimentos nos moldes instituídos pela Lei Federal n.º 11.738/2008, visto que o trabalho realizado em nada difere daquele promovido pelos professores que ocupam cargo efetivo na Administração Pública. Precedentes do TJPE.
+6. Recurso provido por unanimidade de votos.
+Sustenta  a  parte  agravante,  no  agravo  interno (fls. 277-280),  que
+ ..
+O Tribunal de Justiça do Estado de Pernambuco proferiu decisão, alegando que não há diferença entre servidor efetivo e temporário, no que tange à aplicação do piso salarial. Todavia, isso fere frontalmente a referida norma federal.
+Assim, após a rejeição dos aclaratórios, necessário se fez a interposição do Recurso Especial, o qual foi inadimitido por decisão do Segundo Vice-Presidente do Tribunal de Justiça do Estado de Pernambuco.
+Nesse viés, o Estado de Pernambuco interpôs o agravo previsto no art. 1.042 do Código de Processo Civil.
+Vossa Excelência, com base no art.21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheceu do agravo para não conhecer do recurso especial.
+Cabível, assim, a interposição do presente agravo interno.
+Requer,  assim,  que o feito seja submetido ao julgamento do colegiado.
+Sem contrarrazões  (fl.  287).
+É  o  relatório.
+Decido.
+Nos  termos  dos  arts.  1.021,  §  2º,  segunda  parte,  do  CPC  e  259  do  RISTJ,  RECONSIDERO  a  decisão  agravada,  tornando-a  sem  efeito.
+Constata-se  que  a  controvérsia  posta  nos  presentes  autos  está  centrada  na  possibilidade  de  se  conceder  aos  professores  das  escolas  públicas  contratados  em  regime  temporário  a  complementação  da  remuneração  em  relação  ao  piso  nacional  do  magistério  público,  estabelecido  na  Lei  n.  11.738/2008.
+Com  efeito,  a  questão  controvertida  referenciada  teve  sua  repercussão  geral  reconhecida  pela  Corte  Suprema  em  28/06/2024,  no  julgamento  do  ARE  n.  1.487.739/PE,  estando  no  aguardo  do  julgamento  do  Tema  n.  1.308,  que  possui  a  seguinte  tese  em  discussão,  verbis:  "saber  se  o  profissional  da  educação  escolar  pública  contratado  em  regime  temporário  tem  direito  à  complementação  de  remuneração  do  piso  salarial  para  os  profissionais  do  magistério  público  da  educação  básica".
+Assim,  por  medida  de  economia  processual  e  para  evitar  decisões  dissonantes  entre  a  Corte  Suprema  e  esta  Corte  Superior,  orienta-se  que  os  recursos  que  tratam  da  mesma  controvérsia  devem  aguardar  o  julgamento  do  paradigma  representativo  no  Tribunal  de  origem,  viabilizando,  assim,  o  juízo  de  conformação,  hoje  disciplinado  pelo  art.  1.040  do  CPC.
+Somente  depois  de  realizada  essa  providência,  que  representa  o  exaurimento  da  instância  ordinária,  é  que  o  recurso  especial  deverá  ser  encaminhado  para  esta  Corte  Superior,  para  que  aqui  possam  ser  analisadas  as  questões  jurídicas  nele  suscitadas  e  que  não  ficaram  prejudicadas  pelo  novo  pronunciamento  do  Tribunal  a  quo.
+Ante  o  exposto,  RECONSIDERO  a  decisão  de  fls.  271-273,  tornando-a  sem  efeito,  JULGO PREJUDICADA a análise do agravo em recurso especial e, com fundamento no art. 256-L, inciso I, do Regimento Interno do Superior Tribunal de Justiça,  DETERMINO  a  devolução  dos  autos  ao  Tribunal  de  origem,  com  a  respectiva  baixa,  para que,  após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema n. 1.308 do STF), sejam observadas as normas dos  arts.  1.040  e  1.041  do  Código de Processo Civil.
+Publique-se.  Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PISO  NACIONAL DO MAGISTÉRIO. CONTRATO TEMPORÁRIO.  PLEITO  DE PAGAMENTO  DAS  DIFERENÇAS.  LEI  N.  11.738/2008.  REPERCUSSÃO  GERAL.  AFETAÇÃO.  TEMA  STF  N.  1.308  PENDENTE  DE  JULGAMENTO.  RECONSIDERAÇÃO  DA  DECISÃO,  TORNADA  SEM  EFEITO.  DETERMINADA  A  DEVOLUÇÃO  DOS  AUTOS,  COM  A  RESPECTIVA  BAIXA,  AO  TRIBUNAL  DE  ORIGEM.
