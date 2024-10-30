@@ -1,0 +1,31 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O acórdão recorrido ficou assim ementado:
+
+    A) AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. PROCESSO SOB A ÉGIDE DA LEI 13.015/2014 E ANTERIOR À LEI 13.467/2017. 1. PRELIMINAR DE NULIDADE PROCESSUAL POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 2. DISPENSA DISCRIMINATÓRIA. NÃO CONFIGURAÇÃO. CRISE FINANCEIRA COMPROVADA PELA EMPRESA. RUPTURA CONTRATUAL DOS EMPREGADOS APOSENTADOS. O contexto geral de normas do nosso ordenamento jurídico entende o trabalhador como indivíduo inserto numa sociedade que vela pelos valores sociais do trabalho, pela dignidade da pessoa humana e pela função social da propriedade (arts. 1º, III e IV e 170, III e VIII, da CF). Faz parte do compromisso do Brasil, também na ordem internacional (Convenção 111 da OIT), o rechaçamento a toda forma de discriminação no âmbito laboral. Na esfera federal, sobressai o disposto no art. 1º da Lei 9.029/1995, que veda a adoção de qualquer prática discriminatória e limitativa para efeito de acesso à relação de trabalho, ou de sua manutenção, por motivo de sexo, origem, raça, cor, estado civil, situação familiar, deficiência, reabilitação profissional, idade, entre outros. Desse modo, caso fique comprovada a conduta discriminatória do Empregador, incidem os preceitos constitucionais civilizatórios tendentes a assegurar um Estado Democrático de Direito, com as consequências normativas pertinentes. No caso em exame, discute-se se o trabalhador, dispensado em virtude de crise financeira sofrida pela Reclamada – advinda da queda na realização de eventos, sua principal fonte de receita -, foi alvo de atitude discriminatória. Segundo o Tribunal Regional, a Reclamada buscou solução para a situação econômica vivenciada, que gerou a necessidade de redução do quadro de pessoal, primeiramente instituindo no âmbito empresarial um plano de demissão voluntária extensível a todos os empregados. Posteriormente, em virtude da baixa adesão ao programa, optou por dispensar empregados que já se encontravam aposentados, considerando que tais trabalhadores sofreriam menor impacto financeiro. Verifica-se, portanto, do quadro fático trazido pelo TRT, que a Reclamada, para efetivar a reestruturação interna e reduzir o quadro de pessoal, adotou parâmetros impessoais e objetivos que abarcaram todos os trabalhadores originariamente e, posteriormente, os aposentados, critérios que se revelam proporcionais e razoáveis, pois visaram a minorar os prejuízos da comunidade de empregados. E, demonstrada a crise financeira da empresa, considera-se que houve motivação válida para o ato de dispensa, não se configurando o cunho discriminatório do procedimento utilizado. Registre-se que, no caso concreto, e especialmente no recurso, não se discute a matéria sob o prisma da configuração da dispensa coletiva, não cabendo a abordagem da matéria sob essa perspectiva. Agravo de instrumento desprovido. 3. MULTA POR EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. AUTOR DA AÇÃO. Demonstrado no agravo de instrumento que o recurso de revista preenchia os requisitos do art. 896 da CLT, dá-se provimento ao agravo de instrumento, para melhor análise da arguição de violação do art. 5º, LV, da CF, suscitada no recurso de revista. Agravo de instrumento provido no aspecto.
+
+    B) RECURSO DE REVISTA. PROCESSO SOB A ÉGIDE DA LEI 13.015/2014 E ANTERIOR À LEI 13.467/2017. MULTA POR EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. AUTOR DA AÇÃO. Na dinâmica processual, os embargos declaratórios representam instrumento de aperfeiçoamento jurisdicional, devendo ser obviamente manejados nos estritos limites expressos no art. 1.022 do CPC/2015 (art. 535 do CPC/1973) e no art. 897-A da CLT, aplicando-se a multa prevista no art. 1.026, § 2º, do CPC/2015 (parágrafo único do art. 538 do CPC/73) às hipóteses de abuso na sua interposição. É certo que o Tribunal Regional reputou não configurada omissão, obscuridade ou contradição no julgamento da controvérsia e, consequentemente, inexistente o vício apontado nos embargos de declaração. Ocorre que, analisando a medida processual adotada, não se verifica a presença do intuito meramente protelatório, mas tão somente exercício regular do direito processual da Parte - que apenas pretendeu a manifestação expressa da Corte Regional a respeito do tema discutido em Juízo, com o levantamento de aspectos que entendia imprescindíveis para a solução do caso -, motivo pelo qual deve ser excluída a multa imposta ao Reclamante. Julgados desta Corte. Recurso de revista conhecido e provido, no tema.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 3º, inciso IV; 5º, incisos V e X; 7º, incisos XXX, XXXI e XXXII; e 169, § 3º, inciso II, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito do Trabalho. Danos morais. Indenização. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos (Súmula nº 279/STF), bem como a análise da legislação infraconstitucional pertinente. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC)” (ARE nº 1.189.179/PR-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 30/5/2019).
+
+    No mesmo sentido: RE nº 936.989/MG-AgR, Primeira Turma, Rel. Min. Luís Roberto Barroso, DJe de 19/5/2017 e ARE nº 696.779/MG-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 2/10/2012).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 30 de outubro de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
