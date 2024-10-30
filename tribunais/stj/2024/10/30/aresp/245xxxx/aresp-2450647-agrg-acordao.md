@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A HONRA. CALÚNIA. DIFAMAÇÃO. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE DO RECURSO. SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de agravo em recurso especial, em razão da ausência de impugnação específica dos fundamentos da decisão recorrida, conforme exigido pela Súmula 182/STJ.
+II. Questão em discussão
+2. A questão em discussão consiste na necessidade de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial para que o agravo em recurso especial seja conhecido.
+III. Razões de decidir
+3. A decisão agravada baseou-se na Súmula 182/STJ, que exige a impugnação específica dos fundamentos da decisão recorrida.
+4. A jurisprudência do STJ estabelece que a decisão de inadmissibilidade do recurso especial não possui capítulos autônomos, devendo ser impugnada em sua totalidade.
+5. A complementação da fundamentação deficiente em sede de agravo regimental não é permitida, devido à preclusão consumativa.
+AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 296/304).
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A HONRA. CALÚNIA. DIFAMAÇÃO. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE DO RECURSO. SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de agravo em recurso especial, em razão da ausência de impugnação específica dos fundamentos da decisão recorrida, conforme exigido pela Súmula 182/STJ.
+II. Questão em discussão
+2. A questão em discussão consiste na necessidade de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial para que o agravo em recurso especial seja conhecido.
+III. Razões de decidir
+3. A decisão agravada baseou-se na Súmula 182/STJ, que exige a impugnação específica dos fundamentos da decisão recorrida.
+4. A jurisprudência do STJ estabelece que a decisão de inadmissibilidade do recurso especial não possui capítulos autônomos, devendo ser impugnada em sua totalidade.
+5. A complementação da fundamentação deficiente em sede de agravo regimental não é permitida, devido à preclusão consumativa.
+AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls.296/304, grifei):
+"Trata-se de agravo interposto por Marcus Gustavo de Souza Sarmento contra decisão que inadmitiu o recurso especial, em razão do óbice das Súmulas 7/STJ e 83/STJ(e-STJ, fls. 242-251).
+Consta dos autos que foi reconhecida a decadência quanto ao direito de queixa do agravante posto que a inicial da ação penal privada fora apresentada em data posterior ao prazo material de seis meses.
+O Tribunal de origem manteve a decisão do juízo de primeiro grau, rejeitando a queixa-crime (e-STJ, fls. 135):
+RECURSO EM SENTIDO ESTRITO. CRIMES CONTRA A HONRA. CALÚNIA. DIFAMAÇÃO. PRAZO DECADENCIAL. EXTINÇÃO DA PUNIBILIDADE. OFERECIMENTO DE QUEIXA-CRIME FORA DO PRAZO. APLICAÇÃO DO ART. 10 DO CP. SE O TERMO FINAL DO PRAZO OCORRE EM DIA NÃO-ÚTIL, NÃO HÁ PRORROGAÇÃO. PRECEDENTES DO STJ. PARECER PELO DESPROVIMENTO DO RECURSO. RECURSO CONHECIDO E IMPROVIDO.
+Sobreveio recurso especial, interposto com fundamento no art. 105, III, "a" da Constituição Federal, alegando, em síntese, violação aos arts. 38 e 619 do CPP e 103 do CP.
+Apresentadas as contrarrazões (e-STJ, fls. 235-241), o recurso especial foi inadmitido na origem pela aplicação daS SúmulaS 7/STJ e 83/STJ.
+Daí o presente agravo, no qual o agravante alega, em síntese, a necessidade do afastamento dos enunciados de mencionados, pois entende que não teria decorrido o prazo decadencial para o oferecimento da queixa-crime
+O Ministério Público Federal manifestou-se, em parecer, pelo não provimento do agravo (e-STJ, fls. 290-292).
+É o relatório.
+Decido.
+A decisão agravada tem os seguintes fundamentos (e-STJ fls. 242-251):
+ ..
+Postas essas premissas, destaco que a admissão do recurso especial foi obstada com fundamento nas Súmulas 7/STJ, à consideração de que, "A pretensão veiculada nas razões da irresignação excepcional, com vistas ao reconhecimento de erro material no Acórdão fustigado, quanto à data do conhecimento da autoria delitiva por parte do ofendido, para fazer prevalecer entendimento diverso, de que este se deu dentro do prazo decadencial, afastando a extinção da punibilidade da querelada, demanda, no presente caso, incursão no acervo fático-probatório, de modo a ensejar a aplicação do verbete sumular nº 7, da Corte Infraconstitucional(..)" (e-STJ fl. 292).
+Segundo a jurisprudência dominante desta Corte, a superação do obstáculo erigido pela Súmula 7/STJ exige que o recorrente demonstre, de forma clara e objetiva, ser desnecessário o reexame de fatos e provas para alterar o entendimento das instâncias ordinárias. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO ATACOU, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL NA ORIGEM. APLICABILIDADE DA SÚMULA N. 182/STJ. RECURSO DESPROVIDO.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Incidência do verbete n. 182 da Súmula desta Corte.
+2. Para impugnar a incidência da Súmula n. 83 desta Corte, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ.
+3. Para se afastar a aplicação da Súmula n. 7 do STJ, inviável a mera afirmação de sua não incidência na espécie, devendo o recorrente apresentar argumentação suficiente demonstrando que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não se faz necessário reexame de fatos e provas da causa.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.404.364/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023, DJe de 30/10/2023.)
+Por outro lado, o afastamento da Súmula 83/STJ exige a demonstração de divergência estabelecida entre o entendimento adotado pelo Tribunal e a jurisprudência do STJ, com indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, ou demonstrar que o precedente adotado na decisão agravada é inaplicável ao caso, o que não ocorreu na espécie.
+Neste sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO ATACOU, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL NA ORIGEM. APLICABILIDADE DA SÚMULA N. 182/STJ. RECURSO DESPROVIDO.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Incidência do verbete n. 182 da Súmula desta Corte.
+2. Para impugnar a incidência da Súmula n. 83 desta Corte, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ.
+3. Para se afastar a aplicação da Súmula n. 7 do STJ, inviável a mera afirmação de sua não incidência na espécie, devendo o recorrente apresentar argumentação suficiente demonstrando que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não se faz necessário reexame de fatos e provas da causa.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.404.364/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023, DJe de 30/10/2023.) - Grifo Acrescido.
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMEAÇA NO ÂMBITO DOMÉSTICO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E ADEQUADA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A ausência de impugnação específica e adequada dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - Para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa.
+III - Para impugnar a incidência da Súmula 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ.
+IV - A Súmula 83 do STJ tem aplicação aos recursos especiais interpostos tanto pela alínea c quanto pela alínea a do permissivo constitucional.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.024.908/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+No caso dos autos, ainda que não fossem os óbices sumulares, é inequívoca a ocorrência da decadência. a Queixa-Crime traz a informação, inequívoca, de que a ciência quanto à autoria do fato que alegadamente atingiria a honra do recorrente, se deu em 26/01/2021 (e-STJ, fl. 2). E, nos moldes do que determinam os artigos 38 do CPP e 103 do CP, o prazo decadencial, que se encerra em seis meses, se inicia do do dia em que vier a saber quem é o autor do crime e não se suspende ou interrompe. Incluí-se da contagem o dia do início e exclui-se o dia final.
+Assim, no caso, quando da propositura da inicial acusatória privada - no dia 26/07/2021 (e-STJ, fls. 49) -, o prazo decadencial já tinha se encerrado em 24/07/2021. Mesmo que o conhecimento tivesse se dado em 27/01/2021, como alegado às fls. 80-83 (e-STJ), a decadência teria ocorrido em 25/07/2021. Ou seja, em datas anteriores ao protocolo da queixa-crime. Insuperável, portanto, a causa de extinção de punibilidade do artigo 107, IV, do CP.
+Com fundamento no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial."
+A decisão agravada não conheceu do agravo em recurso especial, anteriormente interposto pela parte que ora apresenta este agravo regimental, em razão do óbice previsto na Súmula 182/STJ, com a seguinte redação:
+Súmula 182/STJ: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Segundo a jurisprudência, "a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade" (STJ, AgRg nos EDcl no AREsp 1.785.474/SC, Relª. Minª. Laurita Vaz, Sexta Turma, DJe 3/5/2021).
+No mesmo sentido:
+(..) 3. A decisão agravada não conheceu do agravo em recurso especial com fundamento na Súmula n. 182/STJ, porquanto não impugnada especificamente a incidência dos óbices apontados pela Corte a quo como razões de decidir para a inadmissão do recurso especial (e-STJ fls. 2089/2094). Nas razões do regimental (e-STJ fls. 2099/2107), por sua vez, o agravante deixou de infirmar especificamente o referido entrave, limitando-se a complementar a fundamentação deficiente apresentada nas razões do agravo em recurso especial.
+4. A falta de impugnação específica dos fundamentos utilizados na decisão agravada (decisão de não conhecimento do agravo em recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+5. Ademais, é firme a jurisprudência deste Superior Tribunal no sentido de que "a complementação da fundamentação deficiente em sede de agravo regimental não tem o condão de sanar o vício contido nas razões do recurso especial em decorrência da inovação recursal vedada em razão da preclusão consumativa" (AgRg no AREsp 1393027/PR, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/9/2019, DJe 26/9/2019). Precedentes.
+(STJ, AgRg no AREsp n. 2.545.633/GO, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024).
+Portanto, o agravo em recurso especial deve atacar todos os óbices apontados pelo Tribunal de origem na decisão de admissibilidade do recurso especial, ultrapassando, assim, o filtro da dialeticidade, por meio da refutação analítica e da impugnação específica desses óbices.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
