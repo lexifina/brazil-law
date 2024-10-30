@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ALMERINDA MUNIZ BEZERRA LARANJAL e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. ATO JUDICIAL QUE DETERMINOU A SUSPENSÃO DO PROCESSO ATÉ JULGAMENTO DA AÇÃO CIVIL PÚBLICA EM APENSO. DECISÃO NÃO IMPUGNÁVEL POR AGRAVO DE INSTRUMENTO. TAXATIVIDADE DO ARTIGO 1.015 DO CÓDIGO DE PROCESSO CIVIL. 1. O AGRAVO DE INSTRUMENTO, NO REGRAMENTO PROCESSUAL VIGENTE, SOMENTE É COMPORTÁVEL NAS HIPÓTESES TAXATIVAMENTE PREVISTAS NO ARTIGO 1.015, DO CÓDIGO DE PROCESSO CIVIL. 2. NO CASO EM ANÁLISE, CONSTATA-SE QUE O AGRAVO DE INSTRUMENTO FOI INTERPOSTO CONTRA DECISÃO QUE SUSPENDEU O FEITO ATÉ O JULGAMENTO DA AÇÃO CIVIL PÚBLICA EM APENSO, SENDO, PORTANTO, TOTALMENTE INCABÍVEL PARA ATACAR O PROVIMENTO JURISDICIONAL QUESTIONADO, A CONSIDERAR QUE O REFERIDO ATO NÃO INTEGRA A LISTA TAXATIVA PREVISTA DO CITADO ARTIGO, BEM COMO TAMBÉM NÃO SE ENQUADRA NO ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA QUANTO À MITIGAÇÃO DA TAXATIVIDADE DO ORDENAMENTO LEÇJAL, POIS DESPROVIDO DO REQUISITO OBJETIVO DA URGÊNCIA. RECURSO NAO CONHECIDO, POR SER MANIFESTAMENTE INADMISSÍVEL.
+Quanto à controvérsia, a parte recorrente alega divergência jurisprudencial atinente à interpretação do art. 1.015 do CPC, no que concerne à aplicação da taxatividade mitigada do rol de hipóteses de cabimento do agravo de instrumento, tendo em vista a inutilidade da apreciação posterior da questão suscitada.
+É o relatório.
+Decido.
+Quanto à controvérsia, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática e identidade jurídica entre o acórdão recorrido e aqueles apontados como paradigmas, tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+Nesse sentido, o STJ decidiu: "Quanto à apontada divergência jurisprudencial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata da prescrição quanto à indenização pela demora injustificada na concessão de aposentadoria, os acórdãos paradigmas cuidam do termo inicial da prescrição para requerer a conversão de licença-prêmio não gozada em pecúnia". (AgInt no REsp 1.659.721/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 29.5.2020.) ;
+Confiram-se ainda os seguintes precedentes: AREsp 1.241.527/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 26.3.2019; AgInt no AREsp 1.385.820/RS, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 2.4.2019; AgInt no AREsp 1.625.775/RS, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 25.6.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
