@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2024 a 30/10/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O não provimento do agravo regimental foi fundamentado, de modo suficiente, na validade da valoração negativa das circunstâncias do delito.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão.
+4. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ROSIMERI DE OLIVEIRA LIMA contra acórdão assim ementado (fl. 1.966):
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FURTOS QUALIFICADOS CONSUMADO E TENTADO. VETORIAL "CIRCUNSTÂNCIAS DO CRIME" NEGATIVADA. IDONEIDADE. CONTRARIEDADE AO ART. 59 DO CÓDIGO PENAL. AUSÊNCIA. DESPROVIMENTO.
+1. Para os três fatos ilícitos atribuídos à ré, ora agravante, ressaltou o Tribunal local que a prática dos "delitos em estabelecimentos comerciais, em horário de funcionamento e na presença de clientes e funcionários não constitui elementar do tipo penal, e realmente merece maior grau de reprovabilidade, eis que demonstra maior ousadia e ausência de freios inibitórios para a prática delitiva", não havendo falar-se em contrariedade ao art. 59 do Código Penal. Precedentes.
+2. "A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades" (HC n. 422.519/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/2/2018, D Je de 26/2/2018), as quais, in casu, não ocorreram.
+3. Agravo regimental desprovido.
+A parte embargante afirma a ocorrência de vício no julgado, relacionado à omissão, articulando que "o nobre Ministro, na r. decisão embargada, não explicou por qual razão seria o crime menos grave se a recorrente o tivesse praticado fora de horário comercial e com a loja fechada (o que constitui, inclusive, causa de aumento da pena)" (fl. 1.978).
+Afirma ainda que não houve uma análise da decisão estadual para verificar a majoração da pena-base pelas circunstâncias do crime.
+Requer o acolhimento dos aclaratórios para sanar os defeitos apontados, com a correspondente repercussão jurídica.
+Impugnação apresentada com o pedido de rejeição dos embargos de declaração.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O não provimento do agravo regimental foi fundamentado, de modo suficiente, na validade da valoração negativa das circunstâncias do delito.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão.
+4. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+5. Embargos de declaração rejeitados.
+VOTO
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, se verifica a existência de fundamentação suficiente no acórdão ora embargado demonstrando que as conclusões postas pelas instâncias ordinárias, relativamente à valoração negativa das circunstâncias do delito, encontram amparo na jurisprudência do STJ, conforme precedentes colacionados, razão de se constatar inexistir violação do art. 59 do CP.
+Observe-se, a propósito, o que constou no voto condutor do acórdão recorrido (fls. 1.969-1.970):
+Acerca da questão, extrai-se do aresto recorrido (fl. 1.772):
+ ..  As CIRCUNSTÂNCIAS restam agravadas ante o fato da acusada ter furtado estabelecimento comercial, em horário de funcionamento; como se sabe, crimes cometidos com afetação a empresas ou em face de locais de trabalho são socialmente mais danosos, porque geram insegurança ao emprego e prejudicam as relações de trabalho, além de encarecer os serviços ou produtos, exigindo que os estabelecimentos se cerquem de onerosas formas de segurança, prejudicando as relações de emprego e de consumo. ..
+A fundamentação acima foi utilizada para os três fatos ilícitos atribuídos à ré, ora agravante, ressaltando o TJPR que o fato de ter "praticado os delitos em estabelecimentos comerciais, em horário de funcionamento e na presença de clientes e funcionários não constitui elementar do tipo penal, e realmente merece maior grau de reprovabilidade, eis que demonstra maior ousadia e ausência de freios inibitórios para a prática delitiva" (fl. 1.774), não havendo falar-se em contrariedade ao art. 59 do Código Penal.
+"No que se refere às circunstâncias do delito, essas possuem relação com o modus operandi veiculado no evento criminoso. Na hipótese dos autos, as instâncias ordinárias explicitaram que os réus, durante o dia, mediante violação do portão do estabelecimento comercial da vítima, ingressaram no local, causando-lhe prejuízo, o que demonstra maior reprovabilidade da conduta e justifica a fixação da pena-base acima do mínimo legal. Precedentes." (AgRg no AR Esp n. 2.347.053/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/10/2023, D Je de 6/10/2023.)
+"No que toca às circunstâncias do crime, a análise do decidido nas instâncias ordinárias deixou assente que as particularidades do delito e as atitudes assumidas pelo condenado no decorrer do fato criminoso retrataram a maior periculosidade e ousadia do agravante, o que justifica a exasperação da basal. Precedente" (AgRg no HC n. 450.562/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2018, DJe de 29/8/2018.)
+Por fim, " a  individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades" (HC n. 422.519/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/2/2018, D Je de 26/2/2018), as quais, in casu, não ocorreram.
+Portanto, inexistindo vício a ser dissipado, a pretensão do recurso é de rediscussão dos fundamentos do acórdão, propósito inviável para o recurso em apreço, nada havendo que se possa acolher.
+Ainda, consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido sufi cientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp n. 2.372.869/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/3/2024, DJe de 22/3/2024; e EDcl no AgRg no RHC n. 170.844/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 9/4/2024, DJe de 12/4/2024.
+Registro, em atenção ao princípio da cooperação, que a apresentação de novos aclaratórios que venham a ser considerados protelatórios poderá resultar no não conhecimento da insurgência, com o exaurimento da jurisdição desta Corte Superior e baixa imediata dos autos.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
