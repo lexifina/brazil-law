@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 672/706) interposto contra decisão da Presidência desta Corte Superior que não conheceu do agravo nos próprios autos, sob o fundamento de incidência, por analogia, da Súmula n. 182/STJ (e-STJ fls. 667/668).
+Em suas razões, a parte agravante alega que impugnou todos os fundamentos da decisão de admissibilidade, o que justificaria o afastamento do óbice referido.
+Ao final, pede a parte reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+O agravado apresentou contrarrazões (e-STJ fls. 711/713).
+É o relatório.
+Decido.
+O agravo nos próprios autos (e-STJ fls. 560/601) refutou adequadamente os fundamentos da monocrática que negou seguimento ao especial.
+Desse modo, reconsidero a decisão agravada (inclusive quanto ao arbitramento de honorários recursais) e passo ao exame do especial.
+O acórdão recorrido está assim ementado (e-STJ fl. 349):
+APELAÇÃO - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - LIQUIDAÇÃO DE SENTENÇA - Prescrição - Ocorrência - Ajuizamento de ação anterior idêntica a qual restou extinta sem resolução de mérito ante à falta de associação da parte ao IDEC - Coisa julgada formal - Efeito vinculante ao exequente, a despeito do atual entendimento do Superior Tribunal de Justiça - Ausência de adoção da providência para regularização da situação processual leva ao reconhecimento da prescrição - Sentença mantida. Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 417/419).
+No recurso especial (e-STJ fls. 421/459), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente indicou contrariedade ao art. 489, § 1º, IV e VI, do CPC/2015, afirmando haver negativa de prestação jurisdicional, pois a Corte local teria ignorado suas alegações sobre a desnecessidade de filiação ao IDEC, a fim de corrigir o vício da ausência de legitimidade ativa ad causam do exequente para a execução individual da sentença coletiva.
+Acrescentou haver omissão relativa à tese de que a prescrição do segundo cumprimento individual da sentença coletiva estaria suspensa, ante o pedido de habilitação dos herdeiros, em 3 de outubro de 2019, nos autos do primeiro cumprimento individual extinto por ilegitimidade ativa do exequente, sendo o requerimento homologado em 5 de novembro de 2020, retomando a fluência do lapso prescricional após esse prazo.
+Indicou existir omissão sobre a aplicação da Lei n. 14.010/2020 (Estatuto da Pandemia), cujo art. 3º prevê a suspensão do prazo prescricional entre a publicação da lei até de 30 de outubro de 2020.
+Apontou dissídio jurisprudencial e violação:
+(i) dos arts. 485, VI, e 486 do CPC/2015, porque a ausência de legitimidade ativa do exequente para executar a sentença coletiva poderia ser corrigida sem a necessidade de filiação ao IDEC, com fundamento no Tema Repetitivo n. 948/STJ, e
+(ii) dos arts. 313, I, § 1º, do CPC/2015, 202, VI, do CC/2002 e 1º, parágrafo único, e 3º da Lei n. 14.010/2020, ante a existência das causas suspensivas da prescrição aqui mencionadas.
+Foram ofertadas contrarrazões (e-STJ fls. 497/504).
+Não assiste razão à parte recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu a matéria controvertida, não incorrendo em omissão, contradição ou obscuridade.
+A Justiça local deixou claros os motivos pelos quais concluiu pela existência de coisa julgada formal a respeito da ilegitimidade ativa do exequente, ante a ausência de filiação ao IDEC. Confira-se o seguinte trecho (e-STJ fls. 349/350):
+Sem razão a apelante.
+Anteriormente a esta demanda, propôs o apelante demanda idêntica, a qual foi extinta por ilegitimidade ativa, pois não teria o recorrente lá comprovado sua condição de associado ao IDEC.
+Logo, não caberia ao apelante simplesmente repropor a ação anteriormente extinta.
+Mesmo que não haja no caso coisa julgada material, para o autor parte ilegítima, não resolvida a questão da ilegitimidade, com a oportuna filiação ao IDEC, não teria como voltar, na mesma condição, a pleitear em juízo, afrontando a coisa julgada a que estava sujeito.
+Na espécie temos coisa julgada formal, vinculante para a parte a qual se refere, não tendo como ser desconsiderada, apesar da posterior orientação adotada pelo Superior Tribunal de Justiça.
+Logo, pelo decurso do tempo, sem que o apelante adotasse efetiva providência para regularização de sua situação processual, deixando decorrer o prazo da prescrição, é caso de se confirmar a sentença.
+Saliento que a função do julgador é decidir a lide de modo fundamentado e objetivo, portanto, desnecessário o enfrentamento exaustivo de todos os argumentos elaborados pelas partes.
+Nesses termos, NEGO PROVIMENTO ao recurso.
+Ao rejeitar os aclaratórios, o colegiado esclareceu ainda que (e-STJ fl. 419):
+No caso concreto analisado no acórdão embargado foi analisada hipótese em que deu-se a comentada extinção sem resolução de mérito, porém reconhecendo-se a ilegitimidade ativa do apelante, sendo que neste ponto houve formação de coisa julgada formal, e não poderia, como destacado no acórdão já mencionado, fazer simples repropositura da ação, senão cumprindo-se aquilo que na forma do §1º, do art. 486, do Código de Processo Civil, na espécie, é necessário, e não poderia ser dispensado, justamente pelo fato da existência, neste aspecto de coisa julgada formal.
+Ora, como não houve correção daquilo que deveria ser ajustado, pois para a parte estava comandado que apenas se filiada ao IDEC poderia buscar o quanto veio reclamar em juízo, ficou ensejado o reconhecimento da prescrição na forma proclamada na sentença, pois sem a adoção da providência processual aqui indispensável, não houve interrupção do prazo prescricional, o qual acabou por se aprimorar, exclusivamente pelo fato do modo de proceder do apelante.
+Ressalte-se que o fato de o julgamento ser contrário aos interesses da parte recorrente não configura nenhum dos vícios do art. 489 do CPC/2015, tampouco é o caso de cabimento dos aclaratórios.
+Não há falar em omissão sobre as causas suspensivas da prescrição de propositura do segundo cumprimento individual da sentença coletiva, porque o entendimento da Corte de apelação de coisa julgada formal prejudicou o exame de tal alegação.
+A Corte local não se manifestou quanto ao art. 202, VI, do CC/2002 sob o enfoque pretendido pela parte recorrente. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Conforme o entendimento desta Corte Superior, "nas hipóteses de extinção do processo sem resolução do mérito, por carência de ação (CPC, art. 267, VI), não há coisa julgada material, mas apenas coisa julgada formal - a qual, em regra, inviabiliza somente a discussão da controvérsia no mesmo processo, não em outro. Suprido o vício detectado na demanda anterior, é possível o ajuizamento de nova ação, observado o disposto no art. 268 do CPC" (REsp n. 1.215.189/RJ, relator MINISTRO RAUL ARAÚJO, QUARTA TURMA, julgado em 2/12/2010, DJe de 1/2/2011).
+No mesmo sentido.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO. AUSÊNCIA DE JULGAMENTO DO MÉRITO DE RECONVENÇÃO PROPOSTA ANTERIORMENTE PELO AUTOR EM AÇÃO REIVINDICATÓRIA. COISA JULGADA FORMAL. AJUIZAMENTO DE NOVA DEMANDA. POSSIBILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. "A coisa julgada material somente se dá quando apreciado e decidido o mérito da causa" (EREsp 160.850/SP, Rel. Ministro EDSON VIDIGAL, Rel. p/ acórdão Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, CORTE ESPECIAL, julgado em 03/02/2003, DJ de 29/09/2003, p. 134).
+2. No caso, a ausência de análise do mérito da reconvenção, sob o fundamento de impossibilidade de ampliação do liame objetivo e subjetivo da demanda, não é passível de formar coisa julgada material, mas somente coisa julgada formal, que não impede a propositura de nova demanda para discutir a questão acerca da nulidade do negócio jurídico.
+3. Agravo interno provido para, reconsiderando a decisão agravada, dar provimento ao recurso especial.
+(AgInt no AREsp n. 1.511.032/DF, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/2/2020, DJe de 13/2/2020.)
+RECURSO ESPECIAL - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - AUSÊNCIA DE DEMONSTRAÇÃO - FUNDAMENTAÇÃO DEFICIENTE - INCIDÊNCIA DA SÚMULA 284/STF - ARTIGOS 115, DO CÓDIGO CIVIL, 4º, 6º, 51, I E 54, DO CÓDIGO DE DEFESA DO CONSUMIDOR - PREQUESTIONAMENTO - AUSÊNCIA - APLICAÇÃO DA SÚMULA 211/STJ - COISA JULGADA - AÇÃO ANTERIOR EXTINTA, ACOLHIDA A PRELIMINAR DE ILEGITIMIDADE ATIVA AD CAUSAM - REPROPOSITURA DA AÇÃO - ADMISSIBILIDADE, DESDE QUE SANEADA A QUESTÃO QUE ENSEJOU A EXTINÇÃO ANTERIOR - PRECEDENTES - INEXISTÊNCIA DE CORREÇÃO, NA HIPÓTESE - ENTENDIMENTO OBTIDO PELA INTERPRETAÇÃO DE CONTEÚDO PROBATÓRIO - INCIDÊNCIA DA SÚMULA 7/STJ - RECURSO ESPECIAL IMPROVIDO.
+ ..
+III - A extinção do processo, sem julgamento de mérito, por ilegitimidade ativa ad causam, faz coisa julgada formal, impedindo a discussão da questão no mesmo processo, mas não em outro feito, desde que a parte autora promova o saneamento da condição que ensejou a extinção da demanda anterior. Inexistência, na espécie, de correção. Precedentes.
+IV - Recurso especial improvido.
+(REsp n. 897.739/RS, relator Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 5/5/2011, DJe de 18/5/2011.)
+AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. INDEVIDA REITERAÇÃO. PRETENSÃO DEFENSIVA JÁ VENTILADA EM PEDIDO REVISIONAL ANTERIORMENTE AJUIZADO NESTA CORTE. § 1.º, DO ART. 486, DO CÓDIGO DE PROCESSO CIVIL NÃO ATENDIDO. HIPÓTESE DO ART. 626, DO CÓDIGO DE PROCESSO PENAL NÃO CONFIGURADA. AGRAVO DESPROVIDO.
+1. O caput do art. 486 do Código de Processo Civil não permite o ajuizamento, tout court, de causa extinta sem a resolução do mérito. O § 1.º do referido artigo condiciona o ajuizamento de nova ação ao saneamento do óbice processual que impediu a análise meritória.
+ ..
+3. Agravo desprovido.
+(AgRg na RvCr n. 5.894/MA, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 27/9/2023, DJe de 3/10/2023.)
+O vício referente a ilegitimidade da ativa do exequente por ausência de filiação ao IDEC, é passível de correção com a aplicação da jurisprudência repetitiva do STJ (Tema n. 948/STJ), segundo a qual, "em ação civil pública proposta por Associação, na condição de substituta processual de consumidores, possuem legitimidade para a liquidação e execução da sentença todos os beneficiados pela procedência do pedido, independentemente de serem filiados à Associação promovente".
+Com o mesmo entendimento:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. IDEC. LIMITE TERRITORIAL DA SENTENÇA. LIMITAÇÃO INDEVIDA. EFICÁCIA DA COISA JULGADA QUE NÃO SE RESTRINGE AO TERRITÓRIO DO ÓRGÃO JUDICANTE. ABRANGÊNCIA DOS DIREITOS COLETIVOS EM SENTIDO AMPLO INDISTINTAMENTE. HIPÓTESE DE DIREITOS INDIVIDUAIS HOMOGÊNEOS. POSSIBILIDADE DESDE QUE O EXEQUENTE SEJA BENEFICIÁRIO DO COMANDO DISPOSTO NA SENTENÇA. AGRAVO INTERNO DESPROVIDO.
+1. É pacífico o entendimento vigente na Segunda Seção deste Tribunal Superior, sedimentando sob o rito dos recursos repetitivos (Tema 948), de que, "em Ação Civil Pública proposta por associação, na condição de substituta processual de consumidores, possuem legitimidade para a liquidação e execução da sentença todos os beneficiados pela procedência do pedido, independentemente de serem filiados à associação promovente" (REsp n. 1.438.263/SP, DJe de 24/5/2021).
+ ..
+4. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 1.602.215/PR, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/3/2024, DJe de 18/3/2024.)
+Afastada a coisa julgada formal aqui referida, passa-se ao exame das alegadas causas suspensivas da prescrição do segundo cumprimento individual da sentença coletiva.
+Para a jurisprudência do STJ, "a morte de qualquer das partes, de seus representantes legais ou de seus procuradores determina a suspensão do processo até sua regularização (arts. 265, I do CPC/1973 e 313, I do CPC/2015) e, por conseguinte, do prazo de prescrição" (AgInt no REsp n. 2.085.991/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/4/2024, DJe de 2/5/2024).
+Do mesmo modo:
+AGRAVO INTERNO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PRESCRIÇÃO INTERCORRENTE. AFASTAMENTO. FALECIMENTO DO EXECUTADO. SUSPENSÃO DO PROCESSO. RECURSO QUE NÃO IMPUGNA FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 284 E 283 DO STF. AGRAVO INTERNO NÃO PROVIDO
+1. Nos termos dos arts. 265, I, e 791, II, do CPC, a morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente.
+2. O falecimento de qualquer das partes suspende o processo no exato momento em que se deu. (EREsp n. 270.191/SP, relator Ministro Francisco Peçanha Martins, Corte Especial, julgado em 4/8/2004, DJ de 20/9/2004, p. 175.)
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.902.503/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/8/2023, DJe de 31/8/2023.)
+E, ainda, o art. 3º da Lei n. 14.010/2020 previu que "os prazos prescricionais consideram-se impedidos ou suspensos, conforme o caso, a partir da entrada em vigor desta Lei até 30 de outubro de 2020", cabendo destacar que a lei referida foi publicada em 12/6/2020.
+A fim de evitar a supressão de instância e ante a vedação da Súmula n. 7/STJ, é de rigor cassar o acórdão recorrido, para que a Corte local examine as causas suspensivas de prescrição referentes ao segundo cumprimento individual da sentença coletiva proposto pela parte recorrente, quais sejam, a comunicação do óbito de uma das partes e a aplicação do Estatuto do Pandemia (Lei n. 14.010/2020).
+Diante do exposto, RECONSIDERO a decisão agravada para excluindo a Súmula n. 182/STJ, CONHECER do agravo nos próprios autos para DAR PARCIAL PROVIMENTO ao recurso especial, a fim de afastar a coisa julgada formal referente à ilegitimidade ativa da parte recorrente e, por conseguinte, cassar o acórdão e determinar a devolução dos autos ao Tribunal de origem, para novo julgamento da apelação a respeito das causas suspensivas da prescrição do segundo cumprimento individual da sentença coletiva, como entender de direito, nos termos da fundamentação retro.
+Publique-se e intimem-se.
+EMENTA
