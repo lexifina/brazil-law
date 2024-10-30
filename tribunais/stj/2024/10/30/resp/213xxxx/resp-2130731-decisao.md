@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por PENTEADO FARIA E FOGAÇA EMPREENDIMENTO IMOBILIÁRIO SPE LTDA (PENTEADO) com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, relatado pelo Des. VITOR FREDERICO KÜMPEL, assim ementado:
+APELAÇÃO CÍVEL. TAXA ASSOCIATIVA. Cobrança de taxa de manutenção exigida pela associação de moradores. Sentença de procedência. Inconformismo da requerida. Descabimento. Ré que foi proprietária originária da área loteada e participou da constituição da assembleia autora, bem como procedeu ao registro do contrato padrão, que prevê a filiação automática a todo adquirente de imóvel no loteamento. Ciência inequívoca da ré. Inaplicabilidade dos Temas 492 do STF e 882 do STJ. RECURSO DESPROVIDO. (e-STJ, fls.291).
+Os embargos de declaração opostos por PENTEADO foram rejeitados (e-STJ, fls. 329/329).
+Nas razões do presente recurso, PENTEADO alegou a violação aos arts. 53 do Código Civil, 5º, inciso XX, da CF/88, 319, VI, 337, IV, 485, IV, 489, §1º, IV, VI, e 1.022, II, do Código de Processo Civil, além de divergência jurisprudencial por desrespeito aos entendimentos firmados em recursos repetitivos, Temas 882 deste C. STJ e 492 do E. STF.
+Sustentou, em síntese, que (1) embora instado por meio de embargos de declaração, o Tribunal bandeirante deixou de se manifestar sobre a incidência dos Temas 882/STJ e 492/STF, os quais firmaram a orientação de que "ninguém é obrigado a se associar ou permanecer associado"; e, (2) que jamais se associou a Recorrida ou anuiu com as cobranças das taxas de associação discutidas nos autos, sendo, portanto, parte ilegítima para responder pela cobrança (e-STJ, fls. 331/348).
+Foram apresentadas contrarrazões (e-STJ, fls. 354/363).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Da impossibilidade de análise de violação aos preceitos constitucionais
+PENTEADO afirmou a violação dos art. 5º, inciso XX, da Constituição Federal.
+Contudo, a jurisprudência pacífica desta Corte segue no sentido de ser inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da CF.
+Confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). OFENSA À CONSTITUIÇÃO. IMPOSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AÇÃO DE COMPLEMENTAÇÃO. CUMPRIMENTO DE SENTENÇA. PERÍCIA CONTÁBIL DETERMINADA PELO JUIZ. PERÍCIA ATUARIAL. DESNECESSIDADE. REVISÃO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+(AgInt no AREsp n. 807.379/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 21/3/2017, DJe de 27/3/2017.)
+Dessa forma, quanto ao ponto, o recurso não pode ser conhecido.
+(2) Da negativa de prestação jurisdicional (arts. 489 e 1.022 do NCPC)
+No presente recurso, PENTEADO alegou, ainda, a violação do art. 1.022 do NCPC em virtude da alegada omissão no acórdão quanto a aplicação dos Temas 882/STJ e TEMA 492/STF, os quais firmaram a orientação de que "ninguém é obrigado a se associar ou permanecer associado".
+Por essa razão, requer a manifestação do TJSP sobre referidas matérias, a fim de que seja reconhecida sua ilegitimidade passiva para responder pela cobrança das taxas associativas que lhe imputa a Associação dos Proprietários em Residencial Bella Vitta.
+Sem razão, contudo.
+Apesar do inconformismo, verifica-se que o Tribunal local se pronunciou sobre todos os temas importantes ao deslinde da controvérsia, ainda que em sentido oposto à pretensão do insurgente.
+Em seus embargos de declaração, PENTEADO requereu a manifestação do Tribunal bandeirante quanto ao entendimento firmado na Corte Suprema, bem como no STJ, acerca da inexistência de obrigatoriedade de "se associar ou permanecer associado", sendo inconstitucional a previsão da Associação de moradores de "filiação automática a todo adquirente de imóvel no loteamento".
+Entretanto, da acurada análise do acórdão que julgou os aclaratórios, verifica-se que o TJSP tratou sobre o tema, consignando o seguinte:
+ ..  não há qualquer vício no decisum embargado, inocorrentes as hipóteses previstas no art. 1.022 do CPC.
+A decisão embargada enfrentou os aspectos relevantes da lide, nos estritos termos daquilo que foi devolvido para reanálise, tendo sido suficientemente claro no que tange à possibilidade da Associação de cobrar o débito perseguido, especialmente considerando a particularidade do caso concreto, conforme fundamentação a seguir transcrita:
+Assim, se o proprietário não se associou expressamente, de forma livre e desvinculada da aquisição do imóvel, a obrigação do pagamento de taxa associativa não pode ser a ele imposta, sob pena de desrespeito a direito fundamental à livre associação.
+Contudo, no presente caso, há uma particularidade. Extrai-se dos autos que a ré, proprietária originária da área loteada, foi a pessoa jurídica que criou a Associação de Moradores Bella Vitta, ora Apelada, registrando seus atos constitutivo no competente Registro de Imóveis, conforme se infere da Matrícula mãe nº 63.631, no qual restou definido, no seu R-3-63.631, os parâmetros e condições da implementação do Loteamento Fechado, bem como a forma de administração e inclusive parâmetros construtivos (fls. 93/111).
+Além disso, o contrato padrão de compra e venda, no qual figura como promitente vendedora a ré/apelante, encontra-se devidamente registrado no Cartório de Registro de Imóveis (fls. 129/157). Em referido contrato padrão, elaborado pela própria ré, há a previsão expressa para a cobrança da taxa de manutenção do loteamento, conforme se infere da cláusula nona, "c", senão vejamos:
+O(s) COMPRADOR(ES) declara(m) estar ciente(s) de que a filiação é automática a todo adquirente de imóvel no referido loteamento, pelo que manifesta(m) expressamente, neste ato, sua imediata adesão à mesma, como condição essencial que é do presente contrato, comprometendo-se a contribuir com a taxa mensal especificada no referido estatuto, com valor a ser definido pela ASSOCIAÇÃO em Assembleia convocada para este fim, para que possa, por si ou por terceiros contratados, executar os seus objetivos sociais; (fls. 141)
+Neste cenário, diante da precedente assunção da obrigação a estar associada, assumida quando da própria instituição da Associação Autora, da qual participou, não pairam dúvidas sobre a legitimidade da cobrança aqui reclamadas, de modo que descabida a pretensão de se eximir da responsabilidade do pagamento das taxas associativas, revelando-se absolutamente contraditório o seu intento de que seja reconhecida a ausência de sua filiação à apelada.
+Na verdade, o embargante está inconformado com a parte do acórdão que lhe é desfavorável e pretende, por meio destes embargos de declaração, rediscutir controvérsia já dirimida e obter a reforma da decisão, o que extrapola os limites do recurso escolhido. (e-STJ, fls. 326/328).
+Como se nota das razões acima, apesar do inconformismo, verifica-se que o Tribunal local se pronunciou sobre todos os temas importantes ao deslinde da controvérsia, reconhecendo, ao final, que a insurgência de PENTEADO não lograria o êxito pretendido, posto que visava, tão somente, se omitir à obrigação de pagamento de taxa associativa, por ela mesma criada, não havendo, portanto, omissão, contradição ou obscuridade a macular o acórdão proferido pela Corte estadual.
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente.
+Ademais, a jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. AUSÊNCIA. RESPONSABILIDADE CIVIL RECONHECIDA. EXCLUDENTES AFASTADAS. REVISÃO. NÃO CABIMENTO. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ. ARBITRAMENTO DE DANOS MORAIS. DISCUSSÃO DO VALOR. PROPORCIONALIDADE RECONHECIDA. IMPOSSIBILIDADE DE REVISÃO NESTES AUTOS. SÚMULA 7/STJ. TERMO INICIAL. JUROS MORATÓRIOS. CITAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.229.195/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+Afasta-se, portanto, a alegada ofensa ao art. 1022 do CPC.
+Nessas condições, CONHEÇO do recurso especial para NEGAR-LHE PROVIMENTO.
+Nessas condições, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de ASSOCIAÇÃO DOS PROPRIETÁRIOS EM RESIDENCIAL BELLA VITTA, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TAXA ASSOCIATIVA. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC. ALEGADA EXISTÊNCIA DE OMISSÃO NÃO SANADA. REJEIÇÃO. TRIBUNAL LOCAL QUE ANALISOU CONCRETAMENTE TODOS OS FATOS RELEVANTES PARA O DESATE DA CONTROVÉRSIA, NÃO INCORRENDO EM OMISSÃO, CONTRADIÇÃO E/OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PRETENÇÃO DE REJULGAMENTO DA CAUSA. INVIABILIDADE. RECURSO ESPECIAL NÃO PROVIDO.
