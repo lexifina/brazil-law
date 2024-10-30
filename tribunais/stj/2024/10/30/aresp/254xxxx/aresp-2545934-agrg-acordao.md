@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2024 a 30/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. VETORES DO ART. 59 DO CÓDIGO PENAL E DO ART. 42 DA LEI N. 11.343/2006. SIGNIFICATIVA QUANTIDADE DE DROGA COM DEVASTADORES EFEITOS. PENA-BASE FIXADA ABAIXO DA MÉDIA DOS EXTREMOS. EXCESSO. NÃO CONFIGURAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O sistema legal de concretização da reprimenda ideado pelo Nelson Hungria e positivado no art. 68 do Código Penal confere ao Magistrado certa discricionariedade para que possa dar concretude ao princípio da individualização da pena - art. 5º, inciso XLVI, da Constituição Federal.
+2. Especificamente no que diz respeito ao crime de tráfico de drogas, a par das vetoriais do art. 59 do Código Penal, a Lei 11.343/2006 estabelece que, na fixação da pena inicial, o julgador considerará, com preponderância em relação às demais circunstâncias judiciais, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+3. Na espécie, aprendida quantidade significativa de droga com alto poder nocivo, vale dizer, mais de 18 (dezoito) quilos de cocaína, não se reputa desproporcional a fixação da pena-base em 09 (nove) anos de reclusão, i. é, abaixo da média dos extremos prevista no tipo - de 05 (cinco) a 15 (quinze) anos de reclusão.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  FRANQUINEI BATISTA DE NEGREIROS  contra  a  decisão  monocrática deste Relator, que conheceu do agravo para negar provimento ao recurso especial subjacente (fls.478-482).
+O  agravante  reitera que a majoração da pena-base em quatro anos apenas pela quantidade e qualidade da droga apreendida, vale dizer, 18kg (dezoito quilos) de cocaína, não é proporcional e afigura-se excessivo.
+Acrescenta que o art. 42 da Lei Antidrogas considera preponderantes não só a quantidade e qualidade da droga, mas também a personalidade e a conduta social do agente, as quais, na espécie, foram consideradas favoráveis.
+Pleiteia a reconsideração da decisão agravada ou a submissão do regimental ao Colegiado Julgador.
+Contrarrazões às fls. 502-504.
+É  o  relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. VETORES DO ART. 59 DO CÓDIGO PENAL E DO ART. 42 DA LEI N. 11.343/2006. SIGNIFICATIVA QUANTIDADE DE DROGA COM DEVASTADORES EFEITOS. PENA-BASE FIXADA ABAIXO DA MÉDIA DOS EXTREMOS. EXCESSO. NÃO CONFIGURAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O sistema legal de concretização da reprimenda ideado pelo Nelson Hungria e positivado no art. 68 do Código Penal confere ao Magistrado certa discricionariedade para que possa dar concretude ao princípio da individualização da pena - art. 5º, inciso XLVI, da Constituição Federal.
+2. Especificamente no que diz respeito ao crime de tráfico de drogas, a par das vetoriais do art. 59 do Código Penal, a Lei 11.343/2006 estabelece que, na fixação da pena inicial, o julgador considerará, com preponderância em relação às demais circunstâncias judiciais, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+3. Na espécie, aprendida quantidade significativa de droga com alto poder nocivo, vale dizer, mais de 18 (dezoito) quilos de cocaína, não se reputa desproporcional a fixação da pena-base em 09 (nove) anos de reclusão, i. é, abaixo da média dos extremos prevista no tipo - de 05 (cinco) a 15 (quinze) anos de reclusão.
+4. Agravo regimental não provido.
+VOTO
+Impugnados os fundamentos da decisão agravada, passo a análise do recurso subjacente, adiantando de pronto que não merece acolhida.
+Conforme destacado na decisão recorrida, a pretensão recursal cinge-se à mitigação da pena-base, encontrando-se o acórdão apelatório assim fundamentado (fl. 385 - grifamos):
+Como asseverado, o inconformismo que rendeu ensanchas ao presente recurso consiste na fixação da pena-base muito acima do mínimo legal, razão pela qual a defesa pugna por sua redução ao argumento de que apenas uma circunstância judicial foi valorada negativamente (ID 158973979).
+O juízo singular assim fundamentou a primeira fase da dosimetria da pena:
+"Atento ao princípio constitucional da individualização da pena, analisando as circunstâncias do art. 59 do CP e do art. 42 da LT, destaca-se a grande quantidade e a qualidade da substância entorpecente apreendida do tipo cocaína (18.246,94 Kg divididos em 18 tabletes), razão pela qual a pena base em , o que fixo 9 anos de reclusão e 900 dias - multa faço com base no entendimento adotado pelo STJ no HC 204619" (ID158973961).
+A defesa objetiva o abrandamento da pena-base ao argumento de que sua majoração em 04 (quatro) anos revela-se desproporcional, mormente considerando que apenas uma circunstância judicial foi valorada negativamente.
+Todavia, razão não lhe assiste. De fato, "o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente (STJ, HC 364577/SP)."
+Nesse sentido, a quantidade e natureza da droga apreendida(aproximadamente 18 kg de cocaína) autoriza o aumento da pena basilar em 04 (quatro) anos.
+Como se sabe, o sistema legal de concretização da reprimenda ideado pelo Nelson Hungria e positivado no art. 68 do Código Penal confere ao Magistrado certa discricionariedade para que possa dar concretude ao princípio da individualização da pena - art. 5º, inciso XLVI, da Constituição Federal.
+Nesse descortino, fixou-se a jurisprudência do Superior Tribunal de Justiça no sentido de que é possível que a pena-base seja fixada no máximo legal com a valoração de apenas uma circunstância judicial, caso haja a devida fundamentação pelo magistrado. (AgRg no HC 912476/ES, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 01/07/2024, D Je de 12/08/2024 - grifamos).
+Especificamente no que diz respeito ao crime de tráfico de drogas, a par das vetoriais do art. 59 do Código Penal, a Lei n. 11.343/2006 estabelece que, na fixação da pena inicial, o julgador considerará, com preponderância em relação as demais circunstâncias judiciais, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+Na espécie, aprendida quantidade significativa de droga com alto poder deletério, vale dizer, mais de 18 (dezoito) quilos de cocaína, não se reputa desproporcional a fixação da pena-base em 09 (nove) anos de reclusão, i. é, abaixo da média dos extremos prevista no tipo - de 05 (cinco) a 15 (quinze) anos de reclusão.
+Em situações semelhantes já decidiu esta Corte Superior, v. g.:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. DESCLASSIFICAÇÃO PARA A CONDUTA DO ART. 28 DA LEI Nº 11.343/06. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PENA-BASE. EXASPERAÇÃO. QUANTIDADE DA DROGA. FUNDAMENTAÇÃO IDÔNEA. INTERESTADUALIDADE DO DELITO. QUANTUM DE AUMENTO DE PENA NO PATAMAR DE 1/5. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. No tocante à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+3. Na hipótese do tráfico ilícito de entorpecentes, é indispensável atentar para o que disciplina o art. 42 da Lei n. 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente. Precedentes.
+5. Em atenção às diretrizes do art. 59 do CP e do art. 42 da Lei de Drogas, houve a consideração da quantidade e da diversidade dos entorpecentes apreendidos (28kg de maconha e 3,8g de cocaína), sendo um deles de natureza altamente deletéria (cocaína), para fixar a pena-base 3 anos acima do mínimo legalmente previsto, não havendo qualquer ilegalidade no referido fundamento.
+ ..
+8. Agravo regimental não provido. (AgRg no AR Esp 2367054/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 08/08/2023, D Je de 14/08/2023 - grifamos)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. QUANTIDADE E NATUREZA DO ENTORPECENTE. FUNDAMENTOS VÁLIDOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO NÃO PROVIDO.
+1. A teor do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+2. Como cediço, "não existe critério matemático obrigatório para a fixação da pena-base. Pode o magistrado, consoante a sua discricionariedade motivada, aplicar a sanção básica necessária e suficiente à repressão e prevenção do delito, pois as infinitas variações do comportamento humano não se submetem, invariavelmente, a uma fração exata na primeira fase da dosimetria" (AgRg no HC 563.715/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/9/2020, D Je 21/9/2020).
+3. Hipótese em que a pena-base foi exasperada no dobro do mínimo legal com fundamento na natureza e na expressiva quantidade do entorpecente apreendido (15,800 kg cocaína na posse do paciente e 13,750 kg da mesma substância na posse na posse do corréu), o que não se mostra desproporcional, tendo em vista as penas mínima e máxima do delito de tráfico de drogas (5 a 15 anos).
+4. Agravo regimental não provido. (AgRg no HC 773090/AC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/12/2022, D Je de 15/12/2022 - grifamos)
+Assim, não foram apresentados novos fundamentos capazes de alterar a solução dada pela decisão agravada, sua manutenção é medida que se impõe.
+Ante o exposto, nego provimento o agravo regimental.
+É o voto.
