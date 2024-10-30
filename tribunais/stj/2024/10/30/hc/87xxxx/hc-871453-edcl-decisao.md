@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CRISTINA MORGANA FEU SOARES de decisão, às fls. 149-151 (e-STJ), que não conheceu do agravo regimental, tendo em vista que a defesa, na petição n. 00131196/2024, reproduziu as mesmas razões do agravo regimental interposto às fls. 139-145 (e- STJ), petição n. 00131195/2024.
+A embargante, às fls. 156-160 (e-STJ), alega, em suma, que "não há de se falar em dois recursos para o mesmo objeto, tampouco, afastando de todo pleonasmo, circunlóquio, não há de se falar que houve interposição de dois Agravos Regimentais contra uma mesma decisão. O que houve foi duplicidade no protocolo do Agravo Regimental, tanto que o Agravo recebido nesse Sodalício no dia 26/02/2024 (fls. 139/145), precisamente, às 23:58:57 nunca teve qualquer decisão, razão pela qual, impossível falar-se em "preclusão consumativa"." (e-STJ, fl. 157)
+Requer que "seja conhecido e provido os presentes EMBARGOS DE DECLARAÇÃO, para sanar a obscuridade, omissão e erro, a fim de conhecer e dar provimento ao Agravo Regimental recebido por esse Sodalício às 23:58:57, do dia 26/04/2024, através da petição nº 00131195/2024, porquanto este Agravo foi protocolado minutos antes do Agravo que se opõe embargos de declaração ser recebido, e, ainda assim, nunca foi decidido." (e-STJ, fl. 159)
+Subsidiariamente, pede "o desentranhamento do recurso dúplice (fls. 132/138), devendo a Secretária, antes ou após, certificar qual Agravo foi recebido primeiro. Certificando, igualmente, se já houve algum tipo de decisão monocrática ou colegiada para o Agravo Regimental de fls. 139/145." (e-STJ, fl. 159).
+É o relatório.
+Decido.
+Cumpre registrar que os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+Na hipótese, ao contrário do afirmado pela embargante, observa-se que a decisão impugnada esclareceu que "o agravo regimental interposto pela Defesa às fls. 132-138 (e-STJ), petição n. 00131196/2024, apenas reproduzem as mesmas razões do agravo regimental de fls. 139-145 (e- STJ), petição n. 00131195/2024", razão pela qual não foi conhecido.
+Ademais, conforme se vê às fls. 168-173 (e-STJ), em sessão virtual de 21/5/2024 a 27/05/2024, a Quinta Turma desta Corte Superior de Justiça, por unanimidade, negou provimento ao agravo regimental interposto às fls. 139-145 (e-STJ), petição n. 00131195/2024, em acórdão assim ementado:
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. PREVARICAÇÃO. EXPLORAÇÃO DE PRESTÍGIO. PRESCRIÇÃO VIRTUAL RECONHECIDA EM PRIMEIRO GRAU. PRETENSÃO DE ABSOLVIÇÃO SUMÁRIA. FALTA DE INTERESSE DE AGIR. PEDIDO DE REINTEGRAÇÃO AO CARGO PÚBLICO. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Tratando-se de ação penal em que já houve sentença extintiva da punibilidade da ré em virtude da prescrição da pretensão punitiva, não há espaço para discussão de ilegalidades ou de inocência em sede de habeas corpus, pois não se verifica nenhuma ameaça concreta à liberdade de locomoção da agravante (art. 5º, LXVIII, da Constituição da República).
+2. É inviável o exame de tese não deduzida na petição do habeas corpus e suscitada apenas em sede de agravo regimental, caracterizando inovação recursal. Precedentes.
+3. Agravo regimental desprovido.
+Nesse contexto, não se verifica omissão ou erro na decisão impugnada. O agravo regimental da defesa foi analisado e julgado por esta Corte; e a peça em duplicidade não conhecida .
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
