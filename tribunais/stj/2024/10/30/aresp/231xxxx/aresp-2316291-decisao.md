@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça de São Paulo (Apelação Criminal n. 1502532-04.2019.8.26.0228) que manteve a condenação de Adivan Antonio Rodrigues como incurso no crime de tentativa de furto qualificado privilegiado.
+Nas razões do recurso especial, a defesa do agravante suscitou negativa de vigência dos arts. 59 e 155, § 2º, ambos do Código Penal (fls. 309/330).
+A Corte de origem negou seguimento a um dos tópicos do recurso especial, com base no Tema 150/STF (na forma do art. 1.030, I, b, do CPC), e, no mais, inadmitiu o reclamo com fundamento na Súmula 182/STJ (fls. 350/351).
+Contra o decisum a defesa interpôs o presente agravo (fls. 356/361) e agravo interno (fls. 363/373), sendo o segundo desprovido na Corte de origem (fls. 398/401).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pela inadmissão do agravo (fls. 421/424).
+É o relatório.
+A decisão agravada ostenta conteúdo híbrido, de modo que, no tópico em que foi negado seguimento ao recurso - suposta ilegalidade na valoração negativa dos antecedentes -, operou-se a preclusão ante a negativa de provimento do agravo interno na Corte de origem e a inexistência de recurso previsto contra a referida decisão:
+AGRAVO INTERNO NA PETIÇÃO. RECURSO ESPECIAL. DENEGADO NA ORIGEM COM FUNDAMENTO NO REGIME DOS RECURSOS REPETITIVOS (CPC/2015, ART. 1.030, I, "b"). COMPETENTE AGRAVO INTERNO INTERPOSTO NA ORIGEM (CPC/2015, ART. 1.030, § 2º). DENEGAÇÃO. AUSÊNCIA DE PREVISÃO DE RECURSO DESSA DECISÃO. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com a nova ordem processual civil, contra a decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, I, do CPC/1973 (art. 1.040, I, do CPC/2015), não cabe agravo ou qualquer outro recurso para o eg. STJ. Tal entendimento, todavia, não significa concluir pela irrecorribilidade de tal decisão, pois, da decisão que nega seguimento a recurso especial interposto contra acórdão julgado em conformidade com entendimento firmado em julgamento processado pelo regime de recursos repetitivos, o recurso cabível é o agravo interno, para o próprio Tribunal, na forma do art. 1.030, § 2º, do CPC/2015. Entretanto, contra essa segunda decisão, proferida pelo Tribunal de origem em agravo interno, não há mais recurso.
+2. É inviável o agravo interno que deixa de infirmar especificamente todos os fundamentos da decisão agravada, nos termos do art. 1.021, § 1º, do CPC/2015.
+3. Agravo interno desprovido.
+(AgInt na Pet n. 11.755/PE, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 27/2/2018, DJe 2/3/2018 - grifo nosso).
+De outra parte, quanto ao tópico em que o recurso especial foi inadmitido, afigura-se adequada a interposição de agravo dirigido a esta Corte (art. 1.030, § 1º, c/c o art. 1.042, ambos do CPC), sendo o reclamo, no entanto, manifestamente improcedente.
+Colhe-se dos autos que o  agravante  foi  acusado pela tentativa de subtrair, para si, mediante escalada, uma bateria automotiva, marca Tudor, avaliada em R$ 300,00 (trezentos reais), pertencente à vítima José Nilson Soares (fl. 296).
+A insurgência almeja a fixação de pena de multa ou a redução da reprimenda no patamar de 1 a 2/3, por força do reconhecimento da figura privilegiada prevista no art. 155, § 2º, do CP.
+No caso, embora tenha reconhecido a figura privilegiada, o Juízo adotou a medida menos benéfica ao agravante, a saber: substituição da pena de reclusão por detenção.
+Ao manter a sentença, o Tribunal a quo consignou o seguinte (fls. 298/299 - grifo nosso):
+ ..
+O reconhecimento do privilégio, de outro lado, já beneficiou ADIVAN, portador de maus antecedentes (condenações anteriores por roubo e furto páginas 31/39). Ademais, o privilégio tem por escopo beneficiar o infrator de menor periculosidade. E, no caso, essa menor periculosidade não se revela, pela presença de qualificadora elencada no artigo 155, § 4º, do Código Penal. O privilégio valora o resultado de menor potencialidade ofensiva e não pode ser aplicado quando a ação denotar maior ousadia ou a preparação mais pensada do delito, como ocorre nas hipóteses previstas na lei e perfeitamente aferidas no caso concreto. Questão, todavia, superada.
+ ..
+Tal o contexto, não diviso ilegalidade.
+Ora, diante do silêncio do legislador quanto à escolha das soluções legais cabíveis no reconhecimento do furto privilegiado, a Jurisprudência desta Corte Superior tem se posicionado no sentido de que, reconhecida a figura do furto privilegiado, cabe ao julgador, obedecendo ao livre convencimento motivado, escolher entre as opções legais apresentadas no § 2º do art. 155 do Código Penal, devendo fundamentar sua decisão nas circunstâncias do caso concreto e particularidades do agente, a fim de obter a solução mais adequada e suficiente como resposta penal à conduta praticada (AgRg no AREsp n. 2.411.272/SC, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/8/2024, DJe 2/9/2024 - grifo nosso).
+E, no caso, o fato de o agravante ostentar maus antecedentes e de ter perpetrado o crime mediante escalada são elementos aptos a justificar a escolha pela opção menos benéfica a ele.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE FURTO QUALIFICADO PRIVILEGIADO. VIOLAÇÃO DO ART. 59 DO CP. SUPOSTA ILEGALIDADE NA VALORAÇÃO NEGATIVA DOS ANTECEDENTES. NEGATIVA DE SEGUIMENTO NA ORIGEM. INTERPOSIÇÃO DE AGRAVO INTERNO. RECURSO DESPROVIDO. PRECLUSÃO. VIOLAÇÃO DO ART. 155, § 2º, DO CP. IMPROCEDÊNCIA. PRECEDENTES DESTA CORTE.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, desprovido o recurso.
