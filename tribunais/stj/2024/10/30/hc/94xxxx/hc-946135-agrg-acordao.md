@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. EXCESSO DE PRAZO E GRAVIDADE CONCRETA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, pleiteando a revogação da prisão preventiva sob alegação de excesso de prazo na instrução criminal e insubsistência dos argumentos de fundamentação da medida extrema. O agravante foi preso em flagrante por tráfico de drogas e posse ilegal de arma de fogo, com prisão convertida em preventiva. A defesa alega que o agravante é primário, possui atividade lícita e que a instrução não se encerrou devido a diligências pendentes.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar a existência de excesso de prazo na instrução criminal que justifique a revogação da prisão preventiva e a ausência dos requisitos autorizadores da segregação cautelar.
+III. Razões de decidir
+3. A prisão preventiva está fundamentada na garantia da ordem pública, dada a gravidade concreta do delito e a quantidade de drogas apreendidas.
+4. O excesso de prazo não se configura, pois o processo segue em tramitação regular, compatível com a complexidade do caso.
+5. A análise do excesso de prazo deve considerar os princípios da razoabilidade e proporcionalidade, não se verificando desídia do juízo de origem.
+6. Condições pessoais favoráveis do agravante não impedem a manutenção da prisão preventiva.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: 1. A prisão preventiva pode ser mantida com base na gravidade concreta do delito e na quantidade de drogas apreendidas. 2. O excesso de prazo na instrução criminal deve ser analisado à luz dos princípios da razoabilidade e proporcionalidade.
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 319; Lei 11.343/2006, art. 33, caput; Lei 11.343/2006, art. 40, V; Lei 10.826/2003, art. 14, caput; CP, art. 69.
+Jurisprudência relevante citada: HC 526.418/SP, Min. Joel Ilan Paciornik, Quinta Turma, julgado em 01/10/2019; HC 393.308/SP, Min. Joel Ilan Paciornik, Quinta Turma, julgado em 20/3/2018; HC 425.704/SP, Min. Sebastião Reis Júnior, Sexta Turma, julgado em 27/2/2018.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CHARLES DIAS MORAIS, de decisão na qual não conheci do habeas corpus.
+Pleiteia o agravante a revogação da prisão preventiva, ao argumento de que a decisão considerou a quantidade de drogas mas desconsiderou as circunstâncias favoráveis do paciente tecnicamente primário, exerce atividade lícita e o possível cometimento de crime que não envolve violência ou grave ameaça.
+Destaca que "o paciente se encontra preso desde março de 202417 e, na prática, a instrução do feito ainda não se encerrou em razão do juízo de piso não ter analisado pedido da defesa em localização do proprietário de uma arma de fogo que foi aprendido, como pode ser visto na inicial e seus documentos, insucesso esse para o qual ele não contribuiu. Nobre Relator o excesso está presente. No entanto, diante da natureza do crime imputado ao paciente (trafico de drogas), a defesa entende conveniente a imposição de cautelares outras. Como bem colocado na inicial" (e-STJ, fl. 118).
+Reitera que "o agravante responde apenas ao processo no se busca sua liberdade por excesso de prazo, não tendo outro em sua ficha corrida, como pode ser visto nos autos, na qual se deve levar em consideração" (e-STJ, fl. 119).
+Pleiteia a reconsideração da decisão ou o julgamento pelo órgão colegiado.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. EXCESSO DE PRAZO E GRAVIDADE CONCRETA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, pleiteando a revogação da prisão preventiva sob alegação de excesso de prazo na instrução criminal e insubsistência dos argumentos de fundamentação da medida extrema. O agravante foi preso em flagrante por tráfico de drogas e posse ilegal de arma de fogo, com prisão convertida em preventiva. A defesa alega que o agravante é primário, possui atividade lícita e que a instrução não se encerrou devido a diligências pendentes.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar a existência de excesso de prazo na instrução criminal que justifique a revogação da prisão preventiva e a ausência dos requisitos autorizadores da segregação cautelar.
+III. Razões de decidir
+3. A prisão preventiva está fundamentada na garantia da ordem pública, dada a gravidade concreta do delito e a quantidade de drogas apreendidas.
+4. O excesso de prazo não se configura, pois o processo segue em tramitação regular, compatível com a complexidade do caso.
+5. A análise do excesso de prazo deve considerar os princípios da razoabilidade e proporcionalidade, não se verificando desídia do juízo de origem.
+6. Condições pessoais favoráveis do agravante não impedem a manutenção da prisão preventiva.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: 1. A prisão preventiva pode ser mantida com base na gravidade concreta do delito e na quantidade de drogas apreendidas. 2. O excesso de prazo na instrução criminal deve ser analisado à luz dos princípios da razoabilidade e proporcionalidade.
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 319; Lei 11.343/2006, art. 33, caput; Lei 11.343/2006, art. 40, V; Lei 10.826/2003, art. 14, caput; CP, art. 69.
+Jurisprudência relevante citada: HC 526.418/SP, Min. Joel Ilan Paciornik, Quinta Turma, julgado em 01/10/2019; HC 393.308/SP, Min. Joel Ilan Paciornik, Quinta Turma, julgado em 20/3/2018; HC 425.704/SP, Min. Sebastião Reis Júnior, Sexta Turma, julgado em 27/2/2018.
+VOTO
+Apesar das considerações da parte agravante, razão não lhe assiste.
+Consta no acórdão impugnado:
+" ..
+Ora, como se observa da decisão acima colacionada, a conversão da prisão em flagrante em preventiva restou devidamente fundamentada, com demonstração da materialidade e indícios de autoria. Houve exposição da gravidade concreta dos delitos que estão sendo apurados, sem se afastar da enorme quantidade de entorpecente apreendida (17.690 gramas de cocaína acondicionados em 18 tijolos e 162.737 gramas de maconha, acondicionados em 164 porções), além da posse de uma arma de fogo, de sorte que não se vislumbra, nesta sede de cognição sumária, a ilegalidade manifesta do ato atacado.
+O alegado excesso de prazo não ocorre.
+O paciente e o corréu Paulo Henrique Ferreira foram presos em flagrante no dia 25 de março de 2024 e tiveram a prisão convertida em preventiva, conforme r. decisão proferida pelo Juízo do Plantão (fls. 49/53 autos de origem).
+O paciente e o corréu foram denunciados como incursos nas penas do artigo 33, caput, c.c. o artigo 40, inciso V, ambos da Lei 11.343/06, e artigo 14, caput, da Lei 10.826/03, na forma do artigo 69, do Código Penal.
+Por tratar-se de processo com réus presos, visando maior celeridade, o MM Juízo a quo designou audiência de instrução, debates e julgamento para o dia 19 de junho de 2024. Na mesma oportunidade, foi determinada a expedição de mandados de notificação para o paciente e o corréu (fls. 102/105).
+Na audiência de instrução e julgamento fora determinada a expedição de ofício ao delegado de polícia plantonista e ao SINARM para perquirir a propriedade da arma. Ofícios juntados a fl. 243 e fls. 262/263 autos de origem.
+Em 24 de julho de 2024 o pedido de revogação da prisão preventiva formulado pelas Defesas de Paulo Henrique (fls. 275/289) e Charles (fls. 296/300) restou indeferido (fls. 309/312).
+Deferida em parte a liminar no agravo de instrumento somente para suspender o pagamento das despesas e custas processuais até o julgamento de eventual recurso (fl.
+318).
+Designada nova audiência de instrução e julgamento para o dia 29 de setembro de 2024.
+Do acima exposto, não merece prosperar o alegado excesso de prazo para o fim da instrução criminal, que é plenamente justificado, pois é entendimento pacificado em nossos Tribunais que o prazo para o término da instrução criminal é regido pelo "Princípio da Razoabilidade".
+Na questão sub judice examina-se que o caso é complexo, observando-se que o andamento processual está de acordo com a complexidade do caso e a atual jurisprudência abandonou o prazo de 81 dias como configurador de excesso de prazo e caracterizador de constrangimento ilegal, não tendo mais aceitação a mera contagem aritmética do prazo ou sua somatória pura e simplesmente.
+O critério atual é a verificação da tramitação processual e o seu cotejamento com o princípio da razoabilidade. Dessa forma, o prazo para encerramento da instrução deve obedecer, como já cediço, à razoabilidade das circunstâncias do processo para análise do eventual constrangimento e, na hipótese, as questões destacadas bem justificam a inexistência de constrangimento ilegal.
+O fato de o agente ser primário, não ostentar maus antecedentes e ter residência fixa não o levam a conseguir um alvará permanente de impunidade, livrando-se da prisão cautelar, visto que esta tem outros fundamentos.
+No mais, conforme se constata das decisões de fls. 222/227 e 309/312, autos de origem, houve a devida reanálise da necessidade da manutenção da prisão preventiva, assim expostas: "(..) Nenhum fato novo foi trazido e demonstrado nos autos que pudesse ensejar a reconsideração da decisão proferida em audiência de custódia. Da mesma forma, eventual alegação de excesso de prazo não se sustenta, notadamente quanto a audiência de instrução e julgamento foi designada para a data mais próxima disponível na pauta de réu presos desta Vara. Em cognição somente sobre a manutenção, modificação ou revogação da prisão preventiva, evitando ingerência no mérito e dentro da leitura possível a este juízo até o presente momento, verifico presentes os pressupostos da prisão cautelar, com prova da materialidade de crime grave e indícios suficientes de autoria criminosa dos dois denunciados. (..) A instrução somente não se encerrou porque as defesas constituídas fizeram pedido de diligências (fls. 234/235), de modo que não tem cabimento a alegação de excesso de prazo por elas mesmas causado. Não houve desídia pelo Ministério Público ou pelo juízo. Bem ao contrário, tem-se observado os prazos processuais com rigor e o processo vem merecendo toda a atenção devi da pelo juízo. Ao lado disso, as acusações que pesam sobre os réus são muito graves.
+Em caminhão, estariam transportando juntos, de um Estado para outro da federação, grande quantidade de drogas diversificadas e arma de fogo. (..)".
+Por fim, são incabíveis as medidas cautelares alternativas à prisão instituídas pela Lei nº 12.403/11, absolutamente inadequadas à gravidade do crime e às circunstâncias do fato praticado (art. 282, inciso II, Código de Processo Penal).
+Assim, inexistente constrangimento ilegal, a ordem deve ser denegada.
+Ante o exposto, denega-se a ordem de habeas corpus" (e-STJ, fls. 30-33, grifou-se).
+Segundo orientação dos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz dos princípios da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado.
+Na hipótese, não há falar, por ora, em manifesto constrangimento ilegal decorrente de excesso de prazo na formação da culpa, haja vista inexistir desídia do Juízo de origem na condução do feito estando o processo em sua regular tramitação, inclusive com designação de nova audiência de instrução e julgamento para o dia 29 de setembro de 2024.
+No mesmo sentido, os seguintes precedentes:
+" ..  6. Não se verifica excesso de prazo na formação da culpa quando o processo segue regular tramitação, sendo que o maior prazo para o julgamento decorre da complexidade do feito, em que se apura a imputação a 3 réus da prática de tráfico e associação para o tráfico, em que foi necessária expedição de cartas precatórias para a oitiva de testemunhas para continuação da audiência de instrução e julgamento realizada em 12/11/2018. E, ainda, conforme verifica-se no sítio eletrônico do Tribunal de origem, a audiência ainda não foi realizada por ausência das testemunhas, sendo designada para 10/10/2019. Não há, pois, falar em desídia do Magistrado condutor, o qual tem diligenciado no sentido de dar andamento ao processo, não podendo ser imputado ao Judiciário a responsabilidade pela demora.
+7. Habeas corpus não conhecido." (HC 526.418/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/10/2019, DJe 08/10/2019)
+Seguindo, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, segundo se infere, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois foi apreendido expressiva quantidade de entorpecente - (17,69 quilos de cocaína e 162,74 quilos de maconha, além da posse de uma arma de fogo.
+Esta Corte, inclusive, possui ente ndimento reiterado de que a quantidade e a natureza dos entorpecentes encontrados, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..  2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..  Habeas corpus não conhecido." (HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favoráveis ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada." (HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Consigne-se, ainda, ser inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura da paciente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017).
+Além disso, o fato de o agravante possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte: RHC 95.544/PA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/3/2018, DJe 2/4/2018; e RHC 68.971/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/9/2017, DJe 9/10/2017.
+Ademais, o argumento de desproporcionalidade da custódia cautelar à provável futura pena não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual. Nessa linha: RHC 94.204/MG, Rel.
+Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/4/2018, Dje 16/4/2018; e RHC 91.635/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/3/2018, DJe 5/4/2018.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
