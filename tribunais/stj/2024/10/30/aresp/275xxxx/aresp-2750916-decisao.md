@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por G2 IMOVEIS LTDA, em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado nas alíneas "a" e "c", do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 47, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE NULIDADE C/C OBRIGAÇÃO DE FAZER E PEDIDO DE TUTELA PROVISÓRIA. CLÁUSULA CONTRATUAL QUE PREVÊ A COBRANÇA DE TAXA DE ANUÊNCIA EM FAVOR DA COMPANHIA DE DESENVOLVIMENTO DE CURITIBA, PARA O CASO TRANSFERÊNCIA DOS IMÓVEIS. NEGÓCIO JURÍDICO QUE A PRINCÍPIO NÃO SE CONFUNDE COM O LAUDÊMIO, DIANTE DA EFETIVA TRANSFERÊNCIA DA PROPRIEDADE DO BEM. AUSÊNCIA DE VÍCIO DE CONSENTIMENTO. CLÁUSULAS CONTRATUAIS LIVREMENTE PACTUADAS. INEXISTÊNCIA DE PROBABILIDADE DO DIREITO E PERIGO DE DANO OU RISCO AO RESULTADO ÚTIL DO PROCESSO. PERIGO DE IRREVERSIBILIDADE DOS EFEITOS DA DECISÃO. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 300 DO CPC. DECISÃO AGRAVADA MANTIDA. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos declaratórios opostos foram rejeitados (fls. 91-100, e-STJ).
+Nas razões do recurso especial (fls. 104-116, e-STJ), a parte insurgente apontou, além de dissídio jurisprudencial, violação aos seguintes artigos: a) 1022, I, do CPC, aduzindo a presença de obscuridade do julgado, no que tange aos fundamentos apresentados para indicar a ausência de risco ou prejuízo aos recorridos; b) 284 e 300 do CPC, afirmando que restam configurados os requisitos necessários à concessão da tutela de urgência requerida.
+Contrarrazões às fls. 124-133, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 134-138, e-STJ), dando ensejo na interposição do presente agravo (fls. 141-150, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls.154-159, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, a parte insurgente alega violação ao artigo 1022, I, do CPC, aduzindo a presença de obscuridade do julgado, no que tange aos fundamentos apresentados para indicar a ausência de risco ou prejuízo aos recorridos.
+Sustenta, em síntese, que "a obscuridade apontada reside no fato de que a decisão entendeu não haver risco ou prejuízo aos envolvidos na demora do curso regular do processo, visto que a recorrente, ao adquirir o bem, tinha conhecimento das condições impostas pela recorrida para exercício da propriedade na área. Ocorre que a justificativa apresentada, sobre não estarem presentes os requisitos para o deferimento da tutela de urgência, não faz jus à realidade, portanto há clara obscuridade, uma vez que tais requisitos foram devidamente apresentados" (fl. 108, e-STJ).
+Consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Salienta-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que, em sua decisão, discorra sobre todas as questões fundamentais para a correta solução da controvérsia.
+No caso em tela, verifica-se que o Tribunal de origem, de modo expresso e fundamentado, consignou não estarem presentes os requisitos para a tutela pretendida, conforme trecho do aresto, abaixo transcrito (fl. 53, e-STJ):
+Dito isso, verifica-se que a decisão impugnada não possui nenhuma ilegalidade, irregularidade, teratologia ou error in judicando que justifique a sua alteração em juízo sumário de cognição, visto que não se vislumbra a probabilidade do direito nem o perigo de dano ou de risco ao resultado útil do processo.
+Além disso, deve ser destacado que não houve nenhuma mudança fática, jurídica, processual ou contraprova que possa alterar os fundamentos utilizados para o indeferimento do pedido de antecipação da tutela recursal, de modo que deve ser mantida pelos próprios fundamentos.
+Nota-se, portanto, que as alegações vertidas pela insurgente não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação ao acolhimento da tese jurídica defendida pela parte adversa.
+Assim, não há se falar em violação ao artigo 1022, I, do CPC/2015, uma vez que a Corte local, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE ACORDO JUDICIAL INADIMPLIDO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 20, §§ 3º E 4º, DO CPC/1973. CRITÉRIO DE EQUIDADE. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+2. Em seguida, alega vulneração aos artigos 284 e 300 do CPC, afirmando que restam configurados os requisitos necessários à concessão da tutela de urgência requerida.
+A pretensão veiculada no recurso especial encontra óbice na Súmula 735 do STF, aplicada por analogia: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Com efeito, entende esta Corte ser descabido, via de regra, o recurso especial que pretende o reexame do deferimento ou indeferimento de medidas acautelatórias ou antecipatórias, proferidas em sede liminar.
+Trata-se, na espécie, de provimentos judiciais de natureza precária, cuja reversão, a qualquer tempo, é possível, e que demandam posterior ratificação por decisão de cunho definitivo, proferida após cognição exauriente dos elementos de prova. Não constituem, portanto, causas decididas em última ou única instância por Tribunais Estaduais ou Regionais Federais, nos termos do art. 105, III, da Constituição da República, razão pela qual não são sindicáveis por recurso especial.
+Sobre o tema, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. TUTELA PROVISÓRIA DE URGÊNCIA CAUTELAR EM CARÁTER ANTECEDENTE. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. RECURSO INTERPOSTO CONTRA DECISÃO LIMINAR/ANTECIPATÓRIA DE TUTELA. SÚMULA Nº 735 DO STF. PRECEDENTES. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA Nº 282 DO STF. AGRAVO INTERNO NÃO PROVIDO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Esta Corte, em sintonia com o disposto na Súmula nº 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela. Precedentes.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.995.369/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/5/2022, DJe de 19/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONTRATOS BANCÁRIOS. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DECISÃO QUE DEFERIU PARCIALMENTE TUTELA DE URGÊNCIA REQUERIDA. ÍNDOLE ABUSIVA DOS ENCARGOS SOMENTE EM RELAÇÃO A UM DOS CONTRATOS. REQUISITOS DA LIMINAR. ÓBICE DA SÚMULA 735/STF. NECESSIDADE DE REEXAME DO ACERVO FÁTICOPROBATÓRIO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+ ..
+2. "A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF" (AgInt no AREsp 1.427.544/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/10/2019, DJe de 07/11/2019).
+3. No caso, o Tribunal de Justiça concluiu que somente foram comprovados os requisitos para a concessão da tutela de urgência em relação a um dos contratos apresentados, devendo ser mantido o indeferimento quanto aos demais. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória, inviável em sede de recurso especial.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.717.659/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ANTECIPAÇÃO DE TUTELA. REVISÃO NO STJ. IMPOSSIBILIDADE. SÚMULA 735 DO STF. SÚMULA 7 DO STJ. NÃO PROVIMENTO.
+(..)
+2. O STJ, em sintonia com o disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Precedentes.
+3. Ainda que cabível, em tese, o recurso especial, seria imprescindível o reexame do contexto fático e probatório dos autos para a verificação dos pressupostos ensejadores da tutela antecipada, providência inviável nesta instância em face da Súmula 7 do STJ, conforme a jurisprudência pacífica desta Corte.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 886.909/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2016, DJe 28/11/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TUTELA ANTECIPADA. PRAZO PARA CUMPRIMENTO. IMPOSSIBILIDADE DE REVISÃO DA QUESTÃO EM SEDE DE RECURSO ESPECIAL. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA .SÚMULA 7/STJ.
+1. "Esta Corte, em sintonia com o disposto na Súmula nº 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere, indefere ou mantém liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa" (AgRg no AREsp 464.505/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/03/2014, DJe 08/04/2014).
+2. Inviável a análise do recurso especial se a matéria nele contida depende de reexame reflexo de questões fáticas da lide, ante o teor da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 979.512/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+Inafastável a incidência do óbice da Súmula 735 do STF.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
