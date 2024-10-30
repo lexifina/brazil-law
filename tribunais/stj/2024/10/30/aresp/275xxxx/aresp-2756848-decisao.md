@@ -1,0 +1,24 @@
+DECISÃO
+JOSÉ MARIA RODRIGUES e SAULO RENER BATISTA agravam de decisão que não admitiu seu recurso especial, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás (Apelação Criminal n. 5683351-66.2023.8.09.0011).
+Consta dos autos que os recorrentes foram condenados a 5 anos e 10 meses de reclusão, em regime semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, c/c art. 40, V, ambos da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa pede a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se não conhecimento do agravo e, caso admitido, pelo não seguimento do recurso especial.
+Decido.
+O Tribunal de origem manteve a negativa de incidência da causa de diminuição do tráfico, conforme abaixo (fl. 527, grifei):
+No caso sub examine, em que pese a primariedade dos sentenciados, a expressiva quantidade de droga (maconha) apreendida impede a incidência da causa especial de diminuição de pena prevista no art. 33, §4º, da Lei de Drogas, porquanto as condições fáticas, notadamente a forma como se deu o transporte do entorpecente, acondicionado em 26 (vinte e seis) tabletes e escondido num carro previamente alugado para evitar a sua perda, aliada à transposição de divisas indicam, estreme de dúvidas, que os apelantes integram, de algum modo, organização criminosa.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, as instâncias de origem - dentro do seu livre convencimento motivado - apontaram elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas. Para tanto, indicou a quantidade da droga apreendida (24,455 kg de maconha), a ser transportada entre Estados da Federação, a forma de acondicionamento (26 tabletes) e de ocultação em carro previamente alugado para evitar a sua perda.
+Vale ressaltar que, de acordo com a jurisprudência deste Superior Tribunal, "Podem ser considerados como outros elementos para afastar a minorante o modus operandi, a apreensão de apetrechos relacionados à traficância, por exemplo, balança de precisão, embalagens, armas e munições -especialmente quando o tráfico foi praticado no contexto de delito de armas ou quando, de modo fundamentado, ficar evidenciado o envolvimento do agente com organização criminosa" (AgRg no HC n. 749.116/RJ, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 28/10/2022, destaquei).
+No mesmo sentido:
+ ..
+3. Tendo a minorante do tráfico privilegiado sido afastada, com base não somente na quantidade de entorpecente apreendido, mas em elementos concretos adicionais, evidenciados no alto valor do carregamento e no modo como as drogas estavam acondicionadas no veículo, não há manifesta ilegalidade.
+4. A existência de circunstância judicial desfavorável justifica a fixação do regime inicial imediatamente mais gravoso, o fechado, nos termos do art. 33, §§ 2º e 3º, do CP.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 813.544/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+Assim, não há como se olvidar que, para entender de modo diverso, afastando-se a conclusão de que os recorrentes se dedicariam a atividades criminosas e/ou não integrariam organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência inviável em recurso especial, a teor da Súmula n. 7 do STJ.
+Portanto, fica afastada a apontada violação legal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+À vista do exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
