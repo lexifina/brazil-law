@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VALNEI SANTOS DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, no julgamento da Apelação Criminal n. 0033368-73.2017.8.19.0042.
+Consta dos autos que, em 14/9/2020, o paciente foi condenado, pelo crime de roubo circunstanciado, à pena de 9 anos, 8 meses e 20 dias de reclusão, mais o pagamento de 38 dias-multa, e à pena de 2 anos e 4 meses de reclusão pelo crime de quadrilha, sendo-lhe concedido o direiro de recorrer em liberdade (e-STJ fls. 43/57).
+Irresignados, o paciente, o corréu Alex Sandro Alexandre dos Santos e o Ministério Público recorreram da sentença.
+Em sessão de julgamento realizada no dia 12/12/2023, a 2ª Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro, por unanimidade de votos, deu provimento ao recurso do Ministério Público e parcial provimento aos recursos defensivos, fixando as penas do do paciente em 31 (trinta e um) anos, 5 (cinco) meses e 2 (dois) dias de reclusão, em regime inicialmente fechado, e 350 (trezentos e cinquenta) dias-multa, à razão unitária mínima legal, e do corréu em 15 (quinze) anos e 02 (dois) meses de reclusão, em regime inicialmente fechado, e 155 (cento e cinquenta e cinco) dias-multa, à razão unitária mínima legal, mantidos os demais termos da sentença de primeiro grau (e-STJ fls. 13/33).
+No presente habeas corpus substitutivo de recurso próprio, a defesa inova a tese de nulidade do feito criminal, em razão da inobservância ao procedimento previsto no art. 226 do Código de Processo Penal nos reconhecimentos fotográficos feitos pelas vítimas, que não foram corroborados por outros elementos probatórios, motivo pelo qual o paciente deve ser absolvido das acusações que lhe recaem.
+Ao final, pugna (e-STJ fl. 12):
+a) Liminarmente, CONCEDA-SE a ordem de habeas corpus, reconhecendo- se a ilegalidade do acórdão prolatado pelo TJRJ, para o fim de suspender os efeitos da condenação do paciente Valnei, até o julgamento final do writ;
+b) Seja dispensada a requisição de informações à autoridade coatora, por- quanto todo o feito na primeira e segunda instância é eletrônico;
+c) Promova-se a oitiva do membro do Ministério Público;
+d) Ao final, concedida ou não a liminar, seja reconhecida a ilegalidade do acórdão impugnado para o fim de
+d.1) Absolver o paciente Valnei, por ausência de provas suficientes e válidas para a condenação (CPP, art. 386, VII), uma vez que o reconhecimento fo- tográfico não confirmado em Juízo e não corroborado por outras provas produzidas sob o contraditório e da ampla defesa não permite a condena- ção do paciente;
+Subsidiariamente, caso não seja conhecido o habeas corpus, seja a ordem concedida de ofício, diante da manifesta ilegalidade (CRFB/88, art. 5º, LXVIII; CPP, art. 654, parágrafo 2º).
+É o relatório. Decido.
+De plano, destaco que o presente habeas corpus não merece prosseguimento.
+Como é de conhecimento, o art. 210 do Regimento Interno do STJ dispõe que: quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+In casu, verifico que o tema ora arguido (nulidade do feito em razão da inobservância ao procedimento do artigo 226 do CPP) não foi submetido e, por consequência, não foi efetivamente debatido pela Corte local, visto que não constou das razões recursais do paciente e do corréu, oportunidade na qual "as defesas técnicas requerem a absolvição dos apelantes por alegada insuficiência probatória" (e-STJ fl. 20), tampouco do Parquet.
+Com efeito, se o tema não foi efetivamente debatido pelo Tribunal de origem, esta Corte Superior fica impedida de se antecipar à matéria, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+Nesse sentido: Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância (RHC n. 68.025/MG, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 17/5/2016, DJe de 25/5/2016).
+Inclusive, ressalta-se que: Matéria não apreciada pelo Tribunal de origem, inviabiliza a análise por esta Corte sob pena de indevida supressão de instância, mesmo em caso de suposta nulidade absoluta (AgRg nos EDcl no HC n. 692.704/SC, Relator Ministro JESUÍNO RISSATO (Desembargador convocado do TJDFT), Quinta Turma, julgado em 9/11/2021, DJe de 17/11/2021).
+Em situações semelhantes à hipótese dos autos, destaco os recentes precedentes do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ROUBO MAJORADO. CORRUPÇÃO DE MENOR. ORGANIZAÇÃO CRIMINOSA.ILEGALIDADE DO RECONHECIMENTO FOTOGRÁFICO DO ACUSADO. SUPRESSÃO DE INSTÂNCIA. POSSÍVEL OMISSÃO NÃO SUSCITADA NA ORIGEM. AUSÊNCIA DE MANIFESTA ILEGALIDADE A SER SANADA DE OFÍCIO. ANÁLISE SOBRE OS INDÍCIOS SUFICIENTES DE AUTORIA. VIA INADEQUADA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO CRIME. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO INCABÍVEL, NA ESPÉCIE. AGRAVO DESPROVIDO.
+1. A alegação específica de que o reconhecimento fotográfico do Agravante foi realizado em afronta ao disposto no art. 226 do Código de Processo Penal e às diretrizes traçadas no julgamento do HC n. 598.886/SC não foi debatida pelo Tribunal local no acórdão impugnado, o que impede a análise originária da matéria por esta Corte Superior, sob pena de indevida supressão de instância.
+Ressalta-se que, a despeito de ter a Defesa alegado a aludida questão na impetração originária, não comprovou ter impugnado a possível omissão oportunamente, deixando de instruir o presente writ com as peças que demonstrem que esgotou a questão na origem. Precedentes.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 656.780/CE, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022) - Negritei.
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME MILITAR. ATENTADO VIOLENTO AO PUDOR.RECONHECIMENTO FOTOGRÁFICO REALIZADO EM DESACORDO COM A LEI. MATÉRIA NÃO ENFRENTADO NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.PROVAS INDEPENDENTES. CONDENAÇÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A alegação de que o reconhecimento fotográfico foi realizado em desacordo com a lei não pode ser analisada por essa Corte Superior, nesta oportunidade, sob pena de indevida supressão de instância e desprestígio às instâncias ordinárias, uma vez que não foi debatida pelo Tribunal de origem, tal como alegada pela defesa.
+ ..
+3. Agravo regimental improvido.
+(AgRg no HC n. 701.972/SP, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 22/2/2022, DJe de 25/2/2022) - Negritei.
+Ademais, ainda que a matéria tenha sido efetivamente trazida pela defesa em suas razões recursais, consta dos autos que não houve a oposição de embargos de declaração contra o acórd ão ora impugnado, a fim de sanar eventual omissão da Corte local, motivo pelo qual, repita-se, esta Corte Superior encontra-se impossibilitada de examinar diretamente a matéria.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+EMENTA
