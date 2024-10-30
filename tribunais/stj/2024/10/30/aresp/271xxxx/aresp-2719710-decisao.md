@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ASTELLAS PHARMA INC. contra a decisão que obstou a subida do seu recurso especial.
+Extrai-se dos autos que o recurso especial foi interposto, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no curso da ação inibitória e indenizatória que moveu contra APSEN FARMACÊUTICA S.A.
+O julgado manteve a decisão do Juízo de primeiro grau que suspendeu a tramitação do processo, com fundamento no art. 313, V, "a", do Código de Processo Cí vel (CPC), por prejudicialidade externa, até o julgamento das ações declaratórias de nulidade de patente nos termos sintetizados na seguinte ementa (fl. 84):
+EMENTA Patente de invenção - Ação inibitória e indenizatória Prejudicialidade externa reconhecida na origem - Determinação de suspensão do processo Questão preliminar rejeitada, adotada a "taxatividade mitigada" estabelecida em julgado proferido sob o rito dos repetitivos pelo STJ Pendência de ações declaratórias ajuizadas por ambas as partes na Justiça Federal e atinentes à validade da patente enfocada Existência, ademais, de outra ação inibitória e indenizatória conexa à demanda originária do presente recurso Conveniência e razoabilidade da suspensão do feito, observadas as circunstâncias fáticas presentes Ajuizamento concomitante de ações com sobreposição dos objetos Enquadramento no art. 313, V, "a" do CPC/2015 - Jurisprudência do STJ Decisão mantida - Recurso conhecido e desprovido.
+Opostos sucessivos embargos de declaração pela recorrente, foram rejeitados (fls. 147-149).
+Em suas razões, a recorrente alega violação dos arts. 313, V, "a", e 1.022 do CPC, além de apontar dissídio jurisprudencial, defendendo o curso regular do processo, pois a mera existência de ação de nulidade perante a Justiça Federal não obsta o prosseguimento da ação de infração na Justiça estadual.
+Contrarrazões apresentadas.
+Sobreveio juízo de admissibilidade negativo na origem, o que ensejou a interposição do presente agravo em recurso especial.
+Contraminuta apresentada.
+Em petição de fls. 285-295, a parte agravada comunica que o processo de origem foi sentenciado e extinto, sem análise do mérito, em 20/9/2024, requerendo o não conhecimento do agravo em razão da perda superveniente do seu objeto.
+A parte agravante, por sua vez, em petição de fls. 299-304, postula o julgamento do recurso, uma vez que a sentença terminativa não transitou em julgado.
+É, no essencial o relatório.
+O recurso especial não pode ser conhecido em razão da perda superveniente do interesse recursal.
+Conforme se extrai da petição de fls. 285-295, juntada aos autos pela agravada , em 20 de setembro de 2024, foi proferida sentença extinguindo a ação indenizatória e inibitória, com fundamento no art. 485, VI, do CPC, em razão da superveniente declaração de nulidade do registro de patente que fundamenta o pedido autoral.
+O reconhecimento da ausência de legitimidade e de interesse processual conduz ao esvaziamento do conteúdo do presente recurso especial, que buscava a reversão da decisão que determinara a suspensão do processo, ante a perda superveniente de objeto, tornando-o prejudicado.
+A orientação jurisprudencial desta Corte é no sentido de que a prolação de sentença de mérito, mediante cognição exauriente, enseja a superveniente perda de objeto do recurso interposto contra o acórdão que negou provimento ao agravo de instrumento.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELO NOBRE INTERPOSTO CONTRA ACÓRDÃO QUE DECIDE QUESTÃO INTERLOCUTÓRIA. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO NO FEITO PRINCIPAL. PERDA DE OBJETO DO RECURSO ESPECIAL. 1. A natureza exauriente da sentença proferida na ação principal põe fim às discussões travadas em agravo de instrumento interposto contra decisão interlocutória. 2. A questão relativa à competência foi tratada pelo Juízo de primeiro grau, circunstância que autorizou o agravante a devolvê-la ao exame do Tribunal de origem sob novo título, providência esta que, segundo as informações trazidas aos autos, de fato ocorreu. Logo, irretocável a decisão agravada que não conheceu do recurso especial diante da perda de objeto da insurgência. 3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.889.061/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 11/4/2022, DJe de 22/4/2022.)
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o agravo em razão da perda de objeto do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DECISÃO INTERLOCUTÓRIA. POSTERIOR JULGAMENTO DA AÇÃO. SENTENÇA. EFEITOS SOBRE O RECURSO ESPECIAL. PERDA SUPERVENIENTE DE OBJETO. PRECEDENTES. AGRAVO PREJUDICADO.
