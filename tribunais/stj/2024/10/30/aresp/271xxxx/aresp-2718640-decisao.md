@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo (art. 1042 do CPC/15), interposto por LEONARDO DE CARVALHO E SILVA, em face de decisão de inadmissibilidade de recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 91, e-STJ):
+AGRAVO DE INSTRUMENTO. ERRO MATERIAL. CORREÇÃO APÓS TRÂNSITO EM JULGADO. NÃO MODIFICAÇÃO DO CONTEÚDO DO PROVIMENTO JURISDICIONAL. POSSIBILIDADE. EMBARGOS DE TERCEIRO. VERBA SUCUMBENCIAL. RESPONSABILIDADE. ALTERAÇÃO. ERRO MATERIAL NÃO CARACTERIZADO. IMPOSSIBILIDADE DE ALTERAÇÃO. 1. A correção de erro material, nos moldes do art. 494, I, do CPC, mostra-se possível mesmo após o trânsito em julgado, desde que não implique em alteração do conteúdo do provimento jurisdicional. Precedentes do STJ. 2. No caso concreto, a questão não envolve mero erro material, uma vez que alcança a extensão da condenação imposta pela sentença, mormente em se tratando de embargos de terceiro, em que é plenamente possível a condenação da parte embargante ao pagamento dos ônus sucumbenciais, por força do princípio da causalidade, o que, inclusive, encontra amparo no Enunciado de Súmula nº 303 do STJ, o que não restou esclarecido pela sentença, não tendo havido qualquer insurgência recursal. 3. A modificação da sentença quanto a quem deve suportar o pagamento da verba sucumbencial não constitui mera correção de erro material, não sendo passível de modificação após o trânsito em julgado, sob pena de ofensa ao instituto da preclusão e à segurança jurídica. 4. Agravo de instrumento conhecido e provido.
+Opostos embargos de declaração, estes foram rejeitados (fls. 144-156, e-STJ).
+Nas razões do recurso especial (fls. 165-172, e-STJ), a parte insurgente aponta violação ao art. 494, I, do CPC/15, sustentando a possibilidade de correção de erro material no dispositivo de sentença, mesmo após o seu trânsito em julgado.
+Contrarrazões às fls. 210-217, e-STJ.
+Em juízo de admissibilidade (fls. 223-224, e-STJ), negou-se processamento ao recurso.
+Daí o agravo (fls. 228-238, e-STJ), em que a parte agravante impugna a decisão agravada.
+Contraminuta às fls. 250-251, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. In casu, a parte recorrente aponta ofensa ao art. 494, I, do CPC/15, e sustenta a possibilidade de correção de erro material no dispositivo de sentença, mesmo após o seu trânsito em julgado.
+No particular, O Tribunal local assim decidiu (fls. 95-99, e-STJ):
+"Assim, a controvérsia posta no presente agravo cinge-se em verificar a possibilidade de modificação da sentença após o trânsito em julgado, invertendo o ônus sucumbencial, a pretexto de corrigir erro material.
+(..)
+A correção de erro material, nos moldes do dispositivo legal mencionado, mostra-se possível mesmo após o trânsito em julgado, como se vê do entendimento do c. Superior Tribunal de Justiça:
+(..)
+Cumpre verificar, portanto, se a alteração promovida pelo Juízo a quo efetivamente se trata de mera correção de erro material ou se implica em alteração do conteúdo do provimento jurisdicional.
+(..)
+Observa-se, assim, que a sentença condenou o embargante, então representado pelo ora agravado, ao pagamento dos honorários sucumbenciais. Observa-se, de pronto, que a questão não envolve mero erro material, uma vez que alcança a extensão da condenação imposta pela sentença, mormente em se tratando de embargos de terceiro, em que é plenamente possível a condenação da parte embargante ao pagamento dos ônus sucumbenciais, por força do princípio da causalidade, o que, inclusive, encontra amparo no Enunciado de Súmula nº 303 do STJ:
+(..)
+Desse modo a questão deveria ser esclarecida ou definida pela via recursal adequada.
+Contudo, o ora agravado apresentou pedido de cumprimento de sentença, sem prévia insurgência em face da sentença por meio do recurso adequado.
+(..)
+Assim, a modificação da sentença quanto a quem deve suportar o pagamento da verba sucumbencial não constitui mera correção de erro material, não sendo passível de modificação após o trânsito em julgado, sob pena de ofensa ao instituto da preclusão e à segurança jurídica." (grifou-se)
+Como se vê, o Tribunal de origem concluiu que "a modificação da sentença quanto a quem deve suportar o pagamento da verba sucumbencial não constitui mera correção de erro material" no caso dos autos, não tendo a parte ora recorrente se insurgido quanto à questão por meio do recuso adequado.
+Com efeito, constata-se que o acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, o que atrai a incidência da Súmula 83 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO, NA ORIGEM. EXPURGOS INFLACIONÁRIOS. CONDENAÇÃO DA INSTITUIÇÃO FINANCEIRA. TRÂNSITO EM JULGADO. POUPANÇA COM VENCIMENTOS NA SEGUNDA QUINZENA. PRECLUSÃO. IMPOSSIBILIDADE DE REDISCUSSÃO. AGRAVO INTERNO IMPROVIDO. 1. " A  jurisprudência do STJ orienta-se pela possibilidade de retificação do erro material, a qualquer tempo, relativo à inexatidão perceptível à primeira vista - primo ictu oculi - e cuja correção não altera o conteúdo da decisão. Isso porque, a decisão eivada de erro material não representa a vontade do julgador, não podendo fazer coisa julgada" (AR 6.439/DF, Relatora Ministra NANCY ANDRIGHI, Segunda Seção, julgado em 28/9/2022, DJe de 11/10/2022). 2. Na espécie, não se está diante de erro material passível de correção em sede de cumprimento de sentença, pois, tratando-se de definir a extensão da condenação - a fim de se determinar se a indenização pelos expurgos deve incidir apenas sobre as poupanças com vencimento na 1ª quinzena, ou se também deve abarcar as com vencimento na 2ª quinzena -, era dever da instituição financeira ter interposto o recurso cabível em face do acórdão de apelação (ainda na fase de conhecimento). Como não o fez, vindo a suscitar o suposto vício apenas em sede de cumprimento de sentença, deve arcar com os termos da condenação, conforme interpretação do decisum realizada pelo Juízo na fase do cumprimento de sentença, em respeito à coisa julgada. 3. Agravo interno improvido. (AgInt no AREsp n. 915.123/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/11/2023, DJe de 23/11/2023.) (grifou-se)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. ERRO MATERIAL. INEXISTÊNCIA. 1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso. 2. Segundo a jurisprudência do STJ, o erro material passível de ser corrigido de ofício e retificável a qualquer tempo é aquele derivado de inexatidão perceptível à primeira vista - primo ictu oculi -, cuja correção não altera o conteúdo da decisão. Precedentes. 3. Embargos de declaração rejeitados. (EDcl nos EDcl no AgInt no AREsp n. 1.817.565/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.) (grifou-se)
+Inafastável, portanto, o teor da Súmula 83 do STJ.
+2. Do exposto, conhece-se do agravo para negar provimento ao recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intime-se.
+EMENTA
