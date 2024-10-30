@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Agravo interposto por RILTON QUEIROZ RANGEL JUNIOR, à decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, da Constituição Federal.
+É o relatório.
+Decido.
+Por meio da análise do recurso de RILTON QUEIROZ RANGEL JUNIOR, verifica-se que o Recurso Especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22.6.2020; e AgRg no AREsp 570.469/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 23.6.2020.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a alegar "que a respectiva guia de custas e o respectivo comprovante foram anexados pelo Recorrente desde o protocolo deste recurso, conforme faz prova print da tela em anexo" e ainda que não sabe "a razão de estes não terem sido anexados aos autos por ocasião destes à essa Corte Cidadã" (fl. 245).
+Registre-se que, ao contrário do alegado, o preparo não foi juntado quando da interposição do recurso especial, mas somente quando do protocolo do agravo em recurso especial, conforme se verifica às fls. 220/221.
+Dessa forma, o Recurso Especial não foi devida e oportunamente preparado. Incide, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Ainda, verifica-se que a parte recorrente foi intimada do acórdão recorrido em 10.02.2023, sendo o Recurso Especial interposto somente em 08.03.2023.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+É certo que o feriado nacional de 21.2.2023 não precisa ser comprovado. Porém, os dias 20 e 22.2.2023 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso, nos termos do art. 1.003, § 6º, do CPC (redação anterior à Lei n. 14.939/2024).
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+Ressalte-se que em observância ao princípio do tempus regit actum, o entendimento da Lei n. 14.939/2024 só será aplicado quando a data de intimação do decisum recorrido tenha ocorrido a partir do dia 31.7.2024 (Mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+Ademais, não há que se falar na aplicação do art. 932, parágrafo único, do CPC, porquanto somente é utilizado para os vícios sanáveis, e à época, o vício ainda era considerado insanável, sendo vedada a comprovação posterior da tempestividade.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se.
+Intimem-se.
+ EMENTA
