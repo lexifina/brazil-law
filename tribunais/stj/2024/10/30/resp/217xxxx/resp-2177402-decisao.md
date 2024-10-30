@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por NUTRIMILHO INDÚSTRIA E COMÉRCIO DE ALIMENTOS LTDA (NUTRIMILHO), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL POR INADIMPLEMENTO C/C INDENIZAÇÃO POR PERDAS E DANOS E RESTITUIÇÃO DE VALORES PAGOS - SENTENÇA DE PROCEDÊNCIA PARA RECONHECER A RESCISÃO DO CONTRATO, POR INADIMPLEMENTO DA RÉ E, ASSIM, CONDENÁ-LA AO PAGAMENTO DE R$ 1.065.141,00 (UM MILHÃO, SESSENTA E CINCO MIL, CENTO E QUARENTA E UM REAIS) - IRRESIGNAÇÃO DA RÉ - TESE DE CERCEAMENTO DE DEFESA PELO NÃO DEFERIMENTO DA PRODUÇÃO DE PROVA ORAL E PERICIAL - INOCORRÊNCIA - MEIOS PROBATÓRIOS DESNECESSÁRIOS AO JULGAMENTO DA CAUSA - INADIMPLEMENTO CONFESSO EM SEDE DE CONTESTAÇÃO - PRETENDIDA APLICAÇÃO DA TEORIA DA IMPREVISÃO - IMPOSSIBILIDADE - QUADRO FÁTICO QUE COMPROVA O DESCUMPRIMENTO IMOTIVADO DAS OBRIGAÇÕES CONTRAÍDAS - CONSECTÁRIOS LEGAIS - PRETENDIDA APLICAÇÃO DA SELIC PARA FINS DE JUROS E CORREÇÃO MONETÁRIA - NÃO CABIMENTO - ATUALIZAÇÃO DO INDÉBITO QUE DEVE OBSERVAR A EFETIVA PERDA INFLACIONÁRIA - CORRETA INCIDÊNCIA DA MÉDIA INPC/IGP-DI - JUROS DE 1% (UM POR CENTO) AO MÊS DESDE A MORA, CONFORME ART. 406 DO CC C/C ART. 161, §1º DO CTN - RECURSO CONHECIDO E NÃO PROVIDO. (e-STJ, fls.490).
+Os embargos de declaração opostos por NUTRIMILHO foram rejeitados (e-STJ, fls. 517/521).
+Nas razões do presente recurso, NUTRIMILHO alegou a violação art. 406 do Código Civil, ao sustentar que, quando não forem convencionados os juros moratórios serão fixados segundo a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional, que, no caso, é a taxa SELIC.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso merece provimento.
+(1) Da atualização monetária do débito judicial
+Com relação ao percentual dos juros legais é preciso observar a orientação fixada pela Corte Especial no julgamento de recurso especial repetitivo no sentido de que por força do art. 406 do atual CC/02, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, a qual deve ser utilizada sem a cumulação com correção monetária por já contemplar essa rubrica em sua formação.
+A propósito, vejam-se os seguintes julgados:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. JUROS DE MORA E CORREÇÃO MONETÁRIA. APLICAÇÃO DA TAXA SELIC. TERMO INICIAL. RELAÇÃO CONTRATUAL. CITAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Nas condenações posteriores à entrada em vigor do Código Civil de 2002 (janeiro de 2003), deve-se aplicar a Taxa Selic, abrangente de juros e correção monetária, vedada sua cumulação com qualquer outro índice a título de atualização monetária. Precedentes.
+2. A jurisprudência desta Corte se firmou no sentido de que, "em se tratando de reparação de dano moral, os juros de mora incidem desde o evento danoso em casos de responsabilidade extracontratual (Súmula 54/STJ); e desde a citação da parte ré no caso de responsabilidade contratual" (EDcl nos EREsp 903.258/RS, Relator p/ acórdão Ministro João Otávio de Noronha, Corte Especial, julgado em 06.05.2015, DJe de 11.06.2015).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.742.585/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/9/2024, DJe de 16/9/2024.)  grifou-se .
+DIREITO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. NOTA PROMISSÓRIA. JUROS DE MORA. SENTENÇA ANTERIOR AO CÓDIGO CIVIL DE 2002. APLICAÇÃO DO NOVEL DIPLOMA LEGAL APÓS SUA VIGÊNCIA. POSSIBILIDADE. PRECEDENTE QUALIFICADO DA CORTE ESPECIAL. ART. 406 DO CC/2002. TAXA SELIC. CUMULAÇÃO COM CORREÇÃO MONETÁRIA. DESCABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.111.117/PR, Rel. p/ acórdão Min. Mauro Campbell Marques, DJ de 02.09.2010, sob o rito do art. 543-C do CPC/73, decidiu que o percentual de 6% ao ano deve incidir até 11 de janeiro de 2003. A partir daí, deve-se observar o disposto no art. 406 do CC/2002, "seguindo a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional" (atualmente, a taxa SELIC).
+2. De acordo com o entendimento do STJ, a taxa dos juros moratórios a que se refere o art. 406 do CC/2002 é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, que se revela insuscetível de cumulação com quaisquer índices de correção monetária, sob pena de bis in idem.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.716.709/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/8/2024, DJe de 2/9/2024.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PROCEDIMENTO CIRÚRGICO REALIZADO PARA RESOLVER SÍNDROME DA APNÉIA OBSTRUTIVA DO SONO (SASO). FALECIMENTO DO PACIENTE. CONTRADIÇÃO VERIFICADA NO ACÓRDÃO EMBARGADO, QUANTO AO TERMO INICIAL DOS JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. JUROS MORATÓRIOS QUE DEVEM INCIDIR A PARTIR DA CITAÇÃO. APLICAÇÃO DA TAXA SELIC. JURISPRUDÊNCIA PACÍFICA DO STJ. EMBARGOS ACOLHIDOS PARCIALMENTE, COM EFEITOS INFRINGENTES.
+ .. .
+6. É pacífico o entendimento do STJ no sentido de que, "atualmente, a taxa dos juros moratórios a que se refere o art. 406 do CC/2002 é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, sendo inviável a sua cumulação com outros índices de atualização monetária" (AgInt no AREsp 1.199.672/PR, Relator o Ministro Marco Buzzi, DJe de 8/10/2021).
+7. Embargos de declaração acolhidos, em parte, com efeitos modificativos.
+(EDcl no REsp n. 1.848.862/RN, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/6/2024, DJe de 13/6/2024.)  grifou-se .
+Nessas condições, CONHEÇO DO RECURSO ESPECIAL E DOU-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. RESCISÃO CONTRATUAL POR INADIMPLEMENTO C/C INDENIZAÇÃO POR PERDAS E DANOS E RESTITUIÇÃO DE VALORES PAGOS. JUROS DE MORA. ART. 406 DO CC/02. APLICAÇÃO DA TAXA SELIC. PRECEDENTES. RECURSO ESPECIAL CONHECIDO E PROVIDO.
