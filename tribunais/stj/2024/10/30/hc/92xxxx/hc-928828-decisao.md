@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE LAZARO ROSA JUNIOR, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.24.281554-6/000).
+Consta que o paciente foi condenado, em primeiro grau, às penas de 05 (cinco) anos e 08 (oito) meses de reclusão, em regime inicial semiaberto, e 16 (dezesseis) dias-multa, como incurso no art. 157, § 2º inciso II, c/c o art. 61, inciso II, alínea "c", ambos do Código Penal. Na sentença, foi indeferido ao réu o direito ao recurso em liberdade, mantendo-se a sua custódia cautelar.
+Neste writ, a parte impetrante sustenta a ausência de fundamentação idônea e dos requisitos necessários para a manutenção da prisão preventiva do acusado.
+Argumenta que não há provas de que o paciente tenha cometido o delito.
+Salienta a presença de condições pessoais favoráveis.
+Pleiteia, liminarmente e no mérito, a concessão do direito ao recurso em liberdade ao paciente, ainda que sejam aplicadas medidas cautelares diversas do cárcere.
+O pedido liminar foi indeferido (fls. 509-511).
+As informações foram prestadas (fls. 517-543 e 557-609).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 552-554).
+É o relatório.
+DECIDO.
+No caso, o Tribunal de origem manteve a prisão cautelar do ora paciente conforme a fundamentação a seguir (fls. 203-205; grifamos):
+Consta da denúncia que, na madrugada do dia 31/03/2024, a vítima foi abordada pelo paciente e pelo corréu Wandell, os quais lhe deram um golpe conhecido como "gravata" e tapas no rosto, vindo a subtrair a sua carteira que continha cerca de R$200,00 em dinheiro.
+O paciente foi preso em flagrante, sendo a prisão convertida em preventiva de forma motivada pelo juiz singular.
+Após a instrução probatória, foi proferida a sentença, sendo o paciente condenado como incurso nas iras do art.157, §2º, II, do CPB, às penas de 05 (cinco) anos e 08 (oito) meses de reclusão, em regime semiaberto e 16 (dezesseis) dias-multa. A sentença negou ao paciente o direito de recorrer em liberdade, apresentando a seguinte fundamentação:
+"Os acusados não podem recorrer em liberdade, haja vista que se encontram presos e assim responderam ao processo, tendo sido, nesta sede, condenados como incursos nas sanções do art. 157, §2º, II, e 61, II, "c", do Código Penal, em regime semiaberto.
+É irrazoável que o Estado coloque em liberdade aqueles que ficaram presos durante a persecução penal e, em última análise, foram reconhecidos como os autores de grave crime, ainda que em sentença suscetível de recurso.
+Nesta fase, o interesse primordial deve ser o da sociedade, pois já houve o julgamento criminal com observância do devido processo legal (ainda que se trate de sentença condenatória recorrível), ocasião em que se proporcionaram aos acusados o contraditório e a ampla defesa.
+Ademais, estão verificados os pressupostos (CPP, art. 313, inciso I), os requisitos - prova da materialidade e indícios mais que suficientes de autoria - e os fundamentos para a manutenção da prisão cautelar (garantia da ordem pública e aplicação da lei penal), máxime diante da gravidade concreta das condutas e do risco de reiteração delitiva, evidenciado pelas CACs e FACs juntadas no 1d. 10242681476 e p. 50-73 do id. 10204524362.
+Fica, nesses termos, fundamentada a necessidade da manutenção da prisão cautelar imposta aos acusados, com base nos arts.311 e 312, do Código de Processo Penal.
+O ato decisório fustigado encontra-se devidamente motivado, restando devidamente ressaltado o periculum libertatis, considerando a gravidade em concreto do delito, em tese, praticado, o qual teria sido realizado em concurso de agentes, durante a madrugada, contra vítima idosa, e com emprego de violência física.
+Vale ressaltar que a legalidade da prisão do paciente já foi analisada por esta Câmara Criminal, por ocasião do julgamento do habeas corpus nº 1.0000.24.196187-9/000, oportunidade em que a Turma Julgadora entendeu pela manutenção da prisão preventiva, diante da presença dos requisitos do art.312 do CPP.
+Tendo o paciente permanecido preso durante todo o andamento da ação penal, não faz mesmo sentido que, mantidas as circunstâncias fáticas que autorizaram a segregação, com a superveniência da condenação fosse deferida a ele a liberdade.
+Saliente-se que é pacífico na doutrina e na jurisprudência que as eventuais condições pessoais favoráveis do agente não obstam sua segregação provisória, desde que essa se manifeste necessária nos termos do art. 312 do Código de Processo Penal, como no caso dos autos.
+Conforme a orientação desta Corte Superior, a manutenção da custódia cautelar no édito condenatório, em hipóteses nas quais o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para o atendimento do art. 387, § 1º, do Código de Processo Penal, declinar que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam de fato preenchidos os requisitos legais do art. 312 do referido Código.
+Na hipótese, verifico que o não reconhecimento do direito de apelar em liberdade se deu em decisão suficientemente fundamentada, pois o Juízo sentenciante referiu a gravidade concreta do fato, destacando-se que o delito teria sido realizado em concurso de agentes, durante a madrugada, contra vítima idosa, e com emprego de violência física (fl. 204).
+Nessa conjuntura, não constato o alegado constrangimento ilegal na manutenção da segregação cautelar do denunciado para a garantia da ordem pública.
+Ilustrativamente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. RECONHECIMENTO FOTOGRÁFICO. ILEGALIDADE. PRISÃO DOMICILIAR. SUPRESÃO DE INSTÂNCIA.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva foi imposta em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade da acusada, consistente na prática, em tese, de roubo majorado pelo concurso de agentes e emprego de violência física contra a vítima, além do fato de a ré estar foragida. Assim, a prisão se faz necessária para garantir a ordem pública.
+(..)
+6. Agravo regimental desprovido.
+(AgRg no HC n. 788.127/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/5/2023, DJe de 11/5/2023).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. MODUS OPERANDI A EVIDENCIAR PERICULOSIDADE DO AGENTE. FUNDAMENTO IDÔNEO. DESCABIMENTO DE CAUTELARES MAIS BRANDAS. AGRAVO DESPROVIDO.
+1. Verificada a gravidade concreta da conduta pela alta reprovabilidade do modus operandi empregado, no qual se infere o periculum libertatis, tem-se por justificada a prisão cautelar.
+2. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+3. "Quando a necessidade da prisão preventiva estiver demonstrada pelos fatos e pressupostos contidos no art. 312 do CPP, não há afronta ao princípio da presunção de inocência, tampouco antecipação ilegal da pena" (AgRg no RHC n. 188.488/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 184.185/AL, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da prisão cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Registro, por fim, que a Corte estadual não conheceu da tese relativa à ausência de prova de autoria do paciente nos seguintes termos (fl. 206):
+A tese relacionada à negativa de autoria já foi alvo de exame por esta Corte de Justiça no writ anterior, sendo que, conforme destacado, trata-se de questão complexa, que envolve matéria concernente ao mérito, demandando, necessariamente, aprofundada interferência no conjunto fático probatório, o que não se revela possível na via estreita do habeas corpus.
+Ademais, constato que foi interposto recurso de apelação contra a sentença, sendo mais prudente delegar a análise das teses trazidas pelo impetrante de negativa de autoria e desproporcionalidade da pena àquela via recursal, visto ser sede passível de maior abrangência, possibilitando exame mais aprofundado das alegações, além de evitar o conflito de decisões distintas acerca da mesma discussão. Além disso, em atenção ao princípio da unirrecorribilidade, não se admite a impugnação simultânea da sentença por intermédio do recurso de apelação e do habeas corpus, salvo situações excepcionais em que há flagrante coação ilegal, o que não é o caso.
+Portanto, considerando que o mérito da matéria não foi apreciado no acórdão impugnado, fica vedado o pronunciamento deste Superior Tribunal de Justiça quanto ao ponto, sob pena de indevida supressão de instância.
+Ante o exposto, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
