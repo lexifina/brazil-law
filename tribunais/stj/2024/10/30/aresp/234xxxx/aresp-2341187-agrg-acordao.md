@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Clésio de Macedo Silva contra decisão que inadmitiu o agravo em recurso especial com fundamento na Súmula 83/STJ, relacionada à aplicação do princípio da insignificância. A parte agravante alega que não seria caso de aplicação da súmula e que o agravo deveria ser conhecido, com a reforma da decisão recorrida.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se o agravo regimental impugnou de forma específica e detalhada os fundamentos da decisão que inadmitiu o recurso especial, conforme exigido pelo art. 932, III, do CPC, e se houve erro na aplicação da Súmula 83/STJ.
+III. RAZÕES DE DECIDIR
+3. O agravo regimental é tempestivo e indica os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+4. Todavia, nas razões do agravo, a parte agravante se limitou a alegar a inaplicabilidade da Súmula 83/STJ, sem apresentar jurisprudência contemporânea ou precedente específico que demonstre a divergência quanto ao entendimento consolidado desta Corte Superior.
+5. De acordo com a Súmula 182/STJ, "É inviável o agravo que não impugna especificamente todos os fundamentos da decisão recorrida". No presente caso, não se rebateu de maneira concreta o fundamento de inadmissão do recurso especial.
+6. A jurisprudência do STJ é pacífica ao exigir que o agravante ataque todos os fundamentos da decisão agravada, de forma detalhada, sob pena de não conhecimento do recurso.
+7. A decisão monocrática agravada encontra-se em consonância com a jurisprudência dominante desta Corte, conforme precedentes citados.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fl. 452).
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Clésio de Macedo Silva contra decisão que inadmitiu o agravo em recurso especial com fundamento na Súmula 83/STJ, relacionada à aplicação do princípio da insignificância. A parte agravante alega que não seria caso de aplicação da súmula e que o agravo deveria ser conhecido, com a reforma da decisão recorrida.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se o agravo regimental impugnou de forma específica e detalhada os fundamentos da decisão que inadmitiu o recurso especial, conforme exigido pelo art. 932, III, do CPC, e se houve erro na aplicação da Súmula 83/STJ.
+III. RAZÕES DE DECIDIR
+3. O agravo regimental é tempestivo e indica os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+4. Todavia, nas razões do agravo, a parte agravante se limitou a alegar a inaplicabilidade da Súmula 83/STJ, sem apresentar jurisprudência contemporânea ou precedente específico que demonstre a divergência quanto ao entendimento consolidado desta Corte Superior.
+5. De acordo com a Súmula 182/STJ, "É inviável o agravo que não impugna especificamente todos os fundamentos da decisão recorrida". No presente caso, não se rebateu de maneira concreta o fundamento de inadmissão do recurso especial.
+6. A jurisprudência do STJ é pacífica ao exigir que o agravante ataque todos os fundamentos da decisão agravada, de forma detalhada, sob pena de não conhecimento do recurso.
+7. A decisão monocrática agravada encontra-se em consonância com a jurisprudência dominante desta Corte, conforme precedentes citados.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 452-455):
+Trata-se de agravo em recurso especial interposto por CLESIO DE MACEDO SILVA (e-STJ fls. 418-427), objetivando a reforma da decisão de inadmissão do recurso especial ante a incidência da Súmula n. 83 do STJ (e-STJ fls. 412-413).
+Na razões recursais, a parte agravante alega não ser caso de incidência da referida Súmula, pois " ..  seria possível a absolvição com base no princípio da insignificância, haja vista (i) o Réu não ser reincidente e, sim, portador de maus antecedentes; e (ii) estarem presentes todos os demais critérios para a sua absolvição, sob pena de serem inobservados princípios intrínsecos e obrigatórios ao Processo Penal.", sendo que, a seu sentir, " ..  Resta demonstrado, portanto, que não há que se falar em jurisprudência pacífica quanto à questão, fazendo-se necessário a apreciação do Recurso Especial, afastando-se a aplicação do óbice da Súmula n. 83/STJ." (e-STJ fls. 422-425).
+Requer que seja conhecido o referido agravo para conhecer do recurso especial e, no mérito, provê-lo.
+Contraminuta do Ministério Público do Estado do Distrito Federal e Territórios pelo não provimento do recurso. (e-STJ fl. 431).
+Parecer do Ministério Público Federal pelo não provimento do agravo (e-STJ fls. 446-449).
+É o relatório.
+Decido.
+De pronto, verifico a existência de requisitos extrínsecos de admissibilidade, relativos à regularidade formal do agravo interposto e à tempestividade.
+Contudo, nos termos do art. 932, III, do referido CPC, combinado com o art. 253, I, do Regimento Interno desta Corte, incumbe ao Relator não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Com efeito, constitui ônus do Recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Nessa linha, na esteira do entendimento jurisprudencial consagrado na Súmula n. 182/STJ, o inciso III do art. 932 do mencionado estatuto processual, prevê expressamente o não conhecimento do agravo que não tenha atacado especificamente os fundamentos da decisão que inadmitiu, na origem, o recurso especial.
+No presente caso, o Recurso Especial não foi admitido sob o fundamento que incidiria a Súmula n. 83 do STJ, no tocante à suposta ofensa ao art. 386, III, do CPP.
+Entretanto, nas razões do agravo, há apenas a afirmação, de forma genérica, sobre a não incidência do mencionado óbice de admissibilidade, sem demonstrar que a orientação desta Corte não se firmou no mesmo sentido da decisão recorrida, deixando de invocar precedentes aptos e contemporâneos à finalidade pretendida de demonstrar que o entendimento apresentado não está pacificado no mesmo sentido do acórdão recorrido no tocante à suposta ofensa ao art. 386, III, do CPP.
+Ou seja, não há impugnação específica da decisão agravada, impondo-se, de rigor, o não conhecimento do recurso. É nesse sentido o entendimento da Corte:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO NÃO CONHECIDA. MOTIVOS DA INADMISSÃO DO RECURSO ESPECIAL NÃO INFIRMADOS. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ao realizar o juízo de admissibilidade prévio do recurso especial, a Corte local afirmou que a pretensão esbarrava nos óbices da Súmulas n. 7 do STJ e n. 284 do STF.
+2. Embora o agravante haja impugnado parte dos óbices levantados, deixou de impugnar: 1) Impropriedade da via eleita para questionar a violação dos apontados dispositivos e princípios constitucionais;2) Prequestionamento (Súmulas n. 211 do STJ e n. 282 do STF) quanto à alegação de violação dos arts. 65, III, "c", do Código Penal; 157, 315, § 2º, e 564, IV, do CPP, e 489, §1º, I e IV, do CPC; 3) Súmula n. 83 do STJ quanto à: a) nulidade do interrogatório policial; b) inépcia da denúncia e c) minorante do art. 33, § 4º, da Lei n. 11.343/2006; 4) Súmula n. 7 do STJ em relação à expropriação do bem.
+3. Portanto, verifica-se que o agravante não rebateu, concretamente, todos os óbices de admissão do REsp. Assim, é inegável que a defesa não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.262.869/RS, relator Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.) (Grifo acrescido)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DA PENA DE MULTA. CARÁTER SANCIONADOR PENAL. EXTINÇÃO DA PUNIBILIDADE. NECESSIDADE DE PRÉVIA AUDIÊNCIA. RESP INADMITIDO NA ORIGEM. ARESP NÃO CONHECIDO. SÚMULA 182/STJ. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. HIPOSSUFICIÊNCIA FINANCEIRA DO EXECUTADO. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. NECESSIDADE DE EXAME PROBATÓRIO. IMPOSSIBILIDADE. SUMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão agravada (decisão de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+2. Com efeito, como tem reiteradamente decidido esta Corte Superior, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+3. Ainda que assim não fosse, constatado o inadimplemento da pena de multa aplicada cumulativamente à privativa de liberdade, o Juízo da Execução Criminal deverá, antes de deliberar acerca da extinção da punibilidade, intimar o reeducando para efetuar o pagamento, ressaltando a possibilidade de parcelamento, a pedido e conforme as circunstâncias do caso concreto (art. 50, caput, do CP), bem como oportunizando ao condenado comprovar, se for o caso, a absoluta impossibilidade econômica de arcar com seu valor sem prejuízo do mínimo vital para a sua subsistência e de seus familiares.
+4. In casu, o Tribunal de origem indeferiu a extinção da punibilidade ao reeducando, afastando a tese de que o valor da execução é inferior ao limite mínimo exequível pela Legislação Estadual.
+5. Ademais, a "alegação de pobreza" somente restou apresentada pela defesa em embargos de declaração que foram rejeitados pelo Tribunal a quo que consignou: com a prolação da decisão que indeferiu a petição inicial, sequer foi possível analisar a impossibilidade econômica absoluta do sentenciado para efetuar o pagamento da multa, ainda que parceladamente, o qual não comprovou tal impossibilidade de plano, podendo demonstrar eventual incapacidade no decorrer do processo de execução.
+6.Daí, além de ausência do devido prequestionamento do tema, para decidir que há hipossuficiência do reeducando, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 2.340.649/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023.) (Grifo acrescido)
+Ante o exposto, não conheço do Agravo em Recurso Especial.
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte. Veja-se:
+EMENTA PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ÓBICE NÃO ATACADO NO REGIMENTAL. NOVA INCIDÊNCIA DA SÚMULA N. 182 DO STJ. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.1. A
+impugnação específica dos fundamentos da decisão agravada é requisito para o conhecimento do agravo regimental.2. No caso em tela , o agravo em recurso especial deixou de impugnar efetiva e concretamente todos os fundamentos de inadmissibilidade, carecendo da devida refutação a Súmula n. 83 do Superior Tribunal de Justiça.
+Assim, a Presidência desta Corte não conheceu do agravo em recurso especial, em razão da incidência da Súmula n. 182 do STJ.3. No presente regimental, a defesa afirma que o recurso especial teria apontado de forma clara a interpretação diversa dada aos dispositivos apontados como violados, comprovando a divergência existente entre a decisão proferida no caso com a orientação dos Tribunais. Alega, ainda, que não teria entrado em rediscussão probatória.4. A argumentação dispensada pela parte não dialoga com as razões de decidir da Presidência desta Corte. Registre-se que a decisão agravada não conheceu do agravo em recurso especial e a parte versa sobre o recurso especial.5. Nestas condições, a defesa não impugnou especificamente o óbice aplicado (Súmula n. 182 do STJ), de maneira que o recurso apresentado é incapaz de demonstrar o equívoco da decisão contra a qual se insurge, mantendo-a incólume.
+Incidência, novamente, da Súmula n. 182 do STJ.6. No tocante ao pleito de habeas corpus de ofício, salienta-se que esta Corte Superior entende, com lastro nos arts. 647-A e 654, § 2º, ambos do Código de Processo Penal - CPP, que a concessão de ordem ocorre por iniciativa do julgador quando constatada flagrante ilegalidade, não vislumbrada, de plano, na hipótese. Precedentes.7. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.497.395/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/8/2024, DJe de 19/8/2024.)
+Ante o exposto, nego p rovimento ao agra vo regimental.
+É o voto.
