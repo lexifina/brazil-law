@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por MUNICÍPIO DE UNIÃO, com fundamento na incidência  da Súmula  7/STJ, nos seguintes termos (fl. 946):
+Dessa forma, diante da fundamentação do acórdão recorrido é indiscutível que, ao discorrer sobre a necessidade de apreciação das provas dos autos, a Recorrente não logra demonstrar o efetivo cabimento do apelo especial, mas mero inconformismo com a solução jurídica adotada e pretensão de obter novo julgamento com a reanálise de fatos e provas, prática inadmissível na via eleita, óbice da Súmula 7, STJ.
+
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial e a inaplicabilidade do óbice sumular, justificando que "diz respeito apenas e tão somente à correta aplicação da regra legal prevista e fixada nos artigos 373, I do Código de Processo Civil e o art. 36, da LC nº 101/01 ao caso concreto, não sendo necessária a reapreciação da prova" (fl. 954). Assim requer o provimento do presente agravo, com posterior análise do recurso especial.
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+Por certo, as alegações deduzidas pela parte agravante são insuficientes para serem consideradas como impugnação aos fundamentos da decisão agravada. Não houve clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade. Desse modo, a parte não observou o princípio da dialeticidade e a necessária impugnação efetiva e fundamentada, o que atrai a aplicação analógica da Súmula 182/STJ.
+Consoante pacífica jurisprudência desta Corte, "são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial" (AgInt no AREsp n. 2.146.906/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. NÃO CONHECIMENTO DO RECURSO ESPECIAL. APLICAÇÃO DAS SÚMULAS 7 E 182 DO STJ. ART. 932, III, DO CPC E ART. 253, PARÁGRAFO ÚNICO, INCISO I, DO RISTJ - AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo Interno interposto de decisão monocrática que não conheceu do Recurso Especial, fundamentando-se na aplicação da Súmula 7 do STJ, pela natureza eminentemente fática da controvérsia, e na ausência de impugnação específica dos fundamentos da decisão agravada, conforme exigência do art. 932, III, do CPC e do art. 253, parágrafo único, inciso I, do RISTJ.
+2. O recorrente, ao pleitear a reforma da decisão que aplicou as mencionadas súmulas, não logrou demonstrar, de forma específica e concreta, a desconstituição dos fundamentos que sustentaram a decisão que inadmitiu o Recurso Especial, mantendo-se assim os óbices sumulares.
+3. É imprescindível, segundo a jurisprudência consolidada do STJ, que o agravante enfrente todos os fundamentos da decisão recorrida, refutando-os de maneira específica e detalhada, sob pena de não conhecimento do Agravo.
+4. Não apresentação, pelo agravante, de argumentos suficientes para desconstituir os fundamentos da decisão agravada, mantendo-se a aplicação da Súmula 182/STJ.
+5. Agravo Interno a que se nega provimento, ressaltando-se a advertência quanto à possibilidade de reconhecimento de litigância de má-fé e aplicação das penalidades previstas nos arts. 81 e 1.026, §§ 2º e 3º, do CPC/2015, em caso de interposição de Recurso Protelatório ou manifestamente inadmissível. (AgInt no AREsp n. 1.941.413/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 29/5/2024.)
+Embora a parte agravante defenda a admissibilidade de seu recurso especial, por preenchidos os seus requisitos, não impugna especificamente o óbice da decisão que o inadmitiu, aplicando a Súmula 7 deste STJ. Assim, não cumpre o requisito de dialeticidade recursal ao deixar de enfrentar o fundamento da decisão agravada.
+Isso posto, não conheço do agravo em recurso especial.
+Intimem-se
+EMENTA
