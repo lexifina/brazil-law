@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA ÚNICA CRIMINAL DE CRATEÚS - CE suscita conflito de competência, em processo penal, diante do JUÍZO DE DIREITO DA VARA ÚNICA DE GOVERNADOR NUNES FREIRE - MA.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para o processo e julgamento de feito, relacionado à suposta prática dos crimes de estelionato, falsificação de documento público e particular e falsidade de atestado médico, ocorridos em 2012, na cidade de Governador Nunes Freire - MA.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da Vara Única de Governador Nunes Freire - MA, ora suscitado (fls. 62-66).
+Decido.
+De acordo com o art. 78 do CPP, quando houver concurso de jurisdições da mesma categoria: a) preponderará a do lugar da infração, à qual for cominada a pena mais grave; b) prevalecerá a do lugar em que houver ocorrido o maior número de infrações, se as respectivas penas forem de igual gravidade; c) firmar-se-á a competência pela prevenção, nos outros casos.
+Nesse sentido: " n os termos do art. 78, II, "a", "b" e "c", do CPP, prevalece o juízo processante da infração mais grave; se as penas forem de igual gravidade, preponderará o que houver o maior número de infrações, por fim, somente se ambos os critérios anteriores forem inservíveis, a prevenção determinará o juízo em que se concentrarão os processos" (RHC n. 50.651/SP, relator Ministro Ribeiro Dantas, DJe 9/11/2015).
+Compulsando os autos, tal como destacou o Ministério Público Federal, observa-se que "os crimes narrados foram cometidos em continuidade delitiva e, predominantemente, na cidade de Governador Nunes Freire/MA. Cumpre registrar que a relação dos crimes com Crateús/CE refere-se a emissão de laudos médicos assinados por um médico da cidade, tendo os demais crimes praticados todos em Governador Nunes Freire/MA" (fl. 66, destaquei).
+Logo, levando-se em consideração que não só o crime cominado com pena mais grave, mas também o maior número de infrações haveria ocorrido na Comarca de Governador Nunes Freire - MA, há que se fixar a competência deste juízo para processar e julgar o caso.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Única de Governador Nunes Freire - MA, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
