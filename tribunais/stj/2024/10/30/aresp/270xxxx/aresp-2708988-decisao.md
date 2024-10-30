@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por ANA ALVES DA SILVA contra decisão que não admitiu o recurso especial fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual impugna acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 429):
+APELAÇÃO - Ação declaratória de nulidade de contrato e indenização por danos morais - Empréstimo Consignado - Negativa de contratação - Sentença de parcial procedência - Recurso dos réus.
+DEVOLUÇÃO RECURSAL - Ausência de insurgência recursal que torna incontroverso, in casu, a nulidade do empréstimo impugnado - Questão que, em respeito ao princípio do tantum devolutum quantum apellatum, não será apreciada por esta Corte.
+DANOS MORAIS - Condenação dos réus ao pagamento de R$ 10.000,00 a título de danos morais Inocorrência - Contratação indevida que acarretou dissabores, mas não foram suficientes para lesar direito de personalidade Inexistência de cobrança vexatória ou de dano à reputação - Desconto sobre verba alimentar neutralizado pelo benefício advindo do lançamento de numerário a favor da parte autora - Padecimento extrapatrimonial não configurado - RECURSOS DOS RÉUS PROVIDOS.
+CUSTAS E DESPESAS PROCESSUAIS - Insurgência do Banco Itaú contra o rateio das custas e despesas processuais - Distribuição que decorre de lei, e não da concessão de gratuidade judiciária à parte autora - Art. 86 do CPC - Sucumbência do requerido quanto ao reconhecimento da nulidade do contrato impõe a ele o custeio das despesas proporcionais ao seu decaimento - RECURSO DO BANCO ITAÚ DESPROVIDO. CONCLUSÃO RECURSO DO BANCO ITAÚ PARCIALMENTE PROVIDO E RECURSO DE PAULO SÉRGIO IGNÁCIO-ME PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 531-535).
+Nas razões do especial, a agravante sustentou a "interpretação divergente do disposto no art. 6º e 14, § 1º do Código de Defesa do Consumidor/ Súmula 479 do STJ., e interpretação diversa dos Tribunais sobre a responsabilidade objetiva do Recorrido e a culpa in eligendo descartada no Julgamento de Segunda Instância" (e-STJ, fl. 466).
+Alegou que "Se o Legislador do Código de Defesa do Consumidor escreveu e sacramentou o direito de inversão do ônus da prova a favor do consumidor, não se pode simplesmente descartar sua aplicação sobre suposições de que a Recorrente não sofreu dano moral, sobretudo porque a Julgadora originária diz que a falsificação da assinatura de por si já comprova o dano moral, a violação de seus dados e benefício alimentar de por si constituem muito mais que simples aborrecimento" (e-STJ, fl. 475).
+Contrarrazões apresentadas (e-STJ, fls. 539-553).
+Brevemente relatado, decido.
+A agravante pretende o reconhecimento da caracterização dos danos morais em razão de falha na prestação de serviço bancário.
+Sobre o tema, fundamentou o Tribunal estadual (e-STJ, fls. 430-436; sem grifos no original):
+Trata-se de "ação declaratória de nulidade de contrato e reparação de danos" movida por Ana Alves da Silva em face de Banco Itaú Consignado S/A e Paulo Sérgio Ignácio ME (correspondente bancário).
+Narra a autora que tem sofrido descontos em seu benefício previdenciário em razão de empréstimo consignado que não contratou (contrato n. 29508746, valor liberado no valor de R$ 1.069,30 e parcelas no "quantum" de R$ 30,19 fls. 04).
+Nesse contexto, pleiteia a declaração de nulidade do empréstimo e condenação dos requeridos ao pagamento de indenização por danos morais no importe de R$ 20.000,00.
+ ..
+No caso em tela, o laudo pericial produzido nos autos, tendo por objeto as assinaturas constantes do documento apresentado pelo Banco Itaú, encartado às fls. 95/101 (cédula de crédito bancário), acompanhado de cópia do documento de identidade da requerente (fls. 105) e lançamentos caligráficos coletados em Cartório (fls. 297/304), concluiu que as firmas apostas no título não são autênticas (fls. 318), situação que ensejou o reconhecimento da nulidade do empréstimo e a condenação dos requeridos ao pagamento de verba indenizatória no importe de R$ 10.000,00.
+Respeitado o entendimento do Ilustre julgador, não há que se falar na ocorrência de abalo extrapatrimonial.
+É verdade que a contratação indevida causa dissabores e impinge perplexidade com a falta de segurança do serviço. No entanto, a demandante não demonstrou repercussões gravosas capazes de ensejar danos a seus direitos de personalidade.
+Os autos não espelham cobranças vexatórias e não há relato de inclusão de dados em cadastro restritivo.
+Embora tenham sido realizados descontos em folha de benefício previdenciário, a postulante se viu, ainda que a contragosto, beneficiada pela disponibilização de crédito no montante de R$ 1.069,30 (fls. 24/30).
+Por isso, embora não se ignore a potencialidade lesiva das subtrações realizadas em verba alimentar, no caso em exame tal impacto foi neutralizado pelo proveito econômico oriundo da quantia depositada na conta corrente somado à demora de quase 1 (um) ano para o ingresso da demanda.
+Essa circunstância é suficiente para demonstrar que os fatos não acarretaram danos morais.
+ ..
+À vista de tais considerações, os recursos dos requeridos comportam provimento para afastar os danos morais, tornando prejudicada a celeuma em torno do montante de sua indenização e do termo inicial dos juros moratórios.
+ ..
+Em suma, a r. sentença é reformada unicamente para afastar a condenação dos requeridos ao pagamento de danos morais.
+A caracterização do dano moral exige que a comprovação do dano repercuta na esfera dos direitos da personalidade.
+Nesse contexto, conforme entendimento desta Corte, "a fraude bancária, ensejadora da contratação de empréstimo, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes. Precedentes" (AgInt no AREsp 2.149.415/MG, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/5/2023, DJe de 1º/6/2023).
+Na hipótese retratada nos autos, a Corte local destacou que não houve dano maior que repercutisse na honra objetiva e subjetiva da parte agravante, que ensejasse a reparação pecuniária, tendo frisado a ausência de cobrança indevida ou negativação do nome do consumidor em órgãos de proteção ao crédito.
+Diante dessa conclusão, mostra-se inviável, por meio do julgamento do recurso especial, que o Superior Tribunal de Justiça altere o posicionamento adotado pela instância ordinária, pois, para tanto, seria necessário o revolvimento dos fatos e das provas acostadas aos autos, o qual é vedado pela Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE, C/C INDENIZAÇÃO POR DANOS MORAIS. DESCONTOS EM CONTA BANCÁRIA REFERENTES A CONTRATOS DE EMPRÉSTIMOS NÃO CONTRATADOS. DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. INCIDÊNCIA.
+1. Cinge-se a controvérsia acerca da ocorrência de dano moral a ser indenizado em razão de contratação, mediante fraude, de empréstimo bancário em nome da parte autora, ora recorrente.
+2. O acórdão recorrido está em harmonia com a jurisprudência desta E. Corte, segundo a qual a fraude bancária, ensejadora da contratação de empréstimo, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes.
+3. Modificar as conclusões alcançadas pelo Tribunal de origem só seria viável mediante um novo exame do conjunto fático-probatório dos autos, o que é vedado nesta instância extraordinária, conforme o teor da Súmula 7/STJ.
+Agravo interno improvido.
+(AgInt no REsp n. 2.161.169/SP, Relator Ministro Humberto Martins, Terceira Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMPRÉSTIMO FRAUDULENTO. DECLARAÇÃO DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA. A AGRAVANTE TEVE O VALOR CREDITADO EM CONTA BANCÁRIA, TODAVIA, NÃO PROCEDEU À DEVOLUÇÃO AO AJUIZAR A AÇÃO. MERO ABORRECIMENTO. DANO MORAL. NÃO CONFIGURADO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7 DO STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. "(..) a fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes" (AgInt no AREsp n. 2.157.547/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 12.12.2022, DJe de 14.12.2022), o que não ocorreu na espécie.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.117.699/SP, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+Cumpre registrar que a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Por fim, não cabe ao Superior Tribunal de Justiça apreciar violação a verbete sumular em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante a Súmula 518 desta Corte: "Para fins do art. 105, III, a , da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em R$ 500,00 (quinhentos reais) os honorários sucumbenciais fixados em favor dos advogados da parte recorrida.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO POR DANOS MATERIAIS E MORAIS. FRAUDE BANCÁRIA. CARACTERIZAÇÃO DOS DANOS MORAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. VIOLAÇÃO A ENUNCIADO DE SÚMULA. RECURSO ESPECIAL INCABÍVEL. SÚMULA 518/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
