@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. AUSÊNCIA DE INDÍCIOS DE AUTORIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - No caso, prisão preventiva do Agravante se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório; notadamente se considerado o modus operandi da conduta, consistente em roubo; haja vista que ele supostamente teria praticado a empreitada criminosa, na qual houve o emprego de um simulacro de arma de fogo para constranger as vítimas.
+III - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+IV - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovid o.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão, às fls. 48-50, que denegou o habeas corpus impetrado em favor de LUCAS MATTEUS DE OLIVEIRA SOARES.
+Depreende-se dos autos que o Agravante teve a prisão em flagrante convertida em preventiva pela suposta prática da conduta de roubo. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem, em acórdão (fls. 40-45).
+Nas razões do presente inconformismo, o Agravante repisa os argumentos deduzidos no writ, alegando a existência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea da decisão que decretou a sua segregação cautelar
+Requer seja dado provimento ao presente agravo regimental, determinando o prosseguimento do feito, para se assim restar entendido, conceder a ordem de habeas corpus nos termos da inicial apresentada, caso não ocorra a reconsideração, requer seja recebido e processado o presente recurso, com sua remessa à mesa da Turma.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. AUSÊNCIA DE INDÍCIOS DE AUTORIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - No caso, prisão preventiva do Agravante se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório; notadamente se considerado o modus operandi da conduta, consistente em roubo; haja vista que ele supostamente teria praticado a empreitada criminosa, na qual houve o emprego de um simulacro de arma de fogo para constranger as vítimas.
+III - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+IV - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+VOTO
+O presente Agravo Regimental não merece provimento.
+Sustenta o Agravante a necessidade de reforma do decisum.
+Pois bem. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos. Nesse compasso, não obstante o teor das razões suscitadas no presente recurso, não vislumbro elementos hábeis a alterar a decisão de fls. 48-50. Ao contrário, os argumentos ali externados merecem ser ratificados pelo Colegiado.
+A prisão preventiva, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores (v.g. HC n. 93.498/MS, Segunda Turma, Rel. Min. Celso de Mello, DJe de 18/10/2012).
+In casu, a prisão preventiva do agravante se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório; notadamente se considerado o modus operandi da conduta, consistente em roubo; haja vista que o agravante supostamente teria praticado a empreitada criminosa, na qual houve o emprego de um simulacro de arma de fogo para constranger as vítimas.
+No ponto, consta na decisão que converteu o auto de prisão em flagrante delito em preventiva:
+" ..  a representante do estabelecimento comercial trabalha com o atendente no Mercado Oxxo, da Av. Nove de Julho, n.1008, e que na noite dos fatos estava no mercado e iria realizar a troca de turno, fechando a porta, momento em que um indivíduo entrou no estabelecimento e pegou da prateleira três engradados contendo 36 latas de cerveja da marca Heineken e logo anunciou o assalto, Ele exibiu na cintura uma arma de fogo e disse: "fica quieto, isso é um assalto, diga que eu paguei pelas cervejas" (fl. 28).
+Tais circunstâncias demonstram a gravidade concreta da conduta e a periculosidade do agente, justificando a segregação cautelar imposta para a garantia da ordem pública.
+Sobre o tema:
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, D Je 26/10/2017)" (RHC 106.326/MG, Sexta Turma, Relª. Minª. Laurita Vaz, D Je de 24/04/2019).
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo" (AgRg no HC n. 710.123/MG, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 15/8/2022).
+A existência de condições pessoais favoráveis, mesmo quando devidamente comprovadas, não é apta a afastar a custódia quando existentes os pressupostos legais, posto que " condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade " (STJ - Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 03/10/ 2019).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Destarte, neste agravo regimental, não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios e jurídicos fundamentos.
+Ante o exposto, por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, nego provimento ao agravo regimental.
+É o voto.
