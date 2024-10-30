@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2024 a 30/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO RE GIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PACIENTE POSTO EM LIBERDADE NO CURSO DO PROCESSO. DATA-BASE PARA FINS DE BENEFÍCIOS. DATA DA ÚLTIMA PRISÃO. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com a orientação jurisprudencial desta Corte, nos casos em que o apenado foi solto durante o curso do processo e é preso para iniciar o cumprimento de pena, a data da prisão preventiva não deve ser considerada como termo inicial para a obtenção de benefícios atinentes à execução da pena. Assim, a fixação de data-base para benefícios pressupõe o início efetivo do cumprimento da pena. Precedentes.
+2. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental no habeas corpus interposto por ABRAHÃO LINCOLN DA SILVA contra a decisão monocrática por mim proferida que não conheceu a ordem de habeas corpus por não vislumbrar constrangimento ilegal a ser sanado (e-STJ fls. 116/119).
+Nesta via, o agravante reitera as alegações da impetração, sustentando que
+a detração decorrente da prisão cautelar, por óbvio, deve ser computada como pena efetivamente cumprida, e não descontada do total da pena. Raciocínio diverso implicaria na esdrúxula conclusão de que o sentenciado que respondeu ao processo de conhecimento preso teria tratamento desigual em relação ao que respondeu solto (e-STJ fl. 5).
+Requer a retratação da decisão hostilizada ou, caso assim não se entenda, que seja o agravo regimental submetido ao Colegiado.
+É o relatório.
+EMENTA
+AGRAVO RE GIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PACIENTE POSTO EM LIBERDADE NO CURSO DO PROCESSO. DATA-BASE PARA FINS DE BENEFÍCIOS. DATA DA ÚLTIMA PRISÃO. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com a orientação jurisprudencial desta Corte, nos casos em que o apenado foi solto durante o curso do processo e é preso para iniciar o cumprimento de pena, a data da prisão preventiva não deve ser considerada como termo inicial para a obtenção de benefícios atinentes à execução da pena. Assim, a fixação de data-base para benefícios pressupõe o início efetivo do cumprimento da pena. Precedentes.
+2. Agravo regimental não provido.
+VOTO
+Não obstante, os esforços perpetrados pelo ora agravante, não verifico fundamentos suficientes para infirmar a decisão agravada, cuja conclusão mantenho.
+O Juízo de Execução, ao prestar informações a esta Corte Superior acerca do pedido de retificação do cálculo da pena, expediu comunicação nos seguintes termos (e-STJ fl. 51):
+Indefiro o pedido de retificação do cálculo, visto que, para fins de progressão de regime, deve ser considerada como data-base a data da última prisão, que no caso ocorreu em 04/04/17. Ademais, em relação ao período de 10/12/08 a 04/08/16, verifica-se que foi lançado no cálculo, promovendo alterações na data do término da pena e na data da previsão de benefícios; logo, também nesse ponto não merece reparos.
+Assim, homologo o cálculo de penas de Abrahão Lincoln da Silva, recolhido na Penitenciária Tacyan Menezes de Lucena de Martinópolis, para que surta seus efeitos legais.
+A Corte a quo ao negar provimento ao recurso de agravo em execução, fundamentou a decisão com base nas razões assim expostas (e-STJ fl. 72):
+Com efeito, como bem ressaltado nas contrarrazões, e também no parecer da douta Procuradoria Geral de Justiça, o período de prisão "foi corretamente descontado do total das penas em execução para, após, ser calculada a fração de progressão de regime. Registra-se, tal como mencionado pelo Magistrado, o desconto da pena na forma requerida pela Defesa é aplicado na remição, incidindo a redução pelos dias remidos após o cálculo da fração para a progressão. Na detração, como dito, o desconto é feito do total das penas. Portanto, não se verifica, ao menos por ora, qualquer retificação a ser feita no cálculo" (fls. 52 e 61).
+Sendo assim, nenhum reparo comporta a decisão impugnada.
+Ante o exposto, nega-se provimento ao agravo.
+Conforme se verifica, os entendimentos das instâncias ordinárias estão de acordo com a orientação jurisprudencial deste Tribunal Superior, pois, nos casos em que o apenado foi solto durante o curso do processo e é preso para iniciar o cumprimento de pena, a data da prisão preventiva não deve ser considerada como termo inicial para a obtenção de benefícios atinentes à execução da pena. Assim, a fixação de data-base para benefícios pressupõe o início efetivo do cumprimento da pena.
+Confiram -se:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE PARA FINS DE PROGRESSÃO DE REGIME. DATA DA ÚLTIMA PRISÃO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da uníssona jurisprudência desta Corte Superior, "seja no caso de unificação de penas, ou de crime único, deve ser considerada, para obtenção de futuros benefícios carcerários, a data da última prisão, sob pena de se proclamar, como pena efetivamente cumprida, o período em que ele permaneceu em liberdade" (AgRg no HC n. 756.257/GO, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023).
+2. No presente caso, o Juízo das execuções não se valeu da unificação das penas ou da data da última falta grave para fixar a data-base relativa à progressão de regime, como quer fazer parecer a defesa. As instâncias ordinárias apontaram, corretamente, a data da última prisão para a concessão do benefício, tendo em vista que o ora agravante cumpria pena em regime aberto quando cumprido o mandado prisional para dar início à execução de nova condenação. Precedente.
+3. Agravo regimental desprovido (AgRg no HC n. 898.807/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/5/2024, DJe de 23/5/2024, grifamos).
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. EXECUÇÃO PENAL. DATA-BASE PARA FINS DE FUTUROS BENEFÍCIOS. DIA DA ÚLTIMA PRISÃO. PACIENTE POSTO EM LIBERDADE NO CURSO DO PROCESSO. ACÓRDÃO IMPUGNADO EM CONSONÂNCIA COM OS PRECEDENTES DESTA CORTE. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. RAZÕES QUE NÃO INFIRMARAM NENHUM DOS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido (AgRg no HC n. 872.352/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DATA-BASE. DIA DA ÚLTIMA PRISÃO. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS. AUSÊNCIA DE REQUISITOS OBJETIVOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. No caso, o Tribunal de Justiça manteve o entendimento do Juízo da execução, pois incabível utilizar, como data-base ou termo inicial para o cálculo da progressão de regime, a data em que se iniciou a prisão provisória, tendo em vista que, após esta, sobreveio um período de liberdade, sendo preso novamente em razão da efetiva condenação, na data de 4/6/2022, para cumprimento da pena definitiva, e que o período da prisão provisória será computado para fins de detração para reduzir a base de cálculo da progressão de regime, de forma a minorar a quantidade de pena necessária para obtenção da benesse.
+3. O acórdão impugnado é harmônico com a jurisprudência desta Corte, firmada no sentido de que, ainda que não se trate de unificação de penas, mas de crime único, deve ser considerada, para obtenção de futuros benefícios carcerários, a data da última prisão, sob pena de se proclamar, como pena efetivamente cumprida, o período no qual ele permaneceu em liberdade.
+4. Agravo regimental improvido (AgRg no HC n. 840.942/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024, grifamos ).
+Observa-se que o recurso não traz argumentos novos capazes de alterar o entendimento anteriormente firmado.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
