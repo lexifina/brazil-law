@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por BENTOSUL DISTRIBUIDOR DE ALIMENTOS LTDA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 197):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. PIS E A COFINS CONFORME AS ALÍQUOTAS ESTABELECIDAS PELO DECRETO Nº 11.322/2022. REVOGAÇÃO PELO DECRETO 11.374/2023. ANTERIORIDADE. ADC 84.
+1. O Decreto 11.374/2023, que revogou o Decreto 11.322/2022, manteve as alíquotas de PIS/COFINS incidentes sobre receitas financeiras, inclusive decorrentes de operações realizadas para fins de hedge, auferidas pelas pessoas jurídicas sujeitas ao regime de apuração não-cumulativa, nos termos da disposição contida no artigo 1º do Decreto nº 8.426/2015 - 0,65% (sessenta e cinco centésimos por cento) e 4% (quatro por cento), respectivamente, as alíquotas da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS.
+2. Não tendo havido a majoração ou instituição de tributo, não houve violação aos princípios da anterioridade nonagesimal, da segurança jurídica e da não surpresa.
+3. O Supremo Tribunal Federal, ao apreciar a medida cautelar na ADC 84, não determinou a suspensão dos processos que versem sobre a controvérsia tratada no presente feito.
+A parte recorrente aponta violação dos arts. 1º, 2º e 6º da Lei de Introdução às Normas do Direito Brasileiro (LINDB).
+Alega que o acórdão recorrido, ao entender que o Decreto 11.274/2023 manteve as alíquotas das contribuições ao PIS e à COFINS praticadas no período anterior, não havendo majoração ou instituição de tributo a atrair a aplicação do princípio da anterioridade nonagesimal, viola os arts. 1º, 2º e 6º da Lei de Introdução às Normas do Direito Brasileiro (LINDB), sobretudo ao reconhecer que o Decreto 11.374/2023 não possa ser equiparado a instituição ou aumento de tributo.
+Assinala que "não se pode alegar que o Decreto 11.322/2022 não esteve em vigor apenas por não ter efetivamente produzido efeitos, pois referido ato normativo tivera efeito até que outro o revogara (art. 2º da LINDB)" (fl. 219).
+Requer o provimento do recurso especial para que lhe seja concedido o direito de deixar de recolher as contribuições ao PIS e à COFINS sobre receitas financeiras com a majoração das alíquotas perpetradas pelo Decreto 11.74/2023.
+A parte adversa apresentou contrarrazões (fls. 259/260).
+O recurso foi admitido na origem (fls. 263/264).
+É o relatório.
+Neste caso, ao tratar da pretensão da parte recorrente, de redução pela metade das alíquotas do PIS e da COFINS sobre as receitas financeiras, o Tribunal de origem fundamentou (fls. 194/196):
+O Supremo Tribunal Federal, ao apreciar a Medida Cautelar na ADC 84, determinou a suspensão da eficácia das decisões judiciais que, de forma expressa ou tácita, tenham afastado a aplicação do Decreto 11.374/2023, não havendo, portanto, determinação de suspensão da tramitação dos processos interpostos com o objetivo de discutir o direito de aplicar o Decreto Decreto nº 11.322/2022, revogado pelo Decreto nº 13.374/2023.
+Assim, não é o caso de determinar a suspensão da presente ação até o julgamento definitivo da ADC 84, conforme requerido pela União.
+À propósito, nesse sentido, os julgados da Segunda Turma deste Regional: Apelação/Remessa necessária nº 5004127-66.2023.4.04.7201/SC e Apelação Cível nº 5004173- 46.2023.4.04.7107.
+Mérito
+Na hipótese, o impetrante objetiva a declaração do direito de recolher o PIS e a COFINS conforme as alíquotas estabelecidas pelo Decreto nº 11.322/2022 (0,33% e 2%, respectivamente).
+As alíquotas de PIS e COFINS incidentes sobre receitas financeiras, inclusive decorrentes de operações realizadas para fins de hedge, auferidas pelas pessoas jurídicas sujeitas ao regime de apuração não-cumulativa das referidas contribuições foram restabelecidas para 0,65% (sessenta e cinco centésimos por cento) e 4% (quatro por cento), respectivamente, pelo Decreto nº 8.426, de 01/04/2015 (art. 1º).
+O Decreto n.º 11.322/22, de 30 de dezembro de 2022, alterou a redação do art. 1º do Decreto nº 8.426/15, reduzindo as alíquotas para os percentuais de 0,33% (trinta e três centésimos por cento) e 2% (dois por cento), respectivamente, e produziria efeitos a partir de 1º de janeiro de 2023.
+O Decreto nº 11.374, de 1º de janeiro de 2023, revogou, dentre outros, o Decreto nº 11.322, de 30 de dezembro de 2022:
+Art. 1º Ficam revogados:
+(..)
+II - o Decreto nº 11.322, de 30 de dezembro de 2022;
+(..)
+No que interessa à controvérsia posta nos autos, estabelecem os artigos 150 e 195, da Constituição Federal:
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
+ ..
+III - cobrar tributos:
+ ..
+b) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou;
+c) antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou, observado o disposto na alínea b;
+Art. 195. A seguridade social será financiada por toda a sociedade, de forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais:
+(..)
+§6º As contribuições sociais de que trata este artigo só poderão ser exigidas após decorridos noventa dias da data da publicação da lei que as houver instituído ou modificado, não se lhes aplicando o disposto no art. 150, III, "b"
+Acerca do princípio da anterioridade:
+"A ideia de anterioridade da lei visa a garantir que o contribuinte não seja surpreendido com um novo ônus tributário de uma hora para outra, sem que se possa preparar para a nova carga tributária, ou seja, concretiza um comando que tem como fundamento a segurança jurídica e como conteúdo a garantia da certeza do direito, assegurando o conhecimento prévio da lei. A anterioridade, portanto, sempre se relaciona com inovação legislativa relativa à instituição ou majoração de tributo." (PAULSEN, Leando. Direito Tributário - Constituição e Código Tributário à luz da doutrina e da jurisprudência, 16a ed., 2014, Livraria do Advogado, p. 213).
+O STF, na ADC 84, ajuizada pelo Presidente da República para declarar a constitucionalidade dos arts. 1º, II; 3º, I; e 4º, do Decreto 11.374/2023, os quais repristinam dispositivos do Decreto 8.426/2015, anteriormente à alteração promovida pelo Decreto 11.322/2022, referentes às alíquotas da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins incidentes sobre receitas financeiras auferidas pelas pessoas jurídicas sujeitas ao regime de apuração não cumulativa das referidas contribuições, a medida cautelar concedida foi referendada para suspender a eficácia das decisões judiciais que, de forma expressa ou tácita, tenham afastado a aplicação do Decreto 11.374/2023 e, assim, possibilitar o recolhimento da contribuição para o PIS/Cofins pelas alíquotas reduzidas de 0,33% e 2%, respectivamente, até o exame de mérito desta ação.
+Importante transcrever o que segue do voto condutor:
+Ora, o dispositivo em comento é inequívoco no sentido de que o princípio da anterioridade nonagesimal impõe a existência de um prazo de 90 dias entre a lei que institui ou majora um tributo e o início de sua vigência. 3
+(..)
+Logo, verifico, ainda em juízo sumário, que o Decreto 11.374/2023 não pode ser equiparado a instituição ou aumento de tributo e, por isso, não viola os princípios da segurança jurídica e da não surpresa, na medida em que o contribuinte já experimentava, desde 2015, a incidência das alíquotas de 0,65% e 4%. Destarte, não há falar em quebra da previsibilidade ou que o contribuinte foi pego desprevenido.
+A Segunda Turma desta Corte tem inadmitido recursos dos contribuintes em situações semelhantes: AG 5009219-94.2023.4.04.0000, AC 5001353-51.2023.4.04.7205 e AC 5000919- 62.2023.4.04.7205.
+Nesse contexto, tendo em conta que o Decreto nº 11.374/2023, que revogou o Decreto nº 11.322/2022, não instituiu ou aumentou tributo, mas apenas manteve as alíquotas fixadas no artigo 1º do Decreto 8.426/2015, não houve violação aos princípios da anterioridade nonagesimal, da segurança jurídica e da não surpresa.
+Do acima exposto, verifico que a solução alcançada pelo Tribunal de origem decorre de fundamento eminentemente constitucional, qual seja, a interpretação conferida ao princípio constitucional da anterioridade nonagesimal, tal como estampado na decisão proferida pelo Supremo Tribunal Federal na medida cautelar na ADC 84/DF.
+Dessa forma, não se pode conhecer do recurso especial no ponto, sob pena de usurpação da competência constitucional do STF.
+Cito, a propósito, julgados desta Corte com esse entendimento: AREsp 2.729.546, relator Ministro Teodoro Silva Santos, data da publicação 27/9/2024; AREsp 2.683.070, relator Ministro Herman Benjamin, data da publicação 10/9/2024; REsp 2.119.318, relator Ministro Benedito Gonçalves, data da publicação 5/9/2024; AREsp 2.676.274, relator Ministro Gurgel de Faria, data da publicação 3/9/2024; AREsp 2.715.713, relator Ministro Herman Benjamin, data da publicação 30/8/2024; AREsp 2.672.643, relator Ministro Gurgel de Faria, data da publicação 20/8/2024.
+Ante o exposto, não conheço do recurso .
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+ EMENTA
