@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual o MUNICÍPIO DE OSÓRIO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fl. 191):
+APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. EXECUÇÃO FISCAL. DÉBITO NÃO TRIBUTÁRIO. PRESCRIÇÃO QUINQUENAL INTERCORRENTE CARACTERIZADA. INEQUÍVOCA CIÊNCIA DA FAZENDA PÚBLICA DA TENTATIVA INEXITOSA DE BLOQUEIO VIA BACENJUD. CORRETA EXEGESE DO ART. 40 DA LEI FEDERAL Nº 6.830/1980. MATÉRIA PACIFICADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO JULGAMENTO DO RESP Nº 1.340.553/RS - TEMA 566.
+1. No julgamento do Recurso Especial nº 1.340.553 - Tema 566, submetido à sistemática dos recursos repetitivos positivada no art. 1.036 do CPC/2015, o Tribunal da Cidadania explicitou a correta exegese do art. 40 Lei Federal nº 6.830/1980. Nesse compasso, para o que interessa no caso concreto, uniformizou-se naquela Superior Instância o entendimento de que a suspensão da execução fiscal pelo prazo de 1 (um) ano se inicia automaticamente com a intimação da Fazenda Pública da primeira tentativa infrutífera de citação ou de localização de bens penhoráveis e, findo esse prazo de suspensão, inicia-se automaticamente o prazo prescricional aplicável (de acordo com a natureza do crédito exequendo), durante o qual o processo deverá estar arquivado sem baixa na distribuição; por fim, consumado o prazo prescricional, caberá ao Juiz, depois de ouvida a Fazenda Pública, reconhecer, de ofício, a prescrição intercorrente e decretá-la de imediato.
+2. Caso em que a Fazenda Pública, em 13 de abril de 2012, tomou inequívoca ciência da tentativa inexitosa de bloqueio via BACENJUD, com o que se inaugurou, ope legis, o prazo ânuo de suspensão do processo. A partir de então não se verificou a prática de atos com algum alcance útil à localização de bens penhoráveis, de modo que a prescrição quinquenal intercorrente, de fato, se consumou em 13 de abril de 2018, o que veio a ser corretamente reconhecido na sentença hostilizada. Precedentes desta E. Corte.
+3. Execução fiscal extinta na origem.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte ora agravante alega que houve violação aos arts. 205 e 2.028 do Código Civil (CC), assim como ao art. 40, caput, §§ 1º, 2º e 4º da Lei 6.830/1980 e ao art. 174, parágrafo único, I, do Código Tributário Nacional (CTN).
+Sustenta, em síntese, que não houve prescrição intercorrente na execução fiscal e que o prazo prescricional a ser aplicado seria decenal.
+Requer que seja dado provimento ao recurso especial interposto.
+A parte adversa não apresentou contrarrazões.
+O recurso especial teve seu seguimento negado quanto à temática da prescrição intercorrente e não foi admitido no que diz respeito aos arts. 205 e 2.028 do CC, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Inicialmente, registro a inadmissibilidade do agravo em recurso especial no que concerne ao capítulo que teve seu seguimento negado pelo Tribunal de origem, tendo em vista ser cabível agravo interno, conforme assente nesta Corte:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. INADMISSÃO COM BASE NO ART. 1.030, I, B, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. DECISÃO QUE INADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+ ..
+II - Revela-se manifestamente inadmissível a interposição de Agravo em Recurso Especial para impugnar decisão mediante a qual o Recurso Especial teve seguimento negado (art. 1.030, I, b, do CPC/2015) porque o acórdão recorrido estaria em consonância com o entendimento fixado em recurso repetitivo, porquanto cabível agravo interno.
+III - É inviável a determinação de retorno dos autos ao tribunal de origem, para que o agravo em recurso especial interposto seja apreciado como agravo interno, porquanto na sistemática vigente deixou de existir dúvida objetiva acerca do recurso cabível. Precedentes das Turmas componentes da 1ª, 2ª e 3ª Seções desta Corte.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no AREsp n. 2.468.652/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+Preenchidos os requisitos de admissibilidade do agravo quanto aos demais tópicos, passo à análise do recurso especial.
+Verifico que os arts. 205 e 2.028 do CC não foram apreciados pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial porque não preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do CPC, o que não foi feito no caso dos autos.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
