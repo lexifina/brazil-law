@@ -1,0 +1,43 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CRIMINAL. CRIME CONTRA A SAÚDE PÚBLICA. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/06). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA.
+
+    PRELIMINAR. AVENTADA NULIDADE. SUSCITADA A IRREGULARIDADE NO PROCEDIMENTO DE BUSCA PESSOAL E VEICULAR. INSUBSISTÊNCIA. POLICIAIS MILITARES QUE AGIRAM MEDIANTE FUNDADAS SUSPEITAS REVELADAS PELO COMPORTAMENTO DO RÉU, QUE ESTAVA FUMANDO UM CIGARRO DE MACONHA. ALÉM DISSO, FORTE ODOR DE MACONHA PROVENIENTE DO AUTOMÓVEL EM QUE O RECORRENTE SE ENCONTRAVA. PRECEDENTES. TRÁFICO DE DROGAS, ADEMAIS, QUE SE TRATA DE CRIME PERMANENTE. EIVA INEXISTENTE. PREFACIAL AFASTADA.
+
+    MÉRITO. PLEITO DEFENSIVO ABSOLUTÓRIO E DESCLASSIFICATÓRIO. ALEGADA FRAGILIDADE PROBATÓRIA. TESES RECURSAIS RECHAÇADAS. SENTENÇA BEM FUNDAMENTADA. VERSÃO DEFENSIVA ISOLADA E CARENTE DE COMPROVAÇÃO. AUTORIA E MATERIALIDADE CARACTERIZADAS. APELANTE PRESO EM FLAGRANTE POR TRANSPORTAR E TRAZER CONSIGO SUBSTÂNCIAS ENTORPECENTES ILÍCITAS. APREENSÃO DE MACONHA, ALÉM BALANÇA DE PRECISÃO, PLÁSTICO FILME E VALOR EM DINHEIRO SEM COMPROVAÇÃO DE PROCEDÊNCIA LÍCITA. NARCOTRAFICÂNCIA EVIDENCIADA E CORROBORADA PELAS PROVAS COLIGIDAS NOS AUTOS. EFICÁCIA COMPROVATIVA DOS DEPOIMENTOS DOS POLICIAIS MILITARES ENVOLVIDOS NA OCORRÊNCIA NÃO DERRUÍDA. PRESUNÇÃO DE ATUAÇÃO PROBA DOS AGENTES DE SEGURANÇA PÚBLICA. DESCLASSIFICAÇÃO PARA O DELITO DE PORTE DE DROGAS PARA USO PESSOAL (ART. 28 DA LEI N. 11.343/06). IMPROCEDÊNCIA. CONDIÇÃO DE USUÁRIO QUE NÃO OBSTA A RESPONSABILIZAÇÃO PENAL PELA NARCOTRAFICÂNCIA. ATIVIDADE CRIMINOSA QUE, COMUMENTE, VISA À MANUTENÇÃO DO PRÓPRIO VÍCIO. CONDENAÇÃO MANTIDA.
+
+    DOSIMETRIA. PRIMEIRA FASE. PLEITO DE EXCLUSÃO DA FRAÇÃO DE AUMENTO. INVIABILIDADE. QUANTIDADE CONSIDERÁVEL DE MACONHA APREENDIDA (APROXIMADAMENTE 427G), AINDA QUE A NATUREZA NÃO SEJA A MAIS NOCIVA. MONTANTE QUE AUTORIZA A EXASPERAÇÃO DA PENA-BASE, NOS TERMOS DO ART. 42 DA LEI N. 11.343/06. UTILIZAÇÃO DO PATAMAR DE 1/6 (UM SEXTO) QUE SE MOSTRA PROPROCIONAL À HIPÓTESE. PEDIDO DE ALTERAÇÃO, OUTROSSIM, DO REGIME INICIAL DE CUMPRIMENTO PARA O SEMIABERTO. IMPOSSIBILIDADE EM RAZÃO DO QUANTUM DE PENA APLICADA E DA REINCIDÊNCIA DO RECORRENTE. EXEGESE DO ART. 33, §§2º E 3º, DO CÓDIGO PENAL.
+
+    RESTITUIÇÃO DO VALOR APREENDIDO. REQUERIMENTO QUE NÃO MERECE ACOLHIMENTO. ORIGEM LÍCITA NÃO COMPROVADA. PERDIMENTO MANTIDO.
+
+    REQUERIMENTO DE CONCESSÃO DO BENEFÍCIO DA GRATUIDADE DA JUSTIÇA. NÃO COMPROVAÇÃO DA ALEGADA HIPOSSUFICIÊNCIA FINANCEIRA, ÔNUS QUE LHE INCUMBIA. ADEMAIS, ACUSADO REPRESENTADO POR ADVOGADO CONSTITUÍDO EM TODO O PROCESSO, O QUE EVIDENCIA CAPACIDADE FINANCEIRA PARA ARCAR COM AS CUSTAS PROCESSUAIS.
+
+    RECURSO CONHECIDO E DESPROVIDO.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 3º, I e IV, e 5º, X, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Penal e Processual Penal. Inviolabilidade de domicílio. Ilicitude de provas. Violação dos princípios do contraditório e da ampla defesa. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula nº 279/STF). 2. Agravo regimental não provido” (ARE nº 1.197.962/RJ – AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 17/06/2019).
+
+    No mesmo sentido: ARE nº 1.175.278/RS-AgR-Segundo, Primeira Turma, Rel. Min. Luiz Fux, DJe de 25/02/2019; ARE nº 990.119/RS-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 22/02/2019 e ARE nº 1.017.861/SP-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 05/06/2017.
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 30 de outubro de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
