@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TRADITIO COMPANHIA DE SEGUROS (TRADITIO), atual nome de SUL AMERICA COMPANHIA NACIONAL DE SEGUROS, contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão impugnada.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, a TRADITIO alegou dissídio e violação do art. 1º da Lei n.º 12.409/2011; e Lei 13.000/2014; sustentando, em suma, a competência da Justiça Federal para julgar a ação diante do interesse da Caixa Econômica Federal (CEF) na demanda.
+Da competência
+Após o julgamento do RE n. 827.996/PR - Tema 1.011 pelo Supremo Tribunal Federal, ficaram estabelecidas as seguintes teses quanto à participação da CEF nos processos envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação e, consequentemente, quanto à competência da Justiça Federal para o processamento e o julgamento das ações dessa natureza:
+1) Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010): 1.1.) sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011; e 1.2) com sentença de mérito (na fase de conhecimento), podendo a União e/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ou provocada, no estágio em que se encontre, em qualquer tempo e grau de jurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997, devendo o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença"; e 2) "Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei 12.409/2011.
+No caso, o Tribunal de Justiça de Pernambuco, ao julgar o agravo de instrumento, afastou o interesse de CEF, mantendo a competência da Justiça Estadual ao afirmar que
+ ..  No que diz respeito à competência da Justiça Federal para processar e julgar o feito, a questão já se encontra dirimida a partir do momento em que a CEF peticiona informando que, por não se tratar de apólice pública com vinculação ao FCVS, não haveria interesse processual da empresa pública para o ingresso na lide.
+Assim, e nos moldes da Súmula nº 94 do TJPE, declara-se a competência da Justiça Estadual para dirimir a controvérsia narrada nos autos de origem (e-STJ, fl. 508 - sem destaques no original).
+Assim, a conclusão adotada no acórdão recorrido quanto a desvinculação do contrato de seguro ao FCVS e o desinteresse da CEF na lide, teve por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice das Súmulas n. 5 e 7, ambas do STJ.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER o recurso especial.
+Deixo de majorar os honorários porque incabível na espécie.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. SEGURO DE MÚTUO HABITACIONAL NO SFH. APÓLICES SEM GARANTIA PELO FCVS. COMPETÊNCIA. JUSTIÇA ESTADUAL. ALTERAÇÃO. IMPOSSIBILIDADE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N. 5 E 7, AMBAS DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
