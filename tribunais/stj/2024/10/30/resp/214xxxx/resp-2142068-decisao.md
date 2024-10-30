@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNICÍPIO DE ARARIPE, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ assim ementado (fls. 424/425):
+PROCESSUAL CIVIL. AGRAVO INTERNO EM REMESSA NECESSÁRIA. SENTENÇA QUE CONDENOU O MUNICÍPIO AO PAGAMENTO DE VALORES INFERIORES AO QUE PRECEITUA O ART. 496, § 3º, INCISO III, DO CPC/15. HIPÓTESE QUE DISPENSA O DUPLO GRAU DE JURISDIÇÃO. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+01. Mensurando-se a condenação do MUNICÍPIO DE ARARIPE  consistente no pagamento de "décimo terceiro salário, férias não gozadas acrescidas do terço constitucional, referente aos períodos de 08/12/2016 a 29/12/2016,06/03/2017 a 30/11/2017, 01/02/2018 a 31/12/2018, 01/01/2019 a 30/09/2019 e01/04/2020 a 31/12/2020"  verifica-se, com facilidade, que a mesma não ultrapassará 100 (cem) salários - mínimos, razão pela qual a Remessa Necessária não deve ser conhecida.
+02. De acordo com o entendimento assente no âmbito do STJ e desta eg. Corte, "não obstante a aparente iliquidez das condenações, se houver possibilidade de aferição por simples cálculos aritméticos, forçoso reconhecimento que se trata de verdadeira hipótese de dispensa de reexame", como é o caso dos autos.
+03. Logo, a mensuração dos valores devidos para fins de aferição da obrigatoriedade ou não do reexame não viola o art. 496, § 3º, do CPC/15, impondo-se pela manutenção da decisão monocrática agravada que não conheceu da Remessa Necessária.
+04. Agravo interno conhecido e desprovido. Decisão monocrática mantida.
+Não foram opostos embargos de declaração.
+A parte recorrente alega a ocorrência de violação ao art. 496, § 3º, inciso III, do Código de Processo Civil em relação aos seguintes aspectos (fls. 392):
+O acórdão não deixa dúvida de que a sentença é ilíquida. No entanto, entendeu-se pela dispensa da realização do reexame necessário, em razão do suposto valor da condenação.
+ ..
+Consigne-se a esse respeito, a vigente Súmula 490 do STJ:
+A dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a sessenta salários mínimos, não se aplica a sentenç as ilíquidas.
+É dizer, decisão que dispensa o reexame necessário, baseado em mera estimativa do valor da condenação, viola a dicção do inciso III, §3º, do art. 496 do Código de Processo Civil.
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 440/447).
+O recurso foi admitido na origem (fls. 487/491).
+É o relatório.
+A irresignação não merece prosperar.
+O Tribunal de origem, no julgamento do agravo interno interposto contra o acórdão que não conheceu da remessa necessária, assim se manifestou (fls. 427/429, destaquei):
+O cerne da controvérsia consiste em aferir a (im)possibilidade do conhecimento da Remessa Necessária, em razão de o decreto condenatório não ultrapassar o valor de alçada a qual alude o art. 496, § 6º, do CPC/15, mediante a niensuração do quantum devido, sem que haja valor certo e devido indicado na sentença.
+Da exordial, extrai-se que o valor da causa corresponde a R$ 30.017,85 (trinta mil e dezessete reais e oitenta e cinco centavos), sendo a sentença de procedência proferida em 28 de janeiro de 2022 (fls. 344/350 dos autos principais), ocasião em que o salário mínimo vigente era de R$ 1.212,00 (um mil, duzentos e doze reais).
+Assim, mensurando-se a condenação do MUNICÍPIO DE ARARIPE  consistente no pagamento de "décimo terceiro salário, férias não gozadas acrescidas do terço constitucional, referente aos períodos de 08/12/2016 a 29/12/2016,06/03/2017 a 30/11/2017, 01/02/2018 a 31/12/2018, 01/01/2019 a 30/09/2019 e01/04/2020 a 31/12/2020"  verifica-se, com facilidade, que a mesma não ultrapassará 100 (cem) salários-mínimos, razão pela qual a Remessa Necessária não deve ser conhecida.
+De acordo com o entendimento assente no âmbito do Superior Tribunal de Justiça (STJ) e desta eg. Corte, "não obstante a aparente iliquidez das condenações, se houver possibilidade de aferição por simples cálculos aritméticos, forçoso reconhecimento que se trata de verdadeira hipótese de dispensa de reexame", como é o caso dos autos:
+ ..
+Logo, a mensuração dos valores devidos para fins de aferição da obrigatoriedade ou não do reexame não viola o art. 496, § 3º, do CPC/15, impondo se pela manutenção da decisão monocrática agravada que não conheceu da Remessa Necessária.
+Diante do exposto, CONHEÇO DO AGRAVO INTERNO, para NEGAR LHE PROVIMENTO, mantendo inalterada a decisão monocrática agravada.
+Acerca da dispensa da remessa necessária em razão do valor da condenação da Fazenda Pública, o entendimento desta Corte Superior é de que, se o valor da sucumbência puder ser aferido mediante simples cálculo aritmético, a iliquidez não prejudica a dispensa da remessa necessária.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 489 DO CPC. NÃO OCORRÊNCIA. SENTENÇA ILÍQUIDA. CPC VIGENTE. NOVOS PARÂMETROS. CONDENAÇÃO OU PROVEITO ECONÔMICO INFERIOR A MIL SALÁRIOS MÍNIMOS. REMESSA NECESSÁRIA. DISPENSA. PROVIMENTO NEGADO.
+1. Verifica-se que " n ão há falar em afronta aos arts. 489, § 1º, e 1.022 do CPC/2015  Código de Processo Civil , por omissão ou vício de fundamentação no provimento jurisdicional recorrido, (i) quando a parte agravante nem sequer opôs embargos de declaração para fins de sanar o vício apontado em sede de recurso especial e (ii) quando a Corte local pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo" (AgInt no AREsp 2.443.850/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, "após vigência do novo estatuto processual, tem firmado entendimento de que a elevação do limite para conhecimento da remessa necessária significa uma opção pela preponderância dos princípios da eficiência e da celeridade, e não obstante a aparente iliquidez das condenações, se houver possibilidade de aferição por simples cálculos aritméticos, forçoso reconhecimento que se trata de verdadeira hipótese de dispensa de reexame" (AgInt no REsp 1.916.025/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/3/2022, DJe de 21/3/2022).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.897.319/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/5/2024, DJe de 24/5/2024, destaquei.)
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SENTENÇA ILÍQUIDA. NOVOS PARÂMETROS DO CPC/2015. CONDENAÇÃO OU PROVEITO ECONÔMICO INFERIOR À MIL SALÁRIOS MÍNIMOS. VALORES AFERÍVEIS POR SIMPLES CÁLCULOS ARITMÉTICOS. DISPENSA DA REMESSA NECESSÁRIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte Especial, no julgamento do Recurso Especial n. 1.101.727/PR, submetido ao rito do art. 543-C do Código de Processo Civil de 1973, firmou entendimento segundo o qual o reexame necessário de sentença proferida contra a União, os Estados, o Distrito Federal, os Municípios e suas respectivas autarquias e fundações de direito público (art. 475, § 2º, do CPC/1973) é regra, admitindo-se sua dispensa nos casos em que o valor da condenação seja certo e não exceda a 60 (sessenta) salários mínimos.
+III - Tal entendimento foi ratificado com o enunciado da Súmula n. 490/STJ: "a dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a sessenta salários mínimos, não se aplica a sentenças ilíquidas".
+IV - No entanto, esta Corte, após vigência do novo estatuto processual, tem firmado entendimento de que a elevação do limite para conhecimento da remessa necessária significa uma opção pela preponderância dos princípios da eficiência e da celeridade, e não obstante a aparente iliquidez das condenações, se houver possibilidade de aferição por simples cálculos aritméticos, forçoso reconhecimento que se trata de verdadeira hipótese de dispensa de reexame.
+V - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.916.025/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/3/2022, DJe de 21/3/2022, destaquei. )
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
