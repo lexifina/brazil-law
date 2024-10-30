@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2024 a 30/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT IMPETRADO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. SÚMULA N. 691/STF. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com a orientação consolidada na Súmula n. 691 do Supremo Tribunal Federal, aplicável nesta Corte por analogia, não se conhece de habeas corpus impetrado contra decisão do Relator que indefere a liminar em outro writ requerido na origem, sob pena de supressão de instância. No entanto, havendo, na decisão impugnada, ilegalidade manifesta, abuso de poder ou teratologia, as Cortes Superiores têm entendido pela possibilidade de superação do mencionado óbice processual.
+2. No caso, a custódia cautelar do agravante está, em princípio, justificada para a garantia da ordem pública, em virtude da especial gravidade dos fatos, evidenciada a partir da expressiva quantidade de substância entorpecente apreendida. Precedentes.
+3. A controvérsia ora apresentada depende de aprofundamento do próprio mérito do writ, devendo-se reservar primeiramente ao Tribunal impetrado sua análise, sendo vedado a esta Corte Superior adiantar-se nesse exame, usurpando, de forma indevida, a competência da instância de origem.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JHONES SOUZA LIMA contra decisão da lavra da Presidência desta Corte Superior de Justiça, que indeferiu liminarmente o habeas corpus, com fundamento no art. 21-E, inciso IV, c/c o art. 210, ambos do RISTJ.
+Consta nos autos que o agravante foi preso em flagrante delito no dia 06/04/2024, convertida a custódia em preventiva, tendo sido posteriormente denunciado como incurso nos arts. 33 e 35, ambos da Lei n. 11.343/2006.
+Nas razões do regimental, alega a Defesa que deve ser superado o entendimento consolidado n a Súmula n. 691 do Supremo Tribunal Federal, pelos seguintes motivos:
+a) ausência dos requisitos autorizadores da prisão preventiva e de fundamentação idônea do decreto prisional;
+b) o réu é potador de obesidade grau 2, dor torácica e transtorno de ansiedade generalizada, razão pela qual faz jus à prisão domiciliar;
+c) o agravante não participou da prática delitiva, apenas estava consertando o veículo em que a droga foi encontrada;
+d) o custodiado é primário, mecânico, não se dedica à atividade criminosa e possui quatro filhos/enteados adolescentes, sendo o único provedor da casa.
+Pleiteia, ao final, a reconsideração da decisão agravada ou a sumissão do feito ao Órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT IMPETRADO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. SÚMULA N. 691/STF. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com a orientação consolidada na Súmula n. 691 do Supremo Tribunal Federal, aplicável nesta Corte por analogia, não se conhece de habeas corpus impetrado contra decisão do Relator que indefere a liminar em outro writ requerido na origem, sob pena de supressão de instância. No entanto, havendo, na decisão impugnada, ilegalidade manifesta, abuso de poder ou teratologia, as Cortes Superiores têm entendido pela possibilidade de superação do mencionado óbice processual.
+2. No caso, a custódia cautelar do agravante está, em princípio, justificada para a garantia da ordem pública, em virtude da especial gravidade dos fatos, evidenciada a partir da expressiva quantidade de substância entorpecente apreendida. Precedentes.
+3. A controvérsia ora apresentada depende de aprofundamento do próprio mérito do writ, devendo-se reservar primeiramente ao Tribunal impetrado sua análise, sendo vedado a esta Corte Superior adiantar-se nesse exame, usurpando, de forma indevida, a competência da instância de origem.
+4. Agravo regimental não provido.
+VOTO
+A súplica não prospera.
+De acordo com a orientação consolidada na Súmula n. 691 do Supremo Tribunal Federal, aplicável nesta Corte por analogia, não se conhece de habeas corpus impetrado contra decisão do Relator que indefere a liminar em outro writ requerido na origem, sob pena de supressão de instância.
+No entanto, havendo, na decisão impugnada, ilegalidade manifesta, abuso de poder ou teratologia, as Cortes Superiores têm entendido pela possibilidade de superação do mencionado óbice processual.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SÚMULA N. 691 DO STF. DECISÃO QUE INDEFERIU LIMINARMENTE O PEDIDO. TERATOLOGIA OU FALTA DE RAZOABILIDADE NÃO EVIDENCIADAS DE PLANO. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular n. 691 do Supremo Tribunal Federal (precedentes).
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no HC n. 892.673/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024).
+Na hipótese, não se verifica a existência de ilegalidade manifesta apta a ensejar a concessão da ordem pleiteada.
+Em princípio, a tese de negativa de autoria não comporta sequer conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via eleita. A propósito: AgRg no HC n. 880.124/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024; AgRg no HC n. 882.438/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.
+No tocante aos requisitos da segregação provisória, observo que o Juízo de primeiro grau, ao converter a prisão em flagrante em preventiva, consignou, in verbis (fl. 274; grifamos):
+Em relação ao fumus comissi delicti, a materialidade encontra-se demonstrada pela documentação carreada, notadamente, depoimentos do condutor e das testemunhas de apresentação (Num. 112503767 - Pág. 6/11), auto / termo de exibição e apreensão (Num.
+112503767 - Pág. 29), Laudo nº 2024.06.000072-QUI (Num. 112503767 - Pág. 32/33), Laudo provisório de constatação de substância entorpecente (Num. 112503767 - Pág. 34), fotografias (Num. 112503767 - Pág. 44/48). Essas peças de informação também convencem acerca dos indícios de autoria, indicando o envolvimento dos flagranteados.
+Quanto ao periculum libertatis, verifica-se a necessidade de decretação da prisão preventiva dos flagranteados para garantir a ordem pública e a aplicação da lei penal. A medida constritiva de liberdade se impõe como forma de restaurar a paz social que foi violada em razão da gravidade em concreto do fato narrado, em que há indícios de tráfico de drogas em significativa quantidade (101,536 kg de substância do grupo Cannabinóides, entre os quais se inclui a substância Delta-a- THC - Delta9- 9Tethahidrocanabinol, princípio ativo do vegetal Cannabis Sativa L., popularmente conhecida como MACONHA - conforme laudo Num. 112503767 - Pág. 32/33) e associação para o tráfico de drogas.
+Como se oberva, a custódia cautelar do agravante está, prima facie, justificada para a garantia da ordem pública, em virtude da especial gravidade dos fatos, evidenciada a partir da expressiva quantidade de substância entorpecente apreendida.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO ADEQUADA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, NO CASO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, destacando-se a gravidade concreta da conduta do agravante, evidenciada pela apreensão de expressiva quantidade de droga, o que, nos termos da jurisprudência do Superior Tribunal de Justiça, justifica a custódia cautelar como forma de resguardar a ordem pública.
+2. Tendo sido concretamente demonstrada a necessidade da prisão preventiva do acusado, não se apresenta suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da prisão cautelar, como ocorre no caso.
+4. Agravo regimental não provido.
+(AgRg no HC n. 919.952/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+1. Sabe-se que o ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo vedado o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+2. Na espécie, a segregação preventiva encontra-se devidamente motivada, pois destacou o Magistrado de piso a gravidade concreta da conduta, extraída da quantidade e variedade de entorpecentes apreendidos, a saber, "825 porções de maconha, com massa líquida de 1.485,83g  um quilo, quatrocentos e oitenta e cinco gramas e oitenta e três centigramas , 16 porções de maconha, com massa líquida de 206,50g  duzentos e seis gramas e cinquenta centigramas , 609 porções de haxixe, com massa líquida de 37,57g  trinta e sete gramas e cinquenta e sete centigramas , 71 porções de haxixe, com massa líquida de 4,41g  quatro gramas e quarenta e um centigramas , 70 porções de cocaína, com massa líquida de 7,81g  sete gramas e oitenta e um centigramas , e sete porções de cocaína, com massa líquida de 1,15 g" (e-STJ fl. 182, grifei), além de "duas balanças de precisão, várias saquinhos de embalar sorvetes, rolo de papel filme, faca de cozinha e duas folhas de papel com anotações da movimentação dos entorpecentes". Portanto, a prisão cautelar está amparada na necessidade de garantia da ordem pública.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 933.700/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024).
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Por fim, quanto ao pedido de prisão domiciliar, não se constata nos autos, nessa análise sumária, a comprovação de que o agravante se encontra extremamente debilitado por motivo de grave estado de saúdo e a iimpossibilidade de receber tratamento no estabelecimento prisional.
+Ademais, a matéria depende de aprofundamento do próprio mérito do writ, devendo-se reservar primeiramente ao Tribunal impetrado sua análise, sendo vedado a esta Corte Superior adiantar-se nesse exame, usurpando, de forma indevida, a competência da instância de origem.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
