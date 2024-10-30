@@ -1,0 +1,57 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Estado do Ceará, em face do acórdão do Tribunal de Justiça do Estado do Ceará assim ementado:
+
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. REEXAME NECESSÁRIO E APELAÇÃO CÍVEL EM AÇÃO ORDINÁRIA C/C ANTECIPAÇÃO DE TUTELA. POLICIAL MILITAR. PARTICIPAÇÃO NO QUADRO DE ACESSO AO POSTO DE MAJOR DA POLÍCIA MILITAR DO ESTADO DO CEARÁ. TUTELA ANTECIPADA DEFERIDA. AUTOR NO POSTO DE MAJOR HÁ MAIS DE 14 ANOS. APLICAÇÃO DA TEORIA DO FATO CONSUMADO. SITUAÇÃO EXCEPCIONAL. PRINCÍPIOS DA RAZOABILIDADE, EFICIÊNCIA E SEGURANÇA JURÍDICA. PRECEDENTES DO STJ E DESTA CORTE DE JUSTIÇA. REEXAME  NECESSÁRIO CONHECIDO. APELAÇÃO CONHECIDA E NÃO PROVIDA. SENTENÇA MANTIDA.
+
+    1. Tratam os autos de reexame necessário e apelação cível interposta em face de sentença proferida pelo Juízo da 7ª Vara da Fazenda Pública de Fortaleza que julgou procedente a pretensão autoral, determinando que o Estado do Ceará reconheça o curso técnico profissional de explosivos como válido, para fins de ingresso do autor ao quadro de acesso de promoções da Polícia Militar do Estado do Ceará.
+
+    2. O cerne da demanda cinge-se, portanto, em averiguar a existência de legitimidade no direito da parte apelada em concorrer a vaga ofertada ao quadro de acesso ao Posto de Major da Polícia Militar do Estado do Ceará, considerando válido o Curso de Técnico Profissional em Explosivos, realizado na Colômbia, como equivalente ao Curso de Aperfeiçoamento de Oficiais (CAO).
+
+    3. Por outro lado, caso seja constatado que o militar não se encontrava habilitado para participar do referido quadro de acesso, investiga-se a possibilidade de incidência da teoria do fato consumado para sedimentar decisão precária, proferida em 16 de maio de 2006, que determinou a inclusão do nome do promovente, ora apelado, no quadro de acesso para efeito de concorrer a vaga para o posto de Major da Polícia Militar do Ceará (fls. 50/54).
+
+    4. Ainda que o promovente não tenha se desincumbido de demonstrar o preenchimento dos requisitos legais para que pudesse figurar no quadro de acesso ao posto de Major PM, certo é que em 23/06/2008 (fl. 94), informou que havia sido promovido ao posto de Major da Polícia Militar do Estado do Ceará e, inclusive,já se encontrava em preparo para chegar ao posto de Coronel da PM, o que autoriza, de forma excepcional, a aplicação da denominada "teoria do fato consumado".
+
+    7. Sobre a matéria, cumpre dizer que a jurisprudência do Superior Tribunal  de Justiça  é assente ao  enunciar  que  a denominada" teoria do fato consumado" não deve ser aplicada em casos amparados por medidas de natureza precária, como liminar e antecipação do efeito da tutela, não havendo que se falar, portanto, em situação consolidada pelo decurso do tempo. Ocorre que o próprio Superior Tribunal de Justiça, dadas as particularidades do caso concreto, tem reconhecido exceções à regra da inaplicabilidade da teoria do fato consumado.
+
+    8. Destarte, com o deferimento da antecipação de tutela no ano de 2006, o apelado obteve autorização para inclusão do seu nome no quadro de acesso ao posto de Major da Polícia Militar do Ceará. Isso significa que a situação se consolidou com o decorrer do tempo e outros atos administrativos foram praticados pelo Comando da PM/CE.
+
+    9. Diante do acima exposto, deve o Poder Judiciário, com fundamento nos princípios da razoabilidade, da eficiência e da segurança jurídica, reconhecer a validade do nome do promovente no quadro de acesso ao posto de Major da PM/CE, face a consolidação da situação tática, ao passo que a reversão desse quadro se mostra desarrazoada quando a restauração da estrita legalidade ocasionaria mais danos sociais que a manutenção da situação consolidada pelo decurso do tempo.
+
+    10. Sendo assim, o improvimento do recurso, consequente confirmação da sentença de primeiro grau, é medida que se impõe. Reexame necessário conhecido. Apelação cível conhecida e não provida. Sentença confirmada.”
+
+    Na minuta, sustenta-se violação dos arts. 5º, XXXVI, e 37, caput, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Nos termos da jurisprudência consolidada deste Supremo Tribunal Federal, a verificação da alegada ofensa ao direito adquirido, ao ato jurídico perfeito e à coisa julgada pressupõe o exame e a interpretação das normas infraconstitucionais aplicáveis ao caso, de tal modo que tal violação, se ocorresse, seria reflexa, o que não atende à exigência do art. 102, III, a, da Lei Fundamental. Nesse sentido:
+
+    "Recurso extraordinário representativo da controvérsia. Aplicação retroativa de lei mais benéfica às infrações de trânsito. Exegese das normas de trânsito. Interpretação realizada à luz das normas do Código Brasileiro de Trânsito revogado e do vigente. Matéria eminentemente infraconstitucional. Ausência de repercussão geral. 1. Não apresenta repercussão geral o recurso extraordinário que discute efeitos de normas de trânsito revogadoras e revogadas. 2. É pacífica a jurisprudência da Corte no sentido de que os conceitos dos institutos do direito adquirido, do ato jurídico perfeito e da coisa julgada não se encontram na Constituição Federal, senão na legislação ordinária, mais especificamente na Lei de Introdução às Normas do Direito Brasileiro. 3. Ausência de repercussão geral.” (RE 657.871-RG, Rel. Min. Dias Toffoli, Pleno, DJe 17.11.2014)
+
+    “PREVIDENCIÁRIO. REAJUSTE DE BENEFÍCIOS. ÍNDICES DE CORREÇÃO MONETÁRIA RELATIVOS AOS ANOS DE 1997, 1999, 2000, 2001, 2002 E 2003. CONSTITUCIONALIDADE. PERCENTUAIS SUPERIORES AO ÍNDICE NACIONAL DE PREÇOS AO CONSUMIDOR (INPC). REPERCUSSÃO GERAL CONFIGURADA. REAFIRMAÇÃO DA JURISPRUDÊNCIA. [...] 3. Incabível, em recurso extraordinário, apreciar violação ao art. 5º, XXXV e XXXVI, da Constituição Federal, que pressupõe intermediário exame e aplicação das normas infraconstitucionais pertinentes (AI 796.905-AgR/PE, Rel. Min. Luiz Fux, Primeira Turma, DJe de 21.5.2012; AI 622.814-AgR/PR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 08.3.2012; ARE 642.062-AgR/RJ, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 19.8.2011). 4. Agravo a que se conhece para, desde logo, negar seguimento ao recurso extraordinário, com o reconhecimento da repercussão geral do tema e a reafirmação da jurisprudência sobre a matéria.” (ARE 808.107-RG, Rel. Min. Teori Zavascki, Pleno, DJe 01.8.2014)
+
+    Por seu turno, da análise dos autos, verifica-se que o caso concreto não guarda identidade com a situação fática descrita no paradigma do Tema nº 476 da repercussão geral, no qual foi assentada a impossibilidade de manter-se em cargo público aquele que tenha sido reprovado em prova de concurso público, realizado com fundamento em provimento de caráter liminar após revogado.
+
+    Com efeito, no processo em exame, o agravado ingressou em juízo para garantir “o acesso para efeito de concorrer a vaga para o posto de Major da Polícia Militar do Ceará”, mediante o reconhecimento judicial do preenchimento dos requisitos para tanto, que havia sido negado pelo Estado. Realizado o curso de formação com resultado de aprovação, a Corte de origem, ao julgar o mérito da ação, decidiu que na situação específica dos autos, diante do longo decurso de tempo desde o acesso ao posto de Major da PM, em 2008, justifica-se a manutenção da patente do agravado.
+
+    A revisão das premissas adotadas pelo Tribunal de origem demandaria o revolvimento da moldura fática delineada, bem como a análise da legislação infraconstitucional local aplicável, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas nº 279 e 280/STF: “para simples reexame de prova não cabe recurso extraordinário” e “por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. POLÍCIA MILITAR. CONCURSO INTERNO. SARGENTOS. INGRESSO EM CURSO DE FORMAÇÃO DE OFICIAIS. PREENCHIMENTO DE 50% DAS VAGAS PELO CRITÉRIO DA ANTIGUIDADE. LEGALIDADE E ISONOMIA. ALEGAÇÃO DE VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. NORMAS EDITALÍCIAS. INTERPRETAÇÃO. IMPOSSIBILIDADE. PRECEDENTES. 1. Ausência de repercussão geral do tema relativo à suposta violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes, Tema 660, DJe de 1º/8/2013). 2. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional local, tampouco para a interpretação de normas editalícias. Incidência das Súmulas 279, 280 e 454 e 636 do STF. 3. Agravo interno não provido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 4. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1223462 AgR, Relator(a): LUIZ FUX (Presidente), Tribunal Pleno, DJe 17-11-2020)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. POLICIAL MILITAR DO ESTADO DE GOIÁS. PROMOÇÃO. PROCESSO SELETIVO PARA INGRESSO NO CURSO DE FORMAÇÃO DE OFICIAIS AUXILIARES. REQUISITOS. MOMENTO DA COMPROVAÇÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS DOS AUTOS E DE LEGISLAÇÃO LOCAL. INVIABILIDADE. SÚMULAS 279 E 280/STF. CONCURSO PÚBLICO. TEORIA DO FATO CONSUMADO. TEMA 476 DA REPERCUSSÃO GERAL. ACÓRDÃO OBJETO DO RE EM CONSONÂNCIA COM O PRECEDENTE DESTA CORTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Para se alterar as conclusões do acórdão recorrido, seria imprescindível o reexame do conjunto fático-probatório dos autos e da legislação local (Lei estadual 11.596/1991), atraindo-se os óbices das Súmulas 279 e 280 do Supremo Tribunal Federal. Precedentes. II - O acórdão recorrido não dissentiu da orientação consolidada no julgamento do RE 608.482/RN (Tema 476 da Repercussão Geral), de relatoria do Ministro Teori Zavascki, no sentido de que “não é compatível com o regime constitucional de acesso aos cargos públicos a manutenção no cargo, sob fundamento de fato consumado, de candidato não aprovado que nele tomou posse em decorrência de execução provisória de medida liminar ou outro provimento judicial de natureza precária, supervenientemente revogado ou modificado”. III - Agravo regimental a que se nega provimento.” (RE 1152202 AgR, Relator(a): RICARDO LEWANDOWSKI, Segunda Turma, DJe 13-05-2019)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 30 de outubro de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
