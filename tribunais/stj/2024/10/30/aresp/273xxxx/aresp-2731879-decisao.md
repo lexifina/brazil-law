@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por ARLINDO LEOPOLDINO E OUTROS, contra decisão que não admitiu o recurso especial dos insurgentes.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado (fl. 263, e-STJ):
+Apelação cível. Ação pauliana. Cédula de crédito bancário. Posterior doação pelo avalista. Dilapidação de patrimônio. Nulidade do ato. Desconstituição do negócio jurídico. Regresso do bem ao patrimônio do doador. Ainda que a anterioridade do crédito seja um dos requisitos para a configuração da fraude contra credores, juntamente com o (intenção de fraudar o credor) e o consilium fraudis eventus (dano ao credor), a jurisprudência vem reconhecendo que a anterioridade pode ser relativizada sedamni ocorrer a fraude predeterminada para atingir credores futuros, reduzindo o devedor à insolvência e, consequentemente, frustrando o direito de o credor receber o que lhe é de direito. Há necessidade de desconstituição do negócio jurídico de doação a fim de que o bem regresse ao patrimônio do doador. Recurso que se dá provimento.
+Os embargos de declaração foram rejeitados (fls. 294-300, e-STJ).
+Nas razões do recurso especial (fls. 302-313, e-STJ), os insurgentes alegam que o acórdão recorrido violou os seguintes dispositivos de lei federal: i) artigo 1022 do CPC, aduzindo omissão no julgado, e ii) artigo 158 do CC, alegando que não se encontram presentes os requisitos autorizadores da ação pauliana.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 435-437, e-STJ), dando ensejo a interposição do presente agravo (fls. 439-447, e-STJ).
+Foi apresentada contraminuta (fls. 452-459, e-STJ).
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. De início, afasta-se a afronta ao artigo 1022 do CPC, porquanto em suas razões recursais as partes recorrentes limitaram-se a apontar a existência de omissões genéricas em relação aos artigos indicados sobre os quais o Tribunal a quo deveria ter se pronunciado, sem indicar, contudo, quais foram os pontos omissos da decisão impugnada, tampouco a forma pela qual o dispositivo fora violado, o que atrai a incidência da Súmula 284 do STF.
+Assim, em prejuízo da compreensão da controvérsia, não foi demonstrada com clareza e precisão a necessidade de reforma da decisão, neste aspecto, incidindo no óbice previsto na Súmula n. 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO POSSESSÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS RÉUS .
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+1.1. O acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não há falar em negativa de prestação jurisdicional.
+2. Para alterar a conclusão do Tribunal de origem no sentido de que os autores/recorridos lograram êxito em comprovar os requisitos para a manutenção da posse, seria necessário promover o reexame do acervo fático- probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+3. A Corte Especial deste STJ firmou entendimento no sentido de que verificada a existência de decisões conflitantes versando sobre o mesmo bem jurídico e ambas transitadas em julgado, prevalece aquela que por último transitou em julgado, somente se admitindo a desconstituição da sentença acobertada pelo manto da coisa jugada por meio da ação rescisória. Incidência da S úmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.045.192/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM REC URSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SUMULA N. 284/STF. INDEFERIMENTO DE PROVA. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULAS N. 83 E 568 DO STJ. ÔNUS PROBATÓRIO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou- se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Ademais, "não se conhece da alegada violação do art. 1022 do CPC/2015, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF" (AgInt no AREsp n. 1.881.516/MG, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/3/2022, DJe de 24/3/2022).
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmulas n. 83 e 568 do STJ).
+4. Nos termos da jurisprudência desta Corte, "o magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade da produção de provas, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado" (AgInt no AREsp n. 2.050.458/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 28/11/2022, DJe de 30/11/2022).
+5. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+6. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+7. No caso concreto, o Tribunal de origem concluiu pela suficiência das provas apresentadas, bem como que a parte não se desincumbiu de seu ônus probatório. Entender de modo contrário demandaria nova análise dos demais elementos fáticos dos autos, inviável em recurso especial, ante o óbice da referida súmula.
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.258.466/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/9/2023, DJe de 21/9/2023.)
+Incide, no ponto, o óbice da Súmula 284/STF.
+2. Os recorrentes apontam ofensa ao artigo 158 do CC, alegando que não se encontram presentes os requisitos autorizadores da ação pauliana. A esse respeito, assim fundamentou o Tribunal de origem (fls. 250-252, e-STJ):
+A ação pauliana visa a desconstituir transferência fraudulenta de imóvel com a finalidade de furtar-se à expropriação de bens e submissão do bem alienado. A fraude contra credores não se confunde com simulação, apesar de serem semelhante, pois na simulação, também, existe prejuízo a terceiro.
+Na fraude contra credores não existe, propriamente, simulação. Na simulação, as partes mancomunam-se para simular um negócio, aparentemente, normal, mas que não visa a produzir o efeito que juridicamente deveria produzir. Na fraude contra credores não se simula nada.
+O ato é explícito. Não há disfarce algum. Na fraude contra credores, segundo a firme doutrina brasileira, a vítima é específica, qualificada, que é o credor preexistente, ou seja, é um credor que existia antes de se cometer o ato de fraude.
+(..)
+Assim, os requisitos indispensáveis para a configuração da pretendida fraude contra credores são diminuição patrimonial do devedor que conduz à insolvência em prejuízo dos seus credores com o preenchimento dos seguintes requisitos: I) a anterioridade do crédito; II) o dano ao credor (eventus ); III) a intenção de fraudar o credor ( ).
+(..)
+A apelante afirma que seu crédito é anterior ao negócio fraudulento entabulado, e que os apelados era conhecedores da dívida com a instituição financeira apelante e que tinham conhecimento da possibilidade de insolvência.
+Pois bem, é incontroversa a relação jurídica entre as partes, procedente da Cédula de Crédito Bancário n. 0035001767, firmada em 11/12/2017. Também é fato inquestionável que os apelados Arlindo e Maria Elena transferiram o bem aos apelados Assuero Franca Leopoldino e Danieli Moura da Silva (fls. 92/94). Analisando os autos de origem, verifico que a CCB foi emitida em 11/12/2017, o apelado Arlindo tornou-se inadimplente em 20/2/2019, quando deixou de quitar sua obrigação, qual seja, quitar a parcela da cédula, como devidamente esclarecido pelo juiz.
+Em que pese os reclamos da apelante, andou bem o juiz ao asseverar que ausente o primeiro requisito no caso em debate, a anterioridade do crédito, visto que a doação do bem aos apelados, referidos anteriormente, se realizou 5/11/2018. Portanto, sendo a alienação indicada realizada em 2018 e a CCB firmada em 2017, não há elementos aptos à comprovação da fraude sugerida.
+Muito embora a recorrente insista em afirmar que a prova da anterioridade do crédito em relação ao negócio jurídico que se pretende anular pode ser declarada antes da constituição do crédito, não é o que ensina o art. 158, §2º, do Código Civil, transcrito acima.
+Dessa forma, entendo que a sentença recorrida não merece retoques, haja vista não ter sido comprovada a fraude contra credores à anterioridade de crédito.
+Como se vê, derruir as conclusões a que chegou o Tribunal de origem, no sentido de ter se verificado as hipóteses necessárias ao ajuizamento ação pauliana e acolher a pretensão recursal, demandaria o reexame da matéria fática, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COMPETÊNCIA DA JUSTIÇA FEDERAL. ALEGAÇÃO DE NULIDADE TARDIA. AÇÃO PAULIANA. AUSÊNCIA DOS REQUISITOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA. FALTA DE PERTINÊNCIA TEMÁTICA COM A TESE DO ESPECIAL. SÚMULA N. 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. SEGUNDOS EMBARGOS DE DECLARAÇÃO. MULTA. CABIMENTO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Segundo jurisprudência desta Corte, "a suscitação tardia da nulidade, somente após a ciência de resultado de mérito desfavorável, configura a chamada nulidade de algibeira, rechaçada pelo Superior Tribunal de Justiça" (AgInt no AREsp 1401347/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/03/2020, DJe 31/03/2020).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4. No caso concreto, a reforma do acórdão recorrido, que entendeu pela ausência tanto da interligação entre a presente ação e a da Justiça Federal quanto dos requisitos da ação pauliana, demandaria revolvimento do conjunto fático-probatório, vedado em sede de recurso especial.
+5. É firme a orientação do STJ de que a impertinência do dispositivo legal apontado como violado, no sentido de ser incapaz de infirmar o aresto recorrido, revela a deficiência das razões do recurso especial, fazendo incidir a Súmula n. 284 do STF (AgRg no AREsp n. 546.537/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/10/2015, DJe 4/11/2015).
+6. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+7. Segundo a jurisprudência desta Corte Superior, "a reiteração dos argumentos já repelidos de forma clara e coerente configura o caráter protelatório a ensejar a aplicação da multa do art. 538, parágrafo único, do CPC/73 (1026, § 2º, do CPC/15)" (AgInt no AREsp 1113020/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020).
+8. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.590.951/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/10/2020, DJe de 26/10/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ANÁLISE DA IMPRESCINDIBILIDADE DAS PROVAS PRETENDIDAS PELA PARTE E DA DISTRIBUIÇÃO DO ÔNUS DA PROVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AÇÃO PAULIANA. PROVA DA SOLVÊNCIA. ÔNUS DO DEVEDOR. DOAÇÃO A FILHOS. CIÊNCIA INEQUÍVOCA DA FRAUDE CONTRA CREDORES. INEXIGÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, a análise das razões apresentadas pelos agravantes quanto à imprescindibilidade das provas pretendidas por eles e quanto à errônea distribuição do ônus da prova demandaria o revolvimento do conjunto fático-probatório, o que é vedado em sede de recurso especial.
+3. Na ação pauliana, incumbe ao devedor provar a própria solvência.
+Precedentes.
+4. Não mais se exige a ciência inequívoca da fraude para anular a doação de bem celebrada entre pais e filhos operada em fraude contra credores. Precedentes.
+5. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.401.474/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 9/9/2019, DJe de 16/9/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADIÇÃO DE TESE. INOVAÇÃO NO RECURSO. AÇÃO PAULIANA. ANULAÇÃO DE ESCRITURA PÚBLICA DE COMPRA E VENDA DE IMÓVEL. FRAUDE CONTRA CREDORES. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ.
+1. Não se admite a adição de teses não expostas no recurso especial em sede de agravo interno, por importar em inadmissível inovação no recurso.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 343.318/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/8/2017, DJe de 8/8/2017.)
+Incide, no ponto o óbice da Súmula 7/STJ.
+3 . Ante o exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
