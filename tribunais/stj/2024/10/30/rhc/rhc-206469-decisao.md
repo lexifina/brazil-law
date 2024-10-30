@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por MARIANA FOGAÇA MARCELO WATANABE em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que a recorrente foi condenada às penas de 8 anos e 4 meses de reclusão no regime fechado, de pagamento de 82 dias-multa e de indenização mínima às vítimas no importe de R$ 1.986.350,00, como incursa nas sanções do art. 171, caput, por 138 vezes, c/c o art. 71, ambos do Código Penal, tendo sido concedido o direito de recorrer em liberdade.
+Interposta apelação pela defesa , a Corte local negou provimento ao recurso. Inadmitido o recurso especial, não se conheceu do agravo em recurso especial, tendo sido certificado o trânsito em julgado em 8/5/2024 (fl. 18).
+A recorrente sustenta que, apesar de ser mãe de uma criança de 4 anos de idade, o Juízo de primeira instância indeferiu o pedido de prisão domiciliar.
+Aduz que o crime imputado não envolve violência, tampouco foi cometido contra o filho, e que não é associada a organizações criminosas.
+Salienta que preenche todos os requisitos necessários para a concessão da prisão domiciliar.
+Ressalta que o menor necessita dos cuidados da mãe e que deve ser observado o princípio da fraternidade.
+Requer, liminarmente e no mérito, a concessão de prisão domiciliar, ainda que mediante a aplicação de medidas cautelares alternativas.
+É o relatório.
+Acerca da matéria, assim consta no acórdão recorrido (fls. 18-20):
+Como é cediço, o deferimento da prisão domiciliar à condenada genitora de crianças menores de 12 (doze) anos não é automático mormente se o cumprimento da pena se iniciará em regime fechado, não sendo possível, pela via estreita deste writ, antecipar sua eventual viabilidade concreta em detrimento do oportuno exame pelo juiz natural, inclusive sob pena de supressão de instância.
+E conforme visto acima, Mariana se encontra em liberdade, afigurando-se imprescindível o cumprimento do mandado de prisão para expedição da guia de recolhimento definitiva e início do processo executivo, nos termos dos artigos 674 do CPP5; 105 da LEP; e 468, II, das NJCGJ, consoante a remansosa jurisprudência do C. STJ.
+Conquanto seja possível excepcionar tal entendimento em casos específicos como inclusive enunciado na jurisprudência do C. STJ sobre o tema, não se vislumbra qualquer demonstração de particularidade da situação da paciente que justifique tal exceção.
+Logo, nos limites da discussão autorizada no habeas corpus, não há como reconhecer qualquer constrangimento ilegal capaz de justificar a providência pretendida, como inclusive opinou a d. Procuradoria Geral de Justiça (fls. 99/105) ao analisar detalhadamente o caso concreto, in verbis:
+ ..  A ordem de prisão é legal e imprescindível ao cumprimento da pena definitiva no regime inicial fechado, não se configurando constrangimento ilegal. Como sabido, o cumprimento da pena criminal definitiva é sujeita ao comando de inderrogabilidade.
+Parece acertada a decisão de 1º Grau, ainda quando se considera que, se e quando a paciente for presa, compete ao MM. Juízo de Execução Criminal (LEP, art. 66) examinar a situação futura da paciente em relação às necessidades da criança, à luz das circunstâncias fáticas concretas do momento futuro. (Grifei.)
+Como se observa, entendeu a Corte local que o deferimento de prisão domiciliar a condenada genitora de criança menor de 12 anos de idade não é automático, principalmente quando foi fixado regime fechado, tendo ressaltado que não é possível, "pela via estreita deste writ, antecipar sua eventual viabilidade concreta em detrimento do oportuno exame pelo juiz natural, inclusive sob pena de supressão de instância" (fl. 19).
+Nesse contexto, tendo o Tribunal de origem concluído pela impossibilidade de concessão do pedido defensivo, haja vista a via estreita do habeas corpus e a ausência de exame da matéria pelo Juízo natural, torna-se inviável a análise da questão diretamente pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Não debatida a questão pelas instâncias ordinárias, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe 16/12/2020).
+Nesse sentido, destaca-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. NÃO CONFIGURADA. ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE DE INTER ROMPER OU REDUZIR ATIVIDADE DE GRUPO CRIMINOSO. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES MAIS BRANDAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO NÃO PROVIDO.
+1. A prisão preventiva foi ordenada e mantida pelas instâncias ordinárias, nos termos do art. 312 do Código de Processo Penal, notadamente para a garantia da ordem pública.
+2. No caso, a periculosidade da paciente foi revelada em minuciosa investigação levada a efeito no âmbito da Operação ARAITAK, uma vez que integraria associação criminosa estruturalmente ordenada e com emprego de arma de fogo, ligada ao à facção KATIARA, voltada para a prática de tráfico de drogas e de armas em vários Municípios do Estado da Bahia, desempenhando a função de Olheira/Apoio Operacional, subordinada diretamente a gerente de pista, ficando responsável por informar sobre a movimentação de viaturas policiais e repassar informações sobre membros da facção rival, além de fornecer sua conta bancária para depósitos referentes à venda de drogas.
+2. O alegado excesso de prazo para a formação da culpa não foi sequer apreciado pelo Tribunal estadual, o que impede o exame da matéria por esta Corte, sob pena de indevida supressão de instância.
+3. Condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a prisão cautelar ou autorizar medidas cautelares alternativas quando há nos autos elementos hábeis que autorizam sua manutenção, como ocorre no caso.
+4. Agravo regimental não provido.
+(AgRg no HC n. 905.056/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/8/2024, DJe de 23/8/2024 - grifei .)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. DECISÃO MONOCRÁTICA DE DESEMBARGADOR. NÃO EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. NÃO CONHECIMENTO.
