@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por Luis Henrique Barcellos Martins de Oliveira contra o acórdão do Tribunal Regional Federal da 2ª Região que negou provimento ao Agravo Interno no Habeas Corpus n. 50052693420234020000 (fl. 539):
+AGRAVO INTERNO. HABEAS CORPUS. NÃO CONHECIMENTO DO WRIT. ANÁLISE DE ALEGAÇÕES QUE IMPLICAM A REVISÃO DO QUE JÁ FOI DECIDIDO POR ESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. A apelação interposta, ao ser julgada, substitui a sentença recorrida. Este é o chamado efeito substitutivo do recurso como se verifica no art. 1008 do CPC, segundo o qual "o julgamento proferido pelo tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso", aplicável à espécie por força do art. 3º do CPP.
+2. A competência para a análise, na estreita via do habeas corpus, de eventual nulidade do feito originário, após ter sido proferido ato por este Tribunal Regional Federal da 2ª Região, passa a ser do Superior Tribunal de Justiça, a teor do art. 105, I, c, da CF.
+3. Ademais, as provas e documentos obtidos no âmbito da medida cautelar de afastamento de sigilo bancário estão ligados às contas bancárias utilizadas pelo próprio acusado, uma vez que são de sua titularidade. Portanto, a defesa tinha pleno acesso aos meios necessários para obter tais informações e apresentá-las como elemento de prova, caso julgasse relevante, sem a necessidade de afastamento do sigilo bancário.
+4. Agravo interno desprovido.
+Consta dos autos que o recorrente foi condenado, em primeiro grau, à pena de 11 anos, 1 mês e 22 dias de reclusão pela prática do crime previsto no art. 312 do Código Penal (por 3 vezes, em continuidade delitiva) e pelo delito previsto no art. 1º da Lei n. 9.613/1998.
+O TRF/2ª Região deu parcial provimento a Apelação n. 0505273-06.2015.4.02.5101, interposta pelo réu, absolvendo-o do crime previsto no art. 1º, V, da Lei n. 9.613/1998, reduzindo a pena a 4 anos de reclusão em relação ao delito previsto no art. 312 do CP; e deu parcial provimento ao recurso do Ministério Público Federal para fazer incidir a agravante do art. 62, II, do Código Penal (fls. 194/195).
+O Tribunal de origem deu provimento aos embargos de declaração opostos pela defesa para diminuir a valor do dia-multa ao mínimo legal de 1/30 do salário mínimo (fl. 232).
+A defesa sustenta a nulidade da sentença condenatória por cerceamento de defesa, uma vez que lhe foi negado acesso aos dados obtidos em medida cautelar de afastamento de sigilo bancário.
+Requer o provimento do recurso ordinário e a concessão da ordem de habeas corpus para o fim de anular a sentença proferida pelo Juízo da 3ª Vara Federal Criminal do Rio de Janeiro e, por conseguinte, também o acórdão, cessando, com isso, todos os seus efeitos jurídicos e a consequente reabertura da instrução criminal para que, vindo aos autos o resultado da medida cautelar de afastamento do sigilo bancário, seja determinada a abertura de vista às partes para a devida manifestação.
+O parecer do Ministério Público Federal é pelo não provimento do recurso ordinário (fls. 572/575).
+É o relatório.
+O inconformismo não merece prosperar.
+Primeiro, como bem observado pelo Parquet Federal, o Tribunal de origem não conheceu do writ, por entender que, com o julgamento da apelação, estaria encerrada sua jurisdição, o que impede o conhecimento da matéria, nesta via, sob pena de supressão de instância.
+De todo modo, não há falar em manifesta ilegalidade, a ser sanada de plano, tendo em vista que é possível extrair da sentença (fls. 41/170) que a condenação se baseou na análise de depoimentos testemunhais, mensagens eletrônicas, notas fiscais emitidas pelo Hospital Prontocor e auditoria realizada pelos Correios para firmar a culpa do réu, bem como, nas informações de fls. 408/413, o Juízo de Primeiro grau ressaltou que os dados obtidos na quebra de sigilo bancário ora questionada não foram utilizados contra Luis Henrique, mas apenas no oferecimento de denúncia contra o corréu Carlos Vaisman, conforme também ficou devidamente demonstrado no parecer do Ministério Público Federal (fls. 574/575).
+Ademais, o acolhimento da tese recursal demandaria ampla incursão no acervo probatório, o que não se mostra possível na via eleita.
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. PECULATO. ARGUIÇÃO DE NULIDADE DA SENTENÇA CONDENATÓRIA POR CERCEAMENTO DE DEFESA. NEGATIVA DE ACESSO AOS DADOS OBTIDOS EM QUEBRA DE SIGILO BANCÁRIO. SUPRESSÃO DE INSTÂNCIA. TESE NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. CONDENAÇÃO BASEADA EM ELEMENTOS AUTÔNOMOS. PROVAS NÃO UTILIZADAS PELA ACUSAÇÃO CONTRA O RÉU. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+Recurso ordinário improvido.
