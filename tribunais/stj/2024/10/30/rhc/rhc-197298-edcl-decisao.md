@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LUIZ GABRIEL SOUZA RIBEIRO, contra decisão de fls. 140-146 (e-STJ) que negou provimento ao recurso em habeas corpus.
+Neste recurso, o embargante sustenta, em síntese, a existência de erro material no julgado, porquanto a decisão embargada mencionou, por equívoco, que o Ministério Público teria proferido parecer em sentido contrário, quando, na verdade, o Parquet opinou favoravelmente pela revogação da prisão preventiva com a fixação de medidas cautelares diversas.
+Argumenta que a decisão contrária ao parecer do Ministério Público implica manter a prisão preventiva de ofício, violando o sistema acusatório.
+Pleiteia o acolhimento dos embargos declaratórios para sanar o vício apontado, concedendo a ordem com a fixação de medidas cautelares diversas.
+É o relatório.
+Decido.
+Consoante disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente em julgado.
+No mesmo sentido, esta Corte possui entendimento de que "são cabíveis embargos declaratórios quando houver, na decisão embargada, contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e pela jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado" (EDcl no AgRg no RHC n. 163.279/RS, relator Ministro Jesuíno Rissato (desembargador Convocado do Tjdft), Quinta Turma, DJe de 30/5/2022).
+Da análise dos autos, observa-se que ocorreu um erro material na decisão embargada.
+No caso, a decisão embargada consignou que o Ministério Público Federal opinou pelo desprovimento do recurso. Contudo, conforme parecer acostado às fls. 132-138 (e-STJ), verifica-se que o Parquet se manifestou pelo parcial provimento do recurso, a fim de substituir a prisão preventiva por alguma ou algumas das medidas cautelares de que trata o art. 319 do Código de Processo Penal, nos termos do art. 282, §6º, do CPP, com a redação dada pela Lei no 12.403/2011.
+Assim, onde se lê: "Prestadas as informações (e-STJ, fls. 115--129), o Ministério Público Federal manifesta-se pelo desprovimento do recurso" (e- STJ, fl. 141)", leia- se: "Prestadas as informações (e-STJ, fls. 115-129), o Ministério Público Federal manifesta-se pelo parcial provimento do recurso " (e- STJ, fl. 141)".
+No mais, quanto a tese de violação ao sistema acusatório, convém registrar que os embargos não se prestam para revisão, por mero inconformismo da parte, de decisão já tomada e tampouco é incabível formulação de novas teses em sede de aclaratórios, por constituir indevida inovação recursal.
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE INCÊNDIO EM MATA. ART. 41 DA LEI N. 9.605/1998. COMPETÊNCIA. ALEGAÇÃO DE NULIDADE EM EMBARGOS DE DECLARAÇÃO NA APELAÇÃO. INDEVIDA INOVAÇÃO RECURSAL. NULIDADE DE ALGIBEIRA. PRECLUSÃO DA MATÉRIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É incabível a formulação de novas teses em embargos declaratórios, por constituir indevida inovação recursal.
+2. Em respeito à segurança jurídica e à lealdade processual, o STJ tem orientado que mesmo as nulidades absolutas devem ser arguídas em momento oportuno e sujeitam-se à preclusão. Precedentes.
+3. Segundo a jurisprudência desta Corte Superior, "o fato de não ter alegado o vício na primeira oportunidade caracteriza a chamada nulidade de algibeira" (HC n. 617.877/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 7/12/2020).
+4. No caso concreto, a defesa suscitou a incompetência da Justiça Estadual para processar e julgar o crime de incêndio em mata apenas em embargos declaratórios opostos contra o acórdão de apelação. A parte teve, ao menos, quatro oportunidades de alegar a suposta nulidade: na resposta à acusação, na audiência de instrução, nas alegações finais e nas razões de apelação. Todavia, ao suscitar a tese, de forma inédita, nos embargos de declaração contra o acórdão prolatado pela Corte local no julgamento da apelação, além de configurar inadmissível inovação recursal, constitui nulidade de algibeira.
+5. Ainda que assim não fosse, a pretendida aplicação do tema n. 648 de repercussão geral julgado pelo STF seria inviável, por se tratar de situação distinta da ora em exame. Deveras, o precedente qualificado se refere a delitos praticados contra a fauna, diversamente do caso concreto, que trata do delito previsto no art. 41 da Lei n. 9.605/1998, o qual integra a seção de crimes contra a flora. Portanto, ainda que se pudesse superar os óbices já evidenciados anteriormente, a aplicação do tema n. 648 do STF nestes autos só seria possível se constatada, de plano e inequivocamente, a subsunção do caso concreto com a tese fixada pela Suprema Corte - o que não se observa.
+6. Agravo regimental não provido."
+(AgRg no HC n. 661.815/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+"PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. INEXISTÊNCIA. MERA PRETENSÃO DE REVISÃO DO JULGADO. IMPOSSIBILIDADE. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Hipótese em que o embargante reitera os argumentos já devidamente enfrentados por esta Corte, impondo-se, portanto, a rejeição dos embargos.
+3. Não compete ao Superior Tribunal de Justiça o enfrentamento de dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Embargos de declaração rejeitados."
+(EDcl no AgRg no HC n. 792.345/PB, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/8/2023, DJe de 15/8/2023).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. VÍCIOS INTEGRATIVOS INEXISTENTES. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI. REITERAÇÃO DELITIVA. CONTEMPORANEIDADE. INOVAÇÃO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão.
+2. Não há falar em vício no acórdão embargado, pois a matéria foi decidida com a devida e clara fundamentação, no sentido de que o decreto prisional apresenta fundamentação idônea, lastreada na gravidade do crime praticado, evidenciada no modus operandi - mercancia de drogas destinada a menor de idade -, bem como diante da reiteração delitiva, tendo em vista a existência de ação penal em andamento por crime da mesma natureza.
+3. "No âmbito de agravo regimental e de embargos de declaração, não se admite que a Parte, pretendendo a análise de teses anteriormente omitidas, amplie objetivamente as causas de pedir e os pedidos formulados na petição inicial ou no recurso" (AgRg no RHC n. 144.661/BA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 20/4/2021, DJe 30/4/2021.)
+4. Embargos de declaração rejeitados."
+(EDcl no AgRg no RHC n. 176.296/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/8/2023, DJe de 18/8/2023).
+"EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. ALEGADA OBSCURIDADE. REDISCUSSÃO DA MATÉRIA. SUPRESSÃO DE INSTÂNCIA. INVIÁVEL. EMBARGOS REJEITADOS.
+I - Nos termos do art. 619 do CPP, serão cabíveis embargos declaratórios quando houver ambiguidade, obscuridade, contradição ou omissão no julgado. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência. Não constituem, portanto, recurso de revisão.
+II - Não é possível o reexame da matéria já apreciada, na via dos declaratórios, que não se prestam para modificar o julgado, em vista do inconformismo do embargante.
+III - O julgador não é obrigado a se manifestar sobre todas as teses expostas no recurso, ainda que para fins de prequestionamento, desde que demonstre os fundamentos e os motivos totalmente suficientes que justificaram suas razões de decidir. Precedentes.
+Embargos de declaração rejeitados."
+(EDcl no HC 513.790/PB, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 17/10/2019, DJe 25/10/2019).
+Dessa forma, entendo que o embargante não demonstrou a ocorrência de qualquer vício, pretendendo rediscutir a decisão embargada.
+Ante o exposto, acolho parcialmente os embargos de declaração, apenas para correção de erro material, sem efeitos modificativos, nos termos da fundamentação acima delineada.
+Publique-se. Intime m-se.
+EMENTA
