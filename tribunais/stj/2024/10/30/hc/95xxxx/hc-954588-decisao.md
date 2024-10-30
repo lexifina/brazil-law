@@ -1,0 +1,14 @@
+DECISÃO
+CLAUDINEI DOS SANTOS CORDEIRO alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n. 0009871-66.2024.8.26.0502.
+Consta dos autos que o Juízo da Execução Penal indeferiu o pedido de livramento condicional ao apenado. A defesa busca a concessão do benefício, por considerar que estão satisfeitos os requisitos exigidos em lei, inclusive o subjetivo, uma vez que "o cometimento de uma única falta disciplinar - JUNHO/203 - não pode ser fundamento para qualquer indeferimento" (fl. 5).
+Requer, em liminar e no mérito, a concessão do livramento condicional ou a determinação de exame criminológico para o exame do benefício.
+Decido.
+De início, destaco que a possibilidade de julgamento monocrático do habeas corpus, com fundamento no Tema Repetitivo n. 1.161.
+O apenado do regime semiaberto não preenche o requisito subjetivo para a antecipação direta de liberdade, em livramento condicional, ante o histórico de faltas disciplinares. Na guia penal, consta o registro de atos de indisciplina grave, em 28/7/2021 e médio, no dia 16/6/2023.
+Segundo a tese jurídica fixada pela Terceira Seção desta Corte no Tema Repetitivo n. 1.161: "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal" (REsp n. 1.970.217/MG, Rel. Ministro Ribeiro Dantas, Terceira Seção, DJe 1º/6/2023). 3. Agravo regimental não provido.
+Além da previsão objetiva de não cometimento de falta grave nos últimos 12 meses, a legislação também estabelece requisito subjetivo mais rigoroso para o livramento condicional, fase mais benéfica da execução e que não pressupõe a passagem pelos regimes semiaberto e aberto.
+Assim, a "análise do bom comportamento do apenado enquanto requisito do livramento condicional (art. 83, III, "a", do CP) deve considerar todo seu histórico prisional" (AgRg no REsp n. 2.017.532/TO, rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 2 4/10/2022).
+A exigência é proporcional à amplitude do benefício. Para alcançar a liberdade antecipada é imprescindível cumprir determinadas exigências, uma delas o bom comportamento durante a execução da pena. Seria inconsistente permitir que um reeducando do regime semiaberto com histórico de faltas disciplinares obtenha a antecipação de liberdade quando nem sequer preenche os requisitos para ser transferido ao regime aberto, principalmente quando considerado o objetivo da execução, de reintegração gradual e segura ao convívio social, de maneira a minimizar o risco de reincidência criminal.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
