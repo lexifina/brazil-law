@@ -1,0 +1,42 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por SANDRO CHARETTE contra acórdão prolatado, por unanimidade, pela 8ª Turma do Tribunal Regional Federal da 3ª Região no julgamento de apelação, assim ementado (fls. 254/255e):
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. AUSÊNCIA DE REDUÇÃO DA CAPACIDADE LABORATIVA PARA AS ATIVIDADES HABITUAIS. PREVALÊNCIA DO LAUDO PERICIAL JUDICIAL. IMPOSSIBILIDADE DE CONCESSÃO DO BENEFÍCIO.
+- A concessão do benefício de auxílio-acidente está condicionada ao preenchimento dos requisitos legais previstos no art. 86 da Lei nº 8.213/91
+- quais sejam, qualidade de segurado e redução da capacidade para o trabalho que habitualmente exercia em decorrência de acidente.
+- Constatada pela perícia médica a inexistência de redução da capacidade laborativa para as atividades habituais, resta indevida a concessão do benefício.
+- Reconhecimento da improcedência do pedido formulado.
+Opostos embargos de declaração, foram rejeitados (fls. 289/298e).
+Com amparo no art. 105, III, a, da Constituição da República aponta-se ofensa aos arts. 86 da Lei n. 8.213/1991, sustentando estar devidamente comprovada mediante perícia técnica a redução da capacidade laborativa do segurado, ainda que em grau mínimo, o que lhe garante o direito à concessão do benefício, como já reconhecido na sentença.
+Sem contrarrazões, o recurso foi inadmitido (fls. 316/318e), posteriormente convertido em Recurso Especial (fl. 350e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No caso, o tribunal de origem afastou a sentença concessiva de auxílio-acidente ao fundamento de que o segurado apresenta déficits leves para a perda de movimentos do ombro esquerdo e joelho esquerdo, nos seguintes termos (fls. 246/255e):
+DO CASO DOS AUTOS
+A principal condição para deferimento do benefício não se encontra presente, uma vez que não comprovada a redução da capacidade laborativa da parte autora.
+Do que consta do laudo pericial anexado aos autos, já considerada a documentação médica particular acostada, a parte autora não apresenta qualquer limitação ou redução de sua capacidade para o exercício de suas atividades laborativas habituais.
+Frisou, o perito, que o autor sofreu uma fratura do úmero e tíbia esquerdos, para as quais houve necessidade de tratamento cirúrgico.
+Como evolução, apresenta déficit leve para a perda de movimentos do ombro esquerdo e em grau leve para o joelho esquerdo.
+Por fim, concluiu que: "Tal condição não se enquadra nos critérios determinados no decreto supracitado." (Id. 210198755).
+Desse modo, assiste razão a Autarquia ré, o benefício não deve ser concedido porque o autor sofreu limitações leves que não se enquadram nas disposições do Decreto n.º 3048/1999.
+Nem cabe argumentar que o juiz não se encontra vinculado ao laudo pericial, uma vez que não foram trazidos aos autos elementos hábeis a abalar as conclusões nele contidas.
+Nesse contexto, " a mera irresignação do segurado com a conclusão do perito ou a alegação de que o laudo é contraditório ou omisso, sem o apontamento de nenhuma divergência técnica justificável, não constituem motivos aceitáveis para a realização de nova " (9.ª Turma, perícia, apresentação de quesitos complementares ou realização de diligências Apelação Cível 5897223-19.2019.4.03.9999, rel. Desembargadora Federal Daldice Santana, e - DJF3 Judicial 1 de 03/03/2020). (Destaque meu)
+Com efeito, verifico que o acórdão recorrido está em confronto com entendimento pacificado nesta Corte no julgamento do Tema 416/STJ, segundo o qual a concessão do benefício de auxílio-acidente independe do nível do dano e, via de consequência, do grau do maior esforço.
+Nesse sentido:
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. COMPROVADA A INCAPACIDADE LABORATIVA PARA A ATIVIDADE HABITUALMENTE EXERCIDA. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ.
+I - Na origem, cuida-se de ação ajuizada em desfavor do Instituto Nacional do Seguro Social - INSS objetivando a concessão do benefício de auxílio-acidente.
+II - A Terceira Seção do STJ, no julgamento do REsp n. 1.109.591/SC, sob o regime de recursos repetitivos, vinculado ao Tema n. 416, firmou o entendimento que " e xige-se, para concessão do auxílio-acidente, a existência de lesão, decorrente de acidente do trabalho, que implique redução da capacidade para o labor habitualmente exercido. O nível do dano e, em consequência, o grau do maior esforço, não interferem na concessão do benefício, o qual será devido ainda que mínima a lesão".
+III - Havendo o Tribunal de origem, com lastro no conjunto probatório constante dos autos, concluído que houve a redução da capacidade laborativa do segurado para as atividades que exercia habitualmente, a inversão do julgado demandaria o revolvimento dos mesmos fatos e provas, o que é vedado na instância especial ante o óbice do enunciado n. 7 da Súmula do STJ. Precedentes.
+IV - Agravo em recurso especial parcialmente conhecido para, nessa parte, não conhecer do recurso especial.
+(AREsp n. 1.348.017/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/2/2019 - destaques meus);
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. DISACUSIA. ACÓRDÃO DE ORIGEM QUE CONCLUIU PELA INEXISTÊNCIA DE NEXO DE CAUSALIDADE. REVISÃO DA CONCLUSÃO ADOTADA NA ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Conforme decidido pela 3ª Seção desta Corte, no julgamento do Recurso Especial 1.095.523/SP, admitido como representativo da controvérsia (art. 543-C do CPC), "estando presentes os requisitos legais exigidos para a concessão do auxílio-acidente com base no art. 86, § 4º, da Lei n.º 8.213/91 - deficiência auditiva, nexo causal e a redução da capacidade laborativa -, não se pode recusar a concessão do benefício acidentário ao obreiro, ao argumento de que o grau de disacusia verificado está abaixo do mínimo previsto na Tabela de Fowler" (STJ, REsp 1.095.523/SP, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, DJe de 05/11/2009).
+II. No julgamento do Recurso Especial 1.109.591/SC, igualmente admitido como representativo da controvérsia (art. 543-C do CPC), a Terceira Seção deste Superior Tribunal de Justiça firmou o entendimento no sentido de que, para a concessão de auxílio-acidente, exige-se a existência de lesão, decorrente de acidente do trabalho, que implique a redução da capacidade laborativa, bem como que "O nível do dano e, em consequência, o grau do maior esforço, não interferem na concessão do benefício, o qual será devido ainda que mínima a lesão" (STJ, REsp 1.109.591/SC, Rel. Ministro CELSO LIMONGI (Desembargador Convocado do TJ/SP), TERCEIRA SEÇÃO, DJe de 08/09/2010).
+III. No caso, contudo, o Tribunal de origem analisou as provas dos autos, notadamente a perícia médica, e concluiu pela inexistência de prova do acidente de trabalho e do nexo causal entre o suposto acidente e as lesões sofridas. Diante desse quadro, a inversão do julgado, para se concluir pela eventual existência dos requisitos para a concessão do auxílio-acidente - como pretende o agravante - demandaria incursão na seara fático-probatória dos autos, inviável, na via eleita, a teor da Súmula 7 do STJ.
+IV. Agravo Regimental improvido.
+(AgRg no AREsp n. 446.477/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/10/2014.- destaques meus).
+Posto isso, com fundamento nos art s. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, para restaurar a sentença em todos os seus termos.
+Publique-se e intimem-se.
+EMENTA
