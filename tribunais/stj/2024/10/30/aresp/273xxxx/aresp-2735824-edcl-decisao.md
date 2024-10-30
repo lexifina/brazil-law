@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ADRIANA NERES ARAUJO contra a decisão que não conheceu do Agravo em Recurso Especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o Recurso Especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+Em que pese a fundamentação do decisum ora embargado apontar falta de prequestionamento e dissociação entre os pedidos e a causa de pedir, é inegável o erro de julgamento. A sucessão de erros não contribui para a entrega da prestação jurisdicional nem contribui para se fazer justiça. (fl. 1279)
+ ..
+Embora na apelação não haja menção expressa aos artigos 45, 76, § 1º, incisos I, II, e III, e 99, todos do Código de Processo Civil, a embargante suscita os fatos perante a Turma Julgadora da apelação, evidenciando a incapacidade laborativa sofrida por agressão de terceiro no local e horário de trabalho. E os referidos dispositivos do CPC dispõem sobre as partes do processo, autor, réu e terceiro.
+Nesse sentido, os dispositivos acima, todos do CPC ressaltam o autor e o réu, como partes do processo; bem como o "terceiro interveniente", como não parte do processo, sem definir o conceito de "terceiro", cuja tarefa ficou a cargo do dicionário mencionado na tese encartada nos autos ("DO ATO DE AGRESSÃO POR TERCEIRO"). (fl. 1280)
+ ..
+Ressalta-se nesse sentido que o TERCEIRO mencionado nos art 45, Caput, art 76, III e no art 99, Caput, CPC, é o agente causador do acidente em serviço por equiparação que gerou incapacidade laborativa na embargante. Esse fato não foi julgado pela Turma Julgadora, em que pese a tese robusta constante da Apelação e também nos embargos de declaração, razões pelas quais se maneja o Recurso Especial.
+Do exposto, não há razões para a incidência dos enunciados 211 da Súmula do STJ e 282 da Súmula do STF.
+Requer, pois, que o Decisum corrija o erro verificado no julgado, sob pena de falta de fundamentação na hipótese de manter o aresto irretocável, nos termos do no art 11, c/c art 489, II, § 1º, I, II, III, V e VI e § 2º, c/c art 1.022, I, CPC, c/c art 93, IX, CF, e, consequentemente, NULIDADE do V. Acórdão. (fl. 1282)
+ ..
+Do exposto, tanto na apelação quanto nos embargos de declaração a embargante arguiu o acidente em serviço por equiparação causado por terceiro e não há falar em falta de prequestionamento, inexistindo, portanto, razões para a incidência dos enunciados 211 da Súmula do STJ e 282 da Súmula do STF, pelo que REQUER o recebimento, processamento e provimento dos embargos. (fl. 1284)
+ ..
+Nesse sentido, restou clara e robusta a demonstração do prequestionamento em sede de apelação e de embargos de declaração, razão pela qual NÃO HÁ FALAR EM FALTA DE PREQUESTIONAMENTO, o que desmantela completamente o argumento de desprovimento do Agravo em Recurso Especial por suposta falta de prequestionamento. ALÉM DISSO, FICA COM CLAREZA SOLAR A DEMONSTRAÇÃO DE QUE AS RAZÕES DE PEDIR SÃO PERFEITAMENTE ALINHADAS E CORRESPONDENTES AOS PEDIDOS, motivos pelos quais NÃO PROCEDE A ALEGAÇÃO DE VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE, senão confiram-se: (fl. 1291)
+ ..
+Por isso, ao desprover o Agravo em Recurso Especial ("não conheço do Agravo em Recurso Especial") negando o prequestionamento robustamente discutido e alegando violação ao princípio da dialeticidade (razões recursais dissociadas do pedido - Súmula 284/STF) o decisum ora embargado padece de falta de fundamentação, o que é causa de nulidade, nos termos do art 11, CPC e art 93, IX, CF.
+Ora, é inegável o prequestionamento do acidente em serviço por equiparação causado por terceiro, assim como é inegável o erro in judicando que causa prejuízo irreparável à embargante, ante ao DESARRAZOADO, DESPROPORCIONAL E INJUSTO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+Do exposto, não há razões para a incidência dos enunciados 211 da Súmula do STJ e 282 da Súmula do STF, pelo que REQUER o recebimento, processamento e provimento dos embargos. (fl. 1293)
+Requer, assim, o conhecimento e o acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: ausência de prequestionamento e razões recursais dissociadas do pedido - Súmula 284/STF.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Outrossim, percebe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame ficou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do agravo em recurso especial, que obstou a abertura desta instância superior e a produção do efeito translativo, não havendo, portanto, que se cogitar da ocorrência de omissão sobre nenhuma matéria de fundo porventura tratada no recurso especial.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
