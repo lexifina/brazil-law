@@ -1,0 +1,40 @@
+DECISÃO
+Em análise, recurso especial interposto por AGENCIA NACIONAL DE SAÚDE SUPLEMENTAR contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. ANS. VALOR FIXADO DE ACORDO COM OS LIMITES PREVISTOS EM LEI.
+Hipótese em que o valor da multa aplicada não se mostra excessivo, pois fixado dentro dos parâmetros previstos na Lei nº 9.656/1998 e Resolução Normativa n.º 124/2006 da ANS.
+Sentença mantida por seus próprios fundamentos.
+Os sucessivos embargos de declaração foram julgados nos seguintes termos:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO NO JULGADO. ATRIBUIÇÃO DE EFEITOS INFRINGENTES. CARÁTER EXCEPCIONAL.
+1. A retificação de acórdão só tem cabimento nas hipóteses de inexatidões materiais, erros de cálculo, omissão, contradição ou obscuridade.
+2. Se o acórdão decidiu contrariamente às pretensões da parte, não será na via dos embargos declaratórios que buscará reformar o decisum, sob pena de se lhes atribuir efeitos infringentes, hipótese só admitida excepcionalmente.
+3. Na hipótese, o acórdão é omisso em relação à data de inicio de cobrança dos encargos moratórios.
+EMBARGOS DE DECLARAÇÃO. PREQUESTIONAMENTO.
+1. A jurisprudência admite a possibilidade de utilização dos embargos de declaração para fins de prequestionamento de matéria a ser decidida pelos Tribunais Superiores.
+2. Embargos de declaração acolhidos para fins de prequestionamento.
+Nas razões recursais, a recorrente aponta violação aos arts. 29, 30 e 37 da Lei 10.522/2002, art. 61, §1º, da Lei 9.430/1996 e arts. 389 e 406 do Código Civil, sustentando que os encargos de mora incidem a partir da data de vencimento da dívida, a saber, a notificação da decisão da primeira instância administrativa.
+Contrarrazões apresentadas.
+O Ministério Público Federal opina pelo não conhecimento do recurso.
+É o relatório.
+Passo a decidir.
+No caso, o Tribunal de origem fixou a contagem dos encargos moratórios a partir do trânsito em julgado da decisão administrativa que aplicou a multa.
+Ocorre que o entendimento adotado no acórdão recorrido não se alinha à orientação desta Corte e merece ser reformado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. MULTA ADMINISTRATIVA. INFRAÇÃO COMETIDA NA PRESTAÇÃO DE SERVIÇO DE SAÚDE SUPLEMENTAR. PRESCRIÇÃO INTERCORRENTE AFASTADA. VÍCIO NO PROCEDIMENTO NÃO CONSTATADO. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. NECESSIDADE DE REVOLVIMENTO DE MATERIAL FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. MANUTENÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+I - Na origem, trata-se ação de embargos à execução objetivando tutela jurisdicional da pretensão de nulidade da cobrança dos débitos inscritos na CDAs n. 4.002.000550/17-08, n. 4.002.00551/17-62, n. 4.002.00551/17-62 e n. 4.002.00551/17-62, lavrados nos Processos Administrativos n. 25780.005631/2010-96, n. 25773.009887/2012-23, n. 25780.008043/2014-38 e n. 25783.018595/2011-81, respectivamente, para apurar pretensas infrações cometidas pela operadora embargante na saúde suplementar, consistentes em negativa de procedimentos médicos. A sentença julgou o pedido improcedente. No Tribunal a quo, a apelação foi provida parcialmente para julgar parcialmente procedentes os embargos do devedor, acolhendo o excesso de execução apontado referente ao cálculo da multa de mora.
+ ..
+IV - No que concerne à alegada violação do art. 37-A da Lei n. 10.522/2002, do art. 61 da Lei n. 9.430/1996, e dos arts. 1º, 2º e 3º do Decreto-Lei n. 1.736/1979, sem razão a operadora recorrente, encontrando-se o aresto recorrido em consonância com o entendimento firmado nesta Corte Superior, no sentido de que "a interposição do recurso administrativo apenas pode ensejar a suspensão da exigibilidade da multa administrativa, mas não interfere no termo inicial dos encargos da mora, os quais incidem a partir do primeiro dia subsequente ao vencimento do prazo previsto para pagamento do crédito". Nesse sentido: AgInt no AREsp n. 1.716.010/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/9/2023, DJe de 28/9/2023, AgInt no REsp n. 1.638.268/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/2/2017, DJe de 1/3/2017 e REsp n. 1.411.979/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/6/2015, DJe de 5/8/2015.
+V - Agravo interno improvido (AgInt no REsp n. 2.129.797/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/6/2024, DJe de 19/6/2024).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR - ANS. MULTA ADMINISTRATIVA. JUROS DE MORA. TERMO INICIAL. ACÓRDÃO DE 2º GRAU EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Na origem, trata-se de Embargos à Execução opostos pela parte ora agravante, em face de Execução Fiscal, ajuizada pela Agência Nacional de Saúde Suplementar - ANS, "alegando prescrição intercorrente administrativa, ausência de infração, possibilidade de aplicação de advertência, falta de proporção e razoabilidade da sanção pecuniária e equívoco na fixação do termo inicial da mora". O Tribunal de origem deu parcial provimento ao recurso de Apelação, para julgar parcialmente procedentes os Embargos à Execução, fixando a constituição definitiva do crédito fiscal como termo inicial dos juros de mora.
+III. O acórdão de origem encontra-se em dissonância com o entendimento firmado pela Primeira e Segunda Turmas desta Corte, no sentido de que os juros de mora passam a incidir a partir do primeiro dia subsequente ao vencimento do prazo previsto para pagamento da multa administrativa, nos termos dos arts. 61, § 1º, da Lei 9.430/96 e 37-A da Lei 10.522/2002. Nesse sentido: STJ, AgInt no REsp 1.890.217/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 16/06/2023; AREsp 2.133.632/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 23/03/2023.
+IV. Estando o acórdão recorrido em dissonância com o entendimento atual desta Corte, deve ser mantida a decisão ora agravada, que deu provimento ao Recurso Especial da Agência Nacional de Saúde Suplementar - ANS, a fim de reconhecer que os juros de mora devem incidir a partir do primeiro dia subsequente ao vencimento do prazo previsto para o pagamento da multa administrativa.
+V. Agravo interno improvido (AgInt no REsp n. 2.047.358/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 30/10/2023, DJe de 6/11/2023).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRESCRIÇÃO INTERCORRENTE. PREQUESTIONAMENTO. AUSÊNCIA. ATIPICIDADE DA CONDUTA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ATO NORMATIVO INFRALEGAL. ANÁLISE. INVIABILIDADE. JUROS DE MORA. INCIDÊNCIA. TERMO INICIAL.
+ ..
+5. A interposição de recurso administrativo não afasta a incidência dos juros moratórios, ex vi do disposto no art. art. 37-A da Lei n. 10.522/2002, nos arts. 2º e 5º do Decreto-Lei nº 1.736/1979, os quais devem incidir a partir do primeiro dia subsequente ao vencimento do prazo previsto para o pagamento da multa administrativa, conforme disposição do art. 61, §1º, da Lei n. 9.430/1996.
+6. A impossibilidade de a autarquia dar início aos atos executivos, para fins de cobrança de seu crédito, antes da conclusão definitiva do processo administrativo, não altera a data do vencimento da dívida não tributária nem impede a constituição em mora do devedor, nos termos da legislação supramencionada.
+7. Agravo interno desprovido (AgInt no AREsp n. 1.494.736/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 29/5/2023, DJe de 2/6/2023).
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ e na Súmula 568/STJ, dou provimento ao recurso especial para reconhecer que os juros de mora devem incidir a partir do primeiro dia subsequente ao vencimento do prazo previsto para o pagamento da multa administrativa.
+Intimem-se.
+ EMENTA
