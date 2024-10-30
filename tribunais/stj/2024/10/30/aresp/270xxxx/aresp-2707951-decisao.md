@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NOTRE DAME INTERMÉDICA SAÚDE SÃO (NOTRE DAME) contra decisão que não admitiu seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, NOTRE DAME alegou, a par de dissidio jurisprudencial, a violação dos arts. 186, 187, 927 e 944 e seu parágrafo único, do Código Civil, ao sustentar que (1) não restou comprovado o alegado erro médico apto a ensejar a resparação civil; (2) o valor indenizatório não se coaduna com os princípios da razoabilidade e da proporcionalidade; e (3) a inexistência de dano material (e-STJ, fls. 378/396).
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, NOTRE DAME alegou, a par de dissidio jurisprudencial, a violação dos arts. 14, §1º e § 4º do CDC; e 373, I do CPC, por reputar não ter configurado o erro médico a ensejar a reparação cível.
+(1) Da configuração do dano moral e material
+Sobre o tema, o Tribunal bandeirante, ao julgar o recurso de apelação interposto pelo ora insurgente, reconheu a existência do ato ilícito, a responsabilidade de NOTRE DAME, e o correspondente dever de indenizar, pelos danos moral e material, base nas seguintes razões:
+No caso dos autos, a autora atribui responsabilidade à ré pelos fatos expostos na inicial, em decorrência da relação contratual estabelecida entre as partes. Tais assertivas são suficientes para demonstrar a legitimidade. Ademais, como apontado pela representante do Ministério Público, a empresa requerida não está sendo processada como administradora de plano de saúde, mas sim como entidade mantenedora da unidade de pronto atendimento, como fornecedora aparente e real do serviço que ocasionou o fato danoso.
+Deve-se consignar, ainda, que em se tratando de relação de consumo, a responsabilidade entre os prestadores de serviço e fornecedores de produtos é solidária, nos termos do art. 7.º, parágrafo único, 18, caput, 19, caput, 25, § 1.º, todos do Código de Defesa do Consumidor. Assim, cabe ao consumidor escolher, na cadeia de consumo, contra quem demandar (sem prejuízo de eventual exercício de direito de regresso pelas vias autônomas).
+ ..
+Em consequência, no tocante à aferição da culpa, torna-se esta desnecessária, face à aplicação do regime consumerista, que incide na prestação do serviço particular de saúde. Não se pretende discutir eventual responsabilidade (esta sim, subjetiva) do profissional de saúde causador do dano, o que deve, se for o caso, ser feito em demanda de regresso, pela via autônoma. Trata-se, no caso em tela, de verdadeira responsabilidade objetiva por fato do serviço, prevista no Código de Defesa do Consumidor. Neste contexto apura-se, apenas, a ocorrência do dano e do nexo de causalidade.
+Feitas estas considerações, no mérito, os pedidos devem ser julgados PARCIALMENTE PROCEDENTES.
+Com efeito, o laudo pericial produzido por ocasião da apuração dos fatos na seara policial (fls. 23/24) deixa claro que "a vítima apresentou sintomas compatíveis com uma intercorrência de tratamento médico, produzida por agente perfurante (agulha de injeção) acarretando lesão corporal de natureza grave, pela incapacidade para as atividades habituais por mais de 30 dias". Da mesma forma, o relatório de exame diagnóstico (fls. 31) conclui pela existência de "processo neurológico periférico que acomete nervo ciático esquerdo, em fase de resolução. Salientando-se a intensa atividade reinervatória".
+A prova técnica produzida em juízo, igualmente, demonstrou a ocorrência do nexo causal entre a conduta e o dano, conforme conclusão do laudo pericial (fl. 271): "(..) Há nexo causal entre o dano sofrido e o mecanismo de trauma (injeção intramuscular) descrito em inicial (..)".
+Neste contexto, verifica-se, de todo o acervo documental que, de fato, a menor sofreu lesão no nervo ciático esquerdo decorrente da atuação médica, conforme narrado na inicial. Assim, não há dúvidas que a lesão sofrida pela menor decorreu da má prática médica, estando presentes, desta forma, a ocorrência do dano, a conduta e o nexo de causalidade.
+Em consequência, todas as despesas médicas e de saúde decorrentes do evento danoso devem ser ressarcidas. Tais aspectos, que compõem os danos materiais, devem ser objeto de oportuna liquidação pelo procedimento comum (artigo 509, inciso II, do Código de Processo Civil), pois há a necessidade de produção de provas específicas para cada despesa, inclusive eventuais despesas futuras. Como, mais uma vez apontado pelo órgão ministerial, nada indica que a ré tenha atuado de alguma forma para minorar os danos, o que é repreensível à luz da boa-fé objetiva.
+ ..
+No que se refere ao valor a ser arbitrado, registro que a indenização por danos morais deve ter por objetivo compensar a vítima pelo abalo subjetivo sofrido, como forma de minimizar as consequências psicológicas da conduta lesiva da parte contrária. Outrossim, possui caráter pedagógico, evitando-se a reiteração da conduta pela parte contrária. Neste contexto, o quantum da indenização, contudo, deve ser estabelecido de acordo com a razoabilidade, sem gerar o enriquecimento sem causa da parte que o pleiteia. No caso dos autos, o valor pleiteado pelos autores (R$ 30.000,00) mostra-se adequado para as finalidades indicadas. (e-STJ, fls. 317/320).
+Diante de tal cenário, era mesmo caso de reconhecer o vício no serviço prestado e condenar a apelante a indenizar a parte autora tanto pelos danos materiais quanto pelos danos morais havidos.
+Nesse contexto, a revisão da conclusão do julgado, com o consequente acolhimento da pretensão recursal exigiria o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. QUANTUM ARBITRADO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO PREJUDICADO.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+3. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.541.379/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. INDENIZAÇÃO. ERRO MÉDICO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIDADE OBJETIVA. FALHA NA PRESTAÇÃO DOS SERVIÇOS. CONFIGURAÇÃO. PRESSUPOSTOS. REVISÃO. INVIABILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. REDUÇÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. As instituições hospitalares respondem, direta e objetivamente, pelos defeitos nos serviços prestados, compreendidos como o fornecimento de recursos materiais e humanos auxiliares adequados à prestação dos serviços médicos e à supervisão do paciente.
+3. O hospital é responsabilizado, indireta e solidariamente, por ato culposo de médico vinculado à instituição.
+4. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+5. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.455.889/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+.
+(2) Do dissídio jurisprudencial
+Quanto ao apontado dissídio jurisprudencial, o entendimento pacífico desta Corte segue no sentido de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei.
+Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional. Precedente: AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO (Desembargador Convocado do TJ/BA), DJe 30/6/2010.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de NOTRE DAME INTERMÉDICA SAÚDE S.A., limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ERRO MÉDICO. FALHA NA PRESTAÇÃO DO SERVIÇO. CARACTERIZAÇÃO. INVERSÃO DE ENTENDIMENTO. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
