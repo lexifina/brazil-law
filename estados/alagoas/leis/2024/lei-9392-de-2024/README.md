@@ -1,0 +1,5 @@
+# Lei nº 9.392, de 29 de outubro de 2024, do Estado de Alagoas
+
+'ALTERA A LEI ESTADUAL N° 6.514, DE 23 DE SETEMBRO DE 2004, QUE DISPÕE SOBRE OS CRITÉRIOS E AS CONDIÇÕES QUE ASSEGURAM AOS OFICIAIS E PRAÇAS DA ATIVA DA POLÍCIA MILITAR E DO CORPO DE BOMBEIROS MILITAR DO ESTADO DE ALAGOAS, ACESSO NA HIERARQUIA MILITAR, E ALTERA A LEI ESTADUAL N° 8.671, DE 7 DE JUNHO DE 2022, QUE DISPÕE SOBRE O SISTEMA DE PROTEÇÃO SOCIAL DOS MILITARES DO ESTADO - SPSM/AL, E DÁ OUTRAS PROVIDÊNCIAS.''
+
+Fonte: Assembleia Legislativa (sapl.al.al.leg.br), <https://sapl.al.al.leg.br/norma/3171>; texto: <http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2024/3171/lei_no_9.392_de_29_de_outubro_de_2024__1.pdf>
