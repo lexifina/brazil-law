@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por FAGNER DE ALMEIDA FERREIRA, com fundamento na alínea "a" do art. 105, II, da CR/1988, em oposição a acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado (fls. ):
+"PROCESSUAL PENAL. HABEAS CORPUS. DECISÃO RECORRÍVEL POR RECURSO EM SENTIDO ESTRITO OU APELAÇÃO CRIMINAL. DESCABIMENTO. Em regra, não cabe habeas corpus contra decisão sujeita a recurso em sentido estrito ou apelação, sem prejuízo da concessão da ordem, ex officio, em casos de evidente ilegalidade. Nesse sentido é o entendimento da 5ª Turma deste Tribunal (TRF da 3ª Região, HC n. 5001098-12.2020.4.03.0000, Rel. Des. Fed. Mauricio Kato, j. 11.03.20; TRF da 3ª Região, HC n. 5033190-77.2019.4.03.0000, Rel. Des. Fed. Paulo Fontes, j. 10.03.20; TRF da 3ª Região. HC n. 5012827-06.2018.4.03.0000, Rel. Des. Fed. Mauricio Kato, j. 07.08.18). 2. não conhecido." (e-STJ, fl. 72)
+A parte recorrente aduz, em síntese, que foi condenada por juízo incompetente, já que o local de seu domicílio e o da apreensão dos produtos que importou é o Município de São Paulo/SP, não Osasco/SP, razão pela qual sofre evidente constrangimento ilegal. Aduz, ainda, não ter sido a defesa técnica intimada para se manifestar no conflito negativo de competência (n. 0000043-19.2017.403.0000).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não provimento do recurso (e-STJ, fls. 113-114).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Segundo consta do writ, o TRF3 fixou a competência da 1ª Vara Federal da Subseção Judiciária de Osasco/SP por prevenção, em razão de primeiro ter praticado ato de instrução processual, e não foi proposta exceção de incompetência pelo recorrente.
+A jurisprudência desta Corte Superior é no sentido de que "a competência territorial, por ser relativa, não gera nulidade dos atos processuais, circunstância que reforça a inexistência de ilegalidade passível de ser sanada na via eleita" ( RHC n. 93.161/PB , relator Ministro Jorge Mussi, Quinta Turma, julgado em 22/5/2018, DJe de 30/5/2018).
+Ante o exposto, com fundamento no art. 34, XVIII, "b ", do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
