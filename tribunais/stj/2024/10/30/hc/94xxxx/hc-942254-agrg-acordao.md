@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO DOMICILIAR. ARTIGO 197 DA LEP. REGIME FECHADO. IMPRESCINDIBILIDADE DOS CUIDADOS MATERNOS. REITERAÇÃO DELITIVA. PRÁTICA DE TRÁFICO DE DROGAS REITERADA NA PRSENÇA DO MENOR. RISCO AO DESENVOLVIMENTO DO MENOR. INVIABILIDADE. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, no qual se pleiteava a concessão de prisão domiciliar para apenada condenada por tráfico de drogas, sob a alegação de necessidade de cuidados ao filho incapaz.
+II. Questão em discussão
+2. A questão em discussão consiste na possibilidade de concessão de prisão domiciliar a apenada em regime fechado, considerando a necessidade de cuidados ao filho incapaz e a existência de condenação por tráfico de drogas.
+III. Razões de decidir
+3. A jurisprudência do STJ admite a concessão de prisão domiciliar em regime fechado apenas em casos excepcionais, quando a presença da mãe é imprescindível para os cuidados da criança ou pessoa com deficiência.
+4. No caso concreto, a apenada foi flagrada novamente na prática de tráfico de drogas em casa e na presença do filho. Risco para o menor. A traficância reiterada demonstra periculosidade e inviabiliza a concessão do benefício.
+5. A análise do pedido de prisão domiciliar requer reexame de provas, o que é vedado em sede de habeas corpus.
+6. Agravo regimental desprovido.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fl. 488).
+ ..  Cuida-se de Habeas Corpus impetrado em favor de ANTONIA NADIR DE CAMPOS em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+AGRAVO EM EXECUÇÃO. PRISÃO DOMICILIAR EXCEPCIONAL CONCEDIDA A APENADA CUMPRINDO PENA NO REGIME FECHADO. IRRESIGNAÇÃO MINISTERIAL.
+ALÉM DE NÃO SE ESTAR DIANTE DE HIPÓTESE AUTORIZADORA DA MEDIDA (PRISÃO DOMICILIAR), AS PARTICULARIDADES DO CASO NÃO RECOMENDAM O BENEFÍCIO, TENDO EM VISTA O MODUS OPERANDI (TRÁFICO DE DROGAS COMETIDO EM SUA RESIDÊNCIA, INCLUSIVE NA COMPANHIA DO FILHO) ADOTADO OUTRORA PELA RÉ QUE ENSEJOU AS CONDENAÇÕES PELAS QUAIS ATUALMENTE CUMPRE PENA E TENDO EM VISTA A NECESSIDADE DE ACAUTELAR-SE A SEGURANÇA E BEM- ESTAR DO INCAPAZ.
+SOB QUALQUER PRISMA QUE SE ANALISE A QUESTÃO, TEM- SE QUE NÃO SE ESTÁ DIANTE DE HIPÓTESE DE CONCESSÃO DA PRISÃO DOMICILIAR COM BASE NO ARTIGO 117, DA LEP, QUANTO MENOS HIPÓTESE EM QUE AUTORIZADA A CONCESSÃO DO BENEFÍCIO DE MODO EXCEPCIONAL, RAZÃO PELA QUAL IMPOSITIVA A CONCLUSÃO DE QUE INDADEQUADA A PRISÃO DOMICILIAR CONCEDIDA.
+AGRAVO PROVIDO.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, pois foram atendidos os requisitos necessários para concessão do benefício de prisão domiciliar à paciente, em razão de " ..  possuir filho incapaz de 23 anos que depende de seus cuidados  .. " (fl. 09).
+Requer, em suma, que seja concedida a prisão domiciliar à paciente. ..
+A agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO DOMICILIAR. ARTIGO 197 DA LEP. REGIME FECHADO. IMPRESCINDIBILIDADE DOS CUIDADOS MATERNOS. REITERAÇÃO DELITIVA. PRÁTICA DE TRÁFICO DE DROGAS REITERADA NA PRSENÇA DO MENOR. RISCO AO DESENVOLVIMENTO DO MENOR. INVIABILIDADE. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, no qual se pleiteava a concessão de prisão domiciliar para apenada condenada por tráfico de drogas, sob a alegação de necessidade de cuidados ao filho incapaz.
+II. Questão em discussão
+2. A questão em discussão consiste na possibilidade de concessão de prisão domiciliar a apenada em regime fechado, considerando a necessidade de cuidados ao filho incapaz e a existência de condenação por tráfico de drogas.
+III. Razões de decidir
+3. A jurisprudência do STJ admite a concessão de prisão domiciliar em regime fechado apenas em casos excepcionais, quando a presença da mãe é imprescindível para os cuidados da criança ou pessoa com deficiência.
+4. No caso concreto, a apenada foi flagrada novamente na prática de tráfico de drogas em casa e na presença do filho. Risco para o menor. A traficância reiterada demonstra periculosidade e inviabiliza a concessão do benefício.
+5. A análise do pedido de prisão domiciliar requer reexame de provas, o que é vedado em sede de habeas corpus.
+6. Agravo regimental desprovido.
+VOTO
+O agravo regimental é tempestivo e indica os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 489-490):
+ ..  A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, D Je de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+ ..  tem-se que a mesma ostenta condenação pela prática do crime de tráfico de drogas no ano de 2019 justamente em sua residência, na companhia de seu filho incapaz (Processo de nº 5005314-97.2019.8.21.0070), a quem inclusive, sua defesa tentou imputar a exclusiva responsabilidade sobre os ilícitos apreendidos no local, como tentativa de isentá-la do crime praticado.
+ ..
+Assim, tem-se que a medida (colocação em prisão domiciliar para os cuidados ao filho incapaz) também não é recomendada sob a perspectiva da saúde e segurança do próprio filho da apenada, indivíduo declarado incapaz, que outrora fora exposto aos perigos decorrentes da prática delitiva (já que preso na companhia da genitora ante o flagrado comércio de drogas).
+Afora o já exposto, também não se pode desconsiderar o fato de que a ré usufruía de prisão domiciliar concedida neste primeiro processo, quando, em 2021, tornou a delinquir, sendo novamente flagrada em sua residência na prática, em tese, de tráfico de drogas, dando ensejo à instauração do Processo de nº 50002171420228210070 (que conta com sentença condenatória pendente de trânsito em julgado) (fl. 29).
+Segundo entendimento firmado pela Terceira Seção do STJ, embora exista previsão normativa na LEP estabelecendo que a prisão domiciliar somente seria cabível para os reeducandos em cumprimento de pena em regime aberto, "excepcionalmente, se admite a concessão do benefício às presas dos regimes fechado e semiaberto quando verificado pelo juízo da execução penal, no caso concreto - em juízo de ponderação entre o direito à segurança pública e a aplicação dos princípios da proteção integral da criança e da pessoa com deficiência -, que tal medida seja proporcional, adequada e necessária e que a presença da mãe seja imprescindível para os cuidados da criança ou pessoa com deficiência, salvo se a periculosidade e as condições pessoais da reeducanda indiquem que o benefício não atenda os melhores interesses da criança ou pessoa com deficiência" (RHC n. 145.931/MG, Rel. Ministro Sebastião Reis Júnior, Terceira Seção, D Je de 16.3.2022.)
+Ademais, ainda se aplicam as vedações legais à concessão do benefício nas hipóteses de crime cometido com violência ou grave ameaça à pessoa ou contra o filho ou dependente da apenada (art. 318-A, I e II, do CP).
+Por fim, tratando-se de cumprimento definitivo da pena, deve ser demonstrado que as crianças precisam de cuidados que só a genitora é capaz de suprir (AgRg no HC n. 783.051/SC, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22.6.2023; AgRg no HC n. 798.935/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/8/2023; AgRg no HC n. 857.447/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 18.10.2023; AgRg no HC n. 740.642/SC, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22.6.2023).
+Nessa linha, o acórdão impugnado está em conformidade com o entendimento firmado nesta Corte, não havendo situação excepcional que justifique a concessão da benesse, tendo em vista estar fundamentado no fato de que a paciente " ..  ostenta condenação pela prática do crime de tráfico de drogas no ano de 2019 justamente em sua residência, na companhia de seu filho incapaz (Processo de nº 5005314- 97.2019.8.21.0070), a quem inclusive, sua defesa tentou imputar a exclusiva responsabilidade sobre os ilícitos apreendidos no local, como tentativa de isentá-la do crime praticado  .. " (fl. 29) e, ainda, que " ..  tem-se que a medida (colocação em prisão domiciliar para os cuidados ao filho incapaz) também não é recomendada sob a perspectiva da saúde e segurança do próprio filho da apenada, indivíduo declarado incapaz, que outrora fora exposto aos perigos decorrentes da prática delitiva (já que preso na companhia da genitora ante o flagrado comércio de drogas)  .. " (fl. 29), além do fato de que " ..  a ré usufruía de prisão domiciliar concedida neste primeiro processo, quando, em 2021, tornou a delinquir, sendo novamente flagrada em sua residência na prática, em tese, de tráfico de drogas  .. " (fl. 29).
+Outrossim, a modificação as premissas fáticas delineadas pelas instâncias de origem ensejam o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus (AgRg no HC n. 798.935/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, D Je de 16.8.2023; AgRg no HC n. 735.878/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, D Je de 16.5.2022; AgRg no HC n. 675.667/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, D Je de 8.10.2021).
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus. ..
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. EXECUÇÃO DEFINITIVA DA PENA. ART. 117 DA LEP. POSSIBILIDADE DE CONCESSÃO EM REGIME FECHADO E SEMIABERTO. IMPRESCINDIBILIDADE DE CUIDADOS DA FILHA MENOR. AUSÊNCIA DE DEMONSTRAÇÃO DO REQUISITO. REEXAME PROBATÓRIO VEDADO. AGRAVO DESPROVIDO.
+1. Esta Corte tem posicionamento de que, embora o art. 117 da LEP estabeleça como requisito para o deferimento da prisão domiciliar o cumprimento da pena no modo aberto, é possível a extensão de tal benefício aos sentenciados recolhidos no regime fechado ou semiaberto, quando a peculiaridade concreta do caso demonstrar sua imprescindibilidade (HC N. 375.774/SC, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 13/12/2016, DJe 19/12/2016).
+2. Na hipótese, ainda que o entendimento jurisprudencial dos Tribunais Superiores venha superando a interpretação literal de determinados comandos previstos na Lei de Execução Penal, a fim de abarcar e de dar efetividade ao princípio da dignidade da pessoa humana na individualização da pena e ao princípio da fraternidade, na hipótese, verifica-se que acórdão estadual,, soberano na análise dos fatos, entendeu pela negativa do pedido de prisão domiciliar, ao fundamento de que não ficou provado a imprescindibilidade da paciente aos cuidados da filha menor.
+3. A modificação desse entendimento a fim de se conceder o benefício, enseja o reexame do conteúdo probatório dos autos por este Tribunal Superior, o que é inadmissível em sede de habeas corpus.
+4. Agravo regimental não provido.
+(AgRg no HC n. 798.935/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
