@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual o ESTADO DA BAHIA se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA de fls. 145/154.
+Em suas razões recursais, a parte agravante requer o provimento do agravo a fim de que seja determinado o processamento do recurso especial.
+A parte adversa apresentou contraminuta (fls. 306/315).
+É o relatório.
+Nos termos do que foi decidido pelo Plenário do Superior Tribunal de Justiça (STJ), "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem inadmitiu o recurso especial com os seguintes fundamentos (fls. 270/279):
+(1) incidência da Súmula 211 do Superior Tribunal de Justiça (STJ) quanto à alegada violação dos arts. 126, 460, 267, I e § 3º, e 295, VI, do Código Processo Civil de 1973 e do art. 19 da Lei 8.880/1994;
+(2) incidência da Súmula 284 do Supremo Tribunal Federal (STF) quanto à alegada violação do art. 535, I e II, do Código de Processo Civil de 1973;
+(3) incidência da Súmula 83 do STJ;
+(4) incidência da Súmula 7 do STJ quanto à alegada violação do art. 333, I, do Código de Processo Civil de 1973; e
+(5) incidência da Súmula 83 do STJ quanto ao alegado dissídio jurisprudencial.
+A parte agravante aduz que sua insurgência se limita unicamente aos capítulos da decisão "que caracterizam violação à jurisprudência dessa Emérita Corte ou ao paradigma fixado pelo STF sobre a questão da URV. Capítulos estes que são autônomos e que não são afetados pelo trânsito em julgado dos demais" (fl. 285).
+Destaco que, ao contrário do afirmado pela parte agravante, a decisão que inadmite o recurso especial não é composta por capítulos autônomos, sendo imprescindível insurgir-se contra a totalidade de fundamentos.
+A propósito, cito o seguinte precedente da Corte Especial do STJ:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 701.404/SC, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Dessa forma, à míngua de impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Confiram-se os seguintes julgados deste Tribunal sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. PRINCÍPIO DA CONTINUIDADE TÍPICO-NORMATIVA. RECONHECIMENTO NA INSTÂNCIA LOCAL DA PRESENÇA DE DOLO ESPECÍFICO. PROVIMENTO NEGADO.
+1. A decisão recorrida não conheceu do agravo em decorrência da não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem.
+2. Para ver examinado por esta Corte Superior seu recurso especial, a parte recorrente precisa, primeiro, desconstituir os fundamentos da decisão que não o admitiu, sob pena de vê-los mantidos.
+3. As razões demonstrativas do desacerto da decisão agravada devem ser veiculadas na oportunidade de interposição do agravo em recurso especial, pois não é admitida a impugnação tardia, com o objetivo de inovar a justificativa para admissão do recurso especial, devido à preclusão consumativa.
+4. A falta de efetivo combate de um dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, segundo preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil.
+5. Em nova análise do agravo interposto, vê-se que a parte agravante efetivamente não rebateu o fundamento da decisão de inadmissão do recurso especial; correta, portanto, a decisão que não conheceu do agravo em recurso especial.
+6. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+7. Revogação da hipótese de responsabilização com base no inciso I do art. 11 da Lei de Improbidade Administrativa (LIA) pela Lei 14.230/2021. Não tem importância a alteração quando, entre os novéis incisos inseridos pela Lei 14.230/2021, remanescer típica a conduta considerada no acórdão como violadora do caráter concorrencial, evidenciando verdadeira continuidade típico-normativa, instituto próprio do direito penal, mas em tudo aplicável à ação de improbidade administrativa. Penalidades aplicadas no acórdão recorrido que se conciliam com a nova redação do inciso III do art. 12 da LIA.
+8. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.308.820/ES, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 10/6/2024, DJe de 17/6/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À SÚMULA 83/STJ. NÃO DEMONSTRAÇÃO DE CONTRARIEDADE EM FACE DA ATUAL JURISPRUDÊNCIA DO STJ. SÚMULA 182/STJ.
+1. Trata-se de Agravo Interno contra decisão monocrática da Presidência do Superior Tribunal de Justiça, que não conheceu do Agravo em Recurso Especial ante a ausência de impugnação específica dos fundamentos da decisão agravada.
+2. Não houve adequado ataque ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula 83/STJ em relação ao art. 32 da Lei 9.656/1998. Tal impugnação pressupõe a demonstração, por precedentes atuais, no sentido de que a jurisprudência do STJ não estaria em consonância com o acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes por meio de distinguishing, o que não ocorreu na hipótese. Ademais, não houve o adequado cotejo analítico.
+3. A Presidência do STJ negou seguimento ao Agravo em Recurso Especial, com suporte no entendimento de que é necessário atacar especificamente todos os fundamentos da decisão que inadmitiu o Agravo em Recurso Especial, sob pena de não conhecimento e aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775, DJe de 30.11.2018).
+4. A ausência de ataque a todos os fundamentos da decisão que inadmitiu o Recurso Especial obsta o conhecimento do Agravo, nos termos do art. 932, III, CPC de 2015; do art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.499.632/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/5/2024, DJe de 4/6/2024.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
