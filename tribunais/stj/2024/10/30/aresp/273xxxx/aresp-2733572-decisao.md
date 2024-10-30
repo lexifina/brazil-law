@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ROCHAPAVI LTDA. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. COLISÃO TRASEIRA ENTRE MOTOCICLETA E CAMINHÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSOS INTERPOSTOS POR AMBAS AS PARTES. 1. RESPONSABILIDADE CIVIL. COLISÃO TRASEIRA ENVOLVENDO MOTOCICLETA E CAMINHÃO PARADO EM RODOVIA, SEM SINALIZAÇÃO. CULPA CONCORRENTE RECONHECIDA NA ORIGEM. PARCELA DE CULPA DO MOTOCICLISTA NÃO IMPUGNADA NESTA INSTÂNCIA. RESPONSABILIDADE DO MOTORISTA DO CAMINHÃO, PREPOSTO DA DEMANDADA. CONFIGURAÇÃO. ESTACIONAMENTO EM FAIXA DESTINADA À CIRCULAÇÃO DE VEÍCULOS, AINDA QUE EM MENOR VELOCIDADE. ALEGADO DEFEITO MECÂNICO, NÃO COMPROVADO SATISFATORIAMENTE, QUE, DE TODA FORMA, NÃO EXIGIA IMEDIATA PARADA DO CAMINHÃO. CONCORRÊNCIA DE CAUSAS CORRETAMENTE RECONHECIDA. 2. DANOS MORAIS. CARACTERIZAÇÃO. AUTOR QUE PRECISOU SER HOSPITALIZADO, FICAR ACAMADO E UTILIZAR CADEIRA DE RODAS POR DOIS MESES EM RAZÃO DAS LESÕES. MONTANTE INDENIZATÓRIO. REDUÇÃO OU MAJORAÇÃO INVIÁVEIS. VALOR QUE ATENDE AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE E AO CARÁTER INIBITÓRIO DA CONDUTA. PECULIARIDADES DO CASO. 3. DANOS ESTÉTICOS. INOCORRÊNCIA. LAUDO PERICIAL QUE NÃO APONTOU DEFORMIDADES FÍSICAS OU CICATRIZES. FUNDAMENTOS DA PRETENSÃO QUE, ADEMAIS, ESTÃO RELACIONADOS AOS DANOS MORAIS. 4. SENTENÇA MANTIDA. FIXAÇÃO DE HONORÁRIOS RECURSAIS. APELAÇÃO CÍVEL (1) CONHECIDA E DESPROVIDA. APELAÇÃO CÍVEL (2) CONHECIDA E DESPROVIDA.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 29, II, e 192 do CTB, no que concerne à não configuração de culpa concorrente pelo acidente de trânsito objeto da lide, mas de culpa exclusiva da parte recorrida, trazendo a seguinte argumentação:
+Todavia, o juízo a quo entendeu pela culpa concorrente, deixando de analisar o Código de Trânsito Brasileiro (CTB) e não aplicando ao caso em discussão.
+ ..
+O artigo 29, II do CTB , dispõe sobre a necessidade do condutor guardar uma distância de segurança lateral e frontal entre o seu e os demais veículos.
+Vale saliente que o acórdão recorrido, o Relator deixou explicito que diante do cenário narrado no processo, por se tratar de colisão traseira, "(..) é presumida a culpa do motorista que trafega na retaguarda, nos termos do art. 29, II, do CTB, incumbindo-lhe, portanto, o ônus de provar sua ausência de culpa.".
+Ocorre, que apesar de ter esse entendimento, não aplicou o mencionado artigo e inciso no presente caso, sendo clara a violação da norma.
+ ..
+Nota-se, Excelência, não pugna o Recorrente pela análise fática, tanto que, como acima citado, o Relator do acórdão citou o artigo violado fazendo referência ao caso concreto, todavia, ao concluir a decisão deixou de aplicá-lo, mantendo equivocadamente a condenação do Recorrente (fls. 462-464).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Diante desse cenário, tratando-se de colisão traseira, é presumida a culpa do motorista que trafega na retaguarda, nos termos do art. 29, II, do CTB, incumbindo-lhe, portanto, o ônus de provar sua ausência de culpa. Confira-se:
+ ..
+Aliás, não se discute, nesta instância, a parcela de responsabilidade do requerente, que não se insurgiu quanto a este ponto da r. sentença.
+Por outro lado, diversamente do que pretende a demandada, não há como afastar a responsabilidade concorrente de seu preposto pelo evento danoso.
+Isso porque, além de não haver comprovação do alegado defeito mecânico no caminhão, tampouco de que seria tão grave, ainda que se admitisse a ocorrência de barulhos estranhos, não restou demonstrada a necessidade de parada imediata na pista de rolamento destinada à circulação de veículos.
+Ora, conforme depoimento da testemunha Augusto Vinicius de Paula Rodrigues (mov.
+114.4), havia local apropriado a cerca de 10km de distância, percurso relativamente pequeno e que poderia ser percorrido pelo preposto da requerida até que chegasse a um lugar seguro para paralisação do veículo.
+Ademais, embora no local em que ocorreu a colisão não houvesse acostamento, somente a faixa de desaceleração, não é crível que toda a rodovia fosse desprovida de acostamento, daí porque era exigível que o caminhão rodasse mais algum tempo, provavelmente por alguns metros ou mesmo quilômetros, até que alcançasse trecho contendo local de parada.
+Ainda, não se pode considerar a tese da ré de que o acidente teria ocorrido com o caminhão parado ou em movimento, já que trafegava a baixíssima velocidade, configurando culpa exclusiva do demandante.
+Com efeito, mesmo trafegando em baixíssima velocidade, um veículo em movimento difere de um parado porque, de qualquer modo, percorre uma distância que, apesar de mínima, pode impactar na dinâmica dos fatos, possibilitando tempo ao motorista que trafega na retaguarda para visualizar e conseguir parar ou, ao menos, diminuir o impacto da colisão com o acionamento dos freios.
+Assim, sendo incontroverso que o caminhão estava parado em pista de rolamento destinada à desaceleração de veículos, ou seja, em local irregular, mesmo podendo se locomover, é certo que houve contribuição decisiva para a ocorrência do evento danoso.
+Dessa forma, correta a r. sentença ao reconhecer a culpa concorrente (concorrência de causas) para o evento danoso (fls. 438-439).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
