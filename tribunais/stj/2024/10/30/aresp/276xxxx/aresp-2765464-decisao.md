@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do NCPC), interposto por UNIMED RIO VERDE - COOPERATIVA DE TRABALHO MÉDICO, contra decisão que não admitiu recurso especial, ante a aplicação da Súmula 83 do STJ.
+Nas razões de agravo, a parte insurgente busca o destrancamento do reclamo.
+Contraminuta apresentada pela parte adversa.
+É o relatório.
+Decido.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1. Observa-se das razões do agravo, que a parte recorrente não refutou analiticamente como lhe deveria o fundamento de inadmissão da decisão agravada.
+1.1. Restou asseverado pela Corte de origem que:
+Pelo que se depreende do caderno processual, vejo que o aresto fustigado decidiu no sentido de que o plano de saúde não pode negar o fornecimento de órtese craniana, indicada para o tratamento de Braquicefalia e Plagiocefalia Posicionais. Nesse contexto, tem-se que as convicções adotadas no acórdão vergastado vão ao encontro dos entendimentos firmados pelo Tribunal da Cidadania, o que, por certo, faz incidir, o óbice da Súmula n. 83 daquela Corte Superior (cf. STJ, 4a T., Aglnt no R Esp 1925510/DF, Rei. Min. Raul Araújo, D Je de 01/12/2023).
+Sobre o óbice apontado, disse a agravante:
+É imperativo ressaltar, nesse passo, que não incide a Súmula nº 83 da Corte Superior , porque a orientação adotada pelo Tribunal de origem confronta a recente jurisprudência do Superior Tribunal Justiça, especialmente considerando que o recurso especial foi interposto por violação das seguintes normas federais: art. 10, inciso VII, §§ Io e 4o, da Lei nº 9.656/1998, do art. 4o, incisos III e XXXVII, da Lei nº 9.961/2000 e arts. 4o, inciso III e 54, § 4o, do Código de Defesa do Consumidor.
+Não foi trazido, de forma específica sobre o tratamento versado nestes autos, nenhum precedente apto a infirmar o óbice aplicado.
+Com efeito, verifica-se que não foi impugnado analiticamente o óbice da Súmula n. 83/STJ, pois a parte, no ponto, apenas de forma genérica, reitera os mesmos fundamentos anteriormente apresentados. Importa ressaltar que a impugnação à Súmula nº 83/STJ se dá com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ. SÚMULA 83/STJ.
+1. O agravo em recurso especial, interposto contra decisão denegatória de processamento de recurso especial, que não impugna, especificamente, os fundamentos por ela utilizados não deve ser conhecido.
+2. Inadmitido o apelo especial pelo Tribunal a quo com fundamento na Súmula 83/STJ, incumbe à parte agravante apontar, nas razões do respectivo agravo em recurso especial, precedentes contemporâneos ou supervenientes aos indicados na decisão agravada, procedendo ao cotejo analítico entre eles. Precedentes desta Corte.
+3. Agravo interno desprovido. (AgInt no AREsp 830.527/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA julgado em 02/05/2017, DJe 15/05/2017)
+2. Ora,  como  restou  asseverado,  por  esta  relatoria,  no  julgamento  do  AgInt  no  AREsp  n.º  1.519.438/SP,  quanto  à  técnica  de  conhecimento  recursal  da  decisão  de  inadmissão  do  apelo  nobre  pela  instância  a  quo,  que  a  Corte  Especial  do  STJ  fixou  orientação  de  que  a  decisão  de  inadmissão  do  recurso  especial  é  incindível  em  capítulos  autônomos,  tornando  imprescindível  a  impugnação  específica  de  todos  os  seus  fundamentos.  Precedentes:  EAREsp  746.775/PR,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Rel.  p/  Acórdão  Ministro  LUIS  FELIPE  SALOMÃO,  CORTE  ESPECIAL,  julgado  em  19/09/2018,  DJe  30/11/2018;  EAREsp  831.326/SP,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Rel.  p/  Acórdão  Ministro  LUIS  FELIPE  SALOMÃO,  CORTE  ESPECIAL,  julgado  em  19/09/2018,  DJe  30/11/2018;  EAREsp  701.404/SC,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Rel.  p/  Acórdão  Ministro  LUIS  FELIPE  SALOMÃO,  CORTE  ESPECIAL,  julgado  em  19/09/2018,  DJe  30/11/2018.
+Transcreve-se,  para  melhor  compreensão,  o  seguinte  trecho  registrado  na  ementa  de  todos  os  julgados  acima  citados:
+A  decisão  que  não  admite  o  recurso  especial  tem  como  escopo  exclusivo  a  apreciação  dos  pressupostos  de  admissibilidade  recursal.  Seu  dispositivo  é  único,  ainda  quando  a  fundamentação  permita  concluir  pela  presença  de  uma  ou  de  várias  causas  impeditivas  do  julgamento  do  mérito  recursal,  uma  vez  que  registra,  de  forma  unívoca,  apenas  a  inadmissão  do  recurso.  Não  há,  pois,  capítulos  autônomos  nesta  decisão.
+Tem-se,  assim,  que  a  recente  jurisprudência  desta  Corte,  à  luz  do  princípio  da  dialeticidade,  que  norteia  os  recursos,  é  no  sentido  de  que  deve  a  parte  recorrente  impugnar  especificamente  todos  os  fundamentos  suficientes  para  manter  o  decisum  recorrido,  de  maneira  a  demonstrar  que  o  juízo  de  admissibilidade  do  Tribunal  de  origem  merece  ser  modificado,  o  que  não  se  vislumbra  no  recurso  em  questão.
+Desta  forma,  irrefutável  a  incidência  da  Súmula  182  do  STJ,  porquanto  inexistiu  ataque  específico  a  todos  os  fundamentos  da  decisão  que  obstou  a  ascensão  do  recurso  especial  ao  Superior  Tribunal  de  Justiça.
+3.  Ante  o  exposto,  não  conheço  do  reclamo.
+Publique-se.  Intimem-se.
+EMENTA
