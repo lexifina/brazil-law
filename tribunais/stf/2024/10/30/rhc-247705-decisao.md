@@ -1,0 +1,51 @@
+Decisão: 1. Trata-se recurso ordinário em habeas corpus interposto contra acórdão do Superior Tribunal de Justiça assim ementado (eDOC 60):
+
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. PRESCRIÇÃO. AUSÊNCIA DE AUDIÊNCIA DE JUSTIFICAÇÃO. ATIPICIDADE. DESCLASSIFICAÇÃO. PERDA DOS DIAS REMIDOS. ABANDONO DO REGIME SEMIABERTO. AGRAVO DESPROVIDO. 1. De acordo com a jurisprudência do STJ, "a prescrição das faltas disciplinares de natureza grave, em virtude da inexistência de legislação específica, regula-se, por analogia, pelo menor dos prazos previstos no art. 109, VI, do Código Penal, de 3 (três) anos" (HC 682.633/MG, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, DJe 11/10/2021). 2. É prescindível a realização da audiência de justificação em juízo, para a oitiva do apenado, nos casos em que houve a instauração de Processo Administrativo Disciplinar – PAD no qual tenha sido assegurado o exercício da ampla defesa e do contraditório, como no caso em questão. 3. O afastamento ou a desclassificação da falta grave praticada pelo ora agravante (art. 50, VI, c/c art. 39, I e II, ambos da Lei de Execução Penal – LEP) demandaria o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. 4. Esta Corte firmou o entendimento "de que a natureza especialmente grave da falta disciplinar (fuga) justifica a adoção do percentual máximo de perda dos dias remidos (art. 127 da Lei de Execução Penal - LEP)" (AgRg no HC n. 895.932/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/4/2024, DJe de 2/5/2024). 5. Agravo regimental desprovido.
+
+    Busca-se, em suma, o reconhecimento (i) da prescrição da falta grave disciplinar apontada ou (ii) de que eivada de nulidade a sindicância, por não ter sido ouvido em Juízo nem ter sido acompanhado de sua advogada constituída, na oitiva administrativa; (iii) a absolvição do recorrente, por atipicidade da conduta e ausência de dolo, (iv) a desclassificação para infração de natureza média e a diminuição da sanção, referente à perda dos dias remidos.
+
+    O Ministério Público Federal, todavia, ofertou parecer pelo “desprovimento” do recurso (eDOC 93).
+
+    É o relatório. Decido.
+
+    2. O recurso ordinário, de fato, não merece guarida, pois a compreensão externada pelo Superior Tribunal de Justiça está em conformidade com a jurisprudência do Supremo Tribunal Federal.
+
+    2.1. De plano, porque também já assentado pelo colegiado maior desta Suprema Corte que “[a] definição do prazo prescricional para a instauração do processo administrativo destinado a apurar falta disciplinar constitui matéria que se reveste de inequívoca feição penal” (ADI 4979, Tribunal Pleno, Relator(a) Min. Nunes MArques, DJe 02.09.2024).
+
+    Assim, “A orientação jurisprudencial do Supremo se consolidou no sentido de, inexistindo norma específica para regular a prescrição da infração disciplinar, aplicar-se o disposto no art. 109, VI, do Código Penal, considerando-se o menor lapso temporal previsto no sistema, a fim de preencher a lacuna verificada na Lei de Execução Penal (HC 92.000, Primeira Turma, ministro Ricardo Lewandowski, julgamento em 13 de novembro de 2007; RHC 117.140, Primeira Turma, ministra Rosa Weber, julgamento em 25 de junho de 2013; HC 114.422, Segunda Turma, ministro Gilmar Mendes, julgamento em 6 de maio de 2014)” (ADI 4979, Tribunal Pleno, Relator(a) Min. Nunes MArques, DJe 02.09.2024).
+
+    2.2. Ademais, não há que se falar em declaração de nulidade com os efeitos pretendidos, porquanto, tal qual decidido pelo Superior Tribunal de Justiça, a jurisprudência desta Suprema Corte também compreende que, “Nos termos do art. 563 do CPP, o reconhecimento de nulidade processual depende da comprovação do efetivo prejuízo à defesa do réu (‘pas de nullité sans grief’), não servindo a condenação como prova do prejuízo, sendo imprescindível a demonstração do nexo causal entre a suposta nulidade e o resultado processual desfavorável” (HC 228112 AgR, Segunda Turma, Relator(a) Min. Gilmar Mendes, DJe 22.11.2023). No mesmo sentido:
+
+    “O reconhecimento de nulidade exige demonstração do prejuízo, não sendo suficiente a mera presunção (CPP, art. 563)” (RE 1339079 AgR, Segunda Turma, Relator(a) Min. Nunes Marques, DJe 01.06.2023)
+
+    “A decisão impugnada está alinhada com a orientação jurisprudencial do Supremo Tribunal Federal no sentido de que ‘o princípio do pas de nullité sans grief exige, em regra, a demonstração de prejuízo concreto à parte que suscita o vício, podendo ser ela tanto a nulidade absoluta quanto a relativa, pois não se decreta nulidade processual por mera presunção” (HC 132.149-AgR, Rel. Min. Luiz Fux). Precedentes. (HC 173789 AgR, Primeira Turma, Relator(a) Min. Roberto Barroso, DJe 02.04.2020)
+
+    2.3. Nessa ordem de ideias, na situação posta sob exame, apesar da alegação defensiva, verifica-se que o reeducando foi ouvido no curso do PAD e esteve devidamente assistido por advogado. Assim, como bem pontuado pelo Ministério Público Federal, em seu parecer (eDOC 93, pp. 8-9):
+
+    Sobre o tema, essa Suprema Corte já decidiu que “A oitiva do executando, no procedimento administrativo, na presença do seu advogado, afasta a necessidade de nova oitiva na fase judicial” (HC nº 211.967-AgR/SP, Rel. Min. André Mendonça, DJe de 10/01/2023, grifou-se). Neste mesmo sentido são reiterados os precedentes:
+
+    “AGRAVO INTERNO EM HABEAS CORPUS. HOMOLOGAÇÃO DE FALTA GRAVE. AUSÊNCIA DE NULIDADE. HABEAS CORPUS INDEFERIDO. 1. A realização da audiência de justificação se faz necessária em dois casos: na falta de prévio Procedimento Administrativo Disciplinar (PAD) ou na ausência ou insuficiência da defesa técnica nele ocorrida. 2. Ante a regular oitiva do paciente em sede administrativa, na presença de advogado e com observância dos direitos à ampla defesa e ao contraditório, não se configura hipótese de cabimento da audiência de justificação . 3. A decisão que homologou as faltas de natureza grave foi devidamente motivada pelo Juízo da Execução. 4. Agravo interno desprovido.” (HC nº 208.139-AgR/SP, Rel. Min. Nunes Marques, DJe de 04/4/2022, grifou-se)
+
+    “(…) 1. A situação retratada revelou a formalização prévia de processo administrativo disciplinar para a apuração de falta grave durante a execução da pena, mediante o qual viabilizados o contraditório e a ampla defesa. 2. Segundo entendimento do Supremo Tribunal Federal, “é desnecessária nova oitiva do sentenciado em juízo, antes da homologação da falta grave, se lhe foi permitido manifestar-se no procedimento administrativo, instaurado para apurar a infração disciplinar, acompanhado da defesa técnica. (RHC 170.554, Rel. Min. Celso de Mello). Precedentes. 2. Agravo regimental desprovido” (RHC nº 167.849- AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 13/2/20) (...)” (HC nº 215.918-AgR/SC, Rel. Min. Dias Toffoli, DJe de 28/11/2022, grifou-se) “
+
+    “HABEAS CORPUS” – RECURSO DE AGRAVO – AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS EM QUE SE ASSENTOU O ATO DECISÓRIO RECORRIDO – INADMISSIBILIDADE – EXECUÇÃO PENAL – FALTA GRAVE – REEDUCANDO OUVIDO REGULARMENTE, NA PRESENÇA DE SEU DEFENSOR CONSTITUÍDO, NO CURSO DO PROCESSO ADMINISTRATIVO DISCIPLINAR (PAD) – DESNECESSIDADE DE NOVA OITIVA EM AUDIÊNCIA DE JUSTIFICAÇÃO – PRECEDENTES – IMPETRAÇÃO DEDUZIDA, ADEMAIS, COM BASE EM FUNDAMENTOS SEQUER APRECIADOS PELO TRIBUNAL APONTADO COMO COATOR – INDEVIDA SUPRESSÃO DE INSTÂNCIA – HIPÓTESE DE INCOGNOSCIBILIDADE DO REMÉDIO CONSTITUCIONAL – PARECER DA DOUTA PROCURADORIA-GERAL DA REPÚBLICA PELO NÃO PROVIMENTO DESTA ESPÉCIE RECURSAL – RECURSO DE AGRAVO NÃO CONHECIDO.” (HC nº 176.077-AgR/ SP, Rel. Min. Celso de Mello, DJe de 18/12/2019, grifou-se).
+
+    2.4. Por fim, porque na esteira da jurisprudência desta Suprema Corte, eventual divergência quanto à não-incidência em falta grave, à desclassificação da conduta ou à diminuição da sanção tocante à perda dos dias remidos implicaria o reexame de fatos e provas, providência inviável em sede de habeas corpus.
+
+     Com efeito, “A ação de habeas corpus – de caráter sumaríssimo – constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise aprofundada da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos indiciários e/ou coligidos no procedimento penal”. (HC 92.887/GO, Relator(a) Min. Celso de Mello, DJe de 19/12/2012), providências inerentes aos pleitos defensivos apresentados.
+
+    Na mesma linha, “de acordo com a jurisprudência do Supremo Tribunal Federal é inviável a utilização do habeas corpus para se revolver o contexto fático-probatório e glosar os elementos de prova que ampararam a conclusão das instâncias ordinárias.” (HC 137695, Relator(a): Min. Dias Toffoli, julgado em 10/10/2016). No mesmo sentido: RHC 105.150, Primeira Turma, de minha relatoria, DJe de 04/05/2012; RHC 121.092/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 12/05/2014; HC 118.602/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 11/03/2014; e o HC 111.398/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 03/05/2012.
+
+    Diante desse balizamento decisório, os referidos temas, em especial sob o espectro e a profundidade da controvérsia vertidos, deveriam ser aferidos, ab initio, pelo juízo natural da causa e, em seguida, em caso de agravo em execução, pelo juízo próprio. Como já ressaltado, a via estreita do writ, sobretudo porque não permite incursão no quadro fático-probatório, tampouco a reconstrução da discricionariedade constitucionalmente atribuída às instâncias ordinárias, não é o caminho adequado para reforma do que ali decidido, sobretudo no caso concreto.
+
+    3. Dessarte, como as decisões proferidas pelos juízos antecedentes não configuram decisum manifestamente contrários à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, com fulcro no art. 192 do RISTF, nego provimento ao recurso ordinário em habeas corpus.
+
+    Publique-se. Intime-se.
+
+    Brasília, 30 de outubro de 2024.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
