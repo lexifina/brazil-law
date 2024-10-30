@@ -1,0 +1,33 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por LEILA MELLO PIONER - ME, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 21/06/2024.
+Concluso ao gabinete em: 10/09/2024.
+Ação: em fase de cumprimento de sentença movida pela parte agravante contra BANCO DO ESTADO DO RIO GRANDE DO SUL SA.
+Decisão interlocutória: acolheu a impugnação ao cumprimento de sentença da instituição bancária.
+Acórdão: negou provimento ao agravo de instrumento da parte agravante, nos termos da ementa:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ACOLHIMENTO DA IMPUGNAÇÃO E RECONHECIMENTO DE EXCESSO DE EXECUÇÃO. RECURSO DO CREDOR. ALEGADA INEXISTÊNCIA DE CÁLCULO DO VALOR APONTADO COMO EXCEDENTE PELO DEVEDOR. TESE DE REJEIÇÃO LIMINAR DA IMPUGNAÇÃO PARA INCLUSÃO DO VALOR DAS ASTREINTES NO DÉBITO DA EXECUÇÃO. NÃO ACOLHIMENTO. DÉBITO JÁ COBRADO EM CUMPRIMENTO DE SENTENÇA APARTADO, LIMITADO À IMPORTÂNCIA FIXADA POR ESTA CORTE NO AGRAVO DE INSTRUMENTO N. 2014.035183-8. DECISÃO PAUTADA NA IMPOSSIBILIDADE DE COBRANÇA DÚPLICE. NECESSÁRIA RETIFICAÇÃO DO VALOR OBJETO DA EXECUÇÃO. INTIMAÇÃO DO EXEQUENTE PARA APRESENTAÇÃO DE NOVO CÁLCULO ACERTADA. HONORÁRIOS RECURSAIS ARBITRADOS. RECURSO CONHECIDO E NÃO PROVIDO". (e-STJ fl. 317)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, §1º, IV, VI, 525, § 4º, § 5º, e 1.022 do CPC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que não obstante tenha alegado a imprestabilidade dos cálculos apresentados pela agravante, ora exequente, não se dignou a declarar de imediato o valor que entende correto, apresentando demonstrativo discriminado e atualizado de seu cálculo. Aduz que tanto não foi apontado qualquer valor pelo Banco, que na decisão que acolheu a Impugnação restou determinado à agravante que formulasse novos cálculos, com a supressão daquilo que se entendera por excessivo - astreintes. Defende que sendo inafastável a conclusão de que a única tese abordada pelo executado/agravado foi o suposto excesso de execução, sem o apontamento da quantia incontroversa, tampouco apresentação do demonstrativo dos cálculos dos valores que entende devidos, mister se faz a cassação das decisões proferidas nas instâncias ordinárias, por violação ao art. 525, §§4º e 5º, CPC/15.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca de que ainda que não se acolhesse a impugnação formalmente, conforme defendido no agravo de instrumento, o resultado prático seria o mesmo, porquanto restaria reconhecido que o valor das astreintes não poderia ser novamente cobrado pela parte credora, ora agravante, tampouco no valor pretendido na petição inicial do Cumprimento de Sentença, que foi muito superior àquele fixado no julgamento do Agravo de Instrumento n. 2014.035183-8". (e-STJ fl. 358)
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento, não havendo que se falar em violação dos arts. 489 e 1.022 do CPC.
+- Da existência de fundamento não impugnado
+A parte agravante não impugnou o fundamento utilizado pelo TJ/SC, de que verifica-se que o Tribunal de Justiça, em decisão transitada em julgado posterior à sentença proferida nos autos principais, reduziu o valor da multa diária fixada no processo principal, prevalecendo aquela decisão sobre à ora executada, no que concerne às astreintes (e-STJ fl. 315), tornando as razões do recurso especial dissociadas dos fundamentos do acórdão recorrido, razão pela qual deve ser mantido o acórdão recorrido. Aplicam-se, na hipótese, as Súmulas 283 e 284 ambas do STF.
+- Da divergência jurisprudencial
+Não é comprovado o dissídio jurisprudencial, quando inexistente a necessária identidade jurídica e/ou similitude fática entre o acórdão recorrido e os paradigmas indicados.
+Por isso, a falta da similitude fática, requisito indispensável à demonstração da divergência, inviabiliza a análise do dissídio.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários recursais, fixados pelo Tribunal de origem no acórdão às fls e-STJ 316, de R$ 4.000,00 (quatro mil reais) para R$ 4.500,00 (quatro mil e quinhentos reais).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO EM FASE DE CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 283/STF. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA.
+1. Ação em fase de cumprimento de sentença.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões -, além das razões dissociadas dos fundamentos recorridos impede a apreciação do recurso especial.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
