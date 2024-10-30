@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VALDIVINO BISPO DOS SANTOS (VALDIVINO) e LÚCIA INÁCIO DA ROSA (LÚCIA) contra decisão que não admitiu seu apelo nobre.
+Não foi apresentada contraminuta (e-STJ, fls. 372).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, VALDIVINO e OUTRA alegaram a violação dos arts. 319, 324, do CC, 81, 505, 507, 774, 803, do CPC, ao sustentarem que (1) é nula a execução em razão do pagamento reconhecido pelos depósitos autorizados em liminar acautelatória, ocorrendo a preclusão e a coisa julgada da matéria; (2) deve ser afastada as penas por litigância de má-fé, pois agiram no exercício regular do seu direito.
+(1) Da nulidade da execução
+Em suas razões recursais VADIVINO e OUTRA insistem que as parcelas cobradas na execução foram quitadas por meio de depósitos autorizados em liminar concedida na ação revisional, sendo de rigor o reconhecimento da preclusão e da coisa julgada.
+Sobre o tema, o Tribunal de Justiça de São Paulo afastou a pretensão por entender que os recorrentes discutem decisões prolatadas no passado, sem trazer qualquer fundamento para combater a atual, ressaltando ainda que:
+Todavia, e como se viu no bojo do decidido pelo juiz da causa, não têm eles, agravantes, legítimo interesse para alcançar a modificação do decidido em primeiro grau por estarem preclusas todas as matérias que visam combater. (e-STJ, fls. 176).
+De fato, forçoso reconhecer que VALDIVINO e OUTRA não se desincumbiram do ônus de impugnar os referidos fundamentos como manda o princípio da dialeticidade, insistindo na tese de quitação do saldo devedor da execução por meio de depósitos autorizados na ação revisional, com fundamento em decisões prolatadas há anos atrás, sem trazer a lume qualquer fundamento que pudesse afastar a preclusão reconhecida pelo Tribunal estadual.
+Em outras palavras, VALDIVINO e OUTRA deixaram de infirmar os argumentos do acórdão recorrido - suficientes para sua manutenção, o que atrai a incidência da Súmula n.s 283 do STF, por analogia.
+E também, porque inviabilizada a compreensão da controvérsia, não se pode conhecer do recurso em virtude da deficiência na sua fundamentação, na esteira do que dispõe a Súmula n. 284 do STF, por analogia.
+Sobre o tema, vejam-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a recorrente não se conforma com o acórdão recorrido, de modo a permitir o cotejo entre os fundamentos da decisão recorrida e as razões expendidas no recurso. A deficiência na fundamentação do recurso especial, inclusive com indicação de dispositivo legal insuficiente para desconstituir os fundamentos do aresto impugnado, obsta seu conhecimento (Súmula n. 284/STF).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.261.937/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 22/8/2019 - destacou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO DE NEGÓCIO JURÍDICO CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DIREITO PROCESSUAL CIVIL. 1. VIOLAÇÃO AOS ARTS. 369 E 477, § 1º, DO CPC/2015. RAZÕES DISSOCIADAS. SÚMULA 284/STF. 2. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE ARTIGO DE LEI. SÚMULA 284/STF. 3. AGRAVO INTERNO IMPROVIDO.
+1. Quanto à alegada violação aos arts. 369 e 477, § 1º, CPC/2015, ratifica-se a aplicação do óbice da Súmula n. 284 do STF, tendo em vista que os agravantes não relacionaram a contento a tese recursal com a ofensa aos dispositivos mencionados no recurso.
+2. É firme o entendimento de que a ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea c do inciso III do art. 105 da Constituição Federal. Incidência, por analogia, da Súmula 284 do STF.
+3. Agravo interno improvido.
+(AgInt no AREsp 1.552.950/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 8/5/2020 - destacou-se)
+(2) Da litigância de má-fé
+VALDIVINO e OUTRA impugnam a aplicação das penas por litigância de má-fé sob o argumento de que a exceção de pré-executividade foi apresentada para apresentar provas de pagamento.
+Conforme destacado no julgamento dos embargos de declaração:
+Ambas as penalizações foram impostas porque, sem dúvida, alguma não se tolerou discussão em torno de questão preclusa, dentre essas a que diz respeito à quitação do preço do imóvel. Nesse particular, o juiz de origem externou que "os executados insistem em rediscutir questões atingidas pela preclusão, conforme deliberado a fls. 475/476, 554/555 e 601/604", o que causou, com essa insistência, a aplicação da pena por ato atentatório à dignidade da justiça.
+E só pelo fato de haver cumprimento de sentença, exsurge a existência de débito em nome dos devedores, que se batem por uma tese já ultrapassada e que não lhes pode mais favorecê-los nos autos. (e-STJ, fls. 208)
+Dessa forma, conforme se nota, o Tribunal paulista assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ. Ilustrativamente, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. LITISPENDÊNCIA. REQUISITOS. IDENTIDADE DE PARTES, CAUSA DE PEDIR E PEDIDO. INEXISTÊNCIA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ. CONFIGURADA. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. SÚMULA 7 DO STJ. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. A configuração da litispendência reclama a constatação de identidade das partes, da causa de pedir e do pedido ("tríplice identidade") das ações em curso (artigo 301, § 1º, do CPC.
+2. A constatação acerca da existência ou não de litispendência, no caso, exige minuciosa análise de seus elementos configuradores - identidade de partes, da causa de pedir e do pedido -, esbarrando a pretensão recursal no óbice da Súmula 7 do STJ.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato de haver o litigante feito uso de recurso previsto em Lei não significa litigância de má-fé" (AGRG no RESP 995.539/SE, Terceira Turma, Relatora Ministra Nancy Andrighi, DJe de 12.12.2008).
+4. O Tribunal, contudo, entendeu que houve má-fé da parte, aplicável a hipótese do art. 80, II, do Código de Processo Civil, já que houve alteração da verdade dos fatos por parte da ora agravante ("Considera-se litigante de má-fé aquele que: (..) II - alterar a verdade dos fatos").
+5. Imiscuir-se na análise se houve ou não dolo processual - sob intento de modificar a conclusão do Tribunal de origem quanto à temática e à análise da eventual alteração dos fatos por parte da agravante - ensejaria reexame de matéria fático-probatória, vedado em sede de recurso especial, em decorrência da Súmula 7 do Superior Tribunal de Justiça.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.271.147/RJ, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023, sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRINCÍPIO DA NÃO SURPRESA. VIOLAÇÃO. TIPIFICAÇÃO JURÍDICA. LIQUIDAÇÃO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. PRECLUSÃO. LITIGÂNCIA DE MÁ-FÉ. NECESSIDADE. REEXAME. ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. No caso em apreço, o acórdão recorrido está em conformidade com o entendimento do Superior Tribunal de Justiça no sentido de que não há violação do princípio da não surpresa quando o tribunal realiza a tipificação jurídica da pretensão, como na espécie. Precedentes.
+3. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282/STF.
+4. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias no que diz respeito à preclusão e à litigância de má-fé demandaria, necessariamente, a análise de fatos e provas dos autos, procedimento inviável no recurso especial em virtude do óbice da Súmula nº 7/STJ.
+5 . Agravo interno não provido.
+(AgInt no AREsp n. 2.246.551/MG, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 11/9/2023, DJe de 15/9/2023, sem destaque no original)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSO CIVIL . AGRAVO EM RECURSO ESPECIAL. FINANCIAMENTO IMOBILIÁRIO. SFH. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO DE INSTRUMENTO. NÃO CONHECIMENTO PELO TRIBUNAL ESTADUAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA NO TOCANTE À DECISÃO DE PRIMEIRO GRAU. FUNDAMENTO DO ACÓRDÃO ESTADUAL NÃO IMPUGNADO. NÃO DEMONSTRAÇÃO DE MOTIVOS PARA REFORMA DO ACÓRDÃO RECORRIDO. INCIDÊNCIAS DAS SÚMULAS NS. 283 E 284 DO STF, POR ANALOGIA. 2. LITIGÂNCIA DE MÁ-FÉ. OCORRÊNCIA. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
