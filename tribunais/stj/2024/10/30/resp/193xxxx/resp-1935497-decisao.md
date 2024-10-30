@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 113):
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. DECISÃO QUE DETERMINOU A SUSPENSÃO DO INCIDENTE EM QUE A UNIÃO FEDERAL BUSCA AUTORIZAÇÃO DO JUÍZO DA RECUPERAÇÃO PARA PENHORA DE BENS DA RECUPERANDA. MANUTENÇÃO. MATÉRIA RELATIVA À POSSIBILIDADE DE PRÁTICA DE ATOS CONSTRITIVOS EM FACE DE EMPRESA EM RECUPERAÇÃO JUDICIAL, EM SEDE DE EXECUÇÃO FISCAL, QUE ESTÁ SENDO ANALISADA EM RECURSOS REPETITIVOS. DETERMINAÇÃO DE SUSPENSÃO DO PROCESSAMENTO DE TODOS OS FEITOS PENDENTES, INDIVIDUAIS OU COLETIVOS, QUE VERSEM SOBRE A QUESTÃO. IMPOSSIBILIDADE DE DETERMINAÇÃO, POR ORA, DE PENHORA PELO JUÍZO RECUPERACIONAL. RECURSO NÃO PROVIDO.
+A parte recorrente afirma que o acórdão recorrido afrontou o disposto nos arts. 1.037, I e II, e §§ 9º e 12, I, do Código de Processo Civil (CPC), tendo em vista que, "no caso em análise, a delimitação da matéria afetada ao Tema 987 do STJ restringe-se às constrições em sede de execuções fiscais, não restringindo, por óbvio as constrições requeridas perante o próprio Juízo Recuperacional". Dessa forma, segue afirmando, "ao ampliar indevidamente a matéria afetada pelo Tema 987 do STJ, o Tribunal "a quo" viola a literalidade do artigo 1037, incisos I e II, do CPC, como também prejudica as medidas assertivas necessárias para a satisfação do passivo fiscal das recuperandas perante a União Federal" (fls. 127/128).
+Requer o provimento de seu recurso para que seja reformado o acórdão recorrido, afastando-se a suspensão processual do Tema 987 desta Corte para os requerimentos de constrição efetuados dentro da recuperação judicial.
+A parte adversa apresentou contrarrazões (fls. 158/167).
+O recurso foi admitido na origem (fls. 176/178).
+É o relatório.
+O Tribunal de origem, em razão da afetação por esta Corte do tema relativo à "prática de atos de constrição patrimonial em face de empresa em recuperação judicial" (Tema 987/STJ, Primeira Seção, REsp 1.694.261/SP, REsp. 1.694.316/SP e REsp 1.712.484/SP, relator Ministro Mauro Campbell Marques), determinou a suspensão do feito até a deliberação da matéria.
+Ocorre que sobreveio o cancelamento da afetação do tema, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. PROPOSTA DE CANCELAMENTO DE AFETAÇÃO. VIGÊNCIA DA LEI 14.112/2020, QUE ALTEROU A LEI 11.101/2005. NOVEL LEGISLAÇÃO QUE CONCILIA ORIENTAÇÃO DA SEGUNDA TURMA/STJ E DA SEGUNDA SEÇÃO/STJ.
+1. Em virtude de razões supervenientes à afetação do Tema Repetitivo 987, revela-se não adequado o pronunciamento desta Primeira Seção acerca da questão jurídica central ("Possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal de dívida tributária e não tributária.") 2. Recurso especial removido do regime dos recursos repetitivos.
+Cancelamento da afetação do Tema Repetitivo 987.
+(REsp n. 1.694.261/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 23/6/2021, DJe de 28/6/2021.)
+Ante o exposto, julgo prejudicado o presente recurso especial e determino a devolução dos autos ao Tribunal de origem para a apreciação da matéria conforme entender de direito.
+Publique-se. Intimem-se.
+ EMENTA
