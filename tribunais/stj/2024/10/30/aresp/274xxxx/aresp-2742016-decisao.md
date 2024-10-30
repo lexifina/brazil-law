@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por VIACAO AGUIA BRANCA S A à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim resumido:
+APELAÇÕES CÍVEIS - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS - DESERÇÃO E INTEMPESTIVIDADE - NÃO CONHECER - ACIDENTE DE TRÂNSITO - RESPONSABILIDADE CIVIL OBJETIVA DO TRANSPORTADOR - AMPUTAÇÃO DE MEMBRO SUPERIOR - DANOS MATERIAL, MORAL E ESTÉTICO E PENSIONAMENTO MENSAL DEVIDOS - DANO MORAL POR RICOCHETE COMPROVADO - BASE DE CÁLCULO DOS VALOR DOS HONORÁRIOS ADVOCATÍCIOS - LITIGÂNCIA DE MÁ-FÉ - NÃO OCORRÊNCIA - JUROS E CORREÇÃO MONETÁRIA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 944 do CC, no que concerne à falta de razoabilidade e proporcionalidade do valor fixado a título de danos morais, razão pela qual deve ser reduzido nos termos do voto vencido do relator do acórdão recorrido, trazendo a seguinte argumentação:
+Vê-se, desta forma, que, a fixação do total de R$ 400.000,00 (quatrocentos mil reais), a título de danos morais reflexos, aos recorridos IRISNALDO SANTOS DE AMORIM e LUCIENE JESUS SILVA., se mostra totalmente for a sintonia com os critérios da razoabilidade, da proporcionalidade e da equidade, que devem nortear os Magistrados na difícil tarefa de arbitrar o quantum para reparação de danos extrapatrimoniais.
+ ..
+Desta forma, nota-se que a fixação para a indenização por danos morais aos Recorridos não observou os princípios da razoabilidade e proporcionalidade, ao contrário dos julgados ora colacionados, devendo ser reformada a decisão hostilizada neste tópico, para reduzir os valores excessivamente arbitrados pelo Juízo a quo, no oatamar daouele indicado nelo Eminente Desembargador Relator daquele Acórdão, ou seja, R$ 50.000,00 (cinquenta mil reais) para cada um daqueles dois recorridos, visto que tal valor está em total com os princípíos da razoabilidade e proporcionalidade (fls. 2.143/2.147).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Com relação ao tópico de indenização de danos morais aos genitores; o eminente Desembargador Relator fixou e trouxe a fundamentação no valor de R$ 25.000,00 para cada genitor.
+Todos aqui somos pais e sabemos que dor maior é ver o sofrimento de um filho, todos aqui preferem sentir essa dor a ver o filho sofrer. Os pais são de uma cidade pequena onde o custo de vida é mais barato e a realidade da vida é muito mais simples, tiveram que largar a família, os amigos e o trabalho; os pais, emocionalmente abalados não puderam retornar o convívio profissional deles, ou seja, esse conjunto só veio acarretar maiores prejuízos.
+Então, acho que esse valor de R$ 25.000,00, data máxima vênia, não corresponde e não supre qualquer sofrimento que viveram durante todo esse período e pelo resto de suas vidas.
+Neste ponto, pedindo todas as vênias ao eminente Desembargador Fábio Ciem de Oliveira, altero para fixar o valor de R$ 200.000,00 para cada genitor.
+No mais, acompanho de forma integral o posicionamento do eminente Relator (fl. 2.060).
+Tal o contexto, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 8.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 27.8.2020; AgInt no AREsp 1.533.714/RN, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 28.8.2020; e AgInt no AREsp 1.533.913/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 31.8.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
