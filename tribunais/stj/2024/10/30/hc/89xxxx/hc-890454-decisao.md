@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de NATANAEL NASCIMENTO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferido no julgamento do Agravo em Execução Penal n. 1.0000.23.119592-6/001.
+Consta dos autos que o paciente cumpria pena em regime fechado quando lhe foi autorizada a transferência para os quadros da Associação de Proteção e Assistência aos Condenados - APAC. Inconformada, a acusação agravou da decisão, pleiteando a manutenção do paciente na comarca em que cumpria a pena, o recurso foi provido nos termos da seguinte ementa:
+"EMENTA: AGRAVO EM EXECUÇÃO - TRANSFERÊNCIA PARA ASSOCIAÇÃO DE PROTEÇÃO E ASSISTÊNCIA AOS CONDENADOS - INVIABILIDADE - DELIBERAÇÃO DA DIREÇÃO DO CENTRO DE REINTEGRAÇÃO SOCIAL - FUNDAMENTAÇÃO ESPECÍFICA - 1. O juízo da execução deverá decidir sobre o pedido de transferência, mediante prévia aquiescência do juízo do local para o qual se almeja a transferência. - 2. A competência para deliberar sobre a admissão do reeducando na Associação de Proteção e Assistência aos Condenados é do juízo da execução penal da comarca sede do Centro de Reintegração Social, para a qual se pretende a transferência - 3. É necessária a aquiescência da direção do Centro de Reintegração Social sobre a viabilidade da admissão do reeducando nos quadros da Associação de Proteção e Assistência aos Condenados. - 4. Há precedentes deste Tribunal de Justiça no sentido de que a transferência do reeducando não se configura direito absoluto, podendo o juiz ou o Tribunal de origem indeferir o pleito, no interesse da segurança pública, desde que de forma fundamentada." (fl. 13).
+No presente writ, a impetrante sustenta que o paciente preenche todos os requisitos exigidos para ser transferido ao sistema APAC, argumentando que a gravidade do delito e a quantidade de pena a ser cumprida não constituem fundamentos idôneos aptos a afastarem a benesse.
+Requer, em liminar, a transferência imediata do paciente para o regime da APAC e, no mérito, a determinação para que o Tribunal a quo aprecie o mérito do writ, a fim de autorizar a transferência.
+Indeferida a liminar às fls. 68/69 e dispensadas as informações, o Ministério Público Federal, às fls. 78/84, opinou pelo não conhecimento do writ e, sucessivamente, pela denegação da ordem.
+É o relatório.
+Decido.
+Tendo em vista que o paciente já se encontra cumprindo pena no regime semiaberto em prisão domiciliar, conforme informações constantes do SEEU-CNJ - Sistema Eletrônico de Execução Unificado (Processo n. 4400041-75.2022.8.13.0242), julgo prejudicado o presente habeas corpus, com fundamento no art. 34, XI, do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
