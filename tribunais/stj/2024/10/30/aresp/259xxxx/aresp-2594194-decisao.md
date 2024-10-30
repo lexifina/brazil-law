@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EVIDENCE PREVIDÊNCIA S.A. (EVIDENCE) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, EVIDENCE apontou violação dos arts. 373, I, e 1.022, I e II, ambos do CPC; e 317 e 478, ambos do CC/02, sustentando, em suma, que (1) houve omissão no acórdão recorrido; e (2) deve ser produzida prova pericial atuarial e deferidas a repactuação e a resolução do contrato com opção de resgate ou portabilidade dos recursos investidos.
+(1) Da alegada omissão
+Não se pode conhecer da apontada violação do art. 1.022, I e II, do CPC, porquanto as alegações que fundamentaram a suposta ofensa são genéricas, sem indicação efetiva dos pontos omissos, contraditórios ou obscuros. Tal deficiência, impede a abertura da instância especial, nos termos da Súmula n. 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, veja-se o seguinte precedente:
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 535 DO CPC NÃO DEMONSTRADA. SÚMULA N. 284 DO STF. ALEGADA ILEGITIMIDADE PASSIVA. MATÉRIA ANALISADA EM DECISÃO DEFINITIVAMENTE JULGADA. PRECLUSÃO CONSUMATIVA. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. DIVERGÊNCIA NÃO DEMONSTRADA. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação do recurso especial que alega violação do art. 535 do CPC, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido que não teria sido sanado no julgamento dos embargos de declaração.
+ ..
+5. Agravo regimental a que nega provimento.
+(AgRg no AREsp 264.238/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 18/12/15 - sem destaque no original)
+Além do mais, a jurisprudência desta Corte possui o entendimento de que os embargos de declaração têm por objetivo sanar omissão, obscuridade ou contradição no julgado e que, ausentes os vícios indicados no art. 535 do CPC/73, não cabe utilizá-los com o intuito exclusivo de prequestionar a matéria(EDcl no AgRg no REsp 1.499.467/RS, Rel. Ministra DIVA MALERBI, Desembargadora convocada do TRF da 3ª Região, Segunda Turma, DJe 12/2/2016).
+(2) Da prova pericial, repactuação e resolução contratual
+O TJSP, ao julgar a apelação, entendeu que é desnecessária a produção de prova pericial e que não ficou configurada a alegada imprevisibilidade a justificar as pretendidas repactuação e resolução contratuais. Confira-se:
+ ..  Rejeita-se, inicialmente, a preliminar de cerceamento de defesa sob alegação de ser imperiosa a produção de prova pericial.
+À obviedade, o magistrado, nos termos do arts. 370, § único, e 371, do CPC, não está obrigado a produzir todas as provas requeridas, sendo-lhe facultado indeferir diligências inúteis ou meramente protelatórias.
+Anote-se, a par disso, que as questões postas ao crivo do MM. Juiz se cingiam, preponderantemente, à matéria de direito, prescindindo, portanto, da reclamada dilação para a realização de provas. Ademais, mesmo os aspectos fáticos da demanda estavam suficientemente elucidados, aptos, pois, a fornecer seguro juízo de certeza ao responsável pela entrega da tutela jurisdicional.
+Quanto ao tema de fundo, cuida-se de pretensão de revisão ou rescisão contratual, fundada em previdência privada aberta, ajuizada por Evidence Previdência S/A contra Ana Rosa Pustiglione Lopes Ribeiro. Segundo narrado na peça inaugural, a requerida é participante do plano denominado FGB (Fundo Garantidor de Benefício), composto pela fase de diferimento (acumulação de recursos) e concessão (pagamento do benefício por meio de resgate integral ou de forma diferida). Ressalta que o negócio é da década de 90, os participantes não são obrigados a se retirar e muitos optaram por manter o valor aplicado para obter rendimentos calculados pela variação do IGPM mais juros de 6% ao ano. Assim, ao longo dos anos, a nova realidade socioeconômica, o aumento da expectativa de vida da população, a queda de juros e inflação, acabaram por lhe impor uma onerosidade excessiva, razão pela qual pretende a repactuação e correção da reserva e rendimentos pelo IPCA 0%, ou resolução do contrato, mediante saldamento (resgate) ou portabilidade. À causa foi atribuído o valor de R$ 10.000,00.
+Os termos da pactuação encontram-se a fls. 41/99 (Regulamento) e fls. 100/107 (certificado e extrato da previdência).
+Aplica-se, ao caso em questão, o teor da súmula 563 do STJ, segundo a qual "o Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas".
+Com efeito, a requerida contratou plano de previdência privada com promessa de proteção patrimonial contra a inflação pelo IGPM mais rendimentos de 6% de juros ao ano. Contribuiu por mais de vinte anos e agora, na iminência de se iniciar o pagamento da renda prometida, já que sua aposentadoria está prevista para 10/06/2024, é inviável a modificação das cláusulas contratuais, sob pena de colocar o consumidor em desvantagem excessiva.
+Os fatos alegados na inicial, como redução de juros, aumento da expectativa de vida da população e alterações realizadas pelo órgão regulamentador, se encontram dentro do risco da atividade desenvolvida pela autora, que ao celebrar contrato de longa duração deveria ter considerado em seus cálculos atuariais a possibilidade de mudanças do cenário econômico, algo que, aliás, nem é novidade no país.
+ ..
+Postas estas premissas, rejeitada a preliminar, nega-se provimento ao recurso, majorando-se os honorários sucumbenciais para 12% do valor atualizado da causa, nos termos do art. 85, § 11, do CPC (e-STJ, fls. 1.144/1.150 - sem destaques no original).
+A conclusão adotada na origem teve por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice das Súmulas n. 5 e 7, ambas do STJ.
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. IMPUGNAÇÃO DA DECISÃO DE ADMISSIBILIDADE. NOVA ANÁLISE. OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. PREVIDÊNCIA PRIVADA. AÇÃO REVISIONAL. ONEROSIDADE EXCESSIVA AFASTADA. REVISÃO. INVIABILIDADE. REEXAME DE CLÁUSULAS CONTRATUAIS E DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+3. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado.
+4. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+5. Rever a convicção formada pelo tribunal de origem acerca da prescindibilidade de produção da prova oral requerida demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+6. Afastada pelo tribunal de origem, com base na análise do contrato de previdência privada e das provas, a pretensão de revisão do benefício previdenciário, a reanálise da questão pelo STJ é inviável por incidência das Súmulas n. 5 e 7.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.263.243/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/9/2023, DJe de 6/9/2023 - sem destaques no original)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. CONTRATOS BANCÁRIOS. ALEGAÇÃO DE ONEROSIDADE EXCESSIVA. FATOS IMPREVISÍVEIS E EXTRAORDINÁRIOS A ENSEJAR A RESOLUÇÃO CONTRATUAL. NÃO OCORRÊNCIA. REEXAME CONTRATUAL E FÁTICO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e interpretar cláusulas contratuais (Súmulas n. 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.897.876/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/3/2022, DJe de 4/4/2022 - sem destaque no original)
+Destaque-se, por fim, que nos termos da jurisprudência desta Corte, cabe ao Juiz, como destinatário final da prova, respeitando os limites adotados pelo CPC, decidir pela produção probatória necessária a formação do seu convencimento. Nesse contexto:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 2. DANOS MORAIS. REVISÃO DO QUANTUM FIXADO. ÓBICE DA SÚMULA N. 7/STJ. 3. RESPONSABILIDADE EXTRACONTRATUAL. JUROS DE MORA. TERMO INICIAL. EVENTO DANOSO. SÚMULA N. 54/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. Sobre a tese de cerceamento de defesa, é certo que a produção probatória se destina ao convencimento do julgador e, sendo assim, pode o juiz rejeitar a produção de determinadas provas, em virtude da irrelevância para a formação de sua convicção.
+2. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, quanto à existência de cerceamento de defesa, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em face da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.034.085/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022 - sem destaques no original)
+Assinala-se que a valoração das provas pelo magistrado decorre de seu livre convencimento motivado, na forma dos artigos 370 e 371, ambas do CPC, norteando-o, como destinatário da prova, no processo de tomada de decisão, restando, ainda, devidamente observado o disposto no art. 373 do CPC, na medida em que ambas as partes dispuseram de igualdade de condições para a produção das provas que entenderam cabíveis.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER o recurso especial.
+MAJORO de 12% para 17% o valor dos honorários advocatícios anteriormente fixados em favor de ANA ROSA PUSTIGLIONE LOPES RIBEIRO, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO DEMONSTRAÇÃO. SÚMULA N. 284 DO STF. PRODUÇÃO DE PROVA PERICIAL. DESNECESSIDADE. LIVRE CONVENCIMENTO. IMPREVISIBILIDADE. NÃO CONFIGURAÇÃO. REPACTUAÇÃO E RESOLUÇÃO CONTRATUAIS. NÃO CABIMENTO. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO E DE CONTEÚDO CONTRATUAL. INCIDÊNCIA DAS SÚMULAS N. 5 E 7, AMBAS DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
