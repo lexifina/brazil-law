@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de WILLI SOUZA TREBI em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 0008524- 21.2017.8.26.0606).
+O paciente foi condenado a 6 anos,10 meses e 15 dias de reclusão em regime fechado, além do pagamento de 27 dias-multa, pela prática do crime previsto no art. 157, § 2º, I e II, c/c os arts. 70, 1ª parte, e 340, c/c o art. 61, II, b, todos do Código Penal.
+A apelação interposta pela defesa foi desprovida.
+A defesa alega: a) "o Colendo Superior Tribunal de Justiça sumulou a matéria, afirmando que, quando a pena-base é fixada em seu grau mínimo, não pode ser estabelecido o regime de cumprimento de pena mais severo com fundamento na gravidade do delito" (e-STJ fl. 06); b) "para se impor regime mais gravoso do que aquele em tese autorizado pela quantidade da pena fixada é imprescindível que tal determinação seja fundamentada a partir das peculiaridades do caso concreto" (e- STJ fl. 06); c) "com a pena-base no mínimo legal, em razão dos bons antecedentes, favoráveis as circunstâncias judiciais do artigo 59, do Código Penal, faz jus ao regime semiaberto" (e-STJ fl. 07); e d) "a pena e o regime de seu cumprimento devem ser suficientes e necessários para a reprovação e prevenção do crime, porquanto o acusado não demonstrou periculosidade, agindo com normal intensidade de dolo à espécie, sendo que nada justifica a fixação de regime rigoroso" (e-STJ fl. 07).
+Requer, liminar e definitivamente, deferimento da ordem para fixar o regime de cumprimento inicial de pena no semiaberto.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal "pelo não conhecimento do habeas corpus, ante a perda do objeto" (e-STJ, fl. 89).
+De fato, conforme bem observado pelo Ministério Público Federal, "em consulta ao andamento da Revisão Criminal nº 12150587- 97.2023.8.26.0000, verifiquei que, em 28/11/2023, o Tribunal de origem julgou procedente o pedido revisional para absolver o paciente pela prática do delito inserto no art. 157, § 2º, I e II, art. 70, 1ª parte, art. 340, e art. 61, II, "b", todos do Código Penal, com fulcro no art. 386, VII, do Código de Processo Penal" (e-STJ, fl. 89), é o que demonstra, inclusive, o documento de fls. 92-103 (e-STJ).
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
