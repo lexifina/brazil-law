@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão que negou provimento ao agravo em recurso especial.
+Sustenta a parte embargante que os valores indicados na planilha de fl. 22 apenas não eram coincidentes com o valor global do contrato de fl. 54 porque ela descontou o montante parcialmente adimplido pelo embargante, isto é, a cobrança se referia apenas às mensalidades ali indicadas, já que ele chegou a pagar três das dez parcelas do curso de pós-graduação (fl. 358), o que justificava a diferença entre o valor total do curso e o montante aqui cobrado.
+Assevera que a origem do valor de R$ 524,00 não foi dirimida, enfrentada e nem julgada pela Corte de origem, e, assim sendo, comporta ser esclarecido o entendimento firmado pela decisão embargada de que o Tribunal local, ao apreciar o conjunto probatório dos autos, dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Assim delimitada a questão, passo a decidir.
+A decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum, conforme se depreende de seus próprios fundamentos, a seguir transcritos (fls. 443 - 444):
+O Tribunal de origem, ao apreciar a questão, entendeu à fl. 371 - grifei:
+O fato objetivo, contudo, é que inexistia controvérsia a respeito da forma de pagamento, já que no próprio documento juntado pela embargada em emenda à petição inicial se via a seguinte anotação no cabeçalho da folha: "pagamento à vista" (fls. 54).
+Aqui o que tinha relevo, isso sim, é que o embargante não apresentou prova daquele pagamento. Isto é, as partes firmaram contrato de prestação de serviços educacionais no qual o embargante se comprometeu a pagar o valor à vista, mas assim não fez, já que não apresentou prova daquele pagamento, ônus que lhe competia nos termos do artigo 373 da lei processual.
+Note-se que somente o transcurso do tempo entre a assinatura do contrato e a apresentação dos embargos monitórios que decorreu da dificuldade de citação do embargante não o eximia de apresentar a prova daquele pagamento, em especial porque ele não se animou a indicar por qual meio adimpliu o contrato e qual era o impedimento concreto que o transcurso do tempo representava à apresentação do comprovante daquele pagamento. No mais, a embargada esclareceu que os valores indicados na planilha de fls. 22 apenas não eram coincidentes com o valor global do contrato de fls. 54 porque ela descontou o montante parcialmente adimplido pelo embargante, isto é, a cobrança se referia apenas as mensalidades ali indicadas, já que ele chegou a pagar três das dez parcelas do curso de pós-graduação (fls. 358), o que justificava a diferença entre o valor total do curso e montante aqui cobrado.
+Noto que a Corte local, ao apreciar o conjunto probatório dos autos, dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos encontra-se objetivamente fixado nas razões da decisão embargada, motivo pelo qual rejeito a alegação de omissão no julgado. A propósito, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+ ..
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016)
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
