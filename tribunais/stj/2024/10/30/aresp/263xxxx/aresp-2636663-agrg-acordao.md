@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2024 a 30/10/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. PRINCÍPIO DA DIALETICIDADE. NÃO OBSERVÂNCIA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O princípio da dialeticidade recursal impõe que a parte recorrente impugne todos os fundamentos da decisão recorrida e demonstre, concreta e especificamente, o seu desacerto.
+2. A falta de ataque a todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC/2015, do art. 253, parágrafo único, I, do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+3.  Na origem, o recurso especial não foi admitido diante dos óbices das  Súmulas  n. 7 e 83/STJ e da Súmula n. 284/STF. Todavia, no respectivo agravo, a Defesa se limitou a aduzir, genericamente, a inaplicabilidade das Súmulas n. 7 e 83/STJ, o que enseja a impossibilidade de seu conhecimento.
+4. Para afastar a incidência da Súmula n. 7/STJ, exige-se a demonstração clara e objetiva de que a solução da controvérsia e a análise  de violação da lei federal independem do reexame do conjunto fático-probatório. Na espécie, não houve sequer o cuidado de se contextualizar os dados concretos constantes do acórdão recorrido. Precedentes.
+5. A impugnação da Súmula n. 83/STJ demanda que a parte demonstre que o entendimento adotado pelo Tribunal de origem diverge da jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, o que não ocorreu no caso em exame. Precedentes.
+6. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCIO ALVES BRAGA contra a decisão por mim proferida  que não conheceu do agravo em recurso especial em virtude do óbice da Súmula n. 182/STJ (fls. 1.792-1.798).
+A parte agravante alega que impugnou a incidência das Súmulas 07 e 83 do STJ utilizadas como fundamento para negar seguimento ao recurso especial (fls. 1.803-1.809).
+Requer o provimento do recurso.
+Contrarrazões do Ministério Público do Estado de Santa Catarina pelo não provimento do agravo regimental (fls. 1.817-1.820).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. PRINCÍPIO DA DIALETICIDADE. NÃO OBSERVÂNCIA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O princípio da dialeticidade recursal impõe que a parte recorrente impugne todos os fundamentos da decisão recorrida e demonstre, concreta e especificamente, o seu desacerto.
+2. A falta de ataque a todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC/2015, do art. 253, parágrafo único, I, do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+3.  Na origem, o recurso especial não foi admitido diante dos óbices das  Súmulas  n. 7 e 83/STJ e da Súmula n. 284/STF. Todavia, no respectivo agravo, a Defesa se limitou a aduzir, genericamente, a inaplicabilidade das Súmulas n. 7 e 83/STJ, o que enseja a impossibilidade de seu conhecimento.
+4. Para afastar a incidência da Súmula n. 7/STJ, exige-se a demonstração clara e objetiva de que a solução da controvérsia e a análise  de violação da lei federal independem do reexame do conjunto fático-probatório. Na espécie, não houve sequer o cuidado de se contextualizar os dados concretos constantes do acórdão recorrido. Precedentes.
+5. A impugnação da Súmula n. 83/STJ demanda que a parte demonstre que o entendimento adotado pelo Tribunal de origem diverge da jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, o que não ocorreu no caso em exame. Precedentes.
+6. Agravo regimental não provido.
+VOTO
+Presentes os requisitos de admissibilidade do regimental, passo à análise do agravo em recurso especial, adiantando, desde já, que a irresignação não prospera.
+A decisão por mim proferida está assim fundamentada (fls. 1.793-1.795)  :
+O cotejo entre a decisão de inadmissibilidade e as razões do presente agravo revela a ausência de impugnação específica a dois dos fundamentos adotados para inadmissão do recurso especial, qual sejam, as Súmulas n. 7 e 83/STJ.
+Com efeito, a parte limitou-se a afirmar, genericamente, que, ao contrário do exarado na decisão agravada, a matéria discutida no recurso especial é exclusivamente de direito, dispensando exame do material fático- probatório.
+Para fins de impugnação ao óbice da Súmula n. 7/STJ, é imprescindível que a parte demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem a incursão no conjunto fático-probatório - o que não ocorreu - não sendo aceitável que a parte a contorne mediante alegação abstrata de pretender revaloração, deixando de partir dos fatos reconhecidos nas instâncias ordinárias para efetuar a sua própria avaliação da instrução (AgRg no AREsp n. 1.711.751/DF, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 15/6/2021, DJe 21/6/2021). (..).
+Outrossim, com relação à impugnação da Súmula 83/STJ, conforme a assente a jurisprudência do Superior Tribunal de Justiça, "incumbe à parte apontar julgados, deste Superior Tribunal, contemporâneos ou supervenientes sobre a matéria, procedendo ao cotejo entre eles a fim de demonstrar que a orientação desta Corte Superior é diversa da do Tribunal a quo ou que não se encontra pacificada, ou mesmo demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie" (AgRg no AREsp n. 2.253.769/PR, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 14/8/2023, DJe de 18/8/2023).
+Na espécie, contudo, a parte agravante não se desincumbiu de demonstrar o equívoco da decisão de inadmissão, uma vez que não buscou comprovar que os julgados indicados na decisão agravada são inaplicáveis à hipótese dos autos ou, ainda, que o atual entendimento jurisprudencial desta eg. Corte Superior não mais se harmoniza com os precedentes nela indicados.
+Observa-se que a decisão de inadmissão do recurso especial assentou os óbices das Súmulas n. 7 e 83/STJ e a Súmula n. 284/STF. Todavia, no respectivo agravo, a Defesa se limitou a aduzir, genericamente, a inaplicabilidade das Súmulas n. 7 e 83/STJ , o que enseja a impossibilidade de seu conhecimento.
+O princípio da dialeticidade recursal impõe que a parte recorrente impugne todos os fundamentos da decisão recorrida e demonstre, concreta e especificamente, o seu desacerto.
+Esta Corte Superior pacificou o entendimento de que a ausência de efetiva impugnação dos fundamentos da decisão que inadmitiu o recurso especial na origem impede o conhecimento do agravo, nos termos do art. 932, III, CPC/2015, do art. 253, parágrafo único, I, do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. NÃO IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. MANUTENÇÃO DA APLICAÇÃO DA SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+ ..
+4. É descabido postular a ordem de habeas corpus de ofício como forma de burlar a inadmissão do recurso especial. A concessão da ordem de ofício ocorre por iniciativa do próprio órgão jurisdicional, quando há cerceamento flagrante do direito de locomoção, não servindo para suprir eventuais falhas na interposição do recurso ou mesmo para acolher alegações apresentadas a destempo.
+5. Agravo regimental desprovido. (AgRg no AREsp n. 2.121.358/ES, rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022 - grifamos).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO IMPROVIDO.
+1. O julgamento monocrático pela Presidência do Superior Tribunal de Justiça encontra previsão no art. 21-E, V, do RISTJ, atribuindo-lhe, antes da distribuição do feito, a competência para não conhecer de recurso inadmissível, prejudicado ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, inexistindo, portanto, ofensa ao princípio da colegialidade.
+2. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+3. Agravo regimental improvido. (AgRg no AREsp n. 1.415.531/SP, rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 18/6/2019, DJe de 28/6/2019 - grifamos).
+Especificamente no tocante à refutação da  Súmula n. 7/STJ, a parte deixou de esclarecer, por meio do cotejo entre as teses recursais e os fundamentos do acórdão recorrido, de que forma o conhecimento da insurgência dispensaria o revolvimento probatório.  Não houve sequer o cuidado de se contextualizar os dados concretos constantes do acórdão recorrido.
+Como se sabe,
+são insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos. (AgRg no AREsp n. 2.176.543/SC, rel. Min. Rogério Schietti Cruz, Sexta Turma, julgado em 21/03/2023, DJe de 29/03/2023).
+Confira-se, ainda: AgRg no AREsp n. 2.422.499/SP, rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 05/03/2024, DJe de 08/03/2024.
+Outrossim, com relação ao repúdio  à  Súmula n. 83/STJ, é consabido que a parte deve demonstrar que o entendimento adotado pelo Tribunal de origem diverge da jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, o que não ocorreu no caso em exame.
+Nesse diapasão:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. APROPRIAÇÃO INDÉBITA. DOSIMETRIA DA PENA. CONFISSÃO. SÚMULA N. 231/STJ. IMPOSSIBILIDADE DE MITIGAÇÃO. ARREPENDIMENTO POSTERIOR. NÃO OCORRÊNCIA. A REPARAÇÃO DO DANO DEVE OCORRER ATÉ O RECEBIMENTO DA DENÚNCIA. GRATUIDADE DE JUSTIÇA. AUSÊNCIA DE COMPROVAÇÃO DA SITUAÇÃO FINANCEIRA. SÚMULA N. 7/STJ.
+ ..
+4. Para impugnar a incidência da Súmula n. 83/STJ, a parte deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve apresentar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ, o que não ocorreu.
+5. Não comprovada a situação financeira do recorrente perante o Tribunal de origem e ausente qualquer comprovação desta condição no recurso especial, não há como desconstituir as premissas fáticas do julgado para a concessão da gratuidade de justiça, consoante o óbice da Súmula n. 7/STJ.
+6. Agravo regimental desprovido. (AgRg no AREsp n. 2.330.646/RS, rel. Min. Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 27/2/2024, DJe 4/3/2024 - grifamos).
+Do mesmo modo: AgRg no AREsp n. 2.578.837/SC, de minha relatoria, Sexta Turma, julgado em 11/06/2024, DJe de 17/06/2024, e AgRg no AREsp n. 2.468.120/AM, rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 11/06/2024, DJe de 17/06/2024.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
