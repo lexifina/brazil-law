@@ -1,0 +1,27 @@
+DECISÃO
+LUIS FABRÍCIO DOS SANTOS ALVES agrava da decisão que inadmitiu o recurso especial por ele interposto, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Rondônia na Apelação Criminal n. 7008316-44.2021.8.22.0005.
+Nas razões do recurso especial, a defesa aponta a violação dos art. 386, II e VII, do Código de Processo Penal. Pretende a absolvição do réu pelo delito de disparo de arma de fogo pelo qual foi condenado, diante da ausência de provas de autoria e de materialidade.
+O recurso especial foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo não conhecimento ou não provimento do recurso.
+Decido.
+Consta dos autos que o agravante foi condenado à pena de 9 anos, 9 meses e 10 dias de reclusão, em regime fechado, mais multa, pela prática dos delitos previstos nos arts. 157, § 2º-A, inciso I (1º e 2º fatos), na forma do art. 71, parágrafo único, ambos do Código Penal, e art. 15 da Lei n. 10.826/2003 (3º fato), na forma do art. 69, caput, do Código Penal,
+A Corte estadual, confirmou os termos da sentença e afastou a tese defensiva, pelos seguintes argumentos (fls. 433-434, grifei):
+Neste caso, a Ocorrência Policial (id. 19780336 - pág. 04) registrou que foi encontrada uma cápsula deflagrada do mesmo calibre da arma apreendida, no interior do bar.
+Ressalto ainda que o laudo de exame na arma de fogo (id. 19780338 - pág. 04) constatou que o armamento é eficiente e apto aos fins a que se destinam (arma e munições).
+Ademais, consta nos autos também depoimento da testemunha Neiva que declarou extrajudicialmente que mora ao lado do bar da Cida e, no dia dos fatos, por volta das 16h, escutou disparos de arma de fogo, então se assustou e todos que estavam fazendo uma confraternização na sua casa foram para dentro da residência, sendo que, em seguida, percebeu uma pessoa caminhando no telhado, o qual quebrou, tendo a pessoa caído junto com uma arma, tendo os policiais o capturado (id. 19780337 - pág. 18).
+Além disso, o apelante confessou, ainda que de forma qualificada, ter efetuado disparo, porém alegou que foi acidental.
+Portanto, não há que se falar em ausência de provas da materialidade.
+Também não há que se falar em afastar o dolo da conduta do disparo de arma de fogo, haja vista que, ainda que a arma tenha disparado acidentalmente, como alega o apelante, compreendo que, no caso, o acusado assumiu o risco ao tentar fugir com a arma municiada, incidindo, no mínimo, no que prevê o art. 18, inc. I, segunda parte, do CP: "Diz-se o crime: I - doloso, quando o agente quis o resultado ou assumiu o risco de produzi-lo".
+ ..
+Como se sabe, o Estatuto do Desarmamento, que dispõe sobre registro, posse e comercialização de armas de fogo, em seu art. 15, tipificou criminalmente a conduta de "disparar arma de fogo ou acionar munição em lugar habitado ou em suas adjacências, em via pública ou em direção a ela, desde que essa conduta não tenha como finalidade a prática de outro crime".
+Trata-se de tipo penal de perigo abstrato, o qual se consuma independentemente da comprovação do risco, garantindo-se, assim, de forma mais eficaz, a proteção dos bens mais valiosos do ser humano, que são sua vida e sua incolumidade física. Portanto, não há que se falar em absolvição do delito de disparo de arma de fogo.
+Pelos trechos anteriormente transcritos, verifico que as instâncias ordinárias, após minuciosa análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de disparo de arma de fogo, sobretudo diante da prova oral produzida durante a instrução do feito.
+Assim, para afastar a conclusão do acórdão estadual e entender pela absolvição do réu, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que, conforme cediço, é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+ ..
+1. A jurisprudência deste Superior Tribunal de Justiça há muito se consolidou no sentido de que, em se tratando de crimes contra a liberdade sexual, a palavra da vítima tem alto valor probatório, considerando que delitos dessa natureza geralmente não deixam vestígios e, em regra, tampouco contam com testemunhas.
+2. No caso, contudo, o Tribunal Distrital, competente pela análise do conteúdo probatório dos autos, concluiu pela ausência de credibilidade da acusação, eis que a palavra da vítima não teria sido corroborada pelas demais provas produzidas, razão pela qual aplicou o princípio in dubio pro reo para absolver o ora recorrido com fundamento no artigo 386, inciso VII, do Código de Processo Penal.
+3. A reforma do aresto impugnado demandaria o necessário reexame de matéria fático-probatória, o que é vedado no julgamento do recurso especial por esta Corte Superior de Justiça, que não pode ser considerada uma terceira instância revisora ou tribunal de apelação reiterada, a teor do enunciado nº 7 da súmula deste Sodalício.
+4. Agravos regimentais improvidos. (AgRg no REsp n. 1.494.344/DF, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 1/9/2015, destaquei).
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
