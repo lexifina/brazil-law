@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por JAGUAR NET INFORMÁTICA LTDA. e ROBSON MATOS VENTURA contra a decisão de fls. 123-124 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O recurso especial foi deduzido com base no art. 105, III, c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 46, e-STJ):
+Agravo de Instrumento. Impugnação ao cumprimento de sentença. Matéria discutida e julgada. Preclusão ocorrida. Excesso de execução. Inocorrência. Valor apresentado na planilha inferior ao da condenação. Ocorrência somente de atualização de cálculo. Cálculo apresentado retrata o título em cumprimento. Decisão mantida. RECURSO IMPROVIDO.
+Os embargos de declaração opostos foram acolhidos, nos termos da seguinte ementa (fl. 78, e-STJ):
+Embargos de Declaração. Alegação de contradição na r. Decisão recorrida. Contradição configurada. Sanada a contradição para manter a isenção do preparo recursal. Embargos de Declaração CONHECIDO E ACOLHIDO.
+Novos aclaratórios foram manejados e rejeitados (fls. 91-94, e-STJ).
+Nas razões do recurso especial (fls. 97-102, e-STJ), fundado em dissídio jurisprudencial, os recorrentes alegaram que o acórdão impugnado incorreu em violação do art. 507 do Código de Processo Civil de 2015.
+Sustentaram estar configurado o excesso de execução no titulo executado, pois deve ele seguir estritamente os comandos do título executivo judicial, o que não ocorreu no caso em estudo, sendo necessária a realização de perícia contábil para apuração do valor devido.
+Apontaram não haver preclusão da matéria sob análise - excesso de execução - por se tratar de "erro de cálculo verificado no procedimento de cumprimento de sentença" (fl. 56, e-STJ)
+Aduziram que a discussão do presente feito está restrita apenas aos cálculos dos juros e do índice de correção monetária aplicáveis ao título executivo sob análise.
+Em juízo de admissibilidade (fls. 123-124, e-STJ), a corte de origem negou o processamento do recurso ante a ausência de demonstração das vulnerações legais suscitadas.
+Irresignados (fls. 127-132, e-STJ), aduzem os agravantes que o reclamo merece trânsito, refutando o retrocitado óbice de admissibilidade.
+Contraminuta às fls. 135-140 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No caso em exame, constata-se que recurso especial manejado pelos recorrentes encontra-se fundado em divergência jurisprudencial.
+Entretanto, verifica-se que não houve indicação de nenhum precedente que seria favorável à tese por eles defendida, nem citação, ainda que indireta, dos termos do julgado ou sequer da ementa que eventualmente permitisse estabelecer identidade fática perante o aresto recorrido, além de não declinar os argumentos que supostamente dariam respaldo à sua pretensão, nem confrontar os acórdãos tidos por divergentes ou mesmo realizar a indicação do dispositivo legal acerca do qual haveria dissenso pretoriano.
+Assim, a divergência jurisprudencial não pode ser conhecida, porquanto não atende aos requisitos dos arts. 1.029 do CPC/2015 e 255, §§ 1º e 2º, do RISTJ. Inafastável, pois, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMEAÇA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DO COTEJO ANALÍTICO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. VIOLAÇÃO AO ART. 147 DO CP. PLEITO DE RECONHECIMENTO DA ATIPICIDADE DA CONDUTA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - A interposição do apelo extremo, com fulcro na alínea c, do inciso III, do art. 105, da Constituição Federal, exige, para a devida demonstração do alegado dissídio jurisprudencial, além da transcrição de ementas de acórdãos, o cotejo analítico entre o aresto recorrido e os paradigmas, com a constatação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ocorreu na espécie. De fato, o ora agravante sequer transcreveu trechos dos acórdãos paradigmas e procedeu à comparação destes com o acórdão recorrido. Ora, essa ausência de cotejo entre os julgados impede a constatação da divergência, procedimento necessário para o conhecimento do apelo.
+II - No caso, o eg. Tribunal de origem declinou, de forma explícita, as razões pelas quais concluiu que as provas, produzidas em sede de contraditório judicial, especialmente a prova oral, comprovaram seguramente a perfeita configuração de todas as elementares exigidas pelo tipo penal previsto no artigo 147 do Código Penal, tendo ainda asseverado que a promessa de prática de mal injusto e grave proferida pelo agente foi capaz de infundir temor na vítima, a qual registrou boletim de ocorrência e solicitou medidas protetivas contra o ora agravante, fundamentos aptos a embasar o édito condenatório prolatado em desfavor do insurgente e que não podem ser revistos na presente instância.
+III - Com efeito, sobre o tema, está assentado nesta Corte que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos da Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.169.799/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 11/4/2023, DJe de 17/4/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AFRONTA AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. LEGITIMIDADE. INTERESSE. PREJUDICIALIDADE EXTERNA. ERRO MATERIAL. FALTA DE PREQUESTOINAMENTO. ARBITRAMENTO DE ALUGUÉIS. OCUPAÇÃO EXCLUSIVA POR EX-CÔNJUGE. IMÓVEL NÃO PARTILHADO. POSSIBILIDADE. PRECEDENTES. INCIDÊNCIA DAS SÚMULAS N. 284 DO STF E 83 DO STJ.
+DECISÃO MANTIDA.
+(..)
+3. Mesmo o recurso interposto com fundamento na alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como demonstração do dissídio, mediante cotejo analítico do acórdão recorrido com os paradigmas, ônus dos quais o recorrente não se desincumbiu.
+Aplicação da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+(..)
+(AgInt no REsp n. 1.899.276/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 20/6/2022, DJe de 27/6/2022)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA JULGADA IMPROCEDENTE. RECURSO FUNDADO EM DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DO COTEJO ANALÍTICO. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECLAMO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
