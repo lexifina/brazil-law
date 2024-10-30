@@ -1,0 +1,55 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela ASSOCIAÇÃO VIZINHOS DO MORRO DA IGREJA contra acórdão prolatado, por unanimidade, pela 4ª Turma do Tribunal Regional Federal da 4ª Região no julgamento de Apelação, assim ementado (fl. 473e):
+AMBIENTAL. APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. DECLARAÇÃO DE INCONSTITUCIONALIDADE. CONTROLE CONCENTRADO DE CONSTITUCIONALIDADE. INADEQUAÇÃO DA VIA ELEITA. COMPETÊNCIA DO STF.
+1. É firme, na jurisprudência, o entendimento no sentido de que a inconstitucionalidade de lei ou ato normativo do Poder Público pode ser alegada em ação civil pública, desde que constitua a causa de pedir - e não o pedido principal.
+2. Versando a presente demanda exclusivamente sobre a inconstitucionalidade da lei em tese, constata-se a inadequação da via eleita.
+Opostos embargos de declaração, foram parcialmente providos, tão somente para efeito de prequestionamento (fls. 523/533e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+i. Arts. 489, § 1º, IV e VI, e 1.022, parágrafo único, II, do Código de Processo Civil - o tribunal de origem " ..  manteve a ofensa a Legislação Federal invocada, mesmo no julgamento dos Embargos de Declaração" (fls. 555/556e); e
+ii. Arts. 11, caput, e 22, §§ 2º e 3º, da Lei n. 9.985/2000 - a alteração dos limites do Parque Nacional de São Joaquim " ..  se deu sem estudos técnicos e sem consulta pública que permitam identificar a localização, a dimensão e os limites mais adequados para a Unidade de Conservação, ou sejam, sem audiências públicas legítimas" (fl. 558e), padecendo a Lei n. 13.273/2016 de ilegalidade e inconstitucionalidade.
+Aduz-se, ainda, que a inconstitucionalidade foi suscitada de forma incidental, suscitando-se, além disso, o princípio da vedação ao retrocesso, e o dever de progressividade.
+Com contrarrazões (fls. 590/598e; fls. 609/617e; fls. 631/642e), o recurso foi inadmitido (fls. 660/666e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 770e).
+O Ministério Público Federal manifestou-se, na qualidade de custos iuris, às fls. 765/767e.
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+De pronto, verifico não ser possível conhecer da suscitada violação ao art. 1.022 do Código de Processo Civil, porquanto o recurso, nessa extensão, cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o vício integrativo a inquinar o acórdão recorrido, e, principalmente, a sua importância para o deslinde da controvérsia, atraindo o óbice da Súmula n. 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte, como espelha o julgado assim ementado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETENCIA. AUSÊNCIA DE DEMONSTRAÇÃO DOS VÍCIOS PREVISTOS NOS ARTS. 489 E 1.022 DO CPC. DEFICIÊNCIA DE ARGUMENTAÇÃO. NÃO CONHECIMENTO.
+1. Aos recursos interpostos com fundamento no CPC/2015 devem ser exigidos os requisitos de admissibilidade na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Na espécie, verifica-se que o embargante não apontou concretamente quaisquer dos vícios autorizadores da oposição do recurso manejado, tampouco acerca do dever de motivação das decisões judiciais, sem fazer qualquer correlação com o caso concreto, tampouco com o acórdão embargado.
+4. Com efeito, mostra-se deficiente a argumentação recursal em que a alegação de ofensa aos arts. 1.022, II, parágrafo único, II c/c art. 489, § 1º, IV se faz de forma genérica, dissociada dos fundamentos da decisão embargada, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. A ausência de tal demonstração enseja juízo negativo de admissibilidade dos embargos de declaratórios, uma vez desatendido o disposto no art. 1.023 do CPC, além de comprometer a compreensão da exata controvérsia a ser dirimida com o oferecimento dos aclaratórios, o que atrai a incidência da Súmula n. 284 do STF.
+5. Embargos de declaração não conhecidos.
+(EDcl no AgInt no CC n. 187.144/DF, Relator Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, j. 12.12.2023, DJe de 15.12.2023 - destaque meu).
+Acerca da suscitada ofensa aos arts. 11, caput, e 22, §§ 2º e 3º, da Lei n. 9.985/2000, em razão de suposta inobservância aos requisitos necessários à alteração dos limites de unidade de conservação, verifico que a insurgência carece de prequestionamento, porquanto não analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe o prévio debate da questão, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos apontados como violados, e, no caso, malgrado a oposição de embargos declaratórios, não foi examinada, ainda que implicitamente, a alegação recursal concernente à Lei das Unidades de Conservação (Lei n. 9.985/2000).
+Desse modo, aplicável o enunciado da Súmula n. 211 desta Corte ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"), consoante os seguintes julgados:
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO. RECEBIMENTO COMO AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO NÃO CONFIGURADO. PROVIMENTO NEGADO.
+1. Pedido de reconsideração recebido como agravo interno.
+2. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do Superior Tribunal de Justiça.
+3. O entendimento desta Corte Superior é o de que o reconhecimento do prequestionamento ficto exige que no recurso especial se tenha alegado a ocorrência de violação do art. 1.022 do Código de Processo Civil, possibilitando verificar a omissão do Tribunal de origem quanto à apreciação da matéria de direito de lei federal controvertida, o que não ocorreu na espécie.
+4. Agravo interno a que se nega provimento.
+(RCD no AREsp n. 2.201.202/RJ, Relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, julgado em 16.09.2024, DJe de 19.09.2024).
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIÇOS DE ENERGIA ELÉTRICA. MORTE POR ELETROCUSSÃO. AÇÃO INDENIZATÓRIA. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 7 E 211 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+IV - Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.438.090/BA, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 12.08.2024, DJe de 15.08.2024 - destaque meu).
+Cabe ressaltar, ainda, que, caso entendesse persistir vício integrativo no acórdão impugnado, o Recorrente deveria ter alegado afronta ao art. 1.022 do Código de Processo Civil, de forma devidamente fundamentada, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional pelo tribunal de origem, sob pena de não conhecimento da matéria por ausência de prequestionamento, como na espécie.
+Por fim, quanto às alegações atinentes à inconstitucionalidade incidental de diploma legal, e à observância ao princípio da vedação ao retrocesso e ao dever de progressividade, observo não haver firme indicação, pelo Recorrente, de qual seria o dispositivo de lei federal violado no acórdão recorrido, atraindo a incidência, por analogia, do óbice contido na Súmula n. 284 do Supremo Tribunal Federal segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+No mesmo sentido:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO. JUROS COMPENSATÓRIOS. DISPOSITIVO DE LEI VIOLADO. INDICAÇÃO. SÚMULA 284. NÃO INCIDÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. A Súmula 284 do STF é aplicada quando houver deficiência na fundamentação que comprometa a análise do julgado, como, por exemplo, quando a parte não indica ou faz mera citação ao dispositivo legal sem qualquer demonstração.
+ ..
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.906.293/RS, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12.04.2021, DJe de 05.05.2021 - destaque meu).
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. CUMULAÇÃO DE PENSÃO POR MORTE E AUXÍLIO RECLUSÃO. IMPOSSIBILIDADE. TEMA N. 896/STJ. INAPLICABILIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. FUNDAMENTAÇÃO SUFICIENTE DO TRIBUNAL DE ORIGEM. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+III - Ademais, evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados. A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF.
+ ..
+VI - Agravo interno improvido.
+(AgInt no REsp n. 2.075.044/SP, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 04.12.2023, DJe de 06.12.2023 - destaque meu).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
