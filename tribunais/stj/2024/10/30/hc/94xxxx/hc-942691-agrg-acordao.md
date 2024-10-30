@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS DESCLASSIFICADO PARA USO DE ENTORPECENTES. EXCEPCIONALIDADE. AUSÊNCIA DE PROVAS CONCLUSIVAS ACERCA DO NARCOTRÁFICO. AGRAVO DA ACUSAÇÃO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que desclassificou o crime de tráfico de entorpecentes, para uso de drogas para consumo pessoal.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se há elementos suficientes para desclassificar a conduta de tráfico de drogas para posse de drogas para consumo pessoal, considerando a quantidade e natureza das substâncias apreendidas.
+III. Razões de decidir
+3. A jurisprudência não admite habeas corpus substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+4. A quantidade de drogas apreendidas (4,31g de cocaína e 24,15g de maconha) e a ausência de provas conclusivas de narcotráfico não justificam a condenação por tráfico.
+5. O fracionamento das drogas e a pequena quantia de dinheiro não são suficientes para caracterizar tráfico, podendo ser compatíveis com posse para uso pessoal.
+6. A localização em área conhecida por venda de drogas não presume tráfico, pois também é local de compra.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 34).
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS DESCLASSIFICADO PARA USO DE ENTORPECENTES. EXCEPCIONALIDADE. AUSÊNCIA DE PROVAS CONCLUSIVAS ACERCA DO NARCOTRÁFICO. AGRAVO DA ACUSAÇÃO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que desclassificou o crime de tráfico de entorpecentes, para uso de drogas para consumo pessoal.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se há elementos suficientes para desclassificar a conduta de tráfico de drogas para posse de drogas para consumo pessoal, considerando a quantidade e natureza das substâncias apreendidas.
+III. Razões de decidir
+3. A jurisprudência não admite habeas corpus substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+4. A quantidade de drogas apreendidas (4,31g de cocaína e 24,15g de maconha) e a ausência de provas conclusivas de narcotráfico não justificam a condenação por tráfico.
+5. O fracionamento das drogas e a pequena quantia de dinheiro não são suficientes para caracterizar tráfico, podendo ser compatíveis com posse para uso pessoal.
+6. A localização em área conhecida por venda de drogas não presume tráfico, pois também é local de compra.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls.34-40):
+"A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício.
+Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. GENITOR. IMPRESCINDIBILIDADE DE CUIDADOS AO FILHO MENOR NÃO DEMONSTRADA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+I - A Primeira Turma do Supremo Tribunal Federal firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. Precedentes.
+II - O art. 318, inciso VI, do Código de Processo Penal dispõe que o magistrado poderá substituir a prisão preventiva pela domiciliar quando o agente for homem, caso seja o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos.
+III - No caso dos autos, conforme consignado pelo Tribunal a quo a defesa não se desincumbiu do ônus de demonstrar a imprescindibilidade do ora agravante aos cuidados de seus filhos.
+IV - Para desconstruir as conclusões alcançadas na origem seria necessário o revolvimento da matéria fático-probatória do caso em apreço, providência que é vedada em sede de habeas corpus.
+Agravo regimental desprovido.
+(AgRg no HC n. 764.589/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.). Grifos acrescidos.
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo com fito de preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Não se desconhece, ainda, da vedação de revolvimento de matéria fático-probatória em habeas corpus. O caso em análise, entretanto, requisita apenas a revaloração de fatos e provas incontroversos apresentados nos autos, assim como a interpretação jurídica dos fundamentos utilizados para fundamentar a capitulação no art. 33, caput, da Lei 11.343/06.
+Passo a análise de ofício
+Pretende a defesa, ora impetrante, como pleito principal, a absolvição do paciente da conduta tipificada no art. 33, caput, da Lei 11.343/06, ou a desclassificação para o tipo previsto no artigo 28, § 2º, da Lei de Droga (e-STJ fl. 22).
+A concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem sobre a controvérsia (e-STJ fls. 22):
+"O acusado manteve-se em silêncio em solo inquisitivo e, judicialmente, negou a prática delitiva, consignando que os entorpecentes destinavam-se ao seu uso pessoal.
+Analisando-se o conjunto probatório ,resta evidente a prática do crime de tráfico de drogas. Segundo os depoimentos coesos e harmônicos dos policiais, em patrulhamento de rotina, eles notaram a movimentação estranha do acusado e Claudemir, os quais demonstraram nervosismo, tendo o último dispensado algo.
+Após a abordagem, encontraram entorpecentes em posse do réu e a porção de crack dispensada por Claudemir, o qual admitiu tê-la adquirido do apelante.
+Como se vê, os policiais visualizaram os atos de comercialização de entorpecentes em via pública, o que foi confirmado pelo adquirente da droga. O ingresso dos policiais na residência do acusado, nesse cenário, se torna completamente irrelevante, pois o delito de tráfico já estava configurado.
+Dessa forma, a pouco crível negativa do acusado restou dissociada do robusto caderno probatório reunido. A condenação, como se vê, era mesmo de rigor." (e-STJ fl. 22)
+No presente caso, a flagrância ocorreu por policiais militares, em via pública, em uma abordagem pessoal do paciente e de um amigo que estavam caminhando, e foi encontrada uma quantidade de 4,31g de cocaína, divididos e embalados em 10 invólucros de plástico, além da quantia 24,15g de maconha também embalados em plástico.
+Deve-se reconhecer a ilegalidade do acórdão ante a fragilidade probatória para condenação do paciente no crime de tráfico de drogas.
+Veja-se que o não reconhecimento da posse de droga para consumo pessoal, art. 28 da Lei de Drogas, deu-se com base nos seguintes fundamentos:
+- quantidade/natureza das drogas.
+- as testemunhas não se autoincriminaram no primeiro depoimento.
+- local conhecido como ponto de venda de drogas.
+- fracionamento da droga apreendida.
+O fracionamento da droga encontrada, assim como a pequena quantidade de dinheiro apreendida, não são suficientes para descaracterizar o art. 28 da Lei de Drogas, entendimento já firmado por esta corte, porque tanto o traficante, como o usuário podem estar em posse destes. Quem compra a droga para uso vai receber a mercadoria fracionada e vai levar dinheiro para a compra.
+O local da apreensão também não pode ser utilizado como presunção da narcotraficância pelas mesmas razões. O usuário, para adquirir a mercadoria, precisa se dirigir ao ponto de venda.
+Quanto a quantidade/natureza das drogas apreendidas, ainda que esta corte entenda que ela não possa ser reveladora da posse para consumo pessoal, haja vista que tanto o traficante como o usuário podem estar em posse de pouca quantidade, importante evidenciar a inexpressividade do quantum encontrado com o paciente (4,31g de cocaína e 24,15g de maconha).
+Ou seja, os únicos fundamentos utilizados para capitular a conduta do paciente no art. 33, caput, da Lei de Drogas não comprovam, de forma inequívoca, a atividade de comércio ilícito.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS . TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. EXCEPCIONALIDADE. AUSÊNCIA DE PROVAS CONCLUSIVAS ACERCA DO NARCOTRÁFICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É entendimento pacífico da jurisprudência - tanto deste Superior Tribunal quanto do Supremo Tribunal Federal - de que a pretensão de desclassificação de um delito em habeas corpus exige, em regra, o revolvimento do conjunto fático-probatório produzido nos autos, providência incabível, em princípio, na via mandamental, de cognição sumária.
+2. No caso, o réu não foi flagrado ou observado em ação de comercialização da droga, expondo à venda, entregando ou fornecendo substâncias entorpecentes a consumo de terceiros. Também não foi apreendido com ele nenhum outro objeto indicativo de que as drogas (apenas 0,486 g de cocaína e de 0,215 g de crack) encontradas com ele pudessem ser destinadas ao tráfico.
+3. O fato de que as drogas estavam fracionadas e embaladas na forma típica de venda não prova que o entorpecente se destinava ao comércio ilícito. Ora, por imperativo lógico, se a porção é vendida de forma fracionada e embalada, é porque também é comprada nesse estado, de modo que pode ser encontrada nessa condição tanto na posse de um usuário quanto na de um traficante. Pelo mesmo raciocínio, a circunstância de o local ser conhecido pela venda de drogas não autoriza presumir que todo indivíduo ali encontrado com entorpecentes seja traficante, uma vez que ponto de venda é também ponto de compra. Igualmente, a pequena quantia de dinheiro encontrada não basta para demonstrar a traficância, porque é plenamente possível e até plausível que usuários de drogas tenham dinheiro consigo.
+4. Nada impede que um portador de 0,486 g de cocaína e de 0,215 g de crack, a depender das peculiaridades do caso concreto, seja um traficante, travestido de usuário, ocasião em que, "desmascarado" pelas provas efetivamente produzidas ao longo da instrução criminal, deverá ser assim condenado. No entanto, na espécie ora em análise, a apreensão de apenas essa quantidade de drogas e a ausência de diligências investigatórias que apontem, de maneira inequívoca, para a narcotraficância evidenciam ser totalmente descabida a condenação pelo delito previsto no art. 33, caput, da Lei n. 11.343/2006, o que conduz à desclassificação da conduta imputada ao recorrido para o delito de posse de drogas para consumo pessoal (art. 28 da Lei n. 11.343/2006).
+5. Especificamente no caso dos autos, a conclusão pela desclassificação da conduta imputada ao réu não demanda o revolvimento aprofundado de matéria fático-probatória, procedimento vedado em habeas corpus. O caso em análise, diversamente, requer apenas a revaloração de fatos incontroversos que já estão delineados nos autos e das provas que já foram devidamente colhidas ao longo de toda a instrução probatória, bem como a discussão, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pelas instâncias ordinárias para condenar o réu pela prática do crime de tráfico de drogas.
+6. Agravo regimental não provido.
+(AgRg no HC n. 822.742/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS . TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. EXCEPCIONALIDADE. AUSÊNCIA DE PROVAS CONCLUSIVAS ACERCA DO NARCOTRÁFICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É entendimento pacífico da jurisprudência - tanto deste Superior Tribunal quanto do Supremo Tribunal Federal - de que a pretensão de desclassificação de um delito em habeas corpus exige, em regra, o revolvimento do conjunto fático-probatório produzido nos autos, providência incabível, em princípio, na via mandamental, de cognição sumária.
+2. No caso, o réu não foi flagrado ou observado em ação de comercialização da droga, expondo à venda, entregando ou fornecendo substâncias entorpecentes a consumo de terceiros. Também não foi apreendido com ele nenhum outro objeto (por exemplo, balança etc) indicativo de que as drogas (10,1 g de maconha e 17 g de crack) encontradas com ele pudessem ser destinadas ao tráfico.
+3. Nada impede que um portador de 10,1 g de maconha e 17 g de crack, a depender das peculiaridades do caso concreto, seja um traficante, travestido de usuário, ocasião em que, "desmascarado" pelas provas efetivamente produzidas ao longo da instrução criminal, deverá ser assim condenado. No entanto, na espécie ora em análise, a apreensão de apenas essa quantidade de drogas e a ausência de diligências investigatórias que apontem, de maneira inequívoca, para a narcotraficância evidenciam ser totalmente descabida a condenação pelo delito previsto no art. 33, caput, da Lei n. 11.343/2006, o que conduz à desclassificação da conduta imputada ao recorrido para o delito de posse de drogas para consumo pessoal (art. 28 da Lei n. 11.343/2006).
+4. Especificamente no caso dos autos, a conclusão pela desclassificação da conduta imputada ao réu não demanda o revolvimento aprofundado de matéria fático-probatória, procedimento vedado em habeas corpus. O caso em análise, diversamente, requer apenas a revaloração de fatos incontroversos que já estão delineados nos autos e das provas que já foram devidamente colhidas ao longo de toda a instrução probatória, bem como a discussão, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pelas instâncias ordinárias para condenar o réu pela prática do crime de tráfico de drogas.
+5 . Agravo regimental não provido. (AgRg no HC n. 870.796/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Nesse sentido, observe-se o trecho do v. acórdão (e-STJ fl. 28):
+Os policiais militares Márcio José de Souza Martins e Vladimir de Souza Pereira Ouvidos, em solo judicial, afirmaram, de modo uníssono, que em patrulhamento, avistaram dois indivíduos, o réu e a testemunha Claudemir, os quais apresentaram nervosismo, momento em que este dispensou algo. Durante a revista pessoal, localizou-se com o réu quatro porções de maconha e cinco de cocaína, mais dinheiro, tendo ele confessado o tráfico, alegando dificuldades financeiras. O réu ainda teria mencionado possuir mais drogas em sua residência, onde foram encontrados mais entorpecentes e outra quantia em dinheiro. Foi localizado, ainda, o objeto atirado por Claudemir, uma porção de crack, que ele disse ter adquirido naquele momento do réu.
+Ausente peculiaridades do caso em concreto que apontem inequivocamente para a traficância, atrelada a inexpressiva quantidade de droga apreendida, é descabida a condenação pelo delito previsto no art. 33, caput, da Lei n. 11.343/2006."
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte, no sentido de que "Embora o crime de tráfico de entorpecentes seja de ação múltipla, sendo suficiente o implemento de qualquer dos verbos previstos no art. 33, caput, da Lei n. 11.343/2006, é imprescindível que o agente seja flagrado em atos de traficância ou que seja comprovada a finalidade mercantil por outros meios, como petrechos usualmente utilizados na traficância, quantidade incompatível com a figura do usuário, etc. 5. Na espécie, ressai dos fundamentos constantes da sentença, sem a necessidade de revolvimento do acervo probatório, que nenhuma prova foi produzida no sentido de que o recorrente estava efetivamente traficando, com destaque para a ínfima quantidade dos entorpecentes apreendidos (0,82g de cocaína e 0,84g de maconha), sendo imperativa a desclassificação da sua conduta para uso de entorpecentes, previsto no art. 28 da Lei n. 11.343/2006. " (AgRg no RHC n. 192.282/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/4/2024, DJe de 29/4/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
