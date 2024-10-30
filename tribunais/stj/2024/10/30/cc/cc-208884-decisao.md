@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo Federal da Vara Cível e Criminal de Bom Jesus da Lapa/BA, ora suscitante, e o Juízo da Vara do Trabalho de Bom Jesus da Lapa/BA, ora suscitado.
+Cinge-se a controvérsia à competência para processar e julgar reclamação trabalhista ajuizada por ex-empregado público da CONAB, que teve o seu contrato de trabalho rescindido, requerendo a sua reintegração.
+A ação foi inicialmente ajuizada no Juízo da Vara do Trabalho de Bom Jesus da Lapa/BA, que concluiu pela sua incompetência absoluta (fls. 392/393). Encaminhados os autos ao Juízo Federal da Vara Cível e Criminal de Bom Jesus da Lapa/BA, foi suscitado o presente conflito negativo de competência (fls. 401/404).
+Manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da Vara Cível e Criminal de Bom Jesus da Lapa/BA (fls. 414/421).
+É o relatório.
+O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário n. 655.283/DF, relator Ministro Marco Aurélio, relator para acórdão o Ministro Dias Toffoli, firmou, sob o regime da repercussão geral, o entendimento de que "a natureza do ato de demissão de empregado público é constitucional-administrativa e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão" (Tema n. 606/STF).
+Nesse sentido, conforme destacado pelo Ministério Público Federal às fls. 414/421, a demanda ajuizada por ex-servidor público da CONAB pretendendo a sua reintegração no cargo tem natureza jurídico-administrativa, o que atrai a competência da justiça comum  no caso, o Juízo Federal da Vara Cível e Criminal de Bom Jesus da Lapa/BA.
+A esse respeito, confiram-se precedentes da Seção de Direito Público do STJ:
+AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO COMUM. RECLAMAÇÃO TRABALHISTA. EMPREGADO PÚBLICO DO MUNICÍPIO DE NIQUELÂNDIA-GO. DEMISSÃO. NATUREZA CONSTITUCIONAL-ADMINISTRATIVA DO ATO. TEMA 606/STF. COMPETÊNCIA DO JUÍZO ESTADUAL. AGRAVO INTERNO DESPROVIDO.
+1. Trata-se de conflito de competência suscitado pelo JUÍZO DA VARA DO TRABALHO DE URUAÇU-GO e que conta com a 1ª TURMA RECURSAL DOS JUIZADOS ESPECIAIS DO ESTADO DE GOIÁS como suscitado; o conflito foi instaurado nos autos da reclamação trabalhista proposta em desfavor do MUNICÍPIO DE NIQUELÂNDIA-GO.
+2. O Supremo Tribunal Federal, sob o rito da repercussão geral, firmou a orientação segundo a qual a natureza do ato de demissão de empregado público é constitucional-administrativa e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão (Tema 606).
+3. A hipótese dos autos enquadra-se na tese firmada no Tema 606 da repercussão geral do STF, antes esposada, por quanto a causa trata justamente de demissão de empregado público, dispensado em razão de anterior aposentadoria espontânea, emergindo a natureza constitucional-administrativa do ato, a atrair a competência da Justiça comum para julgar a causa.
+4. Agravo interno a que se nega provimento.
+(AgInt no CC n. 192.039/GO, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 18/4/2023, DJe de 24/4/2023.)
+AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO COMUM. RECLAMAÇÃO TRABALHISTA. EMPREGADO PÚBLICO DO MUNICÍPIO DE NIQUELÂNDIA-GO. DEMISSÃO. NATUREZA CONSTITUCIONAL-ADMINISTRATIVA DO ATO. TEMA 606/STF. COMPETÊNCIA DO JUÍZO ESTADUAL. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Trata-se de conflito de competência suscitado pelo JUÍZO DA VARA DO TRABALHO DE URUAÇU-GO e que conta com a 1ª TURMA RECURSAL DOS JUIZADOS ESPECIAIS DO ESTADO DE GOIÁS como suscitado; o conflito foi instaurado nos autos da reclamação trabalhista proposta em desfavor do MUNICÍPIO DE NIQUELÂNDIA-GO.
+2. O Supremo Tribunal Federal, sob o rito da repercussão geral, firmou a orientação segundo a qual a natureza do ato de demissão de empregado público é constitucional-administrativa e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão (Tema 606).
+3. A hipótese dos autos enquadra-se na tese firmada no Tema 606 da repercussão geral do STF, antes esposada, conquanto a causa trata justamente de demissão de empregado público, dispensado em razão de anterior aposentadoria espontânea, emergindo a natureza constitucional-administrativa do ato, a atrair a competência da Justiça comum para julgar a causa.
+4. Agravo interno a que se nega provimento.
+(AgInt no CC n. 186.046/GO, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Seção, julgado em 29/11/2022, DJe de 2/12/2022.)
+Por fim, destaco que, nos termos do art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente o Juízo Federal da Vara Cível e Criminal de Bom Jesus da Lapa/BA para processar e julgar a demanda .
+Publique-se.
+Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. ADMINISTRATIVO. REINTEGRAÇÃO DE EX-EMPREGADO PÚBLICO. NATUREZA JURÍDICO-ADMINISTRATIVA DO VÍNCULO. TEMA N. 606/STF DE REPERCUSSÃO GERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL.
