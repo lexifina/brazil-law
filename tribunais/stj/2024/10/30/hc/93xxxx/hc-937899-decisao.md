@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ERIVANIO MANOEL DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Consta dos autos que o paciente foi preso preventivamente em 28/9/2022, pela suposta prática da conduta descrita no art. 121, § 2º, II, do Código Penal.
+A defesa alega que o paciente estaria sendo submetido a constrangimento ilegal, apontando a existência de excesso de prazo na formação da culpa. Destaca a ausência de fundamentação idônea para a decretação da prisão preventiva do paciente.
+Requer, liminarmente e no mérito, sejam afastados os requisitos da prisão preventiva, bem como o reconhecimento do excesso de prazo para a formação da culpa, com a consequente concessão da ordem para revogação da prisão cautelar.
+Por meio da decisão de fls. 59-61, o pedido liminar foi indeferido. Em seguida, foram juntadas aos autos as informações prestadas pela origem (fls.70-74) e a manifestação do Ministério Público, opinando pela denegação da ordem (fls. 78-79).
+É o relatório.
+Inicialmente, em relação à ausência dos requisitos para a decretação da prisão preventiva, conforme já exposto na decisão que indeferiu o pedido liminar, os argumentos apresentados já foram analisados no âmbito do HC n. 839.829/PE, que teve a ordem denegada em 24/8/2023, de modo que a impetração, nesse ponto, não pode ser conhecida.
+No que tange ao suposto excesso de prazo para a formação de culpa, a prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/04/2021, DJe de 30/04/2021.
+No caso dos autos, o Tribunal local examinou a questão nos seguintes termos, conforme se observa do acórdão (fls. 71-72):
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. ALEGAÇÃO DE FUNDAMENTAÇÃO INIDÔNEA POR SUPOSTA AUSÊNCIA DOS REQUISITOS AUTORIZADORES. REITERAÇÃO DE PEDIDO JÁ ANALISADO EM OUTROS WRITS. NÃO CONHECIMENTO. ALEGAÇÃO DE EXCESSO DE PRAZO. INOCORRÊNCIA. INEXISTÊNCIA DE DEMORA IRRAZOÁVEL. ORDEM DENEGADA.
+1. A alegação de fundamentação inidônea da ordem de prisão preventiva impugnada já foi analisada e rejeitada por este mesmo órgão julgador e, também, pelo próprio STJ por ocasião dos julgamentos de dois habeas corpus anteriormente impetrados com o mesmo objeto, referente à mesma ação penal originária, tratando-se os argumentos do impetrante, nesse ponto, de mera reiteração de pedidos a não merecer conhecimento.
+Precedentes do STJ;
+2. De todo modo, no julgamento dos writs anteriores, verifica-se o acerto deste TJPE e do STJ que entenderam, à luz da jurisprudência pacífica dos Tribunais, possuir fundamentação idônea a prisão preventiva para garantia da ordem pública baseada no modus operandi do acusado a evidenciar a gravidade concreta do crime de homicídio qualificado objeto da lide;
+3. O excesso de prazo deve ser aferido, à luz do princípio da razoabilidade, considerando eventual atraso injustificado na instrução penal e eventual desídia da autoridade processante na condução do feito, o que não ocorreu no presente caso;
+4. Contudo, ciente de que o prazo para julgamento do processo originário, encontrando- se o acusado preso, está próximo do limite do razoável, deve ser recomendado ao Juízo de 1º grau que seja dada a prioridade e celeridade adequadas ao feito para obtenção do seu julgamento;
+5. Ordem de habeas corpus parcialmente conhecida e, nessa extensão, denegada. Decisão unânime.
+Ainda, veja-se o que consta nas informações prestadas pelo Tribunal de origem (fls. 70/74):
+Acrescento, por oportuno, que, de acordo com as informações prestadas pela autoridade coatora/Juiz de 1º grau, a ação penal originária se encontra atualmente aguardando a continuação da audiência de instrução e julgamento designada para o dia 21.10.2024, tendo Sua Excelência, pela última vez, reavaliado os requisitos e mantido a prisão preventiva do paciente em 11.07.2024.
+Em consulta ao sistema processual do Tribunal de Justiça de Pernambuco, verifica-se que a audiência designada para o dia 21/10/2024 foi realizada, de forma que a ação penal segue sua marcha regular.
+Não há suporte, assim, para a alegação constante da petição inicial segundo a qual "o processo está sem movimentação desde 03/04/2024" (fl. 4), não se configurando desídia ou mora estatal na ação penal quando a sequência dos atos processuais afasta a ideia de paralisação indevida do processo ou de responsabilidade do Estado persecutor, razão pela qual não há que se falar em ilegalidade por excesso de prazo.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E CONSUMADO. ORGANIZAÇÃO CRIMINOSA. MEDIDAS CAUTELARES. FUNDAMENTAÇÃO PER RELATIONEM. IMPRESCINDIBILIDADE DA MEDIDAS DEMONSTRADA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se configura desprovida de fundamentos a decisão que mantém as medidas cautelares impostas pelos mesmos fundamentos quando da sua decretação.
+2. A chamada técnica da fundamentação per relationem (também denominada motivação por referência ou por remissão) é reconhecida pelo Supremo Tribunal Federal como legítima e compatível com o disposto no art. 93, IX, da Constituição Federal.
+3. Diante das circunstâncias concretas do caso e em observância ao binômio proporcionalidade e adequação, é possível a manutenção das medidas cautelares quando se mostrarem necessárias para garantir a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal.
+4. Inexiste excesso de prazo nas hipóteses em que não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 160.743/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.)
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PRISÃO CAUTELAR. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. DECURSO DE TEMPO COMPATÍVEL COM OS PARÂMETROS FÁTICO-PROCESSUAIS. ORDEM DENEGADA.
