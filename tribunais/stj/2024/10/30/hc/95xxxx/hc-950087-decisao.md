@@ -1,0 +1,11 @@
+DECISÃO
+O  presente  writ,  impetrado  em  benefício  de  JONATA  HENRIQUE  MELQUIADES  DE  CARVALHO  -  condenado  como  incurso  no  crime  de  furto qualificado  -,  apontando-se  como  autoridade  coatora  o  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SÃO  PAULO  (Processo  n.  1538502-17.2019.8.26.0050),  não  comporta  acolhimento.
+Neste  writ,  aponta  o  impetrante a insuficiência de provas para a condenação, porque amparada apenas em exame papiloscópico, bem como ilegalidade decorrente da fixação do regime inicial fechado, porque, embora a reincidência tenha sido considerada, as circunstâncias judiciais desfavoráveis não foram suficientemente demonstradas para justificar a imposição do regime mais gravoso (fl. 5). Requer, assim, a absolvição ou, subsidiariamente, a fixação do regime semiaberto.
+No  entanto,  o  presente  writ  é  incabível  por  consubstanciar  inadequada  impetração  concomitante  com  o  agravo em recurso especial,  tratando-se  de  indevida  subversão  do  sistema  recursal  e  de  violação  do  princípio  da  unirrecorribilidade  recursal,  segundo  o  qual,  contra  uma  única  decisão  judicial  admite-se,  ordinariamente,  apenas  uma  via  de  impugnação  (AgRg  no  HC  n.  837.330/DF,  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  DJe  13/3/2024).
+É  certo  que  caberia  à  defesa  utilizar  apenas  um  dos  instrumentos  disponíveis  para  atacar  o  acórdão  proferido  na  origem,  especialmente  por  se  tratar  de  acusado  que  responde  ao  processo  solto,  de  maneira  que  eventual  concessão  da  ordem  não  influenciará  diretamente  no  status  libertatis  do  paciente  .
+No  mais,  inexiste  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício  e  a  consequente  superação  do  óbice  constatado.
+Ante  o  exposto,  denego  a  ordem  de  habeas  corpus.
+Publique-se.
+EMENTA
+HABEAS  CORPUS  FURTO  QUALIFICADO.  IMPETRAÇÃO  CONCOMITANTE  À  INTERPOSIÇÃO  DE  AGRAVO EM  RECURSO  ESPECIAL.  PRINCÍPIO  DA  UNIRRECORRIBILIDADE.  INOBSERVÂNCIA.  PRETENSÃO  DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS OU DE ALTERAÇÃO DO REGIME DE CUMPRIMENTO DA PENA.  CONSTRANGIMENTO  ILEGAL  MANIFESTO.  AUSÊNCIA.
+Ordem denegada.
