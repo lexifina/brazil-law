@@ -1,0 +1,34 @@
+DECISÃO
+Trat a-se de habeas corpus impetrado em favor de JOVANI LOPES GOMES, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 1500498-32.2021.8.26.0666.
+Consta dos autos que o paciente foi condenado às penas de 5 anos de reclusão, em regime inicial fechado, e ao pagamento de 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006 (fl. 54). Foram apreendidos 3 pinos cheios de cocaína (2 g), outros 11 vazios e R$ 637,00 (seiscentos e trinta e sete reais) em espécie (fl. 50).
+A Corte de origem negou provimento ao apelo defensivo (fls. 53/60).
+Neste writ, a defesa sustenta: a) fixação da pena-base no mínimo legal; b) aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006; c) fixação de regime diverso do fechado; e d) substituição da pena privativa de liberdade por restritivas de direitos.
+Nesses termos, requer, inclusive liminarmente, a concessão da ordem de habeas corpus.
+É o relatório.
+Em consulta realizada no site no Tribunal local, constata-se que a condenação transitou em julgado, de maneira que a presente impetração é substitutiva de pedido revisional e, portanto, incabível. Com efeito, nos termos do art. 105, I, e, da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+Sobre a questão, cito os seguintes precedentes: AgRg no HC n. 853.777/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/2/2024; e AgRg no HC n. 847.051/SP, Ministra Laurita Vaz, Sexta Turma, DJe 5/10/2023.
+No entanto, constato ilegalidade flagrante que justifica a concessão de habeas corpus de ofício.
+No que diz respeito à dosimetria da pena, assim consignou o Juiz de primeiro grau, no que foi acompanhado pela Corte local (fls. 50/51):
+No caso em apreço, mostra-se inviável o reconhecimento do benefício em relação ao réu, haja vista ter o laudo pericial de fls. 120/142 - feito com base nos dados encontrados em seus aparelhos celulares - dado conta de que ele realmente vende drogas com grande frequência, conforme se extrai dos inúmeros diálogos extraídos de referidos aparelhos, havendo, inclusive, diversas fotografias de entorpecentes e de dinheiro em espécie a indicar que o acusado faz do crime seu meio de vida, não sendo ele, portanto, traficante de menor expressão a justificar a incidência do benesse legal.
+ ..
+Na primeira fase, em respeito ao que determina o artigo 42 da Lei de Drogas e ao artigo 59 do Código Penal, reputo desfavorável a circunstância relativa à natureza de uma das substâncias entorpecentes apreendidas (cocaína), que é das mais prejudiciais à saúde humana, razão pela qual elevo a pena-base em 1/6 (um sexto), fixando-a em 5 anos e 10 meses de reclusão, e 583 dias-multa, cada qual no mínimo legal.
+Na segunda fase, presente a atenuante da confissão, razão pela qual fixo a pena provisória no patamar mínimo.
+Na terceira fase, ausentes majorantes e minorantes, razão pela qual a pena definitiva deve ser fixada em 5 anos de reclusão, e 500 dias-multa.
+Com efeito, segundo o art. 42 da Lei n. 11.343/2006, o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente. No entanto, a quantidade de droga apreendida (2 g de cocaína) não demonstra reprovabilidade suficiente para exasperar a pena-base.
+Exemplificativamente: AgRg no HC n. 696.266/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 17/12/2021.
+No mais, convém registrar que, segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de 1/6 a 2/3, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+No caso, o Juiz de primeiro grau, no que foi acompanhado pela Corte local, afastou a minorante considerando inviável o reconhecimento do benefício em relação ao réu, haja vista ter o laudo pericial de fls. 120/142 - feito com base nos dados encontrados em seus aparelhos celulares - dado conta de que ele realmente vende drogas com grande frequência, conforme se extrai dos inúmeros diálogos extraídos de referidos aparelhos, havendo, inclusive, diversas fotografias de entorpecentes e de dinheiro em espécie a indicar que o acusado faz do crime seu meio de vida, não sendo ele, portanto, traficante de menor expressão a justificar a incidência do benesse legal (fl. 50).
+Nesse contexto, não é possível desconstituir a conclusão da Jurisdição ordinária sobre a dedicação do paciente a atividades criminosas e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+A propósito, o seguinte julgado no âmbito desta Corte: a Corte de origem afastou a incidência da minorante por entender que as provas colhidas nos autos, sobretudo as mensagens extraídas do aplicativo "Whatsapp" do celular do acusado, denotam a sua habitualidade delitiva. Logo, a modificação desse entendimento, a fim de fazer incidir a minorante da Lei de Drogas, enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus (AgRg no HC n. 567.637/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2020).
+Fixadas essas premissas, passo a redimensionar as penas do paciente.
+Na primeira fase, neutralizo o vetor natureza e quantidade, e fixo a pena-base no mínimo legal, qual seja: 5 anos de reclusão e 500 dias-multa.
+Na segunda fase, embora reconhecida a atenuante da confissão espontânea, a pena intermediária permanece no mínimo legal, em razão da Súmula 231 desta Corte.
+Na terceira fase, ausentes causas modificativas, fica estabelecida a reprimenda definitiva do paciente em 5 anos de reclusão e 500 dias-multa.
+Em consequência, fixo o regime inicial semiaberto, bem como indefiro a substituição da pena privativa de liberdade por penas restritivas de direitos, nos termos do art. 33, §§ 2º e 3º, e do art. 44, ambos do Código Penal.
+Ante o exposto, indefiro liminarmente a petição inicial, porém concedo a ordem de ofício, para fixar a pena-base no mínimo legal e, assim, reformular a dosimetria nos termos delineados nesta decisão.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. ILEGALIDADE FLAGRANTE. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE QUANTIDADE QUE NÃO POSSUI REPROVABILIDADE SUFICIENTE.
+Petição inicial liminarmente indeferida. Ordem concedida de ofício.
