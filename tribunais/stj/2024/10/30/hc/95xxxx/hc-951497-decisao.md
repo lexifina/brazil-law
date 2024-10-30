@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANDREA ORLANDI DOS SANTOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.24.398033-1/000 ).
+Depreende-se dos autos que a paciente encontra-se presa preventivamente, pela prática, em tese, de tráfico de drogas e associação para o mesmo fim.
+O Tribunal de origem denegou a ordem (e-STJ fls. 17/31).
+Daí o presente writ, no qual alega a defesa que o decreto de prisão preventiva carece de fundamentação idônea.
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Aduz que a acusada faz jus à prisão domiciliar, por ser mãe de criança menor de 12 anos de idade.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa ou custódia domiciliar.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo não conhecimento ou denegação da ordem.
+É o relatório.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 137/138):
+Muito embora o art. 318, V, do CPP disponha que o juiz poderá substituir a prisão preventiva pela domiciliar quando o agente for mulher com filho de até 12 (doze) anos de idade incompletos, o Eminente Ministro Alexandre de Moraes no julgamento do HC 152500 ressalvou que essa regra não implica reconhecer que a prisão domiciliar tem aplicação irrestrita ou automática, devendo o julgador, proceder ao exame do merecimento da agente e da conveniência da medida à luz das particularidades do caso concreto.
+No caso dos autos, a flagrada foi presa em flagrante transportando mais de 3kg de maconha do tipo skank.
+Conforme já fundamentado na decisão que converteu a prisão em flagrante em preventiva, a flagrada respondeu a processo por tráfico em situação semelhante, ou seja, quando foi flagrada transportando grande quantidade de drogas (10kg de maconha), pela mesma rodovia e rota, na BRO50, por fato ocorrido em 30/04/2024, há apenas 04 meses, restando absolvida (autos nº 0019268-97.2024.8.13.0701).
+Ressalto que, naqueles autos, a flagrada já foi beneficiada com a liberdade provisória sob o fundamento de que teria filhos menores de 12 (doze) anos sob os seus cuidados e ainda assim reincidiu na conduta.
+Por fim, o relatório do Conselho Tutelar concluiu que a criança está em segurança e bem acolhida.
+Destarte, presentes os requisitos da prisão preventiva, mantenho na íntegra a decisão que decretou a custódia cautelar da flagrada, pelo que o pedido de prisão domiciliar. (Grifei.)
+O Tribunal de origem, ao vislumbrar que a soltura do paciente caracterizaria risco à ordem pública, denegou a ordem valendo-se dos seguintes fundamentos (e-STJ fls. 25/27):
+A Paciente já havia sido presa em flagrante na data de 30.04.2024, na mesma rodovia, pela prática dos mesmos delitos (fls. 68/71). Na oportunidade, segundo o MM. Juiz a quo, houve a apreensão de 10 Kg de maconha, restando a acautelada absolvida por estar de carona e porque o motorista assumiu a propriedade dos entorpecentes.
+Não obstante, antes de ultrapassados 04 (quatro) meses daquela prisão, a Paciente foi novamente flagrada na BR050, agora na condição de condutora do automóvel, transportando expressiva quantidade de drogas (3,2 Kg de maconha do tipo "Skank").
+Os documentos acostados revelam que a Paciente, ao menos em tese, está associada de forma estável a outros indivíduos para realização do tráfico intermunicipal ou interestadual de drogas, o que ainda deve ser apurado.
+Destaca-se que a autuada auxiliou o comparsa, que estava no banco traseiro do veículo, a empreender fugar. Ela também tentou se desvencilhar da abordagem policial.
+Tais circunstância revelam a gravidade concreta dos delitos e a periculosidade da agente, tornando imperiosa a restrição da liberdade para garantia da ordem, por conveniência da instrução criminal a até mesmo para interromper o ciclo delitivo da associação.
+ ..
+Somente o acautelamento provisório terá o condão de impedir a prática de novas infrações penais, vez que o tráfico de drogas pode ser realizado pelo acautelada até mesmo de dentro de sua residência, e também de resguardar a persecução penal, inviabilizando a aplicação de qualquer das medidas cautelares previstas no art. 319 do CPP.
+Destaca-se que o tráfico vem sendo realizado pela Paciente na presença da filha menor de 12 anos de idade, que estava no automóvel no momento da abordagem, circunstância excepcional que inviabiliza a substituição da prisão preventiva pela prisão domiciliar. (Grifei.)
+Conforme visto acima, o decreto de prisão preventiva teve como lastro para a segregação cautelar do agente a grande quantidade de drogas apreendidas - a saber, 3,200Kg (três quilos e duzentos gramas) de skank -, além da existência de passagem criminal anterior pelo mesmo crime, o que o Superior Tribunal de Justiça tem admitido como fundamentação idônea para a decretação e manutenção da prisão preventiva em razão da gravidade concreta da conduta.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+ ..
+3. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência à gravidade concreta da conduta imputada ao recorrente, uma vez que foi apreendida elevada quantidade de entorpecentes (aproximadamente 1,050kg - um quilograma e cinquenta gramas - de cocaína). Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+ ..  (AgRg no RHC n. 125.192/SC, de minha relatoria, SEXTA TURMA, julgado em 12/5/2020, DJe 18/5/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. GRAVIDADE CONCRETA DO DELITO. QUANTIDADE DE DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE READEQUAÇÃO DA PRISÃO CAUTELAR COM O REGIME INTERMEDIÁRIO IMPOSTO NA SENTENÇA. AGRAVO DESPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A manutenção da custódia cautelar encontra-se suficientemente fundamentada em razão das circunstâncias do caso que, pelas características delineadas, retratam, in concreto, a periculosidade do Agente, a indicar a necessidade da segregação provisória para a garantia da ordem pública, considerando-se, sobretudo, a quantidade de droga apreendida - mais de 1 (um) quilograma e 200 (duzentas) gramas de maconha. Precedentes.
+ ..  (AgRg no HC n. 560.702/MG, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/5/2020, DJe 28/5/2020.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP não surtiriam o efeito almejado para a proteção da ordem pública. A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido. (HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 4/9/2017.)
+Por fim, como bem anotou o parecer ministerial (e-STJ fls. 216/217):
+A Segunda Turma do STF, por ocasião do julgamento do HC 143.641/SP, concedeu ordem de habeas corpus coletivo para determinar a conversão da prisão preventiva pela domiciliar de todas as mulheres presas, gestantes, puérperas, mãe de crianças e de pessoas com deficiência, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou em outra situação excepcionais as quais dever ser concretamente fundamentadas.
+Não obstante, a Suprema Corte já deliberou "que alteração na legislação processual penal, com inclusão, pela Lei 13.769, de 19/12/2018, dos arts. 318-A e 318-B, não implica reconhecer que a prisão domiciliar terá incidência irrestrita ou automática para toda gestante, mãe ou responsável por criança ou pessoa com deficiência. Deve o julgador, como em todo ato restritivo de liberdade, proceder ao exame da conveniência da medida à luz das particularidades do caso concreto" (STF, AgRg no RHC n. 216.353/SC, rel. Min. Alexandre de Moraes, j. 16.08.2022).
+No caso, a despeito de a paciente ter uma filha menor de 12 (doze) anos e de o delito ter sido comedido mediante violência ou grave ameaça ou contra a descendente, a reiteração delitiva e a existência de elementos indicativos de participação em associação criminosa voltada ao tráfico de drogas, aliadas à circunstância de as atividades criminosas estarem sendo praticadas na presença da filha - que estava no veículo onde foram apreendidos os entorpecentes-, revelam r isco à saúde da menor, uma vez que viber em contexto de suposta traficância de entorpecentes.
+Outrossim, conforme destacado pelo Tribunal de origem, a criança - que em menos de um mês completará 12 (doze) anos (fl. 66 e-STJ) - está sob os cuidados de pessoa indicada pela paciente, que se dispôs a cuidar da menor pelo tempo que for necessário (fls. 127/128 e-STJ).
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
