@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interno interposto por AZEVEDO DE ASSIS COMÉRCIO DE MÓVEIS LTDA. e outros (AZEVEDO e outros), contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial anteriormente manejado em virtude da ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade, qual seja, a incidência da Súmula nº 7 do STJ.
+Nas razões do presente inconformismo, AZEVEDO e outros defenderam que cumpriram com o seu ônus de suscitar o debate e provocar o enfrentamento da questão federal devolvida, impugando especificamente o seu conteúdo.
+Foi apresentada impugnação.
+É o relatório.
+DECIDO.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 395/396 e passo a novo exame do recurso especial interposto às e-STJ, fls. 333/346.
+Inconformados, AZEVEDO e outros interpuseram recurso especial com fulcro no art. 105, III, a e c, da Constituição Federal, apontando violação dos arts. 98 e 99, §§ 2º, 4º do CPC, Lei 1.060/50 ao sustentar, em síntese, que deve ser deferida a gratuidade processual, uma vez que devidamente preeenchidos todos os requisitos legais.
+Da justiça gratuita.
+O Tribunal gaúcho, soberano na análise do conteúdo fático-probatório, afirmaram que AZEVEDO e outros não tê m direito às benesses da justiça gratuita:
+No caso em tela, o acervo documental que instrui o recurso não ampara as alegações de hipossuficiência econômico-financeira deduzidas pelos agravantes AZEVEDO DE ASSIS & CIA LTDA, CARLOS ALBERTO WANNER DE ASSIS, CENARA DE AZEVEDO DE ASSIS e CRISTIANO DE AZEVEDO DE ASSIS. Observo que, na primeira oportunidade probatória, os agravantes-fiadores CARLOS ALBERTO WANNER DE ASSIS, CENARA DE AZEVEDO DE ASSIS e CRISTIANO DE AZEVEDO DE ASSIS juntaram ao acervo documental, respectivamente, as Declarações de Imposto de Renda do exercício 2020, ano calendário 2019 (evento 5, PROCJUDIC4, fls. 3/17), (evento 5, PROCJUDIC4, fls. 18/31) e (evento 5, PROCJUDIC4, fls. 33/43), a fim de demonstrar as suas situações de hipossuficiência econômico-financeira. De mesmo modo, a agravante AZEVEDO DE ASSIS & CIA LTDA trouxe aos autos o Recibo de Entrega de Escrituração Contábil Digital de 2019 ( evento 5, PROCJUDIC4, fls. 45/50) e (evento 5, PROCJUDIC5, fls. 1/3).
+No ponto, anoto que a documentação anexada ao acervo probatório não demonstra a situação econômico financeira dos agravantes, inclusive porque carece de atualidade.
+Neste viés, os agravantes deveriam ter carreado, ao caderno recursal, documentação atualizada e apta a comprovar as alegadas hipossuficiências econômico-financeiras, o que não ocorreu no caso em comento.
+Veja-se que o Juízo a quo determinou a intimação de CARLOS ALBERTO WANNER DE ASSIS, CENARA DE AZEVEDO DE ASSIS e CRISTIANO DE AZEVEDO DE ASSIS "para juntarem ao processo, no prazo de 15 dias, o comprovante de rendimento atualizado e cópia completa da última DIRPF, para fins de apreciação acerca do pedido da gratuidade judiciária" (evento 27, DESPADEC1), o que não foi atendido (e-STJ, fl. 298, sem destaque no original ).
+Dessa forma, para se adotar conclusão diversa da que chegou o eg. Tribunal, sobre a não comprovação dos requisitos ensejadores para a concessão da justiça gratuita, seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, a teor do que dispõe a Súmula nº 7 desta Corte, a qual não pode ser considerada terceira instância recursal.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA. NECESSIDADE DE COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. É assente o entendimento nesta Corte, segundo o qual a presunção de hipossuficiência da declaração feita pelo requerente do benefício da justiça gratuita é relativa, sendo possível ao juiz exigir a sua comprovação. Precedentes do STJ.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo interno não provido.
+(AgInt no AgInt no REsp 1.670.585/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 2/4/2018 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. HIPOSSUFICIÊNCIA NÃO COMPROVADA, APESAR DE A PARTE TER SIDO INTIMADA PARA TANTO. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA 7/STJ. INTIMAÇÃO, DE OFÍCIO, PARA COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. POSSIBILIDADE. SÚMULA 83/STJ. RECURSO DESPROVIDO.
+1. No caso, apesar de ter sido intimado para apresentar a documentação pertinente, o agravante não fez prova de que não teria condições de arcar com os custos do processo, o que culminou com o indeferimento do pedido de justiça gratuita. Destarte, a alteração da conclusão do acórdão recorrido não prescindiria de nova incursão no acervo fático-probatório da causa, o que é vedado no âmbito de recurso especial (Súmula 7/STJ).
+2. A conduta do magistrado, no sentido de intimar o autor para comprovar sua condição de hipossuficiência financeira, está em sintonia com a jurisprudência desta Corte Superior, atraindo a incidência da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.109.665/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 26/10/2017 - sem destaque no original)
+Por fim, observa-se que em relação a alegada violação às disposições da Lei nº 1.060/50 não foi explicitado qual dispositivo teria sido violado. Ressalta-se que a simples menção a normas infraconstitucionais, feita de maneira esparsa e genérica, não supre a exigência de fundamentação adequada do recurso especial. Aplicável, portanto, a Súmula 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. AÇÃO MONITÓRIA. EMBARGOS À MONITÓRIA. CONCESSÃO DA JUSTIÇA GRATUITA. NÃO CABIMENTO. PRESUNÇÃO RELATIVA. NECESSIDADE DE COMPROVAÇÃO. INVERSÃO DE ENTENDIMENTO. VEDAÇÃO. SÚMULA Nº 7 DO STJ. LEI Nº 1.060/50. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 284 DO STF. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
