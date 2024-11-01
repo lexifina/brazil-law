@@ -1,0 +1,1 @@
+Art. 238-B. A Gerência de Planejamento Estratégico é responsável pelo monitoramento da atuação da Agência e do mercado de telecomunicações, avaliando as tendências e oportunidades para o setor, com o objetivo de propor o posicionamento estratégico da Agência, por meio da elaboração, acompanhamento e avaliação da execução do Plano Estratégico da Agência.
