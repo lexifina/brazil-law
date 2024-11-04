@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por LUCIO LEVI STRAZZA E OUTROS, com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 209):
+"Agravo de instrumento. Execução de título extrajudicial. Decisão que homologou laudo de avaliação de imóvel penhorado. Impugnação dos executados que, desprovida de qualquer contexto técnico, não se presta para infundir dúvida quanto ao valor encontrado pelo perito judicial no imóvel. Laudo que não se mostra lacônico nos aspectos de relevância para a precificação do bem. Recurso não provido. "
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 260-263).
+Os recorrentes alegaram, nas razões do recurso especial (e-STJ, fls. 215-234), a violação dos arts. 480, 489, 805 e 1.022 do Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a ausência de prestação jurisdicional e de fundamentação; a necessidade de nova perícia, uma vez que há grande divergência entre os valores apresentados pela Sra. Perita e dos Experts, não restando a perícia realizada esclarecimentos suficientes e a necessidade de promover a execução pelo meio menos gravoso.
+Foram apresentadas contrarrazões (e-STJ, fl. 270-273).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a inexistência de violação dos arts. 489 e 1.022 do CPC/2015; a incidência da Súmula 7/STJ; e a ausência de comprovação do dissídio jurisprudencial apontado (e-STJ, fls. 270-273).
+É o relatório. Decido.
+Primeiramente, não se vislumbra a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. EXERCÍCIO ABUSIVO DO DIREITO DE IMPRENSA. INEXISTÊNCIA. DEVER DE VERACIDADE. OBSERVÂNCIA. DANOS MORAIS. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de indenização por danos morais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4. O direito à liberdade de imprensa não é absoluto, devendo sempre ser alicerçado na ética e na boa-fé, sob pena de caracterizar-se abusivo.
+5. A jurisprudência desta Corte Superior é consolidada no sentido de que a atividade da imprensa deve pautar-se em três pilares, quais sejam: (i) dever de veracidade, (ii) dever de pertinência e (iii) dever geral de cuidado. Se esses deveres não forem observados e disso resultar ofensa a direito da personalidade da pessoa objeto da comunicação, surgirá para o ofendido o direito de ser reparado.
+6. Na hipótese dos autos, a Corte a quo, soberana no exame do acervo fático-probatório, constatou que a jornalista não propagou informações falsas acerca do recorrente, mas apenas veiculou dados extraídos de fatos que públicos e matérias jornalísticas amplamente difundidas à época.
+7. Assim, o aresto impugnado está em harmonia com a jurisprudência desta Corte Superior acerca da matéria.
+8. Ademais, a alteração da conclusão alcançada pelo Tribunal local demandaria o incurso em matéria fático-probatória, o que é vedado em sede de recurso especial pelo óbice da Súmula 7 do STJ.
+9. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.090.707/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+O Tribunal de origem, ao julgar a apelação , consignou o seguinte excerto (e-STJ, fls. 259-261):
+"Os agravantes impugnam o laudo pericial de avaliação de imóveis apresentado pelo Sr. Perito Judicial alegando, basicamente, que o preço do bem está muita aquém da média de mercado.
+Todavia, verifica-se que os agravantes nada trazem de concreto, tal como um laudo paralelo, acompanhado de metodologia própria, levantamentos completos, fotografias e estudos, parecendo que a impugnação ao trabalho do vistor judicial carece de um mínimo de fomento técnico para impor fundadas dúvidas à avaliação já realizada.
+Verifica-se, ainda, que as duas avaliações unilaterais apresentadas pelos agravantes não foram realizadas em conformidade com as normas técnicas, conforme notificado pelo expert do Juízo: "Notamos que os pareceres técnicos juntados pelo nobre defensor do executado, não seguem "metodologia definida pelas normas técnicas" como alegado pelo nobre defensor do executado, o que traz um elevado grau de subjetivismo e imprecisão aos referidos pareceres, visto que não seguem a normativa apropriada para avaliação dos imóveis rurais" (fls. 530 e ss.).
+Em contrapartida, verifica-se que o expert do Juízo, profissional da área, abordou aspectos construtivos e geográficos de relevância para a formação de sua convicção, avaliando com plausibilidade o valor de mercado dos bens, com esclarecimento do método adotado, descrição detalhada, demonstração de pesquisas de imobiliárias da região, tendo sido consideradas as áreas e as características do bem, utilizado método comparativo com critérios objetivos, baseado em precisos elementos técnicos, prestando esclarecimentos, inclusive, por duas vezes, aos argumentos dos agravantes (fls. 490/496 e 528/536).
+Destarte, considerando-se a realidade mercadológica em que inserido o imóvel e mais os aspectos trazidos, não se verifica qualquer pecha ou dúvida sobre o valor atribuído ao bem para vingar a irresignação dos agravantes, ainda mais que totalmente desamparada de quaisquer elementos de relevância técnica a desmerecer idoneamente o laudo do perito judicial nomeado. .
+Verifica-se que rever o entendimento lançado no v. acórdão recorrido quanto às questões apontadas na perícia realizada, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula n. 7 do STJ.
+A propósito, guardadas as devidas particularidades:
+CIVIL E P ROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. MULTA DECENDIAL. AUSÊNCIA DE PREVISÃO N A APÓLICE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. VÍCIOS CONSTRUTIVOS. INEXISTÊNCIA. NOVA PERÍCIA. DESNECESSIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. INCURSÃO NO CAMPO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83 do STJ).
+3. "A jurisprudência dominante do STJ entende que rever os fundamentos que ensejaram o entendimento acerca da suficiência de provas ou mesmo da necessidade de determinação de nova perícia exigiria reapreciação do conjunto probatório, o que é vedado em recurso especial, haja vista a incidência do enunciado da Súmula 7/STJ" (AgInt no AREsp n. 1.548.314/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/2/2020, DJe de 3/3/2020).
+4. Ademais, este Tribunal Superior compreende que "a realização de eventuais reformas no imóvel pelo comprador pode ser fator de exclusão de responsabilidade" (AgInt no REsp n. 1.990.721/SC, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/8/2022, DJe de 24/8/2022).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.387.206/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+Por fim, pela divergência pretoriana, o recurso também não merece acolhida, na medida em que a incidência da Súmula n. 7/STJ também obsta o apelo nobre pela alínea "c" do permissivo constitucional.
+Nessa linha de intelecção, destaca-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO DE IMÓVEL NÃO RESIDENCIAL. DANO. PRETENSÃO RESSARCITÓRIA. ARTIGOS 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO. NÃO OCORRÊNCIA. ARTIGO 206 DO CÓDIGO CIVIL. PRESCRIÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. LITISPENDÊNCIA. PRESSUPOSTA A FALTA DE IDENTIDADE ENTRE OS ELEMENTOS DE CADA AÇÃO. REEXAME VEDADO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. CONDIÇÕES DA AÇÃO. TEORIA DA ASSERÇÃO. SÚMULA 83/STJ. NÃO PROVIDO.
+1. Não há falar-se em omissão ou falta de justificativa adequada nos casos em que o Tribunal de origem resolve a controvérsia na extensão da matéria devolvida.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+4. A análise das condições da ação é aferida à luz da teoria da asserção, isto é, mediante a análise das alegações formuladas pelo autor na petição inicial, de modo que, demandando tais questões um exame mais aprofundado, essa medida implicará julgamento de mérito.
+Súmula 83/STJ.
+5. A incidência da Súmula n. 7 do STJ prejudica a análise do dissídio jurisprudencial acerca do mesmo tema. Precedentes.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.445.615/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
