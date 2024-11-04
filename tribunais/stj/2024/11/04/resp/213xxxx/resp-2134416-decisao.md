@@ -1,0 +1,36 @@
+DECISÃO
+MAURÍCIO PAULINO DA SILVA interpõe o recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região na Apelação n. 0800077-96.2023.4.05.8308.
+Extrai-se dos autos que o réu foi condenado pela prática do crime previsto no art. 304 do Código Penal.
+A defesa aponta violação do art. 65, III, "d", do Código Penal, sob o fundamento de que "o autor confessou parcialmente, em sede de audiência, quando confirmou a presença de documento falso em sua carteira, fato esse que influenciou diretamente o decreto condenatório, como um dos elementos que comprovaram a materialidade do crime" (fl. 384).
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 422-425).
+Decido.
+O Juízo de primeiro grau assentou que: "Não incide a atenuante da confissão espontânea, como requerido pelo réu em alegações finais, haja vista não ter ocorrido efetivamente a confissão por parte do autor, mesmo quando indagado durante o interrogatório judicial, tendo reconhecido apenas a falsidade do documento, mas não sua utilização, delito analisado nos autos" (fl. 297).
+O Tribunal de origem também não reconheceu a atenuante da confissão espontânea (fls. 348-352, destaquei):
+Consoante exposto, cinge-se o presente julgado a apreciar a materialidade delitiva, considerando a tese da defesa de que, quando solicitado, o réu apresentou documento verdadeiro ao delegado, ficando a CNH falsa dentro da sua carteira, que foi entregue somente após o pedido do agente, de modo que se trata, segundo se alega, de mero porte de documento falso, afastando-se o crime do art. 304 do CP. Será, ainda, objeto de análise a possibilidade de aplicação da pena-base no mínimo legal, ante a alegada inexistência de circunstâncias judiciais desfavoráveis, bem como a pretendida aplicação da confissão parcial, tendo em vista, consoante se defende, a confirmação em audiência pelo réu da presença de documento falso na carteira, tendo o juízo sentenciante feito uso de tal confissão.
+ ..
+Conforme consta da denúncia, no dia 11/11/2022, o ora apelante fez uso de Carteira Nacional de Habilitação falsa, em nome de José Carlos da Silva, ao ser abordado por policiais federais, para cumprimento de mandado de prisão expedido em seu desfavor, no aeroporto de Petrolina/PE, no interior de aeronave advinda de Guarulhos/SP.
+Apenas após ser confrontado pelos policiais acerca das informações sobre sua identidade o réu admitiu que o documento apresentado era falso, confirmando, então, sua verdadeira identidade.
+Ademais, narra da peça acusatória, perícia realizada no documento concluiu que "as impressões dos dados variáveis e da fotografia do titular vistas na CNH questionada são falsas, sendo o referido documento adulterado".
+Comete o delito de "uso de documento falso" aquele que faz uso de documento adulterado. Exige-se, contudo, que a utilização seja feita como se o documento fosse autêntico, além de que a situação envolvida seja juridicamente relevante.
+ ..
+Por fim, em relação a pretendida aplicação da confissão parcial, tendo em vista, consoante se defende, a confirmação em audiência pelo réu da presença de documento falso na carteira, tendo o juízo sentenciante feito uso de tal confissão, tenho que aqui o pleito defensivo não merece melhor sorte.
+É que o réu não confessou a prática do crime a ele imputado na denúncia ("uso de documento falso"), tendo, inclusive, negado veementemente tal conduta, de modo que não há como se reconhecer na hipótese a configuração da confissão parcial, ou mesmo qualificada, não havendo que se falar, assim, em reconhecimento da confissão espontânea.
+Rever tal entendimento demandaria o reexame do conjunto fático-probatório, o que é inviável ante o óbice da Súmula n. 7 desta Corte.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 65, III, "d", do CP. ATENUANTE DA CONFISSÃO ESPONTÂNEA. NÃO INCIDÊNCIA. ALTERAÇÃO DO ACÓRDÃO. APLICAÇÃO DA SÚMULA 7/STJ. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS E DOSIMETRIA DA PENA. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, com base na análise dos elementos fáticos e probatórios dos autos, foi categórico em afirmar que o réu não confessou a prática do crime, tendo negado tanto a propriedade da droga quanto a traficância. Desse modo, a alteração do julgado encontra óbice na Súmula 7/STJ.
+2. "É vedado, em sede de agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso especial, inovando questões não suscitadas anteriormente" (AgRg no REsp 1378508/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 1/12/2016, DJe 7/12/2016).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1183443/CE, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 21/03/2018, grifei)
+Além disso, o acórdão recorrido está em consonância com a jurisprudência desta Corte Superior sobre o tema, a atrair o impedimento da Súmula n. 83 do STJ. Confira-se julgado similar ao caso dos autos:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. USO DE DOCUMENTO FALSO. PEDIDO DE APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. NENHUM ELEMENTO DO CRIME FORA CONFESSADO. PRETENSÃO DEFENSIVA RECHAÇADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Segundo a jurisprudência do Superior Tribunal de Justiça, na hipótese em que o réu admitir a autoria do crime, ainda que a confissão tenha sido parcial, qualificada, extrajudicial ou retratada, independentemente de a confissão ter sido utilizada pelo magistrado com um dos fundamentos da sentença condenatória, incide a atenuante do art. 65, III, "d", do Código Penal (REsp n. 1.972.098/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 20/6/2022).
+III - De outro lado, "a simples posse de documento falso não basta à caracterização do delito previsto no art. 304 do Código Penal, sendo necessária sua utilização visando atingir efeitos jurídicos. O fato de ter consigo documento falso não é o mesmo que fazer uso deste" (REsp n. 256.181/SP, Quinta Turma, Rel. Min. Felix Fischer, DJ de 1/4/2002, p. 193). Precedentes.
+IV - In casu , a paciente admitiu em juízo que adquiriu os documentos falsos por ter problemas com a Justiça, porém, asseverou que não apresentou os documentos aos policiais. Contudo, a Corte local asseverou que a paciente os apresentou aos agentes da lei. Além disso, à paciente, não foi imputada a autoria da falsificação; mas, sim, a apresentação de documento falso perante autoridade policial.
+V - Nesse contexto, o fato confessado - porte de documento falso - é indiferente penal, segundo a jurisprudência desta Corte Superior. Assim, não é o caso de confissão parcial, pois nenhum elemento do crime fora confessado. Nesse sentido, também é o parecer do Ministério Público Federal.
+Agravo regimental desprovido.
+(AgRg no HC n. 832.197/SP, Rel. Ministro Messod Azulay Neto, 5ª T., DJe 20/12/2023, destaquei)
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "b", parte final, do RISTJ, nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
