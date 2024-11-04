@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GUILHERME TEIXEIRA RIBEIRO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no julgamento da Apelação Criminal n. 0001336-04.2013.8.24.0046.
+Consta dos autos que o paciente foi condenado às penas de 9 anos, 4 meses e 10 dias de reclusão, no regime fechado, e pagamento de 20 dias-multa, como incurso nas sanções do art. 157, § 2º, II, e § 2º-A, I, e art. 288, caput e parágrafo único, na forma do art. 69, todos do Código Penal.
+A apelação criminal interposta pela defesa foi parcialmente provida pelo Tribunal estadual para afastar a incidência do art. 157, § 2º- A, I, do CP e reconhecer a prescrição punitiva em relação ao crime previsto no art. 288, caput e parágrafo único, do CP, redimensionando as penas do paciente para 7 anos, 2 meses e 18 dias de reclusão e pagamento de 12 dias-multa.
+No presente writ, o impetrante postula a absolvição do paciente, aduzindo que a sua condenação teria sido baseada unicamente em reconhecimento realizado em desconformidade com os preceitos legais.
+Nesse sentido, afirma que "Não existe, na solução condenatória, nenhum outro elemento referido no sentido de corroborar a conclusão adotada, nem mesmo o reconhecimento pessoal do paciente foi levado a efeito" (e-STJ fl. 10).
+Requer, liminarmente, a suspensão da execução da pena até o julgamento final do presente writ. No mérito, pugna pela concessão da ordem para absolver o paciente.
+É o relatório. Decido.
+De plano, verifico que foi impetrado anteriormente perante esta Corte Superior o HC n. 950.885/SC, também em benefício do ora paciente, o qual apontava como ato coator o mesmo acórdão ora impugnado, formulando-se o mesmo pedido, com fundamento na mesma causa de pedir, revelando-se, portanto, o presente mandamus mera reiteração.
+Nesse aspecto, "A jurisprudência desta Corte Superior é firme no sentido de não possibilitar a rediscussão da matéria, via habeas corpus, quando já formulados e analisados pedidos idênticos, acerca dos mesmos fundamentos, de matéria já analisada neste Tribunal Superior, por se tratar de reiteração de pedido" (AgRg no HC n. 839.421/MS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+No mesmo sentido:
+AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERIU LIMINARMENTE O WRIT. REITERAÇÃO DE PEDIDO DE RECONHECIMENTO DE COMPETÊNCIA DA JUSTIÇA CASTRENSE. COMPETÊNCIA DA JUSTIÇA COMUM RECONHECIDA POR ESTE COLEGIADO. IMPOSSIBILIDADE DE CONCESSÃO DE ORDEM DE HABEAS CORPUS CONTRA ATO PRÓPRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "É de se considerar que é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 796.091/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/6/2023).
+2. Além de o HC n 765363/SP reiterar pedido já analisado pela Quinta Turma do Superior Tribunal de Justiça no julgamento do HC n. 764.059/SP, frise-se que este Colegiado se pronunciou pela competência da Justiça Comum quanto aos fatos delituosos apurados na Ação Penal 0010201-20.2016.8.26.0510 que tramitou perante a Segunda Vara Criminal da Comarca de Rio Claro/SP.
+Diante disso, é defeso a esta Corte Superior de Justiça julgar habeas corpus contra ato próprio, porquanto, à luz do art. 650, § 1º, do Código de Processo Penal - CPP, a competência para conhecer originalmente do pedido de habeas corpus cessará sempre que a violência ou coação provier de autoridade judiciária de igual ou superior jurisdição. Nesse sentido: AgRg no HC n. 272.077/PE, de minha relatoria, Quinta Turma, DJe de 19/10/2018 e RHC n. 39.858/TO, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 4/11/2014.
+3. Agravo regimental ao qual se nega provimento.
+(AgRg no HC n. 765.363/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Pelo exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
