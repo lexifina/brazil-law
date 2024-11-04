@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LUCCAS ROMERO ANTONINO DE SOUSA E OUTRA em face de decisão desta relatoria, que negou provimento ao recurso especial.
+Os embargantes apontam a omissão da decisão embargada, pois deixou de majorar os honorários de sucumbência, apesar do desprovimento do recurso.
+Impugnação às fls. 354/357.
+É o relatório.
+Na forma do art. 1.022 do CPC/15, cabem embargos de declaração em face da decisão que incorre em omissão, contradição, obscuridade ou erro material.
+Na espécie, a decisão realmente foi omissa, porque estão presentes todos os requisitos que autorizam a majoração dos honorários de sucumbência, na forma do Precedente fixado no EDcl nos EREsp 1381818/SC, quais sejam: (a) Direito Intertemporal: deve haver incidência imediata, ao processo em curso, da norma do art. 85, § 11, do CPC de 2015, observada a data em que o ato processual de recorrer tem seu nascedouro, ou seja, a publicação da decisão recorrida, nos termos do Enunciado n. 7 do Plenário do STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC"; (b) o não conhecimento integral ou o improvimento do recurso pelo relator, monocraticamente, ou pelo órgão colegiado competente; (c) a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso; (d) não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido; (e) não terem sido atingidos na origem os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo; (f) não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, em se tratando apenas de critério de quantificação da verba.
+Como, então, o recurso especial foi desprovido, deve-se majorar os honorários.
+Ante o exposto, acolho os embargos de declaração para majorar os honorários de sucumbência, devidos ao advogado da parte ora embargante, de 15% para 16% sobre o valor da condenação.
+Publique-se.
+EMENTA
