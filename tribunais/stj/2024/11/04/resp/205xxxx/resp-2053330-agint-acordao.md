@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. BENEFÍCIO. PLANO DE PECÚLIO. DESCONTOS. DÍVIDAS DO SEGURADO. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a recurso especial, mantendo a decisão que não acolheu a alegação de ofensa aos arts. 6º da LINDB, 476 do CC e 7º da LC n. 109/2001.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se as dívidas do segurado podem ser abatidas do pecúlio do plano de previdência, considerando a natureza do plano assistencial.
+III. Razões de decidir
+3. A parte agravante não apresentou argumentos suficientes para afastar a aplicação da Súmula n. 284 do STF, que exige clareza na fundamentação do recurso.
+4. O entendimento consolidado do STJ é de que o capital estipulado em contrato de previdência privada com plano de pecúlio não está sujeito às dívidas do segurado, conforme art. 794 do Código Civil.
+5. A aplicação da Súmula n. 83/STJ foi considerada correta, pois a jurisprudência do STJ é pacífica quanto à questão.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "1. O capital estipulado em contrato de previdência privada com plano de pecúlio não está sujeito às dívidas do segurado, nem se considera herança para todos os efeitos de direito."
+Dispositivos relevantes citados: CC, art. 794.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 1.895.704/MG, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, j. 06.12.2021.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 489/499) interposto contra decisão desta relatoria, q ue negou provimento ao recurso especial (e-STJ fls. 482/485).
+Em suas razões, a parte agravante alega que o recurso está suficientemente fundamentado.
+No seu entender, "a jurisprudência aplicada pelo ilustre Relator em sua decisão aqui agravada não é aplicável a SISTEL, pois não é um seguro de saúde nos moldes daqueles comercializáveis no mercado aberto, e sim, tem origem diversa, conforme explanado no Recurso Especial" (e-STJ fl. 495).
+Segundo sustenta, "o r. Acórdão analisou equivocadamente a previsão regulamentar do plano assistencial aderido pelo ex-assistido falecido - PAMA -, quanto à cobrança dos valores remanescentes das utilizações realizadas quando em vida" (e-STJ fl. 495).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (e-STJ fl. 507).
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. BENEFÍCIO. PLANO DE PECÚLIO. DESCONTOS. DÍVIDAS DO SEGURADO. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a recurso especial, mantendo a decisão que não acolheu a alegação de ofensa aos arts. 6º da LINDB, 476 do CC e 7º da LC n. 109/2001.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se as dívidas do segurado podem ser abatidas do pecúlio do plano de previdência, considerando a natureza do plano assistencial.
+III. Razões de decidir
+3. A parte agravante não apresentou argumentos suficientes para afastar a aplicação da Súmula n. 284 do STF, que exige clareza na fundamentação do recurso.
+4. O entendimento consolidado do STJ é de que o capital estipulado em contrato de previdência privada com plano de pecúlio não está sujeito às dívidas do segurado, conforme art. 794 do Código Civil.
+5. A aplicação da Súmula n. 83/STJ foi considerada correta, pois a jurisprudência do STJ é pacífica quanto à questão.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "1. O capital estipulado em contrato de previdência privada com plano de pecúlio não está sujeito às dívidas do segurado, nem se considera herança para todos os efeitos de direito."
+Dispositivos relevantes citados: CC, art. 794.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 1.895.704/MG, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, j. 06.12.2021.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 482/485):
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (e-STJ fls. 361/362):
+APELAÇÃO. DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO. AUSÊNCIA DE INTERESSE RECURSAL. CONHECIMENTO PARCIAL. ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR. SISTEL. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. PLANO DE ASSISTÊNCIA MÉDICA AO APOSENTADO - PAMA. COPARTICIPAÇÃO. DESCONTO NOS BENEFÍCIOS DEVIDOS À VIÚVA. PENSÃO E PECÚLIO POR MORTE. IMPOSSIBILIDADE. DANOS MORAIS. NÃO COMPROVAÇÃO. Não configurado o interesse recursal da autora quanto ao pedido de nulidade da cláusula que autoriza os descontos das despesas deixadas pelo participante nos benefícios devidos a ela e a restituição dos valores indevidamente retidos a esse título, porquanto já reconhecidos pela sentença, não se conhece do recurso nesses pontos. A ré é entidade fechada de previdência complementar, razão pela qual não se aplica o Código de Defesa do Consumidor à relação jurídica estabelecida entre as partes, conforme enunciado da Súmula n o 563, do Superior Tribunal de Justiça. Nos termos dos artigos 1.997 e 1.792, do Código Civil, pelo pagamento das dívidas do falecido responde a herança; os herdeiros só respondem na proporção da parte que lhes couber na herança. Os benefícios de pensão e pecúlio por morte não integravam o patrimônio do extinto e são devidos diretamente à viúva, beneficiária; portanto, não se inserem no conceito de herança. Considera-se ilegal a compensação das dívidas do falecido participante com os benefícios de pensão ou pecúlio por morte devidos à viúva. A conduta da ré se baseou na interpretação das normas que regem os planos a que o falecido esposo da autora aderiu. E, tratando-se de benefícios previdenciários complementares, caberia à autora comprovar que o desconto a privou do suprimento de suas necessidades básicas, não havendo que se falar em dano moral in re ipsa, no caso. Não comprovada a ofensa à dignidade, personalidade ou honra subjetiva da autora, considera-se que a conduta da ré não causou mais do que aborrecimentos e dissabores da vida cotidiana.
+Os embargos de declaração foram rejeitados (e-STJ fls. 399/410).
+Em suas razões (e-STJ fls. 412/425), a parte aponta violação dos arts. 5º, II e XXXVI, da CF, 6º da LINDB, 476 do CC e 7º da LC n. 109/2001, sustentando, em síntese, a legalidade dos descontos realizados no valor do pecúlio, "utilizado para quitar parte do débito deixado pelo ex-assistido junto ao PAMA, conforme previsão contratual previamente entabulada entre o beneficiário e aceita por seus dependentes, na oportunidade de seu cadastramento" (e-STJ fl. 422).
+Contrarrazões apresentadas (e-STJ fls. 460/470).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Quanto à alegada ofensa aos  arts.  6º da LINDB, 476 do CC e 7º da LC n. 109/2001,  observa-se  que  a  peça  recursal  não  esclareceu  de  que  forma  os  artigos  de  lei  indicados  teriam  sido  violados,  tampouco  como  dariam  amparo  a  qualquer  tese  recursal,  não  servindo  para  tal  propósito  a  citação  genérica  de  normas,  sem  argumentação  clara  e  associada  às  razões  de  decidir  do  aresto  impugnado.  A  esse  respeito:
+AGRAVO  INTERNO  NO  AGRAVO  (ART.  544  DO  CPC/73)  -  AÇÃO  CONDENATÓRIA  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  DA  DEMANDADA.
+(..)
+2.  A  jurisprudência  deste  Tribunal  Superior  é  pacífica  no  sentido  de  que  a  alegação  genérica  de  violação  à  lei  federal  não  enseja  a  abertura  da  via  especial,  aplicando-se,  por  analogia,  a  Súmula  284  do  STF.
+(..)
+6.  Agravo  interno  desprovido.
+(AgInt  no  AREsp  n.  864.145/MG,  Relator  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  10/4/2018,  DJe  17/4/2018.)
+Limitando-se  a  parte  recorrente  a  afirmar  ofensa  a  dispositivos  de  lei,  sem  demonstrar  a  suposta  afronta ou  a  correta  interpretação,  há  evidente  deficiência  na  fundamentação,  fazendo  incidir  o  teor  da  Súmula  n.  284  do  STF.
+Ademais, o acórdão recorrido, ao concluir pela ilegalidade dos "descontos dos valores devidos pelo falecido participante com os benefícios de pensão ou pecúlio por morte devidos à viúva", decidiu em conformidade com a jurisprudência desta Corte, no sentido de que "as dívidas contraídas pela segurada instituidora do plano, notadamente as relativas a contrato de mútuo, não são passíveis de serem compensadas ou abatidas do pecúlio do plano de previdência. De modo que, nos termos do art. 794 do Código Civil, o capital estipulado não está sujeito às dividas do segurado nem se considera herança para todos os efeitos de direito" (AgInt no AREsp n. 1.895.704/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/12/2021, DJe de 9/12/2021).
+Nesse sentido, confiram-se:
+RECURSO ESPECIAL. AÇÃO DE RESGATE DE PECÚLIO. MORTE DA SEGURADA. PECÚLIO DEVIDO AOS BENEFICIÁRIOS. DESCONTO DO SALDO DEVEDOR DE CONTRATO DE MÚTUO CELEBRADO PELA SEGURADA. IMPOSSIBILIDADE. JULGAMENTO: CPC/15.
+(..)
+3. A jurisprudência do STJ é no sentido de que o contrato de previdência privada com plano de pecúlio por morte assemelha-se ao seguro de vida, estendendo-se às entidades abertas de previdência complementar as normas aplicáveis às sociedades seguradoras, nos termos do art. 73 da LC 109/01.
+4. Aplica-se ao contrato de previdência privada com plano de pecúlio a regra do art. 794 do CC/02, segundo o qual o capital estipulado não está sujeito às dívidas do segurado, nem se considera herança para todos os efeitos de direito.
+5. No particular, a morte da participante do plano de previdência complementar fez nascer para os seus beneficiários o direito de exigir o recebimento do pecúlio, não pelo princípio de saisine, mas sim por força da estipulação contratual em favor dos filhos, de tal modo que, se essa verba lhes pertence por direito próprio, e não hereditário, não pode responder pelas dívidas da estipulante falecida.
+6. Ademais, a vontade manifestada pela participante em vida, ao contrair o empréstimo junto à entidade aberta de previdência complementar oferecendo o pecúlio em garantia, não sobrevive à sua morte, porque não pode atingir o patrimônio de terceiros, independentemente de quem sejam os indicados por ela como seus beneficiários.
+7. Recurso especial conhecido e desprovido, com majoração de honorários.
+(REsp n. 1.713.147/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/12/2018, DJe de 13/12/2018.)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. MORTE DA SEGURADA. PECÚLIO DEVIDO AOS BENEFICIÁRIOS. DESCONTO DO SALDO DEVEDOR DE CONTRATO DE MÚTUO CELEBRADO PELA SEGURADA. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Conforme o entendimento desta Corte Superior, "as dívidas contraídas pela segurada instituidora do plano, notadamente as relativas a contrato de mútuo, não são passíveis de serem compensadas ou abatidas do pecúlio do plano de previdência. De modo que, a teor do art. 794 do Código Civil, o capital estipulado não está sujeito às dividas do segurado, nem se considera herança para todos os efeitos de direito" (AgInt no AREsp 981.924/AC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/5/2018, DJe 21/5/2018).
+2. Incabível o exame de tese arguida somente em sede de agravo interno, não tratada no acórdão recorrido nem exposta nas contrarrazões do recurso especial, por configurar indevida inovação recursal.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.504.901/RJ, de minha relatoria, Quarta Turma, julgado em 17/2/2020, DJe de 20/2/2020.)
+Incide, portanto, a Súmula n. 83/STJ.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Conforme salientado na decisão agravada, a parte agravante não desenvolveu argumentação apta a demonstrar em que consistiria a alegada ofensa aos arts. 6º da LINDB, 476 do CC e 7º da LC n. 109/2001. Inafastável, portanto, a Súmula n. 284 do STF.
+Ademais, conforme o entendimento desta Corte Superior, "as dívidas contraídas pela segurada instituidora do plano, notadamente as relativas a contrato de mútuo, não são passíveis de serem compensadas ou abatidas do pecúlio do plano de previdência. De modo que, nos termos do art. 794 do Código Civil, o capital estipulado não está sujeito às dividas do segurado nem se considera herança para todos os efeitos de direito" (AgInt no AREsp n. 1.895.704/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/12/2021, DJe de 9/12/2021).
+Correta, portanto, a aplicação da Súmula n. 83/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
