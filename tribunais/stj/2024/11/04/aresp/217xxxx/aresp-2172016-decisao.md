@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação dos artigos arrolados (e-STJ fls. 1.390/1.392).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.234):
+APELAÇÃO CÍVEL - PRELIMINAR NULIDADE - PRINCÍPIO DA NÃO SURPRESA - REJEIÇÃO. MÉRITO - DECLARATÓRIA DE NULIDADE DE CONTRATO DE EMPRÉSTIMO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E RESTITUIÇÃO DE QUANTIAS PAGAS. CONTRATO DE EMPRÉSTIMO REALIZADO POR PESSOA CAPAZ. NEGÓCIO VÁLIDO. A validade do negócio jurídico requer agente capaz, objeto lícito, possível e determinado ou determinável, e forma prescrita ou não defesa em lei (art. 104, do Código Civil). Restando indene de dúvida a capacidade civil do autor, quando da suposta contratação, evidente não há que ser nulo de pleno direito, nos termos do art. 166, I do Código Civil.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.316/1.322).
+Nas razões do recurso especial (e-STJ fls. 1.353/1.367), interposto com fundamento no art. 105, III, "a", da CF, o recorrente apontou ofensa aos arts. 5º, XXXV, e 93, IX, da CF, e 11, 489, II, e § 1º, I, II, III e IV, e 1.022, I e II, e parágrafo único, II, do CPC/2015.
+Alegou que o Tribunal de origem se omitiu "quanto a ocorrência de coação econômica, pois o ato de contratar o empréstimo foi decorrência pura da situação do sumiço do dinheiro (dólares), isso o Banco do Brasil não nega!! pois que é fato comum às partes que a contratação do empréstimo se deu para o fim exclusivo de fazer o Autor devolver o dinheiro que sumiu ao Banco, não depende de prova (NCPC, 341, caput e 374, II e III)" (e-STJ fl. 1.355).
+Sustentou que "A situação de vulnerabilidade do empregado em relação ao patrão é fato a ser analisado pelo acórdão, que dele se omite. E não é necessário que seja o Direito do Trabalho a fonte jurídica exclusiva da análise, pois trata-se do estado de perigo, que é também figura jurídica do Direito Civil, e cujo preceito se encontra no art. 156, do Código Civil" (e-STJ fl. 1.356), podendo ser causa de anulação do negócio jurídico.
+Destacou que "o contexto do contrato de empréstimo é de ser também analisado por seu montante, pois que nunca poderia ter sido concedido o empréstimo pelo Réu ao Autor, nem mesmo pelas regras do Banco do Brasil e do Banco Central" Afirmou que, mesmo opostos embargos de declaração, o TJMG omitiu-se acerca da "análise de boa fé do Banco ao levar o Autor a fazer empréstimo 21 vezes superior ao seu salário mensal quando o Autor não era obrigado a devolver dinheiro algum para a instituição financeira" (e-STJ fl. 1.357).
+Registrou não ter alegado ser incapaz na data da assinatura dos empréstimos, de forma que a sentença e o acórdão estariam firmados em erro de fato.
+Ressaltou que a Corte de origem também não teria se manifestado sobre "a aplicação da regra do art. 206, § 5º, I, do CCB, pois que na relação de trato sucessivo, a violação do direito se renova a cada pagamento indevido feito pelo Autor ao Réu, conforme preceito contido no art. 189, do CCB" (e-STJ fl. 1.360).
+Contrarrazões às fls. 1.376/1.382 (e-STJ).
+No agravo (e-STJ fls. 1.404/1.421), declara a presença de todos os requisitos de admissibilidade do especial.
+Foram apresentadas contraminutas (e-STJ fls. 1.427/1.433, 1.439/1.442 e 1.451/1.457).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Inicialmente, destaco não ser viável apreciar, em recurso especial, a tese de violação de dispositivo constitucional, sob pena de usurpação de competência do STF, motivo pelo qual não se deve conhecer da alegação de ofensa aos arts. 5º, XXXV, e 93, IX, da CF.
+No mais, é de ver que a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu. Confira-se o seguinte excerto do acórdão recorrido (e-STJ fls. 1.240/1.241):
+Os contratos de empréstimo foram firmados no ano de 2010, data em que o apelante ainda não tinha perdido a capacidade civil, já que a incapacidade aconteceu com a tentativa de suicídio ocorrida em 17.12.2013, sendo certo que nada existe nos autos que comprove que o Banco tenha "obrigado" o autor ao pagamento do valor desaparecido, ainda mais que postulou ação penal contra este, que devia ter esperado o desfecho da mesma para que se concluísse por sua culpa ou não, como de fato ocorreu, tendo o pagamento sido feito por vontade e decisão do autor.
+Desse modo, resta indene de dúvida que, na data da contratação dos empréstimos, o autor era capaz e não restaram demonstrados nos autos quaisquer requisitos ensejadores da nulidade alegada e ademais, como proceder à anulação dos contratos feitos com as outras instituições que nenhuma relação guardavam com o alegado desaparecimento do dinheiro atribuído ao autor
+Assim, no caso específico destes autos, os empréstimos realizados preenc hem os requisitos legais de validade, quais sejam, a capacidade do apelante, a licitude do objeto e a forma prescrita ou não defesa em lei, sem um dos quais o ato negocial padece de nulidade.
+ ..
+No presente caso, apesar de toda a situação vivenciada pelo autor, sobrepõe-se a análise da questão jurídica, cuja pretensão não foi abarcada, já que restou demonstrada a regularidade das contratações dos empréstimos feitos pelo autor, não sendo evidenciados os requisitos para a nulidade dos contratos.
+Nesse sentido os valores cobrados apresentam-se legítimos, elidindo a declaração de nulidade dos negócios jurídicos efetivados, conduzindo tal conclusão, consequentemente, à improcedência do pedido de danos morais.
+No julgamento dos declaratórios, o TJMG acrescentou (e-STJ fl. 1.319):
+ ..  a tese apresentada pela parte embargante não merece acolhida. Isso porque, bate-se o recorrente novamente pela nulidade dos contratos de empréstimos celebrados com a instituição embargada, então, a prescrição há de ser contada da data da contratação.
+Vê-se que, na verdade, sob o pretexto de ver sanado suposto vício, pretende a parte recorrente a reforma da decisão. Contudo, o simples fato de a decisão recorrida ser contrária a seus interesses não configura vício de fundamentação.
+As questões foram resolvidas de forma fundamentada, não sendo o julgador obrigado a se manifestar sobre todos os argumentos apresentados pela parte, desde que tenha encontrado motivo satisfatório para dirimir a controvérsia, como ocorreu no caso.
+Assim, não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
