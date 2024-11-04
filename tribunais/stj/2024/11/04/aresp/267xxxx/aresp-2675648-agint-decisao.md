@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo ESTADO DO RIO DE JANEIRO contra decisão da Presidência em que se conheceu do agravo para não conhecer do recurso especial, por aplicação do óbice da Súmula 284 do STF, em razão das razões do recurso estarem dissociadas do que foi decidido no acórdão recorrido, bem como por ausência de prequestionamento da tese recursal.
+A parte agravante alega, em síntese, que é inaplicável o óbice da Súmula 284 do STF, uma vez que as razões do recurso especial atacam diretamente o que foi decidido no acórdão recorrido, quanto ao não preenchimento dos requisitos para a redução dos honorários de sucumbência pela metade prevista no art. 90, §4º do CPC/2015.
+Quanto ao prequestionamento, afirma que a tese recursal foi discutida e decidida no bojo do julgamento dos embargos de declaração opostos no Tribunal fluminense.
+Contraminuta apresentada.
+Passo a decidir.
+Tem razão o agravante, uma vez que a tese recursal foi devidamente apreciada no bojo do julgamento dos embargos de declaração, ainda que tenha sido rechaçada pela Corte de origem, bem como que é inaplicável o óbice da Súmula 284 do STF, uma vez que os fundamentos do recurso especial atacam direta e especificamente o que foi decidido pelo Tribunal estadual.
+Assim, reconsidero a decisão da Presidência, tornando-a sem efeitos, e passo a analisar novamente o recurso do ESTADO.
+O apelo nobre se origina de ação declaratória de inexistência de relação jurídica, impugnando o lançamento de crédito tributário de ICMS já discutido no bojo de recurso administrativo.
+No p rimeiro grau de jurisdição, a ação foi extinta sem julgamento de mérito em razão da preexistência de recurso administrativo aguardando julgamento, ao argumento de que inexistia para o autor interesse processual na sua propositura, uma vez que proposta a ação de forma precipitada, impondo-se ao autor o ônus dos honorários fixados em 10% do valor da causa.
+O Tribunal fluminense deu provimento à apelação para reformar a sentença, extinguindo a ação sem julgamento de mérito por outro fundamento: a perda superveniente do objeto em razão do cancelamento administrativo do lançamento.
+Alterou-se também o ônus da sucumbência, imputando-se ao ESTADO os honorários pela causalidade em 8% do valor da causa.
+Opostos embargos de declaração, a Corte estadual consignou a impossibilidade de aplicar-se o benefício de redução dos honorários previsto no art. 90, §4º, do CPC/2015 por não se tratar de extinção com julgamento de mérito com fundamento em desistência, em renúncia ou em reconhecimento do pedido, mas em perda superveniente do objeto em razão do cancelamento administrativo do lançamento.
+Pois bem.
+A Egrégia Primeira Turma já se manifestou de forma unânime, em sessão virtual, afirmando em circunstância assemelhada ao que se verifica nos autos que, em hipótese de perda superveniente do objeto da demanda, não há como se afastar a incidência do benefício trazido pela redação do art. 90, § 4º, do CPC nas hipóteses em que, embora não tenha havido expressa manifestação de concordância com o pedido deduzido na exordial, a parte ré voluntariamente pratica ato cujo resultado direto foi a concessão do objeto pretendido pelo autor quando do ajuizamento da ação ordinária. É o que se verifica do seguinte precedente, mudando-se o que precisa ser mudado:
+ADMINISTRATIVO. AGRAVO INTERNO. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS. MULTA DO ART. 8º DA LEI N. 3.254/16. EDIÇÃO DE MEDIDA PROVISÓRIA N. 753/2016. PERDA SUPERVENIENTE DO OBJETO DA DEMANDA. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO PELA METADE. POSSIBILIDADE.
+1. A edição da Medida Provisória n. 753/2016 - a qual autorizou a inclusão da multa prevista no art. 8º da Lei n. 13.254/2016 na base de cálculo dos recursos devidos em razão do Fundo de Participação dos Municípios - configurou fato legislativo superveniente que veiculou comando normativo acolhedor da pretensão manifestada pela municipalidade.
+2. Embora não tenha havido expressa manifestação de concordância com o pedido deduzido na exordial, não se pode negar que houve, por parte da União Federal, a prática voluntária de ato cujo resultado direto foi a concessão do objeto pretendido pelo ente municipal quando do ajuizamento da ação originária. Diante desse contexto, não há como se afastar a incidência do benefício trazido pela redação do art. 90, § 4º, do CPC.
+3. Em casos como o dos autos, faz-se plenamente possível a fixação da verba sucumbencial, inclusive com a aplicação da redução de honorários advocatícios, ainda na presente instância especial de julgamento, tornando-se despicienda a realização de liquidação, notadamente porque o juízo que se impôs restringiu-se ao enquadramento jurídico de fatos e provas já delineados pelas instâncias ordinárias.
+4. Agravo interno não provido.
+(AgInt no REsp 1.759.475/PB, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023.).
+Nesse contexto, é pertinente a reforma do acórdão recorrido para que os honorários fixados em desfavor do ESTADO observem o benefício de redução dos honorários pela metade previsto no art. 90, §4ºdo CPC/2015.
+Ante o exposto:
+i) RECONSIDERO a decisão da Presidência para torná-la sem efeitos;
+ii) com  base  no  art.  253,  parágrafo  único,  II,  "c",  do  RISTJ,  CONHEÇO  do  agravo  para  DAR  PROVIMENTO  ao  recurso e REFORMAR o acórdão recorrido que os honorários fixados em desfavor do ESTADO observem a redução do art. 90, §4º do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
