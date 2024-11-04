@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por BELTRAO TRANSPORTES E LOGISTICA LTDA, em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fls. 213-214 , e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. DECRETO-LEI 911/69. NOTIFICAÇÃO EXTRAJUDICIAL EXPEDIDA AO ENDEREÇO APONTADO NO CONTRATO. SEGUNDO O AVISO DE RECEBIMENTO (A. R) DE FL. 58, FOI ENTREGUE E RECEBIDA POR RITA CARVALHO. RECENTEMENTE A SEGUNDA SEÇÃO DO STJ, NO RESP N. 1.951.662/RS, REL. MIN. MARCOS BUZZI, (TEMA REPETITIVO 1.132), APROVOU A SEGUINTE TESE: "PARA A COMPROVAÇÃO DA MORA NOS CONTRATOS GARANTIDOS POR ALIENAÇÃO FIDUCIÁRIA, É SUFICIENTE O ENVIO DE NOTIFICAÇÃO EXTRAJUDICIAL AO DEVEDOR NO ENDEREÇO INDICADO NO INSTRUMENTO CONTRATUAL, DISPENSANDO-SE A PROVA DO RECEBIMENTO, QUER SEJA PELO PRÓPRIO DESTINATÁRIO, QUER POR TERCEIROS." MORA COMPROVADA. EXPEDIÇÃO DA NOTIFICAÇÃO, EM 27 DE JANEIRO DE 2023 (FL. 27), INCLUINDO A PARCELA DE Nº 19, A QUAL AINDA ESTAVA EM ABERTO, EIS QUE COM VENCIMENTO EM 14.12.2022, BEM COMO QUE A PARCELA DE N.º 20, COM VENCIMENTO EM 14.01.2023. FATO INCONTROVERSO QUE PARCELA 19 FOI PAGA, INCLUSIVE COM RECONHECIMENTO POR PARTE DA INSTITUIÇÃO FINANCEIRA QUANDO DO AJUIZAMENTO DA AÇÃO (PROTOCOLADA EM 13/02/2023), NA MEDIDA EM QUE NO DEMONSTRATIVO DE DÉBITO (FL. 29), NÃO MAIS SE INCLUIU A 19a PARCELA, MAS TÃO SOMENTE A 20a EM DIANTE. HÁ UMA DIFERENÇA DE DATA DE RECEBIMENTO (02.01.2023) E O CARIMBO DOS CORREIOS (02.02.2023). CONTUDO, À FL. 127, O BANCO DEMONSTRA QUE, DE ACORDO COM O CÓDIGO DE RASTREIO YA163395302BR DESCRITO NO CORPO DO "AR", A NOTIFICAÇÃO EXTRAJUDICIAL FOI POSTADA EM 27/01/2023 E ENTREGUE EM 02/02/2023, O QUE REVELA TRATAR-SE, REFERIDA INCONSISTÊNCIA, DE MERO EQUIVOCO NA ESCRITA DA DATA (02.01.2023). DESNECESSIDADE DE PROVA PERICIAL. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA.
+Os embargos declaratórios opostos foram rejeitados (fls. 249-260, e-STJ).
+Nas razões do recurso especial (fls. 264-278, e-STJ), a parte insurgente apontou violação aos seguintes artigos: a) 489, II e §1º, IV e 1.022, II, e parágrafo único, II, do CPC, alegando a nulidade do acórdão em razão da negativa de prestação jurisdicional e fundamentação deficiente; b) 2º, § 2º, do Decreto-Lei nº 911/1969 e 489, II, §1º e §3º, do CPC, ao argumento da nulidade da notificação premonitória, por ausência de comprovação da constituição em mora do devedor em relação à vigésima parcela.
+Contrarrazões às fls. 287-306, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 308-313, e-STJ), dando ensejo na interposição do presente agravo (fls. 320-333, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 342-359, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, a parte insurgente alega violação aos artigos 489, II e §1º, IV e 1.022, II, e parágrafo único, II, do CPC, alegando a nulidade do acórdão em razão da negativa de prestação jurisdicional e fundamentação deficiente.
+Sustenta, em síntese, que "mesmo diante da oposição de dois embargos de declaração, onde se destacou a omissão em não analisar os fatos e documentos que comprovam a ausência de notificação premonitória válida, os vícios permaneceram, na prestação jurisdicional" (fls. 269-270, e-STJ).
+Acerca da controvérsia, o Tribunal local assim decidiu (fl. 217, e-STJ):
+O cerne do litígio em comento reside na irresignação da parte apelante com a r. sentença aludida, no sentido de que houve ""manifesta ausência de notificação premonitória da dívida referente a parcela 20".
+Compulsando-se os autos, observa-se que, à época de expedição da notificação extrajudicial, em 27 de janeiro de 2023 (fl. 27), a parcela de nº 19 ainda estava em aberto, eis que com vencimento em 14.12.2022, bem como que a parcela de n.º 20, com vencimento em 14.01.2023, igualmente se faz constar na referida notificação.
+É fato incontroverso que parcela 19 foi paga, inclusive com reconhecimento por parte da instituição financeira quando do ajuizamento da ação (protocolada em 13/02/2023), na medida em que no demonstrativo de débito (fl 29), não mais se incluiu a 19ª parcela, mas tão somente a 20a em diante.
+Neste diapasão, tem-se por demonstrado a inclusão da parcela de nº 20 na notificação extrajudicial encaminhada ao endereço constante no contrato firmado com a parte ré.
+Não se vislumbra a alegada omissão, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, embora não tenha acolhido as pretensões da parte insurgente.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. NAVIO BAHAMAS. DANOS À ATIVIDADE PESQUEIRA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA PARA APURAÇÃO DAS RESPONSABILIDADES. MARCO DE INTERRUPÇÃO DA PRESCRIÇÃO DA PRETENSÃO DA AÇÃO INDIVIDUAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+ ..
+(AgInt no AREsp n. 1.832.549/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)  grifou-se
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL ADEQUADA. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO PRÉVIA. CONDIÇÃO DE PROCEDIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+(AgInt no AREsp n. 1.455.461/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)  grifou-se
+Como se vê, não se vislumbra omissão, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos.
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Inexiste, portanto, violação aos artigos 489 e 1.022 do CPC, visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Em seguida, alega vulneração aos artigos 2º, § 2º, do Decreto-Lei nº 911/1969 e 489, II, §1º e §3º, do CPC, ao argumento da nulidade da notificação premonitória, por ausência de comprovação da constituição em mora do devedor em relação à vigésima parcela.
+Sobre o tema acima, o órgão julgador, amparado nas peculiaridades do caso concreto e nas provas acostadas aos autos, concluiu que validade da constituição em mora, eis que houve a inclusão da parcela de nº 20 na notificação extrajudicial encaminhada ao endereço constante no contrato firmado com a parte ré.
+Para alterar tais conclusões, na forma como posta nas razões do apelo extremo, seria necessário o revolvimento de aspectos fáticos e provas dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. NOTIFICAÇÃO EXTRAJUDICIAL. ENDEREÇO DO CONTRATO. INVIABILIDADE. CONSTITUIÇÃO. DEVEDOR EM MORA. REEXAME DE PROVAS. SÚMULAS NºS 7 E 568/STJ.
+1. A controvérsia dos autos está em saber se o simples envio da notificação extrajudicial ao endereço constante do contrato é suficiente para caracterizar a mora do devedor.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É válida a notificação extrajudicial, para a constituição em mora do devedor desde que entregue no endereço de seu domicílio por via postal, com aviso de recebimento (Súmula nº 568/STJ).
+4. Na hipótese, acolher a pretensão recursal quanto à efetiva notificação demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.241.690/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+No mesmo sentido, os seguintes precedentes: AREsp n. 2.480.845, Ministro Antonio Carlos Ferreira, DJe de 16/05/2024; AREsp n. 2.498.062, Ministro João Otávio de Noronha, DJe de 19/03/2024.
+Desta forma, para alterar o entendimento do Tribunal local, na forma como posta, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme previsto na Súmula 7/STJ.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
