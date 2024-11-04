@@ -1,0 +1,11 @@
+DECISÃO
+CAROLINSK DE MARCO GUEDES MATA ROMA ajuíza reclamação, com fundamento no art. 105, I, "f", da Constituição Federal, a fim de garantir a autoridade da decisão proferida no RHC n. 175.843/RJ, na qual foi anulado o processo originário a partir da decisão que ratificou o recebimento da denúncia, com a determinação de que outra decisão fosse proferida com a devida análise das teses defensivas apresentadas na resposta à acusação.
+Não houve pedido de liminar. Na contestação apresentada pelo Ministério Público do Estado do Rio de Janeiro, às fls. 1.121-1.131, ficou consignado que o Juízo de Direito da 35ª Vara Criminal do Rio de Janeiro - RJ cumpriiu a decisão desta Corte. Essa mesma percepção teve o Ministério Público Federal, que se manifestou pela improcedência do pedido (fls. 1.159-1.163).
+Decido.
+De início, convém o registro de que, no julgamento do RHC n. 175.843/RJ, este Superior Tribunal anulou o processo originário a partir da decisão que ratificou o recebimento da denúncia, para que outra decisão fosse proferida.
+Segundo o Juízo de Direito da 35ª Vara Criminal do Rio de Janeiro - RJ, que prestou informações às fls. 1.134-1.138, foi proferida nova decisão "objeto da presente Reclamação em cumprimento ao decidido no RHC 175.843/RJ, que anulou o processo originário a partir da decisão de fls. 3412/3415, que ratificou o recebimento da denúncia, eis que esta não fez alusão às referidas preliminares" (fl. 1.135).
+Como se observa, ao contrário do que alega o reclamante, foi proferida nova decisão, nos termos da determinação contida no RHC n. 175.843/RJ. A existência de nova ilegalidade nessa decisão, tal como alega a defesa nesta oportunidade, deve ser objeto de nova impugnação e não da reclamação, que não serve como sucedâneo recursal.
+Conforme orientação desta Corte, "o manejo de reclamação contra decisão proferida em cumprimento de determinação do Superior Tribunal de Justiça exige demonstração de desobediência a seus comandos, não se prestando à reforma danova decisão prolatada pela autoridade judiciária o mero descontentamento daparte com seu teor" (AgRg na Rcl n. 42.116/PE, relator Ministro João Otávio de Noronha, Terceira Seção, DJe de 29/4/2022).
+Assim, com fundamento no art. 34, XVIII, "b", do RISTJ, julgo improcedente esta reclamação.
+Publique-se e intimem-se.
+EMENTA
