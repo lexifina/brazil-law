@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas na decisão embargada; é inadmissível quando, a pretexto de vícios elencados no art. 619 do CPP, objetiva novo julgamento do caso.
+2. Não há omissão no julgado, que enfrentou expressamente a alegação de que a defesa ratificou as razões recursais. Como registrado no acórdão embargado, a ratificação seria exigida caso, concomitantemente: a) a parte houvesse interposto recurso especial; b) a outra parte houvesse oposto embargos de declaração e c) o Tribunal de origem houvesse alterado o teor do julgado embargado. Portanto, é irrelevante a ratificação do recurso no caso em exame, em que a defesa interpôs dois recursos simultaneamente contra o mesmo acórdão, o que viola o princípio da unirrecorribilidade.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+FÁBIO THOMPSON DE MENDONÇA opõe embargos de declaração contra o acórdão de fls. 989-995, ao argumento de que o decisum é omisso.
+Aduz que não foi enfrentada a seguinte alegação defensiva: "ainda que tenham sido interpostos dois recursos concomitantemente (ED e REsp), após a publicação do acórdão referente aos aclaratórios, a defesa ratificou tempestivamente todos os termos do apelo especial anteriormente interposto, não havendo que se falar em ofensa ao princípio da unicidade recursal" (fl. 999).
+Assevera que o princípio da unirrecorribilidade "só deveria incidir na espécie se a defesa não houvesse ratificado tempestivamente o recurso especial interposto na origem" (fl. 1.000).
+Conclui: "tendo havido o peticionamento tempestivo da ratificação do recurso especial anteriormente interposto (c. e-STJ Fls. 838/847) a pós o julgamento dos aclaratórios opostos concomitantemente (cf. e-STJ Fls. 832/837), não há que se falar em preclusão consumativa e violação ao princípio da unicidade recursal" (fl. 1.001).
+Pleiteia a integração do julgado, com a atribuição de efeitos infringentes, a fim de que seja dado provimento ao agravo regimental.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas na decisão embargada; é inadmissível quando, a pretexto de vícios elencados no art. 619 do CPP, objetiva novo julgamento do caso.
+2. Não há omissão no julgado, que enfrentou expressamente a alegação de que a defesa ratificou as razões recursais. Como registrado no acórdão embargado, a ratificação seria exigida caso, concomitantemente: a) a parte houvesse interposto recurso especial; b) a outra parte houvesse oposto embargos de declaração e c) o Tribunal de origem houvesse alterado o teor do julgado embargado. Portanto, é irrelevante a ratificação do recurso no caso em exame, em que a defesa interpôs dois recursos simultaneamente contra o mesmo acórdão, o que viola o princípio da unirrecorribilidade.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são cabíveis nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas na decisão embargada; é inadmissível quando, a pretexto de vícios elencados no art. 619 do CPP, objetiva novo julgamento do caso.
+O acórdão embargado não é omisso e foi expresso ao afirmar que seria desnecessário ratificar as razões recursais, conduta que seria exigida caso, concomitantemente: a) a parte houvesse interposto recurso especial; b) a outra parte houvesse oposto embargos de declaração e c) o Tribunal de origem houvesse alterado o teor do julgado embargado. Todavia, tal como registrei no acórdão de fls. 989-99 5, a defesa interpôs dois recursos simultaneamente contra o mesmo acórdão, o que viola o princípio da unirrecorribilidade.
+Confira-se (fl. 995):
+Ademais, não incide, na espécie, a Súmula n. 579 do STJ, in verbis: "Não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior". Além de não guardar relação com as razões de decidir do decisum agravado, o enunciado sumular trata de hipótese em que uma parte interpõe recurso especial na pendência de julgamento de embargos (declaratórios ou infringentes) opostos pela outra - o que não se assemelha à situação em comento, em que tanto os aclaratórios quanto o especial foram ajuizados pela mesma parte.
+À vista do exposto, rejeito os embargos de declaração.
