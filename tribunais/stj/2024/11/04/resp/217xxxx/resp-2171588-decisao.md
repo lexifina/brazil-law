@@ -1,0 +1,25 @@
+DECISÃO
+SUELLEN CRISTINA DA SILVA interpõe recurso especial contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (Apelação Criminal n. 5004958-68.2021.8.24.0064), que não conheceu da apelação por intempestividade.
+Nas razões do recurso, a defesa alega ofensa ao art. 593, I, do CPP, ao fundamento de que "interpôs o recurso de apelação no último dia de prazo fixado no sistema ePROC" (fl. 317).
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial.
+Decido.
+Infere-se dos autos que a recorrente foi condenada, em primeiro grau, à pena de 1 ano, 4 meses e 10 dias de reclusão, em regime inicial aberto, mais multa, por infração ao art. 33, § 2º, da Lei n. 11.343/2006, substituída a pena privativa de liberdade por restritiva de direitos.
+Ao apelar da sentença condenatória, o recurso não foi admitido diante de sua intempestividade. No recurso especial, a defesa aduz haver sido induzida a erro pelo sistema eletrônico utilizado pelo Tribunal de origem (ePROC), que teria assinalado término do prazo recursal diverso do que foi considerado pela referida Corte estadual.
+Entendo que assiste razão à defesa.
+Conforme noticiado pelo Tribunal de origem (fl. 301, grifei):
+Registra-se que referido defensor confirmou ciência da intimação eletrônica em 01/12/2023 (sexta-feira), consoante Evento 140 da ação penal.
+Logo, a contagem do prazo recursal teve início no primeiro dia útil posterior à intimação, a saber: 04/12/2023 (segunda-feira).
+Em assim sendo, conclui-se que o prazo recursal de 5 (cinco) dias previsto no art. 593 do C P P começou a fluir a partir do dia 04/12/2023 (segunda-feira), primeiro dia útil após a intimação do defensor constituído da apelante (art. 798, §§ 1º e 5º, "b", do CPP), e encerrou-se em 11/12/2023 (segunda-feira), em virtude do "Dia da Justiça " em 08/12/2023, considerado feriado para efeitos forenses, nos termos da Resolução GP n. 18 de 20 de abril de 2023 deste Tribunal de Justiça.
+Considerando que o recurso fora interposto somente em 18/12/2023 (Evento 146 dos autos da ação penal), evidente a extemporaneidade da interposição e, por conseguinte, a inviabilidade de seu conhecimento.
+Pela leitura do trecho acima, nos termos do art. 593 do CPP, o quinquídio para a interposição do recurso de apelação findaria em 11/12/2023, mas o apelo foi interposto apenas em 18/12/2023, a princípio, fora do prazo legal.
+Pela análise dos documentos acostados aos autos, é possível verificar que, de fato, o sistema eProc do Tribunal de Justiça estadual atestava, como "data final" para interposição de recurso o dia 18/12/2023, considerando para tanto o prazo de 5 dias.
+A respeito do tema, a jurisprudência desta Corte Superior é firme em assinalar que, nos casos em que a parte foi influenciada por erro prévio nos sistemas de informações processuais disponibilizados nas páginas oficiais dos tribunais - em nome da preservação da boa-fé e da confiança -, é "impensável punir a parte que confiou nos dados assim fornecidos pelo próprio Judiciário" (REsp n. 1.324.432/SC, Rel. Ministro Herman Benjamin, Corte Especial, DJe 10/5/2013, destaquei). No mesmo sentido:
+ ..
+4. O equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente. Afinal, o procurador da parte diligente tomará o cuidado de conferir o andamento procedimental determinado pelo Judiciário e irá cumprir às ordens por esse emanadas nos termos do art. 77, IV, do CPC/2015.5. Portanto, o acórdão a quo deve ser reformado, pois conforme a Corte Especial já declarou: "a divulgação do andamento processual pelos Tribunais por meio da internet passou a representar a principal fonte de informação dos advogados em relação aos trâmites do feito. A jurisprudência deve acompanhar a realidade em que se insere, sendo impensável punir a parte que confiou nos dados assim fornecidos pelo próprio Judiciário. (REsp 1324432/SC, Rel. Ministro Herman Benjamin, Corte Especial, DJe 10/5/2013).
+6. Embargos de divergência providos.
+(Embargos de Divergência em REsp n. 1.805.589/MT, Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 25/11/2020, grifei)
+Assim, embora seja ônus do advogado a prática dos atos processuais segundo as formas e os prazos previstos em lei, o erro do sistema eletrônico do Tribunal a quo na indicação do término do prazo recursal é apto para configurar justa causa a fim de afastar a intempestividade do recurso, em homenagem aos princípios da boa-fé e da confiança.
+À vista do exposto, dou provimento ao recurso especial, com o fim de reconhecer a tempestividade da apelação criminal da defesa e cassar a decisão impugnada e determinar a remessa dos autos ao Desembargador relator do Tribunal de origem para que prossiga no exame de admissibilidade do recurso.
+Em tempo, corrija-se a autuação para fazer constar o nome da acusada por extenso, tendo em vista que, na espécie, não há motivo legal para a ocultação de sua identidade.
+Publique-se e intimem-se.
+EMENTA
