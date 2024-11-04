@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de SIDNEI RIBEIRO DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Habeas Corpus n. 0050786-09.2021.8.21.7000).
+Consta dos autos que o paciente foi condenado à pena de 10 (dez) anos de reclusão em regime fechado e de 600 (seiscentos) dias-multa pela prática do crime descrito no art. 121, § 2º, inciso I, c/c o art. 14, inciso II, ambos do Código Penal com relação à vítima Janaína Laurindo da Silva.
+Irresignado com a condenação, o paciente apelou ao Tribunal de Justiça do Estado do Rio Grande do Sul, tendo a Corte de origem anulado o julgamento em razão da incompatibilidade dos quesitos de n. 3 (três) e 4 (quatro).
+Os recursos especial e extraordinário interpostos pela defesa não foram conhecidos. E, com o trânsito em julgado, foram os autos remetidos à origem para ser designada nova data de audiência do Júri.
+Designada nova data, o paciente impetrou habeas corpus no Tribunal de origem, que dele conheceu em parte a fim de deliminar a realização de novo julgamento apenas com relação ao primeiro fato descrito na denúncia (vítima Janaína Laurindo da Silva).
+Na presente impetração, suscita a nulidade absoluta da requisitação, uma vez que não teria sido levantada a tese da legítima defesa.
+Requer seja suspensa a sessão de julgamento designada para o dia 28.10.2021 e seja declarada a nulidade absoluta da requisitação.
+A liminar foi indeferida (fls. 1590-1591).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus (fls. 1677-1680).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível nulidade de julgamento pelo Tribunal do Júri pelo desrespeito da ampla defesa e da soberania dos veredictos e em razão de a tese pessoal da legítima defesa não ter sido quesitada antes da quesitação sobre a desclassificação.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Verifico a partir da própria narrativa da inicial que o paciente deseja, em síntese, anular a condução da quesitação na primeira sessão de julgamento do Tribunal do Júri ocorrida dia 15.09.2015 sob o argumento de que, na ocasião, a magistrada que presidiu a sessão de julgamento ignorou a possibilidade de acolhimento, pelos jurados, da tese pessoal da legítima defesa.
+Entretanto, conforme entendimento do Superior Tribunal de Justiça, as nulidades ocorridas durante a sessão de julgamento do Tribunal do júri devem ser suscitadas na própria sessão, com o respectivo registro em ata, e que, sem isso, a matéria torna-se preclusa (AgRg no HC n. 785.760/SE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/4/2023, DJe de 27/4/2023; AgRg no HC n. 856.483/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023, DJe de 30/10/2023; AgRg no AgRg no AREsp n. 2.395.723/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/8/2024, DJe de 27/8/2024.).
+Observo, no ponto, que, contra o acórdão que determinou a realização de novo julgamento, houve interposição, pela defesa então constituída, de recursos especial e extraordinário, que não foram conhecidos, tendo ocorrido, assim, a preclusão.
+De todo modo, conforme consta no acórdão impugnado, a atuação de novo defensor para atuar no feito não tem a aptidão de rediscutir as matérias já apreciadas, inclusive em razão do princípio da segurança jurídica, e que o objetivo da defesa seria revisitar a matéria controvertida rediscutindo a decisão que já transitou em julgado.
+Não sem razão, o Tribunal local concluiu que é inviável revisitar a matéria, em sede de Habeas Corpus, para afastar a decisão anterior e restaurar a decisão do Conselho de Sentença decorrente da primeiro quesitação.
+Nesse sentido, confira-se o seguinte precedente:
+" ..
+1. No campo das nulidades no processo penal, seja relativa ou absoluta, o art. 563 do CPP institui o conhecido princípio pas de nullité sans grief, segundo o qual o reconhecimento de nulidade exige a comprovação de efetivo prejuízo e, na mesma linha, a Súmula 523/STF enuncia que "no processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu".
+2. Na hipótese, houve efetiva participação da defesa, razão pela qual o fato de a nova defesa não concordar com a linha defensiva adotada pela defesa anterior também não revela nulidade. Com efeito, "a simples discordância do atual Defensor com a pretensão deduzida ou não pelo defensor anterior em suas manifestações não caracteriza deficiência/ausência de defesa capaz de gerar nulidade processual.
+ ..
+(AgRg no HC n. 786.908/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/4/2023, DJe de 27/4/2023.).
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
