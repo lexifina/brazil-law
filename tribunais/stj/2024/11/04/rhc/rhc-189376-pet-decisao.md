@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de petição formulada por RUBENS BOTINI SOBRINHO, na qual requer a habilitação para se manifestar no presente recurso em habeas corpus, uma vez que é réu na mesma ação penal, na qual o recorrente pretende a anulação de prova.
+É o breve relatório.
+A jurisprudência uníssona desta Corte Superior e do Supremo Tribunal Federal não admite a intervenção de terceiros na ação constitucional de habeas corpus ou de seu respectivo recurso ordinário, seja como assistente de acusação ou na condição de amicus curiae, porquanto se tratam de vias mediante as quais se busca resguardar o direito de locomoção dos pacientes/recorrentes.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. MANDADO DE SEGURANÇA. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. ORDEM IMPETRADA CONTRA DECISÃO JUDICIAL. TERATOLOGIA. NÃO OCORRÊNCIA. RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. DECISÃO JURIDICAMENTE FUNDAMENTADA. MANDADO DE SEGURANÇA IMPETRADO CONTRA DECISÃO PASSÍVEL DE RECURSO PRÓPRIO, DA TITULARIDADE DO MINISTÉRIO PÚBLICO. WRIT IMPETRADO CONTRA DECISÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 267/STF E 268/STF. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. ENTENDIMENTO PACIFICADO NO ÂMBITO DO STJ A PARTIR DE INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL.
+1. "Este Superior Tribunal e a Suprema Corte possuem jurisprudência pacífica quanto à impossibilidade de intervenção de terceiros no habeas corpus, seja na condição de amicus curiae ou como assistente de acusação, por se tratar de ação constitucional que objetiva garantir a liberdade de locomoção dos pacientes" (HC 411.123/RJ, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 06/03/2018, DJe de 22/06/2018).
+2. É incabível mandado de segurança contra decisão judicial transitada em julgado, consoante disposto no art. 5º, inciso III, da Lei 12.016/2009 e verbete da Súmula 268/STF.
+3. A jurisprudência desta Corte Superior de Justiça é no sentido de que, conforme disposto expressamente no art. 112, I, do CP, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado (AgRg nos EAREsp n. 908.359/MG, Terceira Seção, Rel. Ministro Nefi Cordeiro, DJe de 2/10/2018).
+4. É vedada à parte impetrante a inovação do pedido e da causa de pedir, com a apresentação, somente nas razões do agravo interno, de tese não veiculada na inicial. Precedentes.
+5. Agravo interno não provido.
+(AgInt no MS n. 23.909/DF, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 4/2/2020.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS SUBSTITUTIVO DO RECURSO PRÓPRIO. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. PACIENTE ADVOGADO. DIREITO AO RECOLHIMENTO EM SALA DO ESTADO-MAIOR. PRISÃO PREVENTIVA EM CELA INDIVIDUAL, SEPARADA DE OUTROS PRESOS. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AMICUS CURIAE. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. O art. 7º, inciso V, da Lei nº 8.906/1994, que teve sua constitucionalidade confirmada em julgamento realizado pela Suprema Corte, assegura aos advogados presos provisoriamente o recolhimento em sala de Estado Maior ou, na sua falta, em prisão domiciliar (Precedentes).
+2. A alteração havida no Código de Processo Penal pelas Leis nº 10.258/2001 e 12.403/2011 (arts. 295 e 318), no tocante à prisão especial e à prisão domiciliar respectivamente, não alteram a prerrogativa de índole profissional, qualificável como direito público subjetivo do advogado regularmente inscrito na OAB, quanto à prisão provisória em Sala de Estado Maior.
+3. Nos termos da jurisprudência das Turmas integrantes da Terceira Seção desta Corte "a ausência, simplesmente, de sala do Estado Maior não autoriza seja deferida prisão domiciliar ao paciente, advogado, preso preventivamente, dado que encontra-se segregado em cela separada do convívio prisional, em condições dignas de higiene e salubridade, inclusive com banheiro privativo" (HC n. 270.161/GO, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 25/8/2014).
+4. Pelas informações prestadas, o recorrente está em cela especial, sem registro de eventual inobservância das condições mínimas de salubridade e dignidade humanas, separado dos outros presos e sem o rigor e a insalubridade do cárcere comum, não havendo falar em constrangimento ilegal, porquanto não subsiste mais prisão em cela comum.
+5. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+6. A jurisprudência do Superior Tribunal de Justiça é no sentido de não se admitir qualquer tipo de intervenção de terceiros no habeas corpus, meio processual que não possui partes e nem litigantes, mas tem como única função o resguardo do direito de ir e vir das pessoas.
+7. Recurso de habeas corpus não provido.
+(RHC n. 86.758/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 6/10/2017.)
+Ante o exposto, indefiro o pedido de habilitação.
+Publique-se.
+Intimem-se.
+EMENTA
