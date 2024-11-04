@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 371):
+Apelações. Abono variável. Pensionistas de magistrados falecidos antes de 2002 que pretendem receber diferenças a título de correção monetária. Critérios de cálculo que devem ser os mesmos adotados para o pagamento realizado aos magistrados ativos e pensionistas de magistrados falecidos após 2002. Isonomia e boa fé objetiva. Autarquia que há anos aceitou a forma de cálculo, mas apresentou irresignação desarrazoada. Forma de cálculo. Adoção dos critérios originais até o efetivo pagamento. Honorários advocatícios. Fixação em observância aos parâmetros estabelecidos pelos Tribunais Superiores. Sentença minimamente reformada para fixação expressa dos consectários legais. Recurso da autora parcialmente provido. Negado provimento ao recurso da ré.
+Embargos de declaração rejeitados.
+No recurso especial, alega-se violação aos artigos 6º da Lei 9.655/1998, 2º da Lei 10.474/2002, 1º-F da Lei 9.494/1997 e 85, § 4º, II, do CPC/2015, sob os seguintes argumentos: (i) "entre a data fixada pela Lei 9.655/98, de 1º de janeiro de 1998, e a edição da Lei 10.474, de 27 de junho de 2002, não havia crédito exigível concernente ao abono variável e, por conseguinte, não há que se falar em correção monetária incidente sobre valores sequer existentes à época" (fl. 451); (ii) "inexiste subordinação/vinculação hierárquica entre a São Paulo Previdência, entidade autárquica da Administração Pública Estadual, com personalidade jurídica própria, e o Tribunal de Justiça do Estado de São Paulo" (fl. 462); (iii) "além de somente ser possível fixar o percentual referente a honorários advocatícios após a liquidação do julgado, também não é possível majorá-lo em razão de julgamento recursal" (fl. 467); e (iv) "existindo previsão legal de utilização da UFESP como fator de correção e sendo a Administração Pública pautada pelo princípio da legalidade, não poderia ser outra a postura da São Paulo Previdência" (fl. 472).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Parecer do Ministério Público Federal, às fls. 545-553, manifestando-se pelo "conhecimento do agravo para conhecer em parte do especial e, nessa extensão, dar-lhe provimento".
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+No que diz respeito aos artigos 1º-F da Lei 9.494/1997 e 85, § 4º, II, do CPC/2015 (e as teses a eles vinculada), verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação dos aludidos dispositivos legais.
+Quanto ao mais, o acórdão recorrido consignou o seguinte (fls. 373-374):
+ ..
+A SPPREV participou ativamente do processo administrativo, concordando com o pagamento determinado. A postura da autarquia em pagar integralmente o valor está demonstrada pelo email de fl. 98 (datado de setembro de 2011) e pela planilha de cálculos nos moldes acima referidos (fls. 83/91). Inopinadamente, em 2019, a ré apresenta valores distintos (fls. 95/96), sem justificar por que há tratamento diferenciado entre os beneficiários de magistrados falecidos antes e após 2002. Evidente a desarrazoada violação à isonomia, o que não se admite.
+Ademais, é indevida a utilização da UFESP como índice de atualização monetária. Instituída pela Lei Estadual nº 6.734/89, o índice é aplicável estritamente para fins tributários.
+ ..
+A atualização monetária não encontra óbice na lei que instituiu o abono variável, na medida em que apenas determinava que as parcelas fossem "mensais e sucessivas" (§ 2º, do art. 2º, da Lei 10.474/02). Por consequência lógica, o atraso no pagamento descumpre o comando normativo, tornando imperiosa a recomposição do valor da moeda.
+Desta feita, a autarquia ré deve cumprir a decisão administrativa, sob pena de violação à boa fé objetiva, à equidade e ao princípio da confiança.
+ ..
+Ocorre que a recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
