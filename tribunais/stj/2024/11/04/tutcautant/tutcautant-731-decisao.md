@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, Tutela Cautelar Antecedente interposta por HUMBERTO ADÃO VIEIRA contra o ESTADO DO PIAUÍ e a UNIÃO, sustentando, em suma, que: a) ingressou inicialmente com uma "Ação de Obrigação de Fazer" na Justiça do Piauí, na Comarca de Paulistana, em face do Estado do Piauí, visando garantir o fornecimento do medicamento Enzalutamida (160 mg/dia, 120 comprimidos/mês) necessário para o tratamento de adenocarcinoma de próstata avançado; b) o Juízo da Comarca de Paulistana proferiu sentença favorável ao autor, confirmando a liminar que determinava ao Estado o fornecimento contínuo do medicamento; c) diante da sentença proferida e o não cumprimento espontâneo por parte do Estado do Piauí em cumprir com o determinado, a parte autora ingressou com o cumprimento provisório de sentença; d) o Estado do Piauí recorreu da sentença proferida, levando o caso à apreciação do Tribunal de Justiça do Estado do Piauí; e) "ao julgar a apelação interposta pelo Estado, o TJPI decidiu que a União Federal deveria ser incluída no polo passivo da demanda, uma vez que o fornecimento do medicamento envolvia matéria de interesse federal", sendo os autos remetidos para a Justiça Federal; f) após uma redistribuição do processo para a Vara Federal da Subseção Judiciária de Picos/PI, em especial o cumprimento de sentença, o magistrado federal entendeu que a competência para o julgamento da causa deveria ser da Justiça Estadual, remetendo os autos ao Superior Tribunal de Justiça para dirimir a controvérsia; g) enquanto o conflito de competência não é resolvido, o autor encontra-se em uma situação extremamente delicada, tendo em vista que a sua medicação já acabou desde o final mês de agosto de 2024.
+Pugna, ao final, pela concessão da "tutela de urgência, inaudita altera pars, a imediata liberação do valor depositado em juízo para a compra das 3 (três) caixas determinada em liminar e confirmada no acórdão, que perfaz a quantia de R$ 26.500,26 (vinte e seis mil, quinhentos reais e vinte e seis centavos) ou o valor suficiente para a sua compra, tendo em vista a validade do orçamento, garantindo, assim, a continuidade do seu tratamento e evitando prejuízos à sua saúde, tendo em vista que o autor, repita-se, já se encontra sem nenhuma medicação" (fl. 12).
+Os autos foram distribuídos por sorteio.
+É o relatório.
+Decido.
+Inicialmente, observo da análise dos autos que, em que pese ter restado demonstrado que houve a instauração do Conflito de Competência, o pleito da parte peticionante destoa daquele abarcado pela jurisdição que será inaugurada perante esta Corte de Justiça.
+Isso porque, potencial liberação do valor depositado em juízo para a compra do insumo está sob jurisdição do Juiz Federal da Vara Única da Subseção de Picos e, ao analisar referido pleito, poder-se-ia incorrer em supressão de instância.
+Nesse contexto, em que pese os argumentos apresentados pela parte peticionante, entendo que requerimentos de urgência desse âmbito deverá ser direcionado àquela instância ordinária, pois não encerrada sua jurisdição.
+Sobre o tema, a jurisprudência desta Corte Superior externou entendimento no sentido de que "as tutelas provisórias requeridas diretamente no STJ são admissíveis nas ações originárias ou nas hipóteses em que se tenha aberto sua competência recursal (art. 288 RISTJ e 299 do CPC/2015)".
+Mutatis mutandis, nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. DECISÃO DE ADMISSIBILIDADE. INEXISTÊNCIA. FUMUS BONI IURIS. NÃO CONFIGURAÇÃO. DECISÃO MANTIDA.
+1. As tutelas provisórias requeridas diretamente no STJ são admissíveis nas ações originárias ou nas hipóteses em que se tenha aberto sua competência recursal (art. 288 RISTJ e 299 do CPC/2015).
+2. Segundo a previsão expressa do art. 1.029, § 5º, do CPC/2015, a competência desta Corte para apreciar requerimentos de tutela provisória só se inicia após a publicação da decisão de admissibilidade do recurso especial, não sendo o caso dos autos.
+3. O deferimento de tutela provisória de urgência pressupõe a demonstração de elementos que evidenciem a probabilidade do direito alegado e o perigo de dano ou o risco ao resultado útil do processo.
+4. No caso concreto, o agravante não logrou demonstrar a viabilidade das teses deduzidas no recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no TP n. 2.306/AC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/11/2019, DJe de 22/11/2019.)
+Isso posto, com fundamento no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço da tutela cautelar antecedente.
+Com trânsito em julgado, arquive-se.
+Comunique-se as instâncias de origem acerca do não conhecimento do presente pedido.
+Intimem-se.
+EMENTA
