@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA RÉ.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao art. 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. A jurisprudência do STJ é a assente no sentido de que o protesto do título sem impugnação faz presumir a concordância do devedor quanto à existência da dívida, razão pela qual a duplicata sem aceite e protestada pode servir à instauração do procedimento monitório.
+3. Derruir as conclusões a que chegou o Tribunal de origem que concluiu pela presença de provas suficientes a amparar a monitória, ensejaria o necessário revolvimento do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+4 . Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de agravo interno, interposto por JOBAST PRODUÇÕES CINEMATOGRÁFICAS LTDA, contra decisão monocrática da lavra deste signatário (fls. 498/501, e-STJ), que negou provimento ao recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafiou acórdão do Tribunal de Justiça do Estado do Amazonas, assim ementado (fls. 233/234, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. JULGAMENTO ANTECIPADO DA LIDE. FALTA DE INTIMAÇÃO DAS PARTES PROVAS DA DECISÃO QUE DISPENSOU A PRODUÇÃO DE PROVAS. QUESTÃO EXCLUSIVAMENTE DE DIREITO. AUSÊNCIA DE PREJUÍZO. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. DUPLICATAS SEM ACEITE. PROTESTO. DÍVIDA EXISTENTE. RECURSO CONHECIDO E DESPROVIDO.
+1. Quanto a preliminar de nulidade da sentença, o Recorrente deixou de demonstrar o efetivo prejuízo potencialmente suportado pela ausência da prova que, teoricamente, gostaria de ter visto ser produzida na origem, recorrendo, ao revés, a uma argumentação genérica a respeito da nulidade que deriva, ordinariamente, da supressão de uma prova requerida e necessária ao deslinde do feito.
+2. No que diz respeito à ausência de aceite, cumpre repisar que nos termos art. 700, do Código de Processo Civil, para a propositura de ação monitória basta que o autor acoste aos autos prova escrita da existência da dívida, sem eficácia de título executivo.
+3. A jurisprudência do Superior Tribunal de orienta que a da impugnação faz presumir à existência devedor razão quanto pela qual Justiça "o protesto sem do concordância dívida, a duplicata sem do aceite e protestada pode servir (REsp à instauração procedimento monitório" 247.342/MG).
+4. ser Quanto a irresignação em relação ao índice a utilizado para correção monetário e juros (SELIC), determinou orientação judiciais na sentença o magistrado conforme a quo juros e correção Manual de de procedimentos para cálculos e administrativos, que dispõe em seu item 3.2 a aplicação da taxa SELIC a partir 11.01.2003, como requer o Recorrente, logo recurso não merece ser conhecido nesse ponto.
+5. Recurso conhecido e não provido.
+Opostos embargos de declaração (fls. 242/255, e-STJ), esses foram rejeitados.
+Nas razões do recurso especial (fls. 281/300, e-STJ), a recorrente apontou, além de dissídio jurisprudencial, violação aos artigos 489, 1022, 9º e 10 do Código de Processo Civil/15; 21, § 3º da Lei 9.492/97; 13, § 1º da Lei 5.474/68. Sustentou, em síntese: i) negativa de prestação jurisdicional, por não terem sido supridas as omissões suscitadas nos aclaratórios em relação ao julgamento supressa, tendo em vista que o Tribunal local julgou antecipadamente a lide sem intimar as partes; ii) o protesto, sem impugnação, apesar de permitir a instauração do procedimento monitório, não dispensa a prova da existência da dívida quando negada a relação jurídica, como ocorre no caso. A nota fiscal e o instrumento de protesto não são provas idôneas da efetiva prestação do serviço ou do reconhecimento do débito.
+Contrarrazões às fls. 330/347, e-STJ.
+Após decisão de admissão do apelo especial (fls. 490/491, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Em decisão monocrática (fls. 498/501, e-STJ), negou-se provimento ao reclamo ante: i) a ausência de negativa de prestação jurisdicional; ii) a incidência das Súmulas 83 e 7 do STJ à hipótese.
+Daí o agravo interno (fls. 504/515, e-STJ), no qual a agravante reitera as razões do recurso especial, bem como refuta os supramencionados óbices.
+Impugnação às fls. 518/535, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA RÉ.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao art. 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. A jurisprudência do STJ é a assente no sentido de que o protesto do título sem impugnação faz presumir a concordância do devedor quanto à existência da dívida, razão pela qual a duplicata sem aceite e protestada pode servir à instauração do procedimento monitório.
+3. Derruir as conclusões a que chegou o Tribunal de origem que concluiu pela presença de provas suficientes a amparar a monitória, ensejaria o necessário revolvimento do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+4 . Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pelo agravante são incapazes de infirmar a decisão agravada, motivo pelo qual deve ser mantida.
+1. De início, consoante asseverado na decisão agravada, não se vislumbra omissão ou deficiência de fundamentação no acórdão impugnado, visto que é clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, inclusive em relação ao enfrentamento da questão relativa ao julgamento antecipado da lide sem a intimação das parte.
+É o que se observa do seguinte trecho do acórdão impugnado (fls. 275/277, e-STJ):
+Preliminarmente, o Recorrente pugna pela anulação da sentença, afirmando que o julgamento antecipado da lide cerceou o seu direito de defesa, visto que não foi oportunizada a produção de prova pelas partes. Contudo, o Recorrente deixou de demonstrar o efetivo prejuízo potencialmente suportado pela ausência da prova que, teoricamente, gostaria de ter visto visto ser produzida na origem, recorrendo, ao revés, revés, a uma argumentação genérica a respeito da nulidade que deriva, ordinariamente, da supressão de uma prova requerida e necessária ao deslinde do feito. Dito de outra suportado suportado forma, não ausente falar indicação nulidade do na de prejuízo espécie, nullité há de pois, sans como grief, sintetizado na máxima pas só há nulidade se houver prejuízo.
+(..)
+Com para efeito, não encontrando indícios de prejuízo a parte, descabe cogitar de cerceamento do contraditório e da ampla defesa, ao que voto pela rejeição da preliminar suscitada.
+Com efeito, as questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla e fundamentada, embora não tenha acolhido as pretensões da parte recorrente, portanto não há ofensa aos artigos 489 e 1.022 do CPC/15.
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota para a resolução da causa fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta, como ocorreu na hipótese dos autos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. CONCORRÊNCIA DESLEAL COMPROVADA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. As conclusões do acórdão recorrido no tocante à existência da prática de concorrência desleal, e prática de ato ilícito apto a gerar o dever de indenizar; não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame do acervo fático - probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1560925/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2020, DJe 02/02/2021)
+Não é demais lembrar a orientação desta Corte no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE PÔS TERMO À EXECUÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE, PORQUANTO NÃO HÁ DÚVIDA A RESPEITO DO RECURSO ADEQUADO. AGRAVO NÃO PROVIDO.
+1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1520112/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2020, DJe 13/02/2020)
+Desta forma, considerando que a questão trazida à discussão foi dirimida pelo Tribunal de origem de forma fundamentada e sem omissões ou contradições, deve ser afastada a alegada negativa de prestação jurisdicional.
+2. A insurgente sustenta que o protesto, sem impugnação, apesar de permitir a instauração do procedimento monitório, não dispensa a prova da existência da dívida quando negada a relação jurídica, como ocorre no caso.
+Acerca da controvérsia, o Tribunal local assim decidiu (fl. 238, e-STJ):
+No caso dos autos, a Autora, ora Apelada, ajuizou ação monitória para cobrança de valores decorrentes da venda de Estação de Tratamento de Esgoto para a Apelante, utilizando-se como base a nota fiscal juntada às fls. 20, duplicatas sem aceite de fls. 8 e 10, protesto às fls. 18 e troca de e-mail às fls.21/22.
+O protesto foi registrado em janeiro de 2015 e a ação monitória ajuizada em setembro de 2015. Não há indício nos autos d e que durante todo este tempo o protesto foi impugnado.
+Dessa forma, ainda que o Apelante afirme que não há prova de entrega da mercadoria, a jurisprudência do Superior Tribunal de Justiça orienta que "o protesto sem impugnação faz presumir a concordância do devedor quanto à existência da dívida, razão pela qual a duplicata sem aceite e protestada pode servir à instauração do procedimento monitório" (REsp 247.342/MG).
+O acórdão estadual está em consonância com a jurisprudência desta Corte Superior, no sentido de que o protesto sem impugnação faz presumir a concordância do devedor quanto à existência da divida, razão pela qual a duplicata sem aceite e protestada pode servir à instauração do procedimento monitório.
+Desse modo, o entendimento do Tribunal de origem, no ponto, encontra-se em harmonia com a jurisprudência do STJ, o que atrai a incidência do teor da Súmula 83 desta Corte, a impedir o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+Nesse sentido:
+EMPRESARIAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DUPLICATA. ACEITE. FORMA. REALIZAÇÃO POR MEIO ELETRÔNICO. INVIABILIDADE. TÍTULO DESACOMPANHADO DE DOCUMENTAÇÃO COMPROBATÓRIA. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. "O aceite é ato formal e deve aperfeiçoar-se na própria cártula mediante assinatura (admitida a digital) do sacado no título, em virtude do princípio da literalidade, nos termos do que dispõe o art. 25 da LUG, não possuindo eficácia cambiária aquele lançado em separado à duplicata. No entanto, o documento que contém a declaração poderá servir como prova de existência de vínculo contratual subjacente ao título, amparando eventual ação monitória ou processo de conhecimento" (REsp n. 1.202.271/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 7/3/2017, DJe de 18/4/2017).
+2. A duplicata sem aceite e desacompanhada dos documentos suficientes para comprovar a entrega das mercadorias ou a prest ação de serviços não é título hábil a aparelhar processo de execução.
+3. No caso dos autos, o Tribunal de origem reconheceu que a lei de regência prescreve a forma de composição do título e que o aceite é ato formal, não havendo a possibilidade de validade por correio eletrônico, razão pela qual o título deveria ter sido acompanhado de documentação comprobatória da entrega das respectivas mercadorias ou da prestação dos serviços. Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.549.561/AM, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. DUPLICATA SEM ACEITE. PROTESTO POR INDICAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO. NOTAS FISCAIS. POSSIBILIDADE. REEXAME. SÚMULA N. 7/STJ. NÃO PROVIMENTO.
+1. "O protesto sem impugnação faz presumir a concordância do devedor quanto à existência da dívida, razão pela qual a duplicata sem aceite e protestada pode servir à instauração do procedimento monitório." (REsp 247.342/MG, Rel. Ministro RUY ROSADO DE AGUIAR, QUARTA TURMA, julgado em 11/4/2000, DJ 22/5/2000, p. 118)
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.441.446/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/11/2019, DJe de 6/12/2019.)
+3. Ademais, o Tribunal de origem, com base na análise dos elementos fáticos e probatórios da lide, entendeu que os documentos juntados à petição inicial atendem à exigência de prova escrita, hábeis, portanto, a instruir a presente ação monitória.
+Desse modo, para o acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. DOCUMENTO. PROVA ESCRITA. ANÁLISE DE CLÁUSULA CONTRATUAL. REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Não há violação do art. 535 do CPC/73 quando o Tribunal a quo analisa os argumentos de forma clara e suficientemente fundamentada.
+2. O Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que os contratos de abertura de crédito e documentos acostados são suficientes para propositura da ação monitória. A pretensão de modificar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.499.387/BA, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/6/2021, DJe de 1/7/2021.)
+4. Do exposto, nego provimento ao agravo interno.
+É como voto.
