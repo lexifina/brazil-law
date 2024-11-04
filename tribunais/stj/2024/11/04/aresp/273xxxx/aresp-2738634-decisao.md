@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manejado por Energisa Mato Grosso - Distribuidora de Energia S.A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado (fl. 821):
+APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA - FORNECIMENTO DE ENERGIA ELÉTRICA - PRELIMINAR DE CERCEAMENTO DE DEFESA - ACOLHIMENTO - JULGAMENTO ANTECIPADO DA LIDE - INDEFERIMENTO DE PROVA REQUERIDA - COMPLEXIDADE TÉCNICA DO FEITO - IMPROCEDÊNCIA POR FALTA DE PROVAS - JURISPRUDÊNCIA DO STJ - SENTENÇA ANULADA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO. 1. Configura cerceamento de defesa o indeferimento de produção probatória pelo magistrado que, julgando antecipadamente a lide, nega a pretensão com esteio na falta de provas. 2. Sentença anulada. Recurso conhecido e parcialmente provido
+Opostos embargos declaratórios, foram rejeitados (fls. 849/855).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 370 e 1.022, II, do CPC. Sustenta, em resumo, que: (I) embora provocado, o Tribunal de origem não reconheceu a inexistência do cerceamento de defesa e nem se manifestou sobre os dispositivos legais apontados; e (II) "não há se falar em cerceamento de defesa na hipótese em que a autossuficiência do conjunto probatório se revela plena, tornando desnecessária a produção de prova diversa cujo fim maior já restou atingido com os atos praticados nos autos" (fl. 882).
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo conhecimento do agravo para não conhecer do recurso especial (fls. 970/975).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+Quanto à questão de fundo, ao apreciar o tema relativo ao guerreado cerceamento de defesa, o Tribunal a quo consignou que (fl. 810):
+Ocorre que, ao rechaçar a produção probatória pleiteada, o juízo singular cerceou a defesa do recorrente ao impossibilitar que este, munido com as informações que o Relatório Técnico traria, comprovasse os argumentos postos. Resta configurado tal cerceamento quando, julgando antecipadamente a lide, o magistrado rejeita a produção da prova voltada à demonstração dos fatos cuja existência foi negada na sentença justamente pela falta de provas.
+ ..
+É cediço que as provas se prestam ao convencimento do Juízo e são por ele requeridas ou dispensadas. Todavia, a despeito do artigo 370 do CPC dispor sobre a faculdade do magistrado de dispensar ou indeferir a produção de provas que considerar desnecessárias, tal faculdade não se aplica quando imprescindível a dilação probatória de fatos não esclarecidos nos autos, como ocorre no caso em comento.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. ROL DA ANS. REALIZAÇÃO DE PERÍCIA. DESNECESSIDADE. CERCEAMENTO DE DEFESA. VERIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. TRANSTORNO GLOBAL DE DESENVOLVIMENTO. TRATAMENTO MULTIDISCIPLINAR. NEGATIVA DE COBERTURA. ABUSIVIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA N. 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+2. Rever a convicção formada pelo tribunal de origem acerca da prescindibilidade de produção da prova técnica requerida demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+3. O rol de procedimentos e eventos em saúde suplementar da ANS é de taxatividade mitigada (EREsp n. 1.886.929/SP e EREsp n. 1.889.704/SP, Segunda Seção).
+4. É abusiva a negativa de cobertura de tratamento de transtornos globais de desenvolvimento pelo método escolhido pelo equipe de profissionais da saúde assistente com a família do paciente como mais adequado ao caso concreto.
+5. Inadmissível recurso especial quando o entendimento adotado pelo tribunal de origem encontra-se em harmonia com a jurisprudência do STJ (Súmula n. 83 do STJ).
+6. A incidência das Súmulas n. 7 e 83 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+7. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 2.045.398/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
