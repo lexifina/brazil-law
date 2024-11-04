@@ -1,0 +1,47 @@
+DECISÃO
+Em análise, recurso especial interposto pela UNIÃO em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. LICENÇA PRÊMIO NÃO USUFRUÍDA. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO. GRATIFICAÇÃO NATALINA. AUXÍLIO- ALIMENTAÇÃO. HONORÁRIOS ADVOCATÍCIOS. REJEIÇÃO DA IMPUGNAÇÃO. DESCABIMENTO.
+1. A base de cálculo para a conversão da licença-prêmio em pecúnia deve ser a remuneração do servidor à época em que o benefício poderia ser usufruído, nele inclusos adicionais e gratificações.
+2. Nos termos do art. 85, § 1º, do NCPC, são devidos honorários advocatícios no cumprimento de sentença, com exceção do cumprimento de sentença contra a Fazenda Pública cujo pagamento seja efetuado por meio de expedição de precatório (§7º do art. 85).
+3. A sistemática processual prevê o pagamento de honorários advocatícios uma única vez em sede de cumprimento de sentença, os quais são arbitrados independentemente de haver impugnação. Por conseguinte, inexiste previsão legal para a condenação de honorários em decisão que rejeita a impugnação ao cumprimento de sentença contra a Fazenda Pública, desde que os honorários já tenham sido fixados anteriormente.
+4. Assim, é indevida a fixação de honorários favoráveis à parte impugnada pela rejeição da impugnação (fl. 64, grifo nosso).
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente apontou ofensa aos artigos 1.022, I e II do CPC, 41, 63, 66 e 87, §2º, da Lei 8.112/90.
+Sustenta, em síntese, a omissão do acórdão recorrido sobre a necessidade de exclusão do adicional de insalubridade da base de cálculo da conversão da licença-prêmio em pecúnia e que:
+ ..  quanto ao abono de permanência, é de se destacar que em realidade possui caráter remuneratório transitório, tendo em vista que a sua concessão decorre de condições pessoais do servidor (propter personam) a serem aferidas individualmente, ou seja, somente é devido ao servidor que optar em permanecer em atividade após cumprir uma das regras de aposentadoria voluntária e se extingue com o advento da aposentadoria (fl. 66).
+Contrarrazões às fls. 116-126.
+Após a decisão de fls. 161-162, acolheu-se o pedido de distinção tornando-se sem efeito a decisão de fls. 148-149.
+É o relatório.
+Passo a decidir.
+A insurgência não merece amparo.
+No que tange, preliminarmente, à alegada violação ao art. 1.022 do CPC, constato não estar configurada a sua ocorrência.
+Ocorre que o Tribunal de origem assim se manifestou acerca da matéria arguida:
+A base de cálculo para a conversão da licença- prêmio em pecúnia deve ser a remuneração do servidor à época em que o benefício poderia ser usufruído, nele inclusos adicionais e gratificações, como abono de permanência, gratificação natalina, auxílio-alimentação e férias proporcionais.
+Nesse sentido:
+AÇÃO COLETIVA. SINDAGRI. UNIÃO. 2007.71.00.027612-0. LICENÇA PRÊMIO. BASE DE CÁLCULO. AGRAVO IMPROVIDO. 1. Excetuadas hipóteses específicas em que algumas rubricas foram expressamente afastadas no título executivo ou por meio de acordos celebrados entre as partes envolvidas, este TRF-4, em processos desta natureza (cumprimento de ação coletiva evolvendo conversão de licença-prêmio em pecúnia), tem entendido reiteradamente que todas as verbas de caráter permanente que compõem a remuneração do servidor devem compor a base de cálculo das diferenças. Incluem-se, entre outras, ainda que observada a proporcionalidade quando for o caso, o terço constitucional de férias, a gratificação natalina, o adicional de insalubridade, o adicional noturno, o auxílio-alimentação e o abono de permanência.
+2.Agravo de instrumento improvido. (TRF4, AG 5018816-92.2020.4.04.0000, QUARTA TURMA, Relator CÂNDIDO ALFREDO SILVA LEAL JUNIOR, juntado aos autos em 10/09/2020) (fls. 66-67, grifos nossos).
+Da leitura do trecho acima transcrito, constato que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões, não havendo se falar em omissão, tampouco em negativa de prestação jurisdicional.
+Nessa senda, precedentes de ambas as turmas de direito público desta Corte:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO.
+ ..
+II - Ressalte-se que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+ ..
+VIII - Agravo interno improvido (AgInt no AREsp n. 2.243.161/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/6/2023, DJe de 22/6/2023, grifos nossos).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. ART. 100 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. TÍTULO EXECUTIVO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. REVISÃO DE BENEFÍCIO PARA ADEQUAÇÃO AOS TETOS INSTITUÍDOS PELAS EC"S 20/1998 E 41/2003. ACÓRDÃO COM FUNDAMENTAÇÃO CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE POR ESTA CORTE.
+ ..
+3. Não há falar em suposta afronta aos artigos 1.022 e 489, do CPC/2015, pois a Corte de origem apreciou a controvérsia com fundamentação suficiente, embora contrária aos interesses da recorrente. Segundo entendimento pacífico desta Corte, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+ ..
+6. Agravo interno não provido (AgInt no REsp n. 1.950.404/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/4/2022, DJe de 7/4/2022, grifos nossos).
+Quanto ao mérito, com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente recurso, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Colenda 2ª Turma.
+O adicional de insalubridade é uma vantagem pecuniária não permanente, pois não se incorpora ao patrimônio jurídico do servidor de forma irreversível e, desse modo, não integra a remuneração, devendo ser excluído da base de cálculo da conversão da licença- prêmio em pecúnia.
+Nesse mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. LICENÇA-PRÊMIO. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO. ADICIONAL DE INSALUBRIDADE. NATUREZA TRANSITÓRIA. NÃO INCLUSÃO. PRECEDENTES.
+1. De fato, o entendimento do acórdão recorrido encontra-se em dissonância com a jurisprudência desta Corte Superior no sentido de que o adicional de insalubridade, por se tratar de vantagem pecuniária não permanente, deve ser excluída da base de cálculo da conversão da licença-prêmio em pecúnia.
+2. Agravo interno não provido (AgInt no REsp n. 2.089.688/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/10/2024, DJe de 23/10/2024, grifo nosso).
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. IMPUGNAÇÃO AO CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CONVERSÃO DE LICENÇA-PRÊMIO NÃO GOZADA EM PECÚNIA. BASE DE CÁLCULO. RUBRICAS QUE COMPÕEM A REMUNERAÇÃO. VERBAS DE NATUREZA PERMANENTE. SAÚDE SUPLEMENTAR. POSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. É firme o entendimento no âmbito desta Corte, no sentido de que a base de cálculo para conversão da licença-prêmio em pecúnia deve considerar as parcelas que compõem a remuneração do servidor, como o auxílio-alimentação pago em pecúnia, os valores de saúde suplementar, o abono de permanência, a gratificação natalina e o terço de férias, devidas ao servidor quando em atividade, excluído, contudo, o adicional de insalubridade, por se tratar de verba de natureza transitória. Precedentes.
+2. Agravo interno desprovido (AgInt no REsp n. 2.048.543/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 16/9/2024, DJe de 19/9/2024).
+Portanto, deve ser provido o recurso especial, com fundamento na orientação contida na Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para declarar que o adicional de insalubridade deve ser excluído da base de cálculo da conversão da licença-prêmio em pecúnia.
+Intimem-se.
+EMENTA
