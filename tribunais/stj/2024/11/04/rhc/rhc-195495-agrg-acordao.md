@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RECURSO NÃO PROVIDO. PRISÃO PREVENTIVA. OPERAÇÃO HINTERLAND. ORGANIZAÇÃO CRIMINOSA. TRÁFICO INTERNACIONAL DE DROGAS. EXCESSO DE PRAZO. COMPLEXIDADE DA DEMANDA. AGRAVO NÃO PROVIDO.
+1. Os prazos processuais previstos em lei devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CRFB), considerando cada caso e suas particularidades.
+2. Na espécie, trata-se de ação penal complexa, com 15 denunciados, em que foram apreendidas cargas com toneladas de cocaína, comercializadas em transações que envolveram bilhões de reais e deram ensejo, inclusive, à necessidade de tradução juramentada de documentos vindos do exterior.
+3. As recentes audiências de instrução realizadas na origem indicam que não há estagnação do trâmite processual.
+4. Tampouco se despreza a pena cominada em abstrato para os crimes imputados ao agente e a jurisprudência, segundo a qual a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa se enquadra no conceito de garantia da ordem pública e constitui fundamentação cautelar idônea e suficiente para a prisão preventiva.
+5. Ao revés do coacusado beneficiado em habeas corpus conexo, o agravante foi identificado como líder do grupo criminoso e responsável pelo envio do entorpecente ao exterior, além de haver sido encarcerado em outro país, o que, ao menos em princípio, justifica o efetivo risco à aplicação da lei penal.
+6. Agravo regimental não provido.
+RELATÓRIO
+RODRIGO PAREDES ALVARENGA agrava contra a decisão que negou provimento ao recurso (fls. 1.164-1.190). Ato seguinte, o acusado requereu a reconsideração do julgado de fls. 1.155-1.160 (fls. 1.198-1.204).
+No regimental, o agravante reitera os argumentos do recurso e pugna pelo reconhecimento do excesso de prazo no processamento da demanda, que levou à prisão preventiva do acusado em 29/3/2023. Afirma que não há previsão para o início da instrução. Ressalta que se juntou aos autos delação premiada de corréu, em 1º/3/2024, o que ensejou a abertura de prazo para a ratificação de defesas preliminares. Salienta a similitude fática entre o recorrente e o coacusado Ivan Cláudio Cordeiro, beneficiado com a concessão da ordem no HC n. 851.594/RS.
+Requer a reconsideração da decisão monocrática ou a submissão do feito ao órgão colegiado, a fim de que seja expedido o alvará de soltura ou sejam fixadas providências alternativas ao agravante.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RECURSO NÃO PROVIDO. PRISÃO PREVENTIVA. OPERAÇÃO HINTERLAND. ORGANIZAÇÃO CRIMINOSA. TRÁFICO INTERNACIONAL DE DROGAS. EXCESSO DE PRAZO. COMPLEXIDADE DA DEMANDA. AGRAVO NÃO PROVIDO.
+1. Os prazos processuais previstos em lei devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CRFB), considerando cada caso e suas particularidades.
+2. Na espécie, trata-se de ação penal complexa, com 15 denunciados, em que foram apreendidas cargas com toneladas de cocaína, comercializadas em transações que envolveram bilhões de reais e deram ensejo, inclusive, à necessidade de tradução juramentada de documentos vindos do exterior.
+3. As recentes audiências de instrução realizadas na origem indicam que não há estagnação do trâmite processual.
+4. Tampouco se despreza a pena cominada em abstrato para os crimes imputados ao agente e a jurisprudência, segundo a qual a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa se enquadra no conceito de garantia da ordem pública e constitui fundamentação cautelar idônea e suficiente para a prisão preventiva.
+5. Ao revés do coacusado beneficiado em habeas corpus conexo, o agravante foi identificado como líder do grupo criminoso e responsável pelo envio do entorpecente ao exterior, além de haver sido encarcerado em outro país, o que, ao menos em princípio, justifica o efetivo risco à aplicação da lei penal.
+6. Agravo regimental não provido.
+VOTO
+Os prazos processuais previstos em lei devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CRFB), considerando cada caso e suas particularidades.
+Na espécie, em recente consulta ao sítio eletrônico da Corte Regional, verificou o gabinete que, na Ação Penal n. 5050015-70.2023.4.04.7100, se realizou audiência de instrução no dia 26/9/2024, para a colheita do depoimento da testemunha Sidnei Luiz Johann, arrolada pelo órgão ministerial, oportunidade em que se designou o dia 1º/10/2024, para a oitiva da testemunha Sandro Talarico Klein.
+Constato, pois, que não há estagnação do processamento da demanda, na origem.
+Outrossim, de acordo com a orientação deste Superior Tribunal, "a reprimenda cominada em abstrato para o crime imputado ao réu deve ser considerada na avaliação do suposto tempo prolongado para o trâmite do processo" (AgRg no RHC n. 190.589/BA, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 18/4/2024, destaquei).
+Ademais, segundo "jurisprudência pacífica do Supremo Tribunal Federal, seguida por esse Superior Tribunal de Justiça, entende-se que "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva"" (AgRg no HC n. 798.835/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 24/4/2023).
+Cumpre ressaltar que o coacusado IVAN CLAUDIO CORDEIRO, beneficiado no âmbito do HC n. 851.594/RS, não exercia, na facção criminosa, participação de destacada importância, uma vez que figurou como "contador responsável pela criação e manutenção de empresas, controle e realização de pagamentos" e serviu de ""laranja" em algumas aquisições patrimoniais" (fl. 1.159).
+Ao revés, o ora agravante, RODRIGO PAREDES ALVARENGA, foi identificado como "líder do grupo e responsável pelo fornecimento do entorpecente, associando-se a outros investigados para envio da droga ao exterior, bem como para lavagem dos recursos provenientes de tais crimes" (fls. 33; 1.159, grifei), além de haver sido encarcerado em outro país (fl. 1.156), o que, ao menos em princípio, justifica o argumento de efetivo risco à aplicação da lei penal.
+Também enfatizo a "complexidade do feito, com 15 denunciados, em que foram apreendidas cargas com toneladas de cocaína, comercializadas em transações que envolveram bilhões de reais, e deram ensejo, inclusive, à necessidade de tradução juramentada de documentos vindos do exterior" (fl. 1.157).
+Nesse sentido, o parecer ministerial, como se vê (fls. 1.457-1.459):
+Extrai-se da análise dos autos que o processo envolve a investigação de crimes como o de organização criminosa e tráfico internacional de entorpecentes e conta com um
+número significativo de denunciados.
+A decisão agravada bem fundamentou seu entendimento pela ausência de excesso de prazo na formação da culpa e pela impossibilidade de extensão da ordem concedida a corréu:
+ ..
+É possível, ainda, constatar que o Tribunal Regional Federal da 4ª Região, adotando a mesma linha intelectiva, denegou a ordem de habeas corpus, por entender não ter havido alteração da situação fático-jurídica em relação ao pleito liminar, pontuando que "a
+própria defesa vem to rnando menos célere o andamento processual com pedidos de reunião de ações penais cindidas (houve cisão justamente para evitar mais entraves ao andamento
+processual - processo 5066395-71.2023.4.04.7100/RS, evento 120, DESPADEC1) e reiteração de diversas alegações, sobre as quais não cabe a análise neste mandamus, em atuação natural da advocacia, mas que inegavelmente retardam o impulso processual, uma vez que ensejam apreciação e ponderação do juízo" (e-STJ fls. 535).
+Fato é que o processo vem tendo regular andamento na origem, o que afasta, por ora, a ocorrência de excesso de prazo para a conclusão da instrução criminal.
+Por fim, as especificidades do presente caso prejudicam a pretensão de análise do pedido de extensão da revogação da prisão preventiva de outros corréus, ante o caráter exclusivamente pessoal das decisões em questão e a manifesta ausência de similitude fático-processual entre os acusados, a afastar a aplicação do art. 580 do Código de Processo Penal.
+Não há falar, portanto, em flagrante constrangimento ilegal.
+À vista do exposto, nego provimento ao agravo.
