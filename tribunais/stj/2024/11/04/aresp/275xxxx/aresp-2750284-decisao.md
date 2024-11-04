@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo interposto por ITAÚ UNIBANCO S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fl. 344):
+APELAÇÃO CÍVEL AÇÃO DE EMBARGOS À EXECUÇÃO. COTAS CONDOMINIAIS. PRELIMINAR DE ILEGITIMIDADE PASSIVA AD CAUSAM. O pagamento das cotas condominiais de bem imóvel constitui, em regra, obrigação do proprietário, já que o encargo se incorpora à coisa e esta passa a integrar o seu patrimônio. Entendimento consolidado no âmbito do e. Superior Tribunal de Justiça, no Recurso Especial nº. 1.345.331/RS, sob a sistemática dos recursos repetitivos, no sentido da legitimidade do promitente vendedor para pagamento das cotas condominiais, legitimidade esta que é afastada, provada a imissão na posse pelo cessionário e o conhecimento, pelo condomínio, da promessa de compra e venda. Ao analisar os fatos e provas dos autos, nota-se que o banco não comprovou que houve imissão na posse ou a ciência inequívoca do condomínio quanto à venda do bem. Acorde ao disposto no art. 373, do CPC, incumbe à parte autora a prova dos atos constitutivos de seu direito, ao passo que o réu deve provar os fatos impeditivos, modificativos ou extintivos do direito do autor e, na hipótese, deixou o embargante de se desincumbir de seu ônus. Inversão dos ônus sucumbenciais. Recurso a que se dá provimento.
+Rejeitados os embargos de declaração opostos (fls. 370-374).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 1.022, II, parágrafo único, II, e 489, §1º, IV, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 1.345 do CC e 485, VI, do CPC, bem como nos arts. 369 e 373, II, e §1º, do CPC.
+Sustenta, em síntese, que não possui legitimidade passiva para responder pelo pagamento das quotas condominiais vencidas e não pagas em período posterior à venda da unidade residencial a terceiro, à luz da inteligência dos arts. 1.345 do CC e 485, VI, do CPC.
+Defende que houve omissão por parte da Corte de origem, que deixou de apreciar "quanto ao fato incontroverso nos autos acerca da inequívoca ciência do Agravado sobre a imissão da posse pelo comprador. Ainda, ficou demonstrado a ilegitimidade passiva do Agravante para responder pelos débitos condominiais posteriores a compra e venda do imóvel. relação jurídica material do imóvel que demonstra a responsabilidade do comprador do imóvel" (fl. 568).
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 425-433).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 537-543), o que ensejou a interposição do presente agravo.
+Quanto à tese da legitimidade passiva para o pagamento de cotas condominiais posteriores à venda do imóvel, o Tribunal a quo negou seguimento ao recurso especial, uma vez que tal matéria encontra-se sedimentada no Tema n. 886/STJ.
+Apresentada contraminuta do agravo (fls. 648-651).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se, na origem, de ação de embargos à execução movida pelo agravado CONDOMINIO FAZENDA SANTA MONICA em desfavor de ITAU UNIBANCO S.A. em razão do não pagamento de cotas condominiais de bem imóvel que se encontra-se registrado em nome da agravante.
+Em sua defesa, sustenta o agravante que "alienou os imóveis, na data de 08/05/2010, por meio de arrematação em leilão público (index 000018) para o sr. Paulo Cesar Chiomento e acosta aos autos (index 000020) o registro particular de compra e venda com data de 19/08/2011" (fl. 347).
+Desse modo, alega inexistente a legitimidade para responder pela execução.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao dar provimento à apelação do condomínio agravado, deixou claro que (fl. 347):
+O embargante alega que alienou os imóveis, na data de 08/05/2010, por meio de arrematação em leilão público (index 000018) para o sr. Paulo Cesar Chiomento e acosta aos autos (index 000020) o registro particular de compra e venda com data de 19/08/2011.
+Releva notar, que não foi efetuada a transferência da propriedade perante o Registro Geral de Imóveis, pelo que ainda consta como proprietário dos referidos imóveis, a instituição bancária.
+Acorde ao decidido pelo e. STJ, no recurso anteriormente mencionado, a responsabilidade pelas despesas de condomínio apenas será atribuída ao comprador, caso comprovado que ele se imitiu na posse e que o condomínio tenha ciência inequívoca da transação, hipótese em que será afastada a responsabilidade do proprietário.
+Com efeito, ao analisar os fatos e provas dos autos, nota-se que o banco não comprovou que houve imissão na posse e a ciência inequívoca do condomínio quanto à venda do bem.
+Releva destacar que a sentença julgou procedente os embargos por entender que "é de se supor tanto a imissão na posse pelo comprador, como a ciência do condomínio, eis que, por quase dois, as despesas foram suportadas pelo comprador". No entanto, além de inexistirem provas da a imissão na posse, sequer restou comprovado que as despesas foram efetivamente suportadas pelo adquirente.
+Deste modo, acorde ao disposto no art. 373, do CPC, incumbe à parte autora a prova dos atos constitutivos de seu direito, ao passo que o réu deve provar os fatos impeditivos, modificativos ou extintivos do direito do autor e, na hipótese, deixou o embargante de se desincumbir de seu ônus, pelo que os embargos devem ser julgados improcedentes.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022, grifo meu.)
+Ademais, nos termos da jurisprudência vigente nesta Corte Superior, a prova constitui elemento de formação da convicção do magistrado acerca dos fatos, tendo como destinatário o juiz, o qual possui a prerrogativa de livremente apreciá-la por meio de motivada decisão.
+No presente caso, observa-se que, com base nos elementos probatórios contidos nos autos, o Tribunal de origem afirmou que não ficou comprovada a imissão na posse do bem, bem como não se comprovou a ciência inequívoca do condomínio sobre a suposta transação. Portanto, rever tais premissas encontra óbice na Súmula n. 7/STJ.
+A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. NEXO CAUSAL, DANOS MORAIS E ESTÉTICOS CONFIGURADOS. QUANTUM INDENIZATÓRIO. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO. NÃO CABIMENTO. SÚMULA N. 7/STJ. 3. JUROS. TERMO INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. 4. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência vigente nesta Corte Superior, a prova constitui elemento de formação da convicção do magistrado acerca dos fatos, tendo como destinatário o juiz, o qual possui a prerrogativa de livremente apreciá-la através de motivada decisão.
+2. Modificar as conclusões do Tribunal local, acerca da prescindibilidade de produção de outras provas, da comprovação do nexo causal e do quantum indenizatório, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3. A indicação de dispositivos sem que esses tenham sido debatidos pelo Tribunal de origem obsta o conhecimento do recurso especial pela ausência de prequestionamento.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.674.495/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+PROCESSO CIVIL, AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. CERCEAMENTO DE DEFESA. AUSÊNCIA.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se verificando omissão, contradição ou negativa de prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. O juiz é o destinatário das provas e pode indeferir, fundamentadamente, aquelas que considerar desnecessárias, nos termos do princípio do livre convencimento motivado, não configurando cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstradas a instrução do feito e a presença de dados suficientes à formação do convencimento. (e. g. 1ª T. AgInt nos EDcl no REsp 1880718/RS, Rel. Ministro Gurgel de Faria, j. 16.08.2021, DJe 20.08.2021; e 2ª T. AgInt. no AREsp 1816381/SP, Rel. Min. Herman Benjamin, j.31.05.2021, DJe 01.07.2021).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.368.822/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS À EXECUÇÃO. COTAS CONDOMINIAIS. LEGITIMIDADE PASSIVA. OMISSÃO E AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO VERIFICADAS. MERA IRRESIGNAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
