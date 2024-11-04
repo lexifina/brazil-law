@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RODRIGO LUCHETTI no qual se aponta como Autoridade Coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, na Apelação Criminal n. 0032355-23.2020.8.06.0001.
+Consta dos autos que o paciente foi condenado, em primeiro grau, às penas de 29 (vinte e nove) anos de reclusão, em regime inicial fechado, e 2.266 (dois mil duzentos e sessenta e seis) dias-multa, diante da prática dos crimes previstos nos arts. 2º, caput e §§ 2º e 4º, incisos II e IV, da Lei n. 12.850/2013; e arts. 33 (duas vezes) e 35, ambos da Lei n. 11.343/2006.
+O Tribunal de origem deu parcial provimento à apelação defensiva, a fim de reduzir as sanções para 25 (vinte e cinco) anos e 4 (quatro) meses de reclusão e 2.128 (dois mil cento e vinte e oito) dias-multa, mantido, no mais, o édito condenatório.
+Neste writ, a Defesa alega constrangimento ilegal com base na ausência de materialidade delitiva quanto ao delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+Aduz que não foi apreendido qualquer tipo de droga na posse do paciente e assevera que, "o crime de tráfico de drogas é um tipo penal que deixa vestígios e por determinação legal deve se fazer o exame de corpo e delito (art. 158 do CPP)." (fl. 8).
+Requer, liminarmente e no mérito, a absolvição do Paciente quanto à prática do delito de tráfico de drogas, por ausência de materialidade, nos termos do art. 386, II, do CPP.
+Informações prestadas às fls. 367-371.
+Parecer do Ministério Público Federal às fls. 375-376, opinando pelo não conhecimento da impetração.
+É o relatório.
+Decido.
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento da Primeira Turma do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+Verifico, ademais, que a Defesa, além da impetração do presente habeas corpus, também interpôs Recurso Especial, seguido do respectivo agravo após inadmissão na origem, conforme informações prestadas pelo Tribunal de Justiça do Estado do Ceará (fls. 367-369).
+De acordo com o entendimento desta Corte, a impetração de habeas corpus e a interposição de recurso próprio simultâneo contra o mesmo acórdão condenatório caracteriza ofensa ao princípio da unirrecorribilidade (AgRg no HC n. 549.368/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 19/12/2019).
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INADMISSIBILIDADE DE WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO OU DE REVISÃO CRIMINAL. INTERPOSIÇÃO SIMULTÂNEA DE RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. RECURSO ESPECIAL JULGADO. PREJUDICIALIDADE DO HABEAS CORPUS. INTERCEPTAÇÃO TELEFÔNICA. EXAURIMENTO DE OUTROS MEIOS DE OBTENÇÃO DE PROVA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. PERÍCIA DE VOZES CAPTADAS. DESNECESSIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É inadmissível a impetração de habeas corpus substitutivo de recurso especial ou de revisão criminal, salvo se comprovada manifesta ilegalidade.
+2. A impetração de habeas corpus e a interposição de recurso especial simultâneas contra o mesmo acórdão condenatório caracteriza ofensa ao princípio da unirrecorribilidade.
+3. No caso de interposição de recurso especial concomitante com impetração de habeas corpus com objetos idênticos, o julgamento daquele prejudica o exame da impetração.
+4. O exame da viabilidade de esgotamento de outros meios de obtenção de prova para autorização de interceptação telefônica, nos termos do art. 2º, II, da Lei n. 9.296/1996, demanda revolvimento de matéria fático-probatória, inviável em habeas corpus.
+5. É desnecessária a realização de perícia para a identificação de vozes captadas em interceptações telefônicas.
+6. Agravo regimental desprovido." (AgRg no HC 490.838/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 27/04/2021, DJe 29/04/2021; sem grifos no original.)
+Ante o exposto, não conheço do pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. TENTATIVA DE LATROCÍNIO. DESCLASSIFICAÇÃO DA CONDUTA PARA ROUBO. PEDIDO FORMULADO NO HC N. 695.113/SP. REITERAÇÃO. DOSIMETRIA. PRIMEIRA FASE. VETORES NEGATIVOS: MAUS ANTECEDENTES E CIRCUNSTÂNCIAS DO CRIME DEVIDAMENTE MOTIVADOS. ELEVAÇÃO DA PENA-BASE EM 1/4 (UM QUARTO) FUNDAMENTAÇÃO IDÔNEA E PROPORCIONALIDADE. TENTATIVA. ITER CRIMINIS. FRAÇÃO DE 1/3 (UM TERÇO) DEVIDAMENTE MOTIVADA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. CONCURSO FORMAL IMPRÓPRIO. NÚMERO DE VÍTIMAS ALVEJADAS. APENAS UM PATRIMÔNIO ATINGIDO. RECONHECIMENTO DE CRIME ÚNICO. ENTENDIMENTO FIRMADO PELA TERCEIRA SEÇÃO DESTA CORTE, NO JULGAMENTO DO AGRG NO ARESP N. 2.119.185/RS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
