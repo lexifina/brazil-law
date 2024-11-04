@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de FELLIPE LIMA DOS SANTOS MELLO apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0070838-26.2024.8.19.0000, relatora a Desembargadora Mônica Tolledo de Oliveira).
+Depreende-se dos autos que o paciente foi preso cautelarmente, em 8 de março de 2023, pela suposta prática dos crime de tráfico de drogas e associação para o mesmo fim (arts. 33, caput, e 35, ambos da Lei n. 11.343/2006).
+Nos termos da peça acusatória, ele, em comunhão de ações e desígnios com adolescente e outros corréus ainda não identificados, "trazia consigo, para fins de comércio ilícito, sem autorização e em desacordo com determinação legal e regulamentar, 55 embalagens plásticas contendo 38,5g de Cloridrato de Cocaína e 60 embalagens contendo 400g de Cannabis Sativa" (e-STJ fl. 23).
+No Superior Tribunal de Justiça, sustenta a defesa o excesso de prazo na formação da culpa. Ressalta que, submetido "à instrução criminal, foi designada AIJ no dia 07/12/2023, quando foram ouvidas as testemunhas arroladas pelas partes. Quando no momento da elaboração das Alegações Finais, restou detectado que problemas técnicos inviabilizaram a visualização e oitiva do ato gravado, levando a designação de nova AIJ. Realizada a segunda AIJ, MAIS UMA VEZ os depoimentos das testemunhas apresentaram problemas técnicos na plataforma PJe-Mídias, IMPOSSIBILITANDO sua visualização e degravação a partir de 1 minuto e 56 segundos, sendo certo que o ato conta com 8 minutos e 34 segundos. Das três testemunhas de defesa que prestaram depoimento, é possível escutar somente a fala da primeira delas, e parcialmente. Diante disso, foi requerida a renovação da audiência e o relaxamento da prisão. Contudo, o Paciente foi mantido preso preventivamente" (e-STJ fl. 4). Assere que, "tendo em vista estamos diante da prisão cautelar que já completou 1 ano e 7 meses, sem que o Paciente e/o sua Defesa tenham dado causa à demora na instrução criminal, imperioso o relaxamento da prisão" (e-STJ fl. 9).
+Diante dessas considerações, pede (e-STJ fl. 14):
+1) seja deferida a liminar para que o Paciente aguarde em liberdade o julgamento do presente writ, eis que presentes os pressupostos autorizadores.
+2) seja dispensado o pedido de informações à autoridade coatora, uma vez que os autos de origem são eletrônicos e o presente remédio constitucional se encontra devidamente instruído, e que sejam os autos, após apreciação do pedido de liminar, remetidos à Procuradoria de Justiça para parecer;
+3) no mérito, requer seja confirmada a liminar, reconhecendo-se o excesso de prazo, com o consequente relaxamento da prisão e expedição de alvará de soltura.
+É o relatório.
+Decido.
+Em consulta ao endereço eletrônico do Tribunal de Justiça, verificou-se que a instrução processual penal encontra-se encerrada, estando pendente no momento somente a apresentação dos memoriais pela defesa.
+Diante desse cenário, é caso de aplicação do disposto no enunciado n. 52 da Súmula desta Corte Superior: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo." (Terceira Seção, julgado em 17/9/1992, DJ 24/9/1992, p. 16.070)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
