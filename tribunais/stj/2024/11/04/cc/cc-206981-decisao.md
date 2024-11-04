@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO FEDERAL DA 19A VARA CÍVEL DE SÃO PAULO - SJ/SP (Juízo suscitante) e o JUÍZO FEDERAL DA 20A VARA CÍVEL DE BRASÍLIA - SJ/DF (Juízo suscitado).
+O incidente processual decorre de cumprimento de sentença do MUNICÍPIO DE CANDEIAS em desfavor da UNIÃO em que objetiva o cumprimento individual de sentença em razão de título executivo derivado de ação civil pública, cuja decisão já se encontra transitada em julgado (Processo 1999.61.00.050616-0), em que a União foi condenada a ressarcir o Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério (Fundef) por valor repassado a menor em favor do Município na quantia correspondente à diferença entre o valor definido conforme o critério do art. 6º, § 1º, da Lei 9.424/1996 e aquele fixado em montante inferior desde o ano de 1998, pleiteando o Município a expedição de precatório no valor de R$ 14.495.962,95 (quatorze milhões, quatrocentos e noventa e cinco mil, novecentos e sessenta e dois reais e noventa e cinco centavos) (fl. 14).
+O JUÍZO FEDERAL DA 20A VARA CÍVEL DE BRASÍLIA - SJ/DF, para quem a ação foi distribuída, declarou-se incompetente para processar e julgar o processo por entender que (fl. 31):
+Na espécie, a despeito de não se tratar de seu domicílio, o exequente ajuizou a execução perante esta Seção Judiciária do Distrito Federal, elegendo foro não previsto na legislação.
+Ante o exposto, DECLARO A INCOMPETÊNCIA deste Juízo para processar e julgar o presente cumprimento de sentença.
+Como o Município autor já optou por ajuizar a ação fora de seu Município, os autos devem ser remetidos para a 19ª Vara da Seção Judiciária de São Paulo, dependentes aos autos nº 1999.61.00.050616-0.
+Por sua vez, o JUÍZO FEDERAL DA 19A VARA CÍVEL DE SÃO PAULO - SJ/SP suscitou o presente conflito em razão de que (fl. 27):
+ ..  observando a linha de entendimento do STJ, no sentido de que as causas intentadas contra a União poderão ser aforadas na Seção Judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda, ou esteja situada a coisa, ou, ainda, no Distrito Federal, tendo o Município exequente optado por ajuizar o cumprimento individual de sentença no Distrito Federal, não é possível o declínio de competência para esta 19ª Vara Cível Federal.
+O Ministério Público Federal opinou pela competência do Juízo Federal da 20ª Vara Cível de Brasília - SJ/DF, suscitado (fl. 37).
+É o relatório.
+A discussão está centrada na possibilidade de o beneficiário do título executivo pleitear o seu cumprimento em Brasília.
+Conheço do conflito porque foi suscitado entre juízos vinculados a tribunais diversos.
+Os ministros da Primeira Seção do Superior Tribunal de Justiça têm reconhecido a possibilidade de eleição pelo autor da ação do foro de seu domicílio, daquele em que processada a ação de origem ou, ainda, do Distrito Federal, para fins de cumprimento da sentença coletiva, conforme disposto no art. 109, § 2º, da Constituição Federal. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. ARTIGO 109, § 2o. DA CONSTITUIÇÃO FEDERAL. POSSIBILIDADE DE AJUIZAMENTO NO DOMICÍLIO DO AUTOR. FACULDADE CONFERIDA AO IMPETRANTE. AGRAVO INTERNO DA UNIÃO DESPROVIDO.
+1. O STJ, seguindo a jurisprudência pacificada do Supremo Tribunal Federal, entende que as causas intentadas contra a UNIÃO poderão ser aforadas na Seção Judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda, ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+2. O enunciado constitucional não limita a escolha dada aos requerentes advindas da natureza do Mandado de Segurança (AgInt no CC 170.533/DF, Rel. Min. MAURO CAMPBELL MARQUES, DJe 5.6.2020).
+3. Agravo Interno da UNIÃO desprovido.
+(AgInt no CC n. 167.425/DF, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 15/12/2020, DJe de 18/12/2020.)
+Quanto ao cumprimento da sentença coletiva referente ao Fundef, vale destacar estas recen tes decisões: CC 199.851, Ministro Sérgio Kukina, DJe de 19/9/2023; CC 195.107, Ministro Benedito Gonçalves, DJe de 13/9/2023; CC 198.758, Ministro Francisco Falcão, DJe de 2/8/2023; CC 189.628, Ministra Assusete Magalhães, DJe de 2/6/2023; CC 196.546, Ministra Assusete Magalhães, DJe de 17/5/2023; CC 192.592, Ministra Assusete Magalhães, DJe de 15/ 2/2023.
+Pelo exposto, conheço do conflito para declarar competente para processar e julgar a causa o JUÍZO FEDERAL DA 20A VARA CÍVEL DE BRASÍLIA - SJ/DF, ora suscitado.
+Publique-se. Comunique-se.
+EMENTA
