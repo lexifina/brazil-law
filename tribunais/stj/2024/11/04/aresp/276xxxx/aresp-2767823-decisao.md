@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra a decisão que inadmitiu seu recurso especial. O apelo extremo, fundamentado no artigo 105, III, alíneas "a" e "c" da Constituição Federal, impugna acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DA INSTITUIÇÃO FINANCEIRA DEMANDADA.
+1. PRELIMINAR DE CERCEAMENTO DE DEFESA. INSUBSISTÊNCIA. ELEMENTOS DE PROVA SUFICIENTES AO CONVENCIMENTO DO JULGADOR. DISCUSSÃO SOBRE MATÉRIA DE DIREITO. PRESCINDIBILIDADE DE PROVA PERICIAL. EXEGESE DOS ARTS. 355, INCISO I, E 370, DO CPC. EIVA AFASTADA.
+2. DEFENDIDA PRESCRIÇÃO QUINQUENAL DA PRETENSÃO AUTORAL. INSUBSISTÊNCIA. PRAZO DECENAL. ART. 205 DO CÓDIGO CIVIL. LAPSO TEMPORAL NÃO TRANSCORRIDO. PREFACIAL RECHAÇADA.
+3. JUROS REMUNERATÓRIOS. DEFENDIDA AUSÊNCIA DE ABUSIVIDADE. INSUBSISTÊNCIA. ENCARGOS PACTUADOS EM PERCENTUAIS QUE ULTRAPASSAM EM MAIS DE 10% (DEZ POR CENTO) A TAXA MÉDIA DE JUROS (MENSAL E ANUAL), DIVULGADA PELO BACEN, PARA OPERAÇÕES DE MESMA ESPÉCIE, À DATA DA CONTRATAÇÃO, EM TODOS OS CONTRATOS REVISADOS. ABUSIVIDADE CONFIGURADA. ENTENDIMENTO SEDIMENTADO NESTE COLEGIADO. LIMITAÇÃO IMPERATIVA. SENTENÇA ESCORREITA.
+4. REPETIÇÃO DO INDÉBITO. PLEITO DE AFASTAMENTO. INVIABILIDADE. ENCARGO REDUZIDO A ENSEJAR A RESTITUIÇÃO DE VALORES, NA FORMA SIMPLES, SOB PENA DE LOCUPLETAMETO INDEVIDO DA CASA BANCÁRIA.
+5. HONORÁRIOS RECURSAIS FIXADOS, EIS QUE PREENCHIDOS OS REQUISITOS CUMULATIVOS DEFINIDOS PELO STJ (EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL N. 1573573/RJ, RELATOR MIN. MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, J. 04/04/2017).
+RECURSO CONHECIDO E DESPROVIDO" (e-STJ fl. 546).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 657/660)
+Nas razões do recurso especial, a recorrente aponta divergência jurisprudencial e violação art. 421 do Código Civil, sustentando, em síntese, que no mútuo bancário os juros remuneratórios não podem ser considerados abusivos apenas se comparadas as taxas dos juros contratados com a média de mercado.
+Sem contrarrazões (e-STJ fls. 840/842).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece acolhida.
+De início, no tocante ao art. 421 do Código Civil, verifica-se que o dispositivo legal indicado como malferido não tem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pela parte recorrente, situação em que a jurisprudência desta Corte Superior considera deficiente a fundamentação recursal, incidindo, por analogia, o óbice contido na Súmula nº 284/STF.
+No mais, insurge-se a recorrente contra o entendimento da instância ordinária que reconheceu a abusividade dos juros remuneratórios na contratação de empréstimo consignado.
+É cediço que as instituições financeiras não se sujeitam à limitação dos juros remuneratórios que foi estipulada pela Lei de Usura (Decreto nº 22.626/1933), em consonância com a Súmula nº 596/STF, sendo também inaplicável o disposto no art. 591, c/c o art. 406, do Código Civil para esse fim, salvo nas hipóteses previstas em legislação específica.
+A redução dos juros dependerá de comprovação da onerosidade excessiva - capaz de colocar o consumidor em desvantagem exagerada - em cada caso concreto, tendo como parâmetro a taxa média de mercado para as operações equivalentes, de modo que a simples estipulação de juros remuneratórios superiores a 12% (doze por cento) ao ano, por si só, não indica abusividade, nos termos da Súmula nº 382/STJ.
+Nesse sentido, o REsp 1.061.530/RS, da relatoria da Ministra Nancy Andrighi, submetido ao regime dos recursos repetitivos, julgado pela Segunda Seção, com a seguinte ementa, ora transcrita na parte que interessa:
+"DIREITO PROCESSUAL CIVIL E BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. (..) ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto".
+No presente caso, o Tribunal local concluiu pela abusividade dos juros analisando a questão com base na recente jurisprudência desta Corte:
+"(..)
+Percebe-se, (..) que os percentuais pactuados nos contratos em análise se revelam abusivos, por superarem, em mais de 10% (dez por cento), a taxa média de juros em referência.
+Insta salientar, ademais, que as taxas médias divulgadas pelo Bacen, relativas à operação de crédito pessoal não consignado, já levam em consideração se tratar de contratação de maior risco, porquanto desprovida de qualquer garantia.
+Há de se destacar, ainda, o entendimento desta Corte de Justiça, no sentido de que, evidenciada a abusividade nos juros remuneratórios pactuados, estes devem ser limitados às próprias médias de mercado divulgadas pelo Bacen para os respectivos períodos (vide: Apelação Cível n. 5020099-38.2020.8.24.0008, rel. Newton Varella Junior, Segunda Câmara de Direito Comercial, j. 21- 03-2023 e Apelação Cível n. 5010615-84.2021.8.24.0033, rel. Dinart Francisco Machado, Terceira Câmara de Direito Comercial, j. 27-04-2023).
+Derradeiramente, ad argumentandum tantum, impende registrar que, inobstante a admissão da margem de até 10% (dez por cento), como limite para fins de constatação de abusividade dos juros remuneratórios, considerando as peculiaridades do(s) contrato(s) objeto da lide, não se verifica qualquer circunstância que justifique a cobrança dos juros remuneratórios no patamar contratado, tais como: " ..  o custo da captação dos recursos no local e época do contrato; o valor e ao prazo do financiamento; as fontes de renda do cliente; as garantias ofertadas; a existência de prévio relacionamento do cliente com a instituição financeira; a análise do perfil de risco de crédito do tomador; a forma de pagamento da operação, entre outros aspectos" (REs p n. 1.821.182/RS, rel. Ministra Maria Isabel Gallotti, Quarta Turma, j. em 23-6-2022, D Je 29-6-2022).
+Assim, restou configurada a abusividade das taxas dos juros remuneratórios dos contratos sob revisão, nos exatos termos expostos na sentença objurgada, razão por que o desprovimento pontual do recurso é medida de rigor." (e-STJ fls. 544/545).
+Dessa forma, rever os argumentos trazidos pelo acórdão recorrido demandaria a reanálise do conjunto fático-probatório dos autos e das cláusulas contratuais, incidindo as Súmulas nºs 5 e 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. DESCABIMENTO DA SUSPENSÃO DO PROCESSO. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA INCOMPATÍVEL COM O RECOLHIMENTO DAS CUSTAS. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO IMPROVIDO.
+1. Com efeito, conforme jurisprudência desta Corte Superior, o art. 18 da Lei nº 6.024/1974 não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito.
+2. O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça.
+3. Nos termos da jurisprudência desta Corte Superior, "os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares" (AgInt no REsp 1.930.618/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2022, DJe 27/4/2022).
+3.1. A modificação do entendimento alcançado pelo acordão estadual (acerca da abusividade na cobrança dos juros remuneratórios contratados) demandaria a interpretação de cláusulas contratuais e o reexame de fatos e provas, o que é inviável no âmbito do recurso especial, permanecendo incólume a aplicação das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+5. Agravo interno improvido"
+(AgInt no AREsp 2.435.953/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pelo/a ora recorrente, devem ser majorados para R$ 2.000,00 (dois mil reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
