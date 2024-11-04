@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. AÇÃO COMPLEXA. TRÂMITE REGULAR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal de origem consignou que se trata de crime de ação criminal complexa, envolvendo três investigados, e que o recurso em sentido estrito foi provido para anular a decisão de pronúncia em razão do excesso de linguagem. Segundo as informações do Juízo de origem, ele está aguardando tão somente o trânsito em julgado do acórdão mencionado para que seja proferida nova decisão de pronúncia.
+2. Apesar de o paciente estar preso desde 21/7/2023, não ficou evidenciada mora estatal na ação penal em que a sucessão de atos processuais afasta a ideia de paralisação indevida do processo, ou de culpa do Estado persecutor, não havendo que se falar em ilegalidade no prazo da persecução criminal desenvolvida.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WELLISSON RICARDO SANDI contra a decisão de fls. 211-213, que denegou a ordem de habeas corpus.
+Nas razões deste recurso, a defesa reitera os termos da inicial e aduz o excesso de prazo da prisão preventiva.
+Requer o acolhimento do agravo, pretendendo obter o relaxamento da prisão preventiva, ainda que mediante a aplicação de medidas cautelares diversas do cárcere.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. AÇÃO COMPLEXA. TRÂMITE REGULAR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal de origem consignou que se trata de crime de ação criminal complexa, envolvendo três investigados, e que o recurso em sentido estrito foi provido para anular a decisão de pronúncia em razão do excesso de linguagem. Segundo as informações do Juízo de origem, ele está aguardando tão somente o trânsito em julgado do acórdão mencionado para que seja proferida nova decisão de pronúncia.
+2. Apesar de o paciente estar preso desde 21/7/2023, não ficou evidenciada mora estatal na ação penal em que a sucessão de atos processuais afasta a ideia de paralisação indevida do processo, ou de culpa do Estado persecutor, não havendo que se falar em ilegalidade no prazo da persecução criminal desenvolvida.
+3. Agravo regimental improvido.
+VOTO
+A pretensão recursal não pode ser acolhida, pois os argumentos trazidos no agravo regimental não demonstram o desacerto da decisão que denegou a ordem de habeas corpus.
+Consoante relatado, busca a defesa a reconsideração da decisão agravada, com o relaxamento da prisão preventiva, ainda que mediante a aplicação de medidas cautelares diversas do cárcere.
+A decisão que denegou habeas corpus foi assim fundamentada (fls. 211-213):
+O acórdão impugnado está assim fundamentado (fls. 161/163):
+Peço vênia ao Des. Relator para dele divergir, denegando a ordem impetrada. Sob o alegado excesso de prazo, conquanto se possa extrair, da própria sistemática do Código de Processo Penal, determinado lapso temporal ideal para formação da culpa, é bem de ver que o prazo para a formação de culpa não pode ser tido como mera soma aritmética, informado que deve ser pelos princípios da razoabilidade e proporcionalidade.
+Confiram-se, por elucidativos, acerca do tema, os arestos que se seguem, ambos oriundos do Superior Tribunal de Justiça:
+ ..
+Pela própria argumentação trazida na petição inicial e pelos documentos coligidos extrai-se que, presentemente, tem-se por finda a instrução da fase primeira, monocrática, do procedimento. No ponto, destaco que, em que pese a decisão de pronúncia ter sido declarada nula por este Tribunal, em virtude de excesso de linguagem, não houve impacto no restante da instrução processual
+Sendo assim, tem-se por superada qualquer alegação de excesso de prazo, na esteira do enunciado sumular n.52 do Superior Tribunal de Justiça: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.".
+Malgrado os argumentos ventilados pelo impetrante, tenho que, no caso, o processo segue seu trâmite regular, sem que os prazos processuais relativos à persecução penal tenham sido suplantados, ao menos por ora, de maneira desarrazoada, tampouco por desídia da presidência do feito. Em outras palavras: o trâmite processual, dadas as especificidades do caso, ainda segue sob o signo da razoabilidade temporal.
+Frise-se que se trata de processo complexo, em que se apura a prática de delito de homicídio qualificado, envolvendo três réus. Ademais, após a decisão de pronúncia (proferida com duração razoável), a defesa do paciente recorreu, suscitando preliminar de excesso de linguagem, o que foi acolhido por este Tribunal (registro que o julgamento ocorreu em tempo hábil), sendo que, deste acórdão, foram opostos Embargos de Declaração, já julgados, e, posteriormente, embargos Infringentes, ainda pendentes de apreciação.
+Não bastasse, verifico que, segundo informado pela autoridade dita coatora, aguarda-se tão somente o trânsito em julgado do acórdão mencionado para que seja proferida nova decisão de pronúncia, o que indica que a fase decisória da primeira etapa do procedimento do Júri encontra-se próxima.
+Por fim, registro que a prisão preventiva do paciente já foi objeto de análise por esta egrégia 7ª Câmara Criminal em oportunidades anteriores (julgamento dos "habeas corpus" n.º 1.0000.24.016973-0/000 e 1.0000.23.177202-1/000e do Recurso em Sentido Estrito n.º 1.0000.23.351799-4/001), ocasiões em que foi destacada a gravidade concretado delito imputado ao paciente, não tendo sobrevindo nenhum fato novo apto a desconstituir o decreto constritivo, devendo, portanto, ser mantido.
+Ante o exposto, DENEGO A ORDEM.
+Aos prazos consignados na lei processual deve-se atentar o julgador às peculiaridades de cada ação criminal. Com efeito, uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação.
+Conforme consta dos autos, o paciente foi preso em 21/07/2023; a denúncia foi recebida em 17/07/2023, a audiência de instrução foi realizada em 05/10/2023, tendo o paciente sido pronunciado em 21/11/2023. O recurso em sentido estrito foi julgado em 17/04/2024 e os embargos de declaração foram julgados em 08/05/2024. Desde 10/06/2024 os autos estão conclusos para julgamento dos embargos infringentes.
+Ainda, o Tribunal de origem consignou que se trata de crime de ação criminal complexa, envolvendo 3 investigados, e que o recurso em sentido estrito foi provido para anular a decisão de pronúncia em razão do excesso de linguagem, contudo, segundo as informações do juízo de origem, ele está aguardando tão somente o trânsito em julgado do acórdão mencionado para que seja proferida nova decisão de pronúncia.
+Desse modo, não evidenciada mora estatal na ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida do processo, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Ante o exposto, denego o habeas corpus.
+Conforme consignado na decisão agravada, o paciente foi preso em 21/7/2023; a denúncia foi recebida em 17/7/2023; a audiência de instrução foi realizada em 5/10/2023, tendo o paciente sido pronunciado em 21/11/2023. O recurso em sentido estrito foi julgado em 17/4/2024, e os embargos de declaração foram julgados em 8/5/2024. De sde 10/6/2024, os autos estão conclusos para julgamento dos embargos infringentes.
+Ademais, o Tribunal de origem consignou que se trata de crime de ação criminal complexa, envolvendo três investigado s, e que o recurso em sentido estrito foi provido para anular a decisão de pronúncia em razão do excesso de linguagem, contudo, segundo as informações do Juízo de origem, ele está aguardando tão somente o trânsito em julgado do acórdão mencionado para que seja proferida nova decisão de pronúncia.
+Em consulta ao sítio eletrônico do Tribunal de origem (processo n. 0023826-78.2022.8.13.0056), contata-se que foi indeferido o pedido do paciente de desmembramento do feito em 10/9/2024, e os autos foram remetidos ao segundo grau em 3/10/2024.
+Nesse contexto, não evidenciada mora estatal na ação penal em que a sucessão de atos processuais afasta a ideia de paralisação indevida do processo, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Dessa forma, o agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
