@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por CAIXA DE PREVIDENCIA DOS FUNCIONARIOS DO BANCO DO BRASIL - PREVI, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fls. 1001-1013 e-STJ), assim ementado:
+PREVIDÊNCIA PRIVADA. Ação de revisão de complementação de aposentadoria . Pretensão de integrar horas extras reconhecidas em ação trabalhista no benefício de aposentadoria complementar . Sentença de procedência do pedido . Apelo dos réus . Ilegitimidade passiva ad causam do Banco do Brasil S/A afastada . Considerando que a pretendida complementação atinge o banco patrocinador, responsável pelas contribuições para o plano de previdência privada (art. 202§ 2º, CF), deve ser reconhecida sua legitimidade para figurar no polo passivo da demanda. Aplicação do Tema 936, do Colendo Superior Tribunal de Justiça. Revisão e complementação de benefício devidos. Aplicabilidade da modulação efetivada no âmbito dos Recursos Especiais ns. 1312736/RS (tema 955 do STJ), 1778938/SP e 1740397/RS (tema 1.021do STJ). Modulação dos efeitos para admitir a inclusão dos reflexos de verbas remuneratórias, reconhecidas pela Justiça do Trabalho, nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria . Previsão implícita no regulamento do plano de que as contribuições incidem sobre as verbas remuneratórias.. RECURSOS NÃO PROVIDOS.
+Opostos embargos declaratórios (fls. 1017-1019 e 1021-1029 e-STJ), restaram desacolhidos na origem (fls. 1039-1043 e-STJ).
+Nas razões do especial (fls. 1047-1075 e-STJ), a insurgente alega violação aos seguintes dispositivos de lei federal: (i) artigos 1º, 3º e 18 da Lei Complementar n. 109/01, bem como dissídio jurisprudencial, arguindo a necessidade de custeio; (ii) artigos 394 e 395 do CC, sustentando o descabimento da incidência de juros desde a citação. Questiona, por fim, a imposição de honorários.
+Transcorrido o prazo para contrarrazões (fl. 1169 e-STJ), o apelo extremo foi admitido na origem (fls. 1170-1172 e-STJ).
+É o relatório.
+Decide-se.
+1. De início, observa-se que a insurgente não indicou dispositivo de lei violado ou de interpretação divergente para sustentar a tese recursal relativa aos honorários, atraindo o óbice da Súmula 284/STF.
+Ademais, conforme já decidido por esta Corte Superior em inúmeros feitos idênticos, o óbice da Súmula 7/STJ impede a revisão da distribuição dos ônus sucumbenciais.
+Cita-se, à título exemplificativo: AgInt no REsp n. 2.011.650/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023; AgInt no REsp n. 1.896.249/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/3/2023, DJe de 27/3/2023; AgInt no REsp n. 1.955.109/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.
+2. No mérito, a Corte de origem decidiu em consonância com a jurisprudência deste STJ ao concluir: "deve ser aplicado ao caso o entendimento firmado pelo C. STJ nos Recursos Especiais ns. 1312736/RS (tema 955 do STJ), 1778938/SP e 1740397/RS (tema 1.021 do STJ), a fim determinar o recálculo do beneficio com inclusão das verbas remuneratórias reconhecidas como devidas pela Justiça do Trabalho, mediante prévia recomposição da reserva matemática a ser apurada em fase de liquidação de sentença".
+Incidente, no ponto, o óbice da Súmula 83/STJ.
+3. Por fim, de fato, a obrigação da entidade previdenciária surgirá somente após a recomposição da reserva matemática, não havendo falar em mora desde a citação.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ILEGITIMIDADE DA PATROCINADORA. REFLEXO DE VERBA RECONHECIDA NA JUSTIÇA DO TRABALHO. RECURSO REPETITIVO Nº 1.370.191/RJ. OBRIGAÇÃO DE FAZER CONDICIONADA À PRÉVIA E INTEGRAL RECOMPOSIÇÃO DA RESERVA MATEMÁTICA PELO PARTICIPANTE. JUROS DE MORA DESDE A CITAÇÃO. IMPOSSIBILIDADE. RECURSO REPETITIVO Nº 1.312.736/RS.
+ ..
+3. Por ocasião do julgamento do Recurso Especial nº 1.312.736/RS, sob o rito dos repetitivos, foi reconhecida uma obrigação de fazer devida pela Entidade de Previdência Privada, condicionada à recomposição prévia integral pelo participante/assistido, não havendo que se falar em condenação ao pagamento de juros de mora desde a citação.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1886703/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/03/2021, DJe 11/03/2021)  grifou-se
+Logo, somente deverão incidir juros caso a entidade de previdência permaneça em mora após a recomposição da reserva matemática - com incidência a partir da mesma data.
+4. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, dá-se parcial provimento ao recurso especial interposto por CAIXA DE PREVIDENCIA DOS FUNCIONARIOS DO BANCO DO BRASIL - PREVI, apenas para determinar que, sobre os valores devidos pela entidade previdenciária, somente incidirão juros em caso de mora após a recomposição da reserva matemática.
+Publique-se.
+Intimem-se.
+EMENTA
