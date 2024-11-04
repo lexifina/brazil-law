@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USURPAÇÃO DE PATRIMÔNIO DA UNIÃO. EXTRAÇÃO ILEGAL DE MINÉRIO. RECURSO ESPECIAL INADMITIDO. FALTA DE PREQUESTIONAMENTO. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que inadmitiu recurso especial por ausência de prequestionamento dos artigos 155, 157 e 386 do Código de Processo Penal, conforme exigido pelo art. 1.025 do CPC e Súmula 211 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o recurso especial pode ser conhecido sem o devido prequestionamento dos dispositivos legais alegados como violados.
+III. Razões de decidir
+3. A decisão agravada foi mantida por falta de impugnação específica aos fundamentos da inadmissão do recurso especial.
+4. A jurisprudência do STJ exige que o recorrente demonstre o prequestionamento efetivo da matéria, o que não ocorreu no caso.
+5. A ausência de alegação de violação ao art. 619 do CPP impede a superação do óbice de prequestionamento.
+IV. Agravo desprovido.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 2001):
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação no 144/2023 e CNJ/Resolução no 376/2021), adoto o relatório de fl. 1.995 (e-STJ):
+"Trata-se de agravo interposto por IRAN BARROSO contra a decisão que inadmitiu seu recurso especial porque "O acórdão recorrido, em nenhum ponto, faz referência ou debate sobre esses dispositivos infraconstitucionais (artigos 155, 157 e 386 do Código de Processo Penal) sob o enfoque tratado neste recurso, não estando, portanto, atendido o requisito de prequestionamento. A parte recorrente, ademais, não apresentou embargos de declaração com vistas a suscitar o debate sob o ponto específico do recurso, de modo que não há o que se falar em prequestionamento ficto, nos termos do art. 1.025 do CPC. Nesse sentido, incide o enunciado nº 211 da súmula Superior Tribunal de Justiça ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo")." (e-STJ fl. 1.930).
+O agravante alega, em síntese, que deve ser conhecido e provido o RESP uma vez que reúne as condições de admissibilidade. Contraminuta às e-STJ fls. 1.964/1.972."
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USURPAÇÃO DE PATRIMÔNIO DA UNIÃO. EXTRAÇÃO ILEGAL DE MINÉRIO. RECURSO ESPECIAL INADMITIDO. FALTA DE PREQUESTIONAMENTO. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que inadmitiu recurso especial por ausência de prequestionamento dos artigos 155, 157 e 386 do Código de Processo Penal, conforme exigido pelo art. 1.025 do CPC e Súmula 211 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o recurso especial pode ser conhecido sem o devido prequestionamento dos dispositivos legais alegados como violados.
+III. Razões de decidir
+3. A decisão agravada foi mantida por falta de impugnação específica aos fundamentos da inadmissão do recurso especial.
+4. A jurisprudência do STJ exige que o recorrente demonstre o prequestionamento efetivo da matéria, o que não ocorreu no caso.
+5. A ausência de alegação de violação ao art. 619 do CPP impede a superação do óbice de prequestionamento.
+IV. Agravo desprovido.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser desprovido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 2001-2004):
+O agravante interpôs recurso especial alegando violação aos arts. 155, 157 e 386 do Código de Processo Penal.
+O Tribunal de origem inadmitiu a insurgência com amparo nos seguintes fundamentos (e-STJ fl. 1.929):
+"O acórdão recorrido, em nenhum ponto, faz referência ou debate sobre esses dispositivos infraconstitucionais (artigos 155, 157 e 386 do Código de Processo Penal) sob o enfoque tratado neste recurso, não estando, portanto, atendido o requisito de prequestionamento.
+A parte recorrente, ademais, não apresentou embargos de declaração com vistas a suscitar o debate sob o ponto específico do recurso, de modo que não há o que se falar em prequestionamento ficto, nos termos do art. 1.025 do CPC.
+Nesse sentido, incide o enunciado nº 211 da súmula Superior Tribunal de Justiça ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+Ante o exposto, inadmito o recurso especial, com fundamento no artigo 1.030, inciso V, do Código de Processo Civil."
+A partir do cotejo entre a decisão transcrita e as razões do agravo, verifico a existência de óbice formal impeditivo do conhecimento do recurso, qual seja, a carência de impugnação específica aos fundamentos da inadmissão do recurso especial.
+Acerca da matéria, destaco que a Corte Especial do Superior Tribunal de Justiça firmou entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso.  ..  A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAR Esp 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, D Je de 30/11/2018).
+Acrescento, ainda, sobre o recurso em exame (agravo do art. 1.042 do CPC), "ser inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes" (ER Esp 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, D Je de 17/11/2021).
+Esse posicionamento vem guiando a jurisprudência das Turmas Criminais desta Corte, como se nota a partir dos acórdãos que consignaram: "a falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia" (AgRg no AR Esp 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, D Je de 13/3/2023; AgRg no AR Esp 1.871.630/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023).
+Postas essas premissas, verifica-se que o recurso especial foi inadmitido com fundamento na Súmula 211/STJ.
+Nas razões do agravo em recurso especial a parte não demonstrou o efetivo prequestionamento da matéria, limitando-se a afirmar a ocorrência de prequestionamento ficto.
+Ressalto, na esteira da jurisprudência dominante desta Corte, que a superação do óbice em debate exige que o recorrente alegue violação ao art. 619 do Código de Processo Penal, o que não foi feito. Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. ALEGAÇÃO DE OMISSÃO. OCORRÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS SEM EFEITOS INFRINGENTES. 1. Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado.
+2. Nos termos do acórdão estadual, inexistiu traço mínimo de manipulação das provas ou conluio nos acordos de colaboração premiada dos corréus. Além disso, reforçou-se a ocorrência de preclusão, uma vez que o tema - ausência de perícia - não teria sido ventilado em resposta à acusação ou mesmo em alegações finais, fundamento que sequer foi combatido pela defesa nas razões do recurso especial, tendo incidido a Súmula n. 283 do Supremo Tribunal Federal - STF.
+3. De outra parte, no que se refere ao art. 7º, § 3º, da Lei n. 12.850/2013 (violação ao sigilo das delações), há omissão no acórdão embargado. Ocorre que, não obstante a defesa tenha suscitado a matéria nas instâncias ordinárias, aquela Corte Estadual quedou-se silente quando da oposição dos embargos declaratórios, caso em que incide a Súmula n. 211 do Superior Tribunal de Justiça - STJ, não sendo possível o prequestionamento ficto, já que a defesa não declarou ofensa ao art. 619 do CPP.
+4. Embargos de declaração parcialmente acolhidos sem efeitos infringentes.
+(EDcl no AgRg no REsp n. 1.959.061/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/6/2024, D Je de 6/6/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NÍTIDOS INTUITOS INFRINGENTES. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES NO RECONHECIMENTO PESSOAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. SÚMULAS N. 282 E 356 DO STF. RECURSO DESPROVIDO.
+1. Embargos declaratórios com nítidos intuitos infringentes devem ser recebidos como agravo regimental, em observância ao princípio da fungibilidade recursal.
+2. Em relação à discussão acerca da nulidade do reconhecimento pessoal do réu, observa-se que a Corte local não se manifestou em relação à referida tese. Diante do não prequestionamento da matéria, de rigor a incidência das Súmulas n. 282 e 356, ambas do STF.
+3. Esta Corte já decidiu também que " i ncidem, portanto, os óbices das Súmulas n. 211 do STJ e 282 do STF, que também é observada por esta Corte, se o mérito das teses veiculadas nas razões do especial não foi analisado pelo Tribunal a quo. Não é cabível a adoção do prequestionamento ficto se a parte não suscitou a violação do art. 619 do Código de Processo Penal e não apontou eventual omissão do Juízo de segunda instância a ser sanada"
+(AgRg no REsp n. 1.772.993/CE, relator Ministro Rogerio Schietti, Sexta Turma, D Je de 4/6/2020).
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no REsp n. 2.040.075/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/2/2024, D Je de 23/2/2024.) (Grifos acrescidos)
+Ante ao exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência desta Corte. Veja-se:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. ALEGAÇÃO DE OMISSÃO. OCORRÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS SEM EFEITOS INFRINGENTES. 1. Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado.
+2. Nos termos do acórdão estadual, inexistiu traço mínimo de manipulação das provas ou conluio nos acordos de colaboração premiada dos corréus. Além disso, reforçou-se a ocorrência de preclusão, uma vez que o tema - ausência de perícia - não teria sido ventilado em resposta à acusação ou mesmo em alegações finais, fundamento que sequer foi combatido pela defesa nas razões do recurso especial, tendo incidido a Súmula n. 283 do Supremo Tribunal Federal - STF.
+3. De outra parte, no que se refere ao art. 7º, § 3º, da Lei n. 12.850/2013 (violação ao sigilo das delações), há omissão no acórdão embargado. Ocorre que, não obstante a defesa tenha suscitado a matéria nas instâncias ordinárias, aquela Corte Estadual quedou-se silente quando da oposição dos embargos declaratórios, caso em que incide a Súmula n. 211 do Superior Tribunal de Justiça - STJ, não sendo possível o prequestionamento ficto, já que a defesa não declarou ofensa ao art. 619 do CPP.
+4. Embargos de declaração parcialmente acolhidos sem efeitos infringentes.
+(EDcl no AgRg no REsp n. 1.959.061/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/6/2024, D Je de 6/6/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
