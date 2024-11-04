@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração no recurso especial opostos por MARINA SUMIE MOTOKI KATO e outros contra decisão assim ementada (f. 419):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. OBRIGAÇÃO DE PAGAR. PRAZO PRESCRICIONAL DA PRETENSÃO EXECUTÓRIA. FUNDAMENTAÇÃO AUTÔNOMA NÃO IMPUGNADA. SÚMULA N. 283/STF. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RECURSO NÃO CONHECIDO.
+A parte embargante alega violação do artigo 1.022, II, do Código de Processo Civil de 2015 (CPC/15), ao argumento de que "deixou de majorar os honorários advocatícios sucumbenciais previamente fixados pelo Juízo de origem (omissão), conforme prevê o art. 85, §11º, do CPC " (f. 427), defendendo que "o presente caso adequa-se aos três requisitos estabelecidos pela jurisprudência do STJ para proceder-se à majoração da verba honorária sucumbencial" (f. 429).
+Com impugnação.
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Com efeito, o acórdão objeto do presente recurso especial foi proferido em sede de agravo de instrumento - no qual não houve arbitramento de honorários -, interposto contra decisão interlocutória.
+Ocorre que, via de regra, segundo a jurisprudência desta Corte "Não cabe a majoração de honorários recursais, com fundamento no art. 85, § 11, do CPC/2015, em recurso especial interposto contra acórdão de julgamento de agravo de instrumento que não ponha termo à demanda nem, portanto, fixe sucumbência na origem" (AgInt no REsp 1.679.725/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 27/03/2018).
+Nesse mesmo sentido: AgInt no AREsp 2.327.039/SC, relator Ministro Humberto Martins, Terceira Turma, DJe 22/5/2024; AgInt no AREsp 2.484.215/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 17/4/2024; AgInt no AREsp 2.258.074/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 28/9/2023; AgInt no AREsp 2.040.211/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, DJe 7/12/2022; EDcl no AgInt no AREsp 2.012.692/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe 12/8/2022.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido/julgado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
