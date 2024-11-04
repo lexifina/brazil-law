@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EVANILSON JOSE DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco no HC n. 0015777-40.2023.8.17.9000, assim ementado (fls. 19/20):
+PENAL E PROCESSO PENAL. HABEAS CORPUS. NULIDADE DA DECISÃO QUE RENOVOU O PRAZO DE PERMANÊNCIA DO AGENTE NO SISTEMA PENITENCIÁRIO FEDERAL POR VIOLAÇÃO AO CONTRADITÓRIO E A AMPLA DEFESA. INOCORRÊNCIA. DEFESA DEVIDAMENTE INTIMADA E QUE DEIXOU TRANSCORRER O PRAZO CONCEDIDO IN ALBIS. PERTINÊNCIA DA PRORROGAÇÃO. MANIFESTAÇÃO FAVORÁVEL DA DIRETORIA DO SISTEMA PENITENCIÁRIO FEDERAL E DA SERES/PE. PERICULOSIDADE DO AGENTE. ORDEM DENEGADA. DECISÃO UNÂNIME.
+I - A defesa foi devidamente intimada em 06/07/2023 para se manifestar, no prazo de 24 horas, sobre a prorrogação da permanência do agente no estabelecimento prisional federal, através do advogado constituído nos autos Flávio Lapenda Bezerra, mas nada requereu no prazo concedido. Logo, não há que se falar em violação ao contraditório e a ampla defesa no caso presente.
+II - Além disso, a decisão é pertinente e recomendada levando em conta que o próprio Sistema Penitenciário Federal e a SERES/PE foram favoráveis a permanência do agente no presídio federal. De mais a mais, os autos revelam ser o paciente altamente perigoso (aliado ao Comando Vermelho) e apontado como líder de organização criminosa, o que só reforça a necessidade da manutenção da decisão impugnada.
+III - Ordem denegada. Decisão unânime.
+Consta nos autos que o Juízo da Vara Criminal da Comarca de Ipojuca - PE, deferiu pedido do Ministério Público do Estado de Pernambuco autorizando a inclusão e transferência do paciente para o sistema penitenciário federal, o que foi admitido pelo Juízo Federal da 5ª Vara Federal Criminal de Campo Grande.
+Após manifestação da Diretoria do Sistema Penitenciário Federal e da Secretaria de Justiça e Direitos Humanos de Pernambuco, o Juízo determinou a permanência do paciente no sistema penitenciário federal.
+Irresignada, a Defesa impetrou habeas corpus junto ao Tribunal de origem, que foi denegado.
+Sustenta a Defesa que o paciente está inserido no Sistema Penitenciário Federal desde 28/07/2022, advindo de Ipojuca - PE.
+Afirma que, em 29/06/2023, a Diretoria do Sistema Penitenciário Federal, por Ofício, comunicou ao Juízo da Vara de Execução Penal 4ª Vara Criminal de Recife sobre o vencimento de prazo de permanência do paciente no SPF e o Juízo da 4ª Vara Criminal, ao receber informação da SENAPPEN determinou o prazo de 24 horas para que as partes se manifestassem.
+Relata que em 17/07/2023, a SERES/PE apresentou relatório técnico elaborado pelo Centro Integrado de Inteligência Social, informando sobre a necessidade de permanência do preso no Sistema Penitenciário Federal e o representante do Ministério Público manifestou-se pela renovação do prazo de permanência do paciente no SPF, em 18/07/2023.
+Afirma que foi proferida decisão pelo Juízo de origem sem a manifestação da defesa na mesma data em que o r. Parquet manifestou-se (18/07/2023), determinando a renovação da permanência do Paciente (fl. 04).
+Entende que a decisão não observou o contraditório e a ampla defesa.
+Requer, liminarmente, a concessão da ordem de habeas corpus, para que seja declarada nula a decisão ante o constrangimento ilegal de cerceamento de defesa, posto que, é prejudicial ao Paciente, e viola os princípios do contraditório e ampla defesa (fl. 12).
+O pedido liminar foi indeferido (fls. 477/479). As informações foram prestadas (fls. 484/488; 491/495).
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 497/498).
+É o relatório.
+DECIDO.
+O pedido não prospera.
+O Juízo de origem prestou informações nos seguintes termos (fls. 484/488):
+Em 26/05/22, foi deferido pedido de transferência do ora paciente para o Sistema Penitenciário Federal. Colaciono trechos da decisão.
+ ..
+Na data de 29/06/2023 foi juntado aos autos oficio da Diretoria do Sistema Penitenciário Federal em que apresenta as razões e afirma ser desfavorável ao retorno do ora paciente ao Estado de Pernambuco.
+Diante da proximidade da expiração da data de pellnanência no sistema prisional federal e do tempo necessário para a comunicação entre os órgãos da persecução penal, MP e defesa foram intimados para se manifestarem no prazo de 24 horas acerca do oficio mencionado acima.
+O advogado Dr. Flávio Lapenda Bezerra registrou ciência expressa em 06/07/2023, mas nada requereu.
+Em 17/07/2023, a SERES também se manifestou pela permanência do ora paciente no Sistema Penitenciário Federal.
+Na sequência, em 18/07/2023, o MP requereu a manutenção do ora paciente no sistema penitenciário federal e este Juizo deferiu o pedido, que havia sido formulado pela Diretoria do Sistema Penitenciário Federal, SERES e MPPE. Colaciono abaixo.
+A Diretoria do Sistema Penitenciário Federal, por meio do Ofício de id. 136739953, comunicou que o prazo de permanência do preso Evanilson José da Silva ("Bambam") no Sistema Penitenciário Federal expirar-se-á em 23 de julho de 2023.
+Informou que a Secretaria de Justiça e Direitos Humanos do Estado de Pernambuco se manifestou no sentido de que ainda permanece a necessidade de o preso ser mantido no Sistema Penitenciário Federal para que tenha a capacidade de liderança e o poder de gestão de atividades criminosas diminuídas no Estado de Pernambuco.
+Acrescentou que a Diretoria do Sistema Penitenciário Federal entende que o referido preso ainda possui relevante potencial de desestabilizar o Sistema Penitenciário Estadual e por isso é desfavorável ao retorno do mencionado preso ao estado de origem, por subsistirem os motivos ensejadores da inclusão.
+A SERES/PE apresentou relatório técnico elaborado pelo Centro Integrado de Inteligência Social e informou ser necessário a permanência do preso no Sistema Penitenciário Federal.
+O I 4P requereu a manutenção do preso no Sistema Penitenciário Federal ressaltando que ofícios oriundos do Sistema Penitenciário Federal e da SERES consignam, em suma, a alta periculosidade do preso ante sua capacidade de liderança e poder de gestão da organização criminosa da qual faz parte, bem como que, mesmo preso, seguiu atuando no crime organizado, já que, em 19/05/2023, durante a prisão de outro importante integrante do grupo, teriam sido encontradas anotações do tráfico com referências a ele.
+RELATADO. DECIDO.
+Por meio da decisão de id. 106414413, este Juízo deferiu pedido do MPE, autorizando a inclusão e transferência do mencionado custodiado para estabelecimento penitenciário federal, o que foi admitido pelo Juízo Federal da 5" Vara Federal Criminal de Campo Grande (id. 110084370).
+Foi observado na decisão proferida por este Juízo que supostamente o mencionado preso exerce função de liderança em organização criminosa aliada ao Comando Vermelho, respondendo a diversos processos criminais, inclusive por crime de tráfico, homicídio e associação para o tráfico, hipótese que se amolda ao Decreto nº Decreto n.º 6.877/2009.
+Da leitura do Ofício nº 508/2023/Controle de Permanência /CGC/DISPF/SENAPPEN/MJ (id. 136739953) c do ofício da SERES e relatório técnica (id. 138131664), verifico que permanecem as razões que justificaram o ingresso do preso no Sistema Penitenciário Federal, sendo necessário combater o crime organizado.
+É desnecessária a superveniência de fatos novos para renovar a permanência de preso no SPF quando persistentes os motivos que ensejaram a transferência do preso para o SPF.
+Nesse sentido:
+ ..  A Secretaria de Justiça e Direitos Humanos do Estado de Pernambuco e o MPE, alguns dos legitimados ativos (art. 5º da Lei nº 11.671/2008), se manifestaram no sentido de que ainda permanece a necessidade de o preso ser mantido no Sistema Penitenciário Federal para que tenha a capacidade de liderança e o poder de gestão de atividades criminosas diminuídas no Estado de Pernambuco.
+Além disso, demonstrando a urgência da medida, com a aplicação do contraditório diferido, admitido no art. 5º, §6º, da Lei nº 11.671/2008 e no art. 9º, §3º, do Decreto nº 6.877/2009, observo que a expiração do prazo se avizinha.
+Mesmo assim, no presente caso, ainda que com prazo comum, MPE e preso (por meio do advogado) foram intimados para se manifestarem.
+Nessa linha, o STJ assentou na Súmula 639: "Não fere o contraditório e o devido processo decisão que, sem ouvida prévia da defesa, determine transferência ou permanência de custodiado em estabelecimento penitenciário federal."
+Desse modo, a permanência do mencionado preso no sistema penitenciário federal, com a submissão às características do art. 3º e seus parágrafos, da Lei nº 11.671/2008, a exemplo do recolhimento em cela individual e monitoramento de todos os meios de comunicação, possibilitará a diminuição do suposto poder de liderança do grupo criminoso, com a quebra da cadeia de comando.
+Ante o exposto, em atenção ao art. 10, 51º, da Lei nº 11.671/2008, no interesse da segurança pública, autorizo a permanência do preso Evanilson José da Silva ("Bambam") no Sistema Penitenciário Federal, de modo que deve ser solicito ao MM. Juiz Federal Corregedor da Penitenciário Federal em Campo Grande/MS e Titular da 5a Vara Federal da Seção Judiciária do Mato Grosso do Sul a renovação de tal permanência.
+Oficie-se o MM. Juiz Federal Corregedor da Penitenciário Federal em Campo Grande/MS e Titular da 5" Vara Federal da Seção Judiciária do Mato Grosso do Sul.
+Cientifique-se o MP, advogado, a SERES e a Diretoria do Sistema Penitenciário Federal.
+Após, voltem os autos ao arquivo, devendo haver a monitoração de eventual resposta dos ofícios que serão enviados e o prazo de manutenção do preso no Sistema Penitenciário Federal. (grifos no original)
+Em 19/07/2023, analisando pedido do ora paciente, foi mantida referida decisão.
+Conforme consulta no PJE, o advogado que já estava constituído nos autos, e que substabeleceu os poderes com reservas, registrou ciência do despacho de id. 20403055, em 06/07/2023, com o registro do prazo para manifestação até 07/07/2023. Ademais, quando da intimação do MP e do advogado, a própria Diretoria do Sistema Penitenciário Federal, fazendo referência à manifestação da Secretaria de Justiça e Direitos Humanos de Pernambuco, ambas autoridades administrativas (um dos legitimados), já havia se manifestado pela permanência do preso no Sistema Penitenciário Federal.
+No mais, mantenho a decisão de id. 138310493, pelos seus próprios fundamentos, pois nela enfrentadas todas as questões, inclusive legitimidade, razões da permanência, a urgência da medida c o contraditório. (grifos no original)
+O Tribunal de origem fundamentou a decisão nos seguintes termos (fls. 17/18):
+Como visto, trata-se de pedido de Habeas Corpus impetrado em favor de EVANILSON JOSE DA SILVA, relativamente a Cautelar Inominada Criminal nº 0000958-27.2022.8.17.2730, a que responde na Vara Criminal de Ipojuca.
+A tese defensiva é a da nulidade da decisão que determinou a renovação da permanência do paciente no Sistema Penitenciário Federal, por violação ao contraditório e a ampla defesa.
+Razão não lhe assiste.
+Consta dos autos que a defesa foi devidamente intimada em 06/07/2023 para se manifestar, no prazo de 24 horas, sobre a prorrogação da permanência do agente no estabelecimento prisional federal, por intermédio do advogado Flávio Lapenda Bezerra, constituído nos autos. O prazo transcorreu in albis. Logo, não há que se falar em violação ao contraditório e a ampla defesa no caso presente.
+Além disso, a decisão é pertinente e recomendada levando em conta que o próprio Sistema Penitenciário Federal e a SERES/PE foram favoráveis a permanência do agente no presídio federal.
+Pondere-se que, de acordo com a Diretoria do Sistema Penitenciário Federal "o referido preso ainda possui relevante potencial de desestabilizar o Sistema Penitenciário Estadual e por isso é desfavorável ao retorno do mencionado preso ao estado de origem, por subsistirem os motivos ensejadores da inclusão".
+De mais a mais, os autos revelam ser o paciente altamente perigoso (aliado ao Comando Vermelho) e apontado como líder de organização criminosa, o que só reforça a necessidade da manutenção da decisão impugnada.
+Isto posto, em consonância com o parecer da Procuradoria de Justiça, voto pela denegação da ordem.
+É como voto.
+O Tribunal de origem consignou que a defesa foi devidamente intimada em 06/07/2023 para se manifestar, no prazo de 24 horas, sobre a prorrogação da permanência do ora paciente no estabelecimento prisional federal, por intermédio do advogado Flávio Lapenda Bezerra, constituído nos autos, que deixou o prazo transcorrer in albis, não havendo falar em violação ao contraditório e à ampla defesa. Registrou-se, ainda, que os autos revelam ser o paciente altamente perigoso (aliado ao Comando Vermelho) e apontado como líder de organização criminosa, o que só reforça a necessidade da manutenção da decisão impugnada (fl. 27).
+A Diretoria do Sistema Penitenciário Federal asseverou que o referido preso ainda possui relevante potencial de desestabilizar o Sistema Penitenciário Estadual e por isso é desfavorável ao retorno do mencionado preso ao estado de origem, por subsistirem os motivos ensejadores da inclusão (fl. 27).
+O Centro Integrado de Inteligência de Defesa Social (CIIDS) do Estado de Pernambuco apontou a necessidade de inclusão de Evanilson em estabelecimento penal federal de segurança máxima por entender, assim como o Ministério Público, se tratar de pessoa de alta periculosidade, que possui alto poder aquisitivo e, supostamente, o grande lider da facção criminosa anteriormente denominada "Trem Bala", hoje Comando Litoral Sul e Comando Litoral Norte (fl. 491).
+A Lei n. 11.671/2008, dispõe sobre a transferência e inclusão de presos em estabelecimentos penais federais de segurança máxima.
+O Decreto n. 6.877, de 18 de junho de 2009, que regulamentou a Lei n. 11.671/2008, prevê como requisitos para a inclusão ou transferência de preso em estabelecimento penal federal de segurança máxima, que o preso deverá possuir, ao menos uma das seguintes características:
+I - ter desempenhado função de liderança ou participado de forma relevante em organização criminosa;
+II - ter praticado crime que coloque em risco a sua integridade física no ambiente prisional de origem;
+III - estar submetido ao Regime Disciplinar Diferenciado - RDD;
+IV - ser membro de quadrilha ou bando, envolvido na prática reiterada de crimes com violência ou grave ameaça;
+V - ser réu colaborador ou delator premiado, desde que essa condição represente risco à sua integridade física no ambiente prisional de origem; ou
+VI - estar envolvido em incidentes de fuga, de violência ou de grave indisciplina no sistema prisional de origem.
+Entende este Superior Tribunal que não se mostra necessário trazer fatos novos para que se renove a permanência de preso em estabelecimento penal federal, desde que persistam os mesmos motivos de interesse de segurança pública que ensejaram sua inclusão no referido sistema" (CC 129.648/ES, Rel. Min. Marco Aurélio Belizze, DJE 17/10/2013). Assim, subsistindo os motivos que determinaram a custódia federal do agravante, fica justificada sua manutenção no sistema penitenciário em questão. (AgRg no AREsp n. 1.804.584/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/4/2021, DJe de 19/4/2021).
+Vale ressaltar que o enunciado de Súmula 639/STJ, registra que Não fere o contraditório e o devido processo decisão que, sem ouvida prévia da defesa, determine transferência ou permanência de custodiado em estabelecimento penitenciário federal.
+Nestes termos, não constatado constrangimento ilegal.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
