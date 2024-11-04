@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fls. 338/339):
+APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO POR TÍTULO EXECUTIVO EXTRAJUDICIAL - EXTINÇÃO DO FEITO POR FALTA DE INTERESSE PROCESSUAL - CÉDULA DE CRÉDITO BANCÁRIO - SÓCIA AVALISTA DE EMPRESA EM RECUPERAÇÃO JUDICIAL - PRETENSÃO DE EXTENSÃO DOS EFEITOS DA RECUPERAÇÃO (SUSPENSÃO DA EXECUÇÃO ORIGINÁRIA) - IMPOSSIBILIDADE - PRECEDENTES DO STJ - RECURSO CONHECIDO E PROVIDO.
+É possível a execução da cédula de crédito bancário contra o sócio avalista, mesmo quando a devedora principal está em recuperação judicial, tendo em vista a autonomia substancial do aval.
+A avalista da sociedade recuperanda não se beneficia da suspensão das execuções que contra ela tramitam, ainda que seja sócia da empresa em recuperação.
+"As deliberações constantes do plano de recuperação judicial, ainda que aprovadas por sentença transitada em julgado, não podem afastar as consequências decorrentes das disposições legais, no caso, o art. 49, § 1º, da Lei n. 11.101/05, o qual prevê que " os credores do devedor em recuperação judicial conservam seus direitos e privilégios contra os coobrigados, fiadores e obrigados de regresso"." (AgRg nos EDcl no REsp 1280036/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 20/08/2013, DJe 05/09/2013.)
+Os embargos de declaração foram rejeitados (e-STJ fls. 381/385).
+No recurso especial (e-STJ fls. 394/411), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente apontou divergência jurisprudencial e violação dos arts. 49, §§1º, 2º, art. 50, §1º, 69-A, 69-B, 69-C, 69-E, 69-F da Lei n. 11.101/2005, 489, §1º, I a IV, e 1.022 do CPC/2015.
+Sustentou que o Tribunal de origem teria deixado de apreciar questões imprescindíveis ao deslinde da controvérsia, relativamente às "modificações trazidas pela Lei 14.112/2020, especialmente o novo conceito jurídico aplicável à supressão das garantias, que de fato independem da anuência do credor" (e-STJ fl. 408).
+Afirmou que a nova redação dada à Lei n. 11.101/2005 "sacramenta a ideia da supressão das garantias prestadas pelos avalistas é efetivamente possível com a homologação do plano, vez que não depende da anuência do credor, comprovando que a posição da colenda 3.ª Turma do STJ é a que melhor ressoa a engrenagem jurídica deste tipo de operação financeira" (e-STJ fl. 410).
+Pede o conhecimento e provimento do recurso "a fim de que haja o enfrentamento dos fundamentos colacionados nas razões recursais à luz dos incisos do §1º do art. 489 do CPC , especialmente a interpretação dada pelo c. STJ sobre a Lei 11.101/05 e o art. 49, §1º c/c art. 50, §1º que devem ser feitas em conjunto com o §2º do art. 49, bem como pela nova redação trazida pela lei 11.101/05, em especial os artigos 69-A, 69-B, 69-C, 69-E e 69-F, todos da Lei 11.101/05, que dispensa a anuência do credor para a supressão das garantias, com a consequente reforma do v. acórdão ora recorrido" (e-STJ fl. 410).
+Contrarrazões apresentadas (e-STJ fls. 430/439).
+Juízo positivo de admissibilidade (e-STJ fl. 442/446
+É o relatório.
+Decido.
+A irresignação não merece acolhida.
+Inicialmente, descabe falar em ofensa aos arts. 489, §1º, I a IV, e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há os vícios apontados quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Outrossim, quanto aos demais dispositivos apontados como violados, o recorrente não aponta precisamente de que maneira teria ocorrido a pretendida afronta, o que caracteriza deficiência na fundamentação recursal, atraindo o óbice da Súmula n. 284 do STF.
+Finalmente, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas, que não se satisfaz com a mera transcrição de ementas, a fim de demonstrar que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias, ônus dos quais a parte recorrente não se desincumbiu. Inafastável a Súmula n. 284 do STF quanto ao ponto.
+Em face do exposto, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se e intimem-se.
+EMENTA
