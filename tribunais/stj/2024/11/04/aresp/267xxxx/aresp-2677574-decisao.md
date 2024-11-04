@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por J MACEDO S/A contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, no qual discute o direito recolher, até o final do exercício financeiro de 2023, o Adicional de Frete para a Renovação da Marinha Mercante - AFRMM, com desconto de 50% das alíquotas previstas no Decreto n. 11.321/2022, revogado pelo Decreto n. 11.374/2023.
+A parte recorrente alega, em síntese (fls. 258/269):
+Trata-se de Mandado de Segurança impetrado com o objetivo de garantir à Impetrante e suas filiais o direito recolher o AFRMM na forma prevista no Decreto nº 11.321/2022, com desconto de 50% das alíquotas previstas no art. 6º da Lei nº 10.893, até o final do exercício financeiro de 2023  ..  No caso, o acórdão desafiado contrariou os artigos 1º e 2º do Decreto 11.321/2022, o art. 4º do Decreto 11.374/2023 e o art. 104, I, do Código Tributário Nacional - CTN, uma vez que o tribunal a quo afasta o princípio da anterioridade com base na negativa do início da vigência da norma que efetivamente reduziu as alíquotas do AFRMM.
+Com contrarrazões da parte recorrida, o recurso não foi admitido porque a matéria recursal teria natureza constitucional, o que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende o preenchimento dos requisitos necessários à admissão do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Preenchidos os requisitos de admissibilidade, o Agravo em Recurso Especial deve ser conhecido; todavia, o recurso especial não, pois o Supremo Tribunal Federal decidiu não violar o princípio da anterioridade tributária a revogação, pelo Decreto n. 11.374/2023, da redução de alíquota então estabelecida pelo Decreto n. 11.321/2022, na medida em que não resultou em majoração de tributo. E esse entendimento deve ser observado quanto ao Adicional de Frente para Renovação da Marinha Mercante - AFRMM, como tem externado o Supremo Tribunal Federal.
+Nesse sentido, entre outros: RE 1478131 AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 01-07-2024; RE 1476579 AgR, relator Ministro Dias Toffoli, Segunda Turma, julgado em 09-04-2024; ARE 1499144 AgR, relator Ministro Luís Roberto Barroso (Presidente), Tribunal Pleno, julgado em 19-08-2024; RE 1484378 AgR, relator Ministro Luiz Fux, Primeira Turma, julgado em 05-06-2024.
+No âmbito do Superior Tribunal de Justiça, confira-se: REsp n. 2.123.090/RS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 15/10/2024, DJe de 18/10/2024.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
