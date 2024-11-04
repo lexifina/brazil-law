@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MAIQUE DA SILVA GOMES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Consta dos autos a prisão em flagrante do paciente, posteriormente convertida em custódia preventiva, decorrente da suposta prática dos delitos capitulados no art. 33, caput, c/c o art. 40, VI, ambos da Lei n. 11.343/2006, e no art. 12 da Lei n. 10.826/2003, termos em que denunciado.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que a segregação processual do paciente, com predicados pessoais favoráveis, encontra-se despida de fundamentação idônea.
+Também afirma que não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP, motivo pelo qual se revelam suficientes e adequadas as medidas cautelares diversas da prisão, elencadas no art. 319 do mesmo diploma.
+Entende que o Tribunal de origem inovou elencando o fundamento relativo à quantidade de droga apreendida, que não integrou o decreto prisional primevo.
+Requer, assim, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a aplicação de medidas cautelares não prisionais.
+Liminar indeferida pela presidências às fls. 286/287.
+Informações prestadas às fls. 293/296 e 307/313.
+Parecer do Ministério Público Federal, às fls. 317/322, pelo não conhecimento do writ.
+É o relatório.
+Em suma, pretende-se a revogação da prisão preventiva.
+Do decreto de prisão extraem-se os seguintes fundamentos (fl. 35):
+Tratando-se de medida cautelar assecuratória, além do cumprimento dos requisitos objetivos e subjetivos elencados, é necessária a existência, no caso concreto, dos requisitos cautelares do fumus comissi delicti e do periculum libertatis a ensejar a medida cautelar mais gravosa. Em análise dos autos é possível concluir que existem provas suficientes da existência de crime a ensejar a materialidade do delito e fortes indícios de que o autuado realmente tenha praticado o crime que lhe foi atribuído, estando presente, neste momento, o fumus comissi delicti. Desta forma, a liberdade do autuado, neste momento, se mostra temerária e a prisão preventiva oportuna, considerando as circunstâncias da prisão, bem como os registros criminais do autuado, inclusive guia de execução penal, já tendo sido submetido a este plantão em outras duas oportunidades, o que demonstra que em liberdade poderá voltar a cometer atos da mesma natureza, intimidar testemunhas e se evadir do distrito de culpa, estando evidente, em cognição sumária, o periculum libertatis no caso concreto.
+Por sua vez, consta do acórdão recorrido que (fls. 44/45):
+Os elementos que acompanham a petição inicial demonstram que o paciente foi apreendido com vultosa quantidade de entorpecente. Além do mais, há relevante variedade de material ilícito, o que demonstra particular gravidade concreta.
+Na primeira abordagem, os Policiais Militares encontraram e apreenderam dentro do bolso da bermuda do paciente 13 (treze) pinos de cocaína, aparelho celular e uma chave de um veículo, que foi informado por ele pertencer a um veículo "Gol" de cor branca. Após localizar o veículo pertencente ao paciente, a guarnição realizou buscas no interior do automóvel, encontrando, na porta do lado do motorista, 02 (duas) sacolas, contendo em cada uma delas 15 (quinze) "pinos de cocaína".
+Na sequência da diligência, a guarnição encontrou no interior da residência do paciente uma bolsa contendo: (1) 557 (quinhentos e cinquenta e sete) "pinos de cocaína", (2) 49 (quarenta enove) "pílula"/"balinha" de "ecstasy", (3) 05 (cinco) unidades de "haxixe", e (4) um pacote contendo aproximadamente 200 g de "cocaína", todas devidamente embaladas e preparadas para a comercialização, (5) além de um caderno de anotações acerca do tráfico de drogas, (6) material comumente utilizado para o embalo de substâncias entorpecentes, (7) um rádio comunicador sintonizado na frequência do tráfico de drogas local, (8) 02 (duas) munições calibre.38, (9) e um aparelho de telefonia celular.
+ ..
+Além do mais, o paciente possui registros criminais, o que evidencia a sua relutância em se portar conforme o direito, reforçando, sobretudo, a periculosidade social.
+Ora, vê-se que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, notadamente porque o autuado ostenta péssimos antecedentes criminais, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Com efeito, a jurisprudência desta Corte Superior compreende que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+Ademais, ao acessar o sítio eletrônico do Tribunal de Justiça do Espírito Santo, vê-se que a instrução está próxima do fim, já que finalizada a audiência de instrução e julgamento, aguardando-se apenas uma diligência requerida, razão pela qual entendo pertinente aguardar o desfecho na instância ordinária.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO. PRISÃO. FUNDAMENTOS. REITERAÇÃO DELITIVA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
