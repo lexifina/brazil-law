@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por BRASILSEG COMPANHIA DE SEGUROS contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fl. 855 e-STJ):
+EMENTA - EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - RETORNO DOS AUTOS DO STJ - REANÁLISE DA TESE DE AGRAVAMENTO DO RISCO DE MORTE POR PARTE DO SEGURADO FALECIDO - OMISSÃO INEXISTENTE - REDISCUSSÃO - PRETENSÃO DE REINTERPRETAÇÃO E RELEITURA DO QUE RESTOU DECIDIDO PELO COLEGIADO - AUSÊNCIA DOS VÍCIOS DO ARTIGO 1.022 DO CPC - EMBARGOS DECLARATÓRIOS REJEITADOS. O recurso de embargos de declaração possui fundamentação vinculada, motivo pelo qual, considerando que o pretendido pelo recorrente é apenas uma releitura e uma reinterpretação das questões fático-jurídicas desenvolvidas à apreciação via Apelação, indubitavelmente, a rejeição dos aclaratórios é medida de rigor. Noutros termos, não é porque a tese defendida pelo embargante foi desacolhida é que padece o decisum de vícios. De acordo com acórdão objurgado, pelas provas produzidas nos autos, não restou comprovado de forma indubitável, que o segurado se dedicava a atividades ilícitas, não se podendo afirmar com segurança que o falecido cometeu "atos dolosos", como preceitua a cláusula 4 do contrato de seguro, ao disciplinar a respeito dos Riscos Excluídos do pagamento da Indenização. Sendo assim, deve ser afastada a alegação de aumento de risco por absoluta falta de prova neste sentido, prova esta que incumbia exclusiva e obrigatoriamente à empresa requerida, nos termos do artigo 373, inciso II do CPC, tendo se limitado apenas ao campo das alegações.
+Opostos embargos de declaração (fls. 868/871 e-STJ), esses foram rejeitados (fls. 884/895 e-STJ).
+Em suas razões de recurso especial (fls. 897/905 e-STJ), a recorrente aponta que o acórdão recorrido violou os seguintes dispositivos legais
+(i) artigos 762 e 768 do Código Civil, sustentando o não cabimento da cobertura securitária, eis que o segurado agravou voluntariamente o risco contratado, pois sua morte decorreu de hemorragia interna, ferimento craniano por projetil de arma de fogo, após troca de tiros com o agiota Estevão Rodrigues de Melo, momento em que portava duas armas de fogo (pistola taurus e metralhadora AK-47) e grande quantidade de munição, atitude que, nos termos do ajuste firmado, configura a perda do direito à cobertura.".
+Alegou, ainda, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 937/952 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 955/967 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob o fundamento da incidência dos óbices das Súmulas 5, 7 e 83 do STJ.
+Daí o agravo (fls. 971/978 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 982/985 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. Quanto à questão do agravamento do risco, a Corte de origem, amparada nas peculiaridades do caso concreto e nas provas dos autos, concluiu que (fls. 860, e-STJ):
+" (..) pelas provas produzidas nos autos, não restou comprovado de forma indubitável, que o segurado se dedicava a atividades ilícitas, não se podendo afirmar com segurança que o falecido cometeu "atos dolosos", como preceitua a cláusula 4 do contrato de seguro, ao disciplinar a respeito dos Riscos Excluídos do pagamento da Indenização."
+Derruir as conclusões contidas no decisum e acolher a pretensão recursal, na hipótese, ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA AFASTADA. ACIDENTE DE TRÂNSITO. CONCLUSÃO DO ACÓRDÃO PELO AGRAVAMENTO INTENCIONAL DO RISCO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA QUE DEMANDA O REEXAME FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO. 1. A modificação do entendimento alcançado pelo Tribunal de origem (no tocante à configuração do agravamento intencional do risco por parte do segurado, reputando legítima a negativa de indenização ao seguro contratado) demandaria a interpretação de cláusulas contratuais e o reexame de fatos e provas, o que é inviável no âmbito do recurso especial, permanecendo incólume a aplicação das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+2. Agravo interno improvido.
+(AgInt no AREsp n. 2.322.374/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO REGRESSIVA. SEGURO AUTOMÓVEL. ACIDENTE DE TRÂNSITO. NEGATIVA DE PAGAMENTO. CONDUTOR EMBRIAGADO. AGRAVAMENTO DO RISCO COMPROVADO. ARTIGO 768 DO CC. CAUSA DETERMINANTE DO SINISTRO. PERDA DA INDENIZAÇÃO. RECURSO ESPECIAL NÃO PROVIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte de origem, mediante a análise do acervo fático-probatório, concluiu no sentido do afastamento da responsabilidade civil imputada à seguradora, em razão da ocorrência de fato intencional, que causa o agravamento do risco, previsto no artigo 768 do Código Civil, a legitimar o afastamento da cobertura securitária prevista no contrato, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Assim, não é possível modificar o entendimento firmado no acórdão recorrido, no sentido do afastamento da responsabilidade do fabricante por danos materiais e morais, sem violar-se o óbice enunciado pela Súmula nº 7 do STJ.
+2. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça.
+3. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo interno, argumentos aptos a modificar a decisão agravada, que deve ser mantida, pois seus fundamentos não foram infirmados.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.818.908/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 30/11/2020, DJe de 2/12/2020.)  grifou-se
+Inafastável, no ponto, a incidência da Súmula 7 desta Corte.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
