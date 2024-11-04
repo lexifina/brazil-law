@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por REGINALDO LOP ES DA COSTA contra decisão do Tribunal de Justiça do Estado do Ceará que não admitiu o recurso especial.
+O agravante foi condenado como incurso nas sanções do art. 155, § 1º, do Código Penal, à pena de 2 (dois) anos e 8 (meses) meses de reclusão, em regime inicial fechado, e 67 (sessenta e sete) dias-multa (fls. 134-136).
+O Tribunal de origem deu parcial provimento, por unanimidade, à apelação da defesa para redimensionar a pena e fixá-la em 1 (um) ano, 10 (dez) meses e 14 (quatorze) dias-multa, mantidos os demais termos da sentença condenatória (fls. 207-217).
+Inconformado, o agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação ao art. 33, §§ 2º e 3º, alínea "c", e ao art. 44, inciso III, todos do Código Penal (fls. 224-231).
+O recurso foi inadmitido ante a incidência da Súmula n. 83, STJ (fls. 258-260).
+No presente agravo, a defesa sustenta, em síntese, que que o entendimento do Tribunal de origem não está em consonância com a jurisprudência do Superior Tribunal de Justiça, razão pela qual não deveria incidir a Súmula n. 83, STJ (fls. 273-279).
+O Ministério Público Federal se manifestou pelo não provimento do recurso especial (fls. 299-303).
+É o relatório. DECIDO.
+A controvérsia de restringe à possibilidade de fixação do regime fechado à pena inferior a quatro anos de reclusão.
+Consta dos autos que o recorrente foi condenado à pena de 1 (um) ano e 8 (nove) meses de reclusão, no regime inicial fechado. A despeito do recurso de apelação da defesa, o Tribunal de origem manteve o regime inicial fechado ao argumento de que o recorrente é reincidente e ostenta maus antecedentes.
+De fato, o art. 33, § 3º, do Código Penal, autoriza a fixação de regime mais gravoso que o previsto para a quantidade da pena aplicada, quando presente circunstância judicial desfavorável. A reincidência do agente também autoriza a imposição de regime mais rigoroso, segundo jurisprudência do Superior Tribunal de Justiça (AgRg no HC n. 892.500/TO, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 12/9/2024).
+Além disso, a Súmula n. 269, STJ, admite a adoção do regime prisional semiaberto aos condenados a pena igual ou inferior a quatro anos apenas quando favoráveis as circunstâncias judiciais.
+Assim, na medida em que, além da reincidência, também foram considerados os maus antecedentes, a conclusão do Tribunal a quo está conforme a jurisprudência desta Corte Superior. Confira-se:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO TENTADO. DOSIMETRIA DA PENA. REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. RÉU REINCIDENTE. SÚMULA 269 DO STJ. AGRAVO NÃO PROVIDO.
+1. Nos termos da Súmula 269 desta Corte de Justiça, "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a 4 (quatro) anos se favoráveis as circunstâncias judiciais".
+2. Na espécie, embora a pena aplicada seja inferior a 4 anos, existe circunstância judicial desfavorável (maus antecedentes), o que afasta a aplicação do referido entendimento sumular.
+3. Agravo regimental não provido. Decisão mantida." (AgRg no HC n. 802.299/SC, Quinta Turma, Rel. Min. Daniela Teixeira, DJe de 13/9/2024)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. REGIME FECHADO. MULTIRREINCIDÊNCIA E CIRCUNSTÂNCIA JUDICIAL NEGATIVA. FUNDAMENTO IDÔNEO. AGRAVO NÃO PROVIDO.
+1. A despeito do quantum de pena definitivamente imposta à ré, a multirreincidência e a circunstância judicial negativa justificam a fixação do modo fechado para o início do seu cumprimento. Súmula n. 269 do STJ.
+2. Agravo regimental não provido." (AgRg no HC n. 888.406/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/5/2024)
+Por fim, quanto à substituição da pena privativa de liberdade por restritiva de direitos, verifico que a compreensão dos órgãos de origem também está em consonância com o entendimento deste Tribunal Superior, uma vez que a presença de circunstância judicial desfavorável e da reincidência justificam a negativa da substituição da pena corporal:
+"A presença de circunstância judicial desfavorável e da reincidência justificam a fixação do regime fechado e a negativa de substituição da pena corporal por restritiva de direitos, nos termos do art. 33, § 2º, alínea "b", e § 3º, e art. 44, ambos do Código Penal." (AgRg no HC n. 910.455/SP, Quinta Turma, Rel. Min. Messod Azulay Neto, Quinta Turma, DJe de 13/9/2024)
+"Na mesma linha, além da reincidência, a pena-base foi fixada acima do mínimo legal, em razão da existência de circunstância judicial negativa, não se mostrando cabível a substituição da sanção privativa de liberdade por restritivas de direitos, pela falta de preenchimento de requisito subjetivo previsto no art. 44, inciso III, do Código Penal." (AgRg no AREsp n. 2.483.092/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 20/8/2024)
+"Nos termos da jurisprudência desta Corte, é possível a adoção do regime prisional semiaberto e a negativa de substituição da pena corporal por restritiva de direitos, diante da existência de circunstância judicial desfavorável, ainda que a pena imposta ao agente seja inferior a 4 anos de reclusão, conforme arts. 33, § 3º, e 44, III, c/c o art. 59, todos do CP." (AgRg no AREsp n. 2.440.999/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 28/11/2023, DJe de 1/12/2023)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento, nos termos do art. 253, parágrafo único, inciso II, alínea "b", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO MAJORADO. PENA INFERIOR A QUATRO ANOS. REGIME FECHADO. POSSIBILIDADE. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. REINCIDÊNCIA. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
