@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual PEDRO CASTRO BARROSO e OUTRO se insurgiram, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO assim ementado (fls. 637/638):
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. EXTENSÃO DA CONDENAÇÃO. TÍTULO EXECUTIVO. LIMITES DA COISA JULGADA. APELO DESPROVIDO.
+I. Dos autos, observa-se que a sentença de 1º grau julgou improcedentes o pedido do Apelante ae reajuste de 21,7% previsto na Lei 8.369/2006, tendo sido reconhecido este direito em segunda instância, cujo dispositivo não fez referência ao pagamento de parcelas retroativas formuladas na inicial (ID 2287951).
+II. Interessa saber a extensão e o limite objetivo da coisa julgada formada pelo provimento jurisdicional que determina a abertura da fase de cumprimento.
+III. Mesmo após a rejeição dos embargos de declaração opostos pelo Estado do Maranhão, o Autor não arguiu a possível nulidade do ato jurisdicional a interposição de seus próprios embargos. A situação se agravou porque o servidor não recorreu para sanar o vício do Acórdão e, assim, o título transitou em julgado contendo apenas reconhecendo o direito ao reajuste desde a edição da Lei em 2006, sem houvesse qualquer condenação em relação às verbas pretéritas.
+IV. Diante da imutabilidade do conteúdo dispositivo, a execução das prestações pretéritas mostra-se inadmissível, pois extrapolaria os limites objetivos da coisa julgada.
+V. Entendo aplicável ao caso em apreço o art. 489, §3º do CPC, na medida em que se deve considerar a que a relação jurídica processual está assentada na lealdade processual e no princípio de cooperação entre os sujeitos que a integram. Sendo oportuno reconhecer que tanto o Apelante quanto o Apelado tiveram oportunidades processuais para integralizar o Acórdão. Diante de tais constatações, e em balizamento de interesses, parece razoável aceitar a formação da coisa julgada que recaiu apenas em relação ao reconhecimento do reajuste salarial correspondente à diferença de 21,7%, já implantado.
+VI. Apelo conhecido e desprovido.
+Os três embargos de declaração opostos foram rejeitados (fls. 699, 753/754 e 810/811).
+Nas razões de seu recurso especial, a parte recorrente sustenta a ocorrência de violação dos arts. 487, II, 489, § 3º, 490 e 494, I e II, do CPC. Alega:
+(1) a existência de negativa de prestação jurisdicional, pois o acórdão recorrido não foi devidamente fundamentado, tendo em vista que houve o reconhecimento da exigibilidade do título, inclusive quanto ao direito de parcelas pretéritas como consequência lógica do direito de reconhecimento da diferença do percentual; e
+(2) a "magistrada alterou sua sentença, acolhendo uma preliminar de inexigibilidade do título já ultrapassada no primeiro julgamento e pela decisão do Tribunal de Justiça do Maranhão, ou seja, a nova decisão, além de proibida pelo disposto no Art. 494 do CPC, comprometeu o valor constitucionalmente protegido da coisa julgada material" (fl. 834).
+Requer o acolhimento da pretensão recursal.
+A parte adversa apresentou contrarrazões (fls. 848/865).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A alegação de violação dos arts. 487, II, 490 e 494, I e II, do CPC não é suficiente para caracterizar o prequestionamento, instituto que exige, além da alegação de infringência a dispositivos legais, a discussão e a apreciação judicial da questão de direito pela instância ordinária.
+O Superior Tribunal de Justiça (STJ) considera que a ausência de enfrentamento pelo Tribunal de origem da matéria objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial porque não foi preenchido o requisito constitucional do prequestionamento.
+Incide neste caso o enunciado 211 da Súmula do STJ.
+Indubitavelmente, não é o caso de prequestionamento ficto, isso porque, conforme o entendimento desta Corte Superior, a incidência do art. 1.025 do Código de Processo Civil (CPC) exige que o recurso especial tenha alegado a ocorrência de violação do art. 1.022 do caderno processual, possibilitando verificar a omissão do Tribunal de origem quanto à apreciação da matéria de direito de lei federal controvertida, o que não ocorreu na espécie.
+A propósito, cito os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. CESSÃO DE CRÉDITO PREVIDENCIÁRIO. ART. 114 DA LEI 8.213/91. IMPOSSIBILIDADE. SÚMULA 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO RECORRIDA. SÚMULA 182 DO STJ.
+ ..
+3. O STJ possui o entendimento de que não basta a oposição de Embargos de Declaração para a configuração do prequestionamento ficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o Superior Tribunal de Justiça esteja autorizado a examinar eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+ ..
+6. Agravo Interno não conhecido.
+(AgInt nos EDcl no REsp n. 1.849.130/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/3/2021, DJe de 16/3/2021, sem destaques no original.)
+PROCESSUAL CIVIL E AMBIENTAL. EXECUÇÃO FISCAL. INFRAÇÃO AMBIENTAL. SUSPENSÃO. AÇÃO ANULATÓRIA GARANTIA. INEXISTÊNCIA. FUNDAMENTO NÃO ATACADO. PROGRAMA DE REGULARIZAÇÃO AMBIENTAL (PRA). CONCRETIZAÇÃO PENDENTE. FATO NOVO. ANÁLISE. IMPOSSIBILIDADE. PREQUESTIONAMENTO FICTO. AUSÊNCIA.
+ ..
+8. Segundo o entendimento desta Corte de Justiça, para se reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se a invocação e o reconhecimento de contrariedade ao art. 1.022 do CPC/2015, o que não ocorreu.
+9. Agravo interno desprovido.
+(AgInt no REsp n. 1.622.622/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 31/8/2020, DJe de 8/9/2020, sem destaques no original.)
+Nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou (fls. 642/643):
+Dos autos, observa-se que a sentença de 1º grau julgou improcedentes o pedido do Apelante ae reajuste de 21,7% previsto na Lei 8.369/2006, tendo sido reconhecido este direito em segunda instância, cujo dispositivo não fez referência ao pagamento de parcelas retroativas formuladas na inicial (ID 2287951).
+Interessa saber a extensão e o limite objetivo da coisa julgada formada pelo provimento jurisdicional que determina a abertura da fase de cumprimento.
+Como já referenciado, o Acórdão julgou procedente o direito sem menção expressa à condenação de pagamento de valores pretéritos.
+Mesmo após a rejeição dos embargos de declaração opostos pelo Estado do Maranhão, o Autor não arguiu a possível nulidade do ato jurisdicional a interposição de seus próprios embargos. A situação se agravou porque o servidor não recorreu para sanar o vício do Acórdão e, assim, o título transitou em julgado contendo apenas reconhecendo o direito ao reajuste desde a edição da Lei em 2006, sem houvesse qualquer condenação em relação às verbas pretéritas.
+Diante da imutabilidade do conteúdo dispositivo, a execução das prestações pretéritas mostra-se inadmissível, pois extrapolaria os limites objetivos da coisa julgada.
+ ..
+Entendo aplicável ao caso em apreço o art. 489, §3º do CPC, na medida em que se deve considerar a que a relação jurídica processual está assentada na lealdade processual e no princípio de cooperação entre os sujeitos que a integram. Sendo oportuno reconhecer que tanto o Apelante quanto o Apelado tiveram oportunidades processuais para integralizar o Acórdão. Diante de tais constatações, e em balizamento de interesses, parece razoável aceitar a formação da coisa julgada que recaiu apenas em relação ao reconhecimento do reajuste salarial correspondente à diferença de 21,7%, já implantado.
+O Tribunal de origem reconheceu que "o Acórdão julgou procedente o direito sem menção expressa à condenação de pagamento de valores pretéritos. Mesmo após a rejeição dos embargos de declaração opostos pelo Estado do Maranhão, o Autor não arguiu a possível nulidade do ato jurisdicional a interposição de seus próprios embargos. A situação se agravou porque o servidor não recorreu para sanar o vício do Acórdão e, assim, o título transitou em julgado contendo apenas reconhecendo o direito ao reajuste desde a edição da Lei em 2006, sem houvesse qualquer condenação em relação às verbas pretéritas. Diante da imutabilidade do conteúdo dispositivo, a execução das prestações pretéritas mostra-se inadmissível, pois extrapolaria os limites objetivos da coisa julgada" (fl. 642).
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
