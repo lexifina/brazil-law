@@ -1,0 +1,11 @@
+DECISÃO
+Em análise dos autos, verifico que uma das controvérsias devolvidas ao conhecimento desta Corte Superior, mediante o agravo interno em agravo em recurso especial em epígrafe, foi afetada ao procedimento do art. 1.036 do Código de Processo Civil de 2015, nos Temas 919/STF e 1.235/STF, fixando, respectivamente as seguintes teses:
+A instituição de taxa de fiscalização do funcionamento de torres e antenas de transmissão e recepção de dados e voz é de competência privativa da União, nos termos do art. 22, IV, da Constituição Federal, não competindo aos Municípios instituir referida taxa.
+É inconstitucional a Lei 13.756/2004 do Município de São Paulo, por configurar invasão à competência privativa da União para legislar sobre telecomunicações e radiodifusão (artigo 22, IV, da Constituição Federal).
+Nesse contexto, nos termos do art. 1.040, II, do CPC/2015, publicado o acórdão paradigma, o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior.
+Cumpre destacar que, de acordo com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema de repercussão ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, determino a devolução dos autos ao Tribunal de origem realizar o juízo de adequação, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, esta decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não será conhecido eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Intimem-se.
+EMENTA
