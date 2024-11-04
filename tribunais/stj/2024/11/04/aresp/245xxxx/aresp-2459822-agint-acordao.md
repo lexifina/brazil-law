@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. EXTRACONCURSALIDADE DO CRÉDITO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA. LIMITAÇÃO AO VALOR DO BEM DADO EM GARANTIA. REVISÃO DA EXTENSÃO DA GARANTIA. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento desta Corte, "a extraconcursalidade do crédito acobertado por alienação fiduciária limita-se ao valor do bem dado em garantia, sobre o qual se estabelece a propriedade resolúvel. Eventual saldo devedor que extrapole tal limite deve ser habilitado na classe dos quirografários" (REsp 1.933.995/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/11/2021, DJe de 9/12/2021).
+2. Caso concreto no qual o Tribunal de origem decidiu nos termos do aludido entendimento, no sentido de limitar a extraconcursalidade do crédito ao montante garantido pela cessão fiduciária, sendo inviável a revisão da extensão da garantia, considerada como de 50% do valor da dívida, com base nas disposições contratuais celebradas, por implicar reexame fático-probatório e interpretação contratual, óbices das Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO SAFRA S.A. contra decisão monocrática desta relatoria (e-STJ, fls. 179-182), que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões recursais, a parte agravante alega a desnecessidade de reexame probatório ou de interpretação contratual, mas apenas de revaloração dos elementos probatórios e da qualificação dos fatos em relação à lei e ao entendimento jurisprudencial.
+Assevera que os fatos estão delineados no acórdão recorrido e a existência do percentual não é controvertida, tratando-se de questão de direito a operação de subsunção.
+Impugnação apresentada às fls. 199-204 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. EXTRACONCURSALIDADE DO CRÉDITO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA. LIMITAÇÃO AO VALOR DO BEM DADO EM GARANTIA. REVISÃO DA EXTENSÃO DA GARANTIA. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento desta Corte, "a extraconcursalidade do crédito acobertado por alienação fiduciária limita-se ao valor do bem dado em garantia, sobre o qual se estabelece a propriedade resolúvel. Eventual saldo devedor que extrapole tal limite deve ser habilitado na classe dos quirografários" (REsp 1.933.995/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/11/2021, DJe de 9/12/2021).
+2. Caso concreto no qual o Tribunal de origem decidiu nos termos do aludido entendimento, no sentido de limitar a extraconcursalidade do crédito ao montante garantido pela cessão fiduciária, sendo inviável a revisão da extensão da garantia, considerada como de 50% do valor da dívida, com base nas disposições contratuais celebradas, por implicar reexame fático-probatório e interpretação contratual, óbices das Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+As razões recursais são insuficientes para reformar a decisão agravada, a qual deve ser confirmada.
+A controvérsia objeto do recurso especial e do presente agravo interno é relativa à extensão da garantia fiduciária para aferição do limite da extraconcursalidade do crédito garantido por alienação fiduciária em relação à recuperação judicial.
+Em suas razões de recurso especial, a parte ora agravante alegou violação do art. 49, § 3º, da Lei 11.101/2005, defendendo que o valor integral do crédito garantido por cessão fiduciária deve ser excluído da recuperação judicial, sob o argumento de que "a totalidade do crédito circunscrito na cédula de crédito avençada encontra-se garantido pela cessão fiduciária, sendo certo que o percentual previsto no contrato (50%), entendido pelo Tribunal de origem como limitador da garantia, representa, em verdade, o mínimo da aplicação financeira que deveria ser preservado pela emitente para a consecução do contrato".
+Conforme entendimento desta Corte, a extraconcursalidade do crédito garantido por alienação fiduciária ou cessão fiduciária de crédito limita-se ao valor do bem dado em garantia, motivo pelo qual eventual saldo devedor subjacente deve ser habilitado como crédito quirografário.
+Nesse sentido:
+"CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DA RECUPERAÇÃO JUDICIAL. JUÍZO DA EXECUÇÃO DE CONTRATO DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DEVEDOR FIDUCIANTE EM RECUPERAÇÃO JUDICIAL. CONSOLIDAÇÃO DA PROPRIEDADE PELO FIDUCIÁRIO. VENDA DO BEM. EXTINÇÃO DA PROPRIEDADE FIDUCIÁRIA. VALOR ARRECADADO INSUFICIENTE PARA O PAGAMENTO DA DÍVIDA. SALDO DEVEDOR. NATUREZA QUIROGRAFÁRIA. SATISFAÇÃO DO REMANESCENTE DA DÍVIDA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. A princípio, o credor titular da posição de proprietário fiduciário de bem móvel ou imóvel não se submete aos efeitos da recuperação judicial, consoante disciplina o art. 49, § 3º, da Lei 11.101/2005.
+2. Porém, no caso dos autos, o bem alienado fiduciariamente em garantia já foi objeto de apreensão judicial e adjudicado ao exequente, com a consolidação da propriedade e sua posterior alienação.
+3. Desse modo, o presente conflito de competência é circunscrito à definição do Juízo perante o qual devem prosseguir os atos tendentes à satisfação do remanescente do crédito derivado de contrato de alienação fiduciária em garantia, visto que a consolidação da propriedade do bem dado em garantia, e sua consequente e necessária alienação, não foi suficiente para a quitação integral da dívida.
+4. Segundo a doutrina e os precedentes específicos desta Corte, no caso de alienação fiduciária em garantia, consolidada a propriedade e vendido o bem, o credor fiduciário ficará com o montante arrecadado, desaparecendo a propriedade fiduciária. Eventual saldo devedor apresenta natureza de dívida pessoal, devendo ser habilitado na recuperação judicial ou falência na classe dos credores quirografários.
+5. Conflito conhecido para declarar competente o Juízo da Recuperação Judicial."
+(CC n. 128.194/GO, relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 28/6/2017, DJe de 1/8/2017.)
+"RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. QUESTÃO PREJUDICADA. PRIMAZIA DA DECISÃO DE MÉRITO. CRÉDITOS GARANTIDOS POR ALIENAÇÃO FIDUCIÁRIA. BEM IMÓVEL DE TERCEIRO. CIRCUNSTÂNCIA QUE NÃO AFASTA A INCIDÊNCIA DA REGRA DO ART. 49, § 3º, DA LFRE. PRECEDENTE. EXTRACONCURSALIDADE DO CRÉDITO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA QUE SE LIMITA AO VALOR DO BEM DADO EM GARANTIA. RESTABELECIMENTO DAS CLÁUSULAS CONTRATUAIS DECLARADAS NULAS.
+1. Incidente de impugnação de crédito apresentado em 19/3/2018.
+Recurso especial interposto em 11/11/2020. Autos conclusos ao gabinete da Relatora em 22/4/2021.
+2. O propósito recursal, além de verificar eventual negativa de prestação jurisdicional, consiste em definir (i) se o crédito vinculado à garantia prestada por terceiro se submete aos efeitos da recuperação judicial da devedora e (ii) se configura julgamento ultra petita a declaração de nulidade de cláusula que prevê o vencimento antecipado da obrigação inserta nos contratos que dão origem ao crédito impugnado.
+3. Prejudicada a alegação de negativa de prestação jurisdicional, tendo em vista o princípio da primazia da decisão de mérito.
+4. O afastamento dos créditos de titulares de posição de proprietário fiduciário dos efeitos da recuperação judicial da devedora independe da identificação pessoal do fiduciante ou do fiduciário com o bem imóvel ofertado em garantia ou com a própria recuperanda. Precedente específico da Terceira Turma.
+5. A extraconcursalidade do crédito acobertado por alienação fiduciária limita-se ao valor do bem dado em garantia, sobre o qual se estabelece a propriedade resolúvel. Eventual saldo devedor que extrapole tal limite deve ser habilitado na classe dos quirografários. Precedente.
+6. As cláusulas dos contratos que deram origem aos créditos não sujeitos à recuperação judicial não podem ser revistas de ofício pelo juízo recuperacional, sob pena de violação do princípio dispositivo.
+RECURSO ESPECIAL PARCIALMENTE PROVIDO."
+(REsp n. 1.933.995/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/11/2021, DJe de 9/12/2021.)
+No caso dos autos, o Tribunal de origem decidiu nos termos do aludido entendimento, no sentido de limitar a extraconcursalidade do crédito ao montante garantido pela cessão fiduciária, considerado como de 50% do valor da dívida, com base nas disposições contratuais celebradas (e-STJ, fl. 95):
+"No caso concreto, observa-se, pela análise do Instrumento Particular de Cessão Fiduciária do contrato nº 7121130 a existência de garantia de 50% (cinquenta por cento) sobre o saldo devedor atualizado da operação garantida, nos termos do item VI, que segue transcrito:
+VI - VALOR DA GARANTIA: 50% (cinquenta por cento) sobre o saldo devedor atualizado da operação garantida, compreendendo principal e acessórios.
+Dessa forma, a garantia fiduciária reside exclusivamente no valor equivalente à 50% (cinquenta por cento) do saldo devedor atualizado, de modo que o saldo remanescente está sujeito aos efeitos da recuperação judicial, tendo em vista que a extraconcursalidade do crédito está limitada às garantias efetivamente prestadas.
+Nesse sentido, é o Enunciado n.º 51 da 1ª Jornada de Direito Comercial:
+51. O saldo do crédito não coberto pelo valor do bem e/ou da garantia dos contratos previstos no § 3º do art. 49 da Lei n.11.101/2005 é crédito quirografário, sujeito à recuperação judicial."
+O que a Lei quis proteger é a garantia fiduciária, não a dívida garantida.
+Dessa forma, tratando-se de saldo não coberto pela garantia de cessão fiduciária, submete-se aos efeitos da recuperação judicial, devendo ser mantida a classificação na classe III, categoria de quirografários, como bem determinado na decisão recorrida, na forma do art. 83, VI, da Lei nº 11.101/2005, in verbis:
+Desse modo, é inviável o conhecimento do recurso especial, porque a revisão do acórdão recorrido, sobre o limite da garantia prestada e, consequentemente, do limite da extraconcursalidade do crédito, não prescindiria do reexame direto do acervo probatório e do instrumento contratual de cessão de crédito, providências manifestamente proibidas nesta instância, nos termos das Súmulas 5 e 7 do STJ.
+Com essas considerações, nega-se provimento ao agravo interno.
+É como voto.
