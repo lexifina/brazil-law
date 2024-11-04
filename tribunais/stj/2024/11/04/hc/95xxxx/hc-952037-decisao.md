@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de FABRICIO DIAS XAVIER, impugnando-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO (HC n. 2266203-86.2024.8.26.0000).
+Verifica-se dos autos que o paciente foi preso em flagrante pela suposta prática do crime de furto qualificado. Posteriormente, a prisão foi convertida em preventiva, em 28/7/2024, pelo Juízo de Plantão da comarca de Itanhaém/SP - Processo n. 1500298-22.2024.8.26.0633 (fls. 97/100).
+A defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem e convalidou a segregação cautelar em 30/9/2024 (fls. 18/25).
+Daí a presente impetração, em que o impetrante alega a existência de constrangimento ilegal ante a ausência de fundamentação idônea e dos requisitos necessários para a manutenção da constrição cautelar.
+Aduz que a custódia preventiva está amparada na gravidade abstrata do delito e motivada de forma genérica.
+Defende que há desproporcionalidade da medida em caso de eventual condenação.
+Argumenta que a reincidência do paciente, por si só, não justifica o cárcere, em razão de o suposto crime ter sido perpetrado sem violência ou grave ameaça contra a pessoa.
+Sustenta que há fragilidade do conjunto probatório em relação ao paciente acerca da autoria e materialidade do suposto crime.
+Requer a concessão da ordem liberatória, revogando-se o decreto prisional ou substituindo-se a prisão por medidas cautelares alternativas.
+Os autos vieram a mim conclusos por prevenção do HC n. 934.311/SP e HC n. 945.547/SP.
+Indeferida por mim a liminar em 11/10/2024 (fls. 108/110) e solicitadas informações, essas foram prestadas (fls. 117/154).
+O Ministério Público Federal, em seu parecer, opinou pelo não conhecimento do writ ou pela denegação da ordem (fls. 158/162).
+É o relatório.
+Inicialmente, como dito na análise da liminar, nota-se que, na via eleita, não há como dirimir a tese de negativa de autoria nem a de ausência de provas das condutas criminosas, pois isso demandaria a avaliação aprofundada do conjunto fático-probatório que compõe o processo principal. E o envolvimento ou não do agente nos delitos que lhe são imputados é matéria cuja análise é reservada à ação penal.
+Em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via do habeas corpus, bem como do recurso ordinário em habeas corpus, não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva (RHC n. 145.064/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/6/2021).
+Por ora, pelos elementos que constam destes autos, há indícios suficientes de autoria e de materialidade delitiva, aptos a dar base à prisão em questão.
+Inexiste, na espécie, o alegado constrangimento ilegal. As instâncias ordinárias decidiram na linha da jurisprudência do Superior Tribunal de Justiça. Não há falar em revogação da prisão preventiva imposta ao paciente.
+As circunstâncias do crime e o risco de reiteração delitiva denotam a existência de ameaça real à ordem pública, como se vê deste trecho do acórdão vergastado (fls. 20/22 - grifo nosso):
+ ..
+Segundo a acusação, o paciente e comparsas ingressaram no estabelecimento comercial dissimulando a condição de clientes; na sequência, Fabrício e Daniel subtraíram as mercadorias descritas, colocando-as dentro de uma cesta de compras, a qual foi posicionada no corredor de brinquedos. Ato contínuo, Isabela Cristina colocou os itens dentro de uma mochila preta e todos saíram da loja sem efetuar o pagamento. Após visualizá-los pelo circuito de câmeras, o fiscal Marcos Vinícius da Silva os seguiu; eles dispensaram os bens subtraídos embaixo de uma árvore, já na rua. Contudo, foram detidos pela polícia militar logo após; os itens foram recuperados.
+No caso são significativos e relevantes os indícios de autoria, porquanto o paciente foi preso em flagrante nas circunstâncias narradas acima.
+Em decorrência e ainda considerando a capitulação dada aos fatos, faz-se necessária a cautelar extrema em função de determinados objetivos que se relacionam à garantia da ordem pública e à efetiva aplicação da lei penal (CPP, artigo 312). Além disso, qualquer outra medida diversa (CPP, 319 do CPP) eventualmente concedida não atenderia a tais objetivos no caso concreto.
+Como se não bastasse, Fabrício ostenta dupla reincidência em crime patrimonial, circunstância que comprova a personalidade distorcida daquele que, reiteradamente, insiste em praticar condutas ilícitas e pretende se furtar à aplicação da lei penal, consoante o entendimento do C. STJ.
+Portanto, a decretação da prisão cautelar está suficientemente fundamentada, não se mostrando ilegal ou arbitrária para justificar a concessão da ordem.
+Como se vê, o periculum libertatis do paciente foi evidenciado pelas instâncias ordinárias.
+Assim, observa-se da análise dos trechos acima que a constrição cautelar está alicerçada em elementos vinculados à realidade, ante as referências às circunstâncias fáticas justificadoras, com destaque, principalmente, ao risco de reiteração delitiva e ao modus operandi. Tudo a revelar e a justificar a manutenção da medida extrema.
+Não é outra a opinião do Ministério Público Federal, pela leitura do bem-lançado parecer (fls. 158/162), o qual também adoto como razão de decidir.
+Com efeito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023).
+A propósito, conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019) - (AgRg no HC n. 813.512/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 5/6/2023).
+Ainda, confira-se o AgRg no RHC n. 161.586/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 31/3/2022.
+E, ao contrário do sustentado no presente writ, não há como concluir que, na sentença, será fixado regime inicial diverso do fechado. O tema será apreciado em momento processual oportuno e não impede a imposição da constrição cautelar.
+No entanto, não há falar em ofensa ao princípio da homogeneidade das medidas cautelares no particular, pois não cabe a esta Corte Superior, em um exercício de futurologia, prever de antemão qual seria o possível quantum de aplicação da pena em razão de a recorrente supostamente possuir condições pessoais favoráveis, o que implicaria análise do conjunto probatório, inviável nesta via estreita (RHC n. 58.640/MS, Ministro Felix Fischer, Quinta Turma, DJe 6/10/2015).
+Por fim, vale destacar que, concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas (AgRg no HC n. 573.598/SC, da minha relatoria, Sexta Turma, DJe 30/6/2020).
+Ante o exposto, em consonância com o parecer ministerial e precedentes, conheço em parte do writ e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. NEGATIVA DE AUTORIA. APROFUNDADO EXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RISCO FUNDADO DE REITERAÇÃO DELITIVA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Habeas corpus conhecido em parte e, nessa extensão, ordem denegada.
