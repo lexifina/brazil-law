@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por R&R SOFTWARE E CONSULTORIA LTDA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, contra o acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ na Apelação n. 0000576-37.2011.8.16.0179.
+A recorrente ajuizou ação de cobrança, c.c. ressarcimento de danos em desfavor da recorrida, objetivando o cumprimento de contrato de prestação de serviços de recursos computacionais e tecnologia da informação celebrado entre as partes, bem como indenização pelos danos decorrentes do descumprimento da avença. O Juízo de primeiro grau julgou improcedente o pedido. O Tribunal de origem deu parcial provimento ao recurso de apelação, em acórdão assim ementado (fl. 1535):
+APELAÇÃO CÍVEL. INDENIZATÓRIA. CONTRATO DE SOFTWARE. 1. SUFICIÊNCIA DA PROVA PERICIAL. NÃO VERIFICADO CERCEAMENTO DE DEFESA. 2. LAUDO QUE CONCLUIU PELA UTILIZAÇÃO DOS PROGRAMAS POR PERÍODO SUPERIOR AO TÉRMINO DO CONTRATO. INDENIZAÇÃO DEVIDA, EM VALOR PROPORCIONAL AO MONTANTE TOTAL PREVISTO NO CONTRATO. SENTENÇA REFORMADA.
+RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos declaratórios por ambas as partes, foram rejeitados pelos acórdãos prolatados às fls. 1583-1586 e 1633-1636.
+No recurso especial, aponta a parte recorrente, além de divergência jurisprudencial, violação aos arts. 1.022, inc. II, do CPC/2015 e 102 da Lei n. 9.610/98. Indica, preliminarmente, omissão no acórdão sobre as seguintes questões: a) o pedido de ressarcimento integral pelos danos materiais, devendo ser observado o caráter punitivo da indenização; b) o pedido alternativo de indenização equivalente a dez vezes o valor de mercado dos softwares utilizados indevidamente; c) ao tempo de uso do software EZWAY.
+No mérito, defende que o valor da indenização pela contrafação deve ser "correspondente aos valores indicados nos contratos  .. , somados à diferença entre os preços máximos previstos na licitação 1093/2008 e os preços constantes nos contratos ou, ao menos, a 10 vezes o valor da licença" (fl. 1787). Argumenta que "a mera retribuição financeira pelo uso indevido do software não é suficiente para indenizar integralmente a parte que teve seus direitos autorais violados" (fl. 1792).
+Pede o provimento do recurso especial.
+Contrarrazões às fls. 1691-1702.
+Na origem, foi admitido o recurso especial (fls. 1844-1845).
+Parecer do MPF, pelo desprovimento do recurso especial (fls. 1865-1881).
+É o relatório.
+Decido.
+Ao julgar a apelação, o Tribunal manifestou-se nos seguintes termos (fls. 1537-1538):
+2. UTILIZAÇÃO INDEVIDA DO SOFTWARE
+A apelante aduz que o software foi utilizado indevidamente pela apelada.
+Razão lhe assiste.
+ ..
+Em consonância, o Superior Tribunal de Justiça adota entendimento de que o magistrado não está vinculado ao laudo, desde que demonstre a razão para deixar de aplicar as conclusões do perito, in verbis:
+ ..
+No presente caso, embora o perito tenha afirmado que há coincidência do código fonte dos softwares utilizados atualmente pela apelada com os softwares da recorrente, o esclareceu que as funcionalidades não são exclusivas da expert parte autora:
+ ..
+O perito consignou, ademais, que "o produto Ezway foi desinstalado do ambiente da SANEPAR".
+Por outro lado, asseverou-se que a requerida utilizou os softwares Adaview, Natprint e Ezway até junho/2009 (após o término dos contratos), pois é o tempo mínimo necessário para a migração dos sistemas:
+"A conclusão possível e mais acertada em função de todas as evidências e debates realizados é de que os softwares da R&R. foram utilizados integralmente até junho/2009".
+Verifica-se, portanto, que a parte requerida descumpriu o contrato celebrado, pois o software Ezway estava previsto para ser utilizado até 31/07/2007 e os programas Natprint e Adaview até 28/05/2008.
+Assim, a sentença deve ser reformada no ponto, para condenar a parte requerida ao pagamento da contraprestação pelo uso dos programas até junho de 2009, proporcionalmente ao valor total originalmente previsto nos contratos, montante este que deverá ser apurado em liquidação de sentença.
+A parte autora, ora recorrente, opôs embargos de declaração, nos quais alegou que "o pedido indenizatório contemplou os valores indicados nos contratos (considerados os valores cheios, ou seja, sem os descontos), somados à diferença entre os preços máximos previstos na licitação 1093/2008 e os preços constantes nos contratos, como forma de ressarcimento integral pelos danos materiais causados pela utilização sem autorização dos softwares (documentos das seqs. 1.5 a 1.80 e 2.1/2)" (fl. 1598).
+Pleiteou, também, a análise do pedido alternativo de "arbitramento indenizatório o equivalente a 10 (dez) vezes o valor de mercado do software objeto de uso irregular", indicando jurisprudência (fl. 1599).
+Por fim, requereu, ainda, fosse sanada "a omissão (ou afastada a obscuridade) para se esclarecer se é devido integralmente o "pagamento da contraprestação pelo uso dos programas até junho de 2009" e apenas "proporcionalmente ao valor total originalmente previsto nos contratos" entre junho de 2009 e 25/02/2013, em montante que deverá ser apurado em liquidação de sentença conforme os critérios indicados nos contratos e respectivos termos aditivos (seqs. 24.4, 24.6, 1.38 e 1.43)" (fl. 1601).
+Contudo, os aclaratórios foram rejeitados pela Corte a quo, sem que os pedidos de ressarcimento integral, com a observância do caráter punitivo e o pedido alternativo fossem enfrentados, como se vê a partir do seguinte excerto (fl. 1635):
+No caso em exame, o que pretende a parte embargante é a reapreciação da matéria, quanto à indenização.
+Foi determinado no acórdão, com base em data indicada expressamente pelo perito, que a parte requerida deve ser condenada "ao pagamento da contraprestação pelo uso dos programas até junho de 2009, proporcionalmente ao valor total originalmente previsto nos contratos".
+Pois bem, o exame atento do art. 105, inciso III, da Constituição Federal, que disciplina o recurso especial, deixa claro competir ao Superior Tribunal de Justiça apreciar em sede de recurso especial "as causas decididas", o que evidencia a necessidade de prévio pronunciamento por parte do Tribunal a quo acerca da tese de direito suscitada, sob pena de não conhecimento do recurso (Súmulas n. 211/STJ; 282 e 356/STF).
+Nessa linha de raciocínio, se o aresto combatido é omisso acerca de matéria relevante para o deslinde do feito e persiste nesse vício, a parte deve demonstrar, de forma específica e concreta, a existência de violação ao art. 1.022 do CPC, a fim de possibilitar a abertura da instância especial.
+Nesse conjuntura, impõe-se, em regra, a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento, suprindo tal omissão.
+A propósito:
+RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. AÇÃO ORDINÁRIA. CONTRATOS. RETENÇÃO DE VALORES PELA ADMINISTRAÇÃO PÚBLICA. IRREGULARIDADE TRABALHISTA. ORDEM JUDICIAL PRÉVIA DE BLOQUEIO E PENHORA. OMISSÃO DO ACÓRDÃO RECORRIDO. VIOLAÇÃO DOS ART. 489 E 1.022 DO CPC/2015. ANULAÇÃO DO ACÓRDÃO E DEVOLUÇÃO PARA ANÁLISE DAS QUESTÕES SUSCITADAS. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Sendo constatado que o acórdão recorrido deixou de manifestar sobre matéria relevante para a resolução da controvérsia, que foi devidamente alegada pela parte, persistindo a omissão ao rejeitar embargos declaratórios, é impositivo reconhecer a violação aos arts. 489 e 1.022, do Código de Processo Civil de 2015, porquanto a análise da matéria poderia, em tese, modificar o resultado do julgamento.
+2. Recurso Especial conhecido e provido, a fim de anular o acórdão e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos Embargos de Declaração. (REsp n. 2.013.590/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/2/2024, DJe de 29/2/2024.)
+Acerca da terceira omissão apontada, observo que Tribunal de origem enfrentou expressamente o tema referente ao tempo de uso do software no julgamento da apelação. Portanto, inexiste omissão, razão pela qual, no ponto, não há falar em ofensa ao art. 1.022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 1.878.277/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023; AgInt no AREsp n. 2.156.525/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/11/2022, DJe de 2/12/2022.
+Com a anulação do julgamento dos embargos de declaração, fica prejudicada a apreciação dos demais temas recursais suscitados no recurso especial, ficando ressalvada a possibilidade de serem objeto de nova insurgência, após o novo julgamento dos declaratórios a ser proferido pelo Tribunal de origem, caso persista interesse da parte recorrente nesse sentido.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial, a fim de anular o acórdão de fls. 1633-1636, exarado no julgamento dos aclaratórios de fls. 1597-1601, para que outro seja proferido em seu lugar, sanando as omissões apontadas na presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE COBRANÇA C.C. RESSARCIMENTO DE DANOS. CARÁTER PUNITIVO DA INDENIZAÇÃO E DO PEDIDO ALTERNATIVO. QUESTÕES RELEVANTES PARA O DESLINDE DA CAUSA. OFENSA AO ART. 1.022 DO CPC/2015 VERIFICADA. DETERMINAÇÃO DE REJULGAMENTO DOS ACLARATÓRIOS. OMISSÃO INDICADA ACERCA DO TEMPO DE USO DO SOFTWARE INEXISTENTE. MERO INCONFORMISMO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
