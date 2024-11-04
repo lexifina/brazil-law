@@ -1,0 +1,39 @@
+DECISÃO
+MARIA SAYONARA LOPES MEDEIROS FERNANDES alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará no HC n. 0630158-10.2024.8.06.0000.
+Consta dos autos que a recorrente responde a processo criminal pela prática, em tese, do delito do art. 33, caput, da Lei de Drogas.
+Em breve resumo, no dia 23/2/2024, em cumprimento a mandado de busca e apreensão no domicílio da acusada, foram encontradas 5 gramas de cocaína em seu poder (dentro de uma bolsa sua).
+O Juízo de primeiro grau homologou a prisão em flagrante e, em que pese haja reconhecido inexistir a necessidade de prisão preventiva, impôs à recorrente cautelares diversas.
+Por considerar que em 22/3/2024 a acusada teria descumprido uma das cautelares, por ter "participado ativamente de uma reunião da Associação dos Agentes Comunitários de Saúde e Agentes de Combates às Endemias de Iguatu", foi apresentada ao Juízo representação pela prisão preventiva da recorrente.
+Por ocasião de se decidir se era ou não o caso de se impor a cautela mais extremada, o Juízo assim decidiu (fl. 30, grifei):
+No caso de violação das cautelares, dispõe o §4g, do mencionado dispositivo, que "no caso de descumprimento de qualquer das obrigações impostas, o juiz, mediante requerimento do Ministério Público, de seu assistente ou do querelante, poderá substituir a medida, impor outra em cumulação, ou, em último caso, decretar a prisão preventiva, nos termos do parágrafo único do art. 312 deste Código."
+Com efeito, não encontro presentes os requisitos de admissibilidade da segregação cautelar da liberdade. Explico.
+No caso em tela, a decisão concessiva da liberdade provisória foi expressa em fixar a cautelar de "afastamento da presidência e de qualquer cargo diretivo do sindicato dos servidores públicos municipais de Iguatu, não podendo ingressar em suas dependências, ou manter contato como os dirigentes sindicais, bem como proibição temporária de participar de manifestações ou aglomerações relacionadas ao aludido Sindicato" (destaquei).
+Com efeito, em harmonia com o parecer ministerial, embora a acusada tenha participado de reunião no dia 22/03/2024, esta foi relacionada à ASSOCIAÇÃO DOS AGENTES COMUNITÁRIOS DE SAÚDE E AGENTES DE COMBATES ÀS ENDEMIAS DE IGUATU/CE e não havia qualquer proibição nesse sentido, mencionada na decisão, não sendo possível estabelecer que houve descumprimento de medidas cautelares anteriormente impostas.
+Na seara penal é importante observar especialmente o princípio da legalidade, na perspectiva de que a conduta só poderia ser considerada como descumprida se houvesse a violação de uma prévia restrição imposta, da qual a representada tinha ciência, o que não foi o caso dos autos, já que não havia qualquer restrição relacionada à Associação dos Agentes Comunitários de Saúde e Agentes de Combates às Endemias de Iguatu/CE, mas apenas ao Sindicato dos Servidores Públicos Municipais de Iguatu.
+Ademais, não constam dos autos quaisquer outros elementos de informação ou fato superveniente a indicar que a representado possa, em liberdade, ameaçar a ordem pública, prejudicar a instrução penal ou se esquivar da aplicação da lei penal, não justificando, nesta fase processual, uma prisão cautelar.
+Registro, ainda, o parecer do Órgão Ministerial pelo indeferimento da representação pela prisão preventiva. Nesse ponto, é válido lembrar que o processo penal brasileiro é regido pelas balizas do sistema acusatório, não sendo dado ao juízo converter ou decretar a prisão preventiva ex officio. Aliás, esse princípio foi observado pelo legislador, que, nas alterações promovidas pela Lei 13.964/2019 (Pacote Anticrime), excluiu a possibilidade de decretação de prisão preventiva de ofício pelo magistrado.
+No entanto, em que pese o magistrado não tenha se convencido pela prisão preventiva, fato é que houve endurecimento das medidas cautelares impostas à recorrente. Vejamos (fls. 33-34):
+Compulsando os autos, verifico que a acusada havia sido presa em 23/02/2024, em razão de prisão em flagrante, a qual fora homologada, oportunidade em que foi concedida a liberdade provisória com aplicação das seguintes medidas cautelares diversas da prisão:
+a) recolher-se à própria residência das 19h às 6h e nos dias de folga;
+b) submeter-se ao uso de tornozeleira eletrônica para fins de monitoração e fiscalização, pelo prazo de 6 meses;
+c) proibição de ausentar-se da Comarca de Iguatu, por mais de oito dias, a não ser que autorizado pelo Juízo processante e com a declaração do local onde poderá ser encontrado;
+d) afastamento da presidência e de qualquer cargo diretivo do sindicato dos servidores públicos municipais de Iguatu, não podendo ingressar em suas dependências, ou manter contato como os dirigentes sindicais, bem como proibição temporária de participar de manifestações ou aglomerações relacionadas ao aludido sindicato;
+e) comunicar eventual mudança de endereço;
+f) comparecer a todos os atos processuais para os quais for intimada.
+(..)
+ C om o objetivo de dar total eficácia às medidas cautelares aplicadas e visando eliminar lacunas que podem ser utilizadas como manobras para se aproveitar da omissão, além de, sobretudo, evitar a aplicação de medidas mais extremas como a prisão cautelar, entendo necessária, em harmonia com o parecer do Ministério Público, a integração da decisão anterior, alterando o item "d", para que conste a proibição relacionada também a ASSOCIAÇÃO DOS AGENTES COMUNITÁRIOS DE SAÚDE E AGENTES DE COMBATES ÀS ENDEMIAS DE IGUATU/CE.
+Diante dessa decisão e da negativa do Tribunal em rever as cautelares impostas à paciente, a defesa requer, em liminar e no mérito, que este Tribunal Superior analise a proporcionalidade delas. Sustenta que falta de fundamentação idônea à decisão.
+A liminar foi deferida em decisão de fls. 513-517.
+O Ministério Público Federal emitiu parecer favorável ao provimento do recurso (fls. 533-538).
+Decido.
+Uma análise dos autos habilita-nos a constatar a falta de fundamentação idônea na imposição das cautelares selecionadas ao caso. Não fica clara a razão pela qual a acusada não poderia participar das reuniões mencionadas, em que sentido responder a um processo porque foram encontradas cinco gramas de cocaína relaciona-se a reuniões seja no Sindicato de Servidores Públicos Municipais de Iguatu ou na Associação dos Agentes Comunitários de Saúde e Agentes de Combates à Endemias de Iguatu. Se razão para isso há, certo é que ela não se encontra refletida na decisão que proibiu a acusada de participar delas.
+Tampouco está explicitado qualquer liame entre a suposta prática do delito e a sua atuação na Presidência da Associação dos Agentes Comunitários de Saúde e Agentes de Combates à Endemias de Iguatu. Se o afastamento da acusada do cargo ou das atividades é necessário, pesa sobre o Juízo a demonstração mediante decisão que justifique a medida.
+Ademais, diante do domicílio certo e vinculo laboral da recorrente, não há razão para que se lhe imponha monitoramento eletrônico, de modo que, junto com as cautelares acima, também fica esta revogada.
+Finalmente, considerando que não houve violência na comissão do delito, é razoável que se flexibilize o recolhimento noturno da acusada para que possa frequentar seu curso.
+À vista do exposto, confirmo a liminar e concedo a ordem para, à luz das peculiaridades do caso concreto manter as seguintes cautelares:
+a) recolher-se à própria residência das 19h às 6h e nos dias de folga; salvo quando estiver assistindo as aulas do curso de enfermagem (comprovação de matrícula e presença necessária).
+b) proibição de ausentar-se da Comarca, quando a permanência seja conveniente ou necessária pa ra a investigação ou instrução;
+c) comunicar eventual mudança de endereço;
+d) comparecer a todos os atos processuais para os quais for intimada.
+Publique-se e intimem-se.
+EMENTA
