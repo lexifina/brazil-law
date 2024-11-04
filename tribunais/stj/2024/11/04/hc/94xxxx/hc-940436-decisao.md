@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WILLIANS DARINI FILHO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi preso temporariamente pela suposta prática dos crimes previstos nos arts. 15 da Lei n. 10.826/2003 e 121, § 2º, II, c/c o art. 14, II, do Código Penal, sendo a prisão convertida em preventiva em 12/7/2024 (decisão de fls. 104-106).
+O impetrante sustenta a ausência de contemporaneidade entre a medida extrema e os fatos imputados.
+Alega que os requisitos para a prisão temporária nunca estiveram presentes e haveria desproporcionalidade na utilização do instituto " ..  para prender, arbitrariamente, pessoa que já havia cuidado de habilitar defesa profissional  .. " (fl. 12).
+Aduz que teriam sido utilizados elementos alheios aos autos para justificar a segregação cautelar, que careceria de motivação idônea e estaria amparada na gravidade abstrata do delito, na repercussão midiática e no clamor popular.
+Realça as condições pessoais favoráveis do paciente e considera que seria suficiente a substituição da custódia por medidas cautelares diversas.
+Requer, liminarmente e no mérito, a concessão de liberdade provisória ao paciente, expedindo-se alvará de soltura em seu favor.
+Pugna pela concessão da ordem ainda que de ofício.
+Por meio da decisão de fls. 165-166 o pedido liminar foi indeferido. Em seguida, foram juntadas aos autos as informações prestadas pela origem (fls. 172-176 e fls. 183-192), bem como a manifestação do Ministério Publico Federal, opinando pelo não conhecimento do habeas corpus e, no mérito, seja denegada a ordem (fls. 194-197).
+É o relatório.
+A prisão preventiva do paciente foi decretada nos seguintes termos (fls. 104-106):
+Consta que o investigado invadiu festa de adolescente e saiu atirando para cima, tendo disparado contra a vítima, adulto que o segurou e tentou convencê-lo a largar a arma. Somado a isso, Willians ainda é investigado pelo atropelamento de um adolescente dias depois dos tiros, ocasião em que teria arremessado a vítima contra uma árvore e depois deixado o local em alta velocidade (fls. 16/18).
+Tais circunstâncias denotam personalidade inconsequente e agressiva por parte do investigado, tornando a prisão cautelar o único meio capaz de acautelar a ordem pública, ante o risco concreto de reiteração da conduta criminosa.
+Como explicita Renato Brasileiro de Lima "no caso de prisão preventiva com base na garantia da ordem pública, faz-se um juízo de periculosidade do agente (e não de culpabilidade), que, em caso positivo demonstra a necessidade de sua retirada cautelar do convívio social." (Código de Processo Penal Comentado, 4.ª edição, Editora Juspodivm, Bahia, 2019, p. 890).
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa.
+Sobre o tema:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. NULIDADE DA PRISÃO EM FLAGRANTE. SUPERVENIÊNCIA DO DECRETO DE PRISÃO PREVENTIVA. AUSÊNCIA DE REALIZAÇÃO DE AUDIÊNCIA DE CUSTÓDIA. INEXISTÊNCIA DE NULIDADE. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. PERICULOSIDADE DO AGENTE. INAPLICABILIDADE DE MEDIDAS CAUTELARES DIVERSAS. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Habeas corpus manejado contra acórdão que denegou a ordem de habeas corpus, mantendo a prisão preventiva do paciente, acusado por homicídio qualificado, com fundamento na garantia da ordem pública, na gravidade concreta da conduta e na periculosidade do agente, sendo rejeitadas as alegações de nulidade da prisão em flagrante e de ausência de realização de audiência de custódia.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) determinar se a superveniência do decreto de prisão preventiva supera a nulidade da prisão em flagrante; (ii) definir se a ausência de audiência de custódia enseja a nulidade da prisão preventiva; (iii) analisar a necessidade de manutenção da prisão preventiva em razão da gravidade concreta do delito e da periculosidade do agente.
+III. RAZÕES DE DECIDIR
+3. A superveniência do decreto de prisão preventiva torna superada a alegação de nulidade da prisão em flagrante, constituindo novo título judicial ensejador da custódia cautelar, conforme entendimento pacífico desta Corte.
+4. A ausência de realização de audiência de custódia, por si só, não implica a nulidade da prisão preventiva, quando observadas as garantias processuais e constitucionais, conforme jurisprudência do STJ e do STF.
+5. A prisão preventiva justifica-se pela necessidade de garantir a ordem pública, diante da gravidade concreta do delito de homicídio qualificado, praticado com elevado grau de periculosidade, evidenciada pelo modus operandi e pelo contexto fático que denotam a periculosidade do agente.
+6. A aplicação de medidas cautelares diversas da prisão é inviável quando a gravidade concreta do crime e a periculosidade do acusado indicam que a ordem pública não estaria acautelada com sua soltura.
+7. Condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não são suficientes para afastar a prisão preventiva quando presentes fundamentos concretos que justifiquem a segregação cautelar.
+IV. DISPOSITIVO
+8.Ordem denegada.
+(HC n. 847.857/PI, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 21/10/2024.)
+Por sua vez, o Tribunal de origem também se manifestou expressamente sobre os motivos pelos quais a custódia cautelar deveria ser mantida, conforme se observa do voto condutor do acórdão (fls. 183-192):
+Para além do já constante quando da análise da medida liminar (fls. 101/109), cujo comando fica aqui reiterado, é dos autos que a instrução criminal também merece resguardo.
+Ocorre que a vítima sobreviveu, e, por isso, sua integridade deve ser acautelada.
+De outro lado, como já enfrentado, a ordem pública também necessita de preservação.
+As condutas, guardada a via estreita, denotam gravidade acentuada, já que mesmo após o disparo contra a vítima, o acusado retornou, e, ainda com o ofendido caído ao solo discutiu com ele (fls. 32).
+Em acréscimo, o paciente possui contra si instalada investigação por um "atropelamento" recente, de modo que há risco de reiteração (fls. 33).
+No correspondente boletim de ocorrência assim constou (fls. 39/41):  ..  CONFORME POPULARES E UMA OCULAR, SENDO WESLEY GUSTAVO SOARES PIRES, RELATA QUE O CONDUTOR WILLIANS DARINI FILHO EM UM VEICULO GOL PLACA OWN6A72, EM MANOBRA PERIGOSA, ATROPELOU JOAO FELIPE OLIVEIRA, ARREMESSANDO NA PRAÇA CONTRA UMA ÁRVORE E EM SEGUIDA PROSSEGUIU EM ALTA VELOCIDADE POR DESTINO IGNORADO  .. .
+Essas circunstâncias, uma vez que evidenciam a gravidade concreta da conduta delituosa, justificam a imposição da prisão cautelar como meio de assegurar a ordem pública. É pacífico o entendimento desta Corte Superior de que não se configura constrangimento ilegal quando a segregação preventiva é decretada em face do modus operandi empregado na prática do delito.
+Quanto à alegada desproporcionalidade da prisão cautelar, "trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade)" (AgRg no RHC 144.385/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/4/2021, DJe 19/4/2021).
+De outro lado, q uanto ao fundamento de ausência de contemporaneidade, verifica-se que:
+Nos termos da jurisprudência da Suprema Corte, a "contemporaneidade diz com os motivos ensejadores da prisão preventiva e não o momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal" (STF, HC n. 185.893 AgR, relatora Ministra ROSA WEBER, PRIMEIRA TURMA, julgado em 19/4/2021, DJe 26/4/2021), o que restou demonstrado na presente hipótese. (AgRg no RHC n. 189.060/MT, Relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024).
+No caso ora examinado, a co ntemporaneidade da prisão preventiva refere-se aos motivos que a fundamentam, não ao momento da prática delitiva. Portanto, o decurso do tempo é irrelevante se os motivos que justificam a custódia cautelar ainda persistem.
+Por fim, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual, se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
