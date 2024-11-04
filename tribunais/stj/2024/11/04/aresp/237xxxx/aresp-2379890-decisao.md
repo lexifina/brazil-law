@@ -1,0 +1,99 @@
+DECISÃO
+Trata-se de Agravo apresentado por Instituto Nacional do Seguro Social - INSS (fls. 370-393, e-STJ) contra decisão que não admitiu seu Recurso Especial (fl. 365-366, e-STJ).
+O apelo nobre obstado, fundamentado no artigo 105, inciso III, alínea a, da Constituição Federal de 1988, enfrenta acórdão do Tribunal de Justiça do Estado de São Paulo (TJ/SP), assim ementado (fl. 283, e-STJ):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. ACIDENTÁRIA - APELAÇÃO EM EMBARGOS À EXECUÇÃO  DESERÇÃO AFASTADA PELO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA DETERMINANDO A APRECIAÇÃO DO RECURSO. COMPENSAÇÃO DO AUXÍLIO-SUPLEMENTAR NO PERÍODO EM QUE O OBREIRO PERCEBEU TAMBÉM APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO - INVIABILIDADE FACE A COISA JULGADA  Questão que deveria ter sido alegada na fase de conhecimento, eis que anterior à formação do título - Transitada em julgado a decisão de mérito, consideram-se deduzidas e repelidas todas as defesas que a parte poderia alegar para a rejeição do pedido (art. 474, C.P.C.173, vigente à época).
+EQUIVALÊNCIA SALARIAL - PRETENSÃO DE DESCONSIDERAR A COISA JULGADA INADMISSIBILIDADE - Transitado em julgado o V. Acórdão que determinou a aplicação do art. 58 do Ato das Disposições Constitucionais Transitórias, não é mais possível à modificação do quanto ali constou em respeito à coisa julgada.
+Sentença de improcedência dos embargos à execução mantida  Recurso da autarquia desprovido.
+Embargos de declaração opostos pela Autarquia Federal rejeitados (fls. 308-314, e-STJ).
+Preliminarmente, a parte recorrente alega violação dos arts. 11, 489, inciso II, e parágrafo 1º, IV e 1.022, inciso I e II, do CPC/2015, em razão da negativa de prestação jurisdicional, permanecendo omisso quanto à questão da relativização da coisa julgada.
+Argumenta, que "o acórdão estadual não analisou devidamente as questões controvertidas, houve o devido pré-questionamento da matéria, mediante a oposição de embargos de declaração, nos termos do artigo 1025 do CPC, devendo ser considerados incluídos no acordão todos os elementos suscitados pelo embargante, ora recorrente para fins de pré-questionamento, assim sendo" (fl. 323, e-STJ).
+Quanto às questões de fundo sustenta: (a) inexistência da preclusão e da coisa julgada, ao argumento de que não existe coisa julgada acerca da matéria relativa à cumulação de benefícios, já que nada a esse respeito foi discutido no processo de conhecimento e é inconcebível o conceito de "coisa julgada negativa", aduzindo; (b) violação do art. 58 do ADCT, pois o título executivo mostra-se inexigível, uma vez que foi elaborado em afronta à Constituição Federal.
+Sustenta:
+ ..  o art. 917 (anterior 741 do CPC/1973), expressamente regula o que é cabível na discussão em embargos à execução, trazendo luz ao que já era conceitualmente evidente:  ..  Ora, o título judicial é inexigível (ou inexequível na atual terminologia) já que o segurado é beneficiário de aposentadoria, restando configurado, outrossim, o excesso de execução, eis que, por expressa vedação legal os benefícios não podem ser recebidos cumulativamente." e que "o aresto estendeu ilegalmente os efeitos da coisa julgada à decisão que não analisou o mérito, afrontando o artigo 502 da lei processual, verbis:  ..  Os artigos 884 a 885 do Código Civil, por sua vez, dispõem sobre o enriquecimento sem causa, sendo o pagamento indevido - conforme disciplinado pelo artigo 876 - espécie daquele gênero, como ensina SILVIO RODRIGUES, citado 14" por FLAVIO TARTUCE: o enriquecimento sem causa é gênero, do qual o Pagamento indevido é espécie.
+ ..
+Não é por outra razão que o art. 917, inciso I do Código de Processo Civil atual (antigo 741, II do anterior diploma processual) prevê que é factível alegar-se a inexigibilidade do título, razão pela qual o INSS tem o direito de pugnar contra o enriquecimento sem causa ocasionado pelo cômputo da ilegal cumulação.
+Por tais razões, entende o INSS não existir fundamento a embasar a tese de preclusão imposta pelo r. acórdão, pois tal entendimento acarreta enriquecimento sem causa da parte, a qual foi autorizada a executar valores que são inacumuláveis. (fls. 323 -327, e-STJ).
+Ao determinar a utilização da equivalência salarial, tem-se que o título foi elaborado em desrespeito a Carta Constitucional e seu conteúdo é inconstitucional e nunca poderia ter sido prolatado em desrespeito gritante aos artigos 7% inciso IX, da Constituição Federal e artigo 58 do ADCT, padecendo, portanto, de vício insanável.
+Quando a impossibilidade de vinculação e utilização do salário mínimo para qualquer fim, o Supremo Tribunal Federal editou a súmula vinculante 04: "Salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial. "
+Como se vê, a questão ficou pacificada no âmbito nacional, sobre a impossibilidade de utilização do salário mínimo como fator de indexação e correção para qualquer fim, não restando qualquer dúvida a ser questionada.
+Ademais, o artigo 58 do ADCT, teve sua vigência até a edição do plano de custeio e benefícios, fato não observado na sentença, caracterizando novamente a inconstitucionalidade de sua fundamentação e dispositivo.
+Em síntese, quanto a este tópico, O TÍTULO EXECUTIVO MOSTRA-SE INEXIGÍVEL, uma vez que foi elaborado em afronta à Constituição Federal.
+ ..
+Outrossim, tal revisão do instituto da coisa julgada projetou seus reflexos nas recentes reformas processuais.
+O artigo 741, II, do CPC/1973, estabelecia que na execução contra a Fazenda Pública os embargos poderão versar, entre outros temas, sobre a inexigibilidade do título.
+Já o parágrafo único do artigo 741 do Código de Processo Civil, inserido pela Medida Provisória nº 2.180-35/01 assim dispunha:
+ ..
+Esse preceito, em essência, foi mantido pela Lei nº 11.232, de 22 de dezembro de 2005, que deu a seguinte redação ao mesmo dispositivo:
+ ..
+Cabe citar ainda que referido diploma legal inseriu no CPC o artigo 475-L, cujo §1º tem a seguinte redação:
+ ..
+De fato, estabelece o 45º do art. 535 do Código de Processo Civil (parágrafo único do artigo 741 do CPC/73):
+ ..
+De fato, estabelece o 45º do art. 535 do Código de Processo Civil (parágrafo único do artigo 741 do CPC/73):
+ ..
+Conclui-se, aqui, que o título judicial fundado em tema julgado inconstitucional é inexequível, restando configurado, assim, o excesso de execução.
+Sem contrarrazões (fl. 361, e-STJ).
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista (Enunciado Administrativo n. 3, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+A decisão de inadmissão do apelo nobre foi devidamente impugnada. Passa-se ao exame do recurso especial.
+Quanto à alegada omissão e negativa da prestação jurisdicional, incide a Súmula n. 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), tendo em vista que a parte recorrente aponta, genericamente, omissão quanto à apreciação de dispositivo(s) de lei federal com base nos arts. 489 e 1.022 do CPC, sem, contudo, demonstrar especificamente sua relevância para o julgamento do feito.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.  .. .
+1. Em relação à tese de violação dos arts. 489 e 1.022 do CPC, a parte recorrente, no capítulo específico que contém o arrazoado pertinente (fls. 2567-2569, e-STJ), se limitou a afirmar que o acórdão do Tribunal de origem "omitiu-se ao não enfrentar os fundamentos legais (artigos 356, 502, 507, 523 e § 1º do artigo 1.013 do CPC)". O recorrente não descreveu, contudo, a relevância da análise de tais dispositivos para o julgamento do feito. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+ ..
+9. Recurso Especial não conhecido. (REsp n. 1.825.179/SC, rel. Min. Herman Benjamin, Segunda Turma, DJe de 25/5/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. ARGUMENTAÇÃO GENÉRICA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF.  ..
+1. Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022, II, do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso. Aplica-se, na espécie, o óbice da Súmula 284 do STF.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.528.012/MT, rel. Min. Sérgio Kukina, Primeira Turma, DJe de 27/6/2024.
+No que toca à suposta violação dos artigos 502 e 917, I e III e IV e § 2º do Código de Processo Civil, e artigo 884 do Código Civil, da análise do acórdão recorrido, quanto em confronto com as razões recursais, revela que as questões debatidas no recurso especial não foram abordadas pelo Tribunal de origem à luz do dispositivo legal federal reputado malferido, citado acima, em que pese a interposição de embargos declaratórios visando suprir eventuais omissões existentes na decisão impugnada. Ressalte-se que a referida tese sequer foi devolvida nas razões de apelação, vindo nos embargos de declaração inovar a tese de defesa.
+A admissão do recurso especial pressupõe o prequestionamento da matéria insculpida nos dispositivos legais alegadamente violados, ou seja, exige que a tese recursal tenha sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em via de embargos de declaração, o que não ocorreu no caso em tela.
+Conforme entendimento desta Corte Superior, "para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como que tenha sido exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto, o que não ocorreu. Ante a ausência desse requisito, incide na espécie a Súmula 211/STJ" e 282/STF. (AgInt no AREsp n. 2.407.628/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 6/5/2024.)
+Além do mais, ainda que se pudesse ultrapassar o óbice do prequestionamento, na espécie, o apelo nobre não merece conhecimento, pois embora o recorrente mencione artigos de lei federal e da Constituição Federal, contudo, não alega violação de modo particularizado, relacionando-os ao caso concreto, deixando de exprimir, com transparência e objetividade, os motivos pelos quais se insurge.
+Vale pontuar que, na via estreita do recurso especial, é exigível a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação de dispositivos infraconstitucionais tidos como contrariados ou a alegação genérica de ofensa a lei caracterizam deficiência de fundamentação, em conformidade com a Súmula n 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Não basta, para tanto, a menção en passant a leis federais, tampouco a exposição do tratamento jurídico da matéria que o recorrente entende correto, como se estivesse a redigir uma apelação. (AgRg no AREsp 583.401/RJ, rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 25/3/2015)
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO PRECISA DOS DISPOSITIVOS DE LEI FEDERAL VIOLADOS. SÚMULA 284 DO STF. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA.
+ ..
+2. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. O inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+3. "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto." (AgInt no REsp 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/6/2018).
+4. Agravo Interno não conhecido. (AgInt no AREsp 1.773.664/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe 6/4/2021; grifei).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA 284/STF. INCIDÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. PROVAS. REEXAME. IMPOSSIBILIDADE.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+ ..
+4. Agravo regimental a que se nega provimento (AgRg no AREsp 732.546/MA, rel. Min. Og Fernandes, Segunda Turma, DJe de 12/11/2015).
+Lado outro, o acórdão recorrido está fundamentado nos seguintes termos:
+Dito isso, impossível determinar-se a compensação do auxílio-suplementar no período em que foi deferida aposentadoria por tempo de contribuição ao obreiro (02.08.1995 a 02.11.2003  fls. 12).
+Isso porque, tal questão já era de conhecimento da Fazenda na fase de conhecimento, de modo que deveria tê-la arguido e discutido naquela fase do processo.
+Se não o fez, não pode fazê-lo agora, pois, além de operada a preclusão, há o trânsito em julgado da sentença.
+Bem por isso, o Código de Processo Civil de 1973 (vigente à época), em seu artigo 474, expressamente, consignava que "Passada em julgado a sentença de mérito, reputar-se-ão deduzidas e repelidas todas as alegações e defesas, que aparte poderia opor assim ao acolhimento como à rejeição do pedido".
+Desse modo, após o trânsito em julgado, não pode a executada revolver questão que deveria ter alegado (e comprovado) na fase de conhecimento.
+A roborar essa assertiva, o artigo 741, VI, do C.P.C/73, preconizava que a Fazenda poderá, em cumprimento de sentença, arguir "qualquer á causa impeditiva, modificativa ou extintiva da obrigação, como pagamento, novação, compensação, transação ou prescrição, desde que superveniente à sentença" (destaque no original).
+A contrário senso, não se admite, na fase de cumprimento de sentença, que se alegue causa impeditiva do pagamento por fato anterior ao trânsito em julgado.
+ ..
+Ressalte-se que a coisa julgada na qualidade de garantia fundamental (artigo 5% inciso XXXVI, C.F.) e predicado da segurança jurídica, erigida constitucionalmente a cláusula pétrea (artigo 60, § - 4% IV, C.F.) merece absoluto prestígio, impedindo a análise de questões que deveriam ter sido discutidas o mas, ante a inércia da parte, não o foram.
+Portanto, vedada a análise, nessa fase processual, de eventual impossibilidade de cumulação de benefícios. De outra parte, melhor sorte não socorre, também, o INSS quanto à inaplicabilidade da equivalência salarial, pois conforme v. acórdão foi dado parcial coco provimento ao recurso do autor - fls. 115/120, consignando às fls. 120:
+ ..
+De outra parte, melhor sorte não socorre, também, o INSS quanto à inaplicabilidade da equivalência salarial, pois conforme v. acórdão foi dado parcial coco provimento ao recurso do autor - fls. 115/120, consignando às fls. 120:
+ ..
+Depois disso, preferiu se conformar o INSS com o resultado, permitindo, assim, o trânsito em julgado da decisão colegiada.(grifo no original)
+ ..
+Em suma, inadmissível na fase executiva pretender questionar o que ficou assentado pela coisa julgada, sob pena de que o processo não mais tenha prazo para encerramento.
+Nesse contexto, cotejando-se o que foi decidido pela Corte de origem, excertos em destaque, verifica-se que nas razões do recurso especial, tal fundamentação não foi objetivamente impugnada, remanescendo incólume o entendimento expendido, a incidir os óbices das Súmulas 284 e 283 do STF, diante da deficiência insanável das razões recursais.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CPC/2015. APLICABILIDADE.  .. . AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF.  ..
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+ ..
+V - São deficientes os argumentos do recurso especial que apresentam razões recursais dissociadas, incapazes de infirmar os fundamentos do julgado impugnado. Aplicação, por analogia, das Súmulas n. 283 e 284 do STF.
+ ..
+IX - Agravo Interno improvido.
+(AgInt no REsp n. 2.148.558/SP, rel. Min. Regina Helena Costa, Primeira Turma, DJe de 19/9/2024.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.  ..  FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULAS Nº 284 E 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem manteve a pena de exclusão a bem da disciplina aplicada ao agravante com base nos seguintes fundamentos: (i) referida sanção seria mais adequada, especialmente ante a gravidade dos fatos praticados, em que pese o histórico funcional do militar; (ii) o agravante, a pretexto de suposta nulidade, pretendia a revisão do mérito da decisão tomada no processo administrativo, o que é vedado ao Poder Judiciário; (iii) a tese suscitada pelo apelante de que a exclusão em epígrafe ofendeu os princípios da proporcionalidade e razoabilidade contraria o entendimento do Supremo Tribunal Federal (STF), segundo o qual os aludidos princípios não são passíveis de invocação para se alcançar a substituição, por outra menos  ..
+Logo, aplica-se, por analogia, o óbice previsto na Súmula nº 284: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". De igual forma, incide o enunciado previsto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+ ..
+(AgInt no AgInt no AREsp n. 2.437.272/RS, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 4/9/2024.)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. CUMPRIMENTO DE SENTENÇA. EMBARGOS À EXECUÇÃO. AUXÍLIO SUPLEMENTAR. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284/STF. ARTS. 502 E 917 DO CPC E ART. 884 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. AUSÊNCIA DE INDICAÇÃO PRECISA DOS DISPOSITIVOS DE LEI FEDERAL VIOLADOS. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SÚMULAS 283 E 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
