@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto pela COMPANHIA DE SANEAMENTO DO PARANÁ - SANEPAR contra a decisão do TRIBUNAL DE JUTSIÇA DO ESTADO DO PARANÁ que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas a, da Constituição da República, dirigido a acórdão prolatado na Apelação n. 0000576-37.2011.8.16.0179.
+A agravada ajuizou ação de cobrança, c.c. ressarcimento de danos em desfavor da agravante, objetivando o cumprimento de contrato de prestação de serviços de recursos computacionais e tecnologia da informação celebrado entre as partes, bem como indenização pelos danos decorrentes do descumprimento da avença. O Juízo de primeiro grau julgou improcedente o pedido. O Tribunal de origem deu parcial provimento ao recurso de apelação, em acórdão assim ementado (fl. 1535):
+APELAÇÃO CÍVEL. INDENIZATÓRIA. CONTRATO DE SOFTWARE. 1. SUFICIÊNCIA DA PROVA PERICIAL. NÃO VERIFICADO CERCEAMENTO DE DEFESA. 2. LAUDO QUE CONCLUIU PELA UTILIZAÇÃO DOS PROGRAMAS POR PERÍODO SUPERIOR AO TÉRMINO DO CONTRATO. INDENIZAÇÃO DEVIDA, EM VALOR PROPORCIONAL AO MONTANTE TOTAL PREVISTO NO CONTRATO. SENTENÇA REFORMADA. RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos declaratórios por ambas as partes, foram rejeitados pelos acórdãos prolatados às fls. 1583-1586 e 1633-1636.
+No recurso especial, indicou a parte agravante ofensa pelo Colegiado de origem aos arts. 186 do Código Civil, 371, 373 e 479 do CPC/2015, sustentando ter ocorrido a indevida valoração das provas existentes nos autos e a inexistência do dever de indenizar.
+Oferecidas contrarrazões (fls. 1691-1702), inadmitiu-se o recurso na origem (fls. 1710-1711), advindo o presente agravo (fls. 1724-1748), contraminutado às fls. 1768-1776.
+É o relatório. Decido.
+Com o par cial provimento do recurso especial interposto pela parte ora agravada (fls. 1785-1799), tendo sido anulado o julgamento dos embargos de declaração e determinado o retorno dos autos à origem para o reexame de questões relevantes ao deslinde da controvérsia, fica prejudicada a apreciação do presente recurso, ante a necessidade de esgotamento das vias ordinárias, ficando ressalvada a possibilidade de serem objeto de nova insurgência, após o novo julgamento dos declaratórios pelo Tribunal de origem, caso persista interesse da parte recorrente nesse sentido.
+Ante o exposto, julgo PREJUDICADO o agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO DE COBRANÇA, C.C. RESSARCIMENTO DE DANOS. DETERMINADO O RETORNO DOS AUTOS À ORIGEM PARA A REAPRECIAÇÃO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS PELA PARTE CONTRÁRIA. RECURSO PREJUDICADO.
