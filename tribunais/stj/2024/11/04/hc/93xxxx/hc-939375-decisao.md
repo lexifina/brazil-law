@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus, sem pedido de liminar, impetrado em favor de LEONARDO SILVA FORGIARINE e JEFERSON SERPA DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO na Apelação Criminal n. 0805706-87.2023.8.19.0011 .
+Consta dos autos que os pacientes foram condenados às penas de 07 (sete) anos, 11 (onze) meses e 08 (oito) dias de reclusão, em regime inicial fechado, e 793 (setecentos e noventa e três) dias-multa, pela prática do delito previsto no art. 33, caput, c/c o art. 40, VI, ambos da Lei n. 11.343/2006, devido à apreensão de 191,30g de Cannabis Sativa L e 142,40g de cocaína.
+Em segunda instância, o Tribunal deu parcial provimento ao apelo defensivo a fim de afastar a valoração negativa do vetor consequências do crime em relação aos dois apelantes e reconhecer a atenuante da confissão somente em relação ao réu LEONARDO SILVA FORGIARINE, cuja pena definitiva foi corrigida para 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, e 680 (seiscentos e oitenta) dias-multa.
+A impetrante sustenta a ocorrência de constrangimento ilegal, porquanto a quantidade de droga apreendida não justifica o aumento da pena-base.
+Requer a concessão da ordem para que a pena dos pacientes sejam redimensionadas nos termos delineados na impetração.
+Foram prestadas informações às fls. 136-172 e 173-177.
+O Ministério Público Federal manifestou-se às fls. 179-183, opinando pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem.
+É o relatório.
+DECIDO.
+Inicialmente,  pontuo  que  esta  Corte  Superior,  seguindo  o  entendimento  do  Supremo  Tribunal  Federal  (AgRg  no  HC  n.  180.365,  Primeira  Turma,  rel.  Min.  Rosa  Weber,  julgado  em  27/03/2020,  e  AgRg  no  HC  n.  147.210,  Segunda  Turma,  rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018),  pacificou  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado  (HC  n.  535.063/SP,  Terceira  Seção,  rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, isso porque, de acordo com o entendimento consolidado do Superior Tribunal de Justiça, a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade (AgRg no HC 710.060/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021).
+Por fim,  a  quantidade e a natureza da droga apreendida constituem fundamentos aptos a ensejar a exasperação da pena-base, por demonstrar maior reprovabilidade da conduta (AgRg no AREsp n. 674.735/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 13/12/2016, DJe de 19/12/2016).
+Ante o exposto, não conheço do pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
