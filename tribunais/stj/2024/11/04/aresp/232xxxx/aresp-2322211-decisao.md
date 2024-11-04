@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por MÉTODO ENGENHARIA LTDA (EM RECUPERAÇÃO JUDICIAL) em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE/INAPLICABILIDADE DE MULTA CONTRATUAL. ATRASO NA ENTREGA DE DOCUMENTAÇÃO REFERENTE AO CONTEÚDO LOCAL. PEDIDO SUBSIDIÁRIO DE REDUÇÃO, COM BASE NO ARTIGO 413, CC. SENTENÇA DE IMPROCEDENCIA. HONORARIOS FIXADOS COM FULCRO NO ARTIGO 85, § 8º, CPC. INSURGENCIA DE AMBAS AS PARTES. PARA INCIDÊNCIA DA MULTA PREVISTA NO CONTRATO, BASTA RESTAR CARACTERIZADO ATRASO. DEMORA CONFESSADA. PORTANTO, HOUVE UMA INFRAÇÃO A UMA OBRIGAÇÃO CONTRATUAL, PASSÍVEL DE SANÇÃO. ALEGAÇÃO DE IMPOSSIBILIDADE TEMPORARIA DE ENTREGA DOS CERTIFICADOS EM RAZÃO DE CONDIÇÕES ADVERSAS IMPUTADAS À RÉ, QUE TERIAM ACARRETADO DESEQUILÍBRIO ECONÔMICO, QUE NÃO SOCORRE À DEMANDANTE. CONTRATO ADMINISTRATIVO. CONTRATADA QUE NÃO IMPUGNOU AS CLAUSULAS NO MOMENTO OPORTUNO. AUSÊNCIA DE DEMONSTRAÇÃO DE QUE OS PROBLEMAS FINANCEIROS TERIAM DECORRIDO DIRETAMENTE DA CONDUTA IMPUTADA À PETROBRÁS, OBRIGANDO-A A SUSPENDER OS PAGAMENTO DA EMPRESA CONTRATADA PARA EMISSÃO DOS DOCUMENTOS COMPROBATÓRIOS DE CONTEÚDO LOCAL. ATRASO INJUSTIFICADO. PLEITO SUBSIDIÁRIO DE REDUÇÃO DA PENALIDADE IMPOSTA QUE SE ACOLHE. INTELIGÊNCIA DO ARTIGO 413, CC. OBRIGAÇÃO PRINCIPAL CUMPRIDA EM MAIOR PARTE. ÔNUS DA SUCUMBÊNCIA MANTIDA. HONORÁRIOS FIXADOS DE FORMA EQUITATIVA. REFORMA. O § 8º TEM APLICAÇÃO SUBSIDIÁRIA, APENAS QUANDO CARACTERIZADAS QUAISQUER DAS HIPÓTESE ALI PREVISTAS, O QUE NÃO OCORRE. APLICAÇÃO DO ARTIGO 85, § 2º, CPC. HONORÁRIOS ARBITRADOS EM 10% SOBRE O VALOR DO PROVEITO ECONÔMICO OBTIDO. PROVIMENTO DO PRIMEIRO APELO E PARCIAL PROVIMENTO DO SEGUNDO RECURSO." (fls. 1952/1953)
+A recorrente aponta ofensa aos arts. 86 e 489, § 1º, II, do CPC/15.
+Postula a redistribuição dos ônus de sucumbência, pois obteve êxito substancial da sua pretensão. Explica que "a Corte Fluminense entendeu que a ora recorrente incorreu na figura de maior sucumbente (artigo 86, Parágrafo único do Código de Processo Civil), em que pese tenha obtido êxito total no que tange ao integral acolhimento de seu pedido subsidiário para redução substancial da penalidade contratual por conta da aplicação (cogente) do artigo 413 do Código de Processo Civil, resultado que corresponde a 40% de seu pedido principal" (fl. 2036).
+Contrarrazões às fls. 2076/2084.
+É o relatório.
+Embora sucinto, o eg. TJRJ justificou a manutenção da distribuição da sucumbência, nestes termos:
+"Destarte, observa-se que a obrigação principal foi cumprida em maior parte, fato ensejador da redução da penalidade, consoante norma cogente, o que se faz para R$ 3.659.527,61 (60% do valor cobrado, cf fls. 781).
+O acolhimento parcial do recurso, contudo, não enseja qualquer modificação no ônus da sucumbência, pois representa sucumbência mínima do réu." (fl. 1965)
+Não há, portanto, omissão no julgado de 2º grau.
+A respeito da questão de fundo, a jurisprudência do STJ já fixou o entendimento de que não cabe recurso especial para rever em quanto cada uma das partes restou vencida ou vencedora na demanda, pois isso implicaria juízo de fato incompatível com o recurso constitucional. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. PROCESSO CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. FALECIMENTO. DANOS MORAIS. INDENIZAÇÃO. VALOR. ÔNUS DE SUCUMBÊNCIA. REDISTRIBUIÇÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias para a indenização por danos morais apenas quando irrisório ou abusivo.
+2. No caso, a indenização foi arbitrada no valor de R$ 40.000,00 (quarenta mil reais), considerando que houve o falecimento da cônjuge e mãe dos autores, não se mostrando irrisória nem abusiva.
+Precedentes.
+3. A jurisprudência desta Corte é firme no sentido de que, no âmbito do recurso especial, a revisão do grau de sucumbência em que autor e réu saíram vencidos na demanda implica análise do conteúdo fático-probatório dos autos, que atrai a incidência da Súmula nº 7/STJ. Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.009.671/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado da recorrida em 1% sobre o proveito econômico obtido.
+Publique-se.
+EMENTA
