@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JONATAS SOUZA ALVES DOS SANTOS, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (apelação criminal n. 1.0000.23.243780-6/001).
+Consta dos autos que o paciente foi condenado às penas do artigo 33, caput, c/c o art. 40, III, todos da Lei n. 11.343/06, c/c o artigo 61, I, do Código Penal.
+A condenação transitou em julgado no dia 22/3/2024, conforme consulta ao feito de origem.
+No presente writ, o impetrante sustenta a ocorrência de constrangimento ilegal, consubstanciado na nulidade, "pois na busca das provas que fundamentaram a condenação do Sr. Jonatas, não foram respeitados seus direitos básicos nem sua dignidade da pessoa humana" (fl. 2).
+Alega que "Resta comprovado que os agentes de segurança chegaram ao ponto de constrangerem os internos conduzindo-os até o banheiro, além de permanecerem olhando os internos até mesmo evacuando com o objetivo de investigar suas fezes sem que houvesse o mínimo de prova de que estariam com as referidas substâncias" (fl. 6).
+Invoca a falta de provas da autoria, assim como a necessidade de desclassificação do delito.
+Requer, inclusive liminarmente, a ordem "revogando sua prisão, devendo ser expedido de forma imediata o competente alvará de, como medida de inteira JUSTIÇA!.. Ou caso não seja este o entendimento de Vossa Excelência, seja deferida outra medida cautelar diversa da prisão, conforme artigo 282, e 319 ambos do CPP, como medida de inteira JUSTIÇA.. Por fim, requer o reconhecimento da nulidade das provas colhidas sem o respeito a dignidade da pessoa humana e ao processo penal, devendo o Paciente ser absolvido da acusação;.. Caso não seja acolhida a tese de nulidade das provas, requer o acolhimento da ausência de comprovação da destinação das substância, devendo ser desclassificada a conduta para o tipo penal descrito no art. 28 da Lei de Drogas" (fls. 13-14).
+Decisão declinatória de competência do STF (fls. 148-150).
+É o relatório. DECIDO.
+A controvérsia consiste em se debater a nulidade, as provas da autoria e a necessidade de desclassificação da tipificação do delito, contudo, após a condenação ter transitado em julgado.
+Contudo, a matéria aqui posta, inclusive em face do mesmo ato coator, já foi objeto de análise neste STJ em seu mérito, em 15/10/2024, no feito conexo, o HC n. 952.926/MG, que teve a sua ordem não conhecida, in verbis:
+ ..  Conforme consta, a defesa busca debater nulidade, provas da autoria e a necessidade de desclassificação da tipificação do delito, contudo, após a condenação ter transitado em julgado.
+Ora, o presente habeas corpus se volta contra um julgado transitado, imutável, enquanto abarcado pelo preceito constitucional da coisa julgada, o que ensejaria, em tese, a ação de revisão criminal.
+Das razões expostas, contudo, o que se verifica é que sequer se enquadrariam nos parâmetros da revisão criminal, por ausência de seus pressupostos, quais sejam, os requisitos do art. 621, incisos, do Código de Processo Penal:
+ ..
+Nenhuma das hipóteses acima foi efetivamente debatida nestes autos e, ainda sequer uma eventual modificação de entendimento jurisprudencial posterior, em regra, poderia ensejar a revisão do julgado:
+ ..
+Desta feita, como preceito geral, o trânsito da decisão condenatória impede a impetração de habeas corpus ou a interposição de recurso ordinário perante esta Corte, porquanto a competência do Superior Tribunal de Justiça, prevista no art. 105, I, "e", da Constituição Federal, restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+De qualquer forma, esta Corte Superior tem posicionamento firme no sentido de impossibilidade de se buscar a revisão criminal por meio de um simples writ.
+Ilustrativamente:
+ ..
+No mesmo sentido: AgRg no HC n. 624.566/SC, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022.
+Acerca da preclusão da matéria, já conhecida pela defesa quando do processo principal, esta Corte Superior entende, sob o prisma do princípio da lealdade processual e do respeito à coisa julgada (segurança jurídica), que mesmo se tratando de alegada nulidade absoluta, o habeas corpus não pode ser utilizado como uma segunda apelação criminal, como deseja a defesa neste feito.
+Nesse sentido:
+ ..
+No mesmo compasso: AgRg nos EDcl no HC 705.154/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 10/12/2021.
+No caso concreto, ao cotejar as alegações vertidas na exordial, não se divisa a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial sanável pela via eleita.
+Apesar de a defesa alegar nulidade, provas da autoria e a necessidade de desclassificação da tipificação do delito, fato é que houve a condenação com amparo em provas de autoria e materialidade amplamente debatidas nos autos principais, os quais, repita-se, já transitaram em julgado.
+Impossível, assim, o revolvimento do contexto probatório original, de maneira a se afastar a condenação imposta, ante a ausência de constatação de flagrante ilegalidade prima facie, pois é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus, ou do seu recurso ordinário, para a análise de teses que demandem ampla incursão no acervo fático-probatório dos autos (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Desta forma, o pedido não comporta guarida sob nenhuma vertente.
+Ante o exposto, não conheço do habeas corpus.
+Diante desse cenário, sobre a impossibilidade de conhecimento de habeas corpus, ou de seu recurso ordinário, quando configurada a reiteração de pedidos, o seguinte julgado deste STJ:
+No presente caso, não constatada nenhuma flagrante ilegalidade, tem-se que o presente recurso ordinário em habeas corpus não passou de mera reiteração de pedidos no HC n. 719.739/GO, inclusive, impetrado com os mesmos argumentos em geral e em face do mesmo v. acórdão de origem (HC n. 5449889-09.2021.8.09.0000). Assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017) (AgRg no RHC n. 161.259/GO, Quinta Turma, de minha relatoria, DJe de 14/3/2023).
+Corroborando: AgRg no HC 478.216/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 19/2/2019; AgRg no RHC 106.171/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 1º/3/2019; e AgRg no AREsp n. 2.355.597/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023.
+Trata-se de hipótese, inclusive, que ocorre quando a reiteração é realizada contra acórdãos diferentes ou em tipos de recursos e ações diversos:
+- Caso de acórdãos diferentes em recursos ordinários:
+O decisum combatido permite verificar que, no julgamento RHC n. 137.914/MS, este órgão colegiado não se limitou a analisar a legalidade do decreto preventivo, pois apreciou decisões proferidas posteriormente, que mantiveram a custódia cautelar do recorrente, a última datada de 16/8/2021. Na mesma oportunidade, a Sexta Turma examinou petição protocolada pela defesa após a interposição do recurso ordinário, na qual alegava que ocorreram fatos novos no decorrer da instrução, que reputa demonstrarem a desnecessidade de sua custódia cautelar, enumerando-os. Tais eventos são os mesmos indicados neste recurso ordinário, circunstância que evidencia a mera reiteração de pedidos (AgRg no RHC n. 156.181/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 24/2/2022).
+- Caso de recurso ou ação diversos:
+Dessarte, "O fato de a defesa haver buscado, por dois meios distintos - habeas corpus autônomo (já conhecido e denegado, repita-se) e posterior recurso especial - obter manifestação desta Corte Superior sobre a mesma tese, evidencia abuso do direito de litigar, o que acarreta um desnecessário gasto de recursos humanos e uma odiosa perda de tempo do órgão judicante, que já se vê sobrecarregado pela grande quantidade de feitos distribuídos e julgados diariamente." (AgRg no REsp n. 2.025.772/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/4/2023, DJe de 26/4/2023) (EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.249.797/SE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/6/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
