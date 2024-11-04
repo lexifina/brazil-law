@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial por ausência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 70/72).
+O acórdão recorrido está assim ementado (e-STJ fl. 21):
+AGRAVO DE INSTRUMENTO - Execução - Cédula de Crédito Bancário - Decisão que determinou análise do juízo recuperacional em relação a possibilidade de conversão do bloqueio de valores em penhora. Recurso do exequente. Recurso interposto em 05/10/2023. Nova decisão proferida nos autos da recuperação judicial em 05/11/2023 reconhecendo a competência daquele para decidir a questão, bem como, já houve determinação de liberação dos valores em favor da parte executada nos autos que originaram o presente recurso. Ausência de interesse recursal, pois, o cerne da questão recursal foi decidida por aquele juízo. Recurso não conhecido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 35/40).
+No recurso especial (e-STJ fls. 43/58 ), fundamentado no art. 105, III, "a", da CF, a parte recorrente apontou ofensa ao art. 1.022, II, do CPC/2015.
+Suscitou a existência de omissão, pois o Tribunal de origem teria deixado de apreciar matéria imprescindível ao deslinde da controvérsia, relativamente à alegação de que "nos termos do art. 6.º, § 7.º-A, da Lei n. 11.101/2005, é competente o juízo da Recuperação Judicial para decidir acerca de atos constritivos, em se tratando de créditos não sujeitos aos efeitos da Recuperação Judicial, apenas e tão somente quando se busca a constrição de bens de capital essenciais à manutenção da atividade empresarial e, o dinheiro, não se enquadra nessa modalidade" (e-STJ fl. 50).
+Alegou, ainda, violação dos arts. 6º, II, §7º-A e 49, §3º, da Lei n. 11.101/2005.
+Sustentou, em síntese, que o crédito exequendo nos autos de origem não se sujeita aos efeitos da Recuperação Judicial da Recorrida, já que garantido por cessão fiduciária de direitos creditórios - nos termos do art. 49, § 3.º, da Lei n. 11.101/2005 -, bem como que dinheiro não se quadra no conceito de bem de capital essencial, de modo que seria despicienda a análise do d. Juízo da Recuperação Judicial acerca da essencialidade dos valores localizados em nome da empresa.
+Foram apresentadas contrarrazões (e-STJ fls. 64/69).
+No agravo (e-STJ fls. 75/92), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (e-STJ fls. 95/99).
+Juízo negativo de retratação (e-STJ fl. 109).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Inicialmente, descabe falar em ofensa ao art. 1.022, II do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há os vícios apontados quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 24/25):
+ ..  Note-se que o cerne do recurso era discutir a decisão que determinou apreciação do Juízo da Recuperação Judicial em relação a possibilidade de conversão do bloqueio de valores efetuado nos autos em penhora.
+O recurso foi interposto em 05/10/2023 e a nova decisão se deu em 08/11/2023.
+Na decisão proferida pela 2ª Vara de Falências e Recuperação Judicial de Curitiba ficou estabelecida a competência daquele juízo para a análise das retenções impostas por Juízos diversos, inclusive em relação aos autos nº 1099707-12.2023.8.26.0100, que deu origem ao presente recurso. Confira-se (fls. 208 dos autos originais):
+"Estabelecida a competência deste Juízo para a análise das retenções impostas por Juízos diversos, há que se analisar a efetiva essencialidade dos valores bloqueados das contas da Recuperanda nos autos sob n. 1099707- 12.2023.8.26.0100 para a manutenção das atividades da empresa.
+A essencialidade dos valores bloqueados para a manutenção das atividades da empresa é inegável e indiscutível, uma vez que a Recuperanda, conforme demonstram os prejuízos recorrentes apontados nas análises de mov. 818, não possui receitas suficientes para o pagamento das mercadorias e dos seus colaboradores, sendo este um dos motivos, inclusive, para o processamento desta Recuperação Judicial.
+Mantendo-se os bloqueios nas contas da Recuperanda, é certo que os funcionários não serão pagos, inviabilizado assim a continuidade das atividades da empresa.
+Outrossim, não se pode deixar de observar que o levantamento de tais valores pelo credor retirará a igualdade de tratamento obrigatoriamente prevista na LFRJ, uma vez que a maior parte do crédito executado se sujeita aos efeitos desta Recuperação Judicial.
+Isto posto, declaro a essencialidade dos valores penhorados nos autos de Execução de Título Extrajudicial sob n. 1099707- 12.2023.8.26.0100, para a continuidade das atividades da Recuperanda. Oficie-se o Juízo da 1ª Vara Cível de São Paulo, autos de Execução de Título Extrajudicial sob n. 1099707- 12.2023.8.26.0100, informando sobre esta decisão e solicitando a imediata liberação dos valores penhorados diretamente para a Recuperanda."
+Repisa-se que o presente recurso foi interposto em 05/10/2023 e a decisão supracitada se deu em 08/11/2023.
+Se não bastasse, a decisão de fls. 210 dos autos originais, já determinou a devolução do valor em favor da executada, acatando a ordem do juízo da recuperação judicial.
+Isto posto, diante da ausência de interesse recursal, uma vez que a questão foi decidida por aquele juízo, é o caso de não conhecimento do recurso por perda do objeto. (grifo nosso)
+Nesse contexto, verifica-se que o conteúdo normativo dos arts. 6º, II, §7º-A e 49, §3º, da Lei n. 11.101/2005, tidos por violados, não foi objeto de apreciação pelo Tribunal de origem. Inafastável a Súmula n. 211 do STJ. Ressalte-se que não há falar em contradição por se afastar a alegada violação do art. 1.022 do CPC e, ao mesmo tempo, não conhecer do recurso por ausência de prequestionamento, porquanto é perfeitamente possível o julgado encontrar-se devidamente fundamentado sem, no entanto, ter decidido a questão à luz dos preceitos jurídicos suscitados pela parte. Confira-se:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. JULGAMENTO ANTECIPADO DA LIDE. IMPROCEDÊNCIA POR AUSÊNCIA DE PROVAS. IMPOSSIBILIDADE. ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. ACÓRDÃO RECORRIDO. OMISSÃO. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME FÁTICO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO NÃO PROVIDO.
+ ..  4. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula n. 211 do STJ.
+5. Conforme jurisprudência desta Corte Superior, não há contradição em afastar a violação do art. 1.022 do CPC/2015 e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja suficientemente fundamentado. Precedentes.  ..  8. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.921.177/CE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Ademais, rever os fundamentos do aresto impugnado e sopesar as razões recursais esbarra no óbice da incidência da Súmula 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
