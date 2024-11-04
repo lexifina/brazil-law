@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial manejado por Catarina Conceição Amaral e outros com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 87):
+PROCESSUAL CIVIL. AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA. MORTE DA PARTE. SUCESSÃO PROCESSUAL. ARTIGOS 1.784 E 2.015 CC/2002. INCI SO II, DO §1º DO ARTIGO 778 DO CPC/15.
+1. Trata-se de Agravo Interno interposto por CATARINA CONCEICAO AMARAL no Evento 18/TRF, tendo por objeto a decisão proferida do Evento 10/TRF, que determinou a suspensão do "feito nos termos do artigo 313, I do CPC, por 90 (noventa) dias, para a juntada de documentos que comprovem a abertura de inventário com a aceitação do cargo de inventariante, a fim de que o espólio possa ser devidamente habilitado.".
+2. A sucessão está disciplinada no artigo 1.784 e seguintes do Código Civil de 2002, sendo indispensável a abertura do inventário ou o procedimento previsto no artigo 2.015 do Código Civil vigente. Quanto ao prosseguimento da execução, tal questão está disciplinada no inciso II, do §1º do artigo 778 do CPC/15. Ressalte-se que a regra contida no art. 1º, da Lei 6.858/80, a dispensar a existência de inventário ou arrolamento, além de tratar de situações específicas, aplica-se somente para a via administrativa.
+3. Importante destacar que a sucessão processual não confere ao Juízo Federal o poder ou a competência de tratar sobre matéria sucessória, cabendo ao juízo orfanológico especificar os beneficiários do crédito por partilha. Aos interessados, cabe habilitar o crédito perante o juízo de órfãos e sucessões competente, no caso de haver inventário judicial aberto, ou valer-se da Lei 11.441/2007, que alterou o Código de Processo Civil, possibilitando a realização de inventário, por via administrativa, nos termos do §1º do artigo 610 do CPC. Até porque a apuração da incidência do ITCD, imposto devido ao Estado por força do artigo 155, I, da CF/88, que incide sobre bens e direitos, faz-se nos autos do inventário, seja judicial ou administrativo.
+4. Agravo Interno conhecido e desprovido.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 1º da Lei n.º 6.858/80 e 666 do CPC. Sustenta, em resumo, que "ao contrário do que fora consignado no acórdão recorrido, o pedido de habilitação dos únicos sucessores de Catarina Conceição do Amaral, independe de inventário e, por isso, merece deferimento na forma da legislação federal vigente  .. " (fls. 98/99).
+Contrarrazões às fls. 131/137.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação merece prosperar.
+Com efeito, destaca-se do acórdão recorrido a seguinte fundamentação (fls. 84/85):
+Conforme relatado, cuida-se de Agravo Interno interposto por CATARINA CONCEICAO AMARAL no Evento 18/TRF, tendo por objeto a decisão proferida do Evento 10/TRF, que restou assim vertida:
+"Indefiro a habilitação requerida no Evento 9, uma vez que o Espólio de CATARINA CONCEICAO AMARAL deve figurar como agravado do presente recurso, nos termos dos artigos 1.784 e seguintes do Código Civil de 2002, que estabelecem ser indispensável a abertura do inventário ou o procedimento previsto no artigo 2.015 do Código Civil.
+Isso posto, suspendo o feito nos termos do artigo 313, I do CPC, por 90 (noventa) dias, para a juntada de documentos que comprovem a abertura de inventário com a aceitação do cargo de inventariante, a fim de que o espólio possa ser devidamente habilitado.
+Intime-se."
+Em suas razões, sustenta a Agravante:
+ ..
+A sucessão está disciplinada no artigo 1.784 e seguintes do Código Civil de 2002, sendo indispensável a abertura do inventário ou o procedimento previsto no artigo 2.015 do Código Civil vigente.
+Quanto ao prosseguimento da execução, tal questão está disciplinada no inciso II, do §1º do artigo 778 do CPC/15, que assim dispõe:
+ ..
+Ressalte-se que a regra contida no art. 1º, da Lei 6.858/80, a dispensar a existência de inventário ou arrolamento, além de tratar de situações específicas, aplica-se somente para a via administrativa.
+Importante destacar que a sucessão processual não confere ao Juízo Federal o poder ou a competência de tratar sobre matéria sucessória, cabendo ao juízo orfanológico especificar os beneficiários do crédito por partilha.
+Aos interessados, cabe habilitar o crédito perante o juízo de órfãos e sucessões competente, no caso de haver inventário judicial aberto, ou valer-se da Lei 11.441/2007, que alterou o Código de Processo Civil, possibilitando a realização de inventário, por via administrativa, nos termos do §1º do artigo 610 do CPC, in verbis:
+ ..
+Até porque a apuração da incidência do ITCD, imposto devido ao Estado por força do artigo 155, I, da CF/88, que incide sobre bens e direitos, faz-se nos autos do inventário, seja judicial ou administrativo.
+Destaque-se, no mesmo sentido, o entendimento adotado por esta Sexta Turma Especializada, quando da apreciação dos julgados, cujas ementas se transcreve a seguir:
+ ..
+Ocorre, todavia, que ao assim decidir, o acórdão recorrido se afastou da orientação jurisprudencial deste Superior Tribunal de que os dependentes previdenciários e, na falta deles, os sucessores do falecido, têm legitimidade para pleitear valores não recebidos em vida pelo de cujus, independentemente de inventário ou arrolamento de bens.
+Confiram-se:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. FALECIMENTO DO TITULAR DO DIREITO NO CURSO DA AÇÃO. HABILITAÇÃO PROCESSUAL DO BENEFICIÁRIO DE PENSÃO POR MORTE. DESNECESSIDADE DE INVENTÁRIO OU ARROLAMENTO DE BENS. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. Na hipótese dos autos, deu-se provimento ao Recurso Especial do Particular ao entendimento de que, ocorrendo o falecimento do autor no curso do processo, seus dependentes previdenciários podem habilitar-se para receber os valores devidos, possuindo preferência os dependentes habilitados à pensão por morte em relação aos demais sucessores do de cujus.
+2. É firme a jurisprudência desta Corte Superior de que os dependentes previdenciários têm legitimidade processual para pleitear valores não recebidos em vida pelo de cujus, independentemente de inventário ou arrolamento de bens. Precedentes: REsp. 1.650.339/RJ, Rel. Min. REGINA HELENA COSTA, DJe 12.11.2018; AgRg no REsp. 726.484/RJ, Rel. Min. ROGERIO SCHIETTI CRUZ, DJe 27.2.2014; AgRg no REsp. 1.260.414/CE, Rel. Min. LAURITA VAZ, DJe 26.3.2013.
+3. Agravo Interno da UNIÃO a que se nega provimento.
+(AgInt no AREsp 820.207/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 14/10/2019, DJe 21/10/2019).
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. PENSÃO POR MORTE DE MILITAR. PERCEPÇÃO DE VALORES NÃO RECEBIDOS EM VIDA. FÉRIAS NÃO GOZADAS. LEGITIMIDADE. DEPENDENTES OU SUCESSORES. PRESCRIÇÃO QUINQUENAL. TERMO INICIAL. DATA DO ÓBITO. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. IMPOSIÇÃO DE MULTA. EXCLUSÃO. PROPÓSITO DE PREQUESTIONAMENTO. SÚMULA 98/STJ.
+1. O STJ já pacificou o entendimento de que os dependentes previdenciários (e na falta deles os sucessores do falecido) têm legitimidade processual para pleitear valores não recebidos em vida pelo de cujus, independentemente de inventário ou arrolamento de bens.
+2. Assim, a autora sendo "beneficiária dos proventos de aposentadoria do falecido, indicada em certidão do órgão previdenciário" (fl. 138, e-STJ), tem legitimidade para postular a indenização referente às férias não gozadas pelo de cujus.
+3. Quanto à questão da prescrição, a Primeira Seção desta Corte Superior, no julgamento do Resp 1.251.993/PR, submetido ao rito do art. 543-C do CPC/73, pacificou o entendimento de que a prescrição quinquenal prevista no art. 1º do Decreto 20.910/32 deve ser aplicada a todo e qualquer direito ou ação contra a Fazenda Pública, seja ela federal, estadual ou municipal, independentemente da natureza da relação jurídica estabelecida entre a Administração Pública e o particular.
+4. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que a prescrição do direito de pleitear indenizações referentes à licença-prêmio e a férias não gozadas tem início com o ato de aposentadoria. 5. In casu, como o servidor faleceu antes de sua aposentadoria, a data do óbito é o marco inicial para a contagem do prazo prescricional, e não a data do ato administrativo. Desse modo, deve ser mantido o acórdão proferido na origem, tendo em vista estar em consonância com a orientação do STJ.
+6. No que se refere à multa estabelecida no art. 1.026 do CPC/2015, o recurso prospera, consoante a orientação contida na Súmula 98/STJ ("Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório").
+7. Recurso Especial parcialmente provido, apenas para afastar a multa estatuída pelo artigo 1.026, § 2º, do CPC.
+(REsp 1833851/PA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/10/2019, DJe 25/10/2019).
+ANTE O EXPOSTO, dou provimento ao recurso especial, para, reformando o aresto recorrido, reconhecer a legitimidade ativa da parte ora recorrente para promover a execução, determinando o retorno dos autos ao Tribunal de origem para que prossiga no julgamento do feito como entender de direito.
+Publique-se.
+EMENTA
