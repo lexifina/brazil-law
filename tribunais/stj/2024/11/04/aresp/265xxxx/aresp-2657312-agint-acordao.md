@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNISTO CO RESULTADO MORTE. RESPONSABILIDADE CIVIL. AUSÊNCIA DE CULPA EXCLUSIVA DA VÍTIMA. DANO MORAL. SÚMULA N. 7 DO STJ.
+1. O Tribunal a quo afastou a tese de culpa exclusiva da vítima ao constatar que o funcionário da empresa trafegou pela rodovia que não possuía acostamento, no período noturno, com a carreta acoplada ao trator, sem a devida sinalização que pudesse alertar os demais motoristas, bem como sem o auxílio de qualquer veículo auxiliar (batedor).
+2. Rever as conclusões do Tribunal de origem acerca da responsabilidade pelo acidente de trânsito demandaria o necessário reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAÇU COMÉRCIO E INDÚSTRIA DE AÇÚCAR E ÁLCOOL LTDA. contra a decisão de fls. 463-466, que conheceu do agravo para não conhecer do recurso especial em razão da incidência da Súmula n. 7 do STJ, quanto à alegada violação dos arts. 186, 187 e 927, parágrafo único, do CC.
+Nas razões do agravo interno, o recorrente alega que, ao contrário do que constou na decisão agravada, a análise do recurso não esbarra no óbice da Súmula n. 7 do STJ.
+Aduz que os temas veiculados nos dispositivos invocados giram em torno de matéria de direito, qual seja, a violação dos arts. 186, 187 e 927 do CC, porque imputou à recorrente responsabilidade civil indevida, razão pela qual se exige apenas a revaloração de fatos jurídicos incontroversos.
+Requer o provimento do agravo interno.
+O agravado apresentou contrarrazões às fls. 482-485.
+O Ministério Público Federal manifestou ciência ao pronunciamento judicial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNISTO CO RESULTADO MORTE. RESPONSABILIDADE CIVIL. AUSÊNCIA DE CULPA EXCLUSIVA DA VÍTIMA. DANO MORAL. SÚMULA N. 7 DO STJ.
+1. O Tribunal a quo afastou a tese de culpa exclusiva da vítima ao constatar que o funcionário da empresa trafegou pela rodovia que não possuía acostamento, no período noturno, com a carreta acoplada ao trator, sem a devida sinalização que pudesse alertar os demais motoristas, bem como sem o auxílio de qualquer veículo auxiliar (batedor).
+2. Rever as conclusões do Tribunal de origem acerca da responsabilidade pelo acidente de trânsito demandaria o necessário reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O recurso não merece prosperar, devendo a decisão agravada ser mantida pelos seus próprios fundamentos.
+O recorrente insurge-se, em suma, quanto à imputação de responsabilidade civil à recorrente pelo acidente de trânsito do qual decorreu óbito.
+O Tribunal de Justiça do Estado de Goiás, amparado pelas provas dos autos, constatou o funcionário da empresa trafegou pela rodovia que não possuía acostamento, no período noturno, com a carreta acoplada ao trator, sem a devida sinalização que pudesse alertar os demais motoristas, bem como sem o auxílio de qualquer veículo auxiliar (batedor).
+Assim, concluiu que não há como acolher a tese de culpa exclusiva do Sr. Nelson pelo acidente noticiado nos autos para excluir a condenação ao pagamento de indenização por dano moral.
+A propósito, confira-se (fls. 363-365):
+ ..
+Em seu recurso, a apelante alega que o acidente ocorreu por culpa exclusiva do Sr. nelson, haja vista a presunção de culpa daquele que colide na traseira do veículo da frente, o qual é responsável pelo sinistro, pois é seu dever de guardar distância segura. Todavia, razão não lhe assiste.
+O funcionário da apelada que dirigia o trator no momento do acidente, o Sr. Julio César, descreveu a dinâmica do acidente da seguinte maneira (evento nº 113, arquivo nº 02 dos autos):
+(..) Que no momento do impacto estava a 30 km/h; que entrou no asfalto em 900 (novecentos) metros; que a distância da última curva é de 1500m; que após o acidente auxiliou as vítimas; (..) que o acidente ocorreu por volta das 7h40min da noite; que não se recorda que a grade possuía sinalização; que não tinha auxílio de batedores; que não é comum transitarem na rodovia; que pouco transita na Rodovia; que a pista não possui acostamento; que não viu sinal de frenagem; (..) que ninguém auxiliava no transporte das máquinas; que andava na área de terra; que estava um metro e meio dentro da faixa de rolamento; que a grade foi para outro lado com a colisão; que não havia carro em sentido contrário; que só sentiu o impacto do carro do Nelson; Grifei.
+Por seu turno, a testemunha Fabrício Amarante deu a sua versão dos fatos ( evento nº 112, arquivo nº 03 dos autos):
+(..) que havia um senhor e uma senhora; que quando chegou já estavam fora do carro; que a mulher foi encaminhada ao hospital e logo depois chegou o socorro e polícia; que esperaram a ajuda; que na ocasião viu o carro, trator e grade; que a grade estava do outro lado da pista; que o acidente ocorreu à noite; que acredita ser mais das 7h da noite; que a pista simples e não tem acostamento; que não possui sinalização; que não viu iluminação no trator e na grade; que no momento em que parou não havia batedores acompanhando as máquinas; que tem conhecimento que a área é pista simples e por ter muita lavoura é comum transportes na pista; que não viu iluminação do trator; que estava tudo escuro no trator; Grifei.
+Já a testemunha Waldeir Raimundo de Sousa esclareceu o seguinte ( evento nº 112, arquivo nº 02 dos autos):
+(..) que no dia dos fatos, ia para Vicentinópolis para uma reunião da igreja católica; que já estava escuro e não estava chovendo; que a estrada é reta; que o trator saiu da estrada de terra e o carro bateu na grade; que não viu sinais de frenagem porque já estava escuro; que não viu ninguém auxiliando (batedor); que a grade niveladora não possuía sinalização; que na pista havia sinal do trator ter saído da estrada de chão; que o operador do trator estava no local, porém não conversou com ninguém; Grifei.
+Ainda, tem-se o depoimento da testemunha Uanderson Claiton Reis Moraes:
+(..) que era por volta das 7h da noite; que a grade foi para um lado e o trator para outro; que a pista não tinha acostamento; que a pista era uma reta, não tinha curva e não tinha declive ou aclive; que nos equipamentos não havia nenhum tipo de sinalização; que a grade era alta e não tinha faixa refletiva, nenhum tipo de sinalização; que não havia nenhum veículo auxiliando na sinalização; que logo após o pessoal da empresa chegou para ajudar; que estava passando no local em viagem; que não viu sinal de frenagem no chão; que os veículos encontravam-se no mesmo sentido; que sabe que não havia veículo sinalizando, pois quando chegou não havia "batedor"; que quando chegou viu a grade em sentido contrário ao veículo; que a grade desacoplou e saiu da pista invadido o sentido contrário e indo para o mato; Grifei.
+Nesse contexto, pode-se concluir que os aludidos depoimentos corroboram a versão apresentada na inicial, no sentido de que o preposto da apelante trafegou pela rodovia que não possuía acostamento, no período noturno, com a carreta acoplada ao trator, sem a devida sinalização que pudesse alertar os demais motoristas, bem como sem o auxílio de qualuqer veículo auxiliar (batedor)
+Ademais, conforme pontuado pelo Magistrado, a ausência de sinalização na carreta foi a causa determinante do sinistro, pois o referido equipamento é alto, de largura e comprimento considerável, conforme se constata nas imagens do Boletim de Ocorrência, e sua sinalização era inexistente (evento nº 127 dos autos).
+Assim, por tais fundamentos, não há como acolher a tese de culpa exclusiva do Sr. Nelson pelo acidente noticiado nos autos.
+Logo, rever as conclusões do Tribunal a quo acerca da responsabilidade pelo acidente de trânsito, demandaria o necessário reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. RESPONSABILIDADE CIVIL DO CONDUTOR DE AUTOMÓVEL POR ACIDENTE DE TRÂNSITO. CULPA EXCLUSIVA DA VÍTIMA AFASTADA. MODIFICAÇÃO DAS PREMISSAS FÁTICAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUTORIA E MATERIALIDADE COMPROVADAS NO JUÍZO CRIMINAL. VINCULAÇÃO. REVISÃO PELO JUÍZO CÍVEL. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem, analisando o acervo fático-probatório dos autos, concluiu pela responsabilidade civil do recorrente, afastando a tese de culpa exclusiva da vítima, por constatar que a causa preponderante do acidente foi praticada pelo condutor do automóvel que, de forma imprudente, invadiu via a preferencial, sem observar o trânsito, causando a morte do motociclista.
+2. Para reverter tais conclusões, é imprescindível o reexame dos elementos probatórios dos autos, o que se mostra impossível devido à natureza excepcional da via eleita, conforme enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. A jurisprudência do STJ é iterativa no sentido de que a absolvição no Juízo criminal, diante da relativa independência entre as instâncias cível e criminal, apenas vincula o juízo cível quando for reconhecida a inexistência do fato ou ficar demonstrado que o demandado não foi o seu autor, nos termos do que dispõe o art. 935 do Código Civil.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.501.961/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/8/2024, DJe de 23/8/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
