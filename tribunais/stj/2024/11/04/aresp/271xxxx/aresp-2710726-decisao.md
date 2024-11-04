@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSS contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência das Súmulas 07 do STJ e 283 do STF.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 42):
+PROCESSUAL E PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. REAJUSTE PELOS TETOS DAS ECS 20/98 E 41/03. BENEFÍCIO ANTERIOR À CF/88. EXECUÇÃO. FORMA DE LIQUIDAÇÃO DO JULGADO.
+Para a verificação das diferenças devidas decorrentes do reflexo do reajuste do teto do RGPS pelas ECs 20/98 e 41/03 sobre os benefícios concedidos antes da CF/88, não importa o valor da renda mensal inicial original, e sim o correto valor da média pura dos salários-de-contribuição e do coeficiente de cálculo.
+Embargos de declaração da Autarquia rejeitados.
+No recurso especial o INSS alega violação do artigo 1.022, II, do CPC/2015, ao argumento de que a Corte local "não apreciou a necessidade da manutenção dos critérios de cálculo vigentes à época da DIB" e que "foi mantida a omissão quanto à necessária aplicação do Dec. 83,080/1979, art. 40, e demais normas em vigor na DIB do benefício" (fl. 71).
+Defende, em síntese, que "para que seja respeitada a forma de cálculo original, e também aproveitada a elevação extraordinária dos tetos, é preciso que na data das Emendas, já com os novos tetos, seja reconstituído o cálculo original, com todas as regras vigentes na data de concessão" (fl. 73).
+Requer o provimento do recurso "a fim de que seja estabelecido que, constatada a limitação do salário-de-benefício ao maior valor-teto na concessão, o cálculo dos valores devidos ao segurado, no caso dos benefícios concedidos antes da CRFB/1988, deve observar a sistemática dos dois limitadores, disciplinada pela legislação da época da concessão" (fl. 74).
+Contrarrazões às fls. 81-84.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos d e declaração.
+No caso dos autos, evidencia-se ter a Corte de origem concluiu que os cálculos observaram o título judicial no tocante à adequação aos tetos das Emendas Constitucionais 20/1998 e 41/2003, de modo que o recurso especial se apresenta inviável, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+No mesmo sentido:
+PREVIDENCIÁRIO. BENEFÍCIO. TETO DO SALÁRIO DE BENEFÍCIO. ECS 20/1998 E 41/2003. REVISÃO. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. COMPETÊNCIA DO STJ AFASTADA. TERMO INICIAL DO PRAZO PRESCRICIONAL PARA A EXECUÇÃO INDIVIDUAL. TRÂNSITO EM JULGADO DA SENTENÇA COLETIVA.
+INTELIGÊNCIA DO RECURSO ESPECIAL REPETITIVO 1.388.000/PR.
+1. A questão relativa à aplicação dos tetos das Emendas Constitucionais 20/1998 e 41/2003 possui contornos constitucionais, tanto que é objeto de decisão sob o regime da Repercussão Geral no STF (RE 564.354, Rel. Ministra Carmen Lúcia, DJ 15.2.2011).
+2. A discussão de matéria constitucional afasta a competência do STJ, já que o exame da violação de dispositivos da Constituição Federal é de competência exclusiva do STF, conforme dispõe o art. 102, III, do permissivo constitucional.
+3. A Corte Especial , no julgamento do REsp 1.388.000/PR, Relator Ministro Napoleão Nunes Maia Filho, Relator para o acórdão Ministro Og Fernandes, DJe 12/4/2016, apreciado sob o rito dos recurso repetitivos (art. 543-C do CPC/1973), pacificou o entendimento de que o prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva.
+5. Recurso Especial do INSS não provido e Recurso Especial da particular provido (REsp 1.643.935/ES, Segunda Turma, Relator Ministro Herman Benjamin, DJe 20/4/2017).
+CONSTITUCIONAL, PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIO. INCIDÊNCIA DOS NOVOS TETOS ESTABELECIDOS PELAS EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. DECADÊNCIA. ART. 103, CAPUT, DA LEI 8.213/1991. NÃO INCIDÊNCIA. MATÉRIA DECIDIDA SOB ENFOQUE CONSTITUCIONAL.
+1. Constata-se que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado, manifestando-se de forma clara a respeito da readequação do benefício aos tetos das Ecs. 20/1998 e 41/2003.
+2. Não incide a decadência prevista no art. 103, caput, da Lei 8.213/1991 nas pretensões de aplicação dos tetos das Emendas Constitucionais 20/1998 e 41/2003 a benefícios previdenciários concedidos antes dos citados marcos legais, pois consubstanciam mera revisão das prestações supervenientes ao ato de concessão.
+3. Outrossim, da leitura do acórdão recorrido, depreende-se que foi debatida matéria com fundamento eminentemente constitucional, sendo sua apreciação de competência exclusiva do Supremo Tribunal Federal, conforme infere-se dos arts. 102 e 105 da CF.
+4. Agravo conhecido para conhecer parcialmente do Recurso Especial apenas no que diz respeito à alegação de ofensa ao art. 1.022 do CPC e, nessa parte, não provê-lo (AREsp 1.538.350/PR, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 3/10/2019, DJ e 11/10/2019).
+Note-se, ademais, que alterar a conclusão do Tribunal a quo, quanto à adequação dos cálculos ao que previsto no título judicial, pressupõe, necessariamente, o reexame do conjunto fático-probatório, o que é inviável no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. TETO. ECs 20/98 E 41/03. ADEQUAÇÃO AO JULGADO PROFERIDO PELO STF. EXAME DE MATÉRIA CONSTITUCIONAL. EXISTÊNCIA DE LIMITAÇÃO QUANDO DA CONCESSÃO DO BENEFÍCIO. REEXAME DE PROVAS. S. 7/STJ.
+ ..
+2. A questão referente à correta aplicação dos tetos constitucionais, previstos nas ECs 20/98 e 41/03, com a utilização dos parâmetros estabelecidos no RE 564.354/SE pelo Supremo Tribunal Federal, exige o exame de matéria constitucional, que não é passível de apreciação na via estreita do recurso especial
+3. Ademais, a alteração das conclusões adotadas pela Corte de origem, a fim de se verificar se o benefício previdenciário alcançou o teto legal quando da entrada em vigor das ECs 20/98 e 41/03, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp 554.901/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/8/2015, DJe 27/8/2015.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO. REAJUSTE PELOS TETOS DAS ECS 20/98 E 41/03. BENEFÍCIO ANTERIOR À CF/88. EXECUÇÃO. DIRETRIZ DE LIQUIDAÇÃO DEFINIDA PELO TÍTULO EXEQUENDO. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. APRECIAÇÃO INVIÁVEL. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
