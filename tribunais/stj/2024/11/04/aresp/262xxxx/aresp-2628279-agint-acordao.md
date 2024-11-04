@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PENHORA DE COTA DE COOPERATIVA. POSSIBILIDADE. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Superior é assente no sentido de permitir a penhora de cotas pertencentes a sócio de cooperativa para pagamento de dívida particular deste. Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por COOPERATIVA DE CRÉDITO VALE DO ITAJAÍ - VIACREDI contra decisão desta relatoria (e-STJ, fls. 777/780), que conheceu do agravo para negar provimento ao recurso especial.
+Nas razões do agravo interno, a agravante alega que "a r. decisão agravada aplicou à controvérsia apresentada pela ora Agravante, que versa sobre a impenhorabilidade de cotas sociais de cooperativa, o óbice do art. 253, parágrafo único, inciso II, alínea "b", do RISTJ - o enunciado da Súmula nº 83 do STJ, por analogia. Desde a tramitação no Tribunal de origem, a ora Agravante demonstrou ao órgão julgador que sua matriz decisória estaria a contrariar o texto expresso da Lei Complementar nº 196, de 2022, que alterou o art. 10, § 1º, da Lei Complementar nº 130, de 2009, o qual expressamente proíbe a penhora de quotas de cooperativa de crédito" (fl. 786).
+Foi apresentada impugnação (e-STJ, fls. 794/795).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PENHORA DE COTA DE COOPERATIVA. POSSIBILIDADE. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Superior é assente no sentido de permitir a penhora de cotas pertencentes a sócio de cooperativa para pagamento de dívida particular deste. Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+VOTO
+O recurso não merece prosperar, porquanto não foram apresentados argumentos aptos a modificar a decisão vergastada.
+Conforme consignado na decisão agravada, quanto à questão de fundo, o Tribunal de origem manifestou-se nos seguintes termos:
+"Isso porque, inobstante as razões recursais defendidas, sabe-se que a impossibilidade de transferência de cotas da cooperativa a terceiros, a teor das normas insertas no art. 1.094, inc. IV, do Código Civil e art. 4º, inc. IV, da Lei nº 5.764/71, "não impede a penhora realizada diretamente sobre as cotas sociais do cooperado, pois os efeitos dessa constrição devem ser aplicados em consonância com os princípios societários e características próprias da cooperativa, ou seja, "deve-se facultar à sociedade cooperativa, na qualidade de terceira interessada, remir a execução (art. 651, CPC), remir o bem (art. 685-A, § 2º, CPC) ou concedê-la e aos demais sócios a preferência na aquisição das cotas (art. 685-A, § 4º, CPC), a tanto por tanto, assegurando-se ao credor, não ocorrendo solução satisfatória, o direito de requerer a dissolução parcial da sociedade, com a exclusão do sócio e consequente liquidação da respectiva cota" (TJSC, Apelação n. 5004914-74.2020.8.24.0067, do Tribunal de Justiça de Santa Catarina, rel. Monteiro Rocha, Segunda Câmara de Direito Civil, j. 20-05-2021). (..) A partir de tais premissas, resta indubitável que a penhora realizada diretamente sobre as cotas pertencentes a sócio de cooperativa (parte executada) se revela viável na espécie, observadas a toda evidência as características próprias da cooperativa em relação aos efeitos da respectiva constrição. Registre-se, por oportuno, inobstante os termos do petitório constante do evento 10, PET1, dando conta da edição da Lei Complementar n. 196/2022, a qual, com vigência imediata, estabelecera expressamente a impenhorabilidade das quotas-parte do capital social das cooperativas de crédito, a orientação desta Corte é no sentido de que realizado o ato constritivo anteriormente à publicação daquela (que se operou em 25-8-2022), sendo esta a hipótese, inaplicável a respectiva regra de impenhorabilidade então introduzida. ..  Logo, diante dos fundamentos retrocitados, escorreita a sentença ao manter a penhora das cotas capitais da sociedade cooperativa em favor de terceiro alheio aos quadros societários, motivo por que é de ser desprovido o presente reclamo. " (fls. 224/226)
+Sobre o tema, a jurisprudência desta Corte se firmou no sentido da possibilidade de penhora de cotas pertencentes a sócio de cooperativa para pagamento de dívida particular deste. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA PARTE EMBARGANTE.
+1. A jurisprudência desta Corte Superior é no sentido da possibilidade de penhora de cotas pertencentes a sócio de cooperativa para pagamento de dívida particular deste. Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.604.184/SC, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. 1. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO OU TESE. SÚMULAS N. 282 DO STF E 211 DO STJ. 2. PENHORA DE COTAS PERTENCENTES A SÓCIO DE COOPERATIVA, POR DÍVIDA PARTICULAR. INEXISTÊNCIA DE VEDAÇÃO LEGAL. PRECEDENTES. SÚMULA 83/STJ. 3. ALEGAÇÃO DE FATO SUPERVENIENTE SOMENTE NAS RAZÕES DE AGRAVO EM RECURSO ESPECIAL. INOVAÇÃO RECURSAL. 4. AGRAVO INTERNO IMPROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial - Súmulas n. 282/STF e 211/STJ. Também não é o caso de se considerar a ocorrência do prequestionamento implícito.
+1.1. De acordo com o entendimento jurisprudencial do Superior Tribunal de Justiça, nem mesmo as questões de ordem pública dispensam o prévio debate pela instância de origem acerca dos temas defendidos no recurso especial.
+2. Encontrando-se o aresto hostilizado em harmonia com o entendimento desta Corte de que a penhora de quotas sociais não encontra vedação legal nem afronta o princípio da affectio societatis, de rigor a incidência do enunciado n. 83 da Súmula desta Casa.
+3. É vedado, no agravo interno, apreciar questões que não foram objeto de impugnação no recurso especial, bem assim não debatidas pelas instâncias ordinárias, sob pena de supressão de instância e inovação recursal.
+4. Agravo interno improvido.
+(AgInt no AgInt no AREsp n. 2.202.549/PR, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIROS. PENHORA DE QUOTAS SOCIAIS. POSSIBILIDADE. DECISÃO MANTIDA.
+1. "De acordo com entendimento desta Corte, "É possível a penhora de cotas pertencentes a sócio de cooperativa, por dívida particular deste, pois responde o devedor, para o cumprimento de suas obrigações, com todos seus bens presentes e futuros" (REsp 1661990/MS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 17/08/2017, DJe de 22/08/2017)" (AgInt no AREsp n. 1.694.841/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/10/2020, DJe de 29/10/2020).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.862.744/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 26/10/2022, DJe de 3/11/2022.)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
