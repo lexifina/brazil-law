@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CIRCUNSTÂNCIAS FÁTICAS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Consoante o § 4.º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena diminuída, de 1/6 (um sexto) a 2/3 (dois terços) , quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa. Para que o agente possa ser beneficiado, é preciso preencher cumulativamente os requisitos.
+2. No caso dos autos, as instâncias locais não concederam o benefício ao paciente ao entendimento de que ele se dedicava a atividades criminosas, com base nas circunstâncias fáticas da prática delitiva, que vinha sendo realizada em casa conhecida por ser "boca de fumo" (na qual foram encontrados, além de grande quantidade de drogas e dinheiro, petrechos utilizados para fracionamento e embalagem) e no terreno baldio ao seu lado.
+3. Assim, para se desconstituir tal assertiva como pretendido, seria necessário o revolvimento da moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus.
+4. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental (e-STJ, fls. 658/686) interposto contra decisão de minha relatoria (e-STJ, fls. 645/649), que não conheceu do habeas corpus impetrado em favor de BRUNO ARAÚJO DA SILVA.
+Narram os autos que o paciente/agravante foi condenado como incurso nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006, à pena de 12 (doze) anos, 2 (dois) meses e 26 (vinte e seis) dias, em regime fechado, e ao pagamento de 1.574 dias-multa (e-STJ fls. 367/385).
+Inconformada, a defesa apelou, tendo o Tribunal local dado parcial provimento ao recurso, para absolver o paciente quanto à prática do crime de associação para o tráfico, bem como para reduzir a reprimenda remanescente para 5 anos de reclusão, no regime inicial semiaberto, e 500 dias-multa (e-STJ fls. 612/639).
+Neste writ (e-STJ fls. 3/18), a impetrante alegou que a Corte local incorreu em constrangimento ilegal ao deixar de aplicar a redutora do tráfico privilegiado.
+Afirmou que o réu preenche todos os requisitos necessários, uma vez que é primário, não ostenta maus antecedentes e a simples afirmação de que o paciente praticou o crime de tráfico de drogas em local conhecido por ser "boca de fumo", sem destaque a circunstâncias indicativas de condutas repetidas na atuação da mercancia, não é fundamento idôneo para concluir sua dedicação às atividades criminosas ou que integre organização criminosa (e-STJ, fl. 9).
+Defendeu, ainda, que o paciente não era responsável pelo imóvel onde as substâncias entorpecentes foram localizadas, sendo esta de responsabilidade do corréu Cláudio, conforme narra a própria denúncia sendo que o paciente Bruno realizou o comércio na rua, tanto que guardava a droga em uma "moita de capim" em um terreno baldio (e-STJ, fl. 9).
+Ao final, pleiteou, na liminar, a suspensão das penas até o julgamento final da lide. No mérito, pediu a aplicação da redutora, a fixação de regime inicial mais brando, e a substituição da pena privativa de liberdade por restritivas de direitos.
+O habeas corpus não foi conhecido (e-STJ, fls. 645/649).
+Neste agravo regimental, reitera a defesa a inidoneidade da fundamentação adotada para afastar o redutor do tráfico privilegiado. Argumenta, ainda, não ser necessário o reexame de fatos e provas, mas apenas a sua revaloração, para atribuir o devido valor jurídico a fato incontroverso.
+Pleiteia, assim, seja reconsiderada a decisão, ou submetido o presente agravo à análise do colegiado, para que seja a ordem concedida a fim de aplicar o redutor do tráfico privilegiado, bem como de declarar a nulidade de todo o processo, determinado o retorno dos autos ao Juízo de Primeiro Grau para que o Ministério Público Estadual realize a análise acerca da possibilidade de oferecimento do ANPP, diante do novo enquadramento jurídico (e-STJ fl. 684).
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CIRCUNSTÂNCIAS FÁTICAS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Consoante o § 4.º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena diminuída, de 1/6 (um sexto) a 2/3 (dois terços) , quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa. Para que o agente possa ser beneficiado, é preciso preencher cumulativamente os requisitos.
+2. No caso dos autos, as instâncias locais não concederam o benefício ao paciente ao entendimento de que ele se dedicava a atividades criminosas, com base nas circunstâncias fáticas da prática delitiva, que vinha sendo realizada em casa conhecida por ser "boca de fumo" (na qual foram encontrados, além de grande quantidade de drogas e dinheiro, petrechos utilizados para fracionamento e embalagem) e no terreno baldio ao seu lado.
+3. Assim, para se desconstituir tal assertiva como pretendido, seria necessário o revolvimento da moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus.
+4. Agravo regimental a que se nega provimento.
+VOTO
+O agravo regimental é tempestivo e infirmou os fundamentos da decisão combatida, razões pelas quais merece conhecimento. No entanto, não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar a decisão, cuja conclusão mantém-se, por seus próprios fundamentos.
+Busca-se, como relatado, o reconhecimento da ilegalidade em razão da não aplicação do redutor previsto no §4º, do art. 33, da Lei 11.343/2006.
+Como cediço, a incidência do redutor do art. 33, § 4º, da Lei n. 11.343/2006, requer o preenchimento de quatro requisitos cumulativos, quais sejam, primariedade, bons antecedentes, não se dedicar a atividades criminosas ou integrar organização criminosa.
+No caso dos autos, as instâncias locais não concederam o benefício ao paciente ao entendimento de que ele se dedicava a atividades criminosas, com base nas circunstâncias fáticas da prática delitiva, que vinha sendo realizada em casa conhecida por ser "boca de fumo" (na qual foram encontrados, além de grande quantidade de drogas e dinheiro, petrechos utilizados para fracionamento e embalagem) e no terreno baldio ao seu lado.
+Assim, para se desconstituir tal assertiva, como pretendido, seria necessário o revolvimento da moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. REGIME FECHADO DEVIDAMENTE FUNDAMENTADO. GRAVIDADE CONCRETA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 é aplicável desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas, nem integre organização criminosa.
+Na hipótese, a apreensão de elevada quantidade de droga, indicada de forma supletiva, três balanças de precisão, frascos, ampolas e embalagens para o acondicionamento de entorpecentes impediu a aplicação do § 4º, por demonstrar a dedicação do paciente a atividades criminosas. Para se afastar essa conclusão, é necessário o revolvimento fático probatório, providência incabível na via eleita. Precedentes.
+2. A quantidade da droga demonstra a gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 741.568/SP, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022)
+Mantidas as penas fixadas na origem, ficam prejudicados os pedidos de fixação do regime inicial aberto, de substituição da pena privativa de liberdade por restritivas de direitos, e de encaminhamento dos autos ao Ministério Público para oferecimento de acordo de não persecução penal.
+Assim, nego provimento ao agravo regimental.
+É como voto.
