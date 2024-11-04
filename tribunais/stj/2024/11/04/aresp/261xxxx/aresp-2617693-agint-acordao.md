@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. INAPLICABILIDADE DA SÚMULA 283/STF. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, alegando inaplicabilidade da Súmula n. 283 do STF.
+II. Questão em discussão
+2. A questão em discus são consiste em saber se a decisão que aplicou a Súmula n. 283 do STF ao caso foi correta.
+III. Razões de decidir
+3. A ausência de impugnação específica dos fundamentos do acórdão recorrido justifica a aplicação da Súmula n. 283/STF, caracterizando deficiência na fundamentação recursal.
+4. A alegação de erro material no recurso especial não foi acompanhada da indicação dos dispositivos legais violados, incidindo a Súmula n. 284 do STF.
+IV. Dispositivo e tese
+5. Agravo interno desprovido.
+Tese de julgamento: "1. A ausência de impugnação específica dos fundamentos do acórdão recorrido caracteriza deficiência na fundamentação recursal, aplicando-se a Súmula n. 283/STF. 2. A não indicação de dispositivos legais violados no recurso especial atrai a incidência da Súmula n. 284/STF".
+Dispositivo relevante citado: CDC, art. 18.
+Jurisprudência relevante citada: STF, Súmula 283; STF, Súmula 284.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 906/911) interposto contra decisão desta relatoria, que negou provimento ao agravo em recurso especial (e-STJ fls. 899/902).
+Em suas razões, a parte alega a inaplicabilidade da Súmula n. 283 do STF.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (e-STJ fl. 915).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. INAPLICABILIDADE DA SÚMULA 283/STF. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, alegando inaplicabilidade da Súmula n. 283 do STF.
+II. Questão em discussão
+2. A questão em discus são consiste em saber se a decisão que aplicou a Súmula n. 283 do STF ao caso foi correta.
+III. Razões de decidir
+3. A ausência de impugnação específica dos fundamentos do acórdão recorrido justifica a aplicação da Súmula n. 283/STF, caracterizando deficiência na fundamentação recursal.
+4. A alegação de erro material no recurso especial não foi acompanhada da indicação dos dispositivos legais violados, incidindo a Súmula n. 284 do STF.
+IV. Dispositivo e tese
+5. Agravo interno desprovido.
+Tese de julgamento: "1. A ausência de impugnação específica dos fundamentos do acórdão recorrido caracteriza deficiência na fundamentação recursal, aplicando-se a Súmula n. 283/STF. 2. A não indicação de dispositivos legais violados no recurso especial atrai a incidência da Súmula n. 284/STF".
+Dispositivo relevante citado: CDC, art. 18.
+Jurisprudência relevante citada: STF, Súmula 283; STF, Súmula 284.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 899/902):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (e-STJ fls. 846/852).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 736/738):
+APELAÇÃO CÍVEL. CONSUMIDOR. AÇÃO DE CUMPRIMENTO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA POR DANOS MATERIAL E MORAL. COMPRA E VENDA DE IMÓVEL. ALEGAÇÃO DE VÍCIOS NA CONSTRUÇÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA CONDENANDO "A PARTE RÉ A ALTERAR A PORTA DE ENTRADA DA COZINHA PARA A LOCALIZAÇÃO QUE CONSTOU DA PLANTA APRESENTADA À AUTORA (FLS.17), SALVO SE TAL MODIFICAÇÃO COMPROMETER A INTEGRIDADE DA OBRA, CASO EM QUE DEVERÁ SER CONVERTIDA EM PERDAS EM DANOS, QUE SERÃO CALCULADOS EM LIQUIDAÇÃO DE SENTENÇA". APELAÇÃO DE AMBAS AS PARTES. PARTE AUTORA REQUER A PROCEDÊNCIA DE TODOS OS PEDIDOS. PARTE RÉ REQUER A IMPROCEDÊNCIA DOS PEDIDOS. PRELIMINARES ALEGADAS EM CONTRARRAZÕES AFASTADAS. DESPROVIMENTO DOS RECURSOS. A PARTE AUTORA ALEGA QUE HOUVE ALTERAÇÃO NA PLANTA APRESENTADA NO ATO DA COMPRA, BEM COMO VÍCIOS NA QUALIDADE DO ACABAMENTO. CONSTATA-SE DAS PROVAS ANEXADAS AOS AUTOS QUE SOMENTE HOUVE A COMPROVAÇÃO DE ALTERAÇÃO DA LOCALIZAÇÃO DE UMA PORTA, QUAL SEJA A PORTA DE ACESSO A COZINHA. PARTE AUTORA QUE NÃO COMPROVOU A EXISTÊNCIA DE OUTRAS MODIFICAÇÕES OU DOS VÍCIOS DE QUALIDADE ALEGADOS. NOS TERMOS DO ENUNCIADO DA SÚMULA Nº 330 DO TJ/RJ, O CONSUMIDOR NÃO ESTÁ EXONERADO DO DEVER DE PRODUZIR PROVA MÍNIMA DOS FATOS CONSTITUTIVOS DO ALEGADO DIREITO. NESTE DIAPASÃO, RESTOU COMPROVADA SOMENTE A MUDANÇA NA LOCALIZAÇÃO DA PORTA DE ACESSO À COZINHA. A CONTROVÉRSIA RESIDE EM SABER SE CABE A RESCISÃO DO CONTRATO COM A DEVOLUÇÃO INTEGRAL DO VALOR PAGO, BEM COMO O PAGAMENTO DE DANO MORAL, EM RAZÃO DESSA MUDANÇA. CUIDA A HIPÓTESE DE RESPONSABILIDADE POR VÍCIO DO PRODUTO, PREVISTO NO ART. 18, DO CDC, SEGUNDO O QUAL OS FORNECEDORES DE PRODUTOS DE CONSUMO, DURÁVEIS OU NÃO DURÁVEIS, RESPONDEM, SOLIDARIAMENTE, PELOS VÍCIOS DE QUALIDADE OU QUANTIDADE, QUE OS TORNEM IMPRÓPRIOS OU INADEQUADOS AO CONSUMO, A QUE SE DESTINAM, OU LHES DIMINUAM O VALOR, ASSIM COMO POR AQUELES DECORRENTES DA DISPARIDADE, COM A INDICAÇÕES CONSTANTES DO RECIPIENTE, DA EMBALAGEM, ROTULAGEM OU MENSAGEM PUBLICITÁRIA, RESPEITADAS AS VARIAÇÕES DECORRENTES DE SUA NATUREZA, PODENDO O CONSUMIDOR EXIGIR A SUBSTITUIÇÃO DAS PARTES VICIADAS. IN CASU, EM QUE PESE A MUDANÇA DE LOCALIZAÇÃO DE UMA PORTA NÃO TORNAR O BEM IMPRÓPRIO OU INADEQUADO A SUA DESTINAÇÃO, NÃO SENDO FATO CAPAZ DE GERAR A RESCISÃO DO CONTRATO, É CERTO QUE A MUDANÇA NO PROJETO FRUSTROU A EXPECTATIVA DO CONSUMIDOR DE RECEBER O IMÓVEL NOS TERMOS PACTUADOS, SENDO UM DIREITO SEU EXIGIR, NOS TERMOS DO ART. 18 DO CDC, O REPARO DO VÍCIO. A PARTE RÉ ESCLARECE QUE A MUDANÇA DA LOCALIZAÇÃO DA PORTA DA COZINHA (QUE SEGUNDO O PROJETO INICIAL DEVERIA SER DE FRENTE AO CORREDOR) PARA A LATERAL, DE FRENTE PARA A SALA, DECORREU DE NECESSIDADE DE ADEQUAÇÃO À NBR 9050, EM RAZÃO DE SE TRATAR DE UNIDADE DESTINADA A PNE (PESSOA COM NECESSIDADES ESPECIAIS). ENTRETANTO, AS CLÁUSULAS CONTRATAIS QUE PREVEEM A POSSIBILIDADE DE ALTERAÇÃO DO PROJETO, INDEPENDENTEMENTE DE CONSULTA AO COMPRADOR, IMPÕE QUE HAJA A NECESSIDADE DE ALTERAÇÃO EM RAZÃO DE IMPOSIÇÃO DE BOAS NORMAS TÉCNICAS, DE DETERMINAÇÃO OU EXIGÊNCIA DE PODERES PÚBLICOS OU CONCESSIONÁRIAS DE SERVIÇOS PÚBLICOS (CLÁUSULA XII-2). E NÃO HÁ PROVA NOS AUTOS QUE CORROBORE A ALEGAÇÃO DA RÉ DE NECESSIDADE DE MODIFICAÇÃO NA PLANTA, ÔNUS QUE LHE CABIA, NOS TERMOS DO § 3º DO ART. 12 DO CDC. A RESPONSABILIDADE DO PRESTADOR DO SERVIÇO É OBJETIVA, NOS MOLDES DOS ARTS. 12 E 14, DO CÓDIGO DE DEFESA DO CONSUMIDOR, DE FORMA QUE SE DISPENSA A DEMONSTRAÇÃO DE CULPA DO FORNECEDOR, BASTANDO A COMPROVAÇÃO DO DANO E DO NEXO CAUSAL, TAMBÉM DENOMINADO NEXO DE CAUSALIDADE, ENTRE ESTE E O VÍCIO NA PRESTAÇÃO DO SERVIÇO. CONFIGURADA, PORTANTO, A FALHA NA PRESTAÇÃO DO SERVIÇO, NA MEDIDA EM QUE, INJUSTIFICADAMENTE, HOUVE MUDANÇA NO PROJETO DO IMÓVEL. DESSE MODO, PRESENTE O DANO, CABE À RÉ A RESPONSABILIDADE PELO SEU REPARO E, NA IMPOSSIBILIDADE DE O FAZÊ-LO, COMO BEM SALIENTADO NA SENTENÇA, A OBRIGAÇÃO CONVERTE-SE EM PERDAS E DANOS A SER APURADA EM LIQUIDAÇÃO DE SENTENÇA. NO TOCANTE AO DANO MORAL, É CERTO QUE MUDANÇAS NO PROJETO DO IMÓVEL CAUSAM FRUSTRAÇÃO AO ADQUIRENTE, LEVANDO-O A BUSCAR MEDIDAS QUE POSSAM RESGUARDAR SEUS INTERESSES, ATRASANDO A ENTREGA DO IMÓVEL. CONTUDO, A JURISPRUDÊNCIA DO E. SUPERIOR TRIBUNAL DE JUSTIÇA FIRMOU-SE NO SENTIDO DE QUE A DEMORA NA ENTREGA DE IMÓVEL CONSTITUI INADIMPLEMENTO CONTRATUAL, O QUE, POR SI SÓ, NÃO GERA A OBRIGAÇÃO DE COMPENSAR DANO MORAL (AGINT NO ARESP 1.120.508/BA, REL. MINISTRA MARIA ISABEL GALLOTTI, QUARTA TURMA, JULGADO EM 04/04/2022, DJE 07/04/2022 E AGINT NO RESP 1.945.329/RJ, REL. MINISTRO MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, JULGADO EM 14/02/2022, DJE 21/02/2022). NÃO SE VERIFICA CONDUTA PRATICADA PELA RÉ APTA A CAUSAR LESÃO A DIREITO DA PERSONALIDADE DA AUTORA, RAZÃO PELA QUAL NÃO SE RECONHECE O DANO MORAL ALEGADO. CABERIA À AUTORA A COMPROVAÇÃO DE CONSEQUÊNCIAS FÁTICAS CAPAZES DE ENSEJAR A COMPENSAÇÃO PRETENDIDA, O QUE NÃO OCORREU. MANUTENÇÃO DA SENTENÇA. ENTENDIMENTO DO E. SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE E. TRIBUNAL DE JUSTIÇA ACERCA DOS TEMAS. DESPROVIMENTO DOS APELOS.
+Os embargos de declaração foram rejeitados (e-STJ fls. 791/797).
+Nas razões do recurso especial (e-STJ fls. 820/828), fundamentado no art. 105, III, "a", da CF, a parte alegou violação dos arts. 320 e 373, I, do CPC/2015, sustentando que "a parte Recorrida não comprovou qualquer vício ou defeito capaz de tornar o imóvel impróprio para o uso ou capaz de lhe diminuir o valor" (e-STJ fl. 822).
+Acrescenta que "o imóvel de titularidade da Recorrida não sofreu qualquer desvalorização em razão da modificação da porta" (e-STJ fl. 827).
+No agravo (e-STJ fls. 870/874), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 879).
+É o relatório.
+Decido.
+A Corte local entendeu no sentido da responsabilidade objetiva da parte agravante pela entrega de imóvel com planta diversa da apresentada à parte agravada quando da assinatura da promessa de compra e venda, consistente na alteração da localização da porta de acesso à cozinha.
+Conforme consignado no acórdão recorrido, "cuida a hipótese de responsabilidade por vício do produto, previsto no art. 18, do CDC, segundo o qual os fornecedores de produtos de consumo, duráveis ou não duráveis, respondem, solidariamente, pelos vícios de qualidade ou quantidade, que os tornem impróprios ou inadequados ao consumo, a que se destinam, ou lhes diminuam o valor, assim como por aqueles decorrentes da disparidade, com a indicações constantes do recipiente, da embalagem, rotulagem ou mensagem publicitária, respeitadas as variações decorrentes de sua natureza, podendo o consumidor exigir a substituição das partes viciadas" (e-STJ fl. 744, grifei).
+Nesse contexto, o Tribunal de origem destacou que, "em que pese a mudança de localização de uma porta não tornar o bem impróprio ou inadequado a sua destinação, não sendo fato capaz de gerar a rescisão do contrato, é certo que a mudança no projeto frustrou a expectativa do consumidor de receber o imóvel nos termos pactuados, sendo um direito seu exigir, nos termos do artigo supramencionado, o reparo do vício" (e-STJ fl. 744, grifei).
+A despeito dos fundamentos em que se funda o acórdão recorrido, a parte agravante, em sede especial, limita-se a sustentar, em síntese, a afronta aos arts. 320 e 373, I, do CPC/2015, sob o argumento de que "a parte Recorrida não comprovou qualquer vício ou defeito capaz de tornar o imóvel impróprio para o uso ou capaz de lhe diminuir o valor" (e-STJ fl. 822).
+Ausente, portanto, nas razões do especial, impugnação específica de fundamento apto a manter a conclusão do acórdão recorrido, está caracterizada a deficiência da fundamentação recursal.
+Incide a Súmula n. 283/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Conforme consignado na decisão agravada, o Tribunal de origem entendeu pela responsabilidade objetiva da parte agravante pela entrega de imóvel com planta diversa da apresentada à parte agravada quando da assinatura da promessa de compra e venda, consistente na alteração da localização da porta de acesso à cozinha.
+Fundamentou seu entendimento nas seguintes razões (e-STJ fl. 744, destaquei):
+Cuida a hipótese de responsabilidade por vício do produto, previsto no art. 18, do CDC, segundo o qual os fornecedores de produtos de consumo, duráveis ou não duráveis, respondem, solidariamente, pelos vícios de qualidade ou quantidade, que os tornem impróprios ou inadequados ao consumo, a que se destinam, ou lhes diminuam o valor, assim como por aqueles decorrentes da disparidade, com a indicações constantes do recipiente, da embalagem, rotulagem ou mensagem publicitária, respeitadas as variações decorrentes de sua natureza, podendo o consumidor exigir a substituição das partes viciadas.
+In casu, em que pese a mudança de localização de uma porta não tornar o bem impróprio ou inadequado a sua destinação, não sendo fato capaz de gerar a rescisão do contrato, é certo que a mudança no projeto frustrou a expectativa do consumidor de receber o imóvel nos termos pactuados, sendo um direito seu exigir, nos termos do artigo supramencionado, o reparo do vício.
+No entanto, a parte agravante não refutou referido argumento no recurso especial, razão pela qu al foi correta a aplicação da Súmula n. 283/STF.
+Quanto ao erro material apontado no recurso especial, destaca-se que não foram indicados os dispositivos legais supostamente violados, incidindo, portanto, a Súmula n. 284 do STF.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
