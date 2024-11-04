@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por WANDERLEY BATISTA DA SILVA, com fundamento na incidência da Súmula 7 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial.
+Assevera que "o interesse recursal fora na revaloração de provas e não em sua análise, eis que todas foram delineadas nos autos, mas se trata de discussão de aplicação da norma e entendimento jurisprudencial" e que "a matéria relativa aos critérios de fixação de honorários deve obediência ao código de processo civil vigente na sentença que o determinou, conseguintemente, a determinação de incidência do Tema 1105/STJ" (fl. 595).
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+O acórdão ora recorrido foi assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. RUÍDO. ATIVIDADE ESPECIAL CONFIGURADA EM PARTE DO PERÍODO PLEITEADO.
+1. No que tange a caracterização da nocividade do labor em função da presença do agente agressivo ruído, faz-se necessária a análise quantitativa, sendo considerado prejudicial nível acima de 80 decibéis até 05.03.1997 (edição do Decreto 2.172/97); acima de 90 dB, até 18.11.2003 (edição do Decreto 4.882/03) e acima de 85 dB a partir de 19.11.2003.
+2. O autor pleiteia o reconhecimento da especialidade dos períodos de 01/03/1999 a 04/09/2000, 29/11/1976 a 07/02/1978 e 11/04/1978 a 15/04/1978. Quanto aos intervalos de 29/11/1976 a 07/02/1978 e de 11/04/1978 a 15/04/1978, o formulário previdenciário e respectivo laudo técnico defis. 59 e 62/64informam exposição a ruído entre 72 e 86 dB. Considerando que o autor se sujeitava ao agente agressivo em intensidades maiores que o limite legal de tolerância de 80 dB, há de ser reconhecida a atividade especial.
+3. Contudo, concernente ao período de 01/03/1999 a 04/09/2000, o formulário previdenciário e respectivo laudo técnico defis.72/73 informam exposição a ruído de 90 dB, não superando o limite legal de tolerância vigente de 90 dB.
+4. Por fim, em relação aos períodos comuns já reconhecidos na contagem da autarquia, de 06/04/1970 a 26/01/1971 e de 03/07/1995 a 13/09/1995(fls.220/222), verifica-se a ausência de interesse de agir, dado que inexiste pretensão resistida a requerer provimento jurisdicional, devendo ser computados na contagem.
+5. A sentença já determinou a correção monetária a partir do vencimento de cada prestação como requer o autor, desde o requerimento administrativo. Em relação aos juros de mora, devem ser contados a partir da citação, conforme Súmula 204 do STJ.
+6. Honorários advocatícios devidos no percentual de 10% (dez por cento) sobre as prestações vencidas até a prolação da sentença, nos termos do enunciado da Súmula 111 do Superior Tribunal de Justiça e entendimento desta Turma julgadora.
+7. Remessa necessária não conhecida. Apelação do autor parcialmente provida.
+Os embargos de declaração foram providos nos seguintes termos:
+PROCESSO CIVIL - EMBARGOS DE DECLARAÇÃO - INEXISTÊNCIA DE VÍCIO NO JULGADO - QUESTÕES SUSCITADAS POSTERIORMENTE - ESCLARECIMENTOS PRESTADOS.
+1. São cabíveis embargos de declaração para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de oficio ou a requerimento, ou corrigir erro material, consoante dispõe o artigo 1.022, 1, II e III, do CPC.
+2. Em relação aos declaratórios do autor, cabe ressaltar a possibilidade de opção pelo segurado do beneficio mais vantajoso. Ademais, a Terceira Seção desta Corte, pelas Turmas que a compõem, manifestou-se no sentido de que não há vedação legal para o recebimento da aposentadoria concedida no âmbito judicial anteriormente ao período no qual houve a implantação do beneficio da esfera administrativa, sendo vedado tão somente o recebimento conjunto.
+3. Quanto ao tempo de contribuição, mesmo reconhecidos os períodos de 29/11/1976 a 07/02/1978 e de 11/04/1978 a 15/04/1978 como especiais, o autor continua possuindo menos de 35 anos de contribuição (34 anos, 2 meses e 15 dias). Verifico que o intervalo de 18/09/1995 a 28/02/1999 computado na planilha do autor como especial, na verdade foi declarado como de atividade comum na sentença, não havendo insurgência nesse tocante.
+4. No que concerne aos embargos de declaração do INSS, a sentença fixou a correção monetária conforme Provimento 95/09 da CGJF- TRF3, que determina a observância do Manual de Orientação de Procedimentos para Cálculos na Justiça Federal, e juros de mora de 1% ao mês, não tendo a autarquia recorrido.
+5. Vislumbrando a necessidade de serem uniformizados e consolidados os diversos atos normativos afetos à Justiça Federal de Primeiro Grau, bem como os Provimentos da Corregedoria desta E. Corte de Justiça, a Consolidação Normativa da Corregedoria- Geral da Justiça Federal da 30 Região (Provimento COGE no 64, de 28 de abril 2005) é expressa ao determinar que, no tocante aos consectários da condenação, devem ser observados os critérios previstos no Manual de Orientação de Procedimentos para Cálculos da Justiça Federal.
+6. Embargos de declaração providos.
+No recurso especial, o recorrente aponta negativa de vigência de lei federal e divergência jurisprudencial.
+A irresignação não merece amparo.
+A admissibilidade do recurso especial, tanto pela alínea a quanto pela alínea c do permissivo constitucional, exige clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF.
+Nas razões do recurso especial, a parte recorrente deixou de indicar precisamente os dispositivos de lei federal que teriam sido violados, caracterizando, assim, deficiência na fundamentação recursal, o que impede a análise da controvérsia.
+Nesse sentido: "O recurso excepcional possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão" (AgInt no AREsp n. 2.372.506/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/10/2023, DJe de 26/10/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios no importe de 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
