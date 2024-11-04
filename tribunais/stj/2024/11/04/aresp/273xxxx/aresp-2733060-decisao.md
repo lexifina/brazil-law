@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo, interposto por LOG BRASIL - TRANSPORTE E LOGISTICA LTDA, em face de decisão que não admitiu o recurso especial.
+O apelo nobre, a seu turno, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, foi manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. EMPRÉSTIMO PECUNIÁRIO. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA AUTORA. LEGAÇÃO DE CELEBRAÇÃO DE EMPRÉSTIMO PELA RÉ. FALTA DE PROVAS. RECIBOS ANEXADOS NÃO ASSINADOS PELA RÉ, MAS POR TERCEIRO QUE, TAMBÉM OUVIDO EM JUÍZO, ALEGA O EMPRÉSTIMO EM FAVOR DA RÉ. INSUFICIÊNCIA NA ESPÉCIE. NEGATIVA DO FATO PELA RÉ. ALEGAÇÃO DE TEORIA DA APARÊNCIA. NÃO PREVALÊNCIA. TESTEMUNHA OUVIDA QUE É EX- FUNCIONÁRIO DA EMPRESA AUTORA. INOVAÇÃO RECURSAL. AUSÊNCIA DE OUTRAS PROVAS PRODUZIDAS PELA AUTORA. MAJORAÇÃO DA VERBA HONORÁRIA (ART. 85, § 11, CPC). RECURSO CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial, a parte recorrente aponta violação dos artigos 373 do Código de Processo Civil e 113 do Código Civil, aduzindo que cumpriu com o ônus da prova que lhe competia, tendo havido error in judicando e má apreciação das provas por parte das instâncias ordinárias.
+Em sede de juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial, razão pela qual foi manejado o agravo de fls. 320-327 , e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Com efeito, quanto à celebração pela ré de empréstimo com a autora, consignou o acórdão recorrido:
+Controverte-se sobre a celebração, ou não, pela ré-apelada de empréstimo de 65 mil reais com a autora-apelante. A título de prova, a autora anexou à inicial recibos assinados por terceiro; em contestação, a ré refutou que tenha assinado os recibos ou celebrado o empréstimo. Foi ouvido Murilo da Silva como testemunha da autora, alegando que foi funcionário da empresa autora, mas não é mais; as assinaturas são dele; os recibos eram empréstimos de Sandro Hey à apelada, genro desta; era assistente administrativo da Fazenda Cipó, da apelada; não lembra da respectiva retirada de valores; não tinha procuração da apelada, só "pedidas verbais"; a empresa é uma transportadora e não foram feitos contratos de transporte com a apelada; não se recorda de contrato nem de que apresentou recibo. Nada mais foi produzido de prova pela autora. O conjunto probatório é insuficiente. O único testigo não tem o condão de, por si só, prevalecer sobre a negativa do fato por parte da ré e a ausência de quaisquer outras provas. A alegação de incidência da teoria da aparência, que em rigor constitui inovação recursal porque não foi invocada pela autora em inicial, impugnação à contestação ou alegações finais, não tem cabimento na espécie, haja vista que a testemunha era funcionário vinculado à empresa autora. Ademais, não há prova eficiente da outorga de procuração ou de outro vínculo a evidenciar poder da testemunha para representar a ré.
+Logo, para derruir as conclusões contidas no decisum e acolher o inconformismo recursal, seria imprescindível o revolvimento de matéria fático-probatória, providência que esbarra no óbice da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE EXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM COBRANÇA. CUMPRIMENTO DE SENTENÇA. CONDENAÇÃO QUE DEPENDE DE MERO CÁLCULO ARITMÉTICO. LIQUIDAÇÃO POR ARBITRAMENTO CONSIDERADA DESNECESSÁRIA PELO TRIBUNAL DE ORIGEM. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição, obscuridade ou erro material no aresto recorrido, não se verifica a ofensa aos artigos 489 e 1.022 do CPC/2015.
+2. Quando a determinação do valor da condenação depender apenas de cálculo aritmético, o cumprimento de sentença poderá se dar sem a fase de liquidação, bastando ao credor instruir o pedido com a memória discriminada e atualizada do cálculo.
+3. No caso, para prevalecer pretensão em sentido contrário à conclusão do acórdão recorrido, no sentido de que a apuração dependeria de perícia, seria necessário o revolvimento do suporte fático-probatório dos autos, o que é vedado na via do recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.303.173/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/11/2023, DJe de 21/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. DIREITO CIVIL. AÇÃO DE COBRANÇA. CONTRATO DE CESSÃO DE CRÉDITO. PROCEDIMENTO PRÓPRIO DE LIBERAÇÃO DE CRÉDITO. PERFECTIBILIZAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. REEXAME DE CLÁUSULAS CONTRATUAIS. SÚMULA 5/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Na hipótese, as instâncias ordinárias entenderam que as partes cediam direitos de vendas a prazo por meio de sistema próprio empresarial, tendo sido verificado por "e-mail" e por mensagens eletrônicas trocadas que houve a expressa liberação de crédito.
+2. A modificação de tal entendimento, a fim de reconhecer a inexistência de liberação de crédito, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável no âmbito estreito do recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+3. A incidência da Súmula 7 do STJ impede o conhecimento do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial.
+(AgInt no AREsp n. 2.388.848/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/11/2023, DJe de 21/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO DEMANDADO .
+1. Consoante cediço no STJ, nos casos de rescisão unilateral do contrato de prestação de serviços advocatícios, a contagem do prazo prescricional quinquenal para exercício da pretensão de cobrança da verba honorária pactuada inicia-se da data em que o mandante/cliente é cientificado da renúncia ou revogação do mandato, à luz do artigo 25, inciso V, da Lei 8.906/94. Precedentes.
+2. Derruir as conclusões a que chegou o Tribunal de origem que concluiu pela presença das provas a amparar a monitória, ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.238.784/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023.)
+2. Do exposto, com fulcro no art. 932 do CPC c/c Súmula 568 do STJ, conheço do agravo para, de plano, negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
