@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - OBRIGAÇÃO DE FAZER - CONTRATO DE GESTÃO DE PAGAMENTOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDANTE .
+1. A alegação de omissão não prescinde da indicação do vício do acórdão recorrido por ocasião do exame das questões (fáticas ou jurídicas) ou das teses desenvolvidas em torno dos dispositivos legais arrolados, não sendo suficiente a indicação abstrata da pretensão de prequestionamento, sob pena de incidência da Súmula 284/STF.
+2. A Corte de origem, com base nas provas constantes do processo, concluiu que a recorrente assumiu os riscos do negócio entabulado com a recorrida. Rever as conclusões do Tribunal de origem acerca da inexistência de abusividade na cláusula contratual em debate esbarra na análise do conjunto fático-probatório carreado aos autos, o que é vedado pelo teor da Súmula n. 7/STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno interposto por OLIVECAMPOS CONFFECCOES LIMITADA, contra decisão monocrática de fls. 777/781 (e-STJ), a qual negou provimento ao recurso especial interposto pela parte ora recorrente.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou, a seu turno, acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+Apelação Obrigação de fazer c.c. indenização Julgamento antecipado Possibilidade Cerceamento de defesa não caracterizado- Venda de mercadorias com cartão de crédito por meio de link de pagamento - Transações que foram contestadas pelo real titular do cartão Repasses não realizados pela ré Existência de previsão contratual que responsabiliza o estabelecimento comercial quando a transação for realizada "sem cartão presente" Autora que não se cercou de todas as cautelas ao realizar a transação por whatsapp sem certificar-se que estava negociando com o verdadeiro titular do cartão Ausência de qualquer falha da ré na prestação dos serviços Recurso provido para julgar improcedente a ação.
+Opostos os embargos de declaração, restaram desacolhidos.
+Nas razões do recurso especial (fls. 660/698, e-STJ), a recorrente aponta ofensa aos arts. 1.022, II, do CPC e 424 do Código Civil.
+Sustenta, em síntese:
+a) negativa de prestação jurisdicional;
+b) a abusividade da "cláusula de chargeback", que autoriza o estorno ou não repasse ao lojista das quantias relativas às operações contestadas pelos titulares dos cartões de crédito.
+Contrarrazões (fls. 750/761, e-STJ).
+Após decisão de admissão do recurso especial (fls. 768/770, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Por decisão monocrática (fls. 777/781, e-STJ), este signatário negou provimento ao recurso especial ante a ausência de negativa de prestação jurisdicional e com amparo no enunciado contido nas Súmula 7/STJ.
+Em suas razões de agravo interno (fls. 785/805, e-STJ), a recorrente refuta os fundamentos em que se lastreou o decisum hostilizado, oportunidade em que reafirma os argumentos deduzidos no apelo nobre.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - OBRIGAÇÃO DE FAZER - CONTRATO DE GESTÃO DE PAGAMENTOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDANTE .
+1. A alegação de omissão não prescinde da indicação do vício do acórdão recorrido por ocasião do exame das questões (fáticas ou jurídicas) ou das teses desenvolvidas em torno dos dispositivos legais arrolados, não sendo suficiente a indicação abstrata da pretensão de prequestionamento, sob pena de incidência da Súmula 284/STF.
+2. A Corte de origem, com base nas provas constantes do processo, concluiu que a recorrente assumiu os riscos do negócio entabulado com a recorrida. Rever as conclusões do Tribunal de origem acerca da inexistência de abusividade na cláusula contratual em debate esbarra na análise do conjunto fático-probatório carreado aos autos, o que é vedado pelo teor da Súmula n. 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O presente recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado, motivo pelo qual ele merece ser mantido na íntegra por seus próprios fundamentos.
+1. De acordo com a decisão monocrática anteriormente proferida e no tocante à apontada violação ao artigo 1022 do CPC/2015, deve ser ressaltado que no recurso especial há somente alegação genérica de negativa de prestação jurisdicional, sem especificação das teses que supostamente deveriam ter sido analisadas pelo acórdão recorrido. Ante a deficiente fundamentação do recurso neste ponto, incide a Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. DISPOSITIVO CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. 1. A alegação genérica de ofensa aos arts. 489 e 1.022 do CPC/1973, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF. (..) 5. Agravo interno desprovido. (AgInt no REsp n. 1.856.694/AL, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/3/2022, DJe de 6/4/2022.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. BENEFICIÁRIO MENOR DE 25 ANOS, MATRICULADO EM INSTITUIÇÃO DE ENSINO SUPERIOR. VIOLAÇÃO DOS ARTIGOS 165, 458 E 535 DO CPC/1973. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AFRONTA AO ARTIGO 6º DA LINDB. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ACÓRDÃO A QUO ANCORADO EM LEGISLAÇÃO LOCAL. SÚMULA 280/STF. (..) 2. A alegação genérica de violação dos artigos 165, 458 e 535 do CPC/1973, sem demonstrar qual questão de direito não foi abordada no acórdão recorrido e a sua efetiva relevância para fins de novo julgamento pelo Tribunal de origem, atrai a aplicação do disposto na Súmula 284/STF. (..) 5. Agravo regimental não provido. (AgRg no AREsp 365.360/PE, Rel. Ministro BENEDITO GONÇALVES,
+PRIMEIRA TURMA, julgado em 08/08/2017, DJe 17/08/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA. LEI 8.270/91. ATUALIZAÇÃO DECORRENTE DE REVISÃO GERAL. PRECEDENTES DO STJ. OMISSÃO DO ACÓRDÃO REGIONAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284/STF. 1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, bem como da sua relevância para a correta solução da controvérsia. Aplica-se, na hipótese, o óbice da Súmula 284/STF. (..) 3. Agravo interno a que se nega provimento. (AgInt no REsp 1654714/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/06/2017, DJe 20/06/2017)
+2. Com efeito, as conclusões do Tribunal de origem acerca da inexistência de abusividade na cláusula contratual em debate decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa (fls. 631/633, e-STJ):
+A documentação atrelada aos autos comprova que a autora firmou um contrato com a ré, denominado "CONTRATO DE CREDENCIAMENTO E ADESÃO DE ESTABELECIMENTOS AO SISTEMA REDE".
+Restou incontroverso que a autora efetuou nove vendas com cartão de crédito, que foram negociadas por whatsapp com o cliente de nome Marco(fls. 65 e seguintes),que foram pagas com cartão de crédito através de link de pagamento e autorizadas pela ré.
+Posteriormente, após averiguação e contestação do titular do cartão houve a negativa de repasse de valores em razão de suspeita de fraude.
+De início, importante destacar que a ré presta serviços de intermediação de pagamentos, sendo, em última análise responsável pelos serviços disponibilizados aos seus clientes, o que afasta a arguição de ilegitimidade de parte.
+No caso, entretanto, não há qualquer responsabilidade da ré pelos eventos narrados nos autos.
+Vejamos.
+Da análise das provas carreadas no processo, constas e que a autora efetuou nove vendas para o mesmo cliente que se identificou com o nome de Marcos, todas negociadas por whatsapp, com emissão de notas fiscais.
+Os pagamentos foram realizados pela modalidade "não presente", por meio de link de pagamento.
+E, nos termos do contrato de credenciamento( cláusula 28) as transações sem cartão presente devem ser autorizadas pela REDE. Quando o estabelecimento habilita essa modalidade assume responsabilidade pela transação, inclusive em caso de contestação e cancelamento (cláausula28.1).
+No caso, a ré demonstrou(fls. 280), que a autora habilitou essa modalidade de transação(fls. 281).
+Assim, a autora tinha plena ciência dos riscos assumidos na modalidade contratada.
+O link é um meio legal de pagamento disponibilizada pela Rede por meio do qual os pagamentos são feitos por meio eletrônico sem a apresentação do cartão presente, sem digitação de senha pelo portador.
+Sendo assim, quando o titular do cartão não reconhecer a cobrança ele poderá contestá-la, o que ocorreu no caso, não estando a Rede por disposição contratual responsável pelo pagamento.
+Na hipótese, ora analisada, a ré a fls. 286 esclareceu que deixou de repassar os valores reclamados porque o real portador do cartão junto ao seu administrador(Banco Santander) contestou as compras.
+E nesse caso, verifica-se que o estabelecimento comercial não se acautelou ao fazer as transações, já que negociou com pessoa que se identificou como Marcos, sem apresentação de qualquer documento e sem certificar-se de que era a verdadeira portadora do cartão, além de ter juntado nota fiscal sem qualquer assinatura de recebimento, permitindo assim a possibilidade de eventual fraude, de modo que aceitou para si a responsabilidade do negócio, não podendo agora transferir tal responsabilidade para a ré, assegurando o direito desta de não repassar os valores pleiteados na ação.
+Nesse contexto, não há como deixar de reconhecer que a ré não falhou na prestação dos serviços e, portanto, não há como obrigá-la a efetuar o repasse, já que não possui qualquer responsabilidade pelos danos alegados pela autora, impondo-se a reforma da sentença para o fim de julgar improcedente a ação.
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Nesse mesmo sentido:
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE GESTÃO DE PAGAMENTOS. CHARGEBACKS. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. IMPOSSIBILIDADE. RELAÇÃO DE CONSUMO. AUSÊNCIA. UTILIZAÇÃO DOS SERVIÇOS PARA DESEMPENHO DE ATIVIDADE ECONÔMICA. AUSÊNCIA DE VULNERABILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO CONHECIMENTO.
+1. Ação de cobrança ajuizada em 13/05/2019, da qual foi extraído o presente recurso especial interposto em 31/08/2021 e concluso ao gabinete em 15/06/2022.
+2. O propósito recursal consiste em definir se o Código de Defesa do Consumidor é aplicável à relação jurídica firmada entre as partes, oriunda de contrato de gestão de pagamentos on-line.
+3. Há duas teorias acerca da definição de consumidor: a maximalista ou objetiva, que exige apenas a existência de destinação final fática do produto ou serviço, e a finalista ou subjetiva, mais restritiva, que exige a presença de destinação final fática e econômica. O art. 2º do CDC ao definir consumidor como "toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final" adota o conceito finalista.
+4. Nada obstante, a jurisprudência do STJ, pautada em uma interpretação teleológica do dispositivo legal, adere à teoria finalista mitigada ou aprofundada, a qual viabiliza a aplicação da lei consumerista sobre situações em que, apesar do produto ou serviço ser adquirido no curso do desenvolvimento de uma atividade empresarial, haja vulnerabilidade técnica jurídica ou fática da parte adquirente frente ao fornecedor.
+5. Nessas situações, a aplicação do Código de Defesa do Consumidor fica condicionada à demonstração efetiva da vulnerabilidade da pessoa frente ao fornecedor. Então, incumbe ao sujeito que pretende a incidência do diploma consumerista comprovar a sua situação peculiar de vulnerabilidade.
+6. Na hipótese dos autos, a aplicação da teoria finalista não permite o enquadramento da recorrente como consumidora, porquanto realiza a venda de ingressos on-line e contratou a recorrida para a prestação de serviços de intermediação de pagamentos. Ou seja, os serviços prestados pela recorrida se destinam ao desempenho da atividade econômica da recorrente. Ademais, a Corte de origem, com base nas provas constantes do processo, concluiu que a recorrente não é vulnerável frente à recorrida, de modo que a alteração dessa conclusão esbarra no óbice da Súmula 7 do STJ.
+7. A incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da CF.
+8. Recurso especial conhecido e não provido. (RESp 2020811/SP, Rel. Min. NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 29/11/2022, DJe 01/12/2022)
+Registre-se, outrossim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+De rigor, portanto, a manutenção da decisão ora impugnada.
+2. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
