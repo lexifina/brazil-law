@@ -1,0 +1,31 @@
+DECISÃO
+Em análise, recurso especial interposto por VANESSA ALESSIO contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+AGRAVO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA MOVIDA POR ASSOCIAÇÃO. TÍTULO EXECUTIVO PROLATADO PELO TRF4. EXEQUENTE RESIDENTE NO ÂMBITO DA COMPETÊNCIA TERRITORIAL DO TRIBUNAL. FNDE. ILEGITIMIDADE PASSIVA.  ..  5. O Fundo Nacional de Desenvolvimento da Educação - FNDE não detém legitimidade para responder pela demanda, sendo certo que, cabendo à União a administração, prestação de contas e repasse dos valores arrecadados (Decreto 6.003, de 2006), esta fará as devidas compensações entre as receitas.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte credora apontou violação aos arts. 17, 485, VI, 502, 507 e 1.022, II, do CPC/2015, sustentando a nulidade do acórdão dos embargos de declaração, por omissão não suprida, bem como a impossibilidade de o Tribunal de origem acolher a arguição de ilegitimidade passiva ad causam do FNDE, em razão da existência de decisão transitada em julgado atestando a solidariedade, para fins de restituição do indébito, entre a mencionada autarquia e a FAZENDA NACIONAL.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+O recurso especial merece acolhida.
+Ainda que a jurisprudência desta Corte Superior esteja orientada no sentido de que, após a entrada em vigor da Lei 11.457/2007, o FNDE não possui legitimidade passiva para integrar as ações que visem à restituição da contribuição ao salário educação, é forçoso reconhecer que, no caso dos autos, em respeito à coisa julgada, não mais se mostra possível nova análise acerca da legitimidade da mencionada autarquia para figurar no polo passivo, tendo em vista que a questão já foi decidida na fase de conhecimento. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE PASSIVA. ARGUIÇÃO APÓS O TRÂNSITO EM JULGADO. IMPOSSIBILIDADE. COISA JULGADA.
+1. Ainda que a jurisprudência desta Corte Superior esteja orientada no sentido de que, após a entrada em vigor da Lei 11.457/2007, o FNDE não tem legitimidade passiva para integrar as ações que visem à restituição da contribuição ao salário educação, na espécie, em respeito à coisa julgada, não é possível nova análise acerca da legitimidade do agravado para figurar no polo passivo, tendo em vista que a questão já foi decidida na fase de conhecimento.
+2. Insurgindo-se contra a decisão que conheceu do agravo interposto pela recorrida para dar parcial provimento ao recurso especial, alega o agravante que não teria havido prequestionamento da matéria, bem como que seria necessário o revolvimento de matéria fática para alteração do julgado.
+3. Contudo, concluiu a Corte de origem ser a questão da legitimidade matéria de ordem pública, não sujeita à preclusão. Portanto, verifica-se o debate acerca da tese sustentada pela aqui recorrida. Ademais, nos termos do entendimento desta Corte, o reconhecimento do prequestionamento ficto (art. 1025 do CPC) pressupõe que a parte recorrente, após o manejo dos embargos de declaração na origem, também aponte nas razões do recurso especial violação do art. 1.022 do CPC, o que ocorreu no particular (EDcl no AgInt no REsp n. 1.973.869/SP, relator Ministro Marco Buzzi, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/10/2022, DJe de 28/10/2022.).
+4. Não se cuida de revolver a matéria de fato, como alegado pelo ora agravante, o que seria inviável nesta instância excepcional em decorrência do óbice de que trata a Súmula 7/STJ, mas, a partir de dados fáticos incontroversos, todos eles assentados no aresto impugnado, conferir-lhes a correta qualificação jurídica, vale dizer, dar a devida valoração ao acervo probatório delineado pelo próprio Tribunal de origem.
+5. Agravo interno não provido.
+(AgInt no AREsp 2.172.886/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. LEGITIMIDADE DE PARTE. COISA JULGADA. REDISCUSSÃO. IMPOSSIBILIDADE.
+1. "A jurisprudência desta Corte possui o entendimento de que a questão envolvendo a legitimidade passiva ad causam também encontra-se acobertada pela coisa julgada, motivo pelo qual não pode ser novamente discutida na fase de execução do título executivo judicial" (AgRg no AREsp 2.723/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/6/2012, DJe de 2/8/2012).
+2. Agravo interno desprovido.
+(AgInt no REsp 2.021.795/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/2/2023, DJe de 17/2/2023).
+ADMINISTRATIVO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. LEGITIMIDADE PASSIVA. FNDE. RECONHECIMENTO. RECURSO PROVIDO.
+I - Trata-se de agravo interno interposto contra decisão de minha relatoria que excluiu o Fundo Nacional de Desenvolvimento da Educação - FNDE do polo passivo da ação originária.
+II - Na origem, o Fundo interpôs agravo de instrumento nos autos de cumprimento de sentença movida por substituído da Associação Catarinense dos Criadores de Suínos, derivada de ação civil movida pela respectiva entidade.
+III - O Agravante sustenta que os precedentes invocados na decisão não servem como paradigma ao caso, por cuidar-se de cumprimento de sentença, derivado de ação coletiva já transitada em julgado, na qual foi reconhecida tanto a legitimidade da União quanto do FNDE.
+IV - Mostra-se correta a irresignação do recorrente, considerando que revela-se impróprio, na via do recurso especial do FNDE, analisar sua alegada ilegitimidade, pois tem-se que a instância a quo nada deliberou quanto ao respectivo mérito. Precedentes.
+V - Agravo Interno provido para reconsiderar a decisão agravada para não conhecer do recurso especial interposto pelo Fundo Nacional de Desenvolvimento da Educação - FNDE.
+(AgInt no REsp 1.930.780/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/4/2023, DJe de 20/4/2023).
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, para reformar o acórdão recorrido, a fim de que seja restabelecida a decisão de 1º grau agravada, determinando-se o prosseguimento do cumprimento individual de sentença coletiva.
+Intimem-se.
+EMENTA
