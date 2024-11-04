@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por LAERCIO BENKI LOPES contra acórdão da 11ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, no HC n. 0022437-98.2024.8.26.0000, assim ementado:
+Habeas Corpus - Apropriação indébita - Cerceamento ou deficiência de defesa - Prejuízo não demonstrado - Nulidade do processo - Impossibilidade, nos limites da via eleita - Súmula nº 523, do Col. Supremo Tribunal Federal - Constrangimento ilegal - Inocorrência - Ordem denegada. (e-STJ, fl. 266)
+Em seu arrazoado, o recorrente aponta nulidade de todos os atos processuais, inclusive e especialmente, o de interposição do recurso de apelação, visto que interposto pelo recorrente quando advogava em causa própria e estava acometido por problema psiquiátrico grave, decorrente do uso de entorpecentes, comprometendo, portanto, a sua defesa técnica.
+Alega que o acórdão recorrido viola o enunciado da Súmula n. 523 do STF.
+Pugna pela concessão da medida liminar para suspender os efeitos da condenação e do curso da ação penal.
+Ao final, pugna pelo provimento do recurso a fim de restabelecer o prazo para a apresentação das alegações finais.
+Foram apresentadas contrarrazões (e-STJ, fls. 299-300).
+O pedido liminar foi indeferido (e-STJ, fl. 310).
+O Ministério Público opinou pelo não provimento do recurso (e-STJ, fls. 317-320).
+É o relatório.
+Decido.
+De início, cabe registrar que as mesmas questões aqui suscitadas já foram impugnadas em prévio writ perante esta Corte (HC 918.409-SP), não tendo sido conhecida a impetração porque a questão não havia sido alvo de apreciação perante o Tribunal estadual. Naquele habeas corpus, a defesa apontava como ato coator o acórdão proferido na Apelação n. 0092366-78.2018.8.26.0050, que inclusive foi alvo de recurso especial inadmitido na origem.
+No acórdão aqui impugnado, o Tribunal de Justiça de São Paulo assim decidiu:
+Por aqui, os impetrantes alegam que o paciente - que é advogado - atuava em causa própria e estava internado em clínica de reabilitação contra a dependência química, quando apresentou as alegações finais e o recurso de apelação, de maneira que não tinha condições de adotar as medidas necessárias para o regular exercício do direito de defesa.
+Entretanto, a alegação de que o paciente estava com problemas psiquiátricos não impediu que ele apresentasse as suas alegações finais dentro do prazo legal, com argumentação suficiente que possibilitou ao juízo de origem analisar as teses defensivas e proferir a sentença.
+Além disso, o paciente também apresentou o recurso de apelação no prazo legal, inclusive com a tese de desclassificação da conduta para o delito de exercício arbitrário das próprias razões - que os impetrantes afirmam que deixou de ser apresentada, em razão dos problemas relacionados ao uso de entorpecentes pelo paciente - que foi devidamente analisada e afastada no v. acórdão proferido pela Turma Julgadora.
+Vale dizer, a simples alegação de que o paciente estava com problemas psiquiátricos, a princípio, não é suficiente para justificar a anulação da ação penal, pois é necessária a comprovação pericial de que não era capaz de praticar os atos da vida civil na ocasião.
+De qualquer forma, ainda que o paciente estivesse atuando em causa própria, esteve representado por advogada constituída (Dra. Raquel Trovalim, OAB/SP nº 455.156 - fls. 263/264 dos autos de origem), desde o início da fase processual até o julgamento do recurso de apelação por esta 11ª Câmara de Direito Criminal, de sorte que, teve garantido o direito ao contraditório e ampla defesa e não se vislumbra ilegalidade manifesta, a ponto de justificar a anulação do processo.
+Bem por isso, como a impetração não indicou vício ou nulidade concreta capaz de anular o processo, limitando-se, inclusive, a dizer que havia deficiência na defesa, em razão dos procedimentos adotados pelo acusado, que atuava em causa própria, a mera discordância acerca das teses trazidas pelo paciente não pode ser considerado efetivo prejuízo ao seu direito de defesa.
+Sem isso, mais ainda na via estreita do habeas corpus, repita-se, não se justifica o reconhecimento de nulidade, conforme dispõe o enunciado da Súmula 523 do Col. Supremo Tribunal Federal:
+"No processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu". (e-STJ, fls. 268-269; grifou-se.)
+Da análise de todo o exposto, não se verifica a existência de nenhuma nulidade a ser reconhecida na hipótese. Consoante exposto no acórdão impugnado, embora alegue que padecia de doença grave, o recorrente não logrou demonstrar que encontrava-se incapaz para a prática de atos da vida civil.
+Além disso, consta que houve apresentação tempestiva de alegações finais e do recurso de apelação e que, embora estivesse atuando em causa própria, o recorrente encontrava-se assistido por advogada constituída desde o início da ação penal até o julgamento do recurso de apelação.
+Ademais, consoante precedente citado no parecer ministerial, "nos termos do entendimento sumulado pelo Supremo Tribunal Federal, apenas a falta de defesa técnica constitui nulidade absoluta da ação penal; a alegação de sua deficiência, para ser apta a macular a prestação jurisdicional, deve ser acompanhada da demonstração de efetivo prejuízo para o acusado, tratando-se, pois, de nulidade relativa. Esse é o teor da 523 da Súmula do Supremo Tribunal Federal" (AgRg no HC n. 876.650/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+Diante do exposto, nego provimento ao recurso.
+Publique-se. Intime-se.
+EMENTA
