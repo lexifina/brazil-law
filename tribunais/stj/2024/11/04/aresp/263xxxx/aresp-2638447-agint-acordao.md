@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RITO COMUM. PRETENSÃO DE REGRESSO. ALEGAÇÃO DE OFENSA AO ART. 373, I, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. ALEGAÇÃO DE NULIDADE DA CITAÇÃO. REEXAME. SÚMULA 7/STJ. LEGITIMIDADE PASSIVA. PROPRIETÁRIO DO VEÍCULO ENVOLVIDO NO ACIDENTE. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+2. No caso, o TJSP rejeitou o pedido de declaração de nulidade da citação, tendo em vista que: (i) o réu não comprovou a alegação de que seu endereço estava errado, ao tempo da realização da citação; (ii) o réu fora citado em outro feito, também em trâmite na Corte Estadual, no mesmo endereço indicado na inicial da presente demanda; e (iii) é válida a citação enviada a condomínio edilício, se não houve recusa em seu recebimento. A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Nos termos da jurisprudência do STJ, "é solidária a responsabilidade do proprietário do veículo quanto aos danos advindos de acidente provocado por terceiro a quem entregou a condução do seu veículo, ainda que o automóvel tenha sido disponibilizado ao causador do ilícito mediante contrato de locação" (AgInt nos EDcl no AREsp 2.385.834/MG, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023).
+4. No caso, o Tribunal de origem registrou que, no tempo do acidente, o veículo dirigido pelo causador do evento era de propriedade da parte recorrente.
+5. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BRUNO DE ALCÂNTARA RIBEIRO AMORIM DE OLIVEIRA em face de decisão desta relatoria, que conheceu do agravo para negar provimento ao recurso especial.
+O agravante sustenta, em síntese: (a) deve-se afastar o óbice das Súmulas 282 e 356/STF, pois, "como se depreende do v. acórdão impugnado, ao manter a procedência da ação, negou vigência ao art. 373, inc. I, do Código de Processo Civil, visto que considerou que a Agravada, ora Recorrida (Autora e Apelada), se desincumbiu de seu ônus probatório (qual seja, a culpa do condutor, que não era o Agravante, ali Recorrente, mas terceiro), ou seja, que o condutor da moto havia agido com culpa" (fl. 287); (b) não incide o óbice da Súmula 7/STJ, porque "o v. Acórdão recorrido considerou o Agravante citado em endereço que, de modo incontroverso, ele não mais residia" (fl. 288); e (c) inaplicabilidade das Súmulas 7 e 83/STJ, dado que "também é fato incontroverso que o Recorrente, ora Agravante, não era mais proprietário do veículo quando envolvido no acidente, não somente pela tradição mas pela prova documental produzida" (fl. 289).
+Indica também a omissão da decisão singular a respeito da alegação de dissídio jurisprudencial.
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pelo Órgão Colegiado competente (fls. 286/292).
+Impugnação às fls. 296/303.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RITO COMUM. PRETENSÃO DE REGRESSO. ALEGAÇÃO DE OFENSA AO ART. 373, I, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. ALEGAÇÃO DE NULIDADE DA CITAÇÃO. REEXAME. SÚMULA 7/STJ. LEGITIMIDADE PASSIVA. PROPRIETÁRIO DO VEÍCULO ENVOLVIDO NO ACIDENTE. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+2. No caso, o TJSP rejeitou o pedido de declaração de nulidade da citação, tendo em vista que: (i) o réu não comprovou a alegação de que seu endereço estava errado, ao tempo da realização da citação; (ii) o réu fora citado em outro feito, também em trâmite na Corte Estadual, no mesmo endereço indicado na inicial da presente demanda; e (iii) é válida a citação enviada a condomínio edilício, se não houve recusa em seu recebimento. A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Nos termos da jurisprudência do STJ, "é solidária a responsabilidade do proprietário do veículo quanto aos danos advindos de acidente provocado por terceiro a quem entregou a condução do seu veículo, ainda que o automóvel tenha sido disponibilizado ao causador do ilícito mediante contrato de locação" (AgInt nos EDcl no AREsp 2.385.834/MG, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023).
+4. No caso, o Tribunal de origem registrou que, no tempo do acidente, o veículo dirigido pelo causador do evento era de propriedade da parte recorrente.
+5. Agravo interno improvido.
+VOTO
+A decisão agravada não merece reparos.
+Apesar de o eg. TJSP ter confirmado a procedência dos pedidos, não houve debate sobre se o autor teria ou não se desincumbido do ônus de provar os fatos constitutivos do seu direito. A Corte de origem nem sequer se referiu ao assunto, no acórdão de apelação.
+Desse modo, deve-se manter o óbice das Súmulas 282 e 356/STF.
+O eg. TJSP rejeitou o pedido de declaração de nulidade da citação, tendo em vista que: (i) o réu não comprovou a alegação de que seu endereço estava errado, ao tempo da realização da citação; (ii) o réu fora citado em outro feito, também em trâmite no eg. TJSP, no mesmo endereço indicado na inicial da presente demanda; e (iii) é válida a citação enviada a condomínio edilício, se não houve recusa em seu recebimento.
+Fica nítido, portanto, que a reforma do acórdão de 2º grau encontra óbice na Súmula 7/STJ. Afinal, sem o reexame das provas dos autos, não é possível apurar se, ao tempo da realização da citação, o réu morava ou não no endereço apontado na petição inicial.
+Sobre a tese de ilegitimidade passiva, o Tribunal de origem consignou:
+"(..) o veículo ainda constava no nome do réu-apelante quando da data do acidente, tendo somente sido comunicada a venda somente em 27/02/2023 e registrada somente em 11/04/2023 (fls. 129/130) (..) (fl. 158)"
+O acórdão foi corretamente mantido, nessa parte. Na visão do STJ, "é solidária a responsabilidade do proprietário do veículo quanto aos danos advindos de acidente provocado por terceiro a quem entregou a condução do seu veículo, ainda que o automóvel tenha sido disponibilizado ao causador do ilícito mediante contrato de locação" (AgInt nos EDcl no AREsp 2.385.834/MG, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023).
+Mantém-se, assim, a incidência da Súmula 83/STJ.
+Ademais, em razão da Súmula 7/STJ, esta Corte não pode investigar novamente se, ao tempo do acidente, o réu era ou não o proprietário do veículo.
+Por fim, nos termos da jurisprudência do STJ, "Os óbices das Súmulas 83 e 7 do STJ impedem o exame do recurso especial interposto tanto pela alínea "a" quanto pela "c"" (AgInt no AREsp 2.241.358/GO, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/3/2024, DJe de 7/3/2024).
+Ante o exposto, nega-se provimento ao agravo interno .
+É como voto.
