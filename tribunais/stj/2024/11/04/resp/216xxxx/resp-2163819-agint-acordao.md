@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - VALE-PEDÁGIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A pretensão fundada na aplicação do art. 8º da Lei n. 10.209/2001 prescreve em dez anos, na forma do art. 205 do Código Civil. Precedente.
+2. " A penalidade prevista no art. 8º da Lei nº 10.209/2001 é uma sanção legal, de caráter especial, prevista na lei que instituiu o Vale-Pedágio obrigatório para o transporte rodoviário de carga, razão pela qual não é possível a convenção das partes para lhe alterar o conteúdo, bem assim a de se fazer incidir o ponderado art. 412 do CC/02" (REsp 1.694.324/SP, Rel. p/ acórdão Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/11/2018, DJe de 05/12/2018).
+3. A revisão da conclusão adotada na origem, para que seja revisto o valor da multa em discussão nos autos, traduz medida que encontra veto nas Súmulas 5 e 7 do STJ, por demandar necessário reexame de cláusulas contratuais, fatos e provas.
+4. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno interposto por TIDIANA LOGISTICA E TRANSPORTES LTDA, contra decisão monocrática de fls. 578/582 (e-STJ), a qual negou provimento ao recurso especial interposto pela partes ora recorrente.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou, a seu turno, acórdão proferido pelo Tribunal  de  Justiça  do  Estado  de  São Paulo,  assim  ementado  (fl.  495,  e-STJ):
+APELAÇÃO Ação de cobrança Transporte rodoviário de carga Vale-pedágio Ilegitimidade passiva Inocorrência Prescrição Aplicável prazo geral decenal do Código Civil, considerando fato gerador anterior a Lei 14.229/2021 Liberdade de contratação que deve seguir os parâmetros da legislação em vigor Obrigatoriedade de pagamento antecipado do vale-pedágio Ausência de prova de pagamento Penalidade disposta no art. 8º, da Lei10.209/2001 Impossibilidade de mitigação Lei especial(que instituiu o vale-pedágio) que prevalece sobre a Lei geral (Código Civil) Honorários advocatícios corretamente arbitrados Recursos não providos.
+Em  suas  razões  de  recurso  especial,  o  recorrente  aponta, além de divergência jurisprudencial,  ofensa  ao art. 422 do CC,  art.  8.º da Lei n. 10.209/2001 e arts. 11, § 8º, e 18 da Lei n. 11.442/2007.
+Sustenta,  em  síntese:
+a) que a pretensão da parte ora recorrida está prescrita, uma vez que o prazo aplicado à hipótese é ânuo;
+b) a necessidade de afastamento da multa prevista no do Art. 8 da Lei nº 10.209/2001, sob pena de enriquecimento ilícito da empresa de transportes.
+Contrarrazões às fls. 565/569, e-STJ.
+Em  juízo  de  admissibilidade,  admitiu-se  o  processamento  do  recurso  especial  (fls.  570/571,  e-STJ).
+Por decisão monocrática (fls.578/582, e-STJ), este signatário negou provimento ao recurso especial ante a existência de norma cogente sobre a matéria e com amparo nos enunciados contidos nas Súmulas 5 e 7/STJ.
+Em suas razões de agravo interno (fls. 586/617, e-STJ), a recorrente refuta os fundamentos em que se lastreou o decisum hostilizado, oportunidade em que reafirma os argumentos deduzidos no apelo nobre.
+Impugnação às fls. 620/622, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - VALE-PEDÁGIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A pretensão fundada na aplicação do art. 8º da Lei n. 10.209/2001 prescreve em dez anos, na forma do art. 205 do Código Civil. Precedente.
+2. " A penalidade prevista no art. 8º da Lei nº 10.209/2001 é uma sanção legal, de caráter especial, prevista na lei que instituiu o Vale-Pedágio obrigatório para o transporte rodoviário de carga, razão pela qual não é possível a convenção das partes para lhe alterar o conteúdo, bem assim a de se fazer incidir o ponderado art. 412 do CC/02" (REsp 1.694.324/SP, Rel. p/ acórdão Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/11/2018, DJe de 05/12/2018).
+3. A revisão da conclusão adotada na origem, para que seja revisto o valor da multa em discussão nos autos, traduz medida que encontra veto nas Súmulas 5 e 7 do STJ, por demandar necessário reexame de cláusulas contratuais, fatos e provas.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O presente recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado, motivo pelo qual ele merece ser mantido na íntegra por seus próprios fundamentos.
+1. De acordo com a decisão monocrática anteriormente proferida, celebrado o contrato antes de 2021, deve-se aplicar à espécie o entendimento do STJ sedimentado antes da edição da Lei n. 14.229/2021, no sentido de que a pretensão fundada na aplicação do art. 8º da Lei n. 10.209/2001 prescreve em dez anos, na forma do art. 205 do Código Civil. Veja-se o REsp 2043327/RS (relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/11/2023, DJe de 13/11/2023.).
+2. A Corte de origem, após a análise de fatos e provas levados aos autos, concluiu pela regularidade da multa contratada nos termos do artigo 8º da Lei 10.209/2001, conforme se depreende do trecho do acórdão abaixo reproduzido:
+Melhor sorte não socorre o pedido de adequação da multa, porquanto disposta na própria legislação sobre o assunto (art. 8º, Lei10.209/2001), lei especial que deve prevalecer sobre a lei geral, conforme já decidiu o C. STJ. Veja-se a jurisprudência:
+Sobre a questão, o eg. Supremo Tribunal Federal, no julgamento da ADI 6.031/DF, em 27/3/2020, de relatoria da Exma. Ministra CÁRMEN LÚCIA, declarou a constitucionalidade do aludido art. 8º da Lei 10.209/2001, consignando não haver, no caso, violação ao princípio da proporcionalidade, tampouco conflito de normas ou princípios apto a afastar a validade do dispositivo legal.
+O respectivo acórdão ficou assim ementado:
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. REQUERIMENTO DE MEDIDA CAUTELAR. ART. 8º DA LEI N. 10.209/2001. PAGAMENTO ANTECIPADO DE VALE-PEDÁGIO NA CONTRATAÇÃO DE SERVIÇOS DE TRANSPORTE RODOVIÁRIO DE CARGAS. INDENIZAÇÃO AO TRANSPORTADOR, EM CASO DE DESCUMPRIMENTO DA OBRIGAÇÃO PELO CONTRATANTE, EM VALOR VINCULADO AO FRETE CONTRATADO. ALEGADA OFENSA AO ART. 1º E AO INC. LIV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA. LEGITIMIDADE ATIVA AD CAUSAM. LIMITES DE INCIDÊNCIA DO PRINCÍPIO DA PROPORCIONALIDADE COMO PARÂMETRO CONSTITUCIONAL DE CONTROLE DE CONSTITUCIONALIDADE. NECESSIDADE DE COMPROVAÇÃO DE ABUSO LEGISLATIVO. PRECEDENTES. INDENIZAÇÃO LEGAL QUE NÃO SE DEMONSTRA DESARRAZOADA. AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA IMPROCEDENTE.
+1. Proposta de conversão de julgamento de medida cautelar em julgamento definitivo de mérito: não complexidade da questão de direito e instrução dos autos. Precedentes.
+2. Legitimidade ativa ad causam da Confederação Nacional das Indústrias - CNI: existência de pertinência temática entre os objetivos institucionais e o conteúdo material do texto normativo impugnado. Precedentes.
+3. A atividade legislativa sujeita-se à estrita observância de diretriz fundamental pela qual, havendo suporte teórico no princípio da proporcionalidade, vedam-se os excessos normativos e as prescrições irrazoáveis do Poder Público. Precedentes.
+4. Indenização, no caso de descumprimento pelo embarcador de antecipação do vale-pedágio ao transportador, em quantia equivalente a duas vezes o valor do frete, que não se revela arbitrária ou irrazoável.
+5. Ação direta de inconstitucionalidade julgada improcedente para declarar constitucional o art. 8º da Lei n. 10.209/2001.
+(ADI 6031, Relator(a): CÁRMEN LÚCIA, Tribunal Pleno, julgado em 27/03/2020, PROCESSO ELETRÔNICO DJe-090 DIVULG 15-04-2020 PUBLIC 16-04-2020, g.n.)
+Nesse contexto, verifica-se a existência de norma cogente, de observância obrigatória, uma vez que o legislador impôs sua obrigatoriedade, independentemente da vontade das partes.
+A propósito:
+AGRAVO INTERNO. TRANSPORTE DE CARGA. LEI DO VALE-PEDÁGIO. PRESCRIÇÃO. NÃO OCORRÊNCIA. SÚMULA 83/STJ. PAGAMENTO ANTECIPADO. NECESSIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. ABATIMENTO DA CONDENAÇÃO. IMPOSSIBILIDADE. NÃO PROVIMENTO.
+1. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidência da Súmula n. 83 do STJ.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. "A penalidade prevista no art. 8º da Lei nº 10.209/2001 é uma sanção legal, de caráter especial, prevista na lei que instituiu o Vale-Pedágio obrigatório para o transporte rodoviário de carga, razão pela qual não é possível a convenção das partes para lhe alterar o conteúdo, bem assim a de se fazer incidir o ponderado art. 412 do CC/02" (REsp 1.694.324/SP, Rel. p/ acórdão Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/11/2018, DJe de 05/12/2018).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 2.106.256/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/4/2024, DJe de 2/5/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TRANSPORTE DE CARGA. VALE PEDÁGIO. LEI 10.209/2001. "DOBRA DO FRETE". NORMA COGENTE. INAPLICABILIDADE DO INSTITUTO DA SUPRESSIO. PENALIDADE QUE NÃO ADMITE A CONVENÇÃO DAS PARTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se aplica o instituto da supressio na relação entre o transportador e o contratante do serviço de transporte a fim de tornar inexigível o pagamento do vale-pedágio de forma adiantada e em separado, tendo em vista a natureza cogente da norma que institui a multa denominada de "dobra do frete".
+2. "A penalidade prevista no art. 8º da Lei nº 10.209/2001 é uma sanção legal, de caráter especial, prevista na lei que instituiu o Vale-Pedágio obrigatório para o transporte rodoviário de carga, razão pela qual não é possível a convenção das partes para lhe alterar o conteúdo, bem assim a de se fazer incidir o ponderado art. 412 do CC/02" (REsp 1.694.324/SP, Rel. p/ acórdão Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/11/2018, DJe de 05/12/2018).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.532.681/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/2/2020, DJe de 13/2/2020)
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE COBRANÇA. VALE PEDÁGIO. LEI Nº 10.209/2001. MULTA DENOMINADA "DOBRA DO FRETE". NORMA COGENTE. INAPLICABILIDADE DO INSTITUTO DA SUPRESSIO. PENALIDADE QUE NÃO ADMITE A CONVENÇÃO DAS PARTES. IMPOSSIBILIDADE DE SE FAZER INCIDIR O PONDERADO ART. 412 DO CC/02. RECURSO DESPROVIDO.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. O instituto da supressio não é aplicável ao caso, em virtude da natureza cogente da norma que estabelece a multa denominada de "dobra do frete".
+3. A penalidade prevista no art. 8º da Lei nº 10.209/2001 é uma sanção legal, de caráter especial, prevista na lei que instituiu o Vale-Pedágio obrigatório para o transporte rodoviário de carga, razão pela qual não é possível a convenção das partes para lhe alterar o conteúdo, bem assim a de se fazer incidir o ponderado art.
+412 do CC/02.
+4. Recurso especial desprovido.
+(REsp 1694324/SP, Rel. Ministra NANCY ANDRIGHI, Rel. p/ acórdão Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/11/2018, DJe 05/12/2018)
+Relativamente a tais questões, o Tribunal estadual decidiu a controvérsia em conformidade com a jurisprudência do eg. STF e desta Corte de Justiça.
+Ademais, a revisão da conclusão adotada na origem, para que seja revisto o valor da multa em discussão nos autos, traduz medida que encontra veto nas Súmulas 5 e 7 do STJ, por demandar necessário reexame de cláusulas contratuais, fatos e provas.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. VALE-PEDÁGIO. SERVIÇOS DE TRANSPORTE RODOVIÁRIO DE CARGA PRESTADOS POR TRANSPORTADOR. EMPRESA COMERCIAL. INCIDÊNCIA DA PENALIDADE PREVISTA NO ART. 8º DA LEI N. 10.209/2001. NECESSIDADE DE DEMONSTRAÇÃO DOS REQUISITOS. ÔNUS DA PROVA QUE INCUMBE AO TRANSPORTADOR. AUSÊNCIA DE COMPROVAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Deduzida em juízo a pretensão do transportador de receber o valor da multa do art. 8º da Lei n. 10.209/2001, deve este demonstrar a presença dos seus pressupostos em cada frete realizado, a evidenciar a procedência da demanda - conforme a regra geral disposta no art. 373, I, do CPC/2015, notadamente em virtude de o contratante do serviço de transporte não figurar como parte nas demais relações jurídicas porventura existentes entre o transportador e outras empresas embarcadoras que com este contratem, a fim de denotar a aludida exclusividade, revelando-se mais custosa ao contratante a produção de prova nesse sentido do que ao transportador.
+2. O Colegiado estadual, com base no conjunto fático-probatório, consignou que não houve a devida comprovação entre a efetiva prestação dos serviços em favor da agravada e os pedágios arcados pela agravante. Rever tal conclusão esbarra no óbice da Súmula 7 desta Corte.
+3. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp n. 1.836.047/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/11/2021, DJe de 19/11/2021.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TRANSPORTE DE CARGA. VALE-PEDÁGIO. PAGAMENTO ANTECIPADO (LEI 10.209/2001, ART. 8º). DOBRA DO FRETE. CONSTITUCIONALIDADE RECONHECIDA PELO STF. NÃO COMPROVAÇÃO DO ADIANTAMENTO. REEXAME (SÚMULA 7/STJ). CABIMENTO DA DOBRA. AGRAVO PARCIALMENTE PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. A Lei 10.209/2001 tornou obrigatório o pagamento, pelo embarcador, do vale-pedágio de forma adiantada e em separado, sendo que, em caso de descumprimento, o art. 8º da Lei prevê a penalidade denominada "dobra do frete", pela qual o embarcador será obrigado a indenizar o transportador em quantia equivalente a duas vezes o valor do frete contratado.
+2. O eg. Supremo Tribunal Federal, em sede de controle direto (ADI 6.031/DF), reconheceu a constitucionalidade do referido dispositivo legal.
+3. No caso, o eg. Tribunal de origem, com base nos elementos fático-probatórios dos autos, concluiu que a transportadora comprovou o pagamento do frete pelo embarcador sem o devido adiantamento de vale-pedágio, de modo a incidir a dobra do frete prevista no art. 8º da Lei 10.209/2001. A alteração desse entendimento esbarra no óbice da Súmula 7/STJ.
+4. Resta, então, apenas proceder-se à liquidação para obtenção do correto valor devido, quando será necessária a análise dos documentos juntados aos autos, demonstrativos dos valores despendidos a título de pedágio, conferindo-se rigorosamente o montante custeado pelas agravadas em cada frete realizado, como base de cálculo para o pagamento da multa legal.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 767.766/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/12/2022, DJe de 28/2/2023.)
+De rigor, portanto, a manutenção da decisão ora impugnada.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
