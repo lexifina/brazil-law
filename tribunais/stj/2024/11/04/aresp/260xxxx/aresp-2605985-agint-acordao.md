@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - RECONVENÇÃO E DENUNCIAÇÃO À LIDE - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO PARA NÃO CONHECER DO APELO NOBRE.
+INSURGÊNCIA DA LITISDENUNCIADA.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impõe a incidência da Súmula 283/STF
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por NOTRE DAME INTERMEDICA SAUDE S.A. em face da decisão acostada às fls. 589-591 e-STJ, da lavra deste relator, que conheceu do agravo (art. 1.042 do CPC/15) para não conhecer do recurso especial.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 480-489 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+APELAÇÃO CÍVEL. DIREITO PRIVADO. CONSUMIDOR. AÇÃO DE COBRANÇA PROPOSTA POR HOSPITAL EM FACE DE PACIENTE, TENDO EM VISTA A RECUSA DO PLANO DE SAÚDE AO CUSTEIO DO ATENDIMENTO MÉDICO. DENUNCIAÇÃO À LIDE DO PLANO DE SAÚDE. SENTENÇA DE PROCEDÊNCIA PARA CONDENAR AS RÉS AO PAGAMENTO DA QUANTIA COBRADA NA INICIAL E DE IMPROCEDÊNCIA DA LIDE SECUNDÁRIA E DA RECONVENÇÃO. RECURSO DAS RÉS AFIRMANDO QUE O ATENDIMENTO SE DEU EM CARÁTER DE URGÊNCIA E QUE A SEGUNDA RÉ, MÃE DA PRIMEIRA, SOMENTE TERIA ASSINADO O TERMO DE RESPONSABILIDADE MEDIANTE O RISCO DE MORTE DE SUA FILHA E NETA. PRELIMINAR DE INÉPCIA DO RECURSO ADUZIDA EM CONTRARRAZÕES. APELO QUE MANIFESTA SEU INCONFORMISMO E POSSIBILITA A CONTRA ARGUMENTAÇÃO DA PARTE CONTRÁRIA. PRINCÍPIO DA DIALETICIDADE RESPEITADO. HOSPITAL PARTICULAR QUE NÃO ESTÁ OBRIGADO A PRESTAR SERVIÇO GRATUITO, SENDO, A PRINCÍPIO, VÁLIDOS OS TERMOS DE RESPONSABILIDADE FINANCEIRA EXIGIDOS POR ESTES NOSOCÔMIOS, TENDO EM VISTA QUE A SITUAÇÃO DE RISCO À VIDA É PRÓPRIA DAS EMERGÊNCIAS DOS HOSPITAIS. VÍCIO DE VONTADE NÃO VERIFICADO. DENUNCIAÇÃO À LIDE QUE DEVE SER JULGADA PROCEDENTE. OBRIGATORIEDADE DE CUSTEIO PELA OPERADORA DE PROCEDIMENTOS DE URGÊNCIA OU EMERGÊNCIA QUANDO SE REFERIREM AO PROCESSO GESTACIONAL, INDEPENDENTEMENTE DA CONTRATAÇÃO DE COBERTURA DE OBSTETRÍCIA. INTELIGÊNCIA DOS ARTIGOS 35-D INCISO II DA LEI 9.656.98 E 4º DA RESOLUÇÃO N. 13 DO CONSU. PRECEDENTES DO STJ. NEGATIVA ABUSIVA. DANO MORAL CONFIGURADO. "A RECUSA INDEVIDA DE TRATAMENTO MÉDICO - NOS CASOS DE URGÊNCIA - AGRAVA A SITUAÇÃO PSICOLÓGICA E GERA AFLIÇÃO, QUE ULTRAPASSAM OS MEROS DISSABORES, CARACTERIZANDO O DANO MORAL INDENIZÁVEL." (AGRG NO ARESP 213.169/RS). SÚMULA 209 TJRJ. RECONVENÇÃO PARCIALMENTE PROCEDENTE. QUANTUM ARBITRADO EM R$8.000,00. PARCIAL PROVIMENTO DO RECURSO.
+Nas razões de recurso especial (fls. 501-512 e-STJ), alegou a insurgente que o acórdão recorrido violou o artigo 12, inc. II, "a", da Lei n. 9.656/98, aduzindo a licitude da recusa de cobertura, pois o plano de saúde da demandada/reconvinte não inclui atendimento obstétrico.
+Contrarrazões às fls. 528-532 e-STJ.
+Em juízo prévio de admissibilidade (fls. 535-540 e-STJ), a Corte de origem inadmitiu o apelo nobre, ensejando a interposição do presente agravo (art. 1.042 do CPC/15), às fls. 554-562 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 568-574 e-STJ.
+Em julgamento monocrático, conhece-se do reclamo para não conhecer do apelo nobre, por incidência da Súmula 283/STF.
+Inconformada, interpôs o presente agravo interno (fls. 600-606 e-STJ), em síntese, sustentando a inaplicabilidade do óbice.
+Impugnação às fls. 610-616 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - RECONVENÇÃO E DENUNCIAÇÃO À LIDE - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO PARA NÃO CONHECER DO APELO NOBRE.
+INSURGÊNCIA DA LITISDENUNCIADA.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impõe a incidência da Súmula 283/STF
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. O recurso especial é inadmissível por não ter infirmado fundamento autônomo do acórdão recorrido.
+Segundo os autos, a Corte de origem reformou a sentença que havia julgado: (a) procedente a ação de cobrança ajuizada pela Casa de Saúde ora agravada em face da coagravada Tatiana; (b) improcedentes a reconvenção e a denunciação à lide apresentadas por Tatiana.
+O Tribunal a quo concluiu, em síntese, pela procedência da denunciação à lide e parcial procedência da reconvenção, reconhecendo a responsabilidade da operadora de plano saúde: (a) pelo pagamento dos valores cobrados pelo nosocômio; e, (b) pelos danos morais causados, fixando indenização.
+A responsabilidade da ora agravante foi reconhecida, na origem, pelos seguintes fundamentos:
+O Artigo 12 da Lei n. 9.656/98, incisos I, II e III, dispõe que os planos de saúde podem ser de segmento ambulatorial e hospitalar, com ou sem cobertura obstetrícia e, o art. 35-C, inciso II, garante cobertura obrigatória do atendimento de urgência, "assim entendidos os resultantes de acidentes pessoais ou de complicações no processo gestacional".
+Não obstante, o Art. 4º da Resolução nº 13 do CONSU (Conselho de Saúde Suplementar), determina que "Os contratos de plano hospitalar, com ou sem cobertura obstétrica, deverão garantir os atendimentos de urgência e emergência quando se referirem ao processo gestacional." (..)
+Na hipótese, os documentos acostados não deixam qualquer dúvida acerca da urgência do quadro da autora que, com apenas 27 semanas de gestação, deu entrada na emergência do Hospital às 16h13m do dia 21/06/2016, com dores abdominais e pressão alta; sendo submetida a parto cesárea às 18h20 para retirada do feto, natimorto.
+Todavia, conforme afirmado monocraticamente, o fundamento acima destacado não foi impugnado pelo recurso especial, o que atrai o óbice da Súmula 283/STF, aplicável por analogia.
+Em semelhante sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE BENEFÍCIO. INDENIZAÇÃO DE HORAS TRABALHADAS. SUPLEMENTAÇÃO DE APOSENTADORIA. MATÉRIA REPETITIVA. JUÍZO DE CONFORMIDADE. DISTINGUISHING REALIZADO. ACÓRDÃO RECORRIDO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283/STF. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA Nº 211/STJ. LINDB. ÍNDOLE CONSTITUCIONAL. 1. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283 do Supremo Tribunal Federal.  ..  5. Agravo interno não provido. (AgInt no REsp n. 2.020.639/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. FUNDAMENTO SUFICIENTE À MANUTENÇÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 283 DO STF. AVALIAÇÃO DE IMÓVEL. QUALIFICAÇÃO TÉCNICA. NÃO RESTRIÇÃO A ENGENHEIRO, ARQUITETO OU AGRÔNOMO. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. PERITO. CAPACIDADE TÉCNICA. REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.  ..  2. A ausência de impugnação específica de fundamento suficiente, por si só, para manter incólume o acórdão recorrido configura deficiência na fundamentação (Súmula n. 283 do STF).  ..  5. Agravo interno desprovido. (AgInt no AREsp n. 1.796.184/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+1.1. No presente agravo interno, a insurgente afirma que o acórdão fez menção à referida regulação mas não a aplicou, por entender que não havia urgência, e teria subvertido tal conclusão sopesando "princípios ocultos".
+O argumento é duplamente inverídico - seja porque a Corte de origem considerou que "os documentos acostados não deixam qualquer dúvida acerca da urgência do quadro da autora", para aplicar o dispositivo regulamentar em questão; seja porque não há qualquer fundamento principiológico no aresto.
+Logo, não tendo o recurso especial impugnado fundamento central do acórdão recorrido, deve ser mantida a decisão agravada, que considerou inadmissível o apelo nobre, por óbice da Súmula 283/STF.
+2. Deixa-se de aplicar a multa recursal prevista no art. 1.021, § 4º, do CPC/15, pois não se observa, no presente momento, o intuito meramente protelatório do presente agravo interno.
+Desde já, entretanto, adverte-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
