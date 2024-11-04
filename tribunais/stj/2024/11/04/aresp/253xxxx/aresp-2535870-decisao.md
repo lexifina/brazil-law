@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NOTRE DAME INTERMEDICA SAUDE S.A. (NOTRE DAME) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, NOTRE DAME alegou a violação do art. 523 do CPC. Sustentou, em suma, que é impossível qualquer aplicação de multa e honorários previstos no artigo 523 do CPC, posto que os pagamentos foram tempestivos (e-STJ, fls. 516/525).
+Da violação do art. 523 do CPC
+Verifica-se, de plano, que a tese referente ao cabimento, ou não, da multa e dos honorários previstos no art. 523 do CPC não foi objeto de debate no v. acórdão recorrido, carecendo, portanto, do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+Ressalte-se que é exigência contida na própria previsão constitucional para a interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pela Corte de origem, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido. É imprescindível que se tenha emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada.
+Aplicável, assim, por analogia, a Súmula n. 282 do STF, a qual estabelece ser inadmissível recurso especial quanto à questão que não foi apreciada pelo Tribunal a quo.
+Além disso, destaca-se que, nas razões do especial, NOTRE DAME não apresentou argumentos claros e concatenados que pudessem esclarecer os fundamentos ou motivos pelos quais entendeu violado os mencionados dispositivos. Por conseguinte, não houve a demonstração, clara e precisa, da necessidade de reforma do acórdão recorrido, o que impede compreender a exata medida da controvérsia, ensejando a aplicação da Súmula n. 284 do STF, por analogia.
+Por derradeiro, tendo o Tribunal bandeirante afirmado que
+ ..  2.- O apelo merece acolhimento, respeitado o entendimento do Douto Magistrado.
+Sustenta o exequente que há valores remanescentes a serem cobrados em sede de cumprimento de sentença, sendo indevida a extinção operada pela r. sentença recorrida.
+Com razão o credor.
+Com efeito.
+O v. Acórdão proferido no Agravo de Instrumento nº 2205496-94.2020.8.26.0000 concluiu que há incidência de multa processual de 10% sobre o objeto da execução, bem como de honorários advocatícios: "Em sendo assim, nada há a afastar a convicção de que a agravada foi intimada para pagamento e não houve cumprimento temporalmente adequado das condenações apuradas, quadro que leva a incidência da multa processual de 10% (dez por cento) sobre ambos os objetos da execução (R$ 15.000,00 e R$ 30.000,00), bem como imperativa a imposição de honorários advocatícios em sede de cumprimento de sentença, na forma expressa pelo artigo 523 do Código de Processo Civil. Aplica-se, ainda, o entendimento da Súmula 517 da Corte Especial: "São devidos honorários advocatícios no cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário, que se inicia após a intimação do advogado da parte executada". No que toca à honorária, em especial, observe-se que incidirá pela regra legal de 10% (dez por cento) quanto ao segundo débito, e, no que se refere ao primeiro débito, será equivalente a 5% (cinco por cento), haja vista o teor da r. decisão de fl. 59 dos autos incidentais de origem, preclusa ante a inexistência de impugnação pela parte interessada.".
+Desta forma, diante dos depósitos realizados sem a incidência de multa e honorários advocatícios, reconhecidos como devidos por esta Câmara, remanesce interesse do exequente na cobrança dos valores não pagos.
+Nesse contexto, não prospera a alegação da apelada de que não há incidência da multa, pois tal questão já foi definitivamente decidida em sede de Agravo de Instrumento nº 2205496- 94.2020.8.26.0000: "Contudo, os depósitos judiciais voltados à satisfação de tais objetos executados se deram após o prazo legal de pagamento voluntário, de quinze dias, conforme fls. 123/124 e 262/268 dos autos incidentais de origem. Ressalte-se, ainda, que, embora o seguro fiança seja equiparado à penhora em dinheiro, ele não equivale ao pagamento voluntário do débito, já que tem por objetivo a garantia do juízo para apresentação de impugnação, não obstando a incidência da multa e dos honorários do art. 523, § 1º, do diploma processual civil.".
+Por fim, o pedido de levantamento do montante depositado (fls. 423/424) não implica em quitação dos valores, mormente porque a manifestação do credor nada declarou nesse sentido.
+3.- Diante do exposto, impõe-se a anulação da r. sentença, para que, afastando-se o decreto extintivo da fase executiva, seja o exequente intimado para apresentar conta do valor remanescente devido, sem prejuízo de a executada demonstrar, concretamente, referido pagamento (e-STJ, fls. 510/514 - sem destaques no original).
+Desse modo, evidencia-se não ser possível, aqui, entender de modo diferente, pois seria imprescindível o reexame de matéria fático-probatória, inviável, em razão do óbice contido na Súmula n. 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+Assim, está claro que o recurso especial não merece nem sequer ultrapassar a barreira do conhecimento.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER o recurso especial.
+Inaplicável ao caso a majoração dos honorários advocatícios.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO PELO CUMPRIMENTO. REFORMA EM SEDE DE APELAÇÃO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 282 E 284, AMBAS DO STF, POR ANALOGIA. REFORMA DO JULGADO. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
