@@ -1,0 +1,11 @@
+DECISÃO
+Por meio da petição n. 00773322/2024 (e-STJ fls. 990/993), o recorrente, KIRTON BANK S. A. - BANCO MÚLTIPLO, atual denominação de HSBC BANK BRASIL S. A. - BANCO MÚLTIPLO, requer, nos termos do art. 1.037, II, do CPC/2015, a suspensão dos autos, tendo em vista a afetação, pela Segunda Seção desta Corte, dos Recursos Especiais n. 1.877.300/SP e 1.877.280/SP, para julgamento da matéria relativa à revisão do termo final da incidência dos juros remuneratórios em ação coletiva em que se pretende o recebimento de expurgos inflacionários em cadernetas de poupança.
+Pede ainda que todas as publicações sejam realizadas em nome dos advogados Luiz Carlos Sturzenegger (OAB/DF nº 1.942- A), Rodrigo de Oliveira Kaufmann (OAB/DF nº 23.866), Gabriela Leite Farias (OAB/DF nº 34.060) e Marina de Mello Cerqueira Zarur (OAB/DF 37.453), sob pena de nulidade.
+O recurso especial versa, entre outras matérias, sobre tema afetado à Segunda Seção desta Corte, nos autos dos Recursos Especiais representativos da controvérsia n. 1.877.300/SP e 1.877.280/SP para julgamento segundo o rito previsto nos arts. 1.036 a 1.041 do CPC/2015, a fim de decidir a respeito do "Termo final da incidência dos juros remuneratórios nos casos de ações coletivas e individuais reivindicando a reposição de expurgos inflacionários em cadernetas de poupança." (Tema n. 1.101).
+Nos termos do art. 256-L do RISTJ (incluído pela Emenda Regimental n. 24, de 2016), o recurso especial distribuído nesta Corte que tenha como fundamento idêntica questão de direito afetada será devolvido ao Tribunal de origem, para nele permanecer suspenso.
+Assim, por razões de economia processual e em atenção aos objetivos das regras que disciplinam a matéria, é necessário remeter os autos à origem, até o pronunciamento definitivo do Superior Tribunal de Justiça sobre o recurso especial representativo da controvérsia.
+Ante o exposto, DET ERMINO A DEVOLUÇÃO dos autos ao TJSP, com a devida baixa nesta Corte, para que, depois de publicado o acórdão paradigma, seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015.
+DEFIRO o cadastramento dos advogados, assim como o pedido de que as intimações sejam feitas, exclusiva e concomitantemente, em seus nomes.
+À Coordenadoria da Quarta Turma para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
