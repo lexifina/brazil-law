@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. SEGURO OBRIGATÓRIO. SFH. APÓLICE PRIVADA. CONTRATAÇÃO COM SEGURADORA DISTINTA. ILEGITIMIDADE PASSIVA RECONH ECIDA. REEXAME. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Na espécie, o Tribunal de origem reconheceu a ilegitimidade passiva da Sul América Companhia Nacional de Seguros S/A, tendo em vista que, em se tratando de apólice privada de seguro habitacional, constatou-se que o ajuste fora celebrado com a Companhia Excelsior de Seguros, única habilitada a integrar a lide no polo passivo.
+2. Com efeito, a discussão quanto à ilegitimidade passiva da seguradora e à natureza pública da apólice foi dirimida no acórdão recorrido mediante a interpretação de cláusulas contratuais e a análise do acervo fático-probatório dos autos, cujo reexame, na via estreita do recurso especial, esbarra nos óbices previstos nas Súmulas 5 e 7 do STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+RELATÓRIO
+Cuida-se de agravo interno interposto por ADEMIR PIPINO e OUTROS, inconformados com a decisão de fls. 1.493/1.495, proferida pela Presidência desta Corte, que não conheceu do agravo em recurso especial, em razão da incidência da Súmula 182/STJ.
+Em suas razões, a parte agravante aponta que impugnou os pontos abordados na decisão recorrida.
+A agravada apresentou impugnação do agravo interno (e-STJ, fls. 1.506/1.511).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. SEGURO OBRIGATÓRIO. SFH. APÓLICE PRIVADA. CONTRATAÇÃO COM SEGURADORA DISTINTA. ILEGITIMIDADE PASSIVA RECONH ECIDA. REEXAME. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Na espécie, o Tribunal de origem reconheceu a ilegitimidade passiva da Sul América Companhia Nacional de Seguros S/A, tendo em vista que, em se tratando de apólice privada de seguro habitacional, constatou-se que o ajuste fora celebrado com a Companhia Excelsior de Seguros, única habilitada a integrar a lide no polo passivo.
+2. Com efeito, a discussão quanto à ilegitimidade passiva da seguradora e à natureza pública da apólice foi dirimida no acórdão recorrido mediante a interpretação de cláusulas contratuais e a análise do acervo fático-probatório dos autos, cujo reexame, na via estreita do recurso especial, esbarra nos óbices previstos nas Súmulas 5 e 7 do STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+VOTO
+Da análise dos argumentos expostos pela parte agravante nas razões do agravo em recurso especial, observa-se que foram impugnados os óbices da decisão de inadmissibilidade do apelo nobre, de modo que o presente agravo interno deve ser provido.
+Passa-se, portanto, à análise do recurso especial.
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra acórdão do eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SEGURO OBRIGATÓRIO FIRMADO POR FORÇA DE CONTRATO DE MÚTUO HABITACIONAL. ILEGITIMIDADE ATIVA RECONHECIDA. COMPANHIA EXCELSIOR DE SEGUROS RESPONSÁVEL PELOS CONTRATOS DOS AUTORES. SENTENÇA MANTIDA. CABIMENTO DE HONORÁRIOS RECURSAIS. APELAÇÃO CONHECIDA E NÃO PROVIDA." (e-STJ, fl. 1.378)
+Nas razões do recurso especial, a parte recorrente alegou violação dos arts. 3º, 17, 371 do CPC/2015; e 47, 54, § 4º, do CDC, alegando que a seguradora é parte legítima passiva, "uma vez que sempre atuou como uma das seguradoras líderes no seguro habitacional do Sistema Financeiro de Habitação, sendo ela corresponsável pelo seguro da carteira de imóveis como cotista ou retrocessionária das garantias e haveres do seguro habitacional, já que é a apólice do seguro habitacional do Sistema Financeiro de Habitação que garante os imóveis dos Recorrentes" (e-STJ, fl. 1.403).
+Passo a decidir.
+O Tribunal de origem reconheceu a ilegitimidade passiva da Sul América Companhia Nacional de Seguros S/A, tendo em vista que, em se tratando de apólice privada de seguro habitacional, constatou-se que o ajuste fora celebrado com a Companhia Excelsior de Seguros, única habilitada a integrar a lide no polo passivo. Destaca-se do acórdão recorrido:
+"Como se vê, em especial do documento juntado ao mov. 158.1, observa-se que a seguradora responsável pelos contratos dos Autores, ora Apelantes, é a Excelsior Seguros.
+Assim, como estes contratos, diga-se aqui, privados, se submetem às regras estabelecidas pela SUSEP, a qual determina que a Seguradora que recebeu os valores do prêmio deve ser responsabilizada pelos sinistros ocorridos nos imóveis, sendo, inclusive, o que dispõe o artigo 757 do Código Civil e, não havendo um pool destas empresas que se revezam na administração do seguro habitacional, tal como ocorre na apólice pública, é de se concluir que a Ré realmente não é legítima para responder à presente demanda.
+(..)
+Dessa maneira, é de se manter a sentença que reconheceu a ilegitimidade passiva da seguradora, extinguindo-se o feito sem resolução de mérito, nos termos do artigo 485, VI, do Código de Processo Civil." (fls. 1.379/1.380)
+Com efeito, a reforma do acórdão recorrido demandaria nova leitura dos documentos juntados aos autos com o fim de verificar: a) se se trata de apólice privada de seguro habitacional; e b) qual a seguradora efetivamente contratada pelos recorrentes. Não obstante, a referida apreciação é vedada pelas Súmulas 5 e 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. AÇÃO DE RESPONSABILIDADE SECURITÁRIA. SISTEMA FINANCEIRO DA HABITAÇÃO. ART. 6º, VIII, DO CÓDIGO DE DEFESA DO CONSUMIDOR. FALTA DE PREQUESTIONAMENTO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. ILEGITIMIDADE DA SEGURADORA. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. A matéria inserta no art. 6º, VIII, do Código de Defesa do Consumidor não foi debatida pelo Tribunal de origem, a despeito da oposição de embargos de declaração. E a parte recorrente, ao interpor o recurso especial, não alegou violação do art. 1.022 do CPC de 2015, situação que inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial, devido à falta de prequestionamento.
+2. A discussão quanto à ilegitimidade passiva da seguradora e à natureza pública da apólice foi dirimida no acórdão recorrido mediante a interpretação de cláusulas contratuais e do acervo fático-probatório dos autos, cujo reexame, na via estreita do recurso especial, esbarra nos óbices previstos nas Súmulas 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.482.977/PR, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 27/8/2019, DJe de 12/9/2019, g.n.)
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada, e, em novo exame, conheço do agravo para não conhecer do recurso especial.
+É como voto.
