@@ -1,0 +1,19 @@
+DECISÃO
+JULIO CESAR DE AMORIM alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, na Apelação Criminal n. 0007790-43.2011.8.11.0042.
+A defesa pretende a desconstituição do trânsito em julgado da condenação do paciente, ao argumento de que este não haveria sido intimado pessoalmente para ciência do acórdão condenatório.
+Decido.
+Infere-se dos autos que o paciente foi condenado à pena de 4 anos de reclusão, em regime inicial aberto, substituída a privativa de liberdade por restritivas de direitos. Na mesma oportunidade, o Magistado sentenciante decretou a perda do cargo público do acusado - Corpo de Guarda da Penitenciaria Central do Estado -, mas deixou de decretar a perda da função de policial militar.
+Inconformado, o Ministério Público interpôs recurso de apelação, que, após ser contrarrazoado pela defesa, foi parcialmente provido pelo Tribunal estadual, para decretar a perda do cargo de policial militar.
+O STJ entende, nos casos em que o acusado responde solto ao processo criminal, não ser obrigatória a intimação pessoal do acusado, em decorrência de sentença ou de acórdão condenatórios, se o advogado constituído, o defensor público ou o dativo forem devidamente intimados.
+Essa é a hipótese em análise, pois, em consulta à página eletrônica do Tribunal estacual, colheu-se a informação de que o advogado constituído do paciente foi devidamente intimado, via publicação no Diário de Justiça eletrônico -disponibilizado no dia 19/8/2024 e publicado em 20/8/2024 -, e deixou transcorrer in albis o prazo recursal.
+Nesse sentido:
+ ..
+1. Nos termos da jurisprudência desta Corte, não há necessidade de intimação pessoal do réu do acórdão condenatório, haja vista ter sido a sentença absolutória, pois,  c onsoante o art. 392 do CPP, a intimação pessoal somente é exigida para o réu preso e para ciência da sentença condenatória e não se estende a decisões de segunda instância. Por conseguinte, nos termos da jurisprudência desta Corte, se considera desnecessária a intimação pessoal do acusado a respeito do acórdão proferido em apelação, mesmo quando ocorre a reforma de sentença absolutória e quando o réu for assistido pela Defensoria Pública ou defensor dativo. (AgRg no HC n. 663.502/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/6/2021, DJe de 23/6/2021.) (AgRg no HC n. 883.882/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/06/2024, DJe de 14/06/2024).
+2. Na hipótese, as instâncias de origem demonstraram que foram adotadas todas as possíveis medidas para garantir a ampla defesa e o contraditório, com atuação efetiva de Advogado dativo e da Defensoria Pública.
+3. Consoante entendimento desta Corte Superior, a vigência no campo das nulidades do princípio pas de nullité sans grief impõe à parte demonstrar a ocorrência de efetivo prejuízo, o que não ocorreu no presente caso. Na hipótese, registre-se que, ainda que o recorrente suscite nulidade por "ausência" de defesa técnica, o caso diz respeito a suposta "deficiência" de defesa técnica, já que, conforme delineado pela instância ordinária, foi apresentada tese defensiva plausível. A propósito, a Súmula 523/STF preleciona que, "no processo penal, a falta de defesa constitui nulidade absoluta, mas sua deficiência só o anulará se houver prova do prejuízo para o réu", o que não ocorreu na espécie. (AgRg no RHC n. 73.161/MA, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/12/2019.) (RHC n. 192.358/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/02/2024, DJe de 23/02/2024).
+4. Agravo regimental não provido.
+(AgRg no RHC n. 198.204/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024)
+Assim, não identifico nenhuma ilegalidade a ser sanada nos autos.
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
