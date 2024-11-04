@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. PORTE ILEGAL DE ARMA DE FOGO. DENÚNCIA ANÔNIMA ESPECÍFICA. BUSCA PESSOAL. FUNDADAS SUSPEITAS. AGRAVO IMPROVIDO.
+1. A Terceira Seção do Superior Tribunal de Justiça firmou a compreensão de que a validade da busca pessoal está condicionada à existência de fundadas suspeitas, amparadas em situação fática que, diante das peculiaridades e dinâmica dos acontecimentos próprios da diligência policial, demonstre clareza e objetividade quanto à posse, por parte do investigado, de objeto que constitua corpo de delito
+2. No caso concreto, o paciente foi apontado em denúncia anônima específica recebida por policiais militares em patrulhamento e por meio do Comitê de Política Monetária - Copom por portar arma de fogo em estabelecimento comercial (um bar) aberto ao público.
+3. Presentes as fundadas suspeitas que amparam a atuação policial, conforme precedentes desta Corte Superior e do Supremo Tribunal Federal.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por IRAN TRIEL DE PAULA SANTOS contra a decisão que denegou a ordem de habeas corpus postulada para anular a condenação pela prática do crime de porte ilegal de arma de fogo por ilicitude das provas utilizadas para embasá-la.
+A parte agravante reafirma a tese de nulidade das provas referidas na fundamentação do decreto condenatório, ao argumento de que seriam derivadas de busca pessoal realizada por policiais militares em razão de denúncia anônima, sem a existência de outros elementos concretos de que estivesse na posse de arma proibida.
+Requer, assim, a reconsideração da decisão agravada ou a submissão do caso a julgamento colegiado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. PORTE ILEGAL DE ARMA DE FOGO. DENÚNCIA ANÔNIMA ESPECÍFICA. BUSCA PESSOAL. FUNDADAS SUSPEITAS. AGRAVO IMPROVIDO.
+1. A Terceira Seção do Superior Tribunal de Justiça firmou a compreensão de que a validade da busca pessoal está condicionada à existência de fundadas suspeitas, amparadas em situação fática que, diante das peculiaridades e dinâmica dos acontecimentos próprios da diligência policial, demonstre clareza e objetividade quanto à posse, por parte do investigado, de objeto que constitua corpo de delito
+2. No caso concreto, o paciente foi apontado em denúncia anônima específica recebida por policiais militares em patrulhamento e por meio do Comitê de Política Monetária - Copom por portar arma de fogo em estabelecimento comercial (um bar) aberto ao público.
+3. Presentes as fundadas suspeitas que amparam a atuação policial, conforme precedentes desta Corte Superior e do Supremo Tribunal Federal.
+4. Agravo regimental improvido.
+VOTO
+Não se verifica, no caso, teratologia ou manifesta ilegalidade para justificar a concessão da ordem de habeas corpus.
+O art. 244 do Código de Processo Penal dispõe:
+A busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar.
+Sob essa ótica, a Terceira Seção desta Corte Superior firmou a compreensão de que a validade da busca pessoal está condicionada à existência de fundadas suspeitas, amparadas em situação fática que, diante das peculiaridades e dinâmica dos acontecimentos próprios da diligência policial, demonstre clareza e objetividade quanto à posse, por parte do investigado, de objeto que constitua corpo de delito.
+No caso concreto, conforme consignado no acórdão impetrado, a busca pessoal empreendida fundou-se em denúncia anônima específica recebida pelos policiais militares, de que o agravante encontrava-se em um determinado estabelecimento comercial na cidade de Goiânia - GO (Bar do Paulão), portanto arma de fogo.
+Consta que, tão logo chegaram ao local indicado, os policiais militares abordaram o suspeito e, em revista pessoal, encontraram em sua cintura o revolver calibre 38, marca Taurus, numeração K1493374, com seis munições intactas.
+A propósito, segue a transcrição dos fundamentos apresentados pelo Tribunal estadual para afastar a alegação defensiva de nulidade da busca pessoal, oportunidade em que consigna o respaldo da diligência em fundadas suspeitas suficientes para justificá-la (fls. 280-281):
+Conforme precedente superior: "A teor do art. 244 do CPP, a busca pessoal independerá de mandado quando houver prisão ou fundada suspeita de que a pessoa esteja na posse de arma proibida, de objetos ou papéis que constituam corpo de delito, ou ainda quando a medida for determinada no curso de busca domiciliar. A busca pessoal/veicular é legítima se amparada em fundadas razões, se devidamente justificada pelas circunstâncias do caso concreto." (STJ, AgRg no HC 814902).
+Conforme transcrições das declarações dos policiais que efetivaram a prisão em flagrante na sentença (Proc. 0115805-76, mov. 21):
+"Que sou policial militar; Que recebemos uma denúncia apócrifa, via funcional, de que haveria uma pessoa em um bar, qual seja, Bar do Paulão, com arma de fogo; Que nos deslocamos até o local de imediato e fizemos a abordagem ao mesmo, ocasião em que ele estava com a arma na cintura; Que ele estava em uma turma; Que ele obedeceu a ordem e não me recordo se ele disse o motivo de estar armado; Que ele falou que tinha adquirido a arma de fogo por R$ 3.000,00 (três mil reais) na feira da marreta; Que era um revólver e estava municiada" (mídia audiovisual do evento 4).
+"Que sou policial militar; Que estávamos em patrulhamento durante o dia, próximo a uma empresa no setor rodoviário, e recebemos uma denúncia via celular, de que teria um elemento armado; Que ao chegarmos com a descrição do agente, o visualizamos, fomos diretamente nele; Que ele estava no bar com o revólver na cintura, um 38; Que a arma estava municiada; Que eu confirmo que é essa pessoa aqui da audiência o autor do crime" (mídia audiovisual do evento 18).
+Como se infere, a abordagem policial e posterior busca pessoal foi precedida de fundada suspeita de prática delitiva. Isso porque, exercendo o dever de prevenção a possível cometimento de crime em ambiente público, policiais foram averiguar a denúncia anônima de que uma pessoa estaria em um bar, portando uma arma de fogo. Ao chegarem no estabelecimento, abordaram o paciente - que possuía as mesmas descrições repassadas pela denúncia anônima -, o qual foi preso em flagrante porque portava uma arma de fogo municiada em sua cintura.
+Assim, não vislumbro qualquer nulidade capaz de anular as provas, pois a ação dos policiais foi legítima.
+Como se verifica, o acórdão do Tribunal local está em consonância com o entendimento desta Corte Superior no tocante à licitude da busca pessoal de que tratam os autos, uma vez que a diligência foi realizada com base em denúncia anônima específica e detalhada, a qual amparou a fundada suspeita de que o acusado estaria na posse de arma proibida.
+Note-se, o caso concreto não reporta uma situação de abordagem pessoal alimentada por informações genéricas ou sem nenhuma referibilidade. Também não se constata a situação de revista exploratória ou de fishing expedition. Pelo contrário, levando em conta o que foi registrado no acórdão impetrado, a ação da polícia foi especificamente direcionada à pessoa apontada pelo porte ilegal de arma de fogo, em local público e determinado, suspeita que, aliás, se confirmou com a apreensão do artefato ilícito.
+Nesse sentido, destacam-se os seguintes julgados do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO. BUSCA PESSOAL E VEICULAR. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. De acordo com o art. 244 do Código de Processo Penal, a busca pessoal poderá ser realizada, independente de mandado judicial, nas hipóteses de prisão em flagrante ou quando houver suspeita de que o agente esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito. Equipara-se a busca veicular à busca pessoal, conforme jurisprudência consolidada.
+2. A existência de denúncias anônimas específicas e ricas em detalhes acerca de um determinado veículo com pessoas praticando delito de porte de arma de fogo, seguida de prévio monitoramento pelos policiais da rota traçada pelo motorista, justifica a busca veicular e a pessoal em via pública.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 899.498/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/5/2024, DJe de 3/6/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA VEICULAR/DOMICILIAR. DENÚNCIA ANÔNIMA ESPECIFICADA. MONITORAMENTO DO LOCAL. EXERCÍCIO REGULAR DA ATIVIDADE INVESTIGATIVA. APREENSÃO DE GRANDE QUANTIDADE DE ENTORPECENTES. 7KG DE MACONHA, 6KG DE COCAÍNA E 2KG DE CRACK. TRÁFICO PRIVILEGIADO. DEDICAÇÃO À ATIVIDADE CRIMINOSA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Esta Corte Superior firmou o entendimento jurisprudencial no sentido de que: Não satisfazem a exigência legal, por si sós  para a realização de busca pessoal/veicular , meras informações de fonte não identificada (e. g. denúncias anônimas) ou intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta, apoiadas, por exemplo, exclusivamente, no tirocínio policial. Ante a ausência de descrição concreta e precisa, pautada em elementos objetivos, a classificação subjetiva de determinada atitude ou aparência como suspeita, ou de certa reação ou expressão corporal como nervosa, não preenche o standard probatório de "fundada suspeita" exigido pelo art. 244 do CPP (RHC n. 158.580/BA, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+2. No caso, a busca veicular/domiciliar decorreu de denúncia anônima especificada e de monitoramento prévio do local dos fatos. Desse modo, as informações anônimas foram minimamente confirmadas, sendo que a referida diligência traduziu em exercício regular da atividade investigativa promovida pela autoridade policial, o que justificou a abordagem após a confirmação das características relatadas nas denúncias apócrifas. Precedentes.
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 845.855/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024.)
+HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADA SUSPEITA DA POSSE DE CORPO DE DELITO. ORDEM DENEGADA.
+ ..
+2. Na espécie, policiais receberam denúncias de intenso tráfico de drogas no local, "com destaque para um indivíduo trajando calça camuflada e casaco preto". Ao chegaram ao endereço, permaneceram por um tempo em local estratégico, momento em que avistaram uma pessoa, com as exatas características mencionadas, trazendo consigo uma sacola plástica. Assim, o conjunto das circunstâncias acima descritas indica a presença de fundada suspeita da posse de corpo de delito apta a justificar a revista.
+3. Ordem denegada.
+(HC n. 835.645/RJ, relator Ministro Jesuíno Rissato - Desembargador convocado do Tjdft), relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/10/2023, DJe de 30/10/2023.)
+Em acréscimo, cabe salientar que da jurisprudência do Supremo Tribunal Federal extraem-se os seguintes precedentes a respeito da matéria:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADA SUSPEITA PARA A ABORDAGEM DEVIDAMENTE COMPROVADA. ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM DESCONFORMIDADE COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE SE DÁ PROVIMENTO.
+1. É incabível ao Poder Judiciário determinar ao Poder Executivo a imposição de providências administrativas como medida obrigatória para os casos de busca pessoal, sob o argumento de serem necessárias para evitar eventuais abusos, além de suspeitas e dúvidas sobre a legalidade da diligência.
+2. O entendimento adotado pelo SUPREMO TRIBUNAL FEDERAL impõe que os agentes estatais devem nortear suas ações, em tais casos, motivadamente e com base em elementos probatórios mínimos que indiquem a ocorrência de situação flagrante. A justa causa, portanto, não exige a certeza da ocorrência de delito, mas, sim, fundadas razões a respeito. Precedentes.
+3. O recebimento de denúncia anônima pela polícia, noticiando a presença de um traficante na região, e a tentativa de fuga do acusado ao avistar os agentes de segurança evidenciam a existência de justa causa para a revista pessoal, que resultou na apreensão de diversas porções de entorpecentes destinados à mercancia ilícita.
+4 . Agravo Regimental e Recurso Extraordinário a que se dá provimento.
+(RE n. 1.475.418-AgR, relatora Ministra Cármen Lúcia, relator para o acórdão Ministro Alexandre de Moraes, Primeira Turma, julgado em 15/ 4/2024, DJe de 7/6/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. MATÉRIA CRIMINAL. DECISÃO MONOCRÁTICA. AUSÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. BUSCA PESSOAL E VEICULAR. FUNDADA SUSPEITA. REEXAME DE FATOS E PROVAS. INGRESSO EM DOMICÍLIO SEM MANDADO JUDICIAL. FUNDADAS RAZÕES. PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida.
+2. De acordo com as instâncias ordinárias, os elementos apresentados, embora provenientes de denúncias anônimas, constituíram fundada suspeita (art. 240, § 2º, do CPP) para a busca pessoal e veicular, especialmente considerado a precisão e o detalhamento das informações recebidas.
+3. A atuação policial não pode ser considerada aleatória ou abusiva, pois baseada não em intuição ou convicção íntima ou mesmo em "atitude suspeita" por parte do abordado, mas em diversos elementos indicadores de eventual prática delitiva.
+4. A estreita via do habeas corpus não se compatibiliza com o reexame do quadro fático ensejador da busca pessoal e veicular, limitando-se a análise desta Corte à aferição da higidez lógico-formal da motivação empregada. Precedentes.
+5. Ingresso em domicílio amparado em fundadas razões, decorrentes de diligências prévias.
+6. Prisão preventiva justificada na garantia da ordem pública, levando-se em conta a quantidade droga, localizada em imóvel inabitado e supostamente destinado para o armazenamento de drogas, bem como a reincidência do agente. Precedente.
+7. Agravo regimental desprovido.
+(HC n. 230.135-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 4/12/2023, DJe de 12/12/2023.)
+Além disso, do que se infere do acórdão impugnado, os depoimentos policiais foram uníssonos, não havendo nenhuma contradição entre eles.
+A desconstituição da conclusão exarada pelo Tribunal local implicaria revolvimento de matéria fático-probatória, o que não se coaduna com o rito sumário do habeas corpus.
+Nesse sentido, colhem-se os seguintes precedentes desta Corte Superior:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ENTORPECENTES E BALANÇA DE PRECISÃO. ALEGAÇÃO DE NULIDADE NO INGRESSO EM DOMICÍLIO SEM MANDADO JUDICIAL. FUGA POR PARTE DO RÉU. MANTIDA A DECISÃO POR AUSÊNCIA DE ILEGALIDADE. FUNDADAS RAZÕES PARA BUSCA PESSOAL E ENTRADA NO DOMICÍLIO.
+1. Não obstante a defesa alegue que não houve a suposta fuga, não há como os fatos serem reexaminados, em sede de habeas corpus, por demandar a análise do conjunto de provas, o que se mostra inviável.
+2. Agravo regimental improvido.
+(AgRg no HC n. 910.729/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. TESE DE NULIDADE DA REVISTA PESSOAL E DA BUSCA DOMICILIAR. INOCORRÊNCIA. SIUAÇÃO DE FLAGRANTE DELITO. DENÚNCIAS PRÉVIAS. ENTRADA FRANQUEADA. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. DIREITO AO SILÊNCIO. SUPRESSÃO DE INSTÂNCIA. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, a abordagem foi realizada após os policiais receberem denúncias pormenorizadas que indicavam que o agravante estaria em determinada praça para entregar uma porção da droga que comercializava, tudo o que foi comprovado na abordagem e também confirmado pelas declarações iniciais do próprio e de sua namorada.
+Assim, a abordagem policial como um todo, se mostrou escorreita.
+III - Assente nesta Corte Superior que o habeas corpus não se presta para a apreciação de alegações com necessidade de amplo revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+IV - A tese de ofensa ao direito ao silêncio deixou de ser apreciada porque foi invocada em indevida supressão de instância.
+Agravo regimental desprovido.
+(AgRg no HC n. 792.533/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2024, DJe de 13/9/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
