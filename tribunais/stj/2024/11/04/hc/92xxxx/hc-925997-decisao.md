@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUIZ GUSTAVO GUINTILIANO CANUTO e PABLO RIBEIRO ARAÚJO contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação Criminal n. 0803733-72.2022.8.19.0063.
+Depreende-se dos autos que os pacientes foram sentenciados como incursos nos artigos 33, caput, e 35, c.c. o artigo 40, VI, todos da Lei n. 11.343/2006, na forma do artigo 69 do Código Penal, à pena total, para ambos, de 8 (oito) anos e 10 (dez) meses de reclusão, a ser cumprida em regime inicial fechado (fls. 196-205).
+Irresignada, a Defesa interpôs apelação perante o Tribunal de origem, que deu parcial provimento ao recurso "para absolver os recorrentes da imputação referente à conduta prevista no art. 35, c/c art. 40, inciso VI, da LD. Mantida a condenação pela prática da conduta remanescente, prevista no art. 33, caput, c/c art. 40, inciso VI, da Lei 11.1343/06, com penas de 05 (cinco) anos e 10 (dez) meses de reclusão, no regime semiaberto, e 580 (quinhentos e oitenta) DM para cada qual dos apelantes" (fl. 30), conforme acórdão de fls. 23-41.
+Opostos embargos de declaração, foram rejeitados (fls. 42-59).
+No presente writ, a impetrante alega, em síntese, a nulidade das provas oriundas do flagrante em razão da violação de domicílio realizada sem fundadas razões e sem autorização judicial, sendo ilícitas as provas dela derivadas.
+Subsidiariamente, defende o reconhecimento do tráfico privilegiado, uma vez que preenchidas todas as exigências previstas no § 4º do artigo 33 da Lei n. 11.343/2006.
+Requer, assim, liminarmente e no mérito, o reconhecimento da nulidade da violação de domicílio, absolvendo-se o paciente Pablo. Subsidiariamente, pugna seja determinada a aplicação da causa especial de diminuição de pena prevista no artigo 33, § 4º, da Lei n. 11.343/2006, em sua fração máxima, com a consequente substituição da pena privativa de liberdade por restritivas de direitos e a fixação do regime aberto em favor de ambos os pacientes.
+As informações solicitadas foram recebidas e acostadas às fls. 222-232 e 234-242.
+Por sua vez, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, conforme parecer de fls. 246-250.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A Terceira Seção, no âmbito do HC n. 535.063/SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC n. 180.365/PB, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+" ..
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  .. " (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+" ..
+II - O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  .. " (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Conforme consta dos autos, a Defesa busca a absolvição dos pacientes pela suposta nulidade da busca domiciliar realizada pelos policiais militares. Subsidiariamente pede a redução da pena, conforme relatado.
+In casu, ao cotejar as alegações deduzidas na inicial, não se verifica a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial dos pacientes, consoante percuciente fundamentação contida no acórdão impugnado a respeito dos temas aventados, in verbis (fls. 33-40 - grifei):
+"O tipo penal previsto no caput, do artigo 33, da Lei nº 11.343/06, é crime de natureza múltipla (multinuclear), de sorte que a prática de qualquer uma das condutas descritas no preceito primário da norma caracteriza o tráfico de drogas.
+Assim, a intenção de difusão ilícita não se caracteriza apenas por meio do flagrante dos atos da mercancia ou venda direta das substâncias aos usuários, o que, no caso concreto, de fato, ocorreu, mas também pode ser demonstrada por meio de outras circunstâncias.
+A prisão precedida de informação prévia sobre pessoas já conhecidas dos agentes da lei pelo envolvimento com o tráfico na região, com a arrecadação da droga possuída de forma compartilhada pelos apelantes e o menor, devidamente embalada e pronta à distribuição no varejo, tudo corroborado pelo depoimento dos policiais que a tudo presenciaram tornam evidente a prática do delito previsto no art. 33, caput, da Lei 11.343/06, não havendo falar-se, portanto, em conjunto probatório anêmico ou insuficiente.
+Condenação pela prática de conduta prevista no art. 33, da Lei 11.343/06 que se mostra correta e deve permanecer, exaurindo, desde logo, a tese encetada pelo primeiro recorrente, no sentido da inexistência de provas da visualização de tráfico na campana realizada.
+O mesmo recorrente (Andrew) assevera que as provas da materialidade obtidas são inválidas, porque havidas pela via do ingresso não autorizado em domicílio.
+Nesse tema, deve-se inicialmente considerar que o dolo reside na intencionalidade do acesso, sabendo o sujeito ativo que age contra o direito alheio, vale dizer, contra a presumível vontade do dono ou do possuidor legítimo, violando o objeto da tutela penal.
+ ..
+Nessa quadra, a alegada invasão de domicílio não pode ser invocada por aquele recorrente que, ab initio, não comprovou ser o legítimo possuidor ou proprietário do imóvel.
+De fato, os autos dão conta de que a residência em cuja garagem foram arrecadadas as drogas era de Pablo. Considerada, portanto, a natureza do processo em testilha, não coaduna o tema ilicitude da prova arrecadada em invasão de domicílio, conforme aventado, mormente quando nenhuma prova fora amealhada na casa daquele recorrente que a invoca, Andrew, fazendo com que a dita preliminar vá suscitada por parte absolutamente ilegítima a fazê-lo.
+E, nem se avente de desqualificar os testemunhos policiais coligidos aos autos.
+Os agentes que realizaram a incursão narraram com coerência a dinâmica dos fatos e suas palavras merecem ser cridas, na dicção do verbete n.º 70, da súmula da jurisprudência predominante deste Tribunal de Justiça.
+É entendimento pacífico que os testemunhos dos policiais, convergentes à verdade e coerentes, merecem credibilidade e são suficientes para embasar o decreto condenatório, como se verifica da Súmula deste E. Tribunal acima citada e a seguir transcrita:
+ ..
+Dosimetria do delito remanescente para todos os recorrentes, tráfico circunstanciado pelo envolvimento de menor (art. 33 c/c art. 40, inciso VI, da LD).
+ ..
+Oportuno ainda salientar que a prova produzida deixa claro que os apelantes já eram conhecidos pela prática do tráfico de drogas, o que basta à inaplicabilidade do privilégio do § 4º, do art. 33, da LD, em razão da dedicação às atividades criminosas."
+De qualquer forma, conforme se apreende, apesar de a Defesa alegar a necessidade de absolvição, fato é que os pacientes foram condenados com amparo em provas de autoria e materialidade amplamente debatidas nos autos principais, os quais, inclusive, já transitaram em julgado.
+Impossível, assim, se revolver o contexto fático-probatório original, de maneira a se afastar a condenação imposta, em não se identificando qualquer flagrante ilegalidade prima facie.
+De mais a mais, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus ou do seu recurso ordinário para a análise de teses que demandem incursão no acervo fático-probatório (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Desta forma, os referidos pedid os trazidos nesta impetração não comportam guarida sob nenhuma vertente.
+Ante todo o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
