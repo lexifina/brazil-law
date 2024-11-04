@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. RECONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O escopo da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, cometendo um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+2. A Terceira Seção desta Corte Superior de Justiça decidiu, através do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), que " a  utilização supletiva desses elementos  natureza e da quantidade da droga apreendida  para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa".
+3. No caso, dado que a quantidade de drogas apreendida foi isoladamente sopesada para levar à conclusão de que a ré seria dedicada a atividades criminosas, reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima.
+4. A conduta da ré se assemelha a da reles "mula" no transporte dos entorpecentes, inexistindo provas que integre a organização criminosa em si.
+5 . Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ :
+O MINISTÉRIO PÚBLICO FEDERAL agrava de decisão em que concedi a ordem, a fim de reconhecer a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+No regimental, o Parquet postula seja afastado o privilégio no tráfico, por entender que "as circunstâncias concretas do delito, devidamente apuradas nas instâncias ordinárias, provam que a paciente não atuou como simples "mula" do tráfico" (fl. 130).
+Requer, assim, a reconsideração do decisum ou a submissão do feito ao órgão colegiado, para que seja provido o agravo.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. RECONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O escopo da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, cometendo um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+2. A Terceira Seção desta Corte Superior de Justiça decidiu, através do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), que " a  utilização supletiva desses elementos  natureza e da quantidade da droga apreendida  para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa".
+3. No caso, dado que a quantidade de drogas apreendida foi isoladamente sopesada para levar à conclusão de que a ré seria dedicada a atividades criminosas, reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima.
+4. A conduta da ré se assemelha a da reles "mula" no transporte dos entorpecentes, inexistindo provas que integre a organização criminosa em si.
+5 . Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+Com efeito, noto que o decisum combatido foi claro ao demonstrar a necessidade de reconhecimento da minorante descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+Isso porque, para a aplicação da minorante, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, o Juízo singular afastou a incidência da minorante descrita no § 4º do art. 33 da Lei n. 11.343/2006, com base nos seguintes fundamentos (fl. 385):
+No que tange à causa de diminuição de pena denominada tráfico privilegiado, prevista no artigo 33, § 4, da Lei de Drogas, não comporta a mesma aplicação, levando em consideração a alegação da acusada de que foi contratada por terceiro para transportar considerável quantidade de entorpecentes - mais especificamente 57 kg (cinquenta e sete quilos) de maconha - relevando anotar a caracterização de uma associação, ainda que momentânea e esporádica, o que vem a impedir a concessão de tamanha benesse, consoante entendimento consolidado em nossos tribunais.
+No entanto, faço o registro de que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+ ..
+Assim, uma vez que, no caso, quantidade da droga apreendida foi sopesada para, isoladamente, levar à conclusão de que a ré seria dedicada a atividades criminosas, reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima.
+Saliento que não ficou comprovado nos autos ser o transporte de entorpecentes algo perene na vida da ré; ademais, a apreensão de drogas não decorreu de prévia investigação que vinculasse a acusada à organização criminosa, tanto que o flagrante foi oriundo de denúncia de que, no ônibus em que a acusada estava se utilizando para o transporte da droga, passageiros sentiram forte odor de maconha.
+Consequentemente, à ausência de fundamento suficiente o bastante para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, de rigor o reconhecimento de referido benefício em favor do acusado.
+Destaco que, ao tempo do delito, o réu era tecnicamente primário e possuidor de bons antecedentes e que, no contexto da prisão em flagrante, não foram apreendidos outros apetrechos destinados à traficância, anotações relativas ao comércio reiterado de drogas, rádio transmissor ou balança de precisão.
+Por fim, vale ressaltar que a ré desempenhara, de fato, papel imprescindível na cadeia delitiva de distribuição das drogas no território nacional. Sua conduta foi, sem o menor equívoco, de especial relevância, haja vista que, agindo em concurso com outros agentes, foi contratada para ir a outro estado da federal a fim de transportar 57 kg de maconha. Contudo, sua atuação se assemelha a da reles "mula" no transporte dos entorpecentes, inexistindo provas que integre a organização criminosa em si.
+Ausentes , portanto, fa tos novos o u teses jurídicas diversas que permitam a análise do caso sob outro enfoque, d eve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
