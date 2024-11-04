@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ALVARO ANTONIO DE OLIVEIRA FILHO, que aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, contra acórdão que negou provimento à pretensão apelatória do ora paciente e do corréu WILLIAN CAIQUE XAVIER.
+O paciente restou condenado pelo conselho de sentença a 14 (catorze) anos, 04 (quatro) meses e 24 (vinte e quatro) dias de reclusão, a ser cumprida no regime inicial fechado, em razão da prática do crime descrito no art. 121, § 2º, incisos I (motivo torpe) e IV (recurso que dificultou a defesa da ofendida), do Código Penal, mantida em grau recursal.
+Nas razões do presente writ, a defesa alega que a condenação é manifestamente contrária à prova dos autos. Aponta prejuízo para o paciente, uma vez que uma jurada dormiu durante a sessão de julgamento.
+Aduz que o paciente foi condenado de forma não unânime pelos jurados, bem como a ausência, no julgamento, de testemunhas de acusação arroladas pelo Ministério Público.
+Afirma que, atendendo ao princípio da correlação, a absolvição da corré inviabiliza a condenação do paciente por ser ela peça importante no desfecho do delito.
+Por fim, sustenta que deve ser declarada a nulidade do julgamento, seja pelo cerceamento do direito de defesa do paciente, seja pela questão da ausência de produção de prova sob o crivo do contraditório, com a determinação de novo julgamento, com a anulação da sessão do júri realizada.
+É o relatório. Decido.
+Na presente impetração, busca-se a anulação da condenação imposta pelo Conselho de Sentença do Tribunal do Júri, com a determinação de novo julgamento, em razão de supostas nulidades no julgamento, como insanáveis, com o consequente cerceamento do seu direito de defesa.
+Para tanto, elenca as seguintes causas: uma jurada dormiu durante o julgamento, houve condenação não unânime pelos jurados, a condenação foi manifestamente contrária à prova dos autos e, por último, a falta da extensão em seu benefício da absolvição da corré IANCA NICOLE CORREA DE AZEVEDO .
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Das supostas causas que o impetrante elencou, não observo mínima adequação ao permissivo legal, pois em verdade se tratam de mera irresignação ao resultado desfavorável oriundo da condenação que lhe foi imposta.
+Quanto à alegação de que um dos jurados teria dormido durante a sessão de julgamento do Tribunal do Júri, tem-se que, além de inexistirem provas nos autos acerca do suposto ocorrido, verifica-se que a defesa só arguiu a suposta nulidade ao final da sessão e não logo depois que supostamente ocorreu, o que, consoante entendimento pacífico desse Tribunal Superior, configura preclusão.
+E relativamente à tese de que a absolvição da corré IANCA NICOLE CORREA DE AZEVEDO inviabilizaria a condenação do paciente, por ser peça importante no desfecho do delito, mais uma vez não assiste razão à impetração. Como bem realçado no parecer do MPF de fls. 194/198, a mesma foi acusada de ter ligado para o paciente e este, ao revés, teve sua conduta comprovada ao longo da instrução, qual seja, ter matado a vítima com um tiro na nuca.
+Ante o exposto, não conheço do habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
