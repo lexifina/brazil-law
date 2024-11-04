@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GUSTAVO DA SILVA CARLOS, apontando-se co mo autoridade coatora o Tribunal de Justiça de Goiás, que denegou a ordem no HC n. 5890075-68.2024.8.09.0011 (fls. 16/23) .
+Extrai-se dos autos que o paciente foi preso em flagrante, em 10/5/2024, convertida a prisão em preventiva, e denunciado pela suposta prática dos delitos de falsificação de documento público e uso de documento falso (Processo n. 5372137-20.2024.8.09.0011, da 2ª Vara Criminal da comarca de Anápolis/GO).
+O Tribunal de origem relaxou a custódia em razão do excesso de prazo para o oferecimento da denúncia (fls. 83/89). Ao oferecer a peça acusatória, o Ministério Público requereu novamente a constrição, a qual foi restabelecida (fls. 34/35).
+Neste mandamus, a impetrante alega a ausência de fundamentos novos e concretos para o restabelecimento da prisão preventiva, nos term os do art. 312 do CPP. Afirma que o paciente não estava foragido e que foi absolvido pelo Tribunal local por uma condenação de 13 anos.
+Requer, inclu sive em liminar, a revogação da custódia cautelar .
+É o relatório.
+A prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+Quanto aos motivos da custódia, o Tribunal de origem, em 18/7/2024, relaxou a prisão em virtude do excesso de prazo para o oferecimento da denúncia (fls. 83/89).
+O Juízo, ao receber a peça acusatória , em 2/8/2024, acolheu a manifestação ministerial e restabeleceu a constrição sob os seguintes fundamentos (fl. 34 - grifo nosso):
+ ..
+A decretação da prisão preventiva é necessária para assegurar a ordem pública e a aplicação da lei penal, sobretudo considerando a quantidade e diversidade de nomes fictícios supostamente utilizados pelo acusado em documentos públicos (CNH e RG), o que aponta tratar-se de pessoa que costumeiramente dificulta a sua identificação e coloca em risco a aplicação da lei penal.
+Ademais, como salientado pelo Ministério Público, até o momento da prisão nestes autos o acusado encontrava-se em local incerto e não sabido, tendo permanecido foragido durante todo o trâmite processual de ações criminais em curso na Comarca de Rio Verde.
+ ..
+O Tribunal a quo, por sua vez, manteve a custódia corroborando com a seguinte motivação (fls. 20/21 - grifo nosso):
+ ..
+O Juízo de primeiro grau fundamentou a decretação da prisão preventiva do paciente Gustavo da Silva Carlos destacando a existência de indícios veementes de materialidade e autoria dos crimes, conforme se depreende do Inquérito Policial. A decisão ressaltou que o paciente supostamente utilizava múltiplos nomes fictícios em documentos públicos, tais como CNH e RG, o que dificulta sua identificação e coloca em risco a aplicação da lei penal.
+Destacou-se também que o paciente estava foragido e se encontrava em local incerto e não sabido durante o trâmite processual de ações criminais na Comarca de Rio Verde, justificando, assim, a necessidade da prisão preventiva para assegurar a ordem pública e a aplicação da lei penal (mov. 121 dos autos originário nº 5372137-20.2024.8.09.0011).
+Como se vê, a decisão baseou-se na gravidade concreta da conduta e na presença de elementos que indicam o risco de reiteração criminosa e fuga do paciente, pois o paciente tinha dois mandados de prisão em aberto contra si, sendo um pela 3ª Vara Criminal (Rio Verde) e outro pela 1ª Vara Criminal (Execução Penal, Rio Verde).
+ ..
+Com efeito, o decreto de prisão preventiva faz referência dir eta ao histórico criminal conturbado do paciente - atos infracionais e ações penais em curso - e traz novo fundamento, qual seja, a necessidade de se garantir a aplicação da lei penal, pois, até o momento da prisão nestes autos, o acusado encontrava-se em local incerto e não sabido, tendo permanecido foragido durante todo o trâmite processual de ações criminais em curso na comarc a de Rio Verde (fl. 34), circunstância que, não obstante se tratar de crime sem violência ou grave ameaça, justifica a prisão p reventiva.
+A propósito, é firme a jurisprudência desta Corte no sentido de que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2019 - grifo nosso).
+Ainda, em caso semelhante, assim foi decidido: a prisão preventiva foi decretada em 8/4/2022 e o mandado de prisão somente foi cumprido em 27/12/2022 no Estado do Maranhão, permanecendo o réu na condição de foragido por oito meses , o que justifica a custódia para assegurar a aplicação da lei penal (AgRg no RHC n. 196.557/CE, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 18/9/2024).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. USO DE DOCUMENTO FALSO. PRISÃO PREVENTIVA RELAXADA E RESTABELECIDA. NOVA FUNDAMENTAÇÃO. RISCO CONCRETO DE REITERAÇÃO CRIMINOSA. HISTÓRICO CRIMINAL. RÉU QUE ESTEVE FORAGIDO. ASSEGURAR A APLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Habeas corpus indeferido liminarmente.
