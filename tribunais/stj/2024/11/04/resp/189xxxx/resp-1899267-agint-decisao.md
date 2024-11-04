@@ -1,0 +1,9 @@
+DECISÃO
+Em análise, agravo interno interposto por HNK BR INDÚSTRIA DE BEBIDAS LTDA contra a decisão que julgou prejudicado o recurso especial em epígrafe.
+No recurso especial, a autora dos embargos à execução fiscal, ora recorrente, apontou violação aos arts. 9º, II, e 39, parágrafo único, da Lei 6.830/1980, bem como ao art. 90 do CPC/2015, sustentando a obrigatoriedade de a FAZENDA NACIONAL ressarcir a recorrente das despesas oriundas da contratação de seguro garantia.
+Já neste agravo interno, a empresa recorrente sustentou a não ocorrência da perda de objeto do recurso especial, ao argumento de que "o REsp interposto, abordando apenas os reflexos da sucumbência, não foi prejudicado pela extinção da execução fiscal, decorrente da procedência dos embargos à execução fiscal".
+A decisão agravada deve ser reconsiderada, para afastar o reconhecimento da perda de objeto do recurso especial.
+Adentrando o mérito do recurso especial, "esta Corte tem firme orientação no sentido de ser incabível obrigar a Fazenda Pública ao ressarcimento dos valores despendidos pelo executado na contratação do seguro-garantia, por não se enquadrarem no conceito de despesas judiciais, pois resultam de um exercício de direito de escolha pelo devedor" (AgInt nos EDcl no REsp 2.054.684/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 21/8/2023, DJe de 23/8/2023). No mesmo sentido: AgInt no REsp 2.136.588/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/10/2024, DJe de 21/10/2024; AgInt no REsp 2.084.773/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/11/2023, DJe de 16/11/2023; REsp 1.852.810/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/9/2022, DJe de 19/9/2022.
+Isso posto, em juízo de retratação, com fundamento nos arts. 255, § 4º, II, e 259, §§ 3º e 6º, do RISTJ; e nos termos da Súmula 568/STJ, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
