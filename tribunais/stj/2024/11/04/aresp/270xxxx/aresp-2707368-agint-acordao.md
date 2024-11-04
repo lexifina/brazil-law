@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. COBERTURA DE CIRURGIA PLÁSTICA PÓS-BARIÁTRICA. TEMA 1.069. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. A decisão agravada deve ser reconsiderada, pois presente a completa dialeticidade recursal, apta ao conhecimento do agravo em recurso especial.
+2. No presente caso, o acórdão recorrido observou a tese representativa da controvérsia, firmada no Tema 1.069 dos Repetitivos, no sentido de que é de cobertura obrigatória - pelos planos de saúde - a cirurgia plástica de caráter reparador ou funcional, indicada pelo médico assistente, em paciente pós-cirurgia bariátrica, visto ser parte decorrente do tratamento da obesidade mórbida.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interp osto por NOTRE DAME INTERMÉDICA SAÚDE S/A contra decisão proferida pelo Ministro Presidente do Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial, em decorrência da ausência da completa dialeticidade recursal.
+Nas razões do agravo interno, requer a agravante a reconsideração da decisão, alegando que impugnou de forma suficiente todos os fundamentos da decisão que inadmitiu o recurso especial.
+O prazo para impugnação do presente recurso decorreu in albis.
+É o relatório.
+EMENTA
+CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. COBERTURA DE CIRURGIA PLÁSTICA PÓS-BARIÁTRICA. TEMA 1.069. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. A decisão agravada deve ser reconsiderada, pois presente a completa dialeticidade recursal, apta ao conhecimento do agravo em recurso especial.
+2. No presente caso, o acórdão recorrido observou a tese representativa da controvérsia, firmada no Tema 1.069 dos Repetitivos, no sentido de que é de cobertura obrigatória - pelos planos de saúde - a cirurgia plástica de caráter reparador ou funcional, indicada pelo médico assistente, em paciente pós-cirurgia bariátrica, visto ser parte decorrente do tratamento da obesidade mórbida.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+VOTO
+O agravo interno merece ser provido para reconsiderar a decisão agravada, na medida em que o agravo em recurso especial impugnou especificamente os fundamentos adotados na decisão de admissibilidade do recurso especial.
+Passa-se, assim, ao exame do mérito recursal.
+O recurso especial desafia acórdão assim ementado (e-STJ, fl. 280):
+APELAÇÃO CIVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. Negativa de cobertura de cirurgia reparadora necessária em razão de perda de peso resultante de cirurgia bariátrica. Abusividade da negativa de cobertura reconhecida.
+Tema 1069 do STJ. Cobertura determinada. Alegação genérica da finalidade estética dos procedimentos que se mostram complementares à precedente cirurgia bariátrica. Caráter corretivo da segunda intervenção, devendo ser entendida como continuidade do tratamento anteriormente iniciado. Incidência das Súmulas 97 e 102 do TJSP. Alegação de que o procedimento não consta no rol da ANS. Inadmissibilidade. Rol que prevê somente a cobertura mínima obrigatória. Exclusão que contraria a função social do contrato, retirando da paciente a possibilidade do tratamento necessitado.
+DANO MORAL. Inocorrência, diante do dissídio jurisprudencial havido quando do ajuizamento da demanda.
+Recurso parcialmente provido.
+Nas razões do recurso especial, a ora agravante alega ofensa aos arts. 355, I, e 369 do NCPC; 10, II, da Lei 9.656/98, bem como divergência jurisprudencial. Sustenta, em síntese, que: a) "foi retirado da Recorrente a oportunidade de produzir provas, tendo o magistrado suprimindo a fase de dilação probatória. Assim, sem que ao menos fosse oportunizado as partes especificarem as provas que pretendiam produzir, o feito foi julgado antecipadamente nos termos do artigo 355, I do CPC, o que resultou em notável cerceamento de defesa da Recorrente" (fl. 298); e b) os procedimentos pleiteados pela recorrida tiveram a autorização negada em razão da ausência de cobertura contratual e legal para o custeio de cirurgias plásticas.
+Decido.
+No que se refere à tese de cerceamento de defesa, por não ter o julgador determinado a realização de perícia médica, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foram apreciados pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão.
+Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+O recurso especial é oriundo de ação de obrigação de fazer e indenização por danos morais ajuizada pela ora agravada em face da ora agravante, tendo por objeto o procedimento de cirurgia reparadora após a cirurgia bariátrica, cujo pedido foi julgado procedente.
+As instâncias ordinárias entenderam pelo dever de cobertura, pelo plano de saúde, uma vez que a cirurgia era necessária para a completa recuperação da saúde da beneficiária, ostentando finalidade reparadora.
+Cabe observar a tese representativa da controvérsia, firmada no Tema 1.069 dos Repetitivos, de que é de cobertura obrigatória pelos planos de saúde a cirurgia plástica de caráter reparador ou funcional indicada pelo médico assistente, em paciente pós-cirurgia bariátrica, visto ser parte decorrente do tratamento da obesidade mórbida. Confira-se a ementa do precedente qualificado e vinculante:
+"RECURSO ESPECIAL REPETITIVO. CIVIL. PLANO DE SAÚDE. PACIENTE PÓS-CIRURGIA BARIÁTRICA. DOBRAS DE PELE. CIRURGIAS PLÁSTICAS. NECESSIDADE. PROCEDIMENTO. NATUREZA E FINALIDADE. CARÁTER FUNCIONAL E REPARADOR. COBERTURA. RESTABELECIMENTO INTEGRAL DA SAÚDE. DANOS MORAIS. CONFIGURAÇÃO. VALOR INDENIZATÓRIO. MANUTENÇÃO. RAZOABILIDADE. SÚMULA Nº 7/STJ.
+1. Tratam os autos da definição acerca da obrigatoriedade de custeio pelo plano de saúde de cirurgias plásticas em paciente pós-cirurgia bariátrica.
+2. Teses para os fins do art. 1.040 do CPC/2015: (i) é de cobertura obrigatória pelos planos de saúde a cirurgia plástica de caráter reparador ou funcional indicada pelo médico assistente, em paciente pós-cirurgia bariátrica, visto ser parte decorrente do tratamento da obesidade mórbida, e, (ii) havendo dúvidas justificadas e razoáveis quanto a o caráter eminentemente estético da cirurgia plástica indicada ao paciente pós-cirurgia bariátrica, a operadora de plano de saúde pode se utilizar do procedimento da junta médica, formada para dirimir a divergência técnico-assistencial, desde que arque com os honorários dos respectivos profissionais e sem prejuízo do exercício do direito de ação pelo beneficiário, em caso de parecer desfavorável à indicação clínica do médico assistente, ao qual não se vincula o julgador.
+3. Recurso especial não provido."
+(Recurso Especial Repetitivo 1.870.834/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 13/09/2023, DJe de 19/09/2023)
+No mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO NÃO VERIFICADA. PLANO DE SAÚDE. PACIENTE PÓS-CIRURGIA BARIÁTRICA. DOBRAS DE PELE. CIRURGIAS PLÁSTICAS. NECESSIDADE. CARÁTER FUNCIONAL E REPARADOR. NÃO ESTÉTICO. DEVER DE COBERTURA. CONSONÂNCIA COM O ENTENDIMENTO DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Esta Corte de Justiça já teve a oportunidade de perfilhar o entendimento de que, tendo sido o segurado em tratamento de obesidade mórbida, com cobertura da seguradora, submetido à cirurgia bariátrica, deve a operadora do plano de saúde arcar com os tratamentos necessários e complementares ao referido ato cirúrgico, destinados à cura da patologia (AgRg no AREsp 583.765/MG, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 19/5/2015, DJe de 22/6/2015).
+3. Agravo interno não provido"
+(AgInt no AREsp 1.656.178/SP, Rel. Ministro MOURA RIBEIRO, Terceira Turma, DJe 27/8/2020)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE DESPESAS COM O TRATAMENTO CIRÚRGICO DE DERMOLIPECTOMIA NAS COXAS, PROCEDIMENTO COMPLEMENTAR À CIRURGIA BARIÁTRICA. DANO MORAL.
+1. "Havendo indicação médica para cirurgia plástica de caráter reparador ou funcional em paciente pós-cirurgia bariátrica, não cabe à operadora negar a cobertura sob o argumento de que o tratamento não seria adequado, ou que não teria previsão contratual, visto que tal terapêutica é fundamental à recuperação integral da saúde do usuário outrora acometido de obesidade mórbida, inclusive com a diminuição de outras complicações e comorbidades, não se configurando simples procedimento estético ou rejuvenescedor" (REsp 1.757.938/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 05.02.2019, DJe 12.02.2019).
+2. A recusa indevida/injustificada do plano de saúde em proceder à cobertura financeira de procedimento médico ou medicamento, a que esteja
+legal ou contratualmente obrigado, poderá ensejar o dever de reparação a título de dano moral, quando demonstrado o agravamento da situação de aflição psicológica e de angústia no espírito do usuário, já combalido pela própria doença. Situação configurada na hipótese.
+3. A fixação do valor devido a título de indenização por danos morais, segundo a jurisprudência desta Corte, deve considerar o método bifásico, sendo este o que melhor atende às exigências de um arbitramento equitativo da indenização por danos extrapatrimoniais, uma vez que minimiza eventual arbitrariedade ao se adotar critérios unicamente subjetivos do julgador, além de afastar eventual tarifação do dano (REsp 1.445.240/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10.10.2017, DJe 22.11.2017).
+4. Agravo interno não provido"
+(AgInt nos EDcl no REsp 1.809.457/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 3/3/2020)
+No presente caso, reitere-se que o Tribunal a quo observou rigorosamente o epigrafado recurso especial repetitivo de natureza vinculante.
+Diante do exposto, dou provimento ao agravo interno para conhecer do agravo e negar provimento ao recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, § 11, do CPC/2015, majoro os honorários de advogado em mais 1%. do valor anteriormente fixado.
+É como voto.
