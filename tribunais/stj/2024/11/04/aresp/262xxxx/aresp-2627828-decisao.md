@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação de lei federal, da incidência da Súmula n. 7 do STJ, da impossibilidade de apreciar alegação de ofensa a dispositivo infralegal no âmbito do recurso especial e da ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 351/353).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 291):
+CUMPRIMENTO DE SENTENÇA. Exceção de pré-executividade acolhida. Reconhecimento de prescrição quinquenal contada da decisão que fixou os honorários. Recurso da autora. Inocorrência de prescrição. Prazo do art. 25, II, da Lei 8906/94 que é contado do trânsito em julgado da sentença que colocou fim ao processo, ainda que a fixação de honorários tenha sido feita anteriormente e de forma provisória. Precedentes do Superior Tribunal de Justiça. Exceção de pré-executividade rejeitada. Decisão reformada. Determinação de retorno dos autos à origem para apreciação da impugnação ao cumprimento de sentença, que não foi analisado Recurso dos executados. Pretensão de fixação de honorários em razão do acolhimento da exceção de pré-executividade. Impossibilidade, em razão da rejeição da pretensão aqui reconhecida. Liberação dos valores penhorados antes do trânsito em julgado. Impossibilidade,. Valor destinado à garantia da execução e cujo pedido de liberação será apreciado após a análise da impugnação . RECURSO DA AUTORA PROVIDO E DOS EXECUTADOS NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 305/308).
+Nas razões do recurso especial (e-STJ fls. 310/327), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos arts. 25, II, da Lei n. 8.906/1994 e 206, § 5º, III, do CC/2002, sustentando, em síntese, que "o termo inicial para a contagem do prazo prescricional relativo a cobrança de honorários advocatícios sucumbenciais é da data do trânsito em julgado da decisão que os fixar" (e-STJ fl. 325).
+Segundo afirmou, "o e. TJSP  ..  estabeleceu como marco inicial da prescrição a sentença de extinção da Execução, sem considerar que os honorários haviam sido fixados definitivamente muito tempo antes" (e-STJ fl. 322), afirmando que "desde 05/08/2015, data da publicação da decisão que fixou os honorários advocatícios em favor do recorrido, a verba poderia ser plenamente executada, seja na própria Execução, seja em incidente apartado" (e-STJ fl . 322).
+No agravo (e-STJ fls. 356/372), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 378/384).
+É o relatório.
+Decido.
+A sentença acolheu a exceção de pré-executividade para julgar extinto o cumprimento de sentença, reconhecendo a prescrição do direito da exequente, conforme se verifica do seguinte excerto (e-STJ fl. 203):
+No caso dos autos, a decisão que fixou os 10% de honorários sobre o valor da execução nos autos principais nº 1010343-09.2015.8.26.0068 foi publicada em 05/08/2015 (fls. 32 - autos principais) e o decurso de prazo para recurso ocorreu em 20/08/2015.
+O prazo prescricional de cinco anos se iniciou em 21/08/2015 e se findou em09/01/2021, porém o excepto somente ingressou com o presente incidente para a cobrança dos honorários em 15/07/2021.
+O Tribunal de origem deu provimento ao recurso da parte exequente a fim de rejeitar a exceção de pré-executividade, decidindo com base nos seguintes fundamentos (e-STJ fls. 292/293):
+E, com o devido respeito ao juízo a quo, o termo inicial não é aquele fixado em sentença.
+E isto porque embora a lei refira-se a decisão, um interpretação menos literal do dispositivo conduz à conclusão que somente o trânsito em julgado de decisão terminativa inicia a contagem para aferição da prescrição. E, neste caso, observa-se da leitura do autos que a decisão de fls. 17/18 fixou os honorários, corretamente, mas de forma provisória, como bem anotado pela apelante. Tal percentual está sujeito a vari ações e mesmo à sua exclusão, caso a impugnação apresentada pelos executados - e ainda - não apreciada fosse acolhida.
+Assim, a conclusão incontornável é de que com o trânsito em julgado da sentença de fls. 49 iniciou-se a contagem do prazo prescricional. O débito, portanto, não se encontra prescrito e pode ser cobrado pela autora.
+Tal entendimento encontra-se em consonância com a jurisprudência do STJ, para a qual "o prazo prescricional para exercício da pretensão de arbitramento e cobrança de honorários advocatícios é de 5 (cinco) anos, contados do encerramento da prestação do serviço (trânsito em julgado da decisão final, último ato praticado no processo, ou revogação do mandato)" (REsp n. 1.748.404/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 11/12/2018, DJe 19/12/2018).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. ENQUADRAMENTO DE FATOS INCONTROVERSOS. SÚMULA N.º 7 DO STJ. INAPLICABILIDADE. OMISSÃO. INOCORRÊNCIA. CLÁUSULA DE ÊXITO. PRESCRIÇÃO. TERMO INICIAL. TRÂNSITO EM JULGADO. CASO CONCRETO. ATUAÇÃO EM FASE EXECUTIVA. INÍCIO DO PRAZO. ENCERRAMENTO DA PRESTAÇÃO DOS SERVIÇOS. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+6. Nessa linha de entendimento, a pretensão de recebimento dos honorários advocatícios surgiu quando encerrada a fase executiva, não se afigurando justa a adoção de termo inicial anterior ao fim da prestação do serviço pelo advogado.
+7. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+8. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.197.838/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/6/2024, DJe de 26/6/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. "O prazo prescricional para exercício da pretensão de arbitramento e cobrança de honorários advocatícios é de 5 (cinco) anos, contados do encerramento da prestação do serviço (trânsito em julgado da decisão final, último ato praticado no processo, ou revogação do mandato)" (REsp n. 1748404/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 11/12/2018, DJe 19/12/2018).
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.502.317/SP, de minha relatoria, Quarta Turma, julgado em 16/12/2019, DJe de 19/12/2019.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
