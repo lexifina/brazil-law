@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSICLEIDE DE LOURDES DA SILVA NASCIMENTO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DA PARAÍBA no habeas corpus criminal n. 0826643-65.2023.8.15.0000 .
+Consta dos autos que a paciente foi condenada pela prática de crimes de furto (art. 155, §4º, IV, e art. 155, §4º, II, c/c art. 14, II, CP, por duas vezes) em processos diversos. Posteriormente, foi condenada por tráfico de entorpecentes (art. 33, caput, Lei n. 11.343/06), por duas vezes, também em processos distintos.
+Neste writ, a Defesa alega que a execução da pena foi calculada a previsão de alcance da progressão de regime integralmente com base na fração de 3/5 (três quintos), a qual se refere à reincidência em crime hediondo.
+Aduz haver constrangimento ilegal, vez que, no que diz respeito à primeira condenação, referente ao delito de tráfico de drogas, a paciente não era reincidente.
+Assim, sustenta ser o caso de incidir a fração de pena de 1/6 (um sexto) e 3/5 (três quintos) no cálculo para fins de progressão de regime prisional separadamente.
+Requer, liminarmente e no mérito, seja reconhecida a adoção da fração de 1/6 (um sexto) no que tange ao feito n. 0000707-24.2018.8.15.0331, para progressão ao regime semiaberto.
+Liminar indeferida e requisitadas informações (fls. 116/117).
+Informações prestadas (fls. 123/126).
+Manifestação do Ministério Pú blico Federal, pela concessão da ordem de ofício (fls. 131/133).
+Vieram os autos conclusos (fl. 135).
+É o relatório.
+DECIDO.
+Esta  Corte  -  HC  n.  535.063/SP,  Terceira  Seção,  relator  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020,  DJe  de  25/08/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  n.  180.365/PB,  Primeira  Turma,  relatora  Ministra  Rosa  Weber,  julgado  em  27/03/2020,  DJe  de  02/04/2020,  e  AgRg  no  HC  n.  147.210/SP,  Segunda  Turma,  relator  Ministro  Edson  Fachin,  julgado  em  30/10/2018,  DJe  de  20/02/2020  -  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+Assim,  passo  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+Consta  dos  autos  que  o  d. Magistrado  de  primeiro  grau,  ao  apreciar  o  pedido  de retificação do cálculo de pena, assim consignou  (fls.  93/94, grifamos):
+A defesa, com calço no art. 112 da Lei de Execução Penal (com redação dada pela Lei n. 13.964/2019 - Pacote Anticrime), requer a retificação do cálculo da pena, para fins de aplicação da fração de 2/5 (dois quintos) ou 40% (quarenta por cento) relativamente à condenação advinda do processo n.º 0000707-24.2018.8.15.0331, sob o fundamento de a apenada não ser reincidente específica em crimes hediondos ou equiparados.
+Instado a se manifestar, o Ministério Público opinou pelo indeferimento do pedido ( sequencial n.º 167).
+Analisando a legislação vigente e a jurisprudência pátria, conclui-se que tal pretensão não encontra amparo no ordenamento jurídico legislação vigente, impondo-se o indeferimento.
+No caso em tela, a apenada é reincidente, pois, quando do cometimento do segundo delito ( feito n.º 0001189-35.2019.8.15.0331), a condenação advinda dos autos do processo n.º 0000707- 24.2018.8.15.0331, já havia transitado em julgado  de modo que, sendo a reincidência circunstância pessoal, tem-se a sua extensão para os demais delitos).
+Nessa hipótese, uma vez configurada a reincidência da apenada em uma das condenações, os efeitos dela decorrentes incidem sobre todas as outras sanções impostas à apenada, devendo ser aplicada a fração de 3/5  três quintos) da pena cumprida aos crimes hediondos ou equiparados para fins de progressão do regime. (..)
+Diante de tais considerações, comprovada a condição de reincidente da apenada, impõe-se a aplicação da fração de 3/5 (três quintos) às penas aplicadas aos crimes hediondos para fins de progressão de regime, não havendo erro no atestado de pena.
+Isto posto, indefiro o requerimento da defesa e, por conseguinte, mantenho a fração de 3/5 (três quintos) às penas aplicadas aos crimes hediondos ou equiparados para fins de progressão de regime.
+O Tribunal a quo, ao desprover o recurso de agravo interno interposto contra a decisão monocrática que não conheceu do writ impetrado na origem, fundamentou sua decisão nos seguintes termos (fls. 108/109, grifamos):
+Nessa senda, é sabido que, em regra, a impetração de habeas corpus não é admissível quando existente recurso específico para combater a decisão apontada como ilegal, sob pena de transformação desse remédio heroico em sucedâneo recursal, permitindo-se, contudo, a concessão da ordem de ofício em caso de flagrante ilegalidade, situação não verificada, conforme o seguinte trecho do decisum impugnado:
+.. Todavia, é sabido que o art. 654, §2º, do Código de Processo Penal dispõe sobre a possibilidade de expedição de ordem de Habeas Corpus de ofício, nos seguintes termos:
+Art. 654. O habeas corpus poderá ser impetrado por qualquer pessoa, em seu favor ou de outrem, bem como pelo Ministério Público.
+(..)
+§2º Os juízes e os tribunais têm competência para expedir de ofício ordem de habeas corpus, quando no curso de processo verificarem que alguém sofre ou está na iminência de sofrer coação ilegal.
+Essa, contudo, não é a hipótese dos autos, pois não se vislumbra flagrante ilegalidade praticada pela Juíza da Execução Penal.
+Explica-se.
+A narrativa apresentada no presente writ indica possível ilegalidade na execução da pena, decorrente da fração adotada pela Juíza da Execução Penal da Capital para fins de progressão de regime, pois, no entender da paciente, deve ser aplicada, no concernente à pena referente à Ação Penal nº 0000707-24.2018.8.15.0331, a fração de 1/6 (um sexto), nos termos da art. 112 da Lei de Execução Penal, com redação anterior à Lei nº 13.964/19.
+Tal pleito, contudo, não foi submetido à Juíza da Execução Penal da Capital, tampouco por ela apreciado.
+Com efeito, conforme documentos acostados no Id 25362243 - Pág. 2, Id 25362243 - Pág. 6 e Id 25362243 - Págs. 9/15, todos os pedidos direcionados ao Juízo da Execução Penal foram pela adoção da fração de 2/5 (dois quintos) ou 40% (quarenta por cento), isso considerando a redação do art. 112 da Lei de Execução Penal, com as alterações promovias pela nº 13.964/19 (Pacote Anticrime).
+Nesse norte, considerando que a questão apresentada no writ não foi enfrentada pela Juíza a quo, é certo que a análise da matéria pelo Tribunal, neste momento, configuraria verdadeira e indevida supressão de instância.
+Sendo assim, em se verificando que o pleito da paciente sequer foi submetido à Juíza a quo, não se vislumbra flagrante ilegalidade que justifique a concessão, de ofício, da ordem de habeas corpus.
+Com efeito, os documentos acostados no Id 25362243 - Págs. 1/2, Id 25362243 - Págs. 5/6 e Id 25362243 - Págs. 9/15, demonstram que os três pedidos direcionados ao Juízo da Execução Penal foram pela adoção da fração de 2/5 (dois quintos) ou 40% (quarenta por cento), isso considerando a redação do art. 112 da Lei de Execução Penal, com as alterações promovias pela nº 13.964/19 (Pacote Anticrime), sendo que, no caso dos autos, o pedido formulado é diverso, conforme os seguintes trechos da petição inicial do writ(..)
+Dos excertos acima transcritos, não se verifica a ilegalidade sustentada.
+Com efeito, o pedido indeferido no primeiro grau, de fato, é distinto do que foi levado ao Tribunal de origem, que por sua vez, não conheceu da ordem impetrada por impedimento à eventual intervenção em supressão de instância.
+Nesse sentido, resta evidente a inviabilidade para a análise do pedido constante do presente writ (a adoção da fração de 1/6 no que tange ao feito n. 0000707-24.2018.8.15.0331, para progressão ao regime semiaberto), posto que, uma vez não enfrentada a questão pela Corte estadual, revela-se inadmissível fazê-lo este Tribunal Superior, sob pena, também, de indevida atuação em supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA "E", DA CONSTITUIÇÃO DA REPÚBLICA. PEDIDOS NÃO APRECIADOS PELA CORTE LOCAL NO JULGAMENTO DA APELAÇÃO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Entende o Superior Tribunal de Justiça que não deve ser conhecido habeas corpus que tenha o escopo de rediscutir condenação definitiva, pois nesse caso é cabível o ajuizamento de revisão criminal, ação autônoma para a qual esta Corte Superior não possui competência na espécie. Nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça julgar, originariamente, as revisões criminais e as ações rescisórias de seus próprios julgados, o que não é o caso dos autos.
+2. Não é possível, também, a análise direta por este Tribunal de questões não apreciadas pela Corte local, sob pena de supressão de instância, tendo em vista as teses defensivas não foram alegadas nas razões da apelação.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 718.286/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. IDADE AVANÇADA. PEDIDO NÃO APRECIADO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. SALVO-CONDUTO. IMPEDIR O RECOLHIMENTO PARA INICIAR O CUMPRIMENTO DE PENA EM REGIME SEMIABERTO. INVIABILIDADE. AGRAVO DESPROVIDO.
+I - O agravo regimental deve trazer argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão impugnada por seus próprios fundamentos.
+II - O cabimento de prisão domiciliar, em razão da idade avançada do paciente, não foi apreciado pelo eg. Tribunal a quo, o que impede que esta Corte Superior conheça do recurso no ponto, sob pena de incorrer em indevida supressão de instância.
+III - É inviável a expedição de salvo-conduto para impedir que o recorrente seja recolhido à prisão para dar início ao cumprimento da pena em regime semiaberto. Não há como pressupor, por mera conjectura, que não haverá vaga em estabelecimento penal adequado ao regime imposto na sentença, porquanto, em verdade, referida constatação pressupõe o início da execução da pena, com o recolhimento do sentenciado, momento em que se deflagra a competência do Juízo da Execução.
+Agravo regimental desprovido.
+(AgRg no RHC n. 93.864/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 19/6/2018, DJe de 28/6/2018.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
