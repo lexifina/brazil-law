@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  sem  pedido  liminar,  impetrado  em  favor  de  RODRIGO SANTOS DE SOUZA  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SÃO PAULO,  na  Apelação  Criminal  n.  1524164-47.2023.8.26.0228.
+Consta  dos  autos  que  o  paciente  foi  condenado  à  pena  de  2 (dois) anos e 4 (quatro) meses de reclusão, em regime inicial aberto, mais pagamento de 11 (onze) dias-multa  como  incurso  nas  sanções  do  art.  155, § 4º, I e IV,  do  Código  Penal, sendo a pena privativa de liberdade substituída por duas restritivas de direitos.
+O  Tribunal  de  origem  deu parcial  provimento  ao  recurso  de  apelação  defensivo para redimensionar as penas para 2 (dois) anos de reclusão, mais 10 (dez) dias-multa, manti do o regime inicial aberto, assim como a substituição da corporal operada pela origem.
+Neste  writ,  a parte  impetrante  postula  a  concessão  da  ordem  de  habeas  corpus  a  fim  de  que  seja reconhecida a forma tentada do delito. Aduz que o crime não atingiu seu momento consumativo, tendo em vista que não houve inversão da posse, mas mera detenção (fl. 6).
+Informações  prestadas  às  fls.  89-118 e 119-122.
+O  Ministério  Público  Federal  opinou  pelo não conhecimento  do  writ  (fls.  124-125).
+É  o  relatório.
+DECIDO.
+Inicialmente,  pontuo  que  esta  Corte  Superior,  seguindo  o  entendimento  do  Supremo  Tribunal  Federal  (AgRg  no  HC  n.  180.365,  Primeira  Turma,  rel.  Min.  Rosa  Weber,  julgado  em  27/03/2020,  e  AgRg  no  HC  n.  147.210,  Segunda  Turma,  rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018),  pacificou  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado  (HC  n.  535.063/SP,  Terceira  Seção,  rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020).
+Na  espécie,  verifico  que  não  há  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício,  visto  que,  de  acordo  com  o  entendimento  consolidado  do  Superior  Tribunal  de  Justiça,  o furto se consuma no momento em que o agente se torna possuidor da res subtraída, pouco importando que a posse seja mansa, pacífica, tranquila e/ou desvigiada.
+No  caso  dos  autos,  o  Tribunal  de  origem  afastou o pleito de reconhecimento da prática do delito em sua modalidade tentada nos seguintes termos  (fls.  77-78):
+E nem se alegue tentativa, na esteira e como já se viu. Afinal, conforme se depreende da prova oral coligida e a despeito das declarações oferecidas pelo réu quanto a tanto , o acusado e seu comparsa chegaram a ficar na posse do bem subtraído, tendo sido surpreendidos pelos Policiais Militares ao momento em que seguravam nas mãos a bateria já retirada do veículo da vítima, isto é, em poder da res furtiva.
+Ademais, este item apenas foi restituído após a prisão em flagrante do acusado e do corréu pelos Policiais Militares, e, embora aquele tenha sido devolvido, não pôde ser reaproveitado pelo ofendido, em razão dos danos causados pela ação dos furtadores. Observa-se, quanto a tanto, abalizada jurisprudência no sentido de que o crime de furto se consuma com o mero apossamento da coisa, independentemente de que o bem tenha saído da esfera de vigilância do ofendido.
+Observa-se, quanto a tanto, abalizada jurisprudência no sentido de que o crime de furto se consuma com o mero apossamento da coisa, independentemente de que o bem tenha saído da esfera de vigilância do ofendido.
+
+Assim,  a  Corte  local,  soberana  na  análise  do  acervo  probatório  dos  autos,  concluiu,  de  forma  fundamentada,  que o delito de furto se consumou.
+  Nesse  contexto,  para  se  concluir  de  maneira  diversa , a  fim  de  acolher  a  tese de ausência de consumação do crime,  seria  necessário  proceder  ao  revolvimento  das  provas  produzidas  nos  autos,  o  que  não  se  mostra  cabível  na  estreita  via  do  habeas  corpus.
+A  propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. IMPOSSIBILIDADE. REITERAÇÃO DELITIVA. EXISTÊNCIA DE VIGILÂNCIA ELETRÔNICA. CRIME IMPOSSÍVEL. NÃO OCORRÊNCIA. TENTATIVA. INVERSÃO DA RES. CRIME CONSUMADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As instâncias ordinárias destacaram a contumácia delitiva do réu - que ostenta vários registros criminais pelo mesmo delito - o que, nos termos da jurisprudência desta Corte Superior, é suficiente para obstar a incidência do princípio da insignificância ao caso.
+2. Nos termos da Súmula n. 567 do STJ, o sistema de vigilância realizado por monitoramento eletrônico ou por existência de segurança no interior de estabelecimento comercial, por si só, não torna impossível a configuração do crime de furto.
+3. A moldura fática foi delineada de maneira incontroversa pelas instâncias antecedentes, que concluíram pela inversão da posse dos bens subtraídos, o que não pode ser alterado sem dilação probatória, providência inviável em habeas corpus. Nesse contexto, o acórdão está em consonância com a jurisprudência desta Corte Superior de que com a inversão da posse, ainda que breve, o delito ocorreu em sua forma consumada.
+4. Agravo regimental não provido.
+(AgRg no HC n. 895.547/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/6/2024, DJe de 19/6/2024, grifamos)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. CRIME IMPOSSÍVEL. NÃO OCORRÊNCIA. RECONHECIMENTO DA TENTATIVA. IMPOSSIBILIDADE. INVERSÃO DA POSSE. CRIME CONSUMADO. REEXAME FÁTICO-PROBATÓRIO. REGIME INICIAL. MAUS ANTECEDENTES E REINCIDÊNCIA. MANTIDO O FECHADO. DETRAÇÃO. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Verifica-se que o acórdão impugnado está em consonância com a jurisprudência desta Corte, no sentido de que, ocorrendo a inversão da posse, mesmo que por curto período e sem que saia da esfera de vigilância da vítima, o crime de furto deve ser considerado consumado.
+2. Considerado idôneo o reconhecimento da consumação do delito, obviamente, mostra-se incabível a alegação de crime impossível. Além disso, para o reconhecimento dessa causa de exclusão de tipicidade, assim como da figura tentada, seria necessário o aprofundado reexame da matéria fático-probatória, providência incabível na via eleita.
+3. Noutro ponto, embora a reprimenda não tenha ultrapassado 4 anos, os maus antecedentes e a reincidência justificam a fixação do regime inicial fechado.
+4. Por fim, verifica-se que o Tribunal a quo não apreciou a questão referente à detração da pena. Assim, é inviável a sua análise diretamente por esta Corte, sob pena de indevida supressão de instância.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 814.070/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2023, DJe de 18/10/2023, grifamos)
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
