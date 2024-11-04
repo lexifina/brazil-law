@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MONITÓRIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. SÚMULA 284/STF. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO E SUFICIENTE À MANUTENÇÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO NO RECURSO ESPECIAL. SÚMULA 283/STF. ANÁLISE DE QUESTÃO PROBATÓRIA E CONTRATUAL. REVISÃO. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A insurgência não se mostra acessível quanto à suposta violação do artigo 489 do CPC/2015, visto que nem sequer foram opostos embargos de declaração contra o aresto recorrido, sendo manifesta, assim, a deficiência na fundamentação, a atrair o óbice da Súmula 284/STF.
+2. No caso, a Corte estadual concluiu pelo descabimento da incidência de multa e honorários contratuais, porquanto tais verbas não constaram do pedido inicial, não sendo possível inovar em sede recursal.
+3. Da atenta análise do recurso especial, verifica-se que a agravante não impugnou o referido fundamento, suficiente, por si só, para manter o acórdão recorrido, situação que atrai, por analogia, o óbice da Súmula 283 do STF.
+4. A Corte de origem assentou que a atualização monetária e os juros de mora da dívida estão calculados corretamente, nos termos da planilha juntada aos autos. A discussão envolvendo a referida questão, nos moldes em que ora postulada, encontra óbice nas Súmulas 5 e 7 desta Corte, ante a imprescindibilidade de revolvimento do acervo fático-probatório dos autos, bem como a necessidade de interpretação de cláusulas contratuais.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por NÚCLEOS INSTITUTO DE SEGURIDADE SOCIAL contra decisão proferida por esta Relatoria (fls. 311-312), que não conheceu do agravo em recurso especial, ante a ausência de dialeticidade recursal.
+Nas razões do agravo interno, requer a parte agravante a reconsideração da decisão, alegando, para tanto, que impugnou os fundamentos da decisão que inadmitiu o apelo especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MONITÓRIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. SÚMULA 284/STF. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO E SUFICIENTE À MANUTENÇÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO NO RECURSO ESPECIAL. SÚMULA 283/STF. ANÁLISE DE QUESTÃO PROBATÓRIA E CONTRATUAL. REVISÃO. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A insurgência não se mostra acessível quanto à suposta violação do artigo 489 do CPC/2015, visto que nem sequer foram opostos embargos de declaração contra o aresto recorrido, sendo manifesta, assim, a deficiência na fundamentação, a atrair o óbice da Súmula 284/STF.
+2. No caso, a Corte estadual concluiu pelo descabimento da incidência de multa e honorários contratuais, porquanto tais verbas não constaram do pedido inicial, não sendo possível inovar em sede recursal.
+3. Da atenta análise do recurso especial, verifica-se que a agravante não impugnou o referido fundamento, suficiente, por si só, para manter o acórdão recorrido, situação que atrai, por analogia, o óbice da Súmula 283 do STF.
+4. A Corte de origem assentou que a atualização monetária e os juros de mora da dívida estão calculados corretamente, nos termos da planilha juntada aos autos. A discussão envolvendo a referida questão, nos moldes em que ora postulada, encontra óbice nas Súmulas 5 e 7 desta Corte, ante a imprescindibilidade de revolvimento do acervo fático-probatório dos autos, bem como a necessidade de interpretação de cláusulas contratuais.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e não conhecer do recurso especial.
+VOTO
+Afiguram-se relevantes as alegações expendidas pela recorrente nas razões do agravo interno, de modo que, com base no art. 259 do RISTJ, reconsidero a decisão de fls. 311-312.
+Passa-se ao exame do mérito recursal.
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto por NÚCLEOS INSTITUTO DE SEGURIDADE SOCIAL, com fundamento no art. 105, III, "a", da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CONTRATO DE EMPRÉSTIMO. SENTENÇA DE PROCEDÊNCIA DO PEDIDO. INCONFORMISMO DA PARTE AUTORA. PRETENSÃO DE REFORMA DA SENTENÇA PARA QUE SEJA APLICADA A ATUALIZAÇÃO MONETÁRIA E JUROS NOS TERMOS CONTRATUAIS, BEM COMO A INCIDÊNCIA DE MULTA POR INADIMPLÊNCIA E HONORÁRIOS CONTRATUAIS. IN CASU VERIFICA-SE QUE O VALOR DE DÉBITO DE R$ 3.211,42 (TRÊS MIL, DUZENTOS E ONZE REAIS E QUARENTA E DOIS CENTAVOS) ESTÃO INCLUSOS OS JUROS DE 1% AO MÊS, ALÉM DA CORREÇÃO MONETÁRIA, CONFORME CÁLCULOS E PEDIDO NA INICIAL. DESSA FORMA, A CONDENAÇÃO DOS CONSECTÁRIOS LEGAIS NA SENTENÇA ESTÃO CORRETOS, UMA VEZ QUE HOUVE ATUALIZAÇÃO DO QUANTUM DA DÍVIDA ATÉ O AJUIZAMENTO DA AÇÃO. INEXISTÊNCIA DE PEDIDO DE APLICAÇÃO DE MULTA E HONORÁRIOS CONTRATRUAIS NA INICIAL, NÃO SE PODENDO INOVAR EM SEDE RECURSAL. DESPROVIMENTO DO RECURSO." (fl. 228)
+Em suas razões recursais, a recorrente alega violação dos arts. 489 do CPC; 421 e 422 do CC; e 71 da LC 109/2001, sustentando, em síntese, além de negativa de prestação jurisdicional, que devem ser aplicados, no cálculo do débito em questão, a atualização monetária e juros, nos termos contratuais, bem como honorários contratuais, que não se confundem com os honorários sucumbenciais, além da aplicação de multa por inadimplência.
+Decido.
+Inicialmente, no que tange à suposta violação do artigo 489 do CPC/2015, a insurgência não se mostra acessível, visto que nem sequer foram opostos embargos de declaração em face do aresto recorrido, sendo manifesta, assim, a deficiência na fundamentação, a atrair o óbice da Súmula 284/STF.
+No que concerne à tese de cabimento dos honorários contratuais e de incidência da aludida multa, a Corte estadual concluiu que "não há que se falar em incidência de multa e honorários contratuais, eis que tais verbas não constaram do pedido inicial, não se podendo inovar em sede recursal" (fl. 232).
+Ocorre que a insurgente não rebateu, de forma específica e suficiente, a referida fundamentação, o que atrai, na hipótese, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. RESPONSABILIDADE CIVIL. ERRO MÉDICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. ALEGAÇÕES DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. REAVALIAÇÃO DO CONJUNTOFÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N.7/STJ. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. SÚMULA N. 83/STJ. INCIDÊNCIA. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+(..)
+2. É inadmissível o recurso especial que não rebate fundamento do acórdão recorrido, trazendo alegações dissociadas do que ficou decidido pelo Tribunal de origem. Incidência das Súmulas n. 283 e 284 do STF.
+(..)
+(AgInt no AREsp 1659434/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/06/2020, DJe 18/06/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. ACIDENTE DE TRÂNSITO. INDENIZAÇÃO POR DANOS MORAIS ABRANGIDA PELA COBERTURA POR DANOS CORPORAIS. AUSENTE CLÁUSULA DE EXCLUSÃO. REVISÃO SÚMULAS 5 E 7/STJ. ALEGADA NECESSIDADE DE ABATIMENTO DE INDENIZAÇÃO ORIUNDA DE SINISTRO DISTINTO. PARADIGMA DISTINTO. INTERPRETAÇÃO INCORRETA. FALTA DE IMPUGNAÇÃODOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284 DO STF.
+(..)
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor das Súmulas n. 283 e 284 do STF.
+(..)
+(AgInt no AREsp 1393349/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/06/2020, DJe 12/06/2020)
+Quanto à incidência da atualização monetária e dos juros de mora , nos termos contratuais, concluiu a Corte de origem, in verbis:
+"Todavia, in casu verifica-se que o valor de débito de R$ 3.211,42 (três mil, duzentos e onze reais e quarenta e dois centavos) já estão inclusos os juros de 1% ao mês, além da correção monetária, nos termos da planilha de index 000003 - fls. 47/50.
+Dessa forma, a condenação dos consectários legais na sentença estão corretos e referentes a atualização do valor de R$ 3.211,42 (três mil, duzentos e onze reais e quarenta e dois centavos), uma vez que houve atualização do quantum da verba até o ajuizamento da ação." (fls. 231-232)
+Assim, a discussão envolvendo a atualização do débito, nos moldes em que ora postulada, encontra óbice nas Súmulas 5 e 7 desta Corte, ante a imprescindibilidade de revolvimento do acervo fático-probatório dos autos, bem como a necessidade de interpretação de cláusula contratual. A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. COBERTURA. OBRIGATORIEDADE. REVISÃO. INVIABILIDADE. REEXAME CONTRATUAL E FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ. PERDA DO DIREITO. CONSTITUIÇÃO EM MORA. EXIGÊNCIA. CORREÇÃO MONETÁRIA. TERMO INICIAL. DATA DA CONTRATAÇÃO DO SEGURO. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar conteúdo contratual (Súmula 5/STJ), bem como matéria fático-probatória (Súmula n. 7/STJ).
+2. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1005568/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)  g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. AÇÃO DE COBRANÇA. NEGATIVA DA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTRATO QUE PREVÊ COBERTURA PARA INVALIDEZ PERMANENTE TOTAL E PARCIAL. LAUDO PERICIAL MÉDICO QUE CONCLUIU PELA INCAPACIDADE LABORATIVA PARCIAL E PERMANENTE DO. PEDIDO DE INDENIZAÇÃO COMPLEMENTAR INTEGRAL. ALTERAÇÃO DAS PREMISSAS FÁTICAS. INVIABILIDADE. SÚMULAS 5 E 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Não há negativa da prestação jurisdicional quando a matéria posta a exame foi devidamente enfrentada na Corte de origem e as questões submetidas a julgamento foram apreciadas pelo órgão julgador, com fundamentação clara e coerente, embora em sentido contrário ao pretendido pelo recorrente.
+2. Segundo o acórdão recorrido, havendo prova pericial no sentido da invalidez parcial que acomete o segurado, não há que se falar em pagamento de indenização integral do seguro, pois as coberturas do contrato em questão estão delimitadas claramente e o contratante tinha pleno conhecimento das regras. A indenização deve ser paga integralmente somente quando a invalidez é total, o que não ocorreu no presente caso.
+3. É inviável o recurso especial cuja análise das razões demanda necessariamente o reexame do contexto fático-probatório dos autos e a interpretação de cláusulas contratuais, nos termos dos óbices impostos pelas Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1130954/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 25/09/2018, DJe 01/10/2018)  g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. EMPREITADA. OBRIGAÇÃO DA AGRAVADA. CUMPRIMENTO. RETENÇÃO TÉCNICA. DEVOLUÇÃO. CABIMENTO. ANÁLISE. INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS. REEXAME DE PROVAS. VEDAÇÃO. SÚMULAS 5 E 7/STJ. INCIDÊNCIA. ALÍNEA C. APLICAÇÃO DA SÚMULA 7/STJ QUANTO À ALÍNEA A. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A conclusão a que chegou o Tribunal de origem, no sentido de que a devolução da retenção técnica é devida, porquanto houve o cumprimento da obrigação correlata da agravada, decorreu de convicção formada em face do contrato celebrado entre as partes e dos elementos fáticos existentes nos autos. Rever os fundamentos do acórdão recorrido importa necessariamente na interpretação das cláusulas contratuais e no reexame de provas, o que é vedado nesta fase recursal. Incidência das Súmulas 5 e 7/STJ.
+2. Não se pode conhecer do recurso pela alínea c, uma vez que, aplicada a Súmula 7/STJ quanto à alínea a, resta prejudicada a divergência jurisprudencial.
+3. Agravo interno não provido.
+(AgInt no AREsp 1525602/MA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/12/2019, DJe 04/02/2020)  g.n.
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1456759/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/11/2019, DJe 03/02/2020)  g.n.
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NULIDADE DE CLÁUSULA ABUSIVA. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, a análise das razões apresentadas pelos recorrentes quanto à existência de abusividade da cláusula contratual de seguro, bem como de venda casada demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1503980/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/12/2019, DJe 19/12/2019)  g.n.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 311-312 e, em novo julgamento, conheço do agravo para não conhecer d o recurso especial.
+É como voto.
