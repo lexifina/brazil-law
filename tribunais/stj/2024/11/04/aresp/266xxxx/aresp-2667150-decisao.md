@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de agravo interposto por NOZAWA OLIVEIRA ADVOGADOS contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fl. 2.952):
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. PENHORA DE SALÁRIO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. De acordo com a Corte Especial do Superior Tribunal de Justiça (REsp n. 1.815.055/SP), as exceções destinadas à execução de prestação alimentícia, como a penhora dos bens descritos no art. 833, IV, do CPC/15, v. g. salários, não se estendem aos honorários advocatícios. Entendimento da 4ª Turma Cível.
+2. Recurso conhecido e desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 3.010-3.027).
+Nas razões do recurso especial (e-STJ, fls. 3.029-3.051), a recorrente apontou violação aos arts. 11, 85, § 14, 489, § 1º, VI, 833, § 2º e 1.022, II, do CPC/2015.
+Sustentou, em síntese, negativa de prestação jurisdicional e deficiência na fundamentação do acórdão recorrido quanto à possibilidade de flexibilização da regra de impenhorabilidade, desde que não comprometa a subsistência digna do devedor e de sua família, nos termos do entendimento firmado nos EREsp 1.874.222/DF; além de ser cabível a penhora de verba salarial para pagamento de honorários advocatícios, em virtude da sua natureza alimentar.
+Sem contrarrazões (e-STJ, fl. 3.059).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+No recurso especial, a recorrente aponta a existência de omissão no acórdão impugnado.
+Como cediço, os embargos de declaração revestem-se de fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015).
+Nesse sentido, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte (REsp 1.873.918/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 02/03/2021, DJe 04/03/2021).
+No tocante à impenhorabilidade das verbas salariais dos ora agravados, o Tribunal de origem assim se manifestou (e-STJ, fls. 2.955-2.960):
+A controvérsia recursal cinge-se a verificar a possibilidade de penhora de salário dos agravados ANTÔNIO LOPES CASTELO BRANCO NETO e FRANCINÉIA TAVARES BEZERRA MARQUES, a fim de satisfazer crédito de honorários advocatícios em favor da agravante NOZAWA OLIVEIRA ADVOGADOS.
+Em síntese, a recorrente fundamenta a pretensão recursal no argumento de que o débito exequente possui natureza alimentar, por se tratar de honorários advocatícios e, por consequência, estão abrangidos no conceito de "prestação alimentícia", nos termos dos arts. 85, §14, 833, §2º, do CPC, in verbis: ( )
+O d. Juízo de origem, entretanto, indeferiu o pleito de penhora dos salários, conforme decisão de ID 141500345, de origem, integrada pela decisão de embargos de declaração de ID 143237071, de origem:
+(..) - EMBARGOS DE DECLARAÇÃO
+Passo à análise dos embargos de declaração opostos pela exequente em face da decisão de ID.
+A embargante afirma que houve omissão quanto ao pedido de penhora do salário dos executados ANTÔNIO, FRANCINÉIA e WEBSTER.
+E o breve relatório.
+Entendo que assiste razão à embargante.
+As hipóteses de cabimento dos embargos de declaração estão previstas nos art. 1.022 do Código de Processo Civil de 2015.
+Da análise deste dispositivo, percebe-se claramente que o instrumento processual escolhido não se presta para impugnar sentença ou acórdão, limitando-se apenas a um mero esclarecimento ou complementação. Configura-se, portanto, num meio formal de integração do ato decisório, haja vista que este pode carecer de coerência, clareza e precisão.
+Analisando detidamente a decisão recorrida, vislumbro a existência de vício de omissão.
+Com efeito, não houve pronunciamento expresso do juízo a respeito do pedido de penhora mensal, apesar de já ter sido rejeitado o pedido de manutenção das penhoras SISBAJUD na modalidade teimosinha, a ver: "Indefiro o pedido de manutenção das penhoras em relação aos requeridos FRANCINÉIA, ANTONIO e WEBSTER, eis que as suas impugnações já foram julgadas e restou comprovada a origem alimentar dos valores penhorados. A reiteração do SISBAJUD apenas irá resultar em novas impugnações e embaraços à execução" (ID. 141500345).
+As razões para indeferimento da penhora mensal são as mesmas. Restou comprovada a origem alimentar dos valores. Ademais, restou expressamente consignado na decisão de ID. 136626031 que, em relação à executada FRANCINEIA, "demonstram as despesas correntes da executada e o estado de saúde debilitado, sendo certo que a constrição ainda que parcial de sua remuneração se mostra inviável".
+Ademais, o valor da execução é de R$ 534.434,83, ou seja, a penhora dos valores nos patamares pretendidos não seria capaz de sequer pagar o valor de atualização e dos juros moratórios, o que eternizaria o litígio executivo sem solução definitiva.
+Portanto, INDEFIRO o pedido.
+Ante o exposto, ACOLHO os embargos para sanar omissão, sem efeitos infringentes.
+Uma vez que não houve a indicação de outros bens, retornem-se os autos à suspensão.
+A decisão deve ser mantida, ainda que por outros fundamentos. Ao contrário do que argumenta a agravante, o entendimento atual da Corte Especial do Superior Tribunal de Justiça firmou-se no sentido de que as exceções destinadas à execução de prestação alimentícia, como a penhora dos bens descritos no art. 833, IV, do CPC/15, v. g. salário, não se estendem aos honorários advocatícios.
+Isso porque a Corte da Cidadania adotou critério hermenêutico distintivo entre "prestação alimentícia" e "verba de natureza alimentar".
+Com efeito, no voto condutor do REsp n. 1.815.055/SP, a Relatora Ministra Nancy Andrighi esclarece que: Destarte, uma verba tem natureza alimentar quando é destinada para a subsistência de quem a recebe e de sua família, mas só é prestação alimentícia aquela devida por quem possui a obrigação de prestar alimentos familiares, indenizatórios ou voluntários em favor de uma pessoa que deles efetivamente necessita.
+Assim, registra-se, a seguir, alguns exemplos das consequências jurídicas decorrentes da natureza alimentar de um débito:
+I) são impenhoráveis, nos termos do art. 833, IV, do CPC/2015;
+II) possibilita a penhora dos "equipamentos, os implementos e as máquinas agrícolas pertencentes a pessoa física ou a empresa individual produtora rural", nos termos do art. 833, § 3º, do CPC/2015;
+III) caracteriza a hipótese de dispensa da caução prevista no art. 520, IV, do CPC/2015, consoante o art. 521, I, também do CPC/2015;
+IV) possuem preferência no pagamento dos precatórios, nos termos do art. 100, § 1º, da CRFB;
+V) possuem preferência em processo falimentar, seja pela regência do Decreto-Lei nº 7.661/45 (art. 102), seja pela forma prevista na Lei nº 11.101/05 (art. 83, I), conforme o julgamento do REsp 1.152.218/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe 09/10/2014.
+A execução das prestações alimentícias, por seu turno, possui benefícios exclusivos, além de gozar daqueles previstos para as verbas de natureza alimentar no geral, destacando-se os seguintes:
+I) possibilidade de penhorar verbas de natureza alimentar e a quantia depositada em caderneta de poupança, nos termos do art. 833, § 2º, do CPC/2015;
+II) possibilidade de penhorar bem de família, nos termos do art. 3º, III, da Lei nº 8.009/90;
+III) possibilidade de prisão civil pelo não pagamento, nos termos do art. 528, § 3º, do CPC/2015, e art. 5º, LXVII, da CRFB;
+IV) execução na forma dos arts. 528 a 533, ou 911 a 913, todos do CPC/2015, c/c a Lei nº 5.478/68.
+Em face da nítida distinção entre os institutos, evidenciada pela análise histórica e pelo estudo do tratamento legislativo e jurisprudencial conferido ao tema, forçoso concluir que não se pode igualar verbas de natureza alimentar às prestações alimentícias, nem atribuir àquelas os mesmos benefícios conferidos pelo legislador a estas, sob pena de proteção deficitária ao direito à dignidade e à vida do credor de alimentos (familiares, indenizatórios ou voluntários), vez que este, por não poder prover o próprio sustento, é mais vulnerável do que o credor de débitos dotados apenas de natureza alimentar.
+Desse modo, as exceções destinadas à execução de prestação alimentícia, como a possibilidade de penhora dos bens descritos no art. 833, IV e X, do CPC/15, e do bem de família (art. 3º, III, da Lei 8.009/90), assim como a prisão civil, não se estendem aos honorários advocatícios, como não se estendem às demais verbas de natureza alimentar, sob pena de eventualmente termos de cogitar sua aplicação a todos os honorários devidos a quaisquer profissionais liberais, como médicos, engenheiros, farmacêuticos, e todas as outras categorias. (g. n.)
+A respeito do tema, a Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento dos Recursos Especiais repetitivos n. 1.954.380/SP e n. 1.954.382/SP (Tema 1.153/STJ), firmou entendimento no sentido de que a remuneração do devedor não pode ser penhorada com base na exceção prevista no § 2º do art. 833 do CPC/2015 para pagamento de honorários advocatícios, tendo em vista que esta verba, embora dotada de natureza alimentar, não pode ser igualada à prestação alimentícia.
+Também ficou consignado nos referidos julgados acima referidos que, embora não se possa admitir, em abstrato, a penhora de salário com base no § 2º do art. 833 do CPC/2015, a jurisprudência da Corte Especial, à luz da interpretação da própria regra geral de impenhorabilidade de salários (art. 833, IV, do CPC/2015), entende ser possível a constrição de parte dessa verba, desde que, no caso concreto, fique demonstrado nos autos que tal medida não compromete a subsistência digna do devedor e sua família.
+Assim, analisando os autos, observa-se que o colegiado local, não obstante a oposição de embargos de declaração na origem, deixou de se manifestar sobre a possibilidade de penhora de parcela da verba salarial, desde que preservada a subsistência digna do devedor e sua família.
+Portanto, conclui-se que o acórdão recorrido não sanou efetivamente a omissão apontada, impondo-se, assim, o retorno dos autos à origem para que o órgão competente realize novo julgamento dos aclaratórios, corrigindo o vício indicado.
+A propósito, os seguintes precedentes:
+AGRAVO INTERNO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. TÍTULO JUDICIAL. REFORMA. EXTINÇÃO DA EXECUÇÃO. ART. 10 DO CPC. OMISSÃO RELEVANTE. ART. 1.022 DO CPC. VIOLAÇÃO. PRINCÍPIO DA COLEGIALIDADE. SÚMULA N. 568/STJ. RECURSO ESPECIAL DA PARTE CONTRÁRIA. PREJUDICIALIDADE. NÃO PROVIMENTO.
+1. Nos termos do artigo 10 do Código de Processo Civil, "O juiz não pode decidir, em grau algum de jurisdição, com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício."
+2. Considera-se violado o artigo 1.022 do Código de Processo Civil quando o Tribunal de segundo grau, instado a se manifestar sobre questão relevante ao deslinde da controvérsia por meio dos competentes e oportunos embargos de declaração, deixa de se pronunciar a respeito.
+3. "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema." Enunciado n. 568 da Súmula do Superior Tribunal de Justiça.
+4. "Constatada a violação ao art. 1.022 do CPC/2015 e determinada a devolução dos autos à origem para novo julgamento dos embargos de declaração, fica prejudicada a análise de recurso interposto pela parte contrária." (EDcl no AgInt no REsp 1702612/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 1/3/2021, DJe 3/3/2021)
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.923.573/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/11/2021, DJe 1/12/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. PREVIDÊNCIA PRIVADA. APOSENTADORIA COMPLEMENTAR. BASE DE CÁLCULO. CTVA. PREVISÃO DE CUSTEIO. NECESSIDADE. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. VIOLAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo tribunal local, apesar de opostos declaratórios, é de rigor o reconhecimento de violação do art. 1.022 do Código de Processo Civil de 2015 por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Agravo interno não provido.
+(AgInt no REsp 1.698.218/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/6/2021, DJe 30/6/2021)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de, reconhecida a violação ao art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. OMISSÃO QUANTO À POSSIBILIDADE DE PENHORA PARCIAL DA VERBA SALARIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
