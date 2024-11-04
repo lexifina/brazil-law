@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual a CONCESSIONARIA RODOVIAS DO TIETE S/A se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 646):
+Apelação cível - Administrativo - Concessionária de serviços públicos - Descumprimento contratual verificado - Sanção aplicada ao cabo de regular processo administrativo, no qual assegurados contraditório e ampla defesa - Desídia demonstrada em serviço de limpeza e conservação, aos quais se obrigou a empresa concessionária por contrato - Sentença de improcedência integralmente mantida - Recurso desprovido
+Os embargos de declaração opostos foram rejeitados (fls. 683/687).
+Nas razões de seu recurso especial, a parte ora agravante alega que houve violação aos arts. 489, II, § 1º, IV, e 1.022, caput, II, parágrafo único, II, do Código de Processo Civil (CPC), sustentando, em síntese, que o Tribunal de origem deixou de apreciar sua argumentação para fins de anulação da sanção administrativa que lhe fora imposta, e que, em tese, poderia infirmar a conclusão adotada no acórdão recorrido.
+Requer que seja dado provimento ao recurso especial interposto.
+A parte adversa apresentou contrarrazões (fls. 715/731).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+Ao analisar o conjunto probatório dos autos, a Corte local concluiu pela correção do procedimento administrativo que aplicou a sanção em desfavor da parte ora recorrente por descumprimento contratual.
+Reconheceu, ainda, que a recorrente não se desincumbira do seu ônus de demonstrar o cumprimento da obrigação contratada e que não haveria dentre as cláusulas entabuladas suposto direito da concessionária à prévia notificação acerca das irregularidades, para que a partir daí se iniciasse o prazo para a execução do procedimento de limpeza.
+Nesses termos, destaco o excerto do acórdão recorrido (fls. 648/652):
+Pois bem. Conforme item 2.3, "b.2", do anexo 6 do Contrato de Concessão Rodoviária nº 004/ARTESP/2009, Corredor Marechal Rondon Leste, Edital de Concorrência Pública Internacional nº 005/2008, que trata dos serviços correspondentes às funções rotineiras de conservação da via, a empresa concessionária se obrigou expressamente a efetuar a "remoção de lixo e entulho da faixa de domínio: no mínimo uma vez por semana em toda a extensão das rodovias".
+Doutro turno, não há qualquer cláusula constante daquele contrato que estabeleça dever anterior de notificação da empresa concessionária para que só então esteja ela obrigada à realização do procedimento, já tendo o contrato, como visto, estipulado a obrigação e sua periodicidade.
+ ..
+Não há, portanto, com base nestas cláusulas contratuais, evidencia de suposto direito da concessionária à prévia notificação acerca de eventuais irregularidades, para que só então passasse a correr seu prazo semanal para a execução do procedimento de limpeza.
+Nesse sentido, afasta-se a alegação de cerceamento de defesa, pois imprestável se mostra a prova testemunhal pretendida a fim de comprovar situação distinta da disposta no contrato, sendo imprestável, também, à comprovação de cumprimento contratual naquele período de sete dias, pois sequer alegação há nesse sentido na petição inicial.
+No mais, e com base nas mesmas premissas, denotam-se hígidos os motivos que ensejaram a aplicação da penalidade administrativa, não havendo a empresa demandante se desincumbido de seu ônus probatório, quanto a fato constitutivo de seu direito, como determina o artigo 373 do CPC.
+A demandada apelante, em verdade, utiliza- se de argumentos a atacar formalmente a aplicação da multa, sem, contudo, comprovar a efetiva remoção de lixo e entulho da faixa de domínio: no mínimo uma vez por semana em toda a extensão das rodovias.
+ ..
+Importante destacar-se que a notificação em referência não se deu para o efetivo cumprimento da obrigação, pois sua imposição já constava do contrato de concessão, mas para que a empresa apresentasse defesa prévia no processo administrativo instaurado (fls. 246/249).
+Nesse sentido, no dia 24/10/2017 já estava sendo imputado à concessionária o descumprimento contratual, que perdurou pelo menos até 31/10/2017, prazo idêntico ao estipulado contratualmente (semanal), não havendo que se falar em exclusão do dia do início ou do final, pois não há qualquer elemento de prova nos autos a demonstrar que, então, na manha do dia 24/10/2017, ou ao final do dia 31/10/2017, ou mesmo nos dias próximos, houve efetivo cumprimento da obrigação contratual.
+ ..
+Com efeito, embora alegue a apelante ter efetuado as limpezas dentro do prazo, não apresenta qualquer prova nesse sentido, não se podendo ilidir a presunção de legitimidade do ato administrativo com mera a alegação de conformidade, sem qualquer outro elemento que a corrobore. Portanto, ante a comprovada desídia da empresa concessionária na manutenção da via, a qual se obrigou, encontram-se hígidos os motivos que ensejaram a punição, sendo imperiosa a mantença da bem lançada veridicção singular, escorreita na solução da controvérsia, inclusive por seus próprios e judiciosos fundamentos.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
