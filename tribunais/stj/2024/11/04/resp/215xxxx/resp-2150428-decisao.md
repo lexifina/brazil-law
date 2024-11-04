@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  JURIVALDO  AMÂNCIO  DE  GÓES  contra  acórdão  da  Segunda  Câmara  Cível  do  TJAC,  assim  ementado  (e-STJ  fls.  1.036/1.037):
+APELAÇÕES  CÍVEIS.  AÇÃO  CIVIL  EX  DELITO.  PRELIMINAR  SUSCITADA  DE  OFÍCIO.  NULIDADE  DOS  ATOS  PROCESSUAIS  PRATICADOS  DESDE  A  FASE  DE  ESPECIFICAÇÃO  DE  PROVAS.  ADVOGADO  DA  PARTE  RÉ  NÃO  CADASTRADO  PARA  INTIMAÇÃO.  VIOLAÇÃO  AO  PRINCÍPIO  DO  CONTRADITÓRIO  E  DA  AMPLA  DEFESA.  ART.  272,  §§  2º  e  5º,  DO  CPC.  NULIDADE  PROCESSUAL  RECONHECIDA  DE  OFÍCIO,  INCLUSIVE  DA  SENTENÇA.  RECURSOS  PREJUDICADOS.
+1.  A  intimação  constitui  requisito  de  validade  do  ato  processual  (art.  269,  do  CPC),  cuja  ausência  obsta  a  constituição  e  desenvolvimento  válido  da  relação  processual,  sujeito  a  exame  em  qualquer  tempo  e  grau  de  jurisdição.
+2.  Constitui  error  in  procedendo  a  ausência  de  intimação  da  parte  para  especificar  provas  e  demais  atos  subsequentes,  uma  vez  que  seu  único  advogado  não  foi  cadastrado  junto  aos  autos  digitais,  privando-lhe,  por  conseguinte,  o  exercício  do  contraditório  e  do  direito  de  defesa.
+3.  Deve  ser  declarada  a  nulidade  processual,  para  que  os  autos  retornem  à  instância  a  quo  para  regular  e  válida  tramitação,  vez  que  é  indispensável  que  da  publicação  constem  os  nomes  das  partes  e  de  seus  advogados,  com  o  respectivo  número  de  inscrição  na  Ordem  dos  Advogados  do  Brasil,  ou,  se  assim  requerido,  da  sociedade  de  advogados  (art.  272,  § 2º,  do  CPC).
+4.  Sentença  desconstituída  de  ofício.  Recursos  prejudicados.
+Os  embargos  de  declaração  opostos  foram  rejeitados  (e-STJ  fls.  1.135/1.140  e  1.160/1.164).
+Nas  razões  do  recurso  especial  (e-STJ  fls.  1.068/1.082),  fundamentado  no  art.  105,  III,  "a",  da  CF,  o  recorrente  aponta  violação  do  art.  10  do  CPC/2015.  Aduz  que ,  ao  suscitar,  de  ofício,  preliminar  de  nulidade  processual,  o Tribunal de origem  infringiu  o  referido  dispositivo  de  lei,  porque  ao  Juiz  é  vedado  decidir  com  base  em  fundamento  sobre  o  qual  não  se  tenha  dado  às  partes  oportunidade  de  se  manifestar,  ainda  que  se  trate  de  matéria  sobre  a  qual  deva  decidir  de  ofício.
+Indica  como  malferido  também  o  art.  282  do  CPC/2015,  uma  vez  que  a  parte  interessada  teria  expressamente  alegado  que  a  ausência  de  intimação  de  seu  patrono  não  lhe  teria  causado  prejuízo.  Nessas  condições,  não  haveria  necessidade  de  anulação  dos  atos  processuais.
+Não  foram  apresentadas  contrarrazões  (e-STJ  fl.  1.223).
+Admitido  o  recurso  na  origem,  foi  determinada  a  subida  dos  autos  a  esta  Corte  para  apreciação  do  especial  (e-STJ  fls.  1.224/1.227).
+É  o  relatório.
+Decido.
+O Tribunal de origem assim decidiu a controvérsia (e-STJ fls. 1.042/1.046):
+Compulsando os autos, entretanto, verifico a existência de nulidade processual insanável, conforme será a seguir explicado.
+Pois bem.
+Consta das pp. 539/550 a apresentação de contestação por parte da ré Patrícia Areal Leme por intermédio do advogado Joel Benvindo Ribeiro-OAB/AC 1.458, em data de 08.10.2019.
+Os autores se manifestaram sobre a constatação da ré Patricia Areal Leme (pp. 706/709).
+Por conseguinte, em 08 de junho de 2021, foi emitido ato ordinatório dando as partes por intimadas para, no prazo de 05 (cinco) dias especificarem as provas que pretendiam produzir (p. 722), sendo publicado a intimação das partes para especificação de provas (pp. 723/724), porém não consta que a ré Patrícia Areal Leme tenha tomado ciência, pois não constou o nome do advogado Joel Benvindo Ribeiro-OAB/AC 1.458.
+Também não tomou conhecimento dos demais atos processuais praticados em 30.10.20218 (certidão de publicação de p. 744); da sentença proferida em 23.03.2021 (p. 749/756), disponibilizada no Diário da Justiça em 25.03.2022 para e publicação e intimação das partes (p. 759); para se manifestar sobre os embargos de declaração de p. 762/768 (pp. 771/772); da decisão dos Embargos de declaração de p. 777/778 (p. 779/780), bem como de todos atos subsequentes.
+O art. 272, § 2º do Código de Processo Civil prevê que é indispensável que da publicação constem os nomes das partes e de seus advogados, com o respectivo número de inscrição na Ordem dos Advogados do Brasil, ou, se assim requerido, da sociedade de advogados, sob pena de nulidade (§ 2º do art. 272, CPC):
+ ..
+Trata-se, justamente, da hipótese em questão, vez que não há dúvida de que a ré Patrícia Areal Leme, teve seu direito de defesa e ao contraditório cerceado, porque não foi intimada por seu único advogado para a fase de especificação de provas e dos atos posteriores. Consoante se verifica das publicações realizadas via Diário da Justiça (pp. 647/648, 655 e 658, 661, 666, 672, 672/673, 677/678, 683/686, 723/724, 742, 744, 758/759, 771/772, 779/780, 904/905, 921/923 a parte ré Patrícia Areal Leme não apresenta procurador cadastrado, isto porque, quando da juntada da sua contestação aos autos (pp. 539/550), muito provavelmente não foi feito o cadastro do advogado nos autos digitais.
+Portanto, deve ser reconhecida a nulidade desde a intimação das partes para a especificação de provas (pp. 723/724), assim como a desconsideração dos atos subsequentes.
+Não há possibilidade de se aproveitar os atos processuais posteriores (teoria da nulidade por derivação), haja vista o evidente prejuízo ao pleno exercício do direito de defesa da demandada. E, por decorrência lógica, registro a nulidade inclusive da sentença primeva.
+Opostos embargos de declaração pelo recorrente, bem como pela ré PATRÍCIA AREAL LEME, em favor de quem foram declarados nulos os atos processuais, o TJAC consignou que (e-STJ fls. 1.191/1.193):
+ ..  tratando-se de irregularidade processual insanável, tal como o caso em comento, nada obsta que o julgador reconheça e declare de plano a constatação do vício, que independe da prévia intimação das partes, haja vista que tal diligência se torna inócua frente a irremediabilidade do defeito constatado.
+ ..
+Desta feita, embora o Magistrado ad quem não tenha determinado a intimação das partes antes de declarar ex-offício a nulidade de atos praticados nos autos originários, não há que se falar em omissão do acórdão embargado, haja vista a possibilidade de mitigação do princípio da não-surpresa frente a constatação de vício processual insanável.
+Entretanto, a jurisprudência desta Corte é firme no sentido de que a falta de intimação do advogado para manifestação no processo somente acarretará nulidade do ato se advier prejuízo à parte. Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NULIDADE. FALTA DE INTIMAÇÃO DO ADVOGADO. PREQUESTIONAMENTO. AUSÊNCIA DE PREJUÍZO. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos da jurisprudência pacífica desta Corte, ainda que se trate de matéria de ordem pública, é exigido o prequestionamento.
+2. Segundo esta Corte Superior, "conforme o adágio pas de nullité sans grief, a falta de intimação do advogado para manifestação no processo não ocasionará necessariamente a nulidade do ato, se dela não advier efetivo prejuízo" (AgInt no AREsp n. 1.553.055/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/8/2020, DJe de 27/8/2020).
+3. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+4. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.480.880/DF, de minha relatoria, QUARTA TURMA, julgado em 8/8/2022, DJe de 15/8/2022.)
+AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  CONVERSÃO  DO  CUMPRIMENTO  DE  SENTENÇA  EM  LIQUIDAÇÃO.  AUSÊNCIA  DE  INTIMAÇÃO  EXCLUSIVA  EM  NOME  DO  ADVOGADO.  AUSÊNCIA  DE  PREJUÍZO.  SÚMULAS  7  E  83/STJ.  APLICAÇÃO.  DECISÃO  MANTIDA.  RECURSO  DESPROVIDO.
+1.  Conforme  o  adágio  pas  de  nullité  sans  grief,  a  falta  de  intimação  do  advogado  para  manifestação  no  processo  não  ocasionará  necessariamente  a  nulidade  do  ato,  se  dela  não  advier  efetivo  prejuízo.
+2.  O  recurso  especial  é  inviável  quando  o  tribunal  de  origem  decide  em  consonância  com  a  jurisprudência  do  STJ  (Súmula  83/STJ).
+3.  "A  pretensão  de  simples  reexame  de  prova  não  enseja  recurso  especial"  (Súmula  nº  7/STJ).
+4.  Agravo  interno  a  que  se  nega  provimento.
+(AgInt  no  AREsp  n.  1.553.055/MS,  relatora  Ministra  MARIA  ISABEL  GALLOTTI,  QUARTA  TURMA,  julgado  em  24/8/2020,  DJe  de  27/8/2020.)
+No caso, a parte interessada, nos embargos de declaração opostos, expressamente afirmou que, "apesar de não intimado formalmente dos atos processuais, o causídico que esta subscreve teve conhecimento dos atos praticados e considerou favorável a sentença de mérito e por isso dela não recorreu". Acrescentou que, "ao concluir sem ouvir a principal interessada na decisão, o juízo acabou por violar o artigo 10 e também prejudicar a própria parte que pretendia salvaguardar" (e-STJ fl. 1.162). Por fim, "manifesta expressamente que jamais houve prejuízo processual nesse feito em razão da não publicação dos atos oficiais em nome do seu patrono" (e-STJ fl. 1.163).
+Logo, não há razão para a anulação dos atos processuais.
+Ante  o  exposto,  DOU PROVIMENTO ao recurso especial para afastar a preliminar de nulidade suscitada e acolhida pelo Tribunal a quo, determinando o retorno dos autos à origem para julgamento das apelações interpostas.
+Publique-se  e  intimem-se.
+EMENTA
