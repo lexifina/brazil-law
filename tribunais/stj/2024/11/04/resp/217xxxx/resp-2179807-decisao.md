@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ERBE INCORPORADORA 037 S.A. (atual denominação de TG Centro-Oeste Empreendimentos Imobiliários, antiga Brookfield MB Empreendimentos Imobiliários S.A.) contra decisão que inadmitiu o recurso especial com fundamento nas Súmulas n. 7 e 83 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal Regional Federal da 3ª Região (Apelação n. 5001589-23.2018.4.03.6003) nos autos de ação indenizatória por danos materiais e morais em decorrência de vícios construtivos.
+O julgado foi assim ementado (fls. 836-837):
+PROCESSUAL CIVIL. SFH. PROGRAMA MINHA CASA, MINHA VIDA. VÍCIOS CONSTRUTIVOS. DANOS MATERIAIS E MORAIS. INTERESSE DE AGIR. PRÉVIO REQUERIMENTO ADMINISTRATIVO. PRESCINDIBILIDADE. DETALHAMENTO DO PEDIDO. INÉPCIA DA INICIAL. INOCORRÊNCIA. PERÍCIA TÉCNICA. JUNTADA DE CONTRATO DE FINANCIAMENTO PELA INSTITUIÇÃO FINANCEIRA. POSSIBILIDADE. ANULAÇÃO DA SENTENÇA. RECURSO PROVIDO.
+1. Obstar a tutela jurisdicional somente porque a parte autora não buscou, na esfera administrativa, obter tal ressarcimento, poderia vir a causar vilipêndio não só aos princípios da proporcionalidade e da razoabilidade, como também infirmar o acesso à Justiça, assegurado no art. 5º, inc. XXXV, da Constituição Federal pois, em última análise, acabaria por inibir o particular de judicializar demandas de tal ordem.
+2. Conforme decidiu o Supremo Tribunal Federal "o acionamento do Poder Judiciário não exige demonstração de prévia tentativa frustrada de entendimento entre as partes: basta a demonstração da necessidade da tutela jurisdicional, o que pode ser feito, por exemplo, a partir da narrativa de que um direito foi violado ou está sob ameaça" (RE 631.240, Rel. Ministro Roberto Barroso, j. em 03.09.2014).
+3. A inicial permite a identificação do pedido e da causa de pedir. Apresenta, também, correlação lógica e correta fundamentação, indicação dos fatos e documentos essenciais.
+4. A jurisprudência do Superior Tribunal de Justiça admite a formulação de pedido genérico em relação ao dano material, na impossibilidade de sua quantificação imediata.
+5. O princípio constitucional do devido processo legal impõe que se conceda aos litigantes o direito à produção de provas, devendo facultar-se amplos meios para que se possa comprovar os fatos que amparam o direito disputado em juízo.
+6. Mesmo que na espécie os vícios sejam estruturais e comuns às diversas unidades do conjunto imobiliário, há vícios construtivos, apontados pela autora, específicos de sua unidade habitacional, que tornam individualizado o seu pedido e podem ser objeto de apuração no curso da instrução. Isso reforça a necessidade de provimento jurisdicional, com a realização de perícia técnica.
+7. Reconhecer a carência da ação por "inadequação da demanda individual", causaria sim efetivo dano, mas à parte autora, em flagrante violação ao contraditório, à ampla defesa e ao devido processo legal.
+8. Apelação provida. Sentença anulada.
+Cinge-se a controvérsia objeto do recurso especial às seguintes questões:
+a) po ssibilidade de formular pedido genérico de danos materiais quando é muito difícil ou oneroso para a parte quantificá-los previamente; e
+b) existência de interesse de agir quando não há prévio requerimento administrativo da pretensão autoral.
+É o relatório. Decido.
+Inicialmente, observa-se um número relevante de processos em trâmite neste gabinete com alegação de possibilidade de indeferimento da inicial por inépcia, tendo em vista a existência de pedido genérico e a necessidade de definição do quantum debeatur relacionado à pretensão de indenização por danos materiais em decorrência de vícios de construção, bem como a ausência de comprovação de pedido administrativo prévio.
+Existindo multiplicidade de recursos especiais sobre semelhante matéria de direito federal infraconstitucional, poderá ser afetada a questão ao rito dos recursos repetitivos.
+E, consoante o art. 256-I do RISTJ, c/c o art. 1.036, § 5º, do CPC, é cabível ao relator selecionar dois ou mais recursos representativos da controvérsia para submissão da questão ao rito dos repetitivos.
+Assim, nesse primeiro momento, foram identificados mais de 40 recursos a mim distribuídos com idênticas alegações, entre os quais destaco os seguintes: AREsp n. 2.734.750/MS, AREsp n. 2.738.819/MS, AREsp n. 2.728.785/MS, AREsp n. 2.760.573/MS, AREsp n. 2.764.407/MS e AREsp n. 2.712.408/MS.
+Nesse contexto, cumpre à Comissão Gestora de Precedentes, em auxílio aos Ministros da Corte nas atividades de afetação e no exercício das atribuições de inteligência previstos no art. 46-A do RISTJ, se for o caso, confirmar os indícios ora apresentados para subsidiar a decisão do Presidente da Comissão Gestora de Precedentes e de Ações Coletivas para a adoção ou não do rito preconizado pelos arts. 256 ao 256-D do RISTJ, com o consequente encaminhamento ao Ministério Público Federal e a intimação das partes para se manifestar sobre a possível afetação do recurso ao rito dos repetitivos.
+Selecionam-se, inicialmente, para esse fim os seguintes processos: AREsp n. 2.734.750/MS e AREsp n. 2.738.819/MS.
+Por conseguinte, atendidos os pressupostos de conhecimento do agravo (tempestividade, regularidade de representação e impugnação específica), para melhor análise da controvérsia, converto o presente agravo em recurso especial.
+Ressalte-se que o provimento não retira a possibilidade de novo exame dos pressupostos de admissibilidade do recurso especial quando do seu julgamento.
+Após alteração da classe, encaminhe-se à Presidência da Comissão Gestora de Precedentes e de Ações Coletivas o presente recurso para examinar a possibilidade de afetação, adotando as providências cabíveis.
+Publique-se.
+EMENTA
