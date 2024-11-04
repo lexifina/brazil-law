@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 458):
+Reexame. Plano de saúde. Cobertura. Cirurgia cardíaca de troca valvar aórtica (TAVI). Ausência de previsão no rol da ANS. Circunstância que não impede a cobertura na espécie. Taxatividade afastada pela Lei nº 14.454/2022. Existência de prescrição médica, respaldada em estudos científicos. Procedimento, de qualquer forma, recentemente incorporado ao referido rol com cobertura obrigatória. Precedente do STJ. Condenação inalterada. Acórdão mantido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 489/492).
+Nas razões apresentadas (e-STJ fls. 467/478), a parte recorrente aponta violação:
+(i) do art. 77, IV, do CPC/2015, pois a Corte local teria rejulgado a controvérsia do custeio apenas com base no laudo do médico assistente, inexistindo, portanto, sua intimação para comprovar a existência de substituto terapêutico do método TAVI,
+(ii) dos arts. 1º e 6º, § 1º, da LINDB, ante a inaplicabilidade da Lei n. 14.454/2022, visto que a demanda seria anterior a sua vigência, e
+(iii) dos arts. 10, § 4º, e 35-F da Lei n. 9.656/1998 e 4º, III, da Lei n. 9.961/2000, sustentando ser possível limitar a cobertura do implante da válvula aórtica descrita na inicial (TAVI), pois o mencionado custeio não seria previsto no rol de procedimentos e eventos da Agência Nacional de Saúde Suplementar - ANS, que, em regra, teria natureza taxativa.
+O recurso foi admitido na origem (e-STJ fls. 496/497).
+É o relatório.
+Decido.
+O Tribunal de origem não debateu o conteúdo dos arts. 77, IV, do CPC/2015 e 1º e 6º, § 1º, da LINDB sob o enfoque pretendido pela recorrente, a despeito dos aclaratórios opostos.
+Inafastáveis, dessa maneira, as Súmulas n. 282 do STF e 211 do STJ.
+A Segunda Seção do STJ firmou entendimento de que o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgados em 8/6/2022, DJe de 3/8/2022).
+Sem embargo, o órgão colegiado admitiu a excepcional possibilidade de cobertura do procedimento - indicado pelo médico ou odontólogo assistente, mas não previsto no rol da agência reguladora -, inexistindo substituto terapêutico listado, desde que:
+(i) não tenha sido indeferida expressamente pela ANS a incorporação do procedimento ao Rol da Saúde Suplementar,
+(ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências,
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros, e
+(iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Ademais, a Segunda Seção recentemente firmou o entendimento sobre a impossibilidade de aplicação retroativa da Lei n. 14.454/2022, cuja vigência coincidiu com sua publicação, este ato ocorrido em 22/9/2022.
+Confira-se a ementa do julgado:
+RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. ROL DA ANS. NATUREZA JURÍDICA. PRESSUPOSTOS DE SUPERAÇÃO. CRITÉRIOS DA SEGUNDA SEÇÃO. LEGISLAÇÃO SUPERVENIENTE. IRRETROATIVIDADE. CARÁTER INOVADOR. TRATAMENTO CONTINUADO. APLICAÇÃO EX NUNC. NEOPLASIA MALIGNA. MEDICAMENTO QUIMIOTERÁPICO. DIRETRIZES DE UTILIZAÇÃO (DUT). MERO ELEMENTO ORGANIZADOR DA PRESCRIÇÃO FARMACÊUTICA. EFEITO IMPEDITIVO DE TRATAMENTO ASSISTENCIAL. AFASTAMENTO.
+1. Tratam os autos da interpretação do alcance das normas definidoras do plano referência de assistência à saúde, também conhecido como Rol de Procedimentos e Eventos em Saúde, elaborado periodicamente pela Agência Nacional de Saúde Suplementar (ANS), sobretudo com relação às Diretrizes de Utilização (DUT).
+2. Quando do julgamento dos EREsps nºs 1.886.929/SP e 1.889.704/SP, a Segunda Seção desta Corte Superior uniformizou o entendimento de ser o Rol da ANS, em regra, taxativo, podendo ser mitigado quando atendidos determinados critérios.
+3. A Lei nº 14.454/2022 promoveu alteração na Lei nº 9.656/1998 (art. 10, § 13) para estabelecer critérios que permitam a cobertura de exames ou tratamentos de saúde que não estão incluídos no Rol de Procedimentos e Eventos em Saúde Suplementar.
+4. Com a edição da Lei nº 14.454/2022, o Rol da ANS passou por sensíveis modificações em seu formato, suplantando a eventual oposição rol taxativo/rol exemplificativo.
+5. A superveniência do novo diploma legal (Lei nº 14.454/2022) foi capaz de fornecer nova solução legislativa, antes inexistente, provocando alteração substancial do complexo normativo. Ainda que se quisesse cogitar, erroneamente, que a modificação legislativa havida foi no sentido de trazer uma "interpretação autêntica", ressalta-se que o sentido colimado não vigora desde a data do ato interpretado, mas apenas opera efeitos ex nunc, já que a nova regra modificadora ostenta caráter inovador.
+6. Em âmbito cível, conforme o Princípio da Irretroatividade, a lei nova não alcança fatos passados, ou seja, aqueles anteriores à sua vigência. Seus efeitos somente podem atingir fatos presentes e futuros, salvo previsão expressa em outro sentido e observados o ato jurídico perfeito, a coisa julgada e o direito adquirido.
+7. Embora a lei nova não possa, em regra, retroagir, é possível a sua aplicação imediata, ainda mais em contratos de trato sucessivo. Assim, nos tratamentos de caráter continuado, deverão ser observadas, a partir da sua vigência, as inovações trazidas pela Lei nº 14.454/2022, diante da aplicabilidade imediata da lei nova. Aplicação também do Enunciado nº 109 das Jornadas de Direito da Saúde, ocorridas sob a coordenação do Conselho Nacional de Justiça (CNJ).
+8. Mantém-se a jurisprudência da Segunda Seção do STJ, que uniformizou a interpretação da legislação da época, devendo incidir aos casos regidos pelas normas que vigoravam quando da ocorrência dos fatos, podendo a nova lei incidir, a partir de sua vigência, aos fatos daí sucedidos.
+9. A Diretriz de Utilização (DUT) deve ser entendida apenas como elemento organizador da prestação farmacêutica, de insumos e de procedimentos no âmbito da Saúde Suplementar, não podendo a sua função restritiva inibir técnicas diagnósticas essenciais ou alternativas terapêuticas ao paciente, sobretudo quando já tiverem sido esgotados tratamentos convencionais e existir comprovação da eficácia da terapia à luz da medicina baseada em evidências.
+10. Na hipótese, aplicando os parâmetros definidos para a superação, em concreto, da taxatividade do Rol da ANS (que são similares à inovação trazida pela Lei nº 14.454/2022, conforme também demonstra o Enunciado nº 109 das Jornadas de Direito da Saúde), verifica-se que a autora faz jus à cobertura pretendida de tratamento ocular quimioterápico com antiangiogênico.
+11. Recurso especial não provido.
+(REsp n. 2.037.616/SP, relator para acórdão Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 24/4/2024, DJe de 8/5/2024.)
+A Corte de origem, soberana na análise do conjunto fático-probatório dos autos, assentou que estavam presentes os requisitos de mitigação da taxatividade do rol da ANS, à luz da Lei n. 14.454/2002 (e-STJ fls. 459/464).
+Não há como ultrapassar as conclusões do Tribunal de origem sem o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
