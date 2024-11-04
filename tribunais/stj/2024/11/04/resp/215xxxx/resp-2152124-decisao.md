@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial apresentado pela ré (instituição financeira) em face de acórdão assim ementado:
+APELAÇÃO CÍVEL Ação Declaratória. Financiamento de Veículo. Declaração de ilegalidade de tarifas. Anulação. Juros incidentes sobre tarifas declaradas ilegais. Impossibilidade. Restituição. Necessidade. Manutenção da sentença. Desprovimento do recurso. Em face do reconhecimento, por sentença transitada em julgado, de ilegalidade da cobrança de tarifas contratuais, o valor referente aos juros remuneratórios incidentes sobre essas tarifas deve ser restituído ao consumidor.
+Os embargos de declaração opostos a esse acórdão não foram providos.
+Alega-se que o acórdão recorrido contrariou os artigos 485, 489 e 1.022 da Lei 13.105/2015 (Código de Processo Civil - CPC/2015) porque ignorou que a ocorrência de coisa julgada é matéria que o julgador deve conhecer de ofício, de modo que, sendo alegada em embargos de declaração, deve ser apreciada, sem que isso implique ofensa à preclusão.
+Noticia-se divergência jurisprudencial.
+Inicialmente, anoto que a arguição de coisa julgada, matéria de ordem pública, pode ser reconhecida pelas instâncias ordinárias enquanto não ocorrer o trânsito em julgado, ainda que alegada só em embargos de declaração, não se sujeitando, nessa hipótese, à preclusão. Veja-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO E REVISÃO DE CLÁUSULAS CONTRATUAIS. DECADÊNCIA. MATÉRIA DE ORDEM PÚBLICA. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM. RECURSO PROVIDO.
+1. O conhecimento do recurso especial exige a manifestação do Tribunal local acerca de tema que não pode ser examinado, de plano, na via estreita do recurso especial. Omitindo-se a Corte de origem em se manifestar sobre a decadência alegada nos embargos de declaração, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 1.022 do CPC/2015, a fim de anular o acórdão recorrido para que o Tribunal a quo supra a omissão existente.
+2. "A jurisprudência firmou-se no sentido de que as matérias de ordem pública, tais como prescrição e decadência, nas instâncias ordinárias, podem ser reconhecidas a qualquer tempo, ainda que alegadas em embargos de declaração, não estando sujeitas a preclusão" (AgRg no AREsp 686.634/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/08/2016, DJe de 09/08/2016)
+3. Agravo interno provido para conhecer do agravo a fim de dar provimento ao recurso especial, anulando-se o acórdão proferido em sede de embargos declaratórios na origem, para que outro seja proferido e, assim, sanado o vício constatado.
+(AgInt nos EDcl no AREsp n. 1.552.050/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/6/2020, DJe de 15/6/2020.)
+No caso, a ré argumentou, em embargos de declaração, que o objeto da presente demanda - pedido de restituição de juros remuneratórios incidentes sobre tarifas bancárias cuja cobrança foi declarada ilegal - foi decidido em demanda anterior, por isso que o presente feito deve ser extinto sem resolução de mérito, sob pena de ofensa à coisa julgada.
+O Tribunal local deixou de conhecer do argumento da ré, ao fundamento de que a matéria (coisa julgada) não havia sido devolvida ao Colegiado, constituindo, portanto, tese (defesa) inovadora.
+Esse entendimento diverge da jurisprudência do Superior Tribunal de Justiça (STJ), acima demonstrada.
+Em face do exposto, dou provimento ao recurso para determinar que o Tribunal de origem prossi ga no julgamento dos embargos de declaração, enfrentando a questão neles ventilada (ocorrência de coisa julgada).
+Intimem-se.
+EMENTA
