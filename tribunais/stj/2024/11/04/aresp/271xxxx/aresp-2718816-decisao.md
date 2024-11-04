@@ -1,0 +1,68 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por COMÉRCIO DE VEÍCULOS TOYOTA TSUSHO LTDA, em face de decisão que não admitiu recurso especial dos ora insurgentes.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 475, e-STJ):
+APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. Compra e venda de veículo. Réus compradores que deram como parte de pagamento veículo financiado. Quitação do financiamento a cargo da concessionária autora, mediante emissão de boleto pelos compradores. Boleto que se revelou falso. Sentença de parcial procedência. Apelo dos réus compradores e da instituição financeira.
+Apelo da instituição financeira que é de ser provido. Réus compradores que forneceram os dados pessoais e do contrato para o fraudador e não esclareceu por meio de contato via "Whatsapp". Inexistência de prova de que a fraude tenha se consolidado por fato atribuível à instituição financeira. Excludente de responsabilidade da instituição financeira evidenciada. Precedentes.
+Apelo dos réus compradores. Recebimento do boleto por procedimento suspeito, amplamente conhecido na aplicação de golpes. Site do banco réu que expressamente adverte acerca da prática. Fraude facilmente constatável por esses. Concessionária autora, contudo, que realizou o pagamento de boa-fé, do boleto que recebeu dos réus compradores. Nome do banco, sacado e informações contratuais que constaram corretamente do boleto. Fraude que não era manifesta e imediatamente perceptível.
+Nexo de causalidade entre o prejuízo material da autora, consistente na diferença entre o valor desembolsado para a quitação do financiamento, e a conduta culposa dos réus compradores configurada. Pagamento devido. Condenação mantida.
+Sentença reformada. Apelo da instituição financeira provido, desprovido o dos réus compradores.
+Os embargos declaratórios opostos foram rejeitados (fls. 491-495, e-STJ).
+Nas razões do recurso especial (fls. 500-506, e-STJ), a parte insurgente aponta violação aos artigos 14, 18, 20 e 35, ambos do CDC, e à Súmula 479/STJ, aduzindo, em suma, a ocorrência de falha na prestação do serviço, razão pela qual deve o banco recorrido responder pelos danos materiais decorrentes do pagamento de boleto fraudado.
+Contrarrazões às fls. 537-545, e-STJ.
+Em juízo prévio de admissibilidade (fls. 552-553, e-STJ), a Corte de origem negou seguimento ao apelo nobre, dando ensejo à interposição do presente agravo (fls. 556-563, e-STJ), visando destrancar o processamento da insurgência.
+Contraminuta às fls. 567-572, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Inicialmente, no que diz respeito à alegada vulneração do enunciado contido na Súmula 479 do STJ, é assente nesta Corte Superior que a suposta violação a súmula não é cognoscível na via excepcional, pois não se encontra no conceito de lei federal, para fins de interposição do apelo nobre.
+Vejam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTO DE VIOLAÇÃO À SÚMULA. IMPROPRIEDADE. SÚMULA 518 DO STJ. EMBARGOS DE DECLARAÇÃO MANIFESTAMENTE PROTELATÓRIOS. MULTA DO ART. 1.026, § 2º, DO CPC. SÚMULA 98 DO STJ. FRAUDE À EXECUÇÃO. SÚMULA 7/STJ. TESE DE EQUÍVOCO NA APLICAÇÃO DA SÚMULA 283 DO STF. IMPROCEDENTE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. Não é possível a abertura da instância especial por suposta violação a súmulas, por não se enquadrarem no conceito de lei federal, previsto no art. 105, III, "a", da Constituição Federal. Súmula 518 do STJ.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp 1587105/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/06/2020, DJe 18/06/2020)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONTRATO BANCÁRIO. CUMPRIMENTO DE SENTENÇA. USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 123/STJ. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NAS RAZÕES DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 283/STF. ALEGADA VIOLAÇÃO A SÚMULA. ENUNCIADO N. 518 DA SÚMULA DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+ ..
+4. Não cabe ao STJ apreciar a violação a verbete sumular em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante dispõe a Súmula 518 desta Corte.
+5. Razões recursais insuficientes para a revisão do julgado.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1540409/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/05/2020, DJe 28/05/2020)  grifou-se
+2. No mais, cinge-se a controvérsia acerca da alegada vulneração aos artigos 14, 18, 20 e 35, ambos do CDC, ao argumento de que houve falha na prestação do serviço, razão pela qual deve o banco recorrido responder pelos danos materiais decorrentes do pagamento de boleto fraudado.
+Sobre o tema, a jurisprudência desta Corte, em julgamento de recurso especial representativo de controvérsia, firmou entendimento de que a instituição bancária responde objetivamente pelos danos causados em razão da deficiência na prestação do serviço, inclusive quando praticada por terceiros.
+Desse modo:
+"RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. JULGAMENTO PELA SISTEMÁTICA DO ART. 543-C DO CPC. RESPONSABILIDADE CIVIL. INSTITUIÇÕES BANCÁRIAS. DANOS CAUSADOS POR FRAUDES E DELITOS PRATICADOS POR TERCEIROS. RESPONSABILIDADE OBJETIVA. FORTUITO INTERNO. RISCO DO EMPREENDIMENTO. 1. Para efeitos do art. 543-C do CPC: As instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros - como, por exemplo, abertura de conta-corrente ou recebimento de empréstimos mediante fraude ou utilização de documentos falsos -, porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno. 2. Recurso especial provido" (REsp 1.199.782/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, julgado em 24/8/2011, DJe 12/9/2011)
+No entanto, na hipótese em exame, com base nos elementos de prova dos autos, concluiu o Tribunal de origem que os fatos descritos no curso processual excluem a responsabilidade civil da instituição financeira demandada, notadamente porque a consolidação da fraude se deu em razão da ausência das devidas precauções que deveriam ter sido adotadas no momento da realização do pagamento, bem como porque o boleto bancário foi obtido por meio de whatsapp, inexistindo provas de que o contato tenha se originado em um canal oficial da instituição financeira, além disso os números da central de relacionamento indicados pelo golpista são diversos dos números oficiais do banco recorrido.
+A esse respeito, extrai-se trecho do acórdão (fls. 476-480, e-STJ):
+Porém, a hipótese de que se trata é diversa, e se encaixa naqueles casos em que só foi possível a consolidação da fraude em razão de ausência das devidas precauções que deveriam ser tomadas no momento da realização do pagamento.
+Nota-se que, a despeito do referido boleto de fls. 41 conter informações compatíveis sobre o banco apelante, o documento foi obtido por Whatsapp, sem que os réus os réus Marcelo e Ediara tenham comprovado ou, minimamente esclarecido, se tal contato se originou em um canal oficial da instituição financeira a justificar o ocorrido.
+E, conforme se observa da conversa do Whatsapp apresentada (fls. 191/207), os réus Marcelo e Ediara forneceram os dados do contrato para o fraudador, indicando o seu CPF, a placa do veículo financiado, o valor para liquidar o contrato e a data de vencimento para que fosse concluída a solicitação.
+Além disso, verifica-se que o golpista indica números de contato da central de relacionamento que são distintos dos números oficiais do banco apelante (fls. 195), o que poderia ser facilmente confirmado em consulta ao site oficial da financeira.
+Assim, não é possível concluir que a fraude tenha decorrido de fato atribuível à instituição financeira a caracterizar a responsabilidade do banco apelante pelo evento narrado. A hipótese, pelo contrário, não se coaduna com os casos em que o consumidor age sem culpa, sendo evidente a presença de excludente de responsabilidade do fornecedor do serviço.
+ ..
+Não há dúvidas, portanto, de que os réus Marcelo e Ediara agiram com culpa ao emitir boleto falso para pagamento, ao não tomarem as precauções devidas a despeito de ter sido encaminhada para contato estranho no aplicativo Whatsapp, a isentar de responsabilidade o fornecedor do serviço, nos termos do artigo 14, §3º, do Código de Defesa do Consumidor.  grifou-se
+Como se vê, diante do conteúdo fático-probatório constante dos autos e das peculiaridades do caso concreto, o órgão julgador consignou a ausência de responsabilidade objetiva da parte ré, diante da constatação de culpa dos emitentes do boleto falso e da inexistência de falha na prestação de serviço bancário.
+Assim sendo, para derruir as premissas sobre a quais se baseou a Corte de origem, a fim de se reconhecer a responsabilidade da instituição financeira ante a não comprovação de falha na prestação de serviço bancário, já assentado pelo tribunal de origem como não comprovada, seria necessário o revolvimento dos elementos de prova constantes dos autos, hipótese vedada na presente esfera recursal, ante o óbice contido na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E PEDIDO DE DANOS MORAIS. RESPONSABILIDADE CIVIL. INSTITUIÇÕES BANCÁRIAS. DELITO PRATICADO POR TERCEIRO. AUSÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Tema Repetitivo n. 466: "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias." (REsp 1.197.929/PR, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 24/08/2011, DJe de 12/09/2011).
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que não ficou caracterizada responsabilidade da instituição financeira ora agravada, assentando que a fraude fora praticada exclusivamente por culpa de terceiro. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.792.999/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/6/2021, DJe de 1/7/2021.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DANOS MATERIAIS. INDENIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PROVA PERICIAL. DESNECESSIDADE. INDEFERIMENTO. CERCEAMENTO DE DEFESA. SÚMULA Nº 7/STJ. FALHA DE SERVIÇO. FRAUDE BANCÁRIA. INSTITUIÇÃO FINANCEIRA. RESPONSABILIDADE OBJETIVA. EXCLUSÃO. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. REEXAME. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+(..)
+3. Na hipótese, rever as conclusões do tribunal quanto à desnecessidade da realização de prova pericial demandaria análise de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7/STJ.
+4. A Segunda Seção do Superior Tribunal de Justiça consolidou entendimento no sentido de que as instituições bancárias respondem objetivamente pelos danos causados por fraudes praticadas por terceiros, pois tal responsabilidade decorre do risco do empreendimento que se caracteriza como fortuito interno.
+5. O acolhimento da tese recursal, no sentido de que não houve falha de serviço nem a prática de ato ilícito pelo banco, requer o reexame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.670.026/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/6/2022, DJe de 10/6/2022.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL. FALHA NA PRESTAÇÃO DE SERVIÇO BANCÁRIO. RESPONSABILIDADE OBJETIVA. NÃO CONFIGURAÇÃO. CULPA EXCLUSIVA DA VÍTIMA E DE TERCEIRO. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+2. "Tratando-se de consumidor direto ou por equiparação, a responsabilidade da instituição financeira por fraudes praticadas por terceiros, das quais resultam danos aos consumidores, é objetiva e somente pode ser afastada pelas excludentes previstas no CDC, como por exemplo, culpa exclusiva da vítima ou de terceiro" (REsp 1.199.782/PR, Rel. Ministro Luis Felipe Salomão, SEGUNDA SEÇÃO, julgado em 24/08/2011, DJe de 12/09/2011).
+3. Na hipótese, o Tribunal de origem entendeu que não houve falha na prestação do serviço bancário, ficando evidenciada a culpa exclusiva da vítima e de terceiro na realização de depósito fraudulento em terminal de autoatendimento. A modificação de tal entendimento demandaria o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância especial, a teor do disposto na Súmula 7 do STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.660.099/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/8/2020, DJe de 26/8/2020.)  grifou-se
+Incide, no ponto, o óbice da Súmula 7/STJ.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
