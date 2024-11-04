@@ -1,0 +1,19 @@
+DECISÃO
+VALTER BEZERRA DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no habeas corpus n. 2201395-72.2024.8.26.0000.
+O paciente responde pela prática, em tese, de extorsão majorada/qualificada e usurpação de função pública, encontrando-se em prisão preventiva.
+Inconformada, a defesa impetra o presente habeas corpus apontando para a desproporcionalidade da imposição da cautela mais extremada à conduta realizada.
+Em liminar e no mérito, requer a liberdade combinada às cautelas do art. 319 do CPP.
+A liminar foi indeferida em decisão de fls. 149-151.
+O parecer do Ministério Público Federal foi de não conhecimento do writ.
+Decido.
+A decisão que decretou a prisão preventiva do acusado assim diz (fl. 136):
+No caso em apreço, a prova da materialidade e os indícios suficientes de autoria do crime de extorsão qualificada, porte de arma de fogo, usurpação de função pública e violação de domicilio (artigos 150, 158, 328 do Código Penal e 14 da Lei.10.826/03) encontram-se evidenciados pelos elementos de convicção constantes das cópias do Auto de Prisão em Flagrante, com destaque para as declarações colhidas, o auto de apreensão e o auto de reconhecimento. Consta no expediente policial que os indicados foram presos pela suposta pratica do delito de extorsão. Os indiciados fingindo serem policiais civis - portando distintivo e arma de fogo - foram até a casa da vítima fazer uma cobrança. Assim, no caso em tela, os elementos até então coligidos apontam a materialidade e indícios de autoria do cometimento do crime de extorsão, cuja pena privativa de liberdade máxima ultrapassa o patamar de 4 (quatro) anos. Assentado o fumus comissi delicti, debruço-me sobre o eventual periculum in libertatis. Com efeito, a conduta delitiva do autuado é de acentuada gravidade e periculosidade, o que acresce reprovabilidade à conduta delitiva do autuado e denota o perigo gerado pelo seu estado de liberdade. Necessária, portanto, a decretação da prisão preventiva como forma de acautelar o meio social e socorrer à ordem pública.
+Tal como destaca o Tribunal estadual, casos como o presente, caracterizados pelo emprego de violência/grave ameaça, são "absolutamente incompatíveis com a liberdade" (fl. 37), não havendo que se falar em desproporcionalidade da medida cautelar mais extremada.
+Não por outra razão, do parecer do Ministério Público Federal extrai-se o seguinte trecho (fl. 190):
+vemos que a segregação cautelar do paciente restou devidamente justificada diante da gravidade concreta do crime, considerado, principalmente, o modus operandi eis que, ".. agindo em concurso, portando distintivos da Polícia Civil e com porte ilegal da arma de fogo calibre 380, marca Taurus, número KDP28103, municiada, se dirigiram à residência de Vitor a bordo do veículo Fiat/Palio, cor prata, placas EZO9972, a fim de extorquir as vítimas." (denúncia - fls. 41/42 e-STJ), a evidenciar a sua elevada periculosidade.
+Finalmente, parece oportuno esclarecer que é pacífico o entendimento desta Corte de que o modus operandi da conduta, com o emprego de violência contra a vítima, é apto a justificar a segregação cautelar. Nesse sentido:
+ ..  Segundo reiterada jurisprudência desta Corte, a periculosidade do agente, evidenciada no modus operandi do delito, é fundamento idôneo para justificar a prisão preventiva, tendo como escopo o resguardo da ordem pública. (AgRg no RHC 131.158/PR, Rel. Ministro Ribeiro Dantas, 5.ª T., DJe 23/11/2020, grifei)
+Assim, o argumento repisado tanto pelo Juízo singular quanto pela Corte de origem, quanto, ainda, pelo Ministério Público Federal, no sentido de ser necessário assegurar a ordem pública é adequado às circunstâncias que singularizam o caso concreto.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
