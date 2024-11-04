@@ -1,0 +1,22 @@
+DECISÃO
+LEONARDO DE SOUZA RODRIGUES interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0011262-25.2019.8.26.0278.
+Nas razões recursais, a defesa aponta a violação do art. 112, I, do Código Penal, por entender que o marco inicial para a contagem do prazo para a prescrição da pretensão executória, na hipótese dos autos, é o trânsito em julgado da condenação para acusação.
+Requer o provimento do recurso, seja restabelecida a sentença que declarou a extinção da punibilidade do réu.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu não provimento (fls. 175-180).
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Extrai-se dos autos que o recorrente foi condenado à pena de 1 ano e 8 meses de reclusão, pela prática do delito de tráfico de drogas, em sentença proferida em 30/11/2015.
+O Plenário do Supremo Tribunal Federal decidiu que o prazo de prescrição para o Estado executar a pena começa a ser contado a partir da condenação definitiva (trânsito em julgado) para a acusação e a defesa. O entendimento foi adotado na sessão virtual encerrada em 30/6, por maioria de votos, no julgamento do Agravo em Recurso Extraordinário ARE n. 848.107, e possui repercussão geral (Tema 788).
+A tese jurídica fixada foi a seguinte: "O prazo para a prescrição da execução da pena concretamente aplicada somente começa a correr do dia em que a sentença condenatória transita em julgado para ambas as partes, momento em que nasce para o Estado a pretensão executória da pena, conforme interpretação dada pelo Supremo Tribunal Federal ao princípio da presunção de inocência (art. 5º, inciso LVII, da Constituição Federal) nas ADC 43, 44 e 54".
+Houve modulação dos efeitos do julgamento e o Supremo Tribunal Federal determinou:
+a) aos casos com a prescrição da pretensão executória reconhecida (independentemente do juízo, da data da prolação da decisão e da suspensão dos prazos pelo reconhecimento do tema de repercussão geral), a não aplicação do tema;
+b) aos casos em que a questão objeto do tema ainda não havia sido decidida ou analisada:
+i) com trânsito em julgado para a acusação ocorrido até 11/11/2020 (inclusive) a não aplicação do tema;
+ii) com trânsito em julgado para a acusação ocorrido após 11/11/2020 (a partir de 12.11.2020, inclusive) - a aplicação do tema
+Ficou definido, expressamente, que, para todos os casos em que o trânsito em julgado para a acusação tenha se dado ANTES de 11/11/2020 - incluídos aí os lapsos em que houve oscilação jurisprudencial acerca da correta aplicação da literalidade do dispositivo (ou seja: do julgamento do HC 84.078, em 5.2.2009 ao julgamento do HC 126.292, ocorrido em 17.5.2016 e deste até o julgamento das ADC"s 43, 44 e 54, em 11.11.2020) - aplica-se a literalidade do artigo 112, I, do CP, fluindo o prazo prescricional a partir deste termo: trânsito em julgado para a acusação.
+Assim, na hipótese dos autos, em que o trânsito em julgado para a acusação ocorreu em 11/10/2018 (fl. 37), ou seja, em data anterior a 12/11/2020, não se aplica a tese firmada na análise do tema, de modo que, em tais situações, permanece a incidência da literalidade do art. 112, I, do Código Penal.
+Havendo a condenação sido de 1 ano e 8 meses de reclusão, a prescrição executória ocorreria em 4 anos, em observância ao art. 109, V, do CP. Contudo, considerando que o apenado era menor de 21 anos ao tempo do crime, o lapso é reduzido pela metade (art. 115 do CP); resultando em um prazo prescricional de 2 anos.
+Sob tal perspectiva, o prazo prescricional de 2 anos, teve início em 11/10/2018, e, portanto, aperfeiçoou-se em 11/10/2020, oportunidade em que o sentenciado ainda não havia dado início a execução da reprimenda a ele imposta.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial, a fim de restabelecer a decisão proferira pelo Juízo de primeiro grau, que declarou a extinção da punibilidade do recorrente em relação nos autos n. 0001488-10.2015.8.26.0278, pela prescrição da pretensão executória.
+Publique-se e intimem-se.
+EMENTA
