@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CINTYA MAIARA DE SOUZA e OUTROS contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 282 e 356 do STF.
+Alegam os agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Norte em apelação nos autos de ação revisional com pedido de repetição de indébito.
+O julgado foi assim ementado (fls. 1.104-1.105):
+PROCESSO CIVIL. AÇÃO REVISIONAL COM PEDIDO DE REPETIÇÃO DE INDÉBITO E TUTELA ANTECIPADA INAUDITA ALTERA PARS. PLEITO DE REDUÇÃO DAS MENSALIDADES. INSTITUIÇÃO PRIVADA DE ENSINO SUPERIOR. AULAS MINISTRADAS ONLINE EM RAZÃO DA PANDEMIA CAUSADA PELA COVID-19. SENTENÇA DE IMPROCEDÊNCIA. APELAÇÃO CÍVEL. PLEITO DE CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. COMPROVAÇÃO HIPOSSUFICIÊNCIA. ELEMENTOS NOS AUTOS QUE CORROBORAM A PRESUNÇÃO RELATIVA DA AUSÊNCIA DE CAPACIDADE FINANCEIRA DA PARTE AUTORA/APELANTE. PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA EM FACE DO JULGAMENTO ANTECIPADO DA LIDE, SUSCITADA PELA PARTE APELANTE. REJEIÇÃO. MÉRITO. APLICAÇÃO DA TEORIA DA IMPREVISÃO. IMPOSSIBILIDADE DE REDUÇÃO DA MENSALIDADE. INSTITUIÇÃO DE ENSINO QUE CONTINUOU FORNECENDO AS AULAS ONLINE. CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+1. O art. 355, I, do CPC, autoriza o abreviamento da instrução processual quando o julgador dispõe de elementos para decidir a questão apresentada, sendo assegurado ao magistrado encerrar a instrução processual mediante o seu livre convencimento motivado mormente quando as partes, após avisadas da iminência do encerramento da instrução processual, não mostraram interesse na produção de outras provas.
+2. In casu, além da suspensão das aulas presenciais ter sido amparada por vários decretos públicos, por se tratar de um evento extraordinário, constata-se que os discentes não demonstraram o prejuízo pedagógico e a vulnerabilidade econômica, a justificar o agraciamento de redução das mensalidades sob a justificativa de que a instituição de ensino obteve vantagens excessivas a partir do novo modelo de prestação de serviços não presencial.
+3. A Teoria da Imprevisão é a possibilidade de intervenção do Poder Judiciário nos contratos firmados sob a autonomia da vontade quando há alguma situação externa ao contrato que coloque as partes em situação de desequilíbrio e venha a prejudicar excessivamente algum dos contratantes.
+4. A suspensão ou redução das mensalidades da forma pleiteada pode findar gerando um "efeito cascata" quanto ao adimplemento das obrigações contratuais da instituição de ensino e seus fornecedores, até mesmo causando solução de continuidade, o que certamente traria prejuízo muito maior ao próprio apelante e aos demais alunos.
+5. Precedentes do TJRN (AC nº 0813490-37.2020.8.20.5106, Rel.ª Juíza Convocada Martha Danyelle Barbosa, Gab. Desembargador Amílcar Maia, Terceira Câmara Cível, j. 23/03/2023; AC nº 0820759-20.2021.8.20.5001, Rel.ª Juíza Convocada Martha Danyelle Barbosa, Gab. Desembargador Amílcar Maia, Terceira Câmara Cível, j. 23/03/2023).
+6. Apelo conhecido e desprovido
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, os ora agravantes apontam violação dos arts. 9º e 10 do Código de Processo Civil, 6º, V, 20 e 51, IV, do Código de Defesa do Consumidor e 476, 478 e 884 do Código Civil.
+Para tanto, aduzem o seguinte (fl. 1.091):
+Em acórdão, por sua vez, foi mantida a denegação do pleito de produção de provas por terem sido consideradas inúteis, assim, configurada a ofensa aos arts. 9º e 10º do CPC.
+Em consequência do indeferimento da produção de provas apta a atestar a configuração da onerosidade excessiva e do desequilíbrio dos contratos educacionais, negou-se vigência ao art. 6º, V, do CDC, o qual garante a modificação de cláusulas contratuais que estabeleçam prestações desproporcionais ou sua revisão em razão de fatos supervenientes que as tornem excessivamente onerosas. No mesmo sentido, feriu-se o art. 51, IV do e o art. 20 do CDC.
+Alegam ainda o seguinte (fl. 1.091):
+Além disso, contrariou-se o art. 476 do CC, o qual estabelece que, nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento do outro. In casu, o acórdão proferido garantiu que, mesmo diante da inexistência de qualquer prova acerca da reposição da carga horária suprimida no período pandêmico, a IES procedesse com a cobrança integral das mensalidades. De igual forma, negou-se vigência ao art. 478 do Código Civil.
+Por fim, afirmam o seguinte (fls. 1.099-1.100):
+De igual forma, contraria-se o art. 476 do CC, o qual estabelece que, nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento do outro. In casu, o acórdão proferido garantiu que a IES, a despeito de não ter comprovado o fornecimento integral da carga horária prática do curso de medicina, procedesse com a cobrança integral da mensalidade.
+Ainda, feriu-se o disposto no art. 884 do CC, uma vez que foi permitido que a IES enriquecesse às custas dos discentes, diante da possibilidade de cobrança integral da mensalidade acadêmica sem a comprovação da prestação integral do serviço.
+Requerem o provimento do recurso.
+É o relatório. Decido.
+O recurso não merece prosperar.
+As questões infraconstitucionais relativas à violação dos artigos acima mencionados, sob a ótica levantada pelos recorrentes, não foram objeto de debate no acórdão recorrido, nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito dos temas.
+Ausente, pois, o indispensável prequestionamento, impõe-se a aplicação das Súmulas n. 282 e 356 do STF.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
