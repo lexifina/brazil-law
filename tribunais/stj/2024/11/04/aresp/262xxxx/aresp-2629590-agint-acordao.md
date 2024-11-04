@@ -1,0 +1,105 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/10/2024 a 04/11/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. AGRAVO INTERNO NÃO CONHECIDO.
+1. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (CPC/2015, art. 1.021, § 1º).
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MA3 AMBIENTAL LTDA contra decisão monocrática de fls. 775-780, que conheceu do agravo para negar provimento ao recurso especial, em razão da aplicação da Súmula 83/STJ.
+A parte agravante, em suas razões recursais (e-STJ, fls. 784-793), sustenta, em síntese, que não incide o óbice da Súmula 83/STJ, pois, em razão do princípio da unicidade recursal, o único recurso cabível era a apelação.
+Devidamente intimada, a parte agravada apresentou impugnação às fls. 797-801.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. AGRAVO INTERNO NÃO CONHECIDO.
+1. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (CPC/2015, art. 1.021, § 1º).
+2. Agravo interno não conhecido.
+VOTO
+No caso, a decisão monocrática ora agravada aplicou o óbice da Súmula 83/STJ, uma vez que o acórdão do Tribunal de origem não conheceu da apelação, porquanto o recurso cabível contra a decisão que inadmite a intervenção de terceiros é o agravo de instrumento, nos termos do art. 1.015, IX, do CPC/2015, in verbis (e-STJ, fls. 647-648):
+"No caso em estudo, ao analisar os pressupostos de admissibilidade recursal, atesto que o recurso de apelação em questão não atende o requisito objetivo alusivo ao cabimento no que toca a adequação:
+ ..
+Desse modo entendo, porque no caso em estudo a parte ora apelante interveio no processo, somente após a prolação da sentença, por meio do manejo de embargo de declaração opostos em face de tal pronunciamento, postulando a admissão de sua intervenção, bem como a superação dos vícios apontados na sentença por meio dos embargos precitados.
+O Magistrado "a quo", ao se pronunciar sobre tal petição, não admitiu a intervenção pretendida, deixando de conhecer do recurso por prejudicialidade.
+Diante de tal situação, fora pela parte em comento manejado embargos de declaração, aos quais fora negado provimento, defluindo na interposição da apelação ora analisada.
+Do acima exposto, abstrai-se, sem qualquer dificuldade, que a parte ora apelante não teve seu ingresso na relação processual admitido, pelo que deveria ter se insurgido a tempo e modo em face de tal pronunciamento judicial, ou seja, quanto seu pedido de intervenção foi negado deveria ter manejo recurso de agravo de instrumento com o fito de reverter tal manifestação, pois a rejeição desta postulação deve ser vergastada por este tipo de recurso, art. 1.015, IX, do CPC:
+Art. 1.015. Cabe agravo de instrumento contra as decisões interlocutórias que versarem sobre:
+(..)
+IX -admissão ou inadmissão de intervenção de terceiros;
+(..)
+Todavia, ao reverso, a parte ora apelante manejou recurso de apelação.
+Friso que sob nenhum prisma lhe assiste tal direito, pois, já tendo se pronunciado nos autos, postulando sua intervenção, qual fora negada, deveria ter, diante do indeferimento de seu pedido, insurgido-se, requerendo em sede recursal, pelo meio adequado, sua reforma, mas deste modo não agiu." (Sem grifo no original).
+Com base no excerto acima, constata-se que o Tribunal local foi claro ao afirmar que: "abstrai-se, sem qualquer dificuldade, que a parte ora apelante não teve seu ingresso na relação processual admitido, pelo que deveria ter se insurgido a tempo e modo em face de tal pronunciamento judicial, ou seja, quanto seu pedido de intervenção foi negado deveria ter manejo recurso de agravo de instrumento".
+Com efeito, o entendimento jurisprudencial desta Corte Superior é de que a decisão que versa sobre a admissão ou a inadmissão da intervenção de terceiros enseja a interposição de agravo de instrumento, com base na inteligência do art. 1.015, IX, do CPC/2015. Corroboram esse entendimento:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. LEGITIMIDADE DE PARTE. RESPONSABILIDADE CIVIL CONFIGURADA. CONSTRUÇÃO DE MEDIDAS DE DRENAGEM E CONTENÇÃO DE TERRA. RISCO DE DESLIZAMENTO. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. DECISÃO QUE INADMITE DENUNCIAÇÃO À LIDE. AGRAVO DE INSTRUMENTO. ART. 1.015, IX, DO CÓDIGO DE PROCESSO CIVIL DE 2015. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022, II, do Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A decisão que versa sobre a admissão ou a inadmissão da intervenção de terceiros é impugnável por agravo de instrumento, nos termos do art. 1.015, IX, do Código de Processo Civil de 2015.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.320.098/SC, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 20/11/2023, DJe de 24/11/2023 - sem grifo no original).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE DESAPROPRIAÇÃO. PEDIDO DE INGRESSO COMO ASSISTENTE. DECISÃO INTERLOCUTÓRIA SOBRE INTERVENÇÃO DE TERCEIROS. AGRAVO DE INSTRUMENTO. ART. 1.015 do CPC.
+1. A Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento de Recurso Especial repetitivo, ao analisar a controvérsia referente à interpretação extensiva do rol previsto no art. 1.015 do CPC/2015 para a interposição de Agravo de Instrumento (Tema 988/STJ), firmou a SEGUINTE tese: "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação."
+2. O STJ, em caso análogo, em que a parte pleiteava a inclusão em Ação de Desapropriação como assistente litisconsorcial, já entendeu que o decisum que versa sobre a admissão ou a inadmissão da intervenção de terceiros enseja a interposição de Agravo de Instrumento. Precedente: RMS 65.943/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 16.11.2021.
+3. Agravo Interno provido, para dar provimento ao Recurso Especial, determinando que o Tribunal de Justiça do Estado de Minas Gerais conheça e julgue o Agravo de Instrumento."
+(AgInt no REsp n. 1.950.084/MG, relator Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 9/5/2022, DJe de 23/6/2022 - sem grifo no original).
+"PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. DECISÃO INTERLOCUTÓRIA SOBRE INTERVENÇÃO DE TERCEIROS E SOBRE INSTRUÇÃO PROBATÓRIA. RECORRIBILIDADE POR AGRAVO DE INSTRUMENTO E POR APELAÇÃO, RESPECTIVAMENTE. IMPOSSIBILIDADE DE IMPUGNAÇÃO PELA VIA MANDAMENTAL. INTERPRETAÇÃO DE PRECEDENTE. RESP 1.704.520/MT.
+1. Para além das hipóteses de cabimento previstas no art. 1.015 do CPC/2015 admite-se a interposição do agravo de instrumento, fundada na tese da "taxatividade mitigada", quanto presente situação de urgência que decorra da inutilidade futura do julgamento do recurso diferido de apelação. Inteligência do REsp 1.704.520/MT.
+2. As decisões sobre a instrução probatória, e, portanto, sobre o exercício do direito à ampla defesa, estão em tese imunes ao sistema de preclusão processual, e tampouco se inserem nas hipóteses do art. 1.015 do CPC/2015, daí por que cabível a sua impugnação diferida pela via da apelação, não se aviando a ação mandamental tanto por isso quanto porque a sua impetração implicaria indireta ofensa a essa sistemática de impugnação.
+3. A decisão que versa sobre a admissão ou a inadmissão da intervenção de terceiros enseja a interposição de agravo de instrumento. Inteligência do art. 1.015, inciso IX, do CPC/2015.
+4. Recurso ordinário em mandado de segurança não provido."
+(RMS n. 65.943/SP, relator Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 26/10/2021, DJe de 16/11/2021 - sem grifo no original).
+Contudo, analisando as razões do agravo, verifica-se que a parte agravante não procedeu à adequada impugnação da Súmula 83/STJ.
+Isso, porque, conforme o entendimento desta Corte Superior, a impugnação da Súmula 83/STJ exige a indicação de precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido ou que o caso dos autos seria distinto daqueles veiculados nos precedentes por meio do distinguishing, o que não ocorreu no presente caso. Corroboram esse entendimento:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA CONCEDIDA À PESSOA FÍSICA. EFEITOS EX NUNC. PRECEDENTES. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. De fato, o entendimento desta Corte é no sentido de que "o deferimento do pedido de gratuidade da justiça produz efeitos ex nunc, operando efeitos somente para o futuro, não retroagindo para abarcar atos processuais pretéritos" (AgInt nos EDcl no REsp n. 1.941.078/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+2. Nos termos da jurisprudência desta Corte Superior, para afastar a incidência da Súmula n. 83/STJ, é dever da parte insurgente demonstrar inaplicabilidade dos precedentes invocados na decisão agravada, ou colacionar julgados contemporâneos ou supervenientes ao indicado na decisão.
+3. Agravo interno improvido."
+(AgInt no AREsp n. 2.516.806/DF, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024 - sem grifo no original).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PLANO DE SAÚDE. NEGATIVA DE FORNECIMENTO DE SERVIÇO EM SITUAÇÃO DE EMERGÊNCIA. RESPONSABILIDADE CIVIL. SÚMULA N. 83/STJ. REDUÇÃO DA INDENIZAÇÃO. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A previsão contratual de prazo de carência para utilização dos serviços prestados pelo plano de saúde não é considerada abusiva, desde que não obste a cobertura do segurado em casos de emergência ou urgência, como ocorreu no caso. Assim, havendo recusa indevida de cobertura de tratamento, a condenação ao pagamento de danos morais é medida que se impõe, pois agrava a situação física e psicológica do beneficiário. Súmula 83/STJ.
+2. Nos termos da jurisprudência desta Corte Superior, para afastar a incidência da Súmula n. 83/STJ, é dever da parte insurgente demonstrar inaplicabilidade do precedente invocado na decisão agravada, ou colacionar julgados contemporâneos ou supervenientes ao indicado na decisão.
+3. O Superior Tribunal de Justiça firmou seu entendimento jurisprudencial no sentido de que o valor arbitrado pelas instâncias ordinárias a título de danos morais pode ser revisado, na estreita via do recurso especial, quando o montante for irrisório ou exorbitante.
+4. Revisar o valor fixado na origem a título de danos morais demanda o revolvimento do acervo fático-probatório, providência inviável na esfera especial. Súmula n. 7/STJ.
+5. Agravo interno desprovido."
+(AgInt no AREsp n. 2.506.717/MA, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024 - sem grifo no original).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO DO COMPRADOR ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. PERCENTUAL CONTRATUAL DE RETENÇÃO. HONORÁRIOS. DISTRIBUIÇÃO DE SUCUMBÊNCIA. REEXAME DE PROVAS. SÚMULA 7 DO STJ. INCIDÊNCIA.
+1. "Para impugnar a incidência da Súmula 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ, o que não ocorreu" (AgRg nos EAREsp n. 263.820/DF, Terceira Seção, Rel. Min. Nefi Cordeiro, DJe de 30/10/2018).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.326.551/GO, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 18/12/2023, DJe de 21/12/2023 - sem grifo no original).
+Desse modo, percebe-se que o inconformismo sob análise não observa a regra expressa prevista no art. 1.021, § 1º, do novo Código de Processo Civil, que estabelece:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Consoante a jurisprudência desta Corte, "inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida" e fica "caracterizada a inobservância do disposto no art. 1.021, § 1º, do CPC e a incidência da Súmula 182/STJ" (AgInt no REsp 1.553.715/SP, Relator o Ministro LUIS FELIPE SALOMÃO, DJe de 19/12/2015). Nesse sentido, citam-se os seguintes precedentes:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO EM SEDE DE EMBARGOS DE DIVERGÊNCIA. IMPOSSIBILIDADE. PRECEDENTES.
+1. O recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ:
+"Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+2. Caso no qual a decisão agravada indeferiu liminarmente os embargos de divergência em virtude da não realização do cotejo analítico entre os arestos confrontados, a fim de comprovar a similitude fática e jurídica. Contudo, nas razões do agravo interno, o recorrente não impugnou, de forma específica, o fundamento da decisão agravada.
+3. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. É inviável a concessão de habeas corpus de ofício em sede de embargos de divergência. Precedentes: AgRg nos EREsp 1.697.156/PR, Rel. Min. Mauro Campbell Marques, Corte Especial, DJe 17/4/2020;
+5. Agravo interno conhecido em parte e não provido."
+(AgRg nos EDcl nos EAREsp n. 2.270.918/SP, relator Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 12/12/2023, DJe de 15/12/2023 - sem grifo no original).
+"AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. MATÉRIA IMPUGNADA. EX-PREFEITO. CONDENAÇÃO POR IMPROBIDADE ADMINISTRATIVA SEM AFERIÇÃO DO DOLO. REPERCUSSÃO GERAL DO TEMA 1.199. PRECEDENTE VINCULANTE, APLICÁVEL AOS PROCESSOS SEM TRÂNSITO EM JULGADO. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS, COM DETERMINAÇÃO DE REMESSA DOS AUTOS À ORIGEM PARA REANÁLISE DO ASPECTO VOLITIVO DA CONDUTA. PRECEDENTES.
+1. Não há como abrigar agravo interno que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo interno improvido."
+(AgInt nos EAREsp n. 1.811.664/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, CORTE ESPECIAL, julgado em 12/12/2023, DJe de 15/12/2023 - sem grifo no original).
+"PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS AUTÔNOMOS. LOTEAMENTO FECHADO. TAXA DE MANUTENÇÃO. REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. RE 695.911/SP (TEMA 492/STF). AUSÊNCIA DE LEI MUNICIPAL ANTERIOR. VIOLAÇÃO NÃO DEMONSTRADA. SÚMULA Nº284/STF.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Nos termos da jurisprudência desta Corte Especial, é "dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial (AgInt no AREsp 895.746/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9.8.2016, DJe 19.8.2016)" (EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 17/11/2021).
+3. No julgamento do RE n. 695.911/SP, o Supremo Tribunal Federal, reconhecendo a repercussão geral da matéria (Tema 492/STF), firmou a tese de ser "inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis"..
+4. No caso em debate, é incontroversa a ausência de lei municipal autorizando a cotização de proprietário não associado, de modo que, ante a deficiência na motivação, aplica-se, por analogia, o óbice da Súmula nº 284 do STF.
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 1.995.043/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/12/2023, DJe de 7/12/2023 - sem grifo no original).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL. FUNDAMENTO INATACADO. SÚMULA N. 182/STJ. TERATOLOGIA OU FLAGRANTE ILEGALIDADE. AUSÊNCIA. DECISÃO RECORRÍVEL. SUCEDÂNEO RECURSAL. DESCABIMENTO DA IMPETRAÇÃO. DECISÃO MANTIDA.
+1. A jurisprudência do STJ orienta no sentido de que o cabimento de mandado de segurança contra ato judicial exige seja desde logo evidenciada sua flagrante ilegalidade ou teratologia, circunstâncias não identificadas no caso presente.
+1.1. Na espécie, a autoridade coatora limitou-se a determinar, como mero corolário e para conferir efetividade à decisão que antecipou os efeitos da tutela jurisdicional, a restituição de valores levantados pelos impetrantes, sem o que se tornaria ineficaz o provimento acautelatório deferido ao autor da ação desconstitutiva.
+1.2. Não há falar em supressão de instância, pois é certo que a decisão antecipatória foi proferida no âmbito de ação originária em trâmite por esta Corte Superior. Tampouco se qualifica a cogitada violação do direito adquirido e de ato jurídico perfeito, haja vista que o título objeto do cumprimento de sentença encontra-se sub judice, sendo reconhecida, pela autoridade judiciária competente, a plausibilidade do direito alegado e o risco de dano irreparável, razão pela qual deferida, nos termos da lei, a antecipação de tutela reivindicada pela parte autora da ação rescisória.
+1.3. Longe, dessarte, de configurar hipótese na qual se faz possível desde logo identificar a cogitada ilegalidade ou teratologia.
+2. À luz do disposto no art. 1.021, § 1º, do CPC/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão recorrida.
+2.1. A decisão agravada afirmou que a autoridade coatora proferiu a decisão impugnada pelo mandado de segurança com fundamento no poder geral de cautela (CPC/2015, art. 301, parte final), motivação inatacada no recurso interno, atraindo a aplicação do óbice previsto na Súmula n. 182/STJ.
+3. Não se admite a impetração de segurança como sucedâneo recursal.
+3.1. É indubitável o cabimento de recurso contra a decisão judicial objeto deste writ, o que evidencia que a impetração tem por finalidade substituir a medida processual adequada, desfigurando o cabimento do remédio constitucional, o que não se admite.
+4. Agravo interno a que se nega provimento."
+(AgInt no MS n. 29.694/DF, relator Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, julgado em 29/11/2023, DJe de 4/12/2023 - sem grifo no original).
+Ante o exposto, não conheço do agravo interno.
+É como voto.
