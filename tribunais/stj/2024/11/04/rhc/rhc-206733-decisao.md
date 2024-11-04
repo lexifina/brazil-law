@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto em favor de DOUGLAS GUEDES DE ARAUJO contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.24.417997-4/000).
+Consta dos autos que o recorrente foi preso preventivamente pela suposta prática do crime previsto no art. 157, §2º, II e §2º-A, I, e art. 288, ambos do Código Penal.
+No writ originário, a defesa requereu a revogação da prisão preventiva, diante da ausência de fundamentos para sua decretação. O Tribunal de origem denegou a ordem. Eis a ementa (e-STJ fl. 339):
+EMENTA: HABEAS CORPUS - ROUBO MAJORADO - ASSOCIAÇÃO CRIMINOSA - NEGATIVA DE AUTORIA - VIA IMPRÓPRIA - PRISÃO PREVENTIVA - DECISÃO FUNDAMENTADA - CIRCUNSTÂNCIAS DO DELITO - REITERAÇÃO DELITIVA - GARANTIA DA ORDEM PÚBLICA. O "habeas corpus" não constitui via adequada para apurar alegações que necessitem de dilação probatória. A decretação da prisão preventiva se sustenta diante da comprovação da materialidade e dos indícios suficientes da autoria do crime, associados ao motivo legal da garantia da ordem pública, especificamente no que se refere à reiteração delitiva e às circunstâncias que envolvem a suposta prática delitiva. Eventuais condições pessoais, ainda que favoráveis, não têm o condão de, por si sós, garantirem a revogação da prisão preventiva, mormente diante de elementos concretos e legítimos que demonstram a essencialidade da manutenção da custódia antecipada.
+Na presente oportunidade, a defesa alega, em síntese, a inidoneidade da fundamentação utilizada pelo Magistrado de primeira instância em sua decisão, asseverando não haver motivos legais para a prisão (art. 312 do CPP).
+Afirma não existir "qualquer indício de que ele tenha colaborado de forma ativa ou passiva para a realização do crime, seja por meio de apoio logístico ou qualquer outra modalidade de participação" (e-STJ fl. 359).
+Argumenta, por fim, que "embora o paciente possua condenação anterior, conforme mencionado, essa condenação ainda não transitou em julgado, o que o mantém na condição de réu primário, não podendo falar em reiteração criminosa sem ferir o princípio da presunção de inocência" (e-STJ fl. 357).
+Assim, pede, em liminar e no mérito, a revogação da prisão preventiva.
+É o relatório, decido.
+O presente recurso é mera reiteração do RHC n. 205.674/MG - apresenta as mesmas partes, causa de pedir e pedido, o qual em decisão monocrática, por mim proferida na data de 10/10/2024, foi negado provimento.
+Com efeito, " r evela-se manifestamente incabível o habeas corpus que veicula pedido idêntico ao formulado em pleito anterior, que tramita nesta Corte." (AgRg no HC 253.038/SP, Relatora Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), Sexta Turma , julgado em 11/04/2013, DJe 23/04/2013).
+Em outras palavras, "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/09/2019, DJe 18/09/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, nego seguimento ao Recurso em habeas corpus.
+Intimem-se.
+EMENTA
