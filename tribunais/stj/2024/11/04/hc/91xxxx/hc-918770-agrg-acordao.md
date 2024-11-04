@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CONSUMADO. DESCLASSIFICAÇÃO PARA FORMA TENTADA. INVERSÃ O DA POSSE DA RES FURTIVAE CARACTERIZADA. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, sustentando que o réu não consumou o roubo, pois foi surpreendido pela polícia antes de finalizar a subtração dos bens da vítima. O réu já havia se apossado de dois dos três bens visados.
+II. Questão em discussão
+2. A questão em discussão consiste em determinar se o crime de roubo foi consumado ou se deve ser reconhecida a forma tentada, considerando a posse de dois dos três bens visados.
+III. Razões de decidir
+3. O Tribunal de origem aplicou a teoria da amotio, segundo a qual o crime de roubo se consuma com a inversão da posse do bem, ainda que não de forma mansa e pacífica.
+4. A jurisprudência do STJ e do STF é pacífica no sentido de que a consumação do roubo ocorre com a posse do bem, mesmo que por breve tempo e sem que saia da esfera de vigilância da vítima.
+5. A defesa não sustentou a tese de tentativa em razões de apelação, e o acórdão afirmou que o réu já estava na posse de dois bens.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: 1. O crime de roubo se consuma com a inversão da posse do bem, independentemente de posse mansa e pacífica.
+Dispositivos relevantes citados: CR/1988, art. 93, IX; CPC, art. 489, § 1º.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 1.990.868/TO, Min. Olindo Menezes, Sexta Turma, julgado em 05.04.2022; STJ, AgRg no HC 625.519/SC, Min. João Otávio de Noronha, Quinta Turma, julgado em 07.12.2021.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de e-STJ fls. 121-125, que não conheceu do habeas corpus.
+Em suas razões, a parte agravante reitera que "o réu não logrou êxito na subtração dos bens visados da vítima, não consumando a empreitada criminosa, por ter sido surpreendido pela polícia que impediu que ele finalizasse o recolhimento dos bens da vítima. Contudo, considerando que ele já havia iniciado a execução e se apossado de dois bens da vítima, a redução na fração intermediária é a mais adequada." (e-STJ, fl. 141).
+Pretende a reconsideração da decisão ou a submissão a julgamento pelo colegiado, a fim de que seja concedida a ordem, para que seja reconhecida a forma tentada do de lito.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CONSUMADO. DESCLASSIFICAÇÃO PARA FORMA TENTADA. INVERSÃ O DA POSSE DA RES FURTIVAE CARACTERIZADA. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, sustentando que o réu não consumou o roubo, pois foi surpreendido pela polícia antes de finalizar a subtração dos bens da vítima. O réu já havia se apossado de dois dos três bens visados.
+II. Questão em discussão
+2. A questão em discussão consiste em determinar se o crime de roubo foi consumado ou se deve ser reconhecida a forma tentada, considerando a posse de dois dos três bens visados.
+III. Razões de decidir
+3. O Tribunal de origem aplicou a teoria da amotio, segundo a qual o crime de roubo se consuma com a inversão da posse do bem, ainda que não de forma mansa e pacífica.
+4. A jurisprudência do STJ e do STF é pacífica no sentido de que a consumação do roubo ocorre com a posse do bem, mesmo que por breve tempo e sem que saia da esfera de vigilância da vítima.
+5. A defesa não sustentou a tese de tentativa em razões de apelação, e o acórdão afirmou que o réu já estava na posse de dois bens.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: 1. O crime de roubo se consuma com a inversão da posse do bem, independentemente de posse mansa e pacífica.
+Dispositivos relevantes citados: CR/1988, art. 93, IX; CPC, art. 489, § 1º.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 1.990.868/TO, Min. Olindo Menezes, Sexta Turma, julgado em 05.04.2022; STJ, AgRg no HC 625.519/SC, Min. João Otávio de Noronha, Quinta Turma, julgado em 07.12.2021.
+VOTO
+Não obstante as razões do recurso, a decisão deve ser mantida por seus próprios fundamentos.
+Consoante já abordado na decisão agravada, o Tribunal de origem, em sede de embargos infringentes assim ponderou:
+"O voto vencido do eminente Revisor apresenta dois pontos divergentes, objetos destes embargos, em relação ao posicionamento da d. Maioria. O primeiro diz respeito à tentativa, reconhecida no voto vencido, sob a seguinte fundamentação:
+Com a devida vênia e concordando, no mais, com o e. Relator, ouso divergir no que toca à consumação do crime. Isso porque as provas extraídas dos autos demonstram que o réu abordou o ofendido em via pública, o ameaçou e passou a andar junto comele, se apossando de seu moletom e celular no trajeto, mas sendo detido por policiais militares antes que pudesse subtrair o relógio da vítima. Portanto, resta claro que a intenção do apelante era subtrair os três bens, não se podendo simplesmente dizer que o crime se consumou em relação aos dois primeiros, mas não em relação ao terceiro. Ora, entendimento diverso implicaria compreender que um roubo que visa a subtração de bens diversos pertencentes a um mesmo titular configura, na verdade, concurso de infrações, em vez de crime único, hipótese que, por certo, não se pode admitir. No mesmo sentido, implicaria compreender que o agente flagrado em meio à separação dos bens que pretendia subtrair em determinado local caso claro de crime tentado já consumara o delito em relação aos bens já separado. Dessa forma, uma vez que o acusado, in casu, não concluiu a inversão da posse em relação a todos os objetos da subtração, deve ser reconhecida a causa de diminuição em comento.
+Data venia, entendo que o embargante, ao ter se apoderado do moletom e do celular da vítima mediante emprego de grave ameaça a pessoa, logrou a inversão da posse destes objetos, sendo isto o que basta para a consumação do furto. Não bastasse isso, o embargante chegou até mesmo a retirar e dispensar o chip do celular da vítima durante o trajeto, em nítida demonstração de que houve completa inversão da posse destes bens, pouco importante se tinha ou não a intenção de subtrair outro objeto o celular da vítima, além desses. O reconhecimento da consumação do delito no caso dos autos é a única solução possível diante da teoria da amotio, que inspirou a criação da Súmulanº 582 do Superior Tribunal de Justiça, segundo à qual o crime de roubo se consuma com a inversão da posse do bem. Nesse contexto, a quantidade de bens efetivamente subtraídos (desde que insignificante) é irrelevante para que se realize o resultado típico, configurando-se o roubo em sua forma consumada. Ressalto, ainda, que a defesa técnica sequer sustentou a tese de tentativa em razões de apelação, não se podendo falar agora em falta de fundamentação do v. Acórdão, que ainda assim afirmou expressamente que "(..) os policiais presenciaram o momento do roubo, flagrando o acusado no momento em que ele retirava o relógio da vítima e já estava na posse de seu moletom e aparelho celular". Assim, não houve qualquer desobediência ao art. 93, IX, da ConstituiçãoFederal, ou mesmo ao art. 489, § 1º, do CPC. Por tais motivos, entendo que deve ser mantida a condenação peloroubo consumado, conforme decidido pela d. Maioria." (e-STJ, fls. 115-116)
+De fato, o Tribunal de origem, ao manter a condenação, julgou no mesmo sentido do entendimento desta Corte e pelo Supremo Tribunal Federal, que entendem que, em relação do ao momento consumativo do crime de roubo, é assente a adoção da teoria da amotio, segundo a qual o referido crime consuma-se no momento da inversão daposse, tornando-se o agente efetivo possuidor da coisa subtraída, ainda que não seja de forma mansa e pacífica, sendo prescindível que o objeto subtraído saia da esfera de vigilância da vítima. No caso dos autos, o paciente foi preso em flagrante quando já havia se apossado do celular e do moletom da vítima.
+Assim, ainda que a intenção fosse o roubo de três objetos, o paciente logrou a subtração de dois deles, estando consumado o roubo. A respeito, confira-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS INFIRMADOS. SÚMULA 182/STJ AFASTADA. CONHECIMENTO DO RECURSO. ROUBO. MOMENTO CONSUMATIVO. POSSE DESVIGIADA. POSSE MANSA E PACÍFICA. DESNECESSIDADE. R Esp 1.524.450/RJ. MAJORANTES DO CONCURSO DE AGENTE E DO EMPREGO DE ARMA. CÚMULO DE AUMENTOS. POSSIBILIDADE. NECESSIDADE DE FUNDAMENTAÇÃO. ILEGALIDADE CONSTATADA.
+1. Impugnada suficientemente a decisão de inadmissão do recurso especial,éde ser conhecido o recurso.
+2. A jurisprudência do STJ, ao julgar o R Esp n. 1.524.450/RJ, sob o rito dos recursos repetitivos, o qual também é empregado para o roubo, firmou posicionamento no sentido de que "Consuma-se o crime de furto com a posse de fato da res furtiva, ainda que por breve espaço de tempo e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica ou desvigiada".
+3. Conquanto legítima a aplicação cumulada das majorantes relativas ao concurso de pessoas e ao emprego de arma de fogo, no crime de roubo, somente é cabível quando devidamente motivada nas circunstâncias do caso concreto, não bastando o mero concurso de dois agentes e o emprego de arma de fogo sem maiores considerações.
+4. Agravo regimental provido. Parcial provimento ao recurso especial, a fim de reduzir as penas dos recorrentes para 6 anos, 2 meses e 20 dias der eclusão, e 15 dias- multa." (AgRg no AR Esp n. 1.990.868/TO, relator Ministro Olindo Menezes(Desembargador Convocado do TRF 1ª Região), SextaTurma, julgado em 5/4/2022, D Je de 7/4/2022.)
+"AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. CRIME DE FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CONSTATAÇÃO DE HABITUALIDADE CRIMINOSA. VALOR DOS BENS NÃO CONSIDERADO ÍNFIMO. REPROVABILIDADE DA CONDUTA. CRIME CONSUMADO. POSSE DA COISA ALHEIA MÓVEL POR POUCO TEMPO. DECISÃO MANTIDA.
+1. É inadmissível habeas corpus em substituição ao recurso próprio, tambémà revisão criminal, impondo-se o não conhecimento da impetração, salvo severificada flagrante ilegalidade no ato judicial impugnado apta a ensejar a concessão da ordem de ofício.
+2. A aplicação do princípio da insignificância, segundo a orientação do Supremo Tribunal Federal, demanda a verificação da lesividade mínima da conduta, apta a torná-la atípica, considerando-se: a) a mínima ofensividade da conduta do agente; b) a inexistência de periculosidade social na ação; c) o reduzido grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada. O Direito Penal não deve ocupar-se de condutas que, diante do desvalor do resultado produzido, não representem prejuízo relevante para o titular do bem jurídico tutelado ou para a integridade da própria ordem social.
+3. Inviável a aplicação do princípio da insignificância quando constatada a habitualidade criminosa do réu, pois fica evidenciada a reprovabilidadedo comportamento.
+4. Inaplicável o princípio da insignificância quando o valor dos bens furtados não é considerado ínfimo por superar o parâmetro de 10% do salário mínimo vigente à época dos fatos, critério utilizado pelo STJ para aferir a relevância da lesão patrimonial.
+5. "Em relação ao momento consumativo, no âmbito desta Corte e do SupremoTribunal Federal, prevalece o entendimento de que os crimes de roubo efurto se consumam no instante em que o agente se torna possuidor da coisa alheia móvel, ainda que por pouco tempo, sendo prescindível a posse mansa, pacífica, tranquila e desvigiada do bem" (AgRg no HC 642.916/RJ, relatorMinistro Felix Fischer, Quinta Turma, D Je de 31/5/2021)
+6. Mantém-se a decisão agravada cujos fundamentos estão em conformidadecom o entendimento do STJ sobre a matéria suscitada.
+7. Agravo regimental desprovido." (AgRg no HC n. 625.519/SC, relatorMinistro João Otávio de Noronha, QuintaTurma, julgado em 7/12/2021, D Je de14/12/2021.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
