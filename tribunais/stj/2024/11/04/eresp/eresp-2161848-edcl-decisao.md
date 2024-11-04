@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LEONARDO CAVALCANTI DE MORAES CAMACHO, JOSÉ LUIZ COUTO DE SOUZA e MARCELO SENGES CARNEIRO contra decisão, de minha lavra, em que conheci em parte do recurso especial e, nessa extensão, neguei-lhe provimento, com base nos seguintes fundamentos: (I) Súmula 7 do STJ e (II) ausência de negativa de prestação jurisdicional.
+Os embargantes sustentam a ocorrência de omissão no julgado. Defendem a violação dos arts. 128 e 135 do CTN e do art. 489, § 1º, IV, do CPC/2015, afirmando que "não se pretende discutir o crédito tributário em si, mas tão somente demonstrar a ausência de responsabilidade tributária dos embargantes para quitação daquele crédito, demonstrando, inclusive, que a aludida execução fiscal nem sequer pode a eles ser redirecionadas, em absoluta afronta à lei. (..) em momento algum se pretende que seja realizado o reexame de fatos e provas, mas, sim, que o v. acórdão proferido seja reexaminado diante da flagrante violação das leis federais e do entendimento jurisprudencial dominante dessa C. Corte" (e-STJ fl. 217).
+Segue afirmando que "o mero inadimplemento dos tributos não enseja o redirecionamento a seus administradores" (e-STJ fl. 219).
+Sem impugnação (e-STJ fl. 231).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+In casu, não ocorreu nenhum dos vícios supracitados.
+As omissões invocadas pelos embargantes manifestam seus inconformismos com o decisum embargado e repisam argumentos, desiderato inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. HIPÓTESES DO ART. 535 DO CPC. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para se corrigir eventuais erros materiais constantes do pronunciamento jurisdicional.
+2. No caso, está evidenciado o intuito do embargante em rediscutir a matéria já integralmente decidida pelo órgão judicial recorrido, o que não se admite nos estreitos limites do art. 535 do CPC.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EAREsp 540.453/RS, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª REGIÃO), Primeira Seção, julgado em 24/02/2016, DJe 04/03/2016).
+De toda sorte, cumpre chamar atenção para o fato de estar expresso e claro, na decisão combatida, que (e-STJ fl. 207):
+(..) se depreende do excerto proferido no julgamento do recurso integrativo que "o voto condutor analisou suficientemente a matéria recorrida, concluindo esta Eg. Turma que o feito foi redirecionado contra os agravantes, diretores da executada Tecnosolo Engenharia S.A., em razão da presumida dissolução irregular, pois, conforme a certidão emitida pela Sra. Oficiala de Justiça, em 17/02/2017, não foi localizado qualquer representante no domicílio fiscal da empresa executada e "o local se encontrava totalmente fechado, sem movimento, com lixos e folhas acumuladas em sua entrada e acessos, com aparência de inatividade", bem como sem informações sobre novo endereço. Ademais, no plano de recuperação judicial juntado pela executada, a sede da recuperanda é no endereço que foi objeto de diligência pela Sra. Oficiala de Justiça, qual seja, Rua Cônego Felipe, nº 219, Taquara, Rio de Janeiro/RJ" (e-STJ fl. 131).
+Destacou-se, ainda, que "o Tribunal de origem, soberano na apreciação das provas carreadas aos autos, reconheceu a legitimidade passiva, tendo em vista que "os agravantes exerciam a direção da sociedade executada ao tempo da presumida dissolução irregular, em 17/02/2017, sem qualquer evidência de que tenham deixado a empresa executada" (e-STJ fl. 82). Nesse passo, a modificação do julgado, quanto à alegada não ocorrência de dissolução irregular da empresa, nos moldes pretendidos dependeria do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ" (e-STJ fl. 209).
+Por fim, advirto os recorrentes de que a oposição de embargos de declaração manifestamente protelatórios pode ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Ante o exposto , REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
