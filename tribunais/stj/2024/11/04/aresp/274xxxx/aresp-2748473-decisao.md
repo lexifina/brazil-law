@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JORGE COGA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. AÇÃO REVISIONAL DE CONTRATO DE LOCAÇÃO. PRETENSÃO DEDUZIDA POR EMPRESA LOCATÁRIA VISANDO À SUBSTITUIÇÃO DO LGP-M COMO ÍNDICE DE CORREÇÃO MONETÁRIA. IMPROCEDÊNCIA EM PRIMEIRO GRAU. LNCONFORMISMO. REVISÃO CONTRATUAL E TEORIA DE IMPREVISÃO. A PANDEMIA DE COVID-19 REPRESENTA MOTIVO IMPREVISÍVEL CAPAZ DE ACARRETAR DESPROPORÇÃO DO VALOR DAS PRESTAÇÕES CONTRATADAS ANTES DO ADVENTO DA CRISE SANITÁRIA. ALTERAÇÃO DO EQUILÍBRIO CONTRATUAL INICIALMENTE PROJETADO. DEVER DE COOPERAÇÃO. ADVERSIDADES INERENTES À CRISE ECONÔMICA DECORRENTE DA PANDEMIA QUE RECLAMAM COLABORAÇÃO DE TODOS OS AGENTES ECONÔMICOS, MEDIANTE REPARTIÇÃO EQUÂNIME DOS PREJUÍZOS. CORREÇÃO MONETÁRIA. AUMENTO INESPERADO E DESPROPORCIONAL DO IGP-M QUE DEIXOU DE REPRESENTAR FATOR DE RECOMPOSIÇÃO MONETÁRIA E PASSOU A ACARRETAR ONEROSIDADE EXCESSIVA, IMPONDO VERDADEIRO PLUS OBRIGACIONAL AO DEVEDOR. AUMENTO QUE SUPEROU, EM MUITO, A EVOLUÇÃO DO PODER DE COMPRA DA MOEDA, OCASIONANDO VANTAGEM DESPROPORCIONAL À LOCADORA. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DEFINITIVA DO INCIDE CONTRATUAL, SOB PENA DE VIOLAÇÃO AO PRINCÍPIO DA FORÇA OBRIGATÓRIA DOS CONTRATOS, QUE PODE SER MITIGADO APENAS EM SITUAÇÕES EXCEPCIONAIS. SUBSTITUIÇÃO DO IGP-M PELO IPCA- IBGE EXCLUSIVAMENTE PARA CORREÇÃO DOS LOCATIVOS OCORRIDA EM MAIO DE 2021. SENTENÇA REFORMADA PARCIALMENTE. SUCUMBÊNCIA RECÍPROCA. RECURSO PARCIALMENTE PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 421 do CC, no que concerne ao afastamento da teoria da imprevisão com a aplicação dos princípios da intervenção mínima e da excepcionalidade da revisão contratual nas relações privadas, preservando-se a autonomia da vontade das partes, trazendo a seguinte argumentação:
+Neste viés, é evidente a necessidade da aplicação dos princípios da intervenção mínima e da excepcionalidade da revisão contratual nas relações privadas.
+Desta forma, em se tratando de obrigação de trato contínuo, que exige prévia alocação de recursos para seu custeio, cabe ao contratante precaver-se a fim de minimizar a interferência das variações do mercado sobre a obrigação assumida.
+ ..
+Logo, o impacto ocasionado pela quarentena decorrente da pandemia de Covid-19, e mesmo havendo danos causados a parte recorrida, essa situação não autoriza a alteração dos termos contratuais livremente pactuados, não sendo possível a intervenção judicial na relação mantida entre as partes.
+ ..
+Dessa maneira, é inviável o ativismo judicial do caso em tela, sendo que em nenhum momento a parte Recorrida fez prova do prejuízo em suas alegações.
+É negada a vigência ao princípio da autonomia da vontade das partes e se dá abertura ao ativismo judicial injustificado (fls. 402-406).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A COVID-19 atingiu aos diversos setores da economia e, portanto, visando distribuir de forma equânime os impactos decorrentes da crise sanitária e econômica, a intervenção do Poder Judiciário nas relações negociais, ainda que indesejada, se mostra necessária.
+Em outros termos, a alteração das bases contratuais por motivo imprevisível reclama a redistribuição dos prejuízos, não se admitindo que a solução adotada venha a beneficiar sobremaneira uma parte em detrimento da outra.
+A cooperação é dever anexo que compõe todos os contratos, de sorte que os contratantes devem colaborar, entre si, para que as expectativas dos envolvidos na relação sejam supridas.
+É incontroverso que o IGP-M acumulou alta inesperada e excessiva, deixando de representar mero índice de atualização dos valores monetários. A correção monetária passou a funcionar como verdadeiro plus obrigacional, pois a majoração dos índices supera, em muito, a evolução do poder de compra da moeda.
+ ..
+Anoto ser inviável a substituição definitiva do índice contratualmente estabelecido, sob pena de violação ao princípio da força obrigatória e liberdade contratual.
+Sendo assim, é caso de se julgar parcialmente procedente o pedido para o fim de condenar a ré a substituir o IGP-M pelo IPCA por ocasião do reajuste exclusivamente ocorrido em maio de 2021.
+Observo, por fim, que embora o cenário econômico tenha se restabelecido, o pedido se refere a período de grave crise, e a revisão do índice há de auxiliar a apelante a compor o decréscimo de seu faturamento naquela época (fls. 377-378).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
