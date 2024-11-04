@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão (i) da ausência de demonstração da alegada falta de fundamentação  art. 1.022, I e II, do CPC, (ii) da necessidade de reexame de provas, com óbice da Súmula n. 7 do STJ, e (iii) da carência de fundamentação, os quais atraem as Súmulas n. 283 e 284 do STF (e-STJ fls. 399/401).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 348):
+APELAÇÃO CÍVEL. AÇÃO DE INTERDITO PROIBITÓRIO. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA COOPERATIVA AUTORA.
+Pleito de proteção possessória em virtude da alegada ameaça de invasão e fechamento de uma das unidades da cooperativa. Não acolhimento. Inexistência de elementos que permitam vislumbrar que o Réu e outros cooperados pretendiam turbar ou esbulhar a posse da Autora. Conjunto probatório que demonstra a mera intenção dos cooperados de reunirem-se em frente aos portões da Cooperativa, o que sequer se concretizou, haja vista que, antes do ajuizamento da ação, representantes desta já estavam em contato com alguns dos cooperados para atendê-los individualmente em seus interesses. Justo receio de agressão à posse que deve ser efetivo e manifestado em face de uma potencial ação ilícita. Inobservância dos requisitos do artigo 561 do CPC. Sentença de improcedência mantida, com o arbitramento de honorários recursais.
+RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 363/367).
+Nas razões do recurso especial (e-STJ fls. 370/378), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente apontou contrariedade aos arts. 1.022, I e II, 561 e 567 do CPC.
+Assevera que "Constou na sentença e acórdãos que a mensagem contendo a ameaça não foi analisada no contexto fático da conversa; que a ideia não partiu do recorrido; e, que não há menção à invasão ou fechamento da cooperativa, enfim, configurando ausência de esbulho e, consequentemente, improcedência dos pedidos.  ..  Em suma, entendeu-se que não houve ameaça, e que, se houve, a ameaça já havia cessado quando do ajuizamento do interdito.  ..  Contudo, com a devida vênia, não deve prevalecer tal decisão. Para tal análise basta a análise dos artigos que regem o interdito proibitório, quais sejam arts. 561 e 567 do CPC, os quais não foram devidamente abordados, gerando violação também ao art. 1.022, I e II do CPC" (e-STJ fl. 375).
+Assim, requereu o provimento do recurso, para reforma do acórdão recorrido.
+No agravo (e-STJ fls. 404/413), a parte agravante afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 420/434 (e-STJ).
+É o relatório.
+Decido.
+Atendidos os requisitos de admissibilidade, especialmente a dialeticidade recursal, conheço do agravo.
+A controvérsia tem origem em ação de interdito proibitório movida pela parte agravante julgada improcedente.
+O Tribunal de origem negou provimento à apelação da parte recorrida, declarando não configurada ameaça à posse.
+A decisão de admissibilidade não merece reparo.
+Sobre a ofensa ao art. 1.022, I e II, do CPC, não ficou demonstrada sua ocorrência. O Tribunal de origem rejeitou os embargos declaração nos seguintes termos (e-STJ fl. 365):
+In casu, ao contrário do que pretende fazer crer a Embargante, não há qualquer vício no acórdão embargado, mormente porque a contradição à qual alude o artigo 1.022 do CPC é a contida na própria decisão embargada, consistente na formulação de afirmações inconciliáveis ou da impossibilidade de harmonização entre a fundamentação e a conclusão. A contradição que a Embargante busca resolver, por outro lado, não está no acórdão embargado, coerente do começo ao fim, entre a solução adotada e a que ela desejava, não merecendo qualquer correção por esta via.
+Com efeito, o acórdão foi expresso no sentido de que o justo receio ao qual alude o artigo 567 do CPC deve ter por base fatos e atos efetivos que evidenciem a possibilidade real de que os direitos do possuidor venham a ser turbados, não bastando o mero temor subjetivo nascido do fato de o Embargado e outros cooperados terem cogitado, por meio de mensagens de Whatsapp, agruparem-se próximo à uma das unidades da Embargante, o que sequer ocorreu, visto que, antes do ajuizamento da ação, representantes da Cooperativa já estavam em contato com alguns dos cooperados para atendê-los individualmente em seus interesses. Logo, a irresignação da Embargante para com a conclusão do Colegiado de que ela não faz jus à proteção possessória pleiteada deve ser veiculada por meio dos recursos próprios.
+Portanto, não fica configurada negativa de prestação jurisdicional quando, como nos presentes autos, os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Quanto à pretensão de reconhecer a caracterização da ameaça à posse e demais elementos fáticos que levaram o Tribunal de origem a julgar improcedente a ação possessória, o recurso especial é inadmissível, pois a reforma da decisão demandaria novo exame do conjunto fático-probatório, o que é obstado pela Súmula n. 7 desta Corte.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor do patrono da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
