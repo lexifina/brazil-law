@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso de embargos de declaração opostos por TVSBT CANAL 4 DE SÃO PAULO S/A contra a decisão de fls. 973/974 (e-STJ), da lavra desta relatoria, que não conheceu do recurso especial, ante a incidência do óbice sumular n. 282/STF.
+Sustenta a parte a embargante, em resumo, que "mesmo que o dispositivo federal dito contrariado não tenha sido expressamente mencionado, ainda assim, a admissibilidade do presente apelo raro está assegurada. Tanto é que a e. Corte Especial do c. STJ já firmou entendimento no sentido de acolher-se a outrora controvertida figura do "prequestionamento implícito"" (e-STJ fl. 978).
+A parte embargada ofertou impugnação (e-STJ, fls. 977/974).
+É o relatório. Passo a fundamentar.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões abordadas e devidamente fundamentadas no decisum embargado, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, o apelo nobre não ultrapassou a barreira do conhecimento em razão da ausência de prequestionamento do dispositivo apontado como violado, conforme se infere das seguintes passagens da decisão embargada, in verbis:
+"Importante salientar, desde logo, que o eg. Tribunal de origem não analisou a questão sob o enfoque do art. 8º, inciso I, da Lei 9.610/98, apontado como violado, tampouco foram opostos embargos de declaração com a finalidade de instar a Corte estadual a enfrentar a matéria, tratando-se, deste modo, de tema não prequestionado, a atrair, por analogia, o óbice da Súmula 282/STF, que dispõe: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido, " a  tese apresentada no Apelo não foi analisada pela Corte de origem, à luz dos dispositivos legais invocados. Perquirir nesta via estreita ofensa à referida norma, sem que se tenha explicitado a tese jurídica que ora se controverte, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância" (AgInt no REsp n. 2.119.905/RJ, relator Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 24/6/2024, DJe de 28/6/2024).
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, não conheço do recurso especial."
+Percebe-se, portanto, que os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, desse modo, o acolhimento da pretensão embutida nos aclaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se
+EMENTA
