@@ -1,0 +1,2 @@
+Altera a Lei nº 11.445, de 5 de janeiro de 2007, para conferir publicidade a documentos referentes à regulação e à fiscalização dos serviços públicos de saneamento básico, bem como aos direitos e deveres dos usuários e prestadores, e para instituir como direito da população o acesso a relatórios periódicos sobre o nível dos reservatórios de água para abastecimento público e a outros dados relativos à segurança hídrica.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
