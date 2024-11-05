@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ SORIANI, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 423, e-STJ):
+AGRAVO DE INSTRUMENTO - AÇÃO CIVIL PÚBLICA - EXPURGOS INFLACIONÁRIOS PLANO VERÃO - Atualização do débito até efetivo pagamento e disponibilização - Entendimento então dominante de que, o depósito judicial do montante da condenação extingue a obrigação do devedor, nos limites da quantia depositada, conforme REsp nº 1.348.640/RS - Alteração da jurisprudência por meio do REsp nº 1.820.963/SP, com fixação da tese de que o depósito efetuado a título de garantia do juízo não isenta o devedor do pagamento dos consectários de sua mora - Tema 677 que foi julgado em data posterior ao depósito realizado nos autos - Modulação que se faz necessária, considerando os princípios da segurança jurídica e tempus regit actum - In casu, não aplicação do Tema 677. Recurso desprovido.
+Recurso desprovido.
+Nas razões do apelo extremo (fls. 427-443, e-STJ), o insurgente aponta, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos: (a) artigos 489, §1º, inciso VI; 927, inciso III; 1.039; 1.040, inciso II; do CPC/2015; sustentando a nulidade do acórdão recorrido por negativa de prestação jurisdicional; e (b) artigo 924, inciso II; do CPC/2015; defendendo a aplicabilidade imediata da tese firmada para o Tema 677 dos Recursos Repetitivos, após a revisão em 19/10/2022, por ser desnecessário o trânsito em julgado do acórdão proferido em recurso especial representativo da controvérsia para que se possa aplicá-lo como precedente em situações semelhantes.
+Contrarrazões ofertadas às fls. 452-461, e-STJ.
+O recurso foi admitido na origem (fls. 462-464, e-STJ) e os autos ascenderam a esta Corte de Justiça.
+É o relatório. Decide-se.
+A pretensão recursal não merece prosperar.
+1. De início, é assente na jurisprudência do STJ que o reconhecimento da negativa de prestação jurisdicional exige a prévia oposição dos embargos de declaração, de forma a compelir a Corte de origem a sanar os vícios, esgotando a instância ordinária, o que não ocorreu no caso. Nesse sentido: AgInt nos EDcl no REsp 1880012/SP, 4ª Turma, DJe 23/11/2020; EDcl no AgInt no REsp 1659455/RS, 2ª Turma, DJe 14/08/2018; e EDcl no REsp 1593380/CE, 3ª Turma, DJe 24/11/2016.
+Com efeito, verifica-se que a parte não manejou embargos de declaração em face do acórdão recorrido com o objetivo de ver sanada a omissão que ora aponta.
+Logo, resta inviável o conhecimento de afronta ao art. 489 do CPC/2015 ante a incidência do óbice da Súmula 284/STF:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE NULIDADE POR OMISSÃO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. SÚMULA N. 284/STF. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Os embargos de declaração representam o meio adequado a sanar obscuridade, omissão ou contradição porventura existentes na decisão agravada. Não opostos os competentes embargos, a análise da pretensão de nulidade da decisão encontra o óbice contido na Súmula 284 do STF.
+2. Não cabe, em recurso especial, reexaminar matéria de fato (Súmula 7/STJ).
+3. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do artigo 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1175224/MT, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/11/2018, DJe 13/11/2018) grifou-se
+2. No mais, o Tribunal de origem solucionou o mérito da controvérsia com base na aplicação ao caso do art. 5º, inciso XXXVI, da Constituição Federal (fl. 424, e-STJ):
+Pois bem, considerando (i) o princípio da segurança jurídica esculpido no art. 5º, XXXVI da Constituição Federal ("a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada"), (ii) e o fato de o depósito realizado pelo executado no caso concreto ter ocorrido em data anterior à alteração do entendimento jurisprudencial supramencionado, é o caso de proceder com a modulação do novo entendimento, aplicando-o tão somente para fatos ocorridos após a fixação do Tema 677, em respeito ao princípio tempus regit actum.
+Por ser deste modo, correta a decisão agravada, que fica mantida. Nestes termos, NEGO PROVIMENTO ao agravo.
+Não obstante, não houve manejo de recurso extraordinário, mas apenas do presente recurso especial.
+Nesse diapasão, incide ao caso a Súmula 126 do STJ, segundo a qual "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" (grifou-se) .
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO APELO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto o Tribunal a quo foi claro ao se manifestar sobre a adesão ao plano de benefício para a concessão de complementação de aposentadoria, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. No caso, o Tribunal de origem solucionou o mérito da controvérsia com base na aplicação ao caso do art. 5º, inciso I, da Constituição Federal, não tendo a parte interposto o respectivo recurso extraordinário. Dessa forma, incide ao caso a Súmula 126 do STJ, segundo a qual "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.393.702/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/6/2024, DJe de 26/6/2024.) grifou-se
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDORES PÚBLICOS. ASSISTENTE SOCIAL. CARGA HORÁRIA SEMANAL. ACÓRDÃO RECORRIDO COM BASE EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 126 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão impugnado, quanto à tese de aplicação do art. 5.º-A da Lei n. 8.662/1993, além da fundamentação infraconstitucional, está assentado em fundamento constitucional autônomo e suficiente, por si só, para dar suporte à conclusão do Tribunal de origem (contrariedade ao dispositivo constitucional que dispõe acerca da competência privativa do Presidente da República para propor projeto de lei relativo ao regime jurídico dos servidores, violando a legalidade e a isonomia). A parte recorrente, no entanto, deixou de interpor recurso extraordinário. Nesse contexto, incide o comando da Súmula n. 126 do STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.129.922/SE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 9/9/2024, DJe de 11/9/2024.) grifou-se
+3. Do exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
