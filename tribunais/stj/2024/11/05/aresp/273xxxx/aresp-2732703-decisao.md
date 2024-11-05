@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de Agravo apresentado por LUCAS LIMIA MACHADO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. ENSINO PRIVADO. UNIÃO BRASILEIRA DE EDUCACAO E ASSISTÊNCIA. PRESTAÇÃO DOS SERVIÇOS EDUCACIONAIS. AÇÃO DE COBRANÇA. INADIMPLEMENTO DAS PARCELAS. APELO IMPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa à Lei nº. 8.078/90, nº. Lei 9.870/99 e Lei nº. 10.406/02, no que concerne à inexistência de dívida e, assim, de responsabilidade, pois não foi assinado contrato, não foi comprovado o curso de nenhuma cadeira, bem como nos próprios documentos do recorrido consta o recorrente como não matriculado. Aduz a seguinte argumentação:
+Nesta seara, tratando-se de documentos gerados de forma unilateral, lá em 2008 quando o Recorrente somente teria sua inscrição de matrícula.
+ ..
+No caso concreto Excelências, em que pese o entendimento do Desembargador Relator, seguido pelos demais Desembargadores da 25º Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, deixaram passar despercebido que, o fato de o Recorrente, somente ter realizado a matrícula, não enseja viabilidade técnica legal para a cobrança de valores sem um contrato. Percebam que, a Recorrida alega que teriam sido cursadas as cadeiras, quando em verdade, não se verifica nenhuma comprovação da presença do Recorrente cursando tal semestralidade.
+ ..
+Logo, a decisão recorrida viola a Lei 8.078/90, Lei 9.780/99 e Lei 10.406/02; que são as Leis que dão o devido tom à presente relação entre as partes.
+ ..
+Assim, se a própria instituição Recorrida, em seus próprios documentos, reconhece que Recorrente não está matriculado, é inegável que não existe dívida alguma a ser paga; então, é inegável que impera ao caso o Art. 4 o , inciso I da Lei 8.078/90, do Código de Defesa do Consumidor, uma vez que, os documentos apresentados pela Recorrida, contradizem seus próprios argumentos, in verbis;
+ ..
+Portanto, entende o Recorrente que a decisão ora recorrida, proferida pela Egrégia Corte de Justiça, contraria, nega, suprime vários Artigos de várias Leis Federais conforme acima demonstrado, situação que viabiliza o acolhimento do presente Recurso Especial.
+III - DAS RAZÕES DO PEDIDO DE REFORMA
+ ..
+Que, a presente decisão deve ser reformada, haja vista, não existir nenhum tipo de contratação (contrato formal) assinado pelo Recorrente como prevê a Lei, bem como a própria Recorrida, reconhece em seus documentos que o Recorrente não estava matriculado.
+(fls. 315-322).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 284/STF, tendo em vista que há indicação genérica de violação de lei federal, sem particularizar quais dispositivos teriam sido contrariados, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "De outro lado, verifica-se que, embora a parte recorrente tenha indicado violação à MP 2.180-35/01 e à Lei n. 4.414/64, não apontou, com precisão, qual regramento legal teria sido efetivamente violado pelo acórdão recorrido. Assim, nos termos da jurisprudência pacífica deste Tribunal, a indicação de violação genérica a lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF". (AgInt no REsp n. 1.468.671/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 30.3.2020.)
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.641.118/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 25.6.2020; AgInt no AREsp n. 744.582/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1.6.2020; AgInt no AREsp n. 1.305.693/DF, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 31.3.2020; AgInt no REsp n. 1.475.626/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 4.12.2017; AgRg no AREsp n. 546.951/MT, Rel. Ministro Felix Fischer, Quinta Turma, DJe de 22.9.2015; e REsp n. 1.304.871/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 1º.7.2015.
+Ademais, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Por fim, o Tribunal a quo se manifestou nos seguintes termos:
+A existência do contrato que deu origem ao débito exigido, decorrente da prestação de serviços educacionais restou demonstrada pelo documento entranhado juntamente com a exordial (fl. 11 - evento 3, PROCJUDIC1), ao passo que a inadimplência restou constatada nos autos, até porque não demonstrado que não houve qualquer pagamento no período que embasa a cobrança.
+(fls. 305).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
