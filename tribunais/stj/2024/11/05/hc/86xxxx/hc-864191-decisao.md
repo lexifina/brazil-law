@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CRISTIAN RAMOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, no julgamento do habeas corpus nº 5057278-25.2023.8.24.0000/SC.
+Consta dos autos que o paciente foi preso em flagrante em 29/5/2023, tendo sido a segregação convertida em temporária (fls. 83/94), e, posteriormente, após recebimento da denúncia, em preventiva (fls. 95/98), pela prática, em tese, de homicídio qualificado e ocultação de cadáver com concurso de pessoas.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que manteve a prisão preventiva do paciente pelos mesmos fundamentos, denegando a ordem em acórdão de fls. 104/121.
+Na presente impetração, a defesa alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar. Pondera que o paciente possui condições pessoais favoráveis. Aduz a ausência de elementos que demonstrem ser o paciente o autor do homicídio, esclarecendo que ele confessou apenas o crime de ocultação de cadáver. Sustenta, ainda, excesso de prazo da custódia cautelar. Requer a revogação da prisão preventiva.
+O pedido liminar foi indeferido às fls. 71/74.
+Informações prestadas às fls. 81/125 e 126/132.
+O Ministério Público se manifestou pela denegação da ordem.
+É o relatório. DECIDO.
+No presente caso, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos.
+O paciente foi denunciado e preso preventivamente pela prática, em tese, dos crimes de homicídio, qualificado pela futilidade do motivo, emprego de asfixia, dissimulação e utilização de recurso que teria dificultado a defesa da vítima, bem como contra a mulher por razoes da condição de sexo feminino, e ocultação de cadáver, juntamente com coautor Bruno Donatti de Quadros (fls. 95/98).
+Da análise do decreto de prisão preventiva e do acórdão objurgado, verifico que a cautelar encontra-se devidamente fundamentada na necessidade de se assegurar a ordem pública, em razão da gravidade concreta da conduta atribuída ao paciente, em consonância com a jurisprudência desta Corte sobre o tema.
+O acórdão hostilizado destacou que o paciente, juntamente com outro indivíduo, teria, em tese, praticado o assassinato de uma mulher que sabiam que poderia estar em estado gravídico, atraindo-a como se fossem fumar narguilé, e a surpreenderam pelas costas, no interior do veículo, asfixiando-a até a morte para que não revelasse à namorada do coautor o relacionamento que mantinham.
+Pontuou-se, ainda, que eles, supostamente, teriam tentado incinerar o cadáver, enterrando-o posteriormente em local de difícil acesso e, posteriormente, mantiveram contato com os familiares da vítima por meio do telefone celular dela para que não desconfiassem do desaparecimento.
+O Tribunal de origem fundamentou a necessidade da prisão na gravidade concreta das condutas praticadas, na periculosidade do paciente e na necessidade de assegurar a ordem pública, entendimento em consonância a jurisprudência consolidada dos Tribunais Superiores:
+"As graves circunstâncias em que praticados os fatos ilícitos (modus operandi) justificam a constrição cautelar para garantia da ordem pública" (AgRg no RHC n. 188.265/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 28/5/2024).
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 24/04/2019).
+As condições pessoais favoráveis do paciente não são aptas a desconstituir a necessidade de manutenção da prisão preventiva, conforme se verifica do seguinte julgado desta Corte:
+"A existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não é apta a desconstituir a prisão processual, caso estejam presentes os requisitos de ordem objetiva e subjetiva que autorizem a imposição da medida extrema, como verificado na hipótese" (AgRg no HC n. 829.799/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/8/2023).
+Quanto à ausência de elementos necessários para imputar ao paciente o crime de homicídio, verifico que a inversão do que restou decidido pelas instâncias ordinárias demandaria, impreterivelmente, revolvimento de matéria fático-probatória, procedimento vedado na estreita via do habeas corpus.
+A questão do excesso de prazo da prisão cautelar não foi analisado na Corte de origem, o que inviabiliza sua análise no Superior Tribunal de Justiça, sob pena de indevida supressão de instância:
+"Inicialmente, quanto à tese de excesso de prazo para a formação da culpa, verifica-se que o tema não foi analisado pela Corte de origem, o que inviabiliza sua análise no Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes" (AgRg no HC n.
+761.559/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/9/2022).
+Em consulta ao site eletrônico do Tribunal de origem, verifica-se que o paciente já fora pronunciado pelo Juízo de origem. Assim, conforme Súmula 21 desta Corte, "pronunciado o réu, fica superada a alegação do constrangimento ilegal por excesso de prazo na instrução".
+Desse modo, verifico que não há ilegalidade flagrante que autorize a concessão de habeas corpus, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
