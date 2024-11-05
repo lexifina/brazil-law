@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido e conceder "Habeas Corpus" de ofício, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. AUMENTO DESPROPORCIONAL. PEQUENA QUANTIDADE APREENDIDA. REINCIDÊNCIA ESPECÍFICA. AUMENTO SUPERIOR A 1/6. FUNDAMENTAÇÃO INIDÔNEA. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Henrique Rocha Santos, condenado por tráfico de drogas. A defesa questiona a dosimetria da pena, pedindo a revisão da valoração negativa da natureza e quantidade da droga na primeira fase, bem como o quantum de aumento na segunda fase.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a exasperação da pena-base, com fundamento na natureza e na quantidade da droga apreendida, foi realizada de forma proporcional e em conformidade com o art. 42 da Lei 11.343/2006; e se o aumento realizado na etapa intermediária é desproporcional.
+III. RAZÕES DE DECIDIR
+3. A Terceira Seção, ao julgar o REsp n. 1.887.511/SP (relator Ministro João Otávio de Noronha), entendeu, em harmonia com o firmado pelo Supremo Tribunal Federal, que a natureza e quantidade da droga são fatores a serem considerados necessariamente na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, constituindo-se em circunstância preponderante a ser utilizada na primeira fase da dosimetria da pena.
+4. No entanto, a quantidade de droga apreendida (4,9g de crack) não é expressiva a ponto de justificar um aumento da pena-base, sendo a majoração em 1/6 considerada desproporcional à luz da jurisprudência desta Corte.
+5. "Hipótese em que o Tribunal de origem justificou a aplicação da agravante na fração de 1/3 pelo fato de o ora agravado ser reincidente específico. Ocorre que a Quinta Turma deste Superior Tribunal de Justiça passou a adotar o entendimento de que, ostentando o réu apenas uma condenação anterior para fins de reincidência, mostra-se desproporcional o aumento em patamar superior a 1/6, com amparo apenas no fato de se tratar de reincidente específico" (AgRg no HC n. 662.859/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/8/2021, DJe 9/8/2021).
+IV. Habeas corpus não conhecido. Ordem concedida de ofício para redimensionar a pena do paciente a 5 anos e 10 meses de reclusão, além de 583 dias-multa, mantidos os demais termos da condenação.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 43 (e-STJ):
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de HENRIQUE ROCHA SANTOS contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 1500703-87.2020.8.26.0022.
+Na hipótese, a defesa aponta constrangimento ilegal, pois a pena-base foi exasperada de forma desproporcional.
+Defende que a majoração da basilar deve se limitar à fração de 1/6 (um sexto).
+Sustenta que a reincidência específica não autoriza o aumento da sanção em 1/3 (um terço).
+Requer, assim, em caráter liminar, a concessão da ordem, "para o fim de que se afaste a coação ilegal que se lhe impôs nos autos da Apelação nº 1500703- 87.2020.8.26.0022 do Tribunal de Justiça do Estado de São Paulo, reduzindo-se as frações impostas 1/5(um quinto) na primeira fase,1/3 (um terço) na segunda fase, ambas para 1/6(um sexto)e redimensionando-se a pena final do paciente" (fl. 12).
+É o breve relatório.
+A defesa alega, em síntese, a ocorrência de erro na dosimetria da pena.
+Requer a concessão da ordem para obter a redução da pena aplicada ao paciente.
+Manifestou-se o Ministério Público Federal pelo não conhecimento do writ, mas pela concessão da ordem, de ofício (e-STJ, fls.81-86).
+É o relatório.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. AUMENTO DESPROPORCIONAL. PEQUENA QUANTIDADE APREENDIDA. REINCIDÊNCIA ESPECÍFICA. AUMENTO SUPERIOR A 1/6. FUNDAMENTAÇÃO INIDÔNEA. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Henrique Rocha Santos, condenado por tráfico de drogas. A defesa questiona a dosimetria da pena, pedindo a revisão da valoração negativa da natureza e quantidade da droga na primeira fase, bem como o quantum de aumento na segunda fase.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a exasperação da pena-base, com fundamento na natureza e na quantidade da droga apreendida, foi realizada de forma proporcional e em conformidade com o art. 42 da Lei 11.343/2006; e se o aumento realizado na etapa intermediária é desproporcional.
+III. RAZÕES DE DECIDIR
+3. A Terceira Seção, ao julgar o REsp n. 1.887.511/SP (relator Ministro João Otávio de Noronha), entendeu, em harmonia com o firmado pelo Supremo Tribunal Federal, que a natureza e quantidade da droga são fatores a serem considerados necessariamente na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, constituindo-se em circunstância preponderante a ser utilizada na primeira fase da dosimetria da pena.
+4. No entanto, a quantidade de droga apreendida (4,9g de crack) não é expressiva a ponto de justificar um aumento da pena-base, sendo a majoração em 1/6 considerada desproporcional à luz da jurisprudência desta Corte.
+5. "Hipótese em que o Tribunal de origem justificou a aplicação da agravante na fração de 1/3 pelo fato de o ora agravado ser reincidente específico. Ocorre que a Quinta Turma deste Superior Tribunal de Justiça passou a adotar o entendimento de que, ostentando o réu apenas uma condenação anterior para fins de reincidência, mostra-se desproporcional o aumento em patamar superior a 1/6, com amparo apenas no fato de se tratar de reincidente específico" (AgRg no HC n. 662.859/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/8/2021, DJe 9/8/2021).
+IV. Habeas corpus não conhecido. Ordem concedida de ofício para redimensionar a pena do paciente a 5 anos e 10 meses de reclusão, além de 583 dias-multa, mantidos os demais termos da condenação.
+VOTO
+O acórdão assim se manifestou acerca da dosimetria (e-STJ, fls. 39):
+Na primeira fase, a pena-base foi fixada acima do mínimo legal, qual seja, em 6 anos de reclusão e 600 dias-multa, considerando a quantidade e a qualidade dos entorpecentes apreendidos (50 porções de crack), a evidenciar a maior reprovabilidade de sua conduta, o que encontra respaldo tanto no artigo 42 da Lei 11.343/06, quanto no artigo 59 do Código Penal.
+Na segunda fase, legítima a exasperação da reprimenda em 1/3, tendo em vista a reincidência específica (processo nº 0003618-96.2014.8.26.0022 fls. 39).
+Na terceira fase, ausentes causas de diminuição ou de aumento, a reprimenda tornou-se definitiva em 08 anos de reclusão e ao pagamento de 800 dias-multa.
+A Terceira Seção, ao julgar o REsp n. 1.887.511/SP (relator Ministro João Otávio de Noronha), entendeu, em harmonia com o firmado pelo Supremo Tribunal Federal, que a natureza e quantidade da droga são fatores a serem considerados necessariamente na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, constituindo-se em circunstância preponderante a ser utilizada na primeira fase da dosimetria da pena.
+Extrai-se dos autos que a pena foi acrescida em 1 ano em razão da apreensão de 50 porções de crack, pesando aproximadamente 4,9g. A definição da pena, ainda que sujeita a uma certa discricionariedade, para alcançar a individualização da medida, está atrelada a princípios e regras constitucionais e dispositivas legais.
+In casu, pela quantidade e natureza única da droga apreendida, inerentes ao tipo penal, se mostra desproporcional a exasperação da pena inaugural, nos termos do entendimento desta corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO AGRAVADA QUE REDUZIU A PENA-BASE AO PATAMAR MÍNIMO LEGAL, AFASTOU A AGRAVANTE DA REINCIDÊNCIA E APLICOU O REDUTOR EM SUA FRAÇÃO MÁXIMA. IRRESIGNAÇÃO MINISTERIAL. PENA-BASE. NATUREZA E QUANTIDADE DAS DROGAS CRITÉRIO IDÔNEO, MAS DESPROPORCIONAL NA HIPÓTESE DOS AUTOS. ÍNFIMA QUANTIDADE DE DROGAS. ANTECEDENTES, REINCIDÊNCIA E AFASTAMENTO DO PRIVILÉGIO COM BASE EM DUAS CONDENAÇÕES ANTERIORES POR USO DE DROGAS. INADEQUAÇÃO. AFASTAMENTO DOS MAUS ANTECEDENTES, DA REINCIDÊNCIA E DO FUNDAMENTO UTILIZADO PARA NÃO APLICAR A MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu a ordem, de ofício, para reduzir a pena-base e afastar a agravante da reincidência, além de aplicar a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em seu patamar máximo.
+2. Em relação à exasperação da pena-base no crime de tráfico, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do estatuto repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei n. 11.343/2006.
+3. No caso, embora a natureza e a diversidade dos entorpecentes seja critério idôneo para dosar as penas nos crimes de tráfico de drogas, conforme o disposto no art. 42 da Lei n. 11.343/2006, na espécie, a quantidade das drogas apreendidas não é expressiva - 1,8g de cocaína e 2g de crack -, revelando-se desproporcional o incremento com base nessa motivação. Precedentes em hipóteses análogas.
+4. A jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que é desproporcional o reconhecimento da reincidência em virtude de anterior condenação pelo delito previsto no art. 28 da Lei 11.343/2006. Precedentes da Quinta e Sexta Turmas.
+5. Nesse contexto, é adequado o afastamento dos maus antecedentes e da reincidência apoiados em duas condenações por uso de drogas e, em consequência, preenchidos os demais requisitos previstos no § 4º do art. 33 da Lei n. 11.343/2006, é cabível o reconhecimento do privilégio no crime de tráfico de drogas, que foi aplicado em sua fração máxima, com base na inexpressiva quantidade das drogas apreendidas.
+6. Agravo regimental não provido.
+(AgRg no HC n. 382.880/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/11/2019, DJe de 3/12/2019.) (grifos acrescidos)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO INIDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Juízo sentenciante, atado à discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal. Tratando-se de crime previsto na Lei de Drogas, deve considerar, ainda, de forma preponderante, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+2. No caso, o montante encontrado é diminuto, de modo que é manifestamente desproporcional sopesar somente a natureza e a quantidade de drogas para justificar a exasperação da pena-base.
+3. Agravo regimental não provido.
+(AgRg no HC n. 822.629/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/6/2024, DJe de 28/6/2024.)
+No mais, verifica-se que as instâncias ordinárias entenderam pela incidência da fração superior à agravante da reincidência (1/3) somente por ser específica, o que destoa da jurisprudência do STJ. Confira-se:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA PENAL. AGRAVANTE DA REINCIDÊNCIA. AUMENTO SUPERIOR A 1/6. NECESSIDADE DE FUNDAMENTAÇÃO CONCRETA. ESPECIFICIDADE DA REINCIDÊNCIA. IRRELEVÂNCIA. FLAGRANTE ILEGALIDADE EVIDENCIADA. RECURSO NÃO PROVIDO.
+1. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades.
+Assim, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, por exigirem revolvimento probatório.
+2. Hipótese em que o Tribunal de origem justificou a aplicação da agravante na fração de 1/3 pelo fato de o ora agravado ser reincidente específico. Ocorre que a Quinta Turma deste Superior Tribunal de Justiça passou a adotar o entendimento de que, ostentando o réu apenas uma condenação anterior para fins de reincidência, mostra-se desproporcional o aumento em patamar superior a 1/6, com amparo apenas no fato de se tratar de reincidente específico.
+3. Agravo regimental não provido.
+(AgRg no HC n. 662.859/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/8/2021, DJe 9/8/2021 - grifos acrescidos).
+Desse modo, a pena do delito de tráfico de drogas deve ser redimensionada, motivo pelo qual, fixo a pena-base no mínimo legal, de 5 anos de reclusão, mais 500 dias-multa. Na segunda fase, aplica-se a agravante da reincidência, na fração de 1/6, resultando a pena intermediária em 5 anos e 10 meses de reclusão, e 583 dias-multa, a qual se torna definitiva na ausência de outras circunstâncias modificadoras.
+Ante o exposto, não conheço do presente habeas corpus, mas concedo a ordem de ofício para recalcular a pena relativa ao delito do art. 33 da Lei Antidrogas aplicada, estabelecendo-a definitivamente em 5 anos e 10 meses de reclusão, e pagamento de 583 dias-multa, mantidos os demais termos da condenação.
+É o voto.
