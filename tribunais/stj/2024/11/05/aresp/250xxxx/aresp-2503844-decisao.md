@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por aplicação da Súmula n. 7/STJ (e-STJ fls. 119/121).
+O acórdão recorrido está assim ementado (e-STJ fl. 46):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - DECISÃO QUE AFASTOU LAUDO PERICIAL QUE APLICOU A TAXA MÉDIA DE JUROS DAS MAIORES INSTITUIÇÕES FINANCEIRAS PARA O PERÍODO EM QUE AINDA NÃO HAVIA DIVULGAÇÃO DA TAXA MÉDIA DE MERCADO PELO BANCO CEN TRAL - INSURGÊNCIA DO EXEQUENTE - PROCEDÊNCIA - AUSÊNCIA DE JUNTADA DO INSTRUMENTO CONTRATUAL - LIMITAÇÃO DOS JUROS REMUNERATÓRIOS À TAXA MÉDIA DE MERCADO - POSSIBILIDADE - DIVULGAÇÃO PELO BANCO CENTRAL DAS TAXAS MÉDIAS - PARA O PERÍODO ANTERIOR À DIVULGAÇÃO DEVEM SER ANALISADAS AS TAXAS COBRADAS PELAS TRÊS MAIORES INSTITUIÇÕES FINANCEIRAS DO PAÍS - PRECEDENTES - DECISÃO REFORMA. RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração foram parcialmente acolhidos para sanar erro material, nos termos da seguinte e menta (e-STJ fl. 83):
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. DECISUM QUE CONHECEU E DEU PROVIMENTO AO RECURSO DA PARTE ORA EMBARGADA. ERRO MATERIAL. CONSTATAÇÃO. PARTE ESTRANHA MENCIONADA NO ARESTO. CORREÇÃO. LIMITAÇÃO A TAXA MÉDIA DE MERCADO APLICADA ÀS OPERAÇÕES DA ESPÉCIE. DIVULGAÇÃO PELO BANCO CENTRAL DAS TAXAS MÉDIAS A PARTIR DE JULHO DE 1994, SENDO QUE PARA O PERÍODO ANTERIOR À DIVULGAÇÃO DEVEM SER COMPARADAS AS TAXAS COBRADAS PELAS TRÊS MAIORES INSTITUIÇÕES FINANCEIRAS DO PAÍS. PRECEDENTES DESTA CORTE DE JUSTIÇA. DETERMINAÇÃO QUE NÃO ALTERA O ENTENDIMENTO FIRMADO NA FASE DE CONHECIMENTO. TESE DE OFENSA À COISA JULGADA AFASTADA. MERO INCONFORMISMO DA PARTE. ACLARATÓRIOS PARCIALMENTE PROVIDOS, APENAS PARA SANAR O ERRO MATERIAL APONTADO.
+Nas razões do recurso especial (e-STJ fls. 92/98), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente apontou, além de dissídio jurisprudencial, ofensa aos arts. 485, 502 e 505 do CPC/2015. Sustentou que a sentença transitada em julgado determinou a aplicação de juros à taxa média de mercado a partir de setembro de 1994, de forma que "o V. Acórdão ora Recorrido ao conhecer e dar provimento ao Agravo do Embargante para o fim de reformar o decisum agravado e reconhecer o acerto do laudo pericial de mov. 261.1 ao aplicar a taxa média das maiores instituições financeiras para o período anterior à divulgação da taxa média de juros pelo Banco Central, incorre em violação à coisa julgada" (e-STJ fl. 97).
+Contrarrazões às fls. 110/118 (e-STJ).
+No agravo (e-STJ fls. 125/129), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 137/141).
+É o relatório.
+Decido.
+Acerca da matéria ora impugnada, o Tribunal de origem assim se pronunciou (e-STJ fl. 47):
+ ..  de fato, a jurisprudência mais recente indica que nos casos em que não houver fixação da taxa de juros, deve incidir a taxa média de mercado, sendo que, nos casos em que a taxa média ainda não era divulgada, deve se proceder à análise das taxas praticadas pelos maiores bancos do país.
+No julgamento dos embargos de declaração, o TJPR acrescentou (e-STJ fls. 84/86):
+ ..  quanto à determinação exarada no acórdão para aplicar as taxas praticadas pelas 3 maiores instituições financeiras do país, quando não divulgada a taxa média de mercado pelo Bacen, não se verifica a ocorrência de ofensa a coisa julgada na forma como afirma o embargante.
+De fato, a sentença proferida em 2ª fase de ação de prestação determinou que, diante da ausência de contrato juntado aos autos, fosse aplicada a taxa de juros média de mercado para o período contratual, exceto naqueles casos em que esta for superior à taxa praticada pelo Banco, ou nos períodos em que não houve a divulgação,  .. .
+ ..
+Do exame dos atos processuais,  ..  vê-se claramente que o decisum objurgado apenas interpretou o que restou decidido na fase de conhecimento, sem qualquer alteração a respeito da necessidade de limitação dos juros remuneratórios, adequando os cálculos ao entendimento que prevalece neste Tribunal em situações similares.
+A jurisprudência do STJ é firme no sentido de que não viola a coisa julgada a interpretação razoável e possível de ser extraída do título executivo. Confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. TÍTULO EXECUTIVO. HONORÁRIOS ADVOCATÍCIOS. READEQUAÇÃO. POSSIBILIDADE. COISA JULGADA. VIOLAÇÃO. NÃO OCORRÊNCIA. ACÓRDÃO EM HARMONIA COM ENTENDIMENTO FIRMADO NESTA CORTE SUPERIOR. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte de origem decidiu em consonância com o entendimento firmado nesta Corte Superior no sentido de que: "Quando o título executivo admite mais de uma interpretação, deve ser adotada aquela que esteja de acordo com o princípio da razoabilidade e não desborde das linhas que estruturam o ordenamento jurídico, o que não implica em ofensa ou relativização da coisa julgada.". (AgInt no AREsp n. 1.231.432/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 13/8/2018.). Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.860.596/RO, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/6/2022, DJe de 17/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284/STF. TÍTULO EXECUTIVO. INTERPRETAÇÃO. POSSIBILIDADE. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+ ..
+2. Nos termos da jurisprudência desta Corte, "não viola a coisa julgada a interpretação do título judicial conferida pelo magistrado, para definir seu alcance e extensão, observados os limites da lide" (AgInt no AREsp 1.696.395/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/12/2020, DJe de 18/12/2020).
+3. Hipótese em que o Tribunal a quo, ao interpretar o título judicial, consignou que o acórdão que julgou a apelação condenou o réu ao pagamento de aluguéis até seis meses após o efetivo início das obras, e que o acórdão que julgou o agravo de instrumento n. 2178107-76.2016.8.26.0000 não tratou sobre o termo inicial dos aluguéis, mas apenas sobre o termo final, uma vez que havia discussão sobre a data de início das obras. Nesse contexto, não há que se falar em violação à coisa julgada.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.456.527/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/10/2021, DJe de 25/11/2021.)
+No caso, o TJPR concluiu pela regularidade do cálculo apresentado, uma vez que estaria de acordo com a jurisprudência firmada naquele tribunal sobre o tema.
+Referido fundamento não foi impugnado nas razões do especial, o que atrai a Súmula n. 283/STF.
+Por fim, é firme o entendimento desta Corte de que o conhecimento do recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, exige indicação do dispositivo de lei objeto de interpretação divergente, bem como demonstração da divergência, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas.
+No caso, apesar de o recorrente afirmar que o recurso estava sendo interposto também com base na alínea "c" do permissivo constitucional, tais requisitos não foram atendidos.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
