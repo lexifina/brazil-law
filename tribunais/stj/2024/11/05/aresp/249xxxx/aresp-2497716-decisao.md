@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por HAPVIDA ASSISTENCIA MEDICA S.A., com fundamento na ausência de violação ao art. 489 e 1.022 do CPC e na incidência  das Súmulas 7 e 83 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois o aresto violou os arts. 296, 313, V, "a", 330, III, 489, §1º, e 1.022, II, do CPC; e arts. 27 e 28, parágrafo único, da Lei 9.868/99.
+Assevera, ainda, que pela inaplicabilidade da Súmula 83 do STJ, assim como defende que a ofensa à legislação apontada prescinde de qualquer análise fático-probatória, bastando o cotejo dos dispositivos enfrentados.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+De início, extrai-se dos autos que a agravante busca, em síntese, a reforma da sentença, sob o argumento de que remanesce seu interesse processual quanto à pretensão de não recolher o ISS no domicílio dos tomadores domiciliados no Município de Parnamirim, em razão do caráter precário da cautelar concedida pelo STF (ADI 5.835/DF) não ter retirado definitivamente do ordenamento jurídico as alterações promovidas pelo art. 1º da LC 157/2016, nem aquelas alterações promovidas pelas legislações locais, mas apenas suspendeu a eficácia das mesmas.
+1 - Da alegada violação ao arts. 489, §1º, e 1.022, II, do CPC
+Nesse cenário, quanto à apontada violação aos arts. 489, §1º, e 1.022, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, denota-se que a agravante alega a existência do vício de omissão no acórdão recorrido, em razão de o acórdão não ter verificado que a medida cautelar na ADI 5.835/DF pode, a qualquer tempo, ser revogada e que o STF pode modular os seus efeitos, em prejuízo dos contribuintes que não ingressarem em juízo no momento oportuno. Aduz, ainda, que o acórdão não verificou a necessidade de se ordenar a suspensão do feito, até o julgamento definitivo do processo pela Suprema Corte.
+Da análise dos autos, vislumbra-se que o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls. 288-294):
+ ..  Não obstante, verifico ausente uma das condições da ação, qual seja, o interesse processual da parte autora, pois na data de ajuizamento da demanda (11/05/2018), o STF, no bojo da ADI 5.835/DF, já havia concedido medida cautelar para suspender a eficácia do artigo 1º da Lei Complementar 157/2016, na parte que modificou o art. 3º, XXIII, XXIV e XXV, e os parágrafos 3º e 4º do art. 6º da Lei Complementar 116/2003; bem como, por arrastamento, para suspender a eficácia de toda legislação local editada para sua direta complementação (data de julgamento: 23/03/2018).
+Noutro pórtico, ressalto que, com a decisão proferida na ADI nº 5.838, a suspensão da eficácia da LC nº 157/2016, após sua entrada em vigor, restaura a eficácia e a efetividade da LC nº 116/2013 sem as novas alterações trazidas, permanecendo o município do local da prestação efetiva do serviço de gestão e administração do plano de saúde investido na competência e capacidade tributária ativa para exigir o ISS, de modo que inexiste ameaça a direito da parte autora, ora recorrente, o que evidencia a ausência de interesse processual na demanda.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação arts. 489, §1º, e 1.022, II, do CPC.
+Quanto ao mérito, o recurso especial não merece conhecimento. Explico.
+2 - Da incidência da Súmula 7/STJ
+No ponto, em relação à alegada violação aos arts. 296, 313, V, "a", 330, III, do CPC e aos arts. 27 e 28, parágrafo único, da Lei 9.868/99, vislumbra-se que o Tribunal de origem, com base no conjunto fático-probatório, concluiu que deve ser mantida a sentença porquanto configurada a ausência de interesse processual da autora, visto que "na data de ajuizamento da demanda (11/05/2018), o STF, no bojo da ADI 5.835/DF, já havia concedido medida cautelar para suspender a eficácia do artigo 1º da Lei Complementar 157/2016, na parte que modificou o art. 3º, XXIII, XXIV e XXV, e os parágrafos 3º e 4º do art. 6º da Lei Complementar 116/2003; bem como, por arrastamento, para suspender a eficácia de toda legislação local editada para sua direta complementação (data de julgamento: 23/03/2018)."
+Assim sendo, observa-se que a alteração da conclusão do Tribunal a quo ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência das Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. INCIDÊNCIA. ART. 1.025 DO CPC/2015. NECESSIDADE DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. MATÉRIA FÁTICA. SÚMULA 7. AGRAVO INTERNO NÃO PROVIDO.
+ ..  4. Tal como constou da decisão agravada, a alteração de tais conclusões quanto à constatação do interesse processual da recorrida, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada nesta via ante o óbice da Súmula 7 do STJ.
+ ..  9. Agravo Interno não provido.
+(AgInt no AREsp n. 2.577.168/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024. - grifo nosso )
+Em vista disso: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Ante ao exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Intimem-se.
+EMENTA
