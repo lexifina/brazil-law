@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se recurso especial interposto por ISRAEL BUENO SILVA fundamentado na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 4/5/2023.
+Concluso ao gabinete em: 9/4/2024.
+Ação: Indenização por danos morais e materiais c/c obrigação de fazer ajuizada pelo recorrente em face da Telefônica Brasil S/A.
+Sentença: julgou parcialmente procedente o pedido inicial, para "condenar ao pagamento de indenização por perdas e danos a ser apurada em liquidação de sentença por arbitramento, do valor equivalente às ações do autor a ser apurado pelo critério da respectiva cotação das ações da TELEFONICA no fechamento do pregão da bolsa de valores na data do trânsito em julgado da decisão que declarar tal direito, corrigido monetariamente, com incidência de juros de mora desde a citação, até o efetivo pagamento, bem como o valor dos dividendos durante todo o período em que o autor deveria ter integrado os quadros societários, ou seja, desde a data da respectiva alienação de cada ação, com correção monetária desde a data de vencimento da obrigação e juros de mora desde a citação" (fl. 683).
+Acórdão: deu parcial provimento à apelação interposta pela recorrida, conforme ementa a seguir (fl. 771):
+PARTICIPAÇÃO FINANCEIRA PLANO DE EXTENSÃO DE TELEFONIA (PEX) PLANTA COMUNITÁRIA DE TELEFONIA (PCT) REPARAÇÃO DE DANOS DANOS MORAIS SENTENÇA DE PARCIAL PROCEDÊNCIA, para condenar a Requerida ao pagamento de indenização por perda e danos (a ser apurada em liquidação de sentença por arbitramento) do valor equivalente às ações do Autor a ser apurado pelo critério da respectiva cotação das ações da Telefônica no fechamento do pregão da bolsa de valores na data do trânsito em julgado e do valor dos dividendos durante todo o período em que o Autor deveria ter integrado os quadros societários, desde a data da alienação de cada ação Caracterizada a prescrição decenária e vintenária RECURSO DA REQUERIDA PARCIALMENTE PROVIDO, para fixar o valor da causa em R$ 11.071,46 (na data de ajuizamento da ação), e para extinguir o processo (com fulcro no artigo 487, inciso II, do Código de Processo Civil)
+Embargos de declaração: opostos pelo recorrente, foram acolhidos parcialmente, tão somente para sanar erro material, sem efeitos modificativos.
+Recurso especial: alega violação dos arts. 189 e 205, ambos do Código Civil; 489, § 1º, IV, 494, II, 994, IV, 1.013, e 1.022, II, todos do CPC. Além da negativa de prestação jurisdicional, sustenta o afastamento da prescrição.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe de 02/02/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe de 02/03/2018.
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC residem na alegação de que houve omissão no acórdão recorrido, mesmo após a oposição de embargos de declaração, sob o argumento de que o Tribunal de origem não se manifestou acerca da "responsabilização civil da Recorrida pelo ilícito ato de vender ações de propriedade do Recorrente sem autorização, fato do qual este teve ciência somente no dia 08.10.2020 nos autos do Processo 1020662-64.2020.8.26.0002, com a consequente condenação no pagamento do valor de venda de tais ações e acessórios  .. " (fl. 818).
+Da análise do processo, constata-se que, de fato, o Tribunal foi omisso em sua fundamentação, mesmo tendo sido suscitado tal esclarecimento nos embargos de declaração opostos pela parte recorrente.
+Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que seja sanada a obscuridade acima referida.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PROVIMENTO, a fim de determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela parte recorrente.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS C/C OBRIGAÇÃO DE FAZER. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Há ofensa ao art. 1.022 do CPC quando há omissão no acórdão recorrido.
+2. Recurso especial conhecido e provido.
