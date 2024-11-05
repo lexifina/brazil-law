@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. AGRAVAMENTO DA PENA-BASE. CULPABILIDADE EXACERBADA. ATUAÇÃO EM CONCURSO DE AGENTES. FUNDAMENTAÇÃO IDÔNEA. WRIT NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Pedro Ricardo Camargo Elvira, condenado a 6 anos de reclusão e 620 dias-multa, em regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei 11.343/06). A defesa alega constrangimento ilegal na exasperação da pena-base, sustentando que a moduladora da culpabilidade foi utilizada sem fundamentação idônea.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a exasperação da pena-base pela culpabilidade exacerbada, com fundamento no concurso de agentes, apresenta justificativa idônea que autorize o aumento da pena, e se houve constrangimento ilegal na dosimetria.
+III. RAZÕES DE DECIDIR
+3. O Superior Tribunal de Justiça não admite o habeas corpus como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade. A dosimetria da pena, incluindo o agravamento pela culpabilidade, pode ser revista apenas em casos excepcionais de manifesta ilegalidade ou abuso de poder.
+4. No presente caso, a exasperação da pena-base foi fundamentada pela atuação do paciente em concurso de agentes e pela quantidade da droga apreendida (9,445 kg de maconha), elementos idôneos e concretamente considerados pelas instâncias ordinárias, em conformidade com o art. 42 da Lei 11.343/06 e art. 59 do Código Penal.
+5. A fundamentação apresentada pelas instâncias inferiores segue a jurisprudência consolidada, não havendo ilegalidade ou desproporcionalidade que justifique a intervenção desta Corte.
+IV. HABEAS CORPUS NÃO CONHECIDO .
+RELATÓRIO
+Trata-se de habeas corpus impetrado em favor de PEDRO RICARDO CAMARGO ELVIRA.
+O paciente foi condenado ao cumprimento da pena de 6 anos de reclusão, mais 620 dias-multa, no regime inicial fechado, pela prática do delito previsto no artigo 33, caput, da Lei 11.343/06.
+O impetrante alega, no presente habeas corpus, a existência de constrangimento ilegal, consistente na inidoneidade da fundamentação utilizada para agravar a pena-base.
+Requer a concessão da ordem para que seja afastada a moduladora da "culpabilidade", ante a falta de fundamentação idônea, restando a pena definitiva fixada no mínimo legal.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. AGRAVAMENTO DA PENA-BASE. CULPABILIDADE EXACERBADA. ATUAÇÃO EM CONCURSO DE AGENTES. FUNDAMENTAÇÃO IDÔNEA. WRIT NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Pedro Ricardo Camargo Elvira, condenado a 6 anos de reclusão e 620 dias-multa, em regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei 11.343/06). A defesa alega constrangimento ilegal na exasperação da pena-base, sustentando que a moduladora da culpabilidade foi utilizada sem fundamentação idônea.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a exasperação da pena-base pela culpabilidade exacerbada, com fundamento no concurso de agentes, apresenta justificativa idônea que autorize o aumento da pena, e se houve constrangimento ilegal na dosimetria.
+III. RAZÕES DE DECIDIR
+3. O Superior Tribunal de Justiça não admite o habeas corpus como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade. A dosimetria da pena, incluindo o agravamento pela culpabilidade, pode ser revista apenas em casos excepcionais de manifesta ilegalidade ou abuso de poder.
+4. No presente caso, a exasperação da pena-base foi fundamentada pela atuação do paciente em concurso de agentes e pela quantidade da droga apreendida (9,445 kg de maconha), elementos idôneos e concretamente considerados pelas instâncias ordinárias, em conformidade com o art. 42 da Lei 11.343/06 e art. 59 do Código Penal.
+5. A fundamentação apresentada pelas instâncias inferiores segue a jurisprudência consolidada, não havendo ilegalidade ou desproporcionalidade que justifique a intervenção desta Corte.
+IV. HABEAS CORPUS NÃO CONHECIDO .
+VOTO
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício.
+"Diante da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de ser inadmissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de que não se desvirtue a finalidade dessa garantia constitucional, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade" (HC n. 602.425/SC, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 10/3/2021, DJe de 6/4/2021.)
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Inviável, portanto, o conhecimento do writ em análise, porquanto manejado como substitutivo de revisão criminal. Também não cabe conceder a ordem de ofício diante da inexistência de ilegalidade do ato impugnado.
+A pena do paciente foi assim fixada (e-STJ, fls. 483-484):
+Considerando que a culpabilidade é de intensidade pouco acima da normalidade para o tipo, considerando que o crime foi praticado em concurso de agentes; que registra antecedentes criminais, com uma condenação definitiva anterior; todavia, a fim de não gerar bis in idem, tal condenação será levada em conta na seguinte etapa da dosimetria; que não há, nos autos, indicação segura acerca de sua conduta social ou de sua personalidade; que o motivo do crime foi a busca por lucro fácil à custa da saúde alheia, o que, todavia, é comum ao tipo; que as circunstâncias do crime foram comuns ao tipo; que as consequências do crime também foram de gravidade comum ao tipo; que o comportamento da vítima, no caso toda a sociedade, em nada contribuiu para a prática do delito. Considerando, sobretudo, que a droga apreendida foi constatada como sendo de uma única espécie, qual seja, maconha, de poder deletério à saúde humana inferior ao de outras drogas (como a cocaína, por exemplo, esclarecendo que a quantidade será levada em conta na última etapa da dosimetria, a fim de evitar bis in idem) e, também, sua quantidade, 9,445 kg (a ele só imputada responsabilidade por esta parte da droga) e atento, ainda, ao que dispõem os artigos 42 da Lei 11.343/6 e 59 do Código Penal, estabeleço a pena-base em 6 (SEIS) ANOS DE RECLUSÃO E 620 (SEISCENTOS E VINTE) DIAS-MULTA, esta no valor unitário de 1/30 do salário mínimo vigente à época dos fatos, que resta definitiva neste patamar ante a compensação entre a agravante da reincidência, decorrente de uma só condenação, e a atenuante da confissão espontânea.
+Considero que os elementos apresentados pelas instâncias ordinárias são idôneos e se encontram de acordo com a jurisprudência desta Corte de Justiça, de forma que inexistente o constrangimento ilegal.
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. EXACERBAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO VÁLIDA. PROPORCIONALIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE. RECURSO NÃO PROVIDO.
+1. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+2. Na hipótese, observa-se que as instâncias ordinárias consideraram, em decisão motivada, a culpabilidade exacerbada (atuação em concurso de agentes), os maus antecedentes, a conduta social inadequada ("Trata-se de pessoa ligada ao submundo do tráfico e com alto nível de inserção criminosa, possuindo, também, laços estreitos com pessoas dedicadas ao mundo criminoso"), os motivos (pagamento de dívida com o tráfico) e as circunstâncias do delito (atividade criminosa intermunicipal, sob o uso de motocicleta e significativa quantidade de droga - 1.900 kg) - para elevar a pena-base em 6 anos de reclusão. Assim, tendo sido apresentados elementos idôneos para a majoração da reprimenda básica, sendo um deles inclusive elencado como circunstância preponderante (quantidade de droga), e levando-se em conta as penas mínima e máxima abstratamente cominadas ao delito de tráfico de drogas (5 a 15 anos), não se mostra desarrazoado o aumento operado pela instância ordinária, a autorizar a intervenção excepcional desta Corte.
+3. Agravo regimental não provido.
+(AgRg no HC n. 558.505/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/8/2020, DJe de 3/9/2020.)
+Dessa forma, não conheço do habeas corpus.
+É como voto.
