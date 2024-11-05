@@ -1,0 +1,10 @@
+DECISÃO
+TAINARA RODRIGUES DA FONSECA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 1.0000.24.316084-3/000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que, "no dia 29/08/2023, a paciente foi presa preventivamente pela prática, em tese, do delito previsto no art. 121, § 2º, I, c/c, art. 14, II; art. 163 e art. 148, § 1º, IV todos do Código Penal e art. 12 e 14 da Lei 10.826/03" (fl. 729).
+A defesa, perante a Corte de origem, " a duziu a ilegalidade de prisão, uma vez que resta configurado o excesso de prazo para a formação da culpa. Argumentou, ainda, cerceamento de defesa, uma vez que a autoridade coatora teria fornecido prazo inferior ao previsto em lei para a apresentação das alegações finais defensivas" (fl. 729).
+Em embargos de declaração, " d efendeu a suspensão da decisão que determinou o encerramento da instrução processual, haja vista que ainda persistem diligências a serem realizadas antes da apresentação das alegações finais" (fl. 762).
+Todavia, consoante oportunamente salientado pelo Parquet, "não há o que se falar em cerceamento de defesa tendo em vista o oferecimento da oportunidade da defesa se manifestar por nada menos que 11 vezes, sem que tenha atendido às solicitações do juízo. Como ressaltado anteriormente, a própria defesa está gerando a mora processual dentre outras coisas, por não se manifestar no prazo estabelecido, além de alegar imprescindibilidade de laudo pericial, quando já escoado o prazo para o oferecimento das suas alegações finais, com recusa a apresentá-las" (fls. 813-814, grifei).
+Além disso, "a alegação de excesso de prazo para o encerramento da instrução fica superada pela superveniência da sentença de pronúncia, nos termos do enunciado n. 21 da Súmula do Superior Tribunal de Justiça (HC n. 515.407/PE, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/10/2020, DJe 19/10/2020)" (AgRg no HC n. 742.338/PE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 20/10/2023.)
+À vista do exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
