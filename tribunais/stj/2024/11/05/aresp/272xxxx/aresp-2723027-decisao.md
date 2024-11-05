@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042, CPC/15), interposto por DAIANE VILLA REAL CORDENONSI, em face de decisão que inadmitiu o recurso especial da insurgente.
+O apelo extremo, manejado com amparo na alínea "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 117, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO INTERLOCUTÓRIA QUE NÃO ACOLHEU A IMPUGNAÇÃO AO PROSSEGUIMENTO DA EXECUÇÃO. RECURSO DOS EXECUTADOS PRETENSA SUSPENSÃO DA EXECUÇÃO. INVIABILIDADE. CAUSA SUSPENSIVA PREVISTA NA SENTENÇA DOS EMBARGOS À EXECUÇÃO QUE NÃO MAIS VIGORA, ANTE O DESCUMPRIMENTO DA OBRIGAÇÃO, CONSISTENTE NO DEPÓSITO EM JUÍZO DO VALOR DO SALDO DEVEDOR, POR PARTE DOS EMBARGANTES, O QUE ERA CONDIÇÃO PARA A ORDEM DE SUSPENSÃO DO FEITO EXECUTIVO. DECISÃO MANTIDA, NO PONTO. ALEGADO EXCESSO DE EXECUÇÃO. INOCORRÊNCIA. CÁLCULOS APRESENTADOS PELOS EXECUTADOS QUE NÃO CORRESPONDEM ÀS DIRETRIZES ESTABELECIDAS NA SENTENÇA TRANSITADA EM JULGADO DOS EMBARGOS À EXECUÇÃO. DECISUM MANTIDO, NA MATÉRIA. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial (fls. 132-142, e-STJ), a insurgente aponta que o Tribunal de origem deu interpretação divergente ao disposto no artigo 803, I e III do CPC, uma vez que há condição suspensiva de exigibilidade da obrigação, no sentido que apenas seria possível a execução da sentença pelos recorridos, após a quitação de todos os débitos no processo de nº 0001322-12.2013.8.24.0081.
+Em juízo de admissibilidade, o Tribunal a quo negou seguimento ao recurso especial (fls. 163-164, e-STJ), dando ensejo a interposição do presente agravo (fls. 178-190, e-STJ).
+Não foi apresentada contraminuta (fl. 211, e-STJ).
+Decido.
+A irresignação não merece prosperar.
+1. A insurgente aduz que o Tribunal de origem deu interpretação divergente ao disposto no artigo 803, I e III do CPC, uma vez que há condição suspensiva de exigibilidade da obrigação, no sentido que apenas seria possível a execução da sentença pelos recorridos, após a quitação de todos os débitos no processo de nº 0001322-12.2013.8.24.0081.
+A esse respeito, assim assentou o Tribunal de origem (fl. 116, e-STJ):
+Por derradeiro, a causa suspensiva prevista na sentença dos embargos à execução não mais vigora. Isso porque, de acordo com a sentença, a qual foi confirmada pelo Tribunal de Justiça em sede de recurso de apelação, exigia o depósito do valor devido pelos embargantes , o qual era a condição para a suspensão do feito executivo até a quitação de débitos da sociedade comercial em relação a ação n. 001322-12.2013.824.0081, que não foi realizado pelos embargados/exequentes até a presente data.  ..
+Como visto, em que pese a insurgência dos executados, o conjunto probatório dos autos revela, indubitavelmente, que a causa suspensiva prevista na sentença dos embargos à execução não mais vigora, tendo em vista o descumprimento, por parte dos agravantes (executados/embargantes), da obrigação, consistente no depósito em juízo do valor do saldo devedor apurado, que era condição da ordem de suspensão do feito executivo.
+Como se vê, diante do conteúdo fático-probatório constante dos autos, o órgão julgador concluiu pela ausência de condição suspensiva de exigibilidade da obrigação.
+Derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providências vedadas em sede de recurso especial, ante o óbice estabelecido pela Súmula 7 do STJ.
+Sendo que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA E RECONVENÇÃO JULGADAS IMPROCEDENTES. CONTRATO DE LICENÇA DE SOFTWARE. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. A revisão das conclusões estaduais demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático- probatório dos autos, providências inviáveis no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7/STJ.
+2. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido. (AgInt no AREsp 1377497/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/03/2019, DJe 28/03/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE NULIDADE POR OMISSÃO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. SÚMULA N. 284/STF. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Os embargos de declaração representam o meio adequado a sanar obscuridade, omissão ou contradição porventura existentes na decisão agravada. Não opostos os competentes embargos, a análise da pretensão de nulidade da decisão encontra o óbice contido na Súmula 284 do STF.
+2. Não cabe, em recurso especial, reexaminar matéria de fato (Súmula 7/STJ).
+3. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do artigo 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 1175224/MT, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/11/2018, DJe 13/11/2018)
+2. Ante o exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
