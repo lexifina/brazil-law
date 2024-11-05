@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de demonstração de vulneração dos arts. 17-A, § 2º e 35-G da Lei n. 9.656/1998, 104, 138, 166, 188 do CC/2002 e 373, I do CPC/2015 e da ausência de cotejo analítico entre os acórdãos confrontados (e-STJ fls. 266/257).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 214):
+APELAÇÃO PLANO DE SAÚDE Ação declaratória de inexistência de débito com obrigação de fazer. Rescisão de contrato de plano de saúde pela estipulante. Cobrança de prestações em decorrência da inobservância de cláusula contratual de aviso prévio. Pretensão com o objetivo de declarar a inexigibilidade e ilegalidade na cobrança de aviso prévio. Sentença de parcial procedência. Inconformismo da operadora ré. Rejeição. Previsão contratual com prazo de 60 (sessenta) dias de antecedência em caso de cancelamento do plano Cláusula que decorre do art. 17, parágrafo único, da RN/ANS 195/2009, declarado nulo na ação civil pública (Processo nº 0136265-83.2013.4.02.5101 do TRF da 2ª Região), com efeito erga omnes. Abusividade reconhecida Inviabilidade de cobrança de mensalidades posteriores ao aviso prévio, ante a declaração de nulidade do ato normativo que a embasava. Precedentes do TJSP e desta Câmara Decisão mantida NEGARAM PROVIMENTO AO RECURSO.
+Nas razões do recurso especial (e-STJ fls. 222/239), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais: arts. 17-A, § 2º e 35-G da Lei n. 9.656/1998, 104, 138, 166, 188 do CC/2002 e 373, I do CPC/2015.
+Insurge-se contra a conclusão da Corte local de que (e-STJ fl. 239):
+ ..  diante da inequívoca existência de cláusula contratual embasada no parágrafo único do art. 17 da Resolução Normativa n. 195/2009, prevendo que o cancelamento imotivado pela empresa estipulante só poderia ocorrer com no mínimo 60 (sessenta) dias de antecedência, torna-se imperioso o reconhecimento da nulidade da cláusula 23.1.1.4. e, consequentemente, a cobrança da mensalidade vencida durante o aviso prévio, uma vez que decorre de dispositivo declarado nulo pelo E. Tribunal Regional Federal da 2ª Região.
+Importante frisar que a decisão proferida na Ação Civil Pública nº 0136265-83.2013.4.02.5101 tem aplicabilidade nacional, por força do que foi decidido pelo Supremo Tribunal Federal no julgamento do Tema 1075 (RE 1.101.937/SP, Rel. Min. ALEXANDRE DE MORAES, julgado em 7/4/2021).
+A parte afirma:
+(i) afronta aos arts. 17-A, § 2º, e 35-G da Lei n. 9.656/1998, porque:
+a. a Lei 9.656/98, sendo que a última prevê, de forma expressa, a aplicação subsidiária do Código de Defesa do Consumidor, em seu artigo 35-G, o que certamente não foi considerado pelo v. acórdão e deve ser resgatado pela C. Corte (e-STJ fl. 230); e
+b.  o  artigo 17-A, §2º, deixa claro que no contrato de planos de saúde, é obrigatório conter em seu corpo, as condições para sua execução  ..  as disposições acerca da possibilidade e modo da rescisão estão claras na avença (e-STJ fl. 232); e
+c. verifica-se que o contrato entabulado entre as partes prevê a necessidade de prévia notificação escrita a ser enviada pela parte denunciante, com antecedência mínima de 60 (sessenta) dias, vide cláusula 23.1.1.4 do contrato (fls. 27-66), nos casos de rescisão imotivada (e-STJ fl. 234).
+(ii) violação dos arts. 104, 138, 166 e 188 do CC/2002, argumentando que:
+a. para a legislação pátria, o negócio jurídico para ter validade perante as partes e terceiro, deve ter agente capaz, objeto lícito, possível e determinado, e forma prescrita ou não proibida em lei  ..  se foram preenchidos tais requisitos, não podemos discutir sobre a validade do contrato (e-STJ fls. 230/231);
+b. qualquer nulidade somente pode ser declarada se infringido alguns dos incisos citados, conforme o próprio artigo 166 (e-STJ fl. 231); e
+a Ré, por força contratual deve atender a tudo que está previsto no instrumento e vice-versa, não podendo as partes se valerem do Poder Judiciário para se esquivarem de suas obrigações ou até mesmo ampliá-las indevidamente (e-STJ fl. 232).
+(iii) desrespeito ao art. 373, I, do CPC/2015, pois não há comprovação da inexigibilidade do débito em questão (e-STJ fl. 234).
+(iv) dissídio jurisprudencial "acerca da legitimidade da cobrança oriunda do aviso prévio (60 dias)" (e-STJ fl. 236).
+No agravo (e-STJ fls. 267/279), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 282/295).
+É o relatório.
+Decido.
+A controvérsia tem origem na pretensão do usuário que seja declarada a inexistência de débito de mensalidades no intervalo entre a data em que requereu o cancelamento do plano de saúde (14/07/2023) e a data em que o plano foi efetivamente cancelado, 60 (sessenta) dias depois, por força de cláusula contratual de aviso prévio.
+O Juízo de origem julgou "parcialmente procedente pedido para declarar a inexigibilidade da cobrança de mensalidades referentes aos meses de agosto e setembro de 2023" (e-STJ fls. 177). O Tribunal a quo manteve a sentença por seus próprios fundamentos.
+(I, II e III) Quanto à alegação de ofensa aos arts. 17-A, § 2º, e 35-G da Lei n. 9.656/1998, 104, 138, 166 e 188 do CC/2002 e 373, I, do CPC, não houve pronunciamento do Tribunal a quo sobre essas questões, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+(IV) Para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
