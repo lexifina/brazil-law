@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela FENAPRF E OUTROS contra decisão assim ementada (e-STJ fl. 1.034):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS E DAS TESES RECURSAIS. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões dos embargos, a parte sustenta que o recurso não foi apreciado nem julgado adequadamente, sendo este omisso e obscuro.
+Refere omissão quanto ao prequestionamento da matéria recorrida, pois o debate da matéria foi claramente realizado nas razões do cabimento do recurso especial.
+Aduz omissão quanto à violação do art. 5º do CPC, porquanto restou comprovada a ocorrência da preclusão consumativa.
+Ainda, afirma que a decisão foi omissa quanto ao dever de observância da boa-fé objetiva, considerando que " ..  a alegação tardia de pretensa nulidade realizada pela União, contraria a boa-fé, sendo conduta vedada pelo ordenamento jurídico e por essa razão, se faz necessário o reconhecimento dos vícios elencados para reforma da decisão" (fl. 1.055).
+Também, registra que houve omissão quanto à violação do art. 104 do CDC, visto que a providência constante no dispositivo foi adotada no caso em questão.
+Por fim, aponta omissão quanto ao dissídio jurisprudencial, já que não houve seu reconhecimento por ocasião do exame das razões do recurso, o que, evidentemente, está em desacordo com o entendimento jurisprudencial sobre a matéria.
+Pugna, assim, " ..  pelo conhecimento dos aclaratórios, porque tempestivos e cabíveis, bem como, pelo seu provimento, ao tempo em que, sanados os vícios elencados nesta peça e atribuídos efeitos infringentes" (fl. 1.061).
+Sem impugnação.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão ora embargada, ao analisar as questões relativas à ocorrência da preclusão consumativa, violação aos preceitos da boa-fé processual, suppressio e proibição de adoção de comportamento contraditório, bem como ao fato de que não se configurou o instituto da litispendência no caso dos autos, assentou que os artigos e as teses a eles vinculadas não foram apreciados pela Corte de origem, fazendo incidir a Súmula 211/STJ.
+A aplicação do referido óbice foi devidamente fundamentada, nos seguintes termos (fl. 1.036):
+ ..
+Na hipótese dos autos, evidencia-se que os artigos 5º do CPC/2015 e 104 do CDC e as teses a eles vinculadas não foram apreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+ ..
+No tocante à alegação de omissão quanto à comprovação do dissídio jurisprudencial, colhe-se da decisão embargada a seguinte fundamentação (fls. 1.036-1.037):
+ ..
+Ademais, segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt nos EDcl no AREsp 2.417.127/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 18/4/2024; AgInt no AREsp 1.550.618/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 11/4/2024; AgInt no REsp 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 14/12/2023; AgInt no AREsp 2.295.866/SC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/9/2023.
+ ..
+Logo, não se verifica na decisão embargada nenhuma situação que dê amparo ao recurso integrativo, estando evidente que a alegação de omissão/obscuridade se caracteriza, em verdade, como mero inconformismo e intuito de rediscutir a controvérsia, propósitos estes para os quais não se prestam os aclaratórios.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. Não constatada a presença de nenhum vício que justifique esclarecimento, complemento ou eventual integração do que foi decidido, a rejeição dos aclaratórios é medida que se impõe.
+3. A parte embargante defende que não seria o caso de análise de provas, visto que a própria ementa do acórdão do Tribunal de origem consignou que, de "acordo com o estatuto social da autora, devidamente registrado, a embargante tem como objeto social "a indústria, comércio, exportação de móveis e compensados, importação de matérias-primas, maquinaria, material secundário e tudo mais concernente à indústria do mobiliário em geral, agricultura e pecuária em todas as suas modalidades, bem como, participar em outras empresas, como meio de realizar o objeto social ou para beneficiar-se de incentivos fiscais" (evento 1, CONTRSOCIAL3, fls. 4-5)" (fls. 562/563).
+4. Entendimento diverso, conforme pretendido, implicaria necessariamente o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+5. A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os aclaratórios a esse fim.
+6. Os embargos de declaração não constituem instrumento adequado a rever entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de dispositivos constitucionais, mesmo que com vistas à interposição de recurso extraordinário.
+7. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp n. 2.093.035/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.) (Grifei).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA. BENEFÍCIO DA JUSTIÇA GRATUITA. ANTERIOR INDEFERIMENTO. NOVO PEDIDO. CONDIÇÃO FINANCEIRA. ALTERAÇÃO. DEMONSTRAÇÃO. AUSÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado pelo embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. "A jurisprudência deste Tribunal Superior firmou-se no sentido de que cabe ao requerente demonstrar a alteração de sua condição financeira para a obtenção da gratuidade da justiça quando o benefício não foi requerido perante as instâncias ordinárias, bem como nos casos em que a benesse tenha sido anteriormente indeferida, não bastando a mera declaração de hipossuficiência. (AgInt no REsp n. 1.951.005/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/12/2021, DJe de 15/12/2021.).
+4. No caso dos autos, o pleito foi indeferido no primeiro grau de jurisdição e não houve demonstração de que tenha havido alteração na situação financeira do embargante, sendo certo que a improcedência do pedido autoral, por si só, não justifica a concessão do benefício neste momento processual.
+5. Embargos de declaração rejeitados e pedido de concessão do benefício da justiça gratuita indeferido. (EDcl no AgInt no REsp n. 1.968.885/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.) (Grifei).
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
