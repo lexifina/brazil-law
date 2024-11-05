@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conceder parcialmente a ordem, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO. CAUSA DE AUMENTO DO REPOUSO NOTURNO. TEMA REPETITIVO N. 1087. NÃO INCIDÊNCIA. REVISÃO DA DOSIMETRIA. DETRAÇÃO. REINCIDÊNCIA E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. ORDEM PARCIALMENTE CONCEDIDA.
+I. Caso em exame
+1. Habeas corpus impetrado pela Defensoria Pública em favor de dois pacientes contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a causa de aumento de pena do repouso noturno e não aplicou a detração para fixação de regime aberto.
+2. Pretensão de afastamento da causa de aumento de pena prevista no art. 155, § 1º, do Código Penal, e fixação de regime inicial aberto para um dos pacientes, com base no art. 387, § 2º, do Código de Processo Penal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a causa de aumento do repouso noturno incide no furto qualificado e se a detração penal pode alterar o regime inicial de cumprimento de pena.
+III. Razões de decidir
+4. A Terceira Seção desta Corte firmou entendimento de que a causa de aumento do repouso noturno não incide no furto qualificado, conforme o Tema Repetitivo n. 1087.
+5. A detração penal não altera o regime inicial quando há reincidência e circunstâncias judiciais desfavoráveis, conforme art. 33, §§ 2º e 3º, do Código Penal. Precedentes.
+6. A ordem foi parcialmente concedida para redimensionar as penas, excluindo a causa de aumento do repouso noturno.
+7. Ordem parcialmente concedida. Refeita a dosimetria.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fl. 52):
+ ..  Trata-se de habeas corpus com pedido liminar impetrado pela Defensoria Pública em favor de ETTORE HENRIQUE PICCOLO e MARCOS DOS SANTOS RIBEIRO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação n. 1500255-87.2021.8.26.0537.
+Na hipótese, a impetrante aponta constrangimento ilegal na negativa de afastamento da causa de aumento de pena do repouso noturno, bem como não aplicação do instituto da detração para fins de fixação do regime aberto em relação ao paciente Ettore Henrique Piccolo, em razão da condenação como incursos no artigo 155, parágrafos 1º e 4º, incisos I e IV, c.c. o artigo 14, inciso II, ambos do Código Penal, respectivamente, às penas de 02 (dois) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, em regime semiaberto, e 10 (dez) dias-multa, de unidade no piso, e de 02 (dois) anos, 07 (sete) meses e 03 (três) dias de reclusão, em regime fechado, e 12 (doze) dias-multa, e se requer, em caráter liminar e no mérito, a concessão da ordem para " ..  afastar a causa de aumento de pena prevista no artigo 155, § 1º, do Código Penal e para fixar o regime inicial aberto para o paciente Ettore Henrique Piccolo, com fundamento no artigo 387, § 2º, do Código de Processo Penal." (fl. 9). ..
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO. CAUSA DE AUMENTO DO REPOUSO NOTURNO. TEMA REPETITIVO N. 1087. NÃO INCIDÊNCIA. REVISÃO DA DOSIMETRIA. DETRAÇÃO. REINCIDÊNCIA E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. ORDEM PARCIALMENTE CONCEDIDA.
+I. Caso em exame
+1. Habeas corpus impetrado pela Defensoria Pública em favor de dois pacientes contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a causa de aumento de pena do repouso noturno e não aplicou a detração para fixação de regime aberto.
+2. Pretensão de afastamento da causa de aumento de pena prevista no art. 155, § 1º, do Código Penal, e fixação de regime inicial aberto para um dos pacientes, com base no art. 387, § 2º, do Código de Processo Penal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a causa de aumento do repouso noturno incide no furto qualificado e se a detração penal pode alterar o regime inicial de cumprimento de pena.
+III. Razões de decidir
+4. A Terceira Seção desta Corte firmou entendimento de que a causa de aumento do repouso noturno não incide no furto qualificado, conforme o Tema Repetitivo n. 1087.
+5. A detração penal não altera o regime inicial quando há reincidência e circunstâncias judiciais desfavoráveis, conforme art. 33, §§ 2º e 3º, do Código Penal. Precedentes.
+6. A ordem foi parcialmente concedida para redimensionar as penas, excluindo a causa de aumento do repouso noturno.
+7. Ordem parcialmente concedida. Refeita a dosimetria.
+VOTO
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício.
+"Diante da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de ser inadmissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de que não se desvirtue a finalidade dessa garantia constitucional, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade" (HC n. 602.425/SC, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 10/3/2021, DJe de 6/4/2021.)
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Inviável, portanto, o conhecimento do writ em análise, porquanto manejado como substitutivo de recurso próprio. Todavia, in casu, cabe conceder a ordem de ofício diante da existência de ilegalidade do ato impugnado.
+Acerca das pretensões aqui trazidas, extrai-se do aresto impugnado (e-STJ, fls. 48-49):
+ ..  Na terceira etapa, em relação aos dois sentenciados, os castigos foram elevados de um terço, por conta da causa de aumento do repouso noturno, e, finalmente, restaram reduzidos de um terço, em virtude da tentativa, o que está adequado, levando-se em conta o significativo iter criminis percorrido, como bem justificado em primeiro grau. Assim, em relação a MAURO, as sanções concretizaram-se em dois anos, sete meses e três dias de reclusão e doze dias-multa, de unidade mínima, e, no tocante a ETTORE, dois anos, dois meses e vinte dias de reclusão e dez dias-multa, de valor unitário no piso, montantes que restam preservados.
+Diante dos maus antecedentes dos acusados e, inclusive, da reincidência específica de MAURO, o regime prisional semiaberto para ETTORE e o fechado para MAURO devem ser mantidos, não havendo se cogitar de abrandamento, observando-se que a eventual aplicação do disposto no artigo 387, § 2º, do Código de Processo Penal, deverá ser apreciada pelo juízo da execução, que detém informações aptas a embasar decisão segura a respeito da real situação carcerária dos recorrentes. ..
+Como vista da transcrição acima, no último estágio da dosimetria, aplicou-se a causa de aumento do repouso noturno, o que vai de encontro ao entendimento desta Corte, pois, no julgamento do Tema Repetitivo n. 1087, assim consignou a Terceira Seção:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. DIREITO PENAL. FURTO. PRECEDENTE JUDICIAL VINCULATÓRIO. REEXAME DE ORIENTAÇÃO JURISPRUDENCIAL. NECESSIDADE. HERMENÊUTICA JURÍDICA. NÃO INCIDÊNCIA DA MAJORANTE DO REPOUSO NOTURNO NO FURTO QUALIFICADO. AUMENTO DE PENA EM RAZÃO DE FURTO COMETIDO DURANTE O REPOUSO NOTURNO. DESPROPORCIONALIDADE.
+1. Na formulação de precedente judicial, sobretudo diante de sua carga vinculatória, as orientações jurisprudenciais, ainda que reiteradas, devem ser reexaminadas para que se mantenham ou se adéquem à possibilidade de evolução de entendimento.
+2. A interpretação sistemática pelo viés topográfico revela que a causa de aumento de pena relativa ao cometimento do crime de furto durante o repouso noturno, prevista no art. 155, § 1º, do CP, não incide nas hipóteses de furto qualificado, previstas no art. 155, § 4º, do CP.
+3. A pena decorrente da incidência da causa de aumento relativa ao furto noturno nas hipóteses de furto qualificado resulta em quantitativo que não guarda correlação com a gravidade do crime cometido e, por conseguinte, com o princípio da proporcionalidade.
+4. Tese jurídica: A causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º).
+5. Recurso especial parcialmente provido.
+(REsp n. 1.891.007/RJ, relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 25/5/2022, DJe de 27/6/2022.)
+Deve-se, assim, ser excluída a causa em apreço, redimensionando a dosimetria dos réus, ora pacientes (e-STJ, fls. 48-49).
+Fixada a basilar de ambos os pacientes em 2 anos e 6 meses de reclusão, e 12 dias-multa, para MARCOS, incidiu a agravante da reincidência, perfazendo sua pena provisória, 2 anos e 11 meses de reclusão, além de 14 dias-multa.
+Aqui excluída, no último estágio da dosimetria, a causa de aumento do repouso noturno, e reduzida a sanção em 1/3, em decorrência da forma tentada, totaliza a reprimenda final de ETTORE, 1 ano e 8 meses de reclusão, e 8 dias-multa, e a de MARCOS, 1 ano, 11 meses e 10 dias de reclusão, e 9 dias-multa.
+Por fim, como bem observado pelo Ministério Público Federal, "constata-se a irrelevância da detração do período de prisão provisória admitida pelo art. 387, § 2º, do Código de Processo Penal, diante da presença de circunstâncias judiciais desfavoráveis aos réus (maus antecedentes e maior culpabilidade, em razão da qualificadora remanescente), que fundamentam a fixação de regime prisional mais gravoso de que o previsto para a quantidade de pena aplicada, consoante a inteligência do art. 33, §§ 2º, "b" e 3º, do Código Penal" (e-STJ, fl. 73).
+"Hipótese na qual o regime prisional fechado foi imposto ao ora agravante em razão da reincidência e das vetoriais desabonadoras, e não em decorrência do quantum da pena aplicada, o que impõe reconhecer que a detração penal não importaria em nenhum benefício para o paciente." (AgRg no HC n. 737.649/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/10/2022, DJe de 4/11/2022).
+Dessa forma, concedo em parte o habeas corpus  a ETTORE HENRIQUE PICCOLO e MARCOS DOS SANTOS RIBEIRO para redimensionar suas penas definitivas nos totais de 1 ano e 8 meses de reclusão, e 8 dias-multa, e 1 ano, 11 meses e 10 dias de reclusão, e 9 dias-multa, respectivamente, nos termos da fundamentação acima, mantendo-se, no mais, o acórdão condenatório.
+É como voto.
