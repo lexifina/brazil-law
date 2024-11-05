@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, denegar a ordem.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL E VEICULAR. FUNDADAS RAZÕES PARA A ABORDAGEM. FLAGRANTE DELITO. INEXISTÊNCIA DE ILEGALIDADE. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Marcelo Zacarias dos Santos Junior, condenado à pena de 7 anos de reclusão em regime fechado e 700 dias-multa, por infração ao art. 33, caput, da Lei 11.343/2006. A defesa alega nulidade da busca pessoal/veicular realizada pela polícia, sustentando que não havia fundada suspeita que justificasse a abordagem e, por consequência, as provas derivadas da referida busca são ilícitas.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão central consiste em verificar se a busca pessoal estava amparada por fundadas razões que configurassem justa causa, conforme o disposto no art. 244 do Código de Processo Penal, ou se houve violação aos direitos constitucionais do paciente, tornando as provas colhidas ilícitas.
+III. RAZÕES DE DECIDIR
+3. O Supremo Tribunal Federal, no julgamento do RE 603.616/RO (Tema 280), e o Superior Tribunal de Justiça, de forma reiterada, afirmam que a busca veicular é válida quando há fundada suspeita de que o veículo está sendo utilizado para a prática de crime, especialmente em situações de flagrante delito.
+4. No caso concreto, os policiais relataram que a atitude suspeita do paciente  ao avistar a viatura, esconder algo, fechar o vidro do carro e mudar o sentido de direção  justificou a abordagem. A posterior desobediência às ordens de parada e a subsequente apreensão de grande quantidade de entorpecentes corroboraram a legitimidade da ação policial.
+5. A jurisprudência desta Corte é pacífica ao reconhecer a validade da busca veicular quando há elementos objetivos que indiquem a ocorrência de crime, especialmente em situações de flagrante, como o tráfico de drogas, que é um crime permanente. Não houve abuso de poder ou ilegalidade na atuação policial.
+6. A revisão das conclus ões fáticas apresentadas pelo Tribunal de origem demandaria dilação probatória, o que é inviável na via estreita do habeas corpus.
+IV. HABEAS CORPUS DENEGADO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fl. 419, e-STJ:
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARCELO ZACARIAS DOS SANTOS JUNIOR em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 1501342-47.2022.8.26.0536).
+O paciente foi condenado à pena de 7 anos de reclusão em regime fechado, além do pagamento de 700 dias-multa, por infração ao art. 33, caput, da Lei 11.343/2006.
+O recurso de apelação interposto pela defesa foi desprovido pelo Tribunal de origem.
+A defesa alega: a) "absolutamente nula a busca e apreensão realizada, pois ausente fundada suspeita para tanto, vez que amparada em elementos inidôneos" (e-STJ fl. 4); b) "presente ação mandamental está concentrada tão só no exame dos parâmetros subjetivos utilizados pelos policiais militares que lhes convenceram de haver "fundada suspeita" para legitimar a abordagem do paciente" (e-STJ fl. 8); c) "no caso concreto que não havia justa causa para a busca realizada, tornando-a ilícita e maculando todas as provas dela derivadas, esvaziando-se a acusação" (e-STJ fl. 11); d) "vícios apontados e demonstrados com robustez na impetração (nulidade da busca veicular realizada pela polícia, à míngua de fundada suspeita) são gravíssimos" (e-STJ fl. 12); e e) "periculum in mora, configura-se no fato de Marcelo Zacarias dos Santos Junior se encontrar preso preventivamente e condenado provisoriamente, tudo por força de prova nula, amealhada contrariamente às regras do jogo" (e-STJ fls. 12-13).
+Requer liminar para revogar prisão cautelar e, definitivamente, deferimento da ordem para anular as provas obtidas em razão de busca pessoal e absolver o paciente.
+A defesa alega, em síntese, o emprego de meio de prova ilícito.
+Requer a concessão da ordem para obter a declaração de nulidade da prova impugnada.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL E VEICULAR. FUNDADAS RAZÕES PARA A ABORDAGEM. FLAGRANTE DELITO. INEXISTÊNCIA DE ILEGALIDADE. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Marcelo Zacarias dos Santos Junior, condenado à pena de 7 anos de reclusão em regime fechado e 700 dias-multa, por infração ao art. 33, caput, da Lei 11.343/2006. A defesa alega nulidade da busca pessoal/veicular realizada pela polícia, sustentando que não havia fundada suspeita que justificasse a abordagem e, por consequência, as provas derivadas da referida busca são ilícitas.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão central consiste em verificar se a busca pessoal estava amparada por fundadas razões que configurassem justa causa, conforme o disposto no art. 244 do Código de Processo Penal, ou se houve violação aos direitos constitucionais do paciente, tornando as provas colhidas ilícitas.
+III. RAZÕES DE DECIDIR
+3. O Supremo Tribunal Federal, no julgamento do RE 603.616/RO (Tema 280), e o Superior Tribunal de Justiça, de forma reiterada, afirmam que a busca veicular é válida quando há fundada suspeita de que o veículo está sendo utilizado para a prática de crime, especialmente em situações de flagrante delito.
+4. No caso concreto, os policiais relataram que a atitude suspeita do paciente  ao avistar a viatura, esconder algo, fechar o vidro do carro e mudar o sentido de direção  justificou a abordagem. A posterior desobediência às ordens de parada e a subsequente apreensão de grande quantidade de entorpecentes corroboraram a legitimidade da ação policial.
+5. A jurisprudência desta Corte é pacífica ao reconhecer a validade da busca veicular quando há elementos objetivos que indiquem a ocorrência de crime, especialmente em situações de flagrante, como o tráfico de drogas, que é um crime permanente. Não houve abuso de poder ou ilegalidade na atuação policial.
+6. A revisão das conclus ões fáticas apresentadas pelo Tribunal de origem demandaria dilação probatória, o que é inviável na via estreita do habeas corpus.
+IV. HABEAS CORPUS DENEGADO.
+VOTO
+A Constituição Federal elenca como uma das garantias dos indivíduos a inviolabilidade da intimidade e da vida privada (art. 5º, X, CF/1988). Essa garantia, no entanto, pode sofrer restrições em determinadas hipóteses, como, por exemplo, a realização da busca pessoal (BADARÓ, Gustavo. Processo penal  livro eletrônico . 9 ed., São Paulo: Thomson Reuters Brasil, 2023, p. 1.091).
+É assente na Quinta Turma deste Tribunal que "Ressalvadas as hipóteses em que o automóvel é utilizado para fins de habitação, equipara-se a busca veicular à busca pessoal, sem exigência de mandado judicial, sendo suficiente a presença de fundada suspeita de crime" ( AgRg no HC 913.154/CE, Relator Ministro Ribeiro Dantas, Quinta Turma, j. em 26/08/2024, DJe 30/08/2024).
+Por ausência de disposição constitucional e legal específica acerca do tema, aplica-se à busca veicular os mesmos ditames de garantia da busca pessoal. Ou seja: "Como é de conhecimento, nos termos do art. 240, §2º, e art. 244, ambos do CPP, a busca pessoal ou veicular será válida quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito." ( AgRg no HC 917.273/SP, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, j. em 19/08/2024, DJe 22/08/2024).
+Nesse sentido, a jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar: " N ão satisfazem a exigência legal, por si sós  para a realização de busca pessoal/veicular , meras informações de fonte não identificada (e. g. denúncias anônimas) ou intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta, apoiadas, por exemplo, exclusivamente, no tirocínio policial. Ante a ausência de descrição concreta e precisa, pautada em elementos objetivos, a classificação subjetiva de determinada atitude ou aparência como suspeita, ou de certa reação ou expressão corporal como nervosa, não preenche o standard probatório de "fundada suspeita" exigido pelo art. 244 do CPP" (RHC n. 158.580/BA, Relator Ministro Rogério Schietti Cruz, Sexta Turma, j. em 19/4/2022, DJe 25/4/2022) - grifos acrescidos.
+Por fim, cumpre ressaltar que o direito penal e o processo penal, enquanto instrumentos legais dotados de racionalidade, possuem como principal função, num Estado Democrático, a contenção do poder punitivo do Estado, pois a legitimidade deste poder está condicionada ao seu exercício controlado, à luz do arcabouço normativo (regras e princípios) de tais Diplomas. Nesse sentido, não é demais relembrar as lições de Luigi Ferrajoli, a partir de Ana Cláudia Pinho e Fernando da Silva Albuquerque:
+ ..  Ferrajoli demonstra que a tutela dos direitos fundamentais somente poderá ser efetivada a partir da minimização do exercício do poder, evitando-se o arbítrio (com a adoção de regras racionais de limitação e controle), e da maximização das garantias e liberdades individuais. Para tanto, propõe como critério metodológico o uso irrenunciável da razão nos sentidos epistemológico, axiológico e normativo  .. ". ALBUQUERQUE, Fernando da Silva; PINHO, Ana Cláudia Bastos. Precisamos falar cobre garantismo: limites e resistência ao poder de punir. Empório do direito, p. 38. "
+Esta Corte Superior, "por ocasião do julgamento do RHC n. 158.580/BA (rel. Min. Rogerio Schietti, 6ª T, DJe 25/4/2022), propôs criteriosa análise sobre a realização de buscas pessoais. Conforme o referido julgado, "o art. 244 do CPP não autoriza buscas pessoais praticadas como "rotina" ou "praxe" do policiamento ostensivo, com finalidade preventiva e motivação exploratória, mas apenas buscas pessoais com finalidade probatória e motivação correlata" (HC n. 852.356/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 7/11/2023, DJe de 16/11/2023).
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL. AUSÊNCIA DE FUNDADA SUSPEITA. ILICITUDE DA PROVA. TRANCAMENTO DA AÇÃO PENAL DEVIDO. RECURSO NÃO PROVIDO.
+1. De acordo com o art. 244 do Código de Processo Penal, a busca pessoal poderá ser realizada, independente de mandado judicial, nas hipóteses de prisão em flagrante ou quando houver suspeita de que o agente esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+2. No caso, não houve a indicação de qualquer atitude suspeita de estar o réu na posse de material objeto de ilícito ou na prática de algum crime. Logo, é ilegal a busca pessoal realizada sem fundadas razões, e, por conseguinte, toda a prova recolhida em consequência dessa medida arbitrária.
+3. Recurso não provido.
+(AgRg no HC n. 884.607/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+No caso, a Corte de origem tratou da temática da busca pessoal com base nos seguintes argumentos:
+A preliminar não comporta acolhida.
+O ponto já havia sido abordado em sentença nos seguintes termos:
+"Preliminarmente, observo a inexistência de nulidade na busca veicular, dada a fundada suspeita ensejada pela conduta do acusado, que, ao avistar a viatura policial, escondeu algo, fechou o vidro e mudou o sentido de direção, ignorando, em seguida, as ordens de parada emitidas pelos policiais militares."
+Pois bem, em suma, no caso dos autos, os policiais descreveram o cenário que levantou a fundada suspeita, tanto no que diz respeito ao local em que se deram os fatos, tanto em relação à conduta adotada pelo acusado.
+O quadro impunha a imediata atuação da polícia e vê-se que os agentes agiram com sábia percepção, tanto que houve a apreensão de enorme quantidade de entorpecentes.
+Em outras palavras, diante de toda a situação ficou justificada abordagem inicial e a revista veicular.
+Da ação não se extrai qualquer irregularidade ou abuso de poder, ao contrário, é que se espera de uma atuação diligente e empenhada.
+Legítima, portanto, a atuação dos agentes, bem como as provas através dela obtidas.
+A análise realizada encontra-se em linha com a jurisprudência desta Corte acerca da validade da diligência.
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA VEICULAR E DOMICILIAR. FUNDADAS RAZÕES PARA A ABORDAGEM. INGRESSO FACULTADO PELO AGRAVANTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O caso apresentado nestes autos traz elementos que tornam válida a ação policial, pois o agravante mudou bruscamente de direção ao perceber a presença da guarnição policial na rodovia pela qual trafegava. Em seguida, desobedeceu a ordem de parada e quando a abordagem finalmente aconteceu, foram encontradas duas munições no interior do veículo. O agravante conduziu os policiais até seu estabelecimento comercial, onde foram encontrados vinte e cinco tijolos de cocaína, totalizando 26,4kg de entorpecente.
+2. Assim, não há vício a ser reconhecido, tendo em vista que as ações não foram arbitrárias nem tiveram como justificativa o mero tirocínio dos policiais, mas decorreram de coleta progressiva de elementos que levaram, de forma válida, à conclusão segura de ocorrência de crime permanente, justificando a incursão para a realização da prisão em flagrante.
+3. Agravo regimental não provido.
+(AgRg no HC n. 904.414/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Alterar o quadro formado no Tribunal de origem demanda inviável dilação probatória em sede de habeas corpus.
+Pelo exposto, denego a ordem de habeas corpus pleiteada.
+É o voto.
