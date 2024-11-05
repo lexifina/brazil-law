@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de petição de f. 407-408, apresentada pela UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO, na qual requer a suspensão do presente feito e a devolução dos autos ao Tribunal de origem, a fim de aguardar o julgamento de matéria submetida ao rito da repercussão geral.
+Com razão a parte requerente.
+A questão tratada nos autos quanto à "possibilidade de, em decorrência da autotutela administrativa, efetivar-se a supressão de vantagem pessoal, de trato sucessivo, incorporada por erro da Administração aos proventos de servidora pública há mais de cinco anos" foi afetada pelo Supremo Tribunal Federal ao rito da repercussão geral (RE n. 1.419.890-RG - Tema n. 1.276).
+Consoante a jurisprudência desta Corte, o reconhecimento da repercussão geral da matéria constitucional, nos termos do art. 1.036 do CPC/2015, justifica o sobrestamento dos recursos especiais, na instância ordinária, que tragam em seu bojo a mesma questão jurídica a ser definida pelo STF.
+Assim, a Corte de origem pode declarar prejudicados os recursos que se oponham a acórdão que se conforma com o decidido pelo STF ou se retratar. Veja-se: REsp n. 1.486.671/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2014; AgRg no REsp n. 1.467.551/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 9/9/2014.
+Nesse contexto, os autos devem retornar ao Tribunal de origem para que o recurso fique sobrestado até o exercício do juízo de conformação do órgão julgador com a tese do STF.
+Ante o exposto, julgo prejudicada a análise do recurso e determino a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido pelo Supremo Tribunal Federal: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a tese definida pelo STF; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema (arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015).
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. TEMA N. 1.276/STF. SOBRESTAMENTO DO RECURSO ATÉ O EXERCÍCIO DO JUÍZO DE CONFORMAÇÃO. DEVOLUÇÃO DOS AUTOS.
