@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 1.678):
+APELOS CÍVEIS. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. DEMANDA JULGADA PROCEDENTE. INSURGÊNCIA. PRELIMINARES: SENTENÇA . EXTRA PETITA VÍCIO VERIFICADO. MAGISTRADO QUE JULGOU O FEITO DE FORMA DISSOCIADA AO PEDIDO INICIAL. NULIDADE DECLARADA. TODAVIA, DESNECESSIDADE DE REABERTURA DA INSTRUÇÃO PROBATÓRIA. APLICAÇÃO DA TEORIA DA CAUSA MADURA. ATAQUE AO PRINCÍPIO DA DIALETICIDADE. NÃO VERIFICADO. MERA REPRODUÇÃO DE PEÇA ANTERIOR QUE NÃO OBSTA O CONHECIMENTO DO RECURSO. INTELIGÊNCIA DO C. STJ. INÉPCIA DA INICIAL. AFASTADA. ILEGITIMIDADE PASSIVA DO PATROCINADOR. RECONHECIMENTO. EXEGESE EMANADA PELO C. STJ, NO RESP Nº LEADING CASE 1.370.191/RJ. PRESCRIÇÃO. AFASTADA. RELAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO DAS PARCELAS ANTERIORES AO QUINQUÊNIO DA AÇÃO. MÉRITO. PREVIDÊNCIA PRIVADA FECHADA. FUNBEP. HORAS EXTRAS E DEMAIS VERBAS SALARIAIS RECONHECIDAS EM AÇÃO TRABALHISTA. PRETENSÃO DE INCLUSÃO NO CÁLCULO DA APOSENTADORIA. POSSIBILIDADE. TEMA 955/STJ. TEMA 1021/STJ. MODULAÇÃO DOS TEMAS CITADOS. DEMANDA AJUIZADA ANTES DA DECISÃO PROFERIA NO RESP 1.312.736/RS. VERBAS QUE REFLETEM EM SALÁRIO DO BENEFÍCIO. FORMAÇÃO PRÉVIA DE RESERVA MATEMÁTICA. DESNECESSIDADE PARA O RECONHECIMENTO DO DIREITO À REVISÃO. ESTABELECIMENTO DA RESERVA EM MOMENTO POSTERIOR. APURAÇÃO POR MEIO DE ESTUDO TÉCNICO ATUARIAL A SER REALIZADO EM SEDE DE LIQUIDAÇÃO DE SENTENÇA. APORTES QUE DEVEM SER REALIZADOS PELO PATROCINADOR E PELA PARTICIPANTE. POSSIBILIDADE DE COMPENSAÇÃO DAS VERBAS A SEREM RECEBIDAS PELA AUTORA COM AS QUE DEVEM SER PAGAS À ENTIDADE PREVIDENCIÁRIA. ÔNUS SUCUMBENCIAIS FIXADOS. HONORÁRIOS REC URSAIS. INAPLICABILIDADE . IN CASU APELO1 (ITAÚ E FUNBEP) CONHECIDO E PARCIALMENTE PROVIDO. APELO2 (BENEFICIÁRIO) CONHECIDO E PROVIDO.
+Os embargos de declaração foram acolhidos, com efeitos infringentes, nos termos da ementa a seguir (e-STJ fl. 1.727):
+DOIS EMBARGOS DE DECLARAÇÃO. AÇÃO PREVIDENCIÁRIA. INSURGÊNCIA. ILEGITIMIDADE DO PATROCINADOR. MERA REDISCUSSÃO DA MATÉRIA FÁTICA. IMPOSSIBILIDADE. CONDENAÇÃO DO PATROCINADOR. CONTRADIÇÃO VERIFICADA. ESCLARECIMENTOS DEVIDOS. PERÍCIA TÉCNICA. AUSÊNCIA DE VÍCIOS. EMBARGOS DE DECLARAÇÃO1 (BENEFICIÁRIO) CONHECIDOS E PARCIALMENTE ACOLHIDOS. EMBARGOS DE DECLARAÇÃO2 (FUNBEP) CONHECIDOS E ACOLHIDOS, COM CONCESSÃO DE EFEITOS INFRINGENTES.
+Os segundos aclaratórios opostos pelo recorrente foram rejeitados (e-STJ fls. 1.787/1.793).
+Em suas razões (e-STJ fls. 1.798/.1813), a parte recorrente aponta dissídio jurisprudencial e violação do art. 927, III, do CPC, sustentando a legitimidade do BANCO ITAÚ UNIBANCO para figurar na lide, "pois assentando-se a causa de pedir justamente na conduta ilícita praticada pelo patrocinador, ele deve fazer parte do polo passivo da presente ação, a teor do decidido no item II, do Tema 936" (e-STJ fl. 1.813).
+Contrarrazões apresentadas (e-STJ fls. 1.821/1.827).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+No que diz respeito à alegada afronta ao art. 927, III, do CPC, o conteúdo normativo de tal dispositivo não foi apreciado pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do CPC, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Ademais, o entendimento do Tribunal de origem não pode ser desconstituído apenas com base no dispositivo citado, porque a norma em referência nada dispõe a respeito da tese de legitimidade passiva do patrocinador.
+Dessa forma, está caracterizada a deficiência na fundamentação recursal, a teor da Súmula n. 284/STF.
+Por sua vez, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas.
+Contudo, a parte não indicou o artigo de lei a que teria sido conferida a suposta interpretação dissonante.
+Também quanto à divergência jurisprudencial, incide a Súmula n. 284/STF.
+Por fim, cumpre salientar que a Suprema Corte, ao examinar a competência da Justiça do Trabalho ou da Justiça comum para processar e julgar ação trabalhista ajuizada contra o empregador, na qual se pretenda o reconhecimento de verbas de natureza trabalhista e seus reflexos em contribuições previdenciárias para a entidade de previdência privada a ele vinculada, fixou, em repercussão geral, a seguinte tese (Tema n. 1.166/STF): "Compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para entidade de previdência privada a ele vinculada."
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO - DECISÃO MONOCRÁTICA RECONHECENDO A INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA COMUM. INSURGÊNCIA DA DEMANDADA.
+(..)
+3. Julgado da Segunda Seção desta Corte Superior no sentido da competência do Juízo do Trabalho para conhecer do pedido inicialmente, decidindo-o nos limites da sua jurisdição.
+4. Aplicação da tese firmada pelo STF no sentido de que "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada" (Tema 1.166 - RE 1.265.564-SC).
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.136.653/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. HORAS EXTRAS. 1. OFENSA AO ART. 489 DO CPC/2015 NÃO CONFIGURADA. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. PRETENSÃO DE INCLUSÃO DE VERBAS RECONHECIDAS PELA JUSTIÇA TRABALHISTA APÓS A CONCESSÃO DO BENEFÍCIO. INEXISTÊNCIA DE LEGITIMIDADE PASSIVA DO PATROCINADOR. PEDIDO PREJUDICADO NESSE PONTO. INCIDÊNCIA DA SÚMULA 83/STJ. 4. PRESCRIÇÃO QUINQUENAL. PRECEDENTES. 5. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. Em relação à legitimidade do Banco do Brasil S.A., esta Corte Superior possui entendimento no sentido de que, em ação na qual se busca a revisão do valor da complementação de aposentadoria (previdência privada), em decorrência do reconhecimento do direito a verbas na Justiça trabalhista, o patrocinador (ex-empregador) é parte ilegítima para figurar no polo passivo da demanda, porquanto seu interesse é meramente econômico, e não jurídico.
+3.1. Além disso, na hipótese, impende pontuar que a Justiça comum não é competente para apreciar o pedido de recompensação da reserva matemática apresentado contra o ex-empregador. Esse é o entendimento firmado pelo Supremo Tribunal Federal no julgamento do RE n. 1.265.564/SC, sob o rito dos recursos repetitivos - Tema n. 1.166/STF.
+3.2. Ademais, a Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.778.938/SP - Tema n. 1.021/STJ, ampliando o entendimento firmado no REsp n. 1.312.736/RS, apontou de forma expressa, na modulação de efeitos, que a recomposição prévia deve ser realizada integralmente pelo participante.
+(..)
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.924.345/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+Correta, portanto, a exclusão do patrocinador da lide.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
+ EMENTA
