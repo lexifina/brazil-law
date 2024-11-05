@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 515/521) opostos à decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial (e-STJ fls. 509/512).
+A parte embargante sustenta que, "no Recurso Especial, o Embargante evidenciou que esta discussão gira em torno da inexistência de indicação da URL específica dos conteúdos (publicações e comentários) havidos por ilícitos e sobre os quais o Tribunal a quo determinou a indisponibilidade na plataforma do FACEBOOK" (e-STJ fl. 516).
+Segundo afirma, ficou "incontroverso nos autos e constou expressamente do próprio trecho do acórdão recorrido citado pela r. decisão embargada que o Embargado indicou nos autos apenas URLs genéricas do perfil (página) do usuário que os postou (corréu). Ele deixou de trazer aos autos as URLs específicas dos conteúdos discutidos" (e-STJ fl. 516).
+Impugnação não apresentada (e-STJ fls. 528).
+É o relatório.
+Decido.
+Os embargos merecem ser acolhidos.
+A jurisprudência da Segunda Seção do STJ é firme no sentido de que "os provedores de pesquisa virtual não podem ser obrigados a eliminar do seu sistema os resultados derivados da busca de determinado termo ou expressão, tampouco os resultados que apontem para uma foto ou texto específico, independentemente da indicação do URL da página onde este estiver inserido" (Rcl n. 5.072/AC, Relatora para acórdão Ministra Nancy Andrighi, Segunda Seção, julgado em 11/12/2013, DJe de 4/6/2014). A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DAS AUTORAS.
+1. Nos termos da jurisprudência deste Superior Tribunal de Justiça, não é possível imputar ao provedor de pesquisa a obrigação de controle prévio de conteúdo e também a sua remoção sem indicação específica (URL). Precedentes. Incidência da Súmula 83 do STJ.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.259.288/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIDADE CIVIL. DANOS À IMAGEM E À HONRA. DISPONIBILIZAÇÃO DE INFORMAÇÕES QUE VINCULA O NOME DOS AUTOR A PREDICATIVOS QUE DEPRECIAM A SUA HONRA. REMOÇÃO DE CONTEÚDO. FORNECIMENTO DE ENDEREÇO ESPECÍFICO. NECESSIDADE. PRECEDENTES DA CORTE.
+1. Esta Corte orienta que não é possível imputar ao provedor de pesquisa a obrigação de controle prévio de conteúdo e também a sua remoção sem indicação específica (URL).
+2. Agravo interno a que se nega provimento. (AgInt no AREsp n. 931.341/SP, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+Nesse contexto, "não fornecidos os URLs indispensáveis à localização do conteúdo ofensivo a ser excluído, configura-se a impossibilidade fático-material de se cumprir a ordem judicial, devendo ser afastada a multa cominatória" (AgInt no REsp n. 1.504.921/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021).
+Na hipótese, o TJSP reconheceu que (e-STJ fl. 438):
+Diante da indicação do perfil da rede social onde se encontra as postagens supostamente ofensivas, o embargante tem plena capacidade e possibilidade para realizar a remoção dos conteúdos.
+O link indicado na decisão agravada é suficiente para que o embargante satisfaça a tutela provisória, nos termos do art. 19 do Marco Civil da Internet. Houve identificação inequívoca dos endereços eletrônicos onde se pode localizar as postagens a serem removidas. (grifou-se)
+No caso, entretanto, foram indicadas apenas as URLs genéricas do perfil do ofensor, sem qualquer referência específica às URLs dos conteúdos considerados violadores, o que, nos termos da jurisprudência desta Corte, impossibilita o cumprimento da ordem judicial, pois "é necessária a "indicação clara e específica do localizador URL do conteúdo infringente para a validade de comando judicial que ordene sua remoção da internet. O fornecimento do URL é obrigação do requerente" (REsp 1.698.647/SP, Rel. Min. NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 15/2/2018)" (AgInt no REsp n. 1.683.656/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 19/9/2019, DJe de 24/9/2019).
+Diante do exposto, ACOLHO os embargos de declaração para RECONSIDERAR a decisão de fls. 509/512 (e-STJ), CONHECER do agravo e DAR PROVIMENTO ao recurso especial, estabelecendo que a ordem de remoção somente será válida após a devida indicação das URLs específicas dos conteúdos considerados violadores.
+Publique-se e intimem-se.
+EMENTA
