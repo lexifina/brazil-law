@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado e-STJ, fl. 348):
+COMPRA E VENDA DE IMÓVEL. Rescisão contratual cumulada com restituição de valores. Desistência dos compradores. Sentença de procedência, autorizando a retenção de 10% dos valores pagos. Insurgência das rés. Abusividade da cláusula contratual que previu perda significativa dos valores pagos e mais outros incertos no caso de resolução. Retenção de 15% dos valores pagos pela parte autora, a título de indenização pelas perdas e danos experimentados pela ré, que se ajusta ao caso. Arras confirmatórias e não penitenciais que compunham o preço do bem e não podem ser retidas. Indenização de fruição indevida. Lote de terreno adquirido sem edificação que possibilitasse efetiva ocupação pelo comprador, ressalvado o muro divisório cujo valor indenizatório ora impugnado deverá ser mantido. Sucumbência majoritária da parte ré. Incidência do art. 86, par. único, do CPC. Recurso parcialmente provido.
+Em razões de recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, a recorrente alega violação aos arts. 389, 402, 403, 404, 405, 475 e 884 do Código Civil, bem como divergência jurisprudencial.
+Sustenta, em síntese, que a utilização do imóvel objeto do contrato de promessa de compra e venda enseja o pagamento de taxa de ocupação pelo tempo de permanência, mesmo que o contrato tenha sido rescindido por inadimplemento da vendedora, o que, todavia, não foi reconhecido pela Corte local.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, a parte recorrente sustenta que o Tribunal local teria se desviado do entendimento do Superior Tribunal de Justiça, pois, a despeito de o adquirente ter erigido divisórias no imóvel, entendeu que seria indevida a indenização pela ocupação quando o contrato tiver por objeto terreno não edificado.
+Em que pese o argumento, não prospera o recurso.
+O Superior Tribunal de Justiça possui orientação firme no sentido de que, em caso de rescisão do compromisso de compra e venda, por iniciativa do comprador, não é cabível exigir dele o pagamento de taxa de ocupação ou de fruição pelo fato de ter a posse do imóvel pelo tempo em que o contrato esteve vigente, quando, como no caso concreto, tratar-se de terreno não edificado.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+1. Segundo o entendimento jurisprudencial das duas Turmas que compõem a Segunda Seção deste Tribunal, em caso de rescisão do compromisso de compra e venda, por iniciativa do comprador, não é cabível exigir dele o pagamento de taxa de ocupação ou de fruição pelo fato de ter a posse do imóvel pelo tempo em que o contrato esteve vigente, quando, como no caso concreto, tratar-se de um lote (terreno) não edificado. Em tal hipótese, não há falar em enriquecimento ilícito. Precedentes.
+1.1 Na hipótese, rever a conclusão do aresto impugnado, quanto à inexistência de provas capazes de demonstrar a efetiva ocupação do imóvel e a consequente responsabilidade do comprador pelo pagamento da taxa de fruição, encontra o óbice da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.492.753/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/5/2024, DJe de 3/6/2024.)
+Essa orientação, firme em ambas as Turmas de Direito Privado do STJ, se assenta sobre o fundamento de que a indenização pelo período em que a posse foi transmitida ao promitente comprador é indevida porque, se tratando de terreno não edificado, não pode o adquirente residir nele. Nesse sentido, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE RESCISÃO DE CONTRATO C/C PEDIDO DE RESTITUIÇÃO DE VALORES - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. A conclusão a que chegou o Tribunal de origem, relativa à natureza das arras dispostas no contrato, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmulas 5 e 7 do STJ.
+2. Esta Corte entende não haver enriquecimento sem causa por parte do promitente comprador desistente no caso de terreno não edificado, pois este não pode residir no imóvel, devendo ser afastada, nessas hipóteses, a cobrança da taxa de ocupação do bem. Incidência da Súmula 83/STJ.
+3. A falta de indicação pela recorrente de qual dispositivo legal teria sido violado ou objeto de interpretação divergente implica deficiência na fundamentação do recurso especial, a atrair a aplicação da Súmula 284/STF. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.067.543/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL. TAXA DE OCUPAÇÃO DO BEM. TERRENO NÃO EDIFICADO. IMPOSSIBILIDADE. SÚMULA 83/STJ. INTERPOSIÇÃO DE DOIS RECURSOS. IMPOSSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. ANÁLISE APENAS DO PRIMEIRO AGRAVO INTERNO. AGRAVO INTERNO DESPROVIDO. SEGUNDO AGRAVO NÃO CONHECIDO.
+1. "Consoante entendimento desta Corte, não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, devendo ser afastada a cobrança da taxa de ocupação do bem. Precedente" (AgInt no REsp 1.896.690/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/08/2021, DJe de 26/08/2021).
+2. A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões.
+3. Primeiro agravo interno a que se nega provimento. Segundo agravo interno não conhecido.
+(AgInt no REsp n. 1.931.558/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/11/2022, DJe de 30/11/2022.)
+No caso, em que pese tenha o recorrente erigido divisórias no imóvel, estas cuidam-se de benfeitorias que não alteram o fato de que o imóvel, quando teve a posse transmitida ao adquirente, não possuía nenhuma edificação.
+Além disso, referidas divisórias não se inserem na noção de edificação a que aludem os julgados desta Corte Superior, já que referidas benfeitorias, isoladamente, não possibilitam a residência no imóvel.
+Desse modo, adequada a solução dada pela Corte local, ao afastar a indenização pelo tempo de fruição, consignando que "as ditas benfeitorias introduzidas no imóvel, neste caso, dizem respeito tão somente à construção de muro divisório que circunda os lotes, ou seja, consistem apenas em terreno sem prédio habitável, o que impossibilitaria o uso" (e-STJ, fl. 355).
+O entendimento, como se pode verificar, está em consonância com a jurisprudência desta Corte Superior, incidindo, no ponto, a Súmula 83/STJ.
+Em face do exposto, nego provimento ao recurso.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
