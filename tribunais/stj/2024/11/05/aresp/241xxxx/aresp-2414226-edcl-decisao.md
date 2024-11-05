@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por COOPERATIVA DE PRODUTORES DE CANA-DE-ACÚCAR, ACÚCAR E ÁLCOOL DO ESTADO DE SAO PAULO contra decisão monocrática de minha lavra, que homologou o pedido de desistência do agravo em recurso especial, com renúncia ao direito em que se funda a ação, e julgou extinto o processo com resolução de mérito, tendo em vista a adesão do contribuinte a programa de transação instituído pela Lei Estadual n. 17.843/2023 (fls. 1219/1220e).
+A parte embargante alega, em síntese, que a decisão recorrida padece de vício de contradição e obscuridade no capítulo concernente aos honorários advocatícios (fls. 1225/1231e).
+O prazo para apresentação de impugnação transcorreu in albis, conforme certificado à fl. 1241e.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, cabem embargos de declaração para suprir omissão, esclarecer obscuridade, eliminar contradição ou corrigir erro material no julgado. Não identificados os aludidos vícios, não se presta o recurso integrativo para rediscutir questões que já foram objeto de exame na decisão embargada.
+Especificamente sobre o ônus da sucumbência, a decisão embargada teceu as seguintes considerações (fl. 1220e):
+As despesas processuais e os honorários advocatícios deverão ser pagos pela parte que desistiu, renunciou ou reconheceu o direito, conforme o art. 90 do Código de Processo Civil, nos termos determinados pelo Juízo de origem (AgInt na DESIST no AResp 707267/MG, Relator Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 20/02/2018, DJe 06/03 /2018).
+Da leitura do excerto, observo que o decisum não padece de omissão, na medida em que apresentou, com clareza, coerência e de forma suficiente, os fundamentos que culminaram na remessa dos autos à origem para deliberação a respeito das verbas de sucumbência.
+Nesses termos, a tentativa de rediscutir questões que já foram devidamente analisadas e decididas não é admissível na presente via, pois caracteriza mera inconformidade com a decisão final da lide. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024)
+Portanto, não merecem acolhimento os presentes aclaratórios, os quais, a pretexto de contradição e obscuridade , revelam o inconformismo da embargante com as conclusões da decisão.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TRANSAÇÃO TRIBUTÁRIA. PROCESSO EXTINTO COM RESOLUÇÃO DE MÉRITO. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE VÍCIO. EMBARGOS REJEITADOS.
