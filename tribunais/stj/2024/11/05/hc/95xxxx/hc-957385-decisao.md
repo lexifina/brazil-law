@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MAYCON NUNES LAMPANCHE, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Depreende-se dos autos que o paciente teve a prisão preventiva decretada, pela prática, em tese, dos crimes previstos nos artigos arts. 121, § 2º, II, III e IV, do Código Penal (em relação à vítima Luiz Henrique Ribeiro dos Santos), e 121, §2º, II, III e IV, c/c art. 14, II, ambos do Código Penal (em relação às vítimas Paulo César dos Santos Fonseca, Roberth dos Santos Vila e Leonardo Reis dos Santos).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem, em acórdão (fls. 12-24), assim ementado:
+ ..  HABEAS CORPUS. HOMICÍDIO QUALIFICADO CONSUMADO E TENTADO. AUTORIA DELITIVA. DISCUSSÃO A ENSEJAR A DILAÇÃO PROBATÓRIA. VIA INADEQUADA. NÃO CONHECIMENTO. PRISÃO PREVENTIVA. ELEMENTOS JUSTIFICADORES. FUMUS COMMISSI DELICTI E PERICULUM LIBERTATIS. PRESENÇA. PERICULOSIDADE CONCRETA. MODUS OPERANDI. PRESERVAÇÃO DA ORDEM PÚBLICA. NECESSÁRIA PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. ORDEM PARCIALMENTE CONHECIDA E, NESTA PARTE, DENEGADA.  ..  (fl. 12)
+Neste writ, a Defesa alega, em linhas gerais, a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do recorrente.
+Requer a concessão da ordem liminarmente e, no mérito, subsidiariamente, a imposição de medidas cautelares diversas.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta.
+No ponto, consta no acórdão hostilizado:
+ ..  em especial, diante do modus operandi empregado na conduta, uma vez que o acusado teria surpreendido as vítimas em via pública, próximo a local de grande movimentação de pessoas, por se tratar de um evento ocorrido no bar, deflagrando diversos disparos contra elas, o que revela a gravidade em concreto do crime e a periculosidade do agente, justificando a imposição da medida extrema.
+Ademais, tem-se que o acusado, após o crime, evadiu- se do local, sendo capturado posteriormente em uma rodovia, de maneira que a custódia cautelar se revela necessária, também, para fins de aplicação da lei penal. Saliento que a conduta do acusado, em razão da sua função de policial militar, reveste-se de maior reprovabilidade, sobretudo por se tratar de agente da segurança pública.  ..  (fls. 22-23)
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+ .. O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta  ..  (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 24/04/2019).
+ ..  A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo  ..  (AgRg no HC n. 710.123/MG, Quinta Turma, relº. Minº. João Otávio de Noronha, DJe de 15/8/2022).
+A existência de condições pessoais favoráveis, mesmo quando devidamente comprovadas, não é apta a afastar a custódia quando existentes os pressupostos legais, posto que "condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade" (STJ -SEBASTIÃO REIS JÚNIOR, Data de Julgamento: 24/09/2019, T6 -SEXTA TURMA, Data de Publicação: DJe 03/10/ 2019).
+Quanto ao argumento de que, em caso de condenação terá direito a regime diverso do fechado, deve-se ressaltar que não se presta a via do habeas corpus para análise de desproporcionalidade da prisão em face de eventual condenação do réu, uma vez que tal exame só poderá ser realizado pelo Juízo de primeiro grau, após cognição exauriente de fatos e provas do processo, a fim de definir, se for o caso, a pena e o regime a serem aplicados.
+A jurisprudência desta Corte se firmou no sentido de que:
+"O argumento de desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual" (AgRg no HC n. 779.709/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/12/2022).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Nesse sent ido:
+"É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do réu" (AgRg no HC 619.400/SP, Rel. Ministro RIBEIRO DANTAS, QUINT A TURMA, julgado em 27/04/2021, DJe 30/04/2021).
+Ante o exposto, denego a ordem em habeas corpus.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
