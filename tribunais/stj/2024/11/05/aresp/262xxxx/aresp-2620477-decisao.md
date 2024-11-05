@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 130):
+Apelação cível. Ação indenizatória. Alegação de abordagem vexatória em supermercado. Sentença de improcedência. Apelo da autora.
+Autora que não logrou êxito em provar o fato constitutivo de seu direito, na forma do art. 373, I, do CPC. Relação de natureza consumerista que, no entanto, não exime a autora do dever de comprovar a ocorrência dos fatos alegados. Incidência do verbete sumular nº 330 deste eg. TJRJ.
+Boletim de ocorrência policial que possui presunção relativa e não absoluta de veracidade, especialmente por ser um documento produzido de maneira unilateral. Conjunto probatório que se mostrou insuficiente para demonstrar a ocorrência de dano e o nexo de causalidade entre esse dano e a suposta conduta da ofensora. Precedentes. Sentença mantida. Honorários sucumbenciais incidentes. DESPROVIMENTO DO RECURSO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 373, I e II, 489, § 1º, IV, 1.013 e 1022 do Código de Processo Civil; e 6º, VIII, do Código de Defesa do Consumidor; bem como divergência jurisprudencial.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece ser conhecido, uma vez que os agravantes não impugnaram o fundamento da decisão que não admitiu o recurso especial.
+Com efeito, a decisão não admitiu o recurso especial, com fundamento na ausência de violação aos arts. 489, §1º, e 1.022, parágrafo único, do Código de Processo Civil; e óbice da Súmula 7/STJ (por ambas as alíneas) (fls. 179/185).
+A agravante, por sua vez, deixou de impugnar o fundamento da ausência de violação aos arts. 489, § 1º, e 1.022, parágrafo único, do Código de Processo Civil.
+Em respeito ao princípio da dialeticidade, o recurso deve ser fundamentado , sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena do deu não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos no art. 932, III, do Código de Processo Civil de 2015 e pela aplicação analógica da Súmula 182 do STJ.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos do art. 1021, § 1º, do CPC/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+Incidência, por analogia, da Súmula n. 182/STJ.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 968.815/RS, Rel. Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 7/2/2017, DJe 10/2/2017.
+A Corte Especial do STJ, no julgamento dos EAREsp 746.775/PR, manteve o entendimento quanto à obrigatoriedade da impugnação de todos os fundamentos da decisão que não admite recurso especial, sob pena de não conhecimento do agravo, ante a incidência da Súmula 182 do STJ.
+Confira-se a ementa do referido precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018.)
+Assim, sem a impugnação específica e suficiente para infirmar o fundamento da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
