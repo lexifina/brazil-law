@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por LB Locações LTDA. em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - PRESTAÇÃO DE SERVIÇOS DE VIGILÂNCIA NÃO ARMADA - AÇÃO MONITÓRIA - SENTENÇA DE PROCEDÊNCIA - INSURGÊNCIA DA RÉ - PRELIMINAR, EM CONTRARRAZÕES, SOBRE OFENSA AO PRINCÍPIO DA DIALETICIDADE - REJEIÇÃO - RAZÕES QUE IMPUGNAM, A CONTENTO, A FUNDAMENTAÇÃO DO DECISÓRIO - EXERCÍCIO DO CONTRADITÓRIO E DA AMPLA DEFESA CUMPRIDAMENTE VIABILIZADOS - MÉRITO - PRETENSÃO DE EXTINÇÃO DO FEITO POR INOBSERVÂNCIA DOS PRESSUPOSTOS AO MANEJO DE PROCEDIMENTO MONITÓRIO - NÃO ACOLHIMENTO - EXORDIAL INSTRUÍDA COM DOCUMENTOS HÁBEIS A DEMONSTRAR O PRÉVIO AJUSTE E O INADIMPLEMENTO DAS PARCELAS MENSAIS - MOSTRAS BASTANTES SOBRE DÍVIDA LÍQUIDA, CERTA E EXIGÍVEL - EXEGESE DO CPC, ART. 700 - IRRESIGNAÇÃO TOCANTEMENTE AO PARÂMETRO PARA CORREÇÃO MONETÁRIA IGUALMENTE INACOLHÍVEL - MÉDIA DOS ÍNDICES INPC E IGP-DI QUE MELHOR ESPELHA AS VARIAÇÕES INFLACIONÁRIAS - AUSÊNCIA DE INDICAÇÃO, NOS RESPETIVOS CONTRATOS E ADITIVOS, DO FATOR PARA ATUALIZAÇÃO - INTELIGÊNCIA DO DECRETO 1.544/95, ART. 1º - PRECEDENTES - HONORÁRIOS SUCUMBENCIAIS MAJORADOS - RECURSO NÃO PROVIDO.
+Alegou-se, no especial, violação do artigo 406 do Código Civil, sob o argumento de que o reajuste dos débitos judiciais deve ser realizado pela Taxa SELIC (Sistema Especial de Liquidação e Custódia).
+Assim delimitada a controvérsia, passo a decidir.
+Esta Corte tem entendimento de que, a partir da citação, o reajuste do débito judicial há de ser realizado pela Taxa SELIC.
+A saber:
+AGRAVO INTERNO. RECURSO ESPECIAL. RESTITUIÇÃO DE VALORES RETIDOS INDEVIDAMENTE POR INSTITUIÇÃO FINANCEIRA. PEDIDO DE UTILIZAÇÃO DOS MESMOS CRITÉRIOS DE CÁLCULO ESTABELECIDOS NO CONTRATO. IMPOSSIBILIDADE. PRERROGATIVA EXCLUSIVA DAS INSTITUIÇÕES FINANCEIRAS. APLICAÇÃO DA TAXA SELIC. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. "A restituição dos frutos do capital retido indevidamente por instituição financeira não deve ser feita simplesmente com o emprego das mesmas taxas por ela praticadas, visto que estas operam por regras específicas que não têm como ser aplicadas a terceiros como medida de ressarcimento" (AgInt no REsp 1519968/SP, Rel. p/ Acórdão Ministra Maria Isabel Gallotti, Quarta Turma, DJe 3/9/2018).
+3. "A Corte Especial no julgamento de recurso especial repetitivo entendeu que por força do art. 406 do CC/02, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, a qual deve ser utilizada sem a cumulação com correção monetária por já contemplar essa rubrica em sua formação" (AgInt no REsp 1.794.823/RN, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 28/5/2020).
+4. Agravo interno não conhecido.
+(AgInt no REsp n. 1.966.743/AM, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+O Tribunal local decidiu que "a média dos índices INPC e IGP-DI é o fator "utilizado pelo TJPR para a atualização monetária dos débitos judiciais" porquanto "é o que melhor reflete a desvalorização da moeda pela inflação", o que acresce à conclusão de que o recurso é insubsistente na pretensão de correção conforme a variação da Taxa SELIC" (e-STJ, fl. 220).
+À referida média, fez acrescer juros de 1% (um por cento) ao mês.
+O entendimento está, como se vê, em dissonância com a jurisprudência desta Casa, de sorte que merece reparo a alteração do julgado.
+Em face do exposto, conheço do recurso especial e a ele dou provimento para determinar que o reajuste do débito judicial se dê pela Taxa SELIC. Mantida a sucumbência.
+Intimem-se.
+EMENTA
