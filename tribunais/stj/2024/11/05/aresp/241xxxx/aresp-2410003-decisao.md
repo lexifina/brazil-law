@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de negativa de prestação jurisdicional e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 745/748).
+O acórdão do TJMG está assim ementado (e-STJ fl. 672):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CONTRATO DE COMPRA E VENDA. FRAÇÃO IDEAL. PRESTAÇÃO DE SERVIÇO DE OBRA. ADMINISTRAÇÃO A PREÇO DE CUSTO. RESPONSABILIDADE DO INVESTIDOR. INADIMPLÊNCIA. ATRASO NA ENTREGA DA OBRA. - Os contratos de construção de imóvel em condomínio por administração ou a preço de custo são regidos pela Lei nº 4.591/64, sendo os proprietários os responsáveis pelo custo integral da obra. - Em caso de ausência de irregularidades nos procedimentos adotados para a conclusão da obra pela construtora, não pode ser imputada a esta qualquer responsabilidade pelo atraso na entrega da entrega do imóvel.
+Os embargos de declaração foram rejeitados com imposição de multa (e-STJ fls. 690/696).
+No recurso especial (e-STJ fls. 703/722), fundamentado no art. 105, III, "a", da CF, a parte recorrente apontou violação:
+(a) dos arts. 489 e 1.022 do CPC/2015, pois a Corte local teria ignorado suas alegações referentes à falta de prova, pela empresa recorrida, da antecipação do pagamento de valores de responsabilidade do comprador, ora recorrente, circunstância que justificaria afastar a condenação ao reembolso dos aportes complementares, e
+(b) do art. 1.022, parágrafo único, II, do CPC/2015, alegando que não seriam protelatórios os embargos opostos para sanar omissões e prequestionar a matéria, razão pela qual seria devido afastar a multa aplicada.
+Foram ofertadas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 733/741).
+No agravo (e-STJ fls. 90/99), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Não assiste razão à parte recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu a matéria controvertida, não incorrendo em omissão, contradição ou obscuridade.
+A Justiça local deixou claros os motivos pelos quais reconheceu que o comprador, ora recorrente, estava obrigado ao ressarcimento dos aportes complementares, considerando que tais quantias eram necessárias à conclusão do imóvel adquirido em condomínio por regime de administração ou a preço de custo, além de que a recorrida comprovou, na vigência do contrato, a prestação de contas e o inadimplemento do recorrente, a fim de justificar o reembolso impugnado. Confira-se o seguinte trecho (e-STJ fls. 674/677):
+Compulsando os autos, depreende-se que as partes firmaram "contrato de compra e venda de fração ideal e prestação de serviço de obra, a preço de custo", através do qual o apelante adquiriu da apelada o apartamento nº 201, do Edifício San Marino, pelo preço estimado de R$206.992,00 (duzentos e seis mil, novecentos e noventa e dois reais), em 24/06/2009, a ser pago da seguinte maneira: a) R$41.398,40 (quarenta e um mil, trezentos e noventa e oito reais e quarenta centavos) como sinal do negócio e princípio de pagamento; b) R$165.593,60 (cento e sessenta e cinco mil, quinhentos e noventa e três reais e sessenta centavos) por meio do saque do FGTS e financiamento bancário a ser obtido e providenciado pelo proprietário perante a Caixa Econômica Federal (doe. 04 - fls. 48/54).
+Aduz a autora, ora apelada, que a presente ação se funda no inadimplemento do réu, ora apelante, relativamente ao referido contrato firmado entre as partes.
+Informa ser responsável pela administração e construção do aludido empreendimento, erigido no regime de obra por administração ou a preço de custo, nos moldes da Lei de incorporação nº 4.591,64. E, ainda, que é investidora de 03 (três) unidades no edifício.
+Afirma que, diante da inadimplência dos demais investidores, aceitou continuar a obra às suas expensas, a título de empréstimo, custeando para o réu a quantia histórica de R$144.601,74 (cento e quarenta e quatro mil, seiscentos e um reais e setenta e quatro centavos).
+ ..
+A construção em regime de administração, ou a preço de custo, está regulamentada pelos artigos 58 e seguintes, da Lei nº 4.591/64:
+ ..
+Conforme dispositivo legal, nos contratos de construção pelo regime de administração a preço de custo, os condôminos assumem a execução integral da obra, com o proveito de recebimento de frações ideais do terreno de propriedade dos alienantes, sendo de responsabilidade dos proprietários ou adquirentes o pagamento das despesas com a construção.
+ ..
+Da análise aprofundada dos autos do processo, verifico que a apelada comprova que o atraso na consecução das obras se deu em razão da inadimplência de 04 (quatro) dos 05 (cinco) investidores, bem como do aumento do preço dos materiais de construção e da mão de obra.
+Observa-se, pois, que o atraso na entrega da obra não se deu por culpa da apelada, não podendo ser a ela imputada qualquer responsabilidade, posto que não resta configurada irregularidade nos procedimentos adotados para conclusão da obra ou a inobservância das deliberações realizadas em assembleia.
+Destarte, restando comprovada a vigência do contrato, a prestação de contas e a ausência de aportes regulares nos moldes das contas prestadas, mostra-se incabível a reforma da sentença, uma vez comprovada a inadimplência do apelante.
+Assim, cabendo ao proprietário, no caso o apelante, arcar com o custo integral da obra, correta a sentença que o condenou ao pagamento da restituição dos valores pagos pela autora para a realização da construção.
+Ressalte-se que o fato de o julgamento ser contrário aos interesses da parte recorrente não configura nenhum dos vícios do art. 458 do CPC/1973 (atual art. 489 do CPC/2015), tampouco é o caso de cabimento dos aclaratórios.
+A fim de sustentar a exclusão da multa aplicada em segunda instância, ante a natureza protelatória dos embargos de declaração, o recorrente apontou violação do art. 1.022, parágrafo único, II, do CPC/2015. Ocorre que tal dispositivo legal, isoladamente, não possui o alcance normativo pretendido, porque nada dispõe a respeito do encargo mencionado.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF. Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
