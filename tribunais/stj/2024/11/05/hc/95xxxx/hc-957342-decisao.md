@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ANILDO GOMES DE OLIVEIRA contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que denegou a ordem no HC n. 5061444-66.2024.8.24.0000 .
+Extrai-se dos autos que o paciente teve a prisão preventiva decretada e foi pronunciado pela prática, em tese, do crime de homicídio qualificado tentado (Ação Penal n. 0000309-50.2004.8.24.0256 em trâmite na Vara Única da comarca de Modelo/SC).
+Busca a impetração a revogação da prisão cautelar imposta ao paciente, ao argumento de ausência de fundamentação idônea e contemporânea para o decreto de prisão preventiva, e de suficiência das medidas cautelares alternativas.
+É o relatório.
+O writ não comporta seguimento.
+De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+A prisão preventiva foi decretada com base na fundamentação constante às fls. 22/23. Pronunciado, o Juízo a manteve porque subsistem todos os motivos ensejadores da decretação da prisão preventiva, notadamente o asseguramento da aplicação da lei penal. Não houve qualquer alteração no contexto fático probatório que justifique conclusão diversa daquela exposta naquele decisium (fl. 42).
+O Tribunal de origem, por sua vez, manteve a constrição, consignando que, conforme observou a Procuradoria-Geral de Justiça, embora os fatos apurados tenham ocorrido em 22/2/2004, e a prisão preventiva tenha sido efetuada apenas em 11/1/2024, um lapso temporal de quase 20 anos, os autos permaneceram suspensos durante esse período, uma vez que o ora paciente encontrava-se em local incerto e não sabido (fl. 24).
+Da leitura das peças que compõem estes autos, a prisão cautelar está devidamente fundamentada na gravidade concreta do delito, uma vez que o paciente teria atirado contra a vítima, seu vizinho, causando-lhe graves ferimentos na região glútea esquerda, e não foi encontrado para ser citado, pois estava na condição foragido.
+Nesse sentido, confira-se a jurisprudência do Superior Tribunal de Justiça: no caso, não se verifica ilegalidade, teratologia ou deficiência na fundamentação, pois o Tribunal de origem asseverou que o sentenciado se encontra foragido, com mandado de prisão pendente de cumprimento desde 2015, fundamento concreto para a manutenção da segregação cautelar, forte na asseguração da aplicação da lei penal, mantendo-se a aplicação da Súmula 691/STF (AgRg no HC n. 785.753/ SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 10/3/2023 - grifo nosso).
+Ademais, no Superior Tribunal de Justiça, há farta jurisprudência dizendo que a condição de foragido afasta a alegação de constrangimento ilegal, seja pela dita ausência de contemporaneidade, seja pelo apregoado excesso de prazo para encerramento da instrução criminal (RHC n. 174.115/PI, da minha relatoria, Sexta Turma, DJe 29/3/2023 - grifo nosso).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publ ique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE. GARANTIA DA ORDEM PÚBLICA. PACIENTE FORAGIDO. APLICAÇÃO DA LEI PENAL. AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Inicial indeferida liminarmente.
