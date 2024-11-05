@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+EMBARGOS DE TERCEIRO. GRUPO ECONÔMICO "NQZ" ENVOLVENDO A EMBARGANTE NQZ MULTI COMÉRCIO E PARTICIPAÇÕES LTDA. E A EMPRESA NQZ PARTICIPAÇÕES E INVESTIMENTOS LTDA. ME (ré na ação de rescisão de contrato de sociedade em conta de participação movida pelo ora embargado THOMAZ). A empresa NQZ MULTI, ora apelante, opôs embargos de terceiros, postulando o levantamento da constrição (arresto) que recaiu em bens de sua propriedade ("royalties" pagos pelos franqueados da rede "THE ORIGINAL CAKE"). Sentença de improcedência. Inconformismo da embargante. Não acolhimento - Embargante que deve responder com seu patrimônio para satisfação da dívida de empresa pertencente ao mesmo grupo econômico. Ainda que a inclusão no polo passivo da ação principal tenha se dado em momento posterior à propositura deste s  embargos, o grupo econômico "NQZ", que legitimou a penhora de bens da embargante ("royalties" que recebe das unidades franqueadas), já existia - Além disso, a apelante teve ampla oportunidade de exercer seu direito de defesa por meio dos embargos de terceiros - Sentença de improcedência que fica mantida. Sucumbência da embargante apelante - RECURSO DESPROVIDO.
+Alegou-se, no especial, violação dos artigos 134, § 2º, e 135 do Código de Processo Civil sob o argumento de que, embora requerida a desconsideração da personalidade jurídica na inicial, a agravante não teria sido citada.
+Assim delimitada a controvérsia, passo a decidir.
+Os dispositivos legais invocados pela agravante não foram examinados pelo Tribunal local, a despeito da oposição de embargos de declaração.
+A Corte de origem, ademais e ao contrário do que defende a agravante, concluiu que a parte teve respeitado o direito de defesa quando da desconsideração da personalidade jurídica.
+Veja-se:
+"Outrossim, não se pode olvidar de que na presente ação a embargante teve ampla oportunidade de exercer seu direito de defesa, além de ter sido deferido o pedido de desconsideração da personalidade jurídica no processo principal, com sua inclusão no polo passivo e citação, oportunizando à apelante a defesa também no processo principal, não havendo, pois, que se falar em ausência de contraditório" (e-STJ, fl. 652).
+Dissociados os argumentos trazidos, portanto, dos fundamentos do acórdão estadual.
+Inafastável a incidência dos verbetes n. 282 e 284 da Súmula do Supremo Tribunal Federal e 211 do Superior Tribunal de Justiça.
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
