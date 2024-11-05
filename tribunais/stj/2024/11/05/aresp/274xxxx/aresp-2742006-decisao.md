@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo de EVANDRO MIRANDA MAGALHAES em face de decisão que inadmitiu recurso especial, interposto com fundamentado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: AGRAVO DE INSTRUMENTO - AÇÃO DE INDENIZAÇÃO - PRELIMINAR - NULIDADE DA DECISÃO - REJEIÇÃO - INVERSÃO DO ÔNUS DA PROVA - DANO AMBIENTAL - POSSIBILIDADE - DANOS INDIVIDUAIS - ÔNUS DA PARTE AUTORA - RECURSO PARCIALMENTE PROVIDO.
+- Rejeita-se preliminar de nulidade do decisum quando o julgador externou suas razões de decidir.
+- É possível, em ação na qual se discutem danos individuais, decorrentes do exercício de atividade empresarial, o reconhecimento da figura do consumidor por equiparação, nos termos do art. 17 do CDC, conforme entendimento do STJ.
+- A inversão do ônus da prova não desonera a parte demandante de comprovar os fatos que constituem seu direito, a teor do art. 373, I, do CPC." (e-STJ fls. 982)
+Embargos de declaração rejeitados (e-STJ fls. 1106/1110 e 1136/1140)
+Nas razões do recurso especial, a parte recorrente aponta ofensa aos artigos 6º, VIII e 17º do CDC c/c art. 1.022, inciso I do CPC, sustentando, em síntese, falha no dever de fundamentação das decisões e a necessidade de inversão do ônus da prova, diante da hipossuficiência do atingido pelos danos causados pela Vale S/A e do enquadramento do recorrente como consumidor por equiparação.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 1.022 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia, como se verá adiante.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+No que diz respeito à necessidade de inversão do ônus da prova, diante da hipossuficiência do atingido pelos danos causados pela Vale S/A e do enquadramento do recorrente como consumidor por equiparação, o Tribunal a quo concluiu:
+"Nesse sentido, a decisão recorrida está em consonância à jurisprudência do STJ, ao aplicar a legislação consumerista, considerando a equiparação da população afetada pelo risco de rompimento da barragem à figura do consumidor (art. 17, CDC) e inverter o ônus da prova, notadamente quanto aos riscos da atividade empresarial desempenhada pela agravante.
+Contudo, a inversão do ônus da prova não desonera a parte demandante de comprovar os fatos que constituem seu direito. Logo, quanto aos danos individuais narrados na inicial, o ônus da prova cabe à parte agravada, a teor do art. 373, I, do CPC." (e-STJ fls. 988/989)
+E acrescentou ao julgar os embargos de declaração:
+"Nesse sentido, tenho que razão não assiste à embargante no que tange à inversão do ônus da prova, uma vez que o decisum foi cristalino ao determinar que, embora tenha ocorrido a inversão probatória, compete à parte embargante a prova dos danos individuais consonante ao disposto no artigo 373, I, do Código de Processo Civil." (e-STJ fls. 1138)
+A decisão está de acordo com o entendimento desta Corte Superior, de que cabe ao autor provar o fato constitutivo de seu direito, mesmo que se trate de parte hipossuficiente, quando a inversão do ônus da prova se submete a comprovação mínima desse direito. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. SEGUNDA FASE. FUNDO 157. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DAS CONTAS PRESTADAS DE FORMA FUNDAMENTADA. ENTENDIMENTO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. A INVERSÃO DO ÔNUS DA PROVA NÃO DISPENSA O AUTOR DE DEMONSTRAR MINIMAMENTE OS FATOS CONSTITUTIVOS DE SEU DIREITO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal estadual, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. "Nos termos da jurisprudência pacífica do STJ, apesar de o art. 6º, VIII, do CDC prever a inversão do ônus da prova para facilitação da defesa, a aplicação do Código de Defesa do Consumidor não exime o autor do ônus de apresentar prova mínima dos fatos constitutivos de seu direito. Precedentes." (AgInt no AREsp 2298281 / RJ, Rel Ministro HUMBERTO MARTINS, Terceira Turma, j. 20/11/2023).
+3. A Corte estadual concluiu que o banco recorrido demonstrou de forma satisfatória qual é o saldo de ações titulado pelo recorrente, o que, consequentemente, afasta a aplicação do art. 400, I, do CPC.
+4. A análise da tese recursal, no sentido de que a prestação das contas teria sido irregular demandaria o reexame de fatos e provas constantes dos autos, o que é vedado pela Súmula n.º 7 do STJ.
+5. Agravo interno não provido."
+(AgInt no AREsp n. 2.593.853/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DANO AMBIENTAL. ATIVIDADE PESQUEIRA. ÔNUS DA PROVA. COMPROVAÇÃO DO DANO. CAUSADOR. PARTE AUTORA. FATOS CONSTITUTIVOS. NEXO CAUSAL. PROVA MÍNIMA. INVERSÃO DO ÔNUS DA PROVA. CIRCUNSTÂNCIAS. ANÁLISE. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Cabe ao suposto causador do dano ambiental à atividade pesqueira comprová-los.
+2. A inversão do ônus da prova não exime a parte autora da prova mínima dos fatos constitutivos do seu direito e do nexo causal entre a atuação da parte ré e os alegados prejuízos.
+3. A análise acerca da existência ou não de circunstâncias que ensejam a inversão do ônus da prova é feita no caso concreto, o que não pode ser revisto por esta Corte em virtude do óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido."
+(AgInt no REsp n. 2.088.955/BA, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/5/2024, DJe de 15/5/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. DANOS MORAIS. PRESENÇA DE CORPO ESTRANHO EM BEBIDA. DISTRIBUIÇÃO DA PROVA. FATO CONSTITUTIVO. ÔNUS DO AUTOR. SÚMULA 83/STJ. AUSÊNCIA DE COMPROVAÇÃO MÍNIMA. REEXAME DE MATÉRIA PROBATÓRIA. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. "O sistema processual brasileiro adotou, como regra, a teoria da distribuição estática do ônus da prova, segundo a qual cabe ao autor provar o fato constitutivo do direito e ao réu cabe provar o fato impeditivo, modificativo ou extintivo do direito do autor (art. 373 do CPC)" (AgInt no AREsp 2.245.224/SP, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023).
+2. Conforme entendimento desta Corte Superior, a inversão do ônus da prova não exime a parte autora da prova mínima sobre os fatos constitutivos do seu direito.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.407.219/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/4/2024, DJe de 2/5/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. NOVA ANÁLISE. EXAME DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. INVERSÃO DO ÔNUS DA PROVA. AUSÊNCIA DE MÍNIMA INSTRUÇÃO PROBATÓRIA. CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL C/C PEDIDO DE REPARAÇÃO POR DANOS MORAIS. CONTRATO DE CARTÃO DE CRÉDITO. CONSIGNADO. DEVER DE INFORMAÇÃO. REEXAME DE CLÁUSULAS CONTRATUAIS E DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial não é via própria para o exame de suposta ofensa a matéria constitucional, nem mesmo para fins de prequestionamento.
+2. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+3. Apenas a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da c orte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto (art. 1.025 do CPC), desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC.
+4. A falta de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado.
+5. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persu asão racional.
+6. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado.
+7. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+8. Rever a convicção formada pelo tribunal a quo acerca da prescindibilidade de produção da prova requerida demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+9. A facilitação da defesa do consumidor pela inversão do ônus da prova não o exime de apresentar prova mínima dos fatos constitutivos de seu direito.
+10. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+11. Afastadas pelo tribunal de origem, com base na análise do contrato com a instituição financeira e das provas, as pretensões de nulidade contratual e de indenização por danos morais, a reanálise das questões pelo STJ é inviável por incidência das Súmulas n. 5 e 7.
+12. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+13. Agravo interno desprovido."
+(AgInt no AREsp n. 2.420.754/MT, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 27/11/2023, DJe de 30/11/2023)
+Desta forma, estando o acórdão recorrido em harmonia com a jurisprudência desta Corte, incide o teor da Súmula 83/STJ.
+Diante do exposto, conheço do agravo para negar provimento recurso especial.
+Publique-se.
+EMENTA
