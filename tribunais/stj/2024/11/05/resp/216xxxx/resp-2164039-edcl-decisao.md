@@ -1,0 +1,50 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Declaração opostos pelo MUNICÍPIO DE OURIÇANGAS contra decisão que conheceu do Recurso Especial e lhe deu provimento, para determinar o retorno dos autos ao tribunal de origem, a fim de que sejam supridas as omissões indicadas na decisão embargada.
+Sustenta, em síntese, contraditória a decisão nos seguintes termos (fl. 338e):
+Ocorre que, contrariamente ao decidido, a Sétima Turma do TRF1 não incorreu em omissão, uma vez que, em nenhum momento ao longo do trâmite processual, a União Federal fez qualquer menção perante o Egrégio Tribunal acerca dos dispositivos legais mencionados nos embargos de declaração, especialmente no que tange ao art. 56 da Lei nº 8.212/91.
+Verifica-se, assim, que a União utilizou indevidamente dos embargos declaratórios com o intuito de provocar uma reanálise do mérito, buscando manifestação judicial sobre dispositivos normativos que não haviam sido previamente invocados ou discutidos quanto à sua aplicabilidade, configurando uma tentativa de rediscussão da causa.
+Sem impugnação (certidão de fl. 347e).
+Feito breve relato, decido.
+Sustenta a Embargante contradição a ser sanada, nos termos do art. 1.022, I, do CPC/2015.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Esposando tal entendimento, precedentes desta Corte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. FAIXA DE DOMÍNIO DE RODOVIA SOB CONCESSÃO. COBRANÇA EM DESFAVOR DE CONCESSIONÁRIA DE SERVIÇO DE TELEFONIA. POSSIBILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A prescrição trazida pelo art. 489 do CPC/2015, na esteira interpretativa sufragada no Superior Tribunal de Justiça, significa que o julgador deve enfrentar apenas as questões capazes de infirmar a conclusão adotada na decisão recorrida, hipótese aqui não verificada (EDcl no MS n. 21315/DF, Primeira Seção, DJe 15/06/2016).
+3. A Primeira Seção desta Corte firmou o entendimento de que o poder concedente, com respaldo no art. 11 da Lei n. 8.987/1995 (Lei de Concessões e Permissões), pode autorizar a concessionária a efetuar cobrança pela utilização de faixas de domínio de rodovia, mesmo de outra concessionária de serviços públicos, desde que haja previsão no contrato de concessão da rodovia, como verificado na hipótese.
+4. A Primeira Turma desta Corte tem reconhecido o caráter manifestamente inadmissível ou improcedente do agravo interno, a ensejar a aplicação da sanção prevista no art. 1.021, § 4º, do CPC/2015 quando a decisão agravada está fundamentada em precedente julgado sob o regime da repercussão geral, sob o rito dos recursos repetitivos ou com base em jurisprudência pacífica de ambas as Turmas da 1ª Seção.
+5. Agravo interno desprovido, com aplicação de multa.
+(AgInt no AREsp 1.079.824/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 06/02/2018, DJe 07/03/2018)
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO NO ACÓRDÃO RECORRIDO. INEXISTENTE. ACÓRDÃO QUE ENFRENTOU TODAS AS QUESTÕES NECESSÁRIAS. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Conforme pacífico entendimento desta Corte, o órgão julgador não é obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A determinação contida no art. 489 do CPC/2015 "veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+II - A corte de origem analisando o contexto fático-probatório dos autos concluiu (fl. 270): "Neste caso, ainda que houvesse buracos no asfalto e ainda que a pista apresentasse irregularidades, é certo que o acidente que vitimou fatalmente  ..  somente ocorreu por culpa do motociclista que invadiu a contramão da via em alta velocidade".
+III - Para alterar tais conclusões seria necessário o reexame fático-probatório, vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual: " pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido
+(AgInt no AREsp 1.037.131/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/11/2017, DJe 22/11/2017).
+O Embargante sustenta que a decisão embargada padece de vício - contradição - tendo em vista que a Embargada, em nenhum momento, fez menção, perante o tribunal de origem, acerca do art. 56 da Lei n. 8.212/1991.
+No caso, a Embargante impetrou mandado de segurança para determinar que a autoridade coatora devolvesse os valores retidos indevidamente na cota do FPM.
+O Magistrado de piso denegou a segurança por entender que a retenção não padecia de ilegitimidade, malgrado ter sido realizada fora do prazo legal previsto.
+O acórdão, por sua vez, consignou que a legislação é expressa ao permitir a retenção do FPM. No entanto, esclareceu que a retenção deve se limitar a 9% (nove por cento) tratando-se de débitos consolidados e 15% (quinze por cento) quanto se referir a obrigações correntes líquidas em virtude de parcelamento de dívidas oriundas de contribuições sociais. Nesse sentido, deu parcial provimento ao recurso de apelação da municipalidade.
+Dessa maneira, o ponto controvertido acima relatado, foi inaugurado com a manifestação da Corte a quo, não sendo possível exigir da União manifestação pretérita quanto ao art. 56 da Lei n. 8.212/1991. Aliás, a Embargada se solicitou a manifestação em embargos de declaração acerca do dispositivo legal, o que não foi atendido.
+No tocante à contradição, é firme o posicionamento desta Corte, segundo o qual a contradição sanável por embargos de declaração é aquela interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador.
+O recurso integrativo não se presta a corrigir contradição externa entre o decisum impugnado e o entendimento da parte, ou entre este e outras decisões deste Tribunal, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. OMISSÃO E CONTRADIÇÃO. AUSÊNCIA DE VÍCIOS.
+ ..
+III - A contradição sanável por embargos de declaração é aquela interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador, ou seja, o recurso integrativo não se presta a corrigir contradição externa, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando.
+ ..
+(EDcl no REsp 1388682/RS, de minha relatoria, PRIMEIRA TURMA, julgado em 16/05/2017, DJe 22/05/2017).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. INOCORRÊNCIA.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+2. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 535 do CPC/1973).
+3. O vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ. (EDcl no AgRg nos EAREsp 252.613/MG, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 05/08/2015, DJe 14/08/2015).
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1221142/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 10/10/2017, DJe 14/12/2017)
+Nesse cenário, impõe-se reconhecer que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e do cotejo ao firme posicionamento jurisprudencial aplicável à hipótese.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v.g. Corte Especial, EDcl no AgRg nos EREsp 1.431.157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 1.041.181/PR, Rel. Min. Napoleão Nunes Maia Filho, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1.334.203/PR, Rel. Min. Assusete Magalhães, DJe de 24.06.2016).
+Dessa maneira, mostra-se necessária a devolução dos autos para esclarecimento das omissões apontadas na decisão embargada.
+Assim, não verifico, no caso, a existência de vício a ensejar a declaração do julgado ou a sua revisão mediante embargos de declaração.
+Ante o exposto, REJEITO os Embargos de Declaração.
+Publique-se e intimem-se.
+EMENTA
