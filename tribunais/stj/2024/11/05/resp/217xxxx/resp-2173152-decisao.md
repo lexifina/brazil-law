@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALDEIR SOUSA MENDES E OUTRO contra o v. acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 641):
+"APELAÇÃO CIVEL - AÇÃO DE RESCISÃO E INDENIZAÇÃO POR DANOS MORAIS - VENDA E COMPRA COM RESERVA DE DOMÍNIO - LOTEAMENTO - ATRASO NA ENTREGA DAS OBRAS DE INFRAESTRUTURA E AUSÊNCIA DE REGISTRO DO LOTEAMENTO - PRESCRIÇÃO NÃO CONFIGURADA - INOVAÇÃO RECURSAL NÃO CONFIGURADA - ARRAS/SINAL - RESTITUIÇÃO INTEGRAL EM FAVOR DO COMPRADOR - ATO ILÍCITO PASSÍVEL DE COMPENSAÇÃO - DANOS MORAIS - VERBA HONORÁRIA NA RECONVENÇÃO - MANTIDA - SUCUMBÊNCIA RECÍPROCA - CONFIGURADA. As controvérsias relacionadas à responsabilidade contratual remetem à aplicação da regra geral do art. 205 do Código Civil, que prevê o prazo prescricional de dez anos. Não ocorre inovação recursal relativa a questões de ordem pública. É vedado ao empreendedor a venda ou promessa de venda de parcela de loteamento ou desmembramento sem que antes tenha havido todo o processo de regularização e o devido registro no Cartório de Registro de Imóveis (art. 37 da Lei 6.766/79). Aquele que recebeu arras/sinal tem o dever de restituição em caso de inexecução do contrato por sua culpa. A não regularização da situação do imóvel negociado entre as partes tem potencial de causar imensuráveis transtornos e indignação ao comprovador e, ultrapassa a categoria de mero aborrecimento, de modo que deve ser condenado o vendedor ao pagamento de compensação por danos morais. Se o autor do pedido de reconvenção pratica ato contraditório, deixando transcorrer a instrução do processo para, somente afirmar ausência de interesse na sua apreciação depois de proferida sentença, e diante da determinação da parte contrária em apresentar defesa quanto à reconvenção, estabeleceu-se a lide, de modo que deve ser mantida a condenação ao pagamento da sucumbência. O artigo 86 do CPC estabelece que as despesas processuais devam ser proporcionalmente distribuídas entre os litigantes, de acordo com o êxito que tenham quanto ao objeto do pedido."
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, fundamentado na alínea "a" do permissivo constitucional, a parte recorrente alega violação aos arts. 240, caput, 489, § 1º, IV e 1.022, II, do CPC; e. 405 do CC/02.
+Sustenta, em síntese, além de negativa de prestação jurisdicional, que "os juros de mora e a correção monetária constituem matéria de ordem pública, de modoque tais consectários podem ser arbitrados a qualquer momento, inclusive de ofício, não havendo que se falar em preclusão ou coisa julgada. Na espécie, quanto aos juros de mora e a atualização monetária sobre o valor a ser restituído, e, sobre a multa contratual, em se tratando de responsabilidade contratual, tem-se que são devidos a partir da citação, momento em que foram regularmente constituídas em mora, nos termos do art. 240, caput, do CPC c/c art. 405 do CC/02."
+É o relatório.
+Decido.
+Inicialmente, rejeita-se a alegada violação dos arts. 489 e 1.022 do CPC/15, uma vez que o eg. TJ/MG analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INOVAÇÃO RECURSAL. VÍCIOS DE CONSTRUÇÃO. LEGITIMIDADE ATIVA DO CONDOMÍNIO. DECISÃO MANTIDA.
+(..)
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1071467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/10/2017, DJe 17/10/2017)
+Além disso, a Corte local consignou que "as matérias aventadas pelos ora embargantes não foram trazidas quando do recurso de apelação e, por isso, não apreciadas, em evidente inovação recursal, sob a tentativa de alegar matéria de ordem pública." (fl.699)
+Ocorre que parte a insurgente não rebateu, de forma específica e suficiente, a referida fundamentação, o que atrai, na hipótese, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. REPETIÇÃO DO INDÉBITO EM DOBRO. MÁ-FÉ CARACTERIZADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de má-fé na cobrança de dívida quitada. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1663414/MT, Rel. Ministro ANTONIO CARLOS FERREIRA,
+QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. ACIDENTE DE TRÂNSITO. INDENIZAÇÃO POR DANOS MORAIS ABRANGIDA PELA COBERTURA POR DANOS CORPORAIS. AUSENTE CLÁUSULA DE EXCLUSÃO. REVISÃO SÚMULAS 5 E 7/STJ. ALEGADA NECESSIDADE DE ABATIMENTO DE INDENIZAÇÃO ORIUNDA DE SINISTRO DISTINTO. PARADIGMA DISTINTO. INTERPRETAÇÃO INCORRETA. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284 DO STF.
+(..)
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor das Súmulas n. 283 e 284 do STF.
+(..)
+(AgInt no AREsp 1393349/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/06/2020, DJe 12/06/2020)
+Ante o exposto, nego provimento ao recuso especial.
+Publique-se.
+EMENTA
