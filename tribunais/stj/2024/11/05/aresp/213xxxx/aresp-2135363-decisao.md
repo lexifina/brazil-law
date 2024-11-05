@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão dos seguintes óbices: i) inexistência de violação de lei federal, ii) incidência da Súmula n. 7 do STJ e, iii) ausência de similitude fática (e-STJ fls. 673/675).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 547):
+"CONDOMÍNIO - AÇÃO DE INDENIZAÇÃO - FURTO DE OBJETOS NO APARTAMENTO DOS AUTORES - CONVENÇÃO E REGULAMENTO INTERNO - AUSÊNCIA DE PREVISÃO EXPRESSA DE RESPONSABILIDADE DO CONDOMÍNIO - RESPONSABILIDADE DA EMPRESA - RÉ CARACTERIZADA POR FALHA DE SUA PREPOSTA NO CONTROLE DE INGRESSO DE VISITANTES - DANO MORAL CONFIGURADO TRANSTORNO QUE ULTRAPASSA O MERO ABORRECIMENTO PRELIMINARES REJEITADAS - RECURSO DO CONDOMÍNIO PROVIDO, DESACOLHIDO O APELO DA EMPRESA-RÉ".
+Os embargos de declaração foram rejeitados (e-STJ fls. 573/585).
+Nas razões do recurso especial (e-STJ fls. 417/438), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte apontou divergência jurisprudencial e violação dos seguintes dispositivos legais:
+(a) art. 125 do CPC/2015, afirmando que ficou "configurada as hipóteses de cabimento da denunciação da lide" (e-STJ fl. 602), pois "a participação da funcionária da Recorrente é necessária, não para eximir a Recorrente de ressarcir aos Recorridos, se for o caso, mas para que se verifique a existência de conduta do empregado capaz de configurar ato ilícito e de lhe imputar responsabilidade civil indenizatória" (e-STJ fl. 602),
+(b) arts. 324, 373, I e 491 do CPC/2015, insurgindo-se contra a apuração dos danos materiais em sede de liquidação de sentença, pois, "se não houve comprovação dos danos por parte dos Recorridos ou ao menos comprovada sua valoração, fato é que deveria ter o pedido sido julgado improcedente" (e-STJ fl. 606).
+Afirma divergência jurisprudencial acerca do "descabimento da indenização moral quando não comprovado o dano material" (e-STJ fl. 615) .
+Alega excesso no estabelecimento do quantum indenizatório.
+Contrarrazões apresentadas (e-STJ fls. 658/670).
+No agravo (e-STJ fls. 678/692), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminutas apresentadas (e-STJ fls. 695/697 e 699/704).
+É o relatório.
+Decido.
+O Tribunal afastou a hipótese de denunciação da lide, sob a seguinte motivação (e-STJ fls. 550/551):
+3) A denunciação da lide, por sua vez, não tem pertinência na medida em que é cabível apenas nas hipóteses previstas no artigo 125 do Código de Processo Civil, aqui não verificadas, à míngua de lei ou de contrato que obrigue a denunciada, Diele dos Santos Silva, ex-funcionária da corré, S. Mave, garantir o resultado da demanda, conforme, aliás, pontificou a MM. Juíza a quo, verbis:
+".. a corré S. Mave admiravelmente funda o pleito sob análise em disposição do contrato de trabalho celebrado com Diele, associada a regra constante da Consolidação das Leis do Trabalho. Como se daí repercutisse na relação de direito material em tela, fundada em ilícito civil extracontratual, regida pela lei civil.
+Para além, é certo que a lei civil estabelece que a corré S. Mave responde objetivamente pelos danos causados por seus prepostos no exercício de suas funções, tratando-se de clara hipótese de responsabilidade por fato de outrem (CC, art. 932, III).
+Assim, provada a culpa do empregado ou preposto, exsurge a responsabilidade objetiva do patrão ou comitente (FILHO, Sérgio Cavalieri. Programa de responsabilidade civil. São Paulo: Atlas, 2007, p. 185), salvo fortuito ou força maior, sequer suscitados no caso concreto.
+À luz dessas considerações, inviável acolher-se o pleito de denunciação da lide sob análise" (cf. fl. 409).
+Cumpre lembrar, ainda, nos termos da Súmula nº 341 do E. Supremo Tribunal Federal, que a culpa do patrão por ato culposo de seu preposto é presumida.
+Demais disso, a ausência de denunciação não acarreta a perda de eventual direito do denunciante que poderá, por sua conta e risco, voltar-se contra a denunciada, valendo-se de ação própria visando o ressarcimento dos danos.
+Para alterar os fundamentos acima transcritos e reconhecer que foram preenchidos os requisitos da denunciação da lide, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Ademais, "em virtude dos princípios da economia processual e da celeridade, a denunciação da lide não é medida que se impõe obrigatoriamente" (AgInt no AREsp n. 1.567.675/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 1/6/2020, DJe de 5/6/2020).
+Acerca da tese de impossibilidade da apuração dos danos materiais em sede de liquidação de sentença, o TJSP entendeu o seguinte (e-STJ fls. 549/550):
+2) A preliminar relativa à prolação de sentença ilíquida, em desacordo com o art. 491 do CPC, não comporta acolhida uma vez que o seu inciso I admite a condenação ilíquida quando: "não for possível determinar, de modo definitivo, o montante devido".
+Logo, indemonstrado, estreme de dúvidas, o valor a ser pago a título de danos materiais, mostra-se fundamental sua apuração, em sede de liquidação de sentença, consoante ponderou a digna magistrada sentenciante, verbis.
+"Dada a divergência entre as partes no corrente momento procedimental a respeito da extensão dos danos, associada à alta conveniência de entrega de tutela satisfativa de mérito em tempo razoável (CPC, art. 4.), determina-se sua liquidação pelo procedimento comum em caso de eventual trânsito em julgado desta sentença" (cf. fl. 416).
+A modificação do entendimento do TJSP quanto à extensão do dano e possível apuração do quantum em sede de liquidação de sentença demandaria o revolvimento do suporte fático-probatório dos autos, providência inviável no recurso especial, nos termos da Súmula n. 7 do STJ.
+Além disso, o especial não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão da existência de divergência "entre o valor a ser pago a título de danos materiais" (e-STJ fl. 550), mostrando-se fundamental sua apuração, em sede de liquidação de sentença. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, limitando-se a recorrente a alegar que o pedido deveria ser julgado improcedente. Aplica-se, por analogia, o entendimento da referida súmula.
+Com relação ao dissídio interpretativo e à tese de excesso na quantificação d a indenização, a parte deixou de indicar os dispositivos legais supostamente ofendidos, ou que tiveram sua aplicação negada pela Corte de apelação. Incide, portanto, a Súmula n. 284/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
