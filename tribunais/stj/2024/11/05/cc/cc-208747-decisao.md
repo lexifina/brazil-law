@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de conflito de competência ajuizado por Aglaonema Empreendimentos S.A. no qual aponta como suscitados o Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo/SP e o Juízo de Direito da 2ª Vara de Execução Título Extrajudicial, Embargos e Demais Incidentes de Campo Grande/MS.
+Relata, em síntese, que perante o Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo/SP traite a recuperação judicial do "Grupo Rossi", no qual já houve sentença que deferiu o pedido de recuperação judicial, em 29/9/2022, com a determinação de suspensão de todas as ações e execuções contra a suscitante, assim como a natureza concursal do crédito.
+Por sua vez, perante o Juízo de Direito da 2ª Vara de Execução Título Extrajudicial, Embargos e Demais Incidentes de Campo Grande/MS executa-se crédito concursal, tendo sido determinada a continuidade do pleito executório, mesmo tratando-se de crédito concursal.
+Diante disso, está configurado conflito de competência entre os Juízos suscitados, cabendo ao STJ determinar, mediante concessão de tutela provisória de urgência, a suspensão dos atos constritivos e a liberação de valores eventualmente bloqueados na execução, e, no mérito, seja declarada a competência do Juízo recuperacional.
+Brevemente relatado, decido.
+Nos termos do art. 66 do CPC de 2015, somente se configura conflito positivo de competência quando dois ou mais juízes se consideram competentes para o julgamento de uma mesma causa.
+Com efeito, o entendimento da Segunda Seção do STJ é assente no sentido de ser o Juízo onde se processa a recuperação judicial o competente para julgar as causas em que estejam envolvidos interesses e bens da recuperanda, inclusive para o prosseguimento dos atos de execução que envolvam créditos apurados em outros órgãos judiciais (AgInt nos EDcl no CC 166.957/SP, Rel. Ministro Marco Buzzi, Segunda Seção, julgado em 1º/6/2021, DJe 4/6/2021).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MONTANTE APURADO POSTERIORMENTE PELA ANEEL. CLASSIFICAÇÃO DO CRÉDITO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. O Juízo onde se processa a Recuperação Judicial é o competente para avaliar o caráter concursal ou extraconcursal do crédito objeto de ação de execução proposta em juízo diverso.
+2. Os valores quantificados em procedimento administrativo perante órgão regulador da atividade econômica da empresa, geralmente derivados de obrigações anteriores à data do pedido de recuperação judicial, quando objeto de liquidação, devem ser recebidos dentro do procedimento recuperatório em igualdade com todos aqueles oriundos de credores da mesma espécie.
+3. Com a edição da Lei n. 11.101, de 2005, respeitadas as especificidades da falência e da recuperação judicial, é competente o respectivo Juízo para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos, ainda que tenha ocorrido a constrição de bens do devedor.
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no CC 136.508/PA, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 12/08/2015, DJe 20/08/2015)
+Na hipótese, inexiste o conflito, haja vista que decisão proferida pelo Juízo da execução, juntada pela suscitante às fls. 25-28 (e-STJ), reconheceu a concursalidade do crédito executado, pois o seu fato gerador seria anterior ao pedido de processamento da recuperação judicial, o que implicaria a perda superveniente do interesse de agir da exequente, haja vista a necessidade de habilitação do crédito no Juízo recuperacional, motivo pelo qual houve a extinção do processo, sem resolução do mérito.
+Diante disso, ao contrário do que alegado pela suscitante, não há nenhuma decisão determinando o prosseguimento do processo de execução, muito pelo contrário, determinou-se a sua extinção, motivo pelo qual inexiste decisões conflitantes que ampare o conhecimento do presente incidente, revelando-se, com isso, impositivo o seu não conhecimento.
+Ante o exposto, não conheço do conflito de competência.
+Publique-se.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. AUSÊNCIA DE DECISÕES CONFLITANTES. INCIDENTE NÃO CONHECIDO.
