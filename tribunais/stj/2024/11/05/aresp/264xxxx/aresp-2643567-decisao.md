@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. Execução por quantia certa com pedido de arresto cautelar de bens, fundada em nota promissória. Decisão que deferiu a tutela de urgência para determinar o arresto cautelar de bens imóveis dos executados, avalistas da devedora principal, que está em recuperação judicial, por entender que a dívida é de valor expressivo e porque o grupo empresarial estaria à beira de insolvência, havendo temor de que os executados adotassem medidas para isolar seu patrimônio dos demais credores. Decisão correta, pois ainda que a credora esteja inserida na lista de credores no plano de recuperação da devedora principal, a execução pode prosseguir em face dos coobrigados. Quando a devedora principal se encontra em recuperação judicial, a suspensão da exigibilidade das dívidas se dá apenas em relação à ela, sem abranger os coobrigados. Interpretação sistemática dos artigos 59 e 49, § 1º, da Lei nº 11.101/05. Matéria já apreciada nos autos do Recurso Especial nº 1.333.349- SP, o que se deu em sede de recurso repetitivo. Decisão mantida. RECURSO DESPROVIDO.
+Alegou-se, no especial, violação artigos 1.022, 489 e 300 do Código de Processo Civil sob os argumentos de que o acórdão local é omisso e que não estão presentes os requisitos autorizadores do arresto cautelar.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, de início, motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Sobre o tema, os seguintes precedentes: AgRg no REsp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, DJe 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+A conclusão do Tribunal de origem no sentido de que está correta a decisão que determinou o arresto cautelar dos agravantes diante do risco de dilapidação do patrimônio é imune ao crivo do recurso especial, como ensinam os verbetes n. 735 da Súmula do Supremo Tribunal Federal e 7 do Superior Tribunal de Justiça.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
