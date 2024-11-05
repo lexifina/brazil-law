@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por Gilberto Bisi e outros contra decisão que não admitiu o recurso especial manejado em face do acórdão prolatado pelo Tribunal de Justiça do Rio Grande do Sul, nos termos da seguinte ementa (e-STJ, fl. 478):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO INDUSTRIAL. Revisão dos contratos anteriores. Súmula 286 do STJ. Renegociação da dívida não evidenciada. Extrato de evolução do débito. Desnecessidade de exibição com a inicial executiva. Cerceamento de defesa inocorrente. Liquidez do título. A cédula de crédito industrial é título executivo líquido e exigível. Decreto-Lei 413/69. Tabela Price. Legalidade. Capitalização. Viabilidade. Súmula 93 do STJ. Previsão expressa. Mora. A manutenção de encargos da normalidade não autoriza a descaracterização da mora. PRELIMINAR REJEITADA. APELO IMPROVIDO.
+Opostos embargos de declaração, foram acolhidos (e-STJ, fls. 603-608).
+Os aclaratórios opostos ao referido acórdão, foram rejeitados (e-STJ, fls. 637-642 e 666-671).
+Nas razões do recurso especial (e-STJ, fls. 678-695), fundamentado no art. 105, III, a, da Constituição Federal, os recorrentes alegaram violação dos arts. 489, §1º, IV, e 1.022 do Código de Processo Civil.
+Sustentou ter havido negativa da prestação jurisdicional, apontando a existência de omissões quanto à abusiva e ilegal capitalização dos encargos moratórios e a indevida cumulação dos encargos remuneratórios e moratórios.
+Contrarrazões apresentadas às fls. 706-713 e 715-722 (e-STJ).
+O processamento do recurso especial não foi admitido na origem (e-STJ, fls. 723-736), o que ensejou a interposição do presente agravo às fls. 735-745 (e-STJ) e da contraminuta às fls. 750-764 (e-STJ).
+Brevemente relatado, decido.
+O recorrente sustenta a ocorrência de negativa de prestação jurisdicional por parte do Tribunal de origem no julgamento da apelação e dos subsequentes embargos de declaração, que teria sido omisso quanto à capitalização dos encargos moratórios e a cumulação dos encargos remuneratórios e moratórios.
+O argumento, todavia, não procede. Isso porque, do exame dos autos, verifica-se que a Corte de origem apreciou a questão, tendo, consignado que "tratando-se de cédula de crédito industrial, a capitalização dos juros no período da inadimplência é admitida, nos termos do art. 11, § 2Q, do Decreto-Lei 413/69. A parte não comprovou a cumulação indevida de encargos moratórios, sendo cobrados os juros moratórios, e a multa, a qual incide sobre o total do débito, inexistindo vedação de cobrança cumulada dos encargos" (e-STJ, fl. 606).
+Dessa maneira, "não há falar em falha na prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível, mesmo que em desacordo com a expectativa da parte" (REsp n. 2.117.094, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/3/2024, DJe 11/3/2024).
+Portanto, de forma certa ou errada, as questões foram apreciadas pelo Tribunal estadual, não havendo, assim, a apontada negativa de prestação jurisdicional, motivo pelo qual se afasta a violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATOS BANCÁRIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
