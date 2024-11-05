@@ -1,0 +1,33 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça , assim ementado (fls. 121-122):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N.11.343/2006. CONCESSÃO. POSSIBILIDADE. QUANTIDADE DE DROGAS. BIS IN IDEM. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas.
+2. Por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que "a utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem".
+3. No caso, conforme visto, a Corte estadual justificou a impossibilidade de incidência do redutor em questão, em relação ao paciente, em razão, essencialmente, da quantidade da droga apreendida. Contudo, a mesma circunstância já havia sido usada para exasperar a pena-base e os demais elementos indicados nos autos são insuficientes para afastar o benefício.
+4. De acordo com o entendimento firmado pela Terceira Seção desta Corte, é possível a "valoração da quantidade e da natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, neste último caso ainda que sejam os únicos elementos aferidos, desde que não tenham sido considerados na primeira fase do cálculo da pena" (HC n. 725.534/SP, Rel. Ministro Ribeiro Dantas, 3ª S., DJe 1º/6/2022). Na espécie, porém, as instâncias ordinárias já empregaram essa vetorial para aumentar a pena-base, de modo que não cabe a este Superior Tribunal, em habeas corpus defensivo, deslocar essa circunstância para a terceira etapa da dosimetria a fim de modular a fração da minorante.
+5. Agravo regimental não provido.
+A parte recorrente sustenta a ocorrência de violação ao art. 5º, XXXVI, da Constituição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Alega que teria havido violação à coisa julgada e defende a "impossibilidade, quando ausente flagrante ilegalidade, teratologia ou abuso de poder, de se utilizar do habeas corpus para desconstituir condenação criminal definitiva, transitada em julgado, e a insegurança jurídica que tal situação acarreta,  .. ".
+Enfatiza não ser possível a utilização do habeas corpus em substituição à revisão criminal.
+Requer, assim, a admissão e o provimento do recurso.
+Não foram apresentadas contrarrazões (fl. 152).
+É o relatório.
+2. Com efeito, o STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660, a Suprema Corte fixou a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, XXXVI, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+É o que se observa do seguinte trecho do julgado impugnado (fls. 125-127):
+Para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+ .. .
+No caso, conforme visto, a Corte estadual justificou a impossibilidade de incidência do redutor em questão, em relação ao ora paciente, em razão, essencialmente, da quantidade da droga apreendida (cerca de 5,7 kg de maconha), o que permitiria concluir que o paciente seria dedicado a atividades criminosas.
+Contudo, a mesma circunstância - quantidade de droga apreendida - já havia sido usada para exasperar a pena-base e, por isso mesmo, não é motivo bastante para lastrear a conclusão de que o réu se dedicava de modo habitual ao comércio espúrio.
+ .. .
+Descartado esse fundamento, os outros elementos apontados (denúncias anônimas e quantidade não excessiva de dinheiro e de embalagens) são insuficientes para afastar a minorante. Consequentemente, deve ser mantida a decisão monocrática que concedeu a ordem ao paciente para aplicar, em seu favor, o referido benefício.
+Nesse ponto, faço o registro de que, conforme entendimento consolidado nos tribunais superiores, é possível, mesmo quando se trata de condenação transitada em julgado, conceder ordem de habeas corpus sempre que constatada flagrante ilegalidade nos autos, como na hipótese.
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
