@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por TADEU JOSE ROCHA SANTOS contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 1527401-26.2022.8.26.0228. (fls. 208/225):
+APELAÇÃO CRIMINAL Roubo Sentença absolutória Materialidade e autoria comprovadas nos autos Prova cabal a demonstrar que o réu subtraiu a res furtiva mediante o emprego de grave ameaça Sentença reformada Regime inicial fechado adequado e compatível com a gravidade do delito perpetrado RECURSO MINISTERIAL PROVIDO.
+Opostos embargos de declaração (fls. 238/244), foram rejeitados (fls. 253/256):
+EMBARGOS DE DECLARAÇÃO Ausência de ambiguidade, obscuridade, contradição ou omissão Acórdão embargado que inequivocamente enuncia, fundamenta e é expresso a respeito da matéria alegada Prequestionamento Desnecessidade de citação numérica dos dispositivos legais aplicáveis Embargos rejeitados.
+No recurso especial, fls. 265/278, a defesa requereu, em síntese, a aplicação da teoria do esquecimento, nos termos do art. 59 do Código Penal, para, desconstituindo o acórdão impugnado, excluir da primeira fase de dosimetria o incremento relativo aos maus antecedentes.
+Inadmitido o recurso na origem (fls. 289/290), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 296/ 305).
+O Ministério Público Federal opinou pelo conhecimento do agravo, para que seja provido o recurso especial.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Quando ao recurso especial, a insurgência também é admissível, e no mérito, merece acolhida.
+Com efeito, o Superior Tribunal de Justiça tem entendido ser possível a relativização das condenações antigas, para o fim de afastar a configuração de maus antecedentes, com fundamento na teoria do direito ao esquecimento, ante o princípio da proporcionalidade, em especial como no caso dos autos, em que a condenação penal anterior, utilizada pela Corte local para amparar a valoração negativa da vetorial antecedentes, teve a extinção de punibilidade em 13/4/2009 (fl. 298), ao passo que a conduta apurada nos presentes autos foi cometida em 1º/12/2022 (fl. 297), tendo transcorrido, portanto, mais de 10 anos entre os referidos marcos, o que evidencia a indevida perpetuidade na valoração dos antecedentes na pena da recorrente (AgRg no AREsp 2720836/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/10/2024).
+Redimensiona-se, portanto, a pena imposta, para excluir a majoração decorrente da valoração negativa dos antecedentes. Na primeira fase, portanto, fixa-se a pena-base no mínimo legal (4 anos de reclusão e 10 dias-multa). Na segunda fase, em razão da reincidência, procede-se à exasperação no patamar de 1/6, ficando a pena definitiva em 4 anos e 8 meses de reclusão, e 11 dias-multa, à míngua de causas de diminuição e aumento de pena, mantendo-se o regime inicial fechado para expiação.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ conheço do agravo para dar provimento ao recurso especial, redimensionando a reprimenda para 4 anos e 8 meses de reclusão, e 11 dias-multa, no regime inicial fechado.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO. DOSIMETRIA DA PENA-BASE. MAUS ANTECEDENTES. DECURSO DE MAIS DE 10 ANOS ENTRE O TRÂNSITO EM JULGADO DA EXTINÇÃO DA PENA UTILIZADA PELO TRIBUNAL DE ORIGEM COMO SUPORTE PARA NEGATIVAÇÃO DA CIRCUNSTÂNCIA JUDICIAL. LONGO DECURSO DE TEMPO. EXCEPCIONALIDADE. DESCONSIDERAÇÃO DA VETORIAL QUE SE IMPÕE.
+Agravo conhecido para, nos termos do dispositivo, dar provimento ao recurso especial.
