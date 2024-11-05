@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de RAYAN VITTOR COELHO DE MATOS - condenado como incurso no crime de furto -, em que se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação n. 0248767-14.2022.8.19.0001), não comporta acolhimento.
+Com efeito, busca a impetração a absolvição do paciente, ao argumento de atipicidade material da conduta, em razão da incidência do princípio da insignificância, tendo em vista o valor da res furtiva (R$ 71,88 - setenta e um reais e oitenta e oito centavos) se comparada ao patrimônio da vítima - s upermercado Guanabara -, bem como o fato de que os produtos subtraídos foram recuperados.
+É entendimento doutrinário e jurisprudencial que, para a aplicação do princípio da insignificância, mostra-se necessária a presença dos pressupostos objetivos, consistentes em: a) mínima ofensividade da conduta; b) inexistência de periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento; e d) inexpressividade da lesão jurídica provocada. A jurisprudência do Superior Tribunal tem se sedimentado no sentido de afastar a aplicabilidade do postulado quando se tratar de habitualidade criminosa, em especial, em crimes patrimoniais (AgRg no AREsp n. 2.532.305/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/9/2024).
+As circunstâncias concretas do caso denotam ser inviável a aplicação do referido postulado, tendo em vista a habitualidade criminosa do paciente, pois, conforme asseverado pelo acordão atacado, não obstante o valor do bem, deve ser ressaltado que o acusado possui mais duas anotações na FAC, sendo que uma delas se refere ao mesmo crime de furto de desodorantes dentro do Supermercado Guanabara (fl. 58).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO. PRETENSÃO DE ABSOLVIÇÃO. ATIPICIDADE MATERIAL DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CIRCUNSTÂNCIAS QUE DENOTAM A OFENSIVIDADE DA CONDUTA EM RAZÃO DA HABITUALIDADE CRIMINOSA DO RÉU.
+Ordem denegada.
