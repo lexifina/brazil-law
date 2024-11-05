@@ -1,0 +1,27 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 525-526):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. NÃO PREENCHIMENTO DOS REQUISITOS PARA A PROPOSITURA DO ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). HABITUALIDADE CRIMINOSA. PRÁTICA DE NOVO CRIME IDÊNTICO. CONDENAÇÃO POR FATO POSTERIOR. RECEBIMENTO DA DENÚNCIA E REGULAR PROSSEGUIMENTO DA AÇÃO PENAL. ILEGALIDADE NÃO CONSTATADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com a orientação desta Corte Superior, quando não estão preenchidos os requisitos legais para a celebração do acordo de não persecução penal (art. 28-A do CPP), não há discricionariedade do Ministério Público para propositura do acordo, motivo pelo qual inexiste razão, inclusive, para remessa dos autos ao Procurador-Geral de Justiça, na forma do art. 28 do CPP.
+2. No caso, o Ministério Público, em entendimento ratificado por seu órgão superior e pelo Tribunal de origem, entendeu que não estariam preenchidos os requisitos para a propositura da transação penal em apreço, por haver, nos termos do art. 28-A, § 2º, II, do CPP, habitualidade criminosa - condenação pela prática de nova infração idêntica à apurada nos autos.
+3. A contumácia delitiva descrita no art. 28-A, § 2º, II, do CPP deve ser entendida em seu sentido amplo, de modo a abranger, inclusive, fatos posteriores ao delito em discussão, para assegurar a efetividade do ANPP. Embora essas circunstâncias não configurem reincidência ou maus antecedentes, revelam que a ré está voltada para o crime, de modo que se faz presente o óbice previsto no referido dispositivo legal. Precedentes.
+4. Agravo regimental não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 554-557).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido violação ao princípio da motivação das decisões judiciais, uma vez que não houve a exposição do motivo de não ter sido determinado o oferecimento do Acordo de Não Persecução Penal - ANPP ao MP, de forma que deve ser determinada a propositura do referido acordo por preenchimento de todos os requisitos para tanto.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 530-532):
+No caso, o Ministério Público, em entendimento ratificado por seu órgão superior e pelo Tribunal de origem, entendeu que não estariam preenchidos os requisitos para a propositura da transação penal em apreço, por haver, nos termos do art. 28-A, § 2º, II, do CPP, habitualidade criminosa - "a prática de nova infração penal, por igual delito, pelo qual inclusive  a ré  foi condenada" (fl. 382).
+A contumácia delitiva descrita no art. 28-A, § 2º, II, do CPP deve ser entendida em seu sentido amplo, de modo a abranger, inclusive, fatos posteriores ao delito em discussão, para assegurar a efetividade do ANPP. Embora essas circunstâncias não configurem reincidência ou maus antecedentes, revelam que a ré está voltada para o crime, de modo que se faz presente o óbice previsto no referido dispositivo legal.
+ ..
+Portanto, a solução adotada pelas instâncias ordinárias está em conformidade com a orientação desta Corte Superior, segundo a qual, quando não estão preenchidos os requisitos legais para a celebração do acordo de não persecução penal (art. 28-A do CPP), não há discricionariedade do Ministério Público para propositura do acordo, motivo pelo qual inexiste razão, inclusive, para remessa dos autos ao Procurador-Geral de Justiça, na forma do art. 28 do CPP.
+Portanto, d emonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
