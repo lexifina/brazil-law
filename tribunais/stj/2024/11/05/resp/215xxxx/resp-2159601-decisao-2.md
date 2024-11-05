@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial manifestado por Unimed Pelotas - RS, Cooperativa de Assistência à Saúde LTDA., em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE COBRANÇA. RETIRADA DE SÓCIO DE COOPERATIVA. RESTITUIÇÃO DO VALOR DAS QUOTAS-PARTES INTEGRALIZADAS. CORREÇÃO MONETÁRIA DEVIDA.
+Prevendo o estatuto da cooperativa demandada que em caso de demissão terá o sócio direito à exclusão do capital que integralizou, bem como que este deve ser corrigido monetariamente, o valor a ser devolvido à autora não pode se limitar ao valor nominal das quotas-partes integralizadas. Termo inicial da correção monetária que deve observar a data do desembolso de cada parcela, pena de restar configurado enriquecimento ilícito da autora.
+APELO PARCIALMENTE PROVIDO.
+Afirmou que o acórdão local foi omisso e não respeitou as disposições normativas acerca da correção monetária.
+Assim delimitada a controvérsia, passo a decidir.
+O juízo negativo de admissibilidade adotou como razões de decidir a incidência dos verbetes n. 7 da Súmula desta Casa e 283 e 284 do Supremo Tribunal Federal, além da ausência de omissão pelo Tribunal de origem.
+Os dois últimos verbetes foram aplicados porque "os fundamentos delineados no acórdão recorrido não foram inteiramente impugnados pelas razões recursais" (e-STJ, fl. 663) e porque "não foram delineados argumentos recursais a respeito do pedido de improcedência da demanda, cujas alegações se restringiram à questão envolvendo os limites da correção monetária, o que configura deficiência de fundamentação recursal" (e-STJ, fl. 664).
+Os referidos enunciados, todavia, deixaram de ser impugnados pela agravante, a despeito da norma contida no artigo 1.021, § 1º, do Código de Processo Civil.
+A Corte Especial do STJ, em julgamento recente, manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luís Felipe Salomão, julgamento em 19.9.2018).
+Nesse precedente, o Colegiado, por maioria, negou provimento aos embargos de divergência e manteve a decisão da Segunda Turma do STJ que não conheceu do agravo por aplicação da Súmula 182/STJ, já que o agravante não atacou todos os pontos da decisão que não admitiu o recurso especial. Conforme o voto vencedor, tanto no CPC de 1973 quanto no de 2015 há regra que remete às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade da impugnação de todos os fundamentos da decisão que não admite recurso especial.
+Para o Ministro relator, não há possibilidade de impugnação parcial da decisão que deixa de admitir recurso especial, já que tal decisão é incindível e deve ser impugnada em sua integralidade. A não obediência a essa regra implicaria o exame indevido de questões (já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno), pois o conhecimento do agravo obriga o STJ a conhecer de todos os fundamentos do recurso especial .
+Em face do exposto, não conheço do agravo em recurso especial.
+Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
