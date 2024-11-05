@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BRASIL BROKES PARTICIPAÇÕES S/A e outro em face da decisão monocrática proferida às fls. 458/459 (e-STJ), que determinou a a restituição dos autos à origem para aguardar o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema 1173).
+Em suas razões (fls. 462/468, e-STJ), a embargante a existência de omissão e contradição na decisão proferida.
+Impugnação às fls. 472/478.
+É o breve relatório.
+Decido.
+Os aclaratórios merecem acolhida.
+Observa da leitura do autos que a matéria analisada na decisão é estranha aos presentes autos.
+Procede, portanto, a alegação de omissão e contradição, razão pela qual reconsidero a decisão de fl. 458/459 (e-STJ), tornando-a nula.
+Passo, portanto, a novo julgamento do feito.
+Trata-se de agravo (art. 1.042 do CPC/15) interposto por BRASIL BROKES PARTICIPAÇÕES S/A e outro, contra decisão que não admitiu o recurso especial da insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 336, e-STJ):
+AGRAVO DE INSTRUMENTO AÇÃO DE RESCISÃOCONTRATUAL C. C DEVOLUÇÃO DE VALORESPAGOS Fase de cumprimento de sentença Impugnação rejeitada Manutenção da executada Brasil Brokers no polo passivo da demanda Sentença que não determinou a sua exclusão Ausência de recurso por parte da requerida Brasil Brokers Legitimidade passiva mantida Excesso de execução Não ocorrência - Somente a Impugnante Frema não responde pelo pedido de restituição dos valores pagos, estando sua execução limitada aos valores da taxa SATI Condenação solidária das demais executadas Decisão mantida Recurso desprovido.
+Os embargos de declaração foram rejeitados (fls. 374/376, e-STJ).
+Nas razões do recurso especial (fls. 378/397 , e-STJ), a insurgente alegou, além de dissídio jurisprudencial, que o acórdão recorrido violou os arts.116, 489, 525, 5.º, 1.005, e 1.022 do CPC
+Sustentou, em síntese:
+a) negativa de prestação jurisdicional;
+b) que "por serem empresas do mesmo grupo econômico, sendo a 1ª Recorrente, BRASIL BROKERS, sociedade anônima e a 2ª Recorrente, FREMA, sua subsidiária, ambas atuando no mercado imobiliário, estamos diante de um evidente litisconsórcio passivo unitário, ainda que facultativo", devendo o julgamento ser uniforme para as duas sociedades.
+c) "que o excesso apontado pela Recorrente prescinde de qualquer planilha de cálculo.".
+Contrarrazões às fls. 402/415, e-STJ.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial, dando ensejo a interposição do presente agravo .
+Foi apresentada contraminuta (fls. 435/448, e-STJ).
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Em relação à violação aos arts. 489 e 1.022 do CPC, ante a negativa de prestação jurisdicional, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, veja-se:
+Conforme o entendimento do Superior Tribunal de Justiça: "a melhor exegese dos arts. 14 e 18 do CDC indica que todos aqueles que participam da introdução do produto ou serviço no mercado devem responder solidariamente por eventual defeito ou vício, isto é, imputa-se a toda a cadeia de fornecimento a responsabilidade pela garantia de qualidade e adequação"(REsp 1058221/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/10/2011, DJe14/10/2011; REsp 1077911/SP, Rel. Ministra NANCY ANDRIGHI,TERCEIRA TURMA, julgado em 04/10/2011, DJe 14/10/2011).
+No caso, muito embora não tenha figurado como promitente vendedora no contrato firmado, a corré Brasil Brokers Participações S. A. integrou a cadeia de fornecimento do produto em questão, comunicando-se com os promitentes compradores acerca do recebimento dos pagamentos e expedição de recibos e elaborando relatório do negócio imobiliário, conforme se observados documentos de fls. 51/54 e 55/57 dos autos principais, razão pela qual também é parte legítima passiva.
+Ademais, como bem ponderado pelo MM. Juiz de primeiro grau na r. decisão recorrida: "Como se dessume do título executivo judicial, verifica-se que foi determinada a exclusão, no sistema, dos nomes do ex-Patronos da ré-incorporadora DELFORTE e BRASILBROKERS, bem como a inclusão, no sistema, do nome dos atuais Patronos, não havendo qualquer menção acerca da exclusão da parte impugnante do polo passivo da ação, de modo que, o pedido de exclusão do polo passivo da ação deve ser rejeitado".
+Assim, não foi determinada a exclusão da parte Brasil Brokers do polo passivo da ação.
+Dessa forma, não há que se falar em negativa de prestação jurisdicional pelo Tribunal local, que apreciou todas as questões que lhe foram postas de forma suficiente, embora não tenha acolhido o pedido da parte insurgente em sede de embargos de declaração.
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE QUITAÇÃO INTEGRAL DO PREÇO. PREVISÃO CONTRATUAL. OBSCURIDADE. ERRO MATERIAL. INEXISTÊNCIA. RESPONSABILIDADE. DISCUSSÃO. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DAS SÚMULAS DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1022 do Código de Processo Civil de 2015.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1348076/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/04/2019, DJe 12/04/2019)
+2. Quanto à apontada violação aos artigos 116 e a tese de que o caso dos autos é de litisconsórcio unitário, o recurso também não merece prosperar uma vez que esbarra nos óbices previstos nas súmulas ns. 5 e 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM RESTITUIÇÃO DE VALORES. PREVIDÊNCIA PRIVADA.  ..  3. LITISCONSÓRCIO PASSIVO NECESSÁRIO. IMPRESCINDIBILIDADE. REVISÃO DO JULGADO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ.  ..  5 AGRAVO INTERNO DESPROVIDO.
+ ..  3. Tendo o Tribunal de origem concluído pela necessidade de integração do INSS à lide, a revisão de tal entendimento não está ao alcance desta Corte, por demandar o reexame do conjunto fático-probatório dos autos, providência vedada nesta instância especial, nos termos da Súmula 7/STJ.  ..  5. Agravo interno desprovido. (EDcl nos EDcl no REsp 1869567/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/04/2021, DJe 15/04/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. PRESCRIÇÃO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. ACORDÃO FUNDAMENTADO EM LEI LOCAL. SÚMULA N. 280 DO STF. DECISÃO MANTIDA.  ..
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir pela legitimidade passiva da recorrente e pela inexistência de litisconsórcio passivo necessário. Alterar esse entendimento demandaria o reexame do conjunto probatório do feito, vedado em recurso especial.  ..  6. Agravo interno desprovido. (AgInt no REsp 1721823/SP, Rel. Ministro ANTONIO CARLOSFERREIRA, QUARTA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE. NECESSIDADE DE FORMAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, após análise dos elementos fático - probatório dos autos, concluiu pela viabilidade da formação de litisconsórcio passivo necessário, tendo em vista a natureza da relação jurídica e a necessidade da lide ser decidida de modo uniforme para todas as partes envolvidas. Alterar o entendimento do acórdão recorrido demandaria necessariamente reexame do conjunto fático - probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ. 2. Agravo interno não provido. (AgInt no REsp 1645178/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/08/2017, DJe 18/08/2017)
+3. O Tribunal a quo negou provimento ao agravo de instrumento, para manter decisão que rejeitou a impugnação ao cumprimento de sentença, nos seguintes termos:
+De fato, segundo o v. acórdão de fls. 48/51 do cumprimento de sentença, somente a Impugnante Frema não responde pelo pedido de restituição dos valores pagos, pois as demais corrés foram condenadas pela restituição dos valores.
+Ressalte-se que no tocante à impugnante Frema está sendo cobrada somente a taxa SATI, nos termos determinados no v. acórdão de fls. 48/51 do cumprimento de sentença, permanecendo a condenação da agravante Brasil Brokers.
+Por fim, a despeito de ter sido apresentada planilha de cálculo pela exequente, os executados, ora agravantes não apresentaram planilha de cálculo dos valores que entendem devidos.
+Busca a parte recorrente fazer prevalecer o entendimento acerca da prescindibilidade da planilha.
+Com efeito, o Superior Tribunal de Justiça, no âmbito de recurso especial representativo de controvérsia, assentou a tese vinculante de que é indispensável apontar, na petição de impugnação ao cumprimento de sentença, a parcela incontroversa do débito, bem como as incorreções encontradas nos cálculos do credor, sob pena de rejeição liminar da petição, não se admitindo emenda à inicial (Recurso Especial Repetitivo 1.387.248/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, CORTE ESPECIAL, julgado em 07/05/2014, DJe 19/05/2014)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. INDICAÇÃO DOS VALORES DEVIDOS E APRESENTAÇÃO DE MEMÓRIA DE CÁLCULO. CUMPRIMENTO PELO DEVEDOR.HONORÁRIOS SUCUMBENCIAIS. REJEIÇÃO PARCIAL DA IMPUGNAÇÃO. CABIMENTO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Não há violação do art. 1.022 do CPC/2015, pois a Corte de origem dirimiu a matéria submetida à sua apreciação manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+2 "O acórdão recorrido está em sintonia com a jurisprudência desta Corte no sentido de que a alegação de excesso de execução deve vir acompanhada do valor que a parte insurgente entende ser devido, sob pena de rejeição liminar dos embargos ou de não conhecimento desse fundamento, sendo-lhe vedada a emenda à inicial" (AgInt no AREsp 1.532.085/RN, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/11/2019, DJe de 21/11/2019).
+3. Nos termos da jurisprudência desta Corte Superior, no caso de acolhimento da impugnação do cumprimento de sentença, ainda que parcial, é cabível o arbitramento de honorários advocatícios em benefício do executado. Entendimento consolidado pela Corte Especial no julgamento do Recurso Especial Repetitivo 1.134.186/RS.
+4. Agravo interno provido para, em novo exame, conhecer do agravo e desprover o recurso especial.
+(AgInt nos EDcl no AREsp 1949286/DF, de minha Relatoria, QUARTA TURMA, julgado em 30/5/2022, DJe de 24/6/2022)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM. AUSÊNCIA DE OMISSÃO. VIOLAÇÃO DO ART. 6º DA LINDB. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. ARTS.1.062 E 1.063 DO CC/16. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. AUSÊNCIA DE CONFIGURAÇÃO DO DISSÍDIO JURISPRUDENCIAL. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação do art. 535 do Código de Processo Civil pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes.
+2. Em regra, não cabe ao Superior Tribunal de Justiça apreciar a alegação de afronta ao art. 6º da Lei de Introdução às Normas do Direito Brasileiro (antiga Lei de Introdução ao Código Civil), porquanto após 1988, com o advento da vigente Constituição da República, os princípios referentes à coisa julgada, ao ato jurídico perfeito e ao direito adquirido passaram a ser de índole eminentemente constitucional.
+3. De acordo com a jurisprudência desta Corte, na impugnação ao cumprimento de sentença, apesar de não ser necessária a apresentação de planilha discriminada do cálculo do valor que o executado entende correto, é imprescindível o oferecimento de memória discriminada do quantum debeatur. Precedente. Incidência da Súmula 83/STJ.
+4. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. No caso, não foi prequestionada a matéria dos arts. 1.062 e 1.063 do CC/16.
+5. Para a análise da admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, torna-se imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, a fim de demonstrar a divergência jurisprudencial existente, o que não ocorreu no caso em apreço.
+6. Agravo regimental não provido.
+(AgRg no AREsp 174588/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/12/2014, DJe de 19/12/2014)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos, recaindo ao recurso especial a Súmula 83/STJ.
+4. Ante o exposto, com amparo na Súmula 568 do STJ, após acolher com efeitos infringentes os presentes aclaratórios a fim de tornar sem efeitos a decisão de fl. 441/456 (e-STJ), nego provimento ao recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
