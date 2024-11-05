@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de THAIS BORBA DA CONCEICAO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Habeas Corpus n. 0097002-62.2023.8.19.0000).
+A paciente foi presa em flagrante em 22/11/2023 e, posteriormente, denunciada como incursa nos artigos 163 ( crime dano), 329 (crime de resistência), 330 (crime desobediência) e 331 ( crime desacato) todos do Código Penal. De acordo com a denúncia, a paciente teria arrombado o portão de um abrigo, que estava trancado com cadeado, invadido o estabelecimento e agredido uma funcionária, com intuito de levar seu filho que estava sendo assistido pela instituição por determinação judicial.
+A impetrante sustenta nulidade do decreto prisional por deficiência de fundamentação e que não deve ser imposta medida cautelar mais gravosa que a própria pena que lhe será eventualmente aplicada. Ressalta, ainda, que "a paciente necessita de tratamento médico com urgência, eis que há claro indício de grave comprometimento de sua saúde mental, na medida em que manifestou pensamento e intenção suicida".
+A liminar foi indeferida (fls.69/70)
+As informações foram prestadas (fls.77/80).
+O Ministério Público opinou pela denegação da ordem(fls. 92/100 ).
+É o relatório. DECIDO.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, passo a analisar a existência de eventual constrangimento ilegal, em razão de alegada nulidade do decreto prisional.
+A decisão que decretou a prisão preventiva foi fundamentada da seguinte forma: "a prisão da flagranteada merece ser mantida para a conveniência da instrução criminal, diante do fato que as testemunhas/vítimas, por certo, sentir-se-ão amedrontadas em prestar depoimento estando este em liberdade" (fl.8).
+A decisão é genérica e baseada em uma suposta gravidade dos crimes imputados. Não é o caso dos autos. Verifico que todos os crimes imputados a paciente ( dano, resistência, desobediência e desacato) não possuem, como elementos descritivos objetivos, violência ou grave ameaça à pessoa.
+Além do mais, tais crimes, em tese, são passíveis de transação penal ( artigo da Lei 9099/95), suspensão condicional do processo, na forma do artigo 89, da Lei 9099/95 ou, até mesmo, acordo de não persecução penal ( artigo 28-A do CPP).
+Ressalto, ainda, que na eventual hipótese de condenação, à paciente seria imposto o regime semiaberto. A jurisprudência pacífica do STJ, aliado ao entendimento da Suprema Corte, é no sentido de que é incompatível, salvo exceções, como situações de reiteração delitiva ou violência de gênero, a manutenção da prisão preventiva e a fixação do regime semiaberto na sentença condenatória.
+No caso em tela entendo possível a substituição da prisão preventiva por medidas cautelares diversas da prisão, na forma do artigo 319 do CPP, devendo as mesmas ser fixadas pelo juiz de primeiro grau.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício, na forma do artigo 654, § 2º, do CPP em favor de THAIS BORBA DA CONCEICAO para revogar a prisão preventiva da paciente, sem prejuízo da análise da aplicação de medidas cautelares alternativas pelo juízo a quo.
+Publique-se. Intimem-se.
+EMENTA
