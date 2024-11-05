@@ -1,0 +1,41 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por COMPANHIA SIDERURGICA NACIONAL contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 03/07/2024.
+Concluso ao gabinete em: 18/09/2024.
+Ação: de obrigação de fazer c/c compensação por danos morais ajuizada por JOÃO BAPTISTA MARIA, sucedido por LUIZA DE OLIVEIRA BAPTISTA MARIA e OUTROS, em face de LIV LINHAS INTELIGENTES DE ATENCAO A VIDA S/A, e posteriormente, contra COMPANHIA SIDERURGICA NACIONAL que ingressou no feito como assistente litisconsorcial, visando a cobertura dos medicamentos Neo-Decapeptyle X-geva uma vez por mês e o uso diário de abiraterona (Zytiga)250 mg- 04 comprimidos no tratamento de adenocarcinoma de próstata metastático.
+Sentença: julgou extinto o processo sem resolução do mérito, com fulcro no art. 485, VI, do CPC quanto ao pedido de obrigação de fazer, e condenou os réus no pagamento de compensação por danos morais no valor de R$ 10.000,00 (dez mil reais).
+Acórdão: negou provimento ao recurso das rés, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. PLANO DE SAUDE. FORNECIMENTO DE FARMACO ANTINEOPLÁSICO DE USO ORAL E DOMICILIAR. NEGATIVA DE AUTORIZAÇÃO DE DETERMINADO MEDICAMENTO INDICADO PELO MÉDICO ASSISTENTE. ÓBITO DO AUTOR NO CURSO DO PROCESSO. HABILITAÇÃO DOS HERDEIROS. SENTENÇA EXTINTIVA SEM RESOLUÇÃO DO MÉRITO QUANTO À OBRIGAÇÃO DE FAZER. CONDENAÇÃO EM DANOS MORAIS. RECURSO DA OPERADORA DE SAUDE E DA ESTIPULANTE, CSN.
+1. Hipótese em que o autor, portador de adenocarcinoma de próstata, com metástase óssea, alegou, em síntese, que após análise da solicitação médica, a operadora de saúde entendeu por bem substituir a medicação, sob alegação de melhor ajuste ao seu quadro clínico, e sem ter opção, para dar continuidade ao tratamento, que não ocorria há aproximadamente 90 dias, o médico assistente credenciado trocou o fármaco X Geva pelo Zometa, medicação que só foi liberada após liminar deferida nos autos.
+2. Doença da qual o autor era portador e necessidade do tratamento comprovados nos autos.
+3. Evidenciada a interferência indevida do plano de saúde na escolha terapêutica do médico assistente, visando induzir a indicação do tratamento que melhor atendesse aos seus interesses, o que acabou por ocorrer, haja vista demora na autorização e liberação do tratamento e a premente necessidade de continuidade, para evitar a piora no quadro de saúde do paciente.
+4. Inteligência da Súmula nº 211, TJRJ.
+5. Afronta à boa-fé objetiva, que deve reger o contrato pactuado entre os contratantes, pondo em risco até o objeto do contrato de plano de saúde, que é a preservação da saúde e da vida. Recusa Indevida.
+6. Dano Moral Comprovado. Súmula Nº 339, TJRJ. Valor Arbitrado R$ 10.000,00. Manutenção. DESPROVIMENTO DE AMBOS OS RECURSOS.
+Embargos de Declaração: opostos pelas rés, foram rejeitados.
+Recurso especial: alega violação dos arts. 489 e 1022 do CPC e 4º, III, da Lei 9.961/2000. Além de negativa de prestação jurisdicional, sustenta a tese da taxatividade do rol da ANS, a afastar a obrigatoriedade de cobertura de medicamento nele não incluído.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu integralmente a lide, expressando a obrigatoriedade de cobertura de medicamento antineoplásico e a ilicitude na sua recusa, o que ensejou a condenação em danos morais, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da obrigatoriedade de cobertura de medicamento antineoplásico
+Consoante jurisprudência desta Corte, é abusiva a recusa de cobertura de medicamentos antineoplásicos, ainda que se trate de fármaco off label, ou utilizado em caráter experimental, especialmente quando for imprescindível à conservação da vida do beneficiário, sendo irrel evante analisar a natureza taxativa ou exemplificativa do rol da ANS. Nesse sentido: AgInt no REsp n. 2.083.955/PB, 3ª Turma, DJe de 20/12/2023; AgInt no REsp n. 2.016.928/RN, 3ª Turma, DJe de 18/12/2023; AgInt no REsp n. 2.043.178/SP, 4ª Turma, DJe de 18/12/2023; e AgInt no REsp n. 2.066.693/SP, 4ª Turma, DJe de 15/12/2023.
+Nessa toada, a Lei 14.307, de 3/3/2022, tornou obrigatória a cobertura de medicamentos antineoplásicos no âmbito da saúde suplementar, em conformidade com a prescrição médica, desde que os medicamentos utilizados estejam registrados no órgão federal responsável pela vigilância sanitária, com uso terapêutico aprovado para essas finalidades.
+Logo, não merece reforma o acórdão recorrido, incidindo, na espécie, a Súmula 568/STJ.
+- Dos danos morais
+As duas Turmas de Direito Privado do STJ entendem que a negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Nesse sentido: AgInt no REsp 1731656/RS, 4ª Turma, DJe de 29/04/2019; e REsp 1662103/SP, 3ª Turma, DJe 13/12/2018.
+Na hipótese, verifica-se que o Tribunal de origem manteve a condenação da agravante no pagamento de compensação por danos morais examinando as circunstâncias específicas da hipótese quanto à experimentação de agravamento da situação psicológica do paciente que veio a óbito após a recusa de cobertura de tratamento contra o câncer, em consonância com a jurisprudência pacificada desta Corte Superior de Justiça, não merecendo reforma o acórdão, portanto, neste ponto.
+Frise-se, além disso, que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que incursão nesta seara implicaria ofensa ao óbice da Súmula 7 desta Corte.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação (e-STJ fls. 628) para 17%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. MEDICAMENTO ANTINEOPLÁSICO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. RECUSA DE COBERTURA INDEVIDA. SÚMULA 568/STJ. DANOS MORAIS. CONFIGURAÇÃO. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Nos termos da jurisprudência desta Corte, é abusiva a recusa de cobertura de medicamentos antineoplásicos, ainda que se trate de fármaco off label, ou utilizado em caráter experimental, especialmente quando for imprescindível à conservação da vida do beneficiário, sendo irrelevante analisar a natureza taxativa ou exemplificativa do rol da ANS. Precedentes.
+4. A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+5. Agravo conhecido. Recurso especial conhecido e desprovido.
