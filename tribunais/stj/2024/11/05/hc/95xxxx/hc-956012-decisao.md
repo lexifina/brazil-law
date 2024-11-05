@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUIZ FELIPE MARQUES PIRES contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido na Apelação Criminal n. 1502360-04.2024.8.26.0320.
+Colhe-se dos autos que o paciente foi condenado às penas de 8 anos e 2 meses de reclusão, em regime inicial fechado, e ao pagamento de 820 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, e art. 2º da Lei n. 8.072/1990 (fls. 73/74). Foram apreendidos aproximadamente 80 g de cocaína, 6 g de crack e 23 g de maconha (fl. 75).
+O Tribunal de origem negou provimento ao apelo defensivo (fls. 72/91).
+Nesta impetração, alega a defesa que a competência da guarda civil municipal está adstrita à proteção de bens, serviços e instalações do respectivo Município; porém, no caso, quando levaram a efeito a busca pessoal no paciente, estavam efetuando diligências em atuação típica e ostensiva de polícia militar, em local conhecido como ponto de tráfico de drogas (fl. 6).
+Defende, subsidiariamente, que a pena-base seja fixada no mínimo legal, bem como o abrandamento do regime prisional.
+Requer, nesses termos, inclusive liminarmente, a concessão da ordem de habeas corpus.
+É o relatório.
+É certo que a Constituição Federal de 1988 não atribui à guarda municipal atividades ostensivas típicas de polícia militar ou investigativas de polícia civil, como se fossem verdadeiras "polícias municipais" (HC n. 830.530/SP, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 4/10/2023).
+A Corte local, ao afastar a preliminar de ilegalidade na busca pessoal por guardas civis municipais, considerou o seguinte (fls. 75/76):
+Tanto que, guardas municipais, durante patrulhamento pelo local dos fatos, conhecido como ponto de tráfico de drogas, presenciaram LUIZ FELIPE caminhando pela via pública, ocasião em que notaram comportamento incomum, eis que ao visualizar a guarnição o denunciado tentou ocultar algo que trazia com ele e, ao perceber que seria abordado, tentou empreender fuga. Sem sucesso.
+ ..
+A hipótese é de se afastar a preliminar de nulidade da ação penal. Isto porque a atuação dos guardas municipais no combate ao crime é perfeitamente legal.
+Com efeito, do excerto acima colacionado, verifica-se que os guardas municipais exerceram atividade investigativa e ostensiva de polícia judiciária, já que patrulhavam local conhecido como ponto de tráfico de drogas, onde realizaram busca pessoal no paciente, que não externava qualquer situação de flagrância, apesar de tentar ocultar algo e empreender fuga. No mesmo sentido, cito o seguinte julgado: AgRg no HC n. 836.894/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 15/12/2023.
+Ainda que, eventualmente, se considerasse provável que o réu ocultasse objetos ilícitos, isto é, que havia fundada suspeita de que ele escondia drogas, não existia certeza sobre tal situação a ponto de autorizar a imediata prisão em flagrante por parte de qualquer do povo, com amparo no art. 301 do CPP  .. . E, por não haver sido demonstrada concretamente a existência de relação clara, direta e imediata com a proteção dos bens, serviços ou instalações municipais, ou de algum cidadão que os estivesse usando, não estavam os guardas municipais autorizados, naquela situação, a avaliar a presença da fundada suspeita e efetuar a busca pessoal no acusado (HC n. 830.530/SP, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 4/10/2023 - grifo nosso).
+O Supremo Tribunal Federal, apesar de reconhecer em diversos julgados que as guardas municipais integram o Sistema Único de Segurança Pública e exercem atividade dessa natureza (vide RE n. 846.854/SP, Ministro Luiz Fux, Tribunal Pleno, DJe 7/2/2018 e ADC n. 38/DF, Ministro Alexandre de Moraes, Tribunal Pleno, DJe 18/5/2021), nunca as equiparou por completo aos órgãos policiais para todos os fins (HC n. 830.530/SP, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 4/10/2023 - grifo nosso).
+Ante o exposto, concedo liminarmente a ordem para, reformando o acórdão impugnado, reconhecer a nulidade das provas obtidas na busca pessoal, bem como as delas derivadas, e absolver o paciente (Autos n. 1502360-04.2024.8.26.0320) .
+Comu nique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. ART. 244 DO CPP. BUSCA PESSOAL REALIZADA POR GUARDAS MUNICIPAIS EM PATRULHAMENTO OSTENSIVO. AGENTES PÚBLICOS QUE INTEGRAM O SISTEMA DE SEGURANÇA PÚBLICA, MAS NÃO POSSUEM ATRIBUIÇÕES DAS POLÍCIAS JUDICIÁRIAS OU MILITARES. RECONHECIMENTO DA ILEGALIDADE.
+Ordem concedida liminarmente .
