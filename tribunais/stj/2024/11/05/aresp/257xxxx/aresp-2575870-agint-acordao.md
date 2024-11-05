@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO DE MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Na espécie, o Tribunal a quo decidiu a causa com fundamentos exclusivamente constitucionais e a recorrente aponta violação dos arts. 489 e 1.022 do CPC/2015 alegando omissão de questões constitucionais e requer seu prequestionamento para exaurimento das instâncias recursais.
+3. Consoante a pacífica jurisprudência deste Tribunal Superior, no âmbito do recurso especial, não cabe ao STJ examinar alegação de suposta omissão de questão de natureza constitucional, sob pena de usurpação da competência do STF. Citem-se: AgInt no REsp n. 2.046.776/PE, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 28/9/2023; AgInt no REsp n. 2.041.560/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 17/5/2023; AgInt nos EAREsp 731.395/SP, rel. Min. Francisco Falcão, Corte Especial, DJe 9/10/2018; AgInt no REsp 1.679.519/SE, rel. Min. Sérgio Kukina, Primeira Turma, DJe 26/4/2018; REsp 1.527.216/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe 13/11/2018; e AgRg no REsp 961.258/CE, rel. Min. Napoleão Nunes Maia Filho, Quinta Turma, DJe de 13/12/2010.
+4. Embora o recurso se restrinja à alegação de vício não sanado, assinale-se que, consoante o art. 105, III, da CF, o Superior Tribunal de Justiça, no âmbito do recurso especial, não é competente para apreciar suposta violação de dispositivo constitucional, ainda que seja a título de prequestionamento, objetivando a interposição de recurso extraordinário. Precedentes.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Trata-se de agravo interno interposto por FIGUEIRA INDÚSTRIA E COMÉRCIO S/A E OUTRAS contra decisão, assim ementada (fl. 17.594):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS. QUESTÃO CONSTITUCIONAL. OMISSÃO. COMPETÊNCIA DO STF. AGRAVO CONHECIDO E RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+Interpõe o presente recurso afirmando a necessidade de esgotamento de instâncias, pelo julgamento pelo colegiado do STJ, para viabilizar o julgamento do RE pelo STF. Alega fato novo relevante relativo a acórdão do TJSP reconhecendo a inconstitucionalidade por "por omissão do art. 2º da LC 192/2022 por violação ao art. 225, §1º, VIII, da CF, por ter contemplado a gasolina e não ter contemplado o Álcool Combustível Hidratado no rol de combustíveis sujeitos a regra do art. 2º da EC 33/2001, tal como as Agravantes sustentaram no Recurso de Apelação, e reforçaram nos respetivos Embargos de Declaração" (fl. 17.606).
+Alega que o Tribunal a quo não enfrentou argumentos relevantes que dizem respeito à violação das normas constitucionais que buscou o prequestionamento.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO DE MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Na espécie, o Tribunal a quo decidiu a causa com fundamentos exclusivamente constitucionais e a recorrente aponta violação dos arts. 489 e 1.022 do CPC/2015 alegando omissão de questões constitucionais e requer seu prequestionamento para exaurimento das instâncias recursais.
+3. Consoante a pacífica jurisprudência deste Tribunal Superior, no âmbito do recurso especial, não cabe ao STJ examinar alegação de suposta omissão de questão de natureza constitucional, sob pena de usurpação da competência do STF. Citem-se: AgInt no REsp n. 2.046.776/PE, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 28/9/2023; AgInt no REsp n. 2.041.560/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 17/5/2023; AgInt nos EAREsp 731.395/SP, rel. Min. Francisco Falcão, Corte Especial, DJe 9/10/2018; AgInt no REsp 1.679.519/SE, rel. Min. Sérgio Kukina, Primeira Turma, DJe 26/4/2018; REsp 1.527.216/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe 13/11/2018; e AgRg no REsp 961.258/CE, rel. Min. Napoleão Nunes Maia Filho, Quinta Turma, DJe de 13/12/2010.
+4. Embora o recurso se restrinja à alegação de vício não sanado, assinale-se que, consoante o art. 105, III, da CF, o Superior Tribunal de Justiça, no âmbito do recurso especial, não é competente para apreciar suposta violação de dispositivo constitucional, ainda que seja a título de prequestionamento, objetivando a interposição de recurso extraordinário. Precedentes.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+É certo que os órgãos judiciais estão obrigados a enfrentar, de forma adequada, coerente e suficiente, as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+Assim, a jurisprudência do STJ é firme no sentido de que não incorre em violação dos arts. 489 e 1.022 do CPC/2015, quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente sobre as questões relevantes para a solução da controvérsia, entendendo que a aplicação do direito ao caso, ainda que por solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Ocorre que, n a espécie, o Tribunal a quo decidiu a causa com fundamentos exclusivamente constitucionais e a recorrente aponta violação dos arts. 489 e 1.022 do CPC/2015 alegando omissão de questões constitucionais e requer seu prequestionamento para exaurimento de instâncias recursais.
+Todavia, no âmbito do recurso especial, não cabe ao STJ examinar alegação de suposta omissão de questão de natureza constitucional, sob pena de usurpação da competência do STF. Citem-se: AgInt no REsp n. 2.046.776/PE, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 28/9/2023; AgInt no REsp n. 2.041.560/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 17/5/2023; AgInt nos EAREsp 731.395/SP, rel. Min. Francisco Falcão, Corte Especial, DJe 9/10/2018; AgInt no REsp 1.679.519/SE, rel. Min. Sérgio Kukina, Primeira Turma, DJe 26/4/2018; REsp 1.527.216/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe 13/11/2018; e AgRg no REsp 961.258/CE, rel. Min. Napoleão Nunes Maia Filho, Quinta Turma, DJe de 13/12/2010.
+Quanto ao exaurimento de instâncias, consigne-se que a recorrente não apontou violação de norma constitucional nas razões do REsp, cingindo-se em suas razões à alegação de vício não sanado.
+Embora isso, assinale-se que, consoante o art. 105, III, da CF, o Superior Tribunal de Justiça, no âmbito do recurso especial, não é competente para apreciar suposta violação de dispositivo constitucional, ainda que seja a título de prequestionamento, objetivando a interposição de recurso extraordinário, sob pena de usurpação da competência exclusiva do STF.
+A propósito:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL.  .. . NEGATIVA DE VIGÊNCIA A DISPOSITIVO CONSTITUCIONAL. NÃO CONHECIMENTO.  .. .
+1. Quanto à apontada ofensa ao artigo 5º, LIV e LV, da CF/1988, não cabe ao Superior Tribunal de Justiça, em sede de recurso especial, analisar suposta ofensa a dispositivos da Constituição Federal, ainda que a título de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+ ..
+(AgInt no REsp n. 2.107.222/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DE NORMA CONSTITUCIONAL. COMPETÊNCIA DO STF.  ..
+1. Inviável a abertura da via especial, a fim de alegar violação de norma constitucional, sob pena de supressão de competência do próprio STF, ainda que seja a título de prequestionamento, objetivando a interposição de recurso extraordinário.
+ ..
+(AgInt no REsp n. 1.460.218/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 20/5/2019, DJe de 22/5/2019)
+PROCESSUAL CIVIL. EDUCAÇÃO. AÇÃO CIVIL PÚBLICA.  ..  IMPOSSIBILIDADE DE EXAMINAR SUPOSTA VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL.
+ ..
+VII - Ademais, quanto à alegação de violação do art. 22, XIV, da Constituição Federal. Não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+VIII - Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento. Nesse diapasão: AgInt no AREsp 2.154.787/CE, Ministro Moura Ribeiro, Terceira Turma, DJe 13/10/2022; e AgInt no AREsp 2.156.317/CE, Ministro Moura Ribeiro, Terceira Turma, DJe 13/10/2022.
+IX - Agravo interno improvido.
+(AgInt no AREsp n. 2.033.076/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/11/2022, DJe de 17/11/2022)
+Ante todo o exposto, nego provimento ao agravo interno.
+É como voto.
