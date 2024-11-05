@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação dos arts. 489 e 1.022 do CPC/2015, falta de demonstração de ofensa aos demais artigos arrolados e incidência da Súmula n. 7/STJ (e-STJ fls. 993/995).
+O acórdão recorrido está assim ementado (e-STJ fl. 923):
+AÇÃO ESTIMATÓRIA - Bem imóvel sem matrícula regular - Declaração de que o negócio jurídico firmado pelas partes envolve apenas a cessão de direitos possessórios, com o pagamento de multa prevista no contrato - Preliminar de cerceamento de defesa afastada - Decadência do direito de ação do autor rechaçada - Prazo que se conta da efetiva ciência do vício Artigo 445, § 1º., do CC - Alegação de dependência de outra ação de rescisão do contrato -Reunião dos processos por conexão como faculdade atribuída ao magistrado - Julgamento conjunto submetido ao arbítrio e discricionariedade do juiz, privilegiando a efetividade da justiça - Precedentes do STJ - Princípio da "pas de nullité sans grief" - Suspensão do outro processo, que aguarda o julgamento desta causa, já determinada - Vício redibitório como defeito oculto e intrínseco da coisa transmitida, o qual a torna imprópria ao uso - Caracterização - Contrato firmado como transmissão da propriedade, e não meramente da posse - Bloqueio judicial na matricula do imóvel - Ciência dos apelantes quanto à existência de tal irregularidade da matrícula - Apelantes que venderam o imóvel, sabendo do vício que contaminava a possibilidade de transmissão da escritura para o nome do apelado - Irresignação quanto aos honorários sucumbenciais arbitrados na origem no percentual de 20% sobre o valor da condenação - Adequada a minoração dos honorários de sucumbência para 15% - Sentença reformada apenas no que concerne ao percentual dos honorários sucumbenciais Recurso provido em parte.
+Os embargos de declaração foram parcialmente acolhidos, nos termos da ementa que segue (e-STJ fl. 945):
+EMBARGOS DECLARATÓRIOS - Alegação de omissão e contradição - Acórdão que afastou a alegação recursal de julgamento "ultra petita" no que diz respeito à incidência da multa contratual - Embargado que concorda com o pedido dos embargantes nesse tocante - Alteração do julgado nesse ponto - Inexistência de demais vícios no acórdão - Inconformismo - Tentativa de reapreciação da causa - Via recursal inadequada - Embargos acolhidos em parte.
+Nas razões do recurso especial (e-STJ fls. 951/966), interposto com fundamento no art. 105, III, "a", da CF, os recorrentes apontaram ofensa aos seguintes dispositivos de lei:
+(a) arts. 355, I, e 370 do CPC/2015, porque o indeferimento da prova requerida implicou cerceamento de defesa, uma vez que "demonstraria a possibilidade de desbloqueio da matrícula e, ainda, o conhecimento que tinha o recorrido da situação que levou ao bloqueio e dele próprio, o que afetaria a sua boa fé e também levaria ao reconhecimento da decadência com total clareza" (e-STJ fl. 955),
+(b) arts. 105 do CPC/1973 e 55 do CPC/2015, pois a ação estimatória e a de rescisão do compromisso de compra e venda deveriam ter sido decididas em conjunto, isso porque "o julgamento da estimatória seria um prejulgamento da rescisória, denotando-se contradição, dado que a estimatória somente poderia ser julgada se a rescisória não fosse acolhida" (e-STJ fl. 957),
+(c) art. 445, § 1º, do CC/2002, haja vista a decadência do direito do autor que teria ajuizado a ação após mais de um ano da sua posse. Sustentaram que o bloqueio da matrícula não pode ser entendido como vício redibitório,
+(d) art. 476 do CC/2002, tendo em vista que, por não estar em dia com suas obrigações, não poderia pedir a redução do preço,
+(e) art. 214, § 4º, da Lei n. 6.015/1973, uma vez que o vício considerado pelo acórdão como definitivo, seria, em verdade, "relativo, podendo, portanto, ser superado, somente não o tendo sido em razão do açodamento do recorrido, que criou óbices para a solução do problema" (e-STJ fl. 964),
+(f) art. 1.022, II, do CPC/2015, porquanto, apesar da oposição de embargos de declaração, "vários dispositivos discutidos nos autos e agora apontados como ofendidos não foram sequer referidos no julgado. Isso se passa com os arts. 370 e 55 do Código de Processo Civil e 476 do Código Civil" (e-STJ fl. 964).
+Contrarrazões às fls. 974/991 (e-STJ).
+No agravo (e-STJ fls. 998/1.019), declaram a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 1.023/1.043).
+É o relatório.
+Decido.
+De início, não verifico ofensa ao art. 1.022, II, do CPC/2015.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Quanto à apontada violação dos arts. 355, I, e 370 do CPC/2015, tendo as instâncias de origem concluído que as questões apresentadas estavam devidamente comprovadas, o que permitia o julgamento antecipado da lide, entender de modo contrário, acolhendo a alegação de cerceamento de defesa, implicaria reexame de todo o contexto fático-probatório do processo, o que é inviável no âmbito do especial, por força da Súmula n. 7/STJ.
+Além disso, o acórdão recorrido está de acordo com a jurisprudência do STJ ao afirmar que cabe ao juiz como destinatário da prova a competência para deferir ou indeferir as solicitadas pelas partes. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. CULPA DO RÉU CONFIGURADA. SÚMULA 7/STJ. LESÃO CORPORAL GRAVE. DANOS MORAIS. VALOR RAZOÁVEL. AGRAVO INTERNO DES PROVIDO.
+ ..
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção ou complementação de prova. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. Precedentes.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1948496/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/12/2021, DJe 01/02/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DE IMAGEM. USO INDEVIDO. DANOS MORAIS. AUSÊNCIA DE PROVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. REQUISIÇÃO DE DADOS AO PROVEDOR FACEBOOK. CRIAÇÃO DO PERFIL FALSO. INDEFERIMENTO DE PROVA. POSSIBILIDADE. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. SÚMULA N. 83 DO STJ. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+ ..
+2. O entendimento deste Tribunal Superior é de que o magistrado é o destinatário final das provas, cabendo-lhe analisar a necessidade de sua produção, cujo indeferimento não configura cerceamento de defesa.
+3. No caso, o Tribunal a quo analisou a questão com base nos elementos fáticos que informaram a demanda, concluindo pela ausência do dever de indenizar. Desse modo, rever as premissas estabelecidas pelas instâncias ordinárias implicaria o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, em virtude da Súmula n. 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1600225/DF, de minha relatoria, QUARTA TURMA, julgado em 22/11/2021, DJe 26/11/20 21.)
+O mesmo óbice deve ser aplicado quanto à alegação de que deveria ter ocorrido julgamento conjunto.
+A Corte local concluiu não haver possibilidade de decisões conflitantes, nem prejuízo à parte, uma vez que a outra ação estaria suspensa.
+Além disso, no acórdão dos embargos de declaração, ficou consignado que "os autos não estavam apensados como alegam os embargantes" (e-STJ fl. 947).
+Decidir de outro modo demandaria revisão de elementos fáticos, o que encontra óbice na Súmula n. 7/STJ.
+No que se refere à suposta decadência, o TJSP entendeu ter havido vício redibitório, de forma que, da ciência do referido vício até a propositura da ação não teria decorrido o prazo decadencial.
+Acolher as alegações recursais quanto ao ponto também demandariam reexame de fatos e provas, o que, repito, é inviável no âmbito do especial.
+Quanto à questão de fundo, o Colegiado estadual concluiu o seguinte (e-STJ fls. 928/929):
+ ..  os apelantes efetuaram o instrumento de compra e venda já sabendo do vício que contaminava a transmissão da escritura para o nome do apelado, e que esse seria impedido de fazer novo registro e averbação.
+Os recorrentes alegam que o bloqueio da matricula declarada em ação judicial é transitório, não fazendo coisa julgada material, podendo ser revisto a qualquer momento pela própria autoridade, desde que compelido ao saneamento do feito.
+Com efeito, o bloqueio do registro é uma medida acautelatória, tornando indisponível o bem, para obter a conformidade legal. Contudo, como bem aduzido pelos apelantes, esse bloqueio permanece até sanado o vicio.
+Nesse sentido, traslado o artigo 214, §4º, da Lei 6.015/73:
+ ..
+Ora, até o momento da sentença proferida quatro anos depois do ajuizamento da demanda em que os apelantes pleiteavam a declaração da regularidade da matricula do referido imóvel, ainda não havia sido sanado tal vício no registro do bem, como pontualmente proferido pelo magistrado.
+Dessa forma, razão não assiste aos apelantes, vez que caracterizado o vicio redibitório. O adquirente, ora apelado, não pode usufruir da coisa conforme sua natureza e destinação, qual seja, usando, gozando e dispondo do bem, em razão do vício que impossibilitava a transmissão da escritura para o nome do apelado, e que ele seria impedido de fazer novo registro e averbação. Por conseguinte, fica mantida a procedência da ação para declarar que o negócio jurídico firmado pelas partes envolve apenas a cessão de direitos possessórios sobre o imóvel, apurando-se o valor em sede de liquidação de sentença, bem como a condenação do réus no pagamento da multa prevista na cláusula 8.3 do contrato, assegurado o direito de repetição de indébito ao autor.
+A solução da controvérsia, também nesse particular, decorreu do exam e do conjunto fático-probatório do processo. Rever tal entendimento, mais uma vez, encontra óbice na Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
