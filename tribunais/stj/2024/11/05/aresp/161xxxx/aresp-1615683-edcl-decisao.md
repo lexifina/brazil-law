@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EDUARDO CANQUERINI em face de decisão que conheceu do agravo para dar provimento ao recurso especial, reconhecendo ofensa ao art. 1.022 do CPC/2015, determinando o retorno dos autos para sanar as omissões no julgado.
+Em sede de embargos de declaração, a parte embargante defende a existência de omissão no julgado, afirmando que: a) "Apesar do evidente acerto da veneranda decisão monocrática, e da juridicidade da futura declaração de prescrição pelo E. Tribunal de Justiça de São Paulo, é certo que há outras omissões no r. Acórdão regional que enseja negativa de prestação jurisdicional e nulidade"; b) "Trata-se da omissão apontada no item II. 4 do Recurso Especial, por nulidade - contrariedade e negativa de vigência ao art. 489, § I o , iv, do Código de Processo Civil (Lei 13.105/2015), bem como art. 1.022, ii, e art. 1.023, § 2 o , ante a não apreciação da prova oral, e mesmo documental, produzida quanto ao bem de família . Igualmente, no item II. 5 do Resp alega-se negativa de vigência ao art. 369 CPC e art. 212 CC, por desconsideração à prova testemunhai produzida"; e c) "o tendo a veneranda decisão monocrática manifestado sobre tal omissão/nulidade apontada no Resp e no Agravo de Instrumento, requer mui respeitosamente seja sanada a omissão para reconhecer também estas omissões/nulidades no Acórdão regional, determinando ao E. Tribunal de Justiça de São Paulo a análise também destas questões ora levantadas, provas e argumentos, relativamente ao bem de família, além da questão da prescrição."
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+É de bom alvitre ressaltar que o art. 1.023, da novel codificação processual, exige que conste na petição de embargos declaratórios a "indicação do erro, obscuridade, contradição ou omissão", sem a qual, repita-se, torna inviável o acolhimento da pretensão recursal.
+Nas razões dos embargos, a parte embargante defende que omissão no julgado, afirmando que, em que pese o reconhecimento de omissão quanto ao tema prescrição, não se manifestou acerca das provas em relação ao bem de família e a valoração da prova testemunhal.
+Por sua vez, a decisão embargada assim se manifestou:
+"O apelo merece prosperar no tocante à ofensa ao art. 1.022 do CPC/2015.
+Compulsando os autos, infere-se que nos embargos de declaração (fls. 852-864) foi reiterada a análise da questão sob o enfoque de que o comparecimento espontâneo, após o decurso do prazo prescricional, não enseja interrupção, estando prescrita a ação. A título elucidativo, confira-se trecho dos embargos de declaração:
+(..)
+De fato, com a devida vênia, o Tribunal de origem rejeitou os aclaratórios, nessa parte, (acórdão às fls. 871-876) sem examinar a referida tese, que pode vir a influenciar no desate da presente lide.
+Por sua vez, a iterativa jurisprudência desta eg. Corte é no sentido de que fica caracterizada a violação ao art. 1.022 do CPC/2015, quando o eg. Tribunal a quo deixa de examinar temas essenciais ao desate da controvérsia, apesar de devidamente provocado em sede de embargos de declaração. Nessa linha de intelecção, destacam-se os seguintes julgados:
+(..)
+Nesse senda, deve ser reconhecida a violação ao art. 1.022 do CPC/2015, para anular o v. acórdão (fls. 871-876) que julgou os aclaratórios (fls. 852-864), e determinar o retorno dos autos ao eg. TJ-SP para novo julgamento dos embargos de declaração, como entender de direito, sanando as omissões ora reconhecidas.
+Por sua vez, acolhida a alegada ofensa ao art. 1.022 do CPC/2015, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de reconhecer a violação ao art. 1.022 do CPC/2015, anulando-se o v. acórdão de fls. 871-876, determinando-se o retorno dos autos ao eg. Tribunal de Justiça do Estado de São Paulo para promover novo julgamento dos embargos de declaração (fls. 852-864), como entender de direito, sanando as omissões ora reconhecidas, ficando prejudicada a análise das demais questões."
+Na hipótese, verifica-se que houve determinação de anulação do acórdão proferido às fls. 871-876, determinando o retorno dos autos para novo julgamento dos embargos de fls. 852-864, o que afasta a alegada omissão em relação a temas não enfrentados.
+Desse modo, revela-se nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso através da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios. A propósito, nesse sentido, confiram-se os seguintes precedentes:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C/C COBRANÇA DE ALUGUÉIS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 535, incisos I e II, do CPC/73 ou 1.022 do Código de Processo Civil de 2015, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+(..)
+4. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp 1083820/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/12/2018, DJe 17/12/2018)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+(..)
+3. Embargos de declaração rejeitados, com fixação de multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do § 2º do art. 1.026 do CPC/2015."
+(EDcl nos EDcl no AgInt no REsp 1320651/PB, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/08/2018, DJe 10/09/2018)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+Publique-se.
+EMENTA
