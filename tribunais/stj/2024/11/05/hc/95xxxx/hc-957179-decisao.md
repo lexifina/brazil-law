@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CARLOS EDUARDO ROSA RUIZ LOPES contra o ato coator proferido pelo Tribunal de Justiça de São Paulo que não conheceu do HC n. 2317718-63.2024.8.26.0000. Eis a ementa do julgado (fl. 370):
+Habeas corpus - Pleito de liberdade ou concessão de prisão domiciliar após trânsito em julgado - Descabimento - Condenação transitada em julgado - Remédio heroico inadequado para tratar de matéria de execução e de prisão-pena - Impossibilidade de utilização do writ como substitutivo de recurso próprio - Entendimentos do E. Superior Tribunal de Justiça e do E. Supremo Tribunal Federal - Ausência de hipótese do art. 117 da LEP - Descabimento de concessão da ordem de ofício - Ausência de que está "extremamente debilitado" por motivo de doença grave, conforme exige o art. 318, II, do Código de Processo Penal - Ordem não conhecida liminarmente.
+A defesa alega que o paciente possui vários problemas de saúde e, também, em razão disso, está sobrevivendo em condições precaríssimas no cárcere, com risco até mesmo à sua vida. O paciente se encontra muito debilitado, com perda excessiva de peso e com os seus problemas de saúde extremamente agravados pelas condições em que se encontra (fl. 16).
+Aduz que olvidar não se pode que a revisão criminal intentada poderá resulta na modificação do julgado, com a consequente absolvição do paciente, situação que na prática, pode resultar, lamentavelmente, inócua caso o paciente continue preso até o julgamento daquela ação, máxime em razão de todos os problemas de saúde que possui (fl. 19).
+Pede a concessão de liminar para determinar a imediata soltura do paciente, ou, quando não, para determinar a sua prisão domiciliar, até que seja julgado o mérito da ordem; e III. B - a concessão do habeas corpus para determinar a soltura do paciente, a fim de aguardar em liberdade o julgamento da Revisão Criminal em andamento (fl. 20).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal local indeferiu a prisão domiciliar afirmando que não há comprovação nos autos de que a assistência médica e medicamentosa de que necessita o Paciente não está sendo fornecida ou mesmo de que ele está "extremamente debilitado" por motivo da doença grave, nos termos do art. 318, II, do Código de Processo Penal, de maneira que o impossibilite de prosseguir custodiado (fl. 374).
+Com efeito, precedente desta Corte Superior de Justiça sobre o tema em análise ressalta que a prisão domiciliar só é admitida em favor de preso inserido no regime aberto, a teor do que dispõe o art. 117 da Lei de Execução Penal. Contudo, comprovado que o recluso - não obstante cumpra pena nos regimes fechado ou semiaberto - esteja acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não possa ser prestado no ambiente prisional, admite-se, de forma excepcional, sua colocação em prisão domiciliar (HC n. 599.642/SP, Ministra Laurita Vaz, Sexta Turma, DJe 21/6/2021).
+No caso, a impetração não logrou comprovar que o paciente está com a saúde debilitada, sem assistência médica e medicamentosa.
+Ausente constrangimento ilegal a ser sanado.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. ART. 117 DA LEP. ALEGAÇÃO DE SAÚDE DEBILITADA. FALTA DE DEMONSTRAÇÃO DOS PRESSUPOSTOS. PRECEDENTES.
+Writ indeferido liminarmente.
