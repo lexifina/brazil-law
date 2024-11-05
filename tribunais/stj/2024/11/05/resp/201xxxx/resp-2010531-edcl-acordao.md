@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INEXIGIBILIDADE INDEVIDA DE LICITAÇÃO. CARACTERIZAÇÃO DO CRIME TIPIFICADO NO ART. 89 DA LEI N. 8.666/1993. AUSÊNCIA DE DOLO ESPECÍFICO. ABSOLVIÇÃO. REVISÃO. SÚMULA N. 7 DO STJ. OMISSÃO. NÃO CONFIGURAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível tão somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas na decisão embargada e é inadmissível quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento do julgado, objetiva nova avaliação do caso.
+2. No julgamento da A Pn n. 480/MG, esta Corte Superior decidiu, por maioria, que seria imprescindível a presença do dolo específico de causar danos ao erário e a demonstração do efetivo prejuízo para a tipificação do crime previsto no art. 89 da Lei n. 8.666/1993.
+3. Com base nas provas dos autos, o Tribunal de origem entendeu que não houve dolo específico de causar danos aos cofres públicos, pois, embora a literalidade do art. 89 da Lei n. 8.666/1993 determinasse a contratação direta por meio de "empresário exclusivo", essa prática tornaria inviável a celebração do contrato na ocasião em que celebrado (ano de 2009), dadas circunstâncias práticas que condicionaram a ação do agente, uma vez que os grandes empresários comumente delegavam a empresários locais as tratativas relacionadas a serviços artísticos a serem prestados em cidades do interior. Alterar a referida conclusão, para proclamar a condenação dos réus, demandaria reexame de fatos e provas, providência não admitida em recurso especial, observada a Súmula n. 7 do STJ.
+4. Não há necessidade de complementação ou de esclarecimento a respeito dos fundamentos da decisão recorrida, que é explícita e inequívoca sobre os temas discutidos. Em verdade, o embargante trata como omissão a sua irresignação com a solução prévia.
+5. O não preenchimento dos requisitos de admissibilidade do recurso - no caso, em virtude da aplicação da Súmula n. 7 do STJ - não se confunde com nenhum dos vícios elencados no art. 619 do CPP.
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO FEDERAL opõe embar gos de declaração ao acórdão de fls. 1.976-1.984, em que não foi provido o agravo regimental interposto.
+A defesa sustenta haver omissão, pois a aplicação da Súmula n. 7 do STJ impediu o conhecimento da questão de fundo, que não demanda reexame de fatos e provas, qual seja, o fundamento empregado para a absolvição do réu.
+Requer a correção da imperfeição apontada .
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INEXIGIBILIDADE INDEVIDA DE LICITAÇÃO. CARACTERIZAÇÃO DO CRIME TIPIFICADO NO ART. 89 DA LEI N. 8.666/1993. AUSÊNCIA DE DOLO ESPECÍFICO. ABSOLVIÇÃO. REVISÃO. SÚMULA N. 7 DO STJ. OMISSÃO. NÃO CONFIGURAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível tão somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas na decisão embargada e é inadmissível quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento do julgado, objetiva nova avaliação do caso.
+2. No julgamento da A Pn n. 480/MG, esta Corte Superior decidiu, por maioria, que seria imprescindível a presença do dolo específico de causar danos ao erário e a demonstração do efetivo prejuízo para a tipificação do crime previsto no art. 89 da Lei n. 8.666/1993.
+3. Com base nas provas dos autos, o Tribunal de origem entendeu que não houve dolo específico de causar danos aos cofres públicos, pois, embora a literalidade do art. 89 da Lei n. 8.666/1993 determinasse a contratação direta por meio de "empresário exclusivo", essa prática tornaria inviável a celebração do contrato na ocasião em que celebrado (ano de 2009), dadas circunstâncias práticas que condicionaram a ação do agente, uma vez que os grandes empresários comumente delegavam a empresários locais as tratativas relacionadas a serviços artísticos a serem prestados em cidades do interior. Alterar a referida conclusão, para proclamar a condenação dos réus, demandaria reexame de fatos e provas, providência não admitida em recurso especial, observada a Súmula n. 7 do STJ.
+4. Não há necessidade de complementação ou de esclarecimento a respeito dos fundamentos da decisão recorrida, que é explícita e inequívoca sobre os temas discutidos. Em verdade, o embargante trata como omissão a sua irresignação com a solução prévia.
+5. O não preenchimento dos requisitos de admissibilidade do recurso - no caso, em virtude da aplicação da Súmula n. 7 do STJ - não se confunde com nenhum dos vícios elencados no art. 619 do CPP.
+6. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O recurso integrativo é cabível somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas na decisão embargada e é inadmissível quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento do julgado, objetiva nova avaliação do caso.
+No que interessa, o ato embargado foi assim motivado (fls. 1.981-1.982):
+De fato, o recurso especial não preenche os requisitos de admissibilidade, haja vista a incidência da Súmula n. 7 do STJ.
+No julgamento da A Pn n. 480/MG, esta Corte Superior decidiu, por maioria, que seria imprescindível a presença do dolo específico de causar danos ao erário e a demonstração do efetivo prejuízo para a tipificação do crime previsto no art. 89 da Lei n. 8.666/1993. Confira-se:
+ ..
+Verifico que, com base nas provas dos autos, o Tribunal de origem entendeu que não houve dolo específico de causar danos aos cofres públicos, pois, embora a literalidade do art. 89 da Lei n. 8.666/1993 determinasse a contratação direta por meio de "empresário exclusivo", essa prática tornaria inviável a celebração do contrato na ocasião em que celebrado (ano de 2009), dadas circunstâncias práticas que condicionaram a ação do agente, uma vez que os grandes empresários comumente delegavam a empresários locais as tratativas relacionadas a serviços artísticos a serem prestados em cidades do interior.
+Alterar a referida conclusão, para proclamar a condenação dos réus, demandaria reexame de fatos e provas, providência não admitida em recurso especial, observada a Súmula n. 7 do STJ.
+Não vejo necessidade de complementação ou de esclarecimento a respeito dos fundamentos da decisão recorrida, que é explícita e inequívoca sobre os temas discutidos. Em verdade, o emb argante trata como omissão a sua irresignação com a solução prévia.
+Ressalto, por oportuno, que o não preenchimento dos requisitos de admissibilidade do recurso - no caso, em virtude da aplicação da Súmula n. 7 do STJ - não se confunde com nenhum dos vícios elencados no art. 619 do CPP.
+À vista do exposto, rejeito os embargos de declaração.
