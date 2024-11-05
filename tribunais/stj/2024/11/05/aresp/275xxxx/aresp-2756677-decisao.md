@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS ALBERTO LEMOS OTT contra decisão do TRF-4ª, que inadmitiu o recurso especial aviado em face de acórdão assim ementado (e-STJ fl. 352):
+APELAÇÃO CÍVEL. ACIDENTE De TRÂNSITO. RESPONSABILIDADE CIVIL POR OMISSÃO SUBJETIVA. AQUAPLANAGEM. CULPA EXCLUSIVA DA VÍTIMA. ÔNUS SUCUMBENCIAIS. SENTENÇA MANTIDA.
+1. Em casos de acidentes automobilísticos, em especial quando decorre de infortúnios como aquaplanagem na pista em dias chuvosos, é de verificar-se se realmente houve um fato, como a omissão da entidade administradora das rodovias (DNIT) na conservação e manutenção da pista, de modo que, com isso, possa ter contribuído de forma significativa para o evento. Não sendo o caso, de que havia volume anormal de água em razão de uma atitude (omissiva) desidiosa, afasta-se a alegação in case de que a aquaplanagem deu-se por conta de falha da autarquia ao não fiscalizar as eventuais falhas de drenagem no trecho.
+2. Nesse sentido, destaca-se que a responsabilidade civil dos entes públicos é objetiva, ex vi do art. 37, § 6º, da Constituição e respaldado na teoria do risco administrativo. Entrementes, vale para os casos comissivos, sendo que, nas hipóteses de omissão do Poder Público, não estando presente a obrigação legal específica de agir para impedir a ocorrência do resultado danoso (em sendo possível essa atuação), sendo uma omissão meramente genérica, a responsabilidade civil daí passa a ser subjetiva.
+3. O caso vertente converge para a conclusão que o acidente, conforme salientou o MM Magistrado Singular, deu-se pelo fato de (..) que o veículo encontrava-se em velocidade incompatível com as condições meteorológicas (chuva constante) e com as condições da pista (molhada) no momento do acidente. Corrobora esta conclusão o fato de o veículo ter sofrido vários capotamentos, nas palavras da petição inicial, pois, se realmente estivesse em velocidade mais baixa, tal não teria ocorrido com a gravidade com que ocorreu, e o desfecho do caso poderia ser outro.(..).
+4. Ônus da sucumbência corretamente fixados, na trilha do posicionamento adotado por esta Corte, restando suspensa a sua exigibilidade face à AJG deferida.
+5. Apelação a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões, o recorrentes apontou violação dos arts. 1.022, 1.025, e 489 do Código de Processo Civil/2015.
+Afirma que a Turma Julgadora, mesmo provocada pelos aclaratórios regularmente opostos na origem, deixou de se manifestar a respeito dos elementos probatórios apontados.
+Contrarrazões.
+Passo a decidir.
+Inicialmente, observo que o Superior Tribunal de Justiça firmou o entendimento de que não há violação do art. 1.022 do CPC/2015, muito menos negativa de prestação jurisdicional, quando o acórdão decide de forma clara e integral a controvérsia, adotando fundamentação suficiente, não se confundindo decisão desfavorável com negativa de prestação jurisdicional.
+Acerca do tema, conferir, ainda: AgInt no AREsp 1.168.812/RS, rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 21/08/2018, DJe 24/08/2018, e EDcl no AgInt no REsp 1.276.901/PR, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 21/08/2018, DJe 28/08/2018.
+No caso, o Tribunal a quo decidiu de forma coerente e suficientemente fundamentada a respeito dos elementos probatórios que ensejaram a improcedência do pedido autoral, ressaltando, expressamente, "que o veículo encontrava-se em velocidade incompatível com as condições meteorológicas (chuva constante) e com as condições da pista (molhada) no momento do acidente. Corrobora esta conclusão o fato de o veículo ter sofrido vários capotamentos, nas palavras da petição inicial, pois, se realmente estivesse em velocidade mais baixa, tal não teria ocorrido com a gravidade com que ocorreu, e o desfecho do caso poderia ser outro." (e-STJ fl. 374).
+Vê-se, sem dificuldades, que não ocorreu nenhuma violação dos arts. 489, 1.022 e 1.025 do CPC/2015.
+A nte o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
