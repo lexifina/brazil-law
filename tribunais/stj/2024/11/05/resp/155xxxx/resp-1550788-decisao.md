@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por SELMA DE FATIMA COSTA, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região (Apelação n. 5001821-52.2013.404.7015) assim ementado (fl. 1.019):
+SFH. SEGURO. SEM COBERTURA DO FCVS. CEF. ILEGITIMIDADE.
+1. Nas ações envolvendo seguro de mútuo habitacional no âmbito do Sistema Financeiro da Habitacional - SFH, a Caixa Econômica Federal - CEF - detém interesse jurídico para ingressar na lide somente nas hipóteses em que o instrumento estiver vinculado ao Fundo de Compensação de Variações Salariais - FCVS (apólices públicas, ramo 66).
+2. Segundo informações dos autos, o contrato NÃO conta com a cobertura do FCVS, o que afasta o interesse jurídico da CEF e a competência da Justiça Federal.
+Os embargos de declaração opostos foram rejeitados (fls. 1.040-1.042).
+Em suas razões recursais (fls. 1.055-1.066), além de divergência jurisprudencial, a recorrente aponta violação do art. 113, § 2º, do Código de Processo Civil, argumentando que a Corte de origem, ao não remeter os autos à Justiça Estadual, descumpre o dever legal de garantir o acesso à justiça e viola o princípio do devido processo legal.
+Aduz que a impossibilidade técnica do sistema judiciário não deve implicar ônus para as partes envolvidas na lide, sendo obrigações do juízo considerado incompetente remeter o processo à Justiça estadual.
+Defende que o Superior Tribunal de Justiça, em julgamento paradigmático, já se manifestou sobre as soluções de encaminhar o processo eletrônico à Justiça estadual, seja em formato físico ou digital, justamente para evitar que a parte autora seja onerada com as obrigações de iniciação nova ação e em conformidade com o art. 113, § 2º, do Código de Processo Civil.
+As contrarrazões foram apresentadas (fls. 1.089-1.099).
+É o relatório. Decido.
+Conforme extrai-se do acórdão recorrido, a Corte de origem manteve a sentença que entendeu que, devido à incompatibilidade entre os sistemas eletrônicos de processo da Justiça Federal da 4ª Região e da Justiça estadual do Paraná, o processo deveria ser extinto sem análise de mérito, porquanto as limitações técnicas existentes impediriam a transferência direta de um processo eletrônico da Justiça Federal para a Justiça estadual, de modo que decidiu que cabe ao autor iniciar uma nova ação na Justiça estadual competente para o julgamento da questão.
+Cito, pois, o referido trecho do acórdão (fl. 1.017):
+Nos termos da bem lançada sentença "dada a incompatibilidade entre os sistemas de processo eletrônico da Justiça Federal da 4ª Região e da Justiça Estadual do Paraná, deve o feito ser extinto sem exame de mérito para posterior distribuição perante o Juízo competente, acompanhado, inclusive, da presente sentença, nos termos do art. 230 da Consolidação Normativa da Corregedoria Regional da 4ª Região". Ou seja, devido a incompatibilidades técnicas é impossível a remessa de um processo eletrônico que tramita na Justiça Federal para a Justiça Estadual. O autor deve ajuizar uma nova ação na Justiça Estadual competente para o julgamento da causa.
+Todavia, o entendimento exarado no referido acórdão não encontra amparo na jurisprudência desta Corte que entende que a incompetência do órgão em que a ação foi ajuizada, mesmo sendo absoluta, como neste caso, não resulta na extinção do processo, mas sim em sua remessa para o órgão competente.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DA PARTE ADVERSA, DETERMINANDO A REMESSA DOS AUTOS À JUSTIÇA ESTADUAL. IRRESIGNAÇÃO DO AGRAVANTE.
+1. De acordo com o entendimento desta Corte, a incompetência do órgão perante o qual foi ajuizada a ação, ainda que se trate de incompetência absoluta, como no caso, não dá ensejo à extinção do processo, mas a sua remessa ao órgão competente. Precedentes.
+2. Eventual decretação da ilegitimidade ativa de um dos órgãos do Ministério Público em relação à ação proposta, atraindo o deslocamento da competência para outro juízo, não resulta na imediata extinção da ação sem julgamento do mérito, devendo o juízo competente intimar o órgão ministerial com atribuições para a causa com o intuito de ratificar ou não a petição, dando continuidade ou não à ação proposta. Precedentes.
+3. Agravo interno desprovido. (AgInt no REsp n. 1.592.109/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/12/2019, DJe de 3/2/2020.)
+Ante o exposto, dou provimento ao recurso especial para determinar a remessa dos autos à Justiça e stadual competente.
+Publique-se. Intimem-se.
+EMENTA
