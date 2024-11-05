@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA UNIDADE REGIONAL DE DEPARTAMENTO ESTADUAL DE EXECUÇÃO CRIMINAL DEECRIM 4A RAJ DE CAMPINAS - SP, suscitante, e o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL - MEIO ABERTO DE CABO VERDE - MG, suscitado.
+O Juízo de Direito da Vara de Execução Penal - Meio Aberto de Cabo Verde - MG, nos autos do processo n. 4400025-77.2022.8.13.0095, declinou da competência para o Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal DEECRIM 4A RAJ de Campinas - SP, ao argumento de que a execução deve tramitar no local em que a apenada está presa (fls. 22-26).
+O Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal DEECRIM 4A RAJ de Campinas - SP, por sua vez, suscitou conflito de competência. Sustentou que o recolhimento do preso em unidade distinta de onde efetuada a sua condenação não é motivo para alteração da competência, conforme jurisprudência pacífica do Superior Tribunal de Justiça. Alegou, ainda, que o sistema prisional de São Paulo vivencia situação crônica de escassez de vagas (fls. 12-14).
+O Ministério Público Federal se manifestou pelo conhecimento do conflito para que seja declarada a competência do Juízo de Direito da Vara de Execução Penal - Meio Aberto de Cabo Verde - MG, ora suscitado (fls. 47-50).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Conforme entendimento consolidado do Superior Tribunal de Justiça, o juízo da condenação é o competente para a execução das penas impostas, de modo que o cumprimento do mandado de prisão em unidade federativa diversa daquela em que o acusado foi condenado não implica deslocamento da competência. Confira-se:
+ ..  Conforme consolidada jurisprudência do STJ, o fato de o condenado ter sido preso em Comarca diversa, em cumprimento a mandado de prisão expedido pelo Juiz prolator da sentença penal condenatória, não constitui causa legal de deslocamento de competência para a execução da pena. Precedentes: AgRg no CC n. 172.429/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 27/11/2020; e CC 161.783/DF, Rel. Ministra Laurita Vaz, Terceira Seção, DJe 14/12/2018.
+(CC n. 199.799/PR, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 20/10/2023)
+No mesmo sentido: CC n. 196.571/SC, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 30/5/2023; AgRg no CC n. 189.921/SC, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 21/9/2022; AgRg no CC n. 182.840/DF, Terceira Seção, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 3/11/2021.
+Na espécie, embora a reeducanda tenha sido presa em São Paulo, tal fato não desloca a competência para a execução penal, que continua sendo do Juízo de Direito da Vara de Execução Penal - Meio Aberto de Cabo Verde - MG.
+Ademais, a fiscalização das condições e das medidas impostas no curso da execução penal podem ser efetivadas por meio da expedição de precatórias, até o devido recambiamento da apenada, in verbis:
+ ..  A execução da pena, em regra, compete ao Juízo da condenação, não implicando deslocamento de competência o implemento da prisão em comarca diversa, em razão da possibilidade de ser deprecada a fiscalização do cumprimento da pena.
+(CC n. 196.571/SC, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 30/5/2023)
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara de Execução Penal - Meio Aberto de Cabo Verde - MG, ora suscitado.
+Publique-se. Intimem-se
+EMENTA
