@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Christopher Alves contra acórdão que manteve a prisão preventiva por tráfico de drogas, alegando constrangimento ilegal pela falta de fundamentação e desproporcionalidade da medida em relação à pena aplicada.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a legalidade da manutenção da prisão preventiva diante da alegação de ausência de fundamentação idônea e possibilidade de aplicação de medidas cautelares alternativas.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva foi mantida com base na gravidade do delito e indícios de reiteração delituosa, justificando a necessidade de garantir a ordem pública.
+4. A jurisprudência do STJ e do STF não admite habeas corpus como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+5. Não há incompatibilidade entre o regime inicial semiaberto e a manutenção da prisão cautelar, desde que compatibilizada com as regras do regime.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 711/712).
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Christopher Alves contra acórdão que manteve a prisão preventiva por tráfico de drogas, alegando constrangimento ilegal pela falta de fundamentação e desproporcionalidade da medida em relação à pena aplicada.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a legalidade da manutenção da prisão preventiva diante da alegação de ausência de fundamentação idônea e possibilidade de aplicação de medidas cautelares alternativas.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva foi mantida com base na gravidade do delito e indícios de reiteração delituosa, justificando a necessidade de garantir a ordem pública.
+4. A jurisprudência do STJ e do STF não admite habeas corpus como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+5. Não há incompatibilidade entre o regime inicial semiaberto e a manutenção da prisão cautelar, desde que compatibilizada com as regras do regime.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 711/714):
+Trata-se de habeas corpus impetrado em favor de CHRISTOPHER ALVES contra acórdão assim ementado:
+HABEAS CORPUS - TRÁFICO DE DROGAS - PRISÃO PREVENTIVA. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DECORRENTE DA DECRETAÇÃO DA PRISÃO PREVENTIVA - TESES DE QUE NÃO ESTÃO PREENCHIDOS OS REQUISITOS PARA A SEGREGAÇÃO CAUTELAR E DE QUE O DECRETO PRISIONAL NÃO FOI SUFICIENTEMENTE FUNDAMENTADO - IMPROCEDÊNCIA - PROVA DE EXISTÊNCIA DO CRIME E INDÍCIOS SUFICIENTES DE AUTORIA - DECISÃO QUE EXPÔS FATOS CONCRETOS A DEMONSTRAR O PREENCHIMENTO DOS REQUISITOS DOS ARTIGOS 312 E 313 DO CÓDIGO DE PROCESSO PENAL E A NECESSIDADE DA PRISÃO CAUTELAR PARA A GARANTIA DA ORDEM PÚBLICA, EM RAZÃO DE INDICATIVOS DE REITERAÇÃO DELITUOSA PELO PACIENTE. IMPOSSIBILIDADE DE FIXAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO, EIS QUE NÃO SE MOSTRAM EFICAZES NO CASO EM EXAME. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, no regime inicial semiaberto, além do pagamento de 583 dias-multa, sendo-lhe defeso recorrer em liberdade, em razão da prática do crime de tráfico de drogas (art. 33, caput, da Lei 11.343/2006).
+A defesa alega, em síntese, ausência de fundamentação preventiva do paciente. Destaca que a quantidade de apreendida (6 buchas de maconha e 19g de crack) não seria motivação idônea para a medida extrema. Ressalta a suficiência das medidas cautelares alternativas, notadamente em razão das condições pessoais do paciente, tais como primariedade. Argumenta, ainda, ofensa ao princípio da homogeneidade, haja vista a desproporcionalidade da prisão preventiva com relação à sanção aplicada.
+Ao final, requer a concessão da ordem para que seja revogada a prisão do paciente, com ou sem a imposição de medidas cautelares alternativas.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+"A Terceira Seção deste Superior Tribunal de Justiça restringe a admissibilidade do habeas corpus quando o ato ilegal for passível de impugnação pela via própria, sem olvidar a possibilidade de concessão da ordem de ofício (HC nº 535.063/SP)".
+(AgRg no HC n. 741.874/SP, sob a minha relatoria, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação trazida a esta instância, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Consigne-se, por oportuno, que não há incompatibilidade entre o regime inicial semiaberto e manutenção da prisão cautelar, havendo apenas a necessidade da compatibilização da custódia preventiva com as regras próprias do regime intermediário. Na hipótese, como visto, o paciente foi condenado a cumprir pena no regime inicial semiaberto. No entanto, não há informações nos autos de que a custódia preventiva foi adequada a esse regime. Assim, é preciso compatibilizar a prisão preventiva com tal regime, tornando-a proporcional ao resultado da ação penal acautelada.
+Assim se posiciona o Superior Tribunal de Justiça, vejamos:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA PRISÃO PREVENTIVA. FUNDAMENTAÇÃO VÁLIDA E COMPATIBILIDADE COM O REGIME SEMIABERTO. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução crim inal ou a aplicação da lei penal, ex vi do art. 312 do Código de Processo Penal.
+2. No caso, a prisão preventiva foi mantida pelo juízo sentenciante, com fundamento na gravidade do delito, evidenciada na apreensão de grande quantidade de droga (mais de 2 quilos de maconha) e materiais utilizados para o refino e preparo de entorpecentes, fundamentos concretos que evidenciam a necessidade de manutenção da custódia e a insuficiência de medidas cautelares menos gravosas.
+3. Não há incompatibilidade entre o regime inicial semiaberto e manutenção da prisão cautelar, havendo apenas a necessidade da compatibilização da custódia preventiva com as regras próprias do regime intermediário. Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 186.457/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.) (g.n.)
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade. Determino, caso ainda não ocorrido, a compatibilização da prisão preventiva do paciente ao regime prisional fixado na sentença condenatória.
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte. Veja-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. PROCESSOS ANTERIORES PELA PRÁTICA DA MESMA INFRAÇÃO. QUANTIDADE DE DROGAS APREENDIDAS. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO DESPROVIDO.
+1. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, verifica-se que a prisão preventiva foi adequadamente motivada, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta do delito e a periculosidade do paciente, indicadas pela quantidade da droga apreendida, além do registro de ações penais em curso pela prática da mesma infração.
+2. É entendimento do Superior Tribunal de Justiça - STJ que a presença de condições pessoais favoráveis, como primariedade, domicílio certo e emprego lícito, não impede a decretação da prisão cautelar quando devidamente fundamentada.
+3. São inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos graves.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 907.162/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/8/2024, DJe de 27/8/2024.)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
