@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BUTZKE IMPORTAÇÃO E EXPORTAÇÃO LTDA. (BUTZKE) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 2.692/2.695).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, BUTZKE alegou a violação do art. 85, §2º, do NCPC, bem como dissídio jurisprudencial, aduzindo que (1) os honorários advocatícios devem ser fixados sobre o proveito econômico obtido pelo vencedor, adotando-se o valor da causa apenas quando não for possível aferir um proveito econômico claro; e (2) em caso de improcedência do pedido, deve ser fixado sobre o proveito econômico ou, quando não for possível mensurá-lo, pelo valor da causa ou, quando muito baixo, por equidade (e-STJ, fls. 2.604/2.614).
+(1) e (2) Dos honorários advocatícios
+Esta Corte Superior tem entendimento firmado no sentido de que, em caso de improcedência do pedido, os honorários advocatícios devem ser fixados sobre o proveito econômico do cliente, evitado pela atuação do advogado.
+Confiram-se os precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. PROVEITO ECONÔMICO. HONORÁRIOS RECURSAIS. MAJORAÇÃO. IMPOSSBILIDADE.
+1. O Superior Tribunal de Justiça no julgamento do Tema n. 1076, a depender da presença da Fazenda Pública, reservou a utilização do art. 85, § 8º do CPC (fixação por equidade) para quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+2.O art. 85 do CPC estabeleceu uma sequência objetiva devendo a fixação dos honorários ser calculada subsequentemente sobre o valor (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+3. Nas sentenças de improcedência do pedido em ações condenatórias (caso dos autos), a base de cálculo dos honorários corresponde ao proveito econômico do cliente evitado pela atuação do advogado (REsp n. 1.848.517/DF, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 20/2/2020.)
+4. A interposição de agravo interno não inaugura instância, razão pela qual é indevida a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC. Precedentes.
+Embargos de declaração acolhidos em parte para fixar os honorários advocatícios em 10% sobre o valor do proveito econômico atualizado.
+(EDcl no AgInt nos EDcl no AREsp n. 2.510.994/RJ, relator Ministro HUMBERTO MARTINS, Terceira Turma, j. em 7/10/2024, DJe de 9/10/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. INAPLICABILIDADE. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO INDENIZATÓRIA. ILEGITIMIDADE PASSIVA DE UM DOS CORRÉUS. HONORÁRIOS ADVOCATÍCIOS. CPC, ART. 338, PARÁGRAFO ÚNICO. INAPLICABILIDADE. BASE DE CÁLCULO. PROVEITO ECONÔMICO. PREFERÊNCIA SOBRE VALOR DA CAUSA. CPC, ART. 85, § 2º. PROVEITO ECONÔMICO OBTIDO PELA CORRÉ CALCULÁVEL. AGRAVO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Conforme entendimento desta Corte, "(..) nos termos do parágrafo único do art. 338 do CPC/2015, a previsão de redução do percentual dos honorários advocatícios somente se aplica quando, invocada pelo requerido sua ilegitimidade passiva, realizar o autor a substituição da parte" (AgInt no AREsp 1.317.147/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/4/2020, DJe de 4/5/2020).
+2. A jurisprudência desta Corte é firme de que a fixação dos honorários de sucumbência, sob a égide do CPC/2015, sujeita-se à "seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º)" (REsp 1.746.072/PR, Relatora Ministra Nancy Andrighi, Relator para acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/2/2019, DJe de 29/3/2019).
+3. Somente se o proveito econômico da corré cuja ilegitimidade foi reconhecida fosse imensurável é que seria o caso de se estabelecer o valor da causa como base de cálculo dos honorários, o que não é o caso dos autos, em que é possível o cálculo do valor do pedido julgado improcedente.
+4. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial.
+(AgInt no AREsp n. 2.505.181/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, j. em 19/8/2024, DJe de 2/9/2024.)
+No caso dos autos, o proveito econômico decorrente da improcedência dos pedidos pode ser mensurado, ou seja, será o valor que o cliente deixou de suportar caso fosse julgado procedente o pedido.
+Assim, os honorários advocatícios devem ser fixados sobre o valor do proveito econômico auferido.
+Nessas condições, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de determinar que os honorários sejam fixados sobre o proveito econômico obtido.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. REPRESENTAÇÃO COMERCIAL. RESOLUÇÃO CONTRATUAL. JUSTA CAUSA. IMPROCEDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO. MENSURÁVEL. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
