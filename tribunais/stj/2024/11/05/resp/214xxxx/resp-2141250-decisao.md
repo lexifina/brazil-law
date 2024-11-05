@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (e-STJ fl. 417):
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. AGENTES PREJUDICIAIS À SAÚDE. AGENTES QUÍMICOS. COMPROVAÇÃO. REQUISITOS. PREENCHIMENTO. PAGAMENTO DAS DIFERENÇAS DEVIDAS. CORREÇÃO MONETÁRIA. JUROS DE MORA. CORREÇÃO MONETÁRIA..
+1- Apelação em face de sentença que, antecipando a tutela, condenou o INSS a conceder o benefício de aposentadoria especial, bem como a pagar as parcelas em atraso a contar da data do requerimento (15/01/2020), acrescidas de correção monetária pelo INPC, e juros de mora, aplicados à caderneta de poupança, nos termos da redação conferida ao art. 1º-F da Lei n. 9.494/97, além de honorários advocatícios a incidir o percentual sobre o valor da condenação, na forma prevista no art. 85, §§ 3º e 5º do CPC, com observância da Súmula 111/STJ.
+2- A análise da especialidade em decorrência da exposição a agentes químicos previstos no Anexo 13 da Norma Regulamentadora (NR) 15, como é o caso dos hidrocarbonetos aromáticos, é qualitativa e não se sujeita a limites de tolerância, independentemente do período em que prestada a atividade pelo trabalhador.
+3- Caso em que o Perfil Profissiográfico Previdenciário (PPP) demonstra que o requerente, durante o período de 11/05/1986 a 30/01/2016, laborou com exposição a agentes químicos (hipocal, sulfato de alumínio granulado, cloro gasoso, dpd - free chlorine reagente, orto-toluidina, hach wide range e amônia). Consta no referido documento que, apesar do uso do EPI, esse equipamento não foi eficaz.
+4- Comprovada a especialidade do período laborado pelo autor, deve ser computado como tempo de serviço especial.
+5- Na espécie, somando-se todo o tempo de serviço especial, verifica-se que o demandante computou tempo de contribuição superior ao mínimo exigido na legislação para a concessão da aposentadoria especial, a contar da data do requerimento (15/01/2020).
+6- Sobre os valores pretéritos, deverão incidir juros de mora de acordo com a remuneração oficial da caderneta de poupança, nos termos do art. 1º-F da Lei nº. 9.494/1997, alterado pela Lei nº. 11.960/2009, devendo ainda observar o disposto na Lei nº. 12.703/2012, a qual impõe um redutor quando a taxa SELIC estiver fixada em patamar igual ou inferior a 8,5% ao ano; e o INPC como índice de atualização monetária. Cumpre registrar que a partir do advento da EC 113/2021, os juros de mora e a correção monetária serão calculados pela taxa SELIC.
+7- Apelação parcialmente provida, quanto aos juros de mora e à correção monetária.
+Embargos de declaração rejeitados (e-STJ fls. 492/495).
+Em suas razões, a parte recorrente aponta violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, por negativa de prestação jurisdicional, ante o não suprimento de omissões apontadas em sede de embargos de declaração, acerca do disposto nos arts. 57, § 3º, e 58, § 1º, da Lei n. 8.213/1991.
+No mérito, aponta vulneração dos referidos dispositivos legais, sustentando a impossibilidade de reconhecimento, como tempo especial, de período em que a parte autora esteve submetida a agentes químicos não relacionados nos Decretos regulamentares, ou que não contenham a exigida análise quantitativa.
+Defende, ainda, a impossibilidade de reconhecimento como especial do tempo de serviço em que esteve exposto a agentes químicos cancerígenos, pela sua simples presença no ambiente de trabalho, independentemente do fornecimento de EPI/EPC eficaz, nos termos do Decreto n. 8.123/2013, mesmo para períodos anteriores à sua vigência.
+Sem contrarrazões. Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 552.
+Passo a decidir.
+Não prospera a irresignação.
+De início, não merece acolhimento a pretensão de nulidade do julgado por negativa de prestação jurisdicional, porquanto, no acórdão impugnado, o Tribunal a quo apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, contudo em sentido contrário à pretensão recursal, o que não se confunde com o vício apontado.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR 5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018).
+4. Embargos de declaração rejeitados. (EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+No caso, o Tribunal de origem se manifestou de maneira clara acerca da especialidade do período pleiteado (e-STJ fls. 415/416):
+No caso, de uma análise dos documentos acostados, observa-se no Perfil Profissiográfico Previdenciário (PPP) que o requerente, durante o período de 11/05/1986 a 30/01/2016, laborou com exposição a agentes químicos ( hipocal, sulfato de alumínio granulado, cloro gasoso, dpd - free chlorine reagente, orto-toluidina, hach wide range e amônia ), e que o EPI utilizado não foi eficaz.
+Como dito anteriormente, a exposição a agentes químicos cancerígenos dá direito a contagem de tempo especial, independente do uso do EPI eficaz, e da análise quantitativa.
+Deste modo, infere-se que restou comprovada a especialidade do referido período, devendo ser computado como tempo de serviço especial.
+Destarte, somando-se todo o tempo de serviço especial, constata-se que o autor computou tempo de contribuição suficiente para a concessão da aposentadoria especial, a contar da data do requerimento (15/01/2020).
+Com essas considerações, indefiro o pedido de efeito suspensivo.
+ ..
+Isto posto, dou parcial provimento à apelação quanto aplicação aos juros de mora e a correção monetária.
+Assim, ainda que a parte recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Quanto ao mais , o acórdão analisou as provas dos autos à luz das normas regulamentadoras destas leis, concluindo pela especialidade do labor, no período de 11/05/1986 a 30/01/2016, exercido pela exposição a agentes químicos ( hipocal, sulfato de alumínio granulado, cloro gasoso, dpd - free chlorine reagente, orto-toluidina, hach wide range e amônia ), por conter estes substâncias cancerígenas constantes do anexo 13 da NR 15.
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
