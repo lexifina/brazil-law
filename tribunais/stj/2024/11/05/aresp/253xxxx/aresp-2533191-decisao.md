@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual JOSE CARLOS FURTADO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fls. 216/217):
+PROCESSUAL. PREVIDENCIÁRIO. HABILITAÇÃO. BENEFÍCIO ASSISTENCIAL. DECRETO 6.214/07. POSSIBILIDADE. SUBSISTÊNCIA DE INTERESSE DOS SUCESSORES À PERCEPÇÃO DOS VALORES DEVIDOS AO BENEFICIÁRIO ATÉ SEU FALECIMENTO. IDOSO. HIPOSSUFICIÊNCIA ECONÔMICA. REQUISITOS PREENCHIDOS. TERMO INICIAL. TERMO FINAL. CONSECTÁRIOS LEGAIS. HONORÁRIOS ADVOCATÍCIOS. CUSTAS PROCESSUAIS.
+1. Nos termos do artigo 23, parágrafo único, do Decreto nº 6.214/07, ainda que se trate de benefício de caráter personalíssimo, deve-se reconhecer a possibilidade de pagamento dos valores eventualmente vencidos e não recebidos pelo beneficiário aos seus sucessores devidamente habilitados.
+2. O benefício assistencial de prestação continuada ou amparo social encontra assento no art. 203, V, da Constituição Federal, tendo por objetivo primordial a garantia de renda à pessoa deficiente e ao idoso com idade igual ou superior a 65 (sessenta e cinco anos) em estado de carência dos recursos indispensáveis à satisfação de suas necessidades elementares, bem assim de condições de tê-las providas pela família.
+3. Requisito etário preenchido.
+4. O Estudo Social produzido enseja o reconhecimento da presunção de hipossuficiência, nos termos do art. 20, § 3º, da Lei n. 8.742/1993.
+5. Considerando que a companheira da parte autora manteve vínculo empregatício até 18.03.2019 no qual auferia salário em valor que inviabilizava a concessão do benefício assistencial, o termo inicial deve ser fixado na data da realização do Estudo Social, em 04.04.2019, momento no qual restou comprovado o preenchimento de todos os requisitos exigidos.
+6. O termo final deve ser fixado em 08.05.2019, data do falecimento da parte autora.
+7. A correção monetária deverá incidir sobre as prestações em atraso desde as respectivas competências e os juros de mora desde a citação, observada eventual prescrição quinquenal, nos termos do Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal, aprovado pela Resolução nº 658/2020, do Conselho da Justiça Federal (ou aquele que estiver em vigor na fase de liquidação de sentença). Os juros de mora deverão incidir até a data da expedição do PRECATÓRIO/RPV, conforme entendimento consolidado pela colenda 3ª Seção desta Corte. Após a devida expedição, deverá ser observada a Súmula Vinculante 17.
+8. Com relação aos honorários advocatícios, tratando-se de sentença ilíquida, o percentual da verba honorária deverá ser fixado somente na liquidação do julgado, na forma do disposto no art. 85, § 3º, § 4º, II, e § 11, e no art. 86, todos do CPC, e incidirá sobre as parcelas vencidas até a data da decisão que reconheceu o direito ao benefício (Súmula 111 do STJ).
+9. Embora o INSS seja isento do pagamento de custas processuais, deverá reembolsar as despesas judiciais feitas pela parte vencedora e que estejam devidamente comprovadas nos autos (Lei nº 9.289/96, artigo 4º, inciso I e parágrafo único).
+10. Apelação parcialmente provida. Fixados, de ofício, os consectários legais.
+Os embargos de declaração foram rejeitados (fls. 240/252).
+Nas razões de seu recurso especial, a parte sustenta ter havido violação ao art. 20, § 11, da Lei 8.742/1993 e requer a concessão do benefício de prestação continuada ao idoso, previsto na Lei Orgânica da Assistência Social (LOAS).
+A parte adversa não apresentou contrarrazões.
+Submetido a juízo de retratação, em virtude do entendimento firmado pelo Superior Tribunal de Justiça (STJ) quanto ao Tema 185, o acórdão recorrido foi mantido nos termos da ementa abaixo transcrita (fl. 306):
+PROCESSUAL CIVIL. ART. 1.040, INC. II, DO CÓDIGO DE PROCESSO CIVIL. RESP 1.112.557/MG. PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. TERMO INICIAL. JUÍZO DE RETRATAÇÃO NEGATIVO. ACÓRDÃO MANTIDO.
+1. Reexame da matéria conforme previsto no artigo 1.040, inc. II, do Código de Processo Civil.
+2. Ficou assentado no Recurso Especial Representativo de Controvérsia que a limitação do valor da renda familiar não deve ser considerada a única forma de se comprovar que per capita a pessoa não possui outros meios para prover a própria manutenção ou de tê-la provida por sua família, pois é apenas um elemento objetivo para se aferir a necessidade.
+3. Julgado em consonância com o decidido pelo C. Superior Tribunal de Justiça. Acórdão mantido.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Conforme os arts. 203 da Constituição Federal e 20 da Lei 8.742/1993, o benefício assistencial de prestação continuada é devido à pessoa com deficiência e ao idoso que comprovem não possuir meios de prover a própria manutenção ou de tê-la provida por sua família. No caso do idoso, devem ser preenchidos os requisitos de idade e de miserabilidade.
+A parte agravante alega ter preenchido os requisitos para a concessão do benefício previdenciário, em especial a condição de miserabilidade do seu grupo familiar, desde 21/12/2015, data de entrada do requerimento administrativo (DER).
+O Tribunal de origem assentou, com base na prova dos autos, que o termo inicial para a concessão do benefício pleiteado devia ser fixado na data da realização do estudo social, em 4/4/2019, momento no qual havia ficado comprovado o preenchimento dos requisitos, conforme se pode conferir do trecho abaixo transcrito (fl. 251, sem destaque no original):
+Dessa forma, considerando a renda, os gastos básicos mensais e as demais condições informadas, tem-se que deve ser reconhecida a presunção de hipossuficiência, nos termos do art. 20, § 3º, da Lei n. 8.742/1993.
+Tendo em vista que a companheira da parte autora manteve vínculo empregatício até 18.03.2019 no qual auferia salário em valor que inviabilizava a concessão do benefício assistencial, o termo inicial deve ser fixado na data da realização do Estudo Social, em 04.04.2019, momento no qual restou comprovado o preenchimento de todos os requisitos exigidos.
+O termo final deve ser fixado em 08.05.2019, data do falecimento da parte autora.
+Entendimento diverso implicaria o reexame do conjunto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial nesse ponto.
+Incide no presente caso a Súmula 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
