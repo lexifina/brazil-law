@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado pelo ESTADO DE MINAS GERAIS contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal.
+Passo a decidir.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746.775/PR e 831.326/SP, decidiu pela necessidade de a parte agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial se deu com base nos seguintes fundamentos: (i) suficiência do acórdão recorrido; (ii) consonância do acórdão recorrido com a jurisprudência do STJ, no sentido de que descabe o redirecionamento da execução contra o sócio se em plena atividade a matriz da devedora; e (iii) aplicação da Súmula 284 do STF, porque não comprovado o alegado dissídio jurisprudencial mediante cotejo analítico.
+A parte agravante, por sua vez, argumenta que o julgado: (i) não observou que os nomes dos sócios constam da CDA e o encerramento da empresa foi certificado por oficial de justiça; (ii) não estava autorizado a contrariar orientação firmada em julgamento de recurso repetitivo (REsp n. 1.104.900/ES); (iii) não está de acordo com os precedentes citados na decisão - AgInt no REsp n. 1.925.113/AC e AgInt no AREsp n. 1.855.162/MG -, porque, nestes, o nome dos devedores não constava da CDA; e (iv) é notoriamente divergente da jurisprudência, razão pela qual é prescindível a demonstração do dissenso.
+Diz, ainda, que a competência para o exame do mérito do apelo nobre é do STJ.
+O quadro apresentado demonstra que a decisão agravada não foi suficientemente combatida.
+O redirecionamento da execução fiscal, segundo o decisum, não foi autorizado porque a devedora está em atividade, por meio de sua matriz. Assim, a argumentação de ter sido desconsiderada a existência do nome dos sócios na CDA carece de sentido.
+Ademais, o insurgente não realiza nenhum esforço no sentido de demonstrar que os precedentes invocados na decisão examinaram situação distinta da existente nos autos, tendo se limitado a afirmar isso de maneira inespecífica, sem a realização de nenhuma transcrição.
+Por fim, não comprova ter realizado o cotejo analítico dos julgados comparados nas razões do recurso especial, dizendo apenas que a divergência jurisprudencial é notória.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Ademais, caberia à parte agravante apontar precedentes contemporâneos ou supervenientes aos aludidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que falar em usurpação da competência do STJ. Nesse sentido: AgInt no AREsp n. 2.107.891/PR, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022; AgInt no AREsp n. 2.164.815/RS, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022; e AgInt no AREsp n. 2.098.383/BA, Relator Ministro Manoel Erhardt (desembargador c onvocado do TRF5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
