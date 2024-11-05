@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto CAIXA DE PREVIDENCIA DOS FUNCIONARIOS DO BANCO DO BRASIL, contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do SUl, assim ementado:
+"AGRAVO INTERNO. DECISÃO MONOCRÁTICA PROFERIDA EM AGRAVO DE INSTRUMENTO. NÃO CONHECIMENTO. MANUNTENÇÃO. - Trata-se de agravo interno interposto em razão da decisão monocrática que indeferiu o pedido de expedição de alvará em favor da parte autora da ação rescisória. - Conforme o inequivocamente decidido, "a ação rescisória teve, à unanimidade, a sua petição inicial indeferida, o valor depositado deve ser revertido em favor da parte ré, nos termos do art. 968, II, do CPC". - Ademais, a parte ré/agravada interna, ao contrário do que afirma a demandante/agravante interna apresentou defesa, não havendo qualquer motivo para determinar a reversão da caução em favor da autora da ação rescisória. AGRAVO INTERNO DESPROVIDO. UNÂNIME." (fl. 1838)
+Os embargos declaratórios foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 1.022, I e II, do NCPC, sustentando, em síntese, negativa de prestação jurisdicional, ante a omissão da Corte estadual em se manifestar a respeito de que o decisum anterior foi taxativo em impor a liberação do depósito em favor da parte postulante, apenas na hipótese de que não tenha se completado a relação processual; bem como a afronta ao instituo da coisa julgada.
+É o relatório.
+Decido.
+O recurso não prospera.
+Não procede a alegada negativa de prestação jurisdicional, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO
+LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Ressalte-se, por oportuno, que o Tribunal a quo manifestou-se em relação às matérias tidas por omissa pela insurgente, consoante denotam os seguintes excertos do acórdão recorrido:
+" Em suas razões, a embargante sustenta que o aresto embargado é omisso, pois anterior decisum foi expresso em determinar a liberação do depósito em favor da parte postulante caso não tenha se completado a relação processual. Afirma que a decisão embargada quedou omissa, também acerca do quanto disposto à norma do artigo 505 do Código de Processo Civil.
+ ..
+Contudo, não há na decisão embargada quaisquer dos vícios ali elencados. Em verdade, o que pretende a embargante é a rediscussão do mérito da questão, o que não poderá se dar pela estreita via dos aclaratórios. Com efeito, a decisão embargada, consignou claramente que a ação rescisória foi julgada improcedente à unanimidade, bem como que, ao contrário do que afirma a embargante, a relação processual se completou quando a parte aqui embargada apresentou defesa. Neste sentido consta expressamente do aresto embargado que "a parte contrária apresentou defesa, por meio da oposição de contrarrazões ao recurso especial tombado sob o n.º 70078298023". Portanto, chega-se à inevitável conclusão de que os presentes embargos de declaração abarcam pretensão de rejulgamento da matéria posta à reanálise por meio da ação rescisória." (fls. 1889-1890)
+Assim, não há falar em negativa de prestação jurisdicional, tampouco em nulidade do aresto estadual.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
