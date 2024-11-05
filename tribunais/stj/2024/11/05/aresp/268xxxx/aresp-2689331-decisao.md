@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se agravo em recurso especial manejado por COOPERATIVA MISTA AGROPECUÁRIA DE PATOS DE MINAS LTDA - COOPATOS impugnando decisão que inadmitiu recurso especial interposto contra acórdão, assim ementado (fl. 375):
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - MULTA - VIGILÂNCIA SANITÁRIA - PROCESSO ADMINISTRATIVO - SANÇÃO - CDA - LEGALIDADE - LAUDO LABORATORIAL - PRESUNÇÃO DE LEGITIMIDADE - RECURSO DESPROVIDO.
+- O laudo produzido pela FUNED constatou, após análise dos invólucros de plástico transparente de duas ricotas frescas, que a pesquisa de enterotoxinas estafilocócicas apresentou resultado insatisfatório.
+- A conclusão alcançada pelo laudo laboratorial evidencia que as amostras coletadas não obedeciam às condições higiênico-sanitárias e à legislação sanitária.
+- Constatado que o produto comercializado não observa a legislação pertinente, legítimo o crédito exequendo.
+Embargos de declaração opostos e rejeitados, nos termos da seguinte ementa (fl. 394):
+PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO - VÍCIOS - INEXISTÊNCIA - REDISCUSSÃO DA MATÉRIA - IMPOSSIBILIDADE - FIM PREQUESTIONATÓRIO - NECESSIDADE DE SE OBSERVAR OS LINDES TRAÇADOS NO ART. 1.022, DO CPC - REJEIÇÃO.
+- Os Embargos de Declaração são recurso de fundamentação vinculada e, ausentes os vícios apontados no art. 1.022 do Código de Processo Civil, devem ser rejeitados, visto que não se prestam à rediscussão da matéria decidida.
+- Conforme consignado no acórdão recorrido, a conclusão alcançada pelo laudo laboratorial evidencia que as amostras coletadas não obedecia m às condições higiênico-sanitárias e à legislação sanitária.
+- Embargos de declaração rejeitados.
+No recurso especial, interposto pela alínea "a" do permissivo constitucional, a recorrente alega contrariedade e negativa de vigência aos arts. 1.022, parágrafo único, II, e 489, § 1º, IV, do CPC/2015, sustentando que a Corte a quo não apreciou sua argumentação de que no laudo pericial não há nenhuma prova que o limite de tolerância para o ensaio Enterotoxinas Estafilocócias no queijo estabelecido pela ANVISA tenha sido superado, sendo, pois, nulos o auto de infração e a CDA, por vício de legalidade.
+Contrarrazões a fls. 417-420.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O Tribunal de origem dispôs no acórdão recorrido (fls. 376-379, com grifos nossos):
+Em suas razões recursais (ordem 32), sustenta a parte apelante que, "se a própria RDC 12/2001 Anvisa estabelece tolerância para o ensaio enterotoxinas estafilocócicas no queijo e se não há no Laudo 9136.00/2006, que embasa a CDA em execução, nenhuma prova de que tal limite tenha sido superado, o auto de infração e consequentemente a CDA se mostram nulos por vício de legalidade". Acrescenta que, embora o laudo tenha analisado a rotulagem, "a CDA nada menciona sobre esse item e penalidade que o Estado de Minas Gerais pretende impor se refere exclusivamente ao ensaio Enterotoxinas Estafilocócicas". Requer, assim, a procedência do pedido de nulidade da CDA e da execução fiscal.
+Trata-se de Embargos à execução fiscal ajuizada pelo Estado de Minas Gerais em face da Cooperativa Mista Agropecuária de Patos de Minas LTDA, por multa aplicada pela Vigilância Sanitária da Secretaria de Saúde do Estado de Minas Gerais, no montante original de R$ 5.436,60 (cinco mil quatrocentos e trinta e seis reais e sessenta centavos), inscrito em dívida ativa em 22/04/2008.
+Apresentada impugnação aos Embargos pelo Estado de Minas Gerais, foi colacionado laudo de análise do produto objeto do auto de infração, emitido pela Fundação Ezequiel Dias - FUNED, que revelou a presença de enterotoxina na amostra analisada, "in verbis":
+ ..
+Concluiu, assim, que:
+Conclusão: INSATISFATÓRIA
+Complemento da Conclusão: PRODUTO IMPRÓPRIO PARA O CONSUMO HUMANO POR APRESENTAR ENTEROTOXINA ESTAFILOCÓCIA A (SEA). PRODUTO POTENCIALMENTE CAPAZ DE CAUSAR INTOXICAÇÃO ALIMENTAR. (RESOLUÇÃO RDC N. 12 DE 02/01/2001 DA ANVISA).
+A AMOSTRA ANALISADA NÃO ATENDE À LEGISLAÇÃO VIGENTE QUANTO À ANÁLISE DE ROTULAGEM. (RESOLUÇÃO RDC N. 259/02/ANVISA E RESOLUÇÃO RDC N. 360/03/ANVISA)
+Diante disto, a embargante foi apenada administrativamente nas sanções de advertência, pena educativa e multa no valor de 3.000 UFEMG, cuja decisão foi objeto de processo administrativo.
+Entretanto, sustenta a embargante que a execução fiscal foi ajuizada em 19/05/2008, anteriormente à decisão final do processo administrativo, que a condenou apenas à pena de advertência, absolvendo-a quanto às demais sanções. Requereu, assim, a extinção do feito executivo.
+Todavia, consta do extrato da publicação da decisão em 3ª instância do processo administrativo sanitário de alimentos GRS/PM 02/2007, "in verbis":
+ ..
+Ademais, como consta dos documentos acima colacionados, o laudo produzido pela FUNED constatou, após análise dos invólucros de plástico transparente de duas ricotas frescas, que a pesquisa de enterotoxinas estafilocócicas apresentou resultado insatisfatório.
+Dessa forma, considerando a conclusão alcançada pelo laudo laboratorial, que possui presunção de legitimidade, resta evidenciado que as amostras coletadas não obedeciam às condições higiênico- sanitárias e à legislação sanitária.
+Portanto, o produto comercializado pela apelante não observa a legislação pertinente, sendo legítimo o crédito exequendo.
+No acórdão integrativo, confirmando esse entendimento, a Corte a quo nada acrescentou
+Pois bem.
+Consigne-se que a jurisprudência do STJ entende que "o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no AREsp 1.344.268/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/2/2019).
+A referida orientação se encontra em conformidade com o entendimento do Supremo Tribunal Federal, que, ao apreciar Questão de Ordem no AI 791.292/PE, firmou tese segundo a qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas".
+Assim, os órgãos judiciais estão obrigados a enfrentar, de forma adequada, coerente e suficiente, as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+Nessa linha de entendimento, " n ão se configura a alegada negativa de prestação jurisdicional, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. Registre-se que não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (AgInt no AgInt no AREsp n. 843.680/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/12/2016, DJe de 13/12/2016).
+No caso, não há violação dos arts. 489 e 1.022 do CPC/2015, porquanto o órgão julgador, à vista da matéria devolvida, de forma clara e coerente, analisou as questões relevantes da causa, externando fundamentação adequada e suficiente para a solução da controvérsia, não tendo a recorrente demonstrado a presença de omissão relevante ou deficiência da prestação jurisdicional, a ensejar o rejulgamento dos embargos opostos na origem. A aplicação do direito ao caso, ainda que por solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Ante todo o exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ARTS. 489 E 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. AGRAVO CONHECIDO E RECURSO ESPECIAL NÃO PROVIDO.
