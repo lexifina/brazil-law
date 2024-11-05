@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por C DE A DOS F DO B DO B, fundamentado na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (fls. 1222-1223, e-STJ), assim ementado:
+DIREITO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. AUTOGESTÃO. TRATAMENTO. TRANSTORNO DO ESPECTRO AUTISTA (TEA). NEGATIVA DE COBERTURA. RECUSA INDEVIDA. REEMBOLSO DEVIDO. TABELA DA OPERADORA DE SAÚDE. OBSERVÂNCIA. 1. Segundo entendimento pacificado no colendo Superior Tribunal de Justiça, as operadoras de plano de saúde podem limitar as hipóteses de cobertura, mas não o tratamento ou o procedimento indicado pelo profissional competente à preservação da integridade física do paciente. 2. O tratamento deve observar o indicado pelo médico assistente, considerando que a jurisprudência sobre o assunto tem entendido que o rol de procedimentos constante na ANS é exemplificativo, bem como os termos da Lei 14.454, de 21 de setembro de 2022. 3. A jurisprudência do colendo Superior Tribunal de Justiça é no sentido de ser devido o reembolso em situações excepcionais, tal como a impossibilidade de utilização dos serviços próprios da operadora em razão de recusa injustificada, devendo a restituição do que foi despendido pelo contratante ser limitada aos preços de serviços médicos e hospitalares praticados pelo respectivo produto, nos termos do art. 12, VI, da Lei 9.656/98. 4. Recurso provido em parte.
+Opostos embargos de declaração (fls. 1246-1253, e-STJ), os quais foram rejeitados (fls. 1322-1332, e-STJ).
+Nas razões do apelo extremo (fls. 1361-1380, e-STJ), o recorrente aponta violação do art. 10º, §4º, da Lei 9.656/98, afirmando que o tratamento pleiteado pelo recorrido não consta do rol da ANS, razão pela qual não há obrigatoriedade de cobertura.
+Sem contrarrazões (fls. 1409-1410, e-STJ).
+Admitido  o  recurso  especial  na  origem  (fls.  1414-1415,  e-STJ),  ascenderam  os  autos  a  esta  egrégia  Corte  de  Justiça.
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+1. Com efeito, no bojo do EREsp n. 1.886.929/SP, a Segunda Seção desta E. Corte, após reafirmar a natureza taxatativa do rol da ANS, assentou que tal posicionamento não justificaria a limitação do número de sessões de psicoterapia, terapia ocupacional e fisioterapia pelo método ABA, nos casos de tratamento de transtorno do espectro autista.
+No ponto, prevaleceu a posição sustentada pelo e. Ministro Villas Bôas Cueva, para o qual a cobertura do tratamento decorreria dos seguintes fundamentos:
+(i) existência de posicionamento da Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde - CONITEC que identifica a terapia A.B.A. como apta ao tratamento do autismo;
+(ii) consideração, por parte da ANS, de que "as psicoterapias no método ABA estão contempladas na "sessão de psicoterapia" do Rol da Saúde Suplementar (Relatório de Revisão do Rol 2018, pág. 147; e Nota Técnica nº 196/2017, pág. 146)";
+(iii) superveniente edição da Resolução RN-ANS n. 469/2021, a qual fixou a cobertura obrigatória, sem limite de sessões, com psicólogos, terapeutas ocupacionais e fonoaudiólogos, para o tratamento/manejo do Transtorno do Espectro Autista (TEA);
+(iv) dever de conferir às pessoas com deficiência o mais elevado estado de saúde possível, nos termos da Convenção Internacional sobre Direitos das Pessoas Com Deficiência, incorporada ao ordenamento brasileiro com status constitucional;
+(v) previsão contida na Lei nº 12.765/2012, que estabelece a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista, no sentido de garantir a pessoas acometidas por tal condição atenção integral e atendimento multiprofissional (art. 3º, III, "b");
+Como visto, no aludido julgado restou assentada a conclusão de que o método ABA não constitui terapia experimental, que não possuiria cobertura contratual. Ao revés, consignou-se que tal tratamento seria eficaz e estaria inserido no rol de procedimentos da ANS.
+Nesse contexto, considerando-se que em seu apelo nobre o recorrente alega tão somente a ausência de previsão no rol da ANS do tratamento pleiteado, afigura-se de rigor o desprovimento do recurso especial.
+2. Do exposto, com fundamento no art. 932 do CPC c/c a Súmula 568 do STJ, nego provimento ao recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
