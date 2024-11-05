@@ -1,0 +1,17 @@
+DECISÃO
+KEMILY FREITAS DE OLIVEIRA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 0045853-90.2024.8.19.0000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que a paciente responde pela suposta prática dos delitos previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+Neste writ, "a defesa reitera o pedido de liberdade provisória, ainda que com a adoção de medidas cautelares diversas da prisão, ou a substituição da constrição cautelar em prisão domiciliar" (fl. 137).
+Todavia, verifica-se que, ao manter a segregação cautelar, destacou a Corte de origem que "o referido decreto entendeu ser a prisão preventiva necessária e proporcional, devendo ser destacado que os fatos imputados a paciente são tipificados como crimes graves, notadamente, pela variedade de droga apreendida, bem como pela reincidência específica da Paciente, que, inclusive, respondia, em liberdade, a outro processo por tráfico de drogas, o que evidencia a sua alta periculosidade social" (fl. 18, destaquei).
+Sobre tal aspecto, é imperioso frisar que a jurisprudência desta Corte Superior é firme ao asseverar que " i nquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva" (RHC n. 68550/RN, Rel. Min. Sebastião Reis Júnior, 6ª T., DJe 31/3/2016, grifei).
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça:
+ ..
+2. As instâncias ordinárias, soberanas na análise dos fatos, entenderam que restou demonstrada a maior periculosidade do recorrente, na medida em que responde a diversos outros processos criminais, já tendo sido, inclusive, condenado por tráfico de drogas. Tal circunstância, somada à quantidade, natureza e diversidade das drogas apreendidas, demonstra a propensão ao crime e o risco ao meio social, recomendando a sua custódia cautelar para garantia da ordem pública  ..  (RHC n. 129.203/MG, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 24/8/2020, grifei).
+ ..
+2. In casu, não obstante a pequena quantidade de droga apreendida, entendo que há motivação idônea para manutenção da constrição cautelar em razão de ser o recorrente reincidente específico que, no mesmo dia em que participou de audiência admonitória relativa à condenação anterior, foi preso em flagrante pela suposta prática de tráfico do drogas, evidenciando, assim, a sua periculosidade social, com concreto risco de reiteração delitiva.
+3. Demonstrada a necessidade da segregação antecipada, descabem as medidas cautelares diversas da prisão previstas no art. 319 e seguintes do Código de Processo Penal.
+4. Recurso em habeas corpus improvido. (RHC n. 109.030/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 18/6/2019, sublinhei).
+Além disso, em relação ao pedido de prisão domiciliar, apontou a Corte de origem que "a gravidade concreta da conduta e o fato da Paciente ser reincidente específica, bem como a concessão da prisão domiciliar exige plena demonstração que a criança não possui outro responsável para seus cuidados, e o Impetrante apenas juntou comprovante de residência, e histórico escolar não trazendo aos autos outros elementos que comprovem a necessidade de tal modalidade prisional" (fl. 19, sublinhei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
