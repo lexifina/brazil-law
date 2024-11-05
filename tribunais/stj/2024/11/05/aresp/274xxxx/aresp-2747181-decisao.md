@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por MARIA IZABEL FERREIRA SILVA contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO. Insurgência recursal em face de sentença que julgou parcialmente procedentes os pedidos de rescisão contratual, reintegração de posse e de indenização. Embargos de declaração que, na origem, foram declarados intempestivos. Ausência de interrupção do prazo para a interposição de recurso. Precedentes. Apelação também intempestiva. Falta de admissibilidade recursal que impede, inclusive, o exame de matérias de ordem pública nesta instância, a exemplo da prescrição. Recorrente que não está dispensando do cumprimento dos requisitos recursais, dentre eles o respectivo prazo de interposição. RECURSO NÃO CONHECIDO." (e-STJ, fls. 429/431)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 543/545)
+Nas razões do recurso especial, a agravante alega violação dos arts. 3º, 4º, 6º, 489 e 1.022, do CPC; e 178, §5º, IV e 8º, do CC, sustentando, em síntese, negativa de prestação jurisdicional diante da omissão em analisar a matéria de mérito.
+Requer, ainda "que seja declarada a prescrição semestral em 11.05.1998, nos termos do art. 178, § 5º, IV, CC/16, visto que a Recorrida está cobrando o imóvel com abatimento dos preços pagos e mais perdas e danos; sucessivamente, caso não aplique a prescrição semestral, deve declarar a prescrição trienal em 11.11.2000, nos termos do art. 178, § 5º, IV, CC/16, visto que a Recorrida somente pode pretender a restituição do imóvel em até 03 anos contados da lavratura de escritura pública; e sucessivamente, caso não aplique a prescrição trienal, deve declarar a prescrição decenal em 11.11.2007, nos termos do art. 205, CC/2002, contados do inadimplemento da ultima parcela paga em 10.11.1997, pois a presente demanda somente foi distribuída em 31.03.2009" (e-STJ, fls. 571/572)
+É o relatório. Decido.
+A irresignação não merece prosperar. Inicialmente, rejeita-se a alegada violação aos arts. 489 e 1.022 do CPC/15, uma vez que o eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP) analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, colhe-se o recente julgado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 11, 489, § 1º, II E IV, E 1.022, I E II, DO CPC. NÃO OCORRÊNCIA. VALE-PEDÁGIO. PRESCRIÇÃO DECENAL. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 11, 489, § 1º, II e IV, e 1.022, I e II, do Código de Processo Civil quando o tribunal de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.427.557/RS, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024 .)
+Avançando, o eg. Tribunal de origem, não conheceu do recurso de apelação diante de sua intempestividade, consignando, in verbis:
+"O recurso não pode ser conhecido.
+Contra sentença de fls. 371/9 a ora apelante opôs embargos de declaração, apreciados e rejeitados às fls. 406. Posteriormente (06.01.2021), a apelante ofertou novos aclaratórios (fls. 409/15), contudo, impugnando a sentença prolatada em 01.05.2020, e não a decisão que rejeitou os primeiros embargos.
+A decisão de fls. 417 da origem expressamente reconheceu a intempestividade do último recurso: "(..) Assim, ante a flagrante intempestividade e preclusão ocorridas, inadmissível o conhecimento e análise dos presentes embargos de declaração (ainda que opostos com outro fundamento), devendo o inconformismo ser sanado pela via processual adequada".
+Nesse ambiente, conquanto a oposição de embargos tenha por efeito a interrupção do prazo para a interposição dos demais recursos, a teor do art. 1.026, do CPC, tal interrupção não se verifica nos casos em que o recurso não é conhecido em razão de intempestividade.
+(..)
+Assim, considerando que apenas os primeiros embargos de declaração interromperam o prazo para a interposição de recurso de apelação, que só reiniciou com a publicação da decisão, em 15.12.2020, forçoso concluir que o presente apelo, protocolado em 19.05.2021, é intempestivo.
+No que concerne ao argumento de que a prescrição seria, mesmo assim, matéria cognoscível no presente recurso, por ser de ordem pública, cumpre salientar que tal característica não dispensa o recorrente do cumprimento dos requisitos necessários ao conhecimento de seu recurso, dentre eles a tempestividade." (e-STJ, fls. 497/499, g.n)
+Ocorre que a parte recorrente - nas razões do recurso especial - não rebateu de forma específica e suficiente referida fundamentação, o que atrai, na hipótese, a incidência, por analogia das Súmulas nº 283 e 284 do Supremo Tribunal Federal. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E
+PROCESSUAL CIVIL. SÚMULA Nº 7/STJ E NºS 283 E 284/STF. DEFICIÊNCIA NA COMPROVAÇÃO DA DIVERGÊNCIA.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja o não conhecimento do recurso, incidindo, por analogia, o enunciado das Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula º 7 do Superior Tribunal de Justiça.
+3.A divergência jurisprudencial, nos ermos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não restou evidenciado na espécie.
+4. Agravo regimental não provido." (AgRg no AREsp 293.137/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, , julgado em 21/10/2014, DJe 29/10/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se
+EMENTA
