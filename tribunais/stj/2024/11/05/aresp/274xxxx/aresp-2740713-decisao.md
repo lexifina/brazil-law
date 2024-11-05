@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MINISTÉRIO PÚBLICO FEDERAL à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+AÇÃO CIVIL PÚBLICA. REEXAME NECESSÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. DIREITOS INDÍGENAS. DIREITO À EDUCAÇÃO DIFERENCIADA. PROCESSO ADMINISTRATIVO. CONSTRUÇÃO DE ESCOLA. ORÇAMENTO PÚBLICO. OMISSÃO INCONSTITUCIONAL. COMPROVADA SITUAÇÃO PRECÁRIA DE PRESTAÇÃO DE EDUCAÇÃO À COMUNIDADE INDÍGENA E OMISSÃO DO PODER PÚBLICO QUE JUSTIFICAM A CONDENAÇÃO IMPOSTA NA SENTENÇA. DANO EXTRAPATRIMONIAL COLETIVO NÃO CONFIGURADO (fl. 1012).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 927 e 944 do CC, no que concerne ao cabimento de condenação do Estado recorrido ao pagamento de indenização por danos morais coletivos sofridos por comunidade indígena em decorrência de omissão pela não construção de escola. Aduz a seguinte argumentação:
+O acórdão recorrido manteve a sentença combatida ao argumento de que houve omissão do Estado do Rio Grande do Sul ao não construir uma nova escola, com o oferecimento de condições adequadas e dignas para a prestação do direito à educação aos indígenas da Comunidade Aldeia Passo Feio, na Reserva Indígena de Nonoai, localizada no Município de Planalto/RS.
+ ..
+No entanto, "embora seja fato inegável que a nova unidade escolar a ser construída traga melhoria à comunidade indígena", entendeu a respeitável decisão recorrida que a omissão, por si só, não pode ser tida como suficientemente relevante a ponto de gerar a pretendida indenização por dano moral.
+É contra esse ponto que se insurge o presente recurso.
+ ..
+Ao contrário do que entendeu o acórdão recorrido, forçoso reconhecer que a situação apurada nos presentes autos impôs danos de ordem moral à comunidade indígena, que teve de aguardar por mais de dez anos a construção de uma simples escola. De um lado, a comunidade se viu privada do conhecimento transformador de toda uma geração que deixou de ter acesso à educação adequada. De outro, as crianças e adolescentes em idade escolar foram pessoalmente atingidos em um momento de especial importância na construção de sua capacidade cognitiva em um prejuízo que não se recupera, não se repõe. A viabilização da escola 15 anos depois do tempo em que devia estar construída, e funcionando a pleno vapor, não repara a ingente omissão do Estado. A opção política tomada pelo Estado do Rio Grande do Sul, e reconhecida pela Corte a quo como ilegal e inconstitucional, trouxe consequências que os indígenas carregarão para o resto da sua vida, traduzidas na imensa diminuição de oportunidades que a ausência de estudos acarreta para qualquer um, mas, especialmente, em comunidades hipossuficientes como as de que trata o presente processo.
+Não se trata aqui apenas do direito à educação, mas também do direito à valorização como indígena, com a percepção da importância de sua organização social e de sua cultura.
+ ..
+Configurado, portanto, o dano moral coletivo sofrido pela comunidade indígena, mostra-se impositiva a condenação do Estado do Rio Grande do Sul a repará-lo (fls. 1025- 1028).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Entendo que o dano moral coletivo somente se configurará em caso de grave ofensa à moralidade pública, objetivamente considerada, causando lesão a valores fundamentais da sociedade e transbordando da tolerabilidade.
+Dessa sorte, a violação aos interesses transindividuais deve ocorrer de maneira inescusável e injusta, percebida dentro de uma apreciação predominantemente objetiva, de modo a não trivializar, banalizar a configuração do aludido dano moral coletivo.
+No caso dos autos, todavia, não identi co que o não atendimento, por parte do Estado do Rio Grande do Sul, do pedido de construção de uma nova sede para a escola venha a atingir o âmago da coletividade ou classe de pessoas, embora seja fato inegável que a nova unidade escolar a ser construída traga melhoria à comunidade indígena.
+É importante deixar assentado que não é qualquer atentado aos interesses da coletividade que pode acarretar dano moral difuso que dê ensejo à responsabilidade civil, de modo, nem todo ato ilícito se revela como afronta aos valores de uma comunidade. Nesse sentido (fl. 1009).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 9.12.2013; AgInt no AREsp 1.534.079/ES, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 26.8.2020; AgInt nos EDcl no AREsp 1.341.969/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26.8.2020; AgInt no AREsp 1.581.658/PB, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18.8.2020; e AgInt no AREsp 1.528.011/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 1º.7.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
