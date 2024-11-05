@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE ITUIUTABA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - MULTAS POR NÃO IDENTIFICAÇÃO DO CONDUTOR (NIC) - DUPLA NOTIFICAÇÃO PARA PENALIDADES DISTINTAS - NOTIFICAÇÕES DA AUTUAÇÃO E DA PENALIDADE - PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA - INOBSERVÂNCIA - STJ Tema 1097- PRECEDENTES.
+- Em se tratando de multa aplicada às pessoas jurídicas proprietárias de veículo, fundamentada na ausência de indicação do condutor infrator, é obrigatório observar a dupla notificação: a primeira que se refere à autuação da infração e a segunda sobre a aplicação da penalidade, conforme estabelecido nos arts. 280, 281 e 282 do Código de Trânsito Brasileiro.
+- A empresa já foi notificada sobre a primeira infração de trânsito cometida. Mesmo assim, ela deverá ser novamente notificada sobre essa nova multa prevista no § 8º do art. 257, em atenção ao princípio constitucional da ampla defesa e contraditório. (STJ. 1ª Seção. REsp 1925456-SP, Rel. Min. Herman Benjamin, julgado em 21/10/2021 (Recurso Repetitivo - Tema 1097) (Info 715) (fl. 235).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 373, I, do CPC no que concerne à não comprovação do ônus da prova. Aduz:
+VI - DO ÔNUS DA PROVA - OFENSA AO ARTIGO 373, INCISO I, DO CPC 17. Como bem delineado no acórdão, o caso dos autos é se os enfermeiros do Município de Paracatu extrapolaram a carga horária laborada e se o Município não os remunerou por isso.
+18. Em que pese a fundamentação - muito bem construída pelo douto Desembargador Relator, ressalta-se - exarada nos acórdãos, certo é que houve um ligeiro equívoco na apreciação das provas constantes dos autos.
+19. Como bem nos ensina o artigo 373 do Código de Processo Civil, é dever do autor da ação provar os fatos constitutivos do seu direito, embora possa requerer a inversão do ônus probandi.
+Senão vejamos:  ..
+21. Desta feita, revela-se totalmente em desfavor do Município a Colenda Turma Julgadora dar provimento ao recurso de apelação, pois acolheu as alegações da parte contrária, ora recorrido, sem ao menos aplicar corretamente os ditames do ônus da prova.
+22. O ônus da prova, nos termos do art. 373, do Código de Processo Civil, cabe a quem alega, sendo assim, é de responsabilidade da recorrida a produção de provas de que realmente apresentou as defesas as quais ele alega, quais sejam, de que a multa indicada no Auto de Infração nº C107042201 foi aplicada sem observância aos artigos elencados no CTB.
+23. A falta de provas, quanto a certo fato que interesse ao processo e que tem grande influência no julgado, prejudica aquele a quem incumbia o ônus da prova. Assim, impõe-se a total improcedência da ação de obrigação de fazer com pedido de tutela de urgência, notadamente, pela falta de comprovação que o Município não apresentou resposta motivada, quando essa Municipalidade, ora recorrente, ofereceu a resposta devidamente ao autor, ora recorrido (fls. 271-272).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Ou seja, as provas dos autos foram analisadas de forma pontual, não havendo se falar em não cumprimento do art. 373 pela parte embargada, que juntou a documentação que comprova a negligência do ente fiscalizador (fl. 262).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Ant onio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
