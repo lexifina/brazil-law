@@ -1,0 +1,14 @@
+DECISÃO
+O presente conflito foi suscitado para definição do juízo competente para o julgamento de uma das tantas ações de indenização securitária relacionadas a danos verificados em imóveis adquiridos pelo Sistema Financeiro da Habitação e que decorreriam de vícios construtivos, fundando-se a pretensão na cobertura alegadamente prevista em apólice pública de seguro habitacional vinculada ao respectivo contrato de financiamento imobiliário e garantida pelo Fundo de Compensação de Variações Salariais - FCVS.
+A ação foi originariamente proposta no Poder Judiciário do Estado de São Paulo e distribuída ao Juízo de Direito da 3ª Vara Cível de Bauru/SP, que chegou a proferir sentença (fls. 69-72), tendo reconhecido a procedência dos pedidos deduzidos pelos autores.
+Ao julgar as apelações interpostas pela Caixa Econômica Federal e por Sul América Companhia Nacional de Seguros, a Segunda Câmara de Direito Privado do Tribunal de Justiça de São Paulo decidiu dar-lhes provimento a fim de "afastar" a sentença e declinar da competência para a Justiça Federal (fls. 113-122).
+Em cumprimento a esse acórdão, a ação foi encaminhada à Justiça Federal, tendo sido distribuída ao Juízo da 2ª Vara Federal de Bauru/SP, que suscitou o conflito negativo pelas razões apontadas no expediente de fls. 1-6. Recebido o conflito nesta Corte Superior, a distribuição foi inicialmente feita no âmbito da Segunda Seção, cabendo a relatoria ao Ministro Sidnei Beneti ( fls. 130).
+É o relatório.
+Decido.
+Trata-se de conflito negativo de competência suscitado pela 2ª VARA FEDERAL DE BAURU/SP reconhecendo de ofício a incompetência absoluta da Justiça Federal para apreciar e julgar o presente feito.
+Pois bem. A discussão acerca da legitimidade e da competência da Justiça Federal no que concerne a contratos vinculados ao Sistema Financeiro da Habitação  SFH e eventual comprometimento do Fundo de Compensação de Variações Salariais  FCVS, foi objeto de análise pelo Supremo Tribunal Federal, no RE n. 827.996/PR, sob o regime de repercussão geral, Tema n. 1.011.
+Opina o Ministério Público Federal pelo conhecimento do conflito e pela remessa dos autos à Justiça Estadual (fls. 133/134).
+Ante o exposto, conheço do conflito e declaro competente JUÍZO DA 2ª VARA FEDERAL DE BAURU/SP para julgar a ação em relação a ANGELINA ALCANTARA e OUTROS em razão do contrato possuir vínculo com a Apólice Pública, reconsiderando , desta feita, a decisão proferida pelo Ministro Sidnei Beneti às fls. 137- 138.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL. JUSTIÇA FEDERAL. AÇÃO ORDINÁRIA. REPAROS DE VÍCIOS DE CONSTRUÇÃO EM IMÓVEIS FINANCIADOS PELO SFH. CONTRATO DE SEGURO HABITACIONAL. CONTRATOS VINCULADOS À APÓLICE PÚBLICA (RAMO 66) E À APÓLICE PRIVADA (RAMO 68). DECISÃO DO JUÍZO FEDERAL SOBRE O INTERESSE DE EMPRESA PÚBLICA FEDERAL NA LIDE. TEMA N. 1.011 DO STF. COMPETÊNCIA DO JUÍZO FEDERAL.
