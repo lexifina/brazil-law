@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARIA EDUARDA DE LIMA LIMA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC nº 2178140-22.2023.8.26.0000).
+Consta dos autos que a paciente responde à ação penal pela suposta prática dos delitos previstos no artigo 33, caput, e no artigo 35, ambos da Lei nº 11.343/2006. A defesa alega, em síntese, que após o término da indicada instrução foram juntados aos autos novos documentos pela acusação e em seguida foi apresentada alegações finais, de modo que os documentos foram utilizados indevidamente como prova.
+Requer, liminarmente, a suspensão da ação penal até o julgamento do habeas corpus, e, no mérito, entende que deve ser reconhecida a negativa de vigência ao art. 402 do CPP, determinando-se a nulidade da audiência de instrução e o refazimento do ato.
+A liminar foi indeferida (fls. 137-138).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus por estar sendo usado como substitutivo do recurso cabível (fls. 173-176).
+É o relatório. DECIDO.
+Cinge-se a controvérsia a possível cerceamento de defesa em decorrência da juntada de provas logo após a audiência de instrução, às quais a defesa supostamente não teve acesso, com violação ao princípio do contraditório e da ampla defesa, bem como, do disposto no artigo 402 do CPP.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque a moldura fática do acórdão impugnado indica que a audiência foi realizada dois meses antes da juntada dos documentos aos quais a defesa reclama o acesso e não logo após a audiência, conforme alega.
+Além disso, verifica-se que a defesa teve tempo de acessar os referidos documentos (juntados no mês de março deste ano) e fazer o mesmo que o Ministério Público Federal fez, e refutá-los nas alegações finais, que foram apresentadas apenas no mês de agosto consoante se verificou na consulta ao andamento da ação penal no sítio do TJ/SP, segundo o qual, inclusive, já foi proferida sentença que condenou a paciente à pena de 8 anos de reclusão, em regime fechado, e ao pagamento de dias-multa, como incursa nos arts. 33, caput, e 35 da Lei n. 11.343/06.
+Logo, a parte ainda pode manejar os recursos cabíveis contra a sentença e, sendo o caso, contra o acórdão do Tribunal de Justiça do Estado de São Paulo.
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intime-se.
+EMENTA
