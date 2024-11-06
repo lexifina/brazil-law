@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSENILSON FRANCA RIBEIRO contra decisão que inadmitiu recurso especial com fundamento na Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 0003482-32.2012.8.20.0121) assim ementado (fl. 562):
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO REIVINDICATÓRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELAÇÕES CÍVEIS. COMPROVAÇÃO DO DOMÍNIO E DA POSSE JUSTA DO AUTOR/APELADO. ESCRITURA PÚBLICA DOS BENS IMÓVEIS. PREENCHIMENTO DOS REQUISITOS DA AÇÃO REIVINDICATÓRIA. APELOS CONHECIDOS E DESPROVIDOS. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE.
+Nas razões do recurso especial (fls. 570-592), a parte recorrente aponta violação dos arts. 1.200, 1.201 e seu parágrafo único, 1.202, 1.242, 1.245 do Código Civil.
+Alega que a posse não é injusta, tampouco ilegítima, porquanto não se mostra violenta, clandestina ou precária, nos termos do art. 1.200 do CC.
+Acrescenta que possui justo título, a exemplo da escritura que, mesmo não sendo pública, demonstra a aquisição ostensiva do imóvel, além da presença do animus domini.
+Destaca que agiu de boa-fé (art. 1.201, parágrafo único, e 1.202 do CC), não tendo havido comprovação de posse injusta, visto que "o justo título é a causa jurídica do fato da aquisição da posse e não simplesmente a existência de um documento; ainda que normalmente a causa da posse possa ser representada por um instrumento, designadamente um contrato, o justo título não é o documento em si, mas a razão jurídica ou causa eficiente da posse. O justo título tem relevância na aquisição da propriedade por usucapião, ante a redução dos prazos" (fl. 582).
+Requer o provimento do recurso para que se reforme o acórdão recorrido, nos termos das razões apresentadas.
+É o relatório. Decido.
+O recurso não reúne condições de admissibilidade.
+O Juízo de primeiro gr au, na sentença da ação de reivindicação (fls. 504-511), com esteio no conjunto probatório dos autos, julgou procedente o pedido determinando-se que os recorridos desocupassem os imóveis objetos da contenda, ao considerar ter sido evidenciada a natureza injusta da posse exercida pelos não proprietários.
+Veja-se a fundamentação desenvolvida pelo magistrado (destaquei):
+Suscitou a parte autora ser a legítima proprietária dos lotes nºs 15, 16, 29 e 30 com o total de 1.800 m2 de área, a qual foi supostamente invadida pelos demandados.
+Por sua vez, os demandados informam ter a posse justa dos imóveis, por ter sido adquirido através de contrato particular de compra e venda.
+ ..
+Em outras palavras, o proprietário não possuidor tem ação contra o possuidor não proprietário para reaver a coisa, bastando-lhe provar o domínio, a individuação da coisa e a posse injusta daquele que estiver com a coisa sob seu poder.
+ ..
+A escritura pública é, portanto, condição essencial, podendo ser substituída por instrumento particular devidamente instrumentalizado e registrado no registro imobiliário.
+In casu, a parte autora logrou êxito em comprovar que é proprietária do terreno, conforme estampa a Escritura que instruiu a inicial (ID 65924459 - fls. 25-35).
+Para corroborar, a autora, titular do domínio, vem arcando com as despesas dos imóveis, conforme IPTU dos referidos lotes (ID 65924459 - fls. 1-15).
+Válido pontuar, ademais, que os contratos coligidos aos autos pelos réus, de caráter eminentemente particular, não têm o condão de sobrepujar a força probante do título que instruiu a inicial, de natureza pública que o é, e que comprova, de fato, a propriedade.
+Além disso, uma análise atenta da documentação permite verificar que a área reclamada se encontra devidamente identificada, considerando tratar-se dos lotes 15, 16, 29 e 30, medindo uma área de 1.800 m2, conforme registro cartorário (ID 65924459 - fls. 25-35).
+Quanto à posse injusta, está naturalmente demonstrada, uma vez que os demandados, devidamente citados, em nenhum momento afirmam serem os proprietários do bem; pelo contrário, apenas admitem que possuem a posse em razão de um contrato particular de compra e venda, os quais não possuem uma cadeia sucessória de que a venda foi realizada pelo devido proprietário.
+Inconteste, portanto, a ocupação irregular dos imóveis reclamados.
+Interposta apelação, o Tribunal a quo, ao manter a decisão de piso, destacou estarem atendidos os pressupostos legais para a reintegração da posse, julgando procedente, portanto, a ação correspondente, com base no contexto fático-probatório colacionado aos autos, conforme se observa do seguinte excerto do decisum impugnado (fls. 564-565, destaquei):
+Contudo, convém destacar que o autor, ora apelado, comprovou o seu domínio sobre os bens imóveis indicados à exordial, com a devida escritura pública (Id. 65924459 - fls. 25/35 autos originários), além de demonstrar a sua propriedade com outros documentos acostados aos autos, a exemplo dos comprovantes dos IPTUs referentes aos imóveis.
+Nos casos de reivindicatória, configura-se posse injusta quando comprovada a ausência de justo título de domínio do imóvel, o que não ficou demonstrado nos autos, posto que restou configurada a posse justa no imóvel pelo autor, com a devida escritura pública registrada no cartório competente.
+Além disso, não procede a alegação dos réus/apelantes de que os imóveis reivindicados pelo autor/apelado são de outro município e de outro loteamento que não o dos imóveis dos réus, uma vez que o autor comprovou que se trata dos mesmos imóveis, conforme se extrai da ficha do imóvel (Id 21342411), do memorial descritivo (Id 21342413), bem como das plantas apresentadas e do georreferenciamento dos imóveis (Id 21342413), dentre outras provas dos autos.
+Logo, não assiste razão à alegação dos apelantes de que o autor não comprovou que os imóveis que ele adquiriu eram efetivamente aqueles que os réus estavam ocupando.
+Por outro lado, diante da demonstração da propriedade dos bens imóveis pelo autor, se revela irrelevante a questão trazida pelos réus, de que estiveram exercendo a posse com animus domini em continuidade aos possuidores que lhe venderam os imóveis.
+Ressalte-se, por oportuno, que restou demonstrado nos autos, através das fotos de Id 21342412, os imóveis foram objeto de invasão por parte dos apelantes, o que resulta na caracterização da posse injusta dos apelantes.
+Desse modo, considerando a validade da escritura pública, até que se tenha um documento que demonstre a sua invalidade, a posse do autor/apelado é justa sendo devida a sua manutenção na posse.
+Nesse viés, alterar a solução dada pela origem à lide para afastar a reintegração da posse do bem imóvel implicaria o reexame do contexto fático-probatório, medida obstada nesta via especial.
+Nesse sentido, a orientação jurisprudencial do STJ:
+DIREITO CIVIL E ADMINISTRATIVO. USUCAPIÃO EXTRAORDINÁRIO. IMÓVEL DE DOMÍNIO DA CESP (SOCIEDADE DE ECONOMIA MISTA). CONDIÇÃO DE BEM PÚBLICO AFASTADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Segundo a jurisprudência desta Corte de Justiça, os imóveis pertencentes às sociedades de economia mista podem ser adquiridos por usucapião, pela qualidade do direito de propriedade privada envolvido, exceto quando afetados à prestação de serviço público.
+2. Hipótese em que o Tribunal de origem consignou expressamente que o imóvel em litígio não era utilizado na atividade econômica principal da CESP (sociedade de economia mista), de modo que não possuía natureza de direito público.
+3. A instância de origem concluiu, ainda, que, apesar de o bem ter sido doado pela CESP ao Município de Castilho/SP, não haveria óbice ao reconhecimento da prescrição aquisitiva, tendo em vista que o registro do aludido título ocorreu quando já transcorrido o tempo necessário para configurar a usucapião.
+4. Ao contrário do defendido pela ora agravante, a modificação do julgado, a fim de reconhecer a alegada ofensa ao art. 102 do Código Civil, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, de acordo com a Súmula 7 do STJ.
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.390.214/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/9/2024, DJe de 20/9/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÕES DE USUCAPIÃO E POSSESSÓRIA, RESPECTIVAMENTE. CONEXÃO RECONHECIDA NA ORIGEM. JULGAMENTO EM SEPARADO DAS APELAÇÕES. FACULDADE DO MAGISTRADO. SÚMULA N.º 83 DO STJ. QUESTÃO DECIDIDA COM BASE NOS ELEMENTOS FÁTICOS DA CAUSA. SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior entende que o reconhecimento, pelo Juízo de origem, da conexão entre as ações com reunião dos feitos para decisão conjunta não obriga o julgamento em conjunto das apelações. Trata-se de uma faculdade do julgador a análise da necessidade de os processos serem reunidos para julgamento conjunto, porquanto cabe a ele avaliar a conveniência da medida em cada caso concreto. Incidência da Súmula n.º 83 do STJ.
+2. Ademais, o Tribunal estadual decidiu a questão com amparo no contexto fático-probatório dos autos, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.545.499/BA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Aplica-se ao caso, pois, a Súmula n. 7 do STJ.
+Ante o exposto, não conheço do agravo em recurso espec ial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em mais 3 % sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
