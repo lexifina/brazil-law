@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. CONDENAÇÃO COM TRÂNSITO EM JULGADO. ACÓRDÃO IMPUGNADO PROFERIDO HÁ MAIS DE 3 ANOS. NULIDADE DE ALGIBEIRA. INDEFERIMENTO LIMINAR. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A condenação do paciente já transitou em julgado, tendo o acórdão impugnado sido proferido em 9/6/2021, ou seja, há mais de 3 anos, insurgindo-se a defesa apenas na presente oportunidade, o que se assemelha à rechaçada nulidade de algibeira.
+- Como é de conhecimento, "a jurisprudência dos Tribunais Superiores não tolera a referi da nulidade de algibeira - eiva esta que, podendo ser sanada pela insurgência imediata da defesa após ciência do vício, não é alegada como estratégia, numa perspectiva de melhor conveniência futura" (AgRg na RvCr n. 5.565/RS, Relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Terceira Seção, julgado em 23/11/2022, DJe de 29/11/2022).
+2. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por IGOR ADRIANO FREITAS DOS SANTOS contra decisão monocrática, da lavra da Presidência, que indeferiu liminarmente o mandamus.
+O agravante aduz, em síntese, que é possível a concessão da ordem de ofício mesmo nos casos em que o habeas corpus é impetrado em substituição ao recurso próprio e ainda que haja supressão de instância.
+Pugna, assim, pelo provimento do agravo regimental.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. CONDENAÇÃO COM TRÂNSITO EM JULGADO. ACÓRDÃO IMPUGNADO PROFERIDO HÁ MAIS DE 3 ANOS. NULIDADE DE ALGIBEIRA. INDEFERIMENTO LIMINAR. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A condenação do paciente já transitou em julgado, tendo o acórdão impugnado sido proferido em 9/6/2021, ou seja, há mais de 3 anos, insurgindo-se a defesa apenas na presente oportunidade, o que se assemelha à rechaçada nulidade de algibeira.
+- Como é de conhecimento, "a jurisprudência dos Tribunais Superiores não tolera a referi da nulidade de algibeira - eiva esta que, podendo ser sanada pela insurgência imediata da defesa após ciência do vício, não é alegada como estratégia, numa perspectiva de melhor conveniência futura" (AgRg na RvCr n. 5.565/RS, Relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Terceira Seção, julgado em 23/11/2022, DJe de 29/11/2022).
+2. Agravo regimental a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+Com efeito, conforme explicitado na decisão monocrática, a condenação do paciente já transitou em julgado, tendo o acórdão impugnado sido proferido em 9/6/2021, ou seja, há mais de 3 anos, insurgindo-se a defesa apenas na presente oportunidade, o que se assemelha à rechaçada nulidade de algibeira.
+Como é de conhecimento, "a jurisprudência dos Tribunais Superiores não tolera a referida nulidade de algibeira - eiva esta que, podendo ser sanada pela insurgência imediata da defesa após ciência do vício, não é alegada como estratégia, numa perspectiva de melhor conveniência futura" (AgRg na RvCr n. 5.565/RS, Relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Terceira Seção, julgado em 23/11/2022, DJe de 29/11/2022).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE NULIDADE. IRREGULARIDADE NO RECONHECIMENTO FOTOGRÁFICO. SENTENÇA CONDENATÓRIA. APELAÇÃO JULGADA. TRÂNSITO EM JULGADO. INVIABILIDADE DO CONHECIMENTO DA IMPETRAÇÃO. AGRAVO DESPROVIDO.
+1. Na hipótese, não há se falar em constrangimento ilegal a ser sanado em sede de habeas corpus, pois o recorrente já foi condenado pelo Tribunal do Júri à pena de 14 anos de reclusão pela prática do delito de homicídio tendo, inclusive, ocorrido o trânsito em julgado da condenação. Insurge-se a defesa contra um acórdão de recurso em sentido estrito, quando já houve, inclusive, julgamento de apelação e trânsito em julgado. Assim, absolutamente inviável o conhecimento da impetração.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 787.053/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRIBUNAL DO JÚRI. ANULAÇÃO DA PRONÚNCIA. ELEMENTOS DE AUTORIA NÃO RATIFICADOS EM JUÍZO. TESE VENTILADA MAIS DE QUATRO ANOS APÓS A PROLAÇÃO DO ACÓRDÃO EM SEGUNDO GRAU. PRONÚNCIA LASTREADA EXCLUSIVAMENTE EM HEARSAY TESTIMONY. ALEGAÇÃO NÃO DEDUZIDA NO RECURSO EM SENTIDO ESTRITO. EFEITO DEVOLUTIVO DA VIA DE IMPUGNAÇÃO LIMITADO PELA PRETENSÃO DEDUZIDA NAS RAZÕES RECURSAIS OU NAS CONTRARRAZÕES. PRECLUSÃO DA CONTROVÉRSIA NA ORIGEM. IMPOSSIBILIDADE DE ESTA CORTE EXAMINAR A MATÉRIA PER SALTUM, AINDA QUE SE TRATASSE, EVENTUALMENTE, DE QUESTÃO DE ORDEM PÚBLICA. PRETENDIDA CONCESSÃO DA ORDEM EX OFFICIO. PROVIDÊNCIA QUE NÃO PODE SERVIR PARA ULTRAPASSAR A INADMISSIBILIDADE DA VIA ELEITA. AGRAVO DESPROVIDO.
+1. Na hipótese, transcorreu grande lapso temporal - mais de 4 (quatro) anos - entre a data em que foi proferido o acórdão de segundo grau e o protocolo da presente impetração. Portanto, está evidenciada a alegação de nulidade de algibeira, prática rechaçada pela jurisprudência do Superior Tribunal de Justiça. Precedentes.
+2. O conhecimento do recurso em sentido estrito é limitado ao que fora deduzido nas razões recursais ou nas contrarrazões. Por esse motivo, nos habeas corpus impetrados nesta Corte, não se pode apreciar pretensão não ventilada oportunamente nas instâncias antecedentes, sob pena de indevida supressão de instância.
+3. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/09/2019, DJe 10/10/2019)" (STJ, AgRg no HC 666.908/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 17/8/2021, DJe 20/ 8/2021).
+4. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é concedido por iniciativa dos Tribunais ao identificaram ilegalidade flagrante. Tal providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 774.881/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/11/2022, DJe de 2/12/2022)
+Assim, em que pese o esforço argumentativo da combativa defesa, não foram apresentados argumentos aptos a reverter as conclusões trazidas na decisão agravada, motivo pelo qual esta se mantém por seus próprios e jurídicos fundamentos.
+Pelo exposto, nego provimento ao agravo regimental.
+É como voto.
