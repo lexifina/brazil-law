@@ -1,0 +1,77 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5005713-30.2023.8.08.0012
+
+RECURSO INOMINADO CÍVEL (460)
+
+RECORRENTE: BANCO BMG SA
+
+RECORRIDO: ADEMIR FERREIRA
+
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+Voto servindo como ementa.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+VOTO
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA c/c OBRIGAÇÃO DE NÃO FAZER c/c RESTITUIÇÃO DE VALORES C/C INDENIZAÇÃO POR DANOS MATERIAIS MORAIS (COM PEDIDO DE TUTELA DE URGÊNCIA). ADUZ O AUTOR, EM SÍNTESE, QUE FOI SURPREENDIDO COM A INFORMAÇÃO DE QUE O RÉU CONTINUA DESCONTANDO VALORES DE SEU BENEFÍCIO PREVIDENCIÁRIO, MESMO APÓS TER SOLICITADO O CANCELAMENTO DE CARTÃO EMITIDO POR ELE, POIS NÃO MAIS UTILIZA OS SERVIÇOS DO RÉU. AFIRMA QUE OS DESCONTOS NÃO TÊM PRAZO PARA ENCERRAMENTO. CONSIGNO QUE O FATO DO TERMO DE RECLAMAÇÃO NÃO APRESENTAR A MELHOR TÉCNICA, E CONSIDERANDO QUE A PRETENSÃO DEDUZIDA EM JUÍZO NÃO SE LIMITA A DETERMINADO CAPÍTULO DA PETIÇÃO INICIAL, MERECENDO ATENÇÃO DO JULGADOR TUDO O QUE SE PODE EXTRAIR MEDIANTE INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DAS RAZÕES APRESENTADAS, INFIRO QUE HÁ PEDIDOS AUTORAIS PARA QUE SEJA DECLARADA A NULIDADE DO CONTRATO, COM A RESTITUIÇÃO DO QUE FOI DESCONTADO E O PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS.
+SENTENÇA DE PISO
+
+QUE JULGOU PROCEDENTES OS PEDIDOS INICIAIS PARA DECLARAR A NULIDADE DO CONTRATO DE CARTÃO DE CRÉDITO COM MARGEM CONSIGNÁVEL EM NOME DA PARTE AUTORA, CONDENAR O RÉU À RESTITUIÇÃO DOS VALORES DESCONTADOS NO BENEFÍCIO PREVIDENCIÁRIO DELA, TODOS DEVIDAMENTE ATUALIZADOS DESDE A DATA DE CADA DESCONTO (STJ, SÚMULA Nº 43) E ACRESCIDOS DE JUROS LEGAIS DESDE O EVENTO DANOSO (STJ, SÚMULA Nº 54), QUAL SEJA, A DATA DO CONTRATO NULO (18/04/2016), E, AINDA, CONDENAR O RÉU AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO VALOR DE R$5.000,00. REQUERIDA PUGNANDO PELA REFORMA INTEGRAL DA SENTENÇA E AFASTAR OS DANOS MORAIS, OU, SUBSIDIARIAMENTE, SUA MINORAÇÃO.
+RECURSO CONHECIDO E IMPROVIDO
+. CONFORME VISUALIZADO NOS AUTOS, A AUTORA É PESSOA IDOSA E FOI SURPREENDIDA COM A CONTINUAÇÃO DOS DESCONTOS EM RELAÇÃO AO CONTRATO DE EMPRÉSTIMO, JÁ QUITADO. ASSIM, É IRRETOCÁVEL A SENTENÇA DE PISO QUE DECLAROU
+A NULIDADE DO CONTRATO DE CARTÃO DE CRÉDITO COM MARGEM CONSIGNÁVEL EM NOME DA PARTE AUTORA.
+
+IMPOSSIBILIDADE DE ACOLHIMENTO DO PEDIDO DE AFASTAMENTO DO DANO MORAL.
+DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO QUE DEVE SER SUFICIENTE À EFETIVA REPARAÇÃO DO DANO. ARBITRAMENTO DE FORMA RAZOÁVEL E PROPORCIONAL, A PARTIR DAS PECULIARIDADES DO CASO.
+
+Pelo exposto,
+CONHEÇO
+
+do recurso inominado,
+NEGANDO-LHE PROVIMENTO
+
+para manter a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95.
+
+CONDENO
+
+a parte recorrente ao pagamento de custas e honorários no importe de 10% sobre o valor da condenação, ou não havendo, do valor da causa.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
