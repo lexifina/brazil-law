@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E DIREITO PROCESSUAL PENAL. FURTO QUALIFICADO E FALSA IDENTIDADE. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIDO PELA PRESIDÊNCIA DESTA CORTE POR FALTA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182 SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE NOVOS ARGUMENTOS CAPAZES DE ALTERAR O ENTENDIMENTO ANTERIORMENTE FIRMADO. RECURSO NÃO CONHECIDO. DECISÃO MANTIDA.
+I. CASO EM EXAME
+1. Agravo regimental interposto por contra decisão da então Ministra Presidente que não conheceu do agravo em recurso especial, em razão de ausência de impugnação específica dos fundamentos da decisão de inadmissão do recurso especial, pelo óbice da Súmula 7/STJ.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se o agravo regimental traz argumentos suficientes para alterar a decisão de inadmissão do recurso especial; (ii) determinar se houve impugnação específica de todos os fundamentos da decisão agravada, conforme exige a Súmula 182/STJ.
+III. RAZÕES DE DECIDIR
+3. Nos termos da jurisprudência desta Corte Superior, cumpre ao agravante impugnar especificamente todos os fundamentos estabelecido na decisão agravada sob pena de ser mantida a decisão pelos seus próprios fundamentos (súmula 182 do Superior Tribunal de Justiça).
+4. Limitando-se o recorrente a reiterar os argumentos expostos na petição do agravo em recurso especial, não deve o agravo regimental ser conhecido.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental não conhecido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por LUCY YANIRE CAMARGO contra decisão da lavra da então Ministra Presidente que não conheceu do agravo em recurso especial (e-STJ fls. 463/464).
+O agravante sustenta a) que houve violação literal ao disposto artigos arts. 33 e 59 do Código Penal, além da aplicação do art. 117, III da Lei de Execução Penal, bem como foi contrariada jurisprudência deste Corte de Justiça, devendo ser reformado o v. acórdão nos termos adiante explicitados; b) o magistrado utilizou argumentos tautológicos para valorar negativamente a culpabilidade da agente, basicamente aumentando a pena pelo simples fato de ter cometido concurso de crimes - o que deveria ser pressuposto para aplicação da pena, mas nunca fundamento para sua majoração; c) trata-se de questão eminentemente jurídica relativa aos critérios de aplicação da norma, sem qualquer necessidade de revolvimento de provas ou reabertura de controvérsias já superadas; d) obrigar a agravante a formular o pedido perante o juízo da execução implicaria no risco de prisão injusta, já que, estando ela em liberdade provisória, o processo de execução somente terá início após o trânsito em julgado, que também enseja a expedição de mandado de prisão.
+Requer a reconsideração da decisão agravada ou o provimento de seu recurso pelo colegiado a fim de que seja conhecido o agravo e provido o recurso especial, com a fixação da pena-base no mínimo legal, bem como com a concessão da prisão domiciliar (e-STJ fls. 469/477).
+Em contrarrazões, o Ministério Público Federal posta-se "pelo provimento do agravo regimental, provimento parcial do agravo interposto na origem e desprovimento do recurso especial e pela concessão de ofício de ordem de habeas corpus" (e-STJ fls. 521/530).
+É o relatório.
+EMENTA
+DIREITO PENAL E DIREITO PROCESSUAL PENAL. FURTO QUALIFICADO E FALSA IDENTIDADE. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIDO PELA PRESIDÊNCIA DESTA CORTE POR FALTA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182 SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE NOVOS ARGUMENTOS CAPAZES DE ALTERAR O ENTENDIMENTO ANTERIORMENTE FIRMADO. RECURSO NÃO CONHECIDO. DECISÃO MANTIDA.
+I. CASO EM EXAME
+1. Agravo regimental interposto por contra decisão da então Ministra Presidente que não conheceu do agravo em recurso especial, em razão de ausência de impugnação específica dos fundamentos da decisão de inadmissão do recurso especial, pelo óbice da Súmula 7/STJ.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se o agravo regimental traz argumentos suficientes para alterar a decisão de inadmissão do recurso especial; (ii) determinar se houve impugnação específica de todos os fundamentos da decisão agravada, conforme exige a Súmula 182/STJ.
+III. RAZÕES DE DECIDIR
+3. Nos termos da jurisprudência desta Corte Superior, cumpre ao agravante impugnar especificamente todos os fundamentos estabelecido na decisão agravada sob pena de ser mantida a decisão pelos seus próprios fundamentos (súmula 182 do Superior Tribunal de Justiça).
+4. Limitando-se o recorrente a reiterar os argumentos expostos na petição do agravo em recurso especial, não deve o agravo regimental ser conhecido.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental não conhecido.
+VOTO
+O presente recurso não merece ser conhecido, uma vez que assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos (súmula 182).
+Ademais, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ 463/464):
+Cuida-se de agravo em recurso especial apresentado por LUCY YANIRE CAMARGO contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 284/STF, ausência de prequestionamento e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: ausência de prequestionamento e Súmula 7/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAR Esp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, D Je de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Ressalto, por oportuno, que ao contrário do que sustenta o Ministério Público Federal no e-STJ 521/530, inexiste erro de cálculo na dosimetria da pena que prejudique a recorrente, ao contrário. Vejamos:
+Pela prática do delito de furto qualificado, o Magistrado Sentenciante após reconhecer a existência de uma vetorial negativa, fixou a pena-base, para o crime de furto, em 2 anos e 3 meses de reclusão.
+Quanto a fração eleita para majorar a pena na primeira fase, o entendimento desta Corte é no sentido de que "Não há previsão legal ou obrigatoriedade de adoção de critério formal e puramente matemático para a fixação da sanção básica. O julgador, motivadamente, poderá levar em consideração as peculiaridades de cada caso e adotar frações diferentes de 1/6 (a partir do mínimo legal) ou 1/8 (sobre o intervalo do preceito secundário do tipo penal)" (AgRg no REsp 1.968.097/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/3/2024, DJe de 15/3/2024).
+No caso, o Magistrado elegeu a fração de 1/8, no entanto fixou a pena-base em 2 anos e 3 meses de reclusão, inferior portanto a 2 anos e 8 meses que seria o número encontrado após majorar a pena em 1/8 sobre o intervalo do preceito secundário do tipo. Dessa forma, como o erro material beneficia a recorrente, deixo de proceder ao ajuste.
+Também não poderia o regime inicial de cumprimento de pena ser abrandado pois, nos termos da súmula 269 desta Corte de Justiça, os réus reincidentes somente iniciarão o cumprimento da pena no regime semiaberto quando todas as circunstâncias judiciais forem favoráveis, o que não foi o caso da recorrente que te ve valorada, negativamente, a circunstância judicial referente aos antecedentes.
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
