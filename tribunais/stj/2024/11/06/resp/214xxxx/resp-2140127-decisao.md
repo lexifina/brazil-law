@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DISTRITO FEDERAL, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado (fl. 58):
+AGRAVO DE INSTRUMENTO. CONDENAÇÃO DA FAZENDA PÚBLICA. CUMPRIMENTO DE SENTENÇA. REQUISIÇÃO DE PEQUENO VALOR. CRÉDITO CONSTITUÍDO ANTES DA LEI DISTRITAL 6.618/2020. APLICABILIDADE DA LEI DISTRITAL 3.624/2005.
+1. A Lei distrital n. 6.618/2020, em vigor desde junho de 2020, alterou a Lei distrital n. 3.624/2005 e aumentou o valor relativo à RPV de 10 (dez) para o equivalente a 20 (vinte) salários mínimos. Em que pese a referida Lei tenha aplicação imediata, por se tratar de norma de natureza processual, os respectivos efeitos não atingem o direito adquirido, o ato jurídico perfeito e a coisa julgada (art. 5º, inc. XXXVI, da CF). Além disso, o Supremo Tribunal Federal e o Superior Tribunal de Justiça firmaram entendimento no sentido de que as normas que regulamentam os parâmetros de pagamento de Requisição de Pequeno Valor são de caráter material e processual, de modo que não podem retroagir para atingir situações jurídicas constituídas antes de sua vigência.
+2. No caso, o trânsito em julgado da decisão final de mérito proferida na ação coletiva, cujo título fundamenta o cumprimento individual de sentença, ocorreu em 11/03/2020, ou seja, antes de vigência da Lei distrital n. 6.618/2020, de maneira que inaplicável o novo teto de 20 (vinte) salários mínimos definido para a obrigação de pequeno valor.
+3. Ademais, Conselho Especial declarou a inconstitucionalidade formal da Lei distrital n. 6.618/2020, com efeitos ex nunc e eficácia erga omnes.
+4. Agravo de instrumento conhecido e não provido.
+Os embargos de declaração opostos pela parte ora recorrida foram acolhidos nos termos da seguinte ementa (fl. 99):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CONDENAÇÃO DA FAZENDA PÚBLICA. REQUISIÇÃO DE PEQUENO VALOR. TEMA 792 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. LEI DISTRITAL N. 6.618/2020. DECLARAÇÃO DE INCONSTITUCIONALIDADE. EFEITOS EX NUNC. DECLARATÓRIOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Diante de decisão da Corte Suprema em sede de Reclamação Constitucional acerca da matéria, bem assim considerando que a declaração de inconstitucionalidade da Lei Distrital n. 6.618/2020 pelo Conselho Especial (Acórdão 1696701) não produz efeitos na hipótese, os embargos de declaração devem ser acolhidos com efeitos infringentes para, suprindo erro de fato e omissão, determinar a expedição da requisição de pequeno valor de acordo com o teto de vinte salários mínimos.
+2. Embargos de declaração conhecidos e providos.
+Em suas razões recursais, a parte recorrente alega haver, além do dissídio jurisprudencial, violação dos arts. 87 do Ato da Disposições Constitucionais Transitórias (ADCT), 5º, XXXVI, da Constituição Federal (CF), 6º da Lei de Introdução às normas do Direito Brasileiro (LINDB) e 1º e 927, III, do Código de Processo Civil (CPC), porque o acórdão recorrido concluiu que "o STF consolidou o entendimento de que o Tema 792 não deve ser aplicado para afastar o direito ao pagamento do crédito inferior a 20 salários mínimos por RPV, mesmo em relação a sentenças transitadas em julgado antes da vigência da lei que alterou o teto" (fl. 115).
+Defende, com isso, que "o recurso especial deve ser provido para anular o acórdão recorrido e determinar ao Tribunal a quo a aplicação do Tema 792 do STF (RE 729107)" (fl. 117).
+A parte adversa apresentou contrarrazões (fls. 140/148).
+O recurso foi admitido na origem (fls. 167/168).
+É o relatório.
+Inicialmente, a parte recorrente não indicou nas razões de seu recurso especial qual seria o dispositivo de lei federal objeto de interpretação controvertida nos tribunais, providência exigida por esta Corte Superior para o conhecimento dos recursos especiais interpostos com fundamento na alínea c do art. 105, inciso III, da Constituição Federal.
+Incide no presente caso, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+A propósito, cito os seguintes julgados desta Corte Superior:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. MAJORAÇÃO DOS VALORES FIXADOS A TÍTULO POR DANOS MORAIS. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI FEDERAL VIOLADOS. INCIDÊNCIA DA SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO FOI ANAL DEMONSTRADO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+ ..
+2. Não é possível conhecer do Recurso Especial fundado no art. 105, III, alínea c da CF, uma vez que a parte recorrente não indicou qual seria o dispositivo de Lei Federal de interpretação controvertida, o que atrai a incidência do enunciado 284 da Súmula de jurisprudência do STF, por analogia.
+ ..
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt no REsp n. 1.848.965/AL, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 5/10/2020, DJe de 9/10/2020, sem destaques no original.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EXPROPRIAÇÃO. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI REPUTADO VIOLADO. SÚMULA 284 DO STF. JUROS COMPENSATÓRIOS. DIFERENÇA ENTRE 80% DO DEPÓSITO E O VALOR DA CONDENAÇÃO. JUROS MORATÓRIOS. INEXIGIBILIDADE.
+1. Segundo a firme jurisprudência assentada no Superior Tribunal de Justiça, a interposição do Recurso Especial com fundamento na alínea "c" não dispensa a indicação do dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais. O não cumprimento de tal requisito, como no caso, importa deficiência de fundamentação, atraindo também a incidência do contido no enunciado 284 da Súmula do Supremo Tribunal Federal.
+ ..
+5. Recurso Especial da ATAV não conhecido. Recurso Especial do METRÔ conhecido e, no mérito, não provido.
+(REsp n. 1.779.680/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/9/2019, DJe de 18/10/2019, sem destaques no original.)
+Quanto à alegada afronta aos arts. 87 do ADCT e 5º, XXXVI, da CF, é incabível o recurso especial quanto ao ponto por se tratar de matéria a ser veiculada em recurso extraordinário, cuja apreciação é da competência do Supremo Tribunal Federal; o contrário implicaria usurpação de competência (art. 102, III, da CF).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INCORRÊNCIA. REINTERPRETAÇÃO DO ALCANCE DA TESE FIRMADA EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - Não compete a este Superior Tribunal a análise de suposta violação a dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.836.774/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/8/2020, DJe de 14/8/2020, sem destaques no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017, sem destaques no original.)
+No presente caso, embora a parte recorrente tenha indicado nas razões do recurso especial violação de dispositivos de lei federal, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+O Tribunal de origem acolheu a pretensão autoral com amparo no julgamento do Recurso Extraordinário 729.107/DF, pelo qual se apreciou o Tema 792 da repercussão geral.
+Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal (STF), prevista no art. 102 da Constituição Federal.
+O exame do alcance e dos limites de tese jurídica fixada pelo STF demanda a interpretação de preceitos e dispositivos constitucionais, providência essa de competência exclusiva da Suprema Corte.
+Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. BASE DE CÁLCULO. PIS E COFINS. NÃO INCIDÊNCIA. FORMA DE CÁLCULO. ICMS DESTACADO NAS NOTAS FISCAIS VERSUS ICMS A RECOLHER NA COMPETÊNCIA. ACÓRDÃO RECORRIDO FUNDADO EM PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. O Tribunal de origem apenas interpretou o precedente do Supremo Tribunal Federal em repercussão geral para aplicá-lo ao caso concreto, razão pela qual não cabe ao Superior Tribunal de Justiça dirimir a controvérsia em sede de Recurso Especial no pertinente à interpretação constitucional do referido RE 574.706 RG/PR, sob pena de usurpação da competência do Supremo Tribunal Federal prevista no art. 102 da Constituição Federal.
+3. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+(AgInt no AREsp n. 1.578.077/SP, Ministro Manoel Erhardt - Desembargador Convocado do TRF da 5ª Região, Primeira Turma, julgado em 19/4/2021, DJe de 29/4/2021, sem destaque no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017, sem destaque no original.)
+Ante o exposto, não conheço recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
