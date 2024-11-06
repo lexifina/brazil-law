@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de ALEX AUGUSTO DA SILVA - denunciado como incurso no crime de tráfico de drogas (Ação Penal n. 1501777-26.2024.8.26.0544) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus n. 2219349-34.2024.8.26.0000), não comporta acolhimento.
+Com efeito, busca a impetração o trancamento da ação penal em trâmite perante o Juízo de Direito da Vara Única da comarca de Itupeva/SP, ao argumento de nulidade da busca domiciliar realizada sem fundada suspeita.
+No entanto, do atento exame dos autos, observo que a busca domiciliar foi precedida de diligências policiais que lograram apreender entorpecente com o paciente, as quais foram antecedidas de denúncia anônima específica, que evidenciou o comércio das drogas pelo réu no veículo conduzido por ele (fl. 54), razão pela qual não verifiquei o alegado constrangimento.
+As circunstâncias que antecederam o ingresso dos agentes de polícia evidenciaram de maneira objetiva a probabilidade de ocorrência de crime permanente, exigindo urgência da ação policial, de modo a excepcionar a garantia constitucional de inviolabilidade do domicílio (AgRg no RHC n. 192.495/PE, da minha lavra, Sexta Turma, DJe 16/8/2024), tanto que o cumprimento da diligência culminou com a apreensão de vasta quantidade de droga (mais de 2 kg de cocaína, quase 2 kg de maconha e quase 1 kg de crack - fl. 31).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA E APREENSÃO DOMICILIAR. FUNDADA SUSPEITA. EXISTÊNCIA. DILIGÊNCIA REALIZADA MEDIANTE PRÉVIA DENÚNCIA PORMENORIZADA A RESPEITO DE UM VEÍCULO UTILIZADO NA SUPOSTA DISTRIBUIÇÃO DE DROGA, NO QUAL FORAM ENCONTRADOS O PACIENTE E A SUBSTÂNCIA ILÍCITA. APREENSÃO DE DROGA QUE JUSTIFICOU A BUSCA DOMICILIAR. EXORBITANTE QUANTIDADE DE ENTORPECENTE APREENDIDO (2,574 KG DE COCAÍNA, 1,997 KG DE MACONHA E 993 G DE CRACK). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
