@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de PAULO VITHOR FARIA DE ASSIS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o paciente teve a prisão em flagrante convertida em preventiva, pela prática, em tese, do crime de tráfico de drogas.
+Irresignada, a defesa, impetrou habeas corpus perante o Tribunal de origem, que, denegou a ordem, em acórdão assim ementado:
+ ..  HABEAS CORPUS - TRÁFICO DE DROGAS - PRISÃO PREVENTIVA - QUANTIDADE CONSIDERÁVEL DE ENTORPECENTES - CONDIÇÕES PESSOAIS FAVORÁVEIS - GARANTIA DA ORDEM PÚBLICA E DA APLICAÇÃO DA LEI PENAL - RISCO DE REITERAÇÃO DELITIVA - MEDIDAS CAUTELARES DIVERSAS - INAPLICABILIDADE - ORDEM DENEGADA. 1. Para decretação da prisão preventiva devem ser observadas as circunstâncias descritas nos artigos 312 e 313 do CPP. 2. Ante a existência de prova da materialidade delitiva e de indícios suficientes de autoria, resta demonstrada a necessidade da prisão preventiva para a garantia da ordem pública e da aplicação da lei penal. 3. Havendo elementos concretos da imperatividade da manutenção da segregação cautelar, não há que se falar na aplicação de medidas cautelares diversas. 4. Ordem denegada  ..  (fl. 27)
+A defesa, alega constrangimento ilegal e falta de fundamentação idônea à manutenção da prisão preventiva.
+Requer a concessão da ordem liminarmente e, no mérito, com a revogação da segregação cautelar, subsidiariamente, a imposição de medidas cautelares diversas da prisão.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta.
+No ponto, consta no acórdão hostilizado do Tribunal de origem:
+ ..  há que se considerar as circunstâncias concretas do caso para a análise do cabimento da prisão preventiva, como a quantidade e a variedade de substâncias apreendidas, as condições pessoais do paciente e a dinâmica dos fatos, a fim de aferir o risco da liberdade do acusado para a ordem pública, a aplicação da lei penal ou a instrução criminal.
+ ..  Os policiais militares no APFD (doc. ordem 4) declararam que, após o recebimento de denúncias, receberam informação de que o paciente supostamente estaria envolvido com o tráfico de entorpecentes.
+Ainda, relataram que, no momento da abordagem policial, o paciente teria dispensado um objeto que estava em suas mãos para o interior de um bueiro.
+ ..  Do exame da CAC juntada aos autos (doc. ordem 24), nota-se que o paciente é primário. Contudo, verifica-se que esse ostenta anotação pelo mesmo delito que lhe foi imputado nos autos, o que demonstra possível risco de reiteração delitiva.  ..  (fls. 29;30;31-32)
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+ ..  São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente.  ..  (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+ ..  Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade. (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)  ..  (AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023)
+Presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do CPP, não há que se falar em violação ao princípio de presunção de inocência.
+Nesse sentido:
+ ..  A imposição da constrição processual em nada fere o princípio da presunção de inocência quando lastreada em elementos concretos dos autos que demonstram o perigo que a liberdade do agravante pode representar para a ordem pública. Precedentes  ..  (AgRg no HC 618.887/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/04/2021, DJe 14/04/2021).
+A existência de condições pessoais favoráveis, mesmo quando devidamente comprovadas, não é apta a afastar a custódia quando existentes os pressupostos legais, posto que "condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade" (STJ -SEBASTIÃO REIS JÚNIOR, Data de Julgamento: 24/09/2019, T6 -SEXTA TURMA, Data de Publicação: DJe 03/10/ 2019).
+A propósito:
+ ..  Condições subjetivas favoráveis ao agravante não são impeditivas à decretação da prisão cautelar, caso estejam presentes os requisitos autorizadores da referida segregação. Precedentes  ..  (AgRg no HC 640.821/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 30/03/2021, DJe 08/04/2021).
+Acrescente-se, que a inversão do que restou decidido pelas instâncias ordinárias, demandaria, impreterivelmente, revolvimento de matéria fático-probatória, procedimento vedado na estreita via do habeas corpus, ainda mais quando não se demonstrou de plano a existência das condições subjetivas alegadas pelo paciente.
+No mais:
+ ..  O paciente não demonstrou a sua imprescindibilidade aos cuidados das menores. Rever tal posicionamento demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência incabível nesta via mandamental  ..  (AgRg no HC n. 754.776/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2023).
+Quanto ao argumento de que, em caso de condenação terá direito a regime diverso do fechado, deve-se ressaltar que não se presta a via do habeas corpus para análise de desproporcionalidade da prisão em face de eventual condenação do réu, uma vez que tal exame só poderá ser realizado pelo Juízo de primeiro grau, após cognição exauriente de fatos e provas do processo, a fim de definir, se for o caso, a pena e o regime a serem aplicados.
+A jurisprudência desta Corte se firmou no sentido de que:
+"O argumento de desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual" (AgRg no HC n. 779.709/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/12/2022).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Assim:
+É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do réu (AgRg no HC 619.400/SP, Rel. Ministro RIBEIRO DANTAS, QUINT A TURMA, julgado em 27/04/2021, DJe 30/04/2021).
+Ante o exposto, denego a ordem em habeas corpus.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
