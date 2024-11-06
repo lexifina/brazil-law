@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar, interposto por ALYSSON PINHEIRO CARVALHO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Depreende-se dos autos que o recorrente teve a prisão em flagrante convertida em preventiva, pela prática, em tese, do delito previsto no art. 155, caput, c/c art. 14, inc. II, ambos do Código Penal.
+Irresignada, a defesa, impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado:
+ ..  HABEAS CORPUS (FURTO TENTADO). VIOLAÇÃO AO P R I N C Í P I O D A H O M O G E N E I D A D E . N Ã O C O N H E C I M E N T O . INSUFICIÊNCIA DE CAUTELARES. 1. Salvo situações excepcionais, é incomportável, em sede de habeas corpus, a análise em juízo prognóstico de possível pena e regime a serem aplicados em caso de hipotética condenação. 2. Se a prisão preventiva está justificada na garantia de ordem pública e no risco concreto de reiteração delitiva, inviável o reconhecimento de constrangimento ilegal, sobretudo porque evidenciada a insuficiência de medidas cautelares alternativas. 3. Ordem parcialmente conhecida e, nessa extensão, denegada.  ..  (fl. 200)
+Alega constrangimento ilegal e falta de fundamentação idônea à manutenção da segregação cautelar.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, subsidiariamente, a imposição de medidas cautelares diversas.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do recorrente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta.
+No ponto, consta nos autos:
+ ..  Compulsando os autos, verifica-se que a medida está justificada na presença de materialidade fática, nos indícios de autoria e na necessidade de garantia da ordem pública, sobretudo ante a possibilidade de reiteração delitiva, já que estava preso e posto em liberdade (04/07/2024), voltou a delinquir, evidenciando habitualidade delitiva e falta de respeito para com o Sistema de Justiça Penal.
+Outrossim, nota-se que o paciente ostenta duas condenações definitivas pela prática do crime de receptação Proc. nº 48617-61 (fato em 18/04/2019, sentença transitada em julgado em 14/11/2019) e Proc. nº 0028733-46 (fato em 06/03/2019, sentença transitada em julgado em 22/02/2023).
+Some-se, ainda, a existência de quatro outros registros criminais (todos de natureza patrimonial), os quais tramitam em desfavor do paciente, quais sejam: Proc. nº 5756978-80 (furto qualificado - fato de 13/11/2023), Proc. nº 5377966-90 (furto - fato de 16/06/2023), Proc. nº 5545435-30 (receptação - fato de 05/06/2024), Proc. nº 0147521-53 (furto - fato de 09/11/2018).  ..  (fl. 205)
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+ ..  Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade. (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)  ..  (AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023)
+Ademais, cumpre consignar que a inversão do que restou decidido pelas instâncias ordinárias, demandaria, impreterivelmente, revolvimento de matéria fático-probatória, procedimento vedado na estreita via do habeas corpus, ainda mais quando não se demonstrou de plano a existência das alegações do recorrente, e não há manifesta ilegalidade ou teratologia identificadas.
+Nesse sentido:
+ ..  O paciente não demonstrou a sua imprescindibilidade aos cuidados das menores. Rever tal posicionamento demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência incabível nesta via mandamental  ..  (AgRg no HC n. 754.776/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2023)
+Quanto à alegação de que, em caso de condenação terá direito a regime diverso do fechado, deve-se ressaltar que não se presta a via do habeas corpus para análise de desproporcionalidade da prisão em face de eventual condenação do réu, uma vez que tal exame só poderá ser realizado pelo Juízo de primeiro grau, após cognição exauriente de fatos e provas do processo, a fim de definir, se for o caso, a pena e o regime a serem aplicados. A jurisprudência desta Corte se firmou no sentido de que:
+ ..  O argumento de desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual  ..  (AgRg no HC n. 779.709/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/12/2022).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Nesse sentido:
+ ..  É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do réu  ..  (AgRg no HC 619.400/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/04/2021, DJe 30/04/2021).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intimem -se.
+EMENTA
