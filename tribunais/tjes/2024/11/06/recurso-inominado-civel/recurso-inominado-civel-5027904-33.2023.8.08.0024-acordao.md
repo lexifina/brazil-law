@@ -1,0 +1,123 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5027904-33.2023.8.08.0024
+
+RECURSO INOMINADO CÍVEL (460)
+
+RECORRENTE: ALECSANDRA ALVES DE OLIVEIRA
+
+RECORRIDO: UNIMED VITORIA COOPERATIVA DE TRABALHO MEDICO
+
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+Voto servindo como ementa.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+Recurso Inominado nº
+5027904-33.2023.8.08.0024
+
+Recorrente:
+ALECSANDRA ALVES DE OLIVEIRA
+
+Recorrido:
+UNIMED VITORIA COOPERATIVA DE TRABALHO MEDICO
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Concedo o benefício da justiça gratuita à parte Recorrente.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR.
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS
+C/C SUSPENSÃO DE COBRANÇAS
+.
+PLANO DE SAÚDE
+COM PREVISÃO DE FATOR MODERADOR – COPARTICIPAÇÃO 50%.
+PREVISÃO DE ISENÇÃO APENAS PARA ATENDIMENTOS REALIZADOS NO
+S AMBULATÓRIOS DAS UNIDADES DE ATENDIMENTO DO “UNIMED FÁCIL”
+.
+AUTORA QUE ALEGA
+QUE AGENDOU AS CONSULTAS
+COM MÉDICOS PARTICIPANTES DA
+REDE
+“
+UNIMED FÁCIL”, E BUSCOU PELOS PROFISSIONAIS NO “GUIA MÉDICO” OFERTADO PELA RECORRIDA. OPERADORA QUE DEMONSTROU QUE AS CONSULTAS COBRADAS FORAM REALIZADAS EM
+CONSULTÓRIOS
+DOS MÉDICOS COOPERADOS E NÃO
+NOS AMBULATÓRIOS
+, RAZÃO PELA QUAL INCIDIU O FATOR MODERADOR DE 50%.
+SENTENÇA
+A QUO
+QUE JULGOU IMPROCEDENTES OS PEDIDOS DA INICIAL.
+
+RECURSO DA AUTORA
+QUE VISA A REFORMA DA SENTENÇA SOB O ARGUMENTO DE FAL
+T
+A DE INFORMAÇÃO.
+FALHA NA PRESTAÇÃO DOS SERVIÇOS QUE NÃO SE VERIFICA. PREVISÃO CONTRATUAL EXPRE
+S
+SA
+SOBRE A POSSIBILIDADE DE ISENÇÃO EM CASO
+S
+ESPECÍFICO
+S
+- “
+GRUPO ESPECÍFICO DE PROFISSIONAIS/CLÍNICAS”, CONFORME DESCRITO NA INICIAL -.
+MANIFESTAÇÃO DA PARTE AUTORA, CONFORME CERTIDÃO E DOCUMENTOS JUNTADOS NOS AUTOS EM 23/11/2023, EM QUE DEMONSTRA QUAL O MÉDICO COOPERADO QUE A ATENDEU E O ENDEREÇO DO CONSULTÓRIO PARTICULAR.
+PROVA CONTRÁRIA
+DE QUE FOI ATENDIDA EM
+AMBULATÓRIO DA UNIMED
+,
+QUE CONSISTIA EM UM ÔNUS DA QUAL A AUTORA NÃO SE DESINCUMBIU. AUSENTE ATO ILÍCITO CAPAZ DE SUBSIDIAR
+AS PRETENSÕES DE SUSPENSÃO DE COBRANÇAS E
+INDENIZAÇÃO POR DANOS MORAIS.
+
+S
+ENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF
+1
+. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LEI 9.099/95), CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DE CONDENAÇÃO OU, NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA”. SUSPENDE-SE, NO ENTANTO, A EXIGIBILIDADE DA VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS ADVOCATÍCIOS), ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA EM FAVOR DA PARTE AUTORA.
+
+É como voto.
+
+1
+ENUNCIADO 11: A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9099/95, SEM A NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA.
+
+Tema n.º 451 das Teses de Repercussão Geral: “Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
