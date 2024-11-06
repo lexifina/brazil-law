@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROSELMA BEZERRA SANTOS contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Alagoas, em apelação nos autos de ação de rescisão contratual com reintegração de posse e perdas e danos.
+O julgado foi assim ementado (fl. 280):
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE E PERDAS E DANOS. SENTENÇA PELA PARCIAL PROCEDÊNCIA DO PEDIDO AUTORAL. APELAÇÕES CÍVEIS. PRELIMINAR CONTRARRECURSAL DE INOVAÇÃO RECURSAL. ACOLHIDA. PLEITO DE REVISÃO CONTRATUAL. NÃO CONHECIMENTO. MATÉRIA NÃO ARGUÍDA NA ORIGEM. TESE DE APLICABILIDADE DA TEORIA DO ADIMPLEMENTO SUBSTANCIAL PELA APELANTE/APELADA. NÃO ACOLHIDA. CRITÉRIO QUANTITATIVO E QUALITATIVO NÃO IDENTIFICADOS DA ANÁLISE FÁTICA E PROBATÓRIA APRESENTADA PELA PARTE. PERCENTUAL DE 64% (SESSENTA E QUATRO POR CENTO) DO ADIMPLEMENTO, QUE, ISOLADAMENTE, NÃO SE REVELA APTO AO AFASTAMENTO DA RESOLUÇÃO CONTRATUAL. APELO DA APELADA/APELANTE NO SENTIDO DE CONDENAÇÃO AO PAGAMENTO DO IPTU NO PERÍODO DE OCUPAÇÃO DO IMÓVEL. ACOLHIDO. IMPOSTO DEVIDO AO PROMITENTE COMPRADOR IMITIDO NA POSSE ATÉ SUA DESOCUPAÇÃO. CONDENAÇÃO EM PERDAS E DANOS. INADEQUAÇÃO. AUSÊNCIA DE FRUIÇÃO DO BEM. LOTE NÃO EDIFICADO. CONTUDO, EM OBSERVÂNCIA À VEDAÇÃO DA REFORMATIO IN PEJUS, MANTÉM-SE A CONDENAÇÃO EM PRIMEIRO GRAU. MODIFICAÇÃO DO PARÂMETRO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS CONFORME ORDEM PREFERENCIAL PREVISTA NA LEGISLAÇÃO PROCESSUAL. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. RECURSO DA APELANTE/APELADA ROSELMA BEZERRA SANTOS CONHECIDO EM PARTE E NÃO PROVIDO. RECURSO DA APELADA/APELANTE ANCIL - ANDREA CONSTRUÇÕES E INCORPORAÇÕES CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO UNÂNIME.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a parte recorrente aponta ofensa aos arts. 421 e 422 do Código Civil, visto não ter reconhecido a aplicabilidade da teoria do adimplemento substancial.
+Sustenta o seguinte (fl. 305):
+Saliente-se que, quanto ao critério estabelecido no art. 105, III, "a", da Constituição Federal da República, § 2º, a matéria tem relevância jurídica de direito violado, uma vez contraria a própria jurisprudência deste Superior Tribunal de Justiça que entende ser admitido a aplicação da teoria do adimplemento substancial, conferindo maior estabilidade jurídica às relações contratuais e protege os contratantes que, por motivos excepcionais e imprevisíveis, não conseguem cumprir de imediato o que foi pactuado.
+Requer o provimento do recurso.
+Foram apresentadas contrarrazões às fls. 317-323.
+É o relatório. Decido.
+O recurso não merece prosperar.
+O Tribunal de origem entendeu, por meio da análise do fático-probatório, inexistente qualquer dos requisitos para aplicação a Teoria do Adimplemento Substancial requerida pela parte agravante. Confiram-se trechos do acórdão recorrido (fls. 286-288):
+A Apelante/Apelada sustenta em seu Apelo que, dado o adimplemento do correspondente a 64% (sessenta e quatro por cento) do pactuado, operou-se a Teoria do Adimplemento Substancial, motivo pelo qual o Contrato não deve ser rescindido.
+A respeito da teoria suscitada, tenho que não merece guarida sua aplicação. Explico. O instituto do adimplemento substancial "surge com o propósito de autorizar a avaliação de gravidade do inadimplemento antes de deflagrar a conseqüência drástica consubstanciada na resolução da relação obrigacional"1 (Sic). Isto é, em que pese a existência de previsão contratual de extinção do negócio jurídico em decorrência de descumprimento pelas partes, é vedado o exercício de tal posição jurídica, quando verificada a insignificância do inadimplemento em relação ao contrato total.
+Contudo, a aferição da aplicabilidade da referida teoria deve ser realizada judicialmente, momento em que serão avaliados parâmetros de substancialidade como os requisitos qualitativos e quantitativos.
+ ..
+In casu, não verifico qualquer dos requisitos elencados, por meio da análise do arcabouço fático e probatório lançado pela parte Demandada que se limitou a elencar o critério quantitativo que, de uma análise exclusiva, não se conclui pela substancialidade do adimplemento contratual. Nesse toar, deixo de acolher a tese ventilada pela Apelante/Apelada.
+Assim, é manifesto que o conhecimento do recurso especial implicaria reexame de elementos fático-probatórios presentes nos autos, o que é inviável nesta instância superior em face do enunciado da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
