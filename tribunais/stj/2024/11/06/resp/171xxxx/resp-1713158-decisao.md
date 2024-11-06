@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUPATECH S.A. (EM RECUPERAÇÃO JUDICIAL) e OUTROS, com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 464):
+Agravo interno. Decisão monocrática do Relator que negou seguimento a agravo de instrumento por ausência de peça obrigatória, referente à representação processual da agravada. Petição de agravo em que constou como agravado o "D. Juízo a quo". Recurso que , no entanto, por se direcionar contra decisão que afeta diretamente esfera jurídica de um dos credores, isto é, a Petrobrás, deveria ter trazido a essa como "agravada" e, por consequência lógica, sido interposto com cópia do instrumento de mandato conferido ao respectivo procurador. Alegação de desnecessidade do documento afastada. Decisão de trancamento do agravo originário mantida. Agravo interno a que se nega provimento.
+Os embargos de declaração opostos na origem foram rejeitados nos termos da seguinte ementa (fl. 486):
+Embargos de declaração. Acórdão proferido em agravo interno. Decisão monocrática do Relator que negou seguimento a agravo de instrumento, por falta de peça processual obrigatória. Alegação das embargantes de omissão do julgado ante a desnecessidade de apresentação do documento dado como obrigatório. Vício inocorrente. Prequestionamento. Julgamento devidamente fundamentado e abrangente do universo da matéria impugnada, com apreciação das questões fáticas e jurídicas pertinentes. Mero inconformismo para com os fundamentos do acórdão. Escopo declaradamente infringente em relação ao julgado. Embargos rejeitados, com imposição de sanção.
+Em suas razões, a parte recorrente informa que opôs os embargos de declaração na origem com intuito de prequestionar, de forma explícita, os dispositivos infraconstitucionais arrolados. Contudo, o Tribunal de origem, ao rejeitar os embargos, condenou-a ao pagamento de multa na ordem de 1% sobre o valor da causa devidamente atualizado.
+Alega, assim, violação dos arts. 1.025 e 1.026, § 2º, do Código de Processo Civil e da Súmula n. 98 do STJ, na medida em que os embargos não foram opostos com intuito protelatório, devendo ser afastada a multa imposta.
+Por fim, sustenta a divergência jurisprudencial com relação aos julgados deste STJ, visto que a multa prevista no art. 1.026, § 2º, do CPC, não é aplicável nos casos em que os embargos são opostos com a nítida finalidade de prequestionamento das teses defensivas.
+Requer, portanto, seja conhecido e provido o presente especial tão somente para afastar a multa imposta na origem.
+O Ministério Público Federal emitiu parecer pelo provimento do recurso especial e o afastamento da multa cominada no julgamento dos embargos declaratórios (fls. 590-595).
+É o relatório. Decido.
+O recurso reúne condições de prosperar.
+O caso dos autos tem origem em pedido de recuperação judicial em que se discute o excesso de valores retidos pela Petrobrás a título de garantia da execução.
+O Juízo recuperacional se declarou incompetente para análise do pedido de liberação dos valores.
+Contra a referida decisão, a parte recorrente interpôs agravo de instrumento que teve seu seguimento negado de forma monocrática (fls. 447-449).
+O agravo regimental interposto na origem também foi improvido (fls. 463-467).
+Inconformada, a parte recorrente opôs embargos de declaração alegando omissão quanto à desnecessidade de apresentação de documento dado como obrigatório e à intenção de prequestionamento dos arts. 525, I, 92, I, 93, 109 e 111 do Código de Processo Civil, bem como dos arts. 3º, 49 e parágrafos, 126, e 47 da Lei n. 11.101/2005.
+Observa-se, assim, que a parte recorrente pretendeu, além de sanar suposta omissão, proceder ao "prequestionamento dos dispositivos legais aplicáveis à questão, de forma a viabilizar a interposição de recursos aos tribunais superiores" (fl. 480). Tanto o é que pugnou pela manifestação da Corte estadual acerca dos dispositivos infraconstitucionais acima relacionados.
+Não obstante o intuito prequestionador do referido recurso, o Tribunal de Justiça Paulista entendeu que a matéria ali impugnada era mera reiteração dos argumentos aduzidos no agravo interno, de modo que sua oposição seria temerária, apta, portanto, a justificar a imposição de multa, nos termos preceituados no art. 1.026, § 2º, do CPC/2015.
+Ocorre que a conclusão adotada contraria o entendimento sumulado do STJ, segundo o qual, "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório" (Súmula n. 98 do STJ).
+Nesse sentido, confira-se o seguinte julgado - destaquei:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. EMBARGOS DE DECLARAÇÃO. MULTA. INTUITO DE PREQUESTIONAMENTO. AFASTAMENTO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Não há falar em omissão quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+2. A oposição de embargos de declaração, com nítido fim de prequestionamento, não possui caráter protelatório, não ensejando a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, nos termos da Súmula n. 98 do STJ.
+3. Agravo interno parcialmente provido. (AgInt no AREsp n. 2.501.768/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+Caso, pois, de dar provimento ao recurso afastando a multa imposta na origem.
+Ante o exposto, dou provimento ao recurso especial para afastar a multa prevista no art. 1.026, § 2º, do CPC, aplicada na origem.
+Publique-se. Intimem-se.
+EMENTA
