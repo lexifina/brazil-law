@@ -1,0 +1,119 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5017163-95.2023.8.08.0035
+
+RECURSO INOMINADO CÍVEL (460)
+
+RECORRENTE: BANCO SANTANDER (BRASIL) S.A.
+
+RECORRIDO: GLAUCIO DOS SANTOS CANDIDO
+
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+Voto servindo como ementa.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+Recurso Inominado nº
+5017163-95.2023.8.08.0035
+
+Recorrente: BANCO SANTANDER (BRASIL) S.A.
+
+Recorrida: GLAUCIO DOS SANTOS CANDIDO
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL.
+RECURSO INOMINADO.
+DIREITO DO CONSUMIDOR. AÇÃO DE
+OBRIGAÇÃO DE FAZER C/C
+INDENIZAÇÃO POR DANOS MORAIS.
+ARGUMENTA A PARTE AUTORA QUE SOLICITOU, PELO APLICATIVO DO BANCO, A SUSTAÇÃO DO CHEQUE EM 02/06/2023 (SEXTA-FEIRA), MAS A DESPEITO DISSO, O TEVE DEVOLVIDO POR DUAS VEZES COMO “CHEQUE SEM FUNDOS” (MESMO COM SALDO EM CONTA), TEVE O NOME INCLUÍDO NO CCF-CADASTRO DE EMITENTES DE CHEQUES SEM FUNDO, E, AINDA ASSIM, HOUVE A COMPENSAÇÃO DO CHEQUE NO VALOR DE R$ 7.250,00, NUMA ORDEM SUCESSIVA DE EQUÍVOCOS QUE OCORRERAM NO DIA 05/06/2023 (SEGUNDA-FEIRA).
+
+NA SENTENÇA
+A QUO
+, OS PEDIDOS FORAM JULGADOS PROCEDENTES EM PARTE, CONFIRMADA A DECISÃO LIMINAR QUE DETERMINOU A EXCLUSÃO DA RESTRIÇÃO NO CCF, E CONDENADA A INSTITUIÇÃO FINANCEIRA AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO IMPORTE DE R$ 7.000,00.
+
+EM RAZÕES RECURSAIS, O BANCO ARGUMENTOU QUE A SUSTAÇÃO OCORREU SOMENTE EM 06/06/2023, RAZÃO PELA QUAL NÃO HOUVE ERRO E QUE NÃO HOUVE A REFERIDA RESTRIÇÃO EM NOME DO AUTOR.
+
+OCORRE QUE, ASSIM COMO NA CONTESTAÇÃO, O FORNECEDOR APRESENTOU ALEGAÇÕES GENÉRICAS, SEM QUALQUER ESCLARECIMENTO OU PROVAS DOCUMENTAIS QUE JUSTIFICASSEM A SUA CONDUTA.
+ASSIM SE MANIFESTOU O JUÍZO
+A QUO
+:
+“
+Analisando detidamente os autos, verifico que restou demonstrado pela parte autora a restrição de seu nome, através das conversas anexas em ids nº 26780954 e 26780997, comprovação de devolução de cheque (id nº 26780960, de compensação de valor (id nº 26780991), suficiência de saldo em conta (id nº 26781001), confirmação de sustação (ID 26781306), score (ids nº 26781316, 26781321 e 26781334), negativa de aumento de crédito (ID 26781325), ligações (ids nº 26781336 e 26781339) e links (id nº 26781342).
+Em contrapartida, a requerida não apresentou nos autos qualquer demonstração de fato modificativo, impeditivo ou extintivo do direito autoral, ônus a ela incumbido pelo artigo 6º, inciso VIII, do CDC
+”.
+
+CONFORME CONSTA NOS AUTOS, O AUTOR HAVIA SOLICITADO A SUSTAÇÃO PROVISÓRIA DO CHEQUE EM 02/06/2023 (SEXTA-FEIRA),
+PELO
+APP
+,
+
+E
+FOI ADVERTIDO QUE SERIA CANCELADO O REGISTRO SE NÃO CONFIRMADO DEFINITIVAMENTE EM ATÉ 02 DIAS ÚTEIS. CONTUDO, ANTES DISSO, NA SEGUNDA-FEIRA, EM 05/06/2023, OCORRERAM OS EQUÍVOCOS QUANTO ÀS TENTATIVAS DE COMPENSAÇÃO,
+DEVOLUÇÃO DO CHEQUE SEM FUNDO,
+INCLUSÃO DA RESTRIÇÃO NO CPF,
+E POSTERIOR COMPENSAÇÃO EM FAVOR DE TERCEIRO.
+MISTER RESSALTAR QUE A SUSTAÇÃO HAVIA SIDO JUSTIFICADA POR DESACORDO COMERCIAL, O QUE CAUSOU AINDA MAIS DANOS AO CONSUMIDOR.
+SOMADO A ISSO, A FALHA NA PRESTAÇÃO DOS SERVIÇOS ACARRETOU BAIXA NO
+SCORE
+JUNTO AO SERASA E NEGATIVA DE LIBERAÇÃO DE CRÉDITO EM BANCO DIVERSO, CONFORME PROVAS APRESENTADAS E NÃO IMPUGNADAS PELO RECORRENTE.
+
+A SITUAÇÃO SUPORTADA PEL
+O RECORRIDO
+CARACTERIZA DANO MORAL INDENIZÁVEL E NÃO SE CONFUNDE COM O MERO DISSABOR COTIDIANO, ATÉ PORQUE SE ENCONTRA SEDIMENTADO NA JURISPRUDÊNCIA DE QUE A NEGATIVAÇÃO INDEVIDA GERA DANO
+IN RE IPSA
+. NO TOCANTE AO
+QUANTUM
+INDENIZATÓRIO FIXADO PELO JUÍZO DE ORIGEM
+(R$ 7.000,00)
+, ESTE ESTÁ CONDIZENTE COM AS ESPECIFICIDADES DO CASO E A EXTENSÃO DO DANO, DEVENDO SER MANTIDA A VERBA INDENIZATÓRIA POR ESTAR EM CONSONÂNCIA COM OS PRINCÍPIOS DE RAZOABILIDADE E PROPORCIONALIDADE.
+SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF
+1
+. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LEI 9.099/95), CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE O VALOR DE CONDENAÇÃO (ART. 55, 2ª PARTE, DA LEI 9.099/95).
+
+É como voto.
+
+1
+ENUNCIADO 11: A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9099/95, SEM A NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA.
+
+Tema n.º 451 das Teses de Repercussão Geral: “Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
