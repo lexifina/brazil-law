@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, rejeitar os embargos de declaraÃ§Ã o, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. AUSÊNCIA DE OMISSÃO. APONTAMENTO CONCRETO DOS DOCUMENTOS QUE DERAM CONTA DA INSUFICIÊNCIA DO TRATAMENTO DISPENSADO NO ESTABELECIMENTO CARCERÁRIO. EMBARGOS REJEITADOS.
+I. Caso em exame
+1. Embargos de declaração interpostos contra acórdão que manteve a prisão preventiva de acusado, negando pedido de substituição por prisão domiciliar.
+2. Fato relevante. O embargante alega ser portador de doença grave (doença de Crohn) e que o tratamento no sistema prisional é inadequado, requerendo a substituição da prisão preventiva por prisão domiciliar.
+3. As decisões anteriores. O acórdão embargado considerou que os laudos médicos indicavam a insuficiência do tratamento no sistema carcerário, justificando a concessão de prisão domiciliar.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se há vícios processuais no acórdão que justificariam a reforma da decisão que concedeu a substituição da prisão preventiva por prisão domiciliar.
+III. Razões de decidir
+5. Não se constatou qualquer vício processual no acórdão embargado, que apresentou de forma clara e fundamentada as razões para a decisão.
+6. Os embargos de declaração não são meio adequado para rediscutir o mérito da decisão, sendo cabíveis apenas para sanar obscuridade, contradição ou omissão.
+7. A alegação de omissão quanto à comprovação de impedimento para cirurgia e insuficiência de tratamento foi devidamente abordada no acórdão, que considerou os laudos médicos apresentados, mencionando expressamente sua posição nos autos .
+IV. EMBARGOS REJEITADOS.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 1952).
+A parte embargante requer a supressão de vícios processuais, para que, assim, ocorra a reforma da decisão embargada.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. AUSÊNCIA DE OMISSÃO. APONTAMENTO CONCRETO DOS DOCUMENTOS QUE DERAM CONTA DA INSUFICIÊNCIA DO TRATAMENTO DISPENSADO NO ESTABELECIMENTO CARCERÁRIO. EMBARGOS REJEITADOS.
+I. Caso em exame
+1. Embargos de declaração interpostos contra acórdão que manteve a prisão preventiva de acusado, negando pedido de substituição por prisão domiciliar.
+2. Fato relevante. O embargante alega ser portador de doença grave (doença de Crohn) e que o tratamento no sistema prisional é inadequado, requerendo a substituição da prisão preventiva por prisão domiciliar.
+3. As decisões anteriores. O acórdão embargado considerou que os laudos médicos indicavam a insuficiência do tratamento no sistema carcerário, justificando a concessão de prisão domiciliar.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se há vícios processuais no acórdão que justificariam a reforma da decisão que concedeu a substituição da prisão preventiva por prisão domiciliar.
+III. Razões de decidir
+5. Não se constatou qualquer vício processual no acórdão embargado, que apresentou de forma clara e fundamentada as razões para a decisão.
+6. Os embargos de declaração não são meio adequado para rediscutir o mérito da decisão, sendo cabíveis apenas para sanar obscuridade, contradição ou omissão.
+7. A alegação de omissão quanto à comprovação de impedimento para cirurgia e insuficiência de tratamento foi devidamente abordada no acórdão, que considerou os laudos médicos apresentados, mencionando expressamente sua posição nos autos .
+IV. EMBARGOS REJEITADOS.
+VOTO
+Os Embargos de Declaração são tempestivos.
+Contudo, não ficou demonstrado qualquer vício processual no julgado questionado, tendo sido expostas, de forma suficiente e fundamentada, as razões que motivaram a solução dada ao caso concreto (e-STJ fls. 1952-1955):
+O agravo regimental é tempestivo.
+Não constato elementos suficientes para reconsiderar o julgamento monocrático, ou prover o presente recurso.
+O ordenamento jurídico vigente, em atenção ao princípio da presunção da inocência, consagra a liberdade irrestrita do indivíduo como regra. Desse modo, a prisão ou a imposição de medidas cautelares diversas da segregação revela-se cabível tão somente quando estiver concretamente comprovada a existência do fumus boni iuris e do periculum libertatis.
+A melhor doutrina e a jurisprudência do Supremo Tribunal Federal "são uníssonas em afirmar que a prisão preventiva constitui sempre a ultima ratio, devendo ser aplicada apenas quando as medidas cautelares diversas da custódia não se revelarem eficazes para contornarem o periculum libertatis (CPP, art. 282, § 6º)" (Rcl 41387 ED-AgR, Relator(a): RICARDO LEWANDOWSKI, Segunda Turma, julgado em 08-02-2021, PROCESSO ELETRÔNICO DJe-035 DIVULG 24-02-2021 PUBLIC 25-02-2021).
+Diante disso, consoante diretrizes do processo penal brasileiro, a manutenção da segregação cautelar é justificada como forma de preservar a ordem pública, prevenir reincidências criminais e assegurar o cumprimento da lei penal. Adicionalmente, manter o suspeito custodiado preventivamente nessas circunstâncias pode ser crucial para o êxito das investigações criminais e do subsequente processo judicial. A liberdade do acusado pode resultar em tentativas para pressionar testemunhas, ocultar evidências ou até mesmo fugir da jurisdição, prejudicando assim a busca pela justiça.
+Importar ressaltar que a imposição da prisão preventiva deve sempre observar os princípios da legalidade, necessidade e proporcionalidade, levando em conta as circunstâncias específicas de cada situação, nos termos do que preconiza o art. 312 do CPP. Deve-se evitar o uso indiscriminado desse recurso, reservando-o para casos em que sua demanda e adequação sejam claramente fundamentadas pela gravidade do delito e pelo risco que o acusado representa à ordem pública e à integridade do procedimento judicial. Todavia, havendo a presença dos requisitos no caso concreto, impõe-se a segregação cautelar.
+Quanto ao pleito de "habeas corpus" humanitário, certo é que "Com efeito, nos termos do art. 318, II, do Código de Processo Penal, a prisão domiciliar poderá ser concedida quando o acusado ou o indiciado estiver "extremamente debilitado por motivo de doença grave". Na mesma direção, o parágrafo único do referido dispositivo determina que seja apresentada prova idônea da situação. Desse modo, não bastam meras alegações de que o réu se encontra acometido de enfermidade, mas se requer a demonstração inequívoca da debilidade extrema, bem como da impossibilidade de tratamento no estabelecimento prisional. Precedentes." (AgRg no RHC 194892 / SC, RELATOR Ministro REYNALDO SOARES DA FONSECA,QUINTA TURMA, DATA DO JULGAMENTO 09/04/2024, DATA DA PUBLICAÇÃO/FONTE DJe 16/04/2024)
+Extrai-se do teor do recurso de agravo que o paciente é portador de "doença de Chron", enfermidade cuja evolução gerou encaminhamentos cirúrgicos que se encontram pendentes desde junho de 2023 (fls. 1.549 e 1.573, e-STJ) e cujo tratamento tem sido dispensado de forma irregular (fl. 1.573, e-STJ), ambas dificuldades relacionadas ao encarceramento preventivo a que se encontra submetido.
+Dessa forma, embora haja a indicação da origem de que "não consta que ele estivesse sendo submetido a qualquer constrangimento ilegal por ausência da prestação jurisdicional ou mesmo médica no presídio em que se encontra" (e-STJ Fl.911), os laudos médicos elaborados por profissionais que compõem o Sistema Único de Saúde indicam quadro diverso, conforme apontado.
+A tal quadro há de se somar que o medicamento utilizado pelo paciente (Infliximabe) demanda cuidados redobrados em termos de interações sociais, conforme se extrai da própria bula, que indica que "O Infliximabe não deve ser administrado em pacientes com infecção ativa clinicamente importante. (..) Os pacientes devem ser avaliados quanto aos fatores de risco para tuberculose, incluindo contato próximo com uma pessoa com tuberculose ativa, e testados para a presença de tuberculose latente antes de iniciar o tratamento com Infliximabe. (..) Para pacientes que residiram ou viajaram para regiões onde as infecções fúngicas invasivas, tais como a histoplasmose, a coccidioidomicose ou a blastomicose são endêmicas, os benefícios e riscos do tratamento com Infliximabe devem ser considerados cuidadosamente antes de iniciar o tratamento com Infliximabe. " (https://consultaremedios.com.br/infliximabe/bula#precaucoes)
+Dessa forma, há de se considerar preenchidos os requisitos do art. 318, II, do Código de Processo Penal, devendo-se conceder ao paciente o direito de ter a prisão preventiva substituída pela domiciliar, a qual poderá, a critério do juízo de origem, de acordo com a disponibilidade e a proporcionalidade, ser acompanhada de monitoramento eletrônico, a ser realizado sem prejuízo do acompanhamento médico.
+Com efeito, as supostas omissões relativas a "existência de documento que comprovasse a existência de empecilho para eventual cirurgia" e a ausência de "indicação precisa sobre referidos laudos tampouco em que medida eles indicam a insuficiência da prestação médica no presídio" são, na verdade, mero inconformismo com o teor da decisão colegiada que consignou, expressamente, que os laudos médicos de fl. 1.573, e-STJ deixavam clara a insuficiência dos tratamentos que lhe vinham sendo dispensados no sistema carcerário, assim como na postergação de cirurgias essenciais à manutenção de sua saúde.
+Os presentes embargos, portanto, refletem mera irresignação da parte com o resultado do julgamento, o que revela o seu descabimento.
+Nesse sentido, importa destacar que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada" (EDcl no AgRg nos EDcl nos EAREsp n. 1.604.546/PR, Relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 08/02/2023, DJe de 22/02/2023).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
