@@ -1,0 +1,18 @@
+DECISÃO
+O presente writ, impetrado em benefício de JACIANO PIM RODRIGUES - preso preventivamente pela prática, em tese, do crime de homicídio qualificado tentado (Processo n. 5026245-05.2024.8.13.0027) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.24.408781-3/000), não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta pelo Juízo da 1ª Vara Criminal da comarca de Betim/MG, ao argumento de que a prisão preventiva está fundamentada na gravidade abstrata do delito e motivada de forma genérica.
+Ocorre que inexiste o alegado constrangimento.
+No caso, o Juízo de primeiro grau converteu a prisão em flagrante em preventiva, sob os seguintes fundamentos (fl. 242 - grifo nosso):
+ ..
+Registro que o vídeo juntado pelo advogado não comprova que o autuado não efetuou os disparos de arma de fogo, tendo em vista que as duas testemunhas dão certeza de que visualizaram este efetuando os disparos de arma de fogo.
+Além disso, entendo que o periculum libertatis está presente. Isso porque, verifica-se que a conduta imputada ao autuado é acentuadamente grave, em se tratando de delito de homicídio qualificado tentado. Nessa toada, nota-se que o modus operandi empregado pelo autuado sinaliza a periculosidade concreta deste e a necessidade de sua prisão para garantia da ordem pública, considerando especialmente que este, em tese, efetuou diversos disparos de arma de fogo dentro de um estabelecimento público, atingindo duas pessoas, uma, inclusive, ficou em estado grave.
+Ressalto que a gravidade em concreto do delito, demonstra que a substituição da prisão preventiva por medidas cautelares não seria suficiente para para o resguardo da ordem pública.
+Esclareça-se, ainda, que a existência de condições pessoais favoráveis ao autuado, por si só, não é suficiente para autorizar a concessão da liberdade provisória, já que tais condições devem ser analisadas diante do contexto dos autos, que neste caso apontam pela necessidade da custódia preventiva.
+Assim, considerando as circunstâncias acima delineadas, a conversão da prisão em flagrante em preventiva é medida que se impõe.
+ ..
+Como se vê, in casu, a custódia cautelar foi devida e suficientemente fundamentada na necessidade de garantia da ordem pública, tendo sido demonstrada pelas instâncias ordinárias, com amparo em elementos extraídos dos autos, a gravidade concreta da conduta e a periculosidade social do agente, evidenciadas pelo modus operandi empregado - violação do art. 121, II, III e IV, c/c o art. 14, II, do Código Penal - por duas vezes (briga em bar, com disparos de arma de fogo, em meio às diversas pessoas que frequentavam o local - fl. 27), estando, assim, em perfeita sintonia com a orientação jurisprudencial desta Corte Superior, conforme os seguintes precedentes: AgRg no RHC n. 184313/SC, da minha relatoria, Sexta Turma, DJe 6/9/2024; AgRg no RHC n. 175.703/ES, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 26/3/2023; AgRg no AgRg no HC n. 777.515/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 28/4/2023; e AgRg no HC n. 764.350/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/3/2023.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. MODUS OPERANDI DO CRIME. DISPAROS DE ARMA DE FOGO CONTRA DUAS VÍTIMAS, DECORRENTES DE DISCUSSÃO EM ESTABELECIMENTO COMERCIAL. PERICULOSIDADE CONCRETA EVIDENCIADA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
