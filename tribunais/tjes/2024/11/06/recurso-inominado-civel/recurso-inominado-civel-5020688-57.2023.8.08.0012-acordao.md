@@ -1,0 +1,82 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5020688-57.2023.8.08.0012
+
+RECURSO INOMINADO CÍVEL (460)
+
+RECORRENTE: ILCLAN JOSE DA SILVA
+
+RECORRIDO: ROBERTO COELHO DEORCE e outros (3)
+
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+Voto servindo como ementa.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+Recurso Inominado nos autos n° 5020688-57.2023.8.08.0012
+
+Recorrente: ILCLAN JOSE DA SILVA;
+
+Recorrido: ROBERTO COELHO DEORCE JUNIOR;
+
+V O T O S
+
+(Minuta elaborada em conformidade com a Resolução TJES nº 12/2020)
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recursos conhecidos por preencherem os pressupostos de admissibilidade.
+
+Deferido o pedido de justiça gratuita.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. COMPRA E VENDA DE AUTOMÓVEL USADO ENTRE PARTICULARES. PARTE AUTORA QUE NEGOCIOU VEÍCULO PELO TOTAL DE R$ 10.000,00 (DEZ MIL REAIS), TENDO PAGO O MONTANTE DE R$ 7.900,00 (SETE MIL E NOVECENTOS REAIS). APÓS (5) CINCO DIAS DE UTILIZAÇÃO, E UMA VIAGEM FEITA À CAMPOS DOS GOYTACAZES, ALEGOU PROBLEMAS NO VEÍCULO E O NEGÓCIO FOI DESFEITO, TENDO O REQUERIDO PEGO O VEÍCULO DE VOLTA, SEM DEVOLVER OS VALORES PAGOS. PLEITEOU A DEVOLUÇÃO DOS VALORES PAGOS EM RELAÇÃO À COMPRA E CONSERTO DO VEÍCULO (R$ 4.800,00).
+
+JUÍZO DE ORIGEM QUE JULGOU PARCIALMENTE O PEDIDO, TENDO ACOLHIDO A PRELIMINAR DE ILEGITIMIDADE PASSIVA DO REQUERIDO ROBERTO COELHO DEORCE, POR ENTENDER QUE, EMBORA PROPRIETÁRIO FORMAL DO VEÍCULO, NÃO PARTICIPOU DAS NEGOCIAÇÕES. NO MÉRITO JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS, DETERMINANDO APENAS A DEVOLUÇÃO DOS VALORES REFERENTES À COMPRA, JULGANDO IMPROCEDENTE O PEDIDO EM RELAÇÃO AOS VALORES SUPOSTAMENTE PAGOS PELO CONSERTO. DANOS MORAIS TAMBÉM JULGADOS IMPROCEDENTES.
+
+SENTENÇA QUE MERECE REFORMA. PRELIMINAR DE ILEGITIMIDADE PASSIVA QUE DEVE SER AFASTADA, TENDO EM CONSIDERAÇÃO QUE O PROPRIETÁRIO FORMAL DO VEÍCULO TEM DEVER DE GUARDA JURÍDICA DO BEM. CASO CONCRETO EM QUE O PROPRIETÁRIO É TAMBÉM GENITOR DO LITISCONSORTE, QUE INTERMEDIOU A VENDA. PRESUMÍVEL, PORTANTO, QUE TIVESSE CIÊNCIA DO NEGÓCIO, JÁ QUE O BEM LHE PERTENCIA E O POSSUIDOR DIRETO, QUE PARTICIPOU DA ALIENAÇÃO, ERA DE SEU CÍRCULO FAMILIAR PRÓXIMO.
+
+DANOS MORAIS CARACTERIZADOS. PARTE AUTORA QUE ESTÁ PRIVADA DE VALORES RELEVANTES (R$ 8.000,00) HÁ MAIS DE 18 MESES, MESMO TENDO DEVOLVIDO O VEÍCULO. SITUAÇÃO QUE ULTRAPASSA A ESFERA DO MERO ABORRECIMENTO, ENSEJANDO CONDENAÇÃO EM DANOS MORAIS. COMPORTAMENTO QUE DENOTA MENOSPREZO PELA PARTE AUTORA E TOTAL VIOLAÇÃO DA BOA-FÉ OBJETIVA, COMPORTANDO A REPRIMENDA.
+
+RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA PARA RECONHECER A LEGITIMIDADE PASSIVA DO REQUERIDO ROBERTO COELHO DEORCE E SUA RESPONSABILIDADE SOLIDÁRIA EM RELAÇÃO À CONDENAÇÃO IMPOSTA NESTES AUTOS. REFORMA TAMBÉM PARA JULGAR PROCEDENTE O PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS, FIXANDO O MONTANTE EM R$ 2.000,00 (DOIS MIL REAIS), COM JUROS A PARTIR DA CITAÇÃO E CORREÇÃO MONETÁRIA A CONTAR DESTA DECISÃO. SEM CONDENAÇÃO EM HONORÁRIOS ANTE A AUSÊNCIA DE RECORRENTE SUCUMBENTE.
+
+Fabiano Cuzini Scarpini
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr. SALOMÃO A. Z. SPENCER ELESBON – Nos termos da Resolução TJES nº 12/2020, HOMOLOGO a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
