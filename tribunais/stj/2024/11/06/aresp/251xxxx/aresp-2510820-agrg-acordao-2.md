@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. CRIME DE ABUSO DE AUTORIDADE. INTEMPESTIVIDADE DO RECURSO ESPECIAL. RECURSO NÃO PROVIDO.
+I. CASO EM EXAME
+Agravo regimental interposto por Ronaldo Alves da Silva Júnior contra decisão que inadmitiu recurso especial, fundamentada na intempestividade do recurso.
+II. QUESTÃO EM DISCUSSÃO
+2. Questão em discussão: determinar se o recurso especial interposto é tempestivo.
+III. RAZÕES DE DECIDIR
+3. O recurso especial interposto foi considerado intempestivo, pois a contagem do prazo para sua interposição iniciou-se com a publicação do acórdão dos embargos de declaração na apelação criminal, a qual se deu dia 13/04/2023, tendo sido o apelo especial interposto apenas no dia 28/07/2023. Nesses termos, a insurgência fica fulminada pela intempestividade, eis que não observado o prazo de 15 dias corridos previsto no no art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do CPC, e no art. 798, d o CPP.
+IV. RECURSO DESPROVIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fl. 1441).
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. CRIME DE ABUSO DE AUTORIDADE. INTEMPESTIVIDADE DO RECURSO ESPECIAL. RECURSO NÃO PROVIDO.
+I. CASO EM EXAME
+Agravo regimental interposto por Ronaldo Alves da Silva Júnior contra decisão que inadmitiu recurso especial, fundamentada na intempestividade do recurso.
+II. QUESTÃO EM DISCUSSÃO
+2. Questão em discussão: determinar se o recurso especial interposto é tempestivo.
+III. RAZÕES DE DECIDIR
+3. O recurso especial interposto foi considerado intempestivo, pois a contagem do prazo para sua interposição iniciou-se com a publicação do acórdão dos embargos de declaração na apelação criminal, a qual se deu dia 13/04/2023, tendo sido o apelo especial interposto apenas no dia 28/07/2023. Nesses termos, a insurgência fica fulminada pela intempestividade, eis que não observado o prazo de 15 dias corridos previsto no no art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do CPC, e no art. 798, d o CPP.
+IV. RECURSO DESPROVIDO.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fl. 1441-1445):
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação n. 144/2023 e CNJ/Resolução n. 376/2021), adoto o relatório de e-STJ fls. 1.436-1.437.
+Parecer do MPF pelo não conhecimento do recurso.
+Decido.
+Trata-se de agravo interposto por RONALDO ALVES DA SILVA JÚNIOR contra decisão proferida pelo Presidente do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que inadmitiu seu recurso especial com base nos seguintes fundamentos (e-STJ fls. 1.361-1.363):
+Em que pesem as alegações dos recorrentes Ronaldo Alves da Silva Junior e Alamberth Manoel Gustavo Andrade, julga-se que a ascensão dos recursos é medida inviável.
+De início, verifica-se que as alegações acerca da inépcia da denúncia e de insuficiência de provas para a condenação não foram objeto de exame no recurso de embargos infringentes, o qual se limitou a apreciar as teses que dialogavam com a readequação das condições estabelecidas no sursis da pena.
+Logo, percebe-se que a análise das supostas ofensas apresentadas pela defesa ocorreu apenas quando do julgamento do recurso de apelação, em 14 de fevereiro de 2023, e dos embargos de declaração, em 28 de março de 2023, uma vez que unânime a decisão dos desembargadores nesse ponto, circunstância que torna preclusa as matérias ventiladas nos presentes recursos, diante da não insurgência dos recorrentes em momento oportuno.
+No caso, caberia à defesa, logo após a publicação do acórdão dos embargos de declaração na apelação criminal (Evento 47 - Autos n. 2000828-40.2020.9.13.0001), interpor os recursos especiais contra a parte unânime do julgado, sob pena de configurar-se a preclusão temporal.
+Nesse compasso, cabível é a incidência, por analogia, da Súmula n. 355 do Supremo Tribunal Federal (STF), que dispõe: "Em caso de embargos infringentes parciais, é tardio o recurso extraordinário interposto após o julgamento dos embargos, quanto à parte da decisão embargada que não fora por eles abrangida".
+No mesmo sentido, a Súmula n. 354 do STF prevê: "Em caso de embargos infringentes parciais, é definitiva a parte da decisão embargada em que não houve divergência na votação".
+A propósito, vejam-se precedentes do Superior Tribunal de Justiça (STJ) sobre a questão:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÂNSITO. EMBARGOS INFRINGENTES PARCIAIS. EXCEÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. SÚMULAS 354 E 355 DO STF. PRAZOS PROCESSUAIS PENAIS CONTÍNUOS E PEREMPTÓRIOS. INTEMPESTIVIDADE. MANUTENÇÃO DA DECISÃO AGRAVA DA. AGRAVO REGIMENTAL DESPROVIDO.
+I - No caso, caberia à parte interessada, após a publicação do julgado proferido em Embargos de Declaração na Apelação Criminal, o que ocorreu em 20.07.2020 (fl. 1.861), no prazo legal, interpor o cabível Recurso Especial contra a parte unânime do decisum, sob pena de configurar-se a preclusão temporal.
+II - Vale destacar que não obstante seja necessária a extinção das vias recursais ordinárias para o conhecimento dos recursos excepcionais - ao teor das Súmulas 207/STJ e 281/STF -, isso não desobriga à parte de interpor, concomitantemente ao infringentes, o cabível Recurso Especial contra a parte unânime do acórdão apelatório. A corroborar esse entendimento é a 355/STF: "Em caso de embargos infringentes parciais, é tardio o recurso extraordinário interposto após o julgamento dos embargos, quanto à parte da decisão embargada que não fora por eles abrangida". É exatamente nesse sentido que dispõe a Súmula 354/STF: "Em caso de embargos infringentes parciais, é definitiva a parte da decisão embargada em que não houve divergência na votação". Precedente.
+Agravo regimental desprovido. (AgRg no AREsp n. 1.912.195/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 7/12/2021, DJe de 16/12/2021.) (Destaca-se)
+DIREITO PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL. CORRUPÇÃO PASSIVA. ACÓRDÃO APELATÓRIO MAJORITÁRIO. INTERPOSIÇÃO DE RECURSO ESPECIAL CONTRA PARTE UNÂNIME DO JULGADO. INOBSERVÂNCIA. PRECLUSÃO. SÚMULA 355 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. DEMONSTRAÇÃO DA SIMILITUDE ENTRE O ACÓRDÃO PARADIGMA E O DECISUM IMPUGANDO. AUSÊNCIA. ART. 1.029, § 1º, DO CPC. AGRAVO DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - Nos termos do que dispõe a súmula 355 do Excelso Pretório, na hipótese de julgamento majoritário de apelação, cabe à parte interessada interpor, desde logo, o recurso cabível contra a parte unânime do acórdão, sob pena de preclusão.
+III - Essa conclusão, aliás, restou corroborada pela entrada em vigor do atual Código de Processo Civil, o qual, diferentemente do revogado estatuto e do Código de Processo Penal, sequer prevê os Embargos Infringentes como modalidade recursal.
+IV - Ante a extinção daquela via recursal no âmbito do processo civil e a manutenção da regência legal, tanto do Recurso de Apelação como dos Embargos Infringentes no Código de Processo Penal, o princípio da especialidade impede a aplicação analógica da técnica de ampliação do colegiado, prevista no art. 942 do Código de Processo Civil de 2015.
+V - Em reforço a esse entendimento, calha ressaltar que os Embargos Infringentes, nos termos em que disciplinado pelo parágrafo único do art. 609 do CPP, é via recursal cuja legitimidade se atribui exclusivamente à defesa. Dessa forma, a aplicação analógica das inovações trazidas pelo CPC de 2015, no punctum saliens, ensejariam agravamento da situação da defesa, já que a aludida técnica de julgamento é implementada ex officio todas as vezes em que o acórdão apelatório for majoritário, independentemente do sentido do julgamento.
+VI - Na hipótese sub examine, vale esclarecer que o acórdão apelatório objeto destes autos foi proferido em 02.08.2017, ou seja, quando não mais vigorava o Código Buzaid. Assim, é de se aplicar os ditames do artigo 798 do CPP, o qual estabelece que, no âmbito do processo penal, os prazos " ..  serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado."
+VII - A jurisprudência deste Superior Tribunal de Justiça é pacifica no sentido de reconhecer que " ..  de nada adianta o novo patrono, depois de apresentadas as primeiras razões pelo anterior defensor constituído, querer complementar as razões recursais anteriores, porque já se verificou a preclusão consumativa" (AgRg no REsp n.1.754.399/MT, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 01.02.2019).
+VIII - Nos termos do art. 1.029, § 1º, do Código de Processo Civil, não é possível o conhecimento de Recurso Especial pela divergência jurisprudencial, quando o insurgente não se desincumbe do ônus de demonstrar as circunstâncias que identifiquem ou assemelhem o acórdão paradigma com o caso sub examine.
+IX - A ausência de demonstração quanto à similitude fática entre os julgados, impede a constatação da divergência, procedimento necessário para o conhecimento do apelo extremo, de modo a atrair a incidência, na espécie, da Súmula 284/STF.
+Agravo Regimental desprovido. (AgInt no REsp 1822332/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/04/2020, DJe 04/05/2020) (Destaca-se)
+Assim, considerando-se que o acórdão que julgou os embargos de declaração na apelação criminal foi publicado em 13 de abril de 2023 (Evento 47 - Autos n. 2000828- 40.2020.9.13.0001) e que os recursos especiais foram interpostos somente em 28 de julho de 2023 (Evento 36 - RECESPEC1 e RECESPEC2), necessário é o reconhecimento da intempestividade dos recursos.
+Ante o exposto, inadmito os dois recursos especiais, com fundamento no art. 1.030, inciso V, do Código de Processo Civil.
+Realmente, é intempestivo o recurso especial, porque a contagem de prazo para a interposição deste recurso teve início a partir da intimação do acórdão da apelação, e não da decisão que julgou os embargos infringentes.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÂNSITO. EMBARGOS INFRINGENTES PARCIAIS. EXCEÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. SÚMULAS 354 E 355 DO STF. PRAZOS PROCESSUAIS PENAIS CONTÍNUOS E PEREMPTÓRIOS. INTEMPESTIVIDADE. MANUTENÇÃO DA DECISÃO AGRAVA DA. AGRAVO REGIMENTAL DESPROVIDO.
+I - No caso, caberia à parte interessada, após a publicação do julgado proferido em Embargos de Declaração na Apelação Criminal, o que ocorreu em 20.07.2020 (fl. 1.861), no prazo legal, interpor o cabível Recurso Especial contra a parte unânime do decisum, sob pena de configurar-se a preclusão temporal.
+II - Vale destacar que não obstante seja necessária a extinção das vias recursais ordinárias para o conhecimento dos recursos excepcionais - ao teor das Súmulas 207/STJ e 281/STF -, isso não desobriga à parte de interpor, concomitantemente ao infringentes, o cabível Recurso Especial contra a parte unânime do acórdão apelatório. A corroborar esse entendimento é a 355/STF: "Em caso de embargos infringentes parciais, é tardio o recurso extraordinário interposto após o julgamento dos embargos, quanto à parte da decisão embargada que não fora por eles abrangida". É exatamente nesse sentido que dispõe a Súmula 354/STF: "Em caso de embargos infringentes parciais, é definitiva a parte da decisão embargada em que não houve divergência na votação". Precedente.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.912.195/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 7/12/2021, DJe de 16/12/2021.)
+DIREITO PENAL. PROCESSO PENAL. CORRUPÇÃO PASSIVA. LAVAGEM DE DINHEIRO. RECURSO ESPECIAL. EMBARGOS INFRINGENTES PARCIAIS. EXCEÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. SÚMULAS 354 E 355 DO STF. REVOGAÇÃO DO ART. 498 DO CÓDIGO DE PROCESSO CIVIL DE 1973. PRAZOS PROCESSUAIS PENAIS CONTÍNUOS E PEREMPTÓRIOS. CONTINUIDADE DELITIVA. NÚMERO DE REITERAÇÕES. REANÁLISE FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DOSIMETRIA DA PENA-BASE. PERSONALIDADE DO AGENTE. AUSÊNCIA DE FUNDAMENTOS CONCRETOS E DETERMINADOS. AGRAVO PARCIALMENTE PROVIDO. ORDEM DE HABEAS CORPUS CONCEDIDA EM MAIOR EXTENSÃO.
+I - Na vigência do Código de Processo Civil de 1973, a jurisprudência do Supremo Tribunal Federal pacificou-se no sentido de que a redação dada pela Lei 10.352/2001 a seu artigo 498 não tinha aplicação no âmbito do processo penal, motivo pelo qual sempre imperou os ditames da Súmula 355 da Excelsa Corte: "Em caso de embargos infringentes parciais, é tardio o recurso extraordinário interposto após o julgamento dos embargos, quanto à parte da decisão embargada que não fora por eles abrangida." Tal conclusão quedou-se reforçada pela edição do vigente Codex Processual Civil, o qual, diferentemente do revogado estatuto e do Código de Processo Penal, sequer prevê expressamente os Embargos Infringentes como modalidade recursal.
+ ..
+Agravo parcialmente provido para, não conhecido o Recurso Especial e indeferido o pedido de expedição de alvará de soltura, conceder, em maior extensão, ordem de habeas corpus de ofício em favor do agravante, para readequar as penas privativas de liberdade e de multa impostas.
+(AgRg no REsp n. 1.840.088/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 30/3/2021, DJe de 9/4/2021.)
+E as seguintes decisões monocráticas: AREsp 2.598.656, relator Ministro REYNALDO SOARES DA FONSECA, DJe de 28/6/2024; AREsp 2.448.686, relator Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), DJe de 11/4/2024; AREsp 2.348.174, relator Ministro RIBEIRO DANTAS, DJe de 27/6/2023; AgRg no AREsp 2.096.797, relator Ministro JOEL ILAN PACIORNIK, DJe de 2/8/2023.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte. Veja-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO APELO NOBRE. INOBSERVÂNCIA DO PRAZO LEGAL DE 15 DIAS CORRIDOS. EMBARGOS INFRINGENTES E DE NULIDADE NÃO CONHECIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. "É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias corridos previsto no art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do CPC, e no art. 798, d o CPP" (AgRg no AREsp 1661671/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/5/2020).
+1.1. Denota-se que o ora agravante foi intimado do acórdão que rejeitou os aclaratórios em 15/12/2023, ao passo que o seu recurso especial foi interposto em 14/2/2024, quando já ultrapassado o prazo legal, sendo, portanto, manifesta a sua intempestividade.
+1.2. O não conhecimento dos embargos infringentes e de nulidade afasta a interrupção do prazo para interposição do recurso especial.
+Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.646.960/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/9/2024, DJe de 13/9/2024.)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
