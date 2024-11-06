@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. Prisão preventiva. Alegação de nulidade em face do uso indevido de algemas. Não configuração. Emprego de justificação válida. Ausência de violação a súmula vinculante nº 11. Pedido de aplicação de medidas cautelares. Circunstâncias do caso concreto que justificam a segregação cautelar do paciente. Constrangimento ilegal não evidenciado. Ordem denegada.
+- A vedação, imposta pela súmula vinculante nº 11, ao uso de algemas não é absoluta, sendo cabível em casos excepcionais quando comprovada e justificada a sua necessidade.
+- Impossível reconhecer nulidade em razão de suposto uso indevido de algemas porquanto há, nos autos, fundamentação concreta para sua utilização.
+- Descabido a aplicação das medidas cautelares previstas no art. 319 do CPP quando, no caso concreto, a manutenção da prisão preventiva se mostrar mais recomendável.
+- Ordem denegada.
+Imputa-se ao paciente a prática do crime de homicídio qualificado (art. 121, § 2º, II e III, do Código Penal).
+A defesa alega, em síntese: a) que o paciente permaneceu algemado durante toda a audiência de sumário de culpa, causando-lhe constrangimento ilegal e indevido, à margem e em flagrante acinte à Súmula Vinculante 11/STF; b) que o paciente estava na Colônia Penal Agrícola de Sousa, logo não oferecia qualquer perigo aos presentes no fórum de justiça da Comarca, tampouco ao próprio ato; c) que a autoridade de 1º grau não garantiu que o paciente algemado não fosse visto e reproduzido nessa condição pelas câmeras de gravação do ato.
+Ao final, requer a concessão da ordem para relaxar a prisão preventiva do paciente.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+O Supremo Tribunal Federal editou a Súmula Vinculante nº 11, que assim determina:
+Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado
+No que tange às alegações da defesa, assim entendeu o Tribunal de origem (e-STJ fls. 18-20):
+No presente mandamus, aduz, em síntese, que a prisão é nula em razão do uso indevido de algemas.
+Pois bem. Conforme estabelece a súmula vinculante 11, só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito.
+Conclui-se que o uso de algemas é natureza excepcional, a ser adotado nos casos e com as finalidades de impedir, prevenir ou dificultar a fuga ou reação indevida do preso, desde que haja fundada suspeita ou justificado receio de que tanto venha a ocorrer, e para evitar agressão do preso contra os próprios policiais, contra terceiros ou contra si mesmo (HC 89.429, rel. min. Cármen Lúcia, 1ª T, j. 22-8-2006, DJ de 2-2-2007).
+Na hipótese dos autos, de uma análise dos autos, constata-se que o magistrado optou por manter as algemas do paciente em razão da ausência de força policial suficiente para garantir a segurança dos ali presentes.
+Outrossim, o juízo, ao manter o acusado algemado, garantiu que as testemunhas não visualizassem as algemas, de forma que não há qualquer demonstração de prejuízo ao paciente.
+Para melhor elucidação transcrevo trecho da fundamentação utilizada pelo magistrado de 1º grau, in verbis:
+"Foi determinada a retirada das algemas pela Colônia Agrícola de Sousa/PB se não acarretasse risco à integridade física do próprio acusado ou de terceiros. No entanto, considerando que a unidade prisional possui poucos agentes e dada a impossibilidade de presença de mais de um policial acompanhando o réu no ato, a retirada das algemas acarreta prejuízo à segurança dos próprios agentes. Ademais, o MM Juiz determinou que não houve qualquer prejuízo para o ato, uma vez que o acusado participou da audiência por videoconferência e o posicionamento da câmera não permitiu que as testemunhas visualizassem as algemas."
+Destarte, no caso em análise, a decisão reclamada apresentou fundamentação idônea justificando a necessidade do uso de algemas, o que não afronta à Súmula Vinculante 11.
+Como se vê do trecho destacado, o Tribunal de origem concluiu estar justificado o uso de algemas no paciente durante a audiência preliminar, em razão da indisponibilidade de agentes policiais em número suficiente à garantia da segurança dos presentes e do próprio acusado, estando assegurada, contudo, a não visualização das algemas durante a transmissão da audiência por videoconferência, de modo a não causar prejuízo ao paciente.
+Nesse contexto, a alteração do quadro fático formado na Corte de origem demandaria a dilação probatória, providência inviável em sede de habeas corpus.
+Ante o exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
