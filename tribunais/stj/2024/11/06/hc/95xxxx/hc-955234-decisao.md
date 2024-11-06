@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL. RECURSO COM MATÉRIA RELATIVA À REPERCUSSÃO GERAL RECONHECIDA E JULGAMENTO DEFINITIVO DE MÉRITO. HIPÓTESES IDÊNTICAS. DESPROVIMENTO. Interpretação de que a entrada forçada em domicílio sem mandado judicial é lícita, mesmo que em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori. Recurso com repercussão geral reconhecida e julgamento definitivo do mérito (Tema 280 do Supremo Tribunal Federal). AGRAVO INTERNO NÃO PROVIDO, COM DETERMINAÇÃO.
+O paciente foi condenado à pena de 5 anos de reclusão e quinhentos dias-multa pela prática do crime de tráfico de drogas (art. 33, caput, da Lei nº 11.343/06).
+A defesa alega, em síntese, que o paciente está sofrendo constrangimento ilegal, pois foi condenado com base em prova ilícita, uma vez que obtida mediante busca domiciliar não precedida de fundadas razões da existência de flagrante delito.
+Ao final, requer a concessão da ordem para que seja reconhecida a ilicitude da prova e absolvido o paciente por ausência de provas.
+É o relatório.
+Decido.
+Com relação às matérias sobre aplicação da causa de diminuição de pena do §4º do art. 33 da Lei nº 11.343/06 e sobre regime de cumprimento de pena, verifica-se que já foi apresentado o AREsp nº 2.732.459, no qual se impugnou, com as razões ora deduzidas, a decisão que inadmitiu o recurso especial.
+Tratando-se de reiteração, inadmissível a impetração, v.g.:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 33, DA LEI N. 11.343/2006, E ART. 2.º, DA LEI N. 8.072/1990. PLEITO DE REDUÇÃO DA PENA E DE ABRANDAMENTO DO REGIME PRISIONAL INICIAL. REITERAÇÃO DO PEDIDO. MATÉRIA JÁ VEICULADA, COM A MESMA CAUSA DE PEDIR, NO ARESP N. 1.222.516/MG. DECISÃO DEFINITIVA DO STJ. HIPÓTESE DE INDEFERIMENTO LIMINAR DO WRIT. AGRAVO REGIMENTAL DESPROVIDO.
+- A defesa pretendeu, com o mandamus, que a pena definitiva do agravante fosse reduzida e que se abrandasse o seu regime prisional inicial.
+- O mandamus, porém, consiste em mera reiteração do pedido formulado no AREsp n. 1.222.516/MG, o qual, ademais, tinha a mesma causa de pedir.
+- Naquela oportunidade (julgamento do AgRg nos EDcl no AREsp n.º 1.222.516/MG) decidiu-se que "houve fundamentação concreta quando do não reconhecimento do tráfico privilegiado, consubstanciada na conclusão de que o recorrente se dedica às atividades criminosas, ante a apreensão de quantidade elevada de drogas e pelas demais circunstâncias que envolveram o delito, elementos aptos a justificar o afastamento do redutor do art. 33, § 4º, da Lei n. 11.343/2006". Outrossim, ficou decidido que, "considerando o patamar da pena definitiva que, em tese, comportaria o regime semiaberto, foi estabelecido o fechado de forma fundamentada, não havendo, portanto, ilegalidade a ser sanada.".
+- Em casos como o presente, a impetração deve ser inadmitida de plano, nos termos do art. 210, do RISTJ.
+- Agravo regimental desprovido.
+(AgRg no HC 762.206/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. MATÉRIA JÁ SUSCITADA EM HABEAS CORPUS IMPETRADO ANTERIORMENTE. MERA REITERAÇÃO DE PEDIDO. AGRAVO NÃO PROVIDO.
+1. A simples leitura da decisão combatida deixa claro que este recurso foi interposto em favor do mesmo paciente do HC n. 746.321/SC, questiona o mesmo acórdão proferido pelo Tribunal de origem e apresenta pedido idêntico - revogação da prisão preventiva por ser incompatível com o regime fixado na sentença para início do cumprimento da pena (semiaberto).
+2. A análise do decisum proferido naqueles autos evidencia que, ao contrário do afirmado neste agravo, houve exame do mérito lá suscitado, tanto que foi denegada a ordem.
+3. Agravo não provido.
+(AgRg no RHC 166.833/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/8/2022, DJe de 23/8/2022).
+Com relação à matéria da ilicitude das provas, pois obtidas mediante busca domiciliar sem fundadas razões, a impetração não merece concessão, uma vez que o acórdão que julgou a apelação está de acordo com o Tema 280 do STF, que exige a presença de fundadas razões da ocorrência de flagrante delitivo para que se realize a busca domiciliar.
+Assim afirmou o Tribunal de origem na apelação:
+ .. . De acordo com sólida orientação doutrinária e jurisprudencial há muito firmada, o tráfico de drogas é crime permanente. Assim sendo, havendo fundadas suspeitas de sua ocorrência no interior da residência e/ou locais de trabalho do réu, está autorizado o ingresso, em qualquer dia e horário, independentemente de mandado judicial, na forma do disposto no artigo 5º, inciso XI, da Constituição Federal. A situação já foi, inclusiva, decidida no Tema 280, de Repercussão Geral, no Recurso Extraordinário 603.616.. No caso concreto em exame, contudo, sequer é preciso ir tão longe. De fato, os policiais afirmaram que somente resolveram ingressar no imóvel após terem certeza de que nele havia entorpecente armazenado. Os policiais ainda asseguraram que foi possível ver que havia, no quintal, pés de maconha plantados. Nessa circunstância, havia situação apta a autorizar o ingresso no local, independentemente de autorização judicial. De modo que o ingresso dos policiais na residência foi regular  ..  (e-STJ fls. 775-782).
+Não há dúvida, assim, que o Tribunal respeitou o tema delimitado pelo STF, analisando a presença de fundada razão prévia para o ingresso no domicílio e entendeu que estava presente, uma vez que os policiais realizaram investigações prévias, identificaram o imóvel onde estava armazenada a droga e viram maconha plantada no quintal da residência. Portanto, não há que se falar em constrangimento ilegal.
+Pelo exposto, conheço parcialmente da impetração e, nesta parte, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
