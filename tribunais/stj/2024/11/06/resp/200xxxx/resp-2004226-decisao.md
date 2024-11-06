@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fl. 164):
+TRIBUTÁRIO E PROCESSUAL CIVIL. ANULATÓRIA DE DÉBITO FISCAL. AUTO DE INFRAÇÃO. MULTA POR ATRASO ENTREGA DECLARAÇÃO DO ITR. VALOR CALCULADO SOBRE O IMPOSTO DEVIDO NA FORMA DECLARADA PELO CONTRIBUINTE. INTERPRETAÇÃO DOS ARTIGOS 7o e 9o DA LEI 9.393/96. SENTENÇA MANTIDA.
+1. Segundo os artigos 7o e 9o da Lei 9.393/96 a apresentação espontânea da Declaração do ITR, fora do prazo estabelecido pela Receita Federal, sujeitará o contribuinte ao pagamento de multa de 1% ao mês ou fração sobre o imposto devido.
+2. No caso em exame, a base de cálculo para a apuração da multa é o valor declarado nas DITRs apresentadas extemporaneamente pela contribuinte, face à aplicação do art. 112 do Código Tributário Nacional, que determina a interpretação mais benéfica à lei tributária que define penalidades em razão de descumprimento de obrigações acessórias, como a entrega, fora do prazo, da Declaração do Imposto sobre a Propriedade Territorial Rural.
+3. Inaplicável o art. 14 da Lei 9.393/96, já que as declarações do ITR do exercício de 1999, ainda que após o prazo, foram entregues em março de 2001.
+4. Apelação e remessa oficial, tida por interposta, improvidas, mantendo-se inalterada a sentença recorrida.
+Os embargos de declaração opostos foram rejeitados (fls. 169/177).
+A parte recorrente alega ter ocorrido violação dos arts. 489 e 1.022, II, do Código de Processo Civil (CPC), 14 da Lei 9.393/1996, 142 parágrafo único, e 149, II, do Código Tributário Nacional (CTN) nestes termos:
+(1) " ..  inequívoco, assim, que houve violação do quanto dispõe o art. 1.022 do Código de Processo Civil  em face das evidentes máculas do R. Julgado regional -, obstando, de outro lado, o prequestionamento da matéria infraconstitucional destinado a viabilizar Recurso Especial. Portanto, ao rejeitar os embargos opostos, não se pronunciando sobre a questão federal suscitada pela Fazenda Nacional, o E. Tribunal Regional Federal procedeu em clara afronta ao disposto nos arts. 1.022 e 489 do Código de Processo Civil. A questão reveste-se de maior relevância quando se constata que os Embargos de Declaração opostos visaram deixar satisfatoriamente prequestionada a questão, para propiciar a interposição do Recurso Especial" (fl. 197);
+(2) "o Art. 14, da Lei 9393/96, ao contrário do que entendido pela E. Turma, é aplicável ao caso em tela, por força da inexatidão e incorreção das informações apresentadas pelo contribuinte (o que, aliás, está sendo discutido administrativamente, para definição do crédito tributário- obrigação principal por excelência) e não em razão da entrega da declaração" (fl. 198); e
+(3) "Na hipótese, portanto, sendo incontroverso que a declaração não foi prestada no prazo e na forma da legislação tributária, há que se considerara como imposto devido para efeito de aplicação da multa do art. 7 0, o resultado do lançamento de oficio, sob pena de afronta aos arts. 142 e 149, II, do CTN. Pensar de forma diversa, é assegurara que uma declaração inveridica seja considerada correta para aplicação da multa" (fl. 200).
+A parte adversa apresentou contrarrazões (fls. 203/209).
+O recurso foi admitido na origem (fls. 214/215).
+É o relatório.
+Na origem, trata-se de apelação por meio da qual a Fazenda Nacional questiona a decisão do Juízo monocrático que atribuiu à multa por apresentação fora do prazo da declaração anual de Imposto sobre a Propriedade Territorial Rural (ITR) o valor declarado pelo contribuinte na declaração do ITR e não o valor encontrado pelas autoridades fiscais no lançamento de ofício.
+O Tribunal de origem negou provimento à apelação utilizando os mesmos fundamentos da sentença recorrida (fls. 159/164).
+É deficiente o capítulo do recurso especial em que é alegada a ofensa ao art. 1.022 do Código de Processo Civil de forma genérica, sem a indicação específica dos pontos sobre os quais o julgador deveria ter se manifestado, o que inviabiliza a compreensão da controvérsia.
+Incide no caso em questão, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+A alegação de violação dos arts. 14 da Lei 9.393/1996 e 142 parágrafo único, e 149, II, do Código Tributário Nacional não é suficiente para caracterizar o prequestionamento, instituto que exige, além da alegação de infringência a dispositivos legais, a discussão e a apreciação judicial da questão de direito pela instância ordinária.
+O Superior Tribunal de Justiça (STJ) considera que a ausência de enfrentamento pelo Tribunal de origem da matéria objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial porque não foi preenchido o requisito constitucional do prequestionamento.
+Incide neste caso o enunciado 211 da Súmula do STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
