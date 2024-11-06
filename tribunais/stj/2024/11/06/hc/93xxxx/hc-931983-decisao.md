@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DIEGO CACIANO BARCELLOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos que o paciente foi preso em flagrante em 29/9/2023, sendo a prisão convertida em preventiva, sobrevindo a denúncia pela suposta prática dos crimes descritos nos arts. 33 e 35 da Lei 11.343/2006 e 329 e 330 do Código Penal.
+O magistrado, ao fundamento de excesso de prazo, relaxou a prisão preventiva. Por sua vez, o Parquet interpôs recurso em sentido estrito, ao qual o Tribunal de origem deu provimento.
+O impetrante sustenta que "as intensas investigações não demonstraram qualquer vinculação mínima do paciente com qualquer um dos investigados ou com qualquer organização criminosa" (fl. 5).
+Destaca a existência de excesso de prazo para formação da culpa, tendo em vista que a audiência de instrução e julgamento foi redesignada para novembro de 2024, após o não comparecimento das testemunhas arroladas pela acusação na data inicialmente designada.
+Ressalta a ausência de fundamentação idônea para segregação do paciente, além de argumentar que (fls. 23-24):
+ ..  a investigação se estendeu por 3 (três) anos e, durante todo esse tempo, o nome do paciente nunca apareceu sequer uma única vez nas interceptações telefônicas, nas quebras de dados telemáticos, nas ações controladas e em todas as diligências realizadas pela delegacia especializada em investigar crimes relacionados a organização criminosa.
+Sublinha que o paciente possuiria condições pessoais favoráveis e salienta que o "mandado de busca e apreensão não era endereçado ao paciente", bem como que "o paciente não reside no endereço em que foi cumprida a diligência" (fl. 26).
+Requer, liminarmente e no mérito, a concessão da liberdade provisória, seja pelo excesso de prazo ou pela ausência de fundamentação do decreto prisional.
+Indeferido o pedido de liminar (fls. 522-525) e prestadas informações (fls. 531-533 e 536-657), o Ministério Público Federal ofertou parecer pelo não conhecimento da impetração.
+É o relatório.
+O presente habeas corpus foi impetrado com o fim de assegurar a modificação do julgado proferido pelo TJSC que deu provimento a recurso em sentido estrito interposto pelo Ministério Público Federal contra a decisão que concedeu liberdade provisória ao impetrante, denunciado pela prática de ações tipificadas nos arts. 33 e 35 da Lei 11.343/2006 e 329 e 330 do Código Penal.
+Este Tribunal Superior firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+Veja-se, a respeito: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Ressalto que, como esclarecido nas informações prestadas à fl. 538:
+A Terceira Câmara Criminal, em sessão de julgamento realizado em 23.07.24, decidiu, por votação unânime, conhecer e dar provimento ao recurso para decretar a prisão preventiva do paciente e da corré (doc. 5).
+Na oportunidade, o Colegiado elucidou que a ausência injustificada dos policiais civis na audiência não foi o único fator que ensejou o prolongamento da fase instrutória, na medida que outra testemunha já havia justificado a sua impossibilidade de comparecímento no ato aprazado, o que invariavelmente resultaria na necessidade de dilação da instrução. Nesse contexto, consignou que a necessidade de prolongamento da instrução não caracterizou excesso de prazo, especialmente porque transcorridos apenas sete meses e dezesseis dias entre a data da prisão até a data da audiência de instrução. Assim, concluiu pela regular tramitação do feito, sem qualquer indicativo de desídia do Poder Judiciário e afastou o suposto excesso de prazo. No mais, enfatizou a presença dos requisitos autorizadores da prisão preventiva em relação aos réus.
+Irresignado, o ora paciente interpôs Recurso Especial (doc. 6) e Recurso Extraordinário (doc. 7), ambos pendentes de julgamento.
+Tendo em vista que a impetração se destina a atacar acórdão proferido em sede de recurso em sentido estrito, contra o qual seria cabível a interposição do recurso especial, que, inclusive, conforme informações prestadas pela autoridade apontada como coatora, foi interposto, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+Ademais, no caso em exame, não se verifica a ocorrência de ilegalidade flagrante apta a superar esse entendi mento.
+Ante o exposto, não conheço do habeas corp us.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
