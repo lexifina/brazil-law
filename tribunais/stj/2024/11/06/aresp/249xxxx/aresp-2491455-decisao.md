@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ELIZARDO D AMBROSIO e OUTRA se insurgiram, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fls1.079/1.084):
+EXECUÇÃO FISCAL IPTU e Taxa de Coleta de Lixo Exercícios de 2013 a 2016 - Município de Jundiaí Protesto de Certidão de Dívida Ativa Possibilidade Inteligência do art. 1º, parágrafo único, da Lei 9.492/97 Desatendimento dos requisitos do Art. 300 do NCPC Agravo não provido.
+Os embargos de declaração foram rejeitados (fls.1.90/1.094).
+Nas razões de seu recurso especial, a parte alega ofensa aos arts. 300, 489, § 1º, IV, 805, 919 § 1º e 1.022, II, do Código de Processo Civil (CPC), pois o Tribunal de origem não teria se manifestado satisfatoriamente sobre a questão dos autos. Requer a reforma do acórdão proferido em agravo de instrumento interposto diante do indeferimento de liminar pelo juízo de 1ª grau, no qual foi permitido o protesto de Certidões de Dívida Ativa (CDAs) mesmo após a penhora do imóvel, o que garantiria a execução fiscal e impediria o protesto extrajudicial.
+A parte adversa não apresentou contrarrazões.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial
+O TJ/SP manteve o protesto das Certidões de Dívida Ativa (CDAs). As partes recorrentes alegam a desnecessidade do protesto e a violação ao princípio da menor onerosidade ao devedor, previsto no art. 805 do CPC.
+Verifico que inexiste a alegada violação aos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+Transcrevo trecho do acórdão recorrido (fls.1.081/1. 082):
+A uma primeira vista, não se distingue na iniciativa da Municipalidade-agravada abuso ou desvio de finalidade, uma vez que, ainda que se possa admitir a incompetência dos Municípios para legislar sobre protesto de CD As, tal aspecto é irrelevante, porquanto a nova redação dada ao art. 1º, parágrafo único, da Lei Federal nº 9.492/97 pela Lei nº 12.767, de 27 de dezembro de 2012, permite o protesto de certidões de dívida ativa dos entes federados, razão porque é factível sustentar a legalidade da medida.
+De qualquer forma, antes mesmo da alteração normativa mencionada, o artigo 1º da referida lei já fazia menção a "outros documentos de dívida", razão pela qual já se admitia ser lícito às fazendas municipais protestar os títulos representativos das dívidas.
+Esta conduta da Municipalidade, ademais, não configura abuso ou exercício de autotutela, ou ainda ofensa à Constituição ou à legislação infraconstitucional, desvio de finalidade do instituto, e nem ainda afronta ao princípio da moralidade administrativa.
+ ..
+De outro lado, o Colendo Órgão Especial desta Corte, por ocasião do julgamento da Arguição de Inconstitucionalidade nº 0007169-19.2016.8.26.0000 (Rel. Arantes Theodoro, m. v., j. em 29/04/2015), reconheceu a constitucionalidade dos dispositivos que tratam do protesto de certidões de dívida ativa na Lei nº 12.767/2012.
+ ..
+Corroborando tal entendimento, recentemente o Egrégio Supremo Tribunal Federal, ao julgar a ADI nº 5135 (Rel. Min. Roberto Barroso, j. 09/11/2016), declarou a constitucionalidade dos artigos da Lei nº 12.767/2012 que cuidam do protesto da CDA e fixou a seguinte tese: "O protesto das Certidões de Dívida Ativa constitui mecanismo constitucional e legítimo, por não restringir de forma desproporcional quaisquer direitos fundamentais garantidos aos contribuintes e, assim, não constituir sanção política".
+De outro lado, como bem pontou o magistrado de primeira instância: "A par da discordância fundamentada do exequente, fls. 110, tem-se que a penhora incidente sobre bem imóvel não suspende a exigibilidade do débito, pois é hipótese não prevista em lei. E, uma vez não suspensa a exigibilidade do débito, nada impede que o exequente faça uso, concomitantemente à cobrança via execução fiscal, da via extrajudicial do protesto de CDA, cuja legalidade e constitucionalidade não mais se discute".
+Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Quanto ao mais, o acórdão recorrido foi proferido no julgamento de agravo de instrumento interposto de decisão interlocutória por meio da qual o Juízo de primeiro grau indeferiu o requerimento de antecipação da tutela final.
+Não é possível conhecer do recurso em razão da natureza precária da decisão impugnada.
+Incide no presente caso, por analogia, o óbice da Súmula 735 do Supremo Tribunal Federal (STF).
+Nesse sentido, assim se pronunciou a Primeira Turma deste Tribunal:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO CONTRA DECISÃO INTERLOCUTÓRIA QUE INDEFERIU A TUTELA DE URGÊNCIA. DISCUSSÃO QUE NECESSARIAMENTE ALCANÇA O DEBATE DA QUESTÃO MERITÓRIA DOS AUTOS. INCIDÊNCIA DA SÚMULA 735/STF. PROVIMENTO NEGADO.
+1. Nos termos da Súmula 735 do Supremo Tribunal Federal, "não cabe recurso extraordinário contra acórdão que defere medida liminar", orientação que se estende às decisões que apreciam pedido de antecipação de tutela, aplicando-se, por analogia, ao recurso especial.
+2. A análise realizada em liminar ou antecipatória de tutela, na mera aferição dos requisitos de perigo da demora e de relevância jurídica, ou de verossimilhança e fundado receio de dano, respectivamente, não acarreta, por si só, o esgotamento das instâncias ordinárias, requisito indispensável à inauguração da instância especial conforme a previsão constitucional.
+3. Este Tribunal Superior admite o afastamento do enunciado sumular em questão nas hipóteses em que a concessão, ou não, da medida liminar e o deferimento, ou não, da antecipação de tutela caracterizar ofensa direta à lei federal que regulamenta esses institutos, desde que se revele prescindível a interpretação das normas que dizem respeito ao mérito da causa, o que não é o caso dos autos.
+4. O presente caso trata do efetivo debate acerca da interpretação dos arts. 44 e 61, § 3º, da Lei 9.430/1996, o que evidencia a incidência do óbice da Súmula 735/STF, uma vez que, enquanto não advier sentença de mérito, não se consideram exauridas as instâncias ordinárias.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.894.762/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial, e, nesta extensão, negar provimento.
+Publique-se. Intimem-se.
+EMENTA
