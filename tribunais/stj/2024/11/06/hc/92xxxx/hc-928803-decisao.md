@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de GABRIEL MATHEUS DE OLIVEIRA GONCALVES - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 1500426-83.2022.8.26.0545) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, não comporta acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta ao paciente pelo Juízo de Direito da 2ª VARA CRIMINAL DA COMARCA DE BRAGANÇA PAULISTA, argumentando e requerendo: a) que a pena-base seja fixada no mínimo legal; e b) a aplicabilidade do redutor previsto no § 4º do art. 33 da Lei de Drogas, em seu patamar máximo, com os consectários legais.
+Ocorre que, além de a via eleita ter sido indevidamente utilizada como forma de revisar condenação transitada em julgado, inexiste constrangimento ilegal manifesto, pois a pena-base foi devidamente exasperada com fundamento na quantidade e natureza da droga apreendida (186 pedras de crack e 347 papelotes de maconha), e o redutor foi afastado com fundamento no fato de que o réu, ainda que tecnicamente primário, ostenta atos infracionais relacionados ao tráfico de drogas  .. , após inúmeras denúncias anônimas noticiando a prática da atividade ilícita no local dos fatos, o que revela que o acusado se dedicava à atividade criminosa e faze da difusão do vício, com animus lucrandi, modus vivendi (fl. 70).
+Ademais, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita do habeas corpus.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. REPRIMENDA-BASE. EXASPERAÇÃO COM BASE NA NATUREZA E QUANTIDADE DE DROGA APREENDIDA (186 PEDRAS DE CRACK E 347 PAPELOTES DE MACONHA). POSSIBILIDADE (ART. 42 DA LEI N. 11.343/2006). MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO FUNDADO EM ELEMENTOS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS (DIVERSOS ATOS INFRACIONAIS, INCLUSIVE, POR FATO ANÁLOGO AO CRIME DE TRÁFICO DE DROGAS). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
