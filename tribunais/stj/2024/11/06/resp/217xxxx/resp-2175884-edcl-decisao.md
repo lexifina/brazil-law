@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela União, objetivando a integração da decisão monocrática de fls. 256-260, que, no julgamento do recurso especial interposto por Maria Beatriz Petis Fernandes e outros, não conheceu de seu recurso, que tinha como propósito a nulidade das multas concernentes aos atrasos nas comunicações de transferência de titularidade de imóvel perante a Superintendência do Patrimônio da União (SPU).
+Aponta o ente federado embargante que a decisão embargada restou omissa com relação à fixação dos honorários recursais, porquanto, tratando-se de decisão recorrida publicada na vigência do novo códex processual, é imperativa a majoração dos honorários fixados anteriormente, levando-se em conta o trabalho adicional realizado em grau recursal.
+A parte embargada apresentou impugnação aos embargos de declaração (fls. 269-270).
+É o relatório. Decido.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+No caso em análise, constata-se assistir razão à embargante, porquanto, nos termos do § 11 do art. 85 do Código de Processo Civil de 2015: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento".
+Segundo orienta a Corte Especial do STJ, além da decisão recorrida publicada a partir de 18/3/2016 (NCPC), são requisitos concomitantes a falta do êxito recursal (não conhecimento/provimento) e a condenação em honorários de advogado desde a origem no feito em que interposto o recurso (EAREsp n.º 762.075/MT).
+Ante o exposto, dou provimento aos embargos de declaração para, integrando a decisão embargada, majorar a verba honorária recursal em favor da União em mais 1%, perfazendo em 11% sobre o valor da causa.
+Publique-se. Intimem-se.
+EMENTA
