@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Pedido de Suspensão de Liminar e de Sentença formulado pela Câmara Municipal de Monte Alegre do Sul contra decisão do Tribunal de Justiça de São Paulo, que deferiu o pedido de antecipação de tutela recursal no Agravo Interno n. 2296012-24.2024.8.26.0000/50001, interposto por Edson Rodrigo de Oliveira Cunha, para suspender os efeitos do Decreto Legislativo 97/2024, de 2 de outubro de 2024.
+Na origem, o interessado ajuizou Ação Anulatória da CP 002/2024, alegando decurso do prazo decadencial previsto no art. 5º, VII, do Decreto-Lei 201/1967; falta de intimação pessoal para apresentar defesa; utilização de prova produzida em processo judicial da qual não teve acesso; o indeferimento de prova testemunhal; e suspeição de um dos membros da Comissão Processante.
+No curso do processo judicial, a Câmara Municipal de Monte Alegre do Sul editou o Decreto Legislativo 97/2024, cassando o mandato eletivo do Prefeito Edson Rodrigo de Oliveira Cunha em virtude de infração político-administrativa. O Tribunal de Justiça de São Paulo, então, suspendeu os efeitos do referido ato.
+A requerente assevera que "tal decisão trouxe grave lesão à ordem pública administrativa do município, além de ignorar fatos relevantes, como a suspensão do prazo de 90 dias devido à abertura de incidente de suspeição e impedimento e ao recesso legislativo de julho de 2024, conforme disposto no art. 222 do Regimento Interno da Câmara Municipal de Monte Alegre do Sul." (fl 4).
+É o relatório.
+Decido.
+A suspensão dos efeitos do ato judicial é providência excepcional, cumprindo à requerente a efetiva demonstração da grave e iminente lesão aos bens jurídicos tutelados pela legislação de regência, quais sejam: a ordem, a saúde, a segurança e a economia públicas.
+No presente caso, foi deferido o pedido de atribuição de efeito suspensivo ao Agravo Interno interposto pelo Prefeito do Município de Monte Alegre do Sul, porque há indícios de que o prazo do art. 5º, VII, do Decreto-Lei 201/1967 não teria sido respeitado pela Câmara Municipal. Por oportuno, confira-se o seguinte trecho (fl. 33):
+Entretanto, há prazo de decadência de 90 dias, previsto no art. 5º, VII, do Dec.-Lei 201/1967, para conclusão do processo por infração político- administrativa, contados da data em que se efetivar a notificação do acusado.
+A data de notificação do acusado, neste caso concreto, é de 13 de maio de 2024 (fls. 46/59 do processo digital de primeiro grau).
+Assim, da data da notificação ao ato de cassação transcorreram mais de 90 dias, o que confere fundamentação jurídica relevante e risco de ineficácia da tutela jurisdicional para proteção de direito líquido e certo do impetrante.
+Registre-se que a tutela jurisdicional diante de ato do Poder Legislativo Municipal (que não se confunde com mero controle judicial de ato administrativo) dá-se em caráter excepcional e exclusivamente em razão de fortes indícios de violação efetiva da legalidade, sem adentrar no mérito político da deliberação.
+Neste incidente, de propósitos específicos e bem delimitados, não cabe sindicar o mérito da demanda em curso nas instâncias ordinárias, sobretudo a existência de elementos suficientes para reconhecer, ainda que de forma precária, se houve o respeito ao prazo decadencial previsto no art. 5º, VII, do Decreto-Lei 201/1967 e ao devido processo legal.
+É por demais consabido que a Suspensão de Liminar e de Sentença não constitui sucedâneo recursal apto a propiciar o exame do acerto ou do desacerto da decisão impugnada.
+No mesmo sentido:
+AGRAVO INTERNO NO PEDIDO DE SUSPENSÃO DE SEGURANÇA. RETORNO AO CARGO DE VICE-PREFEITO. CASSAÇÃO PELA CÂMARA MUNICIPAL. NÃO DEMONSTRAÇÃO DE GRAVE LESÃO À ORDEM E À ECONOMIA PÚBLICAS. VIA INADEQUADA PARA ANÁLISE DO MÉRITO DA CONTROVÉRSIA. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. Conforme consta da decisão agravada, o recorrente não demonstrou cabalmente a ocorrência das graves lesões à ordem e à economia públicas.
+2. A Corte Especial entende que "é imprescindível a cabal demonstração de que manter o decisum atacado obstaculiza o exercício da atividade pública ou mesmo causa prejuízos financeiros que impossibilitem a prestação dos serviços públicos" (AgInt na SLS n. 2.338/MA, relatora Ministra Laurita Vaz, Corte Especial, DJe de 12/6/2018).
+3. Não foi apresentada prova de que a execução do decisum que pretende suspender ensejaria o colapso ou o desequilíbrio das contas públicas ou efetivamente afetaria a prestação de serviços públicos pela Câmara Municipal.
+4. Consoante a decisão agravada, a regra que inibe a Câmara Municipal de processar chefe do Poder Executivo municipal por vícios no procedimento não causa grave lesão à ordem pública, tampouco é capaz, por si só, de afetar o interesse público. Precedentes.
+5. A suspensão de segurança é meio inadequado para a apreciação do mérito da controvérsia, sendo, de igual modo, inviável o exame do acerto ou do desacerto da decisão cujos efeitos a parte busca sustar, sob pena de transformação do pedido de suspensão em sucedâneo recursal e de indevida análise de argumentos jurídicos que atacam especificamente os fundamentos da decisão recorrida. Precedente.
+Agravo interno improvido. (AgInt na SS n. 3.235/PA, Rel. Min. Humberto Martins, Corte Especial, DJe de 20/10/2020.)
+AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. CORREIOS. OPERADORA DO PLANO DE SAÚDE DOS FUNCIONÁRIOS. PENHORA DOS VALORES EXECUTADOS. GRAVE LESÃO À ORDEM E À ECONOMIA PÚBLICAS. NÃO DEMONSTRAÇÃO. VIA INADEQUADA PARA A ANÁLISE DO MÉRITO DA CONTROVÉRSIA.
+1. O deferimento do pedido de suspensão está condicionado à cabal demonstração de que a manutenção da decisão impugnada causa efetiva e grave lesão ao interesse público.
+2. O incidente da suspensão de liminar e de sentença, por não ser sucedâneo recursal, é inadequado para a apreciação do mérito da controvérsia.
+3. Agravo interno desprovido. (AgInt na SLS n. 2.535/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 2/9/2020.)
+AGRAVO REGIMENTAL. SUSPENSÃO DE SEGURANÇA. PREFEITO MUNICIPAL. PROCESSO DE CASSAÇÃO EM TRÂMITE NA CÂMARA MUNICIPAL. LIMINAR EM MANDADO DE SEGURANÇA. AUSÊNCIA DE LESÃO À ORDEM PÚBLICA. QUESTÕES DE MÉRITO.
+- O quadro fático descrito, considerando-se que não foram imputados ao Prefeito Municipal indícios de fraudes ou de desvio de dinheiro público e que o feito de cassação foi suspenso para garantir o amplo direito de defesa, não revela a possibilidade de grave lesão à ordem pública.
+- A análise das questões jurídicas de mérito encontra-se fora dos limites traçados para a suspensão de liminar ou de segurança, cujo propósito é, tão-somente, obstar a possibilidade de grave lesão à ordem, à saúde, à segurança e à economia públicas.
+Agravo regimental improvido. (AgRg na SS n. 1.918/MG, Rel. Min. Cesar Asfor Rocha, Corte Especial, DJe de 17/12/2009.)
+Observo, ademais, que os argumentos veiculados pela requerente para justificar a suspensão da liminar revestem-se, em verdade, de caráter eminentemente jurídico e que não houve narrativa concreta de ocorrência de grave lesão à ordem e à economia públicas.
+Ante o exposto, indefiro Pedido.
+Publique-se.
+Intimem-se.
+EMENTA
+PEDIDO DE SUSPENSÃO DE LIMINAR E DE SENTENÇA. AÇÃO ANULATÓRIA DE PROCEDIMENTO ADMINISTRATIVO. POSTERIOR DECRETO LEGISLATIVO. CASSAÇÃO DE MANDATO ELETIVO DE PREFEITO. ANTECIPAÇÃO DE TUTELA RECURSAL. SUSPENSÃO DE SEGURANÇA COMO INSTRUMENTO RESERVADO A SITUAÇÕES EXCEPCIONAIS. EMPREGO DO INSTITUTO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
