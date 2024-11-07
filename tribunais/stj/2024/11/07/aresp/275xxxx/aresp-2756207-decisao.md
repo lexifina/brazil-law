@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se agravo em recurso especial, com pedido de efeito suspensivo, interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 02/09/2024.
+Concluso ao gabinete em: 04/10/2024.
+Ação: revisional de contrato bancário movida por TEREZA RODRIGUES DA ROSA, alegando, em suma, ter firmado com o Banco demandado contratos de empréstimo pessoal (030900008384, 030900087670 e 030900007421). Alegou que foram inseridos encargos excessivamente onerosos nos contratos e discorreu sobre as abusividades praticadas. Ao final, requereu a procedência dos pedidos para que sejam revisados os contratos em todo o seu período a fim de declarar nulas as cláusulas abusivas, aplicando juros remuneratórios à taxa média do Banco Central, juros moratórios em 1% ao mês e multa de 2%, afastar a cobrança de tarifa de cadastro e autorizar a repetição de indébito. Postulou ainda, a concessão da gratuidade judiciária. Juntou documentos e apresentou memória de cálculo do valor incontroverso.
+Sentença: julgou procedente o pedido, a fim de limitar a taxa de juros remuneratórios em 66,41% ao ano, 72,87% ao ano e 80,89% ao ano, respectivamente e autorizar eventual repetição de indébito na forma simples.
+Acórdão: deu parcial provimento à apelação pela agravante:
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATO DE CRÉDITO PESSOAL. I - Prescrição. A pretensão de revisão de cláusulas contratuais e a consequente restituição dos valores pagos a maior, por serem fundadas em direito pessoal, prescrevem em dez anos, na forma do art. 205 do Código Civil. No caso, em dois dos contratos transcorreu o prazo decenal entre a celebração dos contratos e a propositura da ação. Parcialmente provido no tópico. II - Juros remuneratórios. A aplicação de taxa de juros remuneratórios substancialmente superior à média de mercado divulgada pelo BACEN nas relações de consumo, desde que demonstrada desvantagem exagerada ao consumidor, e analisadas as peculiaridades inerentes ao caso concreto, pode configurar a abusividade, sendo passível de limitação à referida taxa média de mercado, conforme entendimento do STJ (R Esp nº 1.061.530/RS e R Esp nº 1.821.182/RS). Na hipótese, há abusividade dos juros remuneratórios pactuados. III - Repetição de indébito/compensação de valores. Cabimento da repetição do indébito, na forma simples, e compensação de valores diante das modificações impostas na revisão do contrato. Desprovido no particular. APELAÇÃO PARCIALMENTE PROVIDA. UNÂNIME". (e-STJ fl. 298)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 355, I e II, 356, I e II, 927, do CPC; e 421 do Código Civil. Sustenta inexistir abusividade nos juros remuneratórios previstos no contrato celebrado entre as partes. Afirma que o provimento do pedido de revisão contratual apenas com base na taxa média de mercado, sem produção de outras provas e análise das particularidades do caso, enseja cerceamento de defesa, devendo os autos serem remetidos ao Tribunal de origem, sob pena de nulidade.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou os arts. 421 do CC e 927 do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 421 do CC e 927 do CPC, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à existência de abusividade na taxa de juros remuneratórios prevista no contrato celebrado entre as partes, exige o reexame de fatos e provas, assim como a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC e 255, § 1º, do RISTJ.
+A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AR Esp 353947/SC, 3ª Turma, D Je de 31/03/2014 e E Dcl no Ag 1162355/MG, 4ª Turma, D Je de 03/09/2013.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AR Esp 821337/SP, 3ª Turma, D Je de 13/03/2017 e AgInt no AR Esp 1215736/SP, 4ª Turma, D Je de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, condeno a parte agravante, a título de honorários recursais, ao pagamento de mais R$ 500,00 (quinhentos reais) em favor do procurador da parte agravada.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação revisional de contrato bancário.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+7. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+8. Agravo conhecido. Recurso especial não conhecido, com majoração de honorários.
