@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de RAFAEL RODRIGUES DOS SANTOS, onde aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (agravo em execução n. 0005807-53.2024.8.26.0521).
+Consta dos autos que, na execução de penas, o paciente foi promovido a regime de cumprimento menos vigiado.
+Em acórdão do TJ, após recurso do MP, foi determinada a realização de exame criminológico para o benefício da progressão de regime, com base, em especial, na atual Lei n. 14.843/2024.
+Neste writ, a defesa sustenta que a progressão de regime deveria ser concedida sem a necessidade de prévio exame criminológico, porquanto o paciente teria cumprido os requisitos legais e não haveria obrigatoriedade para a realização do referido exame, ainda que a lei tenha mudado recentemente.
+Alega que não haveria fundamentação idônea para tal exigência e que o requisito subjetivo também estaria satisfeito.
+Requer, liminarmente e no mérito, o afastamento da exigência de realização do exame criminológico, com o restabelecimento da decisão anterior.
+É o relatório. DECIDO.
+A controvérsia consiste em se afastar o exame criminológico no pedido de progressão de regime.
+No presente caso, contudo, da análise dos elementos informativos constantes dos autos, não se verifica qualquer flagrante ilegalidade a legitimar a atuação deste Sodalício.
+A jurisprudência desta Corte Superior se firmou no sentido de que, para que se afaste o requisito subjetivo das benesses executórias, deve o ser com base nos elementos concretos extraídos da execução, verbis:
+ ..  a gravidade abstrata do crime não justifica diferenciado tratamento à progressão prisional, uma vez que fatores relacionados ao delito são determinantes da pena aplicada, mas não justificam diferenciado tratamento à negativa da progressão de regime ou do livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução. Precedentes do STJ (HC n. 519.301/SP, Terceira Seção, Rel. Min. Nefi Cordeiro, DJe de 13/12/2019) (AgRg no HC 803.075/SP, Quinta Turma, de minha relatoria, DJe de 31/5/2023, grifei).
+Tendo em conta que o paciente cumpre pena com o apontamento de falta grave recente, isso termina por demonstrar um certo descompromisso com a sistemática penal, de forma que não se pode falar que o acórdão de origem não esteja fundamentado.
+Vejamos (fl. 12):
+Com efeito, o Agravante beneficiado com a progressão ao regime aberto em 25.07.2022, voltou ao cárcere após prisão em flagrante em 07.05.2023 pelo crime de furto qualificado (fls 17/18), demonstrando falta da assimilação da terapêutica penal.
+Portanto, de fato, não há qualquer possibilidade de constatação do requisito subjetivo, de plano, para o futuro benefício.
+Ora, no caso concreto, ainda, não há sequer falar em termos de reabilitação.
+É o histórico prisional do apenado como um todo que afasta a constatação do requisito subjetivo (AgRg no REsp n. 2.017.532/TO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/10/2022; e AgRg no HC 806.925/SP, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 31/5/2023).
+Ademais, a Terceira Seção desta Corte Superior firmou, em caráter repetitivo, o Tema n. 1161, no sentido de que (por analogia):
+A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal (REsp n. 1.970.217/MG, Terceira Seção, Rel. Min. Ribeiro Dantas, DJe de 1º/6/2023, grifei).
+Situação que se aplica ao caso de progressão de regime também, pois esta Quinta Turma apregoa que:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME INDEFERIDA. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. DECISÃO DEVIDAMENTE FUNDAMENTADA. EXAME CRIMINOLÓGICO DESFAVORÁVEL. RECORRENTE COM HISTÓRICO PENAL CONTURBADO. EXISTÊNCIA DE ANOTAÇÕES POR FALTAS GRAVES DURANTE O CUMPRIMENTO DE PENA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso dos autos, o pedido de progressão do apenado ao regime semiaberto foi indeferido pela ausência de preenchimento do requisito subjetivo, tendo sido levado em consideração, sobretudo, que o laudo do exame criminológico realizado concluiu pela inaptidão, até o momento, do retorno do paciente ao convívio social.
+2. O exame criminológico não vincula o julgador, mas serve de baliza para aferir o requisito subjetivo do sentenciado para a progressão de regime, sendo método idôneo para fornecer subsídios ao Magistrado sobre a adequação ou não de regime menos severo.
+3. Além disso, o paciente possui histórico prisional conturbado, com registro de diversas faltas disciplinares, além de ter praticado novo delito no curso do livramento condicional anteriormente concedido.
+4. Cumpre ressaltar que não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado.
+5. Evidenciada a idoneidade da fundamentação utilizada na origem, não há falar em flagrante ilegalidade que justifique a concessão da ordem de ofício.
+6. Para modificar os fundamentos utilizados pelas instâncias ordinárias quanto ao preenchimento do requisito subjetivo do paciente, mostra-se necessário o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+7. Agravo regimental desprovido (AgRg no HC n. 827.256/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 11/10/2023, grifei).
+Sendo assim, a fundamentação utilizada a quo se mostrou idônea.
+No mais, vale registrar que a modificação das decisões proferidas pelas instâncias ordinárias, para concluir pela configuração do requisito subjetivo para benefícios executórios, demandaria o revolvimento do conjunto fático-probatório dos autos da execução penal, o que é incompatível com os estreitos limites da via do habeas corpus (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023 ; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Devidamente fundamentado o decidido pela origem, não há que se falar em constrangimento ilegal.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o MPF desta decisão.
+Publique-se. Intimem-se.
+EMENTA
