@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de pedido de tutela provisória interposto por BDO SOUZA PARTICIPAÇÕES LTDA., MQM PARTICIPAÇÕES LTDA. e PANORÂMICO EMPREENDIMENTOS IMOBILIÁRIOS LTDA objetivando a concessão de
+"(..) efeito suspensivo ao recurso especial interposto pelas Requerentes, a fim de suspender imediatamente o trâmite do cumprimento de sentença n. 0004647-58.2020.8.26.0189, até o julgamento definitivo do recurso especial" (fl. 14, e-STJ).
+As requerentes sustentam, afirmando a existência de relevância do direito invocado no recurso especial, a violação pelo tribunal de origem dos seguintes dispositivos legais com as respectivas teses:
+"(i) art. 601, parágrafo único, do CPC, o qual determina que a sociedade parcialmente dissolvida deve se sujeitar aos efeitos da sentença de dissolução parcial da sociedade mesmo que não seja parte no processo, a revelar a ilegitimidade das Requerentes para figurarem no polo passivo do cumprimento de sentença originário;
+(ii) art. 50 do Código Civil, pois as Requerentes, enquanto sócias remanescentes da sociedade parcialmente dissolvida, estão sendo executadas pessoalmente pelos haveres da sociedade sem antes ter sido decretada a desconsideração da sua personalidade jurídica; e,
+(iii) art. 80, IV e VII, do CPC, haja vista não estar demonstrado que as Requerentes opuseram resistência injustificada ao andamento do processo ou interpuseram recurso protelatório, a ensejar o afastamento da multa por litigância de má-fé" (fl. 4, e-STJ).
+Defendem, em razão de se tratar de matéria de ordem pública, a existência de nulidades processuais no acordo extrajudicial firmado e homologado no processo nº 005323- 86.2020.8.26.0189, que originou o cumprimento de sentença, tendo em vista a ausência de assinatura dos transigentes e o erro quanto ao objeto da declaração de vontade (pagamento das cotas dos sócios retirantes em dinheiro, e não em imóveis).
+Quanto ao perigo de dano, aduzem que
+"(..) há elevado risco de danos irreversíveis (..), uma vez que, além de já terem sido alvos de inúmeros atos expropriatórios, como a penhora do faturamento bruto mensal das empresas, agora há possibilidade de os bens penhorados serem arrematados, tornando-se irreversível eventual provimento jurisdicional favorável nestes autos" (fl. 5, e-STJ).
+É o relatório.
+DECIDO.
+O pedido não comporta acolhimento.
+Consoante o disposto no art. 1.029, § 5º, II, do CPC/2015, "o pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido ao relator, se já distribuído o recurso".
+Ademais, nos termos do art. 300, caput, do CPC/2015, "a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo".
+De fato, nos autos do agravo em recurso especial nº 2.381.115/SP já foi proferida decisão (fls. 9.801/9.802, e-STJ) em que se determinou a reautuação do recurso, tendo em vista a necessidade de aprofundamento do exame das questões ali versadas.
+Todavia, embora se admita a existência de plausibilidade nas alegações relacionadas com a tese da ilegitimidade das requerentes, na qualidade de sócias remanescentes, para responderem pelo pagamento dos haveres da sociedade parcialmente dissolvida, tendo em vista as especiais circunstâncias do caso concreto, não há como reconhecer a presença do perigo de dano na hipótese.
+Isso porque a parte requerente não demonstrou a existência do perigo de dano iminente a justificar o deferimento do pedido liminar, nem sequer as alegadas ordens constritivas contra o patrimônio pessoal.
+Segundo o entendimento do Superior Tribunal de Justiça acerca da matéria, a mera conjectura de riscos não preenche o requisito do periculum in mora, imprescindível ao cabimento da tutela pleiteada.
+Confiram-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NA PETIÇÃO. EFEITO SUSPENSIVO A RECURSO ESPECIAL. INDEFERIMENTO. AUSÊNCIA DE PERICULUM IN MORA E DE FUMUS BONI IURIS.
+1. A concessão de efeito suspensivo é medida excepcional e somente é possível se preenchidos, cumulativamente, os seguintes requisitos: demonstração do periculum in mora e a caracterização do fumus boni iuris.
+2. A jurisprudência desta Corte é assente no sentido de que a execução provisória, não constitui, isoladamente, o periculum in mora exigido para a concessão de efeito suspensivo ao recurso especial, até mesmo porque esse procedimento possui mecanismos próprios para evitar prejuízos ao executado.
+3. Conforme reiteradamente destacado no âmbito deste Tribunal, "não há prejudicialidade externa que justifique a suspensão da demanda possessória até que se julgue a ação de usucapião" (AgRg no REsp 1483832/SP).
+4. Agravo interno não provido" (AgInt na PET na Pet 14.017/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/04/2021, DJe 15/4/2021).
+"AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER E DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - DECISÃO MONOCRÁTICA QUE DEFERIU O PLEITO LIMINAR ANTE A PRESENÇA DOS REQUISITOS PARA A CONCESSÃO DA TUTELA DE URGÊNCIA. IRRESIGNAÇÃO DA REQUERIDA.
+1. O uso da cautelar/tutela de urgência no âmbito deste Superior Tribunal de Justiça é medida excepcional que visa a impedir o perecimento do direito e a consequente inutilidade do provimento jurisdicional futuro.
+2. À concessão do efeito suspensivo aos recursos extraordinários, por meio de tutela de urgência, faz-se necessária a presença concomitante dos requisitos do fumus boni iuris e periculum in mora: o primeiro relativo à plausibilidade, aferida em juízo sumário, da pretensão recursal veiculada no apelo extremo (sua probabilidade de êxito) e o segundo consubstanciado no risco de dano irreparável que, em uma análise objetiva, revele-se concreto e real. (..)
+4. Agravo interno desprovido" (AgInt na TutPrv no REsp 1.660.663/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/8/2017, DJe 1º/9/2017).
+Ademais, o início do cumprimento provisório da sentença não configura situação excepcional apta a justificar o perigo da demora, sobretudo por se tratar de procedimento que já possui mecanismos próprios com o intuito de evitar prejuízos ao executado, a exemplo da reparação dos danos que o executado haja sofrido se a sentença for reformada (art. 520, I, do CPC/2015) e da necessidade de prestação de caução suficiente e id ônea, arbitrada de plano pelo juiz e prestada nos próprios autos, para fins de levantamento de depósito em dinheiro (art. 520, IV, do CPC/2015).
+Nesse sentido:
+"AGRAVO INTERNO NA TUTELA PROVISÓRIA. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. COMPETÊNCIA DO STJ. SUPOSTA APRECIAÇÃO NA ORIGEM. INSTRUÇÃO DEFICIENTE. NÃO CONHECIMENTO. ILEGALIDADE OU TERATOLOGIA NÃO EVIDENCIADAS. AUSÊNCIA DE ELEMENTOS HÁBEIS PARA INFIRMAÇÃO DOS FUNDAMENTOS DA DECISÃO IMPUGNADA.
+1. Se ainda não houve o juízo primeiro de admissibilidade do recurso especial, como corolário, não se iniciou a competência do Superior Tribunal de Justiça para analisar o pedido de atribuição de efeito suspensivo, nos termos do art. 1.029, § 5º, III, do CPC.
+2. O pedido de tutela provisória formulado com vistas à atribuição de efeito suspensivo a recurso especial deve ser instruído com os documentos necessários à compreensão da controvérsia e indispensáveis à demonstração de situação de excepcionalidade que autoriza a atuação do Superior Tribunal de Justiça.
+3. O simples fato de se ter dado início ao cumprimento provisório de sentença, por si só, não é suficiente para a atribuição de efeito suspensivo a recurso especial, tampouco para demonstrar a indispensável situação de excepcionalidade que autoriza a atuação do STJ, uma vez que a lei processual civil é taxativa ao prescrever que a execução provisória de sentença corre por conta e responsabilidade do exequente, que se obriga, se a sentença for reformada, a reparar os danos que o executado haja sofrido.
+4. Agravo interno desprovido" (AgInt no TP nº 4.240/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 24/4/2023, DJe de 4/5/2023).
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. A mera instauração do cumprimento provisório de sentença não traduz risco iminente de dano irreparável, sendo certo que mesmo na hipótese em que houver o depósito da quantia reivindicada pela parte credora, a devedora poderá requerer ao Juízo da causa que exija caução para o levantamento dos valores depositados (CPC/2015, art. 521, § 1º), sujeitando-se eventual deliberação negativa aos recursos processuais comportados. Precedentes.
+2. O depósito integral do valor devido em sede de cumprimento provisório da sentença afasta a aplicação da multa prevista no art. 523, § 1º, do CPC. Precedentes.
+3. Agravo interno desprovido" (AgInt no REsp nº 2.042.023/DF, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023).
+Nesse contexto, ausente um dos requisitos autorizadores da concessão da medida urgente, que devem estar necessariamente conjugados, inviável o deferimento do pleito.
+Ante o exposto, indefiro o pedido de tutela provisória.
+Publique-se.
+Intimem-se.
+Arquivem-se.
+EMENTA
