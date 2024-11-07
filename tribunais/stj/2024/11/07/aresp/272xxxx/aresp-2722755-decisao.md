@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por S & J CONSULTORIA E INCORPORAÇÃO LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE DANOS MORAIS E MATERIAIS. COMPRA E VENDA DE IMÓVEIS. INCIDÊNCIA DO CDC. RETENÇÃO DAS QUANTIS PAGAS. 10%. MULTA RESCISÓRIA. CLÁUSULAS ABUSIVAS. CORREÇÃO MONETÁRIA.
+1. Considerando as características do negócio e o teor do contrato celebrado entre as partes (adesão), inconteste a relação de consumo, o que faz incidir o Código de Defesa do Consumidor.
+2. A previsão contratual de retenção de 20% sobre os valores pagos, mais multa penal de 10% incidente sobre o valor de venda do imóvel se mostra abusiva, sendo suficiente o percentual de retenção de 10% (dez por cento) fixado pelo magistrado.
+3. A jurisprudência é uníssona ao determinar que, em se tratando de resolução contratual por culpa dos compradores, deverá incidir a correção monetária pelo INPC, desde cada desembolso.
+4. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA" (e-STJ fl. 334).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos dos artigos 2º do Código de Defesa do Consumidor e 421 do Código Civil.
+Sustenta, inicialmente, que o contrato firmado entre as partes não deve ser interpretado segundo as normas previstas no Código de Defesa do Consumidor, pois se trata de uma situação não sujeita às normas consumeristas.
+Além disso, defende que devem ser respeitadas as cláusulas contratuais firmadas entre as partes, sob pena de ofensa ao princípio do "pacta sunt servanda".
+Após as contrarrazões (e-STJ fls. 370/374), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que se refere à ofensa ao art. 421 do CC, verifica-se que as matérias versadas nos dispositivos apontados como violados no recurso especial não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide, por analogia, o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+No que tange ao art. 2º, do CDC, o acórdão recorrido está em consonância com o entendimento desta Corte firmado no sentido de que "o adquirente de unidade imobiliária, mesmo não sendo o destinatário final do bem e apenas possuindo o intuito de investir ou auferir lucro, poderá encontrar abrigo da legislação consumerista com base na teoria finalista mitigada se tiver agido de boa-fé e não detiver conhecimentos de mercado imobiliário nem expertise em incorporação, construção e venda de imóveis, sendo evidente a sua vulnerabilidade. Em outras palavras, o CDC poderá ser utilizado para amparar concretamente o investidor ocasional (figura do consumidor investidor" (REsp n. 1.785.802/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/2/2019, DJe 6/3/2019).
+No mesmo sentido:
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. REQUISITOS DE RELAÇÃO CONSUMERISTA. ACÓRDÃO RECORRIDO CONFORME À JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. CORRETORA. FALHA NA INTERMEDIAÇÃO IMOBILIÁRIA. DESCARACTERIZAÇÃO SÚMULAS N. 5 E 7 DO STJ. INADIMPLEMENTO CONTRATUAL. RESSARCIMENTO DAS DESPESAS DE CORRETAGEM. PRESCRIÇÃO DECENAL. SÚMULA N. 83/STJ INADIMPLEMENTO CONTRATUAL. DIREITO À REPETIÇÃO DAS DESPESAS DE INTERMEDIAÇÃO IMOBILIÁRIA. SÚMULA N. 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, sobre as questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Segundo a jurisprudência do STJ, "o adquirente de unidade imobiliária, mesmo não sendo o destinatário final do bem e apenas possuindo o intuito de investir ou auferir lucro, poderá encontrar abrigo da legislação consumerista com base na teoria finalista mitigada se tiver agido de boa-fé e não detiver conhecimentos de mercado imobiliário nem expertise em incorporação, construção e venda de imóveis, sendo evidente a sua vulnerabilidade. Em outras palavras, o CDC poderá ser utilizado para amparar concretamente o investidor ocasional (figura do consumidor investidor" (REsp n. 1.785.802/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/2/2019, DJe 6/3/2019), essa é a situação dos autos. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+(..)
+7. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.595.167/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. INCIDÊNCIA DO CDC. TEORIA FINALISTA MITIGADA. DECISÃO MANTIDA.
+1. "O adquirente de unidade imobiliária, mesmo não sendo o destinatário final do bem, poderá encontrar abrigo na legislação consumerista com base na teoria finalista mitigada se tiver agido de boa-fé e não detiver conhecimentos de mercado imobiliário nem expertise em incorporação, construção e venda de imóveis, sendo evidente sua vulnerabilidade" (AgInt no AREsp n. 1.755.516/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/4/2021, DJe de 22/4/2021).
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.668.308/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+Nesse contexto, incide a Súmula nº 568/STJ no ponto.
+Por fim, nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
