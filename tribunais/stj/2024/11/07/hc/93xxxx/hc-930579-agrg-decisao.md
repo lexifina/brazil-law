@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra a decisão que não conheceu deste habeas corpus, via do qual se postula o trancamento do Inquérito n. 0805234-50.2024.8.15.0371, em razão do reconhecimento da incidência do princípio da insignificância.
+O agravante sustenta que seria evidente a aplicação do princípio da insignificância em vista da primariedade e dos bons antecedentes, além do fato de que a imputação seria a de ter o agravante cometido o furto de gêneros alimentícios, consistentes em 2 kg de feijão e 2 kg de açúcar, que foram inclusive restituídos.
+Alega que o caso se trata de "crime famélico", e que não há nenhuma afetação do bem jurídico patrimônio ou relevância penal.
+Requer, assim, seja reconsiderada a decisão agravada ou submetido o presente caso a julgamento colegiado.
+É o relatório.
+O presente recurso está prejudicado.
+Isso porque, em consulta ao sítio do Tribunal de Justiça do Estado da Paraíba, colhe-se a informação de que em 26/8/2024 foi concedida ordem de habeas corpus determinando o trancamento do Inquérito n. 0805234-50.2024.8.15.0371 e de eventual ação penal oriunda.
+A propósito, segue a ementa do referido julgado:
+HABEAS CORPUS. PACIENTE PRESO EM FLAGRANTE PELA PRÁTICA, EM TESE, DO CRIME DE FURTO SIMPLES. SUBTRAÇÃO DE 2KG DE FEIJÃO E 2KG DE AÇÚCAR DO ESTABELECIMENTO ONDE TRABALHAVA. BENS DEVOLVIDOS. 1. PLEITO DE TRANCAMENTO DO INQUÉRITO POLICIAL POR ATICICIDADE DA CONDUTA. ALEGADA INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. CABIMENTO NA HIPÓTESE. PREENCHIMENTO DOS VETORES TRAÇADOS PELO STF PARA APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. CONDUTA IMPUTADA MATERIALMENTE ATÍPICA. PRECEDENTES DO STF E STJ. 2. CONCESSÃO DA ORDEM.
+1. O entendimento do Supremo Tribunal Federal e do Superior Tribunal de Justiça é firme no sentido de que o trancamento da ação penal por meio do habeas corpus é medida excepcional, que somente deve ser adotada quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+- A jurisprudência do STF traçou os seguintes vetores a fim de nortear o julgador na aplicação do Princípio da Insignificância, quais sejam: a) ofensividade mínima ao bem jurídico tutelado; b) reduzido grau de reprovabilidade; c) inexpressividade da lesão e d) nenhuma periculosidade social.
+- Na espécie, o paciente foi preso em flagrante (APF n. 0805155-71.2024.8.15.0371) e indiciado (IP n. 0805234 50.2024.8.15.0371) por suposta prática da figura típica prevista no art. 155, caput, do CP, pois teria furtado 2kg de feijão e 2kg de açúcar do estabelecimento onde trabalhava (Supermercado Varejão), por volta das 19h53min, do dia 25.06.2024, no Município de Sousa/PB. Após a sua prisão em flagrante, o paciente devolveu os itens furtados.
+- Segundo pontuou o magistrado de primeiro grau, o acusado "não responde a outros processos criminais e não há notícias de que figura como investigado em inquéritos policiais."
+- Apesar da fase preambular em que o caso se encontra, as circunstâncias fáticas retratadas permitem concluir, à luz do princípio da insignificância, que a conduta imputada ao paciente é materialmente atípica.
+- Com efeito, o imputado crime foi cometido sem violência ou grave ameaça contra pessoa, os bens furtados são alimentos de valor irrisório e foram devolvidos, não há nos autos qualquer notícia no sentido de que o paciente seja contumaz em tal prática tida por delituosa ou seja portador de maus antecedentes, de modo que, conforme precedentes das Cortes Superiores, e diante das peculiaridades do caso concreto, não há óbice à incidência do princípio da bagatela.
+- Na linha da jurisprudência do Supremo Tribunal Federal, a atipicidade material da conduta conduz ao excepcional trancamento do inquérito em curso. Precedentes: HC 132.170 AgR, Relator Teori Zavascki, Segunda Turma, DJe 02.03.2016 e HC 138.507, Relator Ricardo Lewandowski, Segunda Turma, DJe 04.08.2017.
+2. Ordem concedida para determinar o trancamento do Inquérito Policial n. 0805234-50.2024.8.15.0371 e de eventual ação penal deste oriundo, em decorrência da atipicidade material da conduta supostamente praticada.
+Com efeito, o trancamento do inquérito e de eventual ação penal decorrente torna evidente a perda do objeto não só do agravo regimental em apreço mas também deste habeas corpus.
+Ante o exposto, com fundamento no art. 34, XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o agravo regimental.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
