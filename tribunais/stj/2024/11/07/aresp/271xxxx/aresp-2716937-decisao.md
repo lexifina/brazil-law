@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial manifestado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. Execução de Título Extrajudicial. Nota Promissória. Penhora. Decisão que autorizou a substituição de penhora sobre valores por seguro-garantia, acrescidos de trinta por cento. Providência que não configura pagamento voluntário, nem suspende o incidente originário, tampouco obsta a incidência das penalidades do art. 523 do CPC/15, porém impede a realização de tentativa de penhora em dinheiro (art. 835, § 2º, do CPC/15). Desnecessária a anuência da Empresa Agravante, que não logrou desqualificar a salvaguarda oferecida, seja por insuficiência, defeito formal ou inidoneidade, prevalecendo o princípio da menor onerosidade, observada a máxima efetividade da Execução. Decisão mantida. RECURSO NÃO PROVIDO.
+Nas razões de recurso especial, a agravante sustenta violação aos artigos 797 e 829, § 2º, do CPC, defendendo a impossibilidade de substituir a penhora de ativos financeiros pelo seguro garantia no âmbito de execução definitiva.
+Alega que a execução deve ser realizada no interesse do credor, ao qual é lícita a recusa da substituição de bens que prejudiquem a celeridade do processo.
+Alega, ainda, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 317/333.
+Assim delimitada a controvérsia, passo a decidir.
+No presente caso, observo que o Tribunal de origem entendeu pela possibilidade de substituição de penhora de ativos financeiros por seguro garantia, independentemente da anuência da agravante, haja vista que ela "não logrou êxito em desqualificar a salvaguarda oferecida, seja por insuficiência, defeito formal ou inidoneidade, prevalecendo o princípio da menor onerosidade, observada a máxima efetividade da execução".
+Em que pesem os fundamentos do acórdão recorrido, anoto que a jurisprudência desta Corte é no sentido de que a substituição da penhora em dinheiro por seguro garantia deve ser admitida apenas em situações excepecionais, para evitar dano grave ao devedor, devendo prevalecer, em regra, a ordem legal de preferência estabelecida no art. 835 do CPC/2015. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. OFERECIMENTO DE SEGURO-GARANTIA. HIPÓTESES EXCEPCIONAIS. INCIDÊNCIA DA SÚMULA 83/STJ. RETORNO DOS AUTOS À ORIGEM. AGRAVO INTERNO IMPROVIDO.
+1. Admite-se a substituição da penhora em dinheiro por seguro-garantia apenas em hipóteses excepcionais, quando necessário para evitar dano grave ao devedor, sem causar prejuízo ao exequente. Precedentes.
+2. Na espécie, o eg. Tribunal de Justiça concluiu ser suficiente para ensejar a aludida substituição tão somente o preenchimento dos requisitos formais previstos em lei (cobertura de valor não inferior ao débito com acréscimo de 30%).
+3. É necessário, pois, o retorno dos autos à Corte de origem para que promova novo julgamento do recurso, nos moldes do entendimento desta Corte.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.924.134/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/9/2022, DJe de 22/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. DECISÃO DA PRESIDÊNCIA RECONSIDERADA. AGRAVO DE INSTRUMENTO. OFERECIMENTO DE SEGURO GARANTIA. DESCABIMENTO. INCIDÊNCIA DA SÚMULA 83/STJ. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. A parte recorrente realizou a impugnação específica dos fundamentos de inadmissibilidade do recurso especial. Reconsideração da v. decisão da Presidência desta Corte Superior.
+2. Segundo a jurisprudência do STJ, admite-se a substituição da penhora de dinheiro por seguro-garantia apenas em hipóteses excepcionais, em que seja necessário evitar dano grave ao devedor, sem causar prejuízo ao exequente, situação não demonstrada no caso dos autos. Incidência da Súmula 83 do STJ.
+3. No caso concreto, a Corte de origem expressamente reconheceu a inexistência de circunstância que justifique a substituição da penhora em dinheiro por apólice de seguro garantia. A modificação de tal entendimento, lançado no v. acórdão recorrido, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do disposto na Súmula 7 deste Pretório.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.824.006/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. GARANTIA DO JUÍZO. SEGURO FIANÇA. EXCEPCIONALIDADE. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As questões referentes ao cabimento da suspensão do feito em razão da repercussão geral nos processos em que se discute a respeito do interesse da Caixa Econômica Federal ( RE 827.996/PR);
+não foram objeto de debate no acórdão impugnado, não obstante a oposição dos embargos de declaração na origem. Para que se configure o prequestionamento, é necessário que o Tribunal a quo se pronuncie especificamente sobre a matéria articulada pelo recorrente, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto Desatendido o requisito do prequestionamento, incide, no caso, a Súmula 211/STJ.
+2. A jurisprudência desta Corte admite a substituição da penhora de dinheiro por seguro-garantia apenas em hipóteses excepcionais, em que seja necessário evitar dano grave ao devedor, sem causar prejuízo ao exequente. Precedentes.
+3. A revisão do acórdão recorrido, para o acolhimento da pretensão recursal importaria o reexame do conjunto fático-probatório dos autos, providência vedada em sede especial, a teor da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.865.840/PE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/11/2021, DJe de 25/11/2021.)
+Na hipótese dos autos, verifico que não há elementos para aferir se a manutenção da penhora dos ativos causaria grave dano aos devedores executados.
+Se apenas isto não bastasse, a parte agravante alega que o seguro garantia sequer teria sido apresentado integralmente (fl. 251).
+Assim, faz-se necessário o retorno dos autos ao Juízo de origem, para adequação e análise do caso à luz da jurisprudência desta Corte.
+Diante do exposto, conheço do agravo para dar parcial provimento ao recurso especial interposto e determinar o retorno dos autos ao Juízo de origem para que, abrindo oportunidade ao contraditório, verifique a suficiência do seguro garantia, bem como a caracterização ou não de hipótese excepcional apta a justificar a substituição da penhora de ativos financeiros pelo seguro garantia, nos termos da fundamentação acima.
+Intimem-se.
+EMENTA
