@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GABRIEL MAGALHÃES BEZERRA LIMA (GABRIEL) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, GABRIEL alegou a violação dos arts. 9º, 10, 932, V, 1.019 do CPC, ao sustentar que deveria ter sido intimado para apresentar contrarrazões ao agravo de instrumento interposto contra a decisão que indeferiu a tutela provisória de urgência, especialmente porque o referido recurso foi provido pelo Tribunal de origem.
+(1) Da nulidade da decisão por necessidade de intimação
+Acerca da controvérsia, o Tribunal local concluiu pela desnecessidade de intimação de GABRIEL para apresentar contrarrazões ao agravo de instrumento, visto que não houve a triangulação da relação processual, conforme transcrição a seguir:
+Busca o recorrente a desconstituição da decisão deste Relator que, ao dar provimento ao agravo de instrumento da parte contrária, anulou a decisão interlocutória do juízo a quo, por falta de fundamentação. Para tanto, alega que, destarte o provimento do agravo de instrumento manejado pelo ora embargado, não restou intimado para apresentar contrarrazões, malferindo, assim, o princípio que veda a prolação de decisão surpresa.
+Ocorre que, embora o inciso V, do art. 932, do CPC determine que incumbe ao relator depois de facultada a apresentação de contrarrazões, dar provimento ao recurso", no caso dos autos, cotejando o caderno processual de origem, verifiquei que, ao tempo da prolação objeto de irresignação via agravo de instrumento, não tinha havido a triangulação da relação processual, ou seja, a parte ora embargante ainda não havia sido citada e, por conseguinte, ainda não integrava a relação processual posta.
+Logo, não há que se falar em malferimento dos princípios do contraditório, da ampla defesa e da vedação da prolação de decisão surpresa.
+Além disso, ainda que houvesse a triangulação da demanda com oportunização da apresentação das contrarrazões, as alegações do ora recorrente não teriam o condão de dar outra solução ou resultado ao julgamento do agravo de instrumento, na medida em que a declaração de nulidade da decisão de primeiro grau era medida impositiva pela carência de motivação. Deve, portanto, ser mantida a decisão recorrida.
+Em sentido contrário, esta Corte Superior possui jurisprudência no sentido de que é nulo o provimento do agravo de instrumento sem que seja dada ao agravado a oportunidade de se manifestar, ainda que ele não seja parte integrante da lide por ausência de citação, salvo na hipótese em que o relator nega provimento ao recurso.
+Confiram-se os seguintes precedentes:
+RECURSO ESPECIAL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. DECISÃO QUE INDEFERE A GRATUIDADE DE JUSTIÇA E A TUTELA PROVISÓRIA DE URGÊNCIA. AGRAVO DE INSTRUMENTO. PROVIMENTO SEM PRÉVIA OITIVA DA PARTE AGRAVADA. OFENSA AO DEVIDO PROCESSO LEGAL. ACÓRDÃO ANULADO. JULGAMENTO: CPC/2015.
+1. Ação de obrigação de fazer ajuizada em 2019, da qual foi extraído o presente recurso especial, interposto em 27/01/2021 e concluso ao gabinete em 06/05/2021.
+2. O propósito recursal é decidir sobre a nulidade do acórdão recorrido por ofensa ao contraditório e à ampla defesa, bem como sobre o preenchimento dos requisitos para a concessão da tutela de urgência.
+3. É incabível recurso especial fundado em violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. Na vigência do CPC/1973, a Corte Especial do STJ, ao julgar o REsp 1.148.296/SP (julgado em 01/09/2010, DJe de 28/09/2010), pela sistemática dos recursos repetitivos, firmou a tese de que "a intimação da parte agravada para resposta é procedimento natural de preservação do princípio do contraditório, nos termos do art. 527, V, do CPC" e "a dispensa do referido ato processual ocorre tão-somente quando o relator nega seguimento ao agravo (art. 527, I), uma vez que essa decisão beneficia o agravado, razão pela qual conclui-se que a intimação para a apresentação de contrarrazões é condição de validade da decisão que causa prejuízo ao recorrente" (temas 376 e 377).
+5. Assim como no CPC/1973, o CPC/2015 não autoriza o órgão julgador a dar provimento ao agravo de instrumento sem a oitiva prévia da parte agravada.
+6. A par da possibilidade de atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, o legislador apenas autoriza o relator a julgar o agravo de instrumento, antes da intimação da parte agravada, quando a decisão for no sentido de não conhecer do recurso ou de a este negar provimento, já que, nessas hipóteses, o julgamento não lhe causa qualquer prejuízo.
+7. Hipótese em que há de ser reconhecida a nulidade do acórdão recorrido, por inobservância do devido processo legal, em especial das garantias do contraditório e da ampla defesa, porquanto provido o agravo de instrumento antes de facultada a apresentação de contrarrazões pela parte agravada.
+8. Recurso especial conhecido em parte e, nessa extensão, provido.
+(REsp n. 1.936.838/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/2/2022, DJe de 18/2/2022 - original sem grifos)
+Assim, considerando que os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado por esta Corte, especialmente pelo fato de o agravo de instrumento ter sido provido, impõe-se a sua reforma.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Nessas condições, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial e anular a decisão/acórdão recorrido(a) e determinar o retorno dos autos ao TJ/CE a fim de que proceda a novo julgamento do agravo de instrumento, observando o devido processo legal.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INDEFERE A TUTELA PROVISÓRIA DE URGÊNCIA. AGRAVO DE INSTRUMENTO. PROVIMENTO SEM PRÉVIA OITIVA DA PARTE AGRAVADA. OFENSA AO DEVIDO PROCESSO LEGAL. JULGAMENTO ANULADO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
