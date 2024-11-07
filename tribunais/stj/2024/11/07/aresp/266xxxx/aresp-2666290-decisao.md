@@ -1,0 +1,36 @@
+DECISÃO
+Examina-se agravo interposto por ANTONIO VITORINO MARANDOLA e ESTER COSTA FELIPE MARANDOLA, contra decisão interlocutória que negou seguimento ao seu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 03/05/2024.
+Concluso ao gabinete em: 28/06/2024.
+Ação: de usucapião, ajuizada pelos agravantes, em desfavor de MARIA CARVALHO RODRIGUES e OUTROS (irmãos da coautora), por meio da qual objetivam a aquisição do título de propriedade do imóvel descrito na inicial.
+Sentença: julgou procedente o pedido, a fim de declarar o domínio/propriedade dos agravantes sobre os imóveis em questão.
+Acórdão: deu provimento à apelação interposta pelos agravados, para reformar a sentença e julgar improcedente o pedido inicial, nos termos da seguinte ementa:
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE DOMÍNIO. USUCAPIÃO EXTRAORDINÁRIA. IMÓVEL OBJETO DE HERANÇA. PRETENSÃO DE RECONHECIMENTO DE DOMÍNIO DO IMÓVEL POR HERDEIRO, EM DETRIMENTO DOS DEMAIS. AUSÊNCIA DE DEMONSTRAÇÃO DA POSSE " PELOS AUTORES. POSSE PRECÁRIA. DECORRENTE DE MERA AD USUCAPIONEM" PERMISSÃO. ART. 1.208/CC. SENTENÇA REFORMADA. IMPROCEDÊNCIA DA PRETENSÃO DECLARATÓRIA. PROVIMENTO.
+1. Nos termos da sedimentada jurisprudência do Superior Tribunal de Justiça, "o condômino tem legitimidade para usucapir em nome próprio, desde que exerça a posse por si mesmo, ou seja, desde que comprovados os requisitos legais atinentes à usucapião, bem como tenha sido exercida posse exclusiva com efetivo animus domini pelo prazo determinado em lei, sem qualquer oposição dos demais proprietários " (STJ, 4ª T., REsp 668131/PR, Rel. Min. Luis Felipe Salomão, DJe 14.09.2010)
+2. Comprovado nos autos que a coautora passou a residir no imóvel, ainda com seu extinto genitor, por ato de mera permissão, permanecendo a ali residir, mesmo após o falecimento do proprietário, por não terem os demais herdeiros ingressado com o inventário dos bens, é de rigor constatar a precariedade da posse exercida, nos termos do art. 1.208/CC, já que, com a abertura da sucessão a posse e propriedade fora transferida em comum aos herdeiros (art. 1.784/CC), sendo de rigor a reforma da sentença, julgando-se improcedente a pretensão declaratória de domínio dos imóveis discutidos, com inversão da sucumbência.
+3. Apelação Cível à que se dá provimento (e-STJ fl. 787).
+Embargos de declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: apontam a violação dos arts. 1.204 do CC; 141, 341, 489, § 1º, IV, 492 e 1.022 do CPC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustentam os agravantes que estão na posse exclusiva do imóvel, com animus domini, desde o falecimento do de cujus - pai da coautora e dos agravados -, ocorrido em 1997, quando assumiram, em nome próprio e em detrimento dos demais herdeiros, todos os poderes inerentes à propriedade. Aduzem que, ainda que a posse tenha se iniciado com precariedade, verificou-se a sua transmutação, estando caracterizado o interversio possessionis, que possibilita o reconhecimento do usucapião. Asseveram que os agravados não se desincumbiram do ônus de impugnar especificamente os fatos narrados na petição inicial, tendo o acórdão recorrido se baseado em elementos que não possuem lastro probatório nos autos. Por fim, afirmam que ocorreu o julgamento extra petita, pois a natureza da posse nunca foi objeto de impugnação.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial. Aplica-se, neste caso, a Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da oposição de embargos de declaração, não decidiu acerca dos argumentos invocados pelos agravantes em seu recurso especial quanto aos arts. 1.204 do CC; 141, 341 e 492 do CPC, o que inviabiliza o seu julgamento. Aplica-se, neste caso, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere (i) ao preenchimento dos requisitos para a configuração da usucapião; (ii) à natureza da posse exercida; (iii) à efetiva transmutação do caráter originário da posse; e (iv) à existência de efetiva insurgência, por parte dos agravados, acerca da natureza da posse exercida sobre o imóvel, a fim de que se perscrute acerca da ocorrência de julgamento extra petita no caso concreto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente - configuração, no caso concreto, do interversio possessionis (transmutação do caráter da posse) -, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor atualizado da causa (e-STJ fls. 742 e 796) para 12% (doze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de usucapião.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. A ausência de decisão acerca dos argumentos invocados pelos agravantes em suas razões recursais, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo conhecido. Recurso especial não conhecido.
