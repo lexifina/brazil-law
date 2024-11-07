@@ -1,0 +1,54 @@
+DECISÃO
+MAICON ROSSO VISCARDI agrava de decisão que não conheceu do agravo em recurso especial.
+No regimental, alega a defesa que foram impugnados todos os fundamentos da decisão que não admitiu o recurso especial.
+Pugna pela reconsideração da decisão agravada ou pela submissão do feito ao órgão colegiado.
+Decido.
+Verifico que assiste razão ao agravante, motivo por que, em juízo de retratação, inerente ao agravo regimental, reconsidero a decisão atacada, haja vista que todos os fundamentos da decisão que inadmitiu o recurso especial foram efetivamente impugnados.
+Feitas essas considerações, passo ao exame do mérito do especial.
+Depreende-se dos autos que o réu foi condenado a 23 anos e 4 meses de reclusão, em regime fechado, mais 21 dias-multa, bem como a 1 ano de detenção, pela prática dos crimes previstos nos arts. 12 da Lei n. 10.826/2003 e 157, § 3º, II, do CP.
+O Tribunal de origem negou provimento à apelação defensiva.
+Nas razões do especial, alegou a defesa a violação do art. 18, I, do CP, ao argumento de que as instâncias ordinárias não comprovaram que o réu sabia da intenção dos demais agentes de cometer latrocínio. Afirmou que as provas dos autos indicam que o disparo da arma de fogo ocorreu por reação de um dos agentes a movimento brusco da vítima, razão por que deve ser a conduta desclassificada para roubo majorado.
+Sustentou afronta ao ar. 29 do CP, uma vez "o conjunto probatório  ..  não permite afirmar a existência de liame subjetivo entre o recorrente e os dois agentes do assalto  ..  para o cometimento do ilícito penal, qual seja, o crime de latrocínio" (fl. 869). Argumentou que o ora agravante não participou do planejamento nem de qualquer ato executório.
+Aduziu contrariedade ao art. 29, § 2º, do CP, pois não foi reconhecida a cooperação dolosamente distinta do réu, que declarou saber previamente do plano para praticar apenas roubo, o que implica o afastamento do latrocínio.
+Requereu a absolvição. Subsdiariamente, pleiteou a desclassificação da conduta para roubo.
+Primeiramente, quanto à alegada ausência de liame subjetivo do agente (requisito para a configuração de concurso de agentes), a defesa não cita nem se refere aos fundamentos do acórdão recorrido. Limita-se a citar trechos da sentença que não foram utilizados pelo Tribunal de Justiça como fundamentação por remissão (per relationem).
+Ao não se remeterem ao que foi concretamente decidido na instância antecedente, as razões recursais configuram alegações abstratas que, à guisa de se aplicarem a diversos processos, não se referem a nenhum especificamente.
+O julgamento do mérito recursal pressupõe que o recorrente deixe inequívoco em que sentido os fundamentos do ato jurisdicional impugnado contrariam dispositivos de lei federal, ônus esse de que a defesa não se desvincilhou.
+No que tange ao suposto desvio subjetivo, consistente na alegada ausência de dolo de matar do ora agravante, observo que o acórdão recorrido asseriu o seguinte:
+A questão restou bem analisada pelo juízo a quo na sentença, motivo pelo qual a fim de evitar tautologia e em prestígio ao empenho demonstrado, transcrevo parte da peça como razões de decidir, verbis:
+ ..  os áudios juntados pela Polícia Civil demonstram que o acusado tinha ciência do roubo que seria praticado por Diego Willian Santiago Alves e Marcelo Inácio Júnior:
+Maicon (AUD-20191025-WA0008) - "Eu falei pra eles, eles falaro pra mim que io faze um assalto, ta ligado feio, agora como é que os caras vão me mata o cara, cara  Os cara são retardado da cabeça, é uns muleque né mano, tá ligado  É uns guri que não tem um pingo de ladineza na cabeça" (transcrição do Relatório Final, ev. 153).
+Além disso, foram encontradas mensagens enviadas pelo acusado aos autores do delito logo após o horário de cometimento do crime, corroborando o fato de que MAICON tinha conhecimento do delito.
+ ..
+No ponto, importante destacar que nos áudios juntados no Inquérito Policial e transcritos no Relatório Policial, o acusado MAICON se mostra preocupado em seu nome ser indicado pelos comparsas e, inclusive, ameaça "jogar os dois pro "seguro" se isso acontecer" (p. 14-15 do ev. 153). Diante dessa realidade, é crível concluiur que Marcelo tentou assumir a propriedade da arma perante o juízo a fim de livrar o acusado de eventual condenação criminal.
+ ..
+O arcabouço probatório indica que o acusado tinha conhecimento do delito que seria realizado por Diego Willian Santiago Alves e Marcelo Inácio Júnior e forneceu sua arma de fogo para auxiliar na prática do ilícito.
+ ..
+Deste modo, considerando que restou sobejadamente comprovado a prática do delito de latrocínio, não há que se falar em desclassificação para o crime de roubo circunstanciado, pois ainda que não tenha participado ativamente do delito, assumiu o risco para que o crime ocorresse, pois foi o responsável por fornecer a arma de fogo utilizada na prática do delito.
+Igualmente, impossível o reconhecimento da cooperação dolosamente distinta, prevista no § 2º do art. 29 do Códex Punitiva, porquanto a partir do momento em que o apelante "emprestou" a arma de fogo para a prática do crime de roubo, assumiu o risco de se produzir um resultado mais gravoso, como ocorreu no presente caso.
+(fls. 845-847, grifei)
+Como se observa, as instâncias ordinárias examinaram documentos de áudio extraídos de mensagens trocadas entre o réu e os demais partícipes da conduta delitiva e concluíram que ele tinha ciência de que seria praticado um roubo e que emprestou sua arma de fogo para essa finalidade.
+Os horários de envio das mensagens também foram examinados e indicam que o o agente não apenas sabia do emprego de arma de fogo para subtração patrimonial como também foi informado quando o crime resultou em morte da vítima, oportunidade em que tomou providências para que o seu nome não fosse associado ao armamento.
+Por oportuno, convém ressaltar que não é possível questionar em recurso especial a participação do acusado no crime mediante fornecimento de armamento bélico, tampouco o seu conhecimento de que os partícipes subtrairiam patrimônio com risco à vida da vítima, haja vista o óbice da Súmula n. 7 do STJ.
+No entanto, trechos destacados pelo Tribunal estadual consignam que o réu se surpreendeu ao constatar que a subtração acarretou a morte da vítima, circunstância que haveria reprovado verbalmente em momento posterior.
+Relativamente às circunstâncias dos autos, a jurisprudência desta Corte Superior sedimentou o entendimento de que o ato de emprestar arma de fogo para a prática de roubo é suficiente para demonstrar o dolo eventual quanto ao resultado morte do ofendido, por se tratar de desdobramento natural da conduta praticada com o emprego desse tipo de armamento:
+ ..
+2. Se as instâncias ordinárias concluíram pela existência de provas suficientes da autoria e materialidade do delito, o exame do pedido de absolução por ausência de provas demandaria o revolvimento de todo o arcabouço fático-probatório a fim de perquirir se haveria outras evidências que apontassem em sentido contrário, o que é vedado nesta instância especial a teor da súmula 7/STJ.
+3. A jurisprudência desta Corte tem entendido que o ato de emprestar a arma de fogo para a prática de roubo evidencia que o agente assume o risco de se produzir um resultado mais grave, uma vez que o evento morte se trata de mero desdobramento causal da ação delituosa praticada com o uso do artefato bélico.
+Inviável, assim, o reconhecimento da situação do recorrente como sendo de cooperação dolosamente distinta, sob o pretexto de que o réu apenas consentira com o crime de roubo.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 1.205.699/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/3/2018, DJe de 21/3/2018.)
+ ..
+1. No caso dos autos, o Tribunal de origem manteve a condenação do paciente pela prática do crime de latrocínio tentado, afastando a tese defensiva da participação de menor importância, ao fundamento de que restou suficientemente comprovado o liame subjetivo entre os agentes, pois houve prévio ajustamento de condutas, bem como domínio do fato e do resultado por todos os envolvidos na prática delituosa. Ademais, restou demonstrado que o paciente emprestou não só o veículo, mas também o revólver calibre .38 utilizado na conduta criminosa, tendo debatido com os coautores, posteriormente ao crime, o que seria feito com a arma utilizada.
+2. O entendimento adotado pelo Tribunal encontra-se em harmonia com a jurisprudência desta Corte, segundo a qual " n ão incide a minorante do art. 29, § 1º, do Código Penal quando haja nítida divisão de tarefas entre os agentes envolvidos na prática delitiva, pois, cada qual possui o domínio do fato a ele atribuído, mostrando-se cada conduta necessária para a consumação do crime, situação caracterizadora de coautoria e não de participação de somenos importância" (AgRg no AREsp n. 163.794/MS, relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 24/9/2013, DJe de 2/10/2013).
+3. Assim, em atendimento à teoria monista ou unitária adotada pelo CP, apesar do réu não ter praticado a violência elementar do crime de latrocínio tentado, conforme o entendimento consagrado por este Sodalício, havendo prévia convergência de vontades para a prática de tal delito, as circunstâncias objetivas da prática criminosa comunicam-se ao coautor, mesmo não sendo ele o executor direto do gravame.
+De toda forma, para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, providência inviável em sede de habeas corpus.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no HC n. 834.833/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+Com efeito, não há falar em desvio subjetivo ou de cooperação dolosamente distinta, pois o emprego de arma de fogo em subtração patrimonial pressupõe a exposição a maior risco dos bens jurídicos protegidos pelo tipo penal referente ao latrocínio.
+Embora alegue a defesa que a intenção do denunciado era emprestar a arma de fogo para auxiliar na prática de roubo, a própria natureza do artefato bélico implica a admissão da possibilidade de o usuário deflagrar a munição e de o disparo acarretar a morte de alguém.
+Assim, em linha com os precedentes do STJ, evidencia-se o dolo eventual do ora agravante, pois admitiu a possibilidade de produção do resultado caracterizador do latrocínio ao emprestar a arma de fogo e, sendo a constatada a morte da vítima (desdobramento causal previsível na prática de roubo), deve ser o agente responsabilidade pelos atos dos seus comparsas, segundo a aplicação da teoria monista, adotada pelo Código Penal.
+Diante do exposto, reconsidero a decisão agravada, com a finalidade de conhecer do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
