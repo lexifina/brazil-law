@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DANIEL GONCALVES DE SOUZA FERNANDES no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500032-72.2024.8.26.0556).
+Depreende-se dos autos que o paciente foi condenado à pena de 1 ano e 8 meses de reclusão, em regime inicial aberto, e 166 dias-multa, pela prática do delito previsto no art. 33, § 4º, da Lei n. 11.343/2006 (e-STJ fl. 38).
+Consoante apurado, foram apreendidos em sua posse 136,68g (cento e trinta e seis gramas e sessenta e oito centigramas) de cocaína (e-STJ fl. 29).
+A defesa e o Ministério Público interpuseram apelação perante o Tribunal de origem, que negou provimento ao recurso defensivo e deu parcial provimento ao recurso ministerial, redimensionando a pena do acusado para 6 anos de reclusão, em regime inicial fechado, e 600 dias-multa, nos termos da seguinte ementa (e-STJ fl. 159):
+APELAÇÃO CRIMINAL. Tráfico de drogas. Sentença condenatória, que aplicou a causa de diminuição prevista no art. 33, §4º da LD, fixando regime aberto e substituindo a pena nos moldes do art. 44 do CP. Recurso da Defesa com arguição de nulidade, ante a suposta violência policial. Preliminar afastada. Uso de força física moderada, ante a comprovada resistência do réu. Pretensão absolutória que não prospera, pois comprovadas a autoria e materialidade delitivas, através da apreensão dos entorpecentes, corroborada pela palavra uníssona dos policiais. Recurso do Ministério Público. Reconhecimento da majorante de ordem objetiva prevista no art. 40, inciso III, em razão da traficância nas proximidades de ambiente escolar e hospitalar. Pena-base mantida no mínimo legal. Afastamento do privilégio, pois ausentes os requisitos legais. Fixação de regime fechado. RECURSO DA DEFESA IMPROVIDO. RECURSO DO MINISTÉRIO PÚBLICO PARCIALMENTE PROVIDO.
+Daí o presente writ, no qual a defesa sustenta nulidade das provas, uma vez que produzidas mediante busca pessoal ilegal, realizada mediante tortura e violência policial.
+Alega que "a violência policial no momento da abordagem, macula a prisão e todas as evidências coletadas sob o contexto de agressão, implicando na ausência de prova da materialidade  " (e-STJ fl. 6).
+Requer, liminarmente, a suspensão do processo de origem até o julgamento definitivo do presente writ. No mérito, pede o reconhecimento da nulidade apontada e a consequente absolvição do paciente.
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio, seja por ter sido impetrado concomitantemente, seja por estar ainda escoando o prazo para a interposição de recurso previsto em regra mento legal e regimental, mormente quando não se verifica flagrante ilegalidade apta a atrair a concessão da ordem de ofício, como na espécie.
+Nesse mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ .. (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+EMENTA PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+Ante todo o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
