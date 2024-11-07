@@ -1,0 +1,15 @@
+DECISÃO
+LUIZ HENRIQUE RIBAS DE OLIVEIRA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo de Execução n. 1.0000.24.284102-1/001, em que foi cassada a decisão "que absolveu o apenado da falta grave" (fl. 12).
+Depreende-se dos autos que, "durante o cumprimento da pena em regime fechado, sobreveio aos autos a notícia da prática de falta grave cometida pelo apenado, consistente na posse indevida de 01 (um) aparelho celular, 01 (um) carregador e 01 (um) chip de aparelho celular, no dia 18/10/2022 (seq. 169.1)" (fl. 13).
+Assere a defesa que "a hipótese dos autos diz respeito à autoria desconhecida, porquanto não se sabe quem é o verdadeiro proprietário dos objetos localizados, até porque, foram encontrados no interior da cela onde vários detentos se abrigavam" (fl. 8).
+Todavia, no que tange à autoria da infração disciplinar, destacou-se que "os policiais penais foram uníssonos em afirmar que o apenado assumiu a propriedade dos materiais encontrados, bem como que assumiu a propriedade do aparelho no processo administrativo. As declarações dos policiais penais assumem relevante importância uma vez que, quando em consonância com as demais provas dos autos, possuem presunção de veracidade, só podendo ser desconstituídos mediante produção de prova contrária ou se comprovadamente prestados com má-fé" (fl. 15, grifei).
+A esse respeito, segundo entendimento consolidado neste Superior Tribunal, não há óbice à utilização de habeas corpus quando, havendo lesão ou ameaça de lesão à liberdade de locomoção do paciente, tratar-se de matéria exclusivamente de direito e quando não houver a necessidade de dilação probatória.
+No entanto, para que se perquira a suposta ausência de indícios de autoria, de forma a permitir a anulação do registro da infração disciplinar grave, alcançando conclusão diversa da exarada pela Corte de origem, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de a Corte de origem e este Superior Tribunal apreciarem o pedido formulado no writ. Confira-se:
+ ..
+I - A concessão do benefício da progressão de regime pressupõe tenha o reeducando preenchido os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112 da Lei de Execuções Penais.
+II - Tendo sido o apenado punido pela prática de faltas disciplinares no curso da execução, legítima a conclusão das instâncias ordinárias de que ele não perfaz o requisito subjetivo necessário à obtenção da progressão de regime (Precedentes).
+III - Ademais, esta Corte possui entendimento consolidado no sentido de ser inviável, na via estreita do habeas corpus, a dilação probatória necessária para o exame amplo e profundado da conduta carcerária do apenado, a fim de se vislumbrar possível inversão do que restou decidido pelo eg. Tribunal a quo (Precedentes).
+Agravo regimental desprovido (AgInt no HC n. 339.977/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 10/5/2016, destaquei).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
