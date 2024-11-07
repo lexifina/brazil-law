@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANDRÉ LUIS MELO DOS SANTOS contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ assim ementado (fl. 349):
+"APELAÇÃO CRIMINAL - ROUBO - ART. 157, § 2o, II DO CP - ART. 157, § 2º-A, I DO CP - PENA BASE - FUNDAMENTAÇÃO ADEQUADA - MANTIDA. Existentes mais de uma causa de aumento no crime de roubo, é possível o deslocamento de majorante para que seja usada na fixação da pena- base e a manutenção de outra como causa de aumento de pena. Pena base mantida acima do mínimo legal. Recurso improvido. Unânime. "
+Nas razões do recurso especial (fls. 360/370), o recorrente alega violação ao artigo 59, do Código Penal, ao argumento de que o Tribunal de origem, ante fundamentação inidônea, exasperou a pena basilar negativando as circunstâncias judiciais referente às circunstâncias do crime, consequências e culpabilidade.
+Apresentadas contrarrazões (fls. 373/376).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso especial (fls. 391/394).
+É o relatório. DECIDO.
+Nas razões do recurso especial, a Defesa pleiteia o afastamento da negativação das circunstâncias judiciais das circunstâncias do crime, das consequências e da culpabilidade, e o consequente redimensionamento da pena basilar para o seu mínimo legal.
+Compulsando as teses aventadas na seara recursal, tenho que suas premissas não merecem prosperar.
+A respeito da dosimetria da pena, o Tribunal de origem consignou que (fl. 353):
+"(..) A pena base foi fixada pelo MM. Juízo a quo em 6 anos e 3 meses de reclusão e 142 dias multa, considerando como desfavoráveis as circunstâncias referentes à culpabilidade, às circunstâncias e consequências do delito, as quais mantenho, eis que bem fundamentadas, como a seguir:
+A culpabilidade foi valorada negativamente, uma vez que excedeu o grau de reprovabilidade comum ao delito, pois os réus, todos fortemente armados, bloquearam o veículo da vítima em plena via pública, criando pânico e terror, demonstrando ousadia e audácia na prática criminosa, merecendo maior censura em sua conduta.
+As circunstâncias do crime também são desfavoráveis, uma vez que os fatos ocorreram na madrugada, enquanto a rua estava deserta.
+As consequências do delito devem permanecer valoradas negativamente, eis que as vítimas que estavam dentro do veículo (UBER) não recuperaram seus pertences.
+Diante de tais considerações, bem como da presença de três circunstâncias negativas, mantenho a pena base em 6 anos e 3 meses de reclusão e 142 dias multa, afastando a pretensão do recorrente de fixá-la no mínimo legal. (..)"
+
+Consoante  se  depreende  dos  excertos  acima  transcritos,  o  Tribunal  de  origem, através da análise dos elementos probatórios,  concluiu  pela existência de elementos concretos e coesos a ensejar a exasperação da pena basilar imputada ao paciente, tendo em vista que o acusado, a fim de concretizar a empreitada criminosa, aplicou violência que extrapola o normal ao tipo, consistente no concurso de 5 pessoas armadas, que abordaram um veículo de aplicativo, bloqueando-o, criando pânico e terror, o que caracteriza maior culpabilidade da conduta; as circunstâncias do crime excederam à normalidade, visto que o delito em apreço foi realizado em rua deserta durante a madrugada; e, quanto à avaliação das consequências do crime, restou consignado que, à exceção do veículo, não houve restituição dos bens subtraídos das vítimas.
+Entendimento contrário esbarra no óbice da Súmula n. 7, STJ, uma vez que é inviável o reexame de fatos e provas a fim de afastar as conclusões das instâncias de origem.
+Nesse sentido:
+"(..) 4. As instâncias ordinárias consideraram desfavorável a circunstância judicial da culpabilidade do agente, tendo em vista a maior reprovabilidade da conduta, destacando que o delito foi praticado de forma premeditada entre os réus, ambos empresários experientes, donos de um grupo empresarial atuante no ramo frigorífico no mercado nacional e internacional. Nesse contexto, é certo que a alteração das premissas fáticas utilizadas para justificar maior culpabilidade, como busca a defesa, demandaria o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ. (..)"
+(AgRg no AREsp n. 2.145.082/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 12/3/2024)
+"(..) 3. O agravante sustenta que houve má valoração referente às circunstâncias judiciais na fixação da pena-base, no entanto, o Tribunal de origem fundamentou negativamente tal vetor, tendo em vista o crime ter sido praticado dentro de unidade de polícia militar. Além de o fundamento utilizado não ser inidôneo, fazer uma nova análise demandaria incursão nas provas dos autos, fazendo incidir a Súmula n. 7 do STJ. (..)"
+(AgRg no REsp n. 1.970.533/CE, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do Tjdft), DJe de 26/10/2023.)
+"(..) 5. No caso, a pena-base foi exasperada em razão da maior reprovabilidade das condutas (culpabilidade e consequências dos crimes de fraude à licitação e desvio de verbas públicas), evidenciadas pelo fato do agravante ser membro da Comissão de Licitação e Secretário Municipal, além do efetivo prejuízo causado à municipalidade na área da educação. Trata-se de fundamentação idônea, baseada em elementos concretos não inerentes ao tipo penal, cuja avaliação está situada no campo da discricionariedade do julgador. Compreensão diversa que esbarra no óbice da Súmula n. 7 desta Corte. (..)"
+(AgRg no AREsp n. 2.099.645/BA, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 26/5/2023.)
+Ante o exposto, com fulcro no art. 255, §4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS. REEXAME DE FATOS E PROVAS. SÚMULA N. 7, STJ. TEMA REPETITIVO 1214. SÚMULA N. 83, STJ. AGRAVO CONHECIDO PAR A NÃO CONHECER DO RECURSO ESPECIAL.
