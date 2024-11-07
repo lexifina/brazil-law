@@ -1,0 +1,28 @@
+DECISÃO
+O presente writ, impetrado em benefício de JOAO PEDRO MONTEIRO DA CUNHA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1500367-87.2022.8.26.0580), não comporta acolhimento. Eis a ementa do acórdão impugnado (fl. 41):
+Preliminar Alegada irregularidades quando da prisão em flagrante Inexistentes Se houvessem, foram superadas pela decretação da prisão preventiva, ocasião em que a legalidade, requisitos e necessidade da segregação foram analisados Prefacial rejeitada.
+Tráfico de Drogas Absolvição ou desclassificação para artigo 28 da Lei nº 11.343/06 Materialidade e autoria suficientemente demonstradas Condenação mantida.
+Concessão da justiça gratuita Hipossuficiência deverá ser comprovada no Juízo de execução.
+Recurso improvido.
+Com efeito, busca a impetração a absolvição pela ausência de provas da traficância ou, ao menos, a desclassificação do crime de tráfico de drogas para a conduta de posse de entorpecente para consumo pessoal. Subsidiariamente, postula a redução da pena pelo afastamento da valoração negativa das circunstâncias judiciais e pelo reconhecimento do tráfico privilegiado.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois as circunstâncias da apreensão da droga, aliadas à quantidade de droga apreendida e à existência de depoimentos que denotam a comercialização do entorpecente por parte do acusado, demonstram que não há dúvida a ser resolvida em favor do paciente. Veja-se (fl. 50):
+ ..  nada do que alegou a combativa Defesa foi capaz de abalar o fundado convencimento sobre a configuração da prática do delito de tráfico de drogas, além da efetiva responsabilidade penal da apelante nos fatos narrados na denúncia, robustez do conjunto probatório produzido, no caso, confissão, apreensão da droga e depoimentos das testemunhas policiais que encontram sintonia com os demais elementos de provas colhidos nos autos.
+A propósito, confira-se o precedente:
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ART. 33, CAPUT, DA LEI 11.343/2006. DESCLASSIFICAÇÃO PARA USO DE DROGAS. IMPOSSIBILIDADE. ELEMENTOS MÍNIMOS INDICATIVOS DA DESTINAÇÃO MERCANTIL DA DROGA. PEQUENA QUANTIDADE ASSOCIADA A CONTEXTO DE BALANÇA DE PRECISÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA INADEQUADA. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Max Willian Machado, condenado à pena de 6 anos e 3 meses de reclusão, em regime semiaberto, e ao pagamento de 625 dias-multa, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei 11.343/2006). A defesa requer a desclassificação do delito para o crime de posse de drogas para consumo próprio (art. 28 da Lei 11.343/2006), alegando que a quantidade de droga apreendida indicaria consumo pessoal.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a conduta do paciente, conforme descrita nos autos, caracteriza o crime de tráfico de drogas ou o crime de posse de droga para consumo próprio.
+III. RAZÕES DE DECIDIR
+3. A controvérsia acerca da tipificação da conduta não demanda reexame de provas, mas revaloração de fatos incontroversos e análise jurídica da subsunção dos fatos ao tipo penal. A jurisprudência desta Corte admite a análise da desclassificação em habeas corpus quando não há necessidade de revolvimento probatório.
+4. O art. 28, § 2º, da Lei 11.343/2006, prevê parâmetros para diferenciar a posse para uso próprio e o tráfico de drogas, considerando fatores como quantidade, natureza da substância, local dos fatos e circunstâncias pessoais do agente.
+5. No caso, embora a quantidade de droga apreendida seja pequena (4, 1 g de maconha), o contexto da apreensão, incluindo a presença de uma balança de precisão e os depoimentos que indicam o envolvimento do paciente com o narcotráfico, foram suficientes para justificar a condenação por tráfico, conforme fundamentado pelas instâncias ordinárias.
+6. A revaloração dos elementos probatórios que apontam para o tráfico de drogas, inclusive a existência de aparato típico do comércio ilícito de entorpecentes, impede a desclassificação do delito, sendo necessária incursão no acervo fático-probatório, o que é inviável em sede de habeas corpus.
+IV. HABEAS CORPUS DENEGADO.
+(HC n. 827.365/SC, Ministra Daniela Teixeira, Quinta Turma, DJe 21/10/2024 - grifo nosso).
+Também não se verifica manifesta ilegalidade na dosimetria da pena, observada a discricionariedade vinculada do Magistrado (fls. 51/52) e a existência de fundamentos idôneos ao se afastar a incidência do redutor do tráfico privilegiado (fl. 52):
+ ..  embora primário, ficou demonstrado através do conjunto probatório que as atividades exercidas pelo apelante não eram as de um traficante ocasional e solitário; pelo contrário, a ele foi confiado o armazenamento e venda de considerável carga de entorpecentes, sem olvido da localização de máquina de cartão de crédito, envelopes para embalar as drogas, três aparelhos celulares e um caderno contendo informações sobre o tráfico, o que demonstra não ser um novato na atividade criminosa, mas sim sua habitualidade e dedicação à narcotraficância, se utilizando dela como meio de vida, não reunindo mérito para o benefício.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DESCLASSIFICAÇÃO DO DELITO PARA A CONDUTA DE POSSE DE DROGAS DESTINADA A CONSUMO PRÓPRIO. INVIABILIDADE. CIRCUNSTÂNCIAS QUE DENOTAM A TRAFICÂNCIA. DOSIMETRIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. Ordem denegada.
