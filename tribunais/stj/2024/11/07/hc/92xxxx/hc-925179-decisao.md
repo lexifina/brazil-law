@@ -1,0 +1,13 @@
+DECISÃO
+EDUARDO ROBERTO PACHECO alega sofrer constrangimento ilegal diante de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500243-47.2019.8.26.0439.
+Extrai-se dos autos que o paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, mais multa, pela prática do crime de tráfico de drogas.
+Nesta Corte, a defesa postula "a concessão da ordem para reconhecer a ilicitude da apreensão de entorpecentes na residência do paciente em nítida violação de domicílio, com seu consequente desentranhamento, e posterior absolvição do paciente por insuficiência de provas quanto à materialidade, nos termos do art. 386, inciso II do Código de Processo Penal. Subsidiariamente, a desclassificação da conduta para o art. 28 da Lei de Drogas" (fls. 14-15).
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+Decido.
+Este habeas corpus se insurge contra acórdão proferido em 20/2/2020. Verifico, com base nos documentos acostados aos autos, que o feito transitou em julgado em 18/5/2020 (fl. 65). A impetração em análise foi manejada em 26/6/2024, mais de 4 anos após o trânsito em julgado da condenação, de modo que o presente writ é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
