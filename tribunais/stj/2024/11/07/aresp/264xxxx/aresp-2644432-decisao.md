@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de agravo interposto por TIAGO ARAUJO DE ANDRADE contra decisão que inadmitiu o recurso especial, oriundo de acórdão exarado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado (e-STJ fls. 449-451):
+APELAÇÃO CRIMINAL. ART. 155, § 4º, IV, C/C § 2º, DO CÓDIGO PENAL. SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA TÉCNICA.
+ ..
+3. Não se trata de hipótese de crime impossível. Como cediço, o aparato de segurança utilizado pelos lojistas apenas reduz a possibilidade de furtos tratando-se de medidas meramente preventivas. A adoção dessas providências não faz com que se torne impossível a consumação do delito de furto.  ..  Para caracterizar crime impossível, a ineficácia do meio e a impropriedade do objeto devem ser absolutas, de modo a não se justificar a punição do agente. Todavia, havendo concreta possibilidade de sucesso da empreitada criminosa, mesmo que mínima, não há falar-se em crime impossível. O Superior Tribunal de Justiça, com o escopo de dirimir controvérsias em torno do tema, editou a Súmula 567, cujo verbete ostenta a seguinte orientação: Súmula 567/STJ - Sistema de vigilância realizado por monitoramento eletrônico ou por existência de segurança no interior de estabelecimento comercial, por si só, não torna impossível a configuração do crime de furto.
+4. Pretende a aguerrida Defesa, ainda, seja reconhecido, alternativamente, o princípio da insignificância ou bagatela.  ..  In casu, conforme se colhe da prova oral e do auto de apreensão (index 19), tratava- se de 05 unidades de peças de picanha, no valor total de cerca de R$ 302,27, que à época representavam cerca de 25% do salário-mínimo. Ademais, verifico que o Réu, consoante sua FAC com esclarecimentos (indexes 37 e 46), apesar de tecnicamente primário, possui três anotações referentes a processos em curso por fatos anteriores, também por crimes de furto, bem como uma anotação por crime de associação para o tráfico de drogas duplamente majorado e posse ilegal de artefato explosivo.  ..  Não se aplica, in casu, pois, o princípio da bagatela. No entanto, o Juiz a quo aplicou a regra do furto privilegiado, do que não recorreu o MP.
+ ..
+9. NEGADO PROVIMENTO AO RECURSO DEFENSIVO.
+Consta dos autos que o agravante foi absolvido pelo Juízo singular, na forma do art. 386, I e VII, do CPP, da imputada prática do delito de ameaça e, na mesma assentada, condenado como incurso nas sanções do art. 155, § § 2º e 4º, IV, do CP, à pena privativa de liberdade de 01 (um) ano e 04 (quatro) meses de reclusão, em regime inicial aberto, acrescida do pagamento de 06 (seis) dias-multa, oportunidade em que substituída a reprimenda corporal por duas penas restritivas de direitos (e-STJ fls. 327-331).
+Na sequência, a Corte de origem negou provimento ao apelo defensivo (e-STJ fls. 449-463).
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, a Defesa aponta, de forma cumulativa:
+a) negativa de vigência do art. 17 do CP (e-STJ fl. 489);
+Para tanto, assevera (em apertada síntese) que, no caso em tela, a existência de sistema de vigilância e de segurança, no estabelecimento comercial (supermercado) (e-STJ fl. 492) tornou impossível a consumação do furto denunciado.
+Neste cenário, pugna pelo reconhecimento do crime impossível (e-STJ fl. 496), com a conseguinte absolvição do increpado.
+b) usurpação do art. 155, § 2º, IV, do CP (e-STJ fl. 497), sob o argumento de que, na hipótese vertente, houve a (frustrada) tentativa do furto de 05 de peças de picanha (e-STJ fl. 500), ulteriormente restituídas à vítima (e-STJ fl. 501).
+Nesse contexto, permeado pela atipicidade "material" da conduta denunciada e pelo reduzido grau de reprovabilidade (e-STJ fl. 500) evidenciado, roga - à luz dos subjacentes princípios da insignificância e da intervenção mínima Estatal - pela absolvição do acusado, pois, em que pese contenha anotações em sua FAC (e-STJ fl. 503), é "tecnicamente" primário.
+Contrarrazões pelo Parquet estadual (e-STJ fls. 510-517).
+O Tribunal a quo inadmitiu o apelo especial com base na incidência da Súmula n. 83/STJ, consubstanciada: a) na consonância do aresto recorrido ao entendimento desta Corte, ao afastar o crime bagatelar, pois o valor da res furtiva chega a 25% do valor do salário-mínimo vigente, à época dos fatos (e-STJ fl. 527); b) na inteligência da Súmula 567/STJ (e-STJ fls. 519-533).
+Parecer do Ministério Público Federal, na forma dos arts. 62 e 64, X, ambos do RISTJ (e-STJ fls. 586-593).
+É o relatório.
+DECIDO.
+De início, ao se cotejar a decisão de inadmissibilidade a quo (e-STJ fls. 519-533) e as razões do presente agravo (e-STJ fls. 547-556), depreende-se a ausência de (específica e pormenorizada) impugnação à Súmula n. 83/STJ, pela vertente da consonância do aresto recorrido ao entendimento perfilhado por esta Corte, ao afastar a pretensa hipótese de crime bagatelar, pois
+o valor da res furtiva chega a 25% do valor do salário-mínimo vigente, à época dos fatos (e-STJ fl. 527, grifamos).
+Neste quadrante, conforme (oportunamente) sublinhado pela douta Procuradoria-Geral da Rep ública, ao corroborar o fundamento de inadmissão recursal alhures,
+a jurisprudência do Superior Tribunal de Justiça também aponta o parâmetro da décima parte do salário-mínimo vigente ao tempo da infração penal, para aferição da relevância da lesão patrimonial. Sobre o tema, transcrevo o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. FURTO SIMPLES. TRANCAMENTO. INSIGNIFICÂNCIA. IMPOSSIBILIDADE. VALOR DA RES. REITERAÇÃO DELITIVA. RECURSO DESPROVIDO.
+ ..
+2. Na espécie, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, pois está-se diante de objetos avaliados em aproximadamente 352,09 (trezentos e cinquenta e dois reais e nove centavos, e-STJ fl. 328), quantia essa que não pode ser tida por ínfima, sobretudo se considerado que representa mais de 10% do salário mínimo vigente à época dos fatos.
+3. Outrossim, segundo a jurisprudência desta Corte Superior, não é socialmente recomendável a aplicação do princípio da insignificância à espécie, dada a ausência de mínima ofensividade da conduta, uma vez constatada a habitualidade delitiva do agente diante de ações penais em seu desfavor (AgRg no HC n. 795.854/SC, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 14/8/2023, D Je de 17/8/2023 ).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 863.367/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024) (e-STJ fl. 582, grifamos).
+Outrossim , não se considera infirmado - pela inteligência da Súmula n. 182/STJ - o óbice encartado na Súmula n. 83/STJ quando o agravante não colaciona, em suas razões, julgados paradigmas com pertinência temática e contemporâneos, necessários ao (efetivo) cotejo analítico com o aresto objurgado e consectária aferição de eventual dissonância jurisprudencial.
+Nessa perspectiva:
+PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL.  .. . AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA INSUFICIÊNCIA DE PROVAS. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PALAVRA DA VÍTIMA. ESPECIAL RELEVÂNCIA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. SÚMULA N. 83/STJ.
+ ..
+III - A superação da Súmula n. 83, STJ, exige a indicação de precedentes contemporâneos ou supervenientes capazes de alterar a modificação do julgado, ou a demonstração de distinguishing, o que não ocorreu no caso dos autos.
+IV - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n. 182, STJ. Precedentes.
+Agravo regimental não conhecido.
+(AgRg no REsp n. 2.094.487/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024, grifamos).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. AGRAVO EM RECURSO ESPECIAL QUE NÃO FOI CONHECIDO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O agravo em recurso especial não foi conhecido em razão da ausência de impugnação dos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial, o que atrai a incidência da Súmula n. 182 do STJ, por não atendimento da necessária dialeticidade recursal.
+3. Inadmitido o recurso especial com fundamento na Súmula n. 83 do STJ, "é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese" (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023).
+4. As razões do agravo regimental não modificam a conclusão da decisão recorrida, uma vez que no agravo em recurso especial não se constata o enfrentamento suficiente dos fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial.
+5. Agravo regimental improvido.
+(AgRg no AREsp n. 2.571.050/RS, relator Ministro Og Fernandes, Sexta Turma, julgado em 23/10/2024, DJe de 25/10/2024, grifamos).
+Noutro giro, conquanto a aguerrida Defensoria Pública assevere, em suas razões recursais, que não busca o reexame e revolvimento da matéria fática (Súmulas 279, do STF, e 7, do STJ) (e-STJ fl. 551, grifamos), impende frisar que o epigrafado fundamento sequer fora ventilado no decisum agravado.
+Tal delineamento denota - por força do subjacente regramento do devido processo legal - que as razões recursais (na extensão destacada) encontram-se dissociadas dos fundamentos externados na decisão agravada, de modo a atrair a incidência da Súmula n. 182/STJ.
+Em situação análoga, esta Corte já pontuou que, não se conhece do recurso:
+cujas razões apresentam-se dissociadas do fundamento da decisão agravada. Incidência, por analogia, das Súmulas n.os 182/STJ e 284/STF (AgRg no REsp n. 1.056.129/MG, relatora Ministra Laurita Vaz, Quinta Turma, julgado em 12/8/2008, DJe de 15/9/2008, grifamos).
+Noutros casos parelhos:
+As razões do agravo  ..  estão dissociadas dos fundamentos da decisão agravada. Portanto, houve desrespeito ao princípio da dialeticidade recursal, atraindo a incidência da Súmula n. 182 do STJ (AgRg no AREsp n. 2.399.208/BA, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023, grifamos).
+A argumentação desenvolvida pela agravante encontra-se dissociada dos fundamentos da decisão agravada. Aplicação da Súmula n. 182/STJ (AgRg no REsp n. 1.058.817/PR, relator Ministro Jorge Mussi, Quinta Turma, julgado em 3/3/2015, DJe de 12/3/2015, grifamos).
+Deveras, a Corte Especial do Superior Tribunal de Justiça pacificou orientação no sentido de que, a falta de (correspondente e estratificado) ataque a "todos" os fundamentos da decisão que inadmitiu o recurso especial obsta - por ausência de "dialeticidade - o conhecimento do agravo, nos termos do art. 932, III, CPC/2015, do art. 253, parágrafo único, I, do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+A propósito:
+ o  provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte Agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018, grifamos).
+Com igual perspectiva:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182 do STJ.
+2. Na hipótese, o agravante deixou de refutar especificamente os fundamentos de inadmissão do recurso especial (no caso, Súmulas 7 e 83 do STJ), incidindo, portanto, o óbice da Súmula 182 do STJ.
+3. "Não ultrapassado o juízo de admissibilidade dos recursos, inviável a análise das questões de mérito neles deduzidas" (AgRg no AREsp 1.534.025/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.628.916/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024, grifamos).
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. RECURSO QUE NÃO INFIRMOU, DE FORMA ESPECÍFICA, O FUNDAMENTO DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL (SÚMULA 83/STJ). VERIFICAÇÃO. OCORRÊNCIA. INADMISSIBILIDADE. IDÔNEA APLICAÇÃO DA SÚMULA 182/STJ. VIOLAÇÃO DO ART. 69, VII, DO CPP. PEDIDO DE DECLÍNIO DE COMPETÊNCIA. RESTRIÇÃO AO FORO ESPECIAL POR PRERROGATIVA DE FUNÇÃO. PREFEITO MUNICIPAL. APLICAÇÃO DE ENTENDIMENTO DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL (QO NA AP N. 937).
+1. O recurso especial não foi conhecido em razão do óbice constante da Súmula 83/STJ.
+2. A insurgência não merece prosperar, haja vista o agravante não ter atacado, de forma específica, o fundamento da decisão agravada, incidindo, no caso, a Súmula 182/STJ.
+3. O simples confronto entre os fundamentos da decisão agravada e as razões do agravo interno permitem afirmar que a parte agravante apresentou impugnação genérica, sem atacar especificamente os fundamentos da decisão agravada.  ..  A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.". (AgRg no REsp n. 1.486.448/RJ, Ministro Mauro Campbell Marques, Segunda Turma, DJe 1º/2/2022).
+ ..
+6. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.011.402/BA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/5/2024, DJe de 10/5/2024, grifamos).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
