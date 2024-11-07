@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto TRANSPORTES TRANSVIDAL S. A. (TRANSVIDAL) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida. CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, TRANSVIDAL alegou violação dos arts. 8º, parágrafo único da Lei n.º 10.209/2001, inserido pela Lei n.º 14.229/2021, em seu artigo 7º, sustentando a aplicação do prazo prescricional decenal, nos termos do art. 205 do CC/2002 e a partir da data de sua publicação.
+Em relação a alegada violação dos arts. 8º, parágrafo único da Lei n.º 10.209/2001 e 7º da Lei n.º 14.229/2021, bem como o dissídio jurisprudencial, no que concerne o prazo prescricional, o Tribunal local manifestou-se nos seguintes termos, no que interessa:
+De plano, pontuo que o julgamento monocrático do Agravo de Instrumento não padece de qualquer vício procedimental ou inconstitucionalidade, isso porque encontra amparo legal no artigo 932, VIII, do Código de Processo Civil, Súmula 568 do Superior Tribunal de Justiça e artigo 206 do Regimento Interno desta Corte.
+Adoto as razões de decidir postas na decisão agravada:
+"Presentes os pressupostos de admissibilidade, conheço do recurso.
+Vê-se da ação de reparação de danos n. 5015786-32.2022.8.21.0013, que a parte autora pretende receber indenização pelo frete realizado nos anos de 2013 e 2014, conforme contratos acostados aos autos (evento 1, OUT15 -evento 1, OUT16 - evento 1, OUT17).
+Nessa linha, ajuizou a demanda em 14/10/2022 (evento 1, INIC1), portanto, depois do início de vigência da alteração dada pela Lei nº. 14.229/2021, que implementou a inclusão do parágrafo único do art. 8º da Lei nº. 10.2009/2001, o qual dispõe que "Prescreve em 12 (doze) meses o prazo para cobrança das penas de multa ou da indenização a que se refere o caput deste artigo, contado da data da realização do transporte".
+Muito embora o texto da referida norma não contenha ressalvas sobre eventual retroação do novo prazo, de acordo com o recente entendimento do Superior Tribunal de Justiça, ao qual me alinho, aplicar-se-á de imediato o prazo prescricional previsto na referida norma. Ou seja, de acordo com o recente julgado, o prazo prescricional de doze meses, contados da realização do transporte, incluído pela nova lei será aplicado de imediato, inclusive naquelas situações em que o frete fora realizado antes da vigência da norma (21/10/2021), cuja ação para cobrança da multa pela ausência do adiantamento do vale pedágio foi distribuída após a nova lei.
+ ..
+Veja-se, portanto, que, de acordo com o atual entendimento da Corte Superior, considerando a ausência de norma que regule a questão da aplicação do prazo prescricional em relação às ações já em curso e, observado o disposto no art. 6º da Lei de Introdução às Normas do Direito brasileiro (LINDB), a regra geral é de aplicação imediata da lei.
+No caso dos autos, a distribuição da presente demanda ocorreu em 14/10/2022, ou seja, depois da vigência da Lei nº 14.229/2021, publicada em 21/10/2021, porém, antes de 21/10/2022, (um ano de sua vigência), de modo que o prazo prescricional de doze (12) meses, previsto no art. 8º, parágrafo único, da Lei 10.209/2001, não se implementou.
+No que diz respeito à prescrição trienal, a jurisprudência já firmou entendimento no sentido de que o prazo prescricional em demandas em que a parte busca a indenização de que trata o art. 8º da Lei 10.209/01, é decenal, pois aplicável o artigo 205 do Código Civil, considerando a data em que realizado o frete.
+ ..
+Dessa forma, comprovado que o transporte foi realizado nos anos de 2013 e 2014, bem assim que a demanda foi ajuizada antes de implementado 01 (um) ano da vigência da alteração legislativa, de qualquer sorte, vai afastada a alegação da prescrição, seja decenal, trienal ou anual.
+Portanto, nenhum dos prazos prescricionais apontados pela parte agravante foram implementados. (e-STJ, fls. 159/163).  GRIFOU-SE .
+Nesse contexto, o Tribunal local estaria em sintonia com a orientação firmada nesta Corte no sentido de que " ..  4. Considerando que a indenização devida em razão do não adiantamento do vale-pedágio (art. 8º da Lei nº 10.209/2001) decorre da existência de uma relação contratual entre o transportador e o embarcador, esta Corte Superior vinha se manifestando no sentido da incidência do prazo prescricional decenal (art. 205 do CC) à pretensão de cobrança.
+No entanto, a Lei nº 14.229/2021 acrescentou o parágrafo único ao art. 8º da Lei nº 10.209/2001, que passou a prever o prazo prescricional de 12 meses.
+A contagem desse novo prazo somente tem início a partir da entrada em vigor da lei que o estipulou, sob pena de se chancelar a possibilidade de consumação do lapso temporal antes mesmo de a lei existir no cenário jurídico.
+Na espécie, não se aplica o prazo prescricional de 12 (doze) meses, mas sim o decenal, tendo em vista que, quando do ajuizamento da ação, a lei em questão sequer estava em vigor. (REsp n. 2.043.327/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/11/2023, DJe de 13/11/2023.)
+Nesse sentido os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO PARA NEGAR PROVIMENTO AO APELO NOBRE. INSURGÊNCIA DA AGRAVANTE.
+ .. ;
+2. Nos termos da jurisprudência deste STJ, firmada antes do advento da Lei n. 14.229/21, a cobrança de vale-pedágio (Lei n. 10.209/01) estava sujeita ao prazo prescricional decenal (artigo 205 do CC). Precedentes. 2.1. O prazo anual introduzido pela Lei n. 14.229/21 somente pode ser computado a partir da vigência da nova lei, sob pena de levar à consumação do lapso temporal antes mesmo do advento de sua previsão legal. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.425.236/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024.) grifou-se.
+RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VALE-PEDÁGIO. PRAZO PRESCRICIONAL. PRESCRIÇÃO NÃO CONFIGURADA. REDUÇÃO DA INDENIZAÇÃO. SÚMULA 284/STF. SEGURO. AFASTAMENTO DA INDENIZAÇÃO. NÃO CABIMENTO. ÔNUS DA PROVA.
+1. Ação indenizatória ajuizada em 15/01/2021, da qual foi extraído o presente recurso especial interposto em 31/05/2022 e concluso ao gabinete em 31/11/2022.
+2. O propósito recursal consiste em definir a) o prazo prescricional aplicável à pretensão de exigir o pagamento da indenização prevista no art. 8º da Lei nº 10.209/2001, b) se essa indenização comporta redução; c) se a existência de seguro desobriga o transportador do pagamento da indenização e d) sobre qual das partes recai o ônus de comprovar o preenchimento dos requisitos para a incidência da penalidade prevista no art. 8º da Lei nº 10.209/2001.
+3. Acerca da alegação de necessidade de redução da indenização, a recorrente não indicou o dispositivo legal violado. Incide, pois, o óbice da Súmula 284/STF.
+4. Considerando que a indenização devida em razão do não adiantamento do vale-pedágio (art. 8º da Lei nº 10.209/2001) decorre da existência de uma relação contratual entre o transportador e o embarcador, esta Corte Superior vinha se manifestando no sentido da incidência do prazo prescricional decenal (art. 205 do CC) à pretensão de cobrança. No entanto, a Lei nº 14.229/2021 acrescentou o parágrafo único ao art. 8º da Lei nº 10.209/2001, que passou a prever o prazo prescricional de 12 meses. A contagem desse prazo novo somente tem início a partir da entrada em vigor da lei que o estipulou, sob pena de se chancelar a possibilidade de consumação do lapso temporal antes mesmo de a lei existir no cenário jurídico. Na espécie, não se aplica o prazo prescricional de 12 (doze) meses, mas sim o decenal, tendo em vista que, quando do ajuizamento da ação, a lei em questão sequer estava em vigor.
+5. O fato de a carga transportada ser objeto de contrato de seguro não desobriga o embarcador do pagamento da indenização devido à ausência de previsão legal. Ademais, a existência de seguro não afasta a responsabilidade do transportador se ele tiver sido o autor dos danos ocasionados à carga transportada, haja vista o direito de regresso assegurado no art. 786 do CC/02.
+6. Em observância ao art. 373, incisos I e II, do CPC/2015, é ônus do transportador comprovar a exclusividade do transporte, o valor devido em todas as praças de pedágio existentes na rota de viagem contratada, bem como o respectivo pagamento. Realizada tal comprovação, caberá ao embarcador demonstrar ter adiantado o vale-pedágio. Assim, impõe-se o retorno dos autos à origem, para que a Corte local reexamine a questão.
+7. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido.
+(REsp n. 2.043.327/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/11/2023, DJe de 13/11/2023.)
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Assim, estando o acórdão recorrido em sintonia com a orientação firmada nesta Corte, aplica-se, à espécie, a Súmula n. 83/STJ.
+Inaplicável ao caso a majoração de honorários advocatícios.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VALE-PEDÁGIO. PRAZO PRESCRICIONAL. PRESCRIÇÃO NÃO CONFIGURADA. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. INCIDÊNCIA DA SÚMULA N. 83/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
