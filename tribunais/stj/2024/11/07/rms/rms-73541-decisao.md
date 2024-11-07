@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por Vinicius Sales Santos contra o acórdão de fls. 840/848 proferido à unanimidade pelo Órgão Especial do Tribunal de Justiça de São Paulo, resumido na seguinte ementa:
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PRAZO EXTINTIVO CARACTERIZADO. Impetração datada de mais de 120 (cento e vinte) dias da expiração do concurso objeto. Segurança denegada, (fls.840/848).
+Nas razões recursais, fls. 852/860, o Autor insiste na tese veiculada na petição exordial, reafirmando a necessidade da intervenção do Poder Judiciário para determinar sua contratação, diante da flagrante violação ao princípio constitucional do concurso público. Não rebateu o fundamento relativo à decadência, apenas afirma que "a norma editalícia, genérica e abstrata, que prevê a apresentação de documentos em momento equivocado, somente terá eficácia para alterar a posição jurídica do inscrito quando for materializada e individualizada, afastando-o do certame". Por esse motivo, "o interesse de agir da requerente surgiu apenas quando o ato coator se efetivou", pelo que pede a reforma do aresto combatido e concessão da ordem para prosseguir no certame (fl. 859).
+Em contrarrazões, fls. 869/874, a Procuradoria Geral do Estado de São Paulo, na qualidade de integrante do polo passivo da impetração, argumenta que o prazo de validade deste concurso se encerrou em 18 de dezembro de 2022, entretanto o presente mandado de segurança foi impetrado em 08/08/2023, quase um ano após o suposto ato coator, de onde a decadência indicada pela Corte de origem. Afirma também o Estado que o autor não foi aprovado dentro do número de vagas no concurso público, motivo pelo qual não possui direito à nomeação.
+Em manifestação às fls. 880/886, o Ministério Público do Estado de São Paulo destaca que o acórdão recorrido denegou o mandado em razão da decadência. Não obstante, o recorrente, nas razões recursais, apenas tangenciou a questão referente ao início do prazo, sem combater o fundamento do acórdão recorrido, limitando-se a reproduzir a argumentação em torno do suposto direito líquido e certo pretendido. Assim, não houve observância do princípio da dialeticidade recursal, não se desincumbindo o recorrente do ônus da impugnação específica, fato que impede o conhecimento do recurso ordinário.
+O Ministério Público Federal, pelo Subprocurador-Geral da República Brasilino Pereira dos Santos, manifestou-se pelo não provimento do apelo, consoante o parecer de fls. 840/848, que se apresenta guarnecido pela seguinte ementa:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO. ALEGAÇÃO DE PRETERIÇÃO. PLEITO DE NOMEAÇÃO. IMPETRAÇÃO DO MANDAMUS MAIS DE 120 DIAS APÓS FINDO O PRAZO DE VALIDADE DO CERTAME. DECADÊNCIA RECONHECIDA. FUNDAMENTO NÃO REBATIDO. PRINCÍPIO DA DIALETICIDADE. PRECEDENTES. PARECER PELO DESPROVIMENTO DO RECURSO. (fls. 920/924).
+Recurso tempestivo.
+Representação regular (fl. 23).
+Benefício de gratuidade de justiça deferido pela Corte de origem (fl. 734).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Consoante expressamente prevê o art. 932, inciso III, do Código de Processo Civil, "incumbe ao relator  ..  não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Na hipótese que ora se apresenta ao exame desta Corte superior, observo que o tribunal estadual denegou a ordem, à unanimidade, por entender extinto o direito de impetrar recurso em mandado de segurança, em razão de decadência.
+Nas razões recursais, contudo, o recorrente limitou-se a tangenciar a questão referente ao início do prazo, sem refutar o fundamento do acórdão recorrido, restringindo-se a reiterar a argumentação acerca do alegado direito líquido e certo pretendido. Diante disso, não houve a devida observância do princípio da dialeticidade recursal, não sendo cumprido o ônus da impugnação específica.
+Nesse contexto, o apelo não merece ir para além do juízo de admissibilidade recursal, por falta de combate específico e integral aos fundamentos do aresto impugnado, como prescreve o diploma processual vigente.
+Com efeito, essa irregularidade, porque violadora do princípio da dialeticidade, impede, só por si, o conhecimento do recurso.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 932, III, DO CPC.
+1. A viabilidade do recurso ordinário pressupõe a demonstração de erro na concatenação dos juízos expostos na fundamentação do acórdão recorrido, não se mostrando suficiente a mera insurgência contra o comando contido no dispositivo, como, no caso, a denegação da ordem.
+2. Nas hipóteses em que as razões recursais não infirmam a totalidade dos fundamentos do acórdão recorrido, é dever, e não faculdade do Relator, não conhecer do recurso. Inteligência do art. 932, III, do CPC. Precedentes.
+3. Na hipótese ora examinada, apesar das alegações que agora faz o agravante, certo é que, nas razões do recurso ordinário, se limitou a discordar do acórdão recorrido e insistir nas teses da própria impetração.
+4. Agravo interno não provido.
+(AgInt no RMS 66.918/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 15/10/2021)
+ANTE O EXPOSTO, e com fundamento no art. 932, III, do CPC, não conheço do presente recurso ordinário, porquanto não houve i mpugnação específica e integral dos reais fundamentos do acórdão recorrido.
+Publique-se.
+EMENTA
