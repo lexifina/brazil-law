@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de MARCIO GONZAGA DE OLIVEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no julgamento da Apelação Criminal n. 5012449-05.2024.8.24.0038.
+Extrai-se dos autos que o paciente foi condenado à pena de 8 anos e 9 meses de reclusão, no regime inicial fechado, além do pagamento de 750 dias-multa, pela prática do crime tipificado no art. 33 da Lei n. 11.343/2006 (tráfico de drogas, por estar na posse de 10,3 gramas de crack e 8,3 gramas de maconha).
+O Tribunal de origem negou provimento à apelação interposta pelo paciente, nos termos do acórdão de fls. 51/58.
+No presente writ, a defesa busca a redução da pena-base, aduzindo que a quantidade de droga apreendida não seria elevada para justificar a sua majoração.
+O Ministério Público Federal elaborou parecer que recebeu o seguinte sumário:
+"PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. DOSIMETRIA. AUMENTO EM DECORRÊNCIA DA NATUREZA E DA QUANTIDADE DA DROGA. POUCA QUANTIDADE. CONCESSÃO DA ORDEM.
+1. A justificativa utilizada para a elevação da pena-base imposta ao paciente foi a natureza e quantidade da droga. Todavia, o paciente foi apreendido com pouca quantidade de droga, vale dizer, 10,3g de crack e 8,3g de maconha, o que não justifica o incremento da pena-base, nos termos do art. 42 da Lei de Drogas e do art. 59, do Código Penal.
+- Parecer pela concessão da ordem de habeas corpus." (fl. 313).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida. Todavia, considerando as alegações expostas na inicial, mostra-se razoável verificar a existência de eventual constrangimento ilegal.
+De início, registra-se que " ..  é indispensável atentar para o que disciplina o art. 42 da Lei n. 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente" (AgRg no AREsp n. 2.559.294/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024).
+Contudo, no caso dos autos, a natureza e a quantidade de droga apreendida (10,3 gramas de crack e 8,3 gramas de maconha) não evidenciam maior reprovabilidade do delito a justificar qualquer incremento na pena-base por este motivo. Assim, a reprimenda aplicada ao paciente deve ser diminuída, com a exclusão do percentual relativo ao art. 42 da Lei n. 11.343/06. Sobre o tema, confiram-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 3 G DE COCAÍNA, 14,5 G DE COCAÍNA, 7 G DE COCAÍNA, 20 PINOS DE COCAÍNA E 5 PINOS DE COCAÍNA. DOSIMETRIA. ALEGAÇÃO DE NÃO SER CABÍVEL A CAUSA DE DIMINUIÇÃO, EM FACE DE PROCEDIMENTOS INFRACIONAIS. DECISÃO MANTIDA. PRIMARIEDADE. RÉU SEM ANTECEDENTES. PENA-BASE NO PISO MÍNIMO. POUCA QUANTIDADE DE DROGAS.
+1. A existência de procedimentos infracionais por tráfico de drogas e por ter sido abordado duas vezes no mesmo dia, sendo preso, após ser apontado em denúncias anônimas, não leva à conclusão de que o paciente se dedique a atividade criminosa, até porque a presente quantidade de drogas não é excessiva, o paciente é primário e sem antecedentes e a pena-base foi fixada no piso mínimo.
+2. Agravo regimental improvido.
+(AgRg no HC n. 671.690/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/9/2021, DJe de 27/9/2021.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. JULGAMENTO LIMINAR DA IMPETRAÇÃO, SEM A PRÉVIA OITIVA DO REPRESENTANTE DO MINISTÉRIO PÚBLICO FEDERAL. POSSIBILIDADE. ORDEM CONCEDIDA, DE OFÍCIO. ART. 654, § 2.º, DO CPP. TRÁFICO DE DROGAS. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE DO MATERIAL ENTORPECENTE APREENDIDO QUE NÃO DESBORDA DO ORDINÁRIO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. REPRIMENDA REDUZIDA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+- Em se tratando de crime de tráfico de drogas, como no caso, o juiz deve considerar, com preponderância sobre o previsto no artigo 59, do Código Penal, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42, da Lei n. 11.343/2006. - Na hipótese, " n a primeira fase, a pena-base foi fixada acima do mínimo legal, na fração de 1/6, em razão da enorme quantidade de maconha apreendida" (fl. 19).
+Porém, ao contrário do que afirmado na origem, a quantidade de droga encontrada, embora não seja insignificante, também não desborda do ordinário das apreensões em flagrantes de tráfico - 536,9 gramas de maconha (e-STJ fl. 61) -, não autorizando o incremento punitivo, na primeira fase da dosimetria. Dessarte, correta a concessão da ordem, de ofício, para retornar a pena-base do agravado ao mínimo legal.
+- Agravo regimental desprovido.
+(AgRg no HC 684.082/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/08/2021.)
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. FIXAÇÃO DE REGIME FECHADO. IMPOSSIBILIDADE. PENA-BASE NO MÍNIMO LEGAL. FUNDAMENTAÇÃO ABSTRATA. SUBSTITUIÇÃO DA PENA CORPORAL. POSSIBILIDADE.
+1. Fixada a pena-base no mínimo legal e a pena definitiva em 1 ano, 11 meses e 10 dias para o delito de tráfico de drogas em razão da apreensão de 58g (cinquenta e oito gramas) de maconha, não cabe a fixação de regime inicial fechado em razão de considerações genéricas como ser o único regime que "se mostra suficiente à repressão e prevenção de tão grave delito, que tantas mazelas sociais têm proporcionado, tratando-se de crime que fomenta outras espécies de ilícitos penais e provoca a degradação do indivíduo e da família, tudo em troca de um único escopo, o lucro do traficante".
+2. Ordem concedida para, confirmada a liminar e acolhido o parecer ministerial, fixar o regime inicial aberto e substituir a pena corporal por restritivas de direitos.
+(HC 598.978/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 22/09/2020.)
+Assim, a pena-base fica reduzida para 6 anos e 8 meses de reclusão, em virtude da manutenção das circunstâncias do crime e dos maus antecedentes, na segunda fase é majorada para 7 anos e 9 meses pela reincidência, a qual torno definitiva, ante a inexistência de outro motivo que altere a sua quantificação.
+Ressalta-se que o regime permanece fechado, pois além de ter sido valorada negativamente duas circunstâncias judiciai s, o paciente é reincidente. A pena de multa permanece inalterada, por ter sido fixada de forma mais favorável ao paciente.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus. Todavia, concedo a ordem, de ofício, com a redução da pena do paciente para 7 anos e 9 meses de reclusão, mantidos os demais termos do acórdão atacado.
+Publique-se.
+Intimem-se.
+EMENTA
