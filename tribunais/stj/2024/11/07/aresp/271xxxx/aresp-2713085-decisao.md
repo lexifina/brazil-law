@@ -1,0 +1,31 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por VAMOS LOCAÇÃO DE CAMINHÕES, MÁQUINAS E EQUIPAMENTOS S/A, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/06/2024.
+Concluso ao gabinete em: 27/08/2024.
+Ação: monitória, ajuizada por VAMOS LOCAÇÃO DE CAMINHÕES, MÁQUINAS E EQUIPAMENTOS S/A, em face de BEMAVEN LTDA. (B. A. MEIO AMBIENTE LTDA.), JEAN DE JESUS NUNES e JEAN DE JESUS NUNES PARTICIPAÇÕES.
+Decisão interlocutória: determinou a suspensão do feito para aguardar o julgamento definitivo do recurso interposto nos autos da ação de obrigação de fazer, autuada sob nº 0805694-51.2022.8.14.0301, que tramita perante a 12ª Vara Cível e Empresarial de Belém/PA, no qual se discute, dentre outro, o foro competente para julgamento das ações.
+Acórdão: negou provimento ao Agravo de Instrumento interposto pela agravante, nos termos da seguinte ementa:
+"Agravo de Instrumento. Ação monitória. Decisão que determinou a suspensão do feito até julgamento do Recurso de Agravo de Instrumento interposto contra decisão proferida em ação que tramita perante a 12ª Vara Cível e Empresarial Belém/PA, ajuizada pelos réus, na qual se discute foro competente para julgamento das ações. Inconformismo da Autora. Não cabimento. Decisão que visa assegurar que os envolvidos não sejam prejudicados com decisões conflitantes, o que indica segurança jurídica. Recurso não provido." (e-STJ fl. 426)
+Embargos de Declaração: opostos, pela agravante, foram rejeitados. (e-STJ fl. 448/451)
+Recurso especial: alega violação dos arts. 11, 63, 313, V, a, b, 489, § 1º, IV, VI, 1.022, II, § único, II, CPC. Além de negativa de prestação jurisdicional, sustenta que: i) a constituição de título executivo judicial em favor da recorrente, na Monitória, não afetará os pedidos da Ação de obrigação de não fazer dos recorridos, ou seja, a concessão dos pedidos das ações em comento não implicará conflito, caso sejam concomitantemente deferidos; e, ii) se um contrato validamente pactuado entre as partes estabelece determinado foro de eleição, esta cláusula deve ser observada, conforme previsto no CPC.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, Terceira Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, Quarta Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da ocorrência da prejudicialidade entre as demandas, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "é de se reconhecer a potencial carga de prejudicialidade entre a ação Monitória proposta por VAMOS LOCAÇÕES DE CAMINHÕES (Proc. 1019376-70.2022.8.26.0361, em trâmite na 4ª Vara Cível do Foro de Mogi das Cruzes-SP) e a ação de obrigação de fazer ajuizada pela BEMAVEN LTDA. (B. A. MEIO AMBIENTE LTDA.) (Proc. 0805694-51.2022.8.14.0301, em trâmite na 12ª Vara Cível e Empresarial Belém/PA)", bem como de que "na ação ajuizada pela VAMOS LOCAÇÕES se pleiteia essencialmente o pagamento da quantia especificada na petição inicial (fls. 81 dos autos de origem), por outro lado, aquela proposta pela BEMAVEN LTDA. (B. A. MEIO AMBIENTE LTDA.) visa a retirada do nome junto ao cadastro de inadimplente e manutenção na posse dos veículos e com isso resta caracterizada a prejudicialidade, diante do risco de serem proferidas decisões conflitantes, como já ocorreu", assim também de que "ante a complexidade na solução das demandas e não havendo informações a respeito do julgamento do Agravo de Instrumento que tramita perante o Tribunal de Justiça do Estado do Pará, de rigor a suspensão do feito", além de que "com a concessão do efeito suspensivo, pleiteado por BEMAVEN LTDA. (B. A. MEIO AMBIENTE LTDA.), no Agravo de Instrumento, restaram declaradas nulas e sem efeito todas as decisões proferidas, inclusive, no que se refere a remessa dos autos à Comarca de Mogi das Cruzes/SP, até nova decisão", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação monitória.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
