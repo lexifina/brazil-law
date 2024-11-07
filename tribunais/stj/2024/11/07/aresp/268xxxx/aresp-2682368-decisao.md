@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por DANIEL SILVANO FERNANDES, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de compensação por danos morais, ajuizada pelo agravante, em face da agravada, na qual alega que foi inscrito no rol de inadimplentes pela agravada sem a notificação prévia, referente a débito no valor de R$ 3.255,35 (três mil, duzentos e cinquenta e cinco reais e trinta e cinco centavos). Pleiteia compensação por danos morais.
+Acórdão: manteve a decisão unipessoal do relator que negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+AGRAVO INTERNO CONTRA JULGAMENTO MONOCRÁTICO DE APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE CANCELAMENTO DE REGISTROS. CADASTROS DE INADIMPLENTES. NOTIFICAÇÃO PRÉVIA. DANO MORAL. PRESCRIÇÃO. MANUTENÇÃO DA DECISÃO.
+1. O prazo prescricional da ação de indenização por danos morais decorrente de inscrição indevida em cadastro de inadimplentes é de três anos, nos termos do artigo 206, § 3º, inciso V, do Código Civil.
+2. O prazo de prescrição tem a sua contagem iniciada quando o consumidor toma ciência do registro em seu nome. No caso dos autos, a prova revela que o registro desabonador que fundamenta o presente pedido indenizatório fora descoberto em 28/03/2017. A presente demanda, contudo, foi ajuizada apenas em 21/08/2021, quando há muito transcorrido o prazo prescricional trienal, reconhecido pelo STJ como sendo o aplicável à hipótese.
+3. Assim, considerando que desde a ciência da inscrição restritiva até o ajuizamento da presente demanda indenizatória transcorreram mais de três anos, é caso de extinção do processo, pela prescrição, forte no art. 487, II, do CPC.
+4. Manutenção, então, da decisão monocrática.
+AGRAVO INTERNO DESPROVIDO. (e-STJ Fl. 258)
+Decisão de admissibilidade do TJ/RS: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) ausência de violação do art. 489 do CPC; ii) ausência de violação do art. 1.022 do CPC; iii) incidência da Súmula 7 do STJ; iv) ausência de prequestionamento da matéria tratada no recurso especial; v) deficiência de fundamentação (Súmula 284/STF), e vi) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante reitera as teses expostas no apelo especial, sem contudo, impugnar os fundamentos da decisão de inadmissibilidade recursal proferida pelo Tribunal de origem.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) ausência de violação do art. 489 do CPC; ii) ausência de violação do art. 1.022 do CPC; iii) incidência da Súmula 7 do STJ; iv) ausência de prequestionamento da matéria tratada no recurso especial; v) deficiência de fundamentação (Súmula 284/STF), e vi) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados anteriormente para 20% sobre o valor atualizado da causa, observada a concessão de gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
