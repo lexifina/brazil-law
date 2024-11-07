@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo Federal da Vara com Juizado Especial Adjunto de Teófilo Otoni - Seção Judiciária de Minas Gerais em face do Juízo de Direito da 1ª Vara Cível, Criminal e de Execuções Criminais de Araçuaí - Minas Gerais nos autos de ação ajuizada contra o INSS objetivando a concessão de auxílio acidente.
+Consta do processado que a demanda foi ajuizada perante o Juízo da Vara Cível da Comarca de Araçuaí - MG, que declinou de sua competência para a Justiça Federal.
+O Juízo Federal da Vara com Juizado Especial Adjunto de Teófilo Otoni - Seção Judiciária de Minas Gerai, por sua vez, suscitou este conflito ao fundamento de que se cuida de benefício decorrente de acidente de trabalho.
+O Ministério Público Federal manifestou-se pela competência do Juízo suscitado, assim resumido o parecer:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. DEMANDA DE RESTABELECIMENTO DE BENEFÍCIO POR INCAPACIDADE ACIDENTÁRIO. RELAÇÃO COM ACIDENTE DE TRABALHO. COMPETENTE A JUSTIÇA ESTADUAL. PARECER PELO CONHECIMENTO DO CONFLITO DE COMPETÊNCIA PARA QUE SEJA DECLARADA A COMPETÊNCIA DO SUSCITADO.
+É o relatório.
+Consoante relatado, a parte autora ajuizou ação contra o INSS objetivando a concessão de benefício acidentário ao argumento de que, após sofrer acidente de trabalho, passou a receber auxílio acidente que foi cessado indevidamente. Sustenta que ficou com sequela definitiva, fazendo jus, portanto, ao auxílio acidente.
+Nesse cenário, verifica-se que o benefício em discussão no feito tem natureza acidentária, daí porque compete à Justiça Estadual processar e julgar a causa, a teor do contido no art. 109, inciso I, da Constituição Federal, bem como das Súmulas 15/STJ e 501/STF.
+Ao ensejo, confira-se:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. PEDIDO DE RESTABELECIMENTO DE AUXÍLIO-DOENÇA ACIDENTÁRIO, A SER CONVERTIDO EM APOSENTADORIA POR INVALIDEZ. COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA PROCESSAR E JULGAR AS LIDES DECORRENTES DE ACIDENTE DE TRABALHO. ART. 109, I, DA CF/88. SÚMULA 15/STJ. PRECEDENTES. CONFLITO CONHECIDO, PARA DECLARAR COMPETENTE O JUÍZO ESTADUAL SUSCITANTE.
+I. Conflito Negativo de Competência instaurado entre o Juízo Federal de Picos - SJ/PI, suscitado, e o Juízo de Direito da 1ª Vara de Picos/PI, suscitante.
+II. Na origem, trata-se de ação de restabelecimento de auxílio-doença, decorrente de acidente do trabalho, a ser convertido em aposentadoria por invalidez, ajuizada perante o Juízo Federal de Picos/PI.
+III. Sustenta a parte autora que requereu, na via administrativa, auxílio-doença acidentário, deferido pelo INSS, mas cujo pagamento foi posteriormente cessado, ao fundamento de inexistência de incapacidade laborativa. Assim, pretende restabelecer o benefício acidentário, a ser convertido em aposentadoria por invalidez.
+IV. Prevalece nesta Corte o entendimento de que "a competência para julgar as demandas que objetivam a concessão de benefício previdenciário relacionado a acidente de trabalho deve ser determinada em razão do pedido e da causa de pedir contidos na petição inicial. Isto porque, a definição do juiz competente é anterior a qualquer outro juízo de valor a respeito da demanda" (STJ, AgRg no AgRg no REsp 1.522.998/ES, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/09/2015). Na mesma linha:
+STJ, REsp 1.655.442/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/04/2017.
+V. No caso, a causa de pedir está diretamente atrelada ao acidente de trabalho, e a procedência do pedido de restabelecimento do auxílio-doença acidentário, a ser convertido em aposentadoria por invalidez, depende da investigação das consequências dele advindas, do que decorre a competência do Juízo Estadual, suscitante.
+VI. Em consonância com os precedentes desta Corte a respeito da matéria, a competência da Justiça Estadual estende-se às causas de restabelecimento de benefício previdenciário decorrente de acidente do trabalho. Nesse sentido: STJ, CC 152.002/MG, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe de 19/12/2017; AgRg no CC 141.868/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJe de 02/02/2017.
+VII. Na forma da jurisprudência, "caso o órgão julgador afaste a configuração do nexo causal, a hipótese é de improcedência do pleito de obtenção do benefício acidentário, e não de remessa à Justiça Federal. Nessa hipótese, caso entenda devido, pode a parte autora intentar nova ação no juízo competente para obter benefício não-acidentário, posto que diversos o pedido e a causa de pedir" (STJ, CC 152.002/MG, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe de 19/12/2017).
+VIII. Conflito conhecido, para declarar competente o Juízo de Direito da 1ª Vara de Picos/PI, o suscitante, para o processo e o julgamento da lide.
+(CC n. 176.903/PI, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 23/6/2021, DJe de 29/6/2021.)
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 1ª Vara Cível, Criminal e de Execuções Criminais de Araçuaí - Minas Gerais, o suscitado.
+Dê-se ciência ao Juízo suscitante.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. CONCESSÃO DE AUXÍLIO ACIDENTE DECORRENTE DE ACIDENTE DE TRABALHO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
