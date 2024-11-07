@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por INTRA CONSTRUTORA LTDA. à decisão de fls. 171/172, que não conheceu do recurso.
+Sustenta a parte embargante:
+3. A Intra Construtora Ltda. sempre foi e esteve representada pela patrona Dra. Rosana de Seabra, conforme procuração de fls. 122 dos autos principais, sem que tenha havido revogação, motivo pelo qual com fulcro no artigo 105, §4º do CPC o mandato continua em vigor e eficaz para todas as fases do processo, valendo ressaltar que a procuração não foi anexada ao Agravo de Instrumento quando da sua interposição por força dos ditames do artigo 1.017 do CPC.
+4. Por conta do quanto exposto, a r. decisão de fls. 171/172 está ferindo o direito da Intra Construtora em ter o prosseguimento da análise de seu recurso, uma vez que a inércia do patrono do Espólio de Paulo Colombo Pereira de Queiroz não poderá refletir em desfavor da referida Agravante, mormente pela cronologia processual sobre a questão, vejamos começando pela certidão de fls. 144: (fls. 175/176).
+ ..
+5. Em cumprimento ao despacho acima, a Intra Construtora não ficou inerte, tendo protocolado em data de 15 de abril de 2024 petição às fls. 148 a 156, consignando que o Agravante Paulo Colombo Pereira de Queiroz faleceu em 16 de junho de 2012 e juntando documentos comprobatórios notadamente a procuração do filho herdeiro e inventariante Caio Pereira de Queiroz em face do patrono ali indicado. (fl. 179)
+ ..
+8. Posteriormente, como se extrai do andamento processual, o Espólio de Paulo Colombo Pereira de Queiroz quedou-se inerte, sendo imperioso ressaltar que a referida determinação não era aplicável a qualquer providência por parte da Agravante Intra Construtora, até porque sua representação era regular.
+9. Isto posto, nota-se que, em momento algum, a Agravante, aqui Embargante, Intra Construtora deixou transcorrer in albis qualquer tipo de prazo, descabendo ser atingida pelo não conhecimento do recurso, muito menos para imputar-lhe majoração de verba honorária, uma vez que não deu azo a inadmissão de qualquer espécie.
+10. Abre-se um parêntese somente para esclarecer que embora a peça de Agravo de Instrumento tenha a inclusão do nome Espolio de Paulo Colombo Pereira de Queiroz, isto foi feito somente para delimitar os integrantes do polo passivo da ação e/ou como expressão material dos envolvidos na causa, mas não englobando efetivamente qualquer representatividade do Espólio para o recurso em questão.
+11. Neste diapasão, a r. decisão tal qual lançada ferirá os ditames dos artigos 118, 997 caput, 1.005 e § Único todos do CPC, além de ceifar a ampla defesa da Intra Construtora, maculando os ditames do Art. 05, LV da CF. (fls. 176/177).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora do Agravo e do Recurso Especial, Dra. Rosana de Seabra.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, porquanto apenas foi informado às fls. 148/156 o falecimento do Sr. PAULO COLOMBO PEREIRA DE QUEIROZ, com juntada de procuração para regularização da sua representação processual.
+Todavia, como se percebe, a INTRA CONSTRUTORA LTDA e o Espólio do Sr. PAULO COLOMBO PEREIRA DE QUEIROZ NETO apresentaram os recursos conjuntamente (fls. 53/61 e 102/107), sendo as peças assinadas pela mesma advogada, a Dra. ROSANA DE SEABRA (titular do certificado digital).
+No caso, as duas partes foram devidamente intimadas para regularizar o óbice, conforme se verifica pela fl. 144. Veja que constam na autuação o nome das duas partes.
+Com a alteração na representação processual do Espólio, informada pela INTRA CONSTRUTORA LTDA, alterou-se a autuação, e deu-se nova oportunidade para o Espólio, porquanto, como dito, a construtora já havia sido devidamente intimada.
+Assim, apesar das partes estarem, agora, cada uma representada por advogados distintos, cumpre frisar, mais uma vez, que elas estavam juntas quando da apresentação dos recursos, sendo as petições assinadas pela Dra. ROSANA DE SEABRA, que precisaria ter poderes nos autos de representação de ambas as partes. E, no caso, não houve a devida regularização do vício.
+Registre-se que a dispensa prevista no art. 1017, § 5º, do CPC se aplica à interposição do Agravo de Instrumento para o Tribunal a quo, ou seja, a dispensa está voltada ao primeiro e ao segundo graus de jurisdição, tendo em vista que, a princípio, compartilhariam o mesmo sistema eletrônico.
+Nesse sentido, o AgInt no REsp 1869850/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17.2.2021; AgInt no AREsp 1691791/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20.11.2020; AgInt no AREsp 1504387/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27.2.2020.
+Portanto, conclui-se que, a referida dispensa não se estende ao STJ, cabendo à parte providenciar a juntada de cópia ou novo instrumento aos autos quando da interposição de recurso a esta Corte.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizaria m a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
