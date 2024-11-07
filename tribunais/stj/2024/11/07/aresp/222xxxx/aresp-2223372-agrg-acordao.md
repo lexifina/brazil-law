@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. PENAL. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. TRIBUNAL AFIRMA, COM BASE NOS ELEMENTOS DE PROVA, NÃO ESTAREM PRESENTES OS INDÍCIOS DAS QUALIFICADORAS ELENCADAS NA DENÚNCIA SUFICIENTES PARA A PRONÚNCIA. ALTERAR A CONCLUSÃO DO ACÓRDÃO DEMANDA REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra a decisão assim resumida (fl. 508):
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. TRIBUNAL AFIRMA, COM BASE NOS ELEMENTOS DE PROVA, NÃO ESTAREM PRESENTES OS INDÍCIOS DAS QUALIFICADORAS ELENCADAS NA DENÚNCIA SUFICIENTES PARA A PRONÚNCIA. ALTERAR A CONCLUSÃO DO ACÓRDÃO DEMANDA REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. Agravo conhecido para não conhecer do recurso especial.
+Alega o agravante que a Sexta Turma dessa Corte Superior também já admitiu que o pleito deduzido no recurso especial ministerial (direcionado ao restabelecimento de qualificadora no crime de homicídio) não encontra óbice na Súmula 7/STJ, pois a tese veiculada naquele recurso parte da própria moldura fática delineada nos acórdãos atacados, ou seja, não demanda o reexame de matéria fático- probatória (AgRg no REsp n. 1.994.607/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/5/2022, DJe de 23/5/2022) - fl. 523.
+Diz que, havendo dúvida razoável acerca da configuração ou não das circunstâncias qualificadoras do delito, deverá ser submetida tal matéria, em sua integralidade, à análise do Tribunal do Júri, órgão constitucionalmente competente para o julgamento da causa (fl. 523).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. PENAL. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. TRIBUNAL AFIRMA, COM BASE NOS ELEMENTOS DE PROVA, NÃO ESTAREM PRESENTES OS INDÍCIOS DAS QUALIFICADORAS ELENCADAS NA DENÚNCIA SUFICIENTES PARA A PRONÚNCIA. ALTERAR A CONCLUSÃO DO ACÓRDÃO DEMANDA REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido.
+VOTO
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmado.
+Com efeito, de acordo com o afirmado anteriormente, o Tribunal de Justiça de Minas Gerais afirmou, com base no lastro probatório dos autos, que, embora haja prova da materialidade e dos indícios de autoria suficientes para a pronúncia, inexistem os elementos indiciários das qualificadoras elencadas pelo Parquet, destacando, ainda, o que se segue (fls. 363/364 - grifo nosso):
+O motivo torpe, segundo a denúncia, seria a paga ou promessa de recompensa, já que Z. E. A. teria prometido pagar R$1 .000,00 ao réu G. M. A. S. para a execução do crime.
+Ocorre que não há prova, sob o crivo do contraditório, nesse sentido, apenas as declarações extrajudiciais de G. M. A. S. que, em juízo, se retratou e disse que esse fato não é verdade. O policial militar Francisco Augusto Ribeiro Júnior, ouvido em Juízo, foi categórico ao afirmar que em nenhum momento foi dito que o crime foi cometido mediante paga ou promessa de recompensa.
+Já o recurso que dificultou a defesa da vítima seria o fato de os réus terem se sentado no bar, consumido bebidas, até que, de repetente, G. M. A. S. sacou a arma e disparou contra a vítima por duas vezes.
+Todavia, a prova testemunhal revela não ter havido surpresa, pois os réus estiveram no bar anteriormente, ficaram encarando a vítima e, antes de saírem, a testemunha Maria Helena Correa ouviu a G. M. A. S. dizer a Z. E. A.: "isso é moleza pra mim, isso não dá nem o caldo". Z. E. A., em seguida, disse "então vamos lá". Depois que os réus saíram do bar, a referida testemunha contou à vítima sobre a conversa e a alertou "para ficar esperto e abrir o olho". Passados cerca de 20 minutos, os réus retornaram ao bar e, apesar de terem solicitado uma bebida ao dono do bar, logo em seguida G. M. A. S. sacou a arma, apontou para os presentes no local e disparou duas vezes contra a vítima. Vale lembrar, ainda, que a vítima já havia recebido ameaças indiretas, no sentido de que Z. E. A. iria se vingar em razão de ela ter roubado o seu veículo e o incendiado, tanto que afirmou ter sentido medo no momento dos fatos. A vítima, ainda, conseguiu se defender, colocando a mão/braço na frente do peito, o que impediu que o projétil atingisse região vital. Não se pode dizer, em tal contexto, que houve surpresa do ofendido.
+Dessa forma, a inversão do que ficou decidido, como pretende o agravante, demanda o reexame do acervo fático-probatório constante dos autos, providência que contraria a Súmula 7/STJ.
+Nesse sentido, destaco o seguinte precedente:
+ ..
+4. A pretensão de impronúncia ou de desclassificação da conduta para o crime de homicídio privilegiado ou de lesões corporais, tal como pleiteada nas razões recursais, demanda, como ressaltado no decisum reprochado, nova incursão no acervo, tarefa obstada pela Súmula 7/STJ (AgRg no AREsp n. 1.651.852/MG, Ministro Felix Fischer, Quinta Turma, DJe 19/5/2020).
+ ..
+(EDcl no AgInt no REsp n. 1.838.360/RS, de minha relatoria, Sexta Turma, DJe 9/9/2020).
+Além disso, como fundamento subsidiário, destaco que, segundo entendimento consolidado no Superior Tribunal de Justiça, inexistindo fundamentação mínima quanto à incidência das qualificadoras do motivo torpe e do recurso que impossibilitou a defesa da vítima, deve ser anulada a sentença de pronúncia (REsp n. 1.816.307/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/9/2019, DJe 16/9/2019) - (AgRg no REsp n. 1.937.320/AM, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/6/2021, DJe 24/6/2021).
+Ante o exposto, nego provimento ao agravo regimental.
