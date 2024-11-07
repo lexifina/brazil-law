@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Sindicato dos Trabalhadores em Escolas Públicas no Distrito Federal - SAE/DF contra a decisão (fls. 845-846) que indeferiu o pedido de gratuidade de justiça.
+O embargante alega que a decisão foi omissa e contraditória ao indeferir o pedido de gratuidade sem que antes houvesse a especificação de quais documentos estariam aptos a comprovação da situação de hipossuficiência e proceder a intimação do recorrente para a complementação da documentação. Sustenta que os documentos contábeis alinhados com as informações prestadas caracterizam a necessidade da concessão da gratuidade de justiça, porquanto encontra-se claramente comprovada a insuficiência de recursos do exequente, que não possui condições de arcar com as custas relacionadas ao processo sem comprometer sua saúde financeira.
+Com impugnação.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, registra-se que nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Convém salientar que a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado. A propósito: AgInt no REsp 1.348.521/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe 23/9/2016; EDcl no REsp 1.537.597/MA, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 14/3/2016; EDcl nos EDcl no AgRg no REsp 1.319.666/MG, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 26/2/2016.
+Nesta feita, o embargante não demonstra a existência, no decisum embargado, de proposições inconciliáveis entre si, a fim de caracterizar a ocorrência de contradição no julgado.
+De outro lado, insta consignar que não se há de confundir omissão com decisão contrária aos interesses da parte. Nesse sentido: EDcl no REsp 1.235.228/SE, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 25/4/2016; AgRg no REsp 1.295.081/PE, relator Ministro Og Fernandes, Segunda Turma, DJe 6/8/2015; AgRg no REsp 1.496.358/SC, relator Ministro Humberto Martins, Segunda Turma, DJe 19/5/2015; AgRg no Ag 974.033/SP, relatora Ministra Denise Arruda, Primeira Turma, DJe 18/9/2008.
+Na espécie, observa-se que a decisão embargada indeferiu o pedido de concessão dos benefícios da gratuidade de justiça porquanto os documentos apresentados pelo postulante não seriam hábeis à comprovação da insuficiência de recursos da entidade sindical. Confira-se (fl. 845):
+ ..
+A concessão do benefício de gratuidade da justiça a pessoa jurídica, com ou sem fins lucrativos, mesmo nos casos de liquidação extrajudicial ou falência, somente é adequada quando for comprovada a impossibilidade de arcar com as despesas e encargos processuais, pois não há presunção legal de insuficiência de recursos em favor de pessoas jurídicas. Observância da Súmula 481 do STJ.
+Nesse sentido: EREsp 855.020/PR, relator Ministro Benedito Gonçalves, Primeira Seção, DJe 6/11/2009; EDcl no REsp 1.136.707/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe 17/10/2014; AgInt no AREsp 2.410.528/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 22/11/2023; AgInt na PET no AREsp 2.041.574/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe 23/8/2023.
+No caso dos autos, os documentos anexados à petição não servem à comprovação da insuficiência de recursos da entidade sindical.
+ ..
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA PETIÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS.
