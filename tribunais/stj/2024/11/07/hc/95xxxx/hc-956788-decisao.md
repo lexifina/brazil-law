@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de IGOR AMARAL DA CRUZ em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos autos do Agravo de Execução Penal de nº 0002365-82.2024.8.26.0520.
+Em suas razões, sustentam os impetrantes a ocorrência de constrangimento ilegal, pois o paciente é imprescindível aos cuidados de quatro filhos menores de 12 anos de idade, sendo que um deles é portador de doenças renais graves e o outro faz tratamento com fonoaudiólogo.
+Requer, em suma, seja concedida prisão domiciliar ao paciente.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Inegável que a prisão do réu pode resultar em dificuldades para a prole, que eventualmente ficará sem os cuidados diretos do genitor. Contudo, no presente caso, a mãe se encontra presente e não há comprovação de que os filhos dependam, exclusivamente, do agravante, até para a manutenção do tratamento do filho acometido de doença grave. Apenas alegar tal dependência, sem apresentar evidências concretas, não é suficiente para justificar a concessão do benefício da prisão domiciliar.
+Anote-se que o Relatório Social que instruiu os autos, fundou-se em declarações do próprio sentenciado, ora agravante, mas não se fez acompanhar de qualquer informação outra que demonstre os fatos declarados. Ainda, anota-se ali que: "foi proposto o encaminhamento de Igor para atendimento do Setor de Trabalho e Educação, com o propósito de verificar a possibilidade, mediante avaliação, para inserção em atividade de trabalho remunerada, durante o cumprimento da pena"(fl. 140), o que revela a preocupação com solução interna ao estabelecimento prisional, para que o sentenciado possa contribuir com o sustento familiar. Antes (fl.139), registrou-se que a família recebe R$ 800,00 do Programa Bolsa Família e, ainda, reside em moradia própria.
+Obviamente, não são condições ideais para o núcleo familiar. Contudo, é de se considerar que o ora agravante cumpre pena por homicídio qualificado (12 anos de reclusão), tendo ficado foragido desde a condenação até ser preso (4.11.2023), quando iniciou o cumprimento da pena.
+Por certo, foragido, não tinha condições de socorrer os filhos, ressaltando-se de que não fez prova de qualquer atividade remunerada, nesse período, o que revela não ter sido imprescindível para a manutenção familiar (fls. 18-20).
+Segundo entendimento firmado pela Terceira Seção do STJ, embora exista prevista normativa na LEP estabelecendo que a prisão domiciliar somente seria cabível para os reeducandos em cumprimento de pena em regime aberto, "excepcionalmente, se admite a concessão do benefício às presas dos regimes fechado e semiaberto quando verificado pelo juízo da execução penal, no caso concreto - em juízo de ponderação entre o direito à segurança pública e a aplicação dos princípios da proteção integral da criança e da pessoa com deficiência -, que tal medida seja proporcional, adequada e necessária e que a presença da mãe seja imprescindível para os cuidados da criança ou pessoa com deficiência, salvo se a periculosidade e as condições pessoais da reeducanda indiquem que o benefício não atenda os melhores interesses da criança ou pessoa com deficiência (RHC n. 145.931/MG, Rel. Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 16.3.2022.)
+Por outro lado, o pai também pode se beneficiar da prisão domiciliar, desde que seus cuidados sejam comprovadamente imprescindíveis ao infante.
+Na espécie, o benefício foi afastado em razão de não ter havido a comprovação da imprescindibilidade do genitor no cuidado de sua prole, entendimento cuja reforma exigiria o reexame da prova, inviável na via estreita do Habeas Corpus.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
