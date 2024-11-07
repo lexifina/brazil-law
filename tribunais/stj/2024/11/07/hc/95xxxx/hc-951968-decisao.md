@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de ELIZEU VILMAR DA SILVA - denunciado como incurso no crime de tráfico de drogas -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação Criminal n. 5017811-81.2023.8.21.0013/RS), não comporta acolhimento.
+Com efeito, busca a impetração a nulidade das provas e a absolvição do paciente (fls. 3/11) na ação penal que tramitou perante o Juízo da 1ª Vara Criminal da comarca de Erechim/RS (Ação Penal n. 5017811-81.2023.8.21.0013/RS), aos argumentos de que a busca pessoal que ensejou a prisão em flagrante não trouxe elementos para justificar a abordagem policial e não foi precedida de justa causa e fundada suspeita da prática de crime.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois os policiais visualizaram o paciente no momento em que saía de um ponto de tráfico conhecido como "Beco da Daia", trazendo consigo uma mochila e, ao avistar a viatura policial, ele voltou correndo pelo beco, indo para o pátio de uma residência. Assim, em face de fundadas suspeitas, os agentes acompanharam o denunciado e o abordaram, apreendendo drogas na mochila (fls. 23 e 13/14).
+No mesmo sentido: a fuga do paciente ao avistar a equipe policial constitui elemento suficiente para configurar fundada suspeita, justificando a abordagem e a realização de busca pessoal, conforme jurisprudência consolidada desta Corte Superior (RHC n. 158.580/BA e AgRg no HC n. 913.025/SP) - (HC n. 809.094/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 29/10/2024).
+Assim, inexistente flagrante ilegalidade na abordagem policial. Ademais, para entender que os fatos não se deram exatamente da forma como apresentados pelas instâncias ordinárias seria necessário o reexame de provas, o que se mostra inviável em sede de habeas corpus.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. FUNDADA SUSPEITA. EXISTÊNCIA. FUGA AO AVISTAR OS POLICIAIS. CONCLUSÃO INVERSA. REEXAME DE PROVAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
