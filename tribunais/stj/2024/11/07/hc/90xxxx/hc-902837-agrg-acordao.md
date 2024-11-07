@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. REGIME PRISIONAL SEMIABERTO. POSSIBILIDADE. RÉ PRIMÁRIO. TODAS CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. AUSÊNCIA DE FATO CONCRETO PARA APLICAÇÃO DO REGIME MAIS GRAVOSO. PENA INFERIOR 8 ANOS. LITERALIDADE DO ARTIGO 33, § 2º, "B", DO CÓDIGO PENAL. AGRAVO REGIMENTAL PROVIDO.
+I - É  assente  nesta  Corte  Superior  de  Justiça  que  o  agravo  regimental  deve  trazer  novos  argumentos  capazes  de  alterar  o  entendimento  anteriormente  firmado,  sob  pena  de  ser  mantida  a  r.  decisão  vergastada  pelos  próprios  fundamentos.
+II - De acordo com a Súmula n. 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas n. 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+III - Tratando-se de ré primária, ao qual foi imposta pena entre 4 e 8 anos de reclusão e cujas circunstâncias judiciais foram favoravelmente valoradas, sem que nada de concreto tenha sido consignado de modo a justificar o recrudescimento do meio prisional, por força do disposto no art. 33, § 2º, alínea "b", e § 3º, do Código Penal, deve a reprimenda ser cumprida, desde logo, em regime semiaberto.
+Agravo regimental provido .
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  ESTELA MIRANDA DA SILVA  contra  a  decisão  de  fls.  101-104,  que em juízo de retratação, concedeu parcialmente a ordem, de ofício, para redimensionar a pena da paciente para 7 anos e 6 meses, em regime fechado, mais pagamento de 18 dias-multa, mantidos os demais termos da condenação.
+Nas razões recursais, a agravante aduz que, no caso dos autos, faz jus ao estabelecimento do regime semiaberto para início de cumprimento da pena.
+Para tanto, sustenta que a própria vítima afirmou, em juízo, que a agravante contribuiu para a atividade delitiva sendo apenas motorista dos demais e que teria permanecido o tempo todo dentro do veículo durante o incurso delitivo.
+Afirma, ainda, que não houve, por parte das vítimas, qualquer menção de que a ora agravante tenha sido a autora da coronhada, suportada pela vítima Fernando.
+Alega, com isso, que a conduta precisa ser individualizada nos moldes do artigo 29 do Código Penal, dosando a periculosidade de acordo com a participação efetiva de cada agente delitivo na empreitada criminosa.
+Requer, assim, o provimento do presente recurso de agravo para que seja modificado o regime inicial de cumprimento de para para o modo semiaberto.
+É  o  relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. REGIME PRISIONAL SEMIABERTO. POSSIBILIDADE. RÉ PRIMÁRIO. TODAS CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. AUSÊNCIA DE FATO CONCRETO PARA APLICAÇÃO DO REGIME MAIS GRAVOSO. PENA INFERIOR 8 ANOS. LITERALIDADE DO ARTIGO 33, § 2º, "B", DO CÓDIGO PENAL. AGRAVO REGIMENTAL PROVIDO.
+I - É  assente  nesta  Corte  Superior  de  Justiça  que  o  agravo  regimental  deve  trazer  novos  argumentos  capazes  de  alterar  o  entendimento  anteriormente  firmado,  sob  pena  de  ser  mantida  a  r.  decisão  vergastada  pelos  próprios  fundamentos.
+II - De acordo com a Súmula n. 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas n. 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+III - Tratando-se de ré primária, ao qual foi imposta pena entre 4 e 8 anos de reclusão e cujas circunstâncias judiciais foram favoravelmente valoradas, sem que nada de concreto tenha sido consignado de modo a justificar o recrudescimento do meio prisional, por força do disposto no art. 33, § 2º, alínea "b", e § 3º, do Código Penal, deve a reprimenda ser cumprida, desde logo, em regime semiaberto.
+Agravo regimental provido.
+VOTO
+Presentes  os  pressupostos  de  admissibilidade,  conheço  do  agravo  regimental.
+É  assente  nesta  Corte  Superior  de  Justiça  que  o  agravo  regimental  deve  trazer  novos  argumentos  capazes  de  alterar  o  entendimento  anteriormente  firmado,  sob  pena  de  ser  mantida  a  r.  decisão  vergastada  pelos  próprios  fundamentos.
+De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+De igual modo, as Súmulas 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+No caso dos autos, o regime prisional fechado carece de amparo legal e fático. Com efeito, malgrado a fixação da pena-base no mínimo legal e a primariedade do réu não conduza, necessariamente, à fixação do regime prisional menos severo, o fundamento anteriormente mencionado não constitui motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal).
+A seguir, ementas de acórdãos desta Corte versando a respeito da matéria e que respaldam essa solução:
+" ..
+2. In casu, incide a Súmula n.º 440 desta Corte Superior, que consigna, in verbis: "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+3. Ordem de habeas corpus concedida para fixar o regime inicial semiaberto" (HC 490.412/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/5/2019, DJe 30/5/2019, grifou-se).
+" ..
+4. Reconhecidas as circunstâncias judiciais favoráveis e a primariedade dos pacientes, sendo imposta reprimenda definitiva inferior a 8 anos de reclusão, cabível a imposição do regime semiaberto para iniciar o cumprimento da sanção corporal, à luz do art. 33, §§ 2º e 3º, do CP.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial semiaberto para cumprimento inicial da pena dos pacientes" (HC 469.398/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 7/2/2019, DJe 15/2/2019).
+Por certo, tratando-se de ré primária, ao qual foi imposta pena entre 4 e 8 anos de reclusão e cujas circunstâncias judiciais foram favoravelmente valoradas, sem que nada de concreto tenha sido consignado de modo a justificar o recrudescimento do meio prisional, por força do disposto no art. 33, § 2º, alínea "b", e § 3º, do Código Penal, deve a reprimenda ser cumprida, desde logo, em regime semiaberto.
+Ante o exposto, dou provimento ao recurso de agravo para estabelecer o regime prisional semiaberto para início de cumprimento da pena.
+É como voto.
