@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de conflito de competência estabelecido entre o JUÍZO DE DIREITO DA VARA DE SUCESSÕES DE JOÃO PESSOA - PB (suscitante) e o JUÍZO DE DIREITO DA 3ª VARA DE FAMÍLIA, SUCESSÕES, ÓRFÃOS, INTERDITOS E AUSENTES DE FEIRA DE SANTANA - BA (suscitado).
+A questão, na origem, envolve ação inventário, envolvendo interesse de incapaz (e-STJ, fl. 9).
+Distribuído o feito ao Juízo baiano, este, acolhendo cota ministerial, declinou da competência ao foro do domicílio da curadora do viúvo meeiro, atualmente interditado (e-STJ, fl. 14).
+Recebidos os autos pelo Juízo paraibano, este suscitou o conflito, por entender incabível a arguição de incompetência pelo Ministério Público e incidência da Súmula 33 do STJ (e-STJ, fls. 17/18).
+O Ministério Público Federal, em parecer do Subprocurador-Geral da República, Dr. SADY D"ASSUMPÇÃO TORRES FILHO, manifestou-se pela declaração de competência do JUÍZO SUSCITANTE (e-STJ, fls. 23/25).
+É o relatório.
+DECIDO.
+Com base no art. 105, I, d, da Constituição Federal, conheço do incidente instaurado entre juízes vinculados a tribunais diversos.
+A controvérsia gira em torno de se definir qual o juízo competente para processar e julgar ação de inventário, com herdeiro menor.
+O art. 48 do CPC/2015, ao prever que o foro do domicílio do autor da herança, no Brasil, é o competente para o inventário, estabelece regra de competência territorial e, portanto, relativa.
+A jurisprudência firmada sobre o tema nesta Corte Superior de Justiça é no sentido de que a competência relativa deve ser arguida pela parte contrária, não podendo ser declarada de ofício, nos termos da Súmula nº 33/STJ: A incompetência relativa não pode ser declarada de ofício.
+Na hipótese dos autos, contudo, houve pedido expresso do Ministério Público sobre o declínio para o foro do domicílio da curadora do viúvo meeiro, atualmente interditado, de modo que não se pode afirmar que a declinação da competência relativa se deu de ofício.
+E já há entendimento do STJ no sentido de que o Ministério Público, quando atua como fiscal da lei, pode arguir a incompetência do Juízo, desde que demonstrado o interesse do assistido, no deslocamento do feito a outro foro.
+A propósito, confira-se:
+PROCESSO CIVIL. MINISTÉRIO PÚBLICO. PROCESSO EM QUE ATUA COMO CUSTOS LEGIS. INTERVENÇÃO EM RAZÃO DA QUALIDADE DA PARTE. INCAPAZ INTERESSADO EM INVENTÁRIO. LEGITIMIDADE DO PARQUET PARA ARGÜIR A EXCEÇÃO DE INCOMPETÊNCIA (RELATIVA). NECESSIDADE DE DEMONSTRAÇÃO DO INTERESSE DO ASSISTIDO NO DESLOCAMENTO DO PROCESSO PARA OUTRO FORO. FORMA DA ARGÜIÇÃO POR COTA NOS AUTOS. MERA IRREGULARIDADE CUJOS EFEITOS DEVEM SER MITIGADOS EM ATENÇÃO AOS FINS INSTRUMENTAIS DO PROCESSO. RECURSO ESPECIAL. FINALIDADE CONSTITUCIONAL. RIGIDEZ QUANTO AOS PRESSUPOSTOS DE ADMISSIBILIDADE. NEGATIVA DE VIGÊNCIA À LEI FEDERAL INOCORRENTE. RECURSO NÃO CONHECIDO.
+I - O Ministério Público, mesmo quando atua no processo como custos legis, o que acontece em inventário no qual haja menor interessado, tem legitimidade para intervir, inclusive para argüir a incompetência relativa do juízo.
+II - Todos os sujeitos do processo, dentre os quais se acha o Ministério Público no exercício do mister de custos legis, estão igualmente submetidos às regras processuais que não estipulem distinções específicas segundo a posição de cada um deles na causa.
+III - Havendo expressa previsão processual no sentido de que a competência relativa é argüida por via de exceção, a sua manifestação pelo Ministério Público por meio de cota nos autos, ainda que contendo todos os requisitos necessários ao exame dapretensão, não enseja a instauração do incidente competencial.
+IV - O recurso especial, com sede na Constituição, tem por finalidade a uniformização da interpretação do direito federal no território nacional, assim como a guarda da sua autoridade, reclamando o atendimento de seus pressupostos específicos para que seja conhecido. Não se vislumbrando no acórdão recorrido a apontada negativa de vigência aos dispositivos legais indicados pelo recorrente, não logra ser conhecido o recurso.
+(Quarta Turma, REsp 100.690/DF, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, unânime, DJU de 8.3.1999 - sem destaque no original)
+Sendo assim, incabível a aplicação da Súmula nº 33 do STJ, uma vez que, como visto, o Juízo baiano não declinou da competência de ofício, mas acatou a cota ministerial que, por sua vez, agiu dentro de sua área de atuação.
+E a decisão poderia ter sido objeto de irresignação recursal pela parte interessada, do que não se teve notícia.
+Ademais a fixação da competência no foro do domicílio do viúvo meeiro, atualmente interditado, visa resguardar o melhor interesse do incapaz.
+Aliás, já há precedentes desta Corte Superior no sentido de mitigar o princípio da perpetuatio jurisdictionis, considerando o princípio do melhor interesse do curatelado.
+Veja-se:
+CONFLITO NEGATIVO DE COMPETÊNCIA INTERDIÇÃO. CURATELA. AÇÃO DE PRESTAÇÃO DE CONTAS. PRINCÍPIO DO MELHOR INTERESSE DO INCAPAZ. MITIGAÇÃO DO PRINCÍPIO DA PERPETUATIO JURISDICTIONIS (ART. 87 DO CPC). INAPLICABILIDADE. HIPÓTESE EM QUE A INTERDITA JÁ É FALECIDA. CONFLITO CONHECIDO.
+1. O Superior Tribunal de Justiça firmou entendimento de que nos processos que envolvam curatela deve prevalecer o interesse da pessoa interditada em detrimento de quaisquer outras questões, podendo ser mitigado, inclusive, o princípio da perpetuatio jurisdictionis, previsto no art. 87 do CPC, segundo o qual a competência se define no momento da propositura da ação, sendo irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem o órgão judiciário ou alterarem a competência em razão da matéria ou da hierarquia.
+2. Referido entendimento tem como pressuposto o melhor acesso do juiz ao interdito, zelando por seus interesses, consoante dispõe o princípio do melhor interesse do incapaz. Em demandas desse jaez é recomendável, no curso da instrução probatória, o contato direto do magistrado com o curatelado, para que o julgador possa extrair de forma mais acurada conclusões acerca de toda situação que circunda o exercício do munus da curatela, salvaguardando toda e qualquer necessidade do interditado.
+3. A hipótese comporta solução diversa, tendo em vista que a ação de prestação de contas pela curadora foi manejada após o falecimento da interdita, circunstância que recomenda a manutenção da regra de estabilização da lide insculpida no artigo 87 do CPC, e a observância do art. 919 do CPC.
+4. Conflito conhecido para declarar competente o suscitado, o d. Juízo de Direito da Primeira Vara Cível, Família, Sucessões, Infância e Juventude de Itapaci - GO.
+(CC n. 134.097/DF, relator Ministro Raul Araújo, Segunda Seção, julgado em 28/10/2015, DJe de 5/11/2015 - sem destaque no original)
+PROCESSO CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE INTERDIÇÃO. SUBSTITUIÇÃO DO CURADOR. MELHOR INTERESSE DO INCAPAZ. PRINCÍPIO DO JUÍZO IMEDIATO. FORO DE DOMICÍLIO DO INTERDITO. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. Irrelevante, na espécie, a discussão acerca da incidentalidade ou autonomia do pedido de substituição de curador, pois em ambos os casos a conclusão a que se chega é a mesma.
+2. Em se tratando de hipótese de competência relativa, o art. 87 do CPC institui, com a finalidade de proteger a parte, a regra da estabilização da competência (perpetuatio jurisdictionis), evitando-se, assim, a alteração do lugar do processo, toda a vez que houver modificações supervenientes do estado de fato ou de direito.
+3. Nos processos de curatela, as medidas devem ser tomadas no interesse da pessoa interditada, o qual deve prevalecer diante de quaisquer outras questões, devendo a regra da perpetuatio jurisdictionis ceder lugar à solução que se afigure mais condizente com os interesses do interditado e facilite o acesso do Juiz ao incapaz para a realização dos atos de fiscalização da curatela.
+Precedentes.
+4. Conflito conhecido para o fim de declarar a competência do Juízo de Direito da 11ª Vara de Família e Sucessões de São Paulo-SP (juízo suscitado), foro de domicilio do interdito e da requerente.
+(CC n. 109.840/PE, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 9/2/2011, DJe de 16/2/2011 - sem destaque no original)
+E, ainda: CC n. 208.083, Ministro MARCO AURÉLIO BELLIZZE, DJe de 10/10/2024; CC n. 205.035, Ministra NANCY ANDRIGHI, DJe de 01/10/2024; CC 184435, Rel. Min. RICARDO VILLAS BOAS CUEVA, DJe 01/02/2024; CC 184487, Rel. Min. HUMBERTO MARTINS, DJe 17/01/2022, e CC 183133, Rel. Min. RAUL ARAÚJO, DJe 15/10/2021.
+Assim sendo, observa-se que a manutenção da competência perante o Juízo suscitante facilitará a tutela dos interesses do viúvo meeiro, incapaz.
+Nessas condições, CONHEÇO do conflito e declaro competente o JUÍZO DE DIREITO DA 1ª VARA DE SUCESSÕES DE JOÃO PESSOA - PB.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. INVENTÁRIO. COMPETÊNCIA TERRITORIAL. NATUREZA RELATIVA. DECLINAÇÃO POR ACOLHIMENTO DA COTA MINISTERIAL. AFASTAMENTO DA SÚMULA Nº 33 DO STJ. ART. 48 DO CPC/2015. MELHOR INTERESSE DO VIÚVO MEEIRO INCAPAZ. COMPETÊNCIA DO JUÍZO SUSCITANTE.
