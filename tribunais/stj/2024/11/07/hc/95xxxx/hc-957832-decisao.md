@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCELLO PEREIRA DOS SANTOS, que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em virtude do julgamento do Agravo de Execução Penal nº 0012989-23.2024.8.26.0996.
+Consta dos autos que o juízo da execução penal determinou a realização de exame criminológico para aferir o mérito do agravante à progressão ao regime semiaberto, em decisão mantida no julgamento do posterior agravo de execução interposto pela defesa (fls. 102-114).
+Na presente impetração, busca-se a concessão da progressão de regime independentemente da elaboração do exame criminológico, devido ao preenchimento dos requisitos para a obtenção do benefício e à inconstitucionalidade da Lei n. 14.843/2024, a qual não poderia retroagir em prejuízo do réu. Subsidiariamente, postula-se a análise do pedido pelo juízo de primeiro grau mesmo sem a realização da perícia criminológica.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Saliente-se que, dentre toda a fundamentação de origem, a moldura fática do acórdão impugnado indica que há necessidade do exame criminológico, tendo em vista o histórico prisional com registro de falta grave cometida em 20/09/2022.
+Desta forma, não se vislumbra qualquer ilegalidade ou arbitrariedade no acórdão combatido, tendo em vista as peculiaridades do caso concreto, que justificam a submissão do apenado ao exame criminológico para aferir o preenchimento do requisito subjetivo.
+Ante o exposto, indefiro liminarmente o habeas corpus com fulcro no artigo 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+ EMENTA
