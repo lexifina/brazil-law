@@ -1,0 +1,17 @@
+DECISÃO
+ADEILSON ANDRADE VILARINO opõe embargos declaratórios contra decisão de fls. 1.230-1.236, na qual conheci do agravo para não conhecer do recurso especial.
+Nos aclaratórios, o insurgente assenta que a decisão embargada foi contraditória.
+Aduz não pretender o reexame de provas, "mas apenas desconstituir a equivocada interpretação dada pelo julgador de 2º grau" (fl. 1.243). Assevera que, a se considerar as provas produzidas na instrução, em especial o depoimento da companheira do embargante e filha da vítima, fica patente que o acusado agiu em legítima defesa e que os jurados decidiram contrariamente às evidências dos autos.
+Requer o acolhimento dos embargos para suprir as contradições. Pleiteia, ainda, a reforma da decisão, a fim de que, ao fim, o réu submetido a novo julgamento.
+Decido.
+De início, convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, quando houver ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão questionada, objetivam, em essência, novo julgamento do caso.
+Especificamente em relação ao vício da contradição, vale registrar o seguinte entendimento:
+ ..  Considera-se contraditória a decisão quando há incompatibilidade lógica entre os seus fundamentos, reciprocamente considerados, ou entre os seus fundamentos e as conclusões expostas na parte dispositiva. Contradição, assim, é a antinomia interna, a ausência de relação lógica e coerente entre os fundamentos adotados como ratio decidendi e o próprio dispositivo da decisão, ou entre os próprios fundamentos. (EDcl no AgRg no RHC n. 153.540/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 14/6/2022)
+Sob essas premissas, constato que a decisão não padece de nenhum vício que justifique a oposição dos embargos.
+Com efeito, diante da alegação defensiva de que a condenação se deu contrariamente às provas dos autos, a decisão ora embargada esclareceu que, nessas hipóteses de insurgência, ao órgão recursal se permite, apenas, a realização de um juízo de constatação acerca da existência de suporte probatório para a decisão tomada pela Corte popular. Somente se admite a cassação do veredito se flagrantemente desprovido de elementos mínimos de prova capazes de sustentá-lo. Caso contrário, deve ser preservado o juízo feito pelos jurados, no exercício da sua soberana função constitucional, como ocorreu na espécie.
+Nesse contexto, o ato aqui questionado destacou que a Corte local verificou haver lastro probatório a embasar o veredito condenatório exarado pelo Júri, notadamente as palavras ditas por uma das testemunhas oculares.
+A partir disso, a decisão monocrática consignou que, para infirmar tal decisão e submeter o réu a novo julgamento, seria necessário o revolvimento probatório, providência incabível em recurso especial, razão pela qual a insurgência não pôde ser conhecida.
+Portanto, diante da clara concatenação das ideias e da plena análise dos assuntos trazidos a esta Corte Superiora, fica evidente que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração neste momento processual.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
