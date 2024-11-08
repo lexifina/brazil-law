@@ -1,0 +1,54 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CONSTRUTORA CANADA LTDA - EM RECUPERACAO JUDICIAL E OUTRA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/6/2024.
+Concluso ao gabinete em: 16/9/2024.
+Ação: Declaratória c/c indenização por danos morais ajuizada por Sônia Tolentino da Silva em face das agravantes.
+Sentença: julgou parcialmente procedentes os pedidos inicial, para determinar a expedição de ofício ao Cartório de Registro de Imóveis competente para que proceda à baixa da hipoteca que pesa sobre o imóvel adquirido pelo autor e seus acessórios, no prazo de 10 (dez) dias, sob as penas da lei, e condenar as requeridas a pagarem aos autores o valor de R$ 10.000,00 (dez mil reais), a título de indenização por danos morais.
+Acórdão: negou provimento à apelação interposta pelas agravantes, nos termos da ementa a seguir (fl. 1.070):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA, CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. CANCELAMENTO DE HIPOTECA. SUB-ROGAÇÃO DE CRÉDITO. DANO MORAL. AFASTAMENTO EM RELAÇÃO À INSTITUIÇÃO FINANCEIRA. QUANTUM DOS DANOS MORAIS. ÔNUS DA SUCUMBÊNCIA NA DENUNCIAÇÃO À LIDE. ILEGITIMIDADE PASSIVA. SENTENÇA PARCIALMENTE REFORMADA. MAJORAÇÃO DOS HONORÁRIOS EM GRAU RECURSAL.
+1. A sub-rogação transfere ao novo credor todos os direitos, ações, privilégios e garantias do contrato primitivo.
+2. A despeito de ser a instituição financeira solidariamente responsável pela baixa do gravame hipotecário, não o é pelo pagamento de indenização em razão dos danos morais experimentados pela parte autora em decorrência da hipoteca mantida indevidamente após a quitação do ajuste contratual.
+3. A tardia liberação do gravame que recai sobre o imóvel hipotecado, após o pagamento do preço estabelecido, e a necessidade da provocação do Judiciário para a solução da questão, enseja o dever de indenizar os prejuízos morais decorrentes da conduta qualificada como antijurídica e lesiva praticada pela incorporadora e a instituição financeira.
+4. Mantém-se o valor arbitrado a título de reparação por dano moral, quando respaldado pelos princípios da razoabilidade e da proporcionalidade.
+5. Tendo em vista que o denunciado à lide ofereceu resistência à relação jurídica de regresso, impõe-se-lhe o respectivo ônus da sucumbência na medida do seu decaimento.
+6. Demonstrado o pagamento do preço, tem a parte adquirente direito à escritura definitiva do bem, isento de quaisquer ônus, incluindo-se a hipoteca, incumbindo tanto ao credor hipotecário como à construtora a exoneração do gravame instituído sobre unidade habitacional prometida à venda, uma vez quitado o preço do imóvel, justificando assim a legitimidade passiva desta última.
+7. AMBOS RECURSOS CONHECIDOS, O PRIMEIRO PARCIALMENTE PROVIDO, CONTUDO O SEGUNDO DESPROVIDO. SENTENÇA REFORMADA EM PARTE.
+Embargos de Declaração: opostos pelas agravantes, foram rejeitados.
+Recurso especial: alega violação dos arts. 17, 98, 99, 100 e 101, todos do CPC; 47 da Lei 11.101/05, e 927 do Código Civil. Sustenta que "faz jus as benesses da gratuidade da justiça, por indubitável e comprovada hipossuficiência financeira, já que atravessa grave crise, e deve seguir o plano de recuperação judicial homologado pelo juízo competente para pagar seus credores, sob pena de incapacidade de soerguimento da empresa  .. " (fl. 1.149).
+Além disso, aduz a sua ilegitimidade passiva.
+Por fim, busca o afastamento dos danos morais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+O TJ/GO, ao analisar as questões relativas à ilegitimidade passiva, à gratuidade de justiça e aos danos morais, concluiu o seguinte (e-STJ fls. 1.079-1.082):
+Preliminarmente, alegam as apelantes não possuírem legitimidade para figurarem no polo passivo da presente ação, porquanto não são responsáveis pela hipoteca nem pelo seu cancelamento, sendo essa atribuição das instituições financeiras, destacando a ausência da Construtora Canadá no contrato celebrado entre as partes.
+Em primeiro lugar, quando da contestação (mov. 24), a recorrente Construtora Canadá não se eximiu de sua participação no negócio sub judice e, em segundo lugar, esta Corte já firmou o entendimento de que "Reconhece-se a legitimidade passiva ad causam de empresas integrantes do mesmo grupo econômico, por força da teoria da aparência, mormente se considerada a vulnerabilidade do consumidor e a incidência do Código Consumerista" (TJGO, Apelação Cível 0125075-44.2016.8.09.0137, Rel. Des(a). DESEMBARGADOR GILBERTO MARQUES FILHO, 3ª Câmara Cível, julgado em 14/11/2023, DJe de 14/11/2023), como hipótese dos autos.
+ .. .
+Por outro lado, como percucientemente fundamentou o Magistrado singular, "em relação à legitimidade passiva, entendo que todos aqueles envolvidos na cadeia produtiva, ainda que não tenham celebrado diretamente contrato com o consumidor, são, para efeitos do CDC, fornecedores, ficando, pois sujeitos à legislação reguladora das relações de consumo, independentemente da existência de cláusula específica que as exima de responsabilidade, porquanto nula".
+Assim, demonstrado o pagamento do preço, tem a parte adquirente, ora apelada, direito à escritura definitiva do bem, isento de quaisquer ônus, incluindo-se a hipoteca, incumbindo aos réus a exoneração do gravame instituído sobre unidade habitacional prometida à venda, justificando assim a legitimidade passiva das ora apelantes, conforme inclusive já se posicionou esta Corte em situações análogas  .. .
+ .. .
+Seguindo as razões recursais das 2ª apelantes, no mérito propriamente dito, impugnam a condenação por danos morais, alegando falta de prova de sua existência e, alternativamente defendem a redução da respectiva verba.
+Verifica-se dos autos que a apelada cumpriu integralmente a obrigação assumida na avença celebrada, contudo, ficou impossibilitada de fazer o respectivo registro no cartório de imóveis competente, o qual somente poderia "ser escriturado em nome dos adquirentes com a manutenção da hipoteca cedular em favor do Banco Itaú Unibanco S/A, conforme anotação R12- 109.452 junto a matrícula do edifício que se encontra os imóveis adquiridos", daí o ajuizamento da presente demanda.
+ .. .
+Da leitura desses dispositivos extrai-se que o direito à reparação civil exige-se a) ato ilícito; b) nexo causal; e c) o prejuízo.
+In casu, a demora no cancelamento da hipoteca em detrimento da apelada, que devidamente cumpriu suas obrigações contratuais ao quitar integralmente o preço do imóvel conforme acordado, e, mesmo assim, teve de se valer da via judicial para a obter a providência, implica em uma presunção de danos morais passíveis de indenização.
+Como bem acentuado na sentença, "Toda a exaustão proveniente da busca por resolução deste conflito supera os meros dissabores da vida cotidiana, sendo inclusive necessária a propositura da presente ação para a respectiva solução".
+ .. .
+Conclui-se, nesse pensar, que a demora injustificada na providência da liberação do gravame hipotecário gerou à apelada uma situação que vai além de mero dissabor. Essa circunstância justifica a reparação por danos morais, conforme alegado na petição inicial (mov. 1), onde os eventos são descritos como capazes de ocasionar "dissabores, frustrações e desconfortos experimentados pela Requerente". Soma-se, ainda, a perda de tempo injustificada.
+Tais fatos, inevitavelmente, resultaram em um sofrimento íntimo que vai além dos aborrecimentos comuns do dia a dia, contrariando a narrativa do apelado.
+Também em embargos de declaração, o Tribunal de origem consignou (fls. 1.122-1.123):
+De início, no que concerne à aplicação da Súmula 481, do Superior Tribunal de Justiça, e dos artigos 98, 99, 100 e 101 do Código de Processo Civil e artigo 47 da Lei 11.101/05, que versam sobre a gratuidade da justiça, verifica-se que quando da interposição do respectivo recurso de apelação, houve pedido de assistência judiciária por parte das ora embargantes, oportunidade em que foi determinado que "a documentação que retrate cabalmente a hipossuficiência financeira da empresa, quais sejam, os livros contábeis, balanços aprovados pela Assembleia, declaração de imposto de renda, deferimento do pedido de Recuperação Judicial, etc, entre outros que possam servir a este fim" (mov. 217), que foi apreciado na decisão inserida na movimentação 223, quando, então restou indeferido, nos seguintes termos:
+"Oportunizada a juntada de documentos que comprovassem suas condições de hipossuficientes para tal fim, nesta instância ad quem, as apelantes limitaram-se a colacionar aos presentes autos (mov. 221), prints do que seriam processos instaurados contra elas e valores inscritos em dívida ativa, deixando de trazer para apreciação deste Relator quaisquer dos documentos enumerados no despacho inserido na movimentação 217, tampouco justificaram a razão de tal omissão.
+Nesse contexto, reputo inexistir elementos suficientemente hábeis a ensejarem a concessão da gratuidade pretendida, porquanto impossível se extrair dos elementos coligidos aos autos a imprescindível hipossuficiência a justificar a concessão da benesse.
+De fato, não restou cabalmente demonstrada a impossibilidade das apelantes de suportarem as custas recursais.
+Desse modo, na hipótese dos autos, tendo em vista que as recorrentes não comprovaram, de modo inconteste, a alegada precariedade financeira, o indeferimento do benefício é medida que se impõe."
+Portanto, da leitura dessa decisão, o indeferimento da benesse se deu pela ausência de provas da demonstração da "impossibilidade de arcar com os encargos processuais".
+Desse modo, alterar o decidido no acórdão impugnado, quanto aos pontos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fl. 1.083) para 17%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação Declaratória c/c indenização por danos morais.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
