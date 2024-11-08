@@ -1,0 +1,11 @@
+DECISÃO
+MARCOS ANTONIO COELHO COUTO requer, às fls. 1.176-1.195, que sejam a ele estendidos os efeitos da decisão de fls. 1.163-1.167, que concedeu a ordem em favor do paciente (Franklin Fernandes Santiago), a fim de "reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor do acusado e, por conseguinte, fixar a pena do réu em 1 ano e 8 meses de reclusão, no regime aberto (com substituição da pena), mais pagamento de 166 dias-multa".
+Decido.
+De fato, verifico que o requerente está na mesma situação fático-processual que a do paciente. Isso porque a Corte estadual despendeu os mesmos fundamentos em relação a ambos para afastar a incidência do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, argumentos, esses, que foram tidos como inidôneos por esta Corte Superior de Justiça.
+Assim, porque caracterizada hipótese prevista no art. 580 do CPP, devem ser a ele estendidos os efeitos da decisão proferida às fls. 1.163-1.167.
+Aplicado, portanto, o redutor em questão e uma vez observada a dosimetria feita pela instância de origem, fica a sanção do acusado estabelecida em 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa.
+Da mesma forma, nos termos do art. 580 do CPP, deve ser a ele fixado o regime inicial aberto e determinada a substituição da reprimenda privativa de liberdade imposta ao paciente por duas restritivas de direitos, nos termos do art. 44 do CP, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+À vista do exposto, defiro o pedido de extensão formulado às fls. 1.176-1.195, a fim de reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor do requerente, aplicá-la no patamar de 2/3 e, por conseguinte: a) reduzir a sua reprimenda para 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa; b) fixar o regime aberto; c) determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, a serem escolhidas pelo Juízo das Execuções Criminais, à luz das especificidades do caso analisado (Processo n. 0000323-45.2016.8.26.0551 ).
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
