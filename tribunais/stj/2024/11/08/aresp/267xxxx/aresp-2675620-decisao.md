@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Banco Safra S.A., com fundamento no art. 105, III, a e c, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (e-STJ, fls. 424-425):
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. PRODUTORES RURAIS INDIVIDUAIS. COMPROVAÇÃO DO EXERCÍCIO DA ATIVIDADE RURAL. REQUISITOS EXIGIDOS PELOS ARTS. 48 E 51 DA LEI N. 11.101/2005. COMPROVADOS. DESNECESSIDADE DE PERÍCIA PRÉVIA. DECISÃO MANTIDA. 1. No requerimento da recuperação judicial as empresas devem instruir a inicial com documentos que comprovem o preenchimento dos requisitos estabelecidos pela Lei nº 11.101/2005, precipuamente aqueles constantes nos arts. 48 e 51. 2. A Corte Superior entende que para o deferimento do processo recuperacional ao produtor rural individual não é preciso comprovar o registro na Junta Comercial a mais de dois anos, sendo suficiente demonstrar por outros meios probatórios que exerce as atividades rurais, de forma empresarial, no referido período e que promoveu o seu registro antes do pedido recuperacional. 3. A perícia prévia é medida excepcional na demanda de recuperação judicial, cuja determinação é facultada ao juiz, amoldando-se necessária apenas nas hipóteses em que há dúvidas sobre a regularidade da documentação técnica que instrui a exordial ou acerca da atuação e atividade das empresas requerentes. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos em sequência foram rejeitados.
+Nas razões do apelo especial, o recorrente indicou divergência jurisprudencial e ofensa aos arts. 1.022, I e II, do CPC/2015; e 48, §§ 2º e 3º, 49, § 6º, e 51-A da Lei n. 11.101/2005.
+Sustentou a ocorrência de negativa de prestação jurisdicional.
+Defendeu a necessidade de realização de perícia prévia para demonstrar que a parte adversa não está em dificuldades financeiras.
+Afirmou que apenas os ativos e passivos vinculados às atividades do produtor rural se sujeitam à recuperação judicial, além de ser necessária a discriminação dos créditos nos documentos previstos nos arts. 48, §§ 2º e 3º, e 49, § 6º, da Lei n. 11.101/2005.
+Requereu a concessão de efeito suspensivo ao feito.
+Contrarrazões às fls. 553-558 (e-STJ).
+A Corte de origem indeferiu o pedido de efeito suspensivo, bem como inadmitiu o processamento do apelo especial.
+O insurgente então interpõe o presente agravo, por meio do qual contesta a aplicação do óbice apontado na decisão de admissibilidade.
+Parecer do Ministério Público Federal às fls. 608-611 (e-STJ).
+Brevemente relatado, decido.
+No que se refere à suposta negativa de prestação jurisdicional, percebe-se que a apontada violação não se sustenta, tendo em vista que o Tribunal a quo examinou, de forma fundamentada, todas as questões necessárias ao deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do ora insurgente.
+Registre-se, oportunamente, que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa das teses apresentadas. Deve apenas enfrentar a demanda, atendo-se às questões essenciais à sua resolução, o que foi feito no caso.
+A propósito:
+PROCESSUAL CIVIL. DESVIO DE ENERGIA ELÉTRICA. AUSÊNCIA DE COMPROVAÇÃO DA FRAUDE. INEXISTÊNCIA DE PROCEDIMENTO ADMINISTRATIVO APURATÓRIO. NÃO VIOLAÇÃO DOS ARTIGOS 1.022, II, 489, § 1º, II, do CPC/2015. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+ ..
+2. No tocante ao tema preliminar, não há violação dos arts. 1.022, II, 489, § 1º, II, do CPC/2015, na medida em que não se constata omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos, especialmente porque o Tribunal de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que embasam o decisum.
+3. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução, o que ocorreu no caso dos autos. Além disso, não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.315.137/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/9/2023, DJe de 21/9/2023.)
+No mais, vale pontuar que o magistrado é o destinatário da prova, cabendo a ele avaliar a sua necessidade e relevância, não constituindo cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando considerada inútil ou meramente protelatória.
+A título exemplificativo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA. EMPRÉSTIMO CONSIGNADO EM BENEFÍCIO PREVIDENCIÁRIO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SUFICIÊNCIA DAS PROVAS. PRINCÍPIO DA PERSUASÃO RACIONAL. SÚMULA 7/STJ. LITIGÂNCIA DE MÁ-FÉ RECONHECIDA NAS INSTÂNCIAS ORDINÁRIAS. ACÓRDÃO FUNDAMENTADO RECONHECENDO A ALTERAÇÃO DA VERDADE DOS FATOS. AFASTAMENTO DA MULTA APLICADA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere o pedido de produção de prova oral. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias, motivadamente.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.197.457/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/5/2023, DJe de 7/6/2023.)
+No caso, o Colegiado local entendeu, fundamentadamente, pela desnecessidade de produção da prova pericial, consignando que não haveria dúvidas acerca da regularidade da documentação técnica que instrui a exordial ou acerca da atuação e atividade dos requerentes, de modo que a desconstituição do referido entendimento demandaria, impreterivelmente, o reexame de fatos e provas, o que esbarra na Súmula 7 deste STJ.
+Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ART. 17 DO CPC. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. LITISCONSÓRCIO PASSIVO NECESSÁRIO. INEXISTÊNCIA. REEXAME DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. MATÉRIA CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. SÚMULA 7/STJ. ART. 54 DA LEI 9.784/1999. APLICAÇÃO NO ÂMBITO MUNICIPAL. SÚMULA 280/STF.
+ ..
+6. "A aferição da necessidade de produção de determinada prova impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, ante o óbice erigido pela Súmula 7/STJ" (EDcl no REsp n. 1.798.895/SP, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 5/5/2020). Nesse sentido: AgInt no AREsp n. 2.061.471/SP, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 13/12/2022.
+
+8. Agravo interno desprovido.
+(AgInt no AREsp n. 2.091.837/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/6/2023, DJe de 9/6/2023.)
+Por fim, observa-se que a Corte originária concluiu pela presença dos requisitos necessários ao deferimento do processamento da recuperação judicial, nos termos da seguinte fundamentação (e-STJ, fls. 429-434):
+Cinge-se a controvérsia recursal em apurar se os agravados Martha Coury Coelho e Luiz Fernando Coelho acostaram documentos aptos a demonstrar o cumprimento dos requisitos necessários a estear o deferimento do pedido de recuperação judicial realizado nos autos principais  .. .
+Inicialmente, observa-se do processo de origem que o grupo econômico para o qual foi deferido o processamento da recuperação judicial, por meio da decisão agravada, é composto pela Boa Vista Alimentos Ltda. e pelas empresas constituídas pelos empresários individuais (produtores rurais) Martha Coury Coelho e Luiz Fernando Coelho.
+Considerando a análise perfunctória inerente à decisão liminar, impende ressaltar que, até o julgamento daquele pleito por este juízo (mov. 04), pelo qual foi concedida a suspensão da recuperação judicial em relação aos produtores rurais individuais Martha C. Coelho e Luiz Fernando Coelho, ainda não havia nos autos originários comprovação satisfatória do cumprimento dos requisitos estabelecidos pelo art. 48 e 51 da Lei nº 11.101/2005.
+Nos termos dos art. 48 da Lei nº 11.101/2005, os requisitos para o requerimento, e consequente deferimento, da recuperação judicial são os seguintes:
+
+Nota-se, ainda, que  os produtores rurais agravados  lograram êxito em comprovar o requisito temporal de dois anos, definido pelo supramencionado dispositivo, além da existência do grupo econômico, por atuarem de forma conjunta, em efetiva comunhão de interesses, fatos demonstrados por meio da juntada de notas fiscais em nome dos produtores e da empresa Boa Vista Alimentos, inscrição na Junta Comercial, contratos de arrendamento de área rural, (mov. 01- arqs. 365 e 366 / mov. 60 e 61), documentos tais que demonstram que os produtores rurais individuais agravados já exercem a atividade rural empresarial pelo menos desde o ano de 2018 (Luiz Fernando) e de 2020 (Martha).
+
+Ademais, evidenciada a juntada de toda a relação de documentos que atende ao art. 51 da lei de regência, tendo sido acostados livros-caixa, declaração de imposto de renda, fluxo de caixa, dentre outros, às movs. 01, 04, 60 e 61 dos autos originários.
+Cumpre salientar que, da redação do art. 48, §§ 2º, 3º e 4º , inseridos pela Lei nº 14.112/21, depreende-se que a análise dos documentos a comprovar a atividade rural por produtores individuais deve ser efetivada de forma mais ampla, sopesando que a grande maioria deles apresenta estrutura simples, razão pela qual podem ser utilizados como meios comprobatórios do exercício da atividade o livro caixa, registros contábeis e declaração de imposto de renda e balanço patrimonial.
+ ..
+Logo, é medida impositiva a manutenção da decisão agravada que considerou comprovado o cumprimento dos requisitos elencados nos arts. 48 e 51, da Lei nº 11.101/05 e deferiu o processamento da recuperação judicial dos agravados.
+Para desconstituir a convicção formada, seria indispensável o revolvimento do acervo fático-probatório, procedimento vedado na via eleita, ante a previsão contida na Súmula 7 deste Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. PROVA PERICIAL. DESNECESSIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. DEFERIMENTO DO PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. PRESENÇA DOS REQUISITOS NECESSÁRIOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 4. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
