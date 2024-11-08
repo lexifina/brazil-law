@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALBERTO PEREIRA NETO, com pedido liminar, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus n. 2294557-24.2024.8.26.0000.
+Consta dos autos que o paciente foi preso preventivamente em 15/6/2024 e, posteriormente, denunciado pela prática dos delitos previstos nos arts. 33, caput, e 35, caput, ambos da Lei de Drogas, na forma do art. 69, caput, do Código Penal. Foram apreendidos 308,4 kg de maconha, além de dois cadernos com anotações, e R$ 13.000,00 (treze mil reais) - fl. 73.
+O Tribunal de origem denegou a ordem de habeas corpus (fls. 21/27).
+Neste writ, segundo a defesa, a autoridade coatora transbordou em seu ofício jurisdicional ao buscar complementar a fundamentação da decisão de piso, originalmente atacada (fl. 9).
+Aduz o impetrante que a decisão que ratificou o recebimento da inicial acusatória é nula, pois ausentes fundamentos idôneos.
+Requer, liminarmente, a (i) suspensão da audiência designada para o dia 5 de dezembro de 2024, às 14horas, até o julgamento final do presente writ, bem como seja (ii) concedido o direito do Paciente aguardar o processo em liberdade, com imposição das cautelares distintas da prisão, previstas no artigo 319 do CPP (fl. 20).
+No mérito, pede a concessão da ordem de habeas corpus, a fim de que o processo criminal seja anulado a partir da decisão que ratificou o recebimento da denúncia, determinando-se a prolação de outra decisão apreciando a resposta à acusação apresentada pelo Paciente de forma devidamente fundamentada, deferindo-se, ainda, o direito do Paciente responder ao processo em liberdade (fl. 20).
+É o relatório.
+No caso, o Juiz de primeiro grau consignou que  a s alegações formuladas em resposta à acusação não autorizam a absolvição sumária, já que dependem da instrução probatória (fl. 112).
+A Corte local, por sua vez, afirmou não haver necessidade de um ritual mais solene para reconhecer que a denúncia ou queixa foi recebida, já que é desnecessária a motivação detalhada para o recebimento. Ademais, nem é conveniente que o faça, sob pena de adentrar na cognição exauriente própria do final da instrução (fl. 24).
+Com efeito, o Magistrado singular entendeu pela ausência das hipóteses de absolvição sumária listadas no art. 397 do Código de Processo Penal. Nessa fase processual, destacou que as alegações defensivas demandam instrução probatória. Isso não afasta das partes a possibilidade de elucidarem suas teses no momento oportuno (ver, nesse sentido, o AgRg no RHC n. 195.553/AC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/6/2024).
+O Superior Tribunal de Justiça já se posicionou, de forma consolidada, pela inexigibilidade de fundamentação complexa na decisão que recebe a denúncia, em razão de sua natureza interlocutória, não se equiparando à decisão judicial a que se refere o art. 93, IX, da Constituição Federal (AgRg no RHC n. 195.217/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/5/2024).
+No mesmo sentido, não sendo caso de absolvição sumária, a motivação acerca das teses defensivas formuladas na resposta à acusação deve ser sucinta, de forma a não se traduzir em indevido julgamento prematuro da causa (AgRg no RHC n. 195.217/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/5/2024).
+Em conclusão, não ocorreu acréscimo de fundamentação pela Corte local, mas somente a resposta judicial ao argumento defensivo apresentado naquela instância. Do contrário, estaria a defesa alegando, nesta via, falta de fundamentação.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PROCESSUAL PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. ACRÉSCIMO DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. RATIFICAÇÃO DO RECEBIMENTO DA DENÚNCIA APÓS RESPOSTA À ACUSAÇÃO. DECISÃO NÃO FUNDAMENTADA. MOTIVAÇÃO SUCINTA. LEGALIDADE. PRECEDENTES.
+Petição inicial indeferida liminarmente.
