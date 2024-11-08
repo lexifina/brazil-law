@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S.A..
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Prestação de serviços. Publicidade em linhas telefônicas. Demanda declaratória de inexistência de relação jurídica cumulada com pedido indenizatório. Negativa pela autora da assinatura do contrato por qualquer funcionário seu. Gerente que atuava na época, entretanto, que admitiu em juizo ter firmado o documento. Negócio válido, de objeto claro e facilmente compreensível, vinculante das partes subscritoras. Aplicação da teoria da aparência quanto aos poderes do funcionário que se dispôs a praticar o ato em nome da empresa. Serviços efetivamente prestados. Cobrança legitima. Sentença que julgou improcedentes a demanda principal e a cautelar, e procedente a reconvenção (apresentada pela ré com vistas à cobrança do valor do débito) integralmente confirmada. Reconhecimento da litigância de má-fé da autora , pela alteração da verdade dos fatos. Apelação da autora desprovida, com imposição de sanção" (fl. 867 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fl. 882 e-STJ).
+Nas razões do recurso especial, a recorrente aponta violação dos artigos 11, 79, 81, 489, § 1º, IV, 1.013 e 1.022, I, II e III, do CPC; 47, 104 e 422 do CC; 138 da Lei nº 6.404/1976 e 6º do CDC. Defende, em síntese, que o negócio celebrado deve ser anulado e que deve ser afastada a multa por litigância de m á-fé.
+Sem as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, a corte local consignou:
+"(..)
+Com efeito. O contrato juntado na fl. 44 não se reveste de qualquer irregularidade. O documento é claríssimo e mais que compreensível quanto ao seu objeto, nada havendo nele que permita acolher a versão da empresa-autora de indução do aderente em erro mediante a sugestão de mera ficha de atualização cadastral argumento passível de questionamento diante da afirmação de inexistência em absoluto de qualquer relação entre as partes.
+O instrumento contratual menciona claramente que o objeto é a inserção de figurações publicitárias nas edições 2007 e 2008 do "Guia Sim" ("edições contratadas 2007 e 2008"), preveem-se as modalidades de figuração (impressa e na intemet), fala-se na forma de pagamento (parcelado), na data de vencimento da primeira parcela, no valor das parcelas a pagar, numericamente e por extenso, no número de parcelas por edição (doze) e na forma de cobrança (boleto). Há inclusive a ressalva que o contrato poderia ser cancelado em até sete dias úteis contados de assinatura. Não se consegue imaginar o que mais precisaria haver para explicitar que se trata da contratação da publicação de um anúncio; tais elementos se mostram mais do que suficientes.
+(..)
+Não há enfim motivo para afastar as cobranças, escoradas em regular prova documental do crédito, com a observação derradeira de que a ré comprovou o adimplemento de sua prestação, juntando as inserções contratadas e devidamente realizadas em nome da empresa-autora (fls. 50/57).
+(..)
+Pela tentativa de alteração da verdade dos fatos, outrossim, fica a autora condenada, como litigante de má-fé (art. 17, 11, do CPC/73), a pagar à parte contrária indenização, arbitrada à luz do art. 18, § 2a, do CPC/73, em 5% (cinco por cento) do valor dado à causa, devidamente atualizado." (fls. 869/871 e-STJ).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento." (AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido." (AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+Ademais, rever a conclusão da Corte de origem exigiria o reexame de cláusulas contratuais e de fatos e provas dos autos, o que esbarra nas Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pela ora recorrente, devem ser majorados para R$ 2.000,00 (dois mil reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
