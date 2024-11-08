@@ -1,0 +1,86 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5019612-95.2023.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: ALESSANDRA DO CARMO MARTINS BERTOLLO
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e nao acolher os Embargos de Declaracao, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado no autos nº 5019612-95.2023.8.08.0012
+Recorrente: EDP ESPÍRITO SANTO DISTRIBUIÇÃO DE ENERGIA S.A.
+Recorrida: ALESSANDRA DO CARMO MARTINS BERTOLLO
+Relator: DR. FELIPE LEITÃO GOMES
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA. RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO INDENIZATÓRIA. DIREITO DO CONSUMIDOR. (1). DA LIDE.
+A PARTE AUTORA ALEGA QUE É USUÁRIA TITULAR DO SERVIÇO DE FORNECIMENTO DE ENERGIA ELÉTRICA OFERTADO PELA REQUERIDA. INFORMA QUE INGRESSOU COM DEMANDA ANTERIOR EM FACE DA REQUERIDA, NA QUAL SE DISCUTIA A INEXIGIBILIDADE DE UM TOI NO VALOR DE R$ 4.220,99, NA QUAL SAIU VITORIOSA, CONTUDO, ENTENDE QUE A COBRANÇA INDEVIDA LHE CAUSOU DANOS, FAZENDO JUS A INDENIZAÇÃO POR DANOS MORAIS. ASSIM, INGRESSOU COM A PRESENTE AÇÃO PLEITEANDO O PAGAMENTO DE R$ 15.000,00 (QUINZE MIL REAIS) A TÍTULO DE DANOS MORAIS.
+(2). DISPOSITIVO DA SENTENÇA.
+“Isto posto, na forma do art. 487, inc. I, do CPC,
+julgo procedente
+o pedido inicial para condenar a ré a pagar R$ 3.000,00 (três mil reais), corrigidos pela taxa SELIC (STJ, AgInt no REsp 1752361) desde a data de publicação desta sentença (STJ, Súmula nº 362). Sem custas e honorários advocatícios (art. 55, Lei nº 9.099/95)”.
+(3). RECURSO DA PARTE RÉ.
+POSTULA, EM SÍNTESE, PELA REFORMA INTEGRAL DO ATO SENTENCIAL OBJURGADO, JULGANDO-SE, POR CONSEGUINTE, IMPROCEDENTE TODOS OS PEDIDOS AUTORAIS. SUBSIDIARIAMENTE, PUGNA PELA REDUÇÃO DO
+QUANTUM
+INDENIZATÓRIO FIXADO A TÍTULO DE DANOS MORAIS.
+(4). CONTRARRAZÕES DA PARTE AUTORA.
+ALMEJA, EM SUMA, A MANUTENÇÃO DA R. SENTENÇA.
+(5). DO MÉRITO.
+A PRIORI
+, CUMPRE-ME DESTACAR QUE A DEMANDA EM TELA VERSA SOBRE DIREITO DO CONSUMIDOR, INCIDINDO, PORTANTO, AS NORMAS CONSTANTES DA LEI N.º 8.078/1990, SENDO A AUTORA, CONSUMIDORA NA FORMA DO ART. 2.º E A REQUERIDA FORNECEDORA NA FORMA DO ART. 3.º, AMBOS DO ALUDIDO DIPLOMA LEGAL. O CERNE DA PRESENTE LIDE PRENDE-SE EM APURAR SE A SUSPENSÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA NA INSTALAÇÃO DA RECORRIDA OCORRIDA EM 26/04/2023, DIANTE DE CONSUMO APURADO DE FORMA IRREGULAR, É VÁLIDA, BEM COMO SE HÁ DANO MORAL A SER INDENIZADO. O JUÍZO
+A QUO
+, EM SUA SENTENÇA, JULGOU PROCEDENTE O PLEITO AUTORAL RECONHECENDO A EXISTÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO DA ENTÃO RECORRENTE, CONDENANDO-A EM R$ 3.000,00 (TRÊS MIL REAIS) A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS. POIS BEM. AO ANALISAR A PEÇA RECURSAL, NOTO, SEM MAIORES DIFICULDADES, QUE OS ARGUMENTOS ALI LANÇADOS SÃO INSUFICIENTES PARA CONTRAPOR OS TERMOS DA R. SENTENÇA VERGASTADA. EXPLICO. QUANTO A SUPOSTA LEGALIDADE DA INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA, TENHO QUE RAZÃO SE DISTANCIA DA PARTE RECORRENTE, POIS TAL MATÉRIA SE ENCONTRA SEDIMENTADA EM TESE REPETITIVA NO ÂMBITO DO C. STJ. A PROPÓSITO, É O RECURSO ESPECIAL REPETITIVO Nº 1412433/RS,
+IN VERBIS
+:
+(...) TESE REPETITIVA 15. Para fins dos arts. 1.036 e seguintes do CPC/2015, fica assim resolvida a controvérsia repetitiva: Na hipótese de débito estrito de recuperação de consumo efetivo por fraude no aparelho medidor atribuída ao consumidor, desde que apurado em observância aos princípios do contraditório e da ampla defesa, é possível o corte administrativo do fornecimento do serviço de energia elétrica, mediante prévio aviso ao consumidor,
+pelo inadimplemento do consumo recuperado correspondente ao período de 90 (noventa) dias anterior à constatação da fraude, contanto que executado o corte em até 90 (noventa) dias após o vencimento do débito
+, sem prejuízo do direito de a concessionária utilizar os meios judiciais ordinários de cobrança da dívida, inclusive antecedente aos mencionados 90 (noventa) dias de retroação. (...) (REsp 1412433/RS, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 25/04/2018, DJe 28/09/2018) (original sem destaque).
+DESTARTE, TENDO A PARTE RECORRENTE EFETUADO A INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA, RELATIVA A DÉBITO PRETÉRITO, AFASTANDO-SE DAS DIRETRIZES FIRMADAS NO REPETITIVO, SUA PRETENSÃO RECURSAL, NESTE PARTICULAR, TAMBÉM NÃO MERECE PROVIMENTO. É QUE, CONSOANTE PREVISTO NO PARADIGMA REPETITIVO, A INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA (CORTE ADMINISTRATIVO), SÓ PODERÁ OCORRER PELO INADIMPLEMENTO DO CONSUMO RECUPERADO CORRESPONDENTE AO PERÍODO DE 90 (NOVENTA) DIAS ANTERIOR À CONSTATAÇÃO DA FRAUDE, CONTANTO QUE EXECUTADO O CORTE EM ATÉ 90 (NOVENTA) DIAS APÓS O VENCIMENTO DO DÉBITO, DIRETRIZ NÃO OBSERVADA PELA RECORRENTE. NO TOCANTE AO PEDIDO DE MINORAÇÃO DO VALOR DOS DANOS MORAIS FIXADOS, TAMBÉM NÃO ASSISTE RAZÃO À PARTE RECORRENTE, JÁ QUE A INTERRUPÇÃO FOI INDEVIDA E COM BASE EM PROCEDIMENTO ILEGAL, RETIRANDO DA PARTE A OPORTUNIDADE AO CONTRADITÓRIO E AMPLA DEFESA E PRIVANDO DO USO DE UM BEM DE CARÁTER ESSENCIAL, O QUE, POR CERTO, LHE CAUSOU CONTUNDENTE ABALO MORAL, NOTADAMENTE POR SE TRATAR DE BEM ESSENCIAL, CARACTERIZANDO ASSIM O DANO MORAL -
+IN RE IPSA -
+BASTANDO A DEMONSTRAÇÃO DO FATO GERADOR DO DANO QUE CAUSE DOR E SOFRIMENTO, QUE A REPARAÇÃO É PRESUMIDA. ASSIM, AO LHE CAUSAR CONTUNDENTE ABALO MORAL, MERECE SER MANTIDA A INDENIZAÇÃO ARBITRADA EM R$ 3.000,00 (TRÊS MIL REAIS), PATAMAR CONSENTÂNEO COM O DANO SOFRIDO.
+(6).
+DIANTE DO EXPOSTO,
+CONHEÇO
+DO RECURSO INOMINADO E, NO MÉRITO
+NEGO-LHE PROVIMENTO
+, MANTENDO A SENTENÇA DE PRIMEIRO GRAU. CONDENO A PARTE RECORRENTE EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FIXO EM 10 % SOBRE O VALOR DA CAUSA, COM FINCAS NO ART. 55 DA LEI 9.099/95.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
