@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de LUIS PAULO BARBOSA PENTEADO, no qual se aponta como autoridade coatora o Desembargador Relator do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que indeferiu liminar no HC n. 5319181-76.2024.8.21.7000/RS (fls. 210/211), mantendo a prisão preventiva decretada pelo Juízo de primeiro grau, em razão da suposta prática do crime previsto no art. 302 do Código de Trânsito Brasileiro (Inquérito Policial n. 5053110-94.2024.8.21.0010/RS - fl. 185).
+Pretende a defesa, em suma, a superação da Súmula 691/STF, pois não haveria fundamentação idônea na decretação e na manutenção da prisão preventiva. Alega que o paciente é primário, com trabalho e residências fixos, além de ser acometido por graves doenças - musculares e pulmonares (não tem um dos pulmões) - (fl. 11). Aduz que a falta de CNH (que estava suspensa) do Paciente, não conduz automaticamente a culpa deste (fl. 16).
+Postula, por fim, a concessão da liberdade provisória.
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorre no caso em tela.
+Com efeito, a princípio, não verifico a ocorrência de nenhum constrangimento ilegal, pois o Desembargador do Tribunal de origem indeferiu o pedido liminar, nestes termos (HC n. 5319181-76.2024.8.21.7000/RS - fls. 210/211 - grifo nosso):
+O decisum proferido em 09-11-2023 (IP 23.1) possui fundamentação conectada com a realidade apresentada pelos elementos colhidos nos autos do flagrante, ao que transcrevo o seguinte trecho a fim de evitar tautologia:
+ ..
+Pelo M.M Juiz de Direito foi dito: Não obstante os argumentos trazidos pela Defesa, são razoáveis as ponderações feitas pelo Parquet. Isso porque o flagrado tinha conhecimento da sua limitação para conduzir veículo automotor - motivo pelo qual lhe foi negada a renovação da CNH - o que deixa a sua conduta no limiar do dolo eventual e da culpa consciente, o que será melhor esclarecido após a conclusão do inquérito policial. Outrossim, como referido pelo Ministério Público, o flagrado já respondeu por lesão corporal na condução de veículo automotor. Portanto, se negada a renovação da CNH o flagrado continuou a conduzir veículo automotor, não há garantia de que irá cumprir voluntariamente medidas cautelares diversas da prisão com a mesma finalidade. Assim, por ora, DECRETO A PRISÃO PREVENTIVA DE LUIS PAULO BARBOSA PENTEADO para garantia da ordem pública, com fundamento no artigo 312 do CPP.
+ ..
+Do exposto, constata-se ressaltada a gravidade do fato e a probabilidade de o paciente, sem a constrição imposta, colocar em risco a ordem pública e a segurança do trânsito.
+Ademais, o proprietário do automotor atingido pelo suplicado relatou à autoridade policial que o veículo Pálio estava sendo conduzido de maneira irregular (IP 1.10):
+ ..
+avistou quando um VEICULO BRANCO VINHA NA CONTRAMÃO, em alta velocidade e estava fazendo ZIGUE ZAGUES NA PISTA. Atrás do seu veiculo vinha UM MOTOQUEIRO a baixa velocidade também. Como o PALIO ESTAVA NA CONTRAMÃO, para não ser atingido de frente, o depoente jogou seu carro para o contrafluxo, sendo que, neste momento, o PALIO COLIDIU NA LATERAL de seu veiculo, jogando-o para o outro lado da pista. O motoqueiro que vinha de forma normal, atrás do seu carro, não teve a mesma sorte e, como o palio ainda estava na contramão, o motoqueiro foi atingido FRONTALMENTE PELO PALIO, vindo de pronto a cair ao chão.
+ ..
+Demais considerações envolvendo circunstâncias fáticas, notadamente se estava ou não conduzindo o veículo em alta velocidade, convergiriam em discussão vedada em sede de habeas corpus, em virtude de seu caráter de cognição sumária.
+Estas circunstâncias revelam a gravidade do delito e orientam a urgente retirada do inculpado das vias públicas, na condição de condutor de veículos automotores, na medida em que, diante de sua condições física e suposta ausência de habilitação, se espera cuidados redobrados e observância rígida às legislações de trânsito.
+Daí porque, da análise conjunta dos elementos coligidos, ratifico a necessidade, a suficiência e a adequação da medida decretada em desfavor do paciente, de acordo com o que proclamam os artigos 282 do CPP e artigo 294 do Código de Trânsito Brasileiro, evidenciado o risco à ordem pública e à segurança viária.
+Com relação à sua condição física, indemonstrada, a priori, situação de extrema debilidade a tornar inviável a permanência do favorecido em estabelecimento prisional, cediço que eventual medicação ou tratamento necessários podem ser oportunizados no interior do ergástulo.
+De modo que, para o integral enfrentamento da impetração, necessário aguardar as informações a serem prestadas pelo juízo de Primeiro Grau apontado como autoridade coatora.
+Assim, não verifico, de plano, a existência de flagrante ilegalidade a ser sanada.
+Dessa forma, entendo que mais adequado e prudente será reservar primeiramente ao Tribunal a quo a análise meritória, ventilada no writ originário, que, no momento oportuno, examina rá os "contorno s" e "nuances" delineadores da questão, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte estadual.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publiq ue-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. WRIT IMPETRADO CONTRA A DECISÃO MONOCRÁTICA DO RELATOR QUE INDEFERIU LIMINAR EM HC ORIGINÁRIO. SÚMULA 691/STF. APLICABILIDADE. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA.
+Habeas corpus indeferido liminarmente.
