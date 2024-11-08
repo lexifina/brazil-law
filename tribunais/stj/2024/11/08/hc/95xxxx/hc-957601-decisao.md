@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PEDRO HENRIQUE LOPES DA SILVA contra acórdão assim ementado:
+HABEAS CORPUS - PLEITO PARA REVOGAÇÃO DA PRISÃO PREVENTIVA MANTIDA NA SENTENÇA CONDENATÓRIA - AUSÊNCIA DOS REQUISITOS PREVISTOS NO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL - DECISÃO QUE CONDENOU O PACIENTE AO REGIME SEMIABERTO - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL ORDEM DENEGADA.
+Imputa-se ao paciente a prática do crime de furto qualificado, tipificado no art. 155, §4º, III, do Código Penal, tendo sido condenado à pena de 2 anos e 6 meses de reclusão, a ser cumprida no regime inicial semiaberto, não lhe tendo sido permitido recorrer em liberdade. Consta que, mediante emprego de chave falsa, o paciente teria subtraído veículo automotor de terceiro.
+A defesa alega, em síntese, ausência de fundamentação concreta na manutenção da prisão preventiva do paciente, notadamente por ser primário, possuir residência fixa e já ter cumprido lapso temporal que autorize progressão de regime.
+Ao final, requer a concessão da ordem para revogar a prisão preventiva do paciente, com ou sem a imposição de medida cautelar alternativa.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Isso porque, da leitura do acórdão impugnado (e-STJ fls. 11/25), observa-se que o Tribunal de origem entendeu adequada a manutenção da prisão preventiva do paciente, considerando que, não obstante decisão anterior desta Corte Superior determinando a conversão da prisão preventiva em medidas cautelares alternativas, o paciente deixou de cumprir a exigência de comparecimento mensal em juízo, não estado presente, inclusive, na audiência de instrução, de modo que foi determinada a revogação de sua liberdade provisória.
+Desse modo, observa-se que a prisão preventiva mostra-se bem fundamentada, diante do descumprimento das medidas cautelares impostas.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. FURTO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. DESCUMPRIMENTO DE MEDIDA CAUTELAR. FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. RÉU FORAGIDO POR TRÊS ANOS, VINDO A SER PRESO EM OUTRO ESTADO DA FEDERAÇÃO.
+Agravo regimental improvido.
+(AgRg no RHC n. 190.814/AL, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E APLICAÇÃO DA LEI PENAL. DESCUMPRIMENTO DE MEDIDA CAUTELAR. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do imputado.
+2. In casu, a custódia cautelar está suficientemente fundamentada na necessidade de assegurar, além da conveniência da instrução criminal, a aplicação da lei penal, pois, conforme consignado no decreto preventivo, o paciente teria descumprido as medidas cautelares anteriormente fixadas, que impunham a ele as obrigações de comparecimento a todos os atos do processo e de comparecer mensalmente perante o Juízo.
+3. Ainda que se trate de pessoa em situação de rua, essa condição, por si só, não o exime de cumprir às medidas cautelares impostas em juízo quando da concessão da liberdade provisória, sob pena de se conferir salvo-conduto a qualquer pessoa que se encontre nessa situação para que, a seu critério, descumpra imposições judiciais.
+No caso em apreço, aliás, o acusado, que tem ciência do processo judicial e das obrigações impostas pelo Juízo de primeiro grau - entre elas, a de comparecimento mensal parente o Juízo -, não se apresenta ao Poder Judiciário há mais de 1 (um) ano.
+4. Verificar se houve, de fato, o descumprimento das medidas cautelares - conforme asseverado pelas instâncias ordinárias - demandaria detido e profundo revolvimento fático-probatório, o que é inviável na via do habeas corpus.
+5. Agravo regimental não provido.
+(AgRg no HC n. 746.495/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022.)
+Ademais, na hipótese em comento, não há falar em necessidade compatibilização da prisão preventiva ao regime prisional imposto na sentença, tendo em vista que, no caso dos autos, consoante se observa do acórdão impugnado, já foi expedida guia de execução provisória da pena em 30/9/2024, conforme se observa às fl. 24.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
