@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MIQUEIAS FERNANDES KOCH, alegando constrangimento ilegal por parte do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA no HC n. 8051244- 11.2023.8.05.0000.
+Consta dos autos que o paciente está preso preventivamente pela suposta prática do delito capitulado no art. 121, §2º, VII, c/c art. 14, II, do Código Penal c/c art. 33, caput, da Lei n. 11.343/2006 e art. 14, da Lei n. 10.826/2003.
+Neste writ, a Defesa alega a existência de excesso de prazo para a formação da culpa, em razão da ausência de sentença de pronúncia ou impronúncia, com consequente violação aos princípios da razoabilidade dos prazos processuais e da proporcionalidade. Sustenta que não mais subsistem razões para a privação da liberdade do paciente e pugna substituir o cárcere por medidas cautelares diversas da prisão. Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva, expedindo alvará de soltura, fixando, caso necessárias, cautelares alternativas previstas no art. 319 do CPP.
+A liminar foi indeferida (fls. 444/446).
+Informações processuais prestadas às fls. 448/452.
+O Ministério Público Federal opinou pelo não conhecimento da impetração ou, alternativamente, caso conhecido, pela denegação da ordem (fls. 465/470).
+É o relatório.
+DECIDO.
+De início, registro que, em consulta ao site do Tribunal de Justiça do Estado da Bahia, pude constatar nos autos da Ação Penal em comento (n. 8000104-08.2022.8.05.0182) que, em 17/10/2024, a ação foi julgada parcialmente procedente para impronunciar o paciente, com fulcro no art. 414 do Código de Processo Penal, e condená-lo como incurso no art. 33, caput, da Lei 11.343/06 e art. 14 da Lei 10.826/03, às penas de 6 (seis) anos e 3 (três) meses de reclusão e seiscentos dias-multa para o crime de tráfico de drogas, e 2 (dois) anos e 3 (três) meses de reclusão e 11 (onze) dias-multa para o crime de porte ilegal de arma de fogo, em regime inicial fechado, tendo-lhe sido negado o direito a recorrer em liberdade.
+Pois bem. Como supramencionado, a prisão cautelar do ora condenado atualmente decorre de novo título judicial, decisão exarada pelo Juízo de primeiro grau em consonância com o que determina o § 1º do art. 387 do Código de Processo Penal, com a redação que lhe foi dada pela Lei n. 12.736/2012 (O juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta), motivo pelo qual fica prejudicada a análise do anterior decreto prisional impugnado nesta impetração.
+A propósito, o Supremo Tribunal Federal, por maioria de votos, assentou o entendimento de que
+a sentença condenatória superveniente, ainda que não lance mão de fundamentos induvidosamente autônomos e diversos da ordem prisional originária, prejudica a impetração voltada à impugnação do decreto segregatório inicialmente atacado, a ensejar o não conhecimento da impetração. Tal cenário, contudo, não impede o exame da excepcional concessão da ordem de ofício, o que exige configuração de ilegalidade flagrante ou manifesta teratologia. (HC 143.333, Relator Edson Fachin, Tribunal Pleno, julgado em 12/04/2018, DJe de 21/03/2019).
+Aliás, a prolação da sentença condenatória atrai a incidência do enunciado da Súmula n. 52/STJ à hipótese (Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo).
+Desse modo, evidencia-se a perda superveniente do interesse da presente impetração.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
