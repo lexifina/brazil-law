@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL OMISSÃO E CONTRADIÇÃO. MANIFESTA IMPROCEDÊNCIA. VIOLAÇÃO DE D ISPOSITIVOS CONSTITUCIONAIS, DESCABIMENTO. CARÁTER PROTELATÓRIO. ADVERTÊNCIA.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Embargos de declaração opostos por Hudson Carlyle Santos Batista ao acórdão da Sexta Turma, assim ementado (fl. 4.708):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. SÚMULA 83/STJ. INADMISSIBILIDADE. PRECEDENTES DESTA CORTE. DECISÃO AGRAVADA MANTIDA.
+1. O Enunciado Sumular 83/STJ é aplicável aos recursos interpostos com fulcro nas alíneas "a" e "c" do permissivo constitucional, de modo que, tendo a decisão de inadmissibilidade decidido que o acórdão recorrido estaria em sintonia com a jurisprudência do STJ (Súmula 83/STJ), caberia ao agravante demonstrar, nas razões do agravo, que a orientação jurisprudencial do Superior Tribunal de Justiça é diversa ou que a situação retratada nos autos possui uma peculiaridade que a distingue daquelas objeto dos precedentes invocados, o que não ocorreu na espécie. Precedentes do STJ.
+2. Agravo regimental improvido.
+Nas razões, a defesa do embargante aduziu que o acordão padece dos seguintes vícios: 1) omissão quanto à aplicação da Súmula 83/STJ e às peculiaridades do caso concreto; 2) contradição na aplicação da Súmula 7/STJ; 3) omissão quanto à intimação eletrônica e cerceamento de defesa; e 4) omissão quanto à violação do princípio da identidade física do juiz.
+Na sequência, apontou violação de preceitos constitucionais para fins de prequestionamento.
+Pugnou, assim, pela supressão dos vícios apontados, bem como pela manifestação expressa sobre as questões constitucionais mencionadas, com fins de prequestionamento para eventual interposição de Recurso Extraordinário (fl. 4.728 ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL OMISSÃO E CONTRADIÇÃO. MANIFESTA IMPROCEDÊNCIA. VIOLAÇÃO DE D ISPOSITIVOS CONSTITUCIONAIS, DESCABIMENTO. CARÁTER PROTELATÓRIO. ADVERTÊNCIA.
+Embargos de declaração rejeitados.
+VOTO
+Os aclaratórios são manifestamente improcedentes.
+Ao contrário do alegado nos embargos de declaração, o acórdão embargado, em nenhum momento, aplicou os óbices da Súmula 83/STJ e 7/STJ, tendo se limitado a analisar o agravo interposto para fins de destrancar o recurso especial e, após o cotejo das razões daquele recurso com os fundamentos da decisão de inadmissão, concluído que um dos fundamentos da decisão de inadmissão (Súmula 83/STJ) não foi devidamente impugnado nos moldes preconizados na jurisprudência desta Corte, circunstância que culminou na inadmissão do agravo.
+Logo, não há falar em omissão na análise da Súmula 83/STJ, tampouco em contradição na aplicação da Súmula 7/STJ.
+No que se refere às duas últimas omissões, cumpre rememorar que a ausência de análise das questões veiculadas no recurso especial consubstancia consequência direta da inadmissão do agravo (art. 1.042 do CPC) que objetivava destrancar aquele recurso.
+Assim, também não procede a tese de omissão decorrente da ausência de análise das teses de nulidade no julgamento da apelação (ausência de intimação), cerceamento de defesa e violação do princípio da identidade física do juiz.
+No mais, verifica-se que o acórdão ostenta fundamentação clara e suficiente para a inadmitir o agravo.
+A esse respeito, cumpre destacar a orientação do Supremo Tribunal Federal, firmada em julgado com repercussão geral, no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (QO no AI n. 791.292, julgado sob a relatoria do Ministro Gilmar Mendes), circunstância verificada no caso, eis a ementa do julgado:
+ ..  Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral . Em face do exposto, rejeito os embargos de declaração.  ..
+Por fim, destaco que, consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento (AgInt no AREsp n. 2.425.182/SP, Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe 22/8/2024 - grifo nosso).
+No mesmo sentido, confira-se:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL. FATOS SUPERVENIENTES. INOVAÇÃO. AUSÊNCIA DE VÍCIOS. MATÉRIA CONSTITUCIONAL. PEDIDO DE PREQUESTIONAMENTO. NÃO CABIMENTO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+2. No caso, a própria defesa reconhece que os fatos são novos e posteriores à remessa do recurso para esta Corte, tratando-se, portanto, de inovação recursal, o que não é permitido em sede de embargos de declaração. Em outras palavras, é "incabível o exame de tese não exposta no recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal." (AgInt nos EDcl no AREsp n. 2.024.370/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+3. Ainda, "consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento" (AgInt no AREsp n. 2.425.182/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.).
+4. Embargos rejeitados.
+(EDcl no AgRg no REsp n. 2.152.614/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/10/2024, DJe 4/10/2024).
+Diante da manifesta improcedência dos aclaratórios, cumpre advertir o embargante de que a oposição de novos embargos de declaração (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte, a saber: baixa imediata dos autos com certificação do trânsito em julgado ou a remessa dos autos para o STF (na hipótese de remanescer recurso pendente de competência daquela Corte).
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. RECURSO COM NÍTIDO CARÁTER PROTELATÓRIO. ABUSO DO DIREITO DE DEFESA. REMESSA DOS AUTOS AO SUPREMO TRIBUNAL FEDERAL PARA ANÁLISE DO AGRAVO EM RECURSO EXTRAORDINÁRIO PENDENTE. DETERMINAÇÃO DE BAIXA IMEDIATA DOS AUTOS PARA EXECUÇÃO DA PENA DOS DEMAIS EMBARGANTES.
+1. A mera desconformidade do embargante com a rejeição da tese que entende cabível não caracteriza omissão, porquanto insiste em rediscutir matéria que já foi devidamente rechaçada por esta Corte de Justiça em recursos anteriores.
+2. A reiteração recursal sem inovação evidencia o caráter protelatório do recurso, configurando abuso do direito de defesa.
+3. Embargos de declaração rejeitados, determinando-se a imediata remessa dos autos ao Supremo Tribunal Federal para o julgamento do agravo em recurso extraordinário de C A A e determinação da imediata baixa dos autos para execução da pena de Z D L e D F A, procedendo-se à certificação do trânsito em julgado.
+(EDcl nos EDcl no AgRg no AREsp n. 869.043/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/6/2018).
+Ante o exposto, rejeito os embargos de declaração.
