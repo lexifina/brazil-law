@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de TIAGO DE LIMA SOUZA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1500968-06.2020.8.26.0567).
+Depreende-se dos autos que o paciente foi condenado, como incurso nos arts. 33 da Lei n. 11.343/2006 e 14 da Lei n. 10.826/2003, à pena total de 13 anos de reclusão, no regime inicial fechado.
+A Corte de origem negou provimento ao recurso de apelação apresentado pela defesa. O acórdão está assim ementado (e-STJ fl. 656/685):
+APELAÇÃO. Tráfico de Drogas e Porte de Armas de uso permitido. Recursos defensivos. Preliminares Prisão em flagrante realizada por guarda municipal. Possibilidade. Inexistência de ilegalidade. No caso, não há que se falar em ilicitude das provas colhidas com fundamento na ilegitimidade dos guardas para proceder ao ato nem mesmo na violação de domicílio. Rejeição. Mérito. Autoria e materialidade comprovadas. Suficiência probatória. Dosimetria - Exclusão de causa de aumento de pena da basal. Não cabimento na hipótese. Redução da fração em razão da multirreincidência réu Tiago. Impossibilidade. Aplicação do redutor previsto no art. 33, § quarto, da Lei 11343/06 para o réu Cauê com fixação de regime prisional mais brando e substituição da pena privativa de liberdade. Descabimento ante a quantidade, potencialidade de drogas e dedicação na traficância. Detração. Matéria atinente a execução. Porte de armas. Absolvição. Ausência de prova. Impossibilidade. Autoria e materialidade comprovadas. Laudo conclusivo. Dosimetria que não comporta redimensionamento. Sentença mantida. Preliminares rejeitadas e recursos desprovidos.
+Alega o impetrante, no presente writ, que a prova obtida no referido processo é nula, uma vez que as medidas de busca pessoal e domiciliar são ilícitas, visto que não decorrentes de fundada suspeita, nos termos do artigo 240 e artigo 244, ambos do Código de Processo Penal.
+Afirma, para tanto, que, "no caso em tela, restou latente que o inicio da diligência e busca pessoal, veicular e domiciliar não foi pautada em qualquer elemento concreto, prévio e especificado da conduta criminosa perpetrada pelo Paciente, circunstância que não caracteriza, data máxima vênia, fundadas suspeitas a justificar a busca pessoal" (e-STJ fl. 5).
+A liminar foi indeferida (e-STJ fls. 770/771).
+É o relatório.
+Decido.
+Verifica-se do acórdão que julgou a apelação criminal apontada na presente impetração como ato coator (e-STJ fls. 656/685) que o paciente, então apelante, em sede recursal, não requereu o reconhecimento da nulidade da prova que embasa a sua condenação com fundamento na ilicitude das buscas veicular e pessoal em razão da ausência de fundada suspeita para a abordagem da Guarda Municipal, que procedeu à apreensão das drogas e à prisão em flagrante do paciente. Nesse sentido, em sede de apelação, a defesa técnica limitou-se a pedir o reconhecimento da nulidade da condenação do ora paciente ao argumento de ausência de atribuição da Guarda Municipal para apreensão das drogas e efetivação da prisão em flagrante do paciente.
+Portanto, identifico na presente impetração evidente supressão de instância, considerando que o pedido constante no presente writ não foi objeto de recurso de apelação, não tendo sido, portanto, objeto de julgamento pelo Tribunal de origem, circunstância que impede a análise por esta Corte.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido.
+(RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+Ante o exposto, não conheço da presente impetração.
+EMENTA
