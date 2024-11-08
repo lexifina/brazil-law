@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se  de  habeas  corpus  impetrado  em  favor  de  GUSTAVO SANGLARD CARDOSO,  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  MINAS GERAIS.
+Consta  dos  autos  que  o  paciente  foi  condenado  pela prática dos crimes descritos no artigo 16, §1º, inciso IV; artigo 14, caput, da Lei 10.826/2003; e artigo 147, caput, do Código Penal, c/c artigo 61, inciso I, do Código Penal, na forma do artigo 69, caput, do Código Penal, às penas de 05 (cinco) anos e 10 (dez) meses de reclusão e 24 (vinte e quatro) dias-multa e 01 (um) mês e 05 (cinco) dias de detenção (fls. 86-110).
+O  Tribunal  a  quo  negou  provimento  ao  apelo  defensivo e, de ofício, alterou o regime prisional inicial imposto ao paciente relativamente ao delito apenado com detenção - art. 147 do Código Penal -, do fechado para o semiaberto (fls. 123-130).
+Neste  writ,  a  impetrante  sustenta  a  ocorrência  de  constrangimento  ilegal  porquanto ausentes provas aptas a embasar o decreto condenatório.
+Assevera que "com fundamento no "ouvi dizer" (policiais) e sem nenhuma testemunha (irmão da vítima) isenta acerca da autoria, o Paciente foi indiciado e denunciado. Consigne-se que ele nega, peremptoriamente, a posse das armas e munições apreendidas pelos policiais no estabelecimento comercial da suposta vítima. " (fls. 6/7)
+Acrescenta que "Há, smj, dúvida muito razoável (senão certeza) acerca da incoerência, descompasso, enfim, a história está desconexa e foi claramente montada de trás para frente, a partir da chegada da polícia. " (fl. 9)
+Requer  a  concessão  da  ordem  " para  que  haja a revaloração das provas". (fl. 13)
+Foram  prestadas  informações  às  fls.  140-162.
+Parecer  do  Ministério  Público  Federal ,  às  fls.  164-168,  pelo  não  conhecimento  da  impetração  e,  no  mérito,  pela  denegação  da  ordem.
+É  o  relatório.
+Decido.
+De  acordo  com  as  informações  prestadas  (fl.  157),  verifico  que  o  presente  habeas  corpus  foi  impetrado  contra  acórdão  do  Tribunal  de  Justiça  do  Minas Gerais  com  trânsito  em  julgado.
+Diante  dessa  situação,  não  deve  ser  conhecido  o  presente  writ,  manejado  como  substitutivo  de  revisão  criminal  ,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte.
+Com  efeito,  nos  termos  do  art.  105,  inciso  I,  alínea  "e",  da  Constituição  da  República,  compete  ao  Superior  Tribunal  de  Justiça  decidir,  originariamente,  as  revisões  criminais  e  as  ações  rescisórias  de  seus  julgados  (AgRg  no  HC  n.  573.735/SP,  rel.  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  julgado  em  27/04/2021,  DJe  de  30/04/2021;  AgRg  no  HC  n.  610.106/PR,  rel.  Ministro  Felix  Fischer,  Quinta  Turma,  julgado  em  23/02/2021,  DJe  de  1º/03/2021;  HC  n.  512.674/CE,  rel.  Ministro  Sebastião  Reis  Júnior,  decisão  monocrática,  DJe  de  30/05/2019;  HC  n.  482.877/SP,  rel.  Ministro  Jorge  Mussi,  decisão  monocrática,  DJe  de  29/03/2019;  HC  n.  675.658/PR,  Ministro  Ribeiro  Dantas,  decisão  monocrática,  DJe  de  04/08/2021,  e  HC  n.  677.684/SP,  Ministro  Antonio  Saldanha  Palheiro,  decisão  monocrática,  DJe  de  02/08/2021).
+Ademais,  inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, porque, de acordo com o entendimento consolidado do Superior Tribunal de Justiça,
+ o  habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória (AgRg no HC n. 832.649/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/08/2023, DJe de 1º/09/2023).
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se  e  intimem-se.
+EMENTA
