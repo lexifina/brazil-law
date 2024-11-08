@@ -1,0 +1,17 @@
+DECISÃO
+NILSON DOS SANTOS alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2255634-26.2024.8.26.0000.
+Nas razões deste writ, a defesa postula o trancamento do processo penal.
+O Ministério Público Federal, em parecer de lavra de Subprocuradora-Geral de Justiça Dra. Sônia Maria de Assunção Macieira, opinou pela denegação da ordem.
+Decido.
+Extrai-se dos autos que o acusado foi denunciado pela suposta prática do crime de roubo.
+Inconformada com o recebimento da denúncia, a defesa impetrou habeas corpus perante o Tribunal estadual, que denegou a ordem nos seguintes termos:
+HABEAS CORPUS. ROUBO MAJORADO TENTADO. PEDIDO DE TRANCAMENTO DA AÇÃO OU REVOGAÇÃO DA PRISÃO PREVENTIVA. Alegação de não cometimento do delito e ausência de fundamentação concreta da decisão que converteu o flagrante em prisão preventiva. Descabimento. Fumus comissi delicti e periculum libertatis demonstrados. Prisão necessária, adequada e fundamentada. NULIDADE DE PROVAS. Abordagem justificada ante o reconhecimento do paciente pela vítima. TRANCAMENTO DA AÇÃO. Medida excepcional não aplicável ao caso. Inexistência de hipótese de manifesta ausência de elementos mínimos a propositura da ação. RECONHECIMENTO PESSOAL. Inobservância do artigo 226, do CPP, que não invalida o reconhecimento, cabendo ao julgador a valoração devida. Segregação mantida. Ordem denegada.
+Conforme reiterada jurisprudência desta Corte, na linha do que dispõe o art. 395 do CPP, o trancamento do processo, por ser medida excepcional, somente é possível quando evidenciadas, ictu oculi, a absoluta deficiência da peça acusatória ou a ausência inconteste de provas (da materialidade do crime e de indícios de autoria), bem como a atipicidade da conduta ou a existência de causa extintiva da punibilidade.
+Tendo em vista que a denúncia é uma peça processual por meio da qual o órgão acusador submete ao Poder Judiciário o exercício do jus puniendi, o legislador estabeleceu alguns requisitos essenciais para a formalização da acusação, a fim de que seja assegurado ao acusado o escorreito exercício do contraditório e da ampla defesa.
+Na verdade, a própria higidez da denúncia opera como uma garantia do acusado. Segundo o disposto no art. 41 do Código de Processo Penal, "A denúncia ou queixa conterá a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das testemunhas".
+De acordo com a inicial, o denunciado foi preso momentos depois da suposta prática delitiva ("o paciente foi avistado logo após o roubo, nas proximidades de onde este se verificou, e a vítima, de imediato, apontou o paciente como um de seus autores").
+Sobre o reconhecimento, observo, de acordo com as premissas fáticas fixadas pela decisão impugnada, que há outros elementos capazes de i ndicar a autoria delitiva, incluindo uma câmera de vigilância, o que deverá ser aferido pelo juízo de origem durante a instrução processual. A tese defensiva relacionada à ausência de autoria delitiva demanda aprofundado exame probatório, iniciativa inviável em sede de habeas corpus.
+Assim, ao menos para os limites de cognição possíveis nesta via estreita para o standard probatório exigido para a etapa de oferecimento da denúncia, está preenchida a justa causa para o exercício da ação penal.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
