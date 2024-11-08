@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por Wagner Fossa contra a decisão proferida pelo Tribunal de Justiça de Santa Catarina que, em juízo de admissibilidade, não admitiu o recurso especial por ele apresentado. O recurso especial inadmitido na origem, por sua vez, impugnou o acórdão prolatado na Apelação Criminal n. 0001754-24.2019.8.24.0080, que condenou o réu como incurso nas penas do art. 155 do Código Penal (fls. 290/294).
+Nas razões do recurso especial (fls. 301/317), escoradas no permissivo do art. 105, III, a, da Constituição Federal de 1988, a defesa apontou contrariedade entre o acórdão e o art. 226 do Código de Processo Penal. O recorrente sustentou que o reconhecimento fotográfico realizado em sede policial é nulo, porque deixou de observar o procedimento descrito no art. 226 do CPP. À falta de provas suficientes acerca da autoria delitiva, pleiteou-se a reforma do acórdão vergastado.
+Apresentadas contrarrazões (fls. 325/333), o Tribunal local não admitiu o recurso especial, reconhecendo a incidência das Súmulas 7/STJ e 83/STJ (fls. 337/342). Daí o presente agravo (fls. 347/365).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo e, caso conhecido, pelo desprovimento do recurso especial (fls. 400/401).
+É o relatório.
+O agravo em recurso especial preenche os requisitos de admissibilidade.
+Quanto ao recurso especial em si, entendo que a insurgência não encontra óbice na Súmula 7/STJ, na medida em que a impugnação busca alterar as conclusões do aresto recorrido, pautando-se no próprio arcabouço fático estabelecido pelas instâncias de origem.
+No mérito, tenho que a tese apresentada no apelo nobre deve prosperar.
+A Sexta Turma do Superior Tribunal de Justiça, por ocasião do julgamento do HC n. 598.886/SC, assentou o seguinte:
+1) O reconhecimento de pessoas deve observar o procedimento previsto no art. 226 do Código de Processo Penal, cujas formalidades constituem garantia mínima para quem se encontra na condição de suspeito da prática de um crime;
+2) À vista dos efeitos e dos riscos de um reconhecimento falho, a inobservância do procedimento descrito na referida norma processual torna inválido o reconhecimento da pessoa suspeita e não poderá servir de lastro a eventual condenação, mesmo se confirmado o reconhecimento em juízo;
+3) Pode o magistrado realizar, em juízo, o ato de reconhecimento formal, desde que observado o devido procedimento probatório, bem como pode ele se convencer da autoria delitiva a partir do exame de outras provas que não guardem relação de causa e efeito com o ato viciado de reconhecimento;
+4) O reconhecimento do suspeito por simples exibição de fotografia(s) ao reconhecedor, a par de dever seguir o mesmo procedimento do reconhecimento pessoal, há de ser visto como etapa antecedente a eventual reconhecimento pessoal e, portanto, não pode servir como prova em ação penal, ainda que confirmado em juízo.
+(HC n. 598.886/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/12/2020, grifo nosso).
+Extrai-se dos autos que o ora agravante Wagner Fossa foi acusado de praticar o crime de furto de uma bicicleta, fato ocorrido em frente a uma barbearia, situada no centro da comarca de Xanxerê, no Estado de Santa Catarina.
+Os termos do acórdão exarado pelo Tribunal local (fls. 290/294) evidenciam que a vítima Valmor Pereira de Camargo Júnior, o policial militar Julio Cesar Bianchi e a testemunha Gildo Girardi não foram capazes de indicar quem seria o autor do delito (fls. 291/292). À fl. 292, o aresto impugnado registrou que a testemunha Edimar Leria Souza, proprietário do imóvel onde a res furtiva foi deixada pelo furtador, foi o responsável pelo reconhecimento do réu, que ocorreu em sede policial, por intermédio de fotografia.
+Examinadas as peças do inquérito, notadamente o documento de fls. 30/32, nota-se que o reconhecimento fotográfico não atendeu a forma prescrita no art. 226 do Código de Processo Penal, porque ausente a etapa mencionada pelo inciso I do dispositivo, atinente à descrição da pessoa a ser reconhecida.
+Nota-se que o acórdão recorrido se lastreou exclusivamente em reconhecimento fotográfico. Na linha do entendimento firmado por esta Sexta Turma, o reconhecimento por foto não opera como prova em ação penal quando desatendida a forma prescrita pelo art. 226 do CPP, tal como verificado na espécie.
+Inexistindo outros elementos válidos e independentes do reconhecimento fotográfico capazes de apontar o ora agravante como autor do fato criminoso, torna-se impositiva a sua absolvição.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial e, com isso, absolver o agravante Wagner Fossa, com fundamento no art. 386, VII, do Código de Processo Penal.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. FURTO. RECONHECIMENTO FOTOGRÁFICO. VIOLAÇÃO DO ART. 226 DO CPP. INEXISTÊNCIA DE OUTROS ELEMENTOS VÁLIDOS E INDEPENDENTES. ABSOLVIÇÃO QUE SE IMPÕE. PRECEDENTES.
+Agravo conhecido para dar provimento ao recurso especial.
