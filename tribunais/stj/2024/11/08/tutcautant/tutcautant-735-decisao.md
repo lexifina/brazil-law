@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de pedido de tutela de urgência formulado por BANCO DO BRASIL S.A.
+O requerente alega haver-se insurgido, via recurso especial, contra decisão do TRIBUNAL DE JUSTIÇA DE SANTA CATARINA que julgou improcedente ação rescisória por ele proposta sob o argumento de que a parte não interpôs insurgência recursal (apelação) e, desse "modo, a forma de cálculo da repetição de indébito tal qual determinada na sentença, não foi rebatida em recurso de apelação cível, levando a crer, que a instituição financeira, ora autora, concordou com o que foi decidido" (fl. 56). A decisão apontou ainda ausência de manifestação do Juízo a quo acerca dos dispositivos impugnados e que a rescisória continha discordância quanto à interpretação dada à matéria à época, para a qual não se admite a ação rescisória.
+Sustenta que, embora tenha recebido juízo de admissibilidade positivo (fls. 24-29) na origem, o recurso especial ainda não foi recebido no STJ.
+Pleiteia seja concedida a tutela provisória de urgência para conferir efeito suspensivo ao recurso especial interposto e determinar a suspensão de qualquer ato processual no cumprimento de sentença processado sob o n. 0001899- 31.2008.8.24.0027, em trâmite perante 2ª Vara Cível da Comarca de Ibirama (SC), especialmente levantamento de valores, até o julgamento da ação principal.
+É, no essencial, o relatório.
+Na origem, o banco recorrente propôs ação rescisória para rever decisão que estabeleceu que a repetição do indébito observaria as mesmas taxas exigidas pela Instituição Financeira durante a contratualidade.
+Como dito acima, o Tribunal a quo julgou improcedente a ação rescisória sob o argumento, sobretudo, de que não houve esgotamento da instância recursal, uma vez que não foi oposta apelação à sentença.
+Em âmbito de cognição rasa, entendo presente a probabilidade do direito, uma vez que este Tribunal, ao julgar o Tema repetitivo n. 968, firmou a tese de "Descabimento da repetição do indébito com os mesmos encargos do contrato".
+Outrossim, este Tribunal entende que, para a propositura de rescisória, não é necessário o esgotamento de todos os recursos cabíveis. Note-se:
+AÇÃO RESCISÓRIA. CUMPRIMENTO DE SENTENÇA. CRITÉRIO DE APURAÇÃO DO VALOR PATRIMONIAL DE AÇÕES. ESGOTAMENTO DE INSTÂNCIA. DESNECESSIDADE. COISA JULGADA. VIOLAÇÃO 1. Ação rescisória ajuizada em 11/2/2015. Autos atribuídos à Relatora em 13/12/2016.
+2. O propósito da ação é verificar se a decisão rescindenda, ao fixar o critério de apuração do valor patrimonial da ação a ser utilizado para fins de cálculo do valor exequendo, violou a coisa julgada.
+3. Na esteira da Súmula 514/STF, o Superior Tribunal de Justiça firmou seu entendimento no sentido de que, para a propositura de rescisória, não é necessário o esgotamento de todos os recursos cabíveis.
+4. A Súmula 343/STF é inaplicável à hipótese, na medida em que o pedido deduzido pela autora se fundamenta em violação à coisa julgada (art. 485, IV, CPC/73), não importando, portanto, se há ou não interpretação controvertida nos Tribunais a respeito do tema que foi objeto da decisão rescindenda. O fato de a presente ação ter como fundamento violação à coisa julgada também configura motivo para rechaçar a alegação de que o objetivo da autora é meramente discutir a justiça da decisão.
+5. A decisão rescindenda, ao julgar recurso especial interposto pela ré na fase de cumprimento de sentença, estabeleceu critério de apuração do valor patrimonial da ação em descompasso com o que havia sido definido, em acórdão transitado em julgado, pelo juízo de segundo grau.
+AÇÃO RESCISÓRIA JULGADA PROCEDENTE.
+(AR n. 5.554/RS, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 28/8/2019, DJe de 3/9/2019.)
+Por fim, tendo em vista cuidar-se de execução que alcança o montante de R$ 10.656.793,99, entendo presente o perigo da demora.
+Assim sendo, concedo a tutela de urgência para emprestar efeito suspensivo ao recurso especial ora tratado, para determinar que sejam obstados todos os atos que impliquem levantamento de valores no cumprimento de sentença n. 0001899- 31.2008.8.24.0027, em trâmite perante a 2ª Vara Cível da Comarca de Ibirama (SC) , até o julgamento do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
