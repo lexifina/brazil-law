@@ -1,0 +1,45 @@
+DECISÃO
+Inviável conhecer do agravo interposto pelo Nasser Ibrahim Farache contra a decisão que inadmitiu o recurso especial.
+Conforme orientação jurisprudencial sedimentada nesta Corte, a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No caso, a Corte de origem inadmitiu o recurso especial com base na incidência da Súmula 7/STJ (fls. 964/968).
+O agravante, no entanto, não impugnou o referido fundamento da decisão de inadmissão, limitando-se a repetir os argumentos de mérito com vistas a obter a reforma do julgado.
+Logo, o agravo é inadmissível (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Como fundamento subsidiário, ressalto que, ainda que fosse possível conhecer do agravo, o recurso especial não seria acolhido.
+Nas razões do recurso especial, o agravante suscitou violação dos seguintes dispositivos de lei federal: 1) arts. 155 e 156, II, ambos do Código de Processo Penal; e 2) violação do art. 24, 2º, do Código Penal (fls. 901/913).
+No tocante à suposta violação dos arts 155 e 156, II, ambos do Código de Processo Penal, o recurso padece de falta de prequestionamento, pois a tese de nulidade do processo administrativo fiscal não foi debatida na Corte de origem sob o enfoque de violação desses preceitos, (fls. 850/875), tampouco eventual omissão na análise desses dispositivos foi suscitada em sede de aclaratórios opostos às fls. 877/880, sendo o caso de incidir as Súmulas 282 e 356/STF:
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. JÚRI. ACÓRDÃO A QUO QUE DEU PROVIMENTO A RECURSO EM SENTIDO ESTRITO QUE VISAVA ANULAR DECISÃO QUE NÃO RECEBEU RECURSO DE APELAÇÃO. NEGATIVA DE VIGÊNCIA AOS ARTS. 155, CAPUT, 574 E 626, PARÁGRAFO ÚNICO, DO CPP. INADMISSIBILIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STJ. PRECEDENTES DO STJ.
+1. O prequestionamento, requisito indispensável para a admissibilidade do recurso especial, pressupõe prévio debate da questão pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados (AgRg no Ag n. 846.718/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 28/2/2014). A jurisprudência desta Corte admite o prequestionamento implícito, em que não há menção expressa aos dispositivos, mas, mesmo nessa modalidade, deve ocorrer o debate do conteúdo da norma tida como vulnerada (precedentes do STJ).
+2. No caso, o acórdão impugnado lançou dois fundamentos para acolher o recurso da acusação, sendo que nenhum deles versa acerca do conteúdo normativo dos dispositivos tidos como vulnerados.
+3. Ainda que o recorrente entendesse que, ao acolher tais fundamentos, a Corte de origem teria negado vigência aos citados dispositivos, seria imprescindível que suscitasse a questão em sede de embargos de declaração, a fim de que o Tribunal de origem se manifestasse sobre a ilegalidade aventada. Se assim não fez, está ausente o necessário prequestionamento (precedentes do STJ).
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 920.900/RJ, da minha relatoria, Sexta Turma, DJe 3/8/2016 - grifo nosso).
+Ademais é certo que a desconstituição do julgado, com vistas a obter a absolvição por falta de provas em razão de suposta nulidade do procedimento administrativo fiscal sobre o qual se fundou a sentença condenatória, é tema que exigiria o reexame dos elementos que fundaram a convicção das instâncias ordinárias, providência essa vedada nos termos da Súmula 7/STJ.
+De outra parte, no que se refere à suposta violação do art. 24, 2º, do Código Penal, cumpre destacar a orientação sedimentada nesta Corte, no sentido da impossibilidade de reconhecimento da excludente de culpabilidade em questão quando a conduta envolver fraude à fiscalização tributária, por ausência do requisito da boa-fé.
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDÊNCIÁRIA (ART. 337-A, III, DO CP). PRELIMINAR DE PRESCRIÇÃO. NÃO ACOLHIDA. AGRAVANTE COM MENOS DE 70 ANOS NA DATA DA SENTENÇA. RECONHECIMENTO DE EXCLUDENTE DE CULPABILIDADE. INEXIGIBILIDADE DE CONDUTA DIVERSA. DIFICULDADES FINANCEIRAS. CRIME PRATICADO MEDIANTE FRAUDE. BOA-FÉ AFASTADA. IMPOSSIBILIDADE DE INCIDÊNCIA DA REFERIDA EXCLUDENTE.
+1. Inicialmente, destaco que não há falar em prescrição da pretensão punitiva, tendo em vista que o art. 115 do Código Penal prevê que:
+"São reduzidos de metade os prazos de prescrição quando o criminoso era,  ..  na data da sentença, maior de 70 (setenta) anos." No presente caso, o agravante completou 70 anos em 13/2/2020, de modo que na data da sentença (16/1/2018), ainda não possuía a referida idade.
+2. No mais, esta Corte Superior entende ser possível o reconhecimento da causa excludente da culpabilidade referente à inexigibilidade de conduta diversa nos crimes tributários em razão de dificuldades financeiras devidamente comprovadas.
+3. Para além disso, " d eve o julgador, também, sob outro aspecto, aferir o elemento subjetivo do comportamento, pois a boa-fé é requisito indispensável para que se confira conteúdo ético a tal comportamento", conforme destacado pelo Ministro Ayres Britto no julgamento da Ação Penal n. 516 (Tribunal Pleno, julgado em 27/9/2010, DJe-235 divulg. 3/12/2010 public. 6/12/2010 republicação:
+DJe-180 divulg. 19/9/2011 public. 20/9/2011 ement. VOL-02590-01 PP-00001).
+4. Dessa forma, não é viável reconhecer a excludente de culpabilidade de inexigibilidade de conduta diversa nos crimes praticados por meio de condutas fraudulentas, tal como o art. 337-A do Código Penal, por ausência do requisito da boa-fé.
+5. Ainda que assim não fosse, no presente caso, a Corte de origem entendeu que não foi demonstrada a dificuldade financeira da empresa, de modo que a alteração de tal conclusão esbarra no enunciado sumular n. 7 desta Corte Superior.
+6. Agravo regimental improvido.
+(AgRg no REsp n. 1.877.388/CE, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/4/2023, DJe 19/4/2023 - grifo nosso)
+Logo, ao rechaçar a referida excludente de culpabilidade (fl. 869), o Tribunal a quo aderiu ao entendimento jurisprudencial desta Corte.
+Ademais, cumpre destacar a conclusão do Juízo processante, que rechaçou a premissa fática que ampara a referida alegação (fl. 750):
+ ..
+Não há qualquer prova de que, na época dos fatos (2008 a 2012), a empresa Ajax atravessasse dificuldades tais que demandassem a sonegação de mais de dez milhões de reais. Friso que a recuperação judicial da empresa somente foi deferida em março de 2014 (fl. 579)
+ ..
+Com efeito, o acolhimento da referida tese demandaria a reversão da conclusão estabelecida na instância ordinária, calcada na análise de circunstâncias fáticas, providência vedada nos termos da Súmula 7/STJ:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SONEGAÇÃO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. INÉPCIA. NÃO OCORRÊNCIA. PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ. MITIGAÇÕES. INEXIGIBILIDADE DE CONDUTA DIVERSA. AUSÊNCIA DE DOLO. IN DÚBIO PRO REO. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. É "firme nesta Corte o entendimento de que não ocorre a inépcia da denúncia se da inicial acusatória se depreende a vontade de condenar o réu."
+(AgRg no REsp 1.480.942/PR, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/10/2017).
+2. O princípio da identidade física do juiz não possui caráter absoluto, pois sofre mitigação nos casos de afastamento por qualquer motivo que impeça o juiz que presidiu a instrução processual de sentenciar o feito (aplicação analógica da regra do art. 132 do Código de Processo Civil).
+3. Afastada a tese de inexigibilidade de conduta diversa pela Corte local, ante a sonegação consciente e voluntária de contribuições previdenciárias, a revisão desta matéria neste Tribunal fica obstada pela Súmula n. 7/STJ.
+4. "Segundo a orientação desta Corte, para a consumação do crime sonegação de contribuições previdenciárias, é suficiente a constatação do dolo genérico". (AgInt no AREsp 692.950/SP, Rel. Min. REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 13/05/2016) 5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.327.412/RS, Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2019, DJe 15/2/2019 - grifo nosso).
+Ante o exposto, não conheço do agravo (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. FUNDAMENTO SUBSIDIÁRIO. FALTA DE PREQUESTIONAMENTO E INCIDÊNCIA DA SÚMULA 7/STJ.
+Agravo não conhecido.
