@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GIOVAN PAIM BULSING e CARLA CAPUTO LABOISSIERE contra decisão que inadmitiu recurso especial com fundamento na ausência de violação de prequestionamento do art. 37-A da Lei n. 9.514/1987.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 0711579-03.2022.8.07.0020) assim ementado (fls. 421-422):
+APELAÇÕES CÍVEIS. AÇÃO ANULATÓRIA. IMISSÃO NA POSSE. ALEGADA ANULAÇÃO DE ESCRITURA PÚBLICA DE ALIENAÇÃO FIDUCIÁRIA. INTIMAÇÃO MORA. CONSOLIDAÇÃO DA PROPRIEDADE. LEILÃO EXTRAJUDICIAL. ARREMATAÇÃO. FÉ PÚBLICA DO LEILOEIRO. SIMULAÇÃO. NÃO DEMONSTRAÇÃO. CARÊNCIA DE AÇÃO. PLENO USO. IMPEDIMENTO. LUCROS CESSANTES. MANUTENÇÃO. SENTENÇAS MANTIDAS.
+1. A presença de móveis no imóvel, impedindo o pleno uso e gozo do bem, é fato suficiente para justificar o ajuizamento da Ação de Imissão na Posse.
+2. O instituto da alienação fiduciária de imóvel, conceituado pelo art. 22 da Lei n.º 9.514/1997 como o negócio jurídico, formalizado via contrato típico, formal, bilateral, oneroso e acessório a um negócio principal, no qual o devedor-fiduciante, com a específica finalidade de garantia, contrata a transferência ao credor-fiduciário da propriedade resolúvel de imóvel, até que haja o cumprimento/pagamento de obrigação contida no negócio principal.
+3. À míngua da comprovação da alteração da forma de pagamento do contrato, mantém-se a validade da Escritura Pública regularmente firmada entre as partes, a qual instituiu alienação fiduciária sobre bem imóvel. Decerto que os autores não se desincumbiram do seu ônus de comprovar a quitação do débito.
+4. A propriedade fiduciária de coisa imóvel é direito real de garantia. A Lei 9.514/1997 prevê procedimento especial para os casos de inadimplemento por parte do devedor, possibilitando a consolidação da propriedade em favor do credor fiduciário e a realização leilão público extrajudicial do imóvel para fins de quitação do saldo devedor.
+5. Apesar de os apelantes sustentarem durante o processo que foram surpreendidos com a notificação dos adquirentes para desocupação do imóvel, é certo que restou comprovado nos autos que a proprietária foi notificada por edital para purgar a mora. Após constituição em mora do devedor e persistido o inadimplemento, a propriedade do imóvel foi consolidada em nome do credor fiduciário, na forma do art. 26, caput e parágrafo 7º, consoante certidão de ônus do imóvel.
+6. Quanto a alegação de que houve simulação no ato de venda do bem em leilão, é certo de que as informações prestadas pelo leiloeiro na elaboração da carta de arrematação se revestem de fé pública, somente ilidida por prova em contrário, inexistente nos autos.
+7. Nos termos do art. 402 do Código Civil, lucros cessantes são uma espécie de indenização por danos materiais referentes ao que a pessoa deixou de receber ou lucrar. 7.1. A presença de móveis sendo suficiente para impedir o pleno uso e gozo do imóvel, justifica-se a condenação em indenização por lucros cessantes.
+8. Recursos conhecidos e não providos.
+Nas razões do recurso especial (fls. 444-449), a parte recorrente aponta violação do art. 37-A da Lei n. 9.514/1997.
+Sustenta que o pagamento da taxa de ocupação resultante de contrato de alienação fiduciária não pode ser estendido aos locatários, podendo ser cobrado, tão somente, do devedor fiduciante, situação não observada na espécie que impõe a reforma do julgado impugnado.
+Acrescenta que, "comprovando a ofensa a legislação vigente é que o acórdão combatido merece ser reformado, a fim de que se reconheça como indevido o estabelecimento da penalidade por taxa de ocupação para os Recorrentes" (fl. 448).
+Requer o provimento do recurso para que seja reconhecida ser indevida a cobrança de taxa de ocupação pelos recorrentes.
+É o relatório. Decido.
+O recurso não reúne condições de admissibilidade.
+Relativamente à aventada violação do art. 37-A da Lei n. 9.514/1997, verifica-se a questão não foi objeto de análise pelo Tribunal de origem nem, a respeito, foram opostos embargos de declaração, de modo que não houve o indispensável prequestionamento.
+Caso, pois, de incidência das Súmulas n. 282 do STF e 211 do STJ. Segundo reiterada jurisprudência desta Corte, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação do Tribunal a quo, que deverá emitir juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto, o que não ocorreu na espécie
+Ante o exposto, nego provimento a o agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em mais 3% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
