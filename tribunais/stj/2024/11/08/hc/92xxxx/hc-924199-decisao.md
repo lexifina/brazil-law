@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Alisson Luis Goncalves Diniz contra o ato coator proferido pela Segunda Câmara Criminal do Tribunal de Justiça do Ceará que, nos autos do Recurso em Sentido Estrito n. 0040374-47.2022.8.06.0001, deu provimento à insurgência ministerial, decretando a prisão preventiva do paciente (Processo n. 0040374-47.2022.8.06.0001, Vara dos Delitos de Organizações Criminosas de Fortaleza/CE).
+A defesa alega, em síntese, que a decisão padece de vício de fundamentação ante a ausência de elementos individualizadores da prisão preventiva.
+Sustenta estar havendo cerceamento de defesa, pois não se oportunizou à defesa acesso ao telefone celular apreendido.
+Afirma que a prisão preventiva perdurou por 2 anos e 5 meses, adquirindo caráter de pena.
+Aduz não estarem presentes os requisitos para prisão preventiva, sendo suficientes as medidas cautelares, entre elas, o monitoramento eletrônico do art. 319, IX, do Código de Processo Penal.
+Pede o relaxamento da prisão, ainda que mediante cautelares (fls. 3/11).
+Liminar indeferida às fls. 48/51.
+Informações prestadas pela origem às fls. 82/85.
+O Ministério Público Federal pugna pelo não conhecimento da impetração ou, caso conhecido, pela denegação da ordem, conforme os termos da seguinte ementa (fl. 90):
+HABEAS CORPUS SUBSTITUTIVO DE ESPECIAL. ORGANIZACAO CRIMINOSA. FACÇÃO GUARDIÕES DO ESTADO RESPONSÁVEL POR ATERRORIZAR O ESTADO DO CEARÁ ENTRE 2018 E 2019 INCENDIANDO BENS PÚBLICOS E PARTICULARES EM REPRESÁLIA À AÇÕES GOVERNAMENTAIS EM COMBATE AO CRIME ORGANIZADO. PRISÃO PREVENTIVA. DECISÃO DEVIDAMENTE FUNDAMENTADA. PRESENÇA DOS REQUISITOS AUTORIZADORES DA MEDIDA. APLICAÇÃO DO ART. 312 DO CPP. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PELO NÃO CONHECIMENTO DO WRIT E, NO MÉRITO, PELA DENEGAÇÃO DA ORDEM.
+Petição n. 774076/2024 informando a absolvição de réus em processo conexo (fls. 96/97).
+É o relatório.
+A impetração pretende a revogação da prisão preventiva, haja vista o excesso de prazo e a falta de elementos individualizadores da prisão preventiva. Ainda, alega cerceamento da defesa por falta de acesso ao telefone apreendido.
+Após análise dos autos, entendo não assistir razão à impetração.
+Primeiramente, em relação à suposta falta de individualização da conduta, observo que a matéria foi objeto de discussão no RHC n. 167.652/CE, ocasião na qual analisei o decreto de prisão inicial, proferido nos autos principais, antes do desmembramento da ação, e expressei a legalidade do decreto de prisão nesse tocante.
+Quanto à alegação de excesso de prazo, das informações prestadas pela origem, observo que o paciente teve a prisão decretada em 14/3/2021 e cumprida em 31/3/2021. Teve contra si recebida denúncia em 7/5/2021, apresentando resposta à acusação. Em 12/4/2022, o feito foi desmembrado e continua sob o número 0040374-47.2022.8.06.0001. Em 22/5/2023, foi realizada a audiência de instrução e, após, apresentadas alegações finais. Ele foi solto em 5/9/2023, decisão contra a qual o Ministério Público estadual recorreu e, em 19/6/2024, proveu a insurgência, decretando novamente a sua prisão, essa cumprida em 2/7/2024 (fls. 82/84)
+O Tribunal local expressou, entre outros, os seguintes fundamentos para decidir (fl. 19):
+A ação penal que originou as prisões preventivas dos envolvidos ocorreu em contexto dos ataques incendiários perpetrados por facções criminosas a bens públicos e privados, com pluralidade de agentes (95), o que resultou nas mais variadas diligências, estando o feito, atualmente em vias de julgamento.
+Diante deste contexto, para além da gravidade em abstrato do delito imputado aos agentes, como dito, o caso envolve certa complexidade em razão da pluralidade de réus, de modo que inexistente o alegado excesso de prazo, uma vez que não foi demonstrado qualquer descaso na condução do feito por parte do Poder Judiciário ou por procrastinações indevidas por parte da acusação
+Com efeito, aplicando ao caso concreto um juízo de razoabilidade, vê-se que não há desproporcionalidade na medida extrema que ora se impõe ao paciente, preso preventivamente em 14/3/2021, solto em 5/9/2023 e novamente preso em 2/7/2024, uma vez que o processo de origem é complexo, com diversidade de crimes, acusados (96), advogados, cumprimento de atos processuais em comarcas distintas, citação de corréus por edital e o desmembramento do feito, circunstâncias que certamente exigem maior tempo até se chegar à solução definitiva da causa, justificando, portanto, eventual transcurso do prazo.
+Realmente, o excesso de prazo, segundo o pacífico entendimento do Superior Tribunal de Justiça, deve ser aferido dentro dos limites da razoabilidade, considerando-se circunstâncias excepcionais que venham a retardar o término da instrução criminal ou do processo, não se restringindo à simples soma aritmética de prazos processuais.
+Confiram-se ainda: RHC n. 74.414/MG, da minha relatoria, Sexta Turma, DJe 24/3/2017; RHC n. 80.288/AM, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/6/2017; RHC n. 89.942/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 11/5/2018; e HC n. 513.362/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/2/2020.
+Por fim, em relação à alegação de cerceamento de defesa, bem como sobre os argumentos trazidos na petição e documentos às fls. 96/112, verifico que a matéria não foi objeto de deliberação no ato coator, não podendo ser inaugurada neste instância superior, sob pena de supressão de instância.
+Assim, não vislumbro flagrante ilegalidade a ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA ARMADA. ALEGAÇÃO DE FALTA DE INDIVIDUALIZAÇÃO DA CONDUTA. MATÉRIA DELIBERADA EM FEITO ANTERIOR. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. COMPLEXIDADE DA CAUSA. PLURALIDADE DE RÉUS (96) E ADVOGADOS. INCIDENTES PROCESSUAIS, CITAÇÃO POR EDITAL, EXPEDIÇÃO DE CARTAS PRECATÓRIAS E DESMEMBRAMENTO DO FEITO. CERCEAMENTO DE DEFESA. SUPRESSÃO DE INSTÂNCIA.
+Ordem denegada.
