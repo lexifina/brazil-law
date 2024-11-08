@@ -1,0 +1,3 @@
+Art. 3º-D ...
+
+Parágrafo único. Mediante opção expressa dirigida à Presidência do Tribunal der Contas, o conselheiro poderá renunciar ao veículo oficial do seu gabinete permanente e às respectivas despesas intrínsecas, hipótese em que fará jus à ajuda de custo mensal, de natureza indenizatória, conforme regulamentado por ato do Tribunal de Contas.
