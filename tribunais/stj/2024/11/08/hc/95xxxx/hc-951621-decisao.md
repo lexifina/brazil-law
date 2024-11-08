@@ -1,0 +1,13 @@
+DECISÃO
+FELIPE SILVA DO NASCIMENTO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0002673-21.2024.8.26.0520, em que foi mantida a decisão "que indeferiu seu pedido de retificação de cálculo da pena, alterando a data-base para a concessão de livramento condicional" (fl. 9).
+Asseriu a defesa, perante a Corte de origem, "que não há previsão legal para a interrupção do lapso temporal para o livramento condicional pela prática de falta grave, nos termos da Súmula nº 441 do C. Superior Tribunal de Justiça, mesmo se tratando do cometimento de novo delito. Requer, portanto, a retificação do cálculo de pena, considerando-se a data da primeira prisão como data-base ao benefício" (fls. 9-10), razão pela qual requer a anulação do registro da falta.
+Decido.
+O livramento condicional, benefício previsto nos arts. 131 a 146 da Lei de Execução Penal é a última fase do cumprimento da pena, inserido na sistemática da execução penal. Todavia, possui regras distintas da execução penal dentro do sistema progressivo de penas.
+De fato, a prática de novo delito durante o período de prova do livramento condicional não acarreta os mesmos efeitos da prática da falta grave cometida por apenado inserido no sistema progressivo de cumprimento da pena. Nesse sentido:
+ ..
+2. "A prática de fato definido como crime durante o livramento condicional tem consequências próprias previstas no Código Penal e na Lei de Execuções Penais, as quais não se confundem com os consectários legais da falta grave praticada por aquele que está inserto no sistema progressivo de cumprimento de pena" (REsp. 1.101.461/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 19/02/2013).
+3. Agravo regimental desprovido (AgRg no REsp n. 1.794.850/RJ, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 23/8/2019).
+Aliás, ao revistar seu entendimento sobre a questão e adotar o posicionamento acima alinhavado, a Sexta Turma desta Corte Superior salientou que "deve ser restabelecida a linha divisória entre o cumprimento progressivo da pena e o livramento condicional, devendo a indisciplina acarretar, conforme o caso, os consectários legais previstos especificamente, e não como vem sendo feito, aplicando-se àquele que se encontra em livramento todas as consequências negativas do descumprimento da disciplina na execução penal" (REsp n. 1.101.461/RS, Rel. Ministra Maria Theresa de Assis Moura, 6ª T., DJe 19/2/2013).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo o habeas corpus para afastar o reconhecimento da infração disciplinar e seus consectários.
+Publique-se e intimem-se.
+EMENTA
