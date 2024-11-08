@@ -1,0 +1,24 @@
+DECISÃO
+O presente writ, impetrado em benefício de RENATO LUIZ DE CAMPOS - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 1500440-41.2021.8.26.0274) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, não comporta acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta ao paciente pelo Juízo de Direito da 1ª Vara da comarca de Itápolis/SP, requerendo: a) que seja a pena aplicada em seu patamar mínimo, afastando os aumentos da pena-base aplicados na primeira fase da dosimetria; b) aplicando na terceira fase a carga redutora em grau máximo, nos termos do §4º do artigo 33 da Lei 11.343/06 (fl. 20).
+Não se verifica a ocorrência do ilegal constrangimento, pois as instâncias ordinárias fundamentaram a exasperação da pena-base em razão dos maus antecedentes do paciente, o que foi certificado nos autos de origem, bem como em razão da natureza e quantidade significativa de drogas (602,57 g de cocaína), conforme trecho da sentença a seguir (fl. 342):
+O agente possui maus antecedentes, diante da existência de sentença(s) condenatória(s) transitada(s) em julgado relacionada(s) a fato(s) anterior(es) àquele que é objeto da presente ação penal e que não configura(m) reincidência: processos n.º 0003136-33.2014.8.26.0222 e 0003790-05.2007.8.26.0274.
+No caso dos autos, verifico que as circunstâncias que envolveram o crime (modus operandi empregado pelo agente, local e horário da prática delituosa) foram gravosas, porquanto excederam o que normalmente se observa nos casos em que é praticado o crime em questão.
+Com efeito, foi apreendida grande quantidade de drogas (602,57 gramas de cocaína, na forma de crack), cabendo destacar que outros elementos foram utilizados para afastar a incidência da causa de diminuição de pena do § 4º, do artigo 33, da Lei n.º 11.343/2006, a saber: maus antecedentes do agente; réu já era conhecido nos meios policiais pela prática do delito de tráfico, havendo denúncias antigas atestando o envolvimento pretérito dele com a traficância.
+Ademais, para a análise dos maus antecedentes, entende esta Corte Superior que podem ser consideradas condenações anteriores ainda que ultrapassado o período de 5 anos da extinção da pena do crime anterior, ressalvadas as hipóteses de grande período de tempo ou da ínfima gravidade do fato anterior (AgRg no AREsp n. 924.174/DF, Ministro Nefi Cordeiro, Sexta Turma, DJe 16/12/2016).
+A propósito:
+ ..
+4. A aplicação do redutor do tráfico privilegiado, nos termos do § 4º do art. 33 da Lei n. 11.343/06 depende da primariedade do réu, da inexistência de dedicação a atividades criminosas e da não integração em organizações criminosas, requisitos que devem ser analisados de forma concreta e individualizada.
+3. O habeas corpus não pode ser utilizado como substituto de recurso próprio ou revisão criminal, conforme consolidado entendimento do STF e STJ, salvo em casos de flagrante ilegalidade.
+4. A pena-base foi devidamente majorada em razão dos maus antecedentes do paciente e da quantidade e natureza da droga apreendida (128 porções de cocaína), com base no art. 42 da Lei nº 11.343/2006. As condenações anteriores, embora antigas, foram corretamente consideradas para justificar a exasperação da pena.
+5. A quantidade e a natureza da droga, assim como os maus antecedentes, justificam o aumento da pena, não havendo flagrante ilegalidade que justifique a concessão da ordem de ofício.
+6. A jurisprudência pacífica desta Corte permite a consideração de condenações anteriores como maus antecedentes na primeira fase da dosimetria e como reincidência na segunda fase, sem configurar bis in idem, desde que referentes a fatos distintos. No caso específico, não se trata de condenações atingidas pelo período depurador (art. 64, I, do CP) ou pelo direito ao esquecimento.
+ ..
+(HC n. 809.294/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 29/10/2024 - grifo nosso).
+Também não se verifica o alegado constrangimento ilegal quanto ao afastamento do redutor do tráfico privilegiado, porquanto o afastamento se deu em razão da existência de antecedente criminal (fls. 68/77) e pela conclusão das instâncias de origem de que o réu se dedica a atividades criminosas, nos exatos termos da previsão legal (art. 33, § 4º, da Lei n. 11.343/2006).
+A fixação da pena-base acima do mínimo legal, aliada à pena definitiva imposta, justifica a aplicação do regime inicial fechado ao paciente (art. 33, § 3º, do CP).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MAUS ANTECEDENTES. CONDENAÇÃO ANTERIOR COM TRÂNSITO EM JULGADO POR FATO ANÁLOGO. QUANTIDADE DE DROGAS (602,57 G DE COCAÍNA). PORÇÃO EXORBITANTE. EXASPERAÇÃO DA PENA-BASE. POSSIBILIDADE. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO COM BASE NOS MAUS ANTECEDENTES E EM ELEMENTOS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
