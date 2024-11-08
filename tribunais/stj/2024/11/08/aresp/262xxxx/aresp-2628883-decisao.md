@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado por Jacinta Kloh,. em face de decisão da Vice-Presidência do Tribunal Regional Federal da 4ª Região que inadmitiu o recurso especial com base na incidência da Súmula 83 do STJ.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, caberia à parte agravante demonstrar, nas razões do agravo em recurso especial, que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que os precedentes citados não se aplicariam ao caso dos autos.
+Com efeito, a parte ora agravante deixou de carrear, em seu agravo em recurso especial, julgados contemporâneos ou supervenientes que demonstrassem qu e o entendimento jurisprudencial do STJ não está pacificado no mesmo sentido do acórdão recorrido. Nesse sentido, confiram-se: AgInt no REsp n. 1.967.538/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 19/4/2022; e AgInt no AREsp n. 1.938.057/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, DJe de 31/3/2022.
+Logo, considerando que a parte agravante não rebateu, de modo específico, o fundamento adotado pela decisão recorrida para negar trânsito ao apelo especial, limitando-se a mencionar não ser o caso de aplicação da Súmula 83 do STJ, incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Por fim, registre-se que essa foi a linha de entendimento confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o AREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro João Otávio de Noronha, Rel. P/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/09/2018, DJe 30/11/2018), na qual se reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
