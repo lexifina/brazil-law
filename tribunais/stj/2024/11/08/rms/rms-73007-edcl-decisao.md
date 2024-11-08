@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LAMPPIT SOLUTIONS TECNOLOGIA LTDA contra decisão da lavra do Ministro Herman Benjamin, então relator, que negou provimento ao recurso.
+Alega o embargante que "é omissa a decisão que considerou que a parte não combateu especificamente o malferimento aos princípios da ampla defesa e do contraditório, visto que na sua fundamentação especificou e demonstrou os motivos que ensejariam a nulidade do processo administrativo" (fl. 1205).
+Aduz que "A r. decisão embargada também incorre em omissão ao afirmar que o recurso administrativo foi apreciado pelo próprio Presidente do Tribunal de Justiça de Mato Grosso, o que contraria a necessidade de um recurso hierárquico para garantir o duplo grau de jurisdição administrativa, conforme estabelece a legislação vigente e a jurisprudência pátria" (fl. 1205).
+Reclama que "Apesar de a decisão reconhecer que a Recorrente apresentou defesa prévia, não se observa qualquer análise detalhada quanto à necessidade de individualizar as sanções aplicadas, o que é um requisito fundamental para garantir que a penalidade seja proporcional e adequada à infração cometida" (fl. 1209).
+Pleiteia o conhecimento e acolhimento dos embargos de declaração para que seja sanado o vício.
+A parte embargada apresentou impugnação às fls. 1215/1219.
+É o relatório.
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando foram analisadas fundamentadamente pelo decisum recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+In casu, ao contrário do que alega a parte, a decisão embargada não é omissa , pois apreciou as questões apontadas (fls. 1194/1195):
+Não merece prosperar o argumento de que a recorrente não foi intimada para apresentação de defesa prévia, que as sanções não foram individualizadas e de que houve denegação de produção de provas e apresentação de alegações finais.
+Sobre tais pontos, a Corte estadual fundamentou a decisão alegando que o writ não se prestava a rever provas e fatos. Não obstante, a recorrente não combateu especificamente o referido fundamento e apenas alegou que foram desacatados os princípios da ampla defesa e contraditório.
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos E Dcl no AR Esp 1.317.285/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, D Je de 19.12.2018.)
+A necessidade de acatar a dialeticidade recursal se aplica, igualmente, ao mandamus: AgInt no RMS 66.731/GO, Rel. Ministra Assusete Magalhães, Segunda Turma, D Je de 22.11.2022; e AgInt no RMS 69.436/SC, Rel Ministra Regina Helena Costa, Primeira Turma, D Je de 30.11.2022.
+Insta agregar que, conhecedora das condutas que lhe eram imputadas, a empresa apresentou defesa prévia (fls. 61-76), oportunidade em que pôde expor as razões pelas quais entendia equivocado o relato fático do órgão técnico do ente contratante. Após a defesa desses fatos, a Assessoria Técnico-Jurídica de Licitação da Presidência do TJMT sugeriu não só a rescisão contratual e a imposição de multa, como também a aplicação de penalidade de suspensão temporária de participação em licitação e impedimento de contratar. Ainda com base nos mesmos fatos, a autoridade julgadora condenou a recorrente, por isso ausente a desobediência aos princípios da ampla defesa e do contraditório.
+Destaque-se que não há previsão legal no referido procedimento administrativo para apresentação de alegações finais. Existe a referência legal à defesa prévia e ao recurso, e estes foram aceitos. Ora, não é devida a aplicação subsidiária do art. 2º, X, da Lei 9.784/1999, pois há normas na Lei de Licitações sobre os meios de defesa disponíveis ao contratado para aplicações de sanções.
+Por outra via, verifica-se que a recorrente não especificou quais os meios de prova que pretendia produzir ou que testemunhas arrolar, tampouco qual o real prejuízo à defesa. Apenas alegou genericamente no writ que deveria haver a nulidade do processo administrativo.
+Contudo, a jurisprudência do STJ entende que, em atenção ao princípio pas de nullité sans grief, descabido falar-se em declaração de nulidade se não estiver concretamente demonstrado o prejuízo (RMS 21.518/RN, Rel. Ministro Castro Meira, Segunda Turma, DJ de 19.10.2006).
+Por outra via, o recurso foi julgado pelo próprio Presidente do Tribunal de Justiça, porque não há autoridade superior a ele na sua estrutura administrativa. Assim, foi cumprido, devidamente, o princípio do duplo grau de jurisdição.
+Derradeiramente, o princípio da proporcionalidade das sanções foi atendido, pois não se verifica ilegalidade ou abuso na sua fundamentação.
+Pretendem os embargantes, inconformados com o entendimento adotado por esta Corte, apenas rediscutir, com efeitos infringentes, questões decididas quando do julgamento do recurso, o que é inviável em embargos declaratórios.
+A esse respeito, colaciono os seguintes precedentes do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC/2015, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no AgInt no AgInt no AREsp n. 1.545.376/SP, relator Ministro Afrânio
+Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA. MERO INCONFORMISMO. OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A parte embargante discorda da conclusão alcançada no acórdão embargado
+que, com sólida fundamentação, rejeitou os embargos declaratórios anteriormente opostos. No caso, existe mero inconformismo da parte com o resultado do julgamento proferido, que lhe foi desfavorável, o que não viabiliza o cabimento de embargos de declaração, nos termos do art. 1.022, inciso II, do CPC/2015.
+2. É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no AREsp n. 2.338.340/SE, relator Ministro Teodoro
+Silva Santos, Segunda Turma, julgado em 15/4/2024, DJe de 23/4/2024.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. DECISÃO SEM VÍCIOS. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. PRECEDENTES. EMBARGOS REJEITADOS.
