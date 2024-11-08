@@ -1,0 +1,10 @@
+DECISÃO
+O  presente  writ,  impetrado  em  benefício  de  WILLIAM  FELIPE  COSTA  DA  SILVA  e  GABRIEL  PINTO  DA  SILVA  -  condenados  como  incursos  no  crime  de  furto  qualificado  -,  em  que  se  aponta  como  autoridade  coatora  o  Tribunal  de  Justiça  do  Rio  de  Janeiro  (Apelação  n.  0262272-09.2021.8.19.0001),  não  comporta  acolhimento.
+Com  efeito  busca  a  impetração,  em  suma,  seja  reconhecida  a  tentativa  da  ação  delituosa,  com  a  incidência  do  art.  14,  II,  do  Código  Penal,  argumentando  que  a  consumação  do  furto  requer  a  inversão  da  posse  e  a  mesma  no  caso  concreto  foi  impedida,  pois  conforme  depoimentos  prestados  em  sede  policial  e  corroborados  em  Juízo,  o  esposo  da  vítima  perseguiu,  imediatamente,  o  Paciente,  na  companhia  de  policiais,  que  estavam  próximos  ao  local  do  fato.  A  rápida  recuperação  do  celular  evidencia  a  circunstância  que  impediu  a  consumação  do  delito  (fl.  5).
+Ocorre  que,  além  de  se  tratar  de  writ  destinado  a  revisar  novamente  a  condenação  imposta  e  mantida  pelas  instâncias  ordinárias,  o  que  é  inadmissível,  da  análise  dos  autos  observa-se  que  as  instâncias  ordinárias  não  se  manifestaram  sobre  a  questão,  configurando  indevida  supressão  de  instância.
+Ademais,  a  inversão  do  julgado,  a  fim  de  reconhecer  que  não  houve  a  consumação  do  delito,  demandaria  o  revolvimento  de  todo  o  conjunto  fático-probatório,  providência  inviável  na  estreita  via  do  habeas  corpus,  ação  constitucional  caracterizada  pelo  rito  célere  e  de  cognição  sumária.
+Ante  o  exposto,  não  conheço  do  habeas  corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. TENTATIVA. DEBATE DO TEMA PELO TRIBUNAL A QUO. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. INVERSÃO DO JULGADO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+Writ  não  conhecido.
