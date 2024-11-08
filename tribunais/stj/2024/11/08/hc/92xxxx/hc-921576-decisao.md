@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de BRUNO AFFONSO - condenado pelo crime tráfico de drogas, na Ação Penal n. 1505801-14.2020.8.26.0132 - em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1501631-96.2020.8.26.0132), não comporta acolhimento.
+Com efeito, busca a impetração a nulidade das provas por violação de domicílio e requer a absolvição do paciente na Ação Penal n. 1505801-14.2020.8.26.0132, ao argumento da ausência de fundadas razões ou consentimento dos moradores para tal diligência. Afirma , ainda, que o fato de terem sido encontradas drogas com o agente, em busca pessoal, não autorizaria a entrada dos policiais na residência (fls. 3/10).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois, em patrulhamento de rotina, policiais militares perceberam duas mulheres que demonstraram nervosismo com a presença da viatura, tendo uma delas assumido a propriedade das drogas e indicado que adquiriu os entorpecentes do paciente, e que ele os guardava em sua residência (fl . 18).
+No mesmo sentido: constatada a existência de indícios prévios da prática da traficância, a autorizar a atuação policial, não há falar em nulidade da prisão em flagrante no interior do domicílio do agente por ausência de mandado judicial.  ..  As circunstâncias antecedentes à abordagem policial deram suporte válido para a diligência policial (AgRg no HC n. 788.352/MT, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 9/6/2023).
+Assim, inexistente flagrante ilegalidade na abordagem policial. Ademais, para entender que os fatos não se deram exatamente da forma como apresentados pelas instâncias ordinárias seria necessário o reexame de provas, o que se mostra inviável em sede de habeas corpus.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA E APREENSÃO DOMICILIAR. CONTEXTO FÁTICO ANTERIOR QUE JUSTIFICOU A ADOÇÃO DA MEDIDA. BUSCA PESSOAL DO COMPRADOR QUE INDICOU A RESIDÊNCIA DO PACIENTE COMO O LOCAL EM QUE ADQUIRIU O ENTORPECENTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
