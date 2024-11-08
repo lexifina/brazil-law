@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por CHINA CONSTRUCTION BANK (BRASIL) - BANCO MÚLTIPLO S.A. desafiando acórdão proferido pelo Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 20):
+Arrendamento mercantil. Ação de obrigação de fazer julgada procedente. Executada que, embora intimada para cumprir a obrigação específica que lhe foi imposta, manteve-se inerte. Possibilidade de conversão da obrigação em perdas e danos, sem prejuízo da multa diária fixada. Inteligência dos artigos 499 e 500 do CPC. Precedente do C. STJ. Recurso improvido.
+Nas razões do recurso especial, fundado no art. 105, III, a, da Constituição Federal, a recorrente alegou violação aos arts. 490 e 502 do CPC, aduzindo, em síntese, violação à coisa julgada, razão pela qual defende que os custos pelas despesas para transferência do imóvel cabem à recorrida (e-STJ, fls. 34-39).
+Contrarrazões não apresentadas (e-STJ, fl. 49).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a ausência de demonstração de violação dos dispositivos apontados e em virtude da incidência da Súmula n. 7/STJ (e-STJ, fls. 50-51).
+Foi interposto agravo em recurso especial às fls. 54-64 (e-STJ), e contraminuta não apresentada (e-STJ, fl. 66).
+Brevemente relatado, decido.
+Quanto à alegada violação aos arts. 490 e 502, ambos do Código de Processo Civil, percebe-se que a matéria não foi analisada pelo Tribunal de origem, faltando, assim, o requisito indispensável do prequestionamento.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Importante assinalar, ainda, que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau.
+Contudo, na hipótese dos autos não foram opostos embargos de declaração, a fim de sanar a omissão ou prequestionar a matéria, incidindo, na espécie, as Súmulas 282 e 356/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. PREQUESTIONAMENTO. INDENIZAÇÃO. DANOS MATERIAL E MORAL. REDUÇÃO. SÚMULA Nº7/STJ. ILEGITIMIDADE PASSIVA. RESPONSABILIDADE CIVIL. SÚMULA Nº 83/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Na hipótese, inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos declaratórios. Súmula nº 211/STJ.
+3. A admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC, o que não é o caso dos autos.
+4. Não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional, haja vista o julgado estar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente 5. Na hipótese, acolhimento da pretensão recursal para infirmar a conclusão do acórdão recorrido quanto à legitimidade de parte passiva, à responsabilidade civil da recorrente e à ocorrência e comprovação dos danos morais e materiais demandaria o reexame das circunstâncias fáticas dos autos, procedimento vedado em virtude do óbice da Súmula nº 7/STJ.
+6. A orientação jurisprudencial desta Corte Superior se firmou no sentido de que se o contrato é fundado na prestação de serviços médicos e hospitalares próprios e/ou credenciados, no qual a operadora de plano de saúde mantém hospitais e emprega médicos ou indica um rol de conveniados, não há como afastar sua responsabilidade solidária pela má prestação do serviço. Súmula nº 83/STJ.
+7. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrado no valor de R$ 40.000,00 (quarenta mil reais), pelos danos morais sofridos em decorrência do erro médico.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 2.310.925/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/2/2024, DJe de 1/3/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. COISA JULGADA. VIOLAÇÃO AOS ARTS. 490 E 502 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
