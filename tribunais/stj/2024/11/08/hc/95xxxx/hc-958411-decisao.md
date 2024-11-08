@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+Habeas Corpus: prisa o preventiva. Denu"ncia: art. 33, caput, cc art. 40, inc. V, Lei 11.343/2006, art. 311, § 2o, inc. III, Co"d. Penal e art. 16, pa"r. u"nico, inc. IV, Lei 10.826/2003, na forma do art. 69, Co"d. Penal.
+Nulidade da prisa o em flagrante: supervenie ncia do decreto de prisa o preventiva, alterando o ti"tulo de custo"dia.
+"Busca pessoal": legalidade. Presenc a de fundada suspeita (art. 240, § 2o, Co"d. Proc. Penal).
+Preliminar rejeitada.
+Trancamento da ac a o penal: requisitos (STF). Jui"zo de admissibilidade do libelo: princi"pio in dubio pro societatis. Princi"pio in dubio pro reo: resultado, possi"vel, da avaliac a o das provas no julgamento de me"rito da causa.
+Prisa o preventiva: adequac a o. Necessidade de preservac a o da ordem pu"blica para convenie ncia da instruc a o e aplicac a o da lei penal, porquanto Paciente com maus antecedentes, sem reside ncia no distrito da culpa, preso com vei"culo furtado, arma, munic o es e entorpecentes em quantidade significativa.
+Circunsta ncias pessoais do Acusado: insuficie ncia, ante a necessidade de preservac a o da ordem pu"blica, desautorizando, inclusive, a adoc a o de medidas cautelares (STJ). HC 165.704/STF: falta de provas de ser o u"nico responsa"vel pelos cuidados dos filhos menores, constando, ademais, informac o es dos autos em sentido contra"rio.
+Ordem denegada.
+Imputa-se ao paciente a prática dos crimes de tráfico de drogas, adulteração de sinal identificador de veículo automotor, e porte ilegal de arma de fogo (art. 33, caput, c/c art. 40, V, da Lei 11.343/2006; art. 311, § 2º, III, do Código Penal; e art. 16, parágrafo único, IV, da Lei 10.826/2003).
+A defesa alega, em síntese: a) que a simples existência de indícios de adulteração no veículo não constituem, isoladamente, justificativa válida para a restrição de direitos fundamentais, especialmente quando não há descrição de qualquer conduta suspeita do condutor que possa sugerir seu envolvimento em atividade criminosa iminente, tornando nula a abordagem policial; b) ausência de fundamentação idônea no decreto de prisão preventiva, porque supostamente lastreado na gravidade abstrata do delito, sem individualizar elementos que demonstrem a periculosidade do paciente; c) que o paciente possui residência fixa, é trabalhador e possui dois filhos menores que dependem dele, além de ser primário e de bons antecedentes, o que reforça sua disposição em colaborar com o processo e indica a possibilidade de aplicação de medidas cautelares menos gravosas do que a prisão.
+Ao final, requer a concessão da ordem para trancar a ação penal.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Dessume-se dos autos que o paciente foi flagrado preso na posse de veículo com queixa de furto registrada e com adulteração dos sinais identificadores, transportando significativa quantidade de entorpecentes, sendo 317g de "crack", 221g de "cocaína", e 13.138g de "maconha", além de um revólver calibre 38, de uso restrito e com numeração suprimida, e 24 cartuchos de munição.
+No que tange às alegações da defesa, assim entendeu o Tribunal de origem (e-STJ fls. 22-28):
+ ..  não se pode olvidar os Senhores Policiais, durante fiscalização de rotina, abordaram o veículo do Paciente, ao constatarem "elementos identificadores  ..  fora do padrão utilizado pela montadora  .. , além dos QRCOD Es das placas não retornarem leitura" (fls 40).
+De fato, na sequência verificaram que se tratava de "veículo de placas originais FAL-0185 com queixa de furto em 13/11/2023" e, ao abrir as portas para verificação do chassis, constataram "algo solto inserido nelas e um forte cheiro de droga" (idem).
+Nesse contexto, restou evidenciada a justificativa para a busca, decorrente de prévias e fundadas razões, a qual culminou nas apreensões de arma, munições e entorpecentes (idem).
+ ..
+O periculum libertatis se faz presente, consubstanciado na garantia da ordem pública, visto que tal condição tem como escopo resguardar a sociedade da reiteração de ações delituosas, caso seu autor permaneça em liberdade.
+Com efeito, o Paciente, sem residência no distrito da culpa (fls 55), possui maus antecedentes vinculados ao Estado de Minas Gerais, conforme certidão emitida por Polícia Civil (fls 119/126).
+Ademais, preso na posse de veículo com queixa de furto registrada e com adulteração dos sinais identificadores, transportando significativa quantidade de entorpecentes, sendo 317 g de "crack", 221g de "cocaína", 1544g de "maconha", 5636g de "maconha" e 5958 g de "maconha" (fls 51/52).
+E, ainda, apreendida uma arma da marca Taurus, calibre 38, de uso restrito com numeração suprimida e 24 cartuchos da marca CBC (fls 51).
+As circunstâncias supra reforçam a necessidade, por ora, de manutenção da segregação cautelar.
+Desse modo, não há como conceder a pretendida liberdade provisória ou substituir a custódia por medidas mais brandas, pois não se mostram adequadas e suficientes para assegurar a ordem pública, nos termos do art. 282, inc. II e § 6º, do Código de Processo Penal.
+Como se vê do trecho destacado, o Tribunal de origem concluiu pela legalidade da abordagem e da busca veicular que culminou na apreensão dos entorpecentes e da arma de fogo, pois a iniciativa por parte dos policiais partiu da discrepância do código identificador da placa do veículo, que não permitiu sua leitura, e da imediata constatação de se tratar de veículo com registro de furto, o que constitui justa causa para a ação policial.
+Também concluiu pela manutenção da custódia cautelar do paciente em razão de seu histórico criminal, além da expressiva quantidade de entorpecentes apreendida no interior do veículo e da arma de fogo clandestina, o que denotaria a periculosidade do agente e o risco concreto de reiteração delitiva.
+Nesse contexto, a alteração do quadro fático formado na Corte de origem demandaria a dilação probatória, providência inviável em sede de habeas corpus.
+Ante o exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
