@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ABNER VIANA DE OLIVEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução Penal n.º 0001248- 83.2024.8.26.0996).
+Consta dos autos que o paciente foi condenado à pena de 8 anos, 5 meses e 3 dias de reclusão e pleiteou a concessão do livramento condicional, o que foi deferido pelo juízo da execução.
+Inconformado, o Ministério Público interpôs agravo em execução, ao qual foi dado provimento, para determinar o retorno do sentenciado ao regime semiaberto, para a sua submissão ao exame criminológico. Eis a ementa (fl. 17):
+AGRAVO EM EXECUÇÃO PENAL - LIVRAMENTO CONDICIONAL - RECURSO MINISTERIAL: Pleito de cassação da decisão de que deferiu o livramento condicional sem exame criminológico. Pedido de indeferimento da benesse ou, subsidiariamente, para que seja determinado o retorno do agravado ao regime semiaberto com sua submissão ao exame criminológico. Acolhimento do pedido subsidiário. Agravado reincidente em crime específico cometido com violência e grave ameaça (roubo majorado por duas vezes). Notícia de falta grave recente (05/04/2022), quando foi novamente preso por furto cometido durante o cumprimento da pena em regime aberto. Cumprimento da pena em regime intermediário por curto período. Existência de dúvida acerca do preenchimento do requisito subjetivo. Decisão cassada com determinação do retorno do agravado ao regime anterior (semiaberto) até sua submissão a exame criminológico e posterior reanálise do cumprimento do requisito subjetivo. RECURSO DE AGRAVO PROVIDO.
+No presente writ, o impetrante alega que o paciente preenche todos os requisitos para a concessão do livramento condicional, previstos nos artigos 83, inciso I, do Código Penal e 131 da LEP e afirma que a exigência do exame criminológico para fins de conceder o livramento condicional, quando não devidamente fundamentado, constituí constrangimento ilegal.
+Requer, liminarmente e no mérito, que seja restabelecida a decisão de primeiro grau que concedeu o livramento condicional ao paciente.
+Pedido de liminar indeferido (fls. 29-30).
+As informações foram prestadas às fls. 38-41 e fls. 44-61.
+O Ministério Público Federal manifestou-se, às fls. 63-71, em parecer assim ementado:
+PENAL e PROCESSUAL PENAL. Habeas corpus substitutivo de REsp. Inadmissibilidade. Realização de exame criminológico para a concessão do livramento condicional. Determinação fundamentada na gravidade abstrata dos crimes praticados, na reincidência e na existência de uma única falta grave já reabilitada do apenado. Fundamentação inidônea. Precedentes. Presença de constrangimento ilegal. Não admissão do writ , com a concessão de um habeas corpus ex officio.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+ ..
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..  (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..
+II - O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  ..  (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque, o Tribunal de origem cassou o livramento condicional, com os seguintes fundamentos (fls. 20-26):
+Da análise dos autos da execução, verifico que, além de reincidente em crime cometido com violência ou grave ameaça (roubo majorado), há anotação de falta grave praticada em data recente (05/04/2022), quando o agravado cometeu novo crime durante o cumprimento da pena em regime aberto (furto), razão pela qual teve o regime aberto sustado em decisão de 14/10/2022 (fls. 155), o que demonstra a indisciplina e a falta de elementos que indiquem de forma positiva o requisito subjetivo questionado pelo Ministério Público.
+Assim, ainda que o requisito objetivo tenha sido cumprido em 24/01/2024, o que não se nega diante da apresentação do documento de fls. 316/319 dos autos da execução, o fato é que apenas a comprovação do cumprimento do lapso temporal necessário e apresentação de atestado de boa conduta carcerária não são suficientes para a concessão a benesse.
+Conforme dispõe o art. 83 do Código Penal, são os seguintes os requisitos para concessão do livramento condicional:
+ ..
+Do artigo acima transcrito, verifico que o cumprimento do lapso temporal mínimo necessário, aliado à boa conduta carcerária do executado, são requisitos mínimos para a concessão da benesse e, no caso dos autos, o agravante não comprovou o requisito subjetivo necessário, não só porque não apresentou bom comportamento durante a execução da pena, uma vez que cometeu novo crime de furto em 05/04/2022, quando cumpria pena em regime aberto anteriormente deferido, mas, também, porque não há comprovação nos autos das suas condições pessoais favoráveis, conforme previsto no parágrafo único do art. 83 do Código Penal.
+ ..
+Dito isso, com razão o Ministério Público quanto à necessidade de submissão do agravado ao exame criminológico, uma vez que propicia maior segurança para decidir nos casos em que existam reais dúvidas acerca da condição do executado, como é o caso dos autos, já que o agravado cometeu crimes graves com violência e grave ameaça (roubo majorado) e foi novamente preso pelo cometimento de crime (furto) enquanto cumpria pena em regime aberto em data recente (05/04/2022).
+Diante de tal quadro, somente com o acostamento do exame criminológico satisfatório serão sanadas as reais e concretas dúvidas acerca do preenchimento ou não do requisito subjetivo pelo agravado para a concessão do livramento condicional.
+Nesse contexto, patente que a submissão do agravado ao exame criminológico é imprescindível, devendo retornar o agravado para o regime semiaberto.
+Ante o exposto, conheço do recurso de agravo em execução penal ministerial, e, no mérito, dou provimento para cassar o benefício do livramento condicional, devendo o agravado, Abner Viana de Oliviera, retornar ao regime prisional em que se encontrava (semiaberto) para que seja submetido ao exame criminológico para posterior reanálise do preenchimento do requisito subjetivo.
+Cumpre ressaltar que, para a concessão do benefício do livramento condicional, deve o reeducando preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (em especial, "bom comportamento durante a execução da pena", "bom desempenho no trabalho que lhe foi atribuído" e "aptidão para prover à própria subsistência mediante trabalho honesto"), nos termos do art. 83 do Código Penal, com a atual redação, c/c o art. 131 da Lei de Execução Penal.
+Nesse passo, a jurisprudência desta Corte Superior se firmou no sentido de que o afastamento do requisito subjetivo das benesses executórias deve ser embasado nos elementos concretos extraídos da execução, verbis:
+"(..) a gravidade abstrata do crime não justifica diferenciado tratamento à progressão prisional, uma vez que fatores relacionados ao delito são determinantes da pena aplicada, mas não justificam diferenciado tratamento à negativa da progressão de regime ou do livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução. Precedentes do STJ (HC n. 519.301/SP, Terceira Seção, Rel. Min. Nefi Cordeiro, DJe de 13/12/2019)"(AgRg no HC 803.075/SP, Quinta Turma, de minha relatoria, DJe de 31/5/2023, grifei).
+Sendo assim, a fundamentação utilizada a quo se mostra idônea.
+Isso, claro, por ausência de implementação do requisito subjetivo, nos termos do art. 83, parágrafo único, do Código Penal, com a redação atual dada pela Lei n. 13.964/2019:
+"Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:
+I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes;
+II - cumprida mais da metade se o condenado for reincidente em crime doloso;
+III - comprovado:
+a) bom comportamento durante a execução da pena;
+b) não cometimento de falta grave nos últimos 12 (doze) meses;
+c) bom desempenho no trabalho que lhe foi atribuído; e
+d) aptidão para prover a própria subsistência mediante trabalho honesto;
+IV - tenha reparado, salvo efetiva impossibilidade de fazê-lo, o dano causado pela infração;
+V - cumpridos mais de dois terços da pena, nos casos de condenação por crime hediondo, prática de tortura, tráfico ilícito de entorpecentes e drogas afins, tráfico de pessoas e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza.
+Parágrafo único - Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinquir"(grifei).
+No caso em análise, o Tribunal de origem cassou o benefício e determinou a realização do exame criminológico por entender que o requisito subjetivo não se encontraria preenchido, pois o apenado praticou falta grave em 05/04/2022, consistente na prática de novo delito (furto) enquanto cumpria pena em regime aberto.
+Desta forma, não se vislumbra qualquer ilegalidade ou arbitrariedade no acórdão combatido, tendo em vista as peculiaridades do caso concreto, que justificam a submissão do apenado ao exame criminológico para aferir o preenchimento do requisito subjetivo.
+A propósito, nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. EXAME CRIMINOLÓGICO. FALTA GRAVE RECENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme a orientação jurisprudencial desta Corte, as faltas graves recentes justificam a realização do exame criminológico para fins de análise do cumprimento do requisito subjetivo para fins de progressão de regime e concessão de livramento condicional.
+2. Agravo regimental não provido.
+(AgRg no HC n. 844.388/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024.)
+Diante de tais considerações, vislumbra-se, in casu, a inexistência de flagrante ilegalidade para que se conceda a ordem de habeas corpus de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
