@@ -1,0 +1,11 @@
+DECISÃO
+Em petição às e-STJ fls. 1.365/1.367, VIARONDON CONCESSIONARIA DE RODOVIA S.A. noticia a celebração de acordo formalizado com a parte adversa para quitação global não litigiosa das multas administrativas que lhe foram aplicadas. Por essa razão, pugna pela extinção do presente feito, nos termos do art. 487, III, do CPC, com a desistência do presente recurso e a manutenção do quantum fixado na origem a título de honorários advocatícios.
+Intimada para se manifestar, a AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO-ARTESP se pronunciou no sentido de que o fundamento da extinção do feito devia ser outro, visto que a transação havida na esfera administrativa trazia previsão expressa de desistência das ações judiciais (e-STJ fls. 1.431/1.432).
+Tendo em vista a impossibilidade de se desistir da ação após a prolação da sentença (art. 485, §5º, do CPC), a recorrente, intimada, reiterou o pedido anterior de extinção do feito com resolução do mérito, mediante a homologação da transação entre as partes (art. 487, III, "b", CPC), como já foi decidido em feito anterior de minha relatoria envolvendo as mesmas partes (ARESp 2.293.825/SP)  e-STJ fls. 1.448/1.451 .
+Passo a decidir.
+Consta dos autos de modo incontroverso que as partes formalizaram Termo Aditivo Modificativo na esfera administrativa, objetivando a quitação integral e não litigiosa das multas impostas à ora requerente, que foi arquivado com publicação do termo de quitação integral das infrações (e-STJ fls. 1.365/1.368 e 1.431/1.432).
+Ora, considerando que a transação é causa para a extinção do processo com resolução do mérito, nos termos do art. 487, III, "b", do CPC/2015, cuja manifestação pode dar-se em sede de recurso especial, é o caso de deferir o pleito de homologação do acordo.
+Registre-se que a manutenção da quantia fixada a título de honorários advocatícios na instância de origem deverá ser decidida pelo juízo que decidiu a causa no primeiro grau de jurisdição, nos termos do disposto no art. 516 do CPC/2015.
+Ante o exposto, com base no art. 487, III, "b", do CPC/2015, c/c o art. 34, IX, do RISTJ, HOMOLOGO o acordo e EXTINGO o processo, com resolução do mérito, julgando PREJUDICADO o recurso.
+Publique-se. Intimem-se.
+EMENTA
