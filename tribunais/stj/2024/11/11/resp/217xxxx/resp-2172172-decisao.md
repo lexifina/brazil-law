@@ -1,0 +1,7 @@
+DECISÃO
+Encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.290), os Recursos Especiais 2.160.674/RS e 2.153.347/RS, de relatoria do Min. Gurgel Faria, a questão debatida nos autos, qual seja, "a) decidir sobre a legitimidade passiva ad causam (se do INSS ou da Fazenda) nas ações em que empregadores pretendem reaver valores pagos a empregadas gestantes durante a pandemia de Covid-19; b) definir se é possível enquadrar como salário-maternidade a remuneração de empregadas gestantes que foram afastadas do trabalho presencial durante o período da pandemia de Covid-19, nos termos da Lei n. 14.151/2021, a fim de autorizar restituição ou compensação tributária desta verba com tributos devidos pelo empregador."
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se.
+Intimem-se.
+EMENTA
