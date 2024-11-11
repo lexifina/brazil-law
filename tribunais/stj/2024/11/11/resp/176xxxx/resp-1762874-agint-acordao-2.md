@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/11/2024 a 11/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. PRESCRIÇÃO. SÚMULA N. 83 DO STJ. AGRAVO DESPROVIDO.
+1. O princípio do livre conv encimento motivado autoriza o juiz a indeferir a produção de provas que julgar impertinentes, irrelevantes ou protelatórias, não configurando cerceamento de defesa.
+2. A análise da necessidade de produção de novas provas implica o reexame do conjunto fático-probatório, vedado em recurso especial, nos termos da Súmula 7 do STJ.
+3. A alegação de prescrição não afasta o entendimento consolidado no STJ, razão pela qual se aplica a Súmula n. 83, que impede o conhecimento do recurso quando o acórdão recorrido está em conformidade com a jurisprudência dominante.
+4. Agravo desprovido.
+RELATÓRIO
+Trata-se de recurso de agravo interno interposto por PROJEÇÃO ENGENHARIA PAULISTA DE OBRAS EIRELLI contra decisão de fls. 898-915, que não conheceu seu recurso especial.
+Em suas razões recursais, a agravante alega, em suma, que persiste o cerceamento de defesa, pois não houve deferimento de provas imprescindíveis sobre a matéria fática que se apresentava, sendo inadequada a condução da instrução processual.
+Sustenta a não incidência da Súmula n. 83 do STJ quanto ao tema da prescrição.
+Reitera a alegação de violação dos arts. 355 e 373 do Código de Processo Civil, 189, 320 e 360 do atual Código Civil, e 940 do Código Civil de 1916.
+Requer o conhecimento e o provimento do agravo interno para que seja conhecido e provido o recurso especial.
+Houve contrarrazões ao recurso (fls. 954-976).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. PRESCRIÇÃO. SÚMULA N. 83 DO STJ. AGRAVO DESPROVIDO.
+1. O princípio do livre conv encimento motivado autoriza o juiz a indeferir a produção de provas que julgar impertinentes, irrelevantes ou protelatórias, não configurando cerceamento de defesa.
+2. A análise da necessidade de produção de novas provas implica o reexame do conjunto fático-probatório, vedado em recurso especial, nos termos da Súmula 7 do STJ.
+3. A alegação de prescrição não afasta o entendimento consolidado no STJ, razão pela qual se aplica a Súmula n. 83, que impede o conhecimento do recurso quando o acórdão recorrido está em conformidade com a jurisprudência dominante.
+4. Agravo desprovido.
+VOTO
+O recurso não merece provimento.
+Sobre o alegado cerceamento de defesa, sabe-se que o ordenamento jurídico brasileiro adota o princípio do livre convencimento motivado, que possibilita ao juiz a apreciação livre das provas colacionadas aos autos.
+Ou seja, o julgador não está adstrito à prova que a parte entende lhe seja mais favorável, mas pode formar a sua convicção a partir de outros elementos ou fatos constantes dos autos.
+A propósito:
+PROCESSO CIVIL. AGRAVO REGIMENTAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. PROVA PERICIAL. NÃO INTERPOSIÇÃO DE RECURSO. PRECLUSÃO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INVERSÃO DA PROVA. VEROSSIMILHANÇA DA PRÁTICA DE AGIOTAGEM.
+(..)
+3. O magistrado, com base no livre convencimento motivado, pode indeferir a produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, hipótese em que não se verifica a ocorrência de cerceamento de defesa. Precedentes.
+4. A inversão do ônus da prova autorizada pelos arts. 1º e 3º da MP n.º 2.172-32, que trata da nulidade dos atos de usura pecuniária, impõe acurada análise da ocorrência de requisito legal para seu deferimento: demonstração da verossimilhança da prática de agiotagem. Precedentes.
+5. Agravo regimental não provido. (AgRg no REsp n. 1196519/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2015, DJe de 4/8/2015.)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. MAGISTRADO COMO DESTINATÁRIO DAS PROVAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. LIVRE CONVENCIMENTO MOTIVADO.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O nosso sistema processual civil é orientado pelo princípio do livre convencimento motivado, cabendo ao julgador determinar as provas que entender necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias.
+3. Agravo regimental não provido. (AgRg no AREsp n. 281.230/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/8/2015, DJe de 17/8/2015.)
+Ademais, o princípio da persuasão racional ou da livre convicção motivada do juiz (art. 371 do CPC) consigna caber ao magistrado apreciar livremente a prova, atendendo aos fatos e circunstâncias constantes dos autos, conferindo, fundamentadamente, a cada um desses elementos a sua devida valoração.
+Deste modo, para aferir as alegações do recorrente e afastar as premissas firmadas pelo Tribunal de origem, baseadas nos princípios da livre apreciação das provas e do livre convencimento motivado, seria necessário o revolvimento do conteúdo-fático probatório dos autos, procedimento vedado na via especial, nos termos da Súmula n. 7 desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. RECURSO QUE NÃO APRESENTA ARGUMENTOS CAPAZES DE AFASTAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. PRINCÍPIO DA LIVRE VALORAÇÃO DA PROVA E DO LIVRE CONVENCIMENTO MOTIVADO. AGRAVO DESPROVIDO.
+1. A parte agravante não apresentou argumentos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, razão que enseja a negativa de provimento ao agravo regimental.
+2. Para afastar as conclusões do Tribunal de origem, baseadas nos princípios da livre apreciação das provas e do livre convencimento motivado, seria necessário o reexame de provas, o que é defeso na instância especial, conforme dispõe o enunciado n. 7 da Súmula desta Corte
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 678.652/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/06/2015, DJe 29/06/2015, destaquei.)
+AGRAVO REGIMENTAL. AGRAVO NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+(..)
+2.- No que diz respeito aos artigos 333, I, e 359, I, do Código de Processo Civil, os argumentos utilizados para fundamentar a pretensa violação legal somente poderiam ter sua procedência verificada mediante o reexame das provas, não cabendo a esta Corte, a fim de alcançar conclusão diversa da estampada no Acórdão recorrido, reavaliar o conjunto probatório. Dessa forma, a convicção a que chegou o Acórdão decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz da Súmula 7 do STJ.
+3.- O agravo não trouxe nenhum argumento novo capaz de modificar o decidido, que se mantém por seus próprios fundamentos.
+4.- Agravo Regimental improvido. (AgRg no AgRg no AREsp 518.041/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 19/08/2014, DJe 04/09/2014, grifei)
+Nessa parte, portanto, a decisão não merece reforma, apenas deve ser acrescentado de que a análise da conclusão a que chegou o Tribunal de origem sobre a desnecessidade da produção de outras provas certamente exigiria o reexame do conjunto fático-probatório dos autos, o que não se admite em sede de recurso especial, a teor da Súmula 7 do STJ.
+Quanto à alegada ocorrência da prescrição, a decisão consignou que o entendimento do Tribunal de origem está de acordo com o do Superior Tribunal de Justiça.
+Nessa parte, portanto, a agravante não se desincumbiu de demonstrar o afastamento do óbice previsto na Súmula n. 83 do STJ, devendo ser mantida a decisão atacada.
+No que diz respeito à prova da quitação parcial da dívida, a questão é eminentemente documental e, por isso, envolve necessariamente o reexame do conjunto fático-probatório, o que não é possível em sede de recurso especial, diante do óbice da Súmula n. 7 do STJ.
+A esse respeito:
+PROCESSO CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 7/STJ. VIOLAÇÃO DO ART. 333, II, DO CPC. INEXISTÊNCIA DE RELAÇÃO JURÍDICA ENTRE AS PARTES. FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DOS AUTORES. NÃO COMPROVAÇÃO. EXIBIÇÃO DE DOCUMENTO COMUM. ÔNUS DA PARTE RECORRENTE.
+1. O reconhecimento da inexistência de elementos mínimos aptos a comprovar a relação jurídica entre as partes e a ensejar a inversão do ônus probatório encontra óbice na Súmula n. 7/STJ.
+2. Aplica-se a Súmula n. 7 do STJ se o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+3. Agravo regimental desprovido. (AgRg no AREsp n. 642.836/PR, de minha relatoria, Terceira Turma, julgado em 3/12/2015, DJe de 11/12/2015.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA AJUIZADA CONTRA A EMPRESA DE CONSÓRCIO E ESTIPULANTE. FALECIMENTO DA CONSORCIADA. RESTITUIÇÃO DAS PARCELAS PAGAS APÓS O ÓBITO, QUITAÇÃO DAS DEMAIS PARCELAS E ENTREGA DA CARTA DE CRÉDITO. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. CONDIÇÃO DE ADMINISTRADORA DO CONSÓRCIO E ESTIPULANTE. DENUNCIAÇÃO TARDIA DA LIDE À SEGURADORA. DIREITO DE REGRESSO ASSEGURADO EM AÇÃO AUTÔNOMA. PECULIARIDADES DO CASO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. APLICAÇÃO DAS SÚMULAS N. 5 E 7 DO STJ. LITISCONSÓRCIO NECESSÁRIO. SÚMULA N. 284 DO STF. ALEGAÇÃO DE DOENÇA PREEXISTENTE. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO.
+1. Se a Corte de origem analisou, de forma clara e objetiva, as questões relativas à legitimidade da administradora do consórcio para figurar no polo passivo da ação e a eventual direito de regresso em ação autônoma e, por ocasião dos aclaratórios, transcreveu o trecho do julgado em que essas questões foram enfrentadas, não há violação do art. 535 do CPC.
+2. Se, para alterar as premissas fáticas fixadas no acórdão recorrido, há necessidade de interpretar cláusula contratual e reexaminar o conjunto probatório dos autos, do recurso especial não se pode conhecer. Incidência das Súmulas n. 5 e 7 do STJ.
+3. Aplica-se a Súmula n. 284 do STF quando há descompasso entre a matéria impugnada no recurso especial (litisconsórcio passivo necessário) e a discutida e decidida pelo acórdão recorrido (ilegitimidade passiva ad causam).
+4. Quando o acórdão recorrido não analisa a questão de suposta doença preexistente de consorciada falecida, registrando que a matéria não foi suscitada no momento oportuno, configura indevida inovação recursal a discussão posterior da questão. Aplicação da Súmula n. 282/STF.
+5. Não se conhece da divergência jurisprudencial quando os julgados dissidentes tratam de situações fáticas diversas.
+6. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão agravada, o julgado deve ser mantido por seus próprios fundamentos.
+7. Agravo regimental desprovido. (AgRg no AREsp n. 73.709/SC, de minha relatoria, Terceira Turma, julgado em 5/5/2015, DJe de 11/5/2015.)
+Assim, também nessa parte a decisão atacada deverá ser mantida, pois assim consta:
+Quanto à questão da validade do termo de quitação, o Tribunal a quo afirmou o seguinte (fls. 886-887):
+A questão central do apelo é o de considerar como prova de pagamento, ainda que parcial, os termos de quitação parcial de dívida que somados comprovariam a restituição de valor considerável, cerca de R$ 2.100.000,00 (dois milhões e cem mil reais) (fls. 25/26 e 27/28).
+A r. sentença está correta quando afirma que os termos de quitação não observaram rigorosamente o disposto no artigo 940 do Código Civil de 1916, de modo que a eles não se aplica a presunção, ainda que relativa, da ocorrência do pagamento.
+Há, ainda, outros elementos nos autos que permitem afastar de vez a presunção de pagamento derivada dos respectivos termos de quitação.
+À fl. 100 dos autos, por exemplo, correspondência subscrita pelo liquidante do Banco Royal de Investimento S.A., Ney Kikuo Myamoto comprova que não foram encontrados lançamentos dos referidos pagamentos nos registros contábeis do banco, apesar da aparente autenticidade dos referidos "Termos de Quitação Particular".
+A par disso, o referido liquidante deu-se ao trabalho de indagar de pelo menos um dos subscritores dos termos de quitação, Sr. Harvey Edmur Colli, por correspondência enviada em 02 de julho de 2004 (fl. 109), acerca do destino do numerário supostamente pago, tendo ele, em carta datada de 12 de julho de 2004, dado uma resposta evasiva do tipo: dado o tempo decorrido não tem este ex-administrador condições de apontar quais os meandros que cercaram a concessão daquele financiamento e quanto aos instrumentos de quitação parcial cujas cópias foram anexadas devem eles ser confrontados com a documentação porventura existente nos arquivos da instituição liquidanda (fl. 110).
+Agregue-se ainda que as correspondências trocadas entre as embargantes e o liquidante demonstraram que as embargantes justificaram o pagamento, ocorrido em 26 de outubro de 1999, com o depósito de um cheque de número 894284, no valor de R$ 674.738,00 (seiscentos e setenta e quatro mil, setecentos e trinta e oito reais), emitido tão somente em 01 de março de 2000, ou seja, quatro meses depois, o que demonstraria a impossibilidade de que tal cheque tenha ensejado parte da alegada quitação (fl. 100).
+Por último, mas também importante, o mencionado instrumento particular de confissão de dívida e outras avenças, datado de 01 de março de 2005 (fls. 95/97), posterior, portanto, aos termos de quitação, que contradiz os citados termos de quitação, pois na cláusula primeira reconhecem ser devedoras da importância de R$ 2.990.000,00 (dois milhões, novecentos e noventa mil reais) e na cláusula segunda admitem que o débito referente ao contrato mencionado na cláusula primeira foi pago até a parcela vencida em 15 de setembro de 2002 e parte da parcela vencida em 15 de outubro de 2002. Admitem, ainda, que as parcelas vencidas em outubro de 2002 a fevereiro de 2003, no importe de R$ 570.448,73 (quinhentos e setenta mil, quatrocentos e quarenta e oito reais e setenta e três centavos) foram pagas pelo Banco Royal, o que está de acordo com a afirmação do BNDES de que na presente execução pretende receber as parcelas vencidas e não pagas a partir de março de 2003.
+O valor descrito na cláusula quarta do referido instrumento não pode ser interpretado como novação, como pretende uma apelante, porquanto o valor apontado, conforme expressa declaração ali firmada deveria ser confirmado pelo BNDES.
+Este quadro probatório solidamente apoiado em documentos produzidos pelas próprias apelantes permite concluir pela desconsideração dos termos de quitação como meios probantes seguros da ocorrência dos pagamentos parciais, de modo que a execução mostra-se correta.
+Dessa forma, o Tribunal deixou de reconhecer a quitação dada não apenas por inexistir cláusula acerca da forma de pagamento do valor, mas, principalmente, por considerar o conjunto probatório como um todo, o que o levou a afastar a presunção de pagamento constante do termo de quitação
+O recorrente em momento algum rebateu o fundamento autônomo do acórdão recorrido, a saber, o de que a análise do conjunto probatório levava à conclusão de que a quitação dada no questionado termo não poderia subsistir. Caso, pois, de incidência das Súmulas n. 283 e 284 do STF.
+Ainda que assim não fosse, o não conhecimento do recurso especial no ponto seria de rigor, pois o acolhimento da tese recursal demandaria a interpretação de cláusulas contratuais e o reexame de fatos e provas, procedimentos vedados pelas Súmulas n. 5 e 7 do STJ.
+Por ser consequência lógica de eventual alteração desse entendimento, o que não se mostrou viável, fica prejudicada a análise da alegada violação dos arts. 585, 586 e 618, I, do CPC de 1973.
+Ante o exposto, nego provimento ao recurso de agravo interno.
+É o voto.
