@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de divergência manejados por COOPERATIVA DE CREDITO, POUPANÇA E INVESTIMENTO SICREDI PIONEIRA RS contra acórdão prolatado pela e. Terceira Turma, Rel. Min. Marco Aurélio Bellizze, assim ementado:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE NÃO EXTINGUE O PROCESSO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO INESCUSÁVEL. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. O entendimento jurisprudencial do Superior Tribunal de Justiça é no sentido de que a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução; enquanto o agravo de instrumento é o concernente às decisões que não promovam a extinção da fase executiva em andamento, possuindo natureza jurídica de decisão interlocutória. A inobservância desta sistemática caracteriza erro inescusável, vedada a aplicação do princípio da fungibilidade recursal.
+3. Tendo o acórdão recorrido decidido em consonância com a jurisprudência do Superior Tribunal de Justiça, incide na hipótese a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional.
+4. Agravo interno a que se nega provimento.
+Os aclaratórios de fls. 770/776, foram rejeitados às fls. 793/798.
+Nas razões do presente apelo recursal indica-se dissídio em relação ao seguinte julgado: Agint no REsp 2.003157/PR, Rel. Min. Maria Isabel Gallotti, DJe de 13/03/2023.
+Argumenta a recorrente, em síntese, que "(..) o equivoco da parte deve ser relevado quando é evidente que o magistrado a induziu a erro colocando-a em dúvida razoável sobre qual recurso interpor."
+Requer, assim, o provimento da insurgência a fim de reformar o acórdão impugnado. (fls. 803/827)
+É o relatório.
+Decisão.
+A insurgência recursal não merece prosperar.
+1. Inicialmente, cumpre ressaltar que, nos termos do art. 266, caput, do RISTJ, os embargos de divergência têm como pressuposto de admissibilidade a existência de divergência entre Turmas diferentes, ou entre Turma e Seção, ou entre Turma e a Corte Especial, a qual deverá ser demonstrada nos moldes do art. 255, §§ 1º e 2º, do RISTJ.
+Na hipótese ora em apreço, o acórdão ora embargado proferido pela eg. Terceira Turma, por unanimidade de votos, expressou compreensão segundo a qual "a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução; enquanto o agravo de instrumento é o concernente às decisões que não promovam a extinção da fase executiva em andamento, possuindo natureza jurídica de decisão interlocutória. A inobservância desta sistemática caracteriza erro inescusável, vedada a aplicação do princípio da fungibilidade recursal."
+Com efeito, referida conclusão encontra-se em sintonia com o entendimento da Segunda Seção, a teor dos seguintes julgados, já devidamente citados pelo v. acórdão embargado: AgInt no AR Esp n. 1.611.874/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/5/2021, D Je de 18/5/2021; AgInt no R Esp n. 1.954.791/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/3/2022, DJe de 4/4/2022; AgInt no AREsp 1.671.596/MG, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 20/09/2021, DJe 15/10/2021.
+Dessa forma, aplica-se à presente hipótese o enunciado da Súmula 168/STJ, verbis: "Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado.
+2. Do exposto, com fundamento no art. 266-C, do RISTJ, indefiro liminarmente os presentes embargos de divergência.
+Advirto , desde logo, à insurgente que, ante a incidência de óbice de súmula ao apelo recursal, a insistência injustificada no prosseguimento do feito, caracterizada pela interposição de recursos manifestamente inadmissíveis ou protelatórios, ensejará a imposição das penalidades legais.
+EMENTA
