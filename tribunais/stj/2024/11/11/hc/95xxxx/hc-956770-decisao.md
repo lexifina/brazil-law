@@ -1,0 +1,13 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de DIEGO HENRIQUE DE OLIVEIRA - condenado por furto qualificado a 2 anos e 4 meses de reclusão, em regime inicial semiaberto, e a 11 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fls. 15/24), não comporta processamento.
+Com efeito, busca a impetração abrandar o regime inicial e redimensionar a pena imposta - na condenação proferida na Ação Penal n. 1509830-08.2023.8.26.0228 (fls. 59/66 - da 16ª Vara Central Criminal da comarca de São Paulo), alterada em grau de apelação -, com o afastamento da negativação do vetor antecedentes - sustentando que a suposta má antecedência do paciente deve ser afastada, tendo em vista o lapso depurador (fl. 8) - ou, subsidiariamente, a alteração da fração de exasperação da pena-base de 1/6 para 1/8, aduzindo que, diante do silêncio do legislador, o critério ideal para individualização da reprimenda-base o aumento na fração de 1/8 (um oitavo) por cada circunstância judicial negativamente valorada (fl. 11).
+Entretanto, não deve ser processada a impetração, pois o acórdão hostilizado foi publicado em data recente, estando em curso o lapso para interposição de recursos, o que impede o processamento do writ (AgRg no HC n. 873.533/ES, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe 15/3/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois:
+a) a negativação do vetor antecedentes - calcada na existência das seguintes condenações anteriores: processo n. 0001049-84.2012.8.26.0510, tráfico de drogas, TJ em 27/04/2015; processo n. 0003132-78.2009.8.26.0510, roubo majorado, TJ em 01/03/2012 (fl. 21) -, uma vez que foi condenação não abrangida pelo período depurador, isso porque, em relação aos Autos 0001049-84.2012.8.26.0510 (Execução n. 0002489-66.2017.8.26.0502), a extinção da punibilidade ocorreu em 21/10/2019 e os fatos aqui questionados ocorrente em me nos de 2 anos (18/1/2024 - fl. 36);
+b) não há ilegalidade na fixação da fração de exasperação em 1/6, pois tal quantum é aceito pela jurisprudência desta Corte (HC n. 827.542/MS, Ministra Daniela Teixeira, Quinta Turma, julgado em 22/10/2024, DJe de 29/10/2024); e
+c) correta a fixação do regime inicial semiaberto, considerando os maus antecedentes e a reincidência (fl. 23).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS IMPETRADO NO PRAZO RECURSAL NA CAUSA PRINCIPAL. INADMISSIBILIDADE. FURTO QUALIFICADO. DOSIMETRIA E REGIME INICIAL. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
