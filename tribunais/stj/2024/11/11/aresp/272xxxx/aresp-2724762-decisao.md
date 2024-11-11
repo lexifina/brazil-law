@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por SUZANA DOS SANTOS GARRAFIELO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. GRATUIDADE DE JUSTIÇA. O DIREITO À GRATUIDADE JUDICIÁRIA É DESTINADO ÀS PESSOAS QUE NÃO POSSUEM CONDIÇÕES FINANCEIRAS PARA FAZER FRENTE ÀS DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS (CPC. ART. 98). TRATANDO-SE DE DIREITO DE CARÁTER RESTRITIVO. QUE SE DESTINA ÀS PESSOAS EFETIVAMENTE NECESSITADAS. O RECONHECIMENTO DO DIREITO NÃO PODE SER REALIZADO SEM QUALQUER SUPEDÂNEO FÁTICO, PORQUANTO OS SERVIÇOS JUDICIÁRIOS SÃO CUSTEADOS PELA SOCIEDADE COMO UM TODO. SENDO NECESSÁRIO. PARA O SEU DEFERIMENTO, A DEMONSTRAÇÃO DA INSUFICIÊNCIA DE RECURSOS DA PARTE POSTULANTE. HIPÓTESE VERSADA EM QUE NÃO FOI COMPROVADA A HIPOSSUFICIÊNCIA FINANCEIRA DA PARTE REQUERENTE, PELO QUE A MANUTENÇÃO DA DECISÃO RECORRIDA É MEDIDA IMPOSITIVA. RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 98 e 99, §§ 2º e 3º, do CPC, no que concerne à necessidade de concessão do benefício da justiça gratuita, pois restou comprovada a hipossuficiência financeira, trazendo a seguinte argumentação:
+De plano, importa mencionar que a própria decisão atacada reconhece que a Agravante, ora Recorrente, é APOSENTADA VINCULADA AO INSS!
+Ou seja, é evidente a situação de hipossuficiência da Agravante, que percebe rendimentos muito inferiores aos 05 (cinco) salários mínimos adotados como parâmetro pela jurisprudência como presunção legal de necessidade para fins de concessão da AJG, previstos no Enunciado nº 02 da Coordenadoria Cível da AJURIS e no Enunciado nº 49 do Centro de Estudos do TJRS.
+ ..
+No mesmo sentido, restou demonstrado que os rendimentos tributáveis da Embargante no exercício 2022 foram de R$ 51.383,50, o que importa num ganho mensal equivalente a 3,53 salários mínimos, sem o desconto dos impostos:  ..
+Evidente, portanto, que a Recorrente se enquadra no conceito de pessoa pobre, na acepção jurídica do termo, fazendo jus ao benefício.
+ ..
+Necessário pontuar, quanto ao acervo imobiliário constante na DIRPF, que restou esclarecido pela Recorrente que, em que pese ainda figurem como de sua propriedade, os imóveis de fato foram ALIENADOS A TERCEIROS para fins de cobertura de débitos trabalhistas e satisfação de créditos que originaram penhoras nas matrículas dos próprios imóveis, conforme constou nas matrículas juntadas.
+Logo, além de não serem mais de sua propriedade, foram consumidos com pagamentos de dívidas trabalhistas e tributárias, de modo que o "ganho de capital" informada na declaração de renda é meramente para efeitos fiscais, considerando que a Recorrente não recebeu nenhuma quantia "líquida" pertinente às alienações.
+Soma-se a isso o fato de as quotas sociais se referem a empresas inativas e "quebradas", sem patrimônio imobilizado ou qualquer outro recurso líquido que lhe retire a condição de hipossuficiência alegada como restou demonstrada com a juntada das declarações de inatividade carreadas (fls. 65-67).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No caso em julgamento, a parte requerente é aposentada vinculada ao INSS, além de atuar como empresária individual.
+De acordo com a declaração de imposto de renda trazida aos autos (evento 29, COMP2), verifica-se que a requerente auferiu R$ 150.000,00 a título de rendimentos não tributáveis no ano de 2022, oriundos do ganho de capital em alienação imobiliária, além de outros R$ 51.383,50 de benefício previdenciário.
+Tal situação, somada ao expressivo acervo patrimonial declarado - R$ 1.129.392,00 -, afasta a presunção da hipossuficiência alegada nos autos, mesmo que alguns dos imóveis informados ao Fisco tenham sido vendidos no ano de 2023, pois essa circunstância apenas reforçaria a liquidez dos bens da requerente, cujo somatório supera, de qualquer modo, o valor das dívidas e ônus reais.
+Com efeito, a análise do conjunto probatório não permite concluir pela ausência de recursos da parte agravante, motivo pelo qual se torna impositiva a manutenção da decisão que indeferiu a gratuidade de justiça (fl. 48).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
