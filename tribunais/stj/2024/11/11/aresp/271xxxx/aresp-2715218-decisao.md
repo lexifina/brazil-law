@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ALDO MARTINS DOS SANTOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim resumido:
+APELAÇÃO CÍVEL IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - ADICIONAL DE INSALUBRIDADE - DECISÃO QUE ACOLHEU IMPUGNAÇÃO DO ESTADO DE SERGIPE IRRESIGNAÇÃO RECURSAL - EXCESSO DE EXECUÇÃO RECONHECIDO - BASE DE CÁLCULO O VENCIMENTO BÁSICO DEFINIDO EM LEI - INOCORRÊNCIA DE OFENSA A COISA JULGADA - MANUTENÇÃO DA SENTENÇA - RECURSO CONHECIDO E IMPROVIDO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 502 do CPC, no que concerne à impossibilidade de alteração dos parâmetros da base de cálculo do adicional de insalubridade estabelecidos no título executivo judicial em fase de cumprimento de sentença, em razão da coisa julgada material, trazendo a seguinte argumentação:
+16. O que se pretende é tão somente auferir a possibilidade jurídica de alteração dos parâmetros da base de cálculo estabelecidos no título executivo judicial em fase de cumprimento de sentença, nos termos do art. 502 c/c art. 508, ambos do CPC.
+ ..
+19. Isso porque, ao negar provimento ao recurso de apelação apresentado pelo Recorrente, o Tribunal de origem partiu da premissa equivocada de que a decisão objeto do cumprimento de sentença de origem não teria discutido a base de cálculo da verba perseguida, limitando-se a reconhecer o direito ao seu recebimento (fls. 156-157).
+21. O título executivo judicial objeto do cumprimento de sentença, portanto, indicou, expressamente, que o cálculo do valor devido deveria levar em consideração a REMUNERAÇÃO do servidor (que não se confunde com salário, muito menos com salário básico inicial).
+ ..
+23. Ao instaurar o cumprimento de sentença de origem, o Recorrente observou, exatamente, os parâmetros estabelecidos no referido título executivo judicial, utilizando como base de cálculo a remuneração do servidor, não havendo que falar em recálculo do crédito perseguido com base no vencimento básico inicial da carreira (fls. 157).
+24. É nítido, portanto, que a decisão recorrida, ao acolher a tese do Recorrido de alteração do parâmetro indicado para o vencimento inicial básico, permite algo inaceitável: A ALTERAÇÃO DA COISA JULGADA MATERIAL, o que é, evidentemente, inadmissível, nos termos do art. 502 do CPC (fls. 158).
+31. Anote-se, ainda, que não merece prosperar o fundamento do acórdão no sentido de que o percentual estabelecido a título de adicional de insalubridade não faz coisa julgada quando a própria norma de regência altera a base de cálculo, a teor do que dispõe o art. 505, inciso I, do CPC.
+32. É que o dispositivo mencionado sequer se aplica à hipótese em apreço, uma vez que não é o caso de alteração da base de cálculo pela própria norma de regência.
+33. Conforme indicado no próprio acórdão recorrido, a Lei Estadual nº 7.820/2014 (norma de regência) já estava em vigor quando da decisão que determinou a remuneração do servidor como base de cálculo para o adicional de insalubridade, não havendo qualquer alteração pela própria norma em momento posterior.
+34. Acaso não concordasse com os parâmetros da decisão exequenda, o Recorrido deveria ter apresentado embargos de declaração ou Recurso Especial/Extraordinário no momento adequado, sendo inadmissível, em sede de cumprimento de sentença, a alteração dos limites e parâmetros da decisão, uma vez que, com o trânsito em julgado, surge a eficácia preclusiva da coisa julgada.
+35. Dessa forma, não é cabível ao juízo da fase de cumprimento de sentença alterar os parâmetros estabelecidos no título judicial transitado em julgado (fls. 161).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+É que o acórdão não discutiu a base de cálculo da verba, limitando-se a reconhecer o direito ao seu recebimento, o marco inicial desse direito, as parcelas vencidas atingidas pela prescrição e os parâmetros de atualização do débito.
+Digo mais, tratando-se de relação continuada, como a dos autos, e sendo a rubrica de gratificação é preciso observar o teor do art. 505, I CPC, ou seja, neste ponto do percentual não faz coisa julgada, quando a própria norma de regência altera a base de cálculo (fl. 144).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto a pretensão recursal consiste no reconhecimento da violação à coisa julgada através da revisão da interpretação do teor do título executivo judicial realizada pelo acórdão recorrido, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido, a jurisprudência do STJ firmou que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp 770.444/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 15.3.2019).
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.588.826/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 1º.7.2020; REsp 1.431.610/GO, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 26.2.2019; e AgRg no AREsp 755.581/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29.2.2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
