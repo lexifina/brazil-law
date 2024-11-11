@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, denegar a ordem.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA NECESSÁRIA. PACIENTE QUE NUNCA COLABOROU COM A INSTRUÇÃO PENAL E ESTAVA FORAGIDO HÁ 15 ANOS. PRESENÇA DOS REQUISITOS LEGAIS. INAPLICABILIDADE DE MEDIDAS CAUTELARES DIVERSAS. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas Corpus impetrado visando a revogação de prisão preventiva decretada pelo Tribunal de origem, sob alegação de ausência dos requisitos do art. 312 do Código de Processo Penal e possibilidade de aplicação de medidas cautelares diversas da prisão.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se estão presentes os requisitos legais para a decretação da prisão preventiva; (ii) estabelecer se é possível a aplicação de medidas cautelares diversas da prisão.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva é devidamente decretada quando presentes as condições previstas no art. 312 do CPP, incluindo a comprovação concreta da existência do "fumus comissi delicti" e do "periculum libertatis".
+4. A aplicação de medidas cautelares diversas da prisão se mostra impossível quando a gravidade concreta da conduta delituosa e a periculosidade da parte indicam que a ordem pública não estaria devidamente preservada com a soltura.
+5. Encontra-se em linha com a jurisprudência desta Corte a análise realizada pelo Tribunal de origem acerca das circunstâncias fáticas do caso concreto, que indicam o cometimento do delito de homicídio qualificado, assim como o preenchimento das demais condições previstas no art. 312 do CPP, especialmente para g arantir a instrução penal já que o paciente nunca colaborou coma justiça e esteve foragido por 15 anos, aliadas à proporcionalidade e à indispensabilidade da decretação da prisão preventiva.
+IV. ORDEM DENEGADA
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos.
+A defesa alega, em síntese, a ausência dos requisitos para decretação da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, o deferimento da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA NECESSÁRIA. PACIENTE QUE NUNCA COLABOROU COM A INSTRUÇÃO PENAL E ESTAVA FORAGIDO HÁ 15 ANOS. PRESENÇA DOS REQUISITOS LEGAIS. INAPLICABILIDADE DE MEDIDAS CAUTELARES DIVERSAS. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas Corpus impetrado visando a revogação de prisão preventiva decretada pelo Tribunal de origem, sob alegação de ausência dos requisitos do art. 312 do Código de Processo Penal e possibilidade de aplicação de medidas cautelares diversas da prisão.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se estão presentes os requisitos legais para a decretação da prisão preventiva; (ii) estabelecer se é possível a aplicação de medidas cautelares diversas da prisão.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva é devidamente decretada quando presentes as condições previstas no art. 312 do CPP, incluindo a comprovação concreta da existência do "fumus comissi delicti" e do "periculum libertatis".
+4. A aplicação de medidas cautelares diversas da prisão se mostra impossível quando a gravidade concreta da conduta delituosa e a periculosidade da parte indicam que a ordem pública não estaria devidamente preservada com a soltura.
+5. Encontra-se em linha com a jurisprudência desta Corte a análise realizada pelo Tribunal de origem acerca das circunstâncias fáticas do caso concreto, que indicam o cometimento do delito de homicídio qualificado, assim como o preenchimento das demais condições previstas no art. 312 do CPP, especialmente para g arantir a instrução penal já que o paciente nunca colaborou coma justiça e esteve foragido por 15 anos, aliadas à proporcionalidade e à indispensabilidade da decretação da prisão preventiva.
+IV. ORDEM DENEGADA
+VOTO
+Sabe-se que "a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP)." (RHC: 174619 ES 2022/0397567-9, Relator: SEBASTIÃO REIS JÚNIOR, Data de Julgamento: 11/04/2023, SEXTA TURMA, Data de Publicação: DJe 16/05/2023).
+Com efeito, o ordenamento jurídico vigente, em atenção ao princípio da presunção da inocência, consagra a liberdade do indivíduo como regra. Desse modo, a prisão antes do trânsito em julgado revela-se cabível tão somente quando, presentes as condições do art. 312 do CPP, estiver concretamente comprovada a existência do "fumus comissi delicti", aliado ao "periculum libertatis", sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+Além disso, "em razão de seu caráter excepcional, a prisão preventiva somente deve ser imposta quando incabível a substituição por outra medida cautelar menos gravosa, conforme disposto no art. 282 , § 6º , do CPP." (AgRg no HC: 716740 BA 2022/0000712-7, Relator: Ministro JOEL ILAN PACIORNIK, Data de Julgamento: 22/03/2022, T5 - QUINTA TURMA, Data de Publicação: DJe 07/04/2022).
+No caso, a prisão preventiva foi mantida com base nos seguintes argumentos:
+"Pela análise dos autos, constata-se haver prova da existência do crime e indício suficiente da autoria, estando evidenciada a plausibilidade do direito de punir (fumus comissi delicti).
+A instrução processual ainda não se encerrou, não sendo o momento adequado para desacreditar os depoimentos que já foram colhidos, conforme pretende a defesa técnica.
+Do mesmo modo, o receio de perigo gerado pelo estado de liberdade do imputado (periculum libertatis) decorre da necessidade de garantia da ordem pública, em razão da gravidade em concreto da conduta, da periculosidade social do agente e das circunstâncias em que praticado o delito (modus operandi).
+Ainda, a prisão se faz necessária por razões de conveniência da instrução criminal e da necessidade de assegurar a aplicação da lei penal, pois, como dito, o acusado ficou foragido por quase 15 anos.
+Mostra-se incoerente colocar o paciente em liberdade sob o argumento de falta de contemporaneidade, valendo-se exatamente do tempo em que ficou foragido.
+Seguem julgados de referência:
+Ademais, o agravante teria permanecido foragido da justiça por mais de vinte anos, sendo que a prisão preventiva decretada em 5/8/1997, só veio a ser cumprido em 13/11/2021. Ora, ao acusado que comete delitos, o Estado deve propiciar meios para o processo alcançar um resultado útil. Assim, determinadas condutas, como a não localização, ausência do distrito da culpa e a fuga (mesmo após o fato), podem demonstrar o intento do agente de frustrar o direito do Estado de punir, justificando, assim, a custódia. 5. A permanência do paciente em lugar incerto e não sabido demonstra a contemporaneidade do motivo que justifica a decretação da medida extrema (AgRg no HC n. 736.301/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/5/2022, DJe de 13/5/2022).
+É inviável a aplicação de medidas cautelares diversas da prisão, porquanto a gravidade da conduta delituosa e a condição de foragido do agravante indicam que a ordem pública e a aplicação da lei penal não estariam acauteladas com a sua soltura. (AgRg no RHC n. 142.741/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/9/2021, DJe de 20/9/2021).
+Afasta-se a ausência de contemporaneidade dos fatos quando o decreto não pode ser cumprido porque foragido o paciente por diversos anos, período em que suspensa a ação penal e o curso do prazo prescricional. (HC n. 574.885/PE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 30/6/2020, DJe de 5/8/2020)
+A fuga constitui o fundamento da cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória. (AgRg no RHC n. 133.180/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/8/2021, DJe de 24/8/2021)
+O Juízo fundamentou concretamente a necessidade da custódia cautelar(art.312, §2º, CPP), nos seguintes termos (ind.856, processo originário):"Não houve, desde o decreto prisional, qualquer alteração fático-jurídica nos autos que garantisse ao Juízo a segurança necessária à revogação, ou mesmo à substituição da cautelar extrema em vigor. Igualmente, não logrou a defesa acrescer quaisquer dados aptos a infirmarem os pressupostos sobre os quais se fundamentou a ordem repressiva.
+Cumpre destacar que a acusação que pesa sobre o réu é gravíssima e timbrada pela hediondez. Conforme consta do feito, após se separar da vítima e na intenção de ficar com a totalidade de bens do casal, o acusado teria surpreendido sua companheira enquanto assistia televisão, efetuando-lhe disparos de arma de fogo, que a atingiram fatalmente. Ora, o modus operandi, supostamente empregado pelo acusado na prática do delito, aponta para a necessidade de se garantir a ordem pública, dada a gravidade concreta do delito, pelo que se impõe a manutenção da prisão ora em vigor.
+Importante, ainda, rememorar que, após a prática do crime acima narrado, o acusado teria empreendido fuga, vindo a ser capturado, tão somente, no último dia 7/6/22, no Estado de Tocantins. Nesse contexto, teria permanecido foragido por mais de 14 (quatorze) anos, em que pese tenha constituído patrono nos autos desde 2016 (vide índex 304, folhas 280), a demonstrar sua ciência inequívoca da presente acusação e sua intenção de se furtar à eventual aplicação da lei penal".
+Pelo relato do impetrante e pelos documentos juntados aos autos, não é possível concluir de forma inequívoca pela existência de constrangimento ilegal a justificar a concessão da ordem.
+Detalhes fáticos serão esclarecidos durante a instrução criminal, não havendo espaço para aprofundamento na via estreita do habeas corpus.
+Ainda nos casos em que o paciente possui residência fixa, ocupação lícita e bons antecedentes, não significa que a prisão cautelar seja ilegal ou injustificada. Isso porque o decreto prisional se fundamenta em elementos concretos que justificam a necessidade do cerceamento da liberdade. Assim, as condições pessoais favoráveis, por si sós, não garantem a revogação da prisão preventiva quando há nos autos elementos hábeis a recomendar a manutenção da custódia.
+Não é ocaso de substituição da prisão preventiva por medidas cautelares diversas.
+Os fundamentos adotados na decisão de primeira instância são bastantes para manter o decreto prisional, não havendo nestes autos elementos suficientes para formar convicção em sentido contrário.
+Ante o exposto, voto no sentido de DENEGAR A ORDEM."
+A análise realizada pelo Tribunal de origem encontra-se em linha com a jurisprudência desta Corte acerca das circunstâncias fáticas do caso concreto, que dão conta do preenchimento das condições previstas no art. 312 do CPP, aliadas à proporcionalidade e à indispensabilidade da decretação da prisão preventiva.
+Nestas circunstâncias, é assente nesta Corte que "tem-se por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura" (AgRg no HC n. 844.095/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Pelo exposto, denego a ordem de habeas corpus pleiteada.
+É o voto.
