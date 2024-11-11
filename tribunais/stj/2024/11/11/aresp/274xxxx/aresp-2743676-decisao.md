@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se  de  agravo  em  recurso  especial  interposto  por ALEX DE ARAÚJO SOUTO contra  decisão  que  inadmitiu  o  recurso  especial  com  fundamento  na  Súmula  n.  7  do  STJ.
+Alega  o  agravante  que  os  pressupostos  de  admissibilidade  do  recurso  especial  foram  atendidos.
+O  recurso  especial,  fundado  no  art.  105,  III,  a,  da  Constituição  Federal,  foi  interposto  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  da Paraíba  (Apelação  n.  0811421-10.2019.8.15.2001)  assim  ementado  (fl. 44):
+AGRAVO INTERNO. INTERPOSIÇÃO CONTRA DECISÃO QUE INDEFERE GRATUIDADE RECURSAL. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA, MESMO APÓS INTIMAÇÃO PARA APRESENTAR DOCUMENTOS COMPROBATÓRIOS. DECISÃO MANTIDA. DESPROVIMENTO DO AGRAVO INTERNO.
+- "(..) De acordo com entendimento firmado nesta Corte, a declaração de pobreza, com o intuito de obter os benefícios da assistência judiciária gratuita, goza de presunção relativa, admitindo, portanto, prova em contrário. Além disso, o Superior Tribunal de Justiça já decidiu que o magistrado pode ordenar a comprovação do estado de miserabilidade a fim de subsidiar o deferimento da assistência judiciária gratuita (..)"
+- No caso em apreço, não tendo a parte recorrente demonstrado a alegada hipossuficiência, resulta imperiosa a manutenção da decisão recorrida que indeferiu o benefício.
+Nas  razões  do  recurso  especial,  o  ora  agravante  alega, preliminarmente, violação do art. 489, § 1º, do CPC, aduzindo que a revogação da justiça gratuita depende de fato novo que demonstre modificação da situação financeira da parte que torne a manutenção da gratuidade incompatível. Acrescenta que o Tribunal a quo reexaminou questão já decidida, violando também o art. 505 do CPC.
+Quanto ao mérito, aponta  ofensa  aos  arts.  98  e  99, §§ 2º e 3º, do  Código  de  Processo  Civil. Aduz  que  a declaração de hipossuficiência possui presunção juris tantum de veracidade, que só pode ser afastada quando houver nos autos prova em contrário, em observância ao princípio constitucional do amplo acesso à Justiça.
+Por fim, alega violação do art. 1.026, §§ 2º e 3º, do CPC, sob o argumento de que os embargos opostos na origem não tinham intuito protelatório, devendo, portanto, ser afastada a multa de 2% aplicada pela corte estadual.
+Requer  o  conhecimento  e  o  provimento  do  recurso.
+Contrarrazões às fls. 351-360.
+É  o  relatório.  Decido.
+I - Da violação dos arts. 489, § 1º, e 505 do CPC
+Afasta-se a alegada ofensa aos arts. 489, § 1º, e 505 do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+No caso, o acórdão foi claro ao asseverar que foi concedido prazo para que o ora agravante comprovasse documentalmente sua condição econômica, uma vez que a presunção de veracidade da declaração de hipossuficiência é relativa. Confira-se (fls. 274-275):
+Assim, relativamente à gratuidade, para fins de definir pela concessão, negação, deferimento parcial para alguns atos ou parcelamento, deverá a parte demonstrar documentalmente nos autos sua condição econômica, comprovando renda e ganhos, de sorte a amparar o juízo com elementos acerca de qual sua efetiva capacidade para litigar sem custos no processo, com alguns custos de determinados atos ou suportar o parcelamento de despesas.
+Dessa forma, essencial à parte que requer a benesse trazer elementos probantes necessários a, satisfatoriamente, demonstrar sua condição de hipossuficiente, vez que a presunção decorrente do art. 99, § 3º, do CPC, tem natureza relativa, podendo ser desconstituída com prova em contrário, ou ainda, quando houver dúvida quanto às alegações do requerente, cabendo, nessa hipótese, intimação da mesma para provar a real impossibilidade de que trata o dispositivo legal, nos termos de seu § 2º.
+Registre-se, por oportuno, que mesmo na vigência do codex anterior, já havia o entendimento de que a concessão da gratuidade poderia ser objeto de investigação pelo magistrado, quando não se convencesse das alegações da parte. Neste particular, confira-se julgado do Colendo STJ:
+(..)
+Nesse contexto, a concessão da gratuidade pelo juízo a quo, por si só, não pode ser levada em consideração, in casu, para a concessão de gratuidade recursal, notadamente quando o escorço probatório produzido até então se revelou insuficiente para comprovar que a recorrente, de fato, faz jus a gratuidade pleiteada.
+Com efeito, em exame sobre a dispensa do recolhimento do preparo recursal, fora determinada a intimação da recorrente para apresentar documentos aptos à prova da necessidade de justiça gratuita, a exemplo de declarações de IRPF, extratos bancários, comprovante de renda, dentre outros, para fins de análise comparativa em relação à capacidade do polo insurgente.
+Tal entendimento está de acordo com a jurisprudência do STJ sobre o tema, segundo a qual a presunção de veracidade da declaração de hipossuficiência é relativa, "podendo o magistrado, de ofício, indeferir ou revogar o benefício, havendo fundadas razões acerca da condição econômico-financeira da parte de fazer frente às custas e/ou despesas processuais, pois é dever do magistrado, na direção do processo, prevenir o abuso de direito e garantir às partes igualdade de tratamento" (AgInt no AREsp n. 2.327.920/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/11/2023, DJe de 24/11/2023).
+ II - Da ofensa  aos  arts.  98  e  99 §§2º e 3º do  Código  de  Processo  Civil
+O  Tribunal  de  Justiça  estadual,  baseado  nas  premissas  fáticas  dos  autos,  concluiu  não  ter  sido  comprovada  a  alegada  necessidade  financeira  para  a  concessão  da  justiça  gratuita.  Confira-se  (fl. 275):
+Com efeito, em exame sobre a dispensa do recolhimento do preparo recursal, fora determinada a intimação da recorrente para apresentar documentos aptos à prova da necessidade de justiça gratuita, a exemplo de declarações de IRPF, extratos bancários, comprovante de renda, dentre outros, para fins de análise comparativa em relação à capacidade do polo insurgente.
+No entanto, em que pese o esforço envidado pela insurgente no intuito de ser beneficiada com o instituto da gratuidade, não demonstrou a hipossuficiência alegada, uma vez que deixou de apresentar os documentos solicitados, quedando-se inerte ao comando judicial, o que não pode ser tolerado.
+
+ N  esse  contexto,  para  modificar  as  conclusões  do  Tribunal  de  origem  a  respeito  da  ausência  de  demonstração  da  necessidade  financeira  do  ora  agravante,  seria  necessário  reexame  do  contexto  fático-probatório  dos  autos,  procedimento  vedado  na  via  do  recurso  especial  em  face  da  Súmula  n.  7  do  STJ.
+III - Da violação do art. 1.026, §§ 2º e 3º, do CPC
+Neste ponto, o recurso merece prosperar.
+Os embargos de declaração opostos ao acórdão do Tribunal de origem tiveram o intento de prequestionar as matérias discutidas no recurso especial. Assim, não está configurado o caráter protelatório do referido recurso.
+Aplica-se ao caso, portanto, a Súmula n. 98 do STJ, que dispõe que "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+ IV- Conclusão
+ Ante  o  exposto,  dou parcial  provimento  ao  agravo para afastar a multa por embargos de declaração protelatórios aplicada pelo Tribunal de origem.
+Deixo  de  majorar  os  honorários  recursais  nos  termos  do  §  11  do  art.  85  do  CPC,  em  razão  da  inexistência  de  prévia  fixação  na  origem.
+  Publique-se.  Intimem-se.
+ EMENTA
