@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se  de  agravo  manejado  por  Cargill  Agrícola  S.A  contra  decisão  que  não  admitiu  recurso  especial,  este  interposto  com  fundamento  no  art.  105,  III,  a  e  c,  da  CF,  desafiando  acórdão  proferido  pelo  Tribunal  Regional  Federal  da  4ª  Região,  assim  ementado  (fl.  202):
+TRIBUTÁRIO.  MANDADO  DE  SEGURANÇA.  AFRMM.  ADICIONAL  AO  FRETE  DE  RENOVAÇÃO  DA  MARINHA  MERCANTE.  ALÍQUOTAS.  REVOGAÇÃO  PELO  DECRETO  Nº  11.374/2023.  ANTERIORIDADE.  VIOLAÇÃO.  INOCORRÊNCIA.
+1.  O  Decreto  nº  11.374/2023  não  implicou  a  majoração  das  alíquotas  do  Adicional  ao  Frete  para  Renovação  da  Marinha  Mercante  -  AFRMM,  uma  vez  que  as  alíquotas  reduzidas  pelo  Decreto  nº  11.321/2022  não  foram  efetivamente  aplicadas.
+2.  Mantidas  as  alíquotas  até  então  vigentes,  a  edição  do  Decreto  nº  11.374/23  não  se  sujeita  à  anterioridade,  quer  anual  ou  nonagesimal.
+3.  Apelação  desprovida.
+Nas  razões  do  recurso  especial,  a  parte  agravante  aponta,  além  de  dissídio  jurisprudencial,  violação  aos  arts.  103,  I ,  e  105  do  CTN;  1º  da  LINDB.  Sustenta,  em  resumo,  que:  "por  se  tratar  de  uma  redução  de  tributo,  a  lei  se  aplica  imediatamente,  não  sendo  necessário  respeitar  o  Princípio  da  Anterioridade.  Assim  sendo,  em  decorrência  do  Decreto  11.321/2022  o  AFRMM  passou  a  incidir  à  alíquota  de  4%  sobre  o  frete  a  partir  de  1º  de  janeiro  de  2023"  (fl.  245).
+Contrarrazões  ofertadas  às  fls.  273/282.
+O  Ministério  Público  Federal,  na  condição  de  fiscal  da  lei,  opinou  pelo  conhecimento  do  Agravo  para  não  conhecer  do  Recurso  Especial.  (fls.  335/337).
+É  O  RELATÓRIO.  SEGUE  A  FUNDAMENTAÇÃO.
+A  irresignação  não  merece  acolhimento.
+Destaca-se  da  fundamentação  do  acórdão  recorrido  o  seguinte  trecho  (fl.  200):
+No  entanto,  o  Decreto  nº  11.374/2023,  de  01/01/2023,  com  eficácia  a  partir  da  data  de  sua  publicação  (02/01/2023  -  art.  4º),  revogou  o  decreto  anterior  (11.321/2022),  de  modo  que  as  alíquotas  do  AFRRM  retornaram  aos  patamares  previstos  em  sua  lei  instituidora.
+É  importante  destacar  que  o  Decreto  nº  11.374/2023,  na  prática,  não  implicou  a  majoração  das  alíquotas  do  Adicional  ao  Frete  para  Renovação  da  Marinha  Mercante  -  AFRMM,  uma  vez  que  as  alíquotas  reduzidas  não  foram  efetivamente  aplicadas,  a  considerar  que  o  dia  1º  de  janeiro  se  trata  de  feriado  nacional.
+Desta  forma,  mantidas  as  alíquotas  até  então  vigentes,  a  edição  do  Decreto  nº  11.374/23  não  se  sujeita  à  anterioridade,  quer  anual  ou  nonagesimal,  aplicando-se  à  espécie,  o  decidido  pelo  Supremo  Tribunal  Federal  (Tema  91),  segundo  o  qual  "  o  prazo  nonagesimal  previsto  no  art.  150,  III,  c,  da  Constituição  Federal  somente  deve  ser  utilizado  nos  casos  de  criação  ou  majoração  de  tributos,  não  nas  situações,  como  a  prevista  na  Lei  paulista  11.813/04,  de  simples  prorrogação  de  alíquota  já  aplicada  anteriormente",  de  modo  que  não  há  ofensa  a  direito  líquido  e  certo  a  ensejar  a  concessão  da  segurança  postulada  pela  impetrante.
+Como  se  vê,  o  Tribunal  de  origem  decidiu  a  controvérsia  à  luz  de  fundamentos  eminentemente  constitucionais  (inexistência  de  ofensa  ao  princípio  da  anterioridade  anual ou nonagesimal),  matéria  insuscetível  de  ser  examinada  em  sede  de  recurso  especial.
+A  propósito:
+PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  ADICIONAL  AO  FRETE  PARA  RENOVAÇÃO  DA  MARINHA  MERCANTE  -  AFRMM.  FUNDAMENTAÇÃO  CONSTITUCIONAL.  EXAME.  INVIABILIDADE.
+1.  Não  se  configura  ofensa  ao  art.  1.022  do  CPC/2015  quando  o  Tribunal  de  origem  aprecia  integralmente  a  controvérsia,  apontando  as  razões  de  seu  convencimento,  mesmo  que  em  sentido  contrário  ao  postulado,  circunstância  que  não  se  confunde  com  negativa  ou  ausência  de  prestação  jurisdicional.
+2.  O  recurso  especial  não  é  remédio  processual  adequado  para  revisar  acórdão  respaldado  em  fundamentação  de  índole  constitucional.
+3.  Agravo  interno  desprovido.
+(AgInt  no  REsp  n.  2.123.091/SC,  relator  Ministro  Gurgel  de  Faria,  Primeira  Turma,  julgado  em  23/9/2024,  DJe  de  27/9/2024.)
+TRIBUTÁRIO.  RECURSO  ESPECIAL.  ADUANEIRO.  MANDADO  DE  SEGURANÇA.  ADICIONAL  AO  FRETE  PARA  RENOVAÇÃO  DA  MARINHA  MERCANTE  -  AFRMM.  BASE  DE  CÁLCULO.  LEI  Nº  10.983/2004.  INCLUSÃO  DESPESAS  PORTUÁRIAS  COM  A  MANIPULAÇÃO  DA  CARGA.  CONTROVÉRSIA  DIRIMIDA  NO  ACÓRDÃO  DE  ORIGEM  COM  ALICERCE  CONSTITUCIONAL.  INVIABILIDADE  DE  ANÁLISE  EM  SEDE  DE  RECURSO  ESPECIAL.  RECURSO  ESPECIAL  NÃO  CONHECIDO.
+1.  Deveras,  a  recorrente  almeja  a  declaração  de  incompatibilidade  (fls.  2.141,  e-STJ)  entre  a  base  de  cálculo  e  o  aspecto  material  da  hipótese  de  incidência  do  AFRMM,  enquanto  disposições  do  art.  4º  e  art.  5º  da  Lei  nº  10.893/2004,  alegando  a  indevida  a  cobrança  do  AFRMM  incidente  nas  operações  de  importação,  bem  como  nas  operações  internas,  correspondente  à  inclusão  em  sua  base  de  cálculo  de  valores  que  sejam  relacionados  à  remuneração/tarifas  do  operador  portuário  brasileiro  por  serviços  prestados  após  a  chegada  do  navio  à  sua  instalação  portuária  (capatazia,  estiva,  conferência  de  carga,  conserto  de  carga,  vigilância  das  embarcações,  bloco,  armazenagem,  sobre  estadia)  ou  pela  utilização  de  sua  infraestrutura.
+2.  A  Corte  de  origem  examinou  a  contenda  destes  autos  sob  o  viés  constitucional,  concernente  à  constitucionalidade  do  artigo  5º,  Lei  10.893/2004,  tendo  como  parâmetro  o  artigo  149,  §  2º,  inciso  III,  alínea  "a",  da  Constituição  Federal.
+3.  Nesse  sentido,  não  cabe  em  sede  de  recurso  especial  inspecionar  ou  adentrar  nos  parâmetros  constitucionais  para  se  aferir  a  juridicidade  da  inclusão  de  determinadas  despesas  aduaneiras  na  composição  da  contribuição  denominada  Adicional  do  Frete  da  Marinha  Mercante  -  AFMM.
+4.  Recurso  Especial  não  conhecido.
+(REsp  n.  2.082.134/RS ,  relator  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  julgado  em  7/11/2023,  DJe  de  10/11/2023.)
+
+ANTE  O  EXPOSTO,  nego  provimento  ao  agravo.
+Publique-se.
+EMENTA
