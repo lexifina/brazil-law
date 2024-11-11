@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PLANO DE SAÚDE. CIRURGIAS PLÁSTICAS REPARADORAS PÓS BARIÁTRICA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SÚMULA 7/STJ. CIRURGIAS PLÁSTICAS DE CARÁTER FUNCIONAL E REPARADOR. NEGATIVA DE CUSTEIO INDEVIDA.
+1. Ação de obrigação de fazer c/ compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A jurisprudência do STJ é no sentido de que o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa. Precedentes.
+4. Consoante Tema 1.069 STJ "É de cobertura obrigatória pelos planos de saúde a cirurgia plástica de caráter reparador ou funcional indicada pelo médico assistente, em paciente pós-cirurgia bariátrica, visto ser parte decorrente do tratamento da obesidade mórbida".
+5. Agravo interno desprovido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por GEAP AUTOGESTAO EM SAUDE contra decisão que conheceu do agravo para conhecer em parte do recurso especial e dar-lhe parcial provimento.
+Ação: de obrigação de fazer c/c danos morais ajuizada por VALNEIA DAYSE SANTANA GABRIEL em face de GEAP AUTOGESTAO EM SAUDE visando a cobertura de cirurgias plásticas reparadoras após realização de cirurgia bariátrica no tratamento da obesidade.
+Sentença: julgou parcialmente procedente a demanda para condenar a agravante no custeio das cirurgias prescritas e pagar compensação por danos morais no valor de R$ 7.500,00 (sete mil e quinhentos reais).
+Acórdão: deu parcial provimento à apelação interposta pela GEAP AUTOGESTAO EM SAUDE, nos termos da seguinte ementa:
+DIREITO DO CONSUMIDOR. OBRIGAÇÃO DE FAZER. NEGATIVADE COBERTURA PARA REALIZAÇÃO DE PROCEDIMENTO DANO MORAL. PRESUNÇÃO. MÉDICO. TEMA N.º 1069 DO STJ. QUANTUM INDENIZATÓRIO.
+1. Apelação interposta em ação cominativa consistente no pedido de cobertura de procedimento médico negada administrativamente por plano de saúde em que se discute a obrigatoriedade de cobertura e o cabimento de condenação por danos morais.
+2. Os planos de saúde devem garantir aos pacientes conveniados os tratamentos necessários à plena recuperação de sua saúde, sob pena de se macular a própria finalidade do contrato firmado, além da violação do princípio da dignidade da pessoa humana.
+3. O Eg. STJ, em julgamento sob o rito dos recursos repetitivos (Tema n.º1069), firmou entendimento de que em intervenções que não tenham finalidade puramente estética, representando a continuidade do tratamento médico contra a obesidade mórbida iniciado com a cirurgia bariátrica deve ser autorizado, máxime quando relatório médico é conclusivo nesse sentido. A necessidade ou não de instauração de junta médica ou realização de prova pericial deve ser apurada em cada caso.
+4. Caracterizada a ilicitude de negar autorização para procedimento prescrito pelo médico reparador pós-bariátrica, resta configurado o dano moral indenizável , sendo desnecessária a qualificação do sofrimento in re ipsa suportado pelo paciente que se vê diante e indevida recusa de da autorização de e cobertura para realizar procedimento médico necessário indicado por profissional.
+5. Ao arbitrar o valor da condenação por dano moral, devem ser observados os critérios apontados pela jurisprudência a fim de atender a dupla finalidade de reparar o dano e punir o ofensor, sem, contudo, distanciar-se da razoabilidade e da prudência, levando-se em consideração a potencialidade e a repercussão do ato danoso no contexto pessoal e socioeconômico da parte ofendida e a situação financeira de ambas as partes, para não consubstanciar o enriquecimento ilícito do autor, nem estimular a impunidade do réu.
+6. Deu-se parcial provimento ao recurso.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1022 e 355 do CPC, 10 e 12 da Lei 9656/98 e 421, 422, 186, 187 e 927 do CC. Além de negativa de prestação jurisdicional, sustenta a ocorrência de cerceamento de defesa, ante a recusa de produção de prova pericial, a fim de verificar a natureza das cirurgias requeridas, se reparadoras ou estéticas. Defende que as cirurgias não estão incluídas no rol da ANS, de natureza taxativa, não sendo de cobertura obrigatória, a princípio, nos termos do contrato. Insurge-se contra a condenação em danos morais, apontando a ausência de ato ilícito.
+Decisão unipessoal: conheceu do agravo para conhecer em parte do recurso especial, não se verificando a negativa de prestação jurisdicional apontada, incidência da Súmula 7/STJ quanto ao alegado cerceamento de defesa e da Súmula 568/STJ a respeito da obrigatoriedade de cobertura de cirurgia plástica reparadora pós bariátrica, e deu parcial provimento apenas para determinar o reexame da ocorrência dos danos morais a partir da jurisprudência do STJ.
+Agravo interno: o agravante reitera a alegação de ofensa ao art. 1022 do CPC, aduz a inaplicabilidade da Súmula 7/STJ e defende que a jurisprudência do STJ a respeito da obrigatoriedade de cobertura de cirurgia plástica pós bariátrica não se aplica ao caso por não se tratar de cirurgia reparadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PLANO DE SAÚDE. CIRURGIAS PLÁSTICAS REPARADORAS PÓS BARIÁTRICA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SÚMULA 7/STJ. CIRURGIAS PLÁSTICAS DE CARÁTER FUNCIONAL E REPARADOR. NEGATIVA DE CUSTEIO INDEVIDA.
+1. Ação de obrigação de fazer c/ compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A jurisprudência do STJ é no sentido de que o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa. Precedentes.
+4. Consoante Tema 1.069 STJ "É de cobertura obrigatória pelos planos de saúde a cirurgia plástica de caráter reparador ou funcional indicada pelo médico assistente, em paciente pós-cirurgia bariátrica, visto ser parte decorrente do tratamento da obesidade mórbida".
+5. Agravo interno desprovido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Inicialmente, constata-se que o artigo 1.022 do CPC realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, em especial sobre a natureza reparadora, e não estética, do procedimento cirúrgico, para concluir pela obrigatoriedade de cobertura.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt no AREsp 2.164.998/RJ, 3ª Turma, DJe 16/02/2023; AgInt no REsp 1.850.632/MT, 4ª Turma, DJe 08/09/2023; e AgInt no REsp 1.655.141/MT, 1ª Turma, DJe de 06/03/2024.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou das questões apontadas como omissas sob viés diverso daquele pretendido pela parte agravante, fato que não dá ensejo à interposição de embargos de declaração.
+Ao contrário do alegado pelo agravante, não ficou demonstrado o cerceamento de defesa na hipótese dos autos na medida em que, nos termos da jurisprudência do STJ, sendo o juiz o destinatário da prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo indeferimento da prova pericial não acarreta a referida mácula (AgInt no REsp 1.429.272/MA, 4ª Turma, DJe de 20/8/2018; e AgInt no AREsp 1.015.060/RS, 3ª Turma, DJe de 12/5/2017).
+Outrossim, a reapreciação do julgado, a fim de averiguar o alegado cerceamento de defesa em razão do indeferimento da realização de prova, demandaria o reexame de fatos e provas, o que não é permitido ante o óbice da Súmula 7 desta Corte. Nesse sentido: AgInt no AREsp 1634989/PR, 3ª Turma, DJe 28/05/2020; AgInt no AREsp 1632773/SP, 4ª Turma, DJe 05/06/2020.
+E tendo a Corte de origem, soberana na análise do conjunto fático probatório dos autos, concluído pela natureza reparadora da cirurgia plástica, não há como inverter o julgado atacado sem reexame de provas, medida incabível, nos termos da Súmula 7/STJ.
+Por fim, considerando a natureza reparadora da cirurgia, verifica-se a decisão proferida pelo Tribunal de local encontra-se em consonância com a jurisprudência do STJ no sentido de que é de cobertura obrigatória pelos planos de saúde a cirurgia plástica de caráter reparador ou funcional indicada pelo médico assistente, em paciente pós-cirurgia bariátrica, visto ser parte decorrente do tratamento da obesidade mórbida (Tema 1.069 STJ).
+Deve ser mantida, portanto, a incidência do óbice da Súmula 568/STJ.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
