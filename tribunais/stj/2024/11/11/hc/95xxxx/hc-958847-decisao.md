@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de PABLO HENRIQUE BARROS GOMES, apontando como autoridade coatora o "TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em razão do julgamento da apelação criminal n. 1518054-24.2023.8.26.0554.
+Consta dos autos que o paciente foi condenado pelo Juízo da 1ª Vara Criminal da Comarca de Santo André pela prática do crime previsto no artigo 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal, à pena de 08 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, além do pagamento de 21 dias-multa (fls. 15-24).
+A defesa interpôs apelação criminal ao Tribunal de Justiça do Estado de São Paulo, que negou provimento ao recurso, mantendo a condenação (fls. 35-44).
+No presente habeas corpus, busca-se a concessão da ordem para revisar os critérios empregados na dosimetria da pena.
+É o relatório. DECIDO.
+A controvérsia centra-se em possível flagrante ilegalidade, decorrente da alegada não aplicação da atenuante da confissão espontânea e do não reconhecimento da menoridade relativa do paciente.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Quanto às atenuantes da menoridade relativa e da confissão espontânea, ao contrário do alegado pelos impetrantes, estas foram devidamente reconhecidas pelas instâncias originárias.
+Contudo, na dosimetria da pena, observa-se que a pena-base do delito de roubo foi fixada no mínimo legal na primeira etapa. Assim, na segunda etapa, embora reconhecidas as referidas atenuantes, a pena intermediária não sofreu redução, uma vez que não é possível fixá-la abaixo do mínimo legal, conforme entendimento consolidado na jurisprudência.
+É o que dispõe a Súmula 231 do Superior Tribunal de Justiça:
+"A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal." Terceira Seção, em 22.09.1999, DJ 15.10.1999, p.76.
+Por outro lado, embora não arguido pelos impetrantes, constato, de plano, a existência de ilegalidade flagrante, o que autoriza a concessão da ordem nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Isso porque, na terceira etapa da dosimetria da pena, o Tribunal de Apelação manteve a aplicação sucessiva das causas de aumento referentes ao concurso de agentes e ao emprego de arma de fogo, fundamentando-se unicamente na pluralidade dessas causas, sem apresentar justificativa concreta para a aplicação cumulativa.
+De acordo com o enunciado da Súmula 443 do Superior Tribunal de Justiça, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Com efeito, passo ao redimensionamento da pena.
+1ª Fase: Mantenho os parâmetros fixados pela instância originária, que estabeleceu a pena-base em 4 (quatro) anos de reclusão e 10 (dez) dias-multa.
+2ª Fase: Mantenho os parâmetros da instância originária, que reconheceu a presença das atenuantes da confissão espontânea e da menoridade relativa, mantendo a pena intermediária inalterada, em observância ao entendimento consolidado na Súmula 231 do Superior Tribunal de Justiça.
+3ª Fase: Aplico a causa de aumento de pena prevista no artigo 157, § 2º-A, I, do Código Penal e excluo a causa de aumento prevista no artigo 157, § 2º, II, do Código Penal, em conformidade com o disposto no artigo 68 do Código Penal, fixando a pena definitiva em 6 (seis) anos e 8 (oito) meses de reclusão, além de 16 (dezesseis) dias-multa.
+Estabeleço o regime inicial semiaberto, em atenção ao disposto no artigo 33, § 2º, "b", do Código Penal.
+Uma vez constatado que a matéria trazida no presente writ é objeto de jurisprudência consolidada no Superior Tribunal de Justiça, não há nenhum óbice à concessão da ordem liminarmente.
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC 324.401/SP, Relator Ministro GURGEL DE FARIA, 5ª Turma, DJ-e 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+Ante o exposto, não conheço do habeas corpus. Concedo parcialmente a ordem, de ofício, em favor de PABLO HENRIQUE BARROS GOMES para redimensionar sua pena para 6 (seis) anos e 8 (oito) meses de reclusão, e 16 (dezesseis) dias-multa, mantidos os demais termos da condenação.
+Comunique-se à autoridade coatora e ao juízo de primeiro grau.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
