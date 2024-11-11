@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INVENTÁRIO. INCIDENTE DE HABILITAÇÃO DE CRÉDITO NO INVENTÁRIO. HONORÁRIOS. NÃO CABIMENTO. PRECEDENTE. AGRAVO INTERNO DESPROVIDO.
+1. A Terceira Turma desta Corte Superior, em recente julgado, firmou entendimento no sentido de serem incabíveis honorários de advogado em incidente de habilitação de crédito em inventário que é extinto por objeção de alguma parte interessada, porquanto não resolvido nenhum litígio pelo juiz, o que somente ocorrerá nos autos da respectiva ação ordinária a ser proposta pelo credor.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CUPERTINO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA contra decisão desta relatoria que deu provimento ao recurso especial do Banco do Brasil S.A., nos termos da seguinte ementa (e-STJ, fl. 623):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INVENTÁRIO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. INCIDENTE DE HABILITAÇÃO DE CRÉDITO NO INVENTÁRIO. HONORÁRIOS. NÃO CABIMENTO. PRECEDENTE. 3. AGRAVO CONHECIDO PARA CONHECER E DAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 631-645), a parte insurgente sustenta que o precedente mencionado na decisão traz questão diversa da julgada no presente recurso, uma vez que, na espécie, é inequívoca a existência de litígio, através de defesas e diversos recursos
+Defende a inaplicabilidade da Súmula 83/STJ ao caso ao argumento de que há decisões desta relatoria no sentido de cabimento dos honorários quando existente litigiosidade no procedimento de habilitação de crédito em inventário.
+Impugnação apresentada às fls. 651-652 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INVENTÁRIO. INCIDENTE DE HABILITAÇÃO DE CRÉDITO NO INVENTÁRIO. HONORÁRIOS. NÃO CABIMENTO. PRECEDENTE. AGRAVO INTERNO DESPROVIDO.
+1. A Terceira Turma desta Corte Superior, em recente julgado, firmou entendimento no sentido de serem incabíveis honorários de advogado em incidente de habilitação de crédito em inventário que é extinto por objeção de alguma parte interessada, porquanto não resolvido nenhum litígio pelo juiz, o que somente ocorrerá nos autos da respectiva ação ordinária a ser proposta pelo credor.
+2. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela parte insurgente não são capazes de modificar as conclusões da deliberação unipessoal.
+Consta dos autos que a Corte estadual manteve a decisão do Juízo a quo que, nos autos da ação de inventário, extinguiu o pedido de habilitação de crédito, manejado pela instituição financeira, por ausência de interesse de agir e a condenou ao pagamento de honorários sucumbenciais em favor do patrono da parte adversa, no patamar de 10% sobre o valor atualizado da causa.
+Quanto ao tema, a Terceira Turma desta Corte Superior, em recente julgado, firmou entendimento no sentido de serem incabíveis honorários de advogado em incidente de habilitação de crédito em inventário que é extinto por objeção de alguma parte interessada, porquanto não resolvido nenhum litígio pelo juiz, o que somente ocorrerá nos autos da respectiva ação ordinária a ser proposta pelo credor.
+A propósito:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. HABILITAÇÃO DE CRÉDITO EM INVENTÁRIO. IMPUGNAÇÃO PELAS PARTES INTERESSADAS. CONVERSÃO EM AÇÃO DE COBRANÇA PELO JUIZ. IMPOSSIBILIDADE. ARBITRAMENTO DE HONORÁRIOS. DESCABIMENTO. ANULAÇÃO, DE OFÍCIO, DE ESCRITURA PÚBLICA DE INVENTÁRIO EXTRAJUDICIAL. POSSIBILIDADE. ATO NULO. MATÉRIA DE ORDEM PÚBLICA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. LITIGÂNCIA DE MÁ-FÉ. CARACTERIZAÇÃO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo falar em negativa de prestação jurisdicional.
+2. A existência de impugnação de interessado à habilitação de crédito em inventário, impõe ao juízo do inventário a remessa das partes às vias ordinárias, ainda que sobre o mesmo juízo recaia a competência para o inventário e para as ações ordinárias (tal como ocorre nos juízos de vara única), pois, nos termos do art. 1.018 do CPC/1973 (art. 643 do CPC/2015), constitui ônus do credor não admitido no inventário o ajuizamento da respectiva ação de conhecimento, não competindo ao juiz a conversão do pedido de habilitação na demanda a ser proposta, em substituição às partes.
+3. São incabíveis honorários de advogado em incidente de habilitação de crédito em inventário que seja extinto por objeção de alguma parte interessada, porquanto não resolvido nenhum litígio pelo juiz, não se podendo falar em vencedor e vencido. Somente com a abertura da via ordinária é que será efetiva e definitivamente resolvido o litígio verificado no plano material acerca do direito do credor em face do espólio, oportunidade em que, aí sim, serão fixados os respectivos honorários.
+4. Ao juízo universal do inventário compete a apreciação das questões afetas ao inventário (arts. 984 do CPC/1973 e 612 do CPC/2015), ressalvadas as questões de alta indagação, cabendo-lhe a anulação, de ofício, de escritura pública de inventário extrajudicial celebrada com a intenção de fraudar lei imperativa, mediante abuso de direito (art. 187 do CC), nos termos do art. 168, parágrafo único, do CC, porquanto nulo o negócio jurídico (art. 166, IV, do CC). Assim, revela-se prescindível pedido específico das partes, não havendo que se falar em julgamento extra petita.
+5. Sobressai nítida a litigância de má-fé dos ora recorrentes, a ensejar a condenação ao pagamento de multa e de indenização à parte adversa, nos moldes dos arts. 18 do CPC/1973 e 81 do CPC/2015, tendo em vista a clarividente intenção de se furtarem ao cumprimento da obrigação imputável ao espólio, alterando a verdade dos fatos, diante da omissão intencional, perante o tabelião, do crédito demandado em desfavor do espólio, bem como o tumulto processual causado na ação de inventário e no correlato incidente de habilitação de crédito , a caracterizar procedimento temerário das partes.
+6. Recurso especial parcialmente provido.
+(REsp n. 2.045.640/GO, de minha relatoria, Terceira Turma, julgado em 25/4/2023, DJe de 28/4/2023 - original sem grifo)
+Ademais, não obstante a alegação de que há decisão desta relatoria em sentido contrário, conforme consignado na decisão agravada, o atual entendimento da Terceira Turma, no sentido de não cabime nto de honorários de advogado em incidente de habilitação de crédito em inventário, foi firmado em julgamento do dia 25/4/2023.
+Dessa forma, como o presente agravo interno não suscitou nenhuma tese capaz de modificar o conteúdo do julgado impugnado, deve-se manter inalterada a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
