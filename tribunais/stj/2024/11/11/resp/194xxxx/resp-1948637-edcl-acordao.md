@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/11/2024 a 11/11/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Carlos Roberto Braga do Carmo e outra (fls. 836-842 e-STJ), em face de acórdão proferido em sede de agravo interno, assim ementado:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO ESTADUAL. AFRONTA AO ARTIGO 1.022, II, DO CPC/15. INEXISTÊNCIA. USUCAPIÃO. AÇÃO DISCRIMINATÓRIA JULGADA PROCEDENTE. DOMÍNIO DO ESTADO. POSTERIOR CANCELAMENTO. PREENCHIMENTO DOS REQUISITOS. TERMO INICIAL DA PRESCRIÇÃO AQUISITIVA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+4. Agravo interno a que se nega provimento.
+Em razões de embargos de declaração (fls. 836-842 e-STJ), a parte embargante alega que houve omissão do julgado, pois, "embora tratando-se de matéria complexa, envolvendo uma demanda dúplice (ação e reconvenção), o julgamento da apelação só apreciou parte das razões da apelação, deixando uma parte das razões da apelação sem apreciação e deixando o julgamento quanto a reconvenção quase que integralmente sem apreciação no acórdão de segundo grau" (fls. 836-837 e-STJ).
+Alega que "a citação de quase o inteiro teor do voto, com a fundamentação integral do condutor do acórdão em segundo grau, serve para expor no caso e contexto complexo destes autos, algumas teses, que poderiam ser cruciais para o deferimento do direito em favor do recorrente, deixaram de ser apreciadas" (fl. 840 e-STJ).
+Segundo suas palavras, "dentre as alegadas omissões, que caso apreciadas no segundo grau, poderiam ter modificado o resultado da demanda, está a existência de títulos de boa-fé ("R01 da matrícula 92.564, de dezembro de 2006, o registro é oriundo de negócio jurídico (título) de 09 de novembro de 2001", e-STJ, fl. 797). Matéria fática, mas que após alegada como omissão via embargos declaratórios (no segundo grau), também foi mantida omissa, em violação ao multicitado artigo 1.022, II, do CPC" (fl. 840 e-STJ).
+A parte embargada foi devidamente intimada, mas não apresentou contrarrazões, conforme certidões de fls. 846-848 e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022, do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existente no julgado, o que não se verifica na hipótese.
+Percebe-se que, quanto à matéria alegada como omissa - preenchimento dos requisitos da usucapião e análise da reconvenção -, o acórdão embargado se pronunciou expressamente, inclusive citando trechos do acórdão recorrido, nos seguintes termos:
+"(..) Ademais, não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pelo recorrente, conforme se verificará dos trechos transcritos quando da análise do mérito do recurso, propriamente dito.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados.
+(..)
+Reitero, outrossim, que as alegações referentes à prescrição aquisitiva esbarram no óbice contido na Súmula nº 7 do STJ, que impede a revisão do conjunto fático-probatório dos autos em sede de recurso especial.
+Isso, porque o Tribunal de origem consignou expressamente que os requisitos da usucapião não foram preenchidos, conforme se depreende do seguinte trecho (fls. 650/653 e-STJ):
+"De mais a mais, é de curial sabença que a usucapião constitui modo originário de aquisição da propriedade e de outros direitos reais, exigindo-se, para sua concretização, a posse contínua, sem oposição, durante certo lapso de tempo e com animus domini, requisitos estabelecidos em lei. Nesse cenário, veja-se a lição de Nelson Rosenvald:
+(..)
+Assim, não há dúvida de que a usucapião requer o reconhecimento de elementos fáticos - posse contínua e pacífica durante quinze anos, podendo ser reduzido para dez, com o ânimo de dono - o que deverá ser declarado por sentença, constituindo-se esta em título hábil de domínio para a consequente transcrição imobiliária. Na hipótese, o magistrado sentenciante, ao examinar o conjunto probatório, entendeu que a parte autora não logrou comprovar os requisitos exigidos para o reconhecimento da usucapião extraordinária.
+De fato, analisando as provas carreadas ao processo, observa-se que os requerentes/apelantes não demonstraram, de forma robusta, que exercem sobre o imóvel usucapiendo posse mansa, pacífica, ininterrupta e com animus domini pelo prazo legalmente previsto.
+Volvendo os autos, verifico que, na data de 16/08/1991 o imóvel em litígio foi registrado em nome dos requeridos/reconvintes VANDERLEY DESOUZA e MARIA DO NASCIMENTO. Constato, ainda que, a Ação Discriminatória nº 057/90 foi julgada procedente na data de 04/05/1992, declarando pertencer ao domínio público Estadual à área aproximada de 28.500 ha, situada nos imóveis denominados Canela, Taquaruçu e Taquari, com determinação para cancelar todas as transcrições e registros existentes na referida área, ressalvando da determinação de cancelamento as matrículas em que o Estado do Tocantins tinha transferido a propriedade por título definitivo de domínio, que é o caso dos autos. (..)" (fls. 817-818 e-STJ).
+Além de ter expressamente fundamentado pelo afastamento de seus argumentos em sede de reconvenção, nos seguintes termos:
+"(..) Conforme se depreende da leitura do acórdão estadual, o imóvel em debate foi objeto de extensa controvérsia desde o ano de 1992, visto que objeto de ação discriminatória ajuizada pelo Estado do Tocantins, a qual foi julgada procedente e transitou em julgado em 1997.
+Após, o Procurador do Estado, em atitude reputada fraudulenta pelo Ministério Público Estadual, pela Corregedoria-Geral de Justiça do Tribunal de Justiça do Estado de Tocantins e pelo Superior Tribunal de Justiça, determinou a anulação dos títulos imobiliários expedidos pelo Estado, em ofício enviado ao Cartório de Registro de Imóveis em 1999.
+(..)
+Assim posta a questão, conforme se depreende da leitura do agravo interno, o agravante pretende que seja contabilizado na prescrição aquisitiva o prazo em que o imóvel pertenceu ao domínio do Estado do Tocantins ou durante o qual pendeu condição suspensiva, o que vai de encontro às disposições expressas contidas nos artigos 183, §2º, e 191, parágrafo único, da Constituição Federal, que estabelecem que "os imóveis públicos não serão adquiridos por usucapião", e no artigo 1.244 do CC, que prevê que "estende-se ao possuidor o disposto quanto ao devedor acerca das causas que obstam, suspendem ou interrompem a prescrição, as quais também se aplicam à usucapião."
+(..)
+Outrossim, diante de todo o contexto delineado acima, a alegação de abandono nem sequer possui verossimilhança, visto que os proprietários foram vítimas de verdadeira confusão registral perpetrada pelo próprio Estado de Tocantins.
+A propósito, confiram trecho pertinente da sentença (fls. 307//313 e-STJ):
+"Pretendem os AUTORES e reconvindos sentença declaratória de usucapião outorgando o domínio sobre o imóvel usucapiendo descrito por Chácara 131, do Loteamento Chácaras Especiais, Gleba Tiúba, com área de 7.3904 ha, situada no Município de Palmas, sob a Matrícula nº 17.720. Por sua vez, pretendem os RECONVINTES e réus a improcedência dos pedidos formulados pelos autores e a procedência dos pedidos formulados na reconvenção, para o fim de imitir os reconvintes na posse do imóvel descrito por Chácara 131, do Loteamento Chácaras Especiais, Gleba Tiúba, com área de 7.3904ha, situada no Município de Palmas, sob a Matrícula nº 17.720.
+AÇÃO DE USUCAPIÃO A situação de usucapião que melhor se amolda ao caso é a Usucapião Extraordinária prevista no art.1.238 do Código Civil:(..)
+REDUÇÃO DO PRAZO
+Não persistem quaisquer resquícios de dúvidas de que no imóvel os autores NUNCA estabeleceram moradia habitual, conforme se depreende da inicial e da Inspeção Judicial:
+"residentes na quadra 110 SUL Alameda 03 Lotes 44-46, Palmas (TO)" e da Inspeção Judicial - evento 51:"Sem avanço puseram-se a percorrer os limites que circundam o litígio para uma visão "in loco". O ponto de partida foi a entrada da área onde consta um pórtico e plantações de linha de bambuzais. Contornando no sentido sul em 200 metros, mais ou menos. Encontrando aí o 1º marco. Até o marco seguinte na bifurcação. Em canto em divisa com o clube do Detran. Daí no sentido Leste até o próximo marco que divide com terras do Seminário. Há em direção norte uma estrada vicinal que serve a confrontantes e que vai dar na rodovia que liga Palmas a Aparecida do Rio Negro. Saindo na frente ao Cemitério local. A parte de entrada é composta por cerca de arame liso e madeira cerrada com pastagem. Consta pelo autor que nesta área tem caixa de água e bebedouro para animais."
+(..)
+Por todo o exposto, os pedidos formulados na ação de usucapião devem ser rejeitados.
+RECONVENÇÃO.
+Pretendem os reconvintes determinação para que sejam imitidos na posse do imóvel descrito por Chácara 131, do Loteamento Chácaras Especiais, Gleba Tiúba, com área de 7.3904 ha, situada no Município de Palmas, sob a Matrícula nº 17.720. Para tanto, alegam que após o cancelamento de todas as matrículas o Estado do Tocantins loteou novamente a área, criando o loteamento "COQUEIRINHO", que originou os lotes 75 e 76 de propriedade dos Reconvindos, sobrepondo, parcialmente, o lote 131 do "Loteamento Chácaras Especiais-Gleba Tiúba". Essa fraude foi detectada via correição judicial pelo CNJ. (..)" (fls. 819-824 e-STJ).
+Percebe-se, portanto, que a própria reconvenção da parte embargante foi julgada, diferentemente do alegado.
+Assim, nota-se que não há irregularidade alguma sanável por meio dos presentes embargos, porquanto toda a matéria posta à apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material). Portanto, não merece prosperar sua oposição.
+Reitero ainda que a pretensão de rediscutir matéria devidamente abordada e decidida na decisão embargada, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido: EDcl no AgRg nos ERESp 1315507/SP, Relator Ministro Luis Felipe Salomão, Corte Especial, julgado em: 20.8.2014, DJe 28.8.2014.
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
