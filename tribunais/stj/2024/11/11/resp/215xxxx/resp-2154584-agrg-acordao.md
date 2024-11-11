@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. ROUBO MAJORADO. ATENUANTE. PRETENSÃO DE AFASTAMENTO DA SÚMULA 231/STJ. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso especial, o qual buscava a aplicação da atenuante da confissão espontânea para redução da pena abaixo do mínimo legal, em caso de roubo majorado. O Tribunal de origem reconheceu a atenuante, mas não reduziu a pena aquém do mínimo legal, em conformidade com a Súmula 231/STJ.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste na possibilidade de aplicação da atenuante da confissão espontânea para redução da pena abaixo do mínimo legal, em contraposição ao entendimento da Súmula 231/STJ.
+III. RAZÕES DE DECIDIR
+3. O entendimento consolidado do STJ, por meio da Súmula 231, impede a redução da pena abaixo do mínimo legal pela incidência de atenuantes.
+4. A jurisprudência atual do STJ mantém a aplicabilidade da Súmula 231, mesmo com propostas de revisão em andamento.
+5. A reanálise do acervo fático-probatório é necessária para modificar as conclusões da origem, o que não é permitido em sede de recurso especial.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos (e-STJ, fls. 227/228).
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. ROUBO MAJORADO. ATENUANTE. PRETENSÃO DE AFASTAMENTO DA SÚMULA 231/STJ. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso especial, o qual buscava a aplicação da atenuante da confissão espontânea para redução da pena abaixo do mínimo legal, em caso de roubo majorado. O Tribunal de origem reconheceu a atenuante, mas não reduziu a pena aquém do mínimo legal, em conformidade com a Súmula 231/STJ.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste na possibilidade de aplicação da atenuante da confissão espontânea para redução da pena abaixo do mínimo legal, em contraposição ao entendimento da Súmula 231/STJ.
+III. RAZÕES DE DECIDIR
+3. O entendimento consolidado do STJ, por meio da Súmula 231, impede a redução da pena abaixo do mínimo legal pela incidência de atenuantes.
+4. A jurisprudência atual do STJ mantém a aplicabilidade da Súmula 231, mesmo com propostas de revisão em andamento.
+5. A reanálise do acervo fático-probatório é necessária para modificar as conclusões da origem, o que não é permitido em sede de recurso especial.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 227/230):
+Cuida-se de recurso especial interposto por DIEGO ARMANDO OLIVEIRA DO NASCIMENTO, com fundamento no artigo 105, III, a, da Constituição da República, em oposição a acórdão que conheceu parcialmente da apelação da defesa e, nessa parte, deu-lhe parcial provimento, por meio de acórdão assim ementado (e-STJ fl. 179):
+APELAÇÃO CRIMINAL - ROUBO MAJORADO - RECONHECIMENTO E UTILIZAÇÃO DA ATENUANTE DA CONFISSÃO ESPÔNTANEA. JÁ REALIZADO PELO JUÍZO A QUO. NÃO CONHECIMENTO - REDUÇÃO DA MAJORAÇÃO DECORRENTE DO CONCURSO DE PESSOAS. INCABÍVEL - REDUÇÃO DA PENA-BASE. POSSIBILIDADE - RECURSO CONHECIDO EM PARTE E PARCIALMENTE PROVIDO.
+O recurso especial aponta violação do artigo 65, III, d, do Código Penal.
+Sustenta, em síntese, que: a) "revogando-se a Súmula 231 do STJ, é de ser prolatada decisão considerando que o TJPA aplicou interpretação divergente quanto a lei penal e não reduziu a pena base abaixo do mínimo legal" (e-STJ fl. 194); b) "é evidente que a jurisprudência que deu origem a Súmula 231 do STJ, de 02/09/1999, já se encontra superada e defasada por reformas legais e transformações sociais ocorridas ao longo dos anos, e encontra-se incompatível com a Súmula 545, de 19/10/2015, do próprio STJ" (e-STJ fl. 194); e c) "resta evidente que a Súmula 231 do STJ está em completa falta de sintonia com a atual sistemática penal e de acordo com os princípios da segurança jurídica, isonomia e proteção da confiança, a referida Súmula deve ser revogada, tendo como base os REsps 2.057.181, 2.052.085 e 1.869.764" (e-STJ fl. 195).
+Requer, portanto, seja o recurso conhecido e provido para reformar o acórdão recorrido e aplicar a redução relativa à atenuante do art. 65, III, d, do CP.
+Foram apresentadas as contrarrazões (e-STJ fls. 199-204).
+O recurso foi admitido (e-STJ fls. 205-210).
+O Ministério Público Federal manifestou-se pelo não conhecimento ou desprovimento do recurso (e-STJ fls. 217-224).
+É o relatório.
+Decido.
+Cinge-se a controvérsia tão somente sobre a aplicação da atenuante que poderia levar a pena para aquém do mínimo legal, em contraposição ao entendimento da Súmula 231/STJ.
+A pretensão recursal não merece acolhimento.
+O Tribunal de origem, ao manter a não redução da pena pela atenuante, assim fundamentou a controvérsia (e-STJ fl. 183):
+4 - DA NOVA DOSIMETRIA DA PENA Considerando a neutralização de todas as circunstâncias judiciais do artigo 59, do Código Penal, a nova dosagem da pena do apelante é medida que se impõe.
+Passo a ela.
+Na primeira fase, neutros todos os vetores. Assim, fixo a pena-base em 4 (quatro) anos de reclusão, e pagamento de 10 (dez) dias-multa.
+Na segunda fase, presente a atenuante da confissão espontânea.
+Não incidem agravantes. Desse modo, seria cabível a redução de 1/6 (um sexto) da pena basilar paradigma. Porém, essa já se encontra no mínimo da lei, não sendo possível reduzi-la mais ainda, motivo por que a mantenho nesse patamar, conforme Súmula 231 e Tema repetitivo n. 190, ambos do C. STJ, e Tema n. 158, do Excelso STF. (grifamos)
+Quanto à questão, esta Corte tem entendimento consolidado por meio do Tema 190, julgado sob o rito dos recursos repetitivos, e também, especificamente ao caso, na Súmula 231/STJ no sentido de que "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+Ressalto ainda que, "Conquanto a Sexta Turma, em 21/3/2023, tenha aprovado a proposta de revisão da jurisprudência compendiada na Súmula n. 231/STJ, remetendo os autos dos Recursos Especiais 2.057.181/SE, 2.052.085/TO e 1.869.764/MS à Terceira Seção, e realizado audiência pública em 17/5/2023, nos termos do art. 125, § 2º, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, o referido enunciado sumular continua válido e sendo plenamente aplicado por esta Corte" (AgRg no AREsp 2.453.690/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024).
+Nota-se que o Colegiado local manteve o reconhecimento da atenuante, mas não realizou a redução da pena para que não ficasse aquém do mínimo legal, exatamente nos termos da Súmula 231/STJ.
+Com efeito, o acórdão recorrido está em consonância com o entendimento consolidado nesta Corte.
+Nesse sentido:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL CONHECIDO E DESPROVIDO. DOSIMETRIA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 65, I, DO CÓDIGO DE PROCESSO PENAL - CPP. NÃO OCORRÊNCIA. REDUÇÃO DA PENA INTERMEDIÁRIA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. INTELIGÊNCIA DA SÚMULA N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ENUNCIADO SUMULAR VÁLIDO. APLICABILIDADE MANTIDA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese dos autos, o Tribunal Regional Federal da 3ª Região - TRF, apesar de reconhecer a incidência da atenuante da maioridade senil, deixou de aplicá-la porquanto a pena-base restou fixada no mínimo legal e, por consequência, a pena intermediária não poderia ser fixada aquém do mínimo legal, nos termos da Súmula n. 231, do STJ.
+2. Conquanto a Sexta Turma, em 21/3/2023, tenha aprovado a proposta de revisão da jurisprudência compendiada na Súmula n. 231/STJ, remetendo os autos dos Recursos Especiais 2.057.181/SE, 2.052.085/TO e 1.869.764/MS à Terceira Seção, e realizado audiência pública em 17/5/2023, nos termos do art. 125, § 2º, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, o referido enunciado sumular continua válido e sendo plenamente aplicado por esta Corte.
+3. Agravo regimental desprovido.(AgRg no AREsp 2.453.690/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024.) (grifamos) PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA. ATENUANTE DE CONFISSÃO ESPONTÂNEA E DE MENORIDADE RELATIVA. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A incidência de circunstância atenuante não pode conduzir à redução da pena para aquém do mínimo legal, conforme dispõe a Súmula n. 231 deste Tribunal Superior.
+2. "Ademais, embora a Defesa sustente o overruling da Súmula n. 231 desta Corte e o julgamento da questão tenha sido afetado à Terceira Seção, fato é que, atualmente, o referido enunciado sumular continua sendo plenamente aplicado por este Sodalício (AgRg no AREsp n. 2.226.158/SC, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023; AgRg no AREsp n. 2.236.332/TO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023; AgRg no HC n. 806.302/RJ, relator Ministro MESSOD AZULAY NETO, Quinta Turma, julgado em 19/6/2023, DJe de 22/6/2023 ; AgRg no HC n. 794.315/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 15/5/2023, DJe de 18/5/2023; AgRg no AREsp n. 2.243.342/PA, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023; AgRg nos EDcl no REsp n. 2.035.019/MG, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 25/4/2023, DJe de 5/ 5/2023; AgRg no AREsp n. 2.223.080/PA, Relator Ministro JESUÍNO RISSATO, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 25/4/2023, DJe de 2/5/2023, v.g.) (AgRg no HC n. 828.216/GO, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023)" (AgRg no AgRg no AREsp n. 2.533.970/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/4/2024, DJe de 16/4/2024).
+3. Agravo regimental desprovido.(AgRg no AgRg nos EDcl no AREsp 2.573.727/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2024, DJe de 17/5/2024.) (grifamos)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DESCAMINHO. ART 334, CAPUT, DO CP. INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. HABITUALIDADE DELITIVA. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. TEMA REPETITIVO N. 1218/STJ. DOSIMETRIA. SEGUNDA FASE. ATENUANTE DA CONFISSÃO. REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA 231/STJ. PRECEDENTES. APLICABILIDADE MANTIDA.
+1. No caso, o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte, no sentido de que a reiteração delitiva afasta a aplicação do princípio da insignificância nos crimes de descaminho.
+2. A jurisprudência desta Corte Superior possui entendimento no sentido de não ser possível a redução da reprimenda, na segunda fase da dosimetria, em patamar inferior ao mínimo previsto legalmente (Súmula 231 deste Sodalício), sendo imperioso ressaltar que, muito embora a Sexta Turma tenha aprovado a proposta de revisão da jurisprudência compendiada na referida súmula, a Terceira Seção decidiu não determinar a suspensão do trâmite dos processos pendentes. Precedentes.
+3. Agravo regimental improvido.(AgRg no AREsp 2.575.333/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/5/2024, DJe de 10/5/2024.) (grifamos)
+Incide, no ponto, a Súmula 568/STJ, segundo a qual o relator poderá dar ou negar provimento ao recurso, monocraticamente, quando houver entendimento dominante desta Corte acerca do tema.
+Ante o exposto, com fundamento no artigo 255, §4º, II, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+Reforço que a decisão monocrática agravada está de acordo com a jurisprudência da 5ª Turma desta Corte. Veja-se:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. FIXAÇÃO DA PENA INTERMEDIÁRIA EM PATAMAR INFERIOR AO PISO LEGAL. IMPOSSIBILIDADE. SÚMULA 231/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme entendimento desta Corte, " n os termos da Súmula 231 do STJ, a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal. Embora a Sexta Turma desta Corte tenha aprovado proposta de revisão desse enunciado, remetendo os autos dos Recursos Especiais n. 2.057.181/SE, 2.052.085/TO e 1.869.764/MS à Terceira Seção, nos termos do art. 125, § 2º, do RISTJ, a incidência do referido verbete permanece inalterado, conforme recentes julgados da Quinta e Sexta Turmas desta Corte.
+Precedentes" (AgRg no HC n. 907.718/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024).
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.670.757/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/8/2024, DJe de 30/8/2024.)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
