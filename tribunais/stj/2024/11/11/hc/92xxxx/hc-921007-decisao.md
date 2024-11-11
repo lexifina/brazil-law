@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de ANDRE NUNES DO NASCIMENTO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Agravo de Execução Penal n. 0009183-30.2022.8.26.0032.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal reconheceu a falta grave cometida pelo sentenciado em 4/4/2016, consistente em subversão da ordem e disciplina da unidade prisional, e determinou a perda de 1/3 do tempo remido e a interrupção do lapso temporal para fim de progressão de regime.
+O Tribunal de origem negou provimento ao agravo em execução penal interposto pelo paciente, nos termos do acórdão que restou assim ementado (fl. 63):
+"EXECUÇÃO PENAL. Falta grave. Subversão da ordem e da disciplina da unidade prisional. Nulidade por ausência da oitiva judicial do sentenciado. Inocorrência. Agravante que teve a oportunidade de prestar declarações acerca do fato, na presença de Defensor. Hipótese, ademais, que não ensejou à regressão de regime prisional. Falta grave comprovada. Alegação de punição coletiva. Desacolhimento. Pleito absolutório rechaçado. Perda de um terço dos dias remidos adequada. Corretamente determinada, ainda, a interrupção do lapso temporal para fim de progressão de regime prisional. Agravo improvido, rejeitada a preliminar."
+No presente writ, a defesa sustenta nulidade processual decorrente da violação dos princípios do devido processo legal, da ampla defesa e do contraditório, tendo em vista que o sentenciado não foi previamente ouvido em Juízo acerca da falta disciplinar que lhe fora imputada, mas tão somente na presença da autoridade penitenciária. Tampouco participou da oitiva das testemunhas.
+Alega que as únicas provas dos autos são os depoimentos dos agentes penitenciários, não tendo sido individualizada a participação do paciente nos atos narrados, nem apresentadas provas concretas de que este agiu com dolo de infringir a norma .
+Aduz, por fim, a desproporcionalidade da punição pela falta grave, tendo em vista, o baixíssimo grau de lesividade e repercussão da suposta conduta ilícita.
+Requer, em liminar, que seja suspensa a decisão que condenou o paciente até o julgamento do presente writ. No mérito, pugna pela concessão da ordem para que seja declarada a nulidade do ato e designada oitiva judicial do paciente e a sua participação na oitiva dos envolvidos e testemunhas. Subsidiariamente, a desconstituição da infração por ausência de provas ou a desclassificação da conduta para falta disciplinar de natureza média.
+Indeferido o pedido de liminar (fls. 72/74) e prestadas as informações (fls. 80/107), o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus (fls. 112/117).
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 9/8/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Primeiramente porque, conforme asseverado pelo Tribunal a quo (fl. 64), o Superior Tribunal de Justiça tem entendimento no sentido de ser prescindível, a realização da audiência de justificação em juízo, para a oitiva do apenado, nos casos em que houve a instauração de PAD no qual tenha sido assegurado o exercício da ampla defesa e do contraditório, como no caso em questão.
+Nesse sentido, cito os seguintes precedentes:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. HOMOLOGAÇÃO APÓS REGULAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. PRÉVIA OITIVA JUDICIAL DO APENADO. PRESCINDIBILIDADE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA FALTA GRAVE. NECESSIDADE DE REVOLVIMENTO PROBATÓRIO. IMPOSSIBLIDADE NA VIA ELEITA. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO DESPROVIDO.
+I - A oitiva judicial do apenado é prescindível para fins de reconhecimento da infração disciplinar, se ele foi previamente ouvido em procedimento administrativo, com observância do devido processo legal.
+II - Rever o entendimento das instâncias de origem para afastar a falta grave imputada ao agravante, bem como desclassificá-la para falta média, demandaria, necessariamente, amplo revolvimento da matéria fático-probatória dos autos, procedimento que, à toda evidência, é incompatível com a estreita via do habeas corpus, consoante entendimento firmado por esta Corte Superior de Justiça.
+III - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada pelos próprios fundamentos.
+Agravo regimental desprovido.
+(AgRg no HC n. 922.651/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 30/9/2024, DJe de 3/10/2024; sem grifos no original.)
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMOLOGAÇÃO DA FALTA GRAVE. AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. INSTAURAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO. DESNECESSIDADE. DEFESA EXERCIDA POR ADVOGADO DA FUNAP. VIOLAÇÃO À AMPLA DEFESA. INEXISTÊNCIA. AUSÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR O ACÓRDÃO IMPUGNADO. AGRAVO IMPROVIDO.
+1. Segundo o entendimento vigente neste Superior Tribunal de Justiça, a modificação de decisão por meio de agravo regimental requer a apresentação de novos fundamentos capazes de alterar o posicionamento anteriormente firmado.
+2. No caso em exame, o agravante insurge-se contra decisão proferida por esta relatoria que, no julgamento monocrático de recurso ordinário em habeas corpus, reconheceu a ausência de constrangimento ilegal passível de ser sanado.
+3. Nos termos da jurisprudência vigente neste Superior Tribunal de Justiça, na homologação da falta grave, inexiste a exigência de prévia oitiva do apenado perante o magistrado, desde que exista a instauração de PAD, no qual tenha sido oportunizada à parte o pleno exercício do contraditório e da ampla defesa. Precedentes.
+4. No caso em análise, o Procedimento Administrativo Disciplinar foi devidamente acompanhado por advogado inscrito na Ordem dos Advogados do Brasil-OAB, integrante dos quadros da FUNAP, o qual, diligentemente, exerceu todos os atos defensivos necessários, apresentando, inclusive, defesa escrita, não havendo, portanto, qualquer violação ao amplo direito de defesa do agravante.
+5. Agravo improvido.
+(AgRg no RHC 93.189/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 1/8/2018; sem grifos no original.)
+Noutro ponto, não tendo sido apontado perante o Tribunal a quo o tema referente à suposta ausência do apenado na oitiva das testemunhas, a sua análise, diretamente por esta Corte, acarreta indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. HOMOLOGAÇÃO DE FALTA GRAVE. NULIDADE. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. AUSÊNCIA DE OITIVA EM JUIZO. INOCORRÊNCIA. PAD REGULAR. AMPLA DEFESA EXERCIDA POR MEIO DE ADVOGADO. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, houve processo administrativo regular e foi observada a garantia do contraditório e da ampla defesa, inclusive, por meio de advogado constituído pelo agravante. Precedentes.
+III - A tese de que a oitiva de testemunhas não prescinde da presença do apenado foi invocada em indevida supressão de instância, não podendo, portanto, sequer ser conhecida. Precedentes.
+IV - O PAD foi devidamente fundamentado no fato de que as provas foram suficientes ao reconhecimento da falta imputada, de forma que não há como se afastar, ou mesmo desclassificar, a imputação disciplinar na hipótese.
+Agravo regimental desprovido.
+(AgRg no HC n. 921.089/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2024, DJe de 16/9/2024; sem grifos no original.)
+Por fim, verifica-se que, nos autos do HC n. 828.165/SP, rechaçando o pedido de extensão de decisão que afastou o reconhecimento da prática da infração disciplinar referente a outro apenado, esta Corte reconheceu o cometimento da falta grave pelo ora paciente. Dessarte, considerando que a manutenção da infração decorre de entendimento deste Tribunal Superior, re foge da competência desta Corte a apreciação da matéria.
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DIVERGÊNCIA. DISCUSSÃO SOBRE NULIDADE PROCESSUAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. ACÓRDÃO EMBARGADO. HABEAS CORPUS DE OFÍCIO. OMISSÃO. PEDIDO DO QUAL NÃO SE PODE CONHECER. SUPOSTA ILEGALIDADE ATRIBUÍDA A ÓRGÃO JULGADOR DESTE TRIBUNAL. INCOMPETÊNCIA DO STJ.
+1. Embora a parte tenha pleiteado, no Agravo Regimental nos Embargos de Divergência, a concessão de Habeas Corpus de ofício para que seja anulado o julgamento do Recurso Especial (fls. 1.873-1.874), tal questão não fora apreciada no acórdão embargado. A suposta ilegalidade teria sido cometida pela Sexta Turma do Superior Tribunal de Justiça..
+2. O STJ não possui competência para processar e julgar Habeas Corpus contra atos de seus órgãos julgadores (art. 105, I, "c", da CF/1988), tarefa atribuída pela Constituição ao Supremo Tribunal Federal, nos termos do art. 102, I, "i". No mesmo sentido: EREsp 1.183.134/SP, Rel. Ministro Sidnei Beneti, Corte Especial, DJe 3.2.2014.
+3. Embargos de Declaração acolhidos sem efeito modificativo.
+(EDcl no AgRg nos EREsp 676.044/ES, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe 24/3/2014; sem grifos no original.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO DO PRÓPRIO SUPERIOR TRIBUNAL DE JUSTIÇA  STJ. INCOMPETÊNCIA. AGRAVO DESPROVIDO.
+1. Não se pode conhecer do writ por não ser competência originária desta Corte Superior o julgamento de habeas corpus impetrado contra seus próprios atos, conforme se verifica no rol de competências elencado no art. 105 da Constituição da República. Precedentes (AgRg no HC 482.022/SE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 20/5/2019).
+2. Agravo regimental desprovido.
+(AgRg no HC 578.503/RS, de minha Relatoria, DJe 20/10/2020; sem grifos no original.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
