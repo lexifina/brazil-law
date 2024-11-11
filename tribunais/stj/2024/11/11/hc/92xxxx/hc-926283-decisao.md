@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, impetrado em benefício de MARCIO FERNANDO LEME - condenado como incurso no crime de furto simples (Ação Penal n. 1500256-77.2024.8.26.0566) -, em que se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500256-77.2024.8.26.0566), comporta acolhimento.
+Com efeito, busca a impetração a absolvição do paciente, ao argumento de atipicidade material da conduta, em razão da incidência do princípio da insignificância, tendo em vista que o paciente teria subtraído 02 (dois) frascos de shampoo, 02 (dois) frascos de condicionador de 01 (uma) máscara de hidratação profunda, todos da marca "Seda", bens conjuntamente avaliados em R$ 85,00 - (conforme auto de avaliação de fls. 15). Certamente, o suposto furto simples não causou nenhum prejuízo à vítima, já que os objetos, sem qualquer valor aparente, foram integralmente restituídos à ela (fl. 5).
+É entendimento doutrinário e jurisprudencial que, para a aplicação do princípio da insignificância, mostra-se necessária a presença dos pressupostos objetivos, consistentes em: a) mínima ofensividade da conduta; b) inexistência de periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento; e d) inexpressividade da lesão jurídica provocada.
+O Supremo Tribunal Federal entende que a incidência do postulado deve ocorrer caso a caso (HC n. 123.108/MG, Ministro Roberto Barroso, Pleno, DJe 1º/2/2016).
+A jurisprudência do Superior Tribunal se sedimentou no sentido de afastar a aplicabilidade do postulado quando se tratar de habitualidade criminosa, em especial, em crimes patrimoniais, ressalvando a possibilidade de, no caso concreto, verificar se a medida é socialmente recomendável (EAREsp n. 221.999/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 10/12/2015).
+No caso, não obstante o histórico prisional do paciente, as circunstâncias concretas do caso demonstram ser recomendável a aplicação do princípio da insignificância, uma vez que se trata do furto de gêneros de higiene pessoal, avaliados em R$ 85,00 (oitenta e cinco reais) (menos de 10% do valor vigente do salário mínimo ), que foram prontamente restituídos à vítima - (farmácia "Drogaria Rosário") - (AgRg no HC n. 879.202/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/3/2024).
+Em face do exposto, concedo a ordem impetrada para absolver o paciente nos Autos n. 1500256-77.2024.8.26.0566.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO SIMPLES. PRETENSÃO DE ABSOLVIÇÃO. ATIPICIDADE MATERIAL DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. MÍNIMA OFENSIVIDADE E REDUZIDO GRAU DE REPROVABILIDADE DO COMPORTAMENTO. PRODUTOS DE HIGIENE PESSOAL AVALIADOS EM R$ 85,00 (OITENTA E CINCO REAIS) E RESTITUÍDOS À VÍTIMA. EXCEPCIONALIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
