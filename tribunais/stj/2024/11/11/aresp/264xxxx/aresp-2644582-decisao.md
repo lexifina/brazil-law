@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VIBRA ENERGIA S.A. contra decisão que inadmitiu o recurso especial em razão da inexistência de contrariedade aos arts. 489, II e IV, 141, 492, e 1022, II, todos do Código de Processo Civil e 93, IX, da Constituição Federal.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Mato Grosso, em apelação, nos autos de ação anulatória de negócio jurídico.
+O julgado foi assim ementado (fl. 1.778):
+APELAÇÕES CÍVEIS. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO C/C RESCISÃO CONTRATUAL C/C DANO MORAL. CONTRATO DE PROMESSA DE COMPRA E VENDA MERCANTIL COM LICENÇA DE USO DE MARCA E OUTROS PACTOS. POSTO DE COMBUSTÍVEL. LIVREMENTE PACTUADO. NULIDADE E ABUSIVIDADE DE CLÁUSULAS CONTRATUAIS. NÃO EVIDENCIADAS. DESCUMPRIMENTO DE CLÁUSULA CONTRATUAL. RESCISÃO DO CONTRATO. CULPA EXCLUSIVA DA PARTE AUTORA. SUCUMBÊNCIA RECÍPROCA. SENTENÇA MANTIDA. RECURSO DESPROVIDO. O contrato livremente pactuado entre as partes, não padece de nulidade ou abusividade, estando as partes sujeitas ao risco da atividade e da gestão do negócio. A rescisão do contrato se deu por culpa exclusiva do autor que deixou de efetuar os pagamentos devidos, motivo pelo qual a declaração da rescisão se impunha.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta dissídio jurisprudencial e violação dos arts. 489, II e IV, 141, 492 e 1022, II, todos do Código de Processo Civil e 93, IX, da Constituição Federal .
+Alega que se evidencia, "claramente, a ocorrência de contradição e a falta de fundamentação a r. decisão recorrida, haja vista que tendo sido demonstrado que não existindo razão e direito ao Recorrido quanto aos alegados motivos que consubstanciaram o seu pedido de rescisão de contrato, o julgamento da ação seria pela improcedência, como medida impositiva, e por consequência não haveria que se falar em rescisão do contrato, que ainda estaria em vigência até o término de seu prazo" (fl. 1.851).
+Afirma ausência de fundamentação e ocorrência de omissão e contradição no julgado, violando, expressamente os arts. 489, II e IV, e 1.022, II, do Código de processo Civil.
+Aduz que violação dos arts. 141 e 492 do CPC, uma vez que as provas dos autos não foram suficientes para demonstrar o descumprimento do contrato por parte da requerida.
+E, finalmente, assevera contrariedade ao art. 93, IX, da CF, que "preceitua a imperiosa necessidade de que nos julgamentos proferidos pelos órgãos do Poder Judiciário, em todos os processos judiciais, a obrigatoriedade da exposição das razões de decidir, estabelecendo que as decisões sejam fundamentadas, sob pena de nulidade" (fl. 1.854).
+Transcreve julgados do Tribunal de Justiça do Estado de Minas Gerais e do de Mato Grosso, visando demonstrar divergência jurisprudencial acerca do princípio da congruência que exige a adequada correlação entre o pedido e o provimento judicial.
+Requer o conhecimento e o provimento do recurso.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+Trata-se na origem de ação anulatória de negócio jurídico com rescisão contratual.
+Inicialmente, é de se ressaltar que refoge da competência do STJ a análise de suposta ofensa a artigo da Constituição Federal.
+Afasta-se a alegada ofensa ao art. 489, II e IV, e 1.022, II, do Código de Processo Civil, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+A propósito da suposta omissão acerca da matéria suscitada, confiram-se trechos do acórdão recorrido (fls. 1.759-1.763):
+Apesar das alegações do apelante, da análise dos contratos em questão, não é possível extrair qualquer ilegalidade ou abusividade das cláusulas, que foram livremente pactuadas além de serem claras, tampouco a existência de dolo, coação ou qualquer vício de vontade por ocasião a celebração do contrato.
+Em verdade, o que se extrai dos autos é o apelante descumpriu com as cláusulas contratuais e pretende se eximir de suas responsabilidades, alegando nulidades e práticas abusivas, não existentes, em especial a respeito da quantidade de produtos e valores, todos livremente pactuados entre as partes.
+ ..
+Da sentença acima transcrita, é possível ver que embora o apelante tente imputar abusividade e ilegalidade de cláusulas contratuais, na realidade o que ocorreu foi o descumprimento das cláusulas por parte do apelante de forma exclusiva, uma vez que não quitou as parcelas pactuadas.
+Ressalta-se que o apelante não combate os fundamentos da sentença, em relação a imputação de descumprimento das cláusulas e não quitação das parcelas pactuadas, e que teria gerado a rescisão automática do contrato entre as partes.
+As alegações de que os contratos objeto da ação ofendem o princípio da boa fé, a livre concorrência, não tem pertinência, uma vez que as cláusulas são claras e como já mencionado, foram livremente pactuadas pelas partes.
+Além do que, o argumento de que o valor do combustível praticado pela apelada se mostra acima do mercado, não passam de especulações, ademais, há que se destacar que a atividade é suscetível à variação de preços, inerentes à atividade desenvolvida pelo apelada e de exclusiva responsabilidade do apelante, os riscos da gestão do negócio.
+De outro lado, o apelante não comprou a existência de vícios de consentimento, como coação, dolo, erro ou ignorância, ficando apenas nas meras alegações genéricas, sem apontar de fato qualquer indícios efetivo dos vícios.
+Portanto, não merece reparos a sentença.
+O Tribunal de origem, soberano na análise dos fatos e provas dos autos, concluiu pela que não ocorreu a alegada abusividade das cláusulas contratuais. Entendeu ainda que a rescisão do contrato deu-se exclusivamente pela parte autora, ante o descumprimento de cláusula contratual.
+Desse modo, no tocante à apontada violação do art. 141 e 492 do CPC, para rever as conclusões adotadas na origem e acatar a tese recursal da parte ora agravante, seria imprescindível o reexame do conjunto fático-probatório dos autos, medida vedada em recurso especial, em face do óbice da Súmula n. 7 do STJ.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano conforme prescrições dos arts. 1.029, § 1º, do CPC e 225, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tido por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Ademais, a incidência de óbice sumulares quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no REsp n. 2.054.387/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.
+Portanto, inviável o conhecimento do recurso quanto à divergência jurisprudencial.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10 % sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
