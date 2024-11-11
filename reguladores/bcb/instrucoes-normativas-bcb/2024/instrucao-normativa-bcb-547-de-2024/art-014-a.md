@@ -1,0 +1,1 @@
+Art. 14-A. O pedido de autorização para extinção do comitê de auditoria deve ser instruído, no prazo de até quinze dias do respectivo ato, com o requerimento na forma do modelo Sisorf 8.21.10.10.” (NR)
