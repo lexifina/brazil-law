@@ -1,0 +1,21 @@
+DECISÃO
+
+    1. A defesa de Fernando Rodrigues impetrou habeas corpus, com pedido de medida liminar, em que sustenta a ocorrência de excesso de prazo para julgamento do REsp nº 2.055.811/PR, em trâmite no Superior Tribunal de Justiça, e requer a revogação da prisão preventiva decretada em desfavor do ora paciente.
+
+    2. Tal o contexto, entendo não merecer acolhida a pretensão da parte impetrante.
+
+    No caso em apreço, observo que o recurso foi protocolizado no dia 02/03/2023, tendo sido distribuído em 10/03/2023. No mesmo dia, deu-se vista ao Ministério Público Federal. Após juntada de parecer, o recurso foi concluso para decisão ao Ministro relator.
+
+    Desse modo, não vislumbro a presença de irrazoabilidade evidente na duração do processo apta a autorizar o reconhecimento de constrangimento ilegal decorrente de excesso de prazo para julgamento do REsp nº 2.055.811/PR no Superior Tribunal de Justiça.
+
+    3. Em face do exposto, nego seguimento ao presente habeas corpus (art. 21, §1º, do RISTF).
+
+    4. Intime-se. Publique-se.
+
+Brasília, 11 de novembro de 2024.
+
+Ministro NUNES MARQUES
+
+Relator
+
+Documento assinado digitalmente
