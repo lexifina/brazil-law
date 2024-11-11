@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo regimental interposto por RONALD PINTO DOS SANTOS, contra a decisão de fls. 100-104 (e-STJ), que concedeu a ordem, de ofício, para que o Juízo de Primeiro Grau examine o pedido de trabalho externo.
+O agravante alega que "a defesa apresentou combate ao Acórdão proferido no Tribunal de Justiça do Ceará. Logo, em que pese, o Excelentíssimo Ministro Relator tenha retornado os autos para reanálise do Juízo da 1ª Vara de Execução Penal, por identificar que os fundamentos para indeferimento da decisão se mostraram inidôneos, não se pode contrariar a celeridade processual, retornando os autos para início, quando o relator já identificou a ilegalidade da decisão combatida" (e-STJ, fl. 113).
+Aduz que não cabe reanalise do 1º e 2º grau, mas concessão direta por esta Corte.
+Requer, ao final, a reconsideração da decisão agravada, sendo concedido o direito ao trabalho externo beneficiado com a prisão domiciliar sob uso de monitoramento eletrônico ou, subsidiariamente, seja concedido a prisão domiciliar do reeducando.
+É o relatório.
+Decido.
+É manifesta a superveniente ausência de interesse de agir que atingiu este recurso, pois, em consoante informações prestadas, após a decisão agravada, o Juízo de Execução proferiu nova decisão indeferindo o pedido de trabalho externo, pelos seguintes fundamentos (e-STJ, fl. 159):
+"gravidade dos delitos cometidos, a vinculação do apenado a uma organização criminosa de alta periculosidade, bem como o seu atual nível de segurança dentro do sistema prisional, indicam que o condenado apresenta risco elevado à ordem pública e à segurança da sociedade. Conceder-lhe o trabalho externo, nas circunstâncias presentes, poderia representar um grave risco, não apenas à integridade do sistema de justiça, mas, sobretudo, à segurança pública como um todo."
+Assim, a prolação de nova decisão, de acordo com a determinação deste habeas corpus, prejudica o exame da arguição de reanálise do pedido, tendo em vista que a referida decisão configura novo título judicial a embasar o indeferimento do direito à concessão do pedido de trabalho externo.
+A propósito, confiram-se os seguintes precedentes:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO SUPERVENIENTE. PERDA DE OBJETO. PRISÃO PREVENTIVA MANTIDA. DESPROVIMENTO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que julgou prejudicado habeas corpus em razão de sentença condenatória superveniente. O agravante foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, pela prática do crime previsto no art. 33, caput, da Lei 11.343/06, com manutenção da prisão preventiva. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se a superveniência de sentença condenatória que mantém a prisão preventiva prejudica a impetração do habeas corpus; (ii) definir se há fundamentos para reconsideração da decisão agravada. III. RAZÕES DE DECIDIR
+3.A superveniência de sentença condenatória prejudica o habeas corpus, pois o novo título judicial, que mantém a prisão preventiva com fundamentação adicional, supera a alegação inicial de ausência de fundamentos para a segregação cautelar.
+4. A jurisprudência consolidada do Superior Tribunal de Justiça determina que os fundamentos acrescidos na sentença condenatória devem ser analisados pelo Tribunal de origem, sob pena de supressão de instância.
+5. A decisão monocrática está de acordo com a jurisprudência da 5ª Turma desta Corte, não havendo razões para sua modificação.
+IV. AGRAVO REGIMENTAL DESPROVIDO"
+(AgRg no HC n. 854.203/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/10/2024, DJe de 23/10/2024.)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE TRANCAMENTO DE AÇÃO PENAL EM RAZÃO DA NULIDADE DAS PROVAS OBTIDAS POR VIOLAÇÃO DE DOMICÍLIO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PREJUDICIALIDADE. FUNDAMENTOS DIVERSOS E COMPLEMENTARES SOBRE O TEMA. NOVO TÍTULO. MATÉRIA DEVE SER SUBMETIDA AO TRIBUNAL DE ORIGEM. SÚMULA N. 648 DO SUPERIOR TRIBUNAL DE JUSTIÇA  STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Aplicável ao caso, por analogia, a Súmula n. 648 desta Corte Superior de Justiça, a qual dispõe que  A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus . Verificou-se que na sentença condenatória foi analisado de forma exauriente o pleito relativo à preliminar de ilicitude na busca domiciliar.
+Dessa forma, não há como negar a perda superveniente do objeto do mandamus, porquanto as razões expendidas pelo Juízo de primeiro grau para indeferir o pedido de nulidade em razão da violação de domicilio não mais subsistem. Fundamentos diversos e complementares foram apresentados pela magistrada sentenciante. Assim, diante do novo contexto fático, evidente a perda do objeto da presente impetração. Os elementos de convicção utilizados pelo Juízo de primeiro grau adotados na sentença condenatória, antes de serem apreciados por esta Corte Superior, devem ser levados à apreciação do Tribunal de origem.
+2. "A superveniência de novo título (sentença condenatória) torna prejudicado o habeas corpus que visa o trancamento da ação penal por ilicitude de provas" (AgRg no HC n. 663.708/SP, Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe 31/8/2021).
+3. Agravo regimental desprovido."
+(AgRg no HC n. 896.988/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+Ante o exposto, julgo prejudicado o agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
