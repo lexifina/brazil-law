@@ -1,0 +1,29 @@
+DECISÃO
+SERVIÇO NACIONAL DE APRENDIZAGEM RURAL SENAR/RN opõe embargos de declaração contra decisão, mediante a qual se determinou o retorno dos autos à origem, a fim de aguardar julgamento do STF submetido à sistemática da repercussão geral.
+O Embargante sustenta equívoco na mencionada decisão.
+Isso porque, mesmo havendo pendência de julgamento da Tese 1255 do STF, a mesma não poderá ser aplicada ao presente caso, vez que o feito já transitou em julgado, é assim que disciplina a jurisprudência desse e. STJ e do c. STF, tudo para assegurar o princípio constitucional do direito adquirido e da coisa julgada, tornando o sistema jurídico seguro.
+Requer sejam sanados os vícios apontados.
+Sem impugnação, consoante certidão à fl. 1.409e.
+É o relatório. Decido.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+Os Embargos de declaração merecem ser parcialmente acolhidos, para fins de esclarecimentos.
+Ao surgir nos autos matéria afetada para ser julgada em recurso repetitivo ou em recurso extraordinário, sob a sistemática da repercussão geral, como é o caso destes autos, esta Corte entende conveniente aguardar o pronunciamento definitivo dos respectivos Tribunais Superior ou Supremo, a fim de as instâncias ordinárias, posteriormente, se debruce sobre a matéria, exercendo juízo de retratação, positivo ou negativo, consoante suas convicções.
+Na decisão embargada, determinou-se a devolução dos autos à origem, para aguardar o julgamento da repercussão geral reconhecida em tema objeto da questão de fundo discutida nestes autos, a fim de que o Colegiado a quo, posteriormente, se pronuncie, em definitivo, sobre tal tema, podendo, a toda evidência, se persistir o interesse, os autos retornarem a esta Corte.
+Nessa linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. TESE REPETITIVA ACOLHIDA NO DECORRER DO JULGADO. CABIMENTO. COMPATIBILIZAÇÃO DA JURISPRUDÊNCIA. REVOGAÇÃO DAS DECISÕES ANTERIORES NO ÂMBITO DO SUPERIOR TRIBUNAL DE JUSTIÇA, SEM ANÁLISE DO MÉRITO NO STJ. DEVOLUÇÃO AO TRIBUNAL DE ORIGEM.
+1. Trata-se de Embargos de Declaração contra acórdão de fls. 2.176 - 2.178, e-STJ. consignou-se à fl. 2.181- e-STJ:"Os autos foram sobrestados (fls. 2.162-2.164, e-STJ) para aguardar a solução da controvérsia 550/STJ, que foi tacitamente recusada, não se consolidando em Tema repetitivo".
+2. Ocorre que a situação foi alterada de cancelada para vinculada ao Tema 1.253/STJ (Pro AfR 311), em 9 de maio de 2024, após o julgamento do Agravo Interno.
+3. Com essas considerações, tendo em vista a afetação ao Tema 1.253/STJ e o dever de manter a jurisprudência do Superior Tribunal de Justiça íntegra, estável e coerente (art. 926, do CPC/2015), impõe-se realizar a compatibilização da jurisprudência formada em repetitivos e precedentes da Primeira Seção.
+4. Faz-se necessário tornar sem efeito as decisões e acórdãos julgados no STJ, considerar prejudicados os Recursos interpostos e determinar o retorno dos autos ao Tribunal de origem para que, naquela instância, seja esgotada a jurisdição e promovido o juízo de adequação diante do que vier a ser decidido no tema 1253/STJ.
+5. Realizada essa providência, que representa o exaurimento da instância ordinária, é que o Recurso Especial deverá ser encaminhado ao Superior Tribunal de Justiça para, se for o caso, serem analisadas as questões jurídicas nele suscitadas que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo. Somente após tal julgamento, a Corte local decidirá, então, se ainda há razão para apreciação do Recurso Especial pelo STJ, o que evitará a cisão no julgamento. Precedentes: EDcl nos EDcl no REsp 1.621.538/SC, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 27/11/2017 EDcl nos EDcl no AgInt no REsp 1.621.535/SC, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 10/04/2018 6. Embargos de Declaração acolhidos.
+(EDcl no AgInt no REsp n. 2.113.305/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/6/2024, DJe de 28/6/2024.)
+Vale ressaltar o caráter de irrecorribilidade da decisão questionada diante da ausência de cunho decisório e de prejuízo a qualquer das partes
+De fato, ""o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória e não acarreta prejuízo às partes, por isso, se trata de provimento irrecorrível"" (AgInt no REsp 1.615.887/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 7/2/2019, DJe de 12/2/2019)". (RCD no AREsp n. 2.258.637/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 19/8/2024, DJe de 23/8/2024.)
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. TEMA AFETADO. OBSERVÂNCIA DA SISTEMÁTICA DOS RECURSOS SUBMETIDOS À REPERCUSSÃO GERAL.
+1. Não se deve conhecer do recurso de agravo interno impugnando decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos artigos 1.039 e 1.040 do CPC, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível.
+2. Agravo interno não conhecido.
+(AgInt nos EAREsp n. 1.699.180/MS, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/8/2024, DJe de 16/8/2024.)
+Posto isso, acolho parcialmente os embargos de declaração, para fins de esclarecimentos, sem atribuir-lhes, contudo, efeitos infringentes, nos termos expostos.
+Publique-se. Intime-se.
+EMENTA
