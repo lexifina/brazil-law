@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DRY TEC DECORAÇÃO E CONSTRUÇÃO LTDA. contra a decisão que inadmitiu o recurso especial com fundamento na ausência de contrariedade do art. 489, § 1º, IV e VI, do CPC e na Súmula n. 83 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais em agravo de instrumento nos autos de ação cominatória.
+O julgado foi assim ementado (fl. 350):
+AGRAVO DE INSTRUMENTO - AÇÃO COMINATÓRIA - OBRIGAÇÃO DE FAZER - CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO - NULIDADE DA CITAÇÃO - VERIFICAÇÃO - DESCONSTITUIÇÃO DOS ATOS PROCESSUAIS PRATICADOS DESDE A CITAÇÃO - MEDIDA IMPOSITIVA. A regular citação constitui pressuposto de validade da relação processual, a teor do que preceituam os arts. 238 e 239, do novel diploma instrumental civil. A inobservância de tal preceito importa em vulneração aos princípios constitucionais da ampla defesa e do contraditório, tornando impositiva a declaração de nulidade do processo.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 489, § 1º, IV e VI, e 248, § 2º, do Código Processual Civil, uma vez que o Tribunal a quo deixou de se manifestar sobre assuntos essenciais para a resolução da controvérsia. Sustenta que o acórdão deveria ter aplicado a teoria da aparência, o que não ocorreu na espécie, nestes termos (fl. 391):
+Portanto, o acórdão proferido no agravo de instrumento diverge da jurisprudência sedimentada nesta Corte: com base na teoria da aparência, considera válida a citação realizada na pessoa de quem se identifica como representante da empresa e recebe o ato sem ressalvas. Precedentes. (AgInt no AgInt no AR Esp 2117903 SP 2022/0126314-0 Decisão:09/11/2022 D Je DATA:18/11/2022 / AgInt no AREsp 2030945 SP 2021/0374631-5 Decisão:06/06/2022 D Je DATA:08/06/2022).
+Requer o provimento do recurso.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Afasta-se a alegada ofensa ao art. 489, § 1º, IV e VI, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+A propósito da suposta omissão acerca da matéria suscitada, confiram-se trechos do acórdão recorrido (fls. 130-131):
+In casu, consoante acima enfatizado, frustradas as tentativas de citação da construtora agravante nos endereços de sua sede e do seu representante legal, procedeu-se à citação em endereço indicado pela agravada, extraído de qualificação por aquela levada a efeito em autos de processo diverso.
+Alega a ora agravante, contudo, que a indicação de tal endereço resultou de um mero equívoco de sua parte, ao informar, erroneamente e em processo diverso, logradouro distinto do seu.
+De fato, inexiste prova alguma nos autos, no sentido de que a agravante mantém sede ou sucursal no endereço onde fora cumprido o ato citatório, localizado na comarca desta capital.
+Ao contrário, conforme se depreende do comprovante de inscrição e de situação cadastral, bem como das respectivas alterações contratuais, sempre se encontrou sediada na cidade de Montes Claros (eventos nº de ordem 97/106).
+Tal circunstância é corroborada pelo fato de que o seus sócios/representantes legais, igualmente, residem nessa urbe, pelo que não se afigura crível supor que transfeririam a sua sede para município diverso, mormente distante quase 500 km (quinhentos quilômetros) dos seus domicílios. Demais disso, a agravante colacionou aos autos ata notarial lavrada pelo Cartório do 2º Tabelionato de Notas da Comarca de Montes Claros, versando a respeito de certificação de página da internet, na qual restou certificado pelo escrevente a existência de e-mails, por meio dos quais a pessoa que assinou a carta citatória impugnada desconhece a sociedade empresária recorrente, tendo assinado inadvertidamente o AR, por tê-lo recebido "no bolo de documentos" (evento nº de ordem 112).
+Vê-se, assim, que a instância de origem emitiu, claramente, juízo decisório sobre as questões imprescindíveis ao desfecho do caso concreto.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ademais, o Tribunal de origem reconheceu a nulidade da citação, desconstituindo os atos processuais desde esse ato processual, de modo que, para rever a conclusão adotada na origem e, por conseguinte, acolher as teses defendidas pela parte ora recorrente, seria imprescindível o reexame de matéria fático-probatória dos autos, o que é vedado em recurso especial, em face da Súmula n. 7 do STJ.
+Por fim, quanto à pretensão recursal amparada no art. 105, III, c , da CF, registre-se que a tese arguida com base na alínea a do permissivo constitucional foi afastada pela aplicação da Súmula n. 7 do STJ, o que implica a inviabilidade do recurso fundado na divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, nego provimento ao agravo em recurso especial
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
