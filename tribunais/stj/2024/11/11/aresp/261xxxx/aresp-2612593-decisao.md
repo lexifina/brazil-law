@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por UNIMED NATAL SOCIEDADE COOPERATIVA DE TRABALHO MEDICO, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de obrigação de fazer com pedido de tutela de urgência c/c compensação por danos morais, ajuizada por MARISTELA GOMES TEIXEIRA, em face da agravante, em razão de alegada negativa indevida de cobertura de procedimentos cirúrgicos prescritos em favor da demandante ("osteotomia crânio maxilares complexas", "osteotomia segmentar da maxila", "osteotomia Le Fort I", "osteoplastia para micrognatismo" e "osteoplastia de mandíbula"), incluindo-se o internamento, anestesia, todos os materiais necessários e demais elementos que forem utilizados durante as intervenções cirúrgicas, a serem realizados em hospital da demandada, de acordo com a "Laudo Cirúrgico" exarado pelo Dr. Bruno de Macedo.
+Acórdão recorrido: deu parcial provimento à apelação interposta pela agravada, para:
+i) obrigar a operadora de saúde agravante a custear o procedimento cirúrgico solicitado pela agravada/consumidora, nos moldes prescritos pelo laudo elaborado pelo cirurgião-dentista; e
+ii) condenar a agravante ao pagamento de compensação por danos morais, no importe de R$ 5.000,00 (cinco mil reais).
+Nesse sentir, é a ementa do julgado:
+Consumidor, Civil e Processual Civil. Ação ordinária de obrigação de fazer. Sentença de improcedência. Inconformismo da parte autora. Necessidade de procedimento cirúrgico buco-maxilo-facial. Negativa da operadora de saúde. Existência de laudo médico demonstrando a necessidade da intervenção cirúrgica. Obrigação do plano de saúde de efetuar o procedimento solicitado. Dano moral configurado. Recurso conhecido e provido parcialmente. (e-STJ, fl. 536)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão de admissibilidade do TJ/RN: inadmitiu o recurso especial, em razão da:
+i) consonância entre o acórdão prolatado pela Corte de origem com a jurisprudência do STJ (Súmula 83/STJ);
+ii) incidência da Súmula 7/STJ (art. 188, I, do CC/02); e
+iii) prejudicialidade da análise da divergência jurisprudencial, em razão da incidência da Súmula 7/STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que:
+i) "(..) cumpre afirmar que a decisão que inadmitiu o recurso especial não possui qualquer embasamento legal, uma vez que os requisitos contidos no art. 105, III, "c" da CF/88 foi integralmente preenchido (sic). Na verdade, Douto Ministro, a decisão do Tribunal a quo, baseia-se apenas num entendimento errôneo a respeito de como se deve elaborar o cotejo analítico. Quando, na verdade, é de livre construção textual das partes a maneira que desejam abordar os pontos similares contidos nos julgados que utilizam como paradigma." (e-STJ, fl. 628); e
+ii) "(..) o R. Desembargador 1º Vice-presidente do TJRN sequer fundamenta sua decisão, apenas colaciona ao bojo do seu comando judicial 02 (duas) jurisprudências que, conforme acima dito, versam sobre Terapias Especiais para Autistas, o que não é o tema a ser tratado nos presentes autos. Para além disto, não há sequer qualquer fundamentação jurídica, resumindo-se apenas em "copiar e colar" decisões, sem atacar os pontos trazidos pela Parte Recorrente. Ocorre que, ao contrário do posicionamento equivocado do Ilustre Desembargador, temos que o Superior Tribunal de Justiça, em recentes decisões, vem posicionando-se a favor da tese da taxatividade do rol de procedimentos elaborado pela ANS." (e-STJ, fls. 629/630).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: incidência da Súmula 7/STJ (art. 188, I, do CC/02) e prejudicialidade da análise da divergência jurisprudencial, em razão da incidência da Súmula 7/STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, §11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor atualizado da causa (e-STJ, fl. 543) para 15%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
