@@ -1,0 +1,22 @@
+DECISÃO
+O presente writ, impetrado em benefício de ANDRIGO SILVA VITORIANO - condenado pelo crime de tráfico de drogas na Ação Penal n. 0003266-97.2018.8.26.0637 -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Revisão Criminal n. 2272636-43.2023.8.26.0000), comporta acolhimento.
+Com efeito, busca a impetração a nulidade das provas por ilegalidade nas buscas pessoal e domiciliar na Ação Penal n. 0003266-97.2018.8.26.0637, ao argumento de que a busca pessoal foi feita com base em informações policiais apócrifas, de fontes anônimas, sem uma fundada suspeita e que, pela apreensão de apenas 1,04 g de cocaína, os policiais decidiram fazer uma busca na residência do paciente (fls. 3/18).
+Embora se trate de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, verifica-se a ocorrência de ilegal constrangimento.
+Segundo consta dos autos, a busca pessoal do paciente se encontra amparada unicamente em denúncia genérica da prática do crime em determinado local, que, ao ser diligenciado pelos policiais, culminou com a busca pessoal do réu, sem campana prévia, visualização da mercancia, tampouco nervosismo ou fuga que demonstrasse a fundada suspeita da prática do crime (fl. 47).
+Não bastasse a ilegalidade da busca pessoal, os policiais, de posse de 1,17 g de cocaína, diligenciaram até a residência do paciente, que não ficava próxima ao local em que ele foi abordado, para pescar mais elementos da prática do crime, sem documentar a autorização do morador (fl. 47).
+Evidente, portanto, a coação ilegal a justificar a anulação da condenação imposta ao paciente.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. RECURSO DO MINISTÉRIO PÚBLICO ESTADUAL. NULIDADE. INVASÃO DE DOMICÍLIO. AUSÊNCIA DE FUNDADAS RAZÕES PARA O INGRESSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Supremo Tribunal Federal, por ocasião do julgamento do RE n. 603.616/RO, submetido à sistemática da repercussão geral, firmou o entendimento de que a "entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados".
+2. O Ministro Rogerio Schietti Cruz, ao discorrer acerca da controvérsia objeto desta irresignação no REsp n. 1.574.681/RS, bem destacou que "a ausência de justificativas e de elementos seguros a legitimar a ação dos agentes públicos, diante da discricionariedade policial na identificação de situações suspeitas relativas à ocorrência de tráfico de drogas, pode fragilizar e tornar írrito o direito à intimidade e à inviolabilidade domiciliar" (Sexta Turma, julgado em 20/4/2017, DJe 30/5/2017).
+3. No caso, há flagrante ilegalidade, porquanto a diligência apoiou-se em denúncias anônimas e na apreensão de 20 comprimidos de Rohynol (medicamento benzodiazepínico), por ocasião da busca pessoal, circunstâncias que não justificam, por si sós, a dispensa de investigações prévias ou do mandado judicial. Assim sendo, o contexto fático narrado não corrobora a conclusão inarredável de que na residência praticava-se o crime de tráfico de drogas.
+4. Conforme já sedimentado na jurisprudência desta Corte Superior, a apreensão de pequena quantidade de droga em posse de indivíduo não justifica a entrada em seu domicílio sem a devida expedição de prévio mandado judicial.
+5. Agravo regimental desprovido.
+(AgRg no AgRg no HC n. 922.253/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/11/2024).
+Ante o exposto, concedo a ordem impetrada para absolver o paciente na Ação Penal n. 0003266-97.2018.8.26.0637, da Vara Criminal da comarca de Tupã/SP.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCAS PESSOAL E DOMICILIAR. DILIGÊNCIA REALIZADA COM BASE EM DENÚNCIA ANÔNIMA GENÉRICA. CAMPANA PRÉVIA, VISUALIZAÇÃO DA COMERCIALIZAÇÃO DE DROGAS OU COMPORTAMENTO SUSPEITO. AUSÊNCIA. APREENSÃO DE POUCO MAIS DE 1 G DE COCAÍNA. REALIZAÇÃO DA BUSCA DOMICILIAR. RECINTO QUE NEM SEQUER FICA PRÓXIMO DO LOCAL EM QUE OCORREU A BUSCA PESSOAL. AUSÊNCIA DE CERTIFICAÇÃO DA AUTORIZAÇÃO DO MORADOR. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida.
