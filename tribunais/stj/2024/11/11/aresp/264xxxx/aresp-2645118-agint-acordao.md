@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/11/2024 a 11/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. EXECUÇÃO. NOTA PROMISSÓRIA. INÉRCIA DO EXEQUENTE NÃO CONFIGURADA. AUSÊNCIA DE PRECLUSÃO. TEORIA DA APARÊNCIA. INAPLICABILIDADE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que não houve inércia do exequente e que o acordo apresentado pelo executado como fundamento da alegação de quitação da dívida não guarda relação com o contrato objeto da lide.
+3. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria a interpretação das cláusulas contratuais e o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+4. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo e negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno, interposto por SIDNEY SOARES DA SILVA, contra decisão da Presidência desta Corte que não conheceu de seu agravo em recurso especial, por ausência de impugnação do fundamento da decisão recorrida, considerando que:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta a dispositivo legal, Súmula 7/STJ, impossibilidade de alegação de divergência com súmula e ausência de similitude fática.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ" (e-STJ, fl. 322)
+O agravante sustenta que apresentou a devida impugnação da decisão que não admitiu o recurso especial.
+Impugnação da parte agravada (fls. 184/191).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. EXECUÇÃO. NOTA PROMISSÓRIA. INÉRCIA DO EXEQUENTE NÃO CONFIGURADA. AUSÊNCIA DE PRECLUSÃO. TEORIA DA APARÊNCIA. INAPLICABILIDADE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que não houve inércia do exequente e que o acordo apresentado pelo executado como fundamento da alegação de quitação da dívida não guarda relação com o contrato objeto da lide.
+3. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria a interpretação das cláusulas contratuais e o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+4. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo e negar provimento ao recurso especial.
+VOTO
+À vista das razões apresentadas no agravo interno, reconsidero a decisão da Presidência desta Corte, tendo em vista a devida impugnação, na petição de agravo, da decisão que não admitiu o recurso especial.
+Passa-se, assim, a novo exame do agravo em recurso especial.
+Trata-se de agravo de SIDNEY SOARES DA SILVA contra decisão que não admitiu recurso especial interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO - Execução - Nota promissória - Decisão que indeferiu o pedido de aplicação da teoria da aparência, restituição dos valores bloqueados e extinção do feito Recurso do executado Alegação de que houve aceite tácito e desinteresse por parte do agravado em relação ao levantamento dos valores bloqueados, requer que seja reconhecido o acordo firmado entre as partes aplicando a teoria da aparência, homologando o acordo e extinguindo o feito por pagamento - Descabimento - O executado não comprovou de forma cabal que o acordo formalizado se refere ao contrato objeto da lide - Exequente que tem realizado o andamento processual sistemático nos autos originais - Ausência de inércia do exequente - Meras alegações do agravante - Decisão mantida Recurso não provido." (e-STJ, fl. 49)
+Embargos de declaração rejeitados.
+Nas razões do recurso especial, o agravante alega violação do art. 183 do Código de Processo Civil, art. 309 do Código Civil e Súmula 240 do STJ, sustentando, em síntese, que: 1) houve preclusão temporal para que a recorrida pleiteasse os valores depositados nos autos, o que se traduz no direito do recorrente em levantar os valores bloqueados; e 2) o pagamento realizado pelo recorrente de pronto e de boa-fé à empresa ATIVOS S/A, de forma extrajudicial, levou à quitação total dos débitos pendentes com o recorrido.
+Contrarrazões ao recurso especial (e-STJ, fls. 117/125).
+Na origem, trata-se de ação de execução de quantia certa contra devedor solvente ajuizada pelo Banco agravado em face do agravante, tendo como objeto "Termo de Renegociação de Operações de Crédito, Confissão e Parcelamento de Dívida e Instituição de Novas Garantias", sendo emitida como garantia nota promissória no valor de R$ 65.233,80.
+Como relatado, o agravante alega que jamais a parte agravada impugnou seus pedidos para o levantamento dos valores bloqueados e que sua inércia gerou a preclusão temporal do direito de pleitear os valores depositados nos autos. Alega, ainda, que o pagamento realizado à empresa ATIVOS S/A, de forma extrajudicial, levou à quitação total dos débitos pendentes com o recorrido.
+Na espécie, o Tribunal estadual assim se manifestou sobre o tema:
+"Ademais, relata o agravante que jamais a parte agravada impugnou seus pedidos para o levantamento dos valores bloqueados, o que é descabido.
+Repisa-se que o juiz singular determinou a manifestação do exequente acerca dos depósitos (fls. 401 dos autos originais), que prontamente se manifestou em 19/08/2022, nos seguintes termos: "No mais, requer extrato atualizado da conta judicial para que seja possível o preenchimento de formulário MLE".
+Sem contar, todos os demais andamentos realizados pelo exequente nos termos supramencionados.
+Assim, não há que se falar em inércia do exequente.
+No mais, alega o agravante que não pode tolerar o andamento automático processual, por inércia do exequente (fls. 06), o que também não ocorreu.
+Perceba-se que o exequente tem se manifestado nos autos de forma sistemática, inclusive a respeito do pedido de extinção.
+Tanto que o exequente pugnou por prazo suplementar para manifestação acerca do pedido de extinção, em 29/09/2022 (fls. 408 dos autos originais), o prazo foi deferido e o autor cientificado, nos termos de fls.
+419 dos autos originais.
+E às fls. 581/583 manifestou-se de forma específica em relação ao tema:
+"Cumpre informar que o contrato objeto da presente ação não fora cedido pela empresa Ativos S.A, não tendo poderes a cessionária para negociar a dívida referente ao contrato em comento. Ademais, com relação aos documentos acostados pelo autor fls. 459 e 461 Carta de Confirmação de Acordo e Notificação de Cessão (fls. 461), nenhum dos contratos refere-se ao da presente ação. Diante do exposto, resta comprovado que o pedido do autor requerendo a extinção do feito não possui respaldo. Assim, requer o prosseguimento do feito com a análise do pedido de fls. 567/569".
+Por todo o exposto, restou configurado que o acordo apresentado pelo executado, ora agravante, não guarda relação com o contrato objeto da lide.
+Logo, não há que se falar, em extinção do feito por pagamento ou aplicação da teoria da aparência, tampouco, levantamento dos valores pelo executado por inércia do exequente." (e-STJ, fls. 54/55)
+Como visto, a Corte de origem concluiu que não houve inércia do recorrido e que o acordo apresentado pelo recorrente, que serve de fundamento à alegação de quitação da dívida, não guarda relação com o contrato objeto da lide.
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria a interpretação das cláusulas contratuais e o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS EXECUTADOS.
+1. É pacífica a jurisprudência desta Corte Superior no sentido de incidir a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado. Todavia, na hipótese, o Tribunal de origem afirmou que não houve desídia ou inércia do exequente, não havendo prescrição no caso em análise. Inafastável, portanto, a incidência da Súmula 83/STJ à hipótese.
+2. Para rediscutir se houve, ou não, desídia da parte exequente seria necessário o revolvimento das provas dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.158.239/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SERVIÇOS ADVOCATÍCIOS. VIOLAÇÃO AO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. INEXISTÊNCIA DE PROVA DE REPASSE DOS VALORES A TÍTULO DE PRECATÓRIOS. CREDOR PUTATIVO NÃO CONFIGURADO. REVISÃO DO JULGADO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. COBRANÇA EM EXCESSO AFASTADA. AUSÊNCIA DE PREVISÃO DE PRETENSÃO DE VALORES PARA PAGAMENTO DA VERBA HONORÁRIA CONTRATUAL. FUNDAMENTO NÃO IMPUGNADO NAS RAZÕES RECURSAIS. SÚMULA 283/STF. ANÁLISE DE CLÁUSULAS CONTRATUAIS E REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DE VITOR DIAS GIRELLI E RAIMUNDO GIRELLI IMPROVIDO.
+1. Os arts. 932, IV, a, do CPC/2015; 34, XVIII, a, e 255, § 4º, I e II, do RISTJ devem ser interpretados conjuntamente com a Súmula 568/STJ, a fim de permitir que o relator decida monocraticamente o recurso, quando amparado em jurisprudência dominante ou súmula de Tribunal Superior, como no caso dos autos.
+2. A apontada violação ao art. 489 do CPC/2015 não ficou configurada, tendo em vista que o acórdão estadual apreciou fundamentadamente a controvérsia dos autos, apenas decidindo de forma contrária à pretensão dos recorrentes. Não há, portanto, omissão, pelo que deve ser rejeitada a alegação de violação ao referido artigo.
+3. Inexiste má valoração da prova, quando o julgador, entendendo substancialmente instruído o feito, motiva a sua decisão na existência de elementos suficientes para formação da sua convicção, conforme o princípio do livre convencimento motivado ou da persuasão racional, tal como ocorreu na hipótese. Incidência, no ponto, da Súmula 83/STJ.
+4. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+5. O acolhimento da pretensão recursal nos termos vertidos não prescindiria de nova análise das cláusulas contratuais e do reexame do conjunto probatório dos autos, o que é vedado pelas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+6. Agravo interno improvido de VITOR DIAS GIRELLI E RAIMUNDO GIRELLI .
+(AgInt no AREsp n. 1.812.607/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/4/2022, DJe de 29/4/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. TEORIA DA APARÊNCIA. INAPLICABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. FALTA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, o Tribunal de origem, a partir do exame dos elementos de prova e da interpretação do contrato firmado pelas partes, concluiu pela ausência dos requisitos para a aplicação da da teoria da aparência. Entender de modo contrário implicaria reexame de matéria fática e interpretação do ajuste celebrado, o que é vedado em recurso especial.
+3. Para análise da admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, é necessário similitude fática entre o acórdão recorrido e o paradigma confrontado, de forma a evidenciar o dissídio jurisprudencial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.171.912/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 22/3/2018, DJe de 2/4/2018.)
+Ante o exposto, reconsiderando a decisão agravada, dou provimento ao agravo interno para conhecer do agravo (AREsp), mas negar provimento ao recurso especial.
+É como voto.
