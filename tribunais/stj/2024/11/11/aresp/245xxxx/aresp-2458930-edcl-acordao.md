@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/11/2024 a 11/11/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ZENIRA DA CUNHA SOARES contra acórdão proferido por esta Quarta Turma, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. ALEGAÇÃO DE PREJUDICIALIDADE EXTERNA. AÇÃO DE USUCAPIÃO EM CURSO. PEDIDO DE SOBRESTAMENTO. REJEIÇÃO. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal a quo, mediante a análise do contexto fático-probatório constante nos autos, asseverou que não estava configurada a hipótese de prejudicialidade externa. Nesse diapasão, a pretensão recursal, com o escopo de reconhecer a referida prejudicialidade, demandaria o revolvimento de provas, situação insindicável no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ.
+2. Agravo interno a que se nega provimento." (fl. 537)
+Nos aclaratórios, aponta que "dito entendimento, entretanto, foi firmado, como dito, sem que fossem enfrentadas as razões fixadas no agravo interno, notadamente a existência de divergência jurisprudencial, bem como precedente desta Corte, no mesmo sentido da pretensão da Embargante esboçada no Recurso Especial (ou omissão, na forma do 489, §1º, IV, do CPC. (..) Dessa forma, plenamente admissível o R Esp por divergência jurisprudencial, bem como por violação ao art. 313, V, "a", visto que preencheu todos os requisitos de admissibilidade. 11. Por todo o exposto, diante do silêncio quanto às questões que vem sendo repetidamente levantadas pela Embargante, fez-se necessária a interposição dos presentes Embargos de Declaração" (fls. 550/551).
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na espécie, a questão de fundo já foi suficientemente apreciada no acórdão embargado, notadamente no que tange à ausência de prejudicialidade externa entre a ação possessória e a de usucapião, em especial no caso sob exame. De fato, divisam-se os seguintes fundamentos extraídos do acórdão recorrido:
+"Conforme consignado na decisão monocrática, a Corte de origem, quanto à questão de fundo, manifestou-se nos seguintes termos:
+"Conforme decisão embargada, há prejudicialidade externa entre este processo e a Ação de Cumprimento de Sentença em Ação de Imissão de Posse nº 0834654-58.2015.8.20.5001, pois, embora possuam partes distintas, discutem a posse referente ao mesmo imóvel, o qual fora vendido para várias pessoas. São demandadas puramente de natureza possessória. Não há prejudicialidade externa entre esta lide e a de usucapião nº 0005695-61.2004.8.20.0001, ajuizada pela empresa CLEC - CARVALHO LOPES EMPREENDIMENTOS E CONSTRUÇÕES LTDA, para fins de suspensão desta até julgamento da de usucapião, eis que o mérito desta é a posse, enquanto naquela é o domínio, a aquisição da propriedade. Dada a independência entre tais direitos, pode o direito de propriedade ser limitado pelo exercício do direito de posse." (fls. 415/416)
+Desta feita, verifica-se que, de fato, a Corte a quo decidiu em consonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que "não há prejudicialidade externa entre ação possessória e de usucapião, porque a primeira funda-se na posse e, a segunda, na propriedade" (AgInt no REsp 1.602.941/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 27/6/2017, DJe de 2/8/2017). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. OMISSÃO. INEXISTÊNCIA. ALEGAÇÃO DE PREJUDICIALIDADE EXTERNA. AÇÃO DE USUCAPIÃO EM CURSO. PEDIDO DE SOBRESTAMENTO. REJEIÇÃO. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou demonstrada a alegada ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela recorrente, adotou fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. Nos termos da jurisprudência desta Corte, "não há prejudicialidade externa entre ação possessória e de usucapião, porque a primeira funda-se na posse e, a segunda, na propriedade" (AgInt no REsp 1.602.941/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 27/6/2017, DJe de 2/8/2017).
+3. Agravo interno improvido.
+(AgInt no AREsp n. 1.508.565/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 20/11/2023, DJe de 23/11/2023)
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSO CIVIL E CIVIL. AÇÃO DE USUCAPIÃO. AÇÃO POSSESSÓRIA ANTERIOR. AUSÊNCIA DE PREJUDICIALIDADE. IDENTIDADE ENTRE TODOS OS ELEMENTOS DA DEMANDA. PRESSUPOSTO AUSENTE. SUSPENSÃO DA AÇÃO POSSESSÓRIA. DEMANDA ANTERIOR À AÇÃO DE USUCAPIÃO. INAPLICABILIDADE DO ART. 11 DA LEI 10257/01. DIVERGÊNCIA JURISPRUDENCIAL. ORIENTAÇÃO ADOTADA EM SINTONIA COM A ATUAL JURISPRUDÊNCIA DO STJ. ENUNCIADO 83/STJ. A APLICAÇÃO DO ÓBICE SUMULAR TEM COMO REFERENTE O ACÓRÃO RECORRIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ possui entendimento de que não há prejudicialidade externa que justifique a suspensão da demanda possessória até que se julgue a ação de usucapião. Precedentes.
+2. O art. 11 da referida lei 10.257/2001 determina que "na pendência da ação de usucapião especial, ficarão sobrestadas quaisquer outras ações, petitórias ou possessórias, que venham a ser propostas relativamente ao imóvel usucapiendo", não se aplicando ao inverso, em que se visa sobrestar ação de usucapião em razão de anterior ação de manutenção de posse.
+3. Considerando que a orientação adotada pelo Tribunal de origem está de acordo com a jurisprudência atual deste STJ; não se conhece do recurso especial pela alínea "c" do permissivo constitucional, ante o óbice do Enunciado 83/STJ.
+4. a aplicação do Enunciado 83/STJ tem como referente o acórdão recorrido, uma vez que ligado ao mérito do que decidido na origem, que estaria em conformidade com a jurisprudência do STJ, e não o acórdão paradigma - formalidade que serve unicamente para comprovar a divergência entre os julgados.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.915.674/RS, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 23/8/2021, DJe de 26/8/2021)
+Deve ser confirmada, portanto, a incidência da Súmula 83/STJ, pois a conclusão do acórdão estadual está em conformidade com o entendimento sedimentado nesta Corte Superior.
+Não se pode olvidar, ainda, que o Tribunal a quo, mediante a análise do contexto fático-probatório constante nos autos, asseverou que não estava configurada a hipótese de prejudicialidade externa. Nesse diapasão, a pretensão recursal, com o escopo de reconhecer a referida prejudicialidade, demandaria a incursão na seara fático-probatória, situação insindicável no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ." (fls. 538/539)
+No caso dos autos, portanto, está nítido o propósito da parte embargante de rediscutir temas que foram devidamente apreciados e fundamentados, o que, contudo, não é cabível na via estreita dos aclaratórios. Isso, porque tal recurso é incompatível com a pretensão de se obter efeitos infringentes. A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. A contradição que autoriza o manejo dos embargos de declaração é a interna, ou seja, aquela verificada sempre que existirem no decisum embargado proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação da outra.
+3. No caso concreto, não se constatam o vício alegado pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1251891/ES, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2021, DJe 15/12/2021)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO NO AGRAVO EM RECURSO ESPECIAL. LEILÃO. EDITAL. VINCULAÇÃO AOS LICITANTES. ASSEMBLEIA DE CREDORES. DISPOSIÇÕES DIVERSAS. EFICÁCIA. AUSÊNCIA. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados, com imposição de multa.
+(EDcl no AgInt no AgInt no AREsp 1701805/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/12/2021, DJe 15/12/2021)
+Assim, o acórdão recorrido não possui vícios, uma vez que indicou, de forma clara e coerente, os fundamentos utilizados como razões de decidir.
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É como voto.
