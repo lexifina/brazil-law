@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/11/2024 a 11/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 E 489 DO CPC. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por C. A. L. contra a decisão de fls. 672-675, que negou provimento ao agravo em recurso especial em razão da ausência de violação dos arts. 1.022 e 489 do CPC.
+Nas razões do agravo interno, o recorrente alega que, ao contrário do que constou na decisão recorrida, afirma que ficou demonstrada a violação dos arts. 1.022 e 489 do CPC de 2015, que ensejam a nulidade do julgado.
+Afirma, em síntese, que permanecem as seguintes omissões:
+a) quanto ao pedido de alteração do termo final do pensionamento;
+b) quanto ao pedido de alteração do termo incidência dos juros de mora na indenização por dano material, na modalidade pensão;
+c) quanto aos fundamentos e argumentos do pedido de redução do quanto fixado a título de indenização por danos morais;
+d) quanto ao pedido de reforma da sentença para alterar o termo de incidência juros moratórios sobre a indenização por dano moral.
+Requer o provimento do agravo interno.
+O recorrido apresentou contrarrazões às fls. 687-691.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 E 489 DO CPC. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+2. Agravo interno desprovido.
+VOTO
+O recurso não merece prosperar, devendo a decisão agravada ser mantida pelos seus próprios fundamentos.
+Ao contrário do que alega a recorrente, não se vislumbra a alegada violação dos arts. 1.022 e 489 do CPC.
+Extrai-se dos autos que o acórdão recorrido deu parcial provimento ao recurso para reformar a sentença para fixar que a pensão mensal devida seja de 2/3 sobre o valor do salário-mínimo nacional vigente à data da sentença prolatada, sendo resguardada a incidência de posteriores reajustes do salário mínimo.
+Verifica-se também que, quanto aos danos morais, assim consta do acórdão recorrido (fls. 576-577):
+ ..  Quanto aos juros de mora, tem-se que a causa de pedir decorre de ato ilícito extracontratual, gerador de responsabilidade civil e indenização por lucros cessantes na forma de pensionamento mensal. E, assim sendo, os juros de mora devem incidir desde a data do evento danoso, conforme enunciado expresso da Súmula nº 54, do C. Superior Tribunal de Justiça:
+"Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual." (SÚMULA 54, CORTE ESPECIAL, j. 24. SET.1992, DJ 01. OUT.1992, p. 16801).
+No mais, não se pode diminuir o valor da indenização por danos morais fixado na r. sentença prolatada.
+E, na fixação do "quantum" da indenização por danos morais, diz o "caput" do art. 944 do Código Civil: "A indenização mede-se pela extensão do dano", assim, deve o juiz "agir com prudência, atendendo, em cada caso, às suas peculiaridades e à repercussão econômica da indenização, de modo que o valor da mesma não deve ser nem tão grande que se converta em fonte de enriquecimento, nem tão pequeno que se torne inexpressivo" (TJMG, Ap. 87.244, 3ª Cam. J. 09.04.1992, repertório IOB de jurisprudência, n. 3, p. 7679).
+Não obstante, também é certo que devem ser considerados os critérios da razoabilidade e da proporcionalidade para fixação do valor da indenização por danos morais e estéticos, a fim de se atender a sua função reparatória e punitiva, não podendo o dano representar procedimento de enriquecimento para aquele que se pretende indenizar, já que, dessa forma, haveria um desvirtuamento ilícito e inconstitucional do ordenamento jurídico atinente à responsabilidade civil.
+E, na hipótese dos autos, a despeito de serem os Autores beneficiários da Justiça Gratuita, houve grande extensão dos danos morais, com falecimento violento do companheiro e pai dos Autores em acidente de trânsito causado por preposto da Ré. Logo, o valor de R$ 100.000,00 para cada Coautor figura-se adequado, inclusive à luz das funções da indenização por danos morais.
+Quanto às demais teses, o acórdão expressamente destacou que a sentença prolatada seria mantida nos mesmos termos que o decidido pelo juízo de piso.
+Daí se extrai que o acórdão recorrido decidiu sobre os pontos alegadamente omissos, em especial sobre: o pedido de decote do 13º salário da indenização por dano material e o requerimento de alteração do termo final da pensão para 18 anos, ou para 24 anos, caso o menor esteja frequentando curso superior ou profissionalizante.
+Convém, assim, mencionar, trecho da sentença (fls. 479-481, destaquei):
+Não obstante, quanto ao pensionamento mensal em favor do filho e coautor K., incorre a presunção legal de dependência visto que menor, incapaz por força de lei, fazendo jus, portanto, a tal indenização a título de lucro cessantes; neste particular, a propósito, foi requerida a pensão mensal correspondente a "2/3 dos rendimentos da vítima, uma vez que o remanescente de 1/3 dispensaria com as suas despesas pessoais", mostrando-se razoável e em consonância com a jurisprudência do Superior Tribunal de Justiça: "afigura-se razoável e justo fixar a indenização em 2/3 (dois terços) da renda da vítima, deduzindo um terço (1/3) correspondente ao que essa, por presunção, despenderia com seu próprio sustento" (REsp n. 157.912-RJ, 4ª Turma, j. 04-08-1998, rel. Min. Sálvio de Figueiredo Teixeira; assim também: REsp n. 218.046-MG, 1ª Turma, j. 15-06-2000, rel. Min. Humberto Gomes de Barros); no entanto, deve ser prestada até a cessão da menoridade aos 18 anos completos do alimentado, podendo ser estendida a prestação na hipótese de frequência do beneficiário em curso superior devida e documentalmente comprovada, quando o termo final se dará aos 24 anos, se a colação de grau não ocorrer antes, data a prevalecer.
+A fim de assegurar o cumprimento da obrigação, há de se proclamar cumulativamente a condenação à constituição de capital até porque não foi especificamente impugnada na contestação.
+A pensão tem como termo inicial a data do acidente, assim como adotada também como termo inicial à correção monetária. Em relação aos juros de mora se dá a partir do vencimento de cada prestação. Frisa-se que as pensões vencidas deverão ser pagas de uma só vez, observado o direito de recebimento de 13º salário.
+ ..
+Posto isso e o mais que dos autos consta, JULGO PARCIALMENTE PROCEDENTE a ação ajuizada por A. A. O., K. DA S. O., representado, e M. F. B. DE O. em face de C. A. L., para condenar a ré a prestar ao coautor K. da S. O. pensão mensal correspondente a 2/3 dos rendimentos da vítima até a cessão da menoridade, aos 18 anos completos, do alimentado, podendo ser estendida a prestação na hipótese de frequência do beneficiário em curso superior devida e documentalmente comprovada, quando o termo final se dará aos 24 anos, se a colação de grau não ocorrer antes, data a prevalecer. A fim de assegurar o cumprimento da obrigação, há de se proclamar cumulativamente a condenação à constituição de capital. A pensão tem como termo inicial a data do acidente, assim como adotada referida data também como termo inicial à correção monetária. Em relação à incidência dos juros de mora se dará a partir do vencimento de cada prestação. Frisa-se que as pensões vencidas deverão ser pagas de uma só vez. Deverá ser prestada a pensão também a título de 13º salário.
+Ainda, condena-se a ré ao pagamento da quantia de R$ 300.000,00 (trezentos mil reais), sendo R$ 100.000,00 (cem mil reais) para cada um dos autores a título de indenização ao dano moral; deverá ser corrigida desde a data do arbitramento com incidência dos juros moratórios desde o evento danoso. Reciprocamente vencidas, as partes ratearão as custas processuais; arcarão com a honorária do advogado da parte contrária que ora se arbitra em 10% (dez por cento) sobre o valor da condenação, observado o disposto no artigo 85, parágrafo 9º, do Código de Processo Civil e respeitada, em relação aos autores, a suspensão de cobrança imposta por lei face a gratuidade que lhes foi concedida.
+Desse modo, verifica-se que a parte ora recorrente se encontra inconformada com a decisão proferida e pretende rediscutir a matéria para que haja novo julgamento, o que não é possível, ordinariamente, na via dos embargos de declaração, não sendo, por conseguinte, visualizar, no caso, violação dos arts. 489 e 1.022 do CPC.
+De toda sorte, o acórdão recorrido se ateve aos pontos relevantes e necessários ao deslinde do litígio e adotando fundamentos que se mostrem cabíveis à prolação do julgado, ainda que fazendo referência ao que foi decidido em sede de sentença.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
