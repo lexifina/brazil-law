@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por GILSON JOSE PARANHOS DE PAULA E SILVA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/6/2024.
+Concluso ao Gabinete em: 30/8/2024.
+Ação: declaratória de resolução de contrato cumulada com cobrança, ajuizada pelo agravante em desfavor de CCN PRESTADORA DE SERVICOS DE COBRANCA E CADASTRO LTDA, em virtude de inadimplemento de instrumento de mútuo financeiro firmado entre as partes.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta pelo agravante e deu provimento ao recurso adesivo da parte agravada, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL E RECURSO ADESIVO. PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO PRINCIPAL. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. RECURSO QUE ATACADA OS FUNDAMENTOS ESSENCIAIS DA SENTENÇA. PRELIMINAR REJEITADA. PRELIMINAR DE CERCEAMENTO DE DEFESA. JUNTADA DE DOCUMENTOS INÉDITOS PELO MAGISTRADO DE ORIGEM. PROVA ALHEIA AOS FUNDAMENTOS PRINCIPAIS. PREJUÍZO NÃO VERIFACADO. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NÃO CONFIGURAÇÃO. MATÉRIA DE ORDEM PÚBLICA VENTILADA EM CONTESTAÇÃO. MÉRITO. APELAÇÃO PRINCIPAL. CONTRATO DE MÚTUO. PEDIDO DE DEVOLUÇÃO DE VALORES. AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO. ÔNUS PROCESSUAL DO AUTOR (ART. 373, I, CPC). APELAÇÃO ADESIVA. HONORÁRIOS SUCUMBENCIAIS. ARBITRAMENTO POR EQUIDADE. NÃO CABIMENTO. PROVEITO ECONÔMICO CERTO. FIXAÇÃO NOS TERMOS DO ART. 85, § 2º , CPC. TEMA 1.076 DO STJ. APELAÇÃO DO AUTOR CONHECIDA E DESPROVIDA. RECURSO ADESIVO DO RÉU CONHECIDO E PROVIDO.
+1. Para se caracterizar violação ao princípio da dialeticidade, é necessário que o recurso deixe de impugnar a ratio decidendi adotada pelo juízo de origem. Não há falar em violação ao princípio da dialeticidade, quando o recorrente impugna os fundamentos essenciais do ato decisório, mas, por outro lado, deixa de abarcar, em suas razões, argumentos periféricos levantados pelo magistrado. Preliminar de não conhecimento do recurso rejeitada.
+2. Não se verifica cerceamento de defesa, quando o magistrado de origem utiliza-se de documentos inéditos, extraídos de outros processos, para alicerçar tese utilizada como mero reforço argumentativo, sem acarretar efetivo prejuízo à parte. Preliminar de nulidade da sentença rejeitada.
+3. Não há falar em julgamento extra petita quando o julgador, na sentença, discorre sobre possível nulidade do contrato de mútuo, mormente quando aventada, em contestação, a abusividade dos juros contratados. Ademais, a nulidade do contrato com estipulações usurárias é matéria de ordem pública, devendo ser conhecida de ofício pelo julgador, com fundamento no art. 1º c. c art. 11, ambos da Lei de Usura (Decreto-lei 22.626, de 7 de abril de 1993). Preliminar de nulidade da sentença rejeitada.
+4. Nos termos do art. 373, I, CPC, incumbe ao autor comprovar o fato constitutivo do seu direito. Com efeito, ao pleitear a devolução de valores disponibilizados em contrato de mútuo, cabe ao autor/mutuante, em observância ao seu ônus processual, demonstrar, previamente, que efetuou a transferência dos numerários ao réu/mutuário, sem o que não é possível o acolhimento de seu pedido.
+5. O arbitramento dos honorários sucumbenciais por equidade é medida excepcional, destinada às hipóteses em que o proveito econômico obtido for inestimável ou irrisório, ou, ainda, quando o valor da causa for muito baixo (Tema 1.076, STJ). Ainda que elevado, caso o valor da causa ou o proveito econômico seja certo, os honorários sucumbenciais devem ser fixados na forma contida nos §§ 2º e 3º do art. 85, CPC.
+6. Apelação do autor conhecida e desprovida. Recurso adesivo do réu conhecido e provido. Honorários majorados.
+(e-STJ Fls. 334/335)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega, exclusivamente, a violação do art. 1.022 do CPC.
+Sustenta a ocorrência de negativa de prestação jurisdicional, referindo que o " ..  acórdão que de um lado diz não haver provas de que o embargante entregou o capital mutuado ao embargado, e de outro que há a confissão de que o embargado pagou ao embargante as parcelas do contrato de mútuo "remanescendo, em favor da Ré, o valor de R$ 96.000,00 (noventa e seis mil reais)" sendo de lógica a compreensão que se o embargado pagou parcelas do contrato de mútuo, é porque recebeu o respectivo capital mutuado" (e-STJ Fls. 444/445).
+Aduz, assim, que a parte agravada reconheceu a entrega e o recebimento do capital objeto do mútuo firmado entre as partes, havendo a sua confissão.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+Aplica-se, na hipótese, a Súmula 284/STF, uma vez que a parte recorrente alega violação do art. 1.022 do CPC, mas não especifica os incisos que teriam sido contrariados, o que evidencia a deficiência de sua fundamentação.
+Ademais, é importante salientar que a menção genérica ao artigo de lei supostamente violado sugere a interpretação de que a alegada violação se refere apenas ao seu caput, que serve meramente como introdução ao conjunto de normas estabelecidas nos seus incisos, parágrafos e alíneas. No mesmo sentido: AgInt no AgInt no AREsp n. 2.260.168/DF, Terceira Turma, DJe de 6/12/2023 e AgInt no AREsp n. 2.158.801/RJ, Quarta Turma, DJe de 6/11/2023.
+- Do reexame de fatos e provas
+De toda sorte, ainda que assim não fosse, alterar o decidido no acórdão impugnado, notadamente no que se refere à pretensão de reconhecimento da confissão do agravado e da entrega do capital mutuado ante ao contrato em análise, em atenção aos elementos informativos produzidos nos autos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 1%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESOLUÇÃO DE CONTRATO CUMULADA COM COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação declaratória de resolução de contrato cumulada com cobrança.
+2. A ausência de especificação dos incisos do art. 1.022 do CPC que teriam sido contrariados evidencia deficiência de fundamentação e enseja o não conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido.
