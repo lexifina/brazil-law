@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido e conceder "Habeas Corpus" de ofício, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. REINCIDÊNCIA ESPECÍFICA. DOSIMETRIA DA PENA. AGRAVANTE DA REINCIDÊNCIA. AUMENTO DA PENA EM 1/5. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. REDUÇÃO DO PATAMAR PARA 1/6. ORDEM CONCEDIDA DE OFÍCIO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Thomas Paiva Moraes, condenado a 6 anos de reclusão, em regime inicial fechado, e 600 dias-multa, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei 11.343/06). O impetrante alega constrangimento ilegal na fixação da pena, sob o argumento de que a elevação da pena em 1/5 na segunda fase da dosimetria, em razão da reincidência específica, carece de fundamentação idônea.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o habeas corpus pode ser conhecido, considerando sua utilização como substitutivo de recurso próprio; (ii) determinar se a majoração da pena em 1/5 pela reincidência específica foi adequadamente fundamentada, ou se deve ser ajustada para o patamar de 1/6, conforme entendimento jurisprudencial.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal não admite o habeas corpus como substitutivo de recurso próprio, ressalvadas as hipóteses de flagrante ilegalidade, nas quais é possível a concessão da ordem de ofício.
+4. A elevação da pena em 1/5, com base na reincidência específica, exige fundamentação concreta. O entendimento consolidado nesta Corte estabelece que, na ausência de elementos específicos que justifiquem o aumento além do patamar de 1/6, a majoração deve se restringir a esse percentual, aplicando-se a regra mínima das agravantes genéricas.
+5. A fundamentação adotada no acórdão recorrido, ao elevar a pena em 1/5 sem justificativa adequada e concreta, contraria a jurisprudência pacificada no Superior Tribunal de Justiça e no Supremo Tribunal Federal, que entende que a reincidência específica, isoladamente, não autoriza aumento superior a 1/6.
+IV. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO. PENA REDIMENSIONADA PARA 5 ANOS E 10 MESES DE RECLUSÃO, MAIS 583 DIAS-MULTA.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em favor de THOMAS PAIVA MORAES.
+O paciente foi condenado ao cumprimento da pena de 6 anos de reclusão, em regime inicial fechado, mais 600 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei 11.343/06.
+O impetrante alega, no presente habeas corpus, a existência de constrangimento ilegal, consistente na inidoneidade da fundamentação utilizada para aumentar para 1/5 a fração relativa à agravante da reincidência específica.
+Requer a concessão da ordem para que seja diminuída a pena imposta ao paciente, na segunda fase da dosimetria.
+O Ministério Público Federal opinou pela extinção do writ sem resolução do mérito, com a concessão da ordem, de ofício.
+É o relatório.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. REINCIDÊNCIA ESPECÍFICA. DOSIMETRIA DA PENA. AGRAVANTE DA REINCIDÊNCIA. AUMENTO DA PENA EM 1/5. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. REDUÇÃO DO PATAMAR PARA 1/6. ORDEM CONCEDIDA DE OFÍCIO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Thomas Paiva Moraes, condenado a 6 anos de reclusão, em regime inicial fechado, e 600 dias-multa, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei 11.343/06). O impetrante alega constrangimento ilegal na fixação da pena, sob o argumento de que a elevação da pena em 1/5 na segunda fase da dosimetria, em razão da reincidência específica, carece de fundamentação idônea.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o habeas corpus pode ser conhecido, considerando sua utilização como substitutivo de recurso próprio; (ii) determinar se a majoração da pena em 1/5 pela reincidência específica foi adequadamente fundamentada, ou se deve ser ajustada para o patamar de 1/6, conforme entendimento jurisprudencial.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal não admite o habeas corpus como substitutivo de recurso próprio, ressalvadas as hipóteses de flagrante ilegalidade, nas quais é possível a concessão da ordem de ofício.
+4. A elevação da pena em 1/5, com base na reincidência específica, exige fundamentação concreta. O entendimento consolidado nesta Corte estabelece que, na ausência de elementos específicos que justifiquem o aumento além do patamar de 1/6, a majoração deve se restringir a esse percentual, aplicando-se a regra mínima das agravantes genéricas.
+5. A fundamentação adotada no acórdão recorrido, ao elevar a pena em 1/5 sem justificativa adequada e concreta, contraria a jurisprudência pacificada no Superior Tribunal de Justiça e no Supremo Tribunal Federal, que entende que a reincidência específica, isoladamente, não autoriza aumento superior a 1/6.
+IV. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO. PENA REDIMENSIONADA PARA 5 ANOS E 10 MESES DE RECLUSÃO, MAIS 583 DIAS-MULTA.
+VOTO
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício.
+"Diante da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de ser inadmissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de que não se desvirtue a finalidade dessa garantia constitucional, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade" (HC n. 602.425/SC, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 10/3/2021, DJe de 6/4/2021.)
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Inviável, portanto, o conhecimento do writ em análise, porquanto manejado como substitutivo de revisão criminal.
+A pena do paciente foi assim fixada na segunda fase dosimétrica (e-STJ, fls.79-80):
+A pena foi estabelecida no mínimo legal e, na etapa intermediária, exasperada de 1/6, por incidência da agravante da reincidência (autos nº 1522415-97.2020.8.26.0228 - fls. 38/39).
+Nada obstante, assiste razão ao parquet ao pretender a elevação no patamar de 1/5, pois a condenação anterior por idêntica prática delitiva, em data recente, aliás, exige maior rigor, por revelar maior desvalor da conduta, que o réu insiste em reiterar, em obediência aos princípios da proporcionalidade e individualização das penas.
+O entendimento da Corte local não está em linha com a jurisprudência desta Corte de Justiça acerca do tema. Veja-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. DIREITO PENAL. TEMA N. 1172. ART. 61, I, DO CÓDIGO PENAL - CP. AGRAVANTE DA REINCIDÊNCIA. FRAÇÃO PARA SEGUNDA FASE DA DOSIMETRIA. REINCIDENTE ESPECÍFICO. ÚNICO FUNDAMENTO. 1/6. TRATAMENTO IGUALITÁRIO AO REINCIDENTE GENÉRICO. RESSALVA DE JUSTIFICATIVA CONCRETA. RECURSO PARCIALMENTE PROVIDO.
+1. Uma análise evolutiva do ordenamento jurídico nacional mostra que antes do Código Penal de 1940 a configuração da agravante da reincidência tinha como pressuposto o cometimento de crimes de mesma natureza. O CP/1940, em sua redação original, ampliou o conceito da agravante da reincidência ao permitir que o crime anteriormente cometido fosse de natureza diversa do atual, inaugurando a classificação da reincidência em específica e genérica, com ressalva expressa de que pena mais gravosa incidiria ao reincidente específico. Durante esse período histórico, a diferença de tratamento entre reincidência específica e genérica para fins de cominação de pena já era discutível, com posições jurídicas antagônicas.
+2. Nesse contexto, sobreveio a vigência da Lei n. 6.416/1977 que, alterando o CP/1940, aboliu a diferenciação entre reincidência específica e genérica e, por consequência, suprimiu o tratamento diferenciado n o tocant e à dosimetria da pena. Assim, considerando que a redação vigente do Código Penal estatuída pela Lei n. 7.209/84 teve origem na Lei n. 6.416/1977, a interpretação da norma deve ser realizada de forma restritiva, evitando, com isso, restabelecer parcialmente a vigência da lei expressamente revogada. Inclusive, tal interpretação evita incongruência decorrente da afirmativa de que a reincidência específica, por si só, é mais reprovável do que a reincidência genérica.
+3. Ainda para fins de inadmitir distinção de agravamento de pena entre o reincidente genérico e o específico, é importante pesar que o tratamento diferenciado entre os reincidentes pode ser feito em razão da quantidade de crimes anteriores cometidos, ou seja, da multirreincidência.
+4. Fica ressalvada a excepcionalidade da aplicação de fração mais gravosa do que 1/6 mediante fundamentação concreta a respeito da reincidência específica.
+5. Recurso especial parcialmente provido para alterar a fração incidente na segunda fase da dosimetria para 1/6 em razão de única reincidência específica.
+TESE: "A reincidência específica como único fundamento só justifica o agravamento da pena em fração mais gravosa que 1/6 em casos excepcionais e mediante detalhada fundamentação baseada em dados concretos do caso."
+(REsp n. 2.003.716/RS, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 25/10/2023, DJe de 31/10/2023.)
+Assim, a quantidade de aumento de pena em decorrência das agravantes genéricas deve se pautar pelo patamar mínimo fixado para as majorantes, que é de 1/6 (um sexto). A reincidência específica não enseja aumento da pena na segunda fase da dosimetria, de forma isolada, em patamar mais elevado" (AgRg no HC n. 543.365/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Dessa forma, ausente fundamentação idônea a justificar o aumento da agravante em 1/5, concedo a ordem de ofício para readequar em 1/6 o patamar de aumento de pena na segunda fase dosimétrica.
+Ante o exposto, concedo, de ofício, a ordem de habeas corpus para alterar a fração incidente na segunda fase da dosimetria para 1/6, redimensionando a pena definitiva do paciente para 5 anos e 10 meses, mais 583 dias-multa.
+É como voto.
