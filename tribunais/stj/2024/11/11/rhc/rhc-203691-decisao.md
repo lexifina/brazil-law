@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por DANILO BORGES DE OLIVEIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS no julgamento do HC n. 57228891-64.2024.8.09.0051.
+Extrai-se dos autos que o recorrente foi preso em flagrante, custódia convertida em preventiva, e denunciado por ter supostamente praticado os delitos tipificados nos arts. 155, caput, 330, caput, e 331, caput, na forma do art. 69, todos do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. FURTO. DESACATO. DESOBEDIÊNCIA. PRINCÍPIO DA HOMOGENEIDADE. VIOLAÇÃO. NÃO CONHECIMENTO. A alegada ofensa ao princípio da homogeneidade não merece ser conhecida em sede de habeas corpus, notadamente porque tal desproporcionalidade entre a prisão preventiva e o futuro regime prisional demanda exercício de futurologia ou adivinhação, o que se mostra incompatível com a via estreita da presente ação constitucional. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO CONHECIMENTO. O habeas corpus não é a via adequada para apreciação do princípio da insignificância o qual exige-se aprofundamento fático probatório incompatível com o writ. REVOGAÇÃO DA PRISÃO PREVENTIVA. FUNDAMENTAÇAO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA EM CRIMES PATRIMONIAIS. Mostra-se suficientemente fundamentada a decisão que decretou a prisão preventiva, ante a imprescindibilidade para garantia da ordem pública, especialmente quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DÁ PRISÃO. DESACOLHIMENTO. É inviável a substituição da prisão preventiva por medidas cautelares diversas da prisão, previstas no artigo 319 do CPP, quando se revelarem insuficientes. ORDEM PARCIALMENTE CONHECIDA E, NESTA EXTENSÃO, DENEGADA." (fl. 385)
+No presente recurso, a defesa alega ausência dos requisitos previstos no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estaria suficientemente fundamentada, ponderando que a reincidência, por si só, não seria motivação hábil a justificar a segregação.
+Destaca as condições pessoais favoráveis do recorrente, como residência fixa.
+Ressalta a suficiência da aplicação de medidas alternativas ao cárcere.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a fixação de medidas menos gravosas.
+O pedido liminar foi indeferido (fls. 435/436), foram prestadas as informações (fls. 443/451) e o Ministério Público Federal - MPF opinou pela prejudicialidade do recurso (fl. 456).
+É o relatório.
+Decido.
+O presente recurso está prejudicado.
+De acordo com as informações obtidas na página eletrônica do Tribunal de origem, verificou-se que, em 16/9/2024, nos autos da Ação Penal n. 5448215-32.2024.8.09.0051,  foi proferida sentença em que o réu foi condenado pelos crimes previstos nos arts. 330, caput, e 331, caput, do Código Penal - CP, à pena de 6 meses e 17 dias de detenção e ao pagamento de 39 dias-multa, em regime semiaberto, revogando-se a prisão preventiva, com a expedição de alvará de soltura em favor do ora recorrente.
+Assim, não há como negar a perda superveniente do objeto deste recurso em habeas corpus, tendo em vista ter cessado as circunstâncias determinantes da interposição do reclamo.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça - STJ , julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
