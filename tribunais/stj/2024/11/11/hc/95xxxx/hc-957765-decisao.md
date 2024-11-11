@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de FLÁVIA THAIS RIBEIRO BARBOSA, impugnando decisão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo da Unidade Regional de Departamento Estadual de Execução Criminal DEECRIM 3ª RAJ, Comarca de Bauru/SP indeferiu o pedido de prisão domiciliar formulado pela paciente (e-STJ fls. 24/25).
+Na presente impetração, a defesa narra que a paciente é mãe de 2 (duas) crianças, tendo um filho de 1 (um) ano da idade e outro filho de 12 (doze) anos de idade, este diagnosticado com desvio de aprendizagem, e apresenta transtorno misto das habilidades escolares associado a transtorno de déficit de atenção e hiperatividade (CID 10 - F.81.3 / F 90.0), além de necessitar de acompanhamento multidisciplinar contínuo com equipe da Associação de Pais e Alunos Especiais - APAE de Bauru/SP, e ainda reforço escolar e seguimento neurológico (e-STJ fls. 4/5).
+Alega que o Juízo das Execuções Criminais indeferiu pedido de prisão domiciliar formulado pela paciente em 17/04/2024. Interposto agravo de execução penal, o Tribunal de Justiça estadual determinou a remessa dos autos à Procuradoria Geral de Justiça, sem qualquer análise preliminar acerca do peticionamento, nem mesmo do pedido de urgência (e-STJ fl. 5).
+Aponta excesso de prazo para o julgamento do agravo de execução pela Corte de origem (e-STJ fl. 6)
+Requer, liminarmente e no mérito, seja deferida "medida de urgência para que seja determinada à Colenda 4ª Câmara Criminal, que proceda à intimação da Procuradoria Geral de Justiça para apresentar manifestação nos autos do agravo de execução penal, no prazo máximo de 48 (quarenta e oito) horas, e, independente da apresentação do parecer, seja o feito incluído em pauta na sessão de julgamento imediatamente posterior ao conhecimento da decisão" (STJ fl. 7).
+É o relatório. Decido.
+Como se sabe, o rito do habeas corpus, em razão da necessária celeridade, pressupõe a apresentação de prova pré-constituída do direito alegado, sob pena de não conhecimento da ordem.
+No caso concreto, a defesa do paciente não trouxe aos autos cópia da decisão coatora, documento importante para análise do mandamus.
+Diante desse contexto, impossível a exata compreensão da controvérsia sem as peças essenciais ao seu conhecimento.
+De se lembrar que incumbe ao impetrante o dever de demonstrar, de maneira inequívoca, por meio de documentos, a existência do constrangimento ilegal imposto ao paciente, situação que não ocorre na espécie, ensejando o não conhecimento do writ.
+Nesse sentido, confiram-se os precedentes desta Corte:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DECISÃO QUE INDEFERIU LIMINARMENTE O RECURSO. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E LAVAGEM DE CAPITAIS. PRISÃO PREVENTIVA. RECORRER EM LIBERDADE. FUNDAMENTAÇÃO. SENTENÇA PENAL CONDENATÓRIA. AUSÊNCIA. INSTRUÇÃO DEFICIENTE. APRECIAÇÃO DA MOTIVAÇÃO PARA NEGATIVA DE RECORRER EM LIBERDADE. INVIABILIDADE.
+1. "Cabe apenas ao Julgador, verdadeiro destinatário das provas, a verificação de quais documentos entende como imprescindíveis para a análise das controvérsias suscitadas. Sendo, no caso, constatada a ausência de peças necessárias para a verificação do constrangimento alegado, correta a decisão que entendeu pela instrução deficitária do recurso ordinário em habeas corpus" (AgRg no RHC n. 100.336/RS, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 3/9/2019, DJe 16/9/2019).
+2. Agravo regimental desprovido.
+(AgRg no RHC 132.359/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/09/2020, DJe 14/09/2020)
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. IRREGULARIDADE DA PRISÃO EM FLAGRANTE. WRIT DEFICITARIAMENTE INSTRUÍDO. NÃO CONHECIMENTO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA CUSTÓDIA PELOS MESMOS FUNDAMENTOS. AUSÊNCIA DE PREJUDICIALIDADE. QUANTIDADE DE SUBSTÂNCIA ENTORPECENTE APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NO CASO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+1. O habeas corpus encontra-se deficitariamente instruído, não havendo como esclarecer, exatamente, em qual situação se deu a prisão em flagrante do Paciente, o que impede, no caso, a compreensão da controvérsia. Conforme o entendimento já consolidado nesta Corte, o procedimento do habeas corpus não permite a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração. Precedentes.
+(..)
+6. Habeas corpus parcialmente conhecido e, nessa extensão, denegada a ordem.
+(HC 479.238/MS, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 15/10/2019, DJe 25/10/2019)
+No mesmo sentido, esta Corte assentou que, "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+EMENTA
