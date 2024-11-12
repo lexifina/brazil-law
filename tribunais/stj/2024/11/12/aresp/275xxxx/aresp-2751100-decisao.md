@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BOA VISTA SERVIÇOS S.A. (BOA VISTA) contra decisão que não admitiu seu apelo nobre, manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO. INSCRIÇÃOEMENTA INDEVIDA EM CADASTRO RESTRITIVO DE CRÉDITO. NECESSIDADE DE OBSERVÂNCIA DO ART. 43, § 2º DO CÓDIGO DE DEFESA DO CONSUMIDOR. COMUNICAÇÃO FOI ENVIADA AO CONSUMIDOR E LHE FOI CONCEDIDO PRAZO PRA PAGAMENTO DE DEZ DIAS. INSCRIÇÃO EFETIVADA ANTES DE FINALIZADO O PRAZO CONCEDIDO. RESPONSABILIDADE CIVIL CONFIGURADA. DANO MORAL EVIDENCIADO. ESTABELECIDO EM OBEDIÊNCIA AOSQUANTUM PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. SENTENÇA MANTIDA. APELO CONHECIDO E DESPROVIDO. (e-STJ, fl. 271)
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, BOA VISTA alegou violação dos arts. 240 e 373, II, ambos do CPC, 405 do CC, e 43, § 2º, do CDC, ao sustentar (1) a sua ilegitimidade passiva, uma vez que a entidade arquivista tem apenas o dever de enviar a notificação prévia da anotação, o que se efetivou no presente caso, não tendo qualquer ingerência sobre o negócio jurídico que ensejou a restrição creditícia, sendo a negativação realizada pela instituição credora; e que não há falar em cancelamento do apontamento, sendo bastante o envio da correspondência para o endereço do consumidor. Invocou a Súmula nº 404 do STJ; e, (2) dissenso jurisprudencial.
+(1) Da suscitada notificação prévia
+BOA VISTA, nas razões do apelo nobre, sustentou que a entidade arquivista tem apenas o dever de enviar a notificação prévia da anotação, o que se efetivou no presente caso, não tendo qualquer ingerência sobre o negócio jurídico que ensejou a restrição creditícia, sendo a negativação realizada pela instituição credora. motivo pelo qual não há falar em cancelamento do apontamento, sendo bastante o envio da correspondência para o endereço do consumidor. Invocou a Súmula nº 404 do STJ.
+O Tribunal de Justiça do Estado do Rio Grande do Norte, soberano na análise do conteúdo fático-probatório, concluiu que não houve comprovação, nos autos, da expedição e remessa da notificação à parte recorrida, como se pode observar dos trechos extraídos do acórdão impugnado, a seguir transcritos:
+Cinge-se o mérito recursal em perquirir acerca do acerto da sentença que reconheceu o ato ilícito praticado pela parte apelante, ao inscrever o nome da parte apelada nos órgãos restritivos de crédito sem a prévia notificação desta. Acerca do tema, dispõe o art. 43, § 2º do Código de Defesa do Consumidor:
+Art. 43. O consumidor, sem prejuízo do disposto no art. 86, terá acesso às informações existentes em cadastros, fichas, registros e dados pessoais e de consumo arquivados sobre ele, bem como sobre as suas respectivas fontes.
+(..)
+§ 2º A abertura de cadastro, ficha, registro e dados pessoais e de consumo deverá ser comunicada por escrito ao consumidor, quando não solicitada por ele.
+Definindo de quem era a responsabilidade pela prévia notificação, o Superior Tribunal de Justiça sumulou o entendimento infra:
+Súmula nº 359. Cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à inscrição.
+Desta feita, a inclusão do nome do devedor nos cadastros restritivos de crédito deve ser precedida de prévia notificação e a responsabilidade desta é do órgão mantenedor do cadastro, não tendo que se falar em ilegitimidade passiva da apelante.
+No caso concreto, verifica-se que a parte apelante não conseguiu comprovar que procedeu com a referida notificação prévia. Validamente, o documento de registro de débito (ID 18901395), consta que a inclusão se deu 09/11/2021 e a postagem foi realizada em 17/11/2021, o que observa-se que a negativação se deu antes da postagem, conforme as provas que estão acostada nos autos. Portanto, inexistem motivos para a reforma da sentença. (e-STJ, fls. 273-274).  grifou-se .
+Da leitura do excerto acima, verifica-se que o TJRN entendeu que a notificação prévia não foi comprovada, efetivada, de modo que a pretensão recursal ancorada em premissa fática contrária demanda o revolvimento de fatos e provas, o que veda a Súmula nº 7 do STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+(2) Do dissídio jurisprudencial
+Quanto ao tema, a jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque, a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor da BOA VISTA, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. AUSÊNCIA DA NOTIFICAÇÃO PRÉVIA. ART. 43, § 2º, DO CPC. REQUISITO NÃO CUMPRIDO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DA CAUSA. INCIDÊNCIA DA SÚMULA Nº 7 E 54 DO STJ. AGRAVO CONHECIDO. RECURSO NÃO PROVIDO.
