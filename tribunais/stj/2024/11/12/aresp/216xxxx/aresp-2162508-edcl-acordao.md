@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 06/11/2024 a 12/11/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. IMPROBIDADE ADMINISTRATIVA. LEI N. 14.230/2021. SUPERVENIÊNCIA. TEMA N. 1.199/STF. CONDUTA DOLOSA. IRRETROATIVIDADE. LIMITES DO JUÍZO DE ADMISSIBILIDADE. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DA MATÉRIA.
+I. CASO EM EXAME
+1.1. Embargos de declaração opostos contra acórdão que manteve decisão na qual apreciado recurso extraordinário, esclarecendo os impactos da decisão vinculante exarada pelo Supremo Tribunal Federal sobre a presente demanda, especialmente em razão da superveniência do julgamento do Tema n. 1.199, sob o regime de repercussão geral.
+1.2. O acórdão embargado manteve a aplicação dos Temas n. 339 e 660 do STF, e registrou que não há necessidade de conformação ao que decidido pelo STF, pois as instâncias de origem destacaram a conduta dolosa do agente público, premissa fática não alterada na instância especial.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A parte embargante alega vícios no acórdão que ensejariam a alteração das conclusões adotadas.
+III. RAZÕES DE DECIDIR
+3.1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+3.2. O acórdão embargado apresentou, de forma satisfatória, os motivos da compreensão adotada. Constata-se a mera discordância da parte com a solução apresentada e o propósito de modificação do julgamento.
+IV. DISPOSITIVO
+4.1. Embargos de declaração rejeitados.
+RELATÓRIO
+1. Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fls. 1.394-1.395):
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO SUFICIENTE. TEMA N. 339 DO STF. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DO DEVIDO PROCESSO LEGAL E DA SEGURANÇA JURÍDICA, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. TEMA N. 660 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 1.199 DO STF. CONDUTA DOLOSA. IRRETROATIVIDADE. LIMITES DO JUÍZO DE ADMISSIBILIDADE.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF.
+3. A suscitada afronta aos princípios do contraditório, da ampla defesa, do devido processo legal e da segurança jurídica, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, se dependente da análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não tendo repercussão geral (Tema n. 660 do STF).
+4. No tocante à aplicação da Lei n. 14.230/2021, o Supremo Tribunal Federal, no julgamento do Tema n. 1.199, firmou teses segundo as quais (i) é necessária a comprovação de responsabilidade subjetiva dolosa na tipificação dos atos de improbidade administrativa; (ii) a revogação da modalidade culposa de improbidade administrativa é, em regra, irretroativa; (iii) as inovações introduzidas na Lei de Improbidade Administrativa incidem sobre as condenações por atos ímprobos culposos ainda não transitados em julgado; e (iv) o novo regime prescricional não retroage, aplicando-se os novos marcos temporais apenas após a publicação da nova lei.
+5. No caso, não há necessidade de conformação do acórdão recorrido ao que foi decidido pelo STF, pois as instâncias ordinárias destacaram a conduta dolosa do agente público, premissa fática não alterada por esta instância especial.
+6. As alterações promovidas na Lei de Improbidade Administrativa e o julgamento do referido paradigma pela Suprema Corte não impactam a solução dada ao presente recurso extraordinário, tendo em vista as estreitas balizas do juízo de admissibilidade, previstas no art. 1.030 do Código de Processo Civil.
+7. Agravo interno a que se nega provimento.
+A parte embargante sustenta a ocorrência de omissão no acórdão embargado ante a incidência contraditória dos Temas n. 339 e 660 do STF, pois teria demonstrado a negativa de prestação jurisdicional pelo Superior Tribunal de Justiça, a existência de repercussão geral da matéria tratada, e comprovado a prática de atos culposos, que ensejariam a aplicação retroativa da Lei n. 14.230/2021.
+Requer o acolhimento dos aclaratórios para sanar os defeitos apontados, com a correspondente repercussão jurídica.
+É o relatório
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. IMPROBIDADE ADMINISTRATIVA. LEI N. 14.230/2021. SUPERVENIÊNCIA. TEMA N. 1.199/STF. CONDUTA DOLOSA. IRRETROATIVIDADE. LIMITES DO JUÍZO DE ADMISSIBILIDADE. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DA MATÉRIA.
+I. CASO EM EXAME
+1.1. Embargos de declaração opostos contra acórdão que manteve decisão na qual apreciado recurso extraordinário, esclarecendo os impactos da decisão vinculante exarada pelo Supremo Tribunal Federal sobre a presente demanda, especialmente em razão da superveniência do julgamento do Tema n. 1.199, sob o regime de repercussão geral.
+1.2. O acórdão embargado manteve a aplicação dos Temas n. 339 e 660 do STF, e registrou que não há necessidade de conformação ao que decidido pelo STF, pois as instâncias de origem destacaram a conduta dolosa do agente público, premissa fática não alterada na instância especial.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A parte embargante alega vícios no acórdão que ensejariam a alteração das conclusões adotadas.
+III. RAZÕES DE DECIDIR
+3.1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+3.2. O acórdão embargado apresentou, de forma satisfatória, os motivos da compreensão adotada. Constata-se a mera discordância da parte com a solução apresentada e o propósito de modificação do julgamento.
+IV. DISPOSITIVO
+4.1. Embargos de declaração rejeitados.
+VOTO
+O art. 1.022 do Código de Processo Civil define as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, da mesma norma, que configurariam a carência de fundamentação válida; e d) erro material.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado no acórdão embargado, foram demonstrados os motivos pelos quais se concluiu pela aplicação dos Temas n. 339 e 660 do STF, bem como foram esclarecidos os limites do juízo de viabilidade do recurso extraordinário, o qual deve observar a aderência estrita ao que foi decidido no tema de repercussão geral.
+Explicou-se que, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessário que tenham sido apreciadas todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Pontuou-se que a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto ou desacerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+Consignou-se que, no caso, foram declinados, de forma satisfatória, os motivos da compreensão adotada no acórdão impugnado, que apreciou expressamente a matéria invocada pela parte recorrente, consoante o excerto transcrito.
+Concluiu-se que, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido se encontra em sintonia com a tese fixada no Tema n. 339 do STF.
+Acrescentou-se que o STF definiu o entendimento de que a suscitada afronta aos princípios do contraditório, da ampla defesa, do devido processo legal e da segurança jurídica, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional (Tema n. 660/STF).
+Destacou-se que essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais que analisam a viabilidade prévia dos recursos extraordinários negar seguimento aos recursos que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+Asseverou-se que, no caso dos autos, o exame da alegada ofensa ao art. 5º, LIV e LV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, motivo pelo qual se aplica a conclusão do STF no mencionado Tema n. 660.
+Quanto aos impactos da decisão vinculante exarada pelo Supremo Tribunal Federal no julgamento do Tema n. 1.199, esclareceu-se que, no referido paradigma, foi confirmada a natureza civil dos atos de improbidade administrativa e suas respectivas sanções, o que afasta a aplicação automática do princípio da retroatividade da lei penal mais benéfica, consignando-se, ainda, a necessidade de caracterização do dolo para a configuração dos atos de improbidade administrativa em geral.
+Pontuou-se que, no caso dos autos, as instâncias de origem concluíram pela existência de conduta dolosa do agente, consoante se observa das seguintes passagens do acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (fls. 1.081-1.087, grifo acrescido):
+No caso em comento, entendo que presentes os elementos para configurar a má fé dos recorrentes quanto aos atos de improbidade descritos nas exordiais.
+ ..
+Inicialmente, tem-se que nos termos da Cláusula Segunda, II, f, de supracitado convênio (f.432 dos autos n. 1.0335.16.003137- 31004), a Prefeitura Municipal de Itapecerica deveria realizar processo licitatório para a contratação do executor das obras da referida creche; todavia não o fez, tendo se alegado nas peças de contestação e apelo do Instituto Véritas que as licitações anteriores teriam restado desertas, tornando lícita a sua contratação.
+ ..
+Somente por esse aspecto já se permite concluir a existência de negligência por parte dos recorrentes, uma vez que desrespeitadas as formalidades necessárias para a contratação administrativa, sendo mister ressaltar, como também destacado pelo juízo de primeiro grau, a violação aos ad. 23 a 26 do Decreto 3.100199, que versa sobre o Termo de Parceria com as OSCIP, senão vejamos:
+ ..
+Ora, uma vez que não verificada a existência de edital para concurso de projetos, conclui-se que o réu Lindolfo atuou para que fosse contratado diretamente pela administração pública o Instituto Véritas, violando normas basilares do direito de licitações.
+ ..
+Da análise do Termo de Parceira (f. 73179), tem-se que a cláusula quarta do referido termo determina que o pagamento da segunda e terceira parcelas deveria ocorrer apenas se cumprido 20% e 40%, respectivamente, do cronograma estabelecido. Mas, o que se verifica do procedimento de Tomada de Contas Especiais (f. 7381748) é o adiantamento de valores sem a devida comprovação do cumprimento das metas estabelecidas no Termo de Parceria. Com efeito, o laudo pericial de f.15130 concluiu ter ocorrido "antecipação financeira de (24,09%) superior às metas físicas executadas".
+Enquanto que o réu Lindolfo simplesmente afirmou que sua conduta não apresentou dolo, e que agiu com diligência de modo a fiscalizar o andamento das obras, sendo o inadimplemento responsabilidade exclusiva do Instituto Véritas, o segundo requerente afirmou em sua peça de apelo que agiu por sensibilidade face ao estado "quase que de desespero pela administração municipal" e que descobriu, posteriormente à assinatura do Termo de Parceria, que o terreno destinado para a construção era impróprio para tal e que não havia sequer projeto básico, mas sim um croqui simples e planilha de custos não detalhada.
+Data venia, não há como se acolher tais argumentos ante o arcabouço probatório juntado aos autos.
+ ..
+Por todo o exposto, entendo que não subsistem as alegações de ausência de dolo, uma vez que houve violação de normas básicas de licitação por parte dos recorrentes, não podendo se esquivarem apenas com base em alegações de ausência de má-fé, ainda mais em se tratando de violações sistêmicas, não se enquadrando a hipótese em mera má administração.
+Concluiu-se que, como se trata de condenação por ato de improbidade administrativa doloso, é desnecessária a adoção de qualquer providência destinada à conformação ao que foi decidido pelo STF no julgamento do Tema n. 1.199.
+Ressaltou-se que as teses constantes do referido paradigma não contemplaram a necessidade de comprovação do dolo específico do agente condenado pela prática de ato de improbidade administrativa.
+Observou-se que as alterações promovidas na Lei de Improbidade Administrativa e o julgamento do referido paradigma pela Suprema Corte não impactam a solução dada ao presente recurso extraordinário, tendo em vista as estreitas balizas do juízo de admissibilidade do citado recurso, previstas no art. 1.030 do Código de Processo Civil.
+Reiterou-se que, na limitada cognição levada a efeito no juízo de viabilidade do recurso extraordinário, não há como adentrar na apreciação da matéria de fundo, como pretende a parte agravante, ainda que sob o pretexto do advento de nova legislação que lhe seria mais benéfica.
+Mencionou-se que questões outras relacionadas à nova redação atribuída à Lei de Improbidade Administrativa somen te poderiam ser apreciadas se o recurso extraordinário fosse passível de admissão, o que não se verifica no caso concreto, diante da negativa de seu seguimento, fundamentada na incidência dos Temas n. 339 e 660 do STF.
+Inexistindo, portanto, vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+Ante o exposto, rejeito os embargos de declaração.
+Advirto, uma vez mais, que reiterados embargos de declaração dessa natureza serão sancionados com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
