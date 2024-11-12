@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por CEARA LOTEAMENTOS LTDA. à decisão de fls. 551/552, que não conheceu do recurso.
+Sustenta a parte embargante:
+10. No presente caso, a embargante foi intimada do acórdão em 27 de fevereiro de 2024, sendo certo que o prazo de 15 dias úteis findaria em 19 de março de 2024. No entanto, conforme disposto no Art. 219 do Código de Processo Civil, na contagem dos prazos legais, computam-se somente os DIAS ÚTEIS.
+11. Neste sentido, restou demonstrado no tópico da tempestividade do recurso e por meio da documentação acostada às fls. 351 (E-STJ) que o dia 19 de março de 2024 é feriado no Estado do Ceará, conforme Decreto Estadual n. 35.902/24.
+12. Deste modo, considerando que o dia 19 de março de 2024 NÃO FOI UM DIA ÚTIL NO ESTADO DO CEARÁ, o último dia do prazo para interposição do recurso especial fora prorrogado para o dia útil subsequente, qual seja, 20 de março de 2024.
+13. O Art. 1.003, § 6º do Código de Processo Civil estabelece que o recorrente comprovará no ato da interposição do recurso a existência de feriado local, o que foi realizado pelo embargante, conforme atesta documentação de fls. 351.
+ ..
+15. Deste modo, considerando a existência de feriado local que prorrogou o prazo de interposição do recurso especial para o dia 20/03/2024, a efetiva interposição do RESP no prazo legalmente estabelecido e a efetiva comprovação da existência de feriado local por ocasião da interposição do recurso especial, têm-se que a insurgência recursal é tempestiva e, portanto, deve ser conhecida.
+16. A análise das decisões anteriores dos tribunais superiores revela um entendimento consolidado sobre a contagem de prazos recursais em situações semelhantes.
+O Superior Tribunal de Justiça, em diversas ocasiões, tem se posicionado no sentido de que o prazo para interposição de recursos deve ser considerado em sua totalidade, levando em conta feriados e pontos facultativos, conforme estabelecido nas legislações locais.
+17. Assim, é evidente que a jurisprudência aponta no sentido de reconhecer a relevância da observância de feriados e pontos facultativos na contagem dos prazos processuais. Portanto, o erro material na decisão recorrida quanto a esses aspectos deve ser sanado, em conformidade com o entendimento consolidado por esta Corte.
+18. Além da jurisprudência que consagra a contagem correta dos prazos processuais considerando feriados e pontos facultativos, destaca-se a o disposto na Lei 14.939, de 2024, em vigor desde 30 de julho de 2024, que passou a estabelecer que "O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico."
+ ..
+20. Segundo a lei, ainda que não houvesse a comprovação do feriado local, o que não se vislumbra na presente demanda, a medida que se impõe é a intimação do recorrente para correção do erro material e não a inadmissão do recurso especial.
+21. Deste modo, conclui-se que o recurso é plenamente tempestivo, eis que interposto dentro do prazo legalmente estabelecido, eis que se considerou na contagem do prazo recursal a existência de feriado local, cuja ocorrência fora demonstrada no ato da interposição do recurso (fls. 557/559).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 3.10.2019; AgRg nos EDcl no REsp 1819067/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 5.9.2019.)
+No caso, o documento de fl. 351, que prevê ponto facultativo no dia 19.3.2024, trata-se de mero decreto estadual emanado do Poder Executivo, não servindo para comprovar que não houve expediente forense no âmbito do Tribunal de Justiça do Estado do Ceará
+Ressalte-se que em observância ao princípio do tempus regit actum, o entendimento da Lei n. 14.939/2024 só será aplicado quando a data de intimação do decisum recorrido tenha ocorrido a partir do dia 31.7.2024 (Mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
