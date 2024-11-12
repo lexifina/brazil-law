@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 06/11/2024 a 12/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. NÃO CABIMENTO. SÚMULA 315/STJ.
+1. Não cabem embargos de divergência quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação da Súmula 315/STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por ENIO DUTRA FERNANDES DA SILVA contra decisão unipessoal da Presidência do STJ que rejeitou os embargos de declaração opostos em face da decisão que indeferiu liminarmente os embargos de divergência.
+Agravo interno em recurso especial interposto em: 17/5/2024.
+Concluso ao gabinete em: 2/9/2024.
+Ação: cumprimento de sentença condenatória por improbidade administrativa.
+Acórdão do TJDFT: por maioria, deu provimento ao agravo de instrumento interposto por ENIO DUTRA FERNANDES DA SILVA, nos termos da seguinte ementa:
+Agravo de instrumento. Cumprimento de sentença em ação civil pública. Penhora de remuneração. É inadmissível a penhora mensal de percentual da remuneração do devedor, sob pena de ofensa a expressa proibição legal - CPC 833, IV -, excepcionadas as duas hipóteses indicadas no § 2º, alheias ao caso.
+Acórdão da Segunda Turma/STJ: não conheceu do agravo interno interposto contra decisão que conheceu do recurso especial para lhe dar parcial provimento e determinar o retorno dos autos à origem para que fossem avaliadas, nas circunstâncias do caso concreto, a possibilidade da penhora e seu percentual, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPENHORABILIDADE DE VENCIMENTOS. EXCEÇÕES. PRECEDENTES DO STJ. IMPUGNAÇÃO INSUFICIENTE. SÚMULA 182/STJ. OFENSA À SÚMULA 7/STJ NÃO CONFIGURADA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Trata-se de Agravo Interno contra decisão que conheceu do Recurso Especial para dar-lhe parcial provimento e determinar o retorno dos autos à origem para que fossem avaliadas as circunstâncias do caso concreto, a possibilidade da penhora e seu percentual.
+2. Não há falar em violação à Súmula 7 desta Corte, uma vez que a determinação para o retorno dos autos à origem objetivou exatamente evitá-la, pois não é possível a este egrégio Superior Tribunal de Justiça avaliar a condição financeira do devedor e, assim, fixar o percentual legal para penhora de seus vencimentos. Caberá ao Tribunal de origem, senhor da análise probatória, fazê-lo.
+3. Quanto ao dispositivo federal ora discutido, o agravante se limita a alegar: "14. Como consta nos autos, o TJDFT expressamente asseverou que as verbas de natureza salarial, entre elas os vencimentos/remunerações, são impenhoráveis, conforme CPC 833, IV, do CPC. 15. Contudo, reconheceu aquele Areópago que a regra pode ser excepcionada nas hipóteses de penhora para pagamento de prestação alimentícia e do valor excedente a 50 salários-mínimos mensais (CPC 833, § 2º). 16. Todavia, o TJDFT já declarou que essa mitigação não é o caso dos autos" (fl. 190, e-STJ).
+4. No presente Agravo Interno, entretanto, a parte deixa de rebater especificamente o fundamento da decisão monocrática no sentido de que "(..) o decisum desconsidera a orientação desta Corte, consolidada no julgamento do ER Esp 1.582.475/MG (..), segundo a qual a regra da impenhorabilidade poderá ser excepcionada quando preservado um percentual de proventos capaz de assegurar a dignidade do devedor e de sua família" (fl. 178, e-STJ).
+5. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+6. Agravo não conhecido.
+Embargos de divergência: alega que o acórdão embargado está em dissonância com outras decisões prolatadas pelo STJ, notadamente em relação aos seguintes julgados: AgRg no AREsp n. 703.996/DF, proferido pela Primeira Turma e AgInt nos EDcl no REsp n. 1.847.365/DF, proferido pela Quarta Turma. Requer o conhecimento e o provimento do recurso a fim de manter o acórdão proferido pelo TJDFT.
+Decisão unipessoal da Presidência do STJ: rejeitou os embargos de declaração opostos em face da decisão que indeferiu liminarmente os embargos de divergência, com fundamento na Súmula 315/STJ.
+Agravo interno: reitera os fundamentos anteriormente apresentados e pugna pela reforma da decisão.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. NÃO CABIMENTO. SÚMULA 315/STJ.
+1. Não cabem embargos de divergência quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação da Súmula 315/STJ.
+2. Agravo interno não provido.
+VOTO
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento capaz de ilidir o entendimento firmado na decisão ora agravada.
+1. Da ausência de negativa de prestação jurisdicional
+De início, destaca-se que a jurisprudência do STJ é firme no sentido de que não há negativa de prestação jurisdicional ou ausência de fundamentação quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Confira-se: AgInt no REsp 1.726.592/MT, 3ª Turma, DJe 31/8/2020 e AgInt no AREsp 1.518.178/MG, 4ª Turma, DJe 16/3/2020.
+No mais, é pacífico nesta Corte que o julgador não está obrigado a responder a todos os fundamentos apresentados pela parte quando houver motivo suficiente para proferir a decisão (AgInt no REsp 1920967/SP, Terceira Turma, julgado em 3/5/2021 e AgInt no AREsp 1382885/SP, Quarta Turma, julgado em 26/4/2021).
+2. Da aplicação da Súmula 315/STJ
+Os embargos de divergência constituem instrumento excepcional voltado à uniformização da jurisprudência interna do Superior Tribunal de Justiça, representando mecanismo que, a despeito de depender da iniciativa das partes ou de terceiros interessados, "não tem por mira apenas realizar justiça subjetiva", eis que "o Tribunal quando os julga tem por propósito específico promover a harmonia de interpretação da lei federal com a consequente uniformização da jurisprudência no âmbito interno da Corte" (EDcl nos EREsp 88.682/SP, 1ª Seção, DJe 1º/12/2003).
+Assim, por ser recurso de fundamentação vinculada, o cabimento dos embargos de divergência é restrito, do que exsurge especiais requisitos de admissibilidade a serem observados pela parte embargante.
+De início, é necessário observar que, nos termos do art. 1.043 do CPC, é embargável o acórdão de órgão fracionário que, em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito, ou, ainda, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia. A propósito, confira-se: AgInt nos EAREsp 955.088/RS, Corte Especial, DJe 2/5/2018.
+Quando não enfrentado o mérito, por outro lado, aplica-se a Súmula 315/STJ.
+No recurso sob julgamento, verifica-se que o acórdão embargado não apreciou o mérito da controvérsia, visto que a Segunda Turma desta Corte não conheceu do agravo interno interposto pelo recorrente, em razão da incidência da Súmula 182/STJ.
+Logo, encerrando-se o julgamento na aplicação de regras técnicas de admissibilidade, não é admissível o manejo dos embargos de divergência.
+Confira-se outros julgados similares desta Corte:
+DIREITO PROCESSUAL PENAL E CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DEFICIENTE COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE JUNTADA DO INTEIRO TEOR DOS ACÓRDÃOS PARADIGMAS. FALTA DE APRECIAÇÃO DO MÉRITO RECURSAL. SÚMULA N. 315 DO STJ. AGRAVO NÃO PROVIDO.
+1. A comprovação da divergência deve observar os termos do § 4º do art. 1.043 do CPC de 2015 e do § 4º do art. 266 do RISTJ.
+2. A parte recorrente não se desincumbiu de seu ônus processual de fazer prova da suscitada divergência jurisprudencial, uma vez que não houve a juntada do inteiro teor dos acórdãos indicados como paradigmas, configurando-se vício substancial e insanável, impeditivo do conhecimento dos embargos de divergência.
+3. Ademais, não se admite a interposição de embargos de divergência nos casos em que o capítulo impugnado no recurso não teve o mérito apreciado pelo acórdão embargado, como ocorreu na situação em apreço, na qual a Turma concluiu serem insuficientes as razões do agravo manejado contra a decisão de inadmissão da origem, aplicando o óbice da Súmula n. 182 do STJ.
+4. Ausente o enfrentamento do mérito da causa no recurso especial, aplica-se a conclusão extraída da Súmula n. 315 do STJ, segundo a qual: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+5. Agravo regimental a que se nega provimento.
+(AgRg nos EAREsp n. 2.510.396/SC, Corte Especial, julgado em 24/9/2024, DJe de 27/9/2024)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE ANÁLISE MERITÓRIA DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 315, STJ. ACÓRDÃOS CONFRONTADOS PROFERIDOS PELO MESMO ÓRGÃO JULGADOR. INOBSERVÂNCIA DO ART. 1.043, § 3º, DO CPC. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. PRECEDENTES.
+I - Nos termos do art. 266 do Regimento Interno do Superior Tribunal de Justiça, são cabíveis embargos de divergência contra acórdão de órgão fracionário que, em recurso especial, divergir do julgamento proferido por outro órgão desta Corte. Sua finalidade consiste em eliminar o dissenso interno quanto à intepretação da lei federal e, por consequência, uniformizar a jurisprudência. A admissão dos embargos de divergência pressupõe a comprovação do dissídio jurisprudencial por meio do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o paradigma.
+II - No caso dos autos, como bem consignado na decisão recorrida, o mérito do recurso especial interposto pelo embargante não foi apreciado pelo Superior Tribunal de Justiça, uma vez que o agravo interposto contra a decisão de inadmissibilidade da origem não foi conhecido e tal compreensão mantida em sede de agravo regimental, em razão da incidência da Súmula n. 182, STJ. Logo, ausente pressuposto essencial de admissão dos embargos de divergência.
+III - Ademais, além de ter indicado aresto paradigma proferido pelo mesmo órgão julgador do acórdão impugnado, sem a devida comprovação de alteração em sua composição, nos termos do art. 1.043, § 3º, do Código de Processo Civil, o embargante não procedeu ao cotejo analítico, providência indispensável à configuração da divergência.
+Agravo regimental desprovido.
+(AgRg nos EAREsp n. 2.451.374/SP, Terceira Seção, julgado em 20/6/2024, DJe de 24/6/2024)
+A decisão monocrática da Presidência, portanto, não merece reforma.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno nos embargos de divergência no r ecurso especial.
+Previno o agravante que a oposição de novo recurso, se declarado manifestamente protelatório, acarretará condenação em multa, nos termos do art. 1.026, § 2º, do CPC.
