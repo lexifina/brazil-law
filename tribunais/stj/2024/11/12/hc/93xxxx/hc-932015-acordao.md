@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito PROCESSUAL Penal. Habeas Corpus. tráfico de drogas. ALEGAÇÃO DE nulidade NA AUDIÊNCIA DE INSTRUÇÃO. análise DA CONTROVÉRSIA concomitante na origem DIANTE DA IMPETRAÇÃO DE HABEAS CORPUS PERANTE A CORTE LOCAL. SUBVERSÃO DO SISTEMA RECURSAL. supressão de instância. Não Conhecimento.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em substituição a recurso próprio ou revisão criminal, alegando cerceamento de defesa, diante de indevido reconhecimento de revelia. A paciente foi condenada à pena de 7 anos, 5 meses e 25 dias de reclusão, em regime semiaberto, e 749 dias-multa pela prática do delito do art. 33 c/c 40, VI, da Lei de drogas, com trânsito em julgado.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é cabível o habeas corpus como substitutivo de recurso próprio ou revisão criminal, especialmente quando não há flagrante ilegalidade.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ e do STF não admite habeas corpus como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. A análise do mérito do presente habeas corpus está impedida pela pendência de apreciação do writ originário na instância ordinária, tendo em vista o provimento do agravo regimental interposto para regular tramitação do remédio constitucional, sucedâneo de rev isão criminal.
+5 . A impetração concomitante de habeas corpus e meio adequado de impugnação subverte o sistema recursal e não deve ser admitida.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fl. 412 (e-STJ):
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra o acórdão da 1ª Câmara Criminal do Tribunal de Justiça de Goiás, que negou provimento ao agravo regimental interposto contra decisão monocrática do Desembargador Relator que havia indeferido liminarmente o habeas corpus originário, por ser substitutivo de Revisão Criminal. O órgão fracionário do respectivo Tribunal entendeu não haver flagrante ilegalidade a justificar a concessão da ordem de ofício, mantendo inalterada a condenação da paciente à pena de 07 anos, 05 meses e 25 dias de reclusão, em regime inicial semiaberto, pela prática do crime previsto no art. 33, caput c/c art. 40, VI da Lei nº 11.343/06.
+No presente habeas corpus, alega-se, em suma, a realização de audiência sem a presença da acusada, pois estaria segregada por outro feito, tendo sido declarada sua revelia e intimada por edital. Afirma que foi proferida sentença penal condenatória, com trânsito em julgado, não tendo sido oportunizado o exercício do contraditório e da ampla defesa, pois não pôde ser ouvida em juízo. Diz, ainda, nesse contexto que, por erro do Estado, a paciente não foi colocada em liberdade após suposto cumprimento de alvará de soltura, tendo permanecido segregada até a data da audiência de instrução e julgamento. Ao final, pretende a declaração de nulidade de ação penal (e-STJ fls. 3/15).
+A liminar foi indeferida às fls. 370/371 e-STJ.
+A defesa alega, em síntese, a ocorrência de cerceamento de defesa.
+Requer a concessão da ordem para obter a absolvição por nulidade processual.
+É o relatório.
+EMENTA
+Direito PROCESSUAL Penal. Habeas Corpus. tráfico de drogas. ALEGAÇÃO DE nulidade NA AUDIÊNCIA DE INSTRUÇÃO. análise DA CONTROVÉRSIA concomitante na origem DIANTE DA IMPETRAÇÃO DE HABEAS CORPUS PERANTE A CORTE LOCAL. SUBVERSÃO DO SISTEMA RECURSAL. supressão de instância. Não Conhecimento.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em substituição a recurso próprio ou revisão criminal, alegando cerceamento de defesa, diante de indevido reconhecimento de revelia. A paciente foi condenada à pena de 7 anos, 5 meses e 25 dias de reclusão, em regime semiaberto, e 749 dias-multa pela prática do delito do art. 33 c/c 40, VI, da Lei de drogas, com trânsito em julgado.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é cabível o habeas corpus como substitutivo de recurso próprio ou revisão criminal, especialmente quando não há flagrante ilegalidade.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ e do STF não admite habeas corpus como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. A análise do mérito do presente habeas corpus está impedida pela pendência de apreciação do writ originário na instância ordinária, tendo em vista o provimento do agravo regimental interposto para regular tramitação do remédio constitucional, sucedâneo de rev isão criminal.
+5 . A impetração concomitante de habeas corpus e meio adequado de impugnação subverte o sistema recursal e não deve ser admitida.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+VOTO
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, na medida em que os temas alegados no writ ainda pendem de análise na origem no habeas corpus substitutivo de revisão criminal impetrado (e-STJ fls. 366/367):
+Destarte, passo ao mérito.
+Pois bem, a ação originária que deu azo a presente impetração é aquela de nº 5436134-89.2021.8.09.0137, em que a paciente foi presa em flagrante dia 20/08/21, teve sua preventiva decretada no dia seguinte (21/08/21 - mov. 10) e foi solta em 11/09/21 - pelo próprio juiz de 1º grau (mov. 33). Posteriormente, teve sua revelia decretada em 20/10/2022 e foi condenada dia 23/03/23, com direito de recorrer em liberdade.
+Ocorre que, um mês e meio depois dos fatos retrocitados, nos autos da ação penal nº 5593603-04.2021.8.09.0137, a paciente foi novamente presa em flagrante no dia 11/11/21, teve sua preventiva decretada no dia seguinte (12/11/21 - mov. 12) e foi solta em 18/04/22, quando condenada com direito de recorrer em liberdade. O alvará foi emitido em 19/04/22, mas não cumprido porque a paciente estava presa em outra ação penal (5276426-03).
+Nesta terceira demanda (5276426-03.2021.8.09.0137), a paciente foi presa em flagrante dia 02/06/21 e foi solta em 06/06/21 (domiciliar) - pelo próprio juízo a quo . Ato contínuo, foi presa novamente quando condenada, em 04/10/21, sem direito de recorrer em liberdade. Nestes autos, só voltou a obter a liberdade após acórdão de minha lavra, em 13/10/22, quando do parcial provimento de seu apelo.
+Aparentemente, em 20/10/22, quando a revelia da paciente foi decretada na ação originária deste writ (5436134-89), o alvará da segunda lide acima (5593603- 04) não havia sido cumprido, (19/04/22), provavelmente porque ela ainda estava presa pela terceira demanda citada (5276426-03), desde 04/10/21, por força de cumprimento de pena.
+Inclusive, a certidão carcerária de 01/09/2022 da paciente, em razão das condenações acima, já somavam mais de 10 anos de reclusão (mov. 16 dos autos do SEEU nº 7000566-09.2022.8.09.0137), motivo pelo qual ela se encontrava cumprido pena no regime fechado.
+De consequência, mesmo o Colegiado deste Sodalício lhe concedendo o direito de recorrer em liberdade em 13/10/22, a paciente não pôde exercer tal direito, posto que já segregada por meio de prisão-pena, em regime mais gravoso.
+Por conseguinte, ao que tudo indica, a paciente se encontrava presa em 20/10/22, quando sua revelia foi decretada na ação principal, objeto desta impetração, daí a viabilidade deste habeas corpus.
+Quanto ao prejuízo para a paciente e sua defesa, tenho que razoável; posto que, pouco tempo depois do decreto de revelia, foi condenada, sem poder ser interrogada.
+Ante o exposto, conheço e dou provimento ao agravo regimental para cassar a decisão monocrática que indeferiu liminarmente a impetração e determinar a retomada do trâmite regular deste remédio constitucional.
+Como se vê, ao contrário do que consta da inicial, o agravo regimental foi provido para que o habeas corpus, sucedâneo de revisão criminal, tivesse regular tramitação para posterior análise pelo Tribunal a quo, conforme informado à fl. 385 e-STJ, situação a inviabilizar a análise concomitante, além da supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. CORRUPÇÃO DE MENOR. ALEGAÇÃO DE NULIDADES NO CURSO DA INSTRUÇÃO CRIMINAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. INTERPOSIÇÃO DE APELAÇÃO DEFENSIVA. INSTRUMENTO ADEQUADO PARA O REEXAME DAS QUESTÕES. PRETENSÃO QUE NÃO SE REFERE À TUTELA IMEDIATA DA LIBERDADE AMBULATORIAL DO ACUSADO. SUBVERSÃO DO SISTEMA RECURSAL. AGRAVO DESPROVIDO.
+1. Consoante se verifica dos autos, o processo já se findou, com a prolação de sentença condenatória em desfavor do réu, tendo a defesa interposto a Apelação n. 0008691-47.2023.8.26.0050, perante o Tribunal de origem, ainda pendente de apreciação por aquele sodalício, o que prejudica a análise do presente writ.
+2. Com a condenação do agravante, as nulidades suscitadas passam a ter suporte decisório na sentença, que deverá ser examinada não na via estreita mandamental, mas no bojo da apelação já manejada pela defesa perante o Tribunal de origem, instrumento processual adequado para o reexame da questão, sob pena de se incidir em indevida supressão de instância.
+3. A Terceira Seção do Superior Tribunal de Justiça firmou entendimento de que "a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual  ..  é indevida a subversão do sistema recursal e a avaliação, enquanto não exaurida a prestação jurisdicional pela instância de origem, de tese defensiva na via estreita do habeas corpus" (HC n. 482.549/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 11/3/2020, DJe 3/4/2020).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 846.290/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. FALSIDADE IDEOLÓGICA E ESTELIONATO. CONDENAÇÃO TRANSITADA EM JULGADO. NULIDADE DO FEITO. SUPRESSÃO DE INSTÂNCIA. MATÉRIA A SER ANALISADA PELA CORTE DE ORIGEM NA REVISÃO CRIMINAL AJUIZADA. IMPETRAÇÃO DE HABEAS CORPUS CONCOMITANTE. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o anterior exame da pretensão defensiva pelas instâncias ordinárias constitui requisito indispensável para sua análise nesta instância, mesmo quando suscitada questão de ordem pública.
+Precedentes.
+2. Inexiste constrangimento ilegal no não conhecimento do writ originário quando o Tribunal a quo certifica que a referida impetração guarda identidade de pedidos com a revisão criminal já ajuizada de forma concomitante naquela instância. Destaque-se, ainda, não haver sequer ameaça à liberdade de locomoção do paciente, que inclusive já cumpriu sua pena e busca no momento apenas a suspensão dos efeitos para fins de afastar sua inelegibilidade.
+Precedente da 3ª Seção: HC 482.549/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 11/3/2020, DJe 3/4/2020.
+3. Agravo regimental não provido.
+(AgRg no RHC n. 136.091/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/11/2020, DJe de 12/11/2020.)
+Alterar o quadro formado no Tribunal de origem demanda inviável dilação probatória em sede de habeas corpus.
+Ante o exposto, não conheço do presente habeas corpus.
+É o voto.
