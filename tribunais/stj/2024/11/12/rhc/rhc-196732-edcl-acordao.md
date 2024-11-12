@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RECURSO ORDINÁRIO NÃO CONHECIDO. AGRAVO NÃO PROVIDO. EMBARGOS REJEITADOS. PREQUESTIONAMENTO. DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. OMISSÃO. VÍCIO NÃO CONSTATADO. BUSCA E APREENSÃO. FALTA DE AFRONTA À LIBERDADE DE LOCOMOÇÃO. NÃO CABIMENTO DO WRIT. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis tão somente em hipóteses de ambiguidade, obscuridade, contradição ou omissão na decisão embargada. Não são admissíveis se objetivarem nova apreciação do caso, fora dos parâmetros do art. 619 do CPP, sob o pretexto de esclarecer, aprimorar ou complementar o acórdão impugnado.
+2. Não compete à esta Corte Superior enfrentamento de dispositivos constitucionais, ainda que para fins de prequestionamento. Precedentes.
+3. A orientação do STJ é pacífica no sentido de que só é possível a impetração de habeas corpus (ou o oferecimento do recurso ordinário) quando o writ puder influenciar diretamente o status libertatis do acusado. A propósito, foram mencionados 3 precedentes na decisão monocrática, 2 julgados no acórdão do regimental e outros 2 na rejeição dos primeiros embargos - todos de março a agosto de 2024.
+4. Na espécie, o réu está solto, não há notícia sobre ato concreto contra a sua liberdade de locomoção, e a discussão versa sobre a medida de busca e apreensão.
+5. A irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgamento. No entanto, o acórdão contestado apreciou, expressamente, o tema discutido e se referiu à jurisprudência que ampara a deliberação anterior.
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+ALAIN STEPHANE RIVIERE opõe embargos de declaração contra o acórdão que rejeitou os primeiros aclaratórios, opostos contra o acórdão que negou provimento ao agravo regimental e preservou a decisão que não proveu o recurso ordinário.
+Nos novos embargos, afirma que o recurso "tem como objetivo o prequestionamento" (fl. 639), ante a violação ao art. 5º, XI e LXVIII, da Constituição da República. Ressalta que o acórdão impugnado não apreciou o tema discutido, mas apenas repetiu o julgado anterior e fez remissão a precedentes.
+Requer o conhecimento dos embargos e a "manifestação expressa acerca dos referidos dispositivos constitucionais supracitados, como meio de prequestionamento, capaz de viabilizar a interposição de recurso extraordinário" (fl. 648).
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RECURSO ORDINÁRIO NÃO CONHECIDO. AGRAVO NÃO PROVIDO. EMBARGOS REJEITADOS. PREQUESTIONAMENTO. DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. OMISSÃO. VÍCIO NÃO CONSTATADO. BUSCA E APREENSÃO. FALTA DE AFRONTA À LIBERDADE DE LOCOMOÇÃO. NÃO CABIMENTO DO WRIT. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis tão somente em hipóteses de ambiguidade, obscuridade, contradição ou omissão na decisão embargada. Não são admissíveis se objetivarem nova apreciação do caso, fora dos parâmetros do art. 619 do CPP, sob o pretexto de esclarecer, aprimorar ou complementar o acórdão impugnado.
+2. Não compete à esta Corte Superior enfrentamento de dispositivos constitucionais, ainda que para fins de prequestionamento. Precedentes.
+3. A orientação do STJ é pacífica no sentido de que só é possível a impetração de habeas corpus (ou o oferecimento do recurso ordinário) quando o writ puder influenciar diretamente o status libertatis do acusado. A propósito, foram mencionados 3 precedentes na decisão monocrática, 2 julgados no acórdão do regimental e outros 2 na rejeição dos primeiros embargos - todos de março a agosto de 2024.
+4. Na espécie, o réu está solto, não há notícia sobre ato concreto contra a sua liberdade de locomoção, e a discussão versa sobre a medida de busca e apreensão.
+5. A irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgamento. No entanto, o acórdão contestado apreciou, expressamente, o tema discutido e se referiu à jurisprudência que ampara a deliberação anterior.
+6. Embargos de declaração rejeitados.
+VOTO
+De início, cumpre elucidar que os embargos de declaração são cabíveis tão somente em hipóteses de ambiguidade, obscuridade, contradição ou omissão na decisão embargada. Os aclaratórios não são admissíveis se objetivarem nova apreciação do caso, fora dos parâmetros do art. 619 do CPP, sob o subterfúgio da necessidade de esclarecer, aprimorar ou complementar o acórdão impugnado.
+Ao que se vê, esta Sexta Turma examinou os argumentos deduzidos pela defesa e expôs, com transparência, as razões que fundamentaram o não provimento do recurso ordinário e do agravo regimental e a rejeição dos primeiros embargos declaratórios, a fim de viabilizar a fácil compreensão dos motivos que lastrearam as conclusões do Relator ou do Colegiado.
+No caso em comento, a defesa impugna a decisão que determina a medida de busca e apreensão e postula a nulidade da prova decorrente dessa providência (fl. 562).
+Todavia, a orientação do STJ é pacífica no sentido de que só é possível a impetração de habeas corpus (ou o oferecimento do recurso ordinário) quando o writ puder influenciar diretamente o status libertatis do acusado.
+Na espécie, o réu está solto e não há notícia sobre eventual ato concreto contra a sua liberdade de locomoção.
+A propósito, foram mencionados 3 precedentes, de março de 2024, na decisão monocrática (fls. 587-588), 2 julgados, de abril e junho de 2024, no acórdão do regimental (fls. 614-615), e outros 2, ambos de agosto de 2024, na rejeição dos embargos pela Sexta Turma (fls. 634-635).
+Outrossim, não olvido, de acordo com a jurisprudência desta Corte, que "Não compete ao Superior Tribunal de Justiça o enfrentamento de dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgRg nos EDcl no HC n. 787.783/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 22/5/2023).
+Nos mesmos termos:
+ ..  1. Não compete ao Superior Tribunal de Justiça o enfrentamento de dispositivos constitucionais, ainda que para fins de prequestionamento.  ..
+(AgRg nos EDcl nos EDcl nos EDcl no AREsp n. 1.920.170/DF, Rel. Ministra Laurita Vaz, 6ª Turma, DJe 30/5/2023.)
+ ..  1. Os embargos de declaração, ainda que manejados para fins de prequestionamento, somente se prestam a corrigir error in procedendo e possuem fundamentação vinculada, dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou obscura, contraditória, ambígua ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, ou mesmo para correção de erro material, o que não ocorreu na espécie.
+Portanto, a mera irresignação com o resultado de julgamento, visando, assim, a reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl na Pet n. 15.830/PR, Rel. Ministro Reynaldo Soares da Fonseca, 3ª Seção, DJe 26/5/2023.)
+De toda sorte, ao menos por ora, identifico fundamentação mínima sobre os indícios de autoria e materialidade, capaz de amparar a ordem de busca e apreensão.
+Os autos apontam que "houve regular fundamentação da decisão que determinou a busca e apreensão e o sequestro de bens dos investigados e suas empresas", com "o objetivo de amealhar provas que eventualmente confirmassem a suspeita de comércio ilícito de mercúrio", dada a "quantidade desproporcional de saldo de mercúrio lançado nos sistemas próprios para as empresas vendedoras, as quais não teriam condições de obter esse material mediante recuperação de lâmpadas etc." (fls. 473-474).
+Consignou a 5ª Turma da Corte Regional que "os pacientes foram incluídos na investigação por serem os próprios adquirentes do mercúrio e então supostamente responsáveis pelo seu emprego para extração mineral" (fl. 474).
+Alain Steph ane Riviere Mineração, em princípio, adquiriu 34,5 kg de mercúrio ilegal de empresas do Grupo Veggi (fl. 474). "Em tal situação, é razoável que Alain Stephane Riviere, proprietário da empresa, seja incluído no âmbito das investigações, de maneira tal que as medidas já referidas contam com fundadas razões que as autorizam (CPP, art. 240, § 4º)" (fl. 474).
+Aliás, quanto à eventual licitude da atividade minerária empreendida pelo embargante, o Tribunal da 3ª Região evidenciou que "cumprir os requisitos para a exploração de minério não o impede - em tese - de ter adquirido o mercúrio em complementação à estratégia delitiva perpetrada pelos vendedores". Vale dizer, "a investigação concernente à legitimidade do mercúrio não fica prejudicada pela alegada regularidade da atividade minerária" (fl. 474).
+À vista do exposto, rejeito os segundos embargos de declaração.
