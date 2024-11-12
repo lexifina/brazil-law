@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de TEOFILO MELO DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o paciente foi preso em flagrante e, posteriormente, teve a prisão convertida em preventiva pela prática, em tese, dos delitos capitulados no artigo 33, caput, da Lei 11.343/06 e nos artigos 12 e 16 da Lei 10.826/03. A prisão foi decretada visando garantir a ordem pública em razão da quantidade de droga apreendida e do fundado receio de reiteração delitiva.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente pelos mesmos fundamentos, denegando a ordem em acórdão de fls. 275-282.
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar.
+Aduz, ainda, que devido as condições de saúde do paciente sua prisão deve ser substituída por domiciliar.
+Requer a revogação da prisão preventiva ou, alternativamente, a imposição de medidas cautelares diversas da segregação cautelar.
+Liminar indeferida às fls. 285-286.
+Informações prestadas às fls. 293-303 e 304-309.
+O Ministério Público Federal, às fls. 313-318, manifestou-se pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar do paciente encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta das condutas atribuídas, haja vista que o acusado foi flagrado mantendo consigo, 804,18 gramas de maconha, 51,17 gramas de haxixe e 65,63 gramas de cocaína, além de uma caderneta com anotações possivelmente relacionadas à contabilidade do tráfico, uma balança de precisão, duas munições intactas calibre 9mm, nove cartuchos intactos calibre .38, um cartucho deflagrado calibre .38, um carregador de pistola calibre 9mm e um revólver calibre .38 carregado, circunstâncias que indicam a periculosidade concreta do agente e revelam a indispensabilidade da imposição da segregação cautelar - fls. 160-161.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça:
+"A custódia cautelar foi devidamente fundamentada na gravidade concreta da conduta pois, em cumprimento de mandado de busca e apreensão, no imóvel identificado nas investigações policiais, os policiais encontraram elevada quantidade de drogas, armas e munições apreendidas" (AgRg no HC n. 915.358/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, DJe de 16/8/2024).
+Nesse sentido, confiram-se alguns precedentes: AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Ademais, verifica-se que o acusado é reincidente, possuindo inúmeras anotações criminais - fl. 161, circunstâncias que demonstram a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa.
+Sobre o tema:
+"No caso, a prisão foi decretada e mantida "em razão de se tratar de crime grave (homicídio) praticado supostamente por motivo torpe e do risco de reiteração delitiva (uma vez que o Paciente é reincidente)" (AgRg no HC n. 923.945/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 12/9/2024).
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Quanto a possibilidade de concessão da prisão domiciliar, verifico que melhor sorte não socorre a defesa.
+No presente caso, as instâncias ordinárias concluíram não haver comprovação satisfatória dos requisitos necessários para o deferimento da prisão domiciliar, salientando a não comprovação de que o paciente se encontra extremamente debilitado por motivo de doença grave, assim como houve demonstração da possibilidade de tratamento adequado no interior do estabelecimento prisional - fl. 199.
+Com efeito, é firme a jurisprudência deste Tribunal Superior no sentido de que o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, depende da comprovação inequívoca de o réu esteja extremamente debilitado, por motivo de grave doença aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra, o que não ocorreu nos autos.
+A propósito: AgRg nos EDcl no HC n. 906.481/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024; AgRg no HC n. 908.993/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/7/2024; AgRg no RHC n. 188.776/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024 e AgRg no RHC n. 186.041/RO, de minha relatoria, Quinta Turma, DJe de 19/4/2024.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. denego a ordem
+Ante o exposto, denego a ordem.
+Publique-se. Intimem -se.
+EMENTA
