@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por BANCO DA AMAZÔNIA S.A., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de Mato Grosso assim ementado (e-STJ, fl. 559):
+AGRAVO INTERNO EM RECURSO DE APELAÇÃO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - EXTINÇÃO DO FEITO - RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE - APELAÇÃO DESPROVIDA - REDISCUSSÃO DO CONTEÚDO DECIDIDO - DECISÃO FUNDAMENTADA - RECURSO QUE NÃO IMPUGNA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA - AUSÊNCIA DE ELEMENTOS NOVOS CAPAZES DE MODIFICAR O - RECURSO DESPROVIDO. DECISUM
+Encontrando-se a decisão devidamente fundamentada e não havendo nos autos elementos novos capazes de modificar o entendimento quanto ao desprovimento do recurso de apelação interposto pelo exequente, ora agravante, contra a sentença oque julgou extinto o processo, ante a ocorrência da prescrição intercorrente, desprovimento do agravo interno é medida que se impõe.
+No recurso especial, o recorrente apontou, além de divergência jurisprudencial, violação do art. 206, § 5º, I, do CC.
+Esclareceu que se opôs ao acórdão por manter a extinção do processo com base na ocorrência de prescrição intercorrente.
+Afirmou que não ocorreu a implementação desse prazo prescricional, tendo em vista que esta lide tem por objeto Cédula de Crédito Bancário FIS 0109704/0058-6, com vencimento em 10/2/2009, cuja petição inicial foi ajuizada em 25/7/2006, logo a demanda foi ajuizada dentro do prazo de validade do título executivo extrajudicial.
+Destacou que os julgadores entenderam que a última movimentação do processo foi em 29/9/2017, mas, compulsando-se aos autos, observar-se-á que o exequente impulsionou o feito em 6/6/2019, portanto não há falar em ocorrência de prescrição intercorrente, pois tal prazo só ocorreria em 6/6/2024. Requereu o provimento do recurso especial (e-STJ, fls. 582-590).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 610-616).
+Contraminuta não apresentada (e-STJ, fls.621-622).
+Brevemente relatado, decido.
+O acórdão concluiu que foi implementado o prazo da prescrição intercorrente. A demanda teria sido suspensão em 29/9/2016, iniciando-se a contagem do período de prescrição em 29/9/2017, a qual transcorreu até 29/9/2022, ensejando a tal prescrição.
+Leia-se (e-STJ, fls. 574-575):
+Com efeito, o exequente busca a execução de título executivo extrajudicial consistente em cédula de crédito bancário e o Código Civil no seu art. 206, § 5º, I, estabelece que prescreve no prazo de 5 (cinco) anos a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular, de modo que o credor dispõe desse lapso temporal para satisfação do seu crédito.
+Em 29/09/2016 (ID. 192097655 - Pág. 6) houve a suspensão formal dos autos da execução, fato essencial para o início da contagem do prazo de prescrição intercorrente.
+Assim, aplica-se o prazo prescricional de cinco anos a partir do decurso do prazo de 01(um) ano. E o termo inicial do prazo prescricional, na vigência do CPC/73, "conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei nº 6.830/1980)". A suspensão se deu aos 29/09/2016 (ID. 192097655 - Pág. 6). Escoado o prazo de 01 (um) ano da suspensão em 29/09/2017, foi iniciada a contagem do prazo prescricional. O prazo fatal se deu em 29/09/2022.
+Evidente a propalada prescrição intercorrente. Sobreleva pontuar que foram requeridos diversos outros pedidos nesse ínterim que não tem o condão de interromper o prazo prescricional.
+Em outras palavras, não há como eternizar a lide executiva, movimentando-se a máquina judiciária com reiteradas pesquisas e atos meramente protelatórios que não buscam a satisfação do " ". quantum debeatur
+Há de se atentar que não se trata de aplicação retroativa do novo CPC (cuja previsão nesse sentido é expressa), mas sim de aplicação analógica do art. 40, § 2º, da Lei 6.830/1980, já vigente na época da prolação da decisão que determinou a remessa dos autos ao acervo.
+Nesse sentido:  .. .
+Essas ponderações foram extraídas da análise fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ, verbete que incide sobre ambas as alíneas do permissivo constitucional.
+O insurgente não busca a mera qualificação jurídica desse quadro, mas sua reanálise, o que é vedado em recurso especial.
+A casa bancária apenas menciona que impulsionou o feito em 2019, contudo não questiona a tese do julgamento no sentido que foram requeridos diversos outros pedidos durante o período quinquenal, os quais não tiveram o condão de interromper o prazo prescricional. Configura-se, portanto, o óbice sumular n. 283/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Deixo de majorar os honorários sucumbenciais de acordo com o decidido nos EDcl no AgInt no REsp 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017, haja vista que a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. IMPLEMENTAÇÃO DA PRESCRIÇÃO INTERCORRENTE. SÚMULA 7/STJ. CARÊNCIA DE ATAQUE A RELEVANTE PREMISSA DO JULGAMENTO - ÓBICE SUMULAR N. 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
