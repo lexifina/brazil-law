@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MARIA DO CARMO CARREIRA DOS SANTOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PROCESSUAL CIVIL - CUMPRIMENTO DE SENTENÇA - OBRIGAÇÃO DE PAGAR QUANTIA CERTA - CRÉDITO DECORRENTE DE REVERSÃO DE COTA-PARTE DE PENSÃO POR MORTE DE SERVIDOR FALECIDO - PRESCRIÇÃO DAS PRESTAÇÕES ANTERIORES AO QÜINQÜÊNIO QUE PRECEDEU O AJUIZAMENTO DA AÇÃO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 502 e 508 do CPC; e 202, parágrafo único, do CC, no que concerne ao reconhecimento da ocorrência da coisa julgada tendo em vista que a decisão que tratou da unicidade do benefício tornou-se imutável e indiscutível na sentença do mandado de segurança impetrado em 2006, trazendo a seguinte argumentação:
+Como demonstrado no tópico anterior, a SPPREV - desde 2005 - deveria cumprir a decisão proferida no mandado de segurança que determinou, expressamente, a UNIFICAÇÃO DO BENEFÍCIO PREVIDENCIÁRIO, no caso de morte de qualquer um dos beneficiários.
+Não houve a prescrição da pretensão de MARIA DO CARMO.
+Inexiste qualquer condicionante!
+A decisão deveria ser cumprida, tão logo fosse cientificada da alteração do quadro de beneficiários, sendo desnecessário obter nova decisão judicial para fazer valer a reversão da cota-parte.
+ ..
+A decisão que tratou da unicidade do benefício, tornou-se imutável e indiscutível na sentença do mandado de segurança impetrado em 2006 (fl. 190).
+Negar os efeitos dessa decisão, é violar a segurança jurídica! É rediscutir matéria que, a muito, havia sido decidida pelo Poder Judiciário. É reabrir discussão para o mesmo tema quando já presente decisão definitiva sobre a matéria.
+ ..
+A Recorrida NÃO REVERTEU a decisão proferida no mandamus e, por conseguinte, não poderia alegar DESCONHECIMENTO da obrigação que lhe cabia.
+Mister repetir: a inusitada decisão que ora se combate, coloca em risco a SEGURANÇA JURÍDICA, ao ignorar a eficácia de decisão anterior (prolatada em outra demanda, envolvendo as mesmas partes), que já havia reconhecido que o benefício previdência não poderia ser fracionado, pela morte de qualquer um dos beneficiários.
+Ocorrido o evento morte, a unificação era a medida que se impunha!
+É preciso, ainda, destacar que, no presente caso, verifica-se que a r. decisão recorrida desconsiderou os marcos temporais relativos aos requerimentos formulados pela Recorrente e, PIOR, negou vigência ao parágrafo único do artigo 202 do Código Civil:  ..  - fl. 191.
+Desde o falecimento de ROSELI (2011), MARIA DO CARMO tem buscado fazer valer a sentença proferida naquele mandamus e, desde então, a SPPREV tem criado empecilhos para fazer o pagamento das parcelas devidas nesse período.
+Se prevalecer a r. decisão recorrida - o que não se acredita - haverá a anômala situação de uma decisão posterior, proferida dentro de um cumprimento de sentença, PRODUZIR EFEITOS RESCISÓRIOS de outra, anterior, há muito tempo consolidada.
+Logo, não há que se falar em prescrição quando a titular faz o seu requerimento na via administrativa e, posteriormente, É SURPREENDIDA POR OUTRA DECISÃO JUDICIAL, (DE IDÊNTICA HIERARQUIA), que desconsidera os efeitos jurídicos há muito produzidos entre as partes (fl. 192).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Sem razão a agravante quando argumenta com a existência de coisa julgada material. A causa de pedir do mandado de segurança nº 0015984-89.2005.8.26.0053, ajuizado em 2005, foi o indeferimento da reversão da cota-parte da pensão da herdeira neta, em razão do advento da maioridade, para as herdeiras filhas, sem qualquer menção à reversão da cota parte entre as irmãs Maria do Carmo e Roseli. A referida decisão tem força de lei nos limites da questão principal expressamente decidida (art. 503 CPC), não fazendo coisa julgada os motivos que ensejaram a decisão, ainda que importantes para determinar o alcance da parte dispositiva da sentença (art. 504, I, CPC).
+Deveras, o título executivo formado no processo de conhecimento é fruto de nova relação jurídica constituída a partir do óbito da beneficiária Roseli (processo nº 1028313-62.2018.8.26.0053), onde reconhecido o direito da autora à reversão da cota-parte da pensão por morte que era paga à beneficiária Roseli Carreira dos Santos, desde o falecimento desta, observada a prescrição quinquenal (fls. 27/33). É esse o título executivo objeto do cumprimento de sentença.
+Como se percebe, a coisa julgada formada no mandado de segurança é restrita à reversão da cota-parte da herdeira neta em favor das herdeiras filhas do instituidor do benefício. Com o óbito da beneficiária Roseli nova relação jurídica teve início entre a exequente e a SPPREV, quando do indeferimento administrativo da reversão da cota-parte da beneficiária falecida, que, pelo princípio da actio nata, fez surgir o direito de ação e deu início à contagem do prazo de prescrição.
+O fato de a exequente ter pleiteado a reversão da pensão no mandado de segurança não suspende a prescrição, que somente se interrompeu com a propositura da ação de procedimento comum, objeto do presente cumprimento de sentença. Tanto isso é verdade, que a própria agravante se conformou com o indeferimento do pedido de reversão da pensão feito por ela nos autos do mandado de segurança (fls. 21).
+Correta, portanto, a decisão agravada ao reconhecer a prescrição das prestações anteriores ao quinquênio que precedeu o ajuizamento da ação, na conformidade da Súmula nº 85 do STJ (fls. 177-178).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto a pretensão recursal consiste no reconhecimento da violação à coisa julgada através da revisão da interpretação do teor do título executivo judicial realizada pelo acórdão recorrido, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido , a jurisprudência do STJ firmou que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp 770.444/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 15.3.2019).
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.588.826/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 1º.7.2020; REsp 1.431.610/GO, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 26.2.2019; e AgRg no AREsp 755.581/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29.2.2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
