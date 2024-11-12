@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de JOSE WILLIAN ALVES VILASBOAS - condenado por roubo simples e descumprimento de medida protetiva de urgência a 5 anos, 7 meses e 6 dias de reclusão, 4 meses e 22 dias de detenção, e 13 dias-multa -, atacando-se decisão monocrática proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fls. 50/63 - Revisão Criminal n. 2326372-39.2024.8.26.0000), não comporta processamento.
+Com efeito, busca a impetração a desclassificação da conduta delitiva de roubo simples para furto - referente à condenação proferida na Ação Penal n. 1501051-95.2023.8.26.0541 (fls. 16/28 - da 2ª Vara da comarca de Santa Fé do Sul/SP), mantida em grau de apelação (fls. 29/48) -, ao argumento de que o simples fato de dizer que poderia dar um tiro na cara da vítima, por si só, não teve o poder de subjugar completamente a vontade da vítima ou impedi-la de reagir, não caracterizando o delito de roubo (fl. 8).
+Inicialmente, tem-se que não deveria ser processada a impetração, pois a apreciação da pretensão mandamental por este Tribunal Superior só é possível no caso de esgotamento de instância de origem, o que não aconteceu no presente caso, uma vez que a decisão monocrática não foi impugnada pelo recurso cabível para submetê-la à apreciação do órgão colegiado.
+Nesse sentido: AgRg no HC n. 929.249/BA, Ministro Og Fernandes, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; e AgRg no HC n. 935.620/RS, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024.
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado, pois a pretensão de desclassificação da conduta de roubo para furto demandaria reexame probatório (AgRg no AREsp n. 2.532.134/SP, Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, julgado em 26/8/2024, DJe de 29/8/2024), inviável na via eleita.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA. ESGOTAMENTO DA INSTÂNCIA DE ORIGEM. AUSÊNCIA. ROUBO SIMPLES E DESCUMPRIMENTO DE MEDIDA PROTETIVA DE URGÊNCIA. DESCLASSIFICAÇÃO. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
