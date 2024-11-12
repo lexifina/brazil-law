@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de TIAGO LOURES DO CARMO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Agravo de Execução Penal nº 1.0079.15.048281-2/004).
+Consta dos autos que o juízo da execução penal indeferiu o pedido de indulto formulado com base no Decreto Presidencial nº 11.302/2022.
+O Tribunal local negou provimento ao agravo em execução, em julgado assim ementado (fl. 24):
+AGRAVO EM EXECUÇÃO - INDULTO - DECRETO Nº 11.302/22 - INCONSTITUCIONALIDADE - INOCORRÊNCIA - DISCRICIONARIEDADE DO PRESIDENTE DA REPÚBLICA - OPORTUNIDADE E CONVENIÊNCIA DO EXECUTIVO - CLÁUSULA DE RESERVA DE PLENÁRIO - NÃO VIOLAÇÃO - REQUISITOS - CONCURSO DE CRIMES - CRIME IMPEDITIVO - REQUISITOS NÃO ATENDIDOS - CONCESSÃO - NÃO CABIMENTO - 1. O indulto expressa uma manifestação de clemência, veiculada por ato discricionário expedido pelo chefe do Poder Executivo da órbita federal (artigo 84, parágrafo único, inciso XII, da Constituição Federal), com requisitos e extensão definidos no decreto expedido para esse fim. - 2. Em observância ao princípio da separação de poderes, não cabe ao Poder Judiciário estabelecer ou exigir outros critérios para conceder ou negar o benefício. - 3. Ao editar o Decreto nº 11.302/22, o chefe do Poder Executivo Federal, no exercício do poder discricionário que lhe é conferido pela Constituição Federal, deliberou pela não fixação de requisito objetivo de cumprimento de determinado lapso temporal da pena para a concessão do indulto natalino. - 4. Não viola a cláusula de reserva de plenário a decisão de órgão fracionário que cuida de matéria já apreciada pela Suprema Corte, em decisão do Tribunal Pleno, como assentado no Tema 856, editado pelo Supremo Tribunal Federal, na sistemática de repercussão geral (precedente vinculante). - 5. O não atendimento aos requisitos objetivo e subjetivo estipulados no Decreto torna inviável a concessão do indulto natalino.
+Daí o presente habeas corpus, no qual a defesa sustenta, em apertada síntese, que a parte paciente preenche plenamente os requisitos do Decreto Presidencial nº 11.302/2022 para a concessão do indulto natalino.
+Alega que o parágrafo único do art. 11 do Decreto exige o cumprimento da pena do crime impeditivo apenas nas hipóteses de haver concurso de crimes.
+Aponta que o delito que está sujeito a indulto não foi perpetrado em conjunto com quaisquer das infrações que impedem a concessão, conforme previsto no artigo 7º (artigo 11, parágrafo único).
+Requer a concessão imediata do indulto natalino para o crime tipificado no artigo 12, "caput", da Lei n.º 10.826/03.
+As informações foram prestadas às fls. 45-59 e fls. 63-80.
+O Ministério Público Federal lançou o parecer sob a seguinte ementa (fls. 85-88):
+Habeas Corpus substitutivo de recurso próprio. Execução penal.
+- Indulto. Decreto 11.302/2022. Interpretação do parágrafo único do artigo 11. Cumprimento integral da pena por crime impeditivo. Condição que não se restringe à concessão do benefício apenas se o delito a ser indultado tiver sido cometido em concurso formal ou material com o crime impeditivo. Entendimento recente da Terceira Seção do STJ que se alinhou ao posicionamento já adotado pelo STF.
+- Promoção pelo não conhecimento do writ, mas, caso conhecido, pela denegação da ordem.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+ ..
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..  (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..
+II - O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  ..  (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem -se.
+ EMENTA
