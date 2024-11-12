@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 06/11/2024 a 12/11/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que apresenta razões dissociadas do acórdão embargado, não apresenta razões ou não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015, caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida.
+II - Embargos de declaração não conhecidos.
+RELATÓRIO
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. DECISÃO DA CORTE ESPECIAL QUE RECONHECEU A INTEMPESTIVIDADE DO AGRAVO. AUSÊNCIA DE TERATOLOGIA, ABUSO OU MANIFESTA ILEGALIDADE. NÃO CABIMENTO DE MANDADO DE SEGURANÇA. AGRAVO INTERNO IMPROVIDO. I - O presente feito decorre de mandado de segurança impetrado em desfavor de acórdão proferido pela Corte Especial, que considerou intempestivo o recurso de agravo contra decisão que inadmitiu recurso especial no AR Esp n 1.905.514/RJ. No Superior Tribunal de Justiça, o mandado de segurança foi denegado. II - O mandado de segurança é a ação constitucional destinada a "proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça". III - Na hipótese, tem-se que a impetração está voltada contra ato judicial na verdade, sendo farto o entendimento no sentido de seu cabimento em hipóteses excepcionais, desde que demonstrada a teratologia ou flagrante ilegalidade, situação não verificada no caso concreto, em que o decisum atacado apontou de forma clara e bem fundamentada a intempestividade do recurso apresentado pela parte. IV - Frise-se que o impetrante no momento da interposição do agravo em recurso especial não anexou documento oficial válido e hábil a demonstrar a suspensão dos prazos processuais no Tribunal fluminense e ao se limitar a mencionar e transcrever os dispositivos normativos que o regulamentou no bojo de suas razões recursais, não se desincumbiu da exigência legal contida no art. 1.003, § 6º, do CPC. Nesse sentido: AgInt no AR Esp: 2.119.027 BA 2022/0128041-7, relator: Ministro Moura Ribeiro, Data de Julgamento: 30/10/2023, T3 - Terceira Turma, Data de Publicação: D Je 3/11/2023. V - A pretensão nada mais é do que uma tentativa de revisar o acórdão proferido nos autos do AgInt no Agravo em Recurso Especial n. 1.905.514/RJ, por meio dos quais foi rejeitado seu pedido, mostrando-se evidente o descabimento da impetração, conforme farto entendimento jurisprudencial da Corte: AgInt no MS n. 29.573/DF, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 29/11/2023, D Je de 4/12/2023; AgInt no MS n. 29.649/DF, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 29/11/2023, D Je de 5/12/2023. VI - Agravo interno improvido.
+Foram opostos embargos de declaração.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que apresenta razões dissociadas do acórdão embargado, não apresenta razões ou não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015, caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida.
+II - Embargos de declaração não conhecidos.
+VOTO
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz, de ofício ou a requerimento, e/ou corrigir erro material.
+O caput do art. 1.023 do Código de Processo Civil de 2015 aponta expressamente o dever do embargante de indicar a omissão, obscuridade ou contradição na decisão, ônus do qual não se desincumbiu o recorrente.
+A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos supramencionados vícios implica o não conhecimento dos embargos de declaração por descumprimento dos requisitos legais. A mera criação de tópico nas razões recursais sem a apresentação de forma clara do vício supostamente verificado é insuficiente. Nesse sentido é a jurisprudência:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC. RECURSO NÃO CONHECIDO.
+1. A ausência de indicação, nas razões dos embargos de declaração, da presença de quaisquer dos vícios enumerados no art. 1.022 do Código de Processo Civil (CPC) implica o não conhecimento do recurso, pois descumpridos os requisitos previstos no art. 1.023 do mesmo diploma legal.
+2. Embargos de declaração não conhecidos.
+(EDcl no AgInt no AREsp n. 2.126.595/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/3/2024, DJe de 21/3/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. INDICAÇÃO. AUSÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que o embargante utiliza-se do recurso integrativo para apresentar razões dissociadas da fundamentação do acórdão embargado.
+3. Embargos de declaração não conhecidos.
+(EDcl no AgInt no AREsp n. 2.191.735/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em
+11/9/2023, DJe de 15/9/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ARGUMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF.
+1. O presente agravo interno foi interposto contra acórdão publicado na vigência do CPC/2015, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Os embargos de declaração não comportam conhecimento, uma vez que deficiente sua fundamentação, visto que a parte recorrente não fundamentou o recurso na violação do art. 1.022 do CPC, tampouco especificou quais de seus incisos teriam sido contrariados, a despeito da indicação de omissão. Incidência da Súmula n. 284/STF.
+Precedentes.
+3. Embargos de declaração não conhecidos.
+(EDcl no AgInt nos EDcl no REsp n. 2.004.300/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/6/2023, DJe de 21/6/2023.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO DESACOMPANHADO DAS RESPECTIVAS RAZÕES. RECURSO MANIFESTAMENTE INADMISSÍVEL. 1. Conforme jurisprudência pacífica desta Corte Superior, não se conhece de recurso interposto por meio eletrônico em que a petição está desacompanhada das razões, sendo dever da parte fiscalizar sua exata transmissão, assim como é incabível posterior regularização. 2. Agravo interno não conhecido. (AgInt no AgInt no REsp n. 1.643.404/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 23/11/2020, DJe de 26/11/2020.)
+Ante o exposto, não conheço dos embargos de declaração.
+É o voto.
