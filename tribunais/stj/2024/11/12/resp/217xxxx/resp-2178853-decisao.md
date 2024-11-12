@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A. (NOTRE DAME), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, da relatoria do Des. ALEXANDRE MARCONDES, assim ementado:
+Plano de saúde. Ação de obrigação de fazer c.c. indenização por danos morais. Sentença de procedência. Insurgência da ré. Preliminar de ausência de interesse de agir rejeitada. Demora imotivada na realização da cirurgia. Cobertura contratual incontroversa. Agendamento e realização da cirurgia somente se deram após a decisão judicial que deferiu a tutela de urgência. Demora no trâmite administrativo que importa em recusa tácita. Ato ilícito configurado. Descumprimento contratual inequívoco. Danos morais. Desnecessidade de específica comprovação. Prejuízo presumido ("in re ipsa"). Inviabilidade de redução do montante fixado em primeiro grau (R$ 10.000,00). Honorários advocatícios sucumbenciais. Inadmissibilidade da adoção do valor da causa como base de cálculo da verba. Fixação sobre o valor da condenação. Inteligência do art. 85, § 2º, do CPC. Recurso parcialmente provido (e-STJ, fl. 476.).
+Nas razões do presente recurso, NOTRE DAME alegou a violação dos arts. 186, 422 e 927 do CC, ao sustentar, em síntese, o não cabimento da condenação por danos morais, ante a ausência de comprovação da prática de ato ilícito.
+É  o  relatório.
+Decido.
+A insurgência não merece prosperar.
+(1)  Do dever de cobertura
+A propósito do tema, o acórdão impugnado destacou o seguinte:
+Quanto aos danos morais, entende-se que estão eles devidamente configurados, devendo ser mantida a indenização correspondente.
+Com efeito, o retardamento infundado na realização da cirurgia prescrita, de modo expresso ou tácito, envolveu o autor em aflitivo estado de angústia, transcendendo o simples aborrecimento cotidiano, desconforto ou infortúnio não indenizável.
+O dano moral deve ser considerado "in re ipsa" na espécie, dispensando, assim, específica comprovação (e-STJ, fl. 483.).
+Portanto,  o  acórdão  recorrido  concluiu  que  a  condenação  por  danos  morais  é  devida,  tendo  em  vista  que  a  negativa  da  cobertura  do  tratamento  indicado,  ocasionou  sofrimento  e  tristeza  à  parte  beneficiária  do  plano  de  saúde.
+O  entendimento  firmado  no  STJ  é  de  que  a  recusa  injustificada  de  cobertura  de  tratamento  de  saúde  enseja  danos  morais  em  razão  do  agravamento  da  aflição  e  angústia  do  segurado  que  já  se  encontra  com  sua  higidez  físico-psicológica  comprometida  em  virtude  da  enfermidade.
+A  propósito
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  ATENDIMENTO  HOME  CARE.  NEGATIVA.  ABUSIVIDADE.  DOENÇA  COBERTA  PELO  PLANO.  ENTENDIMENTO  EM  HARMONIA  COM  O  STJ.  DANO  MORAL.  OCORRÊNCIA.  REEXAME.  SÚMULA  7/STJ.  VALOR  DA  INDENIZAÇÃO.  RAZOABILIDADE  NA  FIXAÇÃO.  SÚMULA  7/STJ.
+1.  Descabida  a  negativa  de  cobertura  de  procedimento  indicado  pelo  médico  como  necessário  para  preservar  a  saúde  e  a  vida  do  beneficiário  do  plano  de  saúde.  Precedentes  do  STJ.
+2.  A  recusa  indevida  pela  operadora  do  plano  de  saúde  em  autorizar  a  cobertura  de  Home  Care  devidamente  prescrito  para  o  tratamento  de  doença  coberta  pelo  plano,  configurou  danos  morais  indenizáveis,  pois  "agravou  a  situação  de  aflição  psicológica  e  de  angústia  no  espírito  da  paciente  de  83  (oitenta  e  três)  anos  de  idade,  uma  vez  que,  ao  ter  negada  o  tratamento  requerido  que  se  revelava  essencial  à  melhora  de  seu  estado  de  saúde,  já  se  encontrava  em  condição  de  dor,  abalo  e  saúde  debilitada."
+3.  Valor  indenizatório  estabelecido  pelo  Tribunal  de  origem  que  não  se  mostra  excessivo  a  justificar  sua  reavaliação  em  recurso  especial.
+4.  O  recurso  especial  não  comporta  exame  de  questões  que  impliquem  incursão  no  contexto  fático-probatório  dos  autos,  a  teor  do  que  dispõe  a  Súmula  n.  7  do  STJ.  5.  Agravo  Interno  não  provido.
+(AgInt  no  AREsp  1.450.491/RJ,  Rel.  Ministro  PAULO  DE  TARSO  SANSEVERINO,  Terceira  Turma,  julgado  em  8/6/2020,  DJe  12/6/2020)
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  INTERRUPÇÃO  ABRUPTA  DO  ATENDIMENTO  HOME  CARE.  INDENIZAÇÃO  POR  DANOS  MORAIS  DEVIDA.  PRECEDENTES.  APLICAÇÃO  DA  SÚMULA  N.  83/STJ.  MONTANTE  INDENIZATÓRIO.  PLEITO  DE  REDUÇÃO.  NÃO  DEMONSTRADA  A  ABUSIVIDADE  NO  VALOR  FIXADO  NAS  INSTÂNCIAS  ORDINÁRIAS.  APLICAÇÃO  DA  SÚMULA  7/STJ  AGRAVO  INTERNO  NÃO  PROVIDO.  1.  É  pacífica  a  jurisprudência  da  Segunda  Seção  no  sentido  de  reconhecer  a  existência  do  dano  moral  nas  hipóteses  de  recusa  injustificada  pela  operadora  de  plano  de  saúde,  em  autorizar  tratamento  a  que  estivesse  legal  ou  contratualmente  obrigada,  por  configurar  comportamento  abusivo.  Incidência  da  Súmula  n.  83/STJ.
+2.  O  valor  arbitrado  a  título  de  danos  morais  pelo  Julgador  a  quo  observou  os  critérios  de  proporcionalidade  e  de  razoabilidade,  visto  que  o  montante  fixado  não  se  revela  exorbitante,  e  sua  eventual  redução  demandaria  reexame  de  provas  (Súmula  n.  7/STJ).
+3.  Agravo  interno  a  que  se  nega  provimento.
+(AgInt  no  AREsp  1.315.491/PR,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  Quarta  Turma,  j.  em  4/12/2018,  DJe  11/12/2018.).
+Ademais,  na  espécie,  a  revisão  do  julgado  com  o  consequente  acolhimento  da  pretensão  recursal,  no  sentido  de  afastar  a  condenação  por  danos  morais,  não  prescindiria  do  reexame  das  premissas  fático-probatórias  da  causa,  o  que  não  se  admite  no  âmbito  de  recurso  especial,  ante  o  óbice  da  Súmula  nº  7  do  STJ.
+  Portanto,  não  merece  reforma  o  acórdão  recorrido  quanto  a  indenização  por  danos  morais.
+Nessas  condições,  NÃO CONHEÇO  do  recurso  especial.
+Inaplicável a majoração dos honorários recursais.
+Por  oportuno,  previno  que  a  interposição  de  recurso  contra  esta  decisão,  se  declarado  manifestamente  inadmissível,  protelatório  ou  improcedente,  poderá  acarretar  condenação  às  penalidades  fixadas  nos  arts.  1.021,  §  4º,  ou  1.026,  §  2º,  ambos  do  NCPC.
+Publique-se.  Intimem-se.
+EMENTA
+CIVIL.  CONSUMIDOR.  RECURSO  ESPECIAL.  PLANO DE SAÚDE. AGENDAMENTO DE CIRURGIA.  RECUSA  INJUSTIFICADA.  DANOS  EXTRAPATRIMONIAIS  CARACTERIZADOS.  INVERSÃO DE ENTENDIMENTO. NECESSIDADE.  REEXAME  DE  PROVAS.  DESCABIMENTO.  VEDAÇÃO. SÚMULA  Nº  7  DO  STJ.  RECURSO  ESPECIAL  NÃO  CONHECIDO.
