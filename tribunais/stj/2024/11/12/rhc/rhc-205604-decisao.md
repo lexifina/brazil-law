@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por JOFRAN DE MACEDO COSTA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.24.401329-8/000).
+Consta que o recorrente foi preso em flagrante, e após preventivamente, pela suposta prática dos crimes previstos nos arts. 33 c/c o art. 40, inciso V, ambos da Lei n. 11.343/2006; e 16 da Lei n. 10.826/2003, pelos quais foi denunciado.
+Neste recurso ordinário, a Defesa sustenta, em síntese, a ausência de fundamentação idônea e dos requisitos necessários para a prisão preventiva do acusado.
+Salienta que o réu possui condições pessoais favoráveis e que é possível a imposição de medidas cautelares alternativas.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura, ainda que sejam fixadas as medidas cautelares previstas no art. 319 do Código de Processo Penal.
+O pedido liminar foi indeferido (fls. 308-310).
+As informações foram prestadas (fls. 319-337).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 341-350).
+É o relatório.
+DECIDO.
+No caso, o Tribunal de origem manteve a prisão cautelar do ora recorrente conforme a fundamentação a seguir (fls. 243-250; grifamos):
+Consoante exposto, o paciente foi preso em flagrante pela prática, em tese, dos delitos previstos no art. 33, c/c art. 40, V, da Lei n.º 11.343/2006, e no art. 16 da Lei n.º 10.826/2003 (ordem 6, p. 4-7). Sobre os fatos, transcrevo o relato do policial condutor no APFD (ordem 1, p. 5-6):
+(..)
+Comunicada da prisão em flagrante, a autoridade indigitada coatora homologou-a e converteu-a em preventiva, nos seguintes termos (ordem 36):
+"(..)
+De início cumpre salientar que a prisão deu-se de forma a obedecer o artigo 302 do Código de Processo Penal, havendo efetivamente estado de flagrância, tendo, lado outro, a ilustre autoridade policial obedecido aos requisitos formais quando da lavratura do APFD, pelo que não se enxerga qualquer vício que possa justificar o relaxamento, com destaque para a operação policial realizada, os registros no APFD de que havia motivos para a busca realizada, bem como o estado de flagrância e apreensão de alta quantidade de drogas. o que constitucionalmente afasta qualquer necessidade de mandado judicial, razão pela qual RATIFICO a prisão em flagrante e Indefiro o pedido da Defesa de relaxamento da prisão em flagrante.
+(..)
+No caso vertente, narrou o Condutor ter aportado na Delegacia de Repressão a Entorpecentes informação de inteligência dando conta de que um veículo Nissan estaria se deslocando de São Paulo, sentido Belo Horizonte, transportando drogas, motivo pelo qual se posicionaram na Rodovia 381, km 537, em um Posto de Fiscalização da PRF, bem como nas proximidades de um pedágio também localizado na BR 381, Km 546.
+Ressai do APFD que, por volta das 05:45h o veículo foi avistado no posto de pedágio, tendo parte da equipe se posicionado mais à frente, no posto de fiscalização da PRF, sendo que a aproximadamente 01 km de distância do posto da PRF há um retorno, tendo o veículo diminuído a velocidade drasticamente e de maneira brusca feito o retorno, o que levou à abordagem do automóvel, o qual era conduzido por Jofran de Macedo Costa e tinha como passageira Sara Coelho Teixeira Soares, tendo eles apresentado versões conflitantes, sendo que o ora conduzido se mostrava muito nervoso.
+Narra que então iniciaram a vistoria no veículo, constatando um barulho estranho no console acima do porta-luvas, sendo que ao ser retirada a tampa, descobriu-se um fundo falso, com abertura eletrônica onde foram localizados 15 tablets de substância semelhante à cocaína e 3 armas de fogo tipo pistola e possível calibre 9mm, tendo Jofran assumido a propriedade dos materiais, narrando que para transportá-los receberia a quantia de R$ 3.000,00 de da pessoa de Rodrigo.
+Concluiu o condutor acreditar que a manobra repentina realizada se deu em razão de haver um outro veículo mais adiante batendo a carga ilícita de drogas e armas. A abordada Sara Coelho, quem acompanhava o flagrado, narrou, em síntese, tê-lo conhecido há aproximadamente 03 meses, sendo que estava procurando por emprego e o ora flagrado lhe ofereceu a quantia de R$ 500,00 para acompanhá-lo até Minas Gerais. Informou ter perguntado ao flagrado se uma amiga poderia lhes acompanhar, tendo Jofren negado.
+Aduziu que então marcaram o horário de saída, no dia 28.08.2024, sendo que lá chegando se deparou com um terceiro indivíduo, quem disse que iria mais a frente, sendo que durante o caminho Jofren recebia ligações deste indivíduo perguntando onde estavam.
+Por fim, afirmou que acompanhou quando os materiais foram localizados, narrando que Jofren permaneceu calmo, aparentando possuir conhecimento acerca da existência dos materiais.
+Ao ser ouvido perante a Autoridade Policial, o flagrado manifestou o desejo de permanecer em silêncio.
+Analisando atentamente os autos, observo evidente a presença da necessidade de se garantir a ordem pública, que se encontra em risco, além de se prezar pela escorreita instrução processual, além de se garantir a a aplicação da e penal, considerando a apreensão de 3 (três) armas de fogo e quantidade considerável de 15 tabletes de entorpecente, trazidas de outro estado.
+Ao analisar a FAC e CAC do flagrado em ID10297689514 e 10297652163, verifica- se que não ostenta ficha criminal no estado de Minas Gerais, contudo, verifica-se que o autor do estado de São Paulo, todavia, a primariedade no tráfico de drogas não tem o condão de, por si só, afastar o reconhecimento da prática do delito pela primeira vez, diante dos relatos e provas aqui trazidos para apreciação.
+(..)
+O laudo preliminar colacionados em ID10297627173, confirmou que a substância apreendida, totalizando 19.06 kg, é de fato "cocaína".
+In casu, a garantia da ordem pública preenche tais requisitos e se faz necessária, haja vista a possibilidade de praticar novos delitos da mesma natureza, sendo certo que se permanecer solto poderá continuar praticando novos crimes.
+Os fatos em questão merecem melhor e mais aprofundada apuração, que só poderá ser feita durante toda a instrução.
+Ora, se justifica o encarceramento provisório do conduzido, como garantia da ordem pública, no qual se inclui a necessidade de prevenir a reprodução de fatos criminosos e preservar a credibilidade da Justiça, como medida de evitar o risco de novos crimes por parte dele.
+Quanto ao requisito necessidade da custódia cautelar, verifica-se que o acusado, caso venha a ser solto, voltará a praticar ilícitos desta mesma natureza, gerando lesões à saúde pública desta comunidade e ofendendo assim a ordem pública.
+(..)
+Diante de tal realidade as autoridades competentes não podem se conformar com a prática desse crime tão repugnante a sociedade brasileira que afronta a ordem pública e ameaça a paz social da coletividade de forma direta e indireta.
+Desta forma, entendo que estão presentes os requisitos necessários para a manutenção da prisão do flagrado, haja vista que fundada na garantia da ordem pública e garantia da aplicação da lei penal, uma vez que restaram demonstradas a materialidade do delito e indícios suficientes de autoria, além do perigo gerado pelo estado de liberdade do imputado (art. 312 do CPC), sendo os fatos típicos punidos com pena máxima superior a quatro anos (art. 313, I), não havendo fatos novos a justificar a soltura do réu (art. 315, §1º).
+Ante o exposto e de tudo mais que dos autos consta, CONVERTO as prisões em flagrante de JOFRAN DE MACEDO COSTA em PRISÃO PREVENTIVA, determinando que contra eles se expeça mandado de prisão.
+(..)".
+(..)
+No caso, a autoridade apontada como coatora entendeu que era necessário restringir a liberdade do paciente, por meio da medida cautelar mais onerosa, para garantir a ordem pública e apresentou justificativa amparada na situação particular em análise, ao identificar a gravidade concreta da conduta.
+No mesmo viés, ao examinar os documentos pertinentes ao caso concreto, é possível verificar que estão preenchidos os requisitos autorizadores da prisão preventiva, previstos nos arts. 312 e 313 do CPP, com observância, ainda, do disposto no art. 282, § 6º, do CPP.
+A prova da materialidade dos crimes e os indícios da autoria do paciente, que, nos termos do art. 312 do CPP, também devem ser verificados para a adoção da custódia cautelar, são depreendidos, sobretudo do auto de prisão em flagrante delito (ordem 1, p. 4-11; ordem 2-3), do auto de apreensão (ordem 4. P. 2-4) e do exame preliminar de droga de abuso (ordem 5; ordem 6, p. 1-3).
+De acordo com os documentos supracitados, foram apreendidos 19,06 kg (dezenove quilos e seis gramas) de substância que se comportou como cocaína, divididos em 18 (dezoito) tabletes, 3 (três) armas de fogo e 6 (seis) carregadores.
+Friso que não se expressa, neste momento, qualquer juízo condenatório, tratando-se somente de medida de natureza cautelar, a qual exige apenas a probabilidade, e não a convicção da existência de um fato criminoso e de suas circunstâncias.
+Nesse contexto, a aferição da função exercida pelo paciente no âmbito do crime de tráfico de drogas, o qual se apresenta como mero transportador de entorpecentes, vulgarmente conhecido por "mula", demanda profunda análise de matéria fático-probatória, inadequada na estreita via do "habeas corpus".
+Ressalto que, ainda que a conduta seja eventual, não se pode ignorar a maior reprovabilidade concreta do consciente comportamento dirigido à transferência de grande quantidade de droga, mediante remuneração, e com prévio conhecimento da logística afeita ao transporte da substância proscrita.
+Assim, há de se afastar, neste momento, a alegação fundamentada na suposição de que o paciente teria sido contratado apenas para o transporte da substância entorpecente, visto que inviável, em sede de "habeas corpus", a apuração dessa circunstância.
+(..)
+Ademais, verifica-se que a custódia, no caso, mostra-se indispensável para a garantia da ordem pública, tendo em vista que a gravidade concreta dos crimes supera aquela inerente aos tipos penais.
+Nesse sentido, merece relevo a apreensão de exorbitante quantidade de droga, de elevado poder deletério, além de armas de fogo e carregadores, ocultados, em tese, no veículo conduzido pelo paciente, o qual apresentava "fundo falso".
+É relevante ressaltar, ainda, a dinâmica da prisão, haja vista a tentativa do investigado em desvencilhar-se da abordagem policial e o transporte das armas e substância entorpecente entre os municípios de São Paulo/SP para Belo Horizonte/MG, o que sugere a configuração de tráfico interestadual.
+Do excerto transcrito, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a especial gravidade dos fatos, evidenciada pela apreensão de expressiva quantidade de droga (mais de 19kg de cocaína), além de armas de fogo e carregadores, atribuídos ao recorrente.
+Tais circunstâncias demonstram a periculosidade do agente e são aptas a justificar a segregação cautelar para garantia da ordem pública.
+Com efeito,
+(a) jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade das drogas apreendidas e outras circunstâncias do caso revelem a maior gravidade do tráfico, tais dados são bastantes para demonstrar a periculosidade social do réu e a necessidade de garantir a ordem pública, ante o fundado receio de reiteração delitiva (RHC n. 193.876/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024).
+Exemplificativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. NÃO CABIMENTO. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+2. No caso, o juízo bem fundamentou a decretação da prisão preventiva, em razão da gravidade do crime executado, ante a grande quantidade de entorpecentes apreendidos, vale dizer, 8 gramas de cocaína; 235,30 gramas de maconha; e 1,643,77 gramas de crack, além da apreensão de arma de fogo calibre 38, municiada, e mais 6 munições.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 891.088/TO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 16/4/2024, DJe de 19/4/2024).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM P ÚBLICA. GRAVIDADE CONCRETA. DIVERSIDADE DE DROGA APREENDIDA. MATERIAL BÉLICO. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, o decreto de prisão preventiva teve como lastro para a segregação cautelar do agente a diversidade de drogas em poder do acusado e a apreensão de material bélico inclusive de alto potencial ofensivo - a saber, 110g (cento e dez gramas) de cocaína e 77g (setenta e sete gramas) de maconha, além de 10 munições calibre 38, 1 carregador para munição de calibre 5.56 x 45 mm e uma rifle calibre 38. Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+(..)
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 857.652/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da prisão cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
