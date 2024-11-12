@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS) se insurge, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do Tribunal Regional Federal da 1ª Região assim ementado (fl. 260):
+CONSTITUCIONAL. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. APLICAÇÃO DOS NOVOS TETOS ESTABELECIDOS PELAS EMENDAS CONSTITUCIONAIS 20/98 E 41/2003. BENEFÍCIOS CONCEDIDOS ANTERIORMENTE À EC/98. POSSIBILIDADE. JURISPRUDÊNCIA DO PLENÁRIO DO STF EM SEDE DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL. HONORÁRIOS ADVOCATÍCIOS. JUROS DE MORA. CORREÇÃO MONETÁRIA. REFORMA DA SENTENÇA.
+Os embargos de declaração foram rejeitados (fl. 287).
+Nas razões de seu recurso especial, a parte aponta violação, em preliminar, dos arts. 489 e 1.022 do Código de Processo Civil (CPC); no mérito, dos arts. 21, § 4º, e 23, II e III, do Decreto 89.312/1984 e do art. 103, parágrafo único, da Lei 8.213/1991, no que se refere à observância da decadência.
+Alega a impossibilidade de aplicação dos novos tetos instituídos pelas Emendas Constitucionais 20/1998 e 41/2003 aos benefícios concedidos anteriormente à vigência da Constituição Federal de 1988.
+A parte adversa apresentou contrarrazões (fl. 323/333).
+O recurso não foi admitido, razão por que foi interposto o presente agravo.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo, por isso passo ao exame do recurso especial.
+Verifico que inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+O Tribunal Regional Federal da 1º Região decidiu a demanda com base no Recurso Extraordinário 564.354/SE, julgado pelo Plenário do Supremo Tribunal Federal. Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+O recurso especial é incabível porque, embora nele a parte recorrente tenha indicado a violação de dispositivos de lei federal, ele foi interposto a acórdão com fundamento eminentemente constitucional, pois o TRF da 1ª Região amparou-se nas teses fixadas nos Temas 76 e 930 do Supremo Tribunal Federal (STF) para decidir sobre a aplicação imediata das Emendas Constitucionais 20/1998 e 41/2003 aos benefícios previdenciários.
+O exame do alcance e dos limites de tese jurídica fixada pelo STF demanda a interpretação de preceitos e dispositivos constitucionais. Dessa forma, é forçoso reconhecer que não cabe a revisão do acórdão recorrido pela via do recurso especial, sob pena de usurpação de competência do STF, prevista no art. 102 da Constituição Federal.
+Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. BASE DE CÁLCULO. PIS E COFINS. NÃO INCIDÊNCIA. FORMA DE CÁLCULO. ICMS DESTACADO NAS NOTAS FISCAIS VERSUS ICMS A RECOLHER NA COMPETÊNCIA. ACÓRDÃO RECORRIDO FUNDADO EM PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. O Tribunal de origem apenas interpretou o precedente do Supremo Tribunal Federal em repercussão geral para aplicá-lo ao caso concreto, razão pela qual não cabe ao Superior Tribunal de Justiça dirimir a controvérsia em sede de Recurso Especial no pertinente à interpretação constitucional do referido RE 574.706 RG/PR, sob pena de usurpação da competência do Supremo Tribunal Federal prevista no art. 102 da Constituição Federal.
+3. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+(AgInt no AREsp n. 1.578.077/SP, Ministro Manoel Erhardt -Desembargador Convocado do TRF da 5ª Região, Primeira Turma, julgado em 19/4/2021, DJe de 29/4/2021 - sem destaque no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017 - sem destaque no original.)
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, a ele negar provimento.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+EMENTA
