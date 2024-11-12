@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WAGNER SANTOS CERQUEIRA JUNIOR, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente teve decretada prisão preventiva em seu desfavor, nos autos da ação penal em que foi condenado ao cumprimento de 1 ano e 4 meses de reclusão, no regime inicial semiaberto, mais pagamento de 6 dias multa pela prática do delito previsto no art. 155, §4º, IV, c/c o art. 29, §1º, todos do Código Penal, indeferido o direito de apelar em liberdade.
+O impetrante sustenta que o regime prisional fixado pelo Juízo sentenciante, o modo semiaberto, seria incompatível com a manutenção da prisão preventiva. Aduz a existência de constrangimento ilegal também diante da ausência dos requisitos autorizadores da constrição cautelar.
+Afirma que o paciente ostentaria condições pessoais favoráveis, circunstância que denota a suficiência das cautelares alternativas na hipótese dos autos. Requer a revogação da prisão preventiva do paciente, mediante a incidência de medidas cautelares mais brandas.
+A liminar foi indeferida ( fls. 31/33 ).
+As informações foram prestadas (fls.45/65 ).
+O Ministério Público opinou pela denegação da ordem (fls.67/70 ).
+É o relatório. DECIDO.
+Verifico que o presente habeas corpus foi impetrado contra acórdão do Tribunal de Justiça, em substituição a recurso próprio, não podendo ser conhecido.
+A Terceira Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+A hipótese é de não conhecimento. Porém, passo a analisar a possibilidade de concessão de ordem de ofício, na forma do artigo 654, § 2º, do Código de Processo Penal, uma vez que a matéria trazida no presente writ é objeto de jurisprudência consolidada no Superior Tribunal de Justiça.
+Cinge-se a controvérsia dos autos acerca de possível flagrante ilegalidade, consistente na manutenção de prisão preventiva após sentença penal que condenou o paciente à pena de de 1 ano e 4 meses de reclusão, no regime inicial semiaberto, mais pagamento de 6 dias multa pela prática do delito previsto no art. 155, §4º, IV, c/c o art. 29, §1º, todos do Código Penal, indeferido o direito de apelar em liberdade.
+A fundamentação para decretação da prisão preventiva do paciente foi baseada na sua "audácia" na prática do crime, bem como a possibilidade de cometer novos crimes, se solto (fls.12), conforme consta nas razões do voto do relator nos autos do habeas corpus junto ao Tribunal de Justiça :
+mostra-se recomendável a manutenção da prisão cautelar, haja vista a constatação da audácia do Paciente, decorrente das circunstâncias em que praticada a conduta criminosa, a qual, inclusive, leva a crer que, solto, continuará na prática delitiva, mormente sua reincidência específica
+A jurisprudência pacífica do STJ, aliado ao entendimento da Suprema Corte, é no sentido de que é incompatível, salvo exceções, como situações de reiteração delitiva ou violência de gênero, a manutenção da prisão preventiva e a fixação do regime semiaberto na sentença condenatória.
+No caso em tela, ressalto que o juiz prolator da sentença condenatória, expressamente mencionou que a participação do paciente no crime foi de menor importância (fls.22). Entendo, portanto, que a alegada reincidência do paciente não tem o condão de legitimar a manutenção da prisão preventiva.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício em favor de WAGNER SANTOS CERQUEIRA JUNIOR, para revogar a prisão preventiva, sem prejuízo da análise da aplicação de medidas cautelares alternativas pelo juízo competente.
+Publique-se. Intimem-se.
+EMENTA
