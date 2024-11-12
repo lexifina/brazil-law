@@ -1,0 +1,20 @@
+DECISÃO
+Inviável conhecer do agravo interposto por Wellington Fabiano Silva contra a decisão que inadmitiu o recurso especial.
+Conforme orientação jurisprudencial sedimentada nesta Corte, a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No caso, a Corte de origem inadmitiu o recurso especial com base em dois fundamentos: acórdão em consonância com a jurisprudência do STJ e Súmula 7/STJ (fls. 224/226).
+O agravante, no entanto, não impugnou, de forma adequada e suficiente, o primeiro fundamento.
+Ora, inadmitido o recurso especial com base no entendimento de que o acórdão atacado guarda harmonia com a orientação jurisprudencial consolidada nesta Corte, incumbe ao agravante o ônus de demonstrar que a orientação desta Corte é diversa daquela extraída dos precedentes indicados na decisão de inadmissão ou que o caso dos autos ostenta alguma peculiaridade apta a afastar a aplicação dos precedentes indicados na decisão de inadmissão.
+Sobre o tema, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PROMOÇÃO. ATO DE APOSENTADORIA. REVISÃO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE UM DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. SÚMULA 83/STJ. INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. O Enunciado Sumular 83/STJ é aplicável aos recursos interpostos com fulcro nas alíneas "a" e "c"do permissivo constitucional, de modo que, tendo a decisão de inadmissibilidade decidido que o acórdão recorrido estaria em sintonia com a jurisprudência do STJ (Súmula 83/STJ), caberia ao agravante demonstrar, nas razões do agravo, que a orientação jurisprudencial do Superior Tribunal de Justiça é diversa ou que a situação retratada nos autos possui uma peculiaridade que a distingue daquelas objeto dos precedentes invocados, o que não ocorreu na espécie. Precedentes: AgRg no AREsp 1.445.195/RJ, Rel. Min. Sebastião Reis Júnior, DJe 18.9.2019; AgInt AREsp 1.367.809/RS, Rel. Min. Marco Buzzi, Quarta Turma, DJe 21.3.2019.
+2. Não se conhece de Agravo em Recurso Especial que deixa de atacar especificamente todos os fundamentos da decisão de inadmissibilidade, nos termos do art. 253, I, do RISTJ e do art. 932, III, do CPC/2015.
+3. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 1.505.281/RJ, Ministro Herman Benjamin, Segunda Turma, julgado em 12/11/2019, DJe 19/12/2019 - grifo nosso).
+No caso, a Corte de origem citou diversos precedentes desta Corte no sentido da inexistência de critério matemático impositivo para fixação da pena na primeira fase.
+O agravante, no entanto, não deduziu argumentos no sentido de demonstrar a inaplicabilidade dos referidos pr ecedentes ao caso dos autos, tampouco que a orientação atual deste Tribunal Superior é diversa daquela neles retratada, de modo que não logrou impugnar esse fundamento nos moldes preconizados na jurisprudência desta Corte, sendo o caso de não conhecer do agravo (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Ante o exposto, não conheço do agravo (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DE UM DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo não conhecido.
