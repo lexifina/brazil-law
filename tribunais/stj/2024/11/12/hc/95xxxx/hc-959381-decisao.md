@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DENIS SILVA DE CARVALHO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1514655-58.2024.8.26.0228).
+Depreende-se dos autos que o paciente foi condenado, como incurso no art. 157, § 1º, do Código Penal, à pena de 5 anos e 10 meses de reclusão, a ser cumprida no regime inicial fechado.
+A apelação defensiva foi desprovida pelo Tribunal de origem, conforme acórdão assim ementado (e-STJ fl. 13):
+Apelação. Roubo impróprio. Vítima notou o momento em que o réu se apoderou de seu aparelho celular e, ao tentar impedir a ação criminosa, foi agredida por ele mediante um soco. Na posse do bem, o réu se evadiu, porém foi rapidamente detido pela polícia que flagrou a ação delituosa. O aparelho celular foi apreendido em poder dele. Insurgência defensiva em face das penas, requerendo o abrandamento. Impossibilidade. Reprimendas e regime irreprocháveis. Réu possuidor de oito condenações pretéritas definitivas, sendo sete delas utilizadas para recrudescer as penas-base, a teor do artigo 59, do Código Penal e, a remanescente, para caracterizar a reincidência. Bis in idem não verificado. Basilares fixadas à fração de um quarto acima dos mínimos legais, pelos maus antecedentes. Penas agravadas à fração de um sexto. Atenuante da confissão não reconhecida. Réu confirmou apenas a subtração, negando a violência empregada. Negado provimento ao apelo.
+Daí o presente writ, no qual alega a defesa que o paciente sofre constrangimento ilegal decorrente da equivocada dosimetria da reprimenda que lhe foi aplicada.
+Requer, desse modo, inclusive liminarmente, o reconhecimento da atenuante da confissão espontânea e a compensação com a agravante da reincidência, na segunda etapa da dosimetria.
+É o relatório.
+Decido.
+O exame das alegações formuladas pela defesa evidencia, de plano, que a tese declinada no presente writ encontra amparo na jurisprudência firmada no Superior Tribunal de Justiça, razão pela qual vislumbro ser o caso de concessão liminar da ordem.
+É que, na linha da jurisprudência deste Tribunal Superior, "o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada" (REsp n. 1.972.098/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2022).
+No mesmo sentido, cito o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA DA PENA. SEGUNDA FASE. ATENUANTE DA CONFISSÃO. CONFISSÃO PARCIAL. RECONHECIMENTO. NECESSIDADE.
+1. O Juízo de primeiro grau, mais próximo dos fatos, dos testemunhos e da ação penal, entendeu que o ora agravado confessou sua participação no crime, fazendo incidir a respectiva atenuante.
+2. Tendo o paciente reconhecido seu envolvimento no delito, pois confessou parcialmente sua participação, dizendo que fez coisa errada, mas negando ter encostado a mão nas vítimas, deve haver a incidência da atenuante da confissão.
+3. Nos termos da Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para motivar a sua condenação (AgRg no AgRg no HC n. 700.192/SC, Ministro Olindo Menezes - Desembargador convocado do TRF/1ª Região, Sexta Turma, DJe 21/2/2022).
+4. O réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada (REsp n. 1.972.098/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2022).
+5. Agravo regimental improvido.
+(AgRg no HC n. 736.096/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022, grifei.)
+E, no caso dos autos, acerca da controvérsia, colhe-se da decisão colegiada o seguinte (e-STJ fl. 18, grifei):
+Por isso, atento ao caso em julgamento, parece-nos que o montante de um quarto, utilizado pelo magistrado, dada a quantidade de antecedentes que o réu possui (total de sete condenações pretéritas definitivas) encontra-se devidamente fundamentado, merecendo ser respeitado e mantido.
+Na segunda fase, configurada a reincidência (condenação remanescente não utilizada na fase inicial), as penas foram agravadas à fração de um sexto, alcançando o montante de 5 anos e 10 meses de reclusão e 14 dias-multa.
+Não assiste razão ao pleito defensivo quanto ao reconhecimento da confissão, porquanto o apelante confirmou apenas a subtração, na intenção de ter a sua conduta desclassificada para o crime de furto, negando o emprego de violência, não confirmando, portanto, os fatos que lhe foram imputados na exordial acusatória.
+À míngua de outras causas modificadoras, as penas são mantidas inalteradas, no patamar de 5 anos e 10 meses de reclusão e 14 dias-multa.
+Portanto, não havendo dúvidas quanto à ocorrência da confissão, ainda que parcial, faz jus o paciente à incidência da suscitada atenuante, a ser avaliada na segunda etapa da dosimetria.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. DOSIMETRIA. ATENUANTE. CONFISSÃO QUALIFICADA. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Quinta Turma, no julgamento do REsp n. 1.972.098/SC (DJe de 20/6/2022), em conformidade com a Súmula n. 545/STJ, consignou que o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada.
+2. Embora a simples subtração configure crime diverso - furto -, também constitui uma das elementares do delito de roubo - crime complexo, consubstanciado na prática de furto, associado à prática de constrangimento, ameaça ou violência, daí a configuração de hipótese de confissão parcial.
+3. A jurisprudência deste Superior Tribunal firmou-se no sentido de que o aumento para cada agravante ou de diminuição para cada atenuante deve ser realizado em 1/6 da pena-base, ante a ausência de critérios para a definição do patamar pelo legislador ordinário, devendo o aumento superior ou a redução inferior à fração paradigma estar concretamente fundamentado. Precedentes.
+4. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.341.370/MT (Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 17/4/2013), sob o rito do art. 543-C, c/c o § 3º do CPP, consolidou entendimento no sentido de que é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência.
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 2.094.151/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/11/2023, DJe de 13/11/2023, grifei.)
+Passo, assim, ao cálculo da nova pena, mantidos os demais parâmetros dosimétricos adotados pelas instâncias ordinárias.
+Na primeira fase, mantenho a basilar em 5 anos de reclusão.
+Na segunda etapa, procedo à compensação integral entre a agravante da reincidência e a atenuante da confissão, ora reconhecida, de modo que a reprimenda intermediária permanece em 5 anos de reclusão, a qual torno definitiva, à míngua de outras causas de aumento ou de diminuição de pena.
+À vista do exposto, concedo a ordem liminarmente para, nos termos acima deduzidos, reduzir a pena do paciente para 5 anos de reclusão , mantidos os demais termos do acórdão recorrido.
+Publique-se. Intimem-se.
+EMENTA
