@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por VANESSA APARECIDA SILVA DUARTE, com base no art. 105, III, a e c, da Constituição Federal, desafiando ac órdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 711):
+Apelação. Vícios construtivos. Ação de indenização por danos morais. Aquisição de imóvel em stand de vendas. Sentença de improcedência. Recurso da autora. Provas insuficientes para sustentar as suas alegações. Autora que assinou os termos de vistoria do apartamento e de entrega das chaves, não apresentando qualquer objeção na oportunidade. Ausência de provas de que a construtora tenha apresentado propaganda enganosa. Vídeo e respectivas imagens indicadas na petição inicial que representam apartamento decorado alusivo ao condomínio "Parque di Roma", construído em Piracicaba. Ausente a verossimilhança da alegação. Inteligência do art. 6º, VIII, do CDC. Suposto inadimplemento contratual. Mero aborrecimento cotidiano. Requisitos do dano moral indenizável não atendidos. Sentença mantida. Recurso não provido.
+Nas razões do recurso especial (e-STJ, fls. 718-761), a agravante alegou violação aos arts. 4º, I, 6º, I, 30, 36 e 37 do CDC, bem como divergência jurisprudencial.
+Sustentou que "nas imagens fica nítido que no apartamento decorado apresentado ao recorrente inexistiam shafts, sendo que estas fotos foram colacionadas aos autos justamente para frisar esse ponto. Porém, de forma completamente equivocada, a juíza de 1º grau, entendeu que nessas imagens havia shafts. Além do mais, deve ser analisado o memorial descritivo juntado nos autos pela própria ré, onde resta comprovado a existência dos shafts na cozinha e no banheiro do apartamento, e não as imagens ilustrativas juntadas pela parte autora" (e-STJ, fl. 730).
+Defendeu que "as recorridas ocultaram a verdade e ludibriaram o recorrente, visto que no momento da compra do imóvel o memorial e planta do imóvel não foram entregues ao recorrente bem como nada foi informado ao mesmo acerca do acabamento do imóvel e que este seria diverso do acabamento do decorado, o qual é usado como modelo na hora da venda" (e-STJ, fl. 737).
+Asseverou a necessidade de arbitramento de indenização por danos morais.
+Contrarrazões apresentadas (e-STJ, fls. 764-769).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo (e-STJ, fls. 781-792).
+Contraminuta apresentada (e-STJ, fls. 795-799).
+Brevemente relatado, decido.
+No presente caso, o Tribunal de origem analisou as questões deduzidas e assim decidiu (e-STJ, fls. 713-715 - sem destaque no original):
+Destaca-se que a recorrente firmou contrato para aquisição de unidade imobiliária no residencial Belize, situado em Botucatu, SP, fls. 35/52.
+Em contrapartida, as imagens colacionadas na inicial foram capturadas do vídeo indicado à fls. 03, cujo apartamento decorado faz menção expressa ao condomínio "Parque di Roma".
+Em consulta ao endereço eletrônico contido na descrição do clipe extraído do Youtube, verifica-se que o imóvel em questão foi construído em Piracicaba/SP, ou seja, sem qualquer relação com o instrumento firmado com a apelada.
+A apelante não trouxe e nem requereu a produção de qualquer prova técnica que pudesse embasar as suas alegações. Sequer juntou folheto de apresentação do apartamento decorado, com detalhes, referentes ao imóvel no residencial Belize.
+Deve ser registrado, por conseguinte, que as fotografias que acompanharam a petição inicial não demonstram o direito da autora, seja porque não é possível delas se extrair o local e data de onde foram tiradas, seja porque melhor perícia e estudo não foram realizados, bem como referem-se a empreendimento diverso ao contratado.
+Sendo assim, a autora não produziu qualquer prova técnica das alegações, tampouco da suposta inviabilidade do projeto mobiliário que tanto idealizou por anos.
+Ao contrário, apenas trouxe comparativos fotográficos sem aparo técnico, cujas alegações ficaram restritas ao campo das meras conjecturas Só esse fato já serviria para afastar as alegações da apelante, mormente porque não se tem nos autos informações de que os apartamentos dos mencionados empreendimentos imobiliários sejam idênticos.
+Não logrou êxito a demandante em comprovar o recebimento do imóvel em tamanha divergência daquele que lhe teria sido apresentado a ela antes de adquiri-lo, ou seja, que houve publicidade enganosa por parte da ré.
+(..)
+Desse modo, as provas dos autos não indicam a prática de propaganda enganosa pela ré ou qualquer outro ilícito passível de indenização, devendo a r. sentença ser mantida.
+Na espécie, a agravante não refutou o argumento do acórdão recorrido no sentido de que "a apelante não trouxe e nem requereu a produção de qualquer prova técnica que pudesse embasar as suas alegações. Sequer juntou folheto de apresentação do apartamento decorado, com detalhes, referentes ao imóvel no residencial Belize" (e-STJ, fl. 713).
+Em suas razões recursais, a agravante fundamentou apenas na existência de propaganda enganosa, de forma que teria sido ludibriada.
+Assim, a subsistência de fundamento inatacado, apto a manter as conclusões do aresto impugnado, impõe o reconhecimento da incidência da Súmula 283 STF, por analogia.
+Por fim, relativamente aos danos morais, a ausência de indicação dos dispositivos de lei federal violados ou em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. AQUISIÇÃO DE IMÓVEL. PROVAS INSUFICIENTES PARA SUSTENTAR AS ALEGAÇÕES DA AGRAVANTE. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. DANOS MORAIS. DEFICIÊNCIA RECURSAL. DISPOSITIVO DE LEI FEDERAL NÃO INDICADO. SÚMULA 284/STF. DISSÍDIO PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
