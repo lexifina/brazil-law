@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por RENATO JOSE NICOLAU contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO no julgamento do Habeas Corpus Criminal n. 0812169-04.2023.4.05.0000.
+Extrai-se dos autos que o recorrente foi denunciado pela suposta prática dos crimes tipificados nos arts. 334-A, § 1º, V, e 3º e art. 311, todos do Código Penal, art. 1º da Lei n. 9.613/1998, art. 2º, § 4º, III e V, da Lei n. 12.850/2013.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão de fls. 1.633/1.635.
+Nas razões do presente recurso, sustenta a nulidade do inquérito policial, pois a portaria que o instaurou teria sido fundamentada em documentos que não existiam até o momento da assinatura pela autoridade policial, a qual ainda não tinha conhecimento sobre a ocorrência do delito.
+Afirma, assim, que a incerteza sobre como o suposto delito chegou ao conhecimento da autoridade configuraria quebra da cadeia de custódia da prova, nos termos do art. 158 e seguintes do Código de Processo Penal - CPP.
+Aponta a ilicitude da interceptação telefônica e suas prorrogações, pois decretadas em decisões genéricas que não demonstraram a imprescindibilidade da quebra do sigilo, nos termos da Lei n. 9.296/1996.
+Aduz, ainda, que as sucessivas prorrogações da interceptação telefônica e telemática configurariam indevida prática de fishing expedition, ressaltando que a medida foi mantida em vigência por tempo excessivo, pois o recorrente permaneceu com seu sigilo telefônico violado por quase 2 anos.
+Argumenta a nulidade da diligência realizada pela Polícia Federal, com o acompanhamento de representantes da Agência Nacional de Aviação - ANAC, na empresa Fênix, no dia 25 de março de 2021, pois mesmo cientes da suposta participação do recorrente na prática delitiva, os agentes estatais realizaram seu interrogatório sem o cumprimento das formalidades legais, bem como não o advertiram quanto à garantia constitucional do direito ao silêncio.
+Pondera, assim, a ilicitude de todas as provas derivadas da fonte originária - quebras ilegais de sigilo telefônico e telemático -, nos termos do art. 157, §1º, do Código de Processo Penal.
+Requer, em liminar e no mérito, o provimento do recurso para que seja declarada a nulidade das interceptações telefônicas e telemáticas, bem como do interrogatório policial, desentranhando-se referidas provas dos autos, com a consequente rejeição da denúncia oferecida em desfavor do recorrente.
+O pedido liminar foi indeferido (fls. 1.758/1.760), as informações foram prestadas (fls. 1.769/1.956), e o Ministério Público Federal - MPF opinou pela perda de objeto do recurso (fls. 1.958/1.959).
+É o relatório.
+Decido.
+Inicialmente, de acordo com as informações prestadas pelo Juízo de origem, verificou-se que em 12/6/2024 nos autos da Ação Penal n. 0812219-93.2022.4.05.8300, foi proferida sentença que condenou o recorrente como incurso no art. 334-A, § 1º, II, do Código Penal - CP, à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e pagamento de 240 dias-multa. O réu foi absolvido da acusação da prática dos crimes de adulteração de sinal identificador de veículo e organização criminosa, com fundamento no art. 386, III e V, do Código de Processo Penal - CPP.
+Desse modo, considerando que o Juízo singular afastou, após cognição profunda e exauriente, as nulidades suscitadas no presente recurso, resta prejudicada a análise da matéria, uma vez que "a superveniência de sentença condenatória acarreta a modificação do debate processual, bem como a alteração do título prisional originário, ensejando o advento de nova realidade processual de maior amplitude em relação à considerada no momento da formalização da impetração em julgamento. Nessa medida, a prolação de sentença condenatória impõe uma alteração do campo argumentativo, exigindo-se que o exame das questões articuladas pelos agravantes se opere à luz de um espectro processual não coincidente com o inicialmente impugnado" (AgRg no HC n. 768.635, Ministro Sebastião Reis Júnior, DJe de 18/5/2023).
+Diante do atual contexto processual, caberá à Corte estadual a análise da ilegalidade em sede de apelação, recurso que, por não possuir a limitação cognitiva inerente à via estreita do recurso em habeas corpus, permite um exame mais amplo e profundo do acervo fático-probatório produzido durante a instrução criminal.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CORRUPÇÃO ATIVA, PECULATO E TRÁFICO DE DROGAS. BUSCA E APREENSÃO. IRREGULARIDADE DA MEDIDA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. Diante da superveniência de sentença que afastou a nulidade suscitada pela defesa, a controvérsia, agora, deve ser analisada pelo Tribunal de origem, por ocasião do julgamento do recurso de apelação. Isso porque o recurso de apelação detém efeito devolutivo amplo, cujo âmbito de cognição - horizontal e vertical - permite que o Tribunal ad quem examine, com maior amplitude e profundidade, todo o conjunto fático-probatório colhido durante a instrução criminal e as questões jurídicas subjacentes.
+5. Agravo regimental não provido.
+(AgRg no RHC n. 121.801/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/3/2023.)
+Nesse contexto, não há como negar a perda superveniente do objeto do presente recurso, tendo em vista o acolhimento pela instância ordinária, em juízo de cognição exauriente, quanto à procedência da acusação.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
