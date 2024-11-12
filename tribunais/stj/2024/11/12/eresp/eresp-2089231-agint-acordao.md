@@ -1,0 +1,135 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 06/11/2024 a 12/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Maria Thereza de Assis Moura, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. AUSÊNCIA DE COTEJO ANALÍTICO ENTRE OS ARESTOS CONFRONTADOS. ACÓRDÃO EMBARGADO QUE NÃO ANALISA O MÉRITO. PARADIGMA ULTRAPASSA A BARREIRA DE CONHECIMENTO. NÃO CABIMENTO. REJULGAMENTO DO RECURSO ESPECIAL. IMPOSSIBILIDADE.
+1. A divergência não ficou caracterizada, uma vez que não foi realizado o necessário cotejo analítico entre os acórdãos confrontados, de modo a demonstrar os trechos que eventualmente os identificassem. Assim, não houve comprovação do dissídio jurisprudencial invocado.
+2. É firme o entendimento no sentido de que são incabíveis embargos de divergência quando o acórdão embargado não ultrapassa a barreira de admissibilidade recursal, e o paradigma analisa o mérito. Precedentes.
+3. Não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão somente a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do Superior Tribunal de Justiça.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto pela ACB LOCACOES PROPRIAS LTDA., às fls. 779-792, contra decisão de fls. 766-773, de minha relatoria, por meio da qual foi indeferida liminarmente os embargos de divergência.
+O recurso especial foi interposto contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementada (fls. 375-376):
+EMBARGOS À EXECUÇÃO FISCAL. PRESCRIÇÃO DO CRÉDITO TRIBUTÁRIO. TERMO INICIAL. RESCISÃO DO REFIS.
+1. A empresa embargante alega que o Decreto 3.431/2000 prevê que a contagem da prescrição tem início a partir "do mês subseqüente àquele em que a pessoa jurídica não houver " (art. 15, §2º, II); assim, apurado sua receita bruta ou não puder demonstrá-la e comprová-la afirma que o prazo prescricional se iniciou em 12/2008.
+2. Já a União defende que a data de início da contagem do prazo prescricional é "o mês "subsequente àquele em que for cientificado o contribuinte do ato que o excluir do Programa (art. 15, §2º, I); assim, o prazo prescricional teria começado em 11/2013.
+3. Uma terceira data foi apontada pela Administração na decisão administrativa, pois, considerando-se os nove meses de previstos no art. 5º, XI, da lei 9.964/2000, a exclusão deveria produzir efeitos a partir de 01/12/2009.
+4. Por fim, o Juiz considerou que a data correta de início do prazo prescricional é a data da exclusão formal do programa.
+5. Conforme já apreciado pela Corte Superior, na situação dos autos não se pode deixar de levar em consideração que: "Em que pese no caso dos autos tenha existido a "inexistência de faturamento", causa que gera a rescisão do parcelamento, para que se retome a exigibilidade do crédito, e tenha início o prazo prescricional para a sua cobrança, essencial que haja ato formal de rescisão do parcelamento. Não sendo possível a contagem do prazo a partir da ocorrência da situação autorizativa da exclusão como sustenta o agravante. Não pode a parte querer criar critério quanto ao início da prescrição não previsto em lei. Além disso, no caso dos autos o contribuinte continuou realizando os pagamentos mensais, até maio de 2010, não tendo sido os mesmos interrompidos, sendo manifesto o interesse do contribuinte em continuar sujeito às regras do parcelamento, como ficou assentado no voto condutor do acórdão recorrido: "segundo informa na petição inicial, está questionando judicialmente o ato do comitê gestor visando a ser novamente incluído no REFIS." (e-STJ Fl.318) Vale destacar que no julgamento dos E Dcl no AgRg no R Esp 1338513/RS, Rel. Ministro HUMBERTO MARTINS, restou decidido que "não procede a alegação de que o prazo prescricional intercorrente recomeça a contar quando constatada a ausência de pagamento das parcelas do pagamento. Em se tratando de REFIS, o art. 5º, § 1º, da Lei n. 9.964/2000, estabelece que "a exclusão do Refis implicará exigibilidade imediata da totalidade do crédito confessado e ainda não pago". A exclusão do parcelamento, assim, constitui o marco inicial para a retomada da cobrança (AgRg 1.524.984)executiva"."
+6. Desse modo, tendo ocorrido a exclusão do parcelamento em 10/2013 e sendo a execução ajuizada em 05/2015, não se verificou o transcurso do prazo prescricional quinquenal.
+7. DESPROVIMENTO à apelação da embargante.
+Embargos de declaração rejeitados (fls. 428-429):
+EMBARGOS DE DECLARAÇÃO. NÃO OCORRÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL.
+1. Cabíveis os embargos de declaração quando a decisão for omissa, contraditória ou obscura e, ainda, quando contiver erro material.
+2. O acórdão não contém qualquer vício, pretendendo a parte embargante rediscuti-lo, o que não é possível em embargos de declaração.
+3. Embargos de declaração rejeitados.
+A Primeira Turma do STJ negou provimento ao agravo interno nos termos da seguinte ementa (fl. 618):
+TRIBUTÁRIO. PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CPC/2015. APLICABILIDADE. PRESCRIÇÃO. AFASTADA PELA CORTE DE ORIGEM A PARTIR DO EXAME DE ELEMENTOS FÁTICOS. REVISÃO. SÚMULA N. 7/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - A Corte de origem afastou a prescrição embasada no fundamento de que a ora Agravante foi excluída do parcelamento em 10/2013 e a execução fiscal ajuizada em 05/2015. Acolher os argumentos recursais sobre a exclusão do parcelamento ter ocorrido em 2008 e, por conseguinte, reconhecer a ocorrência de prescrição, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula7/STJ.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+Embargos de declaração rejeitados (fl. 656):
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSÃO. AUSÊNCIA DE VÍCIOS.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para os presentes Embargos de Declaração.
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+III - Embargos de declaração rejeitados.
+Apontou como paradigma os seguintes arestos:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. RECURSO PROVIDO MONOCRATICAMENTE PARA RECONHECER OS ANTECEDENTES DO RÉU. ALEGAÇÃO DEFENSIVA DE INCIDÊNCIA DA SÚMULA N. 7 DO STJ. NÃO OCORRÊNCIA. REVALORAÇÃO DOS FATOS DESCRITOS NO ACÓRDÃO IMPUGNADO. AGRAVO NÃO PROVIDO.
+1. O provimento do recurso especial ministerial, ao reconhecer os maus antecedentes do recorrido, baseou-se unicamente no contexto fático descrito na dosimetria da pena objeto da reforma do acórdão ora vergastado.
+2. O Superior Tribunal de Justiça, em inúmeros precedentes, destacou a distinção entre o reexame de provas e a revaloração de fatos, consignando que a revaloração do material cognitivo é admitida, entre outros casos, para verificar a existência de erro sobre o critério de apreciação da prova, a partir do texto do próprio acórdão impugnado.
+3. Agravo regimental não provido. (AgRg no REsp n. 1.362.510/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/4/2015, D Je de 7/5/2015.)
+TRIBUTÁRIO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. PRESCRIÇÃO. INTERRUPÇÃO. PARCELAMENTO POSTERIOR À CONSUMAÇÃO DO PRAZO PRESCRICIONAL. IMPOSSIBILIDADE.
+1. Nos termos da jurisprudência pacífica do STJ, o parcelamento, por representar ato de reconhecimento da dívida, suspende a exigibilidade do crédito tributário e interrompe o prazo prescricional, que volta a correr no dia em que o devedor deixa de cumprir o acordo. Todavia, a adesão à programa de parcelamento após a consumação da prescrição não tem o condão de retroagir como causa interruptiva.
+2. Hipótese em que a adesão ao novo programa de parcelamento só ocorreu quando já transcorrido o prazo prescricional quinquenal. Logo, resta caracterizada a prescrição.
+Agravo regimental improvido. (AgRg no REsp n. 1.528.020/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 26/5/2015, D Je de 2/6/2015.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 535 DO CPC/1973. INOCORRÊNCIA. PARCELAMENTO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. PRESCRIÇÃO DO CRÉDITO TRIBUTÁRIO NÃO CONFIGURADA. PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. REVISÃO. SÚMULA 7/STJ.
+1. Não se configura a alegada ofensa ao art. 535 do CPC/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. O Superior Tribunal de Justiça possui jurisprudência no sentido de que a adesão a parcelamento tributário é causa de suspensão da exigibilidade do crédito e interrompe o prazo prescricional, por constituir reconhecimento inequívoco do débito, nos termos do art. 174, IV, do CTN, voltando a correr o prazo a partir do inadimplemento da última parcela pelo contribuinte.
+3. Ao dirimir a controvérsia, a Corte a quo, em consonância com o entendimento do STJ e com base nos elementos probatórios juntados aos autos, considerou caracterizada a prescrição, in verbis: "o acolhimento da prescrição intercorrente deve ser mantido, pois a contar da data da exclusão do executado do programa de parcelamento até a data da prolação da sentença, decorreu prazo superior ao qüinqüênio estabelecido em lei e a inércia não pode ser atribuída ao Poder Judiciário, o que afasta a possibilidade de aplicação do disposto no verbete da Súmula nº 106 do STJ".
+4. Modificar a conclusão a que chegou o Sodalício de piso, de modo a acolher a tese da recorrente de que não houve a configuração da prescrição do crédito tributário em cobrança, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial". Precedentes do STJ.
+5. Recurso Especial não conhecido. (REsp n. 1.742.611/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/6/2018, D Je de 26/11/2018.)
+TRIBUTÁRIO. EXECUÇÃO FISCAL. ADESÃO A PROGRAMA DE PARCELAMENTO. PRESCRIÇÃO INTERCORRENTE. INTERRUPÇÃO.
+I. A adesão a programa de parcelamento tributário é causa de suspensão da exigibilidade do crédito e interrompe o prazo prescricional, por constituir reconhecimento inequívoco do débito, nos termos do art. 174, IV, do CTN, voltando a correr o prazo, por inteiro, a partir do inadimplemento da última parcela pelo contribuinte (REsp n. 1.742.611/RJ, relator Ministro Herman Benjamin).
+II. Recurso especial conhecido e provido. (REsp n. 1.922.063/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/10/2022, D Je de 21/10/2022.)
+Indeferidos liminarmente os embargos de divergência.
+Inconformada, a parte agravante alega que (fl. 782):
+ ..  há claro destaque nos trechos específicos, nos quais se observa - de forma clara e indene de dúvida - que o entendimento que prevalece na Corte é que interrompido o prazo prescricional, o mesmo volta a correr no dia em que o devedor deixa de cumprir o acordo.
+Sob esse prisma, basta que a divergência seja esclarecida e, reformando-se a r. decisão para que se aplique a jurisprudência da Corte no sentido de que a contagem da prescrição se dá com o imediato descumprimento do acordo, de rigor o provimento do recurso para reconhecer a ocorrência da prescrição.
+Sustenta, ainda, que:
+Não pode prevalecer o entendimento de aplicação da Súmula 315 quando o equívoco no julgamento advém de momento anterior e deve ser modificado, a fim de que o recurso especial seja admitido e provido, pois, o recurso especial sim está calcado na jurisprudência desta Corte, diferentemente do Acórdão recorrido, o qual, por sua vez, traz entendimento antagônico ao do Superior Tribunal de Justiça.
+Manter a decisão recorrida como está, é o mesmo que dizer que o entendimento divergente e antagônico do TRF deve prevalecer sobre o entendimento pacificado do STJ, ou seja, a Corte Superior está marginalizando sua própria construção jurisprudencial e violando a disposição e seu mister constitucional. (fl. 783)
+O agravado não apresentou contrarrazões (fl. 798).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. AUSÊNCIA DE COTEJO ANALÍTICO ENTRE OS ARESTOS CONFRONTADOS. ACÓRDÃO EMBARGADO QUE NÃO ANALISA O MÉRITO. PARADIGMA ULTRAPASSA A BARREIRA DE CONHECIMENTO. NÃO CABIMENTO. REJULGAMENTO DO RECURSO ESPECIAL. IMPOSSIBILIDADE.
+1. A divergência não ficou caracterizada, uma vez que não foi realizado o necessário cotejo analítico entre os acórdãos confrontados, de modo a demonstrar os trechos que eventualmente os identificassem. Assim, não houve comprovação do dissídio jurisprudencial invocado.
+2. É firme o entendimento no sentido de que são incabíveis embargos de divergência quando o acórdão embargado não ultrapassa a barreira de admissibilidade recursal, e o paradigma analisa o mérito. Precedentes.
+3. Não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão somente a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do Superior Tribunal de Justiça.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Não obstante o esforço contido nas razões de agravo interno, não prospera a pretensão recursal.
+Os presentes embargos de divergência não reúnem condições de admissibilidade, pois inexiste a necessária similitude fática entre os acórdãos confrontados a ensejar o processamento do recurso.
+Verifica-se que a divergência não ficou caracterizada, uma vez que não foi realizado o necessário cotejo analítico entre os acórdãos confrontados, de modo a demonstrar os trechos que eventualmente os identificassem. Assim, não houve comprovação do dissídio jurisprudencial invocado.
+Nesse contexto, cabe aos embargantes a comprovação do dissídio nos moldes estabelecidos no art. 266, § 4º, c/c o art. 255, § 1º, do Regimento Interno do STJ:
+Art. 266. Cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal, sendo:
+(..)
+§ 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, em que foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na internet, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+art. 255 (..)
+§ 1º Quando o recurso fundar-se em dissídio jurisprudencial, o recorrente fará a prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente, ou ainda com a reprodução de julgado disponível na internet, com indicação da respectiva fonte, devendo-se, em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+Confiram-se os seguintes julgados:
+DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. DISSENSO INTERPRETATIVO NÃO CARACTERIZADO. INEXISTÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. APLICAÇÃO DA SÚMULA N. 83 DO STJ. REGRA TÉCNICA DE CONHECIMENTO DE RECURSO.
+1. O dissídio jurisprudencial deve ser demonstrado conforme preceituado nos arts. 266, § 4º, e 255, § 1º, do RISTJ, mediante o cotejo analítico dos arestos, indicando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+2. A finalidade dos embargos de divergência é a uniformização da jurisprudência do STJ, não se apresentando como novo recurso ordinário nem se prestando para a correção de eventual equívoco ou violação que tenha ocorrido no julgamento do recurso especial.
+3. À luz do art. 1.021, § 1º, do CPC de 2015 e da Súmula n. 182 do STJ, cabe à parte agravante, na petição de agravo interno, impugnar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento.
+4. Agravo regimental não conhecido.
+(AgInt nos EREsp n. 1.912.161/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 30/4/2024, DJe de 6/5/2024.)
+AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE COTEJO ANALÍTICO. DIVERGÊNCIA NÃO COMPROVADA. DECISÃO AGRAVADA MANTIDA.
+1. Nos termos do art. 266, § 4º, do RISTJ, o recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, em que foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na internet, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+2. No caso, o agravante apenas transcreveu a ementa de diversos acórdãos paradigmáticos, mas não demonstrou, de forma analítica, a identidade fática entre eles e o acórdão impugnado e, por conseguinte, também não demonstrou a existência de soluções jurídicas distintas dos órgãos julgadores desta Corte sob uma mesma base fática, condição essa indispensável para a configuração do dissídio jurisprudencial.
+3. Agravo regimental improvido.
+(AgRg nos EREsp n. 2.059.757/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 30/4/2024, DJe de 6/5/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE COTEJO ANALÍTICO. SIMILITUDE FÁTICA E JURÍDICA. NÃO DEMONSTRAÇÃO. AUSÊNCIA DE ATUALIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A simples transcrição de ementa do acórdão paradigma não é suficiente para inferir a divergência entre órgãos jurisdicionais do STJ sobre a mesma controvérsia.
+2. Ausente a indispensável similitude fática entre os arestos comparados, é firme a jurisprudência da Corte Especial deste Superior Tribunal de Justiça no sentido de que que não podem ser conhecidos os embargos de di vergência.
+3. Agravo interno não provido.
+(AgInt nos EREsp n. 1.939.455/DF, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 9/4/2024, DJe de 18/4/2024.)
+Além disso, a jurisprudência pacífica desta Corte é no sentido de que são incabíveis embargos de divergência quando o acórdão embargado não ultrapassa a barreira de admissibilidade recursal, e o paradigma analisa o mérito.
+A propósito, cito os precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NÃO CONHECIMENTO DOS EMBARGOS DE DIVERGÊNCIA, POR APLICAÇÃO ANALÓGICA DA SÚMULA 315/STJ. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com o art. 1.043, I e III, do CPC/2015, os embargos de divergência são inadmissíveis quando os acórdãos confrontados não forem proferidos no mesmo grau de cognição, como no presente caso, em que o acórdão embargado não conheceu do agravo interno, por aplicação do óbice da Súmula 182/STJ, não apreciando, no mérito, a controvérsia, enquanto o acórdão paradigma apreciou o mérito da controvérsia. Com efeito, segundo a jurisprudência do STJ, "nos termos do art. 266, caput, do RISTJ c/c o art. 1.043 do CPC/2015, os embargos de divergência têm, como requisito de admissibilidade, a existência de dissenso interpretativo entre diferentes órgãos jurisdicionais deste Tribunal Superior, devendo ter sido apreciada a matéria de mérito do recurso especial - seja de natureza processual seja material -, sendo certo que este recurso é incabível para o reexame de regra técnica de admissibilidade recursal, como sói ser a incidência da Súmula 182 do STJ" (STJ, AgInt nos EAREsp 444.621/SP, Relator Ministro Luís Felipe Salomão, Corte Especial, julgado em 16/11/2016, DJe de 28/11/2016).
+2. Segundo a jurisprudência do STJ, "considerando-se que o recurso de embargos de divergência não foi conhecido é inviável o atendimento do pedido de sobrestamento para aguardar julgamento de tema repetitivo" (STJ, EDcl no AgInt nos EREsp 1.856.959/RJ, relator Ministro Francisco Falcão, Corte Especial, julgado em 23/8/2022, DJe de 26/8/2022).
+3. Agravo interno desprovido.
+(AgInt nos EREsp n. 2.034.644/SC, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 24/4/2024, DJe de 29/4/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO ANALISA O MÉRITO, E O PARADIGMA ULTRAPASSA A BARREIRA DE CONHECIMENTO. NÃO CABIMENTO. REJULGAMENTO DO RECURSO ESPECIAL. IMPOSSIBILIDADE.
+1. É firme o entendimento no sentido de que são incabíveis embargos de divergência quando o acórdão embargado não ultrapassa a barreira de admissibilidade recursal, e o paradigma analisa o mérito.
+Precedentes.
+2. Os embargos de divergência, caracterizados como recurso de fundamentação vinculada, devem, necessariamente, demonstrar o confronto de teses entre o acórdão embargado e aquele apontado como paradigma, não sendo possível sua interposição com intuito de mera rediscussão do quanto já decidido em recurso especial.
+3. Os embargos de divergência, caracterizados como recurso de fundamentação vinculada, devem, necessariamente, demonstrar o confronto de teses entre o acórdão embargado e aquele apontado como paradigma, não sendo possível sua interposição com o intuito de mera rediscussão do quanto já decidido em recurso especial.
+4. A jurisprudência desta Corte Superior é firme no sentido de que os argumentos proferidos em obiter dictum não caracterizam divergência jurisprudencial para o fim de autorizar a interposição dos embargos de divergência. Precedentes: AgInt nos EAREsp n. 1.414.411/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, DJe de 21/12/2023; AgInt nos EREsp n. 2.007.417/MG, relator Ministro Herman Benjamin, Corte Especial, DJe de 20/12/2023; AgRg nos EAREsp n. 2.173.095/PB, relator Ministro Raul Araújo, Corte Especial, DJe de 5/12/2023.
+5. Não cabe aos embargos de divergência analisar possível acerto ou desacerto do acórdão embargado, mas tão somente o eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do Superior Tribunal de Justiça.
+Precedentes.
+Agravo interno improvido.
+(AgInt nos EREsp n. 1.928.482/RS, relator Ministro Humberto Martins, Corte Especial, julgado em 12/3/2024, DJe de 19/3/2024.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIA O MÉRITO DA CONTROVÉRSIA. APLICAÇÃO DAS SÚMULAS 283 E 284/STF. ACÓRDÃO PARADIGMA QUE JULGA O MÉRITO RECURSAL. INVIABILIDADE DO PROCESSAMENTO DOS EMBARGOS DE DIVERGÊNCIA.
+1. A teor do disposto no art. 1.043, III, do CPC/2015, em sede de embargos de divergência, a comparação com acórdão em que se examinou o mérito recursal apenas é admitida se, no julgado embargado, apesar de não conhecido o recurso, houver sido apreciada a controvérsia de mérito.
+2. Mesmo sob a égide do Código de Processo Civil de 2015, não há como reconhecer a divergência entre acórdão que adentrou o mérito da controvérsia e aresto que nem sequer ultrapassou o juízo de admissibilidade, em razão da verificação de óbice processual.
+3. No caso dos autos, não houve o enfrentamento das teses que se pretende debater, porquanto a decisão colegiada embargada se limitou a reconhecer a incidência das Súmulas 283 e 284/STF. Nesse contexto, falta aos embargos de divergência o pressuposto básico para a sua admissibilidade, qual seja, a discrepância entre acórdãos a respeito da mesma questão jurídica.
+4. Agravo interno não provido.
+(AgInt nos EDcl nos EREsp n. 1.581.336/PR, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 28/11/2023, DJe de 30/11/2023.)
+Cabe registrar que não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão somente a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do Superior Tribunal de Justiça. Cito os precedentes:
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO ESPECIAL. NÃO CABIMENTO. ACÓRDÃO PARADIGMA QUE NÃO JULGA O MÉRITO RECURSAL. ACÓRDÃO EMBARGADO DE MÉRITO. IMPOSSIBILIDADE DE APRECIAÇÃO DA DIVERGÊNCIA.
+1. No âmbito dos embargos de divergência, não se rejulga o recurso especial, sendo incabível analisar possível acerto ou desacerto do acórdão embargado, mas tão somente se avalia eventual dissídio de teses jurídicas com o objetivo de uniformizá-las.
+2. Nos termos da jurisprudência desta Corte, não se conhece da divergência jurisprudencial entre julgado que incursiona no mérito da demanda e outro que não ultrapassa o juízo de admissibilidade, ante a verificação de óbice processual. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.792.225/CE, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 19/8/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL - DISCUSSÃO ACERCA DA APLICAÇÃO DE REGRA TÉCNICA RELATIVA AO CONHECIMENTO DO RECURSO ESPECIAL - ACÓRDÃO EMBARGADO QUE APLICOU OS ENUNCIADOS DAS SÚMULAS N. ºS 5 E 7/STJ - INVIABILIDADE DOS EMBARGOS DE DIVERGÊNCIA. INSURGÊNCIA DOS AGRAVANTES .
+1. É inviável, em sede de embargos de divergência, discussão sobre o acerto ou desacerto da regra técnica de conhecimento utilizada pelo relator do julgado embargado. Precedentes.
+2. Agravo interno desprovido.
+(AgInt nos EAREsp n. 1.691.411/GO, relator Ministro Marco Buzzi, Segunda Seção, DJe de 30/6/2022.)
+Ante o exposto, nego provimento ao agravo interno .
+É como penso. É como voto.
