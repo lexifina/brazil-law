@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo Juízo Federal da 1ª Vara Geral com Juizado Especial Federal Adjunto de Sinop - SJ/MT, tendo por suscitado Juízo Federal da 1ª Vara de Umuarama - SJ/PR.
+Na origem, o juízo suscitado declinou da competência para processar o acordo de não persecução penal homologado em favor do suscitante, em razão da alteração do domicílio do acordante.
+O Ministério Público Federal manifesta-se pelo acolhimento das razões invocadas pelo suscitante. (e-STJ Fl.113/117)
+É o relatório. DECIDO.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+A jurisprudência desta Corte possui entendimento no sentido de que a execução do acordo de não persecução penal deve obedecer as regras atinentes à execução penal, nos termos do art. 28-A, § 6º, do CPP.
+Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A, § 6.º, DO CÓDIGO DE PROCESSO PENAL. APLICAÇÃO DAS REGRAS ATINENTES À EXECUÇÃO PENAL. COMPETÊNCIA. CUMPRIMENTO. JUÍZO QUE HOMOLOGOU O ACORDO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. O art. 28-A, § 6.º, do Código de Processo Penal, ao determinar que o acordo de não persecução penal será executado no juízo da execução penal, implicitamente, estabeleceu que o cumprimento das condições impostas no referido acordo deverá observar, no que forem compatíveis, as regras pertinentes à execução das penas.
+2. Segundo pacífica orientação desta Corte Superior, a competência para a execução das penas é do Juízo da condenação. No caso específico de execução de penas restritivas de direitos, em se tratando de condenado residente em jurisdição diversa do Juízo que o condenou, também é sedimentada a orientação de que a competência para a execução permanece com o Juízo da condenação, que deprecará ao Juízo da localidade em que reside o apenado tão-somente o acompanhamento e a fiscalização do cumprimento da reprimenda.
+3. Em se tratando de cumprimento das condições impostas em acordo de não persecução penal, a competência para a sua execução é do Juízo que o homologou, o qual poderá deprecar a fiscalização do cumprimento do ajuste e a prática de atos processuais para o atual domicílio do Apenado.
+4. Conflito conhecido para declarar competente o JUÍZO FEDERAL DA 1.ª VARA CRIMINAL DE SÃO PAULO - SJ/SP, o Suscitado.
+(CC n. 192.158/MT, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 9/11/2022, DJe de 18/11/2022.)
+Quanto à competência para execução penal, quando o apenado possuir domicílio em comarca diversa do juízo da condenação é pacífica a jurisprudência desta corte no sentido de que "A competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento o cumprimento da pena determinada, inexistindo deslocamento de competência" (CC 113.112/SC, Terceira Seção, Rel Ministro Gilson Dipp, DJe 17/11/2011)."
+Cite-se, no mesmo sentido, em reforço:
+RECURSO EM MANDADO DE SEGURANÇA. APENADO COM RESIDÊNCIA EM COMARCA DIVERSA. NÃO MODIFICAÇÃO DA COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL.
+IMPLANTAÇÃO DO SISTEMA ELETRÔNICO DE EXECUÇÃO UNIFICADO (SEEU). LEI 7.210/84. COMPETÊNCIA PARA A EXECUÇÃO DA PENA. AGRAVO IMPROVIDO.
+1. O fato de o apenado residir em outra comarca, ou de mudar voluntariamente de domicílio, não importa modificação da competência do Juízo da Execução, podendo ser deprecado ao Juízo da sua residência tão somente a fiscalização do cumprimento da execução da pena. (..) (AgRg no RMS n. 66.533/PE, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 24/8/2021, DJe de 30/8/2021.)
+De fato, observado o teor do art. 65 da Lei de Execuções Penais, "A execução pen al competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença", há desacerto na decisão que declina competência única e exclusivamente em razão do domicílio do apenado.
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o Juízo Federal da 1ª Vara de Umuarama - SJ/PR, o Suscitado, para processar a execução do acordo de não persecução penal homologado nos autos da Execução de Medidas Alternativas no Juízo Comum n. 5006365-67.2023.4.04.7004.
+Publique-se. Intimem-se.
+ EMENTA
