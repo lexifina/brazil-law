@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se recurso especial interposto por LAIR TEREZINHA ROBERTO, fundamentado exclusivamente na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TJ/SC.
+Recurso especial interposto em: 02/04/2024.
+Concluso ao Gabinete em: 24/05/2024.
+Ação: de cobrança de indenização securitária, ajuizada pela recorrente, em desfavor de ZURICH MINAS BRASIL SEGUROS S.A, em virtude do acotimento de invalidez permanente por doença.
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SEGURO DE VIDA EM GRUPO. IMPROCEDÊNCIA NA ORIGEM. 1 . RECURSO DA PARTE DEMANDANTE. INCAPACIDADE DECORRENTE DE DOENÇA. APÓLICE LIMITADA ÀS HIPÓTESES DE MORTE, INVALIDEZ PERMANENTE POR ACIDENTE (IPA) E INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA (IFPD). OBRIGAÇÃO DE INFORMAR ACERCA DAS CLÁUSULAS LIMITATIVAS DE DIREITO POSTAS NAS CONDIÇÕES GERAIS DA AVENÇA QUE É DA ESTIPULANTE. ENTENDIMENTO FIRMADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA (TEMA 1112). ENFERMIDADE QUE NÃO OCASIONOU A PERDA DA EXISTÊNCIA INDEPENDENTE DA SEGURADA (TEMA 1068). AUSÊNCIA DE COBERTURA SECURITÁRIA. SENTENÇA MANTIDA. 2 . HONORÁRIOS SUCUMBENCIAIS RECURSAIS DEVIDOS. INTELIGÊNCIA DO ART. 85, §§ 1º E 11 DO CÓDIGO DE PROCESSO CIVIL. 3. RECURSO CONHECIDO E DESPROVIDO (e-STJ fl. 746).
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta a violação dos arts. 11, 489, § 1º, 1.013 do CPC; e 93, IX, da CF. Além de negativa de prestação jurisdicional, sustenta que as cláusulas limitadoras da cobertura securitária são ineficazes em relação à segurada, pois a seguradora não deu pleno conhecimento àquela de todas as condições inerentes ao seguro. Defende a inaplicabilidade do Tema 1112/STJ na espécie, dada a caracterização de estiuplação imprópria, seja em razão da existência de cláusula de responsabilização solidária dos segurados, seja em razão da ausência de definição acerca das particularidades operacionais e da obrigação da estipulante em prestar informações aos segurados. Alega que o termo de adesão faz menção à cobertura por "Invalidez Total e Permanente por Doença", sem qualquer referência à invalidez funcional, não havendo dúvidas acerca da ocorrência do sinistro.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 489, § 1º, do CPC
+As razões recursais tecidas acerca da suposta ausência de fundamentação do Tribunal de origem residem na alegação de que o TJ/SC, apesar de instado a manifestar-se por meio de embargos declaratórios, quedou-se silente no que concerne aos argumentos trazidos pela recorrente de que: i) o tema 1112/STJ é inaplicável na espécie, dada a caracterização de estipulação imprópria, seja em razão da existência de cláusula de responsabilização solidária dos segurados, seja em razão da ausência de definição acerca das particularidades operacionais e da obrigação da estipulante em prestar informações aos segurados; ii) conforme o termo de adesão, o seguro cobria hipótese de "Invalidez Total e Permanente por Doença", não fazendo qualquer referência à invalidez funcional; e iii) ausente a assinatura da segurada no termo de adesão.
+Da análise do processo, contudo, constata-se que o Tribunal de origem, ao julgar os embargos de declaração opostos pela recorrente, não analisou a questão à luz destes argumentos.
+Assim, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que seja sanado o vício suscitado, bem como a remessa dos autos ao TJ/SC, a fim de que este se pronuncie, na esteira do devido processo legal, acerca dos pontos anteriormente elencados.
+Logo, merece provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+Forte em tais razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO para: a) anular o acórdão que julgou os embargos de declaração opostos pela recorrente; e b) determinar a remessa dos autos ao TJ/SC, a fim de que este se pronuncie, na esteira do devido processo legal, a respeito dos supracitados pontos tidos por não analisados.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. ACÓRDÃO RECORRIDO. AUSÊNCIA DE FUNDAMENTAÇÃO.
+1. Ação de cobrança de indenização securitária, em virtude de invalidez permanente por doença.
+2. Caracteriza-se a ofensa ao art. 489 do CPC nas hipóteses em que o Tribunal de origem deixa de fundamentar suficiente o acórdão recorrido, deixando de esgotar com a prestação jurisdicional.
+3. Recurso especial conhecido e provido.
