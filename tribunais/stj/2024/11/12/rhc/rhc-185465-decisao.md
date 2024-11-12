@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por PATRICK CAMPOS DA SILVA, contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas.
+Depreende-se dos autos que o Recorrente teve a prisão preventiva decretada, pela suposta prática do delito de homicídio (consumado e tentado).
+Na hipótese, a defesa alega a existência de constrangimento ilegal consubstanciado na ausência de fundamentação concreta para a prisão cautelar, bem como no excesso de prazo, ponderando que: "o Paciente , está preso preventivamente há 373 ( trezentos e setenta e três dias) , e sequer existe qualquer previsão de realização de Audiência de Instrução. "
+A defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem, conforme acórdão fls. 239-248.
+Irresignada, a defesa requer o provimento do recurso para revogar a prisão preventiva e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A  liminar  foi  indeferida  nesta Corte às  fls.  313/315.
+O MPF  opinou  pelo  desprovimento  do  recurso  às  fls.  333/337.
+É  o  relatório.  DECIDO.
+O  recurso  não  merece  prosperar,  pelos  motivos  abaixo  expostos:
+De acordo com o Juízo de primeiro grau, os investigados "..são pessoas perigosas, circunstância a revelar receio de reiteração criminosa, por consequência, ensejando risco à ordem pública".
+A prisão preventiva está devidamente justificada, visto que há risco de reiteração criminosa, por consequência, enseja risco à ordem pública.
+Ora, a periculosidade concreta do acusado está evidenciada pela reiteração de delitos conforme demonstram os seus antecedentes criminais juntados aos autos.
+Neste sentido, endosso as razões do parecer ministerial quando destacou trecho da decisão do Tribunal de origem. Vejamos:
+"os elementos colhidos até o momento demonstram que o alvo dos denunciados era um indivíduo conhecido como Júnior Canela, e a motivação do delito seria disputa por tráfico de drogas do local, sendo "Júnior" o traficante da área. Consta dos autos que, após a fuga do alvo principal do delito, os denunciados teriam passado a efetuar disparos de arma de fogo nas pessoas que estavam no local, causando lesões graves em duas vítimas, e levando outras duas a óbito."
+Pela leitura dos autos, a periculosidade do Paciente é patente ao suspostamente participar do crime de homicídio (consumado e tentado) em julgamento, agravada pelo fato de responder a várias ações penais, justificando, desse modo, a segregação cautelar para garantia da ordem pública.
+Sobre o tema: "O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, D Je 26/10/2017)."
+Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019).
+No que tange ao excesso de prazo , ressalto que "esta Corte, de longa data, já firmou jurisprudência no sentido de considerar o juízo de razoabilidade para constatar possível constrangimento ilegal no prazo de constrição ao exercício do direito de liberdade, (HC n. 509.128/RS, Quinta Turma, Rel. Min. Leopoldo de Arruda Raposo, (desembargador Convocado do Tj/Pe, D Je de 8/10/2019.)
+Ainda sobre  o  tema,  cito  o  julgado  abaixo:
+"Eventual  constrangimento  ilegal  por  excesso  de  prazo  não  resulta  de  um  critério  aritmético,  mas  de  uma  aferição  realizada  pelo  julgador,  à  luz  dos  princípios  da  razoabilidade  e  proporcionalidade,  levando  em  conta  as  peculiaridades  do  caso  concreto,  de  modo  a  evitar  retardo  abusivo  e  injustificado  na  prestação  jurisdicional."  (AgRg  no  RHC  n.  176.377/SE,  Quinta  Turma,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  DJe  de  13/3/2023).
+De todo modo,  ainda  que  evidenciada  a  demora  na  tramitação  do  feito,  não  há  constrangimento  ilegal  a  ser  sanado  na  via  do  habeas  corpus  ou  de  seu  recurso  ordinário,  tendo  em  vista  não  ser  possível  reconhecer  a  existência  de  retardo  abusivo  e  injustificado  na  prestação  jurisdicional  de  forma  a  caracterizar  excesso  de  prazo.
+De  mais  a  mais,  iterativa  a  jurisprudência  deste  Superior  Tribunal  de  Justiça  no  sentido  de  ser  imprópria  a  via  do  habeas  corpus  (e  do  seu  recurso)  para  a  análise  de  eventual  tese  defensiva  que  demandem  incursão  no  acervo  fático-probatório.
+Cabe ressaltar que trata-se de crime grave cometido contra a vida, praticado contra mais de uma pessoa e motivado aparentemente por disputa em ponto de drogas, como demonstra a prova dos autos. Além disso, trata-se de acusado com antecedentes criminais.
+Portanto, não há ilegalidade no decreto de segregação, visto que a concretude da gravidade está devidamente fundamentada na decisão e também não há excesso de prazo para justificar a soltura do réu, não cabendo ainda a aplicação das medidas cautelares diversas da prisão.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, conheço em parte do recurso e, na parte conhecida, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
