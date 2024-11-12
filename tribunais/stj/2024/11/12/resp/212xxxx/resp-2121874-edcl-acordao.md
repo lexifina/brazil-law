@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §11, DO CPC/2015. OMISSÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. De acordo com a jurisprudência pacífica deste Tribunal Superior, a majoração da verba honorária sucumbencial é devida, consoante o disposto no art. 85, § 11, do CPC/2015, se estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida deve ter sido publicada a partir de 18/3/2016, momento em que entrou em vigor o novo Código de Processo Civil; (b) não conhecimento integral do recurso, ou seu desprovimento, monocraticamente ou pelo órgão c olegiado competente; e (c) existência de condenação em honorários advocatícios, desde a origem, no feito em que interposto o recurso.
+2. Na espécie, presentes todos os requisitos, de rigor a majoração dos honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal.
+3. Embargos de declaração acolhidos.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos por MARIA NELCI PASTORIZA TATSCH contra acórdão da Segunda Turma, assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. DIREITO À SAÚDE. HONORÁRIOS. EQUIDADE. IMPOSSIBILIDADE. PRECEDENTES DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. Não se discute nos autos a matéria afetada ao rito da repercussão geral no Tema 1255/STF: "Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes", mas se o proveito econômico da causa seria inestimável, para fins de aplicação do disposto no § 8º do art. 85 do CPC/2015, a justificar a redução dos honorários advocatícios arbitrados pelo Tribunal de origem em 10% (dez por cento) sobre o valor da causa.
+2. Segundo a jurisprudência mais recente do STJ, a fixação da verba honorária com base no art. 85, § 8º, do CPC/2015 está restrita às causas em que não se vislumbra benefício patrimonial imediato, como, por exemplo, as de estado e de direito de família.
+3. No caso, não se verifica qualquer das situações que permitem a excepcional fixação dos honorários com base em juízo de equidade. O valor atribuído à causa foi R$ 62.300,00 (sessenta e dois mil e trezentos reais), não se enquadrando como irrisório ou exorbitante, sendo, portanto, necessária a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC/2015. Dessa forma, devem ser mantidos os honorários sucumbenciais arbitrados no percentual de 10% (dez por cento) sobre o valor da causa.
+4. Recurso especial não provido. (fl. 775).
+A embargante sustenta, em síntese, que houve omissão em relação à majoração dos honorários advocatícios, pois, apesar de o recurso especial ter sido improvido, os honorários devidos à embargante não foram majorados.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §11, DO CPC/2015. OMISSÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. De acordo com a jurisprudência pacífica deste Tribunal Superior, a majoração da verba honorária sucumbencial é devida, consoante o disposto no art. 85, § 11, do CPC/2015, se estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida deve ter sido publicada a partir de 18/3/2016, momento em que entrou em vigor o novo Código de Processo Civil; (b) não conhecimento integral do recurso, ou seu desprovimento, monocraticamente ou pelo órgão c olegiado competente; e (c) existência de condenação em honorários advocatícios, desde a origem, no feito em que interposto o recurso.
+2. Na espécie, presentes todos os requisitos, de rigor a majoração dos honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal.
+3. Embargos de declaração acolhidos.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Os presentes embargos devem ser acolhidos.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+De acordo com a jurisprudência pacífica deste Tribunal Superior, a majoração da verba honorária sucumbencial é devida, consoante o disposto no art. 85, § 11, do Código de Processo Civil, se estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida deve ter sido publicada a partir de 18/3/2016, momento em que entrou em vigor o novo Código de Processo Civil; (b) não conhecimento integral do recurso, ou seu desprovimento, monocraticamente ou pelo órgão colegiado competente; e (c) existência de condenação em honorários advocatícios, desde a origem, no feito em que interposto o recurso.
+No caso dos autos, os referidos requisitos encontram-se presentes, o que possibilita a majoração da verba honorária.
+Isso posto, acolho os embargos de declaração, a fim de majorar os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal.
