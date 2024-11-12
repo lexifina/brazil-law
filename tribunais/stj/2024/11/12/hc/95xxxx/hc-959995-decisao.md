@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MAIUMI DA ROCHA FONSECA, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2311858-81.2024.8.26.0000).
+Consta dos autos que o paciente teve sua prisão temporária decretada a pedido da autoridade policial nos autos do inquérito n. 1501653-40.2024.8.26.0642 sob a alegação de participação em uma tentativa de homicídio qualificada.
+Inconformada, a defesa impetrou habeas corpus na Corte Estadual pretendendo a revogação da prisão temporária. Contudo, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 10):
+HABEAS CORPUS. Pretendida revogação da prisão temporária. Decisão bem fundamentada, com indicação dos requisitos autorizadores, imprescindível ao regular andamento das investigações. Prisão domiciliar. Incompatibilidade com a temporária, sob pena frustração da própria finalidade do instituto. Inexistência de constrangimento ilegal. ORDEM DENEGADA.
+Posteriormente, a paciente teve a sua prisão temporária convertida em preventiva pelo juízo de primeiro grau (e-STJ fls. 13/17).
+Na presente oportunidade, a impetrante alega que a decisão da autoridade coatora está baseada na gravidade abstrata da acusação e a suposta necessidade da garantia da ordem pública. Afirma que a paciente é a única responsável pelo sustento da filha e por tal razão seria imprescindível a substituição da prisão preventiva por cautelares diversas.
+Diante disso, pede, liminarmente e no mérito a substituição da prisão preventiva pela domiciliar, tendo em vistas estarem presentes os requisitos autorizadores e a expedição do alvará de soltura.
+É o relatório, Decido.
+Não há como prosseguir a irresignação. Primeiro, porque a alegação não foi examinada no ato praticado pelo Tribunal estadual (e-STJ fls. 9/11). E, ainda, porque a defesa apresenta apenas o decreto de prisão preventiva, decisão proferida por juiz de primeiro grau - Processo n. 1501567-69.2024.8.26.0642. Nesse contexto, o Superior Tribunal de Justiça fica impedido de fazer o exame direto os fundamentos da prisão por configurar indevida supressão de instância, nos termos do art. 105 da Constituição Federal.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO QUE APONTA COMO AUTORIDADE COATORA JUIZ DE 1º GRAU QUE MANTEVE A PRISÃO CAUTELAR DO PACIENTE. INCOMPETÊNCIA ABSOLUTA DESTA CORTE SUPERIOR DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. Tratando-se de insurgência voltada contra ato de Juízo de primeiro grau, é flagrante a incompetência desta Corte Superior de Justiça para processar e julgar originariamente este habeas corpus, ante a não incidência do disposto no art. 105, inciso I, alínea "c", da Constituição Federal.
+2. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 621.817/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/11/2020, DJe de 23/11/2020.)
+PROCESSO PENAL. PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS IMPETRADO CONTRA ATO DE JUIZ DE PRIMEIRO GRAU. INCOMPETÊNCIA DESTA CORTE SUPERIOR. ART. 105, I, "c", DA CF. I - Não compete a esta Corte Superior a substituição do Tribunal de Justiça na análise de habeas corpus impetrado contra ato de juiz de primeiro grau, consoante determinação contida nos arts. 125, caput, e § 1º, e 105, I, "c", da CF. II - A dedução de manifesta ilegalidade ou teratologia não exime a observância dos regramentos de competência, um dos pilares que concretiza garantias de estatura constitucional, tais como o devido processo legal e o duplo grau de jurisdição. Agravo regimental desprovido. (AgRg no HC n. 866.313/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 2/4/2024, DJe de 10/4/2024.)
+Ante o exposto, com fundamento no ar. 210 do RISTJ, indefiro liminarmente o habeas corpus .
+Intimem-se.
+EMENTA
