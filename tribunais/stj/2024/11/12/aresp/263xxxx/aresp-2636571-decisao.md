@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo manejado por Clodoaldo de Oliveira Mello, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 134/135):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. INCIDÊNCIA DE PRESCRIÇÃO. TEMA 1005/STJ. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. ADEQUAÇÃO AOS NOVOS DEMONSTRATIVO DE CÁLCULO. DIVERGÊNCIA DE METODOLOGIA. PARECERTETOS. DA CONTADORIA DESTA CORTE. DIFERENÇAS APURADAS
+1. No tocante ao reconhecimento da interrupção da prescrição quinquenal mediante a propositura da ACP 0004911-28.2011.403.6183, a questão foi submetida a julgamento pela sistemática de recurso repetitivo (Tema 1005), sendo firmada tese no âmbito do Superior Tribunal de Justiça: "Na ação de conhecimento individual, proposta com o objetivo de adequar a renda mensal do benefício previdenciário aos tetos fixados pelas Emendas Constitucionais 20/98 e 41/2003 e cujo pedido coincide com aquele anteriormente formulado em ação civil pública, a interrupção da prescrição quinquenal, para recebimento das parcelas vencidas, ocorre na data de ajuizamento da lide individual, salvo se requerida a sua suspensão, na forma ". do art. 104 da Lei 8.078/90"
+2. Por ocasião do julgamento do Recurso Extraordinário nº 564.354/SE, no regime de que tratava o artigo 543-B, do Código de Processo Civil de 1973, o Supremo Tribunal Federal firmou o entendimento de que os tetos estabelecidos no artigo 14, da Emenda Constitucional n.º 20/1998, e no artigo 5º, da Emenda Constitucional n.º 41/2003, têm aplicação imediata sobre os benefícios previdenciários vigentes, desde que tenham sofrido limitação ao teto na época da concessão.
+3. A tese estende-se, também, aos benefícios concedidos entre 5 de outubro de 1988 e 5 de abril de 1991 - período conhecido como "buraco negro" (RE 937595 RG).
+4. É cabível a readequação do benefício aos novos patamares, cabendo reformar a r. sentença proferida, consoante informações da Contadoria desta E. Corte.
+5. Para o cálculo dos juros de mora e correção monetária, aplicam-se os critérios estabelecidos no Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal vigente à época da elaboração da conta de liquidação, observado o quanto decidido pelo C. STF por ocasião do julgamento do RE 870947, sendo que a partir da promulgação da EC nº 113/2021, publicada em 09/12/2021, haverá a incidência da taxa Selic para fins de atualização monetária e compensação da mora, inclusive do precatório, uma única vez, até o efetivo pagamento, acumulado mensalmente.
+6. Anote-se, na espécie, a necessidade de ser observada a prescrição quinquenal das parcelas que antecedem o quinquênio contado do ajuizamento da ação e a obrigatoriedade da dedução, na fase de liquidação, dos valores eventualmente pagos à parte autora na esfera administrativa.
+7. Em virtude do acolhimento parcial do pedido, condeno as partes ao pagamento de honorários advocatícios, fixados em 5% do valor da causa, cada uma, na forma dos artigos 85 e 86 do CPC, observando-se, quanto à parte autora, a suspensão da exigibilidade, nos termos do art. 98, §§ 2.º e 3.º, do Código de Processo Civil.
+8. Apelação parcialmente provida.
+Opostos embargos de declaração, foram rejeitados (fls. 163/164)
+Aponta o recorrente, nas razões do recurso especial, violação aos arts. 85, § § 2º, 3º e 14º, e 1.022 do CPC, 41-A, da Lei8.213/91 e da Súmula 111/STJ. Sustenta, em síntese: (I) negativa de prestação jurisdicional, (II) a lei de benefício não prevê a SELIC, como correção monetária, (III) vedação da compensação em caso de sucumbência parcial e (IV) a aplicação de honorários de sucumbência sobre as parcelas até a decisão de procedência, nos termos da "Súmula 111/STJ.
+Aduz que, "restou bem claro nos embargos de declaração apresentados a finalidade de suprir contradição no julgado quanto ao fato de que deve ser observado o percentual mínimo dos honorários, sendo vedada a compensação mesmo em caso de sucumbência parcial e quanto honorários de sucumbência a considerando que deve ser observada a decisão de base de cálculo para os honorários de sucumbência procedência que no caso ocorreu com a publicação do acórdão" (fl. 176).
+Defende que, "quanto a aplicação da EC 113/2021, cumpre salientar que da mesma forma que a taxa referencial (TR), a Selic não serve como índice de correção monetária, pois não representa a inflação" (fl. 179).
+Afirma que, "os honorários de sucumbência devem ser contabilizados com base nos atrasados devidos até a data da decisão de 2º grau, momento que o pedido do(a) autor(a) se tornou parcialmente procedente, conforme prevê a Sumula 111 do STJ, .." (fl.182).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+O recurso merece acolhida.
+Na forma da jurisprudência desta Corte, "a existência de omissão e/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal local, caracteriza violação do art. 1.022 do NCPC" (AgInt no REsp 1.857.281/MG, Rel. Ministro Moura Ribeiro DJe 19/8/2021).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 CONFIGURADA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. O embargante, ao opor os Embargos de Declaração de fls. 247-249, e-STJ, contra decisão que negou provimento ao Agravo de Instrumento, alegou que o Tribunal de origem deixou de analisar o fato de que é aposentado desde 30/8/2017, conforme Portaria de Aposentação de ID 6336636, homologada pelo TCE, para fins de isenção do IRPF sobre proventos de aposentadoria de portador de doença grave.
+2. Contudo, em vez de apreciar o ponto alegado como omisso pelo órgão embargante, o Tribunal a quo preferiu se esquivar do assunto, sob o
+argumento genérico de que se teria esgotado a prestação jurisdicional. Entretanto, era imprescindível que a Corte Julgadora se pronunciasse sobre tal tema, haja vista que é questão essencial para a solução da controvérsia.
+3. Assim, faz-se necessário o provimento do Recurso Especial por ofensa aos artigos 489 e 1022 do Código de Processo Civil, para fazer que a matéria volte ao Tribunal de origem a fim de se manifestar adequadamente sobre o ponto omisso.
+4. Embargos de Declaração acolhidos, com efeitos infringentes, para dar provimento ao Recurso Especial.
+(EDcl no AgInt nos EDcl no REsp 1.869.445/PE, Rel. Ministro Herman Benjamin, DJe 1º/7/2021)
+A pretensão recursal merece acolhida, pois a parte recorrente, nas razões aduzidas nos embargos de declaração suscitou (fls. 145/151):
+CONTRADIÇÃO NO JULGADO
+Trata-se de ação julgada procedente para readequação do benefício com base na aplicação dos novos tetos pelas EC 20/98 e 41/03. Verifica-se ocorrência de contradição no julgado quanto à correção monetária, sendo que o acórdão proferido ID 269375882 determinou:
+(..)
+Para o cálculo dos juros de mora e correção monetária, aplicam-se os critérios estabelecidos no Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal vigente à época da elaboração da conta de liquidação, observado o quanto decidido pelo C. STF por ocasião do julgamento do RE 870947, sendo que a partir da promulgação da EC nº 113/2021, publicada em 09/12/2021, haverá a incidência da taxa Selic, para fins de atualização monetária e compensação da mora, inclusive do precatório, uma única vez, até o efetivo pagamento, acumulado mensalmente.
+(..)
+Quanto a aplicação da EC 113/2021, cumpre salientar que da mesma forma que a taxa referencia (TR), a Selic não serve como índice de correção monetária, pois não representa a inflação.
+(..)
+HONORÁRIOS DE SUCUMBÊNCIA - ART. 85, §§ 3º E 14 DO CPC
+Fora decidido por fixar a sucumbência recíproca entre as partes, sendo o autor também condenado ao pagamento de honorários ao INSS.
+Ocorre que, o pedido principal foi acolhido de readequação aos novos tetos pelas EC 20/98 e 41/03, sendo condenado o INSS a proceder a revisão do benefício, portanto, o decaimento do autor foi mínimo referente apenas a prescrição quinquenal a contar da ACP.
+(..)
+HONORÁRIOS DE SUCUMBÊNCIA - ATÉ DECISÃO DE PROCEDÊNCIA
+Verifica-se a ocorrência de omissão, pois trata-se de situação de decisão que reformou a sentença de improcedência, deu parcial provimento ao recurso de apelação interposto pela parte autora julgando parcialmente procedente o pedido inicial de readequação pelas EC"s 20/98 e 41/03, no entanto aplicou a sucumbência recíproca.
+Ocorre que a decisão proferida padece de omissão quanto ao termo final para base de cálculo , sendo entendimento do ST Jdos honorários de sucumbência nos julgamentos dos AgInt nos EDcl no R Esp 1654553/SP e AgRg no Recurso Especial nº 1.557.782-SP, que a contagem dos honorários de sucumbência incide até a data da decisão de procedência.
+(..).
+Desta forma pugna seja sanada a omissão apontada na decisão quanto ao termo final dos honorários de sucumbência considerando que a sentença proferida em primeiro grau foi de improcedência do pedido, a fim de que contabilizem as parcelas até a data da decisão de procedência (acórdão que reformou a sentença - proferido em 2º grau).
+Contudo, observa-se que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou-se silente sobre argumentações que se mostram relevantes para o deslinde da controvérsia, em franca violação ao art. 1.022, II, do CPC.
+ANTE O EXPOSTO, con heço do agravo e dou provimento ao recurso especial, em ordem a anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões aqui tidas por omitidas.
+Publique-se.
+EMENTA
