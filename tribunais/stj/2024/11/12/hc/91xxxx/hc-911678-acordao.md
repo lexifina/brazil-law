@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. TRAFICO DE ENTORPECENTES. DOSIMETRIA. PENA-BASE. FUNDAMENTOS CONCRETOS PARA O AUMENTO DA PENA-BASE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+I. Caso em exame
+1. Habeas corpus impetrado em favor de condenado por tráfico de drogas, questionando o aumento da pena-base.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é cabível o habeas corpus como substitutivo de recurso próprio ou revisão criminal, e se há flagrante ilegalidade na dosimetria.
+III. Razões de decidir
+3. O habeas corpus não é admitido como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. O juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente.
+5. Não há desproporção no aumento da pena-base, uma vez que há motivação particularizada, em obediência aos princípios da proporcionalidade e da individualização da pena, ex vi do art. 42 da Lei n. 11.343/06.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em favor de ERICLES VINICIO RODRIGUES DA SILVA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Alagoas.
+A paciente foi condenada à pena de 02 (dois) anos e 01 (um) mês de reclusão e 1 (um) ano de detenção, em regime aberto, além de 218 dias-multa, em razão da prática do crime previsto no art. 33 da Lei 11.343/06 e ao crime descrito no art. 12, caput, da Lei 10.826/03.
+Contra a sentença condenatória, a defesa interpôs recurso de apelação à Corte de origem, que negou provimento ao apelo, nos termos do acórdão com a seguinte ementa:
+PENAL. PROCESSO PENAL. APELAÇÃO. TRÁFICO DE DROGAS. POSSE IRREGULAR DE ARMA DE FDOGO. PEDIDO DE ABSOLVIÇÃO. SEM RAZÃO. PROVAS NOS AUTOS COMPROVAM A AUTORIA E MATERIALIDADE DOS CRIMES DE TRÁFICO DE DROGAS E PORTE IRREGULAR DE ARMA DE FOGO. PLEITO DE FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. INDEFERIDO. MULTA PROPORCIONAL AO DELITO. RECURSO DESPROVIDO. UNÂNIME. I - Observa-se que as circunstâncias em que ocorreu o crime foram apontadas na sentença condenatória. Ademais, às folhas 269/278 contêm os laudos periciais dos números 6865.18.0539.19 e 7993.18.0542.19, que afirmaram que os materiais submetidos à análise pericial eram identificados como Cannabis Sativa Linneu (maconha) e crack (cocaína base e cocaína apresentada sob a forma de pedras), respectivamente. Por outro lado, às folhas 282/285, está registrado o laudo pericial referente à arma de fogo, sob o número 6867.18.0148.19. II- Note-se que, além da substância entorpecente, foram colhidas outras provas que caracterizam o comércio, sendo elas a quantidade da droga e a indicação de que parte da mesma já estava pronta para ser comercializada, fazendo com que o acervo probatório comprove o cometimento do crime de tráfico de entorpecentes. Apesar de o réu ter negado a autoria do delito e a propriedade dos objetos mencionados no auto de apresentação e apreensão (fls. 04), ao examinar as evidências coletadas, constato que ele os mantinha em sua residência ou em seu depósito, conforme demonstrado pelas provas reunidas no processo. III- Importante ressaltar que a magistrada, dentro dos limites mínimo e máximo da pena prevista em abstrato deve fixar a pena-base, movido pelo seu livre convencimento, observando primordialmente os critérios da proporcionalidade e razoabilidade, inclusive, a fixação de um critério matemático é totalmente rechaçado pela jurisprudência majoritária. No caso concreto, restou uma circunstância judicial desfavorável ao apelante, qual seja, as circunstâncias do crime. IV- Por fim, entendo como justa e devidamente fundamentada a pena definitiva aplicada pela magistrada de 1º grau, sendo ela em concurso material dos crimes de Tráfico de Drogas e Posse Ilegal de Arma de Fogo, fixada no patamar de 03 anos de reclusão, 01 (um) ano de detenção e 218 (duzentos e dezoito) dias-multa, no valor de 1/30 do salário mínimo vigente à época do fato. V- Recurso desprovido. Unânime.
+A defesa alega, em síntese, a ocorrência de erro na dosimetria da pena.
+Requer a concessão da ordem para obter a redução da pena aplicada à paciente.
+É o relatório.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. TRAFICO DE ENTORPECENTES. DOSIMETRIA. PENA-BASE. FUNDAMENTOS CONCRETOS PARA O AUMENTO DA PENA-BASE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+I. Caso em exame
+1. Habeas corpus impetrado em favor de condenado por tráfico de drogas, questionando o aumento da pena-base.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é cabível o habeas corpus como substitutivo de recurso próprio ou revisão criminal, e se há flagrante ilegalidade na dosimetria.
+III. Razões de decidir
+3. O habeas corpus não é admitido como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. O juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente.
+5. Não há desproporção no aumento da pena-base, uma vez que há motivação particularizada, em obediência aos princípios da proporcionalidade e da individualização da pena, ex vi do art. 42 da Lei n. 11.343/06.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+VOTO
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, na medida em que o acórdão assim se manifestou acerca do aumento da pena-base:
+"O magistrado valorou as circunstâncias do crime como circunstância judicial desfavorável, levando em consideração a natureza do material entorpecente apreendido e o uso de arma de fogo.
+No caso em tela, foi apreendida 50g (cinquenta gramas) de cocaína e 25g (vinte e cindo gramas) da droga popularmente conhecida como maconha, drogas nocivas que justifica a exasperação da pena-base em patamar acima do mínimo previsto, ao analisarmos com a preponderância da natureza da droga na primeira fase da dosimetria estabelecida pelo art. 42 da lei 11.343/06, devendo ser mantida sua valoração desfavorável.
+Importante ressaltar que a magistrada, dentro dos limites mínimo e máximo da pena prevista em abstrato deve fixar a pena-base, movido pelo seu livre convencimento, observando primordialmente os critérios da proporcionalidade e razoabilidade, inclusive, a fixação de um critério matemático é totalmente rechaçado pela jurisprudência majoritária.
+No caso concreto, restou uma circunstância judicial desfavorável ao apelante, qual seja, as circunstâncias do crime.
+Baseada nos critérios da proporcionalidade e razoabilidade, quando da análise dos limites previstos pelo legislador no tipo penal (cinco a quinze anos), deve ser levado em consideração não só o número das circunstâncias judiciais valoradas de forma negativa na primeira fase, como também as peculiaridades do caso concreto, exposto acima na apreciação das circunstâncias do crime que justificam a exasperação da pena em acima do mínimo previsto.
+A par disso, considerando a previsão legal de pena de 05 a 15 anos para a prática do crime em tela, bem como a valoração negativa das circunstâncias do crime, levando ainda a análise do caso concreto, critérios da proporcionalidade e razoabilidade, bem como a natureza da droga apreendida, mantenho fixo a pena aplicada.
+Por fim, entendo como justa e devidamente fundamentada a pena definitiva aplicada pela magistrada de 1º grau, sendo ela em concurso material dos crimes de Tráfico de Drogas e Posse Ilegal de Arma de Fogo, fixada no patamar de 02 (dois) anos e 01 (um) mês de reclusão, 01 (um) ano de detenção e 218 (duzentos e dezoito) dias-multa, no valor de 1/30 do salário mínimo vigente à época do fato."
+A análise realizada pelo Tribunal de origem está em linha com a jurisprudência desta Corte acerca da temática, pois o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, nos termos do artigo 42 da Lei 11.343/2006.
+Quanto ao critério numérico de aumento para cada circunstância judicial negativa, in casu, não há desproporção no aumento da pena-base, uma vez que há motivação particularizada, em obediência aos princípios da proporcionalidade e da individualização da pena, ex vi do art. 42 da Lei n. 11.343/06, ausente, portanto, notória ilegalidade a justificar a concessão da ordem pleiteada.
+A propósito: "Salienta-se que a ponderação das circunstâncias judiciais não constitui mera operação aritmética, em que se atribuem pesos absolutos a cada uma delas, mas sim exercício de discricionariedade, devendo o julgador pautar-se pelo princípio da proporcionalidade e, também, pelo elementar senso de justiça. " (AgRg no AREsp n. 2.240.104/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 27/2/2023.)
+Alterar o quadro formado no Tribunal de origem demanda inviável dilação probatória em sede de habeas corpus.
+Ante o exposto, não conheço do presente habeas corpus.
+É o voto.
