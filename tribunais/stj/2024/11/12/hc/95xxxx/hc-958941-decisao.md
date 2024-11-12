@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RODRIGO FELIX VITA VITORIANO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no Habeas Corpus Criminal nº 2323141-04.2024.8.26.0000/50000.
+Consta dos autos que o juízo da execução penal negou a progressão de regime prisional ao paciente, por entender ausentes os requisitos legais.
+Inconformada, a defesa impetrou writ, quando a decisão anterior foi mantida, inclusive quanto à determinação de exame criminológico.
+No presente mandamus, a defesa aduz que a progressão de regime foi negada de forma genérica, sem argumentação idônea, apenas amparada na gravidade abstrata do crime, na longa pena a cumprir e na nova redação da Lei 14.843/2024.
+Explica que o paciente já cumpriu os requisitos necessários.
+Requer, inclusive liminarmente, a retificação da decisão a quo, com a concessão da progressão, sem a necessidade de exame criminológico. No mérito, a confirmação da liminar, com a ordem definitiva.
+É o relatório. DECIDO.
+A controvérsia consiste em saber se a submissão do paciente a exame criminológico para a progressão de regime prisional foi correta.
+Ora, a partir das inovações trazidas pela Lei n. 10.792/03, que alterou a redação do art. 112 da Lei n. 7.210/84, afastou-se a exigência do exame criminológico para fins de progressão de regime como regra geral.
+Por outro lado, este Superior Tribunal de Justiça firmou entendimento de que o magistrado de 1º grau, ou mesmo o Tribunal a quo, diante das circunstâncias do caso concreto, podem determinar a realização da referida prova técnica para a formação de seu convencimento acerca do merecimento do apenado, desde que essa decisão seja fundamentada.
+Consolidando esse entendimento, a Súmula n. 439, STJ:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+O Supremo Tribunal Federal, ao analisar o tema, editou a Súmula Vinculante de n. 26, in verbis:
+Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+Assim, forçoso reconhecer a possibilidade de se determinar a realização do exame criminológico, desde que por decisão fundamentada.
+No caso concreto, verifica-se que o paciente não ostenta faltas graves em seu prontuário e, além disso, ele trabalha e estuda (fl. 19).
+Desta forma, pelas peculiaridades do caso concreto, tendo em conta a ausência de argumentação concreta em relação aos próprios autos da execução penal, tenho que a origem deva reavaliar a fundamentação utilizada.
+Confirmando, a decisão de Relatoria do Min. Reynaldo Soares da Fonseca, Quinta Turma, nos autos do HC n. 958.689/SP, datada de 11/11/2024, que bem analisou a matéria:
+Quanto ao tema, deve ser destacado, inicialmente, que a Lei n. 14.843/2024 deu nova redação ao § 1º do art. 112 da Lei de Execuções Penais, ao dispor que:
+"Em todos os casos, o apenado terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão"  ..
+Há de se ressaltar que as normas relacionadas à execução são de natureza penal e, enquanto tais, somente podem incidir ao tempo do crime, ou seja, no momento em que a ação ou omissão for praticada (art. 4º do CP), salvo se forem mais benéficas ao executando, situação em que terão efeitos retroativos (art. 2º, parágrafo único, do CP) (HC n. 926.021, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 5/8/2024).
+Relembre-se, em questão de progressão de regime, que já decidiu o Supremo Tribunal Federal que A lei que estabelece requisitos mais gravosos para concessão de progressão de regime não se aplica aos crimes cometidos antes da sua vigência, como ressai da pacífica jurisprudência desta Corte (RHC 221271 AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em 09-05-2023).
+Nesse sentido, verifica-se que o Superior Tribunal de Justiça, pela mesma razão, considerou que a Lei n. 11.464/2007 não incide sobre os casos anteriores à sua publicação, uma vez que adicionou requisitos para progressão dos condenados por crimes hediondos, o que, ademais, culminou na edição do enunciado sumular n. 471/STJ, que assim dispõe:
+ ..
+Depreende-se, portanto, da interpretação da nova redação do § 1º do art. 112 da Lei de Execuções Penais, dada pela Lei n. 14.843/2024, a ocorrência de novatio legis in pejus, uma vez que tal alteração, sem dúvida alguma, pela literalidade da redação posta, tornou obrigatória a realização de exame criminológico ao acrescentar requisito impreterível e, por consequência, tornar forçosamente mais moroso o exame dos requisitos para a progressão de regime.
+Ademais, a respeito da alteração legislativa promovida pela Lei n. 14.843/2024, tem-se recentíssima decisão monocrática proferida pelo Ministro ANDRÉ MENDONÇA no HC n. 240.770/MG, em que se considerou que tendo em vista o princípio da individualização da pena, o qual também se estende à fase executória, consistindo em inovação legislativa mais gravosa, faz-se necessária a incidência da norma vigente quando da prática do crime, somente admitida a retroatividade de uma nova legislação se mais favorável ao sentenciado (novatio legis in mellius), concluindo pela impossibilidade de retroação no que toca à limitação aos institutos da saída temporária e trabalho externo para alcançar aqueles que cumprem pena por crime crime hediondo ou com violência ou grave ameaça contra pessoa - no qual se enquadra o crime de roubo -, cometido anteriormente à sua edição, porquanto mais grave (lex gravior).
+ ..
+Desse modo, constata-se que a alteração legislativa promovida pela Lei n. 14.843/2024, ao tornar obrigatório o exame criminológico para fins de progressão de regime, não pode ser aplicada retroativamente para atingir fatos praticados sob a égide da legislação anterior, como na hipótese, sob pena de afrontar o disposto nos art. 5º, XL, da Constituição Federal, e art. 2º do Código Penal. (grifei)
+Corroborando:
+ ..  A exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14/843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade.  ..  Recurso em habeas corpus provido para afastar a aplicação do § 1º do art. 112 da Lei de Execução Penal, com redação dada pela Lei n. 14.843/2024, determinando o retorno dos autos ao Juízo da execução para que prossiga na análise do pedido de progressão de regime. (RHC n. 200.670/GO, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024).
+Tudo de forma a se evitar o excesso na execução penal, possibilitando a reinserção gradual e justa do apenado na sociedade.
+Ante o exposto, não conheço do habeas corpus. Concedo a ordem, de ofício, para determinar, ao juízo da execução, que reanalise a possibilidade de progressão de regime, como entender de direito, nos termos da fundamentação supra, e, claro, apenas caso nenhum aspecto desabonador superveniente tenha ocorrido na execução penal e se o exame criminológico ainda não tenha sido realizado.
+Tudo a ser observado com recomendação de celeridade.
+Intime-se, com urgência, a origem para o cumprimento.
+Cientifique-se o MPF desta decisão.
+Publique-se. Intimem-se.
+EMENTA
