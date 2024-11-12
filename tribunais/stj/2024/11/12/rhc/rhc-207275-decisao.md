@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ANA CLARA PEREIRA COSTA contra acórdão proferido pelo Tribunal de Justiça do Estado do Piauí (HC n. 0757393-24.2024.8.18.0000).
+Consta dos autos que a recorrente teve a sua prisão temporária decretada em 21/5/2024 pela suposta prática do crime previsto art. 157, §§ 1º, 2º, II, V e VII, do Código Penal, sendo a prisão posteriormente convertida em preventiva (e-STJ fls. 872/881). Contra a referida decisão, impetrou-se habeas corpus perante a Corte estadual, que dengou a ordem em acórdão assim ementado (e-STJ fl. 887):
+PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO. CABÍVEL A PRISÃO PREVENTIVA BASEADA NO MODUS OPERANDI. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA. 1. Constata-se a existência de fundamentação idônea para a constrição cautelar, visto que a autoridade coatora se fundou em elementos concretos, calcado no modus operandi e gravidade em concreto do crime, sobretudo pela apropriação da paciente do valor de R$ 90.000,00 (noventa mil reais) da vítima, os diversos golpes com objeto perfurocortante e concurso de agentes, o que evidencia periculosidade e demonstra a necessidade concreta da prisão cautelar. 2. Ordem Denegada. Votação unânime.
+No presente recurso, a defesa alega a ausência dos requisitos para a prisão preventiva. Sustenta que a ré é primária, portadora de bons antecedentes, tem residência fixa e se apresentou espontaneamente à polícia, sendo suficiente a imposição de medidas cautelares alternativas.
+Diante disso, requer, liminarmente e no mérito, a revogação da prisão preventiva da recorrente, ainda que mediante a imposição de medidas cautelares previstas no art. 319 do CPP.
+É o relatório. Decido.
+Busca-se, em síntese, a revogação da prisão preventiva da recorrente, acusada da suposta prática do crime de latrocínio.
+De plano, verifico que, nesta Corte, também foi impetrado o HC n. 954.892/PI, em favor da ora recorrente, requerendo, igualmente, a revogação do decreto prisional, sob os mesmos fundamentos ora apresentados e apontando o mesmo ato coator.
+Assim, por se tratar de mera reiteração, o presente recurso não merece ser conhecido.
+Sobre o tema, a jurisprudência deste Tribunal é pacífica no sentido de que não se conhece de pleito que já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido.
+De outro vértice, verifico que as teses de ausência dos requisitos para a prisão preventiva, desproporcionalidade da custódia e possibilidade de aplicação de medidas cautelares alternativas já foram examinadas por esta Corte no julgamento do HC n. 807.852/SP, impetrado em favor do paciente e apontando o mesmo ato coator.
+Ressalte-se que o processamento do mencionado habeas corpus foi admitido em homenagem ao princípio da ampla defesa, a fim de se examinar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício, conforme entendimento adotado por esta Corte e pelo Supremo Tribunal Federal. Nesse sentido, confiram-se os seguintes precedentes: HC n. 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe 27/5/2015; e STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julg. em 3/12/2013, DJ 28/2/2014.
+Todavia, a utilização do recurso cabível simultaneamente à utilização do writ substitutivo desvirtuou igualmente o ordenamento processual, por se tratar de mera reiteração, motivo pelo qual o presente recurso não pode prosseguir. Nesse diapasão:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 750.512/SP. LITISPENDÊNCIA. PETIÇÃO RECURSAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No HC n. 750.512/SP, foi formulada idêntica pretensão em favor do ora Recorrente. O recurso ordinário, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesma matéria. Assim, é incognoscível a insurgência defensiva.
+2. Não é possível a concessão da ordem de habeas corpus de ofício na hipótese de reiteração de pedido, porquanto a viabilidade de se proceder de tal maneira deve ser verificada quando do julgamento do writ conexo.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no RHC n. 172.358/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022).
+ .. 2. Configurada a inadmissível reiteração de pedido, o writ não pode prosseguir, nos termos do art. 210, do RISTJ
+(AgRg no HC n. 444.220/SP, Ministro Felix Fischer, Quinta Turma, DJe 23/5/2018). .. (AgRg no HC n. 790.475/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente recurso ordinário.
+Intimem-se.
+EMENTA
