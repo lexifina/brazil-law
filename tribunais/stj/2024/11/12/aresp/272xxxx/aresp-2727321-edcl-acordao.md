@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO no agravo regimental no agravo em recurso especial. OMISSÃO. MERA PRETENSÃO DE REVISÃO DO JULGADO. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. REJEIÇÃO.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão que negou provimento ao agravo regimental, sob alegação de omissão na análise das teses defensivas.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se há vício integrativo no acórdão que negou provimento ao agravo regimental.
+III. Razões de decidir
+3. Os embargos de declaração visam suprir omissão, contradição, ambiguidade ou obscuridade, não se prestando para revisão do julgado por mero inconformismo.
+4. Não compete ao Superior Tribunal de Justiça o enfrentamento de dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal.
+IV. Dispositivo e tese
+5. Embargos de declaração rejeitados.
+Tese de julgamento: 1. Embargos de declaração não se prestam para revisão do julgado por mero inconformismo.
+Dispositivos relevantes citados: CPP, art. 619.
+Jurisprudência relevante citada: STJ, EDcl no AgRg no AREsp 669.505/RN, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/8/2015.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARCIA RAMOS COSTA (e-STJ, fls. 444-448) contra acórdão da Quinta Turma que negou provimento ao agravo regimental (e-STJ, fls. 433-436), assim ementado:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial, em razão da incidência da Súmula 182 do STJ, por falta de impugnação específica dos fundamentos da decisão agravada.
+2. A Defesa argumenta a possibilidade de superar a Súmula 7 do STJ ou conceder a ordem de ofício, conforme o art. 654, §2º, do CPP.
+3. O Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a ausência de impugnação específica dos fundamentos da decisão que não admitiu o recurso especial atrai a incidência da Súmula 182 do STJ.
+III. Razões de decidir
+5. A ausência de impugnação específica aos fundamentos da decisão combatida atrai a incidência da Súmula 182 do STJ, inviabilizando o conhecimento do agravo.
+6. A Defesa não delineou os pedidos formulados no recurso especial, limitando-se a apontar dispositivos violados, sem demonstrar a necessidade de reexame de provas.
+7. A concessão de habeas corpus de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido. Tese de julgamento: "1. A ausência de impugnação específica dos fundamentos da decisão agravada atrai a incidência da Súmula 182 do STJ. 2. A concessão de habeas corpus de ofício é de iniciativa exclusiva do julgador diante de flagrante ilegalidade."
+Nas razões, alega que "para que haja apreciação de Extraordinário, faz-se mister o prequestionamento da questão constitucional".
+Destaca que houve violação aos art. 5º, incisos II, LIV, da Constituição da República.
+Sustenta a nulidade da audiência de instrução, pela afronta ao disposto no art. 212 do CPP.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO no agravo regimental no agravo em recurso especial. OMISSÃO. MERA PRETENSÃO DE REVISÃO DO JULGADO. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. REJEIÇÃO.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão que negou provimento ao agravo regimental, sob alegação de omissão na análise das teses defensivas.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se há vício integrativo no acórdão que negou provimento ao agravo regimental.
+III. Razões de decidir
+3. Os embargos de declaração visam suprir omissão, contradição, ambiguidade ou obscuridade, não se prestando para revisão do julgado por mero inconformismo.
+4. Não compete ao Superior Tribunal de Justiça o enfrentamento de dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal.
+IV. Dispositivo e tese
+5. Embargos de declaração rejeitados.
+Tese de julgamento: 1. Embargos de declaração não se prestam para revisão do julgado por mero inconformismo.
+Dispositivos relevantes citados: CPP, art. 619.
+Jurisprudência relevante citada: STJ, EDcl no AgRg no AREsp 669.505/RN, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/8/2015.
+VOTO
+Os embargos não merecem ser acolhidos.
+Dispõe o Código de Processo Penal:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou
+turmas, poderão ser opostos embargos de declaração, no prazo de dois dias
+contados da sua publicação, quando houver na sentença ambiguidade,
+obscuridade, contradição ou omissão."
+Como é cediço, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, a sua revisão no caso de mero inconformismo da parte.
+Nesse sentido:
+" ..
+3. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer a embargante. Destarte, a mera irresignação com o entendimento apresentado na decisão, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+4. Embargos declaratórios rejeitados." (EDcl no AgRg no AREsp 669.505/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/8/2015. )
+No caso dos autos, à toda evidência, não se vislumbra omissão, conforme apontado pelo embargante.
+Ao contrário, o que se percebe, nitidamente, é a mera pretensão da parte em superar os óbices apontados no acórdão a fim de fazer valer a sua tese recursal.
+Para corroborar tal assertiva, vale transcrever o inteiro teor do voto condutor do acórdão embargado:
+"A decisão monocrática proferida pela Presidência desta Corte Superior não conheceu do agravo interposto contra a decisão que não admitiu o recurso especial, pois o agravante deixou de impugnar especificamente a incidência da Súmula 7 do STJ.
+Todavia, no presente agravo regimental, a Defesa, mais uma vez, nada dispôs acerca dos referidos fundamentos, os quais restaram incólumes.
+Como é cediço, para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182/STJ. PENAL E PROCESSUAL PENAL. FURTO SIMPLES NA MODALIDADE TENTADA. MINUTA DE AGRAVO QUE NÃO INFIRMA DE FORMA ESPECIFICA E CONCRETA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N. 7 DO STJ. IMPUGNAÇÃO GENÉRICA. SÚMULA N. 83/STJ. APLICÁVEL AOS RECURSOS INTERPOSTOS COM BASE NA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. HABEAS CORPUS DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO INADMITIDO. DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO. 1. Nas razões do agravo em recurso especial, não foram rebatidos, de modo específico e concreto, os fundamentos da decisão agravada relativos à aplicação das Súmulas n. 7 e 83, ambas do Superior Tribunal de Justiça, atraindo, à espécie, a incidência da Súmula n. 182 do Superior Tribunal de Justiça. 2. No tocante à incidência da Súmula n. 7/STJ, a Agravante limitou-se a sustentar, genericamente, que as pretensões elencadas no apelo nobre envolvem mero debate jurídico, não demandando, assim, reexame de provas, sem explicitar, contudo, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n. 7 do Superior Tribunal de Justiça.  ..  6. Agravo regimental desprovido". (AgRg no AREsp 1789363/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/02/2021, DJe 17/02/2021).
+Nota-se que a Defesa não delineou os pedidos formulados no recurso especial, mas apenas apontou quais foram os dispositivos violados.
+Consoante a pacífica jurisprudência desta Corte, é dever do agravante impugnar especificamente todos os fundamentos estabelecidos na decisão que não admitiu o recurso especial. Nesse sentido, a Súmula 182/STJ, in verbis:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+A corroborar esse entendimento:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. EXECUÇÃO PROVISÓRIA. QUESTÃO PREJUDICADA. HABEAS CORPUS DEFERIDO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. ART. 117 DO CP. ACÓRDÃO CONFIRMATÓRIO. MARCO INTERRUPTIVO. NOVO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. LAPSO TEMPORAL. NÃO OCORRÊNCIA. EXTINÇÃO A PUNIBILIDADE NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO. 1. A ausência de impugnação específica aos fundamentos da decisão combatida atrai a incidência dos arts. 1.021, § 1º, do CPC e da Súmula 182 desta Corte. 2. A controvérsia recursal referente à pretensão de execução da pena somente após o trânsito em julgado configura mera reiteração do HC 546.490/SP, em que concedida a ordem de habeas corpus.  ..  6. Agravo regimental não conhecido. Pedido de execução da pena somente após o trânsito em julgado prejudicado. Pedido de declaração da extinção da punibilidade pela prescrição da pretensão punitiva estatal indeferido."(AgRg nos EDcl no AREsp 1621913/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 30/06/2020, DJe 06/08/2020).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. ILEGALIDADE FLAGRANTE. EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. DESCABIMENTO. AGRAVO REGIMENTAL NÃO CONHECIDO. HABEAS CORPUS CONCEDIDO, DE OFÍCIO. 1. O princípio da dialeticidade, positivado no art. 932, inciso III, do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, impõe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando todos os fundamentos nela lançados para obstar sua pretensão. 2. No caso concreto, o agravo em recurso especial não foi conhecido porque teria deixado de impugnar todos os fundamentos utilizados pelo Tribunal de origem para inadmitir o recurso especial, quais sejam, a Súmula n. 284 do STF, pela falta de indicação do dispositivo de lei federal que teria sido violado, bem assim a Súmula n.º 7 do STJ, em razão da necessidade do reexame de provas. 3. A Agravante, no agravo regimental, se limitou a afirmar, genericamente, que teria impugnado integralmente a inadmissão do recurso especial, ser descabida a aplicação da Súmula n. 83 do STJ, bem assim não estar demonstrado o dolo específico. Aplicação da Súmula n. 182 do STJ. 4. A Terceira Seção desta Corte, ao julgar o EREsp n. 1.619.087/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ acórdão Ministro JORGE MUSSI, fixou entendimento de não ser possível a execução provisória de penas restritivas de direitos, conforme disposto no art. 147 da Lei de Execução Penal. E, na sessão de julgamento do dia 24/10/2018, o referido Colegiado, por maioria de votos, reafirmou a orientação já adotada.5. Agravo regimental não conhecido. Habeas corpus concedido, de ofício, para obstar a execução das penas restritivas de direitos, impostas à Agravante, antes do trânsito em julgado da condenação." (AgRg no AREsp 1684895/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/06/2020, DJe 29/06/2020).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTO DA DECISÃO ATACADA NÃO COMBATIDO. APLICABILIDADE DA SÚMULA N. 182 DO STJ. PRESCRIÇÃO. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. AGRAVO REGIMENTAL NÃO CONHECIDO. 1. É inviável agravo regimental em que o agravante não infirma em seu recurso o fundamento utilizado na decisão atacada. Incidência da Súmula n. 182 do STJ. 2. Não instruída a impetração com documento essencial ao deslinde da controvérsia - a fim de comprovar a data do trânsito em julgado e o não início da execução da pena -, mostra-se inviável o exame do sustentado constrangimento ilegal e o eventual reconhecimento da prescrição. 3. Agravo regimental não conhecido." (PET no HC 363.400/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/02/2020, DJe 14/02/2020).
+Com isso, é inafastável a aplicação do impeditivo da Súmula 182 deste Superior Tribunal ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"). Nesse sentido, confiram-se os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA CORTE ESPECIAL, DJe de 27/8/2014.
+Anote-se, ainda, que o Código de Processo Civil de 2015, em seu art. 932, reafirmou a orientação do STJ, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Acrescenta-se que, no julgamento do EAREsp 746.775 (DJe 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+Por fim, importante ressaltar que "com lastro na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do CPP, esta Corte Superior entende que a concessão da ordem de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência." (EDcl no AgRg no AREsp n. 2.572.783/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/9/2024, DJe de 13/9/2024.)"
+Nesse contexto, considerando que o acórdão embargado foi proferido em consonância com a jurisprudência deste Superior Tribunal de Justiça, forçoso reconhecer a inexistência de vício a ser integrado em sede de aclaratórios.
+Por fim, cumpre esclarecer que não compete ao Superior Tribunal de Justiça o enfrentamento de dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
