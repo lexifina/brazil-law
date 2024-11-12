@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em benefício de NILSON MIRANDA DE CARVALHO NETO - condenado por homicídios qualificados a 48 anos de reclusão -, atacando-se o acórdão da apelação criminal proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (fls. 90/109), não comporta processamento.
+Com efeito, busca a impetração redimensionar a pena imposta - na condenação proferida na Ação Penal n. 0156466-59.2017.8.19.0054 (fls. 80/89 - da 1ª Vara Criminal da comarca de Belford Roxo/RJ) -, com a aplicação da regra do concurso formal de crimes, sustentado que o paciente Nilson praticou três crimes mediante uma única conduta, isto é, os resultados decorreram de apenas uma ação, configurando o que a doutrina denomina de concurso formal perfeito ou próprio (fl. 8).
+Entretanto, do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 24/4/2024 (conforme informações do endereço eletrônico do Tribunal estadual), o que afasta a competência desta Corte Superior para análise do pleito.
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois o acórdão hostilizado concluiu pela existência de elementos coerentes e válidos a ensejar a condenação do paciente nos delitos praticados em concurso material, em virtude dos desígnios autônomos das condutas - incabível o pleito de reconhecimento de concurso formal entre os crimes de homicídios, pois as condutas que ceifaram as vidas das 3 vítimas possuíam desígnios autônomos (fl. 108) -, então, para alterar a conclusão das instâncias ordinárias seria necessário reexame probatório, inviável na via eleita (AgRg no HC n. 893.826/SC, Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, julgado em 16/10/2024, DJe 23/10/2024).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
