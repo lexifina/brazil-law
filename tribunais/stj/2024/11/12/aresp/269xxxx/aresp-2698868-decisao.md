@@ -1,0 +1,40 @@
+DECISÃO
+Na origem, trata-se de ação declaratória de nulidade de ato administrativo ajuizada por concessionária de serviços rodoviários, objetivando a anulação de multa decorrente de infração contratual. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 149.764,83 (cento e quarenta e nove mil setecentos e sessenta e quatro reais e oitenta e três centavos).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO contra acórdão com o seguinte resumo de ementa:
+RECURSO DE APELAÇÃO - AÇÃO DE PROCEDIMENTO COMUM - DIREITO ADMINISTRATIVO - CONTRATO ADMINISTRATIVO - AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DE TRANSPORTE DO ESTADO DE SÃO PAULO - ARTESP - CONTRATO DE CONCESSÃO DE SERVIÇO PÚBLICO - RODOVIA - INADIMPLEMENTO CONTRATUAL - IRREGULARIDADE VERIFICADA (PROBLEMAS NA CONSERVAÇÃO DE ROTINA DE REVESTIMENTO VEGETAL) - IMPOSIÇÃO DE MULTA ADMINISTRATIVA - PRETENSÃO À NULIDADE DA REFERIDA PENALIDADE CONTRATUAL - IMPOSSIBILIDADE - PRETENSÃO SUBSIDIÁRIA À REDUÇÃO DO VALOR DA MESMA SANÇÃO PECUNIÁRIA - IMPOSSIBILIDADE.
+1. É induvidoso o inadimplemento do contrato de concessão de Rodovia, acarretando, no âmbito administrativo, a aplicação da respectiva sanção pecuniária.
+2. Processo administrativo, instaurado pela autoridade competente, sobrevindo a tramitação regular, assegurada a observância e o exercício dos direitos constitucionais ao contraditório e a ampla defesa.
+3. Inexigibilidade de notificação prévia e a concessão de prazo, para a realização de serviços necessários, reconhecida.
+4. A ausência de notificação prévia, não descaracteriza a infração administrativa.
+5. Dever de manutenção e fiscalização da concessionária, inerente ao próprio regime de concessão de serviço público.
+6. Proporcionalidade da penalidade aplicada, igualmente, reconhecida.
+7. Impossibilidade de redução do respectivo valor, pois, cada problema verificado e não reparado adequadamente deve ser considerado de forma individual.
+8. O ato administrativo goza da presunção de veracidade, legitimidade e legalidade, que só pode ser elidida por meio de comprovação idônea em sentido contrário.
+9. Irregularidade, ilegalidade ou nulidade manifesta, no ato administrativo ora impugnado, passíveis de reconhecimento e correção, não caracterizadas.
+10. Precedentes da jurisprudência deste E. Tribunal de Justiça e, inclusive, desta C. 5ª Câmara de Direito Público.
+11. Arbitramento de honorários advocatícios recursais, em favor da parte vencedora, a título de observação, com fundamento no artigo 85, § 11, do CPC/15.
+12. Ação de procedimento comum, julgada improcedente, em Primeiro Grau de Jurisdição.
+13. Sentença, recorrida, ratificada.
+14. Recurso de apelação, apresentado pela parte autora, desprovido, com observação.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Os elementos de convicção produzidos nos autos não autorizam o acolhimento da pretensão deduzida pela parte autora na petição inicial. Isso porque, é impossível vislumbrar a presença e a existência de qualquer irregularidade, ilegalidade ou nulidade manifesta, no ato administrativo ora impugnado, passíveis de reconhecimento e correção.
+Pois bem. É induvidoso o inadimplemento do contrato administrativo de concessão de Rodovia, acarretando, por via de consequência, a aplicação da respectiva sanção pecuniária.
+Aliás, a prestadora de serviço público foi autuada, em razão de irregularidade verificada na oportunidade da vistoria realizada em 30. 1.20 (problemas na conservação de rotina do revestimento vegetal, a fls. 333). Por isso, sobreveio a instauração do respectivo procedimento administrativo, pela autoridade competente, mediante a tramitação regular, assegurada a observância e o exercício dos direitos constitucionais ao contraditório e a ampla defesa.
+ ..
+De outra parte, a notificação prévia e a concessão de prazo, para a realização de serviços necessários, são inexigíveis, no caso concreto. Afinal, o artigo 5º, II, "a", do Anexo do Regulamento da Concessão (Decreto nº 62.249/16), estabelece a obrigação da concessionária de serviço público de providenciar a conservação regular e rotineira do revestimento vegetal do sistema rodoviário. E, tal encargo, à evidência, deve ser cumprido, independentemente de prévia comunicação da Administração Pública
+ ..
+Além disso, não há falar na ocorrência e a prática de apenas uma infração contratual. O Anexo nº 11, do Contrato de Concessão Rodoviária nº 0352/ARTESP/2017 (fls. 280/330), ao contrário do alegado, estabelece os critérios para a aplicação de penalidades administrativas cabíveis. Assim, cada problema verificado e não reparado adequadamente, deve ser considerado de forma individual.
+Daí porque, a imposição da sanção pecuniária pertinente era mesmo a medida que se impunha no caso concreto, uma vez considerado, repita-se, o inadimplemento de específica obrigação contratual.
+ ..
+E, não convence, também, a alegação relacionada à ocorrência de violação aos princípios da razoabilidade e proporcionalidade. O valor da multa ora questionada, arbitrado de acordo com o Item nº 3, do Anexo nº 11 (R$ 149.764,83, para 5 infrações referência julho de 2.022, a fls. 350 e 512/513), é adequado à gravidade das infrações administrativas e não caracteriza, por óbvio, a incidência de rigor excessivo, ou então, o indesejável efeito confiscatório.
+Inicialmente, importa consignar que não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria, bem como o contrato administrativo. Assim, para se chegar à conclusão diversa seria necessário o reexame tanto de cláusulas contratuais quanto do conjunto fático-probatório, o que é vedado pelos enunciados ns. 5 e 7 das Súmulas do STJ, segundo os quais, respectivamente, "A simples interpretação de cláusula contratual não enseja recurso especial" e "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
