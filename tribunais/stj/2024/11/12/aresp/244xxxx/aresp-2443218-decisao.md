@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o espólio de DULCE FLAVIA FERNANDES DE FREITAS FARIA se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+AGRAVO DE INSTRUMENTO - Execução Fiscal - Munícipio de São Paulo - Decisão que rejeitou a exceção de pré-executividade apresentada pela empresa executada Ilegitimidade de terceiro, não integrante da relação processual, para apresentação de agravo de instrumento - Impossibilidade de pleitear direito alheio em nome próprio (artigo 18 do Código de Processo Civil) - Recurso não conhecido
+Os embargos de declaração foram rejeitados (fls. 351/355).
+Nas razões de seu recurso especial, a parte alega negativa de prestação jurisdicional sob o argumento de que houve omissão do Tribunal de origem quanto aos dispositivos que dão suporte à discussão meritória, em violação ao art. 1.022 do Código de Processo Civil (CPC). Defende sua legitimidade ativa para recorrer, com base nos arts. 1.791 e 1.797 do Código Civil, 131 do Código Tributário Nacional (CTN) e 110 do CPC.
+A parte adversa apresentou contrarrazões (fls. 382/388).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+No recurso especial, a parte contesta o entendimento do TJ/SP, que a desqualificou como parte legítima, e sustenta que, como representante legal do espólio, tem direito a interpor recurso em nome próprio. Além disso, alega prescrição intercorrente e afirma que a questão não demanda nova análise de provas, mas sim interpretação jurídica sobre os fatos já aceitos no processo.
+O Tribunal de origem justificou a inadmissão do recurso especial no fato de que a análise das questões levantadas demandaria o reexame do conjunto fático-probatório, o que atrairia a aplicação da Súmula 7 do Superior Tribunal de Justiça (STJ). No entendimento do Tribunal, avaliar a legitimidade ativa do espólio requereria a análise do contexto processual da primeira instância e dos documentos que embasam a representação legal, o que configuraria revisão probatória (fls. 334/336).
+Ao confrontar as alegações do espólio com a decisão do Tribunal de origem, fica evidente que a legitimidade ativa do espólio, embora possa envolver interpretação jurídica, depende de comprovações fáticas quanto à titularidade e à representação processual, o que requer análise dos documentos e do contexto processual de origem.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial".
+Por fim, registro que o entendimento do Superior Tribunal de Justiça sobre o tema encontra-se consolidado na Súmula 393: "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
