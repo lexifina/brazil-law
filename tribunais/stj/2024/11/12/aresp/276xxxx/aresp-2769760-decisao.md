@@ -1,0 +1,94 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por ICATU SEGUROS S. A. contra a decisão de fls. 598-601 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado (fl. 477-478 e-STJ, grifos no original):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SENTENÇA DE IMPROCEDÊNCIA EM RELAÇÃO À SEGURADORA E DE PARCIAL PROCEDÊNCIA EM RELAÇÃO À ASSOCIAÇÃO DEMANDADA.
+CONTRARRAZÕES DA SEGURADORA.
+SUSCITADA OFENSA AO PRINCÍPIO DA DIALETICIDADE. ARGUMENTO DE QUE AS RAZÕES RECURSAIS DO AUTOR ESTÃO DISSOCIADAS DOS FUNDAMENTOS DA SENTENÇA RECORRIDA. NÃO ACOLHIMENTO. EXPOSIÇÃO DO FATO E DO DIREITO DEVIDAMENTE PRESENTES NO RECLAMO. OPOSIÇÃO SUFICIENTE AOS TERMOS DA DECISÃO COMBATIDA. EXEGESE DO ART. 1.010, II E III, DO CPC.
+INSURGÊNCIA DA PARTE AUTORA.
+DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO. NEGATIVA DA PARTE AUTORA DE ADESÃO À ASSOCIAÇÃO E À PACTUAÇÃO DE SEGURO COM AS RÉS.
+TESE DE RESPONSABILIDADE DA SEGURADORA. ACOLHIMENTO. EXISTÊNCIA DE ELEMENTOS NOS AUTOS QUE INDICAM PARCERIA COMERCIAL ENTRE AS RÉS. POSSIBILIDADE DE APLICAÇÃO DA TEORIA DA APARÊNCIA AO CASO. PERTINÊNCIA SUBJETIVA DA LIDE EVIDENCIADA. RESPONSABILIDADE SOLIDÁRIA DE AMBAS AS DEMANDADAS.
+ALEGAÇÃO DE CABIMENTO DA REPETIÇÃO DOBRADA DO INDÉBITO. INSUBSISTÊNCIA. MODULAÇÃO DOS EFEITOS DA DECISÃO PROFERIDA PELO STJ NO EARESP N. 600.663/RS. RESTITUIÇÃO DEVIDA EM DOBRO TÃO SOMENTE APÓS 30-3-2021. PARCELAS DEBITADAS ANTERIORMENTE AO MARCO TEMPORAL DEFINIDO PELA CORTE CIDADÃ.
+PRETENSÃO INDENIZATÓRIA A TÍTULO DE DANOS MORAIS. INVIABILIDADE. HIPÓTESE DE DANO NÃO PRESUMIDO. DESCONTOS INDEVIDOS DE PERCENTUAL ÍNFIMO DA RENDA DA PARTE AUTORA E QUE NÃO AFETARAM O PODER DE COMPRA DE BENS ESSENCIAIS. DEDUÇÕES QUE PERDURARAM POR CURTO ESPAÇO DE TEMPO. INEXISTÊNCIA DE INDÍCIOS MÍNIMOS DA OCORRÊNCIA DE FATOS CONCRETOS CAUSADORES DE DOR PSÍQUICA E DESASSOSSEGO AO POSTULANTE. PROVA DOCUMENTAL QUE SE REVELA INSUFICIENTE PARA DEMONSTRAR O FATO CONSTITUTIVO DO ALEGADO ABALO ANÍMICO.
+ALEGADA INSUFICIÊNCIA DO MONTANTE DOS HONORÁRIOS SUCUMBENCIAIS. PRETENDIDA A FIXAÇÃO SOBRE O VALOR DA CAUSA. ACOLHIMENTO. VERBA ARBITRADA EM PRIMEIRO GRAU EM DESCOMPASSO COM A ATUAÇÃO DOS CAUSÍDICOS NO FEITO E COM OS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. VALOR DA CONDENAÇÃO IRRISÓRIO. MONTANTE FIXADO NA ORIGEM QUE NÃO REMUNERA DIGNAMENTE O LABOR DOS CAUSÍDICOS DAS PARTES. ALTERAÇÃO PARA DETERMINAR O VALOR ATUALIZADO DA CAUSA COMO BASE DOS HONORÁRIOS DE SUCUMBÊNCIA.
+DEFENDIDA A SUCUMBÊNCIA INTEGRAL DA PARTE RÉ. NÃO ACOLHIMENTO. AUTOR QUE REMANESCEU VENCIDO NA PRETENSÃO DE ABALO ANÍMICO. SUCUMBÊNCIA RECÍPROCA CARACTERIZADA. INTELIGÊNCIA DO ART. 86, CAPUT, DO CPC.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 533-537, e-STJ).
+Nas razões do recurso especial (fls. 552-572, e-STJ), a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 3º, 7º, 14, 17, 34 e 46 do Código de Defesa do Consumidor; 17, 373, 485, 489, 1.013, 1.022 e 1.025 do Código de Processo Civil de 2015; 653, 757, 760 e 765 do Código Civil de 2002.
+Sustentou, em suma:
+(i) negativa de prestação jurisdicional ante a omissão do colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, bem como ausência de fundamentação no acórdão recorrido; e
+(ii) sua ilegitimidade para compor o polo passivo da presente demanda, tendo em vista que a contratação do seguro se deu exclusivamente entre o consumidor e associação estipulante, sem nenhuma participação da seguradora, motivo pelo qual não pode responder por eventuais consequências advindas dessa contratação e posterior rescisão.
+Em juízo de admissibilidade (fls. 598-601, e-STJ), a corte de origem negou o processamento do recurso pelos seguintes fundamentos: a) não configurada a alegada violação dos arts. 489 e 1.022 do CPC/2015 porquanto as questões trazidas pela recorrente foram analisadas, de forma fundamentada; e b) aplicação das Súmulas 5 e 7/STJ para revisão das conclusões do acórdão recorrido.
+Irresignada (fls. 610-618, e-STJ), aduz a agravante que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Contraminuta às fls. 624-629 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preliminarmente, descabe a análise da jurisprudência citada pela recorrente, uma vez que o reclamo foi interposto com fundamento apenas na alínea a do permissivo constitucional.
+Dito isto, depreende-se que a apontada afronta aos arts. 489 e 1.022 do CPC/2015 não ficou caracterizada, uma vez que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa forma, convém registrar que, apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E MATERIAL. NEGATIVA DE ENTREGA DA PLENA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ATRASO NA ENTREGA DA OBRA. CASO FORTUITO OU FORÇA MAIOR. TESE NÃO ARGUIDA NA APELAÇÃO. INOVAÇÃO RECURSAL. INVIABILIDADE. FALTA DE PREQUESTIONAMENTO. AUSÊNCIA DE ELEMENTOS HÁBEIS PARA INFIRMAÇÃO DOS FUNDAMENTOS DA DECISÃO IMPUGNADA.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando a corte de origem examina e decide, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Os pedidos não formulados no recurso de apelação e, portanto, não apreciados na instância ordinária não são passíveis de conhecimento em recurso especial, em razão da indevida inovação recursal, da supressão de instância e da falta de prequestionamento.
+3. Mantém-se a decisão cujos fundamentos não são infirmados pela parte recorrente.
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.168.021/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/7/2024, DJe de 8/7/2024.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESILIÇÃO UNILATERAL. NOTIFICAÇÃO AO USUÁRIO. AUSÊNCIA. TRATAMENTO DE URGÊNCIA. RECUSA INJUSTIFICADA. INDENIZAÇÃO. DANO MORAL. CABIMENTO. REVISÃO. REEXAME. CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ.
+1. Tratam os autos da discussão acerca da responsabilidade da administradora do plano de saúde coletivo empresarial pela resilição unilateral do contrato sem prévia notificação ao segurado durante o tratamento de urgência ou de emergência e o cabimento de indenização por danos morais.
+2. Não viola o artigo 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, para decidir de modo integral a controvérsia posta.
+3. A jurisprudência desta Corte Superior preleciona que é abusiva a rescisão unilateral sem que a operadora do plano de saúde proceda à notificação prévia do usuário.
+4. O mero descumprimento contratual não enseja indenização por danos morais. Na hipótese de recusa de cobertura pela operadora de saúde nos casos de tratamento de urgência ou emergência, o entendimento desta Corte é de que há configuração de danos morais indenizáveis.
+5. Na caso, o acórdão estadual, amparado no acervo fático-probatório dos autos, reconheceu o ato ilícito praticado pela operadora de saúde, apto a ensejar o dever de indenizar, o que atrai a incidência da Súmula nº 7/STJ.
+6. Agravo interno não provido(AgInt no AgInt no AREsp n. 2.142.481/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/2/2024, DJe de 1/3/2024.)
+No que diz respeito à alegada afronta aos arts. 653, 757, 760 e 765 do Código Civil de 2002, verifica-se não terem sido eles objeto de exame pela instância ordinária, mesmo após a interposição de embargos declaratórios, razão pela qual incide na espécie a Súmula 211 do STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+Com efeito, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não se deu na presente hipótese.
+Cumpre esclarecer que o Código de Processo Civil, de 2015, no art. 1.025, disciplinou a possibilidade de prequestionamento ficto de tese jurídica, quando, a despeito da oposição de embargos de declaração, o Tribunal estadual não se manifesta acerca do tema, considerando-se inclusas no aresto as questões deduzidas pela parte recorrente nos aclaratórios.
+Contudo, o Superior Tribunal de Justiça, intérprete da legislação federal, possui jurisprudência assentada no sentido de que o prequestionamento ficto só pode ocorrer quando, na interposição do recurso especial, a parte recorrente tiver sustentado violação ao art. 1.022 do CPC/2015 e esta Corte Superior houver constatado o vício apontado, o que não ocorreu na hipótese.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL
+PÚBLICA.CUMPRIMENTO DE SENTENÇA. PEDIDO. MINISTÉRIO PÚBLICO. CIÊNCIA DOSINTERESSADOS. PUBLICAÇÃO. DEFERIMENTO. MEDIDA NECESSÁRIA. CUMPRIMENTO.COMANDO JUDICIAL. PRINCÍPIO DA CONGRUÊNCIA. NÃO OFENSA. SÚMULA Nº 83/STJ.ART. 1022 DO CPC/2015. VIOLAÇÃO. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA.REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido
+pretendido pela parte.
+3. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+4. Não há impropriedade em afirmar a falta de prequestionamento e afastara
+negativa de prestação jurisdicional, haja vista o julgado estar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente
+5. A admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC/2015, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC/2015, o que não é a hipótese
+dos autos.
+6. Esta Corte firmou orientação no sentido de que o juiz deve assegurar o resultado prático do direito reconhecido na sentença, determinando todas as providências legais que entender necessárias para a satisfação do direito dos beneficiários da demanda, entre as quais a de prever instrumentos para que os interessados individuais tomem ciência da sentença e providenciem a execução do julgado. Precedentes.
+7. Na hipótese, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº7/STJ.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 1.684.022/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022,DJe de 30/6/2022).
+Desse modo, tendo o Tribunal local motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu ser cabível à hipótese, inexiste omissão apenas pelo fato de ter o julgado decidido em sentido contrário à pretensão da parte.
+Saliente-se que o reconhecimento da inexistência de ofensa ao art. 1.022 do CPC/2015, bem como a aplicação da Súmula n. 211/STJ, não se apresenta contraditório, tendo em vista que o Tribunal de origem encontrou fundamento suficiente para solucionar a controvérsia.
+Em relação às questões tidas por omissas e/ou não fundamentadas, o Tribunal de origem, ao dirimir a controvérsia, assim consignou (fls. 469-471, e-STJ, sem grifos no original):
+Trata-se de recurso de apelação interposto contra sentença que julgou improcedentes os pedidos iniciais em relação à seguradora ré e parcialmente procedentes os pedidos inaugurais em relação à associação corré.
+Tem-se como fato incontroverso, porque reconhecido expressamente pelas partes, que o demandante teve descontos em seu benefício previdenciário referentes à associação não pactuada pelo autor, no valor mensal R$ 34,08 entre os meses de abril e julho de 2019 (evento 1, HISCRE8 dos autos de origem).
+A controvérsia, portanto, cinge-se em averiguar, preliminarmente, a) se houve ofensa ao princípio da dialeticidade pelo autor. Ainda, cumpre verificar b) a (ir)responsabilidade da seguradora. No mérito, deve ser analisada c) a forma de repetição do indébito; d) o (in)cabimento de fixação de danos morais indenizáveis e, em caso positivo, sua quantificação; e) o (in)cabimento de incremento no montante fixado a título de honorários de sucumbência promovidas pelo Juízo a quo; e f) a (in)correção da distribuição dos ônus sucumbenciais na origem.
+(..)
+Adianta-se, desde já, que o apelo comporta parcial acolhimento.
+(..)
+No presente caso, é possível verificar que o consumidor elucidou, de forma suficiente, os motivos de fato e de direito pelos quais entende que a sentença objurgada deve ser modificada, permitindo-se a análise das teses suscitadas, como adiante serão enfrentadas, em consonância com o disposto no artigo 1.010, II e III, do CPC, de modo que se afasta a tese de ausência de requisitos legais no recurso interposto.
+Por outro lado, nota-se que a parte ré conseguiu exercer o contraditório e a ampla defesa e que não houve prejuízo à sua manifestação.
+Por tais motivos e fundamentos, rejeita-se o pleito formulado em contrarrazões e, porque presentes os pressupostos de admissibilidade, conhece-se da apelação interposta pela parte autora.
+(..)
+Insta salientar que, em que pese a seguradora tenha comprovado que as apólices securitárias eram não contributárias, ou seja, custeadas totalmente pela associação ré (evento 12, CONTR14 e 15 dos autos de origem), não se pode afastar a incidência da teoria da aparência.
+Nesse sentido, verifica-se que as rés atuam em conjunto publicamente, de modo que, na perspectiva do consumidor, notadamente os mais vulneráveis (como na hipótese), se trata de produto oferecido pelo mesmo fornecedor (evento 1, INIC1, p. 6 dos autos de origem):
+(..)
+Nesse contexto, é certo que se aplica ao caso a teoria da aparência, reconhecendo-se a responsabilidade solidária inserta no artigo 7º, parágrafo único, do CDC.
+(..)
+Portanto, há suficiente pertinência subjetiva da lide em face da seguradora.
+Assim, o provimento do recurso para reconhecer a responsabilidade solidária da seguradora ré com a associação corré pelos danos causados ao demandante, é o caminho a ser trilhado. Por conseguinte, afasta-se a condenação da autora ao pagamento dos honorários advocatícios fixados em favor da seguradora requerida.
+E nos embargos de declaração rejeitados (fls. 534-535, e-STJ, sem grifos no original):
+No caso em tela não se vislumbra as aludidas omissão e contradição na decisão objurgada.
+Isso porque o acórdão atacado foi claro ao explicitar os fundamentos que levaram ao parcial provimento do recurso da autora ora embargada para reconhecer a responsabilidade solidária da seguradora ré/embargante, manifestando-se, inclusive, em relação às questões ditas omissas e contraditórias.
+(..)
+Com efeito, denota-se que não houve omissão no acórdão objurgado, uma vez que, como fundamentado acima, constatando-se que a seguradora ré e a associação corré atuam em conjunto publicamente e que na perspectiva do consumidor se trata de produto oferecido pelo mesmo fornecedor, restou caracterizada a pertinência subjetiva da lide em face da seguradora embargante.
+Assim, constata-se que as questões postas em debate foram efetivamente decididas, não havendo falar em omissão, contradição, obscuridade ou ausência de fundamentação, mas sim em julgamento adverso ao pretendido pela parte recorrente.
+Portanto, não se cogita de negativa de prestação jurisdicional, tampouco de nulidade do aresto estadual.
+Ademais, a revisão das conclusões do acórdão recorrido - acerca da legitimidade passiva da recorrente para compor o polo passivo da presente demanda -, para assim acolher a pretensão recursal, nos moldes em que pretendida, demandaria, necessariamente, a o reexame do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE DESCONSTITUIÇÃO DE DÉBITOS C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS JULGADA PARCIALMENTE PROCEDENTE. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VIOLADOS. SÚMULA 211/STJ. REQUISITOS PARA POSSIBILITAR O PREQUESTIONAMENTO FICTO NÃO PREENCHIDOS. CONCLUSÃO DO ACÓRDÃO RECORRIDO PELA LEGITIMIDADE PASSIVA DA SEGURADORA EM SOLIDARIEDADE COM A ASSOCIAÇÃO DE APOSENTADOS. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
