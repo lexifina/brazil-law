@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa aos arts. 489 e 1.022, inciso II, do CPC/2015 e; incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl.355):
+APELAÇÃO CÍVEL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO COLETIVA Nº 6.542/2005. ILEGITIMIDADE VERIFICADA.
+I - No que se refere à ilegitimidade da parte a mesma resta configurada, pois a autora é auxiliar de enfermagem vinculada ao SINDSAUDEMA.
+II- Apelo desprovido.
+Embargos de declaração rejeitados.
+No recurso especial, a recorrente alega ofensa aos arts. 489, § 1º, IV e 1.022, II, do CPC/15, ao argumento de que "a Corte estadual não se pronunciou sobre a alegação de preclusão da aferição da ilegitimidade e sobre o cargo da parte recorrente não ser abrangido pelo sindicato indicado como mais específico (fl.437).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Diante da adequada impugnação dos fundamentos da decisão de inadmissão, é mister passar à análise do recurso especial.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, da análise cuidadosa dos autos, verifica-se que não há se falar em ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC/15 consoante defende a parte agravante, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+Acrescentando, é perfeitamente possível que a decisão se encontre devidamente fundamentada sem que, no entanto, tenha sido decidida a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado o julgador.
+Relativamente às teses apontadas como omissas, colhe-se do acórdão recorrido - grifos acrescidos:
+(..)
+A questão a ser analisada nos presentes autos refere-se ao cumprimento individual da sentença coletiva oriunda da Ação de Cobrança nº 6.542/2005, que foi extinta por considerar a parte ilegítima, pois a mesma é vinculada ao Sindsaudema e não ao Sintsep, autor da ação coletiva.
+Verifico que os auxiliares de enfermagem pertencem a carreira vinculada a um sindicato específico: Sindsaudema.
+O art. 8º, II, da Carta Magna veda "a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município".
+Havendo entidade sindical mais específica que atua na mesma base territorial e representa diretamente os auxiliares de enfermagem, qual seja, o Sindicato Sindsaudema, forçoso reconhecer a ilegitimidade ativa do autor, ora apelante, para executar a obrigação de fazer contida na sentença da Ação Coletiva (Processo nº6542/2005) proposta pelo SINTSEP/MA, tendo em vista a vedação decorrente do princípio da unicidade sindical. Outrossim, afasto a alegação de preclusão consumativa da alegação de ilegitimidade ativa do apelante, tendo em vista que esta constitui uma das condições da ação do cumprimento de sentença, cuja demonstração cabe ao exequente quando do ajuizamento do cumprimento.
+(..)
+Com efeito, o pagamento de mensalidades a sindicatos não se confunde com a vinculação (ao contrário da filiação), que é automática, pois decorre diretamente da lei, não podendo um indivíduo optar por ser vinculado a sindicato diverso do qual se vincula a sua carreira.
+Dessa forma, a parte exequente não foi substituída na ação coletiva que culminou no título executivo que ora pretende executar, de modo que não restou abrangido pela coisa julgada coletiva, não podendo dela se beneficiar. (fls. 384-389).
+Nesse contexto, não há que se falar em negativa de prestação jurisdicional quando, embora não acolhido o pedido da insurgente, todas as questões relevantes ao deslinde do feito foram objeto de expressa e suficiente análise pela Corte local.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. REVISÃO DO JULGADO.
+IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A revisão da conclusão alcançada pelo colegiado estadual (quanto à regularidade da cobrança realizada pelo banco recorrido, em virtude da existência do débito oriundo de dois distintos contratos de financiamentos) demandaria o revolvimento do acervo fático-probatório dos autos, o que é defeso dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. No que diz respeito à divergência jurisprudencial, o Superior Tribunal de Justiça firmou entendimento de que a incidência da Súmula n. 7/STJ impede o exame do recurso no que tange à alínea c do inciso III do art. 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido (AgInt no REsp n. 2.022.899/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022-grifei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/15. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. BASE DE CÁLCULO. PIS E COFINS. CONCEITO DE FATURAMENTO. MATÉRIA CONSTITUCIONAL. ANÁLISE VEDADA NESTA VIA RECURSAL.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. Afasta-se a alegada violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. Afasta-se, igualmente, a alegada afronta ao artigo 489 do CPC/2015, pois o acórdão impugnado ampara-se em fundamentação jurídica suficiente, que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional. Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+5. Quanto aos arts. 110 do CTN; 3º, §1º, da Lei 9.718/98; 2º da Lei Complementar 70/91 e 3º da Lei 9.715/98, tem-se que"o STJ tem entendido que a interpretação do conceito de faturamento para fins de incidência da contribuição ao PIS e à COFINS é matéria eminentemente constitucional, que foge à sua competência do âmbito do Recurso Especial" (REsp 1.278.769/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 18/12/2012).
+6.Agravo interno não provido (AgInt no REsp 1.859.197/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 19/5/2022).
+Registre-se que, acaso a parte não concordasse com o resultado do ju lgamento do mérito recursal, deveria ter apontado dispositivo de lei que entende como violado, a fim de ver suas teses apreciadas por esta Corte Superior.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias na vigência do CPC/2015, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO COLETIVA. CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE DA PARTE RECONHECIDA. OFENSA AOS ARTS. 489 E 1.022, DO CPC/15. INOCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONSTATADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
