@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por ANTONIO CARLOS PERINI e OUTROS contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, manejado em desfavor de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 284):
+AGRAVO DE INSTRUMENTO. Irresignação contra a decisão que, no cumprimento de sentença proposto pela agravada contra os agravados, para recebimento de honorários, rejeitou a impugnação apresentada pelos executados, determinando o prosseguimento do cumprimento de sentença.
+Descabimento.
+Ação que deu ensejo ao título judicial exequendo teve seu trâmite regular, com decisão de 1º grau, 2º grau, além do Tribunal Superior, condenando os réus, ora executados/agravantes, no pagamento dos honorários sucumbenciais, mantendo os executados a pretensão recursal e recorrendo até a última instância possível. Caso de negar provimento ao agravo de instrumento, permitindo a continuidade da execução.
+Recurso improvido.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 312-314).
+Nas razões recursais, a parte recorrente alegou violação ao art. 525, § 1º, VII, do CPC, sustentando a ocorrência de causa superveniente pela perda de objeto, e a consequente inversão do ônus da sucumbência.
+Defendeu ser descabida a pretensão de recebimento de honorários sucumbenciais pela agravada, haja vista que seus constituintes desistiram da ação, pedindo homologação da renúncia ao processo de inventário.
+Contrarrazões às fls. e-STJ 318-323, com pedido de condenação em litigância de má-fé.
+Brevemente relatado, decido.
+A pretensão recursal não merece prosperar.
+O Tribunal de origem, considerando a particularidade do caso concreto, concluiu que a ação que deu ensejo ao título judicial exequendo teve seu trâmite regular e que os recorrentes não comprovaram a alegada causa superveniente a ensejar a perda de objeto do cumprimento de sentença, nestes termos (e-STJ, fls. 285-286; sem destaques no original):
+Em que pese toda a argumentação, juntada de documentos e trabalho do patrono dos agravantes, não há coo acolher suas alegações.
+E isto porque se trata de cumprimento de sentença para recebimento de honorários advocatícios, em razão de a exequente/agravada ter atuado como advogada dos réus na ação declaratória de nulidade de contrato cc. cancelamento de registro imobiliário, que tramitou sob nº 1001535-78.2020.8.26.0152, que teve o seguinte desfecho:
+Da consulta desses autos, verifica-se sentença de improcedência (f. 379/384), condenando os réus, ora executados/agravantes, no pagamento de 10% do valor atualizado da causa. Desta decisão, apelaram os réus, sobrevindo acórdão que negou provimento ao recurso (f. 543/551 e f. 560/561), majorando os honorários para 12% do valor da causa. Não obstante, os réus ainda interpuseram REsp, que não foi admitido (f. 735/738) e, posteriormente, interpuseram Agravo em Recurso Especial, não conhecido, ensejando majoração dos honorários para 15% do valor da causa (f. 811).
+Verifica-se, assim, que a ação que deu ensejo ao título judicial exequendo teve seu trâmite regular, com decisão de 1º grau, 2º grau, além do Tribunal Superior, condenando os réus, ora executados/agravantes, no pagamento dos honorários sucumbenciais, mantendo os executados a pretensão recursal e recorrendo até a última instância possível. Tal narrativa, por si só, já seria o bastante para ensejar o não provimento deste agravo, mas não é só.
+Instados os agravantes, pela decisão de f. 200 (deste recurso), para trazerem aos autos cópia da petição na qual foi requerida a desistência da ação, além da decisão superveniente que a apreciou, manifestaram-se a f. 203 e ss. (deste recurso), juntando documentos, não se verificando decisão prolatada nos autos da ação que deu ensejo ao título judicial exequendo (ação declaratória de nulidade de contrato cc. cancelamento de registro imobiliário, que tramitou sob nº 1001535-78.2020.8.26.0152). As cópias das decisões acostadas a f. 218, 226/227 e f. 229 não se referem à ação declaratória de nulidade de contrato cc. cancelamento de registro imobiliário, que tramitou sob nº 1001535-78.2020.8.26.0152, na qual atual a advogada, ora agravada e exequente, em nada influenciado a atual execução.
+Desse modo, elidir a conclusão da Corte estadual, com o fim de acolher a pretensão recursal, demandaria a análise do conteúdo fático-probatório dos autos, o que se mostra inviável em recurso especial, consoante Súmula n. 7/STJ.
+Em relação ao pedido da parte contrária de aplicação da multa prevista no art. 81 do CPC/2015, não há como acolher tal pretensão, uma vez que, conforme posicionamento desta Corte, a interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pela origem ou sem alegação de fundamento novo.
+A título exemplificativo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA PROVISÓRIA. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. MULTA POR ATO ATENTATÓRIO DA JUSTIÇA. AUSÊNCIA DE DOLO E PRÁTICA DE ATOS PROCESSUAIS LEGALMENTE PREVISTOS. BUSCA DE BENS EM NOME DE TERCEIROS VINCULADOS AO EXECUTADO. NECESSIDADE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA E DO CONTRADITÓRIO. FUMUS BONI IURIS E PERICULUM IN MORA. RECONHECIMENTO. EFEITO SUSPENSIVO CONCEDIDO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. A multa por ato atentatório à dignidade da justiça pressupõe a presença de conduta dolosa ou culposa do agente. Além disso, a interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça.
+(..)
+6. Agravo interno não provido.
+(AgInt na TutPrv no REsp n. 2.008.503/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cie ntificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. AÇÃO QUE DEU ENSEJO AO TÍTULO JUDICIAL. TRÂMITE REGULAR. ALEGAÇÃO DE CAUSA SUPERVENIENTE A ENSEJAR A PERDA DE OBJETO DA AÇÃO. NÃO COMPROVAÇÃO. REVISÃO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
