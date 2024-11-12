@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por CARLOS DELFIM SOARES RIBEIRO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o recorrente foi condenado às penas de 11 anos e 3 meses de reclusão no regime inicial fechado e de pagamento de 33 dias-multa, como incurso nas sanções dos arts. 1º, caput, da Lei n. 9.613/1998 e 288, caput, do Código Penal, tendo a sua prisão preventiva, em regime domiciliar, sido mantida na sentença.
+Em suas razões, sustenta o recorrente que o Juízo da instância de origem não poderia ter mantido, de ofício, a sua prisão preventiva na ocasião da prolação da sentença, porquanto seria necessário o prévio requerimento do Ministério Público baseado em fatos novos, contemporâneos e idôneos para a manutenção da constrição.
+Requer, liminarmente e no mérito, a revogação da prisão decretada.
+Por meio da decisão de fls. 293 e 294, o pedido liminar foi indeferido. Em seguida, foram juntadas aos autos as informações prestadas pela origem (fls. 300 e 304-487), bem como a manifestação do Ministério Público Federal, opinando pelo improvimento do recurso (fls. 494-497).
+É o relatório.
+De início, verifica-se que os fundamentos do decreto prisional foram anteriormente apreciados por esta Corte nos autos do HC n. 828.781/MG, no qual foi deferido liminarmente a ordem para substituir a prisão preventiva do paciente por prisão domiciliar. O referido habeas corpus transitou em julgado em 16/11/2023.
+Em relação à manutenção da prisão preventiva, assim constou na sentença condenatória (fls. 221 e 222, grifo próprio):
+O denunciado Carlos Delfim encontra-se em prisão domiciliar, sendo certo que já apresenta condenação provisória por crimes contra a administração pública, a qual tem ligação com os fatos em apuração. Ademais, diante da pena e regime ora fixados, entendo que a medida cautelar deve ser mantida, inclusive com início de cumprimento da pena provisória, vez que não há impedimento para aqueles condenados em regime fechado.
+Assim, mantenho a prisão domiciliar do denunciado, negando ao réu, Carlos Delfim Soares Ribeiro, o direito de recorrer em liberdade.
+Expeça-se guia provisória de execução.
+Com efeito, a Terceira Seção do STJ, alinhando-se ao entendimento da Segunda Turma da Suprema Corte (HC 188.888/MG, relator Ministro Celso de Mello, julgado em 6/10/2020, DJe de 15/12/2020), firmou a compreensão segundo a qual, em razão do advento da Lei n. 13.964/2019, "não é mais possível a conversão ex officio da prisão em flagrante em prisão preventiva" (RHC n. 131.263/GO, relator Ministro Sebastião Reis Júnior, julgado em 24/2/2021, DJe de 15/4/2021).
+Contudo, o caso é diverso, não tratando de atuação de ofício do Juízo de origem, uma vez que este apenas analisou a manutenção da prisão domiciliar na ocasião da prolação da sentença condenatória, conforme determinação do art. 387, § 1º, do Código de Processo Penal, mantendo a prisão conforme fundamentação acima transcrita.
+Acerca do assunto, esta Corte fixou o entendimento de que (grifo próprio):
+ ..  a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1.º, do Código de Processo Penal, declinar que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma (AgRg no RHC n. 187.138/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/10/2023, DJe de 10/10/2023).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE REVOGAÇÃO DA PRISÃO CAUTELAR. CUSTÓDIA MANTIDA MEDIANTE FUNDAMENTO VÁLIDO. EMPREGO DE ARMA DE FOGO NO CONTEXTO DO TRÁFICO. PERICULOSIDADE DO AGENTE EVIDENCIADA. TESE DE OCORRÊNCIA DE PRISÃO DE OFÍCIO. NÃO CONFIGURAÇÃO. SIMPLES MANUTENÇÃO DA PRISÃO CAUTELAR DECRETADA NO INÍCIO DA AÇÃO PENAL A PEDIDO DO MP. PEDIDO DO MP DE REVOGAÇÃO DA PRISÃO EM ALEGAÇÕES FINAIS QUE NÃO VINCULA O JUIZ.
+ ..
+2. Tendo sido formulado pedido de prisão cautelar no início da ação penal pelo órgão ministerial, não há falar em atuação de ofício do magistrado que mantém a custódia cautelar na sentença condenatória, não obstante a manifestação do MP, nas alegações finais, pela revogação da prisão. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 188.675/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+Nesse contexto, não há que se falar em ilegalidade a ser sanada, sobretudo porquanto, na sentença, a magistrada ressaltou que persistem os motivos que autorizaram a decretação da prisão domiciliar.
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
