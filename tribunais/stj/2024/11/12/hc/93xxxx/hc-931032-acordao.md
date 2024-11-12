@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, denegar a ordem.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO TENTADO, FURTO E VIAS DE FATO. GRAVIDADE CONCRETA DA CONDUTA. GARANTIA DA ORDEM PÚBLICA E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. FUGA. IMPOSSIBILIDADE DE SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. REQUISITOS DO ART. 318-A DO CPP NÃO PREENCHIDOS. ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado visando a revogação da prisão preventiva de paciente acusada de homicídio duplamente qualificado tentado, furto e vias de fato. A prisão preventiva foi mantida com base na gravidade concreta do delito, periculosidade da agente e risco à ordem pública. A paciente permaneceu foragida, indicando intenção de evadir-se da responsabilidade penal. Pedido subsidiário de conversão em prisão domiciliar ou aplicação de medidas cautelares diversas.
+II. Questão em discussão
+2. A questão em discussão consiste na legalidade e necessidade da manutenção da prisão preventiva, considerando a gravidade do crime e a possibilidade de aplicação de medidas cautelares alternativas.
+III. Razões de decidir
+3. A prisão preventiva está devidamente fundamentada na necessidade de garantir a ordem pública e a conveniência da instrução criminal, conforme art. 312 do CPP.
+4. A gravidade concreta do crime e a periculosidade da agente justificam a manutenção da custódia cautelar, não sendo suficientes as medidas cautelares alternativas.
+5. A condição de mãe de filhos menores não autoriza a prisão domiciliar, dado o caráter violento do crime, conforme art. 318-A, inciso I, do CPP.
+IV. ORDEM DE HABEAS CORPUS DENEGADA.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o último relatório contido nos autos. (e-STJ, fl. 216).
+O Ministério Público Federal opinou pelo não conhecimento da ordem em habeas corpus (e-STJ, fls. 257/258).
+Requer, liminar e definitivamente, a concessão da ordem para obter a revogação da prisão preventiva. Subsidiariamente, pugna pela conversão da custódia em prisão domiciliar ou sejam fixadas medidas cautelares não prisionais.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO TENTADO, FURTO E VIAS DE FATO. GRAVIDADE CONCRETA DA CONDUTA. GARANTIA DA ORDEM PÚBLICA E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. FUGA. IMPOSSIBILIDADE DE SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. REQUISITOS DO ART. 318-A DO CPP NÃO PREENCHIDOS. ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado visando a revogação da prisão preventiva de paciente acusada de homicídio duplamente qualificado tentado, furto e vias de fato. A prisão preventiva foi mantida com base na gravidade concreta do delito, periculosidade da agente e risco à ordem pública. A paciente permaneceu foragida, indicando intenção de evadir-se da responsabilidade penal. Pedido subsidiário de conversão em prisão domiciliar ou aplicação de medidas cautelares diversas.
+II. Questão em discussão
+2. A questão em discussão consiste na legalidade e necessidade da manutenção da prisão preventiva, considerando a gravidade do crime e a possibilidade de aplicação de medidas cautelares alternativas.
+III. Razões de decidir
+3. A prisão preventiva está devidamente fundamentada na necessidade de garantir a ordem pública e a conveniência da instrução criminal, conforme art. 312 do CPP.
+4. A gravidade concreta do crime e a periculosidade da agente justificam a manutenção da custódia cautelar, não sendo suficientes as medidas cautelares alternativas.
+5. A condição de mãe de filhos menores não autoriza a prisão domiciliar, dado o caráter violento do crime, conforme art. 318-A, inciso I, do CPP.
+IV. ORDEM DE HABEAS CORPUS DENEGADA.
+VOTO
+Sabe-se que "a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP)" (RHC 174.619/ES, Relator Ministro Sebastião Reis Júnior, 6ª Turma, j. em 11/04/2023, DJe 16/05/2023).
+O ordenamento jurídico vigente, em atenção ao princípio da presunção da inocência, consagra a liberdade do indivíduo como regra. Desse modo, a prisão antes do trânsito em julgado revela-se cabível tão somente quando, presentes as condições do art. 312 do CPP, estiver concretamente comprovada a existência do "fumus comissi delicti", aliado ao "periculum libertatis", sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+Além disso, "em razão de seu caráter excepcional, a prisão preventiva somente deve ser imposta quando incabível a substituição por outra medida cautelar menos gravosa, conforme disposto no art. 282, § 6º, do CPP" (AgRg no HC 716.740/BA, Relator Ministro Joel Ilan Paciornik, 5ª Turma, j. em 22/03/2022, DJe 07/04/2022).
+No caso, a prisão preventiva foi mantida com base nos seguintes argumentos (e-STJ, fls. 198/202, destaquei):
+A decisão questionada não se mostra desprovida de fundamentação, para que possa ser imediatamente afastada. Não há que se falar em ausência dos requisitos autorizadores da custódia cautelar, conforme o artigo 312, do Código de Processo Penal, ou qualquer irregularidade formal na decisão, tendo sido apresentadas as justificativas que a motivaram.
+A paciente responde por infrações penais cuja soma das penas máximas abstratamente previstas atende ao disposto no artigo 313, inciso I, do Código de Processo Penal (grifei):
+ ..
+Reitero que Julimara é acusada de ter praticado o crime de homicídio duplamente qualificado tentado, crime gravíssimo, de caráter hediondo, sendo que os fatos a ela imputados são concretamente graves, não sendo recomendada, por ora, a concessão da liberdade provisória, mesmo diante das medidas cautelares diversas da prisão.
+Destaco que a paciente permaneceu foragida entre 19/05/2023 e 11/01/2024, o que denota, em tese, sua intenção de eximir-se de reponsabilidade penal.
+ ..
+Da mesma forma, eventuais condições pessoais favoráveis não são fatores impeditivos da prisão preventiva, pois é necessária uma análise detalhada das circunstâncias e consequências do delito, como pressuposto fundamental, a fim que se possa avaliar a necessidade da custódia cautelar em cada caso concreto.
+ ..  Friso que a prisão preventiva não viola a presunção de inocência, nem significa execução antecipada de pena, especialmente pelo fato de que não há análise de mérito. A custódia processual é medida cautelar, cujo objetivo, consideradas as peculiaridades do caso, é assegurar a ordem pública, garantir a realização da instrução criminal, bem como assegurar a eventual aplicação da lei penal.
+Em relação ao pleito de substituição da prisão preventiva por domiciliar, em razão de possuir filhos menores de 12 (doze) anos de idade, inviável seu acolhimento, vez que a paciente é acusada de infrações penais praticadas com violência à pessoa, não atendendo ao requisito previsto no artigo 318-A, inciso I, do Código de Processo Penal.
+ ..
+Portanto, consideradas as peculiaridades anteriormente examinadas, nos estritos limites do habeas corpus, por ora, a manutenção da custódia cautelar encontra-se justificada, não se mostrando suficientes as medidas cautelares previstas no artigo 319, do Código de Processo Penal."
+A análise realizada pelo Tribunal de origem encontra-se em linha com a jurisprudência desta Corte acerca das circunstâncias fáticas do caso concreto, que dão conta do preenchimento das condições previstas no art. 312 do CPP, aliadas à proporcionalidade e à indispensabilidade da decretação da prisão preventiva.
+Ademais, ainda que a paciente seja "(..) mãe de 5 filhos sendo 4 deles menores de idade uma de 04 anos, 07 anos, 10 anos e 14 anos" (e-STJ, fl, 5), trata-se de suposta prática de homicídio qualificado na forma tentada, que é praticado mediante violência e grave ameaça, de forma que não legitima a substituição da prisão preventiva pela domiciliar, tendo em vista que não se enquadra nas hipóteses autorizadoras do benefício.
+Ilustrativamente:
+PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. CONVENIÊNCIA DA INSTRUÇÃO PENAL E GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE DA AGENTE. MODUS OPERANDI. PRISÃO DOMICILIAR. MÃE DE FILHO MENOR DE 12 ANOS DE IDADE. CRIME PRATICADO COM VIOLÊNCIA. REQUISITOS NÃO PREENCHIDOS. COVID - 19. SUPRESSÃO DE INSTÂNCIA. SUBSTITUIÇÃO DA CUSTÓDIA PREVENTIVA POR PRISÃO DOMICILIAR. ART. 318, II, DO CÓDIGO DE PROCESSO PENAL. IMPOSSIBILIDADE DE RECEBER TRATAMENTO NO ESTABELECIMENTO PRISIONAL NÃO COMPROVADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+3. Na hipótese, verifica-se que prisão preventiva encontra-se devidamente fundamentada, considerando a conduta da paciente que, juntamente com seu filho, Yago, enteado da vítima, teria planejado a morte de seu companheiro por suposto interesse patrimonial, já que o casal estaria cogitando a separação. Consta da denúncia, que a vítima foi sedada no interior da residência da família e levada até um local ermo por Yago, que, fazendo uso de um estilete, efetuou cortes na região do pescoço da vítima, o que ocasionou sua morte.
+4. Dessa forma, a custódia preventiva baseia-se em elementos concretos extraídos dos autos que indicam a necessidade da garantia da ordem pública, pois a periculosidade social da paciente está evidenciada no modus operandi do ato criminoso, não exsurgindo do autos que ela tenha sofrido violência física ou psicológica e, na conveniência da instrução penal, na medida em que há depoimento indicativo de que a paciente teria limpado o local onde o delito teria se iniciado.
+5. "Os requisitos para a concessão da prisão domiciliar não foram preenchidos, considerando que o caso cuida da prática de crime gravíssimo cometido com violência. Desse modo, não obstante possua filho menor de 12 (doze) anos de idade, tem-se que, à luz das diretrizes firmadas pela Suprema Corte, por ocasião do julgamento do Habeas Corpus Coletivo n. 143.641/SP, as circunstâncias do caso concreto encontram-se entre as exceções proferidas pelo STF, quando então não será possível a concessão do benefício ora pretendido."
+(AgRg no HC 649.429/PA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/3/2021, DJe 29/3/2021).
+6. Quanto à alegação da defesa que faz jus à prisão domiciliar por fazer parte do grupo de risco da Covid-19, verifica-se que a questão não foi objeto de julgamento pelo acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante entendimento consolidado desta Corte.
+7. A jurisprudência desta Corte Superior sedimentou-se no sentido de que, à luz do disposto no art. 318, inciso II, do CPP, o acusado tem que comprovar o grave estado de saúde em que se encontra e a incompatibilidade entre o tratamento de saúde e a segregação cautelar, o que não se verificou na hipótese dos autos, conforme observado pela Corte estadual.
+8. Habeas corpus não conhecido.
+(HC n. 657.840/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/8/2021, DJe de 17/8/2021.)
+Por fim, é assente nesta Corte que "tem-se por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura" (AgRg no HC 844.095/PE, Relator Ministro Ribeiro Dantas, 5ª Turma, j. em 18/12/2023, DJe 20/12/2023).
+Pelo exposto, denego a ordem de habeas corpus pleiteada.
+É o voto.
