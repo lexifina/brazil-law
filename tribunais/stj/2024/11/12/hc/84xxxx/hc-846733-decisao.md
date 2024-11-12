@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JONATAS LEITE QUEVEDO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Correição Parcial n. 5147055- 54.2023.8.21.7000/RS).
+Consta dos autos que o paciente foi denunciado pela suposta prática do crime tipificado no art. 121, §2º, II, III, e IV, combinado com o art. 61, I, todos do Código Penal.
+A impetrante alega, em síntese, a ocorrência de cerceamento do direito de defesa diante do indeferimento do pleito de complementação de rol de testemunhas defensivas, uma vez que ainda estava em curso o prazo para resposta à acusação.
+Eis o argumento principal da impetrante:
+"Trata-se de Correição Parcial interposta pela defesa contra decisão que indeferiu a inclusão de testemunha no rol apresentado por ocasião da apresentação da resposta à acusação, porém ainda dentro do prazo legal e antes da apreciação desta pelo juízo. O Tribunal a quo, manteve a decisão de primeiro grau sob o fundamento de que não se verifica error in procedendo como invocado na Correição Parcial. A decisão se deu sob o aspecto processual e neste, como já referido, ausente erro ou abuso que importe na inversão tumultuária de atos e fórmulas legais a ensejar o deferimento da tutela".
+Requer, liminarmente e no mérito, o deferimento da juntada de rol complementar de testemunhas de defesa para serem ouvidas na audiência de instrução.
+A liminar foi indeferida (fls. 199-200).
+Parecer do Ministério Público Federal pelo não conhecimento da ação mandamental por ser substitutiva de recurso próprio. E que não é o caso de concessão da ordem de ofício porque a medida apontada como ilegal e abusiva não se configurou no caso concreto (fls. 247-250).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão de cerceamento de direito de defesa.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Nesses dois sentidos a manifestação do Ministério Público Federal:
+"Preliminarmente, cumpre destacar que os Tribunais Superiores passam por uma fase de limitação do uso do HC e correlatos (RHC), por entender que o manejamento do mandamus em caráter substitutivo escamoteia o instituto recursal próprio, em evidente descompasso com os imperativos constitucionais, sendo admitido apenas ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia"(fls. 247).
+E em relação à apontada coação ilegal e ofensa ao amplo direito de defesa e ao contraditório acrescenta:
+"In casu, como se deduz da exordial e das informações que integram os autos, o presente habeas corpus não preenche os requisitos essenciais para a admissibilidade por essa Corte Superior, na medida em que não se afigura visível quaisquer das hipóteses descritas na jurisprudência para a concessão da ordem de ofício. 4. Com efeito, não assiste razão à impetrante quanto à alegada violação ao direito da ampla defesa pelo indeferimento do pedido defensivo para complementação do rol de testemunhas. Isso porque se extrai dos autos que o juízo processante concluiu que "se operou a preclusão consumativa para o arrolamento de testemunhas pelas partes e a ausência de prejuízo à defesa, que já indicou outras quatro testemunhas na resposta à acusação" (fls. 248).
+Logo, verifico que a medida está sendo usada como substitutiva de Recurso Especial e que não estão presentes os requisitos para a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus com fundamento no art. 34, inciso XX, do Regimento Interno deste Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
