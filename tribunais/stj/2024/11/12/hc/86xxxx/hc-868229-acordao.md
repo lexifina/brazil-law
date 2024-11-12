@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conceder parcialmente a ordem, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. REVISÃO. APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. CAUSA DE AUMENTO DO ART. 40, III, DA LEI 11.343/06. REDUÇÃO DA PENA. ORDEM PARCIALMENTE CONCEDIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Fabrício Pereira dos Santos, apontando como autoridade coatora o Tribunal de Justiça do Distrito Federal e Territórios, que manteve condenação por tráfico de drogas. A defesa pleiteia a revisão da dosimetria da pena, com a aplicação da atenuante da confissão espontânea e o afastamento da majorante prevista no art. 40, III, da Lei nº 11.343/06.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível a aplicação da atenuante da confissão espontânea na dosimetria da pena; (ii) estabelecer se a majorante prevista no art. 40, III, da Lei de Drogas foi corretamente aplicada ao caso, diante das circunstâncias fáticas.
+III. RAZÕES DE DECIDIR
+3. A revisão da dosimetria em sede de habeas corpus é cabível apenas em casos de manifesta ilegalidade ou abuso de poder, verificáveis de plano, sem incursão em matéria fático-probatória.
+4. A confissão espontânea, mesmo que parcial, deve ser considerada na segunda fase da dosimetria da pena, conforme entendimento consolidado no STJ (AgRg no AREsp n. 2.665.005/SC), sendo obrigatória sua aplicação quando o réu admite parcialmente os fatos.
+5. No caso, o réu admitiu, durante interrogatório judicial, ter atuado como intermediário na aquisição de drogas para consumo próprio e de terceiros, o que enseja a aplicação da atenuante prevista no art. 65, III, "d", do Código Penal.
+6. A causa de aumento prevista no art. 40, III, da Lei nº 11.343/06 é de natureza objetiva, não sendo necessária a comprovação de que o réu se beneficiou do fluxo de pessoas nos locais descritos no dispositivo. A jurisprudência do STJ sustenta que basta que o tráfico tenha ocorrido nas proximidades dos estabelecimentos elencados na norma (AgRg no AREsp n. 2.560.979/MG).
+7 . As provas constantes nos autos, como filmagens e declarações, demonstram que o tráfico ocorreu em frente a parque infantil e nas proximidades de Delegacia de Polícia, justificando a incidência da majorante.
+IV. ORDEM PARCIALMENTE CONCEDIDA.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em favor de FABRICIO PEREIRA DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (Apelação Criminal 0714283-31.2022.8.07.0006), assim ementado (e-STJ,fls. 14-15):
+APELAÇÃO CRIMINAL. DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. MATERIALIDADE E AUTORIA COMPROVADAS. ROBUSTO ACERVO PROBATÓRIO. ART. 28. § 2º, DA LEI Nº 11.343/06. DESCLASSIFICAÇÃO PARA USO. NÃO CABIMENTO. DOSIMETRIA. PRIMEIRA FASE. MAUS ANTECEDENTES. EXPRESSA MENÇÃO ÀS CONDENAÇÕES PRETÉRITAS. CONDUTA SOCIAL. CRIME COMETIDO DURANTE CUMPRIMENTO DE PENA EM REGIME ABERTO. FUNDAMENTAÇÃO IDÔNEA. BIS IN IDEM. FALTA GRAVE. AUSÊNCIA. TERCEIRA FASE. CAUSA DE AUMENTO DO ART. 40, III, DA LEI Nº 11.343/06. NATUREZA OBJETIVA. SENTENÇA MANTIDA.
+1. Nos termos do art. 28, § 2º, da Lei nº 11.343/06, para determinar se a droga destinava-se a consumo pessoal, o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente.
+2. Evidenciada nos autos a destinação ilícita da droga fornecida pelo apelante por meio dos elementos indicados no art. 28, § 2º, da Lei Antidrogas por meio da folha de antecedentes penais, filmagens realizadas pela equipe policial, prova oral colhida, bem como o laudo de exame de informática, incabível a desclassificação do crime do art. 33, caput, da Lei nº 11.343/06, para a do art. 28, caput, do mesmo diploma.
+3. Conforme tese fixada no Tema nº 150 STF, "Não se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal, podendo o julgador, fundamentada e eventualmente, não promover qualquer incremento da pena-base em razão de condenações pretéritas, quando as considerar desimportantes, ou demasiadamente distanciadas no tempo, e, portanto, não necessárias à prevenção e repressão do crime, nos termos do comando do artigo 59, do Código Penal".
+4. Não evidenciada excepcionalidade apta afastar a valoração negativa dos maus antecedentes, correta a exasperação da pena-base em razão do vetor.
+5. Tratando-se de acusado que comete novo crime durante o cumprimento de pena, em evidente afronta à confiança depositada pelo Estado e às diretrizes da execução penal, é cabível o reconhecimento da conduta social desfavorável, não havendo que se falar em bis in idem com a prática de falta grave em razão da independência das esferas penal e administrativa.
+6. Demonstrado o tráfico de drogas em frente a parque infantil recreativo e nas proximidades de Delegacia de Polícia, impõe-se o aumento de pena previsto no art. 40, III, da Lei nº 11.343/06, de forma objetiva.
+7. Apelação conhecida e não provida.
+A defesa sustenta, em suma, ser devida a atenuante da confissão espontânea (art. 65, III, d, do CP), bem como que deve ser afastada a majorante do art. 40, III, da Lei 11.343/2006.
+Requer a concessão da ordem para revisar a dosimetria, nos termos da fundamentação.
+Foram prestadas informações (e-STJ, fls. 390-423).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ, fls. 437-441).
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. REVISÃO. APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. CAUSA DE AUMENTO DO ART. 40, III, DA LEI 11.343/06. REDUÇÃO DA PENA. ORDEM PARCIALMENTE CONCEDIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Fabrício Pereira dos Santos, apontando como autoridade coatora o Tribunal de Justiça do Distrito Federal e Territórios, que manteve condenação por tráfico de drogas. A defesa pleiteia a revisão da dosimetria da pena, com a aplicação da atenuante da confissão espontânea e o afastamento da majorante prevista no art. 40, III, da Lei nº 11.343/06.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível a aplicação da atenuante da confissão espontânea na dosimetria da pena; (ii) estabelecer se a majorante prevista no art. 40, III, da Lei de Drogas foi corretamente aplicada ao caso, diante das circunstâncias fáticas.
+III. RAZÕES DE DECIDIR
+3. A revisão da dosimetria em sede de habeas corpus é cabível apenas em casos de manifesta ilegalidade ou abuso de poder, verificáveis de plano, sem incursão em matéria fático-probatória.
+4. A confissão espontânea, mesmo que parcial, deve ser considerada na segunda fase da dosimetria da pena, conforme entendimento consolidado no STJ (AgRg no AREsp n. 2.665.005/SC), sendo obrigatória sua aplicação quando o réu admite parcialmente os fatos.
+5. No caso, o réu admitiu, durante interrogatório judicial, ter atuado como intermediário na aquisição de drogas para consumo próprio e de terceiros, o que enseja a aplicação da atenuante prevista no art. 65, III, "d", do Código Penal.
+6. A causa de aumento prevista no art. 40, III, da Lei nº 11.343/06 é de natureza objetiva, não sendo necessária a comprovação de que o réu se beneficiou do fluxo de pessoas nos locais descritos no dispositivo. A jurisprudência do STJ sustenta que basta que o tráfico tenha ocorrido nas proximidades dos estabelecimentos elencados na norma (AgRg no AREsp n. 2.560.979/MG).
+7 . As provas constantes nos autos, como filmagens e declarações, demonstram que o tráfico ocorreu em frente a parque infantil e nas proximidades de Delegacia de Polícia, justificando a incidência da majorante.
+IV. ORDEM PARCIALMENTE CONCEDIDA.
+VOTO
+A revisão da dosimetria em sede de "habeas corpus" "é possível somente em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios.
+A atenuante da confissão espontânea (art. 65, III, d, do CP) foi afastada nos seguintes termos (e-STJ, fls. 287):
+ ..  Na segunda fase, inexistentes atenuantes, conforme a Súmula nº 630 do Superior Tribunal de Justiça, verifico a ocorrência da agravante de reincidência (art. 61, inciso I, do Código Penal) (ID n. 141127559, p 26-29) e fixo a pena intermediária em 07 anos, 09 meses e 10 dias de reclusão e 666 dias-multa.
+ ..
+"De acordo com entendimento consolidado no âmbito desta Corte Superior, a confissão - mesmo que seja parcial ou qualificada, e ainda que o juiz não a tenha utilizado na motivação da sentença como um dos elementos para condenar o réu - sempre confere o direito à atenuação da pena na segunda fase da dosimetria" (AgRg no AREsp n. 2.665.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/8/2024, DJe de 30/8/2024.)
+No caso, dessume-se dos autos que, durante interrogatório judicial, o réu admitiu parcialmente os fatos imputados. Veja-se (e-STJ, fl. 18):
+Já o acusado, em seu interrogatório, negando os fatos a ele imputados, argumentou (ID 49918916):
+que conhecia Valter. No dia dos fatos, compartilharam um cigarro de maconha, tendo Valter informado que buscaria uma "dola" de cocaína para consumirem juntos. Ele apanhou a droga e retornou, utilizando-a com o acusado. Depois de, aproximadamente, 30 (trinta) minutos, Valter voltou à residência do réu e pediu que ele buscasse outra porção de cocaína para consumirem. O acusado adquiriu a droga e eles a utilizaram, depois entregou a Valter outra porção de cocaína. O réu se reconheceu na mídia de ID n. 141116653 como o indivíduo vestido de blusa azul. Afirmou que atuava como intermediário da venda de entorpecentes, apanhando as drogas, na boca de fumo, somente, quando iria, também, consumir as substâncias ilícitas. Conhecia os fornecedores de entorpecentes. Comunicou aos policiais que poderia levá-los à boca de fumo. Alegou que a movimentação de pessoas, na sua casa, era devido ao comércio de "churrasquinho" e que, por vezes, o som ficava alto, incomodando os vizinhos, o que poderia ter ensejado nas denúncias anônimas em seu desfavor.
+Desse modo, admitidos, ainda que parcialmente, os fatos imputados, de rigor a incidência da atenuante.
+Quanto à majorante do art. 40, III, da Lei de drogas, dispôs o acórdão (e-STJ, fls. 24-25):
+Na terceira fase, ausentes causas especiais de diminuição, mas presente a de aumento do art. 40, III, da Lei nº 11.343/06, a reprimenda foi aumentada em 1/6, obtendo-se a pena definitiva de 9 anos e 26 dias de reclusão.
+No ponto, argumenta a Defesa que o termo "proximidades" é genérico e não esclarece a distância a que o crime foi praticado da Delegacia e da praça de recreação, bem como qual seria o nome da última, elementos que seriam essenciais para se averiguar se o apelante se beneficiou, de fato, do fluxo de pessoas.
+Entretanto, as detalhadas declarações prestadas pelo condutor do flagrante em sede extrajudicial evidenciam que a equipe buscava, exatamente, combater o tráfico de drogas nas proximidades da 35ª Delegacia de Polícia de Sobradinho II, alcançando, nesse contexto, o endereço do réu: AR 11, Conjunto 2, Casa 06.
+Ademais, as filmagens de ID 49918333 e 49918334 demonstram, de forma cristalina, que a casa é diretamente em frente a um parque de recreação infantil, o que configura prova suficiente para atrair a incidência do art. 40, III, da Lei nº 11.343/06.
+Por outro lado, embora a Defesa apresente entendimento doutrinário a seu favor no que se refere à necessidade de o agente se beneficiar do fluxo de pessoas nos locais elencados, fato é que a norma não traz qualquer ressalva no ponto.
+A jurisprudência do colendo Superior Tribunal de Justiça e desta egrégia Corte, aliás, na esteira do que apontado pela d. sentenciante, é exatamente no sentido de que a causa de aumento do art. 40, III, da Lei nº 11.343/06 é de natureza objetiva, sendo prescindível a comprovação de eventual benefício com o fluxo de pessoas.
+O entendimento da instância de origem coaduna-se com a jurisprudência desta Corte:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. CAUSA DE AUMENTO DO ART. 40, INCISO III, DA LEI Nº 11.343/06. AFASTAMENTO. PANDEMIA. NATUREZA OBJETIVA. INCIDÊNCIA DO BENEFÍCIO DO TRÁFICO PRIVILEGIADO. FUNDAMENTAÇÃO CONCRETA. REVISÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É firme a jurisprudência desta Corte Superior no sentido de que, para a imposição da causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006, basta que o tráfico de drogas tenha ocorrido nas proximidades de qualquer dos estabelecimentos descritos na norma, sendo prescindível a comprovação de que o comércio de entorpecentes visava atingir estudantes ou qualquer frequentador dos locais indicados no referido preceito.
+2. No presente caso, em atenção à jurisprudência desta Corte Superior e considerando que o Tribunal local reconheceu que o tráfico foi praticado nas imediações de centro de ensino, justificada a incidência da causa de aumento prevista no art. 40, inciso III, da Lei n. 11.343/2006.
+ ..  6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.560.979/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024.)
+Passo a redimensionar a pena aplicada.
+Considerando a pena-base de 6 anos e 8 meses de reclusão, compensam-se, na segunda fase, a agravante da reincidência, fixada em 1/6 na origem, e a atenuante da confissão espontânea, na fração de 1/12, resultando 7 anos, 2 meses e 20 dias de reclusão. Na terceira fase, ausentes causas especiais de diminuição, mas presente a causa de aumento do art. 40, III, da Lei nº 11.343/06, a reprimenda foi aumentada em 1/6, alcançando o patamar de 8 anos, 5 meses e 3 dias de reclusão. Pena pecuniária reduzida proporcionalmente a 726 dias-multa.
+Ante o exposto, concedo parcialmente a ordem de habeas corpus para reduzir a pena aplicada a 8 anos, 5 meses e 3 dias de reclusão e 726 dias-multa.
+É o voto.
