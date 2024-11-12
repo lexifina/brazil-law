@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da CF) apresentado contra o acórdão proferido pelo Tribunal de Justiça do Maranhão (Agravo de Execução Penal n. 0816362-88.2023.8.10.0000) que manteve a decisão que indeferiu o pedido à remição de 25 dias, bem como a reavaliação da necessidade do uso do monitoramento eletrônico formulado em favor do reeducando Antonio Carlos Barroso da Silva.
+Nas razões do recurso especial, a defesa do agravante suscitou contrariedade aos arts. 126, § 1º, I, 146-B e 146-D, todos da Lei de Execução Penal (fls. 672/686).
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 83/STJ (fls. 702/705).
+Contra o decisum a defesa interpôs o presente agravo (fls. 707/713).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo provimento parcial do recurso, nos termos do parecer assim ementado (fls. 735/738):
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. REMIÇÃO DA PENA PELO TRABALHO. CONVERSÃO DE CARGA HORÁRIA QUE RESULTA EM NÚMERO NÃO INTEIRO. ARREDONDAMENTO DA FRAÇÃO REMANESCENTE PARA O NÚMERO INTEIRO SUPERIOR. INTERPRETAÇÃO MAIS BENÉFICA AO APENADO. SALDO REMANESCENTE DE 0,66 - ACIMA DA METADE. CONCESSÃO DE 1 DIA DE REMIÇÃO. POSSIBILIDADE. MANUTENÇÃO MONITORAMENTO ELETRÔNICO DEVIDAMENTE FUNDAMENTADA. PARECER PELO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL PARA DAR PROVIMENTO AO RECURSO ESPECIAL, APENAS PARA DECLARAR REMIDOS 25 DIAS DE PENA.
+É o relatório
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Quanto ao recurso especial em si, a insurgência também é admissível, mas, no mérito, merece parcial acolhida.
+Ao manter a decisão do Juízo da execução, a Corte de origem consignou o seguinte (fls. 658/669):
+ ..
+Registre-se que Antônio Carlos Barroso da Silva restou condenado a uma pena de 17 (dezessete) anos e 22 (vinte e dois) dias pela conduta do artigo 217-A c/c artigo 226, II, do Estatuto Penal (Id 27872890 - Pág. 5; Id 27872902-Pág. 33), todavia, em 05/05/2023, teve remidos 24 (vinte e quatro) dias do restante da pena, bem como, manteve a monitoração eletrônica com prisão domiciliar por prazo indeterminado.
+O cálculo dos dias remidos foram confeccionados de forma correta, não sendo caso de qualquer mudança:
+"No tocante ao pedido de remição, observa-se que o apenado frequentou aulas referentes a Educação de Jovens Adultos (EJA) por 296 horas, do período de novembro de 2018 a março de 2019, fazendo jus a 24 dias de remição (01 dia de remição para cada 12 horas de estudo)." (Id 27872902 - Pág. 31).
+Quanto à utilização de monitoração, da mesma forma, deve continuar a incidir.
+A defesa aponta o advento da recente Resolução nº 412, de 23/08/2021, do CNJ (Estabelece diretrizes e procedimentos para a aplicação e o acompanhamento da medida de monitoramento eletrônico de pessoas) como elemento de vedação de uso do aparelho, todavia, a própria dicção do artigo 3º da resolução, apresenta hipóteses NUMERUS APERTUS (não taxativo, pode ser estendida), pois aponta possibilidades de uso da monitoração:
+ ..
+Então, quando o juízo fixou e manteve a prisão domiciliar com monitoração eletrônica (Id. Nº 27872902- Pág. 31-32), beneficiou o Agravante com condições mais brandas para execução da pena, não tendo sentido, agora, a retirada do aparelho, meio eficaz de fiscalização de cumprimento da pena.
+Ademais, o juízo das execuções somente impôs condições de não se ausentar da residência, salvo para hospital a fim de ser submetido a tratamento médico, procedimentos estes que deverão ser anteriormente comunicados a SEAP/SME e posteriormente comprovado por meio de laudos que deverão ser juntados aos autos, bem como não mudar de endereço e nem se ausentar da cidade de Imperatriz-MA sem a prévia autorização do juízo das execuções, sob pena de revogação do benefício.
+Não observo qualquer constrangimento, até porque a Lei nº. 7210/84, em seu artigo 146-B , inc. IV, prevê a incidência da medida, que poderá ser revogada quando se tornar desnecessária ou inadequada, consoante art. 146-D, inc. I, da LEP, fato que não se comprovou aqui.
+O Superior Tribunal de Justiça, inclusive, não tem reconhecido qualquer tipo de constrangimento só pelo uso da tornozeleira, negando que o uso do aparelho seja mais gravoso que o próprio cumprimento das condições originárias do regime aberto ou semiaberto:
+ ..
+Ao dividir o total de horas estudadas (296h) por 12, tem-se o resultado de 24,6666666666667 dias de pena a serem remidos. A pretensão de se arredondar o saldo restante, 0,66, para conceder 1 dia de remição por 1 dia de estudo, encontra-se em harmonia com a jurisprudência desta Corte (AgRg no REsp n. 1.935.198/MT, Ministro Rogerio Schietti Cruz, Quinta Turma, julgado em 20/6/2024, DJe 24/6/2024).
+Confira-se ainda:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELOS ESTUDOS. CONVERSÃO DE CARGA HORÁRIA DE ESTUDOS QUE RESULTA EM NÚMERO NÃO INTEIRO. DÍZIMA PERIÓDICA. PRETENSÃO DE AFASTAMENTO DO ARREDONDAMENTO DA FRAÇÃO REMANESCENTE PARA O PRIMEIRO NÚMERO INTEIRO SUPERIOR. INTERPRETAÇÃO MAIS BENÉFICA AO APENADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A remição da pena pelos estudos, nos termos do art. 126, § 1º, inciso I, da Lei de Execução Penal, é realizada à razão de 1 (um) dia de pena a cada 12 horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 dias.
+2. É firme o entendimento desta Corte Superior no sentido de que os cálculos aplicados na execução da pena também devem ser interpretados de forma mais benéfica ao apenado. Precedentes.
+3. Nesse contexto, não resultando em número inteiro o cálculo dos dias a serem remidos, opera-se o arredondamento matemático dos algarismos decimais para o número inteiro imediatamente superior, entendimento que se mostra mais razoável.
+4. Na espécie, as instâncias ordinárias, no cálculo da remição, dividiram por 12 as 224 horas de estudos cumpridas pela reeducanda, resultando em 18,666 dias a serem remidos, tendo a Corte a quo mantido o arredondamento da fração excedente (0,666) para declarar remidos 19 dias de pena (e-STJ fls. 93/94), o que não merece reparos.
+5. Agravo regimental não provido.
+(AgRg no REsp n. 1.914.970/MT, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/2/2021, DJe 1º/3/2021).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DA PENA POR ESTUDO. CONVERSÃO DE CARGA HORÁRIA QUE RESULTA EM NÚMERO NÃO INTEIRO. ARREDONDAMENTO DA FRAÇÃO REMANESCENTE PARA O NÚMERO INTEIRO SUPERIOR. INTERPRETAÇÃO MAIS BENÉFICA AO APENADO. PRECEDENTES DESTA QUINTA TURMA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Não resultando em número inteiro o cálculo dos dias a serem remidos, opera-se o arredondamento matemático dos algarismos decimais para o número inteiro imediatamente superior, entendimento que se mostra mais razoável" (AgRg no REsp 1.926.400/MT, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/5/2021, DJe 14/5/2021).
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 1.927.382/MT, Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/9/2021, DJe 20/9/2021).
+Quanto ao afastamento do uso da tornozeleira, em consulta aos autos da Execução Penal n. 027960-26.2016.8.10.0224, obtive a informação de que o agravante foi agraciado com a retirada da tornozeleira (datada 24/4/2024 - seq. 166) decisão subsequente ao acórdão exarado no julgamento do Agravo em Execução Penal n. 0816362-88.2023.8.10.0000 (julgamento em 7/11/2023), de modo que esse tópico restou prejudicado.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe provimento a fim de reconhecer o direito do agravante à remição de 25 dias de pena.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELOS ESTUDOS. CONVERSÃO DE CARGA HORÁRIA DE ESTUDOS QUE RESULTA EM NÚMERO NÃO INTEIRO - 24,66. DÍZIMA PERIÓDICA MAIOR QUE 5. PRETENSÃO DO ARREDONDAMENTO DA FRAÇÃO REMANESCENTE PARA O PRIMEIRO NÚMERO INTEIRO SUPERIOR. INTERPRETAÇÃO MAIS BENÉFICA AO APENADO. POSSIBILIDADE. PRISÃO DOMICILIAR COM MONITORAÇÃO ELETRÔNICA. CONDIÇÕES DE SAÚDE. PERDA SUPERVENIENTE DO OBJETO.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, provido o recurso, nos termos do dispositivo .
