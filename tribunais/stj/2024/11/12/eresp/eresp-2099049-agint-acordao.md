@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 06/11/2024 a 12/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. SÚMULA 315/STJ. CONFIRMAÇÃO. AGRAVO DESPROVIDO.
+1. É devida a aplicação, na hipótese, da Súmula 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+2. É imprópria a discussão, em sede de embargos de divergência, acerca da aplicação de regra técnica relativa ao conhecimento do recurso especial. Afinal, a função dos embargos de divergência é uniformizar teses jurídicas dissidentes quanto à matéria meritória.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão, proferida pela Presidência desta Corte de Justiça, que inadmitiu liminarmente os embargos de divergência, por entender incidente a Súmula 315/STJ.
+Em suas razões recursais, o agravante alega ser indevida a aplicação da referida Súmula, bem como da Súmula 284/STF. Afirma, para tanto, que o "Agravante entende que no caso deve ser aplicado o entendimento recente de julgado da Corte Especial desse Superior Tribunal de Justiça, nos Embargos de Divergência em Agravo em Recurso Especial (EAR Esp 1672966 / MG) (..). Ou seja, a partir da decisão acima, a aplicação da Súmula 284 do STF, passou a ter tratamento uníssono nessa Corte Superior, merecendo a mitigação que permite o conhecimento do Recurso Especial, mesmo na ausência da alínea do permissivo Constitucional, desde que fique demonstrado o seu cabimento de forma inequívoca, em estrita consonância com a ressalva da própria Súmula".
+Devidamente intimada, a parte agravada não apresentou impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. SÚMULA 315/STJ. CONFIRMAÇÃO. AGRAVO DESPROVIDO.
+1. É devida a aplicação, na hipótese, da Súmula 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+2. É imprópria a discussão, em sede de embargos de divergência, acerca da aplicação de regra técnica relativa ao conhecimento do recurso especial. Afinal, a função dos embargos de divergência é uniformizar teses jurídicas dissidentes quanto à matéria meritória.
+3. Agravo interno a que se nega provimento.
+VOTO
+A respeito da interpretação a ser dada à Súmula 315/STJ após o advento do Novo Código de Processo Civil, esta colenda Corte Especial, no julgamento dos EAREsp 324.073/SP, firmou orientação no sentido de que, a partir da vigência do CPC de 2015, deve ser mitigada a força do referido enunciado sumular, porquanto a inovação prevista em seu art. 1.043, III, passou a autorizar os embargos de divergência quando, embora desprovido o agravo, a fundamentação do julgado apreciar o mérito do recurso especial.
+Eis o teor da ementa do referido acórdão:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AGRAVO EM RECURSO ESPECIAL E AGRAVO REGIMENTAL DESPROVIDOS. QUESTÃO CONTROVERTIDA EXAMINADA NO ACÓRDÃO EMBARGADO. CABIMENTO DOS EMBARGOS INTERPOSTOS SOB A ÉGIDE DO NOVO CPC. AFASTAMENTO DA SÚMULA N. 315/STJ. ASSISTÊNCIA JUDICIÁRIA. REQUERIMENTO NO CORPO DA PETIÇÃO RECURSAL. POSSIBILIDADE. NOVO ENTENDIMENTO DA CORTE ESPECIAL.
+1. O Código de Processo Civil de 2015, no inciso III do art. 1.043, positivou o entendimento do STJ de que são admissíveis os embargos de divergência interpostos no domínio do agravo de instrumento/agravo em recurso especial desprovidos, quando a fundamentação do julgado passar pelo exame do mérito do apelo trancado na origem, mitigando, assim, a incidência da Súmula n. 315/STJ.
+2. A circunstância de o dispositivo prever como embargável apenas "acórdão prolatado em recurso especial" deve ser creditada ao fato de que o novo CPC havia extinto o duplo juízo de admissibilidade do recurso especial, o qual foi restabelecido, antes mesmo da entrada em vigor da novel legislação processual, pela Lei n. 13.256/2016, sem que, todavia, tenha-se readequado a dicção do art. 1.043.
+3. O requerimento do benefício de gratuidade da justiça pode ser deduzido na própria petição recursal. Nova exegese do art. 6º da Lei n. 1.060/1950 (AgRg nos EREsp n. 1.222.355/MG).
+4. Embargos de divergência conhecidos e providos.
+(EAREsp 624.073/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 05/04/2017, DJe 09/05/2017)
+No caso dos autos, o v. acórdão embargado da colenda Primeira Turma negou provimento ao agravo interno, por entender que o recurso especial, interposto apenas com base na alínea c do permissivo, não observou os requisitos de admissibilidade necessários para seu conhecimento, porquanto: (i) "a parte recorrente não se desincumbiu do ônus de juntar cópia dos acórdãos indicados como paradigma, nem sequer de indicar o repositório oficial, em flagrante desobediência ao que determina o art. 1.043, § 4º, do CPC"; (ii) "a mera transcrição de ementa ou inteiro teor de julgados não tem o condão de satisfazer as exigência para a comprovação do dissídio jurisprudencial. Para o conhecimento do recurso especial fundado na alínea c do permissivo constitucional, é dever da parte recorrente a demonstração analítica da divergência jurisprudencial invocada, com a indicação das circunstâncias fáticas e jurídicas que identificam ou assemelham os casos confrontados, o que não ocorreu in casu". Com isso, manteve a decisão que não conheceu do recurso especial, "ainda que por outros fundamentos" (fl. 487).
+Com efeito, no aresto embargado, não houve a confirmação da aplicação da Súmula 284/STF na alínea c do permissivo constitucional, ao contrário do afirmado pelo ora agravante. Houve, na realidade, a adoção de novos fundamentos para manter a conclusão de não conhecimento do apelo especial.
+Nesse contexto, não há matéria federal, seja de direito material ou de direito processual, no tocante a aplicação da Súmula 284/STF, a ser uniformizada no âmbito desta Corte Superior, nos termos exigidos pelos arts. 1.043, I e II, e § 2º, do CPC de 2015 e 266, caput, e § 2º, do RISTJ.
+Correta, pois, a decisão ora agravada, ao indeferir liminarmente os embargos de divergência, com aplicação do enunciado 315 da Súmula do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+Ademais, cumpre salientar que é imprópria a discussão, em sede de embargos de divergência, acerca da aplicação de regra técnica relativa ao conhecimento do recurso especial. Afinal, a função dos embargos de divergência é uniformizar teses jurídicas dissidentes quanto à matéria meritória.
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
