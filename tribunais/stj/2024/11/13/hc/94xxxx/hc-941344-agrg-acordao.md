@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2024 a 13/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. COMUTAÇÃO DE PENA. DECRETO N. 11.846/2023. REQUISITO OBJETIVO NÃO IMPLEMENTADO. CUMPRIMENTO DE 2/3 DA PENA DECORRENTE DE CONDENAÇÃO POR CRIME IMPEDITIVO. MANDAMUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Sobre o pedido de indulto com base no Decreto n. 11.846/23, a Corte estadual compreendeu não ser possível a concessão da benesse, tendo em vista que apenado não resgatou 2/3 da pena referente à condenação por crime hediondo (homicídio qualificado) até 25/12/2023.
+2. Se extrai do art. 9º, parágrafo único, do Decreto n. 11.846/2023 que, " n a hipótese de haver concurso com crime descrito no art. 1º, não será declarado o indulto ou a comutação da pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo dos benefícios".
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por CLAUDINEI CORREIA contra decisão na qual indeferi liminarmente o habeas corpus (e-STJ fls. 24/27).
+Depreende-se dos autos que o Juízo de primeiro grau deferiu o pedido de comutação com base no Decreto n. 11.846/2023 (e-STJ fls. 16/18).
+Interposto agravo em execução, o Tribunal a quo deu provimento ao recurso ministerial para cassar o benefício, consoante aresto acostado às e-STJ fls. 8/13, sem ementa.
+Daí o habeas corpus, no qual a defesa sustentou que "a decisão do órgão coator é ilegal, por contrariar a literalidade do art. 9º do Decreto-Lei, que dispõe que as penas decorrentes de condenações diversas devem ser somadas para fins de declaração de indulto e comutação" (e-STJ fl. 4).
+Requereu, liminarmente e no mérito, o restabelecimento da decisão de primeiro grau que concedeu a comutação.
+O habeas corpus foi indeferido liminarmente (e-STJ fls. 24/27).
+Daí o presente agravo regimental, no qual repisa a defesa os elementos apresentados no habeas corpus, asseverando que o precedente citado na decisão recorrida se refere a outro decreto e não serve de parâmetro jurisprudencial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. COMUTAÇÃO DE PENA. DECRETO N. 11.846/2023. REQUISITO OBJETIVO NÃO IMPLEMENTADO. CUMPRIMENTO DE 2/3 DA PENA DECORRENTE DE CONDENAÇÃO POR CRIME IMPEDITIVO. MANDAMUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Sobre o pedido de indulto com base no Decreto n. 11.846/23, a Corte estadual compreendeu não ser possível a concessão da benesse, tendo em vista que apenado não resgatou 2/3 da pena referente à condenação por crime hediondo (homicídio qualificado) até 25/12/2023.
+2. Se extrai do art. 9º, parágrafo único, do Decreto n. 11.846/2023 que, " n a hipótese de haver concurso com crime descrito no art. 1º, não será declarado o indulto ou a comutação da pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo dos benefícios".
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+Sobre o pedido de comutação com base no Decreto n. 11.846/2023, a Corte estadual compreendeu que o apenado não adimpliu o requisito objetivo para a concessão da benesse, uma vez que condenado por homicídio qualificado, delito impeditivo, cuja pena não foi resgatada no patamar de 2/3 até 25/12/2023.
+O Magistrado de primeiro grau assim se manifestou (e-STJ fls. 16/17):
+De fato, nota-se do que a análise dos benefícios em comento foi realizada Seq. 124.1individualmente.
+Contudo, a partir de decisão proferida nos autos n.º 8000646- 71.2021.8.24.0072( em 22-3-,2024) e observou-se que havia necessidade de alterar o método de aferição do requisito objetivo para concessão do benefício. Realizada acurada pesquisa junto aos Juízos das Varas de Execuções Penais Especializadas do estado, a fim de diligenciar a respeito da metodologia adotada, constatou-se que ao menos as Comarcas da Capital, Criciúma e Curitibanos realizam o cálculo do requisito objetivo levando em consideração a pena total aplicada, nos termos pleiteados pela Unidade Prisional.
+ ..
+Infere-se do acórdão supracitado, que inclusive foi fruto de agravo em execução interposto pelo próprio Ministério Público em favor do detento, que não deve ser aplicada a regra do art. 76 do Código Penal, a qual prevê que no concurso de infrações executar-se-á primeiramente a mais grave. Na ocasião, restou consignado que as penas diversas devem somar-se para efeito de concessão do benefício.
+Por sua vez, o Tribunal estadual destacou (e-STJ fls. 10/11, grifei):
+In casu, a despeito dos fundamentos invocados na decisão recorrida, não se verifica o cumprimento cumulativo dos requisitos estipulados pelo Presidente da República.
+Segundo consta, Claudinei Correia cumpre pena privativa de liberdade, oriunda das seguintes condenações (consulta ao Sistema Eletrônico de Execução Unificado - SEEU):
+a) Ação Penal n. 0001182-27.2015.8.24.0139: condenado à pena de 02(dois) anos de reclusão, pela prática do crimes previsto no art. 155, § 4º, I, do Código Penal, já cumprida integralmente;
+b) Ação Penal n. 0001521-98.2002.8.24.0055: condenado à pena de 04 (quatro)anos, 05 (cinco) meses e 09 (nove) dias de reclusão, pela prática do crime previsto no art. 157, § 2º, II, do Código Penal, já cumprida integralmente;
+c) Ação Penal n. 0003269-58.2012.8.24.0139: condenado à pena de 01 (um)ano de reclusão, pela prática do crime previsto no art. 155, § 4º, do Código Penal, em que cumpriu 34% (trinta e quatro por cento), correspondente a 04(quatro) meses e 05 (cinco) dias;
+d) Ação Penal n. 0000523-81.2016.8.24.0139: condenado à pena de 03 (três)anos de reclusão, pela prática do crime previsto no art. 155, § 4º, I e II, c/c art.14, II, ambos do Código Penal, já cumprida integralmente;
+e) Ação Penal n. 5000187-79.2022.8.24.0139: condenado à pena de 11 (onze)anos e 08 (oito) meses de reclusão, pela prática do crime previsto no art.121, § 2º, II e III, do Código Penal, em que cumpriu 21% (vinte e um por cento), correspondente a 02 (dois) anos, 06 (seis) meses e 05 (cinco) dias.
+Conforme visto, nos termos do art. 1º, inciso I, do Decreto n. 11.846/2023, os crimes hediondos ou equiparados - entre os quais se encontra o delito de homicídio qualificado, nos termos do art. 1º, inciso I, da Lei n. 8.072/90 - são considerados impeditivos para a concessão de indulto e comutação de (e-STJ Fl.25)penas. Assim, para ter direito à concessão do benefício almejado, qual seja, a comutação de penas, o agravado deveria ter cumprido, até 25/12/2023, além da fração mínima exigida no art. 3º, 2/3 (dois terços) da pena correspondente ao crime impeditivo, nos termos do art. 9º, parágrafo único, ambos do referido Decreto.
+Não obstante, conforme dados constantes do Sistema Eletrônico de Execução Unificado (SEEU), na aba "informações adicionais", em 25/12/2023, o apenado havia resgatado, apenas, 02 (dois) anos, 06 (seis) meses e 05 (cinco) dias - equivalentes a 21%(vinte e um por cento) - da pena relativa à condenação pela prática do crime impeditivo, qual seja, aquele tipificado no art. 121, § 2º, II e III, do Código Penal (Ação Penal n. 5000187-79.2022.8.24.0139).
+Evidentemente, portanto, não restaram satisfeitos os requisitos exigidos.
+Compreendi que o Tribunal a quo interpretou corretamente o texto legal ao afirmar que o fato de o agravante não ter resgatado 2/3 da pena referente a delito impeditivo (homicídio qualificado) inviabiliza a concessão do benefício.
+Isso, porque a vedação está expressa no art. 9º, parágrafo único, do Decreto n. 11.846/2023: "Na hipótese de haver concurso com crime descrito no art. 1º, não será declarado o indulto ou a comutação da pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo dos benefícios."
+No mesmo sentido, repito precedente citado na decisão recorrida que, apesar de ser referente a outro decreto de indulto, a redação da vedação citada é a mesma:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO. COMUTAÇÃO. DECRETO N. 9.246/17. JULGAMENTO APÓS A ADI N. 5.874 PELO STF. REQUISITOS DO DECRETO. NÃO CUMPRIMENTO. 2/3 DO DELITO IMPEDITIVO. REDAÇÃO EXPRESSA. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem, de ofício.
+II - "A Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do Recurso Especial n. 1.364.192/RS, representativo da controvérsia, firmou entendimento de que a concessão do indulto/comutação de penas deverá observar o cumprimento dos requisitos previstos no decreto presidencial pelo qual foram instituídos" (HC n. 341.986/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/02/2016).
+III - Igualmente, em 09/05/2019, no julgamento da ADI n. 5.874 pelo col. Supremo Tribunal Federal, no qual se confirmou a constitucionalidade do Decreto Presidencial n. 9.246/17, foi consignado, no r. voto-relator, verbis: "Com o devido respeito às posições em contrário, não compete ao SUPREMO TRIBUNAL FEDERAL reescrever o decreto de indulto, pois, ou o Presidente da República extrapolou o exercício de sua discricionariedade, e, consequentemente, a norma é inconstitucional; ou, entre as várias opções constitucionalmente lícitas, o Presidente da República escolheu validamente uma delas, e, consequentemente, esta opção válida não poderá ser substituída por uma escolha discricionária do Poder Judiciário, mesmo que possa parecer melhor, mais técnica ou mais justa" (fl. 31). IV - In casu, inviável a concessão da comutação de penas, em virtude da ausência de cumprimento pelo reeducando de requisito objetivo, que exige o curso de 2/3 da pena do delito impeditivo (art. 3º, II, c/c art. 12, parágrafo único, ambos do Decreto n. 9.246/17).
+V - A literalidade do art. 12, parágrafo único, do Decreto n. 9.246/17 exige o cumprimento de 2/3 da pena do delito impeditivo, restringindo o seu caput, que trata do somatório das penas fins de cálculos: "Art. 12. As penas correspondentes a infrações diversas serão unificadas ou somadas para efeito da declaração do indulto natalino ou da comutação, na forma do art. 111 da Lei nº 7.210, de 1984. Parágrafo único. Na hipótese de haver concurso com infração descrita no art. 3º, não será concedido o indulto natalino ou comutada a pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo ".
+Habeas corpus não conhecido.
+(HC n. 506.165/DF, relator Ministro Felix Fischer, Quinta Turma, julgado em 28/5/2019, DJe de 4/6/2019, grifei.)
+Ante o exposto, mantenho a decisão agravada, pelos seus próprios fundamentos, e nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
