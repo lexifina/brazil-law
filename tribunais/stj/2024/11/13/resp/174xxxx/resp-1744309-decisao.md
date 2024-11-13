@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, recurso especial interposto pela UNIÃO contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. MILITAR. REINTEGRAÇÃO. EXECUÇÃO PROVISÓRIA DA DECISÃO. POSSIBILIDADE.
+O art. 2º-B da Lei n. 9.494/1997 veda a execução provisória de sentença que tenha por objeto, dentre outras medidas, a inclusão em folha de pagamento, concessão de aumentos, ou concessão ou extensão de vantagens a servidores, o que não é o caso dos autos. A execução provisória visa à reintegração do autor nos quadros militares, situação que não se insere entre as vedações do dispositivo, não obstante represente, por via reflexa, oneração aos cofres públicos (fl. 139).
+Nas razões recursais, a recorrente sustenta, em síntese, violação aos arts. 520, caput e inciso VII, do CPC/2015 e 29 da Lei n. 11.514/2007 (LDO 2008), correspondente ao art. 26 da Lei n. 11.768/2008 (LDO 2009), defendendo ser incabível a execução provisória, e a consequente expedição de requisição de pagamento, antes do trânsito em julgado dos embargos à execução.
+Contrarrazões apresentadas às fls. 161-165.
+É o relatório.
+Passo a decidir.
+O entendimento do Tribunal de origem, segundo o qual, a antecipação dos efeitos da tutela contra a Fazenda Pública é vedada apenas nas hipóteses expressamente previstas no art. 2º-B da Lei n. 9.494/97, o que não ocorre no caso, onde se discute a reintegração de militar , encontra amparo na jurisprudência do STJ, conforme demonstram os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. POLICIAL MILITAR. EXCLUSÃO DA CORPORAÇÃO, A BEM DA DISCIPLINA. INCAPACIDADE TOTAL E PERMANENTE. ANULAÇÃO DO ATO ADMINISTRATIVO E REFORMA DO MILITAR. REINTEGRAÇÃO. EXECUÇÃO PROVISÓRIA CONTRA A FAZENDA PÚBLICA. TRÂNSITO EM JULGADO DA DECISUM QUE CONCEDERA A SEGURANÇA. PERDA DE OBJETO. AGRAVO INTERNO PREJUDICADO.
+I. Agravo interno aviado contra decisão monocrática que julgou recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Na forma da jurisprudência, "com o advento do trânsito em julgado, a execução, antes provisória, tornou-se definitiva, razão pela qual está prejudicada a insurgência quanto à possibilidade de execução provisória do título judicial, com fulcro no art. 2º-B da Lei nº 9.494/97" (STJ, AgRg no Ag 841.186/RS, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (Desembargadora Convocada do TJ/PE), SEXTA TURMA, DJe de 1º/07/2013). Nesse mesmo sentido: STJ, REsp 946.580/RN, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 24/09/2008; REsp 1.124.940/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 29/11/2016.
+III. De qualquer modo, "pacífico entendimento do STJ de que o art. 2º-B da Lei n. 9.494/97 não veda a execução provisória de acórdão que determina a reintegração de servidor" (STJ, AgRg no AREsp 422.856/PI, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 18/03/2014).
+IV. Agravo interno prejudicado (AgInt no AREsp n. 690.556/GO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/9/2017, DJe de 28/9/2017).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MILITAR. REFORMA. EXECUÇÃO PROVISÓRIA CONTRA A FAZENDA PÚBLICA. POSSIBILIDADE. PRECEDENTES DO STJ. OMISSÃO DO ARESTO REGIONAL AFASTADA.
+1. Afasta-se a alegada ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. "As vedações previstas no art. 2º-B Lei 9.494/97 devem ser interpretadas restritivamente. Dessa forma, preenchidos os requisitos autorizadores de sua concessão, é admissível a antecipação dos efeitos da tutela em desfavor da Fazenda Pública, desde que a situação não esteja inserida nas vedações da supramencionada norma." (AgRg no Ag 1364594/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 27/5/2011)
+3. Na hipótese dos autos, que versa sobre concessão de reforma a militar, não incide a regra que veda a execução provisória de sentença contra a Fazenda Publica.
+Agravo regimental a que se nega provimento (AgRg no AREsp n. 605.482/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 24/11/2015, DJe de 11/12/2015).
+Isso posto, nego provimento ao recurso especial.
+Intimem-se.
+ EMENTA
