@@ -1,0 +1,121 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO, por unanimidade, julgar procedente a revisão criminal para absolver o requerente, com fulcro no art. 386, VII, do CPP, por inexistir prova suficiente da materialidade delitiva, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro (Revisor), Messod Azulay Neto, Daniela Teixeira, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+REVISÃO CRIMINAL. CRIME DO ART. 7.º, INCISO IX, DA LEI N.º 8.137/90. PRODUTOS COM PRAZOS DE VALIDADE VENCIDOS. AUSÊNCIA DE PERÍCIA PARA COMPROVAR A IMPROPRIEDADE DAS MERCADORIAS. IMPRESCINDIBILIDADE. FALTA DE JUSTA CAUSA PARA O EXERCÍCIO DA AÇÃO PENAL. ENTENDIMENTO CONSOLIDADO NO ÂMBITO DESTA CORTE SUPERIOR. PROCEDÊNCIA DO PEDIDO REVISIONAL.
+1. Nos termos da jurisprudência desta Corte Superior, " é  cabível o ajuizamento de revisão criminal para anular condenação penal transitada em julgado quando a sentença for contrária ao texto expresso da lei penal ou à evidência dos autos, fundada em depoimentos, exames ou documentos falsos, ou se descobrirem provas novas da inocência ou de circunstância de autorize a diminuição da pena." (REsp 1371229/SE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 20/10/2015, DJe 06/11/2015).
+2. Este Superior Tribunal de Justiça possui remansosa jurisprudência segundo a qual, nos crimes previstos no art. 7º, inciso IX, da Lei nº 8.137/90, revela-se indispensável a realização de perícia, quando possível, a fim de se atestar ser o produto impróprio ou não para o consumo. Precedentes.
+3. Não se trata de hipótese de acolhimento de revisão criminal em razão de modificação de entendimento jurisprudencial, em regra, vedada por esta Corte. Isso porque, no caso em apreço, ao tempo da publicação da decisão impugnada, já havia orientação em sentido contrário consolidada no âmbito deste Tribunal Superior, conferindo melhor exegese ao delito previsto no art. 7º, IX, da Lei 8.137/90.
+4. Revisão criminal julgada procedente para absolver o requerente, com fulcro no art. 386, VII, do CPP, por inexistir prova suficiente da materialidade delitiva.
+RELATÓRIO
+Trata-se de revisão criminal proposta por AIRTO MOSS, com fundamento no art. 621, inciso I, do Código de Processo Penal, buscando desconstituir julgado da Sexta Turma deste Superior Tribunal de Justiça, no Recurso Especial n. 1.604.261/SC.
+Consta dos autos que o requerente foi condenado, em primeira instância, à pena de 2 anos e 9 meses de detenção, em regime aberto, pela prática dos delitos dos arts. 7º, inciso IX, da Lei n. 8.137/1990 e 18, §6º, incisos I, II e II, da Lei n. 8.078/1990, em razão de manter em depósito, para a preparação de lanches expostos à venda, diversos produtos alimentícios com o prazo de validade expirado.
+Interposto recurso de apelação, a Corte de origem deu parcial provimento ao apelo apenas para redimensionar a pena aplicada.
+Nesta instância, por meio de decisão monocrática do Ministro Sebastião Reis Júnior, foi provido o recurso especial defensivo para absolver o acusado, com fulcro no art. 386, inciso II, do Código de Processo Penal.
+Na ocasião, entendeu-se pela imprescindibilidade de realização de perícia para constatação da impropriedade das mercadorias apreendidas.
+O Ministério Público do Estado de Santa Catarina interpôs agravo regimental contra o referido decisum que foi reconsiderado pelo Ministro Relator para negar provimento ao recurso especial de Airton, acolhendo a tese ministerial, no sentido de que o delito em do art. 7º, inciso IX, da Lei n. 8.137/1990 caracteriza-se com a simples exposição do produto com o prazo de validade vencido, sendo desnecessária a confecção de laudo pericial.
+Interposto agravo regimental contra a nova decisão, a Sexta Turma não conheceu do recurso diante de sua intempestividade, nos termos da seguinte ementa:
+AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. CRIME CONTRA AS RELAÇÕES DE CONSUMO. VENDER PRODUTOS EM CONDIÇÕES IMPRÓPRIAS. PRAZO DE VALIDADE VENCIDO. LAUDO PERICIAL.
+PRESCINDIBILIDADE. ART. 18, § 6º, DO CDC. INTEMPESTIVIDADE.
+1. O acórdão agravado foi disponibilizado em 9/9/2016 (sexta-feira) e considerado publicado em 12/9/2016 (segunda-feira). Entretanto, o agravo regimental foi protocolizado tão somente em 20/9/2016 (fls. 496/509), quando já esgotado o lapso de 5 dias previsto no art. 258 do Regimento Interno desta Corte Superior, c/c o art.
+1.042 do Código de Processo Civil, o qual teve início em 13/9/2016 (terça-feira) e findou em 19/2/2016 (segunda-feira).
+2. Agravo regimental não conhecido. (e-STJ, fls. 656)
+Opostos embargos declaratórios pela defesa, foram rejeitados (e-STJ, fls. 676/678).
+Certidão de trânsito em julgada em 21/3/2017 (e-STJ, fl. 685).
+Na presente ação revisional, sustenta o requerente violação ao art. 158 do Código de Processo Penal, em razão de ter sido condenado por crime que deixa vestígios, sem o referido exame de corpo de delito.
+Requer, liminarmente, a suspensão da execução da pena. No mérito, pede a absolvição, nos termos do art. 386, inciso II, c.c. o art. 564, inciso III, alínea b e art. 626, todos do Código de Processo Penal.
+Liminar indeferida.
+O Ministério Público Federal ofertou parecer pelo indeferimento da revisão criminal.
+É o relatório.
+EMENTA
+Direito penal. Revisão criminal. Crime contra as relações de consumo. Necessidade de perícia. Pedido procedente.
+I. Caso em exame
+1. Revisão criminal proposta com fundamento no art. 621, inciso I, do Código de Processo Penal, visando desconstituir julgado da Sexta Turma do Superior Tribunal de Justiça, que condenou o requerente por manter em depósito produtos alimentícios com prazo de validade expirado, sem realização de perícia para comprovar a impropriedade para consumo.
+2. O requerente foi condenado em primeira instância à pena de 2 anos e 9 meses de detenção, em regime aberto, pela prática dos delitos previstos nos arts. 7º, inciso IX, da Lei n. 8.137/1990 e 18, §6º, incisos I, II e III, da Lei n. 8.078/1990.
+3. A decisão monocrática do Ministro Sebastião Reis Júnior absolveu o acusado, mas foi reconsiderada após agravo regimental do Ministério Público, que sustentou a desnecessidade de laudo pericial para caracterização do delito.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a condenação por crime contra as relações de consumo, previsto no art. 7º, inciso IX, da Lei n. 8.137/1990, pode ser mantida sem a realização de perícia que comprove a impropriedade dos produtos para consumo.
+III. Razões de decidir
+5. A jurisprudência consolidada do Superior Tribunal de Justiça estabelece que, para a configuração do delito previsto no art. 7º, inciso IX, da Lei n. 8.137/1990, é indispensável a realização de perícia para comprovar a impropriedade da mercadoria para consumo.
+6. A ausência de laudo pericial inviabiliza a comprovação da materialidade delitiva, configurando falta de justa causa para a condenação.
+7. A revisão criminal é cabível quando se pleiteia a adoção de novo entendimento jurisprudencial mais benigno, desde que a mudança corresponda a um entendimento pacífico e relevante.
+IV. Dispositivo e tese
+8. Pedido procedente para absolver o requerente, com fulcro no art. 386, inciso VII, do Código de Processo Penal, por inexistir prova suficiente da materialidade delitiva.
+Tese de julgamento: "1. A configuração do delito previsto no art. 7º, inciso IX, da Lei n. 8.137/1990 exige a realização de perícia para comprovar a impropriedade da mercadoria para consumo. 2. A ausência de laudo pericial inviabiliza a comprovação da materialidade delitiva e configura falta de justa causa para a condenação."
+Dispositivos relevantes citados: CF/1988, art. 105, I, e; CPP, art. 621, I; CPP, art. 386, VII; Lei n. 8.137/1990, art. 7º, IX.
+Jurisprudência relevante citada: STJ, REsp 1.371.229/SE, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, j. 20.10.2015; STJ, REsp 1.112.685/SC, Rel. Min. Felix Fischer, Quinta Turma, j. 06.10.2009; STJ, HC 388.374/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. 21.11.2017.""
+VOTO
+Inicialmente, verifica-se que a revisão criminal preenche os pressupostos do art. 105, inciso I, alínea e, da Constituição da República, e do art. 621, inciso I, do Código de Processo Penal.
+Nos termos da jurisprudência desta Corte Superior, " é  cabível o ajuizamento de revisão criminal para anular condenação penal transitada em julgado quando a sentença for contrária ao texto expresso da lei penal ou à evidência dos autos, fundada em depoimentos, exames ou documentos falsos, ou se descobrirem provas novas da inocência ou de circunstância de autorize a diminuição da pena." (REsp 1.371.229/SE, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 20/10/2015, DJe 6/11/2015).
+Acerca da controvérsia em questão, esta Corte Superior possuía orientação no sentido de que o art. 7.º, inciso IX, da Lei n.º 8.137/90 prescindia, para sua caracterização, de perícia para comprovar a real nocividade da mercadoria ao consumo. A propósito: RHC 15.087/SP, relator Ministro Hamilton Carvalhido, Sexta Turma, julgado em 21/2/2006, DJ 5/2/2007, p. 379; e REsp 307.415/SP, relator Ministro Gilson Dipp, Quinta Turma, julgado em 03/10/2002, DJ 11/11/2002, p. 246.
+Contudo, o entendimento sofreu alteração após o julgamento do HC 90.779-2/PR, de relatoria do Ministro Carlos Britto, DJe 24/10/2008, pela Primeira Turma do Supremo Tribunal Federal.
+Acompanhando o posicionamento do STF, esta Corte Superior alterou sua jurisprudência, passando a estabelecer que, nos crimes previstos no art. 7º, inciso IX, da Lei n. 8.137/1990, revela-se indispensável a realização de perícia, quando possível, a fim de se atestar ser o produto impróprio ou não para o consumo.
+A propósito: "Revendo orientação prevalente nesta Corte (v.g., REsp 472.038/PR, 5ª Turma, Rel. Min Gilson Dipp, DJ de 25/02/2004 e REsp 620.237/PR, 5ª Turma, de minha relatoria, DJ de 16/11/2004), cumpre alterar o entendimento acerca da matéria, para estabelecer que nos crimes previstos no art. 7º, inciso IX, da Lei nº 8.137/90 é indispensável a realização de perícia, quando possível sua realização, a fim de se atestar se o produto é ou não impróprio para o consumo (Precedente do c. Supremo Tribunal Federal). Recurso especial desprovido." (REsp 1.112.685/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 6/10/2009, DJe 29/3/2010; grifou-se).
+Desde então, encontra-se consolidado o entendimento desta Corte Superior no seguinte sentido:
+RECURSO ESPECIAL. PENAL E PROCESSUAL CRIMINAL. ART. 7º, INCISO IX, DA LEI Nº 8.137/90. NECESSIDADE DE LAUDO PERICIAL PARA A CONSTATAÇÃO DA IMPROPRIEDADE DA MERCADORIA. RECURSO IMPROVIDO.
+1. Para a configuração do delito previsto no art. 7º, inciso IX, da Lei n.º 8.137/1990, necessária a comprovação, mediante perícia, de que a mercadoria esteja inadequada ao consumo.
+2. Recurso improvido.
+(REsp n. 1.154.774/RS, relator Ministro Napoleão Nunes Maia Filho, relator para acórdão Ministro Jorge Mussi, Quinta Turma, julgado em 6/4/2010, DJe de 28/6/2010; grifou-se.)
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ART. 7º, INCISO IX, DA LEI 8.137/1990. TRANCAMENTO DA AÇÃO PENAL. AUSÊNCIA DE JUSTA CAUSA. PRODUTOS IMPRÓPRIOS PARA CONSUMO. EXPIRAÇÃO DO PRAZO DE VALIDADE. PROVA PERICIAL. INEXISTÊNCIA. INTELIGÊNCIA DO ART. 158 DO CPP. ORDEM CONCEDIDA.
+1. O trancamento da ação penal por ausência de justa causa exige comprovação, de plano, da atipicidade da conduta, da ocorrência de causa de extinção da punibilidade, da ausência de lastro probatório mínimo de autoria ou de materialidade, o que não se verifica na presente hipótese.
+2. A jurisprudência da Sexta Turma é assente em considerar que a caracterização do crime previsto no art. 7º, IX, da Lei n. 8.137/1990 depende de realização de laudo pericial atestando a impropriedade dos produtos em questão, no intuito de comprovar a inequívoca nocividade para o consumo, mesmo se expirado o prazo de validade do produto.
+3. "Conquanto parte da doutrina e da jurisprudência entendam que o delito previsto no art. 7º, IX, da Lei n. 8.137/1990, crime formal, de perigo abstrato, seja norma penal em branco, cujo elemento normativo do tipo "impróprio para consumo" deve ser complementado pelo disposto no art. 18, § 6º, do Código de Defesa do Consumidor, a jurisprudência do Superior Tribunal de Justiça entende que há necessidade de realização de exame pericial nos produtos pretensamente impróprios, a fim de que seja comprovada a sua real nocividade para consumo humano, sob pena de inaceitável responsabilidade penal objetiva" (RHC 69.692/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 6/6/2017, DJe 13/6/2017).
+4. Ordem concedida para restabelecer a decisão de primeiro grau que rejeitou a denúncia.
+(HC n. 388.374/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/11/2017, DJe de 1/12/2017; grifou-se.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. CRIME CONTRA AS RELAÇÕES DE CONSUMO. MERCADORIA IMPRÓPRIA PARA CONSUMO. PRAZO DE VALIDADE EXPIRADO. PERÍCIA. NECESSIDADE. PRECEDENTES DA SEXTA TURMA.
+1. O Superior Tribunal de Justiça entende que, para caracterizar o delito previsto no art. 7º, IX, da Lei n. 8.137/1990 - crime contra as relações de consumo -, é imprescindível a realização de perícia a fim de atestar se as mercadorias apreendidas estavam em condições impróprias para o consumo (AgRg no REsp n. 1.175.679/RS, da minha relatoria, Sexta Turma, DJe 28/3/2012).
+2. O fato de os produtos estarem com o prazo de validade expirado não afasta a regra geral aplicada pela Sexta Turma.
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.476.252/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 25/8/2015, DJe de 15/9/2015; grifou-se.)
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA AS RELAÇÕES DE CONSUMO. AUSÊNCIA DE PERÍCIA TÉCNICA. ABSOLVIÇÃO. RECURSO MINISTERIAL. PLEITO CONDENATÓRIO. IMPOSSIBILIDADE. PRECEDENTES. SÚMULA N. 568/STJ. INCIDÊNCIA MANTIDA. ENFRENTAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. USURPAÇÃO DE COMPETÊNCIA DO STF. ART. 102, III, A, DA CF. DISCUSSÃO INVIÁVEL NO ÂMBITO DESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+I - Esta Corte Superior de Justiça possui entendimento consolidado no sentido de que, " ..  a conduta tipificada no art. 7º, IX, da Lei 8.137/90 (inclusive parágrafo único) - expor à venda produtos impróprios para o consumo - em razão de deixar vestígios, exige a realização de perícia para a demonstração da materialidade delitiva, nos termos do art. 158 do CPP", e de que "A existência de mero "auto de exibição e apreensão", noticiando o vencimento do prazo de validade não é suficiente para atestar que o produto seja efetivamente impróprio para o consumo, afigurando-se imprescindível a realização de perícia técnica que ateste o fato" (RHC n. 105.272/SP, Quinta Turma, Rel. Min. Felix Fischer, DJe de 1º/2/2019).
+II - Não cabe a este Superior Tribunal, ainda que para o fim de prequestionamento, proceder a eventual verificação de violação a princípio ou a dispositivo da Constituição Federal, sob pena de usurpar a competência do col. Supremo Tribunal Federal, a quem compete decidir sobre referida matéria, nos termos do que dispõe o art. 102, inciso III, alínea a, da Constituição Federal.
+Precedentes.
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.825.020/SC, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do Tj/pe), Quinta Turma, julgado em 22/10/2019, DJe de 28/10/2019; grifou-se.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DO ART. 7.º, INCISO IX, DA LEI N.º 8.137/90. NÃO ELABORADO LAUDO PARA COMPROVAR QUE AS MERCADORIAS MANTIDAS EM DEPÓSITO E EXPOSTAS À VENDA ERAM IMPRÓPRIAS AO CONSUMO HUMANO. AUSÊNCIA DE PROVA DA MATERIALIDADE DELITIVA. FALTA DE JUSTA CAUSA PARA O EXERCÍCIO DA AÇÃO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para a comprovação de prática das condutas delitivas previstas no art. 7.º, inciso IX, da Lei n.º 8.137/90, é imprescindível a elaboração de laudo pericial que comprove ser a mercadoria imprópria (nociva) para o consumo humano, mesmo se expirado o prazo de validade do produto.
+2. "A realização de mero laudo de constatação não é suficiente para atestar que a mercadoria é efetivamente imprópria para o consumo, sendo imprescindível a realização de perícia técnica. Precedente" (RHC 91.502/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 12/12/2017, DJe 01/02/2018).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 453.004/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/10/2019, DJe de 25/10/2019; grifou-se.)
+Dessa forma, tendo em vista que o decisum impugnado apresentou conclusão destoante com a diretriz perfilhada, é o caso de acolhimento da pretensão revisional.
+A propósito, cumpre ressaltar que não se trata de conhecimento de revisão criminal em razão de modificação de entendimento jurisprudencial, em regra, vedada por este Superior Tribunal de Justiça. Isso porque, na hipótese em apreço, ao tempo da publicação da decisão impugnada (AgInt no REsp 1.604.261/SC, DJe 12/6/2016) já havia orientação em sentido contrário e consolidada no âmbito deste Tribunal, conferindo melhor exegese ao delito previsto no art. 7º, inciso IX, da Lei n. 8.137/1990, conforme se verifica dos julgados acima colacionados.
+Logo, não há que se falar em novo ou superveniente entendimento pretoriano.
+Mesmo que assim não fosse, destaque-se que esta Corte vem entendendo " c abível o manejo da revisão criminal fundada no art. 621, I, do CPP em situações nas quais se pleiteia a adoção de novo entendimento jurisprudencial mais benigno, desde que a mudança jurisprudencial corresponda a um novo entendimento pacífico e relevante." (RvCr 3.900/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 13/12/2017, DJe 15/12/2017).
+Nesse contexto, de rigor a procedência da revisão criminal.
+Ante o exposto, dou provimento ao pedido revisional para absolver o requerente, com fulcro no art. 386, inciso VII, do Código de Processo Penal, por inexistir prova suficiente da materialidade delitiva.
+É como voto.
+EMENTA
+VOTO-REVISÃO
+Trata-se de revisão criminal ajuizada por AIRTO MOSS, com fundamento no art. 621, I, do Código de Processo Penal, em que busca desconstituir julgado emanado da Sexta Turma desta Corte (REsp n. 1.604.261/SC).
+Colhe-se dos autos que o requerente foi condenado, como incurso no art. 7º, IX, da Lei n. 8.137/1990, c/c o art. 18, § 6º, I e III, da Lei n. 8.078/1990, à pena de 2 anos e 9 meses de detenção, no regime aberto.
+Foi dado parcial provimento ao recurso de apelação da defesa para apenas diminuir a pena aplicada.
+Nesta Corte, após ter sido absolvido, por ter sido considerado indispensável a realização de perícia para a constatação da impropriedade das mercadorias apreendidas para a configuração do art. 7º, IX, da Lei n. 8.137/1990, em juízo de retratação, foi restabelecida a sua condenação.
+Interposto agravo regimental, dele não se conheceu em razão de sua intempestividade.
+Após a rejeição dos embargos de declaração, foi certificado o trânsito em julgado.
+Sustenta a defesa, na presente revisão criminal, que "a condenação lançada ao outrora réu e ora autor não merece prosperar, tendo em vista que viola diretamente o artigo 158 do Código de Processo Penal (e contraria jurisprudência dominante desta Corte), eis que o crime em comento deixa vestígios, sendo indispensável o exame de corpo de delito" (e-STJ fl. 3).
+Aduz que a sentença condenatória contraria texto expresso de lei.
+Requer, ao final, a absolvição.
+O MPF manifestou-se pelo indeferimento do pedido em parecer assim ementado (e-STJ fl. 695):
+REVISÃO CRIMINAL. CRIMES DOS ARTIGOS 7º, IX, DA LEI Nº 8.137/90 E 18, §6º, I, II E II, DA LEI Nº 8.078/90. PLEITO DE ABSOLVIÇÃO POR AUSÊNCIA DE MATERIALIDADE DELITIVA. NÃO SE VERIFICA NO CASO QUALQUER DAS HIPÓTESES PREVISTAS NO ART. 621 DO CPP. DECISÃO CONDENATÓRIA EM CONFORMIDADE COM A ORIENTAÇÃO DO STJ. CRIME DE PERIGO PRESUMIDO. DESNECESSIDADE DE REALIZAÇÃO DE EXAME PERICIAL. PARECER PELO INDEFERIMENTO DA REVISÃO CRIMINAL.
+É, em síntese, o relatório.
+O presente pedido, considerando as peculiaridades nele presentes e o disposto no art. 621, I, do Código de Processo Penal, deve ser julgado procedente.
+No caso, na oportunidade em que o entendimento então prevalente nesta Corte poderia ter sido aplicado, do agravo regimental interposto pela defesa não se conheceu, pois foi considerado intempestivo.
+Além disso, de fato, predominava ao tempo da decisão, assim como predomina atualmente, o entendimento de que é indispensável a realização de perícia para a constatação da impropriedade das mercadorias apreendidas para a configuração do tipo descrito no art. 7º, IX, da Lei n. 8.137/1990.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA AS RELAÇÕES DE CONSUMO. ART. 7º, IX, PARÁGRAFO ÚNICO DA LEI N. 8.137/90. MERCADORIA COM PRAZO DE VALIDADE VENCIDO. AUSÊNCIA DE PERÍCIA TÉCNICA. MATERIALIDADE DELITIVA NÃO DEMONSTRADA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte orienta-se no sentido de que conduta tipificada no art. 7º, parágrafo único, inciso IX, da Lei 8.137/90 - expor à venda produtos impróprios para o consumo - deixa vestígios, razão pela qual a perícia é indispensável para a demonstração da materialidade delitiva, nos termos do art. 158 do Código de Processo Penal, inclusive nas hipóteses de produto com prazo de validade vencido.
+2. Com efeito, " a  existência de mero "auto de exibição e apreensão", noticiando o vencimento do prazo de validade não é suficiente para atestar que o produto seja efetivamente impróprio para o consumo, afigurando-se imprescindível a realização de perícia técnica que ateste o fato" (RHC 105.272/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 11/12/2018, DJe 1º/2/2019).
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.902.045/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/8/2021, DJe de 10/8/2021.)
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ART. 7º, INCISO IX, DA LEI 8.137/1990. TRANCAMENTO DA AÇÃO PENAL. AUSÊNCIA DE JUSTA CAUSA. PRODUTOS IMPRÓPRIOS PARA CONSUMO. EXPIRAÇÃO DO PRAZO DE VALIDADE. PROVA PERICIAL. INEXISTÊNCIA. INTELIGÊNCIA DO ART. 158 DO CPP. ORDEM CONCEDIDA.
+1. O trancamento da ação penal por ausência de justa causa exige comprovação, de plano, da atipicidade da conduta, da ocorrência de causa de extinção da punibilidade, da ausência de lastro probatório mínimo de autoria ou de materialidade, o que não se verifica na presente hipótese.
+2. A jurisprudência da Sexta Turma é assente em considerar que a caracterização do crime previsto no art. 7º, IX, da Lei n. 8.137/1990 depende de realização de laudo pericial atestando a impropriedade dos produtos em questão, no intuito de comprovar a inequívoca nocividade para o consumo, mesmo se expirado o prazo de validade do produto.
+3. "Conquanto parte da doutrina e da jurisprudência entendam que o delito previsto no art. 7º, IX, da Lei n. 8.137/1990, crime formal, de perigo abstrato, seja norma penal em branco, cujo elemento normativo do tipo "impróprio para consumo" deve ser complementado pelo disposto no art. 18, § 6º, do Código de Defesa do Consumidor, a jurisprudência do Superior Tribunal de Justiça entende que há necessidade de realização de exame pericial nos produtos pretensamente impróprios, a fim de que seja comprovada a sua real nocividade para consumo humano, sob pena de inaceitável responsabilidade penal objetiva" (RHC 69.692/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 6/6/2017, DJe 13/6/2017).
+4. Ordem concedida para restabelecer a decisão de primeiro grau que rejeitou a denúncia.
+(HC n. 388.374/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/11/2017, DJe de 1/12/2017.)
+Ante o exposto, acompanho o relator e voto pela procedência do pedido para absolver o requerente.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Revisor
