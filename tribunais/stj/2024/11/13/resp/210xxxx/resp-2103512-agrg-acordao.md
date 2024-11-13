@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. FURTO AO BANCO CENTRAL LOCALIZADO EM FORTALEZA. RESTITUIÇÃO DE COISAS APREENDIDAS. ABSOLVIÇÃO. DÚVIDA QUANTO AO DIREITO. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que restabeleceu o indeferimento da liberação de valores do imóvel sequestrado alienado judicialmente, apesar do agravante ter sido absolvido em ação penal por imputação do delito de lavagem de dinheiro.
+II. Questão em discussão
+2. A questão em discussão consiste em saber: i) se a absolvição em ação penal, por si só, implica no levantamento do sequestro, cessando as medidas assecuratórias; ii) se a documentação reproduzida na peça do agravo regimental pode ser considerada para liberação dos valores obtidos com a alienação judicial.
+III. Razões de decidir
+3. A comprovação da propriedade e origem lícita da aquisição do bem é requisito para liberação de bens e valores apreendidos, ainda que diante de absolvição.
+4. O Tribunal de origem liberou os valores tão somente com base na absolvição, razão pela qual a documentação digitalizada no recurso não foi objeto de prequestionamento, o que impede a sua consideração por esta Corte.
+IV. Dispositivo e tese
+5. Agravo regimental desprovido.
+Tese de julgamento: "1. A comprovação da propriedade e origem lícita da aquisição do bem é requisito para liberação de bens e valores apreendidos, ainda que diante de absolvição. 2. O prequestionamento é requisito para análise de teses recursais."
+Dispositivos relevantes citados: CPP, arts. 120 e 386, parágrafo único, II; CP, art. 131, III; Lei n. 9.613/98, art. 4º-A, § 5º, I e II.
+Jurisprudência relevante citada: STJ, AgRg no REsp n. 2.031.614/CE, Min. Messod Azulay Neto, Quinta Turma, DJe de 6/9/2024; STJ, AgRg no AREsp n. 1.832.276/PE, Min. Laurita Vaz, Sexta Turma, DJe de 15/12/2022 .
+RELATÓRIO
+Trata-se de agravo regimental de fls. 1086/1094 interposto por RAIMUNDO ALVES SILVA em face de decisão de minha lavra de fls. 1071/1079 que deu provimento ao recurso especial do BANCO CENTRAL DO BRASIL para restabelecer a decisão que indeferiu a liberação dos valores do imóvel sequestrado alienado judicialmente.
+Em síntese, a decisão agravada constatou que o TRF5 liberou os valores apenas com base na absolvição do agravante em ação penal, sem constatar a demonstração de propriedade do bem e licitude da origem dos recursos utilizados para aquisição.
+No presente agravo regimental, a defesa sustenta que há prova inconteste de que o imóvel sequestrado foi adquirido de forma lícita pelo agravante, antes mesmo do furto ao BACEN e que os pagamentos advieram de recursos lícitos do agravante. Destaca, também, a absolvição quanto ao delito de lavagem de dinheiro. Reproduz documentação que afirma estar nos autos e segundo a qual comprova a origem lícita dos recursos utilizados para a aquisição.
+Requereu a reconsideração ou o provimento do recurso para manter o acórdão do TRF5.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. FURTO AO BANCO CENTRAL LOCALIZADO EM FORTALEZA. RESTITUIÇÃO DE COISAS APREENDIDAS. ABSOLVIÇÃO. DÚVIDA QUANTO AO DIREITO. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que restabeleceu o indeferimento da liberação de valores do imóvel sequestrado alienado judicialmente, apesar do agravante ter sido absolvido em ação penal por imputação do delito de lavagem de dinheiro.
+II. Questão em discussão
+2. A questão em discussão consiste em saber: i) se a absolvição em ação penal, por si só, implica no levantamento do sequestro, cessando as medidas assecuratórias; ii) se a documentação reproduzida na peça do agravo regimental pode ser considerada para liberação dos valores obtidos com a alienação judicial.
+III. Razões de decidir
+3. A comprovação da propriedade e origem lícita da aquisição do bem é requisito para liberação de bens e valores apreendidos, ainda que diante de absolvição.
+4. O Tribunal de origem liberou os valores tão somente com base na absolvição, razão pela qual a documentação digitalizada no recurso não foi objeto de prequestionamento, o que impede a sua consideração por esta Corte.
+IV. Dispositivo e tese
+5. Agravo regimental desprovido.
+Tese de julgamento: "1. A comprovação da propriedade e origem lícita da aquisição do bem é requisito para liberação de bens e valores apreendidos, ainda que diante de absolvição. 2. O prequestionamento é requisito para análise de teses recursais."
+Dispositivos relevantes citados: CPP, arts. 120 e 386, parágrafo único, II; CP, art. 131, III; Lei n. 9.613/98, art. 4º-A, § 5º, I e II.
+Jurisprudência relevante citada: STJ, AgRg no REsp n. 2.031.614/CE, Min. Messod Azulay Neto, Quinta Turma, DJe de 6/9/2024; STJ, AgRg no AREsp n. 1.832.276/PE, Min. Laurita Vaz, Sexta Turma, DJe de 15/12/2022 .
+VOTO
+De plano, o agravo regimental deve ser conhecido, pois tempestivo, com impugnação da decisão agravada, nos limites da matéria controvertida.
+Apesar dos argumentos defensivos, a decisão agravada deve ser mantida por seus próprios fundamentos. Consoante se verá a seguir, o TRF5, ao liberar o levantamento dos recursos, não o fez com base em qualquer comprovação de propriedade e/ou de licitude dos recursos utilizados para a aquisição, mas, tão somente, em face da absolvição em ação penal. Destarte, embora o agravante apresente no bojo do recurso documentação digitalizada para fins de asseverar licitude da aquisição do imóvel alineado judicialmente, tal documentação não foi objeto de prequestionamento, o que impede a sua consideração por esta Corte.
+O TRF5, no julgamento da apelação, deu provimento para a pretensão defensiva de liberação de valores nos seguintes termos (grifos nossos):
+"O apelante RAIMUNDO ALVES SILVA foi processado pelo crime de lavagem de dinheiro amealhado com o furto ao Banco Central em Fortaleza (CE), tendo sido absolvido por este TRF da 5ª Região, que entendeu pela inocorrência do referido delito (ACR 9176-CE).
+Ele, então, deduziu requerimento junto ao juízo de primeiro grau, no sentido do levantamento dos valores depositados judicialmente em função de alienação judicial do imóvel indicado na inicial.
+A sentença não acolheu o pleito, donde o recurso ora examinado
+Estou em que o levantamento é devido.
+Em primeiro lugar, porque não é possível extrair-se do juízo absolutório no feito movimentado contra o ora recorrente (pelo crime de lavagem) qualquer nota de desvalor, fosse qual fosse o fundamento que lhes haja motivado a absolvição. Do mesmo modo, não é possível extrair da condenação original (pelo próprio furto) os efeitos ora pretendidos, forte em que os réus (lá condenados) eram outras pessoas (intranscendência).
+Conquanto certa a premissa de não ser possível locupletar-se o criminoso com o proveito do crime cometido, não é viável aplicá-la ao caso dos autos, posto que o réu, tendo sido absolvido do ilícito que lhe foi imputado, sequer foi apanhado com dinheiro, objeto material do crime de furto pelo qual outras pessoas restaram condenadas. Se não é possível concluir-se, com nível absoluto de certeza, que o bem sempre pertenceu ao requerente ou que foi adquirido com dinheiro de origem lícita, também não é viável, na sede processual de que se cuida (penal), formular-se juízo de valor que lhes impeça o levantamento imediato. Qualquer outra formulação depende da instauração de processo próprio, perante juízo competente e com contraditório específico acerca do tema.
+Nestes termos, nos termos do pronunciamento da douta DOU PROVIMENTO À APELAÇÃO, Procuradoria Regional da República.
+É como voto" (fl. 597).
+Por seu turno, no segundo julgamento dos embargos de declaração fez constar o seguinte nos termos do voto do relator (grifo nosso):
+"Pois bem. Ao reexaminar os termos do julgado embargado, percebo que o embargante apega-se à tese de que esta turma julgadora autorizou o levantamento da quantia depositada judicialmente, mesmo admitindo existir dúvida quanto à propriedade do bem alienado. Com isso, ter-se-ia omitido quanto ao preenchimento dos requisitos necessários à restituição (arts. 118 e 120, § 4º, do CPP).
+Na verdade, omissão não houve, uma vez que o acórdão embargado parte da premissa de que o requerente não precisa demonstrar a propriedade do bem. A restituição é devida simplesmente porque a prolação de sentença absolutória torna forçoso o restabelecimento do status quo ante, nos termos do art. 386, II, do CPP.
+Assim, considerando que o bem se encontrava na posse do embargado quando da efetivação da medida constritiva, deve a ele ser devolvido, já que sobre si não pesa qualquer condenação, não havendo, pois, qualquer entrave ao levantamento dos valores decorrentes da sua alienação" (fl. 895).
+Extrai-se dos trechos acima que o TRF5 entendeu pela restituição dos valores decorrentes de alienação judicial de imóvel sequestrado porque o recorrido foi absolvido do crime de lavagem de dinheiro, situação que sobressai à falta de constatação do recorrido sempre ter sido dono do bem ou ter adquirido o bem com dinheiro de origem lícita.
+De fato, reza o art. 131, III, do Código Penal - CP, que "o sequestro será levantado se for julgada extinta a punibilidade ou absolvido o réu, por sentença transitada em julgado". No mesmo sentido, dispõe o art. 386, parágrafo único, II, do CPP:
+"Art. 386. O juiz absolverá o réu, mencionando a causa na parte dispositiva, desde que reconheça:
+ ..
+Parágrafo único. Na sentença absolutória, o juiz:
+ ..
+II - ordenará a cessação das medidas cautelares e provisoriamente aplicadas;"
+Igualmente, na Lei n. 9.613/98, alterada pela Lei n. 12.683/12, consta o seguinte (grifo nosso):
+"Art. 4º-A. A alienação antecipada para preservação de valor de bens sob constrição será decretada pelo juiz, de ofício, a requerimento do Ministério Público ou por solicitação da parte interessada, mediante petição autônoma, que será autuada em apartado e cujos autos terão tramitação em separado em relação ao processo principal.
+ ..
+§ 5o Mediante ordem da autoridade judicial, o valor do depósito, após o trânsito em julgado da sentença proferida na ação penal, será: (Incluído pela Lei nº 12.683, de 2012)
+I - em caso de sentença condenatória, nos processos de competência da Justiça Federal e da Justiça do Distrito Federal, incorporado definitivamente ao patrimônio da União, e, nos processos de competência da Justiça Estadual, incorporado ao patrimônio do Estado respectivo; (Incluído pela Lei nº 12.683, de 2012)
+II - em caso de sentença absolutória extintiva de punibilidade, colocado à disposição do réu pela instituição financeira, acrescido da remuneração da conta judicial."
+Todavia, a jurisprudência desta Corte se firmou no sentido de ser requisito para liberação de bens e valores apreendidos a comprovação da propriedade e origem lícita da aquisição do bem, ainda que diante de absolvição.
+No mesmo sentido, precedentes que remetem ao suposto uso de recursos provenientes do furto do Banco Central em Fortaleza:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL DO BACEN. FURTO MILIONÁRIO CONTRA O BANCO CENTRAL. RESTITUIÇÃO DE VALORES. DEVIDA TUTELA JURISDICIONAL. RESTITUIÇÃO DE BENS OU DE VALORES. AUSÊNCIA DE DÚVIDA SOBRE PROPRIEDADE E ORIGEM LÍCITAS. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM ENTENDIMENTO DESTA CORTE SUPERIOR.
+I - Segundo entendimento firmado pela Corte Especial deste Tribunal, a falha induzida por informação equivocada contida no sistema eletrônico da Corte deve ser considerada para exame de tempestividade do recurso, em homenagem aos princípios da boa-fé e da confiança.
+II - O Código de Processo Penal, Decreto-Lei n. 3869/1941, prevê em seu art. 268 a possibilidade do ofendido atuar como assistente na ação penal pública: "Em todos os termos da ação pública, poderá intervir, como assistente do Ministério Público, o ofendido ou seu representante legal, ou, na falta, qualquer das pessoas mencionadas no Art. 31".
+III - As alterações do Código de Processo Penal, especialmente as suas modificações mais recentes decorrentes das Leis n. 11.689/2009, 11.690/2008, 12.403/2011 e 13.964/2019, expressaram a crescente intenção do legislador de confiar papel relevante ao ofendido seja na fase inquisitorial, seja na fase acusatória da persecução penal ou mesmo em fases recursais (art. 271 do CPP). Nesse aspecto, a atuação do Bacen, vítima do furto milionário, encontra amparo no ordenamento jurídico brasileiro na tutela dos seus interesses de reparação de danos.
+IV - O Tribunal Regional concluiu pela ausência de certeza absoluta sobre a propriedade e origem lícitas, acórdão que confronta o entendimento pacífico desta Corte Superior no sentido de que a restituição das coisas apreendidas, mesmo após o trânsito em julgado da ação penal, está condicionada tanto à ausência de dúvida de que o requerente é seu legítimo proprietário, quanto à licitude de sua origem e à demonstração de que não foi usado como instrumento do crime.
+V - A restituição de bens sabidamente oriundos do furto do BACEN ao recorrido espelha a inversão do propósito do ordenamento jurídico: a moralidade, a paz, a harmonia e a regulação do convívio humano e, sob o aspecto processual, implica violação à lei federal.
+Agravo regimental desprovido.
+(AgRg no REsp n. 2.031.614/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. PLEITO DE LEVANTAMENTO DE BENS SUPOSTAMENTE PROVENIENTES DE RECURSOS ADVINDOS DO FURTO COMETIDO CONTRA O BANCO CENTRAL DO BRASIL EM FORTALEZA/CE. LEVANTAMENTO CONDICIONADO À INEXISTÊNCIA DE DÚVIDA ACERCA DA PROPRIEDADE E DA ORIGEM LÍCITA DOS BENS. PRECEDENTES. DÚVIDA ADMITIDA PELA CORTE DE ORIGEM. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça firmou-se no sentido de que " a  a restituição de coisas apreendidas condiciona-se à ausência de dúvida acerca da propriedade do bem e à licitude de sua origem, nos termos dos arts. 120 e 121 do CPP, c/c 91, II, do CP.  .. " (AgRg no AREsp 1.659.758/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/11/2020, DJe 20/11/2020; sem grifos no original).
+2. No caso, não obstante admitir a ausência de certeza quanto à origem lícita e a propriedade dos bens apreendidos, o Tribunal a quo acabou por autorizar o levantamento deles, em evidente violação aos arts. 120 e 121 do Código de Processo Penal, devendo, assim, ser restabelecida a decisão de indeferimento do pedido de levantamento dos bens.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.832.276/PE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022.)
+Sendo assim, considerando que o TRF5 determinou a restituição exclusivamente com base na prolação da sentença absolutória, sem se preocupar com a demonstração da propriedade do bem e da licitude da origem, deve ser restabelecido o indeferimento, conforme abaixo.
+O sentenciante negou o pedido restituição nos seguintes termos (grifos nossos):
+"4. Inicialmente, vale dizer que o imóvel objeto deste incidente foi sequestrado por determinação deste Juízo nos autos do processo nº 007384-07.2008.05.8100, em face de Raimundo Alves Silva haver "lavado" dinheiro para Antônio Artenho da Cruz, vulgo "Bode", na compra de bens móveis e imóveis, além de realização de empréstimos para terceiros. Antônio Artenio foi denunciado nos autos da ação penal nº 0001019-68.2007.4.05.8100, tendo sido condenado pelos crimes de quadrilha ou bando, "lavagem de dinheiro" e furto qualificado, por sua participação no furto ao Banco Central.
+5. No que concerne especificamente à possível participação de RAIMUNDO ALVES DA SILVA nos fatos delitivos em alusão, a sentença condenatória entendeu que sua participação na organização criminosa envolvia a lavagem do dinheiro objeto do crime de furto do Banco Central, fundamentada na "Ficha Individual" elaborada pela autoridade policial (fls. 92/165), no Relatório Policial constante nas fls. 290/323 do processo n.º 7304-43.2008.4.05.8100, bem como nas transcrições dos áudios referentes às interceptações telefônicas procedidas pela Polícia Federal, com autorização judicial.
+6. Embora para este juízo tenha restado patente a estreita relação do requerente com participantes diretos da quadrilha que furtou a dita autarquia federal, especialmente com ANTÔNIO ARTENHO DA CRUZ, vulgo "BODE", a quem auxiliava na lavagem da cota-parte objeto do mencionado crime, bem como na sua ocultação da Polícia e da Justiça, o Tribunal Regional Federal da 5" Região entendeu não estar caracterizado o crime de lavagem de dinheiro nas condutas realizadas pelos réus, consoante parte da fundamentação abaixo transcrita:
+"o fato é que própria condenação não se sustenta, porque nenhuma das condutas que os réus adotaram caracteriza (quer semântica, quer juridicamente) gesto de ocultação e/ou de dissimulação da "res furtiva", mas mera usufruição (expressão, aliás, também utilizada na sentença, cf. fls. 2306).
+Tal conclusão vale para (i) a compra de imóveis, de automóveis (carro e motocicletas) e de gado;
+(ii) para a aquisição de CDs e DVDs; (iii) para mútuos celebrados com terceiros; e, igualmente, (iv) para as transferências feitas entre contas bancárias oficiais, gestos que a sentença considerou como lavagem, mas que, de tão ostensivos, com ela jamais poderiam ou podem ser confundidos".
+7. Ocorre que, em Embargos de Declaração, o Tribunal Regional Federal da 5" Região admitiu não ser possível manter-se o perdimento decretado mesmo sendo a propriedade dos bens ilícita.
+8. Todavia, deve-se levar em conta que, mesmo se tratando de bem registrado em nome do requerente, este não logrou êxito em comprovar a licitude dos valores usados para a compra lícita do imóvel.
+9. Veja-se que o negócio jurídico se deu em 20/12/2007, tendo sido usado para seu pagamento uma carta de crédito de um consórcio no valor de R$ 80.000,00 e o produto da venda de um automóvel efetivada em 22/01/2008, data extemporânea à compra. Entretanto, ainda assim, a soma das quantias (R$ 80.000,00 e R$ 59.000,00, respectivamente) não perfaz o total da venda (R$ 155.000,00).
+10. Assim, conforme se depreende dos inúmeros elementos de prova colacionados na ação penal, esse imóvel pertence, na verdade, a ANTÔNIO ARTENHO DA CRUZ, vulgo "BODE", que foi julgado e condenado, na Ação Penal processo nº 0001019-68.2007.4.05.8100, ali havendo sido decretada a perda, em favor do Banco Central, de todos os bens arrecadados, apreendidos, sequestrados ou colocados em indisponibilidade que não tiveram tais medidas revogadas.
+11. Registre-se que esse bem, de origem sabidamente e reconhecidamente ilícita, adquirido com parte do dinheiro que coube a ANTÔNIO ARTENHO DA CRUZ no furto perpetrado em desfavor do BACEN  sendo proveito desse crime, portanto  , não pode ingressar na esfera patrimonial do ora postulante.
+Admitir o contrário fere o princípio da razoabilidade. Caso se autorizasse a entrega dos valores resultantes das alienações desses bens, estaria o Judiciário garantindo o indevido locupletamento dos requerentes.
+12. Certo é que, não obstante a ausência de condenação, pode dar-se o perdimento de bem (ACR processo 2006.71.14.003863-8/RS, TRF da 4" Região, Sétima Turma, Rel. Des. Federal Tadaaqui Hirose, j. em 24/04/2007).
+13. Em face do exposto, e acolhendo os argumentos trazidos pelo douto órgão ministerial e pelo BACEN, indefiro o pedido formulado por RAIMUNDO ALVES SILVA " (fls. 492/493).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
