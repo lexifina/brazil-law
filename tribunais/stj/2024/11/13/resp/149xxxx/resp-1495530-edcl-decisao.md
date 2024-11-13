@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, embargos de declaração opostos por MIGUEL HÉLIO DE CARVALHO, em face de decisão que deu provimento ao recurso especial do INSS, para reconhecer a decadência e extinguir o feito com resolução de mérito.
+Argumenta que, "tendo o recorrente, atual embargante, requerido em 20/06/2007 a revisão do ato concessório de sua aposentadoria (pleito este anexado aos autos e não impugnado pela parte contrária), resta evidente que não seria o caso de se aplicar a decadência, pois não havia transcorrido o prazo de dez anos entre a data acima mencionada e a data da entrada em vigor da Medida Provisória nº 1.523-9 de 27/06/1997" (fl. 302).
+Acrescenta que a Primeira Turma do TRF da 5ª Região, ao dar provimento aos embargos de declaração opostos anteriormente pelo embargante, assim decidiu:
+4. Contudo, houve omissão quanto à existência de prova nos autos de que o segurado, em 22.6.2007 (fl. 18 - verso do aviso de recebimento), buscou, junho ao INSS, revisão idêntica a ora pleiteada, não havendo que se falar em decadência para o caso.
+5. Posto isto, dou provimento aos embargos de declaração para afastar decadência do direito à revisão uma vez que este foi exercido antes do termo final, 1.8.2007, mantendo-se, ainda por fundamento diverso, integralmente o acórdão de 24.3.2011 que negou provimento à apelação do INSS e deu provimento à do particular (fl. 302).
+Requer, ao final, o acolhimento do recurso.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação (fl. 294).
+É o relatório.
+Passo a decidir.
+Conforme se depreende do art. 1.022 do CPC, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para eliminar obscuridade, contradição, erro material e/ou suprimir omissão.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata os alegados vícios de contradição ou omissão, vez que o decisum restou suficientemente fundamentado, no sentido de que, incide o prazo decadencial do art. 103 da Lei 8.213/91, instituído pela Medida Provisória 1.523- 9/97, convertida na Lei 9.528/97, no direito de revisão dos benefícios concedidos ou indeferidos anteriormente a esse preceito normativo, com termo a quo a contar da sua vigência (28.6.1997) (REsp n. 1.326.114/SC, relator Ministro Herman Benjamin, Primeira Seção, julgado em 28/11/2012, DJe de 13/5/2013) (fls. 295-296).
+Convém esclarecer que, segundo a jurisprudência desta Corte, a decadência legal não está sujeita à renúncia, suspensão ou interrupção do prazo, devendo-se aplicar o entendimento firmado pela Primeira Seção do STJ, no julgamento dos Recursos Especiais repetitivos n. 1.309.529/PR e 1.326.114/SC (AgInt nos EDcl no REsp n. 1.724.808/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 3/8/2021).
+Assim, não há vício formal no decisum, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Isso posto, rejeito os embargos de declaração.
+EMENTA
