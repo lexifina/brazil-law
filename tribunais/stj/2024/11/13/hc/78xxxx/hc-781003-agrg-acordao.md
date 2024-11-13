@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2024 a 13/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 240,8 G DE COCAÍNA, 7.094 G DE MACONHA E 157 COMPRIMIDOS DE ECSTASY, COM PESO DE 52,81 G. ALEGAÇÃO DE NULIDADE NAS BUSCAS REALIZADAS. FUNDADA SUSPEITA E JUSTA CAUSA PARA A ABORDAGEM POLICIAL. INFORMAÇÕES ESPECÍFICAS COM ENDEREÇO E NOME DO ACUSADO. AUSÊNCIA DE ILEGALIDADE.
+1. As circunstâncias que antecederam a abordagem pessoal e domiciliar foram precedidas de informações específicas sobre o local e quem seria a pessoa, de modo a excepcionar a garantia constitucional.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental em habeas corpus interposto por Lucas Henrique Lopes Paiva contra decisão de minha relatoria que denegou a ordem de habeas corpus. A decisão recebeu ementa no seguinte teor (fl. 172):
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. ORDEM QUE, SE EVENTUALMENTE CONCEDIDA, INTERFERIRÁ DIRETAMENTE NO STATUS LIBERTATIS DO PACIENTE. TRÁFICO DE DROGAS. 240,8 G DE COCAÍNA, 7.094 G DE MACONHA E 157 COMPRIMIDOS DE ECSTASY, COM PESO DE 52,81 G. ALEGAÇÃO DE NULIDADE DAS PROVAS POR ILEGALIDADE NAS BUSCAS REALIZADAS. FUNDADA SUSPEITA E JUSTA CAUSA PARA A ABORDAGEM POLICIAL, EM RAZÃO DE INFORMAÇÕES ESPECÍFICAS COM ENDEREÇO E NOME DO ACUSADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+Alega o agravante que há nulidade na busca e apreensão realizada, uma vez que traz constrangimento ilegal ao paciente a mera denúncia anônima, desacompanhada de investigação prévia ou qualquer elemento que a justifique.
+Sustenta ser ilegal a entrada dos policiais na residência, pois inexistente qualquer prova de que estaria existindo prática criminosa na residência. Aduz que não houve justificativa para a abordagem de Lucas, e que não foi mencionado qual teria sido a atitude suspeita praticada pelo paciente.
+Requer, diante disso, a reconsideração da decisão, ou o provimento do recurso.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 240,8 G DE COCAÍNA, 7.094 G DE MACONHA E 157 COMPRIMIDOS DE ECSTASY, COM PESO DE 52,81 G. ALEGAÇÃO DE NULIDADE NAS BUSCAS REALIZADAS. FUNDADA SUSPEITA E JUSTA CAUSA PARA A ABORDAGEM POLICIAL. INFORMAÇÕES ESPECÍFICAS COM ENDEREÇO E NOME DO ACUSADO. AUSÊNCIA DE ILEGALIDADE.
+1. As circunstâncias que antecederam a abordagem pessoal e domiciliar foram precedidas de informações específicas sobre o local e quem seria a pessoa, de modo a excepcionar a garantia constitucional.
+2. Agravo regimental improvido.
+VOTO
+A decisão deve ser mantida, pois ausente constrangimento ilegal ao paciente. O presente writ é substitutivo de recurso próprio e, como mencionado na decisão, ausente flagrante ilegalidade para que fosse superado o óbice apontado, quando da análise do mérito.
+A busca realizada pelos policiais foi com base em específicas informações que foram recebidas, em relação ao local em que estaria ocorrendo a comercialização das drogas, Rua Vicente Furlani, n. 203, Bairro Jardim Santo Antônio, e o nome do réu. Confira-se a denúncia (fls. 61/62):
+ ..
+Consta dos inclusos autos de inquérito policial que, no dia 24 de outubro de 2020, por volta de 20h30min, na Rua Vicente Furlani, nº 203, Bairro Jardim Santo Antônio, nesta cidade e comarca de Taquaritinga, LUCAS HENRIQUE LOPES PAIVA, qualificado a fls. 06, trazia consigo e guardava, para fins de tráfico, 01 frasco plástico contendo 240,8 gramas de cocaína; 07 tijolos de maconha, com peso líquido de 7.094 gramas; e 157 comprimidos de "Ecstasy", com peso líquido de 52,81 gramas, o que fazia sem autorização e em desacordo com determinação legal ou regulamentar, conforme la udos toxicológicos a fls. 134/136, 158/160 e 166/168.
+Segundo o apurado, policiais militares receberam informações sobre a prática de tráfico de drogas no local acima indicado, por uma pessoa chamada "Lucas". Ao chegarem, depararam-se com o denunciado e o abordaram, submetendo-o a busca pessoal. Na sua posse, os policiais encontraram 04 comprimidos de "ecstasy".
+Indagado sobre os fatos, LUCAS admitiu informalmente aos policiais que estava vendendo tais substâncias e que em sua residência havia mais drogas.
+Prosseguindo com as diligências, os policiais foram até a casa de LUCAS e, no quarto dele, foram encontradas as drogas acima descritas.
+Além da enorme quantidade de drogas, os policiais apreenderam R$ 10.109,29 em dinheiro; um caderno com anotações referentes ao tráfico (laudo a fls. 127/133); 181 micro tubos vazios (laudo a fls. 144/146); um rolo de papel filme (laudo a fls. 137/143); uma faca e um estilete com resquícios de maconha; uma balança de precisão digital; uma caixa contendo saquinhos plásticos tipo "zip lock"; e dois rolos de fita adesiva (laudo a fls. 147/156).
+Também foram localizados três sacos contendo um pó branco, posteriormente identificado como cafeína, lidocaína e tetracaína, substâncias utilizadas para aumentar o volume das drogas vendidas e a margem de lucro dos traficantes (laudo a fls. 163/165).
+ ..
+No caso, as circunstâncias que antecederam a abordagem pessoal e domiciliar foram precedidas de informações específicas sobre o local e quem seria a pessoa, de modo a excepcionar a garantia constitucional. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ILICITUDE DE PROVAS OBTIDAS MEDIANTE VIOLAÇÃO DE DOMICÍLIO. INOCORRÊNCIA. INDÍCIOS PRÉVIOS DA PRÁTICA DO DELITO. SITUAÇÃO FLAGRANCIAL. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. CIRCUNSTÂNCIAS DO DELITO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. RECURSO DESPROVIDO.
+1. Esta Corte Superior possui o entendimento de que as hipóteses de validação da violação domiciliar devem ser restritivamente interpretadas, mostrando-se necessário para legitimar o ingresso de agentes estatais em domicílios, a demonstração, de modo inequívoco, do consentimento livre do morador ou de que havia fundadas suspeitas da ocorrência do delito no interior do imóvel.
+2. Na hipótese, as instâncias ordinárias ressaltaram que a diligência estava justificada, pois os policiais militares receberam informações de que em determinado endereço, dentro de um imóvel com características específicas, havia diversos indivíduos embalando drogas. Quando chegaram ao local, como o portão estava entreaberto, verificaram uma movimentação suspeita e, ao ingressarem na residência, encontraram mais de 800g de cocaína, fracionado em porções individuais prontas para a venda.
+3. Deste modo, neste momento processual e com as informações até então presentes nos autos, não se verifica de plano a ausência de justa causa para o ingresso no domicílio, em razão de indícios prévios e situação de flagrante criminal. De se destacar que o feito encontra-se em sua fase instrutória, devendo a tese de violação de domicílio no momento da prisão em flagrante ser analisada durante a instrução processual em juízo, em cognição plena.
+(AgRg no HC 854089 / SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 08/05/2024 - grifo nosso).
+Para desconstituir a convicção do Tribunal local de que os policiais tenham feito a busca pessoal e residencial de modo diverso, imprescindível seria o revolvimento fático- probatório dos autos, providência inviável de se promover no rito célere e estreito do habeas corpus ou do recurso que lhe faz as vezes.
+Com efeito, as circunstâncias fáticas que antecederam a abordagem policial deram subsídios aos agentes quanto à ocorrência de crime permanente (AgRg no HC n. 893.393/ES, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/4/2024).
+Diante disso, a decisão deve ser mantida, pois não há constrangimento ilegal para o paciente.
+Ante o exposto, nego provimento ao agravo regimental.
