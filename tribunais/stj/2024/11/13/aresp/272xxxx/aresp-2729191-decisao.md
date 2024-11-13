@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto por Cristiano Caldeira Araújo contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que a agravada ajuizou ação de cobrança, julgada procedente.
+Interposta apelação pelo ora insurgente, a Décima Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais negou provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 323):
+APELAÇÃO CÍVEL - DIREITO PROCESSUAL CIVIL - JULGAMENTO ANTECIPADO DA LIDE - PROVA TESTEMUNHAL NÃO REQUERIDA - FALTA DE INTERESSE - CERCEAMENTO DE DEFESA - NÃO CONFIGURAÇÃO - ILEGITIMIDADE PASSIVA - INOCORRÊNCIA - AÇÃO DE COBRANÇA - VENDA DE IMÓVEL - SERVIÇO DE CORRETAGEM PRESTADO - CLÁUSULA DE EXCLUSIVIDADE - COMPRA DIRETA - PAGAMENTO DEVIDO.
+1- Incumbe ao juiz verificar a necessidade ou não da produção de determinadas provas, por ser o destinatário delas, podendo afastar aquelas desnecessárias à averiguação dos fatos controvertidos.
+2- Confundindo-se com o mérito a preliminar de ilegitimidade passiva, como tal deve ser ela analisada.
+3. Tendo o comprador de imóvel se comprometido por contrato com a corretora de imóveis a remunerar esta por imóvel que lhe fosse apresentado e comprado, tem o comprador a obrigação de pagar a corretagem convencionada, debalde tratar-se de despesas da tradição, que usualmente atribui-se ao vendedor, nos termos da parte final do art. 490 do Código Civil.
+4- Não cabe alegação de inexistência de resultados dos serviços da imobiliária, posto que o imóvel foi efetivamente adquirido pelo réu, conforme consta em escritura pública.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, o recorrente alegou, além da existência de divergência jurisprudencial, violação dos arts. 505, I, do Código de Processo Civil de 2015; 722 e seguintes do Código Civil.
+Sustentou a ocorrência de preclusão pro judicato, haja vista que a instrução processual foi interrompida abruptamente, a despeito de a prova testemunhal requerida por ambas as partes já ter sido deferida.
+Asseverou que a responsabilidade pelo pagamento da comissão de corretagem, conforme entendimento jurisprudencial, só pode ser imputada ao comprador se prevista contratualmente.
+Contrarrazões às fls. 415-421 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Contraminuta às fls. 742-746 (e-STJ).
+Brevemente relatado, decido.
+No tocante à ocorrência de preclusão pro judicato, constata-se que o dispositivo não foi objeto de debate pelas instâncias ordinárias, estando ausente, portanto, o requisito do prequestionamento, atraindo a incidência da Súmula 211/STJ.
+Importante assinalar, ainda, que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscite a violação ao art. 1.022 do mesmo Diploma, pois somente dessa forma é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE INTERDITO PROIBITÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REEXAME FÁTICO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. JULGAMENTO ULTRA PETITA. NÃO OCORRÊNCIA. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA DECISÃO AGRAVADA. CABIMENTO.
+1. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula 211 desta Corte.
+2. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe 10.4.2017).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. "Consoante a jurisprudência do STJ, não configura julgamento ultra petita ou extra petita, com violação ao princípio da congruência ou da adstrição, o provimento jurisdicional proferido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial" (AgInt no REsp 1748942/CE, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 24/5/2021).
+5. "É pacífico nesta Corte Superior de Justiça que a majoração dos honorários é cabível ainda que o recorrido não tenha apresentado contrarrazões, pois se trata de medida que visa a desestimular a interposição de recursos pela parte vencida" (AgInt nos EDcl no RE no AgInt no AREsp 1626251/SP, Relator Ministro Jorge Mussi, Corte Especial, DJe 7/12/2020).
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.904.155/AP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+Outrossim, mesmo as questões de ordem pública, em regra conhecíveis de ofício pelo Juiz, não dispensam o requisito do prequestionamento para serem debatidas no âmbito do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. PEQUENA PROPRIEDADE RURAL. PENHORABILIDADE. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO EXIGÍVEL. AUSÊNCIA. SÚMULA 211/STJ. COPROPRIEDADE. ALIENAÇÃO DA INTEGRALIDADE DE IMÓVEL INDIVISÍVEL. POSSIBILIDADE. RESGUARDO DA FRAÇÃO IDEAL DO TERCEIRO. ART. 843 DO CPC. PRECEDENTE. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA.
+1. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+2. O Código de Processo Civil de 2015, ao tratar da penhora e alienação judicial de bem indivisível, ampliou o regime anteriormente previsto no CPC/1973, autorizando a alienação judicial do bem indivisível em sua integralidade, em qualquer hipótese de copropriedade, resguardando os direitos do condômino no produto da alienação. Precedentes.
+3. Conforme a jurisprudência do Superior Tribunal de Justiça, é inviável o conhecimento da matéria que foi suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a configuração da preclusão consumativa.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 1.921.288/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/3/2023, DJe de 23/3/2023.)
+Quanto à responsabilidade do recorrente pelo pagamento de honorários de corretagem, o Tribunal estadual ao concluir pela sua incidência, assim se manifestou (e-STJ, fl. 328):
+Cinge-se a controvérsia recursal em determinar se o réu, ora apelante, tem a obrigação de pagar comissão de corretagem em favor da imobiliária autora, ora apelada, devido à compra de imóvel apresentado inicialmente pela autora, e posteriormente adquirido pelo réu diretamente de seu proprietário.
+A autora/apelada juntou ao processo termo assinado pelo réu/apelante, no qual este se comprometeu a pagar-lhe 6% do valor da negociação dos imóveis por ela apresentados, caso eles fossem adquiridos por vias transversas (ordens nº 5 e 6).
+Juntou e-mail do réu apresentando oferta ao imóvel adquirido pelo recorrente, que lhe fora apresentado pela recorrida (ordem nº 7), escritura do imóvel negociado (ordem nº 8) e notificação extrajudicial de cobrança (ordem nº 9).
+Em sua defesa, o réu alega ser dever do vendedor, antigo proprietário do imóvel, o pagamento reclamado, de acordo com o art. 727 do Código Civil.
+Por força do art. 490, parte final, do Código Civil, em regra, no contrato de compra e venda as despesas da tradição (dentre elas os honorários do corretor imobiliário) ficam a cargo do vendedor. Todavia, havendo convenção prévia entre o comprador e o corretor, na qual aquele se compromete a remunerar este por imóvel apresentado pelo corretor e adquirido pelo comprador, esta convenção é válida e obriga o comprador a remunerar o corretor segundo o que fora contratado.
+Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que se mostra impossível ante a natureza excepcional da via eleita, conforme enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Just iça.
+Ademais, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Confira-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. VEICULAÇÃO DE MATÉRIA JORNALÍSTICA INVERÍDICA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. ILEGITIMIDADE PASSIVA AD CAUSAM E EXISTÊNCIA DE DANO MORAL INDENIZÁVEL. PRETENSÃO DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. MINORAÇÃO DO QUANTUM INDENIZATÓRIO. PROPORCIONALIDADE E RAZOABILIDADE DO VALOR FIXADO. REEXAME. INVIABILIDADE.
+1. Inexistente a alegada ofensa a art. 1.022 do CPC, uma vez que a lide foi solucionada em conformidade com o que foi apresentado em juízo. O acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+2. Afastar as conclusões do acórdão no tocante à legitimidade passiva da agravante e à presença dos requisitos ensejadores da responsabilidade civil demandaria, necessariamente, reexame do acervo fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ, e impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. O Tribunal de origem manteve o valor da compensação pelos danos morais em R$ 30.000,00 (trinta mil reais), levando em consideração as peculiaridades fáticas do caso, sobretudo a gravidade da conduta e a extensão do dano.
+4. Alterar o valor estabelecido pelas instâncias ordinárias, a título de compensação por danos morais, só é possível quando o referido montante tiver sido fixado em patamar irrisório ou excessivo, o que não ocorreu no caso dos autos. Incidência da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.222.061/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre a base de cálculo fixada na origem.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OCORRÊNCIA DE PRECLUSÃO PRO JUDICATO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. OFENSA AO ART. 1.022 DO CPC/2015 NÃO SUSCITADA. INVIABILIDADE DE PREQUESTIONAMENTO FICTO. RESPONSABILIDADE PELO PAGAMENTO DA COMISSÃO DE CORRETAGEM. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS E ANÁLISE E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
