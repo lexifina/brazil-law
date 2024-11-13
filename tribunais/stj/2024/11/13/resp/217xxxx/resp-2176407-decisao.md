@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se recurso especial interposto por INSTITUTO NACIONAL DOS INVESTIDORES EM CADERNETA DE POUPANÇA E PREVIDÊNCIA - INCPP, com fundamento, exclusivamente, na alínea "a" do permissivo constitucional, contra acórdão do TJDFT.
+Recurso especial interposto em: 9/9/2024.
+Concluso ao gabinete em: 18/10/2024.
+Ação: civil pública, ajuizada pelo INSTITUTO BRASILEIRO DE DEFESA DO CONSUMIDOR - IDEC em face do BANCO DO BRASIL S/A, julgada procedente para condenar a instituição financeira a pagar as diferenças de percentual dos rendimentos da caderneta de poupança, atualmente na fase de cumprimento individual da sentença coletiva, requerida pelo INSTITUTO NACIONAL DOS INVESTIDORES EM CADERNETA DE POUPANÇA E PREVIDÊNCIA - INCPP.
+Sentença: extinguiu o processo, sem resolução do mérito, por ausência de legitimidade ativa "ad causam".
+Acórdão: negou provimento ao recurso de apelação interposto pelo recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. CIVIL E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. "EXPURGOS INFLACIONÁRIOS". DIREITOS INDIVIDUAIS HOMOGÊNEOS. LEGITIMIDADE ATIVA. RECURSO CONHECIDO E DESPROVIDO.
+1. Na presente hipótese a questão submetida ao conhecimento deste Egrégio Tribunal de Justiça consiste em examinar a legitimidade ativa do apelante para formular requerimento de cumprimento individual de sentença coletiva.
+2. A instauração da fase de cumprimento de sentença requerida se refere à sentença que reconheceu a obrigação de pagamento, pela sociedade anônima Banco do Brasil S/A, do montante alusivo às diferenças decorrentes da atualização monetária (correção monetária e juros remuneratórios) relativo aos saldos das contas de poupança correspondente ao período de janeiro de 1989 em razão da edição do denominado plano "Verão".
+3. Na fase de cumprimento de sentença relativa às pretensões fundadas em interesses individuais homogêneos a legitimação ordinária é da própria pessoa interessada.
+4. Recurso conhecido e desprovido.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: aponta violação aos arts. 18 e 1.022 do CPC.
+Além da negativa de prestação jurisdicional, sustenta ser parte legitima, porquanto "representa os poupadores que lhe são filiados, de modo a facilitar a defesa dos direitos desses consumidores em juízo, por meio do ajuizamento de ação de liquidação e cumprimento individual de sentença coletiva, onde se visa a satisfação individual dos créditos de cada um dos poupadores indicados na peça inicial" (e-STJ fl. 1048).
+Afirma que "ingressou em juízo em virtude da violação do direito de um consumidor, seu associado, que não recebeu a exata correção em sua caderneta de poupança, atividade esta que faz parte do fim institucional do INCPP" (e-STJ fl. 1049).
+Aduz, ainda, que "age em razão de autorização específica conferida pelos seus associados através de procuração e termo associativo, onde os poupadores autorizam expressamente o Instituto a representá-los judicialmente, propondo ação em face da Instituição financeira apelada para receber os valores em decorrência do título executivo judicial que instrui a ação em tela" (e-STJ fls. 1050/1051).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe de 2/2/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe de 2/3/2018).
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC residem na alegação de que o Tribunal de origem, apesar de provocado por meio dos embargos declaratórios opostos, não se manifestou acerca da sua legitimidade ativa, em razão da existência de autorização expressa conferida pelos poupadores substituídos ao Instituto para representá-los em juízo.
+Da análise do processo, constata-se que, de fato, o Tribunal de origem não analisou essa alegação, em que pese tenha sido devidamente suscitada nas razões do recurso de apelação e nos embargos de declaração opostos pela parte recorrente.
+Não se pode olvidar, nesse contexto, que o conhecimento do recurso especial exige a manifestação do Tribunal local acerca da tese de direito suscitada, delineando de forma adequada os fatos que alicerçam a demanda, permitindo, desse modo, que esta Corte Superior aprecie a controvérsia sem esbarrar nos óbices das Súmulas 5 e 7 do STJ.
+Recusando-se a Corte de origem a se manifestar sobre a questão federal, fica obstaculizado o acesso à instância especial, cabendo à parte vencida invocar, como na hipótese dos autos, a infringência ao art. 1.022 do CPC, a fim de anular o acórdão recorrido, para que o Tribunal a quo supra os vícios existentes. Nesse sentido: REsp 769.831/SP, DJe 27.11.2009; e REsp 242.128/SP, DJ 18.09.2000.
+Importa consignar que as questões são relevantes para o futuro deslinde da controvérsia no âmbito do Superior Tribunal de Justiça, pois, caso a Corte estadual confirme a decisão outrora expendida, delineando o enquadramento fático da matéria, as questões apontadas integrarão o mérito propriamente dito do recurso especial, suscetível de apreciação por esta Corte Superior.
+Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que sejam sanadas as omissões acima referidas, tendo-se como prejudicado o exame das demais questões aventadas no presente recurso.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, a fim de determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela parte recorrente. Por conseguinte, fica prejudicado o exame das demais questões aventadas no presente recurso.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Ação civil pública, em fase de cumprimento individual de sentença, na qual se discute expurgos inflacionários.
+2. Há ofensa ao art. 1.022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+3. Recurso especial conhecido e parcialmente provido.
