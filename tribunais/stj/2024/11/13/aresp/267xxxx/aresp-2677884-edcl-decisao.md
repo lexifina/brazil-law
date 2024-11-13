@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MAURICIO DAL AGNOL à decisão monocrática desta relatoria proferida nos termos da seguinte ementa (e-STJ, fls. 1.013-1.020):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. JUROS DE MORA. CORREÇÃO MONETÁRIA. APLICAÇÃO DA TAXA SELIC. ALTERAÇÃO DOS CRITÉRIOS DEFINIDOS NO TÍTULO JUDICIAL. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 1.023-1.033), a parte embargante aduz haver omissão e contradição na decisão embargada, argumentando, em resumo, que não se observou a edição da Lei 14.905/2024, a qual estabeleceu que a taxa SELIC é o índice uno para fins de juros de mora e correção monetária nas condenações civis.
+Assevera que não há violação à coisa julgada e à norma do art. 406 do novo Código Civil, qua ndo o título judicial exequendo, exarado em momento anterior à Lei 14.905/2024, fixa os juros de mora em 1% ao mês e correção monetária pelo IGP-M e, na execução do julgado, determina-se a incidência de juros de mora de correção monetária exclusivamente com base na taxa SELIC.
+Defende a incidência da taxa SELIC para todo cálculo do cumprimento de sentença ou, ao menos, sua aplicação a partir da edição da mencionada lei.
+Sem impugnação.
+Brevemente relatado, decido.
+Com efeito, nos termos do art. 1.022 do CPC/2015, são cabíveis embargos de declaração para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. ART. 28 DO CDC. POSSIBILIDADE. PRECEDENTES. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Precedentes.
+3. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+4. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+5. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.825.577/RJ, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/8/2021, DJe 26/8/2021.)
+Efetivamente, o analisar as questões aduzidas no recurso especial, o julgado embargado foi claro ao consignar que entendimento adotado pela Corte estadual, no sentido de não ser possível, na fase de cumprimento de sentença, alterar os critérios estabelecidos no título exequendo, concernentes aos juros de mora e correção monetária, sob pena de ofensa à coisa julgada, está ajustado ao posicionamento da jurisprudência do Superior Tribunal de Justiça a respeito do tema, incidindo a Súmula 83/STJ no caso, conforme as seguintes justificativas (e-STJ, fls. 1.013-1.020):
+Quanto ao mais, da leitura dos trechos acima transcritos, verifica-se que o Tribunal estadual consignou haver previsão expressa no título executivo judicial acerca da incidência dos juros de mora de 1% ao mês e de incidência da correção monetária pelo IGP-M, concluindo, por conseguinte, pela impossibilidade de modificação dos referidos critérios apenas na fase de cumprimento de sentença, sob pena de ofensa à coisa julgada.
+Efetivamente, tal como decidido pela Corte estadual, a jurisprudência do STJ é firme no sentido de que é inadmissível, na fase de liquidação ou cumprimento de sentença, a alteração dos critérios estabelecidos, no título exequendo, para a fixação dos juros de mora, sob pena de ofensa à coisa julgada.
+A respeito do tema, a jurisprudência desta Corte Superior assevera que se sujeitam à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio.
+O entendimento deste Superior Tribunal firmou-se "no sentido de que tão somente o erro material pode ser corrigido a qualquer tempo, enquanto os erros sobre os critérios do cálculo, inclusive, no que concerne a juros moratórios e correção monetária sujeitam-se à preclusão" (AgInt no R Esp 1.958.481/RS, Relator Ministro Francisco Falcão, D Je 24/3/2022).
+(..)
+Ainda nesse contexto, cabe registrar que eventual modificação do índice de correção da dívida judicial, para efeito de adequação à inteligência do artigo 406 do Código Civil, só tem sido admitida por esta Corte Superior nas hipóteses em que omisso o título exequendo sobre o tema ou nos casos em que tal título tenha sido proferido em momento anterior à vigência do atual Código Civil, diferentemente do caso dos autos.
+(..)
+Dessa forma, verifica-se que o entendimento adotado pela Corte estadual está ajustado ao posicionamento da jurisprudência do Superior Tribunal de Justiça a respeito do tema, incidindo a Súmula 83/STJ no caso.
+Nessas circunstâncias, são inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC/2015, porque não há omissão ou contradição a ser desfeita no julgamento monocrático, mas apenas a pretensão de rejulgamento da causa em razão do inconformismo da parte com o resultado, o que torna inviável o acolhimento dos presentes embargos.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DESCRITOS NO ART. 1.022 DO CPC. PRETENSÃO DE REJULGAMENTO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
