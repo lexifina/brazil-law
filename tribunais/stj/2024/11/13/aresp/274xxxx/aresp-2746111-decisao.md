@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CHINA BRASIL TABACOS EXPORTADORA S.A à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. SENTENÇA QUE HOMOLOGOU ACORDO E EXTINGUIU A FASE EXECUTIVA, COM BASE NO ART. 478, III, B, DO CPC. CONCOMITANTE ORDEM DE SUSPENSÃO DO PROCESSO PARA CUMPRIMENTO DO ACORDO, QUE NÃO DESCARACTERIZA A NATUREZA SENTENCIAL DO PRONUNCIAMENTO JUDICIAL. RECURSO CABÍVEL. APELAÇÃO. INADEQUAÇÃO RECURSAL PELA VIA DO AGRAVO DE INSTRUMENTO. NÃO CONHECIMENTO. DECISÃO MONOCRÁTICA MANTIDA. NEGARAM PROVIMENTO AO AGRAVO INTERNO.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente sustenta violação e dissídio jurisprudencial atinente à interpretação do art. 922 do CPC, no que tange ao conhecimento do recurso de agravo de instrumento interposto na origem face à decisão interlocutória prolatada nos autos, porquanto, há suspensão, e não extinção, do feito em virtude de ajuste firmado entre as partes para pagamento voluntário de dívida em execução. Apresenta a seguinte argumentação:
+7. Excelências, ao deixar de conhecer o Agravo de Instrumento manejado em face de decisão proferida em sede de execução que suspendeu o feito, cujo conteúdo é claramente interlocutório e não coloca fim ao feito, o TJ/RS negou vigência à norma processual supra.
+8. A norma processual não é disponível. Uma decisão com nítido fito interlocutório - pois expressamente suspende o feito - não pode ser entendida como sentença e, por consectário, sujeita à impugnação por Agravo de Instrumento.
+9. Ora, o entendimento do TJ/RS acaba, ainda, por ferir o próprio art. 922 do CPC, na medida em que deixa de aplica-lo: considera todo e qualquer ajuste da dívida em execução um acordo extintivo do processo, esvaziando a norma processual que prevê a possiblidade de suspensão do feito para pagamento voluntário em prazo acertado entre as partes.
+10. Excelências, se a Lei deu às partes a possiblidade de suspender o feito, não pode o TJ/RS entender que ele configura sentença de extinção!
+ ..
+15. O raciocínio aqui visto é que a decisão recorrida entende que todo pronunciamento de ajuste entre as partes implica em sentença, olvidando na possibilidade de suspensão do feito por decisão interlocutória com base da previsão específica do processo executivo.
+ ..
+18. A concessão de prazo para pagamento voluntário prevista no art.
+922, uma vez acolhida e homologada, configura decisão interlocutória justamente por suspender - e não extinguir - o feito.
+19. Logo, deve ser questionada por Agravo de Instrumento, pelo que se requer o provimento do presente Recurso Especial para que seja reformada a decisão do TJ/RS e determinada a apreciação do mérito do recurso interposto (fls. 72-75).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+A sentença agravada é expressa ao homologar o acordo e julgar "extinto o feito, consoante disposto no art. 487, III, "b", do CPC.".
+Trata-se, a toda evidência, de sentença, definida nos termos do art. 203, I, do CPC, como o "pronunciamento por meio do qual o juiz, com fundamento nos arts. 485 e 487 , põe fim à fase cognitiva do procedimento comum, bem como extingue a execução.".
+A circunstância processual conduzida pela concomitante suspensão do processo não desnatura o pronunciamento judicial, de sentença para decisão interlocutória, pois eventual prosseguimento executivo não terá por base aquela causa de pedir inicial da execução sentenciada, mas o acordo homologado por essa sentença e eventualmente descumprido.
+De resto, sequer se pode vislumbrar concreto prejuízo à parte agravante, pois o acordo homologado (evento 38, ACORDO2) estabeleceu o pagamento da obrigação em cinco parcelas anuais, com a primeira vencendo em 30/04/2024, bem como o vencimento antecipado pelo inadimplemento de qualquer parcela.
+Ou seja, a parte agravante tem até 30/04/2028 para cobrar o acordo homologado, antes que a dita "quitação presumida" possa ter algum eventual efeito sobre a obrigação em questão (fl. 48, grifos meus).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Doutra banda, no que tange à alínea "c" do permissivo constitucional, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurispru dencial que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pela ausência de impugnação específica dos fundamentos do acórdão recorrido.
+Assim, quando remanesce incólume fundamento capaz por si só de manter o acórdão recorrido, impõe-se o reconhecimento da inexistência de identidade jurídica entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
