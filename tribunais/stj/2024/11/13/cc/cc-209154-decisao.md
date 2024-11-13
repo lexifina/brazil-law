@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o Juízo da 1ª Vara do Trabalho de Itacoatiara/AM (suscitante) e o Juízo de Direito da 3ª Vara de Itacoatiara/AM (suscitado), nos autos de ação ajuizada por Ivanda Maria Vercosa Farias contra a Confederação Nacional Dos Trabalhadores Rurais Agriculores e Agricultoras Familiares (CONTAG), com o objetivo de ver declarada a inexistência de vínculo contratual e, por via de consequência, repetição do indébito e reparação por danos, sob alegação de descontos sem prévia autorização no seu benefício previdenciário.
+O Juízo de Direito estadual declinou da sua competência, por entender que "as demandas que envolvam representação sindical, inclusive litígio entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores, passaram são de competência da Justiça do Trabalho" (e-STJ, fl. 376).
+O Juízo trabalhista também declarou sua incompetência, suscitando conflito, sob os seguintes fundamentos (e-STJ, fl. 562):
+(..) a competência material é fixada a partir do pedido e causa de pedir trazidos na petição inicial, e sendo a causa de pedir uma relação de trabalho, será da Justiça do Trabalho a competência para processar e julgar o feito, nos exatos e precisos termos do artigo 114 da Constituição Federal.
+No caso em apreço, pretendeu o reclamante a devolução de descontos indevidos realizados em seu benefício previdenciário, fundando-se a pretensão em verdadeira relação contratual e consumerista, sem qualquer fundamento em relação de trabalho. Além disso, a ação sequer apresenta pedidos típicos de uma relação de trabalho.
+Desse modo, considerando que a competência para se processar e julgar a ação se estabelece em razão de sua natureza jurídica, fundada na causa de pedir e no pedir, restou incontroversa a natureza eminentemente civil da controvérsia posta na ação objeto do conflito.
+O Ministério Público Federal apresentou parecer pelo "julgamento do feito, prescindindo-se de opinião meritória" (e-STJ, fl. 581).
+Brevemente relatado, decido.
+A controvérsia diz respeito à competência para exame e julgamento de ação decorrente de desconto em benefício previdenciário da parte autora, para contribuição em favor da requerida, sem a devida autorização.
+A petição inicial demonstra que os pedidos decorrem de supostos descontos em desconformidade com o Código Civil e Código de Defesa do Consumidor, inexistindo controvérsia sobre relação trabalhista (e-STJ, fls. 4-17).
+Considerando que a competência para o julgamento da demanda define-se pelo pedido e causa de pedir, impõe-se reconhecer a natureza eminentemente civil da controvérsia estabelecida no conflito, pois não se identifica debate sobre matéria trabalhista ou sindical, o que evidencia a competência da Justiça Comum para o processamento e julgamento da demanda
+Ante o exposto, conheço do conflito para declarar competente do Juízo de Direito da 3ª Vara de Itacoatiara/AM.
+Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. DANOS DECORRENTES DE DESCONTO INDEVIDO DE CONTRIBUIÇÃO ASSOCIATIVA EM BENEFÍCIO PREVIDENCIÁRIO. MATÉRIA EMINENTEMENTE CIVIL. COMPETÊNCIA DA JUSTIÇA COMUM. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITADO.
