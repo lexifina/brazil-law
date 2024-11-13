@@ -1,0 +1,69 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA PESSOA JURÍDICA. CRÉDITO FISCAL. CORREÇÃO MONETÁRIA. BÔNUS DO TESOURO NACIONAL FISCAL - BTNF. ATUALIZAÇÃO PELO ÍNDICE DE REAJUSTE DE VALORES FISCAIS - IRVF. LEI 8.088/1990. VALIDADE. JUROS. TAXA REFERENCIAL DIÁRIA - TRD. LIMITAÇÃO A 12% AO ANO. AUTOAPLICABILIDADE DO ARTIGO 192, § 3º, DA CONSTITUIÇÃO FEDERAL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. RECURSO AO STF. NÃO CABIMENTO. AGRAVO CONHECIDO EM PARTE E, NESSA PARTE, DESPROVIDO.
+
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado pela alínea “a” do permissivo constitucional contra acórdão assim ementado:
+
+    “PROCESSUAL CIVIL. TRIBUTÁRIO. REEXAME NECESSÁRIO. APELAÇÃO CÍVEL. DEMONSTRAÇÕES FINANCEIRAS. IRPJ. ANULATÓRIA DE DÉBITO FISCAL. ATUALIZAÇÃO MONETÁRIA. SENTENÇA MANTIDA.
+
+    - Não merece conhecimento o pedido de apreciação do agravo retido, apresentado em contrarrazões, dado que não consta dos autos tal peça processual.
+
+    - Pretende-se no presente feito a declaração de nulidade dos Termos de Constatação nº 1, nº 2, nº 3 e nº 6, com o consequente reflexo no P.A. nº 10880.029.710/92-81 (IRPJ) e desconstituição do débito fiscal relativo à imposição de multa no valor de R$ 2.365.851,75, bem como que, em referência ao IRVF e à TRD, sejam desconsiderados os juros moratórios utilizados, com a adoção do percentual de 1% ao mês. O pedido foi parcialmente acolhido.
+
+    - No caso concreto, foi deferido o pleito de realização de prova pericial apresentado pela autora, ora apelante, e o expert assinalou a necessidade de apresentação de documentos pelas partes para a sua efetivação. Constata-se, contudo, que não foi apresentada pela autora documentação suficiente a permitir o trabalho do perito no que toca aos TC nº 1 e TC nº 3, o que inviabilizou a prova. Nesse contexto, não há como se acolherem as alegações de nulidade dos Termos de Constatação nº 1 e nº 3 (RIR/80, arts. 193 e 227, art. 8º, § 4º, da Lei 6.404/76 e art. 21 da Lei nº 9.249/95), uma vez que, como acertadamente assinalado pelo Juízo a quo, não restou demonstrada a ocorrência de lançamentos indevidos, ônus que caberia ao autor, nos termos do artigo 333, inciso I, do CPC/1973.
+
+    - Saliente-se que, inobstante ao reconhecimento de que a presunção de legitimidade e veracidade de que goza o ato administrativo é relativa, o autor não se desincumbiu da obrigação de comprovar as alegadas irregularidades. A respeito, confira-se o escólio do jurista Hely Lopes Meirelles: Outra consequência de presunção de legitimidade é a transferência do ônus da prova de invalidade do ato administrativo para quem a invoca. (Direito Administrativo Brasileiro, 18ª ed., p. 141).
+
+    - De outra parte, afigura-se correta a determinação de que, no Termo de Constatação nº 6, sejam considerados como custos e despesas operacionais os valores apurados, visto que a perícia judicial concluiu que o montante apresentado nos comprovantes de pagamento superam o exigido pela UF, conforme respectivo laudo. No que se refere ao Termo de Constatação nº 2 deve ser afastada a cobrança da multa aplicada, uma vez que, como reconhecido e informado pela própria apelada em sua contestação, o Conselho de Contribuintes deu provimento ao recurso voluntário da apelante, o que enseja o afastamento da penalidade.
+
+    - Por outro lado, requer o autor em seu apelo o afastamento do IRVF (art. 1º da Lei n.º 8.088/90) e da TRD no caso. Não merece guarida tal pleito. A aplicação do primeiro encontra amparo na Lei nº 8.024/90, art. 22.
+
+    - Por sua vez, a incidência do segundo apoia-se no art. 9º da Lei nº 8.177/1991, na redação dada pela Lei nº 8.218/1991. Desse modo, inexiste a alegada ofensa aos arts. 150, inciso I, e art. 192, § 3º, da CF, e art. 161, § 1º, do CTN, motivo pelo qual é de ser mantida a sentença sob tais aspectos. Precedentes.
+
+    - Pleito de apreciação do agravo retido, apresentado em contrarrazões, não conhecido. Recurso de apelação do contribuinte e reexame necessário a que se nega provimento.”
+
+    Os embargos de declaração opostos foram desprovidos.
+
+    No apelo extremo, a parte recorrente tece preliminar de repercussão geral e, no mérito, aponta violação aos arts. 150, inc. I; e 192, § 3º, ambos da Constituição Federal. Sustenta a invalidade do Índice de Reajuste de Valores Fiscais (IRVF) como critério de correção monetária, bem como da aplicação da Taxa Referencial Diária (TRD) no cálculo dos juros de mora.
+
+    A parte recorrida apresentou contrarrazões ao recurso.
+
+    O Tribunal a quo negou seguimento ao recurso quanto ao Tema 98 de Repercussão Geral e o inadmitiu quanto ao ponto residual, ao dispor que o acórdão recorrido estaria em harmonia com a jurisprudência do STF.
+
+    É o relatório. DECIDO.
+
+    O agravo não merece prosperar.
+
+    Ab initio, ressalte-se que não cabe recurso dirigido ao Supremo Tribunal Federal contra decisões dos demais Tribunais e Turmas Recursais que aplicam a sistemática da repercussão geral. Nesse sentido:
+
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.” (AI 760.358-QO, Rel. Min. Gilmar Mendes, Plenário, DJe de 19/2/2010)
+
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DO TRIBUNAL A QUO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL (ART. 543-B DO CPC). DESCABIMENTO DO AGRAVO PREVISTO NO ART. 544 DO CPC. CABIMENTO DE AGRAVO REGIMENTAL (OU INTERNO) PARA A ORIGEM. IMPOSSIBILIDADE DE CONVERSÃO EM AGRAVO REGIMENTAL. ACÓRDÃO RECORRIDO PUBLICADO APÓS 19.11.2009. É pacífico o entendimento desta Corte de que, por não se cuidar de juízo negativo de admissibilidade de recurso extraordinário, não é cabível o agravo previsto no art. 544 do Código de Processo Civil, para atacar decisão de Presidente de Tribunal ou Turma Recursal de origem que aplique a sistemática da repercussão geral. A parte que queira impugnar decisão monocrática de Presidente de Tribunal ou de Turma Recursal de origem, proferida nos termos do art. 543-B do CPC, deve fazê-lo por meio de agravo regimental (ou interno). Inaplicável a conversão do presente recurso em agravo regimental a ser apreciado pela origem, já que a jurisprudência desta Corte já fixou entendimento de que após 19.11.2009, data em que julgado o AI 760.358-QO, a interposição do agravo previsto no art. 544 do CPC configura erro grosseiro. Agravo regimental a que se nega provimento.” (ARE 761.661-AgR, Rel. Min. Joaquim Barbosa, Plenário, DJe de 28/4/2014)
+
+    Destaque-se, a propósito, que, após o exame, pelo Supremo Tribunal Federal, da existência de repercussão geral da matéria versada no recurso extraordinário, compete às cortes de origem, consectariamente, a aplicação da decisão aos demais casos. Nesse sentido, ARE 823.651, Rel. Min. Gilmar Mendes, DJe de 16/9/2014; AI 846.808-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 10/11/2014; Rcl 11.940, Rel. Min. Ricardo Lewandowski, DJe de 14/2/2014; Rcl 12.395-AgR, Rel. Min. Dias Toffoli, Plenário, DJe de 6/11/2013; Rcl 15.080-AgR, Rel. Min. Celso de Mello, Plenário, DJe de 18/2/2014; e Rcl 16.915-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 13/3/2014, este último com a seguinte ementa:
+
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO.CONSTITUCIONAL. PROCESSUAL PENAL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO OU DE OUTRA AÇÃO JUDICIAL NO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+
+    Assim, não conheço do agravo no ponto relativo à alegada ofensa ao artigo 192, § 3º, da Constituição Federal, pois aplicada na origem a tese firmada por esta Corte no julgamento do Tema 98 de Repercussão Geral.
+
+    Quanto à validade da utilização do Índice de Reajuste de Valores Fiscais (IRVF) como critério de correção monetária de créditos fiscais, ex vi Lei 8.088/1990, emana que o acórdão a quo não destoa da jurisprudência desta Corte. Nesse sentido, confiram-se os seguintes julgados:
+
+    “TRIBUTÁRIO. DEMONSTRAÇÕES FINANCEIRAS RELATIVAS AO ANO-BASE DE 1990. ATUALIZAÇÃO MONETÁRIA PELO BTN FISCAL. ACÓRDÃO QUE CONCLUIU PELA CONFIGURAÇÃO, NO CASO, DE OFENSA AO PRINCÍPIO DA ANTERIORIDADE. PRINCÍPIO TIDO POR APLICADO DE FORMA EQUIVOCADA. Alegação procedente. Primeiro, porque, ao mandar corrigir as demonstrações financeiras pelo BTN fiscal desatrelado do IPI, a Lei nº 8.088/90, necessariamente, não determinou a majoração da base de cálculo do IR, efeito que somente se verificou relativamente às empresas com patrimônio líquido superior ao ativo permanente, não se tendo dado o mesmo com as que possuem ativo permanente superior ao capital próprio. Em segundo lugar, porque, ainda que assim não fosse, a eficácia da mencionada lei, para o fim de que se cogita, terá sido adiada para janeiro/91, ou seja, para exercício financeiro posterior ao em que foi ela aplicada, quando já nada impedia a exigência do IR incidente sobre o lucro apurado no balanço de 1990. Precedentes do STF. De registrar-se, por fim, que o Plenário do STF, no julgamento do RE 201.465, em que se arguiu a inconstitucionalidade do art. 3º e incisos da Lei nº 8.200/91, concluiu no sentido de que a autorização da dedução, na determinação do lucro real, da diferença verificada no ano de 1990 entre a variação do IPC e do BTN fiscal, justamente o de que se trata neste recurso, configurou um favor fiscal e não o reconhecimento de uma falha no sistema adotado pela Lei nº 8.088/90, razão pela qual teve por legítimo o parcelamento disciplinado no inciso I do referido art. 3º. Recurso conhecido e provido.”(RE 284.619, Primeira Turma, Rel. Min. Ilmar Galvão, DJ de 7/3/2003)
+
+    “RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. IMPOSTO DE RENDA. PESSOA JURÍDICA. BALANÇO. CORREÇÃO MONETÁRIA. LEI Nº 8.088/90. 1. Não cabe ao Poder Judiciário agir como legislador positivo para alterar índice de correção monetária definido em lei. A majoração de índice de correção, no decorrer de um ano fiscal, não representa ofensa aos princípios da anterioridade e da irretroatividade. Precedente: RE 200.844-AgR, DJ de 16/08/2002. 2. Conforme consignado pelo Plenário desta Corte no RE 201.465, inexiste direito, fundado na Constituição, a índice de indexação real. 3. Agravo regimental improvido.”(RE 309.381-AgR, Segunda Turma, Rel. Min. Ellen Gracie, DJ de 6/8/2004)
+
+    “EMBARGOS DE DECLARAÇÃO. TRIBUTÁRIO. AUSÊNCIA DE OMISSÃO. DEMONSTRAÇÕES FINANCEIRAS. CORREÇÃO MONETÁRIA. CONSTITUCIONALIDADE DO ARTIGO 3º DA LEI 8.200/93. TEMA 298 DE REPERCUSSÃO GERAL. MANIFESTAÇÃO DA CORTE SOBRE OS PRINCÍPIOS DA IRRETROATIVIDADE E DA ANTERIORIDADE. 1. A correção de demonstrações financeiras relativas ao ano base de 1990, instituídas pela Lei 8.200/93, e seus consectários não padece de inconstitucionalidade (RE 201.512 e RE 545.796, julgado em Repercussão Geral - Tema 298). 2. Os Embargos de Declaração são improcedentes quando a decisão embargada manifesta-se em sua fundamentação sobre os pontos alegadamente omitidos. 3. In casu, a Suprema Corte julgou a matéria, dentre outros fundamentos, pelas luzes dos princípios da anterioridade e da irretroatividade em matéria tributária, reconhecendo sua não violação. 4. Embargos de Declaração DESPROVIDOS.”(RE 201.465-ED, Plenário, Rel. Min. Luiz Fux, DJe de 13/11/2020)
+
+    “CONSTITUCIONAL E TRIBUTÁRIO. DEMONSTRAÇÕES FINANCEIRAS REFERENTES AO ANO-BASE 1990. CORREÇÃO MONETÁRIA. CONSTITUCIONALIDADE DA SISTEMÁTICA ESTABELECIDA NO ART. 3º, INC. I, DA LEI N. 8.200/1991. RECONHECIMENTO POSTERIOR DE INCIDÊNCIA DE ÍNDICE DIVERSO DO ADOTADO À ÉPOCA. BENEFÍCIO TRIBUTÁRIO DIFERIDO NO TEMPO. DEDUÇÃO NA DETERMINAÇÃO DO LUCRO REAL. OPÇÃO POLÍTICO-LEGISLATIVA ADOTADA PARA TORNAR MENOS GRAVOSA A CARGA TRIBUTÁRIA DECORRENTE DA ALTERAÇÃO DE INDEXADORES ECONÔMICOS INCIDENTES NA ESPÉCIE. NÃO CARACTERIZAÇÃO DE EMPRÉSTIMO COMPULSÓRIO. AUSÊNCIA DE CONTRARIEDADE AOS PRINCÍPIOS DA CAPACIDADE CONTRIBUTIVA, DO NÃO CONFISCO, DA IRRETROATIVIDADE, DA ISONOMIA E DO DIREITO ADQUIRIDO. RECURSO CONHECIDO E PROVIDO.”(RE 201.512, Plenário, Redatora do acórdão Min. Cármen Lúcia, DJe de 11/4/2016)
+
+    Ex positis, CONHEÇO PARCIALMENTE do agravo e, nesta parte, o DESPROVEJO, com fundamento no artigo 932, inciso VIII, do Código de Processo Civil, c/c o artigo 21, § 1º, do Regimento Interno do STF.
+
+    Ademais, havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 13 de novembro de 2024.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
