@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ADMINISTRADORA DE CONSÓRCIO RCI BRASIL LTDA. contra a decisão que inadmitiu o recurso especial com fundamento nas Súmulas n. 284, 282 e 356 do STF.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Rondônia na Apelação Cível n. 7000609-27.2023.8.22.0014, nos autos de ação de busca apreensão.
+O julgado foi assim ementado (fl. 156):
+Busca e apreensão. Alienação fiduciária. Constituição do devedor em mora. Notificação extrajudicial válida. Ausência. Extinção do processo sem julgamento do mérito.
+Nas razões do recurso especial, o ora agravante aponta violação dos arts. 2º e 3º do Decreto-Lei n. 911/1969 e 82, 85 e 422 do CPC, além de dissídio jurisprudencial.
+Argumenta que a notificação extrajudicial foi expedida ao endereço constante do contrato, satisfazendo a exigência do art. 2º, § 2º, do Decreto-Lei n. 911/1969, tendo sido devolvida com a informação de endereço insuficiente. Argumenta que, para que seja cumprida a parceria contratual, é dever do financiado manter seu endereço devidamente atualizado.
+Subsidiariamente, em relação aos honorários advocatícios, defende a aplicação do princípio da casualidade, devendo quem deu causa à demanda arcar com as despesas dela decorrentes ou de incidente processual, solicitando a reforma da sentença para condenação do recorrido ao pagamento dos ônus sucumbenciais.
+Sustenta que fez a comparação analítica entre o acórdão recorrido e o acórdão paradigma.
+Por fim, requer o provimento do presente recurso.
+É o relatório. Decido.
+O recurso merece prosperar.
+Para os contratos garantidos por alienação fiduciária, embasados pelo Decreto-Lei n. 911/1969, o Superior Tribunal de Justiça firmou o entendimento de que a mora se configura automaticamente, quando vencido o prazo para o pagamento - mora ex re -, isto é, decorre do não pagamento dentro do prazo. Ou seja, o devedor estará em mora quando deixar de efetuar o pagamento no tempo, lugar e forma contratados (arts. 394 e 396 do Código Civil).
+Portanto, incumbe ao credor comprovar tão somente o envio da carta registrada com aviso de recebimento ao endereço indicado no contrato, não sendo necessária a demonstração do efetivo recebimento, quer seja pelo próprio destinatário, quer seja por terceiros.
+Registre-se que a Segunda Seção desta Corte, em julgamento de recurso repetitivo (Tema n. 1.132), fixou entendimento no sentido de que, para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. Veja-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Caso concreto: Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Recurso especial provido. (REsp n. 1.951.662/RS, relator para o acórdão Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/8/2023.)
+Essa conclusão aplica-se a situações diversas, por exemplo, quando a notificação enviada ao endereço do devedor retorna com aviso de "ausente", de "mudou-se", de "insuficiência do endereço do devedor" ou de "extravio do aviso de recebimento", reconhecendo-se que cumpre ao credor comprovar tão somente o envio da notificação com aviso de recebimento ao endereço do devedor indicado no contrato, sendo irrelevante a prova do recebimento (REsp n. 1.951.662/RS e REsp n. 1.951.888/RS, submetidos ao rito dos repetitivos).
+No caso, o Tribunal de origem manteve a sentença, que extinguira a ação de busca e apreensão ao fundamento de não ter sido demonstrada a regular constituição do devedor em mora. Confira-se (fl. 155, destaquei):
+Pretende o apelante a reversão da sentença extintiva, sob o argumento de que resta comprovado a constituição em mora do devedor, eis que a notificação fora remetida ao endereço declinado no contrato firmado entre as partes.
+Pois bem.
+Nos termos da decisão (ID n. 19985727), ao analisar os autos, o Magistrado verificou que a mora do apelado não havia sido constituída, pois o AR enviado foi devolvido com a anotação de "endereço insuficiente" (ID n. 19985734). Consignou não ser necessário que o aviso de recebimento seja recebido pelo próprio destinatário/apelado, no entanto, o AR deve ser recebido por alguém que esteja no endereço. Assim, determinou que a apelante, no prazo de cinco dias, comprovasse a mora do devedor (ID n. 19985723).
+Embora devidamente intimado, o apelante, deixou escoar o prazo determinado quanto a comprovação da mora do apelado.
+Acerca da falta de comprovação da mora do devedor, o Superior Tribunal de Justiça já sumulou o entendimento de que a comprovação da mora é imprescindível à busca e apreensão do bem alienado fiduciariamente (Súmula n. 72).
+Não bastasse isso, a Corte Superior também consignou que é válida a notificação extrajudicial desde que entregue no endereço de seu domicílio por via postal, com aviso de recebimento.
+Observa-se que o Tribunal a quo afirmou que não houve a constituição em mora do devedor por falta de comprovação nos autos de que a notificação fora efetivamente recebida por alguém que estivesse no endereço.
+Esse entendimento diverge da jurisprudência do STJ, uma vez que o Tribunal de origem não considerou válida a notificação enviada ao endereço constante do contrato, apta a configurar a mora mesmo sem a comprovação de recebimento pelo devedor ou por terceiro.
+Diante do acolhimento do pedido principal, fica prejudicado o pedido subsidiário.
+Ante o exposto, conheço do agravo em recurso especial para, conhecendo do recurso especial, dar-lhe provimento a fim de determinar o prosseguimento do feito na origem, diante da regular constituição em mora do devedor.
+Publique-se. Intimem-se.
+ EMENTA
