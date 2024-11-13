@@ -1,0 +1,55 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 30/9/2024.
+Concluso ao gabinete em: 29/10/2024.
+Ação: "ordinária de revisão de contrato c/c repetição de indébito" (fl. 3) ajuizada pelo agravado.
+Sentença: julgou parcialmente procedentes os pedidos para: "a) limitar os juros remuneratórios à taxa média de mercado divulgada pelo Banco Central do Brasil, acrescidos de 50%, nos termos da fundamentação, no tocante aos contratos discutidos nos autos e; b) condenar a parte a restituição simples dos valores eventualmente cobrados e pagos a maior, com correção monetária pelo INPC, desde a data de cada pagamento, e juros simples de mora de 1% a. m., desde a citação" (fl. 319).
+Acórdão: conheceu parcialmente da apelação da ora agravante e, nesta extensão, negou-lhe provimento e deu provimento à apelação do agravado, nos termos da seguinte ementa:
+RECURSOS DE APELAÇÃO. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO PESSOAL. SENTENÇA DE PARCIAL PROCEDÊNCIA QUE: LIMITOU OS JUROS REMUNERATÓRIOS ÀS MÉDIAS DE MERCADO, ACRESCIDAS DE 50% (CINQUENTA POR CENTO); E DETERMINOU A REPETIÇÃO DO INDÉBITO NA FORMA SIMPLES. INCONFORMISMOS DE AMBAS AS PARTES.
+PRELIMINAR SUSCITADA EM CONTRARRAZÕES PELA PARTE AUTORA. PRETENDIDO NÃO CONHECIMENTO DO RECLAMO DA INSTITUIÇÃO FINANCEIRA, SOB A ALEGAÇÃO DE SER DISSOCIADO DO CONTEÚDO DA DECISÃO COMBATIDA. VÍCIO INOCORRENTE. RAZÕES RECURSAIS QUE COMBATEM A FUNDAMENTAÇÃO LANÇADA NO DECISUM. PRINCÍPIO DA DIALETICIDADE NÃO VIOLADO.
+RECURSO DA CASA BANCÁRIA.
+EXAME DE ADMISSIBILIDADE. AVENTADA INÉPCIA DA INICIAL. INOVAÇÃO RECURSAL. COGNIÇÃO DO APELO OBSTADA QUANTO A ESTE PONTO.
+ALMEJADAS EXPEDIÇÃO DE OFÍCIOS À ORDEM DOS ADVOGADOS DO BRASIL, AO NUMOPEDE E À AUTORIDADE POLICIAL, PARA QUE POSSAM SER APURADOS INDÍCIOS DE INFRAÇÕES DISCIPLINARES, SOB A ARGUIÇÃO DE PRÁTICA DE CONDUTA TEMERÁRIA NO AJUIZAMENTO DE INÚMERAS AÇÕES "EM LOTE", E INTIMAÇÃO PESSOAL DA PARTE AUTORA PARA CONFIRMAÇÃO DA CONTRATAÇÃO DO CAUSÍDICO PARA O AJUIZAMENTO DA PRESENTE DEMANDA. DESACOLHIMENTO. ARGUENTE QUE PODE BUSCAR DIRETAMENTE AS AUTORIDADES OU O ÓRGÃO DE CLASSE COMPETENTES, CASO ENTENDA HAVER INDÍCIOS DE INFRAÇÕES. INTIMAÇÃO PESSOAL DO POLO AUTOR, OUTROSSIM, DESNECESSÁRIA, UMA VEZ QUE FOI COLACIONADA AO FEITO PROCURAÇÃO SUBSCRITA PELA PARTE, A QUAL NÃO FOI IMPUGNADA PELA CASA BANCÁRIA, EVIDENCIANDO O CONHECIMENTO ACERCA DA AÇÃO E DOS PODERES CONFERIDOS AO CAUSÍDICO.
+ALEGAÇÃO DE NULIDADE DA DECISÃO, POR AUSÊNCIA DE FUNDAMENTAÇÃO. DESCABIMENTO. RAZÕES DE CONVENCIMENTO ANOTADAS DE FORMA CLARA NO ATO JUDICIAL.
+ARGUIÇÃO DE CERCEAMENTO DE DEFESA ANTE O JULGAMENTO ANTECIPADO DA LIDE. DILAÇÃO PROBANTE DESNECESSÁRIA. EVENTUAL ABUSIVIDADE CONTRATUAL QUE É AFERIDA A PARTIR DA DOCUMENTAÇÃO JUNTADA AO FEITO.
+AVENTADA IMPOSSIBILIDADE DE REVISÃO CONTRATUAL. DESCABIMENTO EM VIRTUDE DA APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR À HIPÓTESE. SÚMULA 297 DO SUPERIOR TRIBUNAL DE JUSTIÇA. MITIGAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA QUE SE IMPÕE.
+PRETENDIDA MANTENÇA DOS JUROS REMUNERATÓRIOS. ACOLHIMENTO INVIÁVEL. TAXAS PACTUADAS QUE, NA HIPÓTESE, SE REVELAM EXCESSIVAMENTE SUPERIORES ÀS MÉDIAS DE MERCADO. PRECEDENTES. LIMITAÇÃO DO ENCARGO CONSERVADA NOS TERMOS DA SENTENÇA.
+RECURSO CONHECIDO, EM PARTE, E NÃO PROVIDO.
+RECLAMO DA PARTE AUTORA.
+PLEITEADA MAJORAÇÃO DOS HONORARIOS ADVOCATÍCIOS PARA R$ 4.000,00 (QUATRO MIL REAIS). ACOLHIMENTO. VERBA HONORÁRIA ARBITRADA NA DECISÃO COMBATIDA EM 10% (DEZ POR CENTO) DO VALOR DO PROVEITO ECONÔMICO. SENTENÇA, CONTUDO, EXARADA QUANDO JÁ ESTAVA EM VIGOR A LEI N. 14.365/22, QUE ACRESCENTOU O § 8º- A AO ART. 85 DO CÓDIGO DE PROCESSO CIVIL. IMPERATIVA FIXAÇÃO DOS HONORÁRIOS DEVIDOS AO PATRONO DO POLO RECORRENTE SEGUNDO O VALOR SOLICITADO, ISTO É, O MONTANTE RECOMENDADO PELA ORDEM DOS ADVOGADOS DO BRASIL, SEÇÃO DE SANTA CATARINA, PARA AS AÇÕES OBJETIVANDO A " NULIDADE DE CLÁUSULAS ABUSIVAS CONSTANTES EM CONTRATOS DE CONSUMO ", DE MODO A FAZER PREVALECER O MAIOR IMPORTE, NO COMPARATIVO ENTRE OS VALORES RECOMENDADOS PELO ÓRGÃO DE CLASSE DOS ADVOGADOS A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS E O LIMITE MÍNIMO DO PERCENTUAL ESTABELECIDO NO § 2º DO ART. 85 DO REFERIDO CODEX.
+APELO DO BANCO CONHECIDO, EM PARTE, E NÃO PROVIDO.
+RECURSO DO POLO AUTOR CONHECIDO E PROVIDO.
+(fls. 694-695)
+Embargos de declaração: opostos pela agravante, foram rejeitados (fls. 722-725).
+Recurso especial: alega, além de dissídio jurisprudencial, violação aos arts. 421 do Código Civil e aos arts. 355, I e II, 356, I e II, e 927, todos do Código de Processo Civil, ao argumento de que: a) inexiste abusividade nos juros remuneratórios previstos no contrato celebrado entre as partes; e b) o acolhimento do pedido de revisão contratual, sem o deferimento da prova pericial contábil requerida e levando-se em conta apenas a taxa média de mercado, sem produção de outras provas e análise das particularidades do caso, enseja cerceamento de defesa, devendo os autos serem remetidos ao Tribunal de origem, sob pena de nulidade.
+Prévio juízo de admissibilidade: o TJSC inadmitiu o recurso especial interposto (fls. 892-894).
+É o relatório.
+DECIDO.
+1. DO CERCEAMENTO DE DEFESA
+1. De início, importa consignar que "o magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional" (AgInt no AREsp n. 2.652.913/SP, Quarta Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+2. Nesse contexto, rever a convicção formada pelo Tribunal de origem acerca da prescindibilidade de produção da prova pericial requerida demandaria reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+2. DO CARÁTER ABUSIVO DOS JUROS REMUNERATÓRIOS
+3. Aduz a parte recorrente, em síntese, que inexiste abusividade nos juros remuneratórios previstos no contrato celebrado entre as partes.
+4. Nesse contexto, sustenta que o acolhimento do pedido de revisão contratual, sem o deferimento da prova pericial contábil requerida e levando-se em conta apenas a taxa média de mercado, sem produção de outras provas e análise das particularidades do caso, enseja cerceamento de defesa, devendo os autos serem remetidos ao Tribunal de origem, sob pena de nulidade.
+5. A Corte de origem, não obstante, entendeu configurado o caráter abusivo dos juros remuneratórios, levando em consideração as peculiaridades da hipótese concreta:
+A análise da abusividade, portanto, apesar de ter a taxa média de mercado como parâmetro basilar, deve também levar em conta a avaliação de outros fatores envolvidos para a realização da operação de crédito, "de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato; o valor e o prazo do financiamento; as fontes de renda do cliente; as garantias ofertadas; a existência de prévio relacionamento do cliente com a instituição financeira; análise do perfil de risco de crédito do tomador; a forma de pagamento da operação, entre outros aspectos" (STJ, REsp n. 1.821.182/RS, rel. Min.ª Maria Isabel Gallotti, j. em 23.6.2022).
+Esclarecido isso, observa-se que o contrato debatido na lide consiste em operação de empréstimo pessoal (com desconto em conta corrente) destinada à obtenção de crédito.
+Diante disso, deve ser mantida a utilização da Série n. 25464 - referente à taxa de juros com recursos livres - taxa média de juros - pessoas físicas - crédito pessoal não consignado.
+ ..
+E, considerando o posicionamento deste Órgão Fracionário, que vem entendendo existir abusividade na hipótese de pactuação de juros remuneratórios excessivos em relação à taxa média de mercado, agiu com acerto a magistrada ao alterar o ajustado entre as partes.
+Ademais, as circunstâncias contratuais não se mostram excepcionais ou suficientes a esclarecer a disparidade entre as taxas contratadas e aquelas praticadas pelo mercado. Do mesmo modo, a financeira ré deixou de apresentar provas ou elementos concretos que justifiquem a larga discrepância da pactuação com a média divulgada pelo Banco Central.
+Diante do exposto, nega-se provimento ao reclamo, mantendo a limitação do encargo nos termos da sentença (ou seja, acrescida de 50%  cinquenta por cento ), dada a ausência de recurso do polo autor no ponto.
+(fl. 692)
+6. Nesse contexto, derruir a conclusão alcançada pelo Tribunal a quo - no que se refere à existência de abusividade na taxa de juros remuneratórios prevista no contrato celebrado entre as partes - exigiria o reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, o que encontra óbice nos enunciados das Súmulas 5 e 7 do STJ. A propósito: AgInt no AREsp n. 2.490.129/RS, Quarta Turma, julgado em 2/9/2024, DJe de 5/9/2024; AgInt no AREsp n. 2.509.992/RS, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgInt no AREsp n. 2.483.813/RS, Terceira Turma, julgado em 11/3/2024, DJe de 14/3/2024.
+3. DO DISSÍDIO JURISPRUDENCIAL
+7. No mais, no que diz respeito a interposição do presente recurso especial pela alínea "c" do permissivo constitucional, importa consignar que não se pode conhecer do recurso pela referida alínea, uma vez que pretende a parte recorrente discutir idêntica tese já afastada, ficando prejudicada a divergência jurisprudencial aduzida.
+Forte nessas razões, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Prejudicado o pedido de efeito suspensivo.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto aos advogados da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em favor dos patronos da parte recorrida pa ra R$ 4.500,00, observado, se cabível, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROVA PERICIAL. DESNECESSIDADE. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. JUROS REMUNERATÓRIOS. CARÁTER ABUSIVO. REEXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Rever a convicção formada pelo Tribunal de origem acerca da prescindibilidade de produção da prova pericial requerida demandaria reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+2. Derruir a conclusão alcançada pelo Tribunal a quo - no que se refere à existência de abusividade na taxa de juros remuneratórios prevista no contrato celebrado entre as partes - exigiria o reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, o que encontra óbice nos enunciados das Súmulas 5 e 7 do STJ.
+3. No que diz respeito a interposição do presente recurso especial pela alínea "c" do permissivo constitucional, importa consignar que não se pode conhecer do recurso pela referida alínea, uma vez que pretende a parte recorrente discutir idêntica tese já afastada, ficando prejudicada a divergência jurisprudencial aduzida.
+4. Agravo conhecido. Recurso especial não conhecido.
