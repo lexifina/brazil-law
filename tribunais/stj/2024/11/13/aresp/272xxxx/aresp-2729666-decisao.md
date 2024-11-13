@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo interposto por ANDERSON ALVES PEREIRA contra decisão que inadmitiu recurso especial (e-STJ, fls. 75-76) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 41):
+*AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA R. DECISÃO PELA QUAL FOI INDEFERIDO PEDIDO DE CONDENAÇÃO DOS RECORRIDOS AO PAGAMENTO DAS PENAS DECORRENTES DA LITIGÂNCIA DE MÁ-FÉ ALEGAÇÃO DE INCORREÇÃO - PEDIDO DE REFORMA NATURAL DEFESA DE DIREITO LITIGÂNCIA INDEVIDA NÃO RECONHECIDA - ACERTO DA R. DECISÃO ATACADA - RECURSO NÃO PROVIDO.*
+Nas razões do recurso especial, o recorrente alegou, com base na alínea a do permissivo constitucional, violação aos arts. 80, 81 e 774 do CPC/2015.
+Sustentou a existência de fatos e provas que demonstram a prática de fraude à execução pelos agravados, apta a justificar ato atentatório à dignidade da justiça.
+Defendeu a condenação dos recorridos à pena por litigância de má-fé.
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 75-76).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 79-88).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da existência dos atos que configurem fraude à execução e sobre a condenação dos recorridos à pena por litigância de má-fé, o Tribunal de origem assim se manifestou (e-STJ, fls. 42-43):
+Partindo da introdução acima indicada, e no que se refere ao pedido formulado visando a condenação dos recorridos como incursos nas penas decorrentes da litigância de má-fé, é de se dizer que tal hipótese não se viu ainda suficientemente demonstrada, haja visto que os devedores se valeram dos meios e defesas disponíveis para resguardar interesses legitimamente protegidos pela legislação pátria, não resultando configurado, portanto, quaisquer dos motivos que vem indicados pela legislação processual vigente a dar respaldo ao pedido como agora deduzido, daí porque não se possa falar em má-fé dos recorridos, ao menos em relação aos atos praticados até o presente momento processual.
+Assim, à luz de tais elementos, se coloca como de efetivo rigor firmar entendimento no sentido de que o posicionamento adotado pelo Juízo se mostrou plenamente adequado ao conjunto coligido ao todo processado, devendo a R. Decisão recorrida se constituir em alvo de plena manutenção, pois de forma segura deu solução a questão submetida a apreciação de 1º Grau, devendo, destarte, ser integralmente mantida, e sem quaisquer reparos, manutenção esta que se dá com base em seus próprios, legítimos, e acertados fundamentos.
+Pelo exposto, é caso de se negar provimento ao Recurso, para tanto observados os exatos limites do Voto.
+Da citada passagem, depreende-se que o Tribunal local não reconheceu irregularidade na conduta dos recorridos durante a tramitação da execução, a fim de acolher as alegações do recorrente para imposição de penalidade por litigância de má-fé.
+À vista disso, reverter a conclusão da instância originária demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. FRAUDE. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA. REEXAME. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
