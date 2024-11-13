@@ -1,0 +1,55 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    TRIBUTÁRIO. MANDADO DE SEGURANÇA INDIVIDUAL. IRPJ E CSLL. INCLUSÃO DOS JUROS MORATÓRIOS MENSAIS EQUIVALENTES À TAXA SELIC NA REPETIÇÃO DE INDÉBITO. INCONSTITUCIONALIDADE DECLARADA PELO STF EM RECURSO REPETITIVO. LEVANTAMENTO DE DEPÓSITOS: IMPOSSIBILIDADE. COMPENSAÇÃO OU RESTITUIÇÃO DO INDÉBITO SERÁ REQUERIDA EXCLUSIVAMENTE NA RECEITA FEDERAL DO BRASIL.
+
+    1. O Supremo Tribunal Federal no RE/RG 1.063.187-SC, r. Min. Dias Toffoli, Plenário em 27.09.2021, fixou a seguinte tese vinculante (CPC, art. 927/III): "É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário". Na modulação, a Corte ressalvou as ações ajuizadas até 17.09.2021, como é o caso (02.04.2020).
+
+    Levantamento de depósitos
+
+    2. De acordo com a jurisprudência deste Tribunal, a tese fixada no RE/RG 1.063.187-SC não se aplica ao levantamento de depósitos judiciais. Nesse sentido: AMS 1055452-24.2021.4.01.3800, Juiz Federal Henrique Gouveia da Cunha, 7ª Turma deste TRF-1 em 26.07.2022, entre outros: “Por outro lado, a jurisprudência desta Turma vem se orientando no sentido de que o precedente vinculante acima mencionado não se aplica aos valores relativos a depósitos judiciais, os quais ostentam natureza jurídica diversa dos valores atinentes à repetição de indébito”.
+
+    Restituição/compensação
+
+    3. “A jurisprudência do STJ é no sentido de que, concedida a ordem, o contribuinte pode requerer via administrativa a compensação ou restituição do indébito, sendo inviável a utilização do mandamus para buscar a expedição de precatório/RPV, porquanto vedado o uso da via mandamental como ação de cobrança, a teor da Súmula 269/STF" – AgInt no REsp 1.981.962 – RS, r. Ministro Benedito Gonçalves, em 08.08.2022, dentre tantos outros.
+
+    4. Nos termos do art. 74 da Lei 9.430/1996, “O sujeito passivo que apurar crédito, inclusive os judiciais com trânsito em julgado, relativo a tributo ou contribuição administrado pela Secretaria da Receita Federal, passível de restituição ou de ressarcimento, poderá utilizá-lo na compensação de débitos próprios relativos a quaisquer tributos e contribuições administrados por aquele Órgão".
+
+    5. Apelação da impetrante parcialmente provida
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, caput e inciso LV; 145, § 1º, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 01/02/2019).
+
+    Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, os seguintes precedentes:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL REFLEXA.1.Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. Agravo Interno a que se nega provimento” (RE nº 1.169.266/RS-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 13/02/2019).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo.II – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 8° e § 11, do CPC. III – Agravo regimental a que se nega provimento, com aplicação de multa” (ARE nº 1.161.422/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski,DJe de 06/12/2018).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR. APOSENTADORIA. REVISÃO. PREQUESTIONAMENTO. AUSÊNCIA. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido, em decorrência da ausência do requisito processual do prequestionamento. Súmula 282 do STF. 2. É inviável o processamento do apelo extremo quando a ofensa a dispositivo constitucional se dá de maneira reflexa e indireta, pois requer o exame prévio da orientação firmada sobre tese infraconstitucional pela instância ordinária. 3. Agravo regimental a que se nega provimento” (ARE nº 939.243/SP-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 07/04/2016).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 13 de novembro de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
