@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DAYANE APARECIDA DOS SANTOS, presa cautelarmente pela suposta prática dos crimes previstos no artigo 180, §1º, e artigo 288, ambos do Código Penal - contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.24.436546-6/000).
+Na presente impetração a defesa requer a extensão do benefício concedido ao corréu Robson Rodrigues de Souza. Ocorre que, nos autos do RHC 207025/MG, a defesa por intermédio da petição n. 00984918/2024 desistiu do recurso em habeas corpus, em relação à DAYANE APARECIDA DOS SANTOS. Assim, na data de 6/11/2024, foi homologado o pedido de desistência em relação à paciente.
+Por outro lado, a presente impetração é mera reiteração do RHC n. 207.025/MG - apresenta a mesma parte, causa de pedir e pedido, bem como foi interposto contra o mesmo ato coator, o HC n. 1.0000.24.436546-6/000, cuja liminar foi indeferida no dia 6/11/2024, na mesma data em que foi homologada a desistência.
+Com efeito, " r evela-se manifestamente incabível o habeas corpus que veicula pedido idêntico ao formulado em pleito anterior, que tramita nesta Corte." (AgRg no HC 253.038/SP, Relatora Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), Sexta Turma , julgado em 11/04/2013, DJe 23/04/2013).
+Em outras palavras, "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/09/2019, DJe 18/09/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
