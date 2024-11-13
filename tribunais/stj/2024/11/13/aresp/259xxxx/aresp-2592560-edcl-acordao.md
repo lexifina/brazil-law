@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ADILSON CARMIGNANI e MARIA NEYDE CARMIGNANI ao acórdão da Terceira Turma desta Corte assim ementado (e-STJ, fl. 958):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DEVER DA PARTE DE, AO INGRESSAR COM O AGRAVO DO ART. 1.042 DO CPC/2015, IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. EXIGÊNCIA CUJO DESCUMPRIMENTO ACARRETA O NÃO CONHECIMENTO DO AGRAVO. RATIFICAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo devem infirmar todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Correto o entendimento da Presidência do Superior Tribunal de Justiça de não conhecer do agravo em recurso especial, tendo em vista que realmente não houve efetiva impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+3. Agravo interno desprovido.
+Em suas razões, os embargantes apontam vício na decisão embargada.
+Para tanto, aduzem que "não há que se falar na controvérsia em reexame de prova. A divergência desde a origem se deu simplesmente com relação ao ato da serventia do juiz que efetuou cálculos de complemento de preparo os quais efetivados com base na apuração feita no Tribunal de origem, o que não poderia resultar na deserção aplicada" (e-STJ fl. 967).
+Impugnação apresentada às fls. 974-977 (e-STJ), na qual a parte embargada pede a condenação dos embargantes ao pagamento de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os declaratórios a modificar o julgado.
+Dito isso, não merece acolhimento o apontado vício na decisão embargada.
+Isso porque, conforme consignado na decisão de fls. 912-913 (e-STJ), o agravo em recurso especial interposto pela parte ora embargante não foi conhecido, uma vez que da leitura das razões de agravo (e-STJ, fls. 890-895), constatou-se que a parte insurgente não procedeu à impugnação específica de todos os fundamentos adotados pela Corte estadual para inadmitir o apelo especial, uma vez que deixou de infirmar o óbice da Súmula 7 do STJ, conforme indicado na decisão de fls. 885-887 (e-STJ).
+Incontestável, portanto, que não houve impugnação específica da decisão ora agravada, circunstância que impede o conhecimento do agravo, conforme o disposto pelo art. 932, III, do CPC/2015.
+Ademais, nota-se que a parte insurgente, nestes embargos (e-STJ, fls. 966-969), aponta os argumentos pelos quais considera descabida a incidência da Súmula 7/STJ ao caso. Entretanto, esse fundamento da decisão que inadmitiu o recurso especial, conforme registrado na decisão agravada, não foi devidamente impugnado no momento processual adequado, por ocasião da interposição do agravo em recurso especial.
+Assim, não tendo a parte agravante refutado, oportunamente, os fundamentos da decisão de inadmissibilidade do recurso especial, não cabe fazê-lo no âmbito do agravo interno ou de embargos de declaração , considerada a preclusão consumativa operada pela interposição do recurso antecedente.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC. INTERVENÇÃO DE TERCEIROS. ORDEM DOS ADVOGADOS DO BRASIL. ASSISTÊNCIA SIMPLES. REQUISITO. INTERESSE JURÍDICO. REPERCUSSÃO DO FATO SOBRE EVENTUAL DIREITO DO ASSISTENTE. AUSÊNCIA, NA ESPÉCIE. INTERESSE INDIVIDUAL E NÃO INSTITUCIONAL. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo interno interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas nºs 83 e 211, ambas do STJ, e falta de demonstração do dissídio).
+3. A parte agravante deve impugnar, nas razões de seu agravo em recurso especial, todos os fundamentos da decisão que inadmitiu o seu apelo nobre, não cabendo, de modo extemporâneo, infirmar aqueles argumentos tão somente no manejo do agravo interno, em virtude da ocorrência da preclusão consumativa.
+4. Esta Corte firmou entendimento de que eventual sentença de procedência do pedido indenizatório que repercute apenas na esfera individual direta do associado não é suficiente para deferir o pedido da OAB como assistente.
+5. Agravo interno não provido. (AgInt no AREsp 1740065/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 18/5/2021, DJe 20/5/2021)
+Desse modo, ao analisar a questão aduzida no recurso especial, decidiu-se por aplicar, em relação ao tema o entendimento jurisprudencial desta Corte, além do óbice sumular de forma clara e fundamentada, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material, com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Por conseguinte, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo da parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+No que diz respeito ao pleito trazido na impugnação aos declaratórios de aplicação da multa do art. 1.026, § 2º, do CPC/2015, constata-se que não está configurado, por ora, o manifesto intuito protelatório capaz de ensejar a aplicação da sanção.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
