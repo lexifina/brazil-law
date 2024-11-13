@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2024 a 13/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar que os réus estavam em liberdade provisória em processo por tráfico de drogas quando foram presos em flagrante novamente pelo mesmo delito.
+3. Por idênticos argumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da possibilidade de reiteração delitiva, a denotar a particular periculosidade dos réus .
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+SAMARA NUNES e LUCAS RESENDE DIAS interpõem agravo regimental contra a decisão de fls. 124-126, em que neguei provimento ao recurso em habeas corpus .
+Em suas razões, o agravante reitera o constrangimento ilegal pela segregação cautelar e sustenta que "a alternativa mais apropriada seria a imposição de medidas cautelares diferentes da prisão, considerando que os agravantes não se encontram sob nenhuma medida cautelar no processo ao qual respondem anteriormente" (fl. 133).
+Argumenta que "A agravante Samara foi impronunciada em relação ao crime de homicídio e a condenação registrada em sua folha de antecedentes criminais, que ainda não transitou em julgado, refere-se não ao crime de tráfico de drogas, mas sim ao crime de associação ao tráfico" (fl. 133).
+Requer a reconsideração da decisão impugnada e, subsidiariamente, o provimento do agravo regimental, a fim de que a prisão preventiva seja substituída por medidas cautelares.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar que os réus estavam em liberdade provisória em processo por tráfico de drogas quando foram presos em flagrante novamente pelo mesmo delito.
+3. Por idênticos argumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da possibilidade de reiteração delitiva, a denotar a particular periculosidade dos réus .
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Infere-se dos autos que os insurgentes foram presos em flagrante, em 2/7/2024, pela suposta prática dos delitos tipificados nos arts. 33, caput, e 35 da Lei n. 11.343/2006.
+O Juízo de Direito, ao homologar o flagrante em constrição preventiva, destacou que "os custodiados estão em liberdade provisória referente a outro processo de mesma natureza e foram autuados novamente em decorrência de operação que investiga a prática de tráfico de drogas, demonstrando, assim, que há fortes indícios de que, mesmo após recente condenação em primeira instância, continuam comercializando drogas" (fl. 12, grifei).
+O Tribunal de origem, por sua vez, manteve a custódia do acusado, conforme abaixo (fls. 72, grifei):
+Com os pacientes, em operação policial, foram apreendidas 02 (duas) porções de maconha, com massa total de 206 g (duzentas e seis gramas), em circunstâncias que, a princípio, revelam que estariam envolvidos na prática de tráfico de drogas.
+Acrescenta-se que os pacientes possuem outros registros em suas folhas de antecedentes (mov. 04), com passagens por crimes de homicídio e tráfico, tendo sendo, inclusive, condenados em primeira instância, pela prática do crime do art. 33 da Lei 11.343/06, mostrando-se contumazes na prática de delitos, de forma que a concessão de liberdade a eles traz risco à ordem pública.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Com efeito, a instância antecedente apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar que os réus estavam em liberdade provisória em processo por tráfico de drogas quando foram presos em flagrante novamente pelo mesmo delito.
+O Tribunal de origem destacou que "os pacientes possuem outros registros em suas folhas de antecedentes (mov. 04), com passagens por crimes de homicídio e tráfico, tendo sendo, inclusive, condenados em primeira instância, pela prática do crime do art. 33 da Lei 11.343/06" (fl. 72, grifei).
+Uma vez mais, sublinho que não se pode perder de vista o histórico criminal dos réus , que revela a periculosidade e o risco de repetir a prática criminosa, dada a aparente habitualidade da conduta, sobretudo por terem incorrido na suposta prática delitiva logo após a liberdade provisória.
+De fato, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 11/6/2019).
+Por idênticos a rgumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da possibilidade de reiteração delitiva, a denotar particular periculosidade dos réus .
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do e xposto, nego provimento ao agravo regimental.
