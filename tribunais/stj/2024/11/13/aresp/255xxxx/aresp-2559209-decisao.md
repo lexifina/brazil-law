@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (com fundamento no art. 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça do Maranhão (Apelação Criminal n. 0007816-69.2014.8.10.0040) que anulou a decisão absolutória proferida pelo Tribunal do Júri para submeter Jhonatam da Silva Paiva a novo julgamento pelo crime de homicídio qualificado.
+Nas razões do recurso especial, a defesa do agravante suscitou violação do art. 593, III, d, do Código de Processo Penal, apontando, em síntese, que a absolvição está amparada por provas nos autos (fls. 516/533).
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 7/STJ, apontando, ainda, que o acórdão está em consonância com a jurisprudência do STJ (fls. 556/559).
+Contra o decisum a defesa interpôs o presente agravo (fls. 561/576).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo não conhecimento agravo e, se conhecido, pelo seu desprovimento (fls. 620/629).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão.
+De outra parte, no que se refere ao recurso especial em si, a insurgência é manifestamente inadmissível.
+Cumpre destacar que o Tribunal a quo, ao determinar novo julgamento do ora agravante pelo Júri, apresentou a seguinte fundamentação (fls. 492/493 - grifo nosso):
+ ..
+Quanto à autoria, da leitura da ata da reunião da sessão do Tribunal do Júri, ocorrida em 13.09.2022 (ID nº 21503486, pág. 41), infere-se que a acusação pugnou pela condenação do acusado como incurso no (art. 121, § 2º, I e IV do CP). Por sua vez, a defesa sustentou a tese de legítima defesa (art. 23, II, do CP) - cf. ID nº 21503486, págs. 39-40.
+Assim, verifica-se claramente que foram apresentadas versões relativas ao fato atribuído ao acusado, tendo o Conselho de Sentença escolhido a sustentada pela defesa.
+A respeito do assunto, segundo o art. 25 do Código Penal, age em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem.
+Na espécie, restou incontroverso, diante da oitiva das testemunhas que se encontravam na cena do crime, tanto na primeira fase judiciária, quanto na sessão de julgamento, não ter havido qualquer agressão, atual ou iminente - no momento em que teve ceifada sua vida - que colocasse em perigo a vida do apelado, afastando-se assim a tese da legítima defesa, acolhida pelo Conselho de Sentença.
+Em seu interrogatório, o apelado confessa ter esfaqueado a vítima, embora alegue ter assim agido em razão desta tê-lo agredido anteriormente, não encontra respaldo nas provas dos autos.
+Destarte, uma vez que os elementos probatórios mencionados não são capazes de respaldar a tese abraçada pelo Tribunal do Júri, inquestionavelmente, há falar em decisão manifestamente contrária à prova dos autos, existindo razões para anular a sentença absolutória combatida a fim de que seja o apelado submetido a novo julgamento.
+ ..
+Esta Corte tem entendimento de que, não obstante a previsão do quesito geral previsto no art. 483, III, do Código de Processo Penal, a decisão absolutória deve possuir um lastro probatório mínimo, admitindo-se a sua anulação, por uma só vez, sob o fundamento de que seria manifestamente contrária à prova dos autos.
+Sobre o tema, confira-se:
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. TENTATIVA DE HOMICÍDIO. ABSOLVIÇÃO PELO TRIBUNAL DO JÚRI. ART. 483, III, DO CPP. RECURSO MINISTERIAL. SUBMISSÃO A NOVO JÚRI. DECISÃO CONTRÁRIA À PROVA DOS AUTOS. POSSIBILIDADE. SOBERANIA DOS VEREDITOS. INEXISTÊNCIA DE OFENSA.
+1. Ressalvada pessoal compreensão pessoal diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Ao prever a Lei n. 11.689/2008 que podem os jurados absolver o acusado mesmo sem rejeitar a existência do fato ou sua autoria (art. 483, inc. III, do CPP), apenas facilitou ao juiz leigo o acolhimento de teses quaisquer da defesa ou mesmo expressar diretamente seu convencimento final pela absolvição. Houve simplificação dos quesitos, não ampliação dos poderes do Júri.
+3. Permanece na nova sistemática de quesitação garantido ao Tribunal de Apelação o exame de conformidade mínima da decisão dos jurados à prova dos autos, por única vez (art. 593, III, d, c/c § 3º, do CPP).
+4. Habeas corpus não conhecido.
+(HC n. 288.054/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 3/10/2014).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. RESSALVA DO ENTENDIMENTO PESSOAL DA RELATORA. HOMICÍDIO QUALIFICADO NA FORMA TENTADA. ABSOLVIÇÃO GENÉRICA PELO TRIBUNAL DO JÚRI. PROVIMENTO DO APELO ACUSATÓRIO, PARA DETERMINAR A SUBMISSÃO DO RÉU A NOVO JULGAMENTO. ART. 483, INCISO III, DO CÓDIGO DE PROCESSO PENAL. LIBERALIDADE DOS JURADOS. SOBERANIA DOS VEREDICTOS QUE SÓ SE AFASTA NA HIPÓTESE DE DECISÃO CONTRÁRIA À PROVA DOS AUTOS. ARGUIDA IMPOSSIBILIDADE DE RECURSO MINISTERIAL NOS CASOS DE ABSOLVIÇÃO GENÉRICA. IMPROCEDÊNCIA. AUSÊNCIA DE PREVISÃO LEGAL. REVERÊNCIA AOS PRINCÍPIOS DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. O art. 483, inciso III, do Código de Processo Penal traduz uma liberalidade em favor dos jurados, os quais, soberanamente, podem absolver o acusado mesmo após terem reconhecido a materialidade e autoria delitivas, e mesmo na hipótese de a única tese sustentada pela Defesa ser a de negativa de autoria. Por outro lado, referido juízo absolutório não se reveste de caráter absoluto, podendo ser afastado, sem ofensa à soberania dos vereditos, quando reste evidenciado que o decisum distancia-se, por completo, dos fatos constantes dos autos, mostrando-se manifestamente contrário às provas colhidas.
+ ..
+6. Ordem de habeas corpus não conhecida. Ordem concedida de ofício para cassar o acórdão que determinou a submissão do paciente a novo julgamento, ficando restabelecida a decisão absolutória de primeira instância.
+(HC n. 243.716/ES, Ministra Laurita Vaz, Quinta Turma, DJe 28/3/2014 - grifo nosso).
+Como se verifica, o Tribunal de origem entendeu não haver lastro probatório mínimo a justificar a absolvição pela excludente de ilicitude, de forma que se autoriza a anulação do julgamento por contrariedade à prova dos autos. E, para concluir de maneira diversa, seria necessário o reexame de matéria fático-probatória, vedado em recurso especial, por força da Súmula 7/STJ.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. 1. VIOLAÇÃO A DISPOSITIVOS E A PRINCÍPIOS DA CONSTITUIÇÃO. VIA INADEQUADA. COMPETÊNCIA DA SUPREMA CORTE. 2. CONTRARIEDADE AO ART. 593, III, ALÍNEA D, DO CPP. ÉDITO ABSOLUTÓRIO. LEGÍTIMA DEFESA. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. ACÓRDÃO DEVIDAMENTE MOTIVADO. MODIFICAÇÃO QUE DEMANDA REVOLVIMENTO FÁTICO E PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. 3. AGRAVO REGIMENTAL IMPROVIDO.
+ .. . 2. O Tribunal de origem deu provimento ao recurso do Ministério Público para cassar o édito absolutório, com fundamento no art. 593, inciso III, d, do Código de Processo Penal, ao argumento de que a tese de legítima defesa, acolhida pelos jurados, não tinha respaldo no arcabouço carreado aos autos. Portanto, diante dos argumentos declinados pelo Tribunal de origem, não se verifica violação à norma em apreço, mas antes, sua devida aplicação, ante o reconhecimento de que a decisão dos jurados se mostrou contrária ao conjunto probatório. Mostra-se, portanto, inviável reverter referida conclusão, que se apoia em amplo espectro probatório, haja vista não ser o Superior Tribunal de Justiça terceira instância recursal.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 272.637/AL, Ministro Marco Aurélio Bellizze, Quinta Turma, DJe 22/8/2013 - grifo nosso).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. VIOLAÇÃO DO ART. 593, III, D, DO CPP. TRIBUNAL DE ORIGEM QUE AFASTOU A ABSOLVIÇÃO OPERADA PELO CONSELHO DE SENTENÇA, DETERMINANDO A SUBMISSÃO DO AGRAVANTE A NOVO JÚRI. PLEITO DE RESTABELECIMENTO DA SENTENÇA ABSOLUTÓRIA. CORTE A QUO QUE NÃO IDENTIFICOU SUBSTRATO PROBATÓRIO MÍNIMO A JUSTIFICAR A ESCOLHA ADOTADA PELO CONSELHO DE SENTENÇA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. PRECEDENTES.
+Agravo conhecido para não conhecer do recurso especial.
