@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por IZELA BLANK BUSS à decisão de fl. 430, que determinou a certificação do trânsito em julgado.
+Sustenta a parte embargante que na "data de 08/10/24 (antes de findar o prazo) a embargante apresentou a regularização processual dos procuradores constituídos, com inclusa procuração, ao juízo dos Embargos à Execução (processo nº 5001038-71.2022.8.21.0117/RS) em tempo hábil, uma vez que recebeu a Carta de Ordem no dia 27/09/24" (fl. 434).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Veja-se que a petição com a suposta regularização do feito não foi apresentada perante esta Corte, pois, conforme mencionado pela própria Embargante, foi apresentada perante o tribunal de origem, ignorando o fato de que o processo se encontrava tramitando aqui no STJ.
+Ressalte-se que a decisão impugnada foi proferida por este STJ, ou seja, o recurso está em trâmite perante esta Corte Superior, onde deveria ter sido protocolizada a petição de regularização.
+Cumpre registrar que o protocolo em tribunal diverso não tem o condão de afastar a intempestividade da manifestação, sendo que o único protocolo válido é o realizado na Secretaria desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PROTOCOLO DO RECURSO EM PROCESSO DIVERSO. INAPLICABILIDADE DO PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. AGRAVO DESPROVIDO.
+1. Nos termos dos arts. 219, caput, 994, VII e VIII, 1.003, § 5º, 1.029, § 3º, e 1.042, caput, todos do Código de Processo Civil de 2015, o prazo para interposição de recurso especial e de agravo em recurso especial é de 15 (quinze) dias úteis.
+2. A parte recorrente foi intimada do acórdão recorrido em 14/12/2022, sendo o recurso somente interposto em 29/03/2023, quando decorrido o prazo recursal de 15 (quinze) dias úteis previsto nos artigos 219, caput, 994, VI, e 1.003, § 5º, do CPC/2015, que se encerrou no dia 07/02/2023, considerando o recesso forense.
+3. Nos termos da jurisprudência desta Corte, o protocolo de recurso em Tribunal ou instância errada, ou mesmo em processo diverso, caracteriza erro grosseiro e, quando não corrigido a tempo, acarreta a intempestividade do recurso.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.425.716/GO, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 7.12.2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INTEMPESTIVIDADE. RECURSO PROTOCOLIZADO EM TRIBUNAL DIVERSO DENTRO DO PRAZO LEGAL. IRRELEVÂNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. A parte embargante alega que o acórdão padece de omissão, pois ausente manifestação sobre o fato de que a interposição do agravo interno em tribunal diverso (no caso, o TST), não impede o conhecimento do recurso, que foi protocolizado dentro do prazo legal.
+2. A jurisprudência do Superior Tribunal de Justiça entende que "o protocolo do recurso no juízo diverso, apesar de ocorrido dentro do prazo legal, não tem o condão de afastar a intempestividade, caso a correção do equívoco se dê após o decurso do prazo recursal" (AgInt no AREsp 1.070.935/PE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/2/2021, DJe de 12/2/2021).
+3. Embargos de declaração de SUPORTE SERVIÇOS DE SEGURANÇA LTDA acolhidos, apenas para prestar esclarecimentos, sem a modificação do julgado.
+(EDcl no AgInt no AREsp n. 1.996.251/SP, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 29.5.2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEMPESTIVO. RECURSO ERRONEAMENTE INTERPOSTO NO TRIBUNAL DE ORIGEM. PETIÇÃO PROTOCOLADA, NESTA CORTE, FORA DO PRAZO RECURSAL. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 26/06/2018, que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na forma da jurisprudência desta Corte, "a aferição da tempestividade do recurso dá-se invariavelmente com base na data de entrada da petição no Protocolo do Superior Tribunal de Justiça. Em atenção ao princípio da segurança jurídica, não se pode considerar tempestivo o recurso protocolizado em Tribunal diverso daquele a que se dirigia" (STJ, AgRg no REsp 1513.659/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2016). No mesmo sentido: STJ, AgInt no AREsp 1.039.858/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 24/10/2017; AgInt no AREsp 868.105/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 24/03/2017; AgRg no AREsp 820.637/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 03/05/2016; AgRg no AREsp 626.610/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 28/09/2015; AgRg no REsp 1.503.259/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 18/05/2015; AgRg no AREsp 447.040/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 29/09/2015.
+III. No caso, a decisão, objeto deste recurso, foi disponibilizada em 25/06/2018 (segunda-feira), no Diário de Justiça eletrônico, considerando-se publicada em 26/06/2018 (terça-feira). A Coordenadoria da Segunda Turma certificou o trânsito em julgado da referida decisão, com o registro do envio dos autos ao Supremo Tribunal Federal. Em 03/08/2018 houve interposição de Agravo interno, perante o Tribunal de origem, tendo sido o recurso encaminhado ao STJ, pela instância a quo, em documento protocolado, nesta Corte, em 19/10/2018.
+IV. Dessa forma, considerando que a tempestividade de recurso, interposto em face de decisão do STJ, é aferida na data do protocolo da petição na Secretaria deste Tribunal, forçoso o reconhecimento da intempestividade do presente Agravo interno, protocolado, nesta Corte, em 19/10/2018, após o trânsito em julgado da decisão agravada.
+V. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.302.390/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 13.12.2018.)
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
