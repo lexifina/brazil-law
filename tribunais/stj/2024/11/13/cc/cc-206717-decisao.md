@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo da Vara do Trabalho de Avaré - SP (suscitante) e o Tribunal de Justiça do Estado de São Paulo (suscitado), nos autos de ação proposta por Marcelo Aparecido Sing Roque em face do Instituto de Previdência Social dos Servidores Municipais de Americana - AMERIPREV, em que se postula o restabelecimento do auxílio doença ao reclamante ou, sucessivamente, a concessão de aposentadoria por invalidez.
+O Juízo suscitado acolheu os embargos de declaração interpostos pela autarquia municipal, com efeitos modificativos, asseverando que o pleito da demanda não constitui parcela de natureza administrativa, o que altera a competência para o julgamento do feito para a Justiça do Trabalho (fls. 569-578).
+O Juízo da Vara do Trabalho de Avaré - SP suscita o conflito ao entendimento de que as matérias versadas nos autos é de cunho previdenciário, o que afasta a competência da trabalhista prevista no artigo 114 da Constituição Federal (fl. 581).
+O Ministério Público Federal oficia pela competência da Justiça Comum (fls. 593-598).
+É o relatório. Passo a decidir.
+Cinge-se a controvérsia dos autos em saber qual o juízo competente para processar e julgar - se à Justiça Trabalhista ou à Justiça Comum - "ação ordinária previdenciária para restabelecimento de auxílio doença ou, alternativamente, aposentadoria por invalidez" (fl. 495-509).
+Diga-se que esta Corte Superior tem adotado o entendimento de que a competência para processar e julgar a ação que discute a concessão de benefício previdenciário deve ser determinada em função do pedido e da causa de pedir, constantes da petição inicial. A propósito:
+CONFLITO DE COMPETÊNCIA. PREVIDENCIÁRIO. BENEFICIÁRIO PREVIDENCIÁRIO. COMPETÊNCIA JUSTIÇA FEDERAL COMUM. PEDIDO E CAUSA DE PEDIR.
+I - A Justiça estadual é competente para processar e julgar as demandas relativas a acidente de trabalho, mas também aquelas que discutem as relações daí decorrentes (restabelecimento, reajuste e cumulação), porquanto art. 109, I, da Constituição Federal não fez qualquer ressalva a respeito.
+II - A competência para processar e julgar a ação que discute a concessão de benefício previdenciário decorrente de acidente de trabalho deve ser determinada em função do pedido e da causa de pedir, constantes da petição inicial.
+III - A partir da análise da petição inicial (fls. 4-9), é possível verificar que o pedido principal consiste na concessão de auxílio-doença e/ou aposentadoria por invalidez, já a causa de pedir não indica qualquer relação com a atividade laboral. Conclui-se que tanto o pedido quanto a causa de pedir da ação possuem natureza previdenciária, razão pela qual compete à Justiça Federal processá-la e julgá-la.
+IV - Conflito de competência conhecido para declarar competente para a causa o Juízo federal da 1ª Unidade Avançada de Atendimento em Ivaiporã/PR. (CC n. 187.898/PR, relator Ministro Francisco Falcão, Primeira Seção, julgado em 25/5/2022, DJe de 30/5/2022.)
+PREVIDENCIÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. AUXÍLIO DOENÇA. CRITÉRIOS PARA FIXAÇÃO DA COMPETÊNCIA. PEDIDO E CAUSA DE PEDIR. PEDIDO QUE REVELA A NATUREZA PREVIDENCIÁRIA. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR COMPETENTE A JUSTIÇA FEDERAL.
+1. A competência para julgar as demandas que objetivam a concessão de benefício previdenciário relacionado à acidente de trabalho deve ser determinada em razão do pedido e da causa de pedir. Nesse sentido: CC 107.468/BA, 3a. Seção, Rel. Min. Maria Thereza de Assis Moura, DJe de 22/10/2009.
+2. No caso dos autos, conforme se extrai da Petição Inicial, o pedido da presente ação é a Conversão de Amparo Social para Auxilio-Doença e/ou Aposentadoria, não tendo feito qualquer alusão a acidente de trabalho. Logo, a competência para processar e julgar a presente demanda é da Justiça Federal.
+3. Conflito de Competência conhecido para declarar competente o Juízo Federal de Bom Jesus da Lapa - SJ/BA .
+(CC n. 163.546/BA, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 13/3/2019, DJe de 20/3/2019.)
+Por fim, em matéria previdenciária, diga-se que esta Corte Superior tem reiteradamente decido no sentido de que o reconhecimento à concessão/manutenção de benefício previdenciário afasta a competência da Justiça especializada, haja vista que não se discute a relação de trabalho, mas, tão somente, a relação previdenciária.
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. COMPETÊNCIA EM RAZÃO DA MATÉRIA. AUSÊNCIA DE INTERESSE DO INSS. SÚMULA 150 DO STJ.
+1. A competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo esta caracterizada pelo pedido e pela causa de pedir. Na hipótese em exame, o interessado postulou a concessão de beneficio previdenciário sem referência a acidente de trabalho.
+2. No caso dos autos, conforme se extrai da Petição Inicial, o pedido é formulado por servidor público estadual objetivando a concessão de benefício previdenciário decorrente do Regime de Previdência Próprio do Estado do Rio Grande do Sul.
+3. Não compõe a lide a União, suas autarquias ou empresas públicas, por ter o Juízo Federal entendido não haver interesse da União na demanda, nos termos da Súmula 150/STJ, não incidindo a regra ratione personae da Justiça Federal. A competência, portanto, é da Justiça Comum Estadual.
+4. Agravo Interno não provido.
+(AgInt no CC n. 180.716/RS, relator Ministro Herman Benjamin, Primeira Seção, julgado em 15/2/2022, DJe de 15/3/2022.)
+Assim sendo, a competência para o julgamento e processamento da demanda é da Justiça estadual comum.
+No mesmo sentido, destacam-se os seguintes julgados: CC n. 205.764/SP, Ministro Herman Benjamin, DJe de 01/7/2024; CC n. 205.782/SP, Ministro Paulo Sérgio Domingues, DJe de 28/6/2024.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA ENTRE AS JUSTIÇAS DO TRABALHO E COMUM ESTADUAL. - CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO A SERVIDOR PÚBLICO MUNICIPAL VINCULADO A REGIME CELETISTA. AUSÊNCIA DE NATUREZA EMPREGATÍCIA NA CONTROVÉRSIA. VÍNCULO JURÍDICO COM O ENTE MUNICIPAL E NÃO COM A ENTIDADE PREVIDENCIÁRIA. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
