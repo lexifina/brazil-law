@@ -1,0 +1,29 @@
+DECISÃO
+TARLEY SILVA DE ALVARENGA alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo, que denegou a ordem no HC n. 2278147-85.2024.8.26.0000.
+O paciente, que teve sua prisão temporária convertida em preventiva, foi denunciado pelo crime de homicídio duplamente qualificado.
+A defesa pede a revogação da prisão preventiva ou sua substituição pelas cautelares dispostas no art. 319 do CPP. Para tanto, argumenta o seguinte: a) ausência de indícios de autoria e materialidade; b) carência de fundamentação concreta para a decretação da prisão e c) condições pessoais favoráveis ao acusado.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal, na pessoa do Subprocurador-Geral da República Celso de Albuquerque Silva, opinou pelo não conhecimento do hab eas corpus (fls. 174-176).
+Decido.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado, desde que não assuma natureza de antecipação da pena, e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315, ambos do CPP).
+A cautela extrema foi assim fundamentada (fl. 36, destaquei):
+De outro flanco, também se vislumbra a existência de periculum libertatis.
+Isso porque cuida-se de crime extremamente grave, considerado hediondo, cometido, em tese, em plena via pública e mediante inúmeros disparos de arma de fogo ("a vítima aparentava 21 ferimentos pérfuro-contundentes com características de orifícios de entrada no rosto" - fls. 37), revelando forte repercussão social, gravidade concreta e acentuada periculosidade do acusado.
+Nesse particular, impende ressaltar ainda que, de acordo com a testemunha protegida, após os fatos, TARLEY retornou ao local para ameaçar comerciantes, indicando, dessa forma, que a prisão preventiva também se revela necessária para conveniência da instrução criminal (fls. 25).
+Por derradeiro, apraz destacar que TARLEY ausentou-se do distrito da culpa e, atualmente, encontra-se em local incerto, cenário que demonstra a necessidade da cautelar extrema para assegurar a futura aplicação da Lei Penal.
+Anota-se ainda que a somatória das penas cominadas é superior a quatro anos (art. 313, inciso I, CPP).
+Diante desse panorama, é forçoso concluir que a prisão preventiva do acusado é necessária para garantia da ordem pública, notadamente em razão dos indícios que revelam gravidade concreta da conduta e periculosidade do agente, bem como para conveniência da instrução criminal e para assegurar a futura aplicação da Lei Penal.
+Como se observa, para a garantia da ordem pública, a prisão preventiva foi validamente fundamentada com base na gravidade concreta da conduta do agente, que supostamente desferiu inúmeros disparos de arma de fogo que atingiram o rosto da vítima e causaram sua morte. Além disso, o acusado retornou ao local dos fatos para ameaçar as testemunhas.
+Segundo a orientação desta Corte, "a gravidade dos fatos concretamente considerados, evidenciada por seu modus operandi, justifica a constrição cautelar" (HC n. 566.968/RJ, Rel. Ministro Rogerio Schietti, DJe 17/6/2020).
+Ademais, "Há fundamento concreto quando a prisão preventiva deu-se em razão das ameaças dirigidas às testemunhas, vítimas ou outras pessoas chamadas ao processo" (AgRg no RHC n. 195.913/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/6/2024, DJe de 19/6/2024).
+O Juiz de primeiro grau, ao decretar a prisão preventiva, entendeu, com base nos elementos de prova disponíveis, estarem demonstrados indícios mínimos de autoria e prova da materialidade delitiva, nestes termos (fls. 35-36, grifei):
+Com efeito, há prova da materialidade do crime e indícios suficientes da autoria, conforme se verifica através dos laudos periciais produzidos na fase inquisitorial, em especial e laudo necroscópico de fls. 27/30 e relatório de investigação de fls. 36/46.
+Outrossim, depreende-se do relato da testemunha protegida 01 que, no dia dos fatos, o denunciado estava com "sangue nos olhos" e aparentava querer ceifar a vida de alguém. Nessa perspectiva, nas proximidades do estabelecimento comercial "Esquinão Lanches", após conversar com a vítima Claudemar da Silva, TARLEY teria efetuado inúmeros disparos contra ela (fls. 25).
+Para além da narrativa da testemunha, após diligências, a equipe de investigação coletou imagens de câmeras de monitoramento que captaram o veículo do denunciado nas cercanias do local dos fatos, bem como constatou que ele possui três armas de fogo, dentre as quais uma pistola calibre .40, arma de calibre semelhante a que fora utilizada na dinâmica delitiva, conforme relatório de fls. 36/46.
+Portanto, resta caracterizado o fumus commissi delicti.
+Nesse contexto, a análise da alegação de negativa de autoria ou participação no delito em habeas corpus é inviável, dado o necessário aprofundamento no conjunto de fatos e provas, que deverá ser realizado pelo Juízo competente para instrução e julgamento da causa. Nesse sentido: HC n. 552.612/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/3/2020, DJe de 23/3/2020.
+Além disso, o exame acima referido implicaria indevida supressão de instância, por não haver sido abordado no acórdão estadual.
+Por fim, não constato flagrante ilegalidade na espécie. Embora consideradas as condições pessoais do ora paciente , as apontadas circunstâncias dos fatos não indicam ser adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282, c/c o art. 319 d o CPP).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
