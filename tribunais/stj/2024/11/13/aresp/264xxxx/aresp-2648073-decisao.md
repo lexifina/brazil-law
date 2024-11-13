@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se  de  agravo  em  recurso  especial  interposto  por  REINALDO GOLDBACH contra  decisão  que  inadmitiu  o  recurso  especial  com  fundamento  na  Súmula  n.  7  do  STJ.
+Alega  o  agravante  que  os  pressupostos  de  admissibilidade  do  recurso  especial  foram  atendidos.
+O  recurso  especial,  fundado  no  art.  105,  III,  a,  da  Constituição  Federal,  foi  interposto  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  de  São Paulo  (Agravo  de  Instrumento  n.  2209709-75.2022.8.26.0000)  assim  ementado  (fl.  241):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - INSURGÊNCIA CONTRA DECISÃO QUE INDEFERIU A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - CONSTRIÇÃO DE BENS QUE DEVE RECAIR, EM REGRA, SOBRE O PATRIMÔNIO DA DEVEDORA - TENTATIVAS FRUSTRADAS DE ALCANÇAR OS BENS DA EMPRESA - PRESENÇA DE ELEMENTOS QUE INDICAM O DESVIO DE FINALIDADE E A CONFUSÃO PATRIMONIAL - DECISÃO REFORMADA RECURSO PROVIDO.
+Nas  razões  do  recurso  especial,  o  ora  agravante  alega  dissídio jurisprudencial e ofensa  aos arts.  50 do CC e 134, § 4º, 373, 1.036 e 1.037, II, ambos do CPC. Argumenta que a simples inexistência de bens penhoráveis não autoriza a desconsideração da personalidade jurídica, devendo ser comprovada a fraude.
+Requer  o  conhecimento  e  o  provimento  do  recurso.
+Não foram apresentadas contrarrazões (fl. 137).
+É  o  relatório.  Decido.
+No caso, o Tribunal de origem reformou a decisão que havia indeferido o pedido de desconsideração da personalidade jurídica da empresa Construção Majer Eireli, a fim de incluir no polo passivo da execução os sócios Reinaldo Goldbach e Rogério Antônio Semião, por entender que fora demonstrado o abuso de direito da pessoa jurídica por meio do desvio de finalidade, com o propósito de fraudar credores. Observe-se (fls. 245-247, destaquei):
+No caso em questão, respeitado o entendimento do juízo a quo, certo é que foram realizadas várias tentativas de alcançar os bens da sociedade executada sem sucesso. Ademais, o cumprimento de sentença teve início em 2020 sem êxito na obtenção da satisfação da dívida.
+E, não obstante os argumentos expostos pelos agravados, certo é que em nenhum momento demonstraram a existência de bens penhoráveis da devedora.
+Por outro lado, é evidente o desvio de finalidade e a confusão patrimonial, caracterizada pela ocultação de dinheiro, bens e direitos, pois não é crível que uma empresa como a Construtora Majer, atuando no ramo de construção de edifícios e administração de obras há mais de 28 anos, não tenha ativos financeiros penhoráveis. Ora, nenhum centavo foi encontrado nas contas bancárias da pessoa jurídica, o que tornaria impossível a qualquer empresa operar, na prática, sem a interferência, a participação ou o aporte de uma pessoa física ou jurídica.
+Essa evidência é de tal modo flagrante, que não vislumbrá-la chegaria a resvalar em certa ingenuidade, o que nem de longe é o caso deste julgador. Afinal, quem é que não sabe, que para o desempenho de suas atividades, uma empresa precisa de dinheiro em conta para, no mínimo, comprar matéria-prima. E, se suas contas estão "zeradas", a despeito de a sociedade empresária continuar atuando no mercado, inclusive com modificação recente do quadro societário, a conclusão lógica a que se chega é no sentido de que ela o faz por meio de suas coligadas.
+Além disso, o agravado Reinaldo retirou-se da empresa após a propositura da execução, possuindo diversas sociedades que atuam no mesmo ramo, inclusive com mesmo endereço.
+ ..
+Assim, revelando fortes indícios de desvio de finalidade e de confusão patrimonial e, por outro lado, frágeis as alegações dos agravados e desprovidas de qualquer prova ou fundamento plausível a fim de manter o indeferimento da desconstituição da personalidade, de rigor a extensão da responsabilidade patrimonial para os bens dos agravados, devendo ser acolhido o incidente, com a inclusão dos agravados no pólo passivo da demanda.
+Assim, ao contrário do que alega o agravante, a desconsideração da personalidade jurídica não se baseou apenas na inexistência de bens penhoráveis, mas em fortes indícios de desvio de finalidade e esvaziamento patrimonial com o propósito de lesar credores.
+Nesse contexto, para reconhecer a suposta ofensa ao art . 50 do Código Civil, seria necessário o reexame de fatos e provas do processo, o que não se admite no recurso especial, nos termos da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+  Publique-se.  Intimem-se.
+ EMENTA
