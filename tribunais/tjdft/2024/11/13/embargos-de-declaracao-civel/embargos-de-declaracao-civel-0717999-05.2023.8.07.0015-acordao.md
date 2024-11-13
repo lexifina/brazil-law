@@ -1,0 +1,94 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0717999-05.2023.8.07.0015APELANTE(S)SAGE BRASILIA CONSULTORIA E PROJETOS EM ENERGIA E MEIO AMBIENTE LTDA - MEAPELADO(S)SAGE BRASILIA CONSULTORIA E PROJETOS EM ENERGIA E MEIO AMBIENTE LTDA - MERelatorDesembargador JOAO EGMONT
+ Acórdão Nº1941990
+
+EMENTA
+
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO. PEDIDO DE RECUPERAÇÃO JUDICIAL. FASE POSTULATÓRIA. ARTIGOS 47, 48 E 51 DA LEI N. 11.101/2005. LAUDO PERICIAL DE CONSTATAÇÃO. REQUISITOS NÃO PREENCHIDOS. PROCESSAMENTO. INDEFERIMENTO. HONORÁRIOS PERICIAIS. ALEGAÇÃO DE DESPORPORCIONALIDADE. AUSÊNCIA DE COMPROVAÇÃO. ART. 1.022 DO CPC. CONTRADIÇÃO. OMISSÃO. VÍCIOS NÃO CARACTERIZADOS. EMBARGOS REJEITADOS.
+
+1. Cuida-se de embargos de declaração, opostos contra acórdão, o qual negou provimento ao apelo e manteve a sentença de indeferimento da petição inicial e do processamento da recuperação judicial, com fundamento nos art. 485, I, e art. 330, III, do CPC e art. 189 da Lei nº 11.101/05. 1.1. Nesta sede, a parte embargante aponta a existência dos vícios de contradição e omissão no acórdão embargado, pugnando pela manifestação explícita acerca dos pontos destacados.
+
+2. Nos termos do art. 1.022 do CPC, os embargos declaratórios têm por finalidade a eliminação de obscuridade, contradição e omissão existentes na decisão e, ainda, a correção de erro material. 2.1. Segundo o Superior Tribunal de Justiça (STJ), “a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado” (REsp n.º 1.250.367/RJ, Rel. Min. Eliana Calmon, Segunda Turma, DJE de 22/8/2013). 2.2. Assim, a suposta contradição entre o acórdão e a lei, a doutrina, a jurisprudência, o fato ou a prova não é adequada para esse fim. 2.3. Lado outro, a omissão, para os fins de acolhimento dos declaratórios, ocorre quando a decisão “se omite sobre ponto que se deveria pronunciar para resolver a questão. (...). De si só, o fato de haver fundamento da parte não expressamente examinado pela decisão não significa que haja omissão apta a ensejar provimento de embargos de declaração” (in Processo Civil: Fundamentos do Procedimento Ordinário, Mario Machado Vieira Netto, Ed. Guerra, Brasília/2011).
+
+3. Apesar dos argumentos apresentados, verifica-se inexistir contradição no tocante à apreciação do pleito de nulidade da sentença, porquanto o decisum: I) estabeleceu a necessidade de observância aos princípios do contraditório e da ampla defesa como premissa, bem como do artigo 373 do CPC, o qual dispõe sobre ônus probatório; II) verificou ter sido o laudo pericial foi submetido à apreciação da parte, nos termos da certidão especificada, tendo a empresa se limitado a impugnar o valor dos honorários e a requerer prazo para nomeação de um assistente técnico, sem tecer comentários quanto ao fato de estar sem atividade e com as suas instalações fechadas, nada comentando, de igual modo, em relação à constatação de ausência de documentação específica e necessária para a apreciação do pedido; III) acrescentou a tal circunstância o fato de a própria Lei n. 11.101/05 determinar que a impugnação à referida decisão deverá ser apresentada por meio de recurso (art. 51-A, § 4º); IV) concluiu, diante do contexto narrado, pela ausência de mitigação do contraditório e desrespeito à ampla defesa, quando a decisão foi submetida à apreciação da parte e a própria norma lhe assegura a impugnação da decisão meio do recurso cabível, ensejando a rejeição da preliminar. Não há, portanto, qualquer contradição interna acerca do tema. 3.1. Ademais, ao contrário do alegado, inexiste omissão acerca de eventual aplicação do art. 321 do CPC e quanto os princípios norteadores da recuperação judicial.  3.2. O aresto foi claro ao expor o regramento contido na Lei n. 11.101/05, tendo consignado expressamente os requisitos a serem atendidos pelo devedor no momento do pedido de recuperação judicial, além da adequada instrução da petição inicial. 3.3. Em seguida, o acórdão anotou, de forma inteligível, ter sido realizada perícia, em observância à Recomendação nº 57/2019 do CNJ, bem como ao art. 51-A da Lei n. 11.101/2005, a fim de verificar o efetivo e atual exercício da atividade empresarial e a apresentação da documentação exigida por lei, oportunidade na qual foi constatada pela expert não apenas a falta de documentos essenciais, mas também a presença de documentos que “geram incertezas sobre os dados apresentados”, a impossibilidade de identificar o cumprimento do papel social da requerente em relação a manutenção de empregos, além da impossibilidade de averiguar o funcionamento da empresa, dada a frustração das diligências in loco. 3.4. Diante disso, o julgado foi expresso ao afirmar que conjuntamente consideradas as observações da perita, não haveria se falar em oportunidade para emenda da inicial, em aplicação subsidiária do art. 321 do CPC, como pretende a autora. Ainda, foi colacionada jurisprudência deste TJDFT corroborando ser cabível o indeferimento do processamento da recuperação judicial quando não preenchidas as condições legalmente impostas. 3.5. Por fim, no tocante à impugnação aos honorários periciais, foi devidamente justificada a inaplicabilidade do limite fixado pela Portaria Conjunta 101/2016 desta Corte, porquanto destinada tão somente ao valor cabível à parte beneficiária de justiça gratuita, não podendo, a toda evidência, a autora se valer dos mesmos critérios para reduzir a remuneração arbitrada. 3.6. Adicionalmente, foi evidenciado o entendimento deste TJDFT acerca da necessidade de demonstração concreta, pelo requerente, do excesso alegado quando endereçado o pleito pela minoração dos honorários, ônus do qual a parte não se desincumbiu, considerando não ter juntado aos autos qualquer outro orçamento que pudesse servir de parâmetro comparativo para embasar sua impugnação. Devidamente afastados, ainda, o parâmetro de R$6.000,00, correspondente a depósito realizado em anterior pedido de recuperação e o critério do número de horas trabalhadas analisado isoladamente, sendo o fato de a impugnante se encontrar em recuperação insuficiente, por si só, para afastar a proposta. Não existindo a demonstração fática de que o pagamento do montante pedido pelo perito comprometeria suas atividades e a própria recuperação judicial, o aresto consignou ser o caso de manutenção da sentença recorrida.
+
+4. Embora não se tenha chegado à conclusão almejada pela parte, a matéria foi objeto de apreciação coerente e didática, sendo desnecessários maiores esclarecimentos. Ademais, o magistrado não está obrigado a refutar todas as alegações das partes, máxime quando tenha chegado a uma conclusão baseada em motivo suficiente para fundar de forma lógica o seu posicionamento. 4.1. Portanto, ausentes os requisitos do art. 1.022 do Código de Processo Civil, impõe-se a rejeição dos presentes embargos declaratórios, porquanto não encontrados na decisão embargada vícios de omissão, contradição ou obscuridade.
+
+5. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, JOAO EGMONT - Relator, HECTOR VALVERDE SANTANNA - 1º Vogal e ALVARO CIARLINI - 2º Vogal, sob a Presidência do Senhor Desembargador RENATO RODOVALHO SCUSSEL, em proferir a seguinte decisão: RECURSO CONHECIDO E DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 13 de Novembro de 2024
+
+Desembargador JOAO EGMONTRelator
+
+RELATÓRIO
+
+Cuida-se de embargos de declaração, opostos por SAGE BRASILIA CONSULTORIA E PROJETOS EM ENERGIA E MEIO AMBIENTE LTDA - ME, contra acórdão de ID 63557405, o qual negou provimento ao apelo interposto em face de sentença de indeferimento da petição inicial e do processamento da recuperação judicial pleiteada.
+
+Nesta sede, a parte embargante aponta a existência dos vícios de contradição e omissão no acórdão embargado. Sustenta existir contradição no tocante à apreciação do pleito de nulidade da sentença, porquanto, diferentemente do sustentando no julgado, o laudo pericial não foi oportunizado, de fato, à embargante. Reafirma ter sido o seu direito de apresentar manifestação e provas tolhido, pois não oportunizada a ratificação do cenário de aguda crise em suas contas. Aduz não ter se limitado à impugnação dos honorários periciais, mas esperava, em razão da marcha processual adequada, ser intimada a apresentar manifestação quanto a todos os pontos colacionados pelo expert, bem como nomear assistente técnico. Entende não ter sido frontalmente apreciado o tema relacionado à mitigação da regra processual do artigo 373, do CPC. Alega, ainda, a ocorrência de omissão acerca da obrigação inscrita no artigo 321, do CPC e sobre a documentação juntada horas antes da decisão de extinção processual, bem como quanto aos princípios norteadores da recuperação judicial, devidamente comprovados para autorizar o processamento do pedido inicial. Finalmente, suscita omissão relativa à falta de razoabilidade dos honorários periciais, sendo o ônus de provar a regularidade da expert, e não da embargante (ID 64023891).
+
+É o relatório.
+
+Peço dia para julgamento.
+
+VOTOS
+
+O Senhor Desembargador JOAO EGMONT - Relator
+
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+Cuida-se de embargos de declaração, opostos por SAGE BRASILIA CONSULTORIA E PROJETOS EM ENERGIA E MEIO AMBIENTE LTDA - ME, contra acórdão de ID 63557405, o qual negou provimento ao apelo interposto em face de sentença de indeferimento da petição inicial e do processamento da recuperação judicial pleiteada.
+
+Nesta sede, a parte embargante aponta a existência dos vícios de contradição e omissão no acórdão embargado. Sustenta existir contradição no tocante à apreciação do pleito de nulidade da sentença, porquanto, diferentemente do sustentando no julgado, o laudo pericial não foi oportunizado, de fato, à embargante. Reafirma ter sido o seu direito de apresentar manifestação e provas tolhido, pois não oportunizada a ratificação do cenário de aguda crise em suas contas. Aduz não ter se limitado à impugnação dos honorários periciais, mas esperava, em razão da marcha processual adequada, ser intimada a apresentar manifestação quanto a todos os pontos colacionados pelo expert, bem como nomear assistente técnico. Entende não ter sido frontalmente apreciado o tema relacionado à mitigação da regra processual do artigo 373, do CPC. Alega, ainda, a ocorrência de omissão acerca da obrigação inscrita no artigo 321, do CPC e sobre a documentação juntada horas antes da decisão de extinção processual, bem como quanto aos princípios norteadores da recuperação judicial, devidamente comprovados para autorizar o processamento do pedido inicial. Finalmente, suscita omissão relativa à falta de razoabilidade dos honorários periciais, sendo o ônus de provar a regularidade da expert, e não da embargante (ID 64023891).
+
+Nos termos do art. 1.022 do CPC, os embargos declaratórios têm por finalidade a eliminação de obscuridade, contradição e omissão existentes na decisão e, ainda, a correção de erro material.
+
+Segundo o Superior Tribunal de Justiça (STJ), “a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado” (REsp n.º 1.250.367/RJ, Rel. Min. Eliana Calmon, Segunda Turma, DJE de 22/8/2013).
+
+Assim, a suposta contradição entre o acórdão e a lei, a doutrina, a jurisprudência, o fato ou a prova não é adequada para esse fim.
+
+Lado outro, a omissão, para os fins de acolhimento dos declaratórios, ocorre quando a decisão “se omite sobre ponto que se deveria pronunciar para resolver a questão. (...). De si só, o fato de haver fundamento da parte não expressamente examinado pela decisão não significa que haja omissão apta a ensejar provimento de embargos de declaração” (in Processo Civil: Fundamentos do Procedimento Ordinário, Mario Machado Vieira Netto, Ed. Guerra, Brasília/2011).
+
+No caso dos autos, o acórdão negou provimento ao apelo, confirmando a sentença, a qual indeferiu a petição inicial e o processamento da recuperação judicial, com fundamento nos art. 485, I, e art. 330, III, do CPC e art. 189 da Lei nº 11.101/05.
+
+Apesar dos argumentos apresentados, verifica-se inexistir contradição no tocante à apreciação do pleito de nulidade da sentença, porquanto o decisum: I) estabeleceu a necessidade de observância aos princípios do contraditório e da ampla defesa como premissa, bem como do artigo 373 do CPC, o qual dispõe sobre ônus probatório; II) verificou ter sido o laudo pericial foi submetido à apreciação da parte, nos termos da certidão de ID 53850337, tendo a empresa se limitado a impugnar o valor dos honorários e a requerer prazo para nomeação de um assistente técnico (ID 53850341), sem tecer comentários quanto ao fato de estar sem atividade e com as suas instalações fechadas, nada comentando, de igual modo, em relação à constatação de ausência de documentação específica e necessária para a apreciação do pedido; III) acrescentou a tal circunstância o fato de a própria Lei n. 11.101/05 determinar que a impugnação à referida decisão deverá ser apresentada por meio de recurso (art. 51-A, § 4º); IV) concluiu, diante do contexto narrado, pela ausência de mitigação do contraditório e desrespeito à ampla defesa, quando a decisão foi submetida à apreciação da parte e a própria norma lhe assegura a impugnação da decisão meio do recurso cabível, ensejando a rejeição da preliminar. Não há, portanto, qualquer contradição interna acerca do tema.
+
+Ademais, ao contrário do alegado, inexiste omissão acerca de eventual aplicação do art. 321 do CPC e quanto os princípios norteadores da recuperação judicial.
+
+O aresto foi claro ao expor o regramento contido na Lei n. 11.101/05, tendo consignado expressamente os requisitos a serem atendidos pelo devedor no momento do pedido de recuperação judicial, além da adequada instrução da petição inicial.
+
+Em seguida, o acórdão anotou, de forma inteligível, ter sido realizada perícia, em observância à Recomendação nº 57/2019 do CNJ, bem como ao art. 51-A da Lei n. 11.101/2005, a fim de verificar o efetivo e atual exercício da atividade empresarial e a apresentação da documentação exigida por lei, oportunidade na qual foi constatada pela expert não apenas a falta de documentos essenciais, mas também a presença de documentos que “geram incertezas sobre os dados apresentados”, a impossibilidade de identificar o cumprimento do papel social da requerente em relação a manutenção de empregos, além da impossibilidade de averiguar o funcionamento da empresa, dada a frustração das diligências in loco.
+
+Diante disso, o julgado foi expresso ao afirmar que conjuntamente consideradas as observações da perita, não haveria se falar em oportunidade para emenda da inicial, em aplicação subsidiária do art. 321 do CPC, como pretende a autora. Ainda, foi colacionada jurisprudência deste TJDFT corroborando ser cabível o indeferimento do processamento da recuperação judicial quando não preenchidas as condições legalmente impostas.
+
+Por fim, no tocante à impugnação aos honorários periciais, foi devidamente justificada a inaplicabilidade do limite fixado pela Portaria Conjunta 101/2016 desta Corte, porquanto destinada tão somente ao valor cabível à parte beneficiária de justiça gratuita, não podendo, a toda evidência, a autora se valer dos mesmos critérios para reduzir a remuneração arbitrada.
+
+Adicionalmente, foi evidenciado o entendimento deste TJDFT acerca da necessidade de demonstração concreta, pelo requerente, do excesso alegado quando endereçado o pleito pela minoração dos honorários, ônus do qual a parte não se desincumbiu, considerando não ter juntado aos autos qualquer outro orçamento que pudesse servir de parâmetro comparativo para embasar sua impugnação. Devidamente afastados, ainda, o parâmetro de R$6.000,00, correspondente a depósito realizado em anterior pedido de recuperação e o critério do número de horas trabalhadas analisado isoladamente, sendo o fato de a impugnante se encontrar em recuperação insuficiente, por si só, para afastar a proposta. Não existindo a demonstração fática de que o pagamento do montante pedido pelo perito comprometeria suas atividades e a própria recuperação judicial, o aresto consignou ser o caso de manutenção da sentença recorrida.
+
+Assim, embora não se tenha chegado à conclusão almejada pela parte, a matéria foi objeto de apreciação coerente e didática, sendo desnecessários maiores esclarecimentos. Ademais, o magistrado não está obrigado a refutar todas as alegações das partes, máxime quando tenha chegado a uma conclusão baseada em motivo suficiente para fundar de forma lógica o seu posicionamento.
+
+Por fim, os embargos de declaração não constituem recurso adequado para o reexame de questões já decididas, restringindo-se exclusivamente às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, sanar omissão, contradição, obscuridade e erro material.
+
+Nesse sentido:
+
+“EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. OMISSÃO. INEXISTÊNCIA DO VÍCIO. NÍTIDO PROPÓSITO DE REDISCUTIR A MATÉRIA. VIA PROCESSUAL INADEQUADA. Os embargos de declaração são cabíveis exclusivamente para sanar eventual vício de fundamentação da decisão embargada, consubstanciado em obscuridade, contradição, omissão ou erro material, conforme art. 1.022 do CPC. Tendo o acórdão enfrentado todas as questões de fato e de direito deduzidas pelas partes, não há que se falar em omissão, sendo incabíveis os embargos de declaração para fins de reexame de mérito. A irresignação da parte quanto à justiça da decisão e a pretensão de reforma daí decorrente devem ser manifestadas pela via processual adequada, não se prestando os embargos de declaração ao atendimento dessa finalidade.” (00360608520098070001, Relatora: Carmelita Brasil, 2ª Turma Cível, DJE: 01/12/2020) - g.n.
+
+Portanto, ausentes os requisitos do art. 1.022 do Código de Processo Civil, impõe-se a rejeição dos presentes embargos declaratórios, porquanto não encontrados na decisão embargada vícios de omissão, contradição ou obscuridade.
+
+Finalmente, na forma do art. 1.026, § 2º, do CPC, a oposição (e reiteração) de embargos protelatórios pode levar à condenação da embargante ao pagamento de multa em favor da parte embargada.
+
+REJEITO os embargos de declaração.
+
+É como voto.
+
+O Senhor Desembargador HECTOR VALVERDE SANTANNA - 1º Vogal Com o relatorO Senhor Desembargador ALVARO CIARLINI - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSO CONHECIDO E DESPROVIDO. UNÂNIME.
