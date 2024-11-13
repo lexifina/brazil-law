@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2024 a 13/11/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO. REITERAÇÃO DE PEDIDO. MANUTENÇÃO DA PRISÃO NA SENTENÇA CONDENATÓRIA. DESNECESSIDADE DE FUNDAMENTAÇÃO EXAUSTIVA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A alegação acerca da ausência de fundamentação da prisão preventiva não merece prosperar, uma vez que se trata de mera reiteração de pedido formulado no HC n. 895.083/PR, cuja ordem foi denegada, mantida a decisão no julgamento do agravo regimental, em acórdão publicado em 3/10/2024.
+2. No caso, o Magis trado singular, na sentença condenatória, ressaltou que persistem os motivos que autorizaram a decretação da prisão preventiva.
+3. O Superior Tribunal de Justiça fixou entendimento de que "a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1º, do Código de Processo Penal, declinar que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma" (AgRg no RHC n. 187.138/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/10/2023, DJe de 10/10/2023).
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por VICTOR FERREIRA DE SOUZA contra a decisão de fls. 976-978, que denegou a ordem de habeas corpus.
+Nas razões deste recurso, a defesa reitera os termos da inicial e aduz que a prisão do agravante é ilegal, tendo em vista a ausência de fundamentação das decisões judiciais proferidas na origem.
+Requer o acolhimento do agravo, pretendendo a revogação da prisão preventiva, mediante a aplicação de medidas cautelares diversas do cárcere.
+Impugnação apresentada com o pedido de desprovimento do agravo.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO. REITERAÇÃO DE PEDIDO. MANUTENÇÃO DA PRISÃO NA SENTENÇA CONDENATÓRIA. DESNECESSIDADE DE FUNDAMENTAÇÃO EXAUSTIVA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A alegação acerca da ausência de fundamentação da prisão preventiva não merece prosperar, uma vez que se trata de mera reiteração de pedido formulado no HC n. 895.083/PR, cuja ordem foi denegada, mantida a decisão no julgamento do agravo regimental, em acórdão publicado em 3/10/2024.
+2. No caso, o Magis trado singular, na sentença condenatória, ressaltou que persistem os motivos que autorizaram a decretação da prisão preventiva.
+3. O Superior Tribunal de Justiça fixou entendimento de que "a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1º, do Código de Processo Penal, declinar que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma" (AgRg no RHC n. 187.138/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/10/2023, DJe de 10/10/2023).
+4. Agravo regimental improvido.
+VOTO
+A pretensão recursal não pode ser acolhida, pois os argumentos trazidos no agravo regimental não demonstram desacerto da decisão que denegou a ordem de habeas corpus.
+Consoante relatado, a defesa busca o acolhimento do agravo, pretendendo a revogação da prisão preventiva, mediante a aplicação de medidas cautelares diversas do cárcere.
+A decisão que denegou o habeas corpus foi assim fundamentada (fls. 977-978):
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Inicialmente, em consulta ao sistema processual eletrônico desta Corte, constata-se que a alegação acerca da ausência de fundamentação da prisão preventiva não merece prosperar, uma vez que se trata de mera reiteração de pedido formulado no HC n. 895083/PR. Naquele feito, o habeas corpus foi denegado ante a presença de fundamentação idônea do decreto de prisão preventiva.
+A sentença, no que se refere à prisão preventiva, assim consignou (fl. 771):
+Ante o exposto, PRONUNCIO o acusado Victor Ferreira de Souza, como incurso no artigo 121, § 2º, incisos I e IV, do Código Penal, para o fim de submetê-lo a julgamento pelo Tribunal do Júri.
+3.1. Diante desta decisão e considerando que os motivos que ensejaram a decretação da custódia preventiva do denunciado Victor não se alteraram, a manutenção da decisão que decretou a prisão cautelar é imperativa, de modo a se preservar a ordem pública e evitar que, em liberdade, volte a delinquir. Sem prejuízo, a medida visa impedir que o acusado, se solto, possa intimidar testemunhas que eventualmente sejam intimadas a depor em plenário, de modo que a necessidade da prisão cautelar ainda subsiste pela conveniência da instrução penal.
+Nesse sentido: " ..  A manutenção da custódia cautelar por ocasião da decisão de pronúncia, invocando os argumentos do primitivo decreto, cuja regularidade já foi reconhecida por esta Corte, não caracteriza ilegalidade" (TJPR - 1ª C.Criminal - HCC - 1349735-3 - Cascavel - Rel.: Campos Marques - Unânime - J. 16.04.2015).
+No mais, à luz da vigência da Lei n. 12.043/11, que alterou o Código de Processo Penal, vislumbra-se que as medidas cautelares diversas da prisão (art. 319 do CPP) são inadequadas e insuficientes, tendo em vista que a constrição à liberdade do denunciado é medida imprescindível.
+Por fim, consigno que resta a prisão aqui revisada para os fins do artigo 316, parágrafo único, do CPP, devendo nas próximas ocasiões a Secretaria observar a Portaria de n. 34/2021. Anote-se.
+E assim consignou o Tribunal de origem (fl. 46):
+No caso da espécie, esta Primeira Câmara, no julgamento de anterior impetração em favor do Paciente, já reconheceu a legalidade da prisão preventiva e, por consequência, a inviabilidade de sua substituição por providências cautelares alternativas.
+Inexistindo, neste momento, fato novo hábil a autorizar a revogação da medida decretada, não se revela ilegal ou arbitrária sua manutenção, dada a imprescindibilidade para garantia da ordem pública.
+Com efeito e uma vez mais, a gravidade in concreto do irrogado homicídio - a qual teria sido praticado em concurso de agentes e mediante 35 disparos de arma de fogo contra a Vítima, supostamente motivado por "disputa das organizações criminosas no domínio do tráfico de drogas no Município de Mariluz" - justifica o encarceramento do Paciente.
+A jurisprudência desta Corte Superior pacificou o entendimento de que a manutenção da custódia cautelar no momento da sentença condenatória, nos casos em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente ao entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do Código de Processo Penal (AgRg no RHC 116.112/MS, Rel. Min. Laurita Vaz, 6ª T. STJ, DJe 10/12/2019.).
+Assim, presentes os requisitos ensejadores da prisão preventiva, não havendo alteração fática ou jurídica, resta demonstrada a necessidade de garantia da ordem pública, de rigor a manutenção da prisão preventiva decretada em desfavor do paciente. Outrossim, informo que as medidas cautelares diversas da prisão não são cabíveis no caso pelos mesmos motivos expostos na decisão do habeas corpus anteriormente impetrado.
+Ante o exposto, denego o habeas corpus.
+Conforme consignado na decisão agravada, a alegação acerca da ausência de fundamentação da prisão preventiva não merece prosperar, uma vez que se trata de mera reiteração de pedido formulado no HC n. 895.083/PR, cuja ordem foi denegada, mantida a decisão no julgamento do agravo regimental, em acórdão publicado em 3/10/2024.
+Ademais, acerca da manutenção da prisão preventiva na sentença condenatória, esta Corte Superior fixou o seguinte entendimento:
+ ..  a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1.º, do Código de Processo Penal, declinar que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma.
+(AgRg no RHC n. 187.138/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/10/2023, DJe de 10/10/2023.)
+Nesse contexto, não há que se falar em ilegalidade a ser sanada, sobretudo porquanto, na sentença, o Magistrado ressaltou que persistem os motivos que autorizaram a decretação da prisão preventiva.
+Dessa forma, o agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
