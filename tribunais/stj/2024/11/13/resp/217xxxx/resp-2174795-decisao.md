@@ -1,0 +1,43 @@
+DECISÃO
+Examina-se recurso especial interposto por GLOBAL CONSULTORIA IMOBILIARIA LTDA. EM RECUPERACAO JUDICIAL INCORPORADOR DO, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/SP.
+Recurso especial interposto em: 26/06/2024.
+Concluso ao Gabinete em: 15/10/2024.
+Ação: de obrigação de fazer cumulada com reparação de danos materiais e compensação de danos morais, ajuizada por TANIA LUCIA DE LEMOS FERREIRA, em desfavor da recorrente, de PDG REALTY S/A EMPREENDIMENTOS E PARTICIPAÇÕES e da CAIXA ECONÔMICA FEDERAL (excluída da lide), tendo em vista atraso na entrega de imóvel adquirido por meio do Programa Minha Casa Minha Vida.
+Sentença: julgou parcialmente procedentes os pedidos, a fim de (i) condenar a recorrente à restituição dos valores pagos a título de comissão de corretagem, de forma simples; (ii) condenar a PDG REALTY S/A EMPREENDIMENTOS E PARTICIPAÇÕES ao pagamento de R$ 32.098,06 (trinta e dois mil, noventa e oito reais e seis centavos) a título de danos materiais; e (iii) declarar a não aplicação da correção do saldo devedor pelo INCC, quando superar o IGP-M, a partir de março/2011, data prevista em contrato para a expedição do Habite-se.
+Acórdão: deu parcial provimento à apelação interposta pela recorrida; e negou provimento às apelações interpostas pela recorrente e pela PDG REALTY S/A EMPREENDIMENTOS E PARTICIPAÇÕES, nos termos da seguinte ementa:
+AÇÃO DE OBRIGAÇÃO DE FAZER CC. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. Compromisso de compra e venda. Atraso na entrega. Sentença de parcial procedência.
+Apelo da corré PDG sustentando preliminarmente a ilegitimidade passiva para devolução da comissão de corretagem; o feito deve ser extinto em razão da recuperação judicial.
+Apelo da corré Global alegando a desconformidade da sentença com o entendimento esboçado pelo STJ que reconhece a validade da cláusula que transfere ao consumidor a obrigação de pagamento da comissão de corretagem; a prescrição trienal.
+Apelo da autora para alegar a nulidade do prazo de tolerância de 180 dias e pugnar pela condenação das rés à indenização por danos morais e lucros cessantes.
+Cabimento parcial do apelo da autora. Descabimento dos apelos das rés. Impossibilidade de extinção do feito, ação em fase de conhecimento. Legitimidade passiva e responsabilidade solidária. Comissão de corretagem é válida desde que o valor referente à intermediação imobiliária seja destacado, circunstância inexistente no compromisso de compra e venda. Não há demonstração da ciência da contratação do serviço. Pretensão de devolução não acobertada pela prescrição trienal. Ausência de nulidade do prazo de tolerância de 180 dias. Inversão de cláusula penal imposta pela sentença a fim de indenizar materialmente a autora, impossibilidade de cumulação com os lucros cessantes. Danos morais configurados.
+Recurso da autora parcialmente provido. Recurso das rés improvido (e-STJ fl. 928).
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta a violação dos arts. 206, § 3º, IV, 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC; 725 do CC; 6º, III, do CDC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, alega a prescrição da pretensão de devolução da comissão de corretagem, uma vez que o termo inicial do prazo prescricional de 3 (três) anos é a data de celebração do contrato. No mais, defende a legalidade da cobrança da comissão de corretagem, dado que o serviço de intermediação foi devidamente concluído, inclusive com a celebração da Promessa de Compra e Venda. Por fim, afirma que o dever de informação foi devidamente observado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022, II, parágrafo único, II, do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da obrigação da recorrente em devolver os valores pagos a título de comissão de corretagem dada a ausência de clara informação ao consumidor - o que, em verdade, tornaria despicienda a análise acerca de seu cabimento em razão da conclusão do negócio -, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489, § 1º, IV, do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 § 1º, IV, do CPC.
+- Da Súmula 568/STJ
+De acordo com a jurisprudência perfilhada por este STJ, à luz da teoria da actio nata, o termo inicial da prescrição da pretensão de restituição de valores pagos a título de comissão de corretagem é a data do efetivo pagamento. Nesse sentido: AgInt no REsp 1.764.019/SP, 4ª Turma, DJe 27/03/2023; AgInt no AREsp 1.741.583/SP, 3ª Turma, DJe 29/04/2021; AgInt no AREsp 1.580.114/SP, 3ª Turma, DJe 25/09/2020; AgInt no AREsp 1.630.011/SP, 4ª Turma, DJe 01/07/2020.
+Nessa perspectiva, tendo em vista a consonância entre o entendimento firmado neste STJ e o acórdão recorrido, aplica-se a Súmula 568/STJ.
+- Da fundamentação deficiente
+Os argumentos invocados pela recorrente não demonstram como o acórdão recorrido violou o art. 725 do CC, uma vez que o TJ/SP reconheceu a necessidade de restituição dos valores pagos a título de comissão de corretagem não em razão da não conclusão do negócio, mas em razão da violação do dever de informação ao consumidor.
+- Do reexame de fatos e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à violação do devedor de informação acerca da cobrança da comissão de corretagem, no caso concreto, exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, com fundamento no art. 932, III, e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% (quinze por cento) sobre o valor da condenação (e-STJ fl. 936) para 18% (dezoito por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL, CIVIL E CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. COMISSÃO DE CORRETAGEM. PRAZO PRESCRICIONAL. TRIENAL. TERMO INICIAL. EFETIVO PAGAMENTO. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA 284/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação e obrigação de fazer cumulada com reparação de danos materiais e compensação de danos morais, tendo em vista atraso na entrega de imóvel adquirido por meio do Programa Minha Casa Minha Vida.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. À luz da teoria da actio nata, o termo inicial da prescrição da pretensão de restituição de valores pagos a título de comissão de corretagem é a data do efetivo pagamento. Precedentes.
+5. A ausência de fundamentação ou a sua deficiência implica o não conhecimento do recurso quanto ao tema.
+6. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+7. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
