@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. EMBARGOS À EXECUÇÃO FISCAL. COMPENSAÇÃO INDEFERIDA NA VIA ADMINISTRATIVA INADEQUAÇÃO DA VIA ELEITA. CONVERSÃO DOS EMBARGOS À EXECUÇÃO EM AÇÃO ANULATÓRIA. MATÉRIA NÃO ALEGADA NAS RAZÕES DE RECURSO ESPECIAL. VEDADA INOVAÇÃO RECURSAL EM SEDE DE AGRAVO INTERNO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - A compensação indeferida na esfera administrativa não pode ser deduzida em embargos à execução fiscal, à luz do art. 16, § 3º, da Lei n. 6.830/1980. Precedentes.
+III - A pretensão de converter os embargos à execução fiscal em ação anulatória não foi alegada nas razões do recurso especial, configurando vedada inovação recursal em sede de agravo interno.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra a decisão, mediante a qual o recurso especial foi improvido.
+A Agravante sustenta, em síntese, que ao contrário do que afirma a r. decisão, o v. acórdão deixou de analisar argumentos essenciais ao deslinde da controvérsia,
+Alega que a decisão agravada desconsiderou o entendimento da Corte à época da oposição dos embargos à execução fiscal.
+Pugna pela conversão dos embargos à execução fiscal em ação anulatória.
+Requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Sem impugnação, consoante certidão à fl. 1.665e.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. EMBARGOS À EXECUÇÃO FISCAL. COMPENSAÇÃO INDEFERIDA NA VIA ADMINISTRATIVA INADEQUAÇÃO DA VIA ELEITA. CONVERSÃO DOS EMBARGOS À EXECUÇÃO EM AÇÃO ANULATÓRIA. MATÉRIA NÃO ALEGADA NAS RAZÕES DE RECURSO ESPECIAL. VEDADA INOVAÇÃO RECURSAL EM SEDE DE AGRAVO INTERNO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - A compensação indeferida na esfera administrativa não pode ser deduzida em embargos à execução fiscal, à luz do art. 16, § 3º, da Lei n. 6.830/1980. Precedentes.
+III - A pretensão de converter os embargos à execução fiscal em ação anulatória não foi alegada nas razões do recurso especial, configurando vedada inovação recursal em sede de agravo interno.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+VOTO
+A Decisão Agravada merece ser mantida por seus próprios fundamentos.
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas em seu art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Esposando tal entendimento, o precedente da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+3. No caso, entendeu-se pela ocorrência de litispendência entre o presente mandamus e a ação ordinária n. 0027812-80.2013.4.01.3400, com base em jurisprudência desta Corte Superior acerca da possibilidade de litispendência entre Mandado de Segurança e Ação Ordinária, na ocasião em que as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas.
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+(EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI - DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO -, PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+E depreende-se da leitura do acórdão integrativo que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v.g. Corte Especial, EDcl no AgRg nos EREsp 1431157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 11041181/SP, Rel. Min. Napoleão Nunes, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1334203/PR, Rel. Min. Assusete Magalhães, DJe de 2 4.06.2016).
+Quanto à questão de fundo, esta Corte firmou posicionamento na mesma linha do entendimento adotado no acórdão recorrido, segundo a qual não cabe discutir, em embargos à execução fiscal, a validade de compensação tributária não homologada na esfera administrativa.
+Nessa esteira:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. COMPENSAÇÃO. INDEFERIMENTO ADMINISTRATIVO. MATÉRIA DE DEFESA. INVIABILIDADE. DECADÊNCIA. PREJUDICIALIDADE.
+1. A Primeira Seção do Superior Tribunal de Justiça, em interpretação ao disposto no art. 16, § 3º, da Lei n. 6.830/1980, firmou orientação segundo a qual não cabe discutir, em embargos à execução fiscal, a validade de compensação tributária não homologada na esfera administrativa (EREsp 1.795.347/RJ, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 27/10/2021, DJe 25/11/2021).
+2. À míngua da possibilidade de debate, em embargos à execução fiscal, da legalidade da compensação indeferida na esfera administrativa, mostra-se prejudicada a discussão a respeito da validade dos créditos indicados pela ora agravante, que não foram considerados pela autoridade administrativa no encontro de contas, que se relacionam com a alegação de decadência do direito de revisão dos lançamentos contábeis.
+3. A "decadência" alegada pela parte agravante não constitui argumento autônomo, pois não se refere aos créditos tributários objeto da execução fiscal, relacionando-se com a possibilidade de a autoridade administrativa indeferir pedido de compensação mesmo diante de lançamentos que já teriam sido homologados tacitamente, de modo que não se trata, a rigor, de decadência do direito de constituir o crédito tributário, não cuidando de matéria de ordem pública.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.191.577/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/5/2024, DJe de 27/5/2024)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. EMBARGOS À EXECUÇÃO FISCAL. COMPENSAÇÃO TRIBUTÁRIA. INDEFERIMENTO ADMINISTRATIVO. UTILIZAÇÃO COMO MATÉRIA DE DEFESA IMPOSSIBILIDADE. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - Revela-se incabível apresentar como fundamento de defesa dos embargos à execução fiscal a compensação tributária indeferida na esfera administrativa, a teor do disposto no art. 16, § 3º, da Lei n. 6.830/1980. Precedentes.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp n. 2.040.549/SP, de minha relatoria, Primeira Turma, julgado em 2/5/2023, DJe de 4/5/2023.)
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. COMPENSAÇÃO DE PARCELAS INDEFERIDAS ADMINISTRATIVAMENTE. IMPOSSIBILIDADE. MATÉRIA PACIFICADA NO ÂMBITO DA PRIMEIRA SEÇÃO. SÚMULA N. 168/STJ.
+1. A Primeira Seção desta Corte pacificou o entendimento no sentido de que "não pode ser deduzida em embargos à execução fiscal, à luz do art. 16, § 3º, da Lei n. 6.830/1980, a compensação indeferida na esfera administrativa." (EREsp n. 1.795.347/RJ, relator Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 27/10/2021, DJe de 25/11/2021.)
+2. Não é possível afastar o óbice da Súmula 168 do STJ: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Agravo interno improvido.
+(AgInt nos EDcl nos EREsp n. 1.925.483/RJ, relator Ministro Humberto Martins, Primeira Seção, julgado em 16/11/2022, DJe de 30/11/2022.)
+A pretensão de converter os embargos à execução fiscal em ação anulatória não foi alegada nas razões do recurso especial, configurando vedada inovação recursal em sede de agravo interno.
+Esta Corte tem posicionamento consolidado segundo o qual é vedada a inovação recursal em sede de agravo interno ou embargos de declaração, apresentando matéria não alegada no recurso especial.
+Nessa linha:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL ALEGAÇÃO GENÉRICA. INOVAÇÃO RECURSAL. VEDAÇÃO. VIOLAÇÃO DO PRINCÍPIO DA NÃO SURPRESA. INEXISTÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVA. IMPOSSIBILIDADE. JURISPRUDÊNCIA DO STJ. CONFORMIDADE.
+1. A alegação genérica de ofensa ao art. 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+2. É vedada a inovação recursal no âmbito do agravo interno, mediante o suscitar de questão não ventilada no apelo especial, haja vista a preclusão consumativa.
+3. Não caracteriza decisão surpresa (art. 10 do CPC/2015) o acórdão que trata de questão sobre a qual o recorrente efetivamente se manifestou durante todo o processo.
+4. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando o Tribunal de origem não emite juízo de valor sobre a tese relacionada aos dispositivos de lei supostamente violados, mesmo após opostos embargos de declaração.
+5. O recurso especial não se presta para o reexame do contexto fático-probatório delineado no acórdão recorrido. Inteligência da Súmula 7 do STJ.
+6. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice de conhecimento estampado na sua Súmula 83.
+7. Agravo interno desprovido
+.(AgInt no REsp n. 2.136.821/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024.)
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvime nto do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao recurso.
