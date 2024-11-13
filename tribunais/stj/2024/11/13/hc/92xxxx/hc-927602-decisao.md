@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de THIAGO ALMEIDA DO NASCIMENTO - condenado como incurso no delito de tráfico de drogas -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus Criminal n. 2128499-31.2024.8.26.0000), não comporta acolhimento.
+Com efeito, busca a impetração a nulidade das provas e a absolvição do paciente, na Ação Penal que tramitou perante o Juízo da 2ª Vara do Foro de São Joaquim da Barra/SP (Ação Penal n. 1500416-84.2024.8.26.0572), aos argumentos de ilegalidade nas buscas pessoal e veicular, por ausência de justa causa ou fundada suspeita para as diligências policiais (fls. 3/8).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois os policiais estavam fazendo patrulhamento de rotina quando avistaram um veículo, parado na contramão, em via pública, próximo da meia-noite, razão pela qual decidiram fazer a abordagem e se deparam com o paciente demonstrando nervosismo. No banco da frente, foi avistada uma trouxinha de maconha e, no interior do veículo, apreendidas mais substâncias, embaladas para venda (fls. 145/147 e 172).
+No mesmo sentido: a busca pessoal e veicular realizada foi legalmente fundamentada em fundada suspeita, originada pelo comportamento suspeito do acusado durante patrulhamento policial, que resultou na apreensão de grande quantidade de drogas. O nervosismo do réu, somado ao fato de que ele deixou o veículo sem ser visto pelos policiais, justificou a abordagem, conforme jurisprudência desta Corte (AgRg nos EDcl no RHC 169.198/PR, Ministra Daniela Teixeira, Quinta Turma, DJe 30/10/2024).
+Assim, inexistente flagrante ilegalidade na abordagem policial. Ademais, para entender que os fatos não se deram exatamente da forma como apresentados pelas instâncias ordinárias seria necessário o reexame de provas, o que se mostra inviável em sede de habeas corpus.
+Em face do exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL E VEICULAR. FUNDADA SUSPEITA. EXISTÊNCIA. PATRULHAMENTO DE ROTINA E NERVOSISMO. CONCLUSÃO INVERSA. REEXAME DE PROVAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
