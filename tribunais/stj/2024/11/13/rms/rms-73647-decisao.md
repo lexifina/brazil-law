@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por Alberica Lima Vieira Oliveira contra o acórdão de fls. 908/930, proferido à unanimidade pelo órgão plenário do Tribunal de Justiça do Estado de Sergipe, resumido pela seguinte ementa:
+MANDADO DE SEGURANÇA CÍVEL. MUNICÍPIO DE PEDRINHAS/SE. REVOGAÇÃO DO IRDR DE Nº 202000127675 DESTA CORTE DE JUSTIÇA. NECESSIDADE DE SER OBSERVADA A DECISÃO PROFERIDA PELO STF QUANDO DO JULGAMENTO DA TEMA 1.150 DO STF. APOSENTADORIA COMO MEIO DE DECLARAÇAO DE VACÂNCIA DO CARGO PÚBLICO. ART. 52, V, DA LEI MUNICIPAL Nº 103/2011 (ESTATUTO DO SERVIDOR DO MUNICÍPIO DE PEDRINHAS/SE). IMPOSSIBILIDADE DE CUMULAÇÃO. DESNECESSIDADE DE PROCESSO ADMINISTRATIVO PARA EXONERAÇÃO EM CASOS DE MESMA SIMILARIDADE. PRECEDENTES DESTA CORTE DE JUSTIÇA. DENEGAÇÃO DA SEGURANÇA. UNANIMIDADE. (fls. 915/916).
+Nas razões recursais, fls. 979/985, a recorrente alega ofensa a direito adquirido, ao argumento de que "a tese fixada pelo Supremo Tribunal Federal, notadamente o tema 1150, conflita com a disposição do art. 6º, da EC de nº. 103/19, haja vista que a referida tese possibilita o rompimento do vínculo do servidor aposentado pelo RGPS, ainda que a aposentadoria tenha ocorrido em data anterior a fixação do entendimento, em flagrante violação ao instituto do direito adquirido (art. 5º, inciso XXXVI, da CF/88)" (fl. 983) e que a exoneração sem prévia instauração de processo administrativo disciplinar violou o art. 41 da Constituição Federal e a Súmula 20/STF, razões pelas quais requer a reforma do julgado.
+Recurso sem contrarrazões.
+O Ministério Público Federal, pelo Subprocurador-Geral da República Rogério de Paiva Navarro, manifestou-se pelo não conhecimento / não provimento do recurso, consoante as razões declinadas no parecer de fls. 1.028/1.036, resumido pela seguinte ementa:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. REINTEGRAÇÃO DE SERVIDOR PÚBLICO EXONERADO DO CARGO EM RAZÃO DE SUA APOSENTADORIA. TEMA Nº 1.150/RG. PREVISÃO ESPECÍFICA NA LEGISLAÇÃO MUNICIPAL QUANTO À VACÂNCIA DO CARGO EM DECORRÊNCIA DA APOSENTADORIA VOLUNTÁRIA. IMPOSSIBILIDADE DE REINTEGRAÇÃO AO MESMO CARGO PÚBLICO APÓS APOSENTADORIA, SEM APROVAÇÃO EM CONCURSO PÚBLICO. PRECEDENTE DO STF E STJ. DIREITO ADQUIRIDO NÃO CONFIGURADO. AUSÊNCIA DE PROCESSO ADMINISTRATIVO DISCIPLINAR. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DO ACÓRDÃO. INCIDÊNCIA DA SÚMULA 283/STF, POR ANALOGIA. PARECER PELO IMPROVIMENTO DO RECURSO. (fl. 1.028).
+Benefício de gratuidade de justiça requerido na origem (fl. 401).
+Representação regular (fl. 16).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Consoante expressamente prevê o art. 932, inciso III, do Código de Processo Civil, "incumbe ao relator  ..  não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Na hipótese que ora se examina, a Corte Estadual denegou a ordem por entender que a exoneração combatida decorreu de expressa previsão legal, contida no Estatuto dos Servidores Municipais.
+Nas razões recursais, ainda que expresse seu descontentamento, certo é que a recorrente não aponta razões jurídicas para tentar desconstituir este específico fundamento invocado pelo Tribunal, pelo que, como bem aponta o parecer ministerial, o principal esteio do aresto foi deixado sem combate.
+Essa irregularidade, porque violadora do princípio da dialeticidade, impede o conhecimento do recurso. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 932, III, DO CPC.
+1. A viabilidade do recurso ordinário pressupõe a demonstração de erro na concatenação dos juízos expostos na fundamentação do acórdão recorrido, não se mostrando suficiente a mera insurgência contra o comando contido no dispositivo, como, no caso, a denegação da ordem.
+2. Nas hipóteses em que as razões recursais não infirmam a totalidade dos fundamentos do acórdão recorrido, é dever, e não faculdade do Relator, não conhecer do recurso. Inteligência do art. 932, III, do CPC. Precedentes.
+3. Na hipótese ora examinada, apesar das alegações que agora faz o agravante, certo é que, nas razões do recurso ordinário, se limitou a discordar do acórdão recorrido e insistir nas teses da própria impetração.
+4. Agravo interno não provido.
+(AgInt no RMS 66.918/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 15/10/2021)
+ANTE O EXPOSTO, e com fundamento no art. 932, III, do CPC, não conheço do presente recurso ordinário, em razão da ausência de impugnação específica e integral dos fundamentos do acórdão recorrido.
+Publique-se.
+EMENTA
