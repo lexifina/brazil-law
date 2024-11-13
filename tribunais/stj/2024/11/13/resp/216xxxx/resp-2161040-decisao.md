@@ -1,0 +1,33 @@
+DECISÃO
+Examina-se recurso especial interposto por UNIMED BELO HORIZONTE COOPERATIVA DE TRABALHO MÉDICO, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 20/03/2024.
+Concluso ao gabinete em: 02/08/2024.
+Ação: de indenização por danos materiais e compensação por danos morais, ajuizada por MARIA DE LOURDES NASCIMENTO, MARIA IRENE DO NASCIMENTO, MARIA ILMA DO NASCIMENTO PALHARES, IONE VITA DO NASCIMENTO SILVA, ILDEU JOSE DO NASCIMENTO, em face da recorrente e de PEDRO NILTON SILVA FERREIRA, CENTRO MEDICO E CIRURGICO SOFAL DELGADO LTDA., FLAVIO ALBERTO PAIS GOMES, INSTITUTO HERMES PARDINI S/A, na qual alega falha na prestação de serviços médicos e hospitalares, que ocasionaram o falecimento da beneficiária após a realização de procedimento de mamoplastia.
+Decisão interlocutória: acolheu a preliminar de ilegitimidade passiva da recorrente e do INSTITUTO HERMES PARDINI S/A, julgando extinto o processo, sem resolução do mérito, nos termos do artigo 485, inciso VI, do CPC.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pelos recorridos, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - - PRELIMINAR DE VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE - REJEIÇÃO - ERRO MÉDICO - PLANO DE SAÚDE - LABORATÓRIO DE ANÁLISES CLÍNICAS - ILEGITIMIDADE PASSIVA - TEORIA DA ASSERÇÃO - INVERSÃO DO ÔNUS DA PROVA - REQUISITOS AUSENTES - DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - ARTIGO 50 DO CC - AUSÊNCIA DE ELEMENTOS MÍNIMOS. - Verificado que os argumentos deduzidos no apelo, ao seu modo, impugnam as razões de decidir da sentença, não há que se falar em ofensa ao princípio da dialeticidade que não pode ter aplicação banal. - As condições da ação são averiguadas de acordo com a teoria da asserção, razão pela qual, para que se reconheça a legitimidade passiva "ad causam", os argumentos aduzidos na inicial devem possibilitar a inferência, em um exame puramente abstrato, de que o réu pode ser o sujeito responsável pela violação do direito subjetivo do autor. (STJ - AgInt no AREsp 1230412/SP). - A inversão do ônus da prova é medida excepcional e necessita do preenchimento dos requisitos da verossimilhança das alegações e hipossuficiência. Ausentes, o indeferimento da inversão do ônus da prova se impõe. - Nos termos do artigo 50 do Código Civil, é admitida desconsideração da personalidade jurídica na hipótese de abuso, caracterizado pelo desvio desta ou confusão patrimonial. - Não preenchidos os requisitos previstos no art. 50 do Código Civil, a desconsideração inversa da personalidade jurídica não se revela pertinente, sobretudo por se tratar de medida excepcional.
+Embargos de Declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 17, 473, § 3º, 1.022 e 1.026, § 2º, do CPC. Além de negativa de prestação jurisdicional, afirma que "para a realização de perícia não se faz necessária a participação da recorrente na discussão" e que não "é caso de se aplicar a teoria da asserção, porquanto inexiste perspectiva jurídica para condenar a UNIMED-BH por falha em procedimento que sequer cobriria" (e-STJ, fls. 2395). Insurge-se contra a aplicação da multa em sede de embargos de declaração.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Da violação do art. 1.022 do CPC
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial. Aplica-se, na hipótese, a Súmula 284/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à desnecessidade de participação da recorrente na perícia judicial e à inaplicabilidade da teoria da asserção na hipótese em questão, resultando assim na ilegitimidade passiva da recorrente, é necessário realizar um reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da multa por embargos de declaração protelatórios
+Da análise dos autos, não ficou evidenciado intuito protelatório da parte recorrente, uma vez que foi apresentado apenas um recurso de embargos de declaração, razão pela qual, de acordo com a Súmula 98/STJ, a aplicação da multa prevista no art. 1.026, §2º, do CPC deve ser afastada. Nesse sentido: AgInt no AgInt no AREsp n. 1.873.474/MS, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022 e AgInt no REsp n. 1.887.564/PR, Quarta Turma, DJe de 30/11/2022.
+Forte nessas razões, com fundamento no art. 932, III e IV, a, do CPC, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, DOU-LHE PARCIAL PROVIMENTO, apenas para afastar a multa prevista no art. 1.026, § 2º, do CPC.
+Deixo de majorar os honorários na forma do art. 85, § 11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA AFASTADA.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Afasta-se a multa do art. 1.026, § 4º, do CPC quando não se caracteriza o intento protelatório na oposição dos embargos de declaração.
+6. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
