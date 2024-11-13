@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o Juízo da 1ª Vara do Trabalho de Imperatriz/MA (suscitante) e o Juízo de Direito da 2ª Vara Cível de Imperatriz/MA (suscitado), nos autos de ação ajuizada por Maria de Lourdes Oliveira Cantanhede contra a Confederação Nacional dos Agricultores Familiares e Empreendedores Familiares Rurais do Brasil (CONAFER), com o objetivo de ver declarada inexistência vínculo contratual e, por via de consequência, repetição do indébito e reparação por danos, sob alegação de descontos sem prévia autorização no seu benefício previdenciário.
+O Juízo de Direito estadual declinou da sua competência, por entender que "a lide perpassa pela relação entre sindicato e o trabalhador, relativa à suposta ilegalidade de incidência de contribuição sindical que o demandante alega não ter firmado" (e-STJ, fls. 46).
+O Juízo trabalhista também declarou sua incompetência, suscitando conflito, sob os seguintes fundamentos (e-STJ, fl. 73):
+(..) não existe controvérsia a ser dirimida pela Justiça do Trabalho, uma vez que não se está diante de alguma das hipóteses previstas pelo art. 114 da Constituição da República, devendo a ação ser processada e julgada pela Justiça Comum."
+Nessa esteira, em que pese a revelia operada em face da reclamada, e considerando o entendimento desta magistrada acerca do tema, e tendo havido o julgamento de diversas ações idênticas em face da mesma reclamada, decido suscitar de ofício a preliminar de incompetência material, para declarar a incompetência da Justiça do Trabalho para julgamento da presente ação, extinguindo o processo sem resolução do mérito, nos termos do art. 485, IV do CPC.
+Registro, por fim, que além da parte autora ter ingressado com a ação na Justiça materialmente incompetente para a apreciar o litígio, a notória diversidade dos requisitos da petição inicial trabalhista (art. 840, § 1º, da CLT), em relação ao rito processual e aos requisitos da petição inicial do processo civil comum; e a singularidade do processo judicial eletrônico em vigor nesta Justiça Especializada impedem a remessa automática dos autos à Justiça Comum Estadual, tornando impraticável, por conseguinte, o disposto na parte final do art. 64, § 3º, do CPC.
+O Ministério Público Federal apresentou parecer pela competência do Juízo de Direito estadual, em parecer assim ementado (e-STJ, fl. 93):
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CAUSA DE PEDIR. COMPETÊNCIA DA JUSTIÇA COMUM CÍVEL.
+A competência se fixa em razão da causa de pedir e do pedido formulados na inicial.
+Parecer pelo conhecimento do conflito para declarar a competência da Justiça Comum.
+Brevemente relatado, decido.
+A controvérsia diz respeito à competência para exame e julgamento de ação decorrente de desconto em benefício previdenciário da parte autora, para contribuição em favor da requerida, sem a devida autorização.
+A petição inicial demonstra que os pedidos decorrem de supostos descontos em desconformidade com o Código Civil e Código de Defesa do Consumidor, inexistindo controvérsia sobre relação trabalhista (e-STJ, fls. 3-9).
+Considerando que a competência para o julgamento da demanda define-se pelo pedido e causa de pedir, impõe-se reconhecer a natureza eminentemente civil da controvérsia estabelecida no conflito, pois não se identifica debate sobre matéria trabalhista ou sindical, o que evidencia a competência da Justiça Comum para o processamento e julgamento da demanda
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Cível de Imperatriz/MA (suscitado).
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. DANOS DECORRENTES DE DESCONTO INDEVIDO DE CONTRIBUIÇÃO ASSOCIATIVA EM BENEFÍCIO PREVIDENCIÁRIO. MATÉRIA EMINENTEMENTE CIVIL. COMPETÊNCIA DA JUSTIÇA COMUM. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITADO.
