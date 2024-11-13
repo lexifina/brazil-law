@@ -1,0 +1,29 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por COSAN LUBRIFICANTES E ESPECIALIDADES S.A., contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/07/2024.
+Concluso ao gabinete em: 21/08/2024.
+Ação: de reparação por dano material cumulada com compensação por dano moral, ajuizada pelos agravados, em face da agravante, na qual alegam possuir imóvel vizinho à área locada pela agravante para a instalação de um posto de combustíveis. Afirmam que, no início do ano de 2005, ocorreu um vazamento de combustível dos tanques de armazenamento do posto da agravante, resultando em dano ambiental no imóvel dos agravados, consubstanciado na poluição do solo, subsolo e águas subterrâneas e superficiais, por hidrocarbonetos derivados de petróleo. Em razão do dano ambiental, afirmaram que o posto artesiano localizado na sua propriedade restou inutilizado, motivo pelo qual fazem jus à reparação por dano material e compensação por dano moral.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar a agravante ao pagamento de R$ 10.000,00 (dez mil reais), a título de compensação por dano moral.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DANO AMBIENTAL. CONTAMINAÇÃO POR DERIVADOS DO PETRÓLEO. POSTO DE COMBUSTÍVEL. VAZAMENTO. RESPONSABILIDADE OBJETIVA. DANO MORAL CONSTATADO. MAJORAÇÃO INDEVIDA. SENTENÇA MANTIDA.
+1. Trata-se de ação indenizatória por danos materiais e morais, em face de dano ambiental praticado pela ré, consistente em vazamento de combustível, que acarretou contaminando as águas da propriedade dos autores, julgada parcialmente procedente na origem.
+2. O dano ambiental, além da tutela jurisdicional coletiva, admite a tutela jurisdicional individual. A finalidade principal do interessado não tem por objetivo imediato a proteção do meio ambiente, mas sua tutela indireta, pois a pretensão está direcionada para a lesão ao patrimônio e demais bens jurídicos do autor da ação.
+3. Para que obtenha êxito na sua ação indenizatória, à parte autora impõe- se carrear aos autos prova que demonstre a presença de tais elementos caracterizadores da responsabilidade civil objetiva.
+4. Aplicação do artigo 14, parágrafo primeiro, da Lei nº 6.938/81, que sustenta o dano ambiental privado ou individual. O regime da responsabilidade civil está previsto no artigo 14 dessa lei, indicando a necessidade de adotar pressupostos específicos, considerando tratar-se de conduta de risco. Compreensão da responsabilidade a partir da atividade de risco desenvolvida pela empresa demandada e, por conseqüência, o dever jurídico de efetuar com segurança o serviço prestado. A prestação do serviço deve ser direcionada para a conservação de um meio ambiente em condições adequadas ao bem estar dos cidadãos. Ônus da empresa decorrente do transporte de combustível.
+5. Comprovação do nexo causal entre o ato praticado pela demandada e a lesão ao meio ambiente ocasionada pela contaminação do solo, bem como da água, em decorrência do vazamento do combustível que invadiu a propriedade rural dos autores.
+6. O dever de reparação decorre do sofrimento experimentado em virtude da lesão ao meio ambiente, diante da contaminação do solo, bem como da água, pelo derramamento de combustível, atingindo a área rural dos autores, os quais injustamente foram obrigados a deixar de utilizar seu poço artesiano para abastecimento da residência e da propriedade, fato lesivo lhes causou angústia e aflição, sobretudo pela incerteza quanto à possibilidade de total recuperação do local afetado e de retorno a sua propriedade rural. Tal situação danosa atinge atributo de personalidade, caracterizando dano extrapatrimonial, que merece ser indenizado.
+7. O valor a ser arbitrado a título de indenização por danos morais deve refletir sobre o patrimônio da ofensora, a fim de que sinta, efetivamente, a resposta da ordem jurídica ao resultado lesivo produzido, sem, contudo, conferir enriquecimento ilícito aos ofendidos. Manutenção do valor arbitrado pela sentença.
+APELAÇÃO DESPROVIDA. (e-STJ Fls. 1.118/1.119)
+Recurso especial: alega violação dos arts. 927, parágrafo único, 932 e 933 do CC, 3º e 14 da Lei nº 6.938/81. Sustenta não ter praticado qualquer ato ilícito capaz de dar azo ao pedido reparatório formulado pela parte agravada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à responsabilidade civil da agravante, bem como em relação à sua condenação ao pagamento de compensação por dano moral, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte agravante para 20% sobre o valor da condenação, observada a distribuição dos honorários advocatícios fixada na sentença (e-STJ Fl. 925).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANO MATERIAL CUMULADA COM COMPENSAÇÃO POR DANO MORAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de reparação por dano material cumulada com compensação por dano moral.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido, com majoração de honorários.
