@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES RETIDOS INDEVIDAMENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de restituição de valores retidos indevidamente.
+2. Agravo interno interposto contra decisão que conheceu do agravo e, com fundamento no art. 932, III, do CPC, não conheceu do recurso especial.
+3. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por NARANEY OLIVEIRA JEUNON, contra decisão que conheceu do agravo e, com fundamento no art. 932, III, do CPC, não conheceu do recurso especial.
+Ação: restituição de valores retidos indevidamente, ajuizada por NARANEY OLIVEIRA JEUNON, em face de BANCO DO BRASIL S/A e BRASILPREV SEGUROS E PREVIDÊNCIA S/A.
+Sentença: julgou improcedente o pedido e condenou a agravante ao pagamento das custas e dos honorários, estes fixados em 10% sobre o valor atualizado da causa, a serem rateados entre os advogados dos agravados, no importe de 50% para os patronos do BANCO DO BRASIL S/A e 50% para os patronos da BRASILPREV SEGUROS E PREVIDÊNCIA S/A.
+Acórdão: negou provimento à Apelação interposta pela agravante, nos termos da seguinte ementa:
+"Apelação Cível - Ação de ressarcimento - Mercado financeiro - Perda de valor investido - Oscilação do mercado com apresentação de resultado negativo - Falha no dever de informação e direito de arrependimento - Inocorrência - Ônus da prova - Autor - Art. 373, I, do CPC - Não desincumbência. Nos termos do art. 373, I, do CPC, incumbe à parte autora produzir prova do fato constitutivo do seu direito. Não tendo a parte autora se desincumbido do ônus de provar a alegada falha na prestação dos serviços dos réus, impõe-se a improcedência do seu pedido." (e-STJ fl. 795)
+Embargos de declaração: opostos, pela agravante, foram rejeitados. (e-STJ fl. 846/851)
+Recurso especial: alega violação do art. 49, Lei 8.078/90, sustentando que: i) não há que se falar que os serviços prestados pelos recorridos à recorrente têm natureza de investimento, e que, portanto, não estariam sujeitos a serem submetidos ao art. 49 da Lei 8.078/90; e, ii) não se trata de um resgate comum, mas sim do exercício regular de um direito, qual seja, o direito de arrependimento, com restabelecimento da contratação do produto ao status quo ante, devendo os recorridos restituírem à recorrente a integralidade do valor investido, independentemente de eventuais variações do mercado; e, iii) o gerente do private do Banco do Brasil S/A, usando de sua alta capacidade técnica e expertise em produtos bancários, manejou a aplicação da recorrente para previdência em fundo de risco, mesmo sabendo do perfil conservador da recorrente; e, iv) a falha na prestação dos serviços está mais do que comprovada, visto que a recorrente não compreendeu o risco do produto que estava aderindo, não tendo os recorridos comprovado o contrário, inclusive, em momento algum os recorridos comprovam que deram pleno conhecimento do investimento que seria realizado pela recorrente, tratando-se de meras alegações, pois não juntaram aos autos quaisquer protocolos de entrega, e-mails, ou conversas de WhatsApp, que comprovem que foram enviadas plenas informações do portfólio completo contratado e com a composição da carteira da previdência e alocação nos fundos.
+Decisão unipessoal: conheceu do agravo e, com fundamento no art. 932, III, do CPC, não conheceu do recurso especial.
+Agravo interno: a parte agravante alega que demonstrou a existência da falha na prestação dos serviços prestados pelos agravados, invocando a contrariedade aos dispositivos da Lei 8.078/90, bem como que não pretende o reexame das provas e interpretação de cláusulas contratuais, mas sim, a verificação de contrariedade aos dispositivos indicados, notadamente, ao artigo 49 da Lei 8.078/90. Requer, assim, o provimento do agravo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES RETIDOS INDEVIDAMENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de restituição de valores retidos indevidamente.
+2. Agravo interno interposto contra decisão que conheceu do agravo e, com fundamento no art. 932, III, do CPC, não conheceu do recurso especial.
+3. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+A decisão agravada conheceu do agravo e, com fundamento no art. 932, III, do CPC, não conheceu do recurso especial, em virtude dos seguintes fundamentos:
+i) deficiência de fundamentação (Súmula 284/STF);
+ii) reconhecimento de necessidade de interpretação de cláusulas contratuais e reexame de contexto fático-probatório (Súmulas 5 e 7/STJ).
+- Da deficiência de fundamentação (Súmula 284/STF)
+No recurso especial fundamentado na alínea "a" do permissivo constitucional, a parte agravante deve particularizar os dispositivos de lei federal violados e, sobretudo, fazer acompanhar a devida fundamentação jurídica pertinente, no intuito de viabilizar a abertura da via especial, sendo insuficiente mencionar ofensa genérica, tal qual ocorre na presente hipótese, em que os argumentos apresentados não demonstram como o acórdão recorrido teria violado artigos do Código de Defesa do Consumidor, como se observa das fls. 868/873 (e-STJ).
+Nesse sentido: AgInt no REsp 2.098.663/PE, Terceira Turma, DJe 20/12/2023; AgInt no AREsp 2.249.995/SP, Quarta Turma, DJe 20/10/2023.
+- Do reconhecimento da necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ) e do reexame de contexto fático-probatório (Súmula 7/STJ)
+Da análise das razões do agravo interno, verifica-se que a parte agravante não impugnou a incidência das Súmulas 5 e 7/STJ de forma consistente, pois se limitou a alegar genericamente que pretendia a aplicação do direito à hipótese, assim também como não demonstrou a desnecessidade do revolvimento de fatos e provas, além de não ter demonstrado que a análise do recurso especial prescinde da interpretação das cláusulas do contrato objeto do recurso.
+No caso, é pertinente destacar o que restou consignado pela Corte local: i) o direito de arrependimento não é pertinente ao negócio jurídico discutido nos autos, diante de sua natureza própria de investimento financeiro, sendo certo que, assim que os recursos são aplicados em determinado fundo/ativo, estão sujeitos às oscilações do mercado, com maiores ou menores riscos, proporcionais a maior ou menor rentabilidade; e, ii) é incontroverso nos autos que a parte agravante, antes de investir o capital, reuniu-se presencialmente com gerentes dos agravados em diversas oportunidades para discutir sobre as condições do negócio, tendo-lhe sido apresentada duas opções de investimento (fundo de previdência privada e LCA), optando a parte agravante pelo primeiro; e, iii) a parte agravante poderia ter recuperado o seu investimento, caso tivesse mantido o plano de previdência privada contratado; e, iv) não tendo a parte agravante se desincumbido do ônus de provar a alegada falha na prestação dos serviços pelos agravados, nos termos do art. 373, I, do CPC, impõe-se a improcedência do seu pedido de restituição de valores.
+Nesse sentido, confira-se: AgInt no AREsp 2.441.269/RS, Terceira Turma, DJe 28/02/2024; AgInt no AREsp 2.417.625/RS, Terceira Turma, DJe 28/02/2024; AgInt no REsp 2.041.442/RN, Quarta Turma, DJe 28/02/2024 e AgInt no AREsp 2.326.551/GO, Quarta Turma, DJe 21/12/2023.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
