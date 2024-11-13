@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GALERA MARI E ADVOGADOS ASSOCIADOS contra decisão que inadmitiu recurso especial com fundamento na incidência da Súmula n. 83 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Mato Grosso em apelação nos autos de ação de arbitramento de honorários.
+O julgado foi assim ementado (fl. 906):
+APELAÇÕES CÍVEIS - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS - SENTENÇA EXTRA PETITAE SEM FUNDAMENTAÇÃO - ARTIGO 22, §2º, DA LEI 8.906/1994 - PRELIMINARES AFASTADAS- REMUNERAÇÃO EXCLUSIVAMENTE PELA SUCUMBÊNCIA - VIABILIDADE - RESCISÃO UNILATERAL PELO CONTRATANTE - DIREITO À CONTRAPRESTAÇÃO PECUNIÁRIA - PEDIDO DE MAJORAÇÃO DO VALOR DEFINIDO NA ORIGEM - INDEFERIMENTO - PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE RESPEITADOS - RECURSOS NÃO PROVIDOS.
+"Na falta de estipulação ou de acordo, os honorários são fixados por arbitramento judicial, em remuneração compatível com o trabalho e o valor econômico da questão, observado obrigatoriamente o disposto nos §§ 2º, 3º, 4º, 5º, 6º, 6º-A, 8º, 8º-A, 9ºe 10 do art. 85 da Lei nº 13.105, de 16 de março de 2015(Código de Processo Civil)".(Artigo 22, §2º, da Lei 8.906/1994).
+Deve ser afastada a preliminar de nulidade da sentença por ausência de fundamentação se foram enfrentadas todas as alegações deduzidas na lide e que, em tese, infirmariam a conclusão do julgador.
+A remuneração do advogado pode ser convencionada exclusivamente pelos honorários de sucumbência. Contudo, se rescindida a avença unilateralmente pelo mandante, é devida a fixação dessa verba em juízo (STJ, R Esp n. 1.337.749/MS).
+Em situações excepcionais, em que o rompimento do Contrato de Prestação de Serviço se dá antes de findado o processo de responsabilidade do contratado, os honorários são estabelecidos por equidade (§8º do art. 85 do CPC), visto que, apesar da possibilidade de proveito econômico, ainda não há como mensurá-lo, e aplica-se o art. 85, §§2º e 8º, do CPC.
+O arbitramento dessa contraprestação pecuniária tem de observar os princípios da razoabilidade e proporcionalidade.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a ora agravante aponta violação do art. 22, § 2º, da Lei n. 8.904/1994, 85, §§ 2º, 3º, 4º, 5º, 6º, 6º-A, 8º, 8º-A, 9º e 10 do CPC, sustentando, em suma, que os honorários advocatícios deveriam ter sido arbitrados entre 10% e 20% sobre o valor da causa.
+Aduz que (fl. 967):
+Como se vê, a atual redação do art. 22, § 2º, da Lei 8.906/1994, para fins de fixação dos honorários, cita expressamente os parágrafos do art. 85 do CPC que, como se sabe, é o artigo que dispõe acerca dos honorários advocatícios e, em seu parágrafo segundo, estabelece a fixação dos honorários entre o mínimo de 10% e o máximo de 20% sobre o valor da condenação, do proveito econômico obtido ou sobre o valor atualizado da causa.
+Ora, a lei é muito clara ao dispor que, se não convencionados pelas partes contratantes, os honorários advocatícios devem ser arbitrados pelo Poder Judiciário em observância obrigatória ao disposto nos §§ 2º, 3º, 4º, 5º, 6º, 6º-A, 8º, 8º-A, 9º e 10 do art. 85 da Lei nº 13.105, de 16 de março de 2015.
+Por fim, afirma que (fl. 970):
+As demandas em que o recorrente trabalhou e que é objeto do pedido de arbitramento de honorários possui valor da causa atualizado de R$ 1.517.056,00 (um milhão, quinhentos e dezessete mil e cinquenta e seis reais).
+Portanto, como se vê, não se trata de valor inestimável, irrisório ou muito baixo para justificar a fixação dos honorários por equidade, na forma do § 8º, do art. 85, do CPC, de modo que os honorários deveriam ter sido fixados entre 10% e 20% do valor da causa trabalhada.
+Além da cirúrgica disposição legal, o C. STJ já firmou tese em Tema de Repercussão Geral sobre a matéria, no Tema nº 1.076/STJ, consolidando a impossibilidade de apreciação equitativa dos honorários sucumbenciais quando há possibilidade de baliza pelo valor da condenação, da causa ou do proveito econômico, vejamos a tese firmada:  ..
+Requer o provimento do recurso para, reformando o acórdão recorrido, arbitrar os honorários entre 10% e 20% do valor atualizado da causa.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Preliminarmente, cumpre esclarecer que a questão posta nos autos diz respeito à ação de arbitramento de honorários, decorrentes de contrato de prestação de serviços advocatícios, firmado entre as partes ora litigantes.
+Sendo assim, não tem aplicabilidade o Tema 1.076 do STJ, que trata, exclusivamente, de honorários devidos em razão de decaimento sucumbencial.
+Por outro lado, o Tribunal a quo, no que diz respeito ao arbitramento dos honorários advocatícios, assim consignou (fls. 887-891):
+As partes firmaram Contrato de Prestação de Serviço de Advocacia pelo qual a remuneração se daria exclusivamente pelos honorários de sucumbência.
+O réu aduz que essa cláusula tem de ser respeitada, apesar de o autor não mais atuar na lide.
+ ..
+Logo, a revogação por uma só das partes, e injustificada, gera o direito do advogado ao arbitramento dos honorários, o que não fere os princípios da liberdade de contratar, da força vinculativa do contrato, ou qualquer outro.
+Pelo preceito da boa-fé, é justo que o autor receba pelo serviço prestado, até mesmo para impedir o enriquecimento ilícito do réu, que dele se beneficiou.
+ ..
+Os documentos juntados no feito mostram que o autor elaborou petições e realizou as diligências indispensáveis ao seu regular prosseguimento. Por conseguinte, efetuou todos os trabalhos para os quais foi contratado.
+Para definir os honorários deve-se considerar a dedicação do advogado, a complexidade da causa, a persecução dos interesses do cliente e o tempo despendido. O valor a ser estipulado deve recompensar com dignidade e equilíbrio o desempenho do profissional, mas sem lhe gerar enriquecimento ilícito.
+ ..
+O Superior Tribunal de Justiça consagrou também a viabilidade de arbitramento por apreciação equitativa (art. 85, §8º, do CPC) quando o montante se revelar ínfimo ou excessivo.
+Vale registrar que, apesar de o § 2º do referido art. 85 ser aplicável sempre que houver condenação, for possível mensurar o proveito econômico obtido ou a causa não tiver valor módico, o caso ora em discussão é excepcional uma vez que ainda não houve o pagamento sobre o qual incidiria esse percentual. Assim, toma-se por base o §8º do mesmo dispositivo.
+E seria incoerente utilizar o percentual legal baseado na quantia atualizada. Primeiro porque o advogado não atua no processo desde novembro de 2020; segundo, o proveito final pode não ser nenhum ou até mesmo muito aquém do quantum inicialmente estimado, e nesta hipótese a remuneração do advogado, desconstituído antes do término da Ação, seria incompatível com o seu desfecho.
+ ..
+Os R$10.000,00, definidos na primeira instância, são razoáveis e proporcionais às circunstâncias da lide. Desse modo, não comportam majoração.
+Nesse contexto, a adoção de conclusões diversas da instância de origem, fundadas, primordialmente, com base no contrato firmado entre as partes e nos serviços advocatícios efetivamente prestados, implicaria a interpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, medidas inviáveis em recurso especial em face do óbice das Súmulas n. 5 e 7 do STJ.
+Ainda que superado esses óbices sumulares, o entendimento da Corte de origem está em consonância com a jurisprudência firmada pelo Superior Tribunal de Justiça de que, em se tratando de contrato de honorários advocatícios, nos casos em que houver rescisão contratual, sem motivo específico, pelo então mandante, será cabível o ajuizamento de ação de arbitramento, para cobrar honorários, de forma proporcional aos serviços então prestados pelo causídico.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS. CONTRATO. SUCUMBENCIAIS. RESILIÇAO. UNILATERAL. POSSIBILIDADE. ARBITRAMENTO. PRECEDENTES. STJ. SÚMULA Nº 568/STJ. MULTA. ART. 1.021, § 4º. NÃO AUTOMÁTICA.
+1. Nos termos da orientação firmada nesta Corte, a revogação do mandato no curso do processo deve autorizar a apuração da proporção que cabe ao escritório agravado dos honorários devidos pelo trabalho desempenhado, afastando o risco de enriquecimento ilícito de uma parte sobre outra. Súmula nº 568/STJ. Precedentes.
+2. Relativamente à multa prevista no art. 1.021, § 4º, do CPC (art. 259, § 4, do RISTJ), a Segunda Seção decidiu que a aplicação da referida penalidade não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+3. Agravo interno não provido. (AgInt no AREsp n. 2.394.022/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS DEMANDADOS.
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência das Súmulas 211 do STJ e 282 do STF.
+1.1. In casu, deixou a parte recorrente de apontar, nas razões do apelo extremo, a violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. 1.2. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia. Precedentes.
+2. Segundo a orientação jurisprudencial desta Corte, a pretensão de arbitramento e de cobrança de honorários estão subordinadas ao prazo prescricional de 5 (cinco) anos de que trata o artigo 25, III, da Lei 9.806/94. Incidência da Súmula 83 do STJ.
+3. Nos termos da jurisprudência do STJ, revogado imotivadamente o mandato judicial, é cabível o ajuizamento da ação de arbitramento para cobrar os honorários, de forma proporcional aos serviços até então prestados. Precedentes.
+4. Em princípio, o advogado e o contratante estão livres para estabelecer o valor que considerarem adequado e justo como remuneração pelos serviços prestados, não havendo óbice legal à contratação dos honorários convencionais com base no valor do causa. Todavia, admite-se, excepcionalmente, o controle pelo Judiciário do quantum avençado entre os contratantes, nas hipóteses em que se verificar algum vício de vontade ou forem inobservados os princípios da razoabilidade e da boa-fé contratual, como ocorre na hipótese sub judice.
+5. Agravo interno parcialmente provido para, de plano, conhecer do agravo e prover parcialmente o recurso especial, cassando as deliberações recorridas e determinar o retorno dos autos ao juízo de primeiro grau, a fim de que os honorários devidos sejam arbitrados com base no trabalho efetivamente desempenhado pelo advogado ora agravado. (AgInt no AREsp n. 1.147.232/CE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/10/2022, DJe de 6/3/2023.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. COBRANÇA. HONORÁRIOS CONVENCIONADOS. OFENSA AO ART. 535 DO CPC. NÃO OCORRÊNCIA. O TRIBUNAL NÃO É OBRIGADO A REBATER, UM A UM, OS ARGUMENTOS DA PARTE. ARTS. 130 E 333, I, DO CPC. ARBITRAMENTO JUDICIAL. VERBA HONORÁRIA. EXISTÊNCIA. CONTRATO. POSSIBILIDADE. PRECEDENTES. INCIDÊNCIA. SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+3. "O entendimento adotado pelo Tribunal de origem está em consonância com aquele perfilhado pelo STJ, no sentido de que, "embora haja pactuação entre as partes, vinculando os honorários advocatícios à sucumbência, nada impede o arbitramento judicial da verba profissional, caso haja o rompimento antecipado do contrato, levando-se em consideração as atividades até então desenvolvidas."" (AgRg nos Edcl no Ag n. 770.849/RS, Rel. Ministro Fernando Gonçalves, Quarta Turma, julgado em 9/6/2009, DJe 22/6/2009).
+Incidência, na hipótese, da Súmula 83/STJ.
+4. Agravo regimental a que se nega provimento. (AgRg nos EDcl no AREsp n. 600.367/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/4/2015, DJe de 18/5/2015.)
+Cabível, portanto, a incidência da Súmula n. 83 do STJ em relação à alínea a e c do permissivo constitucional, consoante se depreende do julgado abaixo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE FUNDADA NA SÚMULA N. 83/STJ. INDICAÇÃO DE PRECEDENTES CONTEMPORÂNEOS OU SUPERVENIENTES. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte de origem invocou a Súmula 83/STJ para inadmitir o recurso especial, exigindo a indicação de precedentes contemporâneos ou posteriores que demonstrassem divergência jurisprudencial, o que não foi feito.
+2. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada atrai a incidência da Súmula 182/STJ.
+3. A jurisprudência do STJ estabelece que a Súmula 83 é aplicável tanto aos recursos especiais interpostos pela alínea "a" quanto pela alínea "c" do inciso III do art. 105 da CF/1988.
+4. Agravo interno a que se nega provimento. (AgInt no AgInt no AREsp n. 2.611.829/AP, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 14/10/2024, DJe de 17/10/2024.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo.
+Publique-se. Intimem-se.
+ EMENTA
