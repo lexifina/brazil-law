@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL de decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu recurso especial dirigido contra o acórdão proferido na Apelação Cível n. 0007744-07.2017.4.03.9999. Eis a ementa (fl. 539):
+PREVIDENCIÁRIO. AGRAVO INTERNO. ART. 1.021 DO CPC. CONCESSÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONTRIBUINTE INDIVIDUAL. ATIVIDADE ESPECIAL. AGRAVO DESPROVIDO.
+- Apreciação do presente agravo interno segundo as disposições constantes do Novo Código de Processo Civil tendo em conta que sua interposição se operou sob a égide do novo diploma legal.
+- Razões ventiladas no presente recurso que não têm o condão de infirmar a decisão impugnada, fundada na prova produzida nos autos em conformidade com legislação e entendimento jurisprudencial assente na 9ª Turma.
+- Agravo interno desprovido.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente aduz violação dos arts. 1.022, inciso II, do CPC; 22, inciso II, da Lei n. 8.212/1991; 11, inciso V, alínea h, 14, inciso I, parágrafo único, 57, §§ 3º, 4º, 5º, 6º e 7º, e 58, §§ 1º e 2º, da Lei n. 8.213/1991.
+Não admitido o recurso pelo Tribunal de origem (fls. 607-610), seguiu-se a interposição do presente agravo em recurso especial (fls. 612-625).
+É o relatório.
+Decido.
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma pormenorizada, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem, passo diretamente ao exame do recurso especial.
+De início, ressalto que as razões do recurso especial não desenvolveram tese para demonstrar os motivos pelos quais teria ocorrido violação do art. 1.022, inciso II, do CPC, o que evidencia a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF. Nessa direção: AgInt no REsp n. 2.004.665/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/9/2023, DJe de 14/9/2023; AgInt no REsp n. 2.075.044/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023.
+O acórdão entendeu comprovado o labor em atividades especiais com base na perícia e nas informações lançadas no perfil profissiográfico previdenciário (PPP) e laudo técnico das condições ambientais de trabalho (LTCAT) apresentados pelo demandante. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demanda novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7 do STJ. Veja-se:
+PREVIDENCIÁRIO. TEMPO DE SERVIÇO ESPECIAL. ACÓRDÃO QUE, APÓS ANÁLISE DAS PROVAS EXISTENTES NOS AUTOS, APONTA A NÃO EXPOSIÇÃO A AGENTE NOCIVO DE MANEIRA HABITUAL E PERMANENTE. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA7/STJ.
+1. O reconhecimento de determinada atividade como especial, pelo mero enquadramento legal da categoria profissional a que pertencia o segurado ou em função do agente insalubre a que estava exposto, foi possível somente até o advento da Lei 9.032/1995.
+2. Após a alteração do art. 57 da Lei n. 8.213/91, promovida pela Lei n. 9.032/95, o reconhecimento do tempo de serviço especial pressupõe a efetiva demonstração de que, no exercício da atividade, o segurado esteve exposto a condições prejudiciais à saúde ou à integridade física de forma habitual e permanente.
+3. A alteração das conclusões adotadas pela Corte de origem, no sentido de que a parte autora não comprovou que esteve exposta de forma habitual e permanente a agente agressivo, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.190.974 /SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 27/4/2023.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 490, e-STJ), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E PREVIDÊNCIÁRIO. CONTRIBUINTE INDIVIDUAL. ART. 1.022, INCISO II, DO CPC. AUSÊNCIA DE DELIMITAÇÃO DA CONTROVÉRSIA. SÚMULA N. 284 DO STF. INCIDÊNCIA. ESPECIALIDADE DO LABOR. PROVAS DOS AUTOS. APLICAÇÃO DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL
