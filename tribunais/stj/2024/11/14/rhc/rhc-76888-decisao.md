@@ -1,0 +1,8 @@
+DECISÃO
+Em consulta ao site do TRF-5, o gabinete verificou a superveniência do trânsito em julgado da absolvição dos ora recorrentes, o que evidencia a prejudicialidade desta interposição. Segundo despacho proferido em 25/7/2024 (grifei):
+Por outro lado, tendo em vista o trânsito em julgado da sentença (ID 4058400.14912247) em relação a extinção da punibilidade de Emir Napoleão Kabbach, Gilberto Ruggiero, Fernando Rocha Silveira, José Gilberto de Azevedo Branco Valentin, Jorge Alberto Aun, José Roberto Bertoli, Luiz Sérgio Nogueira, Eduardo Ribeiro Capobianco e José Theodózio Netto, assim como em relação a absolvição de José Luís Arantes Horto, Dário de Queiroz Galvão Filho, Mário de Queiroz Galvão Filho, Eduardo de Queiroz Galvão Filho, Carlos Eduardo Albuquerque de Paiva, Ricardo Cordeiro de Toledo, Frank Adriano Balarotti de Araújo e Celso Verri Villas Boas, determino que a secretaria providencie as devidas anotações nos registros dos acusados no PJe, assim como remeta as informações do referido julgado ao Departamento de Polícia Federal.
+Além disso, em relação ao recorrente Roberto Capobianco, os autos foram desmembrados e ele foi julgado no Processo n. 0807814-73.2020.4.05.8400. Nesse feito, foi certificado o trânsito em julgado de sua absolvição, conforme se observa (destaquei):
+CERTIFICO e dou fé que a sentença penal (ID 4058400.13597200) transitou em julgado para o MINISTÉRIO PÚBLICO FEDERAL em 26 de setembro de 2023 e para a defesa de FREDERICO EIGENHEER NETO, MARCO AURÉLIO COSTA GUIMARÃES e ROBERTO RIBEIRO CAPOBIANCO em 03 de outubro de 2023.
+À vista do exposto, julgo prejudicado este recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
