@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO BMG S. A. (BANCO BMG), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça de Santa Catarina, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE INDEFERIU O EFEITO SUSPENSIVO À IMPUGNAÇÃO. INSURGÊNCIA DA INSTITUIÇÃO FINANCEIRA EXECUTADA. SUBSTITUIÇÃO DO DEPÓSITO EM ESPÉCIE PELO SEGURO GARANTIA. DESCABIMENTO. AUSÊNCIA DE EXCEPCIONALIDADE A JUSTIFICAR A PRETENDIDA SUBSTITUIÇÃO. INEXISTÊNCIA DE ONEROSIDADE EXCESSIVA OU DESPROPORCIONALIDADE À INSTITUIÇÃO FINANCEIRA, CONSIDERANDO O VALOR DO DÉBITO E O PODERIO ECONÔMICO DO BANCO. DEPÓSITO EM DINHEIRO QUE REPRESENTA MEDIDA MAIS EFICAZ À SATISFAÇÃO DO CRÉDITO DO EXEQUENTE.
+" ..  admite -se  a substituição da penhora de dinheiro por seguro-garantia apenas em hipóteses excepcionais, em que seja necessário evitar dano grave ao devedor, sem causar prejuízo ao exequente" (STJ, AgInt no AgInt no AR Esp 1865840/PE, rel. Min. Luis Felipe Salomão, j. em 22/11/2021).
+AGRAVO DE INSTRUMENTO DESPROVIDO.(e-STJ, fls. 90/92).
+Os embargos de declaração opostos por BANCO BMG foram rejeitados (e-STJ, fls. 116/118).
+Nas razões do presente recurso, BANCO BMG alegou a violação aos arts. 835, § 2º, 848, § único, do CPC, ao sustentar que (1) a lei processual prevê a possibilidade de o devedor apresentar seguro como forma de garantia de pagamento do débito; (2) o seguro garantia judicial produz os mesmos efeitos jurídico que o dinheiro; (3) a garantia ofertada não acarreta nenhum prejuízo ao credor.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Do seguro garantia
+Em suas razões recursais BANCO BMG defendeu a possibilidade de ser utilizado o seguro como forma de garantir o juízo, já que produz os mesmos efeitos que o dinheiro.
+Sobre o tema, apesar de o Tribunal de Justiça de Santa Catarina admitir a substituição de dinheiro por seguro garantia judicial, ponderou que essa possibilidade somente é aceita em casos excepcionais, sendo ressaltado ainda que:
+No caso, não há comprovação de situação excepcional que possibilite a substituição, para fins de deferimento do efeito suspensivo ao cumprimento de sentença, do depósito judicial, em dinheiro, por seguro garantia.
+ ..
+Por fim, não se verifica afronta ao princípio da menor onerosidade ao executado, considerando principalmente o reduzido valor da execução, comparado com o poderia econômico da instituição financeira agravante, certo, ainda, de que o depósito/bloqueio em espécie se revela medida mais eficaz para satisfação do crédito do exequente. (e-STJ, fls. 91).
+Entretanto, esta Corte Superior já reconheceu que a apresentação do seguro garantia judicial produz os mesmos efeitos jurídicos que o dinheiro, para fins de garantia do juízo, não podendo ser rejeitada pelo exequente, salvo por insuficiência, defeito formal ou inidoneidade da salvaguarda oferecida. Confira-se:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. SEGURO-GARANTIA JUDICIAL. INDICAÇÃO. POSSIBILIDADE. EQUIPARAÇÃO A DINHEIRO. PRINCÍPIO DA MENOR ONEROSIDADE PARA O DEVEDOR E DA MÁXIMA EFICÁCIA DA EXECUÇÃO PARA O CREDOR. COMPATIBILIZAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a saber se o seguro-garantia judicial pode ser recusado como garantia do juízo apenas pelo fato de conter, na respectiva apólice, prazo de validade determinado e cláusula condicionando os efeitos da cobertura ao trânsito em julgado.
+3. O § 2º do art. 835 do CPC/2015, para fins de substituição da penhora, equiparou a dinheiro a fiança bancária e o seguro-garantia judicial, desde que em valor não inferior ao do débito constante da inicial, acrescido de 30% (trinta por cento).
+4. Em que pese a lei se referir a "substituição", que pressupõe a anterior penhora de outro bem, o seguro-garantia judicial produz os mesmos efeitos jurídicos que o dinheiro, seja para fins de garantir o juízo, seja para possibilitar a substituição de outro bem objeto de anterior penhora, não podendo o exequente rejeitar a indicação, salvo por insuficiência, defeito formal ou inidoneidade da salvaguarda oferecida.
+5. A idoneidade da apólice de seguro-garantia judicial deve ser aferida mediante verificação da conformidade de suas cláusulas às normas editadas pela autoridade competente, no caso, pela Superintendência de Seguros Privados - SUSEP, sob pena de desvirtuamento da verdadeira intenção do legislador ordinário.
+6. A simples fixação de prazo de validade determinado na apólice e a inserção de cláusula condicionando os efeitos da cobertura ao trânsito em julgado da decisão não implicam, por si só, inidoneidade da garantia oferecida.
+7. A renovação da apólice, a princípio automática, somente não ocorrerá se não houver mais risco a ser coberto ou se apresentada nova garantia. Se não renovada a cobertura ou se o for extemporaneamente, caraterizado estará o sinistro, de acordo com a regulamentação estabelecida pela SUSEP, abrindo-se para o segurado a possibilidade de execução da apólice em face da seguradora.
+8. Na hipótese de haver cláusula condicionando o sinistro ao trânsito em julgado para fins de execução da garantia (apólice), como forma de harmonizar o instituto com o ordenamento processual como um todo, admite-se a recusa da garantia ou da substituição da penhora, pelo juízo da execução, a partir das especificidades do caso e mediante decisão fundamentada, se a objeção do executado não se mostrar apta, a princípio, à desconstituição total ou parcial do título.
+9. Julgada a impugnação, poderá o juiz determinar que a seguradora efetue o pagamento da indenização, ressalvada a possibilidade de atribuição de efeito suspensivo ao recurso interposto pelo tomador, nos moldes do art. 1.019, I, do Código de Processo Civil de 2015.
+10. Recurso especial provido.
+(REsp n. 2.025.363/GO, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+Portanto, o fato de o BANCO BMG ser instituição financeira de grande capacidade financeira não impede o oferecimento de seguro como forma de garantir o juízo, tendo em vista que a própria lei equiparou o dinheiro a fiança bancária e o seguro garantia judicial, desde que em valor não inferior ao do débito constante da inicial, acrescido de trinta por cento (art. 835, § 2º, do CPC).
+Nessas condições, DOU PROVIMENTO ao recurso especial, para aceitar o seguro como garantia do juízo.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. CONTRATO BANCÁRIO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. OFERECIMENTO DE SEGURO GARANTIA JUDICIAL. ADMISSIBILIDADE. PRODUÇÃO DOS MESMOS EFEITOS JURÍDICOS QUE O DINHEIRO. RECONHECIMENTO. INDICAÇÃO POR INSTITUIÇÃO FINANCEIRA DE GRANDE PORTE. IRRELEVÂNCIA. ART. 835, § 2º, DO CPC. INCIDÊNCIA. RECURSO ESPECIAL PROVIDO.
