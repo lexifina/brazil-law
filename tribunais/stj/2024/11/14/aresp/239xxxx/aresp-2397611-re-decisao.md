@@ -1,0 +1,63 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno, mantendo a decisão que conheceu em parte do recurso especial, tão somente em relação à alegada violação aos arts. 489, §1º, IV e 1.022, II, do CPC, e, nessa extensão, negou-lhe provimento.
+O julgado recorrido recebeu a seguinte ementa (fls. 552-553):
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNÓ NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE CESSÃO DE DIREITOS DE LOCAÇÃO E FUNDO DE COMÉRCIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. os 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. MULTA. 1.021, § 4º, DO CPC. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexistem omissão, contradição ou obscuridade, vícios elencados nos arts. 489, § 1º, e 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+2. Rever as conclusões quanto ao ônus da prova, ao descumprimento do contrato e à inocorrência de vantagem desproporcional demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes, o que é vedado em razão dos óbices das Súmulas n. os 5 e 7 do STJ.
+3. Não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico.
+4. A aplicação da multa prevista no § 4º do art. 1.021 do CPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 628-632).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, LIV; 24, XI e LV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido negativa de prestação jurisdicional, uma vez que a decisão recorrida foi genérica e não apreciou a realidade da matéria recursal, sendo que resta nítida a presença de todos os requisitos necessários para a admissibilidade do recurso especial. Aponta cerceamento de defesa e violação ao princípio do devido processo legal, do contraditório e da ampla defesa, bem como negativa de acesso à justiça.
+Requer, assim, a admissão e o provimento do recurso, atribuindo-lhe efeito suspensivo.
+É o relatório.
+2. Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 556-558):
+1) Da negativa de prestação jurisdicional
+CRONO LÓGICA argumentou que o acórdão recorrido foi omisso em relação às provas apresentadas nos autos, pois deixou de analisá-las e valorizá-las de forma adequada e fundamentada.
+No entanto, verifica-se que o Tribunal de origem se pronunciou sobre o tema nos seguintes termos:
+No caso em concreto, o autor fez prova do fato constitutivo de seu direito, na medida em que comprovou que as partes celebraram contrato de cessão de direitos de locação e fundo de comércio e que o réu deixou de pagar o valor de R$ 340.000,00 (trezentos e quarenta mil reais).
+O réu, a seu turno, não nega que está em débito, no entanto afirma que deixou de pagar as parcelas previstas no contrato em razão de o autor ter entregue o mobiliário sem condições de uso e que recebeu os aparelhos celulares com defeito e sem a nota fiscal.
+Quanto ao mobiliário, verifica-se pelo depoimento das testemunhas ouvidas pelo Juízo a quo que a loja foi entregue com todo o mobiliário, não tendo restado comprovado que estava sem condições de uso. Ao revés, observa-se que o preposto da apelante realizou a vistoria, não tendo feito qualquer ressalva no momento da tradição.
+No que tange aos aparelhos celulares, não restou comprovado nos autos que eles faziam parte da transação, não tendo nada a respeito de estoque no contrato de fls. 18-20.
+Pela análise de todo acervo probatório, conclui-se que o réu não comprovou os fatos impeditivos, modificativos ou extintivos do direito do autor, nos termos do artigo 373, inciso II, do Código de Processo Civil. (e-STJ fl. 320)
+De fato, não há os vícios mencionados nos arts. 489 e 1.022 do CPC, sendo necessário reconhecer que a pretensão recursal possui caráter nitidamente infringente, buscando rediscutir matéria já analisada.
+A jurisprudência desta Casa é pacífica ao afirmar que, se os fundamentos adotados são suficientes para justificar a decisão, o julgador não está obrigado a rebater, um a um, os argumentos apresentados pela parte.
+Nesse sentido:
+ ..
+(2) Da incidência das Súmulas n. os 5 e 7 do STJ (ônus da prova e revisão do contrato)
+Em suas razões recursais, CRONO LÓGICA alegou que, além dos produtos cedidos pelo contrato firmado entre as partes não estarem em perfeito estado de conservação, não foram apresentadas suas notas fiscais, o que os tornava imprestáveis para o consumo.
+Como a MAPI COMÉRCIO não cumpriu o contratado, sustou, legitimamente, os cheques que amparam a presente ação de cobrança.
+Segundo CRONO LÓGICA, o ônus da prova quanto ao cumprimento do contrato era da MAPI COMÉRCIO, que não apresentou as notas fiscais dos aparelhos celulares, maquinário e móveis para demonstrar o adimplemento do pacto.
+CRONO LÓGICA justificou a possibilidade de considerar a quebra do equilíbrio econômico do contrato de cessão de direitos para a revisão do contrato, pois foi comprovada a vantagem desproporcional a uma das partes, já que a recorrente, com base no princípio da boa-fé, apenas sustou os cheques após receber negativa da recorrida quanto à entrega das notas fiscais dos mobiliários (e-STJ fl. 383).
+Apesar das alegações trazidas no presente inconformismo, o acórdão recorrido consignou, como já referido, (i) que MAPI COMÉRCIO comprovou o fato constitutivo do seu direito por meio do contrato de cessão de direitos de locação e fundo de comércio firmado entre as partes; (ii) as testemunhas ouvidas e o preposto da CRONO LÓGICA não fizeram ressalvas quanto ao recebimento do mobiliário; e (iii) os aparelhos celulares não faziam parte do estoque referido no contrato de cessão.
+Nesse contexto, como afirmado na decisão ora agravada, revisar a conclusão do Tribunal fluminense quanto ao ônus da prova, ao descumprimento do contrato pela CRONO LÓGICA e à inocorrência de vantagem desproporcional a uma das contratantes na hipótese, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes.
+Portanto, não se pode conhecer das teses recursais com fundamento nos óbices das Súmulas n. os 5 e 7 do STJ.
+(4) Da divergência jurisprudencial
+Além disso, CRONO LÓGICA alegou dissídio jurisprudencial quanto ao ônus da prova e à aplicação do art. 373, I e II, do CPC.
+Do exame do recurso especial, verifica-se que CRONO LÓGICA não cumpriu os requisitos necessários para demonstrar o dissídio interpretativo que viabilizaria o recurso especial, pois não o fez conforme exigido pela legislação e pelas normas regimentais.
+Isso porque, além de indicar o dispositivo legal e transcrever as ementas dos julgados apontados como paradigmas, é necessário realizar o cotejo analítico, demonstrando, notadamente, a identidade das situações fáticas e a interpretação diversa dada ao mesmo dispositivo legal, o que não foi feito.
+A propósito, confira-se o seguinte julgado:
+ ..
+Portanto, não foram preenchidos os requisitos dos arts. 1.029, § 1º, do CPC, e 255 do RISTJ, o que inviabiliza o exame do dissídio interpretativo.
+Assim, fica inviabilizado o exame pretendido nesta insurgência, relacionado à correta aplicação de óbices processuais pelo STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos. Tal situação é a q ue se verifica no caso dos presentes autos, em que esta Corte Superior nem sequer conheceu da matéria sobre a qual se insurge a parte recorrente, ante a incidência das Súmulas 5 e 7 do STJ e não demonstração do dissídio jurisprudencial por meio de cotejo analítico.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Por fim, diante da negativa de seguimento ao recurso extraordinário, o pleito de atribuição de efeito suspensivo fica prejudicado.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
