@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual o INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS) se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 232):
+PREVIDENCIÁRIO. PROCESSO CIVIL. MANDADO DE SEGURANÇA. REVISÃO ADMINISTRATIVA. DECADÊNCIA. OCORRÊNCIA.
+- O mandado de segurança é remédio constitucional (art. 5º, LXIX, CF/88) destinado à proteção de direito líquido e certo contra ato ilegal ou abusivo perpetrado por autoridade pública.
+- O artigo 103-A da Lei n. 8.213/1991, previu o prazo decenal para a Autarquia Previdenciária anular seus atos administrativos.
+- A notificação do impetrante acerca da revisão administrativa realizada pelo INSS ocorreu mais de dez anos após a concessão do benefício ao segurado, impondo-se, assim, o reconhecimento da decadência.
+- Apelação provida.
+Foi negado provimento aos embargos de declaração (fls. 274/278).
+Nas razões de seu recurso especial, o INSS alega violação do art. 1.022 do Código de Processo Civil (CPC), dos arts. 103-A, 86, § 2º, e 124 da Lei 8.213/1991 e do art. 2º, caput, da Lei 9.784/1999.
+Para tanto, sustenta que o "reconhecimento do decurso do prazo decadencial, afastando o direito do Ente Público de cessar benefício previdenciário inacumulável a qualquer tempo, por não importar em revisão do ato concessório, cujo benefício foi concedido regularmente, viola os artigos 103-A e 124 da Lei 8.213/1991, e 2º, caput, da Lei 9.784/99" (fl. 231), e defende o direito do poder público de cessar benefício inacumulável a qualquer tempo, o que afasta a ocorrência do prazo decadencial.
+A parte adversa apresentou contrarrazões (fls. 303/307).
+O recurso não foi admitido, razão pela qual foi interposto o presente a gravo em recurso especial.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, e não há no julgado erro material, omissão, contradição ou obscuridade.
+É importante ressaltar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+No mérito, o Tribunal Regional Federal da 3ª Região asseverou que (fls. 230/231):
+O impetrante requer, em síntese, neste mandado de segurança, o restabelecimento de seu benefício de auxílio-acidente de trabalho (NB 94/085.936.925-0), cessado em 31/7/2021, sob a alegação de que é devida a sua cumulação com sua aposentadoria por tempo de contribuição (NB 42/128.682.465-3), que recebe desde 20/5/1998.
+A Administração, em atenção ao princípio da legalidade, tem o poder-dever de anular seus próprios atos quando eivados de vícios que os tornem ilegais (Súmulas 346 e 473 do STF).
+Ademais, para os benefícios concedidos desde o início da vigência da Lei n. 9.784/1999, o prazo decadencial a incidir é o de (MP n. 138, de 2003), dez anos contados da data em que foi praticado o ato administrativo (ou da percepção do primeiro pagamento, conforme o caso), salvo comprovada má-fé.
+Tal prazo há de ser aplicado, inclusive, quando o ato administrativo houver sido praticado anteriormente à vigência da Lei 9.784/1999 (e depois da revogação da Lei 6.309/1975). Nessa hipótese, conta-se o prazo a partir da entrada em vigor da Lei 9.784/1999, ante a impossibilidade de sua retroação, conforme entendimento pacificado pelo Superior Tribunal de Justiça (STJ) por ocasião do julgamento do Recurso Especial Repetitivo n. 1.114.938/AL (Rel. Ministro Napoleão Nunes Maia Filho, 3ª Seção, unânime, julgado em 14/4/2010).
+ ..
+No caso concreto, há indício, ou mesmo alegação, de que o impetrante não tenha agido de má-fé. Com efeito, está evidenciado o erro operacional da Administração Previdenciária consistente na continuidade do pagamento do auxílio-acidente depois da concessão da aposentadoria à parte autora.
+O impetrante percebe auxílio-acidente desde 1º/11/1989 e, em 20/5/1998, passou a ser titular, também, de aposentadoria por tempo de contribuição. Na época da concessão do segundo benefício, a autarquia deixou de cessar o pagamento do auxílio-acidente, em obediência ao artigo 86, § 1º, da Lei n. 8.213/1991, com redação dada pela Lei n. 9.528/1997.
+Tendo o procedimento administrativo de cassação do auxílio-acidente iniciado apenas em 2020, depois de mais de dez anos da concessão da aposentadoria por tempo de contribuição, conclui-se ter, de fato, decorrido o prazo decadencial para que o INSS constatasse a cumulação indevida dos benefícios.
+ ..
+Assim, não obstante a previsão legal de inacumulabilidade dos benefícios em comento, é devida a manutenção da percepção concomitante dos benefícios em questão pelo impetrante em razão da decadência, via de consequência, não cabe cogitar de devolução de valores percebidos indevidamente nestes autos.
+Contudo, essa conclusão não impede o INSS de, afastando o bis in idem, excluir da base de cálculo da aposentadoria possíveis valores decorrentes de auxílio-acidente que, porventura, integraram o salário de contribuição.
+Diante do exposto, dou provimento à apelação para, nos termos da fundamentação deste julgado, conceder a segurança pleiteada.
+Conforme se extrai do acórdão recorrido, o ora agravado impetrou mandado de segurança com vistas ao reconhecimento do direito à cumulação do auxílio-acidente com aposentadoria por tempo de contribuição, sob a alegação de que ocorrera a decadência do direito de revisão pelo INSS.
+O Juízo de primeira instância denegou a segurança pleiteada sob o fundamento de que a análise da ocorrência de eventual decadência demandaria dilação probatória, especialmente acerca da existência de má-fé no recebimento cumulativo dos benefícios. No entanto, o TRF da 3ª Região deu provimento à apelação do impetrante para determinar a manutenção da percepção concomitante dos benefícios em razão da decadência.
+Verifico que a data de início do auxílio-acidente é 1º/11/1989, e a da aposentadoria é 20/5/1998. Isso demonstra claramente que em 31/7/2021, data da cessação do benefício de auxílio-acidente, já estava configurada a decadência para a autarquia previdenciária revisar a cumulação dos benefícios, nos termos do art. 103-A da Lei 8.213/1991 (fl. 239).
+A Corte de origem, ao decidir a controvérsia, adotou entendimento consonante com a orientação firmada pela jurisprudência do Superior Tribunal de Justiça (STJ), no sentido de que a revisão administrativa de benefício previdenciário se submete a prazo decadencial decenal.
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. REVISÃO. ART. 103-A DA LEI 8.213/1991. DECADÊNCIA. INOCORRÊNCIA. PRAZO DECENAL. TEMA 214/STJ. ACÓRDÃO PARADIGMA: RESP 1.114.938/AL, REL. MIN. NAPOLEÃO NUNES MAIA FILHO, TERCEIRA SEÇÃO, SOB O RITO DO ART. 543-C DO CPC/1973. AGRAVO INTERNO DA FUNDAÇÃO A QUE SE NEGA PROVIMENTO.
+1. A Terceira Seção deste egrégio Superior Tribunal de Justiça, nos autos do REsp 1.114.938/AL, da relatoria do eminente Ministro NAPOLEÃO NUNES MAIA FILHO, julgados em 14/04/2010, sob o rito dos recursos repetitivos, Tema 214/STJ, firmou entendimento segundo o qual o prazo decadencial para a Administração Pública rever os atos que gerem vantagem aos segurados será disciplinado pelo art. 103-A da Lei 8.213/1991, que fixou o referido prazo em 10 anos, descontado o prazo já transcorrido antes do advento da MP 138/2003. Considerando que o prazo decadencial teve início com a edição da Lei 9.784, de 29 de janeiro de 1999, a Autarquia Previdenciária tem até o dia 1º de fevereiro de 2009 para rever os atos anteriores à vigência do art. 103-A da Lei 8.213/1991.
+ ..
+3. Agravo interno do particular que se nega provimento.
+(AgInt no AREsp n. 1.234.120/RJ, relator Ministro Manoel Erhardt - Desembargador Convocado do Trf5, Primeira Turma, DJe de 24/11/2021.)
+PREVIDENCIÁRIO. PENSÃO DE EX-COMBATENTE. REVISÃO. DECADÊNCIA. NÃO OCORRÊNCIA.
+1. Em virtude de a redação original da Lei n. 8.213/1991 não ter estipulado prazo para a Previdência Social anular os atos administrativos dos quais decorressem efeitos favoráveis aos seus beneficiários, aplicou-se, ao longo do tempo, o prazo quinquenal previsto no Decreto n. 20.910/1932, no art. 7º da Lei n. 6.309/1975, no art. 383 do Decreto n. 83.080/1979, no art. 207 do Decreto n. 89.312/1984 e, por último, no art. 54 da Lei n. 9.784/1999. 2. Esta Corte Superior, no julgamento do REsp 1.114.938/AL, sob o rito do art. 543-C do CPC/1973, firmou a orientação de que o INSS possui o prazo de dez anos, previsto no art. 103-A da Lei n. 8.213/1991, a contar de 1º/02/1999, para instaurar revisão de benefícios previdenciários concedidos antes da vigência da Lei n. 9.784/1999.
+ ..
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.567.358/SC, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 8/9/2020.)
+Assim, de acordo com as premissas fáticas estabelecidas pelo Tribunal de origem, a revisão foi iniciada pela autarquia previdenciária após o prazo decenal, o que configura a decadência do poder de revisão da administração.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
