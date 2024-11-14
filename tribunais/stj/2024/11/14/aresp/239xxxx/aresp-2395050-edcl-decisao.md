@@ -1,0 +1,18 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos contra decisão que negou seguimento ao recurso extraordinário, assim ementada (fl. 1.252):
+RECURSO EXTRAORDINÁRIO. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO.
+A parte embargante alega que a decisão monocrática atacada incorreu em omissão, pois deixou de examinar argumentos relativos trazidos nas razões de recurso extraordinário "quanto a excepcionalidade da regra geral, denotando que em alguns casos em específico, cabe o Recurso Extraordinário para reexame de acórdão do STJ, referentes aos pressupostos de admissibilidade do REsp, quando, contrariar, em tese, o disposto no Art. 105, inciso III, da Carta Magna" (fl. 1.270).
+Sustenta haver obscuridade na decisão monocrática embargada especificamente na parte em que consta o seguinte fundamento: "Vale Registrar não ser cabível agravo em recurso extraordinário (previsto no Art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC", uma vez que seu recurso extraordinário não teve por objeto decisão anterior de inadmissibilidade de recurso extraordinário diverso.
+Requer o acolhimento dos aclaratórios para que os defeitos apontados sejam sanados, com a correspondente repercussão jurídica.
+É o relatório.
+2. O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão".
+Os declaratórios são admitidos, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, pois, conforme registrado na decisão embargada, quando o STJ não conhecer do recurso de sua competência, tal como verificado nestes autos, em que o recurso especial foi obstado pela incidência do óbice do enunciado de Súmula do STJ de n. 7, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+Ainda restou claro na decisão embargada que a aplicação do Tema n. 181/STF também é possível nas hipóteses em que o recurso extraordinário trouxer alegação de ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829- AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Por fim, não há obscuridade na advertência que consta ao final da decisão monocrática embargada (fls. 1.252-1.255), no sentido de orientar antecipadamente a parte de que daquela decisão não é admitido agravo em recurso extraordinário. A advertência serve ao propósito de conferir orientação para a condução do devido processo, e foi consignada em prol dos princípios da eficiência e da duração razoável do processo.
+Inexistindo, portanto, vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+3. Ante o exposto, com fundamento no art. 22, § 2º, I, a, do Regimento Interno do STJ, rejeito os embargos de declaração.
+Advirto à parte embargante que a reiteração de embargos de declaração dessa natureza pode ser sancionada com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. NÃO OCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO.
