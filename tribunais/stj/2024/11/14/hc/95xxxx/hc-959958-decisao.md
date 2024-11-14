@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Geverson Alves da Silva, no qual se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina (Agravo de Execução Penal n. 8000917-73.2024.8.24.0008 - fls. 10/16), comporta pronto acolhimento.
+Com efeito, busca a impetração restabelecer a decisão que concedera ao paciente direito à saída temporária - proferida na Execução da Pena n. 8003944-69.2021.8.24.0008 (fls. 24/27 - da Vara de Execuções Penais da comarca de Blumenau/SC) -, ao argumento de que o art. 112 da Lei n. 14.483/23 trata-se de novatio legis in pejus, de forma que a sua aplicação, no ponto, configuraria ofensa ao princípio da irretroatividade da lei penal mais gravosa. A nova legislação só poderia incidir caso fosse mais favorável ao apenado (novatio legis in mellius) (fl. 6) .
+Do atento exame dos autos observo que foi demonstrado constrangimento ilegal no indeferimento da saída temporária, pois a fundamentação utilizada pela Corte estadual - por se tratar de norma processual (que estabelece as regras para a obtenção de benefício no âmbito penal) entendo que o caso em análise atrai a aplicação do princípio do tempus regit actum, de modo que o direito à saída temporária é disciplinado pela lei vigente à época da análise do requerimento, isto é, da aferição dos requisitos impostos pela legislação, ainda que a lei anterior seja mais benéfica, conforme interpretação do art. 2º do Código de Processo Penal c/c art. art. 2º da Lei n. 7.210/84 (fl. 14) - está em desacordo com o entendimento desta Corte Superior (HC n. 932.864/SC, de minha relatoria, Sexta Turma, julgado em 10/9/2024, DJe 13/9/2024).
+Em razão disso, concedo liminarmente a ordem impetrada para, cassando o acórdão hostilizado, restabelecer a concessão de saída temporária ao paciente deferida na Execução da Pena n. 8003944-69.2021.8.24.0008, da Vara de Execuções Penais da comarca de Blumenau/SC.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. SAÍDA TEMPORÁRIA. APLICAÇÃO RETROATIVA DA LEI N. 14.843/2024. IMPOSSIBILIDADE. NOVATIO LEGIS IN PEJUS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
