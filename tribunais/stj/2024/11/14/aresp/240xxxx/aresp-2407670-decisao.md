@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual JOSE RAIMUNDO QUEIROZ DA CRUZ se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA assim ementado (fl. 13):
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. AÇÃO DE REINTEGRAÇÃO DE SERVIDOR DEMITIDO. PRESCRIÇÃO DE FUNDO DE DIREITO. TEORIA DA ACTIO NATA. SENTENÇA DE EXTINÇÃO DA PUNIBILIDADE NA ESFERA PENAL QUE NÃO INTERFERE EM DECISAO ADMINISTRATIVA. INDEPENDENCIA DAS INSTÂNCIAS. RECURSO IMPROVIDO.
+O ordenamento jurídico pátrio, para efeito de definição do marco inicial da prescrição adotou a teoria da actio nata, de modo que o início do interregno prescricional coincide com o momento da violação do direito.
+A jurisprudência é pacífica no sentido de ser necessária a revisão de condenação em PAD quando proferida sentença de mérito em ação penal na qual se reconheça a negativa de autoria ou inexistência do fato. O que não é o caso dos autos.
+No caso dos autos é incontroverso que a demissão do autor se deu através de processo administrativo disciplinar, e não em decorrência de processo criminal. Assim sendo, a sentença extintiva de punibilidade pelo reconhecimento das prescrição da pretensão punitiva é irrelevante para a sorte da condenação administrativa.
+Tendo sido declarada a prescrição da pretensão punitiva em processo criminal não há de se falar em interferência no interregno prescricional para desconstituição da decisão administrativa, que deflagrou-se com a publicação em BGO da decisão de demissão, no ano de 1988.
+Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 35/42).
+Nas razões de seu recurso especial, a parte ora agravante afirma haver violação dos arts. 1º do Decreto 20.910/1932, 2º da Lei 9.784/1999 e 92, I, do Código penal, porque:
+O Recorrente, ex-soldado da Polícia Militar do Estado da Bahia, foi submetido a Sindicância administrativa, cuja conclusão culminou com a sua exclusão "ex officio", conforme BGO nº. 72/88 DE 16/05/1998.
+Em virtude de deste fato, foi instaurado inquérito policial e posteriormente, deflagrado ação penal contra o Recorrente, que teve curso perante na Vara Criminal da Comarca de Amélia Rodrigues/Bahia, processo nº 08/1988. Assim, passou o Recorrente a responder a referida ação penal, aguardando a resolução da mesma, para após ingressar com o seu pedido de retorno à Corporação Militar, vez que seu desligamento se deu exclusivamente pelos mesmos motivos que ensejou a ação penal.
+ ..  a Ação Penal, cumpre esclarecer que a mesma teve o seu prosseguimento na esfera primária, o Ilustre Juiz da Vara Crime da Comarca de Amélia Rodrigues/Bahia ao compulsar os autos, constatou que o Apelante foi denunciado pela prática do delito tipificado no art. 121,§2º, I e IV do Código Penal. Assim, com base no art. 107, IV, e art. 109, I, todos do Código Penal, declarou, por sentença, a extinção da punibilidade, em virtude da ocorrência da prescrição da pretensão punitiva estatal em relação às infrações que motivaram a acusação.
+ ..  de uma simples analise da decisão recorrida , observa-se de forma cristalina, que não houve apreciação correta das provas e razões do Recorrente, imperando-se assim na interposição do presente recurso especial.
+ ..  não procede o entendimento exposto no Acórdão proferido pelo TJBA, uma vez que resta claro no caso, QUE NÃO HOUVE A PRESCRIÇÃO DO DIREITO DO RECORRENTE PLEITEAR SUA REINTEGRAÇÃO A PMBA, nos moldes estampados na decisão, não havendo que se falar na aplicação do art. 1º do Decreto 20910/32.
+ ..  que, quando o ilícito administrativo tem repercussão na esfera penal, o prazo prescricional é regulado pela data do trânsito em julgado da sentença penal absolutória. No caso, a sentença penal que absolveu Recorrente foi proferida na data de 09/11/2017, não tendo sido oposto qualquer recurso, transitado, portanto, em julgado a sentença, iniciando-se a partir daí o prazo prescricional para pleitear a sua reintegração.
+ ..
+Desta forma, no presente caso não há incidência do art. 1º do Decreto Federal nº 20.910/32, de modo que, o prazo prescricional não se conta em cinco anos, a partir da demissão do Recorrente, MAS SIM, a partir do trânsito em julgado da ação penal, pois, do contrário estaria se desconsiderando a segurança jurídica, bem como, negando valor a uma decisão judicial, que reconheceu pela inocência do acusado. Entender de modo diverso é compactuar com aberrante situação de injustiça. (fls. 73/77)
+A parte adversa apresentou contrarrazões (fls. 87/92).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+A Corte de origem, ao apreciar a controvérsia, concluiu por incidir no presente caso a prescrição de fundo de direito nos seguintes termos (fls. 15/19):
+A pretensão encontra-se notoriamente prescrita. Explico.
+O ato inquinado foi praticado no ano de 1988. Trata-se de ato de efeito concreto que não se protrai no tempo, de modo que se submete a. prescrição de fundo de direito no prazo constante do art. 1º do Decreto. 2.0910/32.
+ ..
+Como é cediço, o ordenamento jurídico pátrio, para efeito de definição do marco inicial da prescrição adotou a teoria da actio nata, de que o início do interregno prescricional coincide com o momento da violação do direito.
+ ..
+No caso dos autos, a pretensão do autor está há muito prescrita, não tendo a sentença penal declaratória de prescrição aptidão para ensejar o reinício do prazo prescricional do pleito autoral. Explico.
+Bem se sabe que o Direito pátrio adotou a regra da independência entre as instâncias administrativa, cível e criminal, conforme dispõem os arts. 125 da lei 8112/91 e 935 do Código Civil, que dispõem:
+ ..
+De tais prescrições não passou a largo o legislador ordinário estadual, que inseriu idêntica regra no art. 50, § 4º, da lei nº 7.990/01, o Estatuto da Polícia Militar, que prescreve:
+ ..
+A regra da independência das instâncias enseja a possibilidade de exclusão do policial militar em mais de uma destas instâncias em decorrência do mesmo fato. Verbi gratia, pode o servidor público militar ser punido administrativamente pelo cometimento de crime incompatível com a função militar, conforme regra do art. 57, II, do EPMBA, e, ao mesmo tempo, ter contra si decretada a perda da função pública pelo mesmo fato por aplicação da regra disposta no art. 92, I, do Código Penal.
+ ..
+No caso dos autos é incontroverso que a demissão do autor se deu através de processo administrativo disciplinar, e não em decorrência de processo criminal. Assim sendo, a sentença extintiva de punibilidade pelo reconhecimento da prescrição da pretensão punitiva é irrelevante para sorte da condenação administrativa.
+Com efeito, a jurisprudência é pacífica no sentido de ser necessária a revisão de condenação em PAD quando proferida sentença de mérito em ação penal na qual se reconheça a negativa de autoria ou inexistência do fato. O que não é o caso dos autos. Tendo sido declarada a prescrição da pretensão punitiva estatal em processo criminal não há de se falar em interferência no interregno prescricional para desconstituição da decisão administrativa, que deflagrou-se com a publicação em BGO da decisão de demissão, no ano de 1988.
+Ao apreciar os embargos de declaração, firmou o seguinte entendimento (fls. 40 /41):
+Decerto, todas as questões ventiladas na peça recursal foram enfrentadas por esta Casa, que as refutou eficazmente, salientando que "a jurisprudência é pacífica no sentido de ser necessária a revisão de condenação em PAD quando proferida sentença de mérito em ação penal na qual se reconheça a negativa de autoria ou inexistência do fato. O que não é o caso dos autos. Tendo sido declarada a prescrição da pretensão punitiva estatal em processo criminal não há de se falar em interferência no interregno prescricional para desconstituição da decisão administrativa, que deflagrou-se com a publicação em BGO da decisão de demissão, no ano de 1988."
+Ademais, importa chamar à atenção o nobre causídico no concernente à natureza jurídica da sentença que reconhece a ocorrência de prescrição da pretensão condenatória penal. Para tanto, salutar trazer o excerto da doutrina de Nestor Távora:
+A sentença declaratória de extinção de punibilidade é uma decisão definitiva que encerra a relação processual, julga o mérito, mas não condena nem absolve. Em outras palavras, essa sentença aprecia o mérito da demanda, porém não de forma exauriente. É denominada de terminativa de mérito ou de definitiva, eis "que se julga o mérito, se define o juízo, mas não se condena nem absolve o acusado"  ..  A decisão que reconhece, pura e simplesmente, a prescrição da ação, por si só, não produz qualquer efeito civil, afinal deságua na extinção da punibilidade (art. 107, IV, CP). Nem mesmo a prescrição penal tem a ver com a prescrição preconizada pela lei civil, havendo previsão de lapsos diferenciados. (TÁVORA, Nestor. Curso de Direito Processual Penal. p. 1131. JusPodivm. Salvador. 2017)
+Não é sem razão que o art. 386 do CPP, ao listar as hipóteses de sentença absolutória, não insere o reconhecimento da prescrição punitiva em seu bojo:
+Art. 386. O juiz absolverá o réu, mencionando a causa na parte dispositiva, desde que reconheça:
+I - estar provada a inexistência do fato;
+II - não haver prova da existência do fato;
+III - não constituir o fato infração penal;
+IV - estar provado que o réu não concorreu para a infração penal;
+V - não existir prova de ter o réu concorrido para a infração penal;
+VI - existirem circunstâncias que excluam o crime ou isentem o réu de pena (arts. 20, 21, 22, 23, 26 e § 1º do art. 28, todos do Código Penal), ou mesmo se houver fundada dúvida sobre sua existência;
+VII - não existir prova suficiente para a condenação.
+Desta feita, vê-se que a sentença que reconhece a prescrição da pretensão punitiva penal tem natureza de decisão declaratória. Assim, tendo sido proferida sentença declaratória de extinção de punibilidade, e não absolutória, não há de se falar em alteração do interregno prescricional, merecendo rejeição o presente recurso horizontal.
+Na peça recursal, todavia, o recorrente não se insurge contra a fundamentação adotada, em especial, contra o fato de que a sentença penal absolutória por negativa de autoria ou inexistência do fato repercute na esfera administrativa, bem como em relação ao fato de que no caso concreto foi proferida sentença penal que reconheceu a prescrição da pretensão punitiva, de natureza declaratória, o que não se confunde com a sentença absolutória e, portanto, não repercute na alteração do termo inicial do prazo prescricional para rever o ato que o excluiu das fileiras da Polícia Militar do Estado da Bahia.
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
