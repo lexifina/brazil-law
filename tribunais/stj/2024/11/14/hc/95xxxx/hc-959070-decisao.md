@@ -1,0 +1,9 @@
+DECISÃO
+MATHEUS GARCIA CHAGAS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0007291-81.2024.8.26.0496, em que foi mantida a decisão "que indeferiu o pedido de indulto/comutação de penas, por não preencher os requisitos do Decreto Presidencial nº 11.846/2023" (fl. 9).
+Asseriu a defesa, perante a Corte de origem, "que o agravante preenche todos os requisitos necessários para a concessão do benefício previsto no Decreto Presidencial nº 11.846/2023. Requer, o provimento do recurso, concedendo ao agravante o indulto, extinguindo a punibilidade, nos termos do artigo 107, inciso II, do Código Penal" (fl. 9).
+Todavia, ao manter o decisum, salientou o Tribunal a quo que "o agravante deveria ter comprovado o cumprimento de 2/3 da reprimenda correspondente ao delito equiparado a hediondo e mais 1/4 da pena imposta ao crime comum, o que não restou comprovado nos autos, conforme o cálculo de pena de fls. 15/18" (fl. 12).
+De fato, nos termos do parágrafo único do artigo 8º do Decreto n. 11.846/2023, " n a hipótese de haver concurso com crime descrito no art. 1º, não será declarado o indulto ou a comutação da pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo dos benefícios" (destaquei).
+Em conjuntura assemelhada, já salientou o Superior Tribunal de Justiça que, " n o caso, a apenada, não cumpriu a pena relativa ao crime impeditivo (tráfico de drogas), de forma que estando ausente o requisito objetivo para concessão do instituto, resta impossibilitado o deferimento do indulto natalino" (AgRg no HC n. 883.438/SE, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 2/8/2024.)
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
