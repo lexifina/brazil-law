@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo contra a inadmissão do recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS), com fundamento no art. 105, III, a, da Constituição Federal (CF), contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+Uma das matérias debatidas nos autos, qual seja, definir "o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS: se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária", encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento dos Recursos Especiais 1.905.830/SP, 1.912.784/SP e 1.913.152/SP, de relatoria do Ministro Herman Benjamin, sob o rito dos recursos repetitivos (Tema 1.124/STJ).
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos deste agravo em recurso especial, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC/2015, após a publicação dos recursos excepcionais representativos da controvérsia, o Tribunal de origem proceda nos termos dos arts . 1.040 e seguinte do CPC/2015.
+Publique-se. Intimações necessárias.
+EMENTA
