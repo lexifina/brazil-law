@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO DE COBRANÇA. CERCEAMENTO DE DEFESA. PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  211/STJ.  DESPESAS HOSPITALARES. ATENDIMENTO DE URGÊNCIA. NEGÓCIO JURÍDICO. ANULAÇÃO. ESTADO DE PERIGO. REEXAME.  SÚMULA  Nº  7/STJ.
+1.  A  falta  de  prequestionamento  da  matéria  suscitada  no  recurso  especial,  a  despeito  da  oposição  de  embargos  de  declaração,  impede  o  seu  conhecimento,  a  teor  da  Súmula  nº  211/STJ.
+2.  A  admissão  de  prequestionamento  ficto  (art.  1.025  do  CPC),  em  recurso  especial,  exige  que  no  mesmo  recurso  seja  indicada  e  reconhecida  a  violação  do  art.  1.022  do  CPC  para  que  se  possibilite  ao  órgão  julgador  verificar  a  existência  do  vício apontado ao  acórdão,  que,  uma  vez  constatado,  poderá  dar  ensejo  à  supressão  de  grau  facultada  pelo  dispositivo  de  lei.
+3.  Na  hipótese,  a  reforma  do  julgado,  a  fim  de  se afastar a nulidade do negócio jurídico por vício de consentimento decorrente do estado de perigo  demandaria  a  análise  de  fatos  e  provas,  procedimento  inviável  em  recurso  especial  em  virtude  da  incidência  da  Súmula  nº  7/STJ.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  FUNDAÇÃO FELICE ROSSO  contra  a  decisão  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial.
+Naquela  oportunidade,  as  seguintes  questões  foram  decididas:  (i)  ausência  de  prequestionamento, e (ii)  a  revisão  do  entendimento  do  tribunal  de  origem  demandaria  o  reexame  do  contexto  fático-probatório  dos  autos,  a  atrair  a  incidência  da  Súmula  nº  7/STJ (e-STJ fls. 377/379).
+Nas  presentes  razões  (e-STJ  fls.  385/391),  a  agravante  requer  a  reconsideração  da  decisão  agravada.
+Alega  a existência de prequestionamento ficto, isso porque provocou expressamente o Tribunal a quo através dos embargos de declaração a se manifestar acerca do cerceamento de defesa tendo, portanto, se desincumbido de seu ônus processual nos termos do artigo 1.025 do CPC.
+Postula, ainda, o afastamento do óbice da Súmula nº 7/STJ, ao argumento de que
+"a qualificação jurídica dos fatos não se confunde com a matéria de fato, de modo que a questão aqui apresentada restringe-se tão somente ao devido enquadramento da decisão no sistema normativo, não havendo que se falar em rediscussão da matéria fática, a qual já fora esgotada no momento oportuno".
+Impugnação (e-STJ fls. 398/404).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO DE COBRANÇA. CERCEAMENTO DE DEFESA. PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  211/STJ.  DESPESAS HOSPITALARES. ATENDIMENTO DE URGÊNCIA. NEGÓCIO JURÍDICO. ANULAÇÃO. ESTADO DE PERIGO. REEXAME.  SÚMULA  Nº  7/STJ.
+1.  A  falta  de  prequestionamento  da  matéria  suscitada  no  recurso  especial,  a  despeito  da  oposição  de  embargos  de  declaração,  impede  o  seu  conhecimento,  a  teor  da  Súmula  nº  211/STJ.
+2.  A  admissão  de  prequestionamento  ficto  (art.  1.025  do  CPC),  em  recurso  especial,  exige  que  no  mesmo  recurso  seja  indicada  e  reconhecida  a  violação  do  art.  1.022  do  CPC  para  que  se  possibilite  ao  órgão  julgador  verificar  a  existência  do  vício apontado ao  acórdão,  que,  uma  vez  constatado,  poderá  dar  ensejo  à  supressão  de  grau  facultada  pelo  dispositivo  de  lei.
+3.  Na  hipótese,  a  reforma  do  julgado,  a  fim  de  se afastar a nulidade do negócio jurídico por vício de consentimento decorrente do estado de perigo  demandaria  a  análise  de  fatos  e  provas,  procedimento  inviável  em  recurso  especial  em  virtude  da  incidência  da  Súmula  nº  7/STJ.
+4.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+De  início,  no  que  diz  respeito  ao alegado cerceamento de defesa,  observa-se  que  tais dispositivos não  foram  objeto  de  debate  pelas  instâncias  ordinárias,  nem sequer  de  modo  implícito,  e,  embora  opostos  embargos  de  declaração  com  a  finalidade  de  sanar  omissão  porventura  existente,  a recorrente não  indicou  a  contrariedade  ao  art.  1.022  do  Código  de  Processo  Civil.
+De  fato,  para  que  se  configure  o  prequestionamento,  é  necessário  que  o  tribunal  de  origem  se  pronuncie  especificamente  a  respeito  da  matéria  articulada  pela  parte,  emitindo  juízo  de  valor  em  relação  aos  dispositivos  legais  indicados  e  examinando  a  sua  aplicação , ou  não,  ao  caso  concreto.
+Nessa  circunstância,  ausente  o  requisito  do  prequestionamento,  incide  o  disposto  na  Súmula  nº  211/STJ.
+Cumpre  assinalar  que,  de  acordo  com  a  jurisprudência  deste  Superior  Tribunal,  a  admissão  de  prequestionamento  ficto  em  recurso  especial,  previsto  no  art.  1.025  do  Código  de  Processo  Civil,  exige  que  no  mesmo  recurso  seja  reconhecida  a  existência  de  violação  do  art.  1.022  do  CPC,  o  que  não  é  o  caso  dos  autos.
+A  propósito:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  CIVIL  E  CONSUMIDOR.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA.  ART.  1.021,  §  1º,  DO  CPC.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULA  211/STJ.  PREQUESTIONAMENTO  FICTO  NÃO  CONFIGURADO.  VIOLAÇÃO  DO  ART.  1.022  DO  CPC  QUE  SEQUER  FOI  ARGUIDA.  APLICAÇÃO  DE  MULTA  COM  FUNDAMENTO  NO  ART.  1.026,  §  2º,  DO  CPC.  IMPOSSIBILIDADE  DE  REEXAME.  SÚMULA  7/STJ.
+1.  Não  pode  ser  conhecido  o  agravo  interno  na  parte  relativa  ao  dissídio  jurisprudencial,  tendo  em  vista  a  ausência  de  impugnação  específica  ao  fundamento  adotado  na  decisão  agravada.  Inteligência  do  art.  1.021,  §  1º,  do  CPC.
+2.  Ausente  o  prequestionamento  quando  o  Tribunal  de  origem  não  emitiu  juízo  de  valor  acerca  do  dispositivo  legal  apontado  como  violado.  Aplicação  da  Súmula  211/STJ.
+3.  Prequestionamento  ficto  que  pressupõe  não  apenas  a  oposição  de  embargos  de  declaração  na  origem,  mas  também  a  alegação,  perante  este  Superior  Tribunal,  da  ocorrência  de  violação  do  art.  1.022  do  CPC,  o  que  não  ocorreu  no  presente  caso.
+4.  O  exame  do  recurso  especial,  para  afastar  a  aplicação  da  multa  prevista  no  art.  1.026,  §  2º,  do  CPC,  demandaria  a  incursão  no  acervo  fático  dos  autos,  o  que  não  se  mostra  possível  nesta  instância  especial.  Aplicação  da  Súmula  7/STJ.
+5.  AGRAVO  INTERNO  CONHECIDO  EM  PARTE  E  DESPROVIDO"  (AgInt  no  REsp  1.839.004/SP,  Rel.  Ministro  PAULO  DE  TARSO  SANSEVERINO,  Terceira  Turma,  julgado  em  28/11/2022,  DJe  de  13/12/2022).
+Ademais,  no  tocante  à alegação de que não ocorreu o vício de consentimento decorrente do estado de perigo,  o  tribunal  local  assim  concluiu:
+"Ante o exposto, entendo que o referido negócio jurídico é passível de anulação, tendo em vista o vício de consentimento decorrente do estado de perigo, nos termos do artigo 171, II, CC/2002, cujos pressupostos são: necessidade de salvar-se, ou a pessoa de sua família; a iminência do dano e o seu conhecimento pela outra parte; e a caracterização da obrigação assumida como excessivamente onerosa.
+Do exame dos autos, constata-se que a apelada, UZILANE DA SILVA ARAÚJO, foi internada em grave estado de saúde, sob risco de morte, sendo, posteriormente, diagnosticada com gravidez ectópica. Conforme relatado, a Apelada buscou, inicialmente, hospital da rede pública, mas sua irmã não conseguiu ser atendida, pois o local estava lotado e, diante da gravidade da situação, não poderiam esperar. Logo, tiveram que recorrer ao hospital-Apelante.
+Tal situação é corroborada pelo contrato entabulado entre as partes, documento de ordem n.º 6, no qual é possível verificar, no campo dados da internação, que a paciente foi recebida em situação de urgência pelo plano enfermaria. Além disso, a Apelante em nenhum momento debate o estado de emergência em que se encontrava Uzilane quando chegou ao hospital.
+Diante dos fatos narrados, entendo que restou devidamente comprovado o abalo emocional das Apeladas a ponto de terem sua manifestação de vontade viciada. Sendo, também, o caso de exorbitância da obrigação, evidenciando a abusividade e a obtenção de vantagem indevida no momento da situação de desespero e aflição da outra parte contratante, razão pela qual a nulidade do negócio jurídico é o desfecho mais adequado ao caso" (e-STJ fls. 212/213).
+  Nesse  contexto,  não  há  como  rever  o  entendimento  firmado  na  instância  ordinária  sem  a  análise  de  fatos  e  provas,  procedimento  inviável  em  recurso  especial  em  virtude  da  incidência  da  Súmula  nº  7/STJ.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
