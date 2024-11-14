@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO FEDERAL DA 4ª VARA DE SÃO JOSÉ DO RIO PRETO - SJ/SP suscita conflito de competência, em inquérito policial, diante do JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE SÃO JOSÉ DO RIO PRETO - SP.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente (federal ou estadual) para a adoção de medidas judiciais que se façam necessárias em investigação deflagrada pela suposta apropriação de valores e falsificação de documento público relacionado a uma reclamação trabalhista.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da 1ª Vara Criminal de São José do Rio Preto - SP, ora suscitado (fls. 176-177).
+Decido.
+Embora toda a controvérsia haja surgido porque o caso decorre de uma reclamação trabalhista, observa-se que a apropriação indevida dos valores referentes a um depósito recursal confiados ao advogado, bem como a falsificação de documento público e o uso desse documento se dirigiram e ofenderam a esfera exclusiva do particular.
+De fato, os supostos delitos de falsificação ou uso de documento falso não foram perpetrados perante da Justiça Trabalhista ou dentro de um processo trabalhista, mas fora dele, com o único objetivo de que ludibriar a vítima em relação aos valores que foram entregues ao advogado para depósito recursal e que foram apropriados indevidamente.
+Estou, nesse caso, portanto, de acordo com o Ministério Público Federal, quando assinalou que "o documento falso - guia de depósito emitida pela CEF - usado em contexto de reclamação trabalhista não gerou qualquer prejuízo à CEF, uma vez que esta funcionou apenas como agente arrecadador" (fl. 177), cuja finalidade era a de comprovar ao particular o pretenso depósito.
+No particular, como destacou o Juízo Federal de primeiro grau, na decisão que suscitou o conflito negativa de competência, " c onsiderando que a apresentação do documento falso ocorreu em face de Natalino Dias Vendas, entendo que o crime, de fato, é da competência do Juízo Estadual, uma vez que não foi usado como meio de prova no processo trabalhista, mas, tão somente, apresentado a particular" (fl. 4).
+Ante o exposto, não havendo lesão a entidades afetas à União, conheço do conflito para declarar competente o Juízo de Direito da 1ª Vara Criminal de São José do Rio Preto - SP, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
