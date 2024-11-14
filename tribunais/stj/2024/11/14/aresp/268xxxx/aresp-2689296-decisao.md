@@ -1,0 +1,51 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por FABRICIO VILELA VILAS BOAS, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de indenização por danos materiais e compensação por danos morais, ajuizada pelo agravante, em face de MARÇAL VILELA VILAS BOAS, decorrente de incêndio que atingiu sua propriedade e que teria sido causado por funcionários do agravado.
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. PRELIMIANR. NEGATIVA DE PRESTAÇÃO JURISDIONAL. REJEIÇÃO. RESPONSABILIDADE CIVIL. NATUREZA JURÍDICA. SUBJETIVA. CONDULTA CULPOSA NÃO DEMONSTRADA. RESPONSABILIDADE CIVIL AMBIENTAL. HIPÓTESE DIVERSA. PRETENSÃO INDENIZATÓRIA FORMULADA POR PARTICULAR CONTRA PARTICULAR. APLICAÇÃO DA REGRA GERAL. AUSÊNCIA DE COMPROVAÇÃO DA ORIGEM DO FATO QUE PROVOCOU O DANO. SENTENÇA MANTIDA NA ÍNTEGRA.
+- Afasta-se o argumento de negativa de prestação jurisdicional quando a magistrada, atenta às provas produzidas nos autos, entende por rejeitar a pretensão formulada na inicial. Eventual ausência de análise de prova existente nos autos não leva ao reconhecimento de nulidade da sentença por ausência de prestação jurisdicional, mas sim a sua reforma, por insubsistência dos motivos fático-jurídicos que levaram à rejeição do pedido formulado.
+- Como regra, o ordenamento jurídico brasileiro adotou a teoria subjetiva da responsabilidade civil (art. 186 e 927 do CC/02). Incumbe ao requerente comprovar a prática de comportamento antijurídico (conduta), a lesão jurídica experimentada (dano), a culpa do agente, e liame existente entre a conduta e o dano (nexo de causalidade). Ausente qualquer dos elementos anteriores citados, se deve afastar a atribuição de reponsabilidade civil pleiteada.
+- Excecionalmente, quando a legislação assim prevê, é possível à imputação de responsabilidade civil de forma objetiva, ocasião em que não será necessária a demonstração de culpa do agente.
+- Hipótese não identificada no caso concreto. - A responsabilidade civil ambiental é calcada na teoria do risco integral, na qual não é permitido ao agente valer-se das excludentes legais tais como caso fortuito, força maior ou culpa exclusiva de terceiros. A responsabilidade civil, nesta hipótese, é de natureza objetiva, dispensando a demonstração de culpa do agente. Pacífico entendimento quanto a questão nos Tribunais Superiores (STJ e STF).
+- O meio ambiente ecologicamente equilibrado é considerado direito difuso fundamental, nos moldes do artigo 225 da Constituição da República Federativa do Brasil.
+- O autor, ao pleitear indenização por danos patrimoniais e morais ocasionados por incêndio supostamente provocado pela parte ré, busca reparação civil para si mesmo, não se enquadrando tal fato como responsabilidade civil ambiental direcionada a toda sociedade.
+- Não comprovada por meios seguros e provas concretas a origem do incêndio e quem o provocou, necessário afastar a pretensão de responsabilização civil imputada à parte ré, por ausência dos elementos da conduta antijurídica e do nexo de causalidade. Pedido indenizatório por danos materiais e morais formulados na inicial julgados improcedentes. Sentença mantida na íntegra. Recurso que se nega provimento.
+Embargos de declaração: interpostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, § 1º, IV e VI, 1.022, II e III, parágrafo único, II do CPC; 14, § 1º, da Lei 6.938/81; e 186, 942 e 927, parágrafo único, do CC; bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta a responsabilidade objetiva do agravado pelo dano ambiental por ricochete.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos E Dcl no AR Esp 1.094.857/SC, 3ª Turma, D Je de 02/02/2018; e AgInt no AR Esp 1.089.677/AM, 4ª Turma, D Je de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da responsabilidade do agravado (e-STJ fl. 764/766), de maneira que os embargos de declaração opostos pelo agravante de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Da existência de fundamento não impugnado
+O agravante, em relação à responsabilidade do agravado, não impugnou o seguinte fundamento utilizado pelo TJ/MG:
+E, ainda se assim não o fosse, ou seja, ainda que se pretendesse atribuir responsabilidade civil objetiva à parte ré, não se verificam os elementos necessários para tanto, em especial por ausência de demonstração de conduta antijurídica e do nexo de causalidade entre o ato e o dano experimentado.
+Por mais que a parte autora tente de forma contundente afirmar que o incêndio foi provocado por funcionários do réu que estavam fazendo um serviço de delimitação das propriedades rurais, não há provas documentais e testemunhais suficientemente claras e precisas que assim apontem.
+O Boletim de Ocorrências citado pela parte autora é considerado um documento unilateral produzido por ele junto à Polícia Militar. Ainda que possa ser considerado como elemento de prova, não é prova em si mesmo, já que produzida sem o devido contraditório judicial.
+Os depoimentos colhidos perante o Juízo "a quo", em nenhum deles, de forma clara, precisa e satisfatória, afirmaram que o fogo em questão tenha partido e/ou sido lançado pelos funcionários do réu.
+A questão de que os funcionários estavam trabalhando na confecção de cercas nos limites entre as respectivas propriedades rurais, por si só, não indica que eles tenham sido os responsáveis pelo início do fogo.
+Ademais, o fato da lona que estavam utilizando ter sido vista pegando fogo, de igual maneira, por si só, não indica que eles próprios tenham ateado o referido fogo nela.
+Restou demonstrado, ademais, que vários funcionários teriam tentado apagar o fogo que iniciou na propriedade vizinha, onde trabalhavam, podendo, inclusive, terem utilizado da referida lona como forma de estancar o fogo que já estava alastrando pelo local.
+Por outro lado, há fortes depoimentos que demonstram que o fogo pode ter começado em estrada perto do local, provado por bituca de cigarro ali lançada.
+Assim, como também bem concluiu a nobre colega magistrada, não há elementos probatórios nos autos suficientes que levam a conclusão de que o fogo tenha sido provocado por funcionários do réu que trabalhavam na propriedade rural vizinha ao do autor, não sendo cabível, nesta esfera, concluir por deduções e/ou mera evidências.
+Entendo que o autor não comprovou os fatos constitutivos do seu direito, nos moldes do artigo 373, I do Código de Processo Civil, o que leva a rejeição integral dos pedidos formulados na peça de ingresso e, por conseguinte, a negativa de provimento do presente recurso.
+Assim, não impugnado esse fundamento, deve-se manter o acórdão recorrido. Aplica-se, neste caso, a Súmula 283/STF.
+Ademais, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% do valor atualizado da causa (e-STJ fl. 766) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E CCOMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTIC O E SIMILITUDE FÁTICA. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e não provido, com majoração de honorários.
