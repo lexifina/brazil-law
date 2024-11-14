@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por COMPANHIA DO METRO DA BAHIA à decisão de fls. 335/336, que não conheceu do recurso.
+Sustenta a parte embargante:
+A decisão ora embargada, por entender que teria havido irregularidade na representação processual da COMPANHIA DO METRO DA BAHIA, parte recorrente, não conheceu do Agravo por ela interposto, em sede de Recurso Especial, suscitando como fundamento o enunciado da Súmula 115 do STJ.
+Outrossim, cumpre destacar que, por se tratar processo eletrônico, diga-se, desde o seu início, resta dispensada às partes a juntada de instrumento de procuração, à luz da norma disposta no art. 1.017, §5º do CPC, que, em que pese verse sobre Agravo de Instrumento, deve ser aplicada analogicamente a outras espécies recursais, a partir de interpretação teleológica:
+ ..
+A aplicação analógica do referido dispositivo de lei, vale dizer, é plenamente cabível à situação em tela, na medida em que, assim como o Agravo de Instrumento é interposto em autos apartados, perante Juízo diverso daquele de origem, o mesmo acontece no Agravo em Recurso Especial, sendo este último destinado à apreciação deste E. Côrte Superior.
+Cumpre registrar que, originalmente, por meio de procuração pública, a empresa COMPANHIA DO METRO DA BAHIA, ora recorrente, outorgou poderes de representação à advogada VIRGÍNIA COTRIM NERY LERNER, o que foi comprovado nos autos de origem, desde o primeiro ato em nome da representada, conforme consta no ID 100052797 da ação nº 0514196-07.2017.8.05.0001, em trâmite perante a 2ª Vara Cível e Comercial do Tribunal de Justiça do Estado da Bahia.
+Segue, abaixo, ilustrada a procuração, naqueles autos, seguindo também anexa a esta peça de embargos aclaratórios.
+ ..
+Face a essa análise e considerando a indiscutível existência de válido instrumento de mandato nos autos de origem, bem como o competente substabelecimento de poderes à advogada MANUELA BASTOS SIMÕES CIUFFO, apresentado perante este e.
+Tribunal, a partir da interpretação teleológica da nova ordem processual civil, é cabível a aplicação do art. 1.017, §5º do CPC à situação em tela.
+Diante do exposto, restam, assim, identificados os vícios de omissão e erro material constantes na decisão embargada, que devem ser sanados, sob pena de restar violado o art. 283 do CPC e o Princípio do Aproveitamento dos atos processuais (fls. 340/342).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora do Agravo, Dra. Virgínia Cotrim Nery Lerner, e do Recurso Especial, Dra. Manuela Bastos Simões Ciuffo.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18.3.2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76 do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual , no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, porquanto se limitou a apresentar às fls. 330/332 apenas um substabelecimento, sem a procuração originária para a sua substabelecente, Dra. Virgínia Cotrim Nery Lerner.
+Cabe ressaltar que o instrumento de substabelecimento de fl. 331 não tem eficácia, pois o substabelecimento não subsiste por si só, sem uma procuração que lhe dê suporte, sendo impossível substabelecer um poder que não existe nos autos. Neste sentido, o AgInt no AREsp n. 2.028.800/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 25.8.2022; AgInt no AREsp n. 1.946.028/MS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 24.3.2022; AgInt no REsp n. 1.945.390/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 16.2.2022.
+Não tem o condão de sanar tal vício a alegação da existência de procuração em autos principais, pois cabe à parte providenciar a juntada de cópia ou novo instrumento aos autos onde pretende interpor o recurso. A responsabilidade pelo traslado do instrumento é da parte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO. REGULARIZAÇÃO. DESCUMPRIMENTO NO PRAZO ESTABELECIDO. INÉRCIA. DOCUMENTO NOS AUTOS ORIGINAIS. ART. 1.017, § 5º, do CPC/2015. INAPLICABILIDADE. DECISÃO MANTIDA.
+1. Conforme prevê o art. 76, § 2º, I, do CPC/2015, não se conhece do recurso quando a parte recorrente, apesar de intimada, deixa de sanar vício na representação processual no prazo estabelecido.
+2. "A jurisprudência do STJ entende que a procuração juntada em outro processo conexo ou incidental, não apensado, não produz efeito em favor do recorrente neste Tribunal Superior." (AgInt no AREsp n. 1.447.689/DF, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/10/2019, DJe 16/10/2019).
+3. Inaplicável o art. 1.017, § 5º, do CPC/2015 no âmbito do recurso especial ou do respectivo agravo contra sua inadmissibilidade.
+Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1496951/MS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 6.5.2020.)
+Registre-se que a dispensa prevista no art. 1017, § 5º, do CPC se aplica à interposição do Agravo de Instrumento para o Tribunal a quo, ou seja, a dispensa está voltada ao primeiro e ao segundo graus de jurisdição, tendo em vista que, a princípio, compartilhariam o mesmo sistema eletrônico.
+Nesse sentido, o AgInt no REsp 1869850/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17.2.2021; AgInt no AREsp 1691791/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20.11.2020; AgInt no AREsp 1504387/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27.2.2020.
+Portanto, conclui-se que, a referida dispensa não se estende ao STJ, cabendo à parte providenciar a juntada de cópia ou novo instrumento aos autos quando da interposição de recurso a esta Corte.
+Outrossim, o processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Portanto, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
