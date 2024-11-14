@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei, instaurado por Vera Cristina de Freitas, com fundamento no art. 18, § 3º, da Lei n. 12.153/2009, contra acórdão proferido pela 1ª Turma Recursal Cível de Santos/SP.
+O referido acórdão foi assim ementado, in verbis:
+Recurso inominado - servidora pública exonerada a pedido - verbas rescisórias reconhecidas pelo Município de São Vicente em 2015 - emissão de empenho, nota de liquidação e guia de retenção de contribuição previdenciária, sendo o último ato praticado em 28 de janeiro de 2016 - prazo prescricional quinquenal que se verificou em janeiro de 2021 na forma do art. 1º do Decreto 20.910/32 - ajuizamento da ação apenas em abril de 2022 - prescrição consumada - situação inusitada - manutenção da r. Sentença por seus próprios fundamentos - aplicação do art. 46 da Lei 9099/95 - negado provimento ao recurso.
+O requerente afirma que o acórdão referido diverge do entendimento da 2ª Turma Recursal dos Juizados Especiais do Estado de Goiás; da 3ª Turma Recursal dos Juizados Especiais do Distrito Federal; da 2ª Turma Recursal Temporária do Estado do Rio Grande do Norte; da 1ª Turma Suplementar dos Juizados Especiais do Estado do Paraná; e da Turma Recursal do Estado do Amapá.
+Defende, em suma, que o prazo prescricional não corre enquanto não for concluído o processo administrativo.
+Ao final, pleiteia o provimento do pedido para que o Superior Tribunal de Justiça uniformize a jurisprudência sobre o tema com a prevalência do entendimento por ele defendido.
+É o relatório. Decido.
+A Lei n. 12.153/2009 prevê a uniformização de interpretação de lei para os Juizados Especiais da Fazenda Pública, no âmbito dos Estados, Distrito Federal e Municípios. Os arts. 18 e 19 do referido diploma legal dispõem sobre o cabimento do instrumento processual, conforme abaixo transcrito:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1o O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2o No caso do § 1o, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3o Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o § 1o do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+(..)
+Por sua vez, o Regimento Interno do Superior Tribunal de Justiça, sobre o presente pedido, dispõe:
+Art. 67.
+(..)
+Parágrafo único. O Presidente resolverá, mediante instrução normativa, as dúvidas que se suscitarem na classificação dos feitos e papéis, observando-se as seguintes normas:
+(..)
+VIII- A - a classe Pedido de Uniformização de Interpretação de Lei (PUIL) compreende a medida interposta contra decisão: a) da Turma Nacional de Uniformização no âmbito da Justiça Federal que, em questões de direito material, contrarie súmula ou jurisprudência dominante no Superior Tribunal de Justiça; b) da Turma Recursal dos Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça; e c) das Turmas de Uniformização dos Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios quando a orientação adotada pelas Turmas de Uniformização contrariar súmula do Superior Tribunal de Justiça;
+Da legislação acima transcrita, decorre que o pedido de uniformização de interpretação de lei somente é cognoscível quando a decisão hostilizada versar sobre questão de direito material, nas seguintes hipóteses:
+a) Divergência entre turmas recursais dos Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios, de diferentes Estados da Federação, acerca da interpretação de lei federal;
+b) Quando a decisão proferida por turma recursal dos Juizados Especiais da Fazenda Pública contrarie súmula do Superior Tribunal de Justiça;
+c) Contrariedade à decisão da Turma Nacional de Uniformização no âmbito da Justiça Federal que, contrarie súmula ou jurisprudência dominante no Superior Tribunal de Justiça;
+d) Quando a decisão proferida pelas Turmas de Uniformização dos Juizados Especiais da Fazenda Pública contrariar súmula do Superior Tribunal de Justiça.
+Na hipótese dos autos, a Requerente defende que o prazo prescricional não corre enquanto não for concluído o processo administrativo, o que alega ter ocorrido apenas em 10/12/2021.
+Ocorre que, no julgado ora recorrido, o qual manteve os fundamentos da sentença de piso, ficou consignado que a prescrição manteve-se suspensa até o último ato praticado no processo administrativo, o qual teria se dado em 28/1/2016. Concluiu, assim, pela ocorrência da prescrição, dado que a presente ação foi ajuizada apenas em abril de 2022, portanto, após o prazo quinquenal previsto no Decreto n. 20.910/1932.
+Neste contexto, observa-se que a pretensão da Requerente demanda o reexame do conjunto fático-probatório dos autos, o que é vedado no âmbito do Incidente de Uniformização, nos termos da Súmula n. 42 da Turma Nacional de Uniformização ("Não se conhece de incidente de uniformização que implique reexame de matéria de fato").
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 42 DA TNU. SÚMULA N. 7 DO STJ.
+I - Trata-se de mandado de segurança impetrado em desfavor de decisão proferida pelo Presidente da TNU que inadmitiu o pedido de uniformização suscitado pelo impetrante. Na sentença, o pedido foi julgado indeferido. No Tribunal a quo, a sentença foi mantida.
+II - Dispõe o art. 14, § 4º, da Lei 10.259/2001 que o incidente de uniformização dirigido ao STJ somente é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ. Nesse diapasão: AgRg na Pet n. 7.549/PR, Terceira Seção, Ministro Og Fernandes, DJe de 8/4/2010.
+III - No caso em comento, não houve decisão colegiada, mas tão somente decisão do Presidente da TNU, que conheceu do agravo e negou seguimento ao incidente, com fulcro no art. 15, V, do RITNU, por incidir, no caso, a Súmula n. 42/TNU (Não se conhece de incidente de uniformização que implique reexame de matéria de fato).
+IV - Considerando que o pedido de uniformização de jurisprudência somente é cabível de decisão do colegiado da Turma Nacional que tenha analisado o direito material, não há como conhecer do incidente, porque se insurge contra decisão pautada em questão de direito processual, decidida monocraticamente.
+V - Ademais, eventual alteração do julgado representaria reexame do conjunto fático-probatório, o que é vedado no âmbito do Incidente de Uniformização, nos termos da Súmula n. 42 da Turma Nacional de Uniformização ("Não se conhece de incidente de uniformização que implique reexame de matéria de fato."), bem como da Súmula n. 7 do Superior Tribunal de Justiça ("A pretensão de simples reexame de prova não enseja recurso especial.") e da Súmula n. 279 do Supremo Tribunal Federal ("Para simples reexame de prova não cabe recurso extraordinário."), aplicáveis por analogia às Turmas de Uniformização. Para ilustrar: AgInt no PUIL n. 929/MA, relator Ministro Benedito Gonçalves, Primeira Seção, DJe 6/5/2019; AgInt no PUIL n. 546/AC, relator Ministro Sérgio Kukina, Primeira Seção, DJe 1º/4/2019.
+VI - Agravo interno improvido.
+(AgInt no PUIL n. 2.389/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 3/5/2022, DJe de 5/5/2022.)
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do presente pedido.
+Publique-se. Intimem-se.
+EMENTA
