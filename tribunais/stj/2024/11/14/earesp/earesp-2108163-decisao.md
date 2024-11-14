@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por ESPÓLIO DE MARCIO ROGERIO DE BORTOLI contra acórdão prolatado pela Primeira Turma do Superior Tribunal de Justiça assim ementado (fls. 1.497-1.498):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. INOCORRÊNCIA. ACIDENTE DE TRÂNSITO. CULPA EXCLUSIVA DA VÍTIMA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+2. O Tribunal de origem reconheceu que "se por um lado resta demonstrado nos autos que Marcio Rogerio de Bortoli teve culpa no evento danoso, prova alguma há que possa levar à conclusão diversa, ou seja, de que o acidente possa ter sido causado pelo ônibus de propriedade do Município de Rondon" (fl. 1.242). Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo interno a que se nega provimento.
+Os embargos de declaração opostos contra o referido acórdão foram rejeitados às fls. 1.525-1.532.
+A parte embargante alega que haveria divergência relativamente ao que foi decidido no julgamento do REsp n. 1.069.446/PR, exarado pela Terceira Turma, e do AgInt no AREsp n. 1.561.620/MS, proferido pela Quarta Turma.
+Defende, assim, que os acórdãos indicados como paradigmas superaram o óbice contido na Súmula n. 7 do STJ e revaloraram as provas dos autos para reconhecer, em ação indenizatória por acidente de trânsito, a responsabilidade civil de quem não observou a preferência da via de circulação.
+Requer, em consequência, o provimento dos presentes embargos, com a reforma do acórdão embargado.
+É, no essencial, o relatório.
+Para que sejam cabíveis no Superior Tribunal de Justiça, os embargos de divergência exigem a presença de elementos fáticos semelhantes nos acórdãos confrontados, de modo a autorizar a comparação, em abstrato, das conclusões de mérito sobre questões das quais se conheceu e que foram decididas no recurso especial (art. 1.043, I e III, do Código de Processo Civil).
+Quanto ao capítulo impugnado neste recurso uniformizador, a conclusão do acórdão embargado pela ausência de pressuposto de admissibilidade do recurso especial resultou na ausência de questão de mérito decidida no recurso , seja de direito material ou de direito processual, contexto no qual a pretensão dos embargos de divergência se resume a rediscutir a conclusão do acórdão embargado pela aplicação do óbice sedimentado na Súmula n. 7 do STJ.
+Com efeito, o conteúdo de cada um dos acórdãos contrastados se deveu às premissas e particularidades de cada recurso e da decisão impugnada, inexistindo comparação abstrata possível entre o acórdão recorrido e outro no qual se reputou inexistente o óbice recursal, afigurando-se inviável a obtenção de nova apreciação da questão na via dos embargos de divergência, conforme pacífico entendimento deste Superior Tribunal (destaques acrescidos):
+AGRAVO INTERNO. DECISÃO NOS EMBARGOS DE DIVERGÊNCIA. INCIDÊNCIA DOS ENUNCIADOS 5 E 7 DA SÚMULA DO STJ. APLICAÇÃO DE REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1. Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para extrair conclusão diversa a respeito da incidência das Súmulas 5 e 7/STJ.
+2. Para a configuração da divergência, os acórdãos confrontados devem apresentar similitude de base fática capaz de ensejar decisões conflitantes a propósito da mesma questão jurídica, situação não verificada nos autos.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.835.585/RJ, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 22/11/2022, DJe de 25/11/2022.)
+A conclusão em comento, como se permitiu entrever, encontra-se sedimentada na Súmula n. 315 desta Corte Superior, segundo a qual: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+Nesse sentido (destaques acrescidos) :
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. NÃO CABIMENTO. SÚMULA 315/STJ. SIMILITUDE. AUSÊNCIA.
+1. Não cabem embargos de divergência quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação analógica da Súmula 315/STJ.
+2. Tratando os acórdãos confrontados de questões essencialmente distintas, não há falar em dissídio jurisprudencial a ser sanado na via dos embargos de divergência.
+3. Agravo interno não provido.
+(AgInt nos EAREsp n. 2.056.572/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/12/2022, DJe de 16/12/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+ ..
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDv nos EREsp n. 1.615.774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020.)
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO DE EMBARGOS DE DIVERGÊNCIA NA HIPÓTESE DE NÃO TER SIDO ANALISADO O MÉRITO DO RECURSO ESPECIAL. DIVERGÊNCIA DE TESES JURÍDICAS. NÃO OCORRÊNCIA.
+1. Nos termos dos arts. 1.043 do Código de Processo Civil e 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+2. "O dissídio jurisprudencial deve ser demonstrado conforme preceituam os arts. 266, § 4º, do RISTJ e 1.043, § 4º, do CPC, mediante o cotejo analítico dos arestos, indicando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados" (AgRg nos EREsp 1.842.988/CE, Relator Ministro João Otávio de Noronha, Corte Especial, DJe de 9.6.2021).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp n. 1.743.577/SP, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 21/6/2022, DJe de 28/6/2022.)
+Falta aos presentes embargos de divergência, portanto, pressuposto de admissibilidade sem o qual não se pode conhecer desta via de impugnação, destinada apenas à uniformização da jurisprudência, diante do não conhecimento do mérito do recurso especial.
+Ante o exposto, com fundamento no art. 932, III, do Código de Processo Civil, nos termos do disposto no art. 266-C do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente os embargos de divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como os efeitos de eventual concessão da gratuidade da justiça.
+Em atenção ao princípio da cooperação (art. 6º do CPC), anoto que a interposição de agravo que venha a ser declarado manifestamente inadmissível ou improcedente poderá ensejar a aplicação de multa, nos termos do § 4º do art. 1.021 do CPC.
+Publique-se. Intimem-se.
+EMENTA
