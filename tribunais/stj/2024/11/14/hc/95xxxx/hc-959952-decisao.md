@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Valdir Vidoto, apontando-se como autoridade coatora a Desembargadora do Tribunal de Justiça de São Paulo que indeferiu o pedido liminar nos autos do HC n. 2331302-03.2024.8.26.0000 (fls. 9/10).
+Alega-se, em síntese, a existência de constrangimento ilegal decorrente da negativa de determinar o arquivamento do inquérito policial, porquanto aplicável ao caso o princípio da insignificância (Processo n. 1500362-89.2024.8.26.0032, da 3ª Vara Criminal da comarca de Araçatuba/SP).
+Sustenta-se que, na origem, foi designado o dia 28/11/2024 para realização da audiência de propositura e homologação de eventual acordo de não persecução penal, nos termos do art. 28-A do Código de Processo Penal; e que, mesmo com o oferecimento do Acordo de Não Persecução Penal (ANPP), a solução é injusta, pois, ao aceitá-lo, o paciente seria impedido de questionar a tipicidade material de sua conduta e ver reconhecida a sua insignificância, conforme remédio constitucional distribuído no TJSP que almeja o arquivamento do inquérito policial (fl. 5).
+Requer-se a concessão de medida liminar para suspender a audiência de ANPP até que o mérito do presente habeas corpus seja julgado pelo Tribunal de Justiça de São Paulo e, se necessário, também pelos Tribunais Superiores, assegurando ao paciente a oportunidade de questionar a legalidade da ação penal em curso, sem a imposição de aceitar forçosamente o ANPP (fl. 8).
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691 do STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra indeferimento de pedido liminar em outro writ.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela.
+Ora, na espécie, a Relatora do prévio mandamus, ao indeferir o pedido liminar, simplesmente constatou a ausência dos pressupostos autorizadores da medida liminar requerida. E nisso não há nenhum constrangimento ilegal. A Desembargadora consignou que (fls. 9/10):
+Noticia-se o suposto cometimento do crime de furto.
+A medida liminar em habeas corpus, que inexiste legalmente, só vem sendo admitida quando motivar-se na manifesta ilegalidade do ato ou no abuso de poder da autoridade, detectáveis de plano por intermédio do exame sumário da inicial e dos papéis que a instruem, o que, sopesados os elementos aqui trazidos a conhecer, não sucede no caso em testilha.
+A despeito dos respeitáveis argumentos expendidos na impetração, as circunstâncias de fato e de direito retratadas preliminarmente não autorizam a concessão da liminar, pois não se vislumbram o fumus boni juris e o periculum in mora ensejadores da medida ora alvitrada, porquanto o reconhecimento da ausência de justa causa para o ajuizamento de ações penais, por atipicidade do fato, mediante habeas corpus, só tem lugar em hipóteses excepcionais, quando desponta manifesta, podendo ser constatada de pronto, independentemente do exame aprofundado de fatos e provas, o que não é a hipótese em testilha.
+Vale ressaltar que não se verifica, no momento, ofensa à liberdade de locomoção do paciente, considerando que está em liberdade e que não há notícias sequer de eventual pedido de prisão.
+Assim, diante da inadmissível supressão de instância, mostra-se prudente e necessário aguardar o trâmite regular do habeas corpus na origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+Com essas considerações, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR QUE INDEFERIU MEDIDA DE URGÊNCIA EM MANDAMUS ORIGINÁRIO. SÚMULA 691/STF. APLICABILIDADE. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
