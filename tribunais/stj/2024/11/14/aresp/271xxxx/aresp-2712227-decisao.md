@@ -1,0 +1,15 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MARIA MARQUES TELLES, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: declaratória de nulidade de negócio jurídico cumulada com restituição de quantia paga e compensação por dano moral, ajuizada pela agravante, em face dos agravados, na qual alega que foi surpreendida com descontos em sua folha de pagamento, sob a rubrica "FAMILIA BAND. PREV. PR. PREVIDEN.", negando a contratação de qualquer empréstimo junto aos agravados. Pleiteia seja declarada a nulidade do negócio jurídico, bem como a restituição da quantia despendida e compensação por dano moral.
+Acórdão: manteve a decisão unipessoal do relator que negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+Agravo Interno. Apelação Cível. Ação Anulatória c/c Indenizatória. Relação de consumo. Descontos realizados no contracheque da autora relativos à previdência privada, que desconhece. Sentença de improcedência. Apelação desprovida monocraticamente pela Relatoria. Agravo Interno interposto, na tentativa de reabrir discussão a respeito da matéria, pretendendo o recorrente, a reforma da decisão sob a ótica que melhor lhe convém. Precedentes. Decisão monocrática mantida. DESPROVIMENTO DO AGRAVO INTERNO.
+Decisão de admissibilidade do TJ/RJ: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) ausência de violação do art. 489 do CPC; ii) ausência de violação do art. 1.022 do CPC, e iii) incidência da Súmula 7 do STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante reitera os fundamentos expostos no apelo especial, asseverando, de forma genérica, que a análise das razões recursais independe do revolvimento do acervo fático-probatório carreado aos autos.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) ausência de violação do art. 489 do CPC; ii) ausência de violação do art. 1.022 do CPC, e iii) incidência da Súmula 7 do STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados anteriormente para 15% sobre o valor atualizado da causa, observada a concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
