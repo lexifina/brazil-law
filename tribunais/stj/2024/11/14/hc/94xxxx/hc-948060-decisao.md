@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MATHEUS WILLIAN DANTAS DE PAULA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que o paciente foi condenado às penas de 8 anos de reclusão no regime inicial fechado, mais pagamento de 1.200 dias-multa, como incurso nos arts. 33, caput, e 35 da Lei n. 11.343/2006, ficando mantida a prisão preventiva anteriormente decretada.
+O impetrante sustenta a ocorrência de constrangimento ilegal, decorrente do excesso de prazo no julgamento da apelação.
+Alega que o paciente estaria "preso desde o dia 8/1/2023, com e seu recurso, interposto no dia 8/1/2023 com as razões recursais protocoladas na data de 1º/6/2023" (fl. 4).
+Afirma que o réu é primário, possui residência fixa e não integra organização criminosa, de modo que sua liberdade não ofereceria risco à ordem pública, à instrução criminal ou à aplicação da lei penal.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou a concessão de liberdade provisória ao paciente, expedindo-se alvará de soltura em seu favor.
+Por meio da decisão de fls. 438-439, foram requisitadas informações. Em seguida, foram juntadas aos autos as informações prestadas pela origem (fls. 447-451), bem como a manifestação do Ministério Público Federal, opinando pela denegação da ordem (fls. 453-454).
+É o relatório.
+A prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/04/2021, DJe de 30/04/2021.
+Ao prestar informações a esta Corte Superior de Justiça, o Desembargador relator consignou que (fls. 447-451):
+Em 24/04/2023, o paciente foi condenado, juntamente com outro indivíduo, pela prática dos crimes previstos nos artigos 33 , caput, e 35 da Lei nº 11.343/2006, em concurso material, às penas de 8 anos de reclusão, no regime fechado, e 1.200 dias-multa, conforme sentença abaixo transcrita:
+ ..
+Insatisfeita, a Defesa do paciente e do corréu interpôs apelação, tendo o referido recurso sido distribuído em 12/07/2023 para a Eg. Sexta Câmara Criminal deste Tribunal de Justiça, onde se encontra até a presente data, conforme despachos abaixo:
+Após a apresentação de parecer do Ministério Público, o referido processo foi encaminhado ao Relator em 27/05/2024.
+No caso, o paciente foi condenado a uma pena total de 8 anos de reclusão, com a sentença condenatória proferida em 24/4/2023. A defesa interpôs recurso de apelação, com a juntada das razões recursais em 1º/6/2023 e, segundo salientado pelo impetrante, em trâmite no Tribunal de origem desde 12/7/2023. Assim, não se configura excesso de prazo para o julgamento da apelação criminal, tendo em vista que o período de 1 ano e 4 meses não se mostra irrazoável, sobretudo se considerado que, em consulta ao sistema processual do Tribunal de origem, já foi solicitado dia para julgamento.
+Vale assinalar que, apesar de a legislação processual não fixar prazo para o julgamento de apelação criminal, a jurisprudência do Superior Tribunal de Justiça estabelece que a análise do excesso de prazo deve considerar a pena aplicada na sentença condenatória. Sobre o tema: AgRg no HC n. 883.271/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/8/2024, DJe de 15/8/2024; e AgRg no HC n. 904.049/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2024, DJe de 1/7/2024.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. EXCESSO DE PRAZO PARA O JULGAMENTO DO APELO. NÃO CONFIGURADO. PRISÃO PREVENTIVA. GRAVIDADE DO FATO. GARANTIA DA ORDEM PÚBLICA. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que as penas impostas na sentença condenatória devem ser consideradas para fins de análise de suposto excesso de prazo no processamento da apelação. No caso, levando-se em conta a pena total imposta ao agravante (6 anos, 2 meses e 19 dias de reclusão), não se verifica, por ora, o excesso de prazo no julgamento do recurso.
+2. Na hipótese, após investigação no bojo da "Operação Turfe", concluiu-se que o acusado integrou organização criminosa voltada para o tráfico transnacional de cocaína, em posição de destaque, sendo um dos líderes e corresponsável pela logística de importação da droga no Brasil e garantia a segurança dos negócios do grupo em território paraguaio. A jurisprudência pacífica do Supremo Tribunal Federal, seguida por esse Superior Tribunal de Justiça, entende-se que "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva".
+3. Agravo regimental não provido.
+(AgRg no HC n. 904.049/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2024, DJe de 1/7/2024, grifo próprio.)
+Não obstante não tenha sido evidenciado excesso de prazo, deve ser recomendado ao Tribunal de origem o julgamento da apelação em prazo razoável, tendo em vista que o recurso permaneceu período considerável sem movimentação.
+Assim, recomenda-se o prazo de 30 dias para julgamento do recurso.
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem de habeas corpus.
+Dê-se ciência ao Tribunal de origem, com urgência.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PRISÃO CAUTELAR. EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. DECURSO DE TEMPO COMPATÍVEL COM OS PARÂMETROS FÁTICO-PROCESSUAIS. ORDEM DENEGADA.
