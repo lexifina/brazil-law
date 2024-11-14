@@ -1,0 +1,23 @@
+DECISÃO
+Consta dos autos que VETOR EMPREENDIMENTOS E PARTICIPAÇÕES S.A. (VETOR) promoveu execução contra OCHO RIOS EMPREENDIMENTOS E PARTICIPAÇÕES LTDA. (OCHO), buscando receber valores oriundos de Instrumento Particular de Compromisso de Cessão de Direitos de Escritura Pública de Compromisso de Compra e Venda de Imóvel.
+O magistrado de primeiro grau acolheu os embargos apresentados por OCHO (e-STJ, fls. 1/23) e extinguiu a execução (e-STJ, fls. 236/240).
+O Tribunal de Justiça de São Paulo, em acórdão relatado pelo Des. FLÁVIO CUNHA DA SILVA, negou provimento ao recurso de apelação da VETOR e deu provimento aquele manejado pela OCHO em acórdão assim ementado:
+EMBARGOS À EXECUÇÃO. Contrato de cessão de direitos e compra e venda de imóvel. Alegação de exceção de contrato não cumprido por falta de apresentação de documentação e por omissão dolosa de passivo ambiental existente na área em que se encontra o imóvel. Execução extinta por falta de título hábil. Incontroversa a constatação da existência de problemas ambientais no imóvel, os quais a embargada alegou desconhecer à época da contratação, o que corrobora a tese da embargante quanto à ausência de informação a respeito do vício de contaminação do solo. Sentença de extinção mantida no ponto. HONORÁRIOS ADVOCATÍCIOS. Correto o arbitramento por equidade. Aplicação analógica do § 8º do art. 85 do Código de Processo Civil. Fixação com base no valor milionário da causa que resultaria em remuneração exorbitante e em descompasso com a principiologia da lei processual. Precedente do Superior Tribunal de Justiça. Necessidade, todavia, de majoração, para remunerar condignamente o trabalho realizado. Recurso da exequente/embargada desprovido e provido o apelo da executada/embargante (e-STJ, fl. 431).
+Os embargos de declaração opostos por VETOR foram rejeitados (e-STJ, fls. 551/559 e 568/570).
+Em juízo de readequação, o TJSP modificou os honorários advocatícios sucumbenciais, fixando-os em percentual sobre o valor da causa, conforme estabelecido pelo Tema 1076 do STJ (e-STJ, fls. 616/619).
+Na sequência, VETOR opôs embargos de declaração que foram acolhidos para cancelar referida modificação e restabelecer a fixação dos honorários pelo critério equitativo (e-STJ, fls. 670/675).
+Os embargos de declaração opostos pela OCHO contra referido acórdão foram rejeitados (e-STJ, fls. 730/735).
+Irresignada, VETOR interpôs recurso especial com fundamento na alínea a, da CF, alegando ofensa aos arts. (1) 11, 371, 489 e 1.022 do CPC, pois o TJSP, a despeito dos embargos de declaração que lhe foram opostos, não teria se manifestado quanto (1.a) à quitação expedida pela OCHO, em aditivo contratual, com relação à obrigação prevista na Cláusula 5 do instrumento particular de entregar documentos como condição para pagamento do preço e (1.b) ao documento de fl. 139 dos autos originais, emitido pela CETESB que classificou a área como reabilitada para utilização comercial, o que supostamente afastaria a existência de um passivo ambiental sobre o imóvel, e (2) 112, 113, 121, 320 e 332 do CC, pois não poderia ser ignorada a quitação expressa e inequívoca expedida pela OCHO com relação à obrigação de entrega de documentos prevista na cláusula 5 do contrato (e-STJ, fls. 506/527).
+Também irresignada, OCHO interpôs recurso especial, alegando dissídio jurisprudencial e ofensa aos arts. 85, § 2º, e 927, II, do CPC, porque que a verba honorária deveria ser fixada em percentual sobre o valor da causa, e não de forma equitativa (e-STJ, fls. 738/764).
+O recurso especial da OCHO foi admitido na origem (e-STJ, fls. 865/867).
+O apelo nobre interposto pela VETOR não foi admitido sob o entendimento de que não estaria configurada negativa de prestação jurisdicional e de que, quanto ao mais, incidiriam as Súmulas nºs 5 e 7 do STJ (e-STJ, fls. 868/870).
+Na sequência, VETOR interpôs agravo, reiterando a alegação de omissão de julgamento e rechaçando a incidência dos óbices sumulares em destaque (e-STJ, fls. 873/892).
+É o relatório.
+DECIDO.
+Do Recurso Especial de OCHO
+O agravo em recurso especial interposto por VETOR foi conhecido para dar provimento ao respectivo recurso especial, determinando-se o retorno dos autos a origem para novo julgamento dos embargos de declaração.
+Fica prejudicado, nesses termos, o exame do recurso especial manejado pela OCHO.
+Nessas condições, JULGO PREJUDICADO o recurso especial de OCHO.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. EXCEPTIO NON ADIMPLENTI CONTRACTUS. RECURSO DA PARTE CONTRÁRIA PROVIDO PARA RECONHECER OMISSÃO. DETERMINAÇÃO DE RETORNO DOS AUTOS A ORIGEM. RECURSO ESPECIAL DE OCHO PREJUDICADO.
