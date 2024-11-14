@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno interposto por Electronic Arts Nederland B. V. e Electronic Arts Europe Ltd. contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 2.631):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. DIREITO À IMAGEM. ATLETA PROFISSIONAL DE FUTEBOL. 1. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. PRESCRIÇÃO. TERMO INICIAL. CADA PUBLICAÇÃO NÃO AUTORIZADA. SÚMULA 83/STJ. 3. DEVER DE REPARAÇÃO. QUANTUM INDENIZATÓRIO. REVISÃO. SÚMULA 7/STJ. 4. DISTRIBUIÇÃO DOS HONORÁRIOS SUCUMBÊNCIA RECÍPROCA. REVISÃO. SÚMULA 7/STJ. 5. ANÁLISE DO DISSÍDIO PREJUDICADA. 6. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões, as recorrentes alegam que o aresto impugnado incorreu em vício na prestação jurisdicional, resultante de omissões e obscuridades acerca: i) dos critérios de fixação do quantum indenizatório; ii) da maciça jurisprudência quanto ao termo inicial dos juros moratórios, a incidir a partir do arbitramento; iii) da ausência de distribuição dos ônus sucumbenciais de forma recíproca; e iv) do fato de que as vendas indicadas como suficientes ao afastamento da prescrição foram levadas a efeito por terceiros, o que não poderia servir de justificativa ao afastamento da prescrição.
+Aduzem que o termo inicial do prazo prescricional é o da publicação da edição tida por ilícita, e que o "dano em questão não é continuado, justamente porque a conduta atacada, não é continuada, já que determinada edição não é continuidade da anterior; seus conteúdos, aliás, são diferentes, havendo jogadores, times e dinâmicas distintas para cada edição lançada" (e-STJ, fl. 2.651).
+Sustentam que o montante indenizatório deve ter como padrão a média do que o mercado paga pelo uso da imagem em videogames.
+Relatam não se tratar de caso de ressarcimento moral, o que afastaria a aplicação da Súmula 326 desta Casa, além de não haver decaimento mínimo, já que a parte adversa teve êxito em apenas 25% (vinte e cinco por cento) do valor efetivamente pretendido.
+Defendem a inaplicabilidade das Súmulas 7, 83 e 403 deste Superior Tribunal.
+Asseveram que houve a adequada demonstração do dissenso interpretativo.
+Pleiteiam, ao final, a reforma da decisão agravada.
+Impugnação às fls. 2.723-2.738 (e-STJ).
+Brevemente relatado, decido.
+As questões de direito tratadas no recurso especial relativas à prescrição e à configuração de danos à imagem foram afetadas pela Segunda Seção como representativas de controvérsia a serem julgadas sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, a decisão de afetação proferida nos REsps 2.112.558/SP, 2.112.566/SP, 2.112.575/SP, 2.130.751/SP, 2.112.553/SP, 2.112.563/SP e 2.112.572/SP, de relatoria do Ministro João Otávio de Noronha, Segunda Seção, julgado em 29/10/2024, DJe de 5/11/2024, delimitou o Tema 1.289/STJ, nos termos da seguinte ementa:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. DIREITO CIVIL E PROCESSUAL CIVIL. DIREITO DE IMAGEM. JOGADORES DE FUTEBOL. JOGOS ELETRÔNICOS. COMPETÊNCIA. PRESCRIÇÃO. TERMO INICIAL. OCORRÊNCIA OU NÃO DE SUPRESSIO. DADOS INFORMATIVOS PESSOAIS.
+1. Delimitação da controvérsia: Definir, nas ações de indenização por danos morais propostas por ex-jogadores de futebol fundadas na utilização indevida de suas imagens: a competência, a prescrição, a ocorrência ou não de supressio e a configuração ou não de danos à imagem em decorrência da mera menção a desígnios representativos dos demandantes.
+2. Afetação do recurso especial ao rito previsto nos arts. 1.036 e 1.037 do CPC de 2015 e 256 ao 256-X do RISTJ.
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Veja o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, torno sem efeito a decisão monocrática de fls. 2.631-2.638 (e-STJ), prejudicada a análise do agravo interno e determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia vinculado ao Tema 1.289/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AFETAÇÃO DO TEMA 1.289/STJ. DECISÃO MONOCRÁTICA TORNADA SEM EFEITO. PREJUDICADA A ANÁLISE DO AGRAVO INTERNO. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA AGUARDAR O JULGAMENTO DO TEMA 1.289/STJ.
