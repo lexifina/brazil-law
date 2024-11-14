@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. SISBAJUD. TEIMOSINHA. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO INATACADO. SÚMULA 283/STF. REVISÃO DOS ASPECTOS CONCRETOS DA CAUSA. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Fundamentado o recurso especial na alínea a do permissivo constitucional e não indicados, objetivamente, os dispositivos legais supostamente violados, resta inviabiliza a exata compreensão da controvérsia, impedindo o conhecimento do inconformismo, por deficiência na fu ndamentação recursal, a teor da Súmula 284/STF.
+3. A ausência de impugnação específica aos fundamentos do acórdão recorrido atrai a incidência do óbice da Súmula 283/STF.
+4. A revisão da conclusão a que chegou o Tribunal de origem, para verificar a possibilidade de utilização da ferramenta, no caso concreto, implicaria no necessário revolvimento dos aspectos concretos da causa, o que é vedado, na via especial, pela Súmula 7/STJ.
+5. Agravo interno desprovido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno, interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA, contra a decisão de fls. 87/88e, de minha lavra, assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EXECUÇÃO FISCAL. SISBAJUD. TEIMOSINHA. VIOLAÇÃO DO ART 1.022 DO CPC/2015. NÃO OCORRÊNCIA. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. FUNDAMENTO AUTONOMO NÃO IMPUGANDO. SÚMULA 283/STF. REVISÃO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Inconformada, sustenta a parte agravante, em resumo, que o recurso especial "apontou especificamente a infringência aos arts. 789, 797, 835, I, 854, §3º, I e II, do CPC e arts. 11, I, da LEF" (fl. 95e) e, também, "quando o recurso especial do ente público defende a impossibilidade de se indeferir o uso da ferramenta Teimosinha antecipadamente, em razão do procedimento prevista no CPC permitir a identificação de bens penhoráveis, o fundamento utilizado no acórdão recorrido resta impugnado, pois restou demonstrado que não há dificuldade de defesa do executado" (fl. 97e).
+Assevera que o STJ admite a utilização da chamada "teimosinha" e, também, que "o cerne da questão está na impossibilidade de se recusar o uso da ferramenta TEIMOSINHA, mediante argumentação genérica sem nenhuma avaliação fática, como ocorrido aqui" (fl. 99e), circunstância a afastar a incidência da Súmula 7/STJ.
+Requer, por fim, "a reconsideração da decisão proferida, para que seja conhecido e provido o recurso especial interposto" (fl. 99e).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. SISBAJUD. TEIMOSINHA. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO INATACADO. SÚMULA 283/STF. REVISÃO DOS ASPECTOS CONCRETOS DA CAUSA. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Fundamentado o recurso especial na alínea a do permissivo constitucional e não indicados, objetivamente, os dispositivos legais supostamente violados, resta inviabiliza a exata compreensão da controvérsia, impedindo o conhecimento do inconformismo, por deficiência na fu ndamentação recursal, a teor da Súmula 284/STF.
+3. A ausência de impugnação específica aos fundamentos do acórdão recorrido atrai a incidência do óbice da Súmula 283/STF.
+4. A revisão da conclusão a que chegou o Tribunal de origem, para verificar a possibilidade de utilização da ferramenta, no caso concreto, implicaria no necessário revolvimento dos aspectos concretos da causa, o que é vedado, na via especial, pela Súmula 7/STJ.
+5. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Destaco, inicialmente, que o recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+Não assiste razão à parte agravante.
+Com efeito, a decisão ora agravada não conheceu do recurso especial pela incidência da Súmula 284/STF, pois "a parte recorrente não individualizou qual dispositivo de lei federal ou tratado se apresenta malferido. De fato, revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica, de forma objetiva e direta, qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso" (fl. 88e).
+No presente recurso, a parte agravante afirma que "apontou especificamente a infringência aos arts. 789, 797, 835, I, 854, §3º, I e II, do CPC e arts. 11, I, da LEF" (fl. 95e), mas o trecho que transcreve, extraído do especial, não faz referência a tais dispositivos.
+Assim, não merece reparo a conclusão da decisão agravada quanto à deficiência das razões recursais que, por si só, impede o conhecimento do especial, interposto com fundamento na alínea a do permissivo constitucional.
+A decisão agravada, por outro lado, concluiu pela aplicação do óbice da Súmula 283/STJ, ao fundamento de que as razões recursais não atacam a fundamentação adotada pelo Tribunal a quo, sobretudo de que "a utilização do SISBAJUD, de forma automática e reiterada, pelo prazo de 30 dias, pode inviabilizar o exercício da atividade econômica do devedor, ao privá-lo de todos os recursos financeiros que ingressam em sua conta-corrente", bem como de que, "a utilização da ferramenta de reiteração automática em face de uma pessoa natural importa em violação ao princípio do mínimo existencial" (fl. 88e). O trecho transcrito na minuta do agravo interno, à fl. 96e, porém, não infirma tal fundamentação, pois trata apenas do ônus da prova, quando rejeitada ou não apresentada manifestação pelo executado, na forma do art. 854, § 5º, do CPC/2015.
+Como não bastasse, verificar a possibilidade de utilização da ferramenta, no caso concreto, como pretende a parte recorrente, implicaria no necessário revolvimento dos aspectos concretos da causa, o que é vedado, na via especial, pela Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
