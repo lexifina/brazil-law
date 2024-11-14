@@ -1,0 +1,35 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO e REMESSA NECESSÁRIA — AÇÃO ORDINÁRIA — SERVIDORA PÚBLICA DO MUNICÍPIO DE RIBEIRÃO DOS ÍNDIOS — ADICIONAL DE INSALUBRIDADE — ENFERMEIRA — Pretensão de revisão de percentual de adicional de insalubridade para 40%(quarenta por cento) sobre o salário-mínimo — Sentença de procedência em parte, para declarar o direito da apelada ao recebimento de adicional de insalubridade em grau máximo, no patamar de 40% (quarenta por cento) do salário-mínimo, a partir de março de 2.020 até a entrada em vigor da Port. GM/MS n° 93, de 22/04/2.022, com determinação de apostilamento e condenação do apelante ao pagamento das diferenças vencidas — Pleito de anulação da r. sentença, ou, subsidiariamente, de sua reforma para o afastamento da condenação ao pagamento das diferenças do adicional de insalubridade em grau máximo no período de março de 2.020 até a entrada em vigor da Port. GM/MS nº 93, de 22/04/2.022, e para a fixação por equidade dos honorários advocatícios de sucumbência — Não cabimento — PRELIMINAR do apelante — Sentença “ultra petita” — Afastamento — Interpretação do pedido que deve considerar o conjunto da postulação e observar o princípio da boa-fé, nos termos do art. 322, § 2º, do CPC — Condenação do apelante ao pagamento de diferenças vencidas anteriormente à propositura da ação ordinária que, apesar de não explícita, pode ser extraída da petição inicial, bem como de planilha de cálculos apresentada pela apelada — MÉRITO — Benefício previsto na Lei Mun. nº 70, de 30/04/1.998 (Est. do Serv. Púb. Mun. de Ribeirão dos Índios) — Laudo pericial que concluiu pela existéncia da condição de insalubridade nas atividades laborativas desenvolvidas pela apelada em grau máximo, tão somente no período da pandemia de COVID-19 — Laudo pericial que possui natureza declaratória e não constitutiva — Precedentes desta 3ª Câm. de Dir. Púb. — HONORÁRIOS ADVOCATÍCIOS — Necessidade de liquidação da r. sentenca que não torna inestimável ou irrisório o proveito econômico obtido pela apelada, a autorizar a sua fixação por equidade, mas tão somente posterga, para momento posterior à liquidação de sentença, a definição do valor preciso a ser pago pelo apelante a título de honorários advocatícios de sucumbência — JUROS E CORREÇÃO MONETÁRIA — Observância do decidido no TEMA nº 810, de 20/11/2.017, do STF, até a entrada em vigor da EC nº 113, de 09/12/2.021, quando a correção monetária e os juros de mora passam a ser calculados pela Taxa SELIC — APELAÇÃO não provida e REMESSA NECESSÁRIA provida em parte, para determinar que as diferenças vencidas do adicional de insalubridade, sejam atualizadas conforme a EC nº 113, de 09/12/2.021, a partir de sua vigência. Majoração dos honorários advocatícios, em segunda instância, em 2% (dois por cento), além dos 10% (dez por cento) já fixados em sentença, sobre o valor das parcelas em atraso, a ser definido em liquidação de sentença, em desfavor do apelante, nos termos do art. 85, 811, do CPC.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 7º, XXIII, e 37 da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência das Súmulas nºs 279 e 280 desta Corte. Sobre o tema, a propósito:
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Servidor público. Guarda Civil. Adicional de insalubridade. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria ínsita ao plano normativo local, tampouco para o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE 1.198.743-AgR, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe de 19/06/2019).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 5.6.2017. DIREITO ADMINISTRATIVO. AGENTES PENITENCIÁRIOS ESTADUAIS. ADICIONAL DE INSALUBRIDADE. CUMULAÇÃO COM SUBSÍDIO. REEXAME DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. ARTS. 1.021, §1º, CPC, E 317, § 1º, do RISTF. 1. É ônus do recorrente impugnar de modo específico os fundamentos da decisão agravada, nos termos do art. 1.021, § 1º, CPC, e 317, § 1º, RISTF, o que não ocorreu no caso. 2. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC. Inaplicável a norma do artigo 85, § 11, CPC, em virtude da não fixação anterior de honorários” (ARE 1.045.695-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe de 07/05/2019).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 26.9.2016. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE INSALUBRIDADE. INEXISTÊNCIA DE PREVISÃO LEGAL REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. 1. Nos termos da orientação firmada no Supremo Tribunal Federal, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia de fatos e provas e de legislação infraconstitucional. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os §§ 2º e 3º do mesmo dispositivo”. (ARE-AgR 991.075, Rel. Min. Edson Fachin, Segunda Turma, DJe 06/06/2018).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 14 de novembro de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
